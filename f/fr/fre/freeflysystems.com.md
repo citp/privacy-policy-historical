@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeflysystems.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003011934id_/http%3A//freeflysystems.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeflysystems.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503065433id_/http%3A//freeflysystems.com/privacy-policy) for the most accurate reproduction.*
 
 # Freefly Systems Privacy Policy
 
@@ -28,7 +28,7 @@ Web beacons are tiny graphics with a unique identifier that are used to track th
 
 **Ad Servers, Third Party Advertising, and Website Analytics**
 
-Freefly works with website analytics and advertising partners, including Google and Facebook, to deliver Freefly advertisements on third party publisher websites, and these partners may set cookies on your computer’s web browser. These cookies allow our partners to recognize your computer so that the ad server can show you Freefly advertisements elsewhere on the Internet, and so that our analytics software can measure your engagement and interactions while using freeflysystems.com.  As a result, ad servers may compile anonymous, non-personal information about where you, or others who are using your computer, saw our advertisements, whether or not you interacted with our advertisements and actions performed on subsequent visits to freeflysystems.com. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you, and it allows Freefly to optimize the performance of our advertising campaigns and the usability of our website.
+Freefly works with website analytics and advertising partners, including Google, Quantcast and Facebook, to deliver Freefly advertisements on third party publisher websites, and these partners may set cookies on your computer’s web browser. These cookies allow our partners to recognize your computer so that the ad server can show you Freefly advertisements elsewhere on the Internet, and so that our analytics software can measure your engagement and interactions while using freeflysystems.com.  As a result, ad servers may compile anonymous, non-personal information about where you, or others who are using your computer, saw our advertisements, whether or not you interacted with our advertisements and actions performed on subsequent visits to freeflysystems.com. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you, and it allows Freefly to optimize the performance of our advertising campaigns and the usability of our website.
 
 **Information from Other Sources**
 
@@ -58,6 +58,10 @@ Freefly does not share, sell, or rent to other third parties for their own promo
 **Third Party Service Providers**
 
 We use other third party service providers to offer or facilitate services on our behalf, such as payment processing and authorization, fraud protections and credit risk reduction, order fulfillment and shipping, marketing and promotional material distribution, website evaluation and data analysis.  We may need to share personal information with these third parties so that they can perform these services, however, we limit the personal information that we give to them and authorize them to use this information only for the purpose of performing those services.
+
+**Facebook Custom Audience Ads**
+
+We may display interest-based ads to you when you are using Facebook through Facebook’s Custom Audience Tool. The Custom Audience Tool allows us to personalize our ads based on your shopping experience with us. We do not share any of your personal information or your shopping history with Facebook. This tool allows us to convert your email address to a unique number that Facebook uses to match to unique numbers that Facebook generates from email addresses of its users. You may opt-out of Facebook Custom Audience ads from Freefly by emailing [marketing@freeflysystems.com](mailto:marketing@freeflysystems.com?subject=Facebook%20Custom%20Audience%20Ads%20Opt-Out) with this request.
 
 **Customer Testimonials**
 
@@ -97,6 +101,10 @@ Freefly’s Services are intended for general audiences and not for children und
 
 Freefly users may modify or remove any of their personal information collected by Freefly at any time by logging into their account. Users may also email us to correct or change any information by contacting Customer Support at support@freeflysystems.com.
 
+**OFFICIAL CONTEST RULES**
+
+Official contest rules for the MōVI M5 + MIMIC giveaway are available at this address: <http://freeflysystems.com/contest-rules-movi-m5-and-mimic>
+
 **OPT OUT / UNSUBSCRIBE**
 
 If you no longer wish to receive our newsletter and other communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [support@freeflysystems.com](mailto:support@freeflysystems.com).  If you want to opt-out from receiving communications from any this party that is not our agent or service provider, please contact that third party directly.
@@ -115,4 +123,4 @@ Woodinville, WA 98072
 
 If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy on our website so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this Privacy Policy at any time, so please review it frequently.
 
-_This Privacy Policy was last updated on September 15, 2015._
+_This Privacy Policy was last updated on December  4, 2015._
