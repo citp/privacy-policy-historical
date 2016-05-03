@@ -1,100 +1,123 @@
-> *The following text is extracted and transformed from the appradar.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230042340id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appradar.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503152307id_/https%3A//appradar.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy » App Radar the App Marketing Software
 
-**Go Daddy Respects Your Privacy**
+Our company appers gmbh (henceforth referred to as appers) treats your personal data very responsibly. We keep your personal information confidential and adhere to the data protection laws (such as § 96 paragraph 3 law of telecommunication 2003 and § 8 paragraph 4 law on data protection 2000), as well as this data protection policy. By using this website your agree to the following:
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+## 1\. Scope of Application
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+1.1. This policy describes how appers will use the personal information collected when you visit our websites and mobile applications that contain a link to this privacy policy. A Service may supplement this privacy policy with additional privacy terms or with additional privacy notices in connection with certain features of that Service.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+1.2. This privacy policy does not apply to websites, applications or mobile platforms that are not linked to this privacy policy or to those operated by third parties. We encourage you to review the privacy policies posted on those websites, applications and mobile platforms.
 
-**Information Collection and Use**
+## 2\. Collection of information
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+2.1. We collect information from you in two ways: directly from your input and automatically through the Website and Services offered by us.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+2.2. The types of information we collect directly from you may include the following as well as any other information type that we expressly ask you to enter and submit to the service:
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+(a) Contact information, such as your name, email address, mailing address and telephone number  
+(b) Usernames and passwords  
+(c) Comments and feedback  
+(d) Interests and communication preferences;   
+(e) Information given by you voluntarily such as position, departnment, company registry number, webpage, customer number and tax regsitry number  
+(f) Information on services purchased by you  
+(g) Information on billing and mode of payment  
+(h) Security question and security answer
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+2.3. Automatically collected information  
+We automatically collect certain information regarding your use of the Service to improve security and user-friendliness. Examples of information collected automatically include:
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+(a) Internet Protocol (“IP”) address used to connect your computer to the Internet;   
+(b) Computer, device and connection information, such as browser type and version, operating system, mobile platform and unique device identifier (“UDID”) and other technical identifiers;   
+(c) Uniform Resource Locator (“URL”) click stream data, including date and time, and content you viewed or searched for on a Service.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+2.4. Cookies and Web Beacons  
+appers uses so called “session“ cookies, „persistent“ cookies and Web Beacons. Cookies are small text files that a website sends to the browser on your computer or mobile device when you first visit a web page so that the website can recognise your device the next time you visit. Additionally, cookies are used to effect certain usage functions. appers does not collect personal data via cookies or web beacons. Partially, the usage of our services is possible without cookies. We inform you that in this case it is possible that not all functions of our service can be used fully.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+(a) “Session” cookies which are temporary and deleted when you close your browser  
+(b) “Persistent” cookies, which remain until you delete them or they expire;   
+(c) which are electronic images also known as single-pixel gifs
 
-**Security**
+2.5. Cookies Used  
+In this list (cookie-list) you find the cookies and web-beacons used by us. As regards so called “third party cookies” such as that of Google Inc you will find a link to the latest data privacy policy known to us.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
+Our newsletter and HTML e-mails may contain web beacons. That can establish if emails were opened and if links therein were clicked. We use this information to improve our email service and to find out, which information is read or clicked the most. By deleating the email the web beacon is deleted automatically as well. Our text-only emails contain no web beacons.
 
-**Updating Your Information**
+By using this websit you agree to the reading, proceeding, transferral and saving of informaiton gathered via cookies and web beacons.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+2.6. Disable Cookies  
+There are a number of ways to manage cookies. The “help” portion of the toolbar on most browsers will tell you how to stop accepting cookies, how to be notified when you receive a new browser cookie, and how to disable existing browser cookies. However, if you block cookies, you may not be able to register, login or make full use of the Service. You can also use your mobile device’s settings to manage the available privacy options.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+2.7. Web Analytics  
+This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer to help the website analyse how visitors use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States . Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+This website uses Retargeting thechnology. This enables us to contact internet users with specific advertisement, who have showed interest in our service and products before. Studies have shown that the display of personalized advertisement with a connection to the users’ interest is more interesting to the user than general advertisement. The display is based on an analysis of the users’ behaviour via cookies. No personal data is stored and the usage takes place with regard to the laws for data protection. We cooperate with Google Inc. (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA). If you are not willing to have interest-focused advertisement provided to your by Google inc, you can disable this function here. Please note. An opt-out will be made via cookie. If you delete all cookies, also the opt-out cookie will be deleted in which case you need to activate the cookie again. The opt-out cookie is active for a single computer and browser.
 
-      iii.      You may call us at: (480) 505-8800
+2.8. The usage of these tools helps us to improve our tools and services continuously. Only non-personal data is collected for analysis and reporting. Such data is not connected with personal data.
 
-       iv.      You may fax us at: (480) 505-8844
+2.9. By using this website your agree to the proceeding of the data collected on your behaviour according to the provisions above.
 
-**Sending Emails**
+## 3\. Usage of your personal information
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+According to § 24 law on data protection (DSG 2000) we inform you that we will use your personal information with your consent according to § 8 para 3 No 4 DSG 2000 for the following purposes:
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+(a) to fulfill and administer our contracts   
+(b) to provide and improve our service and support,   
+(c) to get in contact with you  
+(d) to personalize our service   
+(e) to invite you to polls and other marketing activities  
+(f) for data analysis;   
+(g) for internal controll;   
+(h) to develop new products;   
+(i) to establish usage trends;   
+(j) determining the effectiveness of our promotional campaigns  
+(k) to prevent and detect security threats, fraud or other malicious activity  
+(l) to protect online access;   
+(m) to create calculations and statistics on access behaviour (e.g numer of accesses to a source, accesses of a costumer in total and per source, changes in access frequency);   
+(n) to assist you in completing and to fulfill a transaction or order.   
+We may on occasion also match or combine the personal information that you provide with information that we obtain from other sources or that is already in our records, whether collected online or offline or by predecessor or affiliated group companies, for the purposes described above.
 
-**Compliance with Laws and Law Enforcement**
+## 4\. Sharing or disclosing your personal information
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+4.1. The above mentioned data will – in general – not be shared or disclosed to third parties not already mentioned.
 
-**Third Party Service Providers**
+4.2. We may share your personal information for the following reasons:
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+(a) to comply with authorities, laws or executions;   
+(b) prevent security threats, fraud or other malicious activityum die Rechte und das Eigentum von appers zu schützen oder durchzusetzen oder   
+(c) protect the rights or personal safety of our employees and third parties
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+4.3. The Service also may provide access to social media features, message boards, chat, forums, blogs, profile pages and other services to which you are able to post personal information and materials. Any information you post or disclose through these services is public. Please be careful when disclosing personal information in these public areas.
 
-**Supplementation of Information**
+## 5\. Privacy Policy in view of children
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+We do not knowingly collect information from children under the age of 14 and do not target our websites to children under 14. Users under the age of 14 are asked to obtain the permission of a parent or legal guardian before sharing personal information.
 
-**Contests/Surveys**
+## 6\. Access to and accuracy of your personal information
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+You may request access to the personal information we hold about you. You may also request to review and correct any of that personal information. We inform you that possible the usage of our services is impossible for you partially or wholly. You can ask for a check and correction of your personal information. To this end, get in contact with us.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+## 7\. Data Security
 
-**Tell-A-Friend**
+We use a variety of data security measures intended to ensure the confidentiality, and integrity of your personal information. Please be advised that unencrypted emails may be accessible for others.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+## 8\. Changes to our privacy policy
 
-**What Happens to my Personal Information if I Opt Out?**
+If we modify this privacy policy, we will post the revised version here, with an updated revision date.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+## 9\. Cross-border transfer of personal information
 
-**Transfer of Data Abroad**
+9.1. Your personal information may be transferred to other countries for processing.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+9.2. By using our services you agree to the transferral of your data to countries other than your seat of residence, which may have different data protection laws.
 
-**Changes in Our Practices**
+## 10\. Contact
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+If you have comments or questions about this privacy policy or our processing of your information, please contact:
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+appers gmbh  
+Kärntner Straße 391/7  
+8054 Graz  
+AUSTRIA  
+Email: hello@appers.co
