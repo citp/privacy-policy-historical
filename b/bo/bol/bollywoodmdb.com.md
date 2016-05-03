@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollywoodmdb.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207125037id_/http%3A//www.bollywoodmdb.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywoodmdb.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503104730id_/http%3A//www.bollywoodmdb.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,4 +31,4 @@ BollywoodMDB.com is not intended for use by children under the age of 13. If you
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://resource.bollywoodmdb.com/contact). 
 
-©2015 BollywoodMDB.com. All rights reserved. 
+©2016 BollywoodMDB.com. All rights reserved. 
