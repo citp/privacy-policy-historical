@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the getmeregistered.com privacy policy that was archived on 2015-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905160927id_/https%3A//secure.getmeregistered.com/privacy_policy.php%23top) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the getmeregistered.com privacy policy that was archived on 2016-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160503132744id_/https%3A//secure.getmeregistered.com/privacy_policy.php%23top) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html lang="en" dir="ltr"><!--[endif]----><head>
 	<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE">
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 	<title>privacy policy at GetMeRegistered.com</title>
@@ -15,13 +15,18 @@
 	</script>
 	<![endif]-->
 
-	<link type="text/css" rel="stylesheet" href="https://d2pe17571iz33b.cloudfront.net/includes/general.min.css">
-	<link type="text/css" rel="stylesheet" href="https://d2pe17571iz33b.cloudfront.net/includes/main.css">
-	<link type="text/css" rel="stylesheet" href="https://d2pe17571iz33b.cloudfront.net/includes/mobile.min.css">
-	<link type="text/css" rel="stylesheet" media="screen" href="https://d2pe17571iz33b.cloudfront.net/includes/superfish.css">
-
 	<link type="image/x-icon" rel="icon" href="/favicon.ico">
 	<link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
+
+	<!-- CSS -->
+	<link type="text/css" rel="stylesheet" href="https://d2pe17571iz33b.cloudfront.net/assets/vendor/font-awesome/4.4.0/css/font-awesome.min.css">
+	<link type="text/css" rel="stylesheet" href="https://d2pe17571iz33b.cloudfront.net/includes/general.min.css">
+	<link type="text/css" rel="stylesheet" href="https://d2pe17571iz33b.cloudfront.net/assets/css/layout.css">
+	<link type="text/css" rel="stylesheet" href="https://d2pe17571iz33b.cloudfront.net/includes/main.css">
+	<link type="text/css" rel="stylesheet" href="https://d2pe17571iz33b.cloudfront.net/assets/css/layout-responsive.css">
+	<link type="text/css" rel="stylesheet" href="https://d2pe17571iz33b.cloudfront.net/includes/mobile.min.css">
+	<link type="text/css" rel="stylesheet" href="https://d2pe17571iz33b.cloudfront.net/assets/css/gmr-main-responsive.css">
+	<link type="text/css" rel="stylesheet" media="screen" href="https://d2pe17571iz33b.cloudfront.net/includes/superfish.css">
 
 	<!-- Open Graph & Twitter Cards -->
 	<meta property="og:site_name" content="Get Me Registered">
@@ -30,7 +35,6 @@
 
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="@endresultco">
-
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="privacy policy at GetMeRegistered.com">
 	<meta property="og:description" content="privacy policy at GetMeRegistered.com">
@@ -49,6 +53,9 @@
 	<script type="text/javascript">
 		var switchTo5x = true; // Share This
 		var reminders = [];
+
+		// Add "js" class to html element
+		addClass(document.documentElement, "js");
 
 		function jQueryDependents() {
 
@@ -91,146 +98,152 @@
 		asyncLoadScript("//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js", "gmrJqueryScript", function() { jQueryDependents(); });
 
 	</script>
+	<script>
+		// GN 04-05-2016
+		function autofill_participant(member_i) {
+			if (document.getElementById("copy_participant" + member_i).checked == true) {
+				if (!(document.getElementById('participant['+ member_i +'][address]').value).trim()) {
+					document.getElementById('participant['+ member_i +'][address]').value = document.getElementById('participant[' + (member_i - 1) + '][address]').value;
+				}
+
+				if (!(document.getElementById('participant['+ member_i +'][city]').value).trim()) {
+					document.getElementById('participant['+ member_i +'][city]').value = document.getElementById('participant[' + (member_i - 1) + '][city]').value;
+				}
+
+				if (!(document.getElementById('participant['+ member_i +'][state]').value).trim()) {
+					document.getElementById('participant['+ member_i +'][state]').value = document.getElementById('participant[' + (member_i - 1) + '][state]').value;
+				}
+
+				if (!(document.getElementById('participant['+ member_i +'][postal_code]').value).trim()) {
+					document.getElementById('participant['+ member_i +'][postal_code]').value = document.getElementById('participant[' + (member_i - 1) + '][postal_code]').value;
+				}
+			}
+
+			if (document.getElementById("copy_participant" + member_i).checked == false) {
+				// 4/14/16 - ART
+				// If they uncheck the box, don't bother doing anything.
+				//document.getElementById('participant['+ member_i +'][address]').value = "";
+				//document.getElementById('participant['+ member_i +'][city]').value = "";
+				//document.getElementById('participant['+ member_i +'][state]').value = "";
+				//document.getElementById('participant['+ member_i +'][postal_code]').value = "";
+			}
+		}
+	</script>
+
 </head>
-<body>
-<div id="fb-root"></div>
-<div id="container">
-	<div id="header-wrapper">
-		<div id="header">
-			<a href="/">
-				<img class="logo" src="https://d2pe17571iz33b.cloudfront.net/images/logo.png" alt="GetMeRegistered.com logo" width="369" height="96">
-			</a>
-			<div id="header-search">
-				<form action="/search.php#top" method="post">
-					<fieldset>
-						<input type="text" name="search_for" placeholder="Search by Event / City / State" value="Search by Event / City / State" class="input-box" onclick="if (this.value == 'Search by Event / City / State') { this.value = ''; }"><input type="submit" name="submit_button" value="" class="search-button">
-						<input type="hidden" name="submit_action" value="search">
-					</fieldset>
-				</form>
-			</div>
-			<h3>A BETTER WAY TO <span>REGISTER</span></h3>
-			<div id="header-nav">
-				<ul class="sf-menu">
-					<li class="current"><a href="/submit_your_event.php#top"><b>SUBMIT EVENT</b></a>
-					<!--
-						<ul>
-							<li class="li_first"></li>
-							<li><a href="#">How To Submit An Event</a></li>
-							<li><a href="#">Processing Rates</a></li>
-							<li><a href="#">Refund Policy</a></li>
-							<li><a href="#">Event Directors</a></li>
-						</ul>
-					-->
-					</li>
-					<li><a href="/confirm.php#top"><b>CONFIRM ENTRY</b></a>
-						<ul>
-							<li class="li_first"></li>
-							<li><a href="/get_confirmation.php#top">Resend Confirmation</a></li>
-						</ul>
-					</li>
-					<li><a href="/about.php#top"><b>ABOUT</b></a>
-						<ul>
-							<li class="li_first"></li>
-							<li><a href="/getmeregistered_difference.php#top">The GMR Difference</a></li>
-							<li><a href="/services/social-media-and-sharing.php#top">GMR App for Facebook</a></li>
-							<li><a href="/services/social-media-and-sharing.php#social-media">Social Media</a></li>
-							<li><a href="/services/charity-fundraising-and-donations.php#top">Fundraising &amp; Donations</a></li>
-							<li><a href="/services/volunteer-management-and-assignment.php#top">Volunteer Management</a></li>
-							<li><a href="/services/online-registration-button.php#top">Registration Button</a></li>
-							<li><a href="/services/mobile-and-responsive.php#top">Mobile &amp; Responsive</a></li>
-							<li><a href="/services/unique-qr-code.php#top">Unique Event QR Code</a></li>
-							<li><a href="/services/confirm-entry-widget.php#top">Confirm Entry Widget</a></li>
-						</ul>
-					</li>
-					<li><a href="/contact.php#top"><b>CONTACT</b></a></li>
-				</ul>
-			</div>
-		</div>
-	</div><!--header wrapper end-->
-		<div id="content-wrapper">
-				<div id="panels-box">
-		<!--
-			<div id="panels">
-				<div id="panel-1">
-					<h3><a href="/search.php#top">Search for Events</a></h3>
-					<p>Search our full line of upcoming events and find the one you're looking for. <a href="/search.php">Click here...</a></p>
-				</div>
-				<div id="panel-2">
-					<h3><a href="/submit_your_event.php#top">Submit Your Event</a></h3>
-					<p>Find out how easy it is to get your secure online event registration up and running. <a href="/submit_your_event.php">Click here...</a></p>
-				</div>
-				<div id="panel-3">
-					<h3><a href="/confirm.php#top">Confirm Your Entry</a></h3>
-					<p>Confirm your registration for an event and have a copy of your confirmation email re-sent. <a href="/confirm.php">Click here...</a></p>
-				</div>
-			</div>
-		-->
-			<div id="panel-groups">
-				<div class="panel-group">
-					<div id="panel-search" class="panel-tab">
-						<h3><a href="/search.php#top">Search for Events</a></h3>
-						<p>
-							Search our full line of upcoming events and find the one you're looking for.
-							<a href="/search.php#top">Click here...</a>
-						</p>
-					</div>
-					<div id="panel-submit-event" class="panel-tab">
-						<h3><a href="/submit_your_event.php#top">Submit Your Event</a></h3>
-						<p>
-							Find out how easy it is to get your secure online event registration up and running.
-							<a href="/submit_your_event.php#top">Click here...</a>
-						</p>
-					</div>
-					<div id="panel-registration-button" class="panel-tab">
-						<h3><a href="/services/online-registration-button.php#top">Registration Button</a></h3>
-						<p>
-							Add your event-specific, linkable online registration button to your website or blog.
-							<a href="/services/online-registration-button.php#top">Click here...</a>
-						</p>
-					</div>
-				</div>
-				<div class="panel-group">
-					<div id="panel-mobile-responsive" class="panel-tab">
-						<h3><a href="/services/mobile-and-responsive.php#top">Mobile &amp; Responsive</a></h3>
-						<p>
-							Easily register anywhere and manage your event on your smartphone or tablet.
-							<a href="/services/mobile-and-responsive.php#top">Click here...</a>
-						</p>
-					</div>
-					<div id="panel-qr-code" class="panel-tab">
-						<h3><a href="/services/unique-qr-code.php#top">Unique Event QR Code</a></h3>
-						<p>
-							A unique, event-specific QR Code is created for your event marketing materials.
-							<a href="/services/unique-qr-code.php#top">Click here...</a>
-						</p>
-					</div>
-					<div id="panel-confirm-widget" class="panel-tab">
-						<h3><a href="/services/confirm-entry-widget.php#top">Confirm Entry Widget</a></h3>
-						<p>
-							Add your event-specific, entry confirmation widget to your website or blog.
-							<a href="/services/confirm-entry-widget.php#top">Click here...</a>
-						</p>
-					</div>
-				</div>
-			</div>
-		</div>
-				<div id="content">
-		<div id="content-inner-wrapper" class="clearfix">
-			<div id="sidebar">
-							<div class="section" id="section-search">
+<body id="gmr-body-privacy-policy">
+	<div id="fb-root"></div>
+	<div id="container">
+		<div id="header-wrapper">
+			<div id="header">
+				<a href="/">
+					<img class="logo" src="https://d2pe17571iz33b.cloudfront.net/images/logo.png" alt="GetMeRegistered.com logo" width="369" height="96">
+				</a>
+				<div id="header-search">
 					<form action="/search.php#top" method="post">
-						<h2>Search Events</h2>
 						<fieldset>
-						<ul>
-							<li>
-								<input type="text" name="search_for" value="Event Name..." placeholder="Event Name..." class="input-box-2" required="" onclick="if (this.value == 'Event Name...') { this.value = ''; }"><input type="submit" name="submit_button" value="" class="search-button">
-								<input type="hidden" name="submit_action" value="search">
-							</li>
-						</ul>
+							<input type="text" name="search_for" placeholder="Search by Event / City / State" value="Search by Event / City / State" class="input-box" onclick="if (this.value == 'Search by Event / City / State') { this.value = ''; }"><input type="submit" name="submit_button" value="" class="search-button">
+							<input type="hidden" name="submit_action" value="search">
 						</fieldset>
 					</form>
 				</div>
-			
+				<h3>A BETTER WAY TO <span>REGISTER</span></h3>
+				<div id="header-nav">
+					<ul class="sf-menu">
+						<li class="current"><a href="/submit_your_event.php#top"><b>SUBMIT EVENT</b></a></li>
+						<li><a href="/confirm.php#top"><b>CONFIRM ENTRY</b></a>
+							<ul>
+								<li class="li_first"></li>
+								<li><a href="/get_confirmation.php#top">Resend Confirmation</a></li>
+							</ul>
+						</li>
+						<li><a href="/about.php#top"><b>ABOUT</b></a>
+							<ul>
+								<li class="li_first"></li>
+								<li><a href="/getmeregistered_difference.php#top">The GMR Difference</a></li>
+								<li><a href="/services/social-media-and-sharing.php#top">GMR App for Facebook</a></li>
+								<li><a href="/services/social-media-and-sharing.php#social-media">Social Media</a></li>
+								<li><a href="/services/charity-fundraising-and-donations.php#top">Fundraising &amp; Donations</a></li>
+								<li><a href="/services/volunteer-management-and-assignment.php#top">Volunteer Management</a></li>
+								<li><a href="/services/online-registration-button.php#top">Registration Button</a></li>
+								<li><a href="/services/mobile-and-responsive.php#top">Mobile &amp; Responsive</a></li>
+								<li><a href="/services/unique-qr-code.php#top">Unique Event QR Code</a></li>
+								<li><a href="/services/confirm-entry-widget.php#top">Confirm Entry Widget</a></li>
+							</ul>
+						</li>
+						<li><a href="/contact.php#top"><b>CONTACT</b></a></li>
+					</ul>
+				</div>
+			</div>
+		</div> <!-- end header-wrapper -->
+		<div id="content-wrapper">
+			<div id="panels-box">
+				<div id="panel-groups">
+					<div class="panel-group">
+						<div id="panel-search" class="panel-tab">
+							<h3><a href="/search.php#top">Search for Events</a></h3>
+							<p>
+								Search our full line of upcoming events and find the one you're looking for.
+								<a href="/search.php#top">Click here...</a>
+							</p>
+						</div>
+						<div id="panel-submit-event" class="panel-tab">
+							<h3><a href="/submit_your_event.php#top">Submit Your Event</a></h3>
+							<p>
+								Find out how easy it is to get your secure online event registration up and running.
+								<a href="/submit_your_event.php#top">Click here...</a>
+							</p>
+						</div>
+						<div id="panel-registration-button" class="panel-tab">
+							<h3><a href="/services/online-registration-button.php#top">Registration Button</a></h3>
+							<p>
+								Add your event-specific, linkable online registration button to your website or blog.
+								<a href="/services/online-registration-button.php#top">Click here...</a>
+							</p>
+						</div>
+					</div>
+					<div class="panel-group">
+						<div id="panel-mobile-responsive" class="panel-tab">
+							<h3><a href="/services/mobile-and-responsive.php#top">Mobile &amp; Responsive</a></h3>
+							<p>
+								Easily register anywhere and manage your event on your smartphone or tablet.
+								<a href="/services/mobile-and-responsive.php#top">Click here...</a>
+							</p>
+						</div>
+						<div id="panel-qr-code" class="panel-tab">
+							<h3><a href="/services/unique-qr-code.php#top">Unique Event QR Code</a></h3>
+							<p>
+								A unique, event-specific QR Code is created for your event marketing materials.
+								<a href="/services/unique-qr-code.php#top">Click here...</a>
+							</p>
+						</div>
+						<div id="panel-confirm-widget" class="panel-tab">
+							<h3><a href="/services/confirm-entry-widget.php#top">Confirm Entry Widget</a></h3>
+							<p>
+								Add your event-specific, entry confirmation widget to your website or blog.
+								<a href="/services/confirm-entry-widget.php#top">Click here...</a>
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div id="content">
+				<div id="content-inner-wrapper" class="clearfix">
+					<div id="sidebar">
+						<div class="section" id="section-search">
+							<form action="/search.php#top" method="post">
+								<h2>Search Events</h2>
+								<fieldset>
+									<ul>
+										<li>
+											<input type="text" name="search_for" value="Event Name..." placeholder="Event Name..." class="input-box-2" required="" onclick="if (this.value == 'Event Name...') { this.value = ''; }"><input type="submit" name="submit_button" value="" class="search-button">
+											<input type="hidden" name="submit_action" value="search">
+										</li>
+									</ul>
+								</fieldset>
+							</form>
+						</div>
+
 <div class="section" id="section-confirm">
 	<form action="/confirm.php#top" method="post">
 			<h2>Confirm An Entry</h2>
@@ -247,77 +260,89 @@
 		</fieldset>
 	</form>
 </div>
-      <div class="section" id="section-user-login">
-      <form action="/account/login.php#top" method="post">
-         <fieldset>
-            <h2>Account Login</h2>
-                     <p>Not necessary to register</p>
-                     <ul>
-               <li id="username-menu-label" style="display: none;"><label for="username-menu">username</label></li>
-               <li><input type="text" name="username" id="username-menu" placeholder="username" value="" size="8" maxlength="16" class="input-box" required=""></li>
-               <li id="password-menu-label" style="display: none;"><label for="password-menu">password</label></li>
-               <li><input type="text" name="password" id="password-menu" placeholder="password" size="8" maxlength="16" class="input-box" autocomplete="off" required=""></li>
-               <li>
-                  <div>
-                     <input type="submit" value="Login" class="login-button">
-                     <input type="hidden" name="submit_action" value="login">
-                     <input type="hidden" name="goal_url" value="/privacy_policy.php">
-                     <span><a href="/account/create.php#top" title="An account will help you register faster">Create Account</a></span>
-                     <span><a href="/account/get_password.php#top" title="Click here if you forgot your password">Forgot Password?</a></span>
-                  </div>
-               </li>
-            </ul>
-         </fieldset>
-      </form>
-      </div>
-      <script type="text/javascript">
-         (function () {
-            try {
-               var usField = document.getElementById('username-menu');
-               var pwField = document.getElementById('password-menu');
+	<div class="section" id="section-user-login">
+		<form action="/account/login.php#top" method="post">
+			<fieldset>
+				<h2>Account Login</h2>
+				<p>Not necessary to register</p>
+				<ul>
+					<li id="username-menu-label" style="display: none;">
+						<label for="username-menu">username</label>
+					</li>
+					<li>
+						<input type="text" name="username" id="username-menu" required="" autocomplete="off" placeholder="username" size="16" maxlength="16" class="input-box">
+					</li>
+					<li id="password-menu-label" style="display: none;">
+						<label for="password-menu">password</label>
+					</li>
+					<li>
+						<input type="text" name="password" id="password-menu" required="" autocomplete="off" placeholder="password" size="16" maxlength="64" class="input-box">
+					</li>
+					<li>
+						<div>
+							<input type="submit" name="submit_action" value="Log In" class="login-button">
+							<input type="hidden" name="goal_url" value="/privacy_policy.php">
+							<span><a href="/account/create.php#top" title="An account will help you register faster">Create Account</a></span>
+							<span><a href="/account/get_password.php#top" title="Click here if you forgot your password">Forgot Password?</a></span>
+						</div>
+					</li>
+					<li class="stop-bot">
+						<label for="email_2016123">Enter an email address unless you want this to work:</label>
+					</li>
+					<li class="stop-bot">
+						<input type="email" name="email_2016123" id="email_2016123" autocomplete="off" value="" placeholder="Enter an email address unless you want this to work" maxlength="64">
+					</li>
+				</ul>
+				<input type="hidden" name="gmr_csrf_token" value="4058d3bfd6de113301c8555727600a6e00b8cbeeea7a0f6552c3ac3e5189d4271f9c71f111d34951e5149cc33acefaf74b896b1098f97ba8d0af5c0ecfdf6aa6">
+				<input type="hidden" name="load_time" value="1462282064">
+			</fieldset>
+		</form>
+	</div>
 
-               var usFieldLabel = document.getElementById('username-menu-label');
-               var pwFieldLabel = document.getElementById('password-menu-label');
+	<script type="text/javascript">
+		(function () {
+			try {
+				var usField = document.getElementById("username-menu"),
+					pwField = document.getElementById("password-menu"),
+					usFieldLabel = document.getElementById("username-menu-label"),
+					pwFieldLabel = document.getElementById("password-menu-label");
 
-               // these two statements will throw an exception if
-               // type-changing is not supported by the current browser
-               // (IE through version 8)
-               pwField.type = 'password';
-               pwField.type = 'text';
+				// these two statements will throw an exception if
+				// type-changing is not supported by the current browser
+				// (IE through version 8)
+				pwField.type = "password";
+				pwField.type = "text";
 
-               // label the fields
-               usField.value = 'username';
-               pwField.value = 'password';
+				// label the fields
+				usField.value = "username";
+				pwField.value = "password";
 
-               // hide the text labels
-               usFieldLabel.style.display = 'none';
-               pwFieldLabel.style.display = 'none';
+				// hide the text labels
+				usFieldLabel.style.display = "none";
+				pwFieldLabel.style.display = "none";
 
-               // trigger the code to remove the label and switch the
-               // password field type when each form element is focused.
-               usField.addEventListener('focus', initializeSidebarUserField, false);
-               pwField.addEventListener('focus', switchSidebarPWFieldType, false);
-            }
-            catch(error) {
-               // alert(error.message);
-            }
-         }) ();
-         function initializeSidebarUserField() {
-            if (this.value == 'username') { this.value = ''; }
-         } // end initializeSidebarUserField definition
-         function switchSidebarPWFieldType() {
-            if (this.value == 'password') { this.value = ''; }
-            if (this.type == 'text')
-            {
-               this.type = 'password';
-            }
-         } // end switchSidebarPWFieldType definition
-      </script>
-			</div><!-- end sidebar -->
-		<a name="top" id="top"></a>
-		<div id="main-content">
-			<div id="main-content-box">
-	<!-- END HEADER -->
+				// trigger the code to remove the label and switch the
+				// password field type when each form element is focused.
+				addEventHandler(usField, "focus", initializeSidebarUserField, false, false);
+				addEventHandler(pwField, "focus", switchSidebarPWFieldType, false, false);
+			}
+			catch(error) {
+				// alert(error.message);
+			}
+		}) ();
+		function initializeSidebarUserField() {
+			if ("username" === this.value) { this.value = ""; }
+		} // end initializeSidebarUserField definition
+		function switchSidebarPWFieldType() {
+			if ("password" === this.value) { this.value = ""; }
+			if ("text" === this.type) { this.type = "password"; }
+		} // end switchSidebarPWFieldType definition
+	</script>
+					</div> <!-- end sidebar -->
+					<a name="top" id="top"></a>
+					<div id="main-content">
+						<div id="main-content-box">
+<!-- END HEADER -->
 
 
 <h1>Our Privacy Policy and Our Promise</h1>
@@ -364,32 +389,28 @@ service@getmeregistered.com
 </a></p><a href="/contact.php#top">
 </a>
 <p></p>
-            </div> <!-- end maincontent_box -->
-         </div> <!-- end maincontent -->
-         </div> <!-- end content-inner-wrapper -->
-            <!-- BEGIN FOOTER -->
-		<div id="content-bottom" class="clearfix">
-         <hr>
-         <table id="pci-dss-compliant"><tbody><tr><td><script src="https://sealserver.trustkeeper.net/compliance/seal_js.php?code=w6oj3BlmFtNVLcVfEWMpiqnR2uwWgo&amp;style=normal&amp;size=105x54&amp;language=en"></script><noscript><a href="https://sealserver.trustkeeper.net/compliance/cert.php?code=w6oj3BlmFtNVLcVfEWMpiqnR2uwWgo&amp;style=normal&amp;size=105x54&amp;language=en" target="hATW"><img src="https://sealserver.trustkeeper.net/compliance/seal.php?code=w6oj3BlmFtNVLcVfEWMpiqnR2uwWgo&amp;style=normal&amp;size=105x54&amp;language=en" alt="Trusted Commerce" height="54" width="105" /></a></noscript></td></tr></tbody></table>
-
-         
-			<ul class="icon-list">
-				<li>
-					<img src="https://d2pe17571iz33b.cloudfront.net/images/icon_cc_discover.png" alt="Discover Card" height="40" width="41">
-					<img src="https://d2pe17571iz33b.cloudfront.net/images/icon_cc_mastercard.png" alt="MasterCard" height="40" width="41">
-					<img src="https://d2pe17571iz33b.cloudfront.net/images/icon_cc_visa.png" alt="Visa" height="40" width="41">
-					<img src="https://d2pe17571iz33b.cloudfront.net/images/icon_cc_americanexpress.png" alt="American Express" height="40" width="41">
-				</li>
-				<li>When this page loaded, the official time was 12:09:28 PM EDT.</li>
-			</ul>
-   	</div>
-   
-         </div> <!-- end content -->
-   </div> <!-- end content_wrapper -->
-         
+					</div> <!-- end maincontent_box -->
+				</div> <!-- end maincontent -->
+			</div> <!-- end content-inner-wrapper -->
+			<!-- BEGIN FOOTER -->
+			<div id="content-bottom" class="clearfix">
+				<hr>
+				<table id="pci-dss-compliant"><tbody><tr><td><script src="https://sealserver.trustkeeper.net/compliance/seal_js.php?code=w6oj3BlmFtNVLcVfEWMpiqnR2uwWgo&amp;style=normal&amp;size=105x54&amp;language=en"></script><noscript><a href="https://sealserver.trustkeeper.net/compliance/cert.php?code=w6oj3BlmFtNVLcVfEWMpiqnR2uwWgo&amp;style=normal&amp;size=105x54&amp;language=en" target="hATW"><img src="https://sealserver.trustkeeper.net/compliance/seal.php?code=w6oj3BlmFtNVLcVfEWMpiqnR2uwWgo&amp;style=normal&amp;size=105x54&amp;language=en" alt="Trusted Commerce" height="54" width="105" /></a></noscript></td></tr></tbody></table>
+				<ul class="icon-list">
+					<li>
+						<img src="https://d2pe17571iz33b.cloudfront.net/images/icon_cc_discover.png" alt="Discover Card" height="40" width="41">
+						<img src="https://d2pe17571iz33b.cloudfront.net/images/icon_cc_mastercard.png" alt="MasterCard" height="40" width="41">
+						<img src="https://d2pe17571iz33b.cloudfront.net/images/icon_cc_visa.png" alt="Visa" height="40" width="41">
+						<img src="https://d2pe17571iz33b.cloudfront.net/images/icon_cc_americanexpress.png" alt="American Express" height="40" width="41">
+					</li>
+					<li>When this page loaded, the official time was 9:27:44 AM EDT.</li>
+				</ul>
+			</div> <!-- end content-bottom -->
+		</div> <!-- end content -->
+	</div> <!-- end content_wrapper -->
 	<div id="footer-wrapper">
 		<div id="footer">
-         			<a href="#top" class="click-top">top</a>
+			<a href="#top" class="click-top">top</a>
 			<div class="list-1">
 				<h4>How To Submit An Event</h4>
 				<h5>Instructions by form type:</h5>
@@ -408,7 +429,7 @@ service@getmeregistered.com
 					<li><a href="https://static.getmeregistered.com/registration_setup_instructions/Expo-Tradeshow-Form-Set-Up-Instructions.pdf" title="GMR Expo -Tradeshows - Form Set Up Instructions" target="_blank">Expos/Tradeshows</a></li>
 				</ul>
 			</div>
-               			<div class="list-2">
+			<div class="list-2">
 				<h4>About GetMeRegistered</h4>
 				<ul>
 					<li><a href="/getmeregistered_difference.php#top">The GMR Difference</a></li>
@@ -427,7 +448,7 @@ service@getmeregistered.com
                <li><a href="/employment/">Careers</a></li>
 				</ul>
 			</div>
-         			<div class="list-3">
+			<div class="list-3">
 				<h4>Event Shortcuts</h4>
 				<ul>
 					<li><a href="/search.php#top">Search Events</a></li>
@@ -437,7 +458,7 @@ service@getmeregistered.com
 				</ul>
 			</div>
 			<div class="right-box">
-         				<div class="text-box">
+				<div class="text-box">
 					<h4>FREE Support Services</h4>
 					<ul>
 						<li>Post your results for FREE!</li>
@@ -447,12 +468,12 @@ service@getmeregistered.com
 					</ul>
 				</div>
 			</div>
-         			<div id="footer-nav">
+			<div id="footer-nav">
 				<hr>
 				<div id="footer-nav-links">
 					<ul>
 						<li>
-							<span>© 2015 GetMeRegistered.com LLC, All Rights Reserved</span>
+							<span>© 2016 GetMeRegistered.com LLC, All Rights Reserved</span>
 						</li>
 						<li>
 							<a href="/privacy_policy.php#top">Privacy Policy</a>
@@ -473,10 +494,9 @@ service@getmeregistered.com
 					</ul>
 				</div>
 			</div>
-		</div>
-	</div><!--footer end-->
-</div><!--container end-->
-
+		</div> <!-- end footer -->
+	</div> <!--end footer-wrapper -->
+</div> <!-- end container -->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
