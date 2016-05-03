@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nvmexpress.org privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226051610id_/http%3A//www.nvmexpress.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nvmexpress.org privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503021219id_/http%3A//www.nvmexpress.org/privacy-policy) for the most accurate reproduction.*
 
 # NVM Express » NMV Express Online Privacy Policy
 
