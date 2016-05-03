@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tribecafilm.com privacy policy that was archived on 2015-10-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151017035239id_/https%3A//tribecafilm.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tribecafilm.com privacy policy that was archived on 2016-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160503191252id_/https%3A//tribecafilm.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://ogp.me/ns#"><head>
     <meta charset="utf-8">
@@ -7,7 +7,6 @@
     <title>Privacy Policy | Tribeca</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, minimum-scale=0.25, maximum-scale=1.6, user-scalable=no">
-
       <meta property="og:title" content="Privacy Policy | Tribeca">
   <meta name="twitter:title" content="Privacy Policy | Tribeca">
   <meta property="og:description" content="">
@@ -31,7 +30,7 @@
 
     <link href="/feed.xml" rel="alternate" title="RSS" type="application/rss+xml">
     <meta content="authenticity_token" name="csrf-param">
-<meta content="0cGP22PLX1q8/Qn0/8AfH2RJllO13K5LKmSmjM1rnZE=" name="csrf-token">
+<meta content="Dch2QZmWUld0mSYMJiiOEcceZR608b79hyNbB4mwExU=" name="csrf-token">
     <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=232295416876278&amp;version=v2.0"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="/assets/application.js" type="text/javascript"></script>
 
     <script>
@@ -74,6 +73,8 @@
 
     ga('create', 'UA-10764567-1', 'auto');
     ga('require', 'linkid', 'linkid.js');
+    ga('set', 'dimension1', '512d52a41c7d766f0e000019');
+    ga('set', 'dimension2', 'Page');
     ga('send', 'pageview');
 
   </script>
@@ -89,6 +90,38 @@
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
     
+<section class="WishlistTray do empty">
+
+  <header class="WT__header">
+    <div class="title">MY WISH LIST</div>
+  </header>
+
+
+  <section class="WT__nostatus">
+    <div class="WT__col-2 link--101">
+        <i></i>
+        <p>We're making it easier than ever for you to stock up on Tribeca Film Festival tickets. Our revamped Wish List will save you time and effort in singling out the Festival titles you cannot wait to see.</p>
+        <a href="/festival/tickets" class="WLI__link">LEARN MORE</a>
+    </div>
+      <div class="WT__col-2 link--sign_in">
+        <i></i>
+        <p>To take advantage of the Wish List, you must have a My Tribeca account. Creating a My Tribeca account gives you access to more features and services, like Wish Lists.</p>
+        <a href="/sign-in" class="WLI__link">SIGN IN</a>
+      </div>
+
+  </section>
+
+
+
+  <button class="WT__close closeX px18"></button>
+</section>
+
+<script>
+    $(function(){
+      var WISHLIST = window.WISHLIST || {};
+        WISHLIST.not_logged_in = true;
+    });
+</script>
   <section id="mainHeader">
 
       
@@ -99,6 +132,7 @@
           <a href="/" class="sectionLogo ir">Tribeca</a>
         </section>
         <nav class="rightIcons">
+            <button class="globalWishlist do"><span class="wlcount"></span></button>
           <button class="globalAcct sectionText--hover do" aria-label="Account">P</button>
           <button class="globalSearch sectionText--hover do" aria-label="Search">S</button>
           <button id="globalGear" class="gearIcon mo" aria-label="More Settings"></button>
@@ -114,9 +148,9 @@
 	</div>
 	<div class="container">
         <p class="title">SIGN IN</p>
-		<form accept-charset="UTF-8" action="/users/sign_in" autocomplete="off" class="form2015" id="signIn" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="0cGP22PLX1q8/Qn0/8AfH2RJllO13K5LKmSmjM1rnZE="></div>
+		<form accept-charset="UTF-8" action="/users/sign_in" autocomplete="off" class="form2015" id="signIn" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="Dch2QZmWUld0mSYMJiiOEcceZR608b79hyNbB4mwExU="></div>
 				<div class="field">
-						<input class="formSwap sectionBorderColor--focus" id="user_email" name="user[email]" placeholder="Enter your email" type="text" value="">
+						<input class="formSwap sectionBorderColor--focus" id="user_email" name="user[email]" placeholder="Enter your email" type="text">
 				</div>
 				<div class="field">
 						<input class="formSwap sectionBorderColor--focus" id="user_password" name="user[password]" placeholder="Password" type="password">
@@ -135,6 +169,7 @@
 
       <section id="gearTray" class="mo">
         <div class="tray">
+          <a href="/festival/wishlist" class="">WISH LIST <span class="icon--star-black"></span></a>
           <a href="#" class="globalAcct">ACCOUNT <span class="icon--account"></span></a>
           <a href="#" class="globalSearch">SEARCH <span class="icon--search"></span></a>
         </div>
@@ -156,9 +191,6 @@
               <li><a href="/contact" class="" rel="">Contact</a></li>
               <li><a href="/festival/jobs" class="" rel="">Jobs &amp; Crew</a></li>
             </ul>
-            <hr>
-            <li><a href="/festival/submissions">2016 Festival Submissions</a></li>
-
           <footer>
             <nav class="signInUp">
               <a href="/sign-in">SIGN IN</a> / <a href="/sign-up">SIGN UP</a>
@@ -167,9 +199,9 @@
               <p class="title">FOLLOW US</p>
               <a class="socialIcon socFB ir" href="https://www.facebook.com/Tribeca" target="_blank">Facebook</a>
               <a class="socialIcon socTwitter ir" href="http://twitter.com/tribeca" target="_blank">Twitter</a>
-              <a class="socialIcon socYT ir" href="http://www.youtube.com/tribecafilm" target="_blank">Youtube</a>
               <a class="socialIcon socInsta ir" href="http://instagram.com/tribeca" target="_blank">Instagram</a>
-              <a class="socialIcon socRSS ir" href="http://tribecafilm.com/feed.xml" target="_blank">RSS</a>
+              <a class="socialIcon socTumblr ir" href="http://tribeca.tumblr.com" target="_blank">Tumblr</a>
+              <a class="socialIcon socYT ir" href="http://www.youtube.com/tribecafilm" target="_blank">Youtube</a>
             </nav>
           </footer>
           </div>
@@ -194,20 +226,28 @@
           <div id="" sub-nav-tray="tff" class="tray">
             <ul class="mainlinks">
               <li><a href="/festival">Festival Home</a></li>
-              <li><a href="/festival/submissions">2016 Festival Submissions</a></li>
-              <li><a href="/filmguide">Film Guide</a></li>
+              <li><a href="/filmguide">2016 Film Guide</a></li>
+              <li><a href="/festival/tickets">Tickets &amp; Passes</a></li>
               <li><a href="/festival/events">Talks &amp; Events</a></li>
-              <li><a href="/festival/springstudios">Spring Studios</a></li>
+              <li><a href="/festival/hub">Festival Hub</a></li>
+              <li><a href="/festival/schedule">Schedule</a></li>
               <li><a href="/categories/festival">News</a></li>
-              <li><a href="/online">Online Festival</a></li>
-              <li><a href="/festival/audienceawards">Audience AWard</a></li>
+              <li><a href="/festival/travel">Travel</a></li>
               <li><a href="/press-center/festival">Press</a></li>
-              <li><a href="https://tribecafilmfestival.merchdirect.com" target="_blank">Shop</a></li>
             </ul>
             <hr>
             <ul class="mainlinks">
               <li><a href="/festival/photos">Photos</a></li>
               <li><a href="/festival/videos">Videos</a></li>
+            </ul>
+            <hr>
+            <ul class="mainlinks do">
+              <li><a href="/festival/tune-in">Tribeca Tune In</a></li>
+              <li><a href="/festival/imagination">Imagination</a></li>
+              <li><a href="/festival/bomb">The Bomb</a></li>
+              <li><a href="/festival/daringwomen">Daring Women</a></li>
+              <li><a href="/festival/tribecanow">Tribeca N.O.W.</a></li>
+              <li><a href="/festival/creatorsmarket">Digital Creators Market</a></li>
             </ul>
           </div>
 
@@ -231,7 +271,7 @@
                 <div id="newsletterModal" class="overlayMode choose do">
               <div class="cw">
                 <h2>BECOME A TRIBECA INSIDER</h2>
-                <p>Sign up to access information about new releases before anyone else. By joining you’re entered for a chance to <br><b>win two tickets to a red carpet premiere</b> <br>at the 2015 Tribeca Film Festival.</p>
+                <p>Sign up to access information about new releases before anyone else. By joining you’re entered for a chance to <br><b>win two tickets to a red carpet premiere</b> <br>at the 2016 Tribeca Film Festival.</p>
 
                 <div id="signUpChoices">
                   <a href="/users/auth/facebook" class="bigBtn fb">Sign up via Facebook</a>
@@ -239,7 +279,7 @@
                 </div>
 
                 <div id="signUpEmail">
-                  <form accept-charset="UTF-8" action="/users" autocomplete="off" class="new_user" id="new_user" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="0cGP22PLX1q8/Qn0/8AfH2RJllO13K5LKmSmjM1rnZE="></div>
+                  <form accept-charset="UTF-8" action="/users" autocomplete="off" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="Dch2QZmWUld0mSYMJiiOEcceZR608b79hyNbB4mwExU="></div>
 
                     <section class="fields">
 
@@ -258,7 +298,7 @@
 
                       <ul class="half cf">
                         <li class="left">
-                          <input id="user_email" name="user[email]" placeholder="Email" required="required" size="30" type="email" value="">
+                          <input id="user_email" name="user[email]" placeholder="Email" required="required" size="30" type="email">
                         </li>
 
                         <li class="right">
@@ -437,7 +477,7 @@ If you have questions or concerns about any of our information collection or han
                             <nav class="col">
                                 <header>AFFILIATES</header>
                                 <a href="http://www.tribecafilminstitute.org/" target="_blank">Tribeca Film Institute®</a>
-                                <a href="http://www.tfa.edu/" target="_blank">Tribeca Flashpoint</a>
+                                <a href="https://www.tribecaflashpoint.edu/" target="_blank">Tribeca Flashpoint</a>
                                 <a href="http://www.tribecafilmcenter.com/" target="_blank">Tribeca Film Center®</a>
                                 <a href="http://www.tribecadisruptiveinnovationawards.com/" target="_blank">Tribeca Disruptive Innovation Awards</a>
                             </nav>
@@ -456,6 +496,7 @@ If you have questions or concerns about any of our information collection or han
                               <a class="socialIcon socFB white ir" href="https://www.facebook.com/Tribeca" tip="Like us on Facebook" target="_blank">Facebook</a>
                               <a class="socialIcon socTwitter white ir" href="http://twitter.com/tribeca" tip="Follow us on Twitter" target="_blank">Twitter</a>
                               <a class="socialIcon socInsta white ir" href="http://instagram.com/tribeca" tip="Follow us on Instagram" target="_blank">Instagram</a>
+                              <a class="socialIcon socTumblr white ir" href="http://tribeca.tumblr.com" tip="Follow us on Tumblr" target="_blank">Tumblr</a>
                               <a class="socialIcon socYT white ir" href="http://www.youtube.com/tribecafilm" tip="Subscribe to our Youtube Channel" target="_blank">Youtube</a>
                               <a class="socialIcon socRSS white ir" href="http://tribecafilm.com/feed.xml" tip="Subscribe to our RSS feed" target="_blank">RSS</a>
                             </nav>
@@ -465,7 +506,7 @@ If you have questions or concerns about any of our information collection or han
             </footer>
             <div id="legalStripe">
                 <div class="cw cf">
-                    <span>© 2015 Tribeca Enterprises LLC</span>  |
+                    <span>© 2016 Tribeca Enterprises LLC</span>  |
                     <a href="/privacy">Privacy Policy</a>   |
                     <a href="/terms-conditions">Terms &amp; Conditions</a>
                     <a href="http://bluebox.net/" target="_blank" id="bblogo"><img alt="Logo-bluebox" src="/assets/logo-bluebox.png"></a>
@@ -474,6 +515,28 @@ If you have questions or concerns about any of our information collection or han
 
     </div>
     <script src="/assets/main.js" type="text/javascript"></script>
+    <script src="/assets/wishlist/wishlist_main.js" type="text/javascript"></script>
+    <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "name" : "Tribeca",
+      "url": "https://tribecafilm.com",
+      "logo": "https://tribecafilm.com/assets/logo-meta.png",
+      "sameAs" : [
+        "https://www.facebook.com/Tribeca",
+        "https://twitter.com/tribeca",
+        "https://www.instagram.com/tribeca",
+        "http://tribeca.tumblr.com",
+        "https://www.youtube.com/user/tribecafilm"
+      ],
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://tribecafilm.com/browse?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+</script>
         <script>
 
     var sidebarTopPad = 40;
@@ -543,7 +606,7 @@ If you have questions or concerns about any of our information collection or han
     <script async="" defer="" src="//platform.instagram.com/en_US/embeds.js"></script>
     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
-    <!--[if lte IE 8]><div class="ie_lte8_bad"><table><tr><td><img alt="Strobe" src="/assets/ie/strobe.gif" /></td><td><table><tr><td><h1><blink>Egad! You are currently using an outdated/unsupported browser.</blink></h1></td></tr><tr><td><p>For a better experience on tribecafilm.com, please update to the latest version of your browser, or switch to <a href="http://www.google.com/chrome/">Google Chrome</a>.</p></td></tr></table></td><td><img alt="Strobe" src="/assets/ie/strobe.gif" /></td></tr></table><a href="#" class="ie_goaway">[DISMISS]</div></div><![endif]-->
+    <!--[if lte IE 9]><div class="ie_lte8_bad"><table><tr><td><img alt="Strobe" src="/assets/ie/strobe.gif" /></td><td><table><tr><td><h1><blink>Uh oh. You are currently using an outdated/unsupported browser.</blink></h1></td></tr><tr><td><p>For a better experience on tribecafilm.com, please update to the latest version of your browser, or switch to <a href="http://www.google.com/chrome/">Google Chrome</a>.</p></td></tr></table></td><td><img alt="Strobe" src="/assets/ie/strobe.gif" /></td></tr></table><a href="#" class="ie_goaway">[DISMISS]</div></div><![endif]-->
   <script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
 NREUMQ.push(["load",new Date().getTime()]);
 var e=document.createElement("script");
@@ -555,5 +618,5 @@ if(NREUMQ.a)NREUMQ.a();
 };
 NREUMQ.a=window.onload;window.onload=NREUMQ.f;
 };
-NREUMQ.push(["nrfj","bam.nr-data.net","44d4f2f27e","2028136","cVYPERRYWAkAQxpBUVVcEkoVX1sS",0,268,new Date().getTime(),"","","","",""]);</script>
+NREUMQ.push(["nrfj","bam.nr-data.net","44d4f2f27e","2028136","cVYPERRYWAkAQxpBUVVcEkoVX1sS",0,30,new Date().getTime(),"","","","",""]);</script>
 <script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
