@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qtellfreeclassifiedads.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103175600id_/http%3A//www.qtellfreeclassifiedads.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qtellfreeclassifiedads.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503065946id_/http%3A//www.qtellfreeclassifiedads.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
 
 # Cuba - Buy and Sell Free Classified B2B Marketing Free Ads Classifiedads Buy & Sell Free Trading Classified Ads Electronics Classifiedads
 
