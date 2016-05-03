@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ocsb.ca privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222115901id_/http%3A//ocsb.ca/board/admin/committees/pim) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocsb.ca privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503050536id_/http%3A//www.ocsb.ca/board/admin/committees/pim) for the most accurate reproduction.*
 
 # Privacy Information Management (PIM) - Ottawa Catholic School Board
 
@@ -8,7 +8,7 @@ The Ottawa Catholic School Board is rising to the twin challenges of addressing 
 
 Our Board's Privacy & Information Management Committee (PIM) works to raise awareness on matters of public trust and confidence with respect to privacy. We understand that it is vital that this privacy culture be embedded into our daily practices to support the needs and expectations of parents, students and staff with respect to information security and the protection of personal information.
 
- **Making a freedom of information (FOI) request** The OCSB follows provincial legislation to protect the privacy of an individual's personal information. This Municipal Freedom of Information and Protection of Privacy Act (MFIPPA) also provides a process for the public to access specific information from the OCSB. Sometimes, a formal freedom of information (FOI) request is made by an individual to the OCSB. You can make a freedom of information request by following a prescribed set of steps. You will need to complete some documentation, and pay an application fee. Read more about making a [freedom of information request](http://ocsb.ca/contact/requests/foi-request).   
+ **Making a freedom of information (FOI) request** The OCSB follows provincial legislation to protect the privacy of an individual's personal information. This Municipal Freedom of Information and Protection of Privacy Act (MFIPPA) also provides a process for the public to access specific information from the OCSB. Sometimes, a formal freedom of information (FOI) request is made by an individual to the OCSB. You can make a freedom of information request by following a prescribed set of steps. You will need to complete some documentation, and pay an application fee. Read more about making a [freedom of information request](http://www.ocsb.ca/contact/requests/foi-request).   
   
  **OCSB privacy statement**
 
