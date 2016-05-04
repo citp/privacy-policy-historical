@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovevivah.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104024718id_/http%3A//www.lovevivah.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovevivah.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504135032id_/http%3A//www.lovevivah.com/privacy-policy) for the most accurate reproduction.*
 
 # Matrimonial Privacy Policy on Lovevivah.com
 
