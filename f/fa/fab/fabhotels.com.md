@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fabhotels.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813215518id_/http%3A//www.fabhotels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabhotels.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504064245id_/http%3A//www.fabhotels.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FabHotel.com
 
