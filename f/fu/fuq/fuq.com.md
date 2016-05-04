@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuq.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207031520id_/http%3A//www.fuq.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuq.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505004101id_/http%3A//www.fuq.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
