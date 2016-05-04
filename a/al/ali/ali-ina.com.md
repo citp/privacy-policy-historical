@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ali-ina.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408043048id_/http%3A//ali-ina.com/en_alisha/site/index.php%3Fpage%3Dprivacy.php%26m%3Dvide%26ref%3Dvide%26site%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ali-ina.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504230237id_/http%3A//ali-ina.com/en_alisha/site/index.php%3Fpage%3Dprivacy.php%26m%3D%26ref%3D%26site%3Dus) for the most accurate reproduction.*
 
 # Alisha
 
