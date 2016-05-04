@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nzb.su privacy policy that was archived on 2015-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151004165253id_/https%3A//www.nzb.su/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nzb.su privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504032126id_/https%3A//www.nzb.su/privacy.html) for the most accurate reproduction.*
 
 # 
 
-This Privacy Policy governs the manner in which NotBusy, LLC collects, uses, maintains and discloses information collected from users (each, a "User") of the [nzb.su](https://web.archive.org/web/20151004165253id_/https%3A//www.nzb.su/nzb.su) website ("Site"). This privacy policy applies to the Site and all products and services offered by NotBusy, LLC.
+This Privacy Policy governs the manner in which NotBusy, LLC collects, uses, maintains and discloses information collected from users (each, a "User") of the [nzb.su](https://web.archive.org/web/20160504032126id_/https%3A//www.nzb.su/nzb.su) website ("Site"). This privacy policy applies to the Site and all products and services offered by NotBusy, LLC.
 
 **Personal identification information**
 
