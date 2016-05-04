@@ -1,184 +1,106 @@
-> *The following text is extracted and transformed from the theweathernetwork.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205003801id_/http%3A//www.theweathernetwork.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theweathernetwork.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504221933id_/http%3A//www.theweathernetwork.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Weather Network
 
-  1. The Ten Privacy Principles
-  2. Cookies
-  3. Where and Why We Collect Personal Information Online
-  4. Limitation of Liability
-  5. Contact Us
-  6. Updates
+## PRIVACY POLICY
 
+Pelmorex Media Inc. (“PMI”, our, us or we) operates the Websites [http://www.theweathernetwork.com](http://www.theweathernetwork.com/) and [http://www.meteomedia.com](http://www.meteomedia.com/) (collectively the Websites), the television program The Weather Network and related services and applications (collectively the “Services”). This Privacy Policy describes how we may collect, use and disclose personal information in relation to the Services, which you consent to by accessing the Services. “Personal information” means information about an identifiable individual but does not include business information.
 
+This Privacy Policy may be supplemented or modified by consents you provide to Pelmorex, and by agreements you enter into with Pelmorex from time to time. To learn more about how we and third parties may process personal information for interest based advertising, and to opt out of such uses, please read below.
 
-Pelmorex Media Inc. ("PMI"), operator of this website at theweathernetwork.com ("the Website"), is committed to respecting and safeguarding the privacy of our stakeholders and ensuring the protection of personal information of our customers, clients and other users of this Website.
+### Our collection, use and disclosure of personal information
 
-Personal information is any information that can be used to identify you as an individual, including your name, age, personal telephone number, address, e-mail address, and any other personally identifiable information that you choose to provide to PMI. Personal information does not include so-called "business card information" such as your business telephone number and address in your capacity as an employee of an organization.
+In most cases, we collect personal information directly from you when you purchase, register for or interact with us about the Services. In some cases, it may be optional for you to create an account, or consent to the collection, use or disclosure of your personal information, in order to access our Services across various platforms. In some cases, we may collect personal information from a third party with your consent or as otherwise permitted by law. We will typically identify to you the purposes for which we may collect, use and disclose your personal information at the time that we collect such information. In general terms, such purposes include:
 
-Our Privacy Policy includes the principles of the _Personal Information Protection and Electronic Documents Act_ , which are outlined below.
+  * To deliver Services to you which you have requested or signed up for;
+  * To establish and manage your subscriptions and accounts with us;
+  * To respond to your requests, questions and inquiries;
+  * To advise you of information, products and services which may be of interest to you;
+  * To deliver relevant advertising as described herein;
+  * To enforce and administer the terms of use of the Websites and Services; and
+  * To meet our legal obligations and as permitted by law.
 
-### The Ten Privacy Principles
 
-Principle 1 - Accountability
 
-PMI has established policies and procedures to comply with this Privacy Policy and has designated a Privacy Officer to be accountable for its compliance.
+We may share information with related organizations and third party service providers for the purpose of providing the Services and as described in this Privacy Policy (including the provision of products and services offered in conjunction with the Services). Where such parties are located outside of Canada, your personal information will be subject to the laws of that jurisdiction, including laws related to the disclosure of personal information to the authorities in that jurisdiction.
 
-Principle 2 - Identifying Purposes
+Below we describe in more detail how we collect, use and disclose information for certain Services.
 
-PMI will identify the purposes for collecting personal information prior to or at the time it is collected. Before your personal information will be used or disclosed for a new purpose, we will ask you for your consent, unless use or disclosure without your consent in the circumstances is otherwise required by law, regulation or court order. Consent may be express or implied.
+### Automatically Collected Information
 
-Principle 3 - Consent
+Some information concerning your use of the Services will be collected automatically as you use them, for example:
 
-The knowledge and consent of the individual are required for the collection, use or disclosure of personal information, except where inappropriate. If you use the Website, register for certain products or services or request information about products or services offered by PMI or otherwise provide your personal information to PMI, you consent to the collection, use, disclosure and management of your personal information in accordance with this Privacy Policy. You may refuse to provide personal information to PMI and may, subject to legal or contractual restrictions and reasonable notice, withdraw consent at any time to our continued use and disclosure of your personal information previously collected. Please note that refusing or withdrawing your consent in respect of our handling of certain personal information may result in us being unable to provide you with certain products and services. You can withdraw your consent by writing to the Privacy Officer at the address at the end of this Privacy Policy.
+  * Internet Protocol ("IP") address used to connect your computer to the Internet;
+  * Computer, device and connection information, such as browser type and version, operating system, mobile platform and unique device identifier (“UDID”) and other technical identifiers;
+  * Location information for location-aware Services to provide you with more relevant content for where you are in the world.
 
-Principle 4 - Limiting Collection
 
-PMI will limit the collection of personal information to that which is necessary for the purposes identified by PMI.
 
-Principle 5 - Limiting Use, Disclosure and Retention
+We collect and use this information to generate aggregate/non-identifiable information in order to further develop, provide and manage the Services.
 
-Personal information collected by PMI will only be used or disclosed for purposes described in this Privacy Policy or for other purposes that we have informed you of at the time of collecting that information or in respect of which we have obtained your consent, where required.
+### Subscriptions
 
-We may use or disclose your personal information to enforce or apply the Terms of Use of the Website, to the extent that your personal information is required in order to determine whether the Terms of Use have been violated.
+When you sign up for a Subscription (e.g. weather forecasts, pollen forecasts, alerts and other information delivered by e-mail), you are required to provide your name, e-mail address and password. This information is used to deliver weather forecasts to your e-mail address, contact you and administer your Subscription, and enable you to log in to manage your subscription.
 
-We use and disclose your personal information to fulfill your requests for certain products or services or information about them, to contact you in response to requests for information and to respond to voluntary comments.
+We may also ask for additional, optional, information, which is not required to participate in the Subscription service. Such information may include your gender and year of birth. We collect and use this information in order to gain a better understanding of our subscribers to improve our Services, and to generate aggregate/non-identifiable demographic information which is shared with third party advertisers to deliver advertisements that are more relevant to you and your interests. To opt out of such use, please do not provide the optional information, or you may contact our Privacy Officer at any time as indicated below.
 
-We may disclose your personal information to related organizations who agree to comply with applicable privacy laws and to only use your personal information for the purpose of providing you with the products or services you have requested. We may also disclose personally identifiable information to third parties, but only:
+### Weather Widgets
 
-  * to service providers we use to support PMI's business, including the provision of products and services offered through the Website, in which case we will require them to comply with applicable privacy laws;
-  * to third parties in respect of products and services that an individual registers for or otherwise requests which are only available in connection with such third parties and their websites, including social media providers; and
-  * where permitted or required by law, court orders, or government regulations.
+When you sign up to obtain a Weather Widget, we will request your name, e-mail address, company name (if available) and website URL. We use this information to contact you to communicate changes in the Weather Widget Service, as well as to keep a record of what websites the Weather Widget is posted on.
 
+### Posting photos and videos
 
+When you sign up to upload images or videos to our Services, we will request your name, e-mail address, password and postal code. By signing up, providing this information and uploading photos or videos, you agree that PMI may publish your photos and videos on the Websites, on television, and otherwise in the Services, including with your name and location (e.g. city, town, or region, based on postal code). We may also use your email address to contact you to notify you if your picture or video is chosen to be displayed on any of the Services.
 
-Please note that where the third parties with whom PMI may share your personal information as described above are located outside of Canada, your personal information will be subject to the laws of that jurisdiction, including laws related to the disclosure of personal information to the authorities in that jurisdiction.
+### Applications (‘apps’) and location information
 
-We will not sell or rent your personal information to anyone.
+When you download our location-enabled apps (e.g. Follow Me, which provides localized weather information based on the location of your device), you will normally be prompted to either permit or deny the app to use location information from your device. This choice can be changed later on in your device settings. If you deny permission for the app to use location services, the portions of the app that rely on location information will not function. If you permit the app to use location services, we may periodically collect information about the location of your device, which may include times when you are not directly interacting with the application. We may use this information to customize content and the Services, including public safety alerts and personalized notifications, to allow us to adapt the Services to your needs, to research the effectiveness of our network and to develop new features and Services. In addition, we may share non-identified location information with third parties for advertising use.
 
-Personal information shall be retained only as long as necessary for the fulfillment of those purposes.
+### Feedback form
 
-Principle 6 - Accuracy
+When you submit a comment or inquiry using our online feedback form, we request your name and e-mail address, along with the comment or inquiry for the purpose of acting on the information and responding to you. This information may be shared with persons outside of PMI as required to respond.
 
-Personal information shall be as accurate, complete and up-to-date as is necessary for the purposes for which it is to be used.
+### Using social media services
 
-Principle 7 - Safeguarding Customer Information
+When creating an account with PMI, you have the option of either creating an account with PMI directly or signing up using Facebook, Twitter or Google+. If you create an account with PMI directly, you are required to provide: your first and last name, an email address and a password. This information is used to deliver the Services you have requested, to contact you and administer your account, and enable you log in to manage your account and preferences. We also provide you with an opportunity to include optional information regarding your year of birth and gender. We collect and use this information in order to gain a better understanding of our subscribers in order to improve our Services, and to generate aggregate/non-identifiable demographic information which is shared with third party advertisers to deliver advertisements that are more relevant to you and your interests. We provide you with the option to opt in to receive offers or messages from our partners. To opt out of such use, please do not provide the optional information, or you may contact our Privacy Officer at any time as indicated below. If you create a PMI account using, or otherwise connect your PMI account to, Facebook, Twitter or Google, we may also collect, use and disclose information as follows:
 
-PMI protects personal information with safeguards appropriate to the sensitivity of the information.
+###  _Facebook_
 
-Principle 8 - Openness
+When you choose to log in using a Facebook account, we request access to the following:
 
-PMI makes specific information about its personal information management policies and practices readily available to individuals. For further information on PMI's personal information management policies and practices please contact the PMI Privacy Officer at the address at the end of the Privacy Policy.
+  *  _Access your basic information_ : includes name, profile picture, gender, networks, user ID, list of friends, and information you’ve shared with everyone. This is required by Facebook in order to use the Facebook login functionality. We will display your name, and potentially your profile picture, to identify you as the person who posted a comment;
+  *  _Send me e-mail_ : PMI may e-mail you directly at your e-mail address. We require an e-mail address to match your Facebook account with our user database. We may contact you directly regarding your use of the commenting feature, or to notify you if your comment might be used on television;
+  *  _Post to Facebook as you_ : We may post status messages, notes, photos, and videos on your behalf. We require this access to allow you to send comments made on our Websites to your own Facebook pages, allowing you to share links with your friends. Postings sent to your Facebook pages are user-generated. You may remove this permission on Facebook at any time, under Privacy Settings;
+  *  _Access my profile information_ : Activities, Interests, Birthday, Hometown, Current City: This data will be used to target content and advertising, allowing us to display information on our Websites that is relevant to your location, interests and age.
 
-Principle 9 - Customer Access
 
-You can ask to view personal information about you held by PMI by writing to the Privacy Officer at the address at the end of the Privacy Policy. You can request that corrections be made where you can show that the personal information about you that we possess is incorrect or incomplete. Please note that under certain circumstances, you may not be permitted to view your records, such as where the disclosure of your records would cause security, legal or confidentiality concerns, and including where PMI is prohibited by law to disclose that to you.
 
-Principle 10 - Handling Customer Complaints and Suggestions
+###  _Twitter_
 
-PMI has procedures in place to receive and respond to complaints or inquiries about policies and practices relating to the handling of personal information. Please contact PMI's Privacy Officer at the address at the end of the Privacy Policy with any questions or concerns you have about this Privacy Policy or about PMI's handling of your personal information. We will investigate and respond to your concerns.
+When logging in using Twitter, PMI will automatically be allowed to: access tweets from your timeline, see who you currently follow and those who you follow in future, see updates to your profile, and post tweets for you. PMI may collect this information for the purpose of customizing content and the Services. In addition, PMI may share information (e.g. retweets/quotes, photos/videos, usernames/Twitter handles) with Twitter (e.g. primarily to promote news articles on our Websites, offer better coverage of active weather events and encourage followers to share visual content with us) to target content and advertising as described their privacy policy, accessible here: <https://twitter.com/privacy>, however, your personal information is not shared with Twitter.
 
-### Where and Why We Collect Personal Information Online
+###  _Google+_
 
-PMI collects personal information from Website users when they:
+Logging in using Google+ will allow PMI to know who you are on Google, view your email address and view your basic Google profile information (e.g. name, email address, birth date, year of birth, gender). This information is accessed by PMI for the purposes of customizing content and the Services for our users.
 
-  * register for Subscriptions (weather forecasts, alerts and more delivered by e-mail);
-  * sign up to add a 'Weather Button' on their website;
-  * create an account to upload images or videos to the 'Photos & Videos' section;
-  * submit a comment or inquiry using our online feedback form; or
-  * otherwise provide personal information to PMI via the PMI Website or otherwise.
+### Cookies
 
+Cookies are small text files transferred to a website user’s hard drive by a web server. PMI uses cookies on the Websites: (a) to remember your searched locations for quick future reference when you re-visit the Websites; and (b) to save your login information for subscription and photos and videos registrants, if you select the “Remember me” option when logging in. No additional information is collected in providing these features. In addition, PMI’s service providers, including those that manage the serving of advertising on our Websites, may use cookies and/or collect IP addresses in order to execute advertising campaigns, limit repeat views of a banner for an individual user, or to track the number of clicks a banner receives. Some third party advertising partners may also use cookies over which we have no control. We may also use cookies in order to ensure that advertising is more targeted to the user, for example browsing the golf report may result in more golf related advertising targeted to the user on our site and on other sites. These cookies do not, however, collect any additional information about who the cookies are served to.
 
+You have the option to set your browser to either accept cookies, to notify you before accepting cookies, or to refuse cookies altogether. If you refuse cookies please note that certain Website functionality, such as remembering your preferences, may not be available.
 
-Some examples of how PMI collects, uses and discloses personal information are set out below. PMI may also offer additional products, services or Website features, in which case PMI will identify the purposes for any related collection of personal information in accordance with this Privacy Policy.
+### Retaining and safeguarding personal information
 
-Subscriptions
+We will take steps to retain personal information for as long as necessary to fulfill the purposes for which it was collected and as permitted or required by law. We have implemented physical, organizational, contractual and technological measures designed to help protect your personal information from loss or theft, and unauthorized access, disclosure, copying, use or modification. However, complete confidentiality and security is not possible or guaranteed. For example, internet use and communication is subject to potential interception, loss and alteration. You acknowledge and agree that PMI, its affiliates and related companies shall not be responsible for any damages you may suffer as a result of the transmission of confidential or sensitive information in relation to the Services.
 
-When an individual registers for Subscriptions, they are required to provide their name, e-mail address and password. This information allows us to deliver weather forecasts to a subscriber's e-mail address and enables them to change their preferences associated with this service. We also ask subscribers for additional, optional, information, which is not required to participate in the e-mail service. The purpose of gathering this optional information is twofold: 1) with a greater understanding of our users we can develop an e-mail service even better suited to the needs of our subscribers and 2) to generate a statistical profile of all subscribers that is shared with advertisers on The Weather Network.
+### Links to other Websites and services
 
-When a subscriber cancels his or her subscription account, that individual's personal information (name and e-mail address) will be deleted from our database within 30 days.
+The Services may contain links to other websites and services, or be available only in connection with certain third parties and their websites, apps or services (e.g. social media providers). PMI is not responsible for the content or privacy practices of such third parties, or the information disclosed to them, and encourages you to review the privacy policies of such websites, apps and services.
 
-Facebook Commenting
+### Questions, complaints and requesting access to personal information
 
-When a user chooses to log in to comment using their Facebook account, we request access to the information indicated in the Facebook acceptance screen and described below.
+If you have any questions or complaints about privacy, or to request access to personal information, please submit a written request to us at: Privacy Officer, Pelmorex Media Inc., 2655 Bristol Circle, Oakville, ON, Canada L6H 7W1 or online through our feedback form: <http://www.theweathernetwork.com/about-us/contact-us>
 
-Users can click "Allow" to login using their Facebook account, or click "Don't Allow" to close and return to the login options. If the user chooses not to login using Facebook, they can login using their Weather Network account -- or create one if they don't have one already.
+### Updates
 
-When a user chooses to log in using their Facebook account, we request access to the following:
-
-  * "Access my basic information: Includes name, profile picture, gender, networks, user ID, list of friends. And any other information I've shared with everyone."
-
-Access to basic user information is required by Facebook in order to use the Facebook login functionality. We will display the user's name, and potentially their profile picture in future, to identify them as the person who posted the comment.
-
-  * "Send me e-mail: The Weather Network may e-mail me directly at [user's e-mail address]"
-
-We require an e-mail address to match the user's Facebook account with The Weather Network's user database. We may contact the user directly regarding their use of the commenting feature, or to notify them if their comment might be used on television. Unless the user has "opted in" elsewhere on the website, we will not send the user marketing or promotional material.
-
-  * "Post to Facebook as me: The Weather Network may post status messages, notes, photos, and videos on my behalf"
-
-We require this access to allow users to send comments made on our website to their own Facebook pages, allowing them to share links with their friends. Any postings sent to users' Facebook pages are user-generated: We will not post promotional, informational or other unexpected messages. After allowing access for initial login, a user may Remove this permission on Facebook, under Privacy Settings | Apps and websites | Edit settings.
-
-  * "Access my profile information: Activities, Interests, Birthday, Hometown, Current City"
-
-This data will be used to target content and advertising, allowing us to display information on our website that is relevant to the user's location, interests and age.
-
-
-
-
-Services that use Facebook features are developed in accordance with the [Facebook Platform Policy for Developers](http://developers.facebook.com/policy/)
-
-Weather Button
-
-When users sign up to obtain a 'Weather Button' we request their name, e-mail address, company name (if available) and website URL. The purpose of this is to be able to contact users of the button to communicate changes in the program as well as for record keeping purposes in respect of where the Weather Button is posted. This information will be retained until the operator of the website using the Weather Button informs us that they have removed the Weather Button from their website.
-
-Photos & Videos
-
-When Website users create an account to upload images or videos to the "Photos & Videos" section, we request their name, e-mail address, password and postal code. The purpose of this is to enable users to identify themselves having taken the imagery and video they choose to upload, and to facilitate display of their name and home location on any items posted to the Website or used on The Weather Network on television. By registering for and providing material for upload, users agree to the publication of their name and home location together with their uploaded image or video.
-
-Feedback Form
-
-When a Website user submits a comment or inquiry using the online feedback form, we request their name and e-mail address, along with the comment or inquiry in the body of the message for the purpose of responding to their message. This information may be shared with persons outside of PMI as required to respond effectively to a query or address a reported issue. We retain all e-mail correspondence for 24 months. Where e-mail correspondence is retained for longer than 24 months, we will remove Personal Information from the e-mail correspondence.
-
-Cookies
-
-Cookies are small text files transferred to a Website user's hard drive by a web server. They are commonly used to flag return visitors to a site, record user preferences, shopping cart items, registration information, pages viewed or items purchased.
-
-PMI uses cookies on theweathernetwork.com:
-
-  * to remember searched locations for quick future reference by visitors; and
-  * to save login information for Subscription and Photos & Videos registrants (if they select the "Remember me" option when logging in).
-
-
-
-No additional personal information is collected in providing these features.
-
-In addition, PMI's service providers include those that manage the serving of advertising on our Website, who may use cookies and/or collect IP addresses in order to execute advertising campaigns in order to limit repeat views of a banner for an individual user, or to track the number of clicks a banner receives. These cookies do not, however, collect any additional personal information about who the cookies are served to.
-
-You have the option to set your browser to either accept cookies openly, to notify you before accepting cookies, or to refuse cookies altogether. If you refuse cookies please note that certain Website functionality, such as remembering your preferences, will not be available.
-
-### Limitation of Liability
-
-Complete confidentiality and security is not yet possible over the Internet. Internet use and communication is subject to interception, loss and alteration. On whichever site you provide personal information, it is possible for a third party to view that information. It is not surprising, for example, that public postings to some sites have resulted in unsolicited e-mail from spammers. You acknowledge and agree that PMI, its affiliates and related companies shall not be responsible for any damages you may suffer as a result of the transmission of confidential or sensitive information over the Internet, and that all such communications will be at your own risk.
-
-Links to Other Websites
-
-The Website may contain links to other websites. As well, certain products and services may only be available in connection with certain third parties and their websites, including social media providers. While we try to link only to websites that share our standards and respect for privacy, we are not responsible for the content or privacy practices of other websites. We strongly encourage all visitors to the Website to review the privacy statements and policies of all external websites.
-
-### Contact Us
-
-We hope you find this Privacy Policy informative and clear. Please use our [feedback form](https://web.archive.org/about-us/contact-us) to contact us regarding any questions or further information you may be interested in. You can also contact us by mail, at:
-
- **Privacy Officer
-
-Pelmorex Media Inc.
-
-**
-
-2655 Bristol Circle 
-
-Oakville, ON L6H 7W1
-
-Individuals can also contact the Privacy Commissioner of Canada by mail, at:
-
-Updates
-
-PMI reserves the right to update and amend this Privacy Policy as it is deemed necessary or appropriate to do so. Please check back often to be apprised of any changes. By continuing to use the Website, you accept any updates to this Privacy Policy. This version was updated on November 15, 2011.
+PMI may amend this Privacy Policy at any time. Please check back often for any changes. By continuing to use the Services, you accept all updates to this Privacy Policy. This version was updated on January 6, 2016.
