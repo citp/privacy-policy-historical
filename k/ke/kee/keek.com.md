@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keek.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226062134id_/https%3A//www.keek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keek.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505014004id_/https%3A//www.keek.com/privacy-policy) for the most accurate reproduction.*
 
 # Keek Privacy Policy
 
