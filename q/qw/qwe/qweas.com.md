@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qweas.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223050455id_/http%3A//www.qweas.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qweas.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504235841id_/http%3A//www.qweas.com/privacy.htm) for the most accurate reproduction.*
 
 # Qweas.com Privacy Policy
 
