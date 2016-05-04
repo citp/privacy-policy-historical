@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irr.org.uk privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115125428id_/http%3A//www.irr.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irr.org.uk privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504150521id_/http%3A//www.irr.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Institute of Race Relations
 
