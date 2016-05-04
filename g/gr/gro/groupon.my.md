@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groupon.my privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225003156id_/http%3A//www.groupon.my/data_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groupon.my privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505013801id_/http%3A//www.groupon.my/data_privacy) for the most accurate reproduction.*
 
 # Up to 70% discount on restaurants, spas, travel, shopping - GROUPON.my
 
