@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mitsubishicars.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120011714id_/http%3A//www.mitsubishicars.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mitsubishicars.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504184544id_/http%3A//www.mitsubishicars.com/privacy) for the most accurate reproduction.*
 
-# Privacy / Mitsubishi Motors
+# Privacy | Mitsubishi Motors
 
 ### Mitsubishi Motors North America, Inc. 
 
