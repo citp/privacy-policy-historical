@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wabco-auto.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104114443id_/http%3A//www.wabco-auto.com/footer/cookiespolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wabco-auto.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504210346id_/http%3A//www.wabco-auto.com/footer/cookiespolicy) for the most accurate reproduction.*
 
 # WABCO | Web Privacy Policy
 
