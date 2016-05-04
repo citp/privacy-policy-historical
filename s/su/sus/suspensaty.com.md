@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suspensaty.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227232445id_/http%3A//suspensaty.com/pages/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suspensaty.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505005656id_/http%3A//suspensaty.com/pages/about/privacy) for the most accurate reproduction.*
 
 # About Suspensaty
 
