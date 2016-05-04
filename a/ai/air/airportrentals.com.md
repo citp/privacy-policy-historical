@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the airportrentals.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210201223id_/http%3A//www.airportrentals.com/aboutus.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airportrentals.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504051810id_/http%3A//www.airportrentals.com/aboutus.html%23privacy) for the most accurate reproduction.*
 
 # About AirportRentals.com - airport rentals worldwide
 
-When you want to pick up from the airport and want fuss-free car rental at a great price, you can trust us to deliver. This dedicated airport car rental website is operated by Car Rental Republic, an experienced specialist car rental broker who has arranged car rentals for over 1 million leisure and business renters. Our advanced distribution and booking technology delivers the best car rental deals on the web, and is backed by a dedicated customer service team who are available 24 hours a day, 7 days a week. For our contact details, click [here](https://web.archive.org/web/20151210201223id_/http%3A//www.airportrentals.com/contact.html).
+When you want to pick up from the airport and want fuss-free car rental at a great price, you can trust us to deliver. This dedicated airport car rental website is operated by Car Rental Republic, an experienced specialist car rental broker who has arranged car rentals for over 1 million leisure and business renters. Our advanced distribution and booking technology delivers the best car rental deals on the web, and is backed by a dedicated customer service team who are available 24 hours a day, 7 days a week. For our contact details, click [here](https://web.archive.org/web/20160504051810id_/http%3A//www.airportrentals.com/contact.html).
 
 ##  Our price guarantee policy
 
