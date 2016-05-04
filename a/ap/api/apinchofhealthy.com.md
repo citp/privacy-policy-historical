@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apinchofhealthy.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231195306id_/http%3A//www.apinchofhealthy.com/about-the-happy-mommy-project/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apinchofhealthy.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505003334id_/http%3A//www.apinchofhealthy.com/about-the-happy-mommy-project/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - A Pinch of Healthy
 
@@ -74,4 +74,4 @@ marjorie@apinchofhealthy.com
 
 This document was last updated on July 24, 2014
 
-(Visited 47 times, 2 visits today)
+(Visited 69 times, 1 visits today)
