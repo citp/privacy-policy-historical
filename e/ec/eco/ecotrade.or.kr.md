@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecotrade.or.kr privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115004034id_/http%3A//www.ecotrade.org/f.to/guide/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecotrade.or.kr privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504020026id_/http%3A//www.ecotrade.org/f.to/guide/privacy_policy.html) for the most accurate reproduction.*
 
 # Environmental marketplace for Korea environmental technology & product | ECOTRADE
 
@@ -55,11 +55,7 @@ Your registration information may be provided to third parties only when applied
 
 ① For the smooth fulfillment of processing personal information, the Ecotrade entrust following assignments to consignee. 
 
-\- consignee : ecplaza
-
-\- assignments : system refine, operation, and maintenance
-
-\- period : 2015. 5. 12 ~ 2015. 12. 4
+\- Entrust of collected personal information(click [Here](http://keiti.re.kr/etc/privacyList.html))
 
 ② When make a contract with consignee for assigned tasks, the Ecotrade state contract item(supervision, technological/systematic restraint for protection, liability for damages, prohibition of reconsignment, etc) and exercise supervision of consignee in accordance with Article 26 of the Privacy Act
 
@@ -167,13 +163,13 @@ KONETIC
 
 | 
 
-Lee, Kyung Hee
+Kim, Mu Gyeom
 
 | 
 
-Tel : 02-380-0557
+Tel : 02-380-0553
 
-E-mail : onlyleek@keiti.re.kr
+E-mail : mgkim@keiti.re.kr
 
 Fax : 02-380-0590  
   
