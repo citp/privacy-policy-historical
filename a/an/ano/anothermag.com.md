@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anothermag.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905220858id_/http%3A//www.anothermag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anothermag.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504203740id_/http%3A//www.anothermag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AnOther
 
@@ -8,11 +8,11 @@ When you wish to receive or use services on this website, such as newsletters, p
 
 By entering the details in the forms, you enable Anothermag.com and its service providers to provide you with the services you select.
 
-**Financial Information**
+ **Financial Information**
 
 We use Shopify customer order and management system to process orders and Paypal as our payment gateway to verify the debit and credit card details you supply. Once transactions have been verified and completed we do not hold any details regarding your personal debit or credit cards.
 
-**Visitor Information**
+ **Visitor Information**
 
 When you visit Anothermag.com, the pages you see are downloaded to your computer, along with a text file which is called a cookie. Each website on the internet can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites.
 
@@ -22,7 +22,7 @@ It enables us to personalise parts of the site for your visit, for example looki
 
 If you have set your computer to reject cookies you can still browse Another Mag anonymously, however you will not be able to register with the site, and your experience of interactive elements of the site may be affected.
 
-**Use and Storage of Information**
+ **Use and Storage of Information**
 
 When you supply any personal information to Anothermag.com we have legal obligations towards you in the way we use those data. We must collect the information fairly, that is, we must explain how we will use it (see the notices on particular webpages that let you know why we are requesting the information) and tell you if we want to pass the information on to anyone else.
 
@@ -32,7 +32,7 @@ In general, any information you provide to Anothermag.com will only be used with
 
 We will hold your personal information on our systems for as long as you use the service you have requested, and remove it in the event that the purpose has been met, or, in the case of Anothermag.com membership you no longer wish to continue your registration as a Anothermag.com member. For safety reasons, however, we may store messaging transcript data (including message content, member names, times and dates) arising from the use of Anothermag.com. Where personal information is held for people who are not yet registered but have taken part in other Anothermag.com services (e.g. email notifications), that information will be held as long as is necessary to ensure that the service is run smoothly. We will ensure that all personal information supplied is held securely, in accordance with the Data Protection Act 1998.
 
-**Access to your personal information**
+ **Access to your personal information**
 
 You have the right to request a copy of the personal information Anothermag.com holds about you and to have any inaccuracies corrected. (We charge £10 for information requests.) Please address requests to the Data Protection Officer, Another Magazine, 112-116 Old Street, London, EC1V 9BG (Email: info@anothermag.com ).
 
