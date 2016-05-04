@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seatemperature.org privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031134423id_/http%3A//www.seatemperature.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seatemperature.org privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505003419id_/http%3A//www.seatemperature.org/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | World Sea Temperatures Water Temperatures
 
