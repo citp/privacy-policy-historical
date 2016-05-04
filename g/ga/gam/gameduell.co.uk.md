@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameduell.co.uk privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208082353id_/http%3A//www.gameduell.co.uk/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameduell.co.uk privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504040708id_/http%3A//www.gameduell.co.uk/help/privacy.html) for the most accurate reproduction.*
 
 # Privacy Protection at GameDuell
 
