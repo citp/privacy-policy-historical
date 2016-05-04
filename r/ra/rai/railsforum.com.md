@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the railsforum.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905114601id_/https%3A//railsforum.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the railsforum.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504234038id_/https%3A//railsforum.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Rails Forum
 
