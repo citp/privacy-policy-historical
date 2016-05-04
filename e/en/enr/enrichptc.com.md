@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the enrichptc.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101122649id_/http%3A//www.enrichptc.com/index.php%3Fview%3Dprivacy%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enrichptc.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504143456id_/http%3A//www.enrichptc.com/index.php%3Fview%3Dprivacy%26) for the most accurate reproduction.*
 
 # En Rich Ptc : Privacy
 
-**171,916 Members      ** **1,274 Online      ** **$95,771,278.76 Paid Out Instantly..**   
+**173,433 Members      ** **1,283 Online      ** **$102,356,390.83 Paid Out Instantly..**   
 
 
 [](http://www.enrichptc.com/index.php?view=join&)
@@ -15,11 +15,11 @@
 
 ## Daily Top 5
 
-1\. Knyaginya (8)  
-2\. gptclickptc (8)  
-3\. MARIAWD (8)  
-4\. kcsamy (8)  
-5\. ihalagedarathilak (8)  
+1\. Knyaginya (7)  
+2\. gptclickptc (7)  
+3\. ASIADOM (7)  
+4\. MARIAWD (7)  
+5\. ADAMDOM (7)  
 
 
 | 
