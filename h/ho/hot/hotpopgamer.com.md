@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotpopgamer.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230124814id_/http%3A//hotpopgamer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotpopgamer.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504172514id_/http%3A//hotpopgamer.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Hot Pop Gamer
 
@@ -55,3 +55,13 @@ Please remember that Hot Pop Gamer does not have access to, or control over, the
 These third parties may offer you a way to choose not to have your information used for advertising purposes. For example, some of these companies are members of the Network Advertising Initiative (“NAI”), which provides a single location where you can opt out of receiving targeted ads from member companies. To opt out, please visit the NAI’s website at http://www.networkadvertising.org/managing/opt_out.asp. 
 
 Please note that if you choose to opt out of having your information used to deliver advertisements tailored to your interests, you will continue to see advertisements on the Site, but these advertisements may not be as relevant to you.
+
+## Recent Posts
+
+[ ](http://hotpopgamer.com/the-greatest-star-wars-games-ever-2/ "The Greatest Star Wars Games Ever")
+
+### [The Greatest Star Wars Games Ever](http://hotpopgamer.com/the-greatest-star-wars-games-ever-2/)
+
+__Feb 02, 2016
+
+If you’re like everyone else and simply can’t get enough Star Wars right now, your best bet is to probably turn to the wonderful world of video games. There have... 
