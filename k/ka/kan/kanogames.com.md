@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kanogames.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911090140id_/http%3A//www.kanogames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kanogames.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504031457id_/http%3A//www.kanogames.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Kano Games
 
