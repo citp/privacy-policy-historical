@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leaprate.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007002407id_/http%3A//leaprate.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leaprate.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504132210id_/https%3A//leaprate.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LeapRate
 
