@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compareschoolrankings.org privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231055351id_/http%3A//www.compareschoolrankings.org/GeneralPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compareschoolrankings.org privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504182909id_/http%3A//www.compareschoolrankings.org/GeneralPrivacy.aspx) for the most accurate reproduction.*
 
 # School Report Cards by the Fraser Institute - Privacy policy
 
@@ -55,7 +55,7 @@ To ensure the protection of personal information collected by us, THE FRASER INS
 
 
 
-**9\. Openess**  
+**9\. Openness**  
 The FRASER INSTITUTE is committed to making readily available to individuals information on our policies and practices. 
 
 **10\. Individual Access**  
