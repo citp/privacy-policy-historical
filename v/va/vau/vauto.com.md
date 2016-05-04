@@ -1,101 +1,166 @@
-> *The following text is extracted and transformed from the vauto.com privacy policy that was archived on 2013-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130406140230id_/http%3A//vauto.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vauto.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504171007id_/http%3A//www.vauto.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | vAuto
 
-## Our Commitment to You
+This statement is effective as of August 18, 2014.
 
-We, at vAuto, understand and respect that you and your dealership's privacy is of the utmost importance. It is because of this philosophy that you can be confident that the information you divulge to vAuto will not be accessible in anyway that is inconsistent with this policy. Neither will it be sold or otherwise distributed to third parties other than in accordance with this policy without your consent. vAuto is not a source of unsolicited emails or text messages. 
+## Introduction
 
-  1. What Personal Details do you need to know? 
-  2. What do you use my personal details for?
-  3. What do you use my dealership's details for?
-  4. Does vAuto sell my information to third parties? 
-  5. How secure is your web server? 
-  6. Will I be added to any mailing lists? 
-  7. Do you send unsolicited emails or text messages? 
-  8. What do you use cookies for?
-  9. How will I be notified of changes? 
-  10. How do I cancel my subscription?
-  11. How do I contact you?   
+Thank you for your interest in vAuto. When we refer to vAuto within this Privacy Statement, we are referring to vAuto, Inc. We respect the privacy of our users when they use our websites, mobile and other online applications and products and services at vAuto.com, realdeal.com, auctiongenius.net, dalepollak.com, and aisrebates.com (collectively, the “vAuto Sites”). By using the vAuto Sites, you consent to the use of your information and information about you in accordance with this Privacy Statement.
+
+This Privacy Statement applies to information collected through the vAuto Sites and does not describe the collection, use and disclosure practices of any of our corporate affiliates or third parties. For information on the collection, use and disclosure practices of any company with whom you are doing business, whether or not affiliated with vAuto, please review their privacy policies.
+
+Services offered by the Sites are not directed to individuals under the age of eighteen (18). If you are under eighteen (18), you should not provide any personal information to us.
+
+This Privacy Statement covers:
+
+  * Information We Collect
+    * Information You Provide
+    * Automated Information
+    * Data Technologies
+    * Videos
+    * Location Information
+    * Publicly Posted Information
+    * Combined Information and Information from Other Sources
+  * How We May Use the Information We Collect
+  * Applications, Widgets and Social Media
+  * Advertising Networks
+  * Information We Share
+    * Affiliates and Dealers
+    * Our Service Providers
+    * Corporate and Asset Transactions
+    * Other
+  * Your Choices
+  * Your California Privacy Rights
+  * Access and Correction
+  * Links
+  * Data Security
+  * Disputes
+  * Updates to this Privacy Statement
+  * How to Contact Us
 
 
 
+## Information We Collect
 
-### What personal details do you need to know? 
+Information is gathered from the Sites by us, our service providers, advertisers, sponsors and partners.
 
-The minimum of information we ask for vAuto is your name, telephone number, email address and dealership affiliation. As an vAuto subscriber, we may also need to know your cellular provider.   
-You may update this information at any time by simply clicking on the 'personal profile' link.   
+**Information You Provide.** We may collect information that you choose to provide on the Sites in a variety of ways, such as when you:
+
+  1. register for one of our products or services. This information may include your name, address, telephone number, email address, and company name;
+  2. make information available to us via social networking logins, such as Facebook or Twitter;
+  3. express an interest in buying or trading in a car (such as completing a lead form);
+  4. participate in chats, web forums or other interactive sessions;
+  5. subscribe to newsletters or provide feedback; and
+  6. participate in surveys, sweepstakes or other promotions.
 
 
-### What do you use my personal details for?   
 
-We will use your name so that we can personalize your experience with us. We will use your email address to contact you from time to time and we will use your email address for security reasons to confirm that you are who you say you are. 
+**Automated Information.** Information regarding your use of the Sites may be collected and/or aggregated through the use of automated means. This automatically collected information may include information such as: 
 
-We also collect other data, which may include your IP address and what browser you are using. We use this information to statistically analyze site usage and to customize our site's content, layout and services. The resulting information will allow us to improve our site and better understand and serve our users. It is compiled and analyzed on an aggregated basis only. 
+  1. your IP address, the type of browser and operating system used;
+  2. date and time you access the Sites and pages you visit, and if you linked from or to another website, the address of that website;
+  3. email you open and links you click on within those emails; and
+  4. your ISP or mobile carrier, and the type of handheld or mobile device that you used.
 
-### What do you use my dealership's details for?
 
-Your dealership's information is used within the vAuto system to provide the services that have been described on the Corporate section of our website and further defined in the body of the application. vAuto may reference your dealership's subscription as part of our sales, marketing or advertising promotions. With your dealership's prior permission, vAuto may reference your dealership's information for demonstration purposes. 
 
-### Does vAuto sell my information to third parties?
+**Data Technologies.** Various technologies are used to automatically collect information, such as cookies, local shared objects, and web beacons (generally referred to as “Data Technologies.”) “Cookies” are small identifiers sent from a web server that are stored on your device for the purpose of identifying your browser or storing information or settings in your browser. “Local shared objects,” sometimes known as Flash cookies, may be used to store your preferences or display content based upon what you have viewed on various websites to personalize your visit. A “web beacon,” also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies. Anonymous advertising identifiers are increasingly being used on mobile devices and otherwise in a manner similar to cookies. When we refer to Data Technologies, we are including all current and similar future technologies. 
 
-As a matter of policy, we do not sell, rent or lend any of your personal or dealership information to third parties other than in accordance with this policy without your consent. However, the following describes some of the ways that your personal or dealership information may be used in the normal routine to provide our range of services to you. 
+One or more Data Technologies may be used on the Sites and other websites and mobile applications (that may not be the Sites) by us, by another party on our behalf, or by third parties in accordance with their privacy policies. Data Technologies may be used by us and others, on our behalf and on their own behalf, to transmit information to you or about you and connect information about you from different sources, websites, devices, and mobile applications. 
 
-### Service Management.
+We may use a uniquely generated trackable toll-free telephone number on the Sites or in advertisements. If you call one of these uniquely generated toll-free numbers, we (or a service provider acting on our behalf) may collect non-personally identifiable information about the call (e.g. date, time, duration), as well as personally identifiable information (e.g. your name, the number from which your call originated). 
 
-We use your personal or dealership information to provide the services you request. We use your personal and dealership information to: troubleshoot problems; measure user interest in our services, inform you about offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our Terms of Use; and as otherwise described to you at the time of collection. 
+**Videos.** We may target and track the videos you view on the Sites. You consent to our tracking of your video viewing through the Site or third party social media for up to two years or as permitted by applicable law. 
 
-You agree that we may use personal or dealership information about you to improve our marketing and promotional efforts, to analyze site usage, improve our content and product offerings, and customize the Site's content, layout, and services. These uses improve the Site and better tailor it to meet your needs, so as to provide you with a smooth, efficient, safe and customized experience while using the Site. 
+**Location Information.** We may collect physical location information that is sufficiently precise to allow us to locate a specific person or device (“Location Information”). We only collect Location Information with your permission (e.g., such as when you agree to provide it to us after initial access to or downloading our website). We may use Location Information and provide it to third parties to provide you with content and services that are relevant to a particular location, such as advertising, search results, auctions in the area, and directions. 
 
-You agree that we may use your personal or dealership information to contact you and deliver information to you that, in some cases, are targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the Site. By accepting the Terms of Use and Privacy Policy, you expressly agree to receive this information. 
+**Publicly Posted Information.** Information that you make available to us and others via social media networks, forums, blogs, list serves, chat rooms or similar functionality is public information that we or others may share or use in accordance with the law. 
 
-### Internal Service Providers for Our Operations.
+**Combined Information and Information from Other Sources.** We may combine information that you provide to us with information we receive from our affiliates and other sources, as well as with other information that is automatically collected. The combined information may include information about your use of the Sites, your use of other websites, devices and mobile applications and information from our affiliates and other sources. 
 
-We may use third parties that we refer to as internal service providers to facilitate or outsource one or more aspects of the business, product and service operations that we provide to you (e.g., dealer management system integrators, auction information providers, and vehicle guidebook data providers) and therefore we may provide some of your personal or dealership information directly to these internal service providers. These internal service providers' are subject to confidentiality agreements with us and other legal restrictions that prohibit their use of the information we provide them for any other purpose except to facilitate the specific outsourced vAuto related operation, unless you have explicitly agreed or given your prior permission to them for additional uses. 
+## How We May Use the Information We Collect
 
-In some instances, the internal service provider may collect information directly from you or your dealership. If you provide additional information to an internal service provider directly, then their use of your personal or dealership information is governed by their applicable privacy policy.
+We may use information we collect for the following purposes:
 
-### Advertisers.
+  1. for everyday business purposes, such as establishing and managing your user account, providing products and services you request, and providing customer support;
+  2. to offer our other products or services and/or the products or services of others to you;
+  3. to communicate about, and administer your participation in, special events, programs, surveys, contests, sweepstakes and other offers or promotions;
+  4. to enable you to interact with the Sites and our users, dealers, and others through various means, such as through our message boards, blogs and social media;
+  5. to evaluate and improve our business, including developing new products and services and analyzing the effectiveness of products, services, applications and websites;
+  6. to diagnose and address technical and service problems;
+  7. to perform data analyses, including market and consumer research, trend analysis, demographic analysis and financial analysis;
+  8. to deliver content (including advertising) correlating to your interests and browsing and usage history, both within the Sites and on other websites and applications;
+  9. to comply with applicable legal requirements and our policies; and
+  10. to contact you via telephone, text or chat. We will obtain your consent to contact you when and in the manner required by law.
 
-We disclose non-personally identifiable aggregated (gather up data across all member accounts) information to advertisers and other third parties. 
 
-### Law Enforcement.
 
-vAuto cooperates with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights, to help protect you, your dealership and the vAuto service. Therefore, in response to a genuine request by law enforcement or other government officials relating to a criminal investigation or alleged illegal activity, we can disclose personal or dealership information about you and your dealership. Third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal or dealership information that they collect from the Site. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal or dealership information or private communications will always remain private. Credit card processing and all related information is encrypted and protected through the services of VeriSign Inc, a leading secure Internet credit card payment processing enterprise. Security and privacy related to the VeriSign credit card payment transactions can be viewed directly from their site. 
+## Applications, Widgets and Social Media
 
-### Acquisition.
+We may include applications or widgets from social media providers that allow interaction or content sharing by their users. These widgets, such as a Facebook “Share” or “Like” button, are visible to you on the web page you visit. Integration between the Sites and social media networks such as Facebook, Twitter and others may allow social media networks in which you participate to collect information about you, even when you do not explicitly activate the network’s application or widget. Please visit the applicable social media network’s privacy policy to better understand their data collection practices and choices they make available to you. The privacy policy of the social media network controls the collection, use and disclosure of all personal information transmitted to that network. 
 
-It is possible that as we continue to develop our website and our business, vAuto's service and/or related assets might be acquired. Notwithstanding any provision in this policy to the contrary, in event of a merger or acquisition, your personal information may be transferred to the acquiring entity, and become subject to the acquirer's data practices. 
+## Advertising Networks
 
-### How secure is your web server?  
+Advertising that is customized based on predictions generated over time from your visits across different websites, devices and mobile applications is sometimes called “online behavioral” or “interest-based” advertising. We may partner with advertising networks, which are companies that deliver targeted advertisements to consumers and generate statistics and metrics related to the delivery of interest-based advertisements. They may utilize information collected through a variety of Data Technologies to provide customization, auditing, research and reporting for us, our affiliates and other advertisers. This data collection takes place both on the Sites and on third-party’s websites and mobile applications. This process allows the Sites and third parties to deliver targeted advertising, enhance marketing programs and help track the effectiveness of such efforts. Our advertising networks also may use this information for determining or predicting the characteristics and preferences of their respective advertising audiences and measuring the effectiveness of their advertising in accordance with their privacy policies. 
 
-Our web servers are locked in cages in an internet data center constructed with double aluminum walls and high-impact resistant glass. This center offers the widest range of physical security features including state-of-the-art smoke detection and fire suppression systems, motion sensors, locked-down floor tiles, as well as video camera surveillance and security breach alarms. 
+We do not provide information that is directly associated with a specific person (such as name and address) to an advertising network when you interact with or view a customized advertisement. However, when you view or interact with an advertisement, the advertiser may make an assumption that you are interested in the subject matter of the advertisement. 
 
-vAuto uses industry standard technology to keep your personal information as safe as possible. Additionally, we have dedicated non-stop power systems, with multiple back-up generators, in case of power failure. Our servers are housed on a dedicated Ethernet segment with a dedicated router port for added network security. 
+Some companies disclose when they are using interest-based advertising programs on the Sites to deliver third-party ads or collecting information about your visit for these purposes and give you the ability to opt-out of this use of your information. You may see an icon  in or around third-party advertisements on the Sites that use interest-based advertising programs and on pages where data is collected and used for online interest-based advertising. Clicking on this icon will provide additional information about the companies and data practices that were used to deliver the ad. You can opt out of delivery of targeted advertising to you by multiple companies by visiting [aboutads.info/choices](http://www.aboutads.info/choices), [networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) and [ghosteryenterprise.com](http://www.ghosteryenterprise.com/). Please note that even if you opt out, you will continue to receive advertisements, but they will not be tailored to your specific interests. 
 
-### Will I be added to any mailing lists?      
+## Information We Share
 
-We do not sell, rent or lend email addresses for any other purpose than in direct association with your use of the vAuto service or as otherwise described in this privacy policy. 
+We do not sell or otherwise share information about you that we collect or receive, except as described below:
 
-### Do you send unsolicited emails or text messages?  
+  1. **Affiliates and Dealers.** Information collected, including personal information and Data Technologies, may be shared with affiliates and dealers, and their agents and third party service providers, who will use that information in accordance with their own privacy policies. 
+  2. **Our Service Providers.** We may engage third parties to provide the services offered through or in connection with the Sites on our behalf. We require such providers to maintain information about you as confidential and to use the information only to perform the services specified by us in a manner consistent with this Privacy Statement. 
+  3. **Corporate and Asset Transactions.** If we sell all or substantially all of our business or sell or transfer all or a material part of our assets, or are otherwise involved in a merger or transfer of all or a substantial part of our business, we may transfer all information we have collected and stored, including personal information, to the party or parties involved in the transaction as part of that transaction. 
+  4. **Other.** We may access or disclose information, including personal information, to: 
+    1. protect or defend our interests and the legal rights or property of vAuto and our affiliates; 
+    2. protect the rights, interests, safety and security of users of the Sites or members of the public; 
+    3. protect against fraud or for risk management purposes; or 
+    4. comply with prudent legal practice as we may determine, and applicable law or legal process. 
 
-vAuto will not send any unsolicited information, including email and text messages. You will, however receive emails and text messages which form an essential part of the service. 
 
-### What do you use cookies for?
 
-Cookies are a standard internet technology, and many major web sites use them to provide useful features for their members. Cookies allow us to store and retrieve login information on a user's system. They provide us with data that we can use to improve our service to you. If you so choose, you can save your login or password so you don't have to re-enter them each time you visit our site. 
+## Your Choices
 
-Cookies themselves do not personally identify users, although they do identify a user's computer. Most browsers are initially set up to accept cookies. If you'd prefer, you can set yours to refuse cookies. However, you may not be able to take full advantage of our web site if you do so. 
+You are entitled to make certain choices about how we communicate with you.
 
-### How will I be notified of changes?  
+  1. You may choose not to provide personal information, even though that might impact your ability to register or receive a particular product or service. 
+  2. If you do not want to receive marketing email from the Sites, you can follow the unsubscribe link provided in those emails. 
+  3. If you do not want to receive interest-based advertisements, you can opt out as discussed in the “Advertising Networks” section above. 
+  4. You have a number of choices regarding certain Data Technologies. Most web browsers automatically accept cookies, but you can usually modify your browser’s setting to decline cookies if you prefer. You may also render some web beacons unusable by rejecting their associated cookies and disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or opting out at Ghosteryenterprise.com or the website of the technology provider. If you choose to decline cookies or similar technologies, however, please note that certain features may not function properly or at all as a result. You may be able to adjust the use of advertising identifiers on mobile devices through the settings on your device. Finally, if you do not want to use a uniquely generated telephone number, you may choose to not call us. 
+  5. If you do not want us to use Location Information, you can decline our initial invitation to provide that information, or opt out by changing the location services settings on your mobile device. However, please note that certain features may not function properly or at all as a result if you opt out. 
 
-We may amend this Privacy Policy at any time by posting the amended terms on the Site. All amended terms shall automatically be effective immediately after posting on the Site. 
 
-### How do I cancel my subscription?
 
-You always have the option not to become a member or to cancel your membership at any time. If you are a subscriber and no longer wish to participate in vAuto you can contact us using the contact information on our website. Once confirmed in writing by vAuto, this action will cancel your subscription. 
+## Your California Privacy Rights
 
-### How do I contact you?
+California Civil Code Section 1798.83 entitles California users to request information concerning whether a business has disclosed certain information about you to any third parties for the third parties’ direct marketing purposes. California users who wish to request further information in compliance with this law or have questions or concerns about our privacy practices and policies may contact us as specified in the “How to Contact Us” section below. 
 
-If you have any questions about this privacy statement, the practices of this website or your dealings with this website, you can contact us via the contact us page.   
+Online Tracking Policy for California Residents. As of the effective date of this Privacy Statement, there is no commonly accepted response for Do Not Track signals initiated by browsers, therefore we do not respond to them. 
 
+## Access and Correction
+
+Access to information that we collect and maintain about you may be available to you. For example, if you created a password-protected account within the Sites, you can access that account to update the information you previously provided. Additionally, if you believe that information we maintain about you is inaccurate, subject to applicable law, you may request that we correct or amend the information by contacting us as indicated in the “How to Contact Us” section below. 
+
+## Links
+
+The Sites may contain links to websites not operated by us, as well as third party widgets and applications discussed above. Once you leave the Sites, we suggest that you review the applicable privacy policy of the third-party website or application. We are not responsible for the content or use of any websites or applications other than on the Sites or the privacy practices of those websites or applications. 
+
+## Data Security
+
+We use commercially reasonable administrative, technical, personnel, and physical security measures designed to safeguard information about you in our possession against loss, theft and unauthorized use, disclosure or modification. Of course, despite these measures, we cannot guarantee perfect security of networks, servers and databases we operate or that are operated on our behalf. 
+
+## Disputes
+
+If you choose to visit the Sites, your visit and any dispute regarding privacy is subject to this Privacy Statement and our Visitor Agreement, including limitations on damages, resolution of disputes, and application of the law of the state of Georgia. 
+
+## Updates to this Privacy Statement
+
+We may update this Privacy Statement to provide clarification or notice of changes to our practices. If we make changes, we will revise the date at the top of this Privacy Statement. We will provide you with additional notice of material changes by posting notice of the changes for thirty (30) days before we implement those changes. 
+
+## How to Contact Us
+
+If you have any questions or comments about this Privacy Statement, or if you would like us to update information we have about you or your preferences, please contact us by email at [privacy@vAuto.com](mailto:privacy@vAuto.com). 
