@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aadharcardkendra.org.in privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430053120id_/http%3A//www.aadharcardkendra.org.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aadharcardkendra.org.in privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504092443id_/http%3A//www.aadharcardkendra.org.in/privacy-policy) for the most accurate reproduction.*
 
 # AadharCardKendra.org.in Privacy Policy
 
