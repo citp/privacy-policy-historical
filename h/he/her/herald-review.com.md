@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herald-review.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219042621id_/http%3A//herald-review.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herald-review.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504021237id_/http%3A//herald-review.com/privacy) for the most accurate reproduction.*
 
 # Privacy | herald-review.com
 
