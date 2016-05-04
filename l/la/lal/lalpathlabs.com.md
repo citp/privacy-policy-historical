@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lalpathlabs.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316001021id_/http%3A//www.lalpathlabs.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lalpathlabs.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504071012id_/https%3A//www.lalpathlabs.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Dr Lal PathLabs - Diagnostic Center, Blood test & Health CheckUps
+# Privacy Policy and Privacy terms listed at Dr Lal PathLabs
 
 ### Privacy Policy
 
