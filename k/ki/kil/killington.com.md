@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the killington.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929152629id_/http%3A//www.killington.com/company/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the killington.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504120449id_/http%3A//www.killington.com/company/Privacy_Policy) for the most accurate reproduction.*
 
 # Killington - Privacy Policy
 
