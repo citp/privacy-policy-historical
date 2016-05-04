@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerbuilder.ca privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104014031id_/http%3A//www.careerbuilder.ca/intl/share/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerbuilder.ca privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504181906id_/http%3A//www.careerbuilder.ca/intl/share/info/privacy.aspx) for the most accurate reproduction.*
 
 # Find Jobs on CareerBuilder.com
 
@@ -54,7 +54,7 @@ In addition, when you visit our Sites or use our Apps, we may collect certain in
 
 
 
-[(Return to Top)](https://web.archive.org/web/20151104014031id_/http%3A//www.careerbuilder.ca/intl/share/info/privacy.aspx?#top)
+[(Return to Top)](https://web.archive.org/web/20160504181906id_/http%3A//www.careerbuilder.ca/intl/share/info/privacy.aspx?#top)
 
 ### How We Use the Information We Collect
 
@@ -78,9 +78,9 @@ We may use the information we obtain about you to:
 
 
 
-We also use certain technical information about your computer and your access of the Sites (including your internet protocol address) in order to operate, maintain and manage the Sites. We collect this information by automated means, such as cookies and web beacons, as described in more detail [below](https://web.archive.org/web/20151104014031id_/http%3A//www.careerbuilder.ca/intl/share/info/privacy.aspx?#cookies). 
+We also use certain technical information about your computer and your access of the Sites (including your internet protocol address) in order to operate, maintain and manage the Sites. We collect this information by automated means, such as cookies and web beacons, as described in more detail [below](https://web.archive.org/web/20160504181906id_/http%3A//www.careerbuilder.ca/intl/share/info/privacy.aspx?#cookies). 
 
-[(Return to Top)](https://web.archive.org/web/20151104014031id_/http%3A//www.careerbuilder.ca/intl/share/info/privacy.aspx?#top)
+[(Return to Top)](https://web.archive.org/web/20160504181906id_/http%3A//www.careerbuilder.ca/intl/share/info/privacy.aspx?#top)
 
 ### INFORMATION WE SHARE
 
@@ -98,7 +98,7 @@ CareerBuilder also may disclose specific user information when we determine, in 
 
 In addition, Personal Information we have collected may be passed on to a third party in the event of a transfer of ownership or assets or a bankruptcy or other corporate reorganization of CareerBuilder. 
 
-[(Return to Top)](https://web.archive.org/web/20151104014031id_/http%3A//www.careerbuilder.ca/intl/share/info/privacy.aspx?#top)
+[(Return to Top)](https://web.archive.org/web/20160504181906id_/http%3A//www.careerbuilder.ca/intl/share/info/privacy.aspx?#top)
 
 ### Resume Privacy Options
 
@@ -117,7 +117,7 @@ This option allows you to post your resume on the Sites without having it search
 
 We attempt to limit access to our searchable resume database to legitimate users such as paying employers, recruiters, hiring managers, headhunters and human resource professionals, but cannot guarantee that other parties will not gain access to this database. We cannot control the use of resumes by third parties who access such resumes while they are in our searchable database. You may remove your resume from our searchable database at any time. However, employers, recruiters and others who have paid for access to that database, as well as parties who have otherwise gained access to the database may have retained a copy of your resume in their own files or databases. We cannot control the retention, use or privacy of resumes or profiles that have been downloaded by third parties. Accordingly, you should not put information you would not want made public in your resume.
 
-[(Return to Top)](https://web.archive.org/web/20151104014031id_/http%3A//www.careerbuilder.ca/intl/share/info/privacy.aspx?#top)
+[(Return to Top)](https://web.archive.org/web/20160504181906id_/http%3A//www.careerbuilder.ca/intl/share/info/privacy.aspx?#top)
 
 ### About Cookies, Tracking Choices, and Third Party Advertisers
 
@@ -139,19 +139,19 @@ In addition, some of the employers that use our Sites may place cookies on your 
 
 You may access, update and amend Personal Information in our custody or control at any time by logging into your account and making the necessary changes or by contacting us at the contact information set out at the end of this Privacy Policy. You may also delete your resume from our resume database at any time by logging in to your account and deleting the resume. Deleting your resume will remove it from your account and from the resume database, however; if you have applied to a job in the past, that particular employer will still be able to access your resume. Further, you will not be able to delete data held by third parties, such as prospective employers, that have already accessed and downloaded your information or resume.
 
-[(Return to Top)](https://web.archive.org/web/20151104014031id_/http%3A//www.careerbuilder.ca/intl/share/info/privacy.aspx?#top)
+[(Return to Top)](https://web.archive.org/web/20160504181906id_/http%3A//www.careerbuilder.ca/intl/share/info/privacy.aspx?#top)
 
 ### Links to Other Websites
 
 Our Sites may contain links to other sites for your convenience and information. These sites may be operated by companies not owned by CareerBuilder. In addition, if you are using our App through a social networking site, remember that our Apps may be served by or hosted by other sites. These other sites or linked third-party sites may have their own privacy notices, which you should review if you visit those sites. We are not responsible for the content of any sites not owned by CareerBuilder, any use of those sites, or those sites’ privacy practices.
 
-[(Return to Top)](https://web.archive.org/web/20151104014031id_/http%3A//www.careerbuilder.ca/intl/share/info/privacy.aspx?#top)
+[(Return to Top)](https://web.archive.org/web/20160504181906id_/http%3A//www.careerbuilder.ca/intl/share/info/privacy.aspx?#top)
 
 ### International Data Transfers
 
 When we obtain Personal Information about you, we or our service providers may process and store the information outside of the country in which you are located, including in the United States. The countries in which we process the information may not have the same data protection laws as the country in which you are located. Further, users who access your information, such as potential employers, also may be located in a different country than you and different laws may apply to their use of your information.
 
-[(Return to Top)](https://web.archive.org/web/20151104014031id_/http%3A//www.careerbuilder.ca/intl/share/info/privacy.aspx?#top)
+[(Return to Top)](https://web.archive.org/web/20160504181906id_/http%3A//www.careerbuilder.ca/intl/share/info/privacy.aspx?#top)
 
 ### How We Protect Personal Information
 
@@ -161,7 +161,7 @@ Please note that no electronic transmission of information can be entirely secur
 
 Please note that no electronic transmission of information can be entirely secure. We cannot guarantee that the security measures we have in place to safeguard Personal Information will never be defeated or fail, or that those measures will always be sufficient or effective. Therefore, although we are committed to protecting your privacy, we do not promise, and you should not expect, that your Personal Information will always remain private. As a user of the Sites, you understand and agree that you assume all responsibility and risk for your use of the Sites, the internet generally, and the documents you post or access and for your conduct on and off the Sites. You should safeguard your CareerBuilder account user name and password and not share that information with anyone. You may not provide your password or otherwise permit access to your CareerBuilder account to any third party. You are responsible for all uses of your account, whether or not authorized by you. You are responsible for maintaining the confidentiality of your information and password. You agree to protect and keep your password confidential, to change your password on a regular basis, and to maintain appropriate and regularly updated malware scanning and cleaning tools on your network and individual computer(s). You should also sign off your account and close your browser window when you have finished your visit to our Sites. Please note that we will never ask for your CareerBuilder account user name or password via email. You agree to notify CareerBuilder immediately of any unauthorized use of your account or password. 
 
-[(Return to Top)](https://web.archive.org/web/20151104014031id_/http%3A//www.careerbuilder.ca/intl/share/info/privacy.aspx?#top)
+[(Return to Top)](https://web.archive.org/web/20160504181906id_/http%3A//www.careerbuilder.ca/intl/share/info/privacy.aspx?#top)
 
 ### Some Important Tips To Use When Dealing With Prospective Employers
 
@@ -178,10 +178,10 @@ For additional details regarding How To Spot Fraud Online, please [click here.](
 
 We use secure socket layer (or “SSL”) technology to protect credit card transactions. The SSL technology encrypts credit card numbers while in transit to help ensure that they are not intercepted by unintended third parties. We use BluePay Processing LLC to process credit card purchases and their privacy policy may be viewed [here.](http://www.bluepay.com/privacy-policy)
 
-[(Return to Top)](https://web.archive.org/web/20151104014031id_/http%3A//www.careerbuilder.ca/intl/share/info/privacy.aspx?#top)
+[(Return to Top)](https://web.archive.org/web/20160504181906id_/http%3A//www.careerbuilder.ca/intl/share/info/privacy.aspx?#top)
 
 ### How to Contact Us
 
 You can direct questions regarding this Privacy Policy, or the manner in which we or our service providers treat your Personal Information, to CareerBuilder by emailing us at [customer.service@careerbuilder.com](mailto:customer.service@careerbuilder.com) or by letter to CareerBuilder at 5550-A Peachtree Parkway, Norcross, Georgia 30092, Attention: Customer Service. Please include your name and email address in email requests, and your name and postal address in mail requests so that we can respond to you.
 
-[(Return to Top)](https://web.archive.org/web/20151104014031id_/http%3A//www.careerbuilder.ca/intl/share/info/privacy.aspx?#top)
+[(Return to Top)](https://web.archive.org/web/20160504181906id_/http%3A//www.careerbuilder.ca/intl/share/info/privacy.aspx?#top)
