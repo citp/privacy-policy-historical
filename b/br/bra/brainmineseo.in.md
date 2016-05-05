@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the brainmineseo.in privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205013151id_/http%3A//www.crazydomains.com/privacy/terms-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainmineseo.in privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505022726id_/http%3A//www.crazydomains.com/privacy/terms-privacy-policy) for the most accurate reproduction.*
 
-# Domain Name Privacy | WHOIS Protection
+# Privacy Policy - Terms of Service | Crazydomains.com
 
-This privacy policy applies to www.crazydomains.com owned and operated by DreamScape Networks FZ-LLC ("DreamScape", "Us", or "We"). This privacy policy describes how DreamScape Networks FZ-LLC collects and uses the personal information you provide on our website: **www.crazydomains.com** , **www.crazydomains.com.au** , **www.crazydomains.co.nz** , **www.crazydomains.co.uk** , **www.crazydomains.in** , **www.crazydomains.ae** ("website"). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy policy applies to www.crazydomains.com owned and operated by DreamScape Networks FZ-LLC ("DreamScape", "Us", or "We"). This privacy policy describes how DreamScape Networks FZ-LLC collects and uses the personal information you provide on our website: www.crazydomains.com, www.crazydomains.com.au, www.crazydomains.co.nz, www.crazydomains.co.uk, www.crazydomains.in, www.crazydomains.ae, www.crazydomains.hk, www.crazydomains.ph, www.crazydomains.my, www.crazydomains.id, www.crazydomains.sg ("website"). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 DreamScape Networks FZ-LLC has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
 
@@ -33,7 +33,7 @@ We use cookies for to remember users' settings and for authentication. Users can
 
 We, and/or our partners, affiliates, or analytics or service providers, may use tracking technologies such as cookies, beacons, tags, and scripts to analyze trends, administering the website, track users' movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies from these companies on an individual or aggregated basis.
 
-The third parties with whom we partner to provide certain features on our website or to display advertising based on your web browsing activity, use Local Shared Objects (Flash cookies) to store content information and preferences. To manage Flash cookies, please click here: http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html
+The third parties with whom we partner to provide certain features on our website or to display advertising based on your web browsing activity, use Local Shared Objects (Flash cookies) to store content information and preferences. To manage Flash cookies, please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
 As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
