@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smarttweak.com privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918114643id_/http%3A//www.smarttweak.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarttweak.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505060414id_/http%3A//www.smarttweak.com/privacypolicy) for the most accurate reproduction.*
 
-# SmartTweak Software
+# SmartTweak Software - Privacy Policy
 
 | 
 
