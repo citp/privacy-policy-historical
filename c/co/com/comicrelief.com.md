@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comicrelief.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227070655id_/http%3A//www.comicrelief.com/privacy-policy%3Ftabs-0-row1_col1-0%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicrelief.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505221049id_/http%3A//www.comicrelief.com/privacy-policy%3Ftabs-0-row1_col1-0%3D) for the most accurate reproduction.*
 
 # Privacy Policy | Comic Relief
 
@@ -28,7 +28,7 @@ When you donate, register online, contact us, or interact with us in any other w
 
 
 
-When you visit our site, we also sometimes use cookies, and collect information about your visit. For more details, please see the ‘Cookies’ and ‘How We Use Your Information’ sections below.
+When you visit our site, we also sometimes use cookies, and collect information about your visit. For more details, please see the [‘Cookies’ section](http://www.comicrelief.com/privacy-policy#cookies?tabs-0-row1_col1-1) and the ‘How We Use Your Information’ section below.
 
 ### How We Use Your Information
 
@@ -43,7 +43,7 @@ We use your information in a number of ways, such as:
 
 
 
-We will not contact you for marketing purposes unless you have given your express consent. If you have consented to receive marketing, you may opt out at any time by clicking on the unsubscribe link at the bottom of our emails, or by contacting us through this site.
+We will not contact you for marketing purposes unless you have given your express consent. If you have consented to receive marketing, you may opt out at any time. Please see the 'Unsubscribe' section below for more information.
 
 If you have consented to receive marketing, we may occasionally contact you to ask if you would be prepared to help us with our market research, although participation is purely voluntary.
 
@@ -66,6 +66,20 @@ If you are under 16, please make sure you have your parent or guardian's permiss
 ### Third Party Websites
 
 Our website may contain links to third party websites. This policy only applies to this site, so if you follow a link to a third party site, please make sure you read the privacy policy on that site. We do not accept any responsibility for third party sites.
+
+### Unsubscribe
+
+You can opt-out of receiving direct marketing from us at any time. Simply follow the ‘unsubscribe’ links on our emails to change your preferences, or you can email or write to us at the following address with your request:
+
+CRM Manager  
+Comic Relief UK  
+89 Albert Embankment  
+London  
+SE1 7TP
+
+Email:[ info@comicrelief.com ](mailto:info@comicrelief.com)
+
+Phone: 020 7820 2000
 
 ### Who We Are
 
@@ -93,7 +107,9 @@ During your visits to our site you may notice some cookies that are not related 
 
 Here are a list of the main cookies that we use on this site, and what they do. By using this site, you agree that we can place these cookies on your device:
 
- **Our cookies**
+ 
+
+### Our Cookies
 
 Cookie name
 
@@ -133,7 +149,7 @@ cookie-agreed-en
 
 This is only ever true and is used to remember whether the user has closed the cookie banner notice already so it doesn't pop up again.  
   
- **Third Party cookies**
+### Third Party Cookies
 
  _Worldpay_  
   
