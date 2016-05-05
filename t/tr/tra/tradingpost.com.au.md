@@ -1,122 +1,110 @@
-> *The following text is extracted and transformed from the tradingpost.com.au privacy policy that was archived on 2010-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100322203648id_/http%3A//www.telstra.com.au/privacy/privacy_statement.html%3Fref%3DNet-Foot-Corp-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradingpost.com.au privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506010452id_/https%3A//tradingpost.com.au/help/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement - Telstra
+# Privacy Policy
 
-  
+In this policy, “us”, “we” or “our” means Tradingpost.com Pte Ltd.
 
+**This policy sets out:**
 
-## Telstra Corporation Limited
-
-### Protecting your privacy
-
-We are committed to providing you with the highest levels of customer service. This includes protecting your privacy. 
-
-Set out below is information that we are required to communicate to our customers. We recommend that you keep this information for future reference. 
-
-### About us
-
-We provide a range of telecommunication services, either through a particular division within Telstra or through one of our related companies - for example, the publisher of our directories. 
-
-### Your personal information
-
-Personal information held by us may include your name, date of birth, current and previous addresses, telephone or mobile phone number, email address, bank account or credit card details, occupation, driver's licence number and your Telstra PIN, username or password. We also hold details of your Telstra services (including their status), as well as certain details about your personal interests. 
-
-If you choose not to provide certain personal information (e.g. your date of birth), we may not be able to provide you with the services you require, or the level of service on which we pride ourselves. 
-
-Occasionally, you may need to provide personal information about other individuals to us (e.g. about your authorised representatives). If so, we rely on you to inform those individuals that you are providing their personal information to us and to advise them that we can be contacted for further information (see 'How to contact us' at the end of this brochure). 
-
-### How we collect personal information
-
-We collect personal information in a number of ways, including: 
-
-  
-
-
-  * directly from you, for example, when you provide information by phone, in application forms or other agreements, or when you submit your personal details through our websites (eg. during telstra.com registration); 
-  * from third parties such as our related companies, credit reporting agencies or your representatives; 
-  * from publicly available sources of information; 
-  * from the organisations identified under 'When we disclose your personal information'; 
-  * from our own records of how you use your Telstra services; 
-  * when you visit our websites. For more information on how our websites collect information please view [Telstra's Privacy Information](https://web.archive.org/web/20100322203648id_/http%3A//www.telstra.com.au/privacy/information.html); or 
-  * when legally required to do so - for example, under the Telecommunications (Service Provider - Identity Checks for Pre-paid Public Mobile Telecommunications Services) Determination 2000. 
+  * – what kind of information we collect;
+  * – how we collect it;
+  * – why we collect it;
+  * – how we use it;
+  * – how we disclose it;
+  * – opting in and out;
+  * – management and security;
+  * – how to seek access to and update your personal information; and
+  * – how to contact us.
 
 
 
-### How we use your personal information
+We are bound by the National Privacy Principles contained in the Privacy Act 1988 (Cwth) (subject to exemptions that apply to us under that Act).
 
-Your personal information may be used to: 
+We may, from time to time, review and update this policy, including to take account of new or amended laws, new technology and/or changes to our operations. All personal information held by us will be governed by the most recently updated policy.
 
-  * verify your identity; 
-  * assist you to subscribe to our services; 
-  * provide the services you require; 
-  * administer and manage those services, including charging, billing and collecting debts; 
-  * inform you of ways the services provided to you could be improved; 
-  * conduct appropriate checks for credit-worthiness and for fraud; 
-  * research and develop our services; 
-  * gain an understanding of your information and communication needs in order for us to provide you with a better service; and 
-  * maintain and develop our business systems and infrastructure, including testing and upgrading of these systems. 
+This policy was last updated in October 2011.
 
+What information we collect
 
+In general, the personal information we collect about you includes (but is not limited to) your name, contact details (including phone numbers and addresses) and possibly financial information, including your credit card information.
 
-Also, your personal information is collected so that we, our related bodies and our dealers can promote and market services to you (including by way of direct mail, telemarketing, email, SMS and MMS messages). This is to keep you informed of products, services and special offers and may continue after you cease acquiring services from us. If you do not wish us, our related bodies or our dealers to contact you to promote and market products, services and special offers to you, please call 1800 039 059. 
+We also collect information about you that is not personal information. For example, we may collect data relating to your activity on our websites (including IP addresses) via tracking technologies such as cookies, or we may collect information from you in response to a survey. We generally use this information to report statistics, analyse trends, administer our services, diagnose problems and target and improve the quality of our products and services. To the extent this information does not constitute personal information, the National Privacy Principles do not apply and we may use this information for any purpose and by any means whatsoever.
 
-### When we disclose your personal information
+We generally advise that you do not publish or communicate personal information, or at least limit the personal information that you publish or communicate, to the public via our services, such as in our classifieds, forums or blogs (Non-Confidential Information). You acknowledge that we cannot control any third party collection or use of your Non-Confidential Information. You agree that we may use and disclose Non-Confidential Information for any purpose and by any means whatsoever.
 
-In order to deliver the services you require, we may disclose your personal information to organisations outside of Telstra. Your personal information is disclosed to these organisations only in relation to us providing our services to you. 
+How we collect it
 
-### These organisations carry out our:
+We may collect your personal information from a variety of sources, including from you, advertisers, mailing lists, recruitment agencies, contractors and business partners.
 
-  * customer enquiries; 
-  * mailing operations; 
-  * billing and debt-recovery functions; 
-  * information technology services; 
-  * installation, maintenance and repair services; 
-  * marketing, telemarketing and door-knocking services; 
-  * market research; and 
-  * website usage analysis. 
+We may collect your personal information when you request or acquire a product or service from us, register with us as a member, provide a product or service to us, complete a survey or questionnaire, enter a competition or event, contribute in a fundraising event, participate in our services (including our blogs and forums) or when you communicate with us by e-mail, telephone or in writing (for example if you contact customer service to make a complaint or provide feedback).
 
+If, at any time, you provide personal or other information about someone other than yourself, you warrant that you have that person’s consent to provide such information for the purpose specified.
 
+Why we collect it
 
-We take reasonable steps to ensure that these organisations are bound by confidentiality and privacy obligations in relation to the protection of your personal information. 
+The primary purpose for which we collect information about you is to provide you with products and services you have requested. We also collect information about you for the purposes outlined below.
 
-### In addition, we may disclose your personal information to:
+We may state a more specific purpose at the point we collect your information.
 
-  * your authorised representatives or your legal advisers (e.g. when requested by you to do so); 
-  * credit-reporting and fraud-checking agencies; 
-  * credit providers (for credit related purposes such as credit-worthiness, credit rating, credit provision and financing); 
-  * our dealers; 
-  * our related companies; 
-  * our professional advisers, including our accountants, auditors and lawyers; 
-  * other telecommunication and information service providers (for example, if you obtain services from other providers, we may need to disclose your personal information for billing purposes); 
-  * the manager of the Integrated Public Number Database. For more information on the Integrated Public Number Database please read [Telstra's Privacy Information](https://web.archive.org/web/20100322203648id_/http%3A//www.telstra.com.au/privacy/information.html); 
-  * government and regulatory authorities and other organisations, as required or authorised by law; and 
-  * organisations who manage our business and corporate strategies, including those involved in a transfer/sale of all or part of our assets or business (including accounts and trade receivables) and those involved in managing our corporate risk and funding functions (e.g. securitisation). 
+If you do not provide us with the information that we request, we may not be able to provide you with our products or services. For example, if you do not register as a member of a website, you will not be able to access features or services that are reserved for members only.
+
+How we use it
+
+In addition to the primary purpose outlined above, we may use the personal information we collect, and you consent to us using your personal information:
+
+  * – to provide you with news and information about our products and services;
+  * – to send marketing and promotional material that we believe you may be interested in. This material may relate to any of Tradingpost’s businesses or a third party business which we believe may be of interest to you;
+  * – for purposes necessary or incidental to the provision of goods and services to you;
+  * – to personalise and customise your experiences;
+  * – to manage and enhance our products and services;
+  * – to communicate with you, including by email, mail or telephone;
+  * – to conduct competitions or promotions on behalf of Tradingpost.com Pte Ltd and selected third parties;
+  * – to verify your identity;
+  * – to investigate any complaints about or made by you, or if we have reason to suspect that you are in breach of any of our terms and conditions or that you are or have been otherwise engaged in any unlawful activity; and/or
+  * – as required or permitted by any law (including the Privacy Act).
 
 
 
-### Help us to ensure we hold accurate information
+### How we disclose it
 
-We take all reasonable precautions to ensure that the personal information we collect, use and disclose is accurate, complete and up-to-date. 
+We may disclose personal information, and you consent to us disclosing your personal information, to other members of Tradingpost.com Pte Ltd (in which case, your personal information will be collected, used, disclosed, managed and stored in accordance with this policy).
 
-However, the accuracy of that information depends to a large extent on the information you provide. That's why we recommend that you: 
+We may also disclose personal information, and you consent to us disclosing your personal information, to third parties:
 
-  * let us know if there are any errors in your personal information; and 
-  * keep us up-to-date with changes to your personal information such as your name or address. If you are a subscriber to one of our online products or services, you may change your personal details by using the relevant facility on our websites. 
+  * – engaged by us to perform functions or provide products and services on our behalf, such credit card gateways, mailouts, debt collection, marketing, research and advertising;
+  * – that are our agents, business partners or joint venture entities or partners;
+  * – that sponsor or promote any competition that we conduct or promote via our services;
+  * – authorised by you to receive information held by us;
+  * – as part of any investigation into you or your activity, for example, if we have reason to suspect that you have committed a breach of any of our terms and conditions, or have otherwise been engaged in any unlawful activity, and we reasonably believe that disclosure is necessary to the Police, any relevant authority or enforcement body, or your Internet Service Provider or network administrator;
+  * – as part of a sale (or proposed sale) of all or part of our business; and/or
+  * – as required or permitted by any law (including the Privacy Act).
 
 
 
-### You can access your personal information
+### Opting in or out
 
-You have a right to access your personal information, subject to some exceptions allowed by law. If you would like to do so, please let us know. You may be required to put your request in writing for security reasons. 
+At the point we collect information from you, you may be asked to “opt in” to consent to us using or disclosing your personal information other than in accordance with this policy or any applicable law. For example, you may be asked to opt-in to receive further information or communications from our advertisers and supporters which do not fall into one of the categories described above.
 
-We reserve the right to charge a fee for searching for and providing access to your information. 
+You will generally be given the opportunity to “opt out” from receiving communications from us or from third parties that send communications to you in accordance with this policy. For example, you will be given the option to unsubscribe from e-newsletters and other marketing or promotional material sent by us. You may “opt out” from receiving these communications by either clicking on an unsubscribe link at the end of an email or by updating your personal details on our My Account page. You may also cancel your account on our My Account page.
 
-### How to contact us
+If you receive communications purporting to be connected with us or our services that you believe have been sent to you other than in accordance with this policy, or in breach of any law, please write to us using the address below.
 
-If you have any questions in relation to privacy, please contact us on **1800 039 059** between 9.00am and 5.00pm, Monday to Friday. Please note that this number is not for general service enquiries. Alternatively, you can write to [privacy@online.telstra.com.au](mailto:privacy@online.telstra.com.au)
+### Management and security
 
-You may obtain further information on privacy matters by viewing [Privacy at Telstra](https://web.archive.org/web/20100322203648id_/http%3A//www.telstra.com.au/privacy/index.html). 
+We have appointed a Privacy Officer to oversee the management of personal information in accordance with this policy and the Privacy Act.
 
-Telstra Privacy Statement March 2008  
-Telstra Corporation Limited ABN 33 051 775 556  
-C011 03-08 P616244 131530
+Other than in relation to Non-Confidential Information, we will take all reasonable steps to protect the personal information that we hold from misuse, loss, or unauthorised access, including by means of firewalls, pass word access, secure servers and encryption of credit card transactions.
+
+However, you acknowledge that the security of online transactions and the security of communications sent by electronic means or by post cannot be guaranteed. You provide information to us via the internet or by post at your own risk. We cannot accept responsibility for misuse or loss of, or unauthorised access to, your personal information where the security of information is not within our control.
+
+You acknowledge that we are not responsible for the privacy or security practices of any third party (including third parties that we are permitted to disclose your personal information to in accordance with this policy or any applicable laws). The collection and use of your information by such third party/ies may be subject to separate privacy and security policies.
+
+If you suspect any misuse or loss of, or unauthorised access to, your personal information, please let us know immediately.
+
+Accessing and updating your information and how to contact us
+
+Subject to some exceptions in the Privacy Act, you have the right to seek access to and update the personal information we hold about you. If you make an access request, we will ask you to verify your identity. We may charge a fee to cover the costs of meeting your request.
+
+Members of our websites will generally be able to access and update their membership details online.
+
+We request that you keep your information as current as possible so that we may continue to improve our service to you.
