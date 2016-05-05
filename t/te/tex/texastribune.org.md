@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the texastribune.org privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025023822id_/http%3A//www.texastribune.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texastribune.org privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505084030id_/http%3A//www.texastribune.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Texas Tribune
 
