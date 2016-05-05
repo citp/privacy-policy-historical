@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiansexmovies.com privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814175240id_/http%3A//indiansexmovies.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiansexmovies.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505221057id_/http%3A//indiansexmovies.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,8 +54,6 @@ Whois Privacy Services Pty Ltd ABN 65 133 058 741
 **Our contact details**
 
 |  | 
-
-  * Phone: 07 3007 0070 
 
   * Email: [privacy@darkbluesea.com](mailto:privacy@darkbluesea.com)
 
@@ -392,4 +390,4 @@ If you wish to complain about a breach of the Australian Privacy Principles, ple
 
 |  | 
 
-Questions, requests and complaints regarding our Privacy Statement or our compliance with privacy laws should be directed to us by telephone on 07 3007 0070 or email to [privacy@darkbluesea.com](mailto:privacy@darkbluesea.com), or by post The Privacy Officer, The DBS Group, P.O. Box 757, Fortitude Valley, QLD 4006. 
+Questions, requests and complaints regarding our Privacy Statement or our compliance with privacy laws should be directed to us by email to [privacy@darkbluesea.com](mailto:privacy@darkbluesea.com), or by post The Privacy Officer, The DBS Group, Level 3, 1 Buckingham St, Surry Hills, NSW 2010. 
