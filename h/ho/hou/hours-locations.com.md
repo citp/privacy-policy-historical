@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hours-locations.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914164758id_/http%3A//www.hours-locations.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hours-locations.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506003914id_/http%3A//www.hours-locations.com/privacy-policy) for the most accurate reproduction.*
 
 # Local Business & Store Locations & Hours of Operation
 
