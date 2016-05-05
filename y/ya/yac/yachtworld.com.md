@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yachtworld.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905065524id_/http%3A//www.yachtworld.com/core/globalnav/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yachtworld.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505200639id_/http%3A//www.yachtworld.com/core/globalnav/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Statement - YachtWorld.com
 
@@ -54,25 +54,7 @@ If you have any questions about this privacy statement, please contact [policies
 
 ### Disclosure of Personal Information Collected:
 
-> In order to use this site you do not need to provide any personal information, but where you do volunteer to provide personal information, we may disclose the following information to affiliated third parties such as other web sites owned and operated by YachtWorld.com and to nonaffiliated third parties such as marketing companies, vessel brokers, vessel dealers and builders. The disclosed information may include data entered through one of our forms, through cookies, web beacons and web logs such as a Site Visitors name, address, email address, other contact information, boat information, boat category, engine information, boat accessories and options and information about the Site Visitors transactions and experiences with companies related to YachtWorld.com. 
-> 
-> We use non-personal information such as aggregate demographic data and information about our boats to analyze and develop our marketing strategy and to determine how Site Visitors found out about us, our Site Visitors' interests regarding our services and how to further improve the Web site based upon these data.
-> 
-> We may employ third parties to perform functions on our behalf. Examples of these functions include, without limitation, sending emails or other communications on our behalf or providing promotional or marketing assistance. These third parties may have access to our Site Visitors' personal information in order to provide these services to us or on our behalf.
-> 
-> We may disclose personal information about our Site Visitors when legally required to do so, at the request of governmental authorities, or to verify or enforce compliance with the policies governing the Web site and applicable laws. We may also disclose Site Visitors' personal information where we believe disclosure is necessary to limit our legal liability or to protect the safety or enforce the rights of our Site Visitors.
-> 
-> We may sell, transfer or otherwise disclose Site Visitors' information in connection with a corporate merger, consolidation, the sale of substantially all assets, or other fundamental corporate change.
-> 
-> Additionally, we may share personally identifiable information with unaffiliated third parties to whom you explicitly ask us to send your information. If you prefer not to be contacted by any such Business Provider or other third party with whom we share your personally identifiable information, you may follow the "unsubscribe" instructions provided in any email you receive from any such third party. In addition, you may opt out of our sharing your personally identifiable information with Business Providers and other third parties by following the instructions on our [Email Opt Out Form](http://www.dominionenterprises.com/main/do/DE_Email_Opt_Out_Form).
-> 
-> ## Third Party Promotions:
-> 
-> We may send offers to selected groups of customers on behalf of unaffiliated businesses that want to market their products or services to you, and as part of these promotional offers we may sell or disclose certain of your personally identifiable information to such unaffiliated businesses. If you prefer not to be contacted by any such business with whom we share your personally identifiable information, you may follow the "unsubscribe" instructions provided in any email you receive from any such third party. In addition, you may opt out of our sharing your personally identifiable information with such businesses by following the instructions on our [Email Opt Out Form](http://www.dominionenterprises.com/main/do/DE_Email_Opt_Out_Form).
-> 
-> ## In-House Promotions:
-> 
-> We may on occasion combine information we receive online with outside records to enhance our ability to market our products and services that may be of interest to you. If you have signed up to receive our e-mails and prefer not to receive marketing information from our Website, please follow the "unsubscribe" instructions provided on any marketing e-mail you receive from our Website or by following the instructions in our [Email Opt Out Form](http://www.dominionenterprises.com/main/do/DE_Email_Opt_Out_Form).
+YachtWorld adheres to the privacy policy of its parent corporation, Dominion Enterprises. Please [click here](http://www.dominionenterprises.com/privacy/) to read the Dominion Enterprises privacy policy for more information.
 
 ### Partners:
 
@@ -102,7 +84,5 @@ We do not knowingly acknowledge or accept orders, registrations or requests for 
 
 It is the Site Visitors responsibility to follow our privacy link, so Site Visitors are always aware of our current practices. There will always be a link to our privacy statement on our home page so that Site Visitors are always aware of our current information collection, maintenance and disclosure practices. Each update is noted with the last updated date. If our privacy practices change in way that would allow us to use non-public personal information in a manner not previously allowed by the terms of our privacy statement, Site Visitors will have an opportunity to choose whether to let us use their non-public personal information in the newly proposed manner. 
 
-### Copyright:
-
-Copyright ©2012 Dominion Enterprises. All rights reserved.  
-Revised April 2012
+  
+Revised September 2015
