@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gogobot.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226111209id_/http%3A//www.gogobot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogobot.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506011955id_/http%3A//www.gogobot.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Gogobot
+# Privacy Policy
 
 This privacy policy discloses the privacy practices of Gogobot, Inc., the website located at [http://www.gogobot.com ](http://www.gogobot.com/), the Gogobot mobile applications, and the related services, applications, and websites owned or operated by Gogobot, Inc. and its corporate affiliates (collectively, the "Service").
 
