@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the flexmls.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102030510id_/https%3A//www.flexmls.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flexmls.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505094152id_/https%3A//www.flexmls.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Flexmls
 
 [×]()
 
-©2015 Flexmls is a product of FBS
+©2016 Flexmls is a product of FBS
 
 FBS considers all the data submitted to our web sites private and will not use that data for any purpose other than as described below.
 
