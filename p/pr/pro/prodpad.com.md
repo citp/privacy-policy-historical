@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prodpad.com privacy policy that was archived on 2015-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151019184059id_/https%3A//www.prodpad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prodpad.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506010238id_/https%3A//www.prodpad.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ProdPad :: Product Management Software
+# Privacy Policy - ProdPad | Product Management Software
 
 We provide a service that allows you and your team to be more productive in your product management processes.
 
