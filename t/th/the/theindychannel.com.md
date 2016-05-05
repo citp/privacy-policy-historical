@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theindychannel.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905064807id_/http%3A//www.theindychannel.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theindychannel.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505134826id_/http%3A//www.theindychannel.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TheIndyChannel.com
 
@@ -80,7 +80,7 @@ The Services are hosted in the United States and are directed toward users who r
 
 J.          CONTACT & OPT-OUT INFORMATION
 
-You may contact us as at [Support@ewscrippsco.freshdesk.com](mailto:Support@ewscrippsco.freshdesk.com) if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our affiliated companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with others.
+You may contact us as at [RTV6 Support](http://support.theindychannel.com/support/tickets/new) if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our affiliated companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with others.
 
 We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable.  Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Services. 
 
