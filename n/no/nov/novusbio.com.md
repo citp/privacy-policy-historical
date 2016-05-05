@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novusbio.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023082158id_/http%3A//www.novusbio.com/support/customer-service/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novusbio.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505034521id_/http%3A//www.novusbio.com/support/customer-service/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Novus Biologicals
 
