@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pandamovies.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105144946id_/http%3A//pandamovies.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pandamovies.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505144517id_/http%3A//www.pandamovies.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
