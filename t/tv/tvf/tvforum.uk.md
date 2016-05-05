@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvforum.uk privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103171111id_/http%3A//tvforum.uk/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvforum.uk privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505200324id_/http%3A//tvforum.uk/help/privacy) for the most accurate reproduction.*
 
 # Cookies and privacy policy - TV Forum
 
