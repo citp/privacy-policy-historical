@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trumaker.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910212913id_/https%3A//www.trumaker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trumaker.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505233304id_/https%3A//www.trumaker.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Trumaker
 
@@ -24,7 +24,7 @@ We also reserve the right to disclose any personally identifiable information co
 
 If you contact us by email through our website, we may keep a record of your contact information and correspondence in order to respond to you, as well as to send you marketing materials of our products and services. Your information will not be shared with outside parties.
 
-If you would like to change your personally identifiable information or would like it to be removed from our database, feel free to email us at [info@trumaker.com](mailto:info@trumaker.com). For your convenience, you can hit the "unsubscribe" link in our emails if you no longer wish to receive materials from us.
+If you would like to change your personally identifiable information or would like it to be removed from our database, feel free to email us at [support@trumaker.com](mailto:support@trumaker.com). For your convenience, you can hit the "unsubscribe" link in our emails if you no longer wish to receive materials from us.
 
 ##### SECURITY
 
@@ -42,6 +42,6 @@ As with any other business, there is a possibility that we may merge with or be 
 
 This Privacy Policy only addresses the use and disclosure of information we collect from you on Trumaker's site. Other websites that may be accessible through this website have their own privacy policies and data collection, use and disclosure practices, so be sure to review the website's privacy policy. We are not responsible for the policies or practices of third parties.
 
-Trumaker takes your privacy seriously. We are committed to bringing our customers the very best products and service, and that includes a safe and secure shopping experience for the complete package-your trust matters to us. Questions, comments or suggestions? Shoot us an email at [info@trumaker.com](mailto:info@trumaker.com)
+Trumaker takes your privacy seriously. We are committed to bringing our customers the very best products and service, and that includes a safe and secure shopping experience for the complete package-your trust matters to us. Questions, comments or suggestions? Shoot us an email at [support@trumaker.com](mailto:support@trumaker.com)
 
 Thanks for dropping by.
