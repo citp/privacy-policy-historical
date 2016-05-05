@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the housetrip.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213032408id_/http%3A//about.housetrip.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the housetrip.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505165611id_/http%3A//about.housetrip.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy - HouseTripHouseTrip
 
 * * *
 
-HouseTrip Limited understands that making purchases online involves a great deal of trust on your part. We take this trust very seriously, and we are committed to protecting and ensuring your privacy.
+HouseTrip Limited understands that making an online booking involves a great deal of trust on your part. We take this trust very seriously, and we are committed to protecting and ensuring your privacy.
 
-This policy (together with our [Terms of Use](http://about.housetrip.com/en/terms-use/) and [Booking Terms](http://about.housetrip.com/en/booking-terms/) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.housetrip.com you are accepting and consenting to the practices described in this policy.
+This policy (together with our [Terms of Use](http://about.housetrip.com/en/terms-use/) and [Booking Terms](http://about.housetrip.com/en/booking-terms/) and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.housetrip.com you are accepting and consenting to the practices described in this policy.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is HouseTrip Limited of 5th & 6th Floor, Corinthian House, 279 Tottenham Court Road, London W1T 7RJ, United Kingdom.
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is HouseTrip Limited of 5th Floor, Corinthian House, 279 Tottenham Court Road, London W1T 7RJ, United Kingdom. Our data Protection registration number is Z3328966.
 
 ## Information we may collect from you
 
@@ -56,11 +56,15 @@ Amazon AWS | AWSELB | Strictly necessary Cookies | This cookie is used to manage
 HouseTrip Session | _housetrip_session | Strictly necessary Cookies | This cookie stores information about your settings preferences (such as language, currency, favourite properties, etc.), and so allow us to customise our site. It is also used for tracking in internal A/B tests, conversion statistics and affiliate programs. |   
 HouseTrip Authentication | remember_token | Functionality Cookies | This cookie remembers users’ login details after a session has ended for any future visits provided the cookie was not deleted in the interim. |   
 HouseTrip Translation | do_not_autotranslate | Functionality Cookies | This cookie allows the site to remember if a user prefers to see original or translated reviews. |   
+VWO | vis_opt_exp* vwo_uuid | Functionality Cookies | This cookie is used to target different new features to users for A/B testing. The information collected is used to compare different features and understand how they perform. | [Click here](https://vwo.com/privacy-policy/) for more information about VWO  
 Criteo | dis evt udc udi uic uid | Targeting Cookies | These cookies are not necessarily specific to our site. They allow third party advertising network to retarget advertising to users when they browse the internet. | [Click here](http://www.criteo.com/en/privacy-policy) for an overview of privacy at Criteo  
 Addthis | di dt loc psc uid uit uvc | Targeting Cookies | These cookies are needed for the social media dropdowns at the top of the property profile pages of our site. | [Click here](http://www.addthis.com/privacy#.TxQz5_k1SVo) for an overview of privacy at Addthis  
 Facebook | datr | Targeting Cookies | This cookie is needed for the ‘like’ buttons to function on the site. | [Click here](http://www.facebook.com/about/privacy/) for an overview of privacy at Facebook  
 New Relic | NREUM | Analytical/performance cookies | This cookie is used to measure our site’s technical performance for our users. | [Click here](https://newrelic.com/docs/subscriptions/what-cookies-does-newrelic-create) for more information about New Relic  
 Adyen | JSESSIONID hppsession | Strictly necessary Cookies | This cookie is essential for our payment services provider to track payments made via our site | [Click here](http://www.adyen.com/) for more information about Adyen.  
+DoubleClick | id _drt | Targeting Cookies | DoubleClick uses cookies to improve advertising. Some common applications are to target advertising based on what’s relevant to a user, to improve reporting on campaign performance and to avoid showing ads that the user has already seen. | [Click here](https://support.google.com/adsense/answer/2839090?hl=en-GB) for an overview of privacy at DoubleClick  
+TradeDoubler | trade_doubler_uid trade_doubler_uid_expiry | Analytical/performance cookies | These cookies allow us to identify the last referring affiliate website so this is used only for performance reporting purpose. | [Click here](http://www.tradedoubler.com/uk-en/privacy-policy/) for an overview of privacy at TradeDoubler  
+Yahoo Analytics | fpc, ywandp, yvap | Analytical/performance cookies | The purpose of this cookie is to collect data so that Yahoo can report statistical information. Yahoo Analytics cookies do not contain personally identifiable information such as name, age, or phone number. | [Click here](https://policies.yahoo.com/ie/en/yahoo/privacy/index.htm) for an overview of privacy at Yahoo  
   
 You block cookies by activating the setting on your browser which allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be to access all or parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon you visit our site.
 
@@ -74,7 +78,7 @@ The above websites are external websites and we are not responsible for their co
 
 The data that We collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
-All information you provide to us is stored on secure servers. Any payment transactions will be encrypted using SSL technology. Where We have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+All information you provide to us is stored on secure servers. Any payment transactions will be encrypted using SSL technology, processed and stored by our payment service provider Adyen B.V. Where We have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. Where We have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
@@ -91,16 +95,14 @@ We use information held about you in the following ways:
 * To enforce our Terms of Use, Booking Terms and this Privacy & Cookies Policy.  
 * To notify you about changes to our service.  
 * To administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes.  
-* To make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them.  
-* To provide you, or permit selected third parties to provide you, with information, products or services we provide, which we feel may interest you.  
-If you do not want us to use your data in this way, please tick the relevant box situated on the form on which we collect your data (the registration form or the booking page).
-
-We may combine information from other sources with your information. We may use the combined information for the purposes set out above.
+* Where you make a booking or list a property on our website, we may also contact credit or identity reference agencies with information you provide to enable us to confirm your identity and/or whether you own the listed property.  
+* Finally, to make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them and/or to provide you, or permit selected third parties to provide you, with information, products or services we provide, which we feel may interest you. – If you do not want us to use your data in this way, please tick the relevant box situated on the form on which we collect your data (the registration form or the booking page).  
+We may combine information from other sources with the information you give us or we collect about you. We may use the combined information for the purposes set out above.
 
 ## Disclosure of your Information
 
 HouseTrip is designed to allow hosts and guests to share information with one another in order to facilitate arranging stays. Listings posted by hosts, ratings and reviews of hosts and guests, and the profile information (as described below) of hosts and guests are, as far as you allow it, visible to any visitor to the site.  
-When you register on our site and submit your personal information to create a profile page, other users will see some of the information you provided as indicated on such page. We do not allow our users to browse user profiles but they may access your profile through various ways (if you made a booking request, a host may for instance look at your personal profile). Our network architecture and your privacy settings allow you to make informed choices about who has access to your information. You can review and revise your profile information at any time.
+When you register on our site and submit your personal information to create a profile page, other users will see some of the information you provided as indicated on such page. We do not allow our users to browse user profiles but they may access your profile through various ways (if you made a booking request, a host may for instance look at your personal profile). You can review and revise your profile information at any time.
 
 If you post a listing, we may also display the geographical location of your property in the form of a map so that potential guests can see the general area and neighbourhood of your property. Note that users will never have access to your billing information.  
 We may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
@@ -110,10 +112,11 @@ We may share your information with selected third parties including:
   1. Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you.
   2. Advertisers and advertising networks that require the data to select and serve relevant adverts to you and others. We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users. We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in TW11). We may make use of the personal data we have collected from you to enable us or an advertising network to display advertisements to a specific target audience.
   3. Analytics and search engine providers that assist us in the improvement and optimisation of our site.
+  4. Credit or identity reference agencies with information you provide to enable us to confirm your identity and/or whether you own the listed property.
 
 
 
-We may disclose your personal information to third parties including::
+We may disclose your personal information to third parties including:
 
   1. In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
   2. If HouseTrip Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its users will be one of the transferred assets.
@@ -133,7 +136,7 @@ The Act gives you the right to access information held about you. Your right of 
 
 ## Changes to our Privacy Policy
 
-Last update: 19 November 2014  
+Last update: 28 January 2016  
 Any changes we may make to our privacy and cookies policy in the future will be posted on this page and, where appropriate, notified to you by email. Please check back frequently to see any updates or changes to our privacy policy.
 
 ## Contact
