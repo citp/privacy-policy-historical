@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awardscircuit.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101112954id_/http%3A//www.awardscircuit.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awardscircuit.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505200151id_/http%3A//www.awardscircuit.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AwardsCircuit.com - By Clayton Davis
 
@@ -64,6 +64,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [The Awards Circuit](http://www.awardscircuit.com/)  
 [http://www.awardscircuit.com](http://www.awardscircuit.com/)  
-[ClaytonDavis@AwardsCircuit.com](https://web.archive.org/web/20151101112954id_/http://www.awardscircuit.com/about-us/privacy-policy/claytondavis@awardscircuit.com)
+[ClaytonDavis@AwardsCircuit.com](https://web.archive.org/web/20160505200151id_/http://www.awardscircuit.com/about-us/privacy-policy/claytondavis@awardscircuit.com)
 
 This document was last updated on September 02, 2012
