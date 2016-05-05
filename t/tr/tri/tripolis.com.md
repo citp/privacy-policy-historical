@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the tripolis.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912101447id_/http%3A//www.tripolis.com/company/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripolis.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505212807id_/http%3A//www.tripolis.com/company/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Email, Mobile, Social Marketing » Tripolis Solutions
+
+  * [Home](http://www.tripolis.com/)
+  * ›
+  * [Company](http://www.tripolis.com/company/)
+  * ›
+  * Privacy Statement
+
+
 
 Tripolis Solutions respects the privacy of visitors to its website and always ensures for the protection of their privacy. Tripolis Solutions therefore treat the personal data it acquires via this website with all due care and caution and of course complies with all the stipulations of the law which apply in this connection. Tripolis Solutions uses all personal data it is provided with solely for the purposes as described in this Privacy Statement. In this Privacy Statement we explain how we deal with personal data we acquire via this website.
 
@@ -44,4 +52,5 @@ This Privacy Statement may be amended. Amendments made in this Privacy Statement
 If you have any questions about this Privacy Statement or about our privacy policy, please send us an email at [privacy@tripolis.com](mailto:privacy@tripolis.com "privacy@tripolis.com").
 
 **Applicable law**  
-This Privacy Statement is governed by the law of the Netherlands. Any disputes which might arise in this connection shall be submitted before the competent Judge of Amsterdam, the Netherlands.
+This Privacy Statement is governed by the law of the Netherlands. Any disputes which might arise in this connection shall be submitted before the competent Judge of Amsterdam, the Netherlands.  
+
