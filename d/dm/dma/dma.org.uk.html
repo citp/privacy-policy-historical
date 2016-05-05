@@ -1,21 +1,21 @@
-<!--The following is the downloaded HTML source of the dma.org.uk privacy policy that was archived on 2014-08-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140831105124id_/http%3A//dma.org.uk/privacy-and-cookie-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dma.org.uk privacy policy that was archived on 2016-05-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160505194413id_/http%3A//dma.org.uk/privacy-and-cookie-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
 
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="description" content="The Direct Marketing Association offering lobbying, events, research, and development. Includes membership directory, representing the DM industry.">
 	<meta name="keywords" content="DMA, Direct Marketing Association, lobbying, events, research, door to door, digital marketing, social media, email marketing">
-	<base href="http://www.dma.org.uk">
+	<base href="http://dma.org.uk">
 
-	<title>DMA | Standard | Privacy and Cookie Policy</title><meta name="canonical" content="http://www.dma.org.uk/privacy-and-cookie-policy">
+	<title>DMA | Page | Privacy and Cookie Policy</title><meta name="canonical" content="http://dma.org.uk/privacy-and-cookie-policy">
+<meta name="canonical" content="http://dma.org.uk/privacy-and-cookie-policy">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<!--[if lte IE 8]><script src="/dma/assets/js/legacy/html5shiv.js"></script><![endif]-->
 
-	<link href="/dma/assets/css/screen.css?ts=1409241408" media="screen" rel="stylesheet" type="text/css">
-<link href="/dma/assets/css/addons.css?ts=1409137710" media="screen" rel="stylesheet" type="text/css">
+	<link href="dma/assets/css/styles.css" media="screen" rel="stylesheet" type="text/css">
 <link href="/jquery/jquery-ui/jquery-ui-1.10.4.custom.min.css" media="screen" rel="stylesheet" type="text/css">
 	<!--[if lte IE 8]><link rel="stylesheet" href="/dma/assets/css/legacy.css" /><![endif]-->
 	<!--[if IE 8]><script src="/dma/assets/js/legacy/respond.js"></script><![endif]-->
@@ -31,9 +31,6 @@
 			ga('create', 'UA-50825982-1', 'dma.org.uk');
 			ga('send', 'pageview');
 		</script>
-
-
-
 	
 </head>
 <body>
@@ -58,7 +55,7 @@
 <div class="form-group">
 	<div class="faux-input">
 		<i class="icon icon--email"></i>
-		<input type="text" name="identity" class="unstyled" value="">	</div>
+		<input type="text" name="identity" autocomplete="off" class="unstyled" value="">	</div>
 </div>
 
 <div class="form-group">
@@ -69,7 +66,7 @@
 </div>
 
 <div class="form-group form-group--buttons">
-	<input name="authenticationAction" type="submit" class="button-primary expand" value="Login"></div>
+	<div class="form-group"><input type="submit" name="authenticationAction" class="btn btn-primary button-primary expand" id="authenticationAction" value="Login"></div></div>
 
 <ul class="header-action-links">
 	<li>
@@ -77,7 +74,7 @@
 	</li>
 </ul>
 
-</form></div>
+<input type="hidden" name="referer" class="form-control " id="referer" value="http://dma.org.uk/privacy-and-cookie-policy"></form></div>
 
 <div class="user-panel-mobile">
 	<a href="/login" title="Login" data-overlay="userpanel">
@@ -128,7 +125,7 @@
 
 		<div class="popout__content">
 
-			<form action="/filter/curate" method="get" name="tag_filter" id="tag_filter">
+			<form action="/filter/curate" method="get" name="tag_filter" data-filterform="curate" id="tag_filter">
 			<fieldset>
 
 				<div class="clearfix">
@@ -142,35 +139,30 @@
 													<li class="filter-list-heading" data-filter-group="theme">
 								Theme							</li>
 															<li data-category="customer" data-filter-group="theme">
-									<!-- data-href="/article/tag-theme/customer" -->
 									<label class="tag">
 										<input type="checkbox" name="tags[]" value="customer">
 										<span>Customer</span>
 									</label>
 								</li>
 															<li data-category="creativity" data-filter-group="theme">
-									<!-- data-href="/article/tag-theme/creativity" -->
 									<label class="tag">
 										<input type="checkbox" name="tags[]" value="creativity">
 										<span>Creativity</span>
 									</label>
 								</li>
 															<li data-category="data" data-filter-group="theme">
-									<!-- data-href="/article/tag-theme/data" -->
 									<label class="tag">
 										<input type="checkbox" name="tags[]" value="data">
 										<span>Data</span>
 									</label>
 								</li>
 															<li data-category="innovation" data-filter-group="theme">
-									<!-- data-href="/article/tag-theme/innovation" -->
 									<label class="tag">
 										<input type="checkbox" name="tags[]" value="innovation">
 										<span>Innovation</span>
 									</label>
 								</li>
 															<li data-category="legal" data-filter-group="theme">
-									<!-- data-href="/article/tag-theme/legal" -->
 									<label class="tag">
 										<input type="checkbox" name="tags[]" value="legal">
 										<span>Legal</span>
@@ -179,56 +171,48 @@
 																				<li class="filter-list-heading" data-filter-group="sector">
 								Sector							</li>
 															<li data-category="automotive" data-filter-group="sector">
-									<!-- data-href="/article/tag-sector/automotive" -->
 									<label class="tag">
 										<input type="checkbox" name="tags[]" value="automotive">
 										<span>Automotive</span>
 									</label>
 								</li>
 															<li data-category="financial-services" data-filter-group="sector">
-									<!-- data-href="/article/tag-sector/financial-services" -->
 									<label class="tag">
 										<input type="checkbox" name="tags[]" value="financial-services">
 										<span>Financial Services</span>
 									</label>
 								</li>
 															<li data-category="fmcg" data-filter-group="sector">
-									<!-- data-href="/article/tag-sector/fmcg" -->
 									<label class="tag">
 										<input type="checkbox" name="tags[]" value="fmcg">
 										<span>FMCG</span>
 									</label>
 								</li>
 															<li data-category="healthcare" data-filter-group="sector">
-									<!-- data-href="/article/tag-sector/healthcare" -->
 									<label class="tag">
 										<input type="checkbox" name="tags[]" value="healthcare">
 										<span>Healthcare</span>
 									</label>
 								</li>
 															<li data-category="not-for-profit" data-filter-group="sector">
-									<!-- data-href="/article/tag-sector/not-for-profit" -->
 									<label class="tag">
 										<input type="checkbox" name="tags[]" value="not-for-profit">
 										<span>Not-For-Profit</span>
 									</label>
 								</li>
 															<li data-category="retail" data-filter-group="sector">
-									<!-- data-href="/article/tag-sector/retail" -->
 									<label class="tag">
 										<input type="checkbox" name="tags[]" value="retail">
 										<span>Retail</span>
 									</label>
 								</li>
 															<li data-category="travel" data-filter-group="sector">
-									<!-- data-href="/article/tag-sector/travel" -->
 									<label class="tag">
 										<input type="checkbox" name="tags[]" value="travel">
 										<span>Travel</span>
 									</label>
 								</li>
 															<li data-category="telecomms" data-filter-group="sector">
-									<!-- data-href="/article/tag-sector/telecomms" -->
 									<label class="tag">
 										<input type="checkbox" name="tags[]" value="telecomms">
 										<span>Telecomms</span>
@@ -237,70 +221,60 @@
 																				<li class="filter-list-heading" data-filter-group="channel">
 								Channel							</li>
 															<li data-category="experiential" data-filter-group="channel">
-									<!-- data-href="/article/tag-channel/experiential" -->
 									<label class="tag">
 										<input type="checkbox" name="tags[]" value="experiential">
 										<span>Experiential</span>
 									</label>
 								</li>
 															<li data-category="email" data-filter-group="channel">
-									<!-- data-href="/article/tag-channel/email" -->
 									<label class="tag">
 										<input type="checkbox" name="tags[]" value="email">
 										<span>Email</span>
 									</label>
 								</li>
 															<li data-category="door-drop" data-filter-group="channel">
-									<!-- data-href="/article/tag-channel/door-drop" -->
 									<label class="tag">
 										<input type="checkbox" name="tags[]" value="door-drop">
 										<span>Door Drop</span>
 									</label>
 								</li>
 															<li data-category="inserts" data-filter-group="channel">
-									<!-- data-href="/article/tag-channel/inserts" -->
 									<label class="tag">
 										<input type="checkbox" name="tags[]" value="inserts">
 										<span>Inserts</span>
 									</label>
 								</li>
 															<li data-category="mail" data-filter-group="channel">
-									<!-- data-href="/article/tag-channel/mail" -->
 									<label class="tag">
 										<input type="checkbox" name="tags[]" value="mail">
 										<span>Mail</span>
 									</label>
 								</li>
 															<li data-category="mobile" data-filter-group="channel">
-									<!-- data-href="/article/tag-channel/mobile" -->
 									<label class="tag">
 										<input type="checkbox" name="tags[]" value="mobile">
 										<span>Mobile</span>
 									</label>
 								</li>
 															<li data-category="search" data-filter-group="channel">
-									<!-- data-href="/article/tag-channel/search" -->
 									<label class="tag">
 										<input type="checkbox" name="tags[]" value="search">
 										<span>Search</span>
 									</label>
 								</li>
 															<li data-category="social" data-filter-group="channel">
-									<!-- data-href="/article/tag-channel/social" -->
 									<label class="tag">
 										<input type="checkbox" name="tags[]" value="social">
 										<span>Social</span>
 									</label>
 								</li>
 															<li data-category="telephone" data-filter-group="channel">
-									<!-- data-href="/article/tag-channel/telephone" -->
 									<label class="tag">
 										<input type="checkbox" name="tags[]" value="telephone">
 										<span>Telephone</span>
 									</label>
 								</li>
 															<li data-category="tv" data-filter-group="channel">
-									<!-- data-href="/article/tag-channel/tv" -->
 									<label class="tag">
 										<input type="checkbox" name="tags[]" value="tv">
 										<span>TV</span>
@@ -317,12 +291,12 @@
 					</ul><!-- #curate-filters -->
 				</div>
 
-				<div class="form-group form-group--buttons hide-js"><input name="filterAction" type="submit" class="button-primary" value="Filter"></div>			</fieldset>
+				<div class="form-group"><input type="submit" name="filterAction" class="btn btn-primary button-primary" id="filterAction" value="Filter"></div>			</fieldset>
 			</form>		</div>
 
 		<span class="popout-close">X</span>
 
-</div><!-- .popout#curate -->				<div class="popout" id="contribute">
+</div><!-- .popout#curate --><div class="popout" id="contribute">
 	<div class="popout-content">
 		<div class="col-group col-9 centered">
 			<div class="col col-4">
@@ -341,11 +315,11 @@
 		</div>
 	</div><!-- .popout-content -->
 	<span class="popout-close">X</span>
-</div><!-- .popout#contribute -->				<div class="popout" id="search">
+</div><!-- .popout#contribute --><div class="popout" id="search">
 
 	<div class="popout__content">
 
-		<form action="/filter/search" method="get" name="search_filter" data-filterform="" id="search_filter"><div class="form-group"><input name="query" type="text" class="form-input" value=""></div><div class="form-group--row"><div class="form-group form-group--toggle col-6 text-right"><label>Search for a member<input type="checkbox" name="connect_type" class="form-input prettify" value="organisation"></label></div><div class="form-group col-6 text-right"><input name="searchAction" type="submit" class="button-primary" value="Search"></div></div>
+		<form action="/filter/search" method="get" name="search_filter" data-filterform="search" id="search_filter"><div class="form-group"><input name="query" type="text" class="form-control form-input" id="query" value=""></div><div class="clearfix"></div><div class="form-group--row"><div class="form-group form-group--toggle"><input type="checkbox" name="connect_type" class="form-input prettify" id="connect_type" value="organisation"><label for="connect_type">Search for a member</label></div></div>
 		<div class="popout__content hidden" data-rel="organisation" data-toggleon="connect_type">
 			<h4>Choose a business type</h4>
 			
@@ -354,282 +328,282 @@
 					
 						
 						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="agency" class="prettify">
+							<input type="checkbox" name="groups[]" value="7" class="prettify">
 							<span>Agency</span>
 						</label>
 											
 						
 						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="automobile" class="prettify">
+							<input type="checkbox" name="groups[]" value="8" class="prettify">
 							<span>Automobile</span>
 						</label>
 											
 						
 						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="charity" class="prettify">
+							<input type="checkbox" name="groups[]" value="9" class="prettify">
 							<span>Charity</span>
 						</label>
 											
 						
 						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="computing-software-supplier" class="prettify">
+							<input type="checkbox" name="groups[]" value="11" class="prettify">
 							<span>Computing Software Supplier</span>
 						</label>
 											
 						
 						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="consultancy" class="prettify">
-							<span>Consultancy</span>
-						</label>
-											
-						
-						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="contact-centre-telemarketing" class="prettify">
-							<span>Contact Centre/Telemarketing</span>
-						</label>
-											
-						
-						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="data" class="prettify">
-							<span>Data</span>
-						</label>
-											
-						
-						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="dm-software" class="prettify">
-							<span>DM Software</span>
-						</label>
-											
-						
-						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="door-drop" class="prettify">
-							<span>Door Drop</span>
-						</label>
-											
-						
-						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="email-marketing" class="prettify">
-							<span>Email Marketing</span>
-						</label>
-											
-						
-						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="entertainment" class="prettify">
+							<input type="checkbox" name="groups[]" value="12" class="prettify">
 							<span>Entertainment</span>
 						</label>
 											
 						
 						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="field-marketing-brand-experience" class="prettify">
-							<span>Field Marketing/Brand Experience</span>
-						</label>
-												</div>
-						<div class="form-group form-group--toggle col-3">
-											
-						
-						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="financial-services" class="prettify">
+							<input type="checkbox" name="groups[]" value="13" class="prettify">
 							<span>Financial Services</span>
 						</label>
 											
 						
 						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="fmcg" class="prettify">
+							<input type="checkbox" name="groups[]" value="14" class="prettify">
 							<span>FMCG</span>
 						</label>
 											
 						
 						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="government-department-agency" class="prettify">
+							<input type="checkbox" name="groups[]" value="15" class="prettify">
 							<span>Government Department Agency</span>
 						</label>
 											
 						
 						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="home-shopping" class="prettify">
+							<input type="checkbox" name="groups[]" value="16" class="prettify">
 							<span>Home Shopping</span>
 						</label>
 											
 						
 						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="industrial" class="prettify">
+							<input type="checkbox" name="groups[]" value="17" class="prettify">
 							<span>Industrial</span>
 						</label>
 											
 						
 						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="information-research" class="prettify">
+							<input type="checkbox" name="groups[]" value="18" class="prettify">
 							<span>Information Research</span>
 						</label>
 											
 						
 						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="inserts" class="prettify">
-							<span>Inserts</span>
-						</label>
-											
-						
-						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="legal-services" class="prettify">
+							<input type="checkbox" name="groups[]" value="19" class="prettify">
 							<span>Legal Services</span>
 						</label>
+												</div>
+						<div class="form-group form-group--toggle col-3">
 											
 						
 						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="lists" class="prettify">
-							<span>Lists</span>
-						</label>
-											
-						
-						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="logistics" class="prettify">
+							<input type="checkbox" name="groups[]" value="20" class="prettify">
 							<span>Logistics</span>
 						</label>
 											
 						
 						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="mail-order" class="prettify">
+							<input type="checkbox" name="groups[]" value="21" class="prettify">
 							<span>Mail Order</span>
 						</label>
 											
 						
 						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="mailing-house" class="prettify">
-							<span>Mailing House</span>
-						</label>
-												</div>
-						<div class="form-group form-group--toggle col-3">
-											
-						
-						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="mailing-house-supplier" class="prettify">
-							<span>Mailing House Supplier</span>
-						</label>
-											
-						
-						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="manufacturing" class="prettify">
-							<span>Manufacturing</span>
-						</label>
-											
-						
-						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="media-owner" class="prettify">
+							<input type="checkbox" name="groups[]" value="22" class="prettify">
 							<span>Media Owner</span>
 						</label>
 											
 						
 						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="mobile-marketing" class="prettify">
-							<span>Mobile Marketing</span>
-						</label>
-											
-						
-						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="online-web-marketing" class="prettify">
-							<span>Online/Web Marketing</span>
-						</label>
-											
-						
-						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="outsourced-services" class="prettify">
+							<input type="checkbox" name="groups[]" value="23" class="prettify">
 							<span>Outsourced Services</span>
 						</label>
 											
 						
 						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="pharmaceutical" class="prettify">
+							<input type="checkbox" name="groups[]" value="24" class="prettify">
 							<span>Pharmaceutical</span>
 						</label>
 											
 						
 						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="political-party" class="prettify">
+							<input type="checkbox" name="groups[]" value="25" class="prettify">
 							<span>Political Party</span>
 						</label>
 											
 						
 						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="postal-operator" class="prettify">
-							<span>Postal Operator</span>
-						</label>
-											
-						
-						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="printer" class="prettify">
+							<input type="checkbox" name="groups[]" value="26" class="prettify">
 							<span>Printer</span>
 						</label>
 											
 						
 						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="property" class="prettify">
+							<input type="checkbox" name="groups[]" value="27" class="prettify">
 							<span>Property</span>
 						</label>
 											
 						
 						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="publisher-media-agency" class="prettify">
+							<input type="checkbox" name="groups[]" value="28" class="prettify">
 							<span>Publisher/Media Agency</span>
+						</label>
+											
+						
+						<label class="col-12">
+							<input type="checkbox" name="groups[]" value="29" class="prettify">
+							<span>Recruitment/Training</span>
+						</label>
+											
+						
+						<label class="col-12">
+							<input type="checkbox" name="groups[]" value="30" class="prettify">
+							<span>Retailer</span>
+						</label>
+											
+						
+						<label class="col-12">
+							<input type="checkbox" name="groups[]" value="31" class="prettify">
+							<span>Sports Leisure</span>
 						</label>
 												</div>
 						<div class="form-group form-group--toggle col-3">
 											
 						
 						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="recruitment-training" class="prettify">
-							<span>Recruitment/Training</span>
-						</label>
-											
-						
-						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="response-management" class="prettify">
-							<span>Response Management</span>
-						</label>
-											
-						
-						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="retailer" class="prettify">
-							<span>Retailer</span>
-						</label>
-											
-						
-						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="social-media" class="prettify">
-							<span>Social Media</span>
-						</label>
-											
-						
-						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="sports-leisure" class="prettify">
-							<span>Sports Leisure</span>
-						</label>
-											
-						
-						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="telecoms" class="prettify">
+							<input type="checkbox" name="groups[]" value="32" class="prettify">
 							<span>Telecoms</span>
 						</label>
 											
 						
 						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="trade-body" class="prettify">
+							<input type="checkbox" name="groups[]" value="33" class="prettify">
 							<span>Trade Body</span>
 						</label>
 											
 						
 						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="travel-tourism" class="prettify">
+							<input type="checkbox" name="groups[]" value="34" class="prettify">
 							<span>Travel Tourism</span>
 						</label>
 											
 						
 						<label class="col-12">
-							<input type="checkbox" name="groups[]" value="utilities" class="prettify">
+							<input type="checkbox" name="groups[]" value="35" class="prettify">
 							<span>Utilities</span>
+						</label>
+											
+						
+						<label class="col-12">
+							<input type="checkbox" name="groups[]" value="36" class="prettify">
+							<span>Consultancy</span>
+						</label>
+											
+						
+						<label class="col-12">
+							<input type="checkbox" name="groups[]" value="37" class="prettify">
+							<span>Contact Centre/Telemarketing</span>
+						</label>
+											
+						
+						<label class="col-12">
+							<input type="checkbox" name="groups[]" value="38" class="prettify">
+							<span>Data</span>
+						</label>
+											
+						
+						<label class="col-12">
+							<input type="checkbox" name="groups[]" value="39" class="prettify">
+							<span>DM Software</span>
+						</label>
+											
+						
+						<label class="col-12">
+							<input type="checkbox" name="groups[]" value="40" class="prettify">
+							<span>Door Drop</span>
+						</label>
+											
+						
+						<label class="col-12">
+							<input type="checkbox" name="groups[]" value="41" class="prettify">
+							<span>Email Marketing</span>
+						</label>
+											
+						
+						<label class="col-12">
+							<input type="checkbox" name="groups[]" value="42" class="prettify">
+							<span>Brand Activation</span>
+						</label>
+											
+						
+						<label class="col-12">
+							<input type="checkbox" name="groups[]" value="43" class="prettify">
+							<span>Inserts</span>
+						</label>
+												</div>
+						<div class="form-group form-group--toggle col-3">
+											
+						
+						<label class="col-12">
+							<input type="checkbox" name="groups[]" value="44" class="prettify">
+							<span>Lists</span>
+						</label>
+											
+						
+						<label class="col-12">
+							<input type="checkbox" name="groups[]" value="45" class="prettify">
+							<span>Mailing House</span>
+						</label>
+											
+						
+						<label class="col-12">
+							<input type="checkbox" name="groups[]" value="46" class="prettify">
+							<span>Mailing House Supplier</span>
+						</label>
+											
+						
+						<label class="col-12">
+							<input type="checkbox" name="groups[]" value="47" class="prettify">
+							<span>Mobile Marketing</span>
+						</label>
+											
+						
+						<label class="col-12">
+							<input type="checkbox" name="groups[]" value="48" class="prettify">
+							<span>Online/Web Marketing</span>
+						</label>
+											
+						
+						<label class="col-12">
+							<input type="checkbox" name="groups[]" value="49" class="prettify">
+							<span>Response Management</span>
+						</label>
+											
+						
+						<label class="col-12">
+							<input type="checkbox" name="groups[]" value="50" class="prettify">
+							<span>Social Media</span>
+						</label>
+											
+						
+						<label class="col-12">
+							<input type="checkbox" name="groups[]" value="51" class="prettify">
+							<span>Postal Operator</span>
+						</label>
+											
+						
+						<label class="col-12">
+							<input type="checkbox" name="groups[]" value="53" class="prettify">
+							<span>Manufacturing</span>
 						</label>
 															</div>
 			</div>
-		</div>
+		</div><!-- .popout__content -->
 
 
 		<div class="popout__content hidden" data-rel="other" data-toggleon="connect_type">
@@ -640,8 +614,20 @@
 						Content type:					</li>
 											<li>
 							<label class="tag">
+								<input type="checkbox" name="content_types[]" value="greatbritishcopywriting">
+								<span>Great British Copywriting</span>
+							</label>
+						</li>
+											<li>
+							<label class="tag">
 								<input type="checkbox" name="content_types[]" value="article">
 								<span>Article</span>
+							</label>
+						</li>
+											<li>
+							<label class="tag">
+								<input type="checkbox" name="content_types[]" value="webinar">
+								<span>Webinar</span>
 							</label>
 						</li>
 											<li>
@@ -695,348 +681,356 @@
 									</ul>
 			</div><!-- #article-filters-container -->
 
-			
-			<div class="form-group form-group--buttons hide-js"><input name="searchAction" type="submit" class="button-primary" value="Search"></div>
-		</div>
+		</div><!-- .popout__content -->
+
+
+		<br><input type="submit" name="searchAction" class="button-primary searchBtn" value="Search">		<div class="search_filter">
+			<span class="search_filter_label">Filter your results:</span>
+			<select name="date_rel" class="form-input searchFormFilterSelect"><option value="relevance">Relevance</option>
+<option value="date_l">Date (Newest - Oldest)</option>
+<option value="date_e">Date (Oldest - Newest)</option></select>		</div>
+
 		</form>
 
-	</div>
+	</div><!-- .popout__content -->
 	<span class="popout-close">X</span>
 </div><!-- .popout#curate -->
-				<div class="popout popout--segmented" id="connect">
-<form action="/connect#s_connect" method="get" name="connect_filter" id="connect_filter" data-filterform=""><fieldset>
+<div class="popout popout--segmented" id="connect">
+<form action="/connect#s_connect" method="get" name="connect_filter" id="connect_filter" data-filterform="connect"><fieldset>
 
-	<div class="popout__content">
+	<div class="popout__content no-border">
 		<h4>Connect to</h4>
-		<div class="form-group form-group--toggle"><label><input type="radio" name="connect_type" class="form-input prettify" value="organisation">Company</label></div>	</div>
+		<div class="hidden">
+			<div class="form-group form-group--toggle"><label><input type="radio" name="connect_type" class="form-input prettify" id="connect_type" value="organisation" checked="checked">Company</label></div>		</div>
+	</div>
 
 	<div class="popout__content hidden" data-rel="organisation" data-toggleon="connect_type">
 		<h4>Are you looking for a...</h4>
-		<div class="form-group form-group--toggle"><label><input type="radio" name="group_type" class="form-input prettify" value="brand">Brand</label><label><input type="radio" name="group_type" class="form-input prettify" value="supplier">Supplier</label><label><input type="radio" name="group_type" class="form-input prettify" value="agency">Agency</label></div>	</div>
+		<div class="form-group form-group--toggle inline"><label><input type="radio" name="group_type" class="form-input prettify" id="group_type" value="0" checked="checked">Show all</label><label><input type="radio" name="group_type" class="form-input prettify" value="1">Brand</label><label><input type="radio" name="group_type" class="form-input prettify" value="2">Supplier</label><label><input type="radio" name="group_type" class="form-input prettify" value="3">Agency</label></div>	</div>
 
-	<div class="popout__content hidden" data-rel="organisation" data-toggleon="group_type" data-grouptype="agency">
-		<h4>Choose a business type</h4>
-		
-		<div class="form-group form-group--row">
-			<div class="form-group form-group--toggle col-3">
+	<div class="popout__content hidden" data-rel="organisation" data-toggleon="group_type" data-grouptype="3">
+	<h4>Choose a business type</h4>
+	
+	<div class="form-group form-group--row">
+		<div class="form-group form-group--toggle col-3">
+			
 				
-					
-					<label class="col-12">
-						<input type="checkbox" name="group_agencies[]" value="agency" class="prettify">
-						<span>Agency</span>
-					</label>
-										</div>
-					<div class="form-group form-group--toggle col-3">
-												</div>
-		</div>
+				<label class="col-12">
+					<input type="checkbox" name="group_3[]" value="7" class="prettify">
+					<span>Agency</span>
+				</label>
+								</div>
+				<div class="form-group form-group--toggle col-3">
+									</div>
 	</div>
+</div>
 
-	<div class="popout__content hidden" data-rel="organisation" data-toggleon="group_type" data-grouptype="supplier">
-		<h4>Choose a business type</h4>
+<div class="popout__content hidden" data-rel="organisation" data-toggleon="group_type" data-grouptype="2">
+<h4>Choose a business type</h4>
+
+<div class="form-group form-group--row">
+	<div class="form-group form-group--toggle col-3">
 		
-		<div class="form-group form-group--row">
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_2[]" value="42" class="prettify">
+				<span>Brand Activation</span>
+			</label>
+					
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_2[]" value="36" class="prettify">
+				<span>Consultancy</span>
+			</label>
+					
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_2[]" value="37" class="prettify">
+				<span>Contact Centre/Telemarketing</span>
+			</label>
+					
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_2[]" value="38" class="prettify">
+				<span>Data</span>
+			</label>
+						</div>
 			<div class="form-group form-group--toggle col-3">
-				
 					
-					<label class="col-12">
-						<input type="checkbox" name="group_suppliers[]" value="consultancy" class="prettify">
-						<span>Consultancy</span>
-					</label>
-									
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_2[]" value="39" class="prettify">
+				<span>DM Software</span>
+			</label>
 					
-					<label class="col-12">
-						<input type="checkbox" name="group_suppliers[]" value="contact-centre-telemarketing" class="prettify">
-						<span>Contact Centre/Telemarketing</span>
-					</label>
-									
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_2[]" value="40" class="prettify">
+				<span>Door Drop</span>
+			</label>
 					
-					<label class="col-12">
-						<input type="checkbox" name="group_suppliers[]" value="data" class="prettify">
-						<span>Data</span>
-					</label>
-									
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_2[]" value="41" class="prettify">
+				<span>Email Marketing</span>
+			</label>
 					
-					<label class="col-12">
-						<input type="checkbox" name="group_suppliers[]" value="dm-software" class="prettify">
-						<span>DM Software</span>
-					</label>
-										</div>
-					<div class="form-group form-group--toggle col-3">
-									
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_2[]" value="43" class="prettify">
+				<span>Inserts</span>
+			</label>
+						</div>
+			<div class="form-group form-group--toggle col-3">
 					
-					<label class="col-12">
-						<input type="checkbox" name="group_suppliers[]" value="door-drop" class="prettify">
-						<span>Door Drop</span>
-					</label>
-									
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_2[]" value="44" class="prettify">
+				<span>Lists</span>
+			</label>
 					
-					<label class="col-12">
-						<input type="checkbox" name="group_suppliers[]" value="email-marketing" class="prettify">
-						<span>Email Marketing</span>
-					</label>
-									
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_2[]" value="45" class="prettify">
+				<span>Mailing House</span>
+			</label>
 					
-					<label class="col-12">
-						<input type="checkbox" name="group_suppliers[]" value="field-marketing-brand-experience" class="prettify">
-						<span>Field Marketing/Brand Experience</span>
-					</label>
-									
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_2[]" value="46" class="prettify">
+				<span>Mailing House Supplier</span>
+			</label>
 					
-					<label class="col-12">
-						<input type="checkbox" name="group_suppliers[]" value="inserts" class="prettify">
-						<span>Inserts</span>
-					</label>
-										</div>
-					<div class="form-group form-group--toggle col-3">
-									
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_2[]" value="47" class="prettify">
+				<span>Mobile Marketing</span>
+			</label>
+						</div>
+			<div class="form-group form-group--toggle col-3">
 					
-					<label class="col-12">
-						<input type="checkbox" name="group_suppliers[]" value="lists" class="prettify">
-						<span>Lists</span>
-					</label>
-									
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_2[]" value="48" class="prettify">
+				<span>Online/Web Marketing</span>
+			</label>
 					
-					<label class="col-12">
-						<input type="checkbox" name="group_suppliers[]" value="mailing-house" class="prettify">
-						<span>Mailing House</span>
-					</label>
-									
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_2[]" value="51" class="prettify">
+				<span>Postal Operator</span>
+			</label>
 					
-					<label class="col-12">
-						<input type="checkbox" name="group_suppliers[]" value="mailing-house-supplier" class="prettify">
-						<span>Mailing House Supplier</span>
-					</label>
-									
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_2[]" value="49" class="prettify">
+				<span>Response Management</span>
+			</label>
 					
-					<label class="col-12">
-						<input type="checkbox" name="group_suppliers[]" value="mobile-marketing" class="prettify">
-						<span>Mobile Marketing</span>
-					</label>
-										</div>
-					<div class="form-group form-group--toggle col-3">
-									
-					
-					<label class="col-12">
-						<input type="checkbox" name="group_suppliers[]" value="online-web-marketing" class="prettify">
-						<span>Online/Web Marketing</span>
-					</label>
-									
-					
-					<label class="col-12">
-						<input type="checkbox" name="group_suppliers[]" value="postal-operator" class="prettify">
-						<span>Postal Operator</span>
-					</label>
-									
-					
-					<label class="col-12">
-						<input type="checkbox" name="group_suppliers[]" value="response-management" class="prettify">
-						<span>Response Management</span>
-					</label>
-									
-					
-					<label class="col-12">
-						<input type="checkbox" name="group_suppliers[]" value="social-media" class="prettify">
-						<span>Social Media</span>
-					</label>
-										</div>
-					<div class="form-group form-group--toggle col-3">
-												</div>
-		</div>
-	</div>
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_2[]" value="50" class="prettify">
+				<span>Social Media</span>
+			</label>
+						</div>
+			<div class="form-group form-group--toggle col-3">
+						</div>
+</div>
+</div>
 
-	<div class="popout__content hidden" data-rel="organisation" data-toggleon="group_type" data-grouptype="brand">
-		<h4>Choose a business type</h4>
+<div class="popout__content hidden" data-rel="organisation" data-toggleon="group_type" data-grouptype="1">
+<h4>Choose a business type</h4>
 
+
+<div class="form-group form-group--row">
+	<div class="form-group form-group--toggle col-3">
 		
-		<div class="form-group form-group--row">
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_1[]" value="8" class="prettify">
+				<span>Automobile</span>
+			</label>
+					
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_1[]" value="9" class="prettify">
+				<span>Charity</span>
+			</label>
+					
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_1[]" value="11" class="prettify">
+				<span>Computing Software Supplier</span>
+			</label>
+					
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_1[]" value="12" class="prettify">
+				<span>Entertainment</span>
+			</label>
+					
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_1[]" value="13" class="prettify">
+				<span>Financial Services</span>
+			</label>
+					
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_1[]" value="14" class="prettify">
+				<span>FMCG</span>
+			</label>
+					
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_1[]" value="15" class="prettify">
+				<span>Government Department Agency</span>
+			</label>
+						</div>
 			<div class="form-group form-group--toggle col-3">
-				
 					
-					<label class="col-12">
-						<input type="checkbox" name="group_brands[]" value="automobile" class="prettify">
-						<span>Automobile</span>
-					</label>
-									
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_1[]" value="16" class="prettify">
+				<span>Home Shopping</span>
+			</label>
 					
-					<label class="col-12">
-						<input type="checkbox" name="group_brands[]" value="charity" class="prettify">
-						<span>Charity</span>
-					</label>
-									
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_1[]" value="17" class="prettify">
+				<span>Industrial</span>
+			</label>
 					
-					<label class="col-12">
-						<input type="checkbox" name="group_brands[]" value="computing-software-supplier" class="prettify">
-						<span>Computing Software Supplier</span>
-					</label>
-									
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_1[]" value="18" class="prettify">
+				<span>Information Research</span>
+			</label>
 					
-					<label class="col-12">
-						<input type="checkbox" name="group_brands[]" value="entertainment" class="prettify">
-						<span>Entertainment</span>
-					</label>
-									
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_1[]" value="19" class="prettify">
+				<span>Legal Services</span>
+			</label>
 					
-					<label class="col-12">
-						<input type="checkbox" name="group_brands[]" value="financial-services" class="prettify">
-						<span>Financial Services</span>
-					</label>
-									
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_1[]" value="20" class="prettify">
+				<span>Logistics</span>
+			</label>
 					
-					<label class="col-12">
-						<input type="checkbox" name="group_brands[]" value="fmcg" class="prettify">
-						<span>FMCG</span>
-					</label>
-									
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_1[]" value="21" class="prettify">
+				<span>Mail Order</span>
+			</label>
 					
-					<label class="col-12">
-						<input type="checkbox" name="group_brands[]" value="government-department-agency" class="prettify">
-						<span>Government Department Agency</span>
-					</label>
-										</div>
-					<div class="form-group form-group--toggle col-3">
-									
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_1[]" value="53" class="prettify">
+				<span>Manufacturing</span>
+			</label>
+						</div>
+			<div class="form-group form-group--toggle col-3">
 					
-					<label class="col-12">
-						<input type="checkbox" name="group_brands[]" value="home-shopping" class="prettify">
-						<span>Home Shopping</span>
-					</label>
-									
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_1[]" value="22" class="prettify">
+				<span>Media Owner</span>
+			</label>
 					
-					<label class="col-12">
-						<input type="checkbox" name="group_brands[]" value="industrial" class="prettify">
-						<span>Industrial</span>
-					</label>
-									
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_1[]" value="23" class="prettify">
+				<span>Outsourced Services</span>
+			</label>
 					
-					<label class="col-12">
-						<input type="checkbox" name="group_brands[]" value="information-research" class="prettify">
-						<span>Information Research</span>
-					</label>
-									
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_1[]" value="24" class="prettify">
+				<span>Pharmaceutical</span>
+			</label>
 					
-					<label class="col-12">
-						<input type="checkbox" name="group_brands[]" value="legal-services" class="prettify">
-						<span>Legal Services</span>
-					</label>
-									
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_1[]" value="25" class="prettify">
+				<span>Political Party</span>
+			</label>
 					
-					<label class="col-12">
-						<input type="checkbox" name="group_brands[]" value="logistics" class="prettify">
-						<span>Logistics</span>
-					</label>
-									
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_1[]" value="26" class="prettify">
+				<span>Printer</span>
+			</label>
 					
-					<label class="col-12">
-						<input type="checkbox" name="group_brands[]" value="mail-order" class="prettify">
-						<span>Mail Order</span>
-					</label>
-									
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_1[]" value="27" class="prettify">
+				<span>Property</span>
+			</label>
 					
-					<label class="col-12">
-						<input type="checkbox" name="group_brands[]" value="manufacturing" class="prettify">
-						<span>Manufacturing</span>
-					</label>
-										</div>
-					<div class="form-group form-group--toggle col-3">
-									
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_1[]" value="28" class="prettify">
+				<span>Publisher/Media Agency</span>
+			</label>
+						</div>
+			<div class="form-group form-group--toggle col-3">
 					
-					<label class="col-12">
-						<input type="checkbox" name="group_brands[]" value="media-owner" class="prettify">
-						<span>Media Owner</span>
-					</label>
-									
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_1[]" value="29" class="prettify">
+				<span>Recruitment/Training</span>
+			</label>
 					
-					<label class="col-12">
-						<input type="checkbox" name="group_brands[]" value="outsourced-services" class="prettify">
-						<span>Outsourced Services</span>
-					</label>
-									
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_1[]" value="30" class="prettify">
+				<span>Retailer</span>
+			</label>
 					
-					<label class="col-12">
-						<input type="checkbox" name="group_brands[]" value="pharmaceutical" class="prettify">
-						<span>Pharmaceutical</span>
-					</label>
-									
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_1[]" value="31" class="prettify">
+				<span>Sports Leisure</span>
+			</label>
 					
-					<label class="col-12">
-						<input type="checkbox" name="group_brands[]" value="political-party" class="prettify">
-						<span>Political Party</span>
-					</label>
-									
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_1[]" value="32" class="prettify">
+				<span>Telecoms</span>
+			</label>
 					
-					<label class="col-12">
-						<input type="checkbox" name="group_brands[]" value="printer" class="prettify">
-						<span>Printer</span>
-					</label>
-									
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_1[]" value="33" class="prettify">
+				<span>Trade Body</span>
+			</label>
 					
-					<label class="col-12">
-						<input type="checkbox" name="group_brands[]" value="property" class="prettify">
-						<span>Property</span>
-					</label>
-									
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_1[]" value="34" class="prettify">
+				<span>Travel Tourism</span>
+			</label>
 					
-					<label class="col-12">
-						<input type="checkbox" name="group_brands[]" value="publisher-media-agency" class="prettify">
-						<span>Publisher/Media Agency</span>
-					</label>
-										</div>
-					<div class="form-group form-group--toggle col-3">
-									
-					
-					<label class="col-12">
-						<input type="checkbox" name="group_brands[]" value="recruitment-training" class="prettify">
-						<span>Recruitment/Training</span>
-					</label>
-									
-					
-					<label class="col-12">
-						<input type="checkbox" name="group_brands[]" value="retailer" class="prettify">
-						<span>Retailer</span>
-					</label>
-									
-					
-					<label class="col-12">
-						<input type="checkbox" name="group_brands[]" value="sports-leisure" class="prettify">
-						<span>Sports Leisure</span>
-					</label>
-									
-					
-					<label class="col-12">
-						<input type="checkbox" name="group_brands[]" value="telecoms" class="prettify">
-						<span>Telecoms</span>
-					</label>
-									
-					
-					<label class="col-12">
-						<input type="checkbox" name="group_brands[]" value="trade-body" class="prettify">
-						<span>Trade Body</span>
-					</label>
-									
-					
-					<label class="col-12">
-						<input type="checkbox" name="group_brands[]" value="travel-tourism" class="prettify">
-						<span>Travel Tourism</span>
-					</label>
-									
-					
-					<label class="col-12">
-						<input type="checkbox" name="group_brands[]" value="utilities" class="prettify">
-						<span>Utilities</span>
-					</label>
-										</div>
-					<div class="form-group form-group--toggle col-3">
-												</div>
-		</div>
+			
+			<label class="col-12">
+				<input type="checkbox" name="group_1[]" value="35" class="prettify">
+				<span>Utilities</span>
+			</label>
+						</div>
+			<div class="form-group form-group--toggle col-3">
+						</div>
+</div>
 
-	</div>
+</div>
 
-	<div class="popout__content hidden" data-rel="organisation,user" data-final="">
-		<h4>and/or enter a company name, postcode or keyword</h4>
-		<input name="query" type="text" class="form-input" value="">	</div>
+<div class="popout__content hidden" data-rel="organisation,user" data-final="">
+	<h4>and/or enter a company name, postcode or keyword</h4>
+	<input name="query" type="text" class="form-control form-input" id="query" value=""></div>
 
-	<div class="popout__content">
-		<div class="form-group form-group--buttons"><input name="connectAction" type="submit" class="button-primary" value="Find Connection"></div>	</div>
+<div class="popout__content">
+	<div class="form-group form-group--buttons"><input type="submit" name="connectAction" class="btn btn-primary button-primary" id="connectAction" value="Find Connection"></div></div>
 
 </fieldset>
 
@@ -1048,29 +1042,31 @@
 
 								<div id="content">
 					
-<div role="article" id="article-632" class="content-box article format-page article--full blue">
+<div role="article" id="article-632" class="content-box article type-page format-page article--full blue">
 
 	<div class="content-box__header">
 
 		
 		<h1 class="article-title">
-			<a href="/page/privacy-and-cookie-policy" title="Privacy and Cookie Policy">
-				Privacy and Cookie Policy			</a>
-		</h1>
+			Privacy and Cookie Policy		</h1>
 
-					<p class="article-datetime">3 weeks ago</p>
 		
 		<ul class="sharing-tools">
-			<li>
-				<span data-url="/share/632" title="Share" class="sharing-tool sharing-tool--share">
-					Share				</span>
-			</li>
-					</ul>
+	<li>
+		<span data-url="/ext-share/title/Privacy+and+Cookie+Policy/summary/%20/url/http%253A%252F%252Fdma.org.uk%252Fprivacy-and-cookie-policy" title="Share" class="sharing-tool sharing-tool--share">
+				Share			</span>
+		</li>
+		<li>
+			<a href="/bookmark/YTo0OntzOjQ6InVzZXIiO047czo2OiJvYmplY3QiO2E6Mjp7aTowO3M6MTg6IkRNQVxFbnRpdHlcQXJ0aWNsZSI7aToxO2k6NjMyO31zOjEwOiJzZXNzaW9uX2lkIjtzOjI2OiJybmo3Zjk4bGRxMzU0OTQ2OGxtbm1nOTEwNyI7czo2OiJhY3Rpb24iO3M6NjoidG9nZ2xlIjt9?referrer=/privacy-and-cookie-policy" title="Clip" class="sharing-tool sharing-tool--clip">
+				Clip			</a>
+		</li>
+</ul><!-- .action-links -->
 	</div><!-- .article__header -->
 
 	
+	
 	<div class="content-box__body">
-	<p>We believe in respecting your privacy – it's one of the five principles of the DMA Code, to which we hold our members accountable.</p>
+<p>We believe in respecting your privacy – it's one of the five principles of the DMA Code, to which we hold our members accountable.</p>
 
 <p>So we take your privacy on dma.org.uk very seriously indeed. This privacy and cookie policy lays out our specific commitments, in compliance with and beyond the Data Protection Act 1998.</p>
 
@@ -1162,19 +1158,19 @@
 
 <p><strong>Notification of changes</strong></p>
 
-<p>If we update our website privacy policy, we will flag it up when you next visit the site.</p></div><!-- .content-box__body -->
-
+<p>If we update our website privacy policy, we will flag it up when you next visit the site.</p>
+</div><!-- .content-box__body -->
 <div class="content-box__section article__author">
 
-	<a href="/user/the-dma" title="The DMA" class="user-name">
+	<a href="/user/membership-dma-org-uk" title="The DMA" class="user-name">
 					<img src="/uploads/user/tn_1_53f37005d186c-new_logo_final_notext_foremail_53f37005d17d6.jpg" class="user-image user-image--medium" alt="The DMA">			</a>
 
-	<a href="/user/the-dma" title="The DMA" class="user-name">
+	<a href="/user/membership-dma-org-uk" title="The DMA" class="user-name">
 		The DMA	</a>
 
 	<p>
-		<span class="user-detail">
-			Direct Marketing Association		</span>
+				<span class="user-detail">
+					</span>
 	</p>
 
 	<!-- <ul class="user-links">
@@ -1190,16 +1186,15 @@
 		</li>
 	</ul> -->
 
-	</div><!-- .article__author --></div><!-- #article[page:632:arch-article/front/format/page/standard] -->
+	</div><!-- .article__author --></div><!-- #article[page:632:arch-article/front/format/page/page] -->
 
 				</div>
 			</div><!-- .wrapper -->
 
 			<div class="sidebar" id="left-sidebar">
-
 				<span class="navigation--toggle"></span>
-				<div class="navigation navigation--primary">
-					<ul class="primary">
+<div class="navigation navigation--primary">
+	<ul class="primary">
     <li>
         <a class="large" href="/contactus">Join Us</a>
     </li>
@@ -1207,7 +1202,16 @@
         <a href="/articles/about-the-dma">About the DMA</a>
     </li>
     <li>
-        <a href="/communities">Communities</a>
+        <a href="/communities">Our communities</a>
+    </li>
+    <li>
+        <a href="/connect/connect_type/organisation/group_type/0/connect#s_connect">Our members</a>
+    </li>
+    <li>
+        <a href="/greatbritishcopywriting">Writing Campaign</a>
+    </li>
+    <li>
+        <a href="/gdpr">GDPR</a>
     </li>
 </ul><ul>
     <li>
@@ -1220,10 +1224,16 @@
         <a href="/events">Events</a>
     </li>
     <li>
+        <a href="/training">Training</a>
+    </li>
+    <li>
         <a href="/research">Research</a>
     </li>
     <li>
-        <a href="/articles/dma-awards">Awards</a>
+        <a href="/awards">Awards</a>
+    </li>
+    <li>
+        <a href="/webinars">Webinars</a>
     </li>
 </ul><ul>
     <li>
@@ -1233,49 +1243,60 @@
         <a href="/articles/preference-services">Preference Services</a>
     </li>
     <li>
+        <a href="/tps-assured">TPS Assured</a>
+    </li>
+    <li>
+        <a href="articles/dataseal">Dataseal</a>
+    </li>
+    <li>
         <a href="/articles/direct-marketing-commission">Direct Marketing Commission</a>
     </li>
-</ul>				</div>
+    <li>
+        <a href="/contact">Contact us</a>
+    </li>
+</ul></div>
 
-				<ul class="social">
-					<li>
-						<a href="https://www.linkedin.com/company/direct-marketing-association-uk-ltd" title="LinkedIn" class="icon social-icon social-icon--linkedin">
-							LinkedIn
-						</a>
-					</li>
-					<li>
-						<a href="https://www.facebook.com/directmarketingassociation" title="Facebook" class="icon social-icon social-icon--facebook">
-							Facebook
-						</a>
-					</li>
-					<li>
-						<a href="https://twitter.com/DMA_UK" title="Twitter" class="icon social-icon social-icon--twitter">
-							Twitter
-						</a>
-					</li>
-				</ul>
-
-			</div><!-- .sidebar -->
+<ul class="social">
+	<li>
+		<a href="https://www.linkedin.com/company/direct-marketing-association-uk-ltd" title="LinkedIn" class="icon social-icon social-icon--linkedin">
+			LinkedIn
+		</a>
+	</li>
+	<li>
+		<a href="https://www.facebook.com/directmarketingassociation" title="Facebook" class="icon social-icon social-icon--facebook">
+			Facebook
+		</a>
+	</li>
+	<li>
+		<a href="https://twitter.com/DMA_UK" title="Twitter" class="icon social-icon social-icon--twitter">
+			Twitter
+		</a>
+	</li>
+</ul>			</div><!-- .sidebar -->
 
 		</div><!-- .container -->
 
-		<ul class="tabs">
+	</div><!-- .dma -->
+
+	<div class="footer">
+
+	<ul class="tabs">
 
 
-			<li class="tab">
-				<a href="/contactus" title="Join Us" class="tab-title">
-					Join Us				</a>
-			</li>
+		<li class="tab">
+			<a href="/contactus" title="Join Us" class="tab-title">
+				Join Us			</a>
+		</li>
 
-			<li class="tab cookie-tab">
-				<div class="cookie-tab-info hidden">This website only uses essential cookies.
-					<br>
-					<a href="/dma-cookies">More info</a> | <a href="#" class="cookies-accept">Accept</a>
-				</div>
-				<div class="cookie-tab-arrow arrow-down hidden"></div>
-				<a href="/dma-cookies" title="Cookie Policy" class="tab-title">
-				Cookie Policy
-			</a>
+		<li class="tab cookie-tab">
+			<div class="cookie-tab-info hidden">This website only uses essential cookies.
+				<br>
+				<a href="/dma-cookies">More info</a> | <a href="#" class="cookies-accept">Accept</a>
+			</div>
+			<div class="cookie-tab-arrow arrow-down hidden"></div>
+			<a href="/dma-cookies" title="Cookie Policy" class="tab-title">
+				Cookie Policy			</a>
+
 		</li>
 
 		<li class="tab">
@@ -1285,94 +1306,35 @@
 
 	</ul>
 
-</div><!-- .dma -->
-
-<div class="footer">
-	<p class="footer-expand hidden">Expand</p>
+	<p class="footer-expand show-mobile">Expand</p>
 	<div class="wrapper">
-		<div class="col-group footer-desktop">
-			<div class="col col-5">
-				<ul>
-					<li><a href="/terms-conditions" title="Terms and Conditions">Terms and Conditions</a></li>
+		<div class="col-group">
 
-					<li><a href="/privacy-and-cookie-policy" title="Privacy Policy">Privacy Policy</a></li>
-
-					<li><a href="/contact" title="Contact">Contact</a></li>
-				</ul>
-			</div>
-			<div class="col col-7 text-right">
-				<p class="copyright">Copyright DMA 2014 © All Rights Reserved</p>
-			</div>
-			<!-- <div class="col col-3">
-				<h5>Membership</h5>
-				<ul>
-					<li><a href="#" title="Join The DMA">Join The DMA</a></li>
-					<li><a href="#" title="Membership information">Membership information</a></li>
-					<li><a href="#" title="What we do for you">What we do for you</a></li>
-					<li><a href="#" title="DMA certificate and logo">DMA certificate and logo</a></li>
-					<li><a href="#" title="Finders Keepers">Finders Keepers</a></li>
-				</ul>
-			</div>
-
-			<div class="col col-3">
-				<h5>Awards</h5>
-				<ul>
-					<li><a href="#" title="DMA Awards">DMA Awards</a></li>
-					<li><a href="#" title="Graeme Robertson Trust">Graeme Robertson Trust</a></li>
-					<li><a href="#" title="Young Spark award">Young Spark award</a></li>
-					<li><a href="#" title="Fresh Talent Award">Fresh Talent Award</a></li>
-					<li><a href="#" title="Arthur Thompson Award">Arthur Thompson Award</a></li>
-				</ul>
-			</div>
-
-			<div class="col col-3">
-				<h5>News</h5>
-				<ul>
-					<li><a href="#" title="DMA News">DMA News</a></li>
-					<li><a href="#" title="Press Centre">Press Centre</a></li>
-				</ul>
-			</div>
-
-			<div class="col col-3">
-				<h5>Who We Are</h5>
-				<ul>
-					<li><a href="#" title="Councils">Councils</a></li>
-					<li><a href="#" title="Board Members">Board Members</a></li>
-					<li><a href="#" title="DMA Departments">DMA Departments</a></li>
-					<li><a href="#" title="Annual Reports">Annual Reports</a></li>
-				</ul>
-			</div> -->
-
-		</div>
-
-		<div class="col-group footer-mobile hidden">
-			<div class="col col-2">
-				<ul>
+			<div class="col col-6">
+				<ul class="navigation navigation--footer">
 					<li><a href="/terms-conditions" title="Terms and Conditions">Terms and Conditions</a></li>
 					<li><a href="/privacy-and-cookie-policy" title="Privacy Policy">Privacy Policy</a></li>
 					<li><a href="/contact" title="Contact">Contact</a></li>
-				</ul>
+									</ul>
 			</div>
-			<div class="col col-2">
+
+			<div class="col col-6">
 				<p class="copyright">Copyright DMA 2014 © All Rights Reserved</p>
 			</div>
-		</div>
 
+		</div>
 
 	</div><!-- .wrapper -->
-
 </div><!-- .footer -->
 
-<script type="text/javascript" src="/assets/vendor/jquery/jquery.min.js"></script>
-<script type="text/javascript" src="/dma/assets/js/libs/qtip.js"></script>
-<script type="text/javascript" src="/dma/assets/js/imagesloaded.pkgd.min.js"></script>
-<script type="text/javascript" src="/dma/assets/js/masonry.pkgd.min.js"></script>
-<script type="text/javascript" src="/dma/assets/js/dma.min.js"></script>
-<script type="text/javascript" src="/assets/js/common.min.js"></script>
-<script type="text/javascript" src="http://tracker.leadforensics.com/js/4718.js"></script>
-<noscript><img src="http://tracker.leadforensics.com/images/track/4718.png?trk_user=4718&trk_tit=jsdisabled&trk_ref=jsdisabled&trk_loc=jsdisabled" height="0px" width="0px" style="display:none;" /></noscript>
-
-
+	<script type="text/javascript" src="/assets/vendor/jquery/jquery.min.js"></script>
+<script type="text/javascript" src="dma/js/masonry.js"></script>
+<script type="text/javascript" src="dma/js/content.js"></script>
+<script type="text/javascript" src="/assets/js/development/common.js"></script>
+<script type="text/javascript" src="/dma/assets/js/main.js"></script>
+			<script type="text/javascript" src="http://tracker.leadforensics.com/js/4718.js"></script>
+		<noscript><img src="http://tracker.leadforensics.com/images/track/4718.png?trk_user=4718&trk_tit=jsdisabled&trk_ref=jsdisabled&trk_loc=jsdisabled" height="0px" width="0px" style="display:none;" /></noscript>
+	
 
 
 </body></html>
