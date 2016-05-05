@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infoblox.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907213311id_/https%3A//www.infoblox.com/company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoblox.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505225922id_/https%3A//www.infoblox.com/company/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DDI (Secure DNS, DHCP, and IPAM) | Infoblox
 
@@ -28,7 +28,7 @@ We may receive and store certain information related to the usage and effectiven
 
 ### E-mail Communications:
 
-We may receive a confirmation when you open an e-mail from Infoblox if your computer supports this type of program. Infoblox may use this confirmation to help us make e-mails more interesting and helpful. We may also compare our customer list to lists received from other companies, in an effort to avoid sending duplicate or unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please notify us by e-mail at [mailing@infoblox.com](mailto:mailing@infoblox.com) and include sufficient information for us to identify your account.
+We may receive a confirmation when you open an e-mail from Infoblox if your computer supports this type of program. Infoblox may use this confirmation to help us make e-mails more interesting and helpful. We may also compare our customer list to lists received from other companies, in an effort to avoid sending duplicate or unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please notify us by e-mail at [unsubscribe@infoblox.com](mailto:unsubscribe@infoblox.com) and include sufficient information for us to identify your account.
 
 ### What About Cookies?
 
@@ -109,9 +109,9 @@ After logging in to your account, you may access certain information about you f
 
 You can always opt not to disclose information to Infoblox, even though it may be needed to receive services or take advantage of certain Infoblox web site features.
 
-You may be able to add or update certain information on pages, such as those that may be listed in the "What Personal Information Can I Access" section above. When you update information, however, we may maintain a copy of the unrevised information in our records. You may request deletion of your Infoblox account by sending an e-mail to [info@infoblox.com](mailto:info@infoblox.com) and responding affirmatively to any confirmation e-mails that we may send. Please note that some information may remain in our records after deletion of your account.
+You may be able to add or update certain information on pages, such as those that may be listed in the "What Personal Information Can I Access" section above. When you update information, however, we may maintain a copy of the unrevised information in our records. You may request deletion of your Infoblox account by sending an e-mail to [unsubscribe@infoblox.com](mailto:unsubscribe@infoblox.com) and responding affirmatively to any confirmation e-mails that we may send. Please note that some information may remain in our records after deletion of your account.
 
-If you do not wish to receive e-mail or other mail from us, please notify us by e-mail at [mailing@infoblox.com](mailto:mailing@infoblox.com), and provide sufficient information for us to identify your account. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Infoblox web site, and you are responsible for reviewing such legal notices for changes.
+If you do not wish to receive e-mail or other mail from us, please notify us by e-mail at [unsubscribe@infoblox.com](mailto:unsubscribe@infoblox.com), and provide sufficient information for us to identify your account. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Infoblox web site, and you are responsible for reviewing such legal notices for changes.
 
 As explained earlier, the majority of browsers allow you to monitor and restrict our use of cookies. Please note, however, that if your browser does not accept cookies, you may not be able to take advantage of some of our services or web site features.
 
