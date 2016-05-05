@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the activebed.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207102452id_/http%3A//activebed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activebed.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506011416id_/http%3A//activebed.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ACTIVEBED
+# Privacy Policy
 
 At our website ActiveBed.com, we know how your privacy is important to us. Therefore, we never ask about your confidential information like your phone number, passwords, account number etc. You can freely visit to our website without informing us who you are? We collect your general information during navigation on the site like your IP address, browser type and Operating System. We are promising you that, we will never share or sell your information to any third parties under any circumstances, unless ordered by the court of law (to protect against misuse or unauthorized use of our website).
 
