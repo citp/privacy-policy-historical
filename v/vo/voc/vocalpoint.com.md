@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the vocalpoint.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323005951id_/http%3A//www.vocalpoint.com/cms/content/vocalpoint-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vocalpoint.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505115340id_/http%3A//www.vocalpoint.com/privacy-policy) for the most accurate reproduction.*
 
-# VocalPoint Privacy Policy | Vocalpoint
+# VocalPoint Privacy Policy - Vocalpoint
 
 **Scope**
 
 This Privacy Notice applies to information, including personal information, collected about you by VocalPoint™ and its affiliated companies and subsidiaries.
 
-**Information We Collect**
+ **Information We Collect**
 
 We collect information about you from a variety of sources, including:
 
@@ -44,7 +44,7 @@ We use cookies and other technologies to collect information about you when you 
 
 
 
-**Information we collect from other sources:**
+ **Information we collect from other sources:**
 
 We may obtain information about you from other sources, including commercially available sources, such as data aggregators and public databases. The following are examples of information we may collect from other sources.
 
@@ -59,7 +59,7 @@ We may obtain information about you from other sources, including commercially a
 
 
 
-**Information Sharing**
+ **Information Sharing**
 
   * We use the information we collect to provide the products and services you request, to tell you about other products and services and to manage our sites and services.
   * In general, we do not share your personal information with third-party marketers, unless we have asked for and obtained your explicit consent.
@@ -86,6 +86,6 @@ The following are ways we may use the information we collect about you:
 
 
 
-**Questions?**
+ **Questions?**
 
-[Contact Us.](http://www.vocalpoint.com/cms/content/contact-us)
+[Contact Us.](https://web.archive.org/web/20160505115340id_/http%3A//www.vocalpoint.com/contact-us)
