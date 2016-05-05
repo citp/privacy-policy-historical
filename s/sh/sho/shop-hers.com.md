@@ -1,73 +1,124 @@
-> *The following text is extracted and transformed from the shop-hers.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221071045id_/http%3A//shop-hers.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shop-hers.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505205615id_/https%3A//www.tradesy.com/privacy) for the most accurate reproduction.*
 
-# Shop Hers
+# Privacy Policy | Tradesy
 
-Your privacy is very important to us. Our Privacy Policy spells out Shop Hers' commitment to respecting the privacy of the members and visitors to the Site. We reserve the right to change this policy, which we may do through online posting. Collection of information is usually grouped into two categories: personal, which is information identifiable to a specific member, and aggregate, which is general demographic information that does not identify any individual member. Personal information may include your name, email address, mailing address, credit card information and phone number.
+This Privacy Policy governs the manner in which Tradesy, Inc. (“Tradesy,” the “Company,” or “we”) collects, uses, maintains, and discloses information collected from users (each, a "User") of our website located at www.tradesy.com ("Website"), mobile applications and other services provided by Tradesy, Inc. or any of its subsidiaries (collectively, “Services”).
 
-This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information. It also explains the steps we have taken to secure your personal information. Finally, it explains your options regarding the collection, use and disclosure of your personal information. By visiting our Site, you accept the practices described in this Policy and in our Terms of Use.
+### Personal identification information
 
-If you have questions or concerns regarding this Privacy Policy, please feel free to email us at [customerservice@shop-hers.com](mailto:customerservice@shop-hers.com).
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our Website or use our mobile application, register on the Website or for Services, place an order, list an item for sale, and in connection with other activities, services, features, or resources we make available using our Services. Users may be asked for, as appropriate, name, email address, mailing address, and phone number. Users may, however, visit our Website anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personal identification information, but it may prevent them from engaging in certain Website related activities or other Services.
 
-**INFORMATION COLLECTION AND USE**
+### Non-personal identification information
 
-  1. **Information Collection**. We collect information from you in several different ways on this Site. One reason for collecting personal information from you is to provide an efficient, meaningful, and customized experience. For example, we can use your personal information to: 
-    1. help make this Site easier for you to use by not having to enter information more than once.
-    2. help you quickly find information, products, and services. 
-    3. help us create content on this Site that is most relevant to you.
-    4. alert you to new information, products, and services that we offer.
-    5. **Registration and Ordering**. Before using certain parts of this Site or ordering products, you may be required to complete an online registration form. During registration, you will be prompted to provide to us certain personal information, including but not limited to your name and email address. In addition, we may also ask you for your country of residence, so we can comply with applicable laws and regulations.
-    6. **Email Addresses**. Several locations of the Site permit you to enter your email address for purposes including but not limited to: to register for promotions; to request us to notify you regarding particular offers or products, or to sign up for our e-mail newsletter and special offers, including contests, which we may run from time to time. Your participation in a contest is completely voluntary, so you have a choice whether to participate and disclose information to us. We use this information to notify contest winners and to award prizes. We may post on our Site the names and cities of contest winners.
-    7. **Cookies and Other Technology**. Like many sites, this Site employs cookies and web beacons (also known as clear GIF technology or "action tags") to speed your navigation of the Site, recognize you and your access privileges, and track your Site usage. 
-      1. Cookies are small pieces of information that are stored as text files by your Internet browser on your computer's hard drive. Most Internet browsers are initially set to accept cookies. You can set your browser to refuse cookies from web sites or to remove cookies from your hard drive, but if you do, you will not be able to access or use portions of this Site. We use cookies to enable you to select products and to purchase those products. If you do this, we keep a record of your browsing activity and purchase.
-      2. Web beacons assist in delivering cookies and help us determine whether a web page on this Site has been viewed and, if so, how many times. For example, any electronic image on this Site, such as an ad banner, can function as a web beacon.
-      3. We may use third-party advertising companies to help us tailor site content to users or to serve ads on our behalf. These companies may employ cookies and web beacons to measure advertising effectiveness (such as which web pages are visited or what products are purchased and in what amount). Any information that these third parties collect via cookies and web beacons is not linked to any of your personal information collected by us. Our Privacy Policy does not cover any use of information that a third-party advertising company may collect from you. It also does not cover any information that you may choose to provide to them or to an advertiser whose goods or services are advertised through the Site.
-    8. **Log Files**. As is true of most web sites, the Site automatically recognizes the Internet URL from which you access this Site. We may also log your Internet protocol ("IP") address, Internet service provider, and date/time stamp for system administration, order verification, internal marketing, and system troubleshooting purposes. (An IP address may indicate the location of your computer on the Internet.)
-    9. **Age**. We respect children's privacy. We do not knowingly or intentionally collect personal information from children under age 13. Elsewhere on this Site, you have represented and warranted that you are either 18 years of age or using the Site with the supervision of a parent or guardian. If you are under the age of 13, please do not submit any personal information to us, and rely on a parent or guardian to assist you.
-  2. Information Use and Disclosure. 
-    1. **Internal Use**. We may internally use your personal information to improve our Site's content and layout, to improve our outreach and for our own marketing efforts (including marketing our services and products to you), and to determine general marketplace information about visitors to this Site.
-    2. **Communications with You** : We use your personal information to process and fulfill your orders, to communicate with you regarding your orders and deliveries and to provide you with other client services. We will use your personal information to communicate with you about our site. Also, we may send you a confirmation email when you register with us. We may send you a service-related announcement on the rare occasions when it is necessary (for example, if we must temporarily suspend our service for maintenance). Also, you may submit your email address for reasons such as to register for promotions; request we notify you regarding particular offers or products, or sign up for our email newsletter and special offers. If you submit your email address, we use it to deliver this information to you. We always permit you to unsubscribe or opt out of future emails (see the opt-out section below for more details). Because we have to communicate with you about orders that you choose to place, you cannot opt out of receiving emails related to your orders or your membership.
-    3. **External Use**. We want to provide you with excellent service and to offer you a great selection. We do not sell, rent, trade, license or otherwise disclose your specific personal information or financial information to anyone, except that: 
-      1. As do most Internet retailers, we sometimes use others to perform specific functions on our behalf. When we disclose information to these service providers, we disclose information to help them to perform their service. For example, in order to deliver products to you, we must share some information. We partner with third parties (such as the U.S. Postal Service, United Parcel Service, and Federal Express) to ship products, to ensure delivery, and so that we can obtain feedback, improve the quality of our service, and measure and improve the quality of the service of the third party. In the example of shippers, we provide them some personally identifiable information such as your name, shipping address, email, and phone number. Each of these service providers must agree to implement and maintain reasonable security procedures and practices appropriate to the nature of the information involved in order to protect your personal information from unauthorized access, destruction, use, modification, or disclosure.
-      2. Similarly, to help you buy products and provide Client Services to you, we must provide your credit card number to financial services corporations such as credit card processors and issuers. When we submit your credit card number for authorization, we use data encryption techniques to protect your information. (More on this below in Data Security.)
-      3. Unless you instruct us otherwise, we may disclose your personal information to other persons or entities whom we believe are trustworthy and whom we have asked to confirm that their privacy practices are consistent with ours. These persons or entities may use your information for their direct marketing purposes. Like our service providers, these persons and entities are required to implement and maintain reasonable security procedures and practices appropriate to the nature of the information involved in order to protect your personal information from unauthorized access, destruction, use, modification, or disclosure.
-      4. We may be required to disclose your personal information in response to requests from law-enforcement officials conducting investigations; subpoenas; a court order; or if we are otherwise required to disclose such information by law. We also will release personal information where disclosure is necessary to protect our legal rights, enforce our Terms of Use or other agreements, or to protect ourselves or others. For example, we may share information to reduce the risk of fraud or if someone uses or attempts to use our Site for illegal reasons or to commit fraud.
-      5. We may share personal information and non-personal information with entities controlling, controlled by, or under common control with us. In the event that Shop Hers is merged, sold, or in the event of a transfer of some or all of our assets, we may disclose or such information in connection with such transaction, subject to the Privacy Policy then in effect.
-      6. We may share aggregate, non-personal information (such as the number of daily visitors to a particular web page, or the size of an order placed on a certain date) with third parties such as advertising partners. This information does not directly personally identify you or any user.
+We may collect non-personal identification information about Users whenever they interact with our Website or Services. Non-personal identification information may include, but is not limited to, the browser name, the type of computer, and the technical information about Users’ means of connection to our Website, such as the operating system, the Internet service providers utilized, and other similar information.
 
+### Web browser cookies
 
+Our Website may use "cookies" to enhance User experience. Users’ web browsers place cookies on their hard drive for record-keeping purposes and sometimes to track information about them. Users may choose to set their web browser to refuse cookies or to alert them when cookies are being sent. If they do so, note that some parts of the Website may not function properly.
 
-**DATA SECURITY**
+### How we use collected information
 
-This Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including Secure Sockets Layer ("SSL") for all financial transactions through this Site. We use SSL encryption to protect your personal information online, and we also take several steps to protect your personal information in our facilities. Access to your personal information is restricted. Only employees who need access to your personal information to perform a specific job are granted access to your personal information. Finally, we rely on third-party service providers for the physical security of some of our computer hardware. We believe that their security procedures are adequate. For example, when you visit our Site, you access servers that are kept in a secure physical environment, behind a locked cage and an electronic firewall.
+Tradesy may collect and use Users’ personal information for the following purposes:
 
-Shop Hers uses industry-standard procedures and safeguards designed to protect all personal information from unauthorized access, destruction, use, modification, or disclosure. All Shop Hers employees with access to personal information are required to follow specific practices concerning its proper handling.
+##### To prevent, detect, and mitigate illegal activities
 
-While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security. 100% complete security does not presently exist anywhere online or offline. As a result, while we strive to protect information transmitted on or through the Site, we cannot and do not guarantee or warrant the security of any information you transmit on or through the Site, and you do so at your own risk.
+Tradesy may use User’s personal identification information to prevent, detect, and mitigate fraudulent, counterfeit, or illegal activities. 
 
-**In the unlikely event that we believe that the security of your personal information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we will endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your email address, we may notify you by email.**
+##### To improve customer service
 
-**OPT OUT/CORRECTIONS**
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
 
-On your request, we will (a) correct or update your personal information; (b) stop sending certain non-membership or order-related emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests by emailing your request to our Customer Services department at [customerservice@shop-hers.com](mailto:customerservice@shop-hers.com). Please do not email your credit card number or other sensitive information.
+##### To personalize user experience
 
-Please note that despite your actions above in regards to opting out of receiving certain non-membership or order-related emails to your email address, a purchase on the Site subsequent to your request to opt-out will be considered your affirmative consent to opt back into our email distribution list.
+We may use information in the aggregate to understand how our Users as a group use our Services and resources provided on our Website.
 
-**OFFLINE COLLECTION, USE AND DISCLOSURE OF INFORMATION**
+##### To improve our Website
 
-As you might expect, the majority of information that we collect is obtained through our Site, and this Privacy Policy applies only to that online collection of personal information. We also collect information offline, where we also try to protect the privacy of your personal information. By way of example, you may call us to place an order or to ask questions. When you call, we will ask only for the personal information we need in order to place the order or to answer the question. When we need to store information (such as order information) we will enter it into our database and maintain that information in accordance with our policies for the storage of information collected online. (See the Data Security section above for more information). Similarly, if you fax something to us, we will act upon the fax and then either store or shred the fax, depending on whether there is any need to retain the information. Generally, we will try to treat offline collection, uses, and disclosures consistently with our relevant online practices.
+We may use feedback you provide to improve our products and services.
 
-**WHAT IF YOU'RE NOT A SHOP HERS MEMBER, BUT YOU'VE HEARD FROM SHOP HERS?**
+##### To process payments
 
-If you're not a member but you've been contacted by Shop Hers, we may have received your information in a few different ways. First, another member may have referred you through our "Invite a Friend" feature. Members may give us your name and email address in order for them to customize an invitation for you to join. You also may receive similarly customized email reminders from your friend about this invitation. If you apply for membership, your information will be used in accordance with the rest of this privacy policy. If you choose not to apply online, your email address may be retained for a period. Similarly, a member may have shipped a gift or other merchandise to you through us and provided your personal information for that purpose.
+We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
 
-You may have received an offer from us. If you were a prior member, we may have invited you back. We may also have received your information from one of our partners or from the mailing, opt-in emailing. Unless we are using an opt-in only list in our marketing efforts, Shop Hers will screen our lists with the Direct Marketing Association ("DMA") preference lists before we send such offers.
+##### To run a promotion, contest, survey, or other Website feature
 
-**LINKS TO OTHER SITES; PUBLIC VENUES**
+We may use the information Users provide to send information that Users agreed to receive about topics we think will be of interest to them.
 
-Please be aware that the Site may contain links to third-party Web sites. If you visit these Web sites by clicking on such links, these other sites may send their own cookies to visitors, collect data, or solicit personal information. This Privacy Policy does not cover any information that you disclose to such sites or that they may collect. The privacy policies of these other sites may be significantly different from this Privacy Policy. We are not responsible for the privacy practices of these other sites and cannot guarantee the security of any of your personal information collected there.
+##### To send periodic emails
 
-The Site may enable you to post comments, reviews and other information on publicly available areas of the Site. Any information you post in these areas of the site will be available to all of our users, so please use caution in disclosing any personal information when you post such comments, reviews or other information.
+We may use email addresses to send Users information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If Users decide to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-**UPDATES TO THIS POLICY**
+### How we protect your information
 
-If we change or update this Privacy Policy, we will post changes and updates on this Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact Customer Service at [customerservice@shop-hers.com](mailto:customerservice@shop-hers.com). 
+We adopt appropriate data collection, storage and processing practices, and security measures to protect against unauthorized access, alteration, disclosure, or destruction of your personal information, username, password, transaction information, and data stored on our Website or Services.
+
+Sensitive and private data exchanged between the Website and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
+
+### Disclosing your personal information
+
+We do not sell, trade, or rent Users’ personal identification information to others.
+
+Tradesy may disclose Users' personal information to the following parties and for the following purposes:
+
+##### Sellers from whom you have purchased items
+
+When you buy an item on Tradesy, if the seller does not elect to use her own shipping materials, the seller receives a Tradesy-branded shipping kit with a pre-paid, pre-addressed postage label with your full street address. The information will only include that which is necessary and relevant to successfully complete your order. The seller is strictly prohibited from using your information for anything other than completing the sale.
+
+##### Business partners, trusted affiliates, and third party service providers
+
+We may disclose generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates, and advertisers for the purposes outlined above, referenced above with respect to how Tradesy uses collected personal information, without notification to the User of disclosure. We may use third party service providers to help us operate our business and our Website or administer activities on our behalf, such as sending newsletters or surveys. We may disclose your information to these third parties for those limited purposes provided that you have given us your explicit consent.
+
+##### Law enforcement and government agencies
+
+We may disclose User’s personal identification information to law enforcement and government agencies in response to a verified request related to suspected illegal activities or related to a criminal investigation. We will only disclose information that we find necessary and relevant. Disclosed information may include User’s name, mailing address, phone number, and email address. Disclosure may be made without notice to User.
+
+##### Third Parties with intellectual property rights
+
+We may disclose User’s personal identification information to third parties with intellectual property rights who have complied with Tradesy’s complaint procedure, as outlined in our Terms of Use Agreement. We will only disclose information found necessary and relevant in connection to an intellectual property infringement, fraud investigation, or other unlawful activity to which the third party has been subject, as detailed in our Verified Rights Owners Program. Disclosed personal identification information may include, but is not limited to, User’s name, mailing address, phone number, and email address. Disclosure may be made without notice to User.
+
+For avoidance of doubt, please take note that disclosing personal identification information to third parties with intellectual property rights includes the disclosure of personal identification information of a User who has been identified as selling unauthorized goods or replica items, which is in violation of our Terms of Use.
+
+##### Third parties in a legal proceeding
+
+We may disclose User’s personal identification information to third parties involved in a legal proceeding if the third party provides Tradesy with a subpoena or other similar lawful process. Disclosure may be made without notice to User.
+
+Tradesy will also disclose to third parties involved in a legal proceeding when Tradesy believes in good faith that disclosing personal identification information is necessary to prevent imminent physical harm or financial loss, or to report suspected illegal activity.
+
+### Disclosure related to Tradesy’s Terms of Use Agreement
+
+If Tradesy believes in good faith that User has breached the Terms of Use Agreement or any other Tradesy agreement, Tradesy may disclose such User’s personal identification information as found necessary and relevant to pursuing a claim or preventing further injury to Tradesy, its Users, and others. Disclosure may be made without notice to User.
+
+### Third party websites
+
+Users may find advertising or other content on our Website that links to the sites and services of our partners, suppliers, advertisers, sponsors, licensors, and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Website. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interacting on any other website, including websites which have a link to our Website, is subject to that website's own terms and policies.
+
+### Advertising
+
+Advertisements appearing on our Website may be delivered to Users by advertising partners, who may set cookies. These cookies allow the advertising server to recognize your computer each time they send you an online advertisement to compile non-personal identification information about you or others who use your computer. This information allows advertising networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy does not cover the use of cookies by any advertiser.
+
+### Google Adsense
+
+Some of the advertisements may be served by Google. Google's use of the DART cookie enables it to serve advertisements to Users based on their visit to our Website and other sites on the Internet. DART uses "non-personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google advertising and content network privacy policy at <http://www.google.com/privacy_ads.html>
+
+### Opt out
+
+If you would like to opt-out of communications from Tradesy, please email [team@tradesy.com](mailto:team@tradesy.com) or call our Member Care team at 310-912-7966.
+
+### Changes to this privacy policy
+
+Tradesy has the discretion to update this Privacy Policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this Privacy Policy periodically and become aware of modifications.
+
+### Your acceptance of these terms
+
+By using this Website or our Services, you signify your acceptance of this Privacy Policy and our Terms of Use Agreement. If you do not agree to this policy, please do not use our Website or Services. Your continued use of the Website and Services following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+### Contact us
+
+If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with any of our Services, please email [team@tradesy.com](mailto:team@tradesy.com) or contact us at:
+
+Tradesy Inc  
+1217 2nd Street Floor 3  
+Santa Monica, CA 90401   
+310-912-7966
+
+Updated: July 14, 2015
