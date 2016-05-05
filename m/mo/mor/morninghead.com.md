@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morninghead.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008235812id_/http%3A//www.morninghead.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morninghead.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506015657id_/http%3A//www.morninghead.com/privacy) for the most accurate reproduction.*
 
 # Privacy — MORNINGHEAD - Bed Head Cure
 
