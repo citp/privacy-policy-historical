@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the epictimes.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207223027id_/http%3A//www.epictimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epictimes.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506000759id_/http%3A//www.epictimes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | EpicTimes
+# Privacy Policy - EpicTimes News
 
-Thank you for visiting Epictimes Inc website (the “Site”)! The Site is strongly committed to protecting
+Thank you for visiting Epictimes Inc website (the "Site")! The Site is strongly committed to protecting
 
 your privacy. The purpose of this privacy policy is to inform users of the Site as to what information we
 
@@ -36,7 +36,7 @@ We may collect information about you through a variety of methods, such as your 
 
 quizzes, contests, chat rooms, forums or the like or other documents that you submit to us, transactions in
 
-which you may engage with us or our affiliated companies (“Affiliates”), or through visits that you may
+which you may engage with us or our affiliated companies ("Affiliates"), or through visits that you may
 
 make to the Site, including via our mobile applications. This policy applies to all personally identifiable
 
@@ -71,7 +71,7 @@ ins and applications, you may allow us to have access to certain information fro
 
 (e.g., your name, e-mail address, photo, gender, birthday, location, list of friends, people you follow and/
 
-or who follow you, the posts or the ‘likes’ you make) to deliver the content or as part of the operation of
+or who follow you, the posts or the 'likes' you make) to deliver the content or as part of the operation of
 
 the application. We may also obtain non-personally identifiable information (e.g., content viewed, games
 
@@ -93,7 +93,7 @@ an application, on our sites, or on social networking sites, it may be publicly 
 
 these sites and we cannot prevent further use of the information by third parties.
 
-Through some social networking sites’ privacy settings, you can control what data you share. For more
+Through some social networking sites' privacy settings, you can control what data you share. For more
 
 information about how social networking sites handle your personal information, please refer to their
 
@@ -125,7 +125,7 @@ and
 
 **When you use our mobile applications on your mobile device, you may choose not to share your**
 
-**geo-location details with us by adjusting the device’s location services settings. For instructions on**
+**geo-location details with us by adjusting the device's location services settings. For instructions on**
 
 **changing the relevant settings, please contact your service provider or device manufacturer.**
 
@@ -172,7 +172,7 @@ third-party survey or request information from a third-party, we may provide the
 
 such third party so that they can send to you directly the information you requested. We will seek to obtain
 
-your consent at the place where the information is collected either by an “opt-in” or “opt-out” method,
+your consent at the place where the information is collected either by an "opt-in" or "opt-out" method,
 
 or by other means (such as sending to you an e-mail). However, if we pass on personal information to an
 
@@ -186,7 +186,7 @@ not affiliated with us (i.e. third party companies) who are interested in market
 
 to you or in asking you questions, both online and offline. We will seek to obtain your consent either by an
 
-“opt-in” or “opt-out” method, or by other means (such as sending to you an e-mail). Companies with whom
+"opt-in" or "opt-out" method, or by other means (such as sending to you an e-mail). Companies with whom
 
 we might share your personal information may include consumer products, telecom, financial, military,
 
@@ -282,7 +282,7 @@ third-party sites or platforms.
 
 As you use the Internet, a trail of electronic information is left at each web site you visit. This information,
 
-which is sometimes referred to as “Clickstream Data,” can be collected and stored by a web site’s server.
+which is sometimes referred to as "Clickstream Data," can be collected and stored by a web site's server.
 
 Clickstream Data can tell us the type of computer and browsing software you use and the address of the
 
@@ -346,7 +346,7 @@ third parties for their direct marketing purposes. In response to your written r
 
 Code Section 1793.83(c)(2), the Site is allowed to instead provide you with a cost-free means to opt-out of
 
-such sharing, or a “Customer Choice Notice”.
+such sharing, or a "Customer Choice Notice".
 
 The Site has chosen to provide you with a cost-free means to opt-out of such sharing. If you would like to
 
@@ -362,7 +362,7 @@ E-MAIL: privacy@epictimes.com
 
 The California Business & Professions Code Section 22575(b) (as amended effective January 1, 2014)
 
-provides that California residents are entitled to know how the Site responds to “Do Not Track” browser
+provides that California residents are entitled to know how the Site responds to "Do Not Track" browser
 
 settings. The Site does not currently take action to respond to Do Not Track signals, as a uniform
 
@@ -418,7 +418,7 @@ permission, please contact us. We have taken commercially reasonable steps to re
 
 those who are at least 13 years old. We do not market products or services for purchase by
 
-children and all children’s products or services we market are for purchase by adults only, or with adult
+children and all children's products or services we market are for purchase by adults only, or with adult
 
 permission.
 
