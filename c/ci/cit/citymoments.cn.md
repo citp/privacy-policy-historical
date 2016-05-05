@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citymoments.cn privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113114130id_/http%3A//shanghai.citymoments.cn/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citymoments.cn privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505185112id_/http%3A//shanghai.citymoments.cn/privacy) for the most accurate reproduction.*
 
 # City Moments | Nightlife, Events, Party Pictures, Community and Venues in #{@area_s.titleize}
 
