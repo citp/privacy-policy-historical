@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megapremium.info privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230044312id_/http%3A//www.getcashforsurveys.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megapremium.info privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505193138id_/http%3A//www.getcashforsurveys.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
