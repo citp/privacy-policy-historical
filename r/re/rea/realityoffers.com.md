@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realityoffers.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315001232id_/http%3A//www.realityoffers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realityoffers.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506014547id_/http%3A//www.realityoffers.com/privacy.php) for the most accurate reproduction.*
 
 # Adult Internet Deals Reality Offers™
 
