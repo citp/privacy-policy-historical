@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the uniserve.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104142851id_/http%3A//www.uniserve.com/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniserve.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505214355id_/http%3A//www.uniserve.com/legal/privacy_policy.html) for the most accurate reproduction.*
 
 # Legal - Privacy Policy | Uniserve
 
-#### Personal Information Protection and Electronic Documents Act
+Personal Information Protection and Electronic Documents Act
 
 (Statutes of Canada 2000, Chapter 5)
 
@@ -10,10 +10,7 @@ Includes: CSA Model Code for the Protection of Personal Information (CAN/CSA-Q83
 
 The Uniserve Privacy Code has been published to reflect the changes associated with the implementation of the new legislation referred to above. 
 
-  
-
-
-#### Table of Contents
+Table of Contents
 
 Introduction  
 Summary of Principles  
@@ -29,10 +26,7 @@ Principle 8 : Openness
 Principle 9 : Customer and Employee Access  
 Principle 10 : Challenging Compliance 
 
-  
-
-
-#### The Uniserve Privacy Code in Detail
+The Uniserve Privacy Code in Detail
 
 1\. Accountability  
 2\. Identifying Purposes  
@@ -45,16 +39,13 @@ Principle 10 : Challenging Compliance
 9\. Customer and Employee Access 9  
 10\. Challenging Compliance 10 
 
-#### Introduction
+Introduction
 
 Uniserve is an Internet Service Provider providing a full range of Internet services primarily to British Columbia and other provinces in Canada. For Uniserve, customer and employee privacy is a high priority. We have a long-standing policy of protecting the privacy of customers in all of our business operations. Federal Government Statute dictates that private sector organizations must follow a standardized code for the protection of personal information. Businesses, consumers, academics and government under the auspices of the Canadian Standards Association developed the code – the Personal Information Protection and Electronic Documents Act ("the Act"). It lists 10 principles of fair information practices, which form ground rules for the collection, use and disclosure of personal information. These principles give individuals control over how their personal information is handled in the private sector. Uniserve is a strong believer in the objectives and goals of the Code and this policy paper sets out how we will adhere to the principles set down in the Code. 
 
 We believe that an organization is responsible for the protection of personal information and the fair handling of it at all times, throughout the organization and in dealings with third parties. Care in collecting, using and disclosing personal information is essential to continued employee and consumer confidence and good will. 
 
-  
-
-
-#### This website uses Google AdWords
+This website uses Google AdWords
 
 This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven't completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone's past visits to the Uniserve Communications website. Of course, any data collected will be used in accordance with our own privacy policy and Google's privacy policy.
 
@@ -78,7 +69,7 @@ The 10 principles that businesses must follow are:
 
 
 
-#### Scope and Application
+Scope and Application
 
 The ten principles, which form the basis of the Uniserve Privacy Code, are interrelated and Uniserve adheres to the ten principles as a whole. Each principle must be read in conjunction with the accompanying commentary. As permitted by the Act, the commentary in the Uniserve Privacy Code has been tailored to reflect personal information issues specific to Uniserve.
 
@@ -99,7 +90,7 @@ c. Other information about the customer or employee that is publicly available a
 
 
 
-#### The Uniserve Privacy Code in Detail
+The Uniserve Privacy Code in Detail
 
 1\. Be accountable. 
 
