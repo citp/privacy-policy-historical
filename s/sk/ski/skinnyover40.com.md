@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skinnyover40.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208235453id_/http%3A//skinnyover40.com/about-me/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinnyover40.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505041928id_/http%3A//skinnyover40.com/about-me/our-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Skinny Over 40 and UNDER!
+# Privacy Policy - Skinny Over 40
 
 This privacy policy sets out how Skinny Over 40 uses and protects any information that you give while using [www.skinnyover40.com](http://skinnyover40.com/)  
 Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  
