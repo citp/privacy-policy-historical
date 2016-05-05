@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pega.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924163529id_/http%3A//www.pega.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pega.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505211459id_/https%3A//www.pega.com/privacy) for the most accurate reproduction.*
 
 # Pega | Privacy and Security
 
@@ -38,8 +38,6 @@ The Online Services also may contain links to third-party websites and applicati
 
 Information collected through the Online Services will be processed in and subject to the laws of the United States. In addition, we may transfer your information outside the United States to our affiliates, subsidiaries, and service providers located in other countries for purposes that include data consolidation, storage, and simplified customer information management. By using the Online Services, you consent to such transfer to, and processing in, the United States and these other countries.
 
-Pegasystems has certified its compliance with the U.S.-EU and U.S.-Switzerland Safe Harbor Frameworks with respect to certain personal data that is transferred from countries in the EU or Switzerland to Pegasystems in the U.S. Please click here to review Pegasystems’ Safe Harbor Policy.
-
 **How is your information secured?**
 
 We strive to maintain reasonable administrative, technical, and physical safeguards designed to safeguard the information collected by the Online Services. However, no information system can be 100% secure, so we cannot guarantee the absolute security of your information. Moreover, we are not responsible for the security of information you transmit to the Online Services over networks that we do not control, including the Internet and wireless networks.
@@ -60,4 +58,4 @@ If we update this Privacy Statement, we will notify you by posting a new Privacy
 
 **Contact us**
 
-If you have any questions about this Privacy Statement or our use of your information collected through the Online Services, please [contact us](https://web.archive.org/web/20150924163529id_/http%3A//www.pega.com/contact).
+If you have any questions about this Privacy Statement or our use of your information collected through the Online Services, please [contact us](https://web.archive.org/web/20160505211459id_/https%3A//www.pega.com/contact).
