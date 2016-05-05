@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerprofessor.works privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229134527id_/http%3A//www.careerprofessor.works/%3Fpage_id%3D97%23access) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerprofessor.works privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505213158id_/http%3A//www.careerprofessor.works/%3Fpage_id%3D97%23access) for the most accurate reproduction.*
 
 # Privacy Policy | CareerProfessor.works
 
