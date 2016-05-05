@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the insight.org privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114419id_/http%3A//daily.insight.org/site/PageServer%3Fpagename%3Dprivacypolicy%26printer_friendly%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insight.org privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505205353id_/http%3A//www.insight.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Insight for Living Ministries : Chuck Swindoll's Bible-teaching via articles, books, videos, streaming, and audio products
+# Privacy Policy
 
 Insight for Living Ministries has created this Privacy Policy to explain why we collect particular information and how we will protect your personal privacy within our Web site. The following discloses our information gathering and dissemination practices for the Web site located at the URL daily.insight.org.
 
@@ -18,7 +18,7 @@ Because we want to demonstrate our commitment to your privacy, this Privacy Poli
 
 
 
-Questions regarding this statement should be directed to Insight for Living Ministries by clicking [here](http://www.insight.org/contact).
+Questions regarding this statement should be directed to Insight for Living Ministries by clicking [here](https://web.archive.org/connect/contact-us).
 
 ## What Information We Collect and How We Use That Information:
 
@@ -26,7 +26,7 @@ Our registration forms require users to give us contact information that may inc
 
 ## Internet Protocol (IP) Address:
 
-We collect an IP address from all visitors to our Site. An IP address is a number that is automatically assigned to your computer when you use the Internet. We use IP addresses to help diagnose problems with our server, administer our Site, analyze trends, track users' movement, gather broad demographic information for aggregate use in order for us to improve the Site, and deliver customized, personalized content. Internet protocol addresses are not linked to personally identifiable information.
+We collect an IP address from all visitors to our Site. An IP address is a number that is automatically assigned to your computer when you use the Internet. We use IP addresses to help diagnose problems with our server, administer our Site, analyze trends, track users' movement, gather broad demographic information for aggregate use in order for us to improve the Site, and deliver customized, personalized content. Internet protocol addresses are not linked to personally identifiable information.
 
 ## Use of "Cookies":
 
@@ -48,4 +48,4 @@ Our Site contains links to other Web sites. Please note that when you click on o
 
 ## Contacting the Web Site:
 
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you can contact us by [e-mail,](http://www.insight.org/connect/contact/faqs/?question=general) [phone](http://www.insight.org/contact), or [mail](http://www.insight.org/contact).
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you can contact us by [e-mail](https://web.archive.org/connect/contact-us/faqs/email-us), [phone](https://web.archive.org/connect/contact-us), or [mail](https://web.archive.org/connect/contact-us).
