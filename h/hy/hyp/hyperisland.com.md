@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyperisland.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921172419id_/https%3A//www.hyperisland.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyperisland.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505030330id_/https%3A//www.hyperisland.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Hyper Island
 
@@ -12,7 +12,7 @@ By visiting hyperisland.com you don’t disclose any personal data to Hyper Isla
 
 ### Cookies & Technology
 
-We use cookies for the site to enable us to gather statistics regarding usage to improve, develop and meet future needs.
+We use cookies for the site to enable us to gather statistics regarding usage to improve, develop, meet future needs and provide more personalised services to you, both on this website and through other media.
 
 As a member of the Hyper Island online community, with an active profile, we need to use cookies to enable the technology that drives the community functionality.
 
