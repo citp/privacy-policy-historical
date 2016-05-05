@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the meritgold.com privacy policy that was archived on 2015-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151014164720id_/https%3A//www.goldline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meritgold.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505145731id_/https%3A//www.goldline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Goldline
+# Privacy Policy | Goldline Buy Gold and Silver at Goldline
 
 **Table of Contents**
 
