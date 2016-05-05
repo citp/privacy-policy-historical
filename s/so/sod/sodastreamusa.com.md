@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sodastreamusa.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905084713id_/https%3A//www.sodastreamusa.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sodastreamusa.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505201419id_/https%3A//www.sodastreamusa.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # SodaStream | Privacy Policy
 
-[Home](https://web.archive.org/web/20150905084713id_/https%3A//www.sodastreamusa.com/Default.aspx)  >  Privacy Policy
+[Home](https://web.archive.org/web/20160505201419id_/https%3A//www.sodastreamusa.com/Default.aspx)  >  Privacy Policy
 
 Our Commitment To Privacy
 
