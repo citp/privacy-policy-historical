@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bsp.com.pg privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104161134id_/http%3A//www.bsp.com.pg/General/Privacy-Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsp.com.pg privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505205735id_/http%3A//www.bsp.com.pg/General/Privacy-Statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - Bank South Pacific - PNG
 
@@ -66,8 +66,10 @@ You acknowledge and accept that your use of the BSP website indicates your accep
 
 
 
-This is the current Security and Privacy Statement.. BSP may at any time vary the Security and Privacy Statement by publishing the varied Security and Privacy Statement on the BSP website. You accept that by doing this, BSP has provided you with sufficient notice of the variation.
+This is the current Security and Privacy Statement. BSP may at any time vary the Security and Privacy Statement by publishing the varied Security and Privacy Statement on the BSP website. You accept that by doing this, BSP has provided you with sufficient notice of the variation.
 
 ### Contact us about privacy
 
-If we become aware or are made aware of any ongoing concerns or problems with BSP website, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our Privacy and Security Statement, or you have a problem or complaint, you can contact a BSP staff, department or branch that you normally deal with, or call BSP Call Centre on 1801212.
+If we become aware or are made aware of any ongoing concerns or problems with BSP website, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our Privacy and Security Statement, or you have a problem or complaint, you can contact a BSP staff, department or branch that you normally deal with, or call Customer Service Centre on **320 1212**.
+
+[Click here](https://web.archive.org/Security-Messages/Messages/Security-Warning-Message-on-VisaMaster-Debit-Card-Fraud.aspx) for Security Message Visa/ Master Debit Card Fraud
