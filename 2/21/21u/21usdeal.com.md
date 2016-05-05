@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 21usdeal.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221080554id_/http%3A//www.21usdeal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 21usdeal.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505065334id_/http%3A//www.21usdeal.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | 21usDeal.com - Best Deals Online - Daily Deals, Coupons and comprehensive guide to online shopping
+# Privacy Policy 21usDeal.com
 
 **Privacy policy statement**
 
