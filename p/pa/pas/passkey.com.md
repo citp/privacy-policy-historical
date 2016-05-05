@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the passkey.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104154012id_/http%3A//www.passkey.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passkey.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505182928id_/http%3A//www.passkey.com/legal/privacy_policy) for the most accurate reproduction.*
 
-# Lanyon - Privacy Policy
+# Privacy Policy
 
 **_Effective date: 10 October 2014_**
 
