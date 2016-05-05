@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the childcare.co.uk privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404062815id_/http%3A//www.childcare.co.uk/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the childcare.co.uk privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505162209id_/http%3A//www.childcare.co.uk/information/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Childcare.co.uk
 
