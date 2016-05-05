@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coffeeforless.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009115052id_/http%3A//www.coffeeforless.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coffeeforless.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505212018id_/http%3A//www.coffeeforless.com/privacy-policy) for the most accurate reproduction.*
 
-# Coffee | Keurig K-Cups | Ground Coffee | CoffeeForLess
+# Privacy Policy
 
 **CoffeeForLess.com Privacy Statement** -This privacy statement covers the site CoffeeForLess.com. Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices.
 
@@ -74,9 +74,3 @@ For tips and ideas on how to shop on the Internet while protecting your privacy,
 
 **Secure Shopping Guarantee:**  
 The Fair Credit Billing Act states that you cannot be held liable by your bank for more than $50.00 of fraudulent charges on your credit card. We are so confident in our security that if you are held liable for any part of the $50.00, we guarantee to cover that amount, up to the full $50.00. We will cover this liability only when fraudulent use of your credit card came as a result of transactions made at CoffeeForLess.com, through no fault of your own. You must contact and notify your credit card company immediately in the event of fraudulent use of your credit card, following their rules and procedures.
-
-Keurig Home Brewers and K-Cups are only available to home consumers in the US and Canada. A special note for our commercial customers interested in Keurig products: All Keurig commercial orders will need to be placed through our commercial website. Our sales region for commercial customers includes: the Greater Philadelphia area, the state of New Jersey, New York Metropolitan Counties of Richmond, King, Queens, New York, Bronx, West Chester, Rockland, Nassau, Suffolk, Fairfield CT and the city of Wilmington DE. Please call us at (800) 261-2859 for details on how you can order from us online.
-
-[](https://www.kampyle.com/feedback_form/ff-feedback-form.php?site_code=7009223&lang=en&form_id=65470)
-
-Please wait...
