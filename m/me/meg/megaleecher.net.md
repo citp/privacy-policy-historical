@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megaleecher.net privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908063705id_/http%3A//www.megaleecher.net/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megaleecher.net privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505192444id_/http%3A//www.megaleecher.net/Privacy_Policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Megaleecher.Net
 
@@ -6,6 +6,6 @@ We can be reached via e-mail at [privacy@megaleecher.net](mailto:privacy@megalee
 
 **Updated : 11-10-2012**
 
-  * 57099 reads
+  * 87350 reads
 
 
