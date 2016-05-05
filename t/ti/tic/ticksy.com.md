@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ticksy.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222054552id_/https%3A//ticksy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticksy.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505020249id_/https%3A//ticksy.com/privacy-policy) for the most accurate reproduction.*
 
-# » Privacy Policy
+# Privacy Policy - Ticksy
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -137,10 +137,7 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-https://support.ticksy.com  
-justin@ticksy.com  
-417 State Ave, 2nd Floor  
-Emmaus, PA 18049  
-United States
+[https://support.ticksy.com](https://support.ticksy.com/)  
+[justin@ticksy.com](mailto:justin@ticksy.com)
 
-_Last Edited on  March 30th, 2015_
+_Last Edited on January  1st, 2016_
