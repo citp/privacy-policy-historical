@@ -1,62 +1,85 @@
-> *The following text is extracted and transformed from the commissionmonster.com.au privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408030020id_/http%3A//www.commissionmonster.com.au/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commissionmonster.com.au privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505103844id_/https%3A//www.apdgroup.com/privacy-policy) for the most accurate reproduction.*
 
-# Commission Monster - Privacy-Policy
+# Privacy Policy
 
-###  Information we collect and how we use it
+**APD  ** **Privacy Policy**
 
-In order to provide our full range of services, we may collect the following types of information:
+**Your Privacy is important to us**
 
-####  Information you provide
+We know that how we collect, use, exchange and protect your information is important to you, and we value your trust. That's why protecting your information and being clear about what we do with it is a vital part of our relationship with you.
 
-When you sign up for a Viva9 Account or other Viva9 service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). For certain services, such as our advertising programs, we sometimes request credit card or other payment account information which we maintain in encrypted form on secure servers.
+This Privacy Policy is for customers of the APD Group. 
 
-####  Cookies
+Some of our Australian business units and subsidiaries have separate policies that are consistent with our APD Group policy.  Please also be aware that if you are a customer of one of our overseas subsidiaries then the privacy policy of that organisation may reflect local conditions and legal requirements. If you are a customer of these business units or subsidiaries, please refer to their policy.
 
-When you visit a publisher site within the Commission Monster affiliate network, we send one or more cookies – a small file containing a string of characters – to your computer or other device that uniquely identifies your browser. We use cookies to improve the quality of our service,and for tracking leads, sales and commissions.
+Asia Pacific Digital Limited and its subsidiaries and related entities ( **APD Group** ) understands the importance of individual privacy, and is committed to the protection of your personally identifiable information (‘ **Your PI** ’).    As part of this commitment, we have developed this policy (‘ **Privacy Policy’** ) in line with the Australian Privacy Principles (‘ **APPs** ’) set out in the _Privacy Act 1988_ (‘ **Privacy Act’** ) and administered by the Federal Privacy Commissioner. 
 
-Viva9 uses cookies in its advertising services to help advertisers and publishers serve and manage ads across the web. We may set one or more cookies in your browser when you visit a website, including Viva9 sites that use our advertising cookies, and view or click on an ad supported by our advertising services.
+This Privacy Policy applies to the collection, storage, use and dissemination by APD of Your PI that is collected as part of our business operations, including, without limitation, through the operation of this website and its related properties, platforms and applications, (together, ‘ **Sites’** ).  The Privacy Policy forms part of, and should be read together with, the Terms of Use.  By using the Sites you consent to the terms of this Privacy Policy.
 
-####  Log information
+This Privacy Policy contains the following important information regarding Your PI:
 
-When you access Viva9 services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
-
-####  User communications
-
-When you send email or other communications to Viva9, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
-
-####  Affiliated Viva9 Services on other sites
-
-We offer some of our services on or through other web sites. Personal information that you provide to those sites may be sent to Viva9 in order to deliver the service. We process such information under this Privacy Policy. The affiliated sites through which our services are offered may have different privacy practices and we encourage you to read their privacy policies.
-
-####  Links
-
-Viva9 may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our performance-marketing technology, customized content and advertising.
-
-####  Other sites
-
-This Privacy Policy applies to Viva9 services only. We do not exercise control over the sites displayed as search results, sites that include Viva9 applications, products or services, or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.
-
-Viva9 only processes personal information for the purposes described in this Privacy Policy and/or the supplementary privacy notices for specific services. In addition to the above, such purposes include:
-
-Providing our services, including the display of customized content and advertising;
-
-  * Auditing, research and analysis in order to maintain, protect and improve our services;
-  * Ensuring the technical functioning of our network;
-  * Protecting the rights or property of Viva9 or our users; and
-  * Developing new services.
+  * Collection of Your PI 
+  * Storage and Security of Your PI
+  * Use and Disclosure of Your PI
+  * Access to Your PI
+  * Disclaimer
+  * Further Information
+  * Contact Us
 
 
 
-We will not collect or use sensitive information for purposes other than those described in this Privacy Policy and/or in the supplementary service privacy notices, unless we have obtained your prior consent.
+If there are changes to law or to our business operations, we may amend this Privacy Policy from time to time.   We will provide notice of this by posting the most recent version of the Privacy Policy on this website.  It is also available by contacting the APD Privacy Officer at [privacy@apdgroup.com](mailto:privacy@apdgroup.com "Email Privacy")
 
-Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Viva9 and/or Commission Monster features and services may not function properly if your cookies are disabled.
+**Collection of Your PI**
 
-###  Information security
+The types of Your PI we may collect from time to time will vary depending on the nature of your dealings with us.  However we will only collect Your PI to the extent reasonably necessary to carry out our business activities, including without limitation to carry out or enhance the functions offered on the areas of Sites that you choose to enter or use, or to provide, maintain or optimise our products or services, and in all cases by lawful and fair means.  If we receive Your PI that is unsolicited, and such information was not able to be collected under the APPs, within a reasonable period of time we will destroy or de-identify that information, provided that it is lawful and reasonable to do so. 
 
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
+We may collect information by a variety of means, including, without limitation, via the Sites, over the Internet, by phone, in person, at events, through competitions, surveys or other marketing activities, and from our clients, partners or other persons under the terms of their own privacy policies. In general, the types of Your PI could include any information from which you are ‘reasonably identifiable’ and could include your name, email address, phone number, gender, age or address.   
 
-We restrict access to personal information to Viva9 employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+Some of the information collected or used will not personally identify you but may be anonymous or aggregated with other data.  If you cannot be reasonably identified, or re-identified, this is not personally identifiable data.  We may obtain this information, without limitation, by use of ‘Cookies’ or other analytics tools.   Cookies are commonly used by websites on the Internet and are a feature that recognizes and identifies users’ computers. The Cookie does not contain any information that personally identifies you and we do not use Cookies in order to obtain personally identifiable information. Your browser should allow you to refuse Cookies if you desire.
 
-###  Data integrity
+**Storage and Security of Your PI**
 
-Viva9 processes personal information only for the purposes for which it was collected and in accordance with this Privacy Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services or as otherwise permitted under this Policy. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
+APD may hold information, including Your PI, in electronic and/or hard copy format, and will use all reasonable endeavours to maintain the security of Your PI, and protect it from unauthorised use, interference, loss, modification or disclosure.  This may include storing it in secure databases that are protected against unauthorised access, and taking other physical, electronic and procedural security steps.   Information we hold may from time to time be combined or linked with other information, including information that we receive from third parties.  We require our staff and service providers to respect the confidentiality of Your PI, and keep it secure from unauthorised access, misuse, loss and interference.
+
+Your PI may be stored and processed both in Australia and/or any other country in which APD or its subsidiaries affiliates, related bodies corporate, contractors or service providers maintain facilities (e.g. on servers hosted overseas), and which may include, without limitation, the United States, Singapore, and Philippines.  In such cases, APD takes reasonable steps to ensure that third parties overseas handle all personal information in accordance with this Privacy Policy. 
+
+We do not guarantee that Your PI will always be secure during transmission or from unauthorised access during storage.  Please contact APD immediately if you become aware or have reason to believe there has been any unauthorised use of Your PI.
+
+**Use and Disclosure of Your PI**
+
+Generally, we will only use Your PI for the primary purpose for which it was collected, or a closely related secondary purpose (which you should reasonably expect or which is otherwise permitted or required by the APPs).  An example of a secondary use is to operate and improve the Sites and your experience of the Sites, communicate with you or otherwise optimise our products and services.
+
+APD will not disclose Your PI without your consent to third parties for advertising.  APD may disclose some information that does not personally identify you to advertisers or other suppliers in the form of aggregated statistics or other anonymised data. This provision of information is to assist APD with improvements to the Sites or its business operations generally.
+
+APD may provide certain information to its related bodies corporate, contractors and/or service providers with a need to know that information, and subject to the terms of this Privacy Policy.
+
+Where you have expressly or implicitly provided your consent, APD may use Your PI to send you information about our products or services, or those of commercial sponsors, advertisers, clients, partners or associates in and outside Australia (together, ‘ **APD Partners** ').  If you subsequently decide that you do not wish to receive information about the products and services of the APD Partners, please Contact Us with your request to be removed from our mailing list or use the unsubscribe link at the end of the relevant email.
+
+**Access to Your PI**
+
+APD will use all reasonable endeavours to keep Your PI accurate.  Please contact us if you wish to examine Your PI for accuracy. We will use reasonable endeavours to provide a complete list of Your PI within 14 days of receipt of your enquiry.
+
+You may Contact Us to amend any of Your PI that is inaccurate or request that Your PI be deleted. We will use reasonable endeavours to amend or delete your records as requested within 14 days of receipt of notice. If applicable, any legal requirement on APD to maintain certain records of Your PI shall prevail over any of your requests.
+
+**Disclaimer**
+
+APD will only collect, use or disclose information that personally identifies you as set out in this Privacy Policy unless in our opinion APD is required by law to protect the rights or property of APD or any third party, or to avoid injury to any person.
+
+This Privacy Policy does not apply to websites, properties, applications or facilities which are not under APD control. You should check the privacy policy of any other websites you enter. You acknowledge that APD is not responsible for the content or practices of the other websites, including the manner in which they collect, store, use or disseminate Your PI.
+
+**Further Information on Privacy**
+
+If you believe that your privacy has been breached by APD, you can lodge a complaint by contacting the APD Privacy Officer and all attempts will be made to resolve the matter.
+
+If you are not satisfied with the outcome, or if you would like any further information about your rights to privacy, you are free to contact the Office of the Federal Privacy Commissioner.
+
+Telephone:1300 363 992  
+[privacy@privacy.gov.au](mailto:privacy@privacy.gov.au)
+
+**Contact Us**
+
+If you have any queries regarding this Privacy Policy or would like to read, amend or delete any of Your PI, please contact the APD Privacy Officer by email addressed to [privacy@apdgroup.com](mailto:privacy@apdgroup.com "Email to Privacy") 
+
+****Last updated on 30 April 2015**  
+**
