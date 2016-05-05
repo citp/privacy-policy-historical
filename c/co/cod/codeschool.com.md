@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codeschool.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225213942id_/https%3A//www.codeschool.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeschool.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505025442id_/https%3A//www.codeschool.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Code School
 
