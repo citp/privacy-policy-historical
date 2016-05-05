@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inc42.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103164355id_/http%3A//inc42.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inc42.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506011124id_/http%3A//inc42.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Inc42 Magazine
 
