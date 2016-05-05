@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the damninteresting.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103195511id_/http%3A//www.damninteresting.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the damninteresting.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505114741id_/http%3A//www.damninteresting.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Damn Interesting
 
