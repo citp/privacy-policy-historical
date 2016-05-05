@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giggle.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219083336id_/http%3A//www.giggle.com/privacy-%2526-security/privacy-and-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giggle.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505093803id_/http%3A//www.giggle.com/privacy-%2526-security/privacy-and-security.html) for the most accurate reproduction.*
 
 # Privacy & Security
 
