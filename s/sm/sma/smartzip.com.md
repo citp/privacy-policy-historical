@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the smartzip.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103154824id_/http%3A//smartzip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartzip.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505133204id_/http%3A//smartzip.com/privacy) for the most accurate reproduction.*
 
-# Predictive Marketing for Real Estate | SmartZip
+# Privacy | SmartZip
 
 ## Privacy Policy
 
 _Last Updated on September 9, 2013_
 
- **Our Commitment to Privacy**
+**Our Commitment to Privacy**
 
 We take your privacy seriously. Because we gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the Website located at [www.smartzip.com](http://www.smartzip.com/) and related SmartZip websites, pages, Facebook applications, and/or mobile applications (collectively, the "Site") that you were viewing when you clicked through to this policy, which is operated directly by us, by our partner, or by our affiliate.
 
 The Site has been established as a resource for users to educate themselves about real estate investing, search for real estate investment properties across the United States, utilize tools to score, rate and/or rank properties, register to utilize additional tools and to receive email notifications and/or newsletters, and submit information to be distributed to third-party realtors across the country.
 
- **User Consent**
+**User Consent**
 
 By submitting personal information through our Site, products, or related services, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your personal information in accordance with this Privacy Policy. Your personal information may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of personal information may be less stringent than the laws in your country.
 
- **What Information Do We Collect?**
+**What Information Do We Collect?**
 
 You can browse our Site without telling us who you are or revealing any personal information about yourself.
 
@@ -35,7 +35,7 @@ Our primary goal in collecting personal information is to provide you with the b
 
 We may also receive information about you from other sources and add it to the information you provided to us. Once you give us your personal information, you are not anonymous to us.
 
- **How Do We Handle Cookies?**
+**How Do We Handle Cookies?**
 
 Your Internet browser has a feature called cookies, which stores small amounts of data on your computer about your visit to any of our Sites. You do not need to have cookies turned on to visit most of our Sites, although active participation in certain areas of our Sites may require cookies. Cookies alone tell us nothing about who you are unless you specifically give us personally identifiable information, in which case we use the information to enhance your services in the ways described below. By adjusting your settings on your browser, you may elect not to allow cookies to be collected.
 
@@ -53,7 +53,7 @@ We use cookies and tracking technologies in a variety of ways, including:
 
 We allow other companies that are presenting advertisements on our Site and, sometimes, in our newsletters and email alerts to use tracking technology on your computer. We do not give any personally identifiable information to them as part of this relationship. Unless you visit the site of these companies and provide them with personally identifiable information about yourself, these tracking technologies do not provide those advertisers with personally identifiable information. Our advertisers' use of tracking technology is subject to their own privacy policies.
 
- **How Do We Use the Information?**
+**How Do We Use the Information?**
 
 We use the information we gather for four general purposes:
 
@@ -64,7 +64,7 @@ We use the information we gather for four general purposes:
 
 
 
- **Disclosure of Personally Identifiable Information**
+**Disclosure of Personally Identifiable Information**
 
 We will make your personally identifiable information available to other companies or people when:
 
@@ -81,19 +81,19 @@ We will make your personally identifiable information available to other compani
 
 
 
- **Aggregate information**
+**Aggregate information**
 
 We aggregate personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing, promotional, and other purposes. We do not disclose to these entities any information that could be used to identify you personally.
 
- **Feedback**
+**Feedback**
 
 If you provide feedback on any of our products or related services, we may use such feedback for any purpose, provided we will not associate such feedback with your personally identifiable information. Company will collect any information contained in such communication and will treat the personally identifiable information in such communication in accordance with this Privacy Policy.
 
- **Business transfers**
+**Business transfers**
 
 We are always seeking to improve our network of Sites and our business. In accomplishing these objectives, we may buy or sell a company, or one or more of the companies in our corporate family may merge with or be acquired by another company. If we sell a business, we may transfer some or all of your information as a part of the sale in order that the service being provided to you may continue or for other business purposes.
 
- **What Is Not Covered**
+**What Is Not Covered**
 
 The SmartZip privacy policy does not extend to the following scenarios:
 
@@ -102,7 +102,7 @@ The SmartZip privacy policy does not extend to the following scenarios:
 
 
 
- **What Are my Options?**
+**What Are my Options?**
 
 Users who would rather not provide any of the user data requested by our registration process do not need to register with us. You can still view much of the content and use many of the services offered by our Site without registering.
 
@@ -115,24 +115,24 @@ We also give users the following options:
 
 You can review, correct, or change the information collected during registration for any of our Sites. The instructions for doing this can be found in our member-services areas. Users may change information at any time and as often as necessary. Users who are experiencing problems with our services or who have questions about how our services work can contact [Customer Service](mailto:services@smartzip.com?subject=Service%20Request).
 
- **How is My Information Protected?**
+**How is My Information Protected?**
 
 Your password is the key to your account. Use unique numbers, letters and special characters, and do not disclose your SmartZip password to anyone. If you do share your password or your personal information with others, remember that you are responsible for all actions taken in the name of your account. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password.
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
- **A Note About Children**
+**A Note About Children**
 
 We do not intentionally gather personal information about users who are under the age of 13.
 
- **How Will I Know if the Privacy Policy is Changed?**
+**How Will I Know if the Privacy Policy is Changed?**
 
 Any modifications to our privacy practices will be reflected first within this area of our Site. The date that revisions to this Privacy Policy were last made are indicated at the top of this page. If there is a material change in our privacy practices, we will indicate on our Site that our privacy practices have changed and provide the effective date of the changes. If we are going to be using the information collected from users in a manner materially different from that stated at the time of collection, we will send affected users written notice of the change by e-mail. Any such material changes will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our Site. These changes will be effective immediately for new users of our Site, products or related services. Please note that at all times you are responsible for updating your personal information to provide us with your most current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. If you do not wish to permit changes in our use of your personal information, you must notify us prior to the effective date of the changes that you wish to deactivate your account with us. Continued use of our Site, products, or related services, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
 
- **Dispute Resolution**
+**Dispute Resolution**
 
 If you believe that SmartZip has not adhered to this Privacy Policy, please contact SmartZip by e-mail at[Customer Service](mailto:services@smartzip.com?subject=Service%20Request). We will do our best to address your concerns. If you feel that your complaint has been addressed incompletely, we invite you to let us know for further investigation. If you and SmartZip are unable to reach a resolution to the dispute, you and SmartZip will settle the dispute exclusively under the rules of the American Arbitration Association (www.adr.org).
 
- **Questions & Comments**
+**Questions & Comments**
 
 Questions regarding this privacy statement or any other aspects of our Site should be sent to our corporate offices at 4450 Rosewood Dr, Ste. 300, Pleasanton, CA 94588, Attention: Legal Department. We read every message submitted and try to reply promptly. We may also file your comments to improve the Site, or review and discard the information.
