@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azamaraclubcruises.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905102515id_/https%3A//www.azamaraclubcruises.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azamaraclubcruises.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505230946id_/https%3A//www.azamaraclubcruises.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Azamara Club Cruises
 
@@ -10,19 +10,19 @@ This statement sets forth our privacy policy regarding information you provide t
 
 We collect information about you through two principal means: through technology (for example IP addresses and cookies) and through your voluntary submission of information.
 
-**1\. Non-personally Identifiable Information**  
+ **1\. Non-personally Identifiable Information**  
 Using technology, our sites can collect information about the type of browser you are using, your operating system and your IP address information using technology. An IP address is a number that is automatically assigned to your computer and is recognized by web technology whenever you are surfing the Internet. None of this information is considered personally identifiable information. As technology evolves, additional methods of information gathering may be used such as "pixel tags" (also known as "web beacons" and "clear gifs").
 
 We also use cookies and other technologies to collect non-personally identifiable information for a variety of purposes, such as to improve the design and content of our website and to enable us to provide a more personalized experience when you browse the Internet. Most industry-standard Web browsers have an option that allows you to turn off all cookies or have your computer inform you each time that a request to place a cookie is being made. If you turn cookies off (or refuse to accept a request to place a cookie), you may not have access to some features on our Web sites and some of our services, such as purchasing a cruise or being automatically recognized as a loyalty member, may not function properly.
 
 We may provide aggregate non-personally identifiable information to third parties (such as marketers, ad server companies and advertisers) that make use of general customer data. We may also share that information with concessionaires aboard our vessels and other third parties. Azamara is not liable for information that is inaccurate due to technical defects in software used on our Web sites, whether induced by our systems or by software provided by third parties.
 
-**2\. Personally Identifiable Information**  
+ **2\. Personally Identifiable Information**  
 You can use the majority of our Web sites without being required to divulge any personally identifiable information to us. To participate in or use some of the activities available on our sites (such as purchasing a cruise, entering a contest or contacting us) you may be required to provide certain personally identifiable information (such as your name and e-mail address). In addition, in connection with some activities such as purchasing a cruise, we collect additional personally identifiable information such as your date of birth, street and billing address, and credit card number.
 
 When corresponding with you via e-mail, we may use a variety of technologies, such as "clear gifs" or "web beacons", to let us know, among other things, whether you received and opened our e-mail. The clear gif included in the e-mail may establish a cookie on your system that further allows us to tailor information to fit your personal interests.
 
-Azamara will not trade, sell or share such personally identifiable information for use by any third parties unless we have informed you, been authorized by you or are required by law to do so. In addition, such personally identifiable information shall not be disclosed to third parties unless we have informed you, been authorized by you or are required by law to do so. The term "third parties" does not include any subsidiaries or affiliates of Azamara, service providers or vendors acting on Azamara's behalf or travel agents or the purchaser of substantially all of the assets of [price terms](https://web.archive.org/sites/default/files/pdfs/Azamara_Ticket_Contract.pdf) or a subsidiary or affiliate of Azamara. Our policy is to require that third parties keep that information confidential. We reserve the right to disclose personally identifiable information, without notice, if we believe that such action is necessary to defend and protect the rights or property of Azamara and its family of Web sites or to protect the personal safety of users of Azamara, its Web sites or the public.
+Azamara will not trade, sell or share such personally identifiable information for use by any third parties unless we have informed you, been authorized by you or are required by law to do so. In addition, such personally identifiable information shall not be disclosed to third parties unless we have informed you, been authorized by you or are required by law to do so. The term "third parties" does not include any subsidiaries or affiliates of Azamara, service providers or vendors acting on Azamara's behalf or travel agents or the purchaser of substantially all of the assets of [price terms](https://web.archive.org/cruiseticket) or a subsidiary or affiliate of Azamara. Our policy is to require that third parties keep that information confidential. We reserve the right to disclose personally identifiable information, without notice, if we believe that such action is necessary to defend and protect the rights or property of Azamara and its family of Web sites or to protect the personal safety of users of Azamara, its Web sites or the public.
 
 Your credit card number is used to process your request for products or services and will not be shared with third parties that are not involved with the transaction.
 
@@ -40,7 +40,7 @@ We use the information that you share with us for these purposes:
 
 ### How do I tell Azamara that I don't want to be contacted or change my personally identifiable information?
 
-Our Web sites sometimes provide you the opportunity to opt-in to receive communications from us at the point where we request information from you. You always have the option of removing your name from our e-mail mailing list(s) so that you will not receive further e-mail promotional communications from us. In order to ensure immediate removal from any list, it is best to follow the specific instructions outlined within the communications you receive from us since we operate numerous sites and e-mail lists. If you are unable to complete the process indicated in such communications, [e-mail](https://web.archive.org/dk/email-us).
+Our Web sites sometimes provide you the opportunity to opt-in to receive communications from us at the point where we request information from you. You always have the option of removing your name from our e-mail mailing list(s) so that you will not receive further e-mail promotional communications from us. In order to ensure immediate removal from any list, it is best to follow the specific instructions outlined within the communications you receive from us since we operate numerous sites and e-mail lists. If you are unable to complete the process indicated in such communications, [e-mail](https://web.archive.org/email-us).
 
 ### Links and Third Parties
 
@@ -64,6 +64,6 @@ By using our Web sites, you signify your acceptance of this Privacy Policy. Azam
 
 ### Questions or Comments?
 
-If you have any further questions or comments regarding our If you have any further questions or comments regarding our Privacy Policy, please [send us an e-mail](https://web.archive.org/dk/email-us) with your questions or comments.
+If you have any further questions or comments regarding our If you have any further questions or comments regarding our Privacy Policy, please [send us an e-mail](https://web.archive.org/email-us) with your questions or comments.
 
 This Privacy Policy was last modified on March 2011.
