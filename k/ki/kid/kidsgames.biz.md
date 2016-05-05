@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidsgames.biz privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411051429id_/http%3A//www.kidsgames.biz/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsgames.biz privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505102259id_/http%3A//www.kidsgames.biz/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kids Games
 
