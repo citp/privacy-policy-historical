@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lorent.co.in privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105021119id_/http%3A//www.lorent.co.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lorent.co.in privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505145620id_/http%3A//lorent.co.in/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-**This Privacy Policy governs the manner in which Lorent collects, uses, maintains and discloses information collected from users (henceforth quoted as "User") of the[ lorent.co.in ](https://web.archive.org/web/20151105021119id_/http%3A//www.lorent.co.in/lorent.co.in) website ( henceforth quoted as "Site"). This privacy policy applies to the Site and all products and services offered by Lorent. **
+**This Privacy Policy governs the manner in which Lorent collects, uses, maintains and discloses information collected from users (henceforth quoted as "User") of the[ lorent.co.in ](https://web.archive.org/web/20160505145620id_/http%3A//lorent.co.in/lorent.co.in) website ( henceforth quoted as "Site"). This privacy policy applies to the Site and all products and services offered by Lorent. **
 
 ###  Personal identification information 
 
@@ -69,7 +69,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: 
 
-Lorent Realty Services Online Pvt. Ltd.([ lorent.co.in ](https://web.archive.org/web/20151105021119id_/http%3A//www.lorent.co.in/lorent.co.in))   
+Lorent Realty Services Online Pvt. Ltd.([ lorent.co.in ](https://web.archive.org/web/20160505145620id_/http%3A//lorent.co.in/lorent.co.in))   
 C 2439,LGF,Sushant lok 1,Gurgaon,122002   
 Contact: +91-92-6881-6881   
 Mail: info@lorent.co.in 
