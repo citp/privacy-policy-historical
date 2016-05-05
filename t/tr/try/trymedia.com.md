@@ -1,103 +1,147 @@
-> *The following text is extracted and transformed from the trymedia.com privacy policy that was archived on 2013-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130904210541id_/http%3A//www.trymedia.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trymedia.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505113710id_/http%3A//www.realnetworks.com/company/privacy/index.html) for the most accurate reproduction.*
 
-# Trymedia - Privacy Policy
+# Privacy Policy | Realnetworks
 
-The privacy of your information is important to us. The following are the privacy policies of TM Acquisition LLC, a wholly owned subsidiary of RealNetworks, Inc., ("Trymedia"). 
+**REALNETWORKS, INC., AND AFFILIATED ENTITIES**
 
-Trymedia will be collecting two types of information from you: we collect non-personal information every time you visit our Web site or communicate with us over the Internet; and we collect personal information from you only when you engage in a transaction, download software or join a subscription service on our site. We explain how we collect and use both types of information below.
+_This document was last updated 26 May 2015._
 
-### The Personal Information Collected
+This Privacy Policy covers RealNetworks, Inc., its majority-owned affiliates and worldwide subsidiaries, and RealNetworks divisions operating under different trade names, including GameHouse and Zylom (collectively "RealNetworks" or "RN"). RealNetworks is committed to protecting the privacy of your personal information. This Privacy Policy explains how RealNetworks collects and utilizes both personal and non-personal information when you use our products, services and websites.
 
-Personal information is information that is unique to you, such as your name, address, e-mail address, phone number and credit card number. The following are the ways in which we collect personal information:
+Details regarding specific topics may be found via the topic [index](https://web.archive.org/privacy-policy/specific-topics).
 
-  *   **Transaction Information**  
-In order to complete a software purchase, you will be asked to share with us information required to complete the transaction successfully, such as billing and shipping addresses, credit card number and expiration date, etc.
-  *   **Subscription Information**  
-You have the opportunity to receive our special software offers via e-mail. When you sign up for this service, you will be asked to provide us with your e-mail address.
-  *   **Download Information**  
-Each software download started by you generates a unique serial number. If you purchase a license to a product, the serial number will be used to protect the copyright of the software and prevent piracy.
+## WHY DO WE COLLECT PERSONAL INFORMATION? 
 
+RealNetworks collects personal information to improve the manner by which we operate and offer our products and services, communicate with you, and provide effective customer support. We will not share your personally identifiable information with third parties without your consent, unless necessary for the purposes set forth in this Privacy Policy.
 
+## WHAT PERSONAL INFORMATION DO WE COLLECT?
 
-### How Personal Information Is Used
-
-When you make a purchase, we use your information in the following ways:
-
-  *  Your personal information will be shared with our business partners involved in facilitating or completing the transaction (for example, credit card authorization companies, RealNetworks, Inc. and affiliates, the publisher of the software and, if applicable, the owner of the Web site that you were visiting when you clicked on a promotion for the software you are downloading).
-  *  Trymedia will send you, from time to time, email or mail on topics, including: (i) information regarding your purchase, such as news of software patches or updates; (ii) news regarding updates to our Web sites; and (iii) details regarding any special promotions sponsored by Trymedia, such as rebates, sweepstakes and gift promotions.
+  * Personal information specifically identifies an individual and may include: name; email address; credit card information; mailing address; and phone number.
+  * RealNetworks does not intentionally collect personally identifiable information from children under the age of 13.
 
 
 
-If you opt-in to a subscription or mailing list then Trymedia and our business partners described above who receive your information may use your information in the following ways:
+## HOW DO WE USE YOUR PERSONAL INFORMATION? 
 
-  *  Trymedia may send you emails and mail on special promotions that we believe may be valuable to you, including e-mails promoting special software deals, sponsored by Trymedia or other companies.
-  *  Our business partners may send you emails and mail on special promotions that they believe are valuable to you.
-  *  Trymedia and our business partners may conduct market research analysis in relation to mailing list subscribers.
+RealNetworks uses your personal information to:
 
-
-
-We may also make the following general uses of your information:
-
-  *  We may use independent contractors to provide services on our behalf, for example credit card processing and market research analysis. These contractors may have access to your information in the course of providing these services on behalf of Trymedia. Any personal information we provide to such contractors is protected under confidentiality agreements.
-  *  We may disclose your personal information to authorities (i) if you violate our Terms of Use or any law, rule, or regulation, or (ii) if required by law or regulatory authority (for example, court order or subpoena).
-  *  In the event that Trymedia or certain of our assets are acquired, your personal information may be one of the transferred assets.
+  * Deliver to you and bill you for RealNetworks products and services, and communicate with you concerning your account and customer service issues;
+  * Verify access rights to premium content or other access-restricted services and software;
+  * Ask you to participate in surveys;
+  * Offer you product upgrades, content, services and games;
+  * Auto-update downloaded products; and
+  * Provide you with news, updates, targeted advertising, promotions, and special offers.
 
 
 
-Use of your personal information by independent contractors when working on behalf of Trymedia shall be subject to our Privacy Policy. Use of your personal information by other companies who receive your information will be in accordance with their privacy policies.
+## WHAT NON-PERSONAL INFORMATION DO WE COLLECT? 
 
-You may unsubscribe from Trymedia's promotional mailing list at anytime by following the unsubscribe instructions that appear in each email that you will receive from Trymedia. To unsubscribe from the mailing lists of third parties you will need to follow their stated unsubscribe processes.
+We collect non-personal information that does not permit direct association with any specific individual. We may collect, use, transfer, and disclose non-personal information for any purpose. The following are examples of non-personal information that we may collect:
 
-Many questions regarding your purchase history and assistance with your software may be answered by visiting the Help Section of the site where you purchased your software.
+  * Information about your computer, hardware, software, platform, device, Internet Protocol (IP) address;
+  * Geo-location information associated with a photograph or video, solely to enable the location grouping feature in RealTimes;
+  * Language preference;
+  * Gender;
+  * Anonymous information regarding customer activities on our websites, which is aggregated and considered non-personal information for purposes of this Privacy Policy.
 
-### What We Won't Do With Personal Information
 
-Trymedia will not sell or rent your personal information to any companies unconnected with your purchase of the software.
 
-### Where Your Information is Used
+## HOW DO WE USE YOUR NON-PERSONAL INFORMATION? 
 
-When you provide us with your information you acknowledge that this information may be stored and processed on servers located any where in the World, including either inside or outside of the USA or the European Economic Area ("EEA"). You consent to your information being transferred outside the USA and EEA and being stored and processed at our discretion on any of our servers wherever located.
+  * Improve our software and services by providing content recommendations, language and location customization, targeted advertising and/or personalized help and instructions.
+  * Determine if you meet the minimum system requirements to use our products, and provide information concerning compatibility and interoperability;
+  * Track content use for the purpose of paying royalties and license fees to third party providers;
+  * Better understand how our products are used.
 
-### Security
 
-Because security is important to us, we exercise care in providing secure transmission of your personal information before it is transferred across the Internet from your personal computer to our secure servers. We use industry-standard, secure-socket-layer (SSL) technology, which is utilized by most popular browsers to encrypt (or convert into code) most of your personal information before it is transferred across the Internet. To further safeguard your most sensitive credit card information, we transfer such information across the Internet in an encrypted format and and do not store the complete information in our databases after a transaction has been completed.
 
-Remember to close your browser window when you have finished a purchase in order to ensure that others cannot access your personal information.
+We also may share or disclose your personal information or the content of files you upload using RealNetworks' products or services to comply with the law or respond to legal process or lawful requests, including from law enforcement and government agencies.
 
-We will permit only authorized employees, who are trained in the proper handling of personal data, to access your personal information.
+## THIRD PARTY ADVERTISING – GENERAL 
 
-To further protect your personal information, we have a security system that includes: firewall technologies; logical network segmentation, allowing restricted access to stored profile information; encryption; and logical and physical security restrictions to our databases and systems.
+We allow third-party advertising companies to serve ads when you visit our websites or interact with our products or services. These companies use non-personal information about your visits in order to provide advertisements of interest to you.
 
-However, you should be aware that there is always some risk involved in transmitting information over the Internet. There is also some risk that others could find a way to thwart our security systems. As a result, while we strive to protect your information, we cannot ensure or warrant the security and privacy of any information you transmit to us, and you do so at your own risk.
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information.
 
-### Other, Non-Personal Information Collected and Used
+For more information regarding our advertising and use of cookies on the RealNetworks websites, [click here](https://web.archive.org/privacy-policy/specific-topics).
 
-Like many other Internet sites, we automatically collect non-personal information such as software client information (for example, IP addresses, browser versions and operating systems) and aggregate information (for example, number of pages accessed, usage metrics) in order to analyze Web traffic and usage trends. Information of this nature does not pertain to your specific identity and is not associated with your personal information.
+## HOW DO WE KEEP YOUR PERSONAL INFORMATION SECURE? 
 
-To enhance your experience on our Web pages, Trymedia and our advertiser(s) commonly employ Internet technologies, such as "cookies," to collect and store non-personal information about our visitors. "Cookies" are small pieces of information that are transferred by a website and stored by your Web browser on your computer's hard drive. With most browsers, you can set the preferences to show a warning each time a cookie request is received. You can also set the browser not to accept cookies at all. However, because we won't be able to personalize your experience if we cannot recognize you, we suggest that you allow your browser to accept cookies.
+RealNetworks is committed to protecting your personal information. We use the following controls to protect your personal information:
 
-Cookies and Web beacons (also called "pixel tags") may be used by Trymedia or our advertiser(s) to determine how you reached us, to track your usage patterns once you are on our Web pages or Web Site, and to target our Internet banner advertisements on our Web pages and Web sites.
+  * Use of secure connections using SSL to safeguard information when transmitted from your Web browser to RealNetworks;
+  * Use of security controls to restrict access to databases housing personally identifying information;
+  * Use of encryption for sensitive personal information, such as credit card numbers and user names;
+  * Limited employee access to databases containing personal information and confidentiality requirements imposed upon employees who do; and
+  * Subcontractors bound by contractual, technical and organizational measures.
 
-We may also provide aggregated but non personal information about you that does not allow you to be identified or contacted, including where such information is combined with similar information about other users. For example, we might inform industry watchdogs regarding the number of unique users who have purchased software from Trymedia and the demographic breakdown of our user community.
 
-### What Is Not Covered By This Privacy Policy
 
-Except as stated above, this Privacy Policy does not apply to the practices or policies of companies or entities that we do not own or control, and does not apply to any links to sites that are not maintained by us, or to people that we do not employ or manage.
+## PRIVACY ON SOCIAL NETWORKING SITES 
 
-### Questions, Comments or Concerns
+When you use a RealNetworks product or game through a Social Networking Site such as Facebook ("SNS"), you allow RealNetworks to access certain personal and non-personal information that you provided to such SNS such as your user ID, first and last name, profile picture, and usage data for that product or game. By accessing a RealNetworks product or game through an SNS, you are authorizing RealNetworks to collect, store and use all information that you agreed the SNS could provide to RealNetworks through the SNS. RealNetworks' collection, storage and use of your information are governed by this Privacy Policy. RealNetworks may access videos, photographs, and other media you share on an SNS with the public and use such material in accordance with the terms and policies of that SNS.  If you do not want RealNetworks to have such access, adjust your SNS privacy settings so that the media is not shared with the public.
 
-Many questions regarding your purchase history and assistance with your software can be answered by visiting the Help Section of the site where you purchased your software. If you have additional questions or concerns regarding our Privacy Policy, please contact us at the address below:
+## WHEN AND HOW DO WE SHARE YOUR PERSONAL INFORMATION WITH THIRD PARTIES? 
 
-By email: [privacy@real.com](mailto:privacy@real.com)
+RealNetworks does not use your personal information for purposes incompatible with those listed above. In some cases, access to certain products and services may require the provision of personal information to a third party. In such cases, this will be stated during the registration process, in the terms of use, through the distribution process, or in a similar manner. The third party's use of such information is governed by that party's privacy policy. Please visit the privacy policy of the third party to make sure you understand how they use the personal information you provide to them. If you do not wish for such a transfer to take place, you should not register for the applicable product or service. Additionally, RealNetworks may be required to provide specific access and usage information to certain content providers and rights holders as a condition of content licensing and royalties.
 
-By mail:  
-RealNetworks  
-C/O General Counsel  
-2601 Elliott Avenue  
-Seattle WA 98121
+RealNetworks may disclose relevant information about our customers to our contractors in order for them to provide specific services for RealNetworks. RealNetworks contractors are bound to keep all personal information they process confidential.
 
-### Privacy Policy Updates
+RealNetworks may disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law; (b) comply with the order of a competent judicial authority in any jurisdiction; (c) comply with legal process served on RealNetworks; (d) protect and defend the rights or property of RealNetworks; or (e) act in urgent circumstances to protect the personal safety of users of RealNetworks products or the public at large.
 
-This privacy policy has been in effect since March 15, 2005. We may, in our sole discretion, revise this Privacy Policy at any time; all such revisions shall be effective when posted on this site. If we change the way your personal information will be used, we will post an announcement on our homepage. We encourage you to periodically review this Privacy Policy in order to keep apprised of our current privacy practices.
+This Privacy Policy does not govern other sites that are linked to one of RealNetworks' websites, products, or services.
 
-BY USING OUR WEB SITE OR PURCHASING THE SOFTWARE YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY AND OF US PROCESSING YOUR INFORMATION IN ACCORDANCE WITH THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU SHOULD NOT USE OUR WEB SITE OR PURCHASE THE SOFTWARE.
+## E-MAIL FROM REALNETWORKS 
+
+Separate RealNetworks products, services and lines of business may send separate newsletters and marketing emails to you. You may opt out of receiving RealNetworks marketing messages. If you create an online account with RealNetworks, you can change your account setting to select whether you wish to receive marketing messages. However, we may continue to send you e-mail about products or services you have previously purchased or to inform you about critical technical service issues relating to a RealNetworks product or service.
+
+## HOW TO ACCESS AND UPDATE YOUR PERSONAL INFORMATION 
+
+To access your account information and preferences, select "Manage My Account" from the menus in the RealPlayer (usually under the "Help" menu) or other RealNetworks consumer software. Sign in to your account and modify your information and preferences as needed.
+
+If you created an account with RealNetworks, you may review and update your account on the web at [www.real.com](http://www.real.com/) or by selecting "My Account" in your RealNetworks product, and logging in using your name and password. If you have forgotten your username or password, you can use our online help resources or contact us by clicking [here](https://customer.real.com/hc/en-us/requests/new).
+
+## USE OF COOKIES 
+
+We use cookies, web beacons, pixel tags, and similar technologies to provide you with a tailored experience.
+
+For more information on our use of cookies, please see our [cookie policy](https://web.archive.org/privacy-policy/cookies).
+
+## CHANGES TO OUR PRIVACY POLICY 
+
+We frequently revise this Privacy Policy to keep it up to date with RealNetworks products, services and Web pages.
+
+## TRANSFER OF DATA TO OTHER COUNTRIES 
+
+RealNetworks processes information about our users on servers located in a number of countries. We may also subcontract processing or share your information to third parties located in countries other than your home country. Information collected by RealNetworks in the United States may, for example, be transferred to and processed in a country outside of the United States. Information collected within the European Economic Area and Switzerland may, for example, be transferred to, and processed in a country outside of the European Economic Area and Switzerland. You expressly consent to the foregoing.
+
+## SAFE HARBOR 
+
+RealNetworks complies with the U.S.-EU and U.S.-Swiss Safe Harbor Frameworks and has certified its personal information practices with the U.S. Department of Commerce under the Safe Harbor Program to ensure that your personal information is protected adequately in the event that your data is processed for the purposes of your agreement with us by a RealNetworks company in the United States. Should you want more information on the Safe Harbor principles, please go to: [http://www.export.gov/safeharbor](http://www.export.gov/safeharbor/).
+
+If we require a RealNetworks company to process your data for the purposes of payment for goods and services this RealNetworks company will be RealNetworks, Inc., E Commerce LL; P.O. Box 91123, Seattle, Washington 98111-9223. The following data may be turned over to this company solely for the purpose of processing the payment transaction: your name, bank account, and amount to be charged. You have a right of access and rectification with regard to such data; to exercise these rights, or for other data privacy questions, please refer to the section “Contact Us About Privacy,” below.
+
+If you are a European resident and your data privacy complaint was not satisfactorily addressed by RealNetworks, you may contact the data protection authorities in the relevant jurisdiction. A list of data protection authorities is available at: [http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm ](http://ec.europa.eu/justice/data-protection/bodies/authorities//index_en.htm)
+
+RealNetworks has agreed to participate in the dispute resolution procedures of the panel established by the European Union data protection authorities to resolve disputes pursuant to the Safe Harbor Privacy Principles, as well as to cooperate and comply with the Federal Data Protection and Information Commissioner of Switzerland.
+
+## NO ERROR FREE PERFORMANCE 
+
+RealNetworks does not guarantee error-free performance under this Privacy Policy. We will use reasonable efforts to comply with this Privacy Policy and will take prompt corrective action when we learn of any failure to comply. RealNetworks shall not be liable for any incidental, consequential or punitive damages relating to this Privacy Policy. This Privacy Policy shall be governed by the laws of the United States.
+
+CONTACT US ABOUT PRIVACY 
+
+If you have questions about the privacy aspects of our products or services, the information concerning you that RealNetworks has retained, or would like to make a complaint, please contact:
+
+Privacy Policy Group  
+RealNetworks, Inc.  
+P.O. Box 91123  
+Seattle, WA 98111-9233
+
+Or [click here](https://customer.real.com/hc/en-us/requests/new).
+
+## SPECIFIC TOPICS
+
+For more information concerning specific functionality that may be relevant to privacy issues, visit our [Specific Topic Index](https://web.archive.org/privacy-policy/specific-topics).
+
+© 2015 RealNetworks, Inc.
