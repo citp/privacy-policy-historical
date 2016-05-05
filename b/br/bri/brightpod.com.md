@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightpod.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231124611id_/http%3A//www.brightpod.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightpod.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505210806id_/http%3A//www.brightpod.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Brightpod
 
@@ -17,7 +17,7 @@ Synage Software ensures that your information remains private and confidential. 
 We will use your information for the following purposes: 
 
   1. To authenticate and provide you access to Brightpod.
-  2. To notify you of change of services, maintenance notifications, information and promotional materials, newsletters from Brightpod. 
+  2. To notify you of change of services, maintenance notifications, information and promotional materials, newsletters from Brightpod.
   3. To improve our service and to track and diagnose problems. 
   4. To contact you for your reviews on the website and your experience with using Brightpod.
   5. To use it in our billing systems.
