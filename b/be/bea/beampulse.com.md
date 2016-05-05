@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the beampulse.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701083739id_/http%3A//www.beampulse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beampulse.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505020100id_/http%3A//en.beampulse.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement « Beampulse Beampulse
+# Privacy - BeamPulse
 
-### Version 2 – 3rd September 2012
+### Version 3 – 1st Januar 2013
 
-beampulse.com is operated by Cogifactory, 27 rue Victor Schoelcher, 68057, Mulhouse, France
+www.beampulse.com is operated by BeamPulse SAS, 27 rue Victor Schoelcher, 68057, Mulhouse, France
 
 If, at any time, you have questions or concerns about our privacy practices, please feel free contact us at contact@beampulse.com.
 
@@ -36,4 +36,4 @@ If you would like your website to be considered for linking on the BeamPulse we
 
 If you have any questions about our privacy statement, please contact:
 
-CogiFactory, 27 rue Victor Schoelcher, 68057, Mulhouse, France.
+BeamPulse, 27 rue Victor Schoelcher, 68057, Mulhouse, France.
