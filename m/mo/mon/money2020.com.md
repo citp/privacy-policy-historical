@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the money2020.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908084221id_/http%3A//www.money2020.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the money2020.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505194458id_/http%3A//www.money2020.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Money20/20
 
