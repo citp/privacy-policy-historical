@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entertain-o-rama.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105091650id_/http%3A//entertain-o-rama.com/our-privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertain-o-rama.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505064913id_/http%3A//entertain-o-rama.com/our-privacy-policies) for the most accurate reproduction.*
 
 # Our Privacy Policies | Entertain-O-rama
 
