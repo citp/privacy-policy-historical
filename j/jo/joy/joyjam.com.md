@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the joyjam.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919190458id_/http%3A//miniworldgames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joyjam.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505170614id_/http%3A//miniworldgames.com/privacy) for the most accurate reproduction.*
 
-# Privacy | MiniWorldGames
-
-#### Privacy
+# Privacy – MiniWorldGames
 
 **PRIVACY POLICY for www.miniworldgames.com**
 
