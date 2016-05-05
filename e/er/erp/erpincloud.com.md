@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the erpincloud.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029084245id_/http%3A//www.erpincloud.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erpincloud.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505142817id_/http%3A//www.erpincloud.com/privacy-policy) for the most accurate reproduction.*
 
 # Cloud ERP
 
