@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenewsrecorder.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219233304id_/http%3A//www.thenewsrecorder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenewsrecorder.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505224601id_/http%3A//www.thenewsrecorder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The News Recorder
 
@@ -78,4 +78,4 @@ By using our site, you consent to our web site privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on April 27, 2011
+This policy was last modified on April 27, 2011.
