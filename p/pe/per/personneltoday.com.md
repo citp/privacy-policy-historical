@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the personneltoday.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212021800id_/http%3A//www.personneltoday.com/cookies-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personneltoday.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505185650id_/http%3A//www.personneltoday.com/cookies-privacy-policy) for the most accurate reproduction.*
 
 # Cookies and privacy policy | Personnel Today
 
