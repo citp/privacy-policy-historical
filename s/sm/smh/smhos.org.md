@@ -1,51 +1,55 @@
-> *The following text is extracted and transformed from the smhos.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095517id_/http%3A//smhos.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smhos.org privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505105729id_/http%3A//smhos.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Salvation Ministries – Home of Success
+# » Privacy Policy
 
-**What information do we collect?**
+**Privacy Policy**
 
-We collect information from you when you fill out a form.  
-When sending a message to us on our site, you may be asked to enter your: name and e-mail address. You may, however, visit our site anonymously.
+Salvation Ministries is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to Salvation Ministries Web site and governs data collection and usage. By using Salvation Ministries website, you consent to the data practices described in this statement
 
-**What do we use your information for?**
+**Information Collection and use**
 
-Any of the information we collect from you may be used in one of the following ways:  
-\- To process transactions  
--To send periodic emails  
-The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
+While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personal identifiable information may include, but is not limited to your name, email, telephone number, etc (“Personal Information”).
 
-**How do we protect your information?**
+Any of the information we collect from you may be used in one of the following ways:
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
+  1. To personalize your experience (your information helps us to better respond to your individual needs)
 
-**Do we use cookies?**
 
-Yes, we use cookies to record your preferences.
+  2. To improve our website (we continually strive to improve our website features based on the information and feedback we receive from you)
 
-**Do we disclose any information to outside parties?**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+  3. To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
 
-**Online Privacy Policy Only**
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+  4. To process transactions (Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-**Your Consent**
 
-By using our site, you consent to our privacy policy.
+  5. To send periodic emails. The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
-**Changes to our Privacy Policy**
 
-If we decide to change our privacy policy, we will post those changes on this page.
 
-**Contacting Us**
+**Log Date**
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
+Like many site operators, we collect information that your browser sends whenever you visit our Site (“Log Data”).
 
-Salvation Ministries – Home of Success:  
-Plot 17, Birabi Street, G.R.A. Phase 1,  
-Port Harcourt, Rivers State, Nigeria.
+This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, domain names, access times, referring Web site addresses and other Statistic. We use this information for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Salvation Ministries Web site.
 
-info@smhos.org
+In addition we may use third party services that collect, monitor and analyze this data.
 
-Hotline: **+234 84 466 170**
+**Use of Cookies**
+
+Salvation Ministries Web site use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Salvation Ministries pages, or register with Salvation Ministries services, a cookie helps us to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Salvation Ministries Web site, the information you previously provided can be retrieved, so you can easily use the features that you customized.
+
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can manually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Salvation Ministries services.
+
+**Changes to this Statement**
+
+Salvation Ministries will occasionally update this Statement of Privacy to reflect the Church, members and customer feedback. Salvation Ministries encourages you to periodically review this Statement to be informed of how Salvation Ministries Web Site is protecting your information.
+
+**Contact Information**
+
+Salvation Ministries welcomes your comments regarding this Statement of Privacy. If you believe that we has not adhered to this Statement, please contact us at [privacy@smhos.org](mailto:privacy@smhos.org) _._ We will use commercially reasonable efforts to promptly determine and remedy any problem.
+
+_Last updated: 18 th February 2016_
