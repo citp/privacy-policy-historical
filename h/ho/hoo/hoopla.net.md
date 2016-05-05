@@ -1,18 +1,17 @@
-> *The following text is extracted and transformed from the hoopla.net privacy policy that was archived on 2014-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140810151616id_/http%3A//hoopla.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoopla.net privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505090531id_/https%3A//www.hoopla.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - Hoopla
+# Privacy Policy | Hoopla
 
-### February 10, 2014
+#### April 15, 2015
 
-The privacy of your personal information is very important to us.  This statement outlines what personal information Hoopla Software, Inc. (“Hoopla”) collects about you and how we use it in the Hoopla software, widgets, products and services, and our website located at [www.hoopla.net](http://www.hoopla.net/) (the “Site”) (collectively, the “Service”). If you have any questions or concerns relating to privacy or security, please send an email to [privacy@hoopla.net](mailto:privacy@hoopla.net)
-
-[](https://privacy.truste.com/privacy-seal/Hoopla-Software,-Inc-/validation?rid=ca3917e0-7746-42f1-b5cf-85fe8d907fc5 "Validate TRUSTe privacy certification")
-
-Hoopla has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s [Program Requirements](http://www.truste.com/privacy-program-requirements/program-requirements) and the TRUSTed [Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this web site (www.hoopla.net) and our service, and does not cover information which may be collected through downloaded software. The TRUSTe certification TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@hoopla.net. If you are not satisfied with our response you can contact [TRUSTe here.](https://feedback-form.truste.com/watchdog/request)
+The privacy of your personal information is very important to us. This statement outlines what personal information Hoopla Software, Inc. (“Hoopla”) collects about you and how we use it in the Hoopla software, widgets, products and services, and our website located at [www.hoopla.net](https://www.hoopla.net/) (the “Site”) (collectively, the “Service”). If you have any questions or concerns relating to privacy or security, please send an email to [privacy@hoopla.net](mailto:privacy@hoopla.net)
 
 Hoopla complies with the U.S. – E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries. Hoopla has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Hoopla’s certification, please visit http://www.export.gov/safeharbor.
 
-## Information Related To Data Collected For Our Clients
+  
+
+
+### Information Related To Data Collected For Our Clients
 
 #### Service Provider Collection And Use
 
@@ -38,13 +37,19 @@ We use our third party tracking-utility partner to gather certain information au
 
 We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. Information Related To Data We Collect About You
 
-## What Information We Collect
+  
+
+
+### What Information We Collect
 
 **Personal Information:** To use the Service or to contact us for information about our services, you will have to provide the personal information needed to activate your account. By “personal information,” we mean data that is unique to an individual, such as your name, e-mail address, company information, and the username, password and security token for your Salesforce.com account.
 
 **Non-Identifiable or Aggregated Data:** When you interact with Hoopla through the Site or Service, we receive and store certain personally non-identifiable information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. Hoopla may store such information itself or such information may be included in databases owned and maintained by Hoopla affiliates, agents or service providers. This Site may use such information and pool it with other information to track, for example, the total number of visitors to our Site, the number of visitors to each page of our Site, the domain names of our visitors’ Internet service providers, and how our users use and interact with the Service. Also, in an ongoing effort to better understand and serve the users of the Service, Hoopla often conducts research on its customer demographics, interests and behavior based on the personal information and other information provided to us. This research may be compiled and analyzed on an aggregate basis. Hoopla may share this non-identifiable and aggregate data with its affiliates, agents and business partners, but this type of non-identifiable and aggregate information does not identify you personally. Hoopla may also disclose aggregated user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes.
 
-## How We Use Information
+  
+
+
+### How We Use Information
 
 If you provide personal information for a certain reason, we may use the personal information in connection with the reason for which it was provided. We use your personal information to provide you with access to your account, contact you or respond to questions about your account, resolve any problems you may have, send you reminders, better understand our users, and ask you for your feedback on how we can improve our Service. We will never sell or share your personal information with third parties for marketing purposes or in ways other than as outlined in this privacy policy.
 
@@ -54,7 +59,9 @@ We use other third parties such as an email service provider to send out emails 
 
 If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at [support@hoopla.net](mailto:support@hoopla.net).
 
-Beyond the uses described in this Privacy Policy, Hoopla will not disclose to third parties any personal information gathered from you unless (a) you give us permission to share your personal information, (b) we are required to disclose such information by any applicable law or legal process (like a subpoena or court order) or (c) it is necessary to (i) protect and defend the rights or property of Hoopla, (ii) act in urgent circumstances to protect the personal safety of users of the Site or the public, or (iii) protect against legal liability. If Hoopla intends on using any personal information in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the personal information is collected. Security
+Beyond the uses described in this Privacy Policy, Hoopla will not disclose to third parties any personal information gathered from you unless (a) you give us permission to share your personal information, (b) we are required to disclose such information by any applicable law or legal process (like a subpoena or court order) or (c) it is necessary to (i) protect and defend the rights or property of Hoopla, (ii) act in urgent circumstances to protect the personal safety of users of the Site or the public, or (iii) protect against legal liability. If Hoopla intends on using any personal information in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the personal information is collected.
+
+#### Security
 
 Hoopla utilizes generally-accepted security measures (such as encryption) to protect against the misuse or unauthorized disclosure of any sensitive personal information you submit to us (such as log in information). However, like other Internet sites, we cannot guarantee that it is completely secure against attempts to evade security measures or intercept transmissions over the Internet. You are responsible for maintaining the security of your username and password for the Service.
 
@@ -78,8 +85,9 @@ The Service is not targeted to people under the age of 18, and Hoopla does not k
 
 #### Your Choices
 
-You can use the Site without providing any personal information. If you choose not to provide any personal information, you may not be able to use certain parts of the Service.  
-Access To Personal Information
+You can use the Site without providing any personal information. If you choose not to provide any personal information, you may not be able to use certain parts of the Service.
+
+#### Access To Personal Information
 
 If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete/deactivate it by making the change on our member information page or by emailing our Customer Support at [support@hoopla.net](mailto:support@hoopla) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days.
 
@@ -87,11 +95,7 @@ We will retain your information for as long as your account is active or as need
 
 #### Testimonials
 
-We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. We do obtain the customer’s consent via email prior to posting the testimonial to post their name along with their testimonial. If you want your testimonial removed please contact us at [privacy@hoopla.net](mailto:privacy@hoopla.net)
-
-#### Testimonials
-
-We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. We do obtain the customer’s consent via email prior to posting the testimonial to post their name along with their testimonial. If you want your testimonial removed please contact us at privacy@hoopla.net
+We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. We do obtain the customer’s consent via email prior to posting the testimonial to post their name along with their testimonial. If you want your testimonial removed please contact us at [support@hoopla.net](mailto:support@hoopla)
 
 #### Blogs
 
@@ -105,14 +109,41 @@ Our Web site includes Social Media Features, such as the Facebook Like button an
 
 This privacy policy applies only to personal information collected by Hoopla through the Site or on the Service. The Service may contain links to third-party sites or services, and once you leave the Service to visit another site, we have no control over your privacy or security issues even if you reached the other site by clicking on a link within the Service. We recommend you familiarize yourself with the policies of these other sites and services. Hoopla assumes no responsibility or liability for the availability or content of these outside sites, including any products, services or materials which may be available from such sites. Therefore, any concerns a user may have regarding any other site should be directed to the relevant site administrator or webmaster.
 
-## Other Terms and Conditions
+  
 
-Your access to and use of this Site and the Service is subject to the Hoopla Terms of Use.
+
+### Other Terms and Conditions
+
+Your access to and use of this Site and the Service is subject to the [ Hoopla Terms of Use.](https://web.archive.org/terms-of-use)
+
+#### Dispute Resolution
+
+Any questions or concerns regarding the use or disclosure of personal information should be directed to Hoopla Software, Inc. at the address given below. Hoopla Software, Inc. will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this Policy.
+
+#### Privacy Complaints
+
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, Hoopla Software, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Hoopla Software, Inc. at:
+
+Hoopla Software, Inc.
+
+Safe Harbor
+
+84 W. Santa Clara Street, Suite 460
+
+San Jose, CA 95113
+
+Or via email at [privacy@hoopla.net](mailto:privacy@hoopla.net)   
+
+
+Hoopla Software, Inc. has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Hoopla Software, Inc., please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
 
 #### Changes to this Policy
 
-If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. You are bound by changes to the Privacy Policy when you use the site after those changes have been posted. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. This Privacy Policy was last updated on the date indicated above.
+This Policy may be amended from time to time, consistent with the requirements of the Safe Harbor Principles. Appropriate public notice will be given concerning material amendments or changes to this Policy. We encourage you to periodically review this page for the latest information on our privacy practices. This Privacy Policy was last updated on the date indicated above.
 
-## Questions
+  
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Site, please contact us at [privacy@hoopla.net](mailto:privacy@hoopla.net.) or via postal mail at 84 W. Santa Clara Street, Suite 750, San Jose, CA 95113
+
+### Questions
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Site, please contact us at [](https://web.archive.org/web/20160505090531id_/https%3A//www.hoopla.net/index.html#) [privacy@hoopla.net](mailto:privacy@hoopla.net.) or via postal mail at 84 W. Santa Clara Street, Suite 750, San Jose, CA 95113
