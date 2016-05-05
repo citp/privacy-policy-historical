@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getmailbird.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209181912id_/https%3A//www.getmailbird.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmailbird.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505083318id_/https%3A//www.getmailbird.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mailbird
 
@@ -69,12 +69,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 Mailbird  
-www.getmailbird.com  
-Jalan Pratu Made Rambug Perumahan Bumisanti No. 10  
-Banjar Sasih Batubulan  
-Gianyar 80542  
-BALI, Indonesia  
-+62 812 3716 9137  
 al@getmailbird.com
 
-This document was last updated on October 11, 2012
+This document was last updated on March 18, 2016
