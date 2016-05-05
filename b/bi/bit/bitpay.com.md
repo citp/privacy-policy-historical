@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bitpay.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906060725id_/https%3A//bitpay.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitpay.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505053510id_/https%3A//bitpay.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BitPay
-
-[Revision History](https://github.com/bitpay/bitpay-website/commits/master/src/about/privacy.jade)
 
 ## Scope and Consent
 
