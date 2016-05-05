@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rwandair.com privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021081222id_/http%3A//www.rwandair.com/%3Farticle118) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rwandair.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505175215id_/http%3A//www.rwandair.com/%3Farticle118) for the most accurate reproduction.*
 
 # Rwandair - Fly our Dream to the Heart of Africa.
 
@@ -21,7 +21,7 @@ All credit card transactions are processed by and via our payment processing par
 PayGate uses industry-standard data encryption to protect your online transaction, namely SSL3 (Secure Socket Layer 3). You may visit PayGate website to view their security certificate and policies. RwandAir takes responsibility for all aspects relating to the transaction including sale of goods and services sold on this website, customer services and support, dispute resolutions and delivery of goods.
 
 For even more security, you may visit your respective card manufacturer’s website and complete the additional security measures provided, such asMasterCardÃ‚Â® Secure CodeÃ¢â€žÂ¢ or VisaÃ‚Â® Verified By VisaÃ¢â€žÂ¢.  
-For more information, please contact us at this address :  
+For more information, please contact us at this address:  
 RwandAir, Kigali International Airport, top floor. P.O. Box 7275 Kigali, Rwanda. AttneCommerce and Online Marketing, Commercial Department.  
-Support email : support@rwandair.com  
-Support telephone : +250-252 503687 Fax : +250- 252 503686
+Support email: support@rwandair.com  
+Support telephone: +250-252 503687 Fax: +250- 252 503686
