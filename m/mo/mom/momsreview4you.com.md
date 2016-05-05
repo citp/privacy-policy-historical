@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the momsreview4you.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209013553id_/http%3A//www.asparkleofgenius.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momsreview4you.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505081216id_/http%3A//www.asparkleofgenius.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - A Sparkle of Genius
 
-[](http://www.asparkleofgenius.com/wp-content/uploads/2014/03/PrivacyPolicy.jpg)
+[](http://i1.wp.com/www.asparkleofgenius.com/wp-content/uploads/2014/03/PrivacyPolicy.jpg)
 
 Privacy Policy- Questions and Answers-
 
