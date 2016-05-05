@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the insightexpress.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906042706id_/https%3A//www.millwardbrowndigital.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insightexpress.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506015052id_/https%3A//www.millwardbrowndigital.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy : Millward Brown Digital
+# Privacy Policy | Millward Brown Digital
 
 **Last updated: March 18, 2015**
 
