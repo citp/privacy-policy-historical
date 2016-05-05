@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smwcentral.net privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216051718id_/http%3A//www.smwcentral.net%3Fp%3Dcms%26page%3D1148011-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smwcentral.net privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505152015id_/http%3A//www.smwcentral.net%3Fp%3Dcms%26page%3D1148011-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SMW Central
 
