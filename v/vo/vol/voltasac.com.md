@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voltasac.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104143243id_/http%3A//www.voltasac.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D65%26Itemid%3D65) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voltasac.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505152153id_/http%3A//www.voltasac.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D65%26Itemid%3D65) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -59,3 +59,5 @@ You are entitled to contact Voltas for modification of any inaccurate informatio
 In case of any grievance with regard to any of the above, you may write to / or contact Ms Gauri Ganesh ( [ggauri@voltas.com](mailto:ggauri@voltas.com)), Corporate Communications Department, Voltas House 'A', Dr. Babasaheb Ambedkar Road, Chinchpokli, Mumbai- 400 033, India.
 
 If you visit or access our website and/ or provide us with information, it is deemed that you have read this and agree with the terms and conditions set out in this policy. If you do not agree to this, please do not visit or access the website or provide us with information. Your visit to this website or submission to any information is deemed to be of your own volition. This consent shall be equated to that given in writing, wherever there is a requirement under law for written consent. In case you withdraw your consent anytime, we might not be able to provide you with our products and services or otherwise accede to your request for information. This website also consists of links to other websites, and we are in no way liable or responsible for the content, authenticity, accuracy, or privacy policies of the same.
+
+[Voltas App Privacy Policy](http://voltasac.com/index.php?option=com_content&view=article&id=158&Itemid=101)
