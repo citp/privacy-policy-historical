@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezonlineclassifieds.com privacy policy that was archived on 2015-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150904114729id_/http%3A//bigcityadvertising.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezonlineclassifieds.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506023130id_/http%3A//bigcityadvertising.com/privacy.asp) for the most accurate reproduction.*
 
 # Big City Advertising's Privacy Policy
 
