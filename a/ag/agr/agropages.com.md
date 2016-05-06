@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agropages.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914195701id_/http%3A//www.agropages.com/policy/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agropages.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506050305id_/http%3A//www.agropages.com/policy/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Agrochemicals, Formulations, Intermediates, Insecticide, Herbicide, Pesticides
 
