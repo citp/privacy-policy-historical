@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the icashcard.in privacy policy that was archived on 2015-03-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150316171732id_/https%3A//icashcard.in/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the icashcard.in privacy policy that was archived on 2016-05-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160506201307id_/https%3A//www.icashcard.in/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class=""><head id="ctl00_Head1">
     
     <title>iCASHCARD – Privacy Policy</title>
     <meta name="description" content="iCASHCARD Privacy Policy of use vary from time to time. Kindly visit the iCASHCARD Privacy Policy frequently for the updated version">
@@ -15,12 +15,10 @@
     <script src="Content/js/jquery.scrollUp.min.js"></script>
     <script src="Content/js/price-range.js"></script>
     <script src="Content/js/jquery.prettyPhoto.js"></script>
-    <script src="Content/js/main.js"></script>
     <script src="Content/js/comman.js"></script>
     <script src="Content/js/gmaps.js" type="text/javascript"></script>
     <script src="Contents/CommonValidation.js" type="text/javascript"></script>
-      <script src="Content/js/Alert.js" type="text/javascript"></script>
-    
+      <script src="Content/js/Alert.js" type="text/javascript"></script>  
     <link href="Images/1.ico" rel="shortcut icon">
         <!--[if lt IE 9]>
       <script src="Content/js/html5shiv.js"></script>
@@ -28,24 +26,51 @@
       <![endif]-->
     
     
-    
+    <style>
+       .btn.btn-primary {
+  background: #f6a868;
+  border: 0 none;
+  border-radius: 4px;
+  margin-top: 16px;
+  background-color: #D16E1B;
+  display: inline-block;
+  vertical-align: baseline;
+  background-image: linear-gradient(-179deg, #FDCE42 0%, #F75500 100%);
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.2);
+}    .LogNotification1 { position:fixed;
+                        height:70px;
+                        width:100%;
+                        text-align:center;               
+                        border:solid 1px #FFF;
+                        margin:0px auto;
+                        z-index: 999;
+                        background-color: #FFF;opacity: 0.98;
+/*font-family:Arial;*/}
+.Notification1 { position:fixed;
+                        height:1400px;
+                        width:100%;
+                        text-align:center;
+                        padding-top:5px;
+                        border:solid 1px #FFF;
+                        margin:0px auto;
+                        z-index: 999;                        
+                        background-color: #5F5F5F;opacity: 0.98;
+color:Red;font-weight:bold;font-size:12px;/*font-family:Arial;*/}        
+    </style>
     <script type="text/javascript">
-        $(document).ready(function () {
-
-            $(".tooltipL").tipTip({ maxWidth: "auto", edgeOffset: 10 });
-
-        });
-
         function disableBackButton() {
             window.history.forward();
         }
+        window.onload = disableBackButton();
+        window.onpageshow = function (evts) {
+            if (evts.persisted) {
+                disableBackButton();
+            }
+        };   
         function onloadscript() {
-
             Sys.WebForms.PageRequestManager.getInstance().add_endRequest(addWebKit);
             addWebKit();
-
         }
-
         ddsmoothmenu.init({
             mainmenuid: "navigation", //menu DIV id
             orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
@@ -53,10 +78,112 @@
             //customtheme: ["#1c5a80", "#18374a"],
             contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
         });
-
-        function GetCurrentPageName() { var sPath = window.location.pathname; var sPage = sPath.substring(sPath.lastIndexOf('/') + 1); return sPage.toLowerCase() } 
-         
-         
+      function GetCurrentPageName() { var sPath = window.location.pathname; var sPage = sPath.substring(sPath.lastIndexOf('/') + 1); return sPage.toLowerCase() }
+        </script>
+    <script type="text/javascript">
+        var nVer = navigator.appVersion;
+        var nAgt = navigator.userAgent;
+        var browserName = navigator.appName;
+        var fullVersion = '' + parseFloat(navigator.appVersion);
+        var majorVersion = parseInt(navigator.appVersion, 10);
+        var nameOffset, verOffset, ix;
+        // In Opera 15+, the true version is after "OPR/" 
+        if ((verOffset = nAgt.indexOf("OPR/")) != -1) {
+            browserName = "Opera";
+            fullVersion = nAgt.substring(verOffset + 4);
+        }
+        // In older Opera, the true version is after "Opera" or after "Version"
+        else if ((verOffset = nAgt.indexOf("Opera")) != -1) {
+            browserName = "Opera";
+            fullVersion = nAgt.substring(verOffset + 6);
+            if ((verOffset = nAgt.indexOf("Version")) != -1)
+                fullVersion = nAgt.substring(verOffset + 8);
+        }
+        // In MSIE, the true version is after "MSIE" in userAgent
+        else if ((verOffset = nAgt.indexOf("MSIE")) != -1) {
+            browserName = "Microsoft Internet Explorer";
+            fullVersion = nAgt.substring(verOffset + 5);
+        }
+        // In Chrome, the true version is after "Chrome" 
+        else if ((verOffset = nAgt.indexOf("Chrome")) != -1) {
+            browserName = "Chrome";
+            fullVersion = nAgt.substring(verOffset + 7);
+        }
+        // In Safari, the true version is after "Safari" or after "Version" 
+        else if ((verOffset = nAgt.indexOf("Safari")) != -1) {
+            browserName = "Safari";
+            fullVersion = nAgt.substring(verOffset + 7);
+            if ((verOffset = nAgt.indexOf("Version")) != -1)
+                fullVersion = nAgt.substring(verOffset + 8);
+        }
+        // In Firefox, the true version is after "Firefox" 
+        else if ((verOffset = nAgt.indexOf("Firefox")) != -1) {
+            browserName = "Firefox";
+            fullVersion = nAgt.substring(verOffset + 8);
+        }
+        // In most other browsers, "name/version" is at the end of userAgent 
+        else if ((nameOffset = nAgt.lastIndexOf(' ') + 1) <
+                   (verOffset = nAgt.lastIndexOf('/'))) {
+            browserName = nAgt.substring(nameOffset, verOffset);
+            fullVersion = nAgt.substring(verOffset + 1);
+            if (browserName.toLowerCase() == browserName.toUpperCase()) {
+                browserName = navigator.appName;
+            }
+        }
+        // trim the fullVersion string at semicolon/space if present
+        if ((ix = fullVersion.indexOf(";")) != -1)
+            fullVersion = fullVersion.substring(0, ix);
+        if ((ix = fullVersion.indexOf(" ")) != -1)
+            fullVersion = fullVersion.substring(0, ix);
+        majorVersion = parseInt('' + fullVersion, 10);
+        if (isNaN(majorVersion)) {
+            fullVersion = '' + parseFloat(navigator.appVersion);
+            majorVersion = parseInt(navigator.appVersion, 10);
+        }
+        if (browserName == "Chrome") {
+            if (parseInt(majorVersion) <= 13) {
+                            setTimeout(function () { loaddata(); }, 300)
+            }
+        }
+        else if (browserName == "Safari") {
+            if (parseInt(majorVersion) <= 3) {
+                            setTimeout(function () { loaddata(); }, 300)
+            }
+        }
+        else if (browserName == "Opera") {
+            if (parseInt(majorVersion) <= 9) {
+                            setTimeout(function () { loaddata(); }, 300)
+            }
+        }
+        else if (browserName == "Microsoft Internet Explorer") {
+            if (parseInt(majorVersion) <= 8) {
+                   setTimeout(function () { loaddata(); }, 300)
+            }
+        }
+        else if (browserName == "Firefox") {
+            if (parseInt(majorVersion) <= 4) {
+                            setTimeout(function () { loaddata(); }, 300)
+            }
+        }
+        function loaddata() {
+            
+            $('.version').hide();
+            $('#Notification').show();
+            $(".version").css("display", "none");
+            $("#Notification").css("display", "block");
+        }
+        //        document.write(''
+        // + 'Browser name  = ' + browserName + '<br>'
+        // + 'Full version  = ' + fullVersion + '<br>'
+        // + 'Major version = ' + majorVersion + '<br>'
+        // + 'navigator.appName = ' + navigator.appName + '<br>'
+        // + 'navigator.userAgent = ' + navigator.userAgent + '<br>'
+        //)
+        $(document).ready(function () {
+            function Hideimg() {
+                $("#cardimg").removeClass("bigCardIcon");
+            }
+        });
     </script>
     <script type="text/javascript">
         var _gaq = _gaq || [];
@@ -71,11 +198,12 @@
     </script>
 <title>
 
-</title></head>
+</title><style type="text/css">.fancybox-margin{margin-right:0px;}</style></head>
 <body oncontextmenu="return false" onload="onloadscript()" style="">
     <script type="text/javascript">
          function addWebKit()
             {
+              $("input").attr("autocomplete", "off");
               Sys.Browser.WebKit = {};
               if (navigator.userAgent.indexOf('WebKit/') > -1) {
                   Sys.Browser.agent = Sys.Browser.WebKit;
@@ -91,18 +219,15 @@
               });
               
               
-              
-            }
-          
+            }          
     </script>
-   <script>
-   
+   <script>   
 </script>
-    <form name="aspnetForm" method="post" action="privacy-policy?id=privacy" id="aspnetForm">
+    <form name="aspnetForm" method="post" action="./privacy-policy?id=privacy" id="aspnetForm">
 <div>
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTYxMDc5Mjg3Mg9kFgJmD2QWAgICD2QWAgIaD2QWAmYPZBYCAgEPZBYUAgEPFgIeBWNsYXNzBQZpbWdidG5kAgMPZBYCAgEPFgIfAAULaW1nYnRuaG92ZXJkAgUPZBYCAgEPFgIfAAUGaW1nYnRuZAIHD2QWAgIBDxYCHwAFBmltZ2J0bmQCCQ9kFgICAQ8WAh8ABQZpbWdidG5kAgsPZBYCAgEPFgIfAAUGaW1nYnRuZAINDxYCHgdWaXNpYmxlaGQCEQ8WAh8BaGQCEw8WAh8BaGQCFQ8WAh8BaGRk0EITEblPn/mq9ftLlDVvki1306J5pc9ObKSm4MafHfc=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTYxMDc5Mjg3Mg9kFgJmD2QWAgICD2QWAgIaD2QWAmYPZBYCAgEPZBYUAgEPFgIeBWNsYXNzBQZpbWdidG5kAgMPZBYCAgEPFgIfAAULaW1nYnRuaG92ZXJkAgUPZBYCAgEPFgIfAAUGaW1nYnRuZAIHD2QWAgIBDxYCHwAFBmltZ2J0bmQCCQ9kFgICAQ8WAh8ABQZpbWdidG5kAgsPZBYCAgEPFgIfAAUGaW1nYnRuZAINDxYCHgdWaXNpYmxlaGQCEQ8WAh8BaGQCEw8WAh8BaGQCFQ8WAh8BaGRkVjJPNNi0PeqMRDA9yHR0JWNhiucdlDjCyWVVTR+LvPg=">
 </div>
 
 <script type="text/javascript">
@@ -122,15 +247,16 @@ function __doPostBack(eventTarget, eventArgument) {
 </script>
 
 
-<script src="/WebResource.axd?d=bGbSEVbYk5UAY5jgn79ljO7j4v1dYS-K10KL3x9D4rW9vlxzjKMpV9pQwrXS2zw-9t_1nfPxhRAmrBKqUqkMd4kpgpEGA8Hn41w5l3Myw-Q1&amp;t=634776750793002537" type="text/javascript"></script>
+<script src="/WebResource.axd?d=TuCEJc659W_W_Rpyg99amWFjqO2RxW2IwZ7j_qvl_fqJS9xCGLZELQ36gh9UcmTcby6rzxtXfmHkLMoekoj-5UNr8Nx0uaTA6bnQESVabLc1&amp;t=635793216349294682" type="text/javascript"></script>
 
 
-<script src="/ScriptResource.axd?d=kFwNkf6gUTfkGwEPr8iZ8-ThOOrLdnzmroiVn2qGPTCi-RC-oxVXK5XzqLLSjRV5zkXmGcAdoLK-TvwklC84f1PlqmSsfxht6FCrlfb0fone77ui7FjYIcDS655iiV-3GTq5GfpBUkbWsImampEfos9IAhxZB_Pzd0Hnn-wvM841&amp;t=6119e399" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=DlXR77ZnoxHPY8NlBXrmizIrYKFsb2gmaIyqAO4D5-BL6390t11mUpFEKPL-WmbSGQMqzKVpTUm7TQOarCgTHqNbytgEZ3Z9YZ9rct5g_yafJC5B-LHEzHJeWmfN---KugpFxpx7fZ1vCFY9UtbVJvE6TQC97QXB_TM08S0aQOuIvSTDjv8SfNbkOgJIhRrQ0&amp;t=6119e399" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=G2aVcnAPZ3lcPojb7tzzEt1DBAjLEaZCS8g_-Prf9yUdGaolkMTAcmZGSgb1CDK1I1GlRCHLVmRy53BZxAthw6gZ3chgT3VYzvtLtAR1vHBcuOlCBjR8ckk2KzoF6Bj_jOyhwQDtIKmj7rkrQ5T_AgswxCCChqEQvfPwX0ji3ZQ1&amp;t=72e85ccd" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=keezGd-y5KR6czRE9BPRRJa1TqazD8CodtfSVcfrPeUcmRLBERDam_Q9wUaXsdXBPsCic3YzoqCwOjXPfktMwQ-7qMMJYBqsL2LCjWw6WCwP07rC8KClVkNYJipn-hs6OGAab2tJnPmh92D-HrmAy8SqQVb9AgzNDiidpp_yMNE158PmHmcq1PIfL_nIYkS50&amp;t=72e85ccd" type="text/javascript"></script>
 <script src="Scripts/webkit.js" type="text/javascript"></script>
 <div>
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAZMRHpKn196wYAF9tfDqNlRK8SYajFy5sWgIUvh2oqlFNlXkgcUGIuGX+Oz7JsdzQ/cTniNX/PIl/4b0bIuHHYpg1+QLhHszKAdsTC7A+p1Na7WWSW4SbRpWhS/STR7jjR/XQh7ttoBLi7poztvTueaYBWOvqoyVrmGe5vq1AHWAw==">
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="34CE05A4">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAbSBGDWiP2jvwJ/+U5nRD0MK8SYajFy5sWgIUvh2oqlFNlXkgcUGIuGX+Oz7JsdzQ/cTniNX/PIl/4b0bIuHHYpg1+QLhHszKAdsTC7A+p1Na7WWSW4SbRpWhS/STR7jjT4noRV1oq1XxGJy7aObvr9fdVF0DxqBgR1pqNrcTumJA==">
 </div>
     <script type="text/javascript">
 //<![CDATA[
@@ -138,18 +264,31 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
 //]]>
 </script>
 
-    <!-- set up the modal to start hidden and fade in and out -->
-
- 
+    <!-- set up the modal to start hidden and fade in and out -->    
+<!-- sometime later, probably inside your on load event callback --> 
 <!-- sometime later, probably inside your on load event callback -->
+<div class="Notification1" id="Notification" style="display:none">
+    <div class="LogNotification1" align="center">
 
- 
-<!-- sometime later, probably inside your on load event callback -->
-
-
+        <img src="Content/images/Icashlogo.gif" alt="Home" title="Home" align="left" style="margin-left: 50px;">
+        <p style="padding-top: 20px; text-indent: 20px;">
+            Your IE(Internet Explorer) support very less feature only. Please use upgrade browser
+            or Use browser like <a href="http://www.mozilla.org/en-US/firefox/new/" target="_blank">
+                FIREFOX</a>, <a href="https://www.google.com/intl/en/chrome/browser/" target="_blank">
+                    CHROME</a>, <a href="http://www.opera.com/download/" target="_blank">OPERA</a></p>
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <div>
+        <img src="Content/images/upgrade.jpg" alt="CSS3 Slider" title=""></div>
+    </div>
     <header id="header">
 
-                  <div class="header_top">
+                  <div class="header_top version">
                      <!--header_top-->
                      <div class="container">
                         <div class="row">
@@ -189,14 +328,17 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
                   <!--/header_top-->
                </header>
               
-    <div class="header-middle ">
+    <div class="header-middle version">
         <!--header-middle-->
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
                     <div class="logo pull-left">
-                        <a href="home">
-                            <img src="Content/images/logo.jpg" alt="Home" title="Home"></a>
+                        <a href="home" target="_blank">
+                          
+                            <img src=" Content/images/Icashlogo.gif" alt="Home" title="Home">
+                           
+                            </a>
                     </div>
                     <div class="navbar-header pull-right">
                         <button type="button" id="btnmlmenu" class="navbar-toggle" style="background-color: #FE980F" data-toggle="collapse" data-target="#ml-menu">
@@ -225,7 +367,8 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
     </div>
 
     
-    <!--/header-middle-->
+    <!--/header-middle--> <div class="version">
+
     <div id="ctl00_UpdatePanel2" class=" container">
 	
             
@@ -249,9 +392,9 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
             font-weight: bold;
         }
         
-        div >.imgbtnhover
+        div > .imgbtnhover
         {
-        	color:#FFF;
+            color: #FFF;
         }
         .anchortext
         {
@@ -259,65 +402,60 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
         }
     </style>
     <div class="container ">
-      <div class="col-sm-9 removepadding">
-              <div class="col-sm-12 removepadding ">
-             <div class="BannerHeading"> 	
-          <div class="top_link  ">About Us </div>
-    </div>
-    </div>
-    
-     <div class="col-sm-3 removepadding">
-                    
-                      <div class="product-space"></div>
-                                   
-                    <div>
-                        <a id="ctl00_ContentPlaceHolder1_divabout" class="imgbtn" style="text-decoration: none" target="_self" href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$divabout','')"><i class="arrows"></i><span style="text-decoration: none;">About GI Technology </span>
-                            </a></div>
-                   <div class="product-space"></div>
-                   
-                   
-                   
-                   
-                    <div id="ctl00_ContentPlaceHolder1_privacy">
-                        <a id="ctl00_ContentPlaceHolder1_divpvcy" class="imgbtnhover" style="text-decoration: none" target="_self" href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$divpvcy','')">
-                               <i class="arrows"></i><span style="text-decoration: none;">Privacy Policy </span>
-                            </a></div>
-                   <div class="product-space"></div>
-                   
-                   
-                   
-                    <div id="ctl00_ContentPlaceHolder1_Div2">
-                        <a href="Awards" id="ctl00_ContentPlaceHolder1_divcertify" class="imgbtn" style="text-decoration: none" target="_parent" alt="Awards" title="Awards">
-                               <i class="arrows"></i><span style="text-decoration: none;">Certification &amp; Awards </span>
-                            
-                        </a>
+        <div class="col-sm-9 removepadding">
+            <div class="col-sm-12 removepadding ">
+                <div class="BannerHeading">
+                    <div class="top_link  ">
+                        About Us
                     </div>
-                    <div class="product-space"></div>
-                    
-                    <div id="ctl00_ContentPlaceHolder1_Div3">
-                        <a id="ctl00_ContentPlaceHolder1_divmedia" class="imgbtn" style="text-decoration: none" target="_self" href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$divmedia','')">   <i class="arrows"></i><span style="text-decoration: none;">Media Center </span>
-                            </a></div>
-                  <div class="product-space"></div>
-                  
-                    <div id="ctl00_ContentPlaceHolder1_Div4">
-                        <a id="ctl00_ContentPlaceHolder1_divjobs" class="imgbtn" style="text-decoration: none" target="_self" href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$divjobs','')"><i class="arrows"></i><span style="text-decoration: none;">Jobs </span>
-                            </a></div>
-                               <div class="product-space"></div>
-                                    <div id="ctl00_ContentPlaceHolder1_Div1">
-                        <a id="ctl00_ContentPlaceHolder1_divCustomerGP" class="imgbtn" style="text-decoration: none" target="_self" href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$divCustomerGP','')"><i class="arrows"></i><span style="text-decoration: none;">CG Policy </span>
-                            </a></div>
-                             <div class="product-space">
-                           </div>
-                    </div>
-         
-       
-           
+                </div>
+            </div>
+            <div class="col-sm-3 removepadding">
+                
+                <div class="product-space">
+                </div>
+                <div>
+                    <a id="ctl00_ContentPlaceHolder1_divabout" class="imgbtn" style="text-decoration: none" target="_self" href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$divabout','')"><i class="arrows"></i><span style="text-decoration: none;">About GI Technology
+                        </span>
+                        </a></div>
+                <div class="product-space">
+                </div>
+                <div id="ctl00_ContentPlaceHolder1_privacy">
+                    <a id="ctl00_ContentPlaceHolder1_divpvcy" class="imgbtnhover" style="text-decoration: none" target="_self" href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$divpvcy','')"><i class="arrows"></i><span style="text-decoration: none;">Privacy Policy
+                        </span>
+                        </a></div>
+                <div class="product-space">
+                </div>
+                <div id="ctl00_ContentPlaceHolder1_Div2">
+                    <a href="Awards" id="ctl00_ContentPlaceHolder1_divcertify" class="imgbtn" style="text-decoration: none" target="_parent" alt="Awards" title="Awards"><i class="arrows"></i><span style="text-decoration: none;">
+                            Certification &amp; Awards </span>
+                        
+                    </a>
+                </div>
+                <div class="product-space">
+                </div>
+                <div id="ctl00_ContentPlaceHolder1_Div3">
+                    <a id="ctl00_ContentPlaceHolder1_divmedia" class="imgbtn" style="text-decoration: none" target="_self" href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$divmedia','')"><i class="arrows"></i><span style="text-decoration: none;">Media Center
+                        </span>
+                        </a></div>
+                <div class="product-space">
+                </div>
+                <div id="ctl00_ContentPlaceHolder1_Div4">
+                    <a id="ctl00_ContentPlaceHolder1_divjobs" class="imgbtn" style="text-decoration: none" target="_self" href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$divjobs','')"><i class="arrows"></i><span style="text-decoration: none;">Jobs </span>
+                        </a></div>
+                <div class="product-space">
+                </div>
+                <div id="ctl00_ContentPlaceHolder1_Div1">
+                    <a id="ctl00_ContentPlaceHolder1_divCustomerGP" class="imgbtn" style="text-decoration: none" target="_self" href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$divCustomerGP','')"><i class="arrows"></i><span style="text-decoration: none;">CG Policy
+                        </span>
+                        </a></div>
+                <div class="product-space">
+                </div>
+            </div>
             
-     <div class="col-sm-9 removepadding ">
-     <div class="product-space">
-                    </div>
-            
-               
+            <div class="col-sm-9 removepadding ">
+                <div class="product-space">
+                </div>
                 
                 <div id="ctl00_ContentPlaceHolder1_privacyPolicy" class="col-sm-12">
                     <h3 class="removepadding">
@@ -331,23 +469,23 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
                             information is a concern to our customers. We have taken the utmost care in establishing
                             and implementing policies and procedures to protect this information.<br>
                             <br>
-                            &nbsp;&nbsp;We believe that your privacy should never be compromised. At the same time,
-                            we want to offer you the array of financial products and services you need to accomplish
-                            your financial goals. We believe we can do both by adhering to the provisions of
-                            this privacy notice. For that reason, we have developed this Privacy Policy to explain
-                            what information we collect and how we use information gathered on this website.
-                            Your visit to this website is subject to this Privacy Policy. You must be at least
-                            18 (the age of majority) to register for an <b>iCashCard</b> account or provide
-                            other personal information to us. By browsing and using this site you acknowledge
-                            that you have read, understood and agree to be bound by this Privacy Agreement and
-                            to comply with all applicable laws and regulations.</span></p>
+                            &nbsp;&nbsp;We believe that your privacy should never be compromised. At the same
+                            time, we want to offer you the array of financial products and services you need
+                            to accomplish your financial goals. We believe we can do both by adhering to the
+                            provisions of this privacy notice. For that reason, we have developed this Privacy
+                            Policy to explain what information we collect and how we use information gathered
+                            on this website. Your visit to this website is subject to this Privacy Policy. You
+                            must be at least 18 (the age of majority) to register for an <b>iCashCard</b> account
+                            or provide other personal information to us. By browsing and using this site you
+                            acknowledge that you have read, understood and agree to be bound by this Privacy
+                            Agreement and to comply with all applicable laws and regulations.</span></p>
                     <br>
                     <h5>
                         1. The Information We Gather&nbsp;</h5>
                     <p class="contentsinnerdown">
-                        <span style="font-family: Arial">&nbsp;&nbsp;In order for us to provide you with our services
-                            and products, we may collect personal information such as your name, address, phone
-                            number, date of birth, or any other information that may be required for identification
+                        <span style="font-family: Arial">&nbsp;&nbsp;In order for us to provide you with our
+                            services and products, we may collect personal information such as your name, address,
+                            phone number, date of birth, or any other information that may be required for identification
                             purposes. The personal information that we collect depends on the products and services
                             that are being provided or requested. If you do not provide us with the information
                             asked, we may not be able to provide the products or services you have requested.
@@ -364,9 +502,9 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
                     <h5>
                         2. Why we gather your information:&nbsp;</h5>
                     <p class="contentsinnerdown">
-                        <span style="font-family: Arial">&nbsp;&nbsp;In order for us to provide you with our services
-                            and products, we may collect personal information such as your name, address, phone
-                            number, date of birth, or any other information that may be required for identification
+                        <span style="font-family: Arial">&nbsp;&nbsp;In order for us to provide you with our
+                            services and products, we may collect personal information such as your name, address,
+                            phone number, date of birth, or any other information that may be required for identification
                             purposes. The personal information that we collect depends on the products and services
                             that are being provided or requested. If you do not provide us with the information
                             asked, we may not be able to provide the products or services you have requested.
@@ -374,16 +512,16 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
                             maintain and administer financial services, provide excellent service, and offer
                             new products and services that may be of benefit to our customers.<br>
                             <br>
-                            &nbsp;&nbsp;We also track information like the domain name from which you contact us,
-                            the pages you request, the products you buy, the referring site, and the time that
-                            you spend on the site. For everyone who visits our website, Sub-Merchant purchase
+                            &nbsp;&nbsp;We also track information like the domain name from which you contact
+                            us, the pages you request, the products you buy, the referring site, and the time
+                            that you spend on the site. For everyone who visits our website, Sub-Merchant purchase
                             page, we log IP addresses, the type of operating system that your computer uses,
                             and the type of browser software used by you. From the IP address, we can determine
                             the Internet Service Provider and the geographic location of your point of connectivity.</span></p>
                     <h5>
                         3. Why we gather your information:</h5>
-                    <span style="font-family: Arial">&nbsp;&nbsp;We gather information about you and your account
-                        so we can </span>
+                    <span style="font-family: Arial">&nbsp;&nbsp;We gather information about you and your
+                        account so we can </span>
                     <br>
                     <ol type="a" class="contentsinnerdown">
                         <li>Deliver products and services to meet your needs,</li>
@@ -475,10 +613,10 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
                         5. Phishing emails:&nbsp;</h5>
                     <span class="contentsinnerdown">
                         <p>
-                            &nbsp;&nbsp;You may receive an email claiming to be from us with a link to what appears
-                            to be our website, where you are prompted to enter your personal and account details.
-                            We are in no way involved with this email, and the website does not belong to us
-                            or our partners.
+                            &nbsp;&nbsp;You may receive an email claiming to be from us with a link to what
+                            appears to be our website, where you are prompted to enter your personal and account
+                            details. We are in no way involved with this email, and the website does not belong
+                            to us or our partners.
                         </p>
                     </span>
                     <h5>
@@ -492,11 +630,11 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
                     <h3>
                         7. Opting out of marketing, promotions or related activities&nbsp;</h3>
                     <p class="contentsinnerdown">
-                        <span style="font-family: Arial">&nbsp;&nbsp;You may be contacted by mail, telephone or email
-                            for purposes of customer service or to be notified of related products, promotions,
-                            newsletters, customer surveys and similar materials that we may conduct or distribute
-                            from time to time. If you do not wish to receive any such communications, you may
-                            advise us that you wish to opt out:</span></p>
+                        <span style="font-family: Arial">&nbsp;&nbsp;You may be contacted by mail, telephone
+                            or email for purposes of customer service or to be notified of related products,
+                            promotions, newsletters, customer surveys and similar materials that we may conduct
+                            or distribute from time to time. If you do not wish to receive any such communications,
+                            you may advise us that you wish to opt out:</span></p>
                     <ul style="font-family: Arial">
                         <li>by mail addressed to
                             <br>
@@ -545,8 +683,8 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
                     <h5>
                         10. Cookies</h5>
                     <p class="contentsinnerdown">
-                        <span style="font-family: Arial">&nbsp;&nbsp;"Cookies" are small pieces of information sent
-                            by a web server to a web browser, which enables the server to collect information
+                        <span style="font-family: Arial">&nbsp;&nbsp;"Cookies" are small pieces of information
+                            sent by a web server to a web browser, which enables the server to collect information
                             from the browser. You can find out more about the way cookies work on <a href="http://www.cookiecentral.com" target="_blank">www.cookiecentral.com</a>. </span>
                     </p>
                     <p class="contentsinnerdown">
@@ -576,17 +714,17 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
                             customers, users or visitors. </span>
                     </p>
                     <p class="contentsinnerdown">
-                        <span style="font-family: Arial">&nbsp;&nbsp;When you give us information about another person,
-                            you confirm that they have appointed you to act for them, to consent to the processing
-                            of their personal data, including sensitive personal data and to the transfer of
-                            their information abroad and to receive on their behalf any data protection notices.
-                        </span>
+                        <span style="font-family: Arial">&nbsp;&nbsp;When you give us information about another
+                            person, you confirm that they have appointed you to act for them, to consent to
+                            the processing of their personal data, including sensitive personal data and to
+                            the transfer of their information abroad and to receive on their behalf any data
+                            protection notices. </span>
                     </p>
                     <p class="contentsinnerdown">
-                        <span style="font-family: Arial">&nbsp;&nbsp;This website takes measures to protect its data
-                            that contains information related to you. However, as a consideration for viewing
-                            this site or interacting with this site in any manner, you waive all claims of any
-                            nature against this site concerning the loss, alteration, or misuse of information.
+                        <span style="font-family: Arial">&nbsp;&nbsp;This website takes measures to protect
+                            its data that contains information related to you. However, as a consideration for
+                            viewing this site or interacting with this site in any manner, you waive all claims
+                            of any nature against this site concerning the loss, alteration, or misuse of information.
                             You must assume that it is possible for your personal data to be obtained by others,
                             such as "hackers," and used in an inappropriate manner that may cause harm to you
                             and that you agree that iCashCard/GI is not responsible to provide any damages to
@@ -640,12 +778,11 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
                                 your account details.</span>
                         </p>
                 </div>
-
-              
                 
-                 
-      </div>
-      </div>
+                
+                
+            </div>
+        </div>
         <div class="col-sm-3 removepadding">
             <div class=" col-sm-12 removepadding">
                 <div class="productinfo text-centers">
@@ -665,7 +802,6 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
                     <span class="read" style="text-decoration: none;" title="Read More">Read More<i class="arrows"></i></span></a>
                 <div class="product-dblspace">
                 </div>
-              
             </div>
             <div class="product-space">
             </div>
@@ -680,23 +816,19 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
                     <span class="read" style="text-decoration: none;" title="Read More">Read More<i class="arrows"></i></span></a>
                 <div class="product-dblspace">
                 </div>
-              
             </div>
             <div class="product-space">
             </div>
         </div>
-    
-  
     </div>
     
 
-
         
 </div>
-    
+    </div>
     <footer>
             <!--Footer-->
-            <div class="container">
+            <div class="container version">
             <div class="header_top footer1" id="footer">
                <!--header_top-->
                
@@ -769,19 +901,19 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
             </div>
             </div>
          </footer>
-    <div class="scroll_bottom_btn">
+    <div class="scroll_bottom_btn" style="display: block;">
         
         <a href="#">
             <img src="Content/images/scroll_bottom_btn.png" alt="Scroll" title="Scroll Down"></a>
         <!--<img src="/images/scroll_bottom_btn.png" alt="Scroll" title="Scroll">-->
     </div>
-    <div class="scroll_top_btn">
+    <div class="scroll_top_btn" style="display: none;">
         
         <a href="#">
             <img src="Content/images/scroll_top_btn.png" alt="Scroll" title="Scroll Top"></a>
     </div>
     </form>
-    
+
 
 
 </body></html>
