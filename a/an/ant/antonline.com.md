@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the antonline.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206155502id_/http%3A//www.antonline.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antonline.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506102518id_/http%3A//www.antonline.com/privacy.htm) for the most accurate reproduction.*
 
 # antonline.com Notebooks, Tablets, xBox , Acer , HP , Microsoft , Lenovo
 
