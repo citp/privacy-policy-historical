@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the honest.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009122428id_/https%3A//www.honest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honest.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506080031id_/https%3A//www.honest.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Honest Company
 
-This Privacy Policy is effective on April 9, 2015.
+This Privacy Policy is effective on April 7, 2016.
 
 Your privacy is very important to us. Our Privacy Policy spells out The Honest Company's commitment to respecting the privacy of the members and visitors to our site. We reserve the right to change this policy at any time, which we'll do through online posting or an email message sent directly to you. We are very careful with what we do with your information.
 
@@ -47,7 +47,7 @@ We use this information to:
 To review and update your personal information to ensure it is accurate, contact us at:
 
 The Honest Company   
-2700 Pennsylvania Ave., Suite 1200   
+2461 Santa Monica Blvd, Box #132   
 Santa Monica, CA 90404   
 Email: **[info@honest.com](mailto:info@honest.com)**   
 Phone: 1.888.862.8818 
@@ -99,7 +99,7 @@ Our Site may contain links to third party websites. When you click on a link to 
 You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, updating your communications preferences in your membership account on our website or contacting us at:
 
 The Honest Company   
-2700 Pennsylvania Ave., Suite 1200   
+2461 Santa Monica Blvd, Box #132   
 Santa Monica, CA 90404   
 Email: **[info@honest.com](mailto:info@honest.com)**   
 Phone: 1.888.862.8818 
@@ -133,7 +133,7 @@ We follow generally accepted industry standards to protect the personal informat
 If you have any questions about security on our Site, you can contact us at:
 
 The Honest Company   
-2700 Pennsylvania Ave., Suite 1200   
+2461 Santa Monica Blvd, Box #132   
 Santa Monica, CA 90404   
 Email: **[info@honest.com](mailto:info@honest.com)**   
 Phone: 1.888.862.8818 
@@ -163,9 +163,9 @@ If you are a non-U.S. user of the Site, by visiting the Site and providing us wi
 You can contact us about this Privacy Policy by writing or emailing us at the address below:
 
 The Honest Company   
-2700 Pennsylvania Ave., Suite 1200   
+2461 Santa Monica Blvd, Box #132   
 Santa Monica, CA 90404   
 Email: **[info@honest.com](mailto:info@honest.com)**   
 Phone: 1.888.862.8818 
 
-©2012 - 2015 The Honest Company, Inc. All Rights Reserved. 
+©2012 - 2016 The Honest Company, Inc. All Rights Reserved. 
