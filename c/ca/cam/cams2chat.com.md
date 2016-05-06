@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cams2chat.com privacy policy that was archived on 2015-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150331004204id_/http%3A//cams2chat.com/exec/privacy-policy.jsp%3Fnats%3DMDowOjQ) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cams2chat.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506130945id_/http%3A//www.cams2chat.com/exec/privacy-policy.jsp%3Fnats%3DMC4wLjQ0Ljc1LjAuMC4wLjAuMA) for the most accurate reproduction.*
 
 # Cams2Chat Live Asian sex chat, Asian adult cams
 
