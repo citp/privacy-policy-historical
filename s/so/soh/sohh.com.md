@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sohh.com privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923160148id_/http%3A//www.sohh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sohh.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506194031id_/http%3A//www.sohh.com/privacy-policy) for the most accurate reproduction.*
 
 # SOHH.com | Privacy Policy – For The Best In Hip-Hop News - SOHH.com
 
