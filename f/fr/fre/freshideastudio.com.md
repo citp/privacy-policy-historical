@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshideastudio.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126204021id_/http%3A//freshideastudio.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshideastudio.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506104045id_/http%3A//freshideastudio.com/disclosure) for the most accurate reproduction.*
 
 # DISCLOSURE - Fresh Idea Studio
 
