@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bzfilm.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115163804id_/http%3A//bzfilm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bzfilm.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506182631id_/http%3A//bzfilm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BZFilm.com
 
@@ -26,6 +26,14 @@ We may share information with governmental agencies or other companies assisting
 
 _**Privacy Contact Information**_  
 If you have any questions, concerns, or comments, [you can always reach us here](http://bzfilm.com/contact/).
+
+_**Refund policy**_
+
+By purchasing our services (advertising in the form of banners, text links, articles), you indicate that you have read and agree with our Privacy and Advertising policies.
+
+Since BZFilm.com offers non-tangible digital goods, we will not be able to “return” or refund the service you purchased.
+
+Please, make sure you ask everything you need regarding BZFilm’s advertising services before you make a purchase. If you are having any issues with purchased service, make sure you [contact us](http://bzfilm.com/contact/), and we will do our best to resolve the problem.
 
 [Follow @bzfilmdotcom](https://twitter.com/bzfilmdotcom)
 
