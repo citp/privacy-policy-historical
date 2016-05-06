@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grandbux.net privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029064136id_/https%3A//www.grandbux.net/index.php%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandbux.net privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506164651id_/https%3A//www.grandbux.net/index.php%3Fview%3Dprivacy) for the most accurate reproduction.*
 
 # Grandbux - One Step Ahead
 
