@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the getclef.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516064728id_/https%3A//getclef.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getclef.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507005601id_/https%3A//getclef.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Clef
+# Clef | Privacy Policy
 
 ### CLEF PRIVACY POLICY (Last revised on May 1, 2013)
 
-Protecting your privacy is our priority. This Statement of Privacy applies to the Clef website and mobile application. It explains how information is collected, used, and disclosed by Clef with respect to your access and use of Clef’s services, whether through our website ( HYPERLINK "http://www.getclef.com" www.getclef.com) or Clef’s mobile application in connection with sites that integrate Clef. By using the Clef website or mobile app, you consent to the data practices described in this statement.
+Protecting your privacy is our priority. This Statement of Privacy applies to the Clef website and mobile application. It explains how information is collected, used, and disclosed by Clef with respect to your access and use of Clef’s services, whether through our website [www.getclef.com](http://www.getclef.com/) or Clef’s mobile application in connection with sites that integrate Clef. By using the Clef website or mobile app, you consent to the data practices described in this statement.
 
 ###### Collection of your Personal Information
 
