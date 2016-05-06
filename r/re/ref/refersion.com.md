@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the refersion.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906205342id_/https%3A//www.refersion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the refersion.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506045604id_/https%3A//www.refersion.com/privacy) for the most accurate reproduction.*
 
-# Refersion - Build a Referral Program in Minutes
+# Refersion - Affiliate Tracking Platform
 
 Refersion has established this Privacy Policy to inform you how we collect and use the personal information that you provide to us and to others in the course of using our Website (the "Site") and to allow you to make an informed decision about how you will use our Site. Our "Site" include any and all of our websites, including www.refersion.com, and those domains directly associated with any of them, and all related services, applications, components, programs, software, listings, directories, tools, message boards, databases, usernames, passwords, and information offered by Refersion and made available and utilized through each of the foregoing or through the websites of our partners. References to "you" in this Privacy Policy means you, your duly authorized representatives and any entity you may represent in connection with your use of the Site.
 
@@ -10,7 +10,7 @@ By registering to use our Site and by continuing to use our Site, you are consen
 
 Our Privacy Policy addresses only our practices with respect to information we collect about you in the course of using our Site and does not apply to information about you that might be collected by a third party website or an offering linked to or otherwise accessible from our Site. Any information collected, obtained and/or used by any such third parties is subject to the privacy policies of those third parties.
 
-**Collection of your Personal Information**
+##### Collection of your Personal Information
 
 Refersion may collect personally identifiable information, such as your name, e-mail addresses, telephone and fax numbers, home or work addresses, birth date or gender, PayPal username, PayPal password and similar information. We may gather additional personal or non-personal information in the future.
 
@@ -18,7 +18,7 @@ Information about your computer hardware and software may be automatically colle
 
 Refersion encourages you to review the privacy statements of websites you choose to link to from Refersion so that you can understand how those websites collect, use and share your information. Refersion is not responsible for the privacy statements or other content on websites outside of the Refersion website.
 
-**Use of your Personal Information**
+##### Use of your Personal Information
 
 Refersion collects and uses your personal information to operate its website(s) and deliver the services you have requested.
 
@@ -30,7 +30,7 @@ Refersion may share data with trusted partners to help perform statistical analy
 
 Refersion will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Refersion or the site; (b) protect and defend the rights or property of Refersion; and, (c) act under exigent circumstances to protect the personal safety of users of Refersion, or the public. 
 
-**Use of Cookies**
+##### Use of Cookies
 
 The Refersion website may use "cookies" to help you personalize your online experience and track sales. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
@@ -38,11 +38,11 @@ One of the primary purposes of cookies is to provide a convenience feature to sa
 
 You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Refersion services or websites you visit.
 
-**Your Username and Password**
+##### Your Username and Password
 
 You are responsible for keeping your password for certain of the Site confidential and secret. Anyone given your password will have the ability to edit your user settings at any time. As such and for other important security reasons, we urge you to keep your password secure and safe at all times if you are assigned or create one. By using our Site, you acknowledge that you and you alone are responsible for the security of your username and password if you are assigned or create one.
 
-**Security of your Personal Information**
+##### Security of your Personal Information
 
 To secure your personal information from unauthorized access, use or disclosure, Refersion uses the following:
 
@@ -53,15 +53,15 @@ To secure your personal information from unauthorized access, use or disclosure,
 
 When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Sockets Layer (SSL) protocol, provided by GeoTrust.
 
-**Children Under Thirteen**
+##### Children Under Thirteen
 
 Refersion does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.
 
-**Third Party Websites**
+##### Third Party Websites
 
 You will be able to connect your Refersion account to third party accounts. BY CONNECTING YOUR REFERSION ACCOUNT TO YOUR THIRD PARTY ACCOUNT, YOU ACKNOWLEDGE AND AGREE THAT YOU ARE CONSENTING TO THE CONTINUOUS RELEASE OF INFORMATION ABOUT YOU TO OTHERS (IN ACCORDANCE WITH YOUR PRIVACY SETTINGS ON THOSE THIRD PARTY SITES). IF YOU DO NOT WANT INFORMATION ABOUT YOU, INCLUDING PERSONALLY IDENTIFYING INFORMATION, TO BE SHARED INTHIS MANNER, DO NOT USE THE THIS FEATURE. You may disconnect your account from a third party account at any time. Users may learn how to disconnect their accounts from third-party websites by accessing their account settings.
 
-**Opt-Out & Unsubscribe**
+##### Opt-Out & Unsubscribe
 
 We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from Refersion by contacting us here:
 
@@ -70,18 +70,18 @@ We respect your privacy and give you an opportunity to opt-out of receiving anno
 
 
 
-**Changes to this Privacy Policy**
+##### Changes to this Privacy Policy
 
 Refersion will occasionally update this Privacy Policy to reflect company and customer feedback. Refersion encourages you to periodically review this Privacy Policy to be informed of how Refersion is protecting your information. This Privacy Policy is subject to our Terms of Service with respect to governing law, venue, dispute resolution, limitation of damages and intellectual property ownership.
 
-**Contact Information**
+##### Contact Information
 
 Refersion welcomes your questions or comments regarding this Privacy Policy. If you believe that Refersion has not adhered to this Privacy Policy, please contact Refersion at:
 
 Refersion Inc.  
-4401 Park Avenue, #3B  
-Union City, New Jersey 07087 
+1460 Broadway  
+New York, New York 10036 
 
-Email Address: admin@refersion.com
+**Email Address:[admin@refersion.com](mailto:admin@refersion.com)**
 
-_Updated on June 10, 2015_
+_Updated on Feb 8, 2016_
