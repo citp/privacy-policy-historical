@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the successcreeations.com privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917171611id_/http%3A//successcreeations.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the successcreeations.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506100145id_/http%3A//successcreeations.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SuccessCREEations, Inc.
 
@@ -15,9 +15,9 @@ Your privacy is critically important to us. At SuccessCREEations we have a few f
 
 Below is our privacy policy which incorporates these goals:
 
-If you have questions about accessing or correcting your personal data please [contact us](http://successcreeations.com/contact/).
+If you have questions about accessing or correcting your personal data please [contact us](https://successcreeations.com/contact/).
 
-SuccessCREEations, Inc. (“ **SuccessCREEations** ”) operates several websites including [successcreeations.com](http://successcreeations.com/), [emmanuelpress.com](http://emmanuelpress.com/), [purposelydifferent.com](http://purposelydifferent.com/), [newmediaprofitpath.com](http://newmediaprofitpath.com/), and [chriscree.tv](http://chriscree.tv/). It is SuccessCREEations’ policy to respect your privacy regarding any information we may collect while operating our websites.
+SuccessCREEations, Inc. (“ **SuccessCREEations** ”) operates several websites including [successcreeations.com](https://successcreeations.com/), [emmanuelpress.com](http://emmanuelpress.com/), [purposelydifferent.com](http://purposelydifferent.com/), [newmediaprofitpath.com](http://newmediaprofitpath.com/), and [chriscree.tv](http://chriscree.tv/). It is SuccessCREEations’ policy to respect your privacy regarding any information we may collect while operating our websites.
 
 ### Website Visitors
 
