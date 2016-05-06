@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eruptionads.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813052803id_/http%3A//eruptionads.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eruptionads.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507005511id_/http%3A//www.eruptionads.com/privacy.php) for the most accurate reproduction.*
 
 # Eruption Ads
 
