@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rocklandtrust.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905113816id_/https%3A//www.rocklandtrust.com/about-us/banking-tools--resources--advice-and-faqs/security-center/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocklandtrust.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506060239id_/https%3A//www.rocklandtrust.com/about-us/banking-tools--resources--advice-and-faqs/security-center/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy › Rockland Trust
+# Privacy Policy
 
 **  
 Why?  ** |  Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.   
