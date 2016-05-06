@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findwith.me privacy policy that was archived on 2015-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150901001925id_/http%3A//www.findwith.me%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findwith.me privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506145639id_/http%3A//www.findwith.me%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy :: Findwith.me :: Whatever you're looking for, wherever you are
 
@@ -47,12 +47,10 @@ We may need to disclose your data to appropriate persons where required or permi
 
 If you have any questions about the use of your personal data please contact us at:
 
-YOUniversal Media srl  
-Via Palestro 30  
-00185 Roma  
-Italy  
-Email: [info@findwith.me](mailto:info@findwith.me)  
-Fax: +39 06 99341558
+YOUniversal Next Limited  
+51/52 Fitzwilliam Square W - Dublin 2  
+EIRE  
+Email: [info@findwith.me](mailto:info@findwith.me)
 
 ### Changes to the Policy
 
