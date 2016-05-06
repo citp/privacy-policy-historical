@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onestatfree.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035714id_/http%3A//www.onestatfree.com/html/free_web_hit_counter.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onestatfree.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506200250id_/http%3A//www.onestatfree.com/html/free_web_hit_counter.html) for the most accurate reproduction.*
 
 # OneStat Free hit and web counter
 
