@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gnarks.com privacy policy that was archived on 2015-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150820061941id_/http%3A//gnarks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gnarks.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506221418id_/https%3A//gnarks.com/privacy-policy) for the most accurate reproduction.*
 
 # Gnarks Privacy Policy - Gnarks
 
