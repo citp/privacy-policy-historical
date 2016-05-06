@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thetelegraph.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905150828id_/https%3A//thetelegraph.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetelegraph.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506054753id_/http%3A//thetelegraph.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Alton Telegraph - thetelegraph.com
+# The Telegraph | Privacy Policy
 
 We consider your privacy important. We do not sell or rent your personal information to third parties without your explicit consent. Please read this Privacy Policy that you may understand how we use and protect your personal information.
 
