@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rmtcenter.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206001847id_/http%3A//www.rmtcenter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rmtcenter.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506210839id_/http%3A//rmtcenter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement | Robbins-Madanes Training
 
@@ -57,4 +57,4 @@ This website contains links to other websites. RobbinsMadanesTraining.com is not
 
 If you have any questions about this privacy policy or RobbinsMadanesTraining.com’s treatment of your personal information, please write to:  
 **By Email:** [_support@robbinsmadanestraining.com_](malto:support@robbinsmadanestraining.com)  
-**By Post:** 2240 Encinitas Boulevard #127 Encinitas, CA 92024 
+**By Post:** 3905 State Street #7, Santa Barbara, CA 93105 
