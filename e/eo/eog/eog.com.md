@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eog.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208021016id_/http%3A//www.eog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eog.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506041732id_/http%3A//www.eog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# None
 
 **What information do we collect?**
 
