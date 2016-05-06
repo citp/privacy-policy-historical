@@ -1,44 +1,91 @@
-> *The following text is extracted and transformed from the mhprofessional.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619153206id_/http%3A//www.mhprofessional.com/%3Fpage%3D/mhp/content/help/new_customers/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mhprofessional.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507013320id_/http%3A//www.mhprofessional.com/page.php%3Fpage%3D/help/privacy_statement.html) for the most accurate reproduction.*
 
-# McGraw-Hill Professional - McGraw-Hill Professional Customer Privacy Notice
+# McGraw-Hill Education: Professional Books
 
-Thank you for your interest in McGraw-Hill products and services.
+**WHAT PERSONALLY IDENTIFIABLE INFORMATION ( **"PII"** ) DOES McGRAW-HILL PROFESSIONAL COLLECT ABOUT YOU? **
 
-When you register with the McGraw-Hill Professional bookstore under our SIGN UP area, subscribe to any of our newsletters, or opt-in to receive special offers and new releases sent to your email address, your contact information (including your name, address and e-mail address as requested) is added to our secure database located in the United States and access is limited to authorized persons.
+  * Contact information that you provide to us, such as your name, title and organization, address, telephone number, fax number, or e-mail address.
+  * Contact information obtained via other companies? marketing lists.
+  * Credit card or other payment information for your transactions. 
 
-From time to time, we will send you information about new titles, features, additions, and changes to McGraw-Hill Professional's products and services.
 
-McGraw-Hill Professional may share contact information and your order information with other units within The McGraw-Hill Companies, and respectable 3rd parties. McGraw-Hill Professional may also share your information with "3rd Party" vendors (such as a "mailing" house) who will be authorized to use this information solely to perform services on our behalf.
 
-If you contact us in regard to technical support, questions about your order, or any general inquiry, your email address will only be used in response to your inquiry. Your email address will not be added to our database.
+**WHY DOES McGRAW-HILL PROFESSIONAL COLLECT PII?**
 
-We only use the credit card or payment information we acquire from you to fulfill your order. All information is stored in a secure database in the United States and access is limited to authorized persons only.
+  * To process your transactions, maintain your account and respond to your inquiries.
+  * To provide you with information about services and products that we believe may be of interest to you offered by McGraw-Hill Professional and our affiliated companies and reputable third party companies. 
+  * To provide you with access to online products and services, as described in our [Terms of Use](http://www.mheducation.com/terms-use)
 
-If you place an order with McGraw-Hill Professional, you will receive transactional email updates regarding your order, even if you did not enroll in an email update service, or have unsubscribed from an email update service.
 
-If you have questions about our privacy practices, or if you would like to have your name removed from McGraw-Hill Professional's lists, please send a request to:
 
-**Privacy Officer**   
-McGraw-Hill Professional   
-2 Penn Plaza, 12th floor   
-New York, NY 10121-2298   
-Or email: [privacy@mhedu.com](mailto:privacy@mhedu.com)
+**HOW DOES McGRAW-HILL PROFESSIONAL SHARE YOUR PII?**
 
-You can also simply access the [Opt-Out form](https://www.mhprofessional.com/account/?mode=preferences), and follow the simple instructions for prompt removal of your name.
+  * With our vendors to perform services on our behalf, or business partners, which may include authors. 
+  * Potentially in conjunction with a sale or similar transfer of a business.
+  * When legally compelled or for other legal purposes.
+  * With other parts of McGraw-Hill Education whose services and products might be of interest to you.
 
-If you would like to exercise your right to access and correct the accuracy of your information, please mail a written request to:
 
-**Direct Customer Database Manager**   
-McGraw-Hill Professional   
-2 Penn Plaza, 12th Floor   
+
+**HOW DOES McGRAW-HILL PROFESSIONAL USE YOUR MAILING ADDRESS?**
+
+Your mailing address will be used to ship products purchased from this web site, or to forward notices pertaining to your purchase. You may receive special offers from McGraw-Hill Professional, or information about new products and services or upcoming events. On occasion, McGraw-Hill Professional may make its mailing lists available to other companies who we believe may have products and services of interest to our customers. If you do not wish to receive mailings from McGraw-Hill Professional, its imprints, or third-party organizations, please see the opt out instructions in the next section. 
+
+
+**IF YOU WANT TO LIMIT USE OR SHARING OF YOUR PII FOR MARKETING PURPOSES:**
+
+Login to your account from <http://www.mhprofessional.com/account>, e-mail us at [privacy@mhprofessional.com](mailto:privacy@mhprofessional.com), or write to us at:
+
+**Privacy Official**  
+McGraw-Hill Professional  
+2 Penn Plaza, 9th floor  
 New York, NY 10121
 
-### How are cookies used on the website?
+with the following instructions:
 
-The McGraw-Hill Professional bookstore uses permanent cookies to recognize you and enable an automatic log-in to the site. We also provide session cookies that grant you certain access privileges, such as access to your account and order information and protected content. We use permanent cookies to customize the edition of the site you wish to view as well as to track aggregate site usage and statistics.
+I do not want to be contacted by McGraw-Hill Professional via these methods for marketing purposes:
 
-In order to change these cookie preferences, you must change your browser's preferences to disable cookies or delete cookies. Please note that disabling cookies for some services may affect the ability to use that service. Security information is specific to each browser and operating system. Please check with your browsers specific company for more information. Some examples of how to change your browsers preferences are as follows: In Internet Explorer (versions 6 and up), this option is listed under Tools > Internet Options > Privacy. The setting has to be set to Block All Cookies; In Netscape (versions 7 and up), this option is listed under Edit > Preferences > Privacy & Security > Cookies. The Disable Cookies button should be checked.
+Mail ____________
 
-Please be assured that we take your concerns about privacy quite seriously, and we intend to take every reasonable effort to protect it. To that end, The McGraw-Hill Companies has developed a comprehensive privacy policy. For more information about The McGraw-Hill Companies' Customer Privacy Policy, visit our Web site at <http://www.mcgraw-hill.com/privacy.html>.
+E-mail ____________
 
-This page was last reviewed or updated: April 2009
+____________ I do not want to be contacted by McGraw-Hill Professional through any method for marketing purposes.
+
+____________ I do not want to be contacted by other parts of McGraw-Hill Education through any method for marketing purposes.
+
+____________ I do not want my information shared with companies outside of McGraw-Hill Education.
+
+We have established safeguards and use reasonable security measures to protect your PII from unauthorized access and use. Your PII is stored in a secure location in the U.S. and access is limited to authorized persons. 
+
+To review and confirm the accuracy of your PII, or to contact us with concerns or questions, please write to: [privacy@mhprofessional.com](mailto:privacy@mhprofessional.com) or **Privacy Official** , McGraw-Hill Professional, 2 Penn Plaza, 9th floor, New York, NY 10121. 
+
+**COOKIE USAGE**
+
+Please note that by using this site, you consent to the use of the cookies described below. 
+
+McGraw-Hill Professional or our third-party service providers may use cookies (or other anonymous tracking technologies that do not collect personally-identifiable information) when you visit our Web site. A _"cookie"_ is a small text file placed on your computer or device, which helps our Web site function better. We may use the following types of cookies on this Web site: 
+
+_"Strictly necessary"_ cookies, which have to be set to allow us to deliver the site to you and to provide specific services that you request from us. The services offered by this site that require cookies to function include: 
+
+  * account log-in
+  * shopping basket/online store
+  * billing
+  * comments/blog features
+
+
+
+_"Performance"_ or _"Analytics"_ cookies, which help us to collect information about how visitors use our site, and helps us with site analysis and improvements. Performance or analytics cookies will remain on your computer after you close your browser, but cannot be used to identify you personally. 
+
+You can change your Web browser?s Internet preferences to disable or delete cookies, although that may affect certain functions on this site. To learn how to manage your cookies, please follow the instructions from your specific browser, or follow the links below: 
+
+  * [Internet Explorer](http://support.microsoft.com/kb/196955)
+  * [Firefox](http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies)
+  * [Chrome](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)
+  * [Safari](http://support.apple.com/kb/PH5042)
+  * [Opera](http://www.opera.com/browser/tutorials/security/privacy/)
+
+If you are visiting this site using a mobile device such as a smartphone or tablet, please refer to the manufacturer?s instructions on how to manage cookies. 
+
+[**Click here**](http://www.mheducation.com/privacy-and-cookie-notice) for more information about McGraw-Hill Education's Customer Privacy Policy.
+
+_**Last updated: July 2013**. Future revisions to this Privacy and Cookie Notice will be posted at this location._
