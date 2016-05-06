@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epanchang.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317072516id_/https%3A//www.epanchang.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epanchang.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506172952id_/https%3A//www.epanchang.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Our Panchangam Privacy Policy
 
