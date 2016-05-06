@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nicershoes.com privacy policy that was archived on 2015-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151020002227id_/http%3A//nicershoes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicershoes.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507014947id_/http%3A//nicershoes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy at NicerShoes.Com
 
 This is a Privacy Policy for nicershoes.com website.
 
