@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reefclubcasino.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203003349id_/http%3A//www.reefclubcasino.com/securityprivacy/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reefclubcasino.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506091900id_/http%3A//www.reefclubcasino.com/securityprivacy/privacy-policy.htm) for the most accurate reproduction.*
 
 # Security & Privacy | Privacy Policy for Users
 
@@ -9,6 +9,8 @@ Cassava Enterprises (Gibraltar) Limited (the " **Company** ", " **we** " or " **
 PLEASE NOTE: If you play or register an account in the United Kingdom (UK) all references herein to the "Company", "us" or "we" shall be deemed as a reference to 888 UK Limited. 888 UK Limited is within the same corporate group as Cassava Enterprises (Gibraltar) Limited.
 
 PLEASE NOTE: If you play in any EU member state except for states which you play on a local license, for example, in the UK all references herein to the "Company", "us" or "we" shall be deemed as a reference to Virtual Digital Services Limited.
+
+PLEASE NOTE: If you play or register an account in Romania all references herein to the "Company", "us" or "we" shall be deemed as a reference to 888 Romania Limited.
 
 When you use the Company's gambling services either via an In-House Brand or a White Label Brand, and whether such use is via the Internet Platform or an Alternative Platform, you shall be asked to provide personal identifiable information (" **PII** ") to the Company.
 
@@ -68,7 +70,7 @@ Your PII will not be stored for any longer period than is necessary for the purp
 
 **Information about us**
 
-Cassava Enterprises (Gibraltar) Limited/888 UK Limited/Virtual Digital Services Limited (as applicable) Suite 601/701 Europort, Gibraltar. 
+Cassava Enterprises (Gibraltar) Limited/888 UK Limited/Virtual Digital Services Limited/888 Romania Limited (as applicable) Suite 601/701 Europort, Gibraltar. 
 
 This Privacy Policy is subject to change, so please check it regularly. We reserve the right to amend or modify this Privacy Policy at any time and in response to changes in applicable data protection and privacy legislation. In the event the Purposes change, we will notify you as soon as possible and, where required, seek your consent where such notification relates to a new additional purpose for processing. 
 
