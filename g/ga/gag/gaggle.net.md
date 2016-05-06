@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaggle.net privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908013254id_/https%3A//www.gaggle.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaggle.net privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506053723id_/https%3A//www.gaggle.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Gaggle
 
@@ -46,7 +46,7 @@ Web Beacons: Pages of our the Company Site and our emails may contain small elec
 
 **Third-Party Use of Tracking Technologies**
 
-The Company Site works with third-parties, such as ad networks (DoubleClick, Facebook and Google) to collect information about you when you use the Company Site. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
+The Company Site works with third-parties, such as ad networks (DoubleClick, Facebook and Google) to collect information about you when you use the Company Site and to perform services on our behalf. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
 
 We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
 
@@ -86,7 +86,7 @@ The Company Site gives users the following options for removing their informatio
 
 
 
-**Correcting and Updating Information** ****
+**Correcting and Updating Information**
 
 The Company Site gives users the following options for changing and modifying information previously provided.
 
@@ -95,10 +95,6 @@ The Company Site gives users the following options for changing and modifying in
   * You can call the following telephone number: 800-288-7750
 
 
-
-**Safe Harbor Statement** ****
-
-Follow this link for information on [Gaggle’s Safe Harbor Statement and Registration.](https://www.gaggle.net/safe-harbor-statement/)
 
 **Telephone calls**
 
