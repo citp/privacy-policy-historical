@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chicmi.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209132100id_/http%3A//www.chicmi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicmi.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506150656id_/https%3A//www.chicmi.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Chicmi
+# Privacy Policy
 
 **This Privacy Policy describes our policies on the collection, use, and disclosure of information about you in connection with your use of our websites, emails, and mobile applications ("Site"). The terms "we", "us", and "Chicmi" refer to Chicmi, a London-based company headquartered at Kemp House, 152 City Road, London, EC1V 2NX. When you use the Site, you consent to our collection, use, and disclosure of information about you as described in this Privacy Policy.**
 
