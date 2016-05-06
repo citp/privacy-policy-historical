@@ -1,52 +1,145 @@
-> *The following text is extracted and transformed from the governmax.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615025217id_/http%3A//grm.thomsonreuters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the governmax.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506083204id_/https%3A//tax.thomsonreuters.com/about-us/privacy) for the most accurate reproduction.*
 
-# Thomson Reuters | Government Revenue Management | Privacy Policy
+# Privacy - Thomson Reuters Tax & Accounting
 
-We recognize that many visitors and users of this Web Site are concerned about the information they provide to us, and how we treat that information. This Privacy Statement, which may be updated from time to time, has been developed to address those concerns.
+###### SCOPE
 
-Your use of this Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Statement. If you have any questions or concerns regarding this Privacy Statement, please contact: [general.info@thomsonreuters.com](http://thomsonreuters.com/privacy_policy/ "General Info") .
+Your privacy is important to Thomson Reuters (Tax & Accounting) Inc. (“TRTA”), and we go to great lengths to protect it. This Privacy Statement applies to the online collection of personal information via websites and mobile applications operated by TRTA and its worldwide affiliated companies and subsidiaries. This Statement does not apply to information collected in any other way, including offline. 
 
-### What Information About You Do We Collect?
+This website may contain links to sites maintained by others. This Privacy Statement does not reflect the privacy practices of those sites.
 
-When you visit our Web Site, you may provide us with two types of information: (1) personally identifiable information that you knowingly choose to disclose, which is collected on an individual basis, and (2) general user information that does not contain personally identifiable information, which is collected on an aggregate basis as you browse the Web Site. In some cases, if you choose not to provide us with requested information, you may not be able to access all of our Web Site's content or services.
+###### HIGHLIGHTS
 
-#### Personally Identifiable Information You Choose to Provide.
+**What personal information is collected and how is that information used?**
 
-We may ask for certain personal information from you for the purpose of providing to you content and/or services that you request. For example, if you indicate an interest in receiving press releases about Thomson Reuters, you are asked to submit your name and e-mail address, which we retain on file, so that we may send you the information that you requested. If you indicate on our E-mail Alert registration form that you are a member of the press, we may also send you information regarding our business. We also request your name and e-mail address each time you contact us by clicking on the "Contact Us" link. We may retain a record of users who have contacted us in order to respond properly to questions or concerns and for purposes of future communications.
-
-#### Non-Personally Identifiable Information We Collect.
-
-Cookies/ Web server logs: Similar to other commercial Web sites, our Web Site utilizes standard technology called "cookies" and Web server logs to collect information about how our Web Site is used. Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site. Cookies are small pieces of data that are stored by a user's Web browser on the user's hard drive. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web Site, and the Web sites visited just before and just after our Web Site. This information is collected on an aggregate basis. None of this information is associated with you as an individual.
-
-You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our Web Site will not operate correctly if you disable cookies. You should consult with your browser's provider/manufacturer if you have any questions regarding disabling cookies.
-
-### How Do We Use the Information We Collect?
-
-We use your personally identifiable information to provide you with the information or content that you have requested, and, in some cases, to contact you about our programs, products, features or services. If you no longer wish to receive press releases or any other type of information from us, you may send us an email through our "Contact Us" link or use our E-mail Alert form to change your preferences.
-
-We use non-identifying information collected on our Web Site in the aggregate to better understand your use of the Web Site and to enhance your enjoyment and experience. For example, we may use the information to improve the design and content of our Web Site or to analyze the programs and services that we offer.
-
-We may employ other companies and individuals to perform functions on our behalf. Our employees, agents and contractors who have access to personally identifiable information are required to protect the information in a manner that is consistent with this Privacy Statement.
-
-We may provide access to your personally identifiable information when legally required to do so, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of our Web Site, to limit our legal liability and protect our rights, or to protect the rights and safety of visitors to this Web Site or the public. In those instances, the information is provided only for that limited purpose.
-
-We will not share your personally identifiable information in ways unrelated to those described above without providing you with an opportunity to opt out of such use or otherwise prohibit such unrelated uses.
-
-  
+  * We collect information about our users in three ways: directly from the user (for example, when ordering a product, registering an account, or signing up for a newsletter), from our web server logs, and through cookies. 
+  * We use the information primarily to provide you with a personalized Internet or mobile application experience that delivers the information, resources, and services that are most relevant and helpful to you. 
+  * We do not share with others any of the information you provide, unless we say so in this Privacy Statement, or when we believe in good faith that the law requires it.
 
 
-### Privacy Protections for Children Using the Internet
 
-Protecting children's privacy is important to us. For that reason, we do not collect or maintain information on our Web Site from those we actually know are under the age of 13, nor is any part of our Web Site targeted to attract anyone under 13. We request that all visitors to our Web Site who are under 13 not disclose or provide any personally identifiable information. If we discover that a child under 13 has provided us with personally identifiable information, we will delete that child's personally identifiable information from our records.
+More Details
 
-### Data Security
+**How is my personal information protected?**
 
-We take reasonable steps to maintain the security of the personally identifiable information that we collect, including limiting the number of people who have physical access to our database servers, as well as installing electronic security systems that guard against unauthorized access. However, no data transmission over the Internet can be guaranteed to be completely secure. Accordingly, we cannot ensure or warrant the security of any information that you transmit to us, so you do so at your own risk.
+  * We have implemented certain appropriate security measures to help protect your personal information from accidental loss and from unauthorized access, use, or disclosure. 
+  * We store the information about you in a data center with restricted access and appropriate monitoring. 
+  * We use intrusion detection and virus protection software.
+  * Despite these measures, we cannot guarantee that unauthorized persons will always be unable to defeat our security measures.
 
-### Consent to Transfer
 
-This Web Site is operated in the United States. If you are located outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Web Site, participating in any of our services and/or providing us with your information, you consent to this transfer.
 
-### Links
+More Details
 
-This Web Site contains links to third party sites as well as to other sites owned and/or operated by Thomson Reuters. Please be aware that Thomson Reuters is not responsible for the privacy practices of any third party sites. Please also be aware that the privacy policies of other Thomson Reuters sites may differ significantly from the privacy policy of this Web Site. Therefore, we encourage our users to read the privacy statement of each and every Web site that collects personally identifiable information. This Privacy Statement applies solely to information collected by this Web Site.
+**Who has access to the personal information?**
+
+  * We will not sell, rent, or lease mailing lists or other customer data to others, and we will not make your personal information available to any unaffiliated parties, except our approved agents and contractors, or as otherwise described in this Privacy Statement. 
+  * We rely on some of our affiliates for support of the products and services we offer, and we share some of our back-office functions with other Thomson Reuters companies; our affiliates are all required to preserve the confidentiality of any personal information they may access.
+  * We will not disclose any personal information or information about your usage of our websites or mobile applications to unaffiliated third parties, except as necessary to service the account, to enforce the terms of use, to meet our obligations to content and technology providers, or as required by law.
+
+
+
+More Details
+
+**How may I correct, amend, or delete my personal information, or update my preferences?**
+
+  * You may cancel your registration or update your preferences at any time. 
+  * If you do not want to receive information about our products or services, please update your account preferences (where available), check the appropriate box when registering and/or utilize the “unsubscribe” mechanism within the communications that you receive from us. 
+  * If you have any additional questions or concerns related to this statement and/or our practices, email us at [rg.customerservice@thomsonreuters.com](mailto:rg.customerservice@thomsonreuters.com) or mail your request to Thomson Reuters Tax & Accounting, Attention: KS Web, 2395 Midway Road, Carrollton, TX 75006. Telephone 800-431-9025.
+
+
+
+More Details
+
+Back to Top 
+
+###### FULL PRIVACY STATEMENT
+
+**WHAT PERSONAL INFORMATION DOES TRTA COLLECT AND HOW DO WE USE IT?** We collect information about our users in three ways: directly from the user, from our web server logs, and through cookies. We use the information primarily to provide you with a personalized Internet experience that delivers the information, resources, and services that are most relevant and helpful to you. We don’t share any of the information you provide with others, unless we say so in this Privacy Statement, or when we believe in good faith that the law requires it.
+
+**User-Supplied Information**
+
+When you register for our services or order products via our site, we ask you to provide some personal information, for example, your name, address, phone number, email address, payment card information, and/or certain additional categories of information resulting from use of our websites and services, such as research requests. We keep this information in a contact database for future reference, as needed. We may use certain information you provide to offer you products and services that we believe may be of interest to you. If you don’t wish to receive such offers, you may opt out (unsubscribe).
+
+If you contact us for customer support, we may ask you to provide information about your computer or about the issues you are trying to resolve. This information is necessary to help us answer your questions. We may record your requests and our responses for quality control purposes.
+
+**Web server logs**
+
+When you visit our website, we may track information about your visit and store that information in web server logs, which are records of the activities on our sites. Our servers automatically capture and save the information electronically. Examples of the information we may collect include: 
+
+  * Your unique Internet protocol address 
+  * The name of your unique Internet service provider 
+  * The city, state, and country from which you access our website 
+  * The kind of browser or computer you use 
+  * The number of links you click within the site 
+  * The date and time of your visit 
+  * The web page from which you arrived to our site 
+  * The pages you viewed on the site 
+  * Certain searches/queries that you conducted via our website(s) 
+
+
+
+The information we collect in web server logs helps us administer the site, analyze its usage, protect the website and its content from inappropriate use, and improve the user’s experience.
+
+**Cookies**
+
+In order to offer and provide a customized and personal service, we may use cookies to store and help track information about you. Cookies are simply small pieces of data that are sent to your browser from a web server and stored on your computer’s hard drive. We use cookies to help remind us who you are and to help you navigate our sites during your visits. Cookies allow us to save passwords and preferences for you so you won’t have to reenter them each time you visit.
+
+The use of cookies is relatively standard. Most browsers are initially set up to accept cookies. However, if you prefer, you can set your browser to either notify you when you receive a cookie or to refuse to accept cookies. You should understand that some features of many sites may not function properly if you don’t accept cookies.
+
+**Third Party Services**
+
+We may use services hosted by third parties, such as Google Analytics, to assist in providing our services and to help us understand our customers’ use of our products. These services may collect information sent by your browser as part of a web page request, including your IP address or cookies. If these third party services collect information, they do so anonymously and in the aggregate to provide information helpful to us such as website trends, without identifying individual visitors. Please see “Cookies” in the section above for information on how you can control the use of cookies on your computer.
+
+Back to Top 
+
+###### HOW DOES TRTA PROTECT THE PERSONAL INFORMATION THAT IT COLLECTS?
+
+We have implemented certain appropriate security measures to help protect your personal information from accidental loss and from unauthorized access, use, or disclosure. For example, some of our websites are protected with Secure Sockets Layer (SSL) technology. Also, we store the information about you in a data center with restricted access and appropriate monitoring, and we use a variety of technical security measures to secure your data. In addition, we use intrusion detection and virus protection software.
+
+**However, please note that we cannot guarantee that unauthorized persons will always be unable to defeat our security measures**.
+
+Also, please note that we may store and process your personal information in systems located outside of your home country, including the United States. However, regardless of where storage and processing may occur, we take appropriate steps to ensure that your information is protected, consistent with the principles set forth under this statement.
+
+Back to Top 
+
+###### WHO HAS ACCESS TO THE PERSONAL INFORMATION? 
+
+We will not sell, rent, or lease mailing lists or other customer data to others, and we will not make your personal information available to any unaffiliated parties, except as follows:
+
+  * To agents and/or contractors who may use it on our behalf or in connection with their relationship with us (for example, we may use third parties to help us with promotional campaigns). 
+  * As required by law, in a matter of public safety or policy, as needed in connection with the transfer of our business assets (for example, if we are acquired by another company or if we are liquidated during bankruptcy proceedings), or if we believe in good faith that sharing the data is necessary to protect our rights or property. 
+
+
+
+We also rely on some of our affiliates for support of the products and services we offer, and we share some of our back-office functions with other Thomson Reuters companies. Our affiliates are all required to preserve the confidentiality of any personal information they may access. 
+
+We will not disclose any information about your usage to unaffiliated third parties, except as necessary to service the account, to enforce the terms of use, to meet our obligations to content and technology providers, or as required by law. 
+
+We may also use statistics regarding usage for product development purposes, but we only use those statistics in the aggregate and they don’t include any personally identifiable information about individual users.
+
+Some TRTA websites make chat rooms, forums, message boards, or news groups available to you. Please remember that any information disclosed in these areas is public. You should exercise caution when using these services. Don’t disclose information in these public forums that might be considered private or confidential.
+
+Your access to some of our services and content may be password protected. We recommend that you refrain from disclosing your username(s) and password(s) to anyone. We also recommend that you sign out of your account or service at the end of each session. You may also wish to close your browser window when you have finished your work, especially if you share a computer with someone else or if you are using a computer in a public place like a library or Internet cafe.
+
+Back to Top 
+
+###### HOW MAY I CORRECT, AMEND, OR DELETE MY PERSONAL INFORMATION AND/OR UPDATE MY PREFERENCES?
+
+You may cancel your registration or update your preferences at any time. If you don’t want to receive information about our products or services, please update your account preferences (where available), check the appropriate box when registering, and/or utilize the “unsubscribe” mechanism within the communications that you receive from us.
+
+###### LINKS TO OTHER WEBSITES
+
+Parts of TRTA’s websites may contain links to, or options for users to integrate with, other websites and services maintained by third parties, such as, but not limited to, Facebook, Twitter, and LinkedIn. If you use these links or options, you will leave TRTA’s website. When you access a non-TRTA website, please understand that these third party websites and services are not operated or managed by TRTA and TRTA has no control over the information, content, preferences, etc. you chose to submit to, share with, or that is otherwise collected by them. As such, we suggest that you carefully review the privacy policies of each site you visit. This Privacy Statement does not apply to the information collection or privacy practices of those third party sites. 
+
+###### QUESTIONS?
+
+If you have any additional questions or concerns related to this statement and/or our practices, email us at [rg.customerservice@thomsonreuters.com](mailto:rg.customerservice@thomsonreuters.com) or mail your request to Thomson Reuters Tax & Accounting, Attention: KS Web, 2395 Midway Road, Carrollton, TX 75006. Telephone 800-431-9025.
+
+Back to Top 
+
+###### PRIVACY STATEMENT CHANGES
+
+If our information practices change in a significant way, we will post the policy changes here. This Privacy Statement was last updated on 1/23/2015.
+
+Back to Top 
