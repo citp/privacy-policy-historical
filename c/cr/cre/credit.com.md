@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the credit.com privacy policy that was archived on 2015-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151010101716id_/https%3A//www.credit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the credit.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506203843id_/https%3A//www.credit.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Credit.com
 
-**This privacy policy was most recently updated on February 23, 2015.**
+**This privacy policy was most recently updated on December 31, 2015.**
 
 This privacy policy applies to the website located at www.credit.com, which is owned and operated by Credit.com Inc. ("Credit.com"). It governs Credit.com's collection, use and disclosure of non-public personal information ("NPPI"), defined below, received from our current and former customers or collected by us concerning our current and former customers. We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make changes to this policy, we will change the date above. If we change this policy in a way that allows us to use your NPPI in a materially different manner, we will notify you here, by e-mail, or by means of a notice on our homepage prior to the change becoming effective, and we will obtain your opt-in consent before using your NPPI in such a materially different manner.
+
+By visiting Credit.com's website or agreeing to content that includes a link to this document ("Online Ads"), you agree to the practices described in this privacy policy and our [Terms of Service](https://web.archive.org/terms/).
 
 We take the privacy and security of your NPPI seriously and believe it is important that you understand:
 
