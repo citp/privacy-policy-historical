@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groupon.sg privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119040840id_/http%3A//www.groupon.sg/data_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groupon.sg privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506214828id_/http%3A//www.groupon.sg/data_privacy) for the most accurate reproduction.*
 
 # Up to 70% discount on restaurants, spas, travel, shopping - GROUPON.sg
 
@@ -78,7 +78,7 @@ Please note that this Policy forms part of the [Terms & Conditions](http://www.
 
 **Last Updated: 18 March 2014**
 
-This Privacy Statement (“ **Privacy Statement** ”) explains how Groupon Goods Asia Pte. Ltd., with registered address at 1 Maritime Square, #10-27 Harbourfront Centre, Singapore (099253) (“Groupon Goods”, “us”, “our”, and “we”), processes and uses information about you. This Privacy Statement applies only to information we process in order to facilitate your purchase of products sold by us on the Groupon Singapore website, featured on http://www.groupon.sg/ (the “Site”). The Site is owned and operated by Beeconomic Singapore Pte. Ltd. (UEN: 201002456D) (T/A Groupon Singapore), a Singapore company, with a registered address at 1 Maritime Square, #10-24/25 Harbourfront Centre, Singapore (099253) (“Groupon Singapore”).
+This Privacy Statement (“ **Privacy Statement** ”) explains how Groupon Goods Asia Pte. Ltd., with registered address at 83 Clemenceau Avenue #18-01, UE Square, Singapore 239920 (“Groupon Goods”, “us”, “our”, and “we”), processes and uses information about you. This Privacy Statement applies only to information we process in order to facilitate your purchase of products sold by us on the Groupon Singapore website, featured on http://www.groupon.sg/ (the “Site”). The Site is owned and operated by Beeconomic Singapore Pte. Ltd. (UEN: 201002456D) (T/A Groupon Singapore), a Singapore company, with a registered address at 83 Clemenceau Avenue #18-01, UE Square, Singapore 239920 (“Groupon Singapore”).
 
 This Privacy Statement was adopted as of the “Effective Date” above, and may be amended from time to time. In the event of a material change, we may notify you of such changes. You can determine when this version of the Privacy Statement was most recently adopted by referring to the date it was “Last Updated” above.
 
@@ -105,5 +105,5 @@ Please note that it is likely some recipients of your data may be located outsid
 We process data mainly in electronic form in line with the Privacy Law security requirements; Groupon Goods has implemented an information security program that contains administrative, technical and physical controls that are designed to reasonably safeguard your personal data, including industry-standard encryption technology.
 
  **5\. Retention of Personal Data and Your Rights in relation to Personal Data  **  
-We will retain your personal data for as long as necessary to perform our contractual obligations to you and as required by applicable law. Should you wish to know more about the personal data we have about you, you can exercise your rights of access at any time. Should you wish to do so, please email us at support@groupon.sg. You may also write to us us at: Groupon Goods Asia Pte. Ltd., 1 Maritime Square, #10-27 Harbourfront Centre, Singapore (099253).   
+We will retain your personal data for as long as necessary to perform our contractual obligations to you and as required by applicable law. Should you wish to know more about the personal data we have about you, you can exercise your rights of access at any time. Should you wish to do so, please email us at support@groupon.sg. You may also write to us us at: Groupon Goods Asia Pte. Ltd., 83 Clemenceau Avenue #18-01, UE Square, Singapore 239920.   
 Please note that while we are ready to assist you, we cannot always delete records of past interactions and transactions. For example, we are required to retain records relating to previous purchases for financial reporting and compliance reasons.
