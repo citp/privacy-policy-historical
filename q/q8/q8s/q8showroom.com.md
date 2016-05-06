@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the q8showroom.com privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417011342id_/http%3A//www.q8showroom.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the q8showroom.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506181225id_/http%3A//www.q8showroom.com/privacy.php) for the most accurate reproduction.*
 
 # Q8showroom Privacy Policy Declaration
 
