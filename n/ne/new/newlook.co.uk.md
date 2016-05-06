@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newlook.co.uk privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508023504id_/http%3A//www.newlook.com/furniture/help_centre_faq.jsp%3FpageName%3DPrivacy%2Bpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newlook.co.uk privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506024631id_/http%3A//www.newlook.com/furniture/help_centre_faq.jsp%3FpageName%3DPrivacy%2Bpolicy) for the most accurate reproduction.*
 
 # Help Centre | New Look
 
