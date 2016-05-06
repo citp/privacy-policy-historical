@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the atkinsglobal.com privacy policy that was archived on 2015-10-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151018033247id_/http%3A//www.atkinsglobal.com/en-GB/site-services/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the atkinsglobal.com privacy policy that was archived on 2016-05-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160506042522id_/http%3A//www.atkinsglobal.com/en-GB/site-services/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml"><head>
-    <!-- PMISEUW2WB1 -->
+    <!-- PMISEUW2WB3 -->
     <title>
 	Privacy – Atkins
 </title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="shortcut icon" type="image/x-icon" href="~/media/DAC791FCD8D347BDB663A639ACDA74FB.ico">
@@ -18,7 +18,6 @@ autoCompleteDomain = 'www.atkinsglobal.com';
 mobiAutoCompleteDomain = 'www.m.atkinsglobal.com';
 </script>
 <script type="text/javascript" src="https://viz.tools.investis.com/atkins/html5player/live/javascripts/jquery.embedCode.js" language="javascript"></script>
-<!--<script type="text/javascript" src="http://visualisation.investis.com/atkins/html5player/test5/javascripts/jquery.embedCode.js" language="text/javascript"></script>-->
 
 <script type="text/javascript" language="javascript" src="//ajax.aspnetcdn.com/ajax/jquery.ui/1.10.0/jquery-ui.min.js"></script>
 
@@ -26,7 +25,6 @@ mobiAutoCompleteDomain = 'www.m.atkinsglobal.com';
 <script type="text/javascript" src="https://app.socialsignin.net/assets/v1/js/socialTracking.js"></script>
 <script type="text/javascript" src="/Javascripts/add-remove-page-js-multilingual-advanced.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-
 <script type="text/javascript" language="javascript" src="/javascripts/sugar.js"></script>
 <script type="text/javascript" language="javascript">
 /**
@@ -63,9 +61,14 @@ var _devicename='Default';
 _devicename = _devicename.split(" ").join("-").toLowerCase();
 $j("html").addClass(_devicename);
 
+currURL1 = window.location.href;
+
+
 prevRegion = $j.cookies.get("V2.AGRegion");
+prevRegionNews = $j.cookies.get("V2.AGRegionNews");
 
 currRegion = 'site-services';
+currRegionNews = 'site-services';
 currPage = 'privacy';
 currLang = 'en-GB';
 currPageURL = '/en-GB/site-services/privacy';
@@ -75,7 +78,10 @@ currPageURL = '/en-GB/site-services/privacy';
 //currURL = "http://atkins-corporate.staging.investis.com/en-GB/projects";
 possibleLangs = new Array('en', 'en-GB', 'zh-CN' );
 
+
 possibleRegions = new Array('group', 'asia-pacific', 'middle-east', 'north-america', 'uk-and-europe');
+possibleRegionsNews = new Array('all','group', 'asia-pacific', 'middle-east', 'north-america', 'uk-and-europe');
+
 excludedSection = new Array('projects', 'locations', 'media-centre', 'contact-us', 'about-the-group');
 excludedSectionLoaded = false;
 
@@ -106,12 +112,13 @@ if((excludedSectionLoaded) && prevRegion!="" && prevRegion!=null)
 }
 else if(possibleRegions.indexOf(currRegion) <=0)
 {
- 	currRegion = "group";
-}		
+currRegion = "group";	
+}	
+//console.log(currRegion);
 if(prevRegion!=currRegion)
 {
 	$j.cookies.set("V2.AGRegion", currRegion, {path: '/'});
-	
+    
 	if(currPage!="en-GB" && readQS("p")!='1')
 	{
 		
@@ -126,8 +133,55 @@ if(prevRegion!=currRegion)
 		//console.log("Page NOT Reloaded");
 	}
 }
+
+
+/*NEWS SECTION*/
+//if(currURL1.indexOf('news-releases') > -1){
+if((excludedSectionLoaded) && prevRegionNews!="" && prevRegionNews!=null)
+{
+	currRegionNews = prevRegionNews;
+}
+else if(possibleRegionsNews.indexOf(currRegionNews) <=0)
+{
+currRegionNews = "all";
+}	
+//console.log(currRegionNews);
+if(prevRegionNews!=currRegionNews || $j.cookies.get('V2.GroupCheck') == 'group')
+{
+	$j.cookies.set("V2.AGRegionNews", currRegionNews, {path: '/'});
+    
+	if($j.cookies.get('V2.GroupCheck') == 'group'){
+    	$j.cookies.set("V2.AGRegionNews", 'group', {path: '/'});
+    }
+    
+	if(currPage!="en-GB" && readQS("p")!='1')
+	{
+		
+		//console.log("Page Reloaded");
+		if($j("html").hasClass("default") || $j("html").hasClass("print"))
+		{
+			//window.location.reload(true);
+		}
+	}
+	else
+	{
+		//console.log("Page NOT Reloaded");
+	}
+}
+//}
+/****** NEWS SECTION ENDS******/
+
 $j(document).ready(function()
 {
+	$j('.region-menu li.group-tab').click(function(){
+		$j.cookies.set("V2.GroupCheck", 'group', {path: '/'});
+    });
+    
+    $j(".region-menu ul li").not('.group-tab').click(function(){
+		$j.cookies.set("V2.GroupCheck", '', {path: '/'});
+        console.log($j.cookies.get('V2.GroupCheck'));
+    });
+    
 	$j(".region-menu ul li").removeClass("selected");
 	if(currRegion!="")
 	{
@@ -141,14 +195,14 @@ $j(document).ready(function()
 //console.log(currRegion);
 </script><meta property="og:type" content="website"><meta property="og:url" content="http://www.atkinsglobal.com/en-GB/site-services/privacy"><meta property="og:title" content="Privacy"><meta property="og:image" content="http://www.atkinsglobal.com/~/media/Images/A/Atkins-Corporate/images/content/atkins-logo.jpg"><link rel="canonical" href="http://www.atkinsglobal.com/en-gb/site-services/privacy"><link rel="alternate" hreflang="en-gb" href="http://www.atkinsglobal.com/en-gb/site-services/privacy"><link rel="alternate" media="only screen and (max-width: 767px)" href="http://www.m.atkinsglobal.com/en-gb/site-services/privacy">
     <!-- Stylesheets -->
-    <link href="/en-gb/stylesheets/fonts.css?revision=a58104fc-325e-4725-80cd-6420e5f07fb8" rel="stylesheet" type="text/css" media="All"><link href="/en-gb/stylesheets/jquery-ui.css?revision=c36920ab-6f40-4d2f-af9e-79b4c6e30b59" rel="stylesheet" type="text/css" media="All"><link href="/en-gb/stylesheets/main-new.css?revision=5ff65430-cf46-4256-a8f0-6a922f9adc8a" rel="stylesheet" type="text/css" media="All"><link href="/en-gb/stylesheets/crisis-comms.css?revision=a22f2420-4144-4ab1-801a-c48d7f70e885" rel="stylesheet" type="text/css" media="All"><link href="/en-gb/stylesheets/results-centre.css?revision=8e227bd7-f7c8-4d9e-a2dd-18b642cb398a" rel="stylesheet" type="text/css" media="All"><link href="/en-gb/stylesheets/social-media.css?revision=40c47a0e-182a-400c-a3ca-0287c32661da" rel="stylesheet" type="text/css" media="All"><link href="/en-gb/stylesheets/print.css?revision=7cfbede6-84df-482f-b9c1-605bba832671" rel="stylesheet" type="text/css" media="Print"><link href="/en-gb/stylesheets/color-box.css?revision=aab78c63-1be2-4145-a664-e619650cf32c" rel="stylesheet" type="text/css" media="All"><link href="/en-gb/stylesheets/signpost-fix.css?revision=00d6a47b-a26f-487a-8f2a-6a92a3df9fe4" rel="stylesheet" type="text/css" media="All"><link href="/en-gb/stylesheets/pdf-basket.css?revision=53849a9a-b968-4a54-9715-8822df85ec5a" rel="stylesheet" type="text/css" media="All"><link href="/en-gb/stylesheets/corporate-new.css?revision=45f5262d-9b86-4dc6-b146-1de672536a39" rel="stylesheet" type="text/css" media="All">
+    <link href="/en-gb/stylesheets/fonts.css?revision=a58104fc-325e-4725-80cd-6420e5f07fb8" rel="stylesheet" type="text/css" media="All"><link href="/en-gb/stylesheets/jquery-ui.css?revision=c36920ab-6f40-4d2f-af9e-79b4c6e30b59" rel="stylesheet" type="text/css" media="All"><link href="/en-gb/stylesheets/main-new.css?revision=0ede1e7a-1972-456e-92f8-8a6c629f53bf" rel="stylesheet" type="text/css" media="All"><link href="/en-gb/stylesheets/crisis-comms.css?revision=a22f2420-4144-4ab1-801a-c48d7f70e885" rel="stylesheet" type="text/css" media="All"><link href="/en-gb/stylesheets/results-centre.css?revision=8e227bd7-f7c8-4d9e-a2dd-18b642cb398a" rel="stylesheet" type="text/css" media="All"><link href="/en-gb/stylesheets/social-media.css?revision=40c47a0e-182a-400c-a3ca-0287c32661da" rel="stylesheet" type="text/css" media="All"><link href="/en-gb/stylesheets/print.css?revision=0e469e07-8c1c-4c39-9d95-f29cc00ec7ab" rel="stylesheet" type="text/css" media="Print"><link href="/en-gb/stylesheets/color-box.css?revision=aab78c63-1be2-4145-a664-e619650cf32c" rel="stylesheet" type="text/css" media="All"><link href="/en-gb/stylesheets/signpost-fix.css?revision=00d6a47b-a26f-487a-8f2a-6a92a3df9fe4" rel="stylesheet" type="text/css" media="All"><link href="/en-gb/stylesheets/pdf-basket.css?revision=53849a9a-b968-4a54-9715-8822df85ec5a" rel="stylesheet" type="text/css" media="All"><link href="/en-gb/stylesheets/corporate-new.css?revision=338c39a7-210d-4c04-a3f1-d71da90c605f" rel="stylesheet" type="text/css" media="All">
 
     <!-- Javascripts -->
-    <script type="text/javascript" src="/en-gb/javascripts/main.js?revision=e66d1a0d-1f88-4019-a8b9-2447569a56cf"></script><script type="text/javascript" src="/en-gb/javascripts/banner-slider.js?revision=f1e134f2-6cab-47ad-82f6-38cfc924e5cc"></script><script type="text/javascript" src="/en-gb/javascripts/custom-search.js?revision=60ae1270-41ce-4128-aee6-f0ee3e361b6b"></script><script type="text/javascript" src="/en-gb/javascripts/sitemap.js?revision=d18df090-e967-4da6-a718-3a665b706b38"></script><script type="text/javascript" src="/en-gb/javascripts/advance-filter.js?revision=dd590db6-2efb-4be0-bbf1-20df78a12add"></script><script type="text/javascript" src="/en-gb/javascripts/projects-lazy-loading.js?revision=a2bfbb89-e677-4b25-9c98-a9705daf1dbf"></script><script type="text/javascript" src="/en-gb/javascripts/project-details-page.js?revision=2083ce50-2602-440a-8689-9bb8730a94c7"></script><script type="text/javascript" src="/en-gb/javascripts/jquery-treeview.js?revision=c43e3a39-1210-4e31-9588-7fd537e1d523"></script><script type="text/javascript" src="/en-gb/javascripts/cookie-consent.js?revision=0f95230d-53c0-4671-a1c3-f079fdfaaf79"></script><style type="text/css">#_cookieConsentWrapper{background-color:#aaaaaa; border-bottom: 1px solid #666; padding:6px;}#_cookieConsentWrapper p{width:970px; margin: 0 auto;font-size: 1.09em; color: #fff;padding-bottom:5px }#_cookieConsentWrapper a{cursor:pointer !important; text-decoration: underline !important; color: #fff !important;}#_cookieConsentWrapper input{border:1px solid;}</style><script type="text/javascript" src="/en-gb/javascripts/ul-devider.js?revision=c348aea8-ed37-48b7-ae9d-e9cb502584d1"></script><script type="text/javascript" src="/en-gb/javascripts/locations-dropdown.js?revision=be5f0eb1-06ad-49c5-ad9d-53dda8768d72"></script><script type="text/javascript" src="/en-gb/javascripts/video-lightbox.js?revision=6df74225-072b-4189-9422-36cdf6b960ac"></script><script type="text/javascript" src="/en-gb/javascripts/search-on-enter.js?revision=de27e82b-5e18-4e7a-94d3-48d6b248795d"></script><script type="text/javascript" src="/en-gb/javascripts/marketing-dropdown.js?revision=bb717fd9-29be-4414-a671-6a9787380e68"></script><script type="text/javascript" src="/en-gb/javascripts/back-to-top.js?revision=c30b491e-8437-4fea-9942-c1496e712213"></script><script type="text/javascript" src="/en-gb/javascripts/gatag.js?revision=e030dad0-cd38-41e7-b891-854088ac5f67"></script><script type="text/javascript" src="/en-gb/javascripts/autocomplete.js?revision=278fd622-9134-4607-85f6-8ade071c81e6"></script><script type="text/javascript" src="/en-gb/javascripts/ddaccordion.js?revision=ba1fac76-cba6-4702-bc0d-1ba0602014b1"></script><script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script><script type="text/javascript" src="/en-gb/javascripts/browser-detect.js?revision=8e223f00-1fba-4a88-aa5d-271ab903b947"></script><script type="text/javascript" src="/en-gb/javascripts/sigpost-fix.js?revision=c40925ea-64aa-4fc5-95b6-63ddb646b352"></script>
+    <script type="text/javascript" src="/en-gb/javascripts/main.js?revision=558065d1-b9e7-4189-9669-57e8a6139d42"></script><script type="text/javascript" src="/en-gb/javascripts/banner-slider.js?revision=b4228872-0a04-4e60-bbaf-2541c3d7700c"></script><script type="text/javascript" src="/en-gb/javascripts/custom-search.js?revision=60ae1270-41ce-4128-aee6-f0ee3e361b6b"></script><script type="text/javascript" src="/en-gb/javascripts/sitemap.js?revision=d18df090-e967-4da6-a718-3a665b706b38"></script><script type="text/javascript" src="/en-gb/javascripts/advance-filter.js?revision=6c5eea22-957b-481e-8c47-7750e77cf85d"></script><script type="text/javascript" src="/en-gb/javascripts/projects-lazy-loading.js?revision=faba5494-55c0-4178-a4ae-77c870da322c"></script><script type="text/javascript" src="/en-gb/javascripts/project-details-page.js?revision=2083ce50-2602-440a-8689-9bb8730a94c7"></script><script type="text/javascript" src="/en-gb/javascripts/jquery-treeview.js?revision=c43e3a39-1210-4e31-9588-7fd537e1d523"></script><script type="text/javascript" src="/en-gb/javascripts/cookie-consent.js?revision=0f95230d-53c0-4671-a1c3-f079fdfaaf79"></script><style type="text/css">#_cookieConsentWrapper{background-color:#aaaaaa; border-bottom: 1px solid #666; padding:6px;}#_cookieConsentWrapper p{width:970px; margin: 0 auto;font-size: 1.09em; color: #fff;padding-bottom:5px }#_cookieConsentWrapper a{cursor:pointer !important; text-decoration: underline !important; color: #fff !important;}#_cookieConsentWrapper input{border:1px solid;}</style><script type="text/javascript" src="/en-gb/javascripts/ul-devider.js?revision=c348aea8-ed37-48b7-ae9d-e9cb502584d1"></script><script type="text/javascript" src="/en-gb/javascripts/locations-dropdown.js?revision=be5f0eb1-06ad-49c5-ad9d-53dda8768d72"></script><script type="text/javascript" src="/en-gb/javascripts/video-lightbox.js?revision=6df74225-072b-4189-9422-36cdf6b960ac"></script><script type="text/javascript" src="/en-gb/javascripts/search-on-enter.js?revision=de27e82b-5e18-4e7a-94d3-48d6b248795d"></script><script type="text/javascript" src="/en-gb/javascripts/marketing-dropdown.js?revision=bb717fd9-29be-4414-a671-6a9787380e68"></script><script type="text/javascript" src="/en-gb/javascripts/back-to-top.js?revision=c30b491e-8437-4fea-9942-c1496e712213"></script><script type="text/javascript" src="/en-gb/javascripts/gatag.js?revision=3b30c433-b3be-407a-8366-037feaecf851"></script><script type="text/javascript" src="/en-gb/javascripts/autocomplete.js?revision=278fd622-9134-4607-85f6-8ade071c81e6"></script><script type="text/javascript" src="/en-gb/javascripts/ddaccordion.js?revision=6f34988f-f970-4026-95c6-e72e20c84051"></script><script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script><script type="text/javascript" src="/en-gb/javascripts/browser-detect.js?revision=8e223f00-1fba-4a88-aa5d-271ab903b947"></script><script type="text/javascript" src="/en-gb/javascripts/sigpost-fix.js?revision=c40925ea-64aa-4fc5-95b6-63ddb646b352"></script>
 
     <!-- New Breadcrumb -->
     </head>
-<body id="privacy" class="mozilla0 ip3-site-services ip3-normal ip3-level2 hasjs">
+<body id="privacy" class="unknown0 ip3-site-services ip3-normal ip3-level2 hasjs">
     
     
     
@@ -163,9 +217,9 @@ $j(document).ready(function()
     -->
     </script>
 
-    <form method="post" action="/en-GB/site-services/privacy" id="MainForm">
+    <form name="MainForm" method="post" action="/en-GB/site-services/privacy" id="MainForm">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="cPOJcU8H1K5Xmdz3KPzUrgEtLItPwHqg5CAMpm3IpltNPmPSfAIQUFVOnhrhq/czfK9MdgvPg0saQ8v8x3Pr8rYBCwc+gSOclLBP7x2oQBs7XakbmHayDZXOyWfa2kIgG/OzbN8NtBOeGH1ZuL4tUWzImbtRe7cw4vUzOWGlmthfT7NULZt+gDKsMTLIONF3kWtS7g3vp9i/HL7gAluPd2MzSI1E4bLNfCHvhNYLvUs3+012nAxPF4gmC9+sq6M68K78dXOaxMcJo2ufpIoDuuOldINrOO6fB7e/gGB+N9YN3mqpLKvs/gI0qggJc/XxFHsdUl1SjJxTwA0Y7INCx9R6Y/ebjmDh++Ts24j+pKFpDjGV8wgQvS59/Vl0AclqP1wkFlgUnobM0XfDrNdFA/DlpfhcnC5qQjPS0nWujfGNisIUbxHOPvziGCCOY70Awt/bvG8io3apZYjiOd73TGl2NbFRhxEM3rYz8A7ETcWMuFge6/ABLY1wrJPOEe50coSjBe4Kq6mxwqnjopN0ahkMcrMdeDaAtbucaj4K3Ds3AfUZnuhkPKh4bW2IWX7ysX3pYaQbbD3MGbC9Nwh1kLzKAjE9V6Em9Pf4ngPlJLezGoqNJxH6efeJ8yZXOEJ2Ai0/vKy2BHw/kWrfGupkD/Yo+4O1YNs0ljgG9OVEQadfezeeVGpKN1whI8qCi50StpHYX6Vo59CCSaCqs89bno34VKm55FHIxOG7IY0phxhg546O+xD1cDfeNJ26rXdsjR/9cNFTqEr1I6n0a1pjX6f3s6D7PDj/eyOYkkPnM4sgfdOKp1quDX/uY//5fLIQAgUT9tzptm/sluutK5X/yWEhv6EnlzN9Y/SN/a+QvUpA9nGxzRS/IJBCW2Xjt2z//g2O95v9nkJuvvFfvBPeBYhi+JWvP6uxxZICWYnIvHfC0e2xiF3Pl/Vi0hyfd33eeFVLEcY0XTJjAKRfmiNjSX1X5R5lhXeQIP8sJjoi/u340IcpeP0L1diAcQZZY+vNXjv8j/2tdcEMaBdKmtPU/Czbv8xwsdfXiCaOImdZL3/UTSuHkixXU96fVezI+u9IQVEIbute4VXjuN8yqRb4i2DcQY5+2zKgrDGHY3IeNXP9q6upYAZCsu2l7Fu3nUKsn7GkzJTA0mC+JEGjK9bG+2JtDpu3K002p0L4o8PIblNxpI5DjDukFcfB0jqLZ+2k2vIyArrgIUfwo38slg7xvMmRbqTg9iAiSWOi9u2urWWvzmTOuhTmaDoy9UqXDCHO5ryZ6y0jH12kte3oSb2Z11UCUXHng/m8xM5R63si8/FfT9si+a3eFR/ge1lbZgEUxijpA331cOK5XmFz1HX+qANX8qO0atdj574IDss7rMi83rRS/qrHv7H8Uz7l6yvlSiOvqkHTiA78sWNqOBw6enhaacWVinXw+Y01sozkw2Cmk4Xnw1QVPPhXvNHa0IsxtvsBz1gRdwBCwndtjicCuC1AMp9/Lapq4rrgu33ddGJHnVQgG5jqIPjO8JlhnXXJ3lbQRfICH4ppltiUgPc3GHPUUCIcFS5bcp0aTPPh3G0ObmWoLt8glXUl26id5dVGtd3+Xv0Dd9fpdYIGXt/2m9huklkg90gccQkmurmzlGypHrvHgxwqD1UN+xJe3+75eibRvk20tNR/l1SlKuv2dklkL30UofhRSv/BxmbrnMf1LrlUZ6wh4RESCWXpprtQgv7u88EMJztUk7FWWr3NWhWi6szrhq59tChbRnZnYPaPJWpHxz2or42eAvgtPpRP2swwl3ENQbRduYQvWWrbJeHSysY/hKBRln/BnmE4FumlmJspyVL4U+FtuIifQGId8yvewgC9LY/iwKp/hiLjCnVz/KEzozFOk/9DPeZyPDzmuOzFZG/EPzN2UG+hGzobo2jnqvwIIlRR2C5A2yJecK/2zbhYUZQluVkPnYDQ+XYkLk+x">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="UPZ1/Nxi5YK6GmOqy+Ku6crxcFlCnfp89aAvQ2BY/HnMAyjNz+780WkWN2vQ+kn8UpO9JeQCuQVzsL2bx4Lki1pDk1T+XMsZyRDLHHJR3gy/jD+a2HTvQP1TWitNbD3Y+XcjCZ/IHe43zbKmmquFxmbSlOCz/IxiERRrfcmyR1VVzNdzCd5JNd57pyD9SW1xHds6zazetrpgtLiTgC4iji8o/+aqE1np5uPmN4pWFj5i5blK4fNcrCeEo92rsEG69TPQZEHMr6cLudAHg4Ndt7xVfBU7V6FEF7C5glVok15eCkFohV+bfNei5mEKK/8hdnUCUiT4AVPlkb7aqctmuRPXvRRaGN/CqWuuvhXo8PKJKbfVpC4AIp9zE66xd7uRFU3EkqjbcTPOK7fuliLn9mXDSuDfw7VfF5NLN0nZxQWpkuemRBHwzM68+QedWypcuEVKdcUg2UjVo1gzq0EkMK/i5vXVm0+BK0jvtkp2co95oVE9qVqaNJbuNZpNgJ/t3MOEjwJd8Y5B1lMx9eh1u+BROzIE9cKmXoZ2ciyKVjNFtejyKuOwimmEV+zkOrC+tWhc5cR6HzIGKNCaf/kwCd7/sbCSAmD70KQquUpXK50YkffAIJoscJOk4SC+XaJCl5Ce9A+1bW9NDmQhi0v+aJb7jBxBc+bGu0IeqxmNpunnyc81Km9930Zw6QpIiRc3qd+LOzPZtn4yEvenDe2+3HOFGWWht/zGaeVsZDCiKdFJqcetUZ1dYgD0hwRQnK1irTPaeDKOzDRcsCT7hQrXAGzD/d8jC5eZriM6FoCJRSIycvpxXPWM9W4zlwikw0Dze8sS9oAi8VHmby14HFkYc/ioLDDAWE6PSAy9Ze1gysUpgs+7rJyEdQYzPjrL3R0JKzmMCNYW5RNOBFxBxyMekboLGRDh0wOaK4IFhaT571MdWlRvSbAWxUlhRusUkMWNWnP76s6ptnLcDdZgGzs7GCkBc07o01jC7WsYDh1UaML/bp/DEb/qjCILiOZeajqqrk54WY3uALqZqMNyJC44IksBUF29inOwcfn3RGZ3nLq131T7EgAHeGom8duF3sXY5tr7kvT2FIaw0F4EX6CyYthcPu7ckjc55MA7jYkPNO2CZ+F51EBi06RwM7g6yx6CC3fRpowUi/ePMoJNxvbQHALO8nJ5N32FJFijOeJvhSne7vmPg807qO1ZPvOf+RUZgPV/4bE782iPHwws8NH3HJkUQp7mAF3gTlrvPHdKFTY7rkX9c2VNuO68XJszNWAcfNbqRy7cX1MCzepgnSlhmKYrhdMDH1XuIZWStizlumhIEGFTNFqxwJxjLMc98W8yY6D5SccFSo0KUvLPF/bVEjtqICsA7gXpGRmhQOJaTTDiY0AfYiooTJ9KUOXZ5XE10JSlPxsel3AwRSy1Nkk0V/6AdJ/dp4nKOCKYaepEZQUrEYi8KYAiECxOwFaB9pYmjB6xvvWPUDIEVzUAIpgSqhaYRKcJsAFQgbdT3mlcsC+TPonDkJtyWlmhRw979GC1RnwklfVbj9csWRAucdVf61Qw2LyHo5CxN6BvmR1Ign4KSAoj+9LkeMSivqm/QPsyU8SIqEiMCxuQDBfms7x/B/FHc5nqZygp8MmJQrmUv/UWsoygn6bJfmns0N0LqPLy7ySakNafg2ClpEUkrjaN1LchvdTDWjUh6hDCegqpjMoWXVhb4/Yr21OLOKz3XbnivFHf5IOYzFtCb0tF9VqeX++THazSiAMOF/x2mCBnP+x9CWvp/8FIXfLtoPkv/8n9BUE/f9jSV33TvPbMs90efgC9/z2CljdlJ9zxJ92ZBBjB8/LLf6/a6WluxS1++XjRMb2l1f/fAvk3VCx5Led0UQXZ+hLtWOd95Uy4EmLyhTshBBOdH8epfXa5V+F5S6IfmZK05YQqn8dD/B0Edw5uig8WkeUYV1iNIMz+VapaifOJl2va3iyZvZ2MyoVanuvtfK4QGAePgEN0xNjeQho47eh4NqvHc30n9baKZYBnvgSpOfg6jJHB/FUBlpWfy0B74uVmyMEldI6VQfq+kkcGAwRN1LbwsYIGm1ntYYIE5ESbRCy4W4nvhXiIBUKEUldNkojddg==">
 </div>
 
 
@@ -188,7 +242,7 @@ function checkValidSearchString(textboxid, defaultvalue,validationMsg)
 
 	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="6B260122">
 	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="">
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="jgvtpaE8SID6mqK9PucqiNDqBU7cpBQjx/6mR2icXI6enviHqeQbK1WbLu8Z45CDcqOEMWeT2AaRZ/caaoVnQGaMSaaBxfb9k7x/OI2ewrkxs7yQqwBaw6LXXCBtn28AQlhoc9sjcrabOYuWg6gRMhSLq5HlqnYiQHzNqygx3c13tUpg">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="WQlR/OgFPFBefcCQiUnD/EfoGZ5FoMZZlL4AH1wwdVsUqqSNpWz4Xtz05gyKUKxlmIawygy3o8KQv3VyIwDuARUyT3E7KNjlTYtO7N0qqsbpjjWF7ib3IIckMno2nizjl5If/yuKUWMIZ3xhoWlRK3fTKxcoFFYvdi/Vq5Jt+OMjHKsK">
 </div>
         
         <!--Only for V2 Site B:3130-->
@@ -211,7 +265,7 @@ function checkValidSearchString(textboxid, defaultvalue,validationMsg)
   <div class="top-links">
     <ul>
   <li class="about-the-group-tab"><a href="/en-GB/about-the-group">ABOUT THE GROUP</a></li>
-  <li class="angles-tab"><a href="http://angles.atkinsglobal.com/" target="_blank" title="Opens in a new window">ANGLES</a></li>
+  <li class="angles-tab"><a href="/en-GB/angles">ANGLES</a></li>
   <li class="careers-tab"><a href="http://careers.atkinsglobal.com" target="_blank" title="Opens in a new window">CAREERS</a></li>
   <li class="investor-tab"><a href="/en-GB/investor-relations">INVESTORS</a></li>
   <li class="media-tab"><a href="/en-GB/media-centre">MEDIA</a></li>
@@ -264,11 +318,9 @@ function checkValidSearchString(textboxid, defaultvalue,validationMsg)
                 
             </div>
             <div class="angles-pub">
-              
-                  <p><a href="http://angles.atkinsglobal.com/" target="_blank" title="Opens in a new window">
+                  <p><a href="/en-GB/angles">
                     Angles publication platform
-                    </a></p>
-                
+                  </a></p>
             </div>
           </div>
         </div>
@@ -282,7 +334,7 @@ function checkValidSearchString(textboxid, defaultvalue,validationMsg)
             <div class="pdf-add">
               <div>
 			
-                <input type="submit" name="body_0$outer_0$main_0$ctl18" value="Add page" onclick="postPageCookie('{DD12F2DF-508F-484D-8D09-1D107DD75459}','pagecounter','','#COUNTER#','','','Page Saved successfully.','cookie limit exeeded','en-GB',this,'Add page','Remove page','addpage-pdf','removepage-pdf','1','/sitecore/content/a/atkins-corporate/library/control-settings/add page/add-page-advanced/','QueryString=#QUERYSTRING#','QueryString');return false;" id="body_0_outer_0_main_0_ctl18" class="addpage-pdf">
+                <input type="submit" name="body_0$outer_0$main_0$ctl18" value="Add page" onclick="postPageCookie('{DD12F2DF-508F-484D-8D09-1D107DD75459}','pagecounter','','#COUNTER#','','','Page Saved successfully.','cookie limit exeeded','en-GB',document.getElementById('body_0_outer_0_main_0_ctl18'),'Add page','Remove page','addpage-pdf','removepage-pdf','1','/sitecore/content/a/atkins-corporate/library/control-settings/add page/add-page-advanced/','QueryString=#QUERYSTRING#','QueryString','False','/en-GB/site-services/pdf-basket/manage-bundles');return false;" id="body_0_outer_0_main_0_ctl18" class="addpage-pdf">
                 <span id="pagecounter">0</span>
               
 		</div>
@@ -370,163 +422,175 @@ function checkValidSearchString(textboxid, defaultvalue,validationMsg)
 
 a.category-aerospace, #sectors-container ul li a span.aerospace { background-color: #2b4253; }
 
-#vector li.bar-aerospace.current, #sector-cover p.box-aerospace, #sector-cover p.box-aerospace a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-aerospace, .filters-result p#aerospace { background-color:#2b4253; }
+#vector li.bar-aerospace.current, #sector-cover p.box-aerospace, #sector-cover p.box-aerospace a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-aerospace, .filters-result p#aerospace, .most-recent-data .related-prjcts-color-wrapper span.category-aerospace { background-color:#2b4253; }
 
 body#aerospace h1, body#aerospace h2.sectorlanding, body#aerospace #subnav, body#aerospace #subnav ul li, body#aerospace #subnav ul li a, body#aerospace #shareit-container, body.ip3-aerospace h1, body.ip3-aerospace #subnav, body.ip3-aerospace #subnav ul li, body.ip3-aerospace #subnav ul li a, body.ip3-aerospace #shareit-container, body.ip3-aerospace#areas-of-expertise #content-left h3, body.ip3-aerospace#contracting-vehicles #content-left h3, body.ip3-aerospace#about-the-sector #content-left h3, #aerospace .share-on, .ip3-aerospace .share-on, #aerospace .share-on ul, .ip3-aerospace .share-on ul, .ip3-aerospace .sector-color h3 { background-color:#2b4253 !important;}
 
 a.category-aviation, #sectors-container ul li a span.aviation { background-color: #156570; }
 
-#vector li.bar-aviation.current, #sector-cover p.box-aviation, #sector-cover p.box-aviation a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-aviation, .filters-result p#aviation { background-color:#156570; }
+#vector li.bar-aviation.current, #sector-cover p.box-aviation, #sector-cover p.box-aviation a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-aviation, .filters-result p#aviation, .most-recent-data .related-prjcts-color-wrapper span.category-aviation { background-color:#156570; }
 
 body#aviation h1, body#aviation h2.sectorlanding, body#aviation #subnav, body#aviation #subnav ul li, body#aviation #subnav ul li a, body#aviation #shareit-container, body.ip3-aviation h1, body.ip3-aviation #subnav, body.ip3-aviation #subnav ul li, body.ip3-aviation #subnav ul li a, body.ip3-aviation #shareit-container, body.ip3-aviation#areas-of-expertise #content-left h3, body.ip3-aviation#contracting-vehicles #content-left h3, body.ip3-aviation#about-the-sector #content-left h3, #aviation .share-on, .ip3-aviation .share-on, #aviation .share-on ul, .ip3-aviation .share-on ul, .ip3-aviation .sector-color h3 { background-color:#156570 !important;}
 
 a.category-buildings, #sectors-container ul li a span.buildings { background-color: #6f4697; }
 
-#vector li.bar-buildings.current, #sector-cover p.box-buildings, #sector-cover p.box-buildings a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-buildings, .filters-result p#buildings { background-color:#6f4697; }
+#vector li.bar-buildings.current, #sector-cover p.box-buildings, #sector-cover p.box-buildings a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-buildings, .filters-result p#buildings, .most-recent-data .related-prjcts-color-wrapper span.category-buildings { background-color:#6f4697; }
 
 body#buildings h1, body#buildings h2.sectorlanding, body#buildings #subnav, body#buildings #subnav ul li, body#buildings #subnav ul li a, body#buildings #shareit-container, body.ip3-buildings h1, body.ip3-buildings #subnav, body.ip3-buildings #subnav ul li, body.ip3-buildings #subnav ul li a, body.ip3-buildings #shareit-container, body.ip3-buildings#areas-of-expertise #content-left h3, body.ip3-buildings#contracting-vehicles #content-left h3, body.ip3-buildings#about-the-sector #content-left h3, #buildings .share-on, .ip3-buildings .share-on, #buildings .share-on ul, .ip3-buildings .share-on ul, .ip3-buildings .sector-color h3 { background-color:#6f4697 !important;}
 
 a.category-civic, #sectors-container ul li a span.civic { background-color: #808080; }
 
-#vector li.bar-civic.current, #sector-cover p.box-civic, #sector-cover p.box-civic a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-civic, .filters-result p#civic { background-color:#808080; }
+#vector li.bar-civic.current, #sector-cover p.box-civic, #sector-cover p.box-civic a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-civic, .filters-result p#civic, .most-recent-data .related-prjcts-color-wrapper span.category-civic { background-color:#808080; }
 
 body#civic h1, body#civic h2.sectorlanding, body#civic #subnav, body#civic #subnav ul li, body#civic #subnav ul li a, body#civic #shareit-container, body.ip3-civic h1, body.ip3-civic #subnav, body.ip3-civic #subnav ul li, body.ip3-civic #subnav ul li a, body.ip3-civic #shareit-container, body.ip3-civic#areas-of-expertise #content-left h3, body.ip3-civic#contracting-vehicles #content-left h3, body.ip3-civic#about-the-sector #content-left h3, #civic .share-on, .ip3-civic .share-on, #civic .share-on ul, .ip3-civic .share-on ul, .ip3-civic .sector-color h3 { background-color:#808080 !important;}
 
 a.category-defence, #sectors-container ul li a span.defence { background-color: #ec6600; }
 
-#vector li.bar-defence.current, #sector-cover p.box-defence, #sector-cover p.box-defence a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-defence, .filters-result p#defence { background-color:#ec6600; }
+#vector li.bar-defence.current, #sector-cover p.box-defence, #sector-cover p.box-defence a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-defence, .filters-result p#defence, .most-recent-data .related-prjcts-color-wrapper span.category-defence { background-color:#ec6600; }
 
 body#defence h1, body#defence h2.sectorlanding, body#defence #subnav, body#defence #subnav ul li, body#defence #subnav ul li a, body#defence #shareit-container, body.ip3-defence h1, body.ip3-defence #subnav, body.ip3-defence #subnav ul li, body.ip3-defence #subnav ul li a, body.ip3-defence #shareit-container, body.ip3-defence#areas-of-expertise #content-left h3, body.ip3-defence#contracting-vehicles #content-left h3, body.ip3-defence#about-the-sector #content-left h3, #defence .share-on, .ip3-defence .share-on, #defence .share-on ul, .ip3-defence .share-on ul, .ip3-defence .sector-color h3 { background-color:#ec6600 !important;}
 
 a.category-education, #sectors-container ul li a span.education { background-color: #0ca737; }
 
-#vector li.bar-education.current, #sector-cover p.box-education, #sector-cover p.box-education a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-education, .filters-result p#education { background-color:#0ca737; }
+#vector li.bar-education.current, #sector-cover p.box-education, #sector-cover p.box-education a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-education, .filters-result p#education, .most-recent-data .related-prjcts-color-wrapper span.category-education { background-color:#0ca737; }
 
 body#education h1, body#education h2.sectorlanding, body#education #subnav, body#education #subnav ul li, body#education #subnav ul li a, body#education #shareit-container, body.ip3-education h1, body.ip3-education #subnav, body.ip3-education #subnav ul li, body.ip3-education #subnav ul li a, body.ip3-education #shareit-container, body.ip3-education#areas-of-expertise #content-left h3, body.ip3-education#contracting-vehicles #content-left h3, body.ip3-education#about-the-sector #content-left h3, #education .share-on, .ip3-education .share-on, #education .share-on ul, .ip3-education .share-on ul, .ip3-education .sector-color h3 { background-color:#0ca737 !important;}
 
 a.category-energy, #sectors-container ul li a span.energy { background-color: #d24d7f; }
 
-#vector li.bar-energy.current, #sector-cover p.box-energy, #sector-cover p.box-energy a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-energy, .filters-result p#energy { background-color:#d24d7f; }
+#vector li.bar-energy.current, #sector-cover p.box-energy, #sector-cover p.box-energy a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-energy, .filters-result p#energy, .most-recent-data .related-prjcts-color-wrapper span.category-energy { background-color:#d24d7f; }
 
 body#energy h1, body#energy h2.sectorlanding, body#energy #subnav, body#energy #subnav ul li, body#energy #subnav ul li a, body#energy #shareit-container, body.ip3-energy h1, body.ip3-energy #subnav, body.ip3-energy #subnav ul li, body.ip3-energy #subnav ul li a, body.ip3-energy #shareit-container, body.ip3-energy#areas-of-expertise #content-left h3, body.ip3-energy#contracting-vehicles #content-left h3, body.ip3-energy#about-the-sector #content-left h3, #energy .share-on, .ip3-energy .share-on, #energy .share-on ul, .ip3-energy .share-on ul, .ip3-energy .sector-color h3 { background-color:#d24d7f !important;}
 
 a.category-environment, #sectors-container ul li a span.environment { background-color: #a4c42e; }
 
-#vector li.bar-environment.current, #sector-cover p.box-environment, #sector-cover p.box-environment a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-environment, .filters-result p#environment { background-color:#a4c42e; }
+#vector li.bar-environment.current, #sector-cover p.box-environment, #sector-cover p.box-environment a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-environment, .filters-result p#environment, .most-recent-data .related-prjcts-color-wrapper span.category-environment { background-color:#a4c42e; }
 
 body#environment h1, body#environment h2.sectorlanding, body#environment #subnav, body#environment #subnav ul li, body#environment #subnav ul li a, body#environment #shareit-container, body.ip3-environment h1, body.ip3-environment #subnav, body.ip3-environment #subnav ul li, body.ip3-environment #subnav ul li a, body.ip3-environment #shareit-container, body.ip3-environment#areas-of-expertise #content-left h3, body.ip3-environment#contracting-vehicles #content-left h3, body.ip3-environment#about-the-sector #content-left h3, #environment .share-on, .ip3-environment .share-on, #environment .share-on ul, .ip3-environment .share-on ul, .ip3-environment .sector-color h3 { background-color:#a4c42e !important;}
 
 a.category-government, #sectors-container ul li a span.government { background-color: #333333; }
 
-#vector li.bar-government.current, #sector-cover p.box-government, #sector-cover p.box-government a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-government, .filters-result p#government { background-color:#333333; }
+#vector li.bar-government.current, #sector-cover p.box-government, #sector-cover p.box-government a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-government, .filters-result p#government, .most-recent-data .related-prjcts-color-wrapper span.category-government { background-color:#333333; }
 
 body#government h1, body#government h2.sectorlanding, body#government #subnav, body#government #subnav ul li, body#government #subnav ul li a, body#government #shareit-container, body.ip3-government h1, body.ip3-government #subnav, body.ip3-government #subnav ul li, body.ip3-government #subnav ul li a, body.ip3-government #shareit-container, body.ip3-government#areas-of-expertise #content-left h3, body.ip3-government#contracting-vehicles #content-left h3, body.ip3-government#about-the-sector #content-left h3, #government .share-on, .ip3-government .share-on, #government .share-on ul, .ip3-government .share-on ul, .ip3-government .sector-color h3 { background-color:#333333 !important;}
 
 a.category-healthcare, #sectors-container ul li a span.healthcare { background-color: #107e78; }
 
-#vector li.bar-healthcare.current, #sector-cover p.box-healthcare, #sector-cover p.box-healthcare a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-healthcare, .filters-result p#healthcare { background-color:#107e78; }
+#vector li.bar-healthcare.current, #sector-cover p.box-healthcare, #sector-cover p.box-healthcare a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-healthcare, .filters-result p#healthcare, .most-recent-data .related-prjcts-color-wrapper span.category-healthcare { background-color:#107e78; }
 
 body#healthcare h1, body#healthcare h2.sectorlanding, body#healthcare #subnav, body#healthcare #subnav ul li, body#healthcare #subnav ul li a, body#healthcare #shareit-container, body.ip3-healthcare h1, body.ip3-healthcare #subnav, body.ip3-healthcare #subnav ul li, body.ip3-healthcare #subnav ul li a, body.ip3-healthcare #shareit-container, body.ip3-healthcare#areas-of-expertise #content-left h3, body.ip3-healthcare#contracting-vehicles #content-left h3, body.ip3-healthcare#about-the-sector #content-left h3, #healthcare .share-on, .ip3-healthcare .share-on, #healthcare .share-on ul, .ip3-healthcare .share-on ul, .ip3-healthcare .sector-color h3 { background-color:#107e78 !important;}
 
+a.category-hospitality, #sectors-container ul li a span.hospitality { background-color: #808080; }
+
+#vector li.bar-hospitality.current, #sector-cover p.box-hospitality, #sector-cover p.box-hospitality a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-hospitality, .filters-result p#hospitality, .most-recent-data .related-prjcts-color-wrapper span.category-hospitality { background-color:#808080; }
+
+body#hospitality h1, body#hospitality h2.sectorlanding, body#hospitality #subnav, body#hospitality #subnav ul li, body#hospitality #subnav ul li a, body#hospitality #shareit-container, body.ip3-hospitality h1, body.ip3-hospitality #subnav, body.ip3-hospitality #subnav ul li, body.ip3-hospitality #subnav ul li a, body.ip3-hospitality #shareit-container, body.ip3-hospitality#areas-of-expertise #content-left h3, body.ip3-hospitality#contracting-vehicles #content-left h3, body.ip3-hospitality#about-the-sector #content-left h3, #hospitality .share-on, .ip3-hospitality .share-on, #hospitality .share-on ul, .ip3-hospitality .share-on ul, .ip3-hospitality .sector-color h3 { background-color:#808080 !important;}
+
 a.category-information-communications, #sectors-container ul li a span.information-communications { background-color: #e42e34; }
 
-#vector li.bar-information-communications.current, #sector-cover p.box-information-communications, #sector-cover p.box-information-communications a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-information-communications, .filters-result p#information-communications { background-color:#e42e34; }
+#vector li.bar-information-communications.current, #sector-cover p.box-information-communications, #sector-cover p.box-information-communications a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-information-communications, .filters-result p#information-communications, .most-recent-data .related-prjcts-color-wrapper span.category-information-communications { background-color:#e42e34; }
 
 body#information-communications h1, body#information-communications h2.sectorlanding, body#information-communications #subnav, body#information-communications #subnav ul li, body#information-communications #subnav ul li a, body#information-communications #shareit-container, body.ip3-information-communications h1, body.ip3-information-communications #subnav, body.ip3-information-communications #subnav ul li, body.ip3-information-communications #subnav ul li a, body.ip3-information-communications #shareit-container, body.ip3-information-communications#areas-of-expertise #content-left h3, body.ip3-information-communications#contracting-vehicles #content-left h3, body.ip3-information-communications#about-the-sector #content-left h3, #information-communications .share-on, .ip3-information-communications .share-on, #information-communications .share-on ul, .ip3-information-communications .share-on ul, .ip3-information-communications .sector-color h3 { background-color:#e42e34 !important;}
 
 a.category-marine-and-coastal, #sectors-container ul li a span.marine-and-coastal { background-color: #999999; }
 
-#vector li.bar-marine-and-coastal.current, #sector-cover p.box-marine-and-coastal, #sector-cover p.box-marine-and-coastal a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-marine-and-coastal, .filters-result p#marine-and-coastal { background-color:#999999; }
+#vector li.bar-marine-and-coastal.current, #sector-cover p.box-marine-and-coastal, #sector-cover p.box-marine-and-coastal a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-marine-and-coastal, .filters-result p#marine-and-coastal, .most-recent-data .related-prjcts-color-wrapper span.category-marine-and-coastal { background-color:#999999; }
 
 body#marine-and-coastal h1, body#marine-and-coastal h2.sectorlanding, body#marine-and-coastal #subnav, body#marine-and-coastal #subnav ul li, body#marine-and-coastal #subnav ul li a, body#marine-and-coastal #shareit-container, body.ip3-marine-and-coastal h1, body.ip3-marine-and-coastal #subnav, body.ip3-marine-and-coastal #subnav ul li, body.ip3-marine-and-coastal #subnav ul li a, body.ip3-marine-and-coastal #shareit-container, body.ip3-marine-and-coastal#areas-of-expertise #content-left h3, body.ip3-marine-and-coastal#contracting-vehicles #content-left h3, body.ip3-marine-and-coastal#about-the-sector #content-left h3, #marine-and-coastal .share-on, .ip3-marine-and-coastal .share-on, #marine-and-coastal .share-on ul, .ip3-marine-and-coastal .share-on ul, .ip3-marine-and-coastal .sector-color h3 { background-color:#999999 !important;}
 
 a.category-mass-transit, #sectors-container ul li a span.mass-transit { background-color: #d8648f; }
 
-#vector li.bar-mass-transit.current, #sector-cover p.box-mass-transit, #sector-cover p.box-mass-transit a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-mass-transit, .filters-result p#mass-transit { background-color:#d8648f; }
+#vector li.bar-mass-transit.current, #sector-cover p.box-mass-transit, #sector-cover p.box-mass-transit a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-mass-transit, .filters-result p#mass-transit, .most-recent-data .related-prjcts-color-wrapper span.category-mass-transit { background-color:#d8648f; }
 
 body#mass-transit h1, body#mass-transit h2.sectorlanding, body#mass-transit #subnav, body#mass-transit #subnav ul li, body#mass-transit #subnav ul li a, body#mass-transit #shareit-container, body.ip3-mass-transit h1, body.ip3-mass-transit #subnav, body.ip3-mass-transit #subnav ul li, body.ip3-mass-transit #subnav ul li a, body.ip3-mass-transit #shareit-container, body.ip3-mass-transit#areas-of-expertise #content-left h3, body.ip3-mass-transit#contracting-vehicles #content-left h3, body.ip3-mass-transit#about-the-sector #content-left h3, #mass-transit .share-on, .ip3-mass-transit .share-on, #mass-transit .share-on ul, .ip3-mass-transit .share-on ul, .ip3-mass-transit .sector-color h3 { background-color:#d8648f !important;}
 
 a.category-mixed-use, #sectors-container ul li a span.mixed-use { background-color: #808080; }
 
-#vector li.bar-mixed-use.current, #sector-cover p.box-mixed-use, #sector-cover p.box-mixed-use a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-mixed-use, .filters-result p#mixed-use { background-color:#808080; }
+#vector li.bar-mixed-use.current, #sector-cover p.box-mixed-use, #sector-cover p.box-mixed-use a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-mixed-use, .filters-result p#mixed-use, .most-recent-data .related-prjcts-color-wrapper span.category-mixed-use { background-color:#808080; }
 
 body#mixed-use h1, body#mixed-use h2.sectorlanding, body#mixed-use #subnav, body#mixed-use #subnav ul li, body#mixed-use #subnav ul li a, body#mixed-use #shareit-container, body.ip3-mixed-use h1, body.ip3-mixed-use #subnav, body.ip3-mixed-use #subnav ul li, body.ip3-mixed-use #subnav ul li a, body.ip3-mixed-use #shareit-container, body.ip3-mixed-use#areas-of-expertise #content-left h3, body.ip3-mixed-use#contracting-vehicles #content-left h3, body.ip3-mixed-use#about-the-sector #content-left h3, #mixed-use .share-on, .ip3-mixed-use .share-on, #mixed-use .share-on ul, .ip3-mixed-use .share-on ul, .ip3-mixed-use .sector-color h3 { background-color:#808080 !important;}
 
+a.category-northern-powerhouse, #sectors-container ul li a span.northern-powerhouse { background-color: #d24d7f; }
+
+#vector li.bar-northern-powerhouse.current, #sector-cover p.box-northern-powerhouse, #sector-cover p.box-northern-powerhouse a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-northern-powerhouse, .filters-result p#northern-powerhouse, .most-recent-data .related-prjcts-color-wrapper span.category-northern-powerhouse { background-color:#d24d7f; }
+
+body#northern-powerhouse h1, body#northern-powerhouse h2.sectorlanding, body#northern-powerhouse #subnav, body#northern-powerhouse #subnav ul li, body#northern-powerhouse #subnav ul li a, body#northern-powerhouse #shareit-container, body.ip3-northern-powerhouse h1, body.ip3-northern-powerhouse #subnav, body.ip3-northern-powerhouse #subnav ul li, body.ip3-northern-powerhouse #subnav ul li a, body.ip3-northern-powerhouse #shareit-container, body.ip3-northern-powerhouse#areas-of-expertise #content-left h3, body.ip3-northern-powerhouse#contracting-vehicles #content-left h3, body.ip3-northern-powerhouse#about-the-sector #content-left h3, #northern-powerhouse .share-on, .ip3-northern-powerhouse .share-on, #northern-powerhouse .share-on ul, .ip3-northern-powerhouse .share-on ul, .ip3-northern-powerhouse .sector-color h3 { background-color:#d24d7f !important;}
+
 a.category-nuclear, #sectors-container ul li a span.nuclear { background-color: #a43e7e; }
 
-#vector li.bar-nuclear.current, #sector-cover p.box-nuclear, #sector-cover p.box-nuclear a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-nuclear, .filters-result p#nuclear { background-color:#a43e7e; }
+#vector li.bar-nuclear.current, #sector-cover p.box-nuclear, #sector-cover p.box-nuclear a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-nuclear, .filters-result p#nuclear, .most-recent-data .related-prjcts-color-wrapper span.category-nuclear { background-color:#a43e7e; }
 
 body#nuclear h1, body#nuclear h2.sectorlanding, body#nuclear #subnav, body#nuclear #subnav ul li, body#nuclear #subnav ul li a, body#nuclear #shareit-container, body.ip3-nuclear h1, body.ip3-nuclear #subnav, body.ip3-nuclear #subnav ul li, body.ip3-nuclear #subnav ul li a, body.ip3-nuclear #shareit-container, body.ip3-nuclear#areas-of-expertise #content-left h3, body.ip3-nuclear#contracting-vehicles #content-left h3, body.ip3-nuclear#about-the-sector #content-left h3, #nuclear .share-on, .ip3-nuclear .share-on, #nuclear .share-on ul, .ip3-nuclear .share-on ul, .ip3-nuclear .sector-color h3 { background-color:#a43e7e !important;}
 
 a.category-offices, #sectors-container ul li a span.offices { background-color: #808080; }
 
-#vector li.bar-offices.current, #sector-cover p.box-offices, #sector-cover p.box-offices a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-offices, .filters-result p#offices { background-color:#808080; }
+#vector li.bar-offices.current, #sector-cover p.box-offices, #sector-cover p.box-offices a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-offices, .filters-result p#offices, .most-recent-data .related-prjcts-color-wrapper span.category-offices { background-color:#808080; }
 
 body#offices h1, body#offices h2.sectorlanding, body#offices #subnav, body#offices #subnav ul li, body#offices #subnav ul li a, body#offices #shareit-container, body.ip3-offices h1, body.ip3-offices #subnav, body.ip3-offices #subnav ul li, body.ip3-offices #subnav ul li a, body.ip3-offices #shareit-container, body.ip3-offices#areas-of-expertise #content-left h3, body.ip3-offices#contracting-vehicles #content-left h3, body.ip3-offices#about-the-sector #content-left h3, #offices .share-on, .ip3-offices .share-on, #offices .share-on ul, .ip3-offices .share-on ul, .ip3-offices .sector-color h3 { background-color:#808080 !important;}
 
 a.category-oil-and-gas, #sectors-container ul li a span.oil-and-gas { background-color: #57a4a1; }
 
-#vector li.bar-oil-and-gas.current, #sector-cover p.box-oil-and-gas, #sector-cover p.box-oil-and-gas a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-oil-and-gas, .filters-result p#oil-and-gas { background-color:#57a4a1; }
+#vector li.bar-oil-and-gas.current, #sector-cover p.box-oil-and-gas, #sector-cover p.box-oil-and-gas a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-oil-and-gas, .filters-result p#oil-and-gas, .most-recent-data .related-prjcts-color-wrapper span.category-oil-and-gas { background-color:#57a4a1; }
 
 body#oil-and-gas h1, body#oil-and-gas h2.sectorlanding, body#oil-and-gas #subnav, body#oil-and-gas #subnav ul li, body#oil-and-gas #subnav ul li a, body#oil-and-gas #shareit-container, body.ip3-oil-and-gas h1, body.ip3-oil-and-gas #subnav, body.ip3-oil-and-gas #subnav ul li, body.ip3-oil-and-gas #subnav ul li a, body.ip3-oil-and-gas #shareit-container, body.ip3-oil-and-gas#areas-of-expertise #content-left h3, body.ip3-oil-and-gas#contracting-vehicles #content-left h3, body.ip3-oil-and-gas#about-the-sector #content-left h3, #oil-and-gas .share-on, .ip3-oil-and-gas .share-on, #oil-and-gas .share-on ul, .ip3-oil-and-gas .share-on ul, .ip3-oil-and-gas .sector-color h3 { background-color:#57a4a1 !important;}
 
 a.category-power, #sectors-container ul li a span.power { background-color: #0a5d97; }
 
-#vector li.bar-power.current, #sector-cover p.box-power, #sector-cover p.box-power a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-power, .filters-result p#power { background-color:#0a5d97; }
+#vector li.bar-power.current, #sector-cover p.box-power, #sector-cover p.box-power a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-power, .filters-result p#power, .most-recent-data .related-prjcts-color-wrapper span.category-power { background-color:#0a5d97; }
 
 body#power h1, body#power h2.sectorlanding, body#power #subnav, body#power #subnav ul li, body#power #subnav ul li a, body#power #shareit-container, body.ip3-power h1, body.ip3-power #subnav, body.ip3-power #subnav ul li, body.ip3-power #subnav ul li a, body.ip3-power #shareit-container, body.ip3-power#areas-of-expertise #content-left h3, body.ip3-power#contracting-vehicles #content-left h3, body.ip3-power#about-the-sector #content-left h3, #power .share-on, .ip3-power .share-on, #power .share-on ul, .ip3-power .share-on ul, .ip3-power .sector-color h3 { background-color:#0a5d97 !important;}
 
 a.category-rail, #sectors-container ul li a span.rail { background-color: #77ca8b; }
 
-#vector li.bar-rail.current, #sector-cover p.box-rail, #sector-cover p.box-rail a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-rail, .filters-result p#rail { background-color:#77ca8b; }
+#vector li.bar-rail.current, #sector-cover p.box-rail, #sector-cover p.box-rail a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-rail, .filters-result p#rail, .most-recent-data .related-prjcts-color-wrapper span.category-rail { background-color:#77ca8b; }
 
 body#rail h1, body#rail h2.sectorlanding, body#rail #subnav, body#rail #subnav ul li, body#rail #subnav ul li a, body#rail #shareit-container, body.ip3-rail h1, body.ip3-rail #subnav, body.ip3-rail #subnav ul li, body.ip3-rail #subnav ul li a, body.ip3-rail #shareit-container, body.ip3-rail#areas-of-expertise #content-left h3, body.ip3-rail#contracting-vehicles #content-left h3, body.ip3-rail#about-the-sector #content-left h3, #rail .share-on, .ip3-rail .share-on, #rail .share-on ul, .ip3-rail .share-on ul, .ip3-rail .sector-color h3 { background-color:#77ca8b !important;}
 
 a.category-renewables, #sectors-container ul li a span.renewables { background-color: #666666; }
 
-#vector li.bar-renewables.current, #sector-cover p.box-renewables, #sector-cover p.box-renewables a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-renewables, .filters-result p#renewables { background-color:#666666; }
+#vector li.bar-renewables.current, #sector-cover p.box-renewables, #sector-cover p.box-renewables a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-renewables, .filters-result p#renewables, .most-recent-data .related-prjcts-color-wrapper span.category-renewables { background-color:#666666; }
 
 body#renewables h1, body#renewables h2.sectorlanding, body#renewables #subnav, body#renewables #subnav ul li, body#renewables #subnav ul li a, body#renewables #shareit-container, body.ip3-renewables h1, body.ip3-renewables #subnav, body.ip3-renewables #subnav ul li, body.ip3-renewables #subnav ul li a, body.ip3-renewables #shareit-container, body.ip3-renewables#areas-of-expertise #content-left h3, body.ip3-renewables#contracting-vehicles #content-left h3, body.ip3-renewables#about-the-sector #content-left h3, #renewables .share-on, .ip3-renewables .share-on, #renewables .share-on ul, .ip3-renewables .share-on ul, .ip3-renewables .sector-color h3 { background-color:#666666 !important;}
 
 a.category-residential, #sectors-container ul li a span.residential { background-color: #808080; }
 
-#vector li.bar-residential.current, #sector-cover p.box-residential, #sector-cover p.box-residential a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-residential, .filters-result p#residential { background-color:#808080; }
+#vector li.bar-residential.current, #sector-cover p.box-residential, #sector-cover p.box-residential a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-residential, .filters-result p#residential, .most-recent-data .related-prjcts-color-wrapper span.category-residential { background-color:#808080; }
 
 body#residential h1, body#residential h2.sectorlanding, body#residential #subnav, body#residential #subnav ul li, body#residential #subnav ul li a, body#residential #shareit-container, body.ip3-residential h1, body.ip3-residential #subnav, body.ip3-residential #subnav ul li, body.ip3-residential #subnav ul li a, body.ip3-residential #shareit-container, body.ip3-residential#areas-of-expertise #content-left h3, body.ip3-residential#contracting-vehicles #content-left h3, body.ip3-residential#about-the-sector #content-left h3, #residential .share-on, .ip3-residential .share-on, #residential .share-on ul, .ip3-residential .share-on ul, .ip3-residential .sector-color h3 { background-color:#808080 !important;}
 
 a.category-retail, #sectors-container ul li a span.retail { background-color: #808080; }
 
-#vector li.bar-retail.current, #sector-cover p.box-retail, #sector-cover p.box-retail a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-retail, .filters-result p#retail { background-color:#808080; }
+#vector li.bar-retail.current, #sector-cover p.box-retail, #sector-cover p.box-retail a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-retail, .filters-result p#retail, .most-recent-data .related-prjcts-color-wrapper span.category-retail { background-color:#808080; }
 
 body#retail h1, body#retail h2.sectorlanding, body#retail #subnav, body#retail #subnav ul li, body#retail #subnav ul li a, body#retail #shareit-container, body.ip3-retail h1, body.ip3-retail #subnav, body.ip3-retail #subnav ul li, body.ip3-retail #subnav ul li a, body.ip3-retail #shareit-container, body.ip3-retail#areas-of-expertise #content-left h3, body.ip3-retail#contracting-vehicles #content-left h3, body.ip3-retail#about-the-sector #content-left h3, #retail .share-on, .ip3-retail .share-on, #retail .share-on ul, .ip3-retail .share-on ul, .ip3-retail .sector-color h3 { background-color:#808080 !important;}
 
 a.category-roads-and-bridges, #sectors-container ul li a span.roads-and-bridges { background-color: #b0a892; }
 
-#vector li.bar-roads-and-bridges.current, #sector-cover p.box-roads-and-bridges, #sector-cover p.box-roads-and-bridges a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-roads-and-bridges, .filters-result p#roads-and-bridges { background-color:#b0a892; }
+#vector li.bar-roads-and-bridges.current, #sector-cover p.box-roads-and-bridges, #sector-cover p.box-roads-and-bridges a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-roads-and-bridges, .filters-result p#roads-and-bridges, .most-recent-data .related-prjcts-color-wrapper span.category-roads-and-bridges { background-color:#b0a892; }
 
 body#roads-and-bridges h1, body#roads-and-bridges h2.sectorlanding, body#roads-and-bridges #subnav, body#roads-and-bridges #subnav ul li, body#roads-and-bridges #subnav ul li a, body#roads-and-bridges #shareit-container, body.ip3-roads-and-bridges h1, body.ip3-roads-and-bridges #subnav, body.ip3-roads-and-bridges #subnav ul li, body.ip3-roads-and-bridges #subnav ul li a, body.ip3-roads-and-bridges #shareit-container, body.ip3-roads-and-bridges#areas-of-expertise #content-left h3, body.ip3-roads-and-bridges#contracting-vehicles #content-left h3, body.ip3-roads-and-bridges#about-the-sector #content-left h3, #roads-and-bridges .share-on, .ip3-roads-and-bridges .share-on, #roads-and-bridges .share-on ul, .ip3-roads-and-bridges .share-on ul, .ip3-roads-and-bridges .sector-color h3 { background-color:#b0a892 !important;}
 
 a.category-security, #sectors-container ul li a span.security { background-color: #bfd66c; }
 
-#vector li.bar-security.current, #sector-cover p.box-security, #sector-cover p.box-security a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-security, .filters-result p#security { background-color:#bfd66c; }
+#vector li.bar-security.current, #sector-cover p.box-security, #sector-cover p.box-security a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-security, .filters-result p#security, .most-recent-data .related-prjcts-color-wrapper span.category-security { background-color:#bfd66c; }
 
 body#security h1, body#security h2.sectorlanding, body#security #subnav, body#security #subnav ul li, body#security #subnav ul li a, body#security #shareit-container, body.ip3-security h1, body.ip3-security #subnav, body.ip3-security #subnav ul li, body.ip3-security #subnav ul li a, body.ip3-security #shareit-container, body.ip3-security#areas-of-expertise #content-left h3, body.ip3-security#contracting-vehicles #content-left h3, body.ip3-security#about-the-sector #content-left h3, #security .share-on, .ip3-security .share-on, #security .share-on ul, .ip3-security .share-on ul, .ip3-security .sector-color h3 { background-color:#bfd66c !important;}
 
 a.category-tourism-and-leisure, #sectors-container ul li a span.tourism-and-leisure { background-color: #db5d55; }
 
-#vector li.bar-tourism-and-leisure.current, #sector-cover p.box-tourism-and-leisure, #sector-cover p.box-tourism-and-leisure a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-tourism-and-leisure, .filters-result p#tourism-and-leisure { background-color:#db5d55; }
+#vector li.bar-tourism-and-leisure.current, #sector-cover p.box-tourism-and-leisure, #sector-cover p.box-tourism-and-leisure a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-tourism-and-leisure, .filters-result p#tourism-and-leisure, .most-recent-data .related-prjcts-color-wrapper span.category-tourism-and-leisure { background-color:#db5d55; }
 
 body#tourism-and-leisure h1, body#tourism-and-leisure h2.sectorlanding, body#tourism-and-leisure #subnav, body#tourism-and-leisure #subnav ul li, body#tourism-and-leisure #subnav ul li a, body#tourism-and-leisure #shareit-container, body.ip3-tourism-and-leisure h1, body.ip3-tourism-and-leisure #subnav, body.ip3-tourism-and-leisure #subnav ul li, body.ip3-tourism-and-leisure #subnav ul li a, body.ip3-tourism-and-leisure #shareit-container, body.ip3-tourism-and-leisure#areas-of-expertise #content-left h3, body.ip3-tourism-and-leisure#contracting-vehicles #content-left h3, body.ip3-tourism-and-leisure#about-the-sector #content-left h3, #tourism-and-leisure .share-on, .ip3-tourism-and-leisure .share-on, #tourism-and-leisure .share-on ul, .ip3-tourism-and-leisure .share-on ul, .ip3-tourism-and-leisure .sector-color h3 { background-color:#db5d55 !important;}
 
 a.category-urban-development, #sectors-container ul li a span.urban-development { background-color: #ee854b; }
 
-#vector li.bar-urban-development.current, #sector-cover p.box-urban-development, #sector-cover p.box-urban-development a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-urban-development, .filters-result p#urban-development { background-color:#ee854b; }
+#vector li.bar-urban-development.current, #sector-cover p.box-urban-development, #sector-cover p.box-urban-development a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-urban-development, .filters-result p#urban-development, .most-recent-data .related-prjcts-color-wrapper span.category-urban-development { background-color:#ee854b; }
 
 body#urban-development h1, body#urban-development h2.sectorlanding, body#urban-development #subnav, body#urban-development #subnav ul li, body#urban-development #subnav ul li a, body#urban-development #shareit-container, body.ip3-urban-development h1, body.ip3-urban-development #subnav, body.ip3-urban-development #subnav ul li, body.ip3-urban-development #subnav ul li a, body.ip3-urban-development #shareit-container, body.ip3-urban-development#areas-of-expertise #content-left h3, body.ip3-urban-development#contracting-vehicles #content-left h3, body.ip3-urban-development#about-the-sector #content-left h3, #urban-development .share-on, .ip3-urban-development .share-on, #urban-development .share-on ul, .ip3-urban-development .share-on ul, .ip3-urban-development .sector-color h3 { background-color:#ee854b !important;}
 
 a.category-water, #sectors-container ul li a span.water { background-color: #1897d5; }
 
-#vector li.bar-water.current, #sector-cover p.box-water, #sector-cover p.box-water a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-water, .filters-result p#water { background-color:#1897d5; }
+#vector li.bar-water.current, #sector-cover p.box-water, #sector-cover p.box-water a, #resulted-projects-wrapper .related-prjcts-color-wrapper span.category-water, .filters-result p#water, .most-recent-data .related-prjcts-color-wrapper span.category-water { background-color:#1897d5; }
 
 body#water h1, body#water h2.sectorlanding, body#water #subnav, body#water #subnav ul li, body#water #subnav ul li a, body#water #shareit-container, body.ip3-water h1, body.ip3-water #subnav, body.ip3-water #subnav ul li, body.ip3-water #subnav ul li a, body.ip3-water #shareit-container, body.ip3-water#areas-of-expertise #content-left h3, body.ip3-water#contracting-vehicles #content-left h3, body.ip3-water#about-the-sector #content-left h3, #water .share-on, .ip3-water .share-on, #water .share-on ul, .ip3-water .share-on ul, .ip3-water .sector-color h3 { background-color:#1897d5 !important;}
 
@@ -538,8 +602,8 @@ body#water h1, body#water h2.sectorlanding, body#water #subnav, body#water #subn
 <div id="left-nav"> 
   <!--skipsearch-->
   <ul id="section-Homepage-level2">
-					<li id="nav-alert-service-level2" class="level2 first"><a href="/en-GB/site-services/alert-service"><span>Alert service</span></a></li><li id="nav-rss-level2" class="level2"><a href="/en-GB/site-services/rss"><span>RSS</span></a></li><li id="nav-contact-us-level2" class="level2"><a href="/en-GB/site-services/contact-us"><span>Contact us</span></a></li><li id="nav-site-map-level2" class="level2"><a href="/en-GB/site-services/site-map"><span>Site map</span></a></li><li id="nav-privacy-level2" class="level2 current"><a href="/en-GB/site-services/privacy"><span>Privacy</span></a></li><li id="nav-disclaimer-level2" class="level2"><a href="/en-GB/site-services/disclaimer"><span>Disclaimer</span></a></li><li id="nav-group-company-registration-details-level2" class="level2"><a href="/en-GB/site-services/group-company-registration-details"><span>Group Company Registration Details</span></a></li><li id="nav-accessibility-statement-level2" class="level2 last"><a href="/en-GB/site-services/accessibility-statement"><span>Accessibility statement</span></a></li>
-				</ul>
+	<li id="nav-alert-service-level2" class="level2 first"><a href="/en-GB/site-services/alert-service"><span>Alert service</span></a></li><li id="nav-rss-level2" class="level2"><a href="/en-GB/site-services/rss"><span>RSS</span></a></li><li id="nav-contact-us-level2" class="level2"><a href="/en-GB/site-services/contact-us"><span>Contact us</span></a></li><li id="nav-site-map-level2" class="level2"><a href="/en-GB/site-services/site-map"><span>Site map</span></a></li><li id="nav-privacy-level2" class="level2 current"><a href="/en-GB/site-services/privacy"><span>Privacy</span></a></li><li id="nav-disclaimer-level2" class="level2"><a href="/en-GB/site-services/disclaimer"><span>Disclaimer</span></a></li><li id="nav-group-company-registration-details-level2" class="level2"><a href="/en-GB/site-services/group-company-registration-details"><span>Group Company Registration Details</span></a></li><li id="nav-accessibility-statement-level2" class="level2 last"><a href="/en-GB/site-services/accessibility-statement"><span>Accessibility statement</span></a></li>
+</ul>
 <!--/skipsearch-->
   
       
@@ -548,6 +612,7 @@ body#water h1, body#water h2.sectorlanding, body#water #subnav, body#water #subn
 			</div><div id="corporate-right">
 				
 <!-- Sublayout for Corporate Banner page -->
+
 
 <div id="corporate-banner">
   
@@ -569,6 +634,9 @@ body#water h1, body#water h2.sectorlanding, body#water #subnav, body#water #subn
         
     
 </div>
+
+
+
 <div id="corporate-head">
   
       <h1>
@@ -833,14 +901,15 @@ body#water h1, body#water h2.sectorlanding, body#water #subnav, body#water #subn
 <div class="footer-box4">
   <p><strong>Essentials</strong></p>
 <ul>
+<li><a href="/en-GB/site-services/accessibility-statement">ACCESSIBILITY STATEMENT</a></li>
   <li><a href="/en-GB/site-services/alert-service">ALERTS</a></li>
-  <li><a href="/en-GB/site-services/rss">RSS</a></li>
   <li><a href="/en-GB/site-services/contact-us">CONTACT US </a></li>
-  <li><a href="/en-GB/site-services/site-map">SITE MAP </a></li>
-  <li><a href="/en-GB/site-services/privacy">PRIVACY </a></li>
   <li><a href="/en-GB/site-services/disclaimer"> DISCLAIMER </a></li>
   <li><a href="/en-GB/site-services/group-company-registration-details">GROUP COMPANY REGISTRATION DETAILS</a></li>
-  <li><a href="/en-GB/site-services/accessibility-statement">ACCESSIBILITY STATEMENT</a></li>
+  <li><a href="/en-GB/site-services/privacy">PRIVACY </a></li>
+  <li><a href="/en-GB/site-services/rss">RSS</a></li>
+  <li><a href="/en-GB/site-services/site-map">SITE MAP </a></li>
+  <li><a href="/en-GB/media-centre/social-media">SOCIAL MEDIA</a></li>
 </ul>
 
 </div>
@@ -863,6 +932,8 @@ body#water h1, body#water h2.sectorlanding, body#water #subnav, body#water #subn
     </div>
   </div>
 <!--Google Analytics-->
+
+
 <!-- Google Analytics -->
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -876,6 +947,8 @@ ga('send', 'pageview');
 </script>
 <!-- End Google Analytics -->
 
+
+
 <!-- Adobe Control -->
 <div id="dyn-adobe" style="display:none;">
 <div class="adobe-con">
@@ -887,6 +960,9 @@ Most computers will open PDF documents automatically, but you may need to downlo
   </div>
 </div>
 <!--/skipsearch-->
+
+		
+	
 	</div>
 </div>
 
@@ -897,7 +973,7 @@ Most computers will open PDF documents automatically, but you may need to downlo
 
 <script type="text/javascript">
 //<![CDATA[
-setAddButtonClass('1','QueryString=#QUERYSTRING#','QueryString','body_0_outer_0_main_0_ctl18','Add page','addpage-pdf');//]]>
+if (window.addEventListener){ window.addEventListener('load', function(){ setAddButtonClass('1','QueryString=#QUERYSTRING#','QueryString','body_0_outer_0_main_0_ctl18','Add page','addpage-pdf'); }, false); } else if (window.attachEvent){ window.attachEvent('onload', function(){ setAddButtonClass('1','QueryString=#QUERYSTRING#','QueryString','body_0_outer_0_main_0_ctl18','Add page','addpage-pdf'); }); }//]]>
 </script>
 </form>
     
