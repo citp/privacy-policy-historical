@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boh.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905064305id_/https%3A//www.boh.com/security/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boh.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506131821id_/https%3A//www.boh.com/security/privacy.asp) for the most accurate reproduction.*
 
 # Bank of Hawaii - Other - Bank of Hawaii - Online Privacy Policy
 
