@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the mydreamstore.in privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317142013id_/https%3A//mydreamstore.in/cms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydreamstore.in privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506063910id_/https%3A//mydreamstore.in/cms/privacy-policy) for the most accurate reproduction.*
 
 # My Dream Store
 
+**_My Dream Store Privacy Policy_**
+
 We respect your right to privacy. At My Dream Store we collect only the information necessary for us to complete your order or to contact you regarding the status of your order. The information we collect includes your name, email address, shipping address, and billing address.
 
-My Dream Store does not store your credit card or online bank account information.
+• My Dream Store does not store your credit card or online bank account information.
 
 • My Dream Store will not rent or sell your name or personal information.
 
@@ -12,9 +14,9 @@ My Dream Store does not store your credit card or online bank account informatio
 
 • My Dream Store reserves the right to update this privacy policy at anytime. Updates to our privacy policy will be sent to the email address that you have provided us.
 
-• COLLECTION of PERSONAL INFORMATION: We collect "personal" information from you when you provide it to us. For example, if you purchase a product from us, we may collect your name, mailing address, telephone number and email address. If you sign up to receive a newsletter, we will collect your email address. If you take advantage of special services offered by us, we may collect other personal information about you. We use your personal information for internal purposes such as processing and keeping you informed of your order.
+**COLLECTION of PERSONAL INFORMATION** : We collect "personal" information from you when you provide it to us. For example, if you purchase a product from us, we may collect your name, mailing address, telephone number and email address. If you sign up to receive a newsletter, we will collect your email address. If you take advantage of special services offered by us, we may collect other personal information about you. We use your personal information for internal purposes such as processing and keeping you informed of your order.
 
-• DISCLOSURE of PERSONAL INFORMATION: Under no circumstances do we rent, trade or share your PII that we have collected with any other company for their marketing purposes without your consent. We reserve the right to communicate your personal information to any third party that makes a legally-compliant request for its disclosure. Otherwise, however, we will not disclose your name, address and other information which identifies you personally to any third party without your consent. We reserve the right to collect general demographic and other anonymous information that does not personally identify you. This information is not associated with your personally identifiable information and cannot be linked to you personally. However, in case of a situation wherein we are obliged to comply with law or a statutory obligation or a legal process, we would be compelled to provide information about a customer.
+**DISCLOSURE of PERSONAL INFORMATION** : Under no circumstances do we rent, trade or share your PII that we have collected with any other company for their marketing purposes without your consent. We reserve the right to communicate your personal information to any third party that makes a legally-compliant request for its disclosure. Otherwise, however, we will not disclose your name, address and other information which identifies you personally to any third party without your consent. We reserve the right to collect general demographic and other anonymous information that does not personally identify you. This information is not associated with your personally identifiable information and cannot be linked to you personally. However, in case of a situation wherein we are obliged to comply with law or a statutory obligation or a legal process, we would be compelled to provide information about a customer.
 
 • Why are COOKIES important: We use cookies and other technologies such as pixel tags and clear gifs to store certain types of information each time you visit any page on our website. Cookies enable this website to recognize the information you have consented to give to this website and help us determine what portions of this website are most appropriate for your professional needs. We may also use cookies to serve advertising banners to you. These banners may be served by us or by a third party on our behalf. These cookies will not contain any personal information.
 
