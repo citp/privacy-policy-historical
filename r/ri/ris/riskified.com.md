@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the riskified.com privacy policy that was archived on 2015-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151019000139id_/http%3A//www.riskified.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riskified.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506231143id_/http%3A//www.riskified.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Riskified eCommerce Fraud Prevention Solution
+# Privacy Policy | Riskified
 
 Last updated: Jan 1st 2013
 
@@ -50,7 +50,7 @@ This Policy shall be exclusively governed by and construed in all respects under
 
 Last updated: January 1, 2013
 
-Riskified Ltd. ("Riskified" "we", "our" or "us") respects the privacy of the users of its website at http://www.riskified.com (the â€œSiteâ€) and is committed to protect the information it collects and/or is disclosed to it by the users of this Site ("users" or "you"). 
+Riskified Ltd. ("Riskified" "we", "our" or "us") respects the privacy of the users of its website at http://www.riskified.com (the "Site") and is committed to protect the information it collects and/or is disclosed to it by the users of this Site ("users" or "you"). 
 
 ## Information we collect
 
