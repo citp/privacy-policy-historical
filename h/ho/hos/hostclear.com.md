@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostclear.com privacy policy that was archived on 2015-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150816184720id_/https%3A//www.hostclear.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostclear.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506051219id_/https%3A//www.hostclear.com/privacy) for the most accurate reproduction.*
 
 # Privacy - HostClear
 
@@ -93,7 +93,7 @@ We reserve the right to revise, amend, or modify this Privacy Policy at any time
 
 #### 8\. Contacting us
 
-HostClear encourages individuals to contact us with any questions concerning this Privacy Policy and the processing of personal information by contacting HostClear via email at privacyHostClear .com or at the address below. 
+HostClear encourages individuals to contact us with any questions concerning this Privacy Policy and the processing of personal information by contacting HostClear via email at privacy@HostClear .com or at the address below. 
 
 HostClear   
 5005 Mitchelldale, Suite #100   
