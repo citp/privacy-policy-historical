@@ -1,74 +1,33 @@
-> *The following text is extracted and transformed from the thesocialmediaguide.com.au privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515214448id_/http%3A//www.netfleet.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesocialmediaguide.com.au privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506215603id_/http%3A//thesocialmediaguide.com.au/data-use-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Buy & Sell Domains | Netfleet: Australia's No.1 Domain Name Trading Platform
+# Data Use Policy | The Social Media Guide
 
-## Privacy Policy
+Collecting and Using Your Information
 
-The privacy of any personal information you provide is extremely important to us. The following privacy policy governs the collection and use of your personal information by Netfleet. This privacy policy sets out how we are committed to respect your rights to privacy in accordance with the National Privacy Principles contained in the Privacy Act 1988.
+Thesocialmediaguide.com.au does not store any personal information. We may ask you for personal information (such as your name, or email address), but this used only to generate your privacy policy. This site does not use any database or other form of persistent storage to preserve the information you enter.
 
-#### How do we collect personal information?
+In the normal course of the site’s operation, Thesocialmediaguide.com.au generates server side logs. These are used only to monitor the performance of the application and troubleshoot errors.
 
-  * We may collect personal information from you directly by telephonenumber, facsimile, email, post or frequently via our website. We may also receive information via an intermediary, a company with which we may have a relationship such as a domain services company. 
+Through your registration for an account at forums.Thesocialmediaguide.com.au, we may collect information you provide, as well as through placement of cookies or other tracking software on your computer to allow us to provide better service to you and our other customers.
 
+Specifically, when you sign up for an account at forums.Thesocialmediaguide.com.au, we ask you for personal information (such as your name, address, email address and an account password). When you visit forums.Thesocialmediaguide.com.au, we may place one or more cookies on your computer to uniquely identify your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people use the forums. You may chose to set your computer to not accept cookies but some forum features and services may not function properly if your cookies are disabled. In addition, we may track your usage of our site, communications sent to us or use of linked or related sites pertaining to our services.
 
+Sharing of Your Information
 
-####   
-What types of personal information do we collect?
+Thesocialmediaguide.com.au will never share any information provided by its users to any third party, except as required to do so under U.S Law.
 
-  * We collect personal information about you to enable us to provide the best possible service in relation to your domain name needs. The types of personally identifiable information that we may collect include your name, address, telephonenumber number and ABN. 
+Security Pertaining to Your Information
 
-When we request your personal information, we will endeavour to specify which information we require for our purposes and which information may be provided at your option. You may choose not to supply any optional information requested by us but our ability to assist you may be restricted. 
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
 
+We restrict access to personal information to our employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
+Integrity of Your Data
 
+Thesocialmediaguide.com.au processes personal information only for the purposes for which it was collected and in accordance with this Policy. We review our data collection, and processing practices to ensure that we only collect and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
 
-#### How do we use your personal information?
+Changes to this policy
 
-  * We use your personal information for the following purposes: - to complete a transaction to which the provision of that personal information relates, such as the completion of order forms to communicate information about our products and services to you, for our internal administrative, marketing, planning, product development and research requirements to conduct our day to day business such as the sale of a domain name and transfer requirements. 
+Please note that we may change this Privacy Policy at various times. We expect most such changes will be minor, but we cannot guarantee that will be the case. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, if we deem it appropriate, email notification of Policy changes).
 
-At any time you may opt out of receiving any communications from us. If you wish to opt out of receiving communications from us please contact us using the information at the end of this document. 
-
-
-
-
-#### Do we ever disclose your personal information to others?
-
-  * We do not sell our client lists to third parties. We may disclose personal information to third parties in the following circumstances: 
-
-1) When explicitly instructed to do so by yourself 2) As required to effect a domain name transfer or other service where required 3) As part of a promotion you may have entered (eg expired domain report) 
-
-Otherwise, we do not disclose personal information unless we are required to do so by law or regulation. 
-
-
-
-
-#### What rights do you have to access your personal information?
-
-  * At any time, you may ask us to provide you with a list of the personal information we hold about you, and copies of that personal information. We will endeavour to provide you with the data within 30 days of receiving your request. 
-
-If you believe for any reason that we are holding inaccurate or incomplete data about you, you may ask us to correct it. We will consider if the information requires amendment. If we do not agree that there are grounds for amendment, then we will add a note to the personal information stating that you disagree with it. 
-
-
-
-
-#### How do we store your personal information?
-
-  * We take all reasonable steps to protect your personal information from misuse, loss, unauthorised access, modification or exposure. We require all staff to maintain the confidentiality of customer information. Access to information stored electronically is restricted to employees whose job requires access to the information. Access to our computer systems is restricted through password protection. 
-
-
-
-#### Whois Policy  
-
-
-  * When a domain name is registered, certain information is collected for use on the WHOIS service. The WHOIS service allows internet users to query a domain name to find out the identity and contact details of the registrant. The public WHOIS service is a standard feature of domain name systems around the world. Please see auDA’s WHOIS policy at http://www.auda.org.au/whois-policy which sets out auDA's guidelines on the collection, disclosure and use of WHOIS data.  
-
-
-
-
-#### How can we be contacted?
-
-  
-You can make any requests relating to your personal information held by us by contacting any member of staff via our [Contact Us](https://web.archive.org/index.php?a=contact "Contact Us") form.
-
-  
-
+If you have any questions or concerns about this Policy, please feel free to contact us any time through this Website or at Privacy Policy Concerns Coordinator
