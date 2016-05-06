@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobstar.org privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119123614id_/http%3A//jobstar.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobstar.org privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507002119id_/http%3A//jobstar.org/privacy.php) for the most accurate reproduction.*
 
 # JobStar.org Privacy Policy
 
