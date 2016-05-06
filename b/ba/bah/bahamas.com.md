@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bahamas.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907212529id_/http%3A//www.bahamas.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bahamas.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506045413id_/http%3A//www.bahamas.com/privacy-policy-0) for the most accurate reproduction.*
 
 # Privacy Policy | The Official Site of The Bahamas
 
@@ -79,4 +79,4 @@ Nassau, Bahamas
 Tel: 242-302-2000  
 Fax: 242-302-2098  
 E-mail: [tourism@bahamas.com](mailto:tourism@bahamas.com)  
-© 2003 – 2014 Commonwealth of the Bahamas. All rights reserved.
+© 2003 – 2016 Commonwealth of the Bahamas. All rights reserved.
