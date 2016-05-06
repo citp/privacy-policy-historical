@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the sportsbreak.com privacy policy that was archived on 2015-11-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151107201347id_/http%3A//www.sportsbreak.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sportsbreak.com privacy policy that was archived on 2016-05-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160506193426id_/http%3A//www.sportsbreak.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 <!-- ================
 ===== Meta Info ===== 
 ================= -->
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="viewport" content="width=1145, maximum-scale=1.0">
+<meta name="viewport" content="width=1080, maximum-scale=1.0">
 	<meta property="og:url" content="http://www.sportsbreak.com/privacy-policy/">
 	<meta property="og:title" content="Privacy Policy">
 	<meta property="og:description" content="">
@@ -41,7 +41,6 @@
 		margin: 0 auto;
 	}
 </style>
-
 <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -243,6 +242,39 @@ node.parentNode.insertBefore(gads, node);
 
 
 <script type="text/javascript">
+var random_item='0';
+
+(function () {
+	var rand = function(min, max) {
+		return Math.random() * (max - min) + min;
+	};
+	 
+	var getRandomItem = function(list, weight) {
+		var total_weight = weight.reduce(function (prev, cur, i, arr) {
+			return prev + cur;
+		});
+		 
+		var random_num = rand(0, total_weight);
+		var weight_sum = 0;
+		//console.log(random_num)
+		 
+		for (var i = 0; i < list.length; i++) {
+			weight_sum += weight[i];
+			weight_sum = +weight_sum.toFixed(2);
+			 
+			if (random_num <= weight_sum) {
+				return list[i];
+			}
+		}
+		 
+		// end of function
+	};
+	 
+	var list = ['0', '1', '2', '3', '4', '5'];
+	var weight = [0.8, 0.04, 0.04, 0.04, 0.04, 0.04];
+	random_item = getRandomItem(list, weight);
+})();
+	
 googletag.cmd.push(function() {
 
 /*googletag.defineSlot('/22537614/PREM-970x250_SportsBreak_Header_Desktop', [[970, 66], [970, 250]], 'div-gpt-ad-1412099640364-0')
@@ -273,7 +305,11 @@ googletag.pubads().setCentering(true);
 googletag.enableServices();
 });
 </script>
-
+<!-- District M Header Bid Script for sportsbreak.com -->
+<script type="text/javascript" src="//hi.districtm.ca/v3.0.102705.js"></script>
+<script type="text/javascript" src="//hi.districtm.ca/currency.js"></script>
+<script type="text/javascript" src="//cdn.districtm.ca/v3.0.header.js" async=""></script>
+<!-- End District M Header Bid Script -->
 
 <script type="text/javascript">
 window.google_analytics_uacct = "UA-35484318-8";
@@ -286,7 +322,7 @@ window.google_analytics_uacct = "UA-35484318-8";
 ======================== -->
 
 <!-- Facebook JavaScript SDK -->
-<script src="http://www.sportsbreak.com/wp-includes/js/wp-emoji-release.min.js?ver=4.2.5" type="text/javascript"></script></head><body class="page page-id-2288 page-template page-template-page-fullwidth page-template-page-fullwidth-php"><div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+<script src="http://www.sportsbreak.com/wp-includes/js/wp-emoji-release.min.js?ver=4.2.7" type="text/javascript"></script></head><body class="page page-id-2288 page-template page-template-page-fullwidth page-template-page-fullwidth-php"><div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
 <script>
   window.fbAsyncInit = function() {
     FB.init({appId: '721916601162380', status: true, cookie: true,
@@ -314,7 +350,7 @@ window.google_analytics_uacct = "UA-35484318-8";
 <link rel="alternate" type="application/rss+xml" title="SportsBreak » Comments Feed" href="http://www.sportsbreak.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="SportsBreak » Privacy Policy Comments Feed" href="http://www.sportsbreak.com/privacy-policy/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.sportsbreak.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.5"}};
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.sportsbreak.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.7"}};
 			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
 		<style type="text/css">
@@ -331,19 +367,19 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="blogsynthesis-scroll-to-top-style-css" href="http://www.sportsbreak.com/wp-content/plugins/jquery-smooth-scroll/css/jss-style.min.css?ver=4.2.5" type="text/css" media="all">
+<link rel="stylesheet" id="blogsynthesis-scroll-to-top-style-css" href="http://www.sportsbreak.com/wp-content/plugins/jquery-smooth-scroll/css/jss-style.min.css?ver=4.2.7" type="text/css" media="all">
 <link rel="stylesheet" id="cm-polls-and-quizzes-css" href="http://www.sportsbreak.com/wp-content/plugins/cm-polls-and-quizzes/assets/styles/cm-polls-and-quizzes.css" type="text/css" media="all">
 <link rel="stylesheet" id="contact-form-7-css" href="http://www.sportsbreak.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.8.1" type="text/css" media="all">
-<link rel="stylesheet" id="ht-style-css" href="http://www.sportsbreak.com/wp-content/themes/sportsbreak/style.css?ver=3.8.18" type="text/css" media="all">
-<link rel="stylesheet" id="fbSEOStylesheet-css" href="http://www.sportsbreak.com/wp-content/plugins/seo-facebook-comments/assets/fbseo-style.css?ver=4.2.5" type="text/css" media="all">
-<link rel="stylesheet" id="fbSEOwpcomments-css" href="http://www.sportsbreak.com/wp-content/plugins/seo-facebook-comments/assets/wpcomments.css?ver=4.2.5" type="text/css" media="all">
+<link rel="stylesheet" id="ht-style-css" href="http://www.sportsbreak.com/wp-content/themes/sportsbreak/style.css?ver=3.8.20" type="text/css" media="all">
+<link rel="stylesheet" id="fbSEOStylesheet-css" href="http://www.sportsbreak.com/wp-content/plugins/seo-facebook-comments/assets/fbseo-style.css?ver=4.2.7" type="text/css" media="all">
+<link rel="stylesheet" id="fbSEOwpcomments-css" href="http://www.sportsbreak.com/wp-content/plugins/seo-facebook-comments/assets/wpcomments.css?ver=4.2.7" type="text/css" media="all">
 <script type="text/javascript" src="http://www.sportsbreak.com/wp-includes/js/jquery/jquery.js?ver=1.11.2"></script>
 <script type="text/javascript" src="http://www.sportsbreak.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-<script type="text/javascript" src="http://www.sportsbreak.com/wp-content/plugins/jquery-smooth-scroll/js/jss-script.min.js?ver=4.2.5"></script>
+<script type="text/javascript" src="http://www.sportsbreak.com/wp-content/plugins/jquery-smooth-scroll/js/jss-script.min.js?ver=4.2.7"></script>
 <script type="text/javascript" src="http://49af69f354524353a738-2a95aee0abad203c8eda29cd2a954a8f.r39.cf2.rackcdn.com/flowplayer-3.2.13.min.js"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.sportsbreak.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.sportsbreak.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.2.5">
+<meta name="generator" content="WordPress 4.2.7">
 <link rel="shortlink" href="http://www.sportsbreak.com/?p=2288">
 
 <!--[if lt IE 10]>
@@ -517,22 +553,22 @@ var WRInitTime=(new Date()).getTime();
     	<div class="textwidget">
                     <ul class="footer-trending">
 						                        <li>
-                            <a href="http://www.sportsbreak.com/sports/10-athletes-who-could-quarterback-cowboys-until-romo-returns/" title="10 Athletes Who Could Quarterback Cowboys Until Romo Returns">10 Athletes Who Could Quarterback Cowboys Until Romo Returns</a>              
+                            <a href="http://www.sportsbreak.com/nhl/13-forgotten-former-nhlers-playing-at-the-iihf-worlds/" title="13 Forgotten Former NHLers Playing At The IIHF Worlds">13 Forgotten Former NHLers Playing At The IIHF Worlds</a>              
                         </li>
                                                 <li>
-                            <a href="http://www.sportsbreak.com/sports/adidas-will-help-you-change-your-offensive-team-name/" title="Adidas Will Help You Change Your Offensive Team Name">Adidas Will Help You Change Your Offensive Team Name</a>              
+                            <a href="http://www.sportsbreak.com/nfl/49ers-players-seem-genuinely-excited-about-chip-kellys-new-offense/" title="49ers Players Seem Genuinely Excited About Chip Kelly’s New Offense">49ers Players Seem Genuinely Excited About Chip Kelly’s New Offense</a>              
                         </li>
                                                 <li>
-                            <a href="http://www.sportsbreak.com/nhl/10-players-who-should-be-on-team-canada-at-world-cup-of-hockey/" title="10 Players Who Should Be On Team Canada At World Cup Of Hockey">10 Players Who Should Be On Team Canada At World Cup Of Hockey</a>              
+                            <a href="http://www.sportsbreak.com/ufc/meisha-tate-ronda-rousey-went-off-on-paige-vanzant-for-congratulating-holly-holm/" title="Meisha Tate: Ronda Rousey “Went Off” On Paige VanZant For Congratulating Holly Holm">Meisha Tate: Ronda Rousey “Went Off” On Paige VanZant For Congratulating Holly Holm</a>              
                         </li>
                                                 <li>
-                            <a href="http://www.sportsbreak.com/nfl/former-nfl-player-kyle-turley-suicidal-thoughts-became-a-part-of-my-daily-life/" title="Former NFL Player Kyle Turley: “Suicidal Thoughts Became a Part of My Daily Life”">Former NFL Player Kyle Turley: “Suicidal Thoughts Became a Part of My Daily Life”</a>              
+                            <a href="http://www.sportsbreak.com/nhl/17-players-to-keep-an-eye-on-at-the-iihf-world-championships/" title="17 Players To Keep An Eye On At The IIHF World Championships">17 Players To Keep An Eye On At The IIHF World Championships</a>              
                         </li>
                                                 <li>
-                            <a href="http://www.sportsbreak.com/ufc/conor-mcgregor-refuses-to-be-called-interim-champ/" title="Conor McGregor Refuses To Be Called ‘Interim’ Champ">Conor McGregor Refuses To Be Called ‘Interim’ Champ</a>              
+                            <a href="http://www.sportsbreak.com/nba/the-hawks-are-super-salty-about-cleveland-scoring-all-those-points/" title="The Hawks Are Super Salty About Cleveland Scoring All Those Points">The Hawks Are Super Salty About Cleveland Scoring All Those Points</a>              
                         </li>
                                                 <li>
-                            <a href="http://www.sportsbreak.com/sports/10-most-high-priced-sports-memorabilia-pieces-ever/" title="10 Most High-Priced Sports Memorabilia Pieces Ever">10 Most High-Priced Sports Memorabilia Pieces Ever</a>              
+                            <a href="http://www.sportsbreak.com/mlb/the-10-most-disappointing-teams-in-baseball-so-far/" title="The 10 Most Disappointing Teams In Baseball, So Far">The 10 Most Disappointing Teams In Baseball, So Far</a>              
                         </li>
                                     		</ul>
         </div>
@@ -787,7 +823,7 @@ qacct:"p-Pv5Dr4bbyHGs9"
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
 Page Caching using memcached
-Database Caching 19/39 queries in 0.017 seconds using memcached
-Object Caching 761/782 objects using memcached
+Database Caching 2/44 queries in 0.017 seconds using memcached
+Object Caching 810/832 objects using memcached
 
- Served from: sportsbreak.com @ 2015-11-07 19:24:38 by W3 Total Cache --></body></html>
+ Served from: sportsbreak.com @ 2016-05-06 19:34:26 by W3 Total Cache --></body></html>
