@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolbuzz.org privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226025838id_/http%3A//coolbuzz.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolbuzz.org privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506175952id_/http%3A//coolbuzz.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cool Buzz
 
@@ -17,3 +17,5 @@ Like many other Web sites, Luxurytravelspots.com makes use of log files. The in
 Coolbuzz.org does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+By continuing to use the site, you agree to the use of cookies. more information
