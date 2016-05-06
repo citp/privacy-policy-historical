@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadpoint.com privacy policy that was archived on 2015-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150729075108id_/http%3A//www.leadpoint.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadpoint.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506190045id_/http%3A//www.leadpoint.com/privacy.php) for the most accurate reproduction.*
 
 # Performance Advertising Platform | Lead Generation Market Leader
 
