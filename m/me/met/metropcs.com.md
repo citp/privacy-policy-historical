@@ -1,18 +1,19 @@
-> *The following text is extracted and transformed from the metropcs.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905131004id_/https%3A//www.metropcs.com/terms-conditions/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metropcs.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506173611id_/https%3A//www.metropcs.com/terms-conditions/privacy.html) for the most accurate reproduction.*
 
-# MetroPCS Privacy Policy
+# Privacy Policy - MetroPCS®.com
 
-Published July 3, 2015
+Published:  November 25, 2015
 
 This Privacy Policy (“Policy”) describes how information about you is collected, used and disclosed by MetroPCS™ and T-Mobile USA, Inc. (collectively, "MetroPCS," "we" or "us" or “our”) and provides other important privacy information, describes when and how we may change this Policy, and tells you how to contact us with any questions or comments.
 
-### **WHAT TYPES OF INFORMATION WE COLLECT ABOUT YOU**
+**  
+WHAT TYPES OF INFORMATION WE COLLECT ABOUT YOU**
 
 We collect information about you and your associated device(s) when you use our products or services or otherwise interact with us or with third-party services through our products and services. Examples of the types of information we collect include:
 
 **Personal Information**
 
-“Personal Information” means information that we directly associate with a specific person or entity (for example: name; addresses; telephone numbers; email address; Social Security Numbers; payment information; call records; wireless device location). Personal information does not include “de-identified,” “anonymous,” or “aggregate” information – which are not associated with a specific person or entity.
+“Personal Information” means information that we directly associate with a specific person or entity (for example: name; addresses; telephone numbers; email address; Social Security Numbers; payment information; call records; wireless device location).  Personal information does not include “de-identified,” “anonymous,” or “aggregate” information – which are not associated with a specific person or entity.
 
 **Customer Proprietary Network Information (CPNI)**
 
@@ -32,15 +33,16 @@ We may collect performance and diagnostic data about your use of our network, ne
 
 **Video Data**
 
-When you use a video application with your MetroPCS service, for example T-Mobile TV, on your device, we may collect information about the programs you watch to determine customer viewing habits so that we can tailor video selections to you or our customers.
+When you use a video application with your MetroPCS service, for example T‑Mobile TV, on your device, we may collect information about the programs you watch to determine customer viewing habits so that we can tailor video selections to you or our customers.
 
 **Collection of Information About Children**
 
 We do not knowingly solicit children to purchase our services or products. If, however, you authorize a child to use our services or products by providing them a device associated with your account, any information associated with such use will be treated as your information in accordance with this Policy.
 
-Our websites are not designed to attract children under the age of 13 and we do not intentionally or knowingly collect Personal Information on our websites from anyone under the age of 13. We encourage parents to be involved in the online activities (including wireless Internet browsing) of their children to ensure that no information is collected from a child without parental permission.
+Our websites are not designed to attract children under the age of 13 and we do not intentionally or knowingly collect Personal Information on our websites from anyone under the age of 13.  We encourage parents to be involved in the online activities (including wireless Internet browsing) of their children to ensure that no information is collected from a child without parental permission.  
+ 
 
-### **HOW INFORMATION ABOUT YOU IS COLLECTED**
+**HOW INFORMATION ABOUT YOU IS COLLECTED**
 
 MetroPCS collects information about you in three primary ways:
 
@@ -52,13 +54,13 @@ For example, some of the ways you may provide information to us include:
 
   * When you sign up for our voice or data services or purchase other products or services, we may collect personal contact, billing, and credit information.
   * When you establish or modify an account online, we may collect user identification information, passwords, and/or security question responses that you will use for future sign-on.
-  * When you interact with our customer service representatives, enter information on our websites, submit survey responses, or pay for services, we may also collect Personal Information and other information. We may monitor and record phone calls, e-mails, live chats, or other communications between you, your device, and our Customer Service representatives or other employees or representatives.
+  * When you interact with our customer service representatives, enter information on our websites, submit survey responses, or pay for services, we may also collect Personal Information and other information.  We may monitor and record phone calls, e-mails, live chats, or other communications between you, your device, and our Customer Service representatives or other employees or representatives.
 
 
 
-**Information We Collect Automatically**
+**Information We Collect** **Automatically**
 
-We automatically collect a variety of information associated with your use of your device (on our network, when roaming, or in WiFi mode) and our products and services, some of which may be associated with you.
+We automatically collect a variety of information associated with your use of your device (on our network, when __ roaming, __ or in WiFi mode) and our products and services, some of which may be associated with you.
 
 For example, some of the ways we may automatically collect information include:
 
@@ -72,18 +74,24 @@ We may also use web beacons (small graphic images on a web page or an HTML e-mai
 
 Depending upon your device or computer, you may be able to set your browser(s) to reject cookies or delete cookies, but that may result in the loss of some functionality on our websites. If we combine or link cookie or web beacon information with Personal Information, we will treat the combined or linked information as Personal Information under this Policy.
 
-  * **Web Browsing Activity**  
 
-_Our Websites_  When accessing our websites, mobile websites and related applications and widgets designed for your device or web-based experience, we automatically collect certain information about your device and your visit, such as your IP address, browser type, date and time, the web page you visited before visiting our website, your activities and purchases on our websites, and other analytical information associated with the sites.
 
-_Other Websites_  When your device’s web browser utilizes our data services to access websites other than our own, we automatically capture information associated with your browsing activities, and measure and monitor network and Internet connection performance, throughput, latency, and similar network data.
+  * **Web Browsing Activity** _
 
-Do Not Track Policy. Some browsers have incorporated “Do Not Track” features. Most of these features, when turned on, send a signal or preference to the websites you visit indicating that you do not wish to be tracked. Those sites (or the third party content on those sites) may continue to engage in activities you might view as tracking even though you have expressed this preference, depending on the sites’ privacy practices. Because there is not yet a common understanding of how to interpret the DNT signal, we do not currently respond to the browser DNT signals on when you use our services and products or interact with our websites or online services. We do allow you to exercise choice regarding the collection of information by third parties about your online activities over time and across third-party websites or online services for online interest based advertising purposes as described [_below_.](https://web.archive.org/terms-conditions/privacy.html#ads)
+Our Websites
 
-  * **Voice Controlled Applications**
+_. When accessing our websites, mobile websites and related applications and widgets designed for your device or web-based experience, we automatically collect certain information about your device and your visit, such as your IP address, browser type, date and time, the web page you visited before visiting our website, your activities and purchases on our websites, and other analytical information associated with the sites. _
 
+Other Websites
+
+_.  When your device’s web browser utilizes our data services to access websites other than our own, we automatically capture information associated with your browsing activities, and measure and monitor network and Internet connection performance, throughput, latency, and similar network data.
+
+_Do Not Track Policy._ Some browsers have incorporated “Do Not Track” features. Most of these features, when turned on, send a signal or preference to the websites you visit indicating that you do not wish to be tracked. Those sites (or the third party content on those sites) may continue to engage in activities you might view as tracking even though you have expressed this preference, depending on the sites’ privacy practices. Because there is not yet a common understanding of how to interpret the DNT signal, we do not currently respond to the browser DNT signals on when you use our services and products or interact with our websites or online services. We do allow you to exercise choice regarding the collection of information by third parties about your online activities over time and across third-party websites or online services for online interest based advertising purposes as described below.
+
+
+
+  * **Voice Controlled Applications**  
 If you use a voice-controlled application, that application may collect and record your requests and other information from you and your phone.
-
 
 
 
@@ -91,7 +99,7 @@ If you use a voice-controlled application, that application may collect and reco
 
 We may also obtain information about you from other sources. For example, we may receive credit information from third-party sources before initiating your service, and updated address information from our shippers or other vendors. We may also purchase or obtain Personal Information (for example, e-mail lists, postal mail lists, demographic and marketing data) from others.
 
-### **HOW WE USE INFORMATION WE COLLECT ABOUT YOU**
+**HOW WE USE INFORMATION WE COLLECT ABOUT YOU**
 
 We use the information we collect for a variety of business purposes, such as:
 
@@ -111,7 +119,7 @@ We use the information we collect for a variety of business purposes, such as:
 
 **Fraud Prevention**
 
-We may use Personal Information, including account information (such as purchase patterns) and device information for investigations or prevention of fraud or network abuse.
+We may use Personal Information, including account information (such as purchase patterns) and device information for investigations or prevention of fraud or network abuse. We provide fraud prevention services to banks or other third parties. As part of this service, we may verify your phone number to help those third parties prevent your personal information from being used for fraudulent purposes. We also may provide the information you report as spam to 7726 to a third party to prevent fraud or network abuse, and we may share such information with government agencies and others that work to combat spam and prevent fraudulent, deceptive, and unfair practices.
 
 **Information Collected from Cookies**
 
@@ -119,11 +127,12 @@ We may also use information collected from cookies or other similar technologies
 
 **Marketing**
 
-We may use information we collect to contact you about T-Mobile or third-party products, services, and offers that we believe you may find of interest. We may contact you by telephone, postal mail, e-mail, or other methods. You may opt-out of receiving marketing communications from us at any time as outlined below in [Choices Regarding Use of Your Information](https://web.archive.org/terms-conditions/privacy.html#informationchoices).
+We may use information we collect to contact you about T-Mobile or third-party products, services, and offers that we believe you may find of interest. We may contact you by telephone, postal mail, e-mail, or other methods. You may opt-out of receiving marketing communications from us at any time as outlined below in Choices Regarding Use of Your Information.
 
 **Performance, Diagnostics & Management**
 
-We collect information about devices, our network and WiFi usage to perform diagnostic analyses and understand how your device is performing overall. Diagnostic data helps us troubleshoot technical issues related to your device’s performance such as battery life, dropped calls, processing speed, device memory, service coverage, and network and WiFi signal strength that you and other customers may experience. If you are using a device in WiFi mode, we may collect information about that usage, such as the routing address and IP address. We also may use diagnostic data to identify and recommend products and services.
+We collect information about devices, our network and WiFi usage to perform diagnostic analyses and understand how your device is performing overall.  Diagnostic data helps us troubleshoot technical issues related to your device’s performance such as battery life, dropped calls, processing speed, device memory, service coverage, and network and WiFi signal strength that you and other customers may experience.  If you are using a device in WiFi mode, we may collect information about that usage, such as the routing address and IP address.  We also may use diagnostic data to identify and recommend products and services.  
+ 
 
 **Location-Based Services**
 
@@ -133,25 +142,26 @@ Depending on your device, you may also be able to obtain a wide array of service
 
 These applications and services use various location technologies (including Global Positioning Satellite (“GPS”), Assisted GPS (“AGPS”), cell ID and enhanced cell ID technologies) to identify the approximate location of a device, which is then used in conjunction with the application to enhance the user’s experience (for example, to provide driving directions, to provide enhanced 411 Directory Assistance or search results, etc.)
 
-LBS may, or may not, involve any interaction with or dependency on our network, and location-based services may or may not look to our network to obtain location data. Where we allow third parties the capability of accessing data about your location that is derived from our network, we require those third parties to observe specific privacy and security protections consistent with this policy.
+LBS may, or may not, involve any interaction with or dependency on our network, and location-based services may or may not look to our network to obtain location data. Where weallow third parties the capability of accessing data about your location that is derived from our network, we require those third parties to observe specific privacy and security protections consistent with this policy.   
 
 It is important that you understand the location capabilities and settings of your device, and that you carefully read and understand the terms under which these services are provided – whether by us or another entity.
 
 You should carefully review the privacy policies and other terms of third-parties with whom you have authorized the sharing of your location information, and you should consider the risks involved in disclosing your location information to other people.
 
-Where we provide a location-based service, you will receive notice of the location features of the service and collection of location data is with your consent. You will be provided options for managing when and how such information should be shared. MetroPCS and T-Mobile follow the CTIA’s Best Practices Guidelines for Location-Based Services, which are available [_here_](http://www.ctia.org/policy-initiatives/voluntary-guidelines/best-practices-and-guidelines-for-location-based-services).
+Where we provide a location-based service, you will receive notice of the location features of the service and collection of location data is with your consent. You will be provided options for managing when and how such information should be shared. MetroPCS and T-Mobile follow the CTIA’s Best Practices Guidelines for Location-Based Services, which are available [here](http://www.ctia.org/policy-initiatives/voluntary-guidelines/best-practices-and-guidelines-for-location-based-services).  
+ 
 
 **Advertising**
 
-You may see advertisements when you visit our websites, mobile websites, in mobile applications, or on your device. We may help advertisers better reach our customers by providing certain customer information, including device type, geographic information, language preferences or demographic information obtained from other companies. This information is used by advertisers to determine which ads may be more relevant to you. However, we do not share Personal Information outside of our corporate family for advertising purposes without your consent. Some examples of the types of advertising you might see include:
+You may see advertisements when you visit our websites, mobile websites, in mobile applications, or on your device.  We may help advertisers better reach our customers by providing certain customer information, including device type, geographic information, language preferences or demographic information obtained from other companies.  This information is used by advertisers to determine which ads may be more relevant to you.  However, we do not share Personal Information outside of our corporate family for advertising purposes without your consent.  Some examples of the types of advertising you might see include:
 
-_Our Ads on Our Websites_. We may provide advertisements, such as banner ads, on our websites, mobile websites, and in mobile applications and widgets you may download, access or use on your device.
+_OurAds on OurWebsites_. We may provide advertisements, such as banner ads, on our websites, mobile websites, and in mobile applications and widgets you may download, access or use on your device.
 
 _Other Company Ads on Our Websites_. You may also see third-party advertisements on some of our websites, services, in applications or on devices. These third-party advertisers, or their ad networks, may place or access cookies, web beacons, or similar technologies on your device and may collect certain anonymous or de-identified information about your visit on our websites. The third-party advertisers who provide these ads may use this information to provide you with advertising on our websites, as well as on other websites. We do not have control over or access to any information contained in the cookies that are set on your computer or device by ad servers, ad networks, or third-party advertisers.
 
 _Our Ads on Other Websites_. We may ask third-parties to place advertisements about our products and services on other websites, mobile websites and in mobile applications and widgets. The use of cookies, web beacons, or similar technologies by such third-parties on other websites is subject to any applicable privacy policies that they may have, not this Policy.
 
-_**Interest-Based Ads**._ You may receive ads from us and our ad providers that are tailored to your interests. These interest-based ads are selected based on your use of our services and products as well as other information obtained by us and our ad providers. None of this information is Personal Information.
+**_Interest-Based Ads_**. You may receive ads from us and our ad providers that are tailored to your interests. These interest-based ads are selected based on your use of our services and products as well as other information obtained by us and our ad providers. None of this information is Personal Information.
 
   * We do not provide your Personal Information to third-party advertisers without your consent.
   * Advertising may be tailored to the interests that advertisers have inferred from your browsing of our websites or other websites or applications with which the third-party partners to provide advertising.
@@ -161,16 +171,18 @@ _**Interest-Based Ads**._ You may receive ads from us and our ad providers that 
 
 
 
-For more information see [_Privacy Resources/MetroPCS Ad Options for Your Devices_](https://www.metropcs.com/terms-conditions/metropcs-ad-options-for-your-device.html).
+For more information see ___[Privacy Resources/MetroPCS Ad Options for Your Device](https://author.metropcs.com/content/metro/en/desktop/metro/terms-conditions/metropcs-ad-options-for-your-device.html)_
 
-**Choices About Advertising**
+**_Choices about Advertising_.**
 
-  * _On Your Mobile Device_. Where we offer interest-based ads, you can opt-out of certain interest-based advertising by clicking on the ad options link on or near the advertisement or by clicking [here](http://iba.metropcs.com/).[](https://web.archive.org/terms-conditions/privacy.html#_msocom_1)
-  * If you turn off interest-based ads, you will still see just as many ads, but the ads may not be based on your interests and may be less relevant to you.
-  * Your choice only affects the ads you see on websites and applications you access on your device.
-  * If your device’s browser cookies are deleted, or your device is reset, you may need to reset the interest-based ads feature.
-  * If you are using your device, but are not on our network (such as a WiFi network), we, and our ad providers, may not be able to identify your ad choices.
-  * _On Your Computer or Non-Mobile Device._ For information about targeted advertising, or to opt-out of use of your browser information for purposes of certain third-party advertising, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices). Please note that if you opt out, you will continue to receive the same number of ads, but they may be less relevant because they will not be based on your interests. You may still see ads related to content on a web page or based on other non-personal information. Please note that this opt-out is cookie-based. If you change computers or devices, change web browsers, or delete cookies, you will need to visit the about ads site and opt-out again.
+  * _On Your Mobile Device_. Where we offer interest-based ads, you can opt-out of certain interest-based advertising by clicking on the ad options link on or near the advertisement or by clicking [here](http://iba.metropcs.com/).
+    * If you turn off interest-based ads, you will still see just as many ads, but the ads may not be based on your interests and may be less relevant to you.
+    * Your choice only affects the ads you see on websites and applications you access on your device.
+    * If your device’s browser cookies are deleted, or your device is reset, you may need to reset the interest-based ads feature.
+    * If you are using your device, but are not on our network (such as a WiFi network), we, and our ad providers, may not be able to identify your ad choices.  
+ 
+  * _On Your Computer or Non-Mobile Device._ For information about targeted advertising, or to opt-out of use of your browser information for purposes of certain third-party advertising, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices). Please note that if you opt out, you will continue to receive the same number of ads, but they may be less relevant because they will not be based on your interests. You may still see ads related to content on a web page or based on other nonpersonal information. Please note that this opt-out is cookie-based. If you change computers or devices, change web browsers, or delete cookies, you will need to visit the aboutads site and opt-out again.  
+ 
 
 
 
@@ -184,7 +196,7 @@ We may disclose Personal Information about you to third-parties with your consen
 
 **To Others On Your Multiline Account**
 
-We encourage you not to share your password or pin. If you provide your account password or pin number or security question responses to third parties, including other line holders on a multiline account, they will have access to your personal information – including CPNI, such as call detail and service information – when they access your account with your account password or pin number.
+We encourage you not to share your password or pin.  If you provide your account password or pin number or security question responses to third parties, including other line holders on a multiline account, they will have access to your personal information – including CPNI, such as call detail and service information – when they access your account with your account password or pin number.
 
 **To Our Service Providers**
 
@@ -192,13 +204,13 @@ We may disclose information to third-party vendors and partners who complete tra
 
 **Third-Party Carriers and Suppliers**
 
-If you are roaming on the network of another carrier, your wireless telephone number, your location, the numbers you dial, and other information about your usage will be available to that carrier to facilitate that service.
+If you are roaming on the network of another carrier or WiFi service provider, your wireless telephone number, your location, the numbers you dial, and other information about your usage will be available to that carrier to facilitate that service.
 
 **In a Business Transfer**
 
 We may sell, disclose, or transfer information about you as part of a corporate business transaction, such as a merger or acquisition, joint venture, corporate reorganization, financing, or sale of company assets, or in the unlikely event of insolvency, bankruptcy, or receivership, in which such information could be transferred to third-parties as a business asset in the transaction.
 
-**For Legal Process & Protection of MetroPCS and Others**
+**For Legal Process & Protection**
 
 We may disclose Personal Information, and other information about you, or your communications, where we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary:
 
@@ -207,6 +219,7 @@ We may disclose Personal Information, and other information about you, or your c
   * to protect our rights or interests, or property or safety or that of others;
   * in connection with claims, disputes, or litigation – in court or elsewhere;
   * to protect users of our services and other carriers or providers from fraudulent, abusive, or unlawful use of, or subscription to, such services;
+  * When information is reported to the Spam Reporting Service, it may be shared with government agencies and others that work to combat spam and prevent fraudulent, deceptive, and unfair practices.
   * to facilitate or verify the appropriate calculation of taxes, fees, or other obligations due to a local, state, or federal government; or
   * in an emergency situation.
 
@@ -214,7 +227,7 @@ We may disclose Personal Information, and other information about you, or your c
 
 **Co-Sponsored Websites and Partners**
 
-If you provide information to us in connection with a co-sponsored website, this Policy will apply to our use of the information and the co-sponsor’s policy will apply to their use of the information. If you purchase equipment or activate service at one of our partner locations (including websites of such dealer or retailer), they may request information from you that is passed to us as part of the activation process, but which may also be retained by the partner. This Policy will govern our treatment of such information, and the partner’s privacy policy will govern its use of such information.
+If you provide information to us in connection with a co-sponsored website, this Policy will apply to our use of the information and the co-sponsor’s policy will apply to their use of the information.  If you purchase equipment or activate service at one of our partner locations (including websites of such dealer or retailer), they may request information from you that is passed to us as part of the activation process, but which may also be retained by the partner.  This Policy will govern our treatment of such information, and the partner’s privacy policy will govern its use of such information.
 
 **De-Identified Information**
 
@@ -222,13 +235,14 @@ We may provide information that does not identify you personally to third-partie
 
 **Third-Party Applications for Your Devices**
 
-We are not responsible for the third-party applications (for example, applications, programs, widgets, etc.) you select and install on your device. When you install third-party applications, you may give your consent for the third party to access information stored on the device and our network to facilitate the application’s functions (for example, you may consent to third-party access to your location information – see  **[Location Based Services](https://web.archive.org/terms-conditions/privacy.html#locationservices)** ). The manner in which such third-parties may use, share, or disclose such information would be governed by the terms and conditions and privacy policy provided by that third party – not by this Policy.
+We are not responsible for the third-party applications (for example, applications, programs, widgets, etc.) you select and install on your device.  When you install third-party applications, you may give your consent for the third party to access information stored on the device and our network to facilitate the application’s functions (for example, you may consent to third-party access to your location information – _see_ **Location Based Services** ).  The manner in which such third-parties may use, share, or disclose such information would be governed by the terms and conditions and privacy policy provided by that third party – not by this Policy.
 
 **Directories**
 
-We do not publish directories of our customers’ wireless numbers; nor will we provide or make such numbers available to third-parties for listing in their public directories, without the customer’s prior consent.
+We do not publish directories of our customers’ wireless numbers; nor will we provide or make such numbers available to third-parties for listing in their public directories, without the customer’s prior consent.  
+ 
 
-### **HOW WE STORE AND PROTECT THE INFORMATION COLLECTED ABOUT YOU**
+**HOW WE STORE AND PROTECT THE INFORMATION COLLECTED ABOUT YOU**
 
 **Protecting Your Information**
 
@@ -238,9 +252,10 @@ Under federal law, you have a right, and we have a duty, to protect the confiden
 
 **Retention and Disposal**
 
-We retain information only for as long as we have a business or tax need or as applicable laws, regulations, or government orders allow. When we dispose of Personal Information, we use reasonable procedures designed to erase or render it unreadable (for example, shredding documents and wiping electronic media).
+We retain information only for as long as we have a business or tax need or as applicable laws, regulations, or government orders allow. When we dispose of Personal Information, we use reasonable procedures designed to erase or render it unreadable (for example, shredding documents and wiping electronic media).  
+ 
 
-### **HOW YOU CAN UPDATE YOUR INFORMATION AND CHOOSE HOW WE CONTACT YOU**
+**HOW YOU CAN UPDATE YOUR INFORMATION AND CHOOSE HOW WE CONTACT YOU**
 
 **Access to Your Information**
 
@@ -248,13 +263,16 @@ You may access and modify your contact information at a MetroPCS retail store, o
 
 **Choices Regarding Use of Your Information**
 
-We may send you communications about services or products we, or our partners, sell. We want to provide you with meaningful choices regarding our marketing communications and you may choose to limit or opt-out of marketing communications from us at any time. Although you may elect not to receive marketing information from us, if you subscribe to our services or buy our products, you will continue to receive customer-service and transactional notices, and similar communications. You may manage your marketing preferences by contacting MetroPCS Customer Service at 1-888-863-8768 from any phone, or, with respect to marketing e-mails and text messages, by following the “unsubscribe” instructions on any marketing e-mail we send you, or by managing your preferences in My Account online.
+We may send you communications about services or products we, or our partners, sell.  We want to provide you with meaningful choices regarding our marketing communications and you may choose to limit or opt-out of marketing communications from us at any time. Although you may elect not to receive marketing information from us, if you subscribe to our services or buy our products, you will continue to receive customer-service and transactional notices, and similar communications.
+
+You may manage your marketing preferences by contacting MetroPCS Customer Service at 1- 888-863-8768 from any phone, or, with respect to marketing e-mails and text messages, by following the “unsubscribe” instructions on any marketing e-mail we send you, or by managing your preferences in MyAccount online.
 
 **Do Not Call Registry**
 
-The FTC maintains a National Do Not Call Registry at <https://www.donotcall.gov/>, and your state may maintain its own Do Not Call Registry. Putting your number on these Registries also may limit our telemarketing calls to that number.
+The FTC maintains a National Do Not Call Registry at <https://www.donotcall.gov/>, and your state may maintain its own Do Not Call Registry.  Putting your number on these Registries also may limit our telemarketing calls to that number.  
+ 
 
-### **YOUR ROLE IN PROTECTING YOUR PRIVACY**
+**YOUR ROLE IN PROTECTING YOUR PRIVACY**
 
 **Protecting Your Personal Information**
 
@@ -276,29 +294,31 @@ When you use MetroPCS communications services, your name and/or telephone number
 
 **Social Networking, Forums and Chat Rooms**
 
-If you use or link to a public forum, bulletin board, chat room, or social network on or from a MetroPCS web site, be aware that any information you post or submit can be read, collected, or used by other users of these forums, including to send you unsolicited messages. We urge you not to share your Personal Information (for example, your name, phone numbers, addresses, passwords or PIN, etc.) on these websites. We are not responsible for access to or use of information you choose to submit or share with others. For example, if you post your wireless number on a social network in order to receive updates by text message, standard message charges will apply to such messages.
+If you use or link to a public forum, bulletin board, chat room, or social network on or from a MetroPCS web site, be aware that any information you post or submit can be read, collected, or used by other users of these forums, including to send you unsolicited messages. We urge you not to share your Personal Information (for example, your name, phone numbers, addresses, passwords or PIN, etc.) on these websites.  We are not responsible for access to or use of information you choose to submit or share with others. For example, if you post your wireless number on a social network in order to receive updates by text message, standard message charges will apply to such messages.  
+ 
 
-### **OTHER INFORMATION YOU SHOULD KNOW**
+**OTHER INFORMATION YOU SHOULD KNOW**
 
 **Consumer Code for Wireless Service**
 
-We follow the [Consumer Code for Wireless Service](http://www.ctia.org/policy-initiatives/voluntary-guidelines/consumer-code-for-wireless-service) established by the Cellular Telecommunications & Internet Association (“CTIA”). In doing so, we want to help customers understand their bills, receive quality service, and make informed choices and conform our information practices under this Policy to meet the requirements of applicable federal and state laws and regulations.
+We follow the _[Consumer Code for Wireless Service](http://www.ctia.org/policy-initiatives/voluntary-guidelines/consumer-code-for-wireless-service)_ established by the Cellular Telecommunications & Internet Association (“CTIA”). In doing so, we want to help customers understand their bills, receive quality service, and make informed choices and conform our information practices under this Policy to meet the requirements of applicable federal and state laws and regulations.
 
 **Your California Privacy Rights**
 
-California Civil Code Section 1798 entitles California customers to request information concerning whether a business has disclosed Personal Information to any third parties for the third parties’ direct marketing purposes. As stated in this Policy, we will not sell or share your Personal Information with non-affiliated companies for their direct marketing purposes without your consent. California customers who wish to request further information about our compliance with this law or have questions or concerns about our privacy practices and policies may contact us as specified in the [How to Contact Us](https://web.archive.org/terms-conditions/privacy.html#contactus) section below.
+California Civil Code Section 1798 entitles California customers to request information concerning whether a business has disclosed Personal Information to any third parties for the third parties’ direct marketing purposes.  As stated in this Policy, we will not sell or share your Personal Information with non-affiliated companies for their direct marketing purposes without your consent.  California customers who wish to request further information about our compliance with this law or have questions or concerns about our privacy practices and policies may contact us as specified in the “How to Contact Us” section below.  
+ 
 
-### **PRIVACY POLICY UPDATES AND CONTACT INFORMATION**
+**PRIVACY POLICY UPDATES AND CONTACT INFORMATION**
 
 **How We Communicate Changes to This Policy**
 
-We may update this Policy at any time to provide updates to or clarification of our practices. If we make changes, we will notify you by revising the date at the top of the Policy and, in some cases, we may provide you with additional notice (such as adding a statement to the homepage of our website or sending you a notification). You should refer to this Policy often for the latest information and the effective date of any changes.
+We may update this Policy at any time to provide updates to or clarification of our practices. If we make changes, we will notify you by revising the date at the top of the Policy and, in some cases, we may provide you with additional notice (such as adding a statement to the homepage of our website or sending you a notification). You should refer to this Policy often for the latest information and the effective date of any changes
 
 **How to Contact Us**
 
-If you have any questions or comments about this Policy or about MetroPCS's privacy practices, please call Customer Service at 1-888-863-8768 or send an e-mail message to [MetroPCS_Privacy@T-Mobile.com](mailto:MetroPCS_Privacy@T-Mobile.com). You may also direct your privacy-related comments or questions to the address below:
+If you have any questions or comments about this Policy or about MetroPCS's privacy practices, please call Customer Service at 1- 888-863-8768 or send an e-mail message to [MetroPCS_Privacy@T-Mobile.com](mailto:MetroPCS_Privacy@T-Mobile.com). You may also direct your privacy-related comments or questions to the address below:
 
-MetroPCS Mobile   
+MetroPCS Mobile  
 Attn: Privacy Office  
 12920 SE 38th Street  
 Bellevue, Washington 98006
