@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbronline.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227063443id_/http%3A//www.cbronline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbronline.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506024159id_/http%3A//www.cbronline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Computer Business Review
 
@@ -7,9 +7,9 @@
 This Privacy Policy, together with our terms of use, provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you. 
 
 This Policy is updated from time to time so please review this Policy regularly.  
-For the purpose of the Data Protection Act 1998 our data controller is Progressive Media Group Limited. 
+For the purpose of the Data Protection Act 1998 our data controller is Progressive Trade Media Limited. 
 
-Progressive Media Group Limited is subject to the UK Data Protection Act 1998 and is registered in the UK with the Information Commissioner to process your personal information. 
+Progressive Trade Media Limited is subject to the UK Data Protection Act 1998 and is registered in the UK with the Information Commissioner to process your personal information. 
 
 ### Information We Collect 
 
