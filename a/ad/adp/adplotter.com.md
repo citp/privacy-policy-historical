@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adplotter.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319125904id_/https%3A//www.adplotter.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adplotter.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506195538id_/https%3A//www.adplotter.com/privacy.asp) for the most accurate reproduction.*
 
 # Adplotter.com :: Privacy Policy
 
@@ -18,10 +18,6 @@ Adplotter does not sell, rent or share your personal information to anybody. Coo
 
 We may occasionally update our privacy policy. When we do, we will place a notice on our website to inform you  
 
-
-#### Adplotter Refund Policy:
-
-Adplotter offers a 30 day refund on the purchase of your Marketing Services. If you are unhappy with your Adplotter Marketing Services you must contact us within 30 days of your Marketing Services activation. You can contact us by either emailing our customer service department at customerservice@adplotter.com or calling our customer support number at 210-447-9654.
 
 _**You can also contact our customer service by mailing to:**_
 
