@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmarkwhirl.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228194151id_/http%3A//bookmarkwhirl.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarkwhirl.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506043256id_/http%3A//bookmarkwhirl.com/privacy-policy.php) for the most accurate reproduction.*
 
 # BookmarkWhirl.com | Privacy policy
 
