@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the criticalbench.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905055330id_/http%3A//www.criticalbench.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the criticalbench.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506095613id_/http%3A//www.criticalbench.com/privacy.htm) for the most accurate reproduction.*
 
 # CriticalBench.com Privacy Policy
 
@@ -32,7 +32,7 @@ We care about the safety and security of your transaction. We use SSL (Secure So
 
 Order Forms 
 
-Our site uses an order form for customers to request information, products, and services. We collect contact information (like e-mail address), and financial information (like account or credit card numbers). Contact information from the order forms is used to ship purchases and may be used to send information about our company through the mail. The customer's contact information is also used to get in touch with the customer when necessary. Users may opt-out of receiving future mailings by visiting [www.criticalbench.com/newsletter2.htm](https://web.archive.org/web/20150905055330id_/http%3A//www.criticalbench.com/newsletter2.htm) or sending a letter to the following postal address: 
+Our site uses an order form for customers to request information, products, and services. We collect contact information (like e-mail address), and financial information (like account or credit card numbers). Contact information from the order forms is used to ship purchases and may be used to send information about our company through the mail. The customer's contact information is also used to get in touch with the customer when necessary. Users may opt-out of receiving future mailings by visiting [www.criticalbench.com/newsletter2.htm](https://web.archive.org/web/20160506095613id_/http%3A//www.criticalbench.com/newsletter2.htm) or sending a letter to the following postal address: 
 
 _Critical Bench, Inc.  
 PO BOX 17959  
@@ -40,8 +40,8 @@ Clearwater, FL 33762_
 
 Monthly Newsletter, "The Bench Press" 
 
-Critical Bench offers a periodic e-mail service to those who are interested in hearing about the latest news in the weight lifting and powerlifting industry. "The Bench Press" is strictly opt-in. You will not receive them unless you have voluntary subscribed to the service. If you ever wish to modify your address or unsubscribe, please visit [www.criticalbench.com/newsletter2.htm](https://web.archive.org/web/20150905055330id_/http%3A//www.criticalbench.com/newsletter2.htm). 
+Critical Bench offers a periodic e-mail service to those who are interested in hearing about the latest news in the weight lifting and powerlifting industry. "The Bench Press" is strictly opt-in. You will not receive them unless you have voluntary subscribed to the service. If you ever wish to modify your address or unsubscribe, please visit [www.criticalbench.com/newsletter2.htm](https://web.archive.org/web/20160506095613id_/http%3A//www.criticalbench.com/newsletter2.htm). 
 
 Contacting Critical Bench 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may use our [feedback form](https://web.archive.org/web/20150905055330id_/http%3A//www.criticalbench.com/contact.htm). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may use our [feedback form](https://web.archive.org/web/20160506095613id_/http%3A//www.criticalbench.com/contact.htm). 
