@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techfest.org privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226215559id_/http%3A//www.techfest.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techfest.org privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506230526id_/http%3A//www.techfest.org/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Techfest 2015-16 | IIT Bombay
 
@@ -155,11 +155,11 @@ If there are any questions regarding privacy policy, you may contact us using th
 
 ###### India
 
-[info@techfest.org](https://web.archive.org/web/20151226215559id_/http%3A//www.techfest.org/mailtoinifo@techfest.org)
+[info@techfest.org](https://web.archive.org/web/20160506230526id_/http%3A//www.techfest.org/mailtoinifo@techfest.org)
 
 ###### +91 22 2576 4045
 
-[www.techfest.org ](http://techfest.org/)
+[www.techfest.org ](http://www.techfest.org/)
 
 This policy is powered by Trust Guard [ PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65b.htm?utm_expid=1880506-21.toDEndoJSIi68_4iOvcHgQ.1&utm_referrer=http%253A%252F%252Fwww.techfest.org%252Fhome%252Finfo%252Fprivacy) Heading
 
