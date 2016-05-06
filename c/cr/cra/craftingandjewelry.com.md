@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craftingandjewelry.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906121203id_/http%3A//www.craftingandjewelry.com/%3Fpage_id%3D832) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftingandjewelry.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506031052id_/http%3A//www.craftingandjewelry.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » CraftingAndJewelry
 
