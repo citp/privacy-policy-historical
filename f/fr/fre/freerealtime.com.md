@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freerealtime.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207230238id_/http%3A//quotes.freerealtime.com/dl/frt/A%3FSA%3DPrivacy%2520Statement%26file%3Dmain/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freerealtime.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506035108id_/http%3A//quotes.freerealtime.com/dl/frt/A%3FSA%3DPrivacy%2520Statement%26file%3Dmain/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - FreeRealTime.com
 
@@ -92,13 +92,10 @@ You may correct or update any information previously provided to us by visiting 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
 Web Site Administrator  
-FreeRealTime.com, Inc.   
-22365 El Toro Road #224   
-Lake Forest, California 92630  
-[Contact support](https://web.archive.org/dl/frt/account?IM=support)
+FreeRealTime, LLC. href="/dl/frt/account?IM=support">Contact support 
 
 ## Additional Information
 
 Please also refer to the FreeRealTime.com License Agreement for additional privacy related information. For general information about Internet privacy issues, you may wish to visit the Web site hosted by the Federal Trade Commission at <http://www.ftc.gov/privacy>. 
 
-We may from time to time revise this Privacy Policy. This statement of our Privacy Policy was last revised on March 18, 2002. 
+We may from time to time revise this Privacy Policy. This statement of our Privacy Policy was last revised on July 2, 2014. 
