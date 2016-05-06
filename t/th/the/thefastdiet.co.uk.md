@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefastdiet.co.uk privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906190701id_/http%3A//thefastdiet.co.uk/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefastdiet.co.uk privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506060610id_/https%3A//thefastdiet.co.uk/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and cookie policy - The Fast Diet
 
@@ -20,7 +20,7 @@ If you log in to access your account and / or make comments, we will register th
 
 We have implemented Google Analytics features based on Display Advertising  ([Google Analytics Demographics and Interest Reporting](https://support.google.com/analytics/answer/2799357?hl=en)). You can [opt-out](https://tools.google.com/dlpage/gaoptout/) of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Settings. In addition, you can use the [Google Analytics Opt-Out Browser Add-on](https://tools.google.com/dlpage/gaoptout/) to disable tracking by Google Analytics. We will use the data provided by Google Analytics Demographics and Interest Reporting to develop the site and content around our users’ interests.
 
-We use Akismet for comment moderation and to stop spam comments on our site. [Their privacy policy is here.](http://automattic.com/privacy/)
+We use Akismet for comment moderation and to stop spam comments on our site. [Their privacy policy is here.](http://automattic.com/privacy/) We use the Stop Forum Spam service and SpamHaus to stop spam registrations. Here is the [Stop Forum Spam service privacy policy](https://www.stopforumspam.com/privacy) and [here is the SpamHaus privacy policy](https://www.spamhaus.org/organization/privacy/). 
 
 If you have any questions about our privacy policy, [please ask](https://web.archive.org/let-us-know-how-its-going).
 
