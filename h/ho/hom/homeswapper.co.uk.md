@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeswapper.co.uk privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318013006id_/https%3A//homeswapper.co.uk/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeswapper.co.uk privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506235017id_/https%3A//homeswapper.co.uk/Privacy) for the most accurate reproduction.*
 
 # HomeSwapper | Tenant Privacy Policy
 
@@ -130,7 +130,7 @@ We may share your personal information with any member of our group, which means
 
 We may share your information with selected third parties including:
 
-    * Landlords, to enable a landlord to find you the best available housing option with the best possible support, and in order to add certain information to our data profiling service (Who’s Home);
+    * Landlords, to enable a landlord to find you the best available housing option with the best possible support, and in order to add certain information to our data profiling services.
 
     * Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you, including housing associations, councils, landlords and any other third parties that we consider may be able to assist you in finding housing opportunities.
 
