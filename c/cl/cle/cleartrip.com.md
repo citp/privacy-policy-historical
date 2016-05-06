@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleartrip.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102173355id_/http%3A//www.cleartrip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleartrip.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506041633id_/http%3A//www.cleartrip.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Cleartrip
 
@@ -8,20 +8,16 @@ This website is published and maintained by Cleartrip Private Limited (“Cleart
 
 By browsing, visiting, accessing and/or using the services on this Site (or searching for any of the pages on this Site), the customer (“You”) explicitly consents and agrees to our Privacy Policy laid out herein. You also agree that the information furnished by you is lawful, true and correct and does not violate or infringe any laws. In case of any violations, infringement, furnishing of wrongful or unauthorized information, Cleartrip shall not be liable for the same.
 
-We encourage you to review our Privacy Policy, and familiarise with it. Please note that we review our Privacy Policy from time to time, and we may make periodic changes to the policy in connection with that review. Therefore, you may wish to bookmark this page and/or periodically review this page to make sure you have the latest versionpf the Privacy Policy.
+We encourage you to review our Privacy Policy, and familiarise with it. Please note that we review our Privacy Policy from time to time, and we may make periodic changes to the policy in connection with that review. Therefore, you may wish to bookmark this page and/or periodically review this page to make sure you have the latest version of the Privacy Policy.
 
 ### What information does Cleartrip collect, collate and/or use?
 
 On your accessing of this Site, certain information about you, such as :
 
-  1. **Personally Identifiable Information**   
-like name(s) and contact details which may include e-mail address or contact number(s), password etc.
-  2. **Transactional Information**   
-like financial information such as Bank account or credit card or debit card or other payment instrument details etc.
-  3. **Booking information**  
-which includes information about the travel, bookings, co-passengers, travel preferences etc.
-  4. **Other information**   
-that may be requested or gathered while you visit, access or use the Site.
+  1. **Personally Identifiable Information** like name(s) and contact details which may include e-mail address or contact number(s), password etc.
+  2. **Transactional Information** like financial information such as Bank account or credit card or debit card or other payment instrument details etc.
+  3. **Booking information** which includes information about the travel, bookings, co-passengers, travel preferences etc.
+  4. **Other information** that may be requested or gathered while you visit, access or use the Site.
 
 
 
@@ -32,12 +28,9 @@ We may also collect and furnish such other information as is required in complia
 ### What is this information used for?
 
   * To conduct bookings, ticketing and payment transactions for the services available on the Site;
-  * To personalize your experience and give you better service:  
-(your information helps us to better respond to your individual needs)
-  * To improve the user friendliness of the site;  
-(we continually strive to improve the site offerings based on the information we receive from you)
-  * To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+  * To personalize your experience and give you better service: (your information helps us to better respond to your individual needs)
+  * To improve the user friendliness of the site; (we continually strive to improve the site offerings based on the information we receive from you)
+  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
   * Website traffic analysis
   * To administer a contest, promotion, survey or other site feature
   * To send emails, SMS and other communications for providing services, responding to inquiries, and/or other requests or questions.
@@ -70,32 +63,13 @@ You can file a grievance / share feedback if you are disappointed with the servi
 
 In order to make Cleartrip redressal channels more meaningful and effective, a structured system has been put in place. This system will ensure that the complaints are redressed seamlessly and well within the stipulated timeframe.
 
-### How to reach Cleartrip
+### How to reach Cleartrip for privacy related Issues
 
-For concerns regarding our Privacy Policy or our privacy practices and related Issues
+For concerns regarding our Privacy Policy or our privacy practices and related Issues, write to us at [privacy@cleartrip.com.](mailto:privacy@cleartrip.com)
 
-**Level 1:**
-
-  * You can write to us at [grievances@cleartrip.com](mailto:grievances@cleartrip.com)
-  * You can go to the main page click on About and then click on Contact to submit your query along with the Trip ID
-
-
-
-**Level 2:**
-
-  * If the resolution you received does not meet your expectations, within 72 hours of receipt of Level 1 grievance, please write to us at [escalation@cleartrip.com](mailto:escalation@cleartrip.com) along with the Trip ID.
-
-
-
-**Level 3:**
-
-  * If you are still not satisfied (after a period of 10 days from the date of receipt of Level 2 grievance), please write to us to:
-
-
+If you are not satisfied (after a period of 10 days from the date of writing to [privacy@cleartrip.com](mailto:privacy@cleartrip.com)), please write to:
 
 Grievance Officer,  
 Cleartrip Private Limited,  
 Unit No.001, Ground Floor, DTC Building, Sitaram Mills Compound,  
 Lower Parel, Mumbai 400 001
-
-You should write your Trip ID provided at the time of booking along with your Contact number in all further communication with us regarding a particular issue. This enables us to help to resolve the grievance faster.
