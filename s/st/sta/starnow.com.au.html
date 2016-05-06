@@ -1,23 +1,20 @@
-<!--The following is the downloaded HTML source of the starnow.com.au privacy policy that was archived on 2015-11-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151106040151id_/http%3A//www.starnow.com.au/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the starnow.com.au privacy policy that was archived on 2016-05-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160506043338id_/http%3A//www.starnow.com.au/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# object: http://ogp.me/ns/object#"><link rel="dns-prefetch" href="//fonts.googleapis.com"><link rel="dns-prefetch" href="//themes.googleusercontent.com"><link href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,300,400,600,700,800|Open+Sans+Condensed:300,300italic,700" rel="stylesheet"><link rel="stylesheet" href="/Content/1511060111/all.css">
-
-	<link rel="stylesheet" href="/Content/1511060111/new-nav.css">
-
-	<title>
+<!DOCTYPE html><html lang="en"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# object: http://ogp.me/ns/object#"><link rel="preconnect" href="https://fonts.gstatic.com"><link rel="preconnect" href="https://ajax.googleapis.com"><link href="/Bundles/CSS_BUNDLE_ALL?v=kTMJ1Uq4YbIHnoj5cLF98h2EQajB_eWsx72UpGxPU_A1" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,300,400,600,700,800|Open+Sans+Condensed:300,300italic,700" rel="stylesheet"><title>
 	Privacy Policy | StarNow
 </title><meta name="description" content="Auditions &amp; Jobs for Models, Actors, Musicians and Dancers. Reality TV Casting Calls. Create your free profile and get discovered."><meta property="fb:app_id" content="192931954085724"><meta name="viewport" content="width=device-width,height=device-height,initial-scale=1,user-scalable=no"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="format-detection" content="telephone=no">
-		<meta name="apple-itunes-app" content="app-id=456147847">
-	
 <script src="https://script.crazyegg.com/pages/scripts/0025/6323.js?439485" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script>
 	(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a;}else{p(f);}};})(window,document);
-		
+
 	starnow = {};
 	starnow.page = {};
 	starnow.memberId = 0;
 	starnow.staticUrl = "";
-    starnow.baseUrl = "http://www.starnow.com.au"; 
+	starnow.starNowApiUrl = 'https://api.starnow.com';
+	starnow.baseUrl = "http://www.starnow.com.au"; 
+	starnow.emailRegex = /^^[\w!#$%&'*+\-=?^`{}|\/]+(?:\.[\w!#$%&'*+\-=?^`{}|\/]+)*@[\w!#$%&'*+\-=?^`{}|\/]+(?:\.[\w!#$%&'*+\-=?^`{}|\/]+)+$$/;
 
 	starnow.user = {
 		id: starnow.memberId,
@@ -25,11 +22,11 @@
 		name: "Anonymous"
 	};
 </script>
-	
+
 	<!--[if lt IE 9]>
-		<script src="/Scripts/1511060111/html5shiv.js"></script>
-		<script src="/Scripts/1511060111/svg.js"></script>
-		<script src="/Scripts/1511060111/polyfills.js"></script>
+		<script src="/Scripts/1605060158/html5shiv.js"></script>
+		<script src="/Scripts/1605060158/svg.js"></script>
+		<script src="/Scripts/1605060158/polyfills.js"></script>
 		<script>$(function () { starnow.svg.init('svg-only', 'png'); });</script>
 	<![endif]-->
 
@@ -37,6 +34,8 @@
 	</head>
 
 <body id="ctl00_mainBody" class="new-nav">
+		 
+	
 
 	
 	
@@ -49,7 +48,7 @@
 	var snfb;
 
 	(function (snfb) {
-		var snfbInit = {"auto":["checkFacebookAuth"],"fbid":null,"scope":"email,user_about_me,user_birthday,user_location","isRegistrationPage":false,"appId":192931954085724,"channelUrl":"http%3a%2f%2fwww.starnow.com.au%2ffbchannel.ashx","version":"v2.0","returnURL":"/help/Privacy.aspx"};
+		var snfbInit = {"auto":["checkFacebookAuth"],"fbid":null,"scope":"email,user_about_me,user_birthday,user_location,user_friends","isRegistrationPage":false,"appId":192931954085724,"channelUrl":"http%3a%2f%2fwww.starnow.com.au%2ffbchannel.ashx","version":"v2.0","returnURL":"/help/Privacy.aspx"};
 
 		for (var key in snfbInit) if (snfbInit.hasOwnProperty(key)) {
 			snfb[key] = snfbInit[key];
@@ -57,7 +56,7 @@
 	})(snfb || (snfb = {}));
 </script>
 
-	
+    
 
 	
 	
@@ -104,16 +103,16 @@
 			        <a href="/talent/" class="nav__item nav-primary__item  small-3 columns fastclick" tabindex="3">
 			            Talent<span class="nav-primary__optional-text ">&nbsp;Directory</span>
 			        </a>
-			        <a href="/mystarnow/MyProfile.aspx" class="nav__item nav-primary__item  small-4 columns end fastclick" tabindex="4">
-			            My&nbsp;StarNow
-			        </a>
+					<a href="/Link.aspx?l=22014" class="nav__item nav-primary__item  small-4 columns end fastclick" tabindex="4">
+						Success&nbsp;Stories
+					</a>
 			    </div>
 			</div>
 		</div>
 	</div>
 </nav>
 
-		
+
 	
 	
 
@@ -167,86 +166,86 @@
 	</div>
 
 	
+	<script>(function() {var _fbq = window._fbq || (window._fbq = []);if (!_fbq.loaded) {var fbds = document.createElement('script');fbds.async = true;fbds.src = '//connect.facebook.net/en_US/fbds.js';var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(fbds, s);_fbq.loaded = true;}_fbq.push(['addPixelId', '879032885492025']);})();window._fbq = window._fbq || [];window._fbq.push(['track', 'PixelInitialized', {}]);</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=879032885492025&amp;ev=PixelInitialized" /></noscript>
+
+
 	
 	
 
 
 <footer class="footer">
-	<div class="row footer__nav">
-		<a class="footer__nav__link small-6 medium-3 columns" href="/help/">Help / Contact Us</a>
-		<a class="footer__nav__link small-6 medium-3 columns" href="/about-us/">About Us</a>
-        <a class="footer__nav__link small-6 medium-3 columns" href="/success-stories/">Success Stories</a>
-		<a class="footer__nav__link small-6 medium-3 columns" href="/privacy-policy">Privacy Policy</a>
-		<a class="footer__nav__link small-6 medium-3 columns" href="/help/12-Help">Trust &amp; Safety</a>
-		<a class="footer__nav__link small-6 medium-3 columns" href="/help/CookiePolicy">Cookies</a>
-		<a class="footer__nav__link small-6 medium-3 columns" href="/careers/">Careers</a>
-		<a class="footer__nav__link small-6 medium-3 columns" href="/community">Community</a>
-	</div>
-	<div class="row collapse">
+    <div class="row footer__nav">
+        <span class="footer__nav__link small-6 medium-3 columns"><a href="/help/">Help / Contact Us</a></span>
+        <span class="footer__nav__link small-6 medium-3 columns"><a href="/about-us/">About Us</a></span>
+        <span class="footer__nav__link small-6 medium-3 columns"><a href="/Link.aspx?l=22015">Success Stories</a></span>
+        <span class="footer__nav__link small-6 medium-3 columns"><a href="/privacy-policy">Privacy</a>&nbsp;/&nbsp;<a href="/terms-and-conditions">Terms</a></span>
+        <span class="footer__nav__link small-6 medium-3 columns"><a href="/help/12-Help">Trust &amp; Safety</a></span>
+        <span class="footer__nav__link small-6 medium-3 columns"><a href="/help/CookiePolicy">Cookies</a></span>
+        <span class="footer__nav__link small-6 medium-3 columns"><a href="/blog/">Blog</a></span>
+        <span class="footer__nav__link small-6 medium-3 columns"><a href="/community/">Community</a></span>
+    </div>
+    <div class="row">
+        <div class="small-12 columns app-store">
+            Take StarNow Audition Finder on the go!
+            <br>
+            <a href="https://itunes.apple.com/app/starnow-audition-finder/id456147847" target="_blank" class="app-store__badge">
+                <img src="/images/app-store-badge.svg" width="135">
+            </a>
+        </div>
+    </div>
+
+    <div class="row collapse">
 		<div class="small-12 columns footer__social">
-			<a class="footer__social-item footer__icon footer__icon--facebook" href="https://facebook.com/starnow" title="Facebook" target="_blank">
-				Facebook
-			</a>
-			<a class="footer__social-item footer__icon footer__icon--twitter" href="https://twitter.com/starnow" title="Twitter" target="_blank">
-				Twitter
-			</a>
-			<a class="footer__social-item footer__icon footer__icon--pinterest" href="https://www.pinterest.com/starnow/" title="Pinterest" target="_blank">
-				Pinterest
-			</a>
-			<a class="footer__social-item footer__icon footer__icon--google" href="https://plus.google.com/+Starnowofficial/" title="Google+" target="_blank" rel="publisher">
-				Google
-			</a>
-			<a class="footer__social-item footer__icon footer__icon--linkedin" href="https://www.linkedin.com/company/starnow.com" title="LinkedIn" target="_blank">
-				LinkedIn
-			</a>
+		    <a class="footer__social-item footer__icon footer__icon--facebook" href="https://facebook.com/starnow" title="Facebook" target="_blank">
+		        Facebook
+		    </a>
+		    <a class="footer__social-item footer__icon footer__icon--twitter" href="https://twitter.com/starnow" title="Twitter" target="_blank">
+		        Twitter
+		    </a>
+            <a class="footer__social-item footer__icon footer__icon--instagram" href="https://instagram.com/starnowsnaps/" title="Instagram" target="_blank">
+                Instagram
+            </a>
 			<a class="footer__social-item footer__icon footer__icon--youtube" href="https://www.youtube.com/user/wwwStarNowcom" title="YouTube" target="_blank">
 				YouTube
 			</a>
-			<a class="footer__social-item footer__icon footer__icon--instagram" href="https://instagram.com/starnowsnaps/" title="Instagram" target="_blank">
-				Instagram
-			</a>
+            <a class="footer__social-item footer__icon footer__icon--linkedin" href="https://www.linkedin.com/company/starnow-com" title="LinkedIn" target="_blank">
+                LinkedIn
+            </a>
 		</div>
 	</div>
 	<div class="row">
-		<div class="small-12 columns txt-center footer__copyright">
-			StarNow Limited © 2015
-			<div class="footer__company-info">
-				New Zealand company number 1584653
-			</div>
+		<div class="small-12 columns txt-center footer__company-info">
+		    StarNow Limited © 2016
+		    <br>
+			New Zealand company number 1584653
 		</div>
 	</div>
 	<div class="row show-for-large-up">
 		<div class="small-12 columns">
 			Auditions in: 
-            <a class="js-xdomain footer__country__link" href="http://www.starnow.co.uk/?utm_campaign=tld&amp;utm_medium=footer&amp;utm_source=com.au" title="UK Auditions">UK</a>,
-            <a class="js-xdomain footer__country__link" href="http://www.starnow.com/?utm_campaign=tld&amp;utm_medium=footer&amp;utm_source=com.au" title="USA Auditions">USA</a>,
-            <a class="js-xdomain footer__country__link" href="http://www.starnow.com.au/?utm_campaign=tld&amp;utm_medium=footer&amp;utm_source=com.au" title="Australian Auditions">Australia</a>,
-            <a class="js-xdomain footer__country__link" href="http://www.starnow.co.nz/?utm_campaign=tld&amp;utm_medium=footer&amp;utm_source=com.au" title="NZ Auditions">New Zealand</a>,
-            <a class="js-xdomain footer__country__link" href="http://www.starnow.ca/?utm_campaign=tld&amp;utm_medium=footer&amp;utm_source=com.au" title="Canadian Auditions">Canada</a>,
-            <a class="js-xdomain footer__country__link" href="http://www.starnow.ie/?utm_campaign=tld&amp;utm_medium=footer&amp;utm_source=com.au" title="Irish Auditions">Ireland</a>,
-            <a class="js-xdomain footer__country__link" href="http://www.starnow.co.za/?utm_campaign=tld&amp;utm_medium=footer&amp;utm_source=com.au" title="South African Auditions">South Africa</a>
-		</div>
-	</div>
-	<div class="row">
-		<div class="small-12 columns txt-center footer__flag">
-			<a class="nounder" href="/listings/ChangeRegion.aspx?return_url=%2fprivacy-policy">
-				<img src="/images/flags/f40_0.gif" width="40" height="20" alt=" Flag" title="">
-			</a>
-			<span>Worldwide</span>
-			&nbsp;
-			<a class="nounder" href="/listings/ChangeRegion.aspx?return_url=%2fprivacy-policy">change</a>
+            <a class="footer__country__link" href="http://www.starnow.co.uk/" title="UK Auditions">UK</a>,
+            <a class="footer__country__link" href="http://www.starnow.com/" title="USA Auditions">USA</a>,
+            <a class="footer__country__link" href="http://www.starnow.com.au/" title="Australian Auditions">Australia</a>,
+            <a class="footer__country__link" href="http://www.starnow.co.nz/" title="NZ Auditions">New Zealand</a>,
+            <a class="footer__country__link" href="http://www.starnow.ca/" title="Canadian Auditions">Canada</a>,
+            <a class="footer__country__link" href="http://www.starnow.ie/" title="Irish Auditions">Ireland</a>,
+            <a class="footer__country__link" href="http://www.starnow.co.za/" title="South African Auditions">South Africa</a>
 		</div>
 	</div>
 </footer>
 
+
 	
-	
-<!--[if lt IE 9]>
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<![endif]-->
-<!--[if gte IE 9]><!-->
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-<!--<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	<![endif]-->
+	<!--[if gte IE 9]><!-->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+	<!--<![endif]-->
+
+
 <script>
 	(function($, d) {
 		$.each(readyQ, function(i, f) { $(f); });
@@ -254,8 +253,14 @@
 	})(jQuery, document)
 </script>
 
+	
 
-	<script src="/Scripts/1511060111/all"></script><script src="/Scripts/1511060111/facebook"></script>
+
+	<script src="/Bundles/JS_BUNDLE_ALL?v=bIKm6-lhwlj11NIjGDeFUirPM-t-lzzLXqJWgPuSTxM1"></script>
+<script src="/Bundles/JS_BUNDLE_FACEBOOK?v=XRpHPQWHUOoyYXYeznm8NnfvqUvAjaub5kxtH3yCUsg1"></script>
+
+
+	
 	
 	
 	<script>
@@ -285,9 +290,8 @@ $(function(){starnow.initPageChrome();});
 		</noscript>
 </div>
 
-<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-30091508-1', 'auto', {'allowLinker': true});
-ga('require', 'linker');
-ga('set', 'dimension1', 'NewHome');
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-30091508-1', 'auto');
+ga('set', 'dimension1', '');
 ga('set', 'dimension2', '0');
 ga('send', 'pageview');
 </script>
