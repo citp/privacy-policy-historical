@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dhtmlgoodies.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103002506id_/http%3A//dhtmlgoodies.com/index.html%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dhtmlgoodies.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506034521id_/http%3A//www.dhtmlgoodies.com/index.html%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
