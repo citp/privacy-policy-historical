@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelovelyplanet.net privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117181715id_/http%3A//www.thelovelyplanet.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelovelyplanet.net privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506084428id_/http%3A//www.thelovelyplanet.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Lovely Planet
 
