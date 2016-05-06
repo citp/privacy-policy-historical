@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oodle.co.uk privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221012626id_/http%3A//www.oodle.co.uk/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oodle.co.uk privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506150527id_/http%3A//www.oodle.co.uk/info/privacy) for the most accurate reproduction.*
 
 # Oodle Classifieds - Privacy Policy
 
