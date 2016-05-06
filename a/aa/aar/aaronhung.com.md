@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aaronhung.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629092420id_/http%3A//www.aaronhung.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaronhung.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506235320id_/http%3A//www.aaronhung.com/policy) for the most accurate reproduction.*
 
-# Privacy | Aaron Hung.com
+# Privacy
 
 **What information do we collect?**
 
