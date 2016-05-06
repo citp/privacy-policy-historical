@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airpair.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922160605id_/https%3A//www.airpair.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airpair.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506034118id_/https%3A//www.airpair.com/privacy) for the most accurate reproduction.*
 
 # AirPair Privacy Policy
 
