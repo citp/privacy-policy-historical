@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cmsreport.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207222915id_/http%3A//cmsreport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmsreport.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507014900id_/https%3A//cmsreport.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for CMS Report
+# Privacy Policy | CMS Report
 
-Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
   * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
   * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
@@ -14,7 +14,7 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 
 
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
 
 ### Website Visitors
 
@@ -24,7 +24,7 @@ Dakota Imagery Group also collects potentially personally-identifying informatio
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to Dakota Imagery Group’s websites choose to interact with Dakota Imagery Group in ways that require Dakota Imagery Group to gather personally-identifying information. The amount and type of information that Dakota Imagery Group gathers depends on the nature of the interaction. For example, we ask article contributors who sign up to post an article at [CMSReport.com](http://cmsreport.com/)[](http://www.wordpress.com/) to provide a username and email address. In each case, Dakota Imagery Group collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Dakota Imagery Group. Dakota Imagery Group does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to Dakota Imagery Group’s websites choose to interact with Dakota Imagery Group in ways that require Dakota Imagery Group to gather personally-identifying information. The amount and type of information that Dakota Imagery Group gathers depends on the nature of the interaction. For example, we ask article contributors who sign up to post an article at [CMSReport.com](https://cmsreport.com/) to provide a username and email address. In each case, Dakota Imagery Group collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Dakota Imagery Group. Dakota Imagery Group does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ### Aggregated Statistics
 
