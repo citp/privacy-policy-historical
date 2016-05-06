@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gaggleamp.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025230502id_/https%3A//gaggleamp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaggleamp.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506171400id_/https%3A//gaggleamp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GaggleAMP
-
-## Privacy Policy
 
 Go Back
 
