@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kilstein.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125181234id_/http%3A//kilstein.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kilstein.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506191840id_/http%3A//kilstein.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Harlan Kilstein's Home
 
