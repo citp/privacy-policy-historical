@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the myidentifiers.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912021550id_/https%3A//www.myidentifiers.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myidentifiers.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506020449id_/https%3A//www.myidentifiers.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bowker | Identifier Services
 
 R.R. Bowker, LLC ("Bowker") owns and operates this website.
 
 Our postal address is:  
-**R.R. Bowker  
+ **R.R. Bowker  
 630 Central Ave.  
 New Providence, NJ 07974  
 **
