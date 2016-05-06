@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmxunion.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101113733id_/http%3A//bmxunion.com/wp-content/themes/bmxunion/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmxunion.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506062422id_/http%3A//bmxunion.com/wp-content/themes/bmxunion/privacypolicy.htm) for the most accurate reproduction.*
 
 # 
 
