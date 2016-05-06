@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zapworld.in privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024100151id_/http%3A//zapworld.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zapworld.in privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506210111id_/http%3A//zapworld.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Zapworld| Zapworld
 
@@ -64,4 +64,4 @@ Defence Colony kankarbagh Patna-20
 9654650520  
 justify107@gmail.com
 
-This document was last updated on November 07, 2014
+This document was last updated on November 11, 2015
