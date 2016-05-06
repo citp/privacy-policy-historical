@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the presencehealth.org privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122164858id_/http%3A//www.presencehealth.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presencehealth.org privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506034733id_/http%3A//www.presencehealth.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Chicago, Illinois (IL) - Presence Health
 
@@ -59,8 +59,8 @@ If you have any questions about this privacy policy, the practices of the Presen
 
 ## Notice of Privacy Practices - Full Document
 
-  * [English](https://web.archive.org/web/20151122164858id_/http%3A//www.presencehealth.org/documents/privacy/Presence-Health-NOTICE-OF-PRIVACY-PRACTICES.pdf)
-  * [En Español](https://web.archive.org/web/20151122164858id_/http%3A//www.presencehealth.org/documents/privacy/Presence-Health-SPANISH-NOTICE-OF-PRIVACY-PRACTICES.pdf)
-  * [Po Polsku](https://web.archive.org/web/20151122164858id_/http%3A//www.presencehealth.org/documents/privacy/Presence-Health-POLISH-NOTICE-OF-PRIVACY-PRACTICES.pdf)
+  * [English](https://web.archive.org/web/20160506034733id_/http%3A//www.presencehealth.org/documents/privacy/Presence-Health-NOTICE-OF-PRIVACY-PRACTICES.pdf)
+  * [En Español](https://web.archive.org/web/20160506034733id_/http%3A//www.presencehealth.org/documents/privacy/Presence-Health-SPANISH-NOTICE-OF-PRIVACY-PRACTICES.pdf)
+  * [Po Polsku](https://web.archive.org/web/20160506034733id_/http%3A//www.presencehealth.org/documents/privacy/Presence-Health-POLISH-NOTICE-OF-PRIVACY-PRACTICES.pdf)
 
 
