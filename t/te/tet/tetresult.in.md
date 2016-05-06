@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tetresult.in privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006232058id_/http%3A//www.tetresult.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tetresult.in privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507013808id_/http%3A//www.testexamresults.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Results 2015
+# Privacy Policy - Results 2016
 
-[www.tetresult.in ](http://www.tetresult.in/) Privacy Policy – Welcome to privacy section of TET Result
+[www.tetresult.in ](http://tetresult.org/) Privacy Policy – Welcome to privacy section of TET Result
 
 **Personal Identification Information**
 
@@ -42,4 +42,4 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [www.tetresult.in](http://www.tetresult.in/)
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [www.tetresult.in](http://tetresult.org/)
