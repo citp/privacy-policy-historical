@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addis97movies.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608002114id_/http%3A//addis97movies.com/content.php%3Fp%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addis97movies.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506040443id_/http%3A//addis97movies.com/content.php%3Fp%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Addis97Movies :: Your Online Ethiopian Entertainment
 
