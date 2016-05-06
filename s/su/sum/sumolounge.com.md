@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sumolounge.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315010318id_/https%3A//www.sumolounge.com/sumo_T%26C.php%3Ftype%3DPRIVACYPOLICY%26re%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumolounge.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506190831id_/https%3A//www.sumolounge.com/privacy-policy_ep_48-1.html) for the most accurate reproduction.*
 
-# Online Bean Bags | Bean Bag Chairs Manufacturer | Sumo Lounge
+# Online Bean Bags | Sumo Lounge Privacy Policy
 
 **SumoLounge.com Privacy Policy**  
  
@@ -41,7 +41,7 @@ You may decline to provide personal information to us and/or refuse cookies in y
 
 We make good faith efforts to provide you access to your personal information upon request and to let you correct such data if it is inaccurate and delete it, when reasonably possible.
 
-You may use the Network Advertising Initiative (NAI) [**opt out tool**](https://web.archive.org/%22///%22). We also comply with the Self-Regulatory Principles for Online Behavioral Advertising as managed by the Digital Advertising Alliance (DAA). You may opt out via the DAA website at [ **http://www.aboutads.info/choices/**](https://web.archive.org/%22///%22).
+You may use the Network Advertising Initiative (NAI) [**opt out tool**](https://web.archive.org/web/20160506190831id_/https%3A//www.sumolounge.com/errorpage_ep_74-1.html). We also comply with the Self-Regulatory Principles for Online Behavioral Advertising as managed by the Digital Advertising Alliance (DAA). You may opt out via the DAA website at [ **http://www.aboutads.info/choices/**](https://web.archive.org/web/20160506190831id_/https%3A//www.sumolounge.com/errorpage_ep_74-1.html).
 
 **How you can contact us about privacy questions**
 
