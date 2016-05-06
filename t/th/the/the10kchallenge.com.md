@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the10kchallenge.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128091413id_/http%3A//the10kchallenge.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the10kchallenge.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506080543id_/http%3A//www.the10kchallenge.com/privacy.php) for the most accurate reproduction.*
 
 # The 10K Challenge
 
