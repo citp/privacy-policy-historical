@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seomojo.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217134849id_/http%3A//www.seomojo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seomojo.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506033428id_/http%3A//www.seomojo.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
