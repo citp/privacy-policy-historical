@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namoffers.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219055218id_/http%3A//namoffers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namoffers.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506083354id_/http%3A//namoffers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NAMoffers
 
