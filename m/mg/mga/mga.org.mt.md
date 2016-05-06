@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mga.org.mt privacy policy that was archived on 2015-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151004104721id_/http%3A//www.mga.org.mt/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mga.org.mt privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507000742id_/http%3A//www.mga.org.mt/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Malta Gaming Authority
 
