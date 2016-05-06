@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainpower.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203215500id_/http%3A//www.domainpower.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainpower.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506192217id_/http%3A//domainpower.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | DomainPower
 
