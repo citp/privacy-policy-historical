@@ -1,6 +1,28 @@
-> *The following text is extracted and transformed from the wholesalefloral.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512044943id_/https%3A//www.wholesalefloral.com//terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesalefloral.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506080650id_/https%3A//www.wholesalefloral.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy
+
+### We can fill any size order!
+
+We stock a very large inventory of all our items, and can accommodate any order size, and have it shipped in a timely manner. We also have no minimum order dollar amount, so if you are looking to purchase just one of an item, feel free to do so.
+
+**Important note:** Some items are sold by the case only, or are sold where you need to purchase a minimum quantity. Items which are sold by the case or min required qty ship from specific warehouses where this is required and we cannot sell individual units of this item.
+
+### Guaranteed Delivery Dates
+
+On a deadline? Need your items by a certain date? Most of our customers do. We make sure we get their products to them when they need them.
+
+**In order to insure delivery date:** When placing an order - In the order comments section please indicate "I need my order by..." Choose appropriate shipping method. With ground shipping, most places in the country will receive shipment within 5 business days, usually less. If we can not meet your date that you need them by, due to unforeseen circumstances or because the shipping method wont be quick enough, we will contact you immediately. We will also work with you on getting you your items on time.
+
+x
+
+### Bulk Discount
+
+The more you buy, the more you save at WholesaleForal.com Below you will see the discount chart we offer for quantity purchases. If you meet the minimum dollar amount(Before shipping charges), enter the corresponding coupon code at checkout.
+
+These coupon codes are not eligible with any other discounts.
+
+x
 
 **Privacy Policy**
 
@@ -67,7 +89,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20150512044943id_/https%3A//www.wholesalefloral.com//terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20160506080650id_/https%3A//www.wholesalefloral.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
