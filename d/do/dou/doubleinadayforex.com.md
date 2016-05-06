@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doubleinadayforex.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230222141id_/http%3A//www.doubleinadayforex.com/double-in-a-day-website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doubleinadayforex.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506072322id_/http%3A//www.doubleinadayforex.com/double-in-a-day-website-privacy-policy) for the most accurate reproduction.*
 
 # Double in a Day website Privacy Policy
 
