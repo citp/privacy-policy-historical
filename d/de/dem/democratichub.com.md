@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the democratichub.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212193742id_/http%3A//www.democratichub.com/website-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the democratichub.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507143427id_/http%3A//www.democratichub.com/website-privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Democratic Hub
 
@@ -60,4 +60,4 @@ The Democratic Hub will occasionally update this Statement of Privacy to reflect
 
 ## CONTACT INFORMATION
 
-The Democratic Hub welcomes your comments regarding this Statement of Privacy. If you believe that the Democratic Hub has not adhered to this Statement, please contact the Democratic Hub at <http://www.democratichub.com/website-contactus.aspx>. We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+The Democratic Hub welcomes your comments regarding this Statement of Privacy. If you believe that the Democratic Hub has not adhered to this Statement, please contact the Democratic Hub at <http://www.democratichub.com/website-contactus>. We will use commercially reasonable efforts to promptly determine and remedy the problem. 
