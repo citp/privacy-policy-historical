@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hmfusa.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314235211id_/https%3A//www.hmfusa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hmfusa.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507071300id_/https%3A//www.hmfusa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,7 +35,7 @@ We do not sell, rent, or lease our customer lists to third parties. In order to 
 
 Hyundai Motor Finance Full Privacy Policy  ****
 
-[Hyundai Motor Finance Customer Privacy Notice](https://www.hmfusa.com/Data/Teamsite/HCA/HMF/img/content-block/Privacy_Notice_HMF.pdf)
+[Hyundai Motor Finance Customer Privacy Notice](https://web.archive.org/Content/img/img-hmf/Privacy_Notice_HMF.pdf)
 
 How to Contact Us
 
@@ -89,7 +89,7 @@ If you are our customer, we may use and/or disclose all of the information that 
   1. a. _Customer Data_
 
   
-To the extent permitted by law and in accordance the [Hyundai Motor Finance Customer Privacy Notice](https://www.hmfusa.com/Data/Teamsite/HCA/HMF/img/content-block/Privacy_Notice_HMF.pdf), the personally identifiable information we collect about you may be shared with our affiliates and non-affiliates as follows: 
+To the extent permitted by law and in accordance the [Hyundai Motor Finance Customer Privacy Notice](https://web.archive.org/Content/img/img-hmf/Privacy_Notice_HMF.pdf), the personally identifiable information we collect about you may be shared with our affiliates and non-affiliates as follows: 
 
     1. I. Affiliates - Our affiliates include companies with a Hyundai name (except dealers); financial companies such as Hyundai Capital Services; and nonfinancial companies such as Hyundai Motor America.
   
@@ -186,7 +186,7 @@ We will not disclose any of your nonpublic personal information to our affiliate
 
 **14\. Your Vermont Privacy Rights**
 
-We automatically limit the sharing of your information as if you elected to limit the sharing as described on page 1 of the [Hyundai Motor Finance Customer Privacy Notice.](https://www.hmfusa.com/Data/Teamsite/HCA/HMF/img/content-block/Privacy_Notice_HMF.pdf) With respect to sharing with nonaffiliated financial companies with whom we have joint marketing agreements, we limit the information to your name, contact information and information about your transactions and experiences with us. We also do not disclose nonpublic personal information about you to non-affiliates without first obtaining your express written consent, unless permitted by law. 
+We automatically limit the sharing of your information as if you elected to limit the sharing as described on page 1 of the [Hyundai Motor Finance Customer Privacy Notice.](https://web.archive.org/Content/img/img-hmf/Privacy_Notice_HMF.pdf) With respect to sharing with nonaffiliated financial companies with whom we have joint marketing agreements, we limit the information to your name, contact information and information about your transactions and experiences with us. We also do not disclose nonpublic personal information about you to non-affiliates without first obtaining your express written consent, unless permitted by law. 
 
 **15\. Changes to Our Privacy Policy**
 
