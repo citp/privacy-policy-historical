@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the colourpop.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319031218id_/https%3A//colourpop.com/colourpop-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colourpop.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507152639id_/https%3A//colourpop.com/colourpop-privacy-policy) for the most accurate reproduction.*
 
-# ColourPop | Cosmetics | Privacy Policy
+# Privacy Policy – ColourPop
 
 ColouPop Consmetics, LLC **(“ColourPop** ”) provides users with:
 
