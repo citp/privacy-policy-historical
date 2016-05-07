@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vch.ca privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107220815id_/http%3A//www.vch.ca/your-stay/your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vch.ca privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507131115id_/http%3A//www.vch.ca/your-stay/your-privacy) for the most accurate reproduction.*
 
 # Your Privacy - Your Stay - Vancouver Coastal Health
 
@@ -8,7 +8,7 @@ All of your records are kept strictly confidential. Protecting your privacy is o
 
 We collect, use and disclose your information only where permitted or authorized to under the BC Freedom of Information and Protection of Privacy Act.
 
-Learn more about how we protect your privacy
+To learn more, visit the [Information Privacy Office](http://www.vch.ca/about-us/contact-us/information-privacy-office/).
 
 Who can access my information?
 
@@ -40,8 +40,6 @@ We use electronic records to share information efficiently and improve the quali
 We record your information in our electronic clinical systems and use a shared electronic health record, CareConnect, to provide a single point of access for patient medical information.
 
 We also have access to patient identifiers in the Ministry of Health’s Electronic Master Patient Index, which we use to confirm your identity and for audit purposes.
-
-Learn more about how we care for your information 
 
 Is my information secure?
 
