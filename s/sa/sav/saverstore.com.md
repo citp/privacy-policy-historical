@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saverstore.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926143242id_/http%3A//www.saverstore.com/products/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saverstore.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507121947id_/http%3A//www.saverstore.com/products/information/privacy) for the most accurate reproduction.*
 
 # Cheap Privacy
 
