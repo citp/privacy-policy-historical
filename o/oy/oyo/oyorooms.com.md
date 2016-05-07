@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oyorooms.com privacy policy that was archived on 2015-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151004120215id_/http%3A//www.oyorooms.com/privacy-policy%3Foyocorporate%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oyorooms.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507151847id_/https%3A//www.oyorooms.com/privacy-policy%3Foyocorporate%3D) for the most accurate reproduction.*
 
 # Privacy Policy
 
