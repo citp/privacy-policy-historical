@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the myyouthbrigade.com privacy policy that was archived on 2015-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150710163816id_/http%3A//myyouthbrigade.com/main/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myyouthbrigade.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507234854id_/http%3A//myyouthbrigade.com/main/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-**What information do we collect?**
 
 We collect information from you when you subscribe to our newsletter or News Information.
 
