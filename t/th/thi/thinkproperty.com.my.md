@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkproperty.com.my privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016020201id_/http%3A//thinkproperty.com.my/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkproperty.com.my privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507030654id_/http%3A//thinkproperty.com.my/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
