@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the websitebox.com privacy policy that was archived on 2015-11-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151112140132id_/https%3A//www.websitebox.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the websitebox.com privacy policy that was archived on 2016-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160507133738id_/https%3A//www.websitebox.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths webkit chrome linux js"><head>
 
@@ -72,11 +72,12 @@
 <link rel="stylesheet" type="text/css" href="css/responsive.css">
 
 <!-- Head Libs -->
-<script type="text/javascript" async="" src="https://www.websitebox.com/php/manage/client/modules/livehelp/scripts/jquery.livehelp.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-DVFZ6"></script><script src="vendor/modernizr/modernizr.js"></script>
+<script type="text/javascript" async="" src="https://widget.intercom.io/widget/fch3fu5z"></script><script type="text/javascript" async="" src="https://www.websitebox.com/php/manage/client/modules/livehelp/scripts/jquery.livehelp.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-DVFZ6"></script><script src="vendor/modernizr/modernizr.js"></script>
 
 <script>
 function renderDropDownList(){var $select4 = $('.multiple_select'); if ($select4.data('selectator') === undefined) { if (typeof $select4.selectator != 'undefined') {$select4.selectator({ showAllOptionsOnFocus: true });} } else { $select4.selectator('destroy'); } }
-function logout(noRedirect, promoCode){ $.ajax({ type: "POST", url: ajax_url, data: (promoCode) ? {ac:"logout", promoCode:promoCode} : {ac:"logout"}, success: function(msg){ if (typeof noRedirect == 'undefined' || !noRedirect) {window.location = "https://" + document.location.hostname + "/logout.php";} eval("var r="+msg); if (r.success){ $("#btn_login").removeClass("wsbx_hidden"); $("#btn_logout").addClass("wsbx_hidden"); $("#btn_signup").removeClass("wsbx_hidden"); $("#btn_cp").addClass("wsbx_hidden");} }, error: function(XMLHttpRequest, textStatus, errorThrown) { } }); }
+
+	function logout(noRedirect, promoCode){ $.ajax({ type: "POST", url: ajax_url, data: (promoCode) ? {ac:"logout", promoCode:promoCode} : {ac:"logout"}, success: function(msg){ if (typeof noRedirect == 'undefined' || !noRedirect) {window.location = "https://" + document.location.hostname + "/logout.php";} eval("var r="+msg); if (r.success){ $("#btn_login").removeClass("wsbx_hidden"); $("#btn_logout").addClass("wsbx_hidden"); $("#btn_signup").removeClass("wsbx_hidden"); $("#btn_cp").addClass("wsbx_hidden");} }, error: function(XMLHttpRequest, textStatus, errorThrown) { } }); }
 function loadcontent(page){ if (/\&(app|domain)\=/.test(page) && !/signup\&/.test(page)){ $.ajax({ type: "POST", url: ajax_url, data: {ac:"checkClientLogin"}, success: function(msg){ eval("var r="+msg); if (!r.success){ page="login&from=store&redirect="+page; } $('#popup_content').load( "/popups/getcontent.php?page="+page, function() {$('#popup_content').modal();renderDropDownList();}); }, error: function(XMLHttpRequest, textStatus, errorThrown) { } });  }else $('#popup_content').load( "/popups/getcontent.php?page="+page, function() {$('#popup_content').modal();renderDropDownList();}); }
 function loadPopupCoupon(couponId) {
   if (couponId === '') {
@@ -155,8 +156,8 @@ function getFormData($form){var unindexed_array = $form.serializeArray(); var in
           <a href="javascript:cp()" id="btn_cp" class="wsbx_hidden">ControlPanel</a> </div>
                     <nav>
             <ul class="nav nav-pills nav-top">
-              <li class="phone"> <span><i class="fa fa-phone"></i>1.866.857.1657</span> </li>
-              <li class="phone"> <span><i class="fa fa-envelope"></i>SUPPORT@WEBSITEBOX.COM</span> </li>
+              <li class="phone"> <span><a href="/realtors/support.php"><i class="fa fa-phone"></i>1.866.857.1657</a></span> </li>
+              <li class="phone"> <span><a href="/realtors/support.php"><i class="fa fa-envelope"></i>SUPPORT@WEBSITEBOX.COM</a></span> </li>
             </ul>
           </nav>
         </div>
@@ -182,12 +183,12 @@ function getFormData($form){var unindexed_array = $form.serializeArray(); var in
                 <li><a href="/realtors/support.php">Support</a></li>
                 <li><a href="/blog/">What&rsquo;s New?</a></li>
                 -->
-                <li><a href="javascript:signup()">Signup</a></li>
+                <li><a href="/realtors/tour.php">Tour</a></li>
                 <li><a href="/just-99-dollars.php">Just $99</a></li>
                 <li><a href="/realtors/plans-pricing.php">Pricing</a></li>
+                <li><a href="/realtors/testimonials.php">Testimonials</a></li>
                 <li><a href="/realtors/websitebox-vs-competition.php">WebsiteBox VS Competitors</a></li>
                 <li><a href="/realtors/mls-coverage.php">MLS Coverage</a></li>
-                <li><a href="/realtors/tour.php">Tour</a></li>
                 </ul>
             </div>
             <!--/.nav-collapse --> 
@@ -294,10 +295,6 @@ function getFormData($form){var unindexed_array = $form.serializeArray(); var in
             <div class="ttryu">
               <h2 style="color:#ffffff !important;">Have <br>
                 Questions ?</h2>
-                <!--
-              <a href="#" style="color:white !important;" class="LiveHelpButton default">Chat With Us Live<img src="https://secure.websitebox.com/php/manage/client/modules/livehelp/include/status.php" id="LiveHelpStatusDefault" name="LiveHelpStatusDefault" border="0" alt="Live Help" class="LiveHelpStatus" style="display:none;"></a>
-              -->
-              <a href="#" onclick="return false;" style="color:white !important;" class="LiveHelpButton">Chat With Us Live<img src="https://secure.websitebox.com/php/manage/client/modules/livehelp/include/status.php" id="LiveHelpStatus" name="LiveHelpStatus" border="0" alt="Live Help" class="LiveHelpStatus" style="display:none;"></a>
             </div>
           </div>
           <div class="linet"> <span></span>
@@ -385,7 +382,12 @@ function getFormData($form){var unindexed_array = $form.serializeArray(); var in
 		
 		</script>
 		 -->
-
+<script>
+    window.intercomSettings = {
+        app_id: "fch3fu5z"
+    };
+</script>
+<script>(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/fch3fu5z';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()</script>
 
 
 </body></html>
