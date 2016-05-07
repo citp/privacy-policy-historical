@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skinz.org privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022072605id_/http%3A//www.skinz.org/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinz.org privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507113150id_/http%3A//skinz.org/privacy.phtml) for the most accurate reproduction.*
 
 # 
 
