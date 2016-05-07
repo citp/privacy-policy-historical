@@ -1,0 +1,29 @@
+> *The following text is extracted and transformed from the videoclassifica.it privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507184151id_/http%3A//www.smooto.com/en/pages/cookie-policy.html) for the most accurate reproduction.*
+
+# Cookie Policy
+
+**[Smooto](https://web.archive.org/ "Smooto")** Network recognises that your privacy is very important to you and that you have a right to control your personal information. We know that providing personal information is an act of trust and we take that seriously. This privacy policy forms part or our Terms of Use (TOU) and is subject to and should be read with our TOU. Your email address will NEVER be displayed on this website. We will not email you anything unrelated to **[Smooto](https://web.archive.org/ "Smooto")** Network. If your email address is supplied, it will be stored securely.
+
+## Your information
+
+**[Smooto](https://web.archive.org/ "Smooto")** Network will not give or sell your information to any third party. If writing an article or posting a comment, your information can not be accessed by the article's author.
+
+## Facebook comments
+
+If you use the facebook comment facility on any article then your name and facebook photo may appear on the **[Smooto](https://web.archive.org/ "Smooto")** Network. **[Smooto](https://web.archive.org/ "Smooto")** Network uses a facebook plugin for the facebook comment facility. **[Smooto](https://web.archive.org/ "Smooto")** Network does not guarenatee that attempts to edit facebook comments by users of this facility will result in the desired editorial results. Any use of the facebook comment facility is at the user's own risk.
+
+## Advertisements on News Post Daily
+
+**[Smooto](https://web.archive.org/ "Smooto")** Network uses the services of Google and Criteo Advertising. * Google, as a third-party vendor, uses cookies to serve ads on this site. Specifically Google uses the DoubleClick DART cookie. * Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+## Cookies
+
+See info above. We also use some cookies to remember who you are. In addition, **[Smooto](https://web.archive.org/ "Smooto")** Network uses cookies and scripting for several site functions. This information is used to enhance customer experience of our software.
+
+## Business Transfers
+
+By subscribing to or using the Services, User acknowledges and agrees that **[Smooto](https://web.archive.org/ "Smooto")** Network is entitled to transfer User’s personal data to third parties. If **[Smooto](https://web.archive.org/ "Smooto")** Network or substantially all of its assets were acquired, or in the unlikely event that **[Smooto](https://web.archive.org/ "Smooto")** Network goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of **[Smooto](https://web.archive.org/ "Smooto")** Network may continue to use your personal information as set forth in this policy and that there may be changes to the policy.
+
+## Third-party online advertising
+
+Some of the advertisements you see on the Site are selected and delivered by third parties, such as ad networks, advertising agencies, advertisers, and audience segment providers. These third parties may collect information about you and your online activities, either on the Site or on other websites, through cookies, web beacons, and other technologies in an effort to understand your interests and deliver to you advertisements that are tailored to your interests. Please remember that the News Post Daily does not have access to, or control over, the information these third parties may collect. The information practices of these third parties are not covered by this privacy policy. These third parties may offer you a way to choose not to have your information used for advertising purposes. For example, some of these companies are members of the Network Advertising Initiative ("NAI"), which provides a single location where you can opt out of receiving targeted ads from member companies. To opt out, please visit the NAI's website at http://www.networkadvertising.org/managing/opt_out.asp.
