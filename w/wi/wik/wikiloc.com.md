@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wikiloc.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025004259id_/http%3A//www.wikiloc.com/wikiloc/privacy.html%3Fv1.0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikiloc.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507203156id_/http%3A//www.wikiloc.com/wikiloc/privacy.html%3Fv1.0) for the most accurate reproduction.*
 
 # Privacy policy - Wikiloc
 
