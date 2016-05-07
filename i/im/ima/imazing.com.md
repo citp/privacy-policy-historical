@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imazing.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103091328id_/http%3A//digidna.ch/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imazing.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507072649id_/http%3A//digidna.ch/privacy-policy) for the most accurate reproduction.*
 
 # DigiDNA - Company
 
@@ -67,6 +67,8 @@ DigiDNA may use cookies to collect anonymous information such as browser type, o
 #### 8\. Spamming
 
 DigiDNA does not practice Spamming. Spamming is defined as sending unrequested e-mails, generally with advertising content, in large numbers and in a repeated way, to people with whom the sender did not have any preliminary contact with, or who had expressed a disinterest in such messages.
+
+However, DigiDNA sends license holders important news regarding their license and its updates. These newsletters always contain an ‘Unsubscribe’ button. We strongly advise license holders to remain subscribed, unless they intend to never use the product again: newsletters may contain information about critical bug fixes, security enhancements, new features or feature changes, and renewal / upgrade special offers. Users can also unsubscribe at any time [here.](http://digidna.us4.list-manage1.com/unsubscribe?u=9820780b9ca506ece36277a8c&id=112355e150)
 
 #### 9\. Links Towards Other Websites
 
