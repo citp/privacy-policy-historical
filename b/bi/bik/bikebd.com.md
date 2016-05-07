@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bikebd.com privacy policy that was archived on 2013-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130417181722id_/http%3A//www.bikebd.com/contact-us/privacy-policy-of-bikebd) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikebd.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507020418id_/http%3A//www.bikebd.com/%3Fp%3D4454) for the most accurate reproduction.*
 
-# Privacy Policy of BikeBD - BikeBD | BikeBD
+# Privacy Policy of BikeBD - BikeBD
 
 **What information do we collect?**
 
