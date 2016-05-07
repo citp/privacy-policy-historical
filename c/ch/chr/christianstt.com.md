@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the christianstt.com privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814062221id_/http%3A//christianstt.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianstt.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507024112id_/http%3A//cdn-2b1d.kxcdn.com/privacy_policy.html) for the most accurate reproduction.*
 
-# None
+# Privacy Policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [admin](mailto:christianstt@gmail.com).
 
@@ -34,7 +34,9 @@ These third-party ad servers or ad networks use technology in their respective a
 
 christianstt.com has no access to or control over these cookies that are used by third-party advertisers. 
 
-**Third Party Privacy Policies**  
+ï¿½
+
+ **Third Party Privacy Policies**  
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. christianstt.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
