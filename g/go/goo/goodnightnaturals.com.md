@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodnightnaturals.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914020040id_/http%3A//www.goodnightnaturals.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodnightnaturals.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507201934id_/https%3A//www.goodnightnaturals.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy is a serious concern. Information is not shared and private.
 
