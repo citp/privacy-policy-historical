@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetypingcat.com privacy policy that was archived on 2015-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150224043723id_/http%3A//thetypingcat.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetypingcat.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507231855id_/http%3A//thetypingcat.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - The Typing Cat
 
