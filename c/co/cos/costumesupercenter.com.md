@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costumesupercenter.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217080808id_/http%3A//www.costumesupercenter.com/privacy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costumesupercenter.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507083008id_/http%3A//www.costumesupercenter.com/privacy-security.html) for the most accurate reproduction.*
 
 # Halloween Costumes for Kids & Adults Buy From Costume SuperCenter.com
 
