@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regionalhelpwanted.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915124046id_/https%3A//regionalhelpwanted.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regionalhelpwanted.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507083952id_/https%3A//regionalhelpwanted.com/corporate/privacy) for the most accurate reproduction.*
 
 # Privacy | RegionalHelpWanted.com
 
@@ -55,16 +55,6 @@ We do not disclose your personal information to third parties, or your combined 
 
 
 
-##### Other Uses of Information
-
-We also share aggregated anonymous information about visitors to RHW with its clients, partners and other third parties so that they can understand the kinds of visitors to the RHW Websites and how those visitors use the RHW Websites.
-
-We supply technology, hosting and related services to other leading companies and associations to power recruitment areas on their Websites (sometimes referred to as "Hosted Career Sites"). Personal and/or demographic information supplied by you in Hosted Career Sites becomes part of the RHW database, but it is not accessible by anyone other than you, RHW and the company/association concerned without your consent. If you attempt to register with RHW after registering with a Hosted Career Site, RHW will recognize your information and you will be able to use the information you provided to the Hosted Career Site in your MyRHW account registration.
-
-Information gathered on a page in a Hosted Career Site or on a co-branded page may become the property of the other company or of both us and the other company. In that instance, the use of such information by the other company will be subject to the privacy policy of that company. We are not responsible for that company's use of your personal or demographic information.
-
-If you apply for a position on an RHW site or through a Hosted Career Site, you may be asked to provide information on your gender, race or other protected status where permitted by applicable law. Some employers are required by law to gather this information from job applicants for reporting and record-keeping requirements. You should understand that if provided, this information will be used by employers only in accordance with applicable law and will not be used in making any negative employment decisions. All information provided will be kept separate from your expression of interest in any job opportunity. Providing this information is strictly voluntary and you will not be subject to any adverse action or treatment if you choose not to provide this information.
-
 ##### Use of Cookies
 
 We use "cookies" to help us personalize and maximize your online experience and time online. A cookie is a text file that is placed on your hard drive by a Web page server. They are not used to run programs or deliver viruses to your computer. Cookies permit RHW to recognize you when you access an RHW Website, thus enabling us to deliver a more personalized experience.
@@ -75,11 +65,7 @@ You can adjust the settings on your Web browser to decline all cookies, if you p
 
 ##### Data usage
 
-Notwithstanding any other provision, we may also engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system), or place or recognize a unique cookie on your browser to enable you to receive customized ads or content.
-
-These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address that we may share with a provider solely in hashed, non-human readable form.
-
-To opt-out of these data provider cookies, please go to [http://www.aboutads.info/choices.](http://www.aboutads.info/choices)
+We allow third-party companies to collect certain information from US users that visit our web site using one of several branded URLs advertised to US audiences. These companies may utilize cookies, pixels, or other technologies to collect and use non-personally identifiable information ( _e.g._ , hashed data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. We do not allow similar collection of similar information from CA users that visit our web site using one of several branded URLs advertised to CA audiences. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at [www.aboutads.info](http://www.aboutads.info/) and Networking Advertising Initiative at [www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/).
 
 ##### Security of the Personal Information
 
@@ -107,4 +93,4 @@ RegionalHelpWanted, Inc. is a Delaware corporation with its principal place of b
 
 Thank you for using RHW.
 
- _Effective Date: July 14, 2015_
+ _Effective Date: February 25, 2016_
