@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genxfinance.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214233929id_/http%3A//genxfinance.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genxfinance.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507225659id_/http%3A//genxfinance.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gen X Finance
 
