@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the productcreatorpro.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229095431id_/http%3A//www.productcreatorpro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the productcreatorpro.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508011653id_/http%3A//www.productcreatorpro.com/privacy) for the most accurate reproduction.*
 
 # Product Creator Pro: Privacy Policy
 
