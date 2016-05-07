@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calendly.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916173540id_/https%3A//calendly.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calendly.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507213210id_/https%3A//calendly.com/pages/privacy) for the most accurate reproduction.*
 
 # Calendly - Scheduling appointments and meetings is super easy with Calendly.
 
@@ -48,4 +48,4 @@ Although most changes are likely to be minor, we reserve the right to change thi
 
 ## Contacting Us
 
-Questions regarding this privacy statement should be directed to [support@calendly.com](mailto:support@calendly.com)
+Questions regarding this privacy statement should be directed to [team@calendly.com](mailto:team@calendly.com). 
