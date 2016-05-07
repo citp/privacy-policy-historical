@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cambridgeassessment.org.uk privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224102837id_/http%3A//www.cambridgeassessment.org.uk/footer/privacy-settings/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cambridgeassessment.org.uk privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507030258id_/http%3A//www.cambridgeassessment.org.uk/footer/privacy-settings/index.aspx) for the most accurate reproduction.*
 
 # Privacy Settings | Cambridge Assessment
 
@@ -28,6 +28,4 @@ JWPlayer | __jwpusr | This cookie is used by the video and podcast player on our
 Survey Monkey | Various | These cookies are created by Survey Monkey which we use for occasional website surveys.  
 Wufoo forms | Various | These cookies are created by Wufoo which we use for our web forms.  
 Website Survey | JulyCASurvey | This cookie is used to prevent our website survey from displaying if it has already been closed or completed by a user. The cookie expires after one year and does not contain any personal data.  
-Crazy Egg Heatmap | is_returning | This cookie is used to determine whether a user is a new visitor to our website. The cookie expires after five years and does not contain any personal data.  
-  
-View your preferences
+Crazy Egg Heatmap | is_returning | This cookie is used to determine whether a user is a new visitor to our website. The cookie expires after five years and does not contain any personal data.
