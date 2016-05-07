@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mitre10.co.nz privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121233316id_/https%3A//www.mitre10.co.nz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mitre10.co.nz privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507041627id_/https%3A//www.mitre10.co.nz/privacy) for the most accurate reproduction.*
 
 # Privacy - Mitre 10
 
