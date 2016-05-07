@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the findtarget.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104143319id_/http%3A//www.findtarget.com/privacyft.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findtarget.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507021729id_/http%3A//www.findtarget.com/privacyft.html) for the most accurate reproduction.*
 
-# Search Engine, Web Search, People Search, Local Search and Search Engine Marketing Info - Findtarget.com
+# 
+
+'_hover'); $logo_title_custom='privacy policy'; include('_ft_static_.php'); echo $ft_header; echo block_start('Privacy Policy'); ?>
 
 overview
 
