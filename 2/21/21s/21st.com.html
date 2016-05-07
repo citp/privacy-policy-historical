@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 21st.com privacy policy that was archived on 2015-11-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151113170022id_/http%3A//www.21st.com/auto-insurance-privacy-security.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 21st.com privacy policy that was archived on 2016-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160507055256id_/http%3A//www.21st.com/auto-insurance-privacy-security.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><script type="text/javascript">
   var locationObj = window.location;
@@ -46,7 +46,7 @@
 	<!--[if lte IE 7]>
 		<link rel="stylesheet" href="/insurance-information/webpub/en/pages/css/ie.css" type="text/css" media="all" charset="utf-8" />
 	<![endif]-->
-<link rel="canonical" href="https://web.archive.org/web/20151113170022id_/http%3A//www.21st.com/auto-insurance-privacy-security.htm"></head>
+<link rel="canonical" href="https://web.archive.org/web/20160507055256id_/http%3A//www.21st.com/auto-insurance-privacy-security.htm"></head>
 
 <body class="resource">
 	<div id="content-wrapper">			
@@ -70,7 +70,7 @@
     <div id="hdr">
 
         <div id="logo">
-            <a href="/"><img alt="21st Century Insurance" height="66" src="/insurance-information/webpub/en/pages/img/21st-century-insurance.gif" width="183"></a>
+            <a href="/" id="sourceHref"><img alt="21st Century Insurance" height="66" id="sourceImg" width="183"></a>
         </div>
 
 
@@ -161,6 +161,18 @@
     </div>
 
 </div>
+<script>
+$(document).ready(function () {
+var sourceapp = document.URL.split('sourceApp=')[1];
+if(sourceapp != undefined && sourceapp == 'FH') {
+$("#sourceImg").attr('src', '/insurance-information/webpub/en/pages/img/farmers-insurance-logo.png');
+$("a#sourceHref").attr("href", "http://www.farmershawaii.com/21st")
+}else {
+$("#sourceImg").attr('src', '/insurance-information/webpub/en/pages/img/21st-century-insurance.gif');
+}
+});
+</script>
+
 
 	<!-- end global header  -->
 		
@@ -712,7 +724,9 @@ function printpage()
     </div>
 
 
-    <script src="/insurance-information/webpub/en/pages/js/global-tags.js" type="text/javascript"></script><script src="/insurance-information/webpub/en/pages/js/rc-tags.js" type="text/javascript"></script><script src="https://a2e8daacb817c7a5ce15-62f924c5a2dee193c0a40f343cc155fe.ssl.cf2.rackcdn.com/llscripts//launcher.js" type="text/javascript"></script>
+    <script src="/insurance-information/webpub/en/pages/js/rc-tags.js" type="text/javascript"></script>
+<script src="/insurance-information/webpub/en/pages/js/global-tags.js" type="text/javascript"></script> 
+
 </div>
 	
  
