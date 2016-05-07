@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordmark.it privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930053135id_/http%3A//wordmark.it/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordmark.it privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507104631id_/http%3A//wordmark.it/privacy.html) for the most accurate reproduction.*
 
 # wordmark.it - privacy policy
 
