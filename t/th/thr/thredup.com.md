@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thredup.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909024300id_/https%3A//www.thredup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thredup.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507101444id_/https%3A//www.thredup.com/privacy-policy) for the most accurate reproduction.*
 
 # Shop for Practically New Clothing on thredUP- Privacy Policy
 
