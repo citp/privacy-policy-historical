@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidswb.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107115510id_/http%3A//www.scoobydoo.com/scooby-doo/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidswb.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507130257id_/http%3A//www.scoobydoo.com/scooby-doo/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Kids WB
 
@@ -6,19 +6,14 @@
 
 Our visitors’ privacy is important to us at Warner Bros. Entertainment Group (“we,” “us,” “our”). We are providing this summary of our information practices (“Privacy Policy”) because we are committed to helping our visitors understand what personal information is collected on our online and mobile websites, services, and applications (“Site” or “Sites”) and to teaching visitors how to exercise control over this information while exploring our Sites. 
 
-This Privacy Policy governs the collection and use of personal information at our Sites where this policy is posted. Some portions of the Sites may be directed at and may collect personal information from parents, teens, or other adults. In some cases, these sections may be subject to separate or additional privacy notices, such as our general [Warner Bros. Privacy Policy](http://www.warnerbros.com/privacy/policy.html) or another notice presented at the point of data collection.
-
-**TRUSTe PRIVACY SEAL**  
-Some of our Sites have been awarded TRUSTe’s Children’s Privacy Seal signifying that our practices on those Sites, along with this Privacy Policy, have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/products-and-services/consumer_privacy/privacy-programs-requirements#Child) including transparency, accountability and choice regarding the collection and use of visitors’ personal information. For a list of Sites that are TRUSTe certified, please click here. 
-
-TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If visitors have questions or complaints regarding our privacy policy or practices, please contact us using the contact information below.  If not satisfied with our response, visitors can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+This Privacy Policy governs the collection and use of personal information at our Sites where this policy is posted. Some portions of the Sites may be directed at and may collect personal information from parents, teens, or other adults. In some cases, these sections may be subject to separate or additional privacy notices, such as our general [Warner Bros. Privacy Policy](http://www.warnerbros.com/privacy-center-wb-privacy-policy) or another notice presented at the point of data collection.
 
 **THE INFORMATION WE COLLECT  **  
 **Personal Information and Account Registration**. To enable visitors to participate in some of our online and mobile activities, or for us to respond to their requests, we may ask them to provide us with certain information, such as their first name, hometown, and an email address. For other activities that include enhanced interactive features, such as virtual worlds where visitors can play games, chat with their friends, and redeem virtual items or currency, we may require the child to choose a screen name and/or create an account with us. This account may require additional information, such as a username, password, and other profile information. 
 
 **Parents, Guardians, Adults and Teens**. For certain activities on our Site and where a visitor indicates to us that he or she is a child, we may collect information about the visitor’s parent or guardian, such as the email address of the parent or guardian. We may use this information to:  (1) let the parent or guardian know of the child’s interest in the activity; (2) ask for the parent or guardian’s permission for the child to participate in that activity; (3) provide instructions to the parent or guardian on how to register and activate certain features of their child’s account; or (4) store the parent or guardian’s email in “hashed” or protected format (e.g., translated into a string of letters or numbers that don’t identify the individual) to help with account maintenance, such as to retrieve a lost password. On certain portions of a Site with activities directed to our adult and teen visitors, we may collect additional information from them such as a full name, address, email address, telephone number, or other information related to the activity. Similarly, certain portions of a Site may permit adults and teens to participate in interactive features that involve third parties, such as sharing content via social media accounts, interacting with social media plugins, or logging on via other third party platform accounts. When an adult or teen uses such social media platforms and plugins, some social media account information may be shared with us, such as a user name and other profile information. 
 
-**Purchases and Transactions**. We may also offer parents and other adult visitors the opportunity to make purchases, such as a membership privileges,  virtual items and currency for use within our Sites and online games, merchandise, or gifts for themselves, friends or family, or to enable participation in certain interactive features. In such cases, we may require the parent or adult to provide a full name, billing and mailing addresses, email address, telephone number, and a credit card number. For orders shipped to a third party, we will also need the recipient’s name and mailing address. On occasion, we might solicit additional voluntary information regarding shoppers’ personal shopping preferences. Purchase transactions involving a credit card charge should be completed by a parent or guardian and are governed by our general [Warner Bros. Privacy Policy](http://www.warnerbros.com/privacy/policy.html).
+**Purchases and Transactions**. We may also offer parents and other adult visitors the opportunity to make purchases, such as a membership privileges,  virtual items and currency for use within our Sites and online games, merchandise, or gifts for themselves, friends or family, or to enable participation in certain interactive features. In such cases, we may require the parent or adult to provide a full name, billing and mailing addresses, email address, telephone number, and a credit card number. For orders shipped to a third party, we will also need the recipient’s name and mailing address. On occasion, we might solicit additional voluntary information regarding shoppers’ personal shopping preferences. Purchase transactions involving a credit card charge should be completed by a parent or guardian and are governed by our general [Warner Bros. Privacy Policy](http://www.warnerbros.com/privacy-center-wb-privacy-policy).
 
 **Communicating with Others**. On some areas of our Sites, visitors may want to communicate with their friends or tell their friends about our Site, so we may ask them to provide personal information about other people. This is usually limited to a first name and email address.  This information is used solely to respond to the visitor’s request and is deleted from our system once the message is sent.  Some Sites allow visitors to chat with friends in a way that displays their communications to other users of the Site.  These Sites generally allow child visitors to select pre-populated phrases or otherwise make use of tools or processes to filter and monitor chat messages written by the visitor.  If these tools detect personal information that a child visitor is trying to post personal information online, we will take reasonable measures to delete this personal information from the child’s postings before they are made public.
 
@@ -66,16 +61,16 @@ Visitors, including parents and guardians of child visitors, with questions or c
 
 If a visitor no longer wishes to have information collected by an application installed on the mobile device, they may uninstall the application by using the standard uninstall processes available on the mobile device or via the mobile application marketplace or network.
 
-Warner Bros. Advanced Digital Services, a division of Warner Bros. Technical Operations Inc.   
+Warner Bros. Entertainment Inc.  
 Attention: Chief Privacy Officer   
-4000 Warner Blvd., Bldg. 168, Burbank, CA 91522   
-Telephone: (818) 977-0018   
+4000 Warner Blvd., Bldg. 167  
+Burbank, CA 91522   
 Email: [privacy@wb.com](mailto:privacy@wb.com) 
 
 **NOTIFICATION REGARDING UPDATES  **  
 From time to time, we may update this Privacy Policy. We will notify Site visitors about material changes to our privacy practices by placing a notice on the Site where this Privacy Policy is posted or by sending the parent or guardian an email message. We encourage visitors to periodically check back to review this policy to understand our current privacy practices. 
 
-Date Updated: March 13, 2014  
+Date Updated: December 16, 2015  
  
 
 Warner Bros. Entertainment Group companies that agree to be bound by this Privacy Policy may access the information collected from users on our Web site (even from users based in a different territory) and may use that information for the purposes described in our Privacy Policy. Below is a list of some of the Warner Bros. Entertainment Group companies that currently may market to our users in this way. We may update this list from time-to-time, so please check back periodically to keep up-to-date. 
@@ -87,8 +82,8 @@ Telepictures Production Inc.
 TMZ Productions Inc.  
 Turbine, Inc.  
 WB Games Inc.  
-Warner Bros. Advanced Digital Services, a division of Warner Bros. Technical Operations Inc.  
 Warner Bros. Animation Inc.  
+Warner Bros. Digital, a division of Warner Bros. Technical Operations Inc.  
 Warner Bros. Consumer Products Inc.  
 Warner Bros. Digital Distribution, a division of Warner Bros. Home Entertainment Inc.  
 Warner Bros. Distributing Inc.  
@@ -97,20 +92,16 @@ Warner Bros. Interactive Entertainment, a division of Warner Bros. Home Entertai
 Warner Bros. International Television Distribution Inc.  
 Warner Bros. Pictures, a division of WB Studio Enterprises Inc.  
 Warner Bros. Studio Facilities, a division of WB Studio Enterprises Inc.  
-Warner Bros. Television Distribution Inc.  
+Warner Bros. Technology Solutions, a division of Warner Bros. Entertainment Inc.  
+Warner Bros. Worldwide Television Distribution Inc.  
 Warner Bros. Television, a division of WB Studio Enterprises Inc.  
 Warner Bros. Television Group  
 Warner Home Video, a division of Warner Bros. Home Entertainment Inc.
 
 Below is a list of some of the Time Warner companies that are affiliated with the Warner Bros. Entertainment Group companies and with whom we may share information we collect at our Sites. We may update this list from time-to-time with additional Time Warner companies, so please check back periodically to keep up-to-date.
 
-Cartoon Network  
-Home Box Office  
-Time Inc.  
-Turner Broadcasting System  
+The Cartoon Network, Inc.  
+Home Box Office, Inc.  
+Time Warner Inc.  
+Turner Broadcasting System, Inc.  
 
-
-The following online and mobile websites, services, and applications have been awarded TRUSTe’s Children’s Privacy Seal for compliance with [TRUSTe’s program requirements](http://www.truste.com/products-and-services/consumer_privacy/privacy-programs-requirements#Child).
-
-chimaonline.com  
-LEGO Legends of Chima mobile application
