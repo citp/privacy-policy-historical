@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hornby.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108013532id_/http%3A//www.hornby.com/us-en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hornby.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507043900id_/http%3A//www.hornby.com/us-en/privacy-policy) for the most accurate reproduction.*
 
 # Hornby Privacy Policy
 
