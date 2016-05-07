@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utilitywarehouse.co.uk privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003221250id_/https%3A//www.utilitywarehouse.co.uk/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utilitywarehouse.co.uk privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507100354id_/https%3A//www.utilitywarehouse.co.uk/legal/privacy) for the most accurate reproduction.*
 
 # Utility Warehouse - Privacy Statement
 
@@ -28,7 +28,7 @@ We collect information about you to enable us to provide you with the services t
 
 We may also monitor and record any communications that we have with you, including telephone conversations, to make sure that we are providing you with a good service and meeting all our regulatory and legal responsibilities.
 
-If you provide us with any sensitive information about yourself or additional account holder (such as health details, or any criminal convictions) you agree (and confirm that the person the information is about has agreed) that we can use the information in the way set out in this privacy notice.
+If you provide us with any personal data or sensitive information about yourself or an additional account holder (such as health details, or any criminal convictions) you agree (and confirm that the person the information is about has agreed) that we can use the information in the way set out in this privacy notice.
 
 If you have given us your mobile phone number or email address (or both), we may use the information to send you service messages or other similar information (by text message or email). The aim is to help us manage your account. We will not use the information for marketing purposes unless you have agreed that we can. You must let us know if your mobile phone number or email address changes so that we can keep this information up to date.
 
@@ -56,7 +56,7 @@ There are certain circumstances where we may need to disclose your personal info
 
   * To verify your identity;
   * To third party organisations who will help supply the services that we provide to you. For example if you are an energy customer this might include gas transporters, metering operators, administrators for grants or rebates and our meter reading agency, if you are a telephony customer, this might include network operators and if you are a Bill Protector customer this will include the insurer and administrator of the insurance policy;
-  * To our Distributors, where they may need to contact you to give you information about our other services which could save you money, unless you have requested otherwise;
+  * To our Authorised Distributors, where they may choose to contact you to personalise your experience or give you information about our other services that could save you money, unless you have requested otherwise;
   * To credit reference agencies. We may need to make credit checks on you to help us make decisions about your ability to pay for the services you have requested, to prevent fraud or to recover debt. When we search the files of a credit reference agency, a record will be kept of that search. Additionally, details of how you conduct your account may also be disclosed to the agency. This information may be used by other organisations in assessing applications from you and members of your household;
   * To fraud prevention agencies, where we have reason to believe there may be fraudulent activity;
   * To content partners or advertisers;
@@ -82,6 +82,18 @@ In accordance with the principles of the Data Protection Act, we will not otherw
 ### Protecting your information
 
 We have strict security systems in place to protect your personal information. All our members of staff will follow a careful identification process before any personal data is disclosed and all the personal information we hold about you can only be accessed by authorised members of staff.
+
+In meeting the data protection principles set out in the Data Protection Act, we aim to ensure the security of our systems through adopting best practice:
+
+  * Starting with security in mind when designing our systems including security layers;
+  * Implementing design principles within our infrastructure (e.g. use of DMZ and firewalls); and
+  * Adopting security safeguards against attacks (e.g. internal and external monitoring of network traffic use and carrying out regular penetration tests). 
+
+
+
+In order to protect our data we adopt security policies which provide working guidelines to our staff as well as enforce controls and procedures in line with the DPA security principles and other industry-specific compliance requirements.
+
+These security policies do not permit the disclosure of how we implement our controls over the use and management of personal data as to do so would pose a threat to ourselves and to the personal information that we hold.
 
 ### Accessing your information
 
