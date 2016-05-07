@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theconfidentialfiles.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115170752id_/http%3A//www.theconfidentialfiles.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theconfidentialfiles.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507035803id_/http%3A//www.theconfidentialfiles.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | The Confidential Files
 
@@ -13,15 +13,19 @@ This Privacy Policy governs the manner in which The Confidential FIles collects,
 
 ###  Personal identification information
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site.Users may be asked for, as appropriate, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site
+
+. 
+
+Users may be asked for, as appropriate, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identifying information, except that it may prevent them from engaging in certain Site related activities.
 
 ###  Non-personal identification information
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about User's means of connection to our Site, such as the operating system and the Internet service providers utilized, and other similar information.
 
 ###  Web browser cookies
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Our Site may use "cookies" to enhance User experience. The user's web browser places cookies on their hard drive for recordkeeping purposes and sometimes to track information about them. The user may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
 ###  How we use collected information
 
@@ -30,7 +34,7 @@ The Confidential FIles may collect and use Users personal information for the fo
   * _To run and operate our Site_  
 We may need your information display content on the Site correctly.
   * _To improve our Site_  
-We may use feedback you provide to improve our products and services.
+We may use the feedback you provide to improve our products and services.
   * _To send periodic emails_  
 We may use the email address to respond to their inquiries, questions, and/or other requests.
 
@@ -42,11 +46,11 @@ We adopt appropriate data collection, storage and processing practices and secur
 
 ###  Sharing your personal information
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+We do not sell, trade, or rent Users personal identifiable information to others. We may share generic aggregated demographic information not linked to any personal identifying information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
 ###  Advertising
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+The ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identifying information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
 ###  Google Adsense
 
@@ -68,4 +72,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.
 
-This document was last updated on July 13, 2015
+This document was last updated on March 26, 2016
