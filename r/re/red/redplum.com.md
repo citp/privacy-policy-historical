@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the redplum.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226173306id_/http%3A//www.redplum.com/info/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redplum.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507190851id_/http%3A//www.redplum.com/info/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
 
-# None
+# Privacy | redplum.com
 
 Jump to:     Ad Choices     |     Safe Harbor Statement     |     Terms of Use
 
