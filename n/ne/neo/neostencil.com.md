@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the neostencil.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222015333id_/http%3A//neostencil.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neostencil.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507164524id_/http%3A//neostencil.com/privacy) for the most accurate reproduction.*
 
-# Privacy - NeoStencil
+# Privacy • NeoStencil
 
 ## **PRIVACY STATEMENT**
 
