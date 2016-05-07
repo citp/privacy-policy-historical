@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tuberankjeet.com privacy policy that was archived on 2014-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140219234358id_/http%3A//www.tuberankjeet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuberankjeet.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507081309id_/http%3A//tuberankjeet.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy policy sets out how Tuberank Jeet uses and protects any information that you enter when you use this website. 
+This privacy policy sets out how Tuberank Jeet 2 uses and protects any information that you enter when you use this website. 
 
 Teknikforce is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. 
 
@@ -62,7 +62,7 @@ We will not sell, distribute or lease your personal information to third parties
 
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please request a copy by writing to: 
 
-**Tuberank Jeet**
+**Tuberank Jeet 2**
 
 If you believe that any information we are holding on you is incorrect or incomplete, please contact us through our Support Desk. We will promptly correct any information found to be incorrect. 
 
