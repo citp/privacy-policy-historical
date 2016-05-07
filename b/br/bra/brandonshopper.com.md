@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandonshopper.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229095337id_/http%3A//www.brandonshopper.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandonshopper.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507111758id_/http%3A//brandonshopper.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
