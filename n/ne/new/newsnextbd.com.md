@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsnextbd.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231192913id_/http%3A//newsnextbd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsnextbd.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507023711id_/http%3A//newsnextbd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - cares for nothing but accuracy
 
