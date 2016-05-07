@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the biznessapps.com privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928174155id_/https%3A//www.biznessapps.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biznessapps.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507164220id_/https%3A//www.biznessapps.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Bizness Apps - Our Privacy Policy
+# Privacy Policy - Bizness Apps
 
 ## Privacy Policy
 
