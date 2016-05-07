@@ -1,31 +1,58 @@
-> *The following text is extracted and transformed from the freefincal.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104230412id_/http%3A//freefincal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freefincal.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507023044id_/http%3A//freefincal.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Personal Finance Calculators
+# Privacy Policy
 
-**Free Personal Finance Calculators**  takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://cybec.com/what-is-a-privacy-policy/) to learn more about privacy policies in general.
+Freefincal is a repository of excel-based calculators for personal finance, mutual fund and stock analysis. It also contains commentary, reviews, analysis and research on various topics of finance and investing presented to viewers in a blog-like format.
 
-## Routine Information Collection
+Interested readers who wish to follow ours post via email can subscribe to our newsletter service. For this they need to enter their email address in the form presented at the bottom right of each page or via an exit-intent pop-up when they are above to leave the page.
 
-All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
+We do not collect any other personal information from readers.
 
-## Cookies and Web Beacons
+We respect email privacy and will never share emails with anyone else. Our website is protected from brute-force malicious attacks.
 
-Where necessary, Free Personal Finance Calculators uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+We present advertisements from two agencies:
 
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
+1)  **[Wordads](https://wordads.co/)** by WordPress. The ads will not be contextual in nature and will only be from advertisers who wish to run local or global campaigns. We believe this preserves our integrity.
 
-## Controlling Your Privacy
+Revenue is earned by impressions only. That is by no of people who view the ads. Generally, there is no earnings associated with readers clicking on the ads.
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This list of [web browser privacy management](http://cybec.com/web-browser-privacy-management/) links may also be useful.
+2)  **Adsense by Google**. The ads will be contextual in nature, based on clicks and impressions, and is likely to depend on your browsing history. In order to preserve our integrity, all financial services ads have been disabled at the cost of significant revenue.
 
-## Special Note About Google Advertising
+  * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
+  * Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). Alternatively, you can opt out of a third-party vendor's use of cookies for interest-based advertising by visiting [aboutads.info](http://www.aboutads.info/)
 
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
 
-## Contact Information
 
-Concerns or questions about this privacy policy can be directed to [freefincal@gmail.com](mailto:freefincal@gmail.com?target=)
+If you have not [opted out of third-party ad serving](https://www.google.com/support/dfp_sb/bin/answer.py?hl=en&answer=94152), the cookies of other [third-party vendors or ad networks](https://www.google.com/support/dfp_sb/bin/answer.py?answer=94149) may also be used to serve ads on your site, and should be disclosed in your privacy policy as well in the following manner.
 
-or to
+  * The links to the appropriate vendor and ad network websites depend on your browsing history and freefincal is not aware of them.
+  * You may visit those websites to opt out of the use of cookies for interest-based advertising (if the vendor or ad network offers this capability). Alternatively, you can opt out of some third-party vendor's use of cookies for interest-based advertising by visiting [aboutads.info](http://www.aboutads.info/).
 
-pattu [AT]  iitm.ac.in for further clarification.
+
+
+Our website is non-profit in nature. The revenue from the advertisement will only be used for hosting charges, domain registration charges, specific plugins necessary for traffic growth and analytics services for search engine optimization.
+
+Any changes in this privacy policy will be immediately conveyed to all readers/user by updating this page, via email and in the latest post.
+
+Sincerely yours,
+
+ **Team Freefincal**
+
+* * *
+
+Freefincal has open-source, comprehensive Excel spreadsheets, tools, analysis and unbiased, conflict of interest-free commentary on different aspects of personal finance and investing. If you find the content useful, please consider supporting us by (1) sharing our articles and (2) disabling ad-blockers for our site if you are using one. We do not accept sponsored posts, links or guest posts request from content writers and agencies.
+
+### Do more with freefincal!
+
+  * [Install the freefincal retirement planner app from Google Play](https://play.google.com/store/apps/details?id=freefincal.com.freefincalretirementcal)
+  * [Read freefincal posts in Tamil!](http://freefincal.com/tamil/)
+  * [Download e-books and join the DIY investor's forum!](http://freefincal.com/mutual-fund-resources-freefincal/thank-you-for-registering/)
+
+
+
+* * *
+
+### Blog Comment Policy
+
+Your thoughts are vital to the health of this blog and are the driving force behind the analysis and calculators that you see here. We welcome criticism and differing opinions. I will do my very best to respond to all comments asap. Please do not include hyperlinks or email ids in the comment body. Such comments will be moderated and I reserve the right to delete  the entire comment or remove the links before approving them.
