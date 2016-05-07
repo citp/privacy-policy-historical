@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abpweddings.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213035322id_/http%3A//www.abpweddings.com/web/abpm-site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abpweddings.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507034149id_/http%3A//www.abpweddings.com/web/abpm-site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ABP Weddings
 
