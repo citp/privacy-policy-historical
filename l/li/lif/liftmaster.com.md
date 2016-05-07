@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the liftmaster.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905091158id_/https%3A//www.liftmaster.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liftmaster.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507094412id_/https%3A//www.liftmaster.com/Privacy-Policy) for the most accurate reproduction.*
 
-# LiftMaster - Privacy Policy | LiftMaster
+# Privacy Policy | LiftMaster
 
 ## Privacy is very important to LiftMaster®
 
