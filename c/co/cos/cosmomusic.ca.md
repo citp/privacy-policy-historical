@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cosmomusic.ca privacy policy that was archived on 2015-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151012000056id_/http%3A//cosmomusic.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmomusic.ca privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507153531id_/http%3A//cosmomusic.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cosmo Music
 
