@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedesktopwallpapers.net privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209204111id_/http%3A//www.freedesktopwallpapers.net/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedesktopwallpapers.net privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507055654id_/http%3A//www.freedesktopwallpapers.net/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
