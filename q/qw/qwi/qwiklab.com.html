@@ -1,27 +1,73 @@
-<!--The following is the downloaded HTML source of the qwiklab.com privacy policy that was archived on 2015-03-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315025304id_/https%3A//www.qwiklab.com/privacy_policy%3Flocale%3Den) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the qwiklab.com privacy policy that was archived on 2016-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160507235917id_/https%3A//qwiklab.com/privacy_policy%3Flocale%3Den) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-<script type="text/javascript" async="" src="https://app.ubertags.com/javascripts/ubertags.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"39ed367c8d","applicationID":"2282426","transactionName":"JVtWQEpXDQgHFxZEQgdAUVdnSAADBxYWH1kSXF1GEQ==","queueTime":0,"applicationTime":18,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-593.min.js","extra":""}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UA4GUVVRGwECXFNWBQc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(o){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-593.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
-  <title>qwikLABS | Privacy Policy - Learn Amazon Web Services</title>
-  <!--[if lt IE 9]>
-    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
-  <![endif]-->
-  <link href="//d37nrxkwyxayeo.cloudfront.net/assets/application-6fc7cd5f9509dd0af2cc1500400b9dea.css" media="all" rel="stylesheet" type="text/css">
-  <script src="//d37nrxkwyxayeo.cloudfront.net/assets/application-0bc54c78befcee4fa28761515a8e50a1.js" type="text/javascript"></script>
-  <meta content="authenticity_token" name="csrf-param">
-<meta content="VzIzfsiRWP8LnfDMp0EPTfFpv7k86MSYIwYMmZ6+0M8=" name="csrf-token">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="https://js-agent.newrelic.com/nr-943.min.js"></script><script type="text/javascript" async="" src="https://app.ubertags.com/javascripts/ubertags.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"39ed367c8d","applicationID":"2282426","transactionName":"JVtWQEpXDQgHFxZEQgdAUVdnSAADBxYWR0QPQllXQWcRCw4MWk4=","queueTime":0,"applicationTime":69,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UA4GUVVRGwECXFNWBQc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(11),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(12),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),c.xhrWrappable&&t(6),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(13)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(13)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(13)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){y.push(t),h&&(g=-g,x.data=g)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(13)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var w=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,w),w.prototype=p.prototype,d.inPlace(w.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,x=document.createTextNode(g);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(8),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(10),m=window.XMLHttpRequest;s.features.xhr=!0,t(6),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(11),a=t(12);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],11:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],12:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],13:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(12),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([y,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},y={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return y}function i(){return new r}var a="nr@context",s=t("gos"),c=t(11),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(11),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(9);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-943.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,7]);</script>
+  <title>qwikLABS | Privacy Policy - Hands-On Labs - Amazon Web Services Training and Certification Prep</title>
+<!--[if lt IE 9]>
+  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel="stylesheet" media="all" href="//d37nrxkwyxayeo.cloudfront.net/assets/application-696e6dc4768bdbac41f8f6e92a31c8467fe8a3223f7bfadaa7b2d97a8ffb059d.css">
+<script src="//d37nrxkwyxayeo.cloudfront.net/assets/application-cdc0fe4767ccb86b984388e190e0169e67bd3e4250e88e64677fa0f78430491d.js"></script>
+<meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="dh/4M5OcbBHHRQVELgh7eiKnHIJj/l+8FOkiEC7B5SCRPq1FgOY6qO6crD9ifHyX4rE34luBDGIAWl9jtmgXLQ==">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
 </head>
 
-<body id="body-layout" lang="EN-US" style="tab-interval:.5in">
+<body id="body-layout">
   <div class="header" id="header">
 <div class="navbar navbar-fixed-top">
-<div class="navbar-inner">
-<div class="container">
-<a class="brand" href="/?locale=en"><img alt="Banner_logo-v2_50" src="//d37nrxkwyxayeo.cloudfront.net/assets/banner_logo-v2_50-fa9b05a5e743990b6e8bd93412b8fcbd.png" style="height: 50px; margin-right: 28px;"></a>
-<ul class="nav">
+<iframe class="ie-cover" src=""></iframe>
+<div class="navbar-inner" id="navbar-inner-for-top">
+<ul class="nav menu" style="margin-right: 0px;">
+<li class="dropdown">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#" style="font-size: 20px; padding-right: 0px;">
+<i class="icon-align-justify"></i>
+</a>
+<ul class="dropdown-menu" style="background-color: #eaeaea;">
+<li style="line-height: 4px; background-color: #fff">&nbsp;</li>
+<li style="background-color: #fff;">
+<a href="/whats_a_lab?locale=en">WHAT'S A QWIKLAB?</a>
+</li>
+<li style="background-color: #fff;">
+<a href="/lab_catalogue?locale=en">LAB CATALOGUE</a>
+</li>
+<li style="background-color: #fff;">
+<a href="/payments/pricing?locale=en">PRICING</a>
+</li>
+<li style="background-color: #fff;">
+<a href="/faq?locale=en">FAQS</a>
+</li>
+<li style="background-color: #fff;">
+<a href="/contact?locale=en">CONTACT</a>
+</li>
+<li style="line-height: 4px; background-color: #fff">&nbsp;</li>
+<li style="line-height: 4px; background-color: #eaeaea;">&nbsp;</li>
+<li style="background-color: #eaeaea;">
+<a href="/about_us?locale=en">ABOUT</a>
+</li>
+<li style="background-color: #eaeaea;">
+<a href="http://blog.qwiklabs.com">BLOG</a>
+</li>
+<li style="background-color: #eaeaea;">
+<a href="/partner_solutions?locale=en">PARTNER SOLUTIONS</a>
+</li>
+<li style="background-color: #eaeaea;">
+<a href="/privacy_policy?locale=en">PRIVACY POLICY</a>
+</li>
+<li style="background-color: #eaeaea;">
+<a href="/terms_of_service?locale=en">TERMS OF SERVICE</a>
+</li>
+</ul>
+</li>
+</ul>
+<a class="brand" href="/?locale=en" style="margin-left: 0px;">
+<img style="height: 50px; margin-right: 8px; margin-left: 8px;" src="//d37nrxkwyxayeo.cloudfront.net/assets/banner_logo-v2_50-83c9bd71e8670e7fbe729f1f41d564515d4a041e82917715b4d5580db0a4e6c8.png" alt="Banner logo v2 50 83c9bd71e8670e7fbe729f1f41d564515d4a041e82917715b4d5580db0a4e6c8">
+</a>
+<ul class="nav collapsable">
 <li>
 <a href="/whats_a_lab?locale=en">WHAT'S A QWIKLAB?</a>
 </li>
@@ -39,35 +85,35 @@
 </li>
 </ul>
 <ul class="nav pull-right">
-<li class="dropdown" id="language">
-<a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="translation_missing" title="translation missing: en.header.language">Language</span><b class="caret"></b>
+<li class="language">
+<a href="https://china.qwiklab.com">China qwikLABS Site</a>
+</li>
+<li class="dropdown language">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Language<b class="caret"></b>
 </a><ul class="dropdown-menu">
 <li>
-<a href="/privacy_policy?locale=en"><img alt="Us" src="//d37nrxkwyxayeo.cloudfront.net/assets/us-7c3a9a1190cedd7a2471b59a35f7cf85.png">&nbsp;English
+<a href="/privacy_policy?locale=de"><img src="//d37nrxkwyxayeo.cloudfront.net/assets/de-05c5cead8f0645ad9f1c1af7c7ff0a144bf45d55a4bd28e83723fe6a5a090d99.png" alt="De 05c5cead8f0645ad9f1c1af7c7ff0a144bf45d55a4bd28e83723fe6a5a090d99">&nbsp;&nbsp;Deutsch
 </a></li>
 <li>
-<a href="/privacy_policy?locale=ja"><img alt="Jp" src="//d37nrxkwyxayeo.cloudfront.net/assets/jp-a22c8afa9fb98580526c507486a585bb.png">&nbsp;日本語
+<a href="/privacy_policy?locale=en"><img src="//d37nrxkwyxayeo.cloudfront.net/assets/en-a1983a58b9e230c998f86e6c8be18a809f1598223011369d2676848ae32ddc2a.png" alt="En a1983a58b9e230c998f86e6c8be18a809f1598223011369d2676848ae32ddc2a">&nbsp;&nbsp;English
 </a></li>
 <li>
-<a href="/privacy_policy?locale=zh"><img alt="Cn" src="//d37nrxkwyxayeo.cloudfront.net/assets/cn-e603e451c3c840e6486b38a816439d27.png">&nbsp;简体中文
+<a href="/privacy_policy?locale=es"><img src="//d37nrxkwyxayeo.cloudfront.net/assets/es-e2192905d2358a512634822f4309d9426c2ae1fdf1c215b6e362e873b3fe013b.png" alt="Es e2192905d2358a512634822f4309d9426c2ae1fdf1c215b6e362e873b3fe013b">&nbsp;&nbsp;Español
 </a></li>
 <li>
-<a href="/privacy_policy?locale=ko">
+<a href="/privacy_policy?locale=ja"><img src="//d37nrxkwyxayeo.cloudfront.net/assets/ja-ecaf8870f1afca1084cf674ddce6e1bc1d6f669c5e51f302baded352fe65afe4.png" alt="Ja ecaf8870f1afca1084cf674ddce6e1bc1d6f669c5e51f302baded352fe65afe4">&nbsp;&nbsp;日本語
 </a></li>
 <li>
-<a href="/privacy_policy?locale=es">
+<a href="/privacy_policy?locale=ko"><img src="//d37nrxkwyxayeo.cloudfront.net/assets/ko-712c3dd949b1eb352cb5879aa9485dfcd0ae5eb67eee4caadcf8513111b5f895.png" alt="Ko 712c3dd949b1eb352cb5879aa9485dfcd0ae5eb67eee4caadcf8513111b5f895">&nbsp;&nbsp;한국의
 </a></li>
 <li>
-<a href="/privacy_policy?locale=pt-BR">
+<a href="/privacy_policy?locale=pt_BR"><img src="//d37nrxkwyxayeo.cloudfront.net/assets/pt_BR-8e85aee03d1c21a864e84b611219790d0d2ae4f6a7b3d951be048478d085634b.png" alt="Pt br 8e85aee03d1c21a864e84b611219790d0d2ae4f6a7b3d951be048478d085634b">&nbsp;&nbsp;Português
 </a></li>
 <li>
-<a href="/privacy_policy?locale=de"><img alt="De" src="//d37nrxkwyxayeo.cloudfront.net/assets/de-9279f7029d0e0149e4bbfdf978b68c29.png">&nbsp;Deutsch
+<a href="/privacy_policy?locale=ru"><img src="//d37nrxkwyxayeo.cloudfront.net/assets/ru-44766669fe6cff6af6374a074310833f37cc903485df92cd0be117e2b70d9651.png" alt="Ru 44766669fe6cff6af6374a074310833f37cc903485df92cd0be117e2b70d9651">&nbsp;&nbsp;русский
 </a></li>
 <li>
-<a href="/privacy_policy?locale=ru">
-</a></li>
-<li>
-<a href="/privacy_policy?locale=tr">
+<a href="/privacy_policy?locale=zh"><img src="//d37nrxkwyxayeo.cloudfront.net/assets/zh-6e5a8dd2d2d1329ebd3483bef7b363cbf7a0c8dafd0af823fe2de3e917209d64.png" alt="Zh 6e5a8dd2d2d1329ebd3483bef7b363cbf7a0c8dafd0af823fe2de3e917209d64">&nbsp;&nbsp;简体中文
 </a></li>
 </ul>
 
@@ -79,462 +125,401 @@
 <a href="/users/sign_up?locale=en">Create New Account</a>
 </li>
 <li>
-<a href="/users/sign_in?locale=en" class="sign-in">Sign in</a>
+<a class="sign-in" href="/users/sign_in?locale=en">Sign in</a>
 </li>
 </ul>
 </li>
 </ul>
-</div>
 </div>
 </div>
 
 </div>
 
   <div class="layout container">
-
-    <h1>Privacy Policy</h1>
-
-
-
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="Generator" content="Microsoft Word 14">
-<style>
-<!--
- /* Font Definitions */
-@font-face
-	{font-family:Cambria;
-    panose-1:2 4 5 3 5 4 6 3 2 4;}
- /* Style Definitions */
-p.MsoNormal, li.MsoNormal, div.MsoNormal
-	{
-	margin:0in;
-	margin-bottom:.0001pt;
-	font-size:12.0pt;
-  font-family:"Cambria", "serif";}
-@page WordSection1
-	{size:8.5in 11.0in;
-    margin:1.0in 1.25in 1.0in 1.25in;}
-div.WordSection1
-	{page:WordSection1;}
--->
-</style>
-
-
-
-
-<div class="WordSection1">
-
-<p class="MsoNormal" align="center" style="text-align:center"><b style="mso-bidi-font-weight:
-normal"><span style="font-family:&quot;Times New Roman&quot;">Privacy Policy<o:p></o:p></span></b></p>
-
-<p class="MsoNormal" align="center" style="text-align:center"><b style="mso-bidi-font-weight:
-normal"><span style="font-family:&quot;Times New Roman&quot;"><o:p>&nbsp;</o:p></span></b></p>
-
-<p class="MsoNormal" align="center" style="text-align:center"><span style="font-family:&quot;Times New Roman&quot;">Last updated on August 20, 2014<o:p></o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><o:p>&nbsp;</o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><b>Our Policy</b><o:p></o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><o:p>&nbsp;</o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;">This privacy
-policy (the “Privacy Policy”) governs Cloud vLab Inc.’s (“Cloud vLab,”
-"we", "us" and/or "our") use of certain
-information provided to us in connection with services provided to you under
-the <span class="SpellE">qwikLAB</span> Terms of Service (the “Agreement”).<span style="mso-spacerun:yes">&nbsp; </span>All capitalized terms in this Privacy Policy
-shall have the meaning set forth in the Agreement, or the meaning set forth in
-this Privacy Policy if no definition is provided in the Agreement. <span style="mso-spacerun:yes">&nbsp;</span>This Privacy Policy sets forth our policies
-with respect to information including personally identifiable data
-("Personal Data") and other information that is collected from you
-when using or registering for the Service. <o:p></o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><o:p>&nbsp;</o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><b>Information We
-    Collect</b><o:p></o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><o:p>&nbsp;</o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;">When you
-interact with us through the Service, we may collect Personal Data and other
-information from you, as further described below:<o:p></o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><o:p>&nbsp;</o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;">Personal Data
-That You Provide Through the Service: We collect Personal Data from you when
-you voluntarily choose to provide such information such as when you contact us
-with inquiries, respond to one of our surveys, register for access to the
-Service or use certain features of the Service. <span style="mso-spacerun:yes">&nbsp;</span>Wherever we collect Personal Data we make an
-effort to provide a link to this Privacy Policy. <span style="mso-spacerun:yes">&nbsp;</span>By voluntarily providing us with Personal
-Data, you are consenting to our use of it in accordance with this Privacy
-Policy. If you provide Personal Data to us through the Service, you acknowledge
-and agree that such Personal Data may be transferred from your current location
-to our offices and servers, or our affiliates and/or contractors located in the
-United States and other countries.<o:p></o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><o:p>&nbsp;</o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><b>Other
-    Information</b><o:p></o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><o:p>&nbsp;</o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;">Non-Identifiable
-Data: When you utilize the Service, we may receive certain personally
-non-identifiable information about your use of the Service. Such information,
-which is collected passively using various technologies, cannot presently be
-used to specifically identify you. We may store such information ourselves or
-it may be included in databases <span class="GramE">owned</span> and maintained
-by our affiliates, agents or service providers. We may use such information and
-pool it with other information to track, for example, the total number of
-visitors to the Service, the number of visitors to each page of the Service,
-and the domain names of our visitors' Internet service providers. It is
-important to note that no Personal Data is available or used in this process.<o:p></o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><o:p>&nbsp;</o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;">Cookies: In
-operating the Service, we may use cookies. A cookie is a piece of information
-that the computer or computers that host our Service give to your browser when
-you access the Service. Our cookies help provide additional functionality to
-the Service and help us analyze usage of the Service more accurately. <span style="mso-spacerun:yes">&nbsp;</span>For instance, our Service may set a cookie on
-your browser that keeps you from needing to remember and then enter a password
-more than once during a visit to the Service. <span style="mso-spacerun:yes">&nbsp;</span>On most web browsers, you will find a
-"help" section on the toolbar. Please refer to this section for
-information on how to receive notification when you are receiving a new cookie
-and how to turn cookies off. <span style="mso-spacerun:yes">&nbsp;</span>We
-recommend that you leave cookies turned on because they allow you to take
-advantage of some features of the Service.<o:p></o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><o:p>&nbsp;</o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;">Aggregated
-Personal Data: In an ongoing effort to better understand and serve the users of
-the Services, we may conduct research on our end user's demographics, interests
-and behavior based on the Personal Data and other information provided to us. <span style="mso-spacerun:yes">&nbsp;</span>This research may be compiled and analyzed on
-an aggregate basis, and we may share this aggregated data with our affiliates,
-agents and business partners. <span style="mso-spacerun:yes">&nbsp;</span>This
-aggregate information does not identify you personally. <span style="mso-spacerun:yes">&nbsp;</span>We may also disclose aggregated user
-statistics in order to describe our services to current and prospective
-business partners, and to other third parties for other lawful purposes.<o:p></o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><o:p>&nbsp;</o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><b>Our Use of Your
-    Personal Data and Other Information</b><o:p></o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><o:p>&nbsp;</o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;">We, along with your Lab Sponsor and their affiliates, will use the
-Personal Data you provide in a manner that is consistent with this Privacy
-Policy. <span style="mso-spacerun:yes">&nbsp;</span>If you provide Personal Data for
-a certain reason, we may use the Personal Data in connection with the reason
-for which it was provided. <span style="mso-spacerun:yes">&nbsp;</span>For instance,
-if you contact us by e-mail, we will use the Personal Data you provide to
-answer your question or resolve your problem. <span style="mso-spacerun:yes">&nbsp;</span>Also, if you provide Personal Data in order to
-obtain access to the Services, we will use your Personal Data to provide access
-to such services and to monitor your use of such services. <span style="mso-spacerun:yes">&nbsp;</span>We may also use your Personal Data and other
-personally non-identifiable information collected through the Service to help
-us improve the content and functionality of the Service, to better understand
-our users and to improve the Service. <span style="mso-spacerun:yes">&nbsp;</span>We
-may use this information to contact you in the future to tell you about
-services we believe will be of interest to you.<o:p></o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><o:p>&nbsp;</o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;">We may communicate
-with you through email and notices posted via the Service. <span style="mso-spacerun:yes">&nbsp;</span>These communications may include a series of
-welcome emails that help inform you about various features of the Service. <span style="mso-spacerun:yes">&nbsp;</span>Please be aware that you may receive certain emails
-from us related to the proper functioning of your account. <span style="mso-spacerun:yes">&nbsp;</span>We, along with your Lab Sponsor and their affiliates, may send you promotional information unless
-you have opted out of receiving such information. <span style="mso-spacerun:yes">&nbsp;</span>If you wish to opt-out of receiving
-promotional emails, please click the "unsubscribe" link at the bottom
-of the email or send us a communication using the contact information below.<o:p></o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><o:p>&nbsp;</o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><b>Our Disclosure
-    of Your Personal Data and Other Information</b><o:p></o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><o:p>&nbsp;</o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;">There are
-certain circumstances in which we may share your Personal Data with certain
-third parties without further notice to you, including as set forth below:<o:p></o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><o:p>&nbsp;</o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;">Business
-Transfers: As we develop our business, we might sell or buy businesses or
-assets. In the event of a sale, merger, reorganization, dissolution or similar
-event relating to all or a portion of our business, assets relating to the Service,
-including Personal Data, may be part of the transferred assets.<o:p></o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><o:p>&nbsp;</o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;">Service
-Providers, Agents and Related Third Parties: We may hire other companies to
-perform certain business-related functions. <span style="mso-spacerun:yes">&nbsp;</span>Examples include mailing information,
-maintaining databases and processing payments. If we employ another company to
-perform a function of this nature, we may need to provide them with access to
-certain Personal Data. <span style="mso-spacerun:yes">&nbsp;</span>In addition, our
-Service is provided to you in conjunction with your Lab Sponsor and their affiliates.
-Accordingly, we may share with your Lab Sponsor and their affiliates information including Personal
-Data so the Lab Sponsor can effectively manage and operate the corresponding
-Lab Service for your use.<o:p></o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><o:p>&nbsp;</o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;">Legal
-Requirements: We may also disclose your Personal Data if required to do so by
-law or in the good faith belief that such action is necessary to (<span class="SpellE">i</span>) comply with a legal obligation, (ii) protect and defend
-our rights or property, (iii) act in urgent circumstances to protect the
-personal safety of users of the Service or the public, or (iv) protect against
-legal liability.<o:p></o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><o:p>&nbsp;</o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><b>Your Choices</b><o:p></o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><o:p>&nbsp;</o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;">When you sign up
-for the Service, we ask you to provide Personal Data. <span style="mso-spacerun:yes">&nbsp;</span>If you do not wish to provide such Personal
-Data, you may not use the Service.<span style="mso-spacerun:yes">&nbsp; </span>If we
-want to use Personal Data in a manner different than the purpose for which it
-was collected, we will ask for your consent prior to doing so. <span style="mso-spacerun:yes">&nbsp;</span>If we propose to use Personal Data for any
-purposes other than those described in this Policy and/or in the specific
-notice provided through the Service, we <span class="GramE">will</span> offer you
-an effective way to opt out of our use of your Personal Data for those other
-purposes. <o:p></o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><o:p>&nbsp;</o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><b>Exclusions</b><o:p></o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><o:p>&nbsp;</o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;">This Privacy
-Policy shall not apply to any unsolicited information you provide to us through
-this Service or through any other means. This includes, but is not limited to,
-information posted to any public areas of the Service (collectively,
-"Public Areas"), any ideas for new products or modifications to
-existing services, and other unsolicited submissions (collectively,
-"Unsolicited Information"), including all Content as that term is
-defined in the Agreement. All such Unsolicited Information shall be deemed to
-be non-confidential and we shall be free to reproduce, use, disclose, and
-distribute such Unsolicited Information to others without limitation or
-attribution. Please also note that any Personal Data or other information you
-provide to be displayed in your publicly available online profile will be
-displayed for others to see and thus will not be subject to the terms of this
-Privacy Policy. We cannot and will not be responsible for what third parties do
-with any Personal Data or other information that you choose to make publicly
-available. As such, we advise that you exercise great care in determining what
-information you choose to make publicly available through the Service.<o:p></o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><o:p>&nbsp;</o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><b>Children</b><o:p></o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><o:p>&nbsp;</o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;">We do not
-knowingly collect Personal Data from children under the age of 13 and do not
-target the Service to children under 13. If you are under thirteen, please do
-not submit any Personal Data through the Service. We encourage parents and
-legal guardians to monitor their children's Internet usage and to help enforce
-our Privacy Policy by instructing their children to never provider Personal
-Data on the Service without their permission. If you have reason to believe
-that a child under the age of 13 has provided Personal Data to us through the
-Service, please contact us, and we will endeavor to delete that information
-from our databases.<o:p></o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><o:p>&nbsp;</o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><b>Links to Other
-    Websites</b><o:p></o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><o:p>&nbsp;</o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;">This Privacy
-Policy applies only to the Service. The Service may frame or contain references
-or links to other websites not operated or controlled by us (the "Third
-Party Sites"). The policies and procedures we describe here do not apply
-to the Third Party Sites. The links from the Service do not imply our review or
-endorsement of the Third Party Sites. We suggest contacting those sites
-directly for information on their privacy policies.<o:p></o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><o:p>&nbsp;</o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><b>Security</b><o:p></o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><o:p>&nbsp;</o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;">We take
-reasonable steps to protect the Personal Data provided via the Service from
-loss, misuse, and unauthorized access, disclosure, alteration, or destruction.
-These steps include internal reviews of our data collection, storage and
-processing practices and security measures, as well as physical security
-measures to guard against unauthorized access to systems where we store
-Personal Data. However, no Internet or e-mail transmission is ever fully secure
-or error free. In particular, e-mail sent to or from the Service may not be
-secure. Therefore, you should take special care in deciding what information
-you send to us via e-mail. Please keep this in mind when disclosing any
-Personal Data to us via the Internet.<o:p></o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><o:p>&nbsp;</o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><b>Data Integrity</b><o:p></o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><o:p>&nbsp;</o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;">We process
-Personal Data only for the purposes for which it was collected and in
-accordance with this Policy or any applicable service-specific privacy notice.
-We review our data collection, storage and processing practices to ensure that
-we only collect, store and process the Personal Data needed to provide or
-improve our Services. We take reasonable steps to ensure that the Personal Data
-we process is accurate, complete, and current, but we depend on our users to
-update or correct their Personal Data whenever necessary.<o:p></o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><o:p>&nbsp;</o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><b>Enforcement</b><o:p></o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><o:p>&nbsp;</o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;">We regularly
-review our compliance with this Privacy Policy. Please feel free to direct any
-questions or concerns regarding this policy or our treatment of Personal Data
-by contacting us through this web site or by writing to us using the contact
-details below.<span style="mso-spacerun:yes">&nbsp; </span>When we receive formal
-written complaints at this address, it is our policy to contact the complainant
-regarding his or her concerns. <o:p></o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><o:p>&nbsp;</o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><b>Changes to Our
-    Privacy Policy</b><o:p></o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><o:p>&nbsp;</o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;">The Service may
-change from time to time. As a result, at times it may be necessary for us to
-make changes to this Privacy Policy. Accordingly, we reserve the right to
-update or modify this Privacy Policy at any time and from time to time without
-prior notice. Please review this policy periodically, and especially before you
-provide any Personal Data. This Privacy Policy was last updated on the date
-indicated above. Your continued use of the Service after any changes or
-revisions to this Privacy Policy shall indicate your agreement with the terms
-of such revised Privacy Policy.<o:p></o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><o:p>&nbsp;</o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><b>Access to
-    Information</b><o:p></o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><o:p>&nbsp;</o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;">We strive to
-keep your Personal Data accurately recorded. Through the Service, we provide
-you with access to update your profile and revise Personal Data previously
-submitted to the Service. <o:p></o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><o:p>&nbsp;</o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><b>Contacting Us</b><o:p></o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;"><o:p>&nbsp;</o:p></span></p>
-
-<p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;">If you have any
-additional questions or concerns about this Privacy Policy or our information practices,
-please feel free to contact us at any time through this web site or at Privacy
-Matters, c/o Cloud vLab Inc, 37 Davis Road Carlisle, MA 01741 USA. <o:p></o:p></span></p>
+    <div class="layout-alerts">
+      
+    </div>
+    <div class="row">
+<div class="span4 offset2">
+<a href="#privacy-policy"><h1>Privacy Policy</h1>
+</a></div>
+<div class="span5">
+<a href="#safe-harbor-policy"><h1>Safe Harbor Privacy Policy</h1>
+</a></div>
+</div>
+<div id="privacy-policy">
+<div class="row" style="padding-top: 80px">
+<div class="span10 offset1" style="border: 2px solid black;padding:7px">
+<br>
+<h2 style="text-align:center">
+PRIVACY POLICY
+</h2>
+<p style="text-align:center">
+Last updated on September 1, 2015
+</p>
+<h4>
+OUR POLICY
+</h4>
+<p>
+This privacy policy (the “Privacy Policy”) governs qwikLABS Inc.’s (“qwikLABS,” "we", "us" and/or "our") use of certain information provided to us in connection with services provided to you under the qwikLABS Terms of Service (the “Agreement”).  All capitalized terms in this Privacy Policy shall have the meaning set forth in the Agreement, or the meaning set forth in this Privacy Policy if no definition is provided in the Agreement.  This Privacy Policy sets forth our policies with respect to information including personally identifiable data ("Personal Data") and other information that is collected from you when using or registering for the Service.
+</p>
+<p>
+BY CLICKING THE "I ACCEPT" BUTTON DISPLAYED AS PART OF THE REGISTRATION PROCESS OR BY USING THE SERVICE OR ANY PORTION THEREOF, YOU ACCEPT AND AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND THE AGREEMENT, INCLUDING ALL TERMS INCORPORATED HEREIN BY REFERENCE.
+</p>
+<h4>
+INFORMATION WE COLLECT
+</h4>
+<p>
+When you interact with us through the Service, we may collect Personal Data and other information from you, as further described below:
+</p>
+<p>
+Personal Data That You Provide Through the Service: We collect Personal Data from you when you voluntarily choose to provide such information such as when you contact us with inquiries, respond to one of our surveys, register for access to the Service or use certain features of the Service. Wherever we collect Personal Data we make an effort to provide a link to this Privacy Policy.  By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data to us through the Service, you acknowledge and agree that such Personal Data may be transferred from your current location to our offices and servers, or our affiliates and/or contractors located in the United States and other countries.
+</p>
+<h4>
+OTHER INFORMATION
+</h4>
+<p>
+Non-Identifiable Data: When you utilize the Service, we may receive certain personally non-identifiable information about your use of the Service. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. We may store such information ourselves or it may be included in databases owned and maintained by our affiliates, agents or service providers. We may use such information and pool it with other information to track, for example, the total number of visitors to the Service, the number of visitors to each page of the Service, and the domain names of our visitors' Internet service providers. It is important to note that no Personal Data is available or used in this process.
+</p>
+<p>
+Cookies: In operating the Service, we may use cookies. A cookie is a piece of information that the computer or computers that host our Service give to your browser when you access the Service. Our cookies help provide additional functionality to the Service and help us analyze usage of the Service more accurately.  For instance, our Service may set a cookie on your browser that keeps you from needing to remember and then enter a password more than once during a visit to the Service.  On most web browsers, you will find a "help" section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off.  We recommend that you leave cookies turned on because they allow you to take advantage of some features of the Service.
+</p>
+<p>
+Aggregated Personal Data: In an ongoing effort to better understand and serve the users of the Services, we may conduct research on our end user's demographics, interests and behavior based on the Personal Data and other information provided to us.  This research may be compiled and analyzed on an aggregate basis, and we may share this aggregated data with our affiliates, agents and business partners.  This aggregate information does not identify you personally.  We may also disclose aggregated user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes.
+</p>
+<h4>
+OUR USE OF YOUR PERSONAL DATA AND OTHER INFORMATION
+</h4>
+<p>
+We, along with your Lab Sponsor and their affiliates, will use the Personal Data you provide in a manner that is consistent with this Privacy Policy.  If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided.  For instance, if you contact us by e-mail, we will use the Personal Data you provide to answer your question or resolve your problem.  Also, if you provide Personal Data in order to obtain access to the Services, we will use your Personal Data to provide access to such services and to monitor your use of such services.  We may also use your Personal Data and other personally non-identifiable information collected through the Service to help us improve the content and functionality of the Service, to better understand our users and to improve the Service.  We may use this information to contact you in the future to tell you about services we believe will be of interest to you.
+</p>
+<p>
+We may communicate with you through email and notices posted via the Service.  These communications may include a series of welcome emails that help inform you about various features of the Service.  Please be aware that you may receive certain emails from us related to the proper functioning of your account.  We, along with your Lab Sponsor and their affiliates, may send you promotional information unless you have opted out of receiving such information.  If you wish to opt-out of receiving promotional emails, please click the "unsubscribe" link at the bottom of the email or send us a communication using the contact information below.
+</p>
+<h4>
+OUR DISCLOSURE OF YOUR PERSONAL DATA AND OTHER INFORMATION
+</h4>
+<p>
+There are certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, including as set forth below.  :
+</p>
+<p>
+Business Transfers: As we develop our business, we might sell or buy businesses or assets. In the event of a sale, merger, reorganization, dissolution or similar event relating to all or a portion of our business, assets relating to the Service, including Personal Data, may be part of the transferred assets.
+</p>
+<p>
+Service Providers, Agents and Related Third Parties: We may hire other companies to perform certain business-related functions.  Examples include mailing information, maintaining databases and processing payments. If we employ another company to perform a function of this nature, we may need to provide them with access to certain Personal Data.
+</p>
+<p>
+Lab Sponsors, Business Partners and Related Third Parties:  We may enter into agreements with business partners and other third parties to make the Services available to you.  For example, our Service may be provided to you in conjunction with a Lab Sponsor and/or its affiliates. Accordingly, we may share with such business partners and third parties, including any Lab Sponsor and/or affiliates, information including Personal Data so the business partner or other third party can effectively work with us to manage or operate the corresponding Service or otherwise make the Service available for your use.
+</p>
+<p>
+Legal Requirements: We may also disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend our rights or property, (iii) act in urgent circumstances to protect the personal safety of users of the Service or the public, or (iv) protect against legal liability.
+</p>
+<h4>
+YOUR CHOICES
+</h4>
+<p>
+When you sign up for the Service, we ask you to provide Personal Data.  If you do not wish to provide such Personal Data, you may not use the Service.  If we want to use Personal Data in a manner different than the purpose for which it was collected, we will ask for your consent prior to doing so.  If we propose to use Personal Data for any purposes other than those described in this Policy and/or in the specific notice provided through the Service, we will offer you an effective way to opt out of our use of your Personal Data for those other purposes.
+</p>
+<h4>
+EXCLUSIONS
+</h4>
+<p>
+This Privacy Policy shall not apply to any unsolicited information you provide to us through this Service or through any other means. This includes, but is not limited to, information posted to any public areas of the Service (collectively, "Public Areas"), any ideas for new products or modifications to existing services, and other unsolicited submissions (collectively, "Unsolicited Information"), including all Content as that term is defined in the Agreement. All such Unsolicited Information shall be deemed to be non-confidential and we shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution. Please also note that any Personal Data or other information you provide to be displayed in your publicly available online profile will be displayed for others to see and thus will not be subject to the terms of this Privacy Policy. We cannot and will not be responsible for what third parties do with any Personal Data or other information that you choose to make publicly available. As such, we advise that you exercise great care in determining what information you choose to make publicly available through the Service.
+</p>
+<h4>
+CHILDREN
+</h4>
+<p>
+We do not knowingly collect Personal Data from children under the age of 13 and do not target the Service to children under 13. If you are under thirteen, please do not submit any Personal Data through the Service. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce our Privacy Policy by instructing their children to never provider Personal Data on the Service without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to us through the Service, please contact us, and we will endeavor to delete that information from our databases.
+</p>
+<h4>
+LINKS TO OTHER WEBSITES
+</h4>
+<p>
+This Privacy Policy applies only to the Service. The Service may frame or contain references or links to other websites not operated or controlled by us (the "Third Party Sites"). The policies and procedures we describe here do not apply to the Third Party Sites. The links from the Service do not imply our review or endorsement of the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies.
+</p>
+<h4>
+SECURITY
+</h4>
+<p>
+We take reasonable steps to protect the Personal Data provided via the Service from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. These steps include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store Personal Data. However, no Internet or e-mail transmission is ever fully secure or error free. In particular, e-mail sent to or from the Service may not be secure. Therefore, you should take special care in deciding what information you send to us via e-mail. Please keep this in mind when disclosing any Personal Data to us via the Internet.
+</p>
+<h4></h4>
+DATA INTEGRITY
+<p>
+We process Personal Data only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the Personal Data needed to provide or improve our Services. We take reasonable steps to ensure that the Personal Data we process is accurate, complete, and current, but we depend on our users to update or correct their Personal Data whenever necessary.
+</p>
+<h4>
+ENFORCEMENT
+</h4>
+<p>
+We regularly review our compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this policy or our treatment of Personal Data by contacting us through this web site or by writing to us using the contact details below.  When we receive formal written complaints at this address, it is our policy to contact the complainant regarding his or her concerns.
+</p>
+<h4>
+CHANGES TO OUR PRIVACY POLICY
+</h4>
+<p>
+The Service may change from time to time. As a result, at times it may be necessary for us to make changes to this Privacy Policy. Accordingly, we reserve the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Service after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.
+</p>
+<h4>
+ACCESS TO INFORMATION
+</h4>
+<p>
+We strive to keep your Personal Data accurately recorded. Through the Service, we provide you with access to update your profile and revise Personal Data previously submitted to the Service.
+</p>
+<h4>
+CONTACTING US
+</h4>
+<p>
+If you have any additional questions or concerns about this Privacy Policy or our information practices, please feel free to contact us at any time through this web site or at Privacy Matters, c/o qwikLABS Inc., 37 Davis Road Carlisle, MA 01741 USA.
+</p>
+
+<br>
+</div>
+</div>
+</div>
+<div id="safe-harbor-policy">
+<div class="row" style="padding-top: 80px">
+<div class="span10 offset1" style="border: 2px solid black;padding:7px">
+<br>
+<h2 style="text-align:center">
+Safe Harbor Privacy Policy
+</h2>
+<p style="text-align:center">
+Last updated on September 1, 2015
+</p>
+<p>
+qwikLABS Inc. (“qwikLABS”) is committed to upholding the highest ethical standards in its business practices and strives to collect, use and disclose personal information in a manner consistent with the laws of the countries in which it does business. This Safe Harbor Privacy Policy sets forth the privacy principles that qwikLABS follows with respect to personal consumer information transferred from the European Economic Area (EEA) (which includes the twenty-eight member states of the European Union (EU) plus Iceland, Liechtenstein and Norway) and from Switzerland to the United States.
+</p>
+<p>
+qwikLABS complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  qwikLABS has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view qwikLABS’ certification, please visit <a href="http://www.export.gov/safeharbor/">www.export.gov/safeharbor</a>.
+</p>
+<h4>
+SAFE HARBOR
+</h4>
+<p>
+The United States Department of Commerce and the European Commission have agreed on a set of data protection principles (the "U.S.-EU Safe Harbor Principles") and frequently asked questions (collectively the “U.S.-EU Safe Harbor Framework”) to enable U.S. companies to satisfy the requirement under European Union law that adequate protection be given to personal information transferred from the EU to the United States. The EEA also has recognized the U.S. Safe Harbor as providing adequate data protection. The United States Department of Commerce and the Federal Data Protection and Information Commissioner of Switzerland have agreed on a similar set of data protection principles (the "U.S.-Swiss Safe Harbor Principles") and frequently asked questions (collectively the “U.S.-Swiss Safe Harbor Framework) to enable U.S. companies to satisfy the requirement under Swiss law that adequate protection be given to personal information transferred from Switzerland to the United States. Consistent with its commitment to protect personal privacy, qwikLABS adheres to the U.S.-EU and U.S.-Swiss Safe Harbor Principles (hereinafter “Safe Harbor Principles”).
+</p>
+<h4>
+SCOPE
+</h4>
+<p>
+This Safe Harbor Privacy Policy applies to all personal information received from consumers by qwikLABS in the United States from the European Economic Area and from Switzerland, in any format including electronic, paper or verbal.
+</p>
+<h4>
+DEFINITIONS
+</h4>
+<p>
+For purposes of this Safe Harbor Privacy Policy, the following definitions shall apply:
+</p>
+<p>
+"Agent" means any third party that collects or uses personal information under the instructions of, and solely for, qwikLABS or to which qwikLABS discloses personal information for use on qwikLABS’ behalf or in partnership with qwikLABS.  Examples of agents may include service providers and related third parties that qwikLABS may hire to perform certain business-related functions.  Other examples of agents may include lab sponsors, business partners and related third parties with which qwikLABS may enter into agreements to make its services available to users.
+</p>
+<p>
+"Personal information" means any information or set of information that identifies or is used by or on behalf of qwikLABS to identify an individual. Personal information does not include information that is encoded or anonymized, or publicly available information that has not been combined with non-public personal information.
+</p>
+<p>
+"Sensitive personal information" means personal information that reveals race, ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, or that concerns health or sex life. In addition, qwikLABS will treat as sensitive personal information any information received from a third party where that third party treats and identifies the information as sensitive.
+</p>
+<h4>
+PRIVACY PRINCIPLES
+</h4>
+<p>
+The privacy principles in this Safe Harbor Privacy Policy are based on the Safe Harbor Principles.
+</p>
+<p>
+<strong>
+NOTICE:
+</strong>
+Where qwikLABS collects personal information directly from individuals in the EEA, it will inform them about the purposes for which it collects and uses personal information about them and the choices and means, if any, qwikLABS offers individuals for limiting the use and disclosure of their personal information. Notice will be provided in clear and conspicuous language when individuals are first asked to provide personal information to qwikLABS, or as soon as practicable thereafter, and in any event before qwikLABS uses or discloses the information for a purpose other than that for which it was originally collected or discloses information to a non-agent third party.
+</p>
+<p>
+<strong>
+CHOICE:
+</strong>
+For personal information, qwikLABS will offer individuals the opportunity to choose (opt-in) whether their personal information is (a) to be disclosed to a non-agent third party, or (b) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual.
+</p>
+<p>
+For sensitive personal information, qwikLABS will give individuals the opportunity to affirmatively and explicitly (opt-in) consent to the disclosure of the information to a non-agent third party or the use of the information for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual.
+</p>
+<p>
+qwikLABS will provide individuals with reasonable mechanisms to exercise their choices.
+</p>
+<p>
+<strong>
+DATA INTEGRITY:
+</strong>
+qwikLABS will use personal information only in ways that are compatible with the purposes for which it was collected or subsequently authorized by the individual. qwikLABS will take reasonable steps to ensure that personal information is relevant to its intended use, accurate, complete, and current. We will only collect and store personal information that is relevant to fulfill the purpose of the request and will retain such information no longer than appropriate to fulfill the purpose of the request.
+</p>
+<p>
+<strong>
+TRANSFERS TO AGENTS:
+</strong>
+qwikLABS will obtain assurances from its agents that they will safeguard personal information consistently with this Safe Harbor Privacy Policy. Examples of appropriate assurances that may be provided by agents include: a contract obligating the agent to provide at least the same level of protection as is required by the relevant Safe Harbor Principles, being subject to EU Directive 95/46/EC (the EU Data Protection Directive), Safe Harbor certification by the agent, or being subject to another European Commission adequacy finding (e.g., companies located in Canada). Where qwikLABS has knowledge that an agent is using or disclosing personal information in a manner contrary to this Safe Harbor Privacy Policy, qwikLABS will take reasonable steps to prevent or stop the use or disclosure.
+</p>
+<p>
+<strong>
+ACCESS AND CORRECTION:
+</strong>
+Upon request, qwikLABS will grant individuals reasonable access to personal information that it holds about them. In addition, qwikLABS will take reasonable steps to permit individuals to correct, amend, or delete information that is demonstrated to be inaccurate or incomplete. These requests can be made by contacting qwikLABS by email at support@qwiklab.com.
+</p>
+<p>
+<strong>
+SECURITY:
+</strong>
+qwikLABS will take reasonable precautions to protect personal information in its possession from loss, misuse and unauthorized access, disclosure, alteration and destruction.
+</p>
+<p>
+<strong>
+ENFORCEMENT:
+</strong>
+qwikLABS will conduct compliance audits of its relevant privacy practices to verify adherence to this Safe Harbor Privacy Policy. Any employee that qwikLABS determines intentionally violates this policy will be subject to disciplinary action up to and including termination of employment.
+</p>
+<p>
+<strong>
+DISPUTE RESOLUTION:
+</strong>
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, qwikLABS commits to resolve complaints about your privacy and our collection or use of your personal information.  EU or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact qwikLABS at support@qwiklab.com.
+</p>
+<p>
+qwikLABS has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus.  If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <a href="www.bbb.org/us/safe-harbor-complaints">www.bbb.org/us/safe-harbor-complaints</a> for more information and to file a complaint.
+</p>
+<h4>
+LIMITATIONS ON APPLICATION OF PRINCIPLES
+</h4>
+<p>
+Adherence by qwikLABS to these Safe Harbor Principles may be limited (a) to the extent required or permitted by law or legal process, such as to respond to or investigate a legal or ethical obligation or request or pursuant to court orders, subpoenas, interrogatories or similar directive carrying the force of law; and (b) to the extent expressly permitted by an applicable law, rule or regulation.
+</p>
+<h4>
+PRIVACY POLICY
+</h4>
+<p>
+qwikLABS Privacy Policy, which can be found at <a href="http://qwiklab.com/privacy_policy">qwiklab.com/privacy_policy (the “Website Privacy Policy”)</a>, contains information regarding how qwikLABS collects and personal information and other information of consumers on our website. This Safe Harbor Privacy Policy is intended to provide additional information about our practices with respect to personal information that is transferred from the European Economic Area or Switzerland to the U.S.  In the event of any inconsistencies with the Website Privacy Policy and this Safe Harbor Privacy Policy with respect to such information, this Safe Harbor Privacy Policy shall govern.
+</p>
+<h4>
+CONTACT INFORMATION
+</h4>
+<p>
+Questions or comments regarding this Safe Harbor Privacy Policy should be submitted to qwikLABS by mail at 37 Davis Road Carlisle, MA 01741 USA.
+</p>
+<h4>
+CHANGES TO THIS SAFE HARBOR PRIVACY POLICY
+</h4>
+<p>
+This Safe Harbor Privacy Policy may be amended from time to time, with or without notice, consistent with the requirements of the Safe Harbor Principles. Please review this Safe Harbor Privacy Policy periodically, and especially before you provide any personal information. This Safe Harbor Privacy Policy was last updated on the date indicated above.
+</p>
 
 </div>
-
-
-
-
-
+</div>
+</div>
 
   </div>
   
+  
   <div class="container-fluid" style="padding-left:0; padding-right:0;">
-    <footer id="footer">
-<div class="navbar" style="margin-bottom:0px;">
-<div class="navbar-inner">
-<ul class="nav">
-<li>
-<a href="/about_us?locale=en">ABOUT</a>
-</li>
-<li class="navbar-text separator">
-|
-</li>
-<li>
-<a href="/partner_solutions?locale=en">PARTNER SOLUTIONS</a>
-</li>
-<li class="navbar-text separator">
-|
-</li>
-<li>
-<a href="/privacy_policy?locale=en">PRIVACY POLICY</a>
-</li>
-<li class="navbar-text separator">
-|
-</li>
-<li>
-<a href="/contact?locale=en">CONTACT</a>
-</li>
+    <footer class="container layout" id="footer">
+<div class="container-fluid">
+<div class="row-fluid">
+<div class="span2">
+<ul>
+<li><a href="/about_us?locale=en">About</a></li>
+<li><a href="http://blog.qwiklabs.com">Blog</a></li>
+<li><a href="/partner_solutions?locale=en">Partner Solutions</a></li>
+<li><a href="/privacy_policy?locale=en">Privacy Policy</a></li>
+<li><a href="/terms_of_service?locale=en">Terms Of Service</a></li>
 </ul>
-<ul class="nav pull-right">
-<p class="navbar-text">
-© CloudvLAB '12-'15 &nbsp;
-<strong><em>qwik</em>LABS<sup>®</sup>;&nbsp;</strong>
+</div>
+<div class="span2">
+<ul>
+<li><a href="/whats_a_lab?locale=en">What's A Qwiklab?</a></li>
+<li><a href="/lab_catalogue?locale=en">Lab Catalogue</a></li>
+<li><a href="/payments/pricing?locale=en">Pricing</a></li>
+<li><a href="/faq?locale=en">Faqs</a></li>
+<li><a href="/contact?locale=en">Contact</a></li>
+</ul>
+</div>
+<div class="span8">
+<ul class="pull-right" style="text-align: right;">
+<li>
+<a target="_blank" href="http://twitter.com/qwiklab"><img src="//d37nrxkwyxayeo.cloudfront.net/assets/twitter-372334aadf550279795761380e2087aea9696dd5d1e76901d0ac22350f571c2a.png" alt="Twitter 372334aadf550279795761380e2087aea9696dd5d1e76901d0ac22350f571c2a">
+</a><a target="_blank" href="http://www.facebook.com/pages/Qwiklab/135489796574605"><img src="//d37nrxkwyxayeo.cloudfront.net/assets/facebook-4bb5c4cd593b19266cddcaa70eb3a0ce7e3f6faec47c6d4720054243ec4e60d7.png" alt="Facebook 4bb5c4cd593b19266cddcaa70eb3a0ce7e3f6faec47c6d4720054243ec4e60d7">
+</a><a target="_blank" href="http://www.youtube.com/channel/UCq_sJ22hZ7h3FzBnYVB8E7Q"><img src="//d37nrxkwyxayeo.cloudfront.net/assets/youtube-a099b961e8ad3643d0b8cc0c6fc6ce0200ebe5f92791aa1b9787a8ca1e40e4d7.png" alt="Youtube a099b961e8ad3643d0b8cc0c6fc6ce0200ebe5f92791aa1b9787a8ca1e40e4d7">
+</a><a target="_blank" href="http://www.linkedin.com/company/cloud-vlab-inc-?trk=company_logo"><img src="//d37nrxkwyxayeo.cloudfront.net/assets/linkedin-f12eb4ff2a5a8c3cbc82a04b9ed70161a2af06eadb0c385fe77a50804841e308.png" alt="Linkedin f12eb4ff2a5a8c3cbc82a04b9ed70161a2af06eadb0c385fe77a50804841e308">
+</a></li>
+<li>
+© <em>qwik</em>LABS<sup>®</sup>&nbsp;'12-'16;&nbsp;
 a computer lab for <em>every</em>one
-&nbsp; &nbsp;
-v.tokaji(0314-0)
-&nbsp;
-</p>
+</li>
+<li>
+v.toscana(0507-0)
+</li>
 </ul>
+</div>
 </div>
 </div>
 </footer>
-<script src="//assets.zendesk.com/external/zenbox/v2.6/zenbox.js" type="text/javascript"></script>
-<script>
-  //<![CDATA[
-    if (typeof(Zenbox) !== "undefined") {
-      Zenbox.init({
-      dropboxID:   "20214448",
-      url:         "https://qwiklab.zendesk.com",
-      tabTooltip:  "Support",
-      tabImageURL: "/assets/tab_en_support_right.png",
-      tabColor:    "#555",
-      tabPosition: "Right",
-      requester_name: " ",
-      requester_email: " "
-      });
-    
-      if ("true" == "true") {
-        $('#zenbox_tab')[0].style.top = '32%';
-        $('#zenbox_tab img')[0].style.height = '96px';
-        $('#zenbox_tab img')[0].style.width = '42px';
-      }
-    }
-  //]]>
-</script>
+<div id="support">
+<a class="btn btn-primary" id="support_tab" href="#">Support</a>
+<div class="modal hide fade" id="support_modal">
+<iframe class="ie-cover" src=""></iframe>
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button class="close" data-dismiss="modal" type="button">×</button>
+<h3>How can we help you?</h3>
+</div>
+<div class="modal-body row-fluid span12 field-set">
+<form class="form-horizontal" action="/contact_support?locale=en" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="0jQxwuTUD19zBemgAemlqJI1tmxMk3WRYTiE9pE4GFM1FWS0965Z5lrcQNtNnaJFUiOdDHTsJk91i/mFCZHqXg==">
+<div class="control-group">
+<label class="required control-label" for="Question">Question</label>
+<input type="text" name="question" id="question" placeholder="Briefly describe your question">
+</div>
+<div class="control-group">
+<label class="required control-label" for="Details">Details</label>
+<textarea name="description" id="description" rows="5" placeholder="Fill in the details here. Please try to be as specific as possible.
+"></textarea>
+</div>
+<div class="control-group">
+<label class="required control-label" for="Your_Name">Your name</label>
+<input type="text" name="name" id="name" value="">
+</div>
+<div class="control-group">
+<label class="required control-label" for="Your_Email">Your email</label>
+<input type="text" name="email" id="email" value="">
+</div>
+<div class="control-group">
+<label class="required control-label" for="Severity">Severity</label>
+<select name="severity" id="severity"><option value="0">-</option>
+<option value="severity_1">Severity 1 (Highest)</option>
+<option value="severity_2">Severity 2</option>
+<option value="severity_3">Severity 3</option>
+<option value="severity_4">Severity 4</option>
+<option value="severity_5">Severity 5 (Lowest)</option></select>
+</div>
+<div class="control-group">
+<div class="control-label"></div>
+We will get back to you within 24 hours.
+</div>
+<div class="control-group">
+<div class="control-label"></div>
+<input type="submit" name="commit" value="Submit" class="btn btn-success">
+</div>
+</form>
 
+
+</div>
+</div>
+</div>
+</div>
+</div>
 <script>
-  //<![CDATA[
-    var ut_params = ut_params || [];ut_params.push("UT-348266764");//version:0.4
-    (function() {var ut = document.createElement('script'); ut.type = 'text/javascript'; ut.async = true;
-    ut.src = (("https:" == document.location.protocol) ? "https://" : "http://") + 'app.ubertags.com/javascripts/ubertags.js';
-    var script = document.getElementsByTagName('script')[0]; script.parentNode.insertBefore(ut, script);})();
-  //]]>
+  var ut_params = ut_params || [];ut_params.push("UT-348266764");//version:0.4
+  (function() {var ut = document.createElement('script'); ut.type = 'text/javascript'; ut.async = true;
+  ut.src = (("https:" == document.location.protocol) ? "https://" : "http://") + 'app.ubertags.com/javascripts/ubertags.js';
+  var script = document.getElementsByTagName('script')[0]; script.parentNode.insertBefore(ut, script);})();
 </script>
 
   </div>
 
 
-<script src="https://js-agent.newrelic.com/nr-593.min.js"></script></body></html>
+</body></html>
