@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the uberphones.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617195131id_/http%3A//www.uberphones.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uberphones.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507053641id_/http%3A//www.uberphones.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Uberphones
-
-CLEAN!
 
 **Uberphones.com Privacy Statement**
 
