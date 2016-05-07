@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findprices.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210205034id_/http%3A//www.findprices.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findprices.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507220234id_/http%3A//www.findprices.com/privacy) for the most accurate reproduction.*
 
 # Findprices.com Privacy » Findprices.com
 
