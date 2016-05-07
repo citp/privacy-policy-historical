@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the admarketplace.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230133901id_/https%3A//www.admarketplace.com/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admarketplace.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507130620id_/https%3A//www.admarketplace.com/privacy-statement.php) for the most accurate reproduction.*
 
 # adMarketplace | Leading Search Advertising Marketplace
 
