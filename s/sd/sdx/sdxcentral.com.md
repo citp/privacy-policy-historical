@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sdxcentral.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926211150id_/https%3A//www.sdxcentral.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sdxcentral.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507022921id_/https%3A//www.sdxcentral.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
