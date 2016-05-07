@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saksoff5th.com privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106131901id_/http%3A//www.saksoff5th.com/privacy-policy/privacy-policy.html%3Fchannel%3Ddesktop) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saksoff5th.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507174509id_/http%3A//www.saksoff5th.com/privacy-policy/privacy-policy.html%3Fchannel%3Ddesktop) for the most accurate reproduction.*
 
 # SaksOff5th Privacy Policy
 
