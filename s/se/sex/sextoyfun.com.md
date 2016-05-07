@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sextoyfun.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921212349id_/http%3A//www.sextoy.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sextoyfun.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507101541id_/http%3A//www.sextoy.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # SexToy.com - Privacy Policy
 
