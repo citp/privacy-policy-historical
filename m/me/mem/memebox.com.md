@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memebox.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919193916id_/https%3A//us.memebox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memebox.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507204137id_/https%3A//us.memebox.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -51,3 +51,5 @@ Memebox cares about the information you share with us, and we are committed to p
   * If you have any questions about this privacy policy or complaints regarding personal information, you can email our customer service team at: hi@memebox.com
 
 
+
+Pre-order item. Ships once available.
