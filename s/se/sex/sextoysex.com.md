@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sextoysex.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226212938id_/http%3A//www.sextoyfun.com/infopage.php%3Fpage%3Dprivacy%26a%3Dsextoyfun) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sextoysex.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507101541id_/http%3A//www.sextoy.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# The Worlds Largest Adult Products Store
+# SexToy.com - Privacy Policy
 
 ### WE SHARE YOUR CONCERNS ABOUT SAFEGUARDING PERSONAL INFORMATION
 
-CNV.Com, Inc. is the owner of checkout.CNV.com and facilitates the operation of the shopping website on www.sextoyfun.com (referred to later as the "Site," "we," "us"). We fully understand the need to protect your personal information while online and we have developed this policy as a means to provide you with the utmost privacy possible. This Privacy Policy (referred to later as "Policy") describes our practices regarding the collection and use of information throughout out the Site. By using the Site or obtaining any product or service through this Site, you agree the limited collection and use of information as outlined in this Policy. If you do not agree to this Policy, please do not use the Site.
+CNV.Com, Inc. is the owner of checkout.CNV.com and facilitates the operation of the shopping website on www.sextoy.com (referred to later as the "Site," "we," "us"). We fully understand the need to protect your personal information while online and we have developed this policy as a means to provide you with the utmost privacy possible. This Privacy Policy (referred to later as "Policy") describes our practices regarding the collection and use of information throughout out the Site. By using the Site or obtaining any product or service through this Site, you agree the limited collection and use of information as outlined in this Policy. If you do not agree to this Policy, please do not use the Site.
 
 We may from time to time update this Policy to reflect changing technology and other factors. We will notify you of changes to the Policy by posting the updated Policy on this page. We ask that you bookmark and periodically review this page to ensure that you remain familiar with the most current version of the Policy. You can determine when this Policy was last revised by checking the "Effective Date of Current Policy" legend at the top of the Policy.
 
@@ -48,7 +48,7 @@ The Site seeks to use reasonable security measures to help protect against the l
 
 If you have signed up for an account with the Site, you may update your mailing address, email address, name changes or telephone number by clicking "my account" located at the top of the page. This takes you to a page with your account information and preferences. Please take the time to make sure your information is accurate for timely delivery as well as keeping your mailing preferences updated.
 
-If you have any questions about this Policy, the data collection and usage practices of this Site, or your dealings with this Site, or if you wish to report a violation of this Policy, you can [contact us.](https://web.archive.org/infopage.php?a=sextoyfun&page=support)
+If you have any questions about this Policy, the data collection and usage practices of this Site, or your dealings with this Site, or if you wish to report a violation of this Policy, you can [contact us.](https://web.archive.org/infopage.php?page=support)
 
 #### Email Preferences
 
