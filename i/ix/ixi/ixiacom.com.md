@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ixiacom.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211113513id_/https%3A//ixiacom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ixiacom.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507081715id_/http%3A//ixiacom.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Ixia
 
 Ixia  
 Address:  
@@ -23,7 +23,7 @@ One of the primary purposes of cookies is to provide a convenience feature to sa
 
 You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of this or other websites you visit.
 
-If you provide us with your email address, postal address or telephone number, you may receive periodic emails, postal mailings or telephone contact from us with information on new products and services or upcoming events. If you do not wish to receive such correspondence or contact, please let us know by using the unsubscribe link in an any email that you receive from us, or click [here](http://info.ixiacom.com/UnsubscribePage.html "Unsubscribe") and enter the necessary information. Our system will then automatically unsubscribe you from all future unsolicited communications.
+If you provide us with your email address, postal address or telephone number, you may receive periodic emails, postal mailings or telephone contact from us with information on new products and services or upcoming events. If you do not wish to receive such correspondence or contact, please let us know by using the unsubscribe link in an any email that you receive from us and enter the necessary information. Our system will then automatically unsubscribe you from all future unsolicited communications.
 
 ### With respect to Ad Servers:
 
