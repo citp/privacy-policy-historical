@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1800contacts.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023080033id_/http%3A//www.1800contacts.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800contacts.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507220029id_/http%3A//www.1800contacts.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | 1-800 CONTACTS
 
@@ -84,6 +84,7 @@ Yep. Great job! You made it to the end! Unless you have any questions…
 
 **If you do have any questions about our Privacy Policy, please contact us via:**
 
-Email: [info@1800contacts.com](mailto:info@1800contacts.com).  
-Phone (toll-free): 1-800 CONTACTS (1-800-266-8228)   
-51 West Center St Orem, UT 84057 
+Email: [privacyofficer@1800contacts.com](mailto:privacyofficer@1800contacts.com).  
+Phone: 801-316-5508  
+261 Data Dr  
+Draper, UT 84020
