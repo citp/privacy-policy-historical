@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hibu.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905061724id_/https%3A//hibu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hibu.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507051706id_/https%3A//hibu.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This global privacy policy (the **"Privacy Policy"** ) describes our practices in connection with the personal data that you provide to any company in our Group (a **"Group Company"** ) or allow a Group Company to access through: (i) a website which is operated (as indicated in its conditions of use) by a Group Company (the **"Website"** ); and/or (ii) any other means, such as during a telephone call or by email - which includes whilst contracting with us for, or using, our goods and/or services, etc (the **"Personal Data"** ). An updated list of our Group Companies is available [here](http://corporate.hibu.com/en/about-us/trading-entities).
+This global privacy policy (the **"Privacy Policy"** ) describes our practices in connection with the personal data that you provide to any company in our Group (a **"Group Company"** ) or allow a Group Company to access through: (i) a website which is operated (as indicated in its conditions of use) by a Group Company (the **"Website"** ); and/or (ii) any other means, such as during a telephone call or by email - which includes whilst contracting with us for, or using, our goods and/or services, etc (the **"Personal Data"** ). An updated list of our Group Companies is available [here](http://hibucorporate.com/).
 
 Our products and service may have particular privacy terms and conditions attaching to them, which will prevail in the event of any discrepancy with this Privacy Policy (the **"Particular Privacy Terms"** ). Any Particular Privacy Terms applicable to a product or service you wish to purchase or use will be highlighted to you at the time you request such product or service.
 
@@ -29,7 +29,7 @@ The data controller ( **"us", "we",** and **"our"** ) will be:
 
 All terms and conditions of our products and service (unless expressly provided for therein), including this Privacy Policy, may be assigned to any third party.
 
-Note: The Group companies include, among others, the US company hibu Inc. hibu Inc. in the US complies with the US-EU Safe Harbor Framework and has certified that it adheres to EU/U.S. Safe Harbor Principles (notice, choice, onward transfer, security, data integrity, access and enforcement) with respect to Personal Data transferred from the European Union by Yellowbook Inc.'s clients, customers and affiliates. More information about the Safe Harbor program can be found at <http://export.gov/safeharbor>
+Note: The Group companies include, among others, the US company hibu Inc. hibu Inc. in the US complies with the US-EU Safe Harbor Framework and has certified that it adheres to EU/U.S. Safe Harbor Principles (notice, choice, onward transfer, security, data integrity, access and enforcement) with respect to Personal Data transferred from the European Union by Yellowbook Inc.'s clients, customers and affiliates. More information about the Safe Harbor program can be found at [http://export.gov/safeharbor](http://export.gov/safeharbor/)
 
 * ## How is your Personal Data collected?
 
