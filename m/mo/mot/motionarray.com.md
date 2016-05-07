@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the motionarray.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315164808id_/https%3A//motionarray.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motionarray.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507084253id_/https%3A//motionarray.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Motion Array
 
-As of October 4th, 2011
+As of February 16, 2015
 
-Motion Array’s Privacy Policy is designed to help users of Motion Array’s web site understand how Motion Array collects and uses the personal information users decide to share and to help users make informed decisions when using the Motion Array web site (the "Site").
+Motion Array's Privacy Policy is designed to help users of Motion Array's web site understand how Motion Array collects and uses the personal information users decide to share and to help users make informed decisions when using the Motion Array web site (the "Site").
 
 By using or accessing the Site, you are accepting Motion Array's practices described in this Privacy Policy.
 
