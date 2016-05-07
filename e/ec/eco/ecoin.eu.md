@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ecoin.eu privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509001613id_/http%3A//www.ecoin.eu/en/site/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecoin.eu privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507183235id_/http%3A//www.ecoin.eu/en/site/privacyPolicy) for the most accurate reproduction.*
 
-# eCoin 243.185 BTC/USD: PrivacyPolicy Site
+# eCoin 454.362 BTC/USD: PrivacyPolicy Site
 
 This Privacy Policy governs the manner in which Wallet Capital Group Inc. collects, uses, maintains and discloses information collected from users (each, a "User") of the www.ecoin.eu website ("Site"). This privacy policy applies to the Site and all products and services offered by Wallet Capital Group Inc.. 
 
@@ -75,6 +75,6 @@ El Dorado, Panama, Central America
 
 With Financial License Number: 2543590-1-825330-2014-416047 
 
-info@ecoin.eu
+info@ecoin.eu 
 
 This document was last updated on May 11, 2014 
