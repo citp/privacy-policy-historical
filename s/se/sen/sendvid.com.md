@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendvid.com privacy policy that was archived on 2015-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150713132524id_/http%3A//support.sendvid.com/customer/portal/articles/1743599-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendvid.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507161945id_/http%3A//support.sendvid.com/customer/portal/articles/1743599-privacy-policy) for the most accurate reproduction.*
 
 # Sendvid | Privacy Policy
 
