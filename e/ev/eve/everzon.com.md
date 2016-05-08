@@ -1,81 +1,96 @@
-> *The following text is extracted and transformed from the everzon.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405011559id_/http%3A//www.veripal.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everzon.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509004331id_/https%3A//www.everzon.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# VeriPal - Privacy Policy
+# Privacy Policy
 
-## Privacy Statement
+Privacy Policy
 
-  
-VeriPal.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: VeriPal.com.
+Everzon Co., Limited ("we", ''us'', ''our'') are committed to protecting and respecting your privacy.
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information.
+This summary, together with our full privacy policy and terms of use (which can be found at http://www.everzon.com/termsandconditions) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-Our site uses cookies to keep track of your shopping cart and to make sure you don't see the same ad repeatedly. We use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes.
+## What we collect
 
-Our site's registration form requires users to give us contact information (like their name and email address), unique identifiers (like their social security number), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, or income level). We use customer contact information from the registration form to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary and shared with other companies who may want to contact our visitors. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to check the users' qualifications for registration, to bill the user for products and services, and for other purposes. Unique identifiers (such as social security numbers) are collected to verify the user's identity, for use as account numbers in our record system, and for other purposes. Demographic and profile data is also collected at our site. We use this data for other purposes. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. ** MAKE SURE that you explain the other data that you mentioned you collect here. **
+We may collect the following information:
 
-This site contains links to other sites. **VeriPal.com** is not responsible for the privacy practices or the content of such Web sites.
+  * name
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
-(*Since you indicated that there are special relationships, such as "Powered by" partners, business partners, cobranded sites, then these relationships must be addressed in your privacy statement. These relationships need to be clearly defined and it must be clear who is receiving the information collected by the site and who has access to this information. It must be clear what type of information is shared. Is only select information shared? Is the sharing of information limited to only aggregate information?)
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address), unique identifiers (like their social security number), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, or income level). Contact information from the order form is used to send orders, information about our company, and promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the visitor when necessary and shared with other companies who may want to contact our visitors. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to check the users' qualifications and bill the user for products and services. Unique identifiers (such as social security numbers) are collected from Web site visitors to verify the user's identity and for use as account numbers in our record system. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. ** MAKE SURE that you explain the other data that you mentioned you collect here. **
 
-Our online surveys ask visitors for contact information (like their email address). We use contact data from our surveys to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary and shared with other companies who may want to contact our visitors. Users may opt-out of receiving future mailings; see the choice/opt-out section below. ** MAKE SURE that you explain the other data that you mentioned you collect here. **
+For the exhaustive list of cookies we collect see the List of cookies we collect section.
 
-We run contests on our site in which we ask visitors for contact information (like their email address) and unique identifiers (like their social security number). We use contact data from our contests to send users information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary and shared with other companies who may want to contact our visitors. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Unique identifiers (like social security numbers) are collected from Web site visitors to verify the user's identity and for use as account numbers in our record system. ** MAKE SURE that you explain the other data that you mentioned you collect here. **
+## What we do with the information we gather
 
-** DON'T FORGET to include a description of the other services that you have that collect information here.
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. Some customer data is shared with the advertising companies.
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
-## Public Forums
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
 ## Security
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. (*Please elaborate on the security measures that you have in place.)
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-## Supplementation Information
+## How we use cookies
 
-This site supplements the information that you provide with information that is received from third parties.
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-## Children's Guidelines
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-According to the answers that you have chosen, your Web site meets the guidelines of TRUSTe's Children's program.
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-  1. NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent
-  2. NOT collect personally identifiable offline contact information without prior parental consent
-  3. NOT distribute to third parties any personally identifiable information with out prior parental consent
-  4. NOT give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent
-  5. NOT entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity
+## Links to other websites
 
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
+## Controlling your personal information
 
-## Choice/Opt-Out
+You may choose to restrict the collection or use of your personal information in the following ways:
 
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
-
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
-
-  1. You can send email to [contact@veripal.com](mailto:contact@veripal.com)
-  2. You can visit the following URL: [http://www.veripal.com](http://www.veripal.com/)
-  3. You can CustomerCare@chinarex.com
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at support@everzon.com
 
 
 
-## Correct/Update
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-This site gives users the following options for changing and modifying information previously provided. 
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to .
 
-  1. email [support@veripal.com](mailto:support@veripal.com)
-  2. visit <http://www.veripal.net/support/>
-  3. You can support@chinarex.com
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
+## List of cookies we collect
 
+The table below lists the cookies we collect and what information they store.
 
-## Contacting the Web Site
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact  Privacy Policy VeriPal.com 617 Wells Street San Gabriel, CA 91776 contact@veripal.com
-
-[ [Return to community site](http://www.veripal.com/) ]  
-
+COOKIE name| COOKIE Description  
+---|---  
+CART| The association with your shopping cart.  
+CATEGORY_INFO| Stores the category info on the page, that allows to display pages more quickly.  
+COMPARE| The items that you have in the Compare Products list.  
+CURRENCY| Your preferred currency  
+CUSTOMER| An encrypted version of your customer id with the store.  
+CUSTOMER_AUTH| An indicator if you are currently logged into the store.  
+CUSTOMER_INFO| An encrypted version of the customer group you belong to.  
+CUSTOMER_SEGMENT_IDS| Stores the Customer Segment ID  
+EXTERNAL_NO_CACHE| A flag, which indicates whether caching is disabled or not.  
+FRONTEND| You sesssion ID on the server.  
+GUEST-VIEW| Allows guests to edit their orders.  
+LAST_CATEGORY| The last category you visited.  
+LAST_PRODUCT| The most recent product you have viewed.  
+NEWMESSAGE| Indicates whether a new message has been received.  
+NO_CACHE| Indicates whether it is allowed to use cache.  
+PERSISTENT_SHOPPING_CART| A link to information about your cart and viewing history if you have asked the site.  
+POLL| The ID of any polls you have recently voted in.  
+POLLN| Information on what polls you have voted on.  
+RECENTLYCOMPARED| The items that you have recently compared.  
+STF| Information on products you have emailed to friends.  
+STORE| The store view or language you have selected.  
+USER_ALLOWED_SAVE_COOKIE| Indicates whether a customer allowed to use cookies.  
+VIEWED_PRODUCT_IDS| The products that you have recently viewed.  
+WISHLIST| An encrypted list of products added to your Wishlist.  
+WISHLIST_CNT| The number of items in your Wishlist.
