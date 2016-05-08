@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jonworth.eu privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926112955id_/https%3A//jonworth.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jonworth.eu privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508182713id_/https%3A//jonworth.eu/privacy) for the most accurate reproduction.*
 
-# Privacy & Cookies | Jon Worth
+# Privacy & Cookies – Jon Worth
 
 I am strongly committed to protecting the privacy of users of this website, and do all that I can to protect user information.
 
