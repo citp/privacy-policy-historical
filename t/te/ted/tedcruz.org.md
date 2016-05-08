@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tedcruz.org privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231171424id_/https%3A//www.tedcruz.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tedcruz.org privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508080301id_/https%3A//www.tedcruz.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cruz for President
 
@@ -70,3 +70,5 @@ We do not allow persons under 13 to register for any service, and we do not know
 
 
 If you’re outside the United States, your information will be sent to and stored in the United States, where our servers are located. By using our website and/or Cruz Crew, you agree to the information collection, use, and sharing practices described in this Privacy Policy.
+
+### Log in with your credentials
