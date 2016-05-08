@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the bringatrailer.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229235358id_/http%3A//bringatrailer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bringatrailer.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508043346id_/http%3A//bringatrailer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bring a Trailer
 
 **Bring A Trailer Privacy Policy**
 
-Effective Date: July 24, 2014
+_Effective Date:  April 21, 2016_
 
 **Introduction**
 
-Bring a Trailer Media LLC dba BaT Media (“BaT Media,” “we,” “our,” or “us”) respects the privacy of visitors to our website. We created the following Privacy Policy to let you know what information we collect when you visit our website (“Site”) or use other online services (collectively, the “Service”), why we collect it and how it is used and disclosed. This Privacy Policy applies only to information collected online and does not apply to information we collect by other means (including offline) or from sources other than through the Service. This Privacy Policy is governed by our Terms and Conditions. By accessing or using the Service, you consent to the data practices described in this Privacy Policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+Bring a Trailer Media LLC dba BaT Media (“BaTMedia,” “we,” “our,” or “us”) respects the privacy of visitors to our website. We created the following Privacy Policy to let you know what information we collect when you visit our website (“Site”) or use other online services (collectively, the “Service”), why we collect it and how it is used and disclosed. This Privacy Policy applies only to information collected online and does not apply to information we collect by other means (including offline) or from sources other than through the Service. This Privacy Policy is governed by our Terms and Conditions. By accessing or using the Service, you consent to the data practices described in this Privacy Policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Information We Collect**
 
@@ -95,6 +95,8 @@ All information collected on the Service, including Personally Identifiable Info
 **Children**
 
 This Site is not intended for or directed to persons under the age of 19. Any person who provides their information to BaTMedia through the Account login page for new customers or any other part of the BaTMedia Service represents to BaTMedia that he/she is 19 years of age or older.
+
+Further, BaTMedia does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as users. The Service and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at mail@bringatrailer.com.
 
 **Testimonials**
 
