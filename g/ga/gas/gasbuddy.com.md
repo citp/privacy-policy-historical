@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the gasbuddy.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905080054id_/http%3A//www.gasbuddy.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gasbuddy.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508061023id_/http%3A//www.gasbuddy.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GasBuddy.com
 
-### GasBuddy Privacy Policy
-
 Effective Date: August 31, 2015 
 
-Your privacy is important to GasBuddy/OpenStore, LLC (“GasBuddy”, “we”, or “us”) and we are committed to protecting the privacy of your information. This Privacy Policy describes how we collect, use, store, share and protect your information in connection with the GasBuddy website located at www.GasBuddy.com as well as other localized GasBuddy websites, including DenverGasPrices.com, ToledoGasPrices.com or MichiganGasPrices.com (the “Sites”), and the services and tools (including, but not limited to, mobile applications and other software applications) related to the Sites (collectively, the “Service”). This Privacy Policy applies when you access, visit or use the Service. This Privacy Policy is part of, and is governed by, the terms and conditions set forth in the GasBuddy Terms of Service located at <http://www.gasbuddy.com/Disclaimer>
+Your privacy is important to GasBuddy/OpenStore, LLC (“GasBuddy”, “we”, or “us”) and we are committed to protecting the privacy of your information. This Privacy Policy describes how we collect, use, store, share and protect your information in connection with the GasBuddy website located at www.GasBuddy.com as well as other localized GasBuddy websites, including DenverGasPrices.com, ToledoGasPrices.com or MichiganGasPrices.com (the “Sites”), and the services and tools (including, but not limited to, mobile applications and other software applications) related to the Sites (collectively, the “Service”). This Privacy Policy applies when you access, visit or use the Service. This Privacy Policy is part of, and is governed by, the terms and conditions set forth in the GasBuddy Terms of Service located at [http://www.gasbuddy.com/Disclaimer](http://www.gasbuddy.com/Disclaimer?mwo=1)
 
 By creating a GasBuddy account, or by otherwise accessing, visiting or using the Service, you expressly consent to our collection, use, disclosure and retention of your information as described in this Privacy Policy and in the GasBuddy Terms of Service. 
 
