@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agorafinancial.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217023015id_/http%3A//agorafinancial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agorafinancial.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509002906id_/http%3A//agorafinancial.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy - Agora Financial
 
@@ -16,7 +16,7 @@ If you believe that _Agora Financial_ has sent you unsolicited commercial e-mail
 
 **Personal Information**
 
-We will never ask you for personal information — your credit card number, for example — except when you place an order. At that time, we will provide a secure (SSL, encrypted) connection and require you to submit only the information needed to complete and fulfill your order. Only authorized employees of Agora Inc. (our parent company) will have access to this information. Agora will not sell or rent this information  to any company outside of our parent company of Agora, Inc. However, Agora will share information if required by law or regulations, or to respond to a subpoena, search warrant or other lawful request for information received by us. Please note that “personal information” does not include your mailing address. See “Mailing Address,” below.
+We will never ask you for personal information — your credit card number, for example — except when you place an order. At that time, we will provide a secure (SSL, encrypted) connection and require you to submit only the information needed to complete and fulfill your order. Agora will not sell or rent this information  to any company outside of our parent company of Agora, Inc. However, Agora will share information if required by law or regulations, or to respond to a subpoena, search warrant or other lawful request for information received by us. Please note that “personal information” does not include your mailing address. See “Mailing Address,” below.
 
 **Mailing Address**
 
