@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the compasscard.ca privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813002915id_/https%3A//www.compasscard.ca/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compasscard.ca privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508143945id_/https%3A//compasscard.ca/Privacy) for the most accurate reproduction.*
 
 # Compass - Privacy Policy
 
-## Privacy Statement for TransLinks’s Compass Card and Fare Gate Project
+## Privacy Statement for TransLink’s Compass Card and Fare Gate Project
 
 TransLink is committed to protecting personal information.   Any personal information you provide to TransLink is collected, used and disclosed in accordance with the [Freedom of Information and Protection of Privacy Act](http://www.bclaws.ca/EPLibraries/bclaws_new/document/ID/freeside/96165_00 "Freedom of Information and Protection of Privacy Act") (FOIPPA) and other applicable laws.  In the province of British Columbia, FOIPPA establishes the privacy obligations and standards with which  public bodies must comply, regarding the management of personal information.  FOIPPA sets out the terms under which a public body can collect, use and disclose personal information, and requires that reasonable steps be taken to protect the information they hold.  FOIPPA defines personal information as recorded information about an identifiable individual other than contact information.
 
