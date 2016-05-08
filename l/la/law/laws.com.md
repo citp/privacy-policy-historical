@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laws.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227063914id_/http%3A//www.laws.com/category/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laws.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508204232id_/http%3A//www.laws.com/category/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Attorney and Law Firm Information and Directory. Find Legal Information, Laws and local Attorneys.
 
