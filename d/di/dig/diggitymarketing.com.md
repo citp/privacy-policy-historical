@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the diggitymarketing.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813215100id_/http%3A//diggitymarketing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diggitymarketing.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509013943id_/http%3A//diggitymarketing.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Diggity Marketing
-
-### Privacy Policy:
+# Privacy Policy
 
 http://diggitymarketing.com/ (" **http://diggitymarketing.com/** ") operates http://diggitymarketing.com/ and may operate other websites. It is http://diggitymarketing.com/ policy to respect your privacy regarding any information we may collect while operating our websites.
 
