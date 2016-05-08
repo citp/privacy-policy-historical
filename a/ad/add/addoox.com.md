@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addoox.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222081628id_/http%3A//www.addoox.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addoox.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508090957id_/http%3A//www.addoox.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Addoox.com - Privacy and Data Use Policy for ADDOOX
 
