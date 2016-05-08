@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the easytweaks.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107012201id_/http%3A//www.easytweaks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easytweaks.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508112434id_/http%3A//www.easytweaks.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | EasyTweaks.com | EasyTweaks.com
 
 Since launching Easy Tweaks, i recognized that individuals who visit my website value their privacy. However, due to the collaborative and social nature of the blogsphere, i do collect some private information when you interact with this web site. This privacy statement is aimed to explains what personal information i collect and use this information.
 
