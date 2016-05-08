@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tophat.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905193428id_/https%3A//tophat.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tophat.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508204907id_/https%3A//tophat.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Top Hat
 
-Last updated: May 21, 2015
+Last updated: September 25, 2015
 
 Tophatmonocle Corp. and its divisions, affiliates and subsidiaries (hereinafter “THM”) respects the privacy and the integrity of any information that you provide in the use of our Web sites and System. This Privacy Policy explains our policy regarding the collection, use and disclosure of your personal information.
 
@@ -35,23 +35,17 @@ In addition, to place an order for services, THM will require that you provide p
 
 You acknowledge that THM may use personal information that you voluntarily disclose to us to:
 
-1\. Provide you with information about new products, services, newsletters, informative e-mails, and research on future product ideas or improvements;
+  1. Provide you with information about new products, services, newsletters, informative e-mails, and research on future product ideas or improvements;
+  2. Assist us in creating or providing content that is relevant to you;
+  3. Provide you with special offers that may be of interest to you and to improve your experience on our Web sites or with our System;
+  4. Assist us in creating better products and services to meet your needs;
+  5. Allow you to purchase and download products, obtain access to the System or otherwise engage in activities you select;
+  6. Provide you with technical support;
+  7. Help you quickly find software, services or product information important to you;
+  8. Send transaction-related communications such as welcome letters, and product/service order confirmations. THM may also send you surveys or marketing communications to inform you of new products or services or other information that may be of interest; and
+  9. Restrict the availability of some of the products, services and content to certain parts of the world, where required for legal reasons, by using your address, IP address and other information in order to enforce those restrictions.
 
-2\. Assist us in creating or providing content that is relevant to you;
 
-3\. Provide you with special offers that may be of interest to you and to improve your experience on our Web sites or with our System;
-
-4\. Assist us in creating better products and services to meet your needs;
-
-5\. Allow you to purchase and download products, obtain access to the System or otherwise engage in activities you select;
-
-6\. Provide you with technical support;
-
-7\. Help you quickly find software, services or product information important to you;
-
-8\. Send transaction-related communications such as welcome letters, and product/service order confirmations. THM may also send you surveys or marketing communications to inform you of new products or services or other information that may be of interest; and
-
-9\. Restrict the availability of some of the products, services and content to certain parts of the world, where required for legal reasons, by using your address, IP address and other information in order to enforce those restrictions.
 
 You may always choose not to provide personal information, but if you so choose, our products and System may not be available to you. You agree that you are under no obligation to provide us with this information and can access many aspects of our Web sites without providing us any personal information.
 
@@ -61,15 +55,13 @@ While using the System and Web site, you may have opportunities to post reviews 
 
 Except as otherwise disclosed to you, THM will not sell or rent your personal information to any other party and will only use and disclose your personal information for the purposes for which it was collected as described in this Privacy Policy. However, you agree that THM may disclose your personal information in the circumstances set out below:
 
-1\. THM may disclose your personal information with your prior consent;
+  * THM may disclose your personal information with your prior consent;
+  * THM may be required by law to disclose personal information without your consent in the event of emergency situations or when required by government or other legal authority;
+  * THM may also disclose Account Information to the administration of any institution (at which you are a professor/instructor) for administrative purposes including the right for the institution to compile a list of instructors who use the Services and contact such instructors in order to obtain references to evaluate an implementation of the Services.
+  * THM may also disclose personal information to third parties in connection with a corporate re-organization, merger or amalgamation, or the sale of all or substantially all of our assets, provided that, where appropriate, any party to whom the information is disclosed is bound by agreements or obligations, and required to use or disclose your personal information in a manner consistent with the use and disclosure provisions of this Privacy Policy, unless you consent otherwise; or
+  * THM may share your personal information with service providers who perform services on our behalf. For example, we may hire other companies to handle the processing of payments, collect debts, to provide data storage, to host websites, to fulfill orders, to assist in direct marketing, to conduct audits, etc. Those companies will be permitted to obtain only the personal information they need only as necessary to provide services to us. Each company is bound by agreement or obligations with THM to implement and maintain reasonable security procedures and practices in order to use and disclose your personal information in a manner consistent with the use and disclosure provisions of this Privacy Policy, unless you consent otherwise. These service providers are located in Canada, the United States and Europe and, as a result, your personal information may be stored, processed or transferred into or out of these countries. We take all reasonable measures and precautions to protect your personal information when it is being handled by our service providers. If you wish to obtain more information on our use of service providers and our policies and practices regarding such service providers, please contact us as set forth below.
 
-2\. THM may be required by law to disclose personal information without your consent in the event of emergency situations or when required by government or other legal authority;
 
-3\. THM may also disclose Account Information to the administration of any institution (at which you are a professor/instructor) for administrative purposes including the right for the institution to compile a list of instructors who use the Services and contact such instructors in order to obtain references to evaluate an implementation of the Services.
-
-4\. THM may also disclose personal information to third parties in connection with a corporate re-organization, merger or amalgamation, or the sale of all or substantially all of our assets, provided that, where appropriate, any party to whom the information is disclosed is bound by agreements or obligations, and required to use or disclose your personal information in a manner consistent with the use and disclosure provisions of this Privacy Policy, unless you consent otherwise; or
-
-5\. THM may share your personal information with service providers who perform services on our behalf. For example, we may hire other companies to handle the processing of payments, collect debts, to provide data storage, to host websites, to fulfill orders, to assist in direct marketing, to conduct audits, etc. Those companies will be permitted to obtain only the personal information they need only as necessary to provide services to us. Each company is bound by agreement or obligations with THM to implement and maintain reasonable security procedures and practices in order to use and disclose your personal information in a manner consistent with the use and disclosure provisions of this Privacy Policy, unless you consent otherwise. These service providers are located in Canada, the United States and Europe and, as a result, your personal information may be stored, processed or transferred into or out of these countries. We take all reasonable measures and precautions to protect your personal information when it is being handled by our service providers. If you wish to obtain more information on our use of service providers and our policies and practices regarding such service providers, please contact us as set forth below.
 
 **How to Opt-Out / Withdraw Consent**
 
@@ -83,7 +75,7 @@ TMH maintains information about you for as long as we provide service to you, an
 
 **Safeguards We Have in Place**
 
-THM stores and process your personal information on our servers principally in Canada and the United States as well as internationally. THM employs reasonable managerial and technical measures to ensure that your personal information is secure. In addition, our dedicated team of information technology professionals works to maintain data accuracy and prevent unauthorized access to sensitive information. Unfortunately, no security system can be guaranteed to be 100% secure. Accordingly, we cannot guarantee the security of your personal information and cannot assume liability for improper access to it. The Internet is not a secure medium and you acknowledge and agree that the privacy of your e-mail communication and personal information can never be guaranteed as any e-mail communication may be lost, intercepted or altered. By using our Web sites, or providing personal information to us through any means, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of our Web sites and our services.
+THM stores and process your personal information on our servers principally in Canada and the United States as well as internationally. Accordingly, your data may be available to government bodies or their agencies in those jurisdictions under a lawful order, irrespective of the safeguards we have put in place for the protection of your personal information. THM employs reasonable managerial and technical measures to ensure that your personal information is secure. In addition, our dedicated team of information technology professionals works to maintain data accuracy and prevent unauthorized access to sensitive information. Unfortunately, no security system can be guaranteed to be 100% secure. Accordingly, we cannot guarantee the security of your personal information and do not assume any liability for improper access to it. The Internet is not a secure medium and you acknowledge and agree that the privacy of your e-mail communication and personal information can never be guaranteed as any e-mail communication may be lost, intercepted or altered. By using our Web sites, or providing personal information to us through any means, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of our Web sites and our services.
 
 **Compatibility with FERPA/ HIPPA**
 
@@ -130,7 +122,7 @@ Our Web site may include Social Media Features, such as the Facebook button and 
 
 **California Users**
 
-In accordance with California Civil Code 1798.83, California residents are entitled to know that they may file grievances and complaints at California Department of Consumer Affairs, 400 R Street, Suite 1080, Sacramento, CA 95814, or by phone at 916-445-1254 or 800-952-5210; or by email to[dca@dca.ca.gov](mailto:dca@dca.ca.gov).
+In accordance with California Civil Code 1798.83, California residents are entitled to know that they may file grievances and complaints at California Department of Consumer Affairs, 400 R Street, Suite 1080, Sacramento, CA 95814, or by phone at 916-445-1254 or 800-952-5210; or by email to [dca@dca.ca.gov](mailto:dca@dca.ca.gov).
 
 **BrainTree and PayPal**
 
@@ -144,4 +136,4 @@ You acknowledge and agree that our terms and policies do not govern any other pa
 
 This Privacy Policy does not create or confer upon any individual any rights, or impose upon THM any obligations, in addition to any rights or obligations imposed by Canada’s applicable federal and provincial privacy laws. Should there be any inconsistency between this Privacy Policy and Canada’s applicable federal and provincial privacy laws, this Privacy Policy will be interpreted to comply with the applicable privacy laws.
 
-Any services provided by THM is controlled and operated by us from Canada, and we do not intend that our services subject us to the laws or jurisdiction of any state, country or territory other than that of Canada. We do not represent or warrant that the services, or any part of the services, are appropriate or available for use in any particular jurisdiction. Those who choose to access the services do so on their own initiative and at their own risk, and are responsible for complying with all local laws, rules and regulations. We may limit the services’ availability, in whole or in part, to any person, geographic area or jurisdiction we choose, at any time and in our sole discretion.
+Unless otherwise stated above, any services provided by THM is controlled and operated by us from Canada, and we do not intend that the THM Services subject us to the laws or jurisdiction of any state, country or territory other than that of Canada. We do not represent or warrant that the services, or any part of the THM Services, are appropriate or available for use in any particular jurisdiction. Those who choose to access the services do so on their own initiative and at their own risk, and are responsible for complying with all local laws, rules and regulations. We may limit the THM Services’ availability, in whole or in part, to any person, geographic area or jurisdiction we choose, at any time and in our sole discretion.
