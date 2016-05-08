@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailydealsfromanerdmom.com privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106015453id_/http%3A//dailydealsfromanerdmom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailydealsfromanerdmom.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508181508id_/http%3A//dailydealsfromanerdmom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
