@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainwipe.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206172944id_/http%3A//brainwipe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainwipe.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508210526id_/http%3A//brainwipe.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Brain Wipe
 
@@ -58,10 +58,4 @@ Please note that if you choose to opt out of having your information used to del
 
 ## Recent Posts
 
-[ ](http://brainwipe.com/want-success-get-better-body-language/ "Want Success? Get Better Body Language")
-
-### [Want Success? Get Better Body Language](http://brainwipe.com/want-success-get-better-body-language/)
-
-__Nov 15, 2015
-
-Despite all the texting and emailing going on, real communication is over 90% body language. And like the saying goes, it’s not what you say but how you say it. So if... 
+[ ](http://brainwipe.com/how-to-make-an-amazing-salad-2/ "How To Make An Amazing Salad")
