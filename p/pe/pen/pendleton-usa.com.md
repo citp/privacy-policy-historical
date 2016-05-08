@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pendleton-usa.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108213027id_/http%3A//www.pendleton-usa.com/custserv/custserv.jsp%3FpageName%3DPrivacy%26parentName%3DCustomerService) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pendleton-usa.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509013426id_/http%3A//www.pendleton-usa.com/custserv/custserv.jsp%3FpageName%3DPrivacy%26parentName%3DCustomerService) for the most accurate reproduction.*
 
 # Privacy & Security
 
