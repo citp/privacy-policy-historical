@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsvn.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211210017id_/http%3A//www.wsvn.com/story/22932881/wsvncom-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsvn.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508053337id_/http%3A//www.wsvn.com/story/22932881/wsvncom-privacy-policy) for the most accurate reproduction.*
 
 # WSVN.COM PRIVACY POLICY - WSVN-TV - 7NEWS Miami Ft. Lauderdale News, Weather, Deco
 
