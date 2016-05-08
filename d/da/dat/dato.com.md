@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dato.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907080026id_/https%3A//dato.com/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dato.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508134844id_/https%3A//dato.com/legal/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Dato
 
