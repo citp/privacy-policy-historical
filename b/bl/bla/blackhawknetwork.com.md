@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the blackhawknetwork.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914215955id_/http%3A//blackhawknetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackhawknetwork.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508023046id_/https%3A//blackhawknetwork.com/privacy-policy) for the most accurate reproduction.*
 
 # Blackhawk Network | Privacy Policy
-
-Last Updated 08/2015
 
 **Introduction and Scope of Practices**
 
@@ -62,7 +60,7 @@ We may use PII we collect for the following purposes:
   * to personalize your experience on a Site by presenting content or offers tailored to you;
   * to send you marketing communications you have signed up for or that we believe may be of interest to you;
   * to allow you to use various Site features. 
-    * Please note that some features require that you provide PII in order to use them ( _eg.,_ many of the features at [www.paypower.com](http://www.paypower.com/)) whereas other tools do not ( _e.g.,_ the features in the GoWallet application). You may request that certain information that you enter into our Sites be stored for future access and use. You have the option not to save the information;
+    * Please note that some features require that you provide PII in order to use them ( _eg.,_ many of the features at [www.paypower.com](http://www.paypower.com/)) whereas other tools do not. You may request that certain information that you enter into our Sites be stored for future access and use. You have the option not to save the information;
   * to assist in verifying your identity and account status when we deal with you through our social media pages. We may combine this information with information we already have;
   * to enable you to post your resume, search job postings, and contact or be contacted by Blackhawk for prospective employment;
   * for business purposes, including data analysis, audits, developing and improving products and services, enhancing our Sites, identifying usage trends and determining the effectiveness of promotional campaigns;
@@ -147,6 +145,10 @@ Blackhawk complies with the U.S. – E.U. Safe Harbor framework and the U.S. �
 
 **TRUSTe Certification**
 
+[  
+  
+](https://privacy.truste.com/privacy-seal/validation?rid=185566c5-bed3-48b6-a99a-2ca8ce40b19d "TRUSTe Privacy Certification")
+
 Blackhawk has received TRUSTe’s Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. The TRUSTe program covers only information that is collected through our Web sites, and does not cover information that may be collected offline, through mobile applications, or from software downloaded from the site.
 
 **Updates to** **This Policy**
@@ -159,3 +161,7 @@ Blackhawk Network, Inc.
 6220 Stoneridge Mall Road  
 Pleasanton CA 94588  
 [privacy@bhnetwork.com](mailto:privacy@bhnetwork.com)
+
+[  
+  
+](https://privacy.truste.com/privacy-seal/validation?rid=185566c5-bed3-48b6-a99a-2ca8ce40b19d "TRUSTe Privacy Certification")
