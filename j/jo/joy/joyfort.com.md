@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joyfort.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924151938id_/http%3A//www.joyfort.com/article-176-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joyfort.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508082015id_/http%3A//www.joyfort.com/article-176-1.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY-Best Strategy Games Waiting for you!
 
