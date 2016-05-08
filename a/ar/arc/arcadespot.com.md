@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the arcadespot.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107195602id_/http%3A//www.arcadespot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadespot.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508183845id_/http%3A//www.arcadespot.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - ArcadeSpot
+# Privacy Policy - Arcade Spot
 
-We, at ArcadeSpot, are committed in protecting the privacy of our online visitors and users. We have adopted an Online Privacy Policy to show you how we collect, store, and use any personal information we have gathered on our site.
+We, at Arcade Spot, are committed in protecting the privacy of our online visitors and users. We have adopted an Online Privacy Policy to show you how we collect, store, and use any personal information we have gathered on our site.
 
 ### What information do we collect?
 
@@ -44,8 +44,8 @@ Any personal information that you provide to our website will not be disclosed t
 
 This site contains links that will lead you to other websites. Most games often have links leading to their own gaming or developer’s websites. We are not responsible for your privacy practices or the content of these websites. Please be cautious and read their privacy policy as well.
 
-### Use of ArcadeSpot.com
+### Use of Arcade Spot
 
-By using this site, you signify that you have read and accepted the Privacy Policy of ArcadeSpot.com. If you do not agree to any of the policy, please do not use this site. We reserve the right to make changes to this Privacy Policy. We encourage everyone to regularly check the policy for updates and changes.
+By using this site, you signify that you have read and accepted the Privacy Policy of Arcade Spot. If you do not agree to any of the policy, please do not use this site. We reserve the right to make changes to this Privacy Policy. We encourage everyone to regularly check the policy for updates and changes.
 
 Continued use of the site signifies that you accept any of the changes in the policy.
