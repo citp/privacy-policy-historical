@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customergauge.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206163623id_/http%3A//customergauge.com/company-profileprivacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customergauge.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508134751id_/https%3A//customergauge.com/company-profileprivacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | CustomerGauge.com
 
@@ -8,7 +8,7 @@ CustomerGauge (or the “Company”), known as CustomerGauge/Directness BV and C
 
 ## 1\. Web Sites Covered
 
-This Privacy Statement covers the information practices of Web sites that link to this Privacy Statement, including: http://customergauge.com, http://cloudgauge.com, http://cg-express.com (collectively referred to as “CustomerGauge Web sites” or “the Company’s Web sites”).
+This Privacy Statement covers the information practices of Web sites that link to this Privacy Statement, including: https://customergauge.com, http://cloudgauge.com, http://cg-express.com (collectively referred to as “CustomerGauge Web sites” or “the Company’s Web sites”).
 
 CustomerGauge Web sites may contain links to other Web sites. The information practices or the content of such other Web sites are governed by the privacy statements of such other Web sites. The Company encourages you to review the privacy statements of other Web sites to understand their information practices.
 
