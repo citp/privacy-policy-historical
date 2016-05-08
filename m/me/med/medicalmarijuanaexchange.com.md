@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medicalmarijuanaexchange.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217103718id_/http%3A//medicalmarijuanaexchange.com/content/595-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicalmarijuanaexchange.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508091223id_/http%3A//medicalmarijuanaexchange.com/content/595-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Medical Marijuana Exchange
 
