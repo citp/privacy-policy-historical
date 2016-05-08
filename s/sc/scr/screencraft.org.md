@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screencraft.org privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910132742id_/https%3A//screencraft.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screencraft.org privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508064728id_/https%3A//screencraft.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ScreenCraft
 
@@ -43,3 +43,8 @@ If we decide to change our privacy policy, we will post those changes on this pa
 #### Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.2013 ScreenCraft
+
+[http://www.ScreenCraft.org](http://www.screencraft.org/)
+
+855-503-5500  
+Los Angeles, CA 90066
