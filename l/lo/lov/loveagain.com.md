@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loveagain.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113011213id_/http%3A//www.loveagain.com/static.php%3Fhtml%3Dprivacy%26s%3Ds%26lang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveagain.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508214056id_/http%3A//www.loveagain.com/static.php%3Fhtml%3Dprivacy%26s%3Ds%26lang%3Den) for the most accurate reproduction.*
 
 # LoveAgain.com Help - Privacy Policy
 
@@ -38,7 +38,7 @@ As a large organisation we have a number of subsidiary and sister companies (“
 
 (b) ABOUT OUR PARTNER SITES
 
-If you are reading this policy you are using one of our sites or apps. We have an extensive network of sites that we categorise as Traditional Sites (for traditional romantic relationships e.g. Cupid.com) and Niche Sites (for like-minded people to meet e.g. UniformDating.com). To find out more about our full network of sites please visit our company website [Together Networks](http://www.togethernetworks.com/). We want to offer you a full range of products and services and in order to do that we will share your details across our Partner Sites (See below Creation of duplicate profiles across our Partner Sites) and we will market our different products and services to you (See below Marketing). You authorise us to reproduce and broadcast the information contained in your profile including your name, photograph, "chat up line", description etc. throughout all or part of our Partner Sites and our Group Companies for the purposes of delivering the Services to you.
+If you are reading this policy you are using one of our sites or apps. We have an extensive network of sites that we categorise as Traditional Sites (for traditional romantic relationships e.g. Cupid.com) and Niche Sites (for like-minded people to meet e.g. UniformDating.com). To find out more about our full network of sites please visit our company website [NSI](http://nsiholdingsltd.com/). We want to offer you a full range of products and services and in order to do that we will share your details across our Partner Sites (See below Creation of duplicate profiles across our Partner Sites) and we will market our different products and services to you (See below Marketing). You authorise us to reproduce and broadcast the information contained in your profile including your name, photograph, "chat up line", description etc. throughout all or part of our Partner Sites and our Group Companies for the purposes of delivering the Services to you.
 
  
 
