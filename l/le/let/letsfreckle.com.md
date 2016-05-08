@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the letsfreckle.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906163849id_/http%3A//www.letsfreckle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsfreckle.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508192200id_/https%3A//letsfreckle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Freckle Time Tracking
 
-At Freckle, we collect and manage data according to the following Privacy Policy (last update September 6, 2015).
+[Thomas Fuchs](https://letsfreckle.com/blog/author/thomas/)
+
+At Freckle, we collect and manage data according to the following Privacy Policy (last update February 2, 2016).
 
 ### **TL;DR**
 
@@ -12,7 +14,6 @@ At Freckle, we collect and manage data according to the following Privacy Policy
   * You’re welcome to use content blocking software (e.g. to remove analytics tags); however be aware that this may interfere with our ability to track errors and performance issues that affect your account.
   * We encrypt backups, don’t store credit card numbers on our servers and generally make sure your data is safe.
   * When legally required, or when we suspect fraud, we may share data with law enforcement.
-  * We assure compliance within the US-EU and US-Swiss Safe Harbor Frameworks.
   * If you have questions, write to [support@letsfreckle.com](mailto:support@letsfreckle.com).
 
 
@@ -81,24 +82,13 @@ If Slash7 is acquired or merged with an other company, or Slash7 sells the Freck
 
 We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make any significant changes in the way we collect or use information, we will notify you by posting an announcement on the Website or sending you an email. A user is bound by any changes to the Privacy Policy when he or she uses the Services after such changes have been first posted.
 
-### US-EU Safe Harbor and US-Swiss Safe Harbor
-
-Slash7 uses annual self-assessments to assure compliance within the US-EU and US-Swiss Safe Harbor Frameworks as set forth by the US Department of Commerce regarding the collection, use and retention or personal data from the European Union and Switzerland. Slash7 has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Slash7’s certification, please visit <http://www.export.gov/safeharbor/>.
-
-Our privacy policy above serves as our statement of adherence to the US-EU and US-Swiss Safe Harbor Principles. We encourage you to use the contact information below to inform us of any complaints or disputes you may have regarding the use of your personal information. We will thoroughly investigate the matter internally and make every effort to attempt to resolve the issue quickly. If your dispute cannot be resolved by us internally, we agree to dispute resolution with the Better Business Bureau as our third party resolution provider.
-
-### Privacy complains by European Union and Swiss citizens
-
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, Slash7 commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Slash7 at [support@slash7.com](mailto:support@letsfreckle.com) or by mail at _Slash7 LLC, 228 Park Ave S #14450, New York, NY 10003, USA_.
-
-Slash7 has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Slash7, please visit the BBB EU SAFE HARBOR web site at <http://www.bbb.org/us/safe-harbor-complaints> for more information and to file a complaint.
-
 ### Questions
 
 Should you have any question or concern, please write to [support@letsfreckle.com](mailto:support@letsfreckle.com), or write to _Slash7 LLC, 131 N 3rd St, Philadephia, PA 19106_.
 
 ### Change Log
 
+  * _Version 1.6, February 2, 2016._ Remove Safe Harbor as the underlying agreements between the US and EU are no longer in place.
   * _Version 1.5, September 6, 2015._ Remove Firehose Chat, add Delighted and TraceView. Explicitly mention that it’s totally fine to use content blocking software.
   * _Version 1.4, January 6, 2015._ Remove Mixpanel as we no longer use it.
   * _Version 1.3, September 16, 2014._ Update to include Firehose Chat and Close.io.
@@ -107,3 +97,7 @@ Should you have any question or concern, please write to [support@letsfreckle.co
   * _Version 1.0, January 23, 2013._ Initial release.
 
 
+
+[](https://letsfreckle.com/blog/author/thomas/)
+
+Thomas’ work on Prototype.js, Zepto.js and Micro.js has made him a certified JavaScript Guru. Before founding Freckle, Thomas was consulting with some of the world’s best known companies on their craziest interactive JavaScript needs. A Ruby on Rails core alumni, he is passionate about creating the best user interface experience possible and penned the Scriptaculous JavaScript UI library to share the love, counting sites like Apple.com and Nasa.gov among its users. Thomas’ master plan: work toward a more delicious web using open source goodness.
