@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepcgamesden.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214234143id_/http%3A//freepcgamesden.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepcgamesden.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508103010id_/http%3A//freepcgamesden.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Free PC Games Den
 
