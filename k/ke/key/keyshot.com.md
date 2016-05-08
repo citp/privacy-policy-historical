@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keyshot.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225112326id_/http%3A//keyshot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keyshot.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508193240id_/https%3A//www.keyshot.com/privacy) for the most accurate reproduction.*
 
 # Privacy - KeyShot
 
@@ -32,7 +32,20 @@ We implement a variety of security measures to maintain the safety of your perso
 
 #### Do we use cookies?
 
-A cookie is a piece of data stored on the user’s computer tied to information about the user. The KeyShot website uses cookies to collect traffic data and traffic through the purchase process. No personal data is collected. This information is passed on to analytic reports and used to monitor site traffic and completed purchases. To clear your cookies, view these [instructions](https://support.google.com/accounts/answer/32050?hl=en). You may also opt-out using this browser [add-on](https://tools.google.com/dlpage/gaoptout/). 
+A cookie is a piece of data stored on the user’s computer tied to information about the user. The KeyShot website uses cookies to collect traffic data and traffic through the purchase process. No personal data is collected. This information is passed on to analytic reports and used to monitor site traffic and completed purchases. 
+
+We have implemented the following:
+
+  * Remarketing with Analytics
+  * Google Display Network Impression Reporting
+  * Demographics and Interests Reporting
+  * Integrated services that require Analytics to collect data via advertising cookies and anonymous identifiers
+
+
+
+We, along with third-party vendors (such as Google), use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the Google advertising cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
+
+To clear your cookies, view these [instructions](https://support.google.com/accounts/answer/32050?hl=en). You may also opt-out using this browser [add-on](https://tools.google.com/dlpage/gaoptout/).
 
 #### Do we disclose any information to outside parties?
 
@@ -64,4 +77,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 #### Contacting us
 
-If there are any questions regarding this privacy policy, please [contact us](https://www.keyshot.com/contact/ "Contact"). 
+If there are any questions regarding this privacy policy, please [contact us](https://www.keyshot.com/contact/ "Contact").
