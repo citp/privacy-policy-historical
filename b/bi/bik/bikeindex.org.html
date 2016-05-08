@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bikeindex.org privacy policy that was archived on 2015-09-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150914160105id_/https%3A//bikeindex.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bikeindex.org privacy policy that was archived on 2016-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160508051931id_/https%3A//bikeindex.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title lang="en">Privacy</title>
@@ -19,23 +19,18 @@
 <meta property="og:description" content="Privacy on the Bike Index">
 <meta property="twitter:description" content="Privacy on the Bike Index">
 <meta content="authenticity_token" name="csrf-param">
-<meta content="iAfKVqBbAFB6hQK2Omjh1ICEMPSryAAo5ufTbp3NeNA=" name="csrf-token">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=e9627cd26a/cloudflare.min.js"></script><script type="text/javascript">
+<meta content="t6jiLErniLC6cyRh7b02qHrH6gyNpov8Md6SYZ4ELLQ=" name="csrf-token">
+<script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=e982913d31/cloudflare.min.js"></script><script type="text/javascript">
 //<![CDATA[
-try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"654a37f97eb56df3a6be53e2c85a8500",petok:"bfcf39a523122c7029761bad781ab6698c250c67-1442246466-1800",betok:"c8301da2226403feae0afe8d2a4bc5e9cb474843-1442246466-120",zone:"bikeindex.org",rocket:"0",apps:{"ga_key":{"ua":"UA-38316708-1","ga_bs":"1"}}}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=e9627cd26a/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"648d7813d27b7546a76c629162406fbd",petok:"0201237e90b977ace84172ba5c14ca7478358cb8-1462684771-1800",zone:"bikeindex.org",rocket:"0",apps:{"ga_key":{"ua":"UA-38316708-1","ga_bs":"1"}},sha2test:0}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=e982913d31/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
 //]]>
 </script>
 <link rel="shortcut icon" href="/fav.ico">
-<link href="/assets/application-d24df1d90717292a556b77ec83d21868.css" media="all" rel="stylesheet" type="text/css">
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400,300,700" rel="stylesheet" type="text/css">
-<script src="/assets/application-ea73c4e2d4b002b26f062f0b4d2f4f27.js" type="text/javascript"></script>
- 
-<!--[if lt IE 9]>
-<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-<!--[if lte IE 8]>
-<script type="text/javascript">$(function() {$('body').prepend("<body class='welcome-page' id='body'><div id='old-browser-warning'><h4>Your browser is out of date!</h4><p>As a result, the Bike Index (and the internet in general) is broken and ugly. <a href=\"http://whatbrowser.com\">Learn more here</a>.</p></div>");});</script>
-<![endif]-->
+<link href="/assets/revised-c6838ec9ed2cd1f91de3dd7ffe8e9f72.css" media="all" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300italic,700" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+<script src="/assets/application_revised-952e9f2dae74c5ea8ad1073a1b7de287.js" type="text/javascript"></script>
+<!--[if lt IE 9]><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]--><!--[if lte IE 8]><script type="text/javascript">$(function() {$('body').prepend("<body class='welcome-page' id='body'><div id='old-browser-warning'><h4>Your browser is out of date!</h4><p>As a result, the Bike Index (and the internet in general) is broken and ugly. <a href=\"http://whatbrowser.com\">Learn more here</a>.</p></div>");});</script><![endif]-->
 <script type="text/javascript">
 /* <![CDATA[ */
 var _gaq = _gaq || [];
@@ -50,176 +45,72 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 
 /* ]]> */
 </script>
-<script type="text/javascript">$(document).ready(function () {
-
-$('#header-tabs').prepend("<div id='tab-cover'></div>");
-
-$.ajax({
-  type: "GET",
-  url: '/api/v1/users/current',
-  success: function(data, textStatus, jqXHR) {
-    var links, membership, tab, _i, _len, _ref;
-    if (data["user_present"]) {
-      $('#total-top-header .yes_user').removeClass('hidden');
-      if (data["is_superuser"] || data['is_content_admin']) {
-        $("#total-top-header .super_user").removeClass("hidden");
-      }
-      if (_.isArray(data["memberships"])) {
-        _ref = data["memberships"];
-        for (_i = 0, _len = _ref.length; _i < _len; _i++) {
-          membership = _ref[_i];
-          tab = "<li class=\"expand_t\">\n  <a href=\"#" + membership["slug"] + "\">" + membership["organization_name"] + "</a>\n</li>";
-          links = "<div class=\"tab-pane\" id=\"" + membership["slug"] + "\">\n  <ul>\n    <li>\n      <a href=\"/bikes/new?creation_organization_id=" + membership["organization_id"] + "\">\n        <strong>Add a bike</strong> through " + membership["organization_name"] + "\n      </a>\n    </li>\n    <li>\n      <a href=\"" + membership["base_url"] + "\">\n        " + membership["organization_name"] + " Account\n      </a>\n    </li>";
-          if (membership["is_admin"]) {
-            links = links + ("<li>\n  <a href=\"" + membership["base_url"] + "/edit\">\n    Manage organization\n  </a>\n</li>");
-          }
-          links = links + "</ul></div>";
-          $('#total-top-header .global-tabs').append(tab);
-          $('#total-top-header .tab-content').append(links);
-        }
-      }
-      if (data["email"]) {
-        $('#your_settings_n_stuff').text(data["email"]);
-      }
-      return $('#tab-cover').fadeOut();
-    } else {
-      $('#total-top-header .no_user').removeClass('hidden');
-      return $('#tab-cover').fadeOut();
-    }
-  },
-  error: function(data, textStatus, jqXHR) {
-    $('#total-top-header .no_user').removeClass('hidden');
-    $('#tab-cover').fadeOut();
-  }
-});
-
-});</script></head>
- 
-
-<body id="body">
-<div id="alert-block">
+</head>
+<body id="info_privacy">
+<nav class="primary-header-nav">
+<div class="container">
+<a class="primary-logo" href="https://bikeindex.org/">
+<img alt="Bike Index home" class="primary-nav" src="/assets/revised/logo.svg">
+</a>
+<a id="menu-opened-backdrop"></a>
+<div class="hamburgler">
+<a id="primary_nav_hamburgler">
+☰
+</a>
 </div>
-
-
-<header class="global-header" id="header">
-<div class="top-header" data-domain="production" id="total-top-header">
+<ul class="primary-main-menu">
+<li class="primary-nav-item">
+<a href="https://bikeindex.org/users/new" class="nav-link signup-link" id="">Sign up</a>
+</li>
+<li class="primary-nav-item">
+<a href="https://bikeindex.org/session/new" class="nav-link" id="">log in</a>
+</li>
+<li class="primary-nav-item">
+<a href="/help" class="nav-link" id="">Help</a>
  
-<div class="receptacle">
-<div class="inner-recep">
-<a class="follow-link logo" href="https://bikeindex.org/">
-<img alt="Logo" class="standard-logo" src="/assets/logo.svg">
-<img alt="Logo_cover" class="transparent-logo" src="/assets/logo_cover.svg">
-<span class="transparent-logo-bg"></span>
-<span class="transparent-logo-bg"></span>
-<span class="logo-background"></span>
-<h2>
-Bike Index
-</h2>
-</a>
-<nav class="collapse in" id="header-tabs"><div id="tab-cover" style="display: none;"></div>
-<ul class="global-tabs">
-<span id="global-tabs-cover"></span>
-<li class="expand_t yes_user hidden">
-<a href="#you" id="your_settings_n_stuff">
-You
-</a>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 </li>
-<li class="super_user hidden">
-<a href="/admin" class="follow-link">Superuser home</a>
+<li class="primary-nav-item">
+<a href="/about" class="nav-link" id="">About</a>
 </li>
-<li class="expand_t no_user">
-<a class="expand-sign-in" href="#signup">
-Log in
-</a>
+<li class="primary-nav-item">
+<a href="/news" class="nav-link" id="">News</a>
 </li>
-<li class="no_user">
-<a href="https://bikeindex.org/users/new" class="follow-link">Sign up</a>
+ 
+ 
+<li class="primary-nav-item">
+<a href="/bikes?proximity=ip&amp;stolen=true" class="nav-link" id="search_bikes_header_link">Search bikes</a>
 </li>
 </ul>
-<div class="tab-content">
-<div class="tab-pane yes_user hidden" id="you">
-<ul>
-<li>
-<a href="https://bikeindex.org/user_home" class="follow-link">Your bikes</a>
-</li>
-<li>
-<a href="/my_account" title="Your preferences">
-Preferences
-</a>
-</li>
-<li>
-<a href="/session" data-method="delete" rel="nofollow">Log out</a>
-</li>
-</ul>
-</div>
-<div class="tab-pane login-header no_user" id="signup">
-<form accept-charset="UTF-8" action="https://bikeindex.org/session" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="iAfKVqBbAFB6hQK2Omjh1ICEMPSryAAo5ufTbp3NeNA="></div><div class="field">
-<input id="session_email" name="session[email]" placeholder="Email address" size="30" type="email">
-</div>
-<div class="field">
-<input id="session_password" name="session[password]" placeholder="Password" size="30" type="password">
-</div>
-<div class="field rememberable">
-<label class="checkbox">
-<input name="session[remember_me]" type="hidden" value="0"><input checked="checked" id="session_remember_me" name="session[remember_me]" type="checkbox" value="1">
-Keep me logged in
-</label>
-</div>
-<input class="button-blue" name="commit" type="submit" value="Log in">
-</form>
-<p>
-<a href="/users/request_password_reset" class="forgotten-pass form-link">Forgot your password?</a>
-</p>
-<a class="facebook-login" href="/auth/facebook">
-Log in with
-<span>
-<img alt="Facebook" src="/assets/facebook.svg">
-</span>
-</a>
-<p class="switch-login-signup">
-Don't have an account?
-<a href="https://bikeindex.org/users/new">Sign up instead</a>
-</p>
-</div>
 </div>
 </nav>
-<form accept-charset="UTF-8" action="/bikes" id="head-search-bikes" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
-<span class="hidden" data-options="[{&quot;id&quot;:&quot;c_1&quot;,&quot;text&quot;:&quot;Black bikes&quot;,&quot;display&quot;:&quot;\u003Cspan class='sclr' style='background: #000'\u003E\u003C/span\u003E&quot;},{&quot;id&quot;:&quot;c_6&quot;,&quot;text&quot;:&quot;Blue bikes&quot;,&quot;display&quot;:&quot;\u003Cspan class='sclr' style='background: #386ed2'\u003E\u003C/span\u003E&quot;},{&quot;id&quot;:&quot;c_10&quot;,&quot;text&quot;:&quot;Brown bikes&quot;,&quot;display&quot;:&quot;\u003Cspan class='sclr' style='background: #734a22'\u003E\u003C/span\u003E&quot;},{&quot;id&quot;:&quot;c_5&quot;,&quot;text&quot;:&quot;Green bikes&quot;,&quot;display&quot;:&quot;\u003Cspan class='sclr' style='background: #1ba100'\u003E\u003C/span\u003E&quot;},{&quot;id&quot;:&quot;c_9&quot;,&quot;text&quot;:&quot;Orange bikes&quot;,&quot;display&quot;:&quot;\u003Cspan class='sclr' style='background: #ff8d1d'\u003E\u003C/span\u003E&quot;},{&quot;id&quot;:&quot;c_8&quot;,&quot;text&quot;:&quot;Pink bikes&quot;,&quot;display&quot;:&quot;\u003Cspan class='sclr' style='background: #ff7dfd'\u003E\u003C/span\u003E&quot;},{&quot;id&quot;:&quot;c_7&quot;,&quot;text&quot;:&quot;Purple bikes&quot;,&quot;display&quot;:&quot;\u003Cspan class='sclr' style='background: #a745c0'\u003E\u003C/span\u003E&quot;},{&quot;id&quot;:&quot;c_4&quot;,&quot;text&quot;:&quot;Red bikes&quot;,&quot;display&quot;:&quot;\u003Cspan class='sclr' style='background: #ec1313'\u003E\u003C/span\u003E&quot;},{&quot;id&quot;:&quot;c_3&quot;,&quot;text&quot;:&quot;Silver or Gray bikes&quot;,&quot;display&quot;:&quot;\u003Cspan class='sclr' style='background: #b0b0b0'\u003E\u003C/span\u003E&quot;},{&quot;id&quot;:&quot;c_13&quot;,&quot;text&quot;:&quot;Stickers tape or other cover-up bikes&quot;,&quot;display&quot;:&quot;\u003Cspan class='sclr'\u003Estckrs\u003C/span\u003E&quot;},{&quot;id&quot;:&quot;c_14&quot;,&quot;text&quot;:&quot;Teal bikes&quot;,&quot;display&quot;:&quot;\u003Cspan class='sclr' style='background: #3bede7'\u003E\u003C/span\u003E&quot;},{&quot;id&quot;:&quot;c_2&quot;,&quot;text&quot;:&quot;White bikes&quot;,&quot;display&quot;:&quot;\u003Cspan class='sclr' style='background: #fff'\u003E\u003C/span\u003E&quot;},{&quot;id&quot;:&quot;c_12&quot;,&quot;text&quot;:&quot;Yellow or Gold bikes&quot;,&quot;display&quot;:&quot;\u003Cspan class='sclr' style='background: #fff44b'\u003E\u003C/span\u003E&quot;},{&quot;id&quot;:&quot;m_7&quot;,&quot;text&quot;:&quot;24seven&quot;},{&quot;id&quot;:&quot;m_1410&quot;,&quot;text&quot;:&quot;333Fab&quot;},{&quot;id&quot;:&quot;m_1125&quot;,&quot;text&quot;:&quot;3G&quot;},{&quot;id&quot;:&quot;m_1112&quot;,&quot;text&quot;:&quot;3rensho&quot;},{&quot;id&quot;:&quot;m_1274&quot;,&quot;text&quot;:&quot;6KU&quot;},{&quot;id&quot;:&quot;m_1113&quot;,&quot;text&quot;:&quot;9 zero 7&quot;},{&quot;id&quot;:&quot;m_8&quot;,&quot;text&quot;:&quot;A-bike&quot;},{&quot;id&quot;:&quot;m_1212&quot;,&quot;text&quot;:&quot;A2B e-bikes&quot;},{&quot;id&quot;:&quot;m_1255&quot;,&quot;text&quot;:&quot;AGang&quot;},{&quot;id&quot;:&quot;m_24&quot;,&quot;text&quot;:&quot;ALAN&quot;},{&quot;id&quot;:&quot;m_29&quot;,&quot;text&quot;:&quot;AMF&quot;},{&quot;id&quot;:&quot;m_9&quot;,&quot;text&quot;:&quot;Abici&quot;},{&quot;id&quot;:&quot;m_10&quot;,&quot;text&quot;:&quot;Accell&quot;},{&quot;id&quot;:&quot;m_1042&quot;,&quot;text&quot;:&quot;Access&quot;},{&quot;id&quot;:&quot;m_1293&quot;,&quot;text&quot;:&quot;Acstar&quot;},{&quot;id&quot;:&quot;m_1258&quot;,&quot;text&quot;:&quot;Adams (Trail a bike)&quot;},{&quot;id&quot;:&quot;m_77&quot;,&quot;text&quot;:&quot;Adolphe Cl\u00e9ment&quot;},{&quot;id&quot;:&quot;m_1260&quot;,&quot;text&quot;:&quot;Aegis&quot;},{&quot;id&quot;:&quot;m_1002&quot;,&quot;text&quot;:&quot;Aerofix Cycles&quot;},{&quot;id&quot;:&quot;m_1199&quot;,&quot;text&quot;:&quot;Affinity Cycles&quot;},{&quot;id&quot;:&quot;m_1133&quot;,&quot;text&quot;:&quot;Airborne&quot;},{&quot;id&quot;:&quot;m_23&quot;,&quot;text&quot;:&quot;Aist Bicycles&quot;},{&quot;id&quot;:&quot;m_25&quot;,&quot;text&quot;:&quot;Alcyon&quot;},{&quot;id&quot;:&quot;m_214&quot;,&quot;text&quot;:&quot;Alexander Leutner \u0026 Co.&quot;},{&quot;id&quot;:&quot;m_1013&quot;,&quot;text&quot;:&quot;Alien Bikes&quot;},{&quot;id&quot;:&quot;m_371&quot;,&quot;text&quot;:&quot;All City&quot;},{&quot;id&quot;:&quot;m_26&quot;,&quot;text&quot;:&quot;Alldays \u0026 Onions&quot;},{&quot;id&quot;:&quot;m_1257&quot;,&quot;text&quot;:&quot;Alliance&quot;},{&quot;id&quot;:&quot;m_1366&quot;,&quot;text&quot;:&quot;Alton&quot;},{&quot;id&quot;:&quot;m_27&quot;,&quot;text&quot;:&quot;American Bicycle Company&quot;},{&quot;id&quot;:&quot;m_28&quot;,&quot;text&quot;:&quot;American Machine and Foundry&quot;},{&quot;id&quot;:&quot;m_31&quot;,&quot;text&quot;:&quot;American Star Bicycle&quot;},{&quot;id&quot;:&quot;m_1355&quot;,&quot;text&quot;:&quot;Amoeba&quot;},{&quot;id&quot;:&quot;m_1099&quot;,&quot;text&quot;:&quot;Apollo&quot;},{&quot;id&quot;:&quot;m_1379&quot;,&quot;text&quot;:&quot;Ares&quot;},{&quot;id&quot;:&quot;m_32&quot;,&quot;text&quot;:&quot;Argon 18&quot;},{&quot;id&quot;:&quot;m_1081&quot;,&quot;text&quot;:&quot;Asama&quot;},{&quot;id&quot;:&quot;m_994&quot;,&quot;text&quot;:&quot;Asda&quot;},{&quot;id&quot;:&quot;m_17&quot;,&quot;text&quot;:&quot;Atala&quot;},{&quot;id&quot;:&quot;m_400&quot;,&quot;text&quot;:&quot;Atomlab&quot;},{&quot;id&quot;:&quot;m_33&quot;,&quot;text&quot;:&quot;Author&quot;},{&quot;id&quot;:&quot;m_1126&quot;,&quot;text&quot;:&quot;Avalon&quot;},{&quot;id&quot;:&quot;m_34&quot;,&quot;text&quot;:&quot;Avanti&quot;},{&quot;id&quot;:&quot;m_1059&quot;,&quot;text&quot;:&quot;Avent\u00f3n&quot;},{&quot;id&quot;:&quot;m_1156&quot;,&quot;text&quot;:&quot;Azonic&quot;},{&quot;id&quot;:&quot;m_1120&quot;,&quot;text&quot;:&quot;Azor&quot;},{&quot;id&quot;:&quot;m_1101&quot;,&quot;text&quot;:&quot;Azzuri&quot;},{&quot;id&quot;:&quot;m_36&quot;,&quot;text&quot;:&quot;BH Bikes (Beistegui Hermanos)&quot;},{&quot;id&quot;:&quot;m_359&quot;,&quot;text&quot;:&quot;BMC&quot;},{&quot;id&quot;:&quot;m_1015&quot;,&quot;text&quot;:&quot;BULLITT&quot;},{&quot;id&quot;:&quot;m_1402&quot;,&quot;text&quot;:&quot;BULLS Bikes&quot;},{&quot;id&quot;:&quot;m_989&quot;,&quot;text&quot;:&quot;Bacchetta&quot;},{&quot;id&quot;:&quot;m_1025&quot;,&quot;text&quot;:&quot;Backward Circle&quot;},{&quot;id&quot;:&quot;m_958&quot;,&quot;text&quot;:&quot;Bailey&quot;},{&quot;id&quot;:&quot;m_1307&quot;,&quot;text&quot;:&quot;Bamboo Cycles&quot;},{&quot;id&quot;:&quot;m_1066&quot;,&quot;text&quot;:&quot;Banshee bikes&quot;},{&quot;id&quot;:&quot;m_1362&quot;,&quot;text&quot;:&quot;Bantam (Bantam Bicycle works)&quot;},{&quot;id&quot;:&quot;m_1134&quot;,&quot;text&quot;:&quot;Barracuda&quot;},{&quot;id&quot;:&quot;m_35&quot;,&quot;text&quot;:&quot;Basso&quot;},{&quot;id&quot;:&quot;m_18&quot;,&quot;text&quot;:&quot;Batavus&quot;},{&quot;id&quot;:&quot;m_1223&quot;,&quot;text&quot;:&quot;Bazooka&quot;},{&quot;id&quot;:&quot;m_1044&quot;,&quot;text&quot;:&quot;BeOne&quot;},{&quot;id&quot;:&quot;m_1024&quot;,&quot;text&quot;:&quot;Beater Bikes&quot;},{&quot;id&quot;:&quot;m_1110&quot;,&quot;text&quot;:&quot;Benotto&quot;},{&quot;id&quot;:&quot;m_1031&quot;,&quot;text&quot;:&quot;Bergamont&quot;},{&quot;id&quot;:&quot;m_1383&quot;,&quot;text&quot;:&quot;Bertoni&quot;},{&quot;id&quot;:&quot;m_129&quot;,&quot;text&quot;:&quot;Bianchi&quot;},{&quot;id&quot;:&quot;m_39&quot;,&quot;text&quot;:&quot;Bickerton&quot;},{&quot;id&quot;:&quot;m_1152&quot;,&quot;text&quot;:&quot;Big Shot&quot;},{&quot;id&quot;:&quot;m_40&quot;,&quot;text&quot;:&quot;Bike Friday&quot;},{&quot;id&quot;:&quot;m_1017&quot;,&quot;text&quot;:&quot;Bike Mielec&quot;},{&quot;id&quot;:&quot;m_1148&quot;,&quot;text&quot;:&quot;Bike4Life&quot;},{&quot;id&quot;:&quot;m_1100&quot;,&quot;text&quot;:&quot;BikeE recumbents&quot;},{&quot;id&quot;:&quot;m_41&quot;,&quot;text&quot;:&quot;Bilenky Cycle Works&quot;},{&quot;id&quot;:&quot;m_42&quot;,&quot;text&quot;:&quot;Biomega&quot;},{&quot;id&quot;:&quot;m_255&quot;,&quot;text&quot;:&quot;Birdy&quot;},{&quot;id&quot;:&quot;m_944&quot;,&quot;text&quot;:&quot;Biria&quot;},{&quot;id&quot;:&quot;m_43&quot;,&quot;text&quot;:&quot;Birmingham Small Arms Company&quot;},{&quot;id&quot;:&quot;m_1350&quot;,&quot;text&quot;:&quot;Bishop&quot;},{&quot;id&quot;:&quot;m_109&quot;,&quot;text&quot;:&quot;Black Market&quot;},{&quot;id&quot;:&quot;m_1178&quot;,&quot;text&quot;:&quot;Black Mountain Cycles&quot;},{&quot;id&quot;:&quot;m_1034&quot;,&quot;text&quot;:&quot;Black Sheep Bikes&quot;},{&quot;id&quot;:&quot;m_1167&quot;,&quot;text&quot;:&quot;Blue&quot;},{&quot;id&quot;:&quot;m_44&quot;,&quot;text&quot;:&quot;Boardman Bikes&quot;},{&quot;id&quot;:&quot;m_1032&quot;,&quot;text&quot;:&quot;Bobbin&quot;},{&quot;id&quot;:&quot;m_45&quot;,&quot;text&quot;:&quot;Bohemian Bicycles&quot;},{&quot;id&quot;:&quot;m_1286&quot;,&quot;text&quot;:&quot;Boo Bicycles&quot;},{&quot;id&quot;:&quot;m_1304&quot;,&quot;text&quot;:&quot;Boreal&quot;},{&quot;id&quot;:&quot;m_1305&quot;,&quot;text&quot;:&quot;Borealis (fat bikes)&quot;},{&quot;id&quot;:&quot;m_48&quot;,&quot;text&quot;:&quot;Borile&quot;},{&quot;id&quot;:&quot;m_49&quot;,&quot;text&quot;:&quot;Bottecchia&quot;},{&quot;id&quot;:&quot;m_1016&quot;,&quot;text&quot;:&quot;Boulder Bicycles&quot;},{&quot;id&quot;:&quot;m_51&quot;,&quot;text&quot;:&quot;Brasil \u0026 Movimento&quot;},{&quot;id&quot;:&quot;m_1354&quot;,&quot;text&quot;:&quot;Breadwinner&quot;},{&quot;id&quot;:&quot;m_1363&quot;,&quot;text&quot;:&quot;Breakbrake17 Bicycle Co.&quot;},{&quot;id&quot;:&quot;m_941&quot;,&quot;text&quot;:&quot;Breezer&quot;},{&quot;id&quot;:&quot;m_52&quot;,&quot;text&quot;:&quot;Brennabor&quot;},{&quot;id&quot;:&quot;m_53&quot;,&quot;text&quot;:&quot;Bridgestone&quot;},{&quot;id&quot;:&quot;m_1381&quot;,&quot;text&quot;:&quot;Brilliant Bicycle&quot;},{&quot;id&quot;:&quot;m_54&quot;,&quot;text&quot;:&quot;British Eagle&quot;},{&quot;id&quot;:&quot;m_1128&quot;,&quot;text&quot;:&quot;Brodie&quot;},{&quot;id&quot;:&quot;m_1246&quot;,&quot;text&quot;:&quot;Broke Bikes&quot;},{&quot;id&quot;:&quot;m_55&quot;,&quot;text&quot;:&quot;Brompton Bicycle&quot;},{&quot;id&quot;:&quot;m_1098&quot;,&quot;text&quot;:&quot;Brooklyn Bicycle Co.&quot;},{&quot;id&quot;:&quot;m_1239&quot;,&quot;text&quot;:&quot;Browning&quot;},{&quot;id&quot;:&quot;m_56&quot;,&quot;text&quot;:&quot;Brunswick Corporation&quot;},{&quot;id&quot;:&quot;m_1265&quot;,&quot;text&quot;:&quot;Budnitz&quot;},{&quot;id&quot;:&quot;m_57&quot;,&quot;text&quot;:&quot;Burley Design&quot;},{&quot;id&quot;:&quot;m_271&quot;,&quot;text&quot;:&quot;CCM&quot;},{&quot;id&quot;:&quot;m_1369&quot;,&quot;text&quot;:&quot;CETMA Cargo&quot;},{&quot;id&quot;:&quot;m_72&quot;,&quot;text&quot;:&quot;CHUMBA Racing&quot;},{&quot;id&quot;:&quot;m_1093&quot;,&quot;text&quot;:&quot;CVLN (Civilian)&quot;},{&quot;id&quot;:&quot;m_58&quot;,&quot;text&quot;:&quot;Calcott Brothers&quot;},{&quot;id&quot;:&quot;m_59&quot;,&quot;text&quot;:&quot;Calfee Design&quot;},{&quot;id&quot;:&quot;m_60&quot;,&quot;text&quot;:&quot;Caloi&quot;},{&quot;id&quot;:&quot;m_61&quot;,&quot;text&quot;:&quot;Campion Cycle Company&quot;},{&quot;id&quot;:&quot;m_1183&quot;,&quot;text&quot;:&quot;Canfield Brothers&quot;},{&quot;id&quot;:&quot;m_62&quot;,&quot;text&quot;:&quot;Cannondale&quot;},{&quot;id&quot;:&quot;m_63&quot;,&quot;text&quot;:&quot;Canyon bicycles&quot;},{&quot;id&quot;:&quot;m_64&quot;,&quot;text&quot;:&quot;Carrera bicycles&quot;},{&quot;id&quot;:&quot;m_66&quot;,&quot;text&quot;:&quot;Catrike&quot;},{&quot;id&quot;:&quot;m_1179&quot;,&quot;text&quot;:&quot;Cayne&quot;},{&quot;id&quot;:&quot;m_68&quot;,&quot;text&quot;:&quot;Centurion&quot;},{&quot;id&quot;:&quot;m_69&quot;,&quot;text&quot;:&quot;Cerv\u00e9lo&quot;},{&quot;id&quot;:&quot;m_940&quot;,&quot;text&quot;:&quot;Charge&quot;},{&quot;id&quot;:&quot;m_1129&quot;,&quot;text&quot;:&quot;Chariot&quot;},{&quot;id&quot;:&quot;m_70&quot;,&quot;text&quot;:&quot;Chater-Lea&quot;},{&quot;id&quot;:&quot;m_71&quot;,&quot;text&quot;:&quot;Chicago Bicycle Company&quot;},{&quot;id&quot;:&quot;m_1247&quot;,&quot;text&quot;:&quot;Christiania Bikes&quot;},{&quot;id&quot;:&quot;m_456&quot;,&quot;text&quot;:&quot;Chromag&quot;},{&quot;id&quot;:&quot;m_1218&quot;,&quot;text&quot;:&quot;Cielo&quot;},{&quot;id&quot;:&quot;m_1084&quot;,&quot;text&quot;:&quot;Cignal&quot;},{&quot;id&quot;:&quot;m_73&quot;,&quot;text&quot;:&quot;Cilo&quot;},{&quot;id&quot;:&quot;m_74&quot;,&quot;text&quot;:&quot;Cinelli&quot;},{&quot;id&quot;:&quot;m_1130&quot;,&quot;text&quot;:&quot;Ciocc&quot;},{&quot;id&quot;:&quot;m_1068&quot;,&quot;text&quot;:&quot;Citizen Bike&quot;},{&quot;id&quot;:&quot;m_937&quot;,&quot;text&quot;:&quot;City Bicycles Company&quot;},{&quot;id&quot;:&quot;m_372&quot;,&quot;text&quot;:&quot;Civia&quot;},{&quot;id&quot;:&quot;m_75&quot;,&quot;text&quot;:&quot;Clark-Kent&quot;},{&quot;id&quot;:&quot;m_76&quot;,&quot;text&quot;:&quot;Claud Butler&quot;},{&quot;id&quot;:&quot;m_78&quot;,&quot;text&quot;:&quot;Co-Motion&quot;},{&quot;id&quot;:&quot;m_79&quot;,&quot;text&quot;:&quot;Coker Tire&quot;},{&quot;id&quot;:&quot;m_80&quot;,&quot;text&quot;:&quot;Colnago&quot;},{&quot;id&quot;:&quot;m_1225&quot;,&quot;text&quot;:&quot;Colony&quot;},{&quot;id&quot;:&quot;m_1374&quot;,&quot;text&quot;:&quot;Colossi&quot;},{&quot;id&quot;:&quot;m_1146&quot;,&quot;text&quot;:&quot;Columbia&quot;},{&quot;id&quot;:&quot;m_1295&quot;,&quot;text&quot;:&quot;Columbus Tubing&quot;},{&quot;id&quot;:&quot;m_959&quot;,&quot;text&quot;:&quot;Condor&quot;},{&quot;id&quot;:&quot;m_978&quot;,&quot;text&quot;:&quot;Conor&quot;},{&quot;id&quot;:&quot;m_1060&quot;,&quot;text&quot;:&quot;Cook Bros. Racing&quot;},{&quot;id&quot;:&quot;m_936&quot;,&quot;text&quot;:&quot;Cooper Bikes&quot;},{&quot;id&quot;:&quot;m_81&quot;,&quot;text&quot;:&quot;Corima&quot;},{&quot;id&quot;:&quot;m_1205&quot;,&quot;text&quot;:&quot;Corratec&quot;},{&quot;id&quot;:&quot;m_82&quot;,&quot;text&quot;:&quot;Cortina Cycles&quot;},{&quot;id&quot;:&quot;m_1139&quot;,&quot;text&quot;:&quot;Cove&quot;},{&quot;id&quot;:&quot;m_1220&quot;,&quot;text&quot;:&quot;Crank2&quot;},{&quot;id&quot;:&quot;m_1095&quot;,&quot;text&quot;:&quot;Create&quot;},{&quot;id&quot;:&quot;m_1224&quot;,&quot;text&quot;:&quot;Creme Cycles&quot;},{&quot;id&quot;:&quot;m_1253&quot;,&quot;text&quot;:&quot;Crew&quot;},{&quot;id&quot;:&quot;m_935&quot;,&quot;text&quot;:&quot;Critical Cycles&quot;},{&quot;id&quot;:&quot;m_1348&quot;,&quot;text&quot;:&quot;Crumpton&quot;},{&quot;id&quot;:&quot;m_1391&quot;,&quot;text&quot;:&quot;Cruzbike&quot;},{&quot;id&quot;:&quot;m_83&quot;,&quot;text&quot;:&quot;Cube&quot;},{&quot;id&quot;:&quot;m_362&quot;,&quot;text&quot;:&quot;Cult&quot;},{&quot;id&quot;:&quot;m_1115&quot;,&quot;text&quot;:&quot;Currie Technology (Currietech)&quot;},{&quot;id&quot;:&quot;m_84&quot;,&quot;text&quot;:&quot;Currys&quot;},{&quot;id&quot;:&quot;m_1397&quot;,&quot;text&quot;:&quot;Curtlo&quot;},{&quot;id&quot;:&quot;m_1367&quot;,&quot;text&quot;:&quot;Cyclamatic&quot;},{&quot;id&quot;:&quot;m_89&quot;,&quot;text&quot;:&quot;Cycle Force Group&quot;},{&quot;id&quot;:&quot;m_964&quot;,&quot;text&quot;:&quot;CyclePro&quot;},{&quot;id&quot;:&quot;m_1291&quot;,&quot;text&quot;:&quot;Cycles Fanatic&quot;},{&quot;id&quot;:&quot;m_145&quot;,&quot;text&quot;:&quot;Cycles Follis&quot;},{&quot;id&quot;:&quot;m_1385&quot;,&quot;text&quot;:&quot;Cycles Toussaint&quot;},{&quot;id&quot;:&quot;m_4&quot;,&quot;text&quot;:&quot;Cycleurope&quot;},{&quot;id&quot;:&quot;m_90&quot;,&quot;text&quot;:&quot;Cyfac&quot;},{&quot;id&quot;:&quot;m_1203&quot;,&quot;text&quot;:&quot;DEAN&quot;},{&quot;id&quot;:&quot;m_1127&quot;,&quot;text&quot;:&quot;DHS&quot;},{&quot;id&quot;:&quot;m_1132&quot;,&quot;text&quot;:&quot;DK Bikes&quot;},{&quot;id&quot;:&quot;m_496&quot;,&quot;text&quot;:&quot;DMR Bikes&quot;},{&quot;id&quot;:&quot;m_91&quot;,&quot;text&quot;:&quot;Da Bomb Bikes&quot;},{&quot;id&quot;:&quot;m_1292&quot;,&quot;text&quot;:&quot;Daccordi&quot;},{&quot;id&quot;:&quot;m_92&quot;,&quot;text&quot;:&quot;Dahon&quot;},{&quot;id&quot;:&quot;m_1219&quot;,&quot;text&quot;:&quot;Davidson&quot;},{&quot;id&quot;:&quot;m_93&quot;,&quot;text&quot;:&quot;Dawes Cycles&quot;},{&quot;id&quot;:&quot;m_96&quot;,&quot;text&quot;:&quot;De Rosa&quot;},{&quot;id&quot;:&quot;m_1087&quot;,&quot;text&quot;:&quot;DeBernardi&quot;},{&quot;id&quot;:&quot;m_1244&quot;,&quot;text&quot;:&quot;DeSalvo Cycles&quot;},{&quot;id&quot;:&quot;m_1300&quot;,&quot;text&quot;:&quot;Decathlon&quot;},{&quot;id&quot;:&quot;m_1008&quot;,&quot;text&quot;:&quot;Deity&quot;},{&quot;id&quot;:&quot;m_1131&quot;,&quot;text&quot;:&quot;Del Sol&quot;},{&quot;id&quot;:&quot;m_1346&quot;,&quot;text&quot;:&quot;Della Santa&quot;},{&quot;id&quot;:&quot;m_95&quot;,&quot;text&quot;:&quot;Den Beste Sykkel&quot;},{&quot;id&quot;:&quot;m_1242&quot;,&quot;text&quot;:&quot;Dengfu&quot;},{&quot;id&quot;:&quot;m_5&quot;,&quot;text&quot;:&quot;Derby Cycle&quot;},{&quot;id&quot;:&quot;m_1206&quot;,&quot;text&quot;:&quot;Detroit Bikes&quot;},{&quot;id&quot;:&quot;m_97&quot;,&quot;text&quot;:&quot;Devinci&quot;},{&quot;id&quot;:&quot;m_98&quot;,&quot;text&quot;:&quot;Di Blasi Industriale&quot;},{&quot;id&quot;:&quot;m_1237&quot;,&quot;text&quot;:&quot;Diadora&quot;},{&quot;id&quot;:&quot;m_99&quot;,&quot;text&quot;:&quot;Diamant&quot;},{&quot;id&quot;:&quot;m_199&quot;,&quot;text&quot;:&quot;Diamondback&quot;},{&quot;id&quot;:&quot;m_1&quot;,&quot;text&quot;:&quot;Doberman&quot;},{&quot;id&quot;:&quot;m_967&quot;,&quot;text&quot;:&quot;Dodici Milano&quot;},{&quot;id&quot;:&quot;m_1057&quot;,&quot;text&quot;:&quot;Dolan&quot;},{&quot;id&quot;:&quot;m_6&quot;,&quot;text&quot;:&quot;Dorel Industries&quot;},{&quot;id&quot;:&quot;m_1395&quot;,&quot;text&quot;:&quot;Downtube&quot;},{&quot;id&quot;:&quot;m_121&quot;,&quot;text&quot;:&quot;Dynacraft&quot;},{&quot;id&quot;:&quot;m_1208&quot;,&quot;text&quot;:&quot;Dynamic Bicycles&quot;},{&quot;id&quot;:&quot;m_927&quot;,&quot;text&quot;:&quot;Dyno&quot;},{&quot;id&quot;:&quot;m_310&quot;,&quot;text&quot;:&quot;E. C. Stearns Bicycle Agency&quot;},{&quot;id&quot;:&quot;m_356&quot;,&quot;text&quot;:&quot;EAI (Euro Asia Imports)&quot;},{&quot;id&quot;:&quot;m_1277&quot;,&quot;text&quot;:&quot;EG Bikes (Metronome)&quot;},{&quot;id&quot;:&quot;m_1200&quot;,&quot;text&quot;:&quot;EMC Bikes&quot;},{&quot;id&quot;:&quot;m_1356&quot;,&quot;text&quot;:&quot;EZ Pedaler (EZ Pedaler electric bikes)&quot;},{&quot;id&quot;:&quot;m_124&quot;,&quot;text&quot;:&quot;Eagle Bicycle Manufacturing Company&quot;},{&quot;id&quot;:&quot;m_183&quot;,&quot;text&quot;:&quot;East Germany&quot;},{&quot;id&quot;:&quot;m_505&quot;,&quot;text&quot;:&quot;Eastern&quot;},{&quot;id&quot;:&quot;m_1196&quot;,&quot;text&quot;:&quot;Easy Motion&quot;},{&quot;id&quot;:&quot;m_973&quot;,&quot;text&quot;:&quot;Ebisu&quot;},{&quot;id&quot;:&quot;m_225&quot;,&quot;text&quot;:&quot;Eddy Merckx&quot;},{&quot;id&quot;:&quot;m_1028&quot;,&quot;text&quot;:&quot;Edinburgh Bicycle Co-operative&quot;},{&quot;id&quot;:&quot;m_1090&quot;,&quot;text&quot;:&quot;EighthInch&quot;},{&quot;id&quot;:&quot;m_125&quot;,&quot;text&quot;:&quot;Electra&quot;},{&quot;id&quot;:&quot;m_1233&quot;,&quot;text&quot;:&quot;Elliptigo&quot;},{&quot;id&quot;:&quot;m_1236&quot;,&quot;text&quot;:&quot;Ellis&quot;},{&quot;id&quot;:&quot;m_126&quot;,&quot;text&quot;:&quot;Ellis Briggs&quot;},{&quot;id&quot;:&quot;m_127&quot;,&quot;text&quot;:&quot;Ellsworth&quot;},{&quot;id&quot;:&quot;m_128&quot;,&quot;text&quot;:&quot;Emilio Bozzi&quot;},{&quot;id&quot;:&quot;m_1365&quot;,&quot;text&quot;:&quot;Engin Cycles&quot;},{&quot;id&quot;:&quot;m_130&quot;,&quot;text&quot;:&quot;Enigma Titanium&quot;},{&quot;id&quot;:&quot;m_1103&quot;,&quot;text&quot;:&quot;Europa&quot;},{&quot;id&quot;:&quot;m_1281&quot;,&quot;text&quot;:&quot;Evelo&quot;},{&quot;id&quot;:&quot;m_1048&quot;,&quot;text&quot;:&quot;Evil&quot;},{&quot;id&quot;:&quot;m_1389&quot;,&quot;text&quot;:&quot;Evo&quot;},{&quot;id&quot;:&quot;m_1407&quot;,&quot;text&quot;:&quot;Ezee&quot;},{&quot;id&quot;:&quot;m_529&quot;,&quot;text&quot;:&quot;FBM&quot;},{&quot;id&quot;:&quot;m_1269&quot;,&quot;text&quot;:&quot;FRAMED&quot;},{&quot;id&quot;:&quot;m_1259&quot;,&quot;text&quot;:&quot;Faggin&quot;},{&quot;id&quot;:&quot;m_1009&quot;,&quot;text&quot;:&quot;Failure&quot;},{&quot;id&quot;:&quot;m_526&quot;,&quot;text&quot;:&quot;Fairdale&quot;},{&quot;id&quot;:&quot;m_1358&quot;,&quot;text&quot;:&quot;Falco Bikes&quot;},{&quot;id&quot;:&quot;m_132&quot;,&quot;text&quot;:&quot;Falcon&quot;},{&quot;id&quot;:&quot;m_1256&quot;,&quot;text&quot;:&quot;Faraday&quot;},{&quot;id&quot;:&quot;m_134&quot;,&quot;text&quot;:&quot;Fat City Cycles&quot;},{&quot;id&quot;:&quot;m_1056&quot;,&quot;text&quot;:&quot;Fatback&quot;},{&quot;id&quot;:&quot;m_1217&quot;,&quot;text&quot;:&quot;Fausto Coppi&quot;},{&quot;id&quot;:&quot;m_113&quot;,&quot;text&quot;:&quot;Federal&quot;},{&quot;id&quot;:&quot;m_136&quot;,&quot;text&quot;:&quot;Felt&quot;},{&quot;id&quot;:&quot;m_1168&quot;,&quot;text&quot;:&quot;Fetish&quot;},{&quot;id&quot;:&quot;m_1169&quot;,&quot;text&quot;:&quot;Fezzari&quot;},{&quot;id&quot;:&quot;m_140&quot;,&quot;text&quot;:&quot;Field&quot;},{&quot;id&quot;:&quot;m_1376&quot;,&quot;text&quot;:&quot;Firefly Bicycles&quot;},{&quot;id&quot;:&quot;m_1153&quot;,&quot;text&quot;:&quot;Firefox&quot;},{&quot;id&quot;:&quot;m_1064&quot;,&quot;text&quot;:&quot;Firenze&quot;},{&quot;id&quot;:&quot;m_1065&quot;,&quot;text&quot;:&quot;Firmstrong&quot;},{&quot;id&quot;:&quot;m_353&quot;,&quot;text&quot;:&quot;Fit bike Co.&quot;},{&quot;id&quot;:&quot;m_370&quot;,&quot;text&quot;:&quot;Fleet Velo&quot;},{&quot;id&quot;:&quot;m_138&quot;,&quot;text&quot;:&quot;Fleetwing&quot;},{&quot;id&quot;:&quot;m_141&quot;,&quot;text&quot;:&quot;Flying Pigeon&quot;},{&quot;id&quot;:&quot;m_142&quot;,&quot;text&quot;:&quot;Flying Scot&quot;},{&quot;id&quot;:&quot;m_1378&quot;,&quot;text&quot;:&quot;Flyxii&quot;},{&quot;id&quot;:&quot;m_966&quot;,&quot;text&quot;:&quot;Focale44&quot;},{&quot;id&quot;:&quot;m_143&quot;,&quot;text&quot;:&quot;Focus&quot;},{&quot;id&quot;:&quot;m_1049&quot;,&quot;text&quot;:&quot;Fokhan&quot;},{&quot;id&quot;:&quot;m_158&quot;,&quot;text&quot;:&quot;Folmer \u0026 Schwing&quot;},{&quot;id&quot;:&quot;m_1094&quot;,&quot;text&quot;:&quot;Fondriest&quot;},{&quot;id&quot;:&quot;m_1079&quot;,&quot;text&quot;:&quot;Forge Bikes&quot;},{&quot;id&quot;:&quot;m_1359&quot;,&quot;text&quot;:&quot;Fortified (lights)&quot;},{&quot;id&quot;:&quot;m_539&quot;,&quot;text&quot;:&quot;Foundry Cycles&quot;},{&quot;id&quot;:&quot;m_146&quot;,&quot;text&quot;:&quot;Fram&quot;},{&quot;id&quot;:&quot;m_1345&quot;,&quot;text&quot;:&quot;Frances&quot;},{&quot;id&quot;:&quot;m_1221&quot;,&quot;text&quot;:&quot;Francesco Moser (F. Moser)&quot;},{&quot;id&quot;:&quot;m_147&quot;,&quot;text&quot;:&quot;Freddie Grubb&quot;},{&quot;id&quot;:&quot;m_1102&quot;,&quot;text&quot;:&quot;Free Agent&quot;},{&quot;id&quot;:&quot;m_1172&quot;,&quot;text&quot;:&quot;Free Spirit&quot;},{&quot;id&quot;:&quot;m_101&quot;,&quot;text&quot;:&quot;Fuji&quot;},{&quot;id&quot;:&quot;m_546&quot;,&quot;text&quot;:&quot;Fyxation&quot;},{&quot;id&quot;:&quot;m_1138&quot;,&quot;text&quot;:&quot;GMC&quot;},{&quot;id&quot;:&quot;m_119&quot;,&quot;text&quot;:&quot;GT Bicycles&quot;},{&quot;id&quot;:&quot;m_1014&quot;,&quot;text&quot;:&quot;Gardin&quot;},{&quot;id&quot;:&quot;m_149&quot;,&quot;text&quot;:&quot;Gary Fisher&quot;},{&quot;id&quot;:&quot;m_1171&quot;,&quot;text&quot;:&quot;Gavin&quot;},{&quot;id&quot;:&quot;m_150&quot;,&quot;text&quot;:&quot;Gazelle&quot;},{&quot;id&quot;:&quot;m_151&quot;,&quot;text&quot;:&quot;Gendron Bicycles&quot;},{&quot;id&quot;:&quot;m_1137&quot;,&quot;text&quot;:&quot;Genesis&quot;},{&quot;id&quot;:&quot;m_1303&quot;,&quot;text&quot;:&quot;Geotech&quot;},{&quot;id&quot;:&quot;m_152&quot;,&quot;text&quot;:&quot;Gepida&quot;},{&quot;id&quot;:&quot;m_1245&quot;,&quot;text&quot;:&quot;Ghost&quot;},{&quot;id&quot;:&quot;m_153&quot;,&quot;text&quot;:&quot;Giant&quot;},{&quot;id&quot;:&quot;m_1185&quot;,&quot;text&quot;:&quot;Gilmour&quot;},{&quot;id&quot;:&quot;m_1174&quot;,&quot;text&quot;:&quot;Giordano&quot;},{&quot;id&quot;:&quot;m_86&quot;,&quot;text&quot;:&quot;Gitane&quot;},{&quot;id&quot;:&quot;m_154&quot;,&quot;text&quot;:&quot;Gladiator Cycle Company&quot;},{&quot;id&quot;:&quot;m_943&quot;,&quot;text&quot;:&quot;Globe&quot;},{&quot;id&quot;:&quot;m_155&quot;,&quot;text&quot;:&quot;Gnome et Rh\u00f4ne&quot;},{&quot;id&quot;:&quot;m_1396&quot;,&quot;text&quot;:&quot;Gocycle&quot;},{&quot;id&quot;:&quot;m_1288&quot;,&quot;text&quot;:&quot;Gomier&quot;},{&quot;id&quot;:&quot;m_156&quot;,&quot;text&quot;:&quot;Gormully \u0026 Jeffery&quot;},{&quot;id&quot;:&quot;m_157&quot;,&quot;text&quot;:&quot;Graflex&quot;},{&quot;id&quot;:&quot;m_566&quot;,&quot;text&quot;:&quot;Gravity&quot;},{&quot;id&quot;:&quot;m_1083&quot;,&quot;text&quot;:&quot;Greenspeed&quot;},{&quot;id&quot;:&quot;m_1266&quot;,&quot;text&quot;:&quot;Gudereit&quot;},{&quot;id&quot;:&quot;m_159&quot;,&quot;text&quot;:&quot;Guerciotti&quot;},{&quot;id&quot;:&quot;m_986&quot;,&quot;text&quot;:&quot;Gunnar&quot;},{&quot;id&quot;:&quot;m_1193&quot;,&quot;text&quot;:&quot;Guru&quot;},{&quot;id&quot;:&quot;m_1214&quot;,&quot;text&quot;:&quot;HBBC (Huntington Beach Bicycle, Co)&quot;},{&quot;id&quot;:&quot;m_1204&quot;,&quot;text&quot;:&quot;HP Velotechnik&quot;},{&quot;id&quot;:&quot;m_1279&quot;,&quot;text&quot;:&quot;Haibike (Currietech)&quot;},{&quot;id&quot;:&quot;m_1373&quot;,&quot;text&quot;:&quot;Hallstrom&quot;},{&quot;id&quot;:&quot;m_1371&quot;,&quot;text&quot;:&quot;Hampsten Cycles&quot;},{&quot;id&quot;:&quot;m_934&quot;,&quot;text&quot;:&quot;Handsome Cycles&quot;},{&quot;id&quot;:&quot;m_1238&quot;,&quot;text&quot;:&quot;Hanford&quot;},{&quot;id&quot;:&quot;m_105&quot;,&quot;text&quot;:&quot;Haro&quot;},{&quot;id&quot;:&quot;m_162&quot;,&quot;text&quot;:&quot;Harry Quinn&quot;},{&quot;id&quot;:&quot;m_1097&quot;,&quot;text&quot;:&quot;Harvey Cycle Works&quot;},{&quot;id&quot;:&quot;m_1181&quot;,&quot;text&quot;:&quot;Hasa&quot;},{&quot;id&quot;:&quot;m_163&quot;,&quot;text&quot;:&quot;Hase bikes&quot;},{&quot;id&quot;:&quot;m_164&quot;,&quot;text&quot;:&quot;Head&quot;},{&quot;id&quot;:&quot;m_166&quot;,&quot;text&quot;:&quot;Heinkel&quot;},{&quot;id&quot;:&quot;m_165&quot;,&quot;text&quot;:&quot;Helkama&quot;},{&quot;id&quot;:&quot;m_11&quot;,&quot;text&quot;:&quot;Hercules Fahrrad GmbH \u0026 Co&quot;},{&quot;id&quot;:&quot;m_995&quot;,&quot;text&quot;:&quot;Heritage&quot;},{&quot;id&quot;:&quot;m_1216&quot;,&quot;text&quot;:&quot;Herkelmann&quot;},{&quot;id&quot;:&quot;m_169&quot;,&quot;text&quot;:&quot;Hero Cycles Ltd&quot;},{&quot;id&quot;:&quot;m_1201&quot;,&quot;text&quot;:&quot;Heron&quot;},{&quot;id&quot;:&quot;m_171&quot;,&quot;text&quot;:&quot;Hetchins&quot;},{&quot;id&quot;:&quot;m_1155&quot;,&quot;text&quot;:&quot;Hija de la Coneja&quot;},{&quot;id&quot;:&quot;m_172&quot;,&quot;text&quot;:&quot;Hillman&quot;},{&quot;id&quot;:&quot;m_1377&quot;,&quot;text&quot;:&quot;Hinton Cycles&quot;},{&quot;id&quot;:&quot;m_1149&quot;,&quot;text&quot;:&quot;Hirschfeld&quot;},{&quot;id&quot;:&quot;m_951&quot;,&quot;text&quot;:&quot;Hoffman&quot;},{&quot;id&quot;:&quot;m_174&quot;,&quot;text&quot;:&quot;Holdsworth&quot;},{&quot;id&quot;:&quot;m_175&quot;,&quot;text&quot;:&quot;Huffy&quot;},{&quot;id&quot;:&quot;m_1173&quot;,&quot;text&quot;:&quot;Hufnagel&quot;},{&quot;id&quot;:&quot;m_176&quot;,&quot;text&quot;:&quot;Humber&quot;},{&quot;id&quot;:&quot;m_954&quot;,&quot;text&quot;:&quot;Humble Frameworks&quot;},{&quot;id&quot;:&quot;m_972&quot;,&quot;text&quot;:&quot;Hunter&quot;},{&quot;id&quot;:&quot;m_177&quot;,&quot;text&quot;:&quot;Hurtu&quot;},{&quot;id&quot;:&quot;m_1136&quot;,&quot;text&quot;:&quot;Hyper&quot;},{&quot;id&quot;:&quot;m_592&quot;,&quot;text&quot;:&quot;IBEX&quot;},{&quot;id&quot;:&quot;m_1109&quot;,&quot;text&quot;:&quot;ICE Trikes (Inspired Cycle Engineering )&quot;},{&quot;id&quot;:&quot;m_938&quot;,&quot;text&quot;:&quot;IRO Cycles&quot;},{&quot;id&quot;:&quot;m_1278&quot;,&quot;text&quot;:&quot;IZIP (Currietech)&quot;},{&quot;id&quot;:&quot;m_179&quot;,&quot;text&quot;:&quot;Ibis&quot;},{&quot;id&quot;:&quot;m_180&quot;,&quot;text&quot;:&quot;Ideal Bikes&quot;},{&quot;id&quot;:&quot;m_1070&quot;,&quot;text&quot;:&quot;Identiti&quot;},{&quot;id&quot;:&quot;m_184&quot;,&quot;text&quot;:&quot;Independent Fabrication&quot;},{&quot;id&quot;:&quot;m_182&quot;,&quot;text&quot;:&quot;Industrieverband Fahrzeugbau&quot;},{&quot;id&quot;:&quot;m_1352&quot;,&quot;text&quot;:&quot;Inglis (Retrotec)&quot;},{&quot;id&quot;:&quot;m_1184&quot;,&quot;text&quot;:&quot;Innerlight Cycles&quot;},{&quot;id&quot;:&quot;m_1405&quot;,&quot;text&quot;:&quot;Inspired&quot;},{&quot;id&quot;:&quot;m_600&quot;,&quot;text&quot;:&quot;Intense&quot;},{&quot;id&quot;:&quot;m_185&quot;,&quot;text&quot;:&quot;Iride Bicycles&quot;},{&quot;id&quot;:&quot;m_116&quot;,&quot;text&quot;:&quot;Iron Horse Bicycles&quot;},{&quot;id&quot;:&quot;m_1063&quot;,&quot;text&quot;:&quot;Islabikes&quot;},{&quot;id&quot;:&quot;m_186&quot;,&quot;text&quot;:&quot;Italvega&quot;},{&quot;id&quot;:&quot;m_187&quot;,&quot;text&quot;:&quot;Itera plastic bicycle&quot;},{&quot;id&quot;:&quot;m_188&quot;,&quot;text&quot;:&quot;Iver Johnson&quot;},{&quot;id&quot;:&quot;m_189&quot;,&quot;text&quot;:&quot;Iverson&quot;},{&quot;id&quot;:&quot;m_190&quot;,&quot;text&quot;:&quot;JMC Bicycles&quot;},{&quot;id&quot;:&quot;m_201&quot;,&quot;text&quot;:&quot;Jamis&quot;},{&quot;id&quot;:&quot;m_1123&quot;,&quot;text&quot;:&quot;Jan Jansen&quot;},{&quot;id&quot;:&quot;m_1194&quot;,&quot;text&quot;:&quot;Javelin&quot;},{&quot;id&quot;:&quot;m_1085&quot;,&quot;text&quot;:&quot;John Cherry bicycles&quot;},{&quot;id&quot;:&quot;m_998&quot;,&quot;text&quot;:&quot;John Deere &quot;},{&quot;id&quot;:&quot;m_1222&quot;,&quot;text&quot;:&quot;Jorg \u0026 Olif&quot;},{&quot;id&quot;:&quot;m_1406&quot;,&quot;text&quot;:&quot;Juiced Riders&quot;},{&quot;id&quot;:&quot;m_1241&quot;,&quot;text&quot;:&quot;Juliana Bicycles&quot;},{&quot;id&quot;:&quot;m_192&quot;,&quot;text&quot;:&quot;K2&quot;},{&quot;id&quot;:&quot;m_196&quot;,&quot;text&quot;:&quot;KHS Bicycles&quot;},{&quot;id&quot;:&quot;m_208&quot;,&quot;text&quot;:&quot;KTM&quot;},{&quot;id&quot;:&quot;m_1107&quot;,&quot;text&quot;:&quot;KW Bicycle&quot;},{&quot;id&quot;:&quot;m_977&quot;,&quot;text&quot;:&quot;Kalkhoff&quot;},{&quot;id&quot;:&quot;m_46&quot;,&quot;text&quot;:&quot;Keith Bontrager&quot;},{&quot;id&quot;:&quot;m_1116&quot;,&quot;text&quot;:&quot;Kellys Bicycles&quot;},{&quot;id&quot;:&quot;m_193&quot;,&quot;text&quot;:&quot;Kent&quot;},{&quot;id&quot;:&quot;m_194&quot;,&quot;text&quot;:&quot;Kestrel&quot;},{&quot;id&quot;:&quot;m_195&quot;,&quot;text&quot;:&quot;Kettler&quot;},{&quot;id&quot;:&quot;m_616&quot;,&quot;text&quot;:&quot;Kinesis&quot;},{&quot;id&quot;:&quot;m_198&quot;,&quot;text&quot;:&quot;Kinesis Industry&quot;},{&quot;id&quot;:&quot;m_358&quot;,&quot;text&quot;:&quot;Kink&quot;},{&quot;id&quot;:&quot;m_1403&quot;,&quot;text&quot;:&quot;Kinn&quot;},{&quot;id&quot;:&quot;m_1150&quot;,&quot;text&quot;:&quot;Kirk&quot;},{&quot;id&quot;:&quot;m_1029&quot;,&quot;text&quot;:&quot;Kish Fabrication&quot;},{&quot;id&quot;:&quot;m_325&quot;,&quot;text&quot;:&quot;Klein Bikes&quot;},{&quot;id&quot;:&quot;m_1213&quot;,&quot;text&quot;:&quot;Knolly&quot;},{&quot;id&quot;:&quot;m_20&quot;,&quot;text&quot;:&quot;Koga-Miyata&quot;},{&quot;id&quot;:&quot;m_205&quot;,&quot;text&quot;:&quot;Kogswell Cycles&quot;},{&quot;id&quot;:&quot;m_203&quot;,&quot;text&quot;:&quot;Kona&quot;},{&quot;id&quot;:&quot;m_1190&quot;,&quot;text&quot;:&quot;Kron&quot;},{&quot;id&quot;:&quot;m_206&quot;,&quot;text&quot;:&quot;Kronan&quot;},{&quot;id&quot;:&quot;m_207&quot;,&quot;text&quot;:&quot;Kross SA&quot;},{&quot;id&quot;:&quot;m_209&quot;,&quot;text&quot;:&quot;Kuota&quot;},{&quot;id&quot;:&quot;m_1140&quot;,&quot;text&quot;:&quot;Kustom Kruiser&quot;},{&quot;id&quot;:&quot;m_210&quot;,&quot;text&quot;:&quot;Kuwahara&quot;},{&quot;id&quot;:&quot;m_1230&quot;,&quot;text&quot;:&quot;LDG (Livery Design Gruppe)&quot;},{&quot;id&quot;:&quot;m_1026&quot;,&quot;text&quot;:&quot;LOW//&quot;},{&quot;id&quot;:&quot;m_1344&quot;,&quot;text&quot;:&quot;Land Shark&quot;},{&quot;id&quot;:&quot;m_929&quot;,&quot;text&quot;:&quot;Lapierre&quot;},{&quot;id&quot;:&quot;m_212&quot;,&quot;text&quot;:&quot;Laurin \u0026 Klement&quot;},{&quot;id&quot;:&quot;m_213&quot;,&quot;text&quot;:&quot;LeMond Racing Cycles&quot;},{&quot;id&quot;:&quot;m_933&quot;,&quot;text&quot;:&quot;Leader Bikes&quot;},{&quot;id&quot;:&quot;m_952&quot;,&quot;text&quot;:&quot;Legacy Frameworks&quot;},{&quot;id&quot;:&quot;m_1372&quot;,&quot;text&quot;:&quot;Leopard&quot;},{&quot;id&quot;:&quot;m_1035&quot;,&quot;text&quot;:&quot;Lightning Cycle Dynamics&quot;},{&quot;id&quot;:&quot;m_1111&quot;,&quot;text&quot;:&quot;Lightspeed&quot;},{&quot;id&quot;:&quot;m_950&quot;,&quot;text&quot;:&quot;Linus&quot;},{&quot;id&quot;:&quot;m_1261&quot;,&quot;text&quot;:&quot;Liotto (Cicli Liotto Gino \u0026 Figli)&quot;},{&quot;id&quot;:&quot;m_215&quot;,&quot;text&quot;:&quot;Litespeed&quot;},{&quot;id&quot;:&quot;m_1240&quot;,&quot;text&quot;:&quot;Liteville&quot;},{&quot;id&quot;:&quot;m_19&quot;,&quot;text&quot;:&quot;Loekie&quot;},{&quot;id&quot;:&quot;m_369&quot;,&quot;text&quot;:&quot;Look&quot;},{&quot;id&quot;:&quot;m_217&quot;,&quot;text&quot;:&quot;Lotus&quot;},{&quot;id&quot;:&quot;m_637&quot;,&quot;text&quot;:&quot;Louis Garneau&quot;},{&quot;id&quot;:&quot;m_216&quot;,&quot;text&quot;:&quot;Louison Bobet&quot;},{&quot;id&quot;:&quot;m_94&quot;,&quot;text&quot;:&quot;Lycoming Engines&quot;},{&quot;id&quot;:&quot;m_1088&quot;,&quot;text&quot;:&quot;Lynskey&quot;},{&quot;id&quot;:&quot;m_1301&quot;,&quot;text&quot;:&quot;MBK&quot;},{&quot;id&quot;:&quot;m_1157&quot;,&quot;text&quot;:&quot;MEC (Mountain Equipment Co-op)&quot;},{&quot;id&quot;:&quot;m_1264&quot;,&quot;text&quot;:&quot;MMR&quot;},{&quot;id&quot;:&quot;m_1117&quot;,&quot;text&quot;:&quot;Madsen&quot;},{&quot;id&quot;:&quot;m_1151&quot;,&quot;text&quot;:&quot;Madwagon&quot;},{&quot;id&quot;:&quot;m_122&quot;,&quot;text&quot;:&quot;Magna&quot;},{&quot;id&quot;:&quot;m_218&quot;,&quot;text&quot;:&quot;Malvern Star&quot;},{&quot;id&quot;:&quot;m_1092&quot;,&quot;text&quot;:&quot;ManKind&quot;},{&quot;id&quot;:&quot;m_1195&quot;,&quot;text&quot;:&quot;Mango&quot;},{&quot;id&quot;:&quot;m_969&quot;,&quot;text&quot;:&quot;Manhattan&quot;},{&quot;id&quot;:&quot;m_1290&quot;,&quot;text&quot;:&quot;Map Bicycles&quot;},{&quot;id&quot;:&quot;m_993&quot;,&quot;text&quot;:&quot;Maraton&quot;},{&quot;id&quot;:&quot;m_219&quot;,&quot;text&quot;:&quot;Marin Bikes&quot;},{&quot;id&quot;:&quot;m_1158&quot;,&quot;text&quot;:&quot;Marinoni&quot;},{&quot;id&quot;:&quot;m_1036&quot;,&quot;text&quot;:&quot;Maruishi&quot;},{&quot;id&quot;:&quot;m_1175&quot;,&quot;text&quot;:&quot;Marukin&quot;},{&quot;id&quot;:&quot;m_104&quot;,&quot;text&quot;:&quot;Masi&quot;},{&quot;id&quot;:&quot;m_220&quot;,&quot;text&quot;:&quot;Matchless&quot;},{&quot;id&quot;:&quot;m_221&quot;,&quot;text&quot;:&quot;Matra&quot;},{&quot;id&quot;:&quot;m_1159&quot;,&quot;text&quot;:&quot;Maverick&quot;},{&quot;id&quot;:&quot;m_222&quot;,&quot;text&quot;:&quot;Melon Bicycles&quot;},{&quot;id&quot;:&quot;m_223&quot;,&quot;text&quot;:&quot;Mercian Cycles&quot;},{&quot;id&quot;:&quot;m_931&quot;,&quot;text&quot;:&quot;Mercier&quot;},{&quot;id&quot;:&quot;m_65&quot;,&quot;text&quot;:&quot;Merida Bikes&quot;},{&quot;id&quot;:&quot;m_224&quot;,&quot;text&quot;:&quot;Merlin&quot;},{&quot;id&quot;:&quot;m_988&quot;,&quot;text&quot;:&quot;MetaBikes&quot;},{&quot;id&quot;:&quot;m_1364&quot;,&quot;text&quot;:&quot;Metrofiets&quot;},{&quot;id&quot;:&quot;m_167&quot;,&quot;text&quot;:&quot;Micajah C. Henley&quot;},{&quot;id&quot;:&quot;m_1165&quot;,&quot;text&quot;:&quot;Micargi&quot;},{&quot;id&quot;:&quot;m_226&quot;,&quot;text&quot;:&quot;Miele bicycles&quot;},{&quot;id&quot;:&quot;m_1187&quot;,&quot;text&quot;:&quot;Mikkelsen&quot;},{&quot;id&quot;:&quot;m_227&quot;,&quot;text&quot;:&quot;Milwaukee Bicycle Co.&quot;},{&quot;id&quot;:&quot;m_1012&quot;,&quot;text&quot;:&quot;MirraCo &quot;},{&quot;id&quot;:&quot;m_990&quot;,&quot;text&quot;:&quot;Mission Bicycles&quot;},{&quot;id&quot;:&quot;m_229&quot;,&quot;text&quot;:&quot;Miyata&quot;},{&quot;id&quot;:&quot;m_1166&quot;,&quot;text&quot;:&quot;Mizutani&quot;},{&quot;id&quot;:&quot;m_1387&quot;,&quot;text&quot;:&quot;Momentum&quot;},{&quot;id&quot;:&quot;m_87&quot;,&quot;text&quot;:&quot;Monark&quot;},{&quot;id&quot;:&quot;m_230&quot;,&quot;text&quot;:&quot;Mondia&quot;},{&quot;id&quot;:&quot;m_1263&quot;,&quot;text&quot;:&quot;Mondraker&quot;},{&quot;id&quot;:&quot;m_118&quot;,&quot;text&quot;:&quot;Mongoose&quot;},{&quot;id&quot;:&quot;m_656&quot;,&quot;text&quot;:&quot;Montague&quot;},{&quot;id&quot;:&quot;m_232&quot;,&quot;text&quot;:&quot;Moots Cycles&quot;},{&quot;id&quot;:&quot;m_1351&quot;,&quot;text&quot;:&quot;Mosaic&quot;},{&quot;id&quot;:&quot;m_233&quot;,&quot;text&quot;:&quot;Moser Cicli&quot;},{&quot;id&quot;:&quot;m_1284&quot;,&quot;text&quot;:&quot;Mosh&quot;},{&quot;id&quot;:&quot;m_1302&quot;,&quot;text&quot;:&quot;Mosso&quot;},{&quot;id&quot;:&quot;m_1349&quot;,&quot;text&quot;:&quot;Moth Attack&quot;},{&quot;id&quot;:&quot;m_984&quot;,&quot;text&quot;:&quot;Motiv&quot;},{&quot;id&quot;:&quot;m_234&quot;,&quot;text&quot;:&quot;Motobecane&quot;},{&quot;id&quot;:&quot;m_1050&quot;,&quot;text&quot;:&quot;Moulden&quot;},{&quot;id&quot;:&quot;m_235&quot;,&quot;text&quot;:&quot;Moulton Bicycle&quot;},{&quot;id&quot;:&quot;m_1283&quot;,&quot;text&quot;:&quot;Mountain Cycles&quot;},{&quot;id&quot;:&quot;m_237&quot;,&quot;text&quot;:&quot;Muddy Fox&quot;},{&quot;id&quot;:&quot;m_236&quot;,&quot;text&quot;:&quot;Murray&quot;},{&quot;id&quot;:&quot;m_1067&quot;,&quot;text&quot;:&quot;Mutiny&quot;},{&quot;id&quot;:&quot;m_1361&quot;,&quot;text&quot;:&quot;M\u00fcsing (Musing)&quot;},{&quot;id&quot;:&quot;m_1011&quot;,&quot;text&quot;:&quot;NS Bikes&quot;},{&quot;id&quot;:&quot;m_1285&quot;,&quot;text&quot;:&quot;Nakamura&quot;},{&quot;id&quot;:&quot;m_1250&quot;,&quot;text&quot;:&quot;Naked&quot;},{&quot;id&quot;:&quot;m_957&quot;,&quot;text&quot;:&quot;Nashbar&quot;},{&quot;id&quot;:&quot;m_238&quot;,&quot;text&quot;:&quot;National&quot;},{&quot;id&quot;:&quot;m_240&quot;,&quot;text&quot;:&quot;Neil Pryde&quot;},{&quot;id&quot;:&quot;m_241&quot;,&quot;text&quot;:&quot;Neobike&quot;},{&quot;id&quot;:&quot;m_1071&quot;,&quot;text&quot;:&quot;New Albion&quot;},{&quot;id&quot;:&quot;m_123&quot;,&quot;text&quot;:&quot;Next&quot;},{&quot;id&quot;:&quot;m_1022&quot;,&quot;text&quot;:&quot;Niner&quot;},{&quot;id&quot;:&quot;m_1176&quot;,&quot;text&quot;:&quot;Nirve&quot;},{&quot;id&quot;:&quot;m_243&quot;,&quot;text&quot;:&quot;Nishiki&quot;},{&quot;id&quot;:&quot;m_1408&quot;,&quot;text&quot;:&quot;Nomad Cargo&quot;},{&quot;id&quot;:&quot;m_244&quot;,&quot;text&quot;:&quot;Norco Bikes&quot;},{&quot;id&quot;:&quot;m_245&quot;,&quot;text&quot;:&quot;Norman Cycles&quot;},{&quot;id&quot;:&quot;m_1021&quot;,&quot;text&quot;:&quot;Northrock&quot;},{&quot;id&quot;:&quot;m_246&quot;,&quot;text&quot;:&quot;Novara&quot;},{&quot;id&quot;:&quot;m_1282&quot;,&quot;text&quot;:&quot;Nukeproof&quot;},{&quot;id&quot;:&quot;m_248&quot;,&quot;text&quot;:&quot;Nymanbolagen&quot;},{&quot;id&quot;:&quot;m_1262&quot;,&quot;text&quot;:&quot;OHM&quot;},{&quot;id&quot;:&quot;m_1211&quot;,&quot;text&quot;:&quot;Olmo&quot;},{&quot;id&quot;:&quot;m_1384&quot;,&quot;text&quot;:&quot;Omnium&quot;},{&quot;id&quot;:&quot;m_1226&quot;,&quot;text&quot;:&quot;On-One (On One)&quot;},{&quot;id&quot;:&quot;m_249&quot;,&quot;text&quot;:&quot;Opel&quot;},{&quot;id&quot;:&quot;m_1074&quot;,&quot;text&quot;:&quot;Opus&quot;},{&quot;id&quot;:&quot;m_250&quot;,&quot;text&quot;:&quot;Orange&quot;},{&quot;id&quot;:&quot;m_251&quot;,&quot;text&quot;:&quot;Orbea&quot;},{&quot;id&quot;:&quot;m_980&quot;,&quot;text&quot;:&quot;Orbit&quot;},{&quot;id&quot;:&quot;m_252&quot;,&quot;text&quot;:&quot;Orient Bikes&quot;},{&quot;id&quot;:&quot;m_948&quot;,&quot;text&quot;:&quot;Origin8 (Origin-8)&quot;},{&quot;id&quot;:&quot;m_100&quot;,&quot;text&quot;:&quot;Other&quot;},{&quot;id&quot;:&quot;m_1347&quot;,&quot;text&quot;:&quot;Otis Guy&quot;},{&quot;id&quot;:&quot;m_1033&quot;,&quot;text&quot;:&quot;Oyama&quot;},{&quot;id&quot;:&quot;m_974&quot;,&quot;text&quot;:&quot;PUBLIC bikes&quot;},{&quot;id&quot;:&quot;m_115&quot;,&quot;text&quot;:&quot;Pacific Cycle&quot;},{&quot;id&quot;:&quot;m_365&quot;,&quot;text&quot;:&quot;Pake&quot;},{&quot;id&quot;:&quot;m_239&quot;,&quot;text&quot;:&quot;Panasonic&quot;},{&quot;id&quot;:&quot;m_1147&quot;,&quot;text&quot;:&quot;Paper Bicycle&quot;},{&quot;id&quot;:&quot;m_1023&quot;,&quot;text&quot;:&quot;Parkpre&quot;},{&quot;id&quot;:&quot;m_700&quot;,&quot;text&quot;:&quot;Parlee&quot;},{&quot;id&quot;:&quot;m_256&quot;,&quot;text&quot;:&quot;Pashley Cycles&quot;},{&quot;id&quot;:&quot;m_257&quot;,&quot;text&quot;:&quot;Patria&quot;},{&quot;id&quot;:&quot;m_1114&quot;,&quot;text&quot;:&quot;Pedego&quot;},{&quot;id&quot;:&quot;m_258&quot;,&quot;text&quot;:&quot;Pedersen bicycle&quot;},{&quot;id&quot;:&quot;m_1404&quot;,&quot;text&quot;:&quot;Pegasus&quot;},{&quot;id&quot;:&quot;m_1142&quot;,&quot;text&quot;:&quot;Pegoretti&quot;},{&quot;id&quot;:&quot;m_1189&quot;,&quot;text&quot;:&quot;Pereira&quot;},{&quot;id&quot;:&quot;m_1061&quot;,&quot;text&quot;:&quot;Performance&quot;},{&quot;id&quot;:&quot;m_102&quot;,&quot;text&quot;:&quot;Peugeot&quot;},{&quot;id&quot;:&quot;m_1062&quot;,&quot;text&quot;:&quot;Phat Cycles&quot;},{&quot;id&quot;:&quot;m_260&quot;,&quot;text&quot;:&quot;Phillips Cycles&quot;},{&quot;id&quot;:&quot;m_261&quot;,&quot;text&quot;:&quot;Phoenix&quot;},{&quot;id&quot;:&quot;m_262&quot;,&quot;text&quot;:&quot;Pierce-Arrow&quot;},{&quot;id&quot;:&quot;m_1202&quot;,&quot;text&quot;:&quot;Pilen&quot;},{&quot;id&quot;:&quot;m_263&quot;,&quot;text&quot;:&quot;Pinarello&quot;},{&quot;id&quot;:&quot;m_1105&quot;,&quot;text&quot;:&quot;Pivot&quot;},{&quot;id&quot;:&quot;m_264&quot;,&quot;text&quot;:&quot;Planet X&quot;},{&quot;id&quot;:&quot;m_265&quot;,&quot;text&quot;:&quot;Pocket Bicycles&quot;},{&quot;id&quot;:&quot;m_266&quot;,&quot;text&quot;:&quot;Pogliaghi&quot;},{&quot;id&quot;:&quot;m_1104&quot;,&quot;text&quot;:&quot;Polygon&quot;},{&quot;id&quot;:&quot;m_267&quot;,&quot;text&quot;:&quot;Pope Manufacturing Company&quot;},{&quot;id&quot;:&quot;m_1141&quot;,&quot;text&quot;:&quot;Premium&quot;},{&quot;id&quot;:&quot;m_1375&quot;,&quot;text&quot;:&quot;Price&quot;},{&quot;id&quot;:&quot;m_1340&quot;,&quot;text&quot;:&quot;Primus Mootry (PM Cycle Fabrication)&quot;},{&quot;id&quot;:&quot;m_975&quot;,&quot;text&quot;:&quot;Principia&quot;},{&quot;id&quot;:&quot;m_1390&quot;,&quot;text&quot;:&quot;Priority Bicycles&quot;},{&quot;id&quot;:&quot;m_211&quot;,&quot;text&quot;:&quot;Private label&quot;},{&quot;id&quot;:&quot;m_269&quot;,&quot;text&quot;:&quot;Procycle Group&quot;},{&quot;id&quot;:&quot;m_1160&quot;,&quot;text&quot;:&quot;Prodeco&quot;},{&quot;id&quot;:&quot;m_272&quot;,&quot;text&quot;:&quot;Prophete&quot;},{&quot;id&quot;:&quot;m_88&quot;,&quot;text&quot;:&quot;Puch&quot;},{&quot;id&quot;:&quot;m_1394&quot;,&quot;text&quot;:&quot;Pure City&quot;},{&quot;id&quot;:&quot;m_947&quot;,&quot;text&quot;:&quot;Pure Fix&quot;},{&quot;id&quot;:&quot;m_1045&quot;,&quot;text&quot;:&quot;Python&quot;},{&quot;id&quot;:&quot;m_1298&quot;,&quot;text&quot;:&quot;Python Pro&quot;},{&quot;id&quot;:&quot;m_273&quot;,&quot;text&quot;:&quot;Quadrant Cycle Company&quot;},{&quot;id&quot;:&quot;m_275&quot;,&quot;text&quot;:&quot;Quintana Roo&quot;},{&quot;id&quot;:&quot;m_1001&quot;,&quot;text&quot;:&quot;RIH&quot;},{&quot;id&quot;:&quot;m_945&quot;,&quot;text&quot;:&quot;RRB (Rat Rod Bikes)&quot;},{&quot;id&quot;:&quot;m_1296&quot;,&quot;text&quot;:&quot;Rabeneick&quot;},{&quot;id&quot;:&quot;m_1388&quot;,&quot;text&quot;:&quot;Radio Bike Co&quot;},{&quot;id&quot;:&quot;m_276&quot;,&quot;text&quot;:&quot;Radio Flyer&quot;},{&quot;id&quot;:&quot;m_277&quot;,&quot;text&quot;:&quot;Raleigh&quot;},{&quot;id&quot;:&quot;m_997&quot;,&quot;text&quot;:&quot;Ram&quot;},{&quot;id&quot;:&quot;m_278&quot;,&quot;text&quot;:&quot;Rambler&quot;},{&quot;id&quot;:&quot;m_279&quot;,&quot;text&quot;:&quot;Rans Designs&quot;},{&quot;id&quot;:&quot;m_1078&quot;,&quot;text&quot;:&quot;Rawland Cycles&quot;},{&quot;id&quot;:&quot;m_280&quot;,&quot;text&quot;:&quot;Razor&quot;},{&quot;id&quot;:&quot;m_955&quot;,&quot;text&quot;:&quot;Redline&quot;},{&quot;id&quot;:&quot;m_1041&quot;,&quot;text&quot;:&quot;Redlof&quot;},{&quot;id&quot;:&quot;m_1076&quot;,&quot;text&quot;:&quot;Regina&quot;},{&quot;id&quot;:&quot;m_170&quot;,&quot;text&quot;:&quot;Ren\u00e9 Herse&quot;},{&quot;id&quot;:&quot;m_971&quot;,&quot;text&quot;:&quot;Republic&quot;},{&quot;id&quot;:&quot;m_254&quot;,&quot;text&quot;:&quot;Republic of China&quot;},{&quot;id&quot;:&quot;m_1180&quot;,&quot;text&quot;:&quot;Retrospec&quot;},{&quot;id&quot;:&quot;m_1046&quot;,&quot;text&quot;:&quot;Ribble&quot;},{&quot;id&quot;:&quot;m_281&quot;,&quot;text&quot;:&quot;Ridgeback&quot;},{&quot;id&quot;:&quot;m_749&quot;,&quot;text&quot;:&quot;Ridley&quot;},{&quot;id&quot;:&quot;m_283&quot;,&quot;text&quot;:&quot;Riese und M\u00fcller&quot;},{&quot;id&quot;:&quot;m_750&quot;,&quot;text&quot;:&quot;Ritchey&quot;},{&quot;id&quot;:&quot;m_1051&quot;,&quot;text&quot;:&quot;Ritte&quot;},{&quot;id&quot;:&quot;m_285&quot;,&quot;text&quot;:&quot;Rivendell Bicycle Works&quot;},{&quot;id&quot;:&quot;m_30&quot;,&quot;text&quot;:&quot;Roadmaster&quot;},{&quot;id&quot;:&quot;m_286&quot;,&quot;text&quot;:&quot;Roberts Cycles&quot;},{&quot;id&quot;:&quot;m_287&quot;,&quot;text&quot;:&quot;Robin Hood&quot;},{&quot;id&quot;:&quot;m_1135&quot;,&quot;text&quot;:&quot;Rock Lobster&quot;},{&quot;id&quot;:&quot;m_270&quot;,&quot;text&quot;:&quot;Rocky Mountain Bicycles&quot;},{&quot;id&quot;:&quot;m_1124&quot;,&quot;text&quot;:&quot;Rodriguez&quot;},{&quot;id&quot;:&quot;m_288&quot;,&quot;text&quot;:&quot;Ross&quot;},{&quot;id&quot;:&quot;m_1069&quot;,&quot;text&quot;:&quot;Rossin&quot;},{&quot;id&quot;:&quot;m_289&quot;,&quot;text&quot;:&quot;Rover Company&quot;},{&quot;id&quot;:&quot;m_290&quot;,&quot;text&quot;:&quot;Rowbike&quot;},{&quot;id&quot;:&quot;m_1000&quot;,&quot;text&quot;:&quot;Royce Union &quot;},{&quot;id&quot;:&quot;m_291&quot;,&quot;text&quot;:&quot;Rudge-Whitworth&quot;},{&quot;id&quot;:&quot;m_361&quot;,&quot;text&quot;:&quot;S and M (S\u0026M)&quot;},{&quot;id&quot;:&quot;m_296&quot;,&quot;text&quot;:&quot;SCOTT&quot;},{&quot;id&quot;:&quot;m_363&quot;,&quot;text&quot;:&quot;SE Bikes (SE Racing)&quot;},{&quot;id&quot;:&quot;m_764&quot;,&quot;text&quot;:&quot;Salsa&quot;},{&quot;id&quot;:&quot;m_292&quot;,&quot;text&quot;:&quot;Samchuly&quot;},{&quot;id&quot;:&quot;m_1186&quot;,&quot;text&quot;:&quot;Sancineto&quot;},{&quot;id&quot;:&quot;m_1038&quot;,&quot;text&quot;:&quot;Sanderson&quot;},{&quot;id&quot;:&quot;m_965&quot;,&quot;text&quot;:&quot;Santa Cruz&quot;},{&quot;id&quot;:&quot;m_293&quot;,&quot;text&quot;:&quot;Santana Cycles&quot;},{&quot;id&quot;:&quot;m_294&quot;,&quot;text&quot;:&quot;Saracen Cycles&quot;},{&quot;id&quot;:&quot;m_295&quot;,&quot;text&quot;:&quot;Scania AB&quot;},{&quot;id&quot;:&quot;m_942&quot;,&quot;text&quot;:&quot;Scattante&quot;},{&quot;id&quot;:&quot;m_1228&quot;,&quot;text&quot;:&quot;Schindelhauer&quot;},{&quot;id&quot;:&quot;m_117&quot;,&quot;text&quot;:&quot;Schwinn&quot;},{&quot;id&quot;:&quot;m_1027&quot;,&quot;text&quot;:&quot;Sears Roebuck&quot;},{&quot;id&quot;:&quot;m_1020&quot;,&quot;text&quot;:&quot;Season&quot;},{&quot;id&quot;:&quot;m_1143&quot;,&quot;text&quot;:&quot;Sekai&quot;},{&quot;id&quot;:&quot;m_1058&quot;,&quot;text&quot;:&quot;Sekine&quot;},{&quot;id&quot;:&quot;m_297&quot;,&quot;text&quot;:&quot;Serotta&quot;},{&quot;id&quot;:&quot;m_1297&quot;,&quot;text&quot;:&quot;Sette&quot;},{&quot;id&quot;:&quot;m_298&quot;,&quot;text&quot;:&quot;Seven Cycles&quot;},{&quot;id&quot;:&quot;m_845&quot;,&quot;text&quot;:&quot;Shadow Conspiracy&quot;},{&quot;id&quot;:&quot;m_299&quot;,&quot;text&quot;:&quot;Shelby Cycle Company&quot;},{&quot;id&quot;:&quot;m_1096&quot;,&quot;text&quot;:&quot;Shinola&quot;},{&quot;id&quot;:&quot;m_962&quot;,&quot;text&quot;:&quot;Shogun&quot;},{&quot;id&quot;:&quot;m_1010&quot;,&quot;text&quot;:&quot;Shredder&quot;},{&quot;id&quot;:&quot;m_1392&quot;,&quot;text&quot;:&quot;Simcoe&quot;},{&quot;id&quot;:&quot;m_1270&quot;,&quot;text&quot;:&quot;Simplon&quot;},{&quot;id&quot;:&quot;m_300&quot;,&quot;text&quot;:&quot;Simson&quot;},{&quot;id&quot;:&quot;m_301&quot;,&quot;text&quot;:&quot;Sinclair Research&quot;},{&quot;id&quot;:&quot;m_1353&quot;,&quot;text&quot;:&quot;Six-Eleven&quot;},{&quot;id&quot;:&quot;m_999&quot;,&quot;text&quot;:&quot;Skyway &quot;},{&quot;id&quot;:&quot;m_303&quot;,&quot;text&quot;:&quot;Sohrab Cycles&quot;},{&quot;id&quot;:&quot;m_305&quot;,&quot;text&quot;:&quot;Solex&quot;},{&quot;id&quot;:&quot;m_304&quot;,&quot;text&quot;:&quot;Sol\u00e9 (Sole bicycles)&quot;},{&quot;id&quot;:&quot;m_368&quot;,&quot;text&quot;:&quot;Soma&quot;},{&quot;id&quot;:&quot;m_306&quot;,&quot;text&quot;:&quot;Somec&quot;},{&quot;id&quot;:&quot;m_1411&quot;,&quot;text&quot;:&quot;Sondors&quot;},{&quot;id&quot;:&quot;m_1197&quot;,&quot;text&quot;:&quot;Sonoma&quot;},{&quot;id&quot;:&quot;m_1267&quot;,&quot;text&quot;:&quot;Soulcraft&quot;},{&quot;id&quot;:&quot;m_364&quot;,&quot;text&quot;:&quot;Spalding Bicycles&quot;},{&quot;id&quot;:&quot;m_21&quot;,&quot;text&quot;:&quot;Sparta B.V.&quot;},{&quot;id&quot;:&quot;m_307&quot;,&quot;text&quot;:&quot;Specialized&quot;},{&quot;id&quot;:&quot;m_1276&quot;,&quot;text&quot;:&quot;Spectrum&quot;},{&quot;id&quot;:&quot;m_308&quot;,&quot;text&quot;:&quot;Speedwell bicycles&quot;},{&quot;id&quot;:&quot;m_1207&quot;,&quot;text&quot;:&quot;Spicer&quot;},{&quot;id&quot;:&quot;m_953&quot;,&quot;text&quot;:&quot;Spooky&quot;},{&quot;id&quot;:&quot;m_1053&quot;,&quot;text&quot;:&quot;Spot&quot;},{&quot;id&quot;:&quot;m_1018&quot;,&quot;text&quot;:&quot;St. Tropez&quot;},{&quot;id&quot;:&quot;m_1360&quot;,&quot;text&quot;:&quot;Stages cycling (Power meters)&quot;},{&quot;id&quot;:&quot;m_12&quot;,&quot;text&quot;:&quot;Staiger&quot;},{&quot;id&quot;:&quot;m_1144&quot;,&quot;text&quot;:&quot;Standard Byke&quot;},{&quot;id&quot;:&quot;m_1154&quot;,&quot;text&quot;:&quot;Stanridge Speed&quot;},{&quot;id&quot;:&quot;m_961&quot;,&quot;text&quot;:&quot;State Bicycle Co.&quot;},{&quot;id&quot;:&quot;m_1357&quot;,&quot;text&quot;:&quot;Steelman Cycles&quot;},{&quot;id&quot;:&quot;m_979&quot;,&quot;text&quot;:&quot;Stein Trikes&quot;},{&quot;id&quot;:&quot;m_311&quot;,&quot;text&quot;:&quot;Stelber Cycle Corp&quot;},{&quot;id&quot;:&quot;m_312&quot;,&quot;text&quot;:&quot;Stella&quot;},{&quot;id&quot;:&quot;m_313&quot;,&quot;text&quot;:&quot;Sterling Bicycle Co.&quot;},{&quot;id&quot;:&quot;m_983&quot;,&quot;text&quot;:&quot;Steve Potts&quot;},{&quot;id&quot;:&quot;m_1108&quot;,&quot;text&quot;:&quot;Stevens&quot;},{&quot;id&quot;:&quot;m_1229&quot;,&quot;text&quot;:&quot;Stevenson Custom Bicycles&quot;},{&quot;id&quot;:&quot;m_960&quot;,&quot;text&quot;:&quot;Stoemper&quot;},{&quot;id&quot;:&quot;m_352&quot;,&quot;text&quot;:&quot;Stolen Bicycle Co.&quot;},{&quot;id&quot;:&quot;m_939&quot;,&quot;text&quot;:&quot;Strada Customs&quot;},{&quot;id&quot;:&quot;m_1210&quot;,&quot;text&quot;:&quot;Stradalli Cycles&quot;},{&quot;id&quot;:&quot;m_1382&quot;,&quot;text&quot;:&quot;Strawberry Bicycle&quot;},{&quot;id&quot;:&quot;m_314&quot;,&quot;text&quot;:&quot;Strida&quot;},{&quot;id&quot;:&quot;m_819&quot;,&quot;text&quot;:&quot;Strider&quot;},{&quot;id&quot;:&quot;m_1243&quot;,&quot;text&quot;:&quot;Stromer&quot;},{&quot;id&quot;:&quot;m_1177&quot;,&quot;text&quot;:&quot;Strong Frames&quot;},{&quot;id&quot;:&quot;m_1072&quot;,&quot;text&quot;:&quot;St\u00e5lh\u00e4sten&quot;},{&quot;id&quot;:&quot;m_821&quot;,&quot;text&quot;:&quot;Subrosa&quot;},{&quot;id&quot;:&quot;m_315&quot;,&quot;text&quot;:&quot;Sun&quot;},{&quot;id&quot;:&quot;m_825&quot;,&quot;text&quot;:&quot;SunRace&quot;},{&quot;id&quot;:&quot;m_355&quot;,&quot;text&quot;:&quot;Sunday&quot;},{&quot;id&quot;:&quot;m_1086&quot;,&quot;text&quot;:&quot;Sunn&quot;},{&quot;id&quot;:&quot;m_112&quot;,&quot;text&quot;:&quot;Surly&quot;},{&quot;id&quot;:&quot;m_1191&quot;,&quot;text&quot;:&quot;Surrey&quot;},{&quot;id&quot;:&quot;m_318&quot;,&quot;text&quot;:&quot;Suzuki&quot;},{&quot;id&quot;:&quot;m_1252&quot;,&quot;text&quot;:&quot;Sweatpea Bicycles&quot;},{&quot;id&quot;:&quot;m_1275&quot;,&quot;text&quot;:&quot;Swingset&quot;},{&quot;id&quot;:&quot;m_963&quot;,&quot;text&quot;:&quot;Swobo&quot;},{&quot;id&quot;:&quot;m_1234&quot;,&quot;text&quot;:&quot;SyCip&quot;},{&quot;id&quot;:&quot;m_1232&quot;,&quot;text&quot;:&quot;TET Cycles (Tom Teesdale Bikes)&quot;},{&quot;id&quot;:&quot;m_323&quot;,&quot;text&quot;:&quot;TI Cycles of India&quot;},{&quot;id&quot;:&quot;m_949&quot;,&quot;text&quot;:&quot;Takara&quot;},{&quot;id&quot;:&quot;m_1037&quot;,&quot;text&quot;:&quot;Talisman&quot;},{&quot;id&quot;:&quot;m_1209&quot;,&quot;text&quot;:&quot;Tati Cycles&quot;},{&quot;id&quot;:&quot;m_1294&quot;,&quot;text&quot;:&quot;Taylor Bicycles (Paul Taylor)&quot;},{&quot;id&quot;:&quot;m_976&quot;,&quot;text&quot;:&quot;Tern&quot;},{&quot;id&quot;:&quot;m_1306&quot;,&quot;text&quot;:&quot;Terra Trike&quot;},{&quot;id&quot;:&quot;m_1299&quot;,&quot;text&quot;:&quot;Terrible One&quot;},{&quot;id&quot;:&quot;m_319&quot;,&quot;text&quot;:&quot;Terrot&quot;},{&quot;id&quot;:&quot;m_841&quot;,&quot;text&quot;:&quot;Terry&quot;},{&quot;id&quot;:&quot;m_37&quot;,&quot;text&quot;:&quot;The Arthur Pequegnat Clock Company&quot;},{&quot;id&quot;:&quot;m_1080&quot;,&quot;text&quot;:&quot;The Bicycle Forge&quot;},{&quot;id&quot;:&quot;m_321&quot;,&quot;text&quot;:&quot;Thorn Cycles&quot;},{&quot;id&quot;:&quot;m_1386&quot;,&quot;text&quot;:&quot;Throne Cycles&quot;},{&quot;id&quot;:&quot;m_1161&quot;,&quot;text&quot;:&quot;Thruster&quot;},{&quot;id&quot;:&quot;m_848&quot;,&quot;text&quot;:&quot;Thule&quot;},{&quot;id&quot;:&quot;m_985&quot;,&quot;text&quot;:&quot;Ti Cycles&quot;},{&quot;id&quot;:&quot;m_850&quot;,&quot;text&quot;:&quot;Time&quot;},{&quot;id&quot;:&quot;m_991&quot;,&quot;text&quot;:&quot;Titan&quot;},{&quot;id&quot;:&quot;m_1043&quot;,&quot;text&quot;:&quot;Titus&quot;},{&quot;id&quot;:&quot;m_1380&quot;,&quot;text&quot;:&quot;Tomac&quot;},{&quot;id&quot;:&quot;m_1162&quot;,&quot;text&quot;:&quot;Tommasini&quot;},{&quot;id&quot;:&quot;m_970&quot;,&quot;text&quot;:&quot;Tommaso&quot;},{&quot;id&quot;:&quot;m_1164&quot;,&quot;text&quot;:&quot;Tony Hawk&quot;},{&quot;id&quot;:&quot;m_1145&quot;,&quot;text&quot;:&quot;Torelli&quot;},{&quot;id&quot;:&quot;m_324&quot;,&quot;text&quot;:&quot;Torker&quot;},{&quot;id&quot;:&quot;m_1163&quot;,&quot;text&quot;:&quot;Tour de France&quot;},{&quot;id&quot;:&quot;m_1342&quot;,&quot;text&quot;:&quot;Toyo&quot;},{&quot;id&quot;:&quot;m_1271&quot;,&quot;text&quot;:&quot;Traitor&quot;},{&quot;id&quot;:&quot;m_1019&quot;,&quot;text&quot;:&quot;Transition Bikes&quot;},{&quot;id&quot;:&quot;m_1400&quot;,&quot;text&quot;:&quot;Trayl&quot;},{&quot;id&quot;:&quot;m_47&quot;,&quot;text&quot;:&quot;Trek&quot;},{&quot;id&quot;:&quot;m_1393&quot;,&quot;text&quot;:&quot;Tribe Bicycle Co&quot;},{&quot;id&quot;:&quot;m_1287&quot;,&quot;text&quot;:&quot;Trinx&quot;},{&quot;id&quot;:&quot;m_326&quot;,&quot;text&quot;:&quot;Triumph Cycle&quot;},{&quot;id&quot;:&quot;m_14&quot;,&quot;text&quot;:&quot;Tunturi&quot;},{&quot;id&quot;:&quot;m_1341&quot;,&quot;text&quot;:&quot;Turin&quot;},{&quot;id&quot;:&quot;m_328&quot;,&quot;text&quot;:&quot;Turner Bicycles&quot;},{&quot;id&quot;:&quot;m_1004&quot;,&quot;text&quot;:&quot;Umberto Dei&quot;},{&quot;id&quot;:&quot;m_329&quot;,&quot;text&quot;:&quot;Univega&quot;},{&quot;id&quot;:&quot;m_877&quot;,&quot;text&quot;:&quot;Unknown&quot;},{&quot;id&quot;:&quot;m_1198&quot;,&quot;text&quot;:&quot;Upland&quot;},{&quot;id&quot;:&quot;m_330&quot;,&quot;text&quot;:&quot;Urago&quot;},{&quot;id&quot;:&quot;m_331&quot;,&quot;text&quot;:&quot;Utopia&quot;},{&quot;id&quot;:&quot;m_1248&quot;,&quot;text&quot;:&quot;VSF Fahrradmanufaktur&quot;},{&quot;id&quot;:&quot;m_332&quot;,&quot;text&quot;:&quot;Valdora&quot;},{&quot;id&quot;:&quot;m_1272&quot;,&quot;text&quot;:&quot;Van Dessel&quot;},{&quot;id&quot;:&quot;m_1047&quot;,&quot;text&quot;:&quot;Van Herwerden&quot;},{&quot;id&quot;:&quot;m_1251&quot;,&quot;text&quot;:&quot;Vanilla&quot;},{&quot;id&quot;:&quot;m_1231&quot;,&quot;text&quot;:&quot;Vanmoof&quot;},{&quot;id&quot;:&quot;m_1055&quot;,&quot;text&quot;:&quot;Vassago&quot;},{&quot;id&quot;:&quot;m_882&quot;,&quot;text&quot;:&quot;Velo Orange&quot;},{&quot;id&quot;:&quot;m_335&quot;,&quot;text&quot;:&quot;Velo Vie&quot;},{&quot;id&quot;:&quot;m_333&quot;,&quot;text&quot;:&quot;Velomotors&quot;},{&quot;id&quot;:&quot;m_982&quot;,&quot;text&quot;:&quot;Velorbis&quot;},{&quot;id&quot;:&quot;m_968&quot;,&quot;text&quot;:&quot;Verde&quot;},{&quot;id&quot;:&quot;m_981&quot;,&quot;text&quot;:&quot;Vilano&quot;},{&quot;id&quot;:&quot;m_337&quot;,&quot;text&quot;:&quot;Villy Customs&quot;},{&quot;id&quot;:&quot;m_338&quot;,&quot;text&quot;:&quot;Vindec High Riser&quot;},{&quot;id&quot;:&quot;m_956&quot;,&quot;text&quot;:&quot;Virtue&quot;},{&quot;id&quot;:&quot;m_1082&quot;,&quot;text&quot;:&quot;Viscount&quot;},{&quot;id&quot;:&quot;m_888&quot;,&quot;text&quot;:&quot;Vision&quot;},{&quot;id&quot;:&quot;m_339&quot;,&quot;text&quot;:&quot;Vitus&quot;},{&quot;id&quot;:&quot;m_1188&quot;,&quot;text&quot;:&quot;Viva&quot;},{&quot;id&quot;:&quot;m_1192&quot;,&quot;text&quot;:&quot;Vivente&quot;},{&quot;id&quot;:&quot;m_1249&quot;,&quot;text&quot;:&quot;Volae&quot;},{&quot;id&quot;:&quot;m_1106&quot;,&quot;text&quot;:&quot;Volagi&quot;},{&quot;id&quot;:&quot;m_890&quot;,&quot;text&quot;:&quot;Volume&quot;},{&quot;id&quot;:&quot;m_1089&quot;,&quot;text&quot;:&quot;Voodoo&quot;},{&quot;id&quot;:&quot;m_1075&quot;,&quot;text&quot;:&quot;Vortrieb&quot;},{&quot;id&quot;:&quot;m_334&quot;,&quot;text&quot;:&quot;V\u00e9loSoleX&quot;},{&quot;id&quot;:&quot;m_996&quot;,&quot;text&quot;:&quot;Wabi Cycles&quot;},{&quot;id&quot;:&quot;m_341&quot;,&quot;text&quot;:&quot;Waterford&quot;},{&quot;id&quot;:&quot;m_342&quot;,&quot;text&quot;:&quot;WeThePeople&quot;},{&quot;id&quot;:&quot;m_1039&quot;,&quot;text&quot;:&quot;WeeRide&quot;},{&quot;id&quot;:&quot;m_1118&quot;,&quot;text&quot;:&quot;Weehoo&quot;},{&quot;id&quot;:&quot;m_343&quot;,&quot;text&quot;:&quot;Wilderness Trail Bikes&quot;},{&quot;id&quot;:&quot;m_344&quot;,&quot;text&quot;:&quot;Wilier Triestina&quot;},{&quot;id&quot;:&quot;m_946&quot;,&quot;text&quot;:&quot;Windsor&quot;},{&quot;id&quot;:&quot;m_932&quot;,&quot;text&quot;:&quot;Winora&quot;},{&quot;id&quot;:&quot;m_1052&quot;,&quot;text&quot;:&quot;Winter Bicycles&quot;},{&quot;id&quot;:&quot;m_345&quot;,&quot;text&quot;:&quot;Witcomb Cycles&quot;},{&quot;id&quot;:&quot;m_1254&quot;,&quot;text&quot;:&quot;WordLock&quot;},{&quot;id&quot;:&quot;m_987&quot;,&quot;text&quot;:&quot;WorkCycles&quot;},{&quot;id&quot;:&quot;m_346&quot;,&quot;text&quot;:&quot;Worksman Cycles&quot;},{&quot;id&quot;:&quot;m_347&quot;,&quot;text&quot;:&quot;Wright Cycle Company&quot;},{&quot;id&quot;:&quot;m_1077&quot;,&quot;text&quot;:&quot;X-Treme&quot;},{&quot;id&quot;:&quot;m_1343&quot;,&quot;text&quot;:&quot;Xds&quot;},{&quot;id&quot;:&quot;m_348&quot;,&quot;text&quot;:&quot;Xootr&quot;},{&quot;id&quot;:&quot;m_1007&quot;,&quot;text&quot;:&quot;Xtracycle&quot;},{&quot;id&quot;:&quot;m_349&quot;,&quot;text&quot;:&quot;Yamaguchi Bicycles&quot;},{&quot;id&quot;:&quot;m_350&quot;,&quot;text&quot;:&quot;Yamaha&quot;},{&quot;id&quot;:&quot;m_1091&quot;,&quot;text&quot;:&quot;Yeti&quot;},{&quot;id&quot;:&quot;m_1003&quot;,&quot;text&quot;:&quot;Yuba&quot;},{&quot;id&quot;:&quot;m_351&quot;,&quot;text&quot;:&quot;Zigo&quot;},{&quot;id&quot;:&quot;m_1215&quot;,&quot;text&quot;:&quot;Zinn Cycles&quot;},{&quot;id&quot;:&quot;m_1182&quot;,&quot;text&quot;:&quot;Zycle Fix&quot;},{&quot;id&quot;:&quot;m_1073&quot;,&quot;text&quot;:&quot;b'Twin&quot;},{&quot;id&quot;:&quot;m_1368&quot;,&quot;text&quot;:&quot;beixo&quot;},{&quot;id&quot;:&quot;m_1122&quot;,&quot;text&quot;:&quot;de Fietsfabriek &quot;},{&quot;id&quot;:&quot;m_1119&quot;,&quot;text&quot;:&quot;di Florino&quot;},{&quot;id&quot;:&quot;m_1170&quot;,&quot;text&quot;:&quot;eZip&quot;},{&quot;id&quot;:&quot;m_1280&quot;,&quot;text&quot;:&quot;eflow (Currietech)&quot;},{&quot;id&quot;:&quot;m_1006&quot;,&quot;text&quot;:&quot;sixthreezero&quot;},{&quot;id&quot;:&quot;m_1121&quot;,&quot;text&quot;:&quot;van Andel/Bakfiets&quot;}]" id="header-search-select"></span>
-<div class="search-fields" data-selected="&quot;&quot;" id="header-search">
-<span class="search-background"></span>
-<div class="sfieldr">
-<div class="select2-container select2-container-multi search-text-field" id="s2id_query"><ul class="select2-choices">  <li class="select2-search-field">    <label for="s2id_autogen1" class="select2-offscreen"></label>    <input type="text" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" class="select2-input select2-default" id="s2id_autogen1" placeholder="" style="width: 1306px;">  </li></ul><div class="select2-drop select2-drop-multi select2-display-none mainsrchdr">   <ul class="select2-results">   </ul></div></div><input class="search-text-field" id="query" name="query" placeholder="Search bike traits or serials" type="text" tabindex="-1" style="display: none;">
-<button class="searchit" type="submit"><img alt="Search" src="/assets/stolen/search.svg">
-</button></div>
-<input id="serial" name="serial" type="hidden">
-<div class="optional-fields">
  
  
  
  
  
- 
- 
- 
- 
- 
- 
-<div class="proximity" id="stolen-proximity">
-<input id="proximity" name="proximity" placeholder="Location to prioritize" type="text">
-<span>
-area thefts first
-</span>
+<div class="primary-alert-block">
 </div>
-</div>
-</div>
-</form>
-</div>
-</div>
-</div>
-</header>
-<section class="content">
-<div class="receptacle">
-<div class="inner-recep legal-content" id="legal-terms">
+<script id="alert-template" type="x-tmpl-mustache">
+  <div class="alert alert-{{alert_type}} in" data-seconds="{{seconds}}">
+    <button aria-label="Close" class="close" data-dismiss="alert" type="button">
+      <span aria-hidden="true">&times;</span>
+    </button>
+    {{alert_body}}
+  </div>
+</script>
+<div id="legal-terms" class="inner-recep legal-content">
 <header>
 <h1>
 <a name="privacy-policy" class="anchor" href="#privacy-policy"><span class="mini-icon mini-icon-link"></span></a>
@@ -272,60 +163,102 @@ Questions
 </h2>
 <p>Any questions about this Privacy Policy should be addressed to <a href="mailto:contact@bikeindex.org">contact@bikeindex.org</a> or by mail at: Bike Index, 2845 W Palmer St, Chicago, IL 60647</p>
 </div>
+<footer class="primary-footer">
+<div class="primary-footer-nav">
+<div class="container">
+<div class="row">
+<nav class="col-md-3 pull-right">
+<h4>
+<a href="/support_the_index" class="" id="">Donate to the Bike Index</a>
+</h4>
+<ul>
+<li>
+<a href="/shop" class="" id="">Store</a>
+</li>
+</ul>
+</nav>
+<nav class="col-md-3 pull-right">
+<h4>
+<a href="/help" class="" id="">Help</a>
+</h4>
+<ul>
+<li>
+<a href="/organizations/new" class="" id="">Sign up a shop or organization</a>
+</li>
+<li>
+<a href="/manufacturers" class="" id="">List of manufacturers</a>
+</li>
+</ul>
+</nav>
+<nav class="col-md-3 pull-right">
+<h4>
+<a href="/dev_and_design" class="" id="">Dev and Design Resources</a>
+</h4>
+<ul>
+<li>
+<a href="/documentation" class="" id="">API documentation</a>
+</li>
+</ul>
+</nav>
+<nav class="col-md-3 social-nav">
+<ul>
+<li>
+<a alt="Bike Index Facebook" class="footer-facebook" href="https://facebook.com/bikeindex">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.09 40.09">
+<g>
+<path class="svgpath" d="M2987.81,2564.42a20,20,0,1,1,20-20A20.07,20.07,0,0,1,2987.81,2564.42Zm0-38.57a18.52,18.52,0,1,0,18.52,18.52A18.54,18.54,0,0,0,2987.81,2525.85Z" transform="translate(-2967.76 -2524.33)"></path>
+<path class="svgpath" d="M2997,2552.31a1,1,0,0,1-1,1h-4.75v-7.22h2.42l0.36-2.81h-2.79v-1.8a1.17,1.17,0,0,1,1.39-1.37h1.49v-2.52a19.91,19.91,0,0,0-2.17-.11,3.39,3.39,0,0,0-3.62,3.72v2.08h-2.43v2.81h2.43v7.22h-8.93a1,1,0,0,1-1-1v-16.59a1,1,0,0,1,1-1H2996a1,1,0,0,1,1,1v16.59Z" transform="translate(-2967.76 -2524.33)"></path>
+</g>
+</svg>
+</a>
+</li>
+<li>
+<a alt="Bike Index Twitter" href="https://twitter.com/BikeIndex">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.09 40.09">
+<g>
+<path class="svgpath" d="M2806.61,2590.64a7.69,7.69,0,0,1-2.48,1,3.85,3.85,0,0,0-2.85-1.26,4,4,0,0,0-3.9,4,4.08,4.08,0,0,0,.1.91,11,11,0,0,1-8-4.18,4.07,4.07,0,0,0-.53,2,4,4,0,0,0,1.74,3.33,3.83,3.83,0,0,1-1.77-.5v0a4,4,0,0,0,3.13,3.92,3.72,3.72,0,0,1-1,.14,3.79,3.79,0,0,1-.73-0.07,3.92,3.92,0,0,0,3.65,2.78,7.71,7.71,0,0,1-4.85,1.71,7.81,7.81,0,0,1-.93-0.05,10.87,10.87,0,0,0,6,1.8c7.18,0,11.1-6.1,11.1-11.39,0-.17,0-0.35,0-0.52a8,8,0,0,0,1.95-2.07,7.62,7.62,0,0,1-2.24.63A4,4,0,0,0,2806.61,2590.64Z" transform="translate(-2777.81 -2578.33)"></path>
+<path class="svgpath" d="M2797.85,2618.42a20,20,0,1,1,20-20A20.07,20.07,0,0,1,2797.85,2618.42Zm0-38.57a18.52,18.52,0,1,0,18.52,18.52A18.54,18.54,0,0,0,2797.85,2579.85Z" transform="translate(-2777.81 -2578.33)"></path>
+</g>
+</svg>
+</a>
+</li>
+<li>
+<a alt="Bike Index Instagram" href="https://instagram.com/bikeindex">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.09 40.09">
+<g>
+<path class="svgpath" d="M2868.16,2589H2854a2.21,2.21,0,0,0-2.21,2.21v14.2a2.21,2.21,0,0,0,2.21,2.21h14.19a2.21,2.21,0,0,0,2.21-2.21v-14.2A2.21,2.21,0,0,0,2868.16,2589Zm-3,2.91a0.58,0.58,0,0,1,.58-0.58h1.75a0.58,0.58,0,0,1,.58.58v1.75a0.58,0.58,0,0,1-.58.58h-1.75a0.58,0.58,0,0,1-.58-0.58v-1.75Zm-4.05,2.85a3.57,3.57,0,1,1-3.58,3.57A3.58,3.58,0,0,1,2861.09,2594.78Zm7.54,10.53a0.58,0.58,0,0,1-.58.58h-14a0.58,0.58,0,0,1-.58-0.58v-8.73h2.33a3.55,3.55,0,0,0-.41,1.77,5.66,5.66,0,0,0,11.33,0,3,3,0,0,0-.45-1.77h2.33v8.73Z" transform="translate(-2840.54 -2578.33)"></path>
+<path class="svgpath" d="M2860.58,2618.42a20,20,0,1,1,20-20A20.07,20.07,0,0,1,2860.58,2618.42Zm0-38.57a18.52,18.52,0,1,0,18.52,18.52A18.54,18.54,0,0,0,2860.58,2579.85Z" transform="translate(-2840.54 -2578.33)"></path>
+</g>
+</svg>
+</a>
+</li>
+</ul>
+</nav>
 </div>
-</section>
-<footer class="global-footer" id="page-foot">
-<div class="receptacle">
-<ul class="footer-links">
-<li>
-<a href="https://bikeindex.org/choose_registration">Register a bike</a>
-<ul>
-<li>
-<a href="https://bikeindex.org/where">Bike Index partner organizations</a>
-</li>
-<li>
-<a href="https://bikeindex.org/resources">Bike Index resources</a>
-</li>
-</ul>
-</li>
-<li>
-<a href="https://bikeindex.org/about">About the Bike Index</a>
-<ul>
-<li>
-<a href="https://bikeindex.org/news">Bike Index news</a>
-</li>
-<li>
-<a href="https://bikeindex.org/manufacturers">List of manufacturers</a>
-</li>
-</ul>
-</li>
-<li class="contact-nav-btns">
-<a href="https://bikeindex.org/help">Help</a>
-<ul>
-<li>
-<a href="https://bikeindex.org/contact_us">Contact us</a>
-<a href="https://bikeindex.org/vendor_signup">Sign up a shop or organization</a>
-</li>
-</ul>
-</li>
-<li class="social">
-<ul>
-<li>
-<a href="https://facebook.com/bikeindex"><img alt="Bike Index Facebook" src="/assets/facebook.svg"></a>
-</li>
-<li>
-<a href="https://twitter.com/BikeIndex"><img alt="Bike Index Twitter" src="/assets/twitter.svg"></a>
-</li>
-</ul>
-</li>
-</ul>
+</div>
+</div>
+<nav class="terms-and-stuff">
+<div class="container">
 <p>
 <span data-license="https://github.com/bikeindex/bike_index/blob/master/LICENSE">
-2015 © Bike Index.
+2016 © Bike Index.
 </span>
-<a href="https://bikeindex.org/privacy">Privacy policy</a>
-and <a href="https://bikeindex.org/terms">terms and conditions</a>.
+<a href="/privacy">Privacy policy</a>
+and <a href="/terms">terms and conditions</a>.
 </p>
 </div>
+</nav>
 </footer>
-<span role="status" aria-live="polite" class="select2-hidden-accessible"></span></body></html>
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '199066297131941');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=199066297131941&ev=PageView&noscript=1"/></noscript>
+
+
+</body></html>
