@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tv-tube.tv privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504042329id_/http%3A//www.tv-tube.net/informations/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tv-tube.tv privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508132158id_/http%3A//www.tv-tube.org/informations/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | TvTube - TV channels on the Internet, live or video clips, free on any device, anywhere
+# Privacy policy | TvTube - TV channels on the Internet, live or video clips, on any device, anywhere
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by our [contact form](http://www.tv-tube.net/informations/contact). 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by our [contact form](http://www.tv-tube.org/informations/contact). 
 
 At TvTube, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information that is received and collected by TvTube and how it is used. 
 
