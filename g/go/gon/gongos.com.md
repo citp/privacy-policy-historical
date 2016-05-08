@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gongos.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230215521id_/http%3A//gongos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gongos.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508224119id_/http%3A//gongos.com/privacy-policy) for the most accurate reproduction.*
 
 # Gongos - Privacy Policy
 
