@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fdrlab.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217203317id_/http%3A//www.fdrlab.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fdrlab.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508134035id_/http%3A//www.fdrlab.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - FDRLab Data Recovery Centre
 
