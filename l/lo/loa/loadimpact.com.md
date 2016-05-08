@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the loadimpact.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912090914id_/https%3A//loadimpact.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loadimpact.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509000651id_/https%3A//loadimpact.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Load Impact
+# Privacy | Load Impact
 
 **OVERVIEW**  
 This Privacy Policy explains how Load Impact collects, uses and shares your “Personal Information” – information that identifies, relates to, describes or is capable of being associated with you as a particular individual, such as your name, address, email address or telephone number – and other data through your use of any of Load Impact’s websites, services or application programming interfaces (APIs). 
