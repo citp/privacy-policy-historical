@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eugeniekitchen.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122002332id_/http%3A//eugeniekitchen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eugeniekitchen.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508121425id_/http%3A//eugeniekitchen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Eugenie Kitchen
 
@@ -14,21 +14,21 @@ Eugeniekitchen.com uses cookies to store information about visitors’ preferenc
 
 **DoubleClick DART Cookie**
 
-\- Google, as a third party vendor, uses cookies to serve ads on eugeniekitchen.com.  
-\- Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to eugeniekitchen.com and other sites on the Internet.  
-\- Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+– Google, as a third party vendor, uses cookies to serve ads on eugeniekitchen.com.  
+– Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to eugeniekitchen.com and other sites on the Internet.  
+– Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
 **Our Advertising Partners**
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google, Amazon, and Blogherads  
-While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here: [Google Privacy](http://www.google.com/policies/privacy/), [Amazon Privacy](http://www.amazon.com/gp/help/customer/display.html?nodeId=468496), and [Blogher Privacy](http://www.blogher.com/privacy-policy).  
+While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here: [Google Privacy](http://www.google.com/policies/privacy/), [Amazon Privacy](http://www.amazon.com/gp/help/customer/display.html?nodeId=468496), [Sovrn Privacy](http://www.sovrn.com/privacy-policy/), and [Blogher Privacy](http://www.blogher.com/privacy-policy).  
 You may consult this listing to find the privacy policy for each of the advertising partners of eugeniekitchen.com.  
 These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on eugeniekitchen.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.  
 eugeniekitchen.com has no access to or control over these cookies that are used by third-party advertisers.
 
 **Third Party Privacy Policies**
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. eugeniekitchen.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Google Privacy](http://www.google.com/policies/privacy/), [Amazon Privacy](http://www.amazon.com/gp/help/customer/display.html?nodeId=468496), and [Blogher Privacy](http://www.blogher.com/privacy-policy).  
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. eugeniekitchen.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Google Privacy](http://www.google.com/policies/privacy/), [Amazon Privacy](http://www.amazon.com/gp/help/customer/display.html?nodeId=468496), [Sovrn Privacy](http://www.sovrn.com/privacy-policy/), and [Blogher Privacy](http://www.blogher.com/privacy-policy).  
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. [What Are Cookies](http://www.privacypolicyonline.com/what-are-cookies/)?
 
 **Children’s Information**
@@ -49,74 +49,6 @@ Privacy Policy Online Approved Site
 This Privacy Policy was last updated on: Wednesday, September 17th, 2014.  
 Should we update, amend or make any changes to our privacy policy, those changes will be posted here.
 
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.
-
-.  
-.  
-.  
-.  
-.  
-.
-
-.  
-.  
-.  
-.  
-.  
-.
-
-.  
-.  
-.  
-.  
-.  
 .  
 .  
 .  
