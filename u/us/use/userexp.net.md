@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the userexp.net privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107073532id_/http%3A//www3.userexp.net/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the userexp.net privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508113940id_/http%3A//userexp.net/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
