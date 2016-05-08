@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chicgalleria.com privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017045314id_/http%3A//chicgalleria.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicgalleria.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508224717id_/http%3A//chicgalleria.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy ⋆ Chic Galleria
 
-Your online privacy is very important to us, and therefore the uses of your personal information on Chic Galleria are disclosed here. Your use of this website is based on the assumption of your acceptance of how Chic Galleria  operates, as indicated in this Privacy Policy. Here is a list of what information is collected about you when you visit this site.
+Your online privacy is very important to us, and, therefore, the uses of your personal information on Chic Galleria are disclosed here. Your use of this website is based on the assumption of your acceptance of how Chic Galleria  operates, as indicated in this Privacy Policy. Here is a list of what information is collected about you when you visit this site.
 
 ### **Logs**
 
@@ -14,7 +14,7 @@ When you sign up to receive Chic Galleria by email through [Feedburner](http://f
 
 ### **Cookies**
 
-Cookies are parcels of data containing information about your web usage that are stored on your computer. Chic Galleria uses cookies to remember who you are if you’ve left a comment here before, and also to track statistics such as if you have answered a specific poll question yet or not. Chic Galleria does, however, allow third-party advertisers like Skimlinks to set and access their cookies on your computer. Chic Galleria does not have control over cookies sent and accessed by third-party sites, and each advertiser’s unique privacy policy applies to their use. If you wish to block cookies, you can do so using your browser’s privacy settings. You can also use your browser’s privacy settings to delete cookies at any time.
+Cookies are parcels of data containing information about your web usage that is stored on your computer. Chic Galleria uses cookies to remember who you are if you’ve left a comment here before, and also to track statistics such as if you have answered a specific poll question yet or not. Chic Galleria does, however, allow third-party advertisers to set and access their cookies on your computer. Chic Galleria does not have control over cookies sent and accessed by third-party sites, and each advertiser’s unique privacy policy applies to their use. If you wish to block cookies, you can do so using your browser’s privacy settings. You can also use your browser’s privacy settings to delete cookies at any time.
 
 ### **Data for Advertising**
 
@@ -22,8 +22,8 @@ We use third-party advertising companies to serve ads and collect information wh
 
 ### **Links**
 
-Chic Galleria contains links to other sites. This site and its owner(s) are not responsible for the privacy practices or the content of such web sites. Please refer to those sites privacy policies for their information.
+Chic Galleria contains links to other sites. This site and its owner(s) are not responsible for the privacy practices or the content of such websites. Please refer to those sites privacy policies for their information.
 
 ### **Other**
 
-We reserve the right to change this privacy policy at any time. If you have any questions or concerns in regards to this policy, or want further information, please feel free to contact us at info@chicgalleria.com. Thanks.
+We reserve the right to change this privacy policy at any time. If you have any questions or concerns in regards to this policy or want further information, please feel free to contact us at info@chicgalleria.com. Thanks.
