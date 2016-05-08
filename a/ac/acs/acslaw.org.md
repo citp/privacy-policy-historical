@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acslaw.org privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207144633id_/http%3A//www.acslaw.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acslaw.org privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508095436id_/http%3A//www.acslaw.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ACS
 
