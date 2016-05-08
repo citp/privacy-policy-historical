@@ -1,98 +1,40 @@
-> *The following text is extracted and transformed from the identityrpg.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023061950id_/http%3A//www.identityrpg.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the identityrpg.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508171324id_/http%3A//www.identityrpg.com/policy/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Identity
+# Privacy Policy
 
-This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.  
-What personal information do we collect from the people that visit our blog, website or app?
+Asylum Entertainment takes your privacy seriously.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.
+Asylum Entertainment Inc. ("Asylum") is committed to protecting the privacy of any personal information that you may provide to us when using any of our online services.
 
-When do we collect information?
+### COLLECTION OF PERSONALLY IDENTIFIABLE INFORMATION
 
-We collect information from you when you register on our site, place an order, subscribe to a newsletter or enter information on our site.
+Asylum may collect personally identifiable information if you purchase, download, or register any software products offered by Asylum or use any of our product websites. This information may include your name, address, email address, phone number, etc. This information is used only to record any sales transactions, to provide you with any product support, or to provide you with product information (such as updates, alerts and associated product offerings), via opt-in permission based email. If we use a payment processing and product fulfillment merchant we ensure that the same strict privacy criteria are in place. Asylum will never sell, rent, lease, or give your information to a third party unless required by law. If you have subscribed to receiving emails from Asylum or any Asylum affiliated company and you choose to no longer receive such emails, you may unsubscribe at any time by either clicking the "Unsubscribe" link in the email or by contacting Asylum directly. By transmitting any information to Asylum when prompted, you consent to Asylum’s collection and use of such information for the purposes as defined herein. You are responsible for making the decision on whether or not to proceed with any activity that requires your requests your personal information.
 
-How do we use your information?
+### COOKIES
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+Asylum's websites, such as this, may from time to time use cookies. A "cookie" is a unique text file that the Asylum Web site can send to your Internet browsing software in order to tailor information presented to you based on your browser settings and preferences. Cookies may also be stored on an Internet User’s computer for the purposes of tracking the Internet user’s clicks to ensure that they are directed to the correct click-through destination site, or to track the performance of its business partners and to ensure proper payment for their sales activities related to their business relationship with Asylum. Asylum’s usage of cookies does not collect any personal information in any way. If you do not want Asylum to deploy cookies in your browser, you can set your browser to reject cookies or notify you when a Web site tries to put a cookie in your browser software, however, rejecting cookies may affect your ability to use of some of the products and/or services at our website.
 
-• To quickly process your transactions.  
-How do we protect visitor information?
+We use proprietary and third party cookies to improve your experience and our services. If you continue browsing, we shall consider that you accept their use.
 
-Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
+### STATISTICAL INFORMATION
 
-We use regular Malware Scanning.
+Asylum may track domain names, IP addresses, and browser types from Internet users who visit our Web site. We use this information to produce traffic statistics for the Asylum Web site, and to identify how we can improve our products, services, and Web site for our customers. Such information does not contain any personal information.
 
-We do not use an SSL certificate
+### THIRD PARTY LINKS
 
-• We only provide articles and information, we never ask for personal or private information like email addresses, or credit card numbers.
+Asylum may from time to time include links from our website that may direct you to other third party websites which we believe may be of interest to you. Please take note that if you are directed to any third party websites, those websites are not governed by this Privacy Policy and it is your responsibility to review and understand the privacy policy of any websites that you visit.
 
-Do we use 'cookies'?
+### SECURITY
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+Any personally identifiable information that is collected by Asylum is stored in limited access servers. Asylum takes reasonable precautions and measures to protect the information that has been collected, and to safeguard the servers where such information is stored. These measures include technical and procedural steps to protect your data from misuse, unauthorized access or disclosure, loss, alteration, or destruction.
 
-We use cookies to:
+### POLICY MODIFICATIONS
 
-• Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
+Asylum may from time to time make modifications to this Privacy Policy to ensure that we are in compliance with applicable regulations. Any changes to this Privacy Policy will be posted promptly on this Privacy Policy web page and on the Home page.
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
+### CONTACT
 
-If you disable cookies off, some features will be disabled It won't affect the users experience that make your site experience more efficient and some of our services will not function properly.
+If you would like to contact us, or have questions or suggestions regarding our Privacy Policies, please e-mail us at the following address:
 
-However, you can still place orders .
-
-Third Party Disclosure
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
-
-Third party links
-
-We do not include or offer third party products or services on our website.
-
-California Online Privacy Protection Act
-
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
-
-According to CalOPPA we agree to the following:
-
-Users can visit our site anonymously
-
-Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
-
-Our Privacy Policy link includes the word 'Privacy', and can be easily be found on the page specified above.
-
-Users will be notified of any privacy policy changes:
-
-• On our Privacy Policy Page
-
-Users are able to change their personal information:
-
-• By logging in to their account
-
-How does our site handle do not track signals?
-
-We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
-
-Does our site allow third party behavioral tracking?
-
-It's also important to note that we do not allow third party behavioral tracking
-
-COPPA (Children Online Privacy Protection Act)
-
-When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
-
-We do not specifically market to children under 13.
-
-Fair Information Practices
-
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
-
-In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:
-
-We will notify the users via email
-
-• Within 7 business days
-
-We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
-
-If at any time you would like to unsubscribe from receiving future emails, you can and we will promptly remove you from ALL correspondence.  
-
+Asylum Entertainment Inc.  
+support@asylumentertainment.ca
