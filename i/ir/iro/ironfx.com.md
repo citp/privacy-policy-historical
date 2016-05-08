@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ironfx.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921220738id_/http%3A//www.ironfx.com/sites/all/themes/ironfx/legal-documents/general/com/Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ironfx.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508215506id_/http%3A//www.ironfx.com/sites/all/themes/ironfx/legal-documents/general/com/Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # 
 
