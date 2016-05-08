@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the childsplayclothing.co.uk privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906140101id_/http%3A//www.childsplayclothing.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the childsplayclothing.co.uk privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509000407id_/http%3A//www.childsplayclothing.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,7 +50,7 @@ Alternatively, to opt out of any direct mail service or updates, please contact 
 ### Cookie policy
 
 Childsplay Clothing uses 'cookies' to give you the best, most personal experience. It allows us to provide you important services, such as remembering your preferences. Using our website means you're okay with this.  
-You can opt-out or opt-in use of 3rd-party cookies on our website by clicking the following link: [opt-out 3d-party cookies](http://www.childsplayclothing.co.uk.com/privacy/).
+You can opt-out or opt-in use of 3rd-party cookies on our website by clicking the following link: [opt-out 3d-party cookies](http://backup.childsplayclothing.co.uk.com/privacy/).
 
 ### The Way We Use Information:
 
