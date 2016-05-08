@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craziness.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222221710id_/http%3A//www.craziness.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craziness.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508062728id_/http%3A//www.craziness.com/privacy.php) for the most accurate reproduction.*
 
 # Fun Games and more at Craziness.com
 
