@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornshareproject.org privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018003042id_/http%3A//pornshareproject.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornshareproject.org privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508180200id_/http%3A//pornshareproject.org/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Porn Share Project Free Full Length Porn In Best Quality
 
