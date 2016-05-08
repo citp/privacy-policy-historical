@@ -1,85 +1,133 @@
-> *The following text is extracted and transformed from the youneedabudget.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621211549id_/http%3A//www.youneedabudget.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youneedabudget.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508201839id_/https%3A//www.youneedabudget.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | YNAB
 
-### What information do we collect?
+## Last modified: December 30, 2015
 
-We collect information from you when you place an order or fill out a form.
+## Introduction
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
+You Need A Budget LLC ( **“Company”** or **”We”** ) respect your privacy and are committed to protecting it through our compliance with this policy.
 
-### What do we use your information for?
+This policy describes the types of information we may collect from you or that you may provide when you visit the website YouNeedABudget.com (our **“Website”** ) and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
-Any of the information we collect from you may be used in one of the following ways:
+This policy applies to information we collect on this Website, in e-mail, text and other electronic messages between you and this Website and, through mobile and desktop applications you download from this Website, which provide dedicated non-browser-based interaction between you and this Website. It does not apply to information collected by us offline or through any other means, including on any other website operated by Company or any third party; or any third party, including through any application or content (including advertising) that may link to or be accessible from the Website.
 
-  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
-  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time. Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
-  * To process transactions
+## Children Under the Age of 13
+
+Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at privacy@youneedabudget.com.
+
+## Information We Collect About You and How We Collect It
+
+We collect several types of information from and about users of our Website, including information:
+
+  * by which you may be personally identified, such as name, postal address, e-mail address, telephone number or ANY OTHER INFORMATION THE WEBSITE COLLECTS THAT IS DEFINED AS PERSONAL OR PERSONALLY IDENTIFIABLE INFORMATION UNDER AN APPLICABLE LAW/any other identifier by which you may be contacted online or offline ( **“personal information”** ); and/or
+  * about your internet connection, the equipment you use to access our Website, and usage details.
 
 
 
+We collect this information:
 
-_Your information, whether public or private,  will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested._
-
-  * To administer a contest, promotion, survey or other site feature
-  * To send periodic emails
-
+  * Directly from you when you provide it to us.
+  * Automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses and information collected through cookies, and other tracking technologies.
 
 
-_The email address you provide for order processing  will only be used to send you information and updates pertaining to your order. It will also be used to send you periodic updates regarding the company, software updates, and other relevant notices. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email._
 
-### How do we protect your information?
+_Information You Provide to Us._  The information we collect on or through our Website may include:
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
+  * Information that you provide by filling in forms on our Website. This includes information provided at the time of registering to use our Website, subscribing to our service, or requesting further services. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with our Website.
+  * Records and copies of your correspondence (including e-mail addresses), if you contact us.
+  * Your responses to surveys that we might ask you to complete for research purposes.
+  * Details of transactions you carry out through our Website and of the fulfillment of your orders. You may be required to provide financial information before placing an order through our Website.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will be kept on file for more than 60 days in order to maintain accurate transactional records for tax compliance.
 
-### Do we use cookies?
+You also may provide information to be published or displayed (hereinafter, **“posted”** ) on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, **“User Contributions”** ). Your User Contributions are posted on and transmitted to others at your own risk. Although we limit access to certain pages, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.
 
-Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+_Information We Collect Through Automatic Data Collection Technologies._ As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions and patterns, including:
 
-We use cookies to help us remember and process the items in your shopping cart and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+  * Details of your visits to our Website, including traffic data, location data, logs, and other communication data and the resources that you access and use on the Website.
+  * Information about your computer and internet connection, including your IP address, operating system and browser type.
 
-### Do we disclose any information to outside parties?
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect our or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-### Third party links
+The technologies we use for this automatic data collection may include:
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+  * **Cookies (or browser cookies).** A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.
+  * **Flash Cookies.** Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies.
 
-### California Online Privacy Protection Act Compliance
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-### Childrens Online Privacy Protection Act Compliance
+## How We Use Your Information
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+We use information that we collect about you or that you provide to us, including any personal information:
 
-### Terms and Conditions
+  * To present our Website and its contents to you.
+  * To provide you with information, products or services that you request from us.
+  * To fulfill any other purpose for which you provide it.
+  * To provide you with notices about your account/subscription, including expiration and renewal notices.
+  * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
+  * To notify you about changes to our Website or any products or services we offer or provide though it.
+  * To allow you to participate in interactive features on our Website.
+  * In any other way we may describe when you provide the information.
+  * For any other purpose with your consent.
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.youneedabudget.com](https://www.youneedabudget.com/)
 
-### Your Consent
 
-By using our site, you consent to our privacy policy.
+## Disclosure of Your Information
 
-### Changes to our Privacy Policy
+We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
+We may disclose personal information that we collect or you provide as described in this privacy policy:
 
-This policy was last modified on December 13, 2010
+  * To contractors, service providers and other third parties we use to support our business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them.
+  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by us about our Website users is among the assets transferred.
+  * To fulfill the purpose for which you provide it.
+  * For any other purpose disclosed by us when you provide the information.
+  * With your consent.
 
-### Contacting Us
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[http://www.youneedabudget.com](https://www.youneedabudget.com/)  
-770 E Main St  
-Lehi, UT 84043  
-USA  
-[privacy@youneedabudget.com](mailto:privacy@youneedabudget.com)  
-801-610-9215
+We may also disclose your personal information:
+
+  * To comply with any court order, law or legal process, including to respond to any government or regulatory request.
+  * To enforce or apply our terms of use or terms of sale and other agreements, including for billing and collection purposes.
+  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of You Need A Budget LLC, our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+
+
+
+​We will not, under any circumstances, sell your personal information.
+
+## Choices About How We Use and Disclose Your Information
+
+We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
+
+  * **Tracking Technologies and Advertising.** You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe’s website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
+  * **Promotional Offers from the Company.** If you do not wish to have your e-mail address/contact information used by the Company to promote the Company's products or services, you can opt-out by clicking on the Unsubscribe link at the bottom of every email. This opt out does not apply to information provided to the Company as a result of a product purchase, warranty registration, product service experience or other transactions.
+
+
+
+## Accessing and Correcting Your Information
+
+You can review and change your personal information by logging into the Website and visiting your account profile page.
+
+## Your California Privacy Rights
+
+California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to privacy@youneedabudget.com.
+
+## EU and Swiss Safe Harbors
+
+We adhere to the U.S. Department of Commerce’s US-EU Safe Harbor Framework and the [US-Swiss Safe Harbor Framework](http://export.gov/safeharbor/) (the “Safe Harbors”) with respect to the collection, use, and retention of personal information from European Union member countries and Switzerland. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. For more information about the Safe Harbors and to view our certification, visit the U.S. Department of Commerce’s Safe Harbor Web site.
+
+We will obtain assurances from our agents that they will safeguard Personal Data in accordance with these Safe Harbors.
+
+We have committed to provide recourse for individuals to whom privacy data relates and to remedy problems arising out of its failure to comply with the US-EU and US-Swiss Safe Harbor Principles by cooperating with European Union Data Protection Authorities (DPAs). We will cooperate with the DPAs in the investigation and resolution of complaints brought under the Safe Harbor; and we will comply with any advice given by the DPAs where the DPAs take the view that we need to take specific action to comply with the Safe Harbor Principles, including remedial or compensatory measures for the benefit of individuals affected by any non-compliance with the Principles, and will provide the DPAs with written confirmation that such action has been taken. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please visit the DPA in your jurisdiction for more information and to file a complaint.
+
+## Changes to Our Privacy Policy
+
+It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users’ personal information, we will notify you by e-mail to the primary e-mail address specified in your account. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our Website and this privacy policy to check for any changes.
+
+## Contact Information
+
+To ask questions or comment about this privacy policy and our privacy practices, contact us at: privacy@youneedabudget.com
