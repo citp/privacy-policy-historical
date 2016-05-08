@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the vaultaffiliates.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812163651id_/http%3A//www.vaultaffiliates.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vaultaffiliates.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508182455id_/http%3A//vaultmedia.com/index.php/privacy) for the most accurate reproduction.*
 
-# PRIVACY | CPA Affiliate Network – VaultAffiliates
+# Privacy | Vault Media
 
-Privacy Policy for VaultAffiliates.com
+Privacy Policy for VaultMedia.com
 
 About Us
 
-This is a privacy policy for VaultAffiliates.com – Our homepage on the Web is located at http://www.VaultAffiliates.com.
+This is a privacy policy for VaultMedia.com – Our homepage on the Web is located at http://www.VaultMedia.com.
 
 We invite you to contact us if you have questions about this policy. You may contact us by clicking here.
 
@@ -46,7 +46,7 @@ We collect the following information: Physical contact information, Online conta
 
 This data will be used by ourselves and our agents.
 
-Vault Affiliates Network affiliates must agree to receive periodic communications from Vault Affiliates Network. This communication could be in the form of e-mail, instant message, postal mail, telephone or fax.
+VaultMedia.com affiliates must agree to receive periodic communications from VaultMedia.com Network. This communication could be in the form of e-mail, instant message, postal mail, telephone or fax.
 
 Merchants and affiliates can modify their contact information once they’ve logged in to the network.
 
