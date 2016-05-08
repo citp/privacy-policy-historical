@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shariff.org privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102045241id_/http%3A//www.shariff.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shariff.org privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508121030id_/http%3A//www.shariff.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - We love Blogging for youShariff.org
+# Privacy Policy - We love Blogging for you
 
 This Privacy Policy governs the style during which Shariff.org collects, uses, maintains and discloses info collected from users (each, a “User”) of the **http://www.shariff.org** website. This privacy policy applies to the positioning and every one merchandise and services offered by Shariff.org.
 
