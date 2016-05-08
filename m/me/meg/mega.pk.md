@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mega.pk privacy policy that was archived on 2015-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150710033152id_/http%3A//www.mega.pk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mega.pk privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508132127id_/http%3A//www.mega.pk/privacy.php) for the most accurate reproduction.*
 
 # Online Shopping in Pakistan - Mega.pk
 
