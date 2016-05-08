@@ -1,25 +1,10 @@
-> *The following text is extracted and transformed from the localytics.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906191810id_/http%3A//www.localytics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localytics.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508213852id_/https%3A//www.localytics.com/privacy-policy) for the most accurate reproduction.*
 
 # Localytics Privacy Policy | Localytics
 
 ### Introduction
 
 Char Software, Inc. d/b/a Localytics℠ (“us,” “we,” or “Localytics”) is committed to respecting the privacy rights of our customers (“Customers”) and their end users (“End Users”), as well as other users of the Localytics mobile analytics services (“Services”) and the Localytics websites, including http://localytics.com, http://wiki.localytics.com and http://analytics.localytics.com and any successor sites (collectively, “Websites” and each individually, a “Website”). We created this privacy policy (“Privacy Policy”) to give you confidence as you use the Services and Websites, and to demonstrate our commitment to fair information practices and the protection of privacy. This Privacy Policy is only applicable to the Services and Websites, and not to any other websites that you may be able to access from the Services Websites or any websites of the partners or Customers of Localytics, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy. Your use of the Websites and certain aspects of the Services are governed by this Privacy Policy and the Terms of Use. The use of information collected through our service shall be limited to the purpose of providing the service for which our Customer has engaged Localytics.
-
-### TRUSTe
-
- [](http://privacy.truste.com/privacy-seal/Char-Software,-Inc-/validation?rid=fe77011f-097e-45a2-b77c-b486d9a9a312)
-
-Localytics has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s Program Requirements](http://www.truste.com/privacy-program-requirements/) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/) Including transparency, accountability and choice regarding the collection and use of your Personal Information (as defined below). TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at contact@localytics.com. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
-
-The TRUSTe program covers our collection, use and disclosure of information we collect through our website, [localytics.com](http://localytics.com/) and our Services and does not cover information that may be collected through our mobile applications. The use of information collected through our Services shall be limited to the purpose of providing the service for which the Client has engaged Localytics.
-
-[We self-certify compliance with Safe Harbor ](https://safeharbor.export.gov/list.aspx) _  
-_
-
-[](http://www.export.gov/safeharbor)
-
-Localytics complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Localytics has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Localytics’ certification, please visit <http://www.export.gov/safeharbor/>
 
 ### Traffic Data Collected
 
@@ -140,10 +125,10 @@ Localytics will retain personal data we process on behalf of our Customers for a
 
 ### Contacts
 
-If you have any comments, concerns or questions about this Privacy Policy, please call us at us at +1.617.418.4422 or send us an email at privacy@localytics.com or contact our home office at: 
+If you have any comments, concerns or questions about this Privacy Policy, please call us at us at +1.617.418.4422 or send us an email at privacy@localytics.com or contact our home office at:
 
-**Localytics**   
-101 Arch St Fl 8  
+**Localytics**  
+2 Center Plaza 3rd Floor  
 Boston, MA 02110 USA
 
-Last Updated on May 12, 2015.
+Last Updated on March 29, 2016.
