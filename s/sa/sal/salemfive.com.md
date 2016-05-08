@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the salemfive.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905222949id_/https%3A//www.salemfive.com/customer-support/security-center/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salemfive.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509012138id_/https%3A//www.salemfive.com/customer-support/security-center/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice
 
 If you wish to retain a copy of our privacy notice for your records, please click the print button below:
 
-[](https://web.archive.org/images/PDFs/privacy_notice_jan_2015.pdf "Click here to view and print Privacy Notice.")
+[](https://web.archive.org/images/PDFs/privacy_notice_jan_2016.pdf "Click here to view and print Privacy Notice.")
 
 **  
 FACTS**
@@ -32,9 +32,7 @@ The types of personal information we collect and share depend on the product or 
 
 \- Social Security number and income  
 \- Account balances and transaction history  
-\- Payment history and credit scores
-
-When you are _no longer_ our customer, we continue to share your information as described in this notice.  
+\- Payment history and credit scores  
   
   
 **How?**
@@ -171,4 +169,4 @@ Salem, MA 01970
 
 |   
   
-[](https://web.archive.org/customer-support/security-center/privacy-policy/privacy-notice-january-2015-page-2 "Click here to continue to Privacy Notice Page 2")
+[](https://web.archive.org/customer-support/security-center/privacy-policy/privacy-notice-january-2016-page-2 "Click here to continue to Privacy Notice Page 2")
