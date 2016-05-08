@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jurysinns.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905065616id_/https%3A//www.jurysinns.com/privacy_and_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jurysinns.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508191542id_/https%3A//www.jurysinns.com/privacy_and_security) for the most accurate reproduction.*
 
 # Privacy & Security Policy
 
