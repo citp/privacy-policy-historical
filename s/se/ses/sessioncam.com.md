@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sessioncam.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202083503id_/http%3A//www.sessioncam.com/privacy-policy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sessioncam.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508151352id_/https%3A//sessioncam.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SessionCam
 
@@ -62,7 +62,7 @@ We do not share, sell, rent or exchange any of the information we collect with a
 
 #### Regulation
 
-SessionCam is a product that has been developed and is operated by SessionCam Limited and is registered with the UK Information Commissioner. Further details on the UK Data Protection Act can be found at the website for [Information Commissioner’s Office](http://www.ico.gov.uk/).
+SessionCam is a product that has been developed and is operated by SessionCam Limited and is registered with the UK Information Commissioner. Further details on the UK Data Protection Act can be found at the website for [Information Commissioner’s Office](http://www.ico.org.uk/).
 
 #### Find out more
 
