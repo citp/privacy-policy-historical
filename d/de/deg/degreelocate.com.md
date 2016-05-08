@@ -1,33 +1,77 @@
-> *The following text is extracted and transformed from the degreelocate.com privacy policy that was archived on 2013-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130830194909id_/http%3A//www.degreelocate.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreelocate.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508204314id_/http%3A//www.degreelocate.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Find a College Now. It's Easy!
+# Privacy Policy
 
-Privacy Statement
+This privacy policy applies to www.DegreeLocate.com. This privacy policy describes how DegreeLocate.com collects and uses the personal information you provide on our web site: www.DegreeLocate.com. It also describes the choices available to you regarding our use of your personal information. 
 
-We take your privacy seriously. This statement discloses the privacy practices of Degreelocate.com on this website. By using this website, you agree, without limitation or qualification, to be bound by this Privacy Policy. This Privacy Policy applies to the collection and use of information by Degreelocate.com on this website but does not apply to information that you may send to us by other means. Degreelocate.com respects the privacy of visitors to our online sites. The kinds of information we collect from you will vary, depending on how you use our website. In order to take part in certain services on our website, you will be required to provide certain personal information (e.g., your name, address, e-mail address, mailing address, phone, etc.). In addition to the information you choose to submit, our systems are set up to gather certain anonymous data to help us better understand how our site is being used and how we can improve it. This automatically gathered data includes any content you view on our website will only collect personally identifiable data, such as your name, address, telephone number, mailing address and/or e-mail address, when it is voluntarily submitted to us at this website. The contact information that is voluntarily provided is used to facilitate the process of service the consumer requests. Within 48 hours your information is sent to a partner company that will contact you regarding your inquiry. Consumers that opt in to receive offers may receive email, telephone calls or direct mail from Degreelocate.com or our partners. Users may opt out of receiving future communications, see opt out options below. The Degreelocate.com website is not intended or designed to attract anyone under the age of 18. We do not collect personally identifiable data from any person we know to be under the age of 18.
+## Information Collection and Use
 
-Information Sharing and Disclosure
+DegreeLocate.com collects information on DegreeLocate.com at several different points on our Web site. If you request degree, school or University information we require that you provide certain personally identifiable information, including your name, address email address, and phone number. This information is necessary to process your request and to contact you if necessary. Once you have entered your name, address and email address your information is then passed onto a third party company in order to supply you with information that best fits your needs. 
 
-Degreelocate.com and/or the companies we hire or work with may use this information to comply with your request for information or as otherwise disclosed to you at the location at which you submit your information. From time to time, we may refer to that information to better understand your needs and how we can improve our products and services. We may use that information to contact you. Information collected online may be shared with our marketing partners, advertisers, and other third parties. We may use information collected from recipients of our marketing campaigns, visitors to our Web sites, and our marketing partners, advertisers, and other third parties for any of the following purposes in either the online or offline arena: (1) to provide individuals with targeted offers based on their specific requests or their stated preference to receive certain categories of offers; (2) to send individuals information and promotional materials from our company as well as from our marketing partners, advertisers, and other third parties; (3) to deliver targeted display advertisements and offers through online marketing communications, such as emails, banner advertisements, and pop-up advertisements (by matching criteria provided by our advertisers with information collected from our visitors); (4) to enable our marketing partners, advertisers, and other third parties to communicate with individuals; (5) to administer contests and sweepstakes offered on our Web sites, Other Web Pages, or on our partners' Web sites; (6) to contact visitors to our Web sites or registered members of our marketing campaigns when necessary; (7) to help address problems with our Web sites or marketing services; (8) to administer our Web sites; (9) to conduct internal reviews of our Web sites (e.g., to determine the number of visitors to specific pages within the site); (10) to help us better understand recipients of our marketing campaigns and visitors' use of our Web sites; and (11) to protect the security or integrity of our Web sites and Other Web Pages that are accessible through our online marketing campaigns. Non-personal information will be used for these purposes as well as for conducting internal reviews and monitoring of our Web sites and Other Web Pages that are accessible through our online marketing campaigns and providing a greater online experience for our visitors.
+## Accessing Your Personally Identifiable Information
 
-We may transfer or otherwise disclose information collected from recipients of our marketing campaigns, visitors to our Web sites, and our marketing partners, advertisers, and other third parties to our employees and independent contractors, to our subsidiaries and affiliates, and to our consultants, other business associates, and suppliers, if the disclosure will enable that party to perform a business, professional, or technical support function for us. Disclosure of information may also be necessary to respond to judicial process, to provide information to law enforcement agencies, or to facilitate investigation of matters of public safety, as permitted by law.
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or deactivate it by emailing our Customer Support at info@DegreeLocate.com or by contacting us by postal mail at the contact information listed below. 
 
-We may also disclose information we collect from recipients of our marketing campaigns, visitors to our Web sites, and our marketing partners, advertisers, and other third parties to other marketing partners, advertisers, and third parties who may use the information in connection with their business operations, such as to send targeted offers, marketing materials, and other communications to them. In addition, we may share, rent, sell, or transfer any of the personal information provided by you or from our marketing partners, advertisers, or other third parties. We are not responsible for the practices of our marketing partners, advertisers, or other third parties.
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
-Legal Disclaimer
+## Agents/Service Providers
 
-You can always choose not to provide personal information, even though it might be needed to take advantage of Degreelocate.com offers or website features. If you do not want to receive e-mail or other communications from us or if you wish to check your personal information, please contact us. In the event that Degreelocate.com and some of our assets are sold or transferred or used as security, the personal information collected on our website may be transferred to third parties as part of that transaction. Degreelocate.com may also provide personal information or provide access to personal information to any of our affiliated businesses or to our business partners. Degreelocate.com may use your personal information to reply to you and send information to you. If Degreelocate.com is requested by law enforcement officials or judicial authorities to provide personal information on individual users, Degreelocate.com may, without your consent, provide such information. In matters involving claims of personal or public safety, Degreelocate.com may provide your personal information to appropriate authorities without your consent or court process. Degreelocate.com recognizes you may be concerned about the security of your personal information, and we are committed to employing reasonable technology in order to protect the security of our website. However, even with the best technology, no website is 100% secure. We will take reasonable measures that we believe are appropriate to protect your information from loss, misuse, alteration or destruction, and, where possible, will ask that any third parties to whom we may transfer your information take comparable steps to protect that security. Our Privacy Policy only applies to this website. Our website may from time to time contain links to sites outside our control. Please be aware that these sites may collect personal information about you, and operate according to their own privacy practices that may differ from our Privacy Policy. Remember to consult that website's own privacy policy, as once you're outside this website, any information you submit is no longer in our control. 
+We may provide your personally identifiable information to companies that provide services to help us with our business activities such as offering customer service. These companies are authorized to use your personally identifiable information only as necessary to provide these services to us. 
 
-Anti-Spam Policy 
+## Information Sharing and Disclosure
 
-Spam is commercial email or unsolicited bulk email which has not been requested by the recipient. You will not receive Degreelocate.com email communications unless you submit your email address and register to receive these communications. You may receive third-party emails advertising Degreelocate.com products and services. If you wish to retract this permission from the third-party, please follow their opt-out instructions. 
+We share aggregated information with our partners to fulfill information requests in certain states which users shared information. 
 
-If you believe you have received such an unsolicited commercial email, please forward a copy of the email to info@Degreelocate.com. We will respond promptly and courteously to you and we will continue to do our utmost to ensure that you are not being sent unauthorized emails by any advertisers or affiliates on our behalf. 
+We may share your information with affiliates and redirect users to third-party Web sites. DegreeLocate.com does not control the content of or the information collected from these third-party Web sites. These third-party Web sites are not subject to DegreeLocate.com?s Privacy Policy. Redirects to third-party sites do not constitute sponsorship, endorsement, or approval by DegreeLocate.com of the content, policies, or practices of such sites. Therefore, we encourage you to review the privacy policies of these sites before you disclose your personally identifiable information to these other parties. We do not share Personally identifiable information with third parties other than as described in this privacy statement. 
 
-Cookies 
+## Legal Disclaimer
 
-Our site uses cookies when entering the site and once a form is submitted. The only information that is stored is only an indicator that the application was filled and if you try to fill out another one within 60 days it will give you an option to either fill out another application or leave. 
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site. 
 
-Changes to Privacy Policy
+## Log Files and Cookies
 
-If we decide to change the way we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days.
+As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. 
+
+We do not link this automatically collected data to other information we collect about you. 
+
+## Cookies
+
+Technologies such as: cookies, beacons, tags and scripts are used by DegreeLocate.com and our partners, marketing partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users? movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. 
+
+We use cookies to make it easier for you to navigate our site. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
+
+## Behavioral Targeting/ Re-Targeting
+
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. 
+
+## Security
+
+The security of your personally identifiable information is important to us. When you enter sensitive personally identifiable information on our application form, we encrypt that information using secure socket layer technology (SSL) and follow generally accepted industry standards to protect information submitted to us, both during the transmission and once received. No method of transmission over the Internet, or electronic storage is 100 % secure and although we strive to use commercially acceptable means to protect your personally identifiable information, we cannot guarantee its absolute security. 
+
+## Business Transitions
+
+In the event DegreeLocate.com goes through a business transition, such as a merger, acquisition by another company, or sale of all or portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personally identifiable information, as well as any choices you may have regarding your personally identifiable information. 
+
+## Social Media Widgets
+
+Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+
+## Links to Other Sites
+
+If you click on a link to a third party site, including on an advertisement, you will leave DegreeLocate.com and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally identifiable information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as DegreeLocate.com. We encourage you to review the privacy statements of any other service provider from whom you request services. If you visit a third party website that is linked to DegreeLocate.com, you should read that site?s privacy statement before providing any personally identifiable information. 
+
+When you subscribe to our articles by email we use a third party email service provider whose privacy statement governs the collection and use of the personally identifiable information that you have entered. 
+
+## Changes to this Privacy Statement
+
+If we decide to change our privacy policy, we will post those changes here and other places we deem appropriate so that you are aware. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here or by means of posting a prominent notice on our homepage prior to the change becoming effective. 
+
+## How to Contact Us
+
+If you have any questions of concerns related to this Privacy Statement please contact us as follows: 
+
+DegreeLocate.com   
+14747 N NORTHSIGHT BLVD   
+STE111-378   
+Scottsdale, AZ 85260   
+
