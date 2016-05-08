@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jhunkar.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109231915id_/http%3A//jhunkar.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jhunkar.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508072347id_/http%3A//jhunkar.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
