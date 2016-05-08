@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the rantgamer.com privacy policy that was archived on 2015-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150522055452id_/http%3A//www.rantgamer.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rantgamer.com privacy policy that was archived on 2016-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160508234909id_/http%3A//www.rantgamer.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" class="no-js"><!--<![endif]--><head>
 		<meta charset="utf-8">
 
 				<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-		<meta name="copyright" content="Copyright 2015 Rant, Inc.">
+		<meta name="copyright" content="Copyright 2016 Rant, Inc.">
 		
 				<title>RantGamer</title>
 		<meta name="description" content="RantGamer provides the latest news, rumors, opinions and more for video game fanatics.">
@@ -69,7 +69,7 @@ getConditions();
 function getConditions() {
 	
 	if (referrer.indexOf("zergnet.com") >= 0 || referrer.indexOf("nrelate.com") >= 0 || referrer.indexOf("adblade.com") >= 0 || referrer.indexOf("disqus.com") >= 0 || referrer.indexOf("gravity.com") >= 0 || referrer.indexOf("outbrain.com") >= 0 || referrer.indexOf("taboola.com") >= 0 || referrer.indexOf("revcontent.com") >= 0 || referrer.indexOf("hexagram.com") >= 0 || document.URL.indexOf("utm_source=ContentAD") >= 0 || referrer.indexOf("mediafed.com") >= 0 || referrer.indexOf("powerinbox.com") >= 0 || document.URL.indexOf("cpc=true") >= 0 || referrer.indexOf("rantgirls.com") >= 0 || document.URL.indexOf("utm_source=Gravity") >= 0 || document.URL.indexOf("utm_medium=referral") >= 0 || document.URL.indexOf("utm_medium=Referral") >= 0 || document.URL.indexOf("utm_medium=referralTop") >= 0 || document.URL.indexOf("utm_source=slideshow") >= 0 || referrer.indexOf("facebook") == true || referrer.indexOf("twitter") == true || referrer.indexOf("facebook") >= 0 || referrer.indexOf("twitter") >= 0 || document.URL.indexOf("utm_source=twitterfeed") >= 0 || document.URL.indexOf("utm_source=facebook") >= 0) {
-		if (referrer.indexOf("facebook") >= 0 || referrer.indexOf("twitter") >= 0) {
+		if (referrer.indexOf("facebook") >= 0 || referrer.indexOf("twitter") >= 0 || referrer.indexOf("stumbleupon") >= 0) {
 			window.cpc =true;
 		}
 		else {
@@ -174,21 +174,24 @@ window.yieldmoInContent='ym_1109208186933852464';
 
 
 <script>
-if (window.width > 767 && window.cpc == true) {
-	ggv2id='8f2a38f4';
-	var script = document.createElement('script');
-	script.type = 'text/javascript';
-	script.src = 'http://g2.gumgum.com/javascripts/ggv2.js';    
-	document.getElementsByTagName('head')[0].appendChild(script);
-}
-else if (window.width < 768 && window.cpc == true) {
-	ggv2id='64ecfbe7';
-	var script = document.createElement('script');
-	script.type = 'text/javascript';
-	script.src = 'http://g2.gumgum.com/javascripts/ggv2.js';    
-	document.getElementsByTagName('head')[0].appendChild(script);
+if (window.width < 768 && window.cpc == true) {
+	jQuery(document).ready(function(){
+		jQuery('body').prepend("<div id='div-gpt-ad-1435704628463-0'></div>");
+			
+		googletag.cmd.push(function() {
+			 googletag.defineOutOfPageSlot('/1467169/rant_gamer_mobile_video_1x1', 'div-gpt-ad-1435704628463-0').addService(googletag.pubads());
+			googletag.pubads().enableSingleRequest();
+			googletag.enableServices();
+		});
+		
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1435704628463-0'); });
+	});
 }
 </script><script>
+		if (window.width > 767 && window.width < 1025) {
+			if (!window.OX_ads) { OX_ads = []; } OX_ads.push({ "auid" : "537996689" }); document.write('<scr'+'ipt src="http://ox-d.rantsports.com/w/1.0/jstag"></scr'+'ipt>');
+		}
+		</script><script>
 if (window.width < 768) {
 	var script = document.createElement('script');
 	script.type = 'text/javascript';
@@ -371,7 +374,7 @@ if (window.width < 768) {
 								<li><a href="http://rant-inc.com/advertise">Advertise</a></li>
 								<li><a href="http://www.rantgamer.com/terms-of-service">Terms of Service</a></li>
 								<li><a href="http://www.rant-inc.com/about">About Rant, Inc</a></li>
-								<li>© 2015 Rant, Inc.</li>
+								<li>© 2016 Rant, Inc.</li>
 							</ul>
 						</div>
 					</div>
@@ -473,7 +476,38 @@ Copyright © 2014 Rant, Inc.; All rights reserved.</p>
     </script>
 	
 				
-<script type="text/javascript">
+<script>
+jQuery(document).ready(function(){
+	
+	if (document.URL.indexOf('/2014/') > -1 || document.URL.indexOf('/2015/') > -1) {
+		
+		if (window.width > 1024) {
+			jQuery('#sidebar_1_wrap').prepend('<div id="pollware-rail" style="margin: 30px auto; z-index: 99999;position: relative;width: 300px;clear: both;"></div>');	
+			!function(D,id,s){
+			if(D.getElementById(id))return;
+			s=D.createElement('script');s.id=id;
+			s.src='//pollware-cdn.sodahead.com/pollware/pollware_770.js';
+			D.getElementsByTagName('head')[0].appendChild(s);
+			}(document,'sh-pollware-loader');
+		}
+		
+	}
+	else if (document.URL == 'http://www.rantgamer.com/' || document.URL.indexOf('/category/') > -1) {
+		
+		if (window.width > 1024) {
+			jQuery('.sidebar-header').before('<div id="pollware-rail" style="margin: 30px auto; z-index: 99999;position: relative;width: 300px;clear: both;"></div>');	
+			!function(D,id,s){
+			if(D.getElementById(id))return;
+			s=D.createElement('script');s.id=id;
+			s.src='//pollware-cdn.sodahead.com/pollware/pollware_770.js';
+			D.getElementsByTagName('head')[0].appendChild(s);
+			}(document,'sh-pollware-loader');
+		}
+		
+	}
+	
+});
+</script><script type="text/javascript" src="//static.adsnative.com/static/js/render.v1.js"></script><script type="text/javascript" src="//s.skimresources.com/js/73770X1523493.skimlinks.js"></script><script type="text/javascript">
   (function() {
     window._pa = window._pa || {};
     // _pa.orderId = "myOrderId"; // OPTIONAL: attach unique conversion identifier to conversions
@@ -483,6 +517,15 @@ Copyright © 2014 Rant, Inc.; All rights reserved.</p>
     pa.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + "//tag.marinsm.com/serve/555122f3ab827603b600004a.js";
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
   })();
+</script><script>
+if (window.cpc==true){
+	if (window.width>767){
+		(function(w,d,s){w.ggv2id='8f2a38f4';s=d.createElement('script');s.src='//g2.gumgum.com/javascripts/ggv2.js';d.getElementsByTagName('head')[0].appendChild(s);}(top,top.document));
+	}
+	else {
+		(function(w,d,s){w.ggv2id='64ecfbe7';s=d.createElement('script');s.src='//g2.gumgum.com/javascripts/ggv2.js';d.getElementsByTagName('head')[0].appendChild(s);}(top,top.document));
+	}
+}
 </script><script>
 if (window.cpc == true && window.width > 767) {
 	var script = document.createElement('script');
@@ -494,105 +537,6 @@ if (window.cpc == true && window.width > 767) {
 	document.getElementById('mobile-dfp-before-slideshow').innerHTML = '<ins class="adsbygoogle" style="display:block;" data-ad-client="ca-pub-1362184578149106" data-ad-slot="3475811488" data-ad-format="auto"></ins>';
 	(adsbygoogle = window.adsbygoogle || []).push({});
 }
-</script><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-
-<script>
-function sendEvent() { 
-ga('send', 'event', 'button', 'click', 'Continue to Site');
-}
-
-if (window.width < 768 && window.cpc == true && window.sponsored != true && document.URL.indexOf("slide=") <= 0) {
-	
-	var intDiv = document.createElement('div');
-	intDiv.className = 'mobile-int-wrap';
-	document.body.appendChild(intDiv);
-	
-	intDiv.innerHTML="<div class='mobile-int'>Continue in 8</div><ins class='adbladeads' data-cid='11735-1530102744' data-host='web.adblade.com' data-tag-type='2' style='display:none'></ins>";
-	
-	var script = document.createElement('script');
-	script.type = 'text/javascript';
-	script.async = true;
-	script.src = 'http://web.adblade.com/js/ads/async/show.js';    
-	document.getElementsByTagName('head')[0].appendChild(script);
-
-}
-
-jQuery(document).ready(function() {
-	
-	if (window.width < 768 && window.sponsored != true) {
-
-     jQuery('.mobile-int-wrap').height(window.innerHeight-65);
-
-		if (window.mobileslide == true) {
-			jQuery('#mobile-dfp-top-wrapper').html("<ins class='adsbygoogle' style='display:inline-block;width:300px;height:250px;' data-ad-client='ca-pub-1362184578149106' data-ad-slot='4475513488'></ins>");
-		}
-		else {
-			jQuery('#mobile-dfp-top-wrapper').html("<ins class='adsbygoogle' style='display:inline-block;width:300px;height:250px;' data-ad-client='ca-pub-1362184578149106' data-ad-slot='4475513488'></ins>");
-		}
-
-		(adsbygoogle = window.adsbygoogle || []).push({});
-	
-	
-		if (window.cpc == true && document.URL.indexOf("slide=") <= 0) {
-			
-			jQuery('body').css('overflow','hidden');
-			window.interstitial = true;
-				
-			setTimeout(
-		    function() {
-		     jQuery('.mobile-int').html("Continue in 8");
-		    }, 1000);
-		    
-		    setTimeout(
-		    function() {
-		     jQuery('.mobile-int').html("Continue in 7");
-		    }, 2000);
-		    
-		    setTimeout(
-		    function() {
-		     jQuery('.mobile-int').html("Continue in 6");
-		    }, 3000);
-		    
-		    setTimeout(
-		    function() {
-		     jQuery('.mobile-int').html("Continue in 5");
-		    }, 4000);
-		    
-			setTimeout(
-		    function() {
-		     jQuery('.mobile-int').html("Continue in 4");
-		    }, 5000);
-		    
-		    setTimeout(
-		    function() {
-		     jQuery('.mobile-int').html("Continue in 3");
-		    }, 6000);
-		    
-		    setTimeout(
-		    function() {
-		     jQuery('.mobile-int').html("Continue in 2");
-		    }, 7000);
-		    
-		    setTimeout(
-		    function() {
-		     jQuery('.mobile-int').html("Continue in 1");
-		    }, 8000);
-		    
-		    setTimeout(
-		    function() {
-		    jQuery('.mobile-int').html("<a class='mobile-int-close' href='javascript:void(0);' onclick='sendEvent()'>Continue to site >></a>");
-		    
-		    jQuery('.mobile-int-close').click(function(){ jQuery('.mobile-int-wrap').fadeOut(500); jQuery('.sub-nav').css('display','block'); jQuery('.sub-nav').css('visibility','visible'); jQuery('body').css('overflow','auto'); window.interstitial = false; });
-			
-		    }, 8000);	
-		
-		}
-	
-	}
-	
-	
-});
-
 </script><!-- Start Twitter script -->
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 <!-- End Twitter script --> 
