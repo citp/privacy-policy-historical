@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picstop.co.uk privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924062348id_/http%3A//www.picstop.co.uk/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picstop.co.uk privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508204528id_/http%3A//www.picstop.co.uk/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy
 
