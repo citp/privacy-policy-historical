@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the meritpages.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209142651id_/http%3A//meritpages.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meritpages.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508134100id_/http%3A//meritpages.com/privacy) for the most accurate reproduction.*
 
 # Merit Pages, Inc.
 
+## Privacy Policy
+
 Merit Pages, Inc. (referred to herein as "meritpages.com," "we," "us, or "our") is committed to providing its online profile users with services and information in an efficient and secure manner. This privacy policy explains what personal information is collected on meritpages.com and from users of Merit Pages, Inc.’s various online services (collectively, the “Profile”), how that information is used and what measures Merit Pages, Inc. takes to safeguard its users’ privacy. 
 
-## What personal information is collected through the Profile?
+### What personal information is collected through the Profile?
 
 When you claim or create a Merit Pages, Inc. account, you provide some or all of the following information: name, user-name, password, and email address. Some of this information, including your name and user-name, may be listed publicly on the Profile, such as on your profile page and in the search results. Some services of the Profile, including general browsing, do not require registration. You may also provide additional information that you would like to be made public on your profile page, such as biographical information, your location, and photos. Your profile page will also include public directory information such as your hometown, college, major and year of graduation, if applicable, which is provided by third-parties, such as colleges, universities and public agencies. 
 
@@ -12,17 +14,17 @@ When you claim or create a Merit Pages, Inc. account, you provide some or all of
 
 Merit Pages, Inc. is not intended for children under 13 years of age. No one under age 13 may provide any information to, on or through meritpages.com. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on meritpages.com or on or through any of its features, register on meritpages.com, use any of the interactive or public comment features of meritpages.com or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at help@meritpages.com. 
 
-## How does Merit Pages, Inc. use the personal information collected through the Profile?
+### How does Merit Pages, Inc. use the personal information collected through the Profile?
 
 Information about individual users collected through the Profile is used for internal business purposes, including, without limitation, customizing services, contacting members regarding use of the services, and responding to requests for information. For example, if you contact us by e-mail, we will use the personal information you provide to answer your question or resolve your problem. On occasion, Merit Pages, Inc. or one of its members or affiliates may also use this information to inform you of news, service upgrades or new Merit Pages, Inc. services or products that may be of particular interest to you. 
 
-## What other information is collected through the Profile and how is this information used by Merit Pages, Inc.?
+### What other information is collected through the Profile and how is this information used by Merit Pages, Inc.?
 
 As you know, the Profile is primarily designed to help you share information with the world. Most of the information that you provide to us is information you are asking us to make public through the Profile and is not considered personal information. 
 
 When you interact with Merit Pages, Inc. through the Profile, we receive and store non-identifiable information, which is collected passively using various techniques, but cannot presently be used to specifically identify you. This information may be aggregated to better understand the demographics and behaviors of our profile users. For example, Merit Pages, Inc. tracks aggregate anonymous statistics regarding usage of the Profile and may provide this anonymous information to members, affiliates, advertisers and for other lawful purposes. 
 
-## Does Merit Pages, Inc. provide personal information collected through the Profile to third parties?
+### Does Merit Pages, Inc. provide personal information collected through the Profile to third parties?
 
 Merit Pages, Inc. does not sell, trade or rent personal information collected online and will not knowingly disclose any individual personal information to third parties except as follows: 
 
