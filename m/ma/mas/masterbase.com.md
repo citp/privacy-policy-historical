@@ -1,41 +1,44 @@
-> *The following text is extracted and transformed from the masterbase.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610082719id_/http%3A//www.en.masterbase.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterbase.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508021638id_/http%3A//www.en.masterbase.com/privacidad.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# MasterBase®
 
-At MasterBase® privacy is an essential issue. We aim to establish an honest relationship with our customers and users based on the respect for individual identification and information. MasterBase® works to ensure that our customers receive the highest possible levels of protection for their information. And we will continue working to maintain strict and secure quality standards for online privacy. 
+## Collection and use of the information on our website
 
-Due to the fact that we manipulate relevant and strategic customer information, in addition to being bound by confidential contracts, we have developed privacy norms detailing our commitment to data confidentiality, and the manner in which personal information is gathered and utilized.
+Any information about our customers or the one about anyone being obtained from our website is used only to give this group access to any of our solutions. This information will not be used for any purpose other than that without the permission of the owner, and it will never be used for the purpose of sale, transfer or lease to third parties.
 
-## Collection and use of information in our Web site.
+In cases where the marketing of our solutions is pursued, it may also be used in order to select prospects to be contacted by one of our representatives.
 
-The information we collect on our Web Site from our customers and others is used to obtain access to any one of our solutions or communications. This information will not be used for any purpose regarding sales, usage or renting to third parties without due authorization. This information is used to contact prospects in case any interest is shown regarding commercialization of one of our solutions. 
+The email address and any other information requested on our website, it is used only to send information that has been requested. Our company believes in permission marketing and operates within its margins; as a result, we make contact only with people who have expressed their willingness to receive our communications.
 
-Email addresses required by our web site and/or any other information is sent only when exclusively requested. Our company believes in and works to implement Permission-based Marketing. We solely communicate with customers that have granted us permission to do so. All emails we may send include the option of interrupting subscription at any given moment (opt-out), guaranteeing you that our company will not send any unwanted communications in the future. 
+All sent messages include the option to discontinue the subscription, whenever the recipient wants it (opt-out), so from the very moment someone unsubscribes, our company stops sending communications to the respective email address.
 
-When we keep records of actions and movements made on our Web site, we collect information of visited pages, clicks, available information obtained from our page, IP direction and type of browser. This enables us to better customize our page in order to improve monitoring navigation of users, online assistance via Chat and technical support. Finally, we only deliver emails to those who have voluntarily provided information to us. Our content may include information from our newsletters, updates, new features to our solutions and/or any relevant news regarding what we do and commercialize. 
+The record of the actions performed on our website, browsing specific pages, clicks, access to available information, downloads, IP address and browser type, allows us to maintain an updated site that meets the needs and interests of our visitors, in order to provide valuable content and respond to their requests for help online, via chat, and technical support through our Customer Service.
 
-## Use of our customers’ information. 
+Strictly for the purposes described, all those who have agreed to give us their contact details receive by email a newsletter with news, updates, trends and developments related to our solutions and other relevant information, regarding our products and services as well as the market of email marketing.
 
-If, as a customer, you choose to use any one of our solutions (or work offering services connected to our solutions), all information regarding your list of clients is handled with the utmost privacy. This is guaranteed in a confidentiality contract.
+## Use of our customer information 
+
+All information, gathered from your contacts and customers being administered by you as a user of any of our solutions (or by providing services through one of them), is used with the utmost privacy clarifying the objectives and the use procedures through a confidentiality agreement.
 
 ## Cookies
 
-A cookie is a small text file transferred to your computer from a web server. Its function generally involves authentication, monitoring of navigation, and gathering of specific information on users. Our cookies are only used to monitor time and forms of navigation through our web site in order to improve our webpage, the value of information, and your experience with us. These cookies are not linked to any address aside ours and you are empowered to accept or decline their use in your Internet navigator. For further information on how to manage cookies within your Internet navigator, visit the site [www.aboutcookies.org](http://www.allaboutcookies.org/ "www.allaboutcookies.org")
+A cookie is a small text file that is transferred to your computer by a Web server. They are commonly used to authenticate users, keep track of their navigation and to maintain specific information about them. When someone visits our web site, opens an email or performs actions like clicking, it is probable that he gets a cookie from us.
 
-## Information used by third parties.
+Using our cookies aims only to know the way you navigate through our web site with the sole purpose of improving our webpage and its content and also to enrich your navigation experience as a user of our services. These cookies are not connected to any address other than ours and every user has the faculty to accept or decline their use in his/her Internet browser. For more information about how to manage cookies in your Web browser, visit www.aboutcookies.org
 
-MasterBase® is a company that offers online On Demand solutions that are usually commercialized through Resellers. For this reason, apply our privacy policy to our Resellers in order to be aligned with our purpose of establishing a reliable relationship with our customers and users. All of this is based on respect for the identification of individuals and their information. Each Reseller is required to sign a contract complying with confidentiality norms as an additional guarantee.
+## Third Parties' Intervention
+
+MasterBase® is a company that offers online solutions, based on-demand mode, which are usually marketed by resellers.   
+To ensure that every reseller is aligned with our procedures in the information management and, consequently, with the establishment of a relationship of trust with our customers, based on the respect for the privacy of individuals and their information, MasterBase® has transferred them these standards by signing a contract, instrument by which they commit themselves to comply with this Privacy Policy.
 
 ## Security
 
-As solutions providers, MasterBase® considers security a key issue. For this reason, we are proactive and responsible in the effective and efficient protection of this data. MasterBase® enforces security measures that protect lost, malicious use or alteration of data under our control. 
+For MasterBase® security is a key element within the solutions it provides. Therefore it takes a proactive responsibility to protect all information efficiently and effectively. MasterBase® has security measures to protect you from the loss, misuse or alteration of the information that is under our control.
 
-## Contact us
+## Privacy Policy for Colombia
 
-For any questions or comments refer to our privacy policy or send us an email to [info@masterbase.com](mailto:info@masterbase.com "info@masterbase.com") or at our company address:
+MasterBase® Colombia, compelled to respecting the rights of its customers, employees and third parties in general adopts the following policy of personal data processing which must be applied in all activities involving the processing of personal data. [Read more](https://web.archive.org/web/20160508021638id_/http%3A//www.en.masterbase.com/privacidad_colombia.asp)
 
-## MasterBase® 
+## Cookies Policy for Spain
 
-3700 Commerce Blvd. Suite 101W, Kissimmee, FL 34741. USA. Phone: 1-407-329-4782
-
-[« Back](https://web.archive.org/web/20150610082719id_/http%3A//www.en.masterbase.com/about/default.asp "Back")
+Masterbase® Europe, in compliance with the provisions of the Spanish law, adopts the following policy for using storage devices and retrieval of data in terminal equipment. [Read more](https://web.archive.org/web/20160508021638id_/http%3A//www.en.masterbase.com/privacidad_espana.asp)
