@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thevoiceofnation.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204174117id_/http%3A//www.thevoiceofnation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thevoiceofnation.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508123430id_/http%3A//www.thevoiceofnation.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Voice of Nation - The Voice of Nation
+# Privacy Policy - The Voice of Nation - The Voice Of Nation
 
 **[](http://thevoiceofnation.com/)**
 
