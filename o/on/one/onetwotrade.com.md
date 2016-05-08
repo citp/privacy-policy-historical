@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onetwotrade.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614024910id_/https%3A//www.onetwotrade.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onetwotrade.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508021044id_/https%3A//www.onetwotrade.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,17 +6,17 @@
 
 #### **Security and Privacy**
 
-Your personal information and financial security is of utmost importance to us. We invest considerable resources to protect our customers’ privacy and use the most advanced, powerful security procedures and encryption systems available worldwide.
+Your personal information and financial security are of the utmost importance to us. We invest considerable resources to protect our customers’ privacy and use the most advanced, powerful security procedures and encryption systems available worldwide.
 
 #### **What you can do**
 
 **Identification**
 
-Users access the system by entering a username and password. Your password is personal and must not be disclosed to others, not even to customer service personnel. Never save your username or password on or near a computer.
+Users access the system by entering a username and password. Your password is personal and must not be disclosed to others, not even to customer service personnel. Never save your username or password on a computer or write them down on external objects near it.
 
 **Password**
 
-Choose a password that cannot be easily deciphered, preferably consisting of random characters and digits. Change your password every three months. In the event that your password may have been revealed to others, please change it immediately.
+Choose a password that cannot be easily deciphered, preferably consisting of random characters and digits. Change your password every three months. In the event that your password may have been revealed to others, please, change it immediately.
 
 **Logout**
 
@@ -36,15 +36,15 @@ Our Privacy Statement sets out the basis on which we process any personal data t
 
 We would typically collect the following information from you, whether you deal with OneTwoTrade as a private client, or otherwise in your individual capacity relating to a trust or investment vehicle established to invest on your behalf:
 
-  1. Personal details such as name, age, occupation and marital status.
-  2. Contact details such as address, telephone, email and in some cases, both private and work-related contact details.
-  3. Identification documents such as your passport, copies which may generally include a head and shoulders photograph from, as applicable, your passport, national identity card or driver's license, as required by laws and regulations addressing due diligence and related matters.
+  1. Personal details such as name, age, occupation, and marital status.
+  2. Contact details such as address, telephone, email and, in some cases, both private and work-related contact details.
+  3. Identification documents such as your passport, copies which may generally include a head and shoulders photograph from, as applicable, your passport, national identity card, or driver's license, as required by laws and regulations addressing due diligence and related matters.
   4. A personal identifier, depending on your country of residence.
-  5. Extensive financial information, including source of wealth, investment experience and objectives, risk tolerance and, in certain jurisdictions, representations required under applicable law or regulation concerning your financial resources
+  5. Extensive financial information, including source of wealth, investment experience, and objectives, risk tolerance and, in certain jurisdictions, representations required under applicable law or regulation concerning your financial resources.
 
 
 
-If you deal withOneTwoTrade in the capacity of an officer, employee, director and/or principal of one of our corporate or institutional clients, the typical personal data we collect from you would include:
+If you deal with OneTwoTrade in the capacity of an officer, employee, director and/or principal of one of our corporate or institutional clients, the typical personal data we collect from you would include:
 
   1. Your name and contact details
   2. Your role/position/title and area of responsibility
@@ -52,7 +52,7 @@ If you deal withOneTwoTrade in the capacity of an officer, employee, director an
 
 
 
-You are not required to supply any of the personal data that we may request. However, failure to supply any of the personal data that we request may result in our being unable to open or maintain your account, or to provide services to you or your company. While we make every effort to ensure that all information we hold about you is accurate, complete and up to date, you can help us considerably in this regard by promptly notifying us if there are any changes to your personal information.
+You are not required to supply any of the personal data that we may request. However, failure to supply any of the personal data that we request may result in our inability to open or maintain your account, or to provide services to you or your company. While we make every effort to ensure that all information we hold about you is accurate, complete and up to date, you can help us considerably in this regard by promptly notifying us if there are any changes to your personal information.
 
 #### **How do we collect your personal information?**
 
@@ -62,8 +62,8 @@ We typically obtain personal data about you in the forms and documents used when
 
 We, our associated firms and/or other persons acting on our or their behalf may process and use your personal data to:
 
-  * Administer and operate services in accordance with customer documents, including authorising or confirming transactions.
-  * Carry out credit, money laundering and conflict checks with the purpose of fraud prevention purposes (and this may include consideration of information regarding political affiliations and criminal offences committed or alleged to have been committed) and to contact you about other services and products we offer.
+  * Administer and operate services in accordance with customer documents, including authorizing or confirming transactions.
+  * Carry out credit, money laundering and conflict checks with the purpose of fraud prevention (and this may include consideration of information regarding political affiliations and criminal offences committed or alleged to have been committed), and to contact you about other services and products we offer.
   * Exercise and defend our legal rights.
   * Comply with legal and regulatory obligations and requests anywhere in the world (including reporting to and being audited by national and international regulatory, enforcement or exchange bodies and complying with court orders).
   * Record or monitor communications (including email, instant messaging, facsimile, telephone and other electronic communications) with you or your agent(s) for quality control and security purposes, as a record of your orders, instructions and related matters and in order to comply (and monitor compliance) with applicable laws and regulations, our agreements and any applicable policies and procedures; and as otherwise permitted under any applicable law or regulation.
@@ -72,9 +72,9 @@ We, our associated firms and/or other persons acting on our or their behalf may 
 
 #### **How do we use Cookies and similar technology?**
 
-OneTwoTrade uses certain technology on its websites to collect information from visitors and compiles aggregate statistical information about how visitors use our websites, including information relating to the frequency of visits, IP addresses, the average length of visits, which pages are viewed during a visit and the effectiveness of advertising on our websites.
+OneTwoTrade uses certain technology on its websites to collect information from visitors and compiles aggregate statistical information about their use of our websites, including information relating to the frequency of visits, IP addresses, the average length of visits, which pages are viewed during a visit, and the effectiveness of advertising on our websites.
 
-OneTwoTrade uses this information to improve the website content and performance. No individually identifiable information is collected for this purpose and OneTwoTrade does not monitor individual visitor behavior. Information held in cookies set by OneTwoTrade is kept to a minimum and can only be read by OneTwoTrade or by someone who has physical access to your personal computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalized service. They enable us to estimate our audience size and usage pattern, to store information about your preferences and to allow us to customize our site according to your individual interests in order to speed up your searches and to recognize you when you return to our site.
+OneTwoTrade uses this information to improve the website content and performance. No individually identifiable information is collected for this purpose and OneTwoTrade does not monitor individual visitors' behavior. Information held in cookies set by OneTwoTrade is kept to a minimum and can only be read by OneTwoTrade or by someone who has physical access to your personal computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalized service. They enable us to estimate our audience's size and usage pattern, to store information about your preferences, and to allow us to customize our site according to your individual interests in order to speed up your searches and to recognize you when you return to our site.
 
 You may refuse to accept cookies by activating the setting on your browser that allows you to refuse the setting of cookies. However, if you select this setting, you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log in to our site.
 
@@ -82,31 +82,18 @@ You may refuse to accept cookies by activating the setting on your browser that 
 
 If you do not wish to receive any communications from OneTwoTrade, you may opt out of our mailing list by clicking the unsubscribe button at the end of our emails.
 
-#### **When do we Disclose Personal Data we collect about you?**
-
-Please be assured that OneTwoTrade does not sell, rent or trade your personal data. OneTwoTrade does not disclose your personal data, except as described in this Privacy Statement. Furthermore, third parties who process your personal data on our behalf are required to adhere to confidentiality standards with respect to such information. Our processing and use of your personal data, for the purposes specified in this Privacy Statement, may include disclosure of your personal data:
-
-  * Between us and our associated firms, a list of which may be consulted in the corporate website of OneTwoTrade.
-  * To other persons processing your personal data on our or their behalf or otherwise providing us or them with professional or other services.
-  * To third parties such as settlement agents, overseas banks or exchange or clearing houses to whom we disclose in the course of providing products and services to you.
-  * To credit reference, fraud prevention and other similar agencies and other financial institutions, with whose information to persons to whom we assign or novate our rights or obligations.
-  * To prospective sellers or buyers in the event that we sell or buy any business or assets, or if all or substantially all of our assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * To national and international regulatory, enforcement or exchange bodies or courts anywhere in the world as required by applicable law or regulations anywhere in the world or at their request.
-
-
-
 #### **How do we protect the Security and Confidentiality of the personal data we collect about you?**
 
-OneTwoTrade maintains appropriate physical, technical and procedural safeguards to protect any information that you provide to us from accidental or unauthorized loss, misuse, damage, modification, access or disclosure.
+OneTwoTrade maintains appropriate physical, technical, and procedural safeguards to protect any information that you provide to us from accidental or unauthorized loss, misuse, damage, modification, access, or disclosure.
 
 #### **OneTwoTrade has established an Information Security Team, which leads efforts to:**
 
-  * Safeguard the confidentiality and privacy of information resources
+  * Safeguard the confidentiality and privacy of information resources.
   * Properly classify information resources.
   * Meet legal and regulatory obligations concerning the protection of information resources.
   * Implement and maintain information security policies and procedures. 
   * Integrate protection of information resources into the process life cycles of the business.
-  * Educate those working for or on behalf of Banc De Binary on information security policies and responsibilities.
+  * Educate those working for or on behalf of OneTwoTrade to information security policies and responsibilities.
   * Authenticate users and limit access to information resources based on authorization that has been granted.
 
 
