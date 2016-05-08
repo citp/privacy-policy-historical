@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the therapservices.net privacy policy that was archived on 2015-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150406141149id_/http%3A//www.therapservices.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therapservices.net privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508075927id_/http%3A//www.therapservices.net/privacy-policy) for the most accurate reproduction.*
 
-# Therap – Privacy Policy
+# Privacy Policy - Therap
 
 ## Therap Services, LLC – Website Privacy Policy
 
@@ -23,7 +23,7 @@ If you do nothing during your visit but browse through the web site, do searches
 
 We use this information to help us make our site more useful to Users – to learn about the number of visitors to our site, how long they use the site, and the types of technology our Users use. WE DO TRACK AND RECORD INFORMATION ABOUT THE IDENTITY OF USERS AND THEIR VISITS BUT DO NOT DISCLOSE SAME EXCEPT AS PROVIDED IN THE USER AGREEMENT OR BELOW.
 
-Sometimes we write a small file on the user’s computer called a “session cookie.” Session cookies automatically expire when users leave a Web site; session cookies retain information only during the session or for the purpose of completing a particular online transaction, without any capacity to track users over time and across different web sites. Other than a session cookie, and the six items described above, we do not obtain any information from the user or the user’s computer. We do not use “persistent cookies.” 
+Sometimes we write a small file on the user’s computer called a “session cookie.” Session cookies automatically expire when users leave a Web site; session cookies retain information only during the session or for the purpose of completing a particular online transaction, without any capacity to track users over time and across different web sites. Other than a session cookie, and the six items described above, we do not obtain any information from the user or the user’s computer. We do not use “persistent cookies.”
 
 If You Send Us Personal Information
 
