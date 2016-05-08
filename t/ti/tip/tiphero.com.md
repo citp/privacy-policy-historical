@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tiphero.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316184454id_/http%3A//tiphero.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiphero.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508075530id_/http%3A//tiphero.com/privacy) for the most accurate reproduction.*
 
 # Privacy | TipHero
 
-Last modified: May 13, 2009
+Last modified: April 17, 2015
 
 Your privacy is important to Tipedia LLC, doing business as TipHero.com (“Tip Hero”). This Privacy Policy applies to all of the websites, products, and services offered by Tip Hero. If you have any questions about this Privacy Policy, please contact us via email or write to us at Privacy Policy Matters, c/o Tipedia LLC, 195 Harvard Street, Suite 200, Cambridge, Massachusetts, 02139 USA.
 
@@ -19,6 +19,8 @@ Google, as a third party vendor, uses cookies to serve ads on TipHero.com. Googl
 When you visit Tip Hero, we send one or more cookies (small files containing a string of characters) to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people search. Most browsers are initially set up to accept cookies, but you can reset your browser to not accept cookies or to alert you when a cookie is being sent. If you have cookies disabled, however, some Tip Hero features and services may not function properly.
 
 When you use Tip Hero services, the servers we use automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request including date and time of the request, your IP address, your browser type, your browser language, and one or more cookies that may uniquely identify your browser.
+
+Tipedia LLC properties including TipHero.com use re-marketing and analytical services from Google and Facebook. These services allow us to re-market or re-advertise to people who have visited our sites or completed certain actions on our sites such as visiting specific pages, clicking on certain buttons, signing up for our email newsletter and other actions. These actions are shared with Google and Facebook but do not include any personally identifiable data. To collect this information third parties may use cookies, web beacons, and similar technologies to collect or receive information from your website and elsewhere on the internet and use that information to provide measurement services and target ads. Users can find information regarding opting out of such services at: [www.aboutads.info/choices](http://www.aboutads.info/choices). 
 
 When you send email or other communication to Tip Hero, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.  
 We offer some of our services to other web sites. In some cases, the personal information that you provide to those websites may be sent to Tip Hero in order to fully deliver the service. We process such information in accordance with this Privacy Policy. The affiliated sites may have different privacy practices. We encourage you to read their privacy policies.
@@ -57,4 +59,4 @@ When you use Tip Hero, we make every reasonable effort to provide you with acces
 
 Tip Hero regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy and/or Tip Hero’s treatment of personal information by writing to us either via email or at Privacy Matters, c/o Tipedia LLC, 195 Harvard Street, Suite 200, Cambridge, Massachusetts, 02139, USA. When we receive formal written complaints at this address, it is Tip Hero’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Tip Hero and an individual.
 
-Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most changes will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice. Each version of this Policy will be identified at the top of the page by its effective date. 
+Please note that this Privacy Policy may change from time to time. Regardless, we will post any Privacy Policy changes on this page and post the effective date of the policy on the top of this page. 
