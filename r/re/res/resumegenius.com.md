@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resumegenius.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910061542id_/https%3A//resumegenius.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resumegenius.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508163413id_/https%3A//resumegenius.com/privacy-policy) for the most accurate reproduction.*
 
 # Users Privacy Policy | Resume Genius
 
