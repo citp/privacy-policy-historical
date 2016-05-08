@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japanhdv.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315023923id_/https%3A//japanhdv.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japanhdv.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508075904id_/https%3A//japanhdv.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Terms and conditions « Membership help
 
@@ -6,7 +6,7 @@ PLEASE READ THIS PRIVACY POLICY STATEMENT CAREFULLY. BY YOUR SUBSCRIPTION TO AND
 
 IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT SUBSCRIBE TO OR USE THIS SITE. 
 
-The present Privacy Policy Statement details important information regarding the use and disclosure of user information and/or data gathered regarding subscriber ("you") and members of Vivelink Ltd websites ("our", "we", "us" the "site") websites including but not limited to, Avidolz, Javhq, My Cute Asian, Brutal Asia, Asians Bondage, JapanHDV. In addition, this Privacy Policy sets forth all relevant policies and practices for the sites. 
+The present Privacy Policy Statement details important information regarding the use and disclosure of user information and/or data gathered regarding subscriber ("you") and members of Viv __elin ****k Ltd websites ("our", "we", "us" the "site") websites including but not limited to, Avidolz, Javhq, My Cute Asian, Brutal Asia, Asians Bondage, JapanHDV. In addition, this Privacy Policy sets forth all relevant policies and practices for the sites.
 
 **USE**
 
