@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cowonamerica.com privacy policy that was archived on 2015-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151020052056id_/http%3A//cowonamerica.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cowonamerica.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508150225id_/http%3A//www.cowonamerica.com/privacy) for the most accurate reproduction.*
 
-# JetAudio
+# AutoCapsule
 
 **[ NOTE ]** Many features of this site require Javascript and cookies. You can enable both via your browser's preferences settings.   
  
