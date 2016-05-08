@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the theeducationedge.com privacy policy that was archived on 2011-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110202141706id_/http%3A//theeducationedge.com/RequestSchoolInfo/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theeducationedge.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508110342id_/http%3A//education180.com/FindYourDegree/privacypolicy.jsp) for the most accurate reproduction.*
 
-# TheEducationEdge.com
+# Education180.com
 
 **Privacy Policy**
 
-TheEducationEdge.com understands that you are concerned about how your information is used and shared. This notice explains our privacy policy and how your information may or may not be used by our site.
+Education180.com understands that you are concerned about how your information is used and shared. This notice explains our privacy policy and how your information may or may not be used by our site. 
 
-By visiting TheEducationEdge.com you are accepting the terms described in our privacy policy. 
+By visiting Education180.com you are accepting the terms described in our privacy policy. 
 
-**What personal information about customers does TheEducationEdge.com gather?**  
+**What personal information about customers does Education180.com gather?**  
 Information we gather on our site helps us enhance the experience that future visitors may have on our site. Here are the types of information we gather: 
 
   * **Information You Give Us**  
@@ -21,35 +21,36 @@ We receive and store certain types of information when you interact with our sit
   * **Information from Other Sources**  
 We do receive information from other sources and append this to the information that is sent to each school. Examples of this information are the following: Source of where you initially clicked on an advertisement, what ad you clicked on, what you may have typed into a search engine, etc. This information helps us better optimize your user experience based on your information needs. 
 
-**Does TheEducationEdge.com share the information we receive?**  
-Information about our customers is very important to us. We do reserve the right to sell the information to other parties. If you wish to be removed from being contacted by our partners, simply email us at [contactus@TheEducationEdge.com](mailto:contactus@theeducationedge.com). 
+**Does Education180.com share the information we receive?**  
+Information about our customers is very important to us. We do reserve the right to sell the information to other parties. If you wish to be removed from being contacted by our partners, simply email us at [contactus@Education180.com](mailto:contactus@education180.com). 
 
 Our relationships and contracts with the schools prohibit us from contacting you directly without your expressed consent. 
 
-**What sort of Information might I receive from TheEducationEdge.com?**  
+**What sort of Information might I receive from Education180.com?**  
 If you do opt-in to our newsletter, we may on occasion send out information that we deem of interest to you. This could range from helpful hints about education to other advertising offers such as but not limited to loan offers, and/or consumer product offers. 
 
-If you wish to opt out of our newsletter, you can unsubscribe at any time by going to the following link: [http://www.TheEducationEdge.com/RequestSchoolInfo/unsubscribe.jsp](http://www.theeducationedge.com/RequestSchoolInfo/unsubscribe.jsp)
+If you wish to opt out of our newsletter, you can unsubscribe at any time by going to the following link: <http://www.education180.com/FindYourDegree/unsubscribe.jsp>
 
 **What information can I access?**  
-TheEducationEdge.com fully believes in transparency and accessibility. If you wish to delete your information from our database, please send a written request to [contactus@TheEducationEdge.com](mailto:contactus@theeducationedge.com) and your request will be processed within 10 business days. 
+Education180.com fully believes in transparency and accessibility. If you wish to delete your information from our database, please send a written request to [contactus@education180.com](mailto:contactus@education180.com) and your request will be processed within 10 business days. 
 
 If you wish to remove your contact information from a particular school, you must contact that school directly. You can also email us, and we will forward on your request to the appropriate representatives at each school. It usually takes about 10 days for all parties to comply with your request. 
 
-**Are Children allowed to use TheEducationEdge.com?**  
+**Are Children allowed to use Education180.com?**  
 All people are allowed to access and use our site. However, since we market education for adult learners, we require the person to be at least 18 years old to submit a request for information.
 
-**How safe is my information?**  
-At TheEducationEdge.com we currently do not collect information such as social security numbers or credit card numbers. If we do in the future change this policy, we will ensure that this information is transmitted in a secure environment. At the moment, we only collect information that is publicly accessible and can often be found in phone books or internet search engines. Therefore, we currently do not offer SSL encryption on our site. 
+**How safe is my information?**
+
+At Education180.com we currently do not collect information such as social security numbers or credit card numbers. If we do in the future change this policy, we will ensure that this information is transmitted in a secure environment. At the moment, we only collect information that is publicly accessible and can often be found in phone books or internet search engines. Therefore, we currently do not offer SSL encryption on our site. 
 
 **If I have a problem with my data, how can I resolve it?**  
-We are committed to helping you resolve your dilemma as quickly as possible. Please contact us through email at [contactus@TheEducationEdge.com](mailto:contactus@theeducationedge.com). This email box is checked during business working days only. We are committed to resolving any issues in a timely manner. 
+We are committed to helping you resolve your dilemma as quickly as possible. Please contact us through email at [contactus@education180.com](mailto:contactus@education180.com). This email box is checked during business working days only. We are committed to resolving any issues in a timely manner. 
 
 **Conditions of Use**  
-By using and accessing TheEducationEdge.com you are agreeing to the Online Privacy Policy set forth. As our business changes and grows, we may change the privacy policy. Any changes will be posted on our site. Please check back often for any updates.
+By using and accessing Education180.com you are agreeing to the Online Privacy Policy set forth. As our business changes and grows, we may change the privacy policy. Any changes will be posted on our site. Please check back often for any updates.
 
 Sincerely,
 
-The TheEducationEdge.com Team
+The Education180.com Team
 
 Updated November 21, 2010 
