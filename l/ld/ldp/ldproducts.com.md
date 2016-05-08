@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ldproducts.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025122438id_/http%3A//www.ldproducts.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ldproducts.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508023357id_/http%3A//www.ldproducts.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy - LD Products
 
