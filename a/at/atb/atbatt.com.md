@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the atbatt.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108152046id_/http%3A//www.atbatt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atbatt.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508182752id_/http%3A//www.atbatt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[Home](https://web.archive.org/) / [About Us](https://web.archive.org/about_us) / Privacy Policy
-
-[](http://privacy.truste.com/privacy-seal/At-Battery-Company,-Inc-/validation?rid=4c501f74-3528-4544-873d-6d8dc00a6715 "TRUSTe online privacy certification")
-
-At Battery Company, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personally identifiable information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, www.atbatt.com and does not cover information that may be collected behind the log in on our website. 
 
 This privacy statement covers the Web site [www.atbatt.com](http://www.atbatt.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
@@ -36,22 +30,7 @@ We do not reveal Personally Identifiable Information about you to unaffiliated t
 
  **Service Providers.**  We use other third parties to provide shipping and credit card processing services on our site. When you purchase a product(s) on our site, we will share your contact, shipping and credit card information as necessary for the third party to provide that service. These third parties are prohibited from using your personally identifiable information for any other purpose including their own marketing purposes. 
 
-FedEx Corporation  
-942 South Shady Grove Road  
-Memphis, TN 38120  
-1-800-GO-FEDEX  
-[www.fedex.com](http://www.fedex.com/) | UPS Corporate Headquarters  
-55 Glenlake Parkway, NE  
-Atlanta , GA 30328  
-United States  
-[www.ups.com](http://www.ups.com/) | US Postal Service Headquarters  
-475 L'Enfant Plaza, SW  
-Washington DC  
-1-800-ASK-USPS  
-[www.usps.com](http://www.usps.com/)  
----|---|---  
-  
-**Cookies.**  A cookie is a small text file that is stored on a user's computer for record-keeping purposes. 
+ **Cookies.**  A cookie is a small text file that is stored on a user's computer for record-keeping purposes. 
 
 Like most websites, we use "cookies" to keep track of your current shopping session, to personalize your experience and so that you may retrieve your shopping cart at any time. However, we do NOT use cookies to examine your surfing behavior before or after you leave our Site. There are products commercially available that are designed to help you disable cookies. Although we want you to be aware that such products exist, please note that if you choose to use them we will not be able to provide you with a personalized service, and it may result in certain features and services not being available to you. We do link the information we store in cookies to any personally identifiable information you submit while on our site. It is used solely for purposes of processing your order and is not shared with any third parties. 
 
@@ -88,8 +67,6 @@ By choosing to visit our Site you agree that any dispute over privacy or the ter
  **Contacting Us:**  If you have any questions about this Privacy Policy, would like more information, or if you believe that we have not adhered to this Privacy Policy, please [Contact Us](https://web.archive.org/contact-us) or write to: 
 
 At Battery Company, Inc.  
-28918 Hancock Parkway  
+28337 Constellation Road  
 Valencia, CA 91355  
 United States
-
-Copyright © 2014 At Battery Company. All Rights Reserved.
