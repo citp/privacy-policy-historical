@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netfit.co.uk privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220070823id_/http%3A//www.netfit.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netfit.co.uk privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508102559id_/http%3A//www.netfit.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy
 
