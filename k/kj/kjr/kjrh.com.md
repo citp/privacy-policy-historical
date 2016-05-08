@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kjrh.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009140621id_/http%3A//www.kjrh.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kjrh.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508183805id_/http%3A//www.kjrh.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - KJRH.com
+# Privacy Policy
 
 PRIVACY POLICY
 
@@ -20,9 +20,7 @@ We typically collect two kinds of information about you through the Services: (a
 
 Furthermore, for social media, if you choose to log-in, access, or otherwise connect to or with the Services through a social networking service, we may collect your user ID and user name associated with that social networking service and information that you make public using that social networking service.  We may also collect information that you have authorized any such service to share with us. 
 
-(2)  Non-Personally Identifiable Information:  Our definition of non-personally identifiable information is any information that does not personally identify you (“Non-PII”).  Non-PII can include certain personally identifiable information that has been de-identified; that is, information that has been rendered anonymous.  We obtain Non-PII about you from information that you provide us, either separately or together with your personally identifiable information.  We also automatically collect certain Non-PII from you when you access any Service.  This information can include, among other things, IP addresses, the type of browser you are using (e.g., Internet Explorer, Firefox, or Safari), the third party website from which your visit originated, the operating system you are using (e.g., Vista, Windows XP, or Mac OS), the domain name of your Internet service provider (e.g., America Online or NetZero), the
-
-search terms you use on our Services, the specific web pages you visit, the duration of your visits, and location information.
+(2)  Non-Personally Identifiable Information:  Our definition of non-personally identifiable information is any information that does not personally identify you (“Non-PII”).  Non-PII can include certain personally identifiable information that has been de-identified; that is, information that has been rendered anonymous.  We obtain Non-PII about you from information that you provide us, either separately or together with your personally identifiable information.  We also automatically collect certain Non-PII from you when you access any Service.  This information can include, among other things, IP addresses, the type of browser you are using (e.g., Internet Explorer, Firefox, or Safari), the third party website from which your visit originated, the operating system you are using (e.g., Vista, Windows XP, or Mac OS), the domain name of your Internet service provider (e.g., America Online or NetZero), the search terms you use on our Services, the specific web pages you visit, the duration of your visits, and location information.
 
 B.        HOW WE USE & SHARE THE INFORMATION COLLECTED
 
@@ -44,9 +42,7 @@ C.        COOKIES AND PREFERENCE BASED ADVERTISING
 
 If you are concerned about the storage and use of cookies, you may be able to direct your internet browser to notify you and seek approval whenever a cookie is being sent to your web browser or hard drive.  You may also delete a cookie manually from your hard drive through your internet browser or other programs.  [**CLICK HERE**](http://www.aboutads.info/consumers) for more information on cookies and browser controls.  Please note, however, that some parts of the Services will not function properly or be available to you if you refuse to accept a cookie or choose to disable the acceptance of cookies.
 
-(2)  Preference Based Advertising:  We may work with third parties, including advertising companies and website analysis firms,
-
-who use cookies and web beacons to collect Non-PII when you visit our Services and third party sites.  This Non-PII, collected through cookies, web beacons, and local storage objects, is typically used by these third party advertising companies (i.e., advertising networks) to serve you with advertisements while on third party sites tailored to meet your preferences and needs.  For comprehensive information on online advertising, please [**CLICK HERE**](http://www.aboutads.info/consumers) .  If you do not wish to participate in this activity, please [**CLICK HERE**](http://www.aboutads.info/choices) and follow the simple opt-out process.
+(2)  Preference Based Advertising:  We may work with third parties, including advertising companies and website analysis firms, who use cookies and web beacons to collect Non-PII when you visit our Services and third party sites.  This Non-PII, collected through cookies, web beacons, and local storage objects, is typically used by these third party advertising companies (i.e., advertising networks) to serve you with advertisements while on third party sites tailored to meet your preferences and needs.  For comprehensive information on online advertising, please [**CLICK HERE**](http://www.aboutads.info/consumers).  If you do not wish to participate in this activity, please [**CLICK HERE**](http://www.aboutads.info/choices) and follow the simple opt-out process.
 
 A couple of important notes about this opt-out tool: (1) it includes all the advertising networks that we may work with, but also many that we do not work with; and (2) it relies on cookies to ensure that a given advertising network does not collect information about you (“Opt-out Cookies”).  Therefore, if you use multiple computers or mobile devices, buy a new computer, change web browsers or delete these Opt-out Cookies from your computer, you will need to perform the opt-out task again.
 
@@ -62,9 +58,7 @@ D.        OTHER USES & INFORMATION
 
 (5) Your California Privacy Rights: 
 
-·         Residents of the State of California, under Section 1798.83 of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed certain personally identifiable information as defined under California law during the preceding year for third party direct marketing purposes.  You are limited to one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for our response.  You may request the information via e-mail to the
-
-address set forth in Section J.
+·         Residents of the State of California, under Section 1798.83 of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed certain personally identifiable information as defined under California law during the preceding year for third party direct marketing purposes.  You are limited to one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for our response.  You may request the information via e-mail to the address set forth in Section J.
 
 ·          If you are a California resident under the age of 18, and a registered user of any site where this Privacy Policy is posted, California Business and Professions Code Section 22581 permits you to request and obtain removal of content that you have publicly posted.  To make such a request, please send an e-mail with a detailed description of the specific content to the address set forth in Section J.  Please be aware that such a request does not ensure complete or comprehensive removal of the content or information that you have posted and there may be circumstances in which the law does not require or allow removal even if requested.
 
@@ -92,9 +86,7 @@ The Services are hosted in the United States and are directed toward users who r
 
 J.          CONTACT & OPT-OUT INFORMATION
 
-You may contact us as at [Support@ewscrippsco.freshdesk.com](mailto:Support@ewscrippsco.freshdesk.com)
-
- if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our affiliated companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with others.
+You may contact us as at [Support@ewscrippsco.freshdesk.com](mailto:Support@ewscrippsco.freshdesk.com) if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our affiliated companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with others.
 
 We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable.  Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Services. 
 
