@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the todayindiadeals.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212025508id_/http%3A//www.todayindiadeals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todayindiadeals.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508130814id_/http%3A//www.todayindiadeals.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](http://www.todayindiadeals.com/nokia-1100-mobile-phone-refurbished)
 
 **We protect your privacy.**  
 Our privacy policy is simple: any information you give us stays with us. We do not rent, sell, lend, or otherwise distribute your personal information to anyone for any reason. This includes your contact information, as well as specific order information.
