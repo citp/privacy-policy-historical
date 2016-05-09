@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fircroft.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316061131id_/http%3A//www.fircroft.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fircroft.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509065705id_/http%3A//www.fircroft.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fircroft
 
