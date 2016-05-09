@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charlieapp.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929115435id_/https%3A//charlieapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charlieapp.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509192216id_/https%3A//charlieapp.com/privacy) for the most accurate reproduction.*
 
 # Charlie App | Privacy Policy
 
