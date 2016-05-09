@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squaremeal.co.uk privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026211505id_/http%3A//www.squaremeal.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squaremeal.co.uk privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509062551id_/http%3A//www.squaremeal.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Square Meal
 
