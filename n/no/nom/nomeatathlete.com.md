@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nomeatathlete.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109085700id_/http%3A//www.nomeatathlete.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nomeatathlete.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509235212id_/http%3A//www.nomeatathlete.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | No Meat Athlete
 
