@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dailyrazor.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919224025id_/http%3A//www.dailyrazor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyrazor.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509205833id_/http%3A//www.dailyrazor.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy at DailyRazor.com
-
-## [Privacy Policy](http://www.dailyrazor.com/privacy-policy/ "Permalink to Privacy Policy")
+# Privacy Policy - Web Hosting, Web Design, Domain Names, E-Commerce, etc.
 
 DailyRazor Hosting (hereafter referred to as DailyRazor) has created this privacy policy to demonstrate our commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
 
@@ -34,14 +32,14 @@ DailyRazor Hosting (hereafter referred to as DailyRazor) has created this privac
   * DailyRazor may otherwise disclose your personal information when: 
     * We have your express consent to share the information for a specified purpose;
     * We need to respond to subpoenas, court orders or such other legal process;
-    * We need to protect the personal safety of the users of our websites or defend the rights or property of DailyRazor;
+    * We need to protect the personal safety of the users of our websites or defend the rights or property of DailyRazor ;
     * We find that your actions on our websites violate the DailyRazor Terms of Use document or any of our usage guidelines for specific products or services.
 
 
 
 **Consent**
 
-  * If you do not consent to the collection, use or disclosure of your personal information as outlined in this policy, please do not provide any personal information to DailyRazor. If you have provided personal information to DailyRazor and no longer consent to its use or disclosure as outlined herein, please notify DailyRazor at support@dailyrazor.com.
+  * If you do not consent to the collection, use or disclosure of your personal information as outlined in this policy, please do not provide any personal information to DailyRazor. If you have provided personal information to DailyRazor and no longer consent to its use or disclosure as outlined herein, please notify DailyRazor at support@DailyRazor.com.
 
 
 
@@ -61,6 +59,6 @@ DailyRazor Hosting (hereafter referred to as DailyRazor) has created this privac
 
 **Questions or Suggestions**
 
-  * If you have questions or suggestions about this privacy policy, or your own personal information, please e-mail us at support@dailyrazor.com
+  * If you have questions or suggestions about this privacy policy, or your own personal information, please e-mail us at support@DailyRazor.com
 
 
