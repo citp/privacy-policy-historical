@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoppingscanner.co.uk privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229122908id_/http%3A//www.shoppingscanner.co.uk/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppingscanner.co.uk privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509073205id_/http%3A//www.shoppingscanner.co.uk/policy/privacy) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use - Shoppingscanner
 
@@ -7,8 +7,8 @@ Using shoppingscanner.com the user automatically accepts this privacy policy.
 
 Data Controller and Owner:  
 Blue Inx srl  
-via de' Pucci 4  
-50122 Firenze  
+Viale Giovanni Milton 27  
+50129 Firenze  
 Italy  
 staff@shoppingscanner.com
 
@@ -21,7 +21,7 @@ We receive and store any information you provide to us when registering with our
 
 ## Third Parties’ Cookies
 
-Shoppingscanner provides end users with free information provided from third parties. These third parties install their own cookies when the user makes a “click out” action, being redirected to the Affiliate shops’ websites. These third party companies have their own privacy policies; we invite you to read those Third Parties’ privacy policies: Zanox, Tradedoubler, Tradetracker, Webgains.
+Shoppingscanner provides end users with free information provided from third parties. These third parties install their own cookies when the user makes a “click out” action, being redirected to the Affiliate shops’ websites. These third party companies have their own privacy policies; we invite you to read those Third Parties’ privacy policies: Zanox, Conversant Commission Junction, Tradetracker, Webgains, Yoox UK, Affiliate Windows, Rakuten Linkshare.
 
 ## Google Analytics
 
