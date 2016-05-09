@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squawalpine.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121025530id_/http%3A//squawalpine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squawalpine.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509104016id_/http%3A//squawalpine.com/privacy-policy) for the most accurate reproduction.*
 
 # Squaw Alpine Privacy Policy | Squaw Valley Hotel
 
