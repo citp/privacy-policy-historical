@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tricare.mil privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108085745id_/http%3A//tricare.mil/Privacy.aspx%3Futm_source%3Dsub-footer%26utm_medium%3Dorganic%26utm_campaign%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tricare.mil privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509131657id_/http%3A//tricare.mil/Privacy.aspx%3Futm_source%3Dsub-footer%26utm_medium%3Dorganic%26utm_campaign%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | TRICARE
 
 TRICARE.mil is provided as a public service by the The Military Health System. Information presented on this site is considered public information and may be distributed or copied. Use of appropriate byline/photo/image credits is requested. 
 
