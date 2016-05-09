@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paralympics.org.uk privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107080507id_/http%3A//paralympics.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paralympics.org.uk privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509092311id_/http%3A//paralympics.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # British Paralympic Association Privacy Policy | British Paralympic Association
 
