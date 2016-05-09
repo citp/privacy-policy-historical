@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eatz.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108094807id_/http%3A//www.eatz.com/Venues/content/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatz.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509061254id_/http%3A//www.eatz.com/Venues/content/privacy_policy) for the most accurate reproduction.*
 
-# Order Food Online Hyderabad - Home Delivery Restaurants in Hyderabad - Eatz
+# Privacy Policy | Eatz
 
 eatz.com value the trust you place in [http://www.eatz.com](http://www.eatz.com/). This statement discloses the information practices for the eatz.com, including what type of information is gathered and tracked, how the information is used and with whom the information is shared. 
 
