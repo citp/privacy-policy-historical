@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the submitresume.in privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018001614id_/http%3A//www.submitresume.in/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submitresume.in privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509222420id_/http%3A//www.submitresume.in/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Jobs In India | Submit Resume
 
