@@ -1,40 +1,42 @@
-> *The following text is extracted and transformed from the odeoncinemas.ie privacy policy that was archived on 2015-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150403021459id_/http%3A//www.odeoncinemas.ie/privacy-and-legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odeoncinemas.ie privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509234626id_/http%3A//www.odeoncinemas.ie/privacy-and-legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ODEON PRIVACY AND COOKIE STATEMENT (REPUBLIC OF IRELAND)
 
-PART A – INTRODUCTION
+PART A - INTRODUCTION
 
 About ODEON / Definitions
 
-1) United Cinemas International (Ireland) Limited, Waterwhite Projections Limited, Storm Cinemas (Waterford) Limited, Kilcin Limited, First Class Productions Limited, First Class Cinemas Limited, Castletroy Cinemas Limited, Ashbourne Cinemas Limited, and Point Pictures Limited are members of a group of companies that provide entertainment services in the Republic of Ireland (please refer to the "Privacy and Legal" page on the Website for full company information for these companies). "ODEON / we / our / us" means the companies listed in the previous sentence plus their Irish subsidiary and holding companies and the subsidiaries of such holding companies. "Guest Services" means our Guest Services facility (visit the Website "Contact Us" page for up to date contact details). "Mobile Apps" means any Republic of Ireland ODEON mobile website, iPhone app and any other similar applications developed for different operating systems as may be made available from time to time. "Privacy Statement" means this Privacy and Cookie Statement. "ODEON Social Media" means the parts of social media provided by third parties (such as Facebook) through which ODEON provides services directed at users in the Republic of Ireland such as information, applications, and similar activities. “ODEON Wi-Fi” means the wireless internet access provided by ODEON at its cinemas in the Republic of Ireland. "Website" means our website at www.odeoncinemas.ie.
+1\. United Cinemas International (Ireland) Limited, Waterwhite Projections Limited, Storm Cinemas (Waterford) Limited, Kilcin Limited, First Class Productions Limited, First Class Cinemas Limited, Castletroy Cinemas Limited, Ashbourne Cinemas Limited, and Point Pictures Limited are members of a group of companies that provide entertainment services in the Republic of Ireland (please refer to the "Privacy and Legal" page on the Website for full company information for these companies). "ODEON / we / our / us" means the companies listed in the previous sentence plus their Irish subsidiary and holding companies and the subsidiaries of such holding companies. "Guest Services" means our Guest Services facility (visit the Website "Contact Us" page for up to date contact details). "Mobile Apps" means any Republic of Ireland ODEON mobile website, iPhone app and any other similar applications developed for different operating systems as may be made available from time to time. "Privacy Statement" means this Privacy and Cookie Statement. "ODEON Social Media" means the parts of social media provided by third parties (such as Facebook) through which ODEON provides services directed at users in the Republic of Ireland such as information, applications, and similar activities. “ODEON Wi-Fi” means the wireless internet access provided by ODEON at its cinemas in the Republic of Ireland. "Website" means our website at www.odeoncinemas.ie.
 
 Your consent to this Privacy Statement
 
-2) We have written this Privacy Statement to help you understand how ODEON may collect and use your personal information, and to inform you about the choices you can make about your personal information. This Privacy Statement contains important information about how we handle the information we collect from you: please read it carefully. If you are reading this Privacy Statement online, please print or save a copy for your records.
+2\. We have written this Privacy Statement to help you understand how ODEON may collect and use your personal information, and to inform you about the choices you can make about your personal information. This Privacy Statement contains important information about how we handle the information we collect from you: please read it carefully. If you are reading this Privacy Statement online, please print or save a copy for your records.
 
-3\. By accessing, using or registering on the Website or ODEON Social Media, downloading, using or registering on a Mobile App, contacting Guest Services, using ODEON Wi-Fi or applying for, signing, using or registering an ODEON Première Club and/or stored value card, you accept this Privacy Statement.
+3\. By accessing, using or registering on the Website or ODEON Social Media, downloading, using or registering on a Mobile App, contacting Guest Services, using ODEON Wi-Fi or applying for, signing, using or registering an ODEON Première Club card, Limitless card and/or stored value card, you accept this Privacy Statement.
 
 Amendments to this Privacy Statement
 
-4\. ODEON reserves the right to add to or amend this Privacy Statement from time to time. Amendments will take effect when posted on the Website, Mobile App and ODEON Social Media. Please check the Website, Mobile Apps or ODEON Social Media "Privacy & Legal" section regularly for changes. If you access, use or register on the Website, Mobile Apps, ODEON Wi-Fi or ODEON Social Media, use Guest Services or use or register your ODEON Première Club / stored value card after any amendment to this Privacy Statement, you agree to be bound by the updated version of this Privacy Statement. Unless otherwise stated, our current Privacy Statement applies to all the personal information we have about you. If you have already given us personal information, we will not materially change our Privacy Statement to make it less protective of privacy without obtaining consent from affected customers.
+4\. ODEON reserves the right to add to or amend this Privacy Statement from time to time. Amendments will take effect when posted on the Website, Mobile App and ODEON Social Media. Please check the Website, Mobile Apps or ODEON Social Media "Privacy & Legal" section regularly for changes. If you access, use or register on the Website, Mobile Apps, ODEON Wi-Fi or ODEON Social Media, use Guest Services or use or register your ODEON Première Club card / Limitless card / stored value card after any amendment to this Privacy Statement, you agree to be bound by the updated version of this Privacy Statement. Unless otherwise stated, our current Privacy Statement applies to all the personal information we have about you. If you have already given us personal information, we will not materially change our Privacy Statement to make it less protective of privacy without obtaining consent from affected customers.
 
 PART B - INFORMATION WE MAY COLLECT FROM YOU
 
 5\. ODEON may collect and process information about you as set out in this Part B.
 
-6\. Making a purchase / joining ODEON Première Club via the Website or Mobile Apps. If you make a purchase via the Website or Mobile Apps, ODEON will collect the information we need to fulfil your order and notify you of the status of your order. If you apply to join the ODEON Première Club, ODEON will collect the information we need to open, administer and run your account and to deal with any enquiries you may have about it.
+Making a purchase / joining ODEON Première Club / Joining Limitless
+
+6.If you make a purchase via the Website or Mobile Apps, ODEON will collect the information we need to fulfil your order and notify you of the status of your order. If you apply to join ODEON Première Club or Limitless, ODEON will collect the information we need to open, administer and run your account and to deal with any enquiries you may have about it.
 
 Registering your details with ODEON
 
-7\. You may choose to register your details with ODEON anytime online using the "Register" section of the Website.
+7\. You may choose to register your details with ODEON anytime online using the "Register" section of the Website  or by completing the ODEON Wi-Fi registration process.
 
 8\. If you want to use your ODEON Première Club card to earn and redeem ODEON points, you must register with us as an ODEON Première Club member.
 
 9\. In each case, the registration process will set out the minimum information you need to provide (in the form of mandatory fields) and you may provide us with other information if you chose.
 
-10\. You must be over 16 to register with ODEON.
+10\. You must be over 16 to register with ODEON via the Website. You do not need to be 16 or over to register with ODEON via ODEON Wi-Fi - see Part D, below, for more information about this.
 
 11\. You will also need to register with us if you want to post content on the Website (e.g. film reviews)
 
@@ -46,15 +48,15 @@ Sensitive personal information
 
 13\. Please note that ODEON may collect sensitive personal information from you in the course of providing goods and/or services to you (in particular, information as to whether you have a disability).
 
-Using the Website, Mobile Apps, ODEON Wi-Fi and ODEON Social Media / Information emails from ODEON
+Using our services / Information emails from ODEON
 
-14\. ODEON may collect information about your use of the Website, Mobile Apps or ODEON Social Media and ODEON Wi-Fi. We may also collect information about information emails we send to you and how you respond to them. See Part C, below, for more details about this.
+14\. ODEON may collect information about your use of our services (including your purchases from us, and your use of ODEON Premiere Club, Limitless, the Website, Mobile Apps, ODEON Social Media and ODEON Wi-Fi). We may also collect information about information emails we send to you and how you respond to them. See Part C, below, for more details about this.
 
 PART C - COOKIES / WEB BEACONS / THIRD PARTY LINKS
 
 Introduction
 
-15\. ODEON uses information collected using cookies and web beacons to help us analyse, develop, manage and market our goods and services, and our communications to you 
+15\. ODEON uses information collected using cookies and web beacons to help us analyse, develop, manage and market our goods and services, and our communications to you.
 
 16\. A "cookie" is a small piece of information placed on your device's hard drive via your web browser. "Session cookies" are temporary cookies which remain on the cookie file of your browser until you leave a website. "Persistent cookies" remain in the cookie file of your browser for much longer (how long will depend on the lifetime of the specific cookie). The "help" button on the menu bar of most web browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser tell you when you receive a new cookie, and how to disable cookies. More information about cookies is available at www.aboutcookies.org.
 
@@ -62,7 +64,7 @@ Introduction
 
 ODEON cookies
 
-18\. ODEON uses session cookies on the Website, Mobile Apps and ODEON Social Media to: enhance our visitors' experience of the Website, Mobile Apps and ODEON Social Media; and to provide certain facilities on the Website, Mobile Apps and ODEON Social Media. For example, session cookies allow you to carry information across pages of the Website, Mobile Apps and ODEON Social Media when booking a ticket, and avoid you having to re-enter information. We use session cookies to collect information about your device including its IP address (a unique identifier of your device), operating system and browser type. This helps us ensure that content from the Website, Mobile Apps and ODEON Social Media is presented in the most effective manner for you and your device. We also collect information about browsing actions and patterns.
+18\. ODEON uses session cookies on the Website, Mobile Apps and ODEON Social Media to enhance our visitors' experience of the Website, Mobile Apps and ODEON Social Media, and to provide certain facilities on the Website, Mobile Apps and ODEON Social Media. For example, session cookies allow you to carry information across pages of the Website, Mobile Apps and ODEON Social Media when booking a ticket, and avoid you having to re-enter information. We use session cookies to collect information about your device including its IP address (a unique identifier of your device), operating system and browser type. This helps us ensure that content from the Website, Mobile Apps and ODEON Social Media is presented in the most effective manner for you and your device. We also collect information about browsing actions and patterns.
 
 19\. We may ask you whether you wish us to provide certain facilities which require the use of a persistent cookie. For example, if you want us to recognise your device and pre-fill some of your log in details to save you time, we use a persistent cookie to do this.
 
@@ -76,7 +78,7 @@ Third party cookies
 
 23\. You can disable third party cookies if you wish. However, you should read the cookie policy of the relevant third party, in particular, to find out how to do this.
 
-Mobile Apps 
+Mobile Apps
 
 24\. If you are using Mobile Apps then certain functionality requires location data from your device to work e.g. find my nearest cinema. If you do not want the Mobile Apps to use your location data please change your settings on your device: some Mobile Apps ask you if you want to do this when you download them e.g. iPhone apps or depending on your device others may ask you when you access them e.g. the ODEON mobile website. If you change your mind and want to opt out later you will need to change the settings on your Mobile App. Please see the relevant help sections for your device.
 
@@ -104,19 +106,27 @@ Google Analytics
 
 ODEON Wi-Fi
 
-32\. When you use ODEON Wi-Fi we may collect data about your device and the websites and applications which you access.
+32\. When you use ODEON Wi-Fi we may collect data about:
+
+a)  your device;
+
+b) the volume of data which you use;
+
+c) the websites and applications which you access; and
+
+d) your usage by access time, frequency and location.
 
 PART D - USE MADE OF THE INFORMATION WE COLLECT FROM YOU
 
-Making a purchase / joining the ODEON Première Club via the Website or Mobile Apps
+Making a purchase /joining ODEON Première Club / joining Limitless
 
-33\. If you make a purchase via the Website or Mobile Apps, ODEON will use your information such as your name, contact details and credit / debit / payment card details to fulfil your order and notify you of the status of your order, which will usually include sending you a booking or purchase confirmation email.
+33\. If you make a purchase, ODEON will use your information to fulfil your order and notify you of the status of your order, which will usually include sending you a booking or purchase confirmation email. If you apply to join the ODEON Première Club or Limitless, ODEON will use your information to open, administer and run your account and to deal with any enquiries you may have about it.
 
-34\. If you apply to join the ODEON Première Club, ODEON will use your information to open, administer and run your account and to deal with any enquiries you may have about it.
+34\. Where you make a purchase by credit/debit card via the Website or Mobile apps, Bookit will use the purchase information you submit to process your credit/debit card transaction on ODEON’s behalf. If you join ODEON Limitless, Harlands Services Limited may process some of your payments on ODEON’s behalf.
 
 Registering with ODEON
 
-35\. If you register your details with us online, or you register as an ODEON Première Club member, we will use the details you have given us, together with details of how you use the Website, Mobile Apps or ODEON Social Media, details of information emails we send to you and how you respond to them, and details of your purchasing behaviour with ODEON, as follows:
+35\. If you register your details with us via our Website or ODEON Wi-Fi, or you register as an ODEON Première Club member, or you become a Limitless member, we will use the details you have given us, together with details of how you use the Website, Mobile Apps or ODEON Social Media, details of information emails we send to you and how you respond to them, and details of your purchasing behaviour with ODEON, as follows:
 
 a) to manage and improve our goods and services, the Website, Mobile Apps, ODEON Social Media, Guest Services, our cinemas, the ODEON Première Club and/or our stored value cards;
 
@@ -134,13 +144,13 @@ g) to build up a picture of your personal preferences, and generally how you use
 
 Information emails from ODEON
 
-36\. If you have registered with ODEON, you can ask us to send you information emails with information about film times and/or emails with film & cinema news, competitions & special offers, and information about ODEON products & services. We will also send you information emails if you have consented to this when booking a ticket or joining the ODEON Première Club on the Website, a Mobile App or ODEON Social Media.
+36\. If you have registered with ODEON through the Website, you can ask us to send you information emails about film times and/or emails with film & cinema news, competitions & special offers, and information about ODEON products and services. We will also send you information emails if you have consented to this when booking a ticket or joining the ODEON Première Club on the Website, or a Mobile App. If you have registered with ODEON via ODEON Wi-Fi and are 16 or over we will send you emails with information about film & cinema news, competitions & special offers, and information about ODEON products and services unless you have previously expressed a preference not to receive such emails.  When you register with ODEON via ODEON Wi-Fi, we will ask for your date of birth to ensure that we only send you information emails about age appropriate films. If you are under 16 years old we will not send you any information emails. For Limitless members, we will send you emails about similar ODEON products and services such as films & cinema news, promotions, our loyalty schemes, and competitions & special offers, unless you asked us not to do this during the sign up process.
 
 37\. Information emails will only come from ODEON. They may involve carefully selected partners from time to time, but we will not pass your data to any third party for direct marketing. Where we provide you with news and offers of organisations outside ODEON, we do not give them your details.
 
-38\. Each information email will contain details of how you can unsubscribe from receiving more of these emails, and you can change your mind at any time about which information emails you receive by logging into the Website and amending your details, or by contacting us by any of the methods set out at paragraph 52 below.
+38\. For most information emails from ODEON, you can change your mind at any time about which information emails you receive by logging into the Website and amending your details.   Every information email from ODEON will contain details of how you can unsubscribe, and you can always contact us to unsubscribe using the methods set out at paragraphs 50 to 52 below.
 
-39\. Please note that if you indicate to us that you prefer not to receive information emails, and then opt in to receive them at a later date (or vice versa), we will take the latest indication as the confirmation as to whether you want to receive information emails from us.
+39\. Please note that if you indicate to us that you prefer not to receive information emails, and then opt in to receive them at a later date (or vice versa), we will take the latest indication as the confirmation as to whether you want to receive information emails from us. This does not apply if you register with us via ODEON Wi-Fi, as we will continue to honour your existing information email preferences.
 
 Survey information
 
@@ -156,7 +166,7 @@ ODEON Wi-Fi
 
 PART E - HOW WE MAY SHARE INFORMATION WITH THIRD PARTIES
 
-43\. We may pass your personal information to the following third parties: (a) our advisers in order for them to provide us with advice; and (b) other companies and individuals in order for them to perform functions on our behalf (e.g. developing, maintaining and analysing customer databases; creating, sending out and analysing customer communications; administering competitions; developing, maintaining and analysing the Website, Mobile Apps, ODEON Social Media, ODEON Wi-Fi, and operating Guest Services and providing customer services). We will only transfer your personal information on the understanding that the third party has undertaken to us that they have in place adequate technical and organisational measures to protect that information, will not pass it on to any other party (without our explicit consent and only with valid grounds), and will not use it for any purpose other than to provide us with advice or perform the function specified on our behalf.
+43\. We may pass your personal information to the following third parties: (a) our advisers in order for them to provide us with advice; and (b) other companies and individuals in order for them to perform functions on our behalf (e.g. developing, maintaining and analysing customer databases; creating, sending out and analysing customer communications; administering competitions; developing, maintaining and analysing the Website, Mobile Apps, ODEON Social Media, ODEON Wi-Fi, and operating Guest Services and providing customer services, and operating our ODEON Première Club and Limitless schemes). We will only transfer your personal information on the understanding that the third party has undertaken to us that they have in place adequate technical and organisational measures to protect that information, will not pass it on to any other party (without our explicit consent and only with valid grounds), and will not use it for any purpose other than to provide us with advice or perform the function specified on our behalf.
 
 44\. We reserve the right to release personal information without your consent or without consulting you, when we believe that this is appropriate to comply with our legal obligations, to enforce our terms and conditions or other legal rights, to protect the security of the Website. Mobile Apps, ODEON Social Media ODEON Wi-Fi and Guest Services, to prevent fraud, or otherwise to protect the legitimate interests of ODEON and/or its customers.
 
@@ -186,4 +196,4 @@ Updating and accessing your personal information / Contacting us
 
 52\. You can contact us with any queries or requests concerning your personal information and/or this Privacy Statement in the following ways: contact us via the "Contact Us" pages on the Website, email us at gs@odeoncinemas.ie, or write to us at Guest Services, ODEON  Blanchardstown, Blanchardstown Shopping Centre, Blanchardstown, Dublin 15. Our security procedures mean that we may occasionally request proof of identity before we are able to disclose information to you.
 
-© 2012 - 2015 United Cinemas International (Ireland) Limited. All rights reserved. Version 1.3 dated March 2015.
+© 2012 - 2016 United Cinemas International (Ireland) Limited. All rights reserved. Version 1.5 dated February 2016.
