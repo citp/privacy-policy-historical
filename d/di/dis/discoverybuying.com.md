@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discoverybuying.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109084538id_/http%3A//www.discoverybuying.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverybuying.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509231720id_/http%3A//www.discoverybuying.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Online Shopping - China Electronics Products - Free Shipping - discoverybuying.com
 
