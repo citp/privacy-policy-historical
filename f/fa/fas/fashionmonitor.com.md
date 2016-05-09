@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the fashionmonitor.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924215444id_/http%3A//www.centaur.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionmonitor.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509210000id_/http%3A//www.centaurmedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy
 
-## Centaur Media PLC - Website Privacy & Cookies Policy
+## Centaur Media PLC - Privacy & Cookies Policy
 
 ### 1\. SCOPE
 
-This policy applies to personal information collected on websites owned or controlled by Centaur Communications Limited and its UK affiliates and their brands (for a list of these brands, please see http://www.centaur.co.uk/brands) (collectively referred to in this policy as “we”, "us" or "our").
+This policy applies to personal information collected on websites owned or controlled by Centaur Communications Limited and its UK affiliates and their brands (for a list of these brands, please see http://www.centaurmedia.com/brands) (collectively referred to in this policy as “we”, "us" or "our").
 
 We comply with data protection legislation such as the Data Protection Act 1998. This regulates the processing of personal data relating to you and grants you various rights in respect of your personal data.
 
@@ -64,7 +64,7 @@ If false or inaccurate information is provided and fraud is identified, details 
 
 
 
-Please email us on customerdata@centaur.co.uk if you want to have details of those fraud prevention agencies from whom we obtain and to whom we pass information about you. You have a legal right to these details.
+Please email us on customerdata@centaurmedia.com if you want to have details of those fraud prevention agencies from whom we obtain and to whom we pass information about you. You have a legal right to these details.
 
 ### 4\. TRANSFER OF YOUR PERSONAL INFORMATION OUTSIDE THE EEA
 
@@ -74,7 +74,7 @@ We may transfer some of your personal information to the United States of Americ
 
 Where you have given us the appropriate permissions during the registration process to the website/website services (as applicable), we may from time to time contact you by email, SMS, telephone or post about our products and services (including from all our brands) that may be of interest to you.
 
-If at any point, you would like to opt-out of receiving such marketing communications from us, or would like to change the channels that we use to contact you, please click on the unsubscribe link at the bottom of any emails you receive, or email us, stating your preferences, at customerdata@centaur.co.uk.
+If at any point, you would like to opt-out of receiving such marketing communications from us, or would like to change the channels that we use to contact you, please click on the unsubscribe link at the bottom of any emails you receive, or email us, stating your preferences, at customerdata@centaurmedia.com.
 
 ### 6\. COOKIES AND RELATED TRACKING TECHNOLOGIES
 
@@ -126,11 +126,11 @@ In the event that the business is sold or integrated with another business, your
 
 ### 10\. ACCESS TO YOUR PERSONAL INFORMATION
 
-You are entitled to see the personal information held about you. If you wish to do this, please contact us at customerdata@centaur.co.uk. We may require you to provide verification of your identity and to pay an administration fee (which is currently £10) to provide a copy of the personal information we hold. Please note that in certain circumstances we may withhold access to your personal information where we have the right to do so under current data protection legislation.
+You are entitled to see the personal information held about you. If you wish to do this, please contact us at customerdata@centaurmedia.com. We may require you to provide verification of your identity and to pay an administration fee (which is currently £10) to provide a copy of the personal information we hold. Please note that in certain circumstances we may withhold access to your personal information where we have the right to do so under current data protection legislation.
 
 ### 11\. UPDATING YOUR PERSONAL INFORMATION
 
-You may review, correct, update or change your personal information at any time by contacting us at customerdata@centaur.co.uk.
+You may review, correct, update or change your personal information at any time by contacting us at customerdata@centaurmedia.com.
 
 ### 12\. CHANGES TO OUR PRIVACY & COOKIES POLICY
 
@@ -138,4 +138,4 @@ If our Privacy & Cookies Policy changes in any way, we will place an updated ver
 
 ### 13\. HOW TO CONTACT US
 
-If you have any questions about this statement or your personal information, please contact us at customerdata@centaur.co.uk.
+If you have any questions about this statement or your personal information, please contact us at customerdata@centaurmedia.com.
