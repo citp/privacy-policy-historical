@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thegailygrind.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109214436id_/http%3A//www.thegailygrind.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegailygrind.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510000502id_/http%3A//www.thegailygrind.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy|The Gaily Grind
+# Privacy Policy – The Gaily Grind
 
 **SECTION 1 – WHAT DO WE DO WITH YOUR INFORMATION?**
 
