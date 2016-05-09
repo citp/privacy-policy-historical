@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the checkanyemail.com privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814131001id_/http%3A//checkanyemail.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkanyemail.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509105422id_/http%3A//checkanyemail.com/privacy.php) for the most accurate reproduction.*
 
 # CheckAnyEmail - Access All Your Emails Fast & Easy with One Click!
 
-[< Back To The App!](https://web.archive.org/web/20150814131001id_/http%3A//checkanyemail.com/index.php)
+[< Back To The App!](https://web.archive.org/web/20160509105422id_/http%3A//checkanyemail.com/index.php)
 
 **Effective January 1 2014**
 
@@ -64,47 +64,15 @@ Checkanyemail.com may in certain cases collect credit card numbers and related i
 
 2\. Use of Individual Information. 
 
-2.1 Discretion to Use Information. 
+THE COMPANY MAY USE INDIVIDUAL INFORMATION FOR ANY LEGALLY PERMISSIBLE PURPOSE IN COMPANY'S SOLE DISCRETION HOWEVER INDIVIDUAL INFORMATION WILL NEVER BE SOLD TO THIRD PARTIES FOR MARKETING PURPOSES. 
 
-THE COMPANY MAY USE INDIVIDUAL INFORMATION FOR ANY LEGALLY PERMISSIBLE PURPOSE IN COMPANY'S SOLE DISCRETION AND THAT INCLUDES BUT IS NOT LIMITED TO, LICENSING IT TO THIRD PARTIES FOR SECONDARY MARKETING PURPOSES. 
+2.1 Solicited Email. 
 
-The following paragraphs in Section 2 describe how checkanyemail.com currently uses Individual Information, but checkanyemail.com may change or broaden its use at any time. As noted, checkanyemail.com may update this policy from time to time. checkanyemail.com may use Individual Information to provide promotional offers to individuals by means of email advertising, telephone marketing, SMS texting, direct mail marketing, online banner advertising, and package stuffers, among other possible uses. By default, your full name will be used as your screen name. 
+Checkanyemail.com only sends email to individuals who have agreed on the Website to receive email from Checkanyemail.com or to individuals who have agreed on Third Party websites toreceive email from Third Parties such as Checkanyemail.com. Checkanyemail.com does not send unsolicited email messages. As a result, statutes requiring certain formatting for unsolicited email are not applicable to Checkanyemail.com's email messages. 
 
-2.2 Email. 
+2.2 Storage of Individual Information. 
 
-Checkanyemail.com uses Individual Information to provide promotional offers by email to individuals. checkanyemail.com may maintain separate email lists for different purposes. If email recipients wish to end their email subscription from a particular list, they need to follow the instructions at the end of each email message to unsubscribe from the particular list. To unsubscribe from all checkanyemail.com's email lists, a person must send an email to legal@checkanyemail.com. 
-
-2.2(a) Content of Email Messages. 
-
-In certain commercial email messages sent by checkanyemail.com, an advertiser's name will appear in the "From:" line but hitting the "Reply" button will cause a reply email to be sent to checkanyemail.com. The "Subject:" line of checkanyemail.com email messages will usually contain a line provided from the advertiser to checkanyemail.com. 
-
-2.2(b) Solicited Email. 
-
-Checkanyemail.com only sends email to individuals who have agreed on the Website to receive email from checkanyemail.com or to individuals who have agreed on Third Party websites to receive email from Third Parties such as checkanyemail.com. checkanyemail.com does not send unsolicited email messages. As a result, statutes requiring certain formatting for unsolicited email are not applicable to checkanyemail.com's email messages. 
-
-2.3 Targeted Advertising. 
-
-Checkanyemail.com uses Individual Information to target advertising to an individual and others. When an individual is using the Internet, checkanyemail.com uses Technology Information (see also Section 2.5 below) to associate an individual with that person's Individual Information, and checkanyemail.com attempts to show advertising for products and services in which the person has expressed an interest in the Surveys, indicated an interest by means of Technology Information, through indexing of search engines, and otherwise. checkanyemail.com may, at its discretion, target advertising by using email, internet, search engines, direct mail, telephones, cell phones, and other means of communication to provide promotional offers to individuals and others. 
-
-2.4 Direct Mail and Telemarketing. 
-
-Checkanyemail.com uses Individual Information to advertise, directly or indirectly, to individuals using direct mail marketing or telemarketing using telephones and cell phones. 
-
-2.5 Mobile Phone SMS Messaging. 
-
-In certain cases, when requested by an individual, checkanyemail.com or a Third Party may use Individual Information to provide customized content and advertising via SMS messaging to an individual's cell phone. Please note that checkanyemail.com is not responsible for the privacy practices or the content of Third Parties. 
-
-2.6 Use of Technology Information. 
-
-Checkanyemail.com uses Technology Information (1) to match a person's Survey Information and Third Party List Information to other categories of Individual Information to make and improve profiles of individuals, (2) to track a person's online browsing habits on the Internet, (3) to determine which areas of checkanyemail.com's web sites are most frequently visited. This information helps checkanyemail.com to better understand the online habits of individuals so that checkanyemail.com can target advertising and promotions to them. 
-
-2.7 Profiles of Individuals. 
-
-Checkanyemail.com uses Individual Information to make a profile of an individual. A profile can be created by combining Survey Information and Third Party List Information with other sources of Individual Information such as information obtained from public databases. 
-
-2.8 Storage of Individual Information. 
-
-Checkanyemail.com stores the Individual Information in a database on checkanyemail.com computers. Our computers have security measures (such as a firewall) in place to protect against the loss, misuse, and alteration of the information under checkanyemail.com's control. Notwithstanding such measures, checkanyemail.com cannot guarantee that its security measures will prevent checkanyemail.com computers from being illegally accessed, and the Individual Information on them stolen or altered. 
+Checkanyemail.com stores the Individual Information in a database on Checkanyemail.com computers. Our computers have security measures (such as a firewall) in place to protect against the loss,misuse, and alteration of the information under Checkanyemail.com's control. Notwithstanding such measures, Checkanyemail.com cannot guarantee that its security measures will prevent Checkanyemail.com computers from being illegally accessed, and the Individual Information on them stolen or altered. 
 
 3\. Dissemination of Individual Information. 
 
