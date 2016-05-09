@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electronicrecyclers.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108091731id_/http%3A//electronicrecyclers.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronicrecyclers.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509153142id_/http%3A//electronicrecyclers.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Electronic Recyclers International, Inc.
 
