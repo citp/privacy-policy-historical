@@ -1,79 +1,13 @@
-> *The following text is extracted and transformed from the simpleshoes.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214071150id_/http%3A//www.simpleshoes.com/CustomerService/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpleshoes.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509062144id_/http%3A//simpleshoes.com/privacy-policy) for the most accurate reproduction.*
 
-# Simple Shoes – Privacy Policy
+# Simple Shoes
 
-### Privacy Policy of Deckers Outdoor Corporation, Deckers Consumer Direct Corporation and Deckers Europe Limited ("Deckers") - United States
+Your privacy is important to us. Simple will never sell, share or trade your personal information. The Contact page and email sign-up require you to give us some information. If you choose to receive emails from us, we will use this information to send you brand news, discounts and other relevant information. You can always opt-out and/or unsubscribe.
 
-The Deckers family of product lines (UGG® Australia, Teva®, Simple® Shoes, Tsubo® and Ahnu®) and accompanying domestic (uggaustralia.com, teva.com, simpleshoes.com, tsubo.com and ahnu.com) and international websites takes the protection and proper use of your personal information seriously. We respect your privacy and take great care to safeguard information in our possession. Your preferences with regard to how we use your information are our highest priority.
+We go to great lengths to keep your financial information private and safe. All credit transactions occur in a secure area of our site, to protect you from any loss, misuse or alteration of information collected. 
 
-### What personal information about our customers does Deckers gather and how does Deckers utilize such information?
+Secure Socket Layers (SSL), the industry standard in transferring information is used to process your orders. The SSL encrypts, or translates, your order information into a highly indecipherable code, which is processed immediately.
 
-The information we obtain from customers and those that visit our sites helps us personalize and continually improve your shopping experience at Deckers' websites. Listed below are the types of information we gather and utilize.
+When you've finished shopping and begin the checkout process, you will move into the secure area of our site. Once you've entered, the page address (URL) will change from http to https, to let you know you are in a secure area. Also, a key or a closed lock may appear on your browser to notify you of this change. You will remain in this secure zone for the entire checkout process.
 
-  * **Information you provide:** We receive and securely store any information you enter on our websites or provide to us in any other way. You can choose not to provide voluntary information. We use the information that you provide for purposes such as responding to your requests, customizing future shopping for you, improving our websites, and communicating with you. 
-
-  * **Automatic Information:** Deckers and its affiliates that control third-party advertising on our sites receive and store certain types of information whenever you interact with us. This allows us to enhance your online shopping experience to an easier and more personalized level. For example, like many websites, we use "cookies" to obtain certain types of information when your web browser accesses a Deckers website. A "cookie" is a small information file that is sent to your computer and is stored on your hard drive. We use this information to remember you once you have logged into your account and to remember your shopping cart. No personally identifiable information is stored in the cookie and our cookies do not retrieve any other information from your hard drive. For further information about cookies, controlling and deleting them, please visit [ www.allaboutcookies.org](http://www.allaboutcookies.org/). Without cookies technology, we would not be able to recognize you and provide a personalized experience through the Deckers websites. 
-
-  * **Email Communications:** If you visit one of our sites and provide personal information, Deckers will often receive notice of your browsing activity on our sites and may send targeted marketing communication to you based on such activity. In addition, we often communicate with customers in connection with marketing and other related purposes based on your marketing preferences. If you change your mind later and do not want to receive email or other mail from us, please log-in to your account and change your preferences, in which case your email address will be used strictly for transactional and informational purposes regarding your purchases and/or inquiries. There will also be an opt out option in each email marketing communication we send.
-
-  * **Traditional Mail Marketing:** From time to time, Deckers utilizes personal information for traditional mail marketing purposes. If you do not want to receive mail from us, please log-in to your account and change your preferences, in which case your address will be used strictly for transactional and informational purposes regarding your purchases and/or inquiries.
-
-
-
-
-### Does Deckers share the information it receives?
-
-Information about our customers is an important part of our business. We share customer information only as described below.
-
-  * **Agents:** We employ other firms to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and email, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), and processing credit card payments. They have access to personal information needed to perform their functions, but are contractually obligated to protect personal information. We may pass your personal information to credit referencing agencies (who may keep a record of your information) for the purposes of carrying out identity verification checks.
-
-  * **Trading Partners:** Deckers product lines are offered internationally in conjunction with select international trading partners. Any personal information shared with these trading partners is protected and may be used only according to the guidelines contained herein. 
-
-  * **Protection of Deckers and Others:** We release account and other personal information when we believe release is appropriate to comply with the law or pursuant to potential or actual legal action. 
-
-  * **With your consent:** Other than as set out above, you will receive notice when information about you might go to third parties, except as provided below, and you will have the opportunity to choose not to share the information. The exception to this is if Deckers is ordered to produce such information through valid subpoena or court order. In those situations, Deckers will comply with the subpoena and/or court order and will not be required to provide you with any notice. 
-
-
-
-
-### How secure is my personal information
-
-We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) technology that encrypts information you input. We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
-
-It is important for you to protect against unauthorized access to your account, to your password and to your computer. Be sure to log out of your account when you are finished using the site, especially when using a shared computer.
-
-### What about third-party advertisers and links to other websites?
-
-Our site includes third-party advertising and links to other websites. We do not provide any personally identifiable customer information to these advertisers or third-party websites.
-
-These third-party websites and advertisers, or Internet advertising companies working on their behalf, sometimes use technology to send (or "serve") the advertisements that appear on our Web site directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, and other technologies to measure the effectiveness of their ads and to personalize advertising content. We do not have access to or control over cookies or other features that they may use, and the information practices of these advertisers and third-party websites are not covered by this Privacy Policy. Please contact them directly for more information about their privacy practices.
-
-Deckers also displays personalized third-party advertising based on information about customers, such as visits and purchases through our sites. Although Deckers does not provide any personal information to advertisers, advertisers (including ad-serving companies) may assume that users who interact with or click on a personalized advertisement meet their criteria to personalize the ad. If you do not want us to use personal information that we gather to allow third parties to personalize advertisements we display to you, please login to your account and adjust your preferences.
-
-### What information can I access?
-
-If you made a purchase from one of our sites, Deckers gives you access to information about your account and your interactions with Deckers for the purpose of viewing and, in certain cases, updating that information. You may log-in to your account to update personal information or change preferences.
-
-### Can I update, correct, or delete my personal information?
-
-Yes, if you made a purchase from one of our sites, you can log-in to your account to make changes to your personal information or change preferences. If you submitted personal information without making a purchase, if you email Deckers at [info@simpleshoes.com](mailto:info@simpleshoes.com) to change or delete your personal information, we will uphold your request. Deckers may retain changed or deleted information for archival purposes. 
-
-### How do I get in touch with Deckers?
-
-If you have any questions regarding this Privacy Policy, please contact us by email at [info@simpleshoes.com](mailto:info@simpleshoes.com).
-
-### What happens when the Privacy Policy changes?
-
-This Privacy Policy was last changed on 9-29-2010. Future changes will be noted on new editions of the Privacy Policy. We recommend that you refer back to this page often to become familiar with new changes in the policy. 
-
-### Children
-
-Deckers does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may shop at our websites only with the involvement of a parent or guardian.
-
-### Ethical Supply Chain Guidelines
-
-Deckers respects internationally recognized human rights and environmental standards and places them at the core of our business practices. While we do not own or operate the factories that make our products, we apply a rigorous code of conduct, the Ethical Supply Chain Guidelines, and work with the factories we use to improve their performance over time. [Find Out More Here.](http://www.deckers.com/esc/index.aspx)
-
-### Restricted Substances Policy
-
-Deckers is committed to assuring that all of the materials used in its products are safe for workers, consumers and the environment alike. Deckers has established a Restricted Substances Policy that mandates compliance with all international directives, laws and regulations that restrict the type and concentration of potentially hazardous substances. Consistent with our company values, the Restricted Substances Policy goes beyond mandated restrictions and includes some substances such as PVC that are not restricted by law, but that are a cause of concern for many consumers and some Non-Governmental Organizations (NGOs). [Click here for more information.](http://www.deckers.com/esc/index.aspx)
+No information should be submitted to the SimpleShoes.com website by visitors under 13 years of age without the consent of their parent or guardian.
