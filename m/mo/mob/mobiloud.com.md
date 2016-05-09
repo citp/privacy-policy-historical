@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mobiloud.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110080113id_/http%3A//mobiloud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiloud.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509230301id_/http%3A//mobiloud.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Mobiloud
+# Privacy Policy - MobiLoud
 
 This Application collects some Personal Data from its Users.
 
