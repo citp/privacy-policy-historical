@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the shots.me privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906115436id_/https%3A//shots.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shots.me privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509092454id_/https%3A//shots.com/privacy) for the most accurate reproduction.*
 
-# Shots — Privacy Policy
-
-[](http://shots.com/)
+# Shots
 
 ## Effective Date: March 26, 2013
 
