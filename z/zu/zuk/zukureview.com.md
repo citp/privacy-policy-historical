@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zukureview.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226161000id_/https%3A//zukureview.com/navle/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zukureview.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509085547id_/https%3A//zukureview.com/navle/privacy) for the most accurate reproduction.*
 
 # Privacy | Zukureview
 
@@ -113,5 +113,3 @@ Phone: 1-800-928-8218
 Fax: 1-800-454-7140;
 
 You can email us through our “Contact Us” link referenced on the home page of our Site.
-
-_NAVLE® is a registered trademark owned by the National Board of Veterinary  Medical Examiners. This web site is not licensed by, endorsed by, or affiliated with the National Board of Veterinary Medical Examiners._
