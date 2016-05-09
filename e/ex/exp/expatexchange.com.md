@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the expatexchange.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219174027id_/http%3A//www.expatexchange.com/ee.cfm%3Fpageid%3D56%26networkid%3D159) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatexchange.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509200956id_/http%3A//www.expatexchange.com/ee.cfm%3Fpageid%3D56%26networkid%3D159) for the most accurate reproduction.*
 
 # Expat Exchange Privacy Policy - Expats - Moving Overseas - International Living - International Jobs - Expatriate
 
-[ ](https://www.cignaglobal.com/quote/pages/quote/PersonalInformationLiteV4.html?utm_source=expat-exchange&utm_medium=affiliate&utm_campaign=leaderboard-cashback)
+[ ](http://www.expatexchange.com/click.cfm?bannerid=797)
 
 At ExpatExchange.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by ExpatExchange.com and how it is used. If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [help@expatexchange.com](mailto:help@expatexchange.com). 
 
