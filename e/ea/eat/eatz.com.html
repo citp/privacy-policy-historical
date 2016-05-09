@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the eatz.com privacy policy that was archived on 2015-11-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151108094807id_/http%3A//www.eatz.com/Venues/content/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eatz.com privacy policy that was archived on 2016-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160509061254id_/http%3A//www.eatz.com/Venues/content/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en"><head> 
 
@@ -13,7 +13,7 @@
 
         <link href="https://fonts.googleapis.com/css?family=Titillium+Web:400,400italic,600,600italic,700,700italic" rel="stylesheet" type="text/css">
         <link rel="icon" type="image/ico" href="/favicon.ico">
-        <title>Order Food Online Hyderabad - Home Delivery Restaurants in Hyderabad - Eatz</title><meta name="description" content="Order food online, Book a Table, Get the best deals out there! Information about 2000+ Restaurants in Hyderabad. Find menus, pictures, cuisines, reviews, phone numbers, location of the trending restaurants."><meta name="keywords" content="">
+        <title>Privacy Policy | Eatz</title><meta name="description" content=""><meta name="keywords" content="">
 
         		
         
@@ -31,6 +31,7 @@
 	<link rel="stylesheet" type="text/css" href="/css/jquery.mCustomScrollbar.css">
 	<link rel="stylesheet" type="text/css" href="/css/common-inner.css">
 	<link rel="stylesheet" type="text/css" href="/css/fastlane.css">
+	<link rel="stylesheet" type="text/css" href="/css/home.css">
 
 	<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=423187711105261"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PBXQBH"></script><script type="text/javascript" src="/js/html5.js"></script>
 	<script type="text/javascript" src="/js/jquery-1.7.min.js"></script>
@@ -41,6 +42,7 @@
 	<script type="text/javascript" src="/js/jquery.fancybox-1.3.4.pack.js"></script>
 	<script type="text/javascript" src="/js/jquery.powertip-1.1.0.min.js"></script>
 	<script type="text/javascript" src="/js/inner-common.js"></script>
+	<script type="text/javascript" src="/js/fb_hash_fix.js"></script>
 
 
         <script type="text/javascript">
@@ -75,7 +77,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-PBXQBH');</script>
 <!-- End Google Tag Manager -->        <header id="header-wrap" class="header-wrap">
-            <div class="wrapper">
+            <style>
+@media(max-width:767px)
+{
+ .show-user{ display:none;}
+ .hide-user{ display:block !important;}
+ .header-right.right-buttons img { height: auto; width: 30px;}
+ .header-right.right-buttons { margin-top: 10px !important;}
+ #username2 > img{ height: auto; width: 34px;}
+ .after-login{ margin-top: 3px;}
+ #overview-head > div {margin-top: 24px;}
+ .right-buttons .after-login .name{padding:6px 35px 5px 11px !important}
+ .right-buttons .after-login .name span{display:none;}
+ .right-buttons .after-login .name{ border:none !important;}
+ .after-login {  width: 61px !important;}
+ #loginmenu2{ width: auto !important; }
+}
+</style>
+<div class="wrapper">
     <div id="logo"><a href="/hyderabad"><span class="sprite logo-innerpage" title="Your local food guide to restaurants in hyderabad"></span></a></div>
     <div class="search-wrap">
         <form action="/listings/search" name="frmsearch" id="frmsearch" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"></div>        <div class="field1 input1">
@@ -141,10 +160,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
     <div class="right-buttons">
 
-                    <a href="/users/userlogin" class="login"><img src="/images/user-eatz.png" alt="user"> Login</a>
+                    <a href="/users/userlogin" class="login"><img src="/images/user-eatz.png" alt="user"></a>
 			
-            		<a class="mobile-view-location" href="#"> <img src="http://www.eatz.com/images/location-eatz.png"> </a>
-		<span class="location-block">
+            				<span class="location-block">
 		<span class="closelX">X</span>
 			</span>
     </div>
@@ -231,25 +249,33 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         
         <script>
 		 $(document).ready(function() {
-			$(".location-block").fadeOut();
-			$(".mobile-view-location").fadeOut();
 			$(".mobile-view-location").click(function(){
 				$(".location-block").fadeIn();
 			});
 			$(".closelX").click(function(){
 				$(".location-block").fadeOut();
-				$(".mobile-view-location").fadeOut();
 			});
 		 });
 		</script>
 <style>
 	.mobile-view-location { display:none;}
 	.location-block { display:none;}
-@media(max-width:419px) {
+@media(max-width:767px) {
 	.location-block { display:none; position:fixed; width:100%; left:0; right:0; top:0; z-index:100; background:rgba(255, 255, 255, 0.94); height:100%; padding:50px 0 0 0;}
 	.mobile-view-location {   display: block;  left: 8px;  position: relative; top: 5px;}
 	.countryfor-mobile { width:45%; float:left;}
 	.closelX { position:absolute; z-index:100; right:10px; top:10px; background:#d2281d ; width:30px; height:30px; color:#FFF; font-size:15px; line-height:30px; text-align:center; cursor:pointer;}
+	#loginmenu, #countryFlags .listofStates, #spinner, #lockeywordsearch, #keywordsearch {
+    display: block !important;
+}
+.countries {min-height: 151px;}
+.countryfor-mobile 
+{ background-color: #fff;    box-shadow: 0 10px 10px 5px #e6e0e0;    clear: both;    float: none;    margin: 0 auto;    overflow: hidden;    width: 250px;}
+.countries ul li ul li a, .countries ul li ul li a:hover {color: #7783c6;}
+.mobile-view-location {    display: inline-block;    left: 8px;    margin-right: 15px;    
+position: relative;    top: -4px; }
+.mobile-view-location > span {    margin-left: 10px;    position: absolute;}
+#logo > span {position: absolute;     top: 27px;   color: #d2281d;}
 }
     .auto-sugesstion ul li{
         cursor: pointer;
@@ -385,68 +411,68 @@ $('#a-reload').click(function() {
       <nav>
        
             <ul class="alignleft">
-                                        <li><a href="/hyderabad/restaurants/chinese/" alt="Andhra Restaurants in hyderabad" title="Chinese Restaurants in hyderabad">Chinese (816)</a></li>
-                                                <li><a href="/hyderabad/restaurants/north-indian/" alt="Andhra Restaurants in hyderabad" title="North Indian Restaurants in hyderabad">North Indian (759)</a></li>
-                                                <li><a href="/hyderabad/restaurants/hyderabadi/" alt="Andhra Restaurants in hyderabad" title="Hyderabadi Restaurants in hyderabad">Hyderabadi (384)</a></li>
-                                                <li><a href="/hyderabad/restaurants/fastfood/" alt="Andhra Restaurants in hyderabad" title="Fastfood Restaurants in hyderabad">Fastfood (341)</a></li>
-                                                <li><a href="/hyderabad/restaurants/south-indian/" alt="Andhra Restaurants in hyderabad" title="South Indian Restaurants in hyderabad">South Indian (273)</a></li>
-                                                <li><a href="/hyderabad/restaurants/mughlai---tandoori/" alt="Andhra Restaurants in hyderabad" title="Mughlai / Tandoori Restaurants in hyderabad">Mughlai / Tandoori (227)</a></li>
-                                                <li><a href="/hyderabad/restaurants/desserts/" alt="Andhra Restaurants in hyderabad" title="Desserts Restaurants in hyderabad">Desserts (200)</a></li>
-                                                <li><a href="/hyderabad/restaurants/bakery/" alt="Andhra Restaurants in hyderabad" title="Bakery Restaurants in hyderabad">Bakery (129)</a></li>
-                                                <li><a href="/hyderabad/restaurants/continental/" alt="Andhra Restaurants in hyderabad" title="Continental Restaurants in hyderabad">Continental (111)</a></li>
-                                                <li><a href="/hyderabad/restaurants/pan-indian/" alt="Andhra Restaurants in hyderabad" title="Pan Indian Restaurants in hyderabad">Pan Indian (107)</a></li>
-                                                <li><a href="/hyderabad/restaurants/multi-cuisine/" alt="Andhra Restaurants in hyderabad" title="Multi-cuisine Restaurants in hyderabad">Multi-cuisine (105)</a></li>
-                                                <li><a href="/hyderabad/restaurants/pizza-burgers/" alt="Andhra Restaurants in hyderabad" title="Pizza/Burger's Restaurants in hyderabad">Pizza/Burger's (89)</a></li>
-                                                <li><a href="/hyderabad/restaurants/andhra/" alt="Andhra Restaurants in hyderabad" title="Andhra Restaurants in hyderabad">Andhra (88)</a></li>
-                        </ul><ul class="alignright">                        <li><a href="/hyderabad/restaurants/coffee/" alt="Andhra Restaurants in hyderabad" title="Coffee Restaurants in hyderabad">Coffee (64)</a></li>
-                                                <li><a href="/hyderabad/restaurants/italian/" alt="Andhra Restaurants in hyderabad" title="Italian Restaurants in hyderabad">Italian (60)</a></li>
-                                                <li><a href="/hyderabad/restaurants/street-food/" alt="Andhra Restaurants in hyderabad" title="Street Food Restaurants in hyderabad">Street Food (54)</a></li>
-                                                <li><a href="/hyderabad/restaurants/seafood/" alt="Andhra Restaurants in hyderabad" title="Seafood Restaurants in hyderabad">Seafood (43)</a></li>
-                                                <li><a href="/hyderabad/restaurants/kebab/" alt="Andhra Restaurants in hyderabad" title="Kebab Restaurants in hyderabad">Kebab (39)</a></li>
-                                                <li><a href="/hyderabad/restaurants/cafe-food/" alt="Andhra Restaurants in hyderabad" title="Cafe Food Restaurants in hyderabad">Cafe Food (36)</a></li>
-                                                <li><a href="/hyderabad/restaurants/icecream-parlors/" alt="Andhra Restaurants in hyderabad" title="Icecream Parlors Restaurants in hyderabad">Icecream Parlors (31)</a></li>
-                                                <li><a href="/hyderabad/restaurants/drinks-snacks-only/" alt="Andhra Restaurants in hyderabad" title="Drinks/Snacks only Restaurants in hyderabad">Drinks/Snacks only (28)</a></li>
-                                                <li><a href="/hyderabad/restaurants/juices/" alt="Andhra Restaurants in hyderabad" title="Juices Restaurants in hyderabad">Juices (27)</a></li>
-                                                <li><a href="/hyderabad/restaurants/punjabi/" alt="Andhra Restaurants in hyderabad" title="Punjabi Restaurants in hyderabad">Punjabi (26)</a></li>
-                                                <li><a href="/hyderabad/restaurants/biryani/" alt="Andhra Restaurants in hyderabad" title="Biryani Restaurants in hyderabad">Biryani (22)</a></li>
-                                                <li><a href="/hyderabad/restaurants/thai/" alt="Andhra Restaurants in hyderabad" title="Thai Restaurants in hyderabad">Thai (21)</a></li>
-                                                <li><a href="/hyderabad/restaurants/arabian/" alt="Andhra Restaurants in hyderabad" title="Arabian Restaurants in hyderabad">Arabian (18)</a></li>
-                        </ul><ul class="alignright">            </ul>
+                							<li><a href="/hyderabad/restaurants/chinese/" alt="Andhra Restaurants in hyderabad" title="Chinese Restaurants in hyderabad">Chinese (931)</a></li>
+														<li><a href="/hyderabad/restaurants/north-indian/" alt="Andhra Restaurants in hyderabad" title="North Indian Restaurants in hyderabad">North Indian (927)</a></li>
+														<li><a href="/hyderabad/restaurants/fastfood/" alt="Andhra Restaurants in hyderabad" title="Fastfood Restaurants in hyderabad">Fastfood (434)</a></li>
+														<li><a href="/hyderabad/restaurants/south-indian/" alt="Andhra Restaurants in hyderabad" title="South Indian Restaurants in hyderabad">South Indian (340)</a></li>
+														<li><a href="/hyderabad/restaurants/hyderabadi/" alt="Andhra Restaurants in hyderabad" title="Hyderabadi Restaurants in hyderabad">Hyderabadi (331)</a></li>
+														<li><a href="/hyderabad/restaurants/desserts/" alt="Andhra Restaurants in hyderabad" title="Desserts Restaurants in hyderabad">Desserts (272)</a></li>
+														<li><a href="/hyderabad/restaurants/mughlai---tandoori/" alt="Andhra Restaurants in hyderabad" title="Mughlai / Tandoori Restaurants in hyderabad">Mughlai / Tandoori (194)</a></li>
+														<li><a href="/hyderabad/restaurants/bakery/" alt="Andhra Restaurants in hyderabad" title="Bakery Restaurants in hyderabad">Bakery (170)</a></li>
+														<li><a href="/hyderabad/restaurants/biryani/" alt="Andhra Restaurants in hyderabad" title="Biryani Restaurants in hyderabad">Biryani (128)</a></li>
+														<li><a href="/hyderabad/restaurants/street-food/" alt="Andhra Restaurants in hyderabad" title="Street Food Restaurants in hyderabad">Street Food (126)</a></li>
+														<li><a href="/hyderabad/restaurants/continental/" alt="Andhra Restaurants in hyderabad" title="Continental Restaurants in hyderabad">Continental (123)</a></li>
+														<li><a href="/hyderabad/restaurants/andhra/" alt="Andhra Restaurants in hyderabad" title="Andhra Restaurants in hyderabad">Andhra (122)</a></li>
+														<li><a href="/hyderabad/restaurants/pizza-burgers/" alt="Andhra Restaurants in hyderabad" title="Pizza/Burger's Restaurants in hyderabad">Pizza/Burger's (105)</a></li>
+							</ul><ul class="alignright">							<li><a href="/hyderabad/restaurants/pan-indian/" alt="Andhra Restaurants in hyderabad" title="Pan Indian Restaurants in hyderabad">Pan Indian (92)</a></li>
+														<li><a href="/hyderabad/restaurants/multi-cuisine/" alt="Andhra Restaurants in hyderabad" title="Multi-cuisine Restaurants in hyderabad">Multi-cuisine (90)</a></li>
+														<li><a href="/hyderabad/restaurants/coffee/" alt="Andhra Restaurants in hyderabad" title="Coffee Restaurants in hyderabad">Coffee (63)</a></li>
+														<li><a href="/hyderabad/restaurants/italian/" alt="Andhra Restaurants in hyderabad" title="Italian Restaurants in hyderabad">Italian (61)</a></li>
+														<li><a href="/hyderabad/restaurants/seafood/" alt="Andhra Restaurants in hyderabad" title="Seafood Restaurants in hyderabad">Seafood (52)</a></li>
+														<li><a href="/hyderabad/restaurants/icecream-parlors/" alt="Andhra Restaurants in hyderabad" title="Icecream Parlors Restaurants in hyderabad">Icecream Parlors (44)</a></li>
+														<li><a href="/hyderabad/restaurants/juices/" alt="Andhra Restaurants in hyderabad" title="Juices Restaurants in hyderabad">Juices (37)</a></li>
+														<li><a href="/hyderabad/restaurants/kebab/" alt="Andhra Restaurants in hyderabad" title="Kebab Restaurants in hyderabad">Kebab (35)</a></li>
+														<li><a href="/hyderabad/restaurants/cafe-food/" alt="Andhra Restaurants in hyderabad" title="Cafe Food Restaurants in hyderabad">Cafe Food (31)</a></li>
+														<li><a href="/hyderabad/restaurants/mughlai--62042/" alt="Andhra Restaurants in hyderabad" title="Mughlai  Restaurants in hyderabad">Mughlai  (30)</a></li>
+														<li><a href="/hyderabad/restaurants/drinks-snacks-only/" alt="Andhra Restaurants in hyderabad" title="Drinks/Snacks only Restaurants in hyderabad">Drinks/Snacks only (28)</a></li>
+														<li><a href="/hyderabad/restaurants/fast-food/" alt="Andhra Restaurants in hyderabad" title="Fast Food Restaurants in hyderabad">Fast Food (23)</a></li>
+														<li><a href="/hyderabad/restaurants/thai/" alt="Andhra Restaurants in hyderabad" title="Thai Restaurants in hyderabad">Thai (23)</a></li>
+							</ul><ul class="alignright">            </ul>
       </nav>
     </div>
     <div class="browse-buffettypes"> <span class="title1">Browse by Buffet types</span>
       <nav>
          <ul>
-                                    <li><h3><a href="/hyderabad-buffet/restaurants/features:38" alt="HasBuffet in hyderabad" title="HasBuffet Restaurants in hyderabad">HasBuffet (168)</a></h3></li>
-                                        <li><h3><a href="/hyderabad-buffet/restaurants/features:4" alt="Breakfast Buffet in hyderabad" title="Breakfast Buffet Restaurants in hyderabad">Breakfast Buffet (36)</a></h3></li>
-                                        <li><h3><a href="/hyderabad-buffet/restaurants/features:6" alt="Dinner Buffet in hyderabad" title="Dinner Buffet Restaurants in hyderabad">Dinner Buffet (33)</a></h3></li>
-                                        <li><h3><a href="/hyderabad-buffet/restaurants/features:5" alt="Lunch Buffet in hyderabad" title="Lunch Buffet Restaurants in hyderabad">Lunch Buffet (31)</a></h3></li>
-                                        <li><h3><a href="/hyderabad-buffet/restaurants/features:7" alt="Midnight Buffet in hyderabad" title="Midnight Buffet Restaurants in hyderabad">Midnight Buffet (2)</a></h3></li>
-                                </ul>
+                						<li><h3><a href="/hyderabad-buffet/restaurants/features:38" alt="HasBuffet in hyderabad" title="HasBuffet Restaurants in hyderabad">HasBuffet (174)</a></h3></li>
+												<li><h3><a href="/hyderabad-buffet/restaurants/features:5" alt="Lunch Buffet in hyderabad" title="Lunch Buffet Restaurants in hyderabad">Lunch Buffet (44)</a></h3></li>
+												<li><h3><a href="/hyderabad-buffet/restaurants/features:6" alt="Dinner Buffet in hyderabad" title="Dinner Buffet Restaurants in hyderabad">Dinner Buffet (41)</a></h3></li>
+												<li><h3><a href="/hyderabad-buffet/restaurants/features:4" alt="Breakfast Buffet in hyderabad" title="Breakfast Buffet Restaurants in hyderabad">Breakfast Buffet (36)</a></h3></li>
+												<li><h3><a href="/hyderabad-buffet/restaurants/features:7" alt="Midnight Buffet in hyderabad" title="Midnight Buffet Restaurants in hyderabad">Midnight Buffet (2)</a></h3></li>
+						            </ul>
         <span class="title1">Browse by Price</span>
        <ul>
-                                    <li><h3><a class="masterTooltip" title="Budget" href="/hyderabad/restaurants/price:39">₹ (870)</a></h3></li>
-                                        <li><h3><a class="masterTooltip" title="Budget" href="/hyderabad/restaurants/price:40">₹₹ (919)</a></h3></li>
-                                        <li><h3><a class="masterTooltip" title="Budget" href="/hyderabad/restaurants/price:41">₹₹₹ (309)</a></h3></li>
-                                        <li><h3><a class="masterTooltip" title="Budget" href="/hyderabad/restaurants/price:42">₹₹₹₹ (109)</a></h3></li>
-                                        <li><h3><a class="masterTooltip" title="Budget" href="/hyderabad/restaurants/price:43">₹₹₹₹₹ (64)</a></h3></li>
+                                    <li><h3><a class="masterTooltip" title="Budget" href="/hyderabad/restaurants/price:39">₹ (1191)</a></h3></li>
+                                        <li><h3><a class="masterTooltip" title="Budget" href="/hyderabad/restaurants/price:40">₹₹ (1029)</a></h3></li>
+                                        <li><h3><a class="masterTooltip" title="Budget" href="/hyderabad/restaurants/price:41">₹₹₹ (298)</a></h3></li>
+                                        <li><h3><a class="masterTooltip" title="Budget" href="/hyderabad/restaurants/price:42">₹₹₹₹ (110)</a></h3></li>
+                                        <li><h3><a class="masterTooltip" title="Budget" href="/hyderabad/restaurants/price:43">₹₹₹₹₹ (65)</a></h3></li>
                                 </ul>
       </nav>
     </div>
     <div class="browse-features"> <span class="title1">Browse by Features</span>
       <nav>
         <ul class="alignleft">
-                                        <li><h3><a href="/hyderabad/restaurants/features:13">Fine Dining (1101)</a></h3></li>
-                                                <li><h3><a href="/hyderabad/restaurants/features:12">Wifi (623)</a></h3></li>
-                                                <li><h3><a href="/hyderabad/restaurants/features:15">Liqour Served (439)</a></h3></li>
-                                                <li><h3><a href="/hyderabad/restaurants/features:3">Veg Only (416)</a></h3></li>
-                                                <li><h3><a href="/hyderabad/restaurants/features:2">Has Table Booking (375)</a></h3></li>
-                        </ul><ul class="alignright">                        <li><h3><a href="/hyderabad/restaurants/features:14">Private Dinning (153)</a></h3></li>
-                                                <li><h3><a href="/hyderabad/restaurants/features:17">Open Air Dining (143)</a></h3></li>
-                                                <li><h3><a href="/hyderabad/restaurants/features:18">Star Property (143)</a></h3></li>
-                                                <li><h3><a href="/hyderabad/restaurants/features:8">Happyhours (50)</a></h3></li>
-                                                <li><h3><a href="/hyderabad/restaurants/features:10">Sunday Brunch (33)</a></h3></li>
-                        </ul><ul class="alignright">
+                							<li><h3><a href="/hyderabad/restaurants/features:13">Fine Dining (1090)</a></h3></li>
+														<li><h3><a href="/hyderabad/restaurants/features:12">Wifi (686)</a></h3></li>
+														<li><h3><a href="/hyderabad/restaurants/features:3">Veg Only (529)</a></h3></li>
+														<li><h3><a href="/hyderabad/restaurants/features:15">Liqour Served (459)</a></h3></li>
+														<li><h3><a href="/hyderabad/restaurants/features:2">Has Table Booking (367)</a></h3></li>
+							</ul><ul class="alignright">							<li><h3><a href="/hyderabad/restaurants/features:18">Star Property (143)</a></h3></li>
+														<li><h3><a href="/hyderabad/restaurants/features:17">Open Air Dining (135)</a></h3></li>
+														<li><h3><a href="/hyderabad/restaurants/features:14">Private Dinning (123)</a></h3></li>
+														<li><h3><a href="/hyderabad/restaurants/features:8">Happyhours (54)</a></h3></li>
+														<li><h3><a href="/hyderabad/restaurants/features:46">Fastlane (36)</a></h3></li>
+							</ul><ul class="alignright">
 
 <!--                <li><h3><a href="/hyderabad-happyhours/restaurants">Happy Hours</a></h3></li>
                 <li><h3><a href="/articles/all">Articles</a></h3></li>
@@ -458,23 +484,23 @@ $('#a-reload').click(function() {
     <div class="browse-features" style="padding: 18px"> <span class="title1">Browse by Locations</span>
       <nav>
         <ul class="alignleft">
-                                        <li><a href="/hyderabad/restaurants/banjara-hills/" alt="Andhra Restaurants in hyderabad" title="Banjara Hills Restaurants in hyderabad">Banjara Hills(206)</a></li>
-                                                <li><a href="/hyderabad/restaurants/jubilee-hills/" alt="Andhra Restaurants in hyderabad" title="Jubilee Hills Restaurants in hyderabad">Jubilee Hills(136)</a></li>
-                                                <li><a href="/hyderabad/restaurants/madhapur/" alt="Andhra Restaurants in hyderabad" title="Madhapur Restaurants in hyderabad">Madhapur(118)</a></li>
-                                                <li><a href="/hyderabad/restaurants/kukatpally/" alt="Andhra Restaurants in hyderabad" title="Kukatpally Restaurants in hyderabad">Kukatpally(115)</a></li>
-                                                <li><a href="/hyderabad/restaurants/gachibowli/" alt="Andhra Restaurants in hyderabad" title="Gachibowli Restaurants in hyderabad">Gachibowli(114)</a></li>
-                                                <li><a href="/hyderabad/restaurants/hitech-city/" alt="Andhra Restaurants in hyderabad" title="Hitech City Restaurants in hyderabad">Hitech City(81)</a></li>
-                                                <li><a href="/hyderabad/restaurants/kondapur/" alt="Andhra Restaurants in hyderabad" title="Kondapur Restaurants in hyderabad">Kondapur(68)</a></li>
-                                                <li><a href="/hyderabad/restaurants/begumpet/" alt="Andhra Restaurants in hyderabad" title="Begumpet Restaurants in hyderabad">Begumpet(65)</a></li>
-                        </ul><ul class="alignright">                        <li><a href="/hyderabad/restaurants/ameerpet/" alt="Andhra Restaurants in hyderabad" title="Ameerpet Restaurants in hyderabad">Ameerpet(53)</a></li>
-                                                <li><a href="/hyderabad/restaurants/secunderabad/" alt="Andhra Restaurants in hyderabad" title="Secunderabad Restaurants in hyderabad">Secunderabad(47)</a></li>
-                                                <li><a href="/hyderabad/restaurants/himayathnagar/" alt="Andhra Restaurants in hyderabad" title="Himayathnagar Restaurants in hyderabad">Himayathnagar(42)</a></li>
-                                                <li><a href="/hyderabad/restaurants/somajiguda/" alt="Andhra Restaurants in hyderabad" title="Somajiguda Restaurants in hyderabad">Somajiguda(41)</a></li>
-                                                <li><a href="/hyderabad/restaurants/abids/" alt="Andhra Restaurants in hyderabad" title="Abids Restaurants in hyderabad">Abids(39)</a></li>
-                                                <li><a href="/hyderabad/restaurants/punjagutta/" alt="Andhra Restaurants in hyderabad" title="Punjagutta Restaurants in hyderabad">Punjagutta(32)</a></li>
-                                                <li><a href="/hyderabad/restaurants/dilsukhnagar/" alt="Andhra Restaurants in hyderabad" title="Dilsukhnagar Restaurants in hyderabad">Dilsukhnagar(31)</a></li>
-                                                <li><a href="/hyderabad/restaurants/lakdikapul/" alt="Andhra Restaurants in hyderabad" title="Lakdikapul Restaurants in hyderabad">Lakdikapul(30)</a></li>
-                        </ul><ul class="alignright">            </ul>
+                							<li><a href="/hyderabad/restaurants/banjara-hills/" alt="Andhra Restaurants in hyderabad" title="Banjara Hills Restaurants in hyderabad">Banjara Hills(235)</a></li>
+														<li><a href="/hyderabad/restaurants/madhapur/" alt="Andhra Restaurants in hyderabad" title="Madhapur Restaurants in hyderabad">Madhapur(196)</a></li>
+														<li><a href="/hyderabad/restaurants/jubilee-hills/" alt="Andhra Restaurants in hyderabad" title="Jubilee Hills Restaurants in hyderabad">Jubilee Hills(159)</a></li>
+														<li><a href="/hyderabad/restaurants/gachibowli/" alt="Andhra Restaurants in hyderabad" title="Gachibowli Restaurants in hyderabad">Gachibowli(156)</a></li>
+														<li><a href="/hyderabad/restaurants/kukatpally/" alt="Andhra Restaurants in hyderabad" title="Kukatpally Restaurants in hyderabad">Kukatpally(138)</a></li>
+														<li><a href="/hyderabad/restaurants/hitech-city/" alt="Andhra Restaurants in hyderabad" title="Hitech City Restaurants in hyderabad">Hitech City(100)</a></li>
+														<li><a href="/hyderabad/restaurants/kondapur/" alt="Andhra Restaurants in hyderabad" title="Kondapur Restaurants in hyderabad">Kondapur(78)</a></li>
+														<li><a href="/hyderabad/restaurants/secunderabad/" alt="Andhra Restaurants in hyderabad" title="Secunderabad Restaurants in hyderabad">Secunderabad(75)</a></li>
+							</ul><ul class="alignright">							<li><a href="/hyderabad/restaurants/begumpet/" alt="Andhra Restaurants in hyderabad" title="Begumpet Restaurants in hyderabad">Begumpet(73)</a></li>
+														<li><a href="/hyderabad/restaurants/ameerpet/" alt="Andhra Restaurants in hyderabad" title="Ameerpet Restaurants in hyderabad">Ameerpet(53)</a></li>
+														<li><a href="/hyderabad/restaurants/himayathnagar/" alt="Andhra Restaurants in hyderabad" title="Himayathnagar Restaurants in hyderabad">Himayathnagar(48)</a></li>
+														<li><a href="/hyderabad/restaurants/abids/" alt="Andhra Restaurants in hyderabad" title="Abids Restaurants in hyderabad">Abids(44)</a></li>
+														<li><a href="/hyderabad/restaurants/somajiguda/" alt="Andhra Restaurants in hyderabad" title="Somajiguda Restaurants in hyderabad">Somajiguda(43)</a></li>
+														<li><a href="/hyderabad/restaurants/manikonda/" alt="Andhra Restaurants in hyderabad" title="Manikonda Restaurants in hyderabad">Manikonda(33)</a></li>
+														<li><a href="/hyderabad/restaurants/toli-chowki/" alt="Andhra Restaurants in hyderabad" title="Toli Chowki Restaurants in hyderabad">Toli Chowki(33)</a></li>
+														<li><a href="/hyderabad/restaurants/punjagutta/" alt="Andhra Restaurants in hyderabad" title="Punjagutta Restaurants in hyderabad">Punjagutta(32)</a></li>
+							</ul><ul class="alignright">            </ul>
       </nav>
     </div>
   </div>
@@ -533,7 +559,7 @@ $('#a-reload').click(function() {
                 </div>
 				</form>
                                 <div class="form-right">
-						<a href="https://www.facebook.com/dialog/oauth?client_id=282716765186015&amp;redirect_uri=http%3A%2F%2Fwww.eatz.com%2Fusers%2Flogin%3Fexacturl%3DL1ZlbnVlcy9jb250ZW50L3ByaXZhY3lfcG9saWN5%2F&amp;state=94b69b7c460767b0a061f1ac68175e83&amp;sdk=php-sdk-3.2.2&amp;scope=email" class="fb"><span></span>Login With Facebook</a>						<a href="https://accounts.google.com/o/oauth2/auth?response_type=code&amp;redirect_uri=http%3A%2F%2Fwww.eatz.com%2Fusers%2Fgoogle&amp;client_id=285038394959-pvnd8km9uajvcv61vv0d0l0rk2jhjh8v.apps.googleusercontent.com&amp;scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&amp;access_type=offline&amp;approval_prompt=force&amp;state=%2FVenues%2Fcontent%2Fprivacy_policy" class="gp"><span></span>Login With Google</a>
+						<a href="https://www.facebook.com/dialog/oauth?client_id=282716765186015&amp;redirect_uri=http%3A%2F%2Fwww.eatz.com%2Fusers%2Flogin%3Fexacturl%3DL1ZlbnVlcy9jb250ZW50L3ByaXZhY3lfcG9saWN5%2F&amp;state=afec0759f57454d6e7e120f45cfd4fbb&amp;sdk=php-sdk-3.2.2&amp;scope=email" class="fb"><span></span>Login With Facebook</a>						<a href="https://accounts.google.com/o/oauth2/auth?response_type=code&amp;redirect_uri=http%3A%2F%2Fwww.eatz.com%2Fusers%2Fgoogle&amp;client_id=285038394959-pvnd8km9uajvcv61vv0d0l0rk2jhjh8v.apps.googleusercontent.com&amp;scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&amp;access_type=offline&amp;approval_prompt=force&amp;state=%2FVenues%2Fcontent%2Fprivacy_policy" class="gp"><span></span>Login With Google</a>
 						<p class="form-text">Don't have an account?  &nbsp; <a href="javascript:void(0);" id="signupform" tabindex="5">Sign Up Now</a></p>
 					</div>
             </div>
@@ -545,7 +571,7 @@ $('#a-reload').click(function() {
             </div>
             <div class="popup-content">
                 <div class="form-right">
-                    <a href="https://www.facebook.com/dialog/oauth?client_id=282716765186015&amp;redirect_uri=http%3A%2F%2Fwww.eatz.com%2Fusers%2Flogin%3Fexacturl%3DL1ZlbnVlcy9jb250ZW50L3ByaXZhY3lfcG9saWN5%2F&amp;state=94b69b7c460767b0a061f1ac68175e83&amp;sdk=php-sdk-3.2.2&amp;scope=email" class="fb"><span></span>Login With Facebook</a>                    <a href="https://accounts.google.com/o/oauth2/auth?response_type=code&amp;redirect_uri=http%3A%2F%2Fwww.eatz.com%2Fusers%2Fgoogle&amp;client_id=285038394959-pvnd8km9uajvcv61vv0d0l0rk2jhjh8v.apps.googleusercontent.com&amp;scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&amp;access_type=offline&amp;approval_prompt=force&amp;state=%2FVenues%2Fcontent%2Fprivacy_policy" class="gp"><span></span>Login With Google</a>
+                    <a href="https://www.facebook.com/dialog/oauth?client_id=282716765186015&amp;redirect_uri=http%3A%2F%2Fwww.eatz.com%2Fusers%2Flogin%3Fexacturl%3DL1ZlbnVlcy9jb250ZW50L3ByaXZhY3lfcG9saWN5%2F&amp;state=afec0759f57454d6e7e120f45cfd4fbb&amp;sdk=php-sdk-3.2.2&amp;scope=email" class="fb"><span></span>Login With Facebook</a>                    <a href="https://accounts.google.com/o/oauth2/auth?response_type=code&amp;redirect_uri=http%3A%2F%2Fwww.eatz.com%2Fusers%2Fgoogle&amp;client_id=285038394959-pvnd8km9uajvcv61vv0d0l0rk2jhjh8v.apps.googleusercontent.com&amp;scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&amp;access_type=offline&amp;approval_prompt=force&amp;state=%2FVenues%2Fcontent%2Fprivacy_policy" class="gp"><span></span>Login With Google</a>
                     <p class="form-text">Already a Member? &nbsp; <a href="javascript:void(0);" id="loginform">Login</a></p>
                 </div>
                 <form action="/Venues/content/privacy_policy" id="UserSigninForm" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"></div>                
@@ -882,7 +908,70 @@ $('#a-reload').click(function() {
 
 </div>
 </div>
-                        <script type="text/javascript">
+                		<style>
+			.facebook {background-position: 0 -285px;}
+            .facebook, .twitter, .googleplus {height: 35px;width: 34px;}
+            .sprite {background-image: url("/img/bgi/sprite-icons.png");background-repeat: no-repeat;display: inline-block;}
+            #sidePanel{
+                width:305px;
+                position:fixed;
+                right:-307px;
+                top: 220px;
+                z-index: 99999;
+            }
+            #panelHandle_new,
+            #panelHandle{
+                position: absolute;
+                left: -40px;
+                top: 0;
+                height:152px;
+                width:40px;
+                float:left;
+                cursor:pointer;
+                background-repeat: no-repeat;
+                /*background: #168dcc;
+                background: url(../images/feed-back.png) no-repeat -41px 0;*/
+            }
+            /*#panelHandle_new {
+                    background-position: left 0;
+            }*/
+            #panelHandle {
+                background-position: -459px -418px;
+            }
+            #panelHandle_new {
+                background-position: -418px -418px;
+            }
+            #panelContent{
+                background-color: #fff;
+                float: left;
+                width: 285px;
+                padding: 20px 10px;
+                border-radius: 0 0 0 3px;
+                behavior: url(js/pie.htc);
+                border: 2px solid #2583c6;
+            }
+            #sidePanel span {
+                font-size: 16px;
+                font-weight: 600;
+                margin-bottom: 15px;
+                color: #2583c6;
+            }
+            #sidePanel .textbox {
+                width: 265px;
+                margin: 0 0 8px 0;
+            }
+            #sidePanel textarea {
+                width: 265px;
+                height: 60px;
+                line-height: 20px;
+                padding: 5px 10px;
+            }
+            #sidePanel .textbox {
+                margin: 0 0 8px;
+                width: 265px;
+            }
+            </style>
+        <script type="text/javascript">
 	
         $(".right-buttons .after-login").each(function(i){ 
             $(this).mouseover(function(){
@@ -896,6 +985,25 @@ $('#a-reload').click(function() {
         });
         $(document).ready(function()
         { 
+			$("#panelHandle").click(function(){
+                $('#sidePanel').stop(true, false).animate({
+                    'right': '0px'
+                }, 800);
+                $('#panelHandle').hide();
+                $('#panelHandle_new').show();
+                $('#panelHandle').click(function() {
+                    $('#sidePanel').stop(true, false).animate({
+                        'right': '0px'
+                    }, 800);
+                });
+            });
+            $('#panelHandle_new').click(function() {
+                $('#sidePanel').stop(true, false).animate({
+                    'right': '-307px'
+                }, 800);
+                $('#panelHandle_new').hide();
+                $('#panelHandle').show();
+            });
             $('.fancybox-buttons').fancybox({
                 openEffect  : 'none',
                 closeEffect : 'none',
@@ -917,25 +1025,7 @@ $('#a-reload').click(function() {
                     scrollTop: $("#write-review").offset().top
                 }, 1000);
             });
-            $("#panelHandle").click(function(){
-                $('#sidePanel').stop(true, false).animate({
-                    'right': '0px'
-                }, 800);
-                $('#panelHandle').hide();
-                $('#panelHandle_new').show();
-                $('#panelHandle').click(function() {
-                    $('#sidePanel').stop(true, false).animate({
-                        'right': '0px'
-                    }, 800);
-                });
-            });
-            $('#panelHandle_new').click(function() {
-                $('#sidePanel').stop(true, false).animate({
-                    'right': '-307px'
-                }, 800);
-                $('#panelHandle_new').hide();
-                $('#panelHandle').show();
-            });
+            
         });
         </script>
         <script type="text/javascript">
