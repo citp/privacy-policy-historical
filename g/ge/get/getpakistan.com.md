@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getpakistan.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109011720id_/http%3A//getpakistan.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpakistan.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509043310id_/http%3A//getpakistan.com/privacypolicy.php) for the most accurate reproduction.*
 
 # get Phili Online- Privacy Policy
 
