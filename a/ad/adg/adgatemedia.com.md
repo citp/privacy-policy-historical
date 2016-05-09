@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adgatemedia.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919213224id_/https%3A//adgatemedia.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adgatemedia.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509182101id_/https%3A//adgatemedia.com/pp.php) for the most accurate reproduction.*
 
 # AdGate Media - Privacy Policy
 
@@ -11,6 +11,12 @@ We highly value your privacy and make this policy easily available throughout ou
 This website utilizes industry standard analytics packages which gathers limited information on visitors to our website automatically, and stores this anonymous information in server log files. This information may include IP addresses, browser type, basic IP information, referring pages, operating system used and date/time stamps. This information does not identify individual users; it is used only for site administration, as well as for analysis of website usage and trends.
 
 Additionally, cookies may be used to provide easier and faster access to website features such as logins and/or repeat visits. Cookies are very small text files that are stored on personal computers for reference purposes. We do not link the information we store in cookies to any personally indentifiable information you have submitted while on our site. 
+
+adgatemedia.com engages in Online Behavioral Advertising (OBA) in accordance with the guidelines set forth by the Digital Advertising Alliance. AdGate Media uses anonymous cookies to track information on your browsing history on adgatemedia.com, and third-party advertising networks use the information to serve ads to you on AdGate Media's behalf on other sites throughout the Internet. These cookies do not contain personally identifiable information, nor are they linked to any personal information collected by AdGate Media.
+
+You may opt-out of third-party advertising networks by using the Network Advertising Initiative's (NAI's) multi-cookie opt-out mechanism at: http://www.networkadvertising.org/managing/opt_out.asp. These opt-outs are valid only for the computer and browser combination used to opt-out. Clearing cookies will remove these opt-outs since they stored in cookies.
+
+If you opt-out of an NAI third-party advertising network, you will no longer receive ads based on your browsing history from that network. You may, however, continue to receive generalized online advertising. 
 
 **Links to Other Websites**
 
