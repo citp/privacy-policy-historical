@@ -1,153 +1,55 @@
-> *The following text is extracted and transformed from the stv.tv privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014175832id_/http%3A//www.stv.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stv.tv privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509171512id_/http%3A//my.stv.tv/privacy12-15) for the most accurate reproduction.*
 
-# STV - Scottish news, sport, entertainment and catch-up with your favourite TV shows
+# Privacy Policy - 12 - 15 | Privacy Policy 12-15 | MySTV
 
-## Privacy policy
+## DATA COLLECTION AND PRIVACY POLICY
 
-**We have updated our Privacy Policy!
+This document explains why we, STV Central Limited, request personal information from you, what other information we collect and what we do with that information.
 
-The law relating to the use of cookies changed in May 2011 and now requires that cookies only be used with consent. The government is consulting with industry and regulatory bodies around the best way to obtain appropriate user consent. In the meantime, we have updated our privacy policy. Click here to read how we use cookies.
+## Voting Form Information
 
-**
+The reasons that we ask you to confirm that you live in the UK, Channel Islands or Isle of Man and ask you to provide your name, date of birth and email address are:
 
-  * when you register with us;
-  * when you access the stv.tv website (the “ **Website** ”);
-  * when you request services from us;
-  * when you participate in promotions;
-  * when you enter competitions;
-  * when you e-mail or otherwise contact us;
-  * when you otherwise provide us with your personal information by using or posting information on the Website; and
-  * from third parties in circumstances where you have consented.
+  1. to confirm your eligibility to vote; and
+  2. to verify and validate the votes cast in accordance with the [**_Voting Terms and Conditions_**](http://shows.stv.tv/real-heroes/terms/).
 
 
 
-_Personal Data_  
-The type of personal information collected on the Website may include your name, company name, address (including postcode), email address, telephone number (including mobile), user name and password, lifestyle information and any other personal information provided by you.
+We will only hold your personal data for as long as we need to be able to verify and validate the votes cast and for a necessary period thereafter for the purposes of complying with OFCOM’s Broadcasting Code. Your personal information will then be deleted securely.
 
-_Surveys_  
-Sometimes, we may conduct surveys and ask questions about our own and third parties products and services.  Where the survey is anonymous, you will not be personally identifiable from your response although we may post responses on the Website.   We will let you know in advance when such responses are posted onto the website.  In all other instances, you should assume that we track any information you provide on a personally identifiable basis.
+## Other Types of Information Collected
 
-_General Website_  
-Disclosure of personal, private and confidential material on the Website is at your own risk.  Any information you choose to contribute to the Website on a public forum shall become public information and subject to our Website’s Terms and Conditions.
+In operating our website we may collect and process the following information:
 
-_Under 16’s_  
-Persons under 16 should not disclose any personal information to us without first getting the permission of a parent or a guardian.
+  1. details of your visit to our website including information such as page response times, download errors and length of visit; and
+  2. technical information, including the Internet protocol (IP) address used to connect the computer you’re using to the Internet, browser type and version, browser plug-in types and versions, operating system and platform.
 
-**3.     The Way STV Uses Your Personal Information**
 
-We shall use your information in the following ways:
 
-  * to enable us to supply you with the goods and services and information which you have requested;
-  * to analyse the information we collect so that we can administer, support, improve and develop the business and tailor the services we offer to you;
-  * to contact you in order to send you details of our services and any updates which may be of interest to you;
-  * to provide you with access to certain parts of the Website;
-  * to contact you for your views on our products and services;
-  * to contact you to ask you to participate in surveys conducted by STV;
-  * to contact you for your views on third party products and services;
-  * to personalise repeat visits to our Website;
-  * to send you unsolicited marketing;
-  * to send to you SMS text messages regarding offers featured on the Website; and
-  * for all other purposes consistent with the proper performance of our operations and business.
+We do this to enable us to administer our site and for internal operations, including troubleshooting, data analysis, testing and research.
 
+## Disclosing Your Information
 
+We may be required to disclose your information if required by any applicable law or regulation or where it’s necessary to enforce our terms and conditions or to protect the rights or safety of our consumers or others.
 
-**4.     How STV Manages Your Personal Information**
+We may also disclose your data to third parties and professional advisers acting on our behalf and any member of the STV group of companies, who are obliged to keep that data confidential.
 
-We will hold your personal information on our systems for as long as you use the service that you have requested and for a reasonable amount of time thereafter.
+We will not share your personal information for any other purpose.
 
-We will suppress your personal information when the service that you have requested is finished or on request by you.  This means that no further information will be sent to you without your further consent.
+## Third Party Links
 
-We will ensure that all of the personal information that you supply is held securely and otherwise in accordance with Data Protection legislation.
+Our site may, from time to time, contain links to and from third party websites. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
-**5.     Disclosure of your Personal Information**
+## Cookies
 
-During registration, you will be given the opportunity to opt in to receive emails from STV with offers and information about services that may be of interest to you.
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our [**_Cookie Policy_**](https://web.archive.org/terms-of-use/cookies/).
 
-You may also choose to receive emails from STV or third parties when you enter competitions and promotions operated by STV.
+## Where we Store your Personal Data
 
-Where you opt in to receive emails from third parties, we will only share your name and email address with them.
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
-You should note that where you select to receive emails from selected third parties, those organisations may follow privacy practices which are different from that of STV.  
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. 
 
-_Change of Control_  
-If our business is sold to or merged with another business entity, your personal information may be disclosed to our new business partners or owners.
+## Contact Us
 
-_**By using the Website, you consent to the collection and use of this personal information by us in the manner described above.**_
-
-**6.     Cookies**
-
-A “cookie” is a text file that attaches to the hard drive of your computer and remembers information about the configuration of your computer.
-
-_How we use cookies_  
-We use cookies for the following purposes:
-
-  * **Analytics.** We use cookies to track your use of the Website in order to better develop the Website (for example, working out which parts of the website are more popular and developing our content accordingly).  
- 
-  * **STV Advertising.** We use cookies to better target our advertising on the Website and to ensure our advertising is as relevant to you as possible.   For example, we may use cookies to serve advertising to you about Coronation Street if you have recently visited the Coronation Street pages of the Website.  We may also use cookies to ensure that we do not serve you the same advert too many time.  
- 
-  * **Third Party Advertising.**   We work with third party advertising networks who may use their own anonymous cookie to monitor how many people have seen an advert on the Website.  They may serve advertising based on what content a user may be interested in based on visiting the Website and other sites.  
- 
-  * **Registration.**   If you have registered with the Website, we will use cookies to identify you when you sign in to the Website, allowing you to see a customised version of the Website and removing the need for you to re-enter your log-in details.
-
-
-
-_Further information and opting out of cookies_  
-You can opt out of STV collecting non-essential information through cookies at any time by configuring your browser accordingly.  For information on how to manage or disable cookies, please go to [http://www.aboutcookies.org](http://www.aboutcookies.org/).
-
-The Network Advertising initiative provide further information on cookies used in online advertising and also allows users to opt out of participating networks – you can visit their website here: [http://www.networkadvertising.org](http://www.networkadvertising.org/). Another useful resource to manage cookies is [www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/).
-
-You should bear in mind that if you opt out of receiving cookies, you may be unable to use some of our online services.
-
-**7.     Third Party Websites**
-
-Because we want your experience of the Website to be as informative and useful as possible, we provide a number of links to third party websites.
-
-Please note that STV does not control such third party websites who may send their own cookies to users, or otherwise collect data or solicit personal information.
-
-STV assumes no responsibility for the information gathering practices of websites that you are able to access through the Website, and we encourage you to review each website's privacy policy before disclosing any personally identifiable information.
-
-**8.     Consent**
-
-When you provide us with your personal data (such as your name, e-mail address etc) for example, by registering with STV or by posting information on the Website, you consent to the collection, storage, use and transfer of your personal information under the terms of this Privacy Policy.
-
-**9.     Your Consent to this Privacy Policy**
-
-By using the Website, you are accepting this Privacy Policy. If you do not agree with any term in this Privacy Policy, please do not use the Website or submit any personal information to us.
-
-**10.     Managing Your Own Information (Opting Out)**
-
-If you would prefer not to receive emails from STV or carefully selected third parties, please leave the appropriate opt-in box at the registration page blank.
-
-Once you have opted in to receiving emails, you can easily opt out at any time by visiting the “My STV” section of the Website and by de-selecting the appropriate opt-in box under the “E-mail Subscriptions” section.
-
-You can also unsubscribe by following the link contained at the bottom of each email you receive from STV.
-
-**11.     Access to Your Information**
-
-You can ask us whether STV holds personal data about you, and you can also request to receive a copy of that personal data.
-
-Such a request must be requested in writing.  Before sending you any personal data, we will ask you to provide proof of your identity together with a £10 administration fee.
-
-If you are not able to provide proof of your identity, we reserve the right to refuse to send you the personal data.
-
-**12.     Changes  to our Privacy Policy**
-
-We reserve the right to change or remove this Privacy Policy at our discretion.
-
-If we decide to change our Privacy Policy, we will post those changes on the Website.  We encourage you to visit this area frequently so as to stay informed.
-
-If there is any material change in the type of personal information we collect, we will obtain your permission before we collect the additional information.
-
-We will not make any changes that allow STV to give personal information to any other person without obtaining permission from you first.
-
-**13.     How to Contact Us**
-
-Should you have any questions or concerns about this Privacy Policy or the use of information, please e-mail us at [yourview@stv.tv](mailto:yourview@stv.tv) or write to us at Your View, STV, Pacific Quay, Glasgow G51 1PQ
-
-STV is located in Scotland in the UK.  If you are located outside the UK and you contact us please note that any information you provide will be transferred to the UK and by submitting the information you authorise this transfer.
-
-Please note: The laws and regulations in different countries impose different (and even conflicting) requirements on the Internet and data protection.
-
-Scots law governs all matters relating to this site.
-
-Version: August 2011
+For the purpose of the Data Protection Act 1998, the data controller is STV Central Limited, having its registered office at Pacific Quay, Glasgow G51 1PQ. Questions, comments and requests regarding this privacy policy are welcomed. Please do not hesitate to email us at [**_enquiries@stv.tv_**](mailto:enquiries@stv.tv)
