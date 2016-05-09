@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the geolearning.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317151854id_/http%3A//www.sumtotalsystems.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geolearning.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509072932id_/http%3A//www.sumtotalsystems.com/privacy) for the most accurate reproduction.*
 
-# SumTotal Systems | Privacy | LMS Solutions
-
-#### Privacy
-
-**Effective July 26, 2010**
+# SumTotal Privacy Policy
 
 SumTotal Systems is committed to protecting your privacy and earning your trust. This policy discloses our privacy practices for personal information you provide to us. This policy explains how we collect, use and safeguard your personal information. It is our intent to give you as much control as reasonably practicable over your privacy and personal information and the use we make of it in our business. We may, in our sole discretion, change this policy from time to time by posting a revised version on our web site ("SumTotal Systems Site") or otherwise publicly disseminating it, so please check back from time to time.
 
-### What kinds of personal information does SumTotal Systems collect?
+##### What kinds of personal information does SumTotal Systems collect?
 
 In general, you can visit SumTotal Systems on the Web without telling us who you are or revealing any personal information about yourself. The more information you volunteer (and the more accurate it is), the better we are able to customize your experience. We ask for information from you in several ways from different parts of the SumTotal Systems Site and also as part of providing our products and services.
 
@@ -23,7 +19,7 @@ In general, you can visit SumTotal Systems on the Web without telling us who you
 
 
 
-### How does SumTotal Systems use my information?
+##### How does SumTotal Systems use my information?
 
 We collect personal information to give you a customized experience and to help SumTotal Systems understand its customers and prospective customers better. SumTotal Systems does not currently sell, trade, or rent your personal information to others.
 
@@ -41,7 +37,7 @@ We collect personal information to give you a customized experience and to help 
 
 You can unsubscribe from receiving any advertisements or newsletters by sending an email with "REMOVE" in the subject line to: [privacy@sumtotalsystems.com](mailto:privacy@sumtotalsystems.com).
 
-### Who collects information?
+##### Who collects information?
 
 When you supply personal information to SumTotal Systems or on a SumTotal Systems Site, you share that information only with SumTotal Systems unless you are specifically informed otherwise. If a company other than SumTotal Systems is gathering or maintaining your personal data from the SumTotal Systems Site, you will be told before it is collected or transferred. You can always choose not to share the information.
 
@@ -49,7 +45,7 @@ When companies other than SumTotal Systems sponsor promotions, data collected on
 
 If you leave the SumTotal Systems Site using links to go to other third party Web sites, those third parties may gather information about you. This privacy policy does not cover the practices of those businesses.
 
-### Does SumTotal Systems share my information?
+##### Does SumTotal Systems share my information?
 
 Other than as stated in this policy, SumTotal Systems does not disclose any of your personal information to third parties without your permission. Read the following sections to learn more.
 
@@ -72,7 +68,7 @@ SumTotal Systems also may disclose your information where disclosure is necessar
 
 
 
-### Do I have a choice about how my information is gathered, used and distributed?
+##### Do I have a choice about how my information is gathered, used and distributed?
 
 Yes. When you log in or register with SumTotal Systems, you can choose to receive newsletters, information, and e-mails from SumTotal Systems and third parties. If you change your mind, you can simply update your account information on our Web site so that the information will not be sent. It's your choice.
 
@@ -80,7 +76,7 @@ Some of our promotions may request your e-mail address so that you can receive p
 
 While using our hosting services or ResultsOnDemand service, you may choose to store personal information on our servers through such services. The storage and removal of such information is at your discretion.
 
-### What security precautions does SumTotal Systems take to protect me?
+##### What security precautions does SumTotal Systems take to protect me?
 
 We have security measures in place to protect your personal information, including the use of industry-standard encryption technology and internal policies and restrictions regarding the storage of and access to your personal information.
 
@@ -93,7 +89,7 @@ Your SumTotal Systems account information and profile are password-protected so 
 
 
 
-### What are cookies and how does SumTotal Systems use them?
+##### What are cookies and how does SumTotal Systems use them?
 
 Part of our customized service involves using “cookies” so that we can immediately recognize you, determine when you – or someone using the same browser you previously used – revisits SumTotal Systems, and to provide a more personalized experience. A "cookie" is a chunk of data that is sent to your browser from a web server and stored by your browser on the hard drive of your computer. Your browser settings must be set to accept cookies before you can login or customize. Most browsers are set up to accept cookies, but you can usually change your browser settings to refuse them. SumTotal Systems does not use cookies to retrieve personal information about you from your computer. This policy does not cover the use of cookies by any advertisers on the SumTotal Systems Site.
 
@@ -109,22 +105,22 @@ SumTotal Systems uses cookies to:
 
 You can make decisions about cookies. You can modify your browser preferences to accept all cookies, be notified when a cookie is set, or to reject all cookies. If you decide to reject all cookies, you might not be able to access certain areas of the SumTotal website or participate in SumTotal Systems services that require registration to participate.
 
-### What about the privacy of children?
+##### What about the privacy of children?
 
 SumTotal Systems is a general audience Web site and does not request the age of its customers. SumTotal Systems does not knowingly collect any personal information from children.
 
-### Safe Harbor
+##### Safe Harbor
 
 SumTotal complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. SumTotal has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view SumTotal’s certification, please visit <http://www.export.gov/safeharbor/>
 
-### Australian Privacy Policy
+##### Australian Privacy Policy
 
 The purpose of the [SumTotal Australian Privacy Policy](https://web.archive.org/privacy/australian-privacy-policy.html) is to inform and notify our Australian customers and end users with regard to the types of personal information that SumTotal may collect, how we collect and handle such information, and how we protect such information. SumTotal takes the privacy and confidentiality of its customers seriously and follows the Australian Privacy Principles (APPs) contained in the Privacy Amendment (Enhancing Privacy protections) Act 2012. If you would like a copy of [SumTotal’s Australian Privacy Policy](https://web.archive.org/privacy/australian-privacy-policy.html), please send an email to [privacy@sumtotalsystems.com](mailto:privacy@sumtotalsystems.com) and SumTotal will take reasonable steps to provide you a copy in the format you requested. We may, in our sole discretion, modify this policy by posting a revised version on our web site ("SumTotal Systems Site") or otherwise publicly disseminating it, so please check back from time to time.
 
-### Singapore Privacy Policy
+##### Singapore Privacy Policy
 
 The purpose of the [SumTotal Singaporean Privacy Policy](https://web.archive.org/privacy/singaporean-privacy-policy.html) is to inform and notify our Singaporean customers and end users with regard to the types of personal information that SumTotal may collect, how we collect and handle such information, and how we protect such information. SumTotal takes the privacy and confidentiality of its customers seriously and follows the rules, policies, and practices of the Singapore Personal Data Protection Act 2012. If you would like a copy of [SumTotal’s Singaporean Privacy Policy](https://web.archive.org/privacy/singaporean-privacy-policy.html), please send an email to privacy@sumtotalsystems.com and SumTotal will take reasonable steps to provide you a copy in the format you requested. We may, at our sole discretion, modify this policy by posting a revised version on our web site ("SumTotal Systems Site") or otherwise publicly disseminating it, so please check back from time to time. 
 
-### Contacting Us
+##### Contacting Us
 
-If you have any questions regarding this Privacy Policy or wish to access or correct your personal information that we collect, please contact us at [privacy@sumtotalsystems.com](mailto:privacy@sumtotalsystems.com) Written inquiries may be sent to: SumTotal Systems, LLC, 2850 NW 43rd Street, Suite #200, Gainesville, FL 32606 USA, and Attention: Privacy Policy.
+If you have any questions regarding this Privacy Policy or wish to access or correct your personal information that we collect, please contact us at [privacy@sumtotalsystems.com](mailto:privacy@sumtotalsystems.com) Written inquiries may be sent to: SumTotal Systems, LLC, 2850 NW 43rd Street, Suite #200, Gainesville, FL 32606 USA, and Attention: Privacy Policy 
