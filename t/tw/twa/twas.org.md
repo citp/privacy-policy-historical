@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twas.org privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109060820id_/http%3A//twas.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twas.org privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509133057id_/http%3A//twas.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TWAS
 
@@ -84,7 +84,7 @@ Users can provide their data on the basis of a freely chosen, explicit and volun
 
 **To display TWAS fellows’ and affiliates’ personal data on their online profile pages**
 
-The website twas.org displays the personal data of [TWAS members](https://web.archive.org/network/members) and [young affiliates](https://web.archive.org/network/affiliates) on their profile pages. In order to do so, it gathers the following personal data: name, surname, nationality, country of residence, address, current position, phone numbers, fax numbers, email addresses, biodata, image, CV, gender, scientific field, year of election into TWAS, country and place of birth, date of birth.
+The website twas.org displays the personal data of [TWAS members](https://web.archive.org/network/members) and [young affiliates](https://web.archive.org/network/young-affiliates) on their profile pages. In order to do so, it gathers the following personal data: name, surname, nationality, country of residence, address, current position, phone numbers, fax numbers, email addresses, biodata, image, CV, gender, scientific field, year of election into TWAS, country and place of birth, date of birth.
 
 Only part of this information is publicly displayed online: name and surname, country of residence, current nationality, scientific field, image (with the user’s separate and explicit consent), CV (with the user’s separate and explicit consent), biodata (with the user’s separate and explicit consent).
 
@@ -94,7 +94,7 @@ To access the website’s restricted back-office, users are prompted to register
 
 **To send communications or to contact TWAS**
 
-Filling the [contact form](https://web.archive.org/contact-form) or sending e-mails to the addresses specified in the [Contacts page](https://web.archive.org/twas.org/contacts) requires the acquisition of senders’ address in order to give feedback on their requests, and implies also the acquisition of other personal data included in the message.
+Filling the [contact form](https://web.archive.org/contact-form) or sending e-mails to the addresses specified in the [Contacts page](https://web.archive.org/node/114) requires the acquisition of senders’ address in order to give feedback on their requests, and implies also the acquisition of other personal data included in the message.
 
 Similarly, phone calls made or faxes sent to the numbers on the site at twas.org/contacts involve the acquisition of the data reported by the caller or the sender.
 
