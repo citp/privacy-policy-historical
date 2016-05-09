@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the georgiasown.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905174308id_/https%3A//www.georgiasown.org/pdf/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the georgiasown.org privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509190916id_/https%3A//www.georgiasown.org/pdf/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # FACTS
 
