@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resume-resource.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208152637id_/http%3A//www.resume-resource.com/legal-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resume-resource.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509063536id_/http%3A//www.resume-resource.com/legal-privacy-policy) for the most accurate reproduction.*
 
 # Resume-Resource.com Privacy Policy
 
@@ -56,7 +56,7 @@ Resume-Resource.com or our third party advertising partners may engage in pixel 
 
 **Other Third Party Advertisers**
 
-These third party networks, ad partners, ad servers or ad networks may use technology within their advertisements and links that appear on Resume-Resource.com, which may be sent directly to your browses. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, Pixel Targeting, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+These third party networks, ad partners, ad servers or ad networks may use technology within their advertisements and links that appear on Resume-Resource.com, which may be sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, Pixel Targeting, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
 Resume-Resource.com has no access to or control over these cookies that are used by third-party advertisers.
 
