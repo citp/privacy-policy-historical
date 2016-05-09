@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventsair.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222024854id_/http%3A//eventsair.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventsair.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509040011id_/http%3A//eventsair.com/privacy-policy) for the most accurate reproduction.*
 
 # Centium Software Privacy Policy
 
@@ -63,7 +63,11 @@ By using our site, you consent to our websites privacy policy.
 
 **Changes to our Privacy Policy**
 
-If we decide to change our privacy policy, we will post those changes on this page. 
+If we decide to change our privacy policy, we will post those changes on this page.  
+ **  
+CAN-SPAM  **
+
+Extracting or harvesting email addresses for the purpose of unsolicited email marketing from any page from eventsair.com or any subdomain of eventsair.com is forbidden.
 
 **Contacting Us**
 
