@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the naturalproductsinsider.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120010729id_/http%3A//www.vpico.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalproductsinsider.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509194652id_/http%3A//www.naturalproductsinsider.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Informa Exhibitions, LLC | Privacy
+# Privacy Policy
 
 ## Our Commitment To Privacy
 
@@ -54,11 +54,11 @@ All promotional and research email messages you receive from us will include an 
 
 We may also send you e-newsletters with targeted, relevant content. Each e-newsletter will provide you with an opportunity to opt out of that particular e-newsletter.
 
-In some cases, we may send you relevant, carefully-screened offers from reputable third party businesses or organizations. Many of our customers appreciate receiving these offers because they relate to their business or occupation. However, you will always be able to opt out from receiving future third party offers. When you download premium content or register for a webcast on any Informa Exhibitions site, your contact information may be shared with our sponsor. If you do not wish to receive special offers from our sponsor, you may simply email us at [privacy@vpico.com](mailto:privacy@vpico.com) aand specify which premium content or webcast you would like to opt out of.
+In some cases, we may send you relevant, carefully-screened offers from reputable third party businesses or organizations. Many of our customers appreciate receiving these offers because they relate to their business or occupation. However, you will always be able to opt out from receiving future third party offers. When you download premium content or register for a webcast on any Informa Exhibitions site, your contact information may be shared with our sponsor. If you do not wish to receive special offers from our sponsor, you may simply email us at [privacy@vpico.com](mailto:privacy@vpico.com) and specify which premium content or webcast you would like to opt out of.
 
 ### Information We Share with Third Parties
 
-We provide contact lists to third party companies that we have employed to provide us with specialized services, including customer service, subscription fulfillment, research, statistical analysis, list cleansing, postal mailings, email and fax deployment, telemarketing, and other information services. In compliance with privacy laws, we also provide our opt out lists to those third party companies so that they can be suppressed from the communications those companies send on Informa Exhibitions' behalf. We only deal with third party companies whom we believe share our commitment to privacy and who will keep your information secure. From time to time our sponsors wish to contact our subscribers who have indicated an interest in the products, services or events publicized. If you do NOT wish to have your email address shared with that sponsor, you may contact us at the email listed below.
+We provide contact lists to third party companies that we have employed to provide us with specialized services, including customer service, subscription fulfilment, research, statistical analysis, list cleansing, postal mailings, email and fax deployment, telemarketing, and other information services. In compliance with privacy laws, we also provide our opt out lists to those third party companies so that they can be suppressed from the communications those companies send on Informa Exhibitions' behalf. We only deal with third party companies whom we believe share our commitment to privacy and who will keep your information secure. From time to time our sponsors wish to contact our subscribers who have indicated an interest in the products, services or events publicized. If you do NOT wish to have your email address shared with that sponsor, you may contact us at the email listed below.
 
 ### Information Transfer
 
