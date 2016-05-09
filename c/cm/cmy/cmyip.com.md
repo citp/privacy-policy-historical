@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmyip.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210152236id_/http%3A//www.cmyip.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmyip.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509235029id_/http%3A//cmyip.com/privacy.html) for the most accurate reproduction.*
 
 # CmyIP.com - Check My IP address fast!
 
