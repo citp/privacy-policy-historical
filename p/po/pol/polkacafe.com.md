@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polkacafe.com privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928144232id_/http%3A//www.polkacafe.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polkacafe.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509200101id_/http%3A//www.polkacafe.com/company/privacy) for the most accurate reproduction.*
 
 # Polka Cafe - Privacy Policy
 
