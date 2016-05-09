@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the syndaver.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108054558id_/http%3A//syndaver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syndaver.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510013426id_/http%3A//syndaver.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SynDaver™ Labs
+# Privacy Policy | SynDaver Labs
 
 ## General
 
