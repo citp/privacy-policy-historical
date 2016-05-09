@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humless.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107083523id_/http%3A//www.humless.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humless.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509034130id_/http%3A//www.humless.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Humless
 
