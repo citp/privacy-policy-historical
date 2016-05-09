@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greekgodsandgoddesses.net privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128044401id_/http%3A//greekgodsandgoddesses.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greekgodsandgoddesses.net privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509124533id_/http%3A//greekgodsandgoddesses.net/privacy) for the most accurate reproduction.*
 
 # Privacy • Greek Gods & Goddesses
 
