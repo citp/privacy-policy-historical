@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peerj.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906053147id_/https%3A//peerj.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peerj.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509204213id_/https%3A//peerj.com/about/privacy) for the most accurate reproduction.*
 
 # PeerJ - Privacy Policy
 
