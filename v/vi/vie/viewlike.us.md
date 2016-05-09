@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viewlike.us privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110073218id_/http%3A//www.viewlike.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewlike.us privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509062338id_/http%3A//www.viewlike.us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Viewlike.us - Website Responsive Test!
 
