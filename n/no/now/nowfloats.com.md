@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nowfloats.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210022950id_/http%3A//nowfloats.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowfloats.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509193010id_/http%3A//nowfloats.com/Privacy) for the most accurate reproduction.*
 
 # NowFloats | Making small business, bigger. | Get online instantly, get your business discovered. Get more customers.
 
@@ -106,5 +106,3 @@ Any product of NowFloats does not guarantee:
 
 
 NowFloats is a marketing tool that helps your business get discovered online on search engines and get more business. It does not guarantee a specific search engine position or amount of business. 
-
-NowFloats Technologies Pvt. Ltd. ©2015 
