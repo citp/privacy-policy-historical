@@ -1,70 +1,66 @@
-> *The following text is extracted and transformed from the searchrenttoownhomes.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124195453id_/http%3A//searchrentallistings.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchrenttoownhomes.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509025103id_/http%3A//renttoownhomeslistings.com-login.org/index.php/privacy) for the most accurate reproduction.*
 
-# All About Our Rent To Own Home Program
+# privacy | Rent to Own Homes
 
-###   
-Effective: September 1, 2010
+## Privacy Policy
 
-This Privacy Policy explains our policy regarding the collection, use, and disclosure of your personal information. This policy may change, so please refer back to it periodically. By accessing our Web site or using our services, you consent to our information practices. 
+This privacy policy sets out how Rent to Own Homes uses and protects any information that you give Rent to Own Homes when you use this website.
 
-OW Marketing, Inc owns and operates this website. OwnerWiz.com, SearchRentToOwn.com, SearchRentToOwnHomes.com, SearchRentalListings.com, OWHomes.com, and ListingsWiz.com are all properties of OW Marketing, Inc.  Any mention of OW Marketing, Inc. assumes all of the above websites unless otherwise stated.
+Rent to Own Homes is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-###  Collection and Use of Information   
+Rent to Own Homes may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
+**What we collect**
 
-Personal information means information that can be used to identify and contact you, specifically your name, e-mail address, payment method, telephone number, postal delivery address, profession, company name, company website address, business telephone number, personal photo, as well as other information when such information is combined with your personal information. We may sell or distribute certain individual personal information to other companies, including related interests or vendors so as to provide you with important offers. 
+We may collect the following information:
 
-When you register for any of our services, we ask you to provide us with personal information so that we can provide and personalize our services and marketing efforts. We use this personal information to process your registration and payments, create your profile and to communicate with you regarding our service. Because email is an integral part of our services, your signup ensures that you’ll receive information relative to your interests at the time of your enrollment, from both OW Marketing, Inc. and its partners. If you later wish to cease participation in this portion of our services, you may do so at any time by clicking the unsubscribe link or button found on every automated email. We are 100% ICANN Compliant. 
-
-Should you complete your OwernWiz Portfolio online through the ListingsWiz.com member portal your profile information, including your name, professional information, photo, and any other information that you share will be visible to OW Marketing personnel only. Any personal sharing of account access information including usernames and passwords is done at your own risk. OW Marketing, Inc. and any of it’s divisions share no responsibility for access given to other individuals without direct permission from OW Marketing, Inc or its divisions. 
-
-Please be aware that we may amend this policy at our sole discretion. You can check back to view changes at anytime by visiting the site www.ListingsWiz.com and clicking on the privacy link at the bottom of the page.
-
-Please note that opting not to receive email will remove you completely from our system and you will no longer receive communication unless you choose to opt-in once again
-
-### Security
-
-OW Marketing, Inc. has established company-wide security practices for your protection. These practices include, but are not limited to, firewall security, the use of appropriate encryption technology, and the use of multiple levels of password security. All employees are required to familiarize themselves with, and abide by, these safeguards. Our security practices are continually reviewed and upgraded to provide adequate protection of our membership information.
-
-We do not share credit card information or personal information with anyone but law enforcement or merchant services used to process payments.
-
-### Cookies and Automatically Collected Information
-
-As you browse OW Marketing, Inc. web sites, cookies are placed on your computer’s hard drive. Cookies are small pieces of data that are sent to your browser from a Web server and stored on your hard drive for record keeping purposes. In general, cookies can make the Web more useful by storing information about your preferences on a particular site. Cookies in and of themselves do not personally identify users, although they do identify a user’s computer. If your browser is set to not accept cookies, you may not be able to use OW Marketing, Inc. web sites or services.
-
-We use other technologies, including pixel tags, to gather information on how our users interact with our site and to otherwise help us efficiently operate and monitor our site and service. These technologies, show us, for example, conversion rates, click-throughs and other information that can be used to improve, operate and monitor our site and our service. Third parties, including consultants we engage and online advertisers, may also use this technology to perform similar services for us as well as to assess their own advertising or services.
-
-### Links to Other Sites
-
-**By clicking 'Submit Now' I consent by electronic signature to be contacted about this request and related services by a live agent, artificial or prerecorded voice, and SMS text at the telephone number provided above (dialed manually or by autodialer) and by email. This consent is not required as a condition to purchase services.**
-
-OW Marketing, Inc. web sites contain links to sites operated by third parties whose policies regarding the handling of personal information may differ from ours. While we strive to associate with reputable sites, OW Marketing, Inc. cannot be responsible for the information handling practices of these other sites.
-
-### Affiliated Website Commissions
-
-OW Marketing, Inc. is compensated by other sites you are referred to by OW Marketing. Some of these referrals are for, but not limited to, credit scores and reports and credit management, The amount we are compensated is varies and is not determined by an evaluation of your personal information. You are not required to participate in these services to use any of OwnerWiz's products.
-
-### Disclosure of Personal Information
-
-We use other companies, agents or contractors to perform services on our behalf. For example, we have partnered with other companies to process credit card transactions, collect debts, and analyze and enhance data. In the course of providing such services, these other companies may have access to your personal information. These companies are not permitted to use your personal information except for the purpose of providing the services we request of them.
-
-Except as otherwise provided herein, the information we collect from you is shared with our marketing partners or other third parties. OW Marketing, Inc. may sell or rent aggregated statistical information and user specific information to our marketing partners or other third-parties.
-
-OW Marketing, Inc. also reserves the right to disclose personal information when we reasonably believe disclosure is required by law or if we reasonably believe disclosure is necessary to establish or exercise legal rights. In the event that OW Marketing, Inc. is acquired by or merged with a third party, we reserve the right, to sell or otherwise transfer the personal information we have collected as part of that transaction provided that such third party continues to honor our privacy policy.
-
-### Updating Your Information
-
-You are responsible for updating and maintaining the accuracy of the personal information you provide to us relating to your account. If you want to update your contact information or change your payment method, you should do so by visiting the My Account section of our Web site. You must be logged in to access your OwnerWiz Portfolio and Home Resume section.
-
-You must be 18 years of age or older to subscribe to ListingsWiz.com.
-
-### Contact/Opt Out
-
-If you have questions concerning your account, please contact Customer Service at (678) 280-9148, Monday through Friday 10am-6PM (EST). If you have questions concerning this privacy policy, please contact us. Our address is: PO Box 1449, Duluth, GA 30096.
-
-  
+  * name and job title
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
 
-Rent To Own Houses in Alabama | Alaska | Arizona | Arkansas | California | Colorado | Connecticut | Delaware | District of Columbia | Florida | Georgia | Hawaii | Idaho | Illinois | Indiana | Iowa | Kansas | Kentucky | Louisiana | Maine | Maryland | Massachusetts | Michigan | Minnesota | Mississippi | Missouri | Montana | Nebraska | Nevada | New Hampshire | New Jersey | New Mexico | New York | North Carolina | North Dakota | Ohio | Oklahoma | Oregon | Pennsylvania | Rhode Island | South Carolina | South Dakota | Tennessee | Texas | Utah | Vermont | Virginia | Washington | West Virginia | Wisconsin | Wyoming
 
-[Privacy Policy](http://searchrentallistings.com/privacy.php) | [Terms of Use](http://searchrentallistings.com/terms.php)
+**What we do with the information we gather**
+
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+
+  * Internal record keeping. 
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+
+
+
+**Security**
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+**How we use cookies**
+
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+**Links to other websites**
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+**Controlling your personal information**
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at admin@renttoownhomeslistings.com-login.org
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to jax,fl.
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
