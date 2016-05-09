@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eclickz.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929033422id_/http%3A//corporate.eclickz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eclickz.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509081415id_/http%3A//www.eclickz.com/corporate/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - eClickZ
 
