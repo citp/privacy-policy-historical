@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3xconversionformula.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129030532id_/http%3A//3xconversionformula.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3xconversionformula.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509085921id_/http%3A//www.3xconversionformula.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy
 
