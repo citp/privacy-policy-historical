@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the geogebra.org privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915130619id_/https%3A//www.geogebra.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geogebra.org privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509194208id_/http%3A//www.geogebra.org/privacy) for the most accurate reproduction.*
 
 # GeoGebra
-
-  * Hi everyone! Don't worry if you can't see your profile pic. We are working on the problem and should have it fixed soon! 
-
-
 
 Last Updated: August 26, 2013
 
@@ -105,4 +101,4 @@ We reserve the right to change the privacy policy at our sole discretion. GeoGeb
 
 ## Contact Information
 
-Please contact GeoGebra with any questions or comments about this Privacy Policy, your personal information, our third-party disclosure practices, or your consent choices by email at [ILF.SL2YIFYI@YQGOOF@](https://web.archive.org/web/20150915130619id_/https%3A//www.geogebra.org/ILF.SL2YIFYI@YQGOOF:FKRGS4@ "ILF.SL2YIFYI@YQGOOF@") or by mail at: International GeoGebra Institute, Wolfauerstr 90, 4040 Linz, Austria.
+Please contact GeoGebra with any questions or comments about this Privacy Policy, your personal information, our third-party disclosure practices, or your consent choices by email at [ILF.SL2YIFYI@YQGOOF@](https://web.archive.org/web/20160509194208id_/http%3A//www.geogebra.org/ILF.SL2YIFYI@YQGOOF:FKRGS4@ "ILF.SL2YIFYI@YQGOOF@") or by mail at: International GeoGebra Institute, Wolfauerstr 90, 4040 Linz, Austria.
