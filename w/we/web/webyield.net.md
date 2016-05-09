@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webyield.net privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109042523id_/http%3A//webyield.net/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webyield.net privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509072416id_/http%3A//webyield.net/privacystatement.html) for the most accurate reproduction.*
 
 # WebYield Privacy Statement
 
@@ -82,7 +82,7 @@ If we make material changes to this Policy, we will notify you here, by email, o
 
 **Contacting Our Site**
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please [Contact us](https://web.archive.org/web/20151109042523id_/http%3A//webyield.net/contact.html)
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please [Contact us](https://web.archive.org/web/20160509072416id_/http%3A//webyield.net/contact.html)
 
 * * *
 
