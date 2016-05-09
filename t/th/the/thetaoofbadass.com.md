@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thetaoofbadass.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227192745id_/http%3A//www.thetaoofbadass.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetaoofbadass.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510005127id_/http%3A//thetaoofbadass.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy
+# thetaoofbadass.com
 
 THE TAO OF BADASS, the parent company of Thetaoofbadass.com, and it's affiliate sites, has created this Privacy Statement (Policy) in order to demonstrate our firm commitment to helping our users better understand what information we collect about them and what may happen to that information.
 
