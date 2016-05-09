@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookbyte.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124161056id_/https%3A//www.bookbyte.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookbyte.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509110800id_/https%3A//www.bookbyte.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Bookbyte's Privacy Policy | Security and Confidentiality | Bookbyte
 
