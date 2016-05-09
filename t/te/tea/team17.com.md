@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the team17.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912094241id_/http%3A//www.team17.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the team17.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509105150id_/https%3A//www.team17.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Team17 Digital Limited
 
-[Home](http://www.team17.com/) » Privacy Policy
+[Home](https://www.team17.com/) » Privacy Policy
 
 Team17 Digital Ltd (“We”) are committed to protecting and respecting your privacy.
 
