@@ -1,53 +1,63 @@
-> *The following text is extracted and transformed from the onlytgirls.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515234647id_/http%3A//www.pornstar.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlytgirls.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509095056id_/http%3A//www.onlytgirls.com/privacy-policy) for the most accurate reproduction.*
 
-# Pornstar.com live camsPrivacy Policy
+# Privacy Policy - only t girls
 
-[Home](http://www.pornstar.com/) / Privacy Policy
+This Privacy Policy governs the manner in which OnlyTGirls.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [OnlyTGirls.com](http://top10adultdatingsites.com/) website (“Site”). This privacy policy applies to the Site and all services offered by OnlyTGirls.com.
 
-By using our sites, you signify your agreement to the privacy policies described herein. If you do not agree with our privacy policies, please do not use our site or service. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages or we will email you at our discretion.
+### PERSONAL IDENTIFICATION INFORMATION
 
-pornstar.com respects and safeguards the privacy of every individual who visits our website. This Privacy Statement is a formal document that outlines the information which may be collected about you while you use pornstar.com, and how that information may be used. This Statement will also instruct you on what to do if you do not want your personal information collected or shared when you visit the pornstar.com website.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, and in connection with other activities, services, features or resources we make available on our Site. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-pornstar.com will not collect any personal identifying information about you (including, but not limited to, your name, address, telephone number, email address, Social Security number, bank account or credit card information, or any combination of data that could be used to identify you, such as birth date, zip code, and gender) unless you provide it to us voluntarily.
+### NON-PERSONAL IDENTIFICATION INFORMATION
 
-If you do not want your personal identifying information collected, please do not submit it to us. If you have already submitted this information and would like for us to remove it from our records, please contact us at the email address listed at the bottom of this Statement. We will use reasonable efforts to delete your information from our existing files.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-When you do provide us with personal identifying information, such information will be gathered solely by pornstar.com, and is for use solely by pornstar.com and trusted partners. At any point where personal identifying information is requested, any information that is optional to provide, rather than mandatory, will be clearly marked as such. We may use personal identifying information in the following ways, unless stated otherwise: we may store and process that information to better understand your needs and how we can improve our products and services; and we may use that information to contact you. Financial information that is collected is used to check the users' qualifications for registration and to bill the user for products and services.
+### WEB BROWSER COOKIES
 
-pornstar.com may utilize electronic newsletters to reach all or a subset of all registered users, using the email address collected. Users may remove themselves from such mailing lists at any time by following the instructions that shall be sent as part of any of such mailings.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-pornstar.com may request personal identifying information on specific pages that allow users to contact pornstar.com. Such information is being collected to assist us in solving a specific issue addressed by the user and/or to allow us to contact the user with an appropriate response.
+### HOW WE USE COLLECTED INFORMATION
 
-There are a limited number of situations where we may disclose your personal information to others without first receiving your consent: (1) when legally ordered to do so by a lawful subpoena or court order, (2) if you violate or breach an agreement with us, (3) if we believe conduct by you will harm the property or rights of pornstar.com or those of pornstar.com customers or chat hosts, (4) under exigent circumstances to protect the physical safety of pornstar.com, its employees, users or the general public, (5) in connection with the sale of all or substantially all of our company’s assets or the sale of an entire web site or business division or (6) in order to validate credit card numbers for charging for fee services.
+OnlyTGirls.com may collect and use Users personal information for the following purposes:
 
-Your browser offers so-called "cookies," which – if you allow their use – store small amounts of data on your computer about your visit to our site. Cookies assist us in tracking which of our features you like best. And when you re-visit our sites, cookies can enable us to customize our content according to your preferences. However, cookies tell us nothing about you personally unless you specifically give us additional information.
+  * To improve customer service
+  * Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * To personalize user experience
+  * We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * To improve our Site
+  * We may use feedback you provide to improve our products and services.
+  * To share your information with third parties
+  * We may share information with third parties for marketing or other purposes.
+  * To run a promotion, contest, survey or other Site feature
+  * To send Users information they agreed to receive about topics we think will be of interest to them.
 
-Cookies used on the website by category:
-
-  * Strictly necessary cookies - These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website.
-  * Performance cookies - These cookies collect anonymous information on the pages visited. By using our site, you agree that we can place these types of cookies on your device. These cookies collect information about how visitors use a website, for instance which pages visitors go to most often. These cookies don't collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works.
-  * Functionality cookies - These cookies remember choices you make to improve your experience. By using our site, you agree that we can place these types of cookies on your device. These cookies allow the website to remember choices you make and provide enhanced, more personal features. The information these cookies collect may be anonymized and they cannot track your browsing activity on other websites.
-  * Advertising cookies - These cookies are used to deliver advertisements more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organizations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organization.
 
 
+### HOW WE PROTECT YOUR INFORMATION
 
-You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. However, note that if you reject some or all cookies, your experience at our sites and on other sites throughout the World Wide Web may not be complete. Some sites require cookies to function, such as those with e-commerce features. In addition, if you do not allow cookies, you will not be able to take advantage of personalized content delivery offered by us or other Internet sites.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information and data stored on our Site.
 
-This site makes chat rooms available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. If you disclose your email address in a chat room or forum, you may receive unsolicited email or "spam". We cannot safeguard the privacy of any such information you choose to disclose online in this manner and you must do so carefully and at your own risk.
+### THIRD PARTY WEBSITES
 
-Because we care about the safety and privacy of children online, we comply with the Children’s Online Privacy Act of 1998 (COPA). COPA and its accompanying FTC regulation established United States federal law that protects the privacy of children using the Internet. pornstar.com does not knowingly collect contact or personal information from persons under 18. Our sites are not intended to solicit information of any kind from persons under 18, and we have designed our sites to block our knowing acceptance of information from persons under 18 wherever age related information is requested.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
-Members areas of pornstar.com may contain content considered offensive to some, and are inaccessible to individuals under the age of 18 via a standard credit card wall, as advocated by the Communications Decency Act. It is possible that by fraud or deception we may receive information given to us or pertaining to minors under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by minors, please do so by emailing us at [support@webcamassist.com](https://web.archive.org/contactsupport.php?).
+### ADVERTISING
 
-pornstar.com does not send unsolicited email to anyone who has requested we do not contact them. Any newsletters that we send are only sent to those who are active members of the site. To stop receiving email or newsletters from pornstar.com, either follow the instructions on the email or newsletter itself or send a request to be unsubscribed to [Support](https://web.archive.org/contactsupport.php?).
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-pornstar.com also does not condone spam by affiliates or chat hosts advertising our site. Spam by our affiliates is prohibited by our Acceptable Use Policy. Some trusted partners may email a member to present special offers to our members. Further, according to our published policy, if pornstar.com becomes aware that a customer or affiliate is in violation of the law or this Acceptable Use Policy, pornstar.com reserves the right to impose disciplinary action in its sole discretion. Our disciplinary action may include: removal from our servers of files that violate our Acceptable Use Policy, the expulsion of the customer from the pornstar.com program, termination of pornstar.com services, and forfeiture of all commissions.
+### CHANGES TO THIS PRIVACY POLICY
 
-If you have any questions about this Privacy Policy, please contact our customer service department at [support@webcamassist.com](https://web.archive.org/contactsupport.php?) and provide us with your name, your pornstar.com login name, and any information you feel is important.
+OnlyTGirls.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-The address for correspondence by post is
+### YOUR ACCEPTANCE OF THESE TERMS
 
-ICF Technology, Inc.  
-PO Box 21508  
-Seattle, WA 98111  
-USA
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+### CONTACTING US
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+
+OnlyTGirls.com  
+[privacy@OnlyTGirls.com](mailto:privacy@top10adultdatingsites.com)
+
+This document was last updated on January 6, 2016
