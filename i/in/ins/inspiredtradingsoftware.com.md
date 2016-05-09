@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspiredtradingsoftware.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408222416id_/http%3A//inspiredtradingsoftware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiredtradingsoftware.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509085522id_/http%3A//inspiredtradingsoftware.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « InspiredTradingSoftware.com
 
