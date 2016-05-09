@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popvortex.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220195230id_/http%3A//www.popvortex.com/info/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popvortex.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509202530id_/http%3A//www.popvortex.com/info/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy at PopVortex
 
@@ -39,4 +39,8 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
-Last Updated - February 13, 2015.
+### Google Analytics Demographics and Interest Reporting
+
+Through Google Analytics we track demographic and interest reporting about visitors to this site. We use this information to help us determine new features and content which we feel our users may be interested in. We do not share this information with anyone. You may opt out of having this data collected by Google Analytics by installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/).
+
+Last Updated - February 14, 2016.
