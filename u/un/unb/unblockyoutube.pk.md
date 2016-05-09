@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unblockyoutube.pk privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107103319id_/http%3A//unblockyoutube.pk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unblockyoutube.pk privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509201748id_/http%3A//unblockyoutube.pk/privacy) for the most accurate reproduction.*
 
 # NickTube - High speed video experience with HD Quality
 
