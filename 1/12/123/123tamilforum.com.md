@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123tamilforum.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109140531id_/http%3A//tamil.gallery/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123tamilforum.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509164445id_/http%3A//tamil.gallery/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tamil Photo Gallery
 
