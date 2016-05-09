@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iamareader.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026131601id_/http%3A//www.iamareader.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iamareader.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509192816id_/http%3A//www.iamareader.com/policies/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - I Am A Reader
+# Privacy Policy
 
 **Privacy Policy – www.iamareader.com**  
 
