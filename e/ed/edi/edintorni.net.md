@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edintorni.net privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113025156id_/http%3A//edintorni.net/related/account/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edintorni.net privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509052411id_/http%3A//edintorni.net/related/account/privacy.asp%3Fac%3DeDintorni) for the most accurate reproduction.*
 
 # Privacy - eDintorni
 
@@ -37,7 +37,7 @@ The technical Cookies used by the Owner can be grouped in the following sub-cate
 
   * Navigation Cookies, through which navigation preferences can be saved and the User’s navigation experience can be optimized;
   * Analysis Cookies, through which statistical information about the navigation mode of Users can be acquired. Such information is processed in aggregated and anonymous form;
-  * Technical functionality cookies that are necessary for a complete delivery of services. These cookies do not require the prior consent of the User to be installed and used, however, if the User wishes to, by [**_clicking here_**](https://web.archive.org/web/20151113025156id_/http%3A//edintorni.net/related/account/privacyCookie.asp?set=off&ac=) the use related to the Services can be completely disabled; on the contrary, by [**_clicking here_**](https://web.archive.org/web/20151113025156id_/http%3A//edintorni.net/related/account/privacyCookie.asp?set=on&ac=) their use can be reactivated.
+  * Technical functionality cookies that are necessary for a complete delivery of services. These cookies do not require the prior consent of the User to be installed and used, however, if the User wishes to, by [**_clicking here_**](https://web.archive.org/web/20160509052411id_/http%3A//edintorni.net/related/account/privacyCookie.asp?set=off&ac=eDintorni) the use related to the Services can be completely disabled; on the contrary, by [**_clicking here_**](https://web.archive.org/web/20160509052411id_/http%3A//edintorni.net/related/account/privacyCookie.asp?set=on&ac=eDintorni) their use can be reactivated.
 
 
 
