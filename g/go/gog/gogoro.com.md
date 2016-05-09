@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gogoro.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315131459id_/http%3A//www.gogoro.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogoro.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509173914id_/http%3A//www.gogoro.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Gogoro - Introducing the world's first and only Smartscooter™
+# Gogoro - Introducing the world's first and only Smartscooter™
 
 ## Gogoro Privacy Policy
 
@@ -57,4 +57,4 @@ Gogoro may change the provisions of Gogoro Privacy Policy at any time. If we cha
 
 If you have any questions or comments about Gogoro Privacy Policy, please send an email to [contact@gogoro.com](mailto:contact@gogoro.com).
 
-Copyright © 2014-2015 Gogoro Inc. All rights reserved.
+Copyright © 2014-2016 Gogoro Inc. All rights reserved.
