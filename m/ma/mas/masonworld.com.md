@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the masonworld.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104151939id_/http%3A//www.latenightim.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masonworld.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509213955id_/http%3A//www.latenightim.com/privacy) for the most accurate reproduction.*
 
-# Privacy – Late Night Internet Marketing with Mark Mason (MasonWorld)
+# Privacy
 
 To help you make decisions about the information you provide anywhere on this site, this notice has been provided to outline my practices.  You should know that we respect your privacy, and that we will never sell your email address to anyone. Also, we hate spam as much as you do, so you will only ever get email from us that we  have personally approved for distribution to the list.
 
