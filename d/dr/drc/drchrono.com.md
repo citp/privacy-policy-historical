@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drchrono.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322125224id_/https%3A//www.onpatient.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drchrono.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509083525id_/https%3A//www.onpatient.com/privacy) for the most accurate reproduction.*
 
-# onpatient — Privacy Policy
+# Privacy Policy | onpatient
 
 Your privacy is very important to drchrono. This Privacy Policy (this “Policy”) sets out how we handle and secure information collected by drchrono’s onpatient website and applications (collectively, the “onpatient website”). Please review this policy carefully.
 
