@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankalfalah.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228232346id_/http%3A//www.bankalfalah.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankalfalah.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509034715id_/http%3A//www.bankalfalah.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bank AlfalahBank Alfalah
 
@@ -45,8 +45,6 @@ BAFL reserves the right to modify this Privacy Statement or any part thereof at 
 ## Consent
 
 By using our web site, you hereby consent to our privacy policy and agree to its terms.
-
-[](http://www.bankalfalah.com/cltp-content/plugins/adrotate/adrotate-out.php?track=MywwLDAsaHR0cDovL3d3dy5iYW5rYWxmYWxhaC5jb20vYnVzaW5lc3MtYmFua2luZy9hbGZhbGFoLXNtZS10b29sa2l0Lw=)
 
 ## 24/7 Customer Support 
 
