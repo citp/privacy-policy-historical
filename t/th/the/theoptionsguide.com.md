@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the theoptionsguide.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915060707id_/http%3A//theoptionsguide.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theoptionsguide.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510014745id_/http%3A//www.theoptionsguide.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # The Options Guide - Privacy Policy
-
-| 
 
 TheOptionsGuide.com understands that the privacy and security of information that is gathered and used on our website is important to our users. We want you to be comfortable as you explore our site, and participate in its interactive nature. We are committed to providing an online environment that is both Private and Secure by adhering to confidentiality standards that are designed to protect our visitors' personal information. TheOptionsGuide.com has created this Privacy Policy Statement to demonstrate our commitment to the protection of your privacy.
 
@@ -31,6 +29,4 @@ TheOptionsGuide.com works hard to ensure that our systems are secure and that th
 
 ### Right to Change Internet Privacy Policy Statement
 
-TheOptionsGuide.com reserves the right to change this Privacy Policy Statement at any time. Changes will be effective immediately upon posting to our website. By using this site, you signify your agreement with and acceptance of TheOptionsGuide.com's Privacy Policy Statement. If you do not accept this policy, please do not use this site in any way. Your continued use of TheOptionsGuide.com sites following the posting of changes to these terms will mean you accept those changes, regardless of whether TheOptionsGuide.com provides you with additional notice of such changes. We recommend that visitors to our website re-visit this Privacy Policy page on occasion to learn of changes to our privacy practices and policies.  
-  
----|---
+TheOptionsGuide.com reserves the right to change this Privacy Policy Statement at any time. Changes will be effective immediately upon posting to our website. By using this site, you signify your agreement with and acceptance of TheOptionsGuide.com's Privacy Policy Statement. If you do not accept this policy, please do not use this site in any way. Your continued use of TheOptionsGuide.com sites following the posting of changes to these terms will mean you accept those changes, regardless of whether TheOptionsGuide.com provides you with additional notice of such changes. We recommend that visitors to our website re-visit this Privacy Policy page on occasion to learn of changes to our privacy practices and policies.
