@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the formlabs.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203230448id_/http%3A//formlabs.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formlabs.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509145001id_/http%3A//formlabs.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Formlabs
 
@@ -127,7 +127,7 @@ If you provide us with your Personal Information, you have the following rights 
 
 
 
-To exercise any of these rights, please contact us at [](mailto:labs@formlabs.com)[labs@formlabs.com](mailto:labs@formlabs.com) or by mail to Formlabs, Inc., 35 Medford St., Suite 201, Somerville, MA 02143, Attention: Privacy. We will promptly change, correct, or delete your information.
+To exercise any of these rights, please contact us at [](mailto:legal@formlabs.com)[legal@formlabs.com](mailto:legal@formlabs.com) or by mail to Formlabs, Inc., 35 Medford St., Suite 201, Somerville, MA 02143, Attention: Privacy. We will promptly change, correct, or delete your information.
 
 ### To Unsubscribe From Our Communications
 
