@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4adventure.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124192945id_/http%3A//seaworldentertainment.com/en/privacy-policy/%3FwebSyncID%3D08aea98d-36d9-5c51-6e3c-8a1e6c7a59bd%26sessionGUID%3D939eca42-d9b3-3c22-2909-735a561aed2d) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4adventure.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509202840id_/http%3A//seaworldentertainment.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SeaWorld Parks & Entertainment
 
