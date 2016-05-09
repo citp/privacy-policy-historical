@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wtva.com privacy policy that was archived on 2015-11-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151109042641id_/http%3A//www.wtva.com/aboutus/WTVA_Privacy_Policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wtva.com privacy policy that was archived on 2016-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160509073834id_/http%3A//www.wtva.com/aboutus/WTVA_Privacy_Policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head>
 
@@ -58,44 +58,46 @@
 <!-- Start Header Includes -->
 <link href="http://wtva.com/includes/wtva-fonts.css" rel="stylesheet">
 
-<script src="https://script.crazyegg.com/pages/scripts/0028/6512.js?439020" async="" type="text/javascript"></script><script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script type="text/javascript" async="" src="//cdn.kixer.com/ad/load.js"></script><script type="text/javascript" async="" src="//cdn.kixer.com/ad/load.js"></script><script type="text/javascript" async="" src="//cdn.kixer.com/ad/load.js"></script><script type="text/javascript" async="" src="//cdn.kixer.com/ad/load.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
-window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:22,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:9,2:8,3:6,4:10,5:3,6:23,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:9,2:8,3:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],6:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,ee:"QJf3ax",gos:"7eSDFh"}],7:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:24,ee:"QJf3ax"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:24,ee:"QJf3ax"}],9:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:24,ee:"QJf3ax"}],10:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:6,2:24,ee:"QJf3ax"}],11:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:12,3:10,4:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],12:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],13:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:22,2:23,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:22,2:13,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],22:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],23:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],24:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:23,ee:"QJf3ax"}]},{},["G9z0Bl",4,11,5]);
-;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"839d8b4f3b",applicationID:"8831125",sa:1,agent:"js-agent.newrelic.com/nr-686.min.js"}
-</script>
 <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,600,700,800,300" rel="stylesheet" type="text/css">
-<link href="http://www.wtva.com/includes/fab4395b26e2ff094882a0d407624b55/styles.css" rel="stylesheet">
-<link href="http://www.wtva.com/includes/46abe8d703e646a863c0f37cb194dcde/custom.css" rel="stylesheet">
+<link href="http://www.wtva.com/includes/d982d1e7a7c1f33512cef815ded4b2e9/styles.css" rel="stylesheet">
+<link href="http://www.wtva.com/includes/d357472f083cae1b9f0a3679317073ca/custom.css" rel="stylesheet">
 
 <!--[if lt IE 10]>
 <link href="http://www.wtva.com/includes/b47d36d8876c58ced7261ec8b6a417bc/ie.css" rel="stylesheet">
 <![endif]-->
 
 
-<!-- Google Survey -->
 
-<script type="text/javascript" src="http://launch.newsinc.com/js/embed.js" id="_nw2e-js" async=""></script>
 <!-- Load Javascript -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<script src="http://www.wtva.com/includes/7fe31956297389f5b4a2e8e19003eb5a/jquery.validate.js" async=""></script>
-<script src="http://www.wtva.com/includes/0b003689d256ebab07c4b69eb8fe6fd0/modernizr-min.js" async=""></script>
-<script src="http://www.wtva.com/includes/c9585fee60d2fbd19b7fb3980f01f251/packery.js" async=""></script>
-<script src="http://www.wtva.com/includes/92c8152731bcd541e24910a0ed610c38/plugins-min.js" async=""></script>
-<script src="http://www.wtva.com/includes/b6356a48ccedc8a6faf4c6e3c7ec085a/print.js" async=""></script>
-<script src="http://www.wtva.com/includes/0c34c638a1448320a31d81f43a61f181/core.js" async=""></script>
-<script src="http://www.wtva.com/includes/e54664d9fafa72753703ddf52e6af37a/HL-Custom.js" async=""></script>
+
+<script type="text/javascript" async="" src="//cdn.kixer.com/ad/load.js"></script><script type="text/javascript" async="" src="//cdn.kixer.com/ad/load.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+<script src="http://www.wtva.com/includes/2c1dde583968f21aad69d599cafa42e6/HL-JS-Main.js" async=""></script>
+<script type="text/javascript" src="//s.ntv.io/serve/load.js" async=""></script>
+<script src="https://www.google.com/recaptcha/api.js"></script>
+<script type="text/javascript" src="http://launch.newsinc.com/js/embed.js" id="_nw2e-js" async=""></script>
+<script src="http://www.wtva.com/includes/fcec0ba15b8b533f55cdea7835ad253c/HL-JS-Custom" async=""></script>
 
 
 
 
 
-<script src="http://www.wtva.com/includes/7e4ef85ddaff924bce5ca30b1fb3d1a0/wtva-weather.js"></script>
+<script src="http://www.wtva.com/includes/bf7282341ef289dbbaa11d53982f22b5/wtva-weather.js"></script>
+<script type="text/javascript" src="http://widgets.wsi.com/1.1/wx.loader.min.js?cid=236234661"></script>
 
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!--[if lt IE 9]>
   <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
   <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 
-<![endif]--><!-- End Header Includes -->
+<![endif]-->
+
+
+
+<script type="text/javascript">
+			jQuery(document).ready(function(){  
+				$('.primary-nav').jetmenu();
+			});
+</script><!-- End Header Includes -->
 
 <!-- Start Header Analytics -->
 <script>
@@ -182,6 +184,8 @@ googletag.defineSlot('/37009801/WTVA-aboutus-halfpage-bottom', [[300,600],[300,2
 
 googletag.defineSlot('/37009801/WTVA-aboutus-sponsor-logo', [[320,50],[300,50]],'WTVA-aboutus-sponsor-logo').defineSizeMapping(largerectangle).addService(googletag.pubads());
 
+googletag.defineSlot('/37009801/WTVA-aboutus-thirdparty', [300,400],'WTVA-aboutus-thirdparty').addService(googletag.companionAds()).addService(googletag.pubads());
+
 googletag.pubads().setTargeting("Article","Privacy Policy");
 googletag.pubads().enableSyncRendering();
 googletag.companionAds().setRefreshUnfilledSlots(true);
@@ -218,12 +222,11 @@ googletag.enableServices();
 
 
 
-
 <script type="text/javascript">
 	$(document).ready(function(){
 		$("#breakingnews2").BreakingNews({
 			background		:'#d20b0b',
-			title			:'BREAKING NEWS:',
+			title			:'BREAKING NEWS',
 			titlecolor		:'#FFF',
 			titlebgcolor	:'#d20b0b',
 			linkcolor		:'#fff',
@@ -243,7 +246,6 @@ googletag.enableServices();
 	
 </script>
 
-
 <script>
 $(document).ready(function(){
 	
@@ -258,6 +260,14 @@ $(document).ready(function(){
 	})
 
 })
+</script>
+
+<script>
+$(document).ready(function(){
+	$('#ad-trigger').on('click', function() {      
+		$('#ad-holder').slideToggle('fast');
+	})
+});
 </script>
 
 <script>
@@ -291,7 +301,18 @@ $('#Next').on('click', function() {
 
 <script type="text/javascript">var switchTo5x=true;</script>
 <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-<script type="text/javascript">stLight.options({publisher: "100e20c1-89ba-4247-960c-5082ee6575cf", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script><!-- End Header Javascript -->
+<script type="text/javascript">stLight.options({publisher: "100e20c1-89ba-4247-960c-5082ee6575cf", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+
+<script>
+  $(function() {
+    $(".rslides").responsiveSlides({
+   	nav: true,
+       	auto: false,
+       	prevText: "",
+       	nextText: ""
+       });
+  });
+</script><!-- End Header Javascript -->
 
 </head>
 <body>
@@ -301,9 +322,8 @@ var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");
 function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
 function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=323098711";_qc+="&7=2683202";_qc+="&18="+encodeURIComponent(Math.random());_qc+="&100="+a.href;_qc+="&101="+encodeURIComponent(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
 </script><noscript>
-<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=323098711&7=2683202&25=0&18=0.5391607227083475">
+<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=323098711&7=2683202&25=0&18=0.41133708519204193">
 </noscript>
-<!-- $mobilecheck -->
 <!-- Alert Bar Top -->
 <!-- Alert Bar Top -->
     <!-- Header -->
@@ -315,14 +335,14 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
         	<div class="row">
         	<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
             		<a href="/" class="logo">
-                		<img src="http://media.heartland-interactive.com/images/wtva-logo.png" alt="WTVA.com">
+                		
+                		                		<img src="http://media.heartland-interactive.com/images/wtva-wlov1.png" alt="WTVA.com">
                 		<div class="logo-text-wrapper">
                     			<div class="logo-text">
-                        			<h1>WTVA.com</h1>
-                        			<p class="tagline"></p>
+                        			
                     			</div>
                 		</div>
-           		 </a>
+                		           		 </a>
             	</div>
             	
             	<div class="col-lg-2 hidden-md hidden-sm hidden-xs"></div>
@@ -387,8 +407,9 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 																  								  							  																		     <li><a href="/weather/radar">Radar</a></li>
 																  								  							  																		     <li><a href="/weather/weathercams">Weather Cams</a></li>
 																  								  							  								  	    	
-							  								  							  																		     <li><a href="/weather/weather-call">Weather Call</a></li>
+							  								  							  																		     <li><a href="/weather/weather-call">WeatherCall</a></li>
 																  								  							  																		     <li><a href="/weather/weatherclosings">Weather Closings</a></li>
+																  								  							  																		     <li><a href="/weather/weathercallforschools">WeatherCall for Schools</a></li>
 																  								  							</ul>
 						  						</li>
 					   										   					    					    	
@@ -402,7 +423,8 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 					   										   					    					    	
 						<li><a href="/community">Community</a>
 						  						    <ul class="dropdown">
-							  							  																		     <li><a href="/community/calendar">Community Calendar</a></li>
+							  							  								  	    	
+							  								  							  																		     <li><a href="/community/calendar">Community Calendar</a></li>
 																  								  							  																		     <li><a href="/community/contests">Contests</a></li>
 																  								  							  																		     <li><a href="/community/facebookfanoftheday">Facebook Fan of the Day</a></li>
 																  								  							  																		     <li><a href="/community/Food4Families">Food 4 Families</a></li>
@@ -411,10 +433,16 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 					   										   										   					    					    	
 						<li><a href="/business">Business</a>
 						  						    <ul class="dropdown">
-							  							  																		     <li><a href="/business/businessshowcase">Business Showcase</a></li>
+							  							  																		     <li><a href="/business/professionallyspeaking">Professionally Speaking</a></li>
 																  								  							  								  	    	
-							  								  							  								  	    	
 							  								  							</ul>
+						  						</li>
+					   										   					    					    	
+						<li><a href="/deals">Deals</a>
+						  						    <ul class="dropdown">
+							  							  																		     <li><a href="/deals/stealsanddeals">Steals &amp; Deals</a></li>
+																  								  							  																		     <li><a href="/deals/traveldeals">Travel Deals</a></li>
+																  								  							</ul>
 						  						</li>
 					   										   					    					    					    	
 						<li><a href="/aboutus">About</a>
@@ -431,9 +459,9 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 					   										   										   					    					    	
 						<li><a href="/live">Live</a>
 						  						</li>
-					   										   										   										
+					   										   										   										   										
    
-     <li class="right hidden-sm hidden-xs" style="width: 250px;">
+     <li class="right" style="width: 250px;">
  <form class="search" action="/search" method="get">
 
         <div class="input-group">
@@ -469,6 +497,8 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 
 	
 <!-- Breaking News Bar -->
+
+<script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3"; fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script>
 
 <a id="sticky-menu-active"></a>
 
@@ -507,11 +537,18 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 
 
 
+
+
+
+
+
+
+
 <nav class="nav-fillslide hidden-xs">
-<a class="prev" id="Previous" href="http://www.wtva.com/aboutus/WTVA_Privacy_Policy.html">
+<a class="prev" id="Previous" href="http://www.wtva.com/aboutus/About_WTVA.html">
 						<span class="icon-wrap"><svg class="icon" width="24" height="24" viewBox="0 0 64 64"><use xlink:href="#arrow-left-4"></use></svg></span>
 						<div>
-							<h3>Privacy Policy</h3>
+							<h3>About WTVA</h3>
 							<span>by WTVA</span>							<img src="$prevStory.image.url" width="120" alt="Previous thumb">
 						</div>
 					</a>
@@ -523,12 +560,14 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 						</div>
 					</a>
 				</nav>
+
 <div class="container">
+
 <div class="row home-pad">
     
             		<div class="col-sm-12 col-md-12 col-lg-12 text-center banner-wrapper">
 				
-				<div id="WTVA-aboutus-leaderboard-top">
+				<div id="WTVA-aboutus-leaderboard-top" style="margin-left: auto; margin-right: auto; max-width: 970px;">
 					<script type="text/javascript">
 					
 						googletag.cmd.push(function() { googletag.display('WTVA-aboutus-leaderboard-top'); });
@@ -539,9 +578,7 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
         
             		</div>
         	</div>
-	
-
-<div class="content-wrapper news-box article-bottom-margin">
+	<div class="content-wrapper news-box article-bottom-margin">
 <div class="row">
 		<div class="col-lg-12">
 			
@@ -578,8 +615,7 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
   					<p><small>By <strong>WTVA</strong> Aug. 27, 2015</small></p>
 			  
 		</div>
-		
-		<div class="col-lg-2 text-right hidden-sm">
+				<div class="col-lg-2 text-right hidden-sm">
 		
 			<div class="fb-like" data-href="http://www.wtva.com/aboutus/WTVA_Privacy_Policy.html" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
 		
@@ -589,14 +625,13 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 			<a class="twitter-share-button" href="https://twitter.com/intent/tweet?text=WTVA.com | Privacy Policy" data-size="small">Tweet</a>
 		</div>
 		<div class="col-lg-2 hidden-sm">
-			<!-- <a href="#" onclick="return(ET());"><img src="http://media.heartland-interactive.com/designimages/email.png"/></a> -->
+			
 		</div>
 		
 		<div class="col-lg-3">
 		 
 		</div>
 		
-
 	
 	</div>
 	
@@ -620,7 +655,8 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 					    							
     							
     					    					
-    					    				
+    					    				       
+                                   
     					</ul>
 					
 																				
@@ -636,28 +672,21 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 					<div class="article" style="margin-top: 15px;">
 											
 						<p>&nbsp;</p>
-												<!-- No Yieldmo -->
-												
-
-						
 											
+					
+								
 						<p></p><div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow: hidden;">Content in WTVA is protected by international trademark and copyright laws, and may only be used for personal, non-commercial purposes. &nbsp;You may only view or download content from the sites for your own personal use, and you must keep all copyright, trademark, and other proprietary notices attached to the downloaded content. &nbsp;Any other use of the sites shall exceed the "authorized access" you have to the sites as that term is defined in federal criminal law in the Computer Fraud and Abuse Act (18 U.S.C. § 1030).</div>
 <div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow: hidden;">The reproduction, duplication, distribution (including by physical, electronic, or other means), publication, modification, copying, or transmission of content from the sites is strictly prohibited unless you have obtained prior written license from WTVA, or unless it is expressly permitted by the sites. &nbsp;Content covered by this prohibition includes, without limitation, any text, images, logos, photographs, audio or video material, or stills from audiovisual materials. &nbsp;The use of content from the sites on any other Web site or networked computer environment is similarly prohibited.</div>
 <div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow: hidden;">Requests for license to use intellectual property owned by WTVA must be submitted in writing to copyright@wtva.com. &nbsp;You should also be aware that the sites may contain content used or reproduced under license from a third party, and that WTVA may not be the holder of the intellectual rights in such works and therefore unable to grant license to use those works. &nbsp;For such materials, license may only be granted by the holder of the intellectual rights, copyright, or trademark.</div>
 <div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow: hidden;">You are strictly prohibited from creating works or materials that derive from, or are based upon, the content contained in the sites, including, without limitation, fonts and typefaces, icons, link buttons, wallpaper, desktop themes, or other unlicensed merchandise. &nbsp;This prohibition applies regardless of whether the derivative materials are sold, bartered, or given away freely.</div>
 <div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow: hidden;">Access via automatic means (such as "spiders", "crawlers", and "bots") must respect and adhere to the established direction and limitation protocols for such methods (such as meta instructions, HTACCESS directives, or robots.txt files). Any automated process accessing the sites which does not adhere to established protocols will be blocked from accessing the sites, and a complaint filed with the relevant Internet service provider(s).&nbsp;</div><p></p>
-												<!-- No Yieldmo -->
-												
-
-						
 											
+					
+								
 						<p><span style="font-size: 10pt; line-height: 115%; font-family: Arial, sans-serif;">This section covers how WTVA treats Personally Identifiable Information (“PII”) that we collect and receive when you access our sites or post comments or questions or upload materials through our sites (our "Privacy Policy").&nbsp; PII is information about you that can be traced directly back to and identifies an individual or your location.&nbsp; PII includes your name, address, employer, e-mail address, IP address, phone number, or other information that identifies your location.</span></p>
 												
-													
-						
-														
-							<!-- Start Heartland - 2x2 -->
-<div id="__kx_ad_3041"></div>
+								<!-- Start Heartland - 2x2 -->
+<div id="__kx_ad_3041" style="margin 15px;"></div>
 <script type="text/javascript" language="javascript">
 var __kx_ad_slots = __kx_ad_slots || [];
 
@@ -684,236 +713,114 @@ var __kx_ad_slots = __kx_ad_slots || [];
 	}
 })();
 </script>
-<!-- End Heartland - 2x2 -->
-							
-													
+<!-- End Heartland - 2x2 -->					
 						
-												
+
 
 						
-											
+										
+					
+								
 						<p>This Privacy Policy applies only to PII collected by WTVA or its affiliates or products and services available where this Privacy Policy is posted on its sites, and does not apply to any other information collected by WTVA and its affiliated entities through any other means.&nbsp; This Privacy Policy does not apply to the practices of companies that WTVA does not own or control or to people that WTVA does not employ or manage.</p>
-												<!-- No Yieldmo -->
-												
-
-						
 											
+					
+								
 						<p>Agreement</p>
-												<!-- No Yieldmo -->
-												
-
-						
 											
+					
+								
 						<p>By using the sites, you signify your agreement to this Privacy Policy.&nbsp; If you do not agree to this Privacy Policy, please do not use the sites.&nbsp; This Privacy Policy may change from time to time, so please check back periodically to ensure that you are aware of any changes.&nbsp; Your continued use of the sites will signify your acceptance of these changes.</p>
-												<!-- No Yieldmo -->
-												
-
-						
 											
+					
+								
 						<p>Information Collection And Use</p>
-												<!-- No Yieldmo -->
-												
-
-						
 											
+					
+								
 						<p>WTVA does not condition access to any part of the sites on the provision of PII except as described in this Policy.&nbsp; Each time you visit our sites, our Internet service providers will record your domain name, IP address, browser, platform, date and time of your visit, and the titles of the pages you view.&nbsp; It is standard practice among Internet service providers to have their servers collect this type of information.</p>
-												<!-- No Yieldmo -->
-												
-
-						
 											
+					
+								
 						<p>Whenever you visit our sites, WTVA also receives and records information on our server logs from your browser, including your IP address, WTVA cookie information, and the pages you request, and relates it to the PII you provide.&nbsp; WTVA uses this information for the following general purposes: to improve our products and services, to contact you, to conduct research, to evaluate traffic patterns, to plan adjustments to our sites, and to provide anonymous reporting for tracking usage of our sites.&nbsp; Our Internet service providers may use the information to make certain their servers are performing optimally.</p>
-												<!-- No Yieldmo -->
-												
-
-						
 											
+					
+								
 						<p>Once you have registered to post information to or to receive information from our sites, we reserve the right to send you certain communications relating to WTVA's services, such as announcements, administrative messages, contest promotions, and messages from our contest sponsors, that are considered part of your WTVA account.</p>
-												<!-- No Yieldmo -->
-												
-
-						
 											
+					
+								
 						<p>You will be offered the opportunity to opt-out of receiving future messages and announcements and to remove your name from WTVA mailing lists.&nbsp; The opt-out provisions do not apply to information collected by cookies or used internally to recognize you and/or facilitate your visits to the sites, or information we may retain to comply with legal requirements.</p>
-												<!-- No Yieldmo -->
-												
-
-						
 											
+					
+								
 						<p>Our sites use a software technology called "cookies."&nbsp; Cookies are small text files that we place in a visitor's computer to store preferences and for identification purposes.&nbsp; A cookie file can contain information such as a user ID to track the pages visited, but the only personal information a cookie can contain is information you set your browser to allow.&nbsp; These files are used for site registration and customization the next time you visit us.&nbsp; Some parts of the sites may also use cookies to track user traffic patterns.&nbsp; Our sites do this in order to determine the usefulness of our site information to our users and to see how effective our navigational structure is in helping users reach that information.&nbsp; Third party advertisers on our sites may also place cookies on your computer for their own use, and WTVA has no control and cannot accept any liability for cookies placed by third parties.</p>
-												<!-- No Yieldmo -->
-												
-
-						
 											
+					
+								
 						<p>Please note that cookies cannot read data from your hard drive.&nbsp; Your Web browser may allow you to be notified when you are receiving a cookie, giving you the choice to accept it or not.&nbsp; If you prefer not to receive cookies while browsing our sites, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence.&nbsp; You can also refuse all cookies by turning them off in your browser.&nbsp; By not accepting cookies, some pages may not fully function and you may not be able to access certain information on our sites.</p>
-												<!-- No Yieldmo -->
-												
-
-						
 											
+					
+								
 						<p>"Web beacons" are small pieces of code placed on a Web page to monitor the behavior and collect data about the visitors viewing a Web page.&nbsp; For example, Web beacons can be used to count the users who visit a Web page or to deliver a cookie to the computer of a visitor viewing that page.&nbsp; We may use Web beacons on our sites from time to time for this purpose.</p>
-												<!-- No Yieldmo -->
-												
-
-						
 											
+					
+								
 						<p>Information Sharing And Disclosure</p>
-												<!-- No Yieldmo -->
-												
-
-						
 											
+					
+								
 						<p>WTVA does not rent, sell, or share PII about you with other people or nonaffiliated companies, except to provide services you've requested, when we have your permission, or when provided to trusted partners who work on behalf of or with WTVA under confidentiality agreements. &nbsp;These companies may use your PII to help WTVA communicate with you about WTVA services and products.&nbsp; However, these companies do not have any independent right to share this information.</p>
-												<!-- No Yieldmo -->
-												
-
-						
 											
+					
+								
 						<p>Please note that some contests or promotions made available through our sites are conducted by third parties, who may have their own privacy policies relating to PII.&nbsp; The party conducting a contest or promotion will be clearly specified in the accompanying rules or information.&nbsp; Some contests or promotions may require specific PII to be submitted to a third party as a requirement of entry; if so required, the contest rules will specify what data is to be collected, by whom, and what use is to be made of it.&nbsp; WTVA cannot accept any liability for PII submitted to a third party conducting a contest or promotion, or submitted for any contest or promotion where data is to be collected by a third party.</p>
-												<!-- No Yieldmo -->
-												
-
-						
 											
+					
+								
 						<p>We may disclose PII in response to legal process, for example, in response to a court order or a subpoena.&nbsp; We also may disclose PII in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or violations of our Terms Of Service; to verify or enforce compliance with the policies governing our services and applicable laws; or as otherwise required or permitted by law or consistent with legal requirements.&nbsp; In addition, we may transfer your PII to an entity or individual that acquires, buys, or merges with WTVA, or WTVA's television or business units.</p>
-												<!-- No Yieldmo -->
-												
-
-						
 											
+					
+								
 						<p>Confidentiality And Security</p>
-												<!-- No Yieldmo -->
-												
-
-						
 											
+					
+								
 						<p>We have taken steps to assure that all information collected will remain secure and in its original form, i.e., free from any alteration.&nbsp; As such, access to all PII is strictly controlled.&nbsp; We have put in place appropriate physical, electronic, and managerial procedures in an effort to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.</p>
-												<!-- No Yieldmo -->
-												
-
-						
 											
+					
+								
 						<p>WTVA is not responsible for and will not be a party to any transactions between you and a third-party provider of products, information or services that you may link to from WTVA's sites.&nbsp; WTVA does not monitor such transactions to ensure the confidentiality of your credit card information.&nbsp; Any separate charges or obligations you incur in your dealings with these third parties linked to WTVA's sites are your responsibility.</p>
-												<!-- No Yieldmo -->
-												
-
-						
 											
+					
+								
 						<p>Password Protection</p>
-												<!-- No Yieldmo -->
-												
-
-						
 											
+					
+								
 						<p>You are responsible for keeping your password confidential.&nbsp; You should notify us immediately if your password is hacked or stolen.&nbsp; WTVA is not responsible or liable to you in any way if information is intercepted by an unauthorized person, either in transit or at your home, business, or other place of access.</p>
-												<!-- No Yieldmo -->
-												
-
-						
 											
+					
+								
 						<p>WTVA may request your user name for the purpose of looking up your account information.&nbsp; If you have been contacted by someone claiming to represent WTVA and asking for any PII other than your user name, do not provide any information, and contact us immediately at privacy@wtva.com.</p>
-												<!-- No Yieldmo -->
-												
-
-						
 											
+					
+								
 						<p>Your California Privacy Rights</p>
-												<!-- No Yieldmo -->
-												
-
-						
 											
+					
+								
 						<p>If you are a California resident, California Civil Code Section 1798.83 permits you to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year.&nbsp; If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year.&nbsp; If you do not want your name and contact information to be shared with any company or organization, you may notify us at any time by writing to us at the e-mail and/or regular mail address below.</p>
-												<!-- No Yieldmo -->
-												
-
-						
 											
+					
+								
 						<p>Children Under Age 13</p>
-												<!-- No Yieldmo -->
-												
-
-						
 											
+					
+								
 						<p>We are committed to protecting the safety and privacy of all our users, especially those who are under 13.&nbsp; To this end, we comply with the Children's Online Privacy Protection Act (COPPA, 15 U.S.C. §§ 6501-6508) and the Children’s Online Privacy Protection Rule (16 CFR Part 312).&nbsp; For more information about COPPA and the Children's Online Privacy Protection Rule, visit the Federal Trade Commission's "Frequently Asked Questions about the Children's Online Privacy Protection Rule" at http://www.ftc.gov/privacy/coppafaqs.shtm.&nbsp; Our sites does not target users under the age of 13 and we do not knowingly collect or display the PII of users who are under the age of 13.&nbsp; We encourage parents to actively monitor their children's online use and to help us protect their privacy by instructing them never to provide personal information on this site or any other without your permission</p>
-												<!-- No Yieldmo -->
-												
-
-						
-										
-					
-					<!-- Yieldmo Footer Tags Mobile -->
-											<!-- Start Heartland - 2x2 -->
-<div id="__kx_ad_3041"></div>
-<script type="text/javascript" language="javascript">
-var __kx_ad_slots = __kx_ad_slots || [];
-
-(function () {
-	var slot = 3041;
-	var h = false;
-	__kx_ad_slots.push(slot);
-	if (typeof __kx_ad_start == 'function') {
-		__kx_ad_start();
-	} else {
-		var s = document.createElement('script');
-		s.type = 'text/javascript';
-		s.async = true;
-		s.src = '//cdn.kixer.com/ad/load.js';
-		s.onload = s.onreadystatechange = function(){
-			if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
-				h = true;
-				s.onload = s.onreadystatechange = null;
-				__kx_ad_start();
-			}
-		};
-		var x = document.getElementsByTagName('script')[0];
-		x.parentNode.insertBefore(s, x);
-	}
-})();
-</script>
-<!-- End Heartland - 2x2 -->
-						
-						<!-- Start Heartland - Interstitial - iframe buster code -->
-<div id="__kx_ad_3039"></div>
-<script type="text/javascript" language="javascript" id="__kx_tag_3039">
-var __kx_ad_slots = __kx_ad_slots || [];
-
-(function () {
-	var slot = 3039;
-	var h = false;
-	var doc = document;
-	__kx_ad_slots.push(slot);
-	if (typeof __kx_ad_start == 'function') {
-		__kx_ad_start();
-	} else {
-		if (top == self) { 			var s = doc.createElement('script');
-			s.type = 'text/javascript';
-			s.async = true;
-			s.src = '//cdn.kixer.com/ad/load.js';
-			s.onload = s.onreadystatechange = function(){
-				if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
-					h = true;
-					s.onload = s.onreadystatechange = null;
-					__kx_ad_start();
-				}
-			};
-			var x = doc.getElementsByTagName('script')[0];
-			x.parentNode.insertBefore(s, x);
-		} else {  			var tag = doc.getElementById('__kx_tag_'+slot); 			var win = window.parent;
-			doc = win.document; 			var top_div = doc.createElement("div"); 			top_div.id = '__kx_ad_'+slot;
-			doc.body.appendChild(top_div);
-			var top_tag = doc.createElement("script"); 			top_tag.id = '__kx_top_tag_'+slot;
-			top_tag.innerHTML = tag.innerHTML;
-			doc.body.appendChild(top_tag);
-		}
-	}
-})();
-</script>
-<!-- End Heartland - Interstitial - iframe buster code -->
+											
 					
 										
-					
 					</div>
 					</span>
 					<!--endclickprintinclude-->
@@ -926,6 +833,7 @@ var __kx_ad_slots = __kx_ad_slots || [];
 									
 				
 				<!-- Related Stories -->
+
 				<!-- Related stories -->
 			
 						
@@ -962,35 +870,43 @@ var __kx_ad_slots = __kx_ad_slots || [];
 				
 				
 				<div class="col-lg-3">
-					<img height="15" width="40" border="0" src="http://images.clickability.com/cmsi/scores/9/1.gif" title="83">
-					<!-- <a href="http://www.wtva.com/news/Education_board_nominee_has_federal_state_policy_background.html"><img src="$item.image.url" class="img-responsive"></a> -->
-					<h5><a href="http://www.wtva.com/news/Education_board_nominee_has_federal_state_policy_background.html">Education board nominee has federal, state policy background</a></h5>
+					<img height="15" width="40" border="0" src="http://images.clickability.com/cmsi/scores/10/1.gif" title="100">
+					<!-- <a href="http://www.wtva.com/news/Aberdeen_alderman_OK_body_camera_alcohol_policies.html"><img src="$item.image.url" class="img-responsive"></a> -->
+					<h5><a href="http://www.wtva.com/news/Aberdeen_alderman_OK_body_camera_alcohol_policies.html">Aberdeen alderman OK body camera, alcohol policies</a></h5>
 					
 				</div>
 													
 				
 				
 				<div class="col-lg-3">
-					<img height="15" width="40" border="0" src="http://images.clickability.com/cmsi/scores/9/1.gif" title="83">
-					<!-- <a href="http://www.wtva.com/sports/SEC_forms_group_to_review_student-athlete_conduct_policies.html"><img src="$item.image.url" class="img-responsive"></a> -->
-					<h5><a href="http://www.wtva.com/sports/SEC_forms_group_to_review_student-athlete_conduct_policies.html">SEC forms group to review student-athlete conduct policies</a></h5>
+					<img height="15" width="40" border="0" src="http://images.clickability.com/cmsi/scores/10/1.gif" title="100">
+					<!-- <a href="http://www.wtva.com/news/369343741.html"><img src="$item.image.url" class="img-responsive"></a> -->
+					<h5><a href="http://www.wtva.com/news/369343741.html">Gun policy revised for university campuses</a></h5>
 					
 				</div>
 													
 				
 				
 				<div class="col-lg-3">
-					<img height="15" width="40" border="0" src="http://images.clickability.com/cmsi/scores/9/1.gif" title="83">
-					<!-- <a href="http://www.wtva.com/news/regional/Miss_considering_policy_on_restraint_seclusion_in_schools_.html"><img src="$item.image.url" class="img-responsive"></a> -->
-					<h5><a href="http://www.wtva.com/news/regional/Miss_considering_policy_on_restraint_seclusion_in_schools_.html">Miss. considering policy on restraint, seclusion in schools </a></h5>
+					<img height="15" width="40" border="0" src="http://images.clickability.com/cmsi/scores/10/1.gif" title="100">
+					<!-- <a href="http://www.wtva.com/news/Columbus_School_Board_reviews_drone_policy.html"><img src="$item.image.url" class="img-responsive"></a> -->
+					<h5><a href="http://www.wtva.com/news/Columbus_School_Board_reviews_drone_policy.html">Columbus School Board reviews drone policy</a></h5>
+					
+				</div>
+													
+				
+				
+				<div class="col-lg-3">
+					<img height="15" width="40" border="0" src="http://images.clickability.com/cmsi/scores/10/1.gif" title="100">
+					<!-- <a href="http://www.wtva.com/news/Target_boycott_in_Mississippi_.html"><img src="$item.image.url" class="img-responsive"></a> -->
+					<h5><a href="http://www.wtva.com/news/Target_boycott_in_Mississippi_.html">Mississippi reacts to Target bathroom policy</a></h5>
 					
 				</div>
 												
 	</div>				</div> 
 				
 				<div class="col-lg-3">
-					
-					<div id="lr_comp_default_300x250">
+										<div id="lr_comp_default_300x250">
 					
 					<div id="WTVA-aboutus-halfpage-top" style="margin-bottom: 20px;">
 					<script type="text/javascript">
@@ -1000,7 +916,7 @@ var __kx_ad_slots = __kx_ad_slots || [];
 
 					
 					</div>
-					<div id="lr_comp_300x250" style="width: 300px; height: 250px; display:none;"></div>
+					<div id="lr_comp_300x250" style="width: 300px; height: 250px; display:none;"></div>
 									
 					<div id="WTVA-aboutus-mediumrectangle">
 					<script type="text/javascript">
@@ -1008,8 +924,7 @@ var __kx_ad_slots = __kx_ad_slots || [];
 					</script>
 					</div>
 					
-				
-				
+								
 				</div>
 			
 			</div>
@@ -1019,7 +934,6 @@ var __kx_ad_slots = __kx_ad_slots || [];
 	</div>
 
 </div>	
-
 <div class="row">
 <div class="col-lg-12 text-center margin-bottom">
 	<div id="WTVA-aboutus-leaderboard-bottom">
@@ -1029,8 +943,11 @@ var __kx_ad_slots = __kx_ad_slots || [];
 				</div>
 				</div>
 </div>
-
 </div>
+
+<!-- Twitter JS for embedded tweets -->
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <!-- Start Heartland - Adhesion - iframe buster code -->
 <div id="__kx_ad_3040"></div>
 <script type="text/javascript" language="javascript" id="__kx_tag_3040">
@@ -1068,7 +985,8 @@ var __kx_ad_slots = __kx_ad_slots || [];
 })();
 </script>
 <!-- End Heartland - Adhesion - iframe buster code -->
-        
+  
+    
     <!-- Footer -->
     <div class="footer-wrapper">
         <div class="footer container">
@@ -1079,37 +997,37 @@ var __kx_ad_slots = __kx_ad_slots || [];
 								<li><a href="http://www.wtva.com/sports">Sports</a></li>
 								<li><a href="http://www.wtva.com/features">Features</a></li>
 								<li><a href="http://www.wtva.com/community">Community</a></li>
-								<li><a href="http://www.wtva.com/aboutus">About</a></li>
-								<li><a href="http://www.wtva.com/aboutus/contact">Contact Us</a></li>
 				            </ul>
             <ul class="col-sm-3">
-								<li><a href="http://media.heartland-interactive.com/documents/WTVA+EEO+Document+01212015.pdf">EEO</a></li>
-								<li><a href="https://stations.fcc.gov/station-profile/wtva">FCC Public Inspection File</a></li>
+								<li><a href=""><strong>WTVA</strong></a></li>
+								<li><a href="http://media.heartland-interactive.com/documents/2016+Annual+EEOC+Report.pdf">EEO</a></li>
+								<li><a href="https://stations.fcc.gov/station-profile/wtva">Public File</a></li>
 								<li><a href="http://www.wtva.com/aboutus/WTVA_Privacy_Policy.html">Privacy Policy</a></li>
-								<li><a href="http://www.wtva.com/aboutus/Terms_and_Conditions.html ">Terms and Conditions</a></li>
+								<li><a href="http://www.wtva.com/aboutus/Terms_and_Conditions.html">Terms &amp; Conditions</a></li>
+								<li><a href="https://www.facebook.com/wtvanews"><img src="http://media.heartland-interactive.com/designimages/facebook-icon.png" height="15px">  facebook.com/wtvanews</a></li>
+								<li><a href="https://www.twitter.com/wtvanews"><img src="http://media.heartland-interactive.com/designimages/twitter-footer-icon.png" height="15px">  @wtvanews</a></li>
 				            </ul>
             <ul class="col-sm-3">
-								<li><a href="http://www.wtva.com/aboutus/contact">Contact WTVA</a></li>
-								<li><a href="http://www.wtva.com/aboutus">About WTVA</a></li>
-								<li><a href="http://www.wtva.com/aboutus/advertisewithus">Advertise With Us</a></li>
+								<li><a href=""><strong>WLOV</strong></a></li>
+								<li><a href="http://media.heartland-interactive.com/documents/WLOV_EEO_PUBLIC_FILE_REPORT_2016.pdf">EEO</a></li>
+								<li><a href="https://stations.fcc.gov/station-profile/wlov-tv">Public File</a></li>
+								<li><a href="">Privacy Policy</a></li>
+								<li><a href="">Terms &amp; Conditions</a></li>
+								<li><a href="https://www.facebook.com/WlovFoxNews27/"><img src="http://media.heartland-interactive.com/designimages/facebook-icon.png" height="15px">  facebook.com/WlovFoxNews27</a></li>
+								<li><a href="https://twitter.com/WLOVFox27"><img src="http://media.heartland-interactive.com/designimages/twitter-footer-icon.png" height="15px">  @WLOVFox27</a></li>
 				            </ul>
             <ul class="social col-sm-3">
-								<li><a href="http://www.twitter.com/wtvanews"><span class="icon icon-twitter"></span></a></li>
-								<li><a href="http://www.facebook.com/wtvanews"><span class="icon icon-facebook"></span></a></li>
-				            </ul>
+								<li><a href=""><span class=""></span></a></li>
+								
+				
+            </ul>
+            <span style="float: left;" class="address"><p><strong>WTVA</strong><br>1359 Beech Springs Road<br>Saltillo, MS 38866<br>(662) 842-7620</p></span>
         </div>
         <div class="footer-copyright">
         	
-        	Copyright © 2015 Heartland Media, LLC | All rights reserved.
+        	Copyright © 2016 Heartland Media, LLC | All rights reserved.
         </div>
     </div><!-- Footer End -->
-
-<script type="text/javascript">
-setTimeout(function(){var a=document.createElement("script");
-var b=document.getElementsByTagName("script")[0];
-a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0028/6512.js?"+Math.floor(new Date().getTime()/3600000);
-a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-</script>
 
 <script type="text/javascript">
 $(document).ready(function(){
@@ -1134,14 +1052,6 @@ $(document).ready(function(){
 });
 
 </script>
-
-  <script src="https://steverydz.com/simpleGal/dist/jquery.simpleGal.js"></script>
-
-<script>
-  						$(document).ready(function () {
-    						$(".thumbnails").simpleGal();
-  						});
-  					</script>
   
 
 </body></html>
