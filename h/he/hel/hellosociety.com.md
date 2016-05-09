@@ -1,100 +1,79 @@
-> *The following text is extracted and transformed from the hellosociety.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellosociety.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509041214id_/http%3A//hellosociety.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | HelloSociety
 
-**Go Daddy Respects Your Privacy**
+Last Updated: September 30, 2015 
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Protecting your privacy is really important to us. With this in mind, we’re providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive through our Services. This Privacy Policy does not apply to any third-party websites, services or applications, even if they are accessible through our Services. Also, please note that, unless we define a term in this Privacy Policy, all capitalized terms used in this Privacy Policy have the same meanings as in our Terms of Service. So, please make sure that you have read and understand our Terms of Service. 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Revisions to this Privacy Policy 
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+Any information that is collected via our Services is covered by the Privacy Policy in effect at the time such information is collected. We may revise this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, we’ll notify you of those changes by posting them on the Services or by sending you an email or other notification, and we’ll update the “Last Updated Date” above to indicate when those changes will become effective. 
 
-**Information Collection and Use**
+###  Collection and Use of Information 
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+Information Collected or Received from You 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Our primary goals in collecting information are to provide and improve our Services, to administer your use of the Services (including your Account, if you are an Account holder), and to enable you to enjoy and easily navigate our Services. 
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+_Account Information._ If you create an Account, we’ll collect certain information that can be used to identify you, such as your name, email address, postal address and phone number (“ **PII** ”). If you create an Account using your login credentials from one of your SNS Accounts, we’ll be able to access and collect your name and email address and other PII that your privacy settings on the SNS Account permit us to access. If you create an Account through the Site or one of your SNS Accounts, we may also collect your gender, date of birth and other information that is not considered PII because it cannot be used by itself to identify you. 
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+_Information Collected Using Cookies and other Web Technologies._ Like many website owners and operators, we use automated data collection tools such as Cookies and Web Beacons to collect certain information. 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+**“Cookies”** are small text files that are placed on your hard drive by a Web server when you access our Services. We may use both session Cookies and persistent Cookies to identify that you’ve logged in to the Services and to tell us how and when you interact with our Services. We may also use Cookies to monitor aggregate usage and web traffic routing on our Services and to customize and improve our Services. Unlike persistent Cookies, session Cookies are deleted when you log off from the Services and close your browser. Although most browsers automatically accept Cookies, you can change your browser options to stop automatically accepting Cookies or to prompt you before accepting Cookies. Please note, however, that if you don’t accept Cookies, you may not be able to access all portions or features of the Services. Some third-party services providers that we engage (including third-party advertisers) may also place their own Cookies on your hard drive. Note that this Privacy Policy covers only our use of Cookies and does not include use of Cookies by such third parties. 
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+**“Web Beacons”** (also known as Web bugs, pixel tags or clear GIFs) are tiny graphics with a unique identifier that may be included on our Services for several purposes, including to deliver or communicate with Cookies, to track and measure the performance of our Services, to monitor how many visitors view our Services, and to monitor the effectiveness of our advertising. Unlike Cookies, which are stored on the user’s hard drive, Web Beacons are typically embedded invisibly on web pages (or in an e-mail). 
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+_Information Related to Use of the Services._ Our servers automatically record certain information about how a person uses our Services (we refer to this information as **“Log Data”** ), including both Account holders and non-Account holders (either, a **“User”** ). Log Data may include information such as a User’s Internet Protocol (IP) address, browser type, operating system, the web page that a User was visiting before accessing our Services, the pages or features of our Services to which a User browsed and the time spent on those pages or features, search terms, the links on our Services that a User clicked on and other statistics. We use Log Data to administer the Services and we analyze (and may engage third parties to analyze) Log Data to improve, customize and enhance our Services by expanding their features and functionality and tailoring them to our Users’ needs and preferences. We may use a person’s IP address to generate aggregate, non-identifying information about how our Services are used. 
 
-**Security**
+_Information Sent by Your Mobile Device._ We collect certain information that your mobile device sends when you use our Services, like a device identifier, user settings and the operating system of your device, as well as information about your use of our Services. 
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+_Location Information._ When you use our Services, we may collect and store information about your location by converting your IP address into a rough geo-location or by accessing your mobile device’s GPS coordinates or coarse location if you enable location services on your device. We may use location information to improve and personalize our Services for you. If you do not want us to collect location information, you may disable that feature on your mobile device. 
 
-**Updating Your Information**
+###  Information that We Share with Third Parties 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+We will not share any PII that we have collected from or regarding you except as described below: 
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+_Information Shared with Our Services Providers._ We may engage third-party services providers to work with us to administer and provide the Services. These third-party services providers have access to your PII only for the purpose of performing services on our behalf and are expressly obligated not to disclose or use your PII for any other purpose. 
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+_Information Shared with Third Parties._ We may share aggregated information and non-identifying information with third parties for industry research and analysis, demographic profiling and other similar purposes. 
 
-      iii.      You may call us at: (480) 505-8800
+_Information Disclosed in Connection with Business Transactions._ Information that we collect from our users, including PII, is considered to be a business asset. Thus, if we are acquired by a third party as a result of a transaction such as a merger, acquisition or asset sale or if our assets are acquired by a third party in the event we go out of business or enter bankruptcy, some or all of our assets, including your PII, may be disclosed or transferred to a third party acquirer in connection with the transaction. 
 
-       iv.      You may fax us at: (480) 505-8844
+_Information Disclosed for Our Protection and the Protection of Others._ We cooperate with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate: (i) to respond to claims, legal process (including subpoenas); (ii) to protect our property, rights and safety and the property, rights and safety of a third party or the public in general; and (iii) to stop any activity that we consider illegal, unethical or legally actionable activity. 
 
-**Sending Emails**
+###  Your Choices 
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+We offer you choices regarding the collection, use and sharing of your PII and we’ll respect the choices you make. Please note that if you decide not to provide us with the PII that we request, you may not be able to access all of the features of the Services. 
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+_Opt-Out._ We may periodically send you free newsletters and e-mails that directly promote our Services. When you receive such promotional communications from us, you will have the opportunity to “opt-out” (either through your Account or by following the unsubscribe instructions provided in the e-mail you receive). We do need to send you certain communications regarding the Services and you will not be able to opt out of those communications – e.g., communications regarding updates to our Terms of Service or this Privacy Policy or information about billing. 
 
-**Compliance with Laws and Law Enforcement**
+_Modifying Your Information._ You can access and modify the PII associated with your Account by logging into your account and making such changes. If you want us to delete your PII and your Account, please contact us at hellosociety.com with your request. We’ll take steps to delete your information as soon we can, but some information may remain in archived/backup copies for our records or as otherwise required by law. 
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+###  Responding to Do Not Track Signals 
 
-**Third Party Service Providers**
+Our Site does not have the capability to respond to “Do Not Track” signals received from various web browsers. 
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+###  The Security of Your Information 
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+We take reasonable administrative, physical and electronic measures designed to protect the information that we collect from or about you (including your PII) from unauthorized access, use or disclosure. Please be aware, however, that no method of transmitting information over the Internet or storing information is completely secure. Accordingly, we cannot guarantee the absolute security of any information. 
 
-**Supplementation of Information**
+###  Links to Other Sites 
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+Our Services may contain links to websites and services that are owned or operated by third parties (each, a “ **Third-party Service** ”). Any information that you provide on or to a Third-party Service or that is collected by a Third-party Service is provided directly to the owner or operator of the Third-party Service and is subject to the owner’s or operator’s privacy policy. We’re not responsible for the content, privacy or security practices and policies of any Third-party Service. To protect your information we recommend that you carefully review the privacy policies of all Third-party Services that you access. 
 
-**Contests/Surveys**
+###  International Transfer 
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+Your PII may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you’re located outside the United States and choose to provide your PII to us, we may transfer your PII to the United States and process it there. 
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+###  Our Policy Toward Children 
 
-**Tell-A-Friend**
+Our Services are not directed to children under 13 and we do not knowingly collect PII from children under 13. If we learn that we have collected PII of a child under 13 we will take steps to delete such information from our files as soon as possible. 
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+###  Your California Privacy Rights 
 
-**What Happens to my Personal Information if I Opt Out?**
+California residents may request and obtain from us, once a year, free of charge, a list of third parties, if any, to which we disclosed their PII for direct marketing purposes during the preceding calendar year and the categories of PII shared with those third parties. If you are a California resident and wish to obtain that information, please submit your request by sending us an email at [support@hellosociety.com](mailto:support@hellosociety.com) with “California Privacy Rights” in the subject line. 
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+###  Questions? 
 
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Please contact us at [support@hellosociety.com](mailto:support@hellosociety.com) if you have any questions about our Privacy Policy. 
