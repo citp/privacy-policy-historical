@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sumally.com privacy policy that was archived on 2015-09-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150908031733id_/https%3A//sumally.com/about/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sumally.com privacy policy that was archived on 2016-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160509110721id_/https%3A//sumally.com/about/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="ja"><head>
     <meta charset="utf-8">
@@ -7,6 +7,7 @@
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=1080">
+<meta name="referrer" content="origin">
 <meta name="apple-itunes-app" content="app-id=481540526">
 <meta name="application-name" content="Sumally">
 <meta name="msapplication-TileColor" content="#ffffff">
@@ -14,14 +15,14 @@
 <meta name="twitter:card" value="summary">
 <meta name="twitter:site" value="@Sumally">
 
-    <link rel="stylesheet" href="https://s0.smlycdn.com/a/20150814a/css/bundle_start.css">
-<link rel="stylesheet" href="https://s0.smlycdn.com/a/20150814a/css/bundle.css">
-<link rel="stylesheet" href="https://s0.smlycdn.com/a/20150814a/css/newgnav.css">
-<link rel="stylesheet" href="https://s0.smlycdn.com/a/20150814a/css/c2c.css">
-<link rel="stylesheet" href="https://s0.smlycdn.com/a/20150814a/css/wanthavecomment.css">
-<link rel="stylesheet" href="https://s0.smlycdn.com/a/20150814a/css/introrecodialog.css">
+    <link rel="stylesheet" href="https://smlycdn.akamaized.net/a/20160420b/css/bundle_start.css">
+<link rel="stylesheet" href="https://smlycdn.akamaized.net/a/20160420b/css/bundle.css">
+<link rel="stylesheet" href="https://smlycdn.akamaized.net/a/20160420b/css/newgnav.css">
+<link rel="stylesheet" href="https://smlycdn.akamaized.net/a/20160420b/css/c2c.css">
+<link rel="stylesheet" href="https://smlycdn.akamaized.net/a/20160420b/css/wanthavecomment.css">
+<link rel="stylesheet" href="https://smlycdn.akamaized.net/a/20160420b/css/introrecodialog.css">
 <link rel="icon" type="image/x-icon" href="/favicon.ico">
-<link rel="apple-touch-icon" href="https://s0.smlycdn.com/a/20150814a/images/template/touchicon.png">
+<link rel="apple-touch-icon" href="https://smlycdn.akamaized.net/a/20160420b/images/template/touchicon.png">
 
     
 <script src="https://stats.g.doubleclick.net/dc.js" id="ga" async=""></script><script src="//connect.facebook.net/en_US/sdk.js" id="facebook-jssdk" async=""></script><script src="https://apis.google.com/js/plusone.js" id="gplus1js" async=""></script><script>
@@ -33,7 +34,7 @@ sumally.SM_SITE_URL = 'https://sumally.com';
 sumally.SM_SITE_URL_HTTPS = 'https://sumally.com';
 sumally.SM_API_URL = 'https://sumally.com/api/';
 sumally.SM_MOBILE_URL = 'https://m.sumally.com';
-sumally.SM_ASSET_URL = 'https://s0.smlycdn.com/a/20150427a/';
+sumally.SM_ASSET_URL = 'https://smlycdn.akamaized.net/a/20150427a/';
 
 sumally.is_smartphone = false;
 sumally.is_in_app_browser = false;
@@ -42,7 +43,7 @@ sumally.is_brand_user = 'false';
 sumally.locale = "en_US";
 sumally.facebook_app_id = '123731454387368';
 sumally.onUserProfileImageLoadError = function(el){
-    var src = 'https://s0.smlycdn.com/a/0/images/template/icon_default.gif';
+    var src = 'https://smlycdn.akamaized.net/a/0/images/template/icon_default.gif';
     if (el.src !== src) el.src = src;
 };
 sumally.getFromNow = function (date) {
@@ -64,57 +65,6 @@ sumally.getFromNow = function (date) {
         return year + '/' + month + '/' + day + ' ' + hour + ':' + minute;
     }
 };
-sumally.setGlobalNavigation = function () {
-
-    var $body = $('body');
-    var dataGnav = $body.attr('data-gnavi') || $body.attr('id');
-    var dataMode = $body.attr('data-mode');
-    var dataModeForSubNav = ['data-ranking_term', 'data-shopping_category', 'data-mode', 'data-status'];
-
-    // 第1階層のアクティブ表示用
-    $('.js-gnav-nav').removeClass('state-select').each(function () {
-        var type = (dataGnav === 'mysumally')
-            ? 'mysumally'
-            : (dataGnav === 'browse')
-                ? dataMode
-                : '';
-        if($(this).hasClass('type-' + type)) {
-            $(this).addClass('state-select');
-            return false;
-        }
-    });
-
-    // 第2階層ナビゲーション表示用
-    $('.js-snav').removeClass('state-show').filter(function () {
-        // おすすめの場合は第2階層ナビゲーションを表示しない
-        if (dataMode === 'recommended') {
-            return false;
-        }
-        return $(this).hasClass('type-' + dataGnav);
-    }).addClass('state-show');
-
-    // 第2階層ナビゲーションのアクティブ表示用
-    $('.js-snav-nav').removeClass('state-select').filter(function () {
-        return $(this).hasClass('type-' + dataMode);
-    }).addClass('state-select');
-
-    // 第3階層ナビゲーション表示用
-    $('.js-snav-sub').removeClass('state-show').filter(function () {
-        return $(this).hasClass('type-' + dataMode);
-    }).addClass('state-show');
-
-    // 第3階層ナビゲーションのアクティブ表示用
-    $.each(dataModeForSubNav, function (i, mode) {
-        var type = $('body').attr(mode);
-        var $elem = $('.js-snav-sub-nav').removeClass('state-select').filter(function () {
-            return $(this).hasClass('type-' + type);
-        }).addClass('state-select');
-        if ($elem.length) {
-            return false;
-        }
-    });
-
-};
 
 sumally.is_ec_enabled = true;
 sumally.is_sell_item_enabled_v2 = true;
@@ -125,7 +75,6 @@ var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-25427311-1']);
 _gaq.push(['_setDomainName', 'sumally.com']);
 _gaq.push(['_setCustomVar', 1, 'User Type', "Guest", 2]);
-_gaq.push(['_setCustomVar', 2, 'new_menu', "A", 2]);
 _gaq.push(['_setCustomVar', 3, 'Display Locale', sumally.locale, 2]);
 _gaq.push(['_trackPageview']);
 
@@ -151,23 +100,23 @@ var _gaqPjax = {
 </script>
 
 
+<link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/kjpifblecoolagbhlcmdphlcgemfekdk">
 <link rel="search" href="https://sumally.com/opensearch.xml" type="application/opensearchdescription+xml" title="Item Search">
 
     <link rel="alternate" href="android-app://com.sumally.android.launcher/sumally/android.sumally.com/about/privacypolicy">
 
-        <script src="https://s0.smlycdn.com/a/20150807a/js/bundle_general_lib.min.js"></script>
-    <script src="https://s0.smlycdn.com/a/20150804a/js/i18n/lc_messages_en.js"></script>
-    <script src="https://s0.smlycdn.com/a/20141106a/js/openiphoneapp.min.js"></script>
-    <script src="https://s0.smlycdn.com/a/201305091/js/lib/Gettext.min.js"></script>
-    <script src="https://s0.smlycdn.com/a/20150715a/js/bundle_backbone.min.js"></script>
-    <script src="https://s0.smlycdn.com/a/201309202/js/general/header_button/bundle_bg_anim.min.js"></script>
-    <script src="https://s0.smlycdn.com/a/20150807a/js/bundle_general.min.js"></script>
+        <script src="https://smlycdn.akamaized.net/a/20150807a/js/bundle_general_lib.min.js"></script>
+    <script src="https://smlycdn.akamaized.net/a/20160304a/js/i18n/lc_messages_en.js"></script>
+    <script src="https://smlycdn.akamaized.net/a/201305091/js/lib/Gettext.min.js"></script>
+    <script src="https://smlycdn.akamaized.net/a/20150715a/js/bundle_backbone.min.js"></script>
+    <script src="https://smlycdn.akamaized.net/a/201309202/js/general/header_button/bundle_bg_anim.min.js"></script>
+    <script src="https://smlycdn.akamaized.net/a/20160330b/js/bundle_general.min.js"></script>
 <!--[if lt IE 9]>
-<script src="https://s0.smlycdn.com/a/201307221/js/lib/html5.js"></script>
+<script src="https://smlycdn.akamaized.net/a/201307221/js/lib/html5.js"></script>
 <![endif]-->
 
 
-    <script src="https://s0.smlycdn.com/a/20150629a/js/index_rcolumn.min.js"></script>
+    <script src="https://smlycdn.akamaized.net/a/20160223a/js/index_rcolumn.min.js"></script>
 <script>
     // pjax化に伴ってinit処理はindex_rcolumn.js内から移動させた
     $(document).ready(function() {
@@ -179,11 +128,11 @@ var _gaqPjax = {
     });
 </script>
 
-    <script src="https://s0.smlycdn.com/a/20150416a/js/c2c_direct.min.js"></script>
+    <script src="https://smlycdn.akamaized.net/a/20160224a/js/c2c_direct.min.js"></script>
 
 </head>
 
-<body id="about" class="fixedLayout ">
+<body id="about" class="fixedLayout">
 
 
 <!----------------------------------------------------------------------->
@@ -271,7 +220,7 @@ var _gaqPjax = {
             </div>
 
             <div id="splash-start-footer-navi-right">
-                <span class="copyright-sumally">© 2015 Sumally</span><span class="made-in-tokyo">Made in Tokyo</span>
+                <span class="copyright-sumally">© 2016 Sumally</span><span class="made-in-tokyo">Made in Tokyo</span>
             </div>
 
         </div>
@@ -294,27 +243,7 @@ var _gaqPjax = {
       <!----------------------------------------------------------------------->
       <header>
           <hgroup>
-                                                            <div class="top clearfix ">
-                    <div class="tagline js-headerspbanner-related ">
-                                                    <h2><span class="color">Sumally</span> connects what you love with the people you love.</h2>
-                                            </div>
-                </div>
-            
-            <div class="navi  ">
-
-                                    <h1>
-                        <a href="/" class="logo-link"><i class="sm-logo"></i></a>
-                    </h1>
-                
-                
-                                <ul>
-                    <li class=""><a href="/" class="sas-tracking" data-sas-pos="navi-browse-items">browse items</a></li>
-                    <li class=""><a href="/signup" class="sas-tracking" data-sas-pos="navi-my-summaly">my Sumally</a></li>
-                    <li class=""><a href="/community" class="sas-tracking" data-sas-pos="navi-community">community</a></li>
-                </ul>
-                
-            </div><!-- / .navi clearfix -->
-                            <div class="about-title">
+              <div class="about-title">
                                     <h1>Privacy Policy (Basic Policy on the Protection of Personal Information)</h1>
                                 </div>
           </hgroup>
@@ -565,7 +494,7 @@ var _gaqPjax = {
 
             </div>
 
-            <div class="group">© 2015 Sumally</div>
+            <div class="group">© 2016 Sumally</div>
 
             <div class="group">Made in Tokyo</div>
 
@@ -603,7 +532,7 @@ var _gaqPjax = {
         <div class="head clearfix">
 
             <div class="left">
-                <a class="thumbImg gaq" data-gaq="hovercard_icon" href="#"><img title="" src="https://s0.smlycdn.com/a/0/images/template/icon_default.gif" width="50" height="50" onerror="sumally.onUserProfileImageLoadError(this);"></a>
+                <a class="thumbImg gaq" data-gaq="hovercard_icon" href="#"><img title="" src="https://smlycdn.akamaized.net/a/0/images/template/icon_default.gif" width="50" height="50" onerror="sumally.onUserProfileImageLoadError(this);"></a>
             </div>
 
             <div class="right">
@@ -842,7 +771,7 @@ if (!($.browser.msie && $.browser.version <= 8)) {
 
 
 
-<!-- 0.004 sec on web07 -->
+<!-- 0.002 sec on web1000 -->
 
 
 </body></html>
