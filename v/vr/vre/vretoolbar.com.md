@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vretoolbar.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205195936id_/http%3A//vretoolbar.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vretoolbar.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509120604id_/http%3A//www.vretoolbar.com/privacy.php) for the most accurate reproduction.*
 
 # VRE Toolbar Privacy Notice
 
@@ -29,4 +29,4 @@ We use log information about aggregate, non-personal Toolbar usage to improve th
 
 **More information**
 
-If you have additional questions, please [contact us](https://web.archive.org/web/20151205195936id_/http%3A//vretoolbar.com/feedback.php) any time.
+If you have additional questions, please [contact us](https://web.archive.org/web/20160509120604id_/http%3A//www.vretoolbar.com/feedback.php) any time.
