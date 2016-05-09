@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kvchost.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109141940id_/http%3A//www.kvcwebhost.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kvchost.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509174549id_/http%3A//www.kvcwebhost.com/privacy-policy.html) for the most accurate reproduction.*
 
 # KVCHOSTING Privacy Policy
 
@@ -13,6 +13,9 @@ KVCHosting will strictly use required information and data on client to process 
 Client internet browsers have in-built mechanisms to store small files or cookies that have information to help websites recognise client account. KVCHosting may use such facility to increase user experience. However, user may choose to prevent user computer from accepting cookies, which may impair some of the website's functions. 
 
 KVCHosting will not disclose any personal information received from client to third parties. KVCHosting may use such information to notify or inform client about developments and other KVCHosting services or offers. However, client or user will be given the option to remove self from such a mailing list or notification processes. KVCHosting will not disclose information collected on website to third parties without consent and acknowledgement from client/user. KVCHosting may provide general survey or data information to third parties but will withhold those that may identify individuals. 
+
+**U.S.-EU & U.S.-Swiss Safe Harbor Frameworks**  
+KVC Hosting complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. KVC Hosting has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view KVC Hosting's certification, please visit <http://www.export.gov/safeharbor/>.
 
 **DISCLOSURE TO LAW ENFORCEMENT**  
 KVCHosting reserves the right to disclose subscriber information to law enforcement agencies without consent or notifying subscriber if lawful request is made from such agencies. KVCHosting will cooperate fully with such law enforcement agencies. 
