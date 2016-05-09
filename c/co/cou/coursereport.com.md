@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coursereport.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914163217id_/https%3A//www.coursereport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coursereport.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509053504id_/https%3A//www.coursereport.com/privacy-policy) for the most accurate reproduction.*
 
-# Find a Coding Bootcamp - Course Report
+# Privacy Policy: Course Report
 
 ## CourseReport Privacy Policy
 
