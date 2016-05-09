@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the taiwanvs.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509031029id_/http%3A//scgoideas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taiwanvs.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509041802id_/http%3A//scgoideas.com/privacy-policy) for the most accurate reproduction.*
 
 # Scgoideas.com Privacy Policy - Scgoideas.com - Taiwan Entertainment - Taiwanese Variety Show 台灣綜藝
 
 (last update: Apr 2009)
 
-At scgoideas.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by scgoideas.com and how it is used.
+At Scgoideas.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by Scgoideas.com and how it is used.
 
 The following information is gathered from our website visitors: IP address
 
 **How we use the information we gather**
 
-Like most standard Web site servers, scgoideas.com use log files. This includes internet protocol ( IP ) addresses, browser type, internet service provider ( ISP ), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.  
+Like most standard Web site servers, Scgoideas.com use log files. This includes internet protocol ( IP ) addresses, browser type, internet service provider ( ISP ), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.  
 We use the information to enhance your visitor experience.
 
 **Our use of cookies**
 
 Our website makes use of cookies which are small digital files that are stored in your web browser that enable us to track your return visits to our website.  
-Your browser settings may allow you to block these cookies, but we recommend you have them enabled to help us personalise your experience of our website.
+Your browser settings may allow you to block these cookies, but we recommend you have them enabled to help us personalize your experience of our website.
 
 Additionally, 3rd party advertisers on our site may use cookies for tracking purposes.
 
@@ -25,5 +25,5 @@ Google’s use of the DART cookie enables it to serve ads to visitors based on t
 
 Website visitors may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-Copyright © 2009 - scgoideas.com | [Privacy Policy](http://scgoideas.com/privacy-policy/)   
-**Disclaimer:** To access scgoideas.com, you acknowledged that sogoideas.net functioning as a mere index and database of content found publicly on the internet, we do not host any media content (avi, flv, mp4, mpeg, divx, mp3...) on our servers. Unless otherwise stated, all media content are uploaded by and hosted on third-party websites, so called video sharing websites and file sharing websites, such as YouTube etc...In case of any issues regarding the videos, please directly contact the responsible parties. 
+Copyright © 2009 - Scgoideas.com | [Privacy Policy](http://scgoideas.com/privacy-policy/)   
+**Disclaimer:** To access Scgoideas.com, you acknowledged that Scgoideas.com functioning as a mere index and database of content found publicly on the internet, we do not host any media content (avi, flv, mp4, mpeg, divx, mp3...) on our servers. Unless otherwise stated, all media content are uploaded by and hosted on third-party websites, so called video sharing websites and file sharing websites, such as YouTube, Dailymotion, MyspaceTV etc...In case of any issues regarding the videos, please directly contact the responsible parties. 
