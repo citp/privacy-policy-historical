@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lotuscars.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211060026id_/http%3A//www.lotuscars.com/legal-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lotuscars.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509040355id_/http%3A//www.lotuscars.com/legal-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lotus Cars
 
