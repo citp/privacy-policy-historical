@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the mohawkflooring.com privacy policy that was archived on 2015-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905061727id_/https%3A//www.mohawkflooring.com/about-mohawk/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mohawkflooring.com privacy policy that was archived on 2016-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160510082430id_/https%3A//www.mohawkflooring.com/about-mohawk/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class="no-js"><div style="position: absolute; left: 0px; width: 100%;"></div><!--<![endif]--><head>
+<!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Privacy Policy, Security Practices &amp; Information | Mohawk Flooring</title>
+    <meta name="robots" content="NOODP,NOYDIR"> 
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
     <meta name="description" content="Mohawk Group Terms and Conditons and Privacy Policy. Mohawk privacy and security practices are effective for all sites operated by Mohawk Industries, Inc.">
     <meta name="title" content="Privacy Policy, Security Practices &amp; Information Collection | Mohawk Flooring">
@@ -17,15 +18,23 @@
 
     <link rel="stylesheet" href="/assets/css/main.css">
         <link rel="stylesheet" href="/assets/css/sweepstakes-mode.css">
-        
+    
+        <link rel="stylesheet" href="/assets/css/sale-mode.css">
+    
+
+
+
     <link rel="shortcut icon" type="image/x-icon" href="/assets/img/favicon.ico">
-    <link rel="canonical" href="https://www.mohawkflooring.com/about-mohawk/privacy-policy">
-<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="/assets/js/common.js" src="/assets/js/common.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="app/article" src="/assets/js/app/article.js"></script></head>
-<body class="page-article saleDisabled">
+
+        <link rel="canonical" href="https://www.mohawkflooring.com/about-mohawk/privacy-policy/">
+
+
+<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="/assets/js/common.js" src="/assets/js/common.js?v=1.0.0.1345"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="app/article" src="/assets/js/app/article.js?v=1.0.0.1345"></script></head>
+<body class="page-article" application="" cart-endpoint="https://www.mohawkflooring.com/api/Cart">
     <!-- Google Tag Manager -->
     <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PXZPJ8"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PXZPJ8"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    <script id="hs-analytics" src="//js.hs-analytics.net/analytics/1582544100000/152354.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PXZPJ8"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
     j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
@@ -40,13 +49,46 @@
 
 
 
-<header class="site-header" ng-controller="HeaderCtrl as header">
+
+<div class="header-wrap" ng-controller="HeaderCtrl as header">
+    <div ng-cloak="" class="utility-samples-dropdown animate-fade-in-out ng-cloak ng-hide" ng-show="showUtilitySamples" ng-mouseenter="openUtilitySamples(true);cancelAddedTimer();" ng-mouseleave="openUtilitySamples(false);newSampleReset();">
+
+        <button class="btn-close btn-unstyled utility-sample-tablet-close" ng-click="tabletCloseUtility()" ng-if="touchTest">
+            <i class="icon-close-x"></i>
+        </button>
+
+        <h3 ng-hide="sampleOrdering.newSampleAdded" class="serif">Sample Cart</h3>
+        <section class="utility-sample-added" ng-show="sampleOrdering.newSampleAdded">
+            <span class="circle-check">
+                <i class="icon-check"></i>
+            </span>
+            <p>Sample Added</p>
+        </section>
+        <ul class="utility-samples-list">
+            <li>Samples <span class="count serif">{{sampleOrdering.count | number}}</span></li>
+            <li>Total <span class="total serif">{{sampleOrdering.price | currency}}</span></li>
+        </ul>
+        <section class="utility-samples-none" ng-if="sampleOrdering.count == 0">
+            <p class="serif">Use the <i class="icon-cart"></i> icon under a product to add samples to your cart.</p>
+            <a href="" class="utility-sample-why-cta" overlay-template="/assets/js/overlays/why-samples.html">Why Order Samples?</a>
+        </section>
+        <section class="utility-sample-actions" ng-if="sampleOrdering.count >= 1">
+            <a href="/cart" class="button">View Samples</a>
+            <button ng-click="goToCheckout()" class="button button-primary">check out</button>
+        </section>
+    </div>
+
+
+
+    <header class="site-header">
+
     <!-- topmost utility nav -->
     <div class="utilities">
         <div class="container">
-            <div class="mohawk-logo-bug">
-                <a href="/" ng-class="{show: showLogoBug}"></a>
-            </div>
+            
+                <div class="mohawk-logo-bug">
+                    <a href="/" ng-class="{show: showLogoBug}"></a>
+                </div>
 
 			<div class="site-mode">
 				<span class="mode-trigger">Other Brands</span>
@@ -55,7 +97,7 @@
 						<a href="http://www.karastan.com/" target="_blank">Karastan</a>
 					</li>
 					<li>
-						<a href="http://www.mohawkflooring.com/flooring/professional/" target="_blank">Builders and Property Managers</a>
+                        <a href="http://bmf.mohawktoday.com/" target="_blank">Builders and Property Managers</a>
 					</li>
 					<li>
 						<a href="http://www.mohawkflooring.com/flooring/commercial/aladdincommercial/" target="_blank">Aladdin Commercial</a>
@@ -73,59 +115,15 @@
                 <li>
                     <!-- find a retailer page -->
                     <a id="find-a-store" href="/find-mohawk-retail-store" class="utility-find-store">
-                        <i class="icon-map-pin-dot replace-bullet-header"></i> Find a Retailer
+                            <i class="pink icon-map-pin-dot replace-bullet-header"></i> Find a Retailer
+
                     </a>
                 </li>
                 <li class="search-utility">
-                    <!-- show search overlay -->
-                    <a id="search-header-utility" href="" overlay-template="/assets/js/overlays/search-overlay.html" tracking="{&quot;pageURL&quot;:&quot;/Search_vp&quot;, &quot;pageTitle&quot;: &quot;Search&quot;}" overlay-payload="[
-                                                       
-                                {
-                                   &quot;image&quot;: &quot;https://mohawk.scene7.com/is/image/MohawkResidential/O_27688_733?fmt=png8-alpha&amp;op_sharpen=1&quot;,
-                                   &quot;color&quot;: &quot;Smooth Champagne&quot;,
-                                   &quot;styleName&quot;: &quot;Style Renewal&quot;,
-                                   &quot;minPrice&quot;: &quot;5.59&quot;,
-                                   &quot;maxPrice&quot;: &quot;6.09&quot;,
-                                   &quot;type&quot;: &quot;Carpet&quot;
-                                }
-                                    
-                                     ,   
-                                
-                                {
-                                   &quot;image&quot;: &quot;https://mohawk.scene7.com/is/image/MohawkResidential/O_27774_585?fmt=png8-alpha&amp;op_sharpen=1&quot;,
-                                   &quot;color&quot;: &quot;Cool Lagoon&quot;,
-                                   &quot;styleName&quot;: &quot;Mill View&quot;,
-                                   &quot;minPrice&quot;: &quot;4.89&quot;,
-                                   &quot;maxPrice&quot;: &quot;5.39&quot;,
-                                   &quot;type&quot;: &quot;Carpet&quot;
-                                }
-                                    
-                                     ,   
-                                
-                                {
-                                   &quot;image&quot;: &quot;https://mohawk.scene7.com/is/image/MohawkResidential/O_27791_842?fmt=png8-alpha&amp;op_sharpen=1&quot;,
-                                   &quot;color&quot;: &quot;Honeywood&quot;,
-                                   &quot;styleName&quot;: &quot;Exterior Motives&quot;,
-                                   &quot;minPrice&quot;: &quot;4.39&quot;,
-                                   &quot;maxPrice&quot;: &quot;4.89&quot;,
-                                   &quot;type&quot;: &quot;Carpet&quot;
-                                }
-                                    
-                                     ,   
-                                
-                                {
-                                   &quot;image&quot;: &quot;https://mohawk.scene7.com/is/image/MohawkResidential/O_27812_868?fmt=png8-alpha&amp;op_sharpen=1&quot;,
-                                   &quot;color&quot;: &quot;Canyon Wall&quot;,
-                                   &quot;styleName&quot;: &quot;Loft Life&quot;,
-                                   &quot;minPrice&quot;: &quot;4.89&quot;,
-                                   &quot;maxPrice&quot;: &quot;5.39&quot;,
-                                   &quot;type&quot;: &quot;Carpet&quot;
-                                }
-                                    
+               
 
-                       ]">
-                        <i class="icon-search"></i>
-                    </a>
+ 
+                    <a href="/plp"><i class="icon-search"></i></a>
 
                 </li>
         <!--
@@ -163,18 +161,51 @@
             <!-- my acct page -->
             
 
-            <button my-mohawk-button="" href="/my-mohawk" login="/assets/js/overlays/login.html" tracking="{&quot;pageURL&quot;:&quot;/signin_vp&quot;, &quot;pageTitle&quot;: &quot;Sign In&quot;}">
-                <i class="icon-my-acct"></i>
-            </button>
-        </li>
-        <li class="burger">
-            <!-- i'll gladly pay you tuesday for a hamburger icon today -->
-            <a href="" ng-click="toggleNav()">
-                <i class="icon-burger fade-in-out-scale" ng-hide="mobileNavVisible"></i>
-                <i class="icon-close-x fade-in-out-scale ng-hide" ng-show="mobileNavVisible" ng-cloak=""></i>
-            </a>
-        </li>
-        </ul>
+
+
+
+
+
+
+
+
+                </li><li ng-cloak="" class="utility-samples bordered ng-cloak" ng-if="!touchTest" ng-mouseenter="openUtilitySamples(true);cancelAddedTimer();" ng-mouseleave="openUtilitySamples(false);newSampleReset();">
+                    <a href="/cart"><i class="icon-cart"></i></a>
+                    <span ng-if="sampleOrdering.count >= 1" ng-cloak="" class="utility-sample-counter ng-cloak">{{sampleOrdering.count}}</span>
+                </li>
+                <li ng-cloak="" class="utility-samples bordered ng-cloak" ng-if="touchTest" ng-click="tabletOpenUtility()">
+                    <a href="/cart"><i class="icon-cart"></i></a>
+
+                    <span ng-if="sampleOrdering.count >= 1" ng-cloak="" class="utility-sample-counter ng-cloak">{{sampleOrdering.count}}</span>
+                </li>
+
+
+
+
+
+
+
+
+
+
+
+
+                <li class="bordered nav-my-acct">
+                    <!-- my acct page -->
+                    
+
+                    <button my-mohawk-button="" href="/my-mohawk" login="/assets/js/overlays/login.html" tracking="{&quot;pageURL&quot;:&quot;/signin_vp&quot;, &quot;pageTitle&quot;: &quot;Sign In&quot;}">
+                        <i class="icon-my-acct"></i>
+                    </button>
+                </li>
+                <li class="burger">
+                    <!-- i'll gladly pay you tuesday for a hamburger icon today -->
+                    <a href="" ng-click="toggleNav()">
+                        <i class="icon-burger fade-in-out-scale" ng-hide="mobileNavVisible"></i>
+                        <i class="icon-close-x fade-in-out-scale ng-hide" ng-show="mobileNavVisible" ng-cloak=""></i>
+                    </a>
+                </li>
+            </ul>
         </div>
     </div>
     <!-- end utility nav -->
@@ -183,31 +214,41 @@
     <nav class="container clearfix">
         <a href="/" class="mohawk-logo">
             <picture>
-                <!--[if IE 9]><video style="display: none;"><![endif]-->
-                <source srcset="/assets/img/mohawk-logo.png 1x, /assets/img/mohawk-logo_2x.png 2x">
-                <!--[if IE 9]></video><![endif]-->
-                <img alt="Mohawk Flooring" src="/assets/img/mohawk-logo.png">
+                    <!--[if IE 9]><video style="display: none;"><![endif]-->
+                    <source srcset="/assets/img/mohawk-logo.png 1x, /assets/img/mohawk-logo_2x.png 2x">
+                    <!--[if IE 9]></video><![endif]-->
+                    <img srcset="/assets/img/mohawk-logo.png" alt="Mohawk Flooring">
             </picture>
         </a>
-        <ul class="primary-nav-container clearfix ng-cloak" ng-cloak="" ng-show="mobileNavVisible">
+        <ul class="primary-nav-container clearfix ng-cloak " ng-cloak="" ng-show="mobileNavVisible">
             <li>
                 <a href="/flooring/carpet" class="primary-nav-header">Carpet</a>
                 <nav class="secondary-nav-container">
                     <ul class="container">
                         <li>
-                            <h3 class="secondary-nav-header"><a href="/flooring/carpet">Carpet Products</a>
-                            </h3>
+                            <h3 class="secondary-nav-header">Browse Carpet</h3>
                             <ul class="secondary-nav">
                                 <li>
-                                    <a href="/plp?flooringType=Carpet&amp;filter=stainFree:true">Stain-Resistant</a>
+                                    <a href="/plp?productFamily=Carpet">Shop by Color</a>
                                 </li>
                                 <li>
-                                    <a href="/plp?flooringType=Carpet&amp;filter=wearFree:true">Wear-Resistant</a>
+                                    <a href="/plp?productFamily=Carpet">Shop by Style</a>
                                 </li>
                                 <li>
-                                    <a href="/plp?flooringType=Carpet&amp;filter=worryFree:true">Stain &amp; Wear-Resistant</a>
+                                    <a href="/plp?productFamily=Carpet">Shop by Fiber Brand</a>
                                 </li>
                             </ul>
+                            <br>
+                            <h3 class="secondary-nav-header">Browse By Lifestyle</h3>
+                            <ul class="secondary-nav">
+                                <li>
+                                    <a href="/plp?filter=productFamily:Carpet|specifications.Feature.raw:Kid Friendly">Kid Friendly Carpet</a>
+                                </li>
+                                <li>
+                                    <a href="/plp?filter=productFamily:Carpet|specifications.Feature.raw:Pet Friendly">Pet Friendly Carpet</a>
+                                </li>
+                            </ul>
+
                         </li>
                         <li>
                             <h3 class="secondary-nav-header">Carpet Guides</h3>
@@ -239,6 +280,9 @@
                                     <a href="/ForeverClean">SmartStrand</a>
                                 </li>
                                 <li>
+                                    <a href="/flooring/carpet/carpet-for-pets">All Pet Protection</a>
+                                </li>
+                                <li>
                                     <a href="/flooring/carpet/brand/Wear-Dated">Wear-Dated</a>
                                 </li>
                                 <li>
@@ -248,16 +292,15 @@
                                     <a href="/flooring/carpet/brand/ScotchGard">Scotchgard</a>
                                 </li>
                                 <li>
-                                    <a href="/flooring/carpet/brand/SmartCushion">SmartCushion</a>
+                                    <a href="/smartcushion">SmartCushion</a>
                                 </li>
                             </ul>
                         </li>
                         <li class="promo">
                             <div class="promo-item">
-                                <h3>Find Your<br> Perfect Floor
-                                </h3>
-                                <hr>
-                                <a href="/flooring-finder" class="button button-primary">Get Started</a>
+                                <h5>All Accidents. All Pets.<br>All the Time.</h5>
+                                <img class="logo2" style="width:105%" src="/assets/img/fpo/smartCleanPet.png" alt="">
+                                <a href="/flooring/carpet/carpet-for-pets" class="button button-primary">Learn More</a>
                             </div>
                         </li>
                     </ul>
@@ -269,14 +312,13 @@
                 <nav class="secondary-nav-container">
                     <ul class="container">
                         <li>
-                            <h3 class="secondary-nav-header"><a href="/flooring/hardwood">Hardwood Products</a>
-                            </h3>
+                            <h3 class="secondary-nav-header"><a href="/flooring/hardwood">Hardwood Products</a></h3>
                             <ul class="secondary-nav">
                                 <li>
-                                    <a href="/plp?flooringType=Hardwood&amp;filter=construction:engineered">Engineered</a>
+                                    <a href="/plp?productFamily=Hardwood&amp;filter=construction:engineered">Engineered</a>
                                 </li>
                                 <li>
-                                    <a href="/plp?flooringType=Hardwood&amp;filter=construction:solid">Solid</a>
+                                    <a href="/plp?productFamily=Hardwood&amp;filter=construction:solid">Solid</a>
                                 </li>
                             </ul>
                         </li>
@@ -313,17 +355,13 @@
                                     <a href="/flooring/hardwood/brand/UniClic">Uniclic</a>
                                 </li>
                                 <li>
-                                    <a href="/flooring/hardwood/brand/DuraBeauty">DuraBeauty</a>
-                                </li>
-                                <li>
                                     <a href="/flooring/hardwood/brand/PureBond">PureBond</a>
                                 </li>
                             </ul>
                         </li>
                         <li class="promo">
                             <div class="promo-item">
-                                <h3>Find Your<br> Perfect Floor
-                                </h3>
+                                <h3>Find Your<br> Perfect Floor</h3>
                                 <hr>
                                 <a href="/flooring-finder" class="button button-primary">Get Started</a>
                             </div>
@@ -337,8 +375,7 @@
                 <nav class="secondary-nav-container">
                     <ul class="container">
                         <li>
-                            <h3 class="secondary-nav-header"><a href="/flooring/laminate">Laminate Products</a>
-                            </h3>
+                            <h3 class="secondary-nav-header"><a href="/flooring/laminate">Laminate Products</a></h3>
                             <ul class="secondary-nav">
                                 
                                 
@@ -377,8 +414,7 @@
                         </li>
                         <li class="promo">
                             <div class="promo-item">
-                                <h3>Find Your<br> Perfect Floor
-                                </h3>
+                                <h3>Find Your<br> Perfect Floor</h3>
                                 <hr>
                                 <a href="/flooring-finder" class="button button-primary">Get Started</a>
                             </div>
@@ -392,8 +428,7 @@
                 <nav class="secondary-nav-container">
                     <ul class="container">
                         <li>
-                            <h3 class="secondary-nav-header"><a href="/flooring/tile">Tile Products</a>
-                            </h3>
+                            <h3 class="secondary-nav-header"><a href="/flooring/tile">Tile Products</a></h3>
                             <ul class="secondary-nav">
                                 
                             </ul>
@@ -431,8 +466,7 @@
                         </li>
                         <li class="promo">
                             <div class="promo-item">
-                                <h3>Find Your<br> Perfect Floor
-                                </h3>
+                                <h3>Find Your<br> Perfect Floor</h3>
                                 <hr>
                                 <a href="/flooring-finder" class="button button-primary">Get Started</a>
                             </div>
@@ -446,14 +480,13 @@
                 <nav class="secondary-nav-container">
                     <ul class="container">
                         <li>
-                            <h3 class="secondary-nav-header"><a href="/flooring/luxury-vinyl-tile">Luxury Vinyl Products</a>
-                            </h3>
+                            <h3 class="secondary-nav-header"><a href="/flooring/luxury-vinyl-tile">Luxury Vinyl Products</a></h3>
                             <ul class="secondary-nav">
                                 <li>
-                                    <a href="/plp?flooringType=VinylTile&amp;filter=material:wood">Hardwood Looks</a>
+                                    <a href="/plp?filter=productFamily:LVT|colors.specifications.StoneOrWood:wood">Hardwood Looks</a>
                                 </li>
                                 <li>
-                                    <a href="/plp?flooringType=VinylTile&amp;filter=material:stone">Tile Looks</a>
+                                    <a href="/plp?filter=productFamily:LVT|colors.specifications.StoneOrWood:tile">Tile Looks</a>
                                 </li>
                             </ul>
                         </li>
@@ -481,8 +514,7 @@
                         </li>
                         <li class="promo">
                             <div class="promo-item">
-                                <h3>Find Your<br> Perfect Floor
-                                </h3>
+                                <h3>Find Your<br> Perfect Floor</h3>
                                 <hr>
                                 <a href="/flooring-finder" class="button button-primary">Get Started</a>
                             </div>
@@ -494,79 +526,135 @@
 
             <li><a href="http://www.mohawkhome.com/" class="primary-nav-header no-after" target="_blank">Rugs</a></li>
 
-            <li class="primary-nav-about">
-            <a href="/about-mohawk" class="primary-nav-header">About</a>
-            <nav class="secondary-nav-container">
-                <ul class="container">
-                    <li>
-                        <h3 class="secondary-nav-header"><a href="/about-mohawk">About Mohawk</a>
-                        </h3>
-                        <ul class="secondary-nav">
-                            <li>
-                                <a href="http://mohawkind.com/" target="_blank">Mohawk Corporation</a>
-                            </li>
-                            <li>
-                                <a href="http://www.mohawkflooring.com/media/" target="_blank">Press &amp; Media</a>
-                            </li>
-                            <li>
-                                <a href="http://creativehome.mohawkflooring.com/" target="_blank">Blog</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li>
-                        <h3 class="secondary-nav-header">Our Stories</h3>
-                        <ul class="secondary-nav">
-                            <li>
-                                <a href="/eco-friendly-flooring">Sustainability</a>
-                            </li>
-                            <li>
-                                <a href="/about-mohawk/#/#causes">Causes We Support</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li>
-                        <h3 class="secondary-nav-header"><a href="/customer-care">Customer Care</a>
-                        </h3>
-                        <ul class="secondary-nav">
-                            <li>
-                                <a href="/customer-care/consumer-finance">Consumer Finance</a>
-                            </li>
-                            <li>
-                                <a href="/customer-care/warranty">Warranty Information</a>
-                            </li>
-                            <li>
-                                <a href="/customer-care/frequently-asked-questions">FAQs</a>
-                            </li>
-                            <li>
-                                <a href="/customer-care/contact-us">Contact Us</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="promo">
-                        <div class="promo-item">
-                            <h3>Find Your <br>Perfect Floor
-                            </h3>
-                            <hr>
-                            <a href="/flooring-finder" class="button button-primary">Get Started</a>
-                        </div>
-                    </li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <li ng-cloak="" class="utility-samples-dropdown utility-samples-mobile ng-cloak" ng-if="mobileNavVisible">
+                <h3 ng-hide="sampleOrdering.newSampleAdded" class="serif">Sample Cart</h3>
+                <section class="utility-sample-added" ng-show="sampleOrdering.newSampleAdded">
+                    <span class="circle-check">
+                        <i class="icon-check"></i>
+                    </span>
+                    <p>Sample Added</p>
+                </section>
+                <ul class="utility-samples-list">
+                    <li>Samples <span class="count serif">{{sampleOrdering.count}}</span></li>
+                    <li>Total <span class="total serif">${{sampleOrdering.price}}</span></li>
                 </ul>
-                <div class="secondary-nav-footer">
-                    <div class="brand-logos container">
-                        <h3 class="secondary-nav-header">The Mohawk Family</h3>
-                        <a href="http://americanolean.com/" target="_blank" class="logo-american-olean"></a>
-                        <a href="http://www.americanrugcraftsmen.com/" target="_blank" class="logo-american-rug-crafts"></a>
-                        <a href="http://www.centuryflooring.com/" target="_blank" class="logo-century"></a>
-                        <a href="http://www.daltile.com/" target="_blank" class="logo-daltile"></a>
-                        <a href="http://www.karastan.com/" target="_blank" class="logo-karastan"></a>
-                        <a href="http://www.marazziusa.com/" target="_blank" class="logo-marazzi"></a>
-                        <a href="http://www.pergo.com/" target="_blank" class="logo-pergo"></a>
-                        <a href="http://us.quick-step.com/" target="_blank" class="logo-quickstep"></a>
-                        <a href="http://www.unilin.com/" target="_blank" class="logo-unilin"></a>
+                <section class="utility-samples-none" ng-if="sampleOrdering.count == 0">
+                    <p class="serif">Use the <i class="icon-cart"></i> icon under a product to add samples to your cart.</p>
+                    <a href="" class="utility-sample-why-cta" overlay-template="/assets/js/overlays/why-samples.html">Why Order Samples?</a>
+                </section>
+                <section class="utility-sample-actions" ng-if="sampleOrdering.count >= 1">
+                    <a href="/cart" class="button">View Samples</a>
+                    <a href="/cart/checkout" class="button button-primary">Checkout</a>
+                </section>
+            </li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <li class="primary-nav-about">
+                <a href="/about-mohawk" class="primary-nav-header">About</a>
+                <nav class="secondary-nav-container">
+                    <ul class="container">
+                        <li>
+                            <h3 class="secondary-nav-header">
+                                <a href="/about-mohawk">About Mohawk</a>
+                            </h3>
+                            <ul class="secondary-nav">
+                                <li>
+                                    <a href="http://mohawkind.com/" target="_blank">Mohawk Corporation</a>
+                                </li>
+                                <li>
+                                    <a href="http://www.mohawkflooring.com/media/" target="_blank">Press &amp; Media</a>
+                                </li>
+                                <li>
+                                    <a href="http://creativehome.mohawkflooring.com/" target="_blank">Blog</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <h3 class="secondary-nav-header">Our Stories</h3>
+                            <ul class="secondary-nav">
+                                <li>
+                                    <a href="/eco-friendly-flooring">Sustainability</a>
+                                </li>
+                                <li>
+                                    <a href="/about-mohawk/#/#causes">Causes We Support</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <h3 class="secondary-nav-header">
+                                <a href="/customer-care">Customer Care</a>
+                            </h3>
+                            <ul class="secondary-nav">
+                                <li>
+                                    <a href="/customer-care/consumer-finance">Consumer Finance</a>
+                                </li>
+                                <li>
+                                    <a href="/customer-care/warranty">Warranty Information</a>
+                                </li>
+                                <li>
+                                    <a href="/customer-care/frequently-asked-questions">FAQs</a>
+                                </li>
+                                <li>
+                                    <a href="/customer-care/contact-us">Contact Us</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="promo">
+                            <div class="promo-item">
+                                <h3>
+                                    Find Your <br>Perfect Floor
+                                </h3>
+                                <hr>
+                                <a href="/flooring-finder" class="button button-primary">Get Started</a>
+                            </div>
+                        </li>
+                    </ul>
+                    <div class="secondary-nav-footer">
+                        <div class="brand-logos container">
+                            <h3 class="secondary-nav-header">The Mohawk Family</h3>
+                            <a href="http://americanolean.com/" target="_blank" class="logo-american-olean"></a>
+                            <a href="http://www.americanrugcraftsmen.com/" target="_blank" class="logo-american-rug-crafts"></a>
+                            <a href="http://www.centuryflooring.com/" target="_blank" class="logo-century"></a>
+                            <a href="http://www.daltile.com/" target="_blank" class="logo-daltile"></a>
+                            <a href="http://www.karastan.com/" target="_blank" class="logo-karastan"></a>
+                            <a href="http://www.marazziusa.com/" target="_blank" class="logo-marazzi"></a>
+                            <a href="http://www.pergo.com/" target="_blank" class="logo-pergo"></a>
+                            <a href="http://us.quick-step.com/" target="_blank" class="logo-quickstep"></a>
+                            <a href="http://www.unilin.com/" target="_blank" class="logo-unilin"></a>
+                        </div>
                     </div>
-                </div>
-            </nav>
-        </li>
+                </nav>
+            </li>
             <li class="tertiary-nav">
                 <ul>
                     <li>
@@ -757,6 +845,7 @@
 <!-- this tag is opened in _header.html -->
 </main>
 
+
 <footer ng-controller="FooterCtrl">
 	<div class="container masthead clearfix">
 		<h2>Mohawk</h2>
@@ -822,7 +911,7 @@
 						<a href="/flooring/luxury-vinyl-tile">Luxury Vinyl</a>
 					</li>
 					<li>
-						<a href="http://www.mohawkflooring.com/flooring/area-rugs/" class="no-after" target="_blank">Rugs</a>
+                        <a href="http://www.mohawkhome.com/" class="no-after" target="_blank">Rugs</a>
 					</li>
 				</ul>
 			</li>
@@ -892,15 +981,13 @@
 
 
     <div class="container legal clearfix">
-        <p>Mohawk Industries © Copyright 2015. <span class="rights">All rights reserved.</span></p>
+        <p>Mohawk Industries © Copyright 2016. <span class="rights">All rights reserved.</span></p>
         <p class="terms">
             <a href="/about-mohawk/terms-of-use">Terms of Use</a> |
             <a href="/about-mohawk/privacy-policy">Privacy Policy</a> |
             <a href="/flooring-carpet-stores">All Retail Flooring Stores</a>
         </p>
     </div>
-
-    
 
 </footer>
 
@@ -914,11 +1001,15 @@
 </overlay>
 
 
+
+
 <script>
     var mohawk = {};
     mohawk.baseurl = 'https://www.mohawkflooring.com';
-	
+
 </script>
+
+
 
 
 
@@ -939,6 +1030,14 @@
 
 
 <script src="/assets/js/vendor/requirejs/require.js"></script>
+<script>
+    requirejs.config({
+        waitSeconds: 0,
+        urlArgs: 'v=1.0.0.1345'
+    });
+</script>
+
+    
 
 <script>
     // Download critical path dependecies.
@@ -957,15 +1056,27 @@
 
 <!-- /scripts -->
 
-<script src="/Scripts/raygun.min.js"></script>
+    <script src="/Scripts/raygun.min.js"></script>
+    <script type="text/javascript">
+        Raygun.setVersion('1.0.0.1345');
+        Raygun.init('NsyWYCx9C6kRwy+hvC7AZA==', {
+            ignoreAjaxAbort: true,
+            ignoreAjaxError: false,
+            ignore3rdPartyErrors: false
+        }).attach().withTags(['javascript', 'Mohawk-Prod']);
+    </script>
+
+<!-- Start of Async HubSpot Analytics Code -->
 <script type="text/javascript">
-    Raygun.setVersion('1.0.0.0');
-    Raygun.init('NsyWYCx9C6kRwy+hvC7AZA==', {
-        ignoreAjaxAbort: true,
-        ignoreAjaxError: false,
-        ignore3rdPartyErrors: true
-    }).attach().withTags(['javascript', 'Production']);
+    (function (d, s, i, r) {
+        if (d.getElementById(i)) { return; }
+        var n = d.createElement(s), e = d.getElementsByTagName(s)[0];
+        n.id = i; n.src = '//js.hs-analytics.net/analytics/' + (Math.ceil(new Date() / r) * r) + '/152354.js';
+        e.parentNode.insertBefore(n, e);
+    })(document, "script", "hs-analytics", 300000);
 </script>
+<!-- End of Async HubSpot Analytics Code -->
+
 
 
     <trackonload data="{&quot;vistorType&quot;:&quot;guest&quot;}"></trackonload>
@@ -974,4 +1085,4 @@
 
 
 
-</body></html>
+</div></body></html>
