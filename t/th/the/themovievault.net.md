@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themovievault.net privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923064423id_/http%3A//themovievault.net/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themovievault.net privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510080158id_/http%3A//themovievault.net/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
