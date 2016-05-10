@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tetongravity.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003082820id_/http%3A//www.tetongravity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tetongravity.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510063946id_/http%3A//www.tetongravity.com/privacy-policy) for the most accurate reproduction.*
 
 # Teton Gravity Research | Action Sports - Ski, Snowboard, Bike, Movies
 
