@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the buyextracts.com privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027061655id_/http%3A//www.buyextracts.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyextracts.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510120135id_/http%3A//www.buyextracts.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+  * What we collect 
+  * What we do with the information we gather 
+  * Security 
+  * How we use cookies 
+  * Links to other websites 
+  * Controlling your personal information 
+
+
 
 BuyExtracts.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
