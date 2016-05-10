@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sunandski.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905110247id_/http%3A//www.sunandski.com/Privacy_a/5.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunandski.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510020810id_/http%3A//www.sunandski.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-## Privacy Policy
+# Privacy Policy - Sun & Ski
 
 #### What information do we collect?
 
@@ -67,12 +65,8 @@ This online privacy policy applies only to information collected through our web
 
 #### Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/Terms-of-Use_a/4.htm) section establishing the use, disclaimers, and limitations of liability governing the use of our website. 
+Please also visit our [Terms and Conditions](https://web.archive.org/terms-of-use) section establishing the use, disclaimers, and limitations of liability governing the use of our website. 
 
 #### Your consent
 
 By using our site, you consent to our privacy policy. 
-
-#### Product Reviews
-
-Sun & Ski has arranged with PowerReviews, Inc. (d/b/a Buzzillions) ("PowerReviews") to facilitate the collection of customer product reviews on products sold by Sun & Ski. When you submit a product review to Sun & Ski, you are also subject to PowerReviews' terms of use and privacy policies (see <http://www.buzzillions.com/public/legal/index_en_US.html>). Accordingly, you should review those policies prior to submitting a review. Also, reviews you submit may be posted on both [http://www.Buzzillions.com](http://www.buzzillions.com/) and our site. 
