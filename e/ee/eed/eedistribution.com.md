@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eedistribution.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105060906id_/http%3A//www.eedistribution.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eedistribution.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510214555id_/http%3A//www.eedistribution.com/help/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Action Figures, Toys, Bobble Heads, and Collectibles at Entertainment Earth
 
-|  [ ](http://www.entertainmentearth.com/) |  |  [ ](http://www.entertainmentearth.com/dailydeals.asp?utm_source=wafer&utm_medium=promo&utm_content=DD&utm_campaign=DD)  
+|  [ ](http://www.entertainmentearth.com/) |  |  [ ](http://www.entertainmentearth.com/hancholo0516.asp)  
 ---|---|---  
   
 |    |  |     
@@ -31,7 +31,7 @@ Product specifications, prices, ship dates and availability are subject to chang
 |     
    
   
-[](http://www.entertainmentearth.com/prodinfo.asp?number=TTSLV2WED1R)
+[](http://www.entertainmentearth.com/hancholo0516.asp)
 
 **PRIVACY POLICY** Entertainment Earth, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. We have made a commitment to meet the strict requirements regarding how we treat your information. The following discloses our information gathering and dissemination practices for www.entertainmentearth.com.  
 
@@ -63,12 +63,12 @@ This notice applies to all information collected or submitted on the Entertainme
 
 We use a number of different cookies on our site. If you do not know what cookies are, or how to control or delete them, then we recommend you visit [http://www.aboutcookies.org ](http://www.aboutcookies.org/)for detailed guidance. 
 
-The list below describe the cookies we use on this site and what we use them for. Currently we operate an ‘implied consent’ policy which means that we assume you are happy with this usage. If you are not happy, then you should either not use this site, or you should delete the cookies having visited the site, or you should browse the site using your browser’s anonymous usage setting (called “Incognito” in Chrome, “InPrivate” for Internet Explorer, "Private Browsing" in Firefox and Safari etc.) 
+The list below describe the cookies we use on this site and what we use them for. Currently we operate an �implied consent� policy which means that we assume you are happy with this usage. If you are not happy, then you should either not use this site, or you should delete the cookies having visited the site, or you should browse the site using your browser�s anonymous usage setting (called �Incognito� in Chrome, �InPrivate� for Internet Explorer, "Private Browsing" in Firefox and Safari etc.) 
 
 **First Party Cookies**  
 These are cookies that are set by this website directly. 
 
-Google Analytics: We use Google Analytics to collect information about visitor behaviour on our website. Google Analytics stores information about what pages you visit, how long you are on the site, how you got here and what you click on. This Analytics data is collected via a JavaScript tag in the pages of our site and is not tied to personally identifiable information. We therefore do not collect or store your personal information (e.g. your name or address) so this information cannot be used to identify who you are. You can find out more about Google’s position on privacy as regards its analytics service at:  
+Google Analytics: We use Google Analytics to collect information about visitor behaviour on our website. Google Analytics stores information about what pages you visit, how long you are on the site, how you got here and what you click on. This Analytics data is collected via a JavaScript tag in the pages of our site and is not tied to personally identifiable information. We therefore do not collect or store your personal information (e.g. your name or address) so this information cannot be used to identify who you are. You can find out more about Google�s position on privacy as regards its analytics service at:  
 <http://www.google.co.uk/intl/en/analytics/privacyoverview.html>
 
 Affiliate Tracking: If you land on our website by clicking a link from a different website that uses an Entertainment Earth affiliate code, we will log the identity of the site that referred you to our site for the purpose of crediting the referring website with a sale if you make a purchase at entertainment earth. We do not log any personal information. 
