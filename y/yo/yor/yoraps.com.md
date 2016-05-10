@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoraps.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105173452id_/http%3A//www.yoraps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoraps.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510080222id_/http%3A//www.yoraps.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy YO! RAPS | Yo! Raps Magazine
 
