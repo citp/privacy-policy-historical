@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supplyhouse.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113054258id_/http%3A//www.supplyhouse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supplyhouse.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510100329id_/http%3A//www.supplyhouse.com/privacy) for the most accurate reproduction.*
 
 # At SupplyHouse.com, we are strongly committed to protecting privacy of our customers and our customer's businesses. We know that you may have concerns about privacy while shopping on the Internet and like to ensure you understand the security, protection, and privacy of information we guarantee. - SupplyHouse.com
 
