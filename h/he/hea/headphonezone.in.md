@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the headphonezone.in privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919200314id_/http%3A//www.headphonezone.in/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the headphonezone.in privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510191848id_/https%3A//www.headphonezone.in/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Headphone Zone
+# Privacy Policy - Headphone Zone
 
 **Privacy Protection**  
 Our privacy policy is simple: any information you give us stays with us. We do not rent, sell, lend, or otherwise distribute your personal information to anyone for any reason. This includes your contact information, as well as specific order information.
