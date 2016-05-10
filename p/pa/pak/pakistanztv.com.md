@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pakistanztv.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924160206id_/http%3A//pakistanztv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakistanztv.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510105319id_/http%3A//pakistanztv.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | PakistanZtv.com
 
