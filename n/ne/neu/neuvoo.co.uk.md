@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neuvoo.co.uk privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109164608id_/http%3A//neuvoo.co.uk/legal/%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neuvoo.co.uk privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510055544id_/http%3A//neuvoo.co.uk/legal/%3Flang%3Den) for the most accurate reproduction.*
 
 # neuvoo. Your job search starts here.
 
