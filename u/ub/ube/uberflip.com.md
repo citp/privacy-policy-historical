@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the uberflip.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912035239id_/http%3A//www.uberflip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uberflip.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510070635id_/http%3A//www.uberflip.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Uberflip
 
 Last Updated: July 6, 2015 (superseded Privacy Policy dated September 5, 2013)
 
-Flyp Technologies Inc. d/b/a Uberflip ("Uberflip", "we", "us", "our") is committed to the protection of the personal information. As part of this commitment, we have set out this Privacy Policy to describe the manner in which we treat the personal information that we maintain on behalf of our customers ("Customers"), as well as the personal information we collect, such as through our website at [www.uberflip.com](http://www.uberflip.com/) ("Website").
+Flyp Technologies Inc. d/b/a Uberflip ("Uberflip", "we", "us", "our") is committed to the protection of the personal information. As part of this commitment, we have set out this Privacy Policy to describe the manner in which we treat the personal information that we maintain on behalf of our customers ("Customers"), as well as the personal information we collect, such as through our website at [www.uberflip.com](https://web.archive.org/) ("Website").
 
 ## **Collection & Use of Information ******
 
