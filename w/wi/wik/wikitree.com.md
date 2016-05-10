@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wikitree.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104164022id_/http%3A//www.wikitree.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikitree.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510023740id_/http%3A//www.wikitree.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 We spend a great deal of time working on privacy issues. We try to do everything we can to protect your privacy while still enabling online collaboration. But the bottom line is that we are just a host. You use WikiTree at your own risk. You are responsible for the information you share about yourself and other people.
 
-Please read and understand the following Privacy Policy ( _last revised on December 13, 2013_ ). Use of WikiTree is governed by this and our [Terms of Service](https://web.archive.org/web/20151104164022id_/http%3A//www.wikitree.com/about/terms.html).
+Please read and understand the following Privacy Policy ( _last revised on December 13, 2013_ ). Use of WikiTree is governed by this and our [Terms of Service](https://web.archive.org/web/20160510023740id_/http%3A//www.wikitree.com/about/terms.html).
 
 This Privacy Policy is provided by Interesting.com, Inc. ("we" or "us") to describe the collection and use of information on WikiTree.com ("WikiTree", "Website", or "services") so that users ("you," "your," or "user") can make informed decisions. Section headings and bold text are included for convenience only.
 
@@ -26,7 +26,7 @@ You may update or remove any of your information on the Website at any time. You
 
 Protecting the privacy of young children is especially important and is mandated by United States law. Therefore, we do not knowingly collect Personally Identifiable Information on the Website from persons under 13 years of age, and no part of our Website is directed to persons under 13. If you are under 13 years of age, then you must not use or access the Website at any time or in any manner or provide any information to the Website.
 
-Do not supply to us or disclose on the Website any Personally Identifiable Information (except for a name to be used only as a placeholder) of any person under 13 years of age. Please see our [parental safety page](https://web.archive.org/web/20151104164022id_/http%3A//www.wikitree.com/about/safety.html) for information regarding the protection of children.
+Do not supply to us or disclose on the Website any Personally Identifiable Information (except for a name to be used only as a placeholder) of any person under 13 years of age. Please see our [parental safety page](https://web.archive.org/web/20160510023740id_/http%3A//www.wikitree.com/about/safety.html) for information regarding the protection of children.
 
 ### For International Users
 
