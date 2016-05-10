@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roundone.in privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207072545id_/http%3A//www.roundone.in/app_term_cond.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roundone.in privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510051100id_/http%3A//www.roundone.in/app_term_cond.html) for the most accurate reproduction.*
 
 # Terms & Conditions
 
@@ -10,7 +10,7 @@ THE FOLLOWING ARE THE TERMS OF USE OF THE WEBSITE ROUNDONE.IN (" **WEBSITE** ") 
   4. Once an Interview(s) is purchased by the Candidate, Round One shall provide the Candidate with the contact details of the Interviewer(s).
   5. Round One schedules a telephonic interaction for the candidate. In case the Candidate fails to contact the Interviewer as above, the Interview shall be cancelled and the Candidate shall not be entitled to any refund. In case the Interviewer is unavailable for the Interview, the Candidate may contact Round One for a refund or change of Interviewer.
   6. Within 10 working days of the Interview, Round One shall endeavour to forward the feedback of the Interviewer to the Candidate.
-  7. Premium Membership entitles candidates to interact with candidates for a period of six months without any additional payments. Members will be able to request 3 interactions at a time, and will only be able to interact with referrers that accept these requests. After 5 interactions have been arranged, this will decrease to one request at a time.
+  7. Premium Membership entitles candidates to interact with referrers for a period of six months without any additional payments. They will be able to request 3 interactions per day and a maximum of 21 in a calendar month, and will only be able to interact with referrers that accept these requests.
   8. Round One reserves its right to cancel any Interview without assigning any reason and in such a case the amount paid by the Candidate shall be refunded within 30 days. No other claim whatsoever will be entertained in this regard.
   9. The entire obligation of Round One is to arrange for an Interview with the Interviewer selected by the Candidate and to forward to the Candidate the feedback of the Interviewer.
   10. The Candidate understands and agrees that the duration of the Interview is the sole discretion of the Interviewer and Round One neither guarantees nor offers any warranty as to the duration of the Interview and no claims whatsoever will be entertained on this ground.
