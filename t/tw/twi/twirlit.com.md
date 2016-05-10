@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twirlit.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222152221id_/http%3A//twirlit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twirlit.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510040850id_/http%3A//twirlit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Twirlit
 
