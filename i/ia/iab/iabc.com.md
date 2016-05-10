@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iabc.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905104916id_/https%3A//www.iabc.com/about-us/leaders-and-staff/email-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iabc.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510052101id_/https%3A//www.iabc.com/about-us/leaders-and-staff/email-and-privacy-policy) for the most accurate reproduction.*
 
 # Email & Privacy Policy - Communication Professionals | IABC
 
@@ -66,9 +66,9 @@ IABC is the sole operator of the IABC website. If you would like to contact us f
 ### INTERNATIONAL ASSOCIATION OF BUSINESS COMMUNICATORS
 
 Attention: Privacy  
-601 Montgomery Street  
-Suite 1900  
-San Francisco, CA 94111 U.S.
+155 Montgomery Street  
+Suite 1210  
+San Francisco, CA 94104 U.S.
 
 Phone: 415.544.4700  
 Toll Free: 800.776.4222  
