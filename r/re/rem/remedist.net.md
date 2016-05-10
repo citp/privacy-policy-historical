@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remedist.net privacy policy that was archived on 2015-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151129224515id_/http%3A//remedist.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remedist.net privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510054152id_/http%3A//remedist.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Remedist
 
