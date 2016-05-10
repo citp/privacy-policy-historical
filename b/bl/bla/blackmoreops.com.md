@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackmoreops.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206163630id_/http%3A//www.blackmoreops.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackmoreops.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510134349id_/http%3A//www.blackmoreops.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - blackMORE Ops
 
