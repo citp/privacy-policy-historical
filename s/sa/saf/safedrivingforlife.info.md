@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safedrivingforlife.info privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110194612id_/http%3A//www.safedrivingforlife.info/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safedrivingforlife.info privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510163350id_/https%3A//www.safedrivingforlife.info/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies | DVSA - Safe Driving for Life
 
