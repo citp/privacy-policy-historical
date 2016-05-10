@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ragnarok-guide.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924003125id_/http%3A//www.ragnarok-guide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ragnarok-guide.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511010913id_/http%3A//www.ragnarok-guide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ragnarok Guide
 
