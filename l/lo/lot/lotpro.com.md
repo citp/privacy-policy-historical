@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lotpro.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217082615id_/http%3A//www.lotpro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lotpro.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510035608id_/http%3A//www.lotpro.com/privacy) for the most accurate reproduction.*
 
 # LotPro.com Website Privacy Statement.
 
@@ -334,6 +334,12 @@ Santander
 8585 N. Stemmons Freeway  
 Suite 1100 - North  
 Dallas, TX 75247
+**Fair Lending Practices**  
+**_Regulation B Disclosures_**  
+
+    1. Under the Equal Credit Opportunity Act (ECOA), Santander Consumer USA is prohibited from discriminating in any aspect of the credit transaction. Prohibited bases are: sex, marital status, race, color, religion, national origin, age (provided the applicant is of legal age), income derived from public assistance and the fact that the applicant has—in good faith—exercised any right under the Consumer Protection Act (i.e. the right to lodge a complaint). We recommend you make and retain a copy of our Privacy Policy. If you prefer to print another copy, visit our Website at [www.santanderconsumerusa.com](http://www.santanderconsumerusa.com/) or you may request a copy by calling **888.222.4227**.
+    2. Alimony, child support, or separate maintenance income need not be revealed if you do not choose to have it considered as a basis for repaying this loan.
+
 Other Finance Lending Institutions used to provide direct or indirect loans to consumers.
 
 
@@ -472,7 +478,7 @@ Notification - Every licensee shall furnish to every applicant, a copy of this r
     14. prepayment penalties - a charge in such amount or amounts as the agreement so provides imposed in connection with the payoff and termination of a revolving credit plan or closed end loan secured by real estate; 
     15. notwithstanding the provisions of this item (3)(c) of this regulation, licensed Lenders who are making mortgage loans pursuant to the rules, regulations, guidelines and/or loan forms established by the State of Delaware or federal governmental or quasi-governmental entity (including, without limitation, the Federal Housing Administration, the Government National Mortgage Association, the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation) shall be permitted to charge and collect any fees, charges or sums prescribed to be charged and collected in connection with a mortgage loan originated pursuant to a lending program conducted or supervised by any such entity. 
 
-Copyright © 2003-2014 LotPro.com ® and its licensors; all rights reserved.
+Copyright © 2003-2016 LotPro.com ® and its licensors; all rights reserved.
 
 
 
