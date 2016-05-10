@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apn-gcr.org privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110061017id_/http%3A//www.apn-gcr.org/about-apn/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apn-gcr.org privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510181650id_/http%3A//www.apn-gcr.org/about-apn/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Asia-Pacific Network for Global Change Research
 
