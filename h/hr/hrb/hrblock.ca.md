@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hrblock.ca privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905202311id_/https%3A//www.hrblock.ca/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrblock.ca privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510170038id_/https%3A//www.hrblock.ca/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - H&R Block
+# Privacy Policy - H&R Block Canada
 
 ## Your privacy is important to us.
 
@@ -96,6 +96,10 @@ H&R Block is accountable for our compliance with this Privacy Policy and applica
 
 ## Cookies.
 
-In addition, we may collect information online through the use of "cookies". A "cookie" is a small piece of information/text sent by a web server to be stored on a user's web browser so it can later be read back from that browser on subsequent visits to a website. We use cookies to store visitors' preferences and to record session information which allows us to customize our website for you as you visit various components of www.hrblock.ca. Through the use of cookies, we can display items that may be of interest to you, or make it easier for you to access your account information. 
+In addition, we, or our third party advertisers, may collect information online through the use of "cookies", web beacons and other technologies. These technologies are small pieces of information/text sent by a web server to be stored on a user's web browser so it can later be read back from that browser on subsequent visits to a website. We use these technologies to store visitors' preferences, understand how you navigate through and process content on our website, and to record session information which allows us to customize our website for you as you visit various components of [www.hrblock.ca](http://www.hrblock.ca/). Through the use of cookies, we can display items that may be of interest to you, or make it easier for you to access your account information.
 
-We do not link the information we store in cookies to any personal information you provide while on our site. You may be able to configure your browser to accept or reject all or some cookies, or to notify you when a cookie is set, however, cookies must be enabled in order to access most functions on the site. Since each browser is different, please check the "Help" menu of your browser to learn how to change your cookie preferences.
+We do not link the information we store in web technologies to any personal information you provide while on our site. You may be able to configure your browser to accept or reject all or some cookies, or to notify you when a cookie is set, however, cookies must be enabled in order to access most functions on the site. Since each browser is different, please check the "Help" menu of your browser to learn how to change your web technology preferences.
+
+Our website may include third party-delivered advertisements or links to third-party websites. These third party websites may serve ads that assign different web technologies to you. Those web technologies may be used to track your involvement with the advertising site. You may choose not to accept these web technologies. We do not control these third parties or their use of website technologies, and you should review their privacy policies to learn more about whether they collect and use your personal information in connection with the information their web technologies gather from you, including what, why and how they collect and use your personal information.
+
+You may also opt-out of network advertising programs that track your activities across multiple websites to deliver personalized advertising content to you. You will still receive other types of advertising; however, it will not be based on your interests. Deleting browser cookies and web beacons can remove your opt-out preferences, so you should use these tools periodically to ensure that your preferences are up-to-date.
