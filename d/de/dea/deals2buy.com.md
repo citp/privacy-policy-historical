@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deals2buy.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215163128id_/http%3A//www.deals2buy.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deals2buy.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510070555id_/http%3A//www.deals2buy.com/privacy_policy) for the most accurate reproduction.*
 
 # Cheap Deals, Best Hot Daily Deals and Coupons by Deals2buy.com
 
@@ -6,7 +6,7 @@ Last Updated: May 16, 2014
 
 This Privacy Statement ("Privacy Statement") explains how RetailMeNot, Inc. ("Deals2Buy", "us", "our", and "we"), collects and uses information when you interact with us. This Privacy Statement applies to all users of the Deals2Buy website published at www.Deals2Buy.com, the Cards2Apply website published at www.Cards2Apply.com, and any mobile applications or other websites we offer that are branded "Deals2Buy" and link to or reference this Privacy Statement (collectively, the "Sites").
 
-Please read this Privacy Statement carefully. This Privacy Statement replaces and supersedes the last version of this Privacy Statement for all users (including for those users that registered prior to the Effective Date). If you do not agree to our practices, please do not register, subscribe, create an account or otherwise interact with the Sites. Your use of the Sites is also subject to our [Terms of Use](https://web.archive.org/web/20151215163128id_/http%3A//disclaimer).
+Please read this Privacy Statement carefully. This Privacy Statement replaces and supersedes the last version of this Privacy Statement for all users (including for those users that registered prior to the Effective Date). If you do not agree to our practices, please do not register, subscribe, create an account or otherwise interact with the Sites. Your use of the Sites is also subject to our [Terms of Use](https://web.archive.org/web/20160510070555id_/http%3A//disclaimer).
 
 Please  Contact Us  if you have any questions or comments about our privacy practices or this Privacy Statement. You can reach us via postal mail at the following address:
 
@@ -151,7 +151,7 @@ Deals2Buy complies with the US-EU Safe Harbor Framework as set forth by the US D
 
 In compliance with the US-EU Safe Harbor Principles, Deals2Buy commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this Privacy Statement should first Contact Us.
 
-Deals2Buy has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20151215163128id_/http%3A//www.deals2buy.com/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+Deals2Buy has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20160510070555id_/http%3A//www.deals2buy.com/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
   10. ## PRIVACY PRACTICES OF THIRD PARTIES
 
