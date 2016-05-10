@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compatiblepartners.net privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905064621id_/http%3A//www.compatiblepartners.net/privacy/statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compatiblepartners.net privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510111657id_/http%3A//www.compatiblepartners.net/privacy/statement) for the most accurate reproduction.*
 
 # Compatible Partners - Privacy Policy
 
