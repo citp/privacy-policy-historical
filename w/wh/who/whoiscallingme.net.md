@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whoiscallingme.net privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605175256id_/http%3A//whoiscallingme.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whoiscallingme.net privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510200817id_/http%3A//www.whoiscallingme.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Who is calling me
+# Privacy Policy
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
