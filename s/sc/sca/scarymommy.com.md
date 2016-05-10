@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scarymommy.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208093005id_/http%3A//www.scarymommy.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scarymommy.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510114443id_/http%3A//www.scarymommy.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy Scary Mommy
+# Privacy Policy –
 
 **Last Changes to Privacy Policy: September 18, 2015           **
 
@@ -66,7 +66,7 @@ Like many websites, we use “cookies”, which are small text files that are st
 
 
 
-You have the ability to accept or decline cookies through your browser. Most web browsers automatically accept cookies, but, if you prefer, you can usually modify your browser setting to decline cookies. If you delete your cookies or if you set your web browser to decline cookies, some features of the Sites may not work or may not work as designed. For more information on cookies and how to disable them, you can consult the information provided by the Interactive Advertising Bureau at [www.allaboutcookies.org](http://www.allabout/).
+You have the ability to accept or decline cookies through your browser. Most web browsers automatically accept cookies, but, if you prefer, you can usually modify your browser setting to decline cookies. If you delete your cookies or if you set your web browser to decline cookies, some features of the Sites may not work or may not work as designed. For more information on cookies and how to disable them, you can consult the information provided by the Interactive Advertising Bureau at www.allaboutcookies.org.
 
 We also use unique website URLs to track your use of the Services and how you share information you find on the Services. We may link this information with your email address. We use this information to help us improve the Services and the type of content we make available on the Services.
 
