@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simbrief.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006165953id_/http%3A//simbrief.com/home/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simbrief.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510060705id_/http%3A//www.simbrief.com/home/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # SimBrief.com - Virtual Dispatching Solutions
 
