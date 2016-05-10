@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the putblog.org privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914205744id_/http%3A//putblog.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the putblog.org privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510035223id_/http%3A//putblog.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
