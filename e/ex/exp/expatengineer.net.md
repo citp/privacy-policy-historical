@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the expatengineer.net privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624210307id_/http%3A//www.expatengineer.net/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatengineer.net privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510064146id_/http%3A//www.expatengineer.net/blog/privacy-policy) for the most accurate reproduction.*
 
-# Webjobz -Privacy Policy - Webjobz
+# Webjobz –Privacy Policy - Webjobz
 
 This Privacy Policy applies to to all web sites owned and operated by Webjobz Pty Ltd, (ABN 88 087 371 248) “WEBJOBZ” is a private Australian company. WEBJOBZ is bound by the National Privacy Principles of the Privacy Act, 1988 (Australia)
 
