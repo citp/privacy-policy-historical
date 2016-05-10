@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the koobits.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018152842id_/http%3A//products.koobits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koobits.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511013605id_/http%3A//products.koobits.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - KooBits
 
-_Last modified: 20 December, 2010_
+_Last modified: 25 November, 2015_
 
-At KooBits, we recognize that privacy and intellectual property rights are important to our users. This Privacy Policy applies to all products, services and websites offered by KooBits Pte Ltd or its affiliated companies, such as [top school exam papers](http://products.koobits.com/assessment-books/), [problem sums](https://web.archive.org/problemsums/) or [Singapore math worksheets](http://products.koobits.com/singapore-math/), collectively known as KooBits’ “services”. 
+At KooBits, we recognize that privacy and intellectual property rights are important to our users. This Privacy Policy applies to all products, services and websites offered by KooBits Pte Ltd or its affiliated companies, such as [top school exam papers](http://products.koobits.com/assessment-books/), [problem sums](http://products.koobits.com/problemsums/) or [Singapore math worksheets](http://products.koobits.com/singapore-math/), collectively known as KooBits’ “services”. 
 
 KooBits processes personal information only for the purposes described in this Privacy Policy including:
 
@@ -12,7 +12,7 @@ KooBits processes personal information only for the purposes described in this P
   * Auditing, research and analysis in order to maintain, protect and improve our services;
   * Ensuring the technical functionality of our network;
   * Protecting the rights or property of KooBits or our users; and
-  * Developing new services. 
+  * Developing new services.
 
 
 
@@ -46,8 +46,7 @@ We may share with third parties certain pieces of aggregated, non-personal infor
 
 We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
 
-We restrict access to personal information to KooBits employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.  
-
+We restrict access to personal information to KooBits employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. 
 
 ### Data integrity
 
@@ -55,20 +54,20 @@ KooBits processes personal information only for the purposes for which it was co
 
 ### Data integrity
 
-KooBits processes personal information only for the purposes for which it was collected and in accordance with this Privacy Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services or as otherwise permitted under this Policy. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information  
-whenever necessary.
+KooBits processes personal information only for the purposes for which it was collected and in accordance with this Privacy Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services or as otherwise permitted under this Policy. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
 
 ### Accessing and updating personal information
 
-When you use KooBits services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise  
-required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users’ personal information. We provide the details for these procedures in the specific privacy notices or FAQs for these services.
+When you use KooBits services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users’ personal information. We provide the details for these procedures in the specific privacy notices or FAQs for these services.
 
 ### Enforcement
 
 KooBits regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or KooBits’s treatment of personal information by contacting us through this web site or by writing to us at:  
 KooBits Pte Ltd  
-71 Ayer Rajah Crescent  
-#05-10, Singapore 139951  
+3 Fusionopolis Place  
+#02-52 Galaxis Work Lofts  
+Singapore 138523
+
 When we receive formal written complaints at this address, it is KooBits’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between KooBits and an individual.
 
 ### Changes to this Privacy Policy
@@ -77,8 +76,11 @@ Please note that this Privacy Policy may change from time to time. We will not r
 
 Each version of this Privacy Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
 
-If you have any additional questions or concerns regarding this Privacy Policy, please contact us contact us at the following address, or by [email or phone](http://products.koobits.com/about-us/contact/).
+* * *
+
+If you have any additional questions or concerns regarding this Privacy Policy, please contact us contact us at the following address, or by [email or phone](http://products.koobits.com/contact/).
 
 KooBits Pte Ltd  
-71 Ayer Rajah Crescent  
-#05-10, Singapore 139951
+3 Fusionopolis Place  
+#02-52 Galaxis Work Lofts  
+Singapore 138523
