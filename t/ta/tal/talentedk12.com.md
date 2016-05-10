@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the talentedk12.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920211320id_/http%3A//www.talentedk12.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talentedk12.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510060518id_/http%3A//www.talentedk12.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TalentEd K-12 Strategic Talent Management
+# TalentEd K-12 Strategic Talent Management | Privacy Policy
 
-**[](http://www.talentedk12.com/)**
+**[](http://talentedk12.com/)**
 
 This policy covers how PeopleAdmin, Inc. handles and uses personal information that we collect when you visit and interact with our web site. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
 
