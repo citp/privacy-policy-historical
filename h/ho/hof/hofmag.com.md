@@ -1,46 +1,31 @@
-> *The following text is extracted and transformed from the hofmag.com privacy policy that was archived on 2011-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110407025440id_/http%3A//www.hofmag.com/content/view/49) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hofmag.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510175521id_/http%3A//www.hofmag.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Hall Of Fame Magazine
 
-This is the web site of **Hall of Fame Magazine, LLC**. 
+### **Your Privacy**
 
-Our postal address is   
-**56 N. Water St  
-New Bedford, MA 02740**
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-We can be reached via e-mail at [privacy@HOFMAG.com](mailto:privacy@HOFMAG.com)
+###  **Google AdSense and the DoubleClick DART Cookie**
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). 
+Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
-We collect the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, name and address. 
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
 
-The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site. 
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Hall Of Fame Magazine has no access or control over these cookies that may be used by third party advertisers.
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record past activity at a site in order to provide better service when visitors return to our site . 
+###  **Collection of Personal Information**
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address. 
+When visiting Hall Of Fame Magazine, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by emailing us at the address provided above. 
+###  **Links to third party Websites**
 
-Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations 
+We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
 
-Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us e-mail at the above address. 
+###  **Changes to this Privacy Statement**
 
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations 
+The contents of this statement may be altered at any time, at our discretion.
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:   
-http://www.linkshare.com 
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. 
-
-Upon request we provide site visitors with access to contact information (e.g., name, address, phone number) that we maintain about them . 
-
-Consumers can access this information by e-mail us at the above address. 
-
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information. 
-
-Consumers can have this information corrected by sending us e-mail at the above address. 
-
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
-
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses. 
+If you have any questions regarding the privacy policy of Hall Of Fame Magazine then you may contact us at contact@hofmag.com.
