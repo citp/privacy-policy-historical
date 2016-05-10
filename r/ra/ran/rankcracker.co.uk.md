@@ -1,156 +1,71 @@
-> *The following text is extracted and transformed from the rankcracker.co.uk privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123214213id_/http%3A//rankcracker.co.uk/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rankcracker.co.uk privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510054814id_/http%3A//www.rankcracker.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - Rank Cracker
 
-Fair Information Practices 
+## Privacy Policy
 
-Fair information  
-Practices
+Welcome to http://www.rankcracker.co.uk (the "Site").We understand that privacy online is important to users of our Site, especially when conducting business.This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by rankcracker.co.uk (collectively, "Services") ("Authorized Customers").
 
-This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.  
+"Personally Identifiable Information" 
 
+refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.
 
- **What personal information do we collect from the people that visit our blog, website or app?**
+What Personally Identifiable Information is collected? 
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your email address or other details to help you with your experience.
+We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell.
 
- **When do we collect information?**
+What organizations are collecting the information? 
 
-We collect information from you when you register on our site, subscribe to a newsletter, fill out a form or enter information on our site.
+In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
 
- **How do we use your information?**
+How does the Site use Personally Identifiable Information?
 
-  
+We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information.
 
+With whom may the information may be shared?
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to "opt out" of receiving information or being contacted by us or by any agency acting on our behalf.
 
- **•** To improve our website in order to better serve you.
+How is Personally Identifiable Information stored?
 
- **•** To send periodic emails regarding your order or other products and services.
+Personally Identifiable Information collected by rankcracker.co.uk is securely stored and is not accessible to third parties or employees of rankcracker.co.uk except for use as indicated above.
 
- **How do we protect visitor information?**
+What choices are available to Visitors regarding collection, use and distribution of the information?
 
-  
+Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at 44 The Pantiles, Tunbridge Wells Kent TN2 5TN
 
+Are Cookies Used on the Site?
 
-Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
+Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
 
-We use regular Malware Scanning.
+How does rankcracker.co.uk use login information? 
 
-Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology. 
+rankcracker.co.uk uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information.
 
-We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.
+What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?
 
-All transactions are processed through a gateway provider and are not stored or processed on our servers.
+rankcracker.co.uk has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility. Our privacy policy does not cover their collection or use of this information. Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.
 
- **Do we use 'cookies'?**
+How does the Site keep Personally Identifiable Information secure?
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences.
 
- **•** Keep track of advertisements.
+How can Visitors correct any inaccuracies in Personally Identifiable Information?
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.  
+Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us [here](http://www.rankcracker.co.uk/contact/).
 
+Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?
 
-If you disable cookies off, some features will be disabled It won't affect the users experience that make your site experience more efficient and some of our services will not function properly.
+We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting . However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.
 
-However, you can still place orders .
+What happens if the Privacy Policy Changes?
 
- **Third Party Disclosure**
+We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure.
 
-  
+Links:
 
+http://www.rankcracker.co.uk contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. 
+rankcracker.co.uk is a trading name of IThinkItsMe LLP. Registered number OC392817 in England & Wales. Registered office address 44 The Pantiles, Tunbridge Wells Kent TN2 5TN, United Kingdom.
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
-
-**Third party links**
-
-We do not include or offer third party products or services on our website.
-
- **California Online Privacy Protection Act**
-
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf  
-
-
- **According to CalOPPA we agree to the following:**
-
-Users can visit our site anonymously
-
-Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
-
-Our Privacy Policy link includes the word 'Privacy', and can be easily be found on the page specified above.
-
-Users will be notified of any privacy policy changes:
-
- **•** Via Email
-
-Users are able to change their personal information:
-
- **•** By emailing us
-
- **How does our site handle do not track signals?**
-
-We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place. 
-
-**Does our site allow third party behavioral tracking?**
-
-It's also important to note that we do not allow third party behavioral tracking
-
- **COPPA (Children Online Privacy Protection Act)**
-
-  
-
-
-When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
-
-We do not specifically market to children under 13.
-
- **Fair Information Practices**
-
-  
-
-
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
-
- **In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
-
-We will notify the users via email
-
- **•** Within 7 business days
-
-We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
-
- **CAN SPAM Act**
-
-  
-
-
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
-
- **We collect your email address in order to:**
-
- **•** Send information, respond to inquiries, and/or other requests or questions.
-
- **To be in accordance with CANSPAM we agree to the following:**
-
- **•** NOT use false, or misleading subjects or email addresses
-
- **•** Identify the message as an advertisement in some reasonable way
-
- **•** Include the physical address of our business or site headquarters
-
- **•** Monitor third party email marketing services for compliance, if one is used.
-
- **•** Honor opt-out/unsubscribe requests quickly
-
- **•** Allow users to unsubscribe by using the link at the bottom of each email
-
- **  
-If at any time you would like to unsubscribe from receiving future emails, you can**
-
- **•** Follow the instructions at the bottom of each email.
-
-and we will promptly remove you from **ALL** correspondence.
+Please contact me [here](http://www.rankcracker.co.uk/contact/), All Rights Reserved.
