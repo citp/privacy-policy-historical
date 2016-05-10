@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the amnesty.org.uk privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216142725id_/http%3A//www.amnesty.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amnesty.org.uk privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510212114id_/https%3A//www.amnesty.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Amnesty International UK
+
+12 Apr 2013, 09:25pm 
 
 We take your privacy very seriously. This policy sets out all the steps we take to safeguard your information, how we collect it and how we use it.
 
@@ -20,7 +22,7 @@ We take your privacy very seriously. This policy sets out all the steps we take 
 
 2.2 The Sites are UK-based websites and we take reasonable care to comply with the requirements of the UK Data Protection Act 1998 ('the Act') relating to the personal information you supply on the Sites.   
 
-2.3 For the purpose of the Act, we are the data controller. If you have any queries concerning this Privacy Policy or the way in which your personal data is used by us, please contact our Supporter Care Team via [sct@amnesty.org.uk](mailto:sct@amnesty.org.uk) or on 020 7033 1777.
+2.3 For the purpose of the Act, we are the data controller. If you have any queries concerning this Privacy Policy or the way in which your personal data is used by us, please contact our Supporter Care Team via sct@amnesty.org.uk or on 020 7033 1777.
 
 ##  3\. Children
 
@@ -40,7 +42,7 @@ If you have registered as a member on any of the Sites, you may be asked to prov
 
 6.1 If any of the Information you have submitted for any account or profile on any of the Sites changes, you can update your personal information by logging in to your account on the Site in question and selecting the option provided. 
 
-6.2 If you are a member of Amnesty International UK and any of your membership details changes, you can amend your membership details by contacting our Supporter Care Team via [sct@amnesty.org.uk](mailto:sct@amnesty.org.uk) or on 020 7033 1777.
+6.2 If you are a member of Amnesty International UK and any of your membership details changes, you can amend your membership details by contacting our Supporter Care Team via sct@amnesty.org.uk or on 020 7033 1777.
 
 ##  7\. How we use your personal information
 
@@ -52,9 +54,9 @@ If you have registered as a member on any of the Sites, you may be asked to prov
 
 7.4 We care about your details and unless you have agreed we will never share your phone number or email address. 'Amnesty International UK will not share the contact details of under 18s.
 
-7.5 We may permit selected third parties to use your Information, to contact you about products, services or issues which may be of interest to you, if you have given us permission to do so. If you do not wish to receive any such communications from us or third parties, you may opt out by notifying our Supporter Care Team via [sct@amnesty.org.uk](mailto:sct@amnesty.org.uk) or on 020 7033 1777.
+7.5 We may permit selected third parties to use your Information, to contact you about products, services or issues which may be of interest to you, if you have given us permission to do so. If you do not wish to receive any such communications from us or third parties, you may opt out by notifying our Supporter Care Team via sct@amnesty.org.uk or on 020 7033 1777.
 
-7.6 We may offer you the opportunity to sign up to a mailing list and/or newsletter, to participate in a survey or a competition, or to receive information by email about third parties' products and services, or any other products and services which we provide.  If you sign up for any of these and subsequently change your mind, you may opt out by notifying our Supporter Care Team via [sct@amnesty.org.uk](mailto:sct@amnesty.org.uk) or on 020 7033 1777, or by clicking on the 'unsubscribe' link at the end of every ecommunication you receive from us. 
+7.6 We may offer you the opportunity to sign up to a mailing list and/or newsletter, to participate in a survey or a competition, or to receive information by email about third parties' products and services, or any other products and services which we provide.  If you sign up for any of these and subsequently change your mind, you may opt out by notifying our Supporter Care Team via sct@amnesty.org.uk or on 020 7033 1777, or by clicking on the 'unsubscribe' link at the end of every ecommunication you receive from us. 
 
 ##  8\. Disclosure of your information to third parties
 
@@ -180,7 +182,7 @@ Most web browsers will accept cookies, but if you would rather that we did not c
 
 3\. Select the 'Never Ask' option  
   
-If your browser isn't shown above, please visit [www.aboutcookies.org](http://www.aboutcookies.org/ "www.aboutcookies.org"). If you want to delete any cookies that are already on your computer, please refer to the instructions for your file management software to locate the file or directory that stores cookies or visit www.aboutcookies.org
+If your browser isn't shown above, please visit www.aboutcookies.org. If you want to delete any cookies that are already on your computer, please refer to the instructions for your file management software to locate the file or directory that stores cookies or visit www.aboutcookies.org
 
 13.3 How does we use cookies?
 
