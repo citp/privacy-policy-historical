@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flycell.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926003413id_/http%3A//www.flycell.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flycell.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511010238id_/http%3A//www.flycell.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Flycell
 
@@ -34,7 +34,7 @@ Flycell operates sites on behalf of some of its customers (for example, other bu
 
 ## Changing your information
 
-To update your personal information, simply sign in to the Site and go to My Account from your personal home page. You may also contact our Support team by writing [help@flycell.com](https://web.archive.org/web/20140926003413id_/http%3A//www.flycell.com/help@flycell.com). You can make changes to your account information at any time. 
+To update your personal information, simply sign in to the Site and go to My Account from your personal home page. You may also contact our Support team by writing [help@flycell.com](https://web.archive.org/web/20160511010238id_/http%3A//www.flycell.com/help@flycell.com). You can make changes to your account information at any time. 
 
 ## Data Retention
 
