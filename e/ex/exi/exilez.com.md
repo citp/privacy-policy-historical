@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exilez.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002053637id_/http%3A//www.exilez.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exilez.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510103009id_/http%3A//www.exilez.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Exilez
 
