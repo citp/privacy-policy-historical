@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cherryplucker.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119200311id_/http%3A//www.cherryplucker.com/%3Fpage_id%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cherryplucker.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510034001id_/http%3A//www.cherryplucker.com/%3Fpage_id%3D6) for the most accurate reproduction.*
 
 # | Cherryplucker
 
