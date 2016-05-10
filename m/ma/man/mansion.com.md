@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mansion.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213095030id_/http%3A//www.mansion.com/security-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mansion.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510171004id_/http%3A//www.mansion.com/security-and-privacy) for the most accurate reproduction.*
 
 # Mansion Casino Security & Privacy - www.Mansion.com
 
