@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nps.org.au privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109061959id_/http%3A//www.nps.org.au/about-this-website/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nps.org.au privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510055903id_/http%3A//www.nps.org.au/about-this-website/privacy) for the most accurate reproduction.*
 
 # Privacy policy | NPS MedicineWise
 
-**This policy was updated 8 October 2015.**
+**This policy was updated 9 December 2015**
 
-## 1\. Purpose 
+## 1\. Purpose
 
 The _Privacy Act 1988_ (the Privacy Act) requires entities bound by the Australian Privacy Principles to have a privacy policy. This Privacy Policy outlines the handling practice of National Prescribing Service Limited ( **NPS MedicineWise** ) (ABN 61 082 034 393).
 
@@ -38,10 +38,10 @@ If you are one of our suppliers or provide services to us, we may collect inform
 
 ## 4\. Information collected by our websites
 
-  * When you visit the NPS MedicineWise and Australian Prescriber websites, our web server may request your browser to create a cookie on your computer. A cookie is a small piece of information sent by our server to your browser by other sites. 
+  * When you visit the NPS MedicineWise and Australian Prescriber websites, our web server may request your browser to create a cookie on your computer. A cookie is a small piece of information sent by our server to your browser by other sites.
   * Our cookies do not contain personal information about users. However, cookies can identify a user's browser. The cookies transferred by our website are used for such things as capturing information about a user's web browser, controlling a pop-up window or enabling login access to password protected areas of the website.
-  * Our analytics systems use cookies to gather information regarding visitor activity to our websites. This is not used to identify you as an individual but is collated into aggregate results or classifications. 
-  * Third parties may also use their own cookies to collect non-personal information about your activities on our website. This information, which may be combined with information acquired from third parties, may be used to serve you promotional material that we believe you might be interested in based on the content you have viewed. 
+  * Our analytics systems use cookies to gather information regarding visitor activity to our websites. This is not used to identify you as an individual but is collated into aggregate results or classifications.
+  * Third parties may also use their own cookies to collect non-personal information about your activities on our website. This information, which may be combined with information acquired from third parties, may be used to serve you promotional material that we believe you might be interested in based on the content you have viewed.
   * The cookies placed by third parties are subject to the privacy policies of these third parties. NPS MedicineWise has no control over these cookies.
   * If you do not wish to receive any cookies, you may set your browser to refuse them; go to the browser's help menu for instructions. Please note that some features of the NPS MedicineWise website may not work if cookies are disabled.
 
@@ -55,15 +55,30 @@ If you are one of our suppliers or provide services to us, we may collect inform
 
 
 
-## 6. What types of personal information do we collect and why?
+## 6\. Website advertising
 
-### 6.1. Types of information
+  * NPS MedicineWise allows paid advertising to appear on our website, served only to non-Australian IP addresses.
+  * Advertising on our website which appears to non-Australian IP addresses is served through Google AdSense.
+  * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to a website.
+  * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to users based on visits to sites on the internet.
+  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Ad Settings.
+  * NPS MedicineWise use a number of  filters to ensure what we believe to be appropriate advertising is served to our site.
+  * NPS MedicineWise complies with the [Google AdSense implementation policy](https://support.google.com/adsense/answer/1346295?hl=en&ref_topic=1271508&rd=1), which ensures ads are not placed under misleading headings, or have [unnatural] attention drawn to them, among other aspects agreed to ensure integrity of our website is maintained.
+  * Advertising complaints can be addressed to [privacy@nps.org.au](mailto:privacy@nps.org.au).
+  * A response will be returned within 5 working days.
+  * We reserve the right to uphold complaints.
+
+
+
+## 7. What types of personal information do we collect and why?
+
+### 7.1. Types of information
 
 The types of personal information that we collect will vary depending on your relationship with us. Sometimes we may need to collect sensitive information about you such as medical history of the consumer. Please note that we try and collect only the information that we need for a particular function and only hold it for as long as it remains necessary for the purposes for which it was collected. We only disclose your personal information (including sensitive information) for the purposes for which you gave it to us or for directly related purposes you would expect or if you agree.
 
-### 6.2. We may use your personal information to:
+### 7.2. We may use your personal information to:
 
-  * conduct evaluations of our products, materials, programs and services; 
+  * conduct evaluations of our products, materials, programs and services;
   * assist us in conducting or participating in pilot programs;
   * invite you to participate in research or to inform you of our educational programs;
   * subject to consent, create individual health stories which are published and/or broadcast to promote the quality use of medicines and/or medical tests and record the background information concerning the subject of the health story (including the individual's consent to appear in the same);
@@ -73,7 +88,7 @@ The types of personal information that we collect will vary depending on your re
 
 
 
-### 6.3. Use of de-identified information
+### 7.3. Use of de-identified information
 
   * As part of its services, NPS MedicineWise offers health professionals the opportunity to undertake quality assurance activities that require them to collect health information about individuals and disclose it to NPS MedicineWise on a de-identified basis for quality assurance purposes.
   * Health professionals providing de-identified data are advised what it will be used for and give us written consent for the data to be aggregated in feedback material provided to other health professionals or professional bodies. This aggregated de-identified data may also be used in our evaluation studies and reports.
@@ -81,7 +96,7 @@ The types of personal information that we collect will vary depending on your re
 
 
 
-### 6.4. Use of images
+### 7.4. Use of images
 
   * NPS MedicineWise will seek your consent prior to any taking of a photo/image and the use (i.e. the publication) of the photo/image.
   * In some cases that consent may be implied, for example, the taking of photos at functions to be used in publications.
@@ -93,33 +108,33 @@ The types of personal information that we collect will vary depending on your re
 
 
 
-## 7. How do we hold personal information?
+## 8. How do we hold personal information?
 
 NPS MedicineWise holds personal information on databases, electronic and hard copy files.
 
-## 8. Who do we disclose personal information to?
+## 9. Who do we disclose personal information to?
 
 Personal information held by NPS MedicineWise is disclosed by us in accordance with the Privacy Act.
 
-### 8.1. Information collected during a call to our phone line services
+### 9.1. Information collected during a call to our phone line services
 
   * In some circumstances, we may recommend that a call made to our phone line services be transferred to another health information line for specialist advice. We will only transfer the call to another service provider and provide the caller's personal information to that service provider with the caller's consent.
   * We will disclose your personal information collected during a call to our [Adverse Medicine Events Line](http://www.nps.org.au/contact-us/adverse-medicines-events) to the Therapeutic Goods Administration (TGA) with your consent (or the consent of your authorised representative–parent or guardian). If you do not consent to us disclosing your personal information to the TGA, we will provide a de-identified report to the TGA which will not include your name, address or contact information.
 
 
 
-### 8.2. Educational activities provided to health professionals and students
+### 9.2. Educational activities provided to health professionals and students
 
   * Where NPS MedicineWise provides or administers education or participation activities for health professionals or health professional students, we may disclose personal information to relevant institutions for the purposes of monitoring the participation and use (against course or institution requirements) and to professional associations for the purpose of recording continuing professional development points.
   * In some cases, information on the education or participation activity status of health professionals within a practice is provided to a practice manager of that practice.
 
 
 
-### 8.3. Disclosure of de-identified information
+### 9.3. Disclosure of de-identified information
 
 Personal information incorporated into health stories may be disclosed to the general public when the health story is published and/or broadcast. The information disclosed in these circumstances would not include an individual's address, phone number, email address or other contact details.
 
-### 8.4. Disclosure to third parties
+### 9.4. Disclosure to third parties
 
   * From time to time, information may be disclosed to our stakeholders such as NPS MedicineWise Advisory Group members.
   * Such information will be de-identified and remain confidential.
@@ -127,7 +142,7 @@ Personal information incorporated into health stories may be disclosed to the ge
 
 
 
-### 8.5. Contractors and collaborators
+### 9.5. Contractors and collaborators
 
   * NPS MedicineWise may disclose your information to contractors to whom we outsource certain functions or which provide services to us, such as, bodies that assist in conducting or analysing research and print, data capture, mailing and distribution houses.
   * We take all reasonable measures with our contractors to ensure they comply with the privacy standards set out in the Privacy Act and any relevant state and territory legislation.
@@ -135,18 +150,18 @@ Personal information incorporated into health stories may be disclosed to the ge
 
 
 
-### 8.6. Where disclosure is required or authorised by law, courts or government departments
+### 9.6. Where disclosure is required or authorised by law, courts or government departments
 
   * NPS MedicineWise may also disclose personal information in circumstances where it has statutory obligations or is otherwise required to do so by law, a court or a government department (including the Department of Health).
   * We do not supply, sell or rent the personal information we collect to unrelated third parties for the purpose of marketing those third parties' products or services.
 
 
 
-## 9. Overseas disclosure
+## 10. Overseas disclosure
 
 NPS MedicineWise does not disclose any personal information to overseas entities.
 
-## 10. Protection and security
+## 11. Protection and security
 
   * At NPS MedicineWise we take preserving and protecting a person's identity very seriously and it is a key responsibility and right of all our staff, customers and partners.
   * We have a Privacy Officer and a Risk Committee to oversee the management of personal information in accordance with this policy and privacy legislation.
@@ -157,7 +172,7 @@ NPS MedicineWise does not disclose any personal information to overseas entities
 
 
 
-## 11. Access and correction
+## 12. Access and correction
 
   * Under the Privacy Act you have the right to access the personal information we hold about you. There are some limited exceptions to this set out in the Privacy Act.
   * If you make an access request, NPS MedicineWise will ask you to verify your identity and to specify what information you require. We may ask the reason for your request so we can assist you most effectively. However, you are under no obligation to provide a reason if you do not wish to.
@@ -167,24 +182,26 @@ NPS MedicineWise does not disclose any personal information to overseas entities
 
 
 
-## 12. Complaints
+## 13. Complaints
 
   * If you believe that there has been a breach or potential breach of this Privacy Policy or the privacy legislation, please contact NPS MedicineWise by phone, fax or mail immediately at the details set out in section 11 of this policy and ask for your complaint or concern to be directed to the Privacy Officer.
   * We take breaches seriously and have procedures to help identify and resolve a breach, potential breach or complaint as quickly as possible. This includes appropriate escalation processes to the NPS MedicineWise Risk Committee and CEO and notification processes in the event of a breach.
   * Every complaint is forwarded by the staff member who receives it to the Privacy Officer.
   * You will be notified of the process for dealing with the breach or potential breach. Your complaint will be thoroughly investigated and a response provided within 30 days.
-  * If you are not satisfied with the resolution of your complaint you may contact the Office of the Federal Privacy Commissioner at its website [www.oaic.gov.au](http://www.oaic.gov.au/) or by telephone on 1300 363 992 who may investigate your complaint and has the power to award compensation against us in appropriate circumstances. 
+  * If you are not satisfied with the resolution of your complaint you may contact the Office of the Federal Privacy Commissioner at its website [www.oaic.gov.au](http://www.oaic.gov.au/) or by telephone on 1300 363 992 who may investigate your complaint and has the power to award compensation against us in appropriate circumstances.
 
 
 
-## 13\. Further information
+## 14\. Further information
 
 Contact us for enquiries or feedback about this policy, or for complaints about our handling of personal information, by:
 
- **email** : [privacy@nps.org.au](mailto:privacy@nps.org.au)  
- **phone** : (02) 8217 8798  
- **fax** : (02) 9211 7578  
- **mail** : NPS MedicineWise Privacy Officer  
-        NPS MedicineWise  
-        PO Box 1147  
-        Strawberry Hills NSW 2012
+  *  **email** : [privacy@nps.org.au](mailto:privacy@nps.org.au)
+  *  **phone** : (02) 8217 8798
+  *  **fax** : (02) 9211 7578
+  *  **mail** : NPS MedicineWise Privacy Officer  
+NPS MedicineWise  
+PO Box 1147  
+Strawberry Hills NSW 2012
+
+
