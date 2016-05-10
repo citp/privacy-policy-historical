@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bucksomeboomer.com privacy policy that was archived on 2015-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150823030839id_/http%3A//www.bucksomeboomer.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bucksomeboomer.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510115034id_/http%3A//www.bucksomeboomer.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Bucksome Boomer
 
