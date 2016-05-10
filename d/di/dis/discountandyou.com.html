@@ -1,39 +1,163 @@
-<!--The following is the downloaded HTML source of the discountandyou.com privacy policy that was archived on 2015-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151118011954id_/http%3A//www.discountandyou.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the discountandyou.com privacy policy that was archived on 2016-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160510145918id_/http%3A//www.discountandyou.com/privacypolicy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-		<meta name="theme-color" content="#05B1E6">
-		<link rel="icon" sizes="192x192" href="/images/day_highres.png">
-		<title>Privacy Policy - DiscountAndYou</title>
-		<link rel="icon" href="images/favicon.ico" sizes="32*32">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="keyword" content="coupons, promo codes, coupon codes, promotional codes, promotion codes">
+<!DOCTYPE html><html><head>
+		<link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      	<link type="text/css" rel="stylesheet" href="/css/materialize.min.css" media="screen,projection">
+      	<meta name="keyword" content="coupons, promo codes, coupon codes, promotional codes, promotion codes">
 		<meta name="description" content="Discountandyou provides free coupon codes, promo codes, coupons, deals &amp; offers, discount vouchers &amp; more">
-        <link rel="stylesheet" href="css/bootstrap.min.css">
-		<link rel="stylesheet" href="css/bootstrap-theme.min.css">
-		<link rel="stylesheet" href="style.css">
-		<script async="" src="https://embed.tawk.to/55fbfd7a74ea327f08497a08/default" charset="UTF-8" crossorigin="*"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="js/jquery-1.11.2.min.js"></script>
-		<script src="js/bootstrap.min.js"></script>
-		<script type="application/ld+json">
-	    {
-	      "@context": "http://schema.org",
-	      "@type": "Organization",
-	      "url": "http://www.discountandyou.com",
-	      "logo": "http://www.discountandyou.com/images/logo.png"
-	    }
-	    </script>
-	    <script type="application/ld+json">
-		{ "@context" : "http://schema.org",
-		  "@type" : "Organization",
-		  "name" : "DiscountAndYou",
-		  "url" : "http://www.discountandyou.com",
-		  "sameAs" : [ "http://www.facebook.com/discountandyou",
-		    "https://twitter.com/iDiscountandyou",
-		    "https://plus.google.com/+discountandyouindia"] 
-		}
-		</script>		
+		<meta content="DiscountAndYou - Coupon Codes, Promo Codes, Coupons, Deals &amp; Offers" property="og:title">
+		<meta content="website" property="og:type"><meta content="http://www.discountandyou.com/" property="og:url">
+		<meta content="http://www.discountandyou.com/images/Discountandyoulogo.jpg" property="og:image">
+		<meta content="Discountandyou.com" property="og:site_name">
+		<meta content="Discountandyou provides free coupon codes, promo codes, coupons, deals &amp; offers, discount vouchers &amp; more" property="og:description"> 
+		<meta property="fb:admins" content="100006493386476">
+		<meta name="OMG-Verify-V1" content="796306-766fe2af-acc8-4351-bfe6-afddd0d8512e">
+		<meta name="google-site-verification" content="4ArLOgMvwYfVvoNu_f9uPywZSp9zK0Ryn_Z7pu2kLNQ">
+		<title>Privacy Policy - Discountandyou.com</title>
+		<meta name="theme-color" content="#2196F3">		
+		<link rel="stylesheet" href="/font/flaticon.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+      	<script type="text/javascript" src="/js/materialize.min.js"></script>      	
+      	<script src="/js/store.json"></script>
+      	<script>
+      		var coupon,store,url;
+      		$(document).ready(function(){
+      			$(".button-collapse").sideNav();
+      			$(".login-collapse").sideNav({edge: 'top'});
+      			$('.modal-trigger').leanModal();
+      			$('#dropCategory').hover(function(){
+      				$('#dropCategory').addClass('blue darken-1');
+      				$('#categories').css('display','block');
+      				$('#stores').css('display','none')      				      				
+      			},function(){$('#dropCategory').removeClass('blue darken-1');});
+      			$('#categories').hover(function(){$('#dropCategory').addClass('blue darken-1');},function(){$('#categories').css('display','none');$('#dropCategory').removeClass('blue darken-1')});
+      			$('#dropStore').hover(function(){
+      				$('#dropStore').addClass('blue darken-1');
+      				$('#stores').css('display','block');
+      				$('#categories').css('display','none');
+      			},function(){$('#dropStore').removeClass('blue darken-1');});
+      			$('#stores').hover(function(){$('#dropStore').addClass('blue darken-1');},function(){$('#stores').css('display','none');$('#dropStore').removeClass('blue darken-1');});      			  				  				  
+      		});
+      		function actC(b){
+				//Cashback Is Giving
+				if($(b).attr('data-cashback')==1){
+					var login='';
+					if(login!=''){//Logged In
+						$('#popcode').html($(b).attr('data-code'));
+						$('.popstore').html($(b).attr('data-store'));
+						$('.popstore').attr('href',$(b).attr('href'));
+						$('#couponcoderequired').openModal();
+					}else{//Not Logged In
+						coupon=$(b).attr('data-code');store=$(b).attr('data-store');url=$(b).attr('href');
+						$('#login').openModal();
+					}
+				}else{//Cashback Is Not Giving
+					$('#popcode').html($(b).attr('data-code'));
+					$('.popstore').html($(b).attr('data-store'));
+					$('.popstore').attr('href',$(b).attr('href'));
+					$('#couponcoderequired').openModal();
+				}
+			}
+			function actD(b){
+				//Cashback Is Giving
+				if($(b).attr('data-cashback')==1){
+					var login='';
+					if(login!=''){//Logged In
+						$('.popstore').html($(b).attr('data-store'));
+						$('.popstore').attr('href',$(b).attr('href'));
+						$('#nocouponcode').openModal();
+					}else{//Not Logged In
+						coupon='dnd';store=$(b).attr('data-store');url=$(b).attr('href');
+						$('#login').openModal();
+					}
+				}else{//Cashback Is Not Giving
+					$('.popstore').html($(b).attr('data-store'));
+					$('.popstore').attr('href',$(b).attr('href'));
+					$('#nocouponcode').openModal();
+				}
+			}
+      		function search(a){
+      			//console.log($(a).val());
+      			if($(a).val().trim()=='')
+      				$('.search-results').html('');
+      			else{
+      				var result=[], sto=new RegExp($(a).val().trim(),"i");
+	      			for(var i=0;i<stores.length;i++){
+	      				if(stores[i].store.match(sto)){
+	      					result.push(stores[i]);
+	      				}
+	      			}
+	      			$('.search-results').html('');
+	      			if(result.length<1){
+	      				$('.search-results').html('<div style="border:1px solid #e9e9e9;margin-bottom:0px;" class="row"><div class="col s12" style="font-size:20px;">No Match Found</div></div>');	      				
+	      			}else{
+	      				for(var i=0;i<result.length;i++){
+		      				$('.search-results').append('<a href="/store/'+result[i].url+'" style="color:rgba(0, 0, 0, 0.85);"><div style="border:1px solid #e9e9e9;margin-bottom:0px;" class="row valign-wrapper"><div class="col s3"><img class="responsive-img" src="/images/'+result[i].image+'"></div><div class="col s9" style="font-size: 20px;">'+result[i].store+'</div></div></a>')
+		      			}
+	      			}	      			
+      			}      				      			      			
+      		}
+      		function mobilesearch(a){
+      			//console.log($(a).val());
+      			if($(a).val().trim()=='')
+      				$('.search-results').html('');
+      			else{
+      				var result=[], sto=new RegExp($(a).val().trim(),"i");
+	      			for(var i=0;i<stores.length;i++){
+	      				if(stores[i].store.match(sto)){
+	      					result.push(stores[i]);
+	      				}
+	      			}
+	      			$('.search-results').html('');
+	      			if(result.length<1){
+	      				$('.search-results').html('<div style="border:1px solid #e9e9e9;margin-bottom:0px;" class="row"><div class="col s12" style="font-size:20px;">No Match Found</div></div>');	      				
+	      			}else{
+	      				for(var i=0;i<result.length;i++){
+		      				$('.search-results').append('<a href="/store/'+result[i].url+'" style="color:rgba(0, 0, 0, 0.85);padding:0px;"><div style="border:1px solid #e9e9e9;margin-bottom:0px;" class="row"><div class="col s4" style="padding:0px;"><img class="responsive-img" src="/images/'+result[i].image+'"></div><div class="col s8" style="font-size:16px;padding:0px;line-height:34px;">'+result[i].store+'</div></div></a>')
+		      			}
+	      			}	      			
+      			}      				      			      			
+      		}
+      		function disappear(a){
+      			$('.search-results').html('');
+      		}
+      	</script>      	
+      	<style>
+      		@media screen and (min-width:993px){
+      			.padfour{
+      				padding-left:40px;
+      				padding-right:40px;
+      			}
+      			.container{
+      				width:90%;
+      			}
+      			.topoffer{height:190px;}
+      			.offerdesc{height:85px;}
+      		}
+      		@media screen and (max-width:600px){
+      			.commonmenu{
+      				padding-top:10px;
+      			}
+      			.container{
+      				width:95%;
+      			}
+      		}
+      		@media screen and (max-width:992px) and (min-width:601px){
+      			.container{
+      				width:92%;
+      			}
+      			.topoffer{height:190px;}
+      		}
+      		.waves-effect.waves-blue .waves-ripple{
+      			background-color:#2196f3;
+      		}
+      		.categoryitem:hover{background-color:#e0e0e0;}      		      		
+      	</style>      	
+	</head>
+	<body>
+		<!-- Header Begins -->
 		<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -44,231 +168,414 @@
   ga('send', 'pageview');
 
 </script>
-	</head>
-
-	<body>
-		<div class="container-fluid" style="padding: 0px;">
-			<!-- Header Begins-->
-			<div class="col-xs-12 col-sm-12 col-md-12 text-center" style="padding:0px;">
-				<div class="navbar navbar-default navbar-static-top" style="margin-bottom:0px;">
-					<div class="container">
-						<div class="navbar-header">
-							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-						        <span class="sr-only">Toggle navigation</span>
-						        <span class="icon-bar"></span>
-						        <span class="icon-bar"></span>
-						        <span class="icon-bar"></span>
-						  	</button>
-						    <a class="navbar-brand" href="/index.php" style="padding-top:8px;padding-bottom:0px;"><img src="/images/logo.png" style="width:204px;"></a>
+<ul class="side-nav" id="login-out">
+		
+</ul>
+<ul class="side-nav" id="mobile-demo">
+		<li class="hide-on-med-and-up" style="padding:0px;background-color:#fff;">
+		<div class="row" style="margin-bottom:0px;">
+			<div class="input-field col s12 m12 l12" style="display:table;position:relative;padding:0 5px;">
+	  			<input placeholder="Search For Stores" onkeyup="mobilesearch(this)" id="searchbox" type="text" class="validate" style="display:table-cell;color:#444;border-bottom:1px solid #444;">	  			
+	  			<div class="search-results" style="background-color:#fff;width:100%;position:absolute;left:0px;z-index:99999;">
+	      		</div>
+	      	</div>
+		</div>		
+	</li>
+		<li style="padding:0px;">
+    	<ul class="collapsible" data-collapsible="accordion" style="background-color:#fff;">
+			<li>
+				<a class="collapsible-header white-text" style="margin:0px;transition:background-color .3s;font-size:1rem;color:#fff;display:block;cursor:pointer;height:64px;line-height:55px;" onclick="$('#directlogin').openModal();return false;"><span class="btn amber" style="width:100%;">SIGN IN</span></a>				
+			</li>
+		</ul>
+    </li>	
+		
+	<li style="padding:0px;">
+    	<ul class="collapsible" data-collapsible="accordion" style="background-color:#fff;">
+			<li>
+				<a class="collapsible-header waves-effect waves-blue" href="/top-offers/1" style="margin:0px;"><i class="material-icons">thumb_up</i>Top Offers</a>
+			</li>
+		</ul>
+    </li>
+    <li style="padding:0px;">
+    	<ul class="collapsible" data-collapsible="accordion" style="background-color:#fff;">
+			<li>
+				<a class="collapsible-header waves-effect waves-blue" href="/latest-offers/1" style="margin:0px;"><i class="flaticon-buy7"></i>Latest Offers</a>
+			</li>
+		</ul>
+    </li>
+    <li style="padding:0px;">
+    	<ul class="collapsible" data-collapsible="accordion" style="background-color:#fff;">
+			<li>
+				<a class="collapsible-header waves-effect waves-blue" style="margin:0px;"><i class="material-icons">list</i>Categories</a>
+				<div class="collapsible-body">
+					<ul>
+						<li><a style="padding:0px;" class="waves-effect waves-blue" href="/category/smartphone-offers/3"><i class="flaticon-iphone26" style="margin:10px;"></i>Mobiles &amp; Tablets</a></li>
+						<li><a style="padding:0px;" class="waves-effect waves-blue" href="/category/fashion-offers/4"><i class="flaticon-tshirt18" style="margin:10px;"></i>Fashion</a></li>
+						<li><a style="padding:0px;" class="waves-effect waves-blue" href="/category/flowers-gifts-jewellery-offers/19"><i class="flaticon-gift85" style="margin:10px;"></i>Flowers, Gifts &amp; Jewellery</a></li>
+						<li><a style="padding:0px;" class="waves-effect waves-blue" href="/category/food-offers/6"><i class="flaticon-burger4" style="margin:10px;"></i>Food &amp; Dining</a></li>
+						<li><a style="padding:0px;" class="waves-effect waves-blue" href="/category/travel-offers/5"><i class="flaticon-airplane105" style="margin:10px;"></i>Travel</a></li>
+						<li><a style="padding:0px;" class="waves-effect waves-blue" href="/category/kids-offers/13"><i class="flaticon-baby63" style="margin:10px;"></i>Kids</a></li>
+						<li><a style="padding:0px;" class="waves-effect waves-blue" href="/category/computers-laptops-gaming-offers/7"><i class="flaticon-laptop112" style="margin:10px;"></i>Computers &amp; Laptops</a></li>
+						<li><a style="padding:0px;" class="waves-effect waves-blue" href="/category/beauty-offers/15"><i class="flaticon-heart8" style="margin:10px;"></i>Beauty &amp; Health</a></li>
+						<li><a style="padding:0px;" class="waves-effect waves-blue" href="/category/">Browse All Categories</a></li>      							
+					</ul>
+				</div>
+			</li>
+			<li>
+				<a class="collapsible-header waves-effect waves-blue" style="margin:0px;"><i class="flaticon-store5"></i>Stores</a>
+				<div class="collapsible-body">
+					<ul>
+						<li><a style="padding:0px;" class="waves-effect waves-blue" href="/store/Amazon/2">Amazon Promo Code</a></li>
+						<li><a style="padding:0px;" class="waves-effect waves-blue" href="/store/Flipkart/19">Flipkart Offers</a></li>
+						<li><a style="padding:0px;" class="waves-effect waves-blue" href="/store/Jabong/32">Jabong Coupons</a></li>
+						<li><a style="padding:0px;" class="waves-effect waves-blue" href="/store/Abof/306">Abof Coupons</a></li>
+						<li><a style="padding:0px;" class="waves-effect waves-blue" href="/store/Paytm/42">Paytm Coupons</a></li>
+						<li><a style="padding:0px;" class="waves-effect waves-blue" href="/store/Yepme/56">Yepme Coupons</a></li>
+						<li><a style="padding:0px;" class="waves-effect waves-blue" href="/store/Babyoye/106">Babyoye Coupons</a></li>
+						<li><a style="padding:0px;" class="waves-effect waves-blue" href="/store/Fernsnpetals/17">Ferns N Petals Coupons</a></li>
+						<li><a style="padding:0px;" class="waves-effect waves-blue" href="/store/Dominos/11">Dominos Promo Code</a></li>
+						<li><a style="padding:0px;" class="waves-effect waves-blue" href="/store/">Browse All Stores</a></li>      							
+					</ul>
+				</div>
+			</li>
+		</ul>    				
+    </li>	        
+</ul>		
+<div class="blue z-depth-1" style="position:fixed;width:100%;top:0px;z-index:99;height:80px;">
+	<div class="row valign-wrapper commonmenu">
+		<div class="hide-on-large-only col s1 m1">
+			<a href="#" data-activates="mobile-demo" class="button-collapse"><i class="white-text material-icons" style="color:#fff;">menu</i></a>
+		</div>
+		<div class="col s11 m3 l2">
+			<a href="/"><img class="responsive-img" src="/images/logo.png"></a>
+		</div>
+		<div class="hide-on-small-only col m8 l5" style="padding-left:0px;padding-right:0px;">
+			<div class="input-field col m12 l12" style="display:table;position:relative;">
+	          	<input id="first_name" onkeyup="search(this)" type="text" class="validate" style="display:table-cell;color:#FFF;border-bottom:1px solid #FFF;">
+	          	<label for="first_name" style="color:#FFF;">Search For Stores</label>
+	          	<div class="search-results" style="background-color:#fff;width:100%;position:absolute;z-index:999;top:50px;">
+	          		<!-- <a href="#" style="color:rgba(0, 0, 0, 0.85);">
+						<div style="border-bottom:1px solid rgb(233, 233, 233);margin-bottom:0px;" class="row">
+							<div class="col s3">
+							 	<img class="responsive-img" src="/images/kohlslogo.jpg">
+							</div>
+							<div class="col s9" style="font-size: 20px;">Kohls</div>
 						</div>
-						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-							<ul class="nav navbar-nav">
-								<li class="visible-xs visible-sm">
-									<div class="input-group">
-										<input class="form-control" type="text" id="search" placeholder="Search For Stores &amp; Offers" onkeydown="checkBtn(event)">
-										<span class="input-group-btn">
-											<button type="button" class="btn btn-primary" onclick="searchButton()"><span class="glyphicon glyphicon-search"></span></button>	        				
-										</span>
-									</div>
-								</li>
-								<li>
-									<a href="/index.php" style="padding-right:10px;padding-left:10px;"><span class="glyphicon glyphicon-home" style="color:#F9853C;"></span> <b>Home</b></a>
-								</li>
-								<li>
-									<a href="/top-offers/1" style="padding-right:10px;padding-left:10px;"><span class="glyphicon glyphicon-flag" style="color:#FFB740"></span> <b>Top Offers</b></a>
-								</li>
-								<li class="dropdown" style="position: static !important;">
-									<a data-toggle="dropdown" class="dropdown-toggle" href="#" aria-expanded="false" style="padding-right:10px;padding-left:10px;">
-										<span class="glyphicon glyphicon-menu-hamburger" style="color:#05B1E6;"></span> <b>Categories</b>
-					            	</a>
-					            	<ul class="dropdown-menu" style="width:100%;" role="menu">
-				            			<li class="col-md-3 col-sm-6" style="font-size:16px;">
-											<a href="/category/smartphone-offers/3" style="padding-left:7px;padding-right:7px;color:#666;"><b><span class="glyphicon glyphicon-phone" style="color:#05B1E6;"></span>  Smartphones</b></a>
-										</li>
-										<li class="col-md-3 col-sm-6" style="font-size:16px;">
-											<a href="/category/fashion-offers/4" style="padding-left:7px;padding-right:7px;color:#666;"><b><span class="glyphicon glyphicon-menu-right" style="color:#05B1E6;"></span>  Fashion</b></a>
-										</li>
-										<li class="col-md-3 col-sm-6" style="font-size:16px;">
-											<a href="/category/travel-offers/5" style="padding-left:7px;padding-right:7px;color:#666;"><b><span class="glyphicon glyphicon-plane" style="color:#05B1E6;"></span>  Travel</b></a>
-										</li>
-										<li class="col-md-3 col-sm-6" style="font-size:16px;">
-											<a href="/category/food-offers/6" style="padding-left:7px;padding-right:7px;color:#666;"><b><span class="glyphicon glyphicon-cutlery" style="color:#05B1E6;"></span>  Food</b></a>
-										</li>
-										<li class="col-md-3 col-sm-6" style="font-size:16px;">
-											<a href="/category/computers-laptops-gaming-offers/7" style="padding-left:7px;padding-right:7px; color:#666;"><b><span class="glyphicon glyphicon-menu-right" style="color:#05B1E6;"></span>  Computer &amp; Accessiories</b></a>
-										</li>
-										<li class="col-md-3 col-sm-6" style="font-size:16px;">
-											<a href="/category/books-stationary-offers/8" style="padding-left:7px;padding-right:7px;color:#666;"><b><span class="glyphicon glyphicon-menu-right" style="color:#05B1E6;"></span>  Books &amp; Stationary</b></a>
-										</li>
-										<li class="col-md-3 col-sm-6" style="font-size:16px;">
-											<a href="/category/camera-accessories-offers/9" style="padding-left:7px;padding-right:7px;color:#666;"><b><span class="glyphicon glyphicon-camera" style="color:#05B1E6;"></span>  Camera</b></a>
-										</li>
-										<li class="col-md-3 col-sm-6" style="font-size:16px;">
-											<a href="/category/beauty-offers/15" style="padding-left:7px;padding-right:7px;color:#666;"><b><span class="glyphicon glyphicon-leaf" style="color:#05B1E6;"></span>  Beauty</b></a>
-										</li>
-										<li class="col-md-3 col-sm-6" style="font-size:16px;">
-											<a href="/category/appliances-offers/10" style="padding-left:7px;padding-right:7px;color:#666;"><b><span class="glyphicon glyphicon-menu-right" style="color:#05B1E6;"></span>  Appliance</b></a>
-										</li>
-										<li class="col-md-3 col-sm-6" style="font-size:16px;">
-											<a href="/category/kids-offers/13" style="padding-left:7px;padding-right:7px;color:#666;"><b><span class="glyphicon glyphicon-menu-right" style="color:#05B1E6;"></span>  Kids</b></a>
-										</li>
-										<li class="col-md-12 col-sm-12" style="padding-top:10px;border-top:1px solid rgb(204, 204, 204);margin-top:4px;">
-											<a href="/category/" style="padding-left:10px;"><b><span class="glyphicon glyphicon-menu-hamburger" style="color:#05B1E6;"></span>  Categories</b></a>
-										</li>
-				            		</ul>
-								</li>
-								<li class="dropdown" style="position: static !important;">
-									<a data-toggle="dropdown" class="dropdown-toggle" href="#" aria-expanded="false" style="padding-right:10px;padding-left:10px;">
-										<span class="glyphicon glyphicon-star" style="color: #F43793;"></span> <b>Top Stores</b>
-					            	</a>
-					            	<ul class="dropdown-menu" style="width:100%;" role="menu">
-				            			<li class="col-md-4 col-sm-6">
-											<a href="/store/Amazon/2" style="padding-left:7px;padding-right:7px;color:#666;"><span class="glyphicon glyphicon-menu-right"></span>  Amazon</a>
-											<a href="/store/Askmebazaar/3" style="padding-left:7px;padding-right:7px;color:#666;"><span class="glyphicon glyphicon-menu-right"></span>  AskMeBazaar</a>
-											<a href="/store/Shopclues/47" style="padding-left:7px;padding-right:7px;color:#666;"><span class="glyphicon glyphicon-menu-right"></span>  Shopclues</a>
-											<a href="/store/Purplle/46" style="padding-left:7px;padding-right:7px;color:#666;"><span class="glyphicon glyphicon-menu-right"></span>  Purplle</a>
-											<a href="/store/Jabong/32" style="padding-left:7px;padding-right:7px; color:#666;"><span class="glyphicon glyphicon-menu-right"></span>  Jabong</a>
-											<a href="/store/Zovi/58" style="padding-left:7px;padding-right:7px;color:#666;"><span class="glyphicon glyphicon-menu-right"></span>  Zovi</a>
-										</li>
-										<li class="col-md-4 col-sm-6">
-											<a href="/store/Flipkart/19" style="padding-left:7px;padding-right:7px;color:#666;"><span class="glyphicon glyphicon-menu-right"></span>  Flipkart</a>
-											<a href="/store/Snapdeal/48" style="padding-left:7px;padding-right:7px;color:#666;"><span class="glyphicon glyphicon-menu-right"></span>  Snapdeal</a>
-											<a href="/store/Printvenue/45" style="padding-left:7px;padding-right:7px;color:#666;"><span class="glyphicon glyphicon-menu-right"></span>  Printvenue</a>
-											<a href="/store/Yepme/56" style="padding-left:7px;padding-right:7px;color:#666;"><span class="glyphicon glyphicon-menu-right"></span>  Yepme</a>
-											<a href="/store/Zivame/57" style="padding-left:7px;padding-right:7px;color:#666;"><span class="glyphicon glyphicon-menu-right"></span>  Zivame</a>
-											<a href="/store/Infibeam/31" style="padding-left:7px;padding-right:7px;color:#666;"><span class="glyphicon glyphicon-menu-right"></span>  Infibeam</a>
-										</li>
-										<li class="col-md-4 col-sm-6">
-											<a href="/store/Dominos/11" style="padding-left:7px;padding-right:7px;color:#666;"><span class="glyphicon glyphicon-menu-right"></span>  Dominos</a>
-											<a href="/store/Pepperfry/43" style="padding-left:7px;padding-right:7px;color:#666;"><span class="glyphicon glyphicon-menu-right"></span>  Pepperfry</a>
-											<a href="/store/Paytm/42" style="padding-left:7px;padding-right:7px;color:#666;"><span class="glyphicon glyphicon-menu-right"></span>  Paytm</a>
-										</li>
-										<li class="col-md-4 col-sm-6">
-											<a href="/store/Babyoye/106" style="padding-left:7px;padding-right:7px;color:#666;"><span class="glyphicon glyphicon-menu-right"></span>  Babyoye</a>
-											<a href="/store/Stalkbuylove/49" style="padding-left:7px;padding-right:7px;color:#666;"><span class="glyphicon glyphicon-menu-right"></span>  Stalkbuylove</a>
-											<a href="/store/Fernsnpetals/17" style="padding-left:7px;padding-right:7px;color:#666;"><span class="glyphicon glyphicon-menu-right"></span>  Fernsnpetals</a>
-										</li>
-										<li class="col-md-12 col-sm-12" style="padding-top:10px;border-top:1px solid rgb(204, 204, 204);margin-top:4px;">
-											<a href="/store/" style="padding-left:10px;"><b><span class="glyphicon glyphicon-menu-hamburger" style="color: #F43793;"></span>  More Stores</b></a>
-										</li>
-				            		</ul>
-								</li>
-								<li>
-									<a href="/latest-offers/1" style="padding-right:10px;padding-left:10px;"><span class="glyphicon glyphicon-road" style="color:#A2CE54"></span> <b>Latest Offers</b></a>
-								</li>
-								<li class="dropdown visible-md visible-lg" style="position: static !important;">
-									<a data-toggle="dropdown" class="dropdown-toggle" href="#" aria-expanded="false" style="padding-right:10px;padding-left:10px;">
-										<span class="glyphicon glyphicon-search" style="color: #F43793;"></span>
-					            	</a>
-					            	<ul class="dropdown-menu" style="width:100%;" id="sea">
-				            			<li class="col-md-offset-3 col-md-6 col-md-offset-3">
-				            				<form action="/search.php" method="get">
-				            				<div class="input-group">
-					            				<input class="form-control" type="text" placeholder="" name="q">
-												<span class="input-group-btn">
-													<button type="submit" class="btn btn-primary"><span class="glyphicon glyphicon-search"></span></button>
-												</span>
-											</div>
-											</form>
-				            			</li>
-				            		</ul>
-				            	</li>		
-							</ul>
-						</div>
-					</div>
+					</a> -->
+	          	</div>					          	
+	        </div>
+		</div>
+		<div class="col hide-on-med-and-down l5" style="padding-left:0px;padding-right:0px;position:relative;">
+			<ul style="list-style-type:none;">				
+		        <li style="float:left;display:list-item;padding:0;"><a class="white-text" href="/top-offers/1" style="transition:background-color .3s;font-size:1rem;color:#fff;display:block;padding:0 15px;cursor:pointer;height:64px;line-height:64px;">Top Offers</a></li>
+		        <li style="float:left;display:list-item;padding:0;"><a id="dropCategory" class="white-text" style="transition:background-color .3s;font-size:1rem;padding:0 15px;color:#fff;display:block;cursor:pointer;height:64px;line-height:64px;">Categories</a></li>
+		        <li style="float:left;display:list-item;padding:0;"><a id="dropStore" class="white-text" style="transition:background-color .3s;font-size:1rem;padding:0 15px;color:#fff;display:block;cursor:pointer;height:64px;line-height:64px;">Stores</a></li>
+		        <li style="float:left;display:list-item;padding:0;"><a class="white-text" style="transition:background-color .3s;font-size:1rem;color:#fff;display:block;cursor:pointer;height:64px;line-height:55px;" onclick="$('#directlogin').openModal();return false;"><span class="btn amber">SIGN IN</span></a> </li>
+			</ul>
+			<div id="categories" class="container row z-depth-1" style="display:none;position:absolute;background-color:#fff;top:70px;width:97%;z-index:999;">
+				<div class="col s6" style="padding:0px;">
+					<div class="col s12 categoryitem" style="0 0.65rem;"><a style="padding:8px 0px;" class="black-text waves-effect waves-blue" href="/category/smartphone-offers/3" title="Mobiles &amp; Tablets Offers"><i class="flaticon-iphone26" style="margin:10px;"></i>Mobiles &amp; Tablets</a></div>
+					<div class="col s12 categoryitem" style="0 0.65rem;"><a style="padding:8px 0px;" class="black-text waves-effect waves-blue" href="/category/fashion-offers/4" title="Fashion Offers"><i class="flaticon-tshirt18" style="margin:10px;"></i>Fashion</a></div>
+					<div class="col s12 categoryitem" style="0 0.65rem;"><a style="padding:8px 0px;" class="black-text waves-effect waves-blue" href="/category/flowers-gifts-jewellery-offers/19" title="Flowers &amp; Gifts Offers"><i class="flaticon-gift85" style="margin:10px;"></i>Flowers &amp; Gifts </a></div>
+					<div class="col s12 categoryitem" style="0 0.65rem;"><a style="padding:8px 0px;" class="black-text waves-effect waves-blue" href="/category/food-offers/6" title="Food &amp; Dining Offers"><i class="flaticon-burger4" style="margin:10px;"></i>Food &amp; Dining</a></div>
+				</div>
+				<div class="col s6" style="padding:0px;">
+					<div class="col s12 categoryitem" style="0 0.65rem;"><a style="padding:8px 0px;" class="black-text waves-effect waves-blue" href="/category/travel-offers/5" title="Travel Offers"><i class="flaticon-airplane105" style="margin:10px;"></i>Travel</a></div>
+					<div class="col s12 categoryitem" style="0 0.65rem;"><a style="padding:8px 0px;" class="black-text waves-effect waves-blue" href="/category/kids-offers/13" title="Kids Offers"><i class="flaticon-baby63" style="margin:10px;"></i>Kids</a></div>
+					<div class="col s12 categoryitem" style="0 0.65rem;"><a style="padding:8px 0px;" class="black-text waves-effect waves-blue" href="/category/computers-laptops-gaming-offers/7" title="Computers &amp; Laptops Offers"><i class="flaticon-laptop112" style="margin:10px;"></i>Computers &amp; Laptops</a></div>
+					<div class="col s12 categoryitem" style="0 0.65rem;"><a style="padding:8px 0px;" class="black-text waves-effect waves-blue" href="/category/beauty-offers/15" title="Beauty &amp; Health Offers"><i class="flaticon-heart8" style="margin:10px;"></i>Beauty &amp; Health</a></div>
+				</div>
+				<div class="col s12 center-align categoryitem" style="border-top:1px solid #ccc;">
+					<a style="padding:8px 0px;" title="Browse Categories" class="black-text waves-effect waves-blue" href="/category/">Browse All Categories</a>
 				</div>
 			</div>
-			<!-- Header Ends-->
-			<!-- Content Begins -->
-			<div class="col-xs-12 col-sm-12 col-md-12" style="background-color: #f2f2f2;">
-				<div class="col-xs-2 col-sm-2 col-md-2"></div>
-				<div class="col-xs-8 col-sm-8 col-md-8" style="box-shadow:1px 1px 5px #888888; padding:10px; background-color: #fff;">
-					<h3 style="color: #333; text-align: center; font-style: italic;">Privacy Policy</h3>
-					<b>What information do we collect?</b><br>						
-					We collect information from you when you subscribe to our newsletter. When ordering or registering on our site, as appropriate, you may be asked to enter your: e-mail address. You may, however, visit our site anonymously. This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.<br><br>
-					<b>What do we use your information for?</b><br>
-				    Any of the information we collect from you may be used in one of the following ways: To personalize your experience (your information helps us to better respond to your individual needs) To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you) To send periodic emails The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. How do we protect your information? We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.<br><br>
-				    <b>Do we use cookies?</b><br>
-				    Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information We use cookies to understand and save your preferences for future visits. Do we disclose any information to outside parties? We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.<br><br>
-				    <b>Third party links</b><br>
-				    Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. Children  Online Privacy Protection Act Compliance We are in compliance with the requirements of COPPA (Children  Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. Use of Site Browsing History By using website www.discountandyou.com, you consent to collection, storage, and use of your browsing history on this website. We share this information with trusted 3rd parties that use it to show you marketing communications of interest only. While no Personally Identifiable Information is shared, we respect your right to privacy hence this transparent disclosure. In addition, we respect your right to opt out. If you want to opt out from this program, please click on the link below and select the appropriate option on the destination page – Opt Out Page. In addition, most setup your browser software to reject 3rd party cookies. In addition, you can opt out of several similar programs by visiting the Network Advertising Initiative gateway opt-out site. Your Consent By using our site, you consent to our websites privacy policy. Changes to our Privacy Policy If we decide to change our privacy policy, we will post those changes on this page.<br><br>
-					http://www.discountanyou.com
-										
+			<div id="stores" class="container row z-depth-1" style="display:none;position:absolute;background-color:#fff;top:70px;width:95%;z-index:999;">
+				<div class="col s6" style="padding:0px;">
+					<div class="col s12 categoryitem"><a style="padding:8px 0px;" class="black-text waves-effect waves-blue" href="/store/Amazon/2" title="Amazon Promo Code">Amazon Promo Code</a></div>
+					<div class="col s12 categoryitem"><a style="padding:8px 0px;" class="black-text waves-effect waves-blue" href="/store/Flipkart/19" title="Flipkart Offers">Flipkart Offers</a></div>
+					<div class="col s12 categoryitem"><a style="padding:8px 0px;" class="black-text waves-effect waves-blue" href="/store/Abof/306" title="Abof Coupons">Abof Coupons</a></div>
+					<div class="col s12 categoryitem"><a style="padding:8px 0px;" class="black-text waves-effect waves-blue" href="/store/Paytm/42" title="Paytm Coupons">Paytm Coupons</a></div>
 				</div>
-				<div class="col-xs-2 col-sm-2 col-md-2"></div>
-			</div>	
-			<!-- Content Ends -->
-			<!-- Footer Begins -->
-			<div class="col-xs-12 col-sm-12 col-md-12" style="padding-left:0px;padding-right:0px;">
-				<div class="col-md-12 col-sm-12" style="background-color:#606060;padding-top:40px;">
-					<div class="col-md-1"></div>
-					<div class="col-md-10">
-						<div class="col-md-12">
-							<div class="col-md-4">
-								<a href="index.php" title="Home"><img src="images/logo.png" class="img-responsive center-block text-center"></a>
-							</div>
-							<div class="col-md-4">
-								<h4 style="color:#fff;">Quick Links</h4>
-								<div class="col-md-6" style="padding:0px;">
-									<a href="index.php" style="color:#fff;"><span class=""></span>Home</a><br>
-									<a href="contactus.html" style="color:#fff;"><span class=""></span>Contact Us</a>
-								</div>
-								<div class="col-md-6" style="padding:0px;">
-									<a href="privacypolicy.html" style="color:#fff;">Privacy Policy</a><br>
-									<a href="termsofservice.html" style="color:#fff;">Terms Of Service</a>
-								</div>
-							</div>
-							<div class="col-md-4">
-								<h4 style="color:#fff;">Subscribe For Updates</h4>
-								<div class="input-group">
-									<input type="text" class="form-control" id="subscribe" placeholder="Enter Your Mail ID">
-									<span class="input-group-btn">
-										<button class="btn btn-success" type="button" onclick="subscriber()">
-											Subscribe
-										</button> 
-									</span>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-12" style="padding-top:10px; padding-bottom:10px;margin-top:10px;border-top:1px solid #fff;">
-							<div class="col-md-6 hidden-sm hidden-xs text-left">
-								<p style="color:#fff;">Copyright © DiscountAndYou 2015. All rights reserved</p>
-							</div>
-							<div class="col-sm-12 hidden-md hidden-lg text-center">
-								<p style="color:#fff;">Copyright © DiscountAndYou 2015. All rights reserved</p>
-							</div>
-							<div class="col-md-2"></div>
-							<div class="col-md-4 hidden-sm hidden-xs text-right">
-								<a rel="nofollow" href="http://www.facebook.com/discountandyou" target="_blank"><span class="hvr-outline-out icon-facebook3 text-center fb" style="color:#3b5998;width:36px; height:36px;border-radius:100%;background-color:#fff;"></span></a>
-								<a rel="nofollow" href="http://plus.google.com/+discountandyouindia" target="_blank"><span class="hvr-outline-out icon-google-plus3 text-center gp" style="color:#db4a39;width:36px; height:36px;border-radius:100%;background-color:#fff;"></span></a>
-								<a rel="nofollow" href="http://www.twitter.com/idiscountandyou" target="_blank"><span class="hvr-outline-out icon-twitter3 text-center tw" style="color:#00a0d1;width:36px; height:36px;border-radius:100%;background-color:#fff;"></span></a>
-								<a rel="nofollow" href="#" target="_blank"><span class="hvr-outline-out icon-pinterest text-center pi" style="color:#c8232c;width:36px; height:36px;border-radius:100%;background-color:#fff;"></span></a>
-							</div>
-							<div class="col-sm-12 hidden-md hidden-lg text-center">
-								<a rel="nofollow" href="http://www.facebook.com/discountandyou" target="_blank"><span class="hvr-outline-out icon-facebook3 text-center fb" style="color:#3b5998;width:36px; height:36px;border-radius:100%;background-color:#fff;"></span></a>
-								<a rel="nofollow" href="http://plus.google.com/+discountandyouindia" target="_blank"><span class="hvr-outline-out icon-google-plus3 text-center gp" style="color:#db4a39;width:36px; height:36px;border-radius:100%;background-color:#fff;"></span></a>
-								<a rel="nofollow" href="http://www.twitter.com/idiscountandyou" target="_blank"><span class="hvr-outline-out icon-twitter3 text-center tw" style="color:#00a0d1;width:36px; height:36px;border-radius:100%;background-color:#fff;"></span></a>
-								<a rel="nofollow" href="#" target="_blank"><span class="hvr-outline-out icon-pinterest text-center pi" style="color:#c8232c;width:36px; height:36px;border-radius:100%;background-color:#fff;"></span></a>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-1"></div>
+				<div class="col s6" style="padding:0px;">
+					<div class="col s12 categoryitem"><a style="padding:8px 0px;" class="black-text waves-effect waves-blue" href="/store/Yepme/56" title="Yepme Coupons">Yepme Coupons</a></div>
+					<div class="col s12 categoryitem"><a style="padding:8px 0px;" class="black-text waves-effect waves-blue" href="/store/Babyoye/106" title="Babyoye Coupons">Babyoye Coupons</a></div>
+					<div class="col s12 categoryitem"><a style="padding:8px 0px;" class="black-text waves-effect waves-blue" href="/store/Fernsnpetals/17" title="Ferns N Petals Coupons">Ferns N Petals Coupons</a></div>
+					<div class="col s12 categoryitem"><a style="padding:8px 0px;" class="black-text waves-effect waves-blue" href="/store/Dominos/11" title="Dominos Promo Code">Dominos Promo Code</a></div>
+				</div>
+				<div class="col s12 center-align categoryitem" style="border-top:1px solid #ccc;">
+					<a style="padding:8px 0px;" title="Browse Stores" class="black-text waves-effect waves-blue" href="/store/">Browse All Stores</a>
 				</div>
 			</div>
-			<!-- Footer Ends -->
 		</div>	
-		<!--Start of Tawk.to Script-->
-		<script type="text/javascript">
-			var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-			(function(){
-			var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-			s1.async=true;
-			s1.src='https://embed.tawk.to/55fbfd7a74ea327f08497a08/default';
-			s1.charset='UTF-8';
-			s1.setAttribute('crossorigin','*');
-			s0.parentNode.insertBefore(s1,s0);
-			})();
-		</script>
-		<!--End of Tawk.to Script-->
+	</div>
+</div>
+<script>
+	var x=0,y=0;
+	function categorymenu(){
+		if(x==0){
+			$('#dropStore').removeClass('blue darken-1');$('#dropCategory').addClass('blue darken-1');$('#categories').css('display','block');$('#stores').css('display','none');x=1;y=0;
+		}else{
+			$('#dropStore').removeClass('blue darken-1');$('#dropCategory').removeClass('blue darken-1');$('#categories').css('display','none');$('#stores').css('display','none');x=0;y=0;
+		}
+	}
+	function storemenu(){
+		if(y==0){
+			$('#dropStore').addClass('blue darken-1');$('#dropCategory').removeClass('blue darken-1');$('#stores').css('display','block');$('#categories').css('display','none');y=1;x=0;
+		}else{
+			$('#dropStore').removeClass('blue darken-1');$('#dropCategory').removeClass('blue darken-1');$('#stores').css('display','none');$('#categories').css('display','none');y=0;x=0;
+		}
+	}
+</script>		<!-- Header Ends -->
+		<div class="container" style="margin-top:100px;">
+			<div class="row">
+				<div class="card col s12 m12 l12" style="padding-top:1rem;padding-bottom:1rem;">
+					<h1 class="center-align" style="font-size:2rem;">Privacy Policy</h1>
+					<p><b>What information do we collect?</b></p>
+					<p>We collect information from you when you subscribe to our newsletter. When ordering or registering on our site, as appropriate, you may be asked to enter your: e-mail address. You may, however, visit our site anonymously. This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven't completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.</p>
+					<p><b>What do we use your information for?</b></p>
+					<p>Any of the information we collect from you may be used in one of the following ways: To personalize your experience (your information helps us to better respond to your individual needs) To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you) To send periodic emails The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. How do we protect your information? We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.</p>
+					<p><b>Do we use cookies?</b></p>
+					<p>Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information We use cookies to understand and save your preferences for future visits. Do we disclose any information to outside parties? We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
+					<p><b>Third party links</b></p>
+					<p>Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. Children Online Privacy Protection Act Compliance We are in compliance with the requirements of COPPA (Children Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. Use of Site Browsing History By using website www.discountandyou.com, you consent to collection, storage, and use of your browsing history on this website. We share this information with trusted 3rd parties that use it to show you marketing communications of interest only. While no Personally Identifiable Information is shared, we respect your right to privacy hence this transparent disclosure. In addition, we respect your right to opt out. If you want to opt out from this program, please click on the link below and select the appropriate option on the destination page â€“ Opt Out Page. In addition, most setup your browser software to reject 3rd party cookies. In addition, you can opt out of several similar programs by visiting the Network Advertising Initiative gateway opt-out site. Your Consent By using our site, you consent to our websites privacy policy. Changes to our Privacy Policy If we decide to change our privacy policy, we will post those changes on this page.</p>
+				</div>
+			</div>
+		</div>
+		<!-- Footer Begins -->
+		<style>.footertitle{font-size:1.5em;color:#ff9800;}.footerlinkcont:hover{background-color:rgba(0,0,0,0.04);}.footerlink{color:#bdbdbd;}</style>
+<div class="row grey darken-4" style="margin-bottom:0px;">
+	<div class="container">
+		<div class="row" style="margin-bottom:0px;padding-top:20px;">
+			<div class="col s12 m12 l12">
+				<div class="" style="margin-top:0px;">
+					<div class="row card-content" style="padding-top:0px;padding-left:20px;padding-right:20px;">
+						<div class="col s12 m6 l4">
+							<h4 class="footertitle">Popular Stores Coupons</h4>
+							<p class="footerlinkcont"><a class="footerlink" href="/store/Ebay/12" title="Ebay Coupons">Ebay Coupons</a></p>
+							<p class="footerlinkcont"><a class="footerlink" href="/store/Zivame/57" title="Zivame Coupons">Zivame Coupons</a></p>
+							<p class="footerlinkcont"><a class="footerlink" href="/store/LimeRoad/102" title="Limeroad Coupons">Limeroad Coupons</a></p>
+							<p class="footerlinkcont"><a class="footerlink" href="/store/Trendin/51" title="Trendin Coupons">Trendin Coupons</a></p>
+						</div>
+						<div class="col s12 m6 l4">
+							<h4 class="footertitle">Shop By Categories</h4>
+							<p class="footerlinkcont"><a class="footerlink" href="/category/food-offers/6" title="Food &amp; Dining Offers"><i class="flaticon-burger4" style="margin-right:10px;"></i>Food &amp; Dining Offers</a></p>
+							<p class="footerlinkcont"><a class="footerlink" href="/category/home-furnishing-offers/11" title="Home Furnishing Offers"><i class="flaticon-sofa10" style="margin-right:10px;"></i>Home Furnishing Offers</a></p>
+							<p class="footerlinkcont"><a class="footerlink" href="/category/books-stationary-offers/8" title="Books &amp; Stationary Offers"><i class="flaticon-books8" style="margin-right:10px;"></i>Books &amp; Stationary Offers</a></p>
+							<p class="footerlinkcont"><a class="footerlink" href="/category/sports-fitness-offers/14" title="Sports &amp; Fitness Offers"><i class="flaticon-football28" style="margin-right:10px;"></i>Sports &amp; Fitness Offers</a></p>
+						</div>
+						<div class="col s12 m6 l4">
+							<h4 class="footertitle">All Tags</h4>
+							<p class="footerlinkcont"><a class="footerlink" href="/latest-offers/1" title="Latest Offers">Latest Offers</a></p>
+							<p class="footerlinkcont"><a class="footerlink" href="/contactus.html" title="Contact Us">Contact Us</a></p>
+							<p class="footerlinkcont"><a class="footerlink" href="/privacypolicy.html" title="Privacy Policy">Privacy Policy</a></p>
+							<p class="footerlinkcont"><a class="footerlink" href="/termsofservice.html" title="Terms Of Service">Terms Of Service</a></p>			
+						</div>
+					</div>				
+				</div>
+			</div>						
+		</div>		
+	</div>
+</div>
+<div class="row grey darken-4" style="margin-bottom:0px;">
+	<div class="container">
+		<div class="row" style="margin-bottom:0px;padding-top:20px;">
+			<div class="col s12 m12 l12">
+				<div class="" style="margin-top:0px;margin-bottom:0px;">
+					<div class="row card-content" style="padding-top:0px;padding-left:20px;padding-right:20px;margin-bottom:0px;">
+						<div class="col s12 m6 l6">
+							<img class="responsive-img" src="/images/logo.png" width="240">
+							<p class="footerlink grey-text text-lighten-1">Want to do smart online shopping with saving experiences? If yes, why not go for discountandyou.com where you get innumerable latest codes, offers, deals and coupons that not only give you saving experiences but also present you with the top brands like Amazon, Foodpanda, Yepme, Jabong, Dominos, Snapdeal, Flipkart, Zovi, Ticketgoose, Printvenue, Makemytrip and many more under a single roof.</p>
+						</div>
+						<div class="col s12 m6 l6 center-align">
+							<h4 class="grey-text text-lighten-1" style="font-size:20px;">Follow Us On Social Media</h4>
+							<a href="https://www.facebook.com/discountandyou" style="position:relative;top:5px;"><img width="32" src="/images/facebook_logo.png" style="margin:0px 10px;"></a>
+							<a href="https://twitter.com/idiscountandyou" style="position:relative;top:5px;"><img width="32" src="/images/twitter_logo.png" style="margin:0px 10px;"></a>
+							<a href="https://plus.google.com/115038268530669484229" style="position:relative;top:5px;"><img width="32" src="/images/googleplus_logo.png" style="margin:0px 10px;"></a>
+							<a href="https://www.instagram.com/discountandyou" style="position:relative;top:5px;"><img width="32" src="/images/instagram_logo.png" style="margin:0px 10px;"></a>							
+						</div>
+						<div class="col s12 m12 l12 center-align grey-text text-lighten-1" style="margin-top:0.75rem;padding-top:0.75rem;border-top:1px solid #f5f5f5;">
+							<p style="display:inline;font-size:18px;">© 2016 Discountandyou 6289 Coupons for 300+ stores</p>
+						</div>						
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="directlogin" class="white modal">
+	<div class="modal-content">
+  		<h4 class="center-align"><span style="border-bottom:1px solid #6d6969;font-size:2rem;">Login To Earn Cashback</span></h4>
+  		<a class="modal-close" style="position:absolute;top:-25px;right:0px;font-size:50px;">×</a>
+  		<div class="row center-align">
+  			<a href="#" class="btn blue waves-effect waves-light" style="padding:0 10px;">Login With Facebook</a>
+  		</div>
+  		<div class="row center-align grey-text">
+  			-------------------OR-------------------
+  		</div>
+  		<div class="row">
+  			<div class="input-field col s12">
+	       		<input id="directloginemail" type="text" class="validate">
+	          	<label for="directloginemail">Email Address</label>
+	        </div>
+	        <div class="input-field col s12">
+	          	<input id="directloginpassword" type="password" class="validate">
+	          	<label for="directloginpassword">Password</label>
+	        </div>
+	        <div class="input-field col s12">
+	          	<a href="#" onclick="$('#directlogin').closeModal();$('#forgetpassword').openModal();return false;">Forget Password</a>
+	        </div>
+		</div>
+		<div class="row">
+			<div class="col hide-on-med-and-up s12" style="margin-bottom:15px;">
+				<button class="waves-effect waves-light btn amber" style="width:100%;" onclick="login(0);">Login</button>
+			</div>
+			<div class="col hide-on-med-and-up s12">
+				<button class="waves-effect waves-light btn deep-orange" style="width:100%;" onclick="$('#directlogin').closeModal();$('#directregister').openModal();">Register</button>			  			
+			</div>
+			<div class="col hide-on-small-only m12 l12">
+				<button class="waves-effect waves-light btn amber" onclick="login(0);">Login</button>
+				<button class="waves-effect waves-light btn deep-orange" onclick="$('#directlogin').closeModal();$('#directregister').openModal();">Register</button>			  			
+			</div>			  					  		
+		</div>
+	</div>
+</div>
+<div id="directregister" class="white modal">
+	<div class="modal-content">
+  		<h4 class="center-align"><span style="border-bottom:1px solid #6d6969;font-size:2rem;">Register</span></h4>
+  		<a class="modal-close" style="position:absolute;top:-25px;right:0px;font-size:50px;">×</a>
+  		<div class="row">
+  			<div class="input-field col s12">
+	       		<input id="directregistername" type="text" class="validate">
+	          	<label for="directregistername">Full Name</label>
+	        </div>
+  			<div class="input-field col s12">
+	       		<input id="directregisteremail" type="text" class="validate">
+	          	<label for="directregisteremail">Email Address</label>
+	        </div>
+	        <div class="input-field col s12">
+	          	<input id="directregisterpassword" type="password" class="validate">
+	          	<label for="directregisterpassword">Password</label>
+	        </div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col hide-on-med-and-up s12" style="margin-bottom:15px;">
+			<button class="waves-effect waves-light btn deep-orange" style="width:100%;" onclick="register(0)">Register</button>					
+		</div>
+		<div class="col hide-on-med-and-up s12">
+			<button class="waves-effect waves-light btn amber" style="width:100%;" onclick="$('#directregister').closeModal();$('#directlogin').openModal();">Login</button>			  			
+		</div>
+		<div class="col hide-on-small-only m12 l12">					
+			<button class="waves-effect waves-light btn deep-orange" onclick="register(0)">Register</button>
+			<button class="waves-effect waves-light btn amber" onclick="$('#directregister').closeModal();$('#directlogin').openModal();">Login</button>			  			
+		</div>			  					  		
+	</div>
+</div>
+<div id="forgetpassword" class="white modal">
+	<div class="modal-content">
+  		<h4 class="center-align"><span style="border-bottom:1px solid #6d6969;font-size:2rem;">Forget Password</span></h4>
+  		<a class="modal-close" style="position:absolute;top:-25px;right:0px;font-size:50px;">×</a>
+  		<a href="#" style="position:absolute;top:0px;left:10px;font-size:20px;" onclick="$('#forgetpassword').closeModal();$('#login').openModal();">&lt; Back</a>
+  		<div class="row">
+  			<div class="input-field col s12">
+	       		<input id="forgetemail" type="text" class="validate">
+	          	<label for="forgetemail">Email Address</label>
+	        </div>	        
+		</div>
+		<div class="row">
+			<div class="col s12" style="margin-bottom:15px;">
+				<button class="waves-effect waves-light btn amber" onclick="forget();">Reset Password</button>
+			</div>						  					  		
+		</div>
+	</div>
+</div>
+<div id="login" class="white modal">
+	<div class="modal-content">
+  		<h4 class="center-align"><span style="border-bottom:1px solid #6d6969;font-size:2rem;">Login To Earn Cashback</span></h4>
+  		<a class="modal-close" style="position:absolute;top:-25px;right:0px;font-size:50px;">×</a>
+  		<div class="row center-align">
+  			<a href="#" class="btn blue waves-effect waves-light" style="padding:0 10px;">Login With Facebook</a>
+  		</div>
+  		<div class="row center-align grey-text">
+  			-------------------OR-------------------
+  		</div>
+  		<div class="row">
+  			<div class="input-field col s12">
+	       		<input id="loginemail" type="text" class="validate">
+	          	<label for="loginemail">Email Address</label>
+	        </div>
+	        <div class="input-field col s12">
+	          	<input id="loginpassword" type="password" class="validate">
+	          	<label for="loginpassword">Password</label>
+	        </div>
+	        <div class="input-field col s12">
+	          	<a href="#" onclick="$('#login').closeModal();$('#forgetpassword').openModal();return false;">Forget Password</a>
+	        </div>
+		</div>
+		<div class="row">
+			<div class="col hide-on-med-and-up s12" style="margin-bottom:15px;">
+				<button class="waves-effect waves-light btn amber" style="width:100%;" onclick="login(1);">Login</button>
+			</div>
+			<div class="col hide-on-med-and-up s12">
+				<button class="waves-effect waves-light btn deep-orange" style="width:100%;" onclick="$('#login').closeModal();$('#register').openModal();">Register</button>			  			
+			</div>
+			<div class="col hide-on-small-only m12 l12">
+				<button class="waves-effect waves-light btn amber" onclick="login(1);">Login</button>
+				<button class="waves-effect waves-light btn deep-orange" onclick="$('#login').closeModal();$('#register').openModal();">Register</button>			  			
+			</div>			  					  		
+		</div>
+	</div>
+</div>
+<div id="register" class="white modal">
+	<div class="modal-content">
+  		<h4 class="center-align"><span style="border-bottom:1px solid #6d6969;font-size:2rem;">Register</span></h4>
+  		<a class="modal-close" style="position:absolute;top:-25px;right:0px;font-size:50px;">×</a>
+  		<div class="row">
+  			<div class="input-field col s12">
+	       		<input id="registername" type="text" class="validate">
+	          	<label for="registername">Full Name</label>
+	        </div>
+  			<div class="input-field col s12">
+	       		<input id="registeremail" type="text" class="validate">
+	          	<label for="registeremail">Email Address</label>
+	        </div>
+	        <div class="input-field col s12">
+	          	<input id="registerpassword" type="password" class="validate">
+	          	<label for="registerpassword">Password</label>
+	        </div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col hide-on-med-and-up s12" style="margin-bottom:15px;">
+			<button class="waves-effect waves-light btn deep-orange" style="width:100%;" onclick="register(1)">Register</button>					
+		</div>
+		<div class="col hide-on-med-and-up s12">
+			<button class="waves-effect waves-light btn amber" style="width:100%;" onclick="$('#register').closeModal();$('#login').openModal();">Login</button>			  			
+		</div>
+		<div class="col hide-on-small-only m12 l12">					
+			<button class="waves-effect waves-light btn deep-orange" onclick="register(1)">Register</button>
+			<button class="waves-effect waves-light btn amber" onclick="$('#register').closeModal();$('#login').openModal();">Login</button>			  			
+		</div>			  					  		
+	</div>
+</div>
+<!-- No Coupon Code -->
+<div id="nocouponcode" class="modal">
+	<div class="modal-content center-align white">
+  		<h4><span style="border-bottom:1px solid #6d6969;">No Coupon Code Required</span></h4>
+  		<a class="modal-close" style="position:absolute;top:-25px;right:0px;font-size:50px;">×</a>
+  		<p>Deal Activated</p>
+  		<p>Visit <a href="#" class="popstore waves-effect waves-light" target="_blank"></a> &amp; Avail this Offer</p>
+	</div>	
+</div>
+<!-- Coupon Code Required -->
+<div id="couponcoderequired" class="modal">
+	<div class="modal-content center-align white">
+  		<h4><span style="border-bottom:1px solid #6d6969;">Your Coupon Code</span></h4>
+  		<a class="modal-close" style="position:absolute;top:-25px;right:0px;font-size:50px;">×</a>
+  		<p><span id="popcode" style="font-size:18px;border:1px dashed rgb(0,0,0);padding:5px;"></span></p>
+  		<p>Visit <a href="#" class="popstore waves-effect waves-light" target="_blank"></a> &amp; Avail this Offer</p>
+	</div>	
+</div>
+		<!-- Footer Ends -->
 	
 </body></html>
