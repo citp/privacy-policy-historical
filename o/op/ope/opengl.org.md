@@ -1,35 +1,77 @@
-> *The following text is extracted and transformed from the opengl.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905085731id_/https%3A//www.opengl.org/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opengl.org privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510142604id_/https%3A//www.opengl.org/legal) for the most accurate reproduction.*
 
 # OpenGL.org Privacy Policy
 
-At OpenGL.org protecting your privacy is very important to us. Our goal is to treat your personal information with the utmost respect and in accordance with this Privacy Policy. Please review it for information about how information collected on this site is used. By using this site, you agree to the terms of this Privacy Policy.
+This Privacy Policy governs the manner in which The Khronos Group, Inc. ("Khronos") collects, uses, maintains and discloses information collected from the user ("User") of the opengl.org website ("Site"). This privacy policy applies to the Site and all products and services offered by the Company on the Site.
 
-### Information collection and use
+## Personal identification information
 
-OpenGL.org is the sole collector and owner of information collected on this website. We will not use information collected on this website other than as disclosed in this Privacy Policy.
+Khronos collects personal identification information from Users in a variety of ways, including, but not limited to, when Users visit the Site, subscribe to the newsletter, and in connection with other activities, services, features or resources Khronos makes available on the Site. Users may be asked for, as appropriate, name, and email address. Khronos will collect personal identification information from Users only if they voluntarily submit such information to Khronos. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-### Use of cookies
+## Non-personal identification information
 
-Cookies are small packets of data that are placed on your computer’s hard drive. Cookies used by OpenGL.org do not contain anything other than a unique session identifier. We may use cookies for identifying you as an authorized user of this website. Your browser will normally automatically accept cookies, but you do have the option of disabling them. However, if you do so, your ability to use this website may be limited.
+The Site collects non-personal identification information about Users whenever they interact with our Site. Non-personal identification information collected in our log files include:
 
-### Collection of pageviews and clickstream data 
+  * Internet Protocol (IP) addresses
+  * Type of browser
+  * Internet Service Provider (ISP)
+  * Date and time stamp
+  * Referring and landing pages
 
-OpenGL.org may collect pageview and clickstream data each time you access this website. Pageview and clickstream data includes information about what pages on the website you have chosen to view, and how you have selected or clicked them, and may also include your IP address, the type of browser you use, your operating system, the website you came from and the time and date you access the website. This information is collected to measure the number of visits and other statistics about the use of our site, in order to monitor site performance, to make the site easier and more convenient to use, and to gather and analyze broad demographic information.
 
-### Sharing of information 
 
-No personal information collected by OpenGL.org is shared with any third party.
+## Web browser cookies
 
-### Linked sites 
+The Site uses "cookies" to enhance the User experience. Similar to most websites, a User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, some parts of the Site may not function properly.
 
-This site may contain links to other sites. While we try to link only to sites that share our high standards and respect for privacy, please understand that we are not responsible for the content or the privacy practices employed by other sites.
+## How Khronos uses collected information
 
-### Accessing and updating personal information 
+Khronos may collect and use Users personal information for the following purposes:
 
-In order to continually monitor and strengthen our privacy procedure, we have on staff a Manager of Privacy, who can be contacted at privacy (at) OpenGL.org.
+  * _To improve customer service:_ Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * _To personalize user experience:_ Khronos may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * _To improve our Site:_ Khronos may use feedback you provide to improve our products and services.
+  * _To send periodic emails:_ Khronos may use the email address to respond to their inquiries, questions, and/or other requests. If the User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, Khronos includes detailed unsubscribe instructions at the bottom of each email or the User may contact us via the Site.
 
-Please contact the Manager of Privacy if you have questions about privacy that were not answered here. We welcome any suggestions.
 
-### Modifications of our Privacy Policy 
 
-OpenGL.org reserves the right to modify or supplement this Privacy Policy statement at any time. If we make any material change to this Privacy Policy, we will update this site to include such change and post a notice on our home page with a link to the updated Privacy Policy. If at any time OpenGL.org decides to use personal information collected in a manner or for a purpose other than those stated at the time such information was collected, OpenGL.org will notify you by e-mail. You will have a choice as to whether this information will be used in that manner or for those purposes.
+## Google Analytics
+
+Google Analytics is a web analytics tool to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read more at the [Google Analytics Privacy Overview](https://support.google.com/analytics/answer/6004245).
+
+## How Khronos protects your information
+
+Khronos adopts appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.  
+Sensitive and private data exchange between the Site and Users happen over a SSL secured communication channel and is encrypted and protected with digital signatures. 
+
+## Sharing your personal information
+
+Khronos does not sell, trade, or rent Users personal identification information to others. Khronos may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. Khronos may use third party service providers to help operate our business and Site or administer activities, such as sending out newsletters or surveys. Khronos may share the User information with these third parties for those limited purposes provided that the User has given permission to do so.
+
+## Third party websites
+
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. Khronos does not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+
+## Children
+
+The site does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If it is discovered that any information from a child under 13 is in violation of this policy, the information will be removed immediately. If you believe this site has any information from or about anyone under 13, please contact us.
+
+## Changes to this privacy policy
+
+Khronos has the discretion to update this privacy policy at any time. When this privacy policy is updated, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how Khronos is helping to protect the personal information collected. User acknowledges and agrees that it is the Users responsibility to review this privacy policy periodically and become aware of modifications.
+
+## Your acceptance of these terms
+
+By using the Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+## Contacting us
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+
+The Khronos Group, Inc.  
+9450 SW Gemini Drive #45043  
+Beaverton, OR 97008-6018 USA  
+Office: +1 (415) 869-8627  
+Email: webmaster@khronos.org
+
+This document was last updated on December 8, 2015
