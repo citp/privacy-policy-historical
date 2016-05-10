@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the era.la privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109141715id_/http%3A//www.era.la/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the era.la privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510131402id_/http%3A//www.era.la/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Era - Automotive Index - Price and details - Car bike Truck and buses 2015
+# Privacy Policy - Era Gadgets Price and details in India 2016
 
 **Era.la – Privacy Policy**
 
