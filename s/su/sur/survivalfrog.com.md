@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the survivalfrog.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509010811id_/http%3A//survivalfrog.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the survivalfrog.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510114110id_/http%3A//survivalfrog.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Survival Frog
 
 ## Privacy Policy
+
+Effective Date: February 4, 2016
 
 To review material modifications and their effective dates scroll to the bottom of the page.
 
@@ -20,7 +22,7 @@ The Types of Information We Collect And How We Collect It
 
 Personal Information. We collect personal information that may be used to identify you (“Personal Information”). We collect Personal Information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey, fill out a form or order an affiliate product from another company we are working with. Personal Information that we collect may vary with each separate purpose for which you provide it, and it may include one or more of the following categories: name, physical address, an email address, phone number, credit card information including credit card number, expiration date, and billing address.
 
-Non-Personal Information. We reserve the right to collect anonymous information such as your browser type, the URL of the previous website you visited, your computer’s operating system and Internet protocol (IP) Address, Internet domain and host name, your Internet Service provider, your clickstream data, and the dates and times that you may access this site and specific pages ("Non-Personal Information”). We reserve the right to monitor your use of this site. As you navigate through this site, Non-Personal Information may be passively collected (that is, gathered without your actively providing the information) using various analytics and reporting technologies, such as cookies and web beacons. Non-Personal Information is essentially anonymous when collected; however, it’s possible that Non-Personal Information could be used to identify you; however, we will not use Non-Personal Information for this purpose.
+Usage Data. We reserve the right to collect information based on your usage of this site which is information collected automatically from this site (or third party services employed in this site ), which can include: the IP addresses or domain names of the computers utilized by the users who use this site, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the user, the various time details per visit (e.g., the time spent on each page within the site) and the details about the path followed within the site with special reference to the sequence of pages visited, heat map data, and other parameters about the device operating system and/or the user's IT environment ("Usage Data"). Usage Data is essentially anonymous when collected, but could be used indirectly to identify a person.
 
 How We Use Your Information
 
@@ -46,7 +48,7 @@ The email address you provide for order processing, may be used to send you info
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include unsubscribe instructions at the bottom of each email.
 
-We reserve the right to make full use of Non-Personal Information without restriction. For example, we may use Non-Personal Information to compile and analyze statistics and trends about the use of this site, and otherwise administer and improve this site for your use.
+We reserve the right to make full use of Usage Data without restriction. For example, we may use Usage Data to compile and analyze statistics and trends about the use of this site, and otherwise administer and improve this site for your use.
 
 How We Disclose Or Share Your Information; Your California Privacy Rights
 
@@ -59,6 +61,8 @@ Disclosure to Service Providers for Website Operations. We reserve the right to 
 Disclosure to Successors. If we are acquired by or merged with a third party entity, or if we sell this website business or a line of business from this website, we reserve the right to transfer your Personal Information as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we reserve the right to transfer your Personal Information to protect our rights or as required by law.
 
 Disclosure Incident to Legal Process and Enforcement. We reserve the right to disclose your Personal Information if we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary (i) to satisfy any applicable law, regulation, legal process or enforceable governmental request (such as for example, to comply with a subpoena or court order), or (ii) to investigate or enforce violations of our rights or the security of this site.
+
+When We Participate In a Joint Venture With Marketing Partners. We may participate with another company or individual for purposes of jointly promoting our products, services, promotions or contests or their products, services, promotions, or contests. We reserve the right to right to disclose your Personal Information to them for purposes of (i) compensation, transaction processing, fulfillment, and support, and (ii) for purposes of offering you other products, services, promotions, and contests. These joint venture marketing partners may also contact you regarding other products, services, promotions, or contests.
 
 How We Protect Your Information
 
@@ -76,15 +80,49 @@ Specific Information About Cookies And Web Beacons
 
 1st Party Cookies. We use 1st party cookies (passed by us) to keep track of your current shopping session to personalize your experience and so that you may retrieve your shopping cart at any time.
 
-3rd Party Cookies for Web Analytics and Reporting. We reserve the right to use web analytics services provided by 3rd parties. These services use 3rd party cookies (cookies passed by others, not by us) to collect Non-Personal Information about your use of this site. These web analytics services may also transfer this information to third parties where required to do so by law, or where such third parties process the information on the service's behalf.
+3rd Party Cookies for Web Analytics and Reporting. We reserve the right to use web analytics services provided by 3rd parties. These services use 3rd party cookies (cookies passed by others, not by us) to collect Usage Data about your use of this site. These web analytics services may also transfer this information to third parties where required to do so by law, or where such third parties process the information on the service's behalf.
 
-3rd Party Cookies for Serving Behavioral Ads; Flash Cookies. We reserve the right to serve our ads and third party ads on our site that are targeted to your interests ("3rd Party Behavioral Ads"). 3rd Party Behavioral Ads are served by 3rd party advertising services that use 3rd party cookies (cookies passed by others, not by us) to collect Non-Personal Information about your use of this site and other websites. This information is your “behavioral data”. 3rd Party Behavioral Ads do not use your Personal Information. Instead, they associate your behavioral data on visited sites with your computer, so that the ads your computer sees on this site are more likely to be relevant to your interests. These advertising services may also transfer this information to third parties where required to do so by law, or where such third parties process the information on the service's behalf. We will provide notice and the opportunity to opt-out of receiving 3rd Party Behavioral Ads; however, the 3rd party advertising services that serve ads on our site may use Flash cookies which may make it more difficult to opt-out effectively. Flash cookies are not the same as “browser cookies”. Flash cookies consist of an Adobe Flash Media Player local shared object (LSO) that is used for tracking purposes. The Adobe Flash Media Player is software that enables users to view content on their computers. Flash cookies are also accompanied by a browser cookie. If you delete the browser cookie, the Flash cookie will automatically create (or re-spawn) a replacement for the browser cookie. For information on how to delete a Flash cookie, visit http://kb2.adobe.com/cps/526/52697ee8.html or search the Web for “How to delete flash cookie”.
+Google Analytics is a web analysis service provided by Google Inc. ("Google"). Google utilizes the data collected to track and examine the use of this site, to prepare reports on its activities, and to share them with other Google services. Information collected: cookie and Usage Data. Visit Privacy Policy at https://www.google.com/intl/en/policies/?fg=1 You may optout of the Google Analytics service with the Google's Browser Add-on that's available at https://tools.google.com/dlpage/gaoptout/
 
 3rd Party Cookies for Crediting Purchases To Affiliates; Flash Cookies. We reserve the right to use 3rd party cookies, including Flash cookies, for purposes of crediting any purchase you may make on this site to one of our affiliate marketing partners that may have referred you to us. These cookies will only be used for purposes of crediting sales to the referring affiliate and not for other purposes such as serving behavioral ads. Flash cookies are not the same as “browser cookies”. Flash cookies consist of an Adobe Flash Media Player local shared object (LSO) that is used for tracking purposes. The Adobe Flash Media Player is software that enables users to view content on their computers. Flash cookies are also accompanied by a browser cookie. If you delete the browser cookie, the Flash cookie may automatically create (or re-spawn) a replacement for the browser cookie. However, recent announcements indicate that IE 8 and IE 9 browsers have been updated to also delete Flash cookies with an their “delete browsing history” feature. For more information, Google “How to delete flash cookie”.
 
-Participation in Google’s Adsense Network. We reserve the right to participate in Google's AdSense network for purposes of serving 3rd Party Behavioral Ads. Google uses DoubleClick's DART cookie in its AdSense network. You may opt out of the use of the DART cookie. For information regarding how to opt out, go to http://www.google.com/privacy_ads.html .
+Web Beacons - sometimes called single-pixel gifs or clear gifs - are used to assist in delivering cookies, and they allow us to count users who have visited pages of our site. We may include Web Beacons in promotional e-mail messages or our newsletters in order to determine whether messages have been opened and acted upon. **Re-Marketing, Targeted Ads, Online Behavioral Ads**
 
-Web Beacons. A web beacon is an electronic image placed in the code of a web page. We reserve the right to use web beacons to monitor the traffic patterns of users from one of our pages to another and to improve our site’s performance.
+We reserve the right to participate with third party advertising partners in remarketing and behavioral targeting programs. These services allow us and our partners to display ads that are likely to be more relevant (such as behavioral or targeted ads that are based on information about your browsing history). This activity is performed by tracking Usage Data and by using cookies to transfer information to the partners that manage the remarketing and behavioral targeting activity.
+
+These third party ad servers or ad networks may also use cookies and other tracking devices to track your activities on this site to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies. Tracking may include, but not limited to, the following: first party cookies, third party cookies, anonymous cookies, persistent identifiers, email optin, and search engine keywords. We have no access or control over these cookies and other tracking devices that may be used by third party advertisers, and we have no responsibility or liability for the policies and practices of these sites.
+
+AdWords Remarketing (Google) - We reserve the right to participate in AdWords Remarketing which is a Remarketing and Behavioral Targeting service provided by Google Inc. that connects the activity of this site with the Adwords advertising network and the Doubleclick cookie. Information collected: cookie and Usage Data. For the opt-out, visit https://support.google.com/ads/answer/2662922?hl=en 
+
+For information in general about Google's remarketing ad campaigns, and specifically about information regarding DoubleClick cookies and how to control and manage Google's advertising cookies for these campaigns, visit http://www.google.com/policies/technologies/ads/
+
+For another Google resource for opting our of Google's use of cookies, visit http://www.google.com/settings/ads 
+
+For information regarding how Google uses data when you use Google's partners' sites or apps, visit http://www.google.com/policies/privacy/partners/ 
+
+For anther resource recommended by Google for opting out of a third party vendor's use of cookies, visit http://www.networkadvertising.org/managing/opt_out.asp
+
+Remarketing through Google Analytics for Display Advertising (Google) - We reserve the right to participate in any and all of the following Google Analytics Advertising Features provided by Google Inc. -   Remarketing with Google Analytics, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, and Google Analytics Demographics and Interest Reporting. These features use first party cookies (such as the Google Analytics cookie) for connecting the tracking activity performed by Google Analytics and its cookies with the Adwords advertising network and the DoubleClick cookie (a third party cookie). Information collected: cookie and Usage Data, including audience data such as age, gender, and interests. For the opt-out, visit https://support.google.com/ads/answer/2662922?hl=en You may optout of the Google Analytics service with the Google's Browser Add-on that's available at https://tools.google.com/dlpage/gaoptout/
+
+For information in general about Google's remarketing ad campaigns, and specifically about information regarding DoubleClick cookies and how to control and manage Google's advertising cookies for these campaigns, visit http://www.google.com/policies/technologies/ads/
+
+For another Google resource for opting our of Google's use of cookies, visit http://www.google.com/settings/ads 
+
+For information regarding how Google uses data when you use Google's partners' sites or apps, visit http://www.google.com/policies/privacy/partners/ 
+
+For anther resource recommended by Google for opting out of a third party vendor's use of cookies, visit http://www.networkadvertising.org/managing/opt_out.asp
+
+Custom Audience (Facebook). We reserve the right to participate in Facebook.com's Custom Audience. A Custom Audience on Facebook.com enables us to display to persons on our email lists targeted, personalized ads when they visit Facebook.com. The ads are based on your shopping experience at our website. No personal information, including your shopping history, is shared with Facebook. The Custom Audience allows us to convert your email address to a unique number that Facebook uses to match to unique numbers that Facebook generates from email addresses of its users. You may optout of participation in our Facebook Custom Audience by sending an email, from the email address you are opting out of, to the email address provided in our contact information below. For your optout to be effective, you must: (i) place the following text in the subject line of the email - "Opting Out of Facebook.com Website Custom Audience Ads", and (ii) in the body of the email, include your name and email address. We will forward your name and email address to Facebook.com with a request to delete you from all of our Facebook Custom Audience Ads.
+
+Other Remarketing Services. We reserve the right to participate in additional remarketing services that will be similar to the remarketing services described above. These services will allow us and our partners to display ads that are likely to be more relevant (such as behavioral or targeted ads that are based on information about your browsing history). You may access these services to opt out: http://www.networkadvertising.org/choices/ and http://www.aboutads.info/choices/ .
+
+**Social Media Interactions**
+
+We invite you to socialize and share your participation with this site and purchases. If you choose to use social media platforms such as Facebook, Twitter, Pinterest, and Instagram, you will be allowing interaction with these platforms or other external platforms directly from this site, and in the process you may be sharing certain profile elements, including your comments. This sharing is subject to each social media program's privacy policies.
+
+**Do Not Track Requests**
+
+Some Web browsers incorporate a "Do Not Track" feature that signals to websites that you visit that you do not want to have your online activity tracked. Each browser communicates "Do Not Track" signals to websites differently, making it unworkable to honor each and every request correctly. In order to alleviate any communication error between browsers and website, we do not respond to "Do Not Track" signals at this time. As the technology and communication between browser and website improves, we will reevaluate the ability to honor "Do Not Track" signals and may make changes to our policy.
 
 Updating Personal Information
 
@@ -104,7 +142,7 @@ We are committed to preserving online privacy for all of its website visitors, i
 
 Contacting Us
 
-If there are any questions regarding this privacy policy you may contact us using the information found at this link: [http://SurvivalFrog/About-Us_ep_54-1.html](https://web.archive.org/pages/about-us)
+If there are any questions regarding this privacy policy you may contact us using the information found at this link: <http://survivalfrog.com/pages/about-us>
 
 4155 E. Jewell St.  
 Suite 900  
@@ -114,4 +152,17 @@ USA
 support@SurvivalFrog.com  
 (800) 773-7737
 
-Material Modifications Since Oct 21, 2013: we updated the Privacy Policy regarding the classification of information we collect, the sharing of information, and the use of web beacons and cookies.
+Material Modifications Effective February 4, 2016:
+
+  * Re-classified “Non-Personal Information” as “Usage Data”.
+
+
+  * Added a sharing option for joint venture partners.
+
+
+  * Updated disclosures for Re-Marketing, Targeted Ads, Online Behavioral Ads.
+
+
+  * Added do-not-track request notice.
+
+
