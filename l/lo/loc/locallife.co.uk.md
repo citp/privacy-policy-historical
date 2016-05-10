@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the locallife.co.uk privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202035209id_/http%3A//www.locallife.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the locallife.co.uk privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510024405id_/http%3A//www.locallife.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement | locallife.co.uk
 
@@ -77,3 +77,17 @@ Any material changes to the way in which we use your data will be described in f
 Consent
 
 By submitting data to us and using the Site, you consent to our use of your data in the manner set out in this Privacy Statement (as amended).
+
+Tue 10 May 2016 | Local Time: 4:44am
+
+[Germany had EU renegotiation veto - IDS](http://www.bbc.co.uk/news/uk-politics-eu-referendum-36252295#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa)Tue, 10 May 2016 00:42:29 GMTGermany had a "de facto veto" over David Cameron's EU renegotiations, Iain Duncan Smith says, as the Leave campaign step ups its criticism of the prime minister.
+
+[Legal case for drone strikes 'unclear'](http://www.bbc.co.uk/news/uk-36253518#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa)Tue, 10 May 2016 01:34:45 GMTThe legal case for using drone strikes outside of armed conflict needs "urgent clarification", a cross-party group of MPs and peers says.
+
+[Trump would make 'exception' for Khan](http://www.bbc.co.uk/news/election-us-2016-36253556#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa)Tue, 10 May 2016 00:50:31 GMTPresidential hopeful Donald Trump says the newly elected mayor of London would be an "exception" to his proposed ban on Muslims travelling to the US.
+
+[](http://www.bbc.co.uk/news/uk-politics-36251346#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa)[July date set for Iraq Inquiry report](http://www.bbc.co.uk/news/uk-politics-36251346#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa)Mon, 09 May 2016 17:45:00 GMTSir John Chilcot's long-awaited report into the 2003 Iraq War and its aftermath will be published on 6 July.
+
+[](http://www.bbc.co.uk/news/uk-england-36249926#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa)[Barnet chief leaves after vote blunder](http://www.bbc.co.uk/news/uk-england-36249926#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa)Mon, 09 May 2016 16:25:14 GMTThe chief executive of Barnet Council leaves his post after a blunder led to some voters being turned away from polling stations.
+
+Content provided by the BBC
