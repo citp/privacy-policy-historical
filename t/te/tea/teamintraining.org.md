@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamintraining.org privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929195949id_/http%3A//www.teamintraining.org/siteinfo/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamintraining.org privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510032144id_/http%3A//www.teamintraining.org/siteinfo/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -32,6 +32,8 @@ Session cookies remember what chapter you are registered into or visiting online
 If users reject cookies, they may still use our sites, and all the informational resources provided through them. Their registration-based personalization options and the capacity of their browser to keep track of what chapter they are visiting online as they go from one of our sites to another, is lost if the user rejects cookies. 
 
 LLS uses a tracking utility provided by a 3rd party vendor to track usage of specific web pages and other resources provided through our web site. The vendor sets cookies as a method for compiling site usage information but these cookies are only used to compile demographic models of site usage and are not tied to the user's personal information. 
+
+LLS allows third parties to place cookies through our site in order to collect information about your visit to this website and other websites to offer you more relevant advertising across the Internet. This practice is known as online behavioral advertising. These cookies (placed by our third party vendors) contain no personally identifiable information, but they may contain demographic or interest-based information in de-identified form. This information may also be linked to PII that you have voluntarily submitted to LLS, such as your email address. If you would like to opt out of the placement of these third party cookies, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices). If you would like to opt out of third party use of your mobile device identifier for behavioral advertising, please see [www.aboutads.info/appchoices](http://www.aboutads.info/appchoices). Please note that if you delete, block, or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice.
 
 ### Communications from the Site
 
@@ -74,8 +76,8 @@ To be removed from our direct mail or telemarketing lists, fill out our [Contact
 Nancy Hallberg  
 Chief Marketing Officer   
 The Leukemia & Lymphoma Society  
-1311 Mamaroneck Ave.  
-White Plains, NY 10605 
+3 International Drive, Suite 200  
+Rye Brook, NY 10573
 
 **Additional Information**  
 This privacy policy is personal between you and us, and no one else shall be deemed a third party beneficiary of this policy.
@@ -87,5 +89,5 @@ LLS reserves the right to change this policy at any time. Since any changes will
 Nancy Hallberg  
 Chief Marketing Officer   
 The Leukemia & Lymphoma Society  
-1311 Mamaroneck Ave.  
-White Plains, NY 10605 
+3 International Drive, Suite 200  
+Rye Brook, NY 10573
