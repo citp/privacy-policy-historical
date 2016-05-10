@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightroompresets.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031122006id_/http%3A//www.lightroompresets.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightroompresets.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510212018id_/http%3A//www.lightroompresets.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pretty Presets for Lightroom
 
@@ -44,7 +44,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.prettypresets.com](https://web.archive.org/web/20151031122006id_/http%3A//www.prettypresets.com)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.prettypresets.com](https://web.archive.org/web/20160510212018id_/http%3A//www.prettypresets.com)
 
 **Your Consent**
 
