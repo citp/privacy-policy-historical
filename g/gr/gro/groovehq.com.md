@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groovehq.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009224822id_/http%3A//www.groovehq.com/our/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groovehq.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510080306id_/https%3A//www.groovehq.com/our/privacy) for the most accurate reproduction.*
 
 # Groove Privacy Policy
 
@@ -24,7 +24,9 @@ Groove uses third party vendors and hosting partners to provide the necessary ha
 
 ## Security
 
-Groove is hosted at Engine Yard ([http://engineyard.com](http://engineyard.com/)), a world-class Ruby on Rails hosting provider. For more information on their servers and security, please see <http://www.engineyard.com/docs/EY_Security_WP.pdf>
+Groove is hosted at Engine Yard ([http://engineyard.com](http://engineyard.com/)), a world-class Ruby on Rails hosting provider. For more information on their servers and security, please see [Engine Yard’s security whitepaper](http://s3.amazonaws.com/engineyard.com/media_files/files/3/original/security-summary.pdf).
+
+All of your data is transmitted over HTTPS; however, we only encrypt sensitive information, i.e. login/passwords, when storing.
 
 ## Private Discussion
 
