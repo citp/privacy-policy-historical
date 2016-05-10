@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the naturalcures.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109061301id_/http%3A//www.naturalcures.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalcures.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510233954id_/http%3A//www.naturalcures.com/privacy-policy) for the most accurate reproduction.*
 
-# NaturalCures.com Website | Privacy Policy - Privacy Of Information - Natural Cures
+# Privacy Policy | NaturalCures.com
 
 Global Natural Cures LLC (NaturalCures.com) recognizes the importance of protecting the privacy of all information provided by our users. We created the following policy guidelines with a fundamental respect for our users’ right to privacy to guide our relationships with our users.
 
@@ -105,6 +105,4 @@ By using this web site, you consent to this Agreement and to the collection and 
 
 **Customer Service Phone:** 1-888-923-8446 Monday – Friday 8AM – 8PM, Saturday 9AM – 3PM CST
 
-**Customer Service Email:** [Support](http://www.naturalcures.com/contact-us/)
-
-© Copyright 2014 Global Natural Cures LLC. All rights reserved.
+**Customer Service Email:** [Support](http://naturalcures.com/contact-us/)
