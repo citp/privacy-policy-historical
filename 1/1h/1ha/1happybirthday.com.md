@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1happybirthday.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207134530id_/http%3A//www.1happybirthday.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1happybirthday.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510101555id_/http%3A//www.1happybirthday.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -69,6 +69,6 @@ We are currently trying to upgrade our system to give users options wherever nec
   
 By using this site, you consent to the collection and use of this information by 1HappyBirthday.
 
-[Read what people write about our song](https://web.archive.org/web/20151207134530id_/http%3A//www.1happybirthday.com/birthdaycardcomments.php)
+[Read what people write about our song](https://web.archive.org/web/20160510101555id_/http%3A//www.1happybirthday.com/birthdaycardcomments.php)
 
 [Tambien tenemos mensajes en español.](http://www.cancionfeliz.com/mensajes.php)
