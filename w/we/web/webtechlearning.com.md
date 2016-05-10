@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the webtechlearning.com privacy policy that was archived on 2015-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150802104032id_/http%3A//www.webtechlearning.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtechlearning.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511003923id_/http%3A//www.webtechlearning.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**CHANDIGARH NO.1 Digital Marketing Institute** \- Admissions on 1st come 1st basis - **Lowest Fee, Limited Seats Available!**
+**CHANDIGARH NO.1 - Web Education Academy** \- Admissions on 1st come 1st basis - **Lowest Fee, Learn Unlimited!**
 
 ## Webtech Learning
 
