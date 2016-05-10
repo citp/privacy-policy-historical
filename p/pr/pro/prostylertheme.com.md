@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prostylertheme.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504210924id_/http%3A//prostylertheme.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prostylertheme.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510200731id_/http%3A//prostylertheme.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
