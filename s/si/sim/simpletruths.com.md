@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the simpletruths.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025020430id_/http%3A//www.simpletruths.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpletruths.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510064614id_/http%3A//www.simpletruths.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Simple Truths
 
-As used herein, “the Site” refers to the service and network located at [www.simpletruths.com](http://www.simpletruths.com/), [www.bestquotations.com](http://www.bestquotations.com/), and their subdomains, mobile version(s), downloadable apps, and any associated applications that are owned and/or operated by Simple Truths, an imprint of Sourcebooks, Inc., and its affiliates (collectively, “us,” “we,” “our,” or “the Company”). By using the Site, or by subscribing to receive our emails, you indicate your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, you are not permitted to access the Site and you should not do so.
+As used herein, “the Site” refers to the service and network located at [www.simpletruths.com](https://web.archive.org/), [www.bestquotations.com](http://www.bestquotations.com/), and their subdomains, mobile version(s), downloadable apps, and any associated applications that are owned and/or operated by Simple Truths, an imprint of Sourcebooks, Inc., and its affiliates (collectively, “us,” “we,” “our,” or “the Company”). By using the Site, or by subscribing to receive our emails, you indicate your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, you are not permitted to access the Site and you should not do so.
 
 Our postal address is:
 
@@ -11,7 +11,7 @@ ATTN: Simple Truths Privacy Matters
 1935 Brookdale Road, Suite 139  
 Naperville, IL 60563
 
-We can also be [contacted via phone or email](http://www.simpletruths.com/contact-us.html).
+We can also be [contacted via phone or email](https://web.archive.org/contact-us.html).
 
 We reserve the right to change or otherwise update this Privacy Policy at any time. Such changes or updates are effective immediately after we give notice of the change or update, which we may do by revising the “Last Updated” date at the bottom of this Privacy Policy or by otherwise posting on the Site, by email or conventional mail, and/or by any other means that provides reasonable notice. Your use of the Site after such notice is posted confirms that you accept these changes or updates. If you are concerned about how your information is used, you should periodically review this Privacy Policy.
 
@@ -19,9 +19,13 @@ We reserve the right to change or otherwise update this Privacy Policy at any ti
 
 We understand and respect your desire for privacy. To that end, we would like you to know how we use the information you provide to us.
 
-We (both directly and through third parties) collect personally identifying information when you access any pages on the Site, register for the Site, enter contests/sweepstakes, or participate in other interactive online activities (e.g., blogs, surveys, forums, etc.) throughout the Site (such as your name, location, email address, billing addresses and credit card information). We also collect non-personally-identifiable information (such as your IP address or domain, survey information, or information about your use of the Site) both directly and through third parties, including through the use of Web beacons, for purposes of site administration, to improve and customize user experiences, and to compile aggregate information about usage of the Site.
+We (both directly and through third parties) collect personally identifying information when you access any pages on the Site, register for the Site, enter contests/sweepstakes, or participate in other interactive online activities (e.g., blogs, surveys, forums, etc.) throughout the Site (such as your name, location, email address, billing addresses and credit card information). If you provide us with your email address, you may receive periodic promotional emails from us and carefully selected partners with information regarding special offers or new products or services. You may also receive informational emails from us related to any user accounts you have set up with us, as well as administrative notices regarding the operation of the web site. We also collect non-personally-identifiable information (such as your IP address or domain, survey information, or information about your use of the Site) both directly and through third parties, including through the use of Web beacons, for purposes of site administration, to improve and customize user experiences, and to compile aggregate information about usage of the Site.
 
-You may be asked for your credit card information if you buy a product or service from the Site or our third-party providers. Your credit card information, along with the personal identifying information you submit, is transferred to and used by third-party financial institutions to verify the credit card numbers and to authorize the processing of the transaction. Be sure to review all privacy policies published by our third-party providers and contact them directly if you have questions as they may have privacy terms that differ from our Privacy Policy.
+When you place an order on the Simple Truths website, we need to know your name and shipping address. Your telephone number and email address will be collected and used to contact you as it pertains to your order and only when necessary. We collect your billing address and credit card / payment information to process your order. 
+
+Payments will be processed by a third party processor, Braintree, (a PayPal company) and is not stored on Simple Truths servers.  Simple Truths will collect specific Personal Information required for Braintree to process payments. This includes credit card numbers, billing addresses, security (CVV) codes and any other relevant financial information.  All such information will be transferred directly to Braintree and not retained, stored or used by Simple Truths without prior consent. In the case of subscription services, such as the Simple Truths’ VIP program, tokenization will be used to associate payment information to your account on a monthly basis.  All such transferred information is subject to the privacy policy of Braintree rather than this policy. Braintree is a validated Level 1 PCI DSS compliant service. For more information regarding the security of your personal information related to credit card processing, visit http://www.braintreepayments.com/security.
+
+Be sure to review all privacy policies published by our third-party providers and contact them directly if you have questions as they may have privacy terms that differ from our Privacy Policy.
 
 We have implemented appropriate safeguards to help prevent unauthorized access, maintain data security, and make proper use of the information we collect. However, no transmission of data over the Internet is guaranteed to be completely secure. Thus, while we strive to protect your personal information, we cannot absolutely guarantee the security of any information you provide to us.
 
@@ -79,7 +83,7 @@ An IP address is a number that is automatically assigned to your computer by you
 
 Any email address that you provide provide when you subscribe to our email list, register for the Site, or make a purchase through the Site will be retained and may be used to communicate with you regarding order status and updates, new product announcements, promotions and special offers on the Site, and product recommendations.
 
-To unsubscribe from any communications from us, follow the “unsubscribe” link at the bottom of any communication you receive. You can also unsubscribe from the promotional and marketing emails you receive from the Site’s partners by following the “unsubscribe” link at the bottom of emails from such partners. You can also unsubscribe by [contacting us](http://www.simpletruths.com/contact-us.html) and requesting to have your information removed from our list.
+To unsubscribe from any communications from us, follow the “unsubscribe” link at the bottom of any communication you receive. You can also unsubscribe from the promotional and marketing emails you receive from the Site’s partners by following the “unsubscribe” link at the bottom of emails from such partners. You can also unsubscribe by [contacting us](https://web.archive.org/contact-us.html) and requesting to have your information removed from our list.
 
 ### Use of Postal Address and Telephone
 
@@ -93,4 +97,6 @@ We may use third-party advertising companies and advertising networks to serve a
 
 ## Contact Us
 
-If you feel that our Site is not following the stated information policy or have questions and concerns, you may [contact us at any time](http://www.simpletruths.com/contact-us.html).
+If you feel that our Site is not following the stated information policy or have questions and concerns, you may [contact us at any time](https://web.archive.org/contact-us.html).
+
+ _Last updated and effective as of: 4/14/2016_
