@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everyjobforme.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607184611id_/http%3A//www.everyjobforme.com/education/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everyjobforme.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510164104id_/http%3A//www.everyjobforme.com/education/privacy_policy) for the most accurate reproduction.*
 
 # EveryJobForMe - Find Jobs. Showcase Your Resume. Get Hired.
 
@@ -19,7 +19,7 @@ Please read this entire Policy carefully before using this Site or providing us 
 If you have any questions about this Policy please contact us via e-mail at info@everyjobforme.com.
 
 Electronic:  
-To opt out and unsubscribe from e-mail communications, [click here](https://web.archive.org/unsubscribe)  
+To opt out and unsubscribe from e-mail communications, [click here](mailto:info@everyjobforme.com)  
 To cancel or correct your personal information: send an email with your User Name and the notice "My User Information" in the subject line to info@everyjobforme.com  
 To express or ask questions regarding privacy concerns: send an email to info@everyjobforme.com 
 
