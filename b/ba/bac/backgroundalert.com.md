@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backgroundalert.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810081047id_/http%3A//backgroundalert.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backgroundalert.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510212124id_/http%3A//backgroundalert.com/privacy) for the most accurate reproduction.*
 
 # background checks: criminal, arrest, marriage/divorce, public records, court records
 
@@ -44,7 +44,7 @@ We may be required to share your personal information with law enforcement or go
 
 ##### Business Transfer
 
-As with any other business, it is possible that BackgroundAlert, Inc. in the future could merge with or be acquired by another company. If such an acquisition occurs, the successor company would have access to the information maintained by BackgroundAlert.com, including customer account information, but would continue to be bound by this privacy pledge unless you consent otherwise. 
+As with any other business, it is possible that BackgroundAlert.com in the future could merge with or be acquired by another company. If such an acquisition occurs, the successor company would have access to the information maintained by BackgroundAlert.com, including customer account information, but would continue to be bound by this privacy pledge unless you consent otherwise. 
 
 ##### Advertisements & Pop Up Windows
 
@@ -123,7 +123,7 @@ In order to provide certain services [specify] to you, we may on occasion supple
 
 * Enhancement of Profile Information - We purchase marketing data from third parties and add it to our existing user database, to better target our advertising and to provide pertinent offers in which we think you would be interested. To enrich our Profiles of individual customers, we tie this information to the personally identifiable information they have provided to us.
 
-BackgroundAlert, Inc.   
+BackgroundAlert.com   
 9692 Melinda Circle   
 Huntington Beach, CA 92646    
 [info@BackgroundAlert.com](mailto:info@backgroundalert.com)
