@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the palantir.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110041807id_/https%3A//www.palantir.com/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palantir.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511155129id_/http%3A//www.palantir.com/privacy-and-security) for the most accurate reproduction.*
 
 # Palantir's Privacy and Security Statement | Palantir
 
