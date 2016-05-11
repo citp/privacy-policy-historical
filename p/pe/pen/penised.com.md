@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the penised.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910183059id_/http%3A//www.penised.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penised.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511093648id_/http%3A//www.penised.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - 8==D
-
-**Privacy Policy**
+# Penised – 8==D
 
 This Privacy Policy governs the manner in which Penised.com collects, uses, maintains and discloses information collected from users (each, a "User") of the Pensied.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Pensied.com.  
   
@@ -56,9 +54,4 @@ By using this Site, you signify your acceptance of this policy and terms of serv
   
 Contacting us  
   
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-  
-info@penised.com  
-  
-This document was last updated on February 20, 2015  
-[test](https://web.archive.org/)
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: info@penised.com
