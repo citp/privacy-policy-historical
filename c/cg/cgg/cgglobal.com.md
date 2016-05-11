@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cgglobal.com privacy policy that was archived on 2015-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150903065955id_/http%3A//www.cgglobal.com/frontend/crompton.aspx%3FId%3DfNSJW/UGgrI%3D%26amp%3Bpgm%3DISa594ohuB8%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgglobal.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512015619id_/http%3A//www.cgglobal.com/frontend/crompton.aspx%3FId%3DfNSJW/UGgrI%3D%26amp%3Bpgm%3DISa594ohuB8%3D) for the most accurate reproduction.*
 
 # CG - Privacy Policy ( )
 
