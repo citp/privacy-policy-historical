@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the business.govt.nz privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928172030id_/http%3A//www.business.govt.nz/resolveuid/070cbbd2a6cfe632882a9b72fde8cc5a) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business.govt.nz privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512005129id_/http%3A//www.business.govt.nz/resolveuid/070cbbd2a6cfe632882a9b72fde8cc5a) for the most accurate reproduction.*
 
 # Privacy | Business.govt.nz
 
@@ -17,6 +17,7 @@
   * [Companies Office Search Results](http://www.business.govt.nz/about-this-site/privacy#companies-office-search-results "\[bookmark\]")
   * [Compliance Matters](http://www.business.govt.nz/about-this-site/privacy#compliance-matters "\[bookmark\]")
   * [Employee Cost Calculator](http://www.business.govt.nz/about-this-site/privacy#employee-cost-calculator "\[bookmark\]")
+  * [Employment Agreement Builder](http://www.business.govt.nz/about-this-site/privacy#eab "\[bookmark\] Employment Agreement Builder. ")
   * [Rights of access and correction](http://www.business.govt.nz/about-this-site/privacy#rights-of-access-and-correction "\[bookmark\]")
   * [Your rights](http://www.business.govt.nz/about-this-site/privacy#your-rights "\[bookmark\]")
   * [Statistical information and cookies](http://www.business.govt.nz/about-this-site/privacy#statisical-information-and-cookies "\[bookmark\]")
@@ -113,12 +114,25 @@ The Compliance Matters tool requires users to provide an email address to save a
 MBIE will be collecting statistics from the Compliance Matters tool including information on items saved to action lists.    
 This information is not associated with individuals and cannot be traced back to an email address used to save an action list.
 
+[Top](http://www.business.govt.nz/about-this-site/privacy# "\[bookmark\] Back to top. ")
+
 ###   
-Employee Cost Calculator[Top](http://www.business.govt.nz/about-this-site/privacy# "\[bookmark\] Back to top. ")
+Employee Cost Calculator
 
 The Employee Cost Calculator tool requires users to provide an email address to email their calculation results.  Business.govt.nz does not collect or store these email addresses.  Some browsers may auto fill an email address previously entered if the cache has not been cleared but this is not related to any action by Business.govt.nz.
 
-MBIE will be collecting statistics from the Employee Cost Calculator tool including information on refinements made by users to the calculation results.  This information is not associated with individuals and cannot be traced back to an email address used to save an action list.   
+MBIE will be collecting statistics from the Employee Cost Calculator tool including information on refinements made by users to the calculation results.  This information is not associated with individuals and cannot be traced back to an email address used to save an action list.
+
+###   
+Employment Agreement Builder
+
+The Employment Agreement Builder (EAB) tool requires users to send their completed agreements to a secure email address. Users will also be asked for an email address if they start an employment agreement and intend to finish it at a later date. These email addresses will be used to send users a link to return to their draft agreement. Business.govt.nz will temporarily store this email address until the agreement has been completed. Once the user completes their employment agreement, their email address will be permanently deleted from Business.govt.nz.
+
+In the event that a user does not complete an employment agreement, private information, eg employer and employee names, will be automatically deleted. Users will have to retype these fields when they return to their draft agreement. Any draft agreement that hasn’t been reopened in 90 days will be automatically deleted.
+
+Once a user has completed their employment agreement, all information will be permanently deleted from Business.govt.nz.
+
+MBIE will be collecting statistics from the EAB tool. This information is not associated with individuals and cannot be traced back to an email address used to create an agreement.  
  
 
 ## Rights of access and correction
@@ -172,7 +186,7 @@ The statistical information referred to above will be viewable by site administr
 
 Browser or ‘web’ cookies are small text files that are sent by a website and stored on your computer's hard drive. Cookies are generally used to improve your experience of a website (e.g. by remembering preferences you have set) and to track site usage.
 
-MBIE does not use cookies on this website to gather any personally identifiable information. We use cookies to gather data about trends in site usage using a tool called Google Analytics. We also use cookies to gather data about your browsing history on the MBIE website. We may use this data to enhance your browsing experience, improve our website, or target advertising to you.
+MBIE does not use cookies on this website to gather any personally identifiable information. We use cookies to gather data about trends in site usage using a tool called Google Analytics. We also use cookies to gather data about your browsing history on the MBIE website. We may use this data to enhance your browsing experience, improve our website, identify whether you have seen our marketing material before you visited our site, and target advertising to you.
 
 The types of Advertising Features implemented on the MBIE website may include:
 
