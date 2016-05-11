@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the restaurantbusinessonline.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209084119id_/http%3A//www.restaurantbusinessonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restaurantbusinessonline.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511040924id_/http%3A//www.restaurantbusinessonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Restauant Business Magazine | Restaurant Business
 
