@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxfonline.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228184956id_/http%3A//oxfordclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfonline.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511165614id_/http%3A//oxfordclub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Oxford Club
 
@@ -38,4 +38,4 @@ Policy against advertising our website using unsolicited email messages
 
 We require that all emails promoting OxfordClub.com or its products are sent only to clients who have agreed to receive such messages. We prohibit any advertising of our brand and website using unsolicited email messages. Not complying with this policy will cause partnership termination and/or affiliate account termination.
 
-If you feel you’ve been sent unsolicited emails promoting our brand or website and would like to register a complaint, please [click here](http://oxfordclub.com/Visitors/ContactUs.html) to contact our customer service department. We will immediately investigate all allegations made related to unsolicited messages.
+If you feel you’ve been sent unsolicited emails promoting our brand or website and would like to register a complaint, please [click here](https://web.archive.org/contact-us/) to contact our customer service department. We will immediately investigate all allegations made related to unsolicited messages.
