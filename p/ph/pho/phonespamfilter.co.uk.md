@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonespamfilter.co.uk privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912064523id_/http%3A//www.phonespamfilter.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonespamfilter.co.uk privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511093707id_/http%3A//www.phonespamfilter.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Phone Spam Filter Privacy Policy
 
