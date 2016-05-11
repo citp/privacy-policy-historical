@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefeed.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907015216id_/https%3A//thefeed.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefeed.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511030328id_/https%3A//thefeed.com/privacy) for the most accurate reproduction.*
 
 # Privacy - The Feed
 
@@ -52,7 +52,7 @@ Opt-Out & Unsubscribe
 
 We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from The Feed by contacting us here:
 
-Email: [help@thefeed.com](mailto:help@thefeed.com)  
+Email: [hello@thefeed.com](mailto:hello@thefeed.com)  
 Phone: (877) 780-8957
 
 ## Changes to this Statement
@@ -63,11 +63,11 @@ The Feed will occasionally update this Statement of Privacy to reflect company a
 
 The Feed welcomes your questions or comments regarding this Statement of Privacy. If you believe that The Feed has not adhered to this Statement, please contact The Feed at:
 
- **The Feed LLC**  
-629 Emerson  
-Palo Alto, California 94027
+**The Feed LLC**  
+5660 Valmont Rd.  
+Boulder, Colorado 80301
 
-Email Address: [help@thefeed.com](https://web.archive.org/web/20150907015216id_/https://thefeed.com/privacy/help@thefeed.com)  
+Email Address: [hello@thefeed.com](mailto:hello@thefeed.com)  
 Telephone number: (877)780-8957
 
 Effective as of June 26, 2013
