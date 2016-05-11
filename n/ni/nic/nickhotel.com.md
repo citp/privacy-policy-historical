@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nickhotel.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929061523id_/http%3A//www.nickhotel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nickhotel.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511135413id_/http%3A//www.nickhotel.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Nickelodeon Suites Resort
 
