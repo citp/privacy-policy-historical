@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kboards.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209190351id_/http%3A//kboards.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kboards.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512012909id_/http%3A//www.kboards.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Kboards Privacy Policy
 
@@ -38,4 +38,4 @@ KBoards has no access to or control over third-party advertisers. You should con
 
 ## Webmaster Contact Information
 
-If you have any questions or suggestions regarding the KBoards privacy policy, please feel free to contact us at [admin@kboards.com](mailto:admin@kboards.com). 
+If you have any questions or suggestions regarding the KBoards privacy policy, please feel free to contact us at [admin@www.kboards.com](mailto:admin@www.kboards.com). 
