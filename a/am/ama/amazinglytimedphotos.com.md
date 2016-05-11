@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazinglytimedphotos.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016092106id_/http%3A//amazinglytimedphotos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazinglytimedphotos.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511041755id_/http%3A//amazinglytimedphotos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Amazingly Timed Photos
 
