@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manteresting.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115104637id_/http%3A//www.manteresting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manteresting.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511154053id_/http%3A//www.manteresting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Manteresting
 
@@ -6,7 +6,7 @@
 Version 2014-04-09
 
 **1\. ACCEPTANCE OF THE PRIVACY POLICY**  
-The [Terms of Service](https://web.archive.org/web/20151115104637id_/http%3A//www.manteresting.com/terms-of-service) found on the Manteresting Site are incorporated herein by reference. By using the Site you agree to be bound by the Terms of Service Manteresting Site, whether you are a User or an Organizer.  
+The [Terms of Service](https://web.archive.org/web/20160511154053id_/http%3A//www.manteresting.com/terms-of-service) found on the Manteresting Site are incorporated herein by reference. By using the Site you agree to be bound by the Terms of Service Manteresting Site, whether you are a User or an Organizer.  
 Capitalized terms hereunder shall be defined under the Terms of Service found on the Manteresting Site.
 
 2\. COLLECTION OF INFORMATION AND USE BY MANTERESTING  
