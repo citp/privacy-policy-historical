@@ -1,14 +1,22 @@
-> *The following text is extracted and transformed from the advisoryhq.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006040838id_/http%3A//www.advisoryhq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advisoryhq.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511130457id_/http%3A//www.advisoryhq.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | AdvisoryHQ
+# Privacy Policy – AdvisoryHQ
 
 **Introduction**
 
-Advisoryhq.com (hereinafter also referred to as "the site," "site" or "our site") provides financial related information, including news, analysis, and insights regarding financial advisory services, planning, and related industries through its online news articles, publications, and reviews. Our privacy policy supports our commitment in serving you and explains how we intend to protect your privacy. This privacy policy covers Advisoryhq.com's treatment of information collected when you visit our site and use our services. This policy also covers our treatment of any personally identifiable information our business partners share with us.
+Your privacy is important to us.
+
+This notice applies to all information collected from or submitted to [www.advisoryhq.com](http://www.advisoryhq.com/) and [advisoryhq.com](http://www.advisoryhq.com/), hereinafter also referred to as “AdvisoryHQ,” “we,” and “site.” This privacy policy supports our commitment in serving you and covers AdvisoryHQ’s treatment of information collected.
+
+Our site may contain links to other websites operated by third parties. AdvisoryHQ is not responsible for the privacy practices or policies of such third-party sites.
 
 **What Information Do We Collect?**
 
-We collect your information when you subscribe to our newsletter or fill out a form on our site. When providing information to us, we may ask you to enter your name and email address. We may keep a record of your email, contact information, and correspondence if you contact us via email. When provided, we may use such information to respond to you.
+We collect your information when you subscribe to our newsletter or fill out a form on our site. When providing information to us, we may ask you to enter your name and email address.
+
+We may keep a record of your email, contact information, and correspondence if you contact us via email.
+
+When provided, we may use such information to respond to you.
 
 Like most websites, we use cookies to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the “Do We Use Cookies?” section below for information about cookies and how we use them.
 
@@ -25,7 +33,7 @@ Any information we collect from you may be used in one of the following ways:
 
 **Do We Use Cookies?**
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your web browser (if you allow) to enable the site’s or service provider’s systems to recognize your browser and capture and remember certain information.
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your web browser (if you allow) to enable the site’s or service provider’s or affiliate’s systems to recognize your browser and capture and remember certain information.
 
 **Do We Disclose Any Information to Outside Parties?**
 
@@ -39,15 +47,13 @@ To visitors, members, and users of our site who reside outside of the United Sta
 
 **Applicable Jurisdictions**
 
-The content and information provided on our site has been published in the United States (US) and persons who access it agree to do so in accordance with applicable US laws. We make no representation or claim that information and content on this website is appropriate or available for use in locations outside of the United States. Visitors, users, and members of the site are responsible for compliance with all local laws applicable to them with respect to the content and operation of this site.
+The content and information provided on our site has been published in the United States (US), and persons who access it agree to do so in accordance with applicable US laws. We make no representation or claim that information and content on this website are appropriate or available for use in locations outside of the United States. Visitors, users, and members of the site are responsible for compliance with all local laws applicable to them with respect to the content and operation of this site.
 
 **Third-Party Links**
 
-Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We, therefore, have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Our site includes third-party/affiliate advertisements. These third-party sites have separate and independent privacy policies. We, therefore, have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**California Online Privacy Protection Act Compliance**
-
-Since we value your privacy, we have taken the necessary precautions to maintain compliance with the California Online Privacy Protection Act. We, therefore, will not distribute your personal information to outside parties without your consent.
+Click here for additional information on [AdvisoryHQ’s Advertising, Affiliates, and Editorial Disclosures](http://www.advisoryhq.com/ahq-disclosures/).
 
 **Children’s Online Privacy Protection Act Compliance**
 
@@ -87,4 +93,4 @@ We pledge to you, our customer, that we have made a dedicated effort to bring ou
 – Privacy Alliance  
 – Controlling the Assault of Non-Solicited Pornography and Marketing Act
 
-This Privacy Policy was last modified on August 7, 2015
+This Privacy Policy was last modified on 4/1/2016.
