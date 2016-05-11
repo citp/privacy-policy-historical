@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surf4cars.co.za privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109163938id_/http%3A//www.surf4cars.co.za/useful_tools/Private_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surf4cars.co.za privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511170656id_/http%3A//www.surf4cars.co.za/useful_tools/Private_Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Surf4cars
 
@@ -17,6 +17,10 @@ Every user that either sells or requests information as a potential buyer has an
 **How do opt out of future communications on Surf4cars?**
 
 Users will only be contacted once by Surf4cars after they have sent a request. Once this follow up call has occurred, the only future communications that a user will receive from us is a weekly email for our online magazine, Motormag. This service is selected via a tickbox when the user sends his/her initial request on our system. Every email sent for Motormag contains an unsubscribe link should the user choose to opt out after any given period of time. It is important to note that the Motormag service is totally free. Surf4cars does not charge its public users for any service whatsoever. 
+
+All vehicle details and pricing, as well as the sellers contact information, is as supplied to Surf4cars, by the seller 
+
+Whilst every effort has been made to verify the accuracy of all information supplied, Surf4cars and its affiliated partner websites cannot be held responsible for any inaccuracies whatsoever 
 
 **Contact Us**
 
