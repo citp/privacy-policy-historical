@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the irs.gov privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121232028id_/http%3A//www.irs.gov/uac/IRS-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irs.gov privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511161019id_/https%3A//www.irs.gov/uac/IRS-Privacy-Policy) for the most accurate reproduction.*
 
 # IRS Privacy Policy
 
-[Español](https://web.archive.org/Spanish/La-Pol%C3%ADtica-de-Confidencialidad-del-IRS)
+[Español](https://web.archive.org/Spanish/La-Politica-de-Confidencialidad-del-IRS)
 
 **IRS Privacy Policy** **  
 Your Privacy Rights  
@@ -49,4 +49,4 @@ _**PLEASE NOTE:**_ Do not respond to unsolicited e-mails that claim to come from
 
 For more information contact the Treasury Inspector General for Tax Administration (TIGTA) at 800-366-4484 or visit the [TIGTA website](http://www.treas.gov/tigta).
 
-Page Last Reviewed or Updated: 08-May-2015
+Page Last Reviewed or Updated: 10-Dec-2015
