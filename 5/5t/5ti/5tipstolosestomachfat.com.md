@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 5tipstolosestomachfat.com privacy policy that was archived on 2015-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151019013412id_/http%3A//5tipstolosestomachfat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5tipstolosestomachfat.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511070155id_/http%3A//5tipstolosestomachfat.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
