@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theproteinworks.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922013927id_/http%3A//www.theproteinworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theproteinworks.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511223610id_/http%3A//www.theproteinworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,7 +25,7 @@ We require this information to understand your needs and provide you with a bett
 
   * Internal record keeping.
   * We may use the information to improve our products and services
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. If you have provided a mobile number we may also contact you via SMS
   * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests
 
 
