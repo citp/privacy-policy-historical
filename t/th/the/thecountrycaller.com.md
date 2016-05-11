@@ -1,81 +1,52 @@
-> *The following text is extracted and transformed from the thecountrycaller.com privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928235249id_/http%3A//www.thecountrycaller.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecountrycaller.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511233911id_/http%3A//www.thecountrycaller.com/a-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# The Country Caller
 
-**What information do we collect?**
+TheCountryCaller places a high value on the privacy of its users. This Privacy Policy (“PP”) sets out the types of information that we may collect from users of [www.TheCountryCaller.com](http://www.morningtoday.com/) (the “Website”) and the purposes for which we may use such information. The PP and the Terms of Use (“TOU”) constitute a legally binding agreement between you and TheCountryCaller. If you do not agree to any part of the PP and/or TOU, you must not use the website. The PP may be modified from time to time and you are advised to check this page regularly.
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter, or respond to a survey.
+**INFORMATION THAT MAY BE COLLECTED**  
+In addition to the other types of UGC that TheCountryCaller may collect from you and that may be used by it according to the licenses set forth in the TOU, TheCountryCaller may collect personally-identifiable information (called “personal information” in this PP) submitted to TheCountryCaller, including (but not limited to) information submitted when registering an account with us or filling out other forms.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number, credit card information. You may, however, visit our site anonymously.
+This “personal information” may include (but not be limited to) your:  
+Name  
+Gender  
+Date of birth  
+Occupation  
+Income range  
+Home and/or work address  
+Email address  
+Telephone Numbers
 
-**What do we use your information for?**
+TheCountryCaller may also periodically collect log files, including IP addresses, from our server. These files give a general picture of who is visiting the Website and which pages are being viewed most often.  
+This information is collected to assist us in the maintenance and administration of the Website. Log files are collected mainly for research purposes to see what pages are of most interest and use to current and potential clients as well as to gather demographic, geographic and economic trends. TheCountryCaller reserves the right to make changes to this policy’s description of log files use at any time.
 
-Any of the information we collect from you may be used in one of the following ways:
+**USE OF PERSONAL INFORMATION**  
+You hereby agree that TheCountryCaller may use your personal information for the following purposes:  
+Administering the Website  
+Personalizing the Website for you  
+Sending you marketing communications, including on behalf of third party advertisers, provided such advertisers will not be provided access to your personally-identifiable information  
+Sending you other electronic communications  
+Enabling your access and use of the Website  
+Monitoring compliance with the TOU  
+Allowing you to use interactive features of the Website
 
-  * To personalize your experience (your information helps us to better respond to your individual needs)
-  *  To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
-  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
-  *  To process transactions
+**SECURITY**  
+TheCountryCaller will exercise reasonable care, including taking technical and organisational precautions, in order to protect your personal data from unauthorized access or use. Your personal information will only be stored on secure servers owned, controlled or contracted for by TheCountryCaller. If TheCountryCaller contracts out its data hosting to a third party, we will endeavor to ensure that party has agreed to comply with our privacy standards as described in this PP.
 
+Despite TheCountryCaller obligations to make reasonable efforts to protect personal information as set forth above, TheCountryCaller cannot provide perfect security, and will not be responsible or liable for damage, pecuniary or otherwise, caused by a third party’s unauthorized access to or use of your personal information. Further, TheCountryCaller shall not be responsible for maintaining or storing your personal information or other UGC for any particular period of time.
 
+**DATA TRANSFER**  
+Your personal information may be transferred internationally between the countries in which  
+TheCountryCaller maintains a presence in order to enable the use of your data as specified in the PP.
 
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+**CHILD PRIVACY**  
+TheCountryCaller considers the privacy of children to be especially important and prohibits children under the age of 16 from sending their personal information over the internet without their parent/guardian’s permission.
 
-  * To administer a contest, promotion, survey or other site feature
-  * To send periodic emails
+**THIRD PARTY SITES**  
+The Website may contain links to third party sites. TheCountryCaller is not responsible for the practices of third parties and encourages users to read their privacy policies before using their websites.
 
+**DISCLOSURE TO THIRD PARTIES**  
+We do not share any of the personal information you provide to us with any third party other than service providers of ours who assist us in providing the information and/or services we are providing to you. To the extent that we do share your personal information with a service provider, we will endeavor to ensure that party has agreed to comply with our privacy standards as described in this PP.
 
-
-The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
-
-**How do we protect your information?**
-
-We implement a variety of security measures to maintain the safety of your personal information when you place an order
-
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
-
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
-
-**Do we use cookies?**
-
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
-
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
-
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service.
-
-**Do we disclose any information to outside parties?**
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
-**Third party links**
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-**California Online Privacy Protection Act Compliance**
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging in and click “My Account”, located at the top of each page.
-
-**Childrens Online Privacy Protection Act Compliance**
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
-**Google Analytics**
-
-Google Analytics is a web analytics tool that helps website owners understand how visitors engage with their website. Google Analytics customers can view a variety of reports about how visitors interact with their website so they can improve it. Google Analytics collects information anonymously. It reports website trends without identifying individual visitors. The full “Google Analytics privacy policy can be viewed at <http://www.google.com/intl/en/analytics/privacyoverview.html>
-
-**Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-**Your Consent**
-
-By using our site, you consent to our web site privacy policy.
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
-
-This policy was last modified on April 27, 2011
+**OTHER PERSONS’ PERSONAL INFORMATION**  
+In using the Website, you may acquire access to others’ personal information, such as names and addresses. Your use of the Website constitutes your agreement to respect others’ privacy with respect to personal information. You may not, under any circumstances, release others’ personal information to third parties, including your employees who have no need for the information, without the written consent of both TheCountryCaller and the person or persons whose personal information you intend to forward. You may not, under any circumstances, use personal information obtained from the Website to send unsolicited email, facsimile transmissions, or spam, even if the person to whom you intend to send unsolicited email or spam has communicated with you in the past. You agree to immediately notify TheCountryCaller of any release or breach of any third party’s personal information (including name, address, phone numbers, email addresses, account numbers, investment histories, or social security number) that occurs as a result of use of the Website under your user name.
