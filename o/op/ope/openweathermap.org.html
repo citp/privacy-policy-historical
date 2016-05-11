@@ -1,27 +1,26 @@
-<!--The following is the downloaded HTML source of the openweathermap.org privacy policy that was archived on 2015-10-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151016075843id_/http%3A//openweathermap.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the openweathermap.org privacy policy that was archived on 2016-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160511043652id_/http%3A//openweathermap.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
     <!--<meta http-equiv="X-UA-Compatible" content="IE=edge">-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
- 
     <meta name="keywords" content="weather, world, Openstreetmap, forecast, Openweather, current">
     <meta name="description" content="Current weather conditions in cities for world wide">
     <meta name="author" content="OpenWeatherMap.org">
     <meta name="domain" content="OpenWeatherMap.org">
     <meta http-equiv="pragma" content="no-cache">
     <meta http-equiv="Expires" content="-1">
-
     <title>Privacy policy</title>
+
 
     <!-- Bootstrap core CSS -->
     <!--<link href="css/bootstrap.css" rel="stylesheet"> -->
 
     <!-- Custom styles for this template -->
-    <link href="/combine/70a60c128cef9af892512b63a908cc49-1424437024" rel="stylesheet">
+    <link href="/combine/70a60c128cef9af892512b63a908cc49-1456039778" rel="stylesheet">
     
-    <link href="/combine/8fe3ca7be900f2e412aa9e32d4c0c5cd-1402933099" rel="stylesheet">
+    <link href="/combine/64bcac555f440fc9d411629c99b809d5-1402933099" rel="stylesheet">
 
     
     <!-- Resources -->
@@ -46,7 +45,7 @@
 function ShowSuccessMess(mess)
 {
 	var html = '<div class="alert alert-success" ><a class="close" data-dismiss="alert" href="#">×</a>'+mess+'</div>';
-	$("#alert_body").html(html);
+	document.getElementById("alert_body").innerHTML = html;
 }
 
 function ShowInfoMess(mess)
@@ -54,13 +53,13 @@ function ShowInfoMess(mess)
 	var html = '<div class="container"><div class="row"><div class="col-md-12"><div class="panel-body">';
 	html = html + '<div class="alert alert-info" ><a class="close" data-dismiss="alert" href="#">×</a>'+mess+'</div>';
 	html = html + '</div></div></div></div>';
-	$("#notes_block").html(html);
+	document.getElementById("notes_block").innerHTML = html;
 }
 
 function ShowAlertMess(mess)
 {
 	var html = '<div class="alert alert-error" ><a class="close" data-dismiss="alert" href="#">×</a>'+mess+'</div>';
-	$("#alert_body").html(html);
+	document.getElementById("alert_body").innerHTML = html;
 }
 
 function  errorHandler(e)
@@ -146,15 +145,15 @@ function pad(num, size) {
     <div class="mini-navbar mini-navbar-dark hidden-xs">
       <div class="container">
         <div class="col-sm-10">
-          <a href="https://openweathermap.desk.com/customer/portal/emails/new?t=535697" class="first-child" target="_blank">
-          <i class="fa fa-envelope">  </i>  <span class="hidden-sm">Email Us</span></a>
+          <a href="https://openweathermap.desk.com/" class="first-child" target="_blank">
+          <i class="fa fa-envelope">  </i>  <span class="hidden-sm">Support Center</span></a>
 
 <!--
           <a href="/register" class="pull-right" onclick="_gaq.push(['_trackEvent', 'Navbar', 'Main', 'register']);"><i class="fa fa-arrow-circle-down"></i> Sign Up</a>
           <a href="/signin" class="pull-right" onclick="_gaq.push(['_trackEvent', 'Navbar', 'Main', 'signin']);"><i class="fa fa-sign-in"></i> Sign In</a>
 -->
-          <a href="http://home.openweathermap.org/users/sign_up" class="pull-right" onclick="_gaq.push(['_trackEvent', 'Navbar', 'Main', 'register']);"><i class="fa fa-arrow-circle-down"></i> Sign Up</a>
-          <a href="http://home.openweathermap.org/users/sign_in" class="pull-right" onclick="_gaq.push(['_trackEvent', 'Navbar', 'Main', 'signin']);"><i class="fa fa-sign-in"></i> Sign In</a>
+          <a href="https://home.openweathermap.org/users/sign_up" class="pull-right" onclick="_gaq.push(['_trackEvent', 'Navbar', 'Main', 'register']);"><i class="fa fa-arrow-circle-down"></i> Sign Up</a>
+          <a href="https://home.openweathermap.org/users/sign_in" class="pull-right" onclick="_gaq.push(['_trackEvent', 'Navbar', 'Main', 'signin']);"><i class="fa fa-sign-in"></i> Sign In</a>
 
           
           <a href="#" class="pull-right" id="nav-search"><i class="fa fa-search" onclick="_gaq.push(['_trackEvent', 'Navbar', 'Main', 'search']);"></i> Weather in your city</a>
@@ -188,38 +187,40 @@ function pad(num, size) {
       <div class="container">
         <!-- Navbar Header -->
         <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-        
+
           <a class="navbar-brand" href="/">
-          <img src="/themes/demo/assets/vendor/owm/images/OWM_logo32_32.png" style="vertical-align:bottom">
-            OpenWeatherMap<span class="hidden-sm"></span></a>
+          
+              <img src="/themes/demo/assets/vendor/owm/images/logo_OpenWeatherMap_orange_website.png" height="30">
+          <!-- <img src="/themes/demo/assets/vendor/owm/images/OWM_logo32_32.png" style="vertical-align:bottom">
+            OpenWeatherMap<span class="hidden-sm"></span> -->
+                
+                
+            </a>
         </div> <!-- / Navbar Header -->
 
         <!-- Navbar Links -->
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">
-            <li><a href="/" class="bg-hover-color" onclick="_gaq.push(['_trackEvent', 'Navbar', 'Main', 'home']);">Home</a></li>
+           <!-- <li><a href="/" class="bg-hover-color" onclick="_gaq.push(['_trackEvent', 'Navbar', 'Main', 'home']);">Home</a></li> -->
             <li><a href="/city" class="bg-hover-color" onclick="_gaq.push(['_trackEvent', 'Navbar', 'Main', 'weather']);">Weather</a></li>
             <!--<li><a href="/maps" class="bg-hover-color" onclick="_gaq.push(['_trackEvent', 'Navbar', 'Main', 'maps']);">Maps</a></li>-->
 
             <li class="dropdown">
               <a href="#" class="dropdown-toggle bg-hover-color" data-toggle="dropdown">Maps <b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="/maps" class="bg-hover-color">Weather maps</a></li>
-                <li><a href="http://satellite.owm.io/modis" class="bg-hover-color">Current satellite maps</a></li>
+                <li><a href="/weathermap" class="bg-hover-color">Weather maps</a></li>
+                <li><a href="http://owm.io/modis" class="bg-hover-color">Current satellite maps</a></li>
                 <!--<li><a href="/help/sat.html" class="bg-hover-color">Current satellite maps</a></li>
                 <li><a href="/beautifulmaps" class="bg-hover-color">Beautiful maps</a></li>-->
-                <li><a href="http://satellite.owm.io/beautiful_maps" target="_blank" class="bg-hover-color">Beautiful maps</a></li>
+                <li><a href="http://owm.io/beautiful_maps" target="_blank" class="bg-hover-color">Beautiful maps</a></li>
+                <li><a href="http://openweathermap.org/map_editor" class="bg-hover-color">Map Editor</a></li>
               </ul>
             </li>
             
             <li><a href="/api" class="bg-hover-color" onclick="_gaq.push(['_trackEvent', 'Navbar', 'Main', 'api']);">API</a></li>
             <li><a href="/price" class="bg-hover-color" onclick="_gaq.push(['_trackEvent', 'Navbar', 'Main', 'price']);">Price</a></li>
+            <li><a href="/examples" class="bg-hover-color" onclick="_gaq.push(['_trackEvent', 'Navbar', 'Main', 'examples']);">Partners</a></li>
+            
              <!--<li><a href="/technology" class="bg-hover-color" onclick="_gaq.push(['_trackEvent', 'Navbar', 'Main', 'technology']);">Platform</a></li>-->
             <!--
             <li class="dropdown">
@@ -654,25 +655,24 @@ function pad(num, size) {
           <!-- API -->
           <div class="col-sm-4">
           
-            <h3 class="text-color"><span class="border-color">Weather in your city</span></h3>
+            <h3 class="text-color">Weather in your city</h3>
       <ul>
         <li><a href="/find?q=">Find your city</a></li>
-        <li><a href="/maps">Interactive weather maps</a></li>   
-        <li><a href="/help/sat.html">Interactive satellite image maps</a></li>
+        <li><a href="/weathermap">Weather maps</a></li>   
       </ul>
           
-            <h3 class="text-color"><span class="border-color">How to work with API</span></h3>
+            <h3 class="text-color">Weather APIs</h3>
             <div class="content">
      <ul>
-        <li><a href="/API">Weather API for developers</a></li>
+             <li><a href="/appid">How to start</a></li>
+        <li><a href="/API">Weather APIs for developers</a></li>
         <li><a href="/current">Current weather</a></li>  
-        <li><a href="/forecast16">5 day / 3 hour weather forecast</a></li>   
+        <li><a href="/forecast5">5 day / 3 hour weather forecast</a></li>   
         <li><a href="/forecast16">16 day / daily weather forecast</a></li>
         <li><a href="/current">Hourly historical data</a></li>
         <li><a href="/api_station">Data from weather stations</a></li>
-        <li><a href="/appid">How to work with API key</a></li>
         <li><a href="/examples">Examples of API use</a></li>
-        <li><a href="/price">Price of service and support</a></li>
+
       </ul>
 
 
@@ -681,18 +681,19 @@ function pad(num, size) {
           </div>
           <!-- Map layers -->
           <div class="col-sm-4">
-            <h3 class="text-color"><span>Map layers</span></h3>
+            <h3 class="text-color">Map layers</h3>
             <div class="content">
         <ul>
-        <li><a href="/hugemaps">Examples of OpenWeatherMap weather map layers</a>
+        <li><a href="/hugemaps">Examples of weather map layers</a>
         </li><li><a href="map_array"> Embed weather maps with array of data</a></li>
         <li><a href="tile_map"> Embed weather maps with tile server</a></li>
        </ul>
-            <h3 class="text-color"><span>What technologies we use</span></h3>
+    
+    <h3 class="text-color">How to subscribe</h3>
       <ul>
-        <li><a href="/technology">OpenWeatherMap technology</a></li>
-        <li><a href="/models">Meteorological models</a></li>
-        <li><a href="/datasource">Meteorological data sources</a></li>
+          <li><a href="/price">Price-list</a></li>
+        <li><a href="//price_subscribe">Subscribe to APIs</a></li>
+
       </ul>
             
             <div class="alert alert-info">
@@ -716,24 +717,25 @@ Found a bug? Have a question or idea? Welcome to
           <div class="col-sm-4">
           
           
-          <h3 class="text-color"><span>Weather station network</span></h3>
+          <h3 class="text-color">Weather station network</h3>
 <ul>
         <li><a href="/stations">How to connect your weather station</a></li>
         <li><a href="/stationmap">Network of weather stations in real time</a></li>
-        <li><a href="/owmstation">OpenWeatherMap weather station prototype</a></li>
         <li><a href="/stations#DIY">DIY weather station projects</a></li>
     </ul>
     
+          <h3 class="text-color">About</h3>
+      <ul>
+        <li><a href="/technology">OpenWeatherMap technology</a></li>
+        <li><a href="/models">Meteorological models</a></li>
+        <li><a href="/datasource">Data sources</a></li>
+      </ul>
           
-          <h3 class="text-color"><span>Go Social</span></h3>
+          
+          <h3 class="text-color">Go Social</h3>
             <div class="content social">
-              <p>Stay in touch with us:</p>
-              <ul class="list-inline">
-                  <li><a href="https://twitter.com/OpenWeatherMap" target="_blank" class="twitter"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="https://www.facebook.com/groups/270748973021342" target="_blank" class="facebook"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="https://github.com/search?q=openweathermap&amp;ref=cmdform" target="_blank" class="github"><i class="fa fa-github"></i></a></li>
-              </ul>
-              <div class="clearfix"></div>
+              <p>Follow OpenWeatherMap on <a href="https://twitter.com/OpenWeatherMap" target="_blank">Twitter</a>, <a href="https://www.facebook.com/groups/270748973021342" target="_blank">Facebook</a>, <a href="https://plus.google.com/u/0/communities/101265402580965077532" target="_blank">Google+</a> and <a href="https://github.com/search?q=openweathermap&amp;ref=cmdform" target="_blank">GitHub.</a></p>
+              
             </div>
             
  
@@ -748,7 +750,7 @@ Found a bug? Have a question or idea? Welcome to
         <!-- Copyrights -->
         <div class="row">
           <div class="col-sm-12">
-            <p>© 2012-2015 OWM Inc.  <a href="/about">About company</a> | <a href="/privacy-policy">Privacy Policy</a> | <a href="/terms">Terms of Service</a></p>
+            <p>© 2012-2016 OpenWeatherMap, Inc.  <a href="/about">About company</a> | <a href="/privacy-policy">Privacy Policy</a> | <a href="/terms">Terms of Service</a></p>
           </div>
         </div>
       </div>
@@ -761,13 +763,13 @@ Found a bug? Have a question or idea? Welcome to
 
     
 <script type="text/javascript">
-jQuery(document).ready(function() {
+document.addEventListener("DOMContentLoader", function() {
 
   var units = 'metric';
   if( get_cookie('units') ) units = get_cookie('units');
   if( units == 'metric') {
       document.getElementById("units_check").checked = true;
-  }else{
+  } else {
       document.getElementById("units_check").checked = false;
   }
 });
