@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fancyproductdesigner.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203213630id_/http%3A//fancyproductdesigner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fancyproductdesigner.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511172232id_/http%3A//fancyproductdesigner.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fancy Product Designer
 
