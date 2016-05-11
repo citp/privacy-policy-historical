@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slideboom.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206053327id_/http%3A//www.slideboom.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slideboom.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511223808id_/http%3A//www.slideboom.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - SlideBoom
 
