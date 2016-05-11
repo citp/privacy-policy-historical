@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the thehothits.com privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412015543id_/http%3A//www.thehothits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehothits.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511150026id_/http%3A//www.take40.com/privacy.html) for the most accurate reproduction.*
 
-# New Music - Music Videos | Music Charts | Countdown the Hottest Songs - The Hot Hits
+# Take 40 | Top 40 Countdown Australia | Music Charts
 
-### 
-
-Version 3.0 - Last updated 25 August 2014
+### Version 3.0 - Last updated 25 August 2014
 
 Authentic Entertainment Pty Ltd of Level 4, 21-31 Goodwood Street, Richmond, Victoria 3121, Australia (Authentic) is bound by the Australian Privacy Principles set out in the Privacy Act 1988 (Cth) (the Act) and is committed to protecting the privacy of any personal information you provide to us.
 
@@ -40,12 +38,9 @@ Generally, we may use your personal information:
 
 When you use or register as a user of any of our websites, Authentic may use the information we collect:
 
-  * to monitor who is accessing the website or using services offered on the website;  
-
-  * to profile the type of people accessing the website;  
-
-  * to tailor the information on the website to your personal preferences; and  
-
+  * to monitor who is accessing the website or using services offered on the website;
+  * to profile the type of people accessing the website;
+  * to tailor the information on the website to your personal preferences; and
   * unless you opt-out of receiving communications, to send you information about our services and products and services and products of our third party suppliers and 'partners' (such as record companies) by email or SMS.
 
 
