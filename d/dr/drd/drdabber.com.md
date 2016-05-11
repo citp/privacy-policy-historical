@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drdabber.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110081106id_/http%3A//www.drdabber.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drdabber.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511100944id_/http%3A//www.drdabber.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
