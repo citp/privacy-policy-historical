@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the introducingbooks.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221153047id_/http%3A//www.introducingbooks.com/introducing/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the introducingbooks.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511151631id_/http%3A//www.introducingbooks.com/introducing/privacy-policy) for the most accurate reproduction.*
 
 # Introducing Books – Graphic Guides | privacy policy
 
