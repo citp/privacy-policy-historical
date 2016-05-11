@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the adlogic.com.au privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507162903id_/http%3A//www.adlogic.com.au/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adlogic.com.au privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511094325id_/http%3A//www.adlogic.com.au/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | adlogic
-
-### Privacy Declaration
+# Privacy | My Recruitment Plus
 
 Martian Logic Pty Ltd ( hereafter Martian logic) is committed to respecting the privacy of its customers. The following policy discusses how personal information received by Martian logic will be dealt with.
 
