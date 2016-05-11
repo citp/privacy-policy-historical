@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mbs.ac.uk privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023122119id_/http%3A//www.mbs.ac.uk/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbs.ac.uk privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512012704id_/http%3A//www.mbs.ac.uk/help/privacy) for the most accurate reproduction.*
 
-# Our privacy policy and what it means when using our site | Alliance MBS
+# Our privacy policy | Alliance MBS
 
 ###   
 How we use your information
