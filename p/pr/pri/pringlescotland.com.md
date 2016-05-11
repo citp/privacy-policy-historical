@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pringlescotland.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110100746id_/http%3A//brand.pringlescotland.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pringlescotland.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511085406id_/http%3A//brand.pringlescotland.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pringle of Scotland
 
@@ -14,7 +14,7 @@ If you are under 16, we require you to inform your parent or guardian about this
 
     3. You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please do not hesitate to contact us by:
 
-      1. writing to Pringle of Scotland Ltd, Glebe Mill, noble Place, Hawick, TD9 9QE, Scotland;
+      1. writing to Pringle of Scotland Ltd, 2 Victoria Road, Hawick, TD9 7AH, Scotland;
 
       2. email at enquiries@pringlescotland.com; or
 
