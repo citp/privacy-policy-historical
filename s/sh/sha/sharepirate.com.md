@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharepirate.com privacy policy that was archived on 2015-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150723174721id_/http%3A//sharepirate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharepirate.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512013508id_/http%3A//sharepirate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SharePirate
 
