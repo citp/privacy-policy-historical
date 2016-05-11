@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nightzookeeper.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115045138id_/http%3A//nightzooteacher.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nightzookeeper.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511103307id_/http%3A//nightzooteacher.com/privacypolicy) for the most accurate reproduction.*
 
 # Night Zoo Teacher • Privacy Policy
 
@@ -31,11 +31,11 @@ If you have any feature suggestions or would like to talk to the developers of N
 
 **Drawing Torch User**
 
-If you download the Night Zookeeper Drawing Torch mobile application we collect no information about you personally. However we do use Google Analytics to record anonymous statistics about how the application is used. This includes: which tools are used and which missions are most popular. These analytics are collected for the sole purpose of improving our mobile application. There is a link on the Drawing Torch mobile application that directs to [](http://www.drawingtorch.com/)[http://www.drawingtorch.com](http://www.drawingtorch.com/).
+If you download the Night Zookeeper Drawing Torch mobile application we collect no information about you personally. However we do use Google Analytics to record anonymous statistics about how the application is used. This includes: which tools are used and which missions are most popular. These analytics are collected for the sole purpose of improving our mobile application. There is a link on the Drawing Torch mobile application that directs to [](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.drawingtorch.com&t=ZTNhNWQ2OGMxOWU0MDgxMjhkMmE4YTNjOWQ1MzQ1ZGNlMWFlMThkZSxUbU4zdWpESg%3D%3D)[http://www.drawingtorch.com](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.drawingtorch.com&t=ZTNhNWQ2OGMxOWU0MDgxMjhkMmE4YTNjOWQ1MzQ1ZGNlMWFlMThkZSxUbU4zdWpESg%3D%3D).
 
 **Teleporting Torch User**
 
-If you register on [http://dashboard.nightzookeeper.com](http://dashboard.nightzookeeper.com/) or on the Teleporting Torch app then you must provide a valid email address and by doing this you confirm that you are over 18 years of age and accept our terms of use as well as those of the iTunes store.
+If you register on [http://dashboard.nightzookeeper.com](http://t.umblr.com/redirect?z=http%3A%2F%2Fdashboard.nightzookeeper.com&t=ZWUzMjYzYmVkOGUyNzI5ZjMyYzJmNTI3MTdjMjQ2YTI4OWRiZmJjOSxUbU4zdWpESg%3D%3D) or on the Teleporting Torch app then you must provide a valid email address and by doing this you confirm that you are over 18 years of age and accept our terms of use as well as those of the iTunes store.
 
 As we mentioned, the registration process on the app and Website requires an email address. Our intention is to collect parent or teacher email addresses, which we can use for the purpose of marketing communication and important updates regarding Night Zookeeper. We do not share any collected email addresses with any 3rd party and we include unsubscribe links on all correspondence so that users can have their email addresses deleted from our database if they wish. The company has a data protection policy to ensure the safety of your information.
 
@@ -113,7 +113,7 @@ not post anything on their profile which discloses their personal identity such 
 
 **Website Security**
 
-The only way that you will be contacted for personal identifiable information will be through an official email from the Company. If you receive a request for personal information from persons claiming to be the Company please report this directly to roa[…](http://www.google.com/recaptcha/mailhide/d?k=01nya-p7iw8cb-doqp3xdyra==&c=91gj750vtvew1y6yz9ypkfjgdy5lxf0rwcbyjzajcv4=)@nightzookeeper.com
+The only way that you will be contacted for personal identifiable information will be through an official email from the Company. If you receive a request for personal information from persons claiming to be the Company please report this directly to roa[…](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.google.com%2Frecaptcha%2Fmailhide%2Fd%3Fk%3D01nya-p7iw8cb-doqp3xdyra%3D%3D%26c%3D91gj750vtvew1y6yz9ypkfjgdy5lxf0rwcbyjzajcv4%3D&t=ZTdiMjUwYzdmOTMxYjllNDVkMTU1MzVlNWIyYjI5ZTg1ZDZiYTI3NixUbU4zdWpESg%3D%3D)@nightzookeeper.com
 
 **Links To Other Websites**
 
@@ -125,6 +125,6 @@ This policy is being constantly reviewed and updated in order to remain in line 
 
 **Questions**
 
-If you have any questions please contact us at roa[…](http://www.google.com/recaptcha/mailhide/d?k=01nya-p7iw8cb-doqp3xdyra==&c=91gj750vtvew1y6yz9ypkfjgdy5lxf0rwcbyjzajcv4=)@nightzookeeper.com or send us a letter to Customer Service, Wonky Star Limited, Hodgson & Dawes, 19 New Rd, Brighton, East Sussex, BN1 1UF
+If you have any questions please contact us at roa[…](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.google.com%2Frecaptcha%2Fmailhide%2Fd%3Fk%3D01nya-p7iw8cb-doqp3xdyra%3D%3D%26c%3D91gj750vtvew1y6yz9ypkfjgdy5lxf0rwcbyjzajcv4%3D&t=ZTdiMjUwYzdmOTMxYjllNDVkMTU1MzVlNWIyYjI5ZTg1ZDZiYTI3NixUbU4zdWpESg%3D%3D)@nightzookeeper.com or send us a letter to Customer Service, Wonky Star Limited, Hodgson & Dawes, 19 New Rd, Brighton, East Sussex, BN1 1UF
 
 That’s it for the legal stuff! Thanks for reading.
