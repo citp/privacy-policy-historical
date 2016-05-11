@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wwf.org.my privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108014932id_/http%3A//www.wwf.org.my/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwf.org.my privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511180051id_/http%3A//www.wwf.org.my/privacy) for the most accurate reproduction.*
 
-# WWF Malaysia - Privacy Policy Statement
+# Privacy Policy Statement | WWF Malaysia
 
 Notice and Choice Principle Statement pursuant to the Personal Data Protection Act 2010
 
