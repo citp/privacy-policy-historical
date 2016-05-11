@@ -1,128 +1,48 @@
-> *The following text is extracted and transformed from the family.ca privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211181748id_/http%3A//family.ca/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the family.ca privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511235228id_/http%3A//www.family.ca/privacy-cookies-policy) for the most accurate reproduction.*
 
-# privacy policy - family.ca
+# Privacy & Cookies Policy - Family.ca
 
-**1\. Astral Media’s Commitment to Privacy**
+## Privacy & Cookies Policy – Summary
 
-Last Updated - September 30, 2005
+Last Updated: October 14, 2015
 
-Protecting your privacy is important to **Astral Media Inc.** As part of our commitment to privacy protection, we have implemented this Privacy Policy, which explains our privacy practices, including those of our Websites. We may change this Privacy Policy from time to time to better serve your needs. Notice of any changes will be provided on our Websites and a copy of all amendments is on file at our offices. You can be sure that our Privacy Policy satisfies all of the requirements of applicable privacy law, including Canada ’s _Personal Information Protection and Electronic Documents Act_ (“PIPED Act”). 
+Welcome! This Privacy & Cookies Policy Summary governs the websites **www.family.ca**  (including both mobile and online versions) made available by DHX Television Ltd. (“ **DHX Television** ”, “ **we** ” “ **our** ” or “ **us** ”), including your use of interactive features and other services that we own and control and that post a link to this Privacy & Cookies Policy Summary (collectively, the “ **Service** ”).
 
-This Privacy Policy governs the way we manage your Personal Information. If you have any questions or concerns about your privacy, please contact us, using the contact information at the end of this policy. 
+We understand and appreciate the concerns that parents and families may have with regard to information gathered about visitors to our Service. Additionally, younger, visitors should always check with their parents or guardians before entering information on any website or mobile application and we encourage families to discuss their household guidelines regarding the online sharing of information.
 
-Whenever you provide us with Personal Information, whether in writing, over the telephone, or online, you will be referred to this Privacy Policy. If you do not agree with our Policy, please contact us at the address given at the end of this Policy, we would be pleased to address your concerns. ****
+This Privacy & Cookies Policy Summary is designed to provide transparency into our privacy practices and principles, in a summary format that our visitors can navigate, read and understand. To the extent that you want additional details about our privacy practices and principles, please visit our full **[Privacy and Cookies Policy](https://web.archive.org/privacy-cookies-policy-long)**. In addition, please review the Service’s **[Terms of Use Summary](https://web.archive.org/terms-of-use)** and **[Terms of Use](https://web.archive.org/terms-of-use-long)** , which governs your use of the Service. _By using our Service_ , _you consent to our Privacy & Cookies Policy and our Terms of Use and our collection, use and sharing of your information and data, and other activities, as described below_ _._ If you do not agree to the terms of our Privacy & Cookies Policy, please do not provide us with any information and do not use this Service.
 
-**2\. What is “Personal Information”?**
+ **To ease review of our Privacy and Cookies Policy, each section below contains a brief summary of our privacy practices and principles and a link to the full explanation. Click on the headings or the “ _More_ ” buttons to be taken to the full explanation. **
 
-“Personal Information” is information about you as an individual. Examples include your name, mailing and e-mail addresses, age, birthday telephone number, picture and voice recording. Your personal preferences, such as your favourite colour or flavour of ice cream, could also qualify as Personal Information if connected with other information that identifies you. This Privacy Policy describes the types of Personal Information that we collect, how we collect it, why we collect it and what we use it for. 
-
-“Non-identifiable Information” is information that cannot be associated with, or traced back to, a specific person. Non-identifiable information includes: anonymous aggregated information, information about your visits to our Websites which is not linked to you, information about your computer’s operating system and web browser software. Your computer and its operating systems, browsers, and memory contain vast quantities of transaction data and records of your use of it. This Personal Information could be gleaned from these systems by outsiders if you do not take steps to protect your system. It is our policy not to associate this information with customers, even though we verify some kinds of technical information to ensure that our Websites are optimized to serve our customers. ****
-
-When you interact with our Websites, we may use a browser feature, known as a “cookie”, to verify non-identifiable information about visitors to our Websites and measure visitor traffic patterns. We do this to maintain the best possible Websites. A cookie is a small computer file. When you first visit our Websites, the Website manager may have implemented a program that creates a small computer file stored on your computer’s hard drive. We ensure that the minimum information required is placed in the cookie only so that we can recognize returning Website visitors. The cookie does not contain Personal Information and we will not combine information in the cookie with Personal Information that would enable us to identify you individually. On subsequent visits to the Website, our server communicates with your computer, reads the cookie, recognizes and confirms that you are a returning visitor. Our server uses this information to provide you with a “short cut” that facilitates the quickest, most efficient and best possible Website experience. 
-
-Most browser softwares allow you to delete cookies. You should consult your Internet service provider for information on how to delete cookies. This may interfere with our ability to personalize your experience at our Websites and be recognized, or may slow down performance. ****
-
-**3\. Collection and Use of Personal Information**
-
-We collect Personal Information in the following circumstances:
-
-  * When you join a club or become a member through this Website, by regular mail or by using SMS text messaging; 
-  * When you enter a contest or other promotion through this Website, by regular mail or by using SMS text messaging; 
-  * When you subscribe to our e-mail newsletter(s); 
-  * When you respond to online questionnaires; 
-  * When you participate in interactive online activities (including games, Kid’s Gallery, chatrooms or bulletin boards); 
-  * When you shop online at our Websites; or ****
-  * When you contact us to make requests or comment on our services. ****
-
-
-
-We take particular care in the collection of Personal Information from children under the age of 13. We do not require Personal Information from children to obtain access to, surf or view the content on any of the Websites of Astral Media Inc. However, certain Personal Information may be required for a child to participate in one of our contests or promotions. In these circumstances, we may collect the first and last name (or user name) of the child, the child’s e-mail address, home address, birth date and gender, as well as the name, home address, e-mail address and telephone number of the child’s parent or guardian. ****
-
-We only collect the Personal Information from a child under the age of 13 that is reasonably necessary for the purposes of verifying the child’s age, administering the child’s participation in the contest or promotion and, if the child wins a prize, contacting the child’s parent or guardian. We will not use, maintain or disclose this Personal Information for any other purpose. 
-
-At the time of collection of any Personal Information, we generally recommend to the child to print a copy of this Privacy Policy and give it to his or her parent or guardian. The parent or guardian can contact us at any time to get more information about our personal information practices or to remove the child’s Personal Information from our records. 
-
-Astral Media Inc. strives to ensure that our Internet experiences for young people are safe and fun, and we urge parents and guardians to take an active role and explore where their children are roaming on the Internet. 
-
-This Website may include links to third party websites. These third parties have separate and independent privacy policies. Any personal information you share with these third parties through their websites will be administered under their privacy policies. Astral Media Inc. has no control over third party privacy policies and therefore has no responsibility or liability for the manner in which third parties may collect, use or disclose and otherwise treat your personal information. 
-
-Further details regarding our collection and use of Personal Information is set out below. 
-
-**a) Clubs or Memberships**
-
-Many of our sites offer you the opportunity to become a member or belong to a club, so that you can participate on a regular basis in games, bulletin boards, contests and other activities offered on the site. We do collect Personal Information when you join in accordance with the following principles: 
-
-We collect only the information necessary for the activities offered; and 
-
-Access to our activities is never conditional upon you providing more Personal Information than is necessary for such activities. 
-
-**b) Contests**
-
-When you enter a contest, you may be required to provide the following Personal Information: your name, address 2 or province of residence, e-mail address, telephone number 3 and, where an age eligibility requirement applies, your age range. This Personal Information is collected solely for the purpose of identifying and communicating with contest prizewinners. Personal Information from non-winners is destroyed, in accordance with applicable legal requirements. When an affidavit of eligibility and release is sent to the prizewinner’s parent or legal guardian, it must be signed and returned before the prize can be awarded. If the release is not returned within the specified time period, the winner forfeits the prize and an alternative winner may be chosen. 
-
-**c) Newsletter Subscriptions**
-
-When you subscribe to our online newsletter(s), you are required to provide the following mandatory Personal Information so that we can deliver the newsletter to you electronically: your first name, e-mail address and your province of residence (in the last case, for statistical purposes only). Subscribers (and their parents or guardians, where applicable) can cancel a newsletter at any time by following the “unsubscribe” instructions at the bottom of the newsletter or by using the information at the end of this Privacy Policy. Personal Information is deleted from our database immediately when a subscriber cancels its subscription. 
-
-**d) Online Questionnaires**
-
-From time to time, we may request your feedback on an activity, product or service that we offer or provide or on content on our Websites. We ask for your name and e-mail address when you are providing us with feedback so that we may reply to you, but you always have the option of providing us the feedback without sharing this information. ****
-
-**e) Other Online Activities**
-
-When you visit our Websites and participate in other online activities, we may collect information such as your name, nickname, age category, preferences, opinions, etc. Whether or not you are required to join a club or become a member of the site to participate in these activities we always comply with the principles stated in subsection (a) above with respect to memberships or clubs. 
-
-**f) Online Shopping**
-
-You must be 18 years of age (or any other applicable minimum age in your province of residence) or older to make an online purchase on our Websites. Our shopping Websites collect only basic ordering information, including your name and shipping address, telephone number and e-mail address, and credit card number. This is for the sole purposes of processing and delivering products or services that you buy online. We do not share this information outside Astral Media Inc., except with our approved agents, who help us to process your order. All of our approved agents are required to provide a level of privacy protection comparable to that provided in this policy and are not permitted to use your information for any other purpose, such as to market to you. 
-
-**g) Contacting Customer Service**
-
-If you telephone, write or e-mail us to comment on one of our services or Websites, we will retain the information for our records during a certain period of time. Disclosure of your name and Personal Information is voluntary in this circumstance. 
-
-**4\. Disclosure of Personal Information**
-
-We will not disclose your Personal Information unless required by law. We must provide your Personal Information in response to a search warrant or other legally valid enquiry or order, or to an investigative body in the case of a breach of an agreement or contravention of law, or as otherwise required by law. We use your Personal Information for internal purposes only. We do not sell, rent or trade in Personal Information. We may transfer information to third parties who need such Personal Information to provide services on behalf of Astral Media Inc. Any such service providers are contractually bound to maintain the confidentiality of such transferred Personal Information and are prohibited from using the Personal Information for any other purpose. Your consent to our use of Personal Information can be withdrawn at any time by following the directions at the end of this policy. We will obtain your consent before using your Personal Information for any purpose other than these above. Once your Personal Information is no longer required for the purposes above, it will be deleted. ****
-
-**5\. Security and Safeguards**
-
-We know how important privacy is to you. That is why we protect and safeguard your Personal Information. Our security policies govern the protection of the information on our information systems, the way we protect our Websites from malicious attack, and the way in which we dispose of information no longer needed. We screen and train our employees carefully to ensure that they will always have the highest regard for you and your privacy, and we restrict access to your Personal Information to only those with a need to know. 
-
-We make best efforts to keep our servers in a safe environment and protect our information technology infrastructure from abuse. Security on the Internet is a continuously evolving problem and we hire experts who keep up with the latest trends. If you receive any electronic communication which purports to be from a member of the Astral Media Group that you have any questions or concerns about, please contact us. Spam, improper use, and pirating of domain names and email addresses is a growing problem, so we appreciate hearing about incidents in order that we may investigate them and provide you the best customer service. 
-
-**6\. Accessing Your Personal Information**
-
-You have the right to access, verify and amend Personal Information that we collect about you. To keep your Personal Information current, you can amend inaccuracies and make corrections by contacting us as described at the end of this Privacy Policy. 
-
-**7\. Contact Us With Concerns, to Update Your Personal Information, to Opt Out or To Complain**
-
-We have tried to anticipate and meet all of your expectations with respect to the treatment of your Personal Information and the privacy of your online experience with us. If you have any concerns or questions, please contact us at the address below. This is the address to contact if you: 
-
-  * Have questions or concerns about our treatment of your Personal Information; 
-  * Wish to update or access your Personal Information; 
-  * Want to withdraw your consent to the collection and use of your Personal Information, or the information of your child if you are a parent or guardian; or 
-  * Wish to cancel an on line newsletter subscription. 
+  1. **[What Information Does the Service Collect?](https://web.archive.org/privacy-cookies-policy-long#section1) **We collect and receive information about you as you use and interact with the activities available on our Service, explained further in this section.
+    1.  **[Information You Provide to Us](https://web.archive.org/privacy-cookies-policy-long#section1A) **We may collect Personal Information and Demographic Information (defined below) that you provide to us when you provide it to us on the Service. For example, we may collect this information through various forms and in various places on the Service, including when you sign-up for an account to use the Service or when you otherwise interact with the Service (such as when you view and click on activities) offered on the Service. **[More](https://web.archive.org/privacy-cookies-policy-long#section1A)**
+    2.  **[Information Collected and Stored As You Access and Use the Service](https://web.archive.org/privacy-cookies-policy-long#section1B) **Certain information may be collected from you automatically when you access and use the Service. For example, we and third parties may utilize technologies on the Service such as cookies (and others) to collect information about your use of the Service. These technologies may track your activities over time and across other third-party sites and services.
+    3.  **[Location-Based Information](https://web.archive.org/privacy-cookies-policy-long#section1C) **When using our Service, we may obtain information about your location or provide other location-based services to you. **[More](https://web.archive.org/privacy-cookies-policy-long#section1C)**
+    4.  **[Information Third Parties Provide About You](https://web.archive.org/privacy-cookies-policy-long#section1D) **We may obtain information about you from third parties and we combine with the information we collected from you on the Service. **[More](https://web.archive.org/privacy-cookies-policy-long#section1D)**
+    5.  **[Interactions with Third-Party Services](https://web.archive.org/privacy-cookies-policy-long#section1E) **If you interact with third-party services, those services may send us information about you and we may send them information about you. **[More](https://web.archive.org/privacy-cookies-policy-long#section1E)**
+    6.  **[California Do Not Track Disclosures](https://web.archive.org/privacy-cookies-policy-long#section1F) **We currently do not look for or respond to browser “do not track” signals, but you may have certain other options regarding tracking and/or targeting. **[More](https://web.archive.org/privacy-cookies-policy-long#section1F)**
+    7.  **[Information You Provide About a Third Party](https://web.archive.org/privacy-cookies-policy-long#section1G) **You may provide us information about others, such as when you send a friend or family member a message. If so, the information you provide (names, email addresses, etc.) may be used to facilitate the communication, but will not be used for other marketing purposes unless your friend or family member consents. You may be identified to the friend or family member in connection with such a message. ****[More](https://web.archive.org/privacy-cookies-policy-long#section1G)****
+  2.  **[How Do We Use The Information Collected?](https://web.archive.org/privacy-cookies-policy-long#section2)**
+    1.  **[Use of Information By Us](https://web.archive.org/privacy-cookies-policy-long#section2A) **We use your Personal Information, Demographic Information and Usage Information for a variety of purposes detailed in this Section. These purposes include processing transactions you request to receive or providing you with information such as to send you electronic newsletters. **[More](https://web.archive.org/privacy-cookies-policy-long#section2A)**
+    2.  **[Use of Information For Recruitment Purposes](https://web.archive.org/privacy-cookies-policy-long#section2B) **If you apply for a job with us, we use your application and related information for considering you for a position. ****[More](https://web.archive.org/privacy-cookies-policy-long#section2B)****
+  3.  **[How and When Do We Share Information With Third Parties?](https://web.archive.org/privacy-cookies-policy-long#section3) **We may provide your information to third parties under various circumstances detailed in this Section. These may include:
+    1.  **[When You Request Information From or Provide Information to Third Parties](https://web.archive.org/privacy-cookies-policy-long#section3A) **If you request information from third parties, request that we send information to third parties or interact with third-party web sites, ads, content or tools (including Facebook and other third party share functionality), we may share your information with such parties and/or they may collect your information directly. **[More](https://web.archive.org/privacy-cookies-policy-long#section3A)**
+    2.  **[Third Parties Providing Services on our Behalf](https://web.archive.org/privacy-cookies-policy-long#section3B) **Our vendors may collect your information on our behalf or we may share it with them so that they may provide services to us and you. Some may offer you choices regarding the collection and use of your information. **[More](https://web.archive.org/privacy-cookies-policy-long#section3B)**
+    3.  **[To Protect the Rights of DHX and Others](https://web.archive.org/privacy-cookies-policy-long#section3C) **There are a variety of administrative and legal reasons for which we may share some or all of your information. **[More](https://web.archive.org/privacy-cookies-policy-long#section3C)**
+    4.  **[Affiliates and Business Transfer](https://web.archive.org/privacy-cookies-policy-long#section3D) **We may share your information with our affiliates and we may share your information in the event of a sale, merger or similar transaction involving our company. **[More](https://web.archive.org/privacy-cookies-policy-long#section3D)**
+    5.  **[Co-branded Areas](https://web.archive.org/privacy-cookies-policy-long#section3E) **Co-branded areas may include information collection by us and third parties. Such third parties privacy policies, not ours, govern their practices. **[More](https://web.archive.org/privacy-cookies-policy-long#section3E)**
+    6.  **[Sweepstakes, Contests and Promotions](https://web.archive.org/privacy-cookies-policy-long#section3F) **We collect and use information in connection with sweepstakes, contests and other promotions. **[More](https://web.archive.org/privacy-cookies-policy-long#section3F)**
+    7.  **[Your California Privacy Rights](https://web.archive.org/privacy-cookies-policy-long#section3G) **California residents may request information about sharing of certain personal information with third parties for the third parties’ direct marketing purposes by contacting us using the methods described in this section. **[More](https://web.archive.org/privacy-cookies-policy-long#section3G)**
+    8.  **[Your European Privacy Rights](https://web.archive.org/privacy-cookies-policy-long#section3H) **Certain European residents have certain data protection rights.  ** **[More](https://web.archive.org/privacy-cookies-policy-long#section3H)****
+  4.  **[What About Information I Disclose Publicly or to Others?](https://web.archive.org/privacy-cookies-policy-long#section4)**
+    1.  **[User Content and Public Information](https://web.archive.org/privacy-cookies-policy-long#section4A) **Posting your content in public areas makes it available to others. Please think carefully before deciding what content you post or share on the Service. **[More](https://web.archive.org/privacy-cookies-policy-long#section4A)**
+    2.  **[Name and Likeness](https://web.archive.org/privacy-cookies-policy-long#section4B) **You grant us the right to use your name and likeness in connection with your posting and activities. ****[More](https://web.archive.org/privacy-cookies-policy-long#section4B)****
+  5.  **[Ads and Information About You](https://web.archive.org/privacy-cookies-policy-long#section5) **We and third parties may send you targeted ads based on your location, information and/or behavior. If you object, you can exercise choices some third parties may offer. ****[More](https://web.archive.org/privacy-cookies-policy-long#section5)****
+  6.  **[Does Third-Party Content, Links to Third-Party Sites and/or Third-Party Apps appear on the Service?](https://web.archive.org/privacy-cookies-policy-long#section6) **We may allow you to access third-party content on the Service, or to link to third-party applications and locations from the Service, but we are not responsible for your interaction with third-party content, apps and locations. ****[More](https://web.archive.org/privacy-cookies-policy-long#section6)****
+  7.  **[How Do I Access, Update or Correct My Information, Communications Preferences and Questions?](https://web.archive.org/privacy-cookies-policy-long#section7) **You may access, update or correct your Personal Information and change your communications preferences by contacting us by email at: [privacy.tv@dhxmedia.com](mailto:privacy.tv@dhxmedia.com). **[More](https://web.archive.org/privacy-cookies-policy-long#section7) **If you have any questions or complaints about the Privacy & Cookies Policy or practices described in it (including the manner in which we or our service providers treat your information), you should contact us in the following ways: Postal Mail: DHX Television Ltd., 1478 Queen Street, Halifax, Nova Scotia B3J 2H7 Canada (Attn: Privacy Officer); Email: [privacy.tv@dhxmedia.com](mailto:privacy.tv@dhxmedia.com). ****[More](https://web.archive.org/privacy-cookies-policy-long#section7)****
+  8.  **[What About the Transfer of Information to Other Countries?](https://web.archive.org/privacy-cookies-policy-long#section8) **You consent to your data being transferred to Canada, the United States and the European Union. ****[More](https://web.archive.org/privacy-cookies-policy-long#section8)****
+  9.  **[What Should Parents Know About Children?](https://web.archive.org/privacy-cookies-policy-long#section9) **We recognize the need to provide further privacy protections with respect to personal information we may collect from children under the age of thirteen (13) and do not knowingly collect personal information from children on the Service that requires parental notice and consent under the Children’s Online Privacy Protection Act without obtaining such parental consent. If you think we have, let us know. ****[More](https://web.archive.org/privacy-cookies-policy-long#section9)****
+  10.  **[What About Security?](https://web.archive.org/privacy-cookies-policy-long#section10) **No data security is absolute, but we endeavor to take reasonable steps to secure data appropriately. ****[More](https://web.archive.org/privacy-cookies-policy-long#section10)****
+  11.  **[What About Changes to the Privacy& Cookies Policy?](https://web.archive.org/privacy-cookies-policy-long#section11) **We may change this Privacy & Cookies Policy upon posting of a revised privacy & cookies policy. However, we will continue to treat your Personal Information under the terms of the privacy & cookies policy in effect when it was collected unless you otherwise consent. **[More](https://web.archive.org/privacy-cookies-policy-long#section11)**
 
 
-
-1.Reference to Astral Media Inc. includes the corporate office and all the subsidiaries and all the business units controlled or operated by Astral Media Inc.  
-2.In case of children, subject to the conditions set out in Section 3 of this Customer Privacy Policy.   
-3.See 2. 
-
-  
-Please Contact 
-
-Natalie Talsky  
-Director, Business & Legal Affairs  
-The Family Channel Inc.  
-BCE Place  
-181 Bay Street  
-P.O. Box 787  
-Toronto, ON  
-M5J 2T3  
-[NTalsky@tv.astral.com](mailto:NTalsky@tv.astral.com)  
-(416) 956-2030 x.5404 
-
-© 2005 ASTRAL MEDIA INC. All rights reserved.
-
-[](https://web.archive.org/web/20051211181748id_/http%3A//family.ca/privacypolicyprint.html)
