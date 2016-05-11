@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karmacrm.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920131130id_/http%3A//www.karmacrm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karmacrm.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511201650id_/http%3A//www.karmacrm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | karmaCRM
 
