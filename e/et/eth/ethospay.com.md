@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ethospay.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222222410id_/https%3A//www.ethospay.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethospay.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511130653id_/http%3A//www.ethospay.com/privacy.php) for the most accurate reproduction.*
 
 # EthosPay: Privacy Policy
 
