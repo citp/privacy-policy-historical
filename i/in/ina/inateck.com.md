@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the inateck.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223035406id_/http%3A//www.inateck.com/policy-9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inateck.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511182444id_/http%3A//www.inateck.com/policy-9) for the most accurate reproduction.*
 
 # Policy-9 - Inateck
+
+## Forgot Password?
+
+Enter the email address associated with your Inateck account. We will send you an email with a link so you can create a new password.
 
 ## Our Commitment to Privacy
 
