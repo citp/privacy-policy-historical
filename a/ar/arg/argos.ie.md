@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the argos.ie privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215223417id_/http%3A//www.argos.ie/static/StaticDisplay/includeName/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the argos.ie privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511232255id_/http%3A//www.argos.ie/static/StaticDisplay/includeName/privacyPolicy.htm) for the most accurate reproduction.*
 
 # Argos - www.argos.ie
 
-(Updated 23rd May 2012)
+(Updated 26th April 2016)
 
-Argos Limited ("Argos") a company incorporated in England, is a member of the Home Retail Group ("the Group"). The Group ("we","us") includes Argos Limited, Home Retail Group Card Services Limited, Home Retail Group Personal Loans Limited, Home Retail Group Insurance Services Limited, Homebase Limited and their associated companies from time to time. A full list of companies is available upon request (see 'Contact Us' below).  
+Argos Limited ("Argos") a company incorporated in England, is a member of the Home Retail Group ("the Group"). The Group ("we","us") includes Argos Limited, Home Retail Group Card Services Limited, Home Retail Group Personal Loans Limited, Home Retail Group Insurance Services Limited and their associated companies from time to time. A full list of companies is available upon request (see 'Contact Us' below).  
 The purpose of this statement is to set out how we may use personal information that we may obtain about you. By using this Argos web site generally you agree to this use.
 
 ## Use of your Personal Information
@@ -72,4 +72,4 @@ For further information on using the website to check and reserve, please read o
 
 ## Contact Us
 
-If you have any comments or queries in connection with our privacy policy, please email [order.enquiries@argos.co.uk](mailto:order.enquiries@argos.co.uk) or call 0044 845 640 2020 or write to Customer Services, Argos Direct, Acton Gate, Stafford, England, ST18 9AR.
+If you have any comments or queries in connection with our privacy policy, please email [order.enquiries@argos.co.uk](mailto:order.enquiries@argos.co.uk) or call 0156 21083 or write to Customer Services, Argos Direct, Acton Gate, Stafford, England, ST18 9AR.
