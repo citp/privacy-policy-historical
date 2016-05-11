@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ltlprints.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526035716id_/http%3A//www.ltlprints.com/main/pps) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ltlprints.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511132654id_/http%3A//www.ltlprints.com/main/pps) for the most accurate reproduction.*
 
 # LTL PRINTS > > > Custom BIG WALL GRAPHICS
 
