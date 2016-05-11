@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-extras.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018014347id_/http%3A//www.free-extras.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-extras.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511094943id_/http%3A//www.free-extras.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Pictures and Images
 
