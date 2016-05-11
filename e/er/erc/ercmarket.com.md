@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ercmarket.com privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021120852id_/http%3A//www.ercmarket.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ercmarket.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511194608id_/http%3A//www.ercmarket.com/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement - RCMarket B.V.B.A
 
@@ -72,4 +72,4 @@ In accordance with the Data Protection Act 1998 you have the right to access any
 
 ###  Contacting Us
 
-Please do not hesitate to [contact us](https://web.archive.org/web/20151021120852id_/http%3A//www.ercmarket.com/help.php?section=contactus&mode=update) regarding any matter relating to this Privacy and Cookies Policy.
+Please do not hesitate to [contact us](https://web.archive.org/web/20160511194608id_/http%3A//www.ercmarket.com/help.php?section=contactus&mode=update) regarding any matter relating to this Privacy and Cookies Policy.
