@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unigauge.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114080254id_/http%3A//unigauge.com/uni-gauge-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unigauge.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512005325id_/https%3A//unigauge.com/uni-gauge-privacy-policy) for the most accurate reproduction.*
 
 # Uni-GAUGE Privacy Policy - unigauge.com
 
