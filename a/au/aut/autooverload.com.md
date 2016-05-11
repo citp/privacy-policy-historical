@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the autooverload.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109214543id_/http%3A//autooverload.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autooverload.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511102400id_/http%3A//autooverload.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Auto Overload
+# Privacy Policy – Auto Overload
 
 Effective as of October 1, 2015
 
