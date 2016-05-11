@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the martialartsplanet.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911142932id_/http%3A//www.martialartsplanet.com/forums/view.php%3Fpg%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the martialartsplanet.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511115326id_/http%3A//www.martialartsplanet.com/forums/view.php%3Fpg%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Martial Arts Planet privacypolicy
 
