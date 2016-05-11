@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uknakedmen.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218060331id_/http%3A//uknakedmen.com/tour/show.php%3Fa%3D161_1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uknakedmen.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511162621id_/http%3A//uknakedmen.com/tour/show.php%3Fa%3D161_1) for the most accurate reproduction.*
 
 # British Gay Porn - UK Naked Men - The Best of British - British Gay Porn - UK Naked Men - The Best of British
 
