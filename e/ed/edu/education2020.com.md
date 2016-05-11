@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the education2020.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216235344id_/http%3A//www.edgenuity.com/Information/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education2020.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511175735id_/http%3A//www.edgenuity.com/Information/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Edgenuity Inc. | Where Learning Clicks - Blended Learning and Online Education
 
