@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the education.govt.nz privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911101604id_/http%3A//www.education.govt.nz/footer/legal-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.govt.nz privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511171719id_/http%3A//www.education.govt.nz/footer/legal-and-privacy) for the most accurate reproduction.*
 
 # Legal and privacy | Education in New Zealand
 
 ## Privacy statement
 
-This privacy notice applies to personal and other information collected on the Education web portal: www.education.govt.nz.
+This privacy notice applies to personal and other information collected on this website.
 
 Our privacy policy is governed by the [New Zealand Privacy Act 1993](http://www.legislation.govt.nz/act/public/1993/0028/latest/DLM296639.html).
 
@@ -15,10 +15,9 @@ If you want to check personal information that we hold, or request the correctio
 The Privacy Officer  
 Ministry of Education  
 PO Box 1666  
-Thorndon  
-Wellington 6011
+Wellington 6140
 
-or email [privacy@minedu.govt.nz](mailto:privacy@minedu.govt.nz).
+or email [privacy@education.govt.nz](mailto:privacy@Education.govt.nz).
 
 For more information on privacy, please visit the [Privacy Commissioner's website](http://www.privacy.org.nz/).
 
@@ -36,4 +35,4 @@ You can manually disable cookies at any time - check your browser's "Help" to fi
 
 Publication of email addresses on this site should not be taken as deemed consent to receiving unsolicited email. Persons or organisations wishing to send email material to individuals or organisations whose email addresses appear on this website must comply with the requirements of the [Unsolicited Electronic Messages Act 2007](http://www.dia.govt.nz/diawebsite.nsf/wpg_URL/Services-Anti-Spam-Index?OpenDocument&ExpandView#three).
 
-Last reviewed: 09 October 2014 Has this been useful? [Give us your feedback](http://www.education.govt.nz/home/your-feedback/)
+Last reviewed: 11 April 2016 Has this been useful? [Give us your feedback](http://www.education.govt.nz/ministry-of-education/regional-ministry-contacts/your-feedback/)
