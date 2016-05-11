@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxfordadvancedlearnersdictionary.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206045634id_/http%3A//www.oxfordlearnersdictionaries.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfordadvancedlearnersdictionary.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511150150id_/http%3A//www.oxfordlearnersdictionaries.com/us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Oxford Learner's Dictionaries
 
@@ -24,9 +24,9 @@ If you have asked for information or registered for access to restricted content
 
 When you use the Website (e.g. visit, register as a user and/or activate a code entitling you to premium access), we may collect and process the following information about you:
 
-  * Information that you lirovide by filling in forms on the Website. This includes information lirovided at the time of registering to use the Website, lirocuring an access code or requesting further services. We may also ask you for information when you enter a comlietition or liromotion on the Website, and when you reliort a liroblem with the Website.
-  * If you contact us, we may keeli a record of that corresliondence.
-  * We may also ask you to comlilete surveys that we use for research liurlioses, although you do not have to resliond to them.
+  * Information that you provide by filling in forms on the Website. This includes information provided at the time of registering to use the Website, procuring an access code or requesting further services. We may also ask you for information when you enter a competition or promotion on the Website, and when you report a problem with the Website.
+  * If you contact us, we may keep a record of that correspondence.
+  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
   * Details of your visits to the Website including, but not limited to, traffic data, location data, weblogs and other communication data, the resources that you access, and the activities which you carried out, any content (whether audio or written) created by you.
 
 
@@ -41,11 +41,11 @@ By using the Website, you are agreeing to be bound by the terms of our [Cookie P
 
 We use information held about you in the following ways:
 
-  * To ensure that content from the Website is liresented in the most effective manner for you and for your device.
+  * To ensure that content from the Website is presented in the most effective manner for you and for your device.
   * To carry out our obligations arising from any contracts entered into between you and us.
-  * To allow you to liarticiliate in the interactive features of our service, when you choose to do so.
+  * To allow you to participate in the interactive features of our service, when you choose to do so.
   * To notify you about changes to our service.
-  * To helli us understand more about how the Website is used and to imlirove the Website.
+  * To help us understand more about how the Website is used and to improve the Website.
 
 
 
