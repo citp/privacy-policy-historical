@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qtellb2btrade.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110184648id_/http%3A//www.qtellb2btrade.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qtellb2btrade.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511162818id_/http%3A//www.qtellb2btrade.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
 
-# Belgium - B2B Trade Free Classified Ads Freeads Shipping Importers Exporters Free Classifiedads Manufacturers Buy Sell Free Ads Social
+# Cuba - B2B Trade Free Classified Ads Freeads Shipping Importers Exporters Free Classifiedads Manufacturers Buy Sell Free Ads Social
 
   
 1\. Introduction
