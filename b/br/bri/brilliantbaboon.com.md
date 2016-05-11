@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brilliantbaboon.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105225015id_/http%3A//brilliantbaboon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brilliantbaboon.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511064112id_/http%3A//brilliantbaboon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Brilliant Baboon
 
