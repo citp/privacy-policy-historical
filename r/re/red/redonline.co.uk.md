@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redonline.co.uk privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626104920id_/http%3A//www.hearst.co.uk/magazines/Data-protection.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redonline.co.uk privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512152909id_/http%3A//www.hearst.co.uk/magazines/Data-protection.html) for the most accurate reproduction.*
 
 # Privacy Policy - Hearst UKHearst UK
 
