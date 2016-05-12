@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divvyhq.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225170920id_/http%3A//divvyhq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divvyhq.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513003512id_/http%3A//divvyhq.com/privacy-policy) for the most accurate reproduction.*
 
 # DivvyHQ Privacy Policy
 
