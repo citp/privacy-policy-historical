@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoplouun.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924034428id_/http%3A//www.shoplouun.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoplouun.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512123848id_/http%3A//www.shoplouun.com/pages/privacy) for the most accurate reproduction.*
 
 # louun — Privacy
 
