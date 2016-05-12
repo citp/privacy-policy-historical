@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truthinengineering.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625035910id_/http%3A//www.audiusa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truthinengineering.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512031602id_/https%3A//www.audiusa.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Audi USA
 
@@ -23,6 +23,11 @@ Personal information received from Audi authorized dealerships may, in some case
 If we or some or all of our assets are acquired by another company, including through a sale in connection with bankruptcy, that company will possess the information collected by us, and it will assume the rights and obligations regarding your information as described in this Privacy Policy.
 
 We may share non-personal and aggregate information with our advertising agencies and other third-party affiliates to customize the design of the Audi Properties.
+
+##### Do Not Track Signals
+
+Some browsers have incorporated Do Not Track (DNT) preferences. Most of these features, when turned on, send a signal to the website you are visiting that you do not wish the collection and use of data regarding your online searching and browsing activities. As there is not yet a common understanding on how to interpret the DNT signal, we currently do not respond to DNT signals on our site.  
+
 
 ##### Online Advertising
 
