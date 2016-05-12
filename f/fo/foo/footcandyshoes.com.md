@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the footcandyshoes.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110080351id_/http%3A//www.footcandyshoes.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footcandyshoes.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512213153id_/http%3A//www.footcandyshoes.com/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Footcandy
+# Privacy Policy | Footcandy Shoes - Footcandy Carries High End, Designer Shoes And Handbags From Christian Louboutin, Jimmy Choo, Manolo Blahnik And More All Under One Roof. | Footcandy
 
 **What information do we collect?**  
 Information is collected from you whenever you respond to a survey, contest, or fill out a form. When filling out a form on our site, as appropriate, you may be asked to enter your name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
