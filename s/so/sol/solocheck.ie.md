@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solocheck.ie privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119074408id_/http%3A//www.solocheck.ie/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solocheck.ie privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512195015id_/http%3A//www.solocheck.ie/privacy.jsp) for the most accurate reproduction.*
 
 # Data Protection and Privacy - Irish Company Info - SoloCheck
 
