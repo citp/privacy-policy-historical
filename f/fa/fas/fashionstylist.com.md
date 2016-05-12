@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionstylist.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212134853id_/http%3A//fashionstylist.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionstylist.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512114054id_/http%3A//fashionstylist.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Fashion Stylist Online Privacy Policy and Protection
 
