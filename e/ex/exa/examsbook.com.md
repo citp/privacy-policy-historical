@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the examsbook.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222234313id_/http%3A//www.examsbook.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examsbook.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512181949id_/http%3A//www.examsbook.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,4 +26,4 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 
 About Google advertising: What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. (<http://www.google.com/privacy/ads/> )
 
-Total Views 14
+Total Views 44
