@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthypawspetinsurance.com privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917104008id_/http%3A//www.healthypawspetinsurance.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthypawspetinsurance.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512085922id_/http%3A//www.healthypawspetinsurance.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Healthy Paws Pet Insurance Privacy Policy
 
