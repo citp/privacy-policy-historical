@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the elifesciences.org privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207131717id_/http%3A//elifesciences.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elifesciences.org privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512160900id_/http%3A//elifesciences.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | eLife
 
-If you have questions about deleting or correcting your personal data please [contact us](http://www.elifesciences.org/contact/). eLife Sciences Publications, Ltd. (“eLife”) operates a Website at [elifesciences.org](http://www.elifesciences.org/). It is eLife’s policy to respect your privacy regarding any information we may collect while operating our Web sites.
+If you have questions about deleting or correcting your personal data please [contact us](https://elifesciences.org/contact/). eLife Sciences Publications, Ltd. (“eLife”) operates a Website at [elifesciences.org](https://elifesciences.org/). It is eLife’s policy to respect your privacy regarding any information we may collect while operating our Web sites.
 
 ###  Website visitors
 
