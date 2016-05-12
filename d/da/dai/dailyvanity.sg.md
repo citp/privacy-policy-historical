@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyvanity.sg privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112084058id_/http%3A//dailyvanity.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyvanity.sg privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512152606id_/http%3A//dailyvanity.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Daily Vanity
 
