@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the programming-free.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910205302id_/http%3A//www.programming-free.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the programming-free.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512031731id_/http%3A//www.programming-free.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | ProgrammingFree
 
@@ -24,3 +24,6 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 
 This privacy policy is subject to change without notice and was last updated on September 16, 2013. If you have any questions feel free to contact me directly here: dharshus.1989@gmail.com.
+
+  
+
