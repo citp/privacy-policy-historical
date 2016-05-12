@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilient.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907144025id_/https%3A//www.sysaid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilient.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513013829id_/https%3A//www.sysaid.com/privacy) for the most accurate reproduction.*
 
 # SysAid's Privacy Policy
 
@@ -23,6 +23,10 @@ Please note that our Service collects information about your activity in both an
 You understand and acknowledge that in the course of its normal and routine operation, the Main System/Software and/or Agent corresponds with Your End Points and regularly sends SysAid non-personal information, that enables SysAid to properly provide or advise you with regard to relevant notifications made by SysAid.
 
 For the purpose of this section, non-personal information shall mean any information that cannot be directly associated with a specific person or entity. Non-personal information includes but is not limited to your SysAid configuration, including the version you are using, your database type and your language preference. Non-personal information does not, however, include any data that you have entered into the Main System.
+
+##  Collection of Information for Use through Google Analytics
+
+Note that we use Google Analytics to aggregate and analyze both personal and non-personal data about You, where non-personal data may include your behavior in our site and personal data may include such information detailed under "Personal Information" above (together – "Your Data"). You may request us to stop using Google Analytics with respect to Your Data at any time by sending an email to [content@sysaid.com](mailto:content@sysaid.com), and we will comply as soon as practicable.
 
 ##  Advertisements and Offers
 
