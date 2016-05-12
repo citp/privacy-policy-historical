@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mvtrex.us privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316165947id_/http%3A//www.mvtrex.us/%3Fpage_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mvtrex.us privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512040805id_/http%3A//www.mvtrex.us/%3Fpage_id%3D2) for the most accurate reproduction.*
 
 # Privacy Policy | Mvtrex Online Flash Games
 
