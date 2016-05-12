@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paraecho.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007014800id_/https%3A//www.paraecho.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paraecho.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513013524id_/https%3A//paraecho.com/help/privacy) for the most accurate reproduction.*
 
 # ParaEcho - Privacy Policy
 
