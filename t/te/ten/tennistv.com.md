@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tennistv.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053937id_/http%3A//www.tennistv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennistv.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512083902id_/http%3A//www.tennistv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TennisTV
 
@@ -10,13 +10,13 @@ By your use of the Website you consent to the terms and conditions of this Priva
 
 Additionally, the Website contains links to websites that are not operated by Perform Group or TPL. These third parties may collect data from you and share some of that data with us. Perform Group and TPL are careful when choosing their partners, sponsors, and affiliates, but neither Perform Group nor TPL areresponsible for any misuse of personal information by such third parties.We recommend that you view the Privacy Policy posted on each Website that you use to confirm that the companies' policies are acceptable to you.
 
-###  1\. PERSONALLY IDENTIFIABLE INFORMATION AND HOW IT IS USED
+### 1\. PERSONALLY IDENTIFIABLE INFORMATION AND HOW IT IS USED
 
 When using the Services, we may ask you to provide all or some of the following information: your name, your address, your email address, banking details, your telephone number, and your age ("Personal Information"). We may also ask you to provide your thoughts or answer some questions about your favourite events, personalities, and other subjects of interest to sports fans.
 
 In order to purchase any live events viewable on this Website, participate in any contest or message feature, download any content, take part in any other interactive feature of the Websites, or receive information from Perform Group or TPL, such as newsletters or email regarding upcoming the Services you must register and provide accurate information about yourself to the Websites, as the Services may not work properly without such information.
 
-Perform Group and TPL may use the Personal Information you provide to us to do some or all of the following:
+Perform Group (or any such replacement or successor service provider, as notified to you from time to time) and TPL may use the Personal Information you provide to us to do some or all of the following:
 
   * provide you with personalised visits to our site;
   * recommend goods, services or promotions which may be of interest to you (but only where you have requested us to do so);
@@ -26,23 +26,23 @@ Perform Group and TPL may use the Personal Information you provide to us to do s
 
 
 
-Perform Group and TPL will not, however, sell or lease your Personal Information to third parties not associated with Perform Group or TPL, or their respective partners, sponsors, and affiliates.
+Perform Group and TPL will not, however, sell or lease your Personal Information to third parties other than to: (i) third parties associated with Perform Group or TPL; (ii) partners, sponsors or affiliates of third parties associated with Perform Group or TPL; or (iii) any replacement or successor service provider (as notified to you from time to time). 
 
 If you do not wish to receive marketing and promotional communications from us or our partners, sponsors, and affiliates, you can choose to opt-out when providing your Personal Information to us. You can also opt-out by updating your user profile on the Website.
 
 Please note: If you do decide to opt-out of receiving information, Perform Group and TPL will be unable to keep you informed of any new products, services, or special offers that may interest you and it will have an impact on our ability to inform you of any live events or important information as part of any subscription service you may have.
 
-###  2\. SECURITY
+### 2\. SECURITY
 
 We understand that the security of your Personal Information is important to you.When handling Personal Information, security is paramount and we have in place a security policy which ensures that Personal Information is adequately protected.Your Personal Information is password protected, and any Personal Information you provide to us is protected from unauthorised disclosure by reasonable technological measures. Personal Information provided to Perform Group or TPL is not, however, transmitted via SSL encryption technology. We recommend that you do not divulge your password to anyone.
 
-###  3\. AGGREGATED INFORMATION
+### 3\. AGGREGATED INFORMATION
 
 To evaluate the Websites and ensure that we are providing Content and Services of interest to you, we may collect and store statistical information regarding how you use the Websites, the name of your internet service provider, any websites that referred you to the Websites, and the time and date you view the Websites. We may also use Personal Information to develop demographic information regarding Website users. Such aggregated information will not identify you personally. We may share this aggregated, statistical information with our partners, sponsors, affiliates, and other third parties.
 
 We may on occasion combine information we receive online with other records to enhance our ability to notify you of our products and services that we think will be of interest to you. If you do not want to receive these notifications please send an e-mail to customerservices@performgroup.com letting us know.
 
-###  4\. COOKIES
+### 4\. COOKIES
 
 We use cookies in order to ensure the website functions properly and to improve your user experience.Cookies are usually a string of numbers and/or letters that a website transfers to your hard drive. The cookies enable the website to "remember" you, either for the duration of your visit (session cookies) or for repeat visits (persistent cookies). We recommend that you visit the websites www.allaboutcookies.org andwww.cookiecentral.com if you would like in-depth information about cookies.
 
@@ -62,17 +62,17 @@ However, you may not be able to take full advantage of our site or use certain f
 
 If you register with us or if you continue to use our site, you agree to our use of cookies.
 
-###  5\. DISCLOSURE FOR LAW ENFORCEMENT PURPOSES
+### 5\. DISCLOSURE FOR LAW ENFORCEMENT PURPOSES
 
 Perform Group and TPL reserve the right to access and disclose Personal Information to comply with applicable laws and lawful government requests, to operate their systems properly, or to protect themselves or others. Perform Group or TPL may attempt to obtain the prior consent of the individual before disclosing the Personal Information, but they have no obligation to do so.
 
-###  6\. PARENTS & GUARDIANS
+### 6\. PARENTS & GUARDIANS
 
 This Website is a general audience Website. We do not knowingly collect and/or share Personal Information from children under the age of thirteen on the Website. However, your child cannot use some of the interactive features of the Website without providing Personal Information. We therefore recommend using the Website with your child if he or she is interested in participating in an interactive feature of the Website.
 
 If, in the future, Perform Group or TPL actively collects Personal Information from children, it will do so in compliance with the Children's Online Privacy Protection Act of 1998
 
-###  7\. ACCESS TO YOUR INFORMATION
+### 7\. ACCESS TO YOUR INFORMATION
 
 Data Protection law gives you various rights including the right to access the Personal Information that is held about you.
 
@@ -80,7 +80,7 @@ We, as data controller, are required to provide you with copies of all the Perso
 
 You can also request at any time that the Personal Information we hold about you is updated or corrected.
 
-###  8\. YOUR ACCEPTANCE OF THESE TERMS
+### 8\. YOUR ACCEPTANCE OF THESE TERMS
 
 If we decide to change this Privacy Policy, the changes will be posted on this page so that you are always aware of the information we collect, how we use it and under what circumstances we disclose it. We will not use or disclose Personal Information provided to us in ways unrelated to the ones described above without informing you and providing you with an opportunity to opt-out of these unrelated uses.
 
