@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seedsman.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922114512id_/http%3A//www.seedsman.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seedsman.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513013018id_/http%3A//www.seedsman.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Cannabis & Marijuana Seeds :: Seedsman
+# Privacy Policy
 
 **By using/purchasing from our website www.seedsman.com you accept our[Terms & Conditions](http://www.seedsman.com/en/terms-conditions/ "Terms & Conditions"), [Privacy Policy](http://www.seedsman.com/en/privacy-policy/ "Privacy Policy") and [Legal Disclaimer](http://www.seedsman.com/en/disclaimer/ "Legal Disclaimer").**
 
