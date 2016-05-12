@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indonesia-community.net privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112064529id_/http%3A//indonesia-community.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indonesia-community.net privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512204856id_/http%3A//indonesia-community.net/privacy_policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY / MMM INDONESIA - Official Website
 
