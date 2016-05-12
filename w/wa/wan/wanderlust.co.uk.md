@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wanderlust.co.uk privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906132239id_/http%3A//www.wanderlust.co.uk/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wanderlust.co.uk privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512171953id_/http%3A//www.wanderlust.co.uk/pages/privacy) for the most accurate reproduction.*
 
 # Wanderlust
 
