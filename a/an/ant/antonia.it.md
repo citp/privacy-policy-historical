@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the antonia.it privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905154309id_/http%3A//www.antonia.it/content/11-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antonia.it privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512144830id_/http%3A//www.antonia.it/content/11-privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - ANTONIA
 
