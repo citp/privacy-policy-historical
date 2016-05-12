@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amenme.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228061123id_/http%3A//www.amenme.com/AmenMe/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amenme.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512170258id_/http%3A//www.amenme.com/AmenMe/help/privacy.aspx) for the most accurate reproduction.*
 
 # Amen Me! - Privacy Information
 
@@ -42,5 +42,5 @@ We do keep and analyze usage information in order to provide you with the most o
 
 Amen Me! doesn't keep any personal information other than your email address and your scrambled password. One major reason we can do this is because we use [PayPal](https://www.paypal.com/us/mrb/pal=7P9SUUVQVHXXE) when we deal with money. This allows you to keep your personal information with [PayPal](https://www.paypal.com/us/mrb/pal=7P9SUUVQVHXXE) and makes our job easier as well. This way only you and [PayPal](https://www.paypal.com/us/mrb/pal=7P9SUUVQVHXXE) need to see that information. We believe that this is a great way to maintain your privacy, but it does require that you sign up with [PayPal](https://www.paypal.com/us/mrb/pal=7P9SUUVQVHXXE) in order to get rewards for your submissions.
 
-[Back to the Starting Page](https://web.archive.org/web/20121228061123id_/http%3A//www.amenme.com/AmenMe/default.aspx)  
+[Back to the Starting Page](https://web.archive.org/web/20160512170258id_/http%3A//www.amenme.com/AmenMe/default.aspx)  
 
