@@ -1,272 +1,812 @@
-<!--The following is the downloaded HTML source of the cryengine.com privacy policy that was archived on 2015-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151212233643id_/http%3A//www.crytek.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cryengine.com privacy policy that was archived on 2016-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160512210433id_/http%3A//cryengine.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <meta http-equiv="Content-Language" content="en">
-        <title>Privacy | Crytek</title>
-        <link rel="stylesheet" type="text/css" href="/assets/default.css?rev=49">
-        <link rel="shortcut icon" href="/assets/favicon.ico">
-        <link rel="alternate" type="application/rss+xml" title="Crytek" href="http://www.crytek.com/rss/">
-        <link rel="alternate" type="application/rss+xml" title="Crytek Blog" href="http://www.crytek.com/blog/rss/">
+<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
+    <meta charset="utf-8">
+    <!--<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">-->
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-        <meta name="google-site-verification" content="dpeHePZQfMZKJyG9q_0RkbDGMN1hZK5HWOsGzHze71w">
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/js/jquery-1.4.2.min.js" type="text/javascript"></script>
-        <script src="/js/swfobject.js" type="text/javascript"></script>
-        <script src="/js/swfobject2.js" type="text/javascript"></script>
-        <script src="/js/jquery.uploadify.v2.1.4.min.js?rev=49" type="text/javascript"></script>
-        <script src="/js/jquery.autoellipsis-1.0.3.min.js?rev=49" type="text/javascript"></script>
-        <script src="/js/common.js?rev=49" type="text/javascript"></script>
-        <meta name="nid" content="940">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!--<link rel="shortcut icon" href="/assets/ico/favicon.ico">-->
 
+        <!--<title>CRYENGINE | Crytek</title>-->
+     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="/build/css/style.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="/build/css/font.css" type="text/css" media="screen">
 
-      <meta property="og:title" content="Crytek">
-      <meta property="og:image" content="http://www.crytek.com/assets/crytek-logo.png">
-      <meta property="article:publisher" content="https://www.facebook.com/crytek">
-      <link rel="image_src" href="http://www.crytek.com/assets/crytek-logo.png">
+    <script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/build/js/jquery-1.7.2.min.js"></script>
 
+    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.5.6/slick.css">
+    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.5.6/slick-theme.css">
 
-        <!--[if IE]>
-        <style type="text/css" media="screen">
-        div.desktop div.column h2 {
-            font-family: Arial;
-            font-size: 16px !important;
+    <link rel="stylesheet" type="text/css" href="/assets/css/nouislider.min.css">
+    <link rel="stylesheet" href="/assets/css/bootstrap-table.css">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/custom.css">
+
+    <script>
+
+        $(document).ready(function() {
+            $('#button-blue').bind('click', function(){
+               location.href='/get-cryengine';
+            });
+
+            $('.button-blue-nav').bind('click', function(){
+               location.href='/get-cryengine';
+            });
+
+            if($('#subnavigation').length>0)
+            {
+                // grab the initial top offset of the navigation
+                var sticky_navigation_offset_top = $('#subnavigation').offset().top;
+
+                // our function that decides weather the navigation bar should have "fixed" css position or not.
+                var sticky_navigation = function(){
+                    var scroll_top = $(window).scrollTop(); // our current vertical position from the top
+
+                    // if we've scrolled more than the navigation, change its position to fixed to stick to top, otherwise change it back to relative
+                    if (scroll_top > sticky_navigation_offset_top) {
+                        $('.features-detail-sidebar').css({ 'position': 'fixed', 'top':60, 'left':150, 'float' : 'right', 'z-index': 9999 });
+                        $('.col-md-9').css({'float': 'right'});
+                    } else {
+                          $('.features-detail-sidebar').css({ 'position': 'relative', 'top':0, 'left':0, 'float' : 'left', 'z-index': 9999 });
+                    }
+                    return false;
+                };
+
+                // run our function on load
+                    sticky_navigation();
+
+                // and run it again every time you scroll
+                $(window).scroll(function() {
+                    sticky_navigation();
+                });
+
+                topMenu = $("#subnavigation > ul");
+                topMenuHeight = topMenu.outerHeight();
+
+                menuItems = topMenu.find('a');
+
+            }
+        });
+
+        function MM_swapImgRestore() { //v3.0
+            var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
         }
-        </style>
-        <![endif]-->
-    </head>
-    <body>
-    <div class="header">
-            <div class="centred">
-                <div class="logo"></div>
-                <div class="navbar">
-                    <ul>
-                        <li>
-        <!--a href="/admin">Login</a-->
-                        </li>
-                    </ul>
-                </div>
-                <div class="searchbar">
-
-                    <form id="searchForm" action="/search/" autocomplete="off" method="POST">
-                        <div class="smart-search">
-                            <div class="pointer"><div><!-- --></div></div>
-                            <div class="results">
-
-                            </div>
-                            <div class="footer">
-                                Show all results
-                            </div>
-                        </div>
-                        <fieldset>
-                            <input type="hidden" name="op" value="Search" x-webkit-speech="">
-                            <input type="hidden" class="blog" value="blog" name="type[blog]">
-                            <input type="hidden" class="page" value="page" name="type[page]">
-                            <button type="submit"><!-- --></button>
-                            <input maxlength="255" name="keys" value="">
-                        </fieldset>
-
-                     </form>
-
-                </div>
-            </div>
-        </div>
-    <style type="text/css">
-        div.gface-in-menu {
-            width: 68px;
-            height: 18px;
-            position: absolute;
-            right: 30px;
-            top: 12px;
-            outline-style: none;
+        function MM_preloadImages() { //v3.0
+            var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+            var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+            if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
         }
-        div.gface-in-menu img {
-            border: 0;
+        function MM_findObj(n, d) { //v4.01
+            var p,i,x; if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+            d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+            if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+            for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+                if(!x && d.getElementById) x=d.getElementById(n); return x;
+            }
+        function MM_swapImage() { //v3.0
+            var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+            if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
         }
-    </style>
-    <div class="mainmenu">
-            <div class="centred">
-                <ul>
-                    <li class="inactive"><a href="/home">Home</a></li>
-                    <li class="inactive"><a href="/news">News</a></li>
-                    <li class="inactive"><a href="/games">Games</a></li>
-                    <li class="inactive"><a href="/cryengine">CRYENGINE</a></li>
-                    <li class="inactive"><a href="/press">Press</a></li>
-                    <li class="inactive"><a href="/career">Career</a></li>
-                    <li class="inactive"><a href="/company">Company</a></li>
-                    <li class="inactive"><a href="/career/studios/overview">Studios</a></li>
-                    <li class="inactive"><a href="/community">Community</a></li>
-                    <li class="inactive"><a href="/blog">Blog</a></li>
-                    <li class="inactive"><a href="/contact">Contact</a></li>
-                </ul>                
+    </script>
+  <title>CRYENGINE | The complete solution for next generation game development by Crytek</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width">
+  <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<body class="  pace-done"><div class="pace  pace-inactive"><div class="pace-progress" data-progress-text="100%" data-progress="99" style="width: 100%;">
+  <div class="pace-progress-inner"></div>
+</div>
+<div class="pace-activity"></div></div>
+<nav class="navbar navbar-inverse ce-globalnav">
+  <div class="container-fluid">
+    
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#ce-globalnav-collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="icon ion-navicon"></i>
+      </button>
+      
+      <div class="ce-logo">
+        <a href="/"><img alt="CRYENGINE" src="/assets/img/cryengine-logo.svg"></a>
+      </div>
+    </div>
+    
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="ce-globalnav-collapse">
+      <ul class="nav navbar-nav">
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Explore <i class="icon ion-android-arrow-dropdown"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="/features">Features</a></li>
+            <li><a href="/showcase">Showcase</a></li>
+            <li><a href="/news">News</a></li>
+            <li><a href="/developer-fund">Developer Fund</a></li>
+            <li><a href="/vrfirst">VR First</a></li>
+          </ul>
+        </li>
+        <li><a href="/marketplace">Marketplace</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Learn <i class="icon ion-android-arrow-dropdown"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="/tutorials">Tutorials</a></li>
+            <li><a href="http://docs.cryengine.com/">Documentation</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Community <i class="icon ion-android-arrow-dropdown"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="/community/gallery">Gallery</a></li>
+            <li><a href="/community">Forums</a></li>
+                        <li><a href="https://answers.cryengine.com" target="_blank">Answers</a></li>
+                      </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">More <i class="icon ion-android-arrow-dropdown"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="http://support.cryengine.com/">Support</a></li>
+            <li><a href="http://www.crytek.com/career/offers/overview/frankfurt/programming-engineering">Careers <i aria-label="(external link)" class="icon ion-android-open"></i></a></li>
+            <li><a href="http://crytek.com/press">Press <i aria-label="(external link)" class="icon ion-android-open"></i></a></li>
+          </ul>
+        </li>
+      </ul>
+
+
+      <ul class="nav navbar-nav navbar-right">
+                    <li><a href="/login"><i class="icon ion-person"></i> <span style="text-transform:none; letter-spacing:0;">Login</span></a></li>
+            <li class="navbar-download">
+                <a class="btn navbar-btn btn-sm btn-primary" href="/get-cryengine" title="Get CRYENGINE">Get CRYENGINE</a>
+            </li>
+                  </ul>
+
+    </div><!-- /.navbar-collapse -->
+    
+  </div><!-- /.container-fluid -->
+</nav>  <div class="m-scene" id="main">
+    <div class="scene_element scene_element--fadein">
+        <div class="container-fluid">
+  <div class="row">
+    <div class="col-md-12 panel-legal typeset">
+      
+      <h1>Privacy</h1>
+
+      <p><strong>PLEASE READ THE FOLLOWING PRIVACY POLICY CAREFULLY. WHEN YOU USE ANY ONLINE GAME, SERVICE or WEBSITE FROM CRYTEK YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THESE TERMS</strong>. CRYTEK respects your privacy and understands the importance of protecting your personal information. We will only collect information we need to fulfill your requests and our legitimate business objectives. We will never send you marketing communications without your consent, and we will never share your personal information with third parties that are not bound by our privacy policy unless you tell us we can. By registering for a CRYTEK Account, we may transfer and store your account information in Germany. By registering, you agree that CRYTEK may process your data in accordance with the following privacy policy and that you will abide by CRYTEK's Terms of Service. BY REGISTERING FOR A CRYTEK ACCOUNT, USING THIS SITE AND/OR ANY OF CRYTEK'S ONLINE OR MOBILE PRODUCTS AND SERVICES, YOU AGREE TO THE CRYTEK ONLINE PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS POLICY, PLEASE DO NOT USE ANY CRYTEK SITE, ONLINE OR MOBILE PRODUCT OR SERVICE. If we change our Privacy Policy, we will post those changes to this Privacy Policy, the home page or other places so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this Privacy Policy at any time, so please review it frequently. If we make material or significant changes to this Privacy Policy, we will notify you by email and/or by a notice at <a href="http://www.crytek.com/privacy">www.crytek.com/privacy</a> and/or during log in. Revisions to terms affecting existing CRYTEK Services shall be effective thirty (30) days after posting at <a href="http://www.crytek.com/privacy">www.crytek.com/privacy</a>. Your continued use of our online and mobile products and services will signify your acceptance of the changes to our Privacy Policy. You will always have the option to require an overview including all collected data by sending a mail to <a href="mailto:privacy@crytek.com">privacy@crytek.com</a>.</p>
+      <h5>I. CRYTEK Privacy Policy: Introduction</h5>
+      <p>CRYTEK GmbH and its subsidiary companies (CRYTEK) respect the privacy rights of consumers and recognize the importance of protecting the information collected about you. We have adopted this global Privacy Policy to explain how we store and use personal and non-personal information we collect online on our websites, during your use of our online products and/or services (including online game play) and on mobile platforms.</p>
+      <h5>II. What is Personal Information and when does CRYTEK collect It?</h5>
+      <p>CRYTEK collects both personal and non-personal consumer information. Personal information collected by CRYTEK is discussed below in this section. Non-personal information is discussed below in Section III.</p>
+      <h5>A. Personal Information Collected By CRYTEK</h5>
+      <p>Personal information is information that identifies you and that may be used to contact you on-line or off-line. CRYTEK may collect personal information from our online visitors during:</p>
+      <ul>
+      <li>Gaming and other user behavior including gaming results;</li>
+      <li>Warranty registration and requests;</li>
+      <li>Customer support and/or technical service requests;</li>
+      <li>Player match up and other head-to-head online competitions;</li>
+      <li>Registration for games and/or special game-specific events;</li>
+      <li>Newsletter subscriptions, referral services, and other marketing surveys and email campaigns;</li>
+      <li>Registration for CRYTEK and/or other service accounts;</li>
+      <li>Product, service and/or subscription orders;</li>
+      <li>Service requests from third party service providers on our site; and</li>
+      <li>Otherwise through use of our software, mobile or online services where personal information is required for use and/or participation.</li>
+      </ul>
+      <p>Information collected will vary depending upon the activity and may include your name, user name, email address, password, phone number, home address, birth date, mobile phone number and credit card information but will only be saved when needed. You will be specifically notified in case of irregular collection of data.</p>
+      <p>CRYTEK also may maintain log files which contain IP addresses. An IP address is a numeric address that may be assigned to your computer by your Internet Service Provider. In general, we use log files to monitor traffic on our websites and to troubleshoot technical problems. In the event of user abuse of our websites, however, we may block certain IP addresses. If available, IP addresses and console IDs may be used to personally identify you in order to enforce our Terms of Service.</p>
+      <h5>B. Personal Information Provided To CRYTEK By Third Parties.</h5>
+      <p>We may also receive other personal information from third parties in connection with the operation and distribution of our products and services as well as market and demographic studies that we use to supplement personal information provided directly by you. As with all other information, we use this data only for purposes consistent with this policy.</p>
+      <h5>III. What Is Non-Personal Information and When Does CRYTEK Collect It?</h5>
+      <p>Non-personal information, alone, cannot be used to identify or contact you. CRYTEK collects non-personal information about your use of our online and mobile products and services both on our website and in the course of game play and software usage (on PC, mobile and console platforms).</p>
+      <h5>A. What Types of Non-Personal Information Does CRYTEK Collect?</h5>
+      <p>When you use the CRYTEK Services, we may collect certain non-personal demographic information including gender, zip code, information about your computer, hardware, software, platform, media, and mobile device. We also collect other non-personal information such as feature usage, game play statistics and scores, user rankings and click paths as well as other data that you may provide in surveys, via your account preferences and online profiles or through purchases, for instance. We may also receive either non-personal or public information from third parties in connection with market and demographic studies that we use to supplement personal information provided directly by you.</p>
+      <h5>B. How Does CRYTEK Collect Non-Personal Information?</h5>
+      <p>CRYTEK collects non-personal information in addition to personal information when you actively provide it in the context of various online and mobile activities including online and mobile purchases, game registration and marketing surveys, for instance. In addition, we might use cookies and other technologies to passively collect non-personal demographic information, personalize your experience on our sites and monitor advertisements and other activities.</p>
+      <h5>1. Cookies</h5>
+      <p>Cookies are small files applied to your Internet browser to track movements within websites. We may link cookie information to personal information. Cookies link to information regarding what items you have selected for purchase at our store, pages you have viewed, or games you have played. This information is used to keep track of your shopping cart and make sure you don't see the same ad repeatedly, for example. Also, we use cookies to deliver content specific to your interest and to monitor website or game usage. We collect information on what games are played, how much time is spent playing the games and which ads or links are clicked. Some of our sites use an outside ad company to display ads. These ads contain cookies. Cookies received with banner ads are applied by our ad companies, and CRYTEK does not have access to this information. Most browsers are automatically set to accept cookies whenever you visit a website. You can disable cookies or set your browser to alert you when cookies are being sent. We may also use flash cookies, also known as "local shared objects," on our sites that employ Flash technology. Flash cookies are small files similar to browser cookies and are used to remember the site's settings to personalize the look and feel of the site. Flash cookies only collect data in the aggregate. Like normal cookies, Flash cookies are represented as small files on your computer. One method of preventing Flash cookies from being placed is to adjust your preferences in the Macromedia Website Privacy Settings Panel at <a href="http://www.macromedia.com/" target="_blank">www.macromedia.com</a>. Please note that this privacy policy covers the use of cookies by CRYTEK only and does not cover the use of cookies by any advertisers.</p>
+      <h5>2. Third Party Ad Serving Technology</h5>
+      <p>The companies that serve the ads that may appear on our websites may also collect information regarding your activities online, including the sites you visit. For more information on such services or to opt out of those services, please visit such services' websites.</p>
+      <h5>3. Analytic Metrics Tool and Other Technologies</h5>
+      <p>CRYTEK also uses its own proprietary analytic metrics tool and other analytics technologies to collect non-personal information when you use our online products and services and/or play our games on your PC, console and/or mobile device.</p>
+      <h5>IV. What Happens To The Information CRYTEK Collects?</h5>
+      <p>This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyse how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.</p>
+      <p>You may also prevent Google Analytics from collecting and storing your information by downloading and installing the Google Analytics Opt-out Browser Add-On under the following link <a href="http://tools.google.com/dlpage/gaoptout?hl=en">http://tools.google.com/dlpage/gaoptout?hl=en</a>.</p>
+      <h5><br> A. How CRYTEK Uses Your Information</h5>
+      <p>CRYTEK uses your information to operate CRYTEK's games, fulfill your specific requests, and purchase orders and to send you purchase confirmation and other account-related information. In addition, if you choose to receive communications from us about CRYTEK products and news, the personal information you provide will allow us to send you messages about things including new products, features, enhancements, special offers, upgrade opportunities, contests and events of interest. You may also later opt out of this service from CRYTEK. Your participation in tournaments or other online game events is also conditional upon our collection, use, storage, transmission and public display of statistical data (such as your scores, rankings and achievements) generated through your participation.<br> <br></p>
+      <h5>B. Will CRYTEK Share My Information With Third Parties?</h5>
+      <p>CRYTEK will never share your personal information with third parties without your consent. We may, however, share non-personal data in the aggregate (in a form that does not personally identify you) with third parties. You may also opt in to allow CRYTEK to share your personal information with companies and organizations that provide products or services that we believe may be of interest to you. To opt out of further communications from a marketing partner or sponsor with whom your information has been shared, please contact that partner or sponsor directly.</p>
+      <p>From time to time, CRYTEK employs third party contractors to collect personal information on our behalf to provide email delivery, product, or promotional fulfillment, contest administration, credit card processing, shipping or other services on our sites. When requesting these services, you may be asked to supply your name, mailing address, telephone number and email address to our contractors. We ask some third party contractors, such as credit agencies or market research firms, to supplement personal information that you provide to us for our own marketing and demographic studies, so that we can consistently improve our sites and related advertising to better meet our visitors' needs and preferences. When our third party contractors collect and/or have access to the personal information you provide to CRYTEK, CRYTEK requires that they adhere to our stated privacy policies and protect the confidentiality of personal information they collect or have access to in the course of their engagement by CRYTEK. These third parties are prohibited from using your personal information for any other purpose without your specific consent. You will be notified before your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party. We may also disclose personal information to law enforcement, or the appropriate civil authorities to enforce legal rights and comply with the law, or to comply with an order from a government entity or other competent authority, or when we have reason to believe that a disclosure is necessary to address potential or actual injury or interference with our rights, property, operations, users or others who may be harmed or may suffer loss or damage, or when we believe that disclosure is necessary to protect our rights, combat fraud and/or comply with a judicial proceeding, court order, or legal process served on CRYTEK.</p>
+      <h5>V. Where Is The Information Held?</h5>
+      <p>CRYTEK is a global organization and the majority of the computer systems on which CRYTEK collects, stores, and uses the information it collects or receives are based in the European Union. Under limited circumstances, we may utilize data storage facilities located in the USA and/or Asia. Your personal information may be transferred to, used, processed or held by CRYTEK in the European Union and in other territories and used for the purposes set out in this Privacy Policy.</p>
+      <h5>VI. How Does CRYTEK Protect Your Personal Information?</h5>
+      <p>The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and in storage. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially reasonable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact the Privacy Policy Administrator via email at <a href="mailto:privacy@crytek.com">privacy@crytek.com</a></p>
+      <h5>VII. Review, Correction of Your Information, Requesting Removal from Mailing Lists and Deactivating Your Account</h5>
+      <p>You can correct, update or delete your account information at any time by logging on our site and navigating to "My Account," "View My Profile" or other account settings. Should you be unable to log in contact <a href="mailto:privacy@crytek.com">privacy@crytek.com</a>. We will be happy to review, update or remove information as appropriate. We may still retain your information in our files however, to resolve disputes, enforce our user agreement, and due to technical and legal requirements and constraints related to the security, integrity and operation of our websites.</p>
+      <h5>VIII. Public Information Including User Generated Content, Online Forums, Blogs and Profiles</h5>
+      <p>You may choose to disclose information about yourself in the course of contributing user generated content to CRYTEK sites or games or in public online chat rooms, blogs, message boards, user "profiles" for public view or in similar forums on our sites. Information that you disclose in any of these forums is public information, and there is no expectation of privacy or confidentiality there.</p>
+      <p>You should be aware that any personally identifiable information you submit in the course of these public activities can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.</p>
+      <p>If you post a video, image or photo on one of our sites for public view you should be aware that these may be viewed, collected, copied and/or used by other users without your consent. We are not responsible for the videos, images or photos that you choose to submit to CRYTEK services. Please see our regulations at <a href="http://www.crytek.com/terms">www.crytek.com/terms</a> on this point and for other guidelines about posting content on our Service.</p>
+      <h5>IX. Third Party Sites.</h5>
+      <p>Crytek Services may contain advertising or services which link to other websites such as Twitter, Facebook and YouTube. The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party. If you click on a link to a third party site, including on an advertisement, you will leave the CRYTEK site you are visiting and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personal information by such third parties, and we cannot guarantee that they will adhere to the same privacy and security practices as CRYTEK. We encourage you to review the privacy policies of any other service provider from whom you request services. If you visit a third party website that is linked to a CRYTEK site, you should consult that site's privacy policy before providing any personal information.</p>
+      <h5>X. Products Offered In Partnership with Third Party(s)</h5>
+      <p>Members may register for other services from our site(s). Certain products and/or services available on our service are provided to you in partnership with third party(s) and may require you to disclose personally identifiable information in order to register for and access such products and/or services. Such products and/or services shall identify the third party partners at the point of registration. If you elect to register for such products and/or services your personally identifiable information will be transferred to such third party(s) and will be subject to the privacy policy and practices of such third party(s). We are not responsible for the privacy practices and policies of such third party(s) and, therefore, you should review the privacy practices and policies of such third party(s) prior to providing your personally identifiable information in connection with such products and/or services.</p>
+      <h5>XI. Contact Information</h5>
+      <p>If you have questions or concerns regarding this statement, you should contact the CRYTEK Privacy Policy Administrator at <a href="mailto:privacy@crytek.com">privacy@crtyek.com</a>.</p>
+
+    </div>
+  </div>
+</div>        <a href="javascript:;" name="footer-industries"></a>
+<div id="footer-industries" class="footer-industries">
+	<div class="container-fluid">
+                <div class="row">
+            <div class="col-md-4">
+              <a class="footer-industry-card" href="/get-cryengine" title="">
+                <div class="footer-industry-icon"><i class="icon ion-ios-game-controller-b"></i></div>
+                <h4 class="">Pay What You Want</h4>
+                <span>Our Groundbreaking Technology. Your Price</span>
+              </a>
             </div>
-        </div><div class="preloader">
-        <div class="teaser clickable" style="height: 90px; background-image: url(/sites/default/files/page_teasers/head_legal90_2.jpg)"><!-- -->
-        
-        </div>
-</div>        <div class="desktop">
-            <div class="centred">
-
-                <div class="frame right-centered">
-                    <div class="sidebar">
-                        <div class="block">
-                                                        <h2>Related Content</h2>
-                            <ul>
-                                <li><a href="/contact">Contact</a></li>                                <li><a href="/terms">Terms of Service</a></li>                                                                                                                            </ul>
-                                                    </div>
-                    </div>
-                    <div class="contents shadowed">
-                        <h1>Privacy</h1>
-                                                <div class="teaser-text">
-                            <p><strong>PLEASE READ THE FOLLOWING PRIVACY POLICY CAREFULLY. WHEN YOU USE ANY ONLINE GAME, SERVICE or WEBSITE FROM CRYTEK YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THESE TERMS</strong>. CRYTEK respects your privacy and understands the importance of protecting your personal information. We will only collect information we need to fulfill your requests and our legitimate business objectives. We will never send you marketing communications without your consent, and we will never share your personal information with third parties that are not bound by our privacy policy unless you tell us we can. By registering for a CRYTEK Account, we may transfer and store your account information in Germany. By registering, you agree that CRYTEK may process your data in accordance with the following privacy policy and that you will abide by CRYTEK's Terms of Service. BY REGISTERING FOR A CRYTEK ACCOUNT, USING THIS SITE AND/OR ANY OF CRYTEK'S ONLINE OR MOBILE PRODUCTS AND SERVICES, YOU AGREE TO THE CRYTEK ONLINE PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS POLICY, PLEASE DO NOT USE ANY CRYTEK SITE, ONLINE OR MOBILE PRODUCT OR SERVICE. If we change our Privacy Policy, we will post those changes to this Privacy Policy, the home page or other places so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this Privacy Policy at any time, so please review it frequently. If we make material or significant changes to this Privacy Policy, we will notify you by email and/or by a notice at <a href="http://www.crytek.com/privacy">www.crytek.com/privacy</a> and/or during log in. Revisions to terms affecting existing CRYTEK Services shall be effective thirty (30) days after posting at <a href="http://www.rysegame.com/privacy">www.crytek.com/privacy</a>. Your continued use of our online and mobile products and services will signify your acceptance of the changes to our Privacy Policy. You will always have the option to require an overview including all collected data by sending a mail to <a rel="mailto">privacy<img src="/assets/at.png" border="0" alt="@">crytek.com</a>.</p>
-<h3>I. CRYTEK Privacy Policy: Introduction</h3>
-<p>CRYTEK GmbH and its subsidiary companies (CRYTEK) respect the privacy rights of consumers and recognize the importance of protecting the information collected about you. We have adopted this global Privacy Policy to explain how we store and use personal and non-personal information we collect online on our websites, during your use of our online products and/or services (including online game play) and on mobile platforms.</p>
-<h3>II. What is Personal Information and when does CRYTEK collect It?</h3>
-<p>CRYTEK collects both personal and non-personal consumer information. Personal information collected by CRYTEK is discussed below in this section. Non-personal information is discussed below in Section III.</p>
-<h4>A. Personal Information Collected By CRYTEK</h4>
-<p>Personal information is information that identifies you and that may be used to contact you on-line or off-line. CRYTEK may collect personal information from our online visitors during:</p>
-<ul>
-<li>Gaming and other user behavior including gaming results;</li>
-<li>Warranty registration and requests;</li>
-<li>Customer support and/or technical service requests;</li>
-<li>Player match up and other head-to-head online competitions;</li>
-<li>Registration for games and/or special game-specific events;</li>
-<li>Newsletter subscriptions, referral services, and other marketing surveys and email campaigns;</li>
-<li>Registration for CRYTEK and/or other service accounts;</li>
-<li>Product, service and/or subscription orders;</li>
-<li>Service requests from third party service providers on our site; and</li>
-<li>Otherwise through use of our software, mobile or online services where personal information is required for use and/or participation.</li>
-</ul>
-<p>Information collected will vary depending upon the activity and may include your name, user name, email address, password, phone number, home address, birth date, mobile phone number and credit card information but will only be saved when needed. You will be specifically notified in case of irregular collection of data.</p>
-<p>CRYTEK also may maintain log files which contain IP addresses. An IP address is a numeric address that may be assigned to your computer by your Internet Service Provider. In general, we use log files to monitor traffic on our websites and to troubleshoot technical problems. In the event of user abuse of our websites, however, we may block certain IP addresses. If available, IP addresses and console IDs may be used to personally identify you in order to enforce our Terms of Service.</p>
-<h4>B. Personal Information Provided To CRYTEK By Third Parties.</h4>
-<p>We may also receive other personal information from third parties in connection with the operation and distribution of our products and services as well as market and demographic studies that we use to supplement personal information provided directly by you. As with all other information, we use this data only for purposes consistent with this policy.</p>
-<h3>III. What Is Non-Personal Information and When Does CRYTEK Collect It?</h3>
-<p>Non-personal information, alone, cannot be used to identify or contact you. CRYTEK collects non-personal information about your use of our online and mobile products and services both on our website and in the course of game play and software usage (on PC, mobile and console platforms).</p>
-<h4>A. What Types of Non-Personal Information Does CRYTEK Collect?</h4>
-<p>When you use the CRYTEK Services, we may collect certain non-personal demographic information including gender, zip code, information about your computer, hardware, software, platform, media, and mobile device. We also collect other non-personal information such as feature usage, game play statistics and scores, user rankings and click paths as well as other data that you may provide in surveys, via your account preferences and online profiles or through purchases, for instance. We may also receive either non-personal or public information from third parties in connection with market and demographic studies that we use to supplement personal information provided directly by you.</p>
-<h4>B. How Does CRYTEK Collect Non-Personal Information?</h4>
-<p>CRYTEK collects non-personal information in addition to personal information when you actively provide it in the context of various online and mobile activities including online and mobile purchases, game registration and marketing surveys, for instance. In addition, we might use cookies and other technologies to passively collect non-personal demographic information, personalize your experience on our sites and monitor advertisements and other activities.</p>
-<h5>1. Cookies</h5>
-<p>Cookies are small files applied to your Internet browser to track movements within websites. We may link cookie information to personal information. Cookies link to information regarding what items you have selected for purchase at our store, pages you have viewed, or games you have played. This information is used to keep track of your shopping cart and make sure you don't see the same ad repeatedly, for example. Also, we use cookies to deliver content specific to your interest and to monitor website or game usage. We collect information on what games are played, how much time is spent playing the games and which ads or links are clicked. Some of our sites use an outside ad company to display ads. These ads contain cookies. Cookies received with banner ads are applied by our ad companies, and CRYTEK does not have access to this information. Most browsers are automatically set to accept cookies whenever you visit a website. You can disable cookies or set your browser to alert you when cookies are being sent. We may also use flash cookies, also known as "local shared objects," on our sites that employ Flash technology. Flash cookies are small files similar to browser cookies and are used to remember the site's settings to personalize the look and feel of the site. Flash cookies only collect data in the aggregate. Like normal cookies, Flash cookies are represented as small files on your computer. One method of preventing Flash cookies from being placed is to adjust your preferences in the Macromedia Website Privacy Settings Panel at <a href="http://www.macromedia.com/" target="_blank">www.macromedia.com</a>. Please note that this privacy policy covers the use of cookies by CRYTEK only and does not cover the use of cookies by any advertisers.</p>
-<h5>2. Third Party Ad Serving Technology</h5>
-<p>The companies that serve the ads that may appear on our websites may also collect information regarding your activities online, including the sites you visit. For more information on such services or to opt out of those services, please visit such services' websites.</p>
-<h5>3. Analytic Metrics Tool and Other Technologies</h5>
-<p>CRYTEK also uses its own proprietary analytic metrics tool and other analytics technologies to collect non-personal information when you use our online products and services and/or play our games on your PC, console and/or mobile device.</p>
-<h3>IV. What Happens To The Information CRYTEK Collects?</h3>
-<p>This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyse how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.</p>
-<p>You may also prevent Google Analytics from collecting and storing your information by downloading and installing the Google Analytics Opt-out Browser Add-On under the following link <a href="http://tools.google.com/dlpage/gaoptout?hl=en">http://tools.google.com/dlpage/gaoptout?hl=en</a>.</p>
-<h4><br> A. How CRYTEK Uses Your Information</h4>
-<p>CRYTEK uses your information to operate CRYTEK's games, fulfill your specific requests, and purchase orders and to send you purchase confirmation and other account-related information. In addition, if you choose to receive communications from us about CRYTEK products and news, the personal information you provide will allow us to send you messages about things including new products, features, enhancements, special offers, upgrade opportunities, contests and events of interest. You may also later opt out of this service from CRYTEK. Your participation in tournaments or other online game events is also conditional upon our collection, use, storage, transmission and public display of statistical data (such as your scores, rankings and achievements) generated through your participation.<br> <br></p>
-<h4>B. Will CRYTEK Share My Information With Third Parties?</h4>
-<p>CRYTEK will never share your personal information with third parties without your consent. We may, however, share non-personal data in the aggregate (in a form that does not personally identify you) with third parties. You may also opt in to allow CRYTEK to share your personal information with companies and organizations that provide products or services that we believe may be of interest to you. To opt out of further communications from a marketing partner or sponsor with whom your information has been shared, please contact that partner or sponsor directly.</p>
-<p>From time to time, CRYTEK employs third party contractors to collect personal information on our behalf to provide email delivery, product, or promotional fulfillment, contest administration, credit card processing, shipping or other services on our sites. When requesting these services, you may be asked to supply your name, mailing address, telephone number and email address to our contractors. We ask some third party contractors, such as credit agencies or market research firms, to supplement personal information that you provide to us for our own marketing and demographic studies, so that we can consistently improve our sites and related advertising to better meet our visitors' needs and preferences. When our third party contractors collect and/or have access to the personal information you provide to CRYTEK, CRYTEK requires that they adhere to our stated privacy policies and protect the confidentiality of personal information they collect or have access to in the course of their engagement by CRYTEK. These third parties are prohibited from using your personal information for any other purpose without your specific consent. You will be notified before your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party. We may also disclose personal information to law enforcement, or the appropriate civil authorities to enforce legal rights and comply with the law, or to comply with an order from a government entity or other competent authority, or when we have reason to believe that a disclosure is necessary to address potential or actual injury or interference with our rights, property, operations, users or others who may be harmed or may suffer loss or damage, or when we believe that disclosure is necessary to protect our rights, combat fraud and/or comply with a judicial proceeding, court order, or legal process served on CRYTEK.</p>
-<h3>V. Where Is The Information Held?</h3>
-<p>CRYTEK is a global organization and the majority of the computer systems on which CRYTEK collects, stores, and uses the information it collects or receives are based in the European Union. Under limited circumstances, we may utilize data storage facilities located in the USA and/or Asia. Your personal information may be transferred to, used, processed or held by CRYTEK in the European Union and in other territories and used for the purposes set out in this Privacy Policy.</p>
-<h3>VI. How Does CRYTEK Protect Your Personal Information?</h3>
-<p>The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and in storage. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially reasonable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact the Privacy Policy Administrator via email at <a href="mailto:(&lt;a rel=" mailto"="">privacy<img src="/assets/at.png" border="0" alt="@">crytek.de</a>)"&gt;privacy@crytek.com.</p>
-<h3>VII. Review, Correction of Your Information, Requesting Removal from Mailing Lists and Deactivating Your Account</h3>
-<p>You can correct, update or delete your account information at any time by logging on our site and navigating to "My Account," "View My Profile" or other account settings. Should you be unable to log in contact <a href="mailto:(&lt;a rel=" mailto"="">privacy<img src="/assets/at.png" border="0" alt="@">crytek.de</a>)"&gt;privacy@crytek.com. We will be happy to review, update or remove information as appropriate. We may still retain your information in our files however, to resolve disputes, enforce our user agreement, and due to technical and legal requirements and constraints related to the security, integrity and operation of our websites.</p>
-<h3>VIII. Public Information Including User Generated Content, Online Forums, Blogs and Profiles</h3>
-<p>You may choose to disclose information about yourself in the course of contributing user generated content to CRYTEK sites or games or in public online chat rooms, blogs, message boards, user "profiles" for public view or in similar forums on our sites. Information that you disclose in any of these forums is public information, and there is no expectation of privacy or confidentiality there.</p>
-<p>You should be aware that any personally identifiable information you submit in the course of these public activities can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.</p>
-<p>If you post a video, image or photo on one of our sites for public view you should be aware that these may be viewed, collected, copied and/or used by other users without your consent. We are not responsible for the videos, images or photos that you choose to submit to CRYTEK services. Please see our regulations at <a href="http://www.rysegame.com/terms">www.crytek.com/terms</a> on this point and for other guidelines about posting content on our Service.</p>
-<h3>IX. Third Party Sites.</h3>
-<p>Crytek Services may contain advertising or services which link to other websites such as Twitter, Facebook and YouTube. The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party. If you click on a link to a third party site, including on an advertisement, you will leave the CRYTEK site you are visiting and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personal information by such third parties, and we cannot guarantee that they will adhere to the same privacy and security practices as CRYTEK. We encourage you to review the privacy policies of any other service provider from whom you request services. If you visit a third party website that is linked to a CRYTEK site, you should consult that site's privacy policy before providing any personal information.</p>
-<h3>X. Products Offered In Partnership with Third Party(s)</h3>
-<p>Members may register for other services from our site(s). Certain products and/or services available on our service are provided to you in partnership with third party(s) and may require you to disclose personally identifiable information in order to register for and access such products and/or services. Such products and/or services shall identify the third party partners at the point of registration. If you elect to register for such products and/or services your personally identifiable information will be transferred to such third party(s) and will be subject to the privacy policy and practices of such third party(s). We are not responsible for the privacy practices and policies of such third party(s) and, therefore, you should review the privacy practices and policies of such third party(s) prior to providing your personally identifiable information in connection with such products and/or services.</p>
-<h3>XI. Contact Information</h3>
-<p>If you have questions or concerns regarding this statement, you should contact the CRYTEK Privacy Policy Administrator at <a href="mailto:(&lt;a rel=" mailto"="">privacy<img src="/assets/at.png" border="0" alt="@">crytek.de</a>)"&gt;privacy@crytek.com.</p>                        </div>
-                    </div>
-
-                </div>
-                <div class="just-bottomline"><!-- --></div>
+            <div class="col-md-4">
+              <a class="footer-industry-card" href="/get-cryengine/service-packages" title="">
+                <div class="footer-industry-icon"><i class="icon ion-help-buoy"></i></div>
+                <h4 class="">Memberships</h4>
+                <span>For developers looking for additional benefits and support.</span>
+              </a>
             </div>
-        </div>
-
-    <div class="footer">
-            <div class="border"><!-- --></div>
-            <div class="centred">
-                <div class="body">
-                    <div class="column">
-                        <ul>
-                            <li>© 2015 CRYTEK All Rights Reserved</li>
-                            <li><a href="/imprint">Imprint</a></li>
-                            <li><a href="/legal">Legal</a></li>
-                            <li><a href="/privacy">Privacy Policy</a></li>
-                            <li><a href="/terms">Terms of Service</a></li>
-                            <li><a href="/video-policy">Video Policy</a></li>
-														<li><img class="usk" src="/assets/uskjugendschutz90.png" alt="USK Unterhaltungssoftware Selbstkontrolle"></li>
-                        </ul>
-                    </div>
-                    <div class="column margined">
-                        <ul>
-                            <li><a class="header" href="/home">Home</a></li>
-                            <li><a href="/news">News</a></li>
-                            <li><a href="/press">Press</a></li>
-                            <li><a href="/company">Company</a></li>
-                            <li><a href="/career/studios/overview">Studios</a></li>
-                            <li><a href="/community">Community</a></li>
-                            <li><a href="/blog">Blog</a></li>
-                            <li><a href="/contact">Contact</a></li>
-                        </ul>
-                    </div>
-                    <div class="column margined">
-                        <ul>
-                            <li><a class="header" href="/games">Games</a></li>
-                            <li><a href="/games/hunt">Hunt</a></li>
-                            <li><a href="/games/arenaoffate">Arena of Fate</a></li>
-                            <li><a href="/games/the-collectables">The Collectables</a></li>
-                            <li><a href="/games/ryse">Ryse</a></li>
-                            <li><a href="/games/warface">Warface</a></li>
-                            <li><a href="/games/crysis3">Crysis 3</a></li>
-                            <li><a href="/games/fibble">Fibble</a></li>
-                            <li><a href="/games/crysis1console">Crysis for Consoles</a></li>
-                            <li><a href="/games/crysis2">Crysis 2</a></li>
-                            <li><a href="/games/crysis-warhead">Crysis Warhead</a></li>
-                            <li><a href="/games/crysis">Crysis</a></li>
-                            <li><a href="/games/far-cry">Far Cry</a></li>
-                        </ul>
-                    </div>
-                    <div class="column margined">
-                        <ul>
-                            <li><a class="header" href="/cryengine">CRYENGINE</a></li>
-                            <li><a href="/cryengine/cryengine3">CryENGINE<sup>®</sup> 3</a></li>
-                            <li><a href="/cryengine/cryengine2">CryENGINE<sup>®</sup> 2</a></li>
-                            <li><a href="/cryengine/cryengine1">CryENGINE<sup>®</sup> 1</a></li>
-                            <li><a href="/cryengine/presentations">Presentations</a></li>
-                        </ul>
-                    </div>
-                    <div class="column margined">
-                        <ul>
-                            <li><a class="header" href="/career">Career</a></li>
-                            <li><a href="/career/general">General Information</a></li>
-                            <li><a href="/career/offers">Current Job offers online</a></li>
-                            <li><a href="/career/studios">Learn more about the Studios</a></li>
-                        </ul>
-                    </div>
-
-                </div>
+            <div class="col-md-4">
+              <a class="footer-industry-card" href="/get-cryengine/full-license" title="">
+                <div class="footer-industry-icon"><i class="icon ion-ios-people"></i></div>
+                <h4 class="">Enterprise Licensing</h4>
+                <span>Looking for custom support and training packages?</span>
+              </a>
             </div>
-        </div>
+          </div>
+		<div class="row">
 
+			<div class="col-md-12">
+				<div class="email-newsletter-block">
+
+					<div class="col-text">
+						<h4 class="heading">CRYENGINE news and updates. Delivered weekly.</h4>
+						<p>Join thousands of Cryengine users who get our content first.</p>
+					</div>
+
+					<form>
+						<div class="col-form">
+							<input type="email" class="form-control input-lg" id="newsletteremail" name="newsletteremail" placeholder="Email Address">
+							<button type="submit" class="btn btn-primary" id="newsletter-btn" aria-label="Submit"><i class="icon ion-chevron-right" aria-hidden="true"></i></button>
+						</div>
+						<div class="checkbox">
+							<input type="checkbox" id="agreetos">
+							<label>I agree to the <a href="/terms" target="_blank" title="Terms of Service">terms of service</a> and <a href="/privacy" target="_blank" title="Privacy Policy">privacy policy</a> </label>
+						</div>
+                                            <div class="alerts-container" id="footer-newsletter-alerts">
+                                                <div class="alert alert-danger alert-danger-tos" role="alert">
+                                                    <i class="icon ion-alert" aria-hidden="true"></i>You need to agree to the terms.
+                                                </div>
+                                                <div class="alert alert-danger alert-danger-db" role="alert">
+                                                    <i class="icon ion-alert" aria-hidden="true"></i>The mail address you added is already existing in our database.
+                                                </div>
+                                                <div class="alert alert-danger alert-danger-invalid" role="alert">
+                                                    <i class="icon ion-alert" aria-hidden="true"></i>The mail address you added is invalid.
+                                                </div>
+                                                <div class="alert alert-success" role="alert">
+                                                    <i class="icon ion-checkmark" aria-hidden="true"></i><strong>Boom!</strong> You successfully signed up.
+                                                </div>
+                                            </div>
+						<!-- Alerts -->
+						<!--<div class="alerts-container">
+							<div class="alert alert-danger alert-danger-tos" role="alert">
+	                            <i class="icon ion-alert" aria-hidden="true"></i>You need to agree to the terms.
+	                        </div>
+	                        <div class="alert alert-danger alert-danger-db" role="alert">
+	                            <i class="icon ion-alert" aria-hidden="true"></i>The mail address you added is already existing in our database.
+	                        </div>
+	                        <div class="alert alert-danger alert-danger-invalid" role="alert">
+	                            <i class="icon ion-alert" aria-hidden="true"></i>The mail address you added is invalid.
+	                        </div>
+	                    </div>-->
+					</form>
+
+				</div>
+			</div>
+
+		</div>
+
+	</div>
+</div>
+<footer class="container-fluid">
+	
+	<div class="row">
+		<div class="col-md-12">
+
+			<nav class="navbar navbar-inverse ce-footernav">
+			
+				<ul class="nav navbar-nav">
+					<li><a href="/">Home</a></li>
+					<li class="dropdown">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Explore <i class="icon ion-android-arrow-dropdown"></i></a>
+						<ul class="dropdown-menu">
+							<li><a href="/features">Features</a></li>
+							<li><a href="/showcase">Showcase</a></li>
+							<li><a href="/news">News</a></li>
+							<li><a href="/developer-fund">Developer Fund</a></li>
+							<li><a href="/vrfirst">VR First</a></li>
+						</ul>
+			        </li>
+			        <li><a href="/marketplace">Marketplace</a></li>
+					<li class="dropdown">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Learn <i class="icon ion-android-arrow-dropdown"></i></a>
+						<ul class="dropdown-menu">
+							<li><a href="/tutorials">Tutorials</a></li>
+							<li><a href="http://docs.cryengine.com/">Documentation</a></li>
+						</ul>
+			        </li>
+					<li class="dropdown">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Community <i class="icon ion-android-arrow-dropdown"></i></a>
+						<ul class="dropdown-menu">
+							<li><a href="/community/gallery">Gallery</a></li>
+							<li><a href="/community">Forums</a></li>
+						</ul>
+			        </li>
+			        <li class="dropdown">
+			            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">More <i class="icon ion-android-arrow-dropdown"></i></a>
+			            <ul class="dropdown-menu">
+				            <li><a href="http://support.cryengine.com/">Support</a></li>
+				            <li><a href="http://www.crytek.com/career/offers/overview/frankfurt/programming-engineering">Careers <i aria-label="(external link)" class="icon ion-android-open"></i></a></li>
+				            <li><a href="http://assets.crytek.com/asset-bank/action/browseItems?categoryId=151&amp;categoryTypeId=1&amp;allCats=0">Press <i aria-label="(external link)" class="icon ion-android-open"></i></a></li>
+			            </ul>
+			        </li>
+				</ul>
+
+				<ul class="nav navbar-nav navbar-right ce-footer-social">
+					<li><a href="https://www.facebook.com/cryengineofficial"><i class="icon ion-social-facebook"></i></a></li>
+					<li><a href="https://twitter.com/cryengine"><i class="icon ion-social-twitter"></i></a></li>
+					<li><a href="http://www.linkedin.com/groups/CRYENGINE-5136838"><i class="icon ion-social-linkedin"></i></a></li>
+					<li><a href="https://www.youtube.com/cryengine"><i class="icon ion-social-youtube"></i></a></li>
+				</ul>
+
+			</nav>
+
+		</div>
+	</div><!-- /.row -->
+
+	<div class="row">
+		<div class="col-md-12">
+			<ul class="footer-logos">
+				<li><a class="logo-crytek" href="http://crytek.com" title="crytek.com"><img alt="Crytek" src="/assets/img/crytek-logo.svg"></a></li>
+				<li><a class="logo-cryengine" href="/" title="cryengine.com"><img alt="CRYENGINE" src="/assets/img/cryengine-logo.svg"></a></li>
+			</ul>
+			<p class="footer-legal">© 2016 Crytek GmbH. All rights reserved. Crytek, Crysis, Crysis Warhead, Crysis Wars and CRYENGINE® are registered trademarks of Crytek in the EU, the USA &amp; other countries. All other trademarks are property of their respective owners.</p>
+			<ul class="footer-legal-links">
+				<li><a href="/legal" title="Legal">Legal</a></li>
+				<li><a href="/terms" title="Terms of Service">Terms of Service</a></li>
+				<li><a href="/privacy" title="Privacy Policy">Privacy Policy</a></li>
+				<li><a href="/ce-terms" title="CRYENGINE License Agreement">CRYENGINE License Agreement</a></li>
+                                <li><a href="/mp-terms" title="Marketplace Terms">Marketplace Terms</a></li>
+                                <li><a href="/imprint" title="Imprint">Imprint</a></li>
+			</ul>
+                        <div class="footer-payment-icons">
+                            <img src="/assets/img/payment-visa.png" width="38" height="24" alt="Pay with Visa">
+                            <img src="/assets/img/payment-mastercard.png" width="38" height="24" alt="Pay with MasterCard">
+                            <img src="/assets/img/payment-paypal.png" width="38" height="24" alt="Pay with PayPal">
+			</div>
+		</div>
+	</div>
+
+</footer>
 
 <script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-28262266-1']);
-  _gaq.push(['_trackPageview']);
+  ga('create', 'UA-43455519-2', 'auto');
+  ga('send', 'pageview');
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+$(function() {
+    $("#newsletter-btn").click(function(){
+        
+        $('.alert-danger').hide();
+        $('.alert-success').hide();
+        
+        var re = /\S+@\S+\.\S+/;
+        emailaddress=$('#newsletteremail').val();
+        
+        if(emailaddress.length<1 || !re.test(emailaddress))
+        {
+            $('#footer-newsletter-alerts .alert-danger-invalid').show();
+            return false;
+        }
+        if($('#agreetos').attr('checked')!='checked')
+        {
+            $('#footer-newsletter-alerts .alert-danger-tos').show();
+            return false;
+        }
+        
+        //Built a url to send
+        var info = "mail="+emailaddress;
 
+        $.ajax({
+            type: "POST",
+            url: "/newsletter/subscription",
+            data: info,
+            success: function(e){
+                if(e=='false')
+                {
+                    $('#footer-newsletter-alerts .alert-danger-db').show();
+                }
+                else
+                {
+                    $('#footer-newsletter-alerts .alert-success').show();
+                }
+            }
+        });
+
+        return false;
+
+    });
+    
+    
+    $("#newsletter-model-submit").click(function(){
+        
+        $('.alert-danger').hide();
+        $('.alert-success').hide();
+        
+        var re = /\S+@\S+\.\S+/;
+        emailaddress=$('#modal-newsletter-email').val();
+        
+        if(emailaddress.length<1 || !re.test(emailaddress))
+        {
+            $('#modal-newsletter-alerts .alert-danger-invalid').show();
+            return false;
+        }
+        if($('#agreetos-modal').attr('checked')!='checked')
+        {
+            $('#modal-newsletter-alerts .alert-danger-tos').show();
+            return false;
+        }
+        
+        //Built a url to send
+        var info = "mail="+emailaddress;
+
+        $.ajax({
+            type: "POST",
+            url: "/newsletter/subscription",
+            data: info,
+            success: function(e){
+                if(e=='false')
+                {
+                    $('#modal-newsletter-alerts .alert-danger-db').show();
+                }
+                else
+                {
+                    $('#modal-newsletter-alerts .alert-success').show();
+//                    $('#modal-newsletter-prompt').fadeOut('slow').remove();
+                }
+            }
+        });
+
+        return false;
+
+    });
+    
+});
+    
+piAId = '122402';
+piCId = '33892';
+
+(function() {
+	function async_load(){
+		var s = document.createElement('script'); s.type = 'text/javascript';
+		s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+		var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+	}
+	if(window.attachEvent) { window.attachEvent('onload', async_load); }
+	else { window.addEventListener('load', async_load, false); } })(); 
+</script>
+<script type="text/javascript">
+    adroll_adv_id = "XFH5ZTZUONDQFEY7STAQ7E";
+    adroll_pix_id = "KKS6JJPPA5GQBNUCJLXSBO";
+    /* OPTIONAL: provide email to improve user identification */
+    /* adroll_email = "username@example.com"; */
+    (function () {
+        var _onload = function(){
+            if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+            if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
+            var scr = document.createElement("script");
+            var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+            scr.setAttribute('async', 'true');
+            scr.type = "text/javascript";
+            scr.src = host + "/j/roundtrip.js";
+            ((document.getElementsByTagName('head') || [null])[0] ||
+                document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+        };
+        if (window.addEventListener) {window.addEventListener('load', _onload, false);}
+        else {window.attachEvent('onload', _onload)}
+    }());
 </script>
 
 
-        
+    </div>
+    </div>
+    <!-- Modal - Youtube videos - uses data-src from trigger element -->
+<!-- e.g <a class="btn-youtube-modal" href="#" data-src="iileAWtuQZU"></a>  -->
+<div class="ce-modal youtube-modal">
+	<div class="ce-modal-content">
+	  <!-- 16:9 aspect ratio (bootstrap component) -->
+	  <div class="embed-responsive embed-responsive-16by9">
+	    <iframe class="embed-responsive-item" width="560" height="315" src="" allowfullscreen=""></iframe>
+	  </div>
+	</div>
+	<button type="button" id="close-ce-modal" class="close-ce-modal"><i class="icon ion-close" aria-hidden="true"></i></button>
+</div>
+
+<!-- Modal - Email Newsletter Confirmation -->
+<div id="modal-confirmation" class="ce-modal">
+	<div class="ce-modal-content ce-modal-message">
+	<i class="icon ion-checkmark-circled" aria-hidden="true"></i>
+	  <h3>Confirmation Message</h3>
+	  <p>This is a confirmation message.</p>
+	  <a class="link-sm link-close-ce-modal">Continue</a>
+	</div>
+	<button type="button" class="close-ce-modal"><i class="icon ion-close" aria-hidden="true"></i></button>
+</div>
+
+<script>
+    $( document ).ready(function(){
+        setTimeout(function(){
+          $('#modal-newsletter-prompt').velocity('fadeIn', 300);
+        }, 300000);
+
+
+        $('#modal-newsletter-prompt .close-ce-modal').bind('click', function() {
+           //Built a url to send
+            var info = "";
+
+            $.ajax({
+                type: "POST",
+                url: "/newsletter/subscriptionClose",
+                data: info,
+                success: function(e){
+                    return false;
+                }
+            });
+        });
+    });
+</script>
+<div id="modal-newsletter-prompt" class="ce-modal modal-newsletter-prompt">
+  
+  <div class="ce-modal-content">
+    <div class="text">
+      <h3 class="hu">Never miss the CRYENGINE newsletter</h3>
+      <p>We noticed that you like reading about CRYENGINE and its games. Why not sign up for our newsletter? You will never miss any important news, and we promise that we won't spam you!</p>
+    </div>
+    <form>
+	    <div class="newsletter-input">
+		    <input class="" type="email" placeholder="What's your email?" id="modal-newsletter-email">
+		    <button type="submit" id="newsletter-model-submit"><i class="icon ion-android-arrow-forward"></i></button>
+		</div>
+		<div class="newsletter-checkbox">
+			<input type="checkbox" id="agreetos-modal">
+			<label>I agree to the <a href="/terms" title="Terms of Service">terms of service</a> and <a href="/privacy" title="Privacy Policy">privacy policy</a> </label>
+		</div>
+		<div class="alerts-container" id="modal-newsletter-alerts">
+                    <div class="alert alert-danger alert-danger-tos" role="alert">
+                        <i class="icon ion-alert" aria-hidden="true"></i>You need to agree to the terms.
+                    </div>
+                    <div class="alert alert-danger alert-danger-db" role="alert">
+                        <i class="icon ion-alert" aria-hidden="true"></i>The mail address you added is already existing in our database.
+                    </div>
+                    <div class="alert alert-danger alert-danger-invalid" role="alert">
+                        <i class="icon ion-alert" aria-hidden="true"></i>The mail address you added is invalid.
+                    </div>
+                    <div class="alert alert-success" role="alert">
+                        <i class="icon ion-checkmark" aria-hidden="true"></i><strong>Boom!</strong> You successfully signed up.
+                    </div>
+                </div>
+	</form>
+  </div>
+
+  <button type="button" class="close-ce-modal"><i class="icon ion-close" aria-hidden="true"></i></button>
+</div>
+
+<!-- LOGIN ********************************************************** -->
+<div id="modal-sub-login" class="ce-modal ce-subscription-modal" style="display: none; opacity: 0;">
+  <div class="container-fluid">
+
+    <div class="ce-modal-panel ce-modal-panel-login">
+      <h3 class="mkp-checkout-modal-header">Login</h3>
+      <form>
+          <div class="form-group" id="login-error-modal"></div>
+        <div class="form-group">
+          <label for="login-username" class="control-label">Email</label>
+          <input type="email" class="form-control input-dark" id="login-username" placeholder="Email" name="username">
+        </div>
+        <div class="form-group">
+          <label for="login-password" class="control-label">Password</label>
+          <input type="password" class="form-control input-dark" id="login-password" placeholder="Password" name="userpassword">
+        </div>
+        <div class="checkbox">
+          <label>
+            <input name="autologin" id="autologin" type="checkbox"> Stay signed in
+          </label>
+        </div>
+        <button type="submit" class="btn btn-primary" onclick="return login();">Login</button>
+        <ul class="form-extra-links">
+          <li><a href="/community/ucp.php?mode=sendpassword">Forgotten your password?</a></li>
+          <li><a href="/community/ucp.php?mode=resend_act">Can't find your confirmation email?</a></li>
+        </ul>
+        <div class="form-register-link">
+          Don't have an account? <a href="/get-cryengine" id="create-account-btn" title="Create an account">Register now</a>
+        </div>
+      </form>
+    </div>
+
+  </div><!-- /container-fluid -->
+  <button type="button" class="close-ce-modal"><i class="icon ion-close" aria-hidden="true"></i></button>
+</div><!-- /ce-modal -->
+<!-- /LOGIN ********************************************************** -->
+
+<!-- REGISTER ********************************************************** -->
+<div id="modal-sub-register" class="ce-modal ce-subscription-modal">
+  <div class="container-fluid">
+
+    <div class="ce-modal-panel ce-modal-panel-login">
+        <h3 class="mkp-checkout-modal-header">Register</h3>
+        <form>
+            <div class="form-group alert alert-danger" id="subscriptions-register-error" style="display:none;"></div>
+            <div class="form-group">
+                <label for="username" class="control-label">Username</label>
+                <input type="text" class="form-control input-dark" name="username" id="subscriptions-username" placeholder="Username">
+            </div>
+
+            <div class="form-group">
+                <label for="username" class="control-label">Email</label>
+                <input type="email" class="form-control input-dark" name="email" id="subscriptions-email" placeholder="Email" size="25" maxlength="100" title="Email address">
+            </div>
+
+            <div class="form-group">
+                <label for="new_password" class="control-label">Password</label>
+                <input type="password" class="form-control input-dark" name="new_password" id="subscriptions-new_password" placeholder="Password">
+            </div>
+
+            <div class="form-group">
+                <div class="g-recaptcha" id="recaptcha-subscriptions"></div>
+            </div>
+            <button type="button" class="btn btn-default" id="register-subscriptions-back">Back</button>
+            <button type="button" class="btn btn-primary" id="modal-subscriptions-register-btn" onclick="return registerUserSubscriptions();">Create Account</button>
+
+        </form>
+    </div>
+
+  </div><!-- /container-fluid -->
+  <button type="button" class="close-ce-modal"><i class="icon ion-close" aria-hidden="true"></i></button>
+</div><!-- /ce-modal -->
+<!-- /REGISTER ********************************************************** -->
+
+<div id="mkp-modal-cart" class="ce-modal ce-modal-mkp-checkout">
+
+    <div class="ce-modal-content mkp-checkout-modal">
+
+
+
+
+    </div>
+
+    <button type="button" class="close-ce-modal"><i class="icon ion-close" aria-hidden="true"></i></button>
+</div>
+
+<div id="mkp-modal-success" class="ce-modal ce-modal-mkp-success">
+
+    <div class="ce-modal-content mkp-checkout-modal">
+        <i class="icon ion-checkmark icon-modal-success"></i>
+        <h3 class="modal-header">Purchase Complete</h3>
+        <p>Your order has been successfully processed. Go to the CRYENGINE launcher to download your items.</p>
+        <button type="submit" class="btn btn-primary">Continue</button>
+    </div>
+
+</div>
+
+
+
+<div id="mkp-modal-address" class="ce-modal ce-modal-mkp-checkout">
+    <div class="ce-modal-content mkp-checkout-modal">
+
+    </div>
+    <button type="button" class="close-ce-modal"><i class="icon ion-close" aria-hidden="true"></i></button>
+</div>
+<div id="mkp-modal-payment" class="ce-modal ce-modal-mkp-checkout ce-subscription-modal">
+    <div class="ce-modal-content mkp-checkout-modal" style="background:none; max-width: none; padding: 0;">
+
+    </div>
+    <button type="button" class="close-ce-modal"><i class="icon ion-close" aria-hidden="true"></i></button>
+</div>
+<script>
+    var returnPaymentUrl = "http://www.cryengine.com//privacy";
+    </script>
+<!--<script src="/assets/js/vendor/jquery-2.1.0.min.js"></script>-->
+<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script> -->
+<script src="/assets/js/vendor/bootstrap.min.js"></script>
+<script src="/assets/js/vendor/jquery.smoothState.js"></script>
+<script src="/assets/js/vendor/pace.min.js"></script>
+
+<!-- velocity.js for animations -->
+<script src="//cdn.jsdelivr.net/velocity/1.2.2/velocity.min.js"></script>
+<script src="//cdn.jsdelivr.net/velocity/1.2.2/velocity.ui.min.js"></script>
+
+<!-- slick.js for slider -->
+<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.5.6/slick.min.js"></script>
+
+<!-- masonry.pkgd.min.js for gallery -->
+<script src="/assets/js/vendor/masonry.pkgd.min.js"></script>
+
+<!-- charts.js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/1.0.2/Chart.min.js"></script>
+<!-- datatables.js -->
+<!--<script type="text/javascript" src="https://cdn.datatables.net/s/bs/dt-1.10.10/datatables.min.js"></script>-->
+
+<!-- Bootstrap tables -->
+<script src="/assets/js/vendor/bootstrap-tables/bootstrap-table.js"></script>
+<script src="/assets/js/vendor/bootstrap-tables/extensions/export/bootstrap-table-export.min.js"></script>
+<script src="/assets/js/vendor/tableExport.min.js"></script>
+
+<script src="/assets/js/vendor/jquery.fullPage.min.js"></script>
+
+<script src="/assets/js/vendor/nouislider.min.js"></script>
+
+<script src="/assets/js/main.js"></script>
+
+<script src="/assets/js/marketplace.js"></script>
+<script src="/assets/js/subscriptions.js"></script>
+<script src="/assets/js/custom.js"></script>
+
+<script src="https://cdn.jsdelivr.net/jquery.validation/1.15.0/jquery.validate.min.js"></script>
+<script src="https://cdn.jsdelivr.net/jquery.validation/1.15.0/additional-methods.min.js"></script>
+
+<script src="/assets/js/jquery.creditCardValidator.js"></script>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $.validator.addClassRules('required', { required: true });
+        $.validator.addClassRules('digits', { digits: true });
+
+        $.validator.addClassRules('iban', { regex: /^[a-zA-Z]{2}\d{2}\s*(\w{4}\s*){2,7}\w{1,4}\s*$/ });
+        $.validator.addClassRules('bic', { regex: /^[a-zA-Z]{6}\w{2}(\w{3})?$/ });
+        $.validator.addClassRules('sortcode', { minlength: 6, maxlength: 6, digits: true});
+        $.validator.addClassRules('aba', { minlength: 9, maxlength: 9, digits: true});
+        $.validator.addClassRules('institution-number', { minlength: 3, maxlength: 4, digits: true});
+        $.validator.addClassRules('branch-code', { minlength: 5, maxlength: 5, digits: true });
+        $.validator.addClassRules('bank-name', { minlength: 1, maxlength: 50})
+        $.validator.addClassRules('account-number-ca', { digits: true, minlength: 1, maxlength: 20 });
+        $.validator.addClassRules('date-day', { required: true, require_from_group: [1, '.date-group'], date {
+            'date-day': true
+        }});
+        $.validator.addClassRules('date-month', { require_from_group: [1, '.date-group'], date {
+            'date-month': true
+        }});
+        $.validator.addClassRules('date-year', { require_from_group: [1, '.date-group'], date {
+            'date-year': true
+        }});
+    });
+</script>  <script id="modal-tpl" type="text/html">
+        <div class="modal-bounding-box">
+            <div class="modal-backdrop in" data-dismiss="modal"><!-- --></div>
+            <div class="modal hide">
+              <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h3></h3>
+              </div>
+              <div class="modal-body">
+                <p></p>
+              </div>
+              <div class="modal-footer hide">
+                <a class="btn btn-cancel hide" data-dismiss="modal" aria-hidden="true">Close</a>
+                <a class="btn btn-save btn-primary hide" href="#">Save changes</a>
+                <a class="btn btn-remove btn-danger hide" href="#">Delete</a>
+              </div>
+            </div>
+       </div>
+  </script>
 
 </body></html>
