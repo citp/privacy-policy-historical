@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the premiumbloggertemplates.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229105625id_/http%3A//www.premiumbloggertemplates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumbloggertemplates.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512203053id_/http%3A//www.premiumbloggertemplates.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Blogger Templates 2015
+# Privacy Policy | Blogger Templates 2016
 
 **Privacy Policy for www.premiumbloggertemplates.com**
 
