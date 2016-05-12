@@ -1,114 +1,149 @@
-> *The following text is extracted and transformed from the doyouremember.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008141038id_/http%3A//doyouremember.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doyouremember.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512211328id_/http%3A//www.doyouremember.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - DoYouRemember?DoYouRemember?
+# PRIVACY – Do You Remember?
 
-_Jan 30, 2015_
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-Do You Remember?, Inc. (“DYR”, “we”, or “us”) know that our users (“you,” “your,” or “yourself”) care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting or using the www.DoYouRemember.com website and domain name, any other linked pages, features, content, mobile applications, and any other services we offer from time to time in connection with any of the foregoing (collectively, the “Website”), you agree to the practices and policies set forth in this Privacy Policy, and you hereby acknowledge and consent to our collection, use, and sharing of your information as described in this Privacy Policy. Capitalized terms not defined in this Privacy Policy have the meaning given to them in our Terms of Use.
+**What personal information do we collect from the people that visit our blog, website or app?**
 
-### I. WHAT DOES THIS PRIVACY POLICY COVER?
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number, credit card information or other details to help you with your experience.
 
-This Privacy Policy covers our treatment of personally identifiable information (“Personal Information”) that we gather when you are accessing or using our Website. This policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage, even if you have accessed the websites or services of those companies through our Website.
+**When do we collect information?**
 
-We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register for the Services (as that term is defined in our Terms of Use). If you are under 13, please do not attempt to register for the Services or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to us or on the Services. If we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [support@DoYouRemember.com](mailto:support@DoYouRemember.com) .
+We collect information from you when you register on our site, place an order, subscribe to a newsletter, fill out a form or enter information on our site.
 
-### II. WHAT INFORMATION DOES DYR COLLECT?
+**How do we use your information?**
 
-We gather various types of Personal Information from our users, as explained more fully below. We may use this Personal Information to, among other things, personalize and improve our services, allow our users to set up a user account and profile, contact users, fulfill your requests for certain products and services, analyze how users utilize the Website, or as otherwise set forth in this Privacy Policy. We may share certain types of Personal Information with third parties (as described in this Section and in Section III below). We collect the following types of information:
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-### a) Information You Provide to Us:
+**•** To improve our website in order to better serve you.
 
-  * We receive and store any information you knowingly provide to us. For example, we collect Personal Information such as your name, username, phone number, credit card and other billing information, email address, shipping address, and your friends’ email addresses (which we will only use in order to invite them to use the Service). We may also collect information you supply to us regarding your personal preferences and interests. You can choose not to provide us with any or all of the information we specify or request, but then you may not be able to register with us or to take advantage of some or all of our features.
-  * We may anonymize your Personal Information so that you cannot be individually identified and provide that anonymized information to our partners. For example, we allow advertisers to choose the demographic information of users who will see their advertisements and you agree that we may use any of the information we have collected from you in non-personally identifiable form to allow our advertisers to select the appropriate audience for those advertisements. We might use the fact you have purchased or inquired about a certain brand of apparel, for instance, to show you advertisements for the company that sells that brand, but we will not tell that company who you are.
+**•** To allow us to better service you in responding to your customer service requests.
 
+**•** To quickly process your transactions.
 
+**How do we protect visitor information?**
 
-### b) Information Collected Automatically:
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
 
-  * Whenever you interact with our mobile phone application or Website, we automatically receive and record information on our server logs from your browser including your IP address, “cookie” information, and the page you requested. “Cookies” are identifiers we transfer to your computer or device that allow us to recognize your browser or device and tell us how and when pages in our Website are visited and by how many people. You may be able to change the preferences on your browser or device to prevent or limit your computer’s or device’s acceptance of cookies, but doing so may prevent you from taking advantage of our Website’s best features. Our advertising partners may transmit cookies to your computer or device when you click on ads that appear on our site. This Privacy Policy does not cover cookies delivered to you by any of our advertisers.
-  * When we collect usage information (such as the numbers and frequency of visitors to the Website), we only use such data in aggregate form, in a manner that assures your anonymity. We may provide this aggregate usage information to our partners; our partners may use such information to understand how often and in what ways people use our Website, so that our partners, too, can endeavor to provide you with an optimal online experience.
+We use regular Malware Scanning.
 
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
 
+We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.
 
-### c) E-mail and Other Communications:
+All transactions are processed through a gateway provider and are not stored or processed on our servers.
 
-  * We may contact you, by email or other means. For example, we may send you promotional offers on behalf of other businesses, or communicate with you about your use of the Website. Also, we may receive a confirmation when you open an email from us. If you do not want to receive email or other mail from us, please indicate your preference by changing your account settings accordingly.
+**Do we use ‘cookies’?**
 
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
+**We use cookies to:**
 
-### III. WILL DYR SHARE ANY OF THE PERSONAL INFORMATION IT RECEIVES?
+**•** Help remember and process the items in the shopping cart.
 
-We neither rent nor sell your Personal Information in personally identifiable form to anyone. We share your Personal Information with third parties only as described below:
+**•** Understand and save user’s preferences for future visits.
 
-### a) Affiliated Businesses and Third Party Websites We Do Not Control:
+**•** Keep track of advertisements.
 
-  * In certain situations, businesses or third party mobile applications and/or websites we’re affiliated with may sell items or provide services to you through the mobile application and/or Website (either alone or jointly with us). You can recognize when an affiliated business is associated with such a transaction or service, and we will share your Personal Information with that affiliated business only to the extent that we deem it related to such transaction or service
+**•** Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
 
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
 
+If you disable cookies off, some features will be disabled It won’t affect the users experience that make your site experience more efficient and some of our services will not function properly.
 
-### b) Agents:
+However, you can still place orders .
 
-  * We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we inform you otherwise, our agents do not have any right to use the Personal Information we share with them beyond what we deem necessary to assist us in performing such tasks.
+**Third Party Disclosure**
 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
 
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-### c) User Profiles and Content:
+**Third party links**
 
-  * Certain user profile information, including without limitation a user’s username, posted content and/or image content that such user has uploaded to the website may be displayed to other users to facilitate user interaction within the Website or address your request for our services. Any content you upload to your public user profile, along with any Personal Information or content that you voluntarily disclose online in a manner other users can view (on discussion boards, in messages and chat areas, etc.) becomes publicly available, and can be collected and used by others. Your username may also be displayed to other users if and when you post comments or upload images through the Website and other users can contact you through such comments.
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
+**Google**
 
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
 
-### d) Business Transfers:
+We use Google AdSense Advertising on our website.
 
-  * We may choose to buy or sell assets. In these types of transactions, customer information (which may include your Personal Information) is typically one of the business assets that is transferred. Also, if we (or substantially all of our assets) are acquired, or if we go out of business or enter bankruptcy, Personal Information would be one of the assets transferred to or acquired by a third party.
+Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
+**We have implemented the following:**
 
+**•** Remarketing with Google AdSense
 
-### e) Protection of DYR and Others:
+**•** Google Display Network Impression Reporting
 
-  * We may release Personal Information when we believe in good faith that release is necessary to comply with laws; enforce or apply our conditions of use and/or other agreements; or protect the rights, property, or safety of DYR, our employees, our users, or others. We may exchange information with other companies and organizations (including governmental authorities) for fraud protection and credit risk reduction.
+**•** Demographics and Interests Reporting
 
+**•** DoubleClick Platform Integration
 
+We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
 
-### f) With Your Consent:
+Opting out:  
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
 
-  * Except as set forth in this Privacy Policy, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.
+**California Online Privacy Protection Act**
 
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
 
+**According to CalOPPA we agree to the following:**
 
-### IV. IS PERSONAL INFORMATION ABOUT ME SECURE?
+Users can visit our site anonymously
 
-Your account is protected by a password for your privacy and security. You need to prevent unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer or device by signing off after you have finished accessing your account.
+Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
 
-We endeavor to protect the privacy of your account and other Personal Information we hold in our records, but we cannot guarantee complete security. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information at any time.
+Our Privacy Policy link includes the word ‘Privacy’, and can be easily be found on the page specified above.
 
-The mobile phone application and/or Website may contain links to other sites. We are not responsible for the privacy policies and/or practices on other sites. When following a link to another site you should read that site’s privacy policy.
+Users will be notified of any privacy policy changes:
 
-### V. WHAT PERSONAL INFORMATION CAN I ACCESS?
+**•** On our Privacy Policy Page
 
-Through your account settings on our mobile phone application and/or website, you may access, and, in some cases, edit or delete the following information you’ve provided to us:
+Users are able to change their personal information:
 
-  * Name, desired username, and password
-  * Email address
-  * Shipping and billing information
-  * User profile information and User Content, including images you have uploaded to the site
+**•** By logging in to their account
 
+**How does our site handle do not track signals?**
 
+We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
 
-The information you can view and update may change as the Website changes. If you have any questions about viewing or updating information we have on file about you, please contact us at [info@DoYouRemember.com](mailto:support@DoYouRemember.com) .
+**Does our site allow third party behavioral tracking?**
 
-### VI. WHAT CHOICES DO I HAVE?
+It’s also important to note that we do not allow third party behavioral tracking
 
-You can always elect not to disclose information to us. However, please keep in mind that we may need some information to allow you register with us or to take advantage of some or all of our features, and if you choose not to provide that information, your ability to use our mobile phone application and/or website and services may be limited.
+**COPPA (Children Online Privacy Protection Act)**
 
-You may be able to add, update, or delete information as explained in Section V above. When you update information, however, we may maintain a copy of the unrevised information in our records. You may request deletion of your account by visiting your account settings on our mobile phone application and/or website. Please note that some information may remain in our private records after your deletion of such information from your account. We may use any aggregated data derived from or incorporating your Personal Information even if you update or delete it, but we will not use that information in a manner that would identify you personally.
+When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
 
-If you do not wish to receive email or other mail from us, please change your account settings accordingly. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Website, and you are responsible for reviewing such legal notices for changes.
+We do not specifically market to children under 13.
 
-### VII. CHANGES TO THIS PRIVACY POLICY
+**Fair Information Practices**
 
-We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Website or contacting you directly via email or other means. You are bound by any changes to the Privacy Policy when you use the Website after such changes have been first posted.
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
 
-### VIII. QUESTIONS OR CONCERNS
+**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
 
-If you have any questions or concerns regarding our privacy policies, please send us a detailed message to [info@DoYouRemember.com](mailto:support@DoYouRemember.com) . We will make every effort to resolve your concerns
+We will notify the users via email
+
+**•** Within 7 business days
+
+We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
+
+**CAN SPAM Act**
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+**We collect your email address in order to:**
+
+**To be in accordance with CANSPAM we agree to the following:**
+
+**  
+If at any time you would like to unsubscribe from receiving future emails, you can email us at**
+
+and we will promptly remove you from **ALL** correspondence.
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
