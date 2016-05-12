@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the solocheck.ie privacy policy that was archived on 2015-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151119074408id_/http%3A//www.solocheck.ie/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the solocheck.ie privacy policy that was archived on 2016-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160512195015id_/http%3A//www.solocheck.ie/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox flexboxlegacy canvas canvastext postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache" lang="en" style=""><!--<![endif]--><head>
 <title>Data Protection and Privacy - Irish Company Info - SoloCheck</title>
@@ -10,23 +10,54 @@
 
 <script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//use.typekit.net/veo6ajz.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-
+<script type="text/javascript">
+	function goToElement(elem, elemIdx, elemText){
+		//try {
+			var marginTop = 110;
+			if ('h4'==elem){
+				marginTop = 130;
+			}
+			if ($('#report-toolbar').css('margin-top') == '0px'){
+				marginTop += 40;
+			}
+			var elemOffset = $(elem+":contains('" + elemText + "'):eq("+elemIdx+")").offset().top;
+			window.scrollTo(0,elemOffset - marginTop);
+	//	}catch (ignore){}
+	}
+</script>
 <!-- Only includes required modernizer elements -->
 <script src="/js/modernizr.custom.48543.js"></script>
-<script src="/js/jquery-1.8.3.min.js"></script>
-<!--<script>window.jQuery || document.write('<script src="/js/jquery-1.8.3.min.js">\x3C/script>')</script>-->
+<script src="/js/jquery.min.js"></script>
 
 <script src="/js/scripts.min.js?v=6"></script>
 
-<link rel="apple-touch-icon" href="/imgs/solocheck_57.png">
-<link rel="apple-touch-icon" sizes="57x57" href="/imgs/solocheck_57.png">
-<link rel="apple-touch-icon" sizes="64x64" href="/imgs/solocheck_64.png">
-<link rel="apple-touch-icon" sizes="72x72" href="/imgs/solocheck_72.png">
-<link rel="apple-touch-icon" sizes="114x114" href="/imgs/solocheck_114.png">
-<link rel="apple-touch-icon" sizes="144x144" href="/imgs/solocheck_144.png">
+
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-<link rel="stylesheet" href="/css/style.min.css?v=9" media="screen">
+
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/favicon-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+
+<link rel="apple-touch-icon-precomposed" href="/apple-icon-precomposed.png" sizes="180x180">
+<link rel="apple-touch-icon" href="/apple-touch-icon-57x57.png" sizes="57x57">
+<link rel="apple-touch-icon" href="/apple-touch-icon-60x60.png" sizes="60x60">
+<link rel="apple-touch-icon" href="/apple-touch-icon-72x72.png" sizes="72x72">
+<link rel="apple-touch-icon" href="/apple-touch-icon-76x76.png" sizes="76x76">
+<link rel="apple-touch-icon" href="/apple-touch-icon-114x114.png" sizes="114x114">
+<link rel="apple-touch-icon" href="/apple-touch-icon-120x120.png" sizes="120x120">
+<link rel="apple-touch-icon" href="/apple-touch-icon-144x144.png" sizes="144x144">
+<link rel="apple-touch-icon" href="/apple-touch-icon-152x152.png" sizes="152x152">
+<link rel="apple-touch-icon" href="/apple-touch-icon-180x180.png" sizes="180x180">
+<link rel="apple-touch-icon" href="/apple-touch-icon-192x192.png" sizes="192x192">
+<!-- Win8 tile -->
+<meta name="msapplication-TileImage" content="/favicons/ms-icon-144x144.png">
+<meta name="application-name" content="SoloCheck.ie">
+<!-- IE11 tiles -->
+<meta name="msapplication-config" content="/browserconfig.xml">
+
+<link rel="stylesheet" href="/css/style.min.css?v=11" media="screen">
 <style type="text/css" media="print">
 p {color:#000}
 #header, #footer, .rhs, #gns, #banner, .search, .loggedIn, img, .statusBar, .details, .ratings, .largeTabs, .buyNow, #cookie-policy {display:none;}
@@ -54,10 +85,10 @@ function hideCookieDiv() {
 	try {
 		var toggleStyle = document.getElementById('cookie-policy').style;
 		toggleStyle.display = 'none';
-                if(document.getElementById('jobDiv')){
-                   document.getElementById('jobDiv').style.display = 'block'; 
-                }
-            } catch (ignore) { }
+				if(document.getElementById('jobDiv')){
+					document.getElementById('jobDiv').style.display = 'block'; 
+				}
+			} catch (ignore) { }
 }
 
 function setCookieCookie() {
@@ -71,8 +102,9 @@ function setCookieCookie() {
 </script>
 </head>
 <body>
+<!--Start of if to check noBanner parameter option. false if they wish to not see banner-->
 <div class="bodyDiv">
-    <div id="wrapper" class="container_12 clearfix">
+<div id="wrapper" class="container_12 clearfix">
 <div id="header">
 <div class="grid_12">
 <header><h1><a href="/"><img src="/imgs/logo.png" alt="SoloCheck.ie"></a></h1></header>
@@ -221,7 +253,7 @@ function setCookieCookie() {
 		</footer>
 	</div>
 	<div class="container_12">
-		<div class="grid_6"><p id="copy" style="clear:both;">©SoloCheck.ie 2015 <br>Data Updated: 19 Nov 2015
+		<div class="grid_6"><p id="copy" style="clear:both;">©SoloCheck.ie 2016 <br>Data Updated: 12 May 2016
 </p></div>
 		<script>
 				ga('create', 'UA-904374-1', 'auto');
