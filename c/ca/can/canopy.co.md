@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canopy.co privacy policy that was archived on 2015-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151014012601id_/https%3A//canopy.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canopy.co privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512141340id_/https%3A//canopy.co/privacy) for the most accurate reproduction.*
 
 # Privacy - Canopy
 
@@ -58,8 +58,9 @@ Non members (the “Public”) and members of Canopy will be able to view your
 If you have any questions about this Policy or any of the context described, please contact us at: 
 
 Canopy Team  
-c/o Michael Feldstein  
-1715 McAllister St. Suite 202  
-San Francisco CA 94115 
+c/o Shannon Fox  
+119 Spadina Ave. Suite 1203  
+Toronto, ON M5V 2L1  
+CANADA 
 
 or send us an email at [privacy@canopy.co](mailto:privacy@canopy.co). 
