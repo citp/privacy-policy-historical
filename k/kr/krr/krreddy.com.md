@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the krreddy.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009030514id_/http%3A//www.krreddy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krreddy.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512171651id_/http%3A//www.classifiedsbazaar.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Post Free Classified Ads
 
 Our Privacy Policy explains how the information we collect about you (users) while you are browsing/using our website is being used, processed and stored by our systems. Your use of this Site(s) constitutes acknowledgment and agreement with our privacy policy. You further acknowledge and agree that The Site may use your personal information in the manner described below which we have termed Our Privacy Policy for this Site
 
