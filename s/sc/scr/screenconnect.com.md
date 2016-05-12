@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the screenconnect.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919133120id_/https%3A//www.screenconnect.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenconnect.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512213222id_/https%3A//www.screenconnect.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy for ScreenConnect Website
 
-Thank you for your interest in ScreenConnect Software, LLC ("ScreenConnect", "we", or "us"). This Privacy Policy describes ScreenConnect’s privacy policy with regard to our Internet website located at http://www.screenconnect.com or any successor Internet website thereto (the "Site"). By visiting the Site, you are accepting the practices described in this Privacy Policy. THIS PRIVACY POLICY MAY CHANGE FROM TIME TO TIME, SO PLEASE CHECK BACK PERIODICALLY.
+Thank you for your interest in ScreenConnect Software, LLC ("ScreenConnect", "we", or "us"). This Privacy Policy describes ScreenConnectâ€™s privacy policy with regard to our Internet website located at http://www.screenconnect.com or any successor Internet website thereto (the "Site"). By visiting the Site, you are accepting the practices described in this Privacy Policy. THIS PRIVACY POLICY MAY CHANGE FROM TIME TO TIME, SO PLEASE CHECK BACK PERIODICALLY.
 
 ScreenConnect is committed to respecting and protecting your privacy and wants you to feel secure when visiting our site and providing information to us. We want you to know up front how we deal with any personally identifiable information you see fit to provide to us during our interactions with you. Therefore, this Privacy Policy will answer the following questions.
 
@@ -42,6 +42,6 @@ This website contains links to other websites. ScreenConnect is not responsible 
 
 Every month, we e-mail a newsletter to those of you who have requested this service, who have visited our Site and with whom we have done business in the past. If you do not wish to receive this newsletter or any other communications from us, simply click the "unsubscribe" link on the newsletter, or e-mail: sales@screenconnect.com and ask that we remove you from our mailing list.
 
-The Site uses information in aggregate form to track the total number of visitors to our Site, the number of visitors to each page of our Site, and the domain names of our visitors’ Internet service providers. No personally identifiable information is revealed to us in this process.
+The Site uses information in aggregate form to track the total number of visitors to our Site, the number of visitors to each page of our Site, and the domain names of our visitors and Internet service providers. No personally identifiable information is revealed to us in this process.
 
 Some pages within the Site may use a technology called "cookies". A cookie is a token that a server gives to your browser when you access an Internet website. Cookies are capable of storing many types of data. Cookies help provide additional functionality to the site or to help us analyze site usage more accurately. In all cases in which cookies are used, the cookie will not collect personally identifiable information except with your explicit permission.
