@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ensighten.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207130957id_/http%3A//www.ensighten.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ensighten.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512202532id_/http%3A//www.ensighten.com/privacy-policy) for the most accurate reproduction.*
 
 # Ensighten Privacy Policy - Ensighten
 
@@ -146,7 +146,7 @@ You can block or delete them by changing your browser settings however, as descr
 
 | 
 
-Google Analytics ([analytics.google.com](http://analytics.google.com/)), Crazy Egg ([www.crazyegg.com](http://www.crazyegg.com/)), Hubspot ([www.hubspot.com](http://www.hubspot.com/))
+Google Analytics ([analytics.google.com](http://analytics.google.com/)), Crazy Egg ([www.crazyegg.com](http://www.crazyegg.com/))
 
 | 
 
@@ -161,8 +161,8 @@ Alternatively, please click on the relevant opt-out link below:
 
 | 
 
-Adroll ([www.adroll.com](http://www.adroll.com/)),  
-Google Ads ([www.google.com](http://www.google.com/)), Bing ([www.microsoft.com](http://www.microsoft.com/)),
+Adroll ([www.adroll.com](http://www.adroll.com/)), Bing ([www.microsoft.com](http://www.microsoft.com/)), DEMANDBASE ([www.demandbase.com](http://www.demanbase.com/))  
+Google Ads ([www.google.com](http://www.google.com/))
 
 | 
 
@@ -171,8 +171,9 @@ To refuse these cookies, please follow the instructions below under the heading 
 Alternatively, please click on the relevant opt-out link below:
 
 <https://help.adroll.com/hc/en-us/articles/203845070-How-do-I-opt-out->  
-<https://www.google.com/settings/u/0/ads/authenticated>  
 <https://choice.microsoft.com/en-us/opt-out>  
+<https://www.demandbase.com/privacy-policy/>  
+<https://www.google.com/settings/u/0/ads/authenticated>  
   
 **Social networking cookies:** These cookies are used to enable you to share pages and content that you find interesting on our Websites through third party social networking and other websites. These cookies may also be used for advertising purposes too.
 
