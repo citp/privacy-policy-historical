@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securityhologram.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119064103id_/http%3A//www.securityhologram.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securityhologram.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512202155id_/http%3A//www.securityhologram.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Security Holograms Store. Stock Security Holograms, buy hologram stickers Security stickers Security stickers
 
