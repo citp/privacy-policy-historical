@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the likesbay.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211095051id_/http%3A//www.likesbay.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the likesbay.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512224339id_/http%3A//www.likesbay.com/privacy.php) for the most accurate reproduction.*
 
 # LikesBay
 
