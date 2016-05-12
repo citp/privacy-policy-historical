@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the klixion.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219192612id_/http%3A//klixion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klixion.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512125252id_/http%3A//klixion.com/privacy) for the most accurate reproduction.*
 
 # Klixion · Innovative Autosurf Traffic Exchange
 
