@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the achanime.net privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210072357id_/http%3A//www.achanime.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the achanime.net privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512143537id_/http%3A//www.achanime.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ACHanime
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [http://www.achanime.net/contact-us/](https://link.safelinkconverter.com/review.php?id=bSFfbHQoOiFjaCFuX20pQGgodG0hX2wuYyht&c=1&user=47385).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [http://www.achanime.net/contact-us/](mailto:achanime@hotmail.com).
 
 At www.achanime.net we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.achanime.net and how we use it.
 
@@ -18,13 +18,13 @@ www.achanime.net uses cookies to store information about visitors’ preferences
 
 → Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to www.achanime.net and other sites on the Internet.
 
-→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](https://link.safelinkconverter.com/review.php?id=aHR0cDovL3d3dy5nb29nbGUuY29tL3ByaXZhY3lfYWRzLmh0bWw=&c=0&user=47385 "Opt out of the Dart Cookie")
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
 **Our Advertising Partners**
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
 
-_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](https://link.safelinkconverter.com/review.php?id=aHR0cDovL3d3dy5wcl92IWN5cChsX2N5KG5sX24pLmMobS9wcl92IWN5LXAobF9jXylz&c=1&user=47385)._
+_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies)._
 
  _You may consult this listing to find the privacy policy for each of the advertising partners of www.achanime.net._
 
@@ -34,9 +34,9 @@ www.achanime.net has no access to or control over these cookies that are used by
 
 **Third Party Privacy Policies**
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.achanime.net’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](https://link.safelinkconverter.com/review.php?id=aHR0cDovL3d3dy5wcl92IWN5cChsX2N5KG5sX24pLmMobS9wcl92IWN5LXAobF9jeS1sX25rcw==&c=1&user=47385 "Privacy Policy Links").
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.achanime.net’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. [What Are Cookies?](https://link.safelinkconverter.com/review.php?id=aHR0cDovL3d3dy5wcl92IWN5cChsX2N5KG5sX24pLmMobS93aCF0LSFyKS1jKChrXylz&c=1&user=47385)
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
 
 **Children’s Information**  
 We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity.  
@@ -53,5 +53,5 @@ By using our website, you hereby consent to our privacy policy and agree to its 
 
 **Update**  
 This Privacy Policy was last updated on: Saturday, March 28th, 2015.  
-[](https://link.safelinkconverter.com/review.php?id=aHR0cDovL3d3dy5Qcl92IWN5UChsX2N5T25sX24pLmMobQ==&c=1&user=47385 "PrivacyPolicyOnline.com Approved Site")  
+[](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")  
 _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
