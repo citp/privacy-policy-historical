@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expertmarket.com privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030072253id_/http%3A//www2.expertmarket.com/privacy-policy/82601/3ecbb) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertmarket.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512161141id_/http%3A//www2.expertmarket.com/privacy__cookies_policy_b2b_us__0316/eae1b/3ecbb) for the most accurate reproduction.*
 
 # MVF Global Ltd
 
@@ -54,17 +54,17 @@ Our site uses cookies to distinguish you from other users of our site. This help
 
 When you request price comparisons, quotes or further information for products or services that are shown on our site (" **Information** "), through our online forms or otherwise, we may: 
 
-  * contact you by telephone, SMS, email or post with the Information; 
-  * contact you by telephone, SMS, email or post to confirm or verify your contact details or the details of your request; and/or
-  * pass on your personal information and the details of your request to selected suppliers of the products or services for which you have requested Information, who may contact you directly by telephone, SMS, email or post. 
+  * contact you by telephone, email or post with the Information; 
+  * contact you by telephone, email or post to confirm or verify your contact details or the details of your request; and/or
+  * pass on your personal information and the details of your request to selected suppliers of the products or services for which you have requested Information, who may contact you directly by telephone, email or post. 
 
 
 
 We may also use your personal and other information in the following ways: 
 
-  * To contact you by telephone, SMS, email or post to ask about your experiences with the selected suppliers and request feedback. This might be in the form of survey questions, for example.
-  * To contact you by telephone, SMS, email or post with information about other products and services (ours and third parties') in which we think you may be interested.
-  * To pass on your personal information to selected suppliers of other products or services in which we think you may be interested, who may contact you directly by telephone, SMS, email or post.
+  * To contact you by telephone, email or post to ask about your experiences with the selected suppliers and request feedback. This might be in the form of survey questions, for example.
+  * To contact you by telephone, email or post with information about other products and services (ours and third parties') in which we think you may be interested.
+  * To pass on your personal information to selected suppliers of other products or services in which we think you may be interested, who may contact you directly by telephone, email or post.
   * If you consent, to pass your contact details, including your email address, to organisations that have a relationship with you to enable such organisations to update their records. 
   * To facilitate communication between you and our customers (i.e. suppliers of products and services that are shown on our site).
   * To carry out our obligations arising from any contracts entered into between you and us. 
@@ -162,4 +162,4 @@ Type of Cookies | Name | Purpose | What info does it hold?
 
 Third parties (including, for example, advertising networks and providers of external services such as web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or advertising/targeting cookies. 
 
-**_Last updated_** : 08/2014 
+**_Last updated_** : 03/2016 
