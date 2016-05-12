@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mightydeals.co.uk privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209131831id_/http%3A//www.mightydeals.co.uk/information/privacyPolicy.aspx%3Fft%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mightydeals.co.uk privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512080524id_/https%3A//www.mightydeals.co.uk/information/privacyPolicy.aspx%3Fft%3D1) for the most accurate reproduction.*
 
-# Privacy Policy - Mighty Deals
+# Privacy Policy - Mighty Deals Limited
 
 Student Beans daily deals is run by a third party, Mighty Deals and by using this site, you agree to the terms of the Mighty Deals privacy policy, as found below.
 
