@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dodlive.mil privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023034403id_/http%3A//www.dodlive.mil/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dodlive.mil privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512230801id_/http%3A//www.dodlive.mil/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DoDLive
 
