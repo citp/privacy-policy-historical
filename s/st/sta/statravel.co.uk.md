@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statravel.co.uk privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907185047id_/http%3A//www.statravel.co.uk/general-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statravel.co.uk privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512090613id_/http%3A//www.statravel.co.uk/general-policy.htm) for the most accurate reproduction.*
 
 # Legalities | STA Travel | General policy & Privacy policy
 
