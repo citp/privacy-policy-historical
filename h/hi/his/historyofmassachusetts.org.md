@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the historyofmassachusetts.org privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110050227id_/http%3A//historyofmassachusetts.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historyofmassachusetts.org privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512071057id_/http%3A//historyofmassachusetts.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | History of Massachusetts
+# Privacy Policy – History of Massachusetts
 
   
 Privacy Policy
 
-We take your privacy seriously. This policy describes what personal information we collect and how we use it. (This privacy policy is applicable to websites falling under the primary holder www.historyofmassachusetts.org)
+We take your privacy seriously. This policy describes what personal information we collect and how we use it. (This privacy policy is applicable to websites falling under the primary holder HistoryofMassachusetts.org)
 
 Routine Information Collection
 
-All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes, and lets me know what pages and information are useful and helpful to visitors.
+All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, time stamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes, and lets me know what pages and information are useful and helpful to visitors.
 
 Cookies and Web Beacons
 
@@ -32,6 +32,12 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 About Google advertising: What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
 
 About Google Analytics: Google Analytics is a web analysis service provided by Google. Google utilizes the data collected to track and examine the use of www.historyofmassachusetts.org, to prepare reports on its activities and share them with other Google services. Google also uses advertising cookies to identify the age, gender and interests of visitors to www.historyofmassachusetts.org. Google may use the data collected to build reports and remarketing lists which will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Google and third-party vendors also use cookies to serve ads based on visitor’s past visits to www.historyofmassachusetts.org. To opt-out of the use of Google analytics cookies, you may install Google Analytics Opt-out Browser Add-on: <https://tools.google.com/dlpage/gaoptout/>.
+
+A Special Note About Affiliate Marketing
+
+HistoryofMassachusetts.org is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
+
+HistoryofMassachusetts.org is also a participant in various other affiliate programs designed to provide a means for sites to earn advertising fees and commissions by linking to them.
 
 Contact Information
 
