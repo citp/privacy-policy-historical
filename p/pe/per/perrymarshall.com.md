@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perrymarshall.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906123945id_/https%3A//www.perrymarshall.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perrymarshall.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512231358id_/https%3A//www.perrymarshall.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Perry Marshall
 
