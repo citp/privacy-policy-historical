@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jmpeltier.com privacy policy that was archived on 2015-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151019040929id_/http%3A//www.jmpeltier.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jmpeltier.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512155711id_/http%3A//www.jmpeltier.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
