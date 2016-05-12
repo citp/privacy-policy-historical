@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the photoshoptrainingchannel.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126134745id_/http%3A//photoshoptrainingchannel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoshoptrainingchannel.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512174801id_/http%3A//photoshoptrainingchannel.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Photoshop Training Channel
+# Privacy Policy
 
 **We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. The Photoshop Training Channel hold’s the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.**
 
