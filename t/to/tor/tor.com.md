@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tor.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116163224id_/http%3A//www.tor.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tor.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512181037id_/http%3A//www.tor.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Tor.com
 
