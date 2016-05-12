@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the placebuzz.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319233818id_/http%3A//www.placebuzz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the placebuzz.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512174820id_/http%3A//www.placebuzz.com/privacy) for the most accurate reproduction.*
 
 # Placebuzz - Privacy Policy
 
-This privacy policy applies only to this website (the “Site”). If you do not accept this privacy policy, you must not use this Site.
+This privacy policy applies only to this website (the "Site"). If you do not accept this privacy policy, you must not use this Site.
 
 ### Collection of Personal Information
 
@@ -27,7 +27,7 @@ By using this Site, you agree that we may collect, hold, process and use your in
 
 ### Sharing Your Personal Information
 
-We may share information about you with suppliers that we engage to help us provide certain services and/or functionality e.g. online payment processing. We will use reasonable endeavours to control and be responsible for the use of your information by such suppliers. Furthermore, by using the Site, you consent to the transfer of your personal information outside of the European Economic Area (which may not provide the same protection for such information as the European Economic Area provides) in the event that the processing of your information involves such a transfer.). Subject to obtaining your written consent, we may also supply personal information about you to third parties so that they may contact you. We reserve the right to disclose your personal information to comply with applicable laws and government or regulatory bodies’ lawful requests for information. We may transfer, sell or assign any of the information described in this policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of our business. 
+We may share information about you with suppliers that we engage to help us provide certain services and/or functionality e.g. online payment processing. We will use reasonable endeavours to control and be responsible for the use of your information by such suppliers. Furthermore, by using the Site, you consent to the transfer of your personal information outside of the European Economic Area (which may not provide the same protection for such information as the European Economic Area provides) in the event that the processing of your information involves such a transfer.). Subject to obtaining your written consent, we may also supply personal information about you to third parties so that they may contact you. We reserve the right to disclose your personal information to comply with applicable laws and government or regulatory bodies lawful requests for information. We may transfer, sell or assign any of the information described in this policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of our business. 
 
 ### Safeguards And Security
 
@@ -37,7 +37,15 @@ No data transmission over the internet can be entirely secure, so we do not guar
 
 If you wish to review or receive copies of the personal information we hold about you, change your marketing preferences, or have any other privacy queries please write to us (including full details of your request) at.
 
-Data Protection Team Penryhn Business centre 73 Penryhn Road Kingston Upon Thames KT1 2EQ 
+  
+
+
+Placebuzz  
+Data Protection Team  
+Building 3 Chiswick Park   
+566 Chiswick High Road  
+London   
+W4 5YA
 
 We may charge a small administration fee in relation to fulfilling a request for access to personal information.
 
