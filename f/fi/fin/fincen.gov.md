@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fincen.gov privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928115343id_/http%3A//www.fincen.gov/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fincen.gov privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512203129id_/https%3A//www.fincen.gov/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -14,7 +14,7 @@ When you visit our site, for site management purposes, we collect information ab
 
 We will not collect information which identifies you (name, email address, Social Security number, or other unique identifiers) when you visit our site, unless you voluntarily choose to provide such information to us in your e-mail or through other means such as an on-line form. In addition, if you are commenting on proposed rulemakings or other regulatory actions, your comment will be available to the general public. Also, if you send us information which identifies you in an electronic message, that information may be forwarded to other Government employees and agencies to more fully respond to your correspondence.            
 
-Privacy Impact Assessments (PIAs) are performed on computer systems and applications in order to evaluate any risks these systems may pose to personally identifiable information. FinCEN’s PIAs can be accessed via the PIA site: [http://www.fincen.gov/foia/pia.html](https://web.archive.org/foia/pia.html)
+Privacy Impact Assessments (PIAs) are performed on computer systems and applications in order to evaluate any risks these systems may pose to personally identifiable information. FinCEN’s PIAs can be accessed via the PIA site: [https://www.fincen.gov/foia/pia.html](https://web.archive.org/foia/pia.html)
 
 ## Security Notice
 
