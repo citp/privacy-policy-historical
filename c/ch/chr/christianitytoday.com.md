@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianitytoday.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702202211id_/http%3A//www.christianitytoday.org/help/permissionsandprivacy/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianitytoday.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512171600id_/http%3A//www.christianitytoday.org/help/permissionsandprivacy/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Help | Christianity Today
 
@@ -40,11 +40,13 @@ If you wish to opt out of the use of your PII for marketing purposes, please let
 
 Cookies are a technology that helps us serve you better. Our cookies collect no personally identifiable information. We use cookies to help us know when and how many people visit our websites; to store your personal preferences for paid online subscription services you may subscribe to, in order to provide you with the best experience possible; and to record session information, such as items that you add to your shopping cart.
 
+For example, we may use Google Analytics and Advertising cookies to perform statistical, demographic, interest and marketing analyses for product development, to generally inform advertisers about the nature of our customers and to improve customer relationships. This information is not personally identifiable and is only used in aggregate.
+
 Our third party service providers and advertisers may also use cookies to manage and measure the performance of advertisements displayed on or delivered by or through our websites and to provide more relevant advertising. See "Collection of Information by Third-Parties, Ad Servers, and Sponsors" below for more information.
 
 CT, our third party service providers or advertisers may use web beacons (clear .gifs) or similar technologies, which are small pieces of code placed on a web page or in an email newsletter, to monitor the behavior and collect data about the visitors viewing the web page or email newsletter. For example, web beacons may be used to count the users who visit a web page, open an email newsletter or deliver a cookie to the browser of a visitor viewing a web page.
 
-You have the choice to set your browser to accept all cookies, notify you when a cookie is set, delete cookies periodically, or reject all cookies. Generally, deleting or rejecting cookies also disables web beacons. Please be aware that rejecting all cookies may prevent you from enjoying the full features offered through CT's and other websites. Check the "Help" section of your browser for more information.
+You have the choice to set your browser to accept all cookies, notify you when a cookie is set, delete cookies periodically, or reject all cookies. You may also [opt-out of Google Analytics’ cookies here](https://tools.google.com/dlpage/gaoptout/). Generally, deleting or rejecting cookies also disables web beacons. Please be aware that rejecting all cookies may prevent you from enjoying the full features offered through CT's and other websites. Check the "Help" section of your browser for more information.
 
 ####  Collection of Information by Third Parties, Sponsors and Ad Servers
 
@@ -54,7 +56,7 @@ CT sometimes partners with third parties that operate websites and services you 
 
 > A website may be cobranded. When you provide personal information via a cobranded website, you may have the option of providing it to either or both parties.
 
-> An online store may be hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate, according to the Privacy Policy posted on Yahoo! Stores. You may [read an example here](http://biblestudies.stores.yahoo.net/privacypolicy.html).
+> An online store may be hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate, according to the Privacy Policy posted on Yahoo! Stores. You may [read an example here](http://store.churchlawtodaystore.com/privacypolicy.html).
 
 > A contest or sweepstakes may be sponsored by or co-sponsored with third parties as identified in the contest or sweepstakes' Official Rules. By virtue of these relationships, the third parties may obtain PII that visitors voluntarily submit to participate in the website activity. We have no control over these third parties' use of this information. Consult the Official Rules to determine whether these third parties will obtain such information.
 
