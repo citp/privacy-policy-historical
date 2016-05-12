@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigoven.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921085025id_/http%3A//www.bigoven.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigoven.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512023727id_/http%3A//www.bigoven.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy
 
