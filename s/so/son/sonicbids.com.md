@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonicbids.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929105719id_/https%3A//www.sonicbids.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonicbids.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512222448id_/https%3A//www.sonicbids.com/privacy) for the most accurate reproduction.*
 
 # Sonicbids
 
