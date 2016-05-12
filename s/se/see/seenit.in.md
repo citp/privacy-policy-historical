@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seenit.in privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112190016id_/http%3A//www.seenit.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seenit.in privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512074556id_/http%3A//www.seenit.in/privacy) for the most accurate reproduction.*
 
 # Seen It | Privacy
 
