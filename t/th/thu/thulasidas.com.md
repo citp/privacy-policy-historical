@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thulasidas.com privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930163013id_/http%3A//www.thulasidas.com/others/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thulasidas.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512101409id_/http%3A//www.thulasidas.com/others/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Unreal Blog
 
