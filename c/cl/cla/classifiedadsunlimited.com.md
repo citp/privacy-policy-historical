@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classifiedadsunlimited.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104034300id_/http%3A//classifiedadsunlimited.com/index.cgi%3Fsession_key%3D%26print_privacy_page%3Don) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifiedadsunlimited.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512021833id_/http%3A//classifiedadsunlimited.com/index.cgi%3Fsession_key%3D%26print_privacy_page%3Don) for the most accurate reproduction.*
 
 # Free Classified Ads Privacy Statement
 
