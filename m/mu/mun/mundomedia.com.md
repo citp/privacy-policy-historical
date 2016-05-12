@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mundomedia.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104151922id_/http%3A//www.mundomedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mundomedia.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512024110id_/http%3A//www.mundomedia.com/privacy) for the most accurate reproduction.*
 
-# MUNDOmedia
+# Privacy Policy with MUNDOmedia
 
 May 30, 2013.
 
