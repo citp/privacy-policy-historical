@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avantlink.ca privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017225851id_/http%3A//avantlink.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avantlink.ca privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512160649id_/http%3A//www.avantlink.ca/privacy) for the most accurate reproduction.*
 
 # AvantLink - Privacy Policy
 
