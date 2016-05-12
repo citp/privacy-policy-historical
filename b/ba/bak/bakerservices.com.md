@@ -1,32 +1,65 @@
-> *The following text is extracted and transformed from the bakerservices.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819071838id_/http%3A//www.bakerservices.com/policies.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakerservices.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512213612id_/http%3A//www.bakerservices.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement for Accommodations in Western Canada
+# Privacy Policy
 
-## Privacy Statement for Accommodations in Western Canada
+This Privacy Policy is in application to BakerServices. This would impart how BakerServices collects uses and shares the information from or regarding you as you visit a site, gives information on how advertisements are done, both on BakerServices and other websites, and how information is collected based on interactions with the online ads. In addition to the Notice, depending on the relationship with BakerServices, you may receive and be under the coverage of BakerServices, other privacy disclosures within account opening documents and other privacy and security rules as applicable to the relevant affiliate.
 
-Baker Services has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Accommodations in Western Canada.   
-Cookies for statistics gathering by 3rd party Internet services, cookie information is not used for any purpose by Baker Services.   
-This site contains links to other sites. **Accommodations in Western Canada** is not responsible for the privacy practices or the content of such Web sites.   
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address). Contact information from the order form is used to send orders to our customers. Users may opt-out of receiving future mailings; see the choice/opt-out section below.   
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
+**Information Gathering**
 
-## Security
+When you visit BakerServices, categories of information may be gathered, including personal information that are provided via forms, applications, surveys, or other online fields. We can also collect information about you from online browsing and transactions, including preferences pages visited and technical information regarding your settings. Personal information means identifiable information and does not include aggregated date that the site could create or compile from various sources, including transactions and accounts. This information which does not single out individual customers is used by our site business purposes, including offering services or products, research, marketing or analyzing market trends and other purposes in congruence to existing laws.
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Baker Services does not process credit cards. All credit information is given to the individual accommdations owner. After the reservation has been made, the guest may contact the individual owner with credit information (within a reasonable amount of time.) The contact information will be supplied by Baker Services at the time of reserving.
+**Cookies**
 
-## Choice/Opt-Out
+These are pieces of information stored on the computer upon use. BakerServices or the third party service providers, as well as advertising service providers, may place cookies or flash objects on the hard drive for security purposes for the facilitation of site navigation and personalization of the experience.
 
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor.   
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
+In visiting BakerServices, we use cookies to go over your experience of the site. In applying for a product on one of our sites, we would use cookies to remember you and to provide information on products and services best fitting your needs. If you have an account with us and you access your accounts online, we will maintain the information about your visits to personalize your browsing experience, and the services and products offered. If you do not have an account with us and wish not for us to maintain the information, delete the cookies. For this, you would need to follow the browsers instructions for deleting and disabling cookies.
 
-## Correct/Update
+**IP Addresses**
 
-This site gives users the following options for changing and modifying information previously provided.
+The IP address is a number assigned to the Internet accessing network or computer. Visitors IP addresses are stored in our log as they visit the site. These IP address are collected for administration of the system, reporting aggregate information, and auditing Site visits. In addition, some features of our site display IP address together with name and message, like on forums.
 
-## Contacting the Web Site
+**Advertising**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact
+The site advertises on pages within the site as well as other websites not affiliated with BakerServices. Information collected in our advertising service providers though cookies and other technologies would include the number of people who look at each page on the site, browsing patterns within the site, search engine referrals, browsing patterns in BakerServices and responses to promotions and advertisements on the sites where we advertise.
 
-Baker Services
+**Online Surveys**
 
-[Return to Main Page.](https://web.archive.org/web/20130819071838id_/http%3A//www.bakerservices.com/index.html)
+Time to time, you can be asked to do online surveys. You do not have the requirement to do such; but these are used to gather information to better address your needs. Based on this, we can keep you updated on account and service.
+
+**Planning Tools**
+
+BakerServices gives users visiting websites with many planning tools, including mortgage, savings and plans for retirement. The information placed into these tools could be used for future access and use. We will inform you when the information is to be planned to stored, and you can have the option for this information not to be saved.
+
+**Using and Sharing Information**
+
+There would be times that BakerServices could make information available to third parties that could be companies not related through common ownership or control, including service providers, insurance agencies, credit bureaus, retailers, membership organizations, government agencies, legal investigators, courts and other non-affiliated third parties as requested by you or your authorized representative, or otherwise when required or allowed by law. Unless differently describe in the Notice, for US account holders, we will use and share any information collected from or about you covered by the Notice in keeping with the Privacy Notice, providing consumers additional direct marketing choices.
+
+**Social Media Connection**
+
+BakerServices provides experiences on social media platforms, enabling online sharing and collaboration with users. Any content posted, including pictures, information, opinions and other personal information made available to these platforms is subject to the Terms of Use and Privacy Policies of the Platforms. Kindly refer to these to understand you rights in keeping with the content.
+
+**Accuracy of Information**
+
+Keeping account information accurate and updated is essential. If the account information is inaccurate or incomplete, kindly use the Contact Us link on our site, call to inform us at the correct address or telephone numbers for changes in the account statements, records, online or other account materials.
+
+**Linking to Other Sites**
+
+We could provide link to sites not related to our service, including merchants and credit bureaus. If you follow links to websites not controlled by BakerServices, you should go over the privacy policies and other terms, as they could diverge from other sites. BakerServices will not guarantee and will not be responsible for the security or privacy of the said websites, including the completeness or accuracy of said information.
+
+**Children’s Privacy**
+
+Most of our publications and web sites are intended for adults. Some web sites and publications, however, are intended for teens 13 and older but may include features or material that may be appealing to children under the age of 13. We are strongly committed to protecting the safety and privacy of children who visit our Web sites. We do not knowingly collect personal information online from children under 13. Many of our sites include bulletin boards and other features that we believe are unsuitable for children under 13 and which are not necessarily monitored. We encourage all parents to talk to their kids about online safety and to monitor their children’s use of the Internet.
+
+**Change in Company’s Ownership**
+
+If by chance another company obtains the assets in the business of BakerServices, we reserve inclusion of the stored personal identification information along with the assets transferred to the new corporate owners.
+
+**Service Customization**
+
+Target advertising to users is provided by the information collected about users. This is to allow all the pertinent advertising to be displayed. Customization of certain website features we provide is done with the information that is collected.
+
+**Third-Parties**
+
+Third-parties are contracted for specific services such as credit card processing and list generation. Any information that is required to perform these services is provided to the service provider.
+
+We use third-party advertising companies to serve ads and collect data when you visit our website. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site, other sites, and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/choices/)
