@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainorbeauty.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230220005id_/http%3A//brainorbeauty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainorbeauty.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512024633id_/http%3A//brainorbeauty.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Beauty, Skin, Hair, and Nails Care and Tips
 
