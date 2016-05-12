@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jamesonwhiskey.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905062548id_/https%3A//www.jamesonwhiskey.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesonwhiskey.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512053814id_/https%3A//www.jamesonwhiskey.com/us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Jameson Irish Whiskey Website Privacy Statement
 
-### Privacy Statement
+### PRIVACY STATEMENT
 
 * * *
 
