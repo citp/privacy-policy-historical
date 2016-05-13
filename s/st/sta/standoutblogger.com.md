@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the standoutblogger.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215023952id_/http%3A//www.standoutblogger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standoutblogger.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513035403id_/http%3A//www.standoutblogger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stand Out Blogger
 
