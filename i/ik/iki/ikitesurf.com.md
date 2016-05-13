@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the ikitesurf.com privacy policy that was archived on 2015-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150711134055id_/http%3A//help.weatherflow.com/entries/22801087-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ikitesurf.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513172055id_/http%3A//help.weatherflow.com/entries/22801087-Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy : WeatherFlow Support
-
-### Privacy Policy
-
-David St. John  
-posted this on December 20, 2012, 17:11 
+# Privacy Policy – WeatherFlow Support
 
 **All Information Confidential**
 
@@ -28,3 +23,5 @@ All personal data transmitted through the internet going to and from site regist
 
 **Email Policy  
 **Our email policy is very simple: We will NOT send email to anyone who has not opted to receive the email.
+
+Have more questions? [Submit a request](https://web.archive.org/hc/en-us/requests/new)
