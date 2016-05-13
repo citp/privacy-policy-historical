@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the godsnotdeadthemovie.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113033320id_/http%3A//godsnotdeadthemovie.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godsnotdeadthemovie.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513165529id_/http%3A//godsnotdeadthemovie.com/privacy) for the most accurate reproduction.*
 
 # God's Not Dead Privacy Policy
 
@@ -39,4 +39,4 @@ We take precautions to protect your information. When you submit sensitive infor
 Our Privacy Policy may change from time to time and all updates will be posted on this page.
 
 Thanks for visiting our website. If you feel that we are not abiding by this privacy policy, you should contact us immediately.   
-© 2014 [GodsNotDeadTheMovie.com](http://godsnotdeadthemovie.com/), All Rights Reserved.
+© 2016 [GodsNotDeadTheMovie.com](http://godsnotdeadthemovie.com/), All Rights Reserved.
