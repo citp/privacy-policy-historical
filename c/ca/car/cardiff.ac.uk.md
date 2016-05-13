@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardiff.ac.uk privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906003758id_/http%3A//www.cardiff.ac.uk/legals/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardiff.ac.uk privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513203020id_/http%3A//www.cardiff.ac.uk/help/privacy) for the most accurate reproduction.*
 
 # Privacy - Help - Cardiff University
 
@@ -20,7 +20,7 @@ The Cardiff University websites use hosted web analytics software. These are hos
 
 Google, Inc., Clicktale.com, and Crazy Egg may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google, Inc., Clicktale.com, or Crazy Egg's behalf. Google, Inc., Clicktale.com and Crazy Egg will not associate your IP address with any other data held by Google, Inc., Clicktale.com or Crazy Egg. You may decline the use of cookies by configuring your web browser to do so. By using this website, you consent to the processing of data about you by Google, Inc., Clicktale.com and Crazy Egg in the manner and for the purposes set out above.
 
-[Further information about our use of Cookies](http://www.cardiff.ac.uk/help/cookies)
+[Further information about our use of Cookies](https://web.archive.org/web/20160513203020id_/http%3A//www.cardiff.ac.uk/help/?a=17676)
 
 ## Disclaimer
 
