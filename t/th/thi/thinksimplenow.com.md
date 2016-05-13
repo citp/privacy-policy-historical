@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinksimplenow.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923065357id_/http%3A//thinksimplenow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinksimplenow.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514014401id_/http%3A//thinksimplenow.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Think Simple Now
 
