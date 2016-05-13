@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingdomsatwar.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222005009id_/http%3A//www.kingdomsatwar.com/faq/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingdomsatwar.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513022918id_/http%3A//www.kingdomsatwar.com/faq/privacy_policy.html) for the most accurate reproduction.*
 
 # Kingdoms at War
 
