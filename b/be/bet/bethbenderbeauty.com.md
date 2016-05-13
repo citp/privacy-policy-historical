@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bethbenderbeauty.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008154641id_/http%3A//bethbenderbeauty.com/legal%3F___store%3Ddefault) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bethbenderbeauty.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513210505id_/http%3A//bethbenderbeauty.com/legal) for the most accurate reproduction.*
 
 # Privacy Policy and Legal Disclaimer
 
@@ -58,10 +58,6 @@ As stated above, you must enable your Web browser to permit cookies to be accept
 
 Click-stream data is information that describes the page-by-page paths you take as you browse through our websites. Using cookies, we may track and store this information to help us positively customize your shopping experience. We may use click-stream data in the aggregate to provide improved services to groups of shoppers who behave similarly. We may also use it on an individual basis to improve your specific shopping experience.
 
-**RETURNS**  & **REFUNDS**
-
-We do not accept returns or refunds on any **beth bender beauty**  products once they have been shipped. This includes **PayPal** as well. Especially our custom blended products that are made to order. If your product should arrive damaged, we will replace them free of charge but a shipping fee equivalent to the original price of shipment from purchase and a $2.00 restocking fee per item will apply (we require photos from the customer of their items as well as the packaging). You will have 30 days from the date delivered to return any damaged shadows or product, and 14 days from the date of delivery to file a claim for missing items. Any sale items or promotional items purchased online are final sales. 
-
 **Communications From bethbenderbeauty.com and Other Companies:**
 
 Whenever you purchase products from bethbenderbeauty.com, we collect and store the information that you provide such as your name, e-mail address, postal address and phone number. The information you supply is added to our customer database. You may receive periodic printed or e-mail communications from us about new products and services, discounts, special promotions or upcoming events.
@@ -88,4 +84,4 @@ We have also obtained GeoTrust digital security certificates for all of our webs
 
 **What Happens To My Information After bethbenderbeauty.com Receives It?:**
 
-SSL protects information en route to us. Authorize.net"! certificate technology helps ensure that bethbenderbeauty.com is the actual recipient of this information. But we don't stop there - we also work very hard to make sure the information you send us is stored and managed securely once we receive it. All data collected is stored and protected by multiple levels of data and structural security. This information is only accessible bethbenderbeauty.com and trusted, contracted third-party service providers. 
+SSL protects information en route to us. Authorize.net"! certificate technology helps ensure that bethbenderbeauty.com is the actual recipient of this information. But we don't stop there - we also work very hard to make sure the information you send us is stored and managed securely once we receive it. All data collected is stored and protected by multiple levels of data and structural security. This information is only accessible bethbenderbeauty.com and trusted, contracted third-party service providers.
