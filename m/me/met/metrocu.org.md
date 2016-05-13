@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrocu.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905174428id_/https%3A//www.metrocu.org/getmedia/7808e0e0-029c-40ed-8273-a20179316077/Privacy-Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrocu.org privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513091049id_/https%3A//www.metrocu.org/getmedia/7808e0e0-029c-40ed-8273-a20179316077/Privacy-Policy.pdf) for the most accurate reproduction.*
 
 # PRIVACY NOTICE
 
@@ -40,14 +40,15 @@ Information about your creditworthiness.                                        
                                                                                         does not have affiliates.
 For our affiliates to market to you
 For non-affiliates to market to you                                                     No               Not Applicable
-                                                                                                                Rev. 04/2015
+                                                                                                                Rev. 01/16
 
 
                                                                      PRIVACY NOTICE
 Who we are …
-Who is providing this               Metro Credit Union, a cooperative financial institution founded in 1926,
-                                    headquartered in Chelsea, Massachusetts, servicing members in Essex,
-notice?                             Middlesex, Suffolk, Norfolk, Plymouth, Barnstable, or Worcester counties.
+                                    Metro Credit Union, a cooperative financial institution founded in 1926,
+Who is providing this               headquartered in Chelsea, Massachusetts, servicing members in Essex,
+notice?                             Middlesex, Suffolk, Norfolk, Plymouth, Barnstable, Bristol, or Worcester
+                                    counties.
 What we do …
 How does Metro Credit               To protect your personal information from unauthorized access and use, we use
 Union protect my personal           security measures that are designed to comply with federal law. These measures
@@ -89,7 +90,7 @@ Notes
          oversight from our management teams.
      (3) Please refer to the Massachusetts Office of Consumer Affairs & Business Regulation web site for more
          information: http://www.mass.gov/ocabr/consumer/privacy/ or http://www.mass.gov/ocabr/consumer/banks-banking/
-                                                                                                             Rev. 04/2015
+                                                                                                             Rev. 01/16
 
 
 ONLINE PRIVACY POLICY
@@ -132,7 +133,7 @@ by Metro for the purposes of evaluating the demand for, and offering, its own se
 and products.
 Google may also transfer this information to third parties where required to do so by
 law, or where such third parties process the information on Google’s behalf. By using
-                                                                                     Rev. 04/2015
+                                                                                     Rev. 01/16
 
 
 the Site, you consent to the processing of data about you by Google in the manner and
@@ -163,4 +164,4 @@ Credit Union does not guarantee or assume liability for any third party product 
 obtained through our website. Metro Credit Union does not represent either the third
 party or the member if the two enter into a transaction. Please also remember that
 social media and email are not secure methods of communicating with Metro.
-                                                                                       Rev. 04/2015
+                                                                                       Rev. 01/16
