@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classicshell.net privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218173528id_/http%3A//www.classicshell.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classicshell.net privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513225544id_/http%3A//www.classicshell.net/privacy) for the most accurate reproduction.*
 
 # Classic Shell: Privacy Policy
 
