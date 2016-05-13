@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the communityos.org privacy policy that was archived on 2015-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150711132843id_/http%3A//www.visionlink.org/visionlink-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the communityos.org privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513104834id_/http%3A//www.visionlink.org/visionlink-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | VisionLink.org
 
