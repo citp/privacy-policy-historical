@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iupui.edu privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106040752id_/http%3A//www.iupui.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iupui.edu privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513043956id_/https%3A//www.iupui.edu/privacy) for the most accurate reproduction.*
 
-# Privacy Notice: Indiana University-Purdue University Indianapolis
+# Privacy Notice: Indiana University–Purdue University Indianapolis
 
 Effective: 2014-11-18
 
