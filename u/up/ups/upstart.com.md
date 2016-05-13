@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upstart.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906111825id_/https%3A//www.upstart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upstart.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513215126id_/https%3A//www.upstart.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,7 +19,7 @@ The types of personal information we collect depends on the products and service
 
 
 
-In addition, when you visit the Site or use the products and services available on the Site we automatically collect certain information from your computer, mobile phone or other access device. Log file information is automatically reported by your browser or mobile device each time you access the Site. When you use the Site, our servers automatically record certain log file information. These server logs may include anonymous information such as your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Site, domain names, landing pages, pages viewed, and other such information. When you use the Site, we may also employ clear gifs (also known as web beacons) which are used to anonymously track the online usage patterns of our users. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened and which links are clicked by recipients. The information allows for more accurate reporting and improvement of the Site. 
+In addition, when you visit the Site or use the products and services available on the Site we automatically collect certain information from your computer, mobile phone or other access device. Log file information is automatically reported by your browser or mobile device each time you access the Site. When you use the Site, our servers automatically record certain log file information. These server logs may include anonymous information such as your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Site, domain names, landing pages, pages viewed, and other such information. When you use the Site, we may also employ clear gifs (also known as web beacons) which are used to anonymously track the online usage patterns of our users. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened and which links are clicked by recipients. The information allows for more accurate reporting and improvement of the Site.
 
 Third-party advertisers may use cookies on the Site for the purposes of targeted behavioral advertising. Although you may not opt out of receiving online advertisements generally, you may control the collection of data by third party advertisers on our Site used for targeted advertising during your visits to other websites. To opt-out of this data collection for targeted advertising on other sites, visit the [Network Advertising Initiative](http://www.networkadvertising.org/choices/).
 
@@ -45,7 +45,7 @@ We collect information about you:
 
 #### Why we collect information
 
-We collect this information from you in order to: 
+We collect this information from you in order to:
 
   * provide you and other customers with access to the products and services offered through the Site,
   * provide notices and other information to you about, or in connection with, these products and services,
@@ -134,6 +134,6 @@ We may amend this policy from time to time to reflect the changes in our busines
 
 #### How you can contact us
 
-If you have questions or concerns regarding this policy, you should contact us by emailing us at [support@upstart.com](mailto:support@upstart.com), by calling us at (650) 204-1000 during our operating hours 9:00 AM PST to 5:00 PM PST, Monday through Friday, or by writing to us via regular mail at Upstart Network, Inc., P.O. Box 61203, Palo Alto, CA 94306.
+If you have questions or concerns regarding this policy, you should contact us by emailing us at [support@upstart.com](mailto:support@upstart.com), by calling us at (650) 204-1000 during our operating hours 9:00 AM PST to 5:00 PM PST, Monday through Friday, or by writing to us via regular mail at Upstart Network, Inc., P.O. Box 1503, San Carlos, CA 94070.
 
 This privacy policy was last modified on August 26, 2015
