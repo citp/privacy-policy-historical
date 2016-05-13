@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the birdeye.com privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923034343id_/http%3A//birdeye.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birdeye.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513214202id_/http%3A//birdeye.com/privacy) for the most accurate reproduction.*
 
-# BirdEye Business Reputation Management | Privacy Statement
+# Privacy - BirdEye Business Reputation Management
 
 This page provides our policies and procedures for collecting, using and disclosing your information and outlines the security measures we’ve put in place to protect the information that you store using BirdEye’s services, including the services made available through this web site, and any other software or services offered by BirdEye in connection with such services (the “Services”). By using these Services, you consent to the collection, transfer, processing, storage, disclosure and other uses of your information described in this Privacy Policy.
 
