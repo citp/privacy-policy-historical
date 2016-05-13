@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teacherease.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206031432id_/http%3A//www.teacherease.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teacherease.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513215209id_/http%3A//www.teacherease.com/privacy.aspx) for the most accurate reproduction.*
 
 # TeacherEase: Standards-Based Grading and Learning Management System
 
