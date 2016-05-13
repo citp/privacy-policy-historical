@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teapartyeconomist.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905174929id_/http%3A//teapartyeconomist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teapartyeconomist.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513224009id_/http%3A//teapartyeconomist.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy / Terms & Conditions - The Tea Party Economist
 
