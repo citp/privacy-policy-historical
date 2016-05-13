@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novumbankgroup.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026061126id_/http%3A//www.novumbankgroup.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novumbankgroup.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513175410id_/http%3A//www.novumbankgroup.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Novum Bank Ltd.
 
