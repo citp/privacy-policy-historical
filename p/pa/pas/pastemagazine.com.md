@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pastemagazine.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225190724id_/http%3A//www.pastemagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pastemagazine.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513120318id_/http%3A//www.pastemagazine.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Security :: Paste
 
