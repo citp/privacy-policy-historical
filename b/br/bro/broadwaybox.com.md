@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadwaybox.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215235404id_/http%3A//www.broadwaybox.com/learn-more/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadwaybox.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513170534id_/http%3A//www.broadwaybox.com/learn-more/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BroadwayBox - BroadwayBox | Discount Broadway Tickets
 
