@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gurusloaded.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315025637id_/http%3A//www.gurusloaded.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurusloaded.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513052511id_/http%3A//www.gltrends.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Gurusloaded
+# Privacy Policy |
 
-We take your privacy seriously. This privacy policy describes what personal information we collect and how we use it on Gurusloaded [Gurusloaded.com.ng] 
+We take your privacy seriously. This privacy policy describes what personal information we collect and how we use it on gltrends.com
 
 **Routine Information Collection**  
 All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes, and lets me know what pages and information are useful and helpful to visitors.  
@@ -19,9 +19,14 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 
 **Contact Information**
 
-Concerns or questions about this privacy policy can be directed to admin at Gurusloaded.com for further clarification.  
-1) A word filter has been put in place to prevent forum members from using sexually explicit words in their posts.  
+Concerns or questions about this privacy policy can be directed to admin at gltrends.com/privacy/ for further clarification.  
+1) A word filter has been put in place to prevent forum members from using $exually explicit words in their posts.  
 2) Our Members have been informed that they need to keep their words clean if the Website is to survive.  
-3) A privacy policy has been drafted for Gurusloaded. See  <http://www.gurusloaded.com/privacy>
+3) A privacy policy has been drafted for GLtrends.com. See  <http://www.gltrends.com/privacy/>
 
 I’m ready to do whatever may be additionally required to make my site fully complaint with your policies.
+
+  
+
+
+**NOTE:-** After Dropping your comment, keep calm, it will take some mins before it appears. 
