@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the previously.tv privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906041245id_/http%3A//previously.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the previously.tv privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513091046id_/http%3A//previously.tv/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy • Previously.TV
+# Privacy Policy - Previously.TV
 
 It is our policy to respect the privacy of the people who access and use our site and the services we provide to you on the site. Your accessing and continued use of our site and services constitutes your consent to and acceptance of the terms and conditions of this Privacy Policy. This Privacy Policy applies to information that you provide to us through our site and our services, and when you access, download, purchase or use any information, services, products or content appearing on our site. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on this site. You should consult this Privacy Policy regularly for any changes.
 
