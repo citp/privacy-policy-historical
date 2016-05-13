@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roberthalf.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118234138id_/http%3A//www.roberthalf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roberthalf.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513052442id_/https%3A//www.roberthalf.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Robert Half
 
@@ -12,7 +12,7 @@ We use Personal Information and other data collected through the Site to registe
 
 **Disclosures of Personal Information**
 
-As described in Section 4 of the [Terms of Use,](https://web.archive.org/node/23106) RHI may disclose Personal Information to third parties. The disclosure to third parties would occur in the following circumstances:
+As described in Section 4 of the [Terms of Use,](https://web.archive.org/terms-of-use) RHI may disclose Personal Information to third parties. The disclosure to third parties would occur in the following circumstances:
 
 1\. We may disclose information to companies and individuals we employ to perform business functions and services on our behalf. Such functions may include, for example, hosting our Web servers, analyzing data, providing legal, accounting and marketing services.
 
@@ -20,7 +20,7 @@ As described in Section 4 of the [Terms of Use,](https://web.archive.org/node/23
 
 **Revisions to the Policy**
 
-If we change this privacy policy we will post any updates here for your review. If we change material terms in this Policy, we will provide notice of the revised policy for 30 days on the home page at [www.rhi.com](http://www.rhi.com/) with a link back to this page.
+If we change this privacy policy we will post any updates here for your review. If we change material terms in this Policy, we will provide notice of the revised policy for 30 days on the home page at [www.rhi.com](https://web.archive.org/) with a link back to this page.
 
 This Policy is effective as of October 27, 2006. If you have any questions about our website privacy policies, please contact us at:
 
