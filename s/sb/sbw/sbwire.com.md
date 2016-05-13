@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbwire.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908040629id_/http%3A//www.releasewire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbwire.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513220948id_/http%3A//www.releasewire.com/privacy) for the most accurate reproduction.*
 
 # ReleaseWire - From Release To Results | About Us > Our Privacy Policy
 
