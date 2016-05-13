@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the viddsee.com privacy policy that was archived on 2015-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150925024136id_/https%3A//www.viddsee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viddsee.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513144205id_/https%3A//viddsee.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Viddsee
 
 ## Privacy
 
-This Privacy Policy describes how Viddsee Pte Ltd ("We," “Our” or "Viddsee") collects, uses and shares your information on Viddsee.com (the “Viddsee Site”), related domains (including Viddsee BUZZ, Viddsee Creator), mobile applications and television applications (collectively, the “Viddsee Service”). Use of the Viddsee Service is subject to our Terms of Use.
+This Privacy Policy describes how Viddsee Pte Ltd ("We," "Our" or "Viddsee") collects, uses and shares your information on Viddsee.com (the "Viddsee Site"), related domains (including Viddsee BUZZ, Viddsee Creator), mobile applications and television applications (collectively, the "Viddsee Service"). Use of the Viddsee Service is subject to our Terms of Use.
 
 ### What information do we collect?
 
@@ -46,7 +46,7 @@ We use cookies to understand and save your preferences for future visits, keep t
 
 ### Do you use log data?
 
-Yes. When you use Viddsee Service, whether as a registered or non-registered user, our servers may record information that your browser sends whenever you visit a content (such information to be known as “Log Data”). This Log Data may include information relating to your browser type, content pages of our Viddsee Service that you visit and your internet protocol address.
+Yes. When you use Viddsee Service, whether as a registered or non-registered user, our servers may record information that your browser sends whenever you visit a content (such information to be known as "Log Data"). This Log Data may include information relating to your browser type, content pages of our Viddsee Service that you visit and your internet protocol address.
 
 ### Do we disclose any information to outside parties?
 
