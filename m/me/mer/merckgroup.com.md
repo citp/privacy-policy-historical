@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the merckgroup.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124204749id_/http%3A//www.merckgroup.com/en/privacy_statement/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merckgroup.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513033836id_/http%3A//www.emdgroup.com/emd/privacy_statement/privacy_statement.html) for the most accurate reproduction.*
 
-# Privacy Statement - The Merck Group
+# Privacy Statement - EMD Group
 
 **Introduction**
 
-Thank you for your interest in the Merck KGaA website (referred to briefly as “Merck” in this statement). The issue of data protection and confidentiality is a topic we take very seriously and we follow the applicable national and European data protection regulations. With this statement on data protection measures, we therefore want to provide you with information on the types of data that we may collect and how we use that data.
+Thank you for your interest in the Merck KGaA, Darmstadt, Germany, website. The issue of data protection and confidentiality is a topic we take very seriously and we follow the applicable national and European data protection regulations. With this statement on data protection measures, we therefore want to provide you with information on the types of data that we may collect and how we use that data.
 
 **Storage and use of data**
 
-As a visitor to our website, you will remain anonymous. The data we store and analyze is used for statistical purposes only, for instance to ensure the continuous improvement of our services. The data we store on our servers comprises the name of your internet service provider, the website from which you visited us, the Merck web pages you have looked up, your IP address and the date and duration of your visit.
+As a visitor to our website, you will remain anonymous. The data we store and analyze is used for statistical purposes only, for instance to ensure the continuous improvement of our services. The data we store on our servers comprises the name of your internet service provider, the website from which you visited us, the Merck KGaA, Darmstadt, Germany, web pages you have looked up, your IP address and the date and duration of your visit.
 
 **Collection, processing and use of personal data**
 
 We only collect and process personal data if you make use of specific services and we therefore require your data or if you have voluntarily given us your express consent. You may do so, for instance, as part of a registration procedure, by completing a form or by sending an e-mail, ordering products or services, sending us a query or requesting materials. Unless we are subject to other legal commitments, we only use your personal data for the purposes for which you have given your consent.
 
-Your personal data will only be shared by us with third parties if that is required in order to provide a service you have requested or if you have given your consent. If data has been released for use by Merck subsidiaries and if such permission involves data transfer to other countries, Merck will ensure that the data importer is placed under a suitable level of data protection commitment.
+Your personal data will only be shared by us with third parties if that is required in order to provide a service you have requested or if you have given your consent. If data has been released for use by our subsidiaries and if such permission involves data transfer to other countries, Merck KGaA, Darmstadt, Germany, will ensure that the data importer is placed under a suitable level of data protection commitment.
 
 **Data retention**
 
@@ -22,7 +22,7 @@ We store data as required by legal obligation or for the period of time that is 
 
 **Right to review, correct and object**
 
-You are entitled to review and correct any of your personal data we have stored, and you may withdraw your consent to the use of your data at any time, affecting all future use. All you need to do is to send an e-mail to: privacy@merckgroup.com
+You are entitled to review and correct any of your personal data we have stored, and you may withdraw your consent to the use of your data at any time, affecting all future use. All you need to do is to send an e-mail to: privacy@emdgroup.com
 
 **Data protection and security**
 
@@ -34,26 +34,27 @@ This website uses Google Analytics, a web analytics service provided by Google, 
 
 **Cookies used on this website**
 
-Name of Cookie | 1st or 3rd party Cookie? If 3rd party: Who is setting it? | Purpose of the Cookie? | What data holds the Cookie? | Is it a session or persistent Cookie? | If persistent, how long is its lifespan?  
+Name of Cookie| 1st or 3rd party Cookie? If 3rd party: Who is setting it?| Purpose of the Cookie?| What data holds the Cookie?| Is it a session or persistent Cookie?| If persistent, how long is its lifespan?  
 ---|---|---|---|---|---  
-JSESSIONID | 1st party | Session ID needed for e.g. Registration | SESSION ID | session |   
-WT_FPC | 3rd party Webtrends | Used to distinguish users | different values | persistent | 2 years  
-merck_survey_... | 3rd party mafo1.myaudience.de |  | different values | persistent | 1 year  
-ACOOKIE | 3rd party - sdc01.merck.de |  |  | persistent | 10 years  
-TAFSessionId | 1st party |  | SESSION ID | session |   
-TAFTrackingId | 1st party |  |  | persistent | _utma90 years  
-_ ga | 3rd party \- google-analytics.com | Used to distinguish users | different values | session, persistent | 2 years  
-_utma | 3rd party \- google-analytics.com | Used to distinguish users and sessions | different values | persistent | 2 years  
-_utmb | 3rd party \- google-analytics.com | Used to determine new sessions/ visits.  | different values | session | 30 mins from set/update  
-_utmz | 3rd party \- google-analytics.com | Used to determine new sessions/ visits.  | different values | persistent | 6 months from set/update  
-_utmv | 3rd party \- google-analytics.com | Stores the traffic source or campaign that explains how the user reached this site.  | different values | persistent | 2 years from set/update  
+JSESSIONID| 1st party| Session ID needed for e.g. Registration| SESSION ID| session|   
+WT_FPC| 3rd party Webtrends| Used to distinguish users| different values| persistent| 2 years  
+merck_survey_...| 3rd party mafo1.myaudience.de| | different values| persistent| 1 year  
+ACOOKIE| 3rd party - sdc01.merck.de| | | persistent| 10 years  
+TAFSessionId| 1st party| | SESSION ID| session|   
+TAFTrackingId| 1st party| | | persistent| 90 years  
+_ ga| 3rd party \- google-analytics.com| Used to distinguish users.| different values| persistent| 2 years  
+_ gat| 3rd party \- google-analytics.com| Used to throttle request rate.| different values| persistent| 10 minutes  
+_utma| 3rd party \- google-analytics.com| Used to distinguish users and sessions| different values| persistent| 2 years  
+_utmb| 3rd party \- google-analytics.com| Used to determine new sessions/ visits. | different values| persistent| 30 mins from set/update  
+_utmz| 3rd party \- google-analytics.com| Used to determine new sessions/ visits. | different values| persistent| 6 months from set/update  
+_utmv| 3rd party \- google-analytics.com| Stores the traffic source or campaign that explains how the user reached this site. | different values| persistent| 2 years from set/update  
   
 **Contact**
 
 If you have questions or suggestions, please feel free to contact our Corporate Privacy Officer.
 
 Norbert Moeren   
-Corporate Privacy Officer at Merck KGaA
+Corporate Privacy Officer at Merck KGaA, Darmstadt, Germany
 
-Phone: +49 6151 72 - 5167    
-Fax: +49 6151 72 - 915167
+Phone: +49 6151 72-5167   
+Fax: +49 6151 72-915167
