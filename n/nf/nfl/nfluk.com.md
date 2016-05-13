@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nfluk.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210035236id_/http%3A//www.nfluk.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfluk.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514011826id_/http%3A//www.nfluk.com/privacy.html) for the most accurate reproduction.*
 
 # NFLUK.com | Privacy Policy
 
