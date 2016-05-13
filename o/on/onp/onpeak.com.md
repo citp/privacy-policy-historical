@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onpeak.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911143935id_/https%3A//s3.amazonaws.com/onpeak/onpeak/GES/ViadCorpandAffiliatedCompaniesPrivacyPolicyJan2015.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onpeak.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513181502id_/https%3A//s3.amazonaws.com/onpeak/onpeak/GES/ViadCorpandAffiliatedCompaniesPrivacyPolicyJan2015.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
