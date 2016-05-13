@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanstandard-us.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909055338id_/http%3A//www.americanstandard-us.com/legal.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanstandard-us.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513091730id_/http%3A//www.americanstandard-us.com/legal.aspx) for the most accurate reproduction.*
 
 # American Standard
 
@@ -85,7 +85,7 @@ American Standard website users have the option to request that American Standar
 AS America, Inc. Privacy Inquiries  
 One Centennial Avenue  
 Piscataway, New Jersey 08855-6820  
-Attention: Maria Chiclana, Senior Vice President and General Counsel
+Attention: Bruce Proctor, Chief Legal Officer. 
 
 The inquiries should include the individual's name, address, and other relevant contact information (phone number, email address). American Standard will use all reasonable efforts to honor such requests as quickly as possible.
 
