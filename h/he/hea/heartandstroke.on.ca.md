@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heartandstroke.on.ca privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108015223id_/http%3A//www.heartandstroke.on.ca/site/c.pvI3IeNWJwE/b.3581639/k.A0F9/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartandstroke.on.ca privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513035816id_/http%3A//www.heartandstroke.on.ca/site/c.pvI3IeNWJwE/b.3581639/k.A0F9/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - - Heart and Stroke Foundation of Ontario
 
