@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the unminify.com privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030200458id_/http%3A//unminify.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unminify.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513034605id_/http%3A//unminify.com/policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
-UNMINIFY.COM understands the importance of privacy and is committed to protecting the privacy of your personal information. This Privacy Policy explains how UNMINIFY.COM collects and uses your personal information. 
+UNMINIFY.COM understands the importance of privacy and is committed to protecting the privacy of your personal information. This Privacy Policy explains how UNMINIFY.COM collects and uses your personal information.
 
 **WHAT PERSONAL INFORMATION DO WE COLLECT?**
 
-UNMINIFY.COM collects non-personally identifiable information when you visit our website (UNMINIFY.COM). This data includes your IP address, the IP address and URL of the Website that sent you to the UNMINIFY.COM main page, browser cookie and browser type. This data is automatically recorded in our server logs and is used to manage the website, track usage and improve the UNMINIFY.COM website and services. 
+UNMINIFY.COM collects non-personally identifiable information when you visit our website (UNMINIFY.COM). This data includes your IP address, the IP address and URL of the Website that sent you to the UNMINIFY.COM main page, browser cookie and browser type. This data is automatically recorded in our server logs and is used to manage the website, track usage and improve the UNMINIFY.COM website and services.
 
-When you use UNMINIFY.COM services, all submitted information, uploaded data and result of usage will be stored on the web server for a maximum of 1 hour exclusively for your convenience. 
+When you use UNMINIFY.COM services, all submitted information, uploaded data and result of usage will be stored on the web server for a maximum of 1 hour exclusively for your convenience.
 
-We will not sell, rent or otherwise distribute your personal information to third parties. 
+We will not sell, rent or otherwise distribute your personal information to third parties.
 
 **HOW DO WE USE COOKIES?**
 
@@ -20,4 +20,4 @@ Google is one of the third-pary advertising companies used to serve ads on our s
 
 **LINKS TO OTHER SITES**
 
-We may provide links to other websites and products. If you choose to visit a third party website or use its products or services, please be aware that the third party's privacy policy, not this Privacy Policy, will be in effect. Please review the privacy policies of these sites in order to understand their privacy policies and data collection practices. UNMINIFY.COM is not responsible for the privacy or security practices or the content of these websites. 
+We may provide links to other websites and products. If you choose to visit a third party website or use its products or services, please be aware that the third party's privacy policy, not this Privacy Policy, will be in effect. Please review the privacy policies of these sites in order to understand their privacy policies and data collection practices. UNMINIFY.COM is not responsible for the privacy or security practices or the content of these websites.
