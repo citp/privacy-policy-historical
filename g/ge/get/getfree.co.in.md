@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getfree.co.in privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212142357id_/http%3A//getfree.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getfree.co.in privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513105810id_/http%3A//getfree.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Get Free Coin - Privacy policy
 
