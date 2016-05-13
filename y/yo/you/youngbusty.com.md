@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youngbusty.com privacy policy that was archived on 2015-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150818225714id_/http%3A//www.imcbill.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngbusty.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513214437id_/http%3A//www.imcbill.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -49,8 +49,7 @@ and their business practices and or privacy policies.
 **5.** Using the information we collect  
 Your personal information is not shared with any third parties and is used mainly to communicate with you and provide you an optimized service. We mainly use this information to improve the services provided to you and present  
 you with the correct options on the website. Also this information is used to deliver you, mainly through email and through your online account information and communication from other members or users. These  
-communications are known as "Operational Communications." In some cases, Operational Communications include commercial messages. Emails we send you may include newsletters, information, changes of the website, special offers and  
-other promotional content from the website or third party offers. You can change your email preferences through your account and limit those emails. By creating a profile on the website you positively opt-in to receive  
+communications are known as "Operational Communications." You can change your email preferences through your account and limit those emails. By creating a profile on the website you positively opt-in to receive  
 messages from members and user in the website As well this information may be used to help you use the site, answer inquiries, solve problems and provide technical assistance.
 
 **5.1** We may be required to share your information in order to operate the service successfully. Sharing may be required with our representatives and service providers so they can operate their service such as payment  
