@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidzania.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220081538id_/http%3A//www.kidzania.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidzania.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513205923id_/http%3A//www.kidzania.com/privacy.php) for the most accurate reproduction.*
 
 # KidZania – Get Ready for a Better World
 
