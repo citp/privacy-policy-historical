@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the foodpanda.pk privacy policy that was archived on 2014-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140905025524id_/http%3A//www.foodpanda.pk/contents/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodpanda.pk privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513110552id_/https%3A//www.foodpanda.pk/contents/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy | foodpanda
 
-This policy explains how we, Foodpanda, a brand of **http://www.foodpanda.com** , use your personal information which you provide to us when using our service, including but not limited to our website and mobile applications (apps).
+This policy explains how we, foodpanda, a brand of **http://www.foodpanda.com** , use your personal information which you provide to us when using our service, including but not limited to our website and mobile applications (apps).
 
 **What information we collect about you?**
 
@@ -22,11 +22,11 @@ Information that we collect from you is used to process your order and to manage
 
 In processing your order we may send your information to credit reference and fraud prevention agencies.
 
-From time to time we may send your information to third parties which we consider may have goods or services which are of interest to you. If you do not wish to be contacted by third parties please email us at [info@foodpanda.pk](mailto:info@foodpanda.pk)
+From time to time we may send your information to third parties which we consider may have goods or services which are of interest to you. If you do not wish to be contacted by third parties please email us at [info@foodpanda.pk](mailto:info@%3Cscript%3Edocument.write\(link\)%3C/script%3E.pk)
 
 **Access to your information**
 
-You have a right to request a copy of the information we hold on you at any time. Please email us if you would like to receive a copy of this information – [info@foodpanda.pk](mailto:info@foodpanda.pk). There will be a small charge for processing this request.
+You have a right to request a copy of the information we hold on you at any time. Please email us if you would like to receive a copy of this information – [info@foodpanda.pk](mailto:info@%3Cscript%3Edocument.write\(link\)%3C/script%3E.pk). There will be a small charge for processing this request.
 
 **Other Websites**
 
