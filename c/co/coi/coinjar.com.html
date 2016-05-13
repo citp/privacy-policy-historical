@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the coinjar.com privacy policy that was archived on 2015-09-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150910044531id_/https%3A//www.coinjar.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coinjar.com privacy policy that was archived on 2016-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160513204810id_/https%3A//www.coinjar.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="breakpoint-wall"><head>
     <meta charset="utf-8">
@@ -26,6 +26,7 @@
         if (ua.match(/(iPad|iPhone);.*CPU.*OS 7_\d/i)) cl.add('browser-ios7');
         if (ua.match(/Android/)) ua.match(/SAMSUNG/) ? cl.add('device-samsung') : cl.add('device-android');
         if (ua.match(/Trident/)) cl.add('browser-ie');
+        if (ua.match(/Chrome\/46/)) cl.add('capability-no-background-blend-modes'); 
         if (navigator.appName == 'Microsoft Internet Explorer' || !("backgroundBlendMode" in testElem.style))
           cl.add('capability-no-background-blend-modes');
       })();
@@ -33,7 +34,31 @@
     </script>
     <meta name="application-name" content="CoinJar">
     <meta name="msapplication-TileColor" content="#FFFFFF">
-    <link rel="stylesheet" href="https://assets.coinjar.com/css/mobius-2d2108c7.css">
+    
+    <link ref="alternate" hreflang="en" href="https://www.coinjar.com/privacy">
+    <link ref="alternate" hreflang="en-AU" href="https://www.coinjar.com.au/privacy">
+    <link ref="alternate" hreflang="en-GB" href="https://www.coinjar.co.uk/privacy">
+    <link ref="alternate" hreflang="en-AT" href="https://www.coinjar.eu/privacy">
+    <link ref="alternate" hreflang="en-BE" href="https://www.coinjar.eu/privacy">
+    <link ref="alternate" hreflang="en-CY" href="https://www.coinjar.eu/privacy">
+    <link ref="alternate" hreflang="en-EE" href="https://www.coinjar.eu/privacy">
+    <link ref="alternate" hreflang="en-FI" href="https://www.coinjar.eu/privacy">
+    <link ref="alternate" hreflang="en-FR" href="https://www.coinjar.eu/privacy">
+    <link ref="alternate" hreflang="en-DE" href="https://www.coinjar.eu/privacy">
+    <link ref="alternate" hreflang="en-GR" href="https://www.coinjar.eu/privacy">
+    <link ref="alternate" hreflang="en-IE" href="https://www.coinjar.eu/privacy">
+    <link ref="alternate" hreflang="en-IT" href="https://www.coinjar.eu/privacy">
+    <link ref="alternate" hreflang="en-LV" href="https://www.coinjar.eu/privacy">
+    <link ref="alternate" hreflang="en-LT" href="https://www.coinjar.eu/privacy">
+    <link ref="alternate" hreflang="en-LU" href="https://www.coinjar.eu/privacy">
+    <link ref="alternate" hreflang="en-MT" href="https://www.coinjar.eu/privacy">
+    <link ref="alternate" hreflang="en-NL" href="https://www.coinjar.eu/privacy">
+    <link ref="alternate" hreflang="en-PT" href="https://www.coinjar.eu/privacy">
+    <link ref="alternate" hreflang="en-SK" href="https://www.coinjar.eu/privacy">
+    <link ref="alternate" hreflang="en-SI" href="https://www.coinjar.eu/privacy">
+    <link ref="alternate" hreflang="en-ES" href="https://www.coinjar.eu/privacy">
+    
+    <link rel="stylesheet" href="https://assets.coinjar.com/css/mobius-685683b0.css">
     <link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://assets.coinjar.com/images/icons/apple-touch-icon-57x57-14439fd3.png">
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://assets.coinjar.com/images/icons/apple-touch-icon-114x114-e0eb350b.png">
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://assets.coinjar.com/images/icons/apple-touch-icon-72x72-5b930502.png">
@@ -54,6 +79,7 @@
     <meta name="msapplication-square310x310logo" content="https://assets.coinjar.com/images/icons/mstile-310x310-1f16b316.png">
   </head>
   <body ng-app="mobius-page" ng-controller="BodyCtrl" ng-class="bodyClasses()" class="on-tos">
+    <cookie-consent></cookie-consent>
     <div ui-frame="marketing">
       <aside ui-aside="">
         <div ui-drawer="marketing">
@@ -80,7 +106,7 @@
             <li class="sign-up"><a href="https://secure.coinjar.com/users/sign_in" ui-link="">Sign In</a></li>
           </ul>
         </header>
-        <header ui-hero="blue small" data-bg-src="https://assets.coinjar.com/images/headers/header__london-thames--mega-f076ae4e.jpg" data-quality="80">
+        <header ui-hero="blue small" ui-background-image="London">
           <div ui-hero-copy="">
             <h1>Privacy &amp; Cookies</h1>
           </div>
@@ -208,7 +234,46 @@
         </div>
         <article ui-long-form=""></article>
         <back-to-top></back-to-top>
-        <footer ui-footer=""><a ui-link="" href="https://www.coinjar.com/about-us">About</a><a ui-link="" href="https://www.coinjar.com/legal">Terms of Service</a><a ui-link="" href="https://www.coinjar.com/privacy">Privacy</a><a ui-link="" href="https://www.coinjar.com/privacy#cookies">Cookies</a><a ui-link="" href="https://www.coinjar.com/bounty">Bug Bounty</a><a ui-link="" href="https://status.coinjar.com/">Status</a><a ui-link="" href="https://blog.coinjar.com/">Blog</a><a ui-link="" href="https://www.coinjar.com/press">Press</a><a ui-link="" href="http://eepurl.com/9OcXz" target="_blank">Newsletter</a><a ui-link="" href="https://www.twitter.com/GetCoinJar" target="_blank">Twitter</a><a ui-link="" href="https://www.facebook.com/CoinJar" target="_blank">Facebook</a><a ui-link="" href="https://plus.google.com/+CoinJar" target="_blank" rel="publisher">Google+</a>
+        <footer ui-footer="">
+          <section>
+            <ul ui-list="">
+              <li>
+                <p ui-type="heavy">Company</p>
+              </li>
+              <li><a ui-link="" href="/about-us">About</a></li>
+              <li><a ui-link="" href="/bounty">Bug Bounty</a></li>
+              <li><a ui-link="" href="https://status.coinjar.com/">Status</a></li>
+              <li><a ui-link="" href="/press">Press</a></li>
+              <li><a ui-link="" href="https://store.coinjar.com/">Store</a></li>
+            </ul>
+            <ul ui-list="">
+              <li>
+                <p ui-type="heavy">Using CoinJar</p>
+              </li>
+              <li><a ui-link="" href="/spend">Spend</a></li>
+              <li><a ui-link="" href="/send">Send</a></li>
+              <li><a ui-link="" href="/trade">Trade</a></li>
+            </ul>
+            <ul ui-list="">
+              <li>
+                <p ui-type="heavy">Social</p>
+              </li>
+              <li><a ui-link="" href="https://blog.coinjar.com/">Blog</a></li>
+              <li><a ui-link="" href="http://eepurl.com/9OcXz" target="_blank">Newsletter</a></li>
+              <li><a ui-link="" href="https://www.twitter.com/GetCoinJar" target="_blank">Twitter</a></li>
+              <li><a ui-link="" href="https://www.facebook.com/CoinJar" target="_blank">Facebook</a></li>
+              <li><a ui-link="" href="https://plus.google.com/+CoinJar" target="_blank" rel="publisher">Google+</a></li>
+            </ul>
+            <ul ui-list="">
+              <li>
+                <p ui-type="heavy">Legal</p>
+              </li>
+              <li><a ui-link="" href="/legal">Terms of Service</a></li>
+              <li><a ui-link="" href="/privacy">Privacy</a></li>
+              <li><a ui-link="" href="/privacy#cookies">Cookies</a></li>
+            </ul>
+          </section>
+          <section ui-footer-globalsites=""><span ui-type="heavy">Global Sites:</span><a ui-link="" href="https://www.coinjar.com/ncr">Global</a><a ui-link="" href="https://www.coinjar.co.uk/">UK</a><a ui-link="" href="https://www.coinjar.com.au/">Australia</a><a ui-link="" href="https://www.coinjar.eu/">Eurozone</a></section>
           <!-- a(ui-link href=urlGettingStarted) Getting Started-->
           <div ui-footer-logo=""><img src="https://assets.coinjar.com/images/header_logo-e00e1c87.svg"></div>
         </footer>
@@ -216,8 +281,8 @@
       <div ui-draweropener="" ng-click="toggleMenu()"><span ui-draweropener-icon="open" svg-icon="icon__main-menu"></span><span ui-draweropener-icon="close" svg-icon="icon__delete-contact_list"></span></div>
     </div>
     <script>_gaq = [['_setAccount', 'UA-41835591-1'], ['_trackPageview']];</script>
-    <script src="https://assets.coinjar.com/js/vendor-c36a59dc.js"></script>
-    <script src="https://assets.coinjar.com/js/templates-4b5db7f9.js"></script>
-    <script src="https://assets.coinjar.com/js/mobius-3ea81fcf.js"></script>
+    <script src="https://assets.coinjar.com/js/vendor-fd348a78.js"></script>
+    <script src="https://assets.coinjar.com/js/templates-bd6fac24.js"></script>
+    <script src="https://assets.coinjar.com/js/mobius-ebba2370.js"></script>
   
 </body></html>
