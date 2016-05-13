@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piazza.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906041356id_/https%3A//piazza.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piazza.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514002046id_/https%3A//piazza.com/legal/privacy) for the most accurate reproduction.*
 
 # Piazza • Ask. Answer. Explore. Whenever.
 
