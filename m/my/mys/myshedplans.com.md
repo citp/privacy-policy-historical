@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myshedplans.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211145919id_/http%3A//www.myshedplans.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myshedplans.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513084939id_/http%3A//www.myshedplans.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
