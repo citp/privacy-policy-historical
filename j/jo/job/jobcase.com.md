@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobcase.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317071021id_/https%3A//jobcase.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobcase.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513074626id_/https%3A//www.jobcase.com/privacy_policy) for the most accurate reproduction.*
 
-# Jobcase | Privacy Policy
+# Our Privacy Policy | Jobcase
 
 ## Introduction
 
@@ -34,6 +34,14 @@ In order for you to take full advantage of Jobcase you may be asked to voluntari
 **Customer Service.** When you contact our customer support services, we may have to access your contributions to our Services and collect the information we need to categorize your question, respond to it, and, if applicable, investigate any breach of our Terms of Use or this Privacy Policy. We also use this information to track potential problems and trends and customize our support responses to better serve you. We do not use this information for advertising.
 
 **Using Third-Party Services and Visiting Third-Party Sites.** You allow us to receive information when you use your account to log in to a third-party website or application. You also allow us to receive information about your visits and interaction with the sites and services of our partners that include our cookies and similar technologies, unless you opt out.
+
+**Address Book and Other Services That Sync with Jobcase.** You may use our address book or "contacts" importer (or other similar features) to upload your address book into our Services. We store this information (including phone numbers) and use it to help you manage and leverage your contacts in connection with our Services. We also use this information to enhance your experience with our Services: for example, providing a template to send invitations on your behalf to your contacts. We may also use this information to show you and other Members that you share the same uploaded contacts who may or may not be Members.
+
+Please note that when you send an invitation to another individual on our Service or to join our Service, that person may have access to your email address or, for SMS invitations, mobile number because it may be displayed in the invitation. After sending these invitations, we may also remind your invitees of your invitation on your behalf.
+
+We make other tools available to sync information with our Services, and may also develop additional features that allow Members to use their account in conjunction with other third-party services.
+
+Any information that you upload or sync with our Services is covered by the Terms of Use and this Privacy Policy.
 
 **Non-Personal Information.** If you do not input or otherwise submit any of your personally identifiable information, then the information we collect from you is limited. For example, we log your IP address in order to help us diagnose problems with our server, administer Jobcase and track usage statistics. Your IP address may vary each time you visit, or it may be the same, depending on whether you access Jobcase through an always-on type of Internet connection (such as cable or DSL), or through a dial-up connection. We match IP addresses to completed User registration forms for validation and error checking purposes. If you reached the Site by clicking on a link or ad from another site, then we may also log that information. This helps us maximize our Internet exposure and to understand the interests of our Users. In general, this information is used to generate overall anonymous reports on our Users that enable us to improve the effectiveness of Jobcase.
 
@@ -147,7 +155,7 @@ Further, by registering on this Site, you agree that this act constitutes an inq
 
 **Testimonials and Advertisements Placed Through Jobcase Ads.** If you provide any testimonials about our goods or services or place advertisements through the Jobcase Ads, we may post those testimonials and examples of advertisements you place in connection with our promotion of these services to third parties. Testimonials and advertisements may include your name and other personal information that you have provided.
 
-**Talent Recruiting, Marketing, and Sales Solutions.** We may offer customized people-search functionality along with organizational and communications tools (including activity alerts) as part of our talent recruiting, marketing and sales solutions. These services allow subscribers - generally, enterprises and professional organizations - to export limited information from Members’ public profiles, such as name, headline, current company, current title, and location, in order to effectively manage candidate sourcing. You may limit or prevent such subscribers from exporting your profile information by configuring your public profile visibility settings to restrict access to these fields. We do not provide email or other contact information to these subscribers. However, if you post that information as part of your profile it will be available to them and others. A recruiter or other such subscriber may also manage and store information it has independently obtained about you outside of our Services, such as a resume, in connection with our platform. Any personal information obtained independently of our Services will not be added by us to your profile and is not under our control but is subject to the policies of our recruiting, marketing or sales solution subscriber. We store such information on behalf of such subscriber who can remove it at any time. We do not further process such information.
+**Talent Recruiting, Marketing, and Sales Solutions.** We may offer customized people-search functionality along with organizational and communications tools (including activity alerts) as part of our talent recruiting, marketing and sales solutions. These services allow subscribers - generally, enterprises and professional organizations - to export limited information from Members’ public profiles, such as name, headline, current company, current title, and location, in order to effectively manage candidate sourcing. We do not provide email or other contact information to these subscribers. However, if you post that information as part of your profile it will be available to them and others. A recruiter or other such subscriber may also manage and store information it has independently obtained about you outside of our Services, such as a resume, in connection with our platform. Any personal information obtained independently of our Services will not be added by us to your profile and is not under our control but is subject to the policies of our recruiting, marketing or sales solution subscriber. We store such information on behalf of such subscriber who can remove it at any time. We do not further process such information.
 
 **Pages for Companies, Schools, and Other Entities.** Certain pages on the Services are public (e.g., company and college pages), and any communications or information shared through them will be accessible by the entity that created them. If you follow a person or organization, you will be listed among its followers, which can be viewed by others including the page owner. We use aggregate information about followers and viewers to provide data about such pages’ performance (for example, visits and updates).
 
@@ -190,6 +198,6 @@ Electronic:
 
 
 Address:  
-201 Broadway Street  
-7th Floor  
+201 Broadway  
+Suite 7  
 Cambridge, MA 02139 
