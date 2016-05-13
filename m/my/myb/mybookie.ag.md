@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybookie.ag privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220060752id_/http%3A//mybookie.ag/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybookie.ag privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513020507id_/http%3A//mybookie.ag/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MyBookie.ag
 
@@ -31,8 +31,8 @@ We do not knowingly collect personal information from users under the age of 18.
 ### Contacting Us.
 
 We can be reached by contacting:  
-**MyBookie.ag Phone:** 844-866-2387  
-**Email:** help@mybookie.ag
+**MyBookie.ag Phone:** 844-866-BETS (2387)  
+**Email:** help@mybookie.cr
 
 ### Changes to Mybookie Policy
 
