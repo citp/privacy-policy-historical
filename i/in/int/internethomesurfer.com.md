@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internethomesurfer.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926022641id_/http%3A//www.internethomesurfer.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internethomesurfer.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513174150id_/http%3A//www.internethomesurfer.com/privacy-policy.html) for the most accurate reproduction.*
 
 # privacy-policy the privacy policy for internet home surfer
 
