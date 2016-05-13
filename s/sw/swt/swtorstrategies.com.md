@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the swtorstrategies.com privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917020740id_/http%3A//www.swtorstrategies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swtorstrategies.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513103849id_/http%3A//www.swtorstrategies.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Star Wars Gaming news
+# Privacy Policy
 
 The privacy of our visitors to swtorstrategies.com is important to us.
 
@@ -12,7 +12,7 @@ As with most other websites, we collect and use the data contained in log files.
 
 **Cookies and Web Beacons**
 
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as [forums](http://www.swtorstrategies.com/forums).
+We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
 We also use third party advertisements on swtorstrategies.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
