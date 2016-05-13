@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cardgames.io privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026042444id_/http%3A//cardgames.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardgames.io privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513113125id_/https%3A//cardgames.io/privacy) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# CardGames.io - PRIVACY POLICY
 
-This site, [cardgames.io](https://web.archive.org/), and all the games on it are created by Rauðás Hugbúnaður ("Red Ace Software"), a small software company in Iceland. Here we will explain what data we store, how we store it, how we use cookies and how our advertising works. 
+This site, [CardGames.io](https://web.archive.org/), is created by Rauðás Hugbúnaður ehf ("Red Ace Software LLC"), a small software company in Iceland. Here we will explain what data we store, how we store it, how we use cookies and how our advertising works. 
 
 ### Personal information
 
@@ -47,6 +47,6 @@ This game may keep track of your game statistics, how many times you've won, los
 
 ### Contact us
 
-If you would like more information about any of the above, please do not hesitate to contact us at [raudashugbunadur@gmail.com](mailto:raudashugbunadur@gmail.com) with any questions or concerns. 
+If you would like more information about any of the above, please do not hesitate to contact us at [admin@cardgames.io](mailto:admin@cardgames.io) with any questions or concerns. 
 
 [Click here to go back to the frontpage](https://web.archive.org/). 
