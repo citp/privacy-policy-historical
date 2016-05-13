@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalmobile.in privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007195521id_/http%3A//www.digitalmobile.in/community/pages/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalmobile.in privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513210917id_/http%3A//www.digitalmobile.in/community/pages/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
