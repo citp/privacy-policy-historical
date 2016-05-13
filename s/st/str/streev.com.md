@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streev.com privacy policy that was archived on 2015-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150712112706id_/http%3A//www.streev.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streev.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513203937id_/http%3A//www.streev.com/privacy.html%3F) for the most accurate reproduction.*
 
 # Streev, Live Sex Shows - Privacy Policy
 
@@ -47,7 +47,7 @@ If you have any questions about this Privacy Policy, please contact our customer
 
 The address for correspondence by post is
 
-ICF Technology, Inc.  
-PO Box 21508  
-Seattle, WA 98111  
-USA
+.cnI ,ygolonhceT FCI  
+80512 xoB OP  
+11189 AW ,elttaeS  
+ASU
