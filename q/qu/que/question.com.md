@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the question.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912153516id_/https%3A//www.question.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the question.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513023008id_/https%3A//www.question.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Question.com
 
@@ -22,7 +22,7 @@ However, Your e-mail message, question, or comment may be forwarded to other Que
 
 ## Security
 
-Question.com follows generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. We use SSL (Secure Socket Layer) technology to protect your sensitive information on our site. If you have any questions about security on our Web site, you can send an [email](https://web.archive.org/web/20150912153516id_/https://www.question.com/privacy/contact/) using our contact form.
+Question.com follows generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. We use SSL (Secure Socket Layer) technology to protect your sensitive information on our site. If you have any questions about security on our Web site, you can send an [email](https://web.archive.org/web/20160513023008id_/https://www.question.com/privacy/contact/) using our contact form.
 
 ## Forum/Bulletin Board
 
