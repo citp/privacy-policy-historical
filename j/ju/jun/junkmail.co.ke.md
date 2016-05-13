@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the junkmail.co.ke privacy policy that was archived on 2015-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150819032423id_/http%3A//www.junkmail.co.ke/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the junkmail.co.ke privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513214014id_/http%3A//www.junkmail.co.ke/privacy) for the most accurate reproduction.*
 
 # Junk Mail Kenya - Privacy Policy
 
