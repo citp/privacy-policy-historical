@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swiftgossip.com privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106034220id_/http%3A//www.swiftgossip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swiftgossip.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513182132id_/http%3A//swiftgossip.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Swift Gossip | SwiftGossip
 
