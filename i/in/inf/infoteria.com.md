@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infoteria.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109044642id_/http%3A//www.infoteria.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoteria.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513080259id_/https%3A//www.infoteria.com/en/privacy) for the most accurate reproduction.*
 
 # Build connection between enterprise systems including database connection and system intergration etc. | Infoteria Corporation
 
