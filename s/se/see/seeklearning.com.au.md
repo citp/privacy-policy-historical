@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the seeklearning.com.au privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225014442id_/http%3A//www.seeklearning.com.au/Privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seeklearning.com.au privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513101648id_/http%3A//www.seeklearning.com.au/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Seek Learning Australia
 
 ## 1\. Introduction
 
-SEEK Learning Pty Ltd (ABN 50 084 202 719) (" **SEEK Learning Australia** ") recognises the importance of your privacy and is committed to protecting any personal information we collect about you in accordance with the Australian Privacy Principles.
+SEEK Learning Pty Ltd (ACN 084 202 719) (" **SEEK Learning Australia** ") recognises the importance of your privacy and is committed to protecting any personal information we collect about you in accordance with the Australian Privacy Principles.
 
-Together with SEEK Commercial Pty Ltd (ABN 33 122 162 029) (“ **SEEK Commercial** ”), SEEK Learning Australia is a wholly owned subsidiary of SEEK Limited (ABN 46 080 075 314) (“ **SEEK** ”). In this Statement, references to “SEEK Learning Australia", "we", "us", "our" include references to SEEK, SEEK Learning Australia and SEEK Commercial. For the purposes of this Privacy Statement, the word "you" includes website visitors, SEEK Learning Australia registered users and purchasers of SEEK Learning Australia products and services.
+Together with SEEK Business Pty Ltd (ACN 122 162 029) (“ **SEEK Business** ”), SEEK Learning Australia is a wholly owned subsidiary of SEEK Limited (ACN 080 075 314) (“ **SEEK** ”). In this Statement, references to “SEEK Learning Australia", "we", "us", "our" include references to SEEK, SEEK Learning Australia and SEEK Business. For the purposes of this Privacy Statement, the word "you" includes website visitors, SEEK Learning Australia registered users and purchasers of SEEK Learning Australia products and services.
 
 **The purpose of this Privacy Statement is to inform you about:**
 
