@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the hellobar.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905075635id_/https%3A//www.hellobar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellobar.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514015735id_/https%3A//www.hellobar.com/privacy-policy) for the most accurate reproduction.*
 
 # Hello Bar
 
   1. **Some Definitions**  
-The terms “we,” “us,” and “Company” refer to digital-telepathy, a corporation organized and existing under the laws of the State of California, or any successor or assignee of the Company. We are in the business of providing an online platform that our customers may use to create and deploy “Hello Bar” embeddable JavaScript code snippets (which, when created using the “Services,” as defined below, are referred to as “Hello Bars”). The term “Hello Bar” refers either to the business or the online platform as the context requires. The term “Services” refers to the services offered by Hello Bar. The term “Member” refers to an individual or entity who or which is registered with us to use the Services. The term “you” refers to any Member (or other party whose contact information has been provided to us over the internet) who is reading this Privacy Policy, or on behalf of whom this policy is being read. The term “Website” refers to the website with the URL[http://www.hellobar.com](https://web.archive.org/ "Hello Bar"). The term “Personal Information” means information about an individual who is a Member and includes any “Supplemental Personal Information,” as defined in II.D., that we obtain.  
+The terms “we,” “us,” and “Company” refer to Hello Bar, a corporation organized and existing under the laws of the State of California, or any successor or assignee of the Company. We are in the business of providing an online platform that our customers may use to create and deploy “Hello Bar” embeddable JavaScript code snippets (which, when created using the “Services,” as defined below, are referred to as “Hello Bars”). The term “Hello Bar” refers either to the business or the online platform as the context requires. The term “Services” refers to the services offered by Hello Bar. The term “Member” refers to an individual or entity who or which is registered with us to use the Services. The term “you” refers to any Member (or other party whose contact information has been provided to us over the internet) who is reading this Privacy Policy, or on behalf of whom this policy is being read. The term “Website” refers to the website with the URL [http://www.hellobar.com](https://web.archive.org/ "Hello Bar"). The term “Personal Information” means information about an individual who is a Member and includes any “Supplemental Personal Information,” as defined in II.D., that we obtain.  
 
   2.  **Categories of Information We Collect**  
 
@@ -45,10 +45,7 @@ We do our best to keep your data accurate and up-to-date to the extent that you 
 This Privacy Policy is effective with respect to all data that we have collected, or collect, about and/or from you, both prior to your registration as a Member and/or during the Term, in accordance with the [Terms of Use](https://web.archive.org/terms-of-use "Hello Bar Terms of Use").  
 
   9.  **Questions**  
-If you have any questions, comments, or concerns or wish to update, delete or change any Personal Information submitted on this Site, or have any questions about our Privacy Policy, please notify us through postal mail at:digital-telepathy.  
- **Privacy Department**  
-16220 Ridgeview Lane  
-La Mirada, CA 90638  
-Updated 12/15/2014
+If you have any questions, comments, or concerns or wish to update, delete or change any Personal Information submitted on this Site, or have any questions about our Privacy Policy, please notify us via email at: support@hellobar.com  
+
 
 
