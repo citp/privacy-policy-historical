@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biggerpockets.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926071406id_/https%3A//www.biggerpockets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggerpockets.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513163902id_/https%3A//www.biggerpockets.com/privacy) for the most accurate reproduction.*
 
 # BiggerPockets Privacy Policy
 
@@ -6,7 +6,7 @@
 
 _Effective Date: August 12, 2015 (Updated 8/12/15)_
 
-BiggerPockets, Inc. (“BiggerPockets,” “we,” “us,” and “our”) owns and operates this website (this “Site”). This Online Privacy Policy (this “Policy”) describes our commitment to privacy and reflects the importance we place on earning and keeping your trust. 
+Thank you for using this service, which is owned and operated by BiggerPockets, Inc. (“BiggerPockets,” “we,” “us,” and “our”) owns and operates this website (this “Site”). This Online Privacy Policy (this “Policy”) describes the information we collect from or about you through the BiggerPockets-owned websites and mobile apps on which it is posted (collectively referred to as this "site"). It also describes how we use and share that information and some of the steps we take to protect your privacy. 
 
 ### Scope of This Policy
 
@@ -68,13 +68,15 @@ The information we collect using cookies and similar technologies is not, in and
 
 ### Information About Third-Party Cookies
 
-In addition to the cookies BiggerPockets delivers to your computer or mobile device through this Site, certain third parties may deliver cookies to you for a variety of reasons. 
+In addition to the cookies BiggerPockets delivers to your computer or mobile device through this Site, certain third parties may deliver cookies to you for a variety of reasons. For example, we may use Google Analytics, including the following Google Analytics Advertising Features: Adsense, Adwords, Doubleclick, Remarketing. To learn more about Google Analytics, [click here](http://www.google.com/intl/en/analytics/privacyoverview.html). Please note that the Google Analytics opt-out browser add-on does not prevent information from being sent to Pella. 
 
-For example, we may use Google Analytics, including the following Google Analytics Advertising Features: Adsense, Adwords, Doubleclick, Remarketing. To learn more about Google Analytics, [click here](http://www.google.com/intl/en/analytics/privacyoverview.html). To prevent your data from being used by Google Analytics, download the Google Analytics opt-out browser add-on by [clicking here](https://tools.google.com/dlpage/gaoptout?hl=en). To opt out of Google Analytics Advertising Features, [click here](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TCjGoAPC4CJgxsU8GNblH-yhkuHMRl2IXSPtss9zCO52HXdIcglyBPtQO1eFrk8f7t2lc8WDOqNpDobE2uB0aqcDevjp46s8wcpNWQwmN-91X6vQxDao6-7xhAxo0dkFq8lotfEcb3nAGsTwS8LfPivsPgTYwj58gOU-O6roFyQOMHa70yI).
+Other third parties may also deliver cookies to your computer or mobile device for the purpose of tracking your online behaviors across non-affiliated websites and delivering targeted advertisements either on this Site or on other websites.
 
-Other third parties may also deliver cookies to your computer or mobile device for the purpose of tracking your online behaviors over time and across nonaffiliated websites and/or delivering targeted or retargeted advertisements either on this Site or on other websites. You may opt-out from receiving targeted advertisements from certain online advertisers by visiting the NAI website opt-out page here: http://www.networkadvertising.org/choices/ or the DAA opt-out page here: http://www.aboutads.info/ or, for EU users, the EDAA opt-out page here: http://youronlinechoices.eu/.
+If you would like to opt-out of having participating entities collect your online behavior for advertising purposes when you are browsing websites, [click here](http://www.aboutads.info/choices) for a "Website Opt Out." You will be directed to an industry-developed website that allows you to choose whether each listed entity may collect and use data for interest-based advertising purposes. It may be that some of the third parties that collect interest-based information on this Site do not participate in the Website Opt Out, in which case the best way to avoid the third-party tracking of your online behaviors may be through your browser settings and deletion of cookies.
 
-If you would like to opt-out of having interest-based information collected by certain entities during your visits to this Site or other websites, please [click here](http://www.aboutads.info/choices). You will be directed to an industry-developed website that contains mechanisms for choosing whether each listed entity may collect and use data for online behavioral advertising purposes. It may be that some of the third parties that collect interest-based information on this Site do not participate in the industry-developed opt-out website, in which case the best way to avoid third-party tracking of your online behaviors may be through your browser settings and deletion of cookies.
+The Website Opt Out described above only works on websites. To opt out of having participating entities track your behaviors for advertising purposes when you are using our mobile apps, download and use the Digital Advertising Alliance's "App Choices" app. As with the Website Opt Out, the "Mobile App Opt Out" prevents tracking only by participating entities.
+
+Please note that the Website Opt Out and Mobile App Opt Out are device specific. If you wish to opt-out from having interest-based information collected by participating entities across all devices, you need to take the steps outlined above from each device.
 
 ### How We Use Your Information
 
