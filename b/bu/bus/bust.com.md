@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bust.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127064023id_/http%3A//bust.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bust.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513031617id_/http%3A//bust.com/info/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Info
+# Privacy Policy
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
@@ -13,7 +13,7 @@ Address
 Email address   
 Phone number   
 Credit/Debit Card Information   
-(etc.) 
+(etc.)
 
 
 On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are:
@@ -21,7 +21,7 @@ On some pages, you can submit information about other people. For example, if yo
 Name   
 Address   
 Phone Number   
-(etc.) 
+(etc.)
 
 
 **The Way We Use Information:**
@@ -50,7 +50,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **How You Can Access Or Correct Your Information**
 
-You can access all your personally identifiable information that we collect online and maintain bysending an eamil to [admin@bust.com](mailto:admin@bust.com). We use this procedure to better safeguard your information.
+You can access all your personally identifiable information that we collect online and maintain bysending an eamil to admin@bust.com. We use this procedure to better safeguard your information.
 
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
 
@@ -58,4 +58,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please call us at 212 676 1707 or send us an email at [admin@bust.com](mailto:admin@bust.com).
+Should you have other questions or concerns about these privacy policies, please call us at 212 676 1707 or send us an email at admin@bust.com.
