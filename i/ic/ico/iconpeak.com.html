@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the iconpeak.com privacy policy that was archived on 2015-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151220193723id_/http%3A//iconpeak.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iconpeak.com privacy policy that was archived on 2016-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160513221054id_/http%3A//iconpeak.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -120,12 +120,40 @@ var mailchimpSF = {"ajax_url":"http:\/\/iconpeak.com\/"};
 		</noscript>
     
 <!-- BEGIN GADWP v4.8.2 Universal Tracking - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+<script type="text/javascript">
+(function($){
+    $(window).load(function() {
+        
+            //Track Downloads
+            $('a').filter(function() {
+                return this.href.match(/.*\.(zip|mp3*|mpe*g|pdf|docx*|pptx*|xlsx*|rar*)(\?.*)?$/);
+            }).click(function(e) {
+                ga('send','event', 'download', 'click', this.href);
+            });
+
+            //Track Mailto
+            $('a[href^="mailto"]').click(function(e) {
+                ga('send','event', 'email', 'send', this.href);
+             });
+            
+            //Track Outbound Links
+            $('a[href^="http"]').filter(function() {
+                if (!this.href.match(/.*\.(zip|mp3*|mpe*g|pdf|docx*|pptx*|xlsx*|rar*)(\?.*)?$/)){
+                    if (this.href.indexOf('iconpeak.com') == -1) return this.href;
+                }
+            }).click(function(e) {
+                ga('send','event', 'outbound', 'click', this.href);
+            });
+		    		                });
+})(jQuery);
+</script>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
   ga('create', 'UA-41559965-1', 'auto');
+  ga('require', 'displayfeatures');
   ga('send', 'pageview');
 </script>
 <!-- END GADWP Universal Tracking -->
