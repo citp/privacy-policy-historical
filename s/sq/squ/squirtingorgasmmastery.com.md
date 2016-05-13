@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the squirtingorgasmmastery.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203091549id_/http%3A//squirtingmastery.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squirtingorgasmmastery.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513140726id_/http%3A//squirtingmastery.com/privacy.html) for the most accurate reproduction.*
 
-# Squirting Mastery Privacy Policy
+# Squirting Mastery | Privacy Policy
 
 Overview
 
@@ -38,6 +38,9 @@ If we decide to change our privacy policy for Squirting Mastery, we will post th
 
 Contact
 
-If you have any questions concerning our privacy policy you can contact us at support@2girlsteachsex.com   
+If you have any questions concerning our privacy policy you can contact us at support@2girlsteachsex.com
+
   
-We take your privacy very seriously. ©2001-2013 ISN Education, LLC. All Rights Reserved. This website is for ADULTS ONLY. The videos and images in this site are intended to be used by responsible adults as sexual aids, to provide sexual education and to provide sexual entertainment. If you've read and fully understand the above agreement, and you affirm and swear that viewing/downloading/receiving sexually explicit materials does not violate the standards of your community, that you won't make any of the materials available to minors in any form, that you believe it is your constitutional right to view these materials, that you are wholly liable for any legal ramifications that may arise for your receiving or viewing of these materials and that you are over the age of 18. If you do not agree exit immediately.
+
+
+©2001-2020 ISN Education, LLC. All Rights Reserved 
