@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the ereaderiq.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104013051id_/http%3A//www.ereaderiq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ereaderiq.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513163640id_/http%3A//www.ereaderiq.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | eReaderIQ
-
-If you are having trouble finding our menu or filters, click on the green menu icon __at the top-left of the page.
-
-If you do not see the icon, and there is no menu on the left side of the page, please let me know using the "Contact Us" link in the footer of any page.
-
-Please include the type of device you are on (desktop, tablet or phone), the make and model, and which web browser you are using.
-
-Thank you for using eReaderIQ!
 
 _Updated: 2015-01-15_
 
@@ -28,7 +20,7 @@ We do not divulge any of our collected information to third-parties. Any and all
 
 ### Cookies
 
-For purposes of our Website, a cookie is defined as a file stored on a user's computer that collects and stores information about the user. In addition to Cookies, we may use a session ID cookie which is an information file that collects data that terminates when the browser is closed. We also may use persistent cookies that remain stored on a user's hard drive for an extended period of time. We utilize Cookies for user convenience and to save personal preference choices that you set during visits to the Website. We do not use Cookies to track personal information such as an email address or phone number.
+For purposes of our Website, a cookie is defined as a small file stored on a user's computer that collects and stores information about the user. In addition to Cookies, we may use a session ID cookie which is an information file that collects data that terminates when the browser is closed. We also may use persistent cookies that remain stored on a user's hard drive for an extended period of time. We utilize Cookies for user convenience and to save personal preference choices that you set during visits to the Website. We do not use Cookies to track personal information such as an email address or phone number. You may disable any cookies already stored on your computer, but doing so may stop our website from functioning properly.
 
 Third party vendors, including Google, use cookies to serve ads based on your prior visits to our website. Google's use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visit to our site and/or other sites on the Internet. You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [www.aboutads.info](http://www.aboutads.info/).
 
