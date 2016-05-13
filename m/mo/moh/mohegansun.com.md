@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mohegansun.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226150412id_/http%3A//mohegansun.com/about-mohegan-sun/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mohegansun.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513053921id_/https%3A//mohegansun.com/about-mohegan-sun/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Mohegan Sun
 
@@ -12,7 +12,7 @@ The information collected online is used for email broadcasts utilizing tailored
 
 ### Information Collected at Mohegan Sun
 
-In addition to the information collected online, patrons may sign up to become a Momentum member upon visiting Mohegan Sun. All personal information collected at any Player's Club booth including name, address, phone number and email address is placed in a database that is not shared or sold with any third party.
+In addition to the information collected online, patrons may sign up to become a **[Momentum](https://web.archive.org/momentum.html) **member upon visiting Mohegan Sun. All personal information collected at any Player's Club booth including name, address, phone number and email address is placed in a database that is not shared or sold with any third party.
 
 ### Management of User Information
 
@@ -24,9 +24,10 @@ This site is not intended for children. Children may use this site only with the
 
 ### If You Have a Question
 
-If you have a question regarding any of the above information, please contact us at the following email address and we will be happy to get back to you. Contact [information@mohegansun.com](mailto:information@mohegansun.com)
+If you have a question regarding any of the above information, please contact us at the following email address and we will be happy to get back to you. Contact **[information@mohegansun.com](mailto:information@mohegansun.com)**
 
-You may also contact us by mail using the address below.  
+You may also contact us by mail using the address below:
+
 1 Mohegan Sun Boulevard  
 Uncasville, CT 06382
 
