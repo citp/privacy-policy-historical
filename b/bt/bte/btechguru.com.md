@@ -1,20 +1,19 @@
-> *The following text is extracted and transformed from the btechguru.com privacy policy that was archived on 2015-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150808004607id_/https%3A//www.btechguru.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btechguru.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513172336id_/https%3A//www.btechguru.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | BTechGuru.com
+# Privacy Policy
 
-## Privacy Policy
+#### **Privacy Policy**
 
 #### 1\. GENERAL PRINCIPLES
 
 Protecting your privacy is very important to us. We have accordingly developed this Privacy Policy to protect your personal information and keep it confidential. We endeavor to comply with laws of other countries but cannot and do not warrant that we do. We do everything we reasonably can to protect your rights of privacy on systems and the Website controlled by us, but we are not liable for any unauthorized or unlawful disclosures of your personal and confidential information made by third parties who are not subject to our control, for example advertisers and websites that have links to our Website. You should take note that the information and privacy practices of our business partners, advertisers, sponsors or other sites to which we provide hyperlinks, may be different from ours.
 
-We want you to  
+We want you to
 
-
-  1. feel comfortable using our web sites
-  2. feel secure submitting information to us
-  3. contact us with your questions or concerns about privacy on this site
-  4. know that by using our sites you are consenting to the collection of certain data
+  * feel comfortable using our web sites
+  * feel secure submitting information to us
+  * contact us with your questions or concerns about privacy on this site
+  * know that by using our sites you are consenting to the collection of certain data
 
 
 
