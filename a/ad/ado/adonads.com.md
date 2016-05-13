@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adonads.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608223009id_/http%3A//www.adonads.com/privacy-terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adonads.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513082317id_/http%3A//www.adonads.com/privacy-terms.html) for the most accurate reproduction.*
 
-# Privacy Terms | Adonads.com
+# Adonads.com | Monetize Your browser addon!
 
 ####  Privacy Statement 
 
