@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrc.gov privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905054857id_/http%3A//www.nrc.gov/site-help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrc.gov privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513115934id_/http%3A//www.nrc.gov/site-help/privacy.html) for the most accurate reproduction.*
 
 # NRC: Privacy Policy and Security Notice
 
@@ -41,7 +41,7 @@ When you visit our site, we automatically collect and store the following inform
 
 For site management, NRC maintains an operational log of site user addresses. This log is used to generate site usage statistics, track operational problems, and investigate suspected unauthorized activities. Information in this log about individual users is shared only with appropriate law enforcement entities, if necessary, to investigate or prosecute unlawful activities conducted on or against this site.
 
-NRC is connected to the internet through one of the General Services Administration's vendor managed services which is fully compliant with the Trusted Internet Connection Initiative (Office of Management and Budget's November 20, 2007, Memorandum M-08-05, “Implementation of Trusted Internet Connection.”)
+NRC is connected to the internet through one of the General Services Administration's vendor managed services which is fully compliant with the Trusted Internet Connection Initiative (Office of Management and Budget's (OMB) November 20, 2007, Memorandum M-08-05, “Implementation of Trusted Internet Connection.”)
 
 ## Use and Privacy of Information Submitted
 
@@ -63,13 +63,13 @@ If any personal information you provide will be maintained in an [NRC Privacy Ac
 
 ### B. Section 2.390 Public Inspections, Exemptions, Requests for Withholding
 
-Under [Section 2.390 of Title 10 of the _Code of Federal Regulations_](https://web.archive.org/reading-rm/doc-collections/cfr/part002/part002-0390.html) NRC may make submissions of information to the NRC publicly available unless the submitter specifically requests the agency not to do so. To withhold information from public disclosure on the grounds that it contains trade secrets or privileged or confidential, commercial, or financial information, an affidavit justifying the request to withhold information from public disclosure must accompany the submitted information.
+Under [Section 2.390 of Title 10 of the _Code of Federal Regulations_](https://web.archive.org/reading-rm/doc-collections/cfr/part002/part002-0390.html) NRC may make submissions of information to the NRC publicly available unless the submitter specifically requests the agency not to do so. To withhold information from public disclosure on the grounds that it contains trade secrets or commercial or financial information that is privileged or confidential, an affidavit justifying the request to withhold information from public disclosure must accompany the submitted information, and the information must be appropriately marked.  Section 2.390 provides additional details regarding these requirements.
 
 We do not sell any personal information to third parties.
 
 ## Retention and Disposal of Information Submitted at this Site
 
-Retention and disposal of electronically submitted information depend on the subject matter and is handled according to the principles of the Federal Records Act and the regulations and records schedules approved by the National Archives and Records Administration (NARA) General Records Schedules.
+Retention and disposal of electronically submitted information depend on the subject matter and are handled according to the principles of the Federal Records Act and the regulations and records schedules approved by the National Archives and Records Administration (NARA).
 
 ## Children's Privacy
 
@@ -77,7 +77,7 @@ We do not solicit information from children. If teachers or parents have questio
 
 ## Use of Cookies
 
-"Cookies" are small bits of text that are used either for the length of a visit ("session cookies") or saved on a user's hard drive to identify that user, or information about that user, the next time the user logs on to a Web site ("persistent cookies"). We use "session cookies" as place-keepers to retain context during an individual user session. They assist with movement throughout the site during that visit without any capacity to track users over time and across different Web sites. Session cookies are deleted at the end of a visit or they expire in a short time. We do not use persistent cookies or other persistent tracking technologies at this Web site except for users of our site search. You may disable cookies in the Web browser's preferences menu without affecting your ability to perform this type of search. Refer to your browser's preferences for more information on disabling cookies.
+"Cookies" are small bits of text that are used either for the length of a visit ("session cookies") or saved on a user's hard drive to identify that user, or information about that user, the next time the user logs on to a Web site ("persistent cookies"). We use "session cookies" as place-keepers to retain context during an individual user session. They assist with movement throughout the site during that visit without any capacity to track users over time and across different Web sites. Session cookies are deleted at the end of a visit or they expire in a short time. We do not use persistent cookies or other persistent tracking technologies at this Web site except for users of our site search and users who are prompted to take our site survey. The sole purpose of the site survey cookie is to reduce the frequency at which the survey is presented, thereby minimizing the effect of the survey on the user's experience at our site. You may disable cookies in the Web browser's preferences menu without affecting your ability to perform this type of search or complete the survey. Refer to your browser's preferences for more information on disabling cookies.
 
 NRC's use of third party social media services enables the NRC to conduct its Open Government activities in new and innovative ways, while complying with applicable laws, policies and regulations. The use of social media represents a strategic communication mechanism to help the NRC expand outreach efforts to engage new audiences and enable two-way dialogue with the public. These tools will be used to help individuals and organizations better understand the NRC's mission, roles, responsibilities, actions, and policies as well as provide them with more easily accessible information on specific topics of interest. NRC will not collect or solicit personally identifiable information (PII) through these outlets, but may occasionally come into contact with unsolicited PII due to circumstances beyond our control. As a result, NRC reserves the right to moderate or remove comments that offer PII. To protect your privacy, do not include PII in your comments or responses. Social media platforms currently being used by the NRC:
 
@@ -118,7 +118,7 @@ The NRC Web site includes hypertext links to information created and maintained 
 
 ## Security
 
-For site security purposes and to ensure that this site remains available to all users, NRC employs software programs that monitor network traffic to identify unauthorized attempts to upload or change information or to otherwise cause damage. Unauthorized attempts to upload information or change information on this server are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
+For site security purposes and to ensure that this site remains available to all users, NRC employs software programs that monitor network traffic to identify unauthorized attempts to upload or change information or to otherwise cause damage. Unauthorized attempts to upload information or change information on this server are strictly prohibited and may be punishable under Federal law (see Section 1030 of Title 18 of the United States Code).
 
 Except for authorized law enforcement investigations and the gathering of site usage statistics, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with guidelines approved by NARA.
 
@@ -132,10 +132,10 @@ NRC uses a Web measurement survey to provide visitors to its Web site the opport
 
 ## NRC Plan to Eliminate the Unnecessary Collection and Use of Social Security Numbers
 
-In response to the Office of Management and Budget (OMB) May 22, 2007, memorandum (M-07-16), "Safeguarding Against and Responding to the Breach of Personally Identifiable Information," the U.S. Nuclear Regulatory Commission (NRC) established a plan ([ML12307A130](http://pbadupws.nrc.gov/docs/ML1230/ML12307A130.pdf)) to eliminate the unnecessary collection and use of the Social Security number (SSN) by November 22, 2008, in compliance with OMB's eighteen month time frame. All actions identified in the plan have been completed. To build on the efforts identified in its plan, the NRC continues to implement actions to identify and eliminate or reduce the unnecessary collection and use of all personally identifiable information, which includes the SSN.
+In response to the OMB May 22, 2007, memorandum (M-07-16), "Safeguarding Against and Responding to the Breach of Personally Identifiable Information," the NRC established a plan ([ML12307A130](https://web.archive.org/docs/ML1230/ML12307A130.pdf)) to eliminate the unnecessary collection and use of the Social Security number (SSN) by November 22, 2008, in compliance with OMB's eighteen month time frame. All actions identified in the plan have been completed. To build on the efforts identified in its plan, the NRC continues to implement actions to identify and eliminate or reduce the unnecessary collection and use of all personally identifiable information, which includes the SSN.
 
 ## NRC Personally Identifiable Information Breach Notification Policy
 
-In accordance with established policy, the U.S. Nuclear Regulatory Commission (NRC) actively protects personally identifiable information from access by, or disclosure to, unauthorized individuals. The purpose of this document is to reiterate policy and establish standardized response and notification procedures for breaches of that policy. In the event of a breach in PII security requirements, agency personnel are to comply with the following procedures for response and notice to affected individuals, other Federal agencies, and the media, as appropriate. These policies and procedures govern breaches by agency personnel that may result in unauthorized access, either internal or external to the NRC, whether involving electronic systems or paper documents. For more details, please see [ML14036A058](http://pbadupws.nrc.gov/docs/ML1403/ML14036A058.pdf).
+In accordance with established policy, the NRC actively protects personally identifiable information from access by, or disclosure to, unauthorized individuals. The purpose of the NRC Personally Identifiable Information Breach Notification Policy is to reiterate policy and establish standardized response and notification procedures for breaches of that policy. In the event of a breach in PII security requirements, agency personnel are to comply with the specified procedures for response and notice to affected individuals, other Federal agencies, and the media, as appropriate. These policies and procedures govern breaches by agency personnel that may result in unauthorized access, either internal or external to the NRC, whether involving electronic systems or paper documents. For more details, please see [ML14036A058](https://web.archive.org/docs/ML1403/ML14036A058.pdf).
 
-_Page Last Reviewed/Updated Tuesday, October 28, 2014_
+_Page Last Reviewed/Updated Tuesday, April 05, 2016_
