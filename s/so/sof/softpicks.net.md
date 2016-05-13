@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softpicks.net privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315035253id_/http%3A//www.softpicks.net/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softpicks.net privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513220531id_/http%3A//www.softpicks.net/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
