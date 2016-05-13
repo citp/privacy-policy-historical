@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sprayable.co privacy policy that was archived on 2015-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151129212150id_/http%3A//sprayable.co/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sprayable.co privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513230316id_/http%3A//sprayable.co/pages/privacy-policy) for the most accurate reproduction.*
 
 # Sprayable Energy | Sprayable Sleep | Melatonin Sleep Spray
 
