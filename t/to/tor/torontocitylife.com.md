@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torontocitylife.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607190621id_/http%3A//www.torontocitylife.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torontocitylife.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513124358id_/http%3A//www.torontocitylife.com/privacy) for the most accurate reproduction.*
 
 # Toronto City Life » Privacy
 
