@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the storypark.com privacy policy that was archived on 2015-03-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150320193324id_/https%3A//www.storypark.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the storypark.com privacy policy that was archived on 2016-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160513135417id_/https%3A//www.storypark.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
   <title>Privacy Policy | Storypark</title>
   <meta charset="utf-8">
-<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NWH39N"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"90d3fd6549","applicationID":"992389","transactionName":"cFZfERFaWVVQEE5cBEFSVBEKW1IWRRAIRwRQQG4VDFlcWkw=","queueTime":13,"applicationTime":39,"agent":"js-agent.newrelic.com/nr-627.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYFVlFVGwoJVlJaDg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&u&&u.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=l.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-627.min.js"},l=e.exports={offset:i(),origin:p,features:{}};u[f]?(u[f]("DOMContentLoaded",o,!1),c[f]("load",n,!1)):(u[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+<script src="https://js-agent.newrelic.com/nr-943.min.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NWH39N"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/1wscsFNramoYnvbH5C9bi2fwX7PSuaNc/analytics.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"90d3fd6549","applicationID":"992389","transactionName":"cFZfERFaWVVQEE5cBEFSVBEKW1IWRRAIRwRQQG4VDFlcWkw=","queueTime":0,"applicationTime":30,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYFVlFVGwoJVlJaDg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(11),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(12),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),c.xhrWrappable&&t(6),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(13)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(13)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(13)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){y.push(t),h&&(g=-g,x.data=g)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(13)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var w=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,w),w.prototype=p.prototype,d.inPlace(w.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,x=document.createTextNode(g);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(8),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(10),m=window.XMLHttpRequest;s.features.xhr=!0,t(6),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(11),a=t(12);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],11:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],12:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],13:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(12),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([y,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},y={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return y}function i(){return new r}var a="nr@context",s=t("gos"),c=t(11),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(11),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(9);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-943.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,7]);</script>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="//fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,600,700" rel="stylesheet" type="text/css">
-  <link rel="shortcut icon" type="image/x-icon" href="https://d33wypxtmi63vh.cloudfront.net/assets/favicon-758c6521de760a310d22530d9de2f427.ico">
+  <link rel="shortcut icon" type="image/x-icon" href="https://d1f34qwh8rni3t.cloudfront.net/assets/favicon-91394af6f980497ad187a1d102a64be4.ico">
 
     <meta name="description" content="Storypark takes privacy very seriously.">
 
@@ -18,10 +18,10 @@
 <meta property="og:title" content="Storypark">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.storypark.com">
-<meta property="og:image" content="https://d33wypxtmi63vh.cloudfront.net/assets/marketing/facebook-image-1-54d5e11bae3ff3f19c93f751e032a141.jpg">
-<meta property="og:image" content="https://d33wypxtmi63vh.cloudfront.net/assets/marketing/engaged-families-e68b65c4d1b8982fdeb720bdfdea9918.jpg">
-<meta property="og:image" content="https://d33wypxtmi63vh.cloudfront.net/assets/marketing/enlightened-teachers-0da9ce43c41efb82638d7b027efc81e9.jpg">
-<meta property="og:image" content="https://d33wypxtmi63vh.cloudfront.net/assets/marketing/mobile-hand-small-51fac8da960ea0b660fe8f92681c9a7f.jpg">
+<meta property="og:image" content="https://d1f34qwh8rni3t.cloudfront.net/assets/marketing/facebook-image-1-c2c66ecf0fcc1b4ab3723b136444f02a.jpg">
+<meta property="og:image" content="https://d1f34qwh8rni3t.cloudfront.net/assets/marketing/engaged-families-e3b03c11d08d42bdb3bdd88a7665b2a5.jpg">
+<meta property="og:image" content="https://d1f34qwh8rni3t.cloudfront.net/assets/marketing/enlightened-teachers-deae805fdb4618b4fe926bdb999884fa.jpg">
+<meta property="og:image" content="https://d1f34qwh8rni3t.cloudfront.net/assets/marketing/mobile-hand-small-f301233c91216e287b6aae07c74caea0.jpg">
 <meta property="og:site_name" content="Storypark">
 <meta property="fb:admins" content="731225423">
 <meta property="og:description" content="Software for early childhood teachers to easily create children’s e-portfolios &amp; learning stories online for free and share privately with family.">
@@ -40,27 +40,20 @@
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
   <![endif]-->
 
-  <link rel="stylesheet" media="screen" href="https://d33wypxtmi63vh.cloudfront.net/assets/application-2eb905a25b1ca6f108c656a4fe1144be.css">
+  <link rel="stylesheet" media="screen" href="https://d1f34qwh8rni3t.cloudfront.net/assets/application-abd79c54c089a82f01fb75e64a45be76.css">
   <meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="7G98A378iEYDmm8vUATtK1ZFamChMAtPJMaUSg0qKKquasXyPVxUKMV2iqDtiqJYwgwkAGEDRPYctHvAcqa39g==">
-  
-<script type="text/javascript">
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-    ga('create', 'UA-29746205-1', 'auto');
-
-  ga('require', 'displayfeatures');
-  ga('send', 'pageview');
+<meta name="csrf-token" content="8aHgFr2PLvLoZEXJy8NfHMClq28uOJW6PtQ10NW5dIneNAsckx6hAY81InI50EICVhNTkY5BLZpTddiTJbLIEw==">
+  <script>
+  !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.1.0";
+  analytics.load("1wscsFNramoYnvbH5C9bi2fwX7PSuaNc");
+  }}();
 </script>
 
+  
 </head>
 <body class="marketing privacy_policy">
-    <!-- Facebook conversion tracking code -->
-
-<!-- Google Tag Manager -->
+  <!-- marketing -->
+    <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NWH39N"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -69,6 +62,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-NWH39N');</script>
 <!-- End Google Tag Manager -->
+
     <div id="fb-root"></div>
   <script>
     window.fbAsyncInit = function() {
@@ -89,23 +83,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </script>
 
 
-  <div id="site-preloader"></div>
+  <div id="site-preloader" class="site-preloader"></div>
 
   
 <div id="header">
-  <div class="navbar container">
-    <div class="navbar-inner">
-      <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-        Menu
-      </button>
-      <a href="/" class="logo visible-desktop pull-left" title="Link to home page">
-        <img alt="Storypark logo" src="https://d33wypxtmi63vh.cloudfront.net/assets/marketing/logo-d44eddaf7e77928336123cafd8ce4428.png">
-      </a>
-
-      <a class="brand visible-tablet" href="/"></a>
-
-      <div class="pull-right actions">
-        <a data-action="sign-up" class="btn btn-primary pull-left" title="Sign up to Storypark" href="#">Try for free</a>
+<div class="navbar container">
+<div class="navbar-inner">
+<button class="btn btn-navbar" data-target=".nav-collapse" data-toggle="collapse" type="button">
+Menu
+</button>
+<a class="logo visible-desktop pull-left" href="/" title="Link to home page">
+<img alt="Storypark logo" src="https://d1f34qwh8rni3t.cloudfront.net/assets/marketing/logo-ab69f864595d055c0f4b16af9a79b662.png">
+</a>
+<a class="brand visible-tablet" href="/"></a>
+<div class="pull-right actions">
+<a data-action="sign-up" class="btn btn-primary pull-left" title="Sign up to Storypark" href="#">Try for free</a>
 
 <div class="btn-group pull-right">
 
@@ -116,7 +108,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </a>
     <ul class="dropdown-menu">
       <li>
-        <form id="new_session" class="new_user" action="/users/sign_in" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="CEvYaxtjx3q1U4cKu9hsv0JS6dGJ61DeONxRLPpiN05KTmGaWMMbFHO/YoUGViPM1hunsUnYH2cArr6mhe6oEg==">
+        <form id="new_session" class="new_user" action="/users/sign_in" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="QDv4MmLcPG9yTsofk38hrsuY1RKoyqczukZ46SSBqJlvrhM4TE2znBUfraRhbDywXS4t7AizHxPX55Wq1IoUAw==">
         <label for="user_email">Email</label>
         <input type="email" value="" name="user[email]" id="user_email">
 
@@ -134,141 +126,206 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </ul>
 </div>
 
-      </div>
-
-      <div class="nav-collapse collapse">
-        <ul class="nav pull-right">
-          <li class="nav-links"><a title="Benefits and features for teachers" href="/for_teachers">Teachers</a></li>
-          <li class="nav-links"><a title="Benefits and features for families" href="/for_families">Families</a></li>
-          <li class="nav-links"><a title="Pricing page" href="/pricing">Pricing</a></li>
-          <li class="dropdown nav-links">
-            <a class="dropdown-toggle" data-toggle="dropdown" title="More links">More<i class="icon-caret-down"></i></a>
-            <ul class="dropdown-menu">
-              <li>
-                <a title="About us" href="/about">About</a>
-              </li>
-              <li>
-                <a title="See the impact Storypark is having." href="/impact">Impact</a>
-              </li>
-              <li>
-                <a title="Read testimonials from Storypark users" href="/testimonials">Testimonials</a>
-              </li>
-              <li>
-                <a title="Learn about cybersafety" href="/cybersafety">Cybersafety</a>
-              </li>
-              <li>
-                <a href="http://pages.storypark.com/upcoming-eportfolio-webinars/" title="Upcoming Storypark webinars" target="_blank">Upcoming webinars</a>
-              </li>
-              <li>
-                <a href="https://storypark.zendesk.com/hc/en-us" title="Storypark help centre" target="_blank">Help centre</a>
-              </li>
-            </ul>
-          </li>
-        </ul>
-      </div><!--/.nav-collapse -->
-
-    </div>
-  </div>
+</div>
+<div class="nav-collapse collapse">
+<ul class="nav pull-right">
+<li class="nav-links"><a title="Benefits and features for teachers" href="/for_teachers">Teachers</a></li>
+<li class="nav-links"><a title="Benefits and features for families" href="/for_families">Families</a></li>
+<li class="nav-links"><a title="Pricing page" href="/pricing">Pricing</a></li>
+<li class="dropdown nav-links">
+<a class="dropdown-toggle" data-toggle="dropdown" title="More links">
+More
+<i class="icon-caret-down"></i>
+</a>
+<ul class="dropdown-menu">
+<li>
+<a title="About us" href="/about">About</a>
+</li>
+<li>
+<a title="See the impact Storypark is having." href="/impact">Impact</a>
+</li>
+<li>
+<a title="Read testimonials from Storypark users" href="/testimonials">Testimonials</a>
+</li>
+<li>
+<a title="Learn about cybersafety" href="/cybersafety">Cybersafety</a>
+</li>
+<li>
+<a title="Upcoming webinars" href="/webinars">Webinars</a>
+</li>
+<li>
+<a title="Blog" href="http://blog.storypark.com/">Blog</a>
+</li>
+<li>
+<a title="Careers" href="/careers">Careers</a>
+</li>
+<li>
+<a href="https://storypark.zendesk.com/hc/en-us" target="_blank" title="Storypark help centre">Help centre</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
 </div>
 
 
-<div class="full-width">  
+<div class="full-width">
   <div class="container">
     <div class="row">
       <div class="span12">
         <h1>Privacy Policy</h1>
-        <br>
-        <ul>
-          <li><a href="#Application">Application</a></li>
-          <li><a href="#Consent">Consent</a></li>
-          <li><a href="#Ownership">Ownership</a></li>
-          <li><a href="#Personal-and-statistical-information">Personal and Statistical Information</a></li>
-          <li><a href="#Use-of-content-and-information">Use of Content and Information</a></li>
-          <li><a href="#Security">Security</a></li>
-          <li><a href="#Canceling-your-account">Canceling your Account</a></li>
-          <li><a href="#Changes-and-updates">Changes and Updates</a></li>
-        </ul>
       </div>
     </div>
   </div>
 </div>
 
-<div class="container"> 
+<div class="container">
   <div class="container-white">
     <div class="row-fluid">
       <div class="span12">
         <br>
-        <p>Updated: 17 May 2013 <br> In order to keep pace with changes in our service, we have updated our Privacy Policy. We encourage you to read it carefully.</p>
-        <h3>Storypark Limited ("Storypark") takes the privacy of those who use our service ("Users") very seriously and is committed to holding all personal information in accordance with the requirements of the Privacy Act 1993 and any other applicable privacy legislation. Please take a moment to read this Privacy Policy so you understand how we collect, store, use and share your information. If you see anything that concerns you please email us at <a href="mailto:hello@storypark.com">hello@storypark.com</a> as we may be able to clarify the need for it or work with you to alter it.</h3>
-        <hr>
-        
-        <a id="Application"></a>
-        <h1>Application</h1>
-        <p>This Privacy Policy applies to all information submitted by Users on <a href="https://www.storypark.com">www.storypark.com</a> ("Website") or to Storypark directly, and any information that may be retrieved through the use of the application that Storypark offers through the Website ("Application").</p>
+        <p>Updated: January 2016</p>
+        <p>We know how important security and privacy is to you. They are at the heart of Storypark and as such we strive to make things as safe and clear as possible for everyone involved. From time to time we will review our Privacy Policy to keep pace with changes in our service. As a result of our recent review, we've updated our Privacy Policy. We encourage you to read it carefully.</p>
+        <p>This privacy policy sets out how Storypark Limited ("Storypark",”we”) treats the privacy of those who use our website www.storypark.com ("Website") and associated services and others with whom we interact.</p>
+        <p>We take privacy very seriously and are committed to dealing with personal information in accordance with the requirements of the Privacy Act 1993 (NZ), the Privacy Act 1988 (Cth) and any other applicable privacy legislation. Please take a moment to read this Privacy Policy so you understand how we collect, store, use and disclose personal information.</p>
+      </div>
+    </div>
 
-        <hr>
-        <a id="Consent"></a>
-        <h1>Consent</h1>
-        <p>By accessing the Website or using the Application, all Users consent to the collection, use, disclosure, storage and processing of their information in accordance with this Privacy Policy.</p>
-        
-        <hr>
-        <a id="Ownership"></a>
-        <h1>Ownership</h1>
-        <p>The Application allows Users to record, share and celebrate their child's development, including (but not limited to) images, videos and written stories posted to the Application by a User ("Content"). </p>
-        <p>Storypark does not own your Content, we simply store it for you. If the Content was yours to begin with, it remains yours after you put it into the Application. If you choose to close your account, you can download your Content, or we will endeavour to provide you with a way to remove your Content from the Application if you request this.</p>
-        
-        <hr>
-        <a id="Personal-and-statistical-information"></a>
-        <h1>Personal and Statistical Information </h1>
-        <p>We may collect personal and statistical information about your use of the Website and Application to improve the features and overall experience for our Users. The information Storypark may collect includes:</p>
-        <ul>
-          <li>
-            Personal information such as your name, organisation, e-mail address, contact preferences and transactional information such as your credit card number.
-          </li>
-          <li>
-            Statistical information such as pages accessed on the Website and Application, search terms, links that are clicked on, Website and Application visit times, browsers and operating systems, IP address, and cookies.
-          </li>
-        </ul>
-        <p>Users may request at any time to see the personal information that Storypark holds on its behalf or to correct or update any personal information (to the extent that Users are unable to do so on the Website or the Application). Please email us at <a href="mailto:hello@storypark.com">hello@storypark.com</a>.</p>
-        
-        
-        <hr>
-        <a id="Use-of-content-and-information"></a>
-        <h1>Use of Content and Information</h1>
-        <p>All information and Content that Users provide will only be used in connection with the operation of the Application or Website, to communicate with Users in relation to the Application, to comply with any legal obligations or in relation to any proposed purchase of Storypark or its business.</p>
-        
-        <hr>
-        <a id="Security"></a>
-        <h1>Security</h1>
+    <div class="row-fluid">
+      <div class="span12">
+        <h2><strong>1. Application</strong></h2>
+        <p>This Privacy Policy applies to all personal information obtained by Storypark, including, but not limited to when submitted by users of our website and/or the application that Storypark offers through the Website ("<strong>Application</strong>").</p>
+      </div>
+    </div>
+
+    <div class="row-fluid">
+      <div class="span12">
+        <h2><strong>2. Collection and Storage of Personal Information and Data</strong></h2>
+        <p>By accessing the Website or using the Application, all such users (“<strong>Users</strong>”) consent to the collection, use, disclosure, storage and processing of their information in accordance with this Privacy Policy.</p>
+        <p>We may collect <strong>personal information</strong> (being information about a person from which their identity is apparent or can reasonably be determined). This information can include names, dates of birth, email addresses, home and work addresses, telephone numbers and photographs. It can also include such information (where applicable) about a child. We will collect such information by lawful and fair means and not in an unreasonably intrusive way. We may collect personal information in circumstances including:</p>
+        <ol type="a">
+          <li>From you directly when you provide information to us (whether face to face or otherwise);</li>
+          <li>When an individual signs up or registers to use the Application;</li>
+          <li>When a photograph of an individual is loaded into the Application;</li>
+          <li>If materials created by a child include such personal information and are loaded into the Application by the child or other persons authorised by the child’s parent or guardian to do so;</li>
+          <li>In relation to a child, from that person’s parent or guardian, family member or Early Childhood Provider at a centre using the Application, or a professional care provider who has registered to use the Application;</li>
+          <li>In respect of sensitive information (as defined in privacy legislation) when such information is submitted in relation to a child or an adult in posts made by Users through the Application;</li>
+          <li>When you enter into a transaction with us using a credit card or method of payment other than cash;</li>
+          <li>When you interact with us on social media, visit our website and send an enquiry through or make a comment or other post at the Website;</li>
+          <li>When you sign up or subscribe to an email marketing list;</li>
+          <li>When we meet with an organisation wishing to do business with us (and an individual from that organisation provides personal information about themselves); and</li>
+          <li>When evaluating job applicants and personnel which may include collection of details such as employment history and educational qualifications. This may include “sensitive information”.</li>
+        </ol>
+      </div>
+    </div>
+
+    <div class="row-fluid">
+      <div class="span12">
+        <h2><strong>3. Use of Personal Information</strong></h2>
+        <p>We use personal information about you or your child for the purpose it was provided or￼collected, including in the following ways:</p>
+        <ol type="a">
+          <li>For the purposes of the collection described in (2) above;</li>
+          <li>To respond to enquiries received from you;</li>
+          <li>To perform authorised financial transactions with you and to help us to manage our accounts and administrative services;</li>
+          <li>To verify your identity;</li>
+          <li>To communicate with you and provide you with information (whether by email, post or other means) about our services, where you have requested or consented to receiving this from us or where this provision is otherwise permitted under the relevant legislation including under the Australian Privacy Principles, the Privacy Act 1993 (NZ) and other applicable legislation.</li>
+          <li>To notify you about changes to our services;</li>
+          <li>To receive and address feedback or complaints from you;</li>
+          <li>To protect our legal interests and fulfil our regulatory obligations (if and to the extent necessary); and</li>
+          <li>In other circumstances, with your prior consent.</li>
+        </ol>
+        <p>All those with whom we interact have the option to opt-out of receiving marketing communications from us. If you do not wish to continue to receive electronic marketing communications from us and/or selected third parties you should opt-out by clicking on the "unsubscribe" link in any email communications that we might send you.</p>
+        <p>We may use personal information for the purpose of marketing but only where such use complies with privacy legislation in effect in the relevant territory. We may, subject to legislative requirements, send occasional emails to you in relation to our current or future services. Any such emails will contain an unsubscribe link, enabling you to opt-out of these messages.</p>
+        <p>We take steps to regularly destroy data (being personal information and sensitive information) that does not need archiving and to de-identify stored data where identification of a person is not reasonably required or necessary.</p>
+      </div>
+    </div>
+
+    <div class="row-fluid">
+      <div class="span12">
+        <h2><strong>4. Disclosure of Personal Information</strong></h2>
+        <p>We will not sell your Personal Information to anyone. We share your Personal Information outside our organisation for limited purposes, such as to help us run our business and provide services. Those persons and business include:</p>
+        <ol type="a">
+          <li>Organisations who carry out credit, fraud and other security checks;</li>
+          <li>IT support providers; and</li>
+          <li>Marketing businesses engaged by us to disseminate materials to which recipients have consented.</li>
+        </ol>
+
+        <p>We may also disclose your personal information to third parties outside our organisation:</p>
+        <ol type="a">
+          <li>Where we have your express permission to do so or it can reasonably be inferred from the circumstances that you consent to the disclosure to the third parties;</li>
+          <li>If Storypark or substantially all of its assets were acquired by a third party, in which case personal information which we hold may be one of the transferred assets (subject to the same constraints on use and disclosure as under this policy); and</li>
+          <li>If we are under a duty or have a legal right to disclose or share personal information in order to comply with any legal obligation, or in order to enforce or apply our terms and conditions or to protect our rights, property, or the safety of our personnel and users. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.</li>
+        </ol>
+
+        <p>We limit the information we provide to third parties to the information they need to help us provide or facilitate the provision of goods and services and associated purposes. We deal with third parties that are required to meet the privacy standards required by law in handling your personal information, and use your personal information only for the purposes that we give it to them.</p>
+
+
         <p>
-          Storypark will securely store all Content and personal information, which may be transferred outside of New Zealand. 
+          <strong>Transborder data flows</strong>
         </p>
-        <p>
-        The Content and personal information stored in our system is protected by electronic and procedural safeguards. We take reasonable precautions to protect your Content and personal information from accidental loss and theft by storing it in secure data centres with off-site backups. Communication between our Users and our servers is encrypted via industry-standard secure sockets layer (SSL).
+
+        <p>The vast majority of personal information we handle is stored and hosted in Australia. &nbsp;&nbsp;<strong>All personal information relating to children on Storypark is hosted in Australia.&nbsp;&nbsp;<strong>
+        </strong></strong></p><strong><strong>
+
+        <p>Storypark’s head office is located in New Zealand, so some limited information about adult individuals (including customers) is transferred and /or stored there.</p>
+
+        <p>Some limited personal information may be provided to companies located in the USA who offer software as a service products that process content for inclusion on the Application (for example, conversion of images and videos to make them suitable for viewing online/ through a web browser). Those third parties located overseas are not permitted to (and are contractually obligated to not) access or use the personal information provided except for those limited purposes. We only choose reputable service providers and have agreements with such third parties that prevent them from using or disclosing to others the Personal Information we share with them, other than as is necessary to assist us.</p>
+      </strong></strong></div><strong><strong>
+    </strong></strong></div><strong><strong>
+
+    <div class="row-fluid">
+      <div class="span12">
+        <h2><strong>5. Security of personal information</strong></h2>
+        <p>We take all reasonable steps to protect personal information, including through internal and external security, restricting access to personal information to those who have a need to know, maintaining technological products to prevent unauthorised computer access and regularly reviewing our technology to maintain security. We choose technology partners based on their security and privacy policies and practices.</p>
+        <p>Personal information stored in our system is protected by electronic and procedural safeguards. We take reasonable precautions to protect personal information (and other content) from accidental loss and theft by storing it in secure data centres with off-site backups. Communication between Users and our servers is encrypted via industry-standard secure sockets layer (SSL).</p>
+        <p>The Application is protected by a secure and encrypted password that each User must choose themselves. Users should never share their passwords. Storypark is not responsible for any loss of data or breach of privacy if a User shares their password with someone else. We do not store your password on our servers.</p>
+
+        <p>Storypark takes all reasonable precautions to protect your data. Because internet transmissions cannot be guaranteed to be 100% secure, you acknowledge and agree that you use this service at your own risk.</p>
+      </div>
+    </div>
+
+    <div class="row-fluid">
+      <div class="span12">
+        <h2><strong>6. Questions and concerns and access to/ correction or updating of your personal information</strong></h2>
+        <p>You have a right to access the personal information we hold about you. To obtain a copy of the personal information we hold about you, or to update it, please write to us at:
+          <br>The Privacy Officer
+          <br>Storypark Limited
+          <br>PO Box 27239
+          <br>Marion Square
+          <br>Wellington 6141
+          <br>or by email to: <a href="mailto:hello@storypark.com">hello@storypark.com</a>
         </p>
-        <p>
-        The Application is protected by a secure and encrypted password that you must choose yourself. You should never share your password. Storypark is not responsible for any loss of data or breach of privacy if you share your password with someone else. We don’t store your password on our servers and no one at Storypark will ever ask you for it.
-        </p>
-        <p>
-        Storypark takes all reasonable precautions to protect your data. Because internet transmissions cannot be guaranteed to be 100% secure, you acknowledge and agree that you use this service at your own risk.</p>
-        
-        <hr>
-        <a id="Canceling-your-account"></a>
-        <h1>Canceling your Account</h1>
-        <p>If your Storypark account terminates (for whatever reason), the information associated with it may no longer be accessible to you. Any Content you have posted from your account may  still be available to other people associated with the children in your account. There may continue to be residual copies of such Content due to ongoing data back-up and archiving.</p>
-        
-        <hr>
-        <a id="Changes-and-updates"></a>
-        <h1>Changes and Updates</h1>
-        <p>
-          This Privacy Policy may be amended from time to time, with or without notice to Users. Your continued use of the Application constitutes your agreement to this Privacy Policy and any amendments to it. All Users agree to be bound by the Privacy Policy that is in effect at the time they access the Website or the Application.</p>
-        <p> 
-          We may send occasional emails to you in relation to our current or future services. Any such emails will contain an unsubscribe link, enabling you to opt-out of these messages.
+        <p>Please provide sufficient detail about the information in question to help us locate it. We will then use commercially reasonable efforts to promptly determine if there is a problem and take the necessary corrective action within a reasonable time. If a fee is charged for such access we will advise you of the cost in advance.</p>
+        <p>If you wish to complain about a breach of privacy legislation or have any questions about how we handle personal information please contact our Privacy Officer.</p>
+      </div>
+    </div>
+
+    <div class="row-fluid">
+      <div class="span12">
+        <h2><strong>7. Statistical Information</strong></h2>
+        <p>We may collect statistical (non-personal) information about your use of the Website and Application to improve the features and overall experience for our Users. The information Storypark may collect includes statistical information such as pages accessed on the Website and Application, search terms, links that are clicked on, Website and Application visit times, browsers and operating systems, IP address, and cookies.</p>
+      </div>
+    </div>
+
+    <div class="row-fluid">
+      <div class="span12">
+        <h2><strong>8. Cancelling your Account</strong></h2>
+        <p>If your Storypark account terminates (for whatever reason), the personal information associated with it may no longer be accessible to you. Any Content you have posted from your account may still be available to other people associated with the children in your account. There may continue to be residual copies of such Content due to ongoing data back-up and archiving.
         </p>
       </div>
     </div>
-  </div>
-</div>
+
+    <div class="row-fluid">
+      <div class="span12">
+        <h2><strong>9. Changes to our privacy policy</strong></h2>
+        <p>We may modify, alter or otherwise update this privacy policy at any time. We will post revisions on our website. We encourage you to review this policy from time to time.
+        </p>
+      </div>
+    </div>
+  </strong></strong></div><strong><strong>
+</strong></strong></div><strong><strong>
 <br>
 <br>
 <br>
@@ -305,6 +362,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
               <li>
                 <a title="About us" href="/about">About</a>
               </li>
+              <li>
+                <a title="See the impact Storypark is having." href="/impact">Impact</a>
+              </li>
             </ul>
           </div>
           <div class="span4">
@@ -316,7 +376,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <a title="Learn about cybersafety" href="/cybersafety">Cybersafety</a>
               </li>
               <li>
-                <a href="http://pages.storypark.com/upcoming-eportfolio-webinars/" title="Upcoming Storypark webinars" target="_blank">Upcoming webinars</a>
+                <a title="Upcoming Storypark webinars" href="/webinars">Webinars</a>
+              </li>
+              <li>
+                <a title="Think you can help us achieve our vision?" href="/careers">Careers</a>
               </li>
               <li>
                 <a href="http://blog.storypark.com" title="Storypark blog" target="_blank">Blog</a>
@@ -328,9 +391,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           </div>
           <div class="span4">
             <ul>
-              <li>
-                <a title="See the impact Storypark is having." href="/impact">Impact</a>
-              </li>
               <li>
                  <a href="https://www.storypark.com/for_families#photo-books" title="Photo books">Photo books</a>
               </li>
@@ -351,12 +411,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <ul id="social">
               <li>
                 <a href="https://itunes.apple.com/us/app/storypark/id867828317?mt=8" target="_blank" title="Download the Storypark iOS app">
-                  <img title="Download Storypark for iOS" alt="App Store logo" src="https://d33wypxtmi63vh.cloudfront.net/assets/marketing/app-store-badge-7c2f12cf5fc6a792f27d16529946dee5.png">
+                  <img title="Download Storypark for iOS" alt="App Store logo" src="https://d1f34qwh8rni3t.cloudfront.net/assets/marketing/app-store-badge-57d0aed57658755305b14336c660e23f.png">
                 </a>
               </li>
               <li>
                 <a href="https://play.google.com/store/apps/details?id=com.storypark.app.android" target="_blank" title="Download the Storypark Android app">
-                  <img title="Download Storypark for Android" alt="Play Store logo" src="https://d33wypxtmi63vh.cloudfront.net/assets/marketing/play-icon-7b76bd519fa442ac991fd5199f2ff40f.png">
+                  <img title="Download Storypark for Android" alt="Play Store logo" src="https://d1f34qwh8rni3t.cloudfront.net/assets/marketing/play-icon-3ba60f1e987ad485165c3b58920326b0.png">
                 </a>
               </li>
               <li class="pull-right">
@@ -367,7 +427,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
               </li>
             </ul>
-            <p class="small pull-right"> © 2014 Storypark. All rights reserved.</p>
+            <p class="small pull-right">© 2016 Storypark. All rights reserved.</p>
           </div>
         </div>
       </div>
@@ -375,13 +435,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <div class="span4 contact-us">
         <br>
         <h3>Send us a message</h3>
-        <p>Have a general enquiry?<br> If you'd like to get in touch, or find out more, please <a href="mailto:hello@storypark.com" title="Send us an email"><strong>send us a message</strong></a> and we’ll see what we can do for you.</p>
+        <p>Have a general enquiry?<br> If you'd like to get in touch, or find out more, please <a href="mailto:hello@storypark.com" title="Send us an email"><strong>send us a message</strong></a> and we'll see what we can do for you.</p>
 
         <h3>Want to talk to someone?</h3>
         <p>
-          Australia +613 9016 4443<br>
-          New Zealand +6421 204 7328<br>
-          Canada/USA +13 477 481 631
+          Australia 1800 225 147<br>
+          New Zealand 0800 003 233<br>
+          Japan +81­ 3­59 37­5 565<br>
+          USA/Canada: (Toll Free) 1 888 330 9658
         </p>
 
         <h3>Give us feedback</h3>
@@ -393,7 +454,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-  <script src="https://d33wypxtmi63vh.cloudfront.net/assets/application-73049a237987fcfbab4da9760db021f4.js"></script>
+
+
+  <script src="https://d1f34qwh8rni3t.cloudfront.net/assets/application-d5763e5811224998f5c3500d25a83c97.js"></script>
     <script>
     window.SJ.properties = window.SJ.properties || {};
     window.SJ.properties.signedIn = false;
@@ -408,5 +471,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       });
   </script>
 
+  <script>
+  window.SJ.Analytics.registerUser({});
+</script>
 
-<script src="https://js-agent.newrelic.com/nr-627.min.js"></script></body></html>
+  <!-- register non custom page -->
+  <script>
+  window.SJ.Analytics.registerPage({});
+</script>
+
+
+
+</strong></strong></body></html>
