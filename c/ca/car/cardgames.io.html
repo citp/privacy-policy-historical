@@ -1,132 +1,270 @@
-<!--The following is the downloaded HTML source of the cardgames.io privacy policy that was archived on 2015-10-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151026042444id_/http%3A//cardgames.io/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cardgames.io privacy policy that was archived on 2016-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160513113125id_/https%3A//cardgames.io/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
-        <title>PRIVACY POLICY</title>
+<!DOCTYPE html><html class="privacy"><head>
+    <title>CardGames.io - PRIVACY POLICY</title>
 
-        <meta charset="utf-8"> 
-        <link rel="stylesheet" href="/176/site.min.css">
+    <meta charset="utf-8"> 
+    <meta name="Description" content="CardGames.io - Privacy Policy. Read to understand what data we save when you play our games.">
+    
 
-        <link href="https://fonts.googleapis.com/css?family=Slackey" rel="stylesheet" type="text/css">
-        
-        
-         
-        <script async="" src="//www.google-analytics.com/analytics.js"></script><script>
-          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-          ga('create', 'UA-53255353-4', 'auto');
-          ga('send', 'pageview');
+    <link rel="stylesheet" href="/privacy/716/privacy.min.css">
+    <link rel="canonical" href="https://cardgames.io/privacy/">
+    <link rel="icon" href="/favicon.ico">
 
-        </script>
-        
+    
+    
+    <link href="https://fonts.googleapis.com/css?family=Slackey" rel="stylesheet" type="text/css">
+ 
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+        var category = 'PRIVACY POLICY';
+        var slug = 'privacy';
+    
 
-    </head>
-    <body>
-        <div id="wrapper">
-            <div id="page">
-                <a name="play"></a>
+    var defaultSiteSettings = {"acceptCookies": false, "svg": {"defaultValue": "onlyOnRetinaScreens", "allowedValues": ["onlyOnRetinaScreens", "always", "never"], "label": "Use SVG images"}, "playerImage": {"defaultValue": 0, "allowedValues": [0, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]}};
 
-                <div id="header">
-                    <div id="title">
-                         <h1>PRIVACY POLICY</h1>
-                    </div>
+    </script>
+    
 
-                    
-                    <div id="menucontainer">
-                        <ul id="menu">
-                            
-                            
-                        </ul>
-                    </div>
-                    
+     
+        <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-53019602-20', {'sampleRate': 10});
+      ga('send', 'pageview');
+
+    </script> 
+    
+
+    <script>
+    var date = new Date();
+
+    var supportsSvg = false;
+
+    try {
+        supportsSvg = document.implementation.hasFeature('http://www.w3.org/TR/SVG11/feature#Image', '1.1');
+    } catch(ex) {}
+
+    var theme = ''; //Special themes for Halloween, christmas etc.
+    
+    if (date.getDate() == 31 && date.getMonth() == 9) {
+        theme = 'halloween';
+    }
+
+    if (date.getMonth() == 11 && date.getDate() >= 10 && date.getDate() <= 26) {
+        theme = 'xmas';
+    }
+
+    var easterSundays = [new Date(2016,2,27), new Date(2017,3,16), new Date(2018,3,1), new Date(2019,3,21)];
+
+    var timestamp = date.getTime();
+    for (var i=0; i < easterSundays.length; i++) {
+        var easterSunday = easterSundays[i];
+        var oneDay = 24 * 60 * 60 * 1000;
+        var minDay = easterSunday.getTime() - 7*oneDay;
+        var maxDay = easterSunday.getTime() + oneDay;
+        if (timestamp >= minDay && timestamp < maxDay && supportsSvg) {
+            theme = 'easter';
+        }
+    }
+
+
+    if (document.cookie.indexOf(theme +'=0') != -1) {
+        //User has turned off the theme...
+        theme = '';
+    }
+
+    //Overrides...
+    if (document.location.search.match(/\btheme=(\w+)/)) {
+        theme = RegExp.$1;
+    }
+
+    if (theme) {
+        document.write("<link href='/shared/themes/716/" + theme + ".min.css' rel='stylesheet' type='text/css'>");
+        var html = document.getElementsByTagName('html');
+        if (html && html[0]) {
+            html[0].className += ' themed ' + theme;
+        }
+
+        function turnOffTheme(e) {
+            var html = document.getElementsByTagName('html')[0].className = slug;
+            document.cookie = theme + '=0; path=/';
+        }
+    }
+    </script>
+
+    
+    
+
+</head>
+<body>
+
+
+<!--*******************************************************************************************
+ This code is copyright (C) Rauðás Hugbúnaður ehf. (Red Ace Software LLC)
+
+ This code is NOT open source, and it is NOT permitted to use it on other sites, modify it
+ or otherwise use it for other purposes than playing on https://cardgames.io/privacy/
+
+ I've had to deal with multiple people stealing my work and I'm sick of it. 
+ Don't be a dick, write your own game!
+*******************************************************************************************-->
+
+
+    <a id="play"></a>
+    <div id="promo-links">
+         <div>
+          <a href="/hearts/">Hearts</a>
+          <a href="/spades/">Spades</a>
+          <a href="/ginrummy/">Gin Rummy</a>
+          <a href="/war/">War</a>
+          <a href="/rummy/">Rummy</a>
+          <a href="/spit/">Spit</a>
+          <a href="/sudoku/">Sudoku</a>
+          <a href="/euchre/">Euchre</a>
+          <a href="/whist/">Whist</a>      
+          <a href="/crazyeights/">Crazy Eights</a>
+          <a href="/idiot/">Idiot</a>
+          <a href="/switch/">Switch</a>
+          <a href="/gofish/">Go Fish</a>
+        </div>
+        <div>
+          <a href="/solitaire/">Solitaire</a>
+          <a href="/freecell/">Free Cell</a>
+          <a href="/spidersolitaire/">Spider Solitaire</a>
+          <a class="newest-game" href="/pyramidsolitaire/">Pyramid Solitaire</a>
+          <a class="newest-game" href="/yukonsolitaire/">Yukon Solitaire</a>
+          <a href="/minesweeper/">Minesweeper</a>
+          <a href="/yahtzee/">Yahtzee</a>
+        </div>
+    </div>    
+    <div id="wrapper">
+        <div id="draper-left" class="don-draper">
+            <label>Advertisement</label>
+            
+            
+            
+        </div>
+
+        <div id="page">
+
+            <div id="header">
+                <div id="title">
+                     <h1>PRIVACY POLICY</h1>
                 </div>
-                <div id="pagecontent">
-                    
-<div id="content" class="inner-page">
-	<p>
-		This site, <a href="/">cardgames.io</a>, and all the games on it are created by Rauðás Hugbúnaður ("Red Ace Software"), a small software company in Iceland. Here we will
-		explain what data we store, how we store it, how we use cookies and how our advertising works.
-	
-	</p><h3>Personal information</h3>
-	<p>
-		We do not store any personally identifiable data about users, such as name, location,
-		playing habits or anything else. We have no user accounts so we simply don't have that kind of
-		information available to us.
-	</p>
-	<h3>Aggregate data and statistics</h3>
-	<p>
-		We use a third-party service, Google Analytics, to track general usage patterns on our
-		websites. This data includes:
-	</p>
-		<ul>
-			<li>How many visits we get each day</li>
-			<li>How many unique visitors we get each day</li>
-			<li>Where in the world our visitors come from</li>
-			<li>How many games are won by the computer and how many by users</li>
-			<li>What search terms people used to find the page</li>
-		</ul>
-	<p>
-		We have no way of tying any of this data back to individual users. It's only available
-		to us as aggregate statistics. We use this data to understand which games are the most popular,
-		and to improve the games by looking at winning statistics and trying to make the computer players
-		win at least as much as the human players.
-	</p>
-	<h3>Log Files</h3>
-	<p>
-		We keep log files of visits to the site. These log files include information about your IP address,
-		the time of your visit, which page was visited and what type of browser was used. We can not tie
-		a visit to any personally identifiable information.
-	</p> 
-	<h3>Cookies</h3>
-	<p>
-		We use cookies (small bits of information stored on your computer) for a few things:
-	</p>
-	<ul>
-		<li>To remember which options you have chosen for the games.</li>
-		<li>To remember the score between rounds in the games.</li>
-	</ul>
 
-	<h3>Cookies &amp; 3rd Party Advertisements</h3>
-	<p>Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the <a href="http://www.google.com/privacy_ads.html">Google ad and content network privacy policy</a>.</p>
-
-	<p>We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <a href="http://www.networkadvertising.org/managing/opt_out.asp">http://www.networkadvertising.org/managing/opt_out.asp</a>.</p>
-
-	<h3>Game statistics stored on your own computer</h3>
-	<p>
-		This game may keep track of your game statistics, how many times you've won, lost or abandoned a game for example.
-		This data is only stored on your own computer, through a mechanism called <a href="http://www.w3.org/TR/webstorage/">HTML5 Local Storage</a>. This information
-		is never sent away from your computer, so no one other than you has access to it. You can delete this data by going to your
-		browser settings and clearing all data from this website.
-	</p>
-	<h3>Contact us</h3>
-	<p>
-		If you would like more information about any of the above, please do not hesitate to contact us at
-		<a href="mailto:raudashugbunadur@gmail.com">raudashugbunadur@gmail.com</a> with any questions or concerns.
-	</p>
-	<p style="text-align:center; margin:25px auto 40px auto;">
-		 <a href="/">Click here to go back to the frontpage</a>.
-	</p>
-
-</div>
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script>
-try {
-    if (typeof document.body.style.textShadow == 'undefined') {
-        $(document.body).addClass('notextshadow');
-    }
-    if (typeof document.body.style.boxShadow == 'undefined') {
-        $(document.body).addClass('noboxshadow');
-    }
-} catch(e) {}
-
-</script>
-
-
+                <div id="menucontainer">
+                    <ul id="menu">
+                        
+                    </ul>
                 </div>
             </div>
-        </div>
+            <div id="pagecontent">
+
+                
+
+                
+
+                <div id="theme-opt-out">
+                    Don't like the <span id="theme-name"></span> look? <a href="#" onclick="turnOffTheme()">Click here to remove it</a>
+                </div>
+            
+                
+<div id="content">
+    <p>
+        This site, <a href="/">CardGames.io</a>, is created by Rauðás Hugbúnaður ehf ("Red Ace Software LLC"), a small software company in Iceland. Here we will
+        explain what data we store, how we store it, how we use cookies and how our advertising works.
     
+    </p><h3>Personal information</h3>
+    <p>
+        We do not store any personally identifiable data about users, such as name, location,
+        playing habits or anything else. We have no user accounts so we simply don't have that kind of
+        information available to us.
+    </p>
+    <h3>Aggregate data and statistics</h3>
+    <p>
+        We use a third-party service, Google Analytics, to track general usage patterns on our
+        websites. This data includes:
+    </p>
+        <ul>
+            <li>How many visits we get each day</li>
+            <li>How many unique visitors we get each day</li>
+            <li>Where in the world our visitors come from</li>
+            <li>How many games are won by the computer and how many by users</li>
+            <li>What search terms people used to find the page</li>
+        </ul>
+    <p>
+        We have no way of tying any of this data back to individual users. It's only available
+        to us as aggregate statistics. We use this data to understand which games are the most popular,
+        and to improve the games by looking at winning statistics and trying to make the computer players
+        win at least as much as the human players.
+    </p>
+    <h3>Log Files</h3>
+    <p>
+        We keep log files of visits to the site. These log files include information about your IP address,
+        the time of your visit, which page was visited and what type of browser was used. We can not tie
+        a visit to any personally identifiable information.
+    </p> 
+    <h3>Cookies</h3>
+    <p>
+        We use cookies (small bits of information stored on your computer) for a few things:
+    </p>
+    <ul>
+        <li>To remember which options you have chosen for the games.</li>
+        <li>To remember the score between rounds in the games.</li>
+    </ul>
+
+    <h3>Cookies &amp; 3rd Party Advertisements</h3>
+    <p>Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the <a href="http://www.google.com/privacy_ads.html">Google ad and content network privacy policy</a>.</p>
+
+    <p>We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <a href="http://www.networkadvertising.org/managing/opt_out.asp">http://www.networkadvertising.org/managing/opt_out.asp</a>.</p>
+
+    <h3>Game statistics stored on your own computer</h3>
+    <p>
+        This game may keep track of your game statistics, how many times you've won, lost or abandoned a game for example.
+        This data is only stored on your own computer, through a mechanism called <a href="http://www.w3.org/TR/webstorage/">HTML5 Local Storage</a>. This information
+        is never sent away from your computer, so no one other than you has access to it. You can delete this data by going to your
+        browser settings and clearing all data from this website.
+    </p>
+    <h3>Contact us</h3>
+    <p>
+        If you would like more information about any of the above, please do not hesitate to contact us at
+        <a href="mailto:admin@cardgames.io">admin@cardgames.io</a> with any questions or concerns.
+    </p>
+    <p style="text-align:center; margin:25px auto 40px auto;">
+         <a href="/">Click here to go back to the frontpage</a>.
+    </p>
+
+</div>
+   
+ 
+
+
+                <p id="version-info">This is version 716 of CardGames.io</p>
+                
+
+            </div>
+            <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+            <script>
+                if (!window.jQuery) {
+                    document.write('<scr' + 'ipt src="https://d3hp2os08tb528.cloudfront.net/shared/lib/jquery-1.5.1.min.js"><' + '/script>');
+                }
+            </script><script src="https://d3hp2os08tb528.cloudfront.net/shared/lib/jquery-1.5.1.min.js"></script>
+            <script src="/privacy/716/privacy.min.js"></script>
+
+        </div>
+        <div id="draper-right" class="don-draper">
+            <label>Advertisement</label>
+            
+            
+            
+        </div>
+        <div style="clear:both;"><!-- --></div>
+    </div>
+    
+
 </body></html>
