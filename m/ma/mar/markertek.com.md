@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markertek.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922141838id_/http%3A//www.markertek.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markertek.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514014514id_/http%3A//www.markertek.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy: Markertek Video Supply
 
