@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asx.com.au privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006145117id_/http%3A//www.asx.com.au/about/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asx.com.au privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513125456id_/http%3A//www.asx.com.au/about/privacy-statement.htm) for the most accurate reproduction.*
 
 # Privacy Policy - ASX
 
@@ -33,15 +33,15 @@ Personal Information is collected in a variety of ways, including by way of pers
 
 We may collect Personal Information about:
 
-  * Individuals; 
-  * Shareholders; 
-  * Suppliers; 
-  * Employees; 
-  * Listed entities, Participants and Issuers; 
-  * Candidates for employment; 
-  * Potential new Participants; 
-  * Third parties seeking services; and 
-  * Other people who come into contact in the ordinary course of business. 
+  * Individuals;
+  * Shareholders;
+  * Suppliers;
+  * Employees;
+  * Listed entities, Participants and Issuers;
+  * Candidates for employment;
+  * Potential new Participants/clients;
+  * Third parties seeking services; and
+  * Other people who come into contact in the ordinary course of business.
 
 
 
@@ -93,15 +93,15 @@ ASX will take reasonable steps to ensure that Personal Information held about yo
 
 ASX Group collects Personal Information from the web site [www.asx.com.au](http://www.asx.com.au/) through receiving subscriptions or registration of courses, games and services. Cookies are used on the web site in the following ways:
 
-  * To authenticate access to certain areas of the web site, such as MyASX section and ASXOnline; 
-  * To monitor traffic levels and flows; and 
-  * From time to time ASX may conduct surveys 
+  * To authenticate access to certain areas of the web site, such as MyASX section, the customer portal and ASXOnline;
+  * To monitor traffic levels and flows; and
+  * From time to time ASX may conduct surveys
 
 
 
 Information is recorded into our server log which is provided by your browser. This information is logged for statistical purposes only. Where possible, ASX will use pseudo names to protect an individual’s anonymity. However, there will be circumstances where ASX will not be able to provide a service unless your personal information is provided.
 
-We will try not to identify you except, in the event of an investigation, where a law enforcement agency may exercise a warrant to inspect the service provider’s logs; if your usage is causing technical issues for our website which may need to be resolved; or where you may have won in a game. In these circumstances, we may need to identify you to contact you. We will review browsing activities to be able to provide better products and services and ASX partners with Yahoo!7 for ad serving. For more information on ad serving and information on ‘Opting-out’ please visit <https://info.yahoo.com/privacy/au/yahoo/adserving>. 
+We will try not to identify you except, in the event of an investigation, where a law enforcement agency may exercise a warrant to inspect the service provider’s logs; if your usage is causing technical issues for our website which may need to be resolved; or where you may have won in a game. In these circumstances, we may need to identify you to contact you. We will review browsing activities to be able to provide better products and services and ASX partners with Dianomi for ad serving. For more information on ad serving and information on ‘Opting-out’ please visit <http://www.dianomioffers.co.uk/legal/privacy.epl>.
 
 We may also from time to time email you about an event or new feature/service that we think might be of interest. If you do not wish to receive such emails, all you have to do is unsubscribe or opt-out.
 
@@ -136,4 +136,4 @@ You can also obtain information at the Office of the Australian Information Comm
 
 This Privacy Statement will be reviewed from time to time as required.
 
-Dated: July 2015
+Dated: December 2015
