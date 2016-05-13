@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enwisen.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926092726id_/http%3A//www.infor.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enwisen.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513165829id_/http%3A//www.infor.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy
 
