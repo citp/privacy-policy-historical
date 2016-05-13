@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the valentinesdaycardsprintables.com privacy policy that was archived on 2015-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151019095204id_/http%3A//www.valentinesdaycardsprintables.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valentinesdaycardsprintables.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514005151id_/http%3A//www.valentinesdaycardsprintables.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy
 
 **_Privacy Policy_**
 
@@ -22,4 +22,4 @@
 
 **_We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites might differ from our own._**
 
-My blog © 2015...
+My blog © 2016...
