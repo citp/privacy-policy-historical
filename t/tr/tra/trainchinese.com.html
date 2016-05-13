@@ -1,0 +1,418 @@
+<!--The following is the downloaded HTML source of the trainchinese.com privacy policy that was archived on 2016-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160513214216id_/http%3A//www.trainchinese.com/v2/mprivacy.php%3FrAp%3D0) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Privacy policy - Chinese dictionary and flashcards with audio and stroke by stroke writing for beginners and advanced learners. Learn online and offline on your PC, iPhone, iPad or Android phone.">
+    <meta name="author" content="Molatra Ltd">
+    <meta name="apple-itunes-app" content="app-id=333830076">
+    <link rel="icon" href="../v1/a_user/images/favicon.ico" type="/image/x-icon">
+
+    <title>train chinese dictionary and flashcards|Privacy policy</title>
+
+    <!-- Bootstrap Core CSS 
+    link href="css/bootstrap.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+
+    <!-- Custom CSS -->
+    <link href="css/pageFormat.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="js/html5shiv.js"></script>
+        <script src="js/respond.min.js"></script>
+
+        
+    <![endif]-->
+    
+</head>
+<body>
+
+<!-- Report reportFeedback -->
+<div class="modal fade" id="reportFeedback" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header" style="background-color:#DD2F2F;color:white;">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+        <h4 class="modal-title" id="myModalLabel">
+             Message to trainchinese
+        </h4>
+      </div>
+      <div class="modal-body">
+        <div id="word-feedback-form">
+        <form name="word-feedback" id="word-feedback" action="feedback.php" method="get">
+            <div class="form-group">
+            <label for="SelectTypeFeedback" class="control-label">Please select the reason for your contacting us</label>
+            <select class="form-control" id="SelectTypeFeedback" name="typeFeedBack" size="1">
+                <option value="1">Suggest improvement or new functionality </option>
+                <option value="2">Inform about technical functionallity / error in page </option>
+                <option value="3">Found error in the text (Chinese, Translation, English)</option>
+                <option value="4">I'd like to ask a question</option> 
+                <option value="6">Want to delete my account with trainchinese</option>
+            </select> 
+            </div>          
+            <input type="hidden" name="tcLanguage" value="en">
+            <input type="hidden" name="rAp" value="0">
+            <input type="hidden" name="referrer" value="document.referrer">
+            <input type="hidden" name="current" value="document.URL">        
+          <div class="form-group">
+            <label for="comment" class="control-label">Please tell us your feedback as clearly as possible</label>
+            <textarea class="form-control" id="word-comment" name="comment"></textarea>
+          </div>          
+        </form>
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <input class="btn btn-primary" type="submit" value="Send" onclick="submitAjaxForm('word-feedback','reportFeedback');" id="submit-word-feedback">
+        </div>
+        <div id="word-feedback-bottom">
+        </div>
+      </div>
+      <div class="modal-footer">
+        <div class="text-left small">Your user-name and the page you're viewing will be automatically included in the message. Thanks for your time.</div>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+
+<div class="modal fade" id="alertpopup" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header" style="background-color:#DD2F2F;color:white;">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+        <h4 class="modal-title" id="popupTitle">
+
+        </h4>
+      </div>
+      <div class="modal-body" id="popupContent">
+        
+        
+      </div>
+      <div class="modal-footer" id="popupFooter">
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+
+    <!-- Language selection -->
+        <script type="text/javascript">
+        function tcNewLanguage(targetLanguage){ var exdate=new Date(); exdate.setDate(exdate.getDate() + 100);
+	       var c_value=escape(targetLanguage) + '; expires='+exdate.toUTCString(); 
+	       document.cookie="tcLanguage=" + c_value; window.location.reload(true);}
+        </script>
+        <div style="background-color:#AA0000;padding:0 5px; height:1.8em; 	overflow:hidden ">           
+                <span class="text-left ">                     <button type="button" class="btn-link-nav" onclick="tcNewLanguage('es')">Español</button>                   <button type="button" class="btn-link-nav" onclick="tcNewLanguage('ru')">Pусский</button>
+                </span>
+                <span class="text-right pull-right">
+                        <button type="button" class="btn-link-nav hidden-xs" onclick="window.open('indexRegister.php','_parent')">Create an account</button>
+                        <button title="Sign in" type="button" class="btn-link-nav" onclick="TClogin('')"> <span class="glyphicon glyphicon-log-in visible-xs"></span> <span class="hidden-xs">Sign in</span>     </button>
+                </span>                           
+        </div>
+        
+     <!-- navigation -->
+     
+     <nav class="navbar navbar-default navbar-static-top">
+      <div class="container">
+        <div class="navbar-header">
+          
+          <a href="index.php" class="navbar-brand"><img class="nav_logo" src="images/text_logo_300.png" alt="Trainchinese"></a>
+        <button aria-controls="navbar" aria-expanded="false" data-target="#navbar" data-toggle="collapse" class="navbar-toggle collapsed" type="button">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+        <div class="navbar-collapse collapse" id="navbar">
+          <ul class="nav navbar-nav navbar-right">           
+            <li class="text-center"><a href="index.php">
+                    <div style="height:65px;padding-top:10px;" class="hidden-xs hidden-sm">
+                        <span style="color:#D43802; font-size:40px;" class="glyphicon glyphicon-home"></span></div>
+                     &nbsp;</a>
+                     </li>
+            <li class="text-center">
+                <a href="contents.php?rAp=0">
+                    <div style="height:65px;" class="hidden-xs hidden-sm"><img height="65px" src="images/dictionary.png" alt=""></div>
+                    Vocab lists</a></li>
+            
+            <li class="text-center">
+                <a href="practiceVocab.php?rAp=0">
+        <div style="height:65px;" class="hidden-xs hidden-sm"><img height="65px" src="images/training.png" alt=""></div>
+                    Training</a></li>
+            <li class="text-center">
+                <a href="viewApps.php?rAp=0 "> 
+                <div style="height:65px;" class="hidden-xs hidden-sm"><img height="65px" src="images/applications.png" alt=""></div> 
+                Apps</a></li>
+            <li class="text-center">
+                <a href="qaList.php?rAp=0">
+                <div style="height:65px;" class="hidden-xs hidden-sm"><img height="65px" src="images/questions.png" alt=""></div>
+                Q &amp; A</a></li> <li class="text-center">
+                <a href="viewBasicSettings.php?rAp=0">
+                <div style="height:65px;padding-top:10px;" class="hidden-xs hidden-sm">
+                <span style="color:#D43802; font-size:40px;" class="glyphicon glyphicon-cog"></span></div>
+                Settings</a></li>        
+              </ul>
+            
+          
+        </div><!--/.nav-collapse -->
+      </div>
+      
+      <!-- search box -->
+      <div style="padding: 10px;">
+        <div class="container" id="searchContainer">
+            <form class="row" action="search.php" method="get">
+                <div class="input-group col-md-offset-1 col-md-10"> 
+                    <input type="text" id="searchWord" name="searchWord" class="form-control" value="" placeholder="Chinese, Pinyin or English">
+                    <span class="input-group-addon" style="cursor:pointer;color:#AAA;" onmouseout="this.style.color='#AAA'" onmouseover="this.style.color='black'" onclick="$('#searchWord').val('');$('#searchWord').focus()">
+                        <span class="glyphicon glyphicon-remove"></span>
+                    </span>
+                    <input type="hidden" name="rAp" value="0">
+                    <input type="hidden" id="SrchHeight" name="height" value="0">
+                    <input type="hidden" id="SrchWidth" name="width" value="0">
+                    
+                    <div class="input-group-btn">
+                        <button class="btn btn-search2" type="submit"><span class="hidden-xs"> Search dictionary</span>
+                            <span class="hidden-sm hidden-md hidden-lg">Search</span></button>
+                    </div>
+                </div>
+            </form> 
+        </div>   
+      </div>
+      
+    </nav>
+     
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+
+					<h3>Privacy policy from Molatra Ltd applicable to the www.trainchinese.com website</h3>
+					<p>Molatra Ltd, is committed to protecting the privacy of the users of trainchinese.com. The following outlines our privacy and data protection policy. This privacy policy tells you about our online collection and use of data. We feel it is important that you fully understand the terms and conditions under which we use the information we gather from you through the use of our Web site located at www.trainchinese.com and trough our applications fro different kind of platforms (lika Android iOS, Java).</p>
+					<p>Third party partners of trainchinese.com and other websites you may access via trainchinese.com have different privacy policies and are not subject to this privacy policy. We recommend that you read the privacy statement of each such website to find out how they protect your personal information.</p>
+
+					<h4>Collection and Use of User Information </h4>
+					<p>When you register at trainchinese, we collect personal details about you.</p>
+
+					<p>Your e-mail address is collected via our registration form, while other personal data such as Name, Country of residence, Your Photograph, The Languages you speak, Level of Chinese etc. is voluntary information collected in separate forms. When you visit the site, we also collect web site usage information and information about your computer and internet connection, including your computer's IP address, the type and version of browser and operating system you use, if you arrived at trainchinese.com via a link from another website, the URL of the linking page. We use this information to ensure, as far as is practical, that our site is compatible with the browsers and operating systems used by most of our visitors and to improve the customer experience. Additionally we keep detailed information on your training activities particularly words, phrases you are learning or have learned. This information is kept in such a way that it can only be accessed by you (identified by your username/email address and password). We may use above mentioned information for in-house research to improve our understanding of customer needs in developing trainchinese.</p>
+
+					<h4>Cookies</h4>
+					<p>trainchinese uses cookies to save some temporary data which is used for keeping some session variables in your browser when you are using the site.</p>
+
+					<h4>E-mails</h4>
+					<p>trainchinese does send newsletters to inform you of new products or services or other information that may be of interest. If you do not wish to receive such communications, you may follow the 'unsubscribe' instructions included within each of these email communications.</p>
+
+					<h4>Security Policy</h4>
+					<p>trainchinese has appropriate measures in place to ensure that users' personal details are not misused, accidentally destroyed, lost or altered within our server environment.</p>
+
+					<h4>Updating Customer Details</h4>
+					<p>It is important to us that we have your correct contact information so that you don't miss out on further correspondence or experience problems with the delivery of products. </p>
+
+					<h4>Electronic Payment System</h4>
+					<p>Molatra Ltd. is engaging the services of third parties to process your credit card information on our behalf. These companies keep your credit card information confidential and protect your credit card information through the use of industry-standard Secure Sockets Layer (SSL) encryption technology. We do not have access of your credit card data as this is processed and stored exclusively by such third parties.</p>
+
+					<h4>Sharing of personal information</h4>
+					<p>We do not sell, trade or rent your Personally Identifiable Information collected on our Site to others.</p>
+
+					<h4>Children and Parental Consent</h4>
+					<p>Molatra Ltd does not seek to collect any information from or engage in any transactions with persons under the age of 13. Our policy is to request that minors (the legal age of majority and therefore the age of minors is determined by local law where you reside) do not make purchases or engage in other legal acts on our services without the consent of a parent or legal guardian.</p>
+
+					<h4>Changes to this statement</h4>
+					<p>Due to changes in legislation and best practice or enhancements to functionality and content on trainchinese.com we may make changes to our privacy policy and will reflect those changes in this statement, so you should check here from time to time. </p>
+					
+
+<!-- end content -->
+            </div>
+        </div>
+    </div>
+    
+
+        <div style="height:15px;"></div>
+        <footer class="footer">
+        <div class="container">
+        <div style="height:10px;">
+        </div>
+        <div class="text-center">
+ 
+             
+<ul class="list-inline">
+<li><a href="http://twitter.com/trainchinese" target="_blank" data-toggle="tooltip" title="" data-original-title="Follow us on Twitter"><img src="../v1/a_user/images/ico/twitter2.gif" alt="">  </a></li>
+
+<li><a href="http://www.facebook.com/trainchinese" target="_blank" data-toggle="tooltip" title="" data-original-title="Become a fan on Facebook"><img src="../v1/a_user/images/ico/facebook.gif" alt="">  </a></li>
+
+<li><a href="https://plus.google.com/103759614617335004530" target="_blank" data-toggle="tooltip" title="" data-original-title="Add us on Google+"><img src="../v1/a_user/images/ico/gplus-16.png" alt="">  </a></li>
+
+<li><a href="http://www.linkedin.com/company/trainchinese" target="_blank" data-toggle="tooltip" title="" data-original-title="Follow us on LinkedIn"><img src="../v1/a_user/images/ico/linkin19x19.png" alt=""></a></li>
+
+<li><a type="application/rss+xml" rel="alternate" href="../RSSfeeds/newsfeed.xml" target="_blank" data-toggle="tooltip" title="" data-original-title="RSS feed"><img src="../v1/a_user/images/ico/feed.png" alt=""> </a></li>
+</ul> 
+
+             
+             <ul class="list-inline">  
+               <li><a href="mterms.php?rAp=0" target="_parent">Terms and Conditions</a></li>
+               <li><a href="mprivacy.php?rAp=0" target="_parent">Privacy Policy</a></li>
+               <li><a href="maboutus.php?rAp=0" target="_parent">About us</a></li>
+               <li><a href="feedback.php?rAp=0" target="_parent">Contact</a></li>
+               <li><a href="mlinks.php?rAp=0" target="_parent">Links</a></li>
+               
+               <li><a href="mTestimonials.php?rAp=0" target="_parent">Testimonials</a></li>
+             </ul>
+                            <p>©2008-2015 Molatra Ltd.</p>  
+	       
+        </div>
+
+      </div>
+    </footer>
+    <!-- /.container -->
+
+    <!-- jQuery -->
+    <script src="js/jquery-1.11.3.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min2.js"></script>
+    
+    
+    <script src="js/ie-10-viewport-bug-workaround.js"></script>
+    
+    <script>
+ 
+ 
+$(document).ready(function(){
+    $('[data-toggle="tooltip"]').tooltip(); 
+    $('[data-toggle="popover"]').popover();
+    var url = window.location.href;
+        $('.nav'). find( 'li' ).removeClass('active');
+        if(url.indexOf('v2/qa')>0){
+            url='qaList.php';
+        }else if(url.indexOf('v2/friend')>0){
+            url='friendsOrganize.php';
+        }else if(url.indexOf('v2/letter')>0){
+            url='letterOrganize.php';
+        }else{
+            var pos = url.indexOf('?');
+            if(pos>0)
+                url = url.substring(0,pos);
+            var pos = url.lastIndexOf('/');
+            if(pos>0)
+                url = url.substring(pos+1);
+        }
+    $('li a[href*="'+url+'"]').parents('li').addClass('active');
+});
+
+function alertpopup(title,content,footer){
+    $('#popupTitle').html(title);
+    $('#popupContent').html(content);
+    if(footer=='')
+        footer = '<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>';
+    $('#popupFooter').html(footer);    
+    if(!$('#alertpopup').data('bs.modal') ||  !$('#alertpopup').data('bs.modal').isShown){
+        $('#alertpopup').modal('show');
+    }
+}
+
+function alertWait(){
+    var Str_pleaseWait = 'Please wait';
+    $('#popupTitle').html('Processing');
+    $('#popupContent').html('<div class="text-center"><img src="../v1/a_user/images/ajax-loader.gif" alt="... '+Str_pleaseWait+' ..." style="padding-top: 100px" /></div>');
+    $('#popupFooter').html('');
+    $('#alertpopup').modal('show');
+}
+
+function TClogin(msg,uname,pw,rememberMe){
+    if (msg === undefined)
+    msg='';
+    if (uname === undefined)
+    uname='';
+    if (pw === undefined)
+    pw='';
+    if(rememberMe===undefined || rememberMe==0)
+        rememberMe='';
+    else
+        rememberMe='checked';
+    
+    $('#popupTitle').html('Sign in');
+    $('#popupContent').html(msg+'   <form class="form" action="index.php" method="post" accept-charset="iso-8859-1" enctype="ISO-8859-1" >     <input type="hidden" name="difTimeMin" id="difTimeMin" value="" />     <div class="form-group">       <label for="uname">Nickname or email</label>       <input type="text" class="form-control" id="uname" name="uname" value="'+uname+'" placeholder="Nickname or email"/>     </div>     <div class="form-group">       <label for="pass"> Password </label>       <input type="password" class="form-control" id="pass" name="pass" value="'+pw+'"  placeholder="Password"/>     </div>  				     <div class="checkbox">       <label>       <input type="checkbox" name="rememberMe" value="1" checked="checked"/> &#160;&#160;&#160;&#160;Remember me       </label>     </div>     <input type="hidden" id="goTo" name="goTo" value="" />         <button type="submit" class="btn btn-primary" name="go" >sign in</button>           &#160;&#160;&#160;&#160;     <a type="button" class="btn btn-default" href="indexResetPassword.php?tcLanguage=en">     forgot password?</a>   </form>');
+    $('#goTo').val(location.href);    
+    
+    $('#popupFooter').html('<a type="button" class="btn btn-default" href="indexRegister.php">Not a user?</a>');
+        var d = new Date();
+        document.getElementById("difTimeMin").value=d.getTimezoneOffset();
+    if(!$('#alertpopup').data('bs.modal') ||  !$('#alertpopup').data('bs.modal').isShown){
+        $('#alertpopup').modal('show');
+    }
+}
+
+function showWordDetails(wordId){
+    window.open("wordDetails.php?rAp=0&wordId="+wordId,"_parent");
+}
+
+function checkAll(elem){
+    jQuery(elem).closest('form').find('input:checkbox').map(function(){$(this).prop('checked', !$(this).is(':checked')); }).get();
+	return;	
+}
+
+
+function submitAjaxForm(id,hideModal) {
+    var postData = $('#'+id).serializeArray();
+    var formURL = $('#'+id).attr('action');
+    $('#'+id)[0].reset();  // Reset
+    $.ajax(
+    {
+        url : formURL,
+        type: 'GET', // 'GET' 'POST'
+        data : postData,
+        dataType: 'script',
+        success:function(data, textStatus, jqXHR) 
+        {
+            // alert (data);
+            //data: return data from server
+        },
+        error: function(jqXHR, textStatus, errorThrown) 
+        {
+            //if fails      
+        }
+    });
+    if(hideModal!='')
+        $('#'+hideModal).modal('hide');   
+}
+
+function checkLocalStorage() {
+    try {
+    return 'localStorage' in window && window['localStorage'] !== null;
+  } catch (e) {
+    return false;
+  }
+}
+
+function store(varName,value){
+ if(!checkLocalStorage())
+    return false;
+  localStorage[varName] = value; 
+  localStorage[varName+'t']=Date.now() / 1000 | 0; // seconds  
+}
+function getStore(varName,maxNumSecOld){
+     if(!checkLocalStorage())
+        return '';
+    if(typeof (localStorage[varName+'t']!='undefined') && localStorage[varName+'t']>(Date.now() / 1000 | 0)-maxNumSecOld) 
+        return localStorage[varName];
+   else
+    return '';
+}
+
+
+
+</script>
+
+
+
+
+
+    				
+	    
+</body></html>
