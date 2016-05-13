@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressidium.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320154300id_/https%3A//pressidium.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressidium.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513155644id_/https%3A//pressidium.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pressidium® Managed WordPress Hosting
 
@@ -35,10 +35,10 @@ Although most changes are likely to be minor, TechIO Limited may change its Priv
 If you believe a TechIO Limited customer on a site hosted by the Pressidium® Pinnacle Platform is infringing your copyright, please send a written notice to:
 
 TechIO Limited – Legal Department.  
-Wisteria Camrose House,  
-2A Camrose Avenue  
-Edgware, Middlesex,  
-HA8 6EG, United Kingdom  
+The Grange Barn  
+Pikes End, Pinner,  
+London, HA5 2EX,  
+United Kingdom  
 [abuse@pressidium.com](mailto:abuse@pressidium.com) or [dmca@pressidium.com](mailto:dmca@pressidium.com)
 
 Section 512(c) of the US DMCA requires that a notice include all of the following in order to be valid:
