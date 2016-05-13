@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamviews.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926081204id_/http%3A//www.dreamviews.com/wiki/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamviews.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513095446id_/http%3A//www.dreamviews.com/wiki/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lucid Dreaming - Dream Views
 
