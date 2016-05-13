@@ -1,21 +1,63 @@
-> *The following text is extracted and transformed from the ex-admin.com privacy policy that was archived on 2015-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150806133543id_/http%3A//la7ha.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ex-admin.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513180453id_/http%3A//www.krisrhoades.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | la7ha.com | Free Templates, Resume, and Invoice for office online
+# Privacy Policy - Kris Rhoades
 
-Privacy Policy for **http://la7ha.com**
+This privacy policy discloses the privacy practices for Kris Rhoades Digitizing and www.krisrhoades.com. This privacy policy applies solely to information collected by this web site. It will notify you of the following:
 
-The privacy of our visitors to **http://la7ha.com** is important to us.
+  1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
 
-At **http://la7ha.com** , we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit **http://la7ha.com** , and how we safeguard your information. We never sell your personal information to third parties.
+  2. What choices are available to you regarding the use of your data.
 
-**Log Files** As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+  3. How you can correct any inaccuracies in the information.
 
-**Cookies and Web Beacons** We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+  4. The security procedures in place to protect the misuse of your information.
 
-We also use third party advertisements on **http://la7ha.com** to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
-**DoubleClick DART cookies** We also may use DART cookies for ad serving through Google's DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests ("interest based targeting"). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses "non personally identifiable information". It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting [http://www.doubleclick.com/privacy/dart_adserving.aspx ](http://www.doubleclick.com/privacy/dart_adserving.aspx)
 
-You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+### **Information Collection, Use, and Sharing**
 
-Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will never sell, trade, rent, give away, or otherwise share this information with anyone.
+
+We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order.
+
+We may contact you via email in the future to tell you about specials, new products or services, updates to the website, or changes to this privacy policy unless you opt out of the option to join our mailing list. An option to unsubscribe from any future mailings is provided at the bottom of every email newsletter.
+
+### **Your Access to and Control Over Information**
+
+You may opt out of any future contacts from us at any time by clicking on the “unsubscribe” link provided in the email newsletters.
+
+You may update, change or correct any of your contact information with us by clicking on the “My Account” tab on the website and the “update subscription” link provided in the email newsletters.
+
+### **Sharing**
+
+We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes beyond filling your order.
+
+### **Security**
+
+We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
+
+Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to a credit card processing company in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for “https” at the beginning of the address of the web page that asks for this information.
+
+While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
+
+### **Orders**
+
+We request information from you on our order form. To buy from us, you must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill your orders. If we have trouble processing an order, we’ll use this information to contact you.
+
+### **Cookies**
+
+We use “cookies” on this site. A cookie is a piece of data stored on a site visitor’s hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Usage of a cookie is in no way linked to any personally identifiable information on our site.
+
+### **Links**
+
+This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
+
+### **Surveys & Contests**
+
+From time-to-time our site requests information via surveys or contests. Participation in these surveys or contests is completely voluntary and you may choose whether or not to participate and therefore disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
+
+### **Updates**
+
+Our Privacy Policy may change from time to time and all updates will be posted on this page.
+
+**If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 412-901-0302  or via the “contact me” link above.**
