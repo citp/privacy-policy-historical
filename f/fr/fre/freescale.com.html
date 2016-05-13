@@ -1,373 +1,1483 @@
-<!--The following is the downloaded HTML source of the freescale.com privacy policy that was archived on 2014-02-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140209064601id_/http%3A//www.freescale.com/files/abstract/help_page/PRIVACYPRACTICES.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freescale.com privacy policy that was archived on 2016-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160513064107id_/http%3A//www.nxp.com/about/privacy%3APRIVACYPRACTICES) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
-<title>Privacy Practices - Freescale Semiconductor</title>
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-<script type="text/javascript" src="/files/abstract/misc/COLLATERALTEMPLATE.js"></script>
-<script type="text/javascript">
-// <![CDATA[
-	var pageTitle="Privacy Practices - Freescale Semiconductor";
-	writeHeader();
-// ]]>
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="Asset_Type" content="Webpages">
+<meta name="templateType" content="overview"> 
+
+<title>Privacy|NXP</title>
+	<meta name="Keywords" content="Privacy, Practices">
+<meta name="Description" content="NXP recognizes privacy and security as being a concern for most individuals accessing the Internet. Whether you're buying one of our quality products, or just browsing our site, we want to make you comfortable with our privacy practices and the security measures we take to protect your personal information.">
+<link rel="canonical" href="http://www.nxp.com/about/privacy:PRIVACYPRACTICES">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" href="http://style.nxp.com/v1.43/shared/js/jquery/jquery_ui_min.css" type="text/css">
+<script type="text/javascript" src="http://style.nxp.com/v1.43/shared/js/jquery/jquery.plus.min.js"></script>
+<script type="text/javascript" charset="utf-8">
+	var i18n_en = { 'Freescale' : 'NXP','About Freescale' : 'About NXP','We detected that your email is a Freescale account. To change your password, please go to <a href=\"https://password.freescale.net\">Freescale SPS X.500 Directory Service</a>' : 'We detected that your email is an employee account. To change your password, please go to <a href=\"https://password.NXP.net\">NXP SPS X.500 Directory Service</a>','Freescale Connect and Reseller Program Tools' : 'NXP Partner and Reseller Program Tools','Freescale Connect Partner Program Portal' : 'NXP Partner Program Portal','Freescale Part Matches' : 'NXP Part Matches','FREESCALE' : 'NXP','Freescale Product Selector' : 'Product Selector','Reference or evaluation boards containing Freescale silicon device and/or other boards used in close conjunction with the reference or evaluation board such as daughter cards, connector cards, etc.' : 'Reference or evaluation boards containing NXP silicon device and/or other boards used in close conjunction with the reference or evaluation board such as daughter cards, connector cards, etc.'}
 </script>
+<script type="text/javascript" charset="UTF-8">
+function getTranslatedText(string){
+	try {
+		var localize = {};
+		if(  (typeof i18n_en != 'undefined' ) && i18n_en !=null)
+		localize = i18n_en;
+		
+        string = string.toString() || '';
+        var args = arguments;
+        var pattern = (args.length > 0) ? new RegExp('%([1-' + args.length.toString() + '])', 'g') : null;
+        var str = localize.hasOwnProperty(string) ? localize[string] : string;
+       	return String(str).replace(pattern, function (match, index) { return args[index]; });
+    } catch (e) {
+    }	
+}
+</script>
+<script type="text/javascript" src="http://style.nxp.com/v1.43/shared/js/public_common.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://style.nxp.com/v1.43/dap/javascript/productDapLinks.js"></script>
 
-<title>Privacy Practices - Freescale Semiconductor</title>
-<link rel="stylesheet" href="/shared/stylesheets/toplevel.css" type="text/css">
-<script language="JavaScript1.2" src="/files/abstract/misc/GLOBALHEADER_TOP_ARRAYS.js" type="text/javascript"></script>
-<script language="JavaScript" src="/parametric_search/javascript/part_number_search.js"></script>
+<script type="text/javascript" language="Javascript">
+	     
+		function createLink(filePath){
+			var temp = "http://www.nxp.com/webapp/sps/site";
+			var strNode='061FA3';
 
-</head>
-<body marginheight="0" marginwidth="0" class="homepage-jsp">
+			
+			var url = temp + "/display.jsp?nodeId=" + strNode + "&amp;filePath="+filePath;
+			
+
+			document.location=url;
+			return true;
+		}</script>
+
+<script type="text/javascript" language="Javascript">
+
+ 
+	var strSecureURL = "https://www.nxp.com/webapp";
+	function openSRWindow(strURL){
+		var obj = window.open(strSecureURL +  strURL,'SRWindow','resizable=yes,menubar=yes,scrollbars=yes,toolbar=yes,status=yes,location=yes');
+		obj.focus();
+	}
+	</script>
+
+
+<meta name="DCSext.nodeId" content="061FA3">
+<!-- Added by b47555 for DFCT0011846 Start on 09/02/2016 -->
+<script language="JavaScript" type="text/javascript" src="http://style.nxp.com/v1.43/ecommerce/javascript/invokeLink.js"></script>
+<!-- Added by b47555 for DFCT0011846 End on 09/02/2016 -->
+<meta name="DCSext.footprint" content="人才招聘 > 职业路径">
 <script>
-function noStar(inputStr) {
-	for (i = 0; i < inputStr.length; i++) {
-		// Check that current character is number.
-		var c = inputStr.charAt(i);
-		if ( c =="*" ) { return false; 
-		}
-	}
-	return true;
-}
-function validateSearchForm(a, url) {
-if (a == 1) { 
-	var input = document.header1.qt2.value; 
-	var alertDisplay=''; 
-	if (input.length < 3) {
-		alertDisplay+='Input must be at least 3 characters long.';
-	}
-	if(!noStar(input)){
-		alertDisplay+='';
-		alertDisplay+='An asterisk is not allowed in the input.'; 
-	}
-	if(alertDisplay!=''){
-		alert(alertDisplay);
-		document.header1.qt2.focus();
-		document.header1.qt2.select();
-		return false;
-	}
-	if(document.header1.qt2.value == 'Contains') {
-		document.header1.PART_NUMBER.value = '';
-		document.header2.PART_NUMBER.value = '';
-	} else {
-		document.header1.PART_NUMBER.value = document.header1.qt2.value;
-		document.header2.PART_NUMBER.value = document.header1.qt2.value;
-	}
-} 
-if (a == 2) { 
-	if(document.header2.qt.value == 'Search') { 
-		document.header2.qt.value =''; 
-	} 
-} 
-return true; 
-} 
-function submit(a,url) {
-if (a==1) {
-	if(document.header.qt.value == 'Search') {
-		document.header.qt.value ='';
-	}
-	document.header.action =url;
-}
-if (a==2) {
-		var input = document.header.qt2.value;
-		var alertDisplay='';
-		if (input.length < 3) {
-			alertDisplay+='Input must be at least 3 characters long.';
-		}
-		if(!noStar(input)){
-			alertDisplay+='';
-			alertDisplay+='An asterisk is not allowed in the input.'; 
-		}
-		if(alertDisplay!=''){
-			alert(alertDisplay);
-			document.header.qt2.focus();
-			document.header.qt2.select();
-			return;
-		}
-	if(document.header.qt2.value == 'Contains') {
-		document.header.PART_NUMBER.value = '';
-	} else {
-		document.header.PART_NUMBER.value = document.header.qt2.value;
-	}
-	document.header.action = url;
-}
-document.header.method = "POST";
-document.header.submit();
-}
+var LANG_CD_LIST = "zh-Hans,ja,ko";
+var URL_DOMAIN = "www.nxp.com";
+var URL_MAJOR_DOMAIN = "nxp.com";
+var CACHE_URL_DOMAINS = ["cache.nxp.com", "style.nxp.com", "image.nxp.com"];
 </script>
-<!-- END GLOBAL PRODUCT AND APPLICATION DROP DOWN NAVS -->
-<script language="JavaScript" src="/shared/js/HM_header.js"></script>
-<script language="JavaScript" src="/shoppingcart/scripts/Shoppingcart.js"></script>
-<!-- BEGIN FREESCALE MASTHEAD -->
-<table cellpadding="0" cellspacing="0" border="0" width="750">
-<tbody><tr>
-	<td valign="top" style="width: 150px;"><div style="position: relative;"><div style="position: absolute; top:0px; left:0px;">
-	<a href="/"><img src="/shared/images/logo_angle.gif" alt="Freescale Semiconductor" border="0"></a></div>
-	<div style="position: absolute; top:55px; left:697px;"><img src="/shared/images/header_rangle_new.gif" border="0"></div>
-	</div>&nbsp;</td>
-	<td rowspan="4"><div class="Spacer-10px-wide">&nbsp;</div></td>
-	<td align="right" colspan="2">
-	<table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>
-		<td style="width: 140px;" class="header">&nbsp;</td>
-		<td style="width: 130px; height: 8px; text-align: right;" class="header">
-	</td>
-	<td style="width: 100px; height: 64px; text-align: right;" class="header">
-		<div align="right" class="headerText" style="position: relative; top: 8px;"><a href="/webapp/crcl.ccr_register.framework">Register</a>&nbsp;<a href="/webapp/crcl.ccr_register.framework"><img src="/shared/images/button_blue.gif" border="0" style="position: relative; top: 1px;"></a></div>
-		<div align="right" class="headerText" style="position: relative; top: 13px;"><a href="/webapp/ruhp.login.framework">Login</a>&nbsp;<a href="/webapp/ruhp.login.framework"><img src="/shared/images/button_blue.gif" border="0" style="position: relative; top: 1px;"></a></div>
-		<div align="right" class="headerText" style="position: relative; top: 18px;"><a href="/webapp/dtdirect.show_cart.framework">Basket</a>&nbsp;<a href="/webapp/dtdirect.show_cart.framework"><img src="/shared/images/button_blue.gif" border="0" style="position: relative; top: 1px;"></a></div>		</td>
-		<td><div class="Spacer-5px">&nbsp;</div></td>
-		<td class="header" style="width: 295px; text-align: left;" valign="top">
-		<form method="POST" name="header1" action="/webapp/search.part_number_search_query.framework" onsubmit="return validateSearchForm('1','/webapp/search.part_number_search_query.framework');" <div="" style="position: relative;">
-			<div align="right" class="headerText" style="position: absolute; top: 7px; left: 15px; text-align: right; width: 80px;"><a href="/webapp/search.nav_part_number_search.framework">Part Number</a>&nbsp;&nbsp;</div>
-			<div align="right" class="headerText" style="position: absolute; top: 5px; left: 96px;"><input type="text" class="headerInput" name="qt2" id="qt2" value="Contains" onfocus="this.value=''">&nbsp;</div>
-			<div align="right" class="headerText" style="position: absolute; top: 8px; left: 230px;"><input type="image" border="0" name="Go" src="/shared/images/button_blue.gif" alt="Go"></div>
-		
-  			<input type="HIDDEN" name="PART_NUMBER" value="">
-	  		<input type="HIDDEN" name="SEARCH_OPERATOR" value="Contains">
-		</form>
-		<form method="POST" name="header2" action="https://web.archive.org/web/20050206225801/http://search.freescale.com/query.html" onsubmit="return validateSearchForm('2','http://search.freescale.com/query.html');" <div="" style="position: relative;">
-			<div align="right" class="headerText" style="position: absolute; top: 32px; left: 15px; text-align: right; width: 80px;"><a href="https://web.archive.org/web/20050206225801/http://search.freescale.com/query.html">Keyword</a>&nbsp;&nbsp;</div>
-			<div align="right" class="headerText" style="position: absolute; top: 30px; left: 96px;"><input type="text" class="headerInput" name="qt" id="qt" value="Search" onfocus="this.value=''">&nbsp;</div>
-			<div align="right" class="headerText" style="position: absolute; top: 33px; left: 230px;"><input type="image" border="0" name="Go" src="/shared/images/button_blue.gif" alt="Go"></div>
-			<div align="right" class="headerText" style="position: absolute; top: 50px; left: 96px; text-align: left; font-size: 9px;"><a href="https://web.archive.org/web/20050206225801/http://search.freescale.com/query.html?ql=a">Advanced</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/webapp/search.nav_parametric_search.framework">Parametric</a></div>
-		
-  		   <input type="HIDDEN" name="PART_NUMBER" value="">
-	  	   <input type="HIDDEN" name="SEARCH_OPERATOR" value="Contains">
-		</form>
-		</td>
-		<td class="header" valign="bottom" style="padding: 0px; vertical-align: bottom;"></td>
-	</tr>
-	</tbody></table></td>
-</tr>
-<tr>
-	<td colspan="3"><div class="Spacer-5px">&nbsp;</div></td>
-</tr>
-<tr>
-	<td class="gNavBg">&nbsp;&nbsp;&nbsp;<a href="/">&nbsp;Home </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/webapp/sps/site/homepage.jsp?nodeId=0M10Xv6c0C">Contact Us</a></td>
-	<td class="gNavBg">
-	<div class="gNav">
-	<a href="/webapp/sps/library/prod_lib.jsp" onmouseover="showPopUp('HM_Menu12',event), selectsVisibility('hidden')" onmouseout="hidePopUp('HM_Menu12'); selectsVisibility('visible')">Products </a>
-	<a href="/webapp/sps/site/homepage.jsp?nodeId=02" onmouseover="showPopUp('HM_Menu13',event), selectsVisibility('hidden')" onmouseout="hidePopUp('HM_Menu13'); selectsVisibility('visible')">Applications</a>
-	<a href="/webapp/sps/site/homepage.jsp?nodeId=0ST" onmouseover="showPopUp('HM_Menu14',event), selectsVisibility('hidden')" onmouseout="hidePopUp('HM_Menu14'); selectsVisibility('visible')">Technologies</a>
-	<a href="/webapp/sps/site/homepage.jsp?nodeId=05" onmouseover="showPopUp('HM_Menu15',event), selectsVisibility('hidden')" onmouseout="hidePopUp('HM_Menu15'); selectsVisibility('visible')">Support</a>
-	<a href="/webapp/sps/site/homepage.jsp?nodeId=01098400786959705928692" onmouseover="showPopUp('HM_Menu16',event), selectsVisibility('hidden')" onmouseout="hidePopUp('HM_Menu16'); selectsVisibility('visible')">Where to Buy </a>
-	<a href="/webapp/sps/site/homepage.jsp?nodeId=06" onmouseover="showPopUp('HM_Menu17',event), selectsVisibility('hidden')" onmouseout="hidePopUp('HM_Menu17'); selectsVisibility('visible')">About Freescale</a>
-	</div>
-	</td>
-	<td class="gNavBg" align="right" style="padding: 0px;"></td>
-</tr>
-<tr>
-	<td colspan="3"><div class="Spacer-5px">&nbsp;</div></td>
-</tr>
-</tbody></table>
-<!-- END FREESCALE MASTHEAD --> 
-
-
-<div id="pgctwrp"><!-- beg page content wrap -->
-	<a name="top"></a>
-	<div id="mncnt" class="iframe"><!-- beg main iframe container -->
-		<div id="bc"><!-- beg breadcrumb -->
-			<ul>
-				<li><a href="/">Freescale</a></li>
-				<li>Privacy Practices</li>
-			</ul>
-		</div><!-- end breadcrumb -->
-		<!-- beg pg title -->
-		<div class="hrw"><hr></div>
-			<h1>Privacy Practices</h1><!-- page title, should match what is in header -->
-		<div class="hrw"><hr></div>
-		<!-- end pg title -->
-		<div class="padMe5"></div>
-		<div class="lc"><!-- beg lt col -->
-			<div class="ccl">
-				<p style="margin-top: 5px;">Freescale recognizes privacy and security as being a concern for most individuals accessing the Internet. Whether you're buying one of our quality products, or just browsing our site, we want to make you comfortable with our privacy practices and the security measures we take to protect your personal information.</p>
-				<p><strong>This statement discloses the privacy guidelines for Freescale's Web site. Information submitted solely in a business capacity is not covered by these guidelines.</strong></p>
-				<p>By using our Web site, you consent to the collection and use of your information by Freescale as set forth in the policy currently in effect. If we decide to change our policy, such changes will be posted here on the Web site, so please check back periodically to ensure you have the most current policy.</p>
-				<p><strong>The Freescale Semiconductor Web Site Terms of Use are available at the footer and <a href="AUTOLINK{TERMSOFUSE:C}">here</a>.</strong></p>
-				<p>You may find additional information about your personalized Freescale Web experience at <a href="AUTOLINK{PRIVACYPRACTICES:C}">My Personalized Freescale.com</a></p>
-			</div>
-			<div class="ccr">
-				<ul class="boxes">
-					<li><a href="#pi">What personally identifiable information does Freescale collect?</a></li>
-					<li><a href="#cookies">Freescale's use of cookies</a></li>
-					<li><a href="#who">Who is collecting the information?</a></li>
-					<li><a href="#how">How is the information used?</a></li>
-					<li><a href="#share">With whom does Freescale share this information?</a></li>
-					<li><a href="#choice">What choices are available to users regarding collection, use and distribution of the information?</a></li>
-					<li><a href="#protect">What security measures does Freescale use to protect information from loss, misuse or alteration?</a></li>
-					<li><a href="#change">How you can correct or change the information Freescale has collected?</a></li>
-					<li><a href="#child">Issues involving your child's privacy</a></li>
-				</ul>
-			</div>
-			<div class="bkflt"></div>
-			<div class="pdtn"></div>
-			<!-- Begin Header-->
-			<div class="hrw"><hr></div>
-				<a name="pi"></a><h2>What personally identifiable information does Freescale collect?</h2>
-			<div class="hrw"><hr></div>
-			<!-- End Header -->
-			<div class="padMe5"></div>
-			<p class="intro">When you register on the Web site or place an order or request information, Freescale may collect some of the following personally identifiable information: name, title, company, address, e-mail address and phone numbers. In some cases, such as employment applications, Freescale may collect additional information from you, which may include your Social Security number, driver's license number, and date of birth. We do not require this information to obtain access to public information on our Web site, but we may require it if you wish to place an order, receive personalized newsletters and information or set up an account for software downloads or secure applications.</p>
-			<p>In addition to ordering and registration, we may ask you for and collect personal information at other times, including, for example, when you enter a sweepstakes or contest or participate in a promotion or marketing campaign sponsored by Freescale or one of its business partners; when you want to find out about services offered in your area; when you complete surveys or other questionnaires; or when you send an e-mail to Freescale. Wherever Freescale collects personal information, we try to include a link to this Privacy Policy on that page.</p>
-			<p>Our Web server logs collect the domain names of visitors to our Web site. This information is aggregated to measure items such as: the number of visits, average time spent on the Freescale Web site, pages viewed, and purchases made. We use this information to measure the use of our site, to improve the content of our site, and improve individual user's experiences on our site.</p>
-			<p>Freescale may use third parties, such as WebTrends On Demand and Google, to track our Web site. If you wish to learn more about such third parties, please contact Freescale via the links below.</p>
-			
-			
-			<p><a href="#top" class="returnTop">Return to Top</a></p>
-			<!-- Begin Header-->
-			<div class="hrw"><hr></div>
-				<a name="cookies"></a><h2>Freescale's use of cookies</h2>
-			<div class="hrw"><hr></div>
-			<!-- End Header -->
-			<div class="padMe5"></div>
-			<p class="intro"><a href="/files/abstract/help_page/COOKIE_POLICY.html">View Freescale's cookie policy here.</a></p>
-			<p><a href="#top" class="returnTop">Return to Top</a></p>
-			<!-- Begin Header-->
-			<div class="hrw"><hr></div>
-				<a name="who"></a><h2>Who is collecting the information?</h2>
-			<div class="hrw"><hr></div>
-			<!-- End Header -->
-			<div class="padMe5"></div>
-			<p class="intro">When you are on a Freescale site and are asked for personal information, you are sharing that information with Freescale, its subsidiaries and related companies. Freescale may also contract with third-party companies to perform services for Freescale on its Web site that require these companies to collect personal information (e.g., hosting a Web site sweepstakes, promotion or survey, or selling software downloads). The Freescale Web site may also contain various links to third-party Web sites. These sites may provide additional information, goods, services and/or promotions. These sites are owned and operated independently of Freescale, and have their own separate privacy and data collection practices. Any information you provide to these Web sites will be governed under the terms of their Privacy Policy, if any. Freescale has no responsibility or liability whatsoever for the independent actions or policies of these independent sites, and is not responsible for the content or privacy practices of such sites.</p>
-			<p><a href="#top" class="returnTop">Return to Top</a></p>
-			<!-- Begin Header-->
-			<div class="hrw"><hr></div>
-				<a name="how"></a><h2>How is my information used?</h2>
-			<div class="hrw"><hr></div>
-			<!-- End Header -->
-			<div class="padMe5"></div>
-			<p class="intro">Freescale's primary goal in collecting personal information is to facilitate development support functions such as service requests, restricted-access software downloads, and secure application activities. This information may also be used to provide you and others with a customized experience on our site, which includes interactive communications and other services.</p>
-			<p>The Freescale site may also contain optional surveys and questionnaires asking for information, as well as several opportunities for visitors to ask questions. We use the information you provide to help us design and build better products, to customize your shopping experience, and to provide advice and purchase recommendations. Taking part in any of these segments is always optional.</p>
-			<p>Finally, Freescale does research on our users' demographics, interests and behavior based on the information provided to us by users when they make a purchase, during a promotion, from surveys and from our server log files. We do this to better understand and serve our users. This research is compiled and analyzed on an aggregated basis so as to prevent identification of personal information relating to any one individual. Freescale may share this aggregated data with other users during their visits to our site and with our business partners.</p>
-			<p><a href="#top" class="returnTop">Return to Top</a></p>
-			<!-- Begin Header-->
-			<div class="hrw"><hr></div>
-				<a name="share"></a><h2>With whom does Freescale share this information?</h2>
-			<div class="hrw"><hr></div>
-			<!-- End Header -->
-			<div class="padMe5"></div>
-			<p class="intro">Except as outlined in this policy or on our Web site, Freescale never provides your personal information to third parties without your consent. Freescale shares the information you provide with Freescale subsidiaries and related companies.</p>
-			<p>Freescale may also share your personal information with third-party business partners so that they may provide services to Freescale that are consistent with the terms of this Privacy Policy and this Web site (e.g., database management, sending targeted e-mails, software sales, and conducting sweepstakes and other promotions on behalf of Freescale). Freescale takes great pride in utilizing only reputable business partners. Freescale may also, on occasion, provide personally identifiable information to third-party businesses as part of a specific product, service or promotion.</p>
-			<p>Freescale's Web site may also utilize third-party vendors to provide products and services directly to Freescale consumers. Such relationships are designated with a "Provided by Company" legend or logo, or other similarly worded designation. If you desire to purchase a product or service from such third party, your personal information will be collected by the third-party company, and shared with Freescale. You may review the privacy practices of the third party either by clicking the link on the bottom of the page, or by clicking on the "Provided by Company" logo, which will take you to their Web site. Additionally, when you purchase or download software applications from Freescale or a third party, your personal information is shared with the software developer/licensor in order to register you as a licensed software user, and to permit them to provide you any required support. Although these software developers are encouraged to develop appropriate privacy policies, Freescale cannot be responsible for the privacy practices of such companies. If you are concerned about the Privacy Policy of a certain developer or software company, you may contact them directly or visit their individual Web sites.</p>
-			<p>Freescale shares Web site usage information about visitors to our Web site who have received a targeted promotional campaign with a reputable third-party advertising company for the purpose of targeting future campaigns and upgrading visitor information used in reporting statistics. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please visit <a href="http://www.privacychoices.org/" target="_blank">http://www.privacychoices.org/</a>. To opt out of the targeting program, please visit <a href="http://www.privacychoices.org/optout.htm" target="_blank">http://www.privacychoices.org/optout.htm</a>.</p>
-			<p>Freescale may also disclose personal information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating this site's Terms of Use or may be violating Freescale's or others' rights or causing injury to or interference with Freescale's or others' property. Freescale may also disclose or access personal information when we believe in good faith that the law requires it.</p>
-			<p>Freescale may also disclose aggregated user statistics in order to describe our Web site to prospective business partners, advertisers, and other third parties, and for other lawful purposes.</p>
-			<p><a href="#top" class="returnTop">Return to Top</a></p>
-			<!-- Begin Header-->
-			<div class="hrw"><hr></div>
-				<a name="choice"></a><h2>What choices are available to users regarding collection, use and distribution of the information?</h2>
-			<div class="hrw"><hr></div>
-			<!-- End Header -->
-			<div class="padMe5"></div>
-			<p class="intro">Freescale or its business partners may, from time to time, send you e-mail or direct mail or contact you by other means regarding products and services. If you do not want to be contacted or receive such information, simply tell us when you give us your personal information, or follow the directions contained in your personal profile to remove your name from our mailing list.</p>
-			<p>On certain types of Freescale promotions, we will ask for your e-mail address in order to contact you in the event you have won a prize. When you participate in these types of promotions, you may receive promotion-related e-mail. Occasionally these promotion-related e-mail messages may include targeted advertisements. If you do not wish to receive such advertisements, you can choose not to participate in such promotions or contests.</p>
-			<p>If you want to be removed from our mailing list, select "Update Your Interests and Subscription Information" in Your Account after logging in. Follow the instructions to opt-out of receiving email.</p>
-			<p><a href="#top" class="returnTop">Return to Top</a></p>
-			<!-- Begin Header-->
-			<div class="hrw"><hr></div>
-				<a name="protect"></a><h2>What security measures does Freescale use to protect information from loss, misuse or alteration?</h2>
-			<div class="hrw"><hr></div>
-			<!-- End Header -->
-			<div class="padMe5"></div>
-			<p class="intro">When you place an order or provide personal information, your transactions are encrypted for security. Encryption scrambles the information in your purchase, including your credit card number, so this information can only be viewed by Freescale or its authorized third party agent, Reg.Net.</p>
-			<p>Freescale uses Secure Sockets Layer (SSL) encryption technology, the highest level of security on the Internet. The SSL protocol provides server authentication, data integrity and privacy on the Web. This security measure helps ensure that no impostors, eavesdroppers or vandals get your personal information. SSL not only encrypts your personal and financial information transmitted, including credit card information, but also verifies the identity of the server and that the original message arrives safely at its destination.</p>
-			<p>However, no data transmission over the Internet can be guaranteed to be 100 percent secure. As a result, while we strive to protect your personal information, Freescale cannot ensure or warrant the security of any information you transmit to us or from our Web site, and therefore you use our site at your own risk. Once we receive your transmission, we use our best effort to ensure its security on our systems.</p>
-			<p>As a global company, Freescale has international sites and users all over the world. When you give Freescale personal information, that information may be sent electronically to servers outside of the country where you originally entered the information. In addition, that information may be used, stored and processed outside of the country where you entered that information. Whenever Freescale handles personal information, regardless of where this occurs, it takes steps to ensure that your information is treated securely and in accordance with the relevant Terms of Use and this Privacy Policy.</p>
-			<p><a href="#top" class="returnTop">Return to Top</a></p>
-			<!-- Begin Header-->
-			<div class="hrw"><hr></div>
-				<a name="change"></a><h2>How you can correct or change the information Freescale has collected?</h2>
-			<div class="hrw"><hr></div>
-			<!-- End Header -->
-			<div class="padMe5"></div>
-			<p class="intro">If you would like to review, correct or change any personal information you have provided, or remove your name from our mailing list, after you have logged in, you can update and correct your information under "Account Settings" or you can submit a service request via the Technical Helpline on our Contact Us page.</p>
-			<p><a href="#top" class="returnTop">Return to Top</a></p>
-			<!-- Begin Header-->
-			<div class="hrw"><hr></div>
-				<a name="child"></a><h2>Issues involving your child's privacy:</h2>
-			<div class="hrw"><hr></div>
-			<!-- End Header -->
-			<div class="padMe5"></div>
-			<p class="intro">This site is intended for use by persons over the age of 13. Freescale does not seek to collect information about children under the age of 13. No information should be submitted to or posted on this Web site by users under 13 years of age. If a child under the age of 13 submits personal information to this Web site, we delete the information as soon as we discover it and do not use it for any other purpose. Freescale encourages guardians to take an active role in their children's use of the Internet, and to inform them of the potential dangers of providing information about themselves over the Internet.</p>
-			<p><a href="#top" class="returnTop">Return to Top</a></p>
-			<!-- Begin Header-->
-			<div class="hrw"><hr></div>
-				<h2>Additional Information:</h2>
-			<div class="hrw"><hr></div>
-			<!-- End Header -->
-			<div class="padMe5"></div>
-			<p class="intro">Notices to you may be made via either e-mail or regular mail. Freescale may also provide notices of changes to the Terms of Use or other matters by displaying notices or links to notices to you generally on the Site.</p> 
-			<p><a href="#top" class="returnTop">Return to Top</a></p>
-			<!-- Begin Header-->
-			<div class="hrw"><hr></div>
-				<h2>Disclaimer of Warranty:</h2>
-			<div class="hrw"><hr></div>
-			<!-- End Header -->
-			<div class="padMe5"></div>
-			<p class="intro">Questions regarding this policy should be directed to <a href="mailto:webmaster@freescale.com">webmaster@freescale.com</a>. You may also contact us by U.S. mail at:</p>
-			<div class="vcard">
-				<dl class="adr">
-					<dd><a class="fn org url" href="http://www.freescale.com/">Freescale Semiconductor Inc.</a></dd>
-					<dd class="fn">Freescale.com Privacy Administrator</dd>
-					<dd class="street-address">6501 William Cannon Drive West</dd>
-					<dd><span class="locality">Austin</span>, <span class="region">Texas</span> <span class="postal-code">78735</span></dd>
-					<dd class="country-name">U.S.A.</dd>
-				</dl>
-			</div>
-			<p>Date of Policy: March 14, 2009</p>
-			<p><a href="#top" class="returnTop">Return to Top</a></p>
-			<div class="bkflt"></div><!-- break the float -->
-			<div class="pdtn"></div><!-- add 10px pad -->
-		</div><!-- end lt col -->
-		<div class="rc"><!-- beg rt col -->
-			<div class="iu"><!-- beg info unit -->
-				<h1>Regarding Our Privacy Policy</h1>
-				<p><strong>This statement discloses the privacy guidelines for Freescale Semiconductor's Web site. Information submitted solely in a business capacity is not covered by these guidelines.</strong></p>
-			</div><!-- end info unit -->
-			<div class="iu"><!-- beg info unit -->
-				<h1>Technical Support</h1>
-				<ul>
-					<li><a href="AUTOLINK{SUPPORTHOME:W}#online_self-help">Online self-help support</a></li>
-					<li><a href="AUTOLINK{SUPPORTHOME:W}#online_assisted">Online assisted support</a></li>
-					<li><a href="AUTOLINK{SUPPORTHOME:W}#phone-assisted">Phone-assisted support</a></li>
-				</ul>
-			</div><!-- end info unit -->
-			<div class="iu"><!-- beg info unit -->
-				<h1>Other Resources</h1>
-				<ul>
-					<li><a href="AUTOLINK{WTOBUY_BUYDIRECT:W}">Buy Direct</a></li>
-					<li><a href="/webapp/sps/site/homepage.jsp?nodeId=0661054829">Freescale Alliance Program</a></li>
-					<li><a href="AUTOLINK{UNIVPROGRAM_HOME_CAT:W}">University Programs</a></li>
-				</ul>
-			</div><!-- end info unit -->
-		</div><!-- end rt col -->
-		<div class="bkflt"></div><!-- break the float -->
-		<div class="pdtn"></div><div class="pdtn"></div><!-- 20px pad to make up for pad subtracted from #pgctwrp -->
-	</div><!-- end main-content iframe -->
-</div><!-- end page-content wrap -->
+<script type="text/javascript" src="http://style.nxp.com/v1.43/shared/js/webanalytics.js"></script>
+<script type="text/javascript" src="//assets.adobedtm.com/f2bd0c145f764c0e7b6dae5f9269061e38fabacd/satelliteLib-2fb7098ae4e0938976f1eee822973607d3f48c60.js"></script></head>
+<body class="overview-jsp">
+<!--[if lt IE 9]>
+     <script src="http://style.nxp.com/v1.43/search/javascript/html5shiv.js"></script>
+     <script src="http://style.nxp.com/v1.43/search/javascript/respond.min.js"></script>
+<![endif]-->
 <script type="text/javascript">
-// <![CDATA[
-writeFooter();
-// ]]>
-</script><!-- BEG GLOBAL FOOTER -->
-<!-- WebTrends NetIQ Javascript -->
-<script src="/files/abstract/misc/SDC_SMARTSOURCE_TAG.js" language="javascript" type="text/javascript"></script>
-<noscript><IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="https://web.archive.org/web/20050206225801/http://statse.webtrendslive.com/dcsna6bpqoifwzzkbkpmprmyf_5x3f/njs.gif?dcsuri=/nojavascript&WT.js=No"></noscript>
-<!-- End WebTrends NetIQ Javascript -->
-<table width="750" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td colspan="2"><div class="Spacer-5px">&nbsp;</div></td>
-  </tr>
-  <tr>
-    <td width="577" height="40" class="footerBlue"><div class="footer"><a href="/" class="white_footer">www.freescale.com</a> | <a href="/webapp/sps/site/sitemap.jsp?nodeId=0" class="white_footer">Site Map</a> | <a href="/files/abstract/help_page/TERMSOFUSE.html" class="white_footer">Terms of Use</a> | <a href="/files/abstract/help_page/PRIVACYPRACTICES.html" class="white_footer">Privacy Practices</a> | <br>
-    © Freescale Semiconductor, Inc. 2004-2005. All Rights Reserved</div></td>
-    <td height="40"><img src="/shared/images/footer_wedge.gif" width="68" height="40"></td>
-  </tr>
+   	var s_vt_id = getCookieForSiteCatalyst("freescale_visitor_id");
+	var s_site_platform = "normal";
+	var s_normal_site = "normal";
+	if(s_site_platform == s_normal_site) {
+		s_site_platform = "full";
+	}
+
+	var s_do_pagecall = true;
+	
+	var s_searchQryTxt = "";
+	var s_searchResultCnt = "";
+	
+	var s_searchFilter = "";
+	
+	
+	if(s_searchResultCnt == '' || s_searchResultCnt == "0"){
+		s_searchResultCnt = "zero";
+	}
+
+	var s_currentUrl = document.URL;
+
+	var searchLabel = null;
+	var code = null;	
+	var type = null;
+	var nodeId = null;
+	var partnerId = null;
+	var partNumber = null;
+	var partNumber1 = null;
+	var packageId = null;
+	var orderablePartNum = null;
+	var yid = null;
+	var pageLoadRule = "";
+	var summaryPageType = "";
+	var pageCategory = "";
+	var sourceId = "";
+	var sourceType = "";
+
+	
+	pageCategory = "OVERVIEW";
+	
+		pageLoadRule = pageLoadRule == "" ? "General":pageLoadRule;
+
+	
+		
+	
+	
+	s_currentUrl = getCleanPageURL();
+	if(searchLabel != null) s_currentUrl = s_currentUrl +'?searchLabel=' + searchLabel;
+	if(partnerId != null) s_currentUrl = s_currentUrl +'?partnerId=' + partnerId;	
+	if(partNumber != null) s_currentUrl = s_currentUrl +'?PART_NUMBER=' + partNumber;
+	if(partNumber1 != null) s_currentUrl = s_currentUrl +'?partnumber=' + partNumber1;
+	if(packageId != null) s_currentUrl = s_currentUrl +'?packageId=' + packageId;
+	if(orderablePartNum != null) s_currentUrl = s_currentUrl +'?orderablePartNum=' + orderablePartNum;	
+
+	var eventPathing = "";
+	var pageName = "General:Privacy Practices | PRIVACYPRACTICES";
+	var formReference = "";
+	var eVar57 = "";
+		
+	
+		eventPathing = "D=pageName";
+        if (typeof(eVar57) != "undefined" && eVar57.indexOf("Rich Media Component") != -1) {
+        	eventPathing = eVar57;
+        }
+	
+	
+	var digitalData={};
+	digitalData.pageInfo = {};
+	digitalData.pageInfo.pageLoadRule = pageLoadRule; 
+	digitalData.pageInfo.pageName = pageName;
+	digitalData.pageInfo.pageURLClean = s_currentUrl;			
+	digitalData.pageInfo.pageType = "General";		
+	digitalData.pageInfo.siteSection1 = "About NXP";
+	digitalData.pageInfo.siteSection2 = "Privacy Practices";
+	digitalData.pageInfo.siteSection3 = "";
+	digitalData.pageInfo.siteSection4 = "";
+	digitalData.pageInfo.siteSection5 = "";
+	digitalData.pageInfo.siteSection6 = "";
+	digitalData.pageInfo.siteSection7 = "";
+	digitalData.pageInfo.pageEventPathing = eventPathing;
+	
+	digitalData.pageInfo.pageTab = "";
+	digitalData.pageInfo.nodeID = "061FA3";	
+	digitalData.pageInfo.assetID = "1396974272249722181FA3";
+	digitalData.pageInfo.localTitle = "Privacy";
+
+	digitalData.pageInfo.pageCodeID = "PRIVACYPRACTICES";
+	if ((pageName != null && pageName != "") && (pageName.indexOf("Shopping Cart:Distributors | ")!= -1 || 
+		    pageName.indexOf("General: More Info | ")!= -1 || pageName.indexOf("General: Reliability Report | ")!= -1 || 
+			pageName.indexOf("General: Parts Piece Detail | ")!= -1)){
+			digitalData.pageInfo.pageCodeID = "D=pageName";		 
+	}	
+
+	digitalData.pageInfo.summaryPageType = summaryPageType;
+	digitalData.pageInfo.pageCategory = pageCategory;
+	digitalData.pageInfo.sourceId = sourceId;
+	digitalData.pageInfo.sourceType = "";
+	if(pageCategory == "PSP" && sourceId != "")
+		digitalData.pageInfo.sourceType = sourceType;
+
+
+	var s_contentFinder = getContentFinding(document.referrer, document.URL);
+	digitalData.pageInfo.contentFinding = s_contentFinder;
+	
+	
+	digitalData.pageInfo.leftNavigation = "Left Navigation: Enabled";
+				
+
+	digitalData.userInfo = {};
+	digitalData.userInfo.fslVisitorID = s_vt_id;
+
+	digitalData.siteInfo = {};
+	digitalData.siteInfo.sitePlatform = s_site_platform;
+	digitalData.siteInfo.lang = "en";
+
+	</script>
+<script type="text/javascript">
+ if (typeof jQuery != 'undefined') { 
+	  jQuery(document).ready(function() {  
+			$('a.thickbox').click(function(event){
+				var blkImgpath=$(this).find('img', this).attr("src"); 	    
+				if(blkImgpath.indexOf('/files/graphic/block_diagram') > -1){
+					var blkTitle = $(this).find('img', this).attr("alt");			
+					if(blkImgpath.indexOf("http") < 0) {
+						blkImgpath = window.location.protocol+"//"+window.location.host + blkImgpath;
+					}
+					blkImgpath=blkImgpath.replace("cache.nxp.com","www.nxp.com");
+					blkImgpath=blkImgpath.replace("cache-uat.freescale.com","uat.freescale.com");	
+					trackAnalyticsBlockDiagram(blkImgpath, blkTitle);
+				}
+			});							 
+		});  
+	}
+ </script>
+
+<script>var noteTxt='';
+function onloadworkAround(){
+if(noteTxt=='true')
+	{
+viewAll(true,'1396974272249722181FA3','WEBPAGE','');
+	}
+
+}
+addLoadEvent(onloadworkAround);
+
+</script>
+<a name="top"></a>
+<!--googleoff: all-->
+
+
+<meta name="viewport" content="initial-scale=1; width=device-width;">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<script>
+var conflict = false; 
+if(typeof $ != "undefined") 
+	conflict = true;
+</script>
+<script type="text/javascript" src="http://style.nxp.com/v1.43/shared/js/jquery/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="http://style.nxp.com/v1.43/shared/js/bootstrap.min.js"></script>
+
+
+<script type="text/javascript">
+var jQuery_1_9_1 = jQuery;
+if(conflict) 
+	jQuery_1_9_1 = jQuery.noConflict(true);
+</script>
+<script type="text/javascript" src="http://style.nxp.com/v1.43/shared/js/historyMenu.js"></script>
+<script type="text/javascript" src="http://style.nxp.com/v1.43/shared/js/header.js"></script>
+
+<link rel="stylesheet" href="http://style.nxp.com/shared/stylesheets/nxp-common.min.css" type="text/css">
+ <link rel="stylesheet" href="http://style.nxp.com/files/css/nxp-common-delta.css" type="text/css">
+
+<!--[if lte IE 9]>
+	<link rel="stylesheet" href="http://style.nxp.com/shared/stylesheets/nxp-common-ie.min.css" type="text/css" />
+	<script src="http://style.nxp.com/v1.43/files/js/html5shiv.js"></script>
+<![endif]--> 
+
+<!--[if lt IE 9]>	
+	<script src="http://style.nxp.com/v1.43/files/js/placeholders.min.js"></script>
+	<script src="http://style.nxp.com/v1.43/shared/js/respond.min.js"></script>
+	<link rel="stylesheet" href="http://style.nxp.com/shared/stylesheets/nxp-common-ie8.min.css">
+<![endif]-->
+
+ 
+<a name="top"></a>
+                <!-- <noindex> --><input type="hidden" name="baseUrl" value="http://www.nxp.com/webapp">
+        <input type="hidden" name="PART_NUMBER" value="">
+        <input type="hidden" name="SEARCH_OPERATOR" value="Contains">
+
+        <!--[if lt IE 9]>
+		<div class="ie-alert ie-alert-warning ie-alert-dismissible" role="alert" id="ie8Alert">
+		  <button type="button" class="close" data-dismiss="alert"><span aria-hidden="true" class="icon-close2"></span><span class="ie-alert-close">Close</span></button>
+		  Some features of this site may not be available on the browser version you are using. For an enhanced experience, please use a more current browser.</div>
+		<![endif]-->
+        
+        <header>
+       <div id="header" class="nxp-nav">
+        <div class="container">
+				<div class="row">
+					<div class="col-sm-1">
+        				<div id="fsl-logo">
+							<a title="NXP Semiconductors" href="http://www.nxp.com">
+							<img alt="NXP Semiconductors" src="http://style.nxp.com/v1.43/shared/images/NXP_logo.png"></a>
+						</div>
+					</div>
+					<div class="col-sm-8 pull-right zIndex2">
+						<ul class="list-inline pull-right" id="top-nav">
+							<li>
+									<div class="dropdown" id="login-block">
+									
+	                                	<a href="https://www.nxp.com/security/public/login.LoginActionController.sp" class="login dtmHeaderLogin">
+	                                		<span class="icon-user nxp-orange-text"></span>&nbsp;Sign In or Register</a>
+	                                	</div>
+	                                </li>
+									<li>
+              <div class="dropdown" id="languages">
+                <a href="#" id="languageDropdownMenu" data-toggle="dropdown">
+                <span class="icon-globe2 nxp-blue-text"></span>&nbsp;English&nbsp;<span class="icon-arrow-down2"></span></a>
+                <ul id="language-actions" class="dropdown-menu dropdown-menu-right" role="menu" aria-labelledby="languageDropdownMenu">
+                  <li role="presentation" class="select-lang">Select language</li>
+                 <!--  <li role="presentation"><a role="menuitem" class="lang-en selected">English <span class="icon-checkmark3 pull-right"></span></a></li> -->
+                  <li role="presentation"><a role="menuitem" class="lang-en selected" href="/about/privacy:PRIVACYPRACTICES?uc=true&amp;lang_cd=en">
+                 <span class="icon-globe2 nxp-blue-text pull-left"></span>
+                  <span class="icon-checkmark3 fsl-orange-text pull-right"></span> 
+				 &nbsp;English&nbsp;
+                 </a></li>
+                  
+                <li role="presentation"><a role="menuitem" class="lang-zh-Hans" href="/zh-Hans/about/privacy:PRIVACYPRACTICES?uc=true&amp;lang_cd=zh-Hans">
+                 <span class="flag flag-zh pull-left"></span>
+                  <span class=""></span> 
+				 &nbsp;中文&nbsp;
+                 </a></li>
+                  
+                <li role="presentation"><a role="menuitem" class="lang-ja" href="/ja/about/privacy:PRIVACYPRACTICES?uc=true&amp;lang_cd=ja">
+                 <span class="flag flag-ja pull-left"></span>
+                  <span class=""></span> 
+				 &nbsp;日本語&nbsp;
+                 </a></li>
+                  
+                <li role="presentation"><a role="menuitem" class="lang-ko" href="/ko/about/privacy:PRIVACYPRACTICES?uc=true&amp;lang_cd=ko">
+                 <span class="flag flag-ko pull-left"></span>
+                  <span class=""></span> 
+				 &nbsp;한국어&nbsp;
+                 </a></li>
+                  
+                <div class="dropdown-border"></div>
+                </ul>
+              </div>
+            </li>
+            	<li>
+            	<div id="shopping-cart">
+            			<a href="https://www.nxp.com/webapp/ecommerce.show_cart.framework"><span class="icon-cart nxp-green-text"></span>&nbsp;Cart</a>
+				</div>
+								</li>
+							</ul>
+							
+						</div>
+						<!--new searchBox-->
+						<div class="col-sm-8 pull-right" id="search-block">
+								<div class="input-group pull-right" id="search-input">
+								
+								
+							  
+							  <form id="search" class="search-form" name="gs" method="GET" action="/search" onsubmit="return validateSubmitQuery(this);">
+							<div class="sf-row">
+							<div class="input-group-btn zIndex5" id="search-all">
+							
+								
+								  <button type="button" class="btn btn-default dropdown-toggle everything" data-toggle="dropdown" tabindex="-1"><span id="Default-choice-list">ALL &nbsp;</span><span class="icon-arrow-down2"></span></button>
+								  <ul id="search-choices" class="dropdown-menu" role="menu">	
+								    <!--Modified for CR-60627 by b7215 start -->
+								    <li id="All" name="nxp_search_all_results"><a style="cursor:pointer"><span class="icon-globe"></span>&nbsp;&nbsp;ALL</a></li>
+									<li id="Products" name="nxp_search_products"><a style="cursor:pointer"><span class="icon-part"></span>&nbsp;&nbsp;Products</a></li>
+									<li id="Documents" name="nxp_search_documents"><a style="cursor:pointer"><span class="icon-document"></span>&nbsp;&nbsp;Documents</a></li>
+									<li id="SoftwareTools" name="nxp_search_sw_tools"><a style="cursor:pointer"><span class="icon-tools"></span>&nbsp;&nbsp;Software &amp; Tools</a></li>
+									<li id="Support" name="nxp_search_support"><a style="cursor:pointer"><span class="icon-question6"></span>&nbsp;&nbsp;Support</a></li>
+									<!-- <li id="Applications" name="nxp_search_applications"><a style="cursor:pointer"><span class="icon-tree3"></span>&nbsp;&nbsp;Applications</a></li>-->
+									<li id="Videos" name="nxp_search_videos"><a style="cursor:pointer"><span class="icon-film"></span>&nbsp;&nbsp;Videos</a></li>
+									<li id="Trainings" name="nxp_search_training"><a style="cursor:pointer"><span class="icon-graduation"></span>&nbsp;&nbsp;Training</a></li>
+									<li id="Community" name="nxp_search_community"><a style="cursor:pointer"><span class="icon-bubbles"></span>&nbsp;&nbsp;Community</a></li>
+									<li id="Blogs" name="nxp_search_blogs"><a style="cursor:pointer"><span class="icon-bubble11"></span>&nbsp;&nbsp;Blogs</a></li>
+									<li id="Partners" name="nxp_search_partner"><a style="cursor:pointer"><span class="icon-user7"></span>&nbsp;&nbsp;Partners</a></li>
+								    <li id="CrossReference" name="CrossReference"><a style="cursor:pointer"><span class="icon-shuffle2"></span>&nbsp;&nbsp;Cross Reference</a></li>
+								    <li id="PackageSearch" name="PackageSearch"><a style="cursor:pointer"><span class="icon-key-keyboard"></span>&nbsp;&nbsp;Package Search</a></li>
+								    <li id="ChemicalFinder" name="ChemicalFinder"><a style="cursor:pointer"><span class="icon-leaf2"></span>&nbsp;&nbsp;Chemical Finder</a></li>
+								    <li id="ProductSelector" name="ProductSelector"><a style="cursor:pointer"><span class="icon-equalizer"></span>&nbsp;&nbsp;Product Selector</a></li>
+								    <!-- Modified for CR-60627 by b47215 end -->
+								  </ul>
+								  
+								  
+								</div>
+									<input type="text" value="" autocomplete="off" onkeyup=" searchTop(event)" id="parts" name="q" placeholder="Search..." class="form-control">
+									
+									<div class="input-group-btn " id="keyword-button-div">
+								  <button style="cursor:pointer" type="submit" class="btn btn-default search-submit"><span class="icon-search2 fsl-gray-text"></span></button>
+								<table style="width: 205px; visibility: hidden; margin-left:-368px; margin-top:00px;" id="result_suggest" cellpadding="0" cellspacing="0" class="ss-gac-m"></table>
+								</div>
+								
+								
+		
+							   
+							    
+								<input id="client" name="client" value="nxp_search_all_results" type="hidden"> <input id="site" name="site" value="nxp_en" type="hidden"> <input id="proxystylesheet" name="proxystylesheet" value="nxp_search_style_fe" type="hidden"> <input id="sort" name="sort" value="date:D:L:d1" type="hidden">
+								<input id="oe" name="oe" value="UTF-8" type="hidden"> <input id="ie" name="ie" value="UTF-8" type="hidden"> <input id="ud" name="ud" value="1" type="hidden"> <input id="output" name="output" value="xml_no_dtd" type="hidden">
+								<input id="exclude_apps" name="exclude_apps" value="1" type="hidden"> <input id="callback" name="callback" value="ss_show" type="hidden"> <input id="lang_cd" name="lang_cd" value="en" type="hidden"> <input id="filter" name="filter" value="0" type="hidden"> <input id="getfields" name="getfields" value="*" type="hidden"> <input type="hidden" name="baseUrl" value="http://www.nxp.com/webapp"> <input type="hidden" name="SEARCH_OPERATOR" value="Contains"> <input type="hidden" name="attempt" value="-1"> <input type="hidden" name="rc" value="1"> <input type="hidden" name="hl" value="en">
+									
+									<input id="dnavs" name="dnavs" type="hidden"> 
+									</div>
+							</form>
+
+						</div>
+						<!--new searchBox-->
+						</div>
+					</div>
+					<div class="navbar navbar-default megamenu">
+					<div class="navbar-header">
+						
+						<a href="#nogo" data-toggle="collapse" data-target="#navbar-collapse-fsl" class="navbar-toggle">
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						</a>
+					</div>
+				<div class="container">
+				<div id="navbar-collapse-fsl" class="navbar-collapse collapse">
+					<div class="navbar-center">
+					   
+  <ul class="nav navbar-nav"> 
+        <li class="dropdown  megamenu-fw productsmenu"> 
+          <a href="http://www.nxp.com/webapp/sps/library/prod_lib.jsp" data-toggle="dropdown" class="dropdown-toggle">PRODUCTS</a> 
+          <div class="dropdown-menu dtmMegaMenu" data-dtmname="PRODUCTS"> 
+              <div class="row"> 
+                <div class="col-sm-4"> 
+	                  <h5><a href="http://www.nxp.com/products/arm-processors:ARM-ARCHITECTURE">ARM<sup>®</sup> PROCESSORS&nbsp;<span class="icon-angle-right"></span></a></h5> 
+                  <ul> 
+                    <li><a href="http://www.nxp.com/products/arm-processors/kinetis-cortex-m:KINETIS">Kinetis Cortex®-M Microcontrollers</a></li> 
+                    <li><a href="http://www.nxp.com/products/arm-processors/lpc-arm-cortex-m-mcus:LPC-ARM-CORTEX-M-MCUS ">LPC Cortex-M Microcontrollers</a></li> 
+                    <li><a href="http://www.nxp.com/products/arm-processors/lpc-arm7-arm9-mcus:LPC-ARM7-ARM9-MCUS ">LPC ARM7/ARM9 Microcontrollers</a></li> 
+                    <li><a href="http://www.nxp.com/products/arm-processors/i.mx-applications-processors-based-on-arm-cores:IMX_HOME">i.MX Applications Processors</a></li> 
+                    <li><a href="http://www.nxp.com/products/power-architecture-processors/qoriq-platforms:QORIQ_HOME">QorIQ Multicore Processors</a></li> 
+              </ul> 
+	                  <h5><a href="http://www.nxp.com/products/power-architecture-processors:POWER-ARCHITECTURE">POWER ARCHITECTURE<sup>®</sup><br>PROCESSORS&nbsp;<span class="icon-angle-right"></span></a></h5> 
+	                  <h5><a href="http://www.nxp.com/products/more-processors:MORE-PROCESSORS">MORE PROCESSORS&nbsp;<span class="icon-angle-right"></span></a></h5> 
+                </div> 
+                <div class="col-sm-4"> 
+	                  <h5><a href="http://www.nxp.com/products/discretes-and-logic:DISCRETES-AND-LOGIC ">DISCRETE &amp; LOGIC&nbsp;<span class="icon-angle-right"></span></a></h5> 
+                  <ul> 
+                    <li><a href="http://www.nxp.com/products/discretes-and-logic/bipolar-transistors:MC_71078">Bipolar Transistors</a></li> 
+                    <li><a href="http://www.nxp.com/products/diodes-beta:MC_71100 ">Diodes</a></li> 
+                    <li><a href="http://www.nxp.com/products/esd-protection-beta:MC_56902 ">ESD Protection, TVS, Filters</a></li> 
+                    <li><a href="http://www.nxp.com/products/logic-beta:MC_50808 ">Logic</a></li> 
+                    <li><a href="http://www.nxp.com/products/mosfets-beta:MC_71128 ">MOSFETs</a></li> 
+                  </ul> 
+                  <h5><a href="http://www.nxp.com/products/zidentification-and-security-beta:MC_53420 ">IDENTIFICATION &amp; SECURITY&nbsp;<span class="icon-angle-right"></span></a></h5> 
+                  <ul> 
+                    <li><a href="http://www.nxp.com/products/identification-and-security/smart-card-ics/mifare-ics:MC_53422">MIFARE</a></li> 
+                    <li><a href="http://www.nxp.com/products/identification-and-security/nfc-and-reader-ics:MC_71110">NFC</a></li> 
+               	  </ul> 
+                    <h5><a href="http://www.nxp.com/products/interface-and-connectivity:INTERFACE-AND-CONNECTIVITY">INTERFACE AND CONNECTIVITY&nbsp;<span class="icon-angle-right"></span></a></h5> 
+                  	<ul> 
+                    	<li><a href="http://www.nxp.com/products/interface-and-connectivity/interface-and-system-management/i2c:MC_41735">I<sup>2</sup>C</a></li> 
+                    	<li><a href="http://www.nxp.com/products/interface-and-connectivity/wired-connectivity/usb-type-c:USB-TYPE-C">USB Type-C</a></li> 
+               		</ul> 
+                    <h5><a href="http://www.nxp.com/products/media-and-audio-processing:MEDIA-AND-AUDIO-PROCESSING">MEDIA AND AUDIO PROCESSING&nbsp;<span class="icon-angle-right"></span></a></h5> 
+                    <h5><a href="http://www.nxp.com/products/power-management:POWER-MANAGEMENT">POWER MANAGEMENT&nbsp;<span class="icon-angle-right"></span></a></h5> 
+                    <h5><a href="http://www.nxp.com/products/rf:RF_HOME">RF&nbsp;<span class="icon-angle-right"></span></a></h5> 
+                    <h5><a href="http://www.nxp.com/products/sensors:SNSHOME">SENSORS&nbsp;<span class="icon-angle-right"></span></a></h5> 
+                </div> 
+                <div class="col-sm-4"> 
+	                    <h5><a href="http://www.nxp.com/products/automotive-products:MC_50802">AUTOMOTIVE PRODUCTS&nbsp;<span class="icon-angle-right"></span></a></h5> 
+    								<ul> 
+  										<li><a href="http://www.nxp.com/products/analog-power-management/advanced-automotive-safety/automotive-radar:MITERWAVEICS ">Automotive Radar</a></li> 
+  										<li><a href="http://www.nxp.com/products/zinterface-and-connectivity-beta/can-lin-flexray-transceivers-beta:MC_50862 ">CAN/LIN/FlexRay Transceivers</a></li> 
+  										<li><a href="http://www.nxp.com/products/automotive-products/identification-and-security:IDENTIFICATION-SECURITY-AUTO ">Car Access &amp; Immobilizers</a></li> 
+  										<li><a href="http://www.nxp.com/products/automotive-products/media-and-audio-processing/multi-standard-digital-radio:MC_53738 ">Multi Standard Digital Radio</a></li> 
+  										<li><a href="http://www.nxp.com/products/automotive-products/microcontrollers-and-processors:MICROCONTROLLERS-PROCESSORS-AUTO ">S12 &amp; S32 MCUs/MPUs</a></li> 
+  										<!--li><a href="http://www.nxp.com/products/more-processors/16-bit-mcus/s12-magni-mixed-signal-mcusmagniv:S12MAGNIVMCU?cof=0&am=0">S12 MagniV Microcontroller</a></li> 
+  										<li><a href="http://www.nxp.com/products/arm-processors/s32-processors-and-microcontrollers:S32V200">S32 MCUs/MPUs</a></li--> 
+   <hr> 
+	                    <h5><a href="http://www.nxp.com/tools/embedded-software-and-tools:DEVELOPER_HOME">DEVELOPMENT TOOLS&nbsp;<span class="icon-angle-right"></span></a></h5> 
+	                    <h5><a href="http://www.nxp.com/webapp/software-center/library.jsp#/home/query/~query~/~filter~/popularity/0 ">SOFTWARE CENTER&nbsp;<span class="icon-angle-right"></span></a></h5> 
+   <hr> 
+	                    <h5>MORE PRODUCT INFORMATION&nbsp;</h5> 
+                  <ul> 
+                    <li><a href="http://www.nxp.com/products/products:PCPRODCAT ">All Products</a></li> 
+                    <li><a href="http://www.nxp.com/webapp/crosscheck/competitorXRef.sp">Competitor Cross Reference Tool</a></li> 
+                    <li><a href="http://www.nxp.com/packages ">Packages</a></li> 
+                    <li><a href="http://www.nxp.com/about/technology-programs/product-longevity:PRDCT_LONGEVITY_HM">Product Longevity Program</a></li> 
+                    <li><a href="http://www.nxp.com/webapp/parametricSelector.sp?">Product Selector</a></li> 
+               </ul> 
+                </ul></div> 
+              </div> 
+          <div class="dropdown-border"></div> 
+          </div> 
+      </li> 
+      <li class="dropdown megamenu-fw applicationsmenu"> 
+        <a href="http://www.nxp.com/webapp/sps/site/homepage.jsp?code=IFINDSTRYFCS" data-toggle="dropdown" class="dropdown-toggle">SOLUTIONS</a> 
+        <div class="dropdown-menu dtmMegaMenu" data-dtmname="SOLUTIONS"> 
+            <div class="row" style="padding:0 15px;"> 
+  			  <div class="col-sm-6" style="padding:0 5px;"> 
+  				<h5><a href="http://www.nxp.com/applications/smart-connected-solutions:SMART-CONNECTED-SOLUTIONS" style="padding-left: 0px !important;">SMART CONNECTED SOLUTIONS&nbsp;<span class="icon-angle-right"></span></a></h5> 
+  				<a href="http://www.nxp.com/applications/smart-connected-solutions:SMART-CONNECTED-SOLUTIONS"><img src="//cache.nxp.com/files/graphic/banner/main_pu/SMART-CONNECTED-DEVICES-MENU.jpg" class="img-responsive" alt="Smart Connected Devices" style="width:33%;"></a> 
+  				<p>An unrivaled portfolio of solutions for the Internet of Things (IoT), spanning everything from the end node, to the gateway, to the cloud.</p> 
+  			  </div> 
+              <div class="col-sm-6" style="padding:0 5px;"> 
+  				<h5><a href="http://www.nxp.com/applications/secure-connected-vehicle:SECURE-CONNECTED-VEHICLE" style="padding-left: 0px !important;">SECURE CONNECTED VEHICLE&nbsp;<span class="icon-angle-right"></span></a></h5> 
+  				<a href="http://www.nxp.com/applications/secure-connected-vehicle:SECURE-CONNECTED-VEHICLE"><img src="//cache.nxp.com/files/graphic/banner/main_pu/SECURE-CONNECTED-VEHICLE-MENU.jpg" class="img-responsive" alt="Secure Connected Vehicle" style="width:33%;"></a> 
+  				<p>Innovative solutions that enable breakthrough automotive designs in and around the car, enhancing safety and the driver experience.</p> 
+  			  </div> 
+            </div> 
+            <div class="row" style="padding:0 15px;"> 
+  			  <div class="col-sm-6" style="padding:0 5px;"> 
+  				<h5><a href="http://www.nxp.com/applications/solutions-for-the-iot-and-adas/smart-connected-solutions-for-the-iot/smart-cities-in-the-age-of-iot:SMART-CITIES" style="padding-left: 0px !important;">SMART CITIES&nbsp;<span class="icon-angle-right"></span></a></h5> 
+  				<a href="http://www.nxp.com/applications/solutions-for-the-iot-and-adas/smart-connected-solutions-for-the-iot/smart-cities-in-the-age-of-iot:SMART-CITIES"><img src="//cache.nxp.com/files/graphic/banner/SMART-CITIES-BANNER.jpg" class="img-responsive" alt="Smart Cities" style="width:33%;"></a> 
+  				<p>Ready for the future? We are. Providing reliable, more efficient technologies to safely navigate the growing demand of urban IoT.</p> 
+              </div> 
+  			  <div class="col-sm-6" style="padding:0 5px;"> 
+  				<h5><a href="http://www.nxp.com/applications/end-to-end-security-and-privacy:END-TO-END-SECURITY-AND-PRIVACY" style="padding-left: 0px !important;">END-TO-END SECURITY AND PRIVACY&nbsp;<span class="icon-angle-right"></span></a></h5> 
+  				<a href="http://www.nxp.com/applications/end-to-end-security-and-privacy:END-TO-END-SECURITY-AND-PRIVACY"><img src="//cache.nxp.com/files/graphic/banner/main_pu/SECURITY-AND-PRIVACY-MENU.jpg" class="img-responsive" alt="End to End Security and Privacy" style="width:33%;"></a> 
+  				<p>Security solutions that deliver the highest levels of protection, while making it as easy and convenient for users to interact with any service or device.</p> 
+              </div> 
+            </div> 
+            <div class="row" style="padding:0 15px;"> 
+  			  <div class="col-sm-6" style="padding:0 5px;"> 
+              </div> 
+  			  <div class="col-sm-6" style="padding:0 5px;"> 
+  				<h5><a href="http://www.nxp.com/applications/solutions-for-the-iot-and-adas/smart-society:SMART-SOCIETY" style="padding-left: 0px !important;">SMART SOCIETY&nbsp;<span class="icon-angle-right"></span></a></h5> 
+  				<a href="http://www.nxp.com/applications/solutions-for-the-iot-and-adas/smart-society:SMART-SOCIETY"><img src="//cache.nxp.com/files/graphic/banner/main_pu/SMART-SOCIETY-MENU.jpg" class="img-responsive" alt="End to End Security and Privacy" style="width:33%;"></a> 
+  				<p>Creating the infrastructure for the next generation of innovators through STEM programs, start-up communities and educational tools.</p> 
+              </div> 
+            </div> 
+          <div class="dropdown-border"></div> 
+        </div> 
+      </li> 
+        <li class="dropdown megamenu-fw trainingmenu"> 
+          <a href="http://www.nxp.com/training/sales-and-support:SUPPORTHOME" data-toggle="dropdown" class="dropdown-toggle">SUPPORT</a> 
+          <div class="dropdown-menu dtmMegaMenu" data-dtmname="SUPPORT"> 
+              <div class="row"> 
+                <div class="col-sm-4"> 
+	                      <h5><a href="http://www.nxp.com/pages/communities:COMMUNITIES" target="_blank">NXP COMMUNITY&nbsp;<span class="icon-angle-right"></span></a></h5> 
+                  <ul> 
+                    <li><a href="https://community.freescale.com/community/codewarrior" target="_blank">CodeWarrior Development Tools</a></li> 
+                    <li><a href="https://community.freescale.com/community/imx" target="_blank">i.MX Community (SoCs and PMIC Support)</a></li> 
+                    <li><a href="https://community.freescale.com/community/nfc" target="_blank">NFC</a></li> 
+                    <li><a href="https://community.freescale.com/community/iot-center" target="_blank">IoT Solutions Center</a></li> 
+                    <li><a href="https://community.freescale.com/community/kinetis" target="_blank">Kinetis Microcontrollers</a></li> 
+                    <li><a href="https://www.lpcware.com/forum" target="_blank">LPC Forums</a></li> 
+                    <li><a href="https://community.freescale.com/community/qoriq" target="_blank">QorIQ Processors</a></li> 
+                    <li><a href="https://community.freescale.com/community/16bit" target="_blank">S12/MagniV Microcontrollers</a></li> 
+                    <li><a href="https://community.freescale.com/community/wireless-connectivity" target="_blank">Wireless Connectivity</a></li> 
+                    <li><a href="http://www.nxp.com/pages/communities:COMMUNITIES" target="_blank">View All</a></li> 
+                  </ul> 
+                </div> 
+                <div class="col-sm-4"> 
+                  <h5><a href="http://www.nxp.com/training/online-academy:ON_DEMAND_TRNG">ONLINE TRAINING ACADEMY&nbsp;<span class="icon-angle-right"></span></a></h5> 
+                  <h5><a href="http://www.nxp.com/training/classroom-training-events:CLASSROOM-TRAINING-EVENTS">CLASSROOM TRAINING&nbsp;<span class="icon-angle-right"></span></a></h5> 
+                  <ul> 
+                    <li><a href="http://www.nxp.com/support/classroom-training-events/nxp-technology-forum:NXP-FTF-TECH-FORUM-HOME">NXP FTF Tech Forum</a></li> 
+                    <li><a href="http://www.nxp.com/support/classroom-training-events/nxp-tech-days:NXP-TECH-DAYS">NXP Technology Days</a></li> 
+                    <li><a href="http://www.nxp.com/training/classroom-training-events/industry-events:EVENTS_HOME">Industry Events</a></li> 
+                    <li><a href="http://www.nxp.com/training/classroom-training-events/certified-training-workshops:LIVE_TRNG">Certified Training Workshops</a></li> 
+                  </ul> 
+                  <h5><a href="http://www.nxp.com/training/university-programs:UNIVPROGRAM_HOME_CAT">UNIVERSITY PROGRAMS&nbsp;<span class="icon-angle-right"></span></a></h5> 
+                  <h5><a href="http://www.nxp.com/video/vault/?searchLabel=renderHomepage">VIDEO VAULT&nbsp;<span class="icon-angle-right"></span></a></h5> 
+                </div> 
+                <div class="col-sm-4"> 
+                  <h5><a href="http://www.nxp.com/training/sales-and-support:SUPPORTHOME">SUPPORT RESOURCES&nbsp;<span class="icon-angle-right"></span></a></h5> 
+                  <ul> 
+                    <li><a href="http://www.nxp.com/pages/documentation:DOCUMENTATION">Documentation Library</a></li> 
+                    <li><a href="http://www.nxp.com/training/sales-and-support:SUPPORTHOME">Sales and Support</a></li> 
+                    <li><a href="http://www.nxp.com/pages/nxp-professional-services:PROFESSIONAL-SERVICES">Professional Engineering Services</a></li> 
+                    <li><a href="http://www.nxp.com/webapp/software-center/library.jsp#/home/query/~query~/~filter~/popularity/0">Software Center</a></li> 
+                  </ul> 
+   	              <h5><a href="http://www.nxp.com/webapp/connect/memberDirSearch.sp">NXP PARTNER PROGRAM&nbsp;<span class="icon-angle-right"></span></a></h5> 	
+                </div> 
+              </div> 
+          <div class="dropdown-border"></div> 
+          </div> 
+        </li> 
+      <li class="dropdown  megamenu-fw aboutmenu"> 
+        <a href="http://www.nxp.com/about/about-nxp:COMPANY_INFO_HOME" data-toggle="dropdown" class="dropdown-toggle">ABOUT</a> 
+        <div class="dropdown-menu dtmMegaMenu" data-dtmname="ABOUT"> 
+            <div class="row"> 
+              <div class="col-sm-4"> 
+	                      <h5><a href="http://www.nxp.com/about/about-nxp:COMPANY_INFO_HOME">ABOUT NXP&nbsp;<span class="icon-angle-right"></span></a></h5> 
+                <ul> 
+                <li><a href="http://www.nxp.com/about/worldwide-locations:GLOBAL_SITES">NXP Worldwide</a></li> 
+                <li><a href="http://www.nxp.com/about/worldwide-locations/worldwide-sales-offices/distributor-network:DISTRIBUTORS">Distributor Network</a></li> 
+                <li><a href="http://media.nxp.com">Media Center</a></li> 
+                <li><a href="http://investors.nxp.com">Investor Relations</a></li> 
+                <li><a href="http://www.nxp.com/about/careers-at-nxp:CAREERS">Careers</a></li> 
+                <li><a href="http://www.nxp.com/about/our-customers:ABOUT_CUSTOMERS">Customers</a></li> 
+                <li><a href="http://blog.nxp.com/" target="_blank">Blogs</a></li> 
+              </ul>  
+              </div> 
+              <div class="col-sm-4"> 
+              <h5><a href="http://www.nxp.com/about/corporate-responsibility:CORP_SOCIAL_RESP">CORPORATE RESPONSIBILITY&nbsp;<span class="icon-angle-right"></span></a></h5> 
+                <ul> 
+                <li><a href="http://www.nxp.com/about/technology-leadership/environmentally-preferred-products:ABUENVPRFPRDX">Environmental Compliance Office</a></li> 
+                <li><a href="http://www.nxp.com/about/corporate-responsibility/ethics:ETHICS">Ethics</a></li> 
+                <li><a href="http://www.nxp.com/about/corporate-responsibility/employees:EMPLOYEES">Employees</a></li> 
+              </ul>  
+              <h5><a href="http://www.nxp.com/webapp/connect/memberDirSearch.sp">NXP PARTNER PROGRAM&nbsp;<span class="icon-angle-right"></span></a></h5> 	
+              <h5><a href="http://www.nxp.com/about/technology-leadership:RESEARCH_AND_DEVELOPMENT">TECHNOLOGY LEADERSHIP&nbsp;<span class="icon-angle-right"></span></a></h5> 
+                <ul> 
+                <li><a href="http://www.nxp.com/about/technology-programs/product-longevity:PRDCT_LONGEVITY_HM">Product Longevity</a></li> 
+                <li><a href="http://www.nxp.com/about/technology-leadership/quality:QUALITY_HOME">Quality</a></li> 
+                <li><a href="http://www.nxp.com/about/technology-leadership/safeassure-functional-safety-program:SAFETYPRGRM">SafeAssure</a></li> 
+                </ul>  
+              </div> 
+            </div> 
+
+          <div class="dropdown-border"></div> 
+        </div> 
+      </li> 
+    </ul> 
+   
+</div>
+					</div>
+					</div>
+					</div>
+				</div>
+				</div>
+				
+	<input type="hidden" id="sechighlight" name="sechighlight" value="aboutmenu">
+
+<script type="text/javascript">
+
+
+
+jQuery_1_9_1('[data-toggle=dropdown]').dropdown();
+
+
+jQuery_1_9_1(document).ready(function ($) 
+{   
+	var nonSecureHost="http://www.nxp.com/webapp";
+	var siteBlogs="nxp_blogs";
+	var siteCommunity="nxp_community";
+	var siteSupport="nxp_support_en";
+	var siteVar="nxp_en";
+	//code added for CR-59954 starts
+	var secHighlight = $('#sechighlight').val();
+	 $('.'+secHighlight).css("background-color", "#ffffff");
+	 $('.'+secHighlight+' > a ').css("color", "#777777");
+	//code added for CR-59954 ends
+	document.getElementById("dnavs").value="";	
+	$("#All").hide();
+	$('#ProductSelector').mouseover(function (e){
+  		
+		$("#parts").prop('disabled', true);
+		$("#parts").css('background-color' , '#DEDEDE');
+		$("#parts").css('color' , '#DEDEDE');
+	});
+	$('#ProductSelector').mouseout(function (e){
+		if (! $(this).data("sticky")){
+		$("#parts").prop('disabled', false);
+		$("#parts").css('background-color' , '#FFFFFF');
+		$("#parts").css('color' , '#666666');
+		}
+	
+	});
+  	$('#search-choices li').click(function () {
+		
+ 	document.getElementById("client").value  = $(this).attr('name');
+  	document.getElementById("Default-choice-list").innerHTML=$(this).text() + " ";
+
+  	if("Blogs"!=$(this).attr('id') && "Community"!=$(this).attr('id') && "Support"!=$(this).attr('id')){
+  		document.getElementById("site").value  =siteVar;
+  	  	}
+
+  	if("Blogs"==$(this).attr('id')){
+  		document.getElementById("site").value  =siteBlogs;
+  	}
+  	if("Community"==$(this).attr('id')){
+  		document.getElementById("site").value  =siteCommunity;
+  	}
+  	if("Support"==$(this).attr('id')){
+  		document.getElementById("site").value  =siteSupport;
+  	}
+
+  	if("ProductSelector"==document.getElementById("client").value){
+  		$(this).data("sticky", true);
+  		$("#parts").prop('disabled', true);
+  		$("#parts").css('background-color' , '#DEDEDE');
+  		$("#parts").css('color' , '#DEDEDE');
+  		var lang=document.getElementById("lang_cd").value;
+  		if("en"==lang)
+	     window.location=nonSecureHost+"/parametricSelector.sp?";
+	  	else
+	  	 window.location=nonSecureHost+"/parametricSelector.sp?lang_cd="+lang;
+  	  	
+
+    }
+	
+  	if($.trim($(this).text())!="All"){
+  	document.getElementById("dnavs").value=$(this).attr('id'); 
+	$('ul li').show();
+	$(this).hide();
+  	}
+  	else{
+  	document.getElementById("dnavs").value="";
+    $('ul li').show();
+    $("#All").hide();
+    }
+  });
+  	
+});
+
+
+var LANG_CD_LIST = "zh-Hans,ja,ko";
+var URL_DOMAIN = "www.nxp.com";
+var URL_MAJOR_DOMAIN = "nxp.com";
+var CACHE_URL_DOMAINS = ["cache.nxp.com", "style.nxp.com", "image.nxp.com"];
+</script>
+        	</header>
+     <!-- </noindex> --><script type="text/javascript" src="http://style.nxp.com/v1.43/shared/js/favorite.js"></script>
+<script>
+
+var ss_gsa_host = "//www.nxp.com";
+var nxp_domain = "http://www1.nxp.com";
+//Added by b22154 for CR-60627 for using in gsa_suggestions.js
+var blogsClient="nxp_search_blogs";
+var communityClient="nxp_search_community";
+var supportClient="nxp_search_support";
+</script>
+<script type="text/javascript" src="http://style.nxp.com/v1.43/search/javascript/gsa_suggestions.js"></script>
+
+<style type="text/css"> 
+.ss-gac-m {
+background: white;
+border: 1px solid black;
+cursor: default;
+font-size: 13px;
+line-height: 17px;
+margin: 0;
+position: absolute;
+z-index: 99;
+}
+
+.ss-gac-b {
+  background: #36c;
+  color: white;
+}
+
+.ss-gac-c {
+  overflow: hidden;
+  padding-left: 3px;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.ss-gac-d {
+  color: green;
+  font-size: 10px;
+  overflow: hidden;
+  padding: 0 3px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.ss-gac-b td {
+  color: white;
+}
+</html>
+
+.ss-gac-d {
+	display:none;
+}
+
+</style>
+<!--googleon: all-->
+
+<div id="pgctwrp"><noindex></noindex><div id="mncnt" class="iframe"><script type="text/javascript">
+var assetId='1396974272249722181FA3';
+var assettype='WEBPAGE';
+var tabname='';
+</script>
+<script type="text/javascript" src="http://style.nxp.com/v1.43/surjey/js/surjey-general.js"></script>
+
+<div style="width: 0px;" id="noteSeparatorLayer"></div>
+	<div id="notesContainer">
+	<div class="notesLayer" id="noteTemplate">
+		<input name="left" value="783px" type="hidden">
+		<input name="top" value="220px" type="hidden">
+		<input name="width" value="600px" type="hidden">
+		<input name="height" value="800px" type="hidden">
+		<div class="dragBar" id="dragtitle" onmouseup="DL_oLayer=this.parentNode">
+
+			<img src="http://image.nxp.com/v1.43/shared/images/b_icon_trash.gif" onmousedown="opacity(event,this.parentNode.parentNode, 100, 0, 500,false,'1396974272249722181FA3','WEBPAGE','');" alt="">&nbsp;
+			
+			<img src="http://image.nxp.com/v1.43/shared/images/x.gif" onmousedown="opacity(event,this.parentNode.parentNode, 100, 0, 500,true);" alt="">&nbsp;
+		</div>
+ 
+		<fieldset>
+			<textarea id="noteBody" onblur="DL_oLayer=this.parentNode.parentNode;insertNoteData();" rows="" cols=""></textarea>
+		</fieldset>
+
+		<img src="http://image.nxp.com/v1.43/shared/images/dragger_blue.gif" style="padding-left: 5px; cursor: se-resize; position: relative;" height="11px" border="0" alt="">
+		<iframe class="bufferIframe" src="http://style.nxp.com/v1.43/shared/js/transparentIframe.htm" frameborder="0"></iframe>
+	</div>
+    
+ 
+	<div id="bottomMarker"></div>
+</div>
+
+
+<form method="post" name="usersessionchk" action="/webapp/Webnote_Servlet">
+<input type="hidden" name="action" value="getuserinfo">
+<input type="hidden" id="url_page" name="urlpage" value="">
+</form>
+
+<script type="text/javascript" src="http://style.nxp.com/v1.43/shared/js/webnote.js"></script>
+
+<noindex><!-- Commented by b54369 for DAY1 on 29thSep 2015 - Start -->
+ <!-- Commented by b54369 for DAY1 on 29thSep 2015 - End -->
+<div class="fsl-sp">
+<div class="row">
+
+<div class="col-sm-3  hidden-sm hidden-xs" id="leftnav">
+
+<ul class="leftnav dtmLeftNav">
+<li><a href="/about/worldwide-locations:GLOBAL_SITES">Worldwide Locations</a></li>
+	<li><a href="http://media.nxp.com">Media Center</a></li>
+	<li><a href="http://investors.nxp.com/phoenix.zhtml?c=209114&amp;p=irol-irhome">Investor Relations</a></li>
+	<li><a href="/about/careers-at-nxp:CAREERS">Careers at NXP</a></li>
+	<li><a href="/about/our-customers:ABOUT_CUSTOMERS">Our Customers</a></li>
+	<li><a href="/about/corporate-responsibility:CORP_SOCIAL_RESP">Corporate Responsibility</a></li>
+	<li><a href="/webapp/connect/memberDirSearch.sp">NXP Partner Program</a></li>
+	<li><a href="/about/technology-leadership:RESEARCH_AND_DEVELOPMENT">Technology Leadership</a></li>
+	<li><a href="/about/trade-compliance:CORP_TRADECOMPL">Trade Compliance</a></li>
+	<li><a href="/about/awards-and-accolades:AWARDS">Awards and Accolades</a></li>
+	<li><a href="/about/contact-us:CONTACTUS">Contact Us</a></li>
+	</ul>
+<div class="leftSecAbs dtmGenAbstract" data-dtmname="Sectional Navigation Abstract">
+				<p class="intro"></p>
+				</div>
+		</div>
+<div class="col-sm-9 infounitrule">
+
+<!--googleoff: all-->
+<noindex>
+	
+	 <div style="float:left;width:95%;">
+<div id="bc">
+	<ul>
+	<li><a href="http://www.nxp.com">NXP</a></li>
+  <li>Privacy</li>	
+					</ul>
+	</div>
+		</div>
+	<div>
+     <div class="pull-right share-icons">
+				
+				<a title="Share via Email" href="#" class="email18x">
+						<span class="icon-mail2"></span>
+				</a> 
+				
+				
+				<span id="share-button" class="dropdown">
+              <a data-toggle="dropdown" id="shareDropdownMenu" href="#">
+              <span class="icon-share2"></span></a>
+              <ul aria-labelledby="languageDropdownMenu" role="menu" class="dropdown-menu dropdown-menu-right" id="share-actions">
+              <li role="presentation">
+	<a class="" title="Share on Facebook" href="#">
+		<span class="icon-facebook" style="font-size:14px;"></span>
+		<span class="share_txt" id="facebook_txt" href="#"> Facebook</span>
+	</a>
+</li>
+<li>
+	<a class="" title="Share on Twitter" href="#">
+		<span class="icon-twitter22" style="font-size:14px;"></span>
+		<span class="share_txt" id="twitter_txt" href="#">Twitter</span>
+	</a>
+</li>
+<li>
+	<a class="" title="Share on Google+" href="#">
+		<span class="icon-googleplus" style="font-size:14px;"></span>
+		<span class="share_txt" id="google_txt" href="#">Google+</span>
+	</a>
+</li>
+<li>
+	<a class="" title="Share on LinkedIn" href="#">
+		<span class="icon-linkedin" style="font-size:14px;"></span>
+		<span style="" class="share_txt" id="linkedIn_txt" href="#"> LinkedIn</span>
+	</a>
+</li>
+<li>
+	<a class="" title="Share via Email" href="#">
+		<span class="icon-mail2" style="font-size:14px;"></span>
+		<span class="share_txt" id="email_txt" href="#">Email</span>
+	</a>
+</li>
+<li>
+	<a class="" title="Printer" href="#">
+	<span class="icon-print" style="font-size:14px;"></span>
+	<span class="share_txt" id="print_txt" href="#">Printer</span>
+	</a>
+</li>
+ </ul>
+   </span>
+</div>
+</div>
+
+<script type="text/javascript" src="http://www.nxp.com/files/worldwide/shared/js/NewCoShareThis.js"></script>
+	<script>{attachEvents();}</script>
+	
+	</noindex>
+	<!--googleon: all-->
+<noindex><div class="liveChat">
+<font style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif; font-size: 12px; font-weight: normal;" color="#017bba"><a href="#" onclick="popUp()" title="Available Monday-Friday, 8AM-6PM CT (US &amp; Canada), 9AM-5PM CET (Europe), 9AM-5PM HKG (Asia).
+"> <img src="/shared/images/agent_available.JPG" title="Available Monday-Friday, 8AM-6PM CT (US &amp; Canada), 9AM-5PM CET (Europe), 9AM-5PM HKG (Asia).
+">Live Chat Available</a></font>
+</div>
+</noindex><div class="hrw">
+<noindex><hr>
+</noindex></div>
+<table width="100%">
+	<tbody><tr>
+		<td width="50%" align="left">
+		<h1 align="">Privacy</h1>
+		</td>
+		</tr>
 </tbody></table>
-<script language="JavaScript1.2" src="/shared/js/HM_Loader.js" type="text/javascript"></script><script language="JavaScript1.2" src="/shared/js/HM_ScriptDOM.js" type="text/javascript"></script>
-<!-- END GLOBAL FOOTER -->
+<script language="JavaScript1.2" src="/shared/js/PreLiveWebChat.js"></script>
+<div class="hrw">
+<noindex><hr>
+</noindex></div>
 
 
 
-<div id="HM_Menu12" style="position: absolute; visibility: hidden; left: -500px; top: -2000px; width: 220px; border-width: 0px; border-color: rgb(255, 255, 255); border-style: solid; overflow: hidden; cursor: default; height: 246px;"><div style="position: absolute; top: 0px; width: 220px; height: 246px;"><div id="HM_Item12_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 214px; top: 0px;">32-Bit Embedded Processors</div><div id="HM_Item12_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 214px; top: 19px;">Analog</div><div id="HM_Item12_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 214px; top: 38px;">Application-Specific Standard Products</div><div id="HM_Item12_4" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 214px; top: 57px;">Digital Signal Processors</div><div id="HM_Item12_5" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 214px; top: 76px;">Memory</div><div id="HM_Item12_6" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 214px; top: 95px;">Microcontrollers</div><div id="HM_Item12_7" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 214px; top: 114px;">Network and Communication Processors</div><div id="HM_Item12_8" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 214px; top: 133px;">RF and IF</div><div id="HM_Item12_9" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 214px; top: 152px;">SemiCustom</div><div id="HM_Item12_10" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 214px; top: 171px;">Sensors</div><div id="HM_Item12_11" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 214px; top: 190px;">Timing, Interconnect, Access and Datapath</div><div id="HM_Item12_12" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 214px; top: 209px;">Wireless Communications</div><div id="HM_Item12_13" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; left: 0px; width: 214px; top: 228px;">Archives</div></div></div><div id="HM_Menu13" style="position: absolute; visibility: hidden; left: -500px; top: -2000px; width: 175px; border-width: 0px; border-color: rgb(255, 255, 255); border-style: solid; overflow: hidden; cursor: default; height: 113px;"><div style="position: absolute; top: 0px; width: 175px; height: 113px;"><div id="HM_Item13_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 169px; top: 0px;">Automotive</div><div id="HM_Item13_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 169px; top: 19px;">Consumer Electronics</div><div id="HM_Item13_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 169px; top: 38px;">Industrial Control</div><div id="HM_Item13_4" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 169px; top: 57px;">Motor Control</div><div id="HM_Item13_5" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 169px; top: 76px;">Networking</div><div id="HM_Item13_6" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; left: 0px; width: 169px; top: 95px;">Wireless</div></div></div><div id="HM_Menu14" style="position: absolute; visibility: hidden; left: -500px; top: -2000px; width: 175px; border-width: 0px; border-color: rgb(255, 255, 255); border-style: solid; overflow: hidden; cursor: default; height: 132px;"><div style="position: absolute; top: 0px; width: 175px; height: 132px;"><div id="HM_Item14_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 169px; top: 0px;">Documentation</div><div id="HM_Item14_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 169px; top: 19px;">Design Tools</div><div id="HM_Item14_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 169px; top: 38px;">FAQs</div><div id="HM_Item14_4" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 169px; top: 57px;">Reference Designs</div><div id="HM_Item14_5" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 169px; top: 76px;">Technical Support</div><div id="HM_Item14_6" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 169px; top: 95px;">Training</div><div id="HM_Item14_7" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; left: 0px; width: 169px; top: 114px;">3rd Party Support</div></div></div><div id="HM_Menu15" style="position: absolute; visibility: hidden; left: -500px; top: -2000px; width: 175px; border-width: 0px; border-color: rgb(255, 255, 255); border-style: solid; overflow: hidden; cursor: default; height: 151px;"><div style="position: absolute; top: 0px; width: 175px; height: 151px;"><div id="HM_Item15_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 169px; top: 0px;">Freescale Worldwide</div><div id="HM_Item15_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 169px; top: 19px;">Company Information</div><div id="HM_Item15_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 169px; top: 38px;">Careers</div><div id="HM_Item15_4" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 169px; top: 57px;">Commitment to the Environment</div><div id="HM_Item15_5" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 169px; top: 76px;">Community Involvement</div><div id="HM_Item15_6" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 169px; top: 95px;">Investor Relations</div><div id="HM_Item15_7" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 169px; top: 114px;">Media Center</div><div id="HM_Item15_8" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; left: 0px; width: 169px; top: 133px;">University Program</div></div></div></body></html>
+
+<noindex>
+</noindex> <div class="padMe5"></div>
+<noindex><div class="padMe5"></div>
+<div id="previewMessage"></div>
+<script type="text/javascript">
+				displayPrinterFriendlyMessage();
+			</script> </noindex><form name="OverviewPage" action="">
+<div class="row">
+	<div class="col-xs-12">
+		<p class="intro">NXP believes strongly in protecting the privacy of the personally identifiable information you share with us. We also believe it is important to inform you about how we will use your personal data, and to give you choices about how those data will be used. By using NXP's website, you are consenting to NXP's collection, use, or storage of your personally identifiable information unless you opt out of such collection, use, or storage in accordance with the opt out process described in this Privacy Policy. Therefore, we encourage you to read this Privacy Policy carefully.</p>
+		<ul class="boxes">
+			<li><a href="#1">Scope of this Privacy Policy</a></li>
+			<li><a href="#2">Why should you share your personal data with NXP?</a></li>
+			<li><a href="#3">Sharing information</a></li>
+			<li><a href="#4">“Cookies” and website logging</a></li>
+			<li><a href="#5">Safeguarding the information you share with us</a></li>
+			<li><a href="#6">Your rights</a></li>
+			<li><a href="#7">Special information for parents &amp; guardians</a></li>
+			<li><a href="#8">Contacting us</a></li>
+			<li><a href="#9">Our Address</a></li>
+			<li><a href="#10">German privacy law</a></li>			
+		</ul>
+
+	<div class="pdtn"></div>
+
+	
+	<a name="1"></a><h2>Scope of this Privacy Policy</h2>
+	<div class="padMe5"></div>
+	<p>In general, this Privacy Policy applies to all personal information of individuals collected or used by NXP Semiconductors or its subsidiaries (NXP). This includes information from websites for commercial use that are owned by NXP Semiconductors and offline collections of personal data for commercial use owned by NXP. However, some of our websites or data collections work with special kinds of data which require a somewhat different privacy policy. Whenever and wherever that is the case, NXP will make it clear that the privacy policy concerned is different from this general NXP Privacy Policy.</p>
+
+	<a name="2"></a><h2>Why should you share your personal data with NXP?</h2>
+	<div class="padMe5"></div>
+	<p>Sharing your personally identifiable information enables us to offer you a number of benefits. It will make it easier and more convenient for you to:</p>	
+	<ul class="boxes">
+		<li>Register your purchase so you can receive all the benefits to which your purchase entitles you</li>
+		<li>Request information specific to your interests</li>
+		<li>Participate in online communities</li>
+		<li>Receive personalized messages and special offers that are relevant to your interests</li>
+		<li>Save time by storing your preferences</li>
+		<li>Buy NXP products online</li>
+	</ul>
+	<p>It will also allow us to conduct market research to help us develop better products, to provide more responsive customer service, and to improve our websites.</p>
+	<p>You may choose to share your information with us in a number of ways online, such as completing an registration form to become a member of MyNXP, ordering a product, entering a contest, registering a purchase, participating in a promotion, or subscribing to a newsletter.</p>
+	<p>You can also share your personally identifiable information with us by communicating with one of our customer care representatives by e-mail, telephone, or in writing.</p>
+	<p>Sometimes NXP obtains your personal data from other parties outside NXP. This includes the buying of a business of which you already are a customer or the disclosure of your personal data by one of our partner companies. If you do not want us to use your personal data which you have not provided to us yourself, you can let us know by contacting us at the address listed below.</p>	
+	
+	<a name="3"></a><h2>Sharing information</h2>
+	<div class="padMe5"></div>
+	<p>We want to know you better so we can serve you better. But the choice of whether you want this kind of service is up to you.</p>
+	<p>You should know that your personally identifiable information may be transferred from your home country to other NXP companies around the world, who may communicate with you about our products or special offers you may find useful. If you do not want us to send you personalized offers or information, you can let us know by checking the appropriate box in the subscription center. NXP will only share your data with third parties outside NXP in the following circumstances: Sometimes NXP sells you a product or offers you a service in a joint marketing effort with other companies. In such cases, your personal data will be shared with these companies. We will always let you know that such relationship exists and who these companies are prior to your registration. Note that these companies often have their own privacy policies that apply to the way they use your personal data. These privacy policies sometimes differ from the NXP Privacy Policy. NXP sometimes uses outside companies for handling your purchase or request or for processing your data. NXP requires these companies to adequately safeguard your personal data and not use your data for any other purpose not authorized by NXP. NXP sometimes sells a business to another company. Such transfer of ownership could include the transfer of your personal data directly related to that business to the buyer. NXP will release personally identifiable information if compelled by law. NXP will not sell or provide your personal data to other third parties allowing them to use your personal data for their own purposes.</p>
+	<p>NXP will not share any personal financial information you provide (such as credit card information) with other parties unless this is needed to handle your order, process our invoice, or prevent or combat fraud.</p>
+	<p>From time to time, this Web Site may provide links to other websites. You should carefully review the privacy policies on those sites; they may differ from the NXP Privacy Policy.</p>
+	
+	<a name="4"></a><h2>“Cookies” and website logging</h2>
+	<div class="padMe5"></div>
+	<p>Some of our Web Sites will send a "cookie," a small text file, to your computer. This allows us to recognize your computer the next time you visit, without bothering you with another request to register. And, if you use an online “shopping cart”, cookies allow us to keep track of the products you purchase. If you do not wish to receive cookies, please refer to the “Help” file of your Internet Browser to learn how to either block all cookies or receive a warning before a cookie is stored. To learn more about cookies we encourage you to visit <a href="http://www.cookiecentral.com/" target="_blank">www.cookiecentral.com</a></p>
+	<p>If you visit our Web Sites to browse, read, or download information, we collect and store some “visitor information” from you, such as the name of the domain and host from which you access the Internet, the Internet Protocol (IP) address of the computer you are using, the date and time you access our Web Site, and the Internet address of the website from which you linked directly to our Web Site. We use this information to measure the traffic on our Web Sites and to help us make our Web Sites more useful. We delete this information after some time.</p>	
+
+	<a name="5"></a><h2>Safeguarding the information you share with us</h2>
+	<div class="padMe5"></div>
+	<p>We recognize our responsibility to protect the information you entrust to us. NXP uses a variety of secure techniques to protect your information, including secure servers, firewalls, and encryption of financial data; however NXP does not guarantee the security of any information transmitted to or from NXP websites.</p>
+	<p>NXP websites also may make chat rooms, forums, message boards and/or newsgroups available to you. Please remember that any personally identifiable information you provide in these areas is also available to other users. It is your responsibility to protect the personally identifiable information you provide in these areas, and you should exercise caution before deciding to disclose it.</p>
+
+	<a name="6"></a><h2>Your rights</h2>
+	<div class="padMe5"></div>
+	<p>Once you have provided us with your personally identifiable information, you will have reasonable access to that information so you can change or delete it. You may do this by accessing your online profile, or by requesting a copy of your profile at the contact address listed below.</p>
+	<p>Because NXP sells thousands of products in hundreds of countries, you may have previously provided us with personally identifiable information through reply cards, our call centers, or in some other manner. Your decision not to register now will not affect the information you have already provided to NXP. Of course, you will always have the option to unsubscribe to any online contact from NXP or change your personal profile information.</p>
+
+	<a name="7"></a><h2>Special information for parents &amp; guardians</h2>
+	<div class="padMe5"></div>
+	<p>While NXP Web Sites are generally not targeted at children under the age of thirteen, it is NXP policy to comply with the law when it requires that a parent's or guardian's permission is secured before knowingly collecting, using, or disclosing personal information from children under the age of thirteen.</p>
+	<p>We strongly recommend that parents take an active role in supervising the online activity of their children.</p>
+	
+	<a name="8"></a><h2>Contacting us</h2>
+	<div class="padMe5"></div>
+	<p>You may contact us if you would like to:</p>
+	<ul class="boxes">
+		<li>ask us any question regarding our privacy policy</li>
+		<li>request a copy of your personal data, or change or delete your personal data</li>
+		<li>opt-out from receiving any future personalized offers or information from NXP</li>
+	</ul>
+
+	<a name="9"></a><h2>Our Address</h2>
+	<div class="padMe5"></div>
+	<p>You can find our address by pressing the <a href="http://www.nxp.com/about/contact-us:CONTACTUS">Contact Us link</a> at the bottom of this Web Site.</p>	
+	
+	<a name="10"></a><h2>German privacy law</h2>
+	<div class="padMe5"></div>
+	<p>In accordance with Germany privacy law the data privacy officer hereby informs you on data privacy procedures of NXP legal entities located in Germany. You can download the public record of procedures here:</p>	
+	<ul class="boxes">
+		<li><a href="https://web.archive.org/web/20120301100730/http:/www.nxp.com/wcm_documents/privacy-policy/verfahrensverzeichnis_germany_GmbH.doc">For NXP Semiconductors Germany GmbH</a> (German/Deutsch)</li>
+		<li><a href="https://web.archive.org/web/20120301100730/http:/www.nxp.com/wcm_documents/privacy-policy/verfahrensverzeichnis_germany_GA_GmbH.doc">For NXP Semiconductors GA GmbH</a> (German/Deutsch)</li>
+	</ul>
+	
+	<div class="bkflt"></div>
+	<div class="pdtn"></div>
+</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-4">
+	<div class="iu">
+		<h2>More Policies</h2>
+		<ul>
+			<li><a href="http://www.nxp.com/about/our-terms-and-conditions-of-commercial-sale:TERMSCONDITIONSSALE">Terms of Sale</a></li>
+			<li><a href="http://www.nxp.com/about/terms-of-use:TERMSOFUSE">Terms of Use</a></li>
+		</ul>
+	</div>
+	</div>
+</div>
+		
+<div class="bkflt"></div><input type="hidden" id="nodeIDNmae" value="061FA3"> 			<div>
+			</div>
+<div class="bkflt"></div>
+<div class="returnToTop"><br>
+<div align="center"></div>
+
+
+<link href="http://style.nxp.com/v1.43/shared/stylesheets/responsiveElements.css" rel="stylesheet">
+<script>
+	function  toggleSeries(sCode){
+		$('tr[id^="'+sCode+'_"]').toggle();
+		$('#a_'+sCode).toggleClass('dropDownactive');
+		
+	}
+	function showProdInfoPop(event,name){
+		$('.infoPop').hide();
+		var infoPopLeft = event.pageX+ event.currentTarget.offsetLeft-$("#leftnav.col-sm-3").width();
+		if (jQuery.support.leadingWhitespace) {	
+			var infoPopTop = (event.currentTarget.offsetParent.offsetTop + event.currentTarget.offsetParent.offsetLeft+ event.currentTarget.offsetParent.offsetParent.offsetTop) -110;
+		}
+		else{
+			var infoPopTop = (event.currentTarget.offsetParent.offsetTop + event.currentTarget.offsetParent.offsetLeft+ event.currentTarget.offsetParent.offsetParent.offsetTop)-220;
+			
+		}
+		var infoPopTCont = $(window).scrollTop() + $(window).height() ;
+		var infoPopArrowTopDivStyle ={};
+		if ( (infoPopTop + 160 )> infoPopTCont)
+		
+		{
+			var infodiff =  infoPopTop + 160 -infoPopTCont;
+			var infoPopTop = infoPopTop - infodiff;
+			var infoPopArrowTop =  infodiff -10 + "px";
+			$('.infoPopArrow').css({"margin-top":infoPopArrowTop});
+		}
+		infoPopTop = infoPopTop +"px";
+		$('#infoPop_'+name).show();
+		$('#infoPop_'+name).css({"position": "absolute","min-width":"725px","left": infoPopLeft, "top": infoPopTop,  "background" : "#FFF", "z-index": "100", "padding" : "10px"});
+		/* setTimeout(function(){ 
+			     $('#infoPop_'+name).hide();}, 5000); */
+	};
+	function hideProdInfoPop(name){
+
+		setTimeout(function(){ 
+			$('#infoPop_'+name).hide();}, 3000);
+		
+	}
+
+	function showProdInfoDiv(name) {
+		$('#infoPop_'+name).show();
+	}
+
+	function hideProdInfoDiv(name) {
+		hideProdInfoPop(name);
+	}
+
+	function closeInfoPopDiv(name) {
+		$('#infoPop_'+name).hide();
+	}
+</script>
+<br>
+<input type="hidden" name="jspCalled" value="OVERVIEW"> <input type="hidden" name="nodeId" value="061FA3"> <input type="hidden" name="CallerJsp" value="self">
+
+<input id="metricsPath" type="hidden" name=" metricsPath " value="About NXP/Privacy/"> <input id="metricsPageId" type="hidden" name=" metricsPageId" value=""> <meta name="DCSext.language_option" content="en">
+<meta name="DCSext.en_ti" content="Privacy">
+<script language="javascript" type="text/javascript">elqTryI = true;</script>
+
+<script language="javascript" type="text/javascript" src="/files/js/elqNow/elqCfg.js"></script>
+<script language="javascript" type="text/javascript" src="/files/js/elqNow/elqFCS.js"></script>
+<!-- WebTrends collateral activated 2006-01-27 -->
+
+
+
+
+
+<script src="http://style.nxp.com/files/abstract/misc/SDC_SMARTSOURCE_TAG.js" language="javascript" type="text/javascript">
+</script>
+<noscript>
+<img border="0" name="DCSIMG" width="1" height="1" alt="DSCIMG" src="http://fdc.freescale.com/dcsna6bpqoifwzzkbkpmprmyf_5x3f/njs.gif?dcsuri=/nojavascript&amp;WT.js=No" />
+</noscript>
+<script language="javascript" type="text/javascript"> 
+   var web_type="";
+   var elqURL="";   
+   
+   jQuery(document).ready(function() 
+  {  
+	if(web_type==null);
+    {	
+	    try{
+			web_type= document.getElementById("webActivityAssetType").value;
+		}catch(err){ 
+			if(document.getElementById("pageType") != null){
+				web_type=document.getElementById("pageType").value;
+			}
+			
+	  }
+    } 	
+
+    var langOption = 'en';
+    
+	var  metricsPath ="";
+	var metricsPageId ="";
+	
+    try{
+	   metricsPath = document.getElementById("metricsPath").value;
+    }catch(err){
+		metricsPath="";
+    }
+
+    if(langOption && langOption!='en'){
+    	metricsPath = langOption+"/"+metricsPath;
+    }
+	 try{
+       metricsPageId = document.getElementById("metricsPageId").value;
+    }catch(err){
+		metricsPageId=""; 
+    }
+	if(metricsPageId.length!=0&&metricsPath.length!=0){
+	   elqURL='http://www.nxp.com/'+metricsPath+''+metricsPageId+'?WT_ASSET='+web_type;
+	 }else if(metricsPageId.length==0&&metricsPath.length!=0){
+       metricsPath =metricsPath.substring(0,metricsPath.lastIndexOf("/")-0); 
+	   elqURL='http://www.nxp.com/'+metricsPath+'?WT_ASSET='+web_type;
+	 }else if(metricsPageId.length!=0&&metricsPath.length==0){	
+	   elqURL='http://www.nxp.com/unknown_path/'+metricsPageId+'?WT_ASSET='+web_type;
+	}		
+        try {
+                var checktid=extractQP('tid');
+                if (checktid != ""){
+                        elqURL=elqURL+"&tid="+checktid;
+                }
+                var checktab=extractQP('tab');
+                if (checktab != ""){
+                        elqURL=elqURL+"&tab="+checktab;
+                }
+        } catch(err) {}
+   elqFCS(elqURL); 
+  
+  }); 
+</script></div></form>
+<div class="bkflt"></div>
+</div>
+</div>
+<div class="bkflt"></div>
+<!--googleoff: all-->
+
+<!-- <noindex> --><div class="clearfix"></div>
+<footer>
+  
+    <div id="footer" class="nxp-nav container"> 
+        <div class="row"> 
+        <div class="col-sm-2 col-xs-6 dtmFooter" data-dtmname="ABOUT NXP"> 
+        <h4>ABOUT NXP</h4> 
+          <ul class="list-unstyled"> 
+            <li class="paddingtop5"><a href="http://investors.nxp.com/phoenix.zhtml?c=209114&amp;p=irol-irhome">Investors</a></li> 
+            <li class="paddingtop5"><a href="http://www.nxp.com/webapp/connect/memberDirSearch.sp">Partners</a></li> 
+            <li class="paddingtop5"><a href="http://www.nxp.com/about/careers-at-nxp:CAREERS">Careers</a></li> 
+          </ul> 
+        </div>   
+        <div class="col-sm-2 col-xs-6 dtmFooter" data-dtmname="RESOURCES"> 
+        <h4>RESOURCES</h4> 
+          <ul class="list-unstyled"> 
+            <li class="paddingtop5"><a href="http://www.nxp.com/about/nxp-mobile-applications:MOBILE">Mobile Apps</a></li> 
+            <li class="paddingtop5"><a href="http://media.nxp.com">Press, News, Blogs</a></li> 
+            <li class="paddingtop5"><a href="http://www.nxp.com/pages/contact-us:CONTACTUS">Contact Us</a></li> 
+          </ul> 
+        </div>   
+        <div class="col-sm-3 col-xs-12 dtmFooter" data-dtmname="FOLLOW US"><h4>FOLLOW US</h4> 
+        <ul id="footer-social" class="list-inline paddingtop5">  
+          <li class="twitter"><a href="https://twitter.com/NXP" title="Follow NXP on Twitter" target="_blank" data-content-finding="Footer" data-content-subfinding="Footer: FOLLOW US"><span class="icon-twitter22"></span></a></li>     
+          <li class="linkedin"><a href="http://www.linkedin.com/company/nxp-semiconductors" title="Follow NXP on Linked In" target="_blank" data-content-finding="Footer" data-content-subfinding="Footer: FOLLOW US"><span class="icon-linkedin"></span></a></li>   
+          <li class="facebook"><a href="https://www.facebook.com/NXPsemi" title="Follow NXP on Facebook" target="_blank" data-content-finding="Footer" data-content-subfinding="Footer: FOLLOW US"><span class="icon-facebook"></span></a></li> 
+          <!--li class="youtube"><a href="https://www.youtube.com/nxpsemiconductors" title="Follow NXP on Youtube" target="_blank" data-content-finding="Footer" data-content-subfinding="Footer: FOLLOW US"><span class="icon-youtube-square2"></span></a></li--> 
+          <li class="email"><a href="https://contact.nxp.com/Subscription-Center" target="_blank" title="Subscription Center"><span class="icon-mail2"></span></a></li>   
+          </ul> 
+        </div>   
+        <div class="col-sm-5 col-xs-12"> 
+          <div id="newsContainer"> 
+            <div id="news"> 
+            <div class="newsItem"><h5>NEWS</h5><p>NXP Semiconductor Announces Second Quarter 2015 Results</p><a href="http://otp.investis.com/clients/us/free_scale/usn/usnews-story.aspx?cid=896&amp;newsid=29975" class="readmore" target="_blank">Read More</a></div> 
+            </div> 
+            <div id="newsDirection"> 
+              <a href="#left" id="newsLeft"><span class="icon-angle-left"></span></a> 
+              <a href="#right" id="newsRight"><span class="icon-angle-right"></span></a> 
+            </div> 
+          </div>  
+        </div> 
+        </div> 
+        <div class="row legal paddingtop5"> 
+          <div class="col-sm-7 paddingleft35 dtmFooter" data-dtmname="Privacy"> 
+             <ul class="list-inline vertical"> 
+               <li><a href="http://www.nxp.com/about/privacy:PRIVACYPRACTICES">Privacy</a></li> 
+               <li><a href="http://www.nxp.com/about/terms-of-use:TERMSOFUSE">Terms of Use</a></li> 
+  			   <li><a href="http://www.nxp.com/about/our-standard-terms-and-conditions-of-sale-counter-offer:TERMSCONDITIONSSALE">Terms of Sale</a></li> 
+               <li><a href="#stay_here" id="stay_here" name="stay_here" onclick="displayBlock();">Feedback</a></li> 
+             </ul> 
+          </div> 
+          <div class="col-sm-5 pull-right" style="margin-top:6px;"> 
+            <span class="pull-right nxp-gray-text small">©2006-2016 NXP Semiconductors. All rights reserved.</span> 
+          </div> 
+        </div> 
+      </div> </footer>	
+<script src="//www.nxp.com/docs/headlines/NXP-NEWS-en.js"></script>
+<script src="//cache.nxp.com/files/js/jquery.carouFredSel-6.2.1-packed.js"></script>
+<script src="http://style.nxp.com/v1.43/files/header/nxp-news.js"></script>
+<script src="/files/abstract/misc/public_common_delta.js" language="javascript" type="text/javascript"></script>
+
+
+<input id="mobileUrl" type="hidden" name="mobileUrl" value="/about/privacy:PRIVACYPRACTICES?site_preference=mobile">
+<input id="language_option" type="hidden" name="language_option" value="en">
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1066477406;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1066477406/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<div id="divBlockLayer" class="blockLayer"></div>
+<div id="asdf" style="position:absolute;"></div>
+                        
+                                        <!-- <div id="divBottomRight" style="position:absolute;z-index:8;width:70px">
+                                                <center>
+                                                <span id="image_feedback" alt="Feedback" onclick="displayBlock();"></span>
+                                                </center>
+                                        </div> -->
+
+            <!-- <link href="/shared/stylesheets/feedback.css" rel="stylesheet" type="text/css"> -->
+                        <script language="JavaScript" type="text/javascript" src="http://style.nxp.com/v1.43/shared/js/dhtmlwindow.js"></script>
+                        <script language="JavaScript" type="text/javascript" src="http://style.nxp.com/v1.43/shared/js/FloatingIcon.js"></script>
+                        <script language="Javascript" type="text/javascript" src="http://style.nxp.com/v1.43/shared/js/CountChars.js"></script>
+                        <script language="JavaScript" type="text/javascript" src="http://style.nxp.com/v1.43/shared/js/checkTextareaLimit.js"></script>
+
+
+
+
+<script type="text/javascript">
+var  XMLRequest=getAjaxRequest();
+function openfeedBackBlock(window_title,blockDiagUrl,code,psp_URL,width,height,fastpreview){
+	if(document.getElementById('feedBackajaxbox')!=null){
+           document.getElementById('feedBackajaxbox').contentarea.innerHTML="";
+    }
+    var url = getPreviewUrl('/webapp/sps/components/hotFeedback.jsp?collateralCode=NEWCO_FEEDBACK_FORM');
+    ajaxwin=dhtmlwindow.open('feedBackajaxbox',url,window_title, 'width='+width+'px,height='+height+'px,left=172px,resize=0,scrolling=1');
+    return ajaxwin ;
+}
+
+function openthankYouBlock(window_title,blockDiagUrl,code,psp_URL,width,height,fastpreview){
+    var url = getPreviewUrl('/webapp/sps/components/hotFeedback.jsp?collateralCode=ONLINE_THANK_YOU');
+    ajaxwin=dhtmlwindow.open('feedBackajaxbox',url,window_title, 'width='+width+'px,height='+height+'px,left=165px,resize=0,scrolling=1');
+    return ajaxwin ;
+}
+
+function getPreviewUrl(url, fastpreview){
+    if(fastpreview!=null  &&  (trim(fastpreview) != '' ) ){
+        return url+'&fastpreview=1' ;
+    }else{
+        return url ;
+    }
+}
+
+</script>
+<script language="JavaScript1.2" src="http://style.nxp.com/v1.43/shared/js/HM_Loader_ScriptDOM.js" type="text/javascript"></script>
+
+
+<script>
+$(document).ready(function() {
+	var url = window.location.href;
+		/* if (url.indexOf("?")>-1){
+			url = url.substr(0,url.indexOf("?"));
+		} */
+		var secNodeValue= $('#sechighlight').val();
+		if(secNodeValue == 'noHighlight'){
+		   $.getJSON('/files/abstract/text_insert/NewCoSectionalNavRules.json', function(data) {
+			   $.each(data, function(index, element) {
+	        	   if(url.match("^"+index) || url.indexOf(index)!=-1){
+	            	   $('.'+element[0].Nodeid).css("background-color", "#ffffff");
+	        		   $('.'+element[0].Nodeid+' > a ').css("color", "#777777");
+	        		   return false;
+	        	   }
+	    	    });
+	       });
+	}
+});
+
+</script>
+
+<!-- </noindex> --><!--googleon: all-->
+
+<input id="recrdHistDwnlodComnd" type="hidden" name="recrdHistDwnlodComnd" value="DOWNLOAD">
+<input id="pageNodeId" type="hidden" name="pageNodeId" value="1396974272249722181FA3">
+<input id="pageType" type="hidden" name="pageType" value="overview">
+<input id="webActivityAssetID" type="hidden" name="webActivityAssetID" value="1396974272249722181FA3">
+<input id="webActivityAssetType" type="hidden" name="webActivityAssetType" value="webpage">
+<input id="recoAssetType" type="hidden" name="recoAssetType" value="overview">
+<input id="webActivityParentID" type="hidden" name="webActivityParentID" value="1228751352311721285AC3">
+<input id="webActivityParentType" type="hidden" name="webActivityParentType" value="webpage">
+<input type="hidden" id="Asset_code" value="">
+<input type="hidden" id="Asset_name" value="Privacy">
+<input id="recordActivityCommand" type="hidden" name="recordActivityCommand" value="RECORD_WEB_ACTIVITY">
+<input id="lang" type="hidden" value="en"> <script type="text/javascript">
+	
+	
+  jQuery(document).ready(function()
+  {
+		var assetID= document.getElementById("webActivityAssetID").value;
+		var assetType= document.getElementById("webActivityAssetType").value;
+		var referrerUrl= document.referrer;
+		var commandID = document.getElementById("recordActivityCommand").value;
+		var attrNames ="";
+		var attrValues = "";
+		var resultCnt=0;
+		var serpUrl=window.location.href;
+		var flag;
+		var suburl="";
+		var lang= document.getElementById("lang").value;		
+		var recoUrl=window.location.href;
+		var tmpParentID = "";
+		var tmpParentTp = "";
+		
+		
+		if (document.getElementById("webActivityParentID") != undefined && document.getElementById("webActivityParentType")!= undefined)
+		{
+			tmpParentID=document.getElementById("webActivityParentID").value;
+			tmpParentTp=document.getElementById("webActivityParentType").value;
+		}
+		
+		
+		
+		if(recoUrl.lastIndexOf("&fr=")>=0||recoUrl.lastIndexOf("?fr=")>=0)
+		{
+			
+			
+			if(recoUrl.lastIndexOf("&fr=")>=0){
+				
+				suburl=recoUrl.substring(recoUrl.lastIndexOf("&fr="));
+			}
+			else if(recoUrl.lastIndexOf("?fr=")>=0)
+			{
+				suburl=recoUrl.substring(recoUrl.lastIndexOf("?fr="));
+			}
+			if(suburl!=""){
+				attrNames=attrNames+"fromRecommendation"+",";
+				
+				if(suburl.indexOf("gdc")>=0)
+					attrValues+="gen_doc"+",";
+				else if(suburl.indexOf("gtl")>=0)
+					attrValues+="gen_tool"+",";
+				else if(suburl.indexOf("gsc")>=0){
+					attrValues+="gen_cart"+",";
+					var parameters = suburl.split("&");
+					for(var mm=0; mm<parameters.length; mm++){
+						var parameters1 = parameters[mm].split("=");
+						
+						if(parameters1 != null && parameters1.length >=2 && parameters1[0]!=null && parameters1[0] != "" && parameters1[1]!=null && parameters1[1] != ""){
+							if(parameters1[0] == "cart_opn"){
+								attrNames = attrNames + "cart_opn"+",";
+								attrValues = attrValues + parameters1[1] + ",";
+							}else if(parameters1[0] == "cart_weborderid"){
+								attrNames = attrNames + "cart_weborderid" + ",";
+								attrValues = attrValues + parameters1[1] + ",";
+							}else if(parameters1[0] == "parentID"){
+								tmpParentID = parameters1[1];
+							}else if(parameters1[0] == "parentType"){
+								tmpParentTp = parameters1[1];
+							}
+						}
+					}
+				}
+				
+				else if((suburl.indexOf("p"))>=0)		
+					attrValues+="personal"+",";
+				else if(suburl.indexOf("g")>=0)
+					attrValues+="general"+",";
+			}
+
+		}
+		
+		if(serpUrl.lastIndexOf("&sr=")>=0)
+		{
+			serpUrl = serpUrl.substring(serpUrl.lastIndexOf("&sr="));
+			if(serpUrl.indexOf("&",1)>=0){
+				serpUrl = serpUrl.substring(0,serpUrl.indexOf("&",1));
+			}
+			var a=serpUrl.indexOf("=")+1;
+			resultCnt=serpUrl.substr(a,(serpUrl.length));
+		}
+		if(resultCnt!=0){
+			attrNames+="Search Result" +",";
+			attrValues+= resultCnt + ",";
+		}
+		
+		
+		if(lang!=null && lang!="")
+		{
+			   
+		attrNames+="lang,";
+		attrValues+=lang+","; 
+		}
+		else{
+			   
+		attrNames+="lang,";
+		attrValues+="en,";
+		}
+		
+		attrNames = attrNames.substring(0,attrNames.length-1);
+		attrValues = attrValues.substring(0,attrValues.length-1);
+
+		var url = '/webapp/history/recordActivity.sp';
+		
+		
+		var obj = new Object;
+		obj.assetID = assetID;
+		obj.assetType = assetType;
+		obj.commandID = commandID;
+		obj.referrerUrl = referrerUrl;
+
+		if(tmpParentID != null && tmpParentID != ""){
+			obj.parentID = tmpParentID;
+		}
+		if(tmpParentTp != null && tmpParentTp != ""){
+			obj.parentType = tmpParentTp;
+		}
+		if(	attrValues!=""&&attrNames!="")
+		{
+			obj.attrValues = attrValues;	
+			obj.attrNames=attrNames;
+		}
+		
+	  	 recordActivity(url, obj);
+  });
+  
+
+</script>
+
+
+
+ <script type="text/javascript" src="http://style.nxp.com/files/js/elqNow/elqwebanalytics.js"></script>
+<script type="text/javascript">_satellite.pageBottom();</script>
+<script type="text/javascript" src="http://style.nxp.com/files/abstract/misc/blueconic.js"></script>
+
+<script>
+jQuery_1_9_1(document).ready(function() {
+	jQuery_1_9_1('.rc a').click(function(e){
+		trackInfoUnits('infoUnit',$(this));
+	});
+});
+
+</script></div></noindex></div></div></body></html>
