@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radicalplay.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206164400id_/http%3A//radicalplay.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radicalplay.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513035249id_/http%3A//www.radicalplay.com/privacy.html) for the most accurate reproduction.*
 
 # R A D I C A L - P L A Y - from gamers to gamers || Our privacy policy
 
