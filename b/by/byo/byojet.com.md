@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the byojet.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121025542id_/http%3A//www.byojet.com/100_Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the byojet.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513221804id_/http%3A//www.byojet.com/100_Privacy.asp) for the most accurate reproduction.*
 
-# BYOjet Privacy Policy
+# BYOjet Privacy Policy- Check Out Online!
 
 | 
 
 **BYOjet Privacy Policy**  
-Privacy policy between BYOjet herein after referred to as ‘BYOjet’, ‘Travelscene American Express‘, ‘we’, ‘our’ or ‘us’ **and**  
+Privacy policy between BYOjet herein after referred to as ‘BYOjet’, ‘we’, ‘our’ or ‘us’ **and**  
 Any customer or person using the BYOjet website or a telephone consultant to enquire, book or purchase any travel or product, online, by phone or in consultation with any BYOjet consultant or representative in any manner whatsoever. Herein after referred to as ‘you’,  ‘your’,  ‘user’ , ‘client’,  ‘passenger’  or ‘customer’.    
-BYOjet is a member of Travelscene American Express, owned and operated by Jetescape Travel Pty Ltd ACN 145 039 470, a Queensland-registered travel agent with AITA accreditation and a member of the Travellers Compensation Fund. Our IATA number is 0235450 and TCF number is 3395910.  We undertake to use our best endeavours to safeguard the privacy and confidentiality of our website users and your personal information. The following discloses how we gather information and our dissemination practices. If you have any queries concerning your personal information or any questions relating to how we use the information, please e-mail  [travel@byojet.com](mailto:travel@byojet.com).
+BYOjet is owned and operated by Jetescape Travel Pty Ltd ACN 145 039 470, a Queensland-registered travel agent with AITA accreditation and a member of the Travellers Compensation Fund. Our IATA number is 0235450 and TCF number is 3395910.  We undertake to use our best endeavours to safeguard the privacy and confidentiality of our website users and your personal information. The following discloses how we gather information and our dissemination practices. If you have any queries concerning your personal information or any questions relating to how we use the information, please e-mail  [travel@byojet.com](mailto:travel@byojet.com).
 
   INFORMATION COLLECTED 
 
