@@ -1,32 +1,28 @@
-> *The following text is extracted and transformed from the clickwebinar.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024072959id_/http%3A//www.clickwebinar.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickwebinar.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513021725id_/http%3A//www.clickwebinar.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Video Conferencing, Web Conference - Privacy Policy - ClickMeeting
 
-This Privacy Policy statement discloses the privacy practices for ClickMeeting Service and ClickWebinar Service (hereinafter referred to as "Service", "Website“), hosted by GetResponse sp.z.o.o. hereinafter referred to as "GetResponse".
+This Privacy Policy statement discloses the privacy practices for ClickMeeting Service and ClickWebinar Service (hereinafter referred to as "Service", "Website“), hosted by ClickMeeting Sp.z.o.o. hereinafter referred to as "ClickMeeting".
 
 The Service is an online service which enables Users to have video and audio conferences, collaborate on documents, deliver presentations, perform product demonstrations and securely share confidential information from anywhere, anytime.
 
-GetResponse realizes that you care how your information is processed and shared, and we appreciate your trust in us to do that carefully and sensibly. This document describes our Privacy Policy. By registering your details with us you confirm that you have read, understood and agreed to the provisions of this Privacy Policy and to our Terms of Service. Terms which are not defined in this Privacy Policy and are written in capitals shall have their meaning specified in the Terms of Service. For the purposes of this Privacy Policy the term "User" shall not only mean the "User" in accordance with the provisions of Terms of Service, but also every person visiting ClickMeeting or ClickWebinar website.
+ClickMeeting realizes that you care how your information is processed and shared, and we appreciate your trust in us to do that carefully and sensibly. This document describes our Privacy Policy. By registering your details with us you confirm that you have read, understood and agreed to the provisions of this Privacy Policy and to our Terms of Service. Terms which are not defined in this Privacy Policy and are written in capitals shall have their meaning specified in the Terms of Service. For the purposes of this Privacy Policy the term "User" shall not only mean the "User" in accordance with the provisions of Terms of Service, but also every person visiting ClickMeeting or ClickWebinar website.
 
-GetResponse undertakes to process the personal information of the Users and Participants and persons who have subscribed to GetResponse's newsletter in accordance with the provisions of the Polish Act on the Protection of Personal Data (Journal of Laws of 2014, item 1182; “Act") implemented in line with the Directive 95/46/EC of The European Parliament and of The Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data (Official Journal L 281 , 23/11/1995 P. 0031 - 0050).
+ClickMeeting undertakes to process the personal information of the Users and Participants and persons who have subscribed to ClickMeeting's newsletter in accordance with the provisions of the Polish Act on the Protection of Personal Data (Journal of Laws of 2014, item 1182; “Act") implemented in line with the Directive 95/46/EC of The European Parliament and of The Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data (Official Journal L 281 , 23/11/1995 P. 0031 - 0050).
 
 We believe it is important to you to know how we treat the information about you which we receive during your visits to the Website. This Privacy Policy is designed to assist you in understanding how we collect, disclose, and safeguard the aggregate information we receive when you visit and browse the Website. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
-
-GetResponse has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through the websites: www.clickmeeting.com and www.clickwebinar.com.
-
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.If you have questions or complaints regarding our privacy policy or practices, please contact us at support@clickmeeting.com. If you are not satisfied with our response you can contact TRUSTe here.
 
 We encourage you to take the time to read this Privacy Policy as well as those of any other sites you visit, whether through a link on that site or otherwise.
 
 ## User Data Processing
 
-GetResponse collects personal information from Users who visit this Site and register with our Service. GetResponse is a data controller with respect to the User's data. Because of the nature of our Service we must collect from Users personal information such as (at the minimum): (i) first and last name, (ii) username, (iii) an email address to be used as a login, (iv) password, (v) billing information such as billing address and credit card information where necessary, (vi) phone, (vii) country, (viii) address, city, state, zip.
+ClickMeeting collects personal information from Users who visit this Site and register with our Service. ClickMeeting is a data controller with respect to the User's data. Because of the nature of our Service we must collect from Users personal information such as (at the minimum): (i) first and last name, (ii) username, (iii) an email address to be used as a login, (iv) password, (v) billing information such as billing address and credit card information where necessary, (vi) phone, (vii) country, (viii) address, city, state, zip.
 
-We may also ask Users to provide additional personal information such as (i) company name, (ii) title, (iii) educational institution and (iv) other company and (v) personal details that the User may opt out of by not entering data when asked. GetResponse uses the User's registration information to authenticate Users and provide access to the Service. GetResponse also uses the email addresses used in the registration information to communicate with our Users. From time to time, GetResponse may contact the User via email to notify them of changes to its Service and scheduled maintenance.
+We may also ask Users to provide additional personal information such as (i) company name, (ii) title, (iii) educational institution and (iv) other company and (v) personal details that the User may opt out of by not entering data when asked. ClickMeeting uses the User's registration information to authenticate Users and provide access to the Service. ClickMeeting also uses the email addresses used in the registration information to communicate with our Users. From time to time, ClickMeeting may contact the User via email to notify them of changes to its Service and scheduled maintenance.
 
-The User agrees and acknowledges that their information collected through our websites and related Services may be transferred across national boundaries and stored and processed in any of the countries around the world in which GetResponse maintains offices and data centers, including the United States. As for the countries from outside of the European Economic Area, GetResponse shall cooperate only with entities from countries which ensure an adequate level of personal data protection. 
+The User agrees and acknowledges that their information collected through our websites and related Services may be transferred across national boundaries and stored and processed in any of the countries around the world in which ClickMeeting maintains offices and data centers, including the United States. As for the countries from outside of the European Economic Area, ClickMeeting shall cooperate only with entities from countries which ensure an adequate level of personal data protection. 
 
-Information that is provided by meeting organizers such as: User name, email address and any other business contact and meeting subject contact are considered confidential to the User. When the Participant registers with one of our Users for an online transmission, that information is provided to the User. GetResponse may store that information to fulfill our obligations to our Users. GetResponse will not use the information to send marketing information for GetResponse services or third party offers to the Participants. The User and Participants should be aware that any personal information they submit while in-session and chatting can be read, collected or used by the User and other Participants. GetResponse will not view information except as necessary to appropriately support the Service.
+Information that is provided by meeting organizers such as: User name, email address and any other business contact and meeting subject contact are considered confidential to the User. When the Participant registers with one of our Users for an online transmission, that information is provided to the User. ClickMeeting may store that information to fulfill our obligations to our Users. ClickMeeting will not use the information to send marketing information for ClickMeeting services or third party offers to the Participants. The User and Participants should be aware that any personal information they submit while in-session and chatting can be read, collected or used by the User and other Participants. ClickMeeting will not view information except as necessary to appropriately support the Service.
 
 Provision of personal data in connection with the use of the Service is voluntary. Note, however, that the refusal to provide certain data may make it impossible for the User to use all or part of the Service functionalities.
 
@@ -34,43 +30,43 @@ The User is obliged to update the data provided in the registration form as soon
 
 ## Outsourcing of Participants Personal Data Processing
 
-GetResponse recognizes the importance of respecting the privacy of Participants who decided to entrust their sensitive information with the User. We make every effort to safeguard their security. GetResponse will never use the information about the Participants you collect within our Service to send any information other than expressly provided by you, nor will we share it with or sell it to anyone else for such use.
+ClickMeeting recognizes the importance of respecting the privacy of Participants who decided to entrust their sensitive information with the User. We make every effort to safeguard their security. ClickMeeting will never use the information about the Participants you collect within our Service to send any information other than expressly provided by you, nor will we share it with or sell it to anyone else for such use.
 
 The User acknowledges and agrees that by virtue of his role as an online meeting organizer, he is a personal data base administrator or a data processor in terms of personal data of the Participants and is solely responsible to fulfill his duties pursuant to the Act.
 
-Participant's personal data processing may be outsourced by the User to GetResponse only where the User is the data controller (within the meaning of Article 7 item 4 of the Act) or where the latter processes such personal data on the basis of Article 31 of the Act (as a data processor).
+Participant's personal data processing may be outsourced by the User to ClickMeeting only where the User is the data controller (within the meaning of Article 7 item 4 of the Act) or where the latter processes such personal data on the basis of Article 31 of the Act (as a data processor).
 
-GetResponse may process Participants data within its capacity of data processor as set out in Article 31 of the Act.
+ClickMeeting may process Participants data within its capacity of data processor as set out in Article 31 of the Act.
 
 Participants data processing may be outsourced as regards email address and other Participant-related information considered by the User necessary to ensure proper provision of the Service.
 
 Further passing of the job of data processing may take place only within the limits, and for the purpose of proper provision, of the Service.
 
-As for the countries from outside of the European Economic Area, GetResponse shall cooperate only with entities from countries which ensure an adequate level of personal data protection.
+As for the countries from outside of the European Economic Area, ClickMeeting shall cooperate only with entities from countries which ensure an adequate level of personal data protection.
 
-GetResponse declares that it provides security measures protecting the databases as defined in Articles 36– 39 of the Act, and meets the technical and organizational requirements specified in the provisions of Article 39a of the Act.
+ClickMeeting declares that it provides security measures protecting the databases as defined in Articles 36– 39 of the Act, and meets the technical and organizational requirements specified in the provisions of Article 39a of the Act.
 
-In case GetResponse does not fulfill its duties pursuant to the above provisions, the total liability of GetResponse, irrespective of the legal grounds of such liability, shall be limited to the direct damages sustained by the User. GetResponse shall not be liable for any indirect damages, subject to the intentional guilt or gross negligence of GetResponse. The total liability of GetResponse shall in no event exceed the amount of the remuneration due to GetResponse for the settlement period directly preceeding the settlement period in which the User raised his claim.
+In case ClickMeeting does not fulfill its duties pursuant to the above provisions, the total liability of ClickMeeting, irrespective of the legal grounds of such liability, shall be limited to the direct damages sustained by the User. ClickMeeting shall not be liable for any indirect damages, subject to the intentional guilt or gross negligence of ClickMeeting. The total liability of ClickMeeting shall in no event exceed the amount of the remuneration due to ClickMeeting for the settlement period directly preceeding the settlement period in which the User raised his claim.
 
-The User is entitled to conclude the contract on outsourcing the Participant's personal data processing with GetResponse. In order to do so, the User shall contact GetResponse via this form [http://www.clickmeeting.com/contact_us.html]. The User shall fill in the contract form with his business name, address, User's login or the Account title and the date of creating the Account within the Service (date of contract conclusion) and send two copies of signed contract to the GetResponse's postal address.
+The User is entitled to conclude the contract on outsourcing the Participant's personal data processing with ClickMeeting. In order to do so, the User shall contact ClickMeeting via this form <http://www.clickmeeting.com/contact_us.html>. The User shall fill in the contract form with his business name, address, User's login or the Account title and the date of creating the Account within the Service (date of contract conclusion) and send two copies of signed contract to the ClickMeeting's postal address.
 
 ## Erasure of Processed Data
 
-GetResponse will retain User's and Participant's Data and the information regarding the User's Account for as long as needed to provide you the Service. We will retain and use the above data as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+ClickMeeting will retain User's and Participant's Data and the information regarding the User's Account for as long as needed to provide you the Service. We will retain and use the above data as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-After removal of the User's Account from the Service, GetResponse shall store information related to the User and the Participant, as well as any statistical data concerning the Account and all information regarding the User's Account (together with all Conference data, the Content, email messages, statistics, Users and Participants' data) for a period of no less than 60 days (in the case of a free of charge Test Account) or 90 days (in the case of a payable Account). The processing of personal data by GetResponse after the removal may only involve holding of the same, unless performance of other operations on the data has been imposed on GetResponse by applicable regulations or competent authorities.
+After removal of the User's Account from the Service, ClickMeeting shall store information related to the User and the Participant, as well as any statistical data concerning the Account and all information regarding the User's Account (together with all Conference data, the Content, email messages, statistics, Users and Participants' data) for a period of no less than 60 days (in the case of a free of charge Test Account) or 90 days (in the case of a payable Account). The processing of personal data by ClickMeeting after the removal may only involve holding of the same, unless performance of other operations on the data has been imposed on ClickMeeting by applicable regulations or competent authorities.
 
-GetResponse will store personal data in accordance with the clause above solely for the purposes of (i) possible reactivation of the Account pursuant to Section XI. of the Terms of Service and (ii) performance of its duties as specified in the applicable regulations or as imposed by the competent authorities.
+ClickMeeting will store personal data in accordance with the clause above solely for the purposes of (i) possible reactivation of the Account pursuant to Section XI. of the Terms of Service and (ii) performance of its duties as specified in the applicable regulations or as imposed by the competent authorities.
 
 After the periods mentioned above (60 or 90 days respectively), the data will be permanently erased from the Service and their recovery will not be feasible. Participant's database may be returned to the User at its request made within 7 days of erasure of the data from the Service.
 
 ## Passwords
 
-The User's Account information, username, password and user profile are password-protected so that they have secure access to entering and editing personal data. It is the User's responsibility to protect the security of their password. Access to the Service is protected by a unique username and password that is known to the User only. GetResponse has designed internal security processes that encrypt the User's password to protect it from being divulged or accessed by anyone other than the User. Neither GetResponse employees nor any of its contractors can obtain or access to the User's password. Neither GetResponse employees or nor any of its contractors will ask the User for their password via mail, email, telephone or in any other unsolicited manner.
+The User's Account information, username, password and user profile are password-protected so that they have secure access to entering and editing personal data. It is the User's responsibility to protect the security of their password. Access to the Service is protected by a unique username and password that is known to the User only. ClickMeeting has designed internal security processes that encrypt the User's password to protect it from being divulged or accessed by anyone other than the User. Neither ClickMeeting employees nor any of its contractors can obtain or access to the User's password. Neither ClickMeeting employees or nor any of its contractors will ask the User for their password via mail, email, telephone or in any other unsolicited manner.
 
 ## User Access and Choice
 
-If your personal information changes, or if you no longer desire our Service, you may correct, update, remove or request deletion by making the change on our member information page, by emailing our Customer Support at support@clickmeeting.com or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days.
+If your personal information changes, or if you no longer desire our Service, you may correct, update, remove or request deletion by making the change on our member information page, by emailing our Customer Support at [support@clickmeeting.com](mailto:support@clickmeeting.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days.
 
 We will ask for the User's consent before we use or share their information for any purpose other than the reason they provided or as otherwise provided by this Privacy Policy. In order for us to know the User's preferences, we will require an action on their part, such as checking the appropriate option, to indicate their consent.
 
@@ -78,7 +74,7 @@ We will ask for the User's consent before we use or share their information for 
 
 When the User sends us an email, we use their email address to thank them for their comment and/or reply to their question, and we will store their communication and our reply for any future correspondence. Beyond our initial reply, we will never use the User's email address to send them any unsolicited message or information, nor will we share it with or sell it to anyone else for such use.
 
-When the User agrees to receive marketing information about services and products of GetResponse or our commercial partners, we use their email address and any other information they give us to provide them with the information about services and products of GetResponse or our commercial partners, until they ask us to stop (using the 'unsubscribe' instructions provided with each email, and/or on the site where they signed up, and/or as we otherwise provide).
+When the User agrees to receive marketing information about services and products of ClickMeeting or our commercial partners, we use their email address and any other information they give us to provide them with the information about services and products of ClickMeeting or our commercial partners, until they ask us to stop (using the 'unsubscribe' instructions provided with each email, and/or on the site where they signed up, and/or as we otherwise provide).
 
 We will never use the User's email address or other information to provide them with any unsolicited messages or information (unless that is part of the service they are requesting).
 
@@ -86,7 +82,7 @@ We will never use the User's email address or other information to provide them 
 
 We do not sell or rent the User's and Participant's personal information to third parties for marketing purposes unless they have granted us permission to do so.
 
-We may share the User's and Participant's personal information within other services of GetResponse for purposes of data processing or storage. We may also share the personal information with business partners, service vendors, authorized third-party agents or contractors in order to provide a requested Service or transaction, including processing orders, processing credit card transactions, hosting websites, hosting event and seminar registration and providing customer support. We only provide these third parties with the minimum amount of personal information necessary to complete/utilize the requested Service or transaction, and the third parties are not permitted to use the User's or Participant's personal information except for the limited purpose of completing/providing the requested Service or transaction.
+We may share the User's and Participant's personal information within other services of ClickMeeting for purposes of data processing or storage. We may also share the personal information with business partners, service vendors, authorized third-party agents or contractors in order to provide a requested Service or transaction, including processing orders, processing credit card transactions, hosting websites, hosting event and seminar registration and providing customer support. We only provide these third parties with the minimum amount of personal information necessary to complete/utilize the requested Service or transaction, and the third parties are not permitted to use the User's or Participant's personal information except for the limited purpose of completing/providing the requested Service or transaction.
 
 We may also disclose your personal information:
 
@@ -95,7 +91,7 @@ We may also disclose your personal information:
 
 
 
-If GetResponse is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+If ClickMeeting is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 ## Tracking Technologies
 
@@ -124,9 +120,9 @@ All of our Users' and Participants' information is restricted in our offices. On
 
 When we request Users to enter sensitive information, such as their name, geographical address, email address, and a credit card number, it is encrypted and protected with the best encryption software in the industry SSL and processed through a reputable payment processor. While on the secure page, such as our order form, the lock icon at the bottom of web browsers, e.g. Mozilla Firefox or Microsoft Internet Explorer, becomes locked, as opposed to unlocked or open, when the User is just 'surfing'.
 
-GetResponse stores its servers in a highly secure server environment, with surveillance and support to prevent unauthorized access and maintain data security.
+ClickMeeting stores its servers in a highly secure server environment, with surveillance and support to prevent unauthorized access and maintain data security.
 
-We cannot guarantee the security of the User's data while it is being transmitted over the Internet and through servers that are beyond our control. We strive to protect the User's personal information but GetResponse cannot ensure or warrant the security of any information they transmit to our website or Services. Any data transmissions the User makes over the Internet are done so at their own risk. Once we receive the data transmission, we make our best efforts to ensure its security and privacy on our systems.
+We cannot guarantee the security of the User's data while it is being transmitted over the Internet and through servers that are beyond our control. We strive to protect the User's personal information but ClickMeeting cannot ensure or warrant the security of any information they transmit to our website or Services. Any data transmissions the User makes over the Internet are done so at their own risk. Once we receive the data transmission, we make our best efforts to ensure its security and privacy on our systems.
 
 Service in-meeting information is encrypted from the beginning till the end and only accessible by the User and Participants. "In-meeting information" includes all screen sharing data and chat information. Information about scheduled meetings and meetings such as time, organizer, subject of meeting, are placed on our web site and are available to the User and logged Participants that received an invitation from the User via email or other means of communication.
 
@@ -134,7 +130,7 @@ Service in-meeting information is encrypted from the beginning till the end and 
 
   * ###### Blog/Forum
 
-Our Web site offers a publicly accessible blog. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at support@clickmeeting.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our Web site offers a publicly accessible blog. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [support@clickmeeting.com](mailto:support@clickmeeting.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
   * ###### Public Webpage
 
@@ -142,7 +138,7 @@ The profile for your webpage you create on our site will be publicly accessible 
 
   * ###### Links to 3rd Party Sites
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of GetResponse. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
+Our Site includes links to other Web sites whose privacy practices may differ from those of ClickMeeting. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
 
   * ###### Importing Contacts
 
@@ -150,7 +146,7 @@ Our web site offers you the opportunity to import your contacts via a CSV file i
 
   * ###### Testimonials
 
-With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at support@clickmeeting.com.
+With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [support@clickmeeting.com](mailto:support@clickmeeting.com).
 
   * ###### Social Media Widgets
 
@@ -171,12 +167,12 @@ We may update this privacy statement to reflect changes to our information pract
 
 We need the User's help in keeping the personal information they have shared with us accurate and up-to-date.
 
-For additional inquiries about the privacy of the User's information, they can always contact GetResponse via email at support@clickmeeting.com or by calling 1-877-725-425-2.
+For additional inquiries about the privacy of the User's information, they can always contact ClickMeeting via email at [support@clickmeeting.com](mailto:support@clickmeeting.com) or by calling 1-877-725-425-2.
 
-GETRESPONSE Sp. z o.o.   
-ul.Arkonska 6, A3   
+ClickMeeting Sp. z o.o.   
+ul.Arkonska 6, A4   
 80-387 Gdansk, POLAND.
 
-04/08/2015
+25/02/2016
 
 [](https://privacy.truste.com/privacy-seal/Implix-Sp-z-o-o-/validation?rid=61c378c4-d8d5-4dfc-aad6-d6de80a9323f "TRUSTe online privacy certification")
