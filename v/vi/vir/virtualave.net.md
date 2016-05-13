@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualave.net privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223173023id_/http%3A//www.virtualave.net/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualave.net privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513173004id_/http%3A//www.virtualave.net/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # VirtualAvenue's Privacy Policy
 
@@ -46,6 +46,6 @@ To ensure you receive the information you need to manage your account and protec
 
 
 
-**This file was last modified on April 30, 2015.**
+**This file was last modified on May 29, 2015.**
 
  ****
