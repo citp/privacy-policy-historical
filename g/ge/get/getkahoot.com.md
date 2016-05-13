@@ -1,14 +1,11 @@
-> *The following text is extracted and transformed from the getkahoot.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315172458id_/https%3A//www.getkahoot.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getkahoot.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514005325id_/https%3A//getkahoot.com/info/privacy-policy) for the most accurate reproduction.*
 
-# Kahoot! Privacy Policy
+# Privacy Policy - Kahoot!
 
-#### 'Kahoot! AS' Privacy Policy
+### We ask for some personal information when you sign up to use Kahoot!
 
-This section describes how we treat personal information when you use [getkahoot.com](https://getkahoot.com/), [create.kahoot.it](https://create.kahoot.it/), [play.kahoot.it](https://play.kahoot.it/) and [kahoot.it](https://kahoot.it/) website operated by Kahoot! AS and Kahoot!'s services, including information provided when you use the websites.
+Our servers automatically record information about your use of the service, such as when you log in and you submit answers to quizzes or provide feedback to the instructor. We will associate that information with your account. The instructors will use those data for academic evaluation purposes.  
 
-We ask for some personal information when you sign up to use Kahoot!
-
-Our servers automatically record information about your use of the service, such as when you log in and you submit answers to quizzes or provide feedback to the instructor. We will associate that information with your account. The instructors will use those data for academic evaluation purposes.
 
 We store and maintain your account information in order to provide the service. Statistical analysis on the students’ performance might be conducted to study the effectiveness of the system and increase in-class learning. No identification of users will be revealed at any point to any third party.
 
