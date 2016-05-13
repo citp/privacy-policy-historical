@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poptropica.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101111817id_/http%3A//fen.com/resources/privacy-policy-children.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poptropica.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513031623id_/http%3A//fen.com/resources/privacy-policy-children.html) for the most accurate reproduction.*
 
 # Fen.com - Privacy Statement
 
@@ -54,7 +54,7 @@ If you have any questions or concerns about this privacy statement, or your deal
 
 a) E-mail us at [Customer Support](http://fen.custhelp.com/app/ask/p/1/search/1);
 
-b) Write to us at: FEN, 501 Boylston St, Suite 900, Boston, MA 02116; or
+b) Write to us at: FEN, 50 Congress St, Suite 1025, Boston, MA 02109; or
 
 c) Call us at: 1-800-498-3264.
 
@@ -182,7 +182,7 @@ Any personal information you provide to FEN in connection with this Website will
 
 * * *
 
-© 2000-2015 Sandbox Networks, Inc. All rights reserved 
+© 2000-2016 Sandbox Networks, Inc. All rights reserved 
 
   
   | 
