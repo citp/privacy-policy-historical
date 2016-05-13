@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mackeeper.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108192940id_/http%3A//mackeeper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mackeeper.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513131840id_/https%3A//mackeeper.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - MacKeeper
+# Privacy Policy - MacKeeper™
 
 _1_
 
@@ -20,7 +20,7 @@ You will be required to provide your Personal Information at our website or in a
 
   * Billing information (such as credit card number and its expiry date),
 
-  * You can create a Kromtech/MacKeeper account using sign-in services such as Facebook Connect. These services will authenticate your identity and provide you with an option to share certain personal information with us such as your name and email address to pre-populate our sign up form.
+  * You can create a Kromtech/MacKeeper™ account using sign-in services such as Facebook Connect. These services will authenticate your identity and provide you with an option to share certain personal information with us such as your name and email address to pre-populate our sign up form.
 
 
 
@@ -74,7 +74,7 @@ This data is used for the following purposes:
 
 
 
-Information collected via MacKeeper:
+Information collected via MacKeeper™:
 
   * Email address,
 
@@ -91,9 +91,9 @@ Information collected via MacKeeper:
 
 Collected information is used for:
 
-  * Registration of the MacKeeper/Kromtech account,
+  * Registration of the MacKeeper™/Kromtech account,
 
-  * Proper functioning of MacKeeper
+  * Proper functioning of MacKeeper™
 
   * Supplying you with a list of recommended fixes/software updates.
 
@@ -112,7 +112,7 @@ The user is able to deactivate the Anti-Theft service in their Kromtech account.
 
 “Internet Security”
 
-MacKeeper’s Internet Security feature is powered by Avira’s antivirus engine. In case of installing our Internet Security service, which includes Real Time Safe Browsing, Automatic Security Updates and Real Time Antivirus Scan you confirm that you have read, understood and agreed to Avira [Eula](https://www.avira.com/en/end-user-license-agreement-terms-of-use/) and [Privacy Policy](https://www.avira.com/en/general-privacy/).
+MacKeeper™ Internet Security feature is powered by Avira’s antivirus engine. In case of installing our Internet Security service, which includes Real Time Safe Browsing, Automatic Security Updates and Real Time Antivirus Scan you confirm that you have read, understood and agreed to Avira [Eula](https://www.avira.com/en/end-user-license-agreement-terms-of-use/) and [Privacy Policy](https://www.avira.com/en/general-privacy/).
 
 _2_
 
