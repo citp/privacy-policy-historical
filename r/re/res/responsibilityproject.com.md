@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the responsibilityproject.com privacy policy that was archived on 2015-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151129182727id_/http%3A//www.libertymutualgroup.com/omapps/ContentServer%3Fpagename%3DLMGroup/Views/lmgDisclosure%26cid%3D1138362980102) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsibilityproject.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513034640id_/http%3A//www.libertymutualgroup.com/omapps/ContentServer%3Fpagename%3DLMGroup/Views/lmgDisclosure%26cid%3D1138362980102) for the most accurate reproduction.*
 
 # Liberty Mutual
 
