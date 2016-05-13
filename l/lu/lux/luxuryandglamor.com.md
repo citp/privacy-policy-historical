@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the luxuryandglamor.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119032017id_/http%3A//www.luxuryandglamor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxuryandglamor.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513113153id_/http%3A//www.luxuryandglamor.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Luxury and Glamour
+# Privacy – Luxury and Glamour
 
 We only collect anonymous information.  
 We use technologies like cookies (small files stored by your browser), web beacons, or unique device identifiers to anonymously identify your computer or device so we can deliver a better experience. Our systems also log information like your browser, operating system and IP address.
