@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jgwentworth.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910191604id_/https%3A//www.jgwentworth.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jgwentworth.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513020021id_/https%3A//www.jgwentworth.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - J.G. Wentworth
 
