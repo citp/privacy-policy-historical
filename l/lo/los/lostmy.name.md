@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the lostmy.name privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218141725id_/https%3A//www.lostmy.name/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lostmy.name privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513024858id_/https%3A//www.lostmy.name/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lost My Name
 
 ### Privacy Policy of lostmy.name
 
-**Introduction** This policy (together with our terms and conditions of use as set out at [www.lostmy.name/terms](http://www.lostmy.name/terms)) applies to your use of the website www.lostmy.name (the **“Website”** ) and sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
+**Introduction**
 
-Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our terms and conditions of use as set out at [www.lostmy.name/terms](http://www.lostmy.name/terms)) applies to your use of the website www.lostmy.name (the **“Website”** ) and sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Act 1998, the data controller is Lostmy.name Limited of Unit 11, 38-50 Pritchards Road, London E2 9AP, United Kingdom.
+For the purpose of the Data Protection Act 1998, the data controller is Lostmy.name Limited of 30-36 Pritchards Road, London E2 9AP, United Kingdom.
 
 **Types of Data collected**
 
