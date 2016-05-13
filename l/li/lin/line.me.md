@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the line.me privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016164841id_/http%3A//terms.line.me/line_rules/%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the line.me privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513224648id_/http%3A//terms.line.me/line_rules/%3Flang%3Den) for the most accurate reproduction.*
 
 # LINE Privacy Policy
 
@@ -50,17 +50,17 @@ To provide you the Service, LINE collects and uses the following types of inform
 
  **i.Information for Account Creation and Registration**
 
-When you register with us and create a LINE account to use the LINE App, LINE will ask you to provide your telephone number.  This information is necessary because we send text message via SMS to phone number provided as part of our ongoing efforts to detect and deter unauthorized or fraudulent use of or abuse of the Service.
+When you register with us and create a LINE account to use the LINE App, LINE will ask you to provide your telephone number.  This information is necessary because we send text message via SMS to phone number provided as part of our ongoing efforts to detect and deter unauthorized or fraudulent use of or abuse of the Service. We may also use your registered phone number to provide you important information about the Service.
 
 Alternatively, you may choose to create a LINE account using your Facebook account when, for example, you wish not to provide your telephone number.  In such a case, it is optional to provide your telephone number.  Please note that, we do not collect your Facebook password.
 
-If you choose to enable “Allow Others to Add” feature, your telephone number is used to let other users who have your telephone number in their address books add you as a LINE Friend.  Please note that you can at any time choose to enable or disable this “Allow Others to Add” feature in “Settings” > “Friends” > “Contacts.”
+If you choose to enable “Allow Others to Add” feature, your telephone number is used to let other users who have your telephone number in their address books add you as a LINE Friend, and to allow other users who know your telephone number to find you.  Please note that you can at any time choose to enable or disable this “Allow Others to Add” feature in “Settings” > “Friends”
 
  **ii.Device Information and Access Logs When You Use Our Service**
 
-When you use the Service or visit our Website, we may obtain and maintain certain electronic identification or log data from your mobile device or personal computer such as: OS type, IP address, browser information including type and language settings, device identifier or mobile application identifier.
+When you use the Service or visit our Website, we may obtain and maintain certain electronic identification or log data from your mobile device or personal computer such as: OS type, IP address, browser information including type and language settings, device identifier, advertising identifier or mobile application identifier.
 
-This information is necessary as part of our ongoing efforts to detect and deter unauthorized or fraudulent use of or abuse of the Service, as well as to provide you and optimize the Service for your environment.
+This information is necessary as part of our ongoing efforts to detect and deter unauthorized or fraudulent use of or abuse of the Service, as well as to provide you and optimize the Service for your environment. Also, please note that, an advertising identifier may be associated with our internal identifier.
 
  **b.What Other Information Might LINE Collect?**
 
@@ -68,7 +68,7 @@ To improve your experience when using the Service, we provide additional functio
 
  **i.Email Address [OPTIONAL]**
 
-You may want to access your LINE account from multiple devices (“Multiple Device Login”) or to transfer your LINE account from one device to another (“Account Transfer”).  If you wish to enable the Multiple Devices Login or to transfer your LINE account to a different device, you will need to provide your email address and a password and/or PIN code, so that we may associate these devices with your LINE account.
+You may want to access your LINE account from multiple devices (“Multiple Device Login”) or to transfer your LINE account from one device to another (“Account Transfer”).  If you wish to enable the Multiple Devices Login or to transfer your LINE account to a different device, you will need to provide your email address and a password and/or PIN code, so that we may associate these devices with your LINE account. We may use your registered e-mail address to provide you important information about the Service.
 
 Please note that, if you change your mind later and decide you no longer wish to provide your email address, you can at any time remove it in “Settings” > “Accounts” menu in the LINE App.
 
@@ -78,7 +78,7 @@ You may want to make it easier for your LINE friends to find you.  If you so ch
 
  **iii.Contact Telephone Numbers in Your Address Book [OPTIONAL]**
 
-You may wish to make it easier for you to find your friends so that you can communicate using LINE App.  If you wish to ask us to help you find your friends, you may want to consider enabling “Auto Add Friends” feature. If you choose to enable “Auto Add Friends” feature, we will collect the telephone numbers (and e-mail addresses if issued by Japanese telecom companies) in your mobile device’s address book, and enable you add friends in the LINE App who have consented to being found by their telephone number or e-mail address (“Account Matching Service”).  Once you have added a friend in the LINE App, you can call them or send them messages over the LINE App.  We will collect information from only the telephone number (and e-mail addresses if issued by Japanese telecom companies) fields in your mobile device’s address book; we do not collect contact names or any information from other data fields.  You can at any time change your mind and disable Account Matching Service by turning off this feature under “Settings” -> “Friends” -> “Contacts.”  If you do so, the information you provided by this feature will be deleted.
+You may wish to make it easier for you to find your friends so that you can communicate using LINE App.  If you wish to ask us to help you find your friends, you may want to consider enabling “Auto Add Friends” feature. If you choose to enable “Auto Add Friends” feature, we will collect the telephone numbers (and e-mail addresses if issued by Japanese telecom companies) in your mobile device’s address book, and enable you add friends in the LINE App who have consented to being found by their telephone number or e-mail address (“Account Matching Service”).  Once you have added a friend in the LINE App, you can call them or send them messages over the LINE App.  We will collect information from only the telephone number (and e-mail addresses if issued by Japanese telecom companies) fields in your mobile device’s address book; we do not collect contact names or any information from other data fields.  You can at any time change your mind and disable Account Matching Service by turning off this feature under “Settings” -> “Friends”  If you do so, the information you provided by this feature will be deleted.
 
 If you would like to invite individual friends or contacts to connect with you on the LINE App, you may send them invitations directly via SMS or e-mail directly from your mobile device using the address book in your mobile phone.  When you use the invitation function in the LINE App (“Tell a Friend Service”), we will access your address book to identify your friends.  After your friend(s) have been identified, you can send invitations directly to individual friends and contact via SMS or e-mail on your mobile device telephone.  LINE does not send invitations as part of the Tell a Friend Service.
 
@@ -105,6 +105,10 @@ If you choose to participate in promotional events or surveys that LINE offers f
  **vii.Payment Information [OPTIONAL]**
 
 If you choose to purchase or use a fee-based service and pay for such service by means other than in-app purchases via iTunes or Google Play, we may collect your credit card information.  We will use your credit card information only to process your purchase or use our fee-based service.  Please note that, we will not retain your credit card information because your credit-card settlement will be handled by appropriate payment agencies.
+
+ **viii.Information from websites and applications that have integrated our Service plugins [OPTIONAL]  **
+
+Our websites/applications and/or third-party websites/applications may integrate our plugins such as "LINE it!"  We may record your LINE login activity through the use of such plugins, or obtain the URL of the website that includes our plugins which you visit while you are logged into our Service via your browser.  Please note that no information will be obtained from websites or applications with our plugins if you are logged out of the Service.
 
  **c.What About Information I Create About Myself and Share With Others?**
 
@@ -138,7 +142,7 @@ To provide the Service, LINE, as a data controller or joint data controller, use
 
 •to enable us to provide customer support, and to respond effectively to your inquiries and claims;
 
-•to conduct user satisfaction surveys;
+•to conduct user surveys;
 
 •to provide you with information regarding the Service;
 
@@ -156,7 +160,7 @@ If, however, we provide you with more specific purpose(s) of use either at the t
 
  **b.How Does LINE Protect My Information?**
 
-To fulfill our commitment to respecting and protecting your privacy and the confidentiality of your information, LINE has implemented industry-standard safeguards to prevent unauthorized access or disclosure, misuse, alternation, or destruction of your information.  More specifically, we received ISO/IEC 27001:2005 certification in 2007, and SOC2, SOC3 (SysTrust) certifications for the LINE App service.
+To fulfill our commitment to respecting and protecting your privacy and the confidentiality of your information, LINE has implemented industry-standard safeguards to prevent unauthorized access or disclosure, misuse, alternation, or destruction of your information.  More specifically, we received ISO/IEC 27001 certification in 2007, and SOC2, SOC3 (SysTrust) certifications for the LINE App service.
 
 Because no method of electronic transmission or method of data storage is perfect or impenetrable, we cannot guarantee that your information will be absolutely safe from intrusion during transmission or while stored in our systems.
 
@@ -278,6 +282,6 @@ Attn: Privacy Policy
 
  **c.Changes to This Privacy Policy**
 
-We may modify our Privacy Policy from time to time for various reasons including to improve our privacy practices, to reflect changes to our Service, and to comply with relevant law.  The last time we updated this Privacy Policy was 10th of November, 2014, and it was initially released on 15th of August, 2012.
+We may modify our Privacy Policy from time to time for various reasons including to improve our privacy practices, to reflect changes to our Service, and to comply with relevant law.  The last time we updated this Privacy Policy was 17 of December, 2015, and it was initially released on 15th of August, 2012.
 
 When we make any material changes to our Privacy Policy, we will provide notice to you on our Service, or by other reasonable means.  We encourage you to review changes carefully.  If you agree to the changes, then please continue to use our Service.  If you, however, do not agree to any of the changes and you no longer wish to use our Service, you may choose to close your account.  Continuing to use our Service after a notice of changes has been communicated to you or published on our Service constitutes your acceptance of changes and consent to the modified Privacy Policy.
