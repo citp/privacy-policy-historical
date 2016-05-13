@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transerotica.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503123911id_/http%3A//transerotica.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transerotica.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513034020id_/http%3A//transerotica.com/privacy-policy.html) for the most accurate reproduction.*
 
 # OC Cash Privacy Policy
 
