@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eleavers.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909072034id_/http%3A//www.eleavers.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eleavers.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513142459id_/http%3A//www.eleavers.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Eleavers Advertising And Marketing NetWork
 
