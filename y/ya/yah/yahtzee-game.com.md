@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yahtzee-game.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916005406id_/http%3A//www.yahtzee-game.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yahtzee-game.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513113125id_/https%3A//cardgames.io/privacy) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# CardGames.io - PRIVACY POLICY
 
-This game is created by SimpleGames, a small software company in Iceland. Here we will explain what data we store, how we store it, how we use cookies and how our advertising works. 
+This site, [CardGames.io](https://web.archive.org/), is created by Rauðás Hugbúnaður ehf ("Red Ace Software LLC"), a small software company in Iceland. Here we will explain what data we store, how we store it, how we use cookies and how our advertising works. 
 
 ### Personal information
 
@@ -30,16 +30,16 @@ We keep log files of visits to the site. These log files include information abo
 
 We use cookies (small bits of information stored on your computer) for a few things: 
 
-  * To remember which options you have chosen for the game.
-  * To remember the score between rounds in the game.
+  * To remember which options you have chosen for the games.
+  * To remember the score between rounds in the games.
 
 
 
-### Cookies and advertising
+### Cookies & 3rd Party Advertisements
 
-We use third party advertising on our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). 
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-Google and its ad partners use of a special cookie called the DoubleClick cookie enables them to serve you interest based ads base on previous visits to this website and/or other websites on the internet. You may opt out of being tracked by this cookie by going to Google Ad Preferences (<http://www.google.com/ads/preferences/>) and turning it off. You may also go to <http://www.aboutads.info/> to opt out of interest based ads for many other ad networks which may show ads on this site. 
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 ### Game statistics stored on your own computer
 
@@ -47,6 +47,6 @@ This game may keep track of your game statistics, how many times you've won, los
 
 ### Contact us
 
-If you would like more information about any of the above, please do not hesitate to contact us at [simplegames@simplegames.io](mailto:simplegames@simplegames.io) with any questions or concerns. 
+If you would like more information about any of the above, please do not hesitate to contact us at [admin@cardgames.io](mailto:admin@cardgames.io) with any questions or concerns. 
 
-[Click here to go back to the game](https://web.archive.org/). 
+[Click here to go back to the frontpage](https://web.archive.org/). 
