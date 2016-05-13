@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the genesis-mining.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322194159id_/https%3A//www.genesis-mining.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genesis-mining.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513101906id_/https%3A//www.genesis-mining.com/privacy) for the most accurate reproduction.*
 
-# Cloud Mining Contracts – Genesis Mining
+# Privacy - Genesis Mining
 
 Genesis Mining Limited (" **us** ", " **we** ", or " **our** ") operates the www.genesis-mining.com website (the " **Service** ").
 
