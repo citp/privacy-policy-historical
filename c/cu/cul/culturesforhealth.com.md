@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the culturesforhealth.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910031554id_/http%3A//www.culturesforhealth.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the culturesforhealth.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513224316id_/http%3A//www.culturesforhealth.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Cultures for Health Privacy Policy | Customer Privacy
 
@@ -16,9 +16,9 @@ Among the types of Personal Data that this Application collects, by itself or th
 
 Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection. 
 
- The Personal Data may be freely provided by the User, or collected automatically when using this Application. 
+The Personal Data may be freely provided by the User, or collected automatically when using this Application. 
 
- Any use of Cookies - or of other tracking tools - by the Application or by the owners of third-party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User. 
+Any use of Cookies - or of other tracking tools - by the Application or by the owners of third-party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User. 
 
 Failure to provide certain Personal Data may make it impossible for this Application to provide its services.
 
