@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baltimorecity.gov privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913120814id_/http%3A//www.baltimorecity.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baltimorecity.gov privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513211712id_/http%3A//www.baltimorecity.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | City of Baltimore
 
@@ -10,8 +10,7 @@ This statement regarding the privacy of the personally identifiable information 
 
 ### Awareness
 
-The City of Baltimore provides this Online Privacy Statement to make you aware of the privacy policy, practices and of the choices you can make about the way your information is collected and used. To make this notice easy to find, it is available on the homepage.
-
+The City of Baltimore provides this Online Privacy Statement to make you aware of the privacy policy, practices and of the choices you can make about the way your information is collected and used. To make this notice easy to find, it is available on the homepage.  
 What information is collected?
 
 On some City of Baltimore pages, you can submit personal information through forms or via e-mail links. The types of personal information collected at these pages.
@@ -20,8 +19,7 @@ In order to tailor subsequent communications to you and continuously improve ser
 
 ### How Will This Information Be Used?
 
-The City of Baltimore uses your information to better understand your needs and provide you with better service. Specifically, your information is used to communicate back to you, to update you on services and benefits and personalize the City Web site for you.
-
+The City of Baltimore uses your information to better understand your needs and provide you with better service. Specifically, your information is used to communicate back to you, to update you on services and benefits and personalize the City Web site for you.  
 Will this information be shared?
 
 The City of Baltimore will not sell, rent or lease your personally identifiable information to others. Unless required by law, the city will only share the personal data you provide online with other City of Baltimore entities and/or business partners who are acting on behalf of the city for the uses described in "How will this information be used?". Such entities and/or business partners are governed by privacy policies with respect to the use of this data and are bound by the appropriate confidentiality agreements.
