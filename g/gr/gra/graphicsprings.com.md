@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the graphicsprings.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911222542id_/https%3A//www.graphicsprings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphicsprings.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513030726id_/https%3A//www.graphicsprings.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | GraphicSprings
 
 ### What information do we collect?
 
