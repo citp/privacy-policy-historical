@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nichebotclassic.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625135546id_/http%3A//nichebotclassic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nichebotclassic.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513054756id_/http%3A//nichebotclassic.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Niche Bot Classic
+# Privacy Policy - Niche Bot Classic
 
 **Privacy Policy for nichebotclassic.com**
 
