@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tradifyhq.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629213458id_/http%3A//www.tradifyhq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradifyhq.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514053904id_/http%3A//tradifyhq.com/privacy) for the most accurate reproduction.*
 
-# Tradify
+# Job Management Software | Tradify
 
 Your privacy is important to Tradify. So we've developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and let us know if you have any questions. 
 
