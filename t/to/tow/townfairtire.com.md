@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the townfairtire.com privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918080617id_/http%3A//www.townfairtire.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the townfairtire.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514103555id_/http%3A//www.townfairtire.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Town Fair Tire - Privacy Policy
 
