@@ -1,25 +1,26 @@
-<!--The following is the downloaded HTML source of the vinted.com privacy policy that was archived on 2015-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150503140342id_/http%3A//www.vinted.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vinted.com privacy policy that was archived on 2016-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160514132007id_/https%3A//www.vinted.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js flavour-clothing" lang="en-us"><!--<![endif]--><head>
+<!DOCTYPE html><html class="flavour-clothing" lang="en-us"><head itemscope="" itemtype="http://schema.org/WebSite">
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"d11e5b3cd1","applicationID":"2136278","transactionName":"cglXFhRcWw5dF05bUFgIFgEJXloNVjoVU0lF","queueTime":51,"applicationTime":51,"agent":"js-agent.newrelic.com/nr-632.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYGUFFTGwEBV1dQAAk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+<script src="https://js-agent.newrelic.com/nr-943.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"d11e5b3cd1","applicationID":"2136278","transactionName":"cglXFhRcWw5dF05bUFgIFgEJXloNVjoVU0lF","queueTime":1,"applicationTime":57,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYGUFFTGwEBV1dQAAk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(11),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(12),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),c.xhrWrappable&&t(6),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(13)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(13)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(13)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){y.push(t),h&&(g=-g,x.data=g)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(13)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var w=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,w),w.prototype=p.prototype,d.inPlace(w.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,x=document.createTextNode(g);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(8),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(10),m=window.XMLHttpRequest;s.features.xhr=!0,t(6),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(11),a=t(12);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],11:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],12:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],13:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(12),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([y,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},y={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return y}function i(){return new r}var a="nr@context",s=t("gos"),c=t(11),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(11),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(9);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-943.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,7]);</script>
 
   <title>Vinted Inc. Privacy Policy</title>
+  <meta name="company" itemprop="name" content="Vinted">
   <meta name="keywords" content="jual, beli, baju, lemari maya, sell clothes online, wardrobe, swapping, buying, fashion, style, stylish, preloved, buy second hand, used clothes, style ideas, sell preloved clothes malaysia, vintage fashion, online shop">
-  <meta name="description" content="ASOS, Brandy Melville, Jeffrey Campbell, Topshop... Buy, sell and swap the latest trends in secondhand clothes, shoes and accessories through our social platform!">
+  <meta name="description" content="ASOS, Brandy Melville, Jeffrey Campbell, Topshop... Buy, sell and swap clothing, accessories, beauty items, and so much more pre-loved! Save and earn – with Vinted you get amazing deals while you de-clutter your closet!">
 
   
 
   <meta name="viewport" content="width=device-width, maximum-scale=1.0, initial-scale=1.0">
   <meta name="theme-color" content="#5db8c9">
 
-  <meta property="al:ios:url" content="vintedus://webview?url=http%3A%2F%2Fwww.vinted.com%2Fprivacy-policy">
+  <meta property="al:ios:url" content="vintedus://webview?url=http%3A%2F%2Fwww.vinted.com%2Fprivacy-policy&amp;portal=us">
 <meta property="al:ios:app_store_id" content="656177391">
 <meta property="al:ios:app_name" content="Vinted">
-<meta property="al:android:url" content="vintedus://webview?url=http%3A%2F%2Fwww.vinted.com%2Fprivacy-policy">
+<meta property="al:android:url" content="vintedus://webview?url=http%3A%2F%2Fwww.vinted.com%2Fprivacy-policy&amp;portal=us">
 <meta property="al:android:app_name" content="Vinted">
 <meta property="al:android:package" content="com.vinted">
 <meta property="al:web:should_fallback" content="true">
@@ -28,25 +29,29 @@
 <meta name="twitter:app:id:iphone" content="656177391">
 <meta name="twitter:app:name:googleplay" content="Vinted">
 <meta name="twitter:app:id:googleplay" content="com.vinted">
-<meta name="twitter:app:url:iphone" content="vintedus://webview?url=http%3A%2F%2Fwww.vinted.com%2Fprivacy-policy">
-<meta name="twitter:app:url:googleplay" content="vintedus://webview?url=http%3A%2F%2Fwww.vinted.com%2Fprivacy-policy">
+<meta name="twitter:app:url:iphone" content="vintedus://webview?url=http%3A%2F%2Fwww.vinted.com%2Fprivacy-policy&amp;portal=us">
+<meta name="twitter:app:url:googleplay" content="vintedus://webview?url=http%3A%2F%2Fwww.vinted.com%2Fprivacy-policy&amp;portal=us">
 <link rel="alternative" href="android-app://com.vinted/vintedus/webview?url=http%3A%2F%2Fwww.vinted.com%2Fprivacy-policy">
   <meta name="twitter:site" content="@VintedUSA">
 
-  <meta property="og:image" content="http://www.vinted.com/assets/open-graph/clothing/default-ca15293629c9e9a55ed68fe59bf71c70.jpg">
-<meta property="og:image:secure_url" content="https://www.vinted.com/assets/open-graph/clothing/default-ca15293629c9e9a55ed68fe59bf71c70.jpg">
+  <meta property="og:site_name" content="Vinted">
+<meta property="og:image" content="http://www.vinted.com/assets/open-graph/clothing/default-0a8e4443e2f9fc512f4607e4482136b4.jpg">
+<meta property="og:image:secure_url" content="https://www.vinted.com/assets/open-graph/clothing/default-0a8e4443e2f9fc512f4607e4482136b4.jpg">
 <meta property="fb:app_id" content="156162527893846">
-<meta property="og:url" content="http://www.vinted.com/privacy-policy">
-<link rel="canonical" href="http://www.vinted.com/privacy-policy">
+<meta property="og:url" content="https://www.vinted.com/privacy-policy">
+<link rel="canonical" href="https://www.vinted.com/privacy-policy">
   <meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="EsllUaoDcka9WAjzL/Fc/gZjw6qUNCZL5N4+ScruPm8rXv7GhezHkkhhCT/7NAbLUowEsHADL3JQEYtz46MCDQ==">
+<meta name="csrf-token" content="KsYJsZMlKc63y5YABVFv8h4108kiny0QiGl0sK0rzVJthXhwUH+be+WKWMoOF6uwKbssniG2UUQtWL3MKAw7Ng==">
   
+  <meta name="apple-itunes-app" content="app-id=656177391, app-argument=vintedus://webview?url=http%3A%2F%2Fwww.vinted.com%2Fprivacy-policy&amp;portal=us">
 
-  <style type="text/css"></style>
+  <script>(function(root) { root.MD = {} })(this);</script>
 
-  <link rel="stylesheet" media="screen" href="/assets/default-5e8d05bf01c49334429f1fe7580af047.css">
 
-  
+
+    <link rel="stylesheet" media="screen" href="/assets/default-1133f473680fcb2c9f4d822798e8797a.css">
+
+  <link rel="stylesheet" media="screen" href="/assets/user-formatted-text-796a8afa64f207d3d6a50096295aa82e.css">
   
 
   <meta name="p:domain_verify" content="9c8542fd3c2b1b476cccd28ba6d0ccb4">
@@ -55,65 +60,87 @@
 
 <meta name="google-site-verification" content="pRTT7Ij9xapj8z_paOsGKwQs3AO0yaoWUwOmwGUJi-8">
 
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-586538-31']);
-  _gaq.push(['_setDomainName', 'vinted.com']);
-  _gaq.push(['_setCustomVar', 1, 'Session', 'not_logged', 2]);
-  _gaq.push(['_setCustomVar', 2, 'UserID', '0', 2]);
-  _gaq.push(['_setCustomVar', 3, 'AbTest', 'rls_on,isc_c,sfb_on,isc2_c,csi_on,soc_on,itc_on,nuf_d,msc_off,fsp_on,gate_off,kcip_on,fam_on,msn_on,blm_on', 2]);
-  _gaq.push(['_setCustomVar', 4, 'LandingZone', '', 2]);
-  if (window.location.pathname.substring(1,15) != 'social_plugin/' && window.location.pathname.substring(1,15) != 'closet_plugin/') {
-    _gaq.push(['_trackPageview']);
-  }
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
-    <script src="//code.jquery.com/jquery-2.1.3.min.js"></script>
-    
-
-  <!-- Fallback to local if CDN is down -->
-  <script>window.jQuery || document.write('<script src="/assets/jquery-b654ac06a1c52214601be0dc4542cec2.js"><\/script>')</script><script src="/assets/jquery-b654ac06a1c52214601be0dc4542cec2.js"></script>
-
-  <script src="/assets/head-83dec2065edd6f349ec137c5c841be36.js"></script>
-  <script src="/assets/constants/en-us-4bd3f4ece1376a7958357dbb23b0be67.js"></script>
-
   
 </head>
 
 
 <body class=" fullpage-layout">
   
-  <div class="site">
-      
+  <div class="site ">
+    
 
-  <header class="header header-anonymous">
+  
+  <svg style="position: absolute; width: 0; height: 0;" width="0" height="0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <symbol id="header-bell" viewBox="0 0 1024 1024">
+      <path d="M490.667 256v0c0 133.026 0 512 0 512h-234.667c-64 0-85.333-21.333-85.333-42.667 0-85.333 85.333-85.333 85.333-85.333v-170.667c0 0 0-211.863 176.675-250.117-3.855-8.24-6.008-17.458-6.008-27.216 0-35.346 28.407-64 64-64 35.346 0 64 28.407 64 64 0 9.742-2.158 18.976-6.030 27.242 175.643 38.323 170.601 250.091 170.601 250.091v170.667c0 0 91.429 0 91.429 85.333 0 21.333-21.333 42.667-91.429 42.667h-228.571c0 0 0-378.974 0-512zM597.333 810.667c0 47.128-47.756 85.333-106.667 85.333s-106.667-38.205-106.667-85.333h213.333z"></path>
+    </symbol>
+    <symbol id="header-clear" viewBox="0 0 1024 1024">
+      <path d="M569.709 512.021l101.059 101.078c15.859 15.862 15.913 41.527-0.128 57.571-15.93 15.933-41.674 16.016-57.56 0.128l-101.065-101.083-101.115 101.115c-15.862 15.862-41.527 15.916-57.571-0.128-15.933-15.933-16.016-41.682-0.128-57.571l101.121-101.121-101.091-101.11c-15.859-15.862-15.913-41.527 0.128-57.571 15.93-15.933 41.674-16.016 57.56-0.128l101.096 101.115 101.083-101.083c15.862-15.862 41.527-15.916 57.571 0.128 15.933 15.933 16.016 41.682 0.128 57.571l-101.089 101.089zM512 896c212.077 0 384-171.923 384-384s-171.923-384-384-384c-212.077 0-384 171.923-384 384s171.923 384 384 384z"></path>
+    </symbol>
+    <symbol id="header-envelope" viewBox="0 0 1024 1024">
+      <path d="M221.867 810.667c-51.84 0-93.867-42.965-93.867-96v-288l384 170.667 384-170.667v288c0 53.035-42.027 96-93.867 96h-580.267zM221.867 213.333h580.267c51.84 0 93.867 42.965 93.867 96v32l-384 170.667-384-170.667v-32c0-53.035 42.027-96 93.867-96z"></path>
+    </symbol>
+    <symbol id="header-heart" viewBox="0 0 1024 1024">
+      <path d="M512.125 853.305l-11.118-8.948c-0.038-0.019-57.124-45.974-152.632-121.845l-2.515-2.010c-91.956-73.027-217.86-173.051-217.86-314.991 0-145.011 115.189-234.798 221.911-234.798 62.635 0 119.414 28.892 162.079 81.918 42.704-53.083 99.559-81.994 162.291-81.994 106.626 0 221.719 89.255 221.719 233.433 0 145.884-132.682 249.756-220.49 318.498-94.951 74.354-151.807 121.181-152.363 121.655l-11.022 9.081z"></path>
+    </symbol>
+    <symbol id="header-search" viewBox="0 0 1024 1024">
+      <path d="M598.548 670.948c-48.605 34.263-107.894 54.385-171.882 54.385-164.949 0-298.667-133.718-298.667-298.667s133.718-298.667 298.667-298.667c164.949 0 298.667 133.718 298.667 298.667 0 63.948-20.098 123.203-54.322 171.791l170.339 170.529c15.931 15.944 16.088 41.636-0.198 57.935l-14.343 14.388c-16.041 16.053-42.158 15.942-57.89 0.199l-170.371-170.561zM426.667 597.333c94.257 0 170.667-76.41 170.667-170.667s-76.41-170.667-170.667-170.667c-94.257 0-170.667 76.41-170.667 170.667s76.41 170.667 170.667 170.667z"></path>
+    </symbol>
+  </defs>
+</svg>
+
+
+  <header class="header  ">
     <div class="container header-container">
-        <div class="hamburger hamburger--site-nav-toggle" data-toggle="dropdown" data-target=".header-navigation, .hamburger">
+        <div class="hamburger hamburger--site-nav-toggle " data-toggle="dropdown" data-target=".header-navigation, .hamburger">
           <span class="hamburger__part hamburger__part--salad"></span>
           <span class="hamburger__part hamburger__part--ham"></span>
           <span class="hamburger__part hamburger__part--patty"></span>
           <span class="hamburger__part hamburger__part--bun"></span>
         </div>
 
-        <nav class="header-navigation">
-            <div class="header-userbar">
-              <div class="header-signin">
-                <a class="dropdown-user-sign-in button plain-button active __act_as_default_on_mobile" id="user-login-button" rel="nofollow" data-toggle="dropdown" data-target="#login-dropdown" href="/member/signup/start#login">Sign in</a>
+      <a class="header__logo" href="/">
+<svg class="site-logo site-logo--mono" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <symbol id="site-logo-mark" viewBox="0 0 964 1024" preserveAspectRatio="xMinYMin meet">
+        <path d="M963.398 618.165c0 176.008-27.558 242.086-188.717 277.986-16.715 2.53-21.835 10.963-21.835 22.016v95.503c0 7.981-8.584 12.951-15.42 8.945-39.575-23.191-140.89-84.209-170.466-101.858-20.45-12.198-47.074-21.745-72.885-24.636-55.657-6.295-94.178-11.686-152.365-18.613-107.369-12.8-225.16-40.026-278.648-148.661-9.939-20.661-64.392-159.985-63.036-443.512h0.030c4.277-189.952 205.071-227.358 230.039-232.448 527.721-107.249 603.377-25.028 649.186 16.233 77.101 69.451 84.119 146.854 84.119 260.216 0.632 99.599 0 133.903 0 288.828v0zM628.851 251.633l-20.42-71.288h-12.469c-5.512 0-9.999 4.518-9.999 10.12v8.252c0 39.454-24.516 71.831-58.669 71.831-34.184 0-58.699-32.376-58.699-71.831v-8.252c0-5.602-4.457-10.12-9.999-10.12h-12.439l-21.353 71.288c-2.199 11.264-2.108 22.859 0.211 34.063 0.693 3.403 2.259 9.156 3.554 12.378 4.789 12.017 26.413 75.475 32.979 92.582h131.464c6.415-16.143 27.377-80.956 32.075-92.582 1.295-3.192 2.831-8.975 3.554-12.378 2.319-11.204 2.379-22.799 0.211-34.063v0zM593.011 420.834h-131.464c-95.804 43.43-132.186 165.888-220.521 244.465 104.659 84.088 118.874-0.181 183.266 25.449 16.173 6.445 56.742 27.256 89.449 32.497 32.738 5.301 55.627-19.486 91.979-17.167 38.641 2.379 50.748 54.513 142.005 43.098-6.264-122.428-76.89-276.781-154.714-328.343v0z"></path>
+    </symbol>
 
-                <!-- TODO: Add auto-focus when dropdown appears -->
+    <symbol id="site-logo-type" viewBox="-964 0 1024 1024" preserveAspectRatio="xMinYMid meet">
+        <path d="M465.378 787.125c12.198 0 24.395-4.066 24.395-4.066s64.241-164.262 105.713-284.612c20.329-58.549 89.449-284.612 89.449-284.612h-42.285c0 0-45.538 164.262-85.384 276.48l-91.889 256.151-91.889-256.151c-39.846-112.218-85.384-276.48-85.384-276.48h-42.285c0 0 69.12 226.063 89.449 284.612 41.472 120.35 105.713 284.612 105.713 284.612s12.198 4.066 24.395 4.066v0zM779.264 783.059v-406.588h-38.219c0 0-2.44 27.648-2.44 113.845 0 130.108 8.132 292.744 8.132 292.744h32.527zM734.539 274.824c0 16.264 12.198 28.461 28.461 28.461s28.461-12.198 28.461-28.461c0-16.264-12.198-28.461-28.461-28.461s-28.461 12.198-28.461 28.461v0zM919.944 783.059v-219.558c0-81.318 28.461-162.635 126.042-162.635 109.779 0 126.042 85.384 126.042 178.899v203.294h32.527c0 0 8.132-142.306 8.132-203.294 0-81.318-16.264-211.426-166.701-211.426-69.12 0-101.647 32.527-126.042 73.186-6.505-48.791-12.198-65.054-12.198-65.054h-26.022c0 0-2.44 27.648-2.44 113.845 0 130.108 8.132 292.744 8.132 292.744h32.527zM1245.214 400.866h93.515v48.791c0 252.085 4.066 341.534 142.306 341.534v-28.461c-97.581 0-101.647-56.922-101.647-313.073v-48.791h101.647v-24.395c0 0-48.791-8.132-101.647-8.132 0-97.581 4.066-195.162 4.066-195.162h-36.593c0 0-8.132 97.581-8.132 195.162-44.725 0-93.515 8.132-93.515 8.132v24.395zM1690.022 368.339c-150.438 0-166.701 113.845-166.701 211.426 0 81.318 16.264 211.426 166.701 211.426 77.252 0 126.042-20.329 126.042-20.329v-28.461c0 0-56.922 16.264-126.042 16.264-109.779 0-126.042-89.449-126.042-162.635 0 0 87.823 8.132 126.042 8.132 134.174 0 150.438-69.12 150.438-109.779s-16.264-126.042-150.438-126.042v0zM1690.022 400.866c93.515 0 109.779 60.988 109.779 93.515s-16.264 77.252-109.779 77.252h-126.042c0-81.318 12.198-170.767 126.042-170.767v0zM2064.896 368.339c-150.438 0-166.701 130.108-166.701 211.426s16.264 211.426 166.701 211.426c77.252 0 142.306-8.132 142.306-8.132s8.132-162.635 8.132-292.744c0-130.108-8.132-317.139-8.132-317.139h-36.593c0 0 4.066 105.713 4.066 210.613-23.582-7.319-59.362-15.45-109.779-15.45v0zM2174.675 758.664h-109.779c-109.779 0-126.042-85.384-126.042-178.899s16.264-178.899 126.042-178.899c48.791 0 84.57 4.066 109.779 8.132v349.666z"></path>
+    </symbol>
+
+    <symbol id="site-logo">
+      <use xlink:href="#site-logo-mark" class="site-logo__mark"></use>
+        <use xlink:href="#site-logo-type" class="site-logo__type"></use>
+    </symbol>
+  </defs>
+
+  <use xlink:href="#site-logo"></use>
+</svg>
+</a>
+
+      <nav class="header-navigation">
+          <div class="header-userbar">
+            <div class="header-signin">
+              <a class="dropdown-user-sign-in button block-button active js-enable-desktop-dropdown plain-button" id="user-login-button" rel="nofollow" data-target="#login-dropdown" href="/member/signup/start#login">Sign in</a>
+
+              <!-- TODO: Add auto-focus when dropdown appears -->
 <div class="dropdown dropdown-right dropdown-wide" id="signin-dropdown">
   <div class="box box--sign-in">
     <div class="box__content dialog-content">
       <div class="social-signin">
-          <a class="button facebook-button __act_as_fb_login block-button" rel="nofollow" data-ref-url="/privacy-policy" href="#">Login with Facebook</a>
+          
+<a data-ref-url="/privacy-policy" class=" facebook-button js-facebook-login facebook-button--block facebook-button--filled" href="https://www.facebook.com/v2.1/dialog/oauth?app_id=156162527893846&amp;redirect_uri=https%3A%2F%2Fwww.vinted.com%2Fmember%2Ffacebook%2Ffacebook_login&amp;scope=email%2Cuser_friends">
+  <svg class="facebook-button__icon" width="20" height="20" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <path fill="currentColor" d="M17 1h-14c-1.1 0-2 0.9-2 2v14c0 1.101 0.9 2 2 2h7v-7h-2v-2.475h2v-2.050c0-2.164 1.212-3.684 3.766-3.684l1.803 0.002v2.605h-1.197c-0.994 0-1.372 0.746-1.372 1.438v1.69h2.568l-0.568 2.474h-2v7h4c1.1 0 2-0.899 2-2v-14c0-1.1-0.9-2-2-2z"></path>
+  </svg>
+  <span class="js-facebook-button-label">
+    Login with Facebook
+  </span>
+</a>
+
 
       </div>
 
@@ -121,7 +148,7 @@
         <span>My account</span>
       </div>
 
-      <form id="login-form" action="https://www.vinted.com/member/general/login?ref_url=%2Fprivacy-policy" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="cwdGCQCn8YohGHL4eZySjfnVuJI7ytBAwb7vzIBACW1KkN2eL0hEXtQhczStWci4rTp/iN/92Xl1cVr2qQ01Dw==">
+      <form id="login-form" action="https://www.vinted.com/member/general/login?ref_url=%2Fprivacy-policy" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="AJ+0KDLQ1F0lIhkmxFTAeh4sA/rzlyrTOKZTYX2OqzpH3MXp8Ypm6Hdj1+zPEgQ4KaL8rfC+Voedl5od+KldXg==">
         <fieldset>
 
           <div class="form__row">
@@ -148,105 +175,499 @@
   </div>
 </div>
 
-
-                  <a class="button facebook-button __act_as_fb_login" rel="nofollow" href="#">Login with Facebook</a>
                 
-              </div>
+<a data-ref-url="/privacy-policy" class=" facebook-button js-facebook-login facebook-button--block facebook-button--filled" href="https://www.facebook.com/v2.1/dialog/oauth?app_id=156162527893846&amp;redirect_uri=https%3A%2F%2Fwww.vinted.com%2Fmember%2Ffacebook%2Ffacebook_login&amp;scope=email%2Cuser_friends">
+  <svg class="facebook-button__icon" width="20" height="20" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <path fill="currentColor" d="M17 1h-14c-1.1 0-2 0.9-2 2v14c0 1.101 0.9 2 2 2h7v-7h-2v-2.475h2v-2.050c0-2.164 1.212-3.684 3.766-3.684l1.803 0.002v2.605h-1.197c-0.994 0-1.372 0.746-1.372 1.438v1.69h2.568l-0.568 2.474h-2v7h4c1.1 0 2-0.899 2-2v-14c0-1.1-0.9-2-2-2z"></path>
+  </svg>
+  <span class="js-facebook-button-label">
+    Login with Facebook
+  </span>
+</a>
+
+
             </div>
+          </div>
 
-          <ul class="nav header-nav" id="top-menu-items"><li class="nav-item"><a class="header-logo" href="http://www.vinted.com/"><img alt="vinted.com" src="/assets/default/blank-2c748ab88d07b236bb62990ad98cd7c8.gif"></a></li><li class="nav-item"><a title="Feed" class="nav-link" data-toggle="null" data-target="#" data-track-link="header.nav.feed_button" href="http://www.vinted.com/">Feed</a></li><li class="nav-item"><a title="Shop" class="nav-link __act_as_default_on_mobile" id="catalog-menu-item" data-toggle="dropdown" data-target="#" data-track="header.nav.catalog_button" href="http://www.vinted.com/clothes">Shop</a><div class="dropdown">
-<div class="catalog catalog-horizontal">
-  <ul class="nav nav-detailed nav-categories head horizontal hidden nav-dropdown">
+        <ul class="nav header-nav"><li class="nav-item"><a title="Feed" class="nav-link" data-target="#" data-track-link="header.nav.feed_button" href="https://www.vinted.com/">Feed</a></li><li class="nav-item"><a title="Shop" class="nav-link js-enable-desktop-dropdown" id="catalog-menu-item" data-target="#" data-track="header.nav.catalog_button" href="https://www.vinted.com/clothes">Shop</a><div class="dropdown"><div class="catalog-dropdown js-catalog-dropdown">
+  <ul class="nav nav-detailed nav-categories nav-dropdown js-catalog-dropdown-tabs">
       <li class="nav-item">
+        <a class="nav-link nav-categories__link" data-details="1238722" data-toggle="tab" data-target="#nav-catalog-4" href="/womens-clothing">
 
-        <a class="nav-link nav-catalog-category-womens" data-details="1362592" data-toggle="tab" data-target="#nav-catalog-4" href="/women"><strong>Women</strong></a>
-      </li>
+          <svg fill="#7296E7" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1024 1024" class="nav-categories__icon" width="24" height="24">
+  <path d="M896.128 803.584c-54.955 60.629-163.157 135.083-384.043 135.083-220.928 0-329.131-74.453-384.085-135.083 56.363-186.24 166.229-290.645 264.661-379.819h1.707c-11.819-31.573-45.739-117.803-54.4-139.947-2.347-5.973-5.163-16.64-6.4-22.955-4.181-20.693-4.352-42.069-0.427-62.891l33.451-112.64h22.443c9.984 0 18.048 8.363 18.048 18.645v15.275c0 72.875 43.435 111.787 105.045 111.787s106.581-38.912 106.581-111.787v-15.275c0-10.283 8.107-18.645 18.048-18.645h22.485l31.744 112.64c3.925 20.821 3.755 42.197-0.384 62.891-1.28 6.315-4.096 16.981-6.443 22.955-8.448 21.461-41.173 110.123-52.693 139.947 98.432 89.173 208.341 193.579 264.661 379.819v0z"></path>
+</svg>
+
+
+
+          Women's Clothing
+</a>      </li>
+      <li class="nav-item">
+        <a class="nav-link nav-categories__link" data-details="148795" data-toggle="tab" data-target="#nav-catalog-16" href="/womens-shoes">
+
+          <svg fill="#5BDFCB" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1024 1024" class="nav-categories__icon" width="24" height="24">
+  <path d="M832.146 128c0 0-81.152-0.469-170.667 170.667-109.568 209.451-203.179 447.744-341.333 298.667 0 0-129.365 58.923-215.168 163.712-46.379 56.661-5.035 134.656 65.579 134.656h290.603c44.331 0.085 86.485-23.808 106.496-76.373 23.979-63.019 94.251-307.328 157.824-307.328v384h85.333c0-254.421 32.555-314.283 106.667-469.333 73.771-154.325-85.333-298.667-85.333-298.667v0z"></path>
+</svg>
+
+
+
+          Women's Shoes
+</a>      </li>
+      <li class="nav-item">
+        <a class="nav-link nav-categories__link" data-details="72188" data-toggle="tab" data-target="#nav-catalog-1032" href="/womens-bags">
+
+          <svg fill="#B76C47" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1024 1024" class="nav-categories__icon" width="24" height="24">
+  <path d="M804.913 938.624h-586.453c-55.552 0-97.963-51.371-89.344-108.16l62.592-489.131h87.509c10.965-119.424 110.251-213.333 232.533-213.333s221.568 93.909 232.533 213.333h86.869l63.104 489.131c8.619 56.789-33.792 108.16-89.344 108.16v0zM341.084 426.667c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667v0zM511.75 213.333c-75.179 0-136.747 55.723-147.2 128h294.4c-10.453-72.277-72.021-128-147.2-128v0zM682.417 426.667c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667v0z"></path>
+</svg>
+
+
+
+          Women's Bags
+</a>      </li>
+      <li class="nav-item">
+        <a class="nav-link nav-categories__link" data-details="163987" data-toggle="tab" data-target="#nav-catalog-1187" href="/accessories">
+
+          <svg fill="#FFB431" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1024 1024" class="nav-categories__icon" width="24" height="24">
+  <path d="M853.461 597.589c0 188.16-153.131 341.248-341.376 341.248s-341.419-153.088-341.419-341.248c0-159.829 110.677-293.931 259.328-330.837l-88.491-112.683 63.189-68.736h214.784l63.147 68.736-88.448 112.683c148.651 36.864 259.285 171.008 259.285 330.837v0zM512.085 341.419c-141.397 0-256 114.603-256 256s114.603 256 256 256c141.397 0 256-114.603 256-256s-114.603-256-256-256v0z"></path>
+</svg>
+
+
+
+          Accessories
+</a>      </li>
+      <li class="nav-item">
+        <a class="nav-link nav-categories__link" data-details="16404" data-toggle="tab" data-target="#nav-catalog-1208" href="/beauty">
+
+          <svg fill="#FF6648" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1024 1024" class="nav-categories__icon" width="24" height="24">
+  <path d="M1023.837 517.167c0 0-129.327 367.313-511.93 367.313-382.58 0-511.907-367.313-511.907-367.313 93.277 0 167.494-191.185 349.091-191.185 86.807 0 162.909 116.364 162.909 116.364s70.447-116.364 162.909-116.364c175.942 0 255.651 191.185 348.928 191.185v0z"></path>
+  <path fill="#999999" d="M907.311 256.559c-38.609 0-69.935-31.372-69.935-70.097 0-38.703 31.325-70.097 69.935-70.097s69.935 31.395 69.935 70.097c0 38.726-31.325 70.097-69.935 70.097v0z"></path>
+</svg>
+
+
+
+          Beauty
+</a>      </li>
+      <li class="nav-item">
+        <a class="nav-link nav-categories__link" data-details="25741" data-toggle="tab" data-target="#nav-catalog-1193" href="/mini-vinties">
+
+          <svg fill="#69D676" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1024 1024" class="nav-categories__icon" width="24" height="24">
+  <path d="M422.229 236.971c50.645 28.715 151.765 22.997 179.627-45.184-35.797 10.965-108.587-1.152-89.813-67.84 11.093-39.381 46.677-37.163 72.448-38.613 201.045 34.688 354.219 210.56 354.219 422.869 0 237.227-191.019 429.525-426.667 429.525-235.691 0-426.709-192.299-426.709-429.525 0-195.883 130.389-360.789 308.48-412.459-29.867 47.275-15.061 116.608 28.416 141.227v0zM640.171 382.933c-23.552 0-42.667 19.115-42.667 42.667 0 23.595 19.115 42.709 42.667 42.709 23.595 0 42.709-19.115 42.709-42.709 0-23.552-19.115-42.667-42.709-42.667v0zM258.133 624.299c34.56 64.811 114.389 142.848 253.867 142.848 139.52 0 219.349-78.037 253.909-142.848 6.272-11.776-2.347-33.621-23.296-26.069-77.056 27.861-123.989 44.203-230.613 44.203-106.581 0-153.515-16.341-230.571-44.203-20.949-7.552-29.611 14.293-23.296 26.069v0zM341.205 425.6c0 23.595 19.115 42.709 42.667 42.709 23.595 0 42.667-19.115 42.667-42.709 0-23.552-19.072-42.667-42.667-42.667-23.552 0-42.667 19.115-42.667 42.667v0z"></path>
+</svg>
+
+
+
+          Mini Vinties
+</a>      </li>
+      <li class="nav-item">
+        <a class="nav-link nav-categories__link" data-details="19329" data-toggle="tab" data-target="#nav-catalog-5" href="/guys">
+
+          <svg fill="#999999" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1024 1024" class="nav-categories__icon" width="24" height="24">
+  <path d="M960.115 382.123c-22.997-47.36-106.88-65.664-128.085-5.973 39.851 0 64 14.72 64 38.827 0 25.685-14.549 38.827-42.667 38.827-83.157 0-111.616-155.136-242.261-155.136-60.288 0-99.072 58.069-99.072 58.069s-38.784-58.069-99.072-58.069c-130.645 0-159.104 155.136-242.261 155.136-28.117 0-42.667-13.141-42.667-38.827 0-24.107 23.637-38.827 64-38.827-21.205-59.691-105.088-41.387-128.085 5.973-75.819 155.947 63.659 343.296 218.581 343.296 75.989 0 160.085-40.277 229.504-135.723 69.419 95.445 153.515 135.723 229.504 135.723 154.923 0 294.4-187.349 218.581-343.296v0z"></path>
+</svg>
+
+
+
+          Guys
+</a>      </li>
+      <li class="nav-item">
+        <a class="nav-link nav-categories__link" data-details="248" data-toggle="tab" data-target="#nav-catalog-1431" href="/bundles">
+
+          <svg fill="#bbbbbb" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1024 1024" class="nav-categories__icon" width="24" height="24">
+  <path d="M22.667 10.667h5.324c0.741 0 1.342 0.6 1.342 1.342v15.982c0 0.741-0.6 1.342-1.342 1.342h-15.982c-0.741 0-1.342-0.6-1.342-1.342v-5.324h-5.324c-0.741 0-1.342-0.6-1.342-1.342v-15.982c0-0.741 0.6-1.342 1.342-1.342h15.982c0.741 0 1.342 0.6 1.342 1.342v5.324zM20 10.667v-4h-13.333v13.333h4v-7.991c0-0.741 0.6-1.342 1.342-1.342h7.991z"></path>
+</svg>
+
+
+
+          Bundles
+</a>      </li>
+
+    <div class="nav-categories__split"></div>
+
   </ul>
 
-  <div class="subcatalogs horizontal">
+  <div class="subcatalogs js-catalog-dropdown-sucategories">
       <ul id="nav-catalog-4" class="nav nav-detailed nav-stacked nav-subcategories nav-dropdown">
         <li class="nav-item">
-          <a class="nav-link nav-catalog-category-all-clothes" data-details="1362592" href="/women">See All</a>
+          <a class="nav-link" data-details="1238722" href="/womens-clothing">See All</a>
         </li>
           <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="10" data-title="Dresses " data-details="233557" href="/womens-clothing/dresses">
 
-            <a class="nav-link nav-catalog-category-footwear" data-details="115757" href="/women/shoes">Shoes</a>
-          </li>
+              Dresses 
+</a>          </li>
           <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="12" data-title="Tops" data-details="500895" href="/womens-clothing/womens-clothing-tops">
 
-            <a class="nav-link nav-catalog-category-dresses" data-details="186021" href="/women/dresses">Dresses </a>
-          </li>
+              Tops
+</a>          </li>
           <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="9" data-title="Pants" data-details="105812" href="/womens-clothing/pants">
 
-            <a class="nav-link nav-catalog-category-trousers" data-details="89215" href="/women/pants">Pants</a>
-          </li>
+              Pants
+</a>          </li>
           <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="13" data-title="Hoodies &amp; Sweaters" data-details="131586" href="/womens-clothing/hoodies-and-sweaters">
 
-            <a class="nav-link nav-catalog-category-tops-t-shirts" data-details="440579" href="/women/women-tops">Tops</a>
-          </li>
+              Hoodies &amp; Sweaters
+</a>          </li>
           <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="1037" data-title="Coats &amp; Jackets" data-details="43319" href="/womens-clothing/coats-and-jackets">
 
-            <a class="nav-link nav-catalog-category-coats-jackets" data-details="35008" href="/women/coats-and-jackets">Coats &amp; Jackets</a>
-          </li>
+              Coats &amp; Jackets
+</a>          </li>
           <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="11" data-title="Skirts" data-details="63740" href="/womens-clothing/skirts">
 
-            <a class="nav-link nav-catalog-category-skirts" data-details="52945" href="/women/skirts">Skirts</a>
-          </li>
+              Skirts
+</a>          </li>
           <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="8" data-title="Suits &amp; Blazers" data-details="12521" href="/womens-clothing/suits-and-blazers">
 
-            <a class="nav-link nav-catalog-category-blazers" data-details="11715" href="/women/suits-and-blazers">Suits &amp; Blazers</a>
-          </li>
+              Suits &amp; Blazers
+</a>          </li>
           <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="15" data-title="Shorts" data-details="74621" href="/womens-clothing/womens-clothing-shorts">
 
-            <a class="nav-link nav-catalog-category-pullovers-sweaters" data-details="116965" href="/women/hoodies-and-sweaters">Hoodies &amp; Sweaters</a>
-          </li>
+              Shorts
+</a>          </li>
           <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="29" data-title="Lingerie" data-details="14821" href="/womens-clothing/lingerie">
 
-            <a class="nav-link nav-catalog-category-jewellery" data-details="95099" href="/women/jewelry">Jewelry</a>
-          </li>
+              Lingerie
+</a>          </li>
           <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="1035" data-title="Rompers &amp; Jumpsuits" data-details="11429" href="/womens-clothing/rompers-and-jumpsuits">
 
-            <a class="nav-link nav-catalog-category-bags-uk" data-details="49860" href="/women/bags">Bags</a>
-          </li>
+              Rompers &amp; Jumpsuits
+</a>          </li>
           <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="1039" data-title="Swimwear" data-details="25651" href="/womens-clothing/womens-clothing-swimwear">
 
-            <a class="nav-link nav-catalog-category-shorts-capris" data-details="58885" href="/women/women-shorts">Shorts</a>
-          </li>
+              Swimwear
+</a>          </li>
           <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="1176" data-title="Maternity" data-details="1063" href="/womens-clothing/maternity">
 
-            <a class="nav-link nav-catalog-category-accessories" data-details="67137" href="/women/accessories">Accessories</a>
-          </li>
+              Maternity
+</a>          </li>
           <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="18" data-title="Other Clothing" data-details="19675" href="/womens-clothing/other-clothing">
 
-            <a class="nav-link nav-catalog-category-jumpsuits-uk" data-details="6996" href="/women/rompers-and-jumpsuits">Rompers &amp; Jumpsuits</a>
-          </li>
+              Other Clothing
+</a>          </li>
+      </ul>
+      <ul id="nav-catalog-16" class="nav nav-detailed nav-stacked nav-subcategories nav-dropdown">
+        <li class="nav-item">
+          <a class="nav-link" data-details="148795" href="/womens-shoes">See All</a>
+        </li>
           <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="1046" data-title="Heels &amp; Pumps" data-details="50528" href="/womens-shoes/heels-and-pumps">
 
-            <a class="nav-link nav-catalog-category-swimwear-beachwear" data-details="17591" href="/women/swimwear-and-beachwear">Swimwear &amp; Beachwear</a>
-          </li>
+              Heels &amp; Pumps
+</a>          </li>
           <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="1047" data-title="Clogs &amp; Mules" data-details="1284" href="/womens-shoes/clogs-and-mules">
 
-            <a class="nav-link nav-catalog-category-maternity-clothes-main" data-details="336" href="/women/maternity-clothes">Maternity clothes</a>
-          </li>
+              Clogs &amp; Mules
+</a>          </li>
           <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="1048" data-title="Boat &amp; Slip-on Shoes" data-details="4760" href="/womens-shoes/boat-and-slip-on-shoes">
 
-            <a class="nav-link nav-catalog-category-other-clothes" data-details="18404" href="/women/other-clothes">Other Clothes</a>
-          </li>
+              Boat &amp; Slip-on Shoes
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="1049" data-title="Boots" data-details="24708" href="/womens-shoes/boots">
+
+              Boots
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="1050" data-title="Flats" data-details="11596" href="/womens-shoes/flats">
+
+              Flats
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="1051" data-title="Platforms" data-details="4959" href="/womens-shoes/platforms">
+
+              Platforms
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="1052" data-title="Oxfords" data-details="1449" href="/womens-shoes/oxfords">
+
+              Oxfords
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="1053" data-title="Sneakers" data-details="21109" href="/womens-shoes/sneakers">
+
+              Sneakers
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="207" data-title="Sandals" data-details="15519" href="/womens-shoes/sandals">
+
+              Sandals
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="216" data-title="Other Shoes" data-details="5985" href="/womens-shoes/other-shoes">
+
+              Other Shoes
+</a>          </li>
+      </ul>
+      <ul id="nav-catalog-1032" class="nav nav-detailed nav-stacked nav-subcategories nav-dropdown">
+        <li class="nav-item">
+          <a class="nav-link" data-details="72188" href="/womens-bags">See All</a>
+        </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="1114" data-title="Backpacks" data-details="2457" href="/womens-bags/backpacks">
+
+              Backpacks
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="1115" data-title="Purses" data-details="30186" href="/womens-bags/purses">
+
+              Purses
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="1116" data-title="Totes" data-details="8353" href="/womens-bags/totes">
+
+              Totes
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="1117" data-title="Clutches" data-details="6843" href="/womens-bags/clutches">
+
+              Clutches
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="1118" data-title="Messenger Bags" data-details="3064" href="/womens-bags/messenger-bags">
+
+              Messenger Bags
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="1119" data-title="Satchels" data-details="3623" href="/womens-bags/satchels">
+
+              Satchels
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="1124" data-title="Wallets" data-details="8254" href="/womens-bags/wallets">
+
+              Wallets
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="1120" data-title="Other Bags" data-details="7536" href="/womens-bags/other-bags">
+
+              Other Bags
+</a>          </li>
+      </ul>
+      <ul id="nav-catalog-1187" class="nav nav-detailed nav-stacked nav-subcategories nav-dropdown">
+        <li class="nav-item">
+          <a class="nav-link" data-details="163987" href="/accessories">See All</a>
+        </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="1121" data-title="Scarves" data-details="14211" href="/accessories/scarves">
+
+              Scarves
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="1122" data-title="Glasses" data-details="5345" href="/accessories/glasses">
+
+              Glasses
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="1123" data-title="Hair Accessories" data-details="6448" href="/accessories/hair-accessories">
+
+              Hair Accessories
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="22" data-title="Watches" data-details="4213" href="/accessories/watches">
+
+              Watches
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="20" data-title="Belts" data-details="4492" href="/accessories/belts">
+
+              Belts
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="1031" data-title="Jewelry" data-details="96343" href="/accessories/jewelry">
+
+              Jewelry
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="88" data-title="Hats" data-details="7896" href="/accessories/hats">
+
+              Hats
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="90" data-title="Gloves" data-details="673" href="/accessories/gloves">
+
+              Gloves
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="1221" data-title="Tech accessories" data-details="7819" href="/accessories/tech-accessories">
+
+              Tech accessories
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="1140" data-title="Other Accessories" data-details="6214" href="/accessories/other-accessories">
+
+              Other Accessories
+</a>          </li>
+      </ul>
+      <ul id="nav-catalog-1208" class="nav nav-detailed nav-stacked nav-subcategories nav-dropdown">
+        <li class="nav-item">
+          <a class="nav-link" data-details="16404" href="/beauty">See All</a>
+        </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="1209" data-title="Skin Care" data-details="2002" href="/beauty/skin-care">
+
+              Skin Care
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="1210" data-title="Hair Care" data-details="1541" href="/beauty/hair-care">
+
+              Hair Care
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="1211" data-title="Body Care" data-details="1497" href="/beauty/body-care">
+
+              Body Care
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="1212" data-title="Hand &amp; Nail Care" data-details="509" href="/beauty/hand-and-nail-care">
+
+              Hand &amp; Nail Care
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="1261" data-title="Perfume" data-details="2002" href="/beauty/perfume">
+
+              Perfume
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="1265" data-title="Nail Care" data-details="1472" href="/beauty/nail-care">
+
+              Nail Care
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="1213" data-title="Makeup" data-details="6136" href="/beauty/makeup">
+
+              Makeup
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="1214" data-title="Other Cosmetics &amp; Beauty Tools" data-details="1245" href="/beauty/other-cosmetics-and-beauty-tools">
+
+              Other Cosmetics &amp; Beauty Tools
+</a>          </li>
+      </ul>
+      <ul id="nav-catalog-1193" class="nav nav-detailed nav-stacked nav-subcategories nav-dropdown">
+        <li class="nav-item">
+          <a class="nav-link" data-details="25741" href="/mini-vinties">See All</a>
+        </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="1194" data-title="Boys" data-details="7880" href="/mini-vinties/boys">
+
+              Boys
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="1195" data-title="Girls" data-details="17861" href="/mini-vinties/girls">
+
+              Girls
+</a>          </li>
+      </ul>
+      <ul id="nav-catalog-5" class="nav nav-detailed nav-stacked nav-subcategories nav-dropdown">
+        <li class="nav-item">
+          <a class="nav-link" data-details="19329" href="/guys">See All</a>
+        </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="1206" data-title="Outerwear" data-details="1120" href="/guys/outerwear">
+
+              Outerwear
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="1231" data-title="Shoes" data-details="3164" href="/guys/shoes">
+
+              Shoes
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="82" data-title="Accessories" data-details="1172" href="/guys/accessories">
+
+              Accessories
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="76" data-title="Shirts" data-details="7492" href="/guys/shirts">
+
+              Shirts
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="32" data-title="Suits" data-details="147" href="/guys/suits">
+
+              Suits
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="79" data-title="Sweaters &amp; Hoodies" data-details="1835" href="/guys/sweaters-and-hoodies">
+
+              Sweaters &amp; Hoodies
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="34" data-title="Pants" data-details="2091" href="/guys/pants">
+
+              Pants
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="78" data-title="Vests" data-details="147" href="/guys/guys-vests">
+
+              Vests
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="139" data-title="Cosmetics &amp; Grooming" data-details="87" href="/guys/cosmetics-and-grooming">
+
+              Cosmetics &amp; Grooming
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="80" data-title="Shorts" data-details="799" href="/guys/shorts">
+
+              Shorts
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="85" data-title="Underwear" data-details="53" href="/guys/underwear">
+
+              Underwear
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="84" data-title="Swimwear" data-details="123" href="/guys/swimwear">
+
+              Swimwear
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="30" data-title="Sportswear" data-details="672" href="/guys/sportswear">
+
+              Sportswear
+</a>          </li>
+          <li class="nav-item">
+            <a class="nav-link js-subcatalog-link" data-id="83" data-title="Other" data-details="415" href="/guys/guys-other">
+
+              Other
+</a>          </li>
+      </ul>
+      <ul id="nav-catalog-1431" class="nav nav-detailed nav-stacked nav-subcategories nav-dropdown">
+        <li class="nav-item">
+          <a class="nav-link" data-details="248" href="/bundles">See All</a>
+        </li>
       </ul>
   </div>
-</div></div></li><li class="nav-item"><a title="Forums" class="nav-link" data-toggle="null" data-target="#" data-track-link="header.nav.forum_button" href="http://www.vinted.com/forum">Forums</a></li><li class="nav-item header-nav-extension"><a title="About Vinted" class="nav-link __act_as_default_on_mobile" data-toggle="dropdown" data-target="#" data-track="header.nav.about_button" href="http://www.vinted.com/about">About Vinted</a><div class="dropdown"><ul class="nav nav-stacked nav-dropdown"><li class="nav-item"><a title="About us" class="nav-link" data-toggle="null" data-target="#" data-track-link="header.nav.about_us_button" href="http://www.vinted.com/about">About us</a></li><li class="nav-item"><a title="Learn how it works" class="nav-link" data-toggle="null" data-target="#" data-track-link="header.nav.how_does_it_work_button" href="http://www.vinted.com/how_it_works">Learn how it works</a></li><li class="nav-item"><a title="FAQ &amp; Support" class="nav-link nav-link-featured" data-toggle="null" data-target="#" data-track-link="header.nav.faq_button" href="http://www.vinted.com/main/faq">FAQ &amp; Support</a></li><li class="nav-item"><a title="Members" class="nav-link" data-toggle="null" data-target="#" data-track-link="header.nav.member_button" href="http://www.vinted.com/member/general/list">Members</a></li><li class="nav-item"><a title="Vinted Stories" class="nav-link" id="bloglink" data-toggle="null" data-target="#" data-track-link="header.nav.blog_button" href="http://www.vinted.com/blog">Vinted Stories</a></li><li class="nav-item"><a title="Get the App" class="nav-link" data-toggle="null" data-target="#" data-track-link="header.nav.apps_button" href="http://www.vinted.com/app">Get the App</a></li></ul></div></li></ul>
-        </nav>
+</div>
+</div></li><li class="nav-item"><a title="Forum" class="nav-link" data-target="#" data-track-link="header.nav.forum_button" href="https://www.vinted.com/forum">Forum</a></li><li class="nav-item header-nav-extension"><a title="About" class="nav-link js-enable-desktop-dropdown" data-target="#" data-track="header.nav.about_button" href="https://www.vinted.com/about">About</a><div class="dropdown"><ul class="nav nav-stacked nav-dropdown"><li class="nav-item"><a title="About us" class="nav-link" data-target="#" data-track-link="header.nav.about_us_button" href="https://www.vinted.com/about">About us</a></li><li class="nav-item"><a title="Learn how it works" class="nav-link" data-target="#" data-track-link="header.nav.how_does_it_work_button" href="https://www.vinted.com/how_it_works">Learn how it works</a></li><li class="nav-item"><a title="Help &amp; FAQ" class="nav-link nav-link-featured" data-target="#" data-track-link="header.nav.faq_button" href="https://www.vinted.com/help">Help &amp; FAQ</a></li><li class="nav-item"><a title="Members" class="nav-link" data-target="#" data-track-link="header.nav.member_button" href="https://www.vinted.com/member/general/list">Members</a></li><li class="nav-item"><a title="Vinted Stories" class="nav-link" id="bloglink" data-target="#" data-track-link="header.nav.blog_button" href="https://www.vinted.com/blog">Vinted Stories</a></li><li class="nav-item"><a title="Privacy" class="nav-link" data-target="#" data-track-link="header.nav.privacy_button" href="/privacy-policy">Privacy</a></li><li class="nav-item"><a title="Terms" class="nav-link" data-target="#" data-track-link="header.nav.terms_button" href="/terms-and-conditions">Terms</a></li><li class="nav-item"><a title="Get the App" class="nav-link" data-target="#" data-track-link="header.nav.apps_button" href="https://www.vinted.com/app">Get the App</a></li></ul></div></li></ul>
+      </nav>
+
 
         <aside class="site-search clearfix" id="search">
   <div class="search-content" id="advanced-search-options">
 
-    <form class="search-bar" action="/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓">
-      <select name="scope" id="scope" class="search-scope"><option value="item">Clothes</option>
+    <form class="search-bar" action="/" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓">
+      <select name="scope" id="scope" class="search-scope"><option selected="selected" value="item">Clothes</option>
 <option value="user">Members</option>
-<option value="forum">Forums</option></select>
+<option value="forum">Forums</option>
+<option value="faq">Question</option></select>
 
       <div class="search-box-container">
-        <input type="text" name="search_text" id="search-bar-query" placeholder="e.g. black heels, New York City" data-placeholder-item="e.g. black heels, New York City" data-placeholder-forum="e.g. selfies" data-placeholder-user="e.g. Jane" autocomplete="off" class="search-input">
+        <input type="text" name="search_text" id="search-bar-query" placeholder="e.g. black heels, New York City" data-placeholder-item="e.g. black heels, New York City" data-placeholder-forum="e.g. selfies" data-placeholder-user="e.g. Jane" data-placeholder-faq="e.g. How do I upload an item?" autocomplete="off" class="search-input">
 
       </div>
 </form>
@@ -256,24 +677,6 @@
   <form action="/clothes" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓">
     <input type="hidden" name="search_text" id="search_text">
     <input type="hidden" name="e" id="e">
-    <input type="submit" name="commit" value="Search »" class="button submit-button search_submit">
-</form></div>
-
-        </div>
-        <div class="search-filter" id="forum-filter">
-          <div class="search forum">
-  <form action="/forum/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓">
-    <input type="hidden" name="search_text" id="search_text">
-    <input type="hidden" name="e" id="e">
-
-    <div class="form__row">
-      <label for="search_forum_id">Forum</label>
-      <label class="skinned-select">
-        <select name="search_forum_id" id="search_forum_id" class="skinned-select__input __act_as_forum" data-search="true">[]</select>
-      </label>
-    </div>
-
-
     <input type="submit" name="commit" value="Search »" class="button submit-button search_submit">
 </form></div>
 
@@ -299,10 +702,45 @@
 </form></div>
 
         </div>
+        <div class="search-filter" id="forum-filter">
+          <div class="search forum">
+  <form action="/forum/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓">
+    <input type="hidden" name="search_text" id="search_text">
+    <input type="hidden" name="e" id="e">
+
+    <div class="form__row">
+      <label for="search_forum_id">Forum</label>
+      <label class="skinned-select">
+        <select name="search_forum_id" id="search_forum_id" class="skinned-select__input __act_as_forum" data-search="true">[]</select>
+      </label>
+    </div>
+
+
+    <input type="submit" name="commit" value="Search »" class="button submit-button search_submit">
+</form></div>
+
+        </div>
+        <div class="search-filter" id="faq-filter">
+          <div class="search faq">
+  <form action="/help/s" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓">
+    <input type="hidden" name="search_text" id="search_text">
+    <input type="submit" name="commit" value="Search »" class="button submit-button search_submit">
+</form></div>
+
+        </div>
     </div>
   </div>
-  <span class="search-open">Search</span>
-  <input type="button" val="" class="search-close">
+
+  <span class="search-open">
+    <svg class="svg svg--24 search-open__icon">
+      <use xlink:href="#header-search"></use>
+    </svg>
+    Search
+  </span>
+
+  <svg class="svg svg--24 search-close">
+    <use xlink:href="#header-clear"></use>
+  </svg>
 </aside>
 <script>
 //<![CDATA[
@@ -317,6 +755,11 @@
   
 
   
+  
+
+  
+
+  
 
 
   
@@ -327,14 +770,8 @@
       
 <section class="site-content">
   <div class="container">
-    
-
     <div class="row">
-      
-
       <section id="content" class="grid12 site-content__content-section">
-
-        
 
         <div class="body-content">
           
@@ -344,92 +781,105 @@
     <h1>Vinted Inc. Privacy Policy</h1>
 
   <div class="user-formatted-text">
-    <p class="p1"><strong>Date of last revision: February&nbsp;24, 2015</strong></p>
+    <p class="p1"><strong>Date of last revision: April&nbsp;12, 2016</strong></p>
 
-<p class="p3">&nbsp;</p>
+<p class="p4">Vinted Inc. (“Vinted”) is committed to protecting the privacy and security of your personal information. We want to share with you how we treat personal information about you that we receive in connection with your use of our website and mobile applications (collectively, the “Site”).</p>
 
-<p class="p4">Vinted Inc. (“Vinted”) is committed to protecting the privacy and security of your personal information.&nbsp; We want to share with you how we treat personal information about you that we receive in connection with your use of our website and mobile applications (collectively, the “Site”).</p>
-
-<p class="p5">Also, please bear in mind that use of this Site is governed by the Terms and Conditions posted on the Site. Any capitalized terms not defined herein shall have the meaning set forth in the Terms and Conditions. As noted in those Terms and Conditions, although we operate internationally, Vinted Inc. is a company organized under the laws of Delaware.&nbsp; The servers that host this Site are located in the United States, and any personal details you provide to us will be processed by Vinted in the United States.&nbsp; Vinted expressly excludes any representation or warranty, express or implied, with respect to the information available on this Site.&nbsp; Vinted makes no representation about any third-party websites that may be accessed via links from this Site.&nbsp; By using this Site, you agree that the laws of California, without regard to its conflict of laws principles, will govern all matters between you and Vinted with respect to your use of this Site. &nbsp;</p>
+<p class="p5">Also, please bear in mind that your use of this Site is governed by the <a href="https://www.vinted.com/terms-and-conditions">Terms and Conditions</a> posted on the Site. Any capitalized terms not defined herein shall have the meaning set forth in the Terms and Conditions. As noted in those Terms and Conditions, although we operate internationally, Vinted Inc. is a company organized under the laws of Delaware. The servers that host this Site are located in the United States, and any personal details you provide to us will be processed by Vinted in the United States. Vinted expressly excludes any representation or warranty, express or implied, with respect to the information available on this Site. Vinted makes no representation about any third-party websites that may be accessed via links from this Site. By using this Site, you agree that the laws of California, without regard to its conflict of laws principles, will govern all matters between you and Vinted with respect to your use of this Site. &nbsp;</p>
 
 <p class="p5">&nbsp;</p>
 
 <p class="p4"><b>Information We Collect </b></p>
 
-<p class="p6">In general, you can visit our Site without telling us who you are or revealing any personal information about yourself.&nbsp; However, you should be aware that any sections of this Site (including restricted portions of this Site) that may allow for the submission of personal information (referred to for convenience as “Registration Pages”) may contain a function for collecting various pieces of your personal information, including your name, address, email address, phone number(s), account information and any other information that you decide to provide us with, either directly or via third party services (for example, Facebook Connect)&nbsp; We only collect your personal information if you voluntarily submit the information to us for such purposes as registering for the use of certain services, completion of surveys, submitting applications for employment, product or service purchases, or requests for information or services.&nbsp; For your information, through certain technologies employed by this Site we also collect non-personally identifiable information about you.&nbsp; For more details about this type of data collection, please refer to the section below on cookies and web beacons.</p>
+<ul>
+	<li>Information You Provide</li>
+</ul>
 
-<p class="p7">To protect your security and privacy, we require that you (as opposed to a third party on your behalf) enter the personal information that we collect and that the information be current, although Vinted disclaims any legal duty to verify the accuracy of any personal data that you provide to Vinted.&nbsp; You are free to access the personal information we have on file by contacting our Customer Service department using <strong><a href="https://www.vinted.com/help/new">our contact form</a></strong>.&nbsp; In addition, at any time you can request that we modify or delete your personal information by&nbsp;contacting the team&nbsp;through <strong><a href="https://www.vinted.com/help/new">our contact forum</a></strong>&nbsp;with the words “UPDATE MY INFORMATION” in body of your message.&nbsp; Please be aware that, to protect your security and privacy, Vinted may take reasonable steps to verify your identity prior to making changes to your personal information.&nbsp; For your information, please note that it is our practice to monitor and in some cases record calls for staff training and quality assurance purposes.</p>
+<p><span style="line-height: 1.6em;">We collect your personal information if you voluntarily submit the information to us for such purposes as registering for the use of certain services, completion of surveys, submitting applications for employment, product or service purchases, or requests for information or services. For example, sections of this Site (including certain restricted portions) may allow you to submit personal information (referred to for convenience as “Registration Pages”), including your name, address, email address, phone number(s), account information and any other information that you decide to provide us with, either directly or via third-party services (for example, Facebook Connect). To protect your security and privacy, we require that you (as opposed to a third party on your behalf) enter the personal information that we collect and that the information be current, although Vinted disclaims any legal duty to verify the accuracy of any personal data that you provide to Vinted.</span></p>
 
-<p class="p5">&nbsp;</p>
+<ul>
+	<li>Location Information</li>
+</ul>
+
+<p class="p7">You may provide information about your location, including your address, to us on our Site’s Registration Pages. If you post items for sale, we may use that information to tell other users, including potential buyers, your approximate distance away from them (but not your specific address). Similarly, when you review items for sale, we may use information that you have provided to us to give you an approximate distance between you and the seller. We may also collect and use current location information from your mobile device to do the same, but will ask you to allow us to collect such information, before we do so.</p>
+
+<ul>
+	<li>Automated Information Collection</li>
+</ul>
+
+<p class="p4">We may automatically collect certain information when you visit our Site, such as your IP address; details about your browser, operating system and device/hardware; your location, if available; the URL that referred you to our website; your activities on our Site; and other logging information, including the date and time of your visit. We may use a variety of technologies for such data collection, including web logs, web beacons, clear GIFs, cookies and others.</p>
+
+<p><strong>Use of Cookies and Web Beacons</strong></p>
+
+<p class="p5">Like many websites, our Site uses “cookies” to collect information. A cookie is a small data file that we transfer to your computer or mobile device’s hard disk for record-keeping purposes. We use cookies for two purposes. First, we utilize persistent cookies to save your login information for future logins to the Site. Second, we utilize session ID cookies to enable certain features of the Site, to better understand how you interact with the Site and to monitor aggregate usage by Vinted Users and web traffic routing on the Site. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Site and Services and then close your browser. Third party advertisers on the Site may also place or read cookies on your browser. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site and the Site’s functionality may be limited. Please note that linked third-party websites may also use cookies. We cannot control the use of cookies by these third-party websites. For example, when you link from this Site to a third-party website, that website may have the ability to recognize that you have come from our Website by using cookies. If you have any questions about how third-party websites use cookies, you should contact such third parties directly. We may also employ software technology known as “web beacons” or “clear GIFs” which helps us keep track of what content on our Site is effective. Web beacons are small graphics with a unique identifier that are used to track the online movements of Internet users. Web beacons are embedded in the web pages you review, so they are not stored on your hard drive. The web beacons we use do not track or collect any personally identifiable information about you and they are in no way linked to your personally identifiable information.</p>
+
+<p><strong>Analytics Services, Targeted Ads &amp; Do-Not-Track</strong></p>
+
+<p class="p5">We may also use third-party analytics services, including Google Analytics, and these services may track details about your online activities over time and across different websites, in addition to our Site. These services help us to improve our Site and operations. These services may also allow others to provide you with targeted ads or content that you may be interested in based on your online activities. You can learn more about Google Analytics and your choices<a href="http://www.google.com/settings/ads"> here</a>. If you would like to learn more about targeted ads and consumer choice, you may wish to visit the Network Advertising Initiative or the Digital Advertising Alliance.</p>
+
+<p class="p5">We do not respond to, or take any specific action in connection with the receipt of, Do-Not-Track signals or other similar mechanisms regarding the collection of information about an individual’s online activities over time and across third-party websites or online services.</p>
+
+<p><strong>Accessing &amp; Updating Your Information</strong></p>
+
+<p class="p5">You are free to access the personal information we have on file by contacting our Customer Service department using our <a href="https://www.vinted.com//help/new">contact form</a>. In addition, at any time you can request that we modify or delete your personal information by contacting the team through our contact forum with the words “UPDATE MY INFORMATION” in body of your message. Please be aware that, to protect your security and privacy, Vinted may take reasonable steps to verify your identity prior to making changes to your personal information. For your information, please note that it is our practice to monitor and in some cases record calls for staff training and quality assurance purposes.</p>
 
 <p class="p4"><b>How We Use the Information We Collect and Who We Share It With </b></p>
 
-<p class="p4">Unless otherwise specified herein, Vinted reserves the right to compile, save, use within the scope of our activities, and analyze any and all data about you (contact and personal data, usage history, etc.) that we collect from you through the Site.&nbsp; We use the personal information about you that you provide to us for our internal purposes such as responding to your requests for information or materials, delivering newsletters to you, contacting you, assessing your application for a position with Vinted and entities related to Vinted, processing and completing orders, processing your payment, administering your account, and administering and developing our business relationship with you or the company you represent.&nbsp; We also use your personal information to communicate with you, such as, for example, to provide you with administrative communications regarding your account, newsletters, press releases, or information relating to products, offers, or programs that may be of interest to you.</p>
+<p class="p4">Unless otherwise specified herein, Vinted reserves the right to compile, save, use within the scope of our activities, and analyze any and all data about you (contact and personal data, usage history, etc.) that we collect from you through the Site. We use the personal information about you that you provide to us for our internal purposes such as responding to your requests for information or materials, delivering newsletters to you, contacting you, assessing your application for a position with Vinted and entities related to Vinted, processing and completing orders, processing your payment, administering your account, and administering and developing our business relationship with you or the company you represent. We also use your personal information to communicate with you, such as, for example, to provide you with administrative communications regarding your account, newsletters, press releases, or information relating to products, offers, or programs that may be of interest to you.</p>
 
-<p class="p5">Vinted has a general policy of not disclosing your personal information to third parties unless you have consented to such sharing.&nbsp; However, we may share the personal information about you that you provide to us with trusted companies we have hired to provide services for us, such as sending out our newsletters, fulfilling orders you may submit, or collecting and processing information on our behalf.&nbsp; These companies – our vendors – are contractually bound to use personal information that we share with them only to perform the services we have hired them to provide. &nbsp;</p>
+<p class="p4">We may share the personal information about you that you provide to us with trusted companies we have hired to provide services for us, such as sending out our newsletters, fulfilling orders you may submit, or collecting and processing information on our behalf. These companies – our vendors – are contractually bound to use personal information that we share with them only to perform the services we have hired them to provide.</p>
 
-<p class="p5">We may also share your personal information in the event that the business of Vinted is transferred to another entity by way of merger, sale of the company’s assets, or otherwise.&nbsp; If you consent to sharing of your personal information, we may share your information with Vinted related entities and selected third parties so that they may provide you with or contact you regarding information and materials that may be of interest to you.&nbsp; Please refer to the section below on opting in and out.</p>
+<p class="p5">We may share your personal information to satisfy any applicable law, regulation, subpoena, government request or other legal process. And, we may also share personal information with others, including law enforcement, to protect our Site and to enforce our <a href="https://www.vinted.com/terms-and-conditions">Terms and Conditions</a>.&nbsp;</p>
 
-<p class="p5">We may also collect and group demographic and preferences information, responses to surveys and other personal information that we collect from you into an aggregate, non-personally identifiable form for disclosure to our existing or potential business partners, affiliates, sponsors or other third parties.&nbsp; However, please be assured that this aggregate data will in no way personally identify you or any other visitors to the Site.</p>
+<p class="p4">We may also share your personal information in the event that the business of Vinted is transferred to another entity by way of merger, sale of the company’s assets, or otherwise.</p>
 
-<p class="p5">From time to time, we may collect general, non-personal, statistical information about the use of the Site, such as how many visitors visit a specific page on the Site, how long they stay on that page and which hyperlinks, if any, they “click” on.&nbsp; We collect this information through the use of “cookies” and other tracking technologies, which are discussed in greater detail below in the section on cookies.&nbsp; We collect this information in order to determine which areas of the Site are most popular and to enhance the Site for visitors.&nbsp; As with other aggregated data, we may disclose such data to our existing or potential business partners, affiliates, sponsors or other third parties, but this aggregate data will in no way personally identify you or any other visitors to the Site.</p>
+<p class="p4">We may share your information with Vinted related entities and selected third parties so that they may provide you with or contact you regarding information and materials that may be of interest to you. Please refer to the section below on Opting In and Out.</p>
 
-<p class="p5">&nbsp;</p>
+<p class="p4">We may also collect and group demographic and preferences information, responses to surveys and other personal information that we collect from you (as described in Information We Collect) into an aggregate, non-personally identifiable form for disclosure to our existing or potential business partners, affiliates, sponsors or other third parties. However, please be assured that this aggregate data will in no way personally identify you or any other visitors to the Site.</p>
 
-<p class="p4"><b>Children’s Information and COPPA </b></p>
+<p><strong>Children’s Information and COPPA</strong></p>
 
-<p class="p4">We do not knowingly collect personal information from children under the age of 13.&nbsp; The content of our Site and the products and services available are not intended for, or directed to, children. If you are under 13 years of age, then please do not use or access our website at any time or in any manner. If you have reason to believe that a child under the age of 13 has provided us with Personal Information, please <strong><a href="https://www.vinted.com/help/new">contact us</a></strong>&nbsp;and we will endeavor to remove this information from our&nbsp;files. We recommend that parents and legal monitor their children’s use of the Internet and instruct them never to provide personal information without their explicit consent. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.</p>
-
-<p class="p5">&nbsp;</p>
-
-<p class="p4"><b>Use of Cookies and Web Beacons </b></p>
-
-<p class="p4">Like many websites, our Site uses “cookies” to collect information. A cookie is a small data file that we transfer to your computer or mobile device’s hard disk for record-keeping purposes. We use cookies for two purposes. First, we utilize persistent cookies to save your login information for future logins to the Site. Second, we utilize session ID cookies to enable certain features of the Site, to better understand how you interact with the Site and to monitor aggregate usage by Vinted Users and web traffic routing on the Site. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Site and Services and then close your browser. Third party advertisers on the Site may also place or read cookies on your browser. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site and the Site’s functionality may be limited.</p>
-
-<p class="p5">Please note that linked third-party websites may also use cookies.&nbsp; We cannot control the use of cookies by these third-party websites.&nbsp; For example, when you link from this Site to a third-party website, that website may have the ability to recognize that you have come from our Website by using cookies.&nbsp; If you have any questions about how third-party websites use cookies, you should contact such third parties directly.&nbsp;</p>
-
-<p class="p4">We may also employ software technology known as “web beacons” or “clear GIFs” which helps us keep track of what content on our Site is effective.&nbsp; Web beacons are small graphics with a unique identifier that are used to track the online movements of Internet users.&nbsp; Web beacons are embedded in the web pages you review, so they are not stored on your hard drive.&nbsp; The web beacons we use do not track or collect any personally identifiable information about you and they are in no way linked to your personally identifiable information.</p>
-
-<p class="p5">&nbsp;</p>
+<p class="p8">We do not knowingly collect personal information from children under the age of 13. The content of our Site and the products and services available are not intended for, or directed to, children. If you are under 13 years of age, then please do not use or access our website at any time or in any manner. If you have reason to believe that a child under the age of 13 has provided us with personal information, please <a href="https://www.vinted.com//help/new">contact us</a> and we will remove this information from our files. We recommend that parents and legal guardians monitor their children’s use of the Internet and instruct them never to provide personal information without their explicit consent. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.</p>
 
 <p class="p4"><b>Opting In and Out </b></p>
 
-<p class="p4">When you submit personal information to us through the Registration Pages on this Site, Vinted, Vinted related entities, and or selected third parties may use this information to communicate with you regarding the Services or to tell you about service we believe will be of interest to you. If we do so, any marketing communication we send you will contain instructions permitting you to “opt-out” of receiving future marketing communications. In addition, if at any time you wish not to receive any future marketing communications or wish to have your name deleted from our mailing lists, please <strong><a href="https://www.vinted.com/help/new">contact us</a></strong>. Note that as a user of our service you cannot opt-out of some administrative communications that are reasonably necessary to the service.</p>
+<p class="p4">When you submit personal information to us through the Registration Pages on this Site, Vinted, Vinted related entities, and or selected third parties may use this information to communicate with you regarding the Services or to tell you about service we believe will be of interest to you. If we do so, any marketing communication we send you will contain instructions permitting you to “opt-out” of receiving future marketing communications. In addition, if at any time you wish not to receive any future marketing communications or wish to have your name deleted from our mailing lists, please <a href="https://www.vinted.com//help/new">contact us</a>. Note that as a user of our service you cannot opt-out of some administrative communications that are reasonably necessary to the service.</p>
 
-<p class="p5">&nbsp;</p>
+<p><strong>Links to Other Sites and Site Accounts</strong></p>
 
-<p class="p4"><b>Links to Other Sites and Site Accounts </b></p>
+<p class="p4">For your convenience, the Vinted Site may from time to time include links to third-party websites and online services whose information practices may be different than ours. Visitors should consult the other sites’ and services’ privacy policies, as we have no control over information that is submitted to, or collected by, these third parties.</p>
 
-<p class="p4">For your convenience, the Vinted Site may from time to time include links to third-party sites whose information practices may be different than ours. Visitors should consult the other sites' privacy policies, as we have no control over information that is submitted to, or collected by, these third parties.&nbsp;</p>
-
-<p class="p8">Site Accounts are pages on certain websites (for example, the Vinted page on FaceBook), where the same information, as in the Site, is provided, because Vinted is the editor of both the Site and the Site Accounts. The Terms and Conditions, this Privacy Policy and other applicable rules published on the Site are binding on and apply to the Users and Visitors of Site Accounts. Users and Visitors should carefully read the terms and conditions and privacy policies of such websites, over which Vinted has no control. Vinted has Site Accounts on the following websites: Facebook, Google+, Twitter, Pinterest, Youtube, and other social networks.</p>
-
-<p class="p5">&nbsp;</p>
+<p class="p4">Site Accounts are pages on certain websites (for example, the Vinted page on Facebook), where the same information, as in our Site, is provided, because Vinted is the editor of both our Site and the Site Accounts. The Terms and Conditions, this Privacy Policy and other applicable rules published on our Site are binding on and apply to the Users and Visitors of Site Accounts. Users and Visitors should carefully read the terms and conditions and privacy policies of websites that host these Site Accounts, over which Vinted has no control. Vinted has Site Accounts on the following websites: Facebook, Google+, Twitter, Pinterest, YouTube, and other social networks.&nbsp;</p>
 
 <p class="p4"><b>Security of Information and Disclosures </b></p>
 
 <p class="p4">Vinted uses industry standard security measures to safeguard information concerning, and submitted by you. Despite the security measures employed by Vinted, you should be aware that it is impossible to guarantee absolute security with respect to information sent through the Internet.</p>
 
-<p class="p4">Vinted will, to the extent possible, control your personal information, and, except as otherwise set forth in this Privacy Policy, we will not disclose your personal information to third parties.&nbsp; Although we are committed to maintaining the confidentiality of your personal information, if required by law, we reserve the right to disclose such information without first obtaining your consent.</p>
+<p>Vinted will, to the extent possible, control your personal information, and, except as otherwise set forth in this Privacy Policy, we will not disclose your personal information to third parties. Although we are committed to maintaining the confidentiality of your personal information, if required by law, we reserve the right to disclose such information without first obtaining your consent.</p>
 
-<p class="p5">&nbsp;</p>
+<p><strong>Changes to the Privacy Policy</strong></p>
 
-<p class="p4"><b>Changes to the Privacy Policy </b></p>
+<p>The Site and Services may change from time to time. As a result, it may be necessary for Vinted to make changes to this Privacy Policy from time to time. Vinted reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. We ask that you please review the Privacy Policy periodically, and especially before you provide personal information. This Policy was last updated on the Effective Date indicated above. Your continued use of this Site subsequent to any modification of this Privacy Policy shall constitute your acceptance of the modified Privacy Policy. If any term or provision of this Privacy Policy shall be found to be invalid, illegal or otherwise unenforceable, such finding shall not affect the other terms or provisions of this Privacy Policy, or the whole of this Privacy Policy, but such term or provision shall be deemed modified to the extent necessary to render such term or provision enforceable, and the rights and obligations of you and Vinted shall be construed and enforced accordingly, preserving to the fullest permissible extent the intent and agreements set forth in this Privacy Policy.</p>
 
-<p class="p4">The Site and Services may change from time to time. As a result, it may be necessary for Vinted to make changes to this Privacy Policy from time to time. Vinted reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. We ask that you please review the Privacy Policy periodically, and especially before you provide personal information. This Policy was last updated on the date indicated above. Your continued use of this Site subsequent to any modification of this Privacy Policy shall constitute your acceptance of the modified Privacy Policy. If any term or provision of this Privacy Policy shall be found to be invalid, illegal or otherwise unenforceable, such finding shall not affect the other terms or provisions of this Privacy Policy, or the whole of this Privacy Policy, but such term or provision shall be deemed modified to the extent necessary to render such term or provision enforceable, and the rights and obligations of you and Vinted shall be construed and enforced accordingly, preserving to the fullest permissible extent the intent and agreements set forth in this Privacy Policy. &nbsp;</p>
+<p>&nbsp;</p>
 
-<p class="p5">&nbsp;</p>
+<p><strong>Contacting Us</strong></p>
 
-<p class="p4"><b>Contacting Us </b></p>
+<p>If you have any questions or concerns relating to this Privacy Policy, please contact us by clicking <a href="https://www.vinted.com//help">here</a> or using the information below:</p>
 
-<p class="p4">If you have any questions or concerns relating to this Privacy Policy, please <strong><a href="https://www.vinted.com/help/new">contact us</a></strong>.&nbsp;</p>
+<p><b style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px; line-height: normal;">Vinted Inc., </b></p>
+
+<p><b style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px; line-height: normal;">Attn: Privacy Office, </b></p>
+
+<p><b style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px; line-height: normal;">535 Mission&nbsp;St, 14th floor, </b></p>
+
+<p><b style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px; line-height: normal;">San Francisco&nbsp;</b></p>
+
+<p><b style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px; line-height: normal;">CA 94105</b></p>
 
 <p class="p9">&nbsp;</p>
 
-<p class="p5">&nbsp;</p>
-
   </div>
-
 <article>
 
         </article></article></div>
@@ -445,43 +895,56 @@
 
       
 
-
     </div>
   </div>
 
   <aside class="site__scripts">
-    
+  <div id="fb-root" class="js-fb-root" data-app-id="156162527893846" data-locale="en_US"></div>
 
-  <script src="/data/search-json.js"></script>
-  <script src="/assets/libs-a55eedbaada779763d2a485dbe37e8e4.js"></script>
+  <script src="/data/search-json.js?hash=038c142bcb4a8cc11b20e2264d7e9b2b"></script>
+  <script src="/assets/constants/en-us-e407e31a143cc04e316f96c96a90fbe4.js"></script>
+  <script src="/assets/libs-d532f8431d5aa855406de0a3d064ccc6.js"></script>
 
-    <script type="text/javascript">
-      (function(app) {
-        app.user = new Backbone.Model({"id":null,"sizes":[],"tests":{"rls":"on","isc":"c","sfb":"on","isc2":"c","csi":"on","soc":"on","itc":"on","nuf":"d","msc":"off","fsp":"on","gate":"off","kcip":"on","fam":"on","msn":"on","blm":"on"}});
-        app.config = new Backbone.Model({"portal":"us","flavour":"clothing","lang":"en-us","lang_code":"en","session_id":"e4963b4f24a8e2574b5f25733bd0330f","country":{"id":14,"code":"US","title":"United States"},"zone":200,"ignored_referrers":["vinted.com"],"tracking_data":{},"legacy_fb_login":"https://www.facebook.com/v2.1/dialog/oauth?app_id=156162527893846\u0026redirect_uri=https%3A%2F%2Fwww.vinted.com%2Fmember%2Ffacebook%2Ffacebook_login\u0026scope=email%2Cuser_friends","payments":{"provider":"balanced","uri":"/v1/marketplaces/MP1nu30lQ1ul15fYDQadHH62"},"shipping":{"provider":"us"},"postal_codes":{"format":"/^\\d{5}(?:[-\\s]\\d{4})?$/"},"bank_accounts":{"account_number_format":"//"},"feed":{"personal_path":"/feed/personal","personal_feed_enabled":null,"regular_path":"/","discount_indices":[30,60]},"theme_colors":{"default_dominant_color":"#31abc2","default_dominant_color_opaque":"#d6eef3"},"moderation_notifications":true,"screen":{"name":"unknown"},"is_bot":true,"feed_item_box":true});
-      })(MD);
-    </script>
+  <script type="text/javascript">
+    (function(app) {
+      app.user = new Backbone.Model({"id":null,"sizes":[],"tests":{"isc":"c","sfb":"on","isc2":"c","soc":"on","itc":"on","nuf":"d","msn":"on","blm":"on","ell":"on","csc":"on","anu":"on","rls":"on","hcr":"on","insured_payment_selection":"on","fee_in_upload_form":"off","global_identity":"on","offer_low_balling":"on","cb_cheap_items2":"off","cb_plain_search_colors":"off"}});
+      app.config = new Backbone.Model({"portal":"us","flavour":"clothing","lang":"en-us","lang_code":"en","session_id":"071247ffd876cd198d7b49c38f6b6c9a","country":{"id":14,"code":"US","title":"United States"},"zone":200,"ignored_referrers":["vinted.com"],"tracking_data":{},"payments":{"provider":"stripe","stripe":{"key":"pk_live_CceRT8CRVtRM1CQdX6YnHI7I","country":"US","currency":"usd"}},"shipping":{"provider":"us"},"postal_codes":{"format":"/^\\d{5}$/"},"bank_accounts":{"account_number_format":"//"},"feed":{"personal_feed_enabled":null,"regular_path":"/","discount_indices":[30,60]},"theme_colors":{"default_dominant_color":"#31abc2","default_dominant_color_opaque":"#d6eef3"},"screen":{"name":"unknown"},"is_bot":true,"feed_item_box":true,"video":{"min_length":3,"max_length":15,"max_gallery_duration":20,"max_size":62914560,"warnable_size_over_mobile_network":10485760},"maps_key":"AIzaSyBYimD01MjuUbOVYc6XeV6HVoKxZueqxzw","white_header":false,"emojiv2":false,"item_push_up_update":false});
+    })(MD);
+  </script>
 
-  <script src="/assets/core-7419ae1c896a75115a1b3726f1b0d7cd.js"></script>
+  <script src="/assets/core-2d2e79491e997c74e895278acd05cc60.js"></script>
 
-
-  
 
   
 
   <script type="text/javascript">
     (function() {
       window.Common.init();
-      
     })();
   </script>
 
   
 
-  <div id="fb-root" class="js-fb-root" data-app-id="156162527893846" data-locale="en_US" data-canvas="0"></div>
-
   
 
+  
+  
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-586538-31', 'auto');
+    ga('require', 'displayfeatures');
+
+    ga('set', 'dimension1', 'not_logged');
+    ga('set', 'dimension2', '0');
+    ga('set', 'dimension3', 'isc_c,sfb_on,isc2_c,soc_on,itc_on,nuf_d,msn_on,blm_on,ell_on,csc_on,anu_on,rls_on,hcr_on,insured_payment_selection_on,fee_in_upload_form_off,global_identity_on,offer_low_balling_on,cb_cheap_items2_off,cb_plain_search_colors_off');
+    ga('set', 'dimension4', '');
+
+    ga('send', 'pageview');
+  </script>
 
 </aside>
 
