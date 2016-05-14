@@ -1,0 +1,911 @@
+<!--The following is the downloaded HTML source of the 1byone.com privacy policy that was archived on 2016-05-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160515014113id_/http%3A//www.1byone.com/Privacy-Policy-a-59) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <title>Privacy Policy</title>
+        <meta name="Description" content="">
+        <meta name="Keywords" content="">        
+        <meta content="index,follow" name="robots">
+        <link rel="shortcut icon" href="http://www.1byone.com/themes/1byone/public/images/domain/1byone/favicon.ico">
+<link rel="icon" href="http://www.1byone.com/themes/1byone/public/images/domain/1byone/favicon.ico" type="image/gif">
+<link rel="stylesheet" type="text/css" href="/themes/1byone/public/css/font-awesome.css" media="all">
+<link rel="stylesheet" type="text/css" href="/themes/1byone/public/css/bootstrap.css" media="all">
+<link rel="stylesheet" type="text/css" href="/themes/1byone/public/css/main.css" media="all">
+<link rel="stylesheet" type="text/css" href="/themes/1byone/public/css/media.css" media="all">
+<link rel="stylesheet" type="text/css" href="/themes/1byone/public/css/font.css" media="all">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/themes/1byone/public/jscript/jquery-1.11.1.min.js"></script>
+<script src="/themes/1byone/public/jscript/bootstrap.js"></script>
+<script src="/themes/1byone/public/jscript/main.js"></script>
+    </head>
+
+    <body>
+        <div class="page">
+
+            <div class="header-container"><header id="header">
+        <div class="banner">
+            <div class="container">
+                <div class="row">
+                </div>
+            </div>
+        </div>
+        <div class="nav top_nav">
+            <div class="container">
+                <div class="row">
+                    <nav class="clearfix">
+                        <ul id="header_links">
+                            <li id="header_link_contact">
+                                <a href="http://www.1byone.com" title="United States"><img src="http://www.1byone.com/themes/1byone/public/images/us.jpg"> </a>
+                            </li>	
+                            <li id="header_link_contact">
+                                <a href="http://www.1byone.co.uk" title="United Kingdom"><img src="http://www.1byone.com/themes/1byone/public/images/uk.jpg"> </a>
+                            </li>	
+                        </ul>
+                       
+                            <div id="topnews">Free Shipping For Order Over 19.9 USD</div>
+							
+                            <div id="header-login" class="member_info">
+                                  <div class="current header_user_info"><a href="#" onclick="return false;"><span>Sign in</span></a></div>
+     
+                            <ul id="header-login-content" class="toogle_content" style="display: none;">
+                                <li>
+                                    
+                                    <div id="create_header_account_error" class="alert alert-danger" style="display:none;"></div>
+                                    <div class="form_content clearfix">
+                                        <form id="ajaxlogin" action="/user/signin" method="post">
+                                        <div class="form-group form-error">
+                                            
+                                                            
+                                            <label for="email">Email address</label>
+                                            <input class="is_required validate account_input form-control" data-validate="isEmail" type="text" id="email" name="email" placeholder="E-mail" value="">
+                                             
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="passwd">Password</label>
+                                            <span><input class="is_required validate account_input form-control" type="password" data-validate="isPasswd" id="header-passwd" name="password" placeholder="Password" value="" autocomplete="off"></span>
+                                        </div>
+                                        <p class="submit">
+                                            <button type="submit" id="HeaderSubmitLogin" name="HeaderSubmitLogin" class="btn btn-default btn-sm wind-ajaxlogin-button" title="sign in">
+                                                <i class="fa fa-lock "></i> 
+                                                <span>Sign in</span>
+                                            </button>
+                                        </p>
+                                        
+                                        <p>
+                                            <a href="/user/login" class="create" title="Create an account">
+                                                <span>Create an account</span>
+                                            </a>
+                                        </p>
+                                        </form>
+										<!--
+                                        <div class="clearfix">
+                                            <a class="btn btn-default btn-sm btn-login-facebook" href="/" title="Login with Your Facebook Account">
+                                                <span>Facebook Login</span>
+                                            </a>
+                                            <a class="btn btn-default btn-sm btn-login-google" href="/" title="Login with Your Google Account">
+                                                <span>Google Login</span>
+                                            </a>
+                                        </div>
+										-->
+                                    </div>
+
+                                </li>
+                            </ul>
+ 
+      
+<script type="text/javascript" src="http://www.1byone.com/themes/1byone/public/jscript/jquery.validate.min.js"></script>
+     <script type="text/javascript">
+         $(function(){
+ 
+           
+           $('.wind-ajaxlogin-button').click(function(){
+          
+                 $("#ajaxlogin").validate({
+                    errorElement: "div",
+                    errorClass:"wind-ajaxlogin-error",
+                    onkeyup: false,
+                    errorPlacement: function(error, element) {element.closest("div").append(error);},
+                    rules: {
+                    email: {required: true,email: true,rangelength: [6, 40]},
+                    password: {required: true, rangelength: [6, 20]}
+                    },
+                    messages: {
+                    email: {required: "Email", email: "Email is blank", rangelength: "Please enter a valid email address." },
+                    password: {required: "Please enter password.",rangelength: "- Password can't less than 6 characters." }
+                    },
+                            submitHandler: function(form) {  //通过之后回调
+     var param = $("#ajaxlogin").serialize();
+     $.ajax({
+url : "/user/signin",
+type : "post",
+dataType : "json",
+data: param,
+success : function(result) {
+ if(result.error==1)
+ {
+     $('#create_header_account_error').html(result.content).show();
+ }
+ else
+ {
+     $('.member_info').html(result.html);
+ }
+}
+     });
+         },
+         invalidHandler: function(form, validator) {  //不通过回调
+       return false;
+          }
+                    });
+    
+          });
+ 
+    
+          })
+     </script>
+
+ 
+
+
+                            
+                        </div>
+                            <div id="topsearch" class="clearfix">
+                            <form id="topsearchbox" action="/search/index" method="get" onsubmit="return checkSearchForm()">
+                                <input class="top_search_query form-control ac_input" type="text" id="top_search_query" name="keywords" placeholder="Search" value="" autocomplete="off">
+                                <button type="submit" class="btn btn-default button-search">
+                                    <span>Search</span>
+                                </button>
+                            </form>
+                        </div>
+                            
+                    </nav>
+                </div>
+            </div>
+        </div>
+        <div>
+            <div class="container">
+                <div class="row">
+                    <div id="header_logo">
+                        <a href="/" title="Worldwide Free Shipping">
+                            <img class="logo img-responsive" src="http://www.1byone.com/themes/1byone/public/images/logo.png" alt="Worldwide Free Shipping">
+                        </a>
+                    </div>
+                       
+                          <div class="mini_cart shopping_cart"><a href="/cart/index" title="View my shopping cart" rel="nofollow"><b>Cart</b><span class="ajax_cart_quantity">0</span></a> </div>                     
+
+ 
+<script type="text/javascript">
+                        var show_div_text = "Please Update Cart";
+                        var show_div_exit = "Close";
+                        var user_name_empty = "Please enter your username!";
+                        var email_address_empty = "Please enter your email address!";
+                        var email_address_error = "Please enter a valid email address!";
+                        var new_password_empty = "Please enter a new password!";
+                        var confirm_password_empty = "Re-enter the password!";
+                        var both_password_error = "The two passwords you entered did not match. Please type it again!";
+                        function changenum(rec_id, diff)
+            {
+            var goods_number = Number($('#mini_goods_number_' + rec_id).val()) + Number(diff);
+            if (goods_number <= 0) {
+            var msg = 'Wrong goods number';
+            alert(msg);
+            return false;
+            }
+            change_goods_number(rec_id, goods_number);
+            }
+            function change_goods_number(rec_id, goods_number)
+            {
+            $.ajax({
+            type: "POST",
+            dataType: 'JSON',
+            url: '/cart/ajax_update_cart',
+            data: 'rec_id=' + rec_id + '&goods_number=' + goods_number,
+            success: change_goods_number_response
+            });    
+                 
+            }
+            function change_goods_number_response(result)
+            {
+                           
+                            if (result.error == 0)
+                            {
+                                var rec_id = result.rec_id;
+                                $('#goods_number_' + rec_id).val(result.goods_number);//更新数量
+                                $('#mini_goods_number_' + rec_id).val(result.goods_number);//更新数量
+            $('#goods_number_box_' + rec_id).html(result.goods_number);//更新数量                                
+                                $('#goods_subtotal_' + rec_id).html(result.goods_subtotal);//更新小计
+                                $('#mini_goods_subtotal_' + rec_id).html(result.goods_subtotal);//更新小计
+                                if (result.goods_number <= 0)
+                                { // 数量为零则隐藏所在行
+                                    $('#tr_goods_' + rec_id).hide();
+                                    $('#tr_goods_' + rec_id).html('');
+                                }
+            $('.total_desc').html(result.shopping_money);//更新合计
+                $('#total_discount').html(result.total_desc);//更新合计                 
+                                if ($('#total_num'))
+                                { //更新购物车数量
+            $('.cart_count').html(result.real_goods_count);
+                                   $('#total_num').html(result.real_goods_count);
+                                }
+            $('.car_nume').html(result.real_goods_count);
+                            }
+                            else if (result.message != '')
+                            {
+                                alert(result.message);
+                            }                
+                        }
+            function go_checkout()
+            {
+            $.post("/checkout/index",{ajax:1}, function(result) {
+            if (parseInt(result) == '1')
+            {
+            //location.href = '/user/login';
+            openLoginDiv();
+            }
+            else if (parseInt(result) == '2')
+            {
+            location.href = '/checkout/consignee';
+            }
+            else
+            {
+            // $(".shopcar_detail_info").html(result).show();
+            location.href = '/checkout/index';
+            }
+
+            });
+            }
+</script>
+                  
+                    <div class="layer_cart_overlay"></div>
+
+                    <div class="top_menu">
+                        <div class="menu-title">Menu</div>
+                        <ul class="menu clearfix">
+ <li class="">
+ <a href="#">products</a> 
+ <div class="childmenu clearfix" style="display:none;">
+ <div id="megamenu-row-1" class="megamenu-row row megamenu-row-1">
+ <div id="column-1-1" class="megamenu-col megamenu-col-1-1 col-sm-2 ">
+ <ul class="content">
+ <li class="category">
+ <a href="/TV-Accessories">TV Accessories</a> 
+ <ul style="display:none;">
+ <li class="category">
+ <a class="sub_name" href="/Paper-Thin-TV-Antenna">Paper Thin TV Antenna</a> 
+ </li>
+ <li class="category">
+ <a class="sub_name" href="/Outdoor-TV-Antenna">Outdoor TV Antenna</a> 
+ </li>
+ <li class="category">
+ <a class="sub_name" href="/RV-Antenna">RV Antenna</a> 
+ </li>
+ <li class="category">
+ <a class="sub_name" href="/New-Conception-TV-Antenna">New Conception TV Antenna</a> 
+ </li>
+ <li class="category">
+ <a class="sub_name" href="/Amplifier-kit">Amplifier kit</a> 
+ </li>
+ <li class="category">
+ <a class="sub_name" href="/Antenna-Stand">Antenna Stand</a> 
+ </li>
+ <li class="category">
+ <a class="sub_name" href="/Indoor-TV-Antenna">Indoor TV Antenna</a> 
+ </li>
+ </ul>
+ </li>
+ </ul>
+ </div>
+ <div id="column-1-2" class="megamenu-col megamenu-col-1-2 col-sm-2 ">
+ <ul class="content">
+ <li class="category">
+ <a href="/Accessories">Accessories</a> 
+ <ul style="display:none;">
+ <li class="category">
+ <a class="sub_name" href="/Charging-Cables">Charging Cables</a> 
+ </li>
+ <li class="category">
+ <a class="sub_name" href="/Screen-Protectors">Screen Protectors</a> 
+ </li>
+ <li class="category">
+ <a class="sub_name" href="/Phone-Stand">Phone Stand</a> 
+ </li>
+ <li class="category">
+ <a class="sub_name" href="/Wireless-Bluetooth-Keyboard">Wireless Bluetooth Keyboard</a> 
+ </li>
+ <li class="category">
+ <a class="sub_name" href="/Phone-Protection-Case">Phone Protection Case</a> 
+ </li>
+ </ul>
+ </li>
+ </ul>
+ </div>
+ <div id="column-1-3" class="megamenu-col megamenu-col-1-3 col-sm-2 first-in-line-sm">
+ <ul class="content">
+ <li class="category">
+ <a href="/Audio-Sounds">Audio &amp; Sounds</a> 
+ <ul style="display:none;">
+ <li class="category">
+ <a class="sub_name" href="/Wifi-Dongle">Wifi Dongle</a> 
+ </li>
+ <li class="category">
+ <a class="sub_name" href="/Turntable">Turntable</a> 
+ </li>
+ <li class="category">
+ <a class="sub_name" href="/Music-Receiver">MUSIC RECEIVER</a> 
+ </li>
+ <li class="category">
+ <a class="sub_name" href="/Bluetooth-Headset">BLUETOOTH HEADSET</a> 
+ </li>
+ <li class="category">
+ <a class="sub_name" href="/Stereo-Speaker">STEREO SPEAKER</a> 
+ </li>
+ </ul>
+ </li>
+  <li>
+  <a href="/Home-Decoration">Home Decoration</a> 
+ <ul style="display:none;">
+ <li class="category">
+ <a class="sub_name" href="/Scale">Scale</a> 
+ </li>
+ <li class="category">
+ <a class="sub_name" href="/Humidifier">Humidifier</a> 
+ </li>
+ </ul> 
+ 
+  </li>
+ </ul>
+ </div>
+ <div id="column-1-4" class="megamenu-col megamenu-col-1-4 col-sm-2 ">
+ <ul class="content">
+ <li class="category">
+ <a href="/Power">Power</a> 
+ <ul style="display:none;">
+ <li class="category">
+ <a class="sub_name" href="/Car-Charger">Car Charger</a> 
+ </li>
+ <li class="category">
+ <a class="sub_name" href="/iPhone-MFI-Battery-Case">iPhone MFI Battery Case</a> 
+ </li>
+ <li class="category">
+ <a class="sub_name" href="/USB-Hub">USB Hub</a> 
+ </li>
+ <li class="category">
+ <a class="sub_name" href="/Power-Strip">Power Strip</a> 
+ </li>
+ <li class="category">
+ <a class="sub_name" href="/Jump-Starter">Jump Starter</a> 
+ </li>
+ </ul>
+ </li>
+ </ul>
+ </div>
+ <div id="column-1-5" class="megamenu-col megamenu-col-1-5 col-sm-2 ">
+ <ul class="content">
+ <li class="category">
+ <a href="/Stage-Lighting-Effects">Stage Lighting &amp; Effects</a> 
+ <ul style="display:none;">
+ <li class="category">
+ <a class="sub_name" href="/Disco-Party-Light">Disco Party Light</a> 
+ </li>
+ <li class="category">
+ <a class="sub_name" href="/Rotating-Rainbow-Light">Rotating Rainbow Light</a> 
+ </li>
+ <li class="category">
+ <a class="sub_name" href="/Bluetooth-Light">Bluetooth Light</a> 
+ </li>
+ <li class="category">
+ <a class="sub_name" href="/Strip-Strip-Light">String &amp; Strip Light</a> 
+ </li>
+ <li class="category">
+ <a class="sub_name" href="/Fog-Machines">Fog Machines</a> 
+ </li>
+ <li class="category">
+ <a class="sub_name" href="/LED-Par-Light-t-56">LED Par Light</a> 
+ </li>
+ <li class="category">
+ <a class="sub_name" href="/Bubble-Machine-t-55">Bubble Machine</a> 
+ </li>
+ <li class="category">
+ <a class="sub_name" href="/Bluetooth-Plasma-Light">BLuetooth Plasma Light</a> 
+ </li>
+ <li class="category">
+ <a class="sub_name" href="/RGB-Strip-Light">RGB Strip Light</a> 
+ </li>
+ </ul>
+ </li>
+ </ul>
+ </div>
+ <div id="column-1-6" class="megamenu-col megamenu-col-1-6 col-sm-2 ">
+ <ul class="content">
+ <li class="category">
+ <a href="/Home-Security">Home Security</a> 
+ <ul style="display:none;">
+ <li class="category">
+ <a class="sub_name" href="/Wireless-Doorbell">Wireless Doorbell</a> 
+ </li>
+ <li class="category">
+ <a class="sub_name" href="/Video-Door-Phone">Video Door Phone</a> 
+ </li>
+ <li class="category">
+ <a class="sub_name" href="/Alarms">Alarms</a> 
+ </li>
+ <li class="category">
+ <a class="sub_name" href="/Fake-TV">Fake TV</a> 
+ </li>
+ </ul>
+ </li>
+ </ul>
+ </div>
+ </div>
+ </div>
+ </li>
+ <li class="">
+ <a href="/Support">Support</a> 
+ </li>
+ <li class="">
+ <a href="/promotions">Promotions</a> 
+ </li>
+ <li class="">
+ <a href="/contact_us.html">Contact</a> 
+ </li>
+ </ul>                        
+
+                    </div>
+
+
+
+                </div>
+            </div>
+        </div>
+    </header>
+</div>
+<script type="text/javascript">
+               var btn_buy = "";
+                var is_cancel = "Cancel";
+                var is_login = "Sign in";
+                var new_customer = '<a href="/user/login?back_url=L2NoZWNrb3V0L2luZGV4">'+"New Customer"+'?</a>';
+                var select_spe = "Please choose attributes of the goods";
+    
+    function checkSearchForm()
+        {
+            if ($('#top_search_query').val() != '' && $('#top_search_query').val() != 'Search')
+            {
+                return true;
+            }
+            else
+            {
+                alert("Please enter keywords!");
+                return false;
+            }
+        }
+    
+</script> 
+
+
+            <div class="columns-container col2-left-layout">
+                <div class="container" id="columns">
+
+
+                    <div class="breadcrumb clearfix">
+                        <a class="home" href="/"><i class="icon-home"></i><span>Home</span></a> <span>»</span><a href="http://www.1byone.com/support">Service</a>  <span>»</span>Privacy Policy                    </div>
+
+                    <div class="row">
+                        <div class="col-left sidebar col-xs-12 col-sm-3">
+
+                            <div class="customer-care-nav sidebar">
+                                <h4 class="page-header sidebar-nav-toggle" data-target=".customer-care-nav .sidebar-nav-section"><span>Information &amp; News</span>
+                                    <i class="sprite-arrow8-BLK-down"></i></h4>
+                                <div class="sidebar-nav">
+
+                                    <div class="sidebar-nav-section" style="height: auto;">
+                                        <ul class="unstyled">
+                                                                                                                                            <li><a href="http://www.1byone.com/Company--ac-35">Company </a></li>  
+                                                                                                <li class="active"><a href="http://www.1byone.com/support">Service</a></li>  
+                                                                                                <li><a href="http://www.1byone.com/News">News</a></li>  
+                                                                                                <li><a href="http://www.1byone.com/Promotions-ac-37">Promotions</a></li>  
+                                                                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+                        </div>
+                        <div class="col-main col-xs-12 col-sm-9">
+                            <div class="news_detail">
+
+                                <h1>Privacy Policy </h1>
+                                <p class="MsoNormal" align="left">
+	What information do we collect?
+</p>
+<p class="MsoNormal" align="left">
+	We collect information from you when you
+register on our site, place an order or subscribe to our newsletter.
+</p>
+<p class="MsoNormal" align="left">
+	When ordering or registering on our site,
+as appropriate, you may be asked to enter your: name, e-mail address, mailing
+address or phone number. You may, however, visit our site anonymously.
+</p>
+<p class="MsoNormal" align="left">
+	What do we use your information for?
+</p>
+<p class="MsoNormal" align="left">
+	Any of the information we collect from you
+may be used in one of the following ways:
+</p>
+<p class="MsoNormal" align="left">
+	<br>
+</p>
+<p class="MsoNormal" align="left">
+	To personalize your experience
+</p>
+<p class="MsoNormal" align="left">
+	(your information helps us to better
+respond to your individual needs)
+</p>
+<p class="MsoNormal" align="left">
+	<br>
+</p>
+<p class="MsoNormal" align="left">
+	<span style="line-height:1.5;">To process transactions</span> 
+</p>
+<p class="MsoNormal" align="left">
+	Your information, whether public or
+private, will not be sold, exchanged, transferred, or given to any other
+company for any reason whatsoever, without your consent, other than for the
+express purpose of delivering the purchased product or service requested.
+</p>
+<p class="MsoNormal" align="left">
+	<br>
+</p>
+<p class="MsoNormal" align="left">
+	To send periodic emails
+</p>
+<p class="MsoNormal" align="left">
+	The email address you provide for order
+processing, may be used to send you information and updates pertaining to your
+order, in addition to receiving occasional company news, updates, related
+product or service information, etc.
+</p>
+<p class="MsoNormal" align="left">
+	Note: If at any time you would like to
+unsubscribe from receiving future emails, we include detailed unsubscribe
+instructions at the bottom of each email.
+</p>
+<p class="MsoNormal" align="left">
+	How do we protect your information?
+</p>
+<p class="MsoNormal" align="left">
+	We implement a variety of security measures
+to maintain the safety of your personal information when you place an order or
+enter, submit, or access your personal information.
+</p>
+<p class="MsoNormal" align="left">
+	We offer the use of a secure server. All
+supplied sensitive/credit information is transmitted via Secure Socket Layer
+(SSL) technology and then encrypted into our Payment gateway providers database
+only to be accessible by those authorized with special access rights to such
+systems, and are required to?keep the information confidential.
+</p>
+<p class="MsoNormal" align="left">
+	After a transaction, your private
+information (credit cards, social security numbers, financials, etc.) will not
+be stored on our servers.
+</p>
+<p class="MsoNormal" align="left">
+	Do we use cookies?
+</p>
+<p class="MsoNormal" align="left">
+	Yes (Cookies are small files that a site or
+its service provider transfers to your computers hard drive through your Web
+browser (if you allow) that enables the sites or service providers systems to
+recognize your browser and capture and remember certain information
+</p>
+<p class="MsoNormal" align="left">
+	We use cookies to help us remember and
+process the items in your shopping cart, understand and save your preferences
+for future visits, keep track of advertisements and compile aggregate data
+about site traffic and site interaction so that we can offer better site
+experiences and tools in the future.
+</p>
+<p class="MsoNormal" align="left">
+	Do we disclose any information to outside
+parties?
+</p>
+<p class="MsoNormal" align="left">
+	We do not sell, trade, or otherwise
+transfer to outside parties your personally identifiable information. This does
+not include trusted third parties who assist us in operating our website,
+conducting our business, or servicing you, so long as those parties agree to
+keep this information confidential. We may also release your information when
+we believe release is appropriate to comply with the law, enforce our site
+policies, or protect ours or others rights, property, or safety. However,
+non-personally identifiable visitor information may be provided to other
+parties for marketing, advertising, or other uses.
+</p>
+<p class="MsoNormal" align="left">
+	Third party links
+</p>
+<p class="MsoNormal" align="left">
+	Occasionally, at our discretion, we may
+include or offer third party products or services on our website. These third
+party sites have separate and independent privacy policies. We therefore have
+no responsibility or liability for the content and activities of these linked
+sites. Nonetheless, we seek to protect the integrity of our site and welcome
+any feedback about these sites.
+</p>
+<p class="MsoNormal" align="left">
+	California Online Privacy Protection Act
+Compliance
+</p>
+<p class="MsoNormal" align="left">
+	Because we value your privacy we have taken
+the necessary precautions to be in compliance with the California Online
+Privacy Protection Act. We therefore will not distribute your personal
+information to outside parties without your consent.
+</p>
+<p class="MsoNormal" align="left">
+	As part of the California Online Privacy
+Protection Act, all users of our site may make any changes to their information
+at anytime by logging into their control panel and going to the 'Edit Profile'
+page.
+</p>
+<p class="MsoNormal" align="left">
+	Childrens Online Privacy Protection Act
+Compliance
+</p>
+<p class="MsoNormal" align="left">
+	We are in compliance with the requirements
+of COPPA (Childrens Online Privacy Protection Act), we do not collect any
+information from anyone under 13 years of age. Our website, products and
+services are all directed to people who are at least 13 years old or older.
+</p>
+<p class="MsoNormal" align="left">
+	Online Privacy Policy Only
+</p>
+<p class="MsoNormal" align="left">
+	This online privacy policy applies only to
+information collected through our website and not to information collected
+offline.
+</p>
+<p class="MsoNormal" align="left">
+	Terms and Conditions
+</p>
+<p class="MsoNormal" align="left">
+	Please also visit our Terms and Conditions
+section establishing the use, disclaimers, and limitations of liability
+governing the use of our website at www.1byone.com
+</p>
+<p class="MsoNormal" align="left">
+	Your Consent
+</p>
+<p class="MsoNormal" align="left">
+	By using our site, you consent to our web
+site privacy policy.
+</p>
+<p class="MsoNormal" align="left">
+	Changes to our Privacy Policy
+</p>
+<p class="MsoNormal" align="left">
+	If we decide to change our privacy policy,
+we will update the Privacy Policy modification date below.
+</p>
+<p class="MsoNormal" align="left">
+	This policy was last modified on 9/15/2015
+</p>
+<p class="MsoNormal" align="left">
+	Contacting Us
+</p>
+<p class="MsoNormal" align="left">
+	If there are any questions regarding this
+privacy policy you may contact us using the information below.
+</p>
+<p class="MsoNormal">
+	<span> </span> 
+</p>
+<p class="MsoNormal">
+	<span><a href="http://www.1byone.com">www.1byone.com</a></span> 
+</p>
+<p class="MsoNormal">
+	<span><a href="mailto:service@1byone.com">service@1byone.com</a></span> 
+</p>
+<p class="MsoNormal">
+	<span>(001) 909 391 3888</span> 
+</p>                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+
+            <div class="footer-container clearfix">
+    <footer id="footer" class="container">
+        <div class="row">
+ 
+<div class="col-xs-12">
+<div class="footer">
+<p id="back-top" style="display: block;"><a href="#top"><span></span></a> </p>
+<div class="footer-cols-wrapper">
+
+<div class="footer-col footer-col-ex">
+ <h4>
+ Company Info
+ </h4>
+ <div class="footer-col-content">
+ <ul>
+ <li>
+ <a href="/1byone">About Us</a> 
+ </li>
+ <li>
+ <a href="/contact_us.html">Contact Us</a> 
+ </li>
+ <li>
+ <a href="/wholesale">Wholesale</a> 
+ </li>
+ <li>
+ <a href="/News">News</a> 
+ </li>
+ <li>
+ <a href="/promotions">Promotions</a> 
+ </li>
+ <li>
+ <a href="/1byoneen-sitemap.xml">Sitemap</a> 
+ </li>
+ </ul>
+ </div>
+ </div>
+ <div class="footer-col footer-col-ex">
+ <h4>
+ Customer Support
+ </h4>
+ <div class="footer-col-content">
+ <ul>
+ <li>
+ <a href="/Support">Support</a> 
+ </li>
+ <li>
+ <a href="/faq">FAQ</a> 
+ </li>
+ <li>
+ <a href="/services">Services</a> 
+ </li>
+ <li>
+ <a href="/Terms-and-Conditions-a-60">Terms and Conditions</a> 
+ </li>
+ <li>
+ <a href="/Privacy-Policy-a-59">Privacy Policy</a> 
+ </li>
+ </ul>
+ </div>
+ </div>
+ <div class="footer-col footer-col-ex">
+ <h4>
+ <span>Site info</span> 
+ </h4>
+ <div class="footer-col-content">
+ <div class="feature feature-icon-hover indent first">
+ <span class="ib ic ic-pin ic-lg"></span> 
+ <p class="no-margin ">
+ 2313E,Philadelphia Street,<br>
+ Unit M,Ontario,CA 91761
+ </p>
+ </div>
+ <div class="feature feature-icon-hover indent">
+ <span class="ib ic ic-letter ic-lg"></span> 
+ <p class="no-margin ">
+ <a href="mailto:service@1byone.com">service@1byone.com</a> 
+ </p>
+ </div>
+ </div>
+ <div class="clear">
+ </div>
+ </div><div class="footer-col footer-col-ex last">
+<h4>Find Us On</h4>
+<div class="  block-subscribe">
+<section id="social_block">
+                <ul>
+					<li><a class="fa fa-facebook facebook" style="font-size: 18px; " target="_blank" href="https://www.facebook.com/1byone/" rel="nofollow"></a></li>
+					<li><a class="fa fa-twitter twitter" style="font-size: 18px; " target="_blank" href="https://twitter.com/Ash79994385" rel="nofollow"></a></li>
+					<li><a class="fa fa-instagram instagram" style="font-size: 18px; " target="_blank" href="https://www.instagram.com/1byone_official/" rel="nofollow"></a></li>
+					<li><a class="fa fa-google-plus googleplus" style="font-size: 18px; " target="_blank" href="https://www.pinterest.com/oneby1/" rel="nofollow"></a></li>
+					<li><a class="fa fa- fa-pinterest pinterest" style="font-size: 18px; " target="_blank" href="https://www.pinterest.com/oneby1/" rel="nofollow"></a></li>
+					<li><a class="fa fa- fa-youtube youtube" style="font-size: 18px; " target="_blank" href="https://www.youtube.com/user/1BYONEDOORBELLS" rel="nofollow"></a></li>
+					<li><a class="fa fa- fa-tumblr tumblr" style="font-size: 18px; " target="_blank" href="http://1byone88.tumblr.com/" rel="nofollow"></a></li>
+                </ul>
+                <h4>Follow us</h4>
+            </section>
+        <div class="clear"></div>
+ 
+<div class="newsletter-wrapper">
+<div class="input-box">
+<input type="text" name="email" id="email" title="Sign up for our newsletter" class="input-text required-entry validate-email form-control">
+</div>
+<div class="actions">
+<button type="submit" title="Subscribe" class="button" onclick="add_email_list();"><span><span>Subscribe</span></span></button>
+</div>
+</div>
+</div>
+</div>
+ 
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+ 
+<div class="bottom-footer col-xs-12">
+                <div style="line-height:40px;">
+                    Copyright © 2015 1byone.com All right reserved  <img src="http://www.1byone.com/themes/1byone/public/images/paypal_payment.jpg" class="col-sm-pull-5">
+                </div>
+				
+            </div>
+            
+            <div class="clearfix"></div>
+
+        </div>
+    </footer>
+</div>
+ 
+<script type="text/javascript">
+    var email = document.getElementById('email');
+    function add_email_list()
+    {
+        if (check_email())
+        {
+            $.ajax({
+                type: "get",
+                url: '/user/email_list?job=add&email=' + email.value,
+                success: rep_add_email_list
+            });
+        }
+    }
+    function rep_add_email_list(text)
+    {
+        alert(text);
+    }
+    function cancel_email_list()
+    {
+        if (check_email())
+        {
+            $.ajax({
+                type: "get",
+                url: '/user/email_list?job=del&email=' + email.value,
+                success: rep_cancel_email_list
+            });
+
+        }
+    }
+    function rep_cancel_email_list(text)
+    {
+        alert(text);
+    }
+    function check_email()
+    {
+        if (Utils.isEmail(email.value))
+        {
+            return true;
+        }
+        else
+        {
+            alert('Email is invalid!');
+            return false;
+        }
+    }
+</script>
+
+         </div>
+        <script>
+ (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ 
+ ga('create', 'UA-67067879-1', 'auto');
+ ga('send', 'pageview');
+ 
+ </script>
+</body></html>
