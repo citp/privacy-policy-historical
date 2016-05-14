@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spencersonline.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905174807id_/http%3A//www.spencersonline.com/content.jsp%3FpageName%3DSecPriv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spencersonline.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514060121id_/http%3A//www.spencersonline.com/content.jsp%3FpageName%3DSecPriv) for the most accurate reproduction.*
 
 # Company Information > About > Security & Privacy - Spencer's
 
