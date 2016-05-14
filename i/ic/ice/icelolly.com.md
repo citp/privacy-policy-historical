@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the icelolly.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921042338id_/http%3A//www.icelolly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icelolly.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514073412id_/https%3A//www.icelolly.com/privacy-policy) for the most accurate reproduction.*
 
-# Cheap Holidays | Cheap Holiday Deals | Low Cost Holidays | icelolly
+# Privacy Policy | icelolly.com
 
 Icelolly Marketing Limited ("We") are committed to protecting and respecting your privacy.
 
@@ -81,4 +81,4 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 **Contact**
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to 1st Floor, Park Row House, Park Row, Leeds. LS1 5JF. 
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to 1st Floor, Park Row House, Park Row, Leeds. LS1 5JF.
