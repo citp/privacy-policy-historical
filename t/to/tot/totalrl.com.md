@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the totalrl.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905052552id_/http%3A//www.totalrl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalrl.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514104922id_/http%3A//www.totalrl.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Rugby League News, Features & Discussion
+# Privacy Policy | Latest News. Match Results. What the fans are predicting. Everything you need to know about what's happening in Rugby League today. Take a look here!
 
 Please take a moment to read this privacy policy carefully as it provides information about League Publications Ltd’s (“LPL”) information, collection, use and handling practices. If you have any questions whatsoever, please do not hesitate to contact us using the information in the section below entitled “Contact Information”.
 
