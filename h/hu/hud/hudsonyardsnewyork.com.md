@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hudsonyardsnewyork.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016175801id_/http%3A//www.hudsonyardsnewyork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hudsonyardsnewyork.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514125350id_/http%3A//www.hudsonyardsnewyork.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hudson Yards
 
