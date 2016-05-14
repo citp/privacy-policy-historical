@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightthenight.org privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207134203id_/http%3A//www.lightthenight.org/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightthenight.org privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514073420id_/http%3A//www.lightthenight.org/footer/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -74,8 +74,8 @@ To be removed from our direct mail or telemarketing lists, fill out our [Contact
 Nancy Hallberg  
 Chief Marketing Officer   
 The Leukemia & Lymphoma Society  
-1311 Mamaroneck Ave.  
-White Plains, NY 10605 
+3 International Drive, Suite 200  
+Rye Brook, NY 10573
 
 **Additional Information**  
 This privacy policy is personal between you and us, and no one else shall be deemed a third party beneficiary of this policy.
@@ -87,5 +87,5 @@ LLS reserves the right to change this policy at any time. Since any changes will
 Nancy Hallberg  
 Chief Marketing Officer   
 The Leukemia & Lymphoma Society  
-1311 Mamaroneck Ave.  
-White Plains, NY 10605 
+3 International Drive, Suite 200  
+Rye Brook, NY 10573
