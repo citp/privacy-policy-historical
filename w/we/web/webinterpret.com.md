@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webinterpret.com privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112002837id_/http%3A//pages.webinterpret.com/rs/658-RPA-926/images/privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webinterpret.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514035435id_/http%3A//pages.webinterpret.com/rs/658-RPA-926/images/privacy-policy.pdf) for the most accurate reproduction.*
 
 # Personal Identifiers.
 
