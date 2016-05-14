@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wemakescholars.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208032221id_/http%3A//wemakescholars.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wemakescholars.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515005405id_/http%3A//www.wemakescholars.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Best Scholarship and Internship Opportunities available globally | WeMakeScholars
+# Best Scholarship and Internship Opportunities available globally | WMS
 
 We recognize that your privacy is very important and will take it seriously. Hence, we strive to provide a safe, secure user experience. This Privacy Policy describes WeMakeScholars.com’s policies and procedures on the collection, use and disclosure of your information. The terms "we", "us", "our", and "WeMakeScholars" refer to WeMakeScholars Inc., incorporated in India. The terms “Site”, “this website” refers to “wemakescholars.com”.
 
