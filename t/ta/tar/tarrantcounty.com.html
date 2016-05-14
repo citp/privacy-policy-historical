@@ -1,15 +1,16 @@
-<!--The following is the downloaded HTML source of the tarrantcounty.com privacy policy that was archived on 2015-09-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150910204312id_/http%3A//access.tarrantcounty.com/en/county/website-use/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tarrantcounty.com privacy policy that was archived on 2016-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160514071608id_/http%3A//access.tarrantcounty.com/en/county/website-use/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html><head> 
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <meta name="google-site-verification" content="y6Lj-tOASbIybbkW9ygMahH8Y2VRTuuXn1k2eu7LnNA">
+    
     <title>Privacy Policy</title>
     <link href="/etc/designs/wpsm.css" rel="stylesheet" type="text/css">
 
 
-    <script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=004486372010405959350:w0oef4li_qa"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=004486372010405959350:w0oef4li_qa"></script><script src="//assets.adobedtm.com/43947ac6e89b393b8f67169195084ae6feceff0d/satelliteLib-831db8300ea6b06f84cf007965afcfbe49feda37-staging.js"></script>
     
 
     
@@ -32,6 +33,9 @@
     <script type="text/javascript" src="/etc/designs/wpsm/jquery.min.js"></script>
     
     
+    
+<script src="//assets.adobedtm.com/cc64b4f118558c1d7a958a890407edc6c49c6c52/satelliteLib-6d528d77be3c24f70cd109714f387e20673a5695.js"></script>
+
 </head>
     
 
@@ -39,6 +43,37 @@
 
 
 <body>
+
+    
+
+
+
+ 
+
+
+<script type="text/javascript">
+var digitalData = new Object();
+	digitalData.page = {
+    	pageinfo:{
+            pageName: "Tarrant County:Privacy Policy",
+    	},
+        category:{
+            pageType: "Content Page",
+            department: "Tarrant County",
+            division: "",
+            hier1: "Tarrant County - Home|Tarrant County|Website Use|Privacy Policy"
+        },
+        form:{
+            formName: "",
+            formEvent: "",
+        },
+        search:{
+            onsiteSearchResults: "",
+            onsiteKeywordResults: "",
+
+    	},
+	}
+</script>
 
     <div class="parbase clientcontext"><script type="text/javascript" src="/etc/clientlibs/granite/jquery.min.js"></script>
 <script type="text/javascript" src="/etc/clientlibs/granite/utils.min.js"></script>
@@ -81,14 +116,14 @@
 			<!-- mobile nav button -->
 			<span id="wpsm-showNavButton" data-toggle="collapse" data-target="#wpsm-superMenu,#wpsm-topNavMobile" class="navbar-toggle collapsed"></span>
 
-			<!-- mobile search button -->
+			<!-- mobile search button --> 
 			<span id="wpsm-showSearchButton" data-toggle="collapse" data-target="#wpsm-mobileSearch" class="navbar-toggle collapsed"></span>
 				
 			<!-- desktop search form -->
-<!--
+
 			<div id="wpsm-searchForm" class="hidden-xs">
 		    
-			<form class="navbar-form" role="search" action=".html">
+			<form class="navbar-form" role="search" action="/en/search.html">
 					<div class="input-group">
 						<input type="text" class="form-control" placeholder="Search" name="q" id="wpsm-searchInput">
 						<div class="input-group-btn">
@@ -97,8 +132,8 @@
 					</div>      
 				</form>
 			</div>
--->
-			<div id="wpsm-searchForm" class="hidden-xs">
+
+			<!--<div id="wpsm-searchForm" class="hidden-xs">
 		       <div class="parbase minisearch-google">
 
 
@@ -161,7 +196,7 @@
 
 </style></div>
 
-			</div>
+			</div>-->
 
 			<!-- alerts component -->
             <div id="wpsm-alertArea"></div>
@@ -187,6 +222,10 @@
 						<span class="wpsm-topHeaderLinkBorder"></span>
                 		<a href="/en/county/website-use/accessible-menu.html">Accessible Menu</a>
                 	
+                		
+						<span class="wpsm-topHeaderLinkBorder"></span>
+                		
+                	
                 
 			</div>
 		</div>
@@ -202,11 +241,13 @@
 
 <div id="wpsm-alerts" style="display:none">
 		<div class="container">
-            <div class="wpsm-alertsArea"> 
+            <h3 class="hidetext">Rotating Alert Area</h3>
+                <div class="wpsm-alertsArea"> 
+                </div>
 
-			</div>
-		<div class="wpsm-notificationArrowLeft"></div>
-        <div class="wpsm-notificationArrowRight"></div>
+            <a href="#" class="wpsm-notificationArrowLeft" role="button" aria-label="previous alert"></a>
+        <a href="#" class="wpsm-notificationArrowRight" role="button" aria-label="next alert"></a>
+
 		</div>
 </div>
 
@@ -225,7 +266,7 @@ $(document).ready(function() {
                   var alertText = json[key].alertText;
                   var pageUrl = json[key].pageUrl;
 				  var count = json[key].count;
-                  var alertHtml = '<div class="wpsm-notification"><div class="wpsm-closeAlerts"></div>'; 
+                  var alertHtml = '<div class="wpsm-notification" role="banner" aria-atom="false" aria-label="rotating alert" aria-live="polite"><div class="wpsm-closeAlerts"></div>'; 
                   alertHtml += alertText + '(' + count +') ';
                   alertHtml += '<p' +pageUrl+ '</p>';
                   alertHtml += '</div>';
@@ -237,7 +278,7 @@ $(document).ready(function() {
         //show alerts if we have some
         if(totalCount > 0) {
 	         //init mini alert here
-            $('#wpsm-alertArea').append('<span id="wpsm-alertBell" class="glyphicon glyphicon-bell"></span>' + totalCount + ' Alert(s)');
+            $('#wpsm-alertArea').append('<a href="#" class="alertcounts"><span id="wpsm-alertBell" class="glyphicon glyphicon-bell"></span>' + totalCount + ' Alert(s)' + '<span class="hidetext"> clickable to hide and show the rotating alet banner</span></a>');
 			$('#wpsm-alertArea').show();
 
            var hideAlert = $.cookie('wpsm-close-alert');
@@ -248,6 +289,59 @@ $(document).ready(function() {
     });
 });
 </script>
+
+<style>
+.wpsm-alertsArea
+{
+    font-family: HelveticaNeue-Bold;
+	font-size: 18px;
+	margin: 10px 40px 12px 40px;
+}
+.wpsm-notification
+{
+	padding: 15px 35px;
+}
+.hidetext
+{   
+    position: absolute;
+    left: -9999px;
+}
+.alertcounts 
+{
+    color: white;
+}
+a.alertcounts:hover
+{
+    color: white;
+}
+a.alertcounts:focus
+{
+    outline: 1px dotted #808080;
+    outline-offset: 10px;
+    color: white;
+}
+a.wpsm-notificationArrowLeft:focus
+{
+	outline: 1px dotted #808080;
+}
+a.wpsm-notificationArrowRight:focus
+{
+	outline: 1px dotted #808080;
+}
+ @media (max-width: 767px)
+{
+	.container
+	{
+		max-width: 754px;
+	}
+
+.wpsm-notification
+	{
+		font-family: HelveticaNeue-Bold;
+		font-size: 18px;
+	}
+ }
+</style>
 
 </div>
 
@@ -263,27 +357,22 @@ $(document).ready(function() {
 
 	<!-- MOBILE SEARCH FORM STARTS HERE - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
-<!--
-      <div id="wpsm-mobileSearch">
-		 <div class="container">
-		   
-	          <form id="wpsm-searchForm2" role="search" action=".html">
+	<div id="wpsm-mobileSearch">
+		<div class="container">
+		 
+			<form id="wpsm-searchForm2" role="search" action="/en/search.html">
 				<div class="input-group">
-
 					<input type="text" class="form-control" placeholder="Search" name="q" id="wpsm-searchInput2">
 					<div class="input-group-btn">
 						<button class="btn btn-default" type="submit" id="wpsm-searchButton2"><i class="glyphicon glyphicon-search"></i></button>
 					</div>
 				</div>
-
-
 			</form>
-
 		</div>
 	</div>
--->
 
-	<div id="wpsm-mobileSearch">
+
+	<!-- <div id="wpsm-mobileSearch">
 	       <div class="parbase minisearchMobile-google">
 
 
@@ -337,7 +426,7 @@ $(document).ready(function() {
 </style></div>
 
 	</div>
-
+    -->
     <!-- Super Menu -->
 	<div class="parbase supermenu">
 
@@ -384,27 +473,34 @@ $(document).ready(function() {
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="https://ccrecordse.tarrantcountytx.gov/AssumedNames/SearchEntry.aspx">Assumed Names Search</a><br>
-
+                                                            	
+																 <p onclick="setLinkName('Assumed Names Search');"> <a href="https://ccrecordse.tarrantcounty.com/AssumedNames/SearchEntry.aspx">Assumed Names Search</a><br>
+ </p> 
                                                  	
                                                  		
-                                                            <a href="/en/county-clerk/vital-records/birth-death-records.html">Birth &amp; Death Records</a>
+                                                            	
+																 <p onclick="setLinkName('Birth &amp; Death Records');"> <a href="/en/county-clerk/vital-records/birth-death-records.html">Birth &amp; Death Records</a> </p> 
                                                  	
                                                  		
-                                                            <a href="https://childsupport.tarrantcounty.com/">Child Support Account System</a><br>
-
+                                                            	
+																 <p onclick="setLinkName('Child Support Account System');"> <a href="https://childsupport.tarrantcounty.com/">Child Support Account System</a><br>
+ </p> 
                                                  	
                                                  		
-                                                            <a href="/en/commissioners-court/commissioners-court-agenda-videos.html">Commissioners Court Records</a>
+                                                            	
+																 <p onclick="setLinkName('Commissioners Court Records');"> <a href="/en/commissioners-court/commissioners-court-agenda-videos.html">Commissioners Court Records</a> </p> 
                                                  	
                                                  		
-                                                            <a href="https://odyssey.tarrantcounty.com/default.aspx">Court Records Search</a>
+                                                            	
+																 <p onclick="setLinkName('Court Records Search');"> <a href="/en/county/supermenu-contents/tarrant-county-clerk-records-search.html">Court Records Search</a> </p> 
                                                  	
                                                  		
-                                                            <a href="http://taxoffice.tarrantcounty.com/TaxDeed.htm">Deed History Card Search</a>
+                                                            	
+																 <p onclick="setLinkName('Deed History Card Search');"> <a href="http://taxoffice.tarrantcounty.com/TaxDeed.htm">Deed History Card Search</a> </p> 
                                                  	
                                                  		
-                                                            <a href="https://egov.tarrantcounty.com/web/guest/home">District Clerk Subscriber Access</a>
+                                                            	
+																 <p onclick="setLinkName('District Clerk Subscriber Access');"> <a href="https://egov.tarrantcounty.com/web/guest/home">District Clerk Subscriber Access</a> </p> 
                                                  	
                                                  </div>
              								 
@@ -414,25 +510,32 @@ $(document).ready(function() {
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="/en/district-clerk/e-filing-information.html">e-Filing with District Clerk</a>
+                                                            	
+																 <p onclick="setLinkName('e-Filing with District Clerk');"> <a href="/en/district-clerk/e-filing-information.html">e-Filing with District Clerk</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/human-resources/employment-opportunities/all-applicants.html">e-Recruitment (Jobs)</a>
+                                                            	
+																 <p onclick="setLinkName('e-Recruitment (Jobs)');"> <a href="/en/human-resources/employment-opportunities/all-applicants.html">e-Recruitment (Jobs)</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/sheriff/confinement-bureau/inmate-search.html">Inmate Data Search</a>
+                                                            	
+																 <p onclick="setLinkName('Inmate Data Search');"> <a href="/en/sheriff/confinement-bureau/inmate-search.html">Inmate Data Search</a> </p> 
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/ejury/cwp/view.asp?a=727&amp;q=472629">Jury e-Response</a>
+                                                            	
+																 <p onclick="setLinkName('Jury e-Response');"> <a href="/en/jury-services/about-jury-services/reporting-for-duty/eresponse-online-services.html">Jury e-Response</a> </p> 
                                                  	
                                                  		
-                                                            <a href="http://t10001.eos-intl.net/T10001/OPAC/Index.aspx" target="_blank">Law Library Search</a>
+                                                            	
+																 <p onclick="setLinkName('Law Library Catalog Search');"> <a target="_blank" href="http://t10001.eos-intl.net/T10001/OPAC/Index.aspx">Law Library Catalog Search</a> </p> 
                                                  	
                                                  		
-                                                            <a href="https://ccrecordse.tarrantcountytx.gov/Marriage/SearchEntry.aspx" target="_blank">Marriage Record Browse</a>
+                                                            	
+																 <p onclick="setLinkName('Marriage Record Browse');"> <a target="_blank" href="https://ccrecordse.tarrantcounty.com/Marriage/SearchEntry.aspx">Marriage Record Browse</a> </p> 
                                                  	
                                                  		
-                                                            <a href="https://mepublic.tarrantcounty.com/MEPublic/">Medical Examiner Case Records</a>
+                                                            	
+																 <p onclick="setLinkName('Medical Examiner Case Records');"> <a href="https://mepublic.tarrantcounty.com/MEPublic/">Medical Examiner Case Records</a> </p> 
                                                  	
                                                  </div>
              								 
@@ -442,28 +545,36 @@ $(document).ready(function() {
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="https://rts.texasonline.state.tx.us/NASApp/txdotrts/RegistrationRenewalServlet" target="_blank">Motor Vehicle Registration</a>
+                                                            	
+																 <p onclick="setLinkName('Motor Vehicle Registration');"> <a href="https://rts.texasonline.state.tx.us/NASApp/txdotrts/RegistrationRenewalServlet" target="_blank">Motor Vehicle Registration</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/purchasing/auctions.html">Online Auction</a>
+                                                            	
+																 <p onclick="setLinkName('Online Auction');"> <a href="/en/purchasing/auctions.html">Online Auction</a> </p> 
                                                  	
                                                  		
-                                                            <a href="http://taxoffice.tarrantcounty.com/AccountSearch.asp">Property Account Search</a>
+                                                            	
+																 <p onclick="setLinkName('Property Account Search');"> <a href="http://taxoffice.tarrantcounty.com/AccountSearch.asp">Property Account Search</a> </p> 
                                                  	
                                                  		
-                                                            <a href="https://gisit.tarrantcounty.com/publicmapviewer/">Property Map Search</a>
+                                                            	
+																 <p onclick="setLinkName('Property Map Search');"> <a href="https://gisit.tarrantcounty.com/publicmapviewer/">Property Map Search</a> </p> 
                                                  	
                                                  		
-                                                            <a href="https://etax.tarrantcounty.com/WebUI/ProfileLogin.aspx">Property Tax e-Payment</a>
+                                                            	
+																 <p onclick="setLinkName('Property Tax e-Payment');"> <a href="https://etax.tarrantcounty.com/WebUI/ProfileLogin.aspx">Property Tax e-Payment</a> </p> 
                                                  	
                                                  		
-                                                            <a href="http://taxoffice.tarrantcounty.com/TaxCalculator.asp">Property Tax Estimator</a>
+                                                            	
+																 <p onclick="setLinkName('Property Tax Estimator');"> <a href="http://taxoffice.tarrantcounty.com/TaxCalculator.asp">Property Tax Estimator</a> </p> 
                                                  	
                                                  		
-                                                            <a href="https://tcrecordsonline.com/" target="_blank">Real Estate Search</a>
+                                                            	
+																 <p onclick="setLinkName('Real Estate Search');"> <a href="https://tcrecordsonline.com/" target="_blank">Real Estate Search</a> </p> 
                                                  	
                                                  		
-                                                            <a href="http://taxoffice.tarrantcounty.com/login.asp">Tax Entity Reports</a>
+                                                            	
+																 <p onclick="setLinkName('Tax Entity Reports');"> <a href="http://taxoffice.tarrantcounty.com/login.asp">Tax Entity Reports</a> </p> 
                                                  	
                                                  </div>
              								 
@@ -473,16 +584,20 @@ $(document).ready(function() {
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="https://csc.ntta.org/olcsc/POS_tarrantcounty" target="_blank">Toll Tags Online Access</a>
+                                                            	
+																 <p onclick="setLinkName('Toll Tags Online Access');"> <a href="https://csc.ntta.org/olcsc/POS_tarrantcounty" target="_blank">Toll Tags Online Access</a> </p> 
                                                  	
                                                  		
-                                                            <a href="http://cc.co.tarrant.tx.us/">Traffic Court Public Browse</a>
+                                                            	
+																 <p onclick="setLinkName('Traffic Court Public Browse');"> <a href="http://cc.co.tarrant.tx.us/">Traffic Court Public Browse</a> </p> 
                                                  	
                                                  		
-                                                            <a href="https://tvorspublic.tarrantcounty.com/">Vendor Online Registration</a>
+                                                            	
+																 <p onclick="setLinkName('Vendor Online Registration');"> <a href="https://tvorspublic.tarrantcounty.com/">Vendor Online Registration</a> </p> 
                                                  	
                                                  		
-                                                            <a href="https://gisit.tarrantcounty.com/VoterLookup/">Voter Lookup</a>
+                                                            	
+																 <p onclick="setLinkName('Voter Lookup');"> <a href="https://gisit.tarrantcounty.com/VoterLookup/">Voter Lookup</a> </p> 
                                                  	
                                                  </div>
              								 
@@ -494,11 +609,39 @@ $(document).ready(function() {
 										</div>
 								<div style="clear:both;"></div>
 							</li>
-                                
+                                 
                             
 						</ul>
 					</div>
 				</div>
+
+<script type="text/javascript">
+var globalLinkName = "";
+function setLinkName(linkname) {
+
+    globalLinkName = linkname;
+    superMenuTracking();
+}
+function superMenuTracking(e) {
+   window.addEventListener("click",trackingSupermenu);
+ function trackingSupermenu(e){
+     	var href = e.target.getAttribute("href");
+     	var target = e.target.hasAttribute("target");
+ 		var lname = globalLinkName;
+        if(href){
+            href = href + "?linklocation=supermenu&linkname=" + lname;
+				if(target) {
+                     window.open(href);
+					e.preventDefault();
+             	}else {
+        			location.href = href;
+                 	e.preventDefault();
+					}
+        }
+     window.removeEventListener("click", trackingSupermenu);
+	}
+}
+</script>
 
                        
                     
@@ -534,41 +677,49 @@ $(document).ready(function() {
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="/en/administration.html">Administration</a>
+                                                            	
+																 <p onclick="setLinkName('Administration');"> <a href="/en/administration.html">Administration</a> </p> 
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/e-archives/site/default.asp">Archives</a>
+                                                            	
+																 <p onclick="setLinkName('Archives');"> <a href="/en/tarrant-county-archives.html">Archives</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/auditor.html">Auditor</a>
+                                                            	
+																 <p onclick="setLinkName('Auditor');"> <a href="/en/auditor.html">Auditor</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/budget-risk-mgmt.html">Budget and Risk Management</a><br>
-
+                                                            	
+																 <p onclick="setLinkName('Budget and Risk Management');"> <a href="/en/budget-risk-mgmt.html">Budget and Risk Management</a><br>
+ </p> 
                                                  	
                                                  		
-                                                            <a href="/en/commissioners-court.html">Commissioners Court</a>
+                                                            	
+																 <p onclick="setLinkName('Commissioners Court');"> <a href="/en/commissioners-court.html">Commissioners Court</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/community-development-and-housing-department.html">Community Development &amp; Housing</a>
+                                                            	
+																 <p onclick="setLinkName('Community Development &amp; Housing');"> <a href="/en/community-development-and-housing-department.html">Community Development &amp; Housing</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/community-supervision-corrections.html">Community Supervision &amp; Corrections</a>
+                                                            	
+																 <p onclick="setLinkName('Community Supervision &amp; Corrections');"> <a href="/en/community-supervision-corrections.html">Community Supervision &amp; Corrections</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/constables.html">Constables</a>
+                                                            	
+																 <p onclick="setLinkName('Constables');"> <a href="/en/constables.html">Constables</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/county-clerk.html">County Clerk</a>
+                                                            	
+																 <p onclick="setLinkName('County Clerk');"> <a href="/en/county-clerk.html">County Clerk</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/courts.html">Courts</a>
+                                                            	
+																 <p onclick="setLinkName('Courts');"> <a href="/en/courts.html">Courts</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/criminal-district-attorney.html">Criminal District Attorney</a>
-                                                 	
-                                                 		
-                                                            <a href="/en/district-clerk.html">District Clerk</a>
+                                                            	
+																 <p onclick="setLinkName('Criminal District Attorney');"> <a href="/en/criminal-district-attorney.html">Criminal District Attorney</a> </p> 
                                                  	
                                                  </div>
              								 
@@ -578,42 +729,58 @@ $(document).ready(function() {
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="/en/domestic-relations-office.html">Domestic Relations</a>
+                                                            	
+																 <p onclick="setLinkName('District Clerk');"> <a href="/en/district-clerk.html">District Clerk</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/elections.html">Elections</a>
+                                                            	
+																 <p onclick="setLinkName('Domestic Relations');"> <a href="/en/domestic-relations-office.html">Domestic Relations</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/facilities-management.html">Facilities Management</a>
+                                                            	
+																 <p onclick="setLinkName('Elections');"> <a href="/en/elections.html">Elections</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/fire-marshal.html">Fire Marshal</a>
+                                                            	
+																 <p onclick="setLinkName('Facilities Management');"> <a href="/en/facilities-management.html">Facilities Management</a> </p> 
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/eHistory/site/default.asp">Historical Commission</a><br>
-
+                                                            	
+																 <p onclick="setLinkName('Fire Marshal');"> <a href="/en/fire-marshal.html">Fire Marshal</a> </p> 
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/ehousing/site/default.asp">Housing Assistance</a><br>
-
+                                                            	
+																 <p onclick="setLinkName('Historical Commission');"> <a href="/en/tarrant-county-historical-commission.html">Historical Commission</a><br>
+ </p> 
                                                  	
                                                  		
-                                                            <a href="/en/human-resources.html">Human Resources</a>
+                                                            	
+																 <p onclick="setLinkName('Housing Assistance');"> <a href="/en/housing-assistance-office.html">Housing Assistance</a><br>
+ </p> 
                                                  	
                                                  		
-                                                            <a href="/en/human-services.html">Human Services</a>
+                                                            	
+																 <p onclick="setLinkName('Human Resources');"> <a href="/en/human-resources.html">Human Resources</a> </p> 
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/eTechnology/site/default.asp">Information Technology</a>
+                                                            	
+																 <p onclick="setLinkName('Human Services');"> <a href="/en/human-services.html">Human Services</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/jury-services.html">Jury Services</a>
+                                                            	
+																 <p onclick="setLinkName('Information Technology');"> <a href="/en/information-technology.html">Information Technology</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/justice-of-the-peace-courts.html">Justice of the Peace Courts</a>
+                                                            	
+																 <p onclick="setLinkName('Jury Services');"> <a href="/en/jury-services.html">Jury Services</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/juvenile-services.html">Juvenile Services</a>
+                                                            	
+																 <p onclick="setLinkName('Justice of the Peace Courts');"> <a href="/en/justice-of-the-peace-courts.html">Justice of the Peace Courts</a> </p> 
+                                                 	
+                                                 		
+                                                            	
+																 <p onclick="setLinkName('Juvenile Services');"> <a href="/en/juvenile-services.html">Juvenile Services</a> </p> 
                                                  	
                                                  </div>
              								 
@@ -623,38 +790,48 @@ $(document).ready(function() {
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="/en/law-library.html">Law Library (Dell Dehay)<br>
-</a>
+                                                            	
+																 <p onclick="setLinkName('Law Library (Dell Dehay)');"> <a href="/en/law-library.html">Law Library (Dell Dehay)</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/medical-examiner.html">Medical Examiner</a>
+                                                            	
+																 <p onclick="setLinkName('Medical Examiner');"> <a href="/en/medical-examiner.html">Medical Examiner</a> </p> 
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/epretrial/site/default.asp">Pretrial Services</a>
+                                                            	
+																 <p onclick="setLinkName('Pretrial Services');"> <a href="/en/pretrial-services.html">Pretrial Services</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/public-health.html">Public Health</a>
+                                                            	
+																 <p onclick="setLinkName('Public Health');"> <a href="/en/public-health.html">Public Health</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/purchasing.html">Purchasing</a>
+                                                            	
+																 <p onclick="setLinkName('Purchasing');"> <a href="/en/purchasing.html">Purchasing</a> </p> 
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/tc_resource/site/default.asp">Resource Connection</a>
+                                                            	
+																 <p onclick="setLinkName('Resource Connection');"> <a href="/en/resource-connection.html">Resource Connection</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/sheriff.html">Sheriff</a>
+                                                            	
+																 <p onclick="setLinkName('Sheriff');"> <a href="/en/sheriff.html">Sheriff</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/tax.html">Tax Assessor-Collector</a>
+                                                            	
+																 <p onclick="setLinkName('Tax Assessor-Collector');"> <a href="/en/tax.html">Tax Assessor-Collector</a> </p> 
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/eAgExtension">Texas Agrilife Extension</a>
+                                                            	
+																 <p onclick="setLinkName('Texas Agrilife Extension');"> <a href="/en/texas-agrilife-extension.html">Texas Agrilife Extension</a> </p> 
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/eTransportation/site/default.asp">Transportation</a>
+                                                            	
+																 <p onclick="setLinkName('Transportation');"> <a href="/en/transportation.html">Transportation</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/veteran-services.html">Veteran Services</a>
+                                                            	
+																 <p onclick="setLinkName('Veteran Services');"> <a href="/en/veteran-services.html">Veteran Services</a> </p> 
                                                  	
                                                  </div>
              								 
@@ -682,27 +859,33 @@ $(document).ready(function() {
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="/en/commissioners-court.html">Commissioners Court</a>
+                                                            	
+																 <p onclick="setLinkName('Commissioners Court');"> <a href="/en/commissioners-court.html">Commissioners Court</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/county-judge.html">County Judge - <br>
- Glen Whitley</a>
+                                                            	
+																 <p onclick="setLinkName('Glen Whitley');"> <a href="/en/county-judge.html">County Judge - <br>
+ Glen Whitley</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/commissioner-1.html">Commissioner Precinct 1 - <br>
-Roy Charles Brooks</a>
+                                                            	
+																 <p onclick="setLinkName('Roy Charles Brooks');"> <a href="/en/commissioner-1.html">Commissioner Precinct 1 - <br>
+Roy Charles Brooks</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/commissioner-2.html">Commissioner Precinct 2 - <br>
-Andy Nguyen</a>
+                                                            	
+																 <p onclick="setLinkName('Andy Nguyen');"> <a href="/en/commissioner-2.html">Commissioner Precinct 2 - <br>
+Andy Nguyen</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/commissioner-3.html">Commissioner Precinct 3 - <br>
-Gary Fickes</a>
+                                                            	
+																 <p onclick="setLinkName('Gary Fickes');"> <a href="/en/commissioner-3.html">Commissioner Precinct 3 - <br>
+Gary Fickes</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/commissioner-4.html">Commissioner Precinct 4 - <br>
- J. D. Johnson</a>
+                                                            	
+																 <p onclick="setLinkName('J. D. Johnson');"> <a href="/en/commissioner-4.html">Commissioner Precinct 4 - <br>
+ J. D. Johnson</a> </p> 
                                                  	
                                                  </div>
              								 
@@ -712,13 +895,16 @@ Gary Fickes</a>
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="/en/commissioners-court/court-cable-schedule.html">Cable Court Schedule</a>
+                                                            	
+																 <p onclick="setLinkName('Cable Court Schedule');"> <a href="/en/commissioners-court/court-cable-schedule.html">Cable Court Schedule</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/commissioners-court/commissioners-court-agenda-videos.html">Court Agendas</a>
+                                                            	
+																 <p onclick="setLinkName('Court Agendas');"> <a href="/en/commissioners-court/commissioners-court-agenda-videos.html">Court Agendas</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/commissioners-court/commissioners-court-agenda-videos.html">Live Streaming Broadcast</a>
+                                                            	
+																 <p onclick="setLinkName('Live Streaming Broadcast');"> <a href="/en/commissioners-court/commissioners-court-agenda-videos.html">Live Streaming Broadcast</a> </p> 
                                                  	
                                                  </div>
              								 
@@ -753,24 +939,29 @@ Gary Fickes</a>
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="/en/county-judge.html">County Judge - <br>
- Glen Whitley</a>
+                                                            	
+																 <p onclick="setLinkName('Glen Whitley');"> <a href="/en/county-judge.html">County Judge - <br>
+ Glen Whitley</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/commissioner-1.html">Commissioner Precinct 1 - <br>
- Roy Charles Brooks</a>
+                                                            	
+																 <p onclick="setLinkName('Roy Charles Brooks');"> <a href="/en/commissioner-1.html">Commissioner Precinct 1 - <br>
+ Roy Charles Brooks</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/commissioner-2.html">Commissioner Precinct 2 - <br>
- Andy Nguyen </a>
+                                                            	
+																 <p onclick="setLinkName('Andy Nguyen');"> <a href="/en/commissioner-2.html">Commissioner Precinct 2 - <br>
+ Andy Nguyen </a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/commissioner-3.html">Commissioner Precinct 3 - <br>
- Gary Fickes </a>
+                                                            	
+																 <p onclick="setLinkName('Gary Fickes');"> <a href="/en/commissioner-3.html">Commissioner Precinct 3 - <br>
+ Gary Fickes </a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/commissioner-4.html">Commissioner Precinct 4 -&nbsp; <br>
- J. D. Johnson </a>
+                                                            	
+																 <p onclick="setLinkName('J. D. Johnson');"> <a href="/en/commissioner-4.html">Commissioner Precinct 4 -&nbsp; <br>
+ J. D. Johnson </a> </p> 
                                                  	
                                                  </div>
              								 
@@ -780,25 +971,31 @@ Gary Fickes</a>
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="/en/constables.html">Constables</a>
+                                                            	
+																 <p onclick="setLinkName('Constables');"> <a href="/en/constables.html">Constables</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/county-clerk.html">County Clerk - <br>
- Mary Louise Garcia</a>
+                                                            	
+																 <p onclick="setLinkName('Mary Louise Garcia');"> <a href="/en/county-clerk.html">County Clerk - <br>
+ Mary Louise Garcia</a> </p> 
                                                  	
                                                  		
-                                                            <a target="_blank" href="/en/criminal-district-attorney.html">Criminal District Attorney - <br>
- Sharen Wilson</a>
+                                                            	
+																 <p onclick="setLinkName('Sharen Wilson');"> <a target="_blank" href="/en/criminal-district-attorney.html">Criminal District Attorney - <br>
+ Sharen Wilson</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/district-clerk.html">District Clerk - <br>
- Thomas A. Wilder</a>
+                                                            	
+																 <p onclick="setLinkName('Thomas A. Wilder');"> <a href="/en/district-clerk.html">District Clerk - <br>
+ Thomas A. Wilder</a> </p> 
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/eCourts/cwp/view.asp?a=718&amp;q=483108">Judges (Courts)</a>
+                                                            	
+																 <p onclick="setLinkName('Judges (Courts)');"> <a href="/en/courts.html">Judges (Courts)</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/justice-of-the-peace-courts.html">Justices of the Peace (Courts)</a>
+                                                            	
+																 <p onclick="setLinkName('Justices of the Peace (Courts)');"> <a href="/en/justice-of-the-peace-courts.html">Justices of the Peace (Courts)</a> </p> 
                                                  	
                                                  </div>
              								 
@@ -808,15 +1005,18 @@ Gary Fickes</a>
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="/en/sheriff/sheriff-s-administration/sheriff-s-biography.html">Sheriff - <br>
- Dee B. Anderson</a>
+                                                            	
+																 <p onclick="setLinkName('Dee B. Anderson');"> <a href="/en/sheriff/sheriff-s-administration/sheriff-s-biography.html">Sheriff - <br>
+ Dee B. Anderson</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/tax.html">Tax Assessor-Collector - <br>
- Ronald J. Wright</a>
+                                                            	
+																 <p onclick="setLinkName('Ronald J. Wright');"> <a href="/en/tax.html">Tax Assessor-Collector - <br>
+ Ronald J. Wright</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/county/supermenu-contents/government/elected-county-officials.html">Elected County Officials</a>
+                                                            	
+																 <p onclick="setLinkName('Elected County Officials');"> <a href="/en/county/supermenu-contents/government/elected-county-officials.html">Elected County Officials</a> </p> 
                                                  	
                                                  </div>
              								 
@@ -844,31 +1044,40 @@ Gary Fickes</a>
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="/en/civil-courts.html">Civil Courts</a>
+                                                            	
+																 <p onclick="setLinkName('Civil Courts');"> <a href="/en/civil-courts.html">Civil Courts</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/civil-courts/district-courts/dockets.html">Civil District Courts Dockets</a>
+                                                            	
+																 <p onclick="setLinkName('Civil District Courts Dockets');"> <a href="/en/civil-courts/district-courts/dockets.html">Civil District Courts Dockets</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/courts.html">Courts</a>
+                                                            	
+																 <p onclick="setLinkName('Courts');"> <a href="/en/courts.html">Courts</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/criminal-courts.html">Criminal Courts</a>
+                                                            	
+																 <p onclick="setLinkName('Criminal Courts');"> <a href="/en/criminal-courts.html">Criminal Courts</a> </p> 
                                                  	
                                                  		
-                                                            <a href="http://egov.tarrantcounty.com/web/guest/departments/courts/criminal" target="_blank">Criminal Courts Dockets</a>
+                                                            	
+																 <p onclick="setLinkName('Criminal Courts Dockets');"> <a href="http://egov.tarrantcounty.com/web/guest/departments/courts/criminal" target="_blank">Criminal Courts Dockets</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/family-courts.html">Family Courts</a>
+                                                            	
+																 <p onclick="setLinkName('Family Courts');"> <a href="/en/family-courts.html">Family Courts</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/justice-of-the-peace-courts.html">Justice of the Peace Courts</a>
+                                                            	
+																 <p onclick="setLinkName('Justice of the Peace Courts');"> <a href="/en/justice-of-the-peace-courts.html">Justice of the Peace Courts</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/juvenile-courts.html">Juvenile Court</a>
+                                                            	
+																 <p onclick="setLinkName('Juvenile Court');"> <a href="/en/juvenile-courts.html">Juvenile Court</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/criminal-courts/magistrate-courts.html">Magistrate Courts</a>
+                                                            	
+																 <p onclick="setLinkName('Magistrate Courts');"> <a href="/en/criminal-courts/magistrate-courts.html">Magistrate Courts</a> </p> 
                                                  	
                                                  </div>
              								 
@@ -878,23 +1087,29 @@ Gary Fickes</a>
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="/en/probate-courts.html">Probate Courts</a>
+                                                            	
+																 <p onclick="setLinkName('Probate Courts');"> <a href="/en/probate-courts.html">Probate Courts</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/iv-d-courts.html">IV-D (Child Support) Courts</a>
+                                                            	
+																 <p onclick="setLinkName('IV-D (Child Support) Courts');"> <a href="/en/iv-d-courts.html">IV-D (Child Support) Courts</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/courts/county-courts.html">County Courts</a>
+                                                            	
+																 <p onclick="setLinkName('County Courts');"> <a href="/en/courts/county-courts.html">County Courts</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/courts/district-courts.html">District Courts</a>
+                                                            	
+																 <p onclick="setLinkName('District Courts');"> <a href="/en/courts/district-courts.html">District Courts</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/civil-courts/county-courts.html">Civil County Courts</a>
+                                                            	
+																 <p onclick="setLinkName('Civil County Courts');"> <a href="/en/civil-courts/county-courts.html">Civil County Courts</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/civil-courts/district-courts.html">Civil District Courts</a><br>
-
+                                                            	
+																 <p onclick="setLinkName('Civil District Courts');"> <a href="/en/civil-courts/district-courts.html">Civil District Courts</a><br>
+ </p> 
                                                  	
                                                  </div>
              								 
@@ -929,21 +1144,25 @@ Gary Fickes</a>
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="/en/justice-of-the-peace-courts/justice-1.html">Precinct 1<br>
- Ralph D. Swearingin Jr.</a>
+                                                            	
+																 <p onclick="setLinkName('Ralph D. Swearingin Jr.');"> <a href="/en/justice-of-the-peace-courts/justice-1.html">Precinct 1<br>
+Ralph D. Swearingin Jr.</a> </p> 
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/eJP02">Precinct 2<br>
-Mary Tom Curnutt</a>
+                                                            	
+																 <p onclick="setLinkName('Mary Tom Curnutt');"> <a href="/en/justice-of-the-peace-courts/justice-2.html">Precinct 2<br>
+ Mary Tom Curnutt</a> </p> 
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/eJP03">Precinct 3<br>
-Russell B. Casey</a>
+                                                            	
+																 <p onclick="setLinkName('Russell B. Casey');"> <a href="/en/justice-of-the-peace-courts/justice-3.html">Precinct 3<br>
+ Russell B. Casey</a> </p> 
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/eJP04/site/default.asp">Precinct 4<br>
+                                                            	
+																 <p onclick="setLinkName('Jacquelyn Wright');"> <a href="/en/justice-of-the-peace-courts/justice-4.html">Precinct 4<br>
  Jacquelyn Wright<br>
- </a>
+ </a> </p> 
                                                  	
                                                  </div>
              								 
@@ -953,21 +1172,25 @@ Russell B. Casey</a>
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/eJP05/site/default.asp">Precinct 5<br>
- Sergio Deleon</a>
+                                                            	
+																 <p onclick="setLinkName('Sergio Deleon');"> <a href="/en/justice-of-the-peace-courts/justice-5.html">Precinct 5<br>
+ Sergio Deleon</a> </p> 
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/eJP06/site/default.asp">Precinct 6<br>
- Richard G. Ritchie</a>
+                                                            	
+																 <p onclick="setLinkName('Richard G. Ritchie');"> <a href="/en/justice-of-the-peace-courts/justice-6.html">Precinct 6<br>
+ Richard G. Ritchie</a> </p> 
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/eJP07/site/default.asp">Precinct 7<br>
- Matt Hayes</a>
+                                                            	
+																 <p onclick="setLinkName('Matt Hayes');"> <a href="/en/justice-of-the-peace-courts/justice-7.html">Precinct 7<br>
+ Matt Hayes</a> </p> 
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/eJP08/site/default.asp">Precinct 8<br>
+                                                            	
+																 <p onclick="setLinkName('Lisa R. Woodard');"> <a href="/en/justice-of-the-peace-courts/justice-8.html">Precinct 8<br>
  Lisa R. Woodard</a><br>
-
+ </p> 
                                                  	
                                                  </div>
              								 
@@ -1002,20 +1225,24 @@ Russell B. Casey</a>
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="/en/constables/constable-1.html">Precinct 1<br>
- Harry D. Clark III</a>
+                                                            	
+																 <p onclick="setLinkName('Harry D. Clark III');"> <a href="/en/constables/constable-1.html">Precinct 1<br>
+ Harry D. Clark III</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/constables/constable-2.html">Precinct 2<br>
- John D. Woodruff</a>
+                                                            	
+																 <p onclick="setLinkName('John D. Woodruff');"> <a href="/en/constables/constable-2.html">Precinct 2<br>
+ John D. Woodruff</a> </p> 
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/eConstable3/site/default.asp">Precinct 3<br>
- Darrell Huffman</a>
+                                                            	
+																 <p onclick="setLinkName('Darrell Huffman');"> <a href="/en/constables/constable-3.html">Precinct 3<br>
+ Darrell Huffman</a> </p> 
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/eConstable4/site/default.asp">Precinct 4<br>
- Dub Bransom Jr.</a>
+                                                            	
+																 <p onclick="setLinkName('Dub Bransom Jr.');"> <a href="/en/constables/constable-4.html">Precinct 4<br>
+ Dub Bransom Jr.</a> </p> 
                                                  	
                                                  </div>
              								 
@@ -1025,21 +1252,25 @@ Russell B. Casey</a>
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/eConstable5/site/default.asp">Precinct 5<br>
- Ruben Garcia Jr.</a>
+                                                            	
+																 <p onclick="setLinkName('Ruben Garcia Jr.');"> <a href="/en/constables/constable-5.html">Precinct 5<br>
+ Ruben Garcia Jr.</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/constables/constable-6.html">Precinct 6<br>
- Jon H. Siegel</a>
+                                                            	
+																 <p onclick="setLinkName('Jon H. Siegel');"> <a href="/en/constables/constable-6.html">Precinct 6<br>
+ Jon H. Siegel</a> </p> 
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/eConstable7/site/default.asp">Precinct 7<br>
+                                                            	
+																 <p onclick="setLinkName('Clint Burgess');"> <a href="/en/constables/constable-7.html">Precinct 7<br>
  Clint Burgess<br>
- </a>
+ </a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/constables/constable-8.html">Precinct 8<br>
- Michael R. Campbell</a>
+                                                            	
+																 <p onclick="setLinkName('Michael R. Campbell');"> <a href="/en/constables/constable-8.html">Precinct 8<br>
+ Michael R. Campbell</a> </p> 
                                                  	
                                                  </div>
              								 
@@ -1058,11 +1289,39 @@ Russell B. Casey</a>
 										</div>
 								<div style="clear:both;"></div>
 							</li>
-                                
+                                 
                             
 						</ul>
 					</div>
 				</div>
+
+<script type="text/javascript">
+var globalLinkName = "";
+function setLinkName(linkname) {
+
+    globalLinkName = linkname;
+    superMenuTracking();
+}
+function superMenuTracking(e) {
+   window.addEventListener("click",trackingSupermenu);
+ function trackingSupermenu(e){
+     	var href = e.target.getAttribute("href");
+     	var target = e.target.hasAttribute("target");
+ 		var lname = globalLinkName;
+        if(href){
+            href = href + "?linklocation=supermenu&linkname=" + lname;
+				if(target) {
+                     window.open(href);
+					e.preventDefault();
+             	}else {
+        			location.href = href;
+                 	e.preventDefault();
+					}
+        }
+     window.removeEventListener("click", trackingSupermenu);
+	}
+}
+</script>
 
                        
                     
@@ -1098,25 +1357,32 @@ Russell B. Casey</a>
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="/en/community-supervision-corrections.html">Community Supervision and Corrections</a>
+                                                            	
+																 <p onclick="setLinkName('Community Supervision and Corrections');"> <a href="/en/community-supervision-corrections.html">Community Supervision and Corrections</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/domestic-relations-office/community-supervision-unit.html">Community Supervision Unit</a>
+                                                            	
+																 <p onclick="setLinkName('Community Supervision Unit');"> <a href="/en/domestic-relations-office/community-supervision-unit.html">Community Supervision Unit</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/courts.html">Courts</a>
+                                                            	
+																 <p onclick="setLinkName('Courts');"> <a href="/en/courts.html">Courts</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/domestic-relations-office/child-support.html">Child Support</a>
+                                                            	
+																 <p onclick="setLinkName('Child Support');"> <a href="/en/domestic-relations-office/child-support.html">Child Support</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/domestic-relations-office.html">Domestic Relations</a>
+                                                            	
+																 <p onclick="setLinkName('Domestic Relations');"> <a href="/en/domestic-relations-office.html">Domestic Relations</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/jury-services.html">Jury Services</a>
+                                                            	
+																 <p onclick="setLinkName('Jury Services');"> <a href="/en/jury-services.html">Jury Services</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/justice-of-the-peace-courts.html">Justice of the Peace Courts</a>
+                                                            	
+																 <p onclick="setLinkName('Justice of the Peace Courts');"> <a href="/en/justice-of-the-peace-courts.html">Justice of the Peace Courts</a> </p> 
                                                  	
                                                  </div>
              								 
@@ -1126,10 +1392,12 @@ Russell B. Casey</a>
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="/en/law-library.html">Law Library</a>
+                                                            	
+																 <p onclick="setLinkName('Law Library');"> <a href="/en/law-library.html">Law Library</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/family-courts/information-for-self-represented-litigants.html">Self-Represented Litigants</a>
+                                                            	
+																 <p onclick="setLinkName('Self-Represented Litigants');"> <a href="/en/family-courts/information-for-self-represented-litigants.html">Self-Represented Litigants</a> </p> 
                                                  	
                                                  </div>
              								 
@@ -1164,32 +1432,41 @@ Russell B. Casey</a>
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/esheriff/cwp/view.asp?a=768&amp;q=450565&amp;esheriffNav=%7C">Crime Mapping</a>
+                                                            	
+																 <p onclick="setLinkName('Crime Mapping');"> <a href="/en/sheriff/operations-bureau/criminal-investigations/interactive-crime-mapping.html">Crime Mapping</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/county/supermenu-contents/residents/nixle-emergency-alert-service.html">Emergency Alert Service</a>
+                                                            	
+																 <p onclick="setLinkName('Emergency Alert Service');"> <a href="/en/county/supermenu-contents/residents/nixle-emergency-alert-service.html">Emergency Alert Service</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/administration/staff/county-emergency-management-coordinator.html">Emergency Management</a>
+                                                            	
+																 <p onclick="setLinkName('Emergency Management');"> <a href="/en/administration/staff/county-emergency-management-coordinator.html">Emergency Management</a> </p> 
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/etransportation/cwp/browse.asp?a=751&amp;C=44561&amp;etransportationNav=%7C">Environmental Services</a>
+                                                            	
+																 <p onclick="setLinkName('Environmental Services');"> <a href="/en/transportation/environmental.html">Environmental Services</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/fire-marshal.html">Fire Marshal</a>
+                                                            	
+																 <p onclick="setLinkName('Fire Marshal');"> <a href="/en/fire-marshal.html">Fire Marshal</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/public-health.html">Public Health</a>
+                                                            	
+																 <p onclick="setLinkName('Public Health');"> <a href="/en/public-health.html">Public Health</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/sheriff.html">Sheriff</a>
+                                                            	
+																 <p onclick="setLinkName('Sheriff');"> <a href="/en/sheriff.html">Sheriff</a> </p> 
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/eTransportation/site/default.asp">Transportation</a><br>
-
+                                                            	
+																 <p onclick="setLinkName('Transportation');"> <a href="/en/transportation.html">Transportation</a><br>
+ </p> 
                                                  	
                                                  		
-                                                            <a href="/en/county/services/weather-and-environment.html">Weather and Environment</a>
+                                                            	
+																 <p onclick="setLinkName('Weather and Environment');"> <a href="/en/county/services/weather-and-environment.html">Weather and Environment</a> </p> 
                                                  	
                                                  </div>
              								 
@@ -1224,20 +1501,21 @@ Russell B. Casey</a>
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="/en/elections/campaign-filings.html">Campaign Filings</a>
+                                                            	
+																 <p onclick="setLinkName('Campaign Filings');"> <a href="/en/elections/campaign-filings.html">Campaign Filings</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/elections/education-and-training/Poll-Watcher.html">Poll Watcher</a>
+                                                            	
+																 <p onclick="setLinkName('Poll Watcher');"> <a href="/en/elections/education-and-training/Poll-Watcher.html">Poll Watcher</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/elections/election-archives.html">Results Archive</a>
+                                                            	
+																 <p onclick="setLinkName('Results Archive');"> <a href="/en/elections/election-archives.html">Results Archive</a> </p> 
                                                  	
                                                  		
-                                                            <a href="https://gisit.tarrantcounty.com/VoterLookup/">Voter and Polling Location Lookup</a><br>
-
-                                                 	
-                                                 		
-                                                            <a target="_blank">Informacion para Votantes</a>
+                                                            	
+																 <p onclick="setLinkName('Voter and Polling Location Lookup');"> <a href="https://gisit.tarrantcounty.com/VoterLookup/">Voter and Polling Location Lookup</a><br>
+ </p> 
                                                  	
                                                  </div>
              								 
@@ -1272,25 +1550,32 @@ Russell B. Casey</a>
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="/en/sheriff/operations-bureau/communications-and-technology/alarm-permit.html">Alarm Permits</a>
+                                                            	
+																 <p onclick="setLinkName('Alarm Permits');"> <a href="/en/sheriff/operations-bureau/communications-and-technology/alarm-permit.html">Alarm Permits</a> </p> 
                                                  	
                                                  		
-                                                            <a href="http://taxoffice.tarrantcounty.com/TaxDeed.htm">Deed History Card Search</a>
+                                                            	
+																 <p onclick="setLinkName('Deed History Card Search');"> <a href="http://taxoffice.tarrantcounty.com/TaxDeed.htm">Deed History Card Search</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/county-clerk/administration/foreclosures.html">Foreclosure Sale Notice</a>
+                                                            	
+																 <p onclick="setLinkName('Foreclosure Sale Notice');"> <a href="/en/county-clerk/administration/foreclosures.html">Foreclosure Sale Notice</a> </p> 
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/ecommunitydev/cwp/view.asp?a=720&amp;q=426170&amp;ecommunitydevNav=%7C">Housing Assistance</a>
+                                                            	
+																 <p onclick="setLinkName('Housing Assistance');"> <a href="/en/housing-assistance-office.html">Housing Assistance</a> </p> 
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/etransportation/cwp/browse.asp?a=751&amp;C=44559&amp;etransportationNav=%7C">Land &amp; Building Regulations and Permits</a>
+                                                            	
+																 <p onclick="setLinkName('Subdivision and Land Use Regulations');"> <a href="/en/transportation/planning/subdivision-and-land-use-regulations.html">Subdivision and Land Use Regulations</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/tax/motor-vehicle.html">Motor Vehicle Registration</a>
+                                                            	
+																 <p onclick="setLinkName('Motor Vehicle Registration');"> <a href="/en/tax/motor-vehicle.html">Motor Vehicle Registration</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/tax/property-tax.html">Property Tax</a>
+                                                            	
+																 <p onclick="setLinkName('Property Tax');"> <a href="/en/tax/property-tax.html">Property Tax</a> </p> 
                                                  	
                                                  </div>
              								 
@@ -1300,10 +1585,12 @@ Russell B. Casey</a>
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="https://ccrecordse.tarrantcountytx.gov/RealEstate/SearchEntry.aspx">Real Estate Search</a>
+                                                            	
+																 <p onclick="setLinkName('Real Estate Search');"> <a href="https://ccrecordse.tarrantcounty.com/RealEstate/SearchEntry.aspx">Real Estate Search</a> </p> 
                                                  	
                                                  		
-                                                            <a href="https://www.tad.org/" target="_blank">Tarrant Appraisal District</a>
+                                                            	
+																 <p onclick="setLinkName('Tarrant Appraisal District');"> <a href="https://www.tad.org/" target="_blank">Tarrant Appraisal District</a> </p> 
                                                  	
                                                  </div>
              								 
@@ -1338,26 +1625,33 @@ Russell B. Casey</a>
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="/en/county/supermenu-contents/residents/2-1-1.html">2-1-1</a>
+                                                            	
+																 <p onclick="setLinkName('2-1-1');"> <a href="/en/county/supermenu-contents/residents/2-1-1.html">2-1-1</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/county/services.html">County Services</a>
+                                                            	
+																 <p onclick="setLinkName('County Services');"> <a href="/en/county/services.html">County Services</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/community-development-and-housing-department.html">Community Development &amp; Housing</a>
+                                                            	
+																 <p onclick="setLinkName('Community Development &amp; Housing');"> <a href="/en/community-development-and-housing-department.html">Community Development &amp; Housing</a> </p> 
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/ehumanservices/site/default.asp">Human Services</a>
+                                                            	
+																 <p onclick="setLinkName('Human Services');"> <a href="/en/human-services.html">Human Services</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/county/supermenu-contents/residents/miscellaneous-resources-maintained-by-tarrant-county-law-library.html">Law Library Resources</a>
+                                                            	
+																 <p onclick="setLinkName('Law Library Resources');"> <a href="/en/law-library/online-resources.html">Law Library Resources</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/county/supermenu-contents/residents/metro-safe-room-rebate-program.html">Metro Safe Room Rebate Program</a><br>
-
+                                                            	
+																 <p onclick="setLinkName('Metro Safe Room Rebate Program');"> <a href="/en/county/supermenu-contents/residents/metro-safe-room-rebate-program.html">Metro Safe Room Rebate Program</a><br>
+ </p> 
                                                  	
                                                  		
-                                                            <a href="/en/county-clerk/administration/public-notices.html">Public Notices</a>
+                                                            	
+																 <p onclick="setLinkName('Public Notices');"> <a href="/en/county-clerk/administration/public-notices.html">Public Notices</a> </p> 
                                                  	
                                                  </div>
              								 
@@ -1367,26 +1661,33 @@ Russell B. Casey</a>
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/tc_resource/cwp/view.asp?a=641&amp;q=412114">Resource Connection</a>
+                                                            	
+																 <p onclick="setLinkName('Resource Connection');"> <a href="/en/resource-connection.html">Resource Connection</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/county/supermenu-contents/residents/safe-city-commission.html">Safe City Commission</a><br>
-
+                                                            	
+																 <p onclick="setLinkName('Safe City Commission');"> <a href="/en/county/supermenu-contents/residents/safe-city-commission.html">Safe City Commission</a><br>
+ </p> 
                                                  	
                                                  		
-                                                            <a href="/en/county/supermenu-contents/residents/tarrant-cares.html">Tarrant Cares</a>
+                                                            	
+																 <p onclick="setLinkName('Tarrant Cares');"> <a href="/en/county/supermenu-contents/residents/tarrant-cares.html">Tarrant Cares</a> </p> 
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/eHistory/site/default.asp">Tarrant County Historical Commission</a>
+                                                            	
+																 <p onclick="setLinkName('Tarrant County Historical Commission');"> <a href="/en/tarrant-county-historical-commission.html">Tarrant County Historical Commission</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/county/supermenu-contents/residents/trinity-river-vision.html">Trinity River Vision</a>
+                                                            	
+																 <p onclick="setLinkName('Trinity River Vision');"> <a href="/en/county/supermenu-contents/residents/trinity-river-vision.html">Trinity River Vision</a> </p> 
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/eVeterans/site/default.asp">Veteran Services</a>
+                                                            	
+																 <p onclick="setLinkName('Veteran Services');"> <a href="/en/veteran-services.html">Veteran Services</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/human-resources/volunteer-opportunities.html">Volunteer Opportunities</a>
+                                                            	
+																 <p onclick="setLinkName('Volunteer Opportunities');"> <a href="/en/human-resources/volunteer-opportunities.html">Volunteer Opportunities</a> </p> 
                                                  	
                                                  </div>
              								 
@@ -1414,13 +1715,16 @@ Russell B. Casey</a>
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="/en/county/supermenu-contents/residents/tarrant-county-school-districts.html">School Districts</a>
+                                                            	
+																 <p onclick="setLinkName('School Districts');"> <a href="/en/county/supermenu-contents/residents/tarrant-county-school-districts.html">School Districts</a> </p> 
                                                  	
                                                  		
-                                                            <a href="https://gisit.tarrantcounty.com/publicmapviewer/">School Map and Direction</a>
+                                                            	
+																 <p onclick="setLinkName('School Map and Direction');"> <a href="https://gisit.tarrantcounty.com/publicmapviewer/">School Map and Direction</a> </p> 
                                                  	
                                                  		
-                                                            <a href="https://www.tccd.edu/ " target="_blank">Tarrant County College</a>
+                                                            	
+																 <p onclick="setLinkName('Tarrant County College');"> <a href="https://www.tccd.edu/ " target="_blank">Tarrant County College</a> </p> 
                                                  	
                                                  </div>
              								 
@@ -1432,11 +1736,39 @@ Russell B. Casey</a>
 										</div>
 								<div style="clear:both;"></div>
 							</li>
-                                
+                                 
                             
 						</ul>
 					</div>
 				</div>
+
+<script type="text/javascript">
+var globalLinkName = "";
+function setLinkName(linkname) {
+
+    globalLinkName = linkname;
+    superMenuTracking();
+}
+function superMenuTracking(e) {
+   window.addEventListener("click",trackingSupermenu);
+ function trackingSupermenu(e){
+     	var href = e.target.getAttribute("href");
+     	var target = e.target.hasAttribute("target");
+ 		var lname = globalLinkName;
+        if(href){
+            href = href + "?linklocation=supermenu&linkname=" + lname;
+				if(target) {
+                     window.open(href);
+					e.preventDefault();
+             	}else {
+        			location.href = href;
+                 	e.preventDefault();
+					}
+        }
+     window.removeEventListener("click", trackingSupermenu);
+	}
+}
+</script>
 
                        
                     
@@ -1472,18 +1804,22 @@ Russell B. Casey</a>
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="http://www.experiencearlington.org/" target="_blank">Arlington</a><br>
-
+                                                            	
+																 <p onclick="setLinkName('Arlington');"> <a href="http://www.experiencearlington.org/" target="_blank">Arlington</a><br>
+ </p> 
                                                  	
                                                  		
-                                                            <a target="_blank" href="https://www.fortworth.com/">Fort Worth</a>
+                                                            	
+																 <p onclick="setLinkName('Fort Worth');"> <a target="_blank" href="https://www.fortworth.com/">Fort Worth</a> </p> 
                                                  	
                                                  		
-                                                            <a href="http://www.grapevinetexasusa.com/" target="_blank">Grapevine</a><br>
-
+                                                            	
+																 <p onclick="setLinkName('Grapevine');"> <a href="http://www.grapevinetexasusa.com/" target="_blank">Grapevine</a><br>
+ </p> 
                                                  	
                                                  		
-                                                            <a href="/en/county/about-tarrant/history.html">Tarrant County History</a>
+                                                            	
+																 <p onclick="setLinkName('Tarrant County History');"> <a href="/en/county/about-tarrant/history.html">Tarrant County History</a> </p> 
                                                  	
                                                  </div>
              								 
@@ -1511,10 +1847,12 @@ Russell B. Casey</a>
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="https://gisit.tarrantcounty.com/publicmapviewer/">School Search</a>
+                                                            	
+																 <p onclick="setLinkName('School Search');"> <a href="https://gisit.tarrantcounty.com/publicmapviewer/">School Search</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/county/supermenu-contents/residents/tarrant-county-school-districts.html">Independent School Districts</a>
+                                                            	
+																 <p onclick="setLinkName('Independent School Districts');"> <a href="/en/county/supermenu-contents/residents/tarrant-county-school-districts.html">Independent School Districts</a> </p> 
                                                  	
                                                  </div>
              								 
@@ -1542,7 +1880,8 @@ Russell B. Casey</a>
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="/en/county/about-tarrant/incorporated-areas.html">Incorporated Areas</a>
+                                                            	
+																 <p onclick="setLinkName('Incorporated Areas');"> <a href="/en/county/about-tarrant/incorporated-areas.html">Incorporated Areas</a> </p> 
                                                  	
                                                  </div>
              								 
@@ -1568,11 +1907,39 @@ Russell B. Casey</a>
 										</div>
 								<div style="clear:both;"></div>
 							</li>
-                                
+                                 
                             
 						</ul>
 					</div>
 				</div>
+
+<script type="text/javascript">
+var globalLinkName = "";
+function setLinkName(linkname) {
+
+    globalLinkName = linkname;
+    superMenuTracking();
+}
+function superMenuTracking(e) {
+   window.addEventListener("click",trackingSupermenu);
+ function trackingSupermenu(e){
+     	var href = e.target.getAttribute("href");
+     	var target = e.target.hasAttribute("target");
+ 		var lname = globalLinkName;
+        if(href){
+            href = href + "?linklocation=supermenu&linkname=" + lname;
+				if(target) {
+                     window.open(href);
+					e.preventDefault();
+             	}else {
+        			location.href = href;
+                 	e.preventDefault();
+					}
+        }
+     window.removeEventListener("click", trackingSupermenu);
+	}
+}
+</script>
 
                        
                     
@@ -1608,26 +1975,33 @@ Russell B. Casey</a>
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="/en/sheriff/operations-bureau/communications-and-technology/alarm-permit.html">Alarm Permits</a><br>
-
+                                                            	
+																 <p onclick="setLinkName('Alarm Permits');"> <a href="/en/sheriff/operations-bureau/communications-and-technology/alarm-permit.html">Alarm Permits</a><br>
+ </p> 
                                                  	
                                                  		
-                                                            <a href="/en/tax/alcoholic-beverage-permits.html">Alcoholic Beverage Permits</a>
+                                                            	
+																 <p onclick="setLinkName('Alcoholic Beverage Permits');"> <a href="/en/tax/alcoholic-beverage-permits.html">Alcoholic Beverage Permits</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/purchasing/cooperative-purchasing-information.html">Cooperative Purchasing</a>
+                                                            	
+																 <p onclick="setLinkName('Cooperative Purchasing');"> <a href="/en/purchasing/cooperative-purchasing-information.html">Cooperative Purchasing</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/tax/property-tax/public-auctions.html">Delinquent Tax Sale</a>
+                                                            	
+																 <p onclick="setLinkName('Delinquent Tax Sale');"> <a href="/en/tax/property-tax/public-auctions.html">Delinquent Tax Sale</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/county-clerk/administration/foreclosures.html">Foreclosure Sale Notice</a>
+                                                            	
+																 <p onclick="setLinkName('Foreclosure Sale Notice');"> <a href="/en/county-clerk/administration/foreclosures.html">Foreclosure Sale Notice</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/administration/staff/economic-development-coordinator/incentive-programs.html">Incentive Programs</a>
+                                                            	
+																 <p onclick="setLinkName('Incentive Programs');"> <a href="/en/administration/staff/economic-development-coordinator/incentive-programs.html">Incentive Programs</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/purchasing/hub.html">Historically Underutilized Business</a>
+                                                            	
+																 <p onclick="setLinkName('Historically Underutilized Business');"> <a href="/en/purchasing/hub.html">Historically Underutilized Business</a> </p> 
                                                  	
                                                  </div>
              								 
@@ -1637,19 +2011,24 @@ Russell B. Casey</a>
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/etransportation/cwp/browse.asp?a=751&amp;C=44559&amp;etransportationNav=%7C">Land &amp; Building Regulations and Permits</a>
+                                                            	
+																 <p onclick="setLinkName('Subdivision and Land Use Regulations');"> <a href="/en/transportation/planning/subdivision-and-land-use-regulations.html">Subdivision and Land Use Regulations</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/administration/staff/economic-development-coordinator/financial-status/labor-force-and-economic-base.html">Labor Force and Major Employers</a>
+                                                            	
+																 <p onclick="setLinkName('Labor Force and Major Employers');"> <a href="/en/administration/staff/economic-development-coordinator/financial-status/labor-force-and-economic-base.html">Labor Force and Major Employers</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/county/services/organizations-and-commissions.html">Organizations and Commissions</a>
+                                                            	
+																 <p onclick="setLinkName('Organizations and Commissions');"> <a href="/en/county/services/organizations-and-commissions.html">Organizations and Commissions</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/purchasing/about-us/how-to-do-business.html">How To Do Business - Purchasing</a>
+                                                            	
+																 <p onclick="setLinkName('How To Do Business - Purchasing');"> <a href="/en/purchasing/about-us/how-to-do-business.html">How To Do Business - Purchasing</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/purchasing/bids---rfps/public-works-plan-holders.html">Public Works Plan Holders</a>
+                                                            	
+																 <p onclick="setLinkName('Public Works Plan Holders');"> <a href="/en/purchasing/bids---rfps/public-works-plan-holders.html">Public Works Plan Holders</a> </p> 
                                                  	
                                                  </div>
              								 
@@ -1677,19 +2056,24 @@ Russell B. Casey</a>
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="/en/purchasing/bids---rfps.html">Current Bid List</a>
+                                                            	
+																 <p onclick="setLinkName('Current Bid List');"> <a href="/en/purchasing/bids---rfps.html">Current Bid List</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/purchasing/auctions.html">Online Auction</a>
+                                                            	
+																 <p onclick="setLinkName('Online Auction');"> <a href="/en/purchasing/auctions.html">Online Auction</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/purchasing/about-us/how-to-do-business.html">How To Do Business - Purchasing</a>
+                                                            	
+																 <p onclick="setLinkName('How To Do Business - Purchasing');"> <a href="/en/purchasing/about-us/how-to-do-business.html">How To Do Business - Purchasing</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/purchasing/bids---rfps.html">Bids/Request for Proposal (RFPs)</a>
+                                                            	
+																 <p onclick="setLinkName('Bids/Request for Proposal (RFPs)');"> <a href="/en/purchasing/bids---rfps.html">Bids/Request for Proposal (RFPs)</a> </p> 
                                                  	
                                                  		
-                                                            <a href="https://tvorspublic.tarrantcounty.com/ ">Vendor Online Registration (TVORS)</a>
+                                                            	
+																 <p onclick="setLinkName('Vendor Online Registration (TVORS)');"> <a href="https://tvorspublic.tarrantcounty.com/">Vendor Online Registration (TVORS)</a> </p> 
                                                  	
                                                  </div>
              								 
@@ -1708,11 +2092,39 @@ Russell B. Casey</a>
 										</div>
 								<div style="clear:both;"></div>
 							</li>
-                                
+                                 
                             
 						</ul>
 					</div>
 				</div>
+
+<script type="text/javascript">
+var globalLinkName = "";
+function setLinkName(linkname) {
+
+    globalLinkName = linkname;
+    superMenuTracking();
+}
+function superMenuTracking(e) {
+   window.addEventListener("click",trackingSupermenu);
+ function trackingSupermenu(e){
+     	var href = e.target.getAttribute("href");
+     	var target = e.target.hasAttribute("target");
+ 		var lname = globalLinkName;
+        if(href){
+            href = href + "?linklocation=supermenu&linkname=" + lname;
+				if(target) {
+                     window.open(href);
+					e.preventDefault();
+             	}else {
+        			location.href = href;
+                 	e.preventDefault();
+					}
+        }
+     window.removeEventListener("click", trackingSupermenu);
+	}
+}
+</script>
 
                        
                     
@@ -1748,22 +2160,28 @@ Russell B. Casey</a>
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="/en/human-resources/employment-opportunities/all-applicants.html">All Applicants</a>
+                                                            	
+																 <p onclick="setLinkName('All Applicants');"> <a href="/en/human-resources/employment-opportunities/all-applicants.html">All Applicants</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/human-resources/employment-opportunities/current-employees-only.html">Current Employees Only</a>
+                                                            	
+																 <p onclick="setLinkName('Current Employees Only');"> <a href="/en/human-resources/employment-opportunities/current-employees-only.html">Current Employees Only</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/human-resources/employment-opportunities/job-descriptions.html">Job Descriptions</a>
+                                                            	
+																 <p onclick="setLinkName('Job Descriptions');"> <a href="/en/human-resources/employment-opportunities/job-descriptions.html">Job Descriptions</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/human-resources/employment-opportunities/job-interest-cards.html">Job Interest Cards</a>
+                                                            	
+																 <p onclick="setLinkName('Job Interest Cards');"> <a href="/en/human-resources/employment-opportunities/job-interest-cards.html">Job Interest Cards</a> </p> 
                                                  	
                                                  		
-                                                            <a href="https://www.governmentjobs.com/Applications/Index/tarranternmentjobs.com/ ">Application Status</a>
+                                                            	
+																 <p onclick="setLinkName('Application Status');"> <a href="https://www.governmentjobs.com/Applications/Index/tarranternmentjobs" target="_blank">Application Status</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/human-resources.html">Human Resources</a>
+                                                            	
+																 <p onclick="setLinkName('Human Resources');"> <a href="/en/human-resources.html">Human Resources</a> </p> 
                                                  	
                                                  </div>
              								 
@@ -1798,17 +2216,21 @@ Russell B. Casey</a>
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="/en/human-resources.html">Human Resources</a>
+                                                            	
+																 <p onclick="setLinkName('Human Resources');"> <a href="/en/human-resources.html">Human Resources</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/human-resources/employee-benefits.html">Employee Benefits</a>
+                                                            	
+																 <p onclick="setLinkName('Employee Benefits');"> <a href="/en/human-resources/employee-benefits.html">Employee Benefits</a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/human-resources/volunteer-opportunities.html">Volunteer Opportunities<br>
- </a>
+                                                            	
+																 <p onclick="setLinkName('Volunteer Opportunities');"> <a href="/en/human-resources/volunteer-opportunities.html">Volunteer Opportunities<br>
+ </a> </p> 
                                                  	
                                                  		
-                                                            <a href="/en/human-resources/employment-opportunities.html">Employment Opportunities</a>
+                                                            	
+																 <p onclick="setLinkName('Employment Opportunities');"> <a href="/en/human-resources/employment-opportunities.html">Employment Opportunities</a> </p> 
                                                  	
                                                  </div>
              								 
@@ -1818,7 +2240,8 @@ Russell B. Casey</a>
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="https://www.tarrantcu.org/" target="_blank">Tarrant County Credit Union</a>
+                                                            	
+																 <p onclick="setLinkName('Tarrant County Credit Union');"> <a href="https://www.tarrantcu.org/" target="_blank">Tarrant County Credit Union</a> </p> 
                                                  	
                                                  </div>
              								 
@@ -1837,11 +2260,39 @@ Russell B. Casey</a>
 										</div>
 								<div style="clear:both;"></div>
 							</li>
-                                
+                                 
                             
 						</ul>
 					</div>
 				</div>
+
+<script type="text/javascript">
+var globalLinkName = "";
+function setLinkName(linkname) {
+
+    globalLinkName = linkname;
+    superMenuTracking();
+}
+function superMenuTracking(e) {
+   window.addEventListener("click",trackingSupermenu);
+ function trackingSupermenu(e){
+     	var href = e.target.getAttribute("href");
+     	var target = e.target.hasAttribute("target");
+ 		var lname = globalLinkName;
+        if(href){
+            href = href + "?linklocation=supermenu&linkname=" + lname;
+				if(target) {
+                     window.open(href);
+					e.preventDefault();
+             	}else {
+        			location.href = href;
+                 	e.preventDefault();
+					}
+        }
+     window.removeEventListener("click", trackingSupermenu);
+	}
+}
+</script>
 
                        
                     
@@ -1871,6 +2322,9 @@ Russell B. Casey</a>
                 	
                 		
                 		<a href="/en/county/website-use/accessible-menu.html">Accessible Menu</a>
+                	
+                		
+                		
                 	
          
 	</div>
@@ -1974,6 +2428,8 @@ Russell B. Casey</a>
 
 
 
+
+
 	
 
 </div>
@@ -2065,7 +2521,7 @@ Russell B. Casey</a>
 
                         <h4>Website Use</h4>
                         <a href="/en/county/website-use/privacy-policy.html">Privacy Policy</a>
-                        <a href="mailto:webmaster@tarrantcounty.com">Contact Webmaster</a>
+                        <a href="/en/county/contact-us/contact-us.html">Contact Us</a>
                         <br>
                         <a href="/en/county/website-use/accessibility-statement.html">Accessibility</a>
                         <a href="/en/county/website-use/general-information.html">General Information</a>
@@ -2131,7 +2587,7 @@ This site is best experienced with supported browsers: Internet Explorer 9 and a
 						<p>100 E. Weatherford, Fort Worth, Texas 76196</p>
 					</div>
 					<div class="col-sm-6">
-						<p id="wpsm-footer-copyright">Copyright 2001-2015 Tarrant County, TX</p>
+						<p id="wpsm-footer-copyright">Copyright 2001-2016 Tarrant County, TX</p>
 					</div>
 				</div>
 			</div>
@@ -2163,14 +2619,17 @@ This site is best experienced with supported browsers: Internet Explorer 9 and a
 <!--
 More detailed timing info is available by uncommenting some code in the timing.jsp component
 Timing chart URL:
-http://chart.apis.google.com/chart?chtt=privacy-policy.html+%28156ms%29&cht=bhs&chxt=x&chco=c6d9fd,4d89f9&chbh=a&chds=0,156,0,156&chxr=0,0,156&chd=t:16,16,16,16,16,16,16,16,16,31,31,31,31,47,94,110,125,125,141,141,141,141,141,156,156,156|0,0,0,0,0,0,0,125,125,0,0,16,110,47,16,15,0,16,0,0,15,15,15,0,0,0&chly=init.jsp|servicelibs.jsp|browsermap.jsp|simulator.jsp|head.jsp|clientcontext.jsp|minisearch-google.jsp|header.jsp|header.jsp|alerts.jsp|minisearchMobile-googl...|tablinks.jsp|supermenu.jsp|tablinks.jsp|tablinks.jsp|tablinks.jsp|tablinks.jsp|tablinks.jsp|subnavigation.jsp|title.jsp|text.jsp|parsys.jsp|content.jsp|footer.jsp|footer.jsp|includes.jsp&chs=600x500
+http://chart.apis.google.com/chart?chtt=privacy-policy.html+%28157ms%29&cht=bhs&chxt=x&chco=c6d9fd,4d89f9&chbh=a&chds=0,157,0,157&chxr=0,0,157&chd=t:0,0,0,0,0,0,0,16,16,16,16,16,16,32,32,47,94,110,125,125,141,141,141,141,141,157,157,157|0,0,0,0,0,0,16,0,0,0,16,125,125,15,109,47,16,15,0,16,0,0,16,16,16,0,0,0&chly=init.jsp|servicelibs.jsp|browsermap.jsp|simulator.jsp|analytics_headercode.jsp|head.jsp|analytics_code.jsp|clientcontext.jsp|minisearch-google.jsp|alerts.jsp|minisearchMobile-googl...|header.jsp|header.jsp|tablinks.jsp|supermenu.jsp|tablinks.jsp|tablinks.jsp|tablinks.jsp|tablinks.jsp|tablinks.jsp|subnavigation.jsp|title.jsp|text.jsp|parsys.jsp|content.jsp|footer.jsp|footer.jsp|includes.jsp&chs=600x500
 -->
 
 
     <div class="servicecomponents cloudservices">
 </div>
 
-    <script type="text/javascript">_satellite.pageBottom();</script>
+
+    
+<script type="text/javascript">_satellite.pageBottom();</script>
+ 
 
 
 </body></html>
