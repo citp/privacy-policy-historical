@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ks.gov privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108212252id_/https%3A//www.kansas.gov/portal-policies/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ks.gov privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514104736id_/http%3A//www.kansas.gov/portal-policies/privacy-statement) for the most accurate reproduction.*
 
 # Kansas.gov - The Official website of the State of Kansas - Privacy Statement
 
