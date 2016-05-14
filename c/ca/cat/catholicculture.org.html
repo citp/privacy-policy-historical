@@ -1,0 +1,681 @@
+<!--The following is the downloaded HTML source of the catholicculture.org privacy policy that was archived on 2016-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160514103308id_/http%3A//www.catholicculture.org/about/legal/privacy.cfm) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
+<title>Privacy | Catholic Culture</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="description" content="A chief provider and curator of Catholic information on the web since 1996. Our editorial voice, always faithful to the teachings of the Church, assists and inspires Catholic clergy and laity.">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="verify-v1" content="l1ElcxE1QA7j7k5fnQ+4nHpO2XDiqAWUYoMgwkrQ7sA=">
+
+
+<meta property="og:title" content="Privacy">
+<meta property="og:type" content="website">
+<meta property="og:url" content="http://www.catholicculture.org/about/legal/privacy.cfm">
+<meta property="og:description" content="A chief provider and curator of Catholic information on the web since 1996. Our editorial voice, always faithful to the teachings of the Church, assists and inspires Catholic clergy and laity.">
+
+
+
+
+
+
+
+<link href="//fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Kreon:400,700" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
+
+<link type="text/css" rel="stylesheet" media="screen" href="/lib/css/master.css?v=1.03">
+<link type="text/css" rel="stylesheet" media="screen" href="/lib/css/nav.css?v=1.04">
+<link type="text/css" rel="stylesheet" media="print" href="/lib/css/print.css?v=1.0">
+
+
+
+
+
+
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script> 
+<script>
+function blankIt(thisfield) {
+	document.getElementById(thisfield).value = '';
+}
+function clearcreditcard(ccvalue) {
+	var xmatch = ccvalue.search("x");
+	if (xmatch >= 0) {
+		document.getElementById('fmcreditcard').value = '';
+	}
+}
+
+</script> 
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "7f2d7270-198d-4cf2-98b5-7d46415a5391", doNotHash: true, doNotCopy: false, hashAddressBar: false});</script>
+<script type="text/javascript">
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+      '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+
+<script type="text/javascript">
+  googletag.cmd.push(function() {
+
+	var viewportWidth = $(window).width();
+
+	if (viewportWidth >= 728) {
+		googletag.defineSlot('/31331443/728x90_Top', [728, 90], 'div-gpt-ad-1392330750017-2').addService(googletag.pubads());
+		googletag.defineSlot('/31331443/300x250A', [300, 250], 'div-gpt-ad-1392330750017-0').addService(googletag.pubads());
+	} else {
+		googletag.defineSlot('/31331443/CC_Header_Mobile', [320, 50], 'div-gpt-ad-1432134525422-0').addService(googletag.pubads());
+		googletag.defineSlot('/31331443/CC_Mobile_Sidebar_1', [300, 250], 'div-gpt-ad-1432134525422-4').addService(googletag.pubads());
+	}
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+</head>
+
+<body>
+
+<div class="header">
+
+
+<script>
+///// THIS SET OF FUNCTIONS RUNS THE PRIMARY NAV AND SUBNAV FOR DESKTOPS AND PRIMARY NAV FOR MOBILE
+	$(function() {
+		var pull 		= $('#pull');
+			menu 		= $('nav ul');
+			menuHeight	= menu.height();
+
+		$(pull).on('click', function(e) {
+			e.preventDefault();
+			menu.slideToggle();
+	  	    if ( $("#searchFeatures").is(":visible") ) { 
+         		$( "#searchFeatures" ).slideToggle( "fast" );
+            }
+			$('.drop-nav').hide();
+		});
+
+		$(window).resize(function(){
+			var w = $(window).width();
+			if(w > 320 && menu.is(':hidden')) {
+				menu.removeAttr('style');
+			}
+		});
+
+	});
+
+	function dropdown(navid,navlocation) {
+		if ($(window).width() > 929) {
+			if (navid == 'donate' || navid == 'subscribe/login' || navid == 'my account') {
+				location.href = navlocation;				
+			} else {
+				var navselection = document.getElementById('nav_selected_section').innerHTML;
+				if (navselection != '') {
+					document.getElementById(navselection).style.display = 'none';			
+				}
+				if (navid != navselection) {
+					document.getElementById(navid).style.display = 'block';			
+					document.getElementById('nav_selected_section').innerHTML = navid;
+				} else {
+					document.getElementById(navid).style.display = 'none';			
+					document.getElementById('nav_selected_section').innerHTML = '';
+				}
+			}
+		} else {
+			location.href = navlocation;
+		}
+	}
+
+///// THIS SET OF FUNCTIONS RUNS THE MOBILE SUBNAV
+// determine viewport width and height
+var viewportWidth = $(window).width();
+var viewportHeight = $(window).height();;
+var subnavlistwidth = 0;
+
+$(window).load(function(){
+	// sets the scrolled distance to 0
+	var scrolledh=0;
+
+	var listItems = $("#subnavlist li");
+	listItems.each(function(idx, li) {
+		var listitem = $(li);
+		subnavlistwidth = subnavlistwidth + listitem.width();	
+	});
+
+	if (viewportWidth >= subnavlistwidth) {
+		document.getElementById('rightClick').style.display = "none";
+		$('#subnav').width(viewportWidth);
+	}
+	
+
+	// ready, set, go
+	$(document).ready(function(){
+		
+		var scrolldistance = viewportWidth - 100;
+			
+		// right button click
+		$("#rightClick").on("click" ,function(){
+				// sets the horizontal "scroll to" point
+				scrolledh=scrolledh+scrolldistance;
+				// displays the left button
+				document.getElementById('leftClick').style.display="block";
+				// executes the scroll
+				$("#subnav").animate({
+						scrollLeft:  scrolledh
+				   });
+				// hides the right button if the text is fully scrolled to the right
+				if ((scrolledh + viewportWidth) >= subnavlistwidth) {
+					document.getElementById('rightClick').style.display="none";		
+				}
+			});
+	
+		// left button click
+		$("#leftClick").on("click" ,function(){
+
+				// sets the horizontal "scroll to" point, while preventing that point from being a negative number
+				if (scrolledh > 0) { 
+					scrolledh=scrolledh-scrolldistance;
+				} 
+				// hides the left button if the horizontal position of the text is all the way to the left; shows otherwise
+				if (scrolledh == 0) {
+					document.getElementById('leftClick').style.display="none";
+					document.getElementById('rightClick').style.display="block";
+				} else {
+					document.getElementById('rightClick').style.display="block";						
+				}
+				// executes scroll
+				$("#subnav").animate({
+						scrollLeft:  scrolledh
+				   });
+
+			});
+	
+	});
+ 
+});
+
+$(window).resize(function() {
+	// find new width
+	viewportWidth = $(window).width();
+
+	if (viewportWidth > subnavlistwidth) {
+		document.getElementById('rightClick').style.display="none";		
+		document.getElementById('leftClick').style.display="none";		
+		$("#subnav").animate({
+			scrollLeft:  0
+        });
+	} 
+});
+
+
+$(document).ready(function(){
+	$( "#openSearch" ).click(function() {
+	  if ( $("#searchFeatures").is(":hidden") ) { 
+  		$( "#searchFeatures" ).slideToggle( "fast" );
+	  } else {
+		$("#search").submit();
+	  }
+	});
+});
+
+
+//]]>  
+</script>
+
+	<div id="nav_selected_section" style="display:none;"></div>
+
+	<div id="searchWrapper">
+    <div id="openSearch" style="float:right; cursor:pointer;"><img src="/images/icons/search.png" id="searchButton"></div>
+        <div id="searchFeatures">
+        <form name="simplesearch" id="search" action="//www.catholicculture.org/search/search.cfm" method="post">
+        <input type="hidden" name="searchgoals" value="0">
+        <input type="text" name="andsearch" id="andsearch" value="">
+        </form>
+        </div>
+	</div>
+
+	<nav class="clearfix">
+  		<a href="#" id="pull"><img src="/images/logos/logo_small.png"></a>
+		<ul class="clearfix">
+        	
+            <li id="logo"><h1><a href="http://www.catholicculture.org/">CatholicCulture.org</a></h1></li>
+			<li id="navhome"><a href="http://www.catholicculture.org/">HOME</a></li>
+            
+            <li class="dropdown">
+            <a href="#" onclick="dropdown('news','http://www.catholicculture.org/news/');">News</a>
+            <ul class="drop-nav" id="news" style="display:none;">
+                <li><a href="http://www.catholicculture.org/news/" title="News">Home</a></li> 
+                <li>
+                    <a title="Important" href="http://www.catholicculture.org/news/most-important.cfm">Important</a> 
+                </li>
+               
+                <li>
+                    <a title="Popular" href="http://www.catholicculture.org/news/topten.cfm">Popular</a> 
+                </li>
+               
+                <li>
+                    <a title="Week" href="http://www.catholicculture.org/news/week.cfm">Week</a> 
+                </li>
+               
+                <li>
+                    <a title="Month" href="http://www.catholicculture.org/news/month.cfm">Month</a> 
+                </li>
+               
+                <li>
+                    <a title="Archives" href="http://www.catholicculture.org/news/archives.cfm">Archives</a> 
+                </li>
+               
+                <li>
+                    <a title="About CWN" href="http://www.catholicculture.org/about/catholic_world_news/">About CWN</a> 
+                </li>
+                
+				</ul>
+            </li>
+        
+            <li class="dropdown">
+            <a href="#" onclick="dropdown('commentary','http://www.catholicculture.org/commentary/');">Commentary</a>
+            <ul class="drop-nav" id="commentary" style="display:none;">
+                <li><a href="http://www.catholicculture.org/commentary/" title="Commentary">Home</a></li> 
+                <li>
+                    <a title="On the Culture" href="http://www.catholicculture.org/commentary/otc.cfm">On the Culture</a> 
+                </li>
+               
+                <li>
+                    <a title="On the News" href="http://www.catholicculture.org/commentary/otn.cfm">On the News</a> 
+                </li>
+               
+                <li>
+                    <a title="In Depth Analysis" href="http://www.catholicculture.org/commentary/articles.cfm">In Depth Analysis</a> 
+                </li>
+               
+                <li>
+                    <a title="The City Gates" href="http://www.catholicculture.org/commentary/the-city-gates.cfm">The City Gates</a> 
+                </li>
+               
+                <li>
+                    <a title="Quick Hits" href="http://www.catholicculture.org/commentary/quick-hits.cfm">Quick Hits</a> 
+                </li>
+               
+                <li>
+                    <a title="Reviews" href="http://www.catholicculture.org/commentary/reviews.cfm">Reviews</a> 
+                </li>
+               
+                <li>
+                    <a title="On the Good" href="http://www.catholicculture.org/commentary/onthegood.cfm">On the Good</a> 
+                </li>
+               
+                <li>
+                    <a title="Most Popular" href="http://www.catholicculture.org/commentary/topten.cfm">Most Popular</a> 
+                </li>
+               
+                <li>
+                    <a title="Archives" href="http://www.catholicculture.org/commentary/archives.cfm">Archives</a> 
+                </li>
+                
+				</ul>
+            </li>
+        
+            <li class="dropdown">
+            <a href="#" onclick="dropdown('liturgical year','http://www.catholicculture.org/culture/liturgicalyear/calendar/day.cfm');">Liturgical Year</a>
+            <ul class="drop-nav" id="liturgical year" style="display:none;">
+                
+                <li>
+                    <a title="Today" href="http://www.catholicculture.org/culture/liturgicalyear/calendar/day.cfm">Today</a> 
+                </li>
+               
+                <li>
+                    <a title="Blog" href="http://www.catholicculture.org/culture/liturgicalyear/blog">Blog</a> 
+                </li>
+               
+                <li>
+                    <a title="May Calendar" href="http://www.catholicculture.org/culture/liturgicalyear/calendar/month.cfm?y=2016&amp;m=5">May Calendar</a> 
+                </li>
+               
+                <li>
+                    <a title="May Overview" href="http://www.catholicculture.org/culture/liturgicalyear/overviews/months/05.cfm">May Overview</a> 
+                </li>
+               
+                <li>
+                    <a title="Easter Overview" href="http://www.catholicculture.org/culture/liturgicalyear/overviews/seasons/">Easter Overview</a> 
+                </li>
+               
+                <li>
+                    <a title="Prayers" href="http://www.catholicculture.org/culture/liturgicalyear/prayers/">Prayers</a> 
+                </li>
+               
+                <li>
+                    <a title="Activities" href="http://www.catholicculture.org/culture/liturgicalyear/activities/">Activities</a> 
+                </li>
+               
+                <li>
+                    <a title="Recipes" href="http://www.catholicculture.org/culture/liturgicalyear/recipes/">Recipes</a> 
+                </li>
+                
+				</ul>
+            </li>
+        
+            <li class="dropdown">
+            <a href="#" onclick="dropdown('resources','http://www.catholicculture.org/culture/resources/');">Resources</a>
+            <ul class="drop-nav" id="resources" style="display:none;">
+                <li><a href="http://www.catholicculture.org/culture/resources/" title="Resources">Home</a></li> 
+                <li>
+                    <a title="Library" href="http://www.catholicculture.org/culture/library/">Library</a> 
+                </li>
+               
+                <li>
+                    <a title="Website Reviews" href="http://www.catholicculture.org/culture/reviews/">Website Reviews</a> 
+                </li>
+               
+                <li>
+                    <a title="What You Need to Know" href="http://www.catholicculture.org/culture/what_you_need_to_know/">What You Need to Know</a> 
+                </li>
+               
+                <li>
+                    <a title="Catholic Dictionary" href="http://www.catholicculture.org/culture/library/dictionary">Catholic Dictionary</a> 
+                </li>
+               
+                <li>
+                    <a title="Catechism" href="http://www.catholicculture.org/culture/library/catechism/">Catechism</a> 
+                </li>
+               
+                <li>
+                    <a title="Church Fathers" href="http://www.catholicculture.org/culture/library/fathers/">Church Fathers</a> 
+                </li>
+               
+                <li>
+                    <a title="Most Collection" href="http://www.catholicculture.org/culture/library/most/">Most Collection</a> 
+                </li>
+               
+                <li>
+                    <a title="Free eBooks" href="http://www.catholicculture.org/ebooks/">Free eBooks</a> 
+                </li>
+                
+				</ul>
+            </li>
+        
+            <li class="dropdown">
+            <a href="#" onclick="dropdown('connect','http://www.catholicculture.org/connect/');">Connect</a>
+            <ul class="drop-nav" id="connect" style="display:none;">
+                <li><a href="http://www.catholicculture.org/connect/" title="Connect">Home</a></li> 
+                <li>
+                    <a title="On Facebook" href="https://www.facebook.com/catholicculture">On Facebook</a> 
+                </li>
+               
+                <li>
+                    <a title="On Twitter" href="https://twitter.com/formtheculture">On Twitter</a> 
+                </li>
+               
+                <li>
+                    <a title="eNewsletters" href="http://www.catholicculture.org/newsletters/">eNewsletters</a> 
+                </li>
+               
+                <li>
+                    <a title="Site Tour" href="http://www.catholicculture.org/promotions/tour/">Site Tour</a> 
+                </li>
+               
+                <li>
+                    <a title="Web Widgets" href="http://www.catholicculture.org/widgets/">Web Widgets</a> 
+                </li>
+               
+                <li>
+                    <a title="Feeds" href="http://www.catholicculture.org/feeds/">Feeds</a> 
+                </li>
+               
+                <li>
+                    <a title="Contact Us" href="http://www.catholicculture.org/contact/">Contact Us</a> 
+                </li>
+               
+                <li>
+                    <a title="Advertise" href="http://www.catholicculture.org/about/advertise/">Advertise</a> 
+                </li>
+                
+				</ul>
+            </li>
+        
+            <li class="dropdown">
+            <a href="#" onclick="dropdown('subscribe/login','https://www.catholicculture.org/newsletters');">Subscribe/Login</a>
+            <ul class="drop-nav" id="subscribe/login" style="display:none;">
+                 
+				</ul>
+            </li>
+        
+            <li class="dropdown">
+            <a href="#" onclick="dropdown('donate','https://www.catholicculture.org/users/donate.cfm');"><span style="color:yellow;">Donate</span></a>
+            <ul class="drop-nav" id="donate" style="display:none;">
+                 
+				</ul>
+            </li>
+        
+	    </ul>
+    </nav>
+    <!-- end Main Navigation -->
+
+	
+</div>
+<div class="container" role="main">
+<style>
+#action {
+	width: 100%;
+	padding:5px 10px 5px 25px;
+	margin: 10px 10px 0px 10px;
+	outline: none;
+	border-radius: 20px;
+	vertical-align:middle;
+	font-style: italic;
+	font-size: 18px;
+	cursor: pointer;
+}
+#action_text {
+	margin-top: 4px;
+}
+#action_alert {
+	font-family: Kreon;
+	font-size: 24px;
+	line-height: 24px;
+	font-style:italic;
+	font-weight: bold;
+	float: left;
+	margin: 4px 20px 0px 0px;
+}
+#action_arrow {
+	float: right;
+	margin-left: 10px;
+}
+.yellow {
+	background: #F0C517;
+	color: #000;	
+}
+.red {
+	background: #A72D11;
+	color: #FFF;	
+}
+.green {
+	background: #568D29;
+	color: #FFF;	
+}
+.purple {
+	background: #6C3795;
+	color: #FFF;	
+}
+/*Smartphones and Phablets*/
+@media only screen and (max-width : 650px) {
+#action {
+	padding:5px 10px 5px 15px;
+}
+#action_alert {
+	font-size: 18px;
+	line-height: 20px;
+	margin: 0px 10px 0px 0px;
+}
+#action_text {
+	font-size: 12px;
+	margin-top: 2px;
+}
+} 
+</style>
+
+
+
+
+    <div class="ad" id="adspot_horizontal_mobile">
+    <!-- /31331443/CC_Header_Mobile -->
+    <div id="div-gpt-ad-1432134525422-0">
+    <script type="text/javascript">
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1432134525422-0'); });
+    </script>
+    </div>
+    </div>
+
+	<div class="main">
+<div class="ad" id="adspot_horizontal_desktop">
+<!-- 728x90_Top -->
+<div id="div-gpt-ad-1392330750017-2">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1392330750017-2'); });
+</script>
+</div>
+</div>
+
+
+        <div class="content">
+
+<h1>Privacy</h1>
+
+<p>We have a deep committment to securing your information and keeping it private. To that end, we try to ensure that the transmission of your information is secure by using industry security standards.</p>
+
+<p>Your email address serves as your login user name for this site. The email address that you submit will 
+NOT be shared with third parties without your consent. If you do not wish to receive email from this site, you can adjust 
+your options from the <em>My Account</em> section upon completing your registration.</p>
+
+<p>This information is meant to be understood within the context of our <a href="terms.cfm">Terms and Conditions</a>. Your use of this site, and the transmission of any private information during its use, is entirely at your own risk.</p>
+
+<p>The information contained in this web site is subject to change without notice.</p>
+
+<div style="clear: both;"></div>
+</div>
+
+</div>
+
+<div class="sidebar_right">
+
+<div id="SM_area">
+<div id="SM_buttonbox">
+<div id="SM_prompt">Stay in Touch!</div> <a href="https://www.facebook.com/catholicculture" target="_top"><i class="fa fa-facebook-official fa-2x" style="color: #3B5998;"></i></a> &nbsp; <a href="https://twitter.com/formtheculture" target="_top"><i class="fa fa-twitter fa-2x" style="color: #55ACEE;"></i></a> &nbsp; <a href="/newsletters/"><i class="fa fa-envelope-o fa-2x" style="color: #cc0000;"></i></a>
+
+</div>
+</div>
+
+
+
+
+<div id="adspot_300x250A_desktop">
+<!-- 300x250A -->
+<div id="div-gpt-ad-1392330750017-0">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1392330750017-0'); });
+</script>
+</div>
+</div>
+
+<a href="http://www.catholicculture.org/promotions/campaigns/Spring2016.cfm?utm_source=Catholic%20Culture&amp;utm_medium=skyscraper%20banner&amp;utm_campaign=Spring%202016"><img src="/images/banners/Catholics-Rising-Skyscraper-Banner.png"></a>
+
+
+
+
+<div align="center">
+
+<div class="workshop_banner" style="background-color:#C90;">» <a href="http://www.catholicculture.org/culture/liturgicalyear/overviews/seasons/Easter?utm_source=Catholic%2BCulture&amp;utm_medium=Text%2BBanner&amp;utm_campaign=Easter%2BWorkshop">Visit Our Easter Workshop</a></div>
+
+<div class="workshop_banner" style="background-color:#060;">» <a href="http://www.catholicculture.org/culture/liturgicalyear/overviews/seasons/Ordinary_Time?utm_source=Catholic%2BCulture&amp;utm_medium=Text%2BBanner&amp;utm_campaign=Ordinary%20Time%2BWorkshop">Visit Our Ordinary Time Workshop</a></div>
+
+</div>
+
+
+<div style="padding: 5px 0px 0px 0px;">
+<a href="https://www.catholicculture.org/newsletters/?utm_source=Catholic%20Culture&amp;utm_medium=sidebar%20banner&amp;utm_campaign=Subscribe%20for%20Free%20"><img src="/images/banners/subscribe-for-free-v3.png" alt="Subscribe for free" title="Subscribe for free"></a> 
+</div>
+
+
+
+
+<div id="adspot_300x250B_desktop">
+<iframe src="https://rcm-na.amazon-adsystem.com/e/cm?t=catholiccultu-20&amp;o=1&amp;p=12&amp;l=ur1&amp;category=amazonhomepage&amp;f=ifr&amp;linkID=RDUDYN2J3ALREF4W" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+<div style="width: 100%; min-width:300px;">We receive 8% of most Amazon purchases.</div>
+</div>
+
+</div>
+
+
+    <div class="footer">
+<div id="SM_area_footer">
+<div id="SM_prompt">Stay in Touch!</div> <a href="https://www.facebook.com/catholicculture" target="_top"><i class="fa fa-facebook-official fa-2x" style="color: #3B5998;"></i></a> &nbsp; <a href="https://twitter.com/formtheculture" target="_top"><i class="fa fa-twitter fa-2x" style="color: #55ACEE;"></i></a> &nbsp; <a href="/newsletters/"><i class="fa fa-envelope-o fa-2x" style="color: #cc0000;"></i></a>
+
+</div>
+    <div id="footer_links"><a href="/about/">About This Site</a> | <a href="/about/legal/terms.cfm">Terms and Conditions</a> | <a href="/about/legal/privacy.cfm">Privacy</a> | <a href="/about/legal/conduct.cfm">User Conduct</a> | <a href="/about/advertise/">Advertise</a> | <a href="/help/">Help/FAQ</a> | <a href="/contact/">Contact Us</a></div>
+<div id="copyright">Copyright © 2016 <a href="/about/trinity">Trinity Communications</a>. All rights reserved.</div>
+</div>
+</div>
+
+
+
+<!-- Quantcast Tag --> 
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + 
+              ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);  
+  })();
+</script>
+<script type="text/javascript">
+ _qevents.push([{
+ qacct:"p-8vHSfVrnfFGe3", // Value of the Network operator's account ID, this stays static across sites 
+ labels:"CatholicCulture" // Label attributed to network operators Quantcast Publisher profile 
+ },
+ { qacct:"p-hxBS0TkSHDB3v", // Individual blog owner's account ID 
+ labels:"CatholicCulture" // Label attribtued to individual owner's Quantcast Publisher profile 
+ }]);
+ </script>
+ <noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel?a.1=p-8vHSfVrnfFGe3&a.2=p-hxBS0TkSHDB3v&labels=CatholicCulture" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-3494905-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+
+
+
+</body></html>
