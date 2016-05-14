@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babajob.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911042246id_/http%3A//www.babajob.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babajob.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514175029id_/http%3A//www.babajob.com/Privacy.aspx) for the most accurate reproduction.*
 
 # 
 
