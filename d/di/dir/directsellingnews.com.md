@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directsellingnews.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907175255id_/http%3A//directsellingnews.com/index.php/dsn/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directsellingnews.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514105438id_/http%3A//directsellingnews.com/index.php/dsn/privacy) for the most accurate reproduction.*
 
 # Direct Selling News
 
