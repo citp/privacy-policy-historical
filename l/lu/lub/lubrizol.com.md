@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lubrizol.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206232222id_/http%3A//www.lubrizol.com/PrivacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lubrizol.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514211556id_/http%3A//www.lubrizol.com/PrivacyStatement.html) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - The Lubrizol Corporation
 
@@ -62,6 +62,6 @@ You do not need to accept cookies to visit our sites, but without them, your acc
 
 ## How to Reach Us 
 
-Upon written request sent by email to [Lubrizol Website Data Privacy](https://web.archive.org/Website-Data-Privacy-Form.html "Lubrizol Website Data Privacy")  or by letter to 29400 Lakeland Boulevard, Wickliffe, Ohio 44092, Lubrizol will allow you to review, update, and/or remove from our databases personally identifiable information that you provided to us. In such request, please include your name and e-mail address. Removal of personally identifiable information will prevent you from accessing restricted sites (example: ([www.mylubrizol.com](http://www.mylubrizol.com/)) unless you re-enter your personally identifiable information at a later date. 
+Upon written request sent to [](https://web.archive.org/Website-Data-Privacy-Form.html "Lubrizol Website Data Privacy")to The Lubrizol Corporation, 29400 Lakeland Boulevard, Wickliffe, Ohio 44092, Lubrizol will allow you to review, update, and/or remove from our databases personally identifiable information that you provided to us. In such request, please include your name and e-mail address. Removal of personally identifiable information will prevent you from accessing restricted sites (example: ([www.mylubrizol.com](http://www.mylubrizol.com/)) unless you re-enter your personally identifiable information at a later date. 
 
 Lubrizol websites may contain links to third party sites that Lubrizol does not own or maintain. Lubrizol is not responsible for the privacy practices or other aspects of those sites. 
