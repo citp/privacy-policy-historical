@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymemory.co.uk privacy policy that was archived on 2015-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151004192303id_/http%3A//www.mymemory.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymemory.co.uk privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514113134id_/http%3A//www.mymemory.co.uk/privacy) for the most accurate reproduction.*
 
 # MyMemory - The Memory Specialists
 
