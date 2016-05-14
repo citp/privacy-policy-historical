@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the advertising365.com privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112192633id_/http%3A//www.advertising365.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advertising365.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514064032id_/http%3A//www.advertising365.com/privacy.html) for the most accurate reproduction.*
 
-# Advertising365.com Privacy
+# Advertising365 : Privacy
 
 This policy covers how Advertising365 treats personal information that it collects and receives, including information related to your use of any Advertising365 products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
 
