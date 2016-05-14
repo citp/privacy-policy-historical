@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the worldarchitecture.org privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114050818id_/http%3A//www.worldarchitecture.org/svs/html/WA_Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldarchitecture.org privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514060208id_/http%3A//worldarchitecture.org/svs/html/WA_Privacy_Policy.htm) for the most accurate reproduction.*
 
 # 
 
 WA PRIVACY POLICY
 
-World Architecture Community (“WA”, “we”, “us” and “our”) is committed to protecting your privacy. We have prepared this Privacy Policy to describe our practices regarding the Personal Information (defined below) we collect from users through our website, located at www.worldarchitecture.org, (“Site”), mobile applications (“Applications”) and services made available through the Site and Applications (collectively “Services”). Capitalized terms not otherwise defined in this Privacy Policy have the meanings given in our WA Member Agreement located at [www.worldarchitecture.org/svs/html/WA_Member_Agreement.htm](https://web.archive.org/svs/html/WA_Member_Agreement.htm "WA Member Agreement") (the “Terms”).
+World Architecture Community (“WA”, “we”, “us” and “our”) is committed to protecting your privacy. We have prepared this Privacy Policy to describe our practices regarding the Personal Information (defined below) we collect from users through our website, located at worldarchitecture.org, (“Site”), mobile applications (“Applications”) and services made available through the Site and Applications (collectively “Services”). Capitalized terms not otherwise defined in this Privacy Policy have the meanings given in our WA Member Agreement located at [worldarchitecture.org/svs/html/WA_Member_Agreement.htm](http://worldarchitecture.org/svs/html/WA_Member_Agreement.htm "WA Member Agreement") (the “Terms”).
 
 This Privacy Policy will apply whether you are a “Visitor” (which means that you simply browse the Services) or an “Authorized User” (which means you have registered to use the Services). Visitors and Authorized Users are individually referred to as a “User” and collectively as “Users”.
 
