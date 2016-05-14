@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the solutionsinfini.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915172529id_/http%3A//www.solutionsinfini.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solutionsinfini.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514145908id_/http%3A//www.solutionsinfini.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Solutions Infini
+# Privacy Policy | Solutions Infini
 
-Incorporated under the Companies Act, 1956 ( No.1 of 1956 ) and that the company is private limited. Uses and protects any information that You give Us when You use this website. 
-
-We are committed to ensuring that Your privacy is protected. Should We ask You to provide certain information by which You can be identified when using this website, then You can be assured that it will only be used in accordance with this privacy statement. We may change this policy from time to time by updating this page. You should check this page from time to time to ensure that You are happy with any changes.
-
-##### **1\. What Solutions Infini collects**
+### 1\. What Solutions Infini collects
 
 Solutions Infini may collect the following information
 
@@ -16,10 +12,9 @@ Solutions Infini may collect the following information
   * Mobile telephone number and network details
   * Other information relevant to customer surveys and/or offers
 
-  
 
 
-##### **2\. What Solutions Infini does with the information**
+### 2\. What Solutions Infini does with the information
 
 Solutions Infini gathers they require this information to understand Your needs and provide You with a better service, and in particular for the following reasons:
 
@@ -31,17 +26,13 @@ Solutions Infini gathers they require this information to understand Your needs 
   * From time to time, Solutions Infini may also use your information to contact you for market research purposes. Solutions Infini may contact you by email, phone, fax or mail. Solutions Infini may use the information to customize the website according to your interests.
   * Internal record keeping.
 
-  
 
 
-##### **3\. Security**
+### 3\. Security
 
 Solutions Infini is committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, Solutions Infini have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information that collect online. Solutions Infini will retain your information for a reasonable period or as long as the law requires.
 
-  
-
-
-##### **4\. How Solutions Infini uses cookies**
+### 4\. How Solutions Infini uses cookies
 
 A cookie is a small file which asks permission to be placed on your computer's hard drive. Once You agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
 
@@ -51,17 +42,11 @@ Overall, cookies help Solutions Infini provide you with a better website, by ena
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-  
-
-
-##### **5\. Links to other websites**
+### 5\. Links to other websites
 
 Solutions Infini website may contain links to other websites of interest. However, once you have used these links to leave Solutions Infini site, You should note that Solutions Infini does not have any control over that other website. Therefore, Solutions Infini cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-  
-
-
-##### **6\. Controlling your personal information**
+### 6\. Controlling your personal information
 
 You may choose to restrict the collection or use of your personal information in the following ways :
 
@@ -72,21 +57,15 @@ You may choose to restrict the collection or use of your personal information in
 
 Solutions Infini will not sell, distribute or lease your personal information to third parties unless Solutions Infini have your permission or are required by law to do so. Solutions Infini may use your personal information to send you promotional information about third parties which Solutions Infini thinks you may find interesting if you tell Solutions Infini that you wish this to happen.
 
-  
-
-
-##### **7\. Accessing and updating**
+### 7\. Accessing and updating
 
 You are entitled to see the information held about you and you may ask Solutions Infini to make any necessary changes to ensure that it is accurate and kept up to date. You may request details of personal information which Solutions Infini holds about you under the Data Protection Act. A small fee will be payable.
 
-  
-
-
-##### **8\. Contact**
+### 8\. Contact
 
 All comments, queries and requests relating to Solutions Infini uses of your information are welcomed and should be addressed to :
 
-**SOLUTIONS INFINI TECHNOLOGIES (INDIA) PRIVATE LIMITED**   
+SOLUTIONS INFINI TECHNOLOGIES (INDIA) PRIVATE LIMITED   
 45/B, 1st Floor, 1st A Main,   
 Sarakki Industrial Layout, 3rd Phase,   
 JP Nagar, Bangalore - 560078   
