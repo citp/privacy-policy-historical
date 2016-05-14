@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpcoderx.com privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005182156id_/http%3A//wpcoderx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpcoderx.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514053358id_/http%3A//wpcoderx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WpCoderX
 
