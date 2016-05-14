@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the deem.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906084713id_/https%3A//www.deem.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deem.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514024101id_/https%3A//www.deem.com/privacy/global-privacy-statement) for the most accurate reproduction.*
 
 # Global Privacy Statement | Deem
 
-Effective Date: May 27, 2011
+Effective Date: November 6, 2015
 
 Deem and its subsidiaries and affiliates (collectively, "Deem") respect your privacy concerns. This Global Privacy Statement ("Privacy Statement") informs you of our privacy practices. The Privacy Statement applies to all Deem-owned websites and domains (including [www.deem.com](http://www.deem.com/) and [blog.deem.com](http://blog.deem.com/)) and the websites and domains of our wholly-owned subsidiaries, including Ketera Technologies ([www.ketera.com](http://www.ketera.com/)), and Global Ground Automation ([www.globalground.com](http://www.globalground.com/)).
 
@@ -163,6 +163,8 @@ Subject to applicable law, you may have certain additional rights to request acc
 The Deem website may provide links to third-party websites for your convenience and information. If you access those links, you will leave the Deem website. Deem does not control those sites or their privacy practices, which may differ from Deem's practices. We do not endorse or make any representations about third-party websites. The personal information you choose to provide to or that is collected by these third-party websites is not covered by this Privacy Statement. We encourage you to review the privacy policy of any company before submitting your personal information.
 
 We may also provide social media features on our website that enable you to share Deem information with your social networks and to interact with Deem on various social media sites. Your use of these features may result in the collection or sharing of information about you. We encourage you to review the privacy policies and settings on the social media sites with which you interact to help you understand those sites' privacy practices.
+
+By using Car Service and the Google Maps API(s), the [Google Privacy Policy](https://www.google.com/policies/privacy) is hereby incorporated by reference.
 
 ### Data Transfers
 
