@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vmn.net privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213110720id_/http%3A//www.vmn.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vmn.net privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514064240id_/http%3A//www.vmn.net/privacy.php) for the most accurate reproduction.*
 
 # Visicom Media - Innovate. Engage. Monetize.
 
