@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drudge.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221224746id_/http%3A//www.drudge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drudge.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514174305id_/http%3A//www.drudge.com/privacy-policy) for the most accurate reproduction.*
 
 # Drudge Retort: Privacy Policy
 
@@ -10,6 +10,7 @@ Menu
 [Breaking News](http://www.drudge.com/weblog)  
 [Comments](http://www.drudge.com/comments)  
 [Flagged Comments](http://www.drudge.com/flagged-comments)  
+[Recently Flagged](http://www.drudge.com/recent-flags)  
 [User Blogs](http://www.drudge.com/discussion)  
 [Write a Blog Entry](http://www.drudge.com/create-entry)  
 [Create a Poll](http://www.drudge.com/create-poll)  
@@ -37,7 +38,12 @@ Special Features
 Links
 
 [SportsFilter](http://www.sportsfilter.com/)  
-[Workbench](http://workbench.cadenhead.org/)
+[Workbench](http://workbench.cadenhead.org/)  
+[URouLette.Com](http://www.uroulette.com/)  
+[Cool.CC](http://cool.cc/)  
+[CoyotesBlog.Com](http://coyotesblog.com/)  
+[RangersBlog.Com](http://rangersblog.com/)  
+
 
 | 
 
@@ -63,8 +69,5 @@ St. Augustine, FL 32086
 
 Email: cadenhead@gmail.com  
 Phone/Fax: (904) 513-9246
-
-  
-
 
 |   
