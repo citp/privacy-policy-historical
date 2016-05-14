@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the senecacollege.ca privacy policy that was archived on 2015-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150722043902id_/http%3A//www.senecacollege.ca/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the senecacollege.ca privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514053347id_/http%3A//www.senecacollege.ca/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy - Seneca - Toronto, Canada
 
@@ -8,11 +8,9 @@ Further detail on the information shared with:
 
 ## Ontario Ministry of Training Colleges and Universities
 
-Seneca is required to report student-level enrolment-related data to the Ministry of Training, Colleges and Universities under the authority of the _Ontario Colleges of Applied Arts and Technology Act, 2002_. The Ministry collects this data, which includes limited personal information such as Ontario Education Numbers, student characteristics and educational outcomes, in order to administer government postsecondary funding, policies and programs, including planning, evaluation and monitoring activities. Further information is available [on the collection and use ](http://www.tcu.gov.on.ca/pepg/publications/NoticeOfCollection.pdf)(pdf) of student-level enrolment-related data.
+## Quality Assurance Agencies
 
 ## Statistics Canada
-
-The federal Statistics Act provides the legal authority for Statistics Canada to obtain access to personal information held by educational institutions. The information may be used for statistical purposes only, and the confidentiality provisions of the Statistics Act prevent the information from being released in any way that would identify a student. Further information is available on Statistics Canada’s[ Postsecondary Student Information System](http://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=5017).
 
 If you have any questions concerning the collection and use of personal information, please contact the Privacy Office at (416) 491-5050 extension 77846, or email [privacyoffice@senecacollege.ca](mailto:privacyoffice@senecacollege.ca). The mailing address for the Privacy Office is 8 The Seneca Way, 7th Floor, Markham, Ontario, L3R 5Y1.
 
