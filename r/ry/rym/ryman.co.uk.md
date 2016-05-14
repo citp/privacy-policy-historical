@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ryman.co.uk privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114115636id_/http%3A//www.ryman.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryman.co.uk privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514130121id_/http%3A//www.ryman.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ We are totally committed to ensuring that your online shopping experience is com
   * What information we collect 
   * Credit Card Fraud Prevention 
   * Phishing 
-  * [Find out more about how Ryman use of cookies](https://web.archive.org/web/20151114115636id_/http%3A//www.ryman.co.uk/cookie-policy)
+  * [Find out more about how Ryman use of cookies](https://web.archive.org/web/20160514130121id_/http%3A//www.ryman.co.uk/cookie-policy)
 
 
 
@@ -28,8 +28,8 @@ We take your personal privacy very seriously and are committed to ensuring that 
 
 We promise that: 
 
-  * We will never sell your personal details to any outside company 
-  * Unless specifically authorised by you, we will not pass on your details to any third party company for mailing or marketing purposes
+  * We will never sell your personal details to any company outside of the Theo Paphitis Retail Group
+  * Unless specifically authorised by you, we will not pass on your details to any third party company for mailing or marketing purposes outside of the Theo Paphitis Retail Group
 
 
 
@@ -78,7 +78,7 @@ Find out more here:
 ## Phishing emails or calls – do not share your personal information
 
 Phishing is the process of tricking someone into passing over personal or sensitive information. This can be done in an email format or through a phone call from someone pretending to be from an official and legitimate source.   
-Do not share your personal information with anyone claiming to be from The Theo Paphitis Retail Group. If we need to take an alternative payment method or other personal information from you, we will ask you to call us back on our main customer services number.   
+Do not share your personal information with anyone claiming to be from Ryman Stationery or Ryman Ltd. If we need to take an alternative payment method or other personal information from you, we will ask you to call us back on our main customer services number.   
 If you think someone is attempting to deceive you into passing over your details, please let us know immediately. 
 
 **Ryman Stationery Ltd**   
