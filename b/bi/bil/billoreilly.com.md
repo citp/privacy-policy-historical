@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billoreilly.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210191329id_/http%3A//www.billoreilly.com/pg/jsp/help/general/privacypolicy.jsp%3Ffooter%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billoreilly.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514131113id_/http%3A//www.billoreilly.com/pg/jsp/help/general/privacypolicy.jsp%3Ffooter%3Dtrue) for the most accurate reproduction.*
 
 # BillOReilly.com: Privacy Policy
 
@@ -30,8 +30,8 @@ In addition, BillOReilly.com may, and you hereby authorize us to, disclose your 
 
 **Disputes.** BillOReilly.com Privacy Policy disputes are handled by its customer service team with the highest concern for your privacy. 
 
-**BillOReilly.com Links.** BillOReilly.com may contain links to websites not owned or controlled by BillOReilly.com. BillOReilly.com is not responsible for the privacy policies or practices of any such sites. For other Terms of Service applicable to this site, please review the Terms of Service Agreement by [clicking here](https://web.archive.org/pg/jsp/help/general/termsconditions.jsp). 
+**BillOReilly.com Links.** BillOReilly.com may contain links to websites not owned or controlled by BillOReilly.com. BillOReilly.com is not responsible for the privacy policies or practices of any such sites. For other Terms of Service applicable to this site, please review the Terms of Service Agreement by [clicking here](https://web.archive.org/pg/jsp/help/general/termsconditions.jsp;jsessionid=ACA60FF7CBDA4F47D1F815C1E04EC47E). 
 
 **A Special Note about Children.** Children are not eligible to use our services and BillOReilly.com asks that minors (under the age of 18) do not submit any personal information to BillOReilly.com. If you are a minor, you can use this service only in conjunction with your parents or guardians. 
 
-This site is owned and operated by BillOReilly.com, c/o National Fulfillment Services, 105 S Commerce Drive, Aston, PA 19014. For further information about Bill O'Reilly, BillOReilly.com or the BillOReilly.com website, please visit the "Contact Us" section of the Site, or click [here](https://web.archive.org/contactus). You may have this same information sent to you by e-mail by sending a letter to [legal@BillOReilly.com](mailto:legal@BillOReilly.com) with your e-mail address and a request for this information. 
+This site is owned and operated by BillOReilly.com, c/o National Fulfillment Services, 105 S Commerce Drive, Aston, PA 19014. For further information about Bill O'Reilly, BillOReilly.com or the BillOReilly.com website, please visit the "Contact Us" section of the Site, or click [here](https://web.archive.org/contactus;jsessionid=ACA60FF7CBDA4F47D1F815C1E04EC47E). You may have this same information sent to you by e-mail by sending a letter to [legal@BillOReilly.com](mailto:legal@BillOReilly.com) with your e-mail address and a request for this information. 
