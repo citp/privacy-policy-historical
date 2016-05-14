@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybestclick.net privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205191308id_/http%3A//www.mybestclick.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybestclick.net privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514071254id_/http%3A//mybestclick.net/privacy.php) for the most accurate reproduction.*
 
 # Mybestclick - Pay Per Click advertising network - PPC
 
