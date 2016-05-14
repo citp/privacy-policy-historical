@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailynews.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228021127id_/http%3A//www.dailynews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailynews.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514154123id_/http%3A//www.dailynews.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
