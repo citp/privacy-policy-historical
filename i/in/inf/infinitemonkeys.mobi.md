@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infinitemonkeys.mobi privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508190131id_/http%3A//www.infinitemonkeys.mobi/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infinitemonkeys.mobi privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514051629id_/https%3A//www.infinitemonkeys.mobi/Privacy-Policy) for the most accurate reproduction.*
 
 # App Creator Software Privacy Policy
 
