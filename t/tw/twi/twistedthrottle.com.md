@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the twistedthrottle.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905111647id_/http%3A//www.twistedthrottle.com/articles/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twistedthrottle.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514110738id_/http%3A//www.twistedthrottle.com/articles/privacy) for the most accurate reproduction.*
 
-# Privacy - TwistedThrottle.com
+# Privacy | TwistedThrottle.com
 
 We always welcome your questions and feedback. For privacy-related issues, please  **[Contact Us](http://www.twistedthrottle.com/contact)**. 
 
