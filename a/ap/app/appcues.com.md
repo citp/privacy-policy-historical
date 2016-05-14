@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the appcues.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123003647id_/http%3A//appcues.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appcues.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514160953id_/http%3A//www.appcues.com/privacy) for the most accurate reproduction.*
 
-# Appcues Privacy Policy — Appcues
+# Appcues Privacy Policy
+
+### Privacy Policy
 
 We are committed to protecting your personal information.
 
