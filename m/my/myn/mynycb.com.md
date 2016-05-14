@@ -1,149 +1,53 @@
-> *The following text is extracted and transformed from the mynycb.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126110655id_/http%3A//mynycb.com/documents/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynycb.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514093941id_/https%3A//www.mynycb.com/Pages/Privacy.aspx) for the most accurate reproduction.*
 
-# WHAT YOU NEED TO KNOW ABOUT YOUR PRIVACY
+# Consumer Online Privacy Policy
 
-        WHAT YOU NEED TO KNOW ABOUT YOUR PRIVACY
-Privacy Protection of Personal Information
-Protecting the privacy and confidentiality of our customers’ personal information is of utmost importance to New York
-Community Bancorp, Inc. and its family of companies, including:
-•    New York Community Bank and its divisions;
-•    New York Commercial Bank and its division;
-•    NYCB Mortgage Company, LLC (a subsidiary of New York Community Bank);
-•    CFS Investments, Inc. (a subsidiary of New York Community Bank); and
-•    Standard Funding Corp. (a subsidiary of New York Commercial Bank).
-(Each and all of the above companies are individually and collectively referred to as “NYCB”, “our”, “us” or “we” in
-this notice.)
-We value your business and the trust you put in us. To assist us in providing you the quality services and products that
-you request or to help meet your needs, we gather, maintain and use both public and nonpublic personal information
-about you on a routine basis. To assist you better in understanding how we use your personal information, we are
-providing you with the following statement describing our policies and practices with respect to the sharing of
-customer information. If your customer relationship with us terminates, or if you become an inactive customer, our
-privacy policy will continue to apply to you.
-This policy applies to information we receive, collect, or disclose in connection with products and services you request
-or obtain for personal, family or household purposes. This policy does not apply to information we receive, collect, or
-disclose in connection with products and services you request or obtain for business or commercial purposes.
-What Information Do We Collect?
-We collect nonpublic personal information about you from the following sources:
-•    Information we receive from you on applications or other forms;
-•    Information about your transactions with us, our affiliates, or others; and
-•    Information we receive from a consumer reporting agency.
-“Nonpublic personal information” means personally identifiable financial and other related information that is not
-available from public sources.
-What Information Do We Disclose?
-We may disclose all of the information that we collect, as described above, which includes, but is not limited to, the
-following kinds of nonpublic personal information:
-•    Information we receive from you on applications or other forms; such as your name, address, social security
-     number, assets and income;
-•    Information about your transactions with us (“Transaction Data”), or about your transactions with our affiliates or
-     others; such as your account balance, payment history, parties to your transactions, and your credit and debit card
-     usage; and
-•    Information we receive from a consumer reporting agency or other sources (“Third Party Data”); such as your
-     creditworthiness and credit history.
-Rev. 09/20/2010                                              1
+​Your privacy is important to us. This consumer online privacy statement (“Online Privacy Statement”) explains how we collect, share, use, and protect information when you visit or use this online service and any other online services offered by New York Community Bancorp, Inc., New York Community Bank, their affiliates and subsidiaries (collectively, “ **NYCB** ”, “ **We** ” or “ **Our** ”). This statement covers NYCB’s online services, including the myNYCB.com web site (the “ **Site** ”) and NYCB mobile services, as well as any interactions you may have while viewing content provided through an online digital advertising campaign.
+
+This Online Privacy Statement is provided with respect to content and services delivered and offered by NYCB in the United States. When using NYCB’s online services to receive information or to access the Site for transaction purposes, your information will be transferred or processed in the United States. Certain NYCB web site pages (e.g., a micro site) and NYCB social media sites may have terms regarding the privacy of your information in addition to those described in this Online Privacy Statement.  Please be sure to review the privacy disclosures for the specific NYCB Online service you are using.
+
+Our online services are NOT intended for children under 13. We do not knowingly collect personal information from children under 13 without parental consent.
+
+If you have a financial product or service with us, we will use and share any information that we collect from or about you in accordance with our [Consumer Privacy Notice](https://web.archive.org/Documents/Privacy%20Policy.pdf "Consumer Privacy Notice"), which gives you certain choices with respect to the use and sharing of your personal information.
+
+ **Information We Collect**  
+Personal Information.  When you visit or use our online services, we may collect personal information from or about you such as your name, e-mail address, mailing address, telephone number(s), account number, user name and password. We may also collect information about your third party accounts, social security number, driver’s license number and other data when you provide such information to apply for an account and/or use the Site and other online services and such collection is reasonably required for ordinary business purposes.
+
+Other Information and its Usage.   In addition to the personal information described above, we or our third party partners may collect certain information about your use of our online services. For example, we may capture certain location information (a zip code used in an ATM or branch locator), the IP address of the device you use to connect to the online service, the type of web browser you use, information about the last web site you came from before visiting the Site, and the parts of the Site you access during your visit. We or our third-party partners may also use cookies, web beacons or other technologies to collect and store other information about your visit to, or use of, the Site and our other online services. We may later associate the usage and other information we collect online with personal information we may have about you.
+
+NYCB Mobile.  For your convenience, NYCB enables you to access certain products and services through downloadable mobile applications and websites designed for access via a web browser used on a wireless device (“NYCB Mobile”). When you use NYCB Mobile, we may collect information such as unique device identifiers for your mobile device, your screen resolution and other device settings, information about your location, and analytical information about how you use your mobile device. We may include certain permissions for NYCB Mobile, including seeking permission to collect information about the geographic location of the mobile device you are using to access NYCB Mobile.
+
+Additional Sources of Information.   We also may collect information about you from additional online and offline sources, including co-branded web sites we may operate with partners or third-party commercial sources, such as credit reporting agencies. We may combine this information with the personal and other information we have collected about you under this Online Privacy Statement.
+
+ **How We Use the Information**
+
+We may use your personal information for a variety of reasons, including the following:
+
+  * to respond to your inquiries and/or requests
+  * to process applications and transactions
+  * to verify your identity in order to allow access to your account(s)
+  * to provide you with relevant information and promotions about products and services
+  * for business purposes such as data analysis, optimizing your web site and mobile experience, managing  your preferences, supporting risk management, and fraud monitoring and prevention
+  * to share, as permitted, with our affiliates and with third parties who agreed to keep it confidential and use it only to provide the services we have asked them to perform, as explained in our Consumer Privacy Notice
 
 
-To Whom Do We Disclose Information?
-We may disclose nonpublic personal information about you to affiliated and nonaffiliated third-party companies,
-which might include financial service providers (such as securities broker-dealers and insurance agents), retail
-businesses or direct marketers that we partner with, or other businesses that we believe can provide beneficial products
-or services to you. We may also disclose nonpublic personal information about you to nonaffiliated third parties as
-permitted or required by law. We may also disclose all of the information we collect, as described above, to companies
-that perform marketing services on our behalf or to other financial institutions with whom we have joint marketing
-agreements.
-Your Right to Opt-Out
-If you prefer that we not disclose nonpublic personal information about you to nonaffiliated third parties, you may opt-
-out of those disclosures, that is, you may direct us not to make those disclosures (other than those permitted or required
-by law). If you wish to opt-out of disclosures to nonaffiliated third parties, you may call the following toll-free
-numbers: 1-888-696-4444 for NYCB Mortgage Company, LLC and the AmTrust Bank and Ohio Saving Bank
-divisions of New York Community Bank; 1-877-786-6560 for all other divisions of New York Community Bank,
-1-800-535-2269 for New York Commercial Bank, or 1-800-526-2470 ext. 255 for Standard Funding Corp. Your
-election to opt-out will apply to all nonpublic personal information we have about you relating to or arising from
-products and services you request or obtain for personal, family or household purposes. If you have a joint account
-with one or more other individuals, an opt-out election sent by any one individual will apply to all nonpublic personal
-information we have about each of the owners of that joint account, relating to or arising from products and services
-any of those owners requests or obtains for personal, family or household purposes. If you choose to opt-out you may
-not receive certain information on products or services that may be of interest to you. The Fair Credit Reporting Act
-also allows you to opt-out from NYCB sharing non-transaction or other information (such as consumer credit report
-information) with affiliates. To opt-out please call the number(s) above.
-Notice to Vermont Residents Only: You do not have to call us to opt-out of disclosures to nonaffiliated third parties if
-(and while) you reside in Vermont. If (and while) you reside in Vermont, we will consider you to have automatically
-opted-out from NYCB disclosing nonpublic personal information about you to nonaffiliated third parties, other than:
-(1) those disclosures permitted or required by law; and (ii) other than disclosure of “Transaction Data” (as defined
-above) to our service providers and our joint marketing partners.
-If (and while) you reside in Vermont, we will only share “Transaction Data” (as defined above) with our service
-providers, our joint marketing partners, and as otherwise required or permitted by law. Sharing of any “Third Party
-Data” (as defined above) with nonaffiliated third parties will generally require your consent (unless such sharing is
-otherwise required or permitted by law).
-What Are Our Security Procedures?
-We understand that the protection of your nonpublic personal information is of the utmost importance. We restrict
-access to nonpublic personal information about you to those employees who have a business need to know the
-information, such as to provide products or services to you. We maintain physical, electronic, and procedural
-safeguards that comply with federal standards to guard your nonpublic personal information. Our employees are
-educated on the importance of maintaining the confidentiality of customer information.
-Rev. 09/20/2010                                              2
 
+**Cookies**  
+You can control whether or not to accept cookies. A ‘ **cookie** ’ is a small text file that a web server may place on your computer when you visit a web site. The file uniquely identifies a browser/computer and information stored in a cookie sent by a NYCB web page can only be read by NYCB (or a company we work with). You can modify your browser setting to either notify you when you receive a cookie so you can choose whether or not to accept it or set your browser to not accept cookies automatically. If you decide to not accept cookies, some features and services on the Site may not work properly because we may not be able to recognize and associate you with your account(s). 
 
-                                      Notice to California Customers
-                                        Important Privacy Choices for Consumers
-                    You have the right to control whether we share some of your personal information.
-                   Please read the following information carefully before you make your choices below.
- Your Rights
- You have the following rights to restrict the sharing of personal and financial information with our affiliates (companies we own
- or control) and outside companies that we do business with. Nothing in this form prohibits the sharing of information necessary
- for us to follow the law, as permitted by law, or to give you the best service on your accounts with us. This includes sending you
- information about some other products or services.
- Your Choices
- Restrict Information Sharing With Companies We Own or Control (Affiliates): Unless you say “No,” we may share
- personal and financial information about you with our affiliated companies.
- [ ] NO, please do not share personal and financial information with your affiliated companies.
- Restrict Information Sharing With Other Companies We Do Business With To Provide Financial Products And
- Services: Unless you say “No,” we may share personal and financial information about you with outside companies we contract
- with to provide financial products and services to you.
- [ ] NO, please do not share personal and financial information with outside companies you contract with to provide financial
- products and services.
- --------------------------------------------------------------------------------------------------------------------------------------------
- Time Sensitive Reply
- You may make your privacy choice(s) at any time. Your choice(s) marked here will remain unless you state otherwise.
- However, if we do not hear from you we may share some of your information with affiliated companies and other companies
- with whom we have contracts to provide products and services.
- To exercise your choices do the following:
- Fill out, sign and send back this form to us using the envelope provided (you may want to make a copy for your records).
- Name: ___________________________________________
- Account Number(s):_________________________________
- Signature: ________________________________________
-Rev. 09/20/2010                                                              3
+**Web Site Tracking**  
+We try and place advertisements where we think they will be most relevant to our customers. Third party companies we work with may place and track our advertisements on third-party websites. As there is no technical standard for how Do Not Track consumer browser settings should work on commercial websites, the marketing industry has undertaken certain self-regulatory initiatives to provide consumers with a choice of the types of ads they may see online and to enable them to opt-out from online behavioral ads served by some or all of the companies participating in these programs reasonably conveniently. Because of the absence of such technical standards, we cannot ensure that the Site will respond to Do Not Track consumer browser settings in any particular instance.  
 
+If you prefer to not receive targeted advertising, you can opt out of some network advertising programs that use your information by visiting the Network Advertising Alliance (“NAI”) site at <http://www.networkadvertising.org/choices/>. This will not avoid you from seeing any ads, but will avoid having any relate to your interests as determined during your web browsing. The NAI web site also offers a tool that identifies its member companies that have placed cookies on your browser and provides links to those companies. Please note that network advertising companies that provide these services have their own privacy policies and are not subject to our Online Privacy Statement.
 
-                (This page is intentionally left blank)
-Rev. 09/20/2010                    4
+ **Security**  
+Protecting your information is a priority of NYCB. We protect your information with reasonable physical, electronic and procedural safeguards that comply with Federal standards. For more information about our commitment to security and for tips about what you can do to help guard against fraud and identity theft, visit our [Security Center](https://web.archive.org/Pages/SecurityCenter.aspx "Security Center Link").
 
+**Accuracy of Information**  
+Keeping your account information accurate and up-to-date is important. You may review or update certain information by logging on to NYCB Online. You may also contact us by using the Customer Service option on our website or you may contact your local branch.
 
-                                                Marketing Opt-out Notice
-•   The NYCB family of companies is providing this notice.
-•   Federal law gives you the right to limit some but not all marketing from the NYCB companies. Federal law also
-    requires us to give you this notice to tell you about your choice to limit marketing from the NYCB family of
-    companies.
-•   You may limit the NYCB Family of Companies, such as the New York Community Bank, New York Commercial
-    Bank, NYCB Mortgage Company, LLC, CFS Investments, Inc. and Standard Funding Corp. affiliates, from
-    marketing their products or services to you based on your personal information that they receive from other NYCB
-    companies. This information includes your income, your account history, and your credit score.
-•   Your choice to limit marketing offers from the NYCB companies will apply until you tell us to change your
-    choice.
-•   To limit marketing offers, contact us by telephone at:
-    ¾ For NYCB Mortgage Company, LLC and the AmTrust Bank and Ohio Savings Bank
-         divisions of New York Community Bank.................................................................................…1-888-696-4444
-    ¾ For all other divisions of New York Community Bank….……………………………………...1-877-786-6560
-    ¾ For New York Commercial Bank….……………………...…………………………………….1-800-535-2269
-NOTE:         Please DO NOT fill out the form below for any of the divisions or affiliates of NYCB above, the form
-              below is for Standard Funding Corp Opt Out ONLY.
- (cut along dotted line) - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-For Standard Funding Corp ONLY, check the box, complete the form, and send the form to:
-                                                              Standard Funding Corp.
-                                                             335 Crossways Park Drive
-                                                           Woodbury, New York 11797
- Do not allow your affiliates to use my personal information to market to me.
-Name: _________________________________________________________________________________________
-Address: _______________________________________________________________________________________
-Account Number(s): ______________________________________________________________________________
-Signature: ______________________________________________________________________________________
-Rev. 09/20/2010                                                                5
+**Notice of Changes**  
+NYCB reserves the right to amend this Online Privacy Statement from time to time without prior notice. By including the ‘Effective Date’ of this Online Privacy Statement, as indicated below, the last time it was revised or materially changed is made clear and enables you to determine whether there have been any changes since you last reviewed this Online Privacy Statement. Please review periodically.
+
+ **Effective Date**  
+This Online Privacy Statement was last modified on December 2, 2015.
