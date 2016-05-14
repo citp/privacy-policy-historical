@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the arri.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127045723id_/http%3A//www.arri.com/corporate/about_arri/legal/privacy_declaration.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arri.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515014103id_/https%3A//www.arri.com/corporate/about_arri/legal/privacy_declaration.html) for the most accurate reproduction.*
 
 # ARRI Group: Privacy Declaration
 
 **Privacy Declaration**
 
-Arnold & Richter Cine Technik GmbH & Co. Betriebs KG (hereafter known as ARRI) is obliged to protect your personal data. By using the website and the online content of ARRI, you agree in advance to this Privacy Declaration.  
+ARRI AG (hereafter known as ARRI) is obliged to protect your personal data. By using the website and the online content of ARRI, you agree in advance to this Privacy Declaration.  
 You personal data is collected, processed and used exclusively within the scope of the provisions of the privacy protection statutes (data protection statues) of the Federal Republic of Germany. Information concerning the nature, extent and purpose of the collection, processing and use of personal data is provided below. You can view this information at any time on our website. 
 
 **1\. Which data is collected, processed and used by ARRI**
@@ -88,7 +88,7 @@ ARRI does not knowingly acquire or collect personal data from children or about 
 If you need additional assistance or wish to submit a comment, request or declaration, please contact us at the following address or by means of one of the contact options stated below: 
 
 Address:  
-Arnold & Richter Cine Technik GmbH & Co. Betriebs KG  
+ARRI AG  
 Türkenstrasse 89  
 80799 Munich  
 Germany 
@@ -98,4 +98,4 @@ Tel.: +49 (0)89 3809 0
 Fax: +49 (0)89 3809 1244  
 E-mail: [webmaster@arri.de](mailto:webmaster@arri.de)
 
-Last updated: 2010
+Last updated: 2016
