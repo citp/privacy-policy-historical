@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the icicilombard.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120053335id_/https%3A//www.icicilombard.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icicilombard.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514132021id_/https%3A//www.icicilombard.com/privacy-policy.html) for the most accurate reproduction.*
 
-# privacy-policy
+# ICICI Lombard Privacy Policy
 
 We value you as a customer and respect your right to privacy. In the process of operating the Web Site, we may become aware of information relating to you, including information that is of a confidential nature. We are strongly committed to protecting your privacy online and have taken steps to protect such information. To aid us in protecting your privacy, you should maintain secrecy of your login ID and password, if any, provided to you in connection with your account with www.icicilombard.com
 
@@ -108,8 +108,8 @@ If you have any questions or suggestions regarding our privacy policy, please co
 
 The Website team  
 ICICI Lombard General Insurance Company,  
-401-402, Interface Bldg; No.11,  
-Link Road, Malad (West),  
-Mumbai - 400064.  
-Tel No. +91 22 3983 9999.  
-Email: [insuranceonline@icicilombard.com](mailto:insuranceonline@icicilombard.com)
+ICICI Lombard House, 414, Veer Savarkar Marg,  
+Near Siddhi Vinayak Temple,  
+Prabhadevi, Mumbai - 400025.
+
+Email: [customersupport@icicilombard.com](mailto:customersupport@icicilombard.com)
