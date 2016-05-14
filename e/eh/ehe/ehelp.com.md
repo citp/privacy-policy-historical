@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehelp.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909201248id_/http%3A//www.ehelp.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehelp.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514110624id_/http%3A//www.ehelp.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - eHelp.com
 
