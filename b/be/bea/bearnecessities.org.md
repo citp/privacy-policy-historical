@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bearnecessities.org privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216051844id_/http%3A//bearnecessities.org/files/PrivacyStatement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bearnecessities.org privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514164118id_/http%3A//www.bearnecessities.org/wp-content/uploads/2016/03/PrivacyStatement.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
