@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the foxtel.com.au privacy policy that was archived on 2015-11-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151109121431id_/http%3A//www.foxtel.com.au/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the foxtel.com.au privacy policy that was archived on 2016-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160514085922id_/https%3A//www.foxtel.com.au/about/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
+<!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta name="keywords" content="">
     <meta name="description" content="Foxtel privacy policy and methods of opting out of direct and behaviourally targeted marketing.">
@@ -24,7 +24,9 @@
     
 
 <title>Privacy</title>
-    <script type="text/javascript" src="/etc/designs/foxtel/clientlibs.min.js"></script>
+    <script type="text/javascript" src="/etc/designs/foxtel/modules/error-handler.min.js"></script>
+<script type="text/javascript" src="/etc/designs/foxtel/common/foxtel-global-namespace.min.js"></script>
+<script type="text/javascript" src="/etc/designs/foxtel/clientlibs-js.min.js"></script>
 <script type="text/javascript">var globalPageNotFoundUrl="/got/login/genericpage.html";</script>
 
    <!-- INITIALISE THE DATA LAYER -->
@@ -73,7 +75,21 @@
                 dataLayer.push({
                     clientTimeOffset: clientTimeOffset
                 });
+
+                // temporary store the email address as it gets corrupted after the next call (dataLayer.push..) in some circumstances
+                var validEmailField = false;
+                var email ="";
+                if(userdata.user&&userdata.user.account&&userdata.user.account.email){
+                    validEmailField = true;
+                    email = userdata.user.account.email;
+                }
+
                 dataLayer.push(userdata);
+
+                // now restore the valid email address ..
+                if(validEmailField){
+                    userdata.user.account.email = email;
+                }
                 dataLayer.push({
                     trigger: "userObjectPopulated"
                 });
@@ -101,6 +117,10 @@
                 dataLayer.push({
                     trigger: "initLoadComplete"
                 });
+            });
+
+            window.$accountData.done(function(userObj){
+                window.accountData = userObj;
             });
         </script>
    
@@ -159,8 +179,8 @@
     });
 </script>
 </div>
-<div class="parbase gheadercomp"><header class="global-header-customer" data-toggleresponsive="open" data-class-toggle="open">
-    <script>
+<div class="parbase gheadercomp"><header class="global-header-customer navbar navbar-default navbar-fixed-top" data-toggleresponsive="open" data-class-toggle="open">
+    <script type="text/javascript">
         function doOpenDlg(url, path) {
             var d = CQ.WCM.getDialog(url);
             var reloadPage = true;
@@ -180,20 +200,31 @@
     <script type="text/javascript">
 
         var checkLogged = function() {
+
+            var isFoxtelPlay =  function() {
+                return location.href.indexOf("/foxtelplay/") > -1;
+            };
+
             $.ajax({
                 url: "/bin/foxtel/display-name.json",
                 dataType: 'json',
                 type: 'GET',
                 jsonp: false,
                 success: function(data) {
-                    if (typeof data.first_name === "undefined") {
+                    if (typeof data === "undefined" || typeof data.first_name === "undefined") {
                         $("#logged-in").hide();
                         $("#logged-out").show();
                         $("#account-login-text").html("ACCOUNT LOGIN");
-                    } else {
+                        window.userObj = new Object();
+                    } else if(isFoxtelPlay() === data.isPlayRole || !isFoxtelPlay() === !data.isPlayRole) {
                         $("#logged-in").show();
                         $("#logged-out").hide();
                         $("#account-login-text").html(data.first_name + "'S ACCOUNT");
+                    }else{
+                        $("#logged-in").hide();
+                        $("#logged-out").show();
+                        $("#account-login-text").html("ACCOUNT LOGIN");
+                        window.userObj = new Object();
                     }
                 },
                 error: function() {
@@ -285,7 +316,7 @@
 	                            <form action="/got/search.html" autocomplete="off" method="get" class="top-search-form hidden-xs" id="top-search-form">
 	                                <label for="top-search-text" class="is-hidden"></label>
 	                                <input type="text" name="q" class="top-search-text" id="top-search-text" value="Search" onblur="if (this.value == '') this.value = 'Search';" onfocus="if (this.value == 'Search') this.value = '';" data-autocomplete="top-site-search" data-default-value="Search" data-autocomplete-link="https://www.foxtel.com.au/search-service/v1/suggest" data-autocomplete-category="TV Guide|Support|Products and Features">
-	                                <input type="submit" class="btn-top-search">
+	                                <input type="image" class="btn-top-search" src="/etc/designs/foxtel/assets/images/blank.gif">
 	                            </form>
 	                        </div>
 	                    </div>
@@ -321,7 +352,7 @@
         <!--CPM 03-->
             <div class="gpagesubnav parbase"><div class="menu-group">
     <ul class="sub-nav-1">
-        <li class="landing"><a href="javascript:;" title="">Foxtel Privacy Policy and Opt-Outs</a></li>
+        <li class="landing"><a href="/got/whats-on/foxtel-insider.html" title="">Foxtel Privacy Policy and Opt-Outs</a></li>
         </ul>
     <div class="sub-navigation">
         <div class="container">
@@ -363,8 +394,7 @@
 					</picture>
         <span class="dark-shadow"></span>
     </div>
-    
-</div>
+    </div>
 <!-- END CMP-02 Cinematic image -->
       </div>
   
@@ -377,18 +407,24 @@
 			<div class="parsys par_col1"><div class="parbase subheader section"><p class="callout-sm">Foxtel Marketing and Your Privacy</p>
         </div>
 <div class="wysiwygcomp basecomp section"><div class="wysiwyg">
-	<p>We will always use any personal information we have on you with a strict level of confidence. We use it to ensure that we can talk to you about ways to enhance your Foxtel service, how to find the content you like, tell you about new services and applications and give you access to offers that we think will help you get the most out of your Foxtel Service. We will also use the information to provide you access to exclusive experiences that are linked to your preferences.</p>
-</div></div>
-<div class="parbase section gcolumnctrl5050comp"><div class="row">
+            <p>We will always use any personal information we have on you with a strict level of confidence. We use it to ensure that we can talk to you about ways to enhance your Foxtel service, how to find the content you like, tell you about new services and applications and give you access to offers that we think will help you get the most out of your Foxtel Service. We will also use the information to provide you access to exclusive experiences that are linked to your preferences.</p>
+</div>
+</div>
+<div class="parbase section gcolumnctrl5050comp"><div class="row ">
 		<div class="col-sm-6 ">
 			<div class="parsys par_col1"><div class="parbase subheader section"><p class="callout-sm">Privacy Policy</p>
         </div>
 <div class="wysiwygcomp basecomp section"><div class="wysiwyg">
-	<p>We want you to be aware of how we collect, use and disclose information about you. How we manage your information is set out in our Privacy Policy which is available on our&nbsp;<a adhocenable="false" href="/about/privacy/privacy-policy.html">Privacy Policy page</a>.<br>
+            <p>We want you to be aware of how we collect, use and disclose information about you. How we manage your information is set out in our Privacy Policy which is available on our&nbsp;<a adhocenable="false" href="/about/privacy/privacy-policy.html">Privacy Policy page</a>.<br>
 &nbsp;</p>
-</div></div>
-<div class="htmlsnippetcomp basecomp section"><div class="snippet">
-    <div class="parbase button section"><a href="/about/privacy/privacy-policy.html" class="btn btn-primary" style="text-decoration:none">Privacy Policy</a></div></div>
+</div>
+</div>
+<div class="htmlsnippetcomp basecomp section"><div class="snippet ">
+    <div class="parbase button section"><a href="/about/privacy/privacy-policy.html" class="btn btn-primary" style="text-decoration:none">Current Privacy Policy</a></div>
+</div>
+
+
+
 </div>
 
 </div>
@@ -397,26 +433,34 @@
 			<div class="par_col2 parsys"><div class="parbase subheader section"><p class="callout-sm">Opting Out</p>
         </div>
 <div class="wysiwygcomp basecomp section"><div class="wysiwyg">
-	<p>If you do not wish to receive marketing communications from Foxtel, find out how you can opt out of direct marketing, and behaviourally targeted digital marketing on our <a adhocenable="false" href="/about/privacy/opt-outs.html">Opt Outs page</a>.<br>
+            <p>If you do not wish to receive marketing communications from Foxtel, find out how you can opt out of direct marketing, and behaviourally targeted digital marketing on our <a adhocenable="false" href="/about/privacy/opt-outs.html">Opt Outs page</a>.<br>
 &nbsp;</p>
-</div></div>
-<div class="htmlsnippetcomp basecomp section"><div class="snippet">
+</div>
+</div>
+<div class="htmlsnippetcomp basecomp section"><div class="snippet ">
     <div class="parbase button section"><a href="/about/privacy/opt-outs.html" class="btn btn-primary" style="text-decoration:none">Opt Outs</a></div></div>
+
+
+
 </div>
 
 </div>
 </div>
 	</div>
 </div>
-<div class="parbase section gcolumnctrl5050comp"><div class="row">
+<div class="parbase section gcolumnctrl5050comp"><div class="row ">
 		<div class="col-sm-6 ">
 			<div class="parsys par_col1"><div class="parbase subheader section"><p class="callout-sm">Privacy Notice</p>
         </div>
 <div class="wysiwygcomp basecomp section"><div class="wysiwyg">
-	<p>We collect information about you at various times, such as when you first become a customer, or if you enter a competition. The Privacy Notice sets out the types of information we collect, plus details when and how we may use that information.</p>
-</div></div>
-<div class="htmlsnippetcomp basecomp section"><div class="snippet">
+            <p>We collect information about you at various times, such as when you first become a customer, or if you enter a competition. The Privacy Notice sets out the types of information we collect, plus details when and how we may use that information.</p>
+</div>
+</div>
+<div class="htmlsnippetcomp basecomp section"><div class="snippet ">
     <div class="parbase button section"><a href="/content/dam/foxtel/about/PDF/privacy-notice.pdf" class="btn btn-primary" target="_blank" style="text-decoration:none">Privacy Notice</a></div></div>
+
+
+
 </div>
 
 </div>
@@ -425,10 +469,14 @@
 			<div class="par_col2 parsys"><div class="parbase subheader section"><p class="callout-sm">Credit Information</p>
         </div>
 <div class="wysiwygcomp basecomp section"><div class="wysiwyg">
-	<p>In certain circumstances we may be a credit provider to you. We do not collect your information from, or disclose it to, any credit reporting bodies. For more information about how we collect and handle credit information please refer to our <a adhocenable="false" href="/about/privacy/privacy-policy.html">Privacy Policy page</a>.</p>
-</div></div>
-<div class="htmlsnippetcomp basecomp section"><div class="snippet">
+            <p>In certain circumstances we may be a credit provider to you. We do not collect your information from, or disclose it to, any credit reporting bodies. For more information about how we collect and handle credit information please refer to our <a adhocenable="false" href="/about/privacy/privacy-policy.html">Privacy Policy page</a>.</p>
+</div>
+</div>
+<div class="htmlsnippetcomp basecomp section"><div class="snippet ">
     <div class="parbase button section"><a href="/about/privacy/privacy-policy.html#creditinformation" class="btn btn-primary" style="text-decoration:none">Credit Information</a></div></div>
+
+
+
 </div>
 
 </div>
@@ -452,7 +500,7 @@
     </div>
 </main><div class="par parsys">
 </div>
-<div class="footernavigationcomp basecomp"><script>
+<div class="footernavigationcomp basecomp"><script type="text/javascript">
 	function doOpenDlg(url, path) {
 		var d = CQ.WCM.getDialog(url);
 		var reloadPage = true;
@@ -469,6 +517,34 @@
 		}
 	}
 </script>
+
+<script type="text/javascript">
+
+    var checkLoggedforFooter = function() {
+        $.ajax({
+            url: "/bin/foxtel/display-name.json",
+            dataType: 'json',
+            type: 'GET',
+            jsonp: false,
+            success: function(data) {
+               if (typeof data === "undefined" || typeof data.first_name === "undefined") {
+                    $("#account-login-text-footer").html("My Account");
+                } else {
+                    $("#account-login-text-footer").html(data.first_name + "'s account");
+                }
+            },
+            error: function() {
+                $("#account-login-text-footer").html("Account login");
+            },
+            complete: function() {}
+        });
+    };
+
+    $( document ).ready(function() {
+        checkLoggedforFooter();
+    });
+</script>
+
 	
 <div class="footer-nav-global">
 		<div class="container-fluid border-container">
@@ -545,7 +621,7 @@
         <div class="container">
             <div class="navbar-global" role="contentinfo">
                 <div class="navbar-footer-global">
-                    <p class="copyright"><span itemscope="" itemtype="http://schema.org/Organization">© <span itemprop="name">Foxtel</span> 2015</span></p>
+                    <p class="copyright"><span itemscope="" itemtype="http://schema.org/Organization">© <span itemprop="name">Foxtel</span> 2016</span></p>
                     <a class="navbar-toggle-global hidden-lg hidden-md hidden-sm" data-toggle="collapse" href="#navbar-1">Disclaimer and more...</a>
                 </div>
                 <nav class="navbar-collapse-global hidden-xs" id="navbar-1" role="navigation">
