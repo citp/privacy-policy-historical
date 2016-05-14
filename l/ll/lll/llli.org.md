@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the llli.org privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018105908id_/http%3A//www.llli.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the llli.org privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514102736id_/http%3A//www.llli.org/privacy) for the most accurate reproduction.*
 
 # LLLI | Privacy Policy
 
@@ -70,11 +70,10 @@ LLLI prefers to keep the personal information it collects as accurate and up-to-
 ####   
 How Can You Opt Out of Communications From Us or Remove Your Information From Our Database?
 
-If you do not wish to receive communications or information from us or our affiliates, or if you wish to have your personal information removed from our database, you may call us at (847) 519-7730 x240, mail your request to La Leche League International, 957 N. Plum Grove Road Schaumburg, IL 60173 USA, or email us at fdassociate@llli.org and provide us with your request. 
+If you do not wish to receive communications or information from us or our affiliates, or if you wish to have your personal information removed from our database, you may call us at (847) 519-7730 x240, mail your request to La Leche League International, 957 N. Plum Grove Road Schaumburg, IL 60173 USA, or email us at fdassociate@llli.org and provide us with your request.
 
 ####   
-What Websites Does This Policy Cover?  
-
+What Websites Does This Policy Cover?
 
 For your convenience and information, our website may contain links to other websites (“linked websites”), which may have privacy policies that differ form our own.  This Privacy Policy applies only to our Website, www.llli.org, which is owned and operated by LLLI.  LLLI does not evaluate and is not responsible for the content, information collection and use practices, or security measures of any linked website.  We recommend that you review the privacy and security policies of any linked website that you access through www.llli.org.
 
@@ -92,14 +91,13 @@ If you have any questions or concerns about our privacy policies or data use, wi
 
 email:  fdassociate@llli.org
 
-telephone (office administration): 1+847-519-7730 x240  or 1+800-LALECHE (525-3243)  
-telephone (order department): 1+847-519-9585
+telephone (office administration): 1+312-646-6260
 
-facsimile: 1+847-969-0460 
+facsimile: 1+312-644-8557
 
 La Leche League International  
-957 N. Plum Grove Road   
-Schaumburg, IL 60173   
+35 E. Wacker Dr., Suite 850   
+Chicago, IL 60601  
 USA
 
 ####   
@@ -107,6 +105,6 @@ What About Changes to This Privacy Policy?
 
 LLLI reserves the right, in its sole discretion, to modify, alter or otherwise update this Privacy Policy at any time and you agree to be bound by such modifications, alterations or updates.  We will notify you of material changes to this Privacy Policy by posting the revised Privacy Policy with the date it was revised on this page.  Your continued use of our Website constitutes your agreement to this Privacy Policy and any updates.  We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the personal information we collect. 
 
-#### Last Revised: November 25, 2008
+#### Last Revised: January 17, 2015
 
 [](http://www.addthis.com/bookmark.php?v=250&pub=xa-4a8b35070f50b60a)
