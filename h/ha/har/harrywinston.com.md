@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harrywinston.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906020211id_/http%3A//www.harrywinston.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrywinston.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514214411id_/http%3A//www.harrywinston.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Harry Winston
 
@@ -9,7 +9,7 @@ Here are a few general principles to keep in mind as you read through this Polic
   * The Website is owned and operated by Harry Winston, Inc. and its corporate affiliates (referred to collectively in this policy as “we,” “us,” “our” and other similar pronouns).
   * California’s Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternatively, businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes unless the customer has opted-in to such information sharing. Accordingly, we will not share your personal information with third parties other than our affiliates for the third party’s own marketing purposes unless you opt-in, for example by checking a consent check box when providing us with your information. We will, however, share your personal information with our affiliates for marketing purposes. To request a list of the affiliates with whom we have shared your personal information for marketing purposes in the last year, write to us at Harry Winston, 718 Fifth Avenue, New York, NY 10019 and include the words “California Shine The Light Request” in the “Regarding” line.
   * As our business evolves, this Policy may change, so check back to this page periodically to make sure you understand how your personal information will be treated.
-  * This Policy is incorporated into, and part of, our [Terms of Use](https://web.archive.org/legal-terms), which govern your use of our Websites as a whole.
+  * This Policy is incorporated into, and part of, our [Terms of Use](https://web.archive.org/terms-use), which govern your use of our Websites as a whole.
   * If you are located outside of the United States, you should know that the information you provide to us is being transmitted to us and processed in the United States and will be protected subject to this privacy policy and United States laws, which may not be as protective as the laws in your country. Also, this Website places cookies and local shared objects on your computer or device which are further described below.
 
 
@@ -34,7 +34,7 @@ A “tell-a-friend” tool provided on the Website and/or in our e-mails allows 
 ##### Website Usage Information
 
 As is the case with many websites, our servers automatically collect your IP address when you visit our Website, and we may associate that with your domain name or that of your Internet access provider. We may also capture certain “clickstream data” pertaining to your Website usage. Clickstream data includes, for example, information about your computer or device, Web browser and operating system and their settings, the referring page that linked you to the Website, the pages, content or ads you see or click on during your visit and when and for how long you do so, items you download, the next website you visit when you leave the Website, and any search terms you have entered on the Website or a referral site.  
-To opt-out of your Site usage being included in our Google analytics reports, you may follow these [instructions](https://tools.google.com/dlpage/gaoptout).  
+To opt-out of your Site usage being included in our Google analytics reports, you may follow these [instructions](https://tools.google.com/dlpage/gaoptout?hl=en).  
 In addition, we may deploy various tracking technologies on the Website to collect additional information about your Website visits. For example:
 
   * Cookies are small data files stored on your computer or device at the request of a website. A cookie assigns a unique numerical identifier to your Web browser, and may enable us to recognize you as the same user who was at our Website in the past, and relate your use of the Website to other information about you, such as your Website usage information and Personal Information. Cookies may also be used to enhance your experience on the Website (for example, by storing your username so you can log in easily, keeping you logged into the Website after you have provided your password, and storing the contents of your shopping cart as you browse) or to collect general usage and aggregated statistical information and detect and prevent fraud. Most browsers can be set to detect cookies and give you an opportunity to reject them, but refusing cookies may, in some cases, inhibit or preclude your use of the Website or its features. To learn more about the use of cookies, including how to manage or delete them, [click here.](http://www.allaboutcookies.org/)
@@ -128,11 +128,5 @@ We may change this Policy from time to time. When we do, we will let you know by
 Contact us
 
 If you have any questions or comments regarding our privacy practices, you may contact us at:
-
-Harry Winston  
-1330 Avenue of the americas new york, ny 10019 u.s.a  
-phone. 1-800-988-4110
-
-We also can be reached by e-mail at [clientservices@harrywinston.com](mailto:clientservices@harrywinston.com).
 
 Effective Date: July 7th 2015
