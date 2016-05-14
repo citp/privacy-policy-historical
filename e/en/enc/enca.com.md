@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the enca.com privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030065631id_/http%3A//www.enca.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enca.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514103121id_/http%3A//www.enca.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | eNCA
+# Privacy Policy
 
 eNews Channel Africa (eNCA) respects your privacy and is committed to protecting it. This Privacy Policy is intended to inform you of our Privacy Policy and of the choices you can make about the way your information is collected online and how that information is utilised by us. Certain pages on our website have been structured so that you can access the site without identifying yourself or revealing any personal information. However, should you wish to make full use of the eNCA site, you may be required to register and provide us with personal information. We have therefore made this notice available on our home page and at the bottom of every page that collects personal information.
 
