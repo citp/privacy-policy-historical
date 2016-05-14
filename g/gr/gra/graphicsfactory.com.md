@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graphicsfactory.com privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814201734id_/http%3A//www.graphicsfactory.com/g-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphicsfactory.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514102402id_/http%3A//www.graphicsfactory.com/g-privacy.html) for the most accurate reproduction.*
 
 # Graphics Factory.com's Privacy Policy
 
