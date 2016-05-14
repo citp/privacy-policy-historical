@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyhomeblog.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108055328id_/http%3A//www.moneyhomeblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyhomeblog.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514202551id_/http%3A//www.moneyhomeblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
