@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the montgomeryschoolsmd.org privacy policy that was archived on 2015-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150714002445id_/http%3A//www.montgomeryschoolsmd.org/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the montgomeryschoolsmd.org privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514035124id_/http%3A//www.montgomeryschoolsmd.org/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Montgomery County Public Schools, Rockville, MD
 
@@ -66,6 +66,6 @@ We strive to maintain reasonable administrative, technical, and physical safegua
 
 ### Contact Information
 
-As the Sites evolves, MCPS may update this privacy statement. We will note the change on our home page to alert you to the modifications. Please contact us at [webmaster@mcpsmd.org](https://web.archive.org/web/20150714002445id_/http://www.montgomeryschoolsmd.org/info/privacy-policy/webmaster@mcpsmd.org) if you have comments or questions.
+As the Sites evolves, MCPS may update this privacy statement. We will note the change on our home page to alert you to the modifications. Please contact us at [webmaster@mcpsmd.org](https://web.archive.org/web/20160514035124id_/http://www.montgomeryschoolsmd.org/info/privacy-policy/webmaster@mcpsmd.org) if you have comments or questions.
 
 This Privacy Statement was last updated on February 13, 2015.
