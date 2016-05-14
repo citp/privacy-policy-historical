@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ip-address.org privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911042646id_/http%3A//www.ip-address.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ip-address.org privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515015737id_/http%3A//www.ip-address.org/privacy-policy.php) for the most accurate reproduction.*
 
 # IP Address - Disclaimer Privacy Policy
 
@@ -17,7 +17,7 @@ IP addresses, etc. are not linked to personally identifiable information.
 
 ### IP-Address.org, Cookies and Web Beacons
 
-A cookie is a piece of data stored on the user's computer tied to information about the user. IP-Address.org don't use cookies. 
+A cookie is a piece of data stored on the user's computer tied to information about the user. IP-Address.org don't use cookies by itself but our third party partners: Google Analytics, AdSense, Facebook use cookie as well for tracking the activity and advertising purposes. We do not have control over their cookie/ 
 
 ### Third party advertisements
 
@@ -39,8 +39,11 @@ Google's use of the DART cookie enables it to serve ads to our users based on th
 
 DART uses "non personally identifiable information". It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. 
 
-You can opt out of the use of the DART cookie by visiting the   
-[Google ad and content network privacy policy.](http://www.google.co.uk/privacy_ads.html)
+To find out how Google use cookies check out [Google cookies](https://www.google.com/policies/technologies/cookies/)
+
+You can opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.co.uk/privacy_ads.html)
+
+You can opt out Google Analytics by visiting the [Google Analytics Opt Out](https://tools.google.com/dlpage/gaoptout)
 
 ### IP Address News
 
