@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adornmonde.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113110155id_/http%3A//www.adornmonde.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adornmonde.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514212030id_/http%3A//www.adornmonde.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
