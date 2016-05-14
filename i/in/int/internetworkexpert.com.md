@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetworkexpert.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208220334id_/http%3A//www.ine.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetworkexpert.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514034807id_/http%3A//www.ine.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - INE
 
@@ -25,6 +25,10 @@ The following information may be collected for this analysis, including, but not
 
 
 Other than information voluntarily provided by visitors, INE does not collect personally identifiable information (such as name, email, or address).
+
+INE employs cookies, tracking pixels and related technologies for marketing purposes. Cookies are small data files that are stored on your device. Our site uses cookies dropped by us or third parties for marketing and personalization. Also, cookies may be used to track how you use the site to target ads to you on other websites.
+
+To opt-out of all external tracking, list the NAI opt-out site at [networkadvertising.org/choices](http://www.networkadvertising.org/choices/), or for those in Europe, the EDAA opt out site at [youronlinechoices.eu](http://www.youronlinechoices.com/).
 
 ### Information Provided Voluntarily
 
