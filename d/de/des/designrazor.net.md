@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designrazor.net privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209174857id_/http%3A//www.designrazor.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designrazor.net privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514040655id_/http%3A//www.designrazor.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |Designrazor
 
@@ -6,7 +6,7 @@ This privacy policy document outlines the user information collected by designra
 
 ### **When do we collect information?**
 
-We collect information from you when you subscribe to a newsletter.
+We collect information from you when you subscribe to our newsletter.
 
 ### **Do we collect personal information ?**
 
@@ -40,11 +40,9 @@ If you disable cookies off, some features will be disabled It won’t affect the
 
 We use regular Malware Scanning to ensure that our database is safe.
 
-We do not use an SSL certificate
-
 **•** We only provide articles and information, we never ask for personal or private information like email addresses, or credit card numbers
 
-_**email will stored in our servers if you are a subscriber._
+_**email will be stored in our servers if you are a subscriber._
 
 ### **Third party links**
 
@@ -52,6 +50,6 @@ We may include or offer third party products or services on our website. These t
 
 ## Changes to this privacy policies
 
-These privacy statement are subjected to change without prior notice. If you have any question, you may contact us at
+These privacy statement are subjected to change without prior notice. If you have any question, you may contact us through
 
 designrazor.net[at]gmail.com
