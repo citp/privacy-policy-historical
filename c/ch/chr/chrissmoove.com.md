@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chrissmoove.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210112639id_/http%3A//chrissmoove.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chrissmoove.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514221448id_/http%3A//chrissmoove.com/privacy-policy) for the most accurate reproduction.*
 
 # Chris Smoove » Youtube Gaming Personality » Privacy Policy
 
