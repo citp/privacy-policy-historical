@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sait.ca privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812140349id_/http%3A//www.sait.ca/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sait.ca privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514110752id_/http%3A//www.sait.ca/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | SAIT Polytechnic | Calgary, Alberta
+# Privacy Policy | SAIT | Calgary, Alberta
 
 ## Privacy Policy
 
@@ -10,7 +10,7 @@
 
 SAIT Polytechnic complies with new federal legislation for the sending of electronic messages. Canada's anti-spam legislation (CASL) regulates the sending of commercial electronic messages, including email, text, social media, advertising and cellphone communications that encourage participation in a commercial activity.
 
-[Opt in](http://sait.imodules.com/CASL) to receive commercial messages from SAIT Polytechnic.
+[Opt in](http://sait.imodules.com/CASL) to receive commercial messages from SAIT Polytechnic..
 
 Learn more about Canada's anti-spam legislation on [our FAQ page.](http://www.sait.ca/privacy-policy/canadian-anti-spam-legislation-and-sait.php)
 
