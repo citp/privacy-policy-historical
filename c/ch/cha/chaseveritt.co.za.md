@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chaseveritt.co.za privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517031402id_/http%3A//www.chaseveritt.co.za/privacy-policy-website) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chaseveritt.co.za privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515012555id_/http%3A//www.chaseveritt.co.za/privacy-policy-website) for the most accurate reproduction.*
 
 # Chas Everitt Privacy Policy | chaseveritt
 
