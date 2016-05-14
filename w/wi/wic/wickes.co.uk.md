@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wickes.co.uk privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114154844id_/http%3A//www.wickes.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wickes.co.uk privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514030850id_/http%3A//www.wickes.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,7 +46,7 @@ We may have to disclose your information by law or because a court or the police
 
 #### How is your information protected
 
-We take protection of your information seriously and have appropriate physical and technological security measures in place to keep it safe for further details please see our [Security Online](https://web.archive.org/security) section. Internally, we restrict access to personal information. Only employees who need the information in order to do their jobs have access to it. We never transfer your data outside of the UK.
+We take protection of your information seriously and have appropriate physical and technological security measures in place to keep it safe for further details please see our [Security Online](https://web.archive.org/security) section. Internally, we restrict access to personal information. Only employees who need the information in order to do their jobs have access to it.
 
 #### Changes to our privacy policy
 
