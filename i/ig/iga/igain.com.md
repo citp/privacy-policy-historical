@@ -1,22 +1,10 @@
-> *The following text is extracted and transformed from the igain.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317144602id_/http%3A//www.igain.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igain.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514104258id_/http%3A//www.igain.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - iGain
 
-**Last updated March 20, 2014.**
+ 
 
-Welcome to the Privacy Policy for the iGain website (the "Site"), owned and operated by massfinity, located at 300 Trade Center, Suite 6590, Woburn, MA 01801.
-
-This Privacy Policy describes how iGain will handle certain information on the Site. This Privacy Policy does not address information obtained from other sources such as submissions by mail, phone or other devices or from personal contact. In this Privacy Policy, the term "you" or “your” refers to the person accessing the Site and the entity you represent. By accessing and using the Site and/or providing information to iGain on the Site, you consent to the collection, use and disclosure of such information in accordance with this Privacy Policy. If you do not agree to the terms of this Privacy Policy, you may not access or use the Site.
-
-**What We Collect.**  iGain will regularly collect the IP address, browser type, pages accessed, duration of visit, etc. from visitors to our Site. This practice does not necessarily enable iGain to personally identify you, nor does iGain intend to.
-
-iGain may also collect and keep personal information when you choose to voluntarily submit such information. For example, if you choose to fill out one of the forms on the Site to register as a Publisher or Advertiser iGain will retain the information submitted by you. You should not submit any information, personal or otherwise, that you do not want to be retained.
-
-**Use By Adults 18 Years And Older.**  You must be 18 years of age or older to access and use the Site. iGain is intended only for persons 18 years of age or older.
-
-**NOTICE TO CHILDREN UNDER THE AGE OF 13 AND THEIR PARENTS OR LEGAL GUARDIANS:**  IF YOU ARE UNDER THE AGE OF 13 AND WOULD LIKE TO CONTACT IGAIN PLEASE DO SO THROUGH YOUR PARENTS OR LEGAL GUARDIANS. THIS SITE IS ONLY INTENDED FOR ADULTS. IGAIN DOES NOT KNOWINGLY COLLECT PERSONAL INFORMATION FROM CHILDREN UNDER THE AGE OF 13. IF YOU ARE UNDER THE AGE OF 13 PLEASE DO NOT SEND IGAIN ANY PERSONAL INFORMATION INCLUDING WITHOUT LIMITATION YOUR EMAIL ADDRESS, NAME AND/OR CONTACT INFORMATION.
-
-**Disclosure of your Information.**  Occasionally iGain may share email addresses collected on the Site with partners and other third parties. If you wish for your email address not to be shared, you should email iGain at [](mailto:%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy10845%20=%20'info'%20+%20'@';%20addy10845%20=%20addy10845%20+%20'igain'%20+%20'.'%20+%20'com';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy10845%20+%20'\\'%3E'\);%20document.write\(addy10845\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E)[info@igain.com](mailto:info@igain.com) . From time to time, iGain may also use your information for new, unanticipated uses not previously disclosed in this Privacy Policy. If iGain’s information practice materially changes we may periodically update this Privacy Policy to notify you of the changes. If you are concerned about how your information is used, check back at the Site frequently or you may contact iGain.
+. From time to time, iGain may also use your information for new, unanticipated uses not previously disclosed in this Privacy Policy. If iGain’s information practice materially changes we may periodically update this Privacy Policy to notify you of the changes. If you are concerned about how your information is used, check back at the Site frequently or you may contact iGain.
 
 **Cookies.**  To facilitate the use of Site, iGain employs the use of “cookies.” A "Cookie" is a string of information that a website stores on a user's computer, and that the user's browser provides to the website each time the user submits a query to the website. The purpose of a Cookie is to identify the user as a unique user of the Site.  **How You Can Change, Correct and Update Your Information.**  You may change certain of your information that we have on file for you at any time by visiting the Account Info page.
 
@@ -26,4 +14,14 @@ iGain may also collect and keep personal information when you choose to voluntar
 
 **Privacy Policy Changes.**  From time to time, iGain may periodically modify or update this Privacy Policy at its sole discretion. We encourage you to review this Privacy Policy regularly for any changes. Your continued access and use of the Site will be subject to the then-current Privacy Policy.
 
-How to Contact iGain. If You have questions about this Privacy Policy or if you wish that we modify or delete any of your personal information that we have collected, you can contact iGain by email at [](mailto:%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy87536%20=%20'info'%20+%20'@';%20addy87536%20=%20addy87536%20+%20'igain'%20+%20'.'%20+%20'com';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy87536%20+%20'\\'%3E'\);%20document.write\(addy87536\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E)[info@igain.com](mailto:info@igain.com) ; by phone at 800-651-1981; or by mail at massfinity, 300 Trade Center, Suite 6590, Woburn, MA 01801.
+How to Contact iGain. If You have questions about this Privacy Policy or if you wish that we modify or delete any of your personal information that we have collected, you can contact iGain by email at [info@igain.com](mailto:info@igain.com) ; by phone at 800-651-1981; or by mail at massfinity, 300 Trade Center, Suite 6590, Woburn, MA 01801.
+
+iGain is a pay-for-performance affiliate network owned by massfinity, a multi-platform marketing company. For more information on massfinity, please go [here](http://www.massfinity.com/). 
+
+  
+**iGain**  
+300 Trade Center,   
+Suite 3590   
+Woburn, MA 01801   
+617.340.8619  
+[info@igain.com ](mailto:info@igain.com)
