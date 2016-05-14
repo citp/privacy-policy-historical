@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beaumont.edu privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008033817id_/http%3A//www.beaumont.edu/patients-visitors/contact-us/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beaumont.edu privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515015518id_/http%3A//www.beaumont.edu/patients-visitors/contact-us/privacy-policies) for the most accurate reproduction.*
 
 # 
 
