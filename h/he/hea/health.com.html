@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the health.com privacy policy that was archived on 2015-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905063257id_/http%3A//cgi.health.com/cgi-bin/mail/dnp/privacy_centralized.cgi/health%3Fdnp_source%3DE) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the health.com privacy policy that was archived on 2016-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160514041122id_/http%3A//cgi.health.com/cgi-bin/mail/dnp/privacy_centralized.cgi/health%3Fdnp_source%3DE) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 
@@ -17,7 +17,7 @@ h1 {
 
 body { 
   margin: 0px 0px;
-  padding: 10px 5% 36px 5%;
+  padding: 10px 10% 36px 5%;
   background: #fff; 
   font-family: helvetica, arial, sans-serif; 
   font-size: 62.5%;
@@ -68,7 +68,7 @@ h1 { /*
   
   width: 420px; 
   height: 122px; 
-  cursor: pointer;
+  /*cursor: pointer;*/
   text-indent: -100%;
   white-space: nowrap;
   overflow: hidden;
@@ -199,7 +199,7 @@ function updateWidth(){
 
 <body id="top">
 
-<h1 onclick="window.open('http://www.health.com','_blank');">Health</h1>
+<h1>Health</h1>
 
 <h2>PRIVACY POLICY</h2>
 
@@ -353,173 +353,67 @@ Attention: Consumer Affairs<br>
 3000 University Center Drive<br>
 Tampa, Florida 33612-6408</address>
 
-  <p><a href="http://www.health.com">http://www.health.com</a></p>
+
 
 <p class="top"><a href="#top">back to top</a></p>
 
 <p>This Privacy Policy was revised Jan. 2, 2014.</p>
 
 <div style="display:none;">
-<!-- SiteCatalyst -->
+<!--Tealium Pixels-->
+<!-- Code to match mag for tealium -->
 
-<script type="text/javascript" src="https://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/js/omniture/accounts.js"></script>
-<script type="text/javascript">
-oOmn = (window.TCM_Omniture) ? TCM_Omniture : 0;
-oOmnVars = (oOmn) ? TCM_Omniture.vars : 0;
-var bizUnit="HA";
-var sAccount="null";
-if ( (!sAccount) || (sAccount=='null')) {
-	if ( (!bizUnit) || (bizUnit=='null')){bizUnit='shared';}
-	sAccount = (tmp=window.oOmn.account) ? tmp : ( ((window.aOmn)&&(tmp=aOmn[bizUnit])) ? (tmp) : 'timecm' );
-}
-if (sAccount) {
-	srcConfig = '<s'+'cript type="text/javascript" src="https://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/js/omniture/config/'+sAccount+'.js"><'+'/script>';
-	document.write(srcConfig);
-}
-</script><script type="text/javascript" src="https://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/js/omniture/config/timecm.js"></script>
-<!-- SiteCatalyst -->
-<script type="text/javascript">
-//VARIABLES SET ON ALL PAGE TYPES: FORM, TY, CONTINUE, CROSSELL, ETC
-s.pageName = "TCM_" + bizUnit + " : " + location.pathname;
-s.server=window.location.host;
-s.channel=s.prop16="Consumer Marketing";
-s.prop17=location.protocol + "//" + location.host + location.pathname;
+<script src="//tags.tiqcdn.com/utag/timeinc/subscriptionmicrosites/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript">
+  var TLMagCode="HA";
+  var TLEvrUrl= ""
+  var envURL=window.location.href;
  
- 
- 
-//END VARIABLES SET ON ALL PAGE TYPES: FORM, TY, CONTINUES, CROSSELL, ETC
- 
- 
- 
-   
+
+    if(!TLMagCode){
+      TLMagCode="TD" //If mag code doesnot match for our general used magazine
+     }
+
+    if(envURL.indexOf("cmbuild")>-1){
+      TLEvrUrl ="//tags.tiqcdn.com/utag/timeinc/subscriptionmicrosites/dev/utag.js";
+    } else if(envURL.indexOf("qa")>-1){
+      TLEvrUrl ="//tags.tiqcdn.com/utag/timeinc/subscriptionmicrosites/qa/utag.js";
+    } else {
+      TLEvrUrl="//tags.tiqcdn.com/utag/timeinc/subscriptionmicrosites/prod/utag.js";
+    }
+
   
- 
-//12-14-2010
- 
- 
-    
-/* custom variables */
-for (var oVar in window.oOmnVars) {
-	s[oVar] = oOmnVars[oVar];
-}
-/* end custom variables */
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();
-if(s_code){document.write(s_code);}
 </script>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
-
- 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
- 
-
- 
- 
-               
- 
-
- 
-               
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-     
- 
- 
-   
-   
- 
-    
-   
-    
-  
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-   
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- <!-- End SiteCatalyst -->
+<!-- start Tealium  -->
+<script type="text/javascript">
+          var utag_data = {
+      tcm_prefix : "TCM",
+      tcm_magcode : TLMagCode,
+      channel : "Consumer Marketing",
+      page_name : window.location.pathname,
+          template_type : "generic"
+          }
+        </script>
+<script type="text/javascript">
+  (function(a,b,c,d){
+    a=TLEvrUrl;
+    b=document;
+    c='script';
+    d=b.createElement(c);
+    d.src=a;
+    d.type='text/java'+c;
+    d.async=true;
+    a=b.getElementsByTagName(c)[0];
+    a.parentNode.insertBefore(d,a)
+  })();
+</script>
+<!-- End Tealium  -->
+<!--Tealium Pixels-->
 </div>
+
 
 
 
