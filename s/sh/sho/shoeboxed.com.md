@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the shoeboxed.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906224839id_/https%3A//www.shoeboxed.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoeboxed.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514022609id_/https%3A//www.shoeboxed.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Shoeboxed.com | Shoeboxed.com
+
+  * [Company](https://web.archive.org/about/)
+  * [Features](https://web.archive.org/features/)
+  * [Press](https://web.archive.org/press/)
+  * [Partners](https://web.archive.org/partners/)
+  * [FAQ](https://web.archive.org/faq/)
+  * [Contact](https://web.archive.org/contact/)
+  * [Sign Up for a Forever Free Account](https://register.shoeboxed.com/)
 
 Last Updated: July 16, 2015
 
@@ -67,6 +75,7 @@ The information users provide to Shoeboxed is integral to the functioning of the
   * Shoeboxed will release personal user information if it is required under the law or the Terms of Service, or is otherwise necessary to protect the rights, property or safety of Shoeboxed, its employees, users or others. We reserve the right to disclose your personal information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our site.
   * If Shoeboxed ever tries to share your personal information except as set forth above, it will contact you and you may prevent Shoeboxed from sharing this data by opting out.
   * If Shoeboxed Inc. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+  * Shoeboxed may directly or indirectly disclose to third parties, for their use in data analysis and marketing, data that includes information on the purchases that you have made, so long as we first de-identify that data by deleting all references to your name, address, e-mail address, phone number and credit card information, and disclose the de-identified data only in an aggregate or cumulative format that does not disclose your personal transaction history.
 
 
 
