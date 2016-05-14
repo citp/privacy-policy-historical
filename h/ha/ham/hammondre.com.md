@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hammondre.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315043358id_/http%3A//www.hammondre.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hammondre.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514110252id_/http%3A//www.hammondre.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Hammond Residential Real Estate, LLC
 
