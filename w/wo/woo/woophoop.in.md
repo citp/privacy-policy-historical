@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the woophoop.in privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112182843id_/http%3A//woophoop.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woophoop.in privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514044937id_/http%3A//woophoop.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Bollyinterest
+# Privacy Policy – Woophoop !!!
 
 woophoop.in respects the privacy of its users.woophoop.in privacy determines how we treat user information while user visits to our website and uses our services. It is important to us that our user retain their Privacy while pleasing the benefit of the services we offered.
 
