@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the poundland.co.uk privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908152132id_/http%3A//www.poundland.co.uk/legal/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poundland.co.uk privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514112808id_/http%3A//www.poundland.co.uk/legal/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | Poundland
 
-Poundland Limited (“We”) are committed to protecting and respecting your privacy. This policy (together with our [ **terms of use**](https://web.archive.org/web/20150908152132id_/http://www.poundland.co.uk/legal/legal/terms-of-use/)) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  We will not store or process any such personal data other than in accordance with the Data Protection Act 1998 (“the Act”).
+Poundland Limited (“We”) are committed to protecting and respecting your privacy. This policy (together with our [ **terms of use**](https://web.archive.org/web/20160514112808id_/http://www.poundland.co.uk/legal/legal/terms-of-use/)) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  We will not store or process any such personal data other than in accordance with the Data Protection Act 1998 (“the Act”).
 
 For the purpose of the Act the data controller is Poundland Limited, Wellmans Road, Willenhall, West Midlands, WV13 2QT, United Kingdom.
 
