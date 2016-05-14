@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spotlightstores.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506052027id_/http%3A//www.spotlightstores.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotlightstores.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514225657id_/http%3A//www.spotlightstores.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Spotlight Australia
 
@@ -23,7 +23,7 @@ Our Privacy Obligations
 This privacy policy sets out how we comply with our obligations under the
 
   * [_Privacy Act 1988_](http://www.comlaw.gov.au/Details/C2012C00903) (Australia);
-  *  _Privacy Act 1993_ (New Zealand);and
+  * [ _Privacy Act 1993_](http://www.legislation.govt.nz/act/public/1993/0028/latest/DLM296639.html) (New Zealand);and
   *  _Personal Data Protection Act 2012_ (Singapore).
 
 
@@ -213,6 +213,8 @@ Ensure you logout when you have finished visiting our websites especially if you
 Cookies are pieces of information that a website transfers to your computer for record-keeping purposes. The information collected may be used by SRG to improve your experience on our website.   
 If you visit an area of the website where you are not required to log on, to read, browse or download information, our system will record the date and time of your visit to our site, the pages viewed and any information downloaded.  
 Any personal information that you submit to us using our website or in an e-mail will only be used in accordance with this privacy policy.
+
+SRG websites use Google Analytics Services, for more information about cookies used, see [Google Cookies Policy](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage "Link to Google Analytics Cookie Usage").
 
 ### Links to third party sites
 
