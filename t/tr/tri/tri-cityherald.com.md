@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tri-cityherald.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920072032id_/http%3A//www.tri-cityherald.com/customer-service/privacy-policy/%23navlink%3Dmi_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tri-cityherald.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514102613id_/http%3A//www.tri-cityherald.com/customer-service/privacy-policy/%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
 # Privacy Policy | Tri-CityHerald.com & Tri-City Herald
 
