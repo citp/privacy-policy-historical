@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the teacherplanet.com privacy policy that was archived on 2015-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150828052013id_/http%3A//www.theeducatorsnetwork.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teacherplanet.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514174352id_/http%3A//www.teacherplanet.com/content/privacy-statement) for the most accurate reproduction.*
 
-# The Educators Network: Where Teachers Come First
-
-### PRIVACY STATEMENT 
+# Privacy Statement | Teacherplanet.com
 
 **OUR COMMITMENT TO PRIVACY**
 
-The Educators Network.com Privacy Policy has been developed as an extension of our commitment to combine the finest services to our members with the highest level of integrity with respect to content. The Policy guides how we collect, store and use information about our members, and it will be periodically assessed against new technologies, business practices and the changing needs of our members. 
+The Educators Network.com Privacy Policy has been developed as an extension of our commitment to combine the finest services to our members with the highest level of integrity with respect to content. The Policy guides how we collect, store and use information about our members, and it will be periodically assessed against new technologies, business practices and the changing needs of our members.
 
 TheEducatorsNetwork.com may, from time to time, modify this Customer Privacy Policy to reflect legal, technological and other developments. In that event the changes will appear at this location.
 
