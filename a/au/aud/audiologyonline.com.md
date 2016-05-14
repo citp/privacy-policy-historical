@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audiologyonline.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002080553id_/http%3A//www.audiologyonline.com/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiologyonline.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515002647id_/http%3A//www.audiologyonline.com/general/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy AudiologyOnline: Online AudiologyOnline CEUs & AudiologyOnline Jobs
 
@@ -52,7 +52,7 @@ Some pages of the Site may contain small electronic files known as web beacons (
 
 ### Personally Identifiable Information
 
-We collect Personally Identifiable Information that you provide to us when you register as a member of AudiologyOnline and/or when you update your member profile. We use the Personally Identifiable Information that you provide to respond to your questions, provide you the specific services you select, send you emails about Site maintenance and updates, and inform you of significant changes to this Privacy Policy as described herein. 
+We collect Personally Identifiable Information that you provide to us when you register as a member of AudiologyOnline and/or when you update your member profile. We use the Personally Identifiable Information that you provide to respond to your questions, provide you the specific services you select, send you emails about Site maintenance and updates, and inform you of significant changes to this Privacy Policy as described herein.
 
 Newsletters and Emails to You
 
@@ -165,7 +165,7 @@ We may also release Personally Identifiable Information to third parties:
 
 Additionally, we may disclose your Personally Identifiable Information to third-party organizations for continuing education courses. For your convenience there are links to continuing education courses hosted by AudiologyOnline, but managed and operated by companies and organizations other than AudiologyOnline (“Third Party Corporate Partner Companies and Organizations”).
 
-These Third Party Companies and Organizations provide content or services, including continuing education courses through our Site. These continuing education course links may be found in advertisements, referenced within content, or placed beside the names or logos of Corporate Partners. AudiologyOnline will disclose limited Personally Identifiable Information to these Third Party Corporate Partner Companies and Organizations as it relates to continuing education courses provided by a specific Third Party Corporate Partner. (Example - if a person registers for a particular continuing education course provided by Corporate Partner "A" then AudiologyOnline will provide Corporate Partner “A” with limited Personally Identifiable Information as it relates to the course and the course participant). 
+These Third Party Companies and Organizations provide content or services, including continuing education courses through our Site. These continuing education course links may be found in advertisements, referenced within content, or placed beside the names or logos of Corporate Partners. AudiologyOnline will disclose limited Personally Identifiable Information to these Third Party Corporate Partner Companies and Organizations as it relates to continuing education courses provided by a specific Third Party Corporate Partner. (Example - if a person registers for a particular continuing education course provided by Corporate Partner "A" then AudiologyOnline will provide Corporate Partner “A” with limited Personally Identifiable Information as it relates to the course and the course participant).
 
 AudiologyOnline does not endorse and is not responsible for the privacy practices of these organizations. If you choose to participate in a continuing education course using one of these Third Party Company or Organization continuing education courses, you should review the privacy policy posted by this other company or organization to understand how that Third Party Organization collects and uses your Personally Identifiable Information.
 
@@ -196,7 +196,7 @@ AudiologyOnline contains tools that collect and store self-reported data. These 
 
 You may delete your Personally Identifiable Information from our systems by instructing us to do so via email to [webmaster@AudiologyOnline](mailto:webmaster@AudiologyOnline). Within a reasonable time after your request, we will delete your Personally Identifiable Information from our active databases and where feasible from our back-up media. You should be aware that it is not technologically possible to remove each and every record of the information you have provided to AudiologyOnline from our servers.
 
-We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect. 
+We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
 If you delete your submissions and other public information from the Site, copies of that information may remain viewable in cached and archived pages, or might have been copied or stored by other Site users.
 
@@ -213,5 +213,5 @@ We comply with the California Online Privacy Protection Act of 2003, California 
 Please direct any questions or comments regarding this Privacy Policy to [webmaster@AudiologyOnline](mailto:webmaster@AudiologyOnline). You may also write to AudiologyOnline’s Privacy Help Desk at:
 
 AudiologyOnline  
-538 W 21st St #79931  
-Houston, TX 77008
+337 Garden Oaks Blvd ECM #79931  
+Houston, TX 77018
