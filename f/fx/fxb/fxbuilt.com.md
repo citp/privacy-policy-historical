@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxbuilt.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607232013id_/http%3A//www.fxbuilt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxbuilt.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515015155id_/http%3A//www.fxbuilt.com/privacy-policy) for the most accurate reproduction.*
 
 # FXBuilt |
 
