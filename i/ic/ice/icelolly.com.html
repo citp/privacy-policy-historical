@@ -1,694 +1,283 @@
-<!--The following is the downloaded HTML source of the icelolly.com privacy policy that was archived on 2014-09-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140921042338id_/http%3A//www.icelolly.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the icelolly.com privacy policy that was archived on 2016-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160514073412id_/https%3A//www.icelolly.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript" async="" src="https://s0tatic-ssl.responsetap.com/static/scripts/rTapTrack.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0024/8951.js?438997" async="" type="text/javascript"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgMBVVdWGwIIXFRSBQc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){try{u?u-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(d){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(c){"stack"in c&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,c="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,d=e(c);if(d&&(r.rxSize=d),this.sameOrigin){var f=t.getResponseHeader("X-NewRelic-App-Data");f&&(n.cat=f.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,c=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var c=e(o);c&&(r.txSize=c)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var d=0;u>d;d++)n.addEventListener(s[d],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+c(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+c(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===f.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,c="addEventListener",d="attachEvent",f=(""+location).split("?")[0],p=e.exports={offset:i(),origin:f,features:[]};u[c]?(u[c]("DOMContentLoaded",o,!1),s[c]("load",n,!1)):(u[d]("onreadystatechange",r),s[d]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),c=this,d=r&&r(a,c)||{}}catch(f){i([f,"",[a,c,s],d])}o(e+"start",[a,c,s],d);try{return n=t.apply(c,a)}catch(p){throw o(e+"err",[a,c,p],d),p}finally{o(e+"end",[a,c,n],d)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,c="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,c?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+    <title>Privacy Policy | icelolly.com</title>
+    <meta name="description" content="This policy (together with our terms of use and any other documents referred to on it) sets out the basis on which any personal data we collect from you.">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-918.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TM8WV2"></script><script type="text/javascript" async="" src="https://ict.infinity-tracking.net/js/nas.v1.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgMBVVdWGwIIXFRSBQc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="icelolly.com - the low cost holiday price comparison site. Compare over 20 million cheap holidays from some of the UK's top travel companies.">
-    <meta name="keywords" content="cheap holidays, cheap holiday offers">
-
-    
-    <meta name="rating" content="general">
-    <meta name="revisit-after" content="15 days">
-    <meta name="distribution" content="global">
-    <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
-    <meta name="google-site-verification" content="cGdfTO2b528B77pTIfvbkcxsqPg2f3Q2Yo1pvGirwwA">
-
-    <title>Cheap Holidays | Cheap Holiday Deals | Low Cost Holidays | icelolly</title>
-
-            <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-        <link href="http://fonts.googleapis.com/css?family=Cabin:400,700,400italic" rel="stylesheet" type="text/css">
-
-                    <link rel="stylesheet" type="text/css" media="screen" href="/Resources/public/css/jquery-ui-1.10.4.min.css">
-                                    <link rel="stylesheet" type="text/css" media="screen" href="/Resources/public/css/default-styles.css">
-             
-
-    <!-- only load google ads if it's not an ie browser as google doesn't support <=ie9 -->
-    <!--[if gte IE 9]><!-->
-    <script src="http://www.google.com/jsapi"></script>
-    <script type="text/javascript" charset="utf8">
-        google.load('ads.search', '2');
-    </script>
-    <!--<![endif]-->
-
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-        <script src="/Resources/public/js/es5-shim.min.js"></script>
-        <![endif]-->
-
-            <meta name="robots" content="index,follow">
-    
-            <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+    <meta name="apple-itunes-app" content="app-id=667355578"><link rel="canonical" href="https://www.icelolly.com/privacy-policy"><link href="//netdna.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+        <link href="//fonts.googleapis.com/css?family=Cabin:400,700,400italic" rel="stylesheet" type="text/css">
+        <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet"><link rel="stylesheet" type="text/css" media="screen" href="/Resources/public/css/default-styles-4ad925e.css"><!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="//oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script><script src="/Resources/public/js/es5-shim.min-2a22d2f.js"></script><![endif]--><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
         <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
-        <!-- Start Visual Website Optimizer Asynchronous Code -->
         <script type="text/javascript">
-        var _vwo_code=(function(){
-        var account_id=75003,
-        settings_tolerance=2000,
-        library_tolerance=2500,
-        use_existing_jquery=false,
-        // DO NOT EDIT BELOW THIS LINE
-        f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
-        </script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=75003&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20140921042338id_%2Fhttp%253A%2F%2Fwww.icelolly.com%2Fprivacy-policy&amp;r=0.5641718526992678" type="text/javascript"></script>
-        <!-- End Visual Website Optimizer Asynchronous Code -->
-        <script type="text/javascript">
-        setTimeout(function(){var a=document.createElement("script");
-        var b=document.getElementsByTagName("script")[0];
-        a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0024/8951.js?"+Math.floor(new Date().getTime()/3600000);
-        a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+            // general options
+            (function($, window) {
+                var supportsTouch = 'ontouchstart' in window || navigator.msMaxTouchPoints,
+                        className = (supportsTouch) ? 'touch' : 'no-touch';
+                $("html").addClass(className)
+            })(jQuery, window, undefined);
         </script>
-    
-        <!-- Google Code for Homepage 14 Days - Tag -->
-<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+                    <script>
+            var baseAggregator = (function() {
+            public = {
+                dimensions: {},
+                metrics: {},
+                dataLayer: [],
+                impressions: []
+            };
+
+            public.dimensions.emailDate = getParameter('emailDate');
+            public.dimensions.userId = getParameter('userid');
+            public.impressions.impressions = [];
+
+            function getParameter(paramName){
+                var params = window.location.search.substr(1).split('&');
+                for (var i = 0; i < params.length; i++) {
+                    var p=params[i].split('=');
+                    if (p[0] == paramName) {
+                        if(p[1] === ""){
+                            return;
+                        } else {
+                            return decodeURIComponent(p[1]);
+                        }
+                    }
+                }
+                return;
+            };
+            return public;
+        }());
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-2182790-7', 'auto');
+    ga('require', 'displayfeatures');
+    ga('require', 'linkid', 'linkid.js');
+    ga('set', {
+        'dimension20': baseAggregator.dimensions.emailDate,
+        'dimension21': baseAggregator.dimensions.emailDate,
+        'dimension22': baseAggregator.dimensions.userId,
+        'dimension23': baseAggregator.dimensions.userId,
+        'dimension24': baseAggregator.dimensions.userId
+    })
+                    ga('send', 'pageview');
+</script>        <script type="text/javascript">
+var _ictVwoIntegration = function(key) {
+    if (key !== undefined && _ictt !== undefined && _vis_opt_readCookie != undefined) {
+        var vwoCombination = _vis_opt_readCookie('_vis_opt_exp_'+window[key]+'_combi');
+        if (typeof _vwo_exp[window[key]] != 'undefined' && typeof(_vwo_exp[window[key]].combination_chosen) != 'undefined') {
+            vwoCombination = _vwo_exp[window[key]].combination_chosen;
+        }
+        if (vwoCombination !== '' && vwoCombination !== null) {
+            _ictt.push([ '_setCustomVar', ['vwocomb', vwoCombination] ]);
+        }
+        _ictt.push([ '_setCustomVar', ['vwoexp', window[key]] ]);
+    };
+}
+</script>
 <script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 969311852;
-var google_conversion_label = "Op2ICJejiVYQ7IyazgM";
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
+var _qevents = _qevents || [];
+function ictSendQuantcastEvent() {
+    _qevents.push( {qacct:"p-W3_SapT8E2nNz",labels:"_fp.event.InfinityVisitorID",setid:"1",id:_ictt.push(['_get', 'ictvid']),event:"refresh"} );
+}
 </script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/969311852/?value=1.00&amp;currency_code=GBP&amp;label=Op2ICJejiVYQ7IyazgM&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-
-
-<!-- Google Code for Homepage 3 Days - Tag -->
-<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
 <script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 969311852;
-var google_conversion_label = "L3mNCMijiVYQ7IyazgM";
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
+    var _ictt = _ictt || [];
+    _ictt.push(['_setIgrp','1093']);
+    _ictt.push(['_enableGAIntegration',{'gua':true,'ga':false}]);
+    _ictt.push(['_includeExternal',[{'from':'_vis_opt_experiment_id','to':'_ictVwoIntegration'}]]);
+    _ictt.push(['_addCallback', ictSendQuantcastEvent, {'maxRunCount':1}]);
+    _ictt.push(['_enableAutoDiscovery']);
+    _ictt.push(['_track']);
+    _ictt.push(['_setAutoDiscoveryClasses', ['numberReplace']]);
+(function() {
+    var ict = document.createElement('script'); ict.type = 'text/javascript'; ict.async = true;
+    ict.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'ict.infinity-tracking.net/js/nas.v1.min.js';
+    var scr = document.getElementsByTagName('script')[0]; scr.parentNode.insertBefore(ict, scr);
+})();
 </script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/969311852/?value=1.00&amp;currency_code=GBP&amp;label=L3mNCMijiVYQ7IyazgM&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-
-
-<!-- Google Code for Homepage 7 Days - Tag -->
-<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
 <script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 969311852;
-var google_conversion_label = "PsOZCIeciVYQ7IyazgM";
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/969311852/?value=1.00&amp;currency_code=GBP&amp;label=PsOZCIeciVYQ7IyazgM&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-</head>
-<body>
-    
+            var _vwo_code=(function(){
+            var account_id=75003,
+            settings_tolerance=2000,
+            library_tolerance=2500,
+            use_existing_jquery=false,
+            // DO NOT EDIT BELOW THIS LINE
+            f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+        </script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=75003&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20160514073412id_%2Fhttps%253A%2F%2Fwww.icelolly.com%2Fprivacy-policy&amp;r=0.031197821674464388" type="text/javascript"></script><script src="/js/e97ca7e-10c2d79.js"></script><script>
+    $(document).ready(function() {
+        ecommerceEvents.processProductImpressions();
+    });
+    var enviromentVariables = (function () {
+        var pub = {};
+        pub.renderSearchFormPath = '/holiday-search/render-form';
+        pub.autoCompletePath = '/holiday-search/autocomplete';
+        pub.advertiserModalPath = '/holiday-search/provider-modal';
+        pub.homepageContentBoxes = '/homepageContent/type';
+        pub.isHorizontalSearch = '1';
+        return pub;
+    }());
+</script></head>
 
-    <header class="header">
-        <div class="container">
-            <div class="row relative">
-                <div class="col-sm-3">
-                    <a href="/" id="logo">
-                                                <img src="/Resources/public/images/ice-lolly-logo.jpg" alt="ice lolly logo">                    
-                                            </a>
+
+
+
+
+<body class="icelolly_general_content_staticpage horizontal"><!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TM8WV2"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-TM8WV2');</script>
+<!-- End Google Tag Manager -->
+<header class="header">
+        <div class="wrapper">
+            <div class="header-container">
+
+                <div class="protection-links">
+                    <a href="/protection-information">
+                        <img src="https://ec4071ced0f087a8dd73-2a0aec697fc362de045ce5e0c53ec223.ssl.cf3.rackcdn.com/trust_logos.png" alt="Your holiday is protected">
+                    </a>
                 </div>
 
-                <div class="col-sm-9">
-                    
-                    
-    <div class="social-icons clearfix hidden-xs">
-     <ul class="list-inline pull-left hidden-xs" id="top-nav-links">
-       <li class="car-hire"><a href="//icelolly.com/clickthru?from=header&amp;target=https://www.cartrawler.com/icelolly/?#quote" target="_blank">Car Hire</a></li>
-       <li class="shortlist"><a class="" href="/shortlist">My Shortlist (<span class="shortlist-count">0</span>)</a></li>
-     </ul>
-       <ul id="social-header-icons" class="list-inline pull-right">
-           <li><a target="_blank" href="http://www.icelolly.com/clickthru?from=share&amp;target=http%3A%2F%2Fwww.facebook.com%2Fpages%2Ficelollycom%2F54167714116"><i class="icon social facebook">Facebook</i></a></li>
-           <li><a target="_blank" href="http://www.icelolly.com/clickthru?from=share&amp;target=http%3A%2F%2Fwww.twitter.com%2Ficelollyholiday"><i class="icon social twitter">Twitter</i></a></li>
-           <li><a target="_blank" href="http://www.icelolly.com/clickthru?from=share&amp;target=http%3A%2F%2Fwww.youtube.com%2Fuser%2Ficelollyholidays"><i class="icon social youtube">Youtube</i></a></li>
-           <li><a target="_blank" href="http://www.icelolly.com/clickthru?from=share&amp;target=https%3A%2F%2Fplus.google.com%2F109248259911797010588"><i class="icon social google">Google</i></a></li>
-           <li><a target="_blank" href="http://www.icelolly.com/clickthru?from=share&amp;target=http%3A%2F%2Finstagram.com%2Ficelollyholiday"><i class="icon social instagram">Instagram</i></a></li>
-           <li class="facebooklike_container addthis_toolbox addthis_default_style">
-            <a class="addthis_button_facebook_like pull-right" fb:like:layout="button_count" expr:addthis:url="http://facebook.com/icelollyholidays"></a>
-          </li>
-       </ul>
-    </div>
+            <a id="mobile-menu-toggle" class="menu-button toggle-menu" href="#" title="Show Menu">
+                <i class="fa fa-bars"></i>
+            </a>
 
+            <a id="mobile-search-toggle" class="menu-button toggle-search" href="#" title="Holiday Search">
+                <i class="fa fa-search"></i>
+            </a>
 
-   
-                    <div class="row">
+            <div class="page-logo">
+                <a class="main-logo" href="/" title="icelolly.com">
+                    <img src="https://7d84701100d54170ecd4-36a19f2d2ba434c3aa2e1742112e61d6.ssl.cf3.rackcdn.com/logo/icelolly.com-logo.png" alt="icelolly.com logo">
+                </a>
 
-                        <div class="col-sm-12">
-                            <h1 id="tagline">
-                               The UK's leading holiday price comparison site
-                            </h1>
-                        </div>
-                        
-                    </div>                       
-                    
-                </div>
+                <div class="page-headline">
+                                                <p class="headline-title">Compare. Call. Save.</p>
+                                    </div>
             </div>
-            <!-- end row-->
         </div>
-        <!-- end container-->
 
-    </header>
-    <!-- end header-->
+        <div class="header-menu">
+                            <nav class="main-menu-navigation">
+    <ul>
+        <li class="top-level-item">
+            <a class="top-level-item-anchor" href="/destinations" title="Destinations">Destinations</a>
+        </li>
+        <li class="top-level-item">
+            <a class="top-level-item-anchor" href="/holidays" title="Holidays">Holidays</a>
+        </li>
+        <li class="top-level-item">
+            <a class="top-level-item-anchor" href="/blog" title="Blog">Blog</a>
+        </li>
+        <li class="top-level-item top-item-shortlist">
+            <a class="top-level-item-anchor" href="/shortlist" title="My Shortlist">
+                My Shortlist (<span class="shortlist-count">0</span>)
+            </a>
+        </li>
+        <li class="top-level-item top-item-car-hire">
+            <a class="top-level-item-anchor" target="_blank" href="http://www.affordablecarhire.com/en/search/index?brand=icelollyw" title="Car Hire">
+                <i class="fa fa-car"></i>
+                Car Hire
+            </a>
+        </li>
+    </ul>
+</nav>
 
-<div class="container ">
-    <div class="row">
-
-        <div class="col-sm-12 beige">            
-                <div class="row">
-                    <div class="col-sm-4 col-md-3" id="sidebar-container">
-                                                    
-  
-    <div id="search-form-container" class="hidden-xs">
-
-            <h1 class="pink temp hidden-xs">Search for holidays</h1>
-        
-            <div class="form-group">
-                <div class="sub-row">
-
-                    
-                    <nav class="search-form-holiday-icons" data-searchtype="sun">
-                        <ul class="clearfix">
-                                                             <li class="sun selected">
-                                    <a href="#" data-attr-search-type="sun">Sun Holidays</a>
-                                 </li>
-                                                             <li class="city ">
-                                    <a href="#" data-attr-search-type="city">City Breaks</a>
-                                 </li>
-                                                             <li class="ski ">
-                                    <a href="#" data-attr-search-type="ski">Ski Holidays</a>
-                                 </li>
-                                                             <li class="cruise ">
-                                    <a href="#" data-attr-search-type="cruise">Cruise Holidays</a>
-                                 </li>
-                                                    </ul>
-                    </nav>
-
-                </div>
-            </div>
-
-            <div id="holiday-search-form-container" class="">
-                                    <div class="img-container text-center">
-                        <img class="spinner" src="http://cdn.icelolly.com/english/loader_round.gif">
                     </div>
+    </div>
+</header>
+<!-- end header-->
+
+<section class="search-container">
+    <div class="wrapper">
+        <div class="horizontal-search">
+    <div id="search-form-container">
+        <span class="search-title">What type of holiday would you like?</span>
+        <nav class="horizontal-search-navigation search-form-holiday-icons form2" data-searchtype="sun">
+            <ul>
+                <li class="search-tab search-tab-sun selected">
+                    <a class="search-tab-link" href="/" data-attr-search-type="sun" title="Sun Holidays">
+                            <span class="search-tab-text sun">sun</span>
+                        <span class="search-tab-text separator">/</span>
+                        <span class="search-tab-text beach">beach</span>
+                            <span class="fa ic-icon-sun"></span>
+                    </a>
+                </li>
+                <li class="search-tab search-tab-city">
+                    <a class="search-tab-link" href="/city" data-attr-search-type="city" title="City Breaks">
+                            <span class="search-tab-text">city</span>
+                            <span class="fa ic-icon-city"></span>
+                    </a>
+                </li>
+                <li class="search-tab search-tab-ski">
+                    <a class="search-tab-link" href="/ski" data-attr-search-type="ski" title="Ski Holidays">
+                            <span class="search-tab-text">ski</span>
+                            <span class="fa ic-icon-ski"></span>
+                    </a>
+                </li>
+                <li class="search-tab search-tab-cruise">
+                    <a class="search-tab-link" href="/cruise" data-attr-search-type="cruise" title="Cruise Holidays">
+                            <span class="search-tab-text">cruise</span>
+                            <span class="fa ic-icon-cruise"></span>
+                    </a>
+                </li>
+                <li class="search-tab search-nav-ukbreaks">
+                    <a class="search-tab-link" href="/uk-holidays" data-attr-search-type="uk-holidays" title="UK Holidays">
+                        <span class="search-tab-text">UK</span>
+                        <span class="ic-icon-flag-uk"></span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+        <div id="horizontal-search-form-container" class="horizontal-search-form-container sun-horizontal-search-form-container">
+            <div class="horizontal-search-form" id="horizontal-search-form">
+                <div id="holiday-search-form-container">
+                    <div class="img-container text-center">
+                        <img class="spinner" src="https://1aa7635416d647e91b2f-9109051898dc340f545a7bcf3591f62d.ssl.cf3.rackcdn.com/english/loader_round.gif" alt="Loading Icelolly.com Deals">
+                    </div>
+                </div>
                             </div>
+        </div>
     </div>
 
-                                
-                        
-                        <div class="container-fluid sidebar-member-logos text-center hidden-xs">
-
-                                                        <a href="/protection_information"><img src="/Resources/public/images/bonding-logos.png" alt="Ice Lolly Member Logos"></a>
-                            
-                            <p class="holiday-protected">Your holiday is protected
-                                <br>
-                                <a href="/protection_information" class="protection-link">What does this mean?</a>
-                            </p>
-                        </div>
-                        
-
-
-
-<div class="trending hidden-xs">
-
-    <h2 class="text-center">Trending on icelolly</h2>
-
     
-
-               <img id="trending-image" class="" src="/Resources/public/images/trending.png" alt="trending on icelolly" usemap="#trending-map">                    
-    
-    <map name="trending-map">
-    <area alt="Spain" title="#Spain" href="/destinations/spain/" shape="rect" coords="87,0,249,67" style="outline:none;" target="_self">
-    <area alt="majorca" title="majorca" href="/destinations/spain/balearic-islands/majorca" shape="rect" coords="29,75,122,115" style="outline:none;" target="_self">
-    <area alt="Ski" title="#Ski" href="/ski" shape="rect" coords="119,96,240,147" style="outline:none;" target="_self">
-    <area alt="2015 Deals" title="2015 Deals" href="/holiday-search/results/sun?destination=Any+Destination&amp;date=01%2F08%2F2015&amp;flexibility=3&amp;userSearchAction=1&amp;page=1&amp;itemsPerPage=20&amp;highestPriceFirst=false" shape="rect" coords="41,148,151,187" style="outline:none;" target="_self">
-    <area alt="All Inclusive" title="All Inclusive" href="/all-inclusive" shape="rect" coords="71,188,250,244" style="outline:none;" target="_self">
-    <area shape="rect" coords="248,242,250,244" alt="Image Map" style="outline:none;" title="Image Map" href="http://www.image-maps.com/index.php?aff=mapped_users_0">
-    </map>
-    
+    <div class="holiday-background-images" data-image="https://7d84701100d54170ecd4-36a19f2d2ba434c3aa2e1742112e61d6.ssl.cf3.rackcdn.com/background/sun-search-background.jpg" data-image-cro-takeover="https://7d84701100d54170ecd4-36a19f2d2ba434c3aa2e1742112e61d6.ssl.cf3.rackcdn.com/background/holiday-comparison-site-takeover.jpg"></div>
 </div>
-                        
-                    </div>
-                    <div class="col-sm-8 col-md-9 relative" id="content-container">
-                                                     
-<div class="mobile-menu-container clearfix">
+    </div>
+</section>
 
-  <div class="visible-xs mobile-menu clearfix">
-     <a href="#" class="pull-left" id="mobile-menu-toggle"><i class="fa fa-align-justify"></i> <span id="menu-toggle-text">Show Menu</span></a>
-
-    <a href="#" id="mobile-search-toggle" class="pull-right"><i class="fa fa-search"></i> Holiday Search</a>
-  </div>
-
- <div id="mobile-menu-search-form-container" style="display:none;">
-      
-  </div>
-
- <div class="nav-links-container clearfix">
-    <nav id="main-menu">
-        <ul class="clearfix">      
-
-          <li class="top-level-item visible-xs">
-            <a class="top-level-item-anchor shortlist" href="/shortlist">My Shortlist (<span class="shortlist-count">0</span>)</a>
-          </li>  
-            <li class="top-level-item visible-xs">
-              <a class="top-level-item-anchor" href="/">
-                Home
-                <i class="fa fa-caret-right"></i>
-
-              </a>
-          </li>   
-                             <li class="top-level-item  ">
-                    <a href="/destinations" class="top-level-item-anchor ">Destinations 
-                                                <i class="fa fa-sort-down "></i>
-                                          </a>
-                                                                <ul class="subnav arrow_box clearfix destinations">
-                                                   
-                                                                                                      
-                                  <li id="top-beach-holidays" class="destinations-list clearfix sub-subnav-container first-child">
-                                                                                                                            <span class="destinations-heading-container heading-container">
-                                              
-                                                
-                                                     <span id="top-beach-holidays-heading" class="destinations-heading heading">
-                                                        Top Beach Holidays                                                
-                                                      </span>  
-                                                      <span id="top-beach-holidays-heading-icon" class="destinations-heading-icon heading-icon">
-                                                          
-                                                      </span>  
-                                                  
-                                             </span>
-                                                                                                                                                 
-                                                                                                                                              <ul class="sub-subnav destinations-column child-column1">
-                                                                                     
-                                                      <li id="spain-title" class="subnav-item-title">
-                                                          <a href="/destinations/spain"><i class="fa pink fa-caret-right"></i>Spain</a>
-                                                      </li>                                   
-                                                                                     
-                                                      <li id="tenerife-title" class="subnav-item-title">
-                                                          <a href="/destinations/spain/canary-islands/tenerife"><i class="fa pink fa-caret-right"></i>Tenerife</a>
-                                                      </li>                                   
-                                                                                     
-                                                      <li id="turkey-title" class="subnav-item-title">
-                                                          <a href="/destinations/turkey"><i class="fa pink fa-caret-right"></i>Turkey</a>
-                                                      </li>                                   
-                                                                                     
-                                                      <li id="majorca-title" class="subnav-item-title">
-                                                          <a href="/destinations/spain/balearic-islands/majorca"><i class="fa pink fa-caret-right"></i>Majorca</a>
-                                                      </li>                                   
-                                                                                     
-                                                      <li id="benidorm-title" class="subnav-item-title">
-                                                          <a href="/destinations/spain/costa-blanca/benidorm"><i class="fa pink fa-caret-right"></i>Benidorm</a>
-                                                      </li>                                   
-                                                                                     
-                                                      <li id="greece-title" class="subnav-item-title">
-                                                          <a href="/destinations/greece"><i class="fa pink fa-caret-right"></i>Greece</a>
-                                                      </li>                                   
-                                                                                     
-                                                      <li id="costa-brava-title" class="subnav-item-title">
-                                                          <a href="/destinations/spain/costa-brava"><i class="fa pink fa-caret-right"></i>Costa Brava</a>
-                                                      </li>                                   
-                                                                                     
-                                                      <li id="portugal-title" class="subnav-item-title">
-                                                          <a href="/destinations/portugal"><i class="fa pink fa-caret-right"></i>Portugal</a>
-                                                      </li>                                   
-                                                                                     
-                                                      <li id="sharm-el-sheikh-title" class="subnav-item-title">
-                                                          <a href="/destinations/egypt/sharm-el-sheikh"><i class="fa pink fa-caret-right"></i>Sharm El Sheikh</a>
-                                                      </li>                                   
-                                                                                     
-                                                      <li id="canary-islands-title" class="subnav-item-title">
-                                                          <a href="/destinations/spain/canary-islands"><i class="fa pink fa-caret-right"></i>Canary Islands</a>
-                                                      </li>                                   
-                                                   
-                                                </ul>
-                                                    
-                                                                            
-                                  </li>                
-                                                    
-                                                                                                      
-                                  <li id="top-city-breaks" class="destinations-list clearfix sub-subnav-container child-2">
-                                                                                                                            <span class="destinations-heading-container heading-container">
-                                              
-                                                
-                                                     <span id="top-city-breaks-heading" class="destinations-heading heading">
-                                                        Top City Breaks                                                
-                                                      </span>  
-                                                      <span id="top-city-breaks-heading-icon" class="destinations-heading-icon heading-icon">
-                                                          
-                                                      </span>  
-                                                  
-                                             </span>
-                                                                                                                                                 
-                                                                                                                                              <ul class="sub-subnav destinations-column child-column1">
-                                                                                     
-                                                      <li id="barcelona-title" class="subnav-item-title">
-                                                          <a href="/destinations/spain/barcelona"><i class="fa pink fa-caret-right"></i>Barcelona</a>
-                                                      </li>                                   
-                                                                                     
-                                                      <li id="amsterdam-title" class="subnav-item-title">
-                                                          <a href="/destinations/netherlands/amsterdam"><i class="fa pink fa-caret-right"></i>Amsterdam</a>
-                                                      </li>                                   
-                                                                                     
-                                                      <li id="new-york-title" class="subnav-item-title">
-                                                          <a href="/destinations/united-states/new-york"><i class="fa pink fa-caret-right"></i>New York</a>
-                                                      </li>                                   
-                                                                                     
-                                                      <li id="paris-title" class="subnav-item-title">
-                                                          <a href="/destinations/france/paris"><i class="fa pink fa-caret-right"></i>Paris</a>
-                                                      </li>                                   
-                                                                                     
-                                                      <li id="dublin-title" class="subnav-item-title">
-                                                          <a href="/destinations/ireland/dublin"><i class="fa pink fa-caret-right"></i>Dublin</a>
-                                                      </li>                                   
-                                                                                     
-                                                      <li id="rome-title" class="subnav-item-title">
-                                                          <a href="/destinations/italy/rome"><i class="fa pink fa-caret-right"></i>Rome</a>
-                                                      </li>                                   
-                                                                                     
-                                                      <li id="prague-title" class="subnav-item-title">
-                                                          <a href="/destinations/czech-republic/prague"><i class="fa pink fa-caret-right"></i>Prague</a>
-                                                      </li>                                   
-                                                                                     
-                                                      <li id="venice-title" class="subnav-item-title">
-                                                          <a href="/destinations/italy/venice"><i class="fa pink fa-caret-right"></i>Venice</a>
-                                                      </li>                                   
-                                                   
-                                                </ul>
-                                                    
-                                                                            
-                                  </li>                
-                                                    
-                                                                                                     
-                                  <li id="top-worldwide-destinations" class="destinations-list clearfix sub-subnav-container last-child">
-                                                                                                                            <span class="destinations-heading-container heading-container">
-                                              
-                                                
-                                                     <span id="top-worldwide-destinations-heading" class="destinations-heading heading">
-                                                        Top Worldwide Destinations                                                
-                                                      </span>  
-                                                      <span id="top-worldwide-destinations-heading-icon" class="destinations-heading-icon heading-icon">
-                                                          
-                                                      </span>  
-                                                  
-                                             </span>
-                                                                                                                                                 
-                                                                                                                                              <ul class="sub-subnav destinations-column child-column1">
-                                                                                     
-                                                      <li id="florida-title" class="subnav-item-title">
-                                                          <a href="/destinations/united-states/florida"><i class="fa pink fa-caret-right"></i>Florida</a>
-                                                      </li>                                   
-                                                                                     
-                                                      <li id="dubai-title" class="subnav-item-title">
-                                                          <a href="/destinations/united-arab-emirates/dubai"><i class="fa pink fa-caret-right"></i>Dubai</a>
-                                                      </li>                                   
-                                                                                     
-                                                      <li id="mexico-title" class="subnav-item-title">
-                                                          <a href="/destinations/mexico"><i class="fa pink fa-caret-right"></i>Mexico</a>
-                                                      </li>                                   
-                                                                                     
-                                                      <li id="cuba-title" class="subnav-item-title">
-                                                          <a href="/destinations/cuba"><i class="fa pink fa-caret-right"></i>Cuba</a>
-                                                      </li>                                   
-                                                                                     
-                                                      <li id="thailand-title" class="subnav-item-title">
-                                                          <a href="/destinations/thailand"><i class="fa pink fa-caret-right"></i>Thailand</a>
-                                                      </li>                                   
-                                                                                     
-                                                      <li id="maldives-title" class="subnav-item-title">
-                                                          <a href="/destinations/maldives"><i class="fa pink fa-caret-right"></i>Maldives</a>
-                                                      </li>                                   
-                                                                                     
-                                                      <li id="cape-verde-title" class="subnav-item-title">
-                                                          <a href="/destinations/cape-verde"><i class="fa pink fa-caret-right"></i>Cape Verde</a>
-                                                      </li>                                   
-                                                                                     
-                                                      <li id="dominican-republic-title" class="subnav-item-title">
-                                                          <a href="/destinations/dominican-republic"><i class="fa pink fa-caret-right"></i>Dominican Republic</a>
-                                                      </li>                                   
-                                                   
-                                                </ul>
-                                                    
-                                                                            
-                                  </li>                
-                                                          <li class="view-all-link">  
-                                <a href="/destinations" class="btn btn-red btn-sm btn-cursor"> View All Destinations <i class="fa fa-caret-right"></i></a>           
-                            </li>
-                        </ul>    
-
-                               
-                </li>
-                            <li class="top-level-item  ">
-                    <a href="/holidays" class="top-level-item-anchor ">Holidays 
-                                                <i class="fa fa-sort-down "></i>
-                                          </a>
-                                                                <ul class="subnav arrow_box clearfix holidays">
-                                                   
-                                                                                                      
-                                  <li id="" class="holidays-list clearfix sub-subnav-container first-child">
-                                                                                                                                                                                     
-                                                                                                                                              <ul class="sub-subnav holidays-column child-column1">
-                                                                                     
-                                                      <li id="beach-holidays-title" class="subnav-item-title">
-                                                          <a href="/beach-holidays"><i class="fa pink fa-caret-right"></i>Beach Holidays</a>
-                                                      </li>                                   
-                                                                                     
-                                                      <li id="all-inclusive-holidays-title" class="subnav-item-title">
-                                                          <a href="/all-inclusive"><i class="fa pink fa-caret-right"></i>All Inclusive holidays</a>
-                                                      </li>                                   
-                                                                                     
-                                                      <li id="last-minute-holidays-title" class="subnav-item-title">
-                                                          <a href="/last-minute"><i class="fa pink fa-caret-right"></i>Last Minute holidays</a>
-                                                      </li>                                   
-                                                                                     
-                                                      <li id="self-catering-holidays-title" class="subnav-item-title">
-                                                          <a href="/self-catering"><i class="fa pink fa-caret-right"></i>Self Catering holidays</a>
-                                                      </li>                                   
-                                                   
-                                                </ul>
-                                                                                                                                              <ul class="sub-subnav holidays-column child-column2">
-                                                                                     
-                                                      <li id="family-holidays-title" class="subnav-item-title">
-                                                          <a href="/family-holidays"><i class="fa pink fa-caret-right"></i>Family Holidays</a>
-                                                      </li>                                   
-                                                                                     
-                                                      <li id="winter-sun-title" class="subnav-item-title">
-                                                          <a href="/winter-sun"><i class="fa pink fa-caret-right"></i>Winter Sun</a>
-                                                      </li>                                   
-                                                                                     
-                                                      <li id="city-breaks-title" class="subnav-item-title">
-                                                          <a href="/city"><i class="fa pink fa-caret-right"></i>City Breaks</a>
-                                                      </li>                                   
-                                                                                     
-                                                      <li id="cruise-title" class="subnav-item-title">
-                                                          <a href="/cruise"><i class="fa pink fa-caret-right"></i>Cruise</a>
-                                                      </li>                                   
-                                                   
-                                                </ul>
-                                                                                                                                              <ul class="sub-subnav holidays-column child-column3">
-                                                                                     
-                                                      <li id="ski-holidays-title" class="subnav-item-title">
-                                                          <a href="/ski"><i class="fa pink fa-caret-right"></i>Ski Holidays</a>
-                                                      </li>                                   
-                                                                                     
-                                                      <li id="disney-holidays-title" class="subnav-item-title">
-                                                          <a href="/disney"><i class="fa pink fa-caret-right"></i>Disney Holidays</a>
-                                                      </li>                                   
-                                                                                     
-                                                      <li id="stag-weekends-title" class="subnav-item-title">
-                                                          <a href="/stag"><i class="fa pink fa-caret-right"></i>Stag Weekends</a>
-                                                      </li>                                   
-                                                                                     
-                                                      <li id="hen-weekends-title" class="subnav-item-title">
-                                                          <a href="/hen"><i class="fa pink fa-caret-right"></i>Hen Weekends</a>
-                                                      </li>                                   
-                                                   
-                                                </ul>
-                                                    
-                                                                            
-                                  </li>                
-                                                          <li class="view-all-link">  
-                                <a href="/holidays" class="btn btn-red btn-sm btn-cursor"> View All Holiday Types <i class="fa fa-caret-right"></i></a>           
-                            </li>
-                        </ul>    
-
-                               
-                </li>
-                            <li class="top-level-item  ">
-                    <a href="/articles" class="top-level-item-anchor ">Features 
-                                                <i class="fa fa-sort-down "></i>
-                                          </a>
-                                                                <ul class="subnav arrow_box clearfix features">
-                                                   
-                                                                                                      
-                                  <li id="travel-inspiration" class="features-list clearfix sub-subnav-container first-child">
-                                                                                    <a class="sub-subnav-title-link" href="/articles/198/Travel_Inspiration">
-                                                                                                                            <span class="features-heading-container heading-container">
-                                              
-                                                
-                                                     <span id="travel-inspiration-heading" class="features-heading heading">
-                                                        Travel Inspiration                                                
-                                                      </span>  
-                                                      <span id="travel-inspiration-heading-icon" class="features-heading-icon heading-icon">
-                                                          
-                                                      </span>  
-                                                  
-                                             </span>
-                                                                                                                                </a>
-                                                                                                     
-                                                                                                                                              <ul class="sub-subnav features-column child-column1">
-                                                                                     
-                                                      <li id="where-is-hot-in-title" class="subnav-item-title">
-                                                          <a href="/articles/192/Where_is_hot"><i class="fa pink fa-caret-right"></i>Where is hot in ...</a>
-                                                      </li>                                   
-                                                                                     
-                                                      <li id="top-reasons-to-visit-title" class="subnav-item-title">
-                                                          <a href="/articles/199/Top_reasons_to_visit"><i class="fa pink fa-caret-right"></i>Top reasons to visit</a>
-                                                      </li>                                   
-                                                                                     
-                                                      <li id="sun-and-sand-title" class="subnav-item-title">
-                                                          <a href="/articles/200/Sun_and_Sand"><i class="fa pink fa-caret-right"></i>Sun and sand</a>
-                                                      </li>                                   
-                                                                                     
-                                                      <li id="urban-adventures-title" class="subnav-item-title">
-                                                          <a href="/articles/201/Urban_Adventures"><i class="fa pink fa-caret-right"></i>Urban Adventures</a>
-                                                      </li>                                   
-                                                   
-                                                </ul>
-                                                    
-                                                                            
-                                  </li>                
-                                                    
-                                                                                                      
-                                  <li id="tips-advice" class="features-list clearfix sub-subnav-container child-2">
-                                                                                    <a class="sub-subnav-title-link" href="/articles/202/Tips_and_Advice">
-                                                                                                                            <span class="features-heading-container heading-container">
-                                              
-                                                
-                                                     <span id="tips-advice-heading" class="features-heading heading">
-                                                        Tips &amp; Advice                                                
-                                                      </span>  
-                                                      <span id="tips-advice-heading-icon" class="features-heading-icon heading-icon">
-                                                          
-                                                      </span>  
-                                                  
-                                             </span>
-                                                                                                                                </a>
-                                                                                                     
-                                                                                                                                              <ul class="sub-subnav features-column child-column1">
-                                                                                     
-                                                      <li id="survival-guides-title" class="subnav-item-title">
-                                                          <a href="/articles/203/Survival_Guides"><i class="fa pink fa-caret-right"></i>Survival Guides</a>
-                                                      </li>                                   
-                                                                                     
-                                                      <li id="making-the-most-of-your-money-title" class="subnav-item-title">
-                                                          <a href="/articles/204/Making_the_most_of_your_money"><i class="fa pink fa-caret-right"></i>Making the most of your money</a>
-                                                      </li>                                   
-                                                                                     
-                                                      <li id="for-the-family-title" class="subnav-item-title">
-                                                          <a href="/articles/205/For_the_family"><i class="fa pink fa-caret-right"></i>For the family</a>
-                                                      </li>                                   
-                                                   
-                                                </ul>
-                                                    
-                                                                            
-                                  </li>                
-                                                    
-                                                                                                      
-                                  <li id="news" class="features-list clearfix sub-subnav-container child-3">
-                                                                                    <a class="sub-subnav-title-link" href="/articles/206/News">
-                                                                                                                            <span class="features-heading-container heading-container">
-                                              
-                                                
-                                                     <span id="news-heading" class="features-heading heading">
-                                                        News                                                
-                                                      </span>  
-                                                      <span id="news-heading-icon" class="features-heading-icon heading-icon">
-                                                          
-                                                      </span>  
-                                                  
-                                             </span>
-                                                                                                                                </a>
-                                                                                                                    
-                                  </li>                
-                                                    
-                                                                                                     
-                                  <li id="behind-the-scenes" class="features-list clearfix sub-subnav-container last-child">
-                                                                                    <a class="sub-subnav-title-link" href="/articles/207/Behind_the_scenes">
-                                                                                                                            <span class="features-heading-container heading-container">
-                                              
-                                                
-                                                     <span id="behind-the-scenes-heading" class="features-heading heading">
-                                                        Behind the scenes                                                
-                                                      </span>  
-                                                      <span id="behind-the-scenes-heading-icon" class="features-heading-icon heading-icon">
-                                                          
-                                                      </span>  
-                                                  
-                                             </span>
-                                                                                                                                </a>
-                                                                                                                    
-                                  </li>                
-                                                          <li class="view-all-link">  
-                                <a href="/articles" class="btn btn-red btn-sm btn-cursor"> View All Features <i class="fa fa-caret-right"></i></a>           
-                            </li>
-                        </ul>    
-
-                               
-                </li>
-                       
-          </ul>
-    </nav>
-</div> 
-  </div> 
+<div class="main-content wrapper">
+    <div class="row" id="content-container-row">
+        <div class="col-sm-12 relative" id="content-container">
+                                        
 
 
-
-                        
-                                                                            
-
-
-
-
-
-
-
-
-                        
-                        
+            
+                <ol itemscope="" itemtype="http://schema.org/BreadcrumbList" id="breadcrumbs">
+      <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+      <a itemprop="item" href="/">
+        <span itemprop="name">Home</span>
+      </a>
+    </li>
+    &gt;
+        <li>Privacy Policy</li>
+  </ol>
 
     <h1 class="page-title">Privacy Policy</h1>
-
-
-   <div class="page-with-pink-tab">
-
-           <h2></h2>
-    
-
-
-
-    
-<div class="content">
-
-    
-            Icelolly Marketing Limited ("We") are committed to protecting and respecting your privacy.<br>
+    <div class="page-with-pink-tab">
+            <div class="content largeFontBody">
+                <style>.page-title {margin: 5px 0 15px; text-indent: -9999px; height: 0; padding-bottom: 13.48%; background-size: 100%; background-repeat: no-repeat; background-image: url('https://7d84701100d54170ecd4-36a19f2d2ba434c3aa2e1742112e61d6.ssl.cf3.rackcdn.com/static/privacypolicy-banner.jpg'); }</style><br>
+Icelolly Marketing Limited ("We") are committed to protecting and respecting your privacy.<br>
 <br>
 This policy (together with our <a href="/terms-of-website-use">terms of use</a> and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.<br>
 <br>
@@ -767,664 +356,258 @@ Any changes we may make to our privacy policy in the future will be posted on th
 <br>
 <strong>Contact</strong><br>
 <br>
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to 1st Floor, Park Row House, Park Row, Leeds. LS1 5JF. <br>
-    
-</div>
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to 1st Floor, Park Row House, Park Row, Leeds. LS1 5JF.<br>
+        </div>
+            </div>
 
-
-
-
-</div>
-
-
-                        <!-- only load google ads if it's not an ie browser as google doesn't support <=ie9 -->
-                        <!--[if gte IE 9]><!-->
-                                                <!--<![endif]-->
-
-                         <footer class="site-footer">
-                            <div class="row">
-                                <div class="col-sm-12">
-                                                                             
-
-        <div class="col-sm-3 col-xs-6 ">
-         <ul class="footer-section">
-         <li class="pink"><strong>Holiday Information</strong></li>
-                      <li><a href="/destinations">Destinations</a></li>
-                        <li><a href="/holidays">Holiday Types</a></li>
-                    </ul>
-    </div>
-
-        <div class="col-sm-3 col-xs-6 ">
-         <ul class="footer-section">
-         <li class="pink"><strong>About icelolly.com</strong></li>
-                      <li><a href="/standards">Customer Standards</a></li>
-                        <li><a href="/customer-journey">Customer Journey</a></li>
-                        <li><a href="/about-us">About Us</a></li>
-                        <li><a href="/jobs">Jobs @ icelolly.com</a></li>
-                        <li><a href="/advertise-with-us">Advertise With Us</a></li>
-                        <li><a href="/charity">Charity</a></li>
-                    </ul>
-    </div>
-
-        <div class="col-sm-3 col-xs-6 ">
-         <ul class="footer-section">
-         <li class="pink"><strong>icelolly.com Terms</strong></li>
-                      <li><a href="/terms-and-conditions">Terms &amp; Conditions</a></li>
-                        <li><a href="/privacy-policy">Privacy Policy</a></li>
-                        <li><a href="/acceptable-use-policy">Acceptable Use Policy</a></li>
-                        <li><a href="/terms-of-website-use">Terms of Website Use</a></li>
-                        <li><a href="/newsletter-terms">Newsletter Terms</a></li>
-                    </ul>
-    </div>
-
-        <div class="col-sm-3 col-xs-6 ">
-         <ul class="footer-section">
-         <li class="pink"><strong>Information</strong></li>
-                      <li><a href="/faqs">FAQs</a></li>
-                        <li><a href="/newsletter/subscribe">Subscribe</a></li>
-                        <li><a href="/unsubscribe">Unsubscribe</a></li>
-                        <li><a href="/contact-us">Contact Us</a></li>
-                        <li><a href="/press-office">Press Office</a></li>
-                    </ul>
-    </div>
- 
-                                                                    </div>
-                            </div>
-                        </footer>
-                    </div> <!-- end col-sm-8 col-md-9" id="content-container"-->
-                   
-            </div><!-- row-->
-
-
+            <!-- only load google ads if it's not an ie browser as google doesn't support <=ie9 -->
+            <!--[if gte IE 9]><!-->
+            <!--<![endif]-->
         </div>
     </div>
     <!-- end row-->
-
-
 </div>
 <!-- /.container -->
 
+<footer class="layout-footer">
+            <div class="vwoFooter">
+    <div class="wrapper">
+        <form id="newsletter-signup-form" class="ic-form form-inline" action="/emailoffers/subscribe" method="post">
+            <div class="newsletter-title col-lg-6">Win an All Inclusive holiday*</div>
+            <div class="form-input-wrapper col-lg-6">
+                <div class="email-input-wrapper col-md-8">
+                    <input class="input-email" type="email" name="emailoffers_subscription_request[emailAddress]" id="email-address" placeholder="Enter Email Address">
+                </div>
+                <button class="button-submit col-md-4 col-xs-12" type="submit">Sign me up</button>
+            </div>
+            <div class="newsletter-label col-xs-12">
+                Take your chance to win by signing up to our emails, you'll also receive exclusive holiday deals
+                and offers.
+            </div>
+            <div class="newsletter-details col-xs-12">
+                *<a href="/emailoffers/competitions">Terms &amp; conditions apply.</a> Please
+                see our
+                <a href="/privacy-policy">privacy
+                    policy here.</a>
+            </div>
+        </form>
+    </div>
+</div>
+        <div class="wrapper">
+        <div class="row">
+            <div class="col-sm-12">
+                                        <div class="offers-newsletter-dialog" id="ab-version" style="display: none;">
+        <div class="holiday-offers-newsletter">
+            <form id="newsletter-signup-form" data-request="ajax" class="ic-form form-inline" action="/emailoffers/subscribe" method="post">
+                <span class="close-offers-dialog">
+                    <i class="fa fa-times-circle"></i>
+                </span>
 
+                <div class="newsletter-submission-result"></div>
 
+                <img class="spinner" src="https://1aa7635416d647e91b2f-9109051898dc340f545a7bcf3591f62d.ssl.cf3.rackcdn.com/english/loader_round.gif" alt="Loading icelolly.com Deals">
 
+                <div class="row newsletter-fields">
+                    <div class="col-sm-12">
+                        <div class="newsletter-title">Sign up to our emails for a chance to win a holiday!</div>
 
-    
-        <script src="/Resources/public/js/vendors.js"></script>
-    
-    
-    <script type="text/javascript">
-        var loadingGraphic = '<div class="img-container text-center"><img class="spinner" src="http://cdn.icelolly.com/english/loader_round.gif"/></div>';
-var searchType = 'sun';
+                        <label class="newsletter-label" for="email-adddress">
+                            Get fantastic holiday deals straight into your inbox
+                        </label>
+                    </div>
+                    <div class="fields-container col-sm-12">
+                        <div class="field-input">
+                            <input class="input-email" type="email" name="emailoffers_subscription_request[emailAddress]" id="email-address" placeholder="Enter your email address">
+                        </div>
+                        <div class="field-submit">
+                            <button class="button-submit" type="submit">Sign me up</button>
+                        </div>
+                    </div>
 
-            </script>
+                    <div class="col-sm-12 newsletter-terms">
+                        <a href="/emailoffers/competitions" title="Terms &amp; conditions apply">Terms &amp; conditions apply</a>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+    <!--holiday-offers-email-home row-->
+    <div class="holiday-offers-newsletter" id="main-version">
+        <form id="newsletter-signup-form" class="ic-form form-inline" action="/emailoffers/subscribe" method="post">
+            <div class="row">
+                <div class="col-sm-6">
+                    <div class="newsletter-title">Holiday offers by email</div>
 
-        <script src="/Resources/public/js/script.js"></script>
-    
-    <script type="text/javascript">
-var searchForms = {};
-var autoCompleteCache = {};
-var autoCompleteBaseUrl = '/holiday-search/autocomplete/';
-var previousType;
-var currentType;
-var startingDestinationText, anyDestinationTxt = 'Any Destination';
-var loadingDestinationsTxt = 'Loading Destinations...';
-var formRequest = '';
-var forms = [
-    '[name="offerFeedback"]'
-];
-var loadingGraphic = '<div class="img-container text-center"><img class="spinner" src="http://cdn.icelolly.com/english/loader_round.gif"/></div>';
-var mobileFormMoved;
-var formVals = {};
+                    <label class="newsletter-label" for="email-adddress">
+                        Enter your email address to receive and view exclusive offers from icelolly.com
+                    </label>
+                </div>
+                <div class="fields-container col-sm-6">
+                    <div class="field-input">
+                        <input class="input-email" type="email" name="emailoffers_subscription_request[emailAddress]" id="email-address" placeholder="Enter your email address">
+                    </div>
+                    <div class="field-submit">
+                        <button class="button-submit" type="submit">Sign me up</button>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div><!--holiday-offers-email-home row-->
 
+<script>
+    window.icNewsletterTest = function(itemClass) {
+        $(document).ready(function() {
+            var $body = $("body");
 
-function retrieveAutoCompleteJson(currentType)
-{
-    if ( ! autoCompleteCache[currentType] && currentType != 'cruise') {
+            if(itemClass == "page-overlay-offers") {
+                setTimeout(function() {
+                    $body.addClass(itemClass);
+                }, 5000);
+            } else {
+                $body.addClass(itemClass);
+            }
 
-        var element = $('input#destination');
-        if (element.val() != '') {
-            startingDestinationText = element.val();
-        }
+            if($body.hasClass("homepage")) {
+                $("#ab-version").show();
+                $("#main-version").remove();
+            }
 
-        element.attr('readonly', true).val(loadingDestinationsTxt);
+            if(window.localStorage && $body.hasClass("homepage")) {
+                var isDisplayed = localStorage.getItem('icNewsletterDialogDisplayed');
 
-        $.getJSON(autoCompleteBaseUrl+currentType, function(data) {
-            $('input#destination').attr('readonly', false).val(startingDestinationText);
-            autoCompleteCache[currentType] = data;
-        });
-    }
-}
-
-function buildAutoCompleteResults(request, response)
-{
-    // Check for search type in cache
-    if (currentType in autoCompleteCache) {
-        // Group all of the search words into an array
-        var searchWords = request.term.split(' ');
-
-        var items = autoCompleteCache[currentType];
-        // var destination = item.label.toLowerCase();
-
-        // Use _.filter to search over all the items
-        response(_.filter(items, function (item) {
-            var itemText = '';
-
-            _.each(item, function (subitem) {
-                if (subitem !== null) {
-                    if (typeof subitem == 'object') {
-                        _.each(subitem, function(subsubitem) {
-                            if (subsubitem instanceof Array) {
-                                subsubitem = subsubitem.join(' ');
-                            }
-
-                            itemText += ' ' + subsubitem.toLowerCase();
-                        });
-                    } else {
-                        itemText += ' ' + subitem.toLowerCase();
+                if(!isDisplayed) {
+                    if($body.hasClass("page-box-offers")) {
+                        setTimeout(function() {
+                            $body.addClass("loaded");
+                        }, 3500);
                     }
+
+                    $(".close-offers-dialog").on("click", function() {
+                        $body.addClass("animating");
+
+                        setTimeout(function() {
+                            $body.removeClass("animating page-overlay-offers");
+                            $(".offers-newsletter-dialog").removeClass('offers-newsletter-dialog');
+                        }, 500);
+                    });
+
+                    localStorage.setItem('icNewsletterDialogDisplayed', true);
+                } else {
+                    $body.removeClass("page-overlay-offers page-box-offers");
+                    $(".offers-newsletter-dialog").removeClass('offers-newsletter-dialog');
                 }
-            });
-
-            return _.every(searchWords, function (searchWord) {
-                return itemText.search(searchWord.toLowerCase()) !== -1;
-            });
-        }));
-
-    }
-}
-
-function selectAutoCompleteOption(e, ui)
-{
-    e.preventDefault();
-
-    var element = $(this);
-    element.data('chosenLabel', ui.item.label);
-
-    // Clear all the hidden input boxes
-    $('#holiday-search-destination input').val('');
-    $('#holiday-search-country input').val('');
-    $('#holiday-search-regions input').val('');
-    $('#holiday-search-resort input').val('');
-    $('#holiday-search-accommodation input').val('');
-
-    // Set the visible destination
-    $('#holiday-search-destination input').val(ui.item.label);
-
-    // Set the country code
-    if (ui.item.country) {
-        $('#holiday-search-country input').val(ui.item.country.code);
-    }
-
-    // Set the regions
-    if (ui.item.region) {
-        $('#holiday-search-regions input').val(ui.item.region.airportCodes.join(','));
-    }
-
-    // Set the resort
-    if (ui.item.resort) {
-        $('#holiday-search-resort input').val(ui.item.resort);
-    }
-}
-
-function loadForm(callback)
-{
-    if (formRequest != '') {
-        formRequest.abort();
-    }
-
-    if ( ! searchForms[currentType]) {
-        $('#holiday-search-form-container').html(loadingGraphic);
-        formRequest = $.get('/holiday-search/render-form/'+currentType, function(html) {
-            searchForms[currentType] = html;
-            applyForm(html);
-
-            if (typeof callback == 'function') {
-                callback();
             }
-
         });
-    } else {
-        applyForm(searchForms[currentType]);
-    }
-
-    if (typeof callback == 'function') {
-        callback();
-    }
-}
-
-function applyForm(form_html)
-{
-    $('#holiday-search-form-container').html(form_html);
-    retrieveAutoCompleteJson(currentType);
-    applyFormPlugins();
-
-    $("#search-form").submit(function() {
-        sendGoogleAnalyticsEvent();
-    });
-}
-
-function applyFormPlugins()
-{
-    // Destination autocomplete (simple implementation)
-    $('#holiday-search-destination input').autocomplete({
-        autoFocus: true,
-        minLength: 0,
-        source: buildAutoCompleteResults,
-        select: selectAutoCompleteOption,
-        change: function (event, ui) {
-            var element = $(this),
-                text = element.data('chosenLabel') || startingDestinationText;
-            element.val(text);
-            GATrackEvent('search-form', 'destination', 'change');
-        }
-    });
-
-    $('#holiday-search-destination input').click(function(){
-        $(this).val('').autocomplete('search');
-    });
-
-    // Datepickers
-    $('#holiday-search-date input').datepicker({
-        dateFormat: 'dd/mm/yy',
-        minDate: 0,
-        maxDate: "+2y",
-        changeMonth:true,
-        changeYear: true
-    });
-}
-
-function showAnotherAirport(e)
-{
-    if (typeof e != 'undefined') {
-        e.preventDefault();
-    }
-    var hiddenAirports = $('#holiday-search-form-container .optional-airport.hide');
-    hiddenAirports.first().removeClass(function(){
-        if (hiddenAirports.length == 1) {
-            $('#holiday-search-form-container .add-airport').hide();
-        }
-
-        return 'hide';
-    });
-}
-
-
-function postForm(form, callback) {
-
-    var deferred = $.Deferred();
-
-    /*
-     * Get all form values
-     */
-    var values = {};
-    $.each(form.serializeArray(), function(i, field) {
-        values[field.name] = field.value;
-    });
-
-    /*
-     * Throw the form values to the server!
-     */
-    $.ajax({
-        type: form.attr('method'),
-        url: form.attr('action'),
-        data: values,
-        success: function(data) {
-            callback(data);
-            deferred.resolve();
-        }
-    }).fail(function() {
-        deferred.rejected();
-    });
-
-    return deferred.promise();
-}
-
-function validateEmail(emailAddress)
-{
-    var pattern = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
-
-    return pattern.test(emailAddress);
-}
-
-function bindGAEvents() {
-    var form = $('#search-form-container');
-
-    form
-        .on('click', 'nav.search-form-holiday-icons li', function () {
-            if (!$(this).hasClass('selected')) {
-                GATrackEvent('search-form', 'holiday-type', 'change');
-            }
-        })
-        .on('change', '#date', function () {
-            GATrackEvent('search-form', 'date', 'change');
-        })
-        .on('change', '#flexibility', function () {
-            GATrackEvent('search-form', 'flexibility', 'change');
-        })
-        .on('change', '#duration', function () {
-            GATrackEvent('search-form', 'duration', 'change');
-        })
-        .on('change', '#board_basis', function () {
-            GATrackEvent('search-form', 'board-basis', 'change');
-        })
-        .on('change', '#star_rating', function () {
-            GATrackEvent('search-form', 'star-rating', 'change');
-        })
-        .on('click', 'a.add-airport', function () {
-            GATrackEvent('search-form', 'add-airport', 'click');
-        })
-        .on('change', '#departure_airport1', function () {
-            GATrackEvent('search-form', 'airport1', 'change');
-        })
-        .on('change', '#departure_airport2', function () {
-            GATrackEvent('search-form', 'airport2', 'change');
-        })
-        .on('change', '#departure_airport3', function () {
-            GATrackEvent('search-form', 'airport3', 'change');
-        })
-        .on('change', '#email', function () {
-            GATrackEvent('search-form', 'enter-email', 'change');
-        });
-}
-
-function sendGoogleAnalyticsEvent() {
-    var email = $("#email").val();
-    var is_valid = validateEmail(email);
-    if(is_valid){
-        GATrackEvent('search-form', 'user entered valid email address');
-    }
-
-    var holidayType = $('.search-form-holiday-icons .selected').text();
-    holidayType += ' Search';
-
-    GATrackEvent('search-form', 'Search Form Submitted', holidayType);
-}
-
-function setUserSearchAction(e)
-{
-    $('#userSearchAction').val(1);
-    return true;
-}
-
-function showHideMobileSearchForm(e)
-{
-    e.preventDefault();
-
-    if (! $('body').hasClass('homepage')) {
-        $('#main-menu').hide();
-        $('#mobile-menu-search-form-container').stop().slideToggle(100, function () {
-
-            $('#menu-toggle-text').text('Show Menu');
-
-            if ($(this).is(':hidden')) {
-
-                // Hiding the mobile search form
-                $('#search-form-container').addClass('hidden-xs').prependTo('#sidebar-container');
-                //$('.ui-autocomplete').removeStyle('zIndex', 1001);
-                mobileFormMoved = true;
-
-            } else {
-
-               // Showing the mobile search form
-                $('#search-form-container').removeClass('hidden-xs').appendTo('#mobile-menu-search-form-container');
-                mobileFormMoved = false;
-
-            }
-
-            return false;
-        });
-    } else {
-        $('html, body').animate({scrollTop: 0}, 1000);
-    }
-}
-
-
-function changeHolidayTypeImage(type)
-{
-    $('.holiday-type-image-container').each(function() {
-        $(this).addClass('hide');
-    });
-    $('.holiday-type-image-container#'+ type +'-holiday-img-container').removeClass('hide');
-
-    $('.homepage-flexslider').each(function() {
-        $(this).addClass('hide');
-    });
-    $('.homepage-flexslider#slider-'+ type).removeClass('hide');
-}
-
-
-function changeHolidayType(callBack)
-{
-    var form_container = $('#holiday-search-form-container');
-
-    if (form_container.hasClass('populated')) {
-        retrieveAutoCompleteJson(currentType);
-        applyFormPlugins();
-        form_container.removeClass('populated');
-    } else {
-        loadForm(applyFormVals);
-    }
-}
-
-function saveFormVals()
-{
-    if (typeof currentType == 'undefined') {
-
-        return;
-    }
-    formVals[currentType] = $('#holiday-search-form-container').find('form').serializeArray();
-
-
-}
-
-function applyFormVals()
-{
-    var form = $('#holiday-search-form-container').find('form');
-
-    if (typeof formVals[currentType] == 'undefined') {
-        return;
-    }
-
-    var vals = formVals[currentType];
-
-    _.filter(vals, function(val){
-        if (val.name) {
-            form.find('input[name="'+val.name+'"]').val(val.value);
-            form.find('select[name="'+val.name+'"]').val(val.value);
-            if ((val.name == 'departure_airport2' || val.name == 'departure_airport3') && val.value != '') {
-                showAnotherAirport();
-            }
-        }
-    });
-
-
-
-}
-
-function showSearchButtons(e)
-{
-    previousType = currentType;
-
-    saveFormVals();
-
-    currentType = $(this).attr('data-attr-search-type');
-
-    $('.search-form-holiday-icons li').removeClass('selected');
-
-    $('.search-form-holiday-icons li.' + currentType).addClass('selected');
-
-    $('#holiday-type').hide();
-
-     changeHolidayType(currentType);
-
-     //changeHolidayTypeImage(currentType);
-}
-
-function showSearchDropdown(){
-
-    $('.search-form-holiday-icons').hide();
-
-    currentType = $(this).val();
-
-    changeHolidayType(currentType);
-
-    changeHolidayTypeImage(currentType);
-}
-
-
-$(document).ready(function()
-{
-    $(document).on('click','.search-form-holiday-icons a', showSearchButtons);
-    $('.search-form-holiday-icons .selected a').trigger('click');
-
-    //$('.homepage-flexslider').flexslider({ slideshowSpeed:4000, directionNav:false });
- 
-    // Show optional airports
-    $(document).on('click', '#holiday-search-form-container .add-airport', showAnotherAirport);
-
-    // Submit the search form
-    $('#holiday-search-form-container').on('submit', 'form', setUserSearchAction);
-
-    // Submitting forms
-    $(forms.join(',')).submit(function(e) {
-        e.preventDefault();
-
-        var form = $(this);
-        var alertBox = $('[name="offerFeedback"] .alert');
-
-        postForm(form, function(response) {
-            alertBox[0].innerHTML = '';
-            alertBox.removeClass('alert-success');
-            alertBox.removeClass('alert-danger');
-
-            if (response.success) {
-                alertBox.addClass('alert-success').removeClass('hide');
-                alertBox[0].innerHTML = '<p>Your feedback has been submitted. Thanks!</p>';
-            } else {
-                alertBox.addClass('alert-danger').removeClass('hide');
-                alertBox[0].innerHTML = '<p>Unable to submit your feedback, please check your details.</p>';
-            }
-        }).done(function() {
-            // Clear all the input fields within the form after submit
-            $(':input', form).not(':button, :submit, :reset, :hidden').val('').removeAttr('checked').removeAttr('selected');
-        });
-
-        return false;
-    });
-
-    // Advertiser modal
-    $('#content-container').on("click", 'a.advertiser-modal', function(e) {
-        e.preventDefault();
-
-        var url = '/holiday-search/provider-modal';
-        var offerId = $(this).data('offer-id');
-        var searchType = $(this).data('search-type');
-
-        url += '/'+searchType+'/'+offerId;
-
-        var modalContent = $('#modal-container .modal-content');
-            modalContent.empty();
-
-        $.ajax({
-            url: url,
-            contentType: 'text/html',
-            success: function (data) {
-                modalContent.addClass('advertiser-modal');
-                modalContent.html(data);
-            }
-        }).done(function() {
-            $('#modal-container').modal({show: true});
-            rTapNotifyDOMChange($('#modal-container')[0]);
-        });
-    });
-
-    // Advertiser modal inline
-    $('#content-container').on("click", 'a.advertiser-modal-inline', function(e) {
-        e.preventDefault();
-        var modalContent = $('#modal-container .modal-content');
-        var offer_id = $(this).attr('data-offer-id');
-        modalContent.empty();
-        modalContent.addClass('advertiser-modal');
-        modalContent.html($('#advertiser-' + offer_id).html());
-        $('#modal-container').modal({show: true});
-    });
-
-    // Hotel information inline (XML search)
-    $('#content-container').on("click", 'a.hotel-information-inline', function(e) {
-        e.preventDefault();
-        var offer_id = $(this).attr('data-offer-id');
-        var modalContent = $('#modal-container .modal-content');
-        modalContent.empty();
-        modalContent.addClass('hotel-modal');
-        var modalHtml = $('#hotelInfo-' + offer_id).html();
-        modalContent.html(modalHtml);
-
-        $('#modal-container').modal({show: true});
-    });
-
-    // Mobile Holiday Search Form
-    $('#mobile-search-toggle').click(showHideMobileSearchForm);
-
-    $(window).resize(function(){
-        // Hide the mobile search form, if visible
-        if ($('#mobile-search-toggle').is(':not(:visible)') && $('#mobile-menu-search-form-container').is(':visible')) {
-            if ((typeof mobileFormMoved !== 'undefined') && mobileFormMoved === false) {
-                $('#mobile-search-toggle').trigger('click');
-                mobileFormMoved = true;
-            }
-        }
-    });
-
-    bindGAEvents();
-});
+    };
 </script>
-    <script type="text/javascript">
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-2182790-7']);
-        _gaq.push(['_trackPageview']);
 
-        (function () {
-            var ga = document.createElement('script');
-            ga.type = 'text/javascript';
-            ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(ga, s);
-        })();
-    </script>
 
-    <script type="text/javascript">var addthis_config = {"data_track_addressbar": false};</script>
-    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-537c88280b0d929d"></script>
+<div class="footer-links">
+    <div class="row">
+        <div class="col-md-8">
+            <div class="row">
+                                    <div class="col-sm-3 col-xs-6 ">
+                        <ul class="footer-section">
+                            <li class="footer-section-header"><strong>Cheap Holidays</strong></li>
+                                                            <li><a href="/destinations" title="Destinations">Destinations</a></li>
+                                                            <li><a href="/holidays" title="Holiday Deals">Holiday Deals</a></li>
+                                                            <li><a href="/blog" title="Holiday Blog">Holiday Blog</a></li>
+                                                    </ul>
+                    </div>
+                                    <div class="col-sm-3 col-xs-6 ">
+                        <ul class="footer-section">
+                            <li class="footer-section-header"><strong>About icelolly.com</strong></li>
+                                                            <li><a href="/about-us" title="About Us">About Us</a></li>
+                                                            <li><a href="/contact-us" title="Contact Us">Contact Us</a></li>
+                                                            <li><a href="/is-icelolly-safe" title="Is icelolly.com safe?">Is icelolly.com safe?</a></li>
+                                                    </ul>
+                    </div>
+                                    <div class="col-sm-3 col-xs-6 ">
+                        <ul class="footer-section">
+                            <li class="footer-section-header"><strong>icelolly.com</strong></li>
+                                                            <li><a href="/privacy-policy" title="Privacy Policy">Privacy Policy</a></li>
+                                                            <li><a href="/terms-and-conditions" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
+                                                            <li><a href="/sitemap" title="Site Map">Site Map</a></li>
+                                                    </ul>
+                    </div>
+                                    <div class="col-sm-3 col-xs-6 ">
+                        <ul class="footer-section">
+                            <li class="footer-section-header"><strong>Information</strong></li>
+                                                            <li><a href="/faqs" title="FAQ">FAQ</a></li>
+                                                            <li><a href="/emailoffers" title="Email Offers">Email Offers</a></li>
+                                                            <li><a href="/app" title="icelolly.com App">icelolly.com App</a></li>
+                                                    </ul>
+                    </div>
+                            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="social-icons">
+    <span class="footer-section-header">Find More Holiday Inspiration</span>
+    <ul id="social-header-icons">
+        <li>
+            <a target="_blank" href="https://www.facebook.com/icelollyholidays" title="Facebook">
+                <i class="fa fa-facebook"></i>
+            </a>
+        </li>
+        <li>
+            <a target="_blank" href="https://twitter.com/icelollyholiday" title="Twitter">
+                <i class="fa fa-twitter"></i>
+            </a>
+        </li>
+        <li>
+            <a target="_blank" href="https://www.youtube.com/user/icelollyholidays" title="Youtube">
+                <i class="fa fa-youtube"></i>
+            </a>
+        </li>
+        <li>
+            <a target="_blank" href="https://plus.google.com/+icelolly" rel="publisher" title="Google+">
+                <i class="fa fa-google-plus"></i>
+            </a>
+        </li>
+        <li>
+            <a target="_blank" href="https://instagram.com/icelollyholiday" title="Instagram">
+                <i class="fa fa-instagram"></i>
+            </a>
+        </li>
+    </ul>
+</div>
 
-     <script type="text/javascript" async="" data-pin-hover="true" src="//assets.pinterest.com/js/pinit.js"></script>
+        </div>
+    </div>
+</div>
 
-    <script>
-        //do something with everything wrapped in a class of numberReplace
-var adiInit = "12191", adiRVO = true;
-var adiFunc = null;
-var adiZeroConfig = {
-    classes: ['numberReplace']
-};
+<div class="footer-copyrights text-center">
+    <p>Copyright © 2016 Icelolly Marketing Ltd</p>
+    <p>Registered in England Company No. 05655962</p>
+    <p>VAT No. GB175996442</p>
+</div>
 
-function rTapPostReplacement() {
-    if ('undefined' !== typeof _vis_opt_experiment_id && 'undefined' !== typeof _vwo_exp[_vis_opt_experiment_id] && 'undefined' !== typeof _vwo_exp[_vis_opt_experiment_id].combination_chosen) {
-        adiFunc.pushVariable(0, _vis_opt_experiment_id);
-        adiFunc.pushVariable(1, '202');
-        adiFunc.pushVariable(2, _vwo_exp[_vis_opt_experiment_id].combination_chosen);
-        adiFunc.flushVariables();
-    }
-}
+                            </div>
+        </div>
+    </div>
+</footer>
+    <div class="modal fade" id="modal-container" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog modal-lg">
+        <div class="modal-content">
+            
+        </div>
+    </div>
+</div>    
+    <script src="/Resources/public/js/vendors-fa0b8e5.js"></script><script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
 
-(function () {
-    var adiSrc = document.createElement("script");
-    adiSrc.type = "text/javascript";
-    adiSrc.async = true;
-    adiSrc.src = ("https:" == document.location.protocol ? "https://s0tatic-ssl" : "http://static-cdn")
-        + ".responsetap.com/static/scripts/rTapTrack.min.js";
-    var s = document.getElementsByTagName("script")[0];
-    s.parentNode.insertBefore(adiSrc, s);
-})();
-    </script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"bfcafef50a","applicationID":"1885026","transactionName":"MVwBN0EHCBJUAkUKWQgWIBZAEgkMGghSBloJVQ8abAEDD1ATUA9pBVYNF1YIEj5GFVAXXwVJAgRW","queueTime":0,"applicationTime":65,"ttGuid":"","agentToken":"","atts":"HRsWQQkdRBJZFFZBDERJEQpFBwUYGBFeD18FQEEeH0QHQw8aTB4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-412.min.js"}</script>
+        <script type="text/javascript">var loadingGraphic = '<div class="img-container text-center"><img class="spinner" src="https\x3A\x2F\x2F1aa7635416d647e91b2f\x2D9109051898dc340f545a7bcf3591f62d.ssl.cf3.rackcdn.com\x2Fenglish/loader_round.gif" alt="Loading Icelolly.com Deals" /></div>';
+var searchType = 'sun';
+$(document).ready(function(){
+    $.cookieBar({
+        message: '<div class="col-md-9 small"><span class="cbHeader">To give you the best possible experience, this site uses cookies. Continuing to use icelolly.com means you agree to our use of cookies.</span></div>',
+        acceptText: 'I Agree',
+    });
+    $('a[class=cb-enable]').addClass('btn text-center btn-sm squaredButton').wrap("<div class='col-md-3 text-center' id='cookiebar_actions'></div>");
+    $('#cookiebar_actions').append(" <a class='btn-info btn btn-sm' href='/privacy-policy'>Learn More</a>").after("<div class='clearfix'></div>");
+    $('#cookie-bar').wrapInner('<div class="container"></div>');
+    $('a[class=cb-enable]').addClass('btn-sm');
+});
+</script><script src="/js/5c95a17-890d410.js"></script><script src="/Resources/public/js/script-bb5566c.js"></script>
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"bfcafef50a","applicationID":"1885026","transactionName":"MVwBN0EHCBJUAkUKWQgWIBZAEgkMGghSBloJVQ8abAEDD1ATUA9pBVYNF1YIEj5GFVAXXwVJAgRW","queueTime":0,"applicationTime":149,"atts":"HRsWQQkdG00XABNZTRtE","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
-<script src="https://js-agent.newrelic.com/nr-412.min.js"></script></body></html>
+</body></html>
