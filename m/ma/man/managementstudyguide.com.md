@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the managementstudyguide.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226024234id_/http%3A//managementstudyguide.com/msg-privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the managementstudyguide.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515012002id_/http%3A//managementstudyguide.com/msg-privacy-policy.htm) for the most accurate reproduction.*
 
 # MSG Privacy Policy
 
