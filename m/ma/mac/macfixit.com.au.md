@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the macfixit.com.au privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908033208id_/https%3A//www.macfixit.com.au/faq/question/view/q/privacy-policy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macfixit.com.au privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514092955id_/https%3A//www.macfixit.com.au/faq/question/view/q/privacy-policy-cookies) for the most accurate reproduction.*
 
-# FAQ - Question / Privacy & Cookies
+# FAQ - Question / Privacy & Cookies - Macfixit Australia
 
 ## Privacy Policy
 
@@ -249,13 +249,13 @@ As part of the services that we provide to you, we may:
 
 (c)disclose your personal information to our related entities, any one or more of the Recipient Parties or to our business partners (including third party facilitators) to enable them to tell you about a product or service that you might be interested in.
 
-By providing your personal information to us or by agreeing to accept the terms of this privacy policy, or both, you consent to your personal information being included in our database to be used for direct marketing purposes, including those described above, however, you can opt-out, unsubscribe or make a request not receive direct marketing communications from us, by calling us on 03 9329 4343 or by writing to us at Macfixit Australia Pty Ltd, 2 Lothian Street, North Melbourne 3051, or at [http://www.macfixit.com.au/contact-us](https://www.macfixit.com.au/contact-us) or by logging such a request through the Website at any time. Additionally, each direct marketing communication, including all emails and SMS, will include an opt-out or "unsubscribe" option which will immediately indicate to us that you no longer wish to receive materials of this kind. If you make a request not to receive direct marketing communications from us, we will stop sending you these materials.
+By providing your personal information to us or by agreeing to accept the terms of this privacy policy, or both, you consent to your personal information being included in our database to be used for direct marketing purposes, including those described above, however, you can opt-out, unsubscribe or make a request not receive direct marketing communications from us, by calling us on 03 9329 4343 or by writing to us at Macfixit Australia Pty Ltd, PO Box 2244, Footscray, Victoria 3011, or at <https://www.macfixit.com.au/contacts> or by logging such a request through the Website at any time. Additionally, each direct marketing communication, including all emails and SMS, will include an opt-out or "unsubscribe" option which will immediately indicate to us that you no longer wish to receive materials of this kind. If you make a request not to receive direct marketing communications from us, we will stop sending you these materials.
 
 You may make a request that we do not disclose your personal information to facilitate direct marketing by another organisation and you may request that we provide you with the source of any personal information we use for direct marketing purposes. Any such requests will be actioned within a reasonable period and there will be no charges to you for making, or to you from us actioning, such requests.
 
 ### How do I opt out of your marketing communication?
 
-You can opt-out, unsubscribe or make a request not receive direct marketing communications from us, by calling us on 03 9329 4343 or by writing to us at Macfixit Australia Pty Ltd, 2 Lothian Street, North Melbourne 3051, or at [http://www.macfixit.com.au/contact-us](https://www.macfixit.com.au/contact-us) or by logging such a request through the Website at any time. Additionally, each direct marketing communication, including all emails and SMS, will include an opt-out or "unsubscribe" option which will immediately indicate to us that you no longer wish to receive materials of this kind. If you make a request not to receive direct marketing communications from us, we will stop sending you these materials.
+You can opt-out, unsubscribe or make a request not receive direct marketing communications from us, by calling us on 03 9329 4343 or by writing to us at Macfixit Australia Pty Ltd, PO Box 2244, Footscray 3011, or at <https://www.macfixit.com.au/contacts> or by logging such a request through the Website at any time. Additionally, each direct marketing communication, including all emails and SMS, will include an opt-out or "unsubscribe" option which will immediately indicate to us that you no longer wish to receive materials of this kind. If you make a request not to receive direct marketing communications from us, we will stop sending you these materials.
 
 ### How do we store your personal information?
 
@@ -277,7 +277,7 @@ We take reasonable steps to ensure that:
 
 ### How can you access your personal information?
 
-Usually we will be able to provide you with access to your personal information upon receipt of your written request, either by email sent to Macfixit Australia Pty Ltd, at [http://www.macfixit.com.au/contact-us](https://www.macfixit.com.au/contact-us) or by post sent to Macfixit Australia, 2 Lothian Street, North Melbourne 3051, and confirmation of your identity.
+Usually we will be able to provide you with access to your personal information upon receipt of your written request, either by email sent to Macfixit Australia Pty Ltd, at <https://www.macfixit.com.au/contacts> or by post sent to Macfixit Australia, 2 Lothian Street, North Melbourne 3051, and confirmation of your identity.
 
 There are some limited circumstances in which we may not be able to provide you with access to your personal information when requested. Such circumstances might include where access would pose a serious threat to the life, health or safety of another person or where such access would unreasonably impact on the privacy of others.
 
@@ -314,8 +314,8 @@ We will not charge you for any request to correct your personal information, nor
 We are committed to maintaining and protecting your privacy but it is possible that in limited circumstances, mistakes might be made. If you are concerned with the way your personal information has been handled then you are entitled to make a complaint. If you would like to lodge a complaint, please contact us through our Privacy Compliance Officer, whose details are set out below.
 
 Macfixit Australia Pty Ltd  
-Postal address: 2 Lothian Street, North Melbourne 3051  
-E-mail - please email us through our online contact form here: [http://www.macfixit.com.au/contact-us](https://www.macfixit.com.au/contact-us)  
+Postal address: PO Box 2244, Footscray, Victoria 3011  
+E-mail - please email us through our online contact form here: <https://www.macfixit.com.au/contacts>  
 Phone: 03 9329 4343
 
 If your personal information has not been handled in an appropriate way, we will do our best to remedy your concerns as quickly as possible, including by acknowledging receipt of your complaint within 48 hours and trying to resolve the complaint within 10 working days. Where this is not possible, we will contact you within this period to let you know an anticipated time frame within which your complaint will be resolved.
@@ -341,8 +341,8 @@ Please find below our contact details. Please do not hesitate to contact us in r
 If it is practical to do so, you can contact us without identifying yourself. However, if you choose not to identify yourself, it may be more difficult for us to assist you with your enquiry. This will depend on the nature of your enquiry.
 
 Macfixit Australia Pty Ltd  
-Postal address: 2 Lothian Street, North Melbourne 3051  
-E-mail - please email us through our online contact form here: [http://www.macfixit.com.au/contact-us](https://www.macfixit.com.au/contact-us)  
+Postal address: PO Box 2244, Footscray, Victoria 3011  
+E-mail - please email us through our online contact form here: <https://www.macfixit.com.au/contacts>  
 Phone: 03 9329 4343
 
 ### Express consent to collection, storage, use and disclosure
