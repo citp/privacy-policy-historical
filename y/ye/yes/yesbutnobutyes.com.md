@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yesbutnobutyes.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107070619id_/http%3A//www.yesbutnobutyes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesbutnobutyes.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514130845id_/http%3A//www.yesbutnobutyes.com/privacy.html) for the most accurate reproduction.*
 
 # YesButNoButYes: Privacy Policy
 
