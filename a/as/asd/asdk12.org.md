@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asdk12.org privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207092946id_/http%3A//asdk12.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asdk12.org privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514034426id_/http%3A//www.asdk12.org/privacy) for the most accurate reproduction.*
 
 # Privacy & Terms of Use - ASD Online - The website of the Anchorage School District
 
