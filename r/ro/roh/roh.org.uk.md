@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the roh.org.uk privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905055001id_/http%3A//www.roh.org.uk/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roh.org.uk privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514111950id_/http%3A//www.roh.org.uk/policies/privacy) for the most accurate reproduction.*
 
 # Privacy — Royal Opera House
 
 **1.       ****Privacy Commitment**
 
-Royal Opera House Covent Garden Foundation (the “Royal Opera House”) is committed to safeguarding your privacy online and has developed the following Privacy Notice.  This Privacy Notice explains how, and for what purposes, the Royal Opera House uses your personal information collected about you via [www.roh.org.uk](https://web.archive.org/web/20150905055001id_/http%3A//www.roh.org.uk/)  Please read this Privacy Notice carefully to understand how your personal information will be treated.
+Royal Opera House Covent Garden Foundation (the “Royal Opera House”) is committed to safeguarding your privacy online and has developed the following Privacy Notice.  This Privacy Notice explains how, and for what purposes, the Royal Opera House uses your personal information collected about you via [www.roh.org.uk](https://web.archive.org/web/20160514111950id_/http%3A//www.roh.org.uk/)  Please read this Privacy Notice carefully to understand how your personal information will be treated.
 
 **2.       ****Personal Information**
 
@@ -34,7 +34,7 @@ You can amend these settings at anytime by signing in to your online account.
 
 **5.       ****Information automatically collected from your computer**
 
-Log files/Public IP addresses: A public IP address is a unique number which allows a computer, group of computers or other internet connected device to browse to the internet.  When you visit [www.roh.org.uk](https://web.archive.org/web/20150905055001id_/http%3A//www.roh.org.uk/) the Royal Opera House’s web server automatically records your public internet protocol (“IP”) address and also generates a log file.  The log file records the time and date of your visit, the pages that were requested, the referring website (if provided) and your internet browser version.  This information is collected to help diagnose and manage the website, to audit the geographical make-up of users, and to establish how they have arrived at the website.
+Log files/Public IP addresses: A public IP address is a unique number which allows a computer, group of computers or other internet connected device to browse to the internet.  When you visit [www.roh.org.uk](https://web.archive.org/web/20160514111950id_/http%3A//www.roh.org.uk/) the Royal Opera House’s web server automatically records your public internet protocol (“IP”) address and also generates a log file.  The log file records the time and date of your visit, the pages that were requested, the referring website (if provided) and your internet browser version.  This information is collected to help diagnose and manage the website, to audit the geographical make-up of users, and to establish how they have arrived at the website.
 
 The Royal Opera House does not ordinarily link IP addresses to any of your personal information, which means that you remain anonymous even though the IP address is used to produce analytics information.  .
 
@@ -60,7 +60,7 @@ If you are under 16, please ensure that you obtain your parent/guardian’s cons
 
 **10.   **   **Third Party Websites**
 
-The Royal Opera House is not responsible for the privacy notices and practices of other websites even if accessed using links from [www.roh.org.uk](https://web.archive.org/web/20150905055001id_/http%3A//www.roh.org.uk/) and recommends that you check the policy of each website you visit and contact its owner or Data Protection Officer if you have any concerns or questions.
+The Royal Opera House is not responsible for the privacy notices and practices of other websites even if accessed using links from [www.roh.org.uk](https://web.archive.org/web/20160514111950id_/http%3A//www.roh.org.uk/) and recommends that you check the policy of each website you visit and contact its owner or Data Protection Officer if you have any concerns or questions.
 
 **11.   ****   Transferring your personal information outside of the Europe**
 
