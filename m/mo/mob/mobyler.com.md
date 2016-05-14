@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobyler.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405165526id_/http%3A//www.mobilevoip.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobyler.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514102558id_/http%3A//www.mobilevoip.com/en/privacy) for the most accurate reproduction.*
 
 # MobileVoip | Mobile Voip app for iPhone, Android and Symbian
 
@@ -9,6 +9,8 @@ MobileVOIP ("MobileVOIP" or "we" or "us" or "our" or other similar pronouns) tak
 When you install the MobileVOIP App and log in, you will be asked to allow us access to your mobile device's address book (collectively, "Personal Information"). 
 
 Your phone number, which will be verified via a text message that will be sent to you or phone verification, will be used for identification purposes as your MobileVOIP user ID. 
+
+MobileVOIP works with Crashlytics, Inc ("Crashlytics") to report any bug affecting our iOS and Android Apps. If either app crashes during normal use, the app will send certain information about the incident to Crashlytics. This information consists of the device type, OS version and certain hardware information about your mobile device, and the time of the crash, the state of the application at the time of the crash, and stack traces. [Click here](https://try.crashlytics.com/terms/privacy-policy.pdf) to review Crashlytics' privacy policy. 
 
 **Third-Party Sites and Privacy Practices**  
 You may arrive at our Site and/or download the MobileVOIP App from another website. In addition, our Site may contain links that will let you leave our Site and access another website. Websites linked to or from our Site are not under the control of MobileVOIP and it is possible that these websites have a different privacy policy. Our Policy applies solely to Personal Information that is acquired through your use of our Services, and/or your relationship with MobileVOIP. We urge you to be careful when you enter any personal information online. 
