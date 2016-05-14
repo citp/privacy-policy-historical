@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalenglish.com privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030043335id_/http%3A//www.globalenglish.com/cookie_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalenglish.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514215650id_/http%3A//www.globalenglish.com/cookie_policy) for the most accurate reproduction.*
 
 # Cookie policy
 
