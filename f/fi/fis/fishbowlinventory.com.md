@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fishbowlinventory.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006084532id_/https%3A//www.fishbowlinventory.com/company/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishbowlinventory.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514051854id_/http%3A//www.fishbowlinventory.com/company/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Statement | Fishbowl Inventory
+# Privacy Statement | Fishbowl
 
 ## Fishbowl Privacy Statement
 
