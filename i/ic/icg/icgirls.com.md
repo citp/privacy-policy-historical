@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icgirls.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219044802id_/http%3A//www.icgirls.com/exec/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icgirls.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514055956id_/http%3A//www.icgirls.com/exec/privacy.jsp) for the most accurate reproduction.*
 
 # Live Girls - IC Girls - Sexy Live Webcam Girls
 
