@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grandprix.com.au privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228032248id_/http%3A//www.grandprix.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandprix.com.au privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515001937id_/http%3A//www.grandprix.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Formula 1 Australian Grand Prix
 
