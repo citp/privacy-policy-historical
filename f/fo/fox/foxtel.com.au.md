@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxtel.com.au privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109121431id_/http%3A//www.foxtel.com.au/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxtel.com.au privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514085922id_/https%3A//www.foxtel.com.au/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
