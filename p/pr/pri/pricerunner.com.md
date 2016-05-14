@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pricerunner.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907024146id_/http%3A//www.pricerunner.co.uk/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricerunner.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514113143id_/http%3A//www.pricerunner.co.uk/about/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy at PriceRunner
 
@@ -99,6 +99,6 @@ You also agree that you have provided notice to, and obtained consent from, any 
 
 If you have any questions about anything in this Privacy Policy, please contact us by post or email: 
 
-PriceRunner, 53 Parker Street, London, WC2B 5PT 
+PriceRunner, The Bloomsbury Building, 10 Bloomsbury Way, London, WC1A 2SL 
 
 E-mail: privacy@pricerunner.com 
