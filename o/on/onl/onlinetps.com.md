@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlinetps.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110012653id_/http%3A//www.onlinetps.com/shop/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinetps.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514113134id_/http%3A//www.onlinetps.com/shop/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Notice : :+: www.onlineTPS.com - Electronics and Robotics Components, Buy online in India
+# Privacy Notice : OnlineTPS.com, Welcome to the World of Electronics
 
 www.onlineTPS.com and its affiliates (Total Project Solutions) respect your privacy. This Privacy Policy provides succinctly the manner your data is collected and used by www.onlinetps.com. You are advised to please read the Privacy Policy carefully. By accessing the services provided by www.onlinetps.com you agree to the collection and use of your data by www.onlinetps.com in the manner provided in this Privacy Policy.  
    
@@ -85,4 +85,4 @@ We do not rent, sell or share your personal information and we will not disclose
     * to help investigate, prevent or take action regarding unlawful and illegal activities, suspected fraud, potential threat to the safety or security of any person, violations of www.onlinetps.com's terms of use or to defend against legal claims  
     * Special circumstances such as compliance with subpoenas, court orders, requests/order, notices from legal authorities or law enforcement agencies requiring such disclosure
 
-We share your information with advertisers on an aggregate basis only. The management of www.onlineTPS.com (Total Project Solutions) reserves the right to _change_ the above Terms and conditions _without prior notice_
+We share your information with advertisers on an aggregate basis only. The management of Total Project Solutions reserves the right to  _change_  the above Terms and conditions  _without prior notice_
