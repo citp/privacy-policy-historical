@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inxtron.com privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112131320id_/http%3A//www.inxtron.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inxtron.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514134422id_/http%3A//www.inxtron.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | inXtron
+# Privacy Policy | inXtron, Inc.
 
 inXtron is committed to protect our customer's privacy. This statement is meant to inform our users of how we define, gather and utilize personally identifiable information. inXtron will take reasonable steps to protect user privacy consistent with the guidelines set forth in this policy and the applicable laws.
 
