@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agoodmovietowatch.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119073338id_/http%3A//agoodmovietowatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agoodmovietowatch.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514113033id_/http%3A//agoodmovietowatch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - A Good Movie to Watch
 
