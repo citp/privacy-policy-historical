@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the westcoastuniversity.edu privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930094014id_/https%3A//westcoastuniversity.edu/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westcoastuniversity.edu privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514215151id_/http%3A//westcoastuniversity.edu/legal/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | WCU
+# Privacy Policy
 
 This privacy notice discloses the privacy practices for www.westcoastuniversity.edu.  This privacy notice applies solely to information collected by this website, except where stated otherwise. 
 
