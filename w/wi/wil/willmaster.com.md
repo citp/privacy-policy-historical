@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the willmaster.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101081058id_/http%3A//www.willmaster.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the willmaster.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514210138id_/http%3A//www.willmaster.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Will Bontrager Software LLC Privacy Policy
 
