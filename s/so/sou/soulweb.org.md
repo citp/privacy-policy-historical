@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the soulweb.org privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114145313id_/http%3A//soulweb.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soulweb.org privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514203914id_/http%3A//soulweb.org/privacy-policy) for the most accurate reproduction.*
 
-# Soulweb – Where Internet Marketing Meets Integrity | Privacy Policy
+# Soulweb – Where Internet Marketing Meets Integrity Privacy Policy - Soulweb - Where Internet Marketing Meets Integrity
 
 Privacy Policy  
 This privacy policy (“Policy”) describes how SoulWeb and its related companies (“Company”) collect, use and share personal information of consumer users of this website, http://www.soulweb.org (the “Site”). This Policy also applies to any of our other websites that post this Policy. This Policy does not apply to websites that post different statements.
