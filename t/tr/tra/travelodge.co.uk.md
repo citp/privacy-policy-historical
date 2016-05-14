@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelodge.co.uk privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126141115id_/https%3A//www.travelodge.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelodge.co.uk privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514023434id_/https%3A//www.travelodge.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Travelodge | Privacy policy
 
@@ -76,16 +76,11 @@ By using our websites or our mobile app you consent to the collection, storage a
 
  **Opt out / Data quality / Access**
 
-We will always ask your permission before sending you electronic marketing information. This ensures you only receive information that you have given us permission to send and are willing to receive.
+We will always ask your permission before sending you email marketing information. This ensures you only receive information that you have given us permission to send and are willing to receive.
 
-We provide you with the ability to control whether or not to receive email marketing from us.  You have a number of options for opting out of the services we offer:
+We provide you with the ability to control whether or not to receive email marketing from us. On promotional emails we always provide an 'unsubscribe' link at the bottom of the email which will unsubscribe you from that service.
 
-  * On promotional emails we always provide a link at the bottom of the email to unsubscribe you from that service or you can [unsubscribe](https://www.pages05.net/travelodgehotelslimited/preferencecentre/PreferenceCentre "unsubscribe") using our preference centre.
-  * If you are registered for My Travelodge, you can log on to the website and unsubscribe. Simply log in and click on the [My preferences](https://www.travelodge.co.uk/my_travelodge/preferences.php "Preferences") section of the website.
-
-
-
-For any of the available options, if you wish to opt out with respect to more than one email address, you must complete a separate request for each email address.
+If you wish to opt out with respect to more than one email address, you must complete a separate request for each email address.
 
 Please note it is not possible to 'opt-out' of receiving communication from us which relate to your bookings. This ensures we can always contact you in the event of a circumstance that affects your stay with us.
 
