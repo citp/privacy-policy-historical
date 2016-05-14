@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthways.com privacy policy that was archived on 2015-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150712003913id_/http%3A//www.healthways.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthways.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514112350id_/http%3A//www.healthways.com/privacy) for the most accurate reproduction.*
 
 # Healthways.com Privacy Policy
 
@@ -76,7 +76,7 @@ SPECIAL NOTICE TO CALIFORNIA RESIDENTS
 
 Under the California Civil Code, residents of the State of California that have provided any Personally Identifiable Information to Healthways have the right to request a list of all third parties to which Healthways has disclosed Personally Identifiable Information during the preceding year for direct marketing purposes. Alternatively, the law provides that if Healthways has a privacy policy that gives either an opt-out or opt-in choice for use of Personally Identifiable Information by third parties (such as advertisers or affiliated companies) for marketing purposes, Healthways may instead provide you with information on how to exercise your disclosure choice options.  Healthways qualifies for the alternative option; it has established this Policy that provides you with details on how you may either opt-out or opt-in to the use of your Personally Identifiable Information by third parties for direct marketing purposes. 
 
-If you are a California resident and request information about how to exercise your third party disclosure choices, please send a request to webmaster@healthways.com with a preference on how our response to your request should be sent.
+If you are a California resident and request information about how to exercise your third party disclosure choices, please send a request to info@healthways.com with a preference on how our response to your request should be sent.
 
 MODIFICATIONS TO PRIVACY POLICY
 
@@ -88,4 +88,4 @@ We welcome your questions, comments and all feedback pertaining to your privacy 
 
 At any time, you may ask us to cease further use of your email address to send you correspondence, and direct us to delete any Personally Identifiable Information you have supplied.  Although it is not always possible to remove or modify such information, we will make reasonable efforts to do so. If you have given us information for one of those third parties we mentioned above and we have already passed it on, we may not be able to delete or change the information. 
 
-In the event that you have given us Personally Identifiable Information in the past and then have second thoughts or want to update it, or if you have any other questions regarding this Policy or this Site, you may contact us at:  
+In the event that you have given us Personally Identifiable Information in the past and then have second thoughts or want to update it, or if you have any other questions regarding this Policy or this Site, you may contact us at:  info@healthways.com
