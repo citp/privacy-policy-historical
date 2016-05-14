@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the worthpoint.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221110021id_/http%3A//www.worthpoint.com/worthpoint-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worthpoint.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514075955id_/http%3A//www.worthpoint.com/worthpoint-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Worthpoint
 
-WorthPoint Corporation Privacy Policy
+**WorthPoint Corporation Privacy Policy**
 
 WorthPoint takes its commitment to privacy seriously and, therefore, has adopted this privacy policy to let you know:
 
@@ -15,7 +15,7 @@ WorthPoint takes its commitment to privacy seriously and, therefore, has adopted
 
 For the purposes of this privacy policy, “Personal Information” is any personally identifiable information about an individual person such as a person’s name, physical address, email address and telephone number, and may include financial and other information provided by an individual who accesses our Websites and/or uses our services.
 
-Policy Scope
+**Policy Scope**
 
 This privacy policy applies to all of WorthPoint’s and WorthPoint’s affiliates and subsidiaries’ businesses, including, but not limited to our websites located at qa.worthpoint.com, www.goantiques.com, www.priceminer.com, and www.marksandlibrary.com (our “Websites”), and covers the use and disclosure of information that WorthPoint may collect any time you interact with us, (e.g., when you use our Websites, when you contact our customer service department, or when you purchase any of our products and services).
 
@@ -23,11 +23,11 @@ Our Websites are available worldwide and may be operated from various locations 
 
 WorthPoint’s Websites may provide links to websites owned or operated by third parties or otherwise direct you to websites owned or operated by third parties (“Linked Websites”). Your use of Linked Websites will be governed by terms of use, privacy policies and other additional terms, notices and policies set forth or referenced in those Linked Websites. This privacy policy does not reflect the information collection, use and disclosure practices of the Linked Websites or the operators or owners of Linked Websites. To understand how a Linked Website and the owners or operators of a Linked Website will collect, use, store and otherwise make available information you should review the Linked Website’s privacy policy.
 
-Updates and Changes to Policies
+**Updates and Changes to Policies**
 
 WorthPoint may change this privacy policy from time to time by posting updated versions of the privacy policy here. If we make changes to the privacy policy we will post the changes on this page, and, if the changes are significant, we will post a more prominent notice on our Websites of such change. Please note that information we collect will be treated in accordance with the privacy policy in effect at the time the information is collected. This privacy policy was last updated in December, 2011.
 
-Information Collection, Use and Disclosure Practices
+**Information Collection, Use and Disclosure Practices**
 
 Though you may access and use portions of our Websites without providing any Personal Information, in order to take advantage of the full capabilities of our Websites and to obtain access to, and use of, many of the features of our Websites, you must provide certain Personal Information. For example, in order to register for a membership account through our Websites (each a “Membership Account”), to sell items on our Websites, to access prices in our Worthopedia price guide and to request information about products and services offered on our Websites you must provide certain Personal Information.
 
@@ -46,7 +46,7 @@ We will use the information we automatically collected through your access and u
 
 Marketing. We do not sell or rent your Personal Information to third parties for their marketing purposes. We may aggregate and use certain non-personally identifiable information for research or marketing purposes and may share, sell and rent or trade that information and statistical data derived from such information with our marketing partners, advertisers, or other third parties for research or marketing purposes.
 
-User Communities on our Websites.
+**User Communities on our Websites**
 
 Our Websites include community areas (e.g., forums, bulletin boards and chat rooms) in which you may participate after establishing a Membership Account. Although your participation in these communities is governed by this privacy policy, there are certain important characteristics of these communities that you should always keep in mind.
 
@@ -56,7 +56,7 @@ Please note that information (including your name, email address, address, or ph
 
 Upon termination of a community, Personal Information we collected through the community will continue to be treated in accordance with this privacy policy.
 
-Cookies and Related Technology
+**Cookies and Related Technology**
 
 We use Cookies (small files placed on your hard drive) to store information about your visits to our Websites and to enhance your experience when visiting our Websites. For example, we use Cookies to, among other things, identify previous visitors to our Websites, identify a user as he/she moves through our Websites, track user visits and account set-ups, determine what set-ups are most frequently requested, and save your password so you do not have to provide it each time you visit our Websites. Storing information about your visits to our Websites will allow us to, on occasion, customize account pages for you.
 
@@ -64,22 +64,22 @@ We do not use Cookies to collect, track, or store personally identifiable inform
 
 Some of our email communications to you may include a “click-through URL” linked to a particular page on one of our Websites. By clicking on one of these URLs, you will automatically enter one of our Websites. Our systems track this information to gauge the effectiveness of our email communications and your level of interest in particular areas. You may avoid having this information collected by avoiding clicking on URL links in our email communications. Please note, that we will NEVER send you an email with an imbedded link that asks for your password or any financial or account information; passwords are for your protection. If you EVER receive such an email, please contact us immediately using the information in the Section 9 below entitled “Contact Us”.
 
-Notice for Parents
+**Notice for Parents**
 
 Our Websites are general audience sites that are not targeted for use by children. WorthPoint does not intend to collect Personal Information from individuals under the age of eighteen (18) on our through our Websites. If you are the parent or guardian of a child under the age of 18 who has provided Personal Information to us, please inform us as provided below in Section 9 (“Contact WorthPoint”) below, and we will delete that Personal Information.
 
-Security
+**Security**
 
 We employ reasonable security measures, including administrative, technical, and physical measures, to protect Personal Information from unauthorized access, loss, alteration, use or disclosure. However, Personal Information can never be 100% secure: third parties may unlawfully intercept or access transmissions or private communications, and other users may abuse or misuse your personal information that they collect from the Websites. Therefore although we work very hard to protect your privacy, we do not promise, and you should not expect that your personal information or private communications information will always remain private. You can help us to protect the Personal Information you provide to us by (i) not sharing your password or other account information with others, (ii) using a secure web browser, and (iii) frequently changing your password.
 
-Managing Information
+**Managing Information**
 
 You may update the information you provide by accessing your account and following the instructions for updating your information. You may opt-out of receiving certain types of communications from us (“Optional Communications”). However, you will not be able to opt-out of receiving other types of communications, such as service announcements and administrative messages, as these types of communications are necessary if you have an account with us. You may opt-out of receiving Optional Communications by following the instructions set forth in those communications or by accessing your account and following the instructions. If you have any questions regarding your ability to opt-out of receiving certain types of communications please contact us using our contact information set forth below in “Contact WorthPoint”. Please note that removal of Personal Information from our database or “opting-out” will not stop marketing or advertising content that is ready to be mailed or is queued for transmission to you prior to the time when we can implement your request.
 
 We reserve the right to retain any Personal Information reasonably necessary to appropriately document our business activities and for archival and record retention purposes. We will store Personal Information for as long as reasonably necessary for the purposes described in this privacy policy. You may find out more details regarding this privacy policy by contacting us as provided below.
 
-Contact Us
+**Contact Us**
 
-If you have questions regarding our Websites, our services, the privacy policy or your privacy while accessing or using our Websites, you can send a request with any further questions to us by e-mail at [support@worthpoint.com](https://web.archive.org/web/20151221110021id_/http%3A//www.worthpoint.com/support@worthpoint.com), by mail at: WorthPoint Corporation, 3525 Piedmont Road NE, Building 5, Suite 435, Atlanta, GA 30305, Attention: Member Support.
+If you have questions regarding our Websites, our services, the privacy policy or your privacy while accessing or using our Websites, you can send a request with any further questions to us by e-mail at [support@worthpoint.com](mailto:support@worthpoint.com), by mail at: WorthPoint Corporation, 5 Concourse Parkway NE, Suite 2850. Atlanta, Georgia 30328, Attention: Member Support.
 
 Or you may call us at: 877-481-5750.
