@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the weddingstar.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231022613id_/http%3A//www.weddingstar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingstar.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514043217id_/http%3A//www.weddingstar.com/privacy) for the most accurate reproduction.*
 
 # Weddingstar
 
-FREE shipping on orders over $99 (*North America only)
+FREE shipping on orders over $65 (*North America only)
 
 Weddingstar Inc. knows you care how information about you is used and shared, and we appreciate your trust that we'll do so carefully and sensibly. This notice describes our privacy policy. By visiting our corporate, catalog, or partnership sites, you're accepting the practices described in this Privacy Notice.
 
