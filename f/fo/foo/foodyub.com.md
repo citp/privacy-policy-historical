@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodyub.com privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112182155id_/http%3A//foodyub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodyub.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514104611id_/http%3A//foodyub.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
