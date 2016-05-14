@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freejanine.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127023710id_/http%3A//www.freejanine.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freejanine.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514102207id_/http%3A//www.freejanine.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
