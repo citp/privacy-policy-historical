@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the brookings.edu privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905123548id_/http%3A//www.brookings.edu/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brookings.edu privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514044953id_/http%3A//www.brookings.edu/about/privacy-policy) for the most accurate reproduction.*
 
 # Brookings Privacy Policy | Brookings Institution
 
-The Brookings Institution values our visitors' private information and understands the need for security and trust surrounding such information.
+The Brookings Institution values our visitors' and donors' private information and understands the need for security and trust surrounding such information.
 
-This policy describes the types of information we may collect from you or that you may provide when you visit the website www.brookings.edu (our "Website") and our practices for collecting, using, maintaining, protecting and disclosing that information.
+This policy describes the types of information we may collect from you or that you may provide when you visit the website www.brookings.edu (our "Website"), or donate to Brookings, and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
 **Information Collection & Use**
 
@@ -132,10 +132,6 @@ The security of your sensitive personal information is important to us. We encry
 **California Online Privacy Protection Act Compliance  
 **  
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
-**Online Privacy Policy Only  
-**  
-This online privacy policy applies only to information collected through our website and not to information collected offline.
 
 **Terms and Conditions  
 **  
