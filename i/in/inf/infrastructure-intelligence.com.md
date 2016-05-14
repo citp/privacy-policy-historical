@@ -1,100 +1,96 @@
-> *The following text is extracted and transformed from the infrastructure-intelligence.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infrastructure-intelligence.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514060440id_/http%3A//www.infrastructure-intelligence.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | Infrastructure Intelligence
 
-**Go Daddy Respects Your Privacy**
+Victoria Street Capital Limited ("We") are committed to protecting and respecting your privacy.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+This policy (together with our [Website Terms of Use](http://www.infrastructure-intelligence.com/terms-and-conditions) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting [http://www.acenet.co.uk](http://www.acenet.co.uk/) you are accepting and consenting to the practices described in this policy.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is the Victoria Street Capital Limited of Alliance House, 12 Caxton Street, London SW1H 0QL.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+Our nominated representative for the purpose of the Act is the Legal and Compliance Director for the Association for Consultancy and Engineering.
 
-**Information Collection and Use**
+### Information we may collect from you
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+We may collect and process the following data about you:
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+  * **Information you give us.** You may give us information about you by filling in forms on our site [http://www.infrastructure-intelligence.com](http://www.infrastructure-intelligence.com/) (our site) or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register to use our site, subscribe to our service, search for a product, place an order on our site, participate in discussion boards or other social media functions on our site, enter a competition, promotion or survey and when you report a problem with our site. The information you give us may include your name, address, e-mail address and phone number, financial and credit card information, personal description and photograph.
+  * **Information we collect about you.** With regard to each of your visits to our site we may automatically collect the following information:
+  * technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;
+  * information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number.
+  * **Information we receive from other sources.** We may receive information about you if you use any of the other websites we operate or the other services we provide. In this case we will have informed you when we collected that data that it may be shared internally and combined with data collected on this site. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+### Cookies
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our [Cookies Policy](http://www.infrastructure-intelligence.com/cookies-policy).
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Uses made of the information
 
-**Security**
+We use information held about you in the following ways:
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+  * **Information you give to us.** We will use this information:
+  * to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us.  Without limitation this may include information about journalistic content in our digital and hard copy publications; video recordings of interviews or industry discussions or events, advertising contained in our publications, recruitment/career hubs or other advertising or promotional material
+  * to provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about;
+  * to provide you, or permit selected third parties to provide you, with information about goods or services we feel may interest you. If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale or negotiations of a sale to you. If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data;
+  * to notify you about changes to our service;
+  * to ensure that content from our site is presented in the most effective manner for you and for your computer.
+  * **Information we collect about you.** We will use this information:
+  * to administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
+  * to improve our site to ensure that content is presented in the most effective manner for you and for your computer;
+  * to allow you to participate in interactive features of our service, when you choose to do so;
+  * as part of our efforts to keep our site safe and secure;
+  * to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
+  * to make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them.
+  * **Information we receive from other sources.** We may combine this information with information you give to us and information we collect about you. We may use this information and the combined information for the purposes set out above (depending on the types of information we receive).
 
-**Updating Your Information**
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+### Disclosure of your information
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+We may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
 
-      iii.      You may call us at: (480) 505-8800
+We may share your information with selected third parties including:
 
-       iv.      You may fax us at: (480) 505-8844
+  * Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you.
+  * Legal, insurance or other commercial affiliates of the Association of Consultancy and Engineering or the Environmental Industries Commission.
+  * Advertisers and advertising networks that require the data to select and serve relevant adverts to you and others.  We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
+  * Analytics and search engine providers that assist us in the improvement and optimisation of our site.
+  * Credit reference agencies for the purpose of assessing your credit score where this is a condition of us entering into a contract with you.
 
-**Sending Emails**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+We may disclose your personal information to third parties:
 
-**Compliance with Laws and Law Enforcement**
+  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+  * If Victoria Street Capital Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [website terms of use](http://www.infrastructure-intelligence.com/terms-and-conditions) and other agreements; or to protect the rights, property, or safety of us, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-**Third Party Service Providers**
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+### Where we store your personal data
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
-**Supplementation of Information**
+All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-**Contests/Surveys**
+### Your rights
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at [Support@acenet.co.uk](mailto:Support@acenet.co.uk).
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
 
-**Tell-A-Friend**
+### Access to information
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
-**What Happens to my Personal Information if I Opt Out?**
+### Changes to our privacy policy
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to our privacy policy.
 
-**Transfer of Data Abroad**
+### Contact
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [Support@acenet.co.uk](mailto:Support@acenet.co.uk)
