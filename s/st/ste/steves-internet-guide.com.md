@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steves-internet-guide.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230225654id_/http%3A//www.steves-internet-guide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steves-internet-guide.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514134438id_/http%3A//www.steves-internet-guide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,7 +30,7 @@ Note that you can change your browser settings to disable cookies if you have pr
 
 ### Email Addresses
 
-Our site’s registration and contact forms require that you enter your email address and contact name and other such information. This information is used to send out our electronic newsletter, query responses and other information about other products and services offered by the website **steves-internet-guide.com**[.](https://web.archive.org/web/20151230225654id_/http://www.steves-internet-guide.com/)
+Our site’s registration and contact forms require that you enter your email address and contact name and other such information. This information is used to send out our electronic newsletter, query responses and other information about other products and services offered by the website **steves-internet-guide.com**.
 
 **We will not give away or sell your email address**. In the event that this website is sold you will be given 1 month advance notice and the option to remove yourself from the email list.
 
