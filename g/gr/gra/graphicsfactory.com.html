@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the graphicsfactory.com privacy policy that was archived on 2015-08-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150814201734id_/http%3A//www.graphicsfactory.com/g-privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the graphicsfactory.com privacy policy that was archived on 2016-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160514102402id_/http%3A//www.graphicsfactory.com/g-privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
@@ -15,6 +15,9 @@
 <meta property="og:site_name" content="Graphics Factory">
 <meta property="fb:admins" content="clip.art.inc">
 <meta property="og:description" content="Graphics Factory.com's Privacy Policy.">
+<link rel="stylesheet" href="http://cdn.graphicsfactory.com/font-awesome-4.4.0/css/font-awesome.min.css">
+<link href="http://cdn.graphicsfactory.com/slideMenu/slider.css" rel="stylesheet">
+<link href="http://cdn.graphicsfactory.com/css/extras.css" rel="stylesheet">
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <link href="https://fonts.googleapis.com/css?family=Kaushan+Script|Oswald|Chewy" rel="stylesheet" type="text/css">
 <script>
@@ -30,29 +33,6 @@
  .logo, background, img, div, a, input { behavior: url(http://www.graphicsfactory.com/iepngfix.htc); }
 </style>
 <![endif]-->
-<style type="text/css">
- .tip {
- display:none; /*�Hides by default�*/
- padding:10px;
- position:absolute;
- z-index:5000;
- text-align:center;
- font-size: 12px;
- color: #000000;
- text-shadow: 1 1 2px #ffffff;
- border: 2px solid #EEEEEE;
- background-color: #ffffff;
- border-radius: 5px;
- border-color: #eeeeee;
- border-style: solid;
- border-width: 5px;
- -webkit-border-radius: 5px;
- -moz-border-radius: 5px;
- box-shadow: 0 0 5px #0d0d0d;
- -webkit-box-shadow: 0 0 5px #0d0d0d;
- -moz-box-shadow: 0 0 5px #0d0d0d;
- }
-</style>
 <script type="text/javascript">
  jQuery(document).ready(function($) {
  //Tooltips
@@ -119,6 +99,36 @@
  });
  });
 </script>
+<script src="http://cdn.graphicsfactory.com/slideMenu/jquery.navgoco.js"></script>
+<script>
+ $(document).ready(function(){
+ //Navigation Menu Slider
+ $('#nav-expander').on('click',function(e){
+ e.preventDefault();
+ $('body').toggleClass('nav-expanded');
+ });
+ $('#nav-close').on('click',function(e){
+ e.preventDefault();
+ $('body').removeClass('nav-expanded');
+ });
+ // Initialize navgoco with default options
+ $(".main-menu").navgoco({
+ caret: '<span class="caret"></span>',
+ accordion: false,
+ openClass: 'open',
+ save: true,
+ cookie: {
+ name: 'navgoco',
+ expires: false,
+ path: '/'
+ },
+ slide: {
+ duration: 300,
+ easing: 'swing'
+ }
+ });
+ });
+</script>
 </head>
 <body>
 <div class="navbar navbar-default navbar-fixed-top">
@@ -130,8 +140,8 @@
 <ul class="navmain">
 <li>
 <div class="mainForm">
-<form action="http://www.graphicsfactory.com/cgi-bin/art/search.cgi">
-<input type="text" id="searchinputNew" name="query" value="" placeholder="Search for images" required="">
+<form action="http://www.graphicsfactory.com/cgi-bin/art/search.cgi" id="topSearchForm">
+<input type="text" id="searchinputNew" style="width:400px" name="query" value="" placeholder="Search for images" required="">
 <button type="submit" class="btnForm"><div align="center"><span class="GraphicsFactory" data-icon=""></span></div> </button>
 <a href="#">
 <span style="margin-left: 5px; margin-right: 5px;" class="GraphicsFactory searchOptions" data-icon="" id="showmenu"></span>
@@ -139,46 +149,46 @@
 </form></div>
 <div class="megamenu">
 <div class="menu" style="display: none; padding-left: 5px;">
-<h4>Search Options</h4> <span class="pull-right" id="closeOpt" data-icon=""></span>
+<h4>Optional Search Settings</h4> <span class="pull-right" id="closeOpt" data-icon=""></span>
 <div class="row" id="radios">
 <div class="col-xs-4 col-md-4 srchOpt">
 <h4>Category</h4>
 <ul class="radioDropdown">
-<li><input type="radio" name="catid" value="" checked="" id="Cat"><label for="Cat">All</label></li>
-<li><input type="radio" name="catid" value="1047" id="1047"><label for="1047">Clip Art</label></li>
-<li><input type="radio" name="catid" value="1381" id="1381"><label for="1381">Photos</label></li>
-<li><input type="radio" name="catid" value="703" id="703"><label for="703">Animations</label></li>
-<li><input type="radio" name="catid" value="1043" id="1043"><label for="1043">Backgrounds</label></li>
-<li><input type="radio" name="catid" value="1336" id="1336"><label for="1336">Fonts</label></li>
-<li><input type="radio" name="catid" value="1339" id="1339"><label for="1339">Icons</label></li>
-<li><input type="radio" name="catid" value="4010" id="4010"><label for="4010">Name Tags</label></li>
+<li><input type="radio" name="catid" value="" checked="" id="Cat"> <label for="Cat"> All</label></li>
+<li><input type="radio" name="catid" value="1047" id="1047"> <label for="1047"> Clip Art</label></li>
+<li><input type="radio" name="catid" value="1381" id="1381"> <label for="1381"> Photos</label></li>
+<li><input type="radio" name="catid" value="703" id="703"> <label for="703"> Animations</label></li>
+<li><input type="radio" name="catid" value="1043" id="1043"> <label for="1043"> Backgrounds</label></li>
+<li><input type="radio" name="catid" value="1336" id="1336"> <label for="1336"> Fonts</label></li>
+<li><input type="radio" name="catid" value="1339" id="1339"> <label for="1339"> Icons</label></li>
+<li><input type="radio" name="catid" value="4010" id="4010"> <label for="4010"> Name Tags</label></li>
 </ul>
 </div>
 <div class="col-xs-4 col-md-4 srchOpt">
 <h4>Image Types</h4>
 <ul class="radioDropdown">
-<li><input type="radio" name="image_type" value="" checked="" id="allFiles"><label for="allFiles">All</label></li>
+<li><input type="radio" name="image_type" value="" checked="" id="allFiles"> <label for="allFiles"> All</label></li>
 <div class="col-md-6">
-<li><input type="radio" name="image_type" value="gif" id="gif"><label for="gif">GIF</label></li>
-<li><input type="radio" name="image_type" value="jpg" id="jpg"><label for="jpg">JPG</label></li>
-<li><input type="radio" name="image_type" value="png" id="png"><label for="png">PNG</label></li>
-<li><input type="radio" name="image_type" value="eps" id="eps"><label for="eps">EPS</label></li>
+<li><input type="radio" name="image_type" value="gif" id="gif"> <label for="gif"> GIF</label></li>
+<li><input type="radio" name="image_type" value="jpg" id="jpg"> <label for="jpg"> JPG</label></li>
+<li><input type="radio" name="image_type" value="png" id="png"> <label for="png"> PNG</label></li>
+<li><input type="radio" name="image_type" value="eps" id="eps"> <label for="eps"> EPS</label></li>
 </div>
 <div class="col-md-6">
-<li><input type="radio" name="image_type" value="fla" id="fla"><label for="fla">FLA</label></li>
-<li><input type="radio" name="image_type" value="swf" id="swf"><label for="swf">SWF</label></li>
-<li><input type="radio" name="image_type" value="pdf" id="pdf"><label for="pdf">PDF</label></li>
-<li><input type="radio" name="image_type" value="svg" id="svg"><label for="svg">SVG</label></li>
+<li><input type="radio" name="image_type" value="fla" id="fla"> <label for="fla"> FLA</label></li>
+<li><input type="radio" name="image_type" value="swf" id="swf"> <label for="swf"> SWF</label></li>
+<li><input type="radio" name="image_type" value="pdf" id="pdf"> <label for="pdf"> PDF</label></li>
+<li><input type="radio" name="image_type" value="svg" id="svg"> <label for="svg"> SVG</label></li>
 </div>
 </ul>
 </div>
 <div class="col-xs-4 col-md-4 srchOpt">
-<h4>Display Per Page</h4>
+<h4>Images Per Page</h4>
 <ul class="radioDropdown">
-<li><input type="radio" name="mh" value="" checked="" id="mh25"><label for="mh25">25</label></li>
-<li><input type="radio" name="mh" value="50" id="mh50"><label for="mh50">50</label></li>
-<li><input type="radio" name="mh" value="75" id="mh75"><label for="mh75">75</label></li>
-<li><input type="radio" name="mh" value="100" id="mh100"><label for="mh100">100</label></li>
+<li><input type="radio" name="mh" value="" checked="" id="mh25"> <label for="mh25"> 25</label></li>
+<li><input type="radio" name="mh" value="50" id="mh50"> <label for="mh50"> 50</label></li>
+<li><input type="radio" name="mh" value="75" id="mh75"> <label for="mh75"> 75</label></li>
+<li><input type="radio" name="mh" value="100" id="mh100"> <label for="mh100"> 100</label></li>
 </ul>
 </div>
 </div>
@@ -186,45 +196,79 @@
 
 </div>
 </li>
-<li class="firstMenu"> <a href="http://www.graphicsfactory.com/clip-art/"><span class="GraphicsFactory" data-icon=""></span>Gallery <span class="caret"></span></a>
-<ul class="megamenu menu-form dropdown">
-<li><a href="http://www.graphicsfactory.com/g-popular.html"><span class="GraphicsFactory" data-icon=""></span>Popular Images</a></li>
-<li class="second"><a href="http://www.graphicsfactory.com/new_clipart/P1.html"><span class="GraphicsFactory" data-icon=""></span>New Images</a></li>
-<li><a href="http://www.graphicsfactory.com/Clip_Art/index.html"><span class="GraphicsFactory" data-icon=""></span>Clip Art</a></li>
-<li class="second"><a href="http://www.graphicsfactory.com/clip-art/Photos/index.html"><span class="GraphicsFactory" data-icon=""></span> Photos</a></li>
-<li><a href="http://www.graphicsfactory.com/clip-art/Animations/index.html"><span class="GraphicsFactory" data-icon=""></span> Animations</a>
-</li><li class="second"><a href="http://www.graphicsfactory.com/clip-art/Fonts/index.html"><span class="GraphicsFactory" data-icon=""></span>Fonts</a></li>
-<li><a href="http://www.graphicsfactory.com/clip-art/Backgrounds/index.html"><span class="GraphicsFactory" data-icon=""></span>Backgrounds</a></li>
-<li class="second"><a href="http://www.graphicsfactory.com/clip-art/Icons/index.html"><span class="GraphicsFactory" data-icon=""></span>Icons</a></li>
-</ul>
+<li class="hidden-icons">
+<a href="http://www.graphicsfactory.com/new_clipart/p1.html"><i class="fa fa-newspaper-o" title="New Images"> </i></a>
 </li>
-<li><a href="https://www.graphicsfactory.com/cgi-bin/art/joinnew.cgi"><span class="GraphicsFactory" data-icon=""></span>Join</a></li>
-<li><a href="#"><span class="GraphicsFactory" data-icon=""></span><span class="pageLinks"></span> <span class="caret"></span></a>
-<ul class="megamenu menu-form dropdown">
-<li><a href="http://www.graphicsfactory.com/g-faq.html"><span class="GraphicsFactory" data-icon=""></span>F.A.Q.</a></li>
-<li class="second"><a href="http://www.graphicsfactory.com/g-membership.html"><span class="GraphicsFactory" data-icon=""></span>Learn More</a></li>
-<li><a href="http://www.graphicsfactory.com/g-eula.html"><span class="GraphicsFactory" data-icon=""></span>Usage License</a></li>
-<li class="second"><a href="http://www.graphicsfactory.com/g-contact.html"><span class="GraphicsFactory" data-icon=""></span>Contact Us</a></li>
-<li><a href="http://www.graphicsfactory.com/g-tutorials.html"><span class="GraphicsFactory" data-icon=""></span>Getting Started</a></li>
-<li class="second"><a href="http://www.graphicsfactory.com/g-testimonials.html"><span class="GraphicsFactory" data-icon=""></span>Testimonials</a></li>
-</ul>
-</li>
-<li><a href="#"><span class="GraphicsFactory" data-icon=""></span> <span class="caret"></span> </a>
-<ul class="megamenu menu-form dropdown">
-<li><a href="https://www.graphicsfactory.com/cgi-bin/art/joinnew.cgi"><span class="GraphicsFactory" data-icon=""></span> Join Today</a></li>
-<li class="second"> <a href="https://www.graphicsfactory.com/login"><span class="GraphicsFactory" data-icon=""></span> Login</a></li>
-</ul>
+<li class="hidden-icons">
+<a href="http://www.graphicsfactory.com/g-popular.html"><i class="fa fa-line-chart" title="Popular Images"> </i></a>
 </li>
 </ul>
 </div>
 </div>
+</div>
+<nav>
+<ul class="list-unstyled main-menu">
+<!--Include your navigation here-->
+<li class="text-right"><a href="#" id="nav-close">X</a></li>
+<li> <form action="http://www.graphicsfactory.com/cgi-bin/art/search.cgi">
+<input type="text" id="searchinputNew" name="query" value="" placeholder="Search for images" required="" style="width:200px"><button type="submit" class="btnFormSide"><div align="center"><i class="fa fa-search"></i></div> </button>
+</form>
+</li>
+<li><a href="https://www.graphicsfactory.com/cgi-bin/art/joinnew.cgi"><i class="fa fa-credit-card"></i> Join Today<span class="icon"></span></a>
+</li>
+<li style="margin-right: 130px;"><a href="https://www.graphicsfactory.com/login"><i class="fa fa-key"></i> Login</a></li>
+<li>
+<a href="http://www.graphicsfactory.com/new_clipart/p1.html"><i class="fa fa-newspaper-o"></i> <span class="icon"></span> New Images</a>
+</li>
+<li>
+<a href="http://www.graphicsfactory.com/g-popular.html"><i class="fa fa-line-chart"></i> <span class="icon"></span> Popular Images</a>
+</li>
+<li>
+<a href="#"><i class="fa fa-picture-o"></i> Gallery</a>
+<ul class="list-unstyled">
+<li class="sub-nav">
+<a href="http://www.graphicsfactory.com/Clip_Art/index.html"><span class="GraphicsFactory" data-icon=""></span> Clip Art <span class="icon"></span></a>
+</li>
+<li class="sub-nav">
+<a href="http://www.graphicsfactory.com/clip-art/Photos/index.html"><span class="GraphicsFactory" data-icon=""></span> Photos <span class="icon"></span></a>
+</li>
+<li class="sub-nav">
+<a href="http://www.graphicsfactory.com/clip-art/Animations/index.html"><span class="GraphicsFactory" data-icon=""></span> Animations <span class="icon"></span></a>
+</li>
+<li class="sub-nav">
+<a href="http://www.graphicsfactory.com/clip-art/Fonts/index.html"><span class="GraphicsFactory" data-icon=""></span> Fonts <span class="icon"></span></a>
+</li>
+<li class="sub-nav">
+<a href="http://www.graphicsfactory.com/clip-art/Backgrounds/index.html"><span class="GraphicsFactory" data-icon=""></span> Backgrounds <span class="icon"></span></a>
+</li>
+<li class="sub-nav">
+<a href="http://www.graphicsfactory.com/clip-art/Icons/index.html"><span class="GraphicsFactory" data-icon=""></span> Icons <span class="icon"></span></a>
+</li>
+</ul>
+</li>
+<li>
+<a href="#"><i class="fa fa-life-ring"></i> Support</a>
+<ul class="list-unstyled">
+<li class="sub-nav"><a href="http://www.graphicsfactory.com/g-faq.html"><span class="GraphicsFactory" data-icon=""></span> F.A.Q. <span class="icon"></span></a></li>
+<li class="sub-nav"><a href="http://www.graphicsfactory.com/g-eula.html"><span class="GraphicsFactory" data-icon=""></span> Usage Rights <span class="icon"></span></a></li>
+<li class="sub-nav"><a href="http://www.graphicsfactory.com/g-contact.html"><span class="GraphicsFactory" data-icon=""></span> Contact Us <span class="icon"></span></a></li>
+<li class="sub-nav"><a href="http://www.graphicsfactory.com/g-tutorials.html"><span class="GraphicsFactory" data-icon=""></span> Getting Started <span class="icon"></span></a></li>
+<li class="sub-nav"><a href="http://www.graphicsfactory.com/g-membership.html"><span class="GraphicsFactory" data-icon=""></span> Learn More <span class="icon"></span></a></li>
+<li class="sub-nav"><a href="http://www.graphicsfactory.com/g-testimonials.html"><span class="GraphicsFactory" data-icon=""></span> Testimonials <span class="icon"></span></a></li>
+
+</ul>
+</li></ul></nav>
+<div class="navbar-header pull-right">
+<a id="nav-expander" class="nav-expander fixed">
+ MENU &nbsp;<i class="fa fa-bars fa-lg white"></i>
+</a>
 </div>
 <div style="padding-top: 60px;"></div>
 <div class="container">
 <!-- Start Content -->
 <div class="row">
 <div class="col-xs-12">
-<img src="http://cdn.graphicsfactory.com/images/v13/12years.gif" alt="18 Years Online" width="75" height="75" border="0" align="right">
+<img src="http://cdn.graphicsfactory.com/images/v13/12years.gif" alt="19 Years Online" width="75" height="75" border="0" align="right">
 <h1> Graphics Factory.com's Privacy Policy </h1>
 <p>
 <b>
@@ -396,13 +440,13 @@
 </div>
 <div class="panel-body">
 <ul class="nav nav-pills nav-stacked">
-<li><a href="http://www.graphicsfactory.com/new_clipart/p1.html"> New Clip Art <span class="badge pull-right">8886</span></a></li>
+<li><a href="http://www.graphicsfactory.com/new_clipart/p1.html"> New Clip Art <span class="badge pull-right">10100</span></a></li>
 <li><a href="http://www.graphicsfactory.com/g-popular.html">Trending Clip Art <span class="badge pull-right">100</span></a></li>
 </ul>
 </div>
 <div class="panel-footer">
 <div align="center">
- Get social with us at <a href="https://twitter.com/clipart" target="_blank">Twitter</a> &amp; <a href="http://www.facebook.com/clipartclub" target="_blank">Facebook</a>
+ Follow Us: <a href="https://twitter.com/clipart" target="_blank">Twitter</a> &amp; <a href="http://www.facebook.com/clipartclub" target="_blank">Facebook</a> &amp; <a href="http://www.graphicsfactory.com/new_links.rss" target="_blank">RSS</a>
 </div>
 </div>
 </div>
@@ -455,22 +499,24 @@
 <li><a href="http://www.graphicsfactory.com/">Home</a></li>
 <li><a href="http://www.graphicsfactory.com/g-contact.html">Contact Us</a></li>
 <li><a href="https://www.graphicsfactory.com/cgi-bin/art/joinnew.cgi?l=1">Join Today</a></li>
-<li><a href="http://www.graphicsfactory.com/g-affiliate_program.html">Affiliate Program</a></li>
+<li><a href="http://www.graphicsfactory.com/g-affiliate_program.html">Resellers</a></li>
 <li><a href="http://www.graphicsfactory.com/g-about.html">About Us</a></li>
 <li><a href="http://www.graphicsfactory.com/g-eula.html">Usage License</a></li>
 <li class="active"><a href="http://www.graphicsfactory.com/g-privacy.html">Privacy Policy</a></li>
-<li><a href="http://www.graphicsfactory.com/new_links.rss" target="_blank">RSS Feed</a></li>
+<li><a href="http://www.graphicsfactory.com/g-printing_services.html" target="_blank">Printing Services</a></li>
+<li><a href="http://www.graphicsfactory.com/blog" target="_blank">Blog</a></li>
 </ul>
 <div style="clear: both; padding-top:19px;"></div>
 <div id="footerHeadline">Lots Of Inspiring Illustrations &amp; Clip Art You Can Use</div>
-<div id="footerSubHeadline">Graphics Factory is celebrating 18 Years of clip art excellence. Providing the best prices, best quality, and best selection!</div>
+<div id="footerSubHeadline">Graphics Factory is celebrating 19 Years of clip art excellence. Providing the best prices, best quality, and best selection!</div>
 <div style="clear: both; padding-top:10px;"></div>
- Royalty-Free (RF) Stock Illustrations, Clipart, Images, Pictures and Vector Art © 1997-2015 Clip Art, Inc. dba Graphics Factory All Rights Reserved.
+ Royalty-Free (RF) Stock Illustrations, Clipart, Images, Pictures and Vector Art © 1997-2016 Clip Art, Inc. dba Graphics Factory All Rights Reserved.
 </div>
 </div>
 </div>
 </div>
 <script src="http://cdn.graphicsfactory.com/bootstrap3/js/bootstrap.min.js"></script>
+<script src="http://cdn.graphicsfactory.com/clip-art/static/add-to-cart.js"></script>
 
 
 </div></body></html>
