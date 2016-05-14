@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunnysports.com privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522160449id_/http%3A//www.sunnysports.com/i/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunnysports.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514111555id_/http%3A//www.sunnysports.com/i/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Details | SunnySports.com
 
@@ -6,7 +6,7 @@ Information we collect How do we use the information Update your information? Ma
 
 If you shop at sunnysports.com and place your orders exclusively through sunnysports.com, any personal information that you may share with us is kept absolutely private.
 
-Your privacy is important to us. By participating in the Council of Better Business Bureau's BBBOnLine Privacy Program we have made a commitment to meet the programs' strict requirements regarding how we treat your information and have it verified by BBBOnLine. Further information about this program is available at [bbbonline.org](http://www.bbbonline.org/).
+Your privacy is important to us. As a member of the Council of Better Business Bureau's Accredited Business Program we have made a commitment to meet their standards regarding safeguarding privacy. Further information about this program is available at [bbbonline.org](http://www.bbbonline.org/).
 
 * * *
 
