@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxmirror.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317000652id_/http%3A//www.maxmirror.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxmirror.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515014027id_/http%3A//www.maxmirror.com/privacy_policy.php) for the most accurate reproduction.*
 
 # maxmirror.com - Upload Files to multiple file hosting !, Multi Mirror Hosting Files
 
