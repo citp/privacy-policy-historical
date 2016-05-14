@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hostbuddy.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318215434id_/http%3A//www.hostbuddy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostbuddy.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514103556id_/http%3A//www.hostbuddy.com/privacy) for the most accurate reproduction.*
 
-# WordPress Hosting & Managed WordPress Hosting | HostBuddy
+# Unlimited Web Hosting
+
+## Privacy Policy
 
 HostBuddy.com is committed to protect our customer's privacy. This Privacy Policy sets forth our privacy practices with regard to the information that we collect when you interact with our website and services. By accessing HostBuddy.com website and services, you consent to the information collection and use described within. 
 
@@ -30,6 +32,6 @@ HostBuddy.com provides an opt-out option for customers who purchase a product or
 **Policy Changes**  
 HostBuddy.com may update this privacy policy in its sole discretion. When updated, we will revise the "Last update" date at the bottom of this page. Your continued use of the website and service constitutes your agreement to this privacy policy and any updates. 
 
-If you have questions regarding our Privacy Policy or its implementation, please [Contact US](https://web.archive.org/contact.asp) and our Sales team will route your inquiry to the appropriate staff member. 
+If you have questions regarding our Privacy Policy or its implementation, please [Contact US](https://web.archive.org/contact) and our Sales team will route your inquiry to the appropriate staff member. 
 
-Last Update: July 5, 2012
+Last Update: July 5, 2012 
