@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamelink.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221141453id_/http%3A//www.gamelink.com/privacy_policy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamelink.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514105220id_/http%3A//www.gamelink.com/s/privacy-policy) for the most accurate reproduction.*
 
-# 
+# | GameLink
 
 * * *
 
@@ -30,7 +30,7 @@ Email Order Company and a Distributor of Adult DVDs, Videos, Toys, and Streaming
 
 ### 1\. NOTICE:
 
-$Name$ (we) strictly maintains your privacy in all transactions. Your information is NEVER sold or shared with any third parties, except as disclosed in this statement. We never sell, give or lend mailing or ordering lists, including your data or any other part of them, except as needed to fulfill your order (e.g. shipping company, credit card processing company) or as requested by law enforcement (see below).
+GameLink (we) strictly maintains your privacy in all transactions. Your information is NEVER sold or shared with any third parties, except as disclosed in this statement. We never sell, give or lend mailing or ordering lists, including your data or any other part of them, except as needed to fulfill your order (e.g. shipping company, credit card processing company) or as requested by law enforcement (see below).
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users' personally identifiable information in a manner materially different from that stated at the time of collection we will notify users by posting a notice on our Website for 30 days.
 
@@ -87,7 +87,7 @@ Though we are required to maintain your ordering history, it is kept discreet.
 
 ### 7\. DATA INTEGRITY:
 
-$Name$ keeps the data you give us accurate, complete and current in order to speed your order to you. We only require personal data that will allow us to achieve this purpose and to maintain the "adult-only" nature of this Website.
+GameLink keeps the data you give us accurate, complete and current in order to speed your order to you. We only require personal data that will allow us to achieve this purpose and to maintain the "adult-only" nature of this Website.
 
 Naturally, we can only maintain data that you submit. If you move or change your email address, please let us know so your records remain up to date and there is nothing to delay receipt of your order. We are not responsible for lost goods or services due to your failure to update your information.
 
@@ -102,7 +102,7 @@ You can update and change your data by:
   * Logging in with your User Name and Password to access and edit your personal profile. This can be done while placing an order, or independently of placing an order at [https://www.gamelink.com/login.jhtml](https://web.archive.org/login.jhtml?disableMobile=true).
   * Email Game Link Customer Service at [customerservice@gamelink.com](mailto:customerservice@gamelink.com) with a request to change information in your profile.
   * Mail a letter requesting the change of information to:  
-     $Name$ Customer Service  
+     GameLink Customer Service  
      C/O Mama's LLC  
      537 Stevenson St. #100  
      San Francisco, CA 94103
