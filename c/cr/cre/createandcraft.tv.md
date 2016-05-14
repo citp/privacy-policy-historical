@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the createandcraft.tv privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905174647id_/http%3A//www.createandcraft.tv/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the createandcraft.tv privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514220626id_/http%3A//www.createandcraft.tv/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - CreateAndCraft
 
@@ -88,7 +88,7 @@ Back to Top
 
 10\. Your browser also generates other information, including which language the site is displayed in, and your Internet Protocol address (IP address). An IP address is a set of numbers which is assigned to your computer during a browsing session whenever you log on to the Internet via your internet service provider or your network (if you access the Internet from, for example, a computer at work). Your IP address is automatically logged by our servers and used to collect traffic data about visitors to our websites. We do not use your IP address to identify you personally.
 
-For more information about cookies, visit our [About Cookies](https://web.archive.org/About-Cookies) page. 
+For more information about cookies, visit our [About Cookies](https://web.archive.org/about-cookies) page. 
 
 Back to Top
 
