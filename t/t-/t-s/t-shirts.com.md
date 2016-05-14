@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the t-shirts.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921065747id_/http%3A//www.shirts.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the t-shirts.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514164924id_/http%3A//www.shirts.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](https://privacy.truste.com/privacy-seal/HalloweenCostumes-com/validation?rid=405fc52f-0986-42cd-88c6-ac0fe2f9cdcf "TRUSTe online privacy certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=74501bb4-f55f-4c32-a870-0a70df31346e "TRUSTe Privacy Certification")
 
-Effective on date 03/03/2015
+Effective on date 03/17/2016
 
-This privacy policy applies to [www.HalloweenCostumes.com](http://www.halloweencostumes.com/), [www.Shirts.com](http://www.shirts.com/) and [www.fun.com](http://www.fun.com/) owned and operated by Fun.com, Inc. This privacy policy describes how Shirts.com collects and uses the personal information you provide on our Web site [www.HalloweenCostumes.com](http://www.halloweencostumes.com/), [www.Shirts.com](http://www.shirts.com/) and [www.fun.com](http://www.fun.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy policy applies to [www.HalloweenCostumes.com](http://www.halloweencostumes.com/), [www.Shirts.com](http://www.shirts.com/) and [www.fun.com](http://www.fun.com/) owned and operated by Fun.com, Inc. This privacy policy describes how Shirts.com collects and uses the personal information you provide on our Web site [www.Shirts.com](http://www.halloweencostumes.com/), [www.Shirts.com](http://www.shirts.com/) and [www.fun.com](http://www.fun.com/) and does not cover information that may be collected through software downloaded from the website. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-Shirts.com has been received TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed for compliance with the [TRUSTe](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through these web sites: [www.HalloweenCostumes.com](http://www.halloweencostumes.com/), [www.Shirts.com](http://www.shirts.com/) and [www.fun.com](http://www.fun.com/).
+Shirts.com has received TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed for compliance with the [TRUSTe](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through these web sites: [www.HalloweenCostumes.com](http://www.halloweencostumes.com/), [www.Shirts.com](http://www.shirts.com/) and [www.fun.com](http://www.fun.com/).
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
@@ -63,7 +63,7 @@ If you provide us personal information about others, or if others give us your i
 
 ## Information Sharing
 
-We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
+We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties.
 
 We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
 
@@ -86,17 +86,21 @@ Technologies such as: cookies, beacons, tags and scripts are used by Shirts.com 
 
 We use cookies for our shopping cart to remember our user's settings (e.g. language preference) for our shopping cart and authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
-We use Local Storage Objects (LSOs) such as Flash to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information. To learn how to manage privacy and storage settings for Flash cookies click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>
+We use Local Storage Objects (LSOs) such as Flash and HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To learn how to manage privacy and storage settings for Flash cookies click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>
 
 We Partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
+### Social Media Widgets
+
+Our website includes Social Media Features, such as the Facebook Like button, and Widgets, such as the Share This button or interactive mini-programs that run on our website. These Features may collect your Internet protocol address, which page you are visiting on our website, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our website. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
 ### Links to Other Web Sites
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of Shirts.com. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
+Our Site includes links to other Web sites whose privacy practices may differ from those of Shirts.com. If you submit personal information to any of those sites, your information is governed by their privacy policy. We encourage you to carefully read the privacy policy of any Web site you visit.
 
  **Analytics**
 
-Protecting Your Online PrivacyOur priority is to keep your online data safe. As part of our promise to you, we wanted to let you know that this website uses Google Analytics, Google Display Advertising, and Google Analytics Demographics and Interest Reporting to help us understand how visitors use our site. The tools mentioned above use "cookies," which are essentially text files placed on your computer to gather standard Internet log information and user behavior information in an anonymous form. The information created by the cookie about your use of the website (including IP address) is transmitted to Google and is then used to evaluate visitors' use of the website and to compile statistical reports on website activity for our site specifically. 
+Protecting Your Online Privacy. Our priority is to keep your online data safe. As part of our promise to you, we wanted to let you know that this website uses Google Analytics, Google Display Advertising, and Google Analytics Demographics and Interest Reporting to help us understand how visitors use our site. The tools mentioned above use "cookies," which are essentially text files placed on your computer to gather standard Internet log information and user behavior information in an anonymous form. The information created by the cookie about your use of the website (including IP address) is transmitted to Google and is then used to evaluate visitors' use of the website and to compile statistical reports on website activity for our site specifically. 
 
 We will never (nor will we allow any third party to) use the statistical analytics tool to track or to collect any Personal Information of visitors to our website. Google will not associate your IP address with any other data held by Google, nor will Google link, or seek to link, an IP address with the identity of a computer user. We will not associate any data gathered from this site with any Personal Information from any source, unless you explicitly submit that information via a fill-in form on our website.
 
@@ -110,7 +114,7 @@ We will retain your information for as long as your account is active or as need
 
 When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can [contact us](http://www.shirts.com/contact-us.aspx).
 
-We provide two means for you to make a purchase on our site. You can either use our order form or a third party payment option. If you use our shopping cart, the transmission of sensitive information (such as credit card information) collected on our order form is encrypted using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
+We provide two means for you to make a purchase on our site. You can either use our order form or a third party payment option. If you use our shopping cart, the transmission of sensitive information (such as credit card information) collected on our order form is encrypted using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy policy and security practices will apply to your information. We encourage you to read that privacy policy before providing your information.
 
 ## Additional Policy Information
 
@@ -122,11 +126,11 @@ Live chat option is available on our websites, which will allow you to communica
 
 ## Correcting and Updating Your Personal Information
 
-To review, delete or update your personal information to ensure it is accurate or if you no longer desire our service, please [contact us](http://www.shirts.com/contact-us.aspx).
+To review, delete or update your personal information to ensure it is accurate or if you no longer desire our service, please [contact us](http://www.shirts.com/contact-us.aspx). We will respond to your request within a reasonable timeframe.
 
-## Notification of Privacy Statement Changes
+## Notification of Privacy Policy Changes
 
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 ## Contact Information
 
@@ -136,9 +140,8 @@ Shirts.com
 2080 Lookout Drive  
 North Mankato, MN 56003
 
-Phone: (507) 386-8385 (Monday through Friday 7am to 9pm CST  
-Saturday 9am to 6pm CST  
-Sunday 9am to 10pm CST.)
+Phone: (507) 386-8385 (Monday through Thursday 7am - 7pm CST  
+Friday 9am - 5pm CST.)
 
 [Contact Form](http://www.shirts.com/contact-us.aspx)
 
@@ -146,4 +149,4 @@ Sunday 9am to 10pm CST.)
 
 Under California law, our customers that are California residents may request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. As detailed above, we do not share our customer's personal information with unaffiliated third parties for direct marketing purposes without their approval.
 
-If at any time you wish to opt out of having your personal information shared with third parties and/or receiving information from Shirts.com (via e-mail or postal mail) about new products, services, or promotions, you can do so. You can contact us by through our [contact form](http://www.shirts.com/contact-us.asp). Please indicate what publications or services you no longer wish to receive so that we may better address your needs.
+If at any time you wish to opt out of having your personal information shared with third parties and/or receiving information from Shirts.com (via e-mail or postal mail) about new products, services, or promotions, you can do so. You can contact us by through our [contact form](http://www.shirts.com/contact-us.aspx). Please indicate what publications or services you no longer wish to receive so that we may better address your needs.
