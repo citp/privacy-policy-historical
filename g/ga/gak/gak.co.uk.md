@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gak.co.uk privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911000650id_/http%3A//www.gak.co.uk/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gak.co.uk privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514114627id_/http%3A//www.gak.co.uk/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
