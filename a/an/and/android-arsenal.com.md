@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the android-arsenal.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916020046id_/http%3A//android-arsenal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the android-arsenal.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515001202id_/http%3A//www.android-arsenal.com/privacy) for the most accurate reproduction.*
 
 # The Android Arsenal - A categorized directory of free libraries and tools for Android
 
