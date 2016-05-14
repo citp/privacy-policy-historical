@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hidden4fun.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209135611id_/http%3A//www.hidden4fun.com/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hidden4fun.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514104556id_/http%3A//www.hidden4fun.com/page/1.html) for the most accurate reproduction.*
 
 # Privacy Policy - at hidden4fun.com
 
