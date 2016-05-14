@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runboard.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905092735id_/http%3A//runboard.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runboard.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515014144id_/http%3A//www.runboard.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # runboard.com - Free message boards, free forums, remotely hosted online
 
@@ -42,7 +42,5 @@ DATAHIT reserves the right to monitor any and all message boards located on our 
 Last Updated: 10th October 2003
 
 * * *
-
-[](http://en.wikipedia.org/wiki/Je_suis_Charlie)
 
 You are not logged in ([login](https://web.archive.org/login)) 
