@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lancaster.ac.uk privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906141351id_/http%3A//www.lancaster.ac.uk/compliance/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lancaster.ac.uk privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514102844id_/http%3A//www.lancaster.ac.uk/compliance/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookies Notice | Lancaster University
 
@@ -54,6 +54,7 @@ Disqus | disqus_unique, testcookie | Used to enable commenting by users, with in
 Facebook | Act, c_user, datr, lu, p, presence, s, xs | Facebook widget incorporating a 'like' button, enabling users to 'like' specific pages. | [Data Use policy](http://www.facebook.com/about/privacy/ "Link: Data Use policy")  
 Flickr | BX, current_identity, fitoto, fldetectedlang, localization | Enables a Flickr slideshow widget to display photos as slideshows. | [Flickr Privacy Policy](http://www.flickr.com/help/privacy-policy/ "Link: Flickr Privacy Policy")  
 Google Analytics | _utma, _utmb, _utmc, _utmz, PREF, NID, Rememberme, UA-1580171-1, UA-34489726-1 | These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. | [Overview of privacy at Google](http://www.google.co.uk/intl/en/analytics/privacyoverview.html "Link: Overview of privacy at Google")  
+Mouseflow | mf_[session], mf_user | **mf_[session]**  identifies the browser session while it happens. The cookie is deleted as soon as the session ends, meaning when the user leaves the website. **mf_user**  establishes whether the user is a returning or first time visitor. | [Mouseflow cookie policy](https://mouseflow.zendesk.com/hc/en-us/articles/206504175-What-is-your-cookie-policy-)  
 Quantcast | __QCA | These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. | [Quantcast privacy policy](http://www.quantcast.com/how-we-do-it/consumer-choice/privacy-policy/ "Link: Quantcast privacy policy")  
 Twitter | guest_id, pid | A Twitter widget in the footer of some pages enables visitors to tweet about the page. | [Twitter Privacy Policy](http://twitter.com/privacy "Link: Twitter Privacy Policy")  
 Yahoo | BA, YLS, PH, CH, Yahoo_uk_hp, B, F, T, SSL | These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. | [Yahoo Privacy Policy](http://info.yahoo.com/privacy/uk/yahoo/ "Link: Yahoo Privacy Policy")  
@@ -63,7 +64,16 @@ AddThis | Loc, ssc, uit, bt, dt, di, uid, uvc, psc | AddThis is a social media/b
   
 ## 2\. Google Analytics
 
-Google Analytics use traffic log cookies to gain information about the use that is made of pages on our website. We use the information from cookies to generate reports on the usage of our website which are used for evaluation and analysis. The purpose is to improve our website by tailoring it to the needs of users. No data specific to any identifiable user is retained.
+Google Analytics use traffic log cookies to gain information about the use that is made of pages on our website. We use the information from cookies to generate reports on the usage of our website which are used for evaluation and analysis. The purpose is to improve our website by tailoring it to the needs of users.
+
+In addition to standard analytics parameters, we receive data via two Google Analytics Advertising Features:
+
+  * 'Demographics and Interest Reporting' gives us greater insight into the _types_ of visitors we receive.
+  * 'Remarketing with Google Analytics' allows Lancaster University's Google advertising campaigns to focus on _web browsers_ which have previously been used to visit directly-related pages of our website.
+
+
+
+In all cases, no data specific to any identifiable user is retained.
 
 As a user you can opt out of this process of collecting traffic log data. To do so please visit the following site which provides a browser add-on that enables a user to opt out - <http://tools.google.com/dlpage/gaoptout>.
 
