@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monstercable.com privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918223406id_/http%3A//www.monsterproducts.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monstercable.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515175119id_/http%3A//www.monsterproducts.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -8,7 +8,7 @@
 
 Effective Date: October 29, 2013
 
-Monster, Inc. and its corporate affiliates ("Monster" or "we") provide this Website Privacy Statement in order to demonstrate our commitment to respect your privacy. This Website Privacy Statement explains how we collect certain personal information at our website at [www.monsterproducts.com](https://www.monsterproducts.com/) and any permutations thereof that directly link to this Website Privacy Statement. This Website Privacy Statement also explains how we use and disclose such information - it does not, however, apply to our use of data that we collect otherwise (e.g., offline or through web sites of our foreign subsidiaries). If you do not agree with this Website Privacy Statement, please do not access or use our website.
+Monster, Inc. and its corporate affiliates ("Monster" or "we") provide this Website Privacy Statement in order to demonstrate our commitment to respect your privacy. This Website Privacy Statement explains how we collect certain personal information at our website at [www.monsterproducts.com](http://www.monsterproducts.com/) and any permutations thereof that directly link to this Website Privacy Statement. This Website Privacy Statement also explains how we use and disclose such information - it does not, however, apply to our use of data that we collect otherwise (e.g., offline or through web sites of our foreign subsidiaries). If you do not agree with this Website Privacy Statement, please do not access or use our website.
 
 **Personal and Non-Personal Information**
 
