@@ -1,51 +1,53 @@
-> *The following text is extracted and transformed from the planbox.com privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411054853id_/https%3A//www.planbox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planbox.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515022652id_/http%3A//planbox.com/privacy-policy) for the most accurate reproduction.*
 
-# Planbox Privacy Policy | Planbox Inc.
+# Privacy Policy - Planbox
 
-Planbox Inc. ( **Planbox** ) will keep user data strictly confidential on the website www.planbox.com. We will share your personal information with third parties only in the ways that are described in this privacy policy. Under no circumstances will it be sold to any other party. We claim no intellectual property rights over the materials provided through the Service. Profile information, tasks, reports and uploaded documents remain the user's property and may be exported at anytime. Any information we collect is used to improve the service.
+Last updated: July 16, 2015
 
-## Collection of Information and Usage
+This Privacy Policy (the “Policy”) applies to services offered by Planbox, its subsidiaries and affiliated companies under the domain and sub-domains of www.planbox.com. By visiting this website you agree to be bound by the terms and conditions of this Policy. If you do not agree, please to not use or access our Site.
 
-When a user signs up to **Planbox** , we gather such information as personal name, company name, email address, billing address, credit card information. **Planbox** may use the available information for the purpose of billing, user authentication, improvement of service and internal market research. We may also use your information to send update emails or marketing about Planbox, to unsubscribe from these emails please set communication preferences in the account settings page or use the unsubscribe directions in these emails.
+This Policy describes the information, as part of the normal operation of our services that we collect from you and what may happen to that information. Our subsidiaries and affiliated companies operate under similar privacy practices as described in this Policy and, subject to the requirements of applicable law, we strive to provide a consistent set of privacy practices throughout our global www.planbox.com user community.
 
-Customers of **Planbox** will be using the web site to host data and information ("Data"). **Planbox** will not review, share, distribute, print, or reference any such Data except as provided in the **Planbox** Terms of Service. Individual records may at times be viewed or accessed only for the purpose of resolving a problem, support issue, or suspected violation of the **Planbox** Terms of Service, or as may be required by law. Of course, customers are responsible for maintaining the confidentiality and security of their user registration and password. **Planbox** may provide your personal information to companies that provide services to help us with our business activities such as online chat help. These companies are authorized to use your personal information only as necessary to provide these services to us. We will share your personal information with third parties only in the ways that are described in this privacy policy.
+By accepting the Policy, you expressly consent to our use and disclosure of your personal information in accordance with this Policy.
 
-If you choose to invite a friend to a project, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting them to visit the project. **Planbox** stores this information for the sole purpose of sending this one-time email. Your friend may contact us at privacy@planbox.com to request that we remove this information from our database.
+**Information we collect**
 
-We may disclose your personal information as required by law, such as to comply with a subpoena, or similar legal process, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request or to any other third party with your prior consent to do so.
+Our primary purpose in collecting personal information from you is to provide you with a safe, smooth, efficient, and customized user experience. This allows us to provide services and features that will meet your needs, and to customize our service to make your experience safer and easier. We only collect personal information about you that we consider necessary for achieving this purpose.
 
-## Cookies and Tracking Technologies
+In general, you can browse planbox.com without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. Where possible, we indicate which fields are required and which fields are optional. You always have the option to not provide information by choosing not to use a particular feature.
 
-Cookies are required to use **Planbox** and are used to record sessions for security, statistical and improvement purposes. A cookie (also tracking cookie, browser cookie, and HTTP cookie) is a small piece of text stored on a user's computer by a web browser. A cookie consists of one or more name-value pairs containing bits of information.
+With or without cookies, our Web sites track usage data, such as the source address that a page request is coming from, your IP address or domain name, the date and time of the page request, the referring Web site (if any) and other parameters in the URL. We use this data to better understand Web site usage in the aggregate so that we know what areas of our Web site users prefer. This information is stored in log files and is used for aggregated and statistical reporting. This log information is not linked to personal information gathered elsewhere on the site.
 
-The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use session ID cookies to make it easier for you to navigate our site.
+We currently use cookies on our site to check your language preference and to maintain visitor information, including identification of users and preparation of customized Web Pages. Web Browsers set aside a small amount of space on your hard drive to keep these preferences, then every time you visit a Web site your browser checks to see if you have any predefined preferences (cookies) for that server. If you do, it sends the cookie to the server along with the request for a web page. Your browser will not give up its cookie data to any server except the one that set it.
 
-Our third party tracking partner employs a software technology called clear gifs , that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.
+If you send us personal correspondence, such as emails or letters, we may collect such information into a file specific to you.
 
-## Social Media (Features) and Widgets
+**Our use of your Information**
 
-Our website includes social media features, such as the Facebook share button. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our website. Your interactions with these Features are governed by the privacy policy of the company providing it
+We use your personal information to facilitate the services you request. We use personal information in the file we maintain about you, and other information we obtain from your current and past activities on planbox.com to: troubleshoot problems; inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity. We may compare and review your personal information for errors, omissions and for accuracy.
 
-## Data Storage and Security
+As you browse planbox.com, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partners, then enable us to present you with retargeting advertising on other sites based on your previous interaction with planbox.com. The techniques our partners employ do not collect personal information such as your name, email address, postal address, or telephone number. You can visit this page to opt out of our partner’s targeted advertising.
 
-No one is an island - **Planbox** has multiple partners to provide a turnkey Software as a Service solution including, hosting and backup. The user conserves all rights to its data and may export it at any time. Best practices stipulate that users should keep copies of any mission-critical data and regularly update them. **Planbox** cannot be held liable for any loss of data.
+**Our disclosure of your information**
 
-When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [security@planbox.com](mailto:security@planbox.com).
+As a matter of this Policy, we do not sell or rent any of your personal information to third parties for their marketing purposes.
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or delete it by making the change on the account settings page, by contacting us by telephone or postal mail at the contact information listed below.
+External Service Providers: We do not disclose your personal information to external service providers.
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at privacy@planbox.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Other Corporate Entities. We may share our data, including personal information about you, with our subsidiaries and affiliated companies or potential partners. To the extent that these entities may have access to your information, they will treat it at least as protectively as they treat information they obtain from their other users. Our subsidiaries, affiliated companies or potential partners shall follow privacy practices no less protective of all users than our practices described in this document, to the extent allowed by applicable law.
 
-With your consent we may post your testimonial along with your name. If you want your testimonial removed please contact us.
+Legal Requests. We cooperate with law enforcement inquires, as well as other third parties to enforce laws such as: intellectual property rights, fraud and other rights, to help protect you and the planbox.com community from bad actors. Therefore, in response to a verified request by law enforcement or other government officials relating to a criminal investigation or alleged illegal activity, we can (and you authorized us to) disclose your name, city, province, telephone number, email address, and order history without a subpoena. However, in an effort to balance your right to privacy and the ability to keep the community free from bad actors, we will not disclose additional information to law enforcement or other government officials without a subpoena, court order or substantially similar legal procedure, except when the additional disclosure of information is necessary to prevent imminent physical harm or financial loss.
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at info@planbox.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+Planbox will keep personal information only as long as necessary for the identified purposes or as required by law. Planbox will follow internally set guidelines and use care in the disposal, destruction, or de-identification of personal information to prevent unauthorized parties from gaining access to personal information.
 
-Our website includes links to other websites whose privacy practices may differ from those of **Planbox**. If you submit personal information to any of those websites, your information is governed by their privacy policy. We encourage you to carefully read the privacy policy of any website you visit.
+**Reviewing and changing your personal information**
 
-## Changes to the Privacy Policy
+We offer you the ability to review and change your personal information that you have provided us. We will retain in our files some personal information you have requested us to remove in order to prevent fraud, troubleshoot problems, assist with any investigations, and comply with legal requirements as is permitted by law. Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests.
 
-Changes may be made to the **Planbox** privacy policy. We will make our best effort to notify our users about significant changes in the way personal information is handled by sending an email notice to the primary email address specified under the user's account and/or posting a notice on our website before the change occurs.
+**Security**
 
-## Contact Information
+Your information is stored and processed on computers located in Canada. planbox.com uses procedural and technical safeguards to protect your personal information against loss or theft, as well as against unauthorized access or disclosure, to protect your privacy, including firewalls and encryption. We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company. However, “perfect security” does not exist on the Internet.
 
-Planbox 4115 St-Laurent Suite 200, Montreal, Qc Canada H2W 1Y7 [info@planbox.com](mailto:info@planbox.com)
+**Notice**
+
+This policy is an overview of information about our policies and practices relating to the management of personal information. We may amend this Policy at any time by posting the amended terms on planbox.com. Any changes or modifications to our privacy practices will be posted in this policy for 30 days before they take effect.
