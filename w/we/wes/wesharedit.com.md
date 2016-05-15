@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wesharedit.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127175100id_/http%3A//wesharedit.com/462-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wesharedit.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515223458id_/http%3A//wesharedit.com/462-2) for the most accurate reproduction.*
 
 # Privacy Policy - We Shared It
 
