@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the military1st.co.uk privacy policy that was archived on 2015-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151014124325id_/http%3A//www.military1st.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the military1st.co.uk privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516013527id_/http%3A//www.military1st.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy | Military 1st
 
 In this privacy policy references to "we", "us" and "our" are to MMG Trading Ltd.  
 References to "our Website" or "the Website" are www.military1st.co.uk or any of our other associated websites.
@@ -25,6 +25,7 @@ Any personal information we collect from this website will be used in accordance
 
   * To process your order, to provide after sales service (we may pass your details to another organisation to supply/deliver products or services you have purchased and/or to provide after-sales service);
   * In certain cases we may use your email address to send you information on our other products and services. In such a case you will be offered the option to opt in/out before completing your purchase.
+  * If you have purchased from our store we may occasionally update you on news and special opportunities via post or telephone. You can unsubscribe from this mailing list by writing to our Customer Care team at info@military1st.co.uk or Customer Care, Military 1st, Unit 1, Fourth Avenue, Trafford Park, Manchester, M17 1DB, United Kingdom. If you wish to unsubscribe from SMS messaging only, please follow the instructions provided in the message.
   * We may need to pass the information we collect to other companies for administrative purposes. We may use third parties to carry out certain activities, such as processing and sorting data, monitoring how customers use the Website and issuing our e-mails for us. Third parties will not be allowed to use your personal information for their own purposes.
 
 
@@ -44,3 +45,7 @@ United Kingdom
 ### Other Websites
 
 This privacy policy only covers this website and websites wholly owned by MMG Trading Ltd. Any other websites which may be linked to by our website are subject to their own policy, which may differ from ours.
+
+### Amendments
+
+MMG Trading Ltd reserve the right to amend this privacy policy from time to time, as required.
