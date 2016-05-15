@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logicmerch.com privacy policy that was archived on 2015-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150722112405id_/http%3A//fanclubs.artistarena.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logicmerch.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515114132id_/http%3A//fanclubs.artistarena.com/privacy-policy.html) for the most accurate reproduction.*
 
 # 
 
