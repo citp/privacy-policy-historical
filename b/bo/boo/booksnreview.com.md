@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the booksnreview.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107061008id_/http%3A//www.booksnreview.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booksnreview.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515144324id_/http%3A//www.booksnreview.com/privacypolicy) for the most accurate reproduction.*
 
 # Books & Review
 
