@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gerbergear.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905121312id_/http%3A//www.gerbergear.com/Company/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gerbergear.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515091054id_/http%3A//www.gerbergear.com/Company/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gerber Gear
 
