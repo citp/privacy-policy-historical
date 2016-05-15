@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thediydreamer.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115173927id_/http%3A//thediydreamer.com/full-disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thediydreamer.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515225608id_/http%3A//thediydreamer.com/full-disclosure-privacy-policy) for the most accurate reproduction.*
 
 # Disclosure and Privacy Policies - The D.I.Y. Dreamer
 
@@ -11,6 +11,10 @@ This blog abides by word of mouth marketing standards. We believe in honesty of 
 The owner of this blog is compensated to provide opinion on products, services, websites and various other topics. Even though the owner of this blog receives compensation for our posts or advertisements, we always give our honest opinions, findings, beliefs, or experiences on those topics or products. The views and opinions expressed on this blog are purely the bloggers’ own. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question.
 
 This blog does not contain any content which might present a conflict of interest. To get your own policy, go to http://www.disclosurepolicy.org
+
+**Disclaimer**
+
+While every effort has been made to ensure the accuracy & effectiveness of the information displayed on this website, theDIYdreamer.com makes no guarantee as to the procedures & information contained here. The publisher will not be liable for direct, indirect, incidental, or consequential damages in connection with or arising from the use of the information displayed on theDIYdreamer.com. This website is not intended to substitute the advice of a professional. NOTE: Posts may contain affiliate links or sponsored content.
 
 ### Privacy Policy:
 
