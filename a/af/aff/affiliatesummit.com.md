@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatesummit.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905092416id_/http%3A//www.affiliatesummit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatesummit.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515233911id_/http%3A//affiliatesummit.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Affiliate Summit
 
@@ -98,7 +98,7 @@ AFFILIATE SUMMIT DOES NOT SELL, RENT OR SHARE ATTENDEE PERSONAL INFORMATION TO T
 
 3.2 Order Fulfillment.
 
-AFFILIATE SUMMIT will transfer Individual Information to third parties when necessary to provide a product or service that a person orders from such third party while using AFFILIATE SUMMIT web sites or when responding to offers provided by AFFILIATE SUMMIT. [Example: The mailhouse that Affiliate Summit uses receives the mailing database to send Affiliate Summit’s FeedFront Magazine to its subscribers.]
+AFFILIATE SUMMIT will transfer Individual Information to third parties when necessary to provide a product or service that a person orders from such third party while using AFFILIATE SUMMIT web sites or when responding to offers provided by AFFILIATE SUMMIT. [Example: The mailhouse that Affiliate Summit uses receives the mailing database to send Affiliate Summit’s FeedFront Magazine to its subscribers.] 
 
 3.3 Legal Process.
 
