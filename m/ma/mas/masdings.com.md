@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masdings.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022225936id_/http%3A//www.masdings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masdings.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515180040id_/http%3A//www.masdings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy
 
