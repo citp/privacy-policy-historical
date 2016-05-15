@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flor.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905183412id_/http%3A//www.flor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flor.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515082036id_/http%3A//www.flor.com/privacy-policy) for the most accurate reproduction.*
 
 # FLOR's privacy policy
 
@@ -95,7 +95,7 @@ Attn: Customer Service
 
 Under California Civil Code Section 1798.83, California residents have the right to request in writing from businesses with whom they have an established business relationship, (a) a list of the categories of personal information, such as name, e-mail and mailing address and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties' direct marketing purposes and (b) the names and addresses of all such third parties. To request the above information, please contact us by e-mail to kbrannigan@FLOR.com or write us at: Attn: California Privacy Rights Info Request, FLOR, 600 W. Van Buren Street Suite 800, Chicago, Illinois  60607\. We will respond to such requests for information access within 30 days following receipt at the e-mail or mailing address stated above. Please note that we are only required to respond to each customer once per calendar year.
 
-Additionally, California law requires that we indicate whether we honor “Do Not Track” settings in your browser concerning targeted advertising. “Do Not Track” is a standard that is currently under development. As it is not yet finalized, we adhere to the standards set out in this privacy policy and do not monitor or follow any Do Not Track browser requests. To learn about Do Not Track and for information about how to opt out of receiving targeted advertising, please click [www.aboutads.info/choices.](http://www.aboutads.info/choices.S)
+Additionally, California law requires that we indicate whether we honor “Do Not Track” settings in your browser concerning targeted advertising. “Do Not Track” is a standard that is currently under development. As it is not yet finalized, we adhere to the standards set out in this privacy policy and do not monitor or follow any Do Not Track browser requests.
 
 **Children**
 
