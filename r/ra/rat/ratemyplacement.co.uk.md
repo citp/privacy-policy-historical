@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratemyplacement.co.uk privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601085835id_/http%3A//www.ratemyplacement.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratemyplacement.co.uk privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515203525id_/http%3A//www.ratemyplacement.co.uk/privacy) for the most accurate reproduction.*
 
 # Rate My Placement - Guides on helping you find a placement or internship
 
@@ -6,7 +6,7 @@ Protecting your personal details on our website
 
 Last updated: 8 March 2012
 
- **RMP Enterprise Ltd (Registered number 6331665), whose registered office is at 22-26 Albert Embankment, London, SE1 7TJ knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes our privacy policy and forms part of our website terms and conditions ("Website Terms").**
+ **RMP Enterprise Ltd (Registered number 6331665), whose registered office is at RMP Enterprise, Ergon House, Horseferry Road, SW1P 2AL knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes our privacy policy and forms part of our website terms and conditions ("Website Terms").**
 
 By accepting our Website Terms or by visiting www.ratemyplacement.co.uk ("the Website") you are accepting and consenting to the practices described in this Privacy Policy.
 
