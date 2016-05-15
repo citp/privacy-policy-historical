@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babbittsonline.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910191455id_/http%3A//www.babbittsonline.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babbittsonline.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515084510id_/http%3A//www.babbittsonline.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
