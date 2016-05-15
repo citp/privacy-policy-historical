@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chantasbitches.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209195159id_/http%3A//www.twistedfactory.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chantasbitches.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515082439id_/http%3A//www.twistedfactory.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
