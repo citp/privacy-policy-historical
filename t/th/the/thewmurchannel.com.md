@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewmurchannel.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323102331id_/http%3A//www.wmur.com/connect/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewmurchannel.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515091350id_/http%3A//www.wmur.com/connect/privacy) for the most accurate reproduction.*
 
 # Privacy policy - WMUR News 9
 
