@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldship1.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208205007id_/http%3A//ws1.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldship1.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515183237id_/http%3A//ws1.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - WS1
+# WS1 | Privacy Policy
 
 #### What information do we collect?
 
@@ -24,7 +24,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 #### Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.worldship1.com/en/agreement//
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.ws1.com/agreement/
 
 #### Your Consent
 
