@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the juniqe.com privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021033654id_/http%3A//www.juniqe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juniqe.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515172511id_/https%3A//www.juniqe.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | JUNIQE
 
-The JUNIQE website is provided by Kollwitz Internet GmbH, Brunnenstraße 153 (Rückgebäude, 1. OG), 10115 Berlin, Germany (hereinafter referred to as "JUNIQE"). This data protection declaration provides information on how we use and protect your data on the JUNIQE website. Using the JUNIQE website implies that you accept the terms set forth in this data protection declaration. If you do not agree with these terms, please do not use the JUNIQE website. This data protection declaration applies to all members from the time they first log in at JUNIQE, thereby acknowledging acceptance of this data protection declaration.
+The JUNIQE website is provided by Kollwitz Internet GmbH, Köpenicker Straße 126, 10179 Berlin, Germany (hereinafter referred to as "JUNIQE"). This data protection declaration provides information on how we use and protect your data on the JUNIQE website. Using the JUNIQE website implies that you accept the terms set forth in this data protection declaration. If you do not agree with these terms, please do not use the JUNIQE website. This data protection declaration applies to all members from the time they first log in at JUNIQE, thereby acknowledging acceptance of this data protection declaration.
 
 **Data collection**
 
@@ -58,7 +58,7 @@ JUNIQE and other members of our group of companies that provide us with services
 ****Use of Google Analytics Advertising Features  
 ****
 
-The JUNIQE website is using the following Google Analytics Advertising Features: Remarketing with Google Analytics, Google Display Network Impression Reporting, Google Analytics Demographics and Interest Reporting. You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads by following Google's privacy ads instrustions: http://www.google.com/policies/technologies/ads/
+The JUNIQE website is using the following Google Analytics Advertising Features: Remarketing with Google Analytics, Google Display Network Impression Reporting, Google Analytics Demographics and Interest Reporting. You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads by following Google's privacy ads instructions: http://www.google.com/policies/technologies/ads/
 
 **Use of Facebook plugins**
 
