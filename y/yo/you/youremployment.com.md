@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youremployment.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514030833id_/http%3A//www.youremployment.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youremployment.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515091356id_/http%3A//www.youremployment.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | YourEmployment.com
 
@@ -36,6 +36,7 @@ We are committed to providing valuable and efficient Services. Part of that comm
   6. We also reserve the right to collect and re-use Information about you for marketing purposes.
   7. We reserve the right to collect Information about you and store it in connection with other online or offline information We may possess or obtain about you. Such information may include, without limitation, information about the different sites that you visit on the Internet, the time and frequency at which you visit them, and the content that you transmit or post on other Websites.
   8. By registering on YourEmployment, you agree that this act constitutes an inquiry and/or application for purposes of telemarketing laws, and notwithstanding that your telephone and/or cell number may be listed with the federal Do-Not-Call Registry you expressly opt-in to: (a) receive an offer or service from one or more of our partners or affiliates; (b) receive future information about products and services from us, our partners, affiliates and other third parties to whom we may provide your information; (c) permit us, our partners, affiliates and other third parties to contact you pursuant to the business relationship we have established using the information you provided to us for any purpose such as contacting you by e-mail address, phone and/or mobile phone number (including use of automated dialing equipment), text (SMS) message or any means of communication for any purpose that, among other things, your wireless device may be capable of receiving (e.g. mms, video etc.). These partners include Employment Services, Youremployment, Academic Advising, College Achieve and/or preferred 3rd party partners to discuss job openings, career alerts, legal services, educational opportunities, and online protection.
+  9. By Registering You Will Receive 3rd party emails from YourEmployment.
 
 
 
@@ -63,7 +64,7 @@ You have choices when it comes to the use of Our Website its Services and learni
   1. **E-mail Opt-out Options:**  Each marketing e-mail We send includes instructions and an opt-out link.
   2. **Refusing Cookies:**  Subject to the section below pertaining to cookies and web bugs, you have the ability to prohibit being served an advertisement based on cookie technology. We utilize reputable third-party vendors to serve advertisements. If however, you are not comfortable with cookies, you can adjust the settings within your browser to further prohibit being served a cookie. Please see the browser"s instructions to perform this task.
 
-The National Advertising Initiative (NAI) has developed an opt-out tool with the express purpose of allowing consumers to "opt-out" of the targeted advertising delivered by its member networks. You can visit the NAI opt-out page and opt-out of this cookie tracking. Please visit: <http://www.networkadvertising.org/optout_nonppii.asp>.
+The National Advertising Initiative (NAI) has developed an opt-out tool with the express purpose of allowing consumers to "opt-out" of the targeted advertising delivered by its member networks. You can visit the NAI opt-out page and opt-out of this cookie tracking. Please visit: <http://www.networkadvertising.org/optout_nonppii.asp>. 
 
   3. **Other Options:**  If you would like to opt-out of Our promotional marketing, and would like to contact Us, please send Us an e-mail at [privacy@youremployment.com](mailto:privacy@youremployment.com)
   4. I acknowledge that by providing my phone number and selecting yes on the offers within youremployment websites, I may be contacted by YourEmployment, Education Advisors, VacationSellout, and/or preferred 3rd party partners via email, telephone, and/or text to the number provided using automated technology. I understand that consent is not a condition of purchase.
