@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the acuitylaser.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114013143id_/http%3A//www.acuitylaser.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acuitylaser.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516002319id_/http%3A//www.acuitylaser.com/privacy-policy) for the most accurate reproduction.*
 
-# Acuity Laser's Privacy Policy | Learn About Laser Measuring Devices
-
-[Home](https://web.archive.org/) > Privacy Policy
+# Acuity Laser's Website Privacy Policy
 
 ## Acuity Protects Your Information That It Collects On This Website
 
@@ -11,12 +9,19 @@
 Privacy Notice Table Of Contents:
 
   * [Our Commitment To Privacy](https://web.archive.org/privacy-policy#commitment)
+
   * [The Information We Collect](https://web.archive.org/privacy-policy#information)
+
   * [How We Use Information](https://web.archive.org/privacy-policy#use-information)
+
   * [Our Commitment To Data Security](https://web.archive.org/privacy-policy#security)
+
   * [Our Commitment To Children's Privacy](https://web.archive.org/privacy-policy#privacy)
+
   * [How To Access Or Correct Your Information](https://web.archive.org/privacy-policy#access)
+
   * [How To Contact Us](https://web.archive.org/privacy-policy#contact)
+
 
 
 
@@ -65,13 +70,3 @@ To protect your privacy and security, we will also take reasonable steps to veri
 ### How To Contact Us
 
 Should you have other questions or concerns about these privacy policies, please call us at 503-227-5178 or [send us an email](https://web.archive.org/contact-us).
-
-[DOWNLOADSLiterature & Software](https://web.archive.org/literature-and-downloads)
-
-NEW PRODUCT
-
-NEW DEVICE:AR2000 Laser Distance Meter
-
-The AR2000 specializes in measurement of hot surfaces, including hot, glowing steel. It is also excellent at measuring outdoors and in bright light conditions.
-
-[Learn More](https://web.archive.org/products/item/ar2000-laser-distance-meter)
