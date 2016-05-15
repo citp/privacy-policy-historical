@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agmetalminer.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115023335id_/http%3A//agmetalminer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agmetalminer.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515111547id_/http%3A//agmetalminer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Steel, Aluminum, Copper, Stainless, Rare Earth, Metal Prices, Forecasting | MetalMiner
 
