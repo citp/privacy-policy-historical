@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadafreepress.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812034049id_/http%3A//canadafreepress.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadafreepress.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515091303id_/http%3A//canadafreepress.com/privacy.htm) for the most accurate reproduction.*
 
 # CFP Privacy Statement
 
