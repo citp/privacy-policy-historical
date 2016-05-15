@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifewithlisa.com privacy policy that was archived on 2015-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150925114605id_/http%3A//www.lifewithlisa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifewithlisa.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515174801id_/http%3A//www.lifewithlisa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Life With Lisa
 
