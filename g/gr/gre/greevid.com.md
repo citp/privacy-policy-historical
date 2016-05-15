@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greevid.com privacy policy that was archived on 2015-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150828041243id_/http%3A//greevid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greevid.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515222240id_/http%3A//greevid.com/privacy-and-cookie) for the most accurate reproduction.*
 
-# Privacy - Greevid.com
+# Privacy & Cookie - Greevid.com
 
 Words used in the Greevid [Terms of Service](http://greevid.com/terms-of-service) (“Terms”) have the same meaning in this policy. Where there is any inconsistency between this Policy and those Terms, the Terms prevail.
 
