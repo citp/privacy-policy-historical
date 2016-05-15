@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellothemes.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910232320id_/https%3A//www.hellothemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellothemes.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515040534id_/http%3A//www.hellothemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Premium Magento Themes | HelloThemes | Templates
 
