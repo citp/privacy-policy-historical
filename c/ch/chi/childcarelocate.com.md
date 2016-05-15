@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the childcarelocate.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113234956id_/http%3A//www.childcarelocate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the childcarelocate.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515190302id_/http%3A//www.childcarelocate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – ChildCareLocate
 
