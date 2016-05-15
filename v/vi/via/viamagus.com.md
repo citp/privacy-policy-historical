@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viamagus.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225013142id_/http%3A//www.viamagus.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viamagus.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515222044id_/http%3A//viamagus.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Viamagus
 
