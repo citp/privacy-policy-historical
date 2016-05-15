@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lonelywivesdatingclub.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115010500id_/http%3A//www.lonelywifehookup.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds23) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lonelywivesdatingclub.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515091420id_/http%3A//www.lonelywifehookup.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds23) for the most accurate reproduction.*
 
 # Lonely Housewife Sex - Local Cheating Housewife at LonelyWifeHookup
 
