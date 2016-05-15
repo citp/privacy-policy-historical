@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supplyon.com privacy policy that was archived on 2014-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140108165720id_/http%3A//supplyon.com/en/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supplyon.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515021634id_/http%3A//www.supplyon.com/en/privacy_notice.html) for the most accurate reproduction.*
 
 # SupplyOn - Privacy Notice
 
@@ -12,7 +12,7 @@ You can usually visit our site without the need to provide personal data. We col
 
 When you log in to the SupplyOn portal, register or enroll for a training course, we use session cookies to identify your user session. Cookies are small text files that are stored in the visitor's local browser cache. As a result of their use, your browser is assigned a unique ID that enables bidirectional communication between it and our application. You are responsible for deleting the cookies transferred to your browser. You should configure your browser so that cookies are automatically deleted when it is closed.
 
-In addition, we use an analysis tool from etracker GmbH ([www.etracker.com)](http://www.etracker.com/en/) which collects and stores data to enable creation of a pseudonymized user profile. etracker GmbH stores a permanent cookie in your browser program to allow your browser to be recognized. This data does not permit any details of your person to be directly deduced. The profiles are not used to identify visitors to this Internet site personally. They are not linked to data about the person behind the pseudonym. You can [object](http://application.etracker.com/privacy.php?sid=263a357e35fd701c2bb7553022da2405&languageId=2&et=sX9XYV) to the collection and storage of data by etracker GmbH using the permanent cookie at any time with future effect.
+In addition, we use an analysis tool from etracker GmbH ([www.etracker.com) __](http://www.supplyon.com/.html) which collects and stores data to enable creation of a pseudonymized user profile. etracker GmbH stores a permanent cookie in your browser program to allow your browser to be recognized. This data does not permit any details of your person to be directly deduced. The profiles are not used to identify visitors to this Internet site personally. They are not linked to data about the person behind the pseudonym. You can [object](http://application.etracker.com/privacy.php?sid=263a357e35fd701c2bb7553022da2405&languageId=2&et=sX9XYV) to the collection and storage of data by etracker GmbH using the permanent cookie at any time with future effect.
 
 You can configure your browser so that it informs you of the placement of cookies. This ensures that the use of cookies is transparent for you. You can disable acceptance of cookies in your browser settings. However, if you do so you will no longer be able to log in to the SupplyOn portal, register or enroll for training courses.
 
@@ -31,6 +31,11 @@ We need your e-mail address to be able to send you the SupplyOn newsletter free 
 
 Your data is then removed from the mailing system.
 
+**Contact form**
+
+In order to use our contact form we require your name and your email-address. You may send us further information (voluntary data), but you are not obliged to do so.   
+In order to work on your request, your data is stored in our CRM-system, supervised by an US located service provider. Of course we have ensured an adequate level of data protection. We use your data only for providing the requested information. 
+
 **Right of information**
 
-For queries regarding data protection, you can contact our operational data protection officer at [datenschutz@supplyon.com](mailto:datenschutz@supplyon.com) or in writing at the address given in the [imprint](http://supplyon.com/en/imprint.html). Upon request, we will inform you in writing in accordance with the applicable legislation whether and which personal data of yours are stored by us.
+For queries regarding data protection, you can contact our operational data protection officer at [datenschutz@supplyon.com](mailto:datenschutz@supplyon.com) or in writing at the address given in the [imprint](http://www.supplyon.com/en/imprint.html). Upon request, we will inform you in writing in accordance with the applicable legislation whether and which personal data of yours are stored by us.
