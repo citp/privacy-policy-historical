@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the javabeginnerstutorial.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204182511id_/http%3A//javabeginnerstutorial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javabeginnerstutorial.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515024116id_/http%3A//javabeginnerstutorial.com/javabeginnerstutorial.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Java Beginners Tutorial
 
