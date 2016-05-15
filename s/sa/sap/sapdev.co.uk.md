@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sapdev.co.uk privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316101854id_/http%3A//www.sapdev.co.uk/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sapdev.co.uk privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515085647id_/http%3A//www.sapdev.co.uk/privacy-policy.htm) for the most accurate reproduction.*
 
 # SAP Development - ABAP
 
@@ -23,4 +23,4 @@ This website uses selective affiliate links, this means that a commission is ear
 **Privacy Statement alterations**   
 Please note that the content of this privacy statement may be altered at any time. 
 
-If you have any question please feel free to contact sapdevelopment at [webmaster@sapdev.co.uk](https://web.archive.org/web/20150316101854id_/http%3A//www.sapdev.co.uk/contact/contact.htm)
+If you have any question please feel free to contact sapdevelopment at [webmaster@sapdev.co.uk](http://www.sapdev.co.uk/contact/contact.htm)
