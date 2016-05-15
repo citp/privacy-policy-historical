@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imslp.net privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007013612id_/http%3A//www.imslp.org/wiki/IMSLP%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imslp.net privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515205921id_/http%3A//imslp.org/wiki/IMSLP%3APrivacy_policy) for the most accurate reproduction.*
 
 # IMSLP:Privacy policy - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music
 
