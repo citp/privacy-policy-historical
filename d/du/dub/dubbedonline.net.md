@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dubbedonline.net privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910104924id_/http%3A//www.dubbedonline.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubbedonline.net privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515182125id_/http%3A//www.dubonline.tv/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Anime English Dubbed
 
