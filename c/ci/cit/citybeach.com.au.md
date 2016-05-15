@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citybeach.com.au privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208042938id_/http%3A//www.citybeach.com.au/shop/en/citybeach/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citybeach.com.au privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515142737id_/http%3A//www.citybeach.com.au/shop/en/citybeach/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -73,7 +73,7 @@ City Beach may modify this Privacy Policy at any time effective upon its posting
 
 Unsubscribe From Marketing
 
-To unsubscribe or opt out of marketing emails from City Beach, an unsubscribe link will be found at the bottom of all marketing emails. You can click this link and enter your email address to unsubscribe from City Beach’s email marketing program. Alternatively, you can also update your email preferences via your City Beach account by unchecking the 'Receive marketing emails' tick-box and clicking save. To opt out from SMS marketing, you can simply text ‘STOP’ to the number supplied in the SMS message. 
+To unsubscribe or opt out of marketing emails from City Beach, an unsubscribe link will be found at the bottom of all marketing emails. You can click this link and enter your email address to unsubscribe from City Beachâ€™s email marketing program. Alternatively, you can also update your email preferences via your City Beach account by unchecking the 'Receive marketing emails' tick-box and clicking save. To opt out from SMS marketing, you can simply text â€˜STOPâ€™ to the number supplied in the SMS message. 
 
 Privacy Complaints
 
