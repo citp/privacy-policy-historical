@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the icecat.biz privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209071041id_/http%3A//icecat.biz/us/menu/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icecat.biz privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515192359id_/http%3A//icecat.biz/us/menu/privacy/index.html) for the most accurate reproduction.*
 
-# Icecat product page - Privacy Menu
+# 
 
 Icecat Privacy Policy
 
@@ -34,6 +34,6 @@ Your personal identifiable information is kept secure. Only authorized employees
 
 Privacy Contact Information
 
-If you have any questions, concerns, or comments about our privacy policy you can send them via the [contact form.](https://web.archive.org/us/menu/contacts/index.htm "contact form")
+If you have any questions, concerns, or comments about our privacy policy you can send them via the [contact form.](https://web.archive.org/us/menu/contacts/index.html "contact form")
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
