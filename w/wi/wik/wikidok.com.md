@@ -1,19 +1,48 @@
-> *The following text is extracted and transformed from the wikidok.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615101724id_/http%3A//www.wikidok.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikidok.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515021639id_/http%3A//wikidok.com/privacy-policy) for the most accurate reproduction.*
 
-# USA Free Classifieds, US Free Ads, Free Ads for USA, Post Free Ads, Post Ads without registration, No registration required | WikiDok.com
+# Privacy Policy – WikiDok
 
-##  Website Privacy Policy 
+Wikidok understands how important privacy is for our readers. We encourage you to take the time to read the entire privacy policy.
 
-Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our Privacy Policy. 
+**Information that we collect**
 
-  * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected. 
-  * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law. 
-  * We will only retain personal information as long as necessary for the fulfillment of those purposes. 
-  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned. 
-  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date. 
-  * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. 
-  * We will make readily available to customers information about our policies and practices relating to the management of personal information. 
+We collect information from you when you fill out a contact form or email subscription form.
 
+We use third-party tools, such as Google Analytics, to better understand our site visitors. We also use social media widgets that may collect information about your use of the site.
 
+Google, as a third party vendor, uses cookies to serve ads on this site. Google’s use of cookies enables it to serve ads to users based on their visits to this site and other sites on the Internet.
 
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
+Users may opt out of the use of these cookies by visiting the Google ad and content network privacy policy.
+
+**What we use your information for**
+
+The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
+
+At the bottom of each and every email sent to you, there is an unsubscribe link. If you click that link, you will never hear from us again.
+
+We will never share your email address with anyone.
+
+**We do use cookies**
+
+Cookies are small files that a site or its service provider transfer to your hard drive through your browser that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+
+We use cookies to compile data about site traffic and interaction so that we can offer better experiences and tools in the future.
+
+We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+**Terms and Conditions**
+
+Please also visit our Terms of Use page establishing the use, disclaimers, and limitations of liability governing the use of our website.
+
+**Your Consent**
+
+By using our site, you consent to our online privacy policy.
+
+Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
+
+**Contact Us**
+
+If there are any questions regarding this privacy policy, Please mail us to info@wikidok.com1  
+© 2012-2016 Wikidok. All rights reserved.
