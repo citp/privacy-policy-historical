@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourlustvip.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408044046id_/http%3A//www.yourlustvip.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourlustvip.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515175053id_/http%3A//yourlustvip.premiumarchive.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - yourlustvip
 
