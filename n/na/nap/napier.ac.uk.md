@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the napier.ac.uk privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114031003id_/http%3A//www.napier.ac.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the napier.ac.uk privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515024646id_/http%3A//www.napier.ac.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -18,6 +18,8 @@ We may collect and process the following data about you:
 
 
 
+If you submit personal information to us, for example your name and email address, we may link this information with any other information we have collected about you.
+
 ## Edinburgh Napier use of visitor statistics
 
 When you visit our website our systems automatically collects information about your computer, including where available your IP address (a unique number assigned to your computer when you are using your browser on the internet), operating system and browser type to monitor customer traffic patterns and website usage. 
@@ -29,6 +31,8 @@ These statistics are very much like television ratings that tell the networks ho
 ## Cookies
 
 We use cookies to collect our statistics about your visit. Cookies are small text files that are placed on your computer and are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. 
+
+We will also collect any information you give to us through our submission forms, like our [contact form](https://web.archive.org/about-us/contact-us). If you submit information to us, including a name and email address, we may link this information with the information we have automatically collected about you.
 
 Please view the University's [Statement on the Use of Cookies](https://web.archive.org/cookie-policy) for detailed information on the cookies we use and the purposes for which we use them.
 
@@ -42,7 +46,7 @@ We will take all steps reasonably necessary to ensure that your data is treated 
 
 The information you have given us will be stored on our computer systems and used in the following ways: 
 
-  1. Marketing: In order that we may keep you informed by post, email, telephone or other electronic means of the news, events or services that may be of interest
+  1. Marketing: In order that we may keep you informed by post, email, telephone or other electronic means of the news, events or services that may be of interest (provided you have opted-in to receive such communications). You can opt out at any time
   2. Web statistics: To improve the service to our clients and to analyse our Website's use without identifying you as an individual
   3. Market Research: From time to time we may ask you to take part in research surveys to assist us with improving our service to existing and potential students
   4. Processing applications made by you
