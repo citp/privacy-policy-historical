@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the city-visitor.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905164636id_/http%3A//www.cityvisitor.co.uk/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the city-visitor.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515085234id_/http%3A//www.cityvisitor.co.uk/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Cityvisitor
 
