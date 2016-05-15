@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the slowcookerfromscratch.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215182155id_/http%3A//www.slowcookerfromscratch.com/2012/01/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slowcookerfromscratch.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515210901id_/http%3A//www.slowcookerfromscratch.com/2012/01/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Slow Cooker from Scratch®
+# Slow Cooker from Scratch®: Privacy Policy
 
 **General Statement About Privacy:**  
 Slow Cooker from Scratch is committed to maintaining the privacy and protection of your personal information when you visit this website. This policy outlines what information may be collected when you visit the site, and how that information is used. When you continue to visit this website, you are consenting to the practices described in this policy.
