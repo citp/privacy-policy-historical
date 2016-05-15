@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the affinityclick.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022231201id_/http%3A//hushed.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affinityclick.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515145534id_/https%3A//hushed.com/about-us/privacy) for the most accurate reproduction.*
 
-# Privacy | Hushed – Disposable and Temporary Phone numbers
+# <Hushed | Change My Number App | Temporary Burner Number | Anonymous Texting & Calls>
 
 * * *
 
