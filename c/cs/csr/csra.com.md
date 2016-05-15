@@ -1,118 +1,94 @@
-> *The following text is extracted and transformed from the csra.com privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023002202id_/http%3A//www.csra.com/Legal/PrivacyStmt.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csra.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515172613id_/http%3A//www.csra.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy | CSRA Inc.
 
-### Rinker Privacy Statement
+### CSRA's Section 508 Compliance Policy
 
-In accordance with its Privacy Policy, Rinker Group Limited is committed to protecting the privacy of visitors to its web site. This Internet Privacy Statement is provided to make you aware of how Rinker Group Limited collects, uses and manages of information for visitors to all our web sites. Rinker Group Limited collects the following information regarding visitors to our web sites: 
+In 1998, Congress amended the Rehabilitation Act to require Federal agencies to make their electronic and information technology accessible to people with disabilities. Inaccessible technology interferes with an individual’s ability to obtain and use information quickly and easily. CSRA recognizes and acknowledges the requirement for compliance with Section 508 of the Rehabilitation Act and the Accessibility standards within 36 CFR part 1194.
 
-  * * network identity of the computer system (IP address)
-  * * domain name and information regarding what pages are accessed
+### CSRA Online Privacy Notice
 
+_Effective December 1, 2015._  
+We are very sensitive to privacy issues.   CSRA has adopted this Privacy Notice to let you know how we handle the information we receive from you through this Site and to assure you of our commitment and dedication to privacy so that you can make an informed decision as to whether and to what extent to disclose personal information.
 
+The following Privacy Notice applies to the Web site "[www.csra.com](http://www.csra.com/)" (Site). This Privacy Notice does not apply to information collected offline or via online sources other than the Site. We invite you to visit the Site to search or browse without revealing personal information or registering with CSRA.  However, as we gather information about your usage or as you may choose to give CSRA personal information via the Site, CSRA will let you know how we will use such information and provide you with an option to opt out. Your continued use of the Site will indicate your agreement to this Privacy Notice.
 
-This information is used for the purposes of statistical analysis, capacity planning and research on usage patterns to further improve the site. Information volunteered by you, such as e-mail address, name, address, phone and company details is used for the express purpose for which it was disclosed. Rinker Group Limited does not disclose or publish personal information collected through the web sites without consent. Access to this information is restricted to Rinker Group Limited staff and Rinker Group Limited's consultants who are bound to respect the privacy of the information. 
+As used in this Privacy Notice, terms such as "we" or "our" refer to CSRA Inc. and its current and future affiliate entities.
 
-### Security
+### Personal Information Provided by You
 
-Rinker Group Limited takes all reasonable security measures to protect personal information from loss, unauthorized access or modification. Rinker Group Limited reserves the right to gather more extensive information about any attempted access to its web site which raises security issues and, where necessary, to make disclosures to relevant authorities.
+When we use the term "personal information," we mean information that specifically identifies you as an individual, such as your full name, telephone number, e-mail address, postal address, or certain account numbers.
 
-### Updating this Internet Privacy Statement
+To the maximum practical extent, CSRA will collect information directly from the individual. CSRA provides means, where feasible and appropriate, for individuals to authorize the collection, use, maintenance, and sharing for information prior to its collection. CSRA provides appropriate means for individuals to understand the consequences of decisions to approve or decline the authorization of the collection, use, dissemination, and retention of personal information. You do not have to provide us with personal information if you do not want to; however, that may limit your ability to use certain functions of this Site or to request certain services or information.
 
-Rinker Group Limited web sites will be continually improved and enhanced with new services, which may change the way we manage personal information. The content of this Internet Privacy Statement may be updated from time to time to reflect this, so we suggest that you return to this privacy statement on a regular basis and carefully read the information provided.
+By providing us with your contact information in order to receive information from CSRA, you are opting in to receiving a communication regarding your inquiry. If you do not wish to be contacted by CSRA, please do not enter any contact information on our Site.
 
-### Privacy at Rinker
+### Uses and Disclosures of Personal Information
 
-Rinker respects the privacy of individuals. This policy outlines the way we manage personal information that we collect or that is provided to us. It applies to Rinker Group Limited and Australian companies in the Rinker Group Limited group (Rinker). Rinker is bound by National Privacy Principles (Principles) contained in the Commonwealth Privacy Act. In summary, the Principles describe 'personal information' as information (or an opinion) relating to an individual that can be used to identify that individual. 
+Except as described in this Privacy Notice, we will not use your personal information or disclose it to a third party without your consent.   
+We may use personal information for a number of purposes such as:
 
-### Why does Rinker collect personal information?
-
-Rinker is a major manufacturer and supplier of heavy building materials. To operate our businesses, we need to collect some information about the people we deal with. As a publicly listed company, we also maintain records of our shareholders. Collecting personal information is also necessary in some circumstances to meet our legal obligations.
-
-### What kind of personal information does Rinker collect and how does Rinker collect it?
-
-Rinker generally collects and holds personal information about: 
-
-  * * our employees;
-  * * contractors who provide services to Rinker;
-  * * our customers;
-  * * our suppliers;
-  * * our shareholders;
-  * * job applicants; and
-  * * other people who may come into contact with Rinker or one of   Rinker's businesses.
+  * To respond to an e-mail or particular request from you;
+  * To process an application as requested by you;
+  * To comply with applicable laws, regulations, and legal process;
+  * To protect someone's health, safety, or welfare;
+  * To protect our rights or take appropriate legal action; or
+  * As otherwise necessary or useful for us to conduct our business, so long as such use is permitted by law and is consistent with the uses enumerated above.
 
 
 
-The type of information we collect varies, depending on the purpose, and may include (but is not limited to) name, address, contact details, credit information and marketing information. This information may be obtained by way of forms filled out, information provided in person or by telephone by the individuals themselves, or from a third party (for example, a reference). 
+CSRA collects the minimum information necessary to serve its customers and the general public. Information collected on the Site will only be used for the specific reasons for which it was provided. Information collected from you will not be shared with third parties for purposes other than in support of CSRA's operations and as necessary to facilitate the purpose for which it was provided.
 
-### How do we use personal information and to whom may we disclose it? 
+We limit the collection of personal information to what we need to know in order to achieve our goal of providing superior quality and value, and we use personal information only for the purpose for which it was collected. For example, some sections of our Site invite you to contact us for more information, and in these cases we may request your name and email address. We will not use your email for any other purpose, and you will not receive unsolicited e-mail from CSRA as a result of supplying this information.
 
-In general, Rinker uses personal information to: 
+### Uses and Disclosures of Cookies and Non-Personal Information
 
-  * * provide products or services that have been requested;
-  * * maintain relationships with suppliers and contractors;
-  * * communicate;
-  * * provide ongoing information about Rinker products and services   to Rinker customers; and
-  * * comply with legal obligations.
+The term "non-personal information" means information that does not permit us to specifically identify you by your full name or similar unique identifying information such as a social security number, member identification number, address or telephone number. CSRA uses "cookie" technology and similar technology to gather non-personal information from our Site visitors, such as which pages are used and how often they are used, and to enable certain features on this Site.  
+You may disable these cookies and similar items by adjusting your browser preferences on your computer at any time; however, this may limit your ability to take advantage of all the features on this Site. Keep in mind that cookies are not used to collect any personal information and do not tell us who you are. Some examples of the way we use cookies include:
 
-
-
-Depending on the product or service concerned, personal information may be disclosed to: 
-
-  * * other divisions or organizations within Rinker;
-  * * service providers and specialist advisers to Rinker who have   been contracted to provide Rinker with administrative or other   services;
-  * * insurers, credit providers, courts, tribunals and regulatory   authorities as agreed or authorized by law;
-  * * credit reporting or reference agencies or insurance   investigators; or
-  * * a person authorized by an individual.
+  * Tracking resources and data accessed on the site;
+  * Recording general site statistics and activity;
+  * Assisting users experiencing Site problems;
+  * Enabling certain functions and tools on this Site; and
+  * Tracking paths of visitors to this site and within this site.
 
 
 
-Generally, we require that organizations outside Rinker, who handle or obtain personal information as service providers to Rinker, acknowledge the confidentiality of this information, undertake to respect any individual's right to privacy and comply with the Principles and this policy. 
+We may also collect other forms of non-personal information, such as what web browsers are used to read our Site and what other websites are referring traffic or linking to our Site. Aggregate and de-identified data regarding Site users is considered non-personal information.
 
-In most cases, if you do not provide information about yourself that Rinker has requested, Rinker may not be able to provide you with the relevant product or service. 
+Because non-personal information does not identify who you are, we do not find it necessary limit the ways we may use or share non-personal information. For example, we may share non-personal information with our affiliates, suppliers, employees and agents, other businesses, and the government.
 
-Rinker uses the personal information it collects about Rinker shareholders to fulfill its legal obligations and to keep its shareholders informed of Rinker's progress. 
+### Usage Statistics
 
-### How do we treat sensitive information?
+Whether you register or not, when you visit the Site, some information such as your Internet Protocol (IP) address, Internet service provider, operating system, the service from which you arrived, the page you requested, the time and date of your visit, and potentially other site usage statistics will be collected automatically as part of the software processes of the Web page. This information itself does not personally identify you, but could potentially be linked with personal information that you provide CSRA. These statistics allow CSRA to analyze the effectiveness of its Site, make improvements where needed and potentially to market CSRA's products and services to you. Generally, this information is kept as long as required to support the improvements of the Site and could be shared with our advisors, agents or other third parties.
 
-The Privacy Act defines 'sensitive' information as information about a person's racial or ethnic origin, religion, membership of political bodies, trade union or other professional or trade association, sexual preferences, criminal record or health. Sometimes it may be necessary to collect sensitive information. If you provide Rinker with sensitive information, it is Rinker's policy that this information will be used and disclosed only for the purpose for which it was provided or another directly related purpose, unless you agree otherwise, or unless use or disclosure of this information is allowed by law.
+### Security and Data Integrity
 
-The way we use tax file numbers and information received from a credit reporting agency about an individual is also restricted by law. 
+Security is a high priority for CSRA. To protect the personal data you submit to this Site, we have implemented appropriate organizational, technical and physical safeguards to prevent unauthorized access or disclosure. We require the same high standard of information security and information management of any third parties with whom we share your data. Due to the nature of the Internet, we cannot guarantee that unauthorized parties will never be able to defeat those measures or use your personal information for improper purposes; however, this Site takes every precaution to protect our users' information.  
+Most e-mail, including any e-mail functionality on our Site, does not provide a completely secure and confidential means of communication. It is possible that your e-mail communication may be accessed or viewed inappropriately by another Internet user while in transit to us. If you wish to keep your information completely private, you should not use e-mail.
 
-### How do we manage personal information? 
+### External Links
 
-Rinker trains its employees who handle personal information to respect the confidentiality of that information and the privacy of individuals. 
+We furnish external links on CSRA's web pages that cause you to leave our Site.  These are provided for your convenience and should be used with discretion. Please be aware that we have no control over the Internet sites accessible through these links or the information found there. CSRA cannot and does not make any representation about these sites or the material on them. We do not endorse or recommend any of the material or information found on any non-CSRA site. CSRA is not liable for any personal information that you submit to third parties or to any Web site linked to this Site.
 
-### How do we store personal information?
+### Resume Collection
 
-Rinker is required by the Principles to safeguard the security and privacy of your information, whether you interact with us personally, by telephone, mail, over the internet or other electronic medium. This includes an obligation to take reasonable steps to protect the personal information we hold from misuse, loss, unauthorized access, modification or disclosure
+The Site provides a capability for users to submit their resumes to CSRA via email. Any resume so received by CSRA will be held in confidence and used only for the purpose of considering the submitting party for employment. Such information is not shared with third parties external to CSRA domestic and international branches.
 
-The Principles also require Rinker not to store personal information longer than necessary. Where Rinker no longer requires any personal information that we hold, we will destroy that personal information or remove details which may identify individuals
+### Children
 
-### How do we keep personal information accurate and up-to-date?
+This Site is intended for adult use only. It is not intended for children, and CSRA asks that minors not submit any personal information.
 
-Rinker seeks to ensure that the personal information it holds is accurate and up-to-date. We realize that this information changes frequently with changes of address and other personal circumstances. We encourage you to contact Rinker as soon as possible in order to update any personal information we hold about you. Rinker contact details are set out below. 
+### Additional Terms
 
-### Can you check what personal information about you is held by us?
+Certain features and services of [www.csra.com](http://www.csra.com/) \- especially highly interactive features - may involve types of personal information and data handling that are not specifically discussed here in this Privacy Notice. Rest assured that this notice applies wherever you go within [www.csra.com](http://www.csra.com/). We may, however, provide additional privacy information at a particular feature or service so you can be better informed about CSRA's practices, including how that service may be collecting and using your personal information and opportunities you may have to access and correct your information. Additional terms may also explain how this Privacy Notice applies to the particular feature or service.
 
-You may obtain access to any personal information which Rinker holds about you, unless one of the exceptions in the Principles applies. To make a request to access information Rinker holds about you, please contact Rinker in writing. Rinker will require you to verify your identity and to specify what information you require. Rinker may charge a fee to cover the cost of verifying the application and locating, retrieving, reviewing and copying any material requested. 
+Any personal information that you provide when using the CSRA Site may be transferred between CSRA business units, subsidiaries and affiliates for the purposes outlined in this Privacy Notice. This applies to all jurisdictions including the European Economic Area and by using the services provided you consent to the transfer of your personal information to CSRA global entities for the limited purposes.
 
-### Can you check what personal information about you is held by us?
+### Contact and Complaint Resolution
 
-If you consider that any action of Rinker breaches this privacy policy or the National Privacy Principles, you can make a complaint. In the first instance, please direct your complaint to the particular Rinker business or activity concerned – they are likely to be in the best position to deal with the matter quickly and effectively. Each Rinker business or activity has an officer appointed to handle complaints. If the matter is not resolved to your satisfaction, please make contact with the relevant officer below. Rinker endeavors to respond promptly to complaints. 
+CSRA is committed to resolving any complaints you may have in relation to your privacy and CSRA's collection and use of your personal information. Please send any privacy-related complaints or requests, including request for access to information, to [communications@csra.com](mailto:communications@csra.com).
 
-### How do you contact us? 
+### Changes to the Online Privacy Notice
 
-If the particular Rinker business or activity is unable to deal with a privacy complaint to your satisfaction, please contact the relevant Rinker company by e-mail, phone, facsimile or post: 
-
-Ri **nker Group Limited** | R **eadymix Holdings Pty Limited  
-** (and its subsidiaries)  
----|---  
-Rinker Group Privacy Officer | Readymix Holdings Privacy Officer  
-Rinker Group Limited Tower B, Level 8, 799 Pacific Highway Chatswood NSW 2057  | Readymix Limited Tower B, Level 8, 799 Pacific Highway Chatswood NSW 2057   
-Telephone: (02) 9412 6600 Facsimile: (02) 9412 6666  | Telephone: (02) 9412 6600 Facsimile: (02) 9412 6650   
-E-mail: rinkerprivacy@rinker.com.au | E-mail: readymixprivacy@rinker.com.au  
-  
-### Updates to this Policy
-
-This privacy policy will be reviewed from time to time to take account of new laws and technology, changes to our operations and practices and the changing business environment. All personal information held by Rinker will be governed by Rinker's most recent policy. If you are unsure whether you are reading the most current version, please contact us.
+CSRA reserves the right to change, modify, or update this Notice at any time to reflect changes in practice or policy that affect personal information or changes in activities that impact privacy.  We will provide a summary of any material changes that may affect how we process or use any personal information you previously gave CSRA. Be sure to check this page periodically for updates.
