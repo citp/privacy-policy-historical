@@ -1,227 +1,33 @@
-> *The following text is extracted and transformed from the slimfast.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426043219id_/http%3A//www.unileverprivacypolicy.com/en_us/policy.aspx%3Fsite%3Dwww.slimfast.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slimfast.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515084256id_/http%3A//slimfast.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# SlimFast | Privacy Policy
 
-##  _UNILEVER PRIVACY PRINCIPLES_
+SlimFast®  Internet Privacy Statement
 
-Unilever takes privacy seriously. The following five principles underpin our approach to respecting your privacy:
+Welcome to SlimFast.com. This Web site is owned and operated by Core Science Medica, West Palm Beach, FL, USA ("KSF ACQUISITION CORPORATION").
 
-  1. We value the trust that you place in us by giving us your personal information. We will always use your personal information in a way that is fair and worthy of that trust.
-  2. You are entitled to clear information about how we use your personal information. We shall always be transparent with you about what information we collect, what we do with it, with whom we share it and whom you should contact if you have any concerns.
-  3. If you have any concerns about how we use your personal information, we will work with you to promptly resolve those concerns.
-  4. We will take all reasonable steps to protect your information from misuse and keep it secure.
-  5. We will comply with all applicable data protection laws and regulations and we will co-operate with data protection authorities. In the absence of data protection legislation, we will act in accordance with generally accepted principles governing data protection.   
+KSF ACQUISITION CORPORATION respects the privacy of visitors to our online sites. KSF ACQUISITION CORPORATION will only collect your personally identifiable information, such as your name, address, telephone number, or e-mail address, when you provide it to us at this website. KSF ACQUISITION CORPORATION and/or the companies we hire will use this information to comply with your request for information or as otherwise disclosed to you on the web page when you submit your information to us. From time to time, we may refer to this information to better understand your needs and how we can improve our products and services. We may use this information to contact you. We will not sell or otherwise transfer the personally identifiable information you provide to us at this website to any third parties for their own use unless we tell you when you submit your information to us that we intend to do so.
 
+Like many websites, some KSF ACQUISITION CORPORATION websites use a technology called "cookies". A cookie is a small text file that a web server gives your browser to store on your computer when you access a website. Cookies are capable of storing many types of data and may be placed on your browser by KSF ACQUISITION CORPORATION or by a third party. Cookies are used for a variety of purposes on KSF ACQUISITION CORPORATION websites:
 
+  * Some KSF ACQUISITION CORPORATION sites set cookies that keep you from having to enter a password more than once during visits to one or more of our sites. 
+  * We also use cookies to help us analyze usage of our sites and traffic among our sites more accurately and to provide you with information of interest to you. For example, cookies are used on some KSF ACQUISITION CORPORATION websites to record the total number of hits received on the sites and web pages. 
+  * Cookies also allow KSF ACQUISITION CORPORATION to determine whether you came to a KSF ACQUISITION CORPORATION site from another KSF ACQUISITION CORPORATION site or from an advertising banner or link on a non-KSF ACQUISITION CORPORATION website, so that we can, for example, measure the effectiveness of the links among our sites and the effectiveness of our advertising on non-KSF ACQUISITION CORPORATION websites. 
+  * Similarly, cookies allow us to determine whether you register on or visit any of our websites, which enables us to analyze how particular users use our sites and whether registered and unregistered users of our websites use our sites differently. 
+  * Cookies also allow us to maintain information about how particular visitors use our family of sites, which enables us to better provide such visitors with information relevant to their interests. This may include using information about your use of our sites in conjunction with personally identifiable information that you have volunteered to us on one of our site. 
 
 
-## _UNILEVER PRIVACY POLICY_
 
-_Last Updated: October 2013_
+This is not an exhaustive list of all uses of cookies on KSF ACQUISITION CORPORATION's websites. In all cases in which cookies are used, however, neither KSF ACQUISITION CORPORATION nor any third party will use the cookie to collect personally identifiable information from our site unless you voluntarily agree to enter the information. Most web browsers are set up to accept cookies. You can, however, reset your browser to refuse all cookies or to indicate when a cookie is being sent. Note, however, that some portions of our sites may not work properly if you refuse cookies.
 
-Unilever is committed to protecting your privacy and ensuring that your personal information is protected. This Privacy Policy explains the types of personal information we collect and how we use, disclose and protect that information.
+In addition to cookies, KSF ACQUISITION CORPORATION may collect non-personally identifiable information about how you use our websites using other analysis technologies. These analysis technologies may be provided by third parties. Information that might be collected using these technologies includes, for example, the pages you visit on our site, the paths you take within our sites and the length of time that you spend on our websites. We use this information in the aggregate in order to better understand how to improve the quality of our websites.
 
-## What does this Privacy Policy apply to?
+Some KSF ACQUISITION CORPORATION websites use a third party ad-serving service to display advertising on other, non-KSF ACQUISITION CORPORATION websites. In addition to placing advertisements on certain non-KSF ACQUISITION CORPORATION web pages, these services and/or KSF ACQUISITION CORPORATION may also place a segment of code called a clear pixel tag, also known as a "GIF", on certain KSF ACQUISITION CORPORATION web pages that do not contain advertisements for the purpose of measuring the effectiveness of advertisements in bringing visitors to our web sites. GIFs may also be used with cookies to track the total number of visitors to our website, the number of visitors to various web pages, and the domain names of our visitors' Internet service providers. No personally identifiable information is collected in this process.
 
-This Privacy Policy applies to personal information collected by the Unilever Group of companies in connection with the services they offer. Find out more about the Unilever Group at <http://unilever.com/aboutus/>. This includes information collected offline through our Careline and consumer call centres, direct marketing campaigns, sweepstakes and competitions, and online through our websites, branded pages on third party platforms and applications accessed or used through such websites or third party platforms which are operated by or on behalf of the Unilever Group (“ **Unilever Sites** ”). This Privacy Policy is hereby incorporated into and forms part of the terms and conditions of use of the applicable Unilever Site. For information about the Unilever Group company responsible for protecting your personal information, see **Your privacy rights and who to contact** below.
+As is common among Internet site operators, KSF ACQUISITION CORPORATION websites maintain web server logs. Web servers automatically identify your computer by its IP address and collect that information in its web server logs. An IP address is a number that is automatically assigned to your computer by your Internet service provider (e.g., AOL, MSN, Yahoo) whenever you log onto the World Wide Web or "surf" the web. KSF ACQUISITION CORPORATION web server logs collect statistical data that is generated by your computer when it visits a KSF ACQUISITION CORPORATION website, such as the type of web browser (e.g., Netscape, Internet Explorer) and operating system (Windows 95 or Mac OS) used to access the site, the domain name of your Internet service provider, the date and time you access our site, and the pages you visit. KSF ACQUISITION CORPORATION websites use this non-personally identifying web server log information for a variety of purposes. Some of these purposes include: system administration; to examine overall traffic trends on our sites; trouble-shooting; and to gather broad demographic information about users of our sites. No personally identifiable information is contained in these web server logs.
 
-  
+As a convenience to our visitors, KSF ACQUISITION CORPORATION's sites currently contain links to a number of websites that we believe may offer useful information. The privacy policy and provisions described here do not apply to those sites. We suggest contacting those sites directly for information on their data collection and distribution policies.
 
+From time to time, KSF ACQUISITION CORPORATION may decide to modify its practices and policies, and we reserve the right to revise this KSF ACQUISITION CORPORATION Internet Privacy Statement as necessary to disclose such changes in our practices and policies. Any such changes to this KSF ACQUISITION CORPORATION Internet Privacy Statement will be promptly communicated on this page. Any information that you submit before the change in policy will be used by KSF ACQUISITION CORPORATION and/or the companies we hire in a manner that is consistent with the KSF ACQUISITION CORPORATION Internet Privacy Statement in effect at the time you submitted your information. Continued use of our sites after receiving notice of a change in our privacy statement shall indicate your consent to the use of newly-submitted information in accordance with the changed, amended, or updated KSF ACQUISITION CORPORATION Internet Privacy Statement.
 
-This Privacy Policy does not apply to the information practices of: 
-
-• third party companies (including, without limitation, their websites, platforms and/or applications) which we do not own or control; or   
-• individuals that Unilever does not manage or employ. 
-
-These Third Party Sites may have their own privacy policies and terms and conditions. We encourage you to read them before using those Third Party Sites. 
-
-## Your consent
-
-Unilever will not collect, use or disclose your personal information without your consent. In most cases, we will ask for your consent explicitly but, in some cases, we may infer consent from your actions and behaviour. By using a Unilever Site, you are consenting to the relevant Unilever Group company collecting, using and disclosing your personal information in accordance with this Privacy Policy. 
-
-We may ask you to provide additional consent if we need to use your personal information for purposes not covered by this Privacy Policy. You are not obliged to provide such consent but if you decide not to then your participation in certain activities may be restricted. If you provide additional consent, the terms of that consent shall prevail in the event of any conflict with the terms of this Privacy Policy. 
-
-If you do not agree to the collection, use and disclosure of your personal information in this way, please do not use the Unilever Sites or otherwise provide Unilever with personal information. 
-
-## Children
-
-[Remove Child's Info](http://www.unileverus.com/en_us/removechildinfo.aspx "Remove Child's Info")  [Update Child's Info](http://www.unileverus.com/en_us/updatechildinfo.aspx "Update Child's Info")
-
-The majority of Unilever Sites are designed and intended for use by adults. Where a Unilever Site is intended for use by a younger audience, we will obtain consent from a parent or guardian before we collect personal information where we feel it is appropriate to do so or where it is required by applicable data protection laws and regulations (the age at which consent is necessary varies from country to country). If you are a child over the age where parental consent is required in your country, you should review the terms of this Privacy Policy with your parent or guardian to make sure you understand and accept them. 
-
-If we discover that we have collected information without consent from a parent or guardian where such consent should have been obtained, we will delete that information as soon as possible. 
-
-Access to certain parts of the Unilever Sites and/or eligibility to receive prizes, samples or other rewards may be limited to users over a certain age. We may use your personal information to carry out age verification checks and enforce any such age restrictions.
-
-## What information do we collect?
-
-In this Privacy Policy, your "personal information" means information or pieces of information that could allow you to be identified. This typically includes information such as your name, address, screen name, profile picture, email address, and telephone number, but can also include other information such as IP address, shopping habits, preferences and information about your lifestyle or preferences such as your hobbies and interests. We may collect personal information about you from different sources, including:
-
-  * Information you give us directly
-
-We may collect information from you directly when you provide us with personal information, e.g. when you register for prize draws or competitions, sign up to receive information, use applications, buy a product or service from us, fill out a survey, or make a comment or enquiry. The types of information we may collect from you directly include your:
-
-    * •    name
-    * •    address
-    * •    email address
-    * •    user name
-    * •    telephone number
-    * •    credit card or other payment information
-    * •    age
-    * •    date of birth
-    * • gender
-    * • user-generated content, posts and other content you submit to Unilever Sites
-    * • any other person information you volunarily provide to us
-
-  * Information we collect automatically when you use the Unilever Sites
-
-We use cookies and other tools (such as web analytic tools and pixel tags) to automatically collect information about you when you use Unilever Sites, subject to the terms of this Privacy Policy and applicable data protection laws and regulations. The types of information we may collect automatically include (collectively, “Site Usage Information”):
-
-    * •    information about the type of browser you use
-    * •    details of the web pages you have viewed
-    * •    your IP address
-    * •    the hyperlinks you have clicked
-    * •    your user name, profile picture, gender, networks and any other information you choose to share when using Third Party Sites (such as when you use the “Like” functionality on Facebook or the +1 functionality on Google+)
-    * •    the websites you visited before arriving at a Unilever Site
-
-Most internet browsers are initially set up to accept cookies. You can change the settings to block cookies or to alert you when cookies are being sent to your device. If you use different browsers, or use multiple devices, any changes will need to be made for each browser. If you disable the cookies this may impact your experience on Unilever Sites[](http://www.unilevercookiepolicy.com/)
-
-[ ](http://www.unilevercookiepolicy.com/)[](http://www.unilevercookiepolicy.com/)[](http://www.unilevercookiepolicy.com/)
-[ ](http://www.unilevercookiepolicy.com/)
-  * [](http://www.unilevercookiepolicy.com/)[](http://www.unilevercookiepolicy.com/)
-[ ](http://www.unilevercookiepolicy.com/)
-  * [](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[](http://www.unilevercookiepolicy.com/)Information we collect from other sources
-
-We may receive personal information about you from other sources if you have given permission for that information to be shared. This may include information from commercially available sources, such as public databases and data aggregators, and information from third parties. The types of personal information that we may collect from such sources include your:
-
-    * •    name
-    * •    street address
-    * •    age
-    * •    your shopping habits
-    * •    preferences and information about your lifestyle such as your hobbies and interests
-    * •    publicly available information such as user-generated content, blogs and postings, as permitted by law
-
-  * Online advertising
-
-We may share Site Usage Information (as discussed above) with trusted third parties (e.g., advertisers, advertising agencies, advertising networks, data exchanges, etc.) in order to offer you tailored content, including more relevant advertising for products and services which may be of interest to you. These third parties may set and access their own cookies, clear gifs and similar tracking technologies on your device in order to help us deliver customized content and advertising to you when you visit Unilever Sites or third party sites.
-
-In the United States, we have adopted the use of the Advertising Options Icon which may appear on the Unilever Sites and certain targeted advertisements that we (or a service provider acting on our behalf) send to you based on your Site Usage Information. You may click on this icon to receive more information about the collection and use of your information or to opt-out of such collection in the future. Please note that even if you opt out, you may still receive advertisements from Unilever that are not customized based on your Site Usage Information.
-
-You may also use the [Network Advertising Initiative’s Opt-Out Tool](http://www.networkadvertising.org/choices/) and the [Digital Advertising Alliance’s Opt-Out Tool](http://www.aboutads.info/choices/) each of which provides a list of those third parties that may send you targeted advertising based on your internet browsing activities and for which you can opt-out of their use of your information for that purpose.
-
-
-
-
-## How do we use your personal information?
-
-We may use your personal information:
-
-  * •    to improve our products and your experience on the Unilever Sites. Find out more.
-
-We may use your personal information to:
-
-    * •    evaluate the use of the Unilever Sites, products and services
-    * •    analyse the effectiveness of our advertisements, competitions and promotions
-    * •    personalise your website experience, as well as to evaluate (anonymously and in the aggregate) statistics on website activity, such as what time you visited it, whether you’ve visited it before and what site referred you to it
-    * •    make the Unilever Sites easier to use and to better tailor the Unilever Sites and our products to your interests and needs
-    * •    help speed up your future activities and experience on the Unilever Sites. For example, a site can recognise that you have provided your personal information and will not request the same information a second time
-    * •    collect information about the device you are using to view the Unilever Site, such as your IP address or the type of Internet browser or operating system you are using, and link this to your personal information so as to ensure that the Unilever Sites present the best web experience for you
-
-  * •    to contact you regarding products and services which may be of interest to you, provided you have given us consent to do so or you have previously requested a product or service from us and the communication is relevant or related to that prior request and made within any timeframes established by applicable laws. Find out more.
-
-We use your personal information to:
-
-    * •    suggest products or services (including those of relevant third parties) which we think may be of interest to you
-    * •    offer you the opportunity to take part in competitions or promotions
-    * You can opt out of receiving communications from us at any time. Any direct marketing communications that we send to you will provide you with the information and means necessary to opt out.   
-
-
-  * •    to provide you with products or services that you request from us. Find out more.
-
-We may use your personal information:
-
-    * •    for the purposes of competitions or promotions that you have entered
-    * •    to send you information, products or samples that you have requested
-    * •    to respond to your queries or comments
-
-  * Where we collect personal information for a specific purpose, we will not keep it for longer than is necessary to fulfil that purpose, unless we have to keep it for legitimate business or legal reasons. In order to protect information from accidental or malicious destruction, when we delete information from our services we may not immediately delete residual copies from our servers or remove information from our backup systems.   
-
-
-
-
-
-## Mobile Message Services
-
-We may make available a service through which you can receive text or other types of messages from Unilever (such as short message service, or SMS, enhanced message service, or EMS, and multimedia message service, or MMS) on your wireless or mobile device (“Mobile Message Service”). If you subscribe to one of our Mobile Message Services, you agree to receive such messages from Unilever at the address or mobile number you provide for that purpose (unless and until you have elected to opt out of receiving such messages by following the instructions in the **Your privacy rights and who to contact** section below). 
-
-You understand that your wireless carrier’s standard rates apply to these messages, and that you may change your mind at any time by following the instructions in the **Your privacy rights and who to contact** section below. If fees are charged to your wireless account invoice, you agree that we may collect from you and provide your carrier with your applicable payment information in connection therewith. You represent that you are the owner or authorized user of the wireless device you use to sign up for the Mobile Message Service, and that you are authorized to approve the applicable charges. In addition to meeting certain age restrictions and any other terms and conditions associated with each Mobile Message Service, you may be required to register personal information such as your name, text message, wireless address or mobile phone number. We may also obtain the date, time and content of your messages in the course of your use of the Mobile Message Service. We will use the information we obtain in connection with our Mobile Message Service in accordance with this Privacy Policy. Please note, however, that your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies. 
-
-You acknowledge and agree that the Mobile Message Service is provided via wireless systems which use radios (and other means) to transmit communications over complex networks. We do not guarantee that your use of the Mobile Message Service will be private or secure, and we are not liable to you for any lack of privacy or security you may experience. You are fully responsible for taking precautions and providing security measures best suited for your situation and intended use of the Mobile Message Service. We may also access the content of your wireless and/or mobile phone account with your carrier for the purpose of identifying and resolving technical problems and/or service-related complaints.
-
-## Who do we share your personal information with?
-
-As a general rule, we do not share your personal information with anyone outside of the Unilever Group. However, we may share your personal information with trusted third parties. Find out more.
-
-We may share your personal information with:
-
-  * •    our advertising, marketing and promotional agencies to help us deliver and analyse the effectiveness of our advertising campaigns and promotions
-  * •    third parties required to deliver a product or service to you, such as a delivery or postal service delivering a product that you have ordered
-  * •    law enforcement or government authorities where they have followed due legal process to request us to disclose the information
-  * •    third parties who wish to send you information about their products and services, but only if you have given us consent to do so
-  * •    third party providers of services, such as data processing, to Unilever
-  * •    web analytics tool providers, such as Google or Unica
-
-
-
-We may also share your personal information with companies, organisations or individuals outside of the Unilever Group if we believe that disclosure of the information is necessary for legal reasons. Find out more.
-
-We may share your personal information to:
-
-  * •    enforce applicable terms of use of Unilever Sites
-  * •    conduct investigations into possible breaches of applicable laws
-  * •    detect, prevent and protect against fraud and any technical or security vulnerabilities
-  * •    comply with applicable laws and regulations, co-operate in any legal investigation and meet enforceable governmental requests
-
-
-
-If we do share your personal information with a third party, we shall use our best efforts to ensure that they keep your information secure, take all reasonable steps to protect it from misuse and only use it in a manner consistent with this Privacy Policy and applicable data protection laws and regulations. 
-
-Unilever does not sell personal information, except to an entity to which we divest all or a portion of our business (for example, in connection with our sale of a brand), or otherwise in connection with a merger, consolidation, change in control, reorganization or liquidation of all or a portion of our business.
-
-## Transferring your personal information
-
-We may transfer your personal information to servers located outside the country in which you live or to affiliates or other trusted third parties based in other countries so that they may process personal information on our behalf. By using a Unilever Site or otherwise providing Unilever with personal information, you agree to us doing so in accordance with the terms of this Privacy Policy and applicable data protection laws and regulations. 
-
-You should be aware that many countries do not afford the same legal protection to personal information as you might enjoy in your country of origin. While your personal information is in another country, it may be accessed by the courts, law enforcement and national security authorities in that country in accordance with its laws. Subject to such lawful access requests, we promise that anyone processing your personal information outside your country of origin is required to implement measures to protect it and is only entitled to process it in accordance with Unilever’s instructions.
-
-## Safeguarding your personal information
-
-We take all reasonable precautions to keep your personal information secure and require any third parties that handle or process your personal information for us to do the same. Access to your personal information is restricted to prevent unauthorised access, modification or misuse and is only permitted among our employees and agents on a need-to-know basis.
-
-## Your privacy rights and who to contact
-
-Hide
-
-If you have any questions, comments or concerns about how we handle your personal information, then you may contact us by clicking the **Contact Us** link on the Unilever Site that directed you to this Privacy Policy. Alternatively,please go to [www.unilever.com](http://www.unilever.com/), select the appropriate country and click on the **Contact Us** link. Your request will be directed to the appropriate Unilever group company.
-
-You have the right to tell us if you:
-
-  
-
-
-  * •    don't want to be contacted in the future by us
-  * •    would like a copy of the personal information which we hold about you
-  * •    would like us to correct, update or delete your personal information in our records
-  * •    wish to report any misuse of your personal information
-
-
-
-To assist us in dealing with your request, please provide your full name and details.
-
-## Changes to our Privacy Policy
-
-We may change this Privacy Policy from time to time by posting the updated version of the Privacy Policy on the Unilever Sites. We will give you reasonable notice of any material change. We encourage you to visit frequently to stay informed about how we use your personal information.
-
-## Other Unilever privacy policies
-
-In addition to this Privacy Policy, there may be specific campaigns or promotions which will be governed by additional privacy terms or policies. We encourage you to read these additional terms or policies before participating in any such campaigns or promotions as you will be required to comply with them if you participate. Any additional privacy terms or policies will be made prominently available to you.
+This site is intended for US residents only. © 2016
