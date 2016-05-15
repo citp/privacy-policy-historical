@@ -1,55 +1,76 @@
-> *The following text is extracted and transformed from the financialexpress.net privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812214917id_/http%3A//www.financialexpress.net/uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialexpress.net privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515112506id_/http%3A//www.financialexpress.net/privacy-cookies) for the most accurate reproduction.*
 
-# FE Privacy Policy | FE Be Better Informed
+# Privacy and Cookies
 
-##  Privacy Statement
+Financial Express (Holdings) Limited ("we", "our", "us" and derivatives) are committed to protecting and respecting your privacy. This Privacy Policy, together with our Terms of Use, sets out the basis on which any personal data that we collect from you, or that you provide to us, will be processed by us relating to your use of any of the below websites ("sites").
 
-This Privacy Statement relates solely to the online information collection and use practices of our Web site located at www.financialexpress.net (this "Web Site"), and not to any subdomains of this Web Site. We recognize that many visitors and users of this Web Site are concerned about the information they provide to us, and how we treat that information. This Privacy Statement, which may be updated from time to time, has been developed to address those concerns. 
+  * FEAnalytics.com
+  * FEInvest.net
+  * FETransmission.com
+  * Investegate.co.uk
+  * Trustnet.hk
+  * Trustnetoffshore.com
+  * Trustnetmiddleeast.com
 
-Your use of this Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Statement. If you have any questions or concerns regarding this Privacy Statement, please contact: [ info@financialexpress.net](mailto:info@financialexpress.net)
 
-**WHAT INFORMATION ABOUT YOU DO WE COLLECT?**
 
-When you visit our Web Site, you may provide us with two types of information: (1) personally identifiable information that you knowingly choose to disclose, which is collected on an individual basis, and (2) general user information that does not contain personally identifiable information, which is collected on an aggregate basis as you browse the Web Site. In some cases, if you choose not to provide us with requested information, you may not be able to access all of our Web Site's content or services. 
+For the purposes of the Data Protection Act 1998, the data controller is Trustnet Limited of 3rd Floor, Hollywood House, Church Street East, Woking, GU21 6HJ. Our nominated representative for the purpose of this Act is Kirsty Witter.
 
-**PERSONALLY IDENTIFIABLE INFORMATION YOU CHOOSE TO PROVIDE.**
+We collect information about you when you register with us or use any of our websites / services. Part of the registration process may include entering personal details & details of your investments.
 
-We may ask for certain personal information from you for the purpose of providing to you content and/or services that you request. For example, if you indicate an interest in receiving literature about FE you are asked to submit your name, company name, telephone and email address, which we retain on file, so that we may send you the information that you requested. If you indicate on our Media Centre Subscription Form that you are a member of the press, we may also send you information regarding our business. We may retain a record of users who have contacted us in order to respond properly to questions or concerns and for purposes of future communications.
+We may collect information about your computer, including where available your operating system, browser version, domain name and IP address and details of the website that you came from, in order to improve this site.
 
-**NON-PERSONALLY IDENTIFIABLE INFORMATION WE COLLECT.**
+You confirm that all information you supply is accurate.
 
-Cookies/ Web server logs: Similar to other commercial Web sites, our Web Site utilises standard technology called "cookies" and Web server logs to collect information about how our Web Site is used. Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site. Cookies are small pieces of data that are stored by a user's Web browser on the user's hard drive. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web Site, and the Web sites visited just before and just after our Web Site. This information is collected on an aggregate basis. None of this information is associated with you as an individual.
+## Cookies
 
-You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our Web Site will not operate correctly if you disable cookies. You should consult with your browser's provider/manufacturer if you have any questions regarding disabling cookies. 
+In order to provide personalised services to and analyse site traffic, we may use a cookie file which is stored on your browser or the hard drive of your computer. Some of the cookies we use are essential for the sites to operate and may be used to deliver you different content, depending on the type of investor you are.
 
-**HOW DO WE USE THE INFORMATION WE COLLECT?**
+You can block cookies by activating the setting on your browser which allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or part of our sites. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon as you visit our sites.
 
-We use your personally identifiable information to provide you with the information or content that you have requested, and, in some cases, to contact you about our programs, products, features or services. If you no longer wish to receive press releases or any other type of information from us, you may send us an email to info@financialexpress.net. 
+## How we use information
 
-We use non-identifying information collected on our Web Site in the aggregate to better understand your use of the Web Site and to enhance your enjoyment and experience. For example, we may use the information to improve the design and content of our Web Site or to analyze the programs and services that we offer. 
+We store and use information you provide as follows:
 
-We may employ other companies and individuals to perform functions on our behalf. Our employees, agents and contractors who have access to personally identifiable information are required to protect the information in a manner that is consistent with this Privacy Statement. 
+  * to present content effectively;
+  * to provide you with information, products or services that you request from us or which may interest you, tailored to your specific interests, where you have consented to be contacted for such purposes;
+  * to carry out our obligations arising from any contracts between you and us;
+  * to enable you to participate in interactive features of our service, when you choose to do so;
+  * to notify you about changes to our service;
+  * to improve our content by tracking group information that describes the habits, usage, patterns and demographics of our customers.
 
-We may provide access to your personally identifiable information when legally required to do so, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of our Web Site, to limit our legal liability and protect our rights, or to protect the rights and safety of visitors to this Web Site or the public. In those instances, the information is provided only for that limited purpose. 
 
-We will not share your personally identifiable information in ways unrelated to those described above without providing you with an opportunity to opt out of such use or otherwise prohibit such unrelated uses. 
 
-**HOW DO YOU ACCESS AND/OR MODIFY YOUR INFORMATION OR CHOICES?**
+We may also send you emails to provide information and keep you up to date with developments on our sites. It is our policy to have instructions on how to unsubscribe so that you will not receive any future e-mails. You can change your e-mail address at any time.
 
-If you visit our Web Site and volunteer personally identifiable information, you may modify, update or delete such information at any time by writing to info@financialexpress.net. You should be aware, however, that it is not always possible to completely remove or modify information in our databases. In addition, please be aware that your ability to opt out from receiving marketing and promotional materials does not change our right to contact you regarding your use of our Web Site.
+In order to provide support on the usage of our tools, our support team need access to all information provided in relation to the tool.
 
-**PRIVACY PROTECTIONS FOR CHILDREN USING THE INTERNET**
+We will not disclose your name, email address or postal address or any data that could identify you to any third party without first receiving your permission.
 
-Protecting children's privacy is important to us. For that reason, we do not collect or maintain information on our Web Site from those we actually know are under the age of 13, nor is any part of our Web Site targeted to attract anyone under 13. We request that all visitors to our Web Site who are under 13 not disclose or provide any personally identifiable information. If we discover that a child under 13 has provided us with personally identifiable information, we will delete that child's personally identifiable information from our records.
+However, you agree that we may disclose to any regulatory authority to which we are subject and to any investment exchange on which we may deal or to its related clearing house (or to investigators, inspectors or agents appointed by them), or to any person empowered to require such information by or under any legal enactment, any information they may request or require relating to you, or if relevant, any of your clients.
 
-**DATA SECURITY**
+You agree that we may pass on information obtained under Money Laundering legislation as we consider necessary to comply with reporting requirements under such legislation.
 
-We take reasonable steps to maintain the security of the personally identifiable information that we collect, including limiting the number of people who have physical access to our database servers, as well as installing electronic security systems that guard against unauthorized access. However, no data transmission over the Internet can be guaranteed to be completely secure. Accordingly, we cannot ensure or warrant the security of any information that you transmit to us, so you do so at your own risk.
+### Access to your information and correction
 
-**CONSENT TO TRANSFER**
+We want to ensure that the personal information we hold about you is accurate and up to date. You may ask us to correct or remove information that is inaccurate.
 
-This Web Site is operated in the United Kingdom. If you are located outside of the United Kingdom, please be aware that any information you provide to us will be transferred to the United Kingdom. By using our Web Site, participating in any of our services and/or providing us with your information, you consent to this transfer.
+You have the right under data protection legislation to access information held about you. If you wish to receive a copy of any personal information we hold, please write to us at 3rd Floor, Hollywood House, Church Street East, Woking, GU21 6HJ. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
-**LINKS**
+### Where we store your personal data
 
-This Web Site contains links to third party sites as well as to other sites owned and/or operated by FE Holdings Limited. Please be aware that FE Holdings Limited is not responsible for the privacy practices of any third party sites. Please also be aware that the privacy policies of other FE sites may differ significantly from the privacy policy of this Web Site. Therefore, we encourage our users to read the privacy statement of each and every Web site that collects personally identifiable information. This Privacy Statement applies solely to information collected by this Web Site.
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, amongst other things, the provision of support services. By submitting your personal data, you agree to this transfer, storing and processing. We will take all steps reasonably necessary, including the use of encryption, to ensure that your data is treated securely and in accordance with this privacy policy.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our sites; any transmission is at your own risk. You will not hold us responsible for any breach of security unless we have been negligent or in wilful default.
+
+## Changes to our privacy policy
+
+Any changes we make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+
+## Other websites
+
+Our sites contain links to other websites. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+
+## Contact
+
+If you want more information or have any questions or comments relating to our privacy policy please email [publishing@financialexpress.net](mailto:publishing@financialexpress.net) in the first instance.
