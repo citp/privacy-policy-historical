@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brigadegroup.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114125245id_/http%3A//www.brigadegroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brigadegroup.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515175615id_/http%3A//www.brigadegroup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Brigade Group - Brigade Group
 
