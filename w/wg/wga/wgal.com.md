@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wgal.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007183132id_/http%3A//www.wgal.com/connect/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wgal.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515081022id_/http%3A//www.wgal.com/connect/privacy) for the most accurate reproduction.*
 
 # WGAL News 8s privacy terms
 
