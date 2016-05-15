@@ -1,61 +1,41 @@
-> *The following text is extracted and transformed from the vbtutor.net privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128183337id_/http%3A//www.vbtutor.net/index.php/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vbtutor.net privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515084854id_/http%3A//www.vbtutor.net/index.php/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Visual Basic Tutorial
+# Privacy Policy - Visual Basic Tutorial
 
-Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and make use of personal information. The following outlines our Privacy Policy. 
+## Privacy Policy:
 
-When accessing our Website, will learn certain information about you during your visit.
+VBTUTOR.NET (" **VBTUTOR** ") operates vbtutor.net and may operate other websites. It is Vb Tutorial Center policy to respect your privacy regarding any information we may collect while operating our websites.
 
-Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site, your IP address.
+### Website Visitors
 
-  
-**What Are Cookies?**
+Like most website operators, VBTUTOR collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Vb Tutorial Center purpose in collecting non-personally identifying information is to better understand how Vb Tutorial Center visitors use its website. From time to time, VBTUTOR may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
+VBTUTOR also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on vbtutor.net blogs/sites. VBTUTOR only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
 
-  
-**IP Addresses**
+### Gathering of Personally-Identifying Information
 
-IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as “traffic data” so that data (such as the Web pages you request) can be sent to you.
+Certain visitors to Vb Tutorial Center websites choose to interact with VBTUTOR in ways that require VBTUTOR to gather personally-identifying information. The amount and type of information that VBTUTOR gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [vbtutor.net](http://www.vbtutor.net/wordpress) to provide a username and email address. Those who engage in transactions with VBTUTOR are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, VBTUTOR collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with VBTUTOR. VBTUTOR does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-  
-**Email Information**
+### Aggregated Statistics
 
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received online, mail and telephone.
+VBTUTOR may collect statistics about the behavior of visitors to its websites. VBTUTOR may display this information publicly or provide it to others. However, VBTUTOR does not disclose personally-identifying information other than as described below.
 
-  
-**How Do We Use the Information That You Provide to Us?**
+### Protection of Certain Personally-Identifying Information
 
-Broadly speaking, we use personal information for purposes of administering our business activities, providing customer service and making available other items and services to our customers and prospective customers.
+VBTUTOR discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Vb Tutorial Center behalf or to provide services available at Vb Tutorial Center websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Vb Tutorial Center websites, you consent to the transfer of such information to them. VBTUTOR will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, VBTUTOR discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when VBTUTOR believes in good faith that disclosure is reasonably necessary to protect the property or rights of VBTUTOR, third parties or the public at large. If you are a registered user of an VBTUTOR website and have supplied your email address, VBTUTOR may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with VBTUTOR and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. VBTUTOR takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
+### Cookies
 
-We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. VBTUTOR uses cookies to help VBTUTOR identify and track visitors, their usage of VBTUTOR website, and their website access preferences. VBTUTOR visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Vb Tutorial Center websites, with the drawback that certain features of Vb Tutorial Center websites may not function properly without the aid of cookies.
 
-**  
-A Special Note About Children**
+### Business Transfers
 
-Children are not eligible to use our web site and services and we ask that minors (under the age of 13) do not submit any personal information to us. If you are a minor, you can use this site only in conjunction with permission and guidance from your parents or guardians.
+If VBTUTOR, or substantially all of its assets, were acquired, or in the unlikely event that VBTUTOR goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of VBTUTOR may continue to use your personal information as set forth in this policy.
 
-  
-**How Do We Protect Your Information and Secure Information Transmissions?**
+### Ads
 
-Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. However, doing so is allowed, but at your own risk. Some of the information you may enter on our Web site may be transmitted securely via a secure medium known as Secure Sockets Layer, or SSL. Credit Card information is never transmitted via email.
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by VBTUTOR and does not cover the use of cookies by any advertisers.
 
-may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
+### Privacy Policy Changes
 
-For site security purposes and to ensure that this service remains available to all users, uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
-
-  
-**Policy Changes**
-
-We reserve the right to amend this privacy policy at any time with or without notice. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
-
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
-
-**  
-Contact**
-
-If you have any questions regarding this Policy, or your dealings with our web site, please contact us.
-
-admin@vbtutor.net
+Although most changes are likely to be minor, VBTUTOR may change its Privacy Policy from time to time, and in Vb Tutorial Center sole discretion. VBTUTOR encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a vbtutor.net account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
