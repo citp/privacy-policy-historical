@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hr.am privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204151153id_/http%3A//hr.am/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hr.am privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515190226id_/http%3A//www.hr.am/privacy) for the most accurate reproduction.*
 
 # HR.am - Privacy Policy
 
