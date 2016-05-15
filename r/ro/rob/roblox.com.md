@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roblox.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226070125id_/http%3A//www.roblox.com/Info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roblox.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515080837id_/http%3A//www.roblox.com/Info/Privacy.aspx) for the most accurate reproduction.*
 
 # ROBLOX Privacy Policy
 
@@ -13,10 +13,10 @@ This privacy policy covers the site [www.roblox.com](http://www.roblox.com/) and
 
 ROBLOX works like this: 
 
-  * a user creates a username and a virtual character that is his or her identity in the ROBLOX world 
+  * a user creates a username and a virtual avatar that is his or her identity in the ROBLOX world 
   * users interact with other users through in-game chat, personal messaging (site contained), and user forums; privacy settings allow users or parents to restrict communications with other users 
   * each user is given one or more pieces of virtual real estate on which they can build houses, cars, machines, or anything else you can build with building blocks; these places are called "games" 
-  * users search for, find, and play games made by other users; they play these games with other users from around the world, and are identified only by their virtual character name 
+  * users search for, find, and play games made by other users; they play these games with other users from around the world, and are identified only by their virtual avatar name 
   * users earn tickets and/or ROBUX, our virtual currency; users earn these in a variety of ways, and use them to buy items for their characters, including virtual hats, shirts, and pants; users can also sell these items, earning tickets and/or ROBUX 
   * users can purchase premium services, including: Builder’s Club, a monthly subscription that grants the user more virtual places and a daily allowance, among other things; user may also purchase ROBUX with which they may buy virtual goods on the site 
   * users may sign up to receive our monthly newsletter; they may opt-out at any time by following the unsubscribe link located at the bottom of each communication. 
