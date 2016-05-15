@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the solidangle.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114092900id_/https%3A//www.solidangle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solidangle.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515175520id_/https%3A//www.solidangle.com/privacy-policy) for the most accurate reproduction.*
 
 # Solid Angle | Privacy Policy
 
-This cookie and privacy policy covers Solid Angle Ltd and its website. We are committed to protecting your privacy, and at the same time we endeavour to use any data we collect from you to provide the best possible service.
+This cookie and privacy policy covers Solid Angle S.L. and its website. We are committed to protecting your privacy, and at the same time we endeavour to use any data we collect from you to provide the best possible service.
 
 ## Providing visitors with anonymous access
 
