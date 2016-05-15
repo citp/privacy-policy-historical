@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the auto.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810043600id_/http%3A//auto.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auto.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515085213id_/http%3A//www.auto.com/info/privacy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement | Auto.com
 
 #### Privacy Statement
 
