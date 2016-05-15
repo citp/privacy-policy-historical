@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infinitelabs.com privacy policy that was archived on 2015-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151001164431id_/https%3A//www.infinitelabs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infinitelabs.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515203505id_/https%3A//www.infinitelabs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Infinite Labs
 
