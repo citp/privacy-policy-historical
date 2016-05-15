@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mea.gov.in privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929223744id_/http%3A//mea.gov.in/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mea.gov.in privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515091527id_/http%3A//www.mea.gov.in/privacy-policy.htm) for the most accurate reproduction.*
 
 # MEA | Privacy Policy
 
