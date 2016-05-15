@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accuwebhost.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911221256id_/https%3A//www.accuwebhosting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accuwebhost.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515090715id_/https%3A//www.accuwebhosting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Windows VPS Hosting - AccuWeb Hosting
 
@@ -88,6 +88,10 @@ The contact information that you provide to us to register your domain name is a
   * __
 
 We do offer, through a third party, WHOIS privacy. WHOIS privacy services use a proxy identity in lieu of yours. However, this proxy does not mean that your information is private. Only that it will not be displayed pursuant to a WHOIS query.
+
+  * __
+
+You can hide your domain contact information by purchasing Whois privacy for your domain. It is an add-on service and cannot be activated automatically with domain registration / renewal.
 
   * __
 
