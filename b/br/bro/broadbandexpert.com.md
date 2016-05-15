@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the broadbandexpert.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914195201id_/http%3A//www.broadbandexpert.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadbandexpert.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515174945id_/http%3A//www.broadbandexpert.com/privacy-policy) for the most accurate reproduction.*
 
-# The Broadband Expert Privacy Policy | Broadband Expert
+# The Broadband Expert Privacy Policy
 
 ## BROADBAND EXPERT PRIVACY POLICY
 
-RichWeb Media LLC (“RWM”, “we” or “us”) operates the web site located at www.broadbandexpert.com. (the “Site”). This serves as RWM's Privacy Policy for the Site.
+RichWeb Media LLC (“RWM”, “we” or “us”) operates the web site located at www.broadbandexpert.com. (the “Site”). This serves as RWM’s Privacy Policy for the Site.
 
 RWM makes the Site available to those individuals (“Users”) who access the Site for availability and price comparisons of internet providers, satellite, cable and mobile broadband providers (“Broadband Services”). Users communicate with us through the Site, respond to surveys about the usefulness and value of the Site and its contents, choose the right service for their needs, and receive other information about products and services, subject to this Privacy Policy (the “Policy”). This Policy explains what information RWM collects about its Users, how RWM uses and/or shares this information, and how such information is maintained. By visiting the Site, you accept the terms of this Policy.
 
@@ -12,7 +12,7 @@ Note that this Policy applies only with respect to the information collected by 
 
 **Collection of Personally Identifiable Information**
 
-RWM collects Users' personally-identifiable information (“PII”) that is volunteered by Users at the Site who conduct surveys or inquire about the products or services offered on the Site. Examples of PII that may be requested and/or collected include: first and last name, address, zip code, email address, telephone number, facsimile number, company or business identity and Broadband Services that interests the User or for which the User has subscribed. From time to time, RWM may also present opportunities for Users to voluntarily provide additional information about themselves.
+RWM collects Users’ personally-identifiable information (“PII”) that is volunteered by Users at the Site who conduct surveys or inquire about the products or services offered on the Site. Examples of PII that may be requested and/or collected include: first and last name, address, zip code, email address, telephone number, facsimile number, company or business identity and Broadband Services that interests the User or for which the User has subscribed. From time to time, RWM may also present opportunities for Users to voluntarily provide additional information about themselves.
 
 **Use and Sharing of PII**
 
@@ -38,11 +38,11 @@ EMAIL: info@broadbandexpert.com
 
 RWM also collects certain non-personally identifiable information, including the non-personally identifiable information more fully described below.
 
-_Cookies_. RWM may use “cookies” on the Site. Cookies are small pieces of information that RWM's server places on an individual's computer hard drive to enable the individual to more easily communicate and interact with the Site. For example, RWM may place a cookie on a User's computer when he/she initially registers at the Site. The next time that User visits the Site, RWM's server will recognize the cookie (and the User) and allow the User to perform certain actions immediately without signing in.
+_Cookies_. RWM may use “cookies” on the Site. Cookies are small pieces of information that RWM’s server places on an individual’s computer hard drive to enable the individual to more easily communicate and interact with the Site. For example, RWM may place a cookie on a User’s computer when he/she initially registers at the Site. The next time that User visits the Site, RWM’s server will recognize the cookie (and the User) and allow the User to perform certain actions immediately without signing in.
 
-While some Web browsers allow a User to automatically reject all cookies or be notified when a cookie is about to be placed on the User's computer, disabling this feature may compromise the efficiency and added services that cookies provide.
+While some Web browsers allow a User to automatically reject all cookies or be notified when a cookie is about to be placed on the User’s computer, disabling this feature may compromise the efficiency and added services that cookies provide.
 
-_IP Address_. RWM collects your IP (Internet Protocol) address to help diagnose problems with its server, and to administer the Site and RWM's email messages to Site Users. An IP address is a number that is assigned to your computer when you use the Internet. Your IP address is also used to help identify you during a particular session and to gather broad demographic data.
+_IP Address_. RWM collects your IP (Internet Protocol) address to help diagnose problems with its server, and to administer the Site and RWM’s email messages to Site Users. An IP address is a number that is assigned to your computer when you use the Internet. Your IP address is also used to help identify you during a particular session and to gather broad demographic data.
 
 Although the information collected through the foregoing methods does not itself contain any PII, RWM may analyze and match such information with other information that you provide (including PII) as well as information that RWM may obtain elsewhere, and RWM may share all or some of such information with actual or prospective distributors, dealers, or other third parties.
 
@@ -58,7 +58,7 @@ RWM email communications with you may provide links to the websites of other thi
 
 **Note Concerning Individuals 18 Years of Age And Younger**
 
-The Site, RWM emails and the content available in connection therewith, are neither intended for, nor directed to, children under the age of 18. You must be at least 18 years old to have our permission to use our Site and to provide your PII to RWM. If RWM learns that a person who is a User is under the age of 18, RWM will promptly delete the individual's PII from RWM's records. RWM will NOT knowingly distribute such information to third parties.
+The Site, RWM emails and the content available in connection therewith, are neither intended for, nor directed to, children under the age of 18. You must be at least 18 years old to have our permission to use our Site and to provide your PII to RWM. If RWM learns that a person who is a User is under the age of 18, RWM will promptly delete the individual’s PII from RWM’s records. RWM will NOT knowingly distribute such information to third parties.
 
 **Security**
 
