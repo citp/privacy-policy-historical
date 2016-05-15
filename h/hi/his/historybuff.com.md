@@ -1,135 +1,112 @@
-> *The following text is extracted and transformed from the historybuff.com privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415035439id_/http%3A//historybuff.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historybuff.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515025802id_/http%3A//historybuff.com/privacy) for the most accurate reproduction.*
 
-# historybuff.com | Privacy Policy
+# HistoryBuff | The Future of History
 
-**What information do we collect?**
+**HISTORYBUFF.COM CORPORATION PRIVACY POLICY**
 
-We collect information from you when you register on our site or subscribe to our newsletter. 
+Last Modified on October 15, 2015
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+**_Our Privacy Commitment_**
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+HistoryBuff.com Corporation. (“ ** _HistoryBuff_** ,” “ ** _we_** ,” “ ** _us_** ” or “ ** _our_** ”) is committed to respecting the privacy rights and concerns of all users of HistoryBuff’s website where this Privacy Policy is posted (the “ ** _Site_** ”) (we refer to the Site and the services made available by HistoryBuff, collectively, as the “ ** _HistoryBuff Features_** ”). As such, we have established and implemented this Privacy Policy to inform visitors to the Site and users of the HistoryBuff Features how we use and protect the information we collect through the Site and/or the HistoryBuff Features. By accessing the Site or using any of the HistoryBuff Features, you consent to HistoryBuff’s collection, use, storage, deletion and disclosure of information relating to you as set forth in this Privacy Policy. This Privacy Policy is effective as of the date set forth above and is only applicable to the Site and the HistoryBuff Features and not to any other website or mobile application that you may be able to access from the Site or the HistoryBuff Features which may have its own data collection and use practices and policies.
 
- **DoubleClick DART Cookie**
+This policy answers the following questions:
 
-.:: Google, as a third party vendor, uses cookies to serve ads on historybuff.com.  
-.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to historybuff.com and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://google.com/privacy_ads.html 
-
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
-Google Adsense   
-Commission Junction   
-Widget Bucks   
-Adbrite   
-Clickbank   
-Epic / Azoogle   
-Chitika   
-Linkshare   
-Amazon   
-Kontera   
-Advertising.com   
-CPAStorm   
-Burst   
-Valueclick   
-InfoLinks   
-Vibrant Media   
-24/7 Real Media   
-Tribal Fusion   
-Casale   
-Tremor Media   
-Adify   
+  * What information do we collect about you and how do we use it?
+  * Will we share your personal information with third parties?
+  * What choices do you have about the collection and use of your personal information?
+  * What security measures do we take to safeguard your personal information?
 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on historybuff.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
+**_What information do we collect about you and how do we use it?_**
 
-historybuff.com has no access to or control over these cookies that are used by third-party advertisers. 
+**Types of Information We Collect**
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. historybuff.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+Personal information means information that can be used to identify and contact you. You do not need to submit personal information to access the HistoryBuff Features generally. However, you may be required to submit personal information to access certain aspects of the Site and the HistoryBuff Features. We may collect non-personal information such as your browser type, when you accessed the Site and from what physical location you accessed the Site (including your Internet Protocol (IP) address).  However, to the extent that your IP addresses or similar identifiers are considered personal information by local law, we also treat these identifiers as personal information.  This non-personal information may be aggregated to measure the number of visits, average time spent, page views, and other statistics about users of the Site. We also may use this data to monitor the Site’s performance and to make the Site easier and more convenient to use.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp
+We collect personal information when you subscribe to our newsletter; participate in feedback forms or surveys; post comments on the Site; or receive customer or technical support.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+If you wish receive communications about new products, services, features, or enhancements to the HistoryBuff Features that may be of interest to you, we require you to provide your email address. To post comments on the Site, we require you to provide certain information, including your name, screen name and email address. Providing additional information beyond what is required, such as your photo or website URL, is entirely optional, but enables you to gain more from the HistoryBuff Features. By submitting personal information through the Site, you authorize HistoryBuff to share this personal information for the purposes identified herein and on the Site, such as responding to user inquiries processing transactions, distributing materials, and requesting feedback.
 
-**What do we use your information for?**
+**Third Party Privacy Policies**
 
-Any of the information we collect from you may be used in one of the following ways: 
+Through the HistoryBuff Features, you may be able to link to technology, software and services owned and controlled by third parties (“ ** _Third Party Features_** ”). You may be permitted or required to submit personal information to access Third Party Features. Such use of Third Party Features and submission of information through Third Party Features will be subject to such applicable third party’s Terms of Use/Service and Privacy Policy. You agree to look solely to the applicable third party and not to HistoryBuff to enforce your rights in relation thereto. When you have clicked on a third party logo or URL displayed on the Site or accessible through the HistoryBuff Features, which links you to any Third Party Features, our Terms of Use no longer applies and you must read the Terms of Use/Service and Privacy Policy of the third party to see how your personal information will be handled on their website.
 
-\- To personalize your experience  
-(your information helps us to better respond to your individual needs)
+**How We Use Your Personal Information**
 
-\- To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+The personal information you provide to us will allow us to communicate with you and provide the HistoryBuff Features to you, depending on the HistoryBuff Features for which you register. This includes alerting you of new services, features, or enhancements to the HistoryBuff Features; verifying your identity; handling your customer service questions or issues; requesting feedback; distributing newsletters; and notifying you of promotions, updates, or special offers that we think may interest you. We may also use your email address as part of the HistoryBuff Features in sending you messages about the HistoryBuff Features and other general announcements. We keep track of your interactions with us, including but not limited to your activity within the HistoryBuff Features. Except as set forth in this Privacy Policy, or unless we have your consent, we will not share your personal information with any person or entity other than those affiliated with the Company, entities acting on behalf of the Company, and relevant third parties such as those needed to collect and maintain our information collection servers and perform technology and related services.
 
-\- To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+We may use your personal information with non-personal information that we have collected in a manner such that the end-product does not personally identify you or any other user of the HistoryBuff Features. We may make your personal information non-personally identifiable by either combining it with information about other users (aggregating your personal information with information about other users), or by removing characteristics (such as your name or email address) that make the information personally identifiable. This process is known as de-personalizing your information. You grant us a royalty-free, worldwide, perpetual, irrevocable and fully transferable right and license to use your personal information in connection with the creation and development of analytical and statistical analysis tools relating to the use of the customer data we collect in providing the HistoryBuff Features (the “ ** _Analytical Data_** ”). We are expressly authorized to make any commercial use of the Analytical Data, including without limitation, sharing the Analytical Data with third parties, provided that we do not sell, trade, or otherwise transfer from us any part of the Analytical Data that personally identifies any HistoryBuff Features users.
 
-\- To process transactions
+**Do Not Track**
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+In compliance with California legislation, AB370, effective January 1, 2014, HistoryBuff’s practices in responding to “do not track” signals and collecting user information over time and across a network of websites when you visit the Site are as follows: We do not honor the request of “do not track” signals sent by your browser when you visit the Site. Additionally, HistoryBuff may collect user information about your online activities over time and across different websites, or authorize third parties to do so.
 
-\- To administer a contest, promotion, survey or other site feature
+**Google Analytics and Google Demographics and Interests Reports**
 
-\- To share with our third party marketing partners so they may send you offers for goods and services which you may find of interest
+The Site uses Google Analytics and Google Demographics and Interests Reports to help us learn about who visits the Site and what pages are being viewed.
 
-\- To send periodic emails
+**Cookies**
 
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, advertisements etc. The email address you provide to subscribe to a newsletter, receive information or enter to win a prize may be used to send you information and updates, relevant content and advertisements.
+“Cookies” are small bits of electronic information that a website sends to a visitor’s browser and are stored on the visitor’s hard drive. Like many websites, we employ cookies in certain areas of the Site to allow us to provide information to make your online experience more convenient. For example, cookies may enhance your experience of the HistoryBuff Features by tailoring content to you.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+Third parties whose websites are accessible through links on the Site may also use their own cookies when you link to their site or service. HistoryBuff does not control these third parties’ use of cookies and cannot guarantee that they will uphold the same privacy standards as HistoryBuff. HistoryBuff expressly disclaims any and all liability related to the collection, use or disclosure of information by third parties. You should review the privacy policies of any third party sites that you visit through a link from the Site to understand how these third parties use cookies and the information they collect through cookies. Most cookies are “session cookies” which means that they are automatically deleted at the end of each session. Most browsers are initially set to accept cookies. You can set your browser to notify you when you receive a cookie, giving you a chance to decide whether or not to accept it.
 
- **How do we protect your information?**
+**Log Information**
 
-We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. 
+Our servers automatically record information that your browser sends whenever you visit the Site. This information includes your IP address, your browser type and version, the search engine you used to find the HistoryBuff Features, if any, which HistoryBuff Features you use and from where, and when and how long you use them (the “ ** _Tracking Technology_** ”). We use this information to monitor and analyze how users use the HistoryBuff Features, to provide customer service and to maintain and improve the HistoryBuff Features.
 
-**Do we use cookies?**
+**Children’s Privacy**
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+We do not knowingly collect personal information from children under 13, or allow them to create an account for the HistoryBuff Features. We take children’s privacy seriously, and encourage parents to play an active role in their children’s online experience at all times.
 
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+**_Will we share your personal information with third parties?_**
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
+**Sharing Your Information**
 
- **Do we disclose any information to outside parties?**
+We use your personal information to provide the HistoryBuff Features to you, deliver products and services you request, handle your customer service questions or issues, send communications to you about promotions, updates, or special offers (which may be offered by HistoryBuff or one of its business partners) that may be of interest to you. The personal information uploaded by you through the HistoryBuff Features will be shared only with authorized persons you specifically grant access to. We may also use your personal information to provide analyses of our users in the aggregate (including Analytical Data subject to the terms of this Privacy Policy) to prospective partners and other third parties. We will also share the personal information we collect from you under the following circumstances:
 
-Other than described in this privacy policy, we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, third party marketers, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+  * _Protection of rights_. We will share personal information if we have a good faith belief that (i) access, use, preservation or disclosure of such information is reasonably necessary to satisfy any applicable law, regulation, legal process, such as a court order or subpoena, or a request by law enforcement or governmental authorities, (ii) such action is appropriate to enforce our Terms of Use for the HistoryBuff Features, including any investigation of potential violations thereof, (iii) such action is necessary to detect, prevent, or otherwise address fraud, security or technical issues associated with the HistoryBuff Features, or (iv) such action is appropriate to protect the rights, property or safety of HistoryBuff, its employees, users of the HistoryBuff Features or others.
+  * _Asset transfers_. If we become involved in a merger, acquisition or other transaction involving the sale of some or all of HistoryBuff’s assets, user information, including personal information collected from you through your use of the HistoryBuff Features, could be included in the transferred assets. Should such an event occur, we will use reasonable means to notify you through email and/or a prominent notice on the Site.
+  * _Service Providers_. We may share your personal information with service providers (including our affiliates that provide services on our behalf) that we engage for the purpose of processing information on our and your behalf. Additionally, we may partner with other companies to process, analyze, and/or store data, including, but not limited to, Analytical Data. While providing services for us, these companies may access your personal information. To the extent applicable, we require these entities to comply with this Privacy Policy and appropriate confidentiality and security measures.
 
-**Third party links**
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
- **California Online Privacy Protection Act Compliance**
+**Additional Information You Should Know About Third Parties**
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+The Site may contain direct links to websites operated by our partners and other entities. These third party websites may collect information about you when you visit them or otherwise communicate with them. This Privacy Policy does not cover the information practices of third party websites linked to the Site or accessible through the HistoryBuff Features. Although we encourage such third parties to adopt and follow their own privacy policies, we are not responsible for their collection and use of your personal information. You should refer to the privacy policies and statements of other websites or contact the respective webmasters of those websites to obtain information regarding their information collection, use and disclosure policies.
 
- **Childrens Online Privacy Protection Act Compliance**
+When you have clicked on a third party logo or URL displayed on our Site or accessible through the HistoryBuff Features which links you to a different website, our Privacy Policy no longer applies and you must read the privacy policy of the third party to see how your personal information will be handled on their website.
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+**_What choices do you have about the collection and use of your personal information?_**
 
- **Online Privacy Policy Only**
+**Control of Your Information**
 
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
+You may update or delete your personal information or modify your account preferences for the HistoryBuff Features by accessing the account interface provided through the HistoryBuff Features. Please note that if you disable your account, we will keep your contact information on file, and may retain other account information for a reasonable period of time afterward for the purpose of internal account management and fraud prevention activities.
 
-**Your Consent**
+**Opting Out of Receiving Communications From Us**
 
-By using our site, you consent to our web site privacy policy. 
+If you no longer want to receive our newsletter, emails or other announcements, you may unsubscribe by writing to us at [privacy@historybuff.com](mailto:privacy@historybuff.com) or replying to the “unsubscribe” link at the bottom of our emails.
 
-**Changes to our Privacy Policy**
+**Mediation**
 
-If we decide to change our privacy policy, we will post those changes on this page. 
+You agree that, in the event any dispute or claim arises out of or relating to this Privacy Policy, you and HistoryBuff will attempt in good faith to negotiate a written resolution of the matter directly between the parties. You agree that if the matter remains unresolved for forty-five (45) days after notification (via certified mail or personal delivery) that a dispute exists, all parties shall join in mediation services in New York County, New York with a mutually agreed mediator in an attempt to resolve the dispute. Should you file any arbitration claims, or any administrative or legal actions without first having attempted to resolve the matter by mediation, then you agree that you will not be entitled to recover attorneys’ fees, even if you would otherwise be entitled to them.
 
-**Contacting Us**
+**_What security measures do we take to safeguard your personal information?_**
 
-If there are any questions regarding this privacy policy or you wish to unsubscribe from our site and services you may contact us using the information below or by writing to us at:
+The personal information that you provide to us is stored on servers, which are protected by protocols and procedures designed to ensure the security of such information. In addition, we restrict access to personal information to HistoryBuff employees, independent contractors and agents who need to know this information in order to develop, operate and maintain the HistoryBuff Features. However, no server, computer or communications network or system, or data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect user information, we cannot ensure or warrant the security of any information you transmit to us or through the use of any of the HistoryBuff Features and you acknowledge and agree that you provide such information and engage in such transmissions at your own risk. Once we receive a transmission from you, we will endeavor to maintain its security on our systems.
 
-2885 Sanford Ave  
-SW #19781  
-Grandville, MI 49418  
-USA 
+In the event that personal information you provide to us is compromised as a result of a breach of security, when appropriate we will take reasonable steps to investigate the situation, notify you and take the necessary steps to comply with any applicable laws and regulations.
 
-historybuff.com 
+**_Notification of Changes_**
 
-Email:  
-contact@historybuff.com  
+This Privacy Policy may change from time to time and we will post all changes on the Site.
 
+**_Questions? Contact Us_**
+
+If you have any questions about our privacy practices or this Privacy Policy, please contact us by email at [privacy@historybuff.com](mailto:privacy@historybuff.com).
+
+**_Terms of Use_**
+
+Please read the [Terms of Use](https://web.archive.org/terms/) governing the use of the Site and the HistoryBuff Features.
