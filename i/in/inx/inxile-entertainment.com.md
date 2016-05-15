@@ -1,92 +1,112 @@
-> *The following text is extracted and transformed from the inxile-entertainment.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609221337id_/http%3A//www.earthlink.net/about/policies/privacy/index.faces) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inxile-entertainment.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515133150id_/https%3A//inxile-entertainment.com/help/privacy-policy) for the most accurate reproduction.*
 
-# Earthlink Policies & Agreements
+# Help > Privacy Policy - inXile entertainment
 
-**EarthLink Privacy Policy**
+**Last updated on:** 25 September 2015
 
-Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools, and opportunities with complete confidence.
+## 1\. Introduction
 
-EarthLink has created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how EarthLink collects information from users of EarthLink services (the "Services"), how we use the information we collect and the choices you have concerning the collection and use of such information. Please read this Privacy Policy carefully.
+1.1 This is the privacy policy ("Privacy Policy") of inXile entertainment Inc. and its affiliates (referred to in this Privacy Policy as "we", "us", "inXile entertainment" or "inXile"). It applies to our website (inxile-entertainment.com) (the "Website") together with any associated inXile websites on which this Privacy Policy appears.
 
-**Collection and Use of Information**
+1.2 This Privacy Policy is accompanied by [Terms of Use](https://web.archive.org/help/terms-of-use) governing your use of the Website. These Terms of Service also set out further details about inXile, including how to contact us.
 
-Members are asked to provide certain information when they sign up for our Services such as name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process is used to manage each Member's account (such as billing and collections).
+1.3 inXile is committed to your privacy and makes every effort to ensure the confidentiality of your personally identifiable information ("personally identifiable information" is information which may be used to identify and/or locate you in real life, e.g. your real name, email address and phone number and postal address). This Privacy Policy explains how we collect, store and use such personally identifiable information.
 
-In order to better understand its Members, EarthLink collects consumer data such as ZIP code, demographics and other publicly available information from third-parties. EarthLink uses this data to provide product and service offers. We use data in aggregate to develop products and offers to better serve its Members.
+1.4 Please read this policy carefully. Your accepting it in full is a continuing condition of your use of our Website. If you do not agree with this Privacy Policy, or any part of it, please do not use our Website.
 
-EarthLink collects information from Visitors and Members who use the various parts of our Services. We use this information primarily to provide a customized experience as you use our Services. EarthLink collects consumer information about its Members through surveys or preference pages. You may request that EarthLink not collect consumer data by visiting our opt-out website at <https://myaccount.earthlink.net/cam/contactinfo.jsp>.
+1.5 We may change this Privacy Policy at any time, so please check it whenever you return to the Website. We will treat your continued use of the Website as acceptance of these changes from their 'last updated' date (as shown above).
 
-EarthLink may share personal information with select affiliates in order to provide EarthLink services to our Members. EarthLink does not share identifying information (like Name and address) with affiliates for their use in delivering product and service offers to Members. Affiliates will not be allowed to use any information provided in serving our customers to be sold, rented, or given to any other company. Affiliates are not allowed to use EarthLink data for any other purpose other than EarthLink approved programs designed to better serve Members.
+## 2\. What personally identifiable information do we collect and store?
 
-In instances where EarthLink and an affiliate jointly promote the Services, EarthLink may provide the affiliate certain personal information, as a result of the joint promotion. In this instance, the information may not be used by the affiliate for any other purpose. EarthLink may also generate aggregate profiles from information provided during registration (such as the total number, but not the names, of Members). We may use this aggregated and non-identifying information to sell advertisements that appear on the Services.
+2.1 No personally identifiable information is collected when you only access the public areas of the Website.
 
-We use registration information to contact you in a variety of ways. We may send you offers through email, phone or regular mail of EarthLink products and services or offers on behalf of selected affiliates. If you order products directly from EarthLink, we will use your information to continue to provide you products that you are interested in. You may exercise your options to not receive any marketing from EarthLink by visiting our opt-out website at <https://myaccount.earthlink.net/cam/contactinfo.jsp>. Customers will still receive administrative emails from EarthLink.
+2.2 We collect and store information which you provide through registering a Website account, completing forms on our Website, placing an order for products (via PayPal) or making a donation to a funding campaign (via Kickstarter or PayPal), or in communications with us.
 
-**EarthLink Affiliates and Sponsors**
+2.3 We use a cookie to store a randomly generated unique alphanumeric ID in order to identify specific user sessions which access our Website. This cookie is only valid and used while the user is logged into the Website. No personally identifiable information other than the randomly generated alphanumeric session ID is ever used or stored in cookies.
 
-Some EarthLink products and services are offered to Members in conjunction with a third-party vendor. For example, we outsource the provision of stock quotes and operation of your stock portfolio (accessible through your Personal Start Page) to a third-party vendor. To provide these products and services, the vendor may need to collect and maintain your personal information. Additionally, many EarthLink Members have co-branded Personal Start Pages that are cosponsored by non-affiliated partners. EarthLink may share non-identifying and aggregate consumer information with such affiliates in order to more effectively market our co-branded products or services offered to our customers.
+## 3\. What happens to the information provided/collected?
 
-**Online Shopping**
+3.1 The information we collect may be used:
 
-At some websites, you can purchase products and services or register to receive materials, such as a catalog or new product and service updates. In many cases, you may be asked to provide contact information, such as your name, address, email address, phone number, and credit/debit card information. If you complete an order for someone else, such as an online gift order sent directly to a recipient, you may be asked to provide information about the recipient, such as the recipient's name, address, and phone number. EarthLink has no control over third-party websites and their use of any personal information you provide when placing such an order. Please exercise care when doing so.
+  * To provide our customer support service, and to verify any claims or requests you make if you use our customer support service.
+  * To enforce our Terms of Service, and prevent or detect hacking activities, security breaches or safety risks in connection with our Website and/or other services.
+  * To send service announcements and messages.
+  * For our own internal purposes and to help us improve our Website.
+  * To fulfill product orders and/or deliver rewards for funding campaign donations.
+  * To contact you for feedback and surveys.
+  * For helping you manage your account and your preferences.
+  * To identify and protect against fraudulent transactions and other misuses of our applications.
+  * To enforce our [Terms of Use](https://web.archive.org/help/terms-of-use)
+  * In the event of an actual or proposed (including as part of negotiations for any) merger, or business combination or sale of substantially all of our assets or a business operation to which such information relates, or as provided under bankruptcy or applicable insolvency laws.
+  * To disclose information to the extent required by law, court order, as requested by other government, regulatory or law enforcement authority, to protect or assist in protecting our users, systems or the public, or to otherwise enforce legal rights as determined in our sole discretion.
+  * To send you email newsletters, including new game features and development updates.
+  * As set out elsewhere in our privacy policy.
 
-**Online Advertisements**
 
-EarthLink may share aggregated and non-identifying information about our Visitors and Members collected through the registration process as well as through online surveys and promotions with select advertisers. In some instances, we use this information to deliver tailored advertisements. Based upon the information we have collected, we may then display advertisements to specific audiences. EarthLink does not share personal information about its Members with these advertisers.
 
-We use DoubleClick and other third-party advertising companies to serve ads when you visit our websites. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here [www.networkadvertising.org](http://www.networkadvertising.org/)
+## 4\. Third Parties
 
-**Voluntary Surveys**
+4.1 We may supply your personal information to external third parties who provide a service to us for the purpose of that service. This includes transmission of information about your account to third party shipping fulfillment centers to complete product orders or donations to our funding campaigns.
 
-We may periodically conduct both business and individual surveys. We encourage Members to participate in these voluntary surveys because they provide us with important information that helps us to improve the types of services we offer and how we provide them to you. Your personal information and responses will remain confidential, even if the survey is conducted by a third-party.
+4.2 We may share information with third parties to the extent necessary for us to comply with legal requirements, prevent fraud, and protect the safety of our users.
 
-We take the information we receive from individuals responding to our surveys and combine (or aggregate) it with the responses of other Members to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated, non-personally identifying information may be shared with third-party affiliates.
+4.3 We do not supply your personal information to external third parties for the purpose of direct sales or marketing their own products.
 
-**Special Cases**
+## 5\. Cookies
 
-It is EarthLink's policy not to use or share the personal information in ways unrelated to the ones described above without also providing an opportunity to opt out or otherwise prohibit such unrelated uses. However, EarthLink may disclose personal information or information regarding use of the Services if, for any reason, in our sole discretion, we believe that it is reasonable to do so, including: to satisfy laws, regulations or other legal requests for such information; to disclose information that is necessary to identify, contact or bring legal action against someone who may be violating our Acceptable Use Policy or other policies; to operate the Services properly; or to protect EarthLink, our Services, our employees or our Members.
+5.1 Like most major websites, our Website uses cookies to maintain your logged in status. We do not use cookies to collect or store personal information about you or to gather analytics such as in the use of tracking purposes.
 
-**"Cookies" and How EarthLink Uses Them**
+5.2 Cookies cannot be used by themselves to identify you. Nonetheless, you may change your website browser settings to reject cookies, although please note that if you do this it may impair the functionality of this Website. For further information about cookies, including how to refuse cookies, please visit www.allaboutcookies.org.
 
-A "cookie" is a small data file that can be placed on your hard drive when you visit certain websites. EarthLink may use cookies to collect, store, and sometimes track information for statistical purposes to operate and improve the products and services we provide and to manage our network and property. If you have created your own Personal Start Page, we will use a cookie to save your settings and to provide customizable and personalized services. Additionally, be aware that if you visit non-EarthLink websites where you are prompted to log in or that are customizable, you may be required to accept cookies.
+## 6\. Safeguarding your personally identifiable information
 
-Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them.
+6.1 We will only collect personally identifiable information to the extent we believe it reasonably necessary to serve our legitimate business purposes, and will protect it using the same level of safeguards we use to ensure the security, integrity and privacy of our own equivalent proprietary information. In addition, we will take reasonable steps to ensure that third parties to whom we transfer any personally identifiable information in accordance with this policy will agree to provide sufficient protection. We may store or transfer personal information outside the European Economic Area for the purposes stated in this policy.
 
-**EarthLink's Commitment to Children's Privacy**
+6.2 Note that while we strive to protect all the personally identifiable information which we collect, we cannot guarantee that such breaches will not happen in relation to this Website. Should we discover a material data breach that may compromise your personally identifiable information, we will inform you as soon as practicable.
 
-Protecting children's privacy is especially important to us. It is our policy to comply with the Children's Online Privacy Protection Act of 1998 and other applicable laws. You must be 18 to use the Services. EarthLink does not attempt to ask or collect information from any person under the age of 18.
+6.3 The database used to store your personal information is separated from the webserver and is firewalled to ensure maximum security and privacy. The Website has been designed to minimize the use and storage of personal information in cookies.
 
-EarthLink may have products and web pages designed especially for younger users under the direct supervision of an adult Member. While we make every effort to ensure that these Services are fun and age-appropriate for a younger audience, we believe that there is no substitute for proper parental supervision. For further information about tips, tools, age-appropriate or kid-friendly websites and how to report online trouble, please visit [www.getnetwise.org](http://www.getnetwise.org/).
+6.4 Your password is recorded as a cryptographic hash digest. We are unable to know what your password is nor are we able to send you your password if you should forget it. The Website makes available to you the ability to change your password at any time. It is your responsibility to protect your password and use a long and secure password. As we have no size or character limit on your password, we suggest using a long (12 or more characters) and randomly generated password. We highly encourage the use of a password manager, such as LastPass or 1Password, to generate and manage a highly secure and randomly generated password for use with the Website.
 
-EarthLink recommends that children ask a parent for permission before sending any personal information anywhere using the Internet.
+6.5 The Website uses an SSL secure connetion via HTTPS for any sensitive resources.
 
-**Public Forums**
+## 7\. Review, correction and deletion of information from our records
 
-Any information that you disclose in public areas of our websites or the Internet may become public information. You should exercise caution when deciding to disclose personal information in these areas.
+7.1 If, for data protection purposes, you are concerned that the personally identifiable information which we hold about you is not correct, or should you wish to have your personal information removed from our records, please write to us at our registered office (see below):
 
-**EarthLink's Commitment to Data Security**
+(a) Explaining the personally identifiable information which you wish to be deleted, modified or removed; AND  
+(b) Providing full picture ID of yourself (either a photocopy of a passport or valid driving licence); AND  
+(c) Enclosing a check for administrative fees of $10.00 per request
 
-EarthLink has security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information. We will never sell your information to a third party.
+7.2 Once we have received your request, we will review it and contact you within 30 days of our receipt of your request.
 
-**How to Access or Modify Your Information**
+## 8\. Your choices
 
-EarthLink offers Members the opportunity to access or modify information provided during registration. To access or modify such information, visit [myaccount.earthlink.net](http://myaccount.earthlink.net/).
+At any time, you can change choices you have previously made as to use of your personal information. You may choose:
 
-**Questions About EarthLink's Privacy Policy**
+  * Not to provide personal information, although that may result in your inability to obtain certain services or use certain features of the Website
+  * To stop receiving promotional emails or newsletters from us by sending an email to the contact address at the bottom of this policy
+  * To delete or decline cookies by changing your browser settings, although if you do so, some of the features or services of our Website may not function properly
+  * To review and update your personal information by contacting us at the email address below or, if you have a user account, by logging into that account.
 
-Questions about this Privacy Policy or the practices described herein should be directed to our FAQ page that is located at [www.earthlink.net/optout](http://www.earthlink.net/optout).
 
-If you have any additional questions about this Privacy Policy or the practices described herein, you may contact:
 
-Customer Service  
-EarthLink, Inc.  
-1375 Peachtree Street, N.W.  
-Level A  
-Atlanta, Georgia 30309
+## 9\. Your California privacy rights
 
-**Revisions to This Policy**
+If you are a resident of California, in addition to the rights set forth above, you have the right to request information from us regarding the manner in which we share certain categories of personal information with third parties for their direct marketing purposes. We do not share this information to thrid parties for their direct marketing purposes, but California law gives you the right to send us a request at a designated address to receive the following information:
 
-EarthLink reserves the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. Any revision, amendment, or modification will be posted on our website: www.earthlink.net.
+  * The categories of information we disclosed to third parties for their direct marketing purposes during the preceding calendar year
+  * The names and addresses of the third parties that received that information
+  * If the nature of the third party's business cannot be determined from their name, examples of the products or services marketed
 
-Version 2.0  
-Effective 10/31/2003
+
+
+We may provide this information in a standardized format that is not specific to you. The designated email address for these requests is [support@inxile.net](mailto:support@inxile.net).
+
+### HOW TO CONTACT US
+
+If you have any questions about this Privacy Policy or our information practices, please contact us by email or postal mail address below.  
+[support@inxile.net](mailto:support@inxile.net)  
+or  
+inXile entertainment, Inc.  
+2727 Newport Blvd. #200, Newport Beach, CA 92663, USA
