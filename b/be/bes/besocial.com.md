@@ -1,126 +1,239 @@
-> *The following text is extracted and transformed from the besocial.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228055020id_/http%3A//www.besocial.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the besocial.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515115839id_/http%3A//www.besocial.com/privacy) for the most accurate reproduction.*
 
-# BeSocial | Privacy Policy
+# Privacy Policy - BeSocial
 
-**BeSocial.com Privacy Policy – Your Privacy Rights**  
-**Last Updated: January 1, 2008**
+### 
 
-BeSocial.com (“BeSocial” “we” “our” and/or “us”) respects the privacy of our users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy describes how personal information is collected from users of the BeSocial.com Website (the “Site” and/or “Website”), and how that information is used and disclosed.
+BeSocial.com
 
-We encourage you to read this Privacy Policy carefully when using our Website or services or transacting business with us. By using our Website, you are accepting the practices described in this Privacy Policy. If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.
+Privacy Policy
 
-    •    Collection of Information  
-    •    Use of Information  
-    •    Disclosure of Information  
-    •    Updating Your Information  
-    •    Security  
-    •    Consent and Changes  
-    •    Questions or Comments
+Created: July 23, 2015
 
-**Collection of Information**
+Last Updated: July 23, 2015
 
-**In General**  
-We may collect personal information that can identify you, such as your name and e-mail address, and other information that does not identify you. BeSocial.com is the sole owner of the information collected on its Website. We will not sell, share or rent this information to others in ways different from what is disclosed in this policy.
+Belgrano, Ltd. respects your privacy and is committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit the website, BeSocial.com ("Website") and our practices for collecting, using, keeping, protecting, and disclosing that information. 
 
-**Information You Provide**  
-We may collect and store any personal information you enter on our Website when you create an account, place an order, send us an e-mail or call us, enter a sweepstakes, and/or participate in a contest or survey. This information may include your name, address, e-mail address, telephone number, financial information such as your payment method (valid credit card number, type, expiration date or other financial information), and information you provide about other people such as the name and address of a gift recipient. We also may request information about your interests and activities, your gender and age, and other demographic information as well as public information such as user ratings and reviews, saved restaurant and event listings, and other information you view on the Website.
+This policy applies to information we collect:
 
-**Information Collected Automatically**  
-We automatically collect information from your browser when you visit our Website, which helps us track users' movements around the Site and understand trends. This information includes your IP address, your browser type and language, the date and time of your visit, the content of any undeleted “cookies” that your browser previously accepted from us (see “Cookies” below), and the referring website address.
+  * On this Website (including desktop and mobile versions).
+  * In email, text, and other electronic messages between you and this Website.
+  * When you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this policy.
+  * When you interact with this Website through third-party social media platforms.
+  * It does not apply to information collected by:
+  * us offline or through any other means, including on any other website operated by Belgrano or any third party (including our affiliates and subsidiaries); or
+  * any third party (including our affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from (or on) the Website.
 
-**Cookies**  
-When you visit our Website, we may assign your computer one or more “cookies” to facilitate access to our Site and to personalize your online experience. Cookies may also be used to help save you time by remembering the information that you have already provided to us. We do not use cookies to retrieve information from your computer that was not voluntarily provided by you. The use of cookies is an industry standard and most browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies. If you choose to delete or decline cookies, some of the interactive features and services of our Website may not function properly.
 
-**Web Beacons**  
-We may use standard Internet tools, such as “web beacons” and other similar technologies, to track your use of our Site. Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may include web beacons in promotional or other e-mail messages or newsletters to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer our Site visitors, to monitor how visitors are navigating and/or interacting with our Site, to track transactions processed through our Site, and to measure the overall effectiveness of our online advertising, content, programming or other activities. We also may receive an anonymous identification number if you come to our Site from an online advertisement displayed on a third-party website.
 
-**Information Others May Collect**  
-If you post information about yourself or others, or communicate with others using our Website, please note that we cannot control who reads your postings or what they do with the information you provide. We encourage you to use caution in posting personal information.
+Please read this policy carefully to understand our policies and practices regardingyour information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change on one or more occasions. We will consider your continued use of the Website after we make changes asyour acceptance of the changes, so please check the policy frequently for updates. 
 
-**Use of Information**
+#### 1\. Are minors welcome on BeSocial?
 
-**In General**  
-We may use the information you provide to:
+You can only become a registered user of BeSocial if you are 18-years old and have reached the age of majority in the county where you live if that age happens to be greater than 18. That means that we do not knowingly collect any information about children, minors, or anyone under the age of majority. Nor do we knowingly market to children, minors, or anyone under 18-years old. If you are under 18-years old, we request that you do not submit information to us. If we become aware that a child, minor, or anyone under 18-years old has registered with us and provided us with personal information, we will take steps to cancel that person's registration and delete their profile information from BeSocial. If we do delete a profile because you breached our no children rules, we may keep your email and IP address to make sure that you do not try to get around our rules by creating a new profile.
 
-    •    Process, track, and deliver your purchases and/or other transactions;  
-    •    Manage your account and provide you with customer support;  
-    •    Perform research and analysis about your use of, or interest in, our products, services, and content;  
-    •    Conduct surveys;  
-    •    Communicate with you by e-mail, postal mail, telephone and/or mobile devices about products or services that may be of interest to you;  
-    •    Verify your eligibility and deliver prizes in connection with contests and sweepstakes;  
-    •    Identify and protect against fraudulent transactions and other misuses of our Website;  
-    •    Enforce our terms and conditions;  
-    •    Manage our business; and  
-    •    Perform functions as otherwise described to you at the time of collection.  
-**  
-Financial Information**  
-We may use financial information or payment method to process payment for any purchases made on our Website, to protect against or identify possible fraudulent transactions, and otherwise as needed to manage our business.
+Under 47 U.S.C. § 230(d), we notify you that parental control protections (including computer hardware, software, or filtering services) are commercially available that may assist in limiting access to material that is harmful to minors. You may find information about providers of these protections on the Internet by searching "parental control protection" or similar terms. If minors have access to your computer, please restrain their access to sexually explicit material by using any of the following products provided for informational purposes only and not endorsed by us: [CYBERsitter™](http://www.cybersitter.com/) | [Net Nanny®](http://www.netnanny.com/) | [CyberPatrol](http://www.cyberpatrol.com/) | [ASACP](http://www.asacp.org/).
 
-**Job Applicants**  
-If your personal information is submitted through our Website when applying for a position with our company, the information will be used solely in connection with considering and acting upon your application. We may retain your personal information for a period of time, but only for the purpose of considering your application for current or future available positions.
+#### 2\. What types of information do we collect about you and how do we collect it?
 
- **Disclosure of Information**  
-**  
-In General**  
-We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you an opportunity to opt out of having your personal information shared.
+We collect several types of information from and about users of our Website or service, including information:
 
-**Authorized Service Providers**  
-We may share your personal information with our authorized service providers that perform certain services on our behalf. These services may include processing credit card payments, providing customer service and marketing assistance, performing business and sales analysis, supporting our Website functionality, and supporting contests, sweepstakes, surveys and other features offered through our Website. In order to perform their jobs, these service providers may have limited access to some of the information we maintain about you. We require all such service providers to ensure the confidentiality of your personal information, limit their access to any personal information to the minimum necessary to perform their obligations, and not to use the information they may access for purposes other than fulfilling their responsibilities to us or on our behalf. We are not responsible for any additional information you provide to these parties, and we encourage you to become familiar with their privacy practices before disclosing information directly to them.
+  * by which you may be personally identified, including your name, email address, date of birth, or any other information that the Website collects that is defined as personal or personally identifiable information under law ("personal information");
+  * that is about you but individually does not identify you, including your age, gender, location, and any other optional information you provide about yourself in your profile; or
+  * about your internet connection, the equipment you use to access our Website and usage details.
 
-**Business Partners:**  
-When you make purchases or engage in promotions offered through our Website or our services, we may share personal information with the businesses with which we partner to offer you those products, services, promotions, contests and/or sweepstakes. When you elect to engage in a particular merchant's offer or program, you authorize us to provide your e-mail address and other information to that merchant.
 
-**Other Situations**  
-We also may disclose your information:
 
-    •    In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us.
+We collect this information:
 
-    •    When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our website terms and conditions or other agreements or policies.
+  * Directly from you when you provide it to us.
+  * Automatically as you navigate through the Website. Information collected automatically may include usage details, IP addresses, and information collected through cookies, web beacons, and other tracking technologies.
+  * From third parties, for example, our business partners.
 
-    •    In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. The personal information, which you provide to us, is an asset of the company and may be included in the assets transferred in the event of a substantial corporate transaction.
 
-**Aggregated and Non-Personal Information**  
-We may share aggregated and non-personal information we collect under any of the above circumstances. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. However, aggregated information is not linked to any personal information that can identify any individual or company. For example, we may tell our advertisers the number of visitors to our Website and the most popular features or services accessed. This information does not contain any personal information and may be used to develop Website content and services that we hope you and other users will find of interest and to target content and advertising. For merchants, we may share your business contact information with third parties, including but not limited to, business name, address, telephone number, e-mail address and name of owner or proprietor of the business.
 
-**Updating Your Information**
+Information You Provide to Us
 
-**How You Can Access and Update Your Information**  
-You may access, update or correct your personal information at any time by going to “My Account Information” in the “My Account” section of our Site. You can also review and update your personal information by contacting us. More information about how to contact us is provided below.
+  * The information we collect on or through our Website may include:
+  * Information that you provide by filing in forms on our Website. This includes information provided at the time of registering to use our Website, completing your profile, posting material, or requesting further services. We may also ask you for information when you report a problem with our Website or service. 
+  * Records and copies of your correspondence (including email addresses), if you contact us.
+  * Details of transactions you carry out through our Website and of the fulfillment of your requests. You may be required to provide financial information before placing an order through our Website or to receive payments from us.
+  * Your search queries on the Website.
 
-**Your Choices**
 
-    •    You can choose not to provide us with certain information, but that may result in you being unable to use certain features of our Website because such information may be required in order for you to register as a member or user; purchase products or services; participate in a contest, promotion, survey, or sweepstakes; ask a question; or initiate other transactions on our Website.
 
-    •    At any time you can choose to no longer receive commercial or promotional e-mails or newsletters from us by signing in with your account information, clicking on the "My Account" link, then clicking on the "My Account Information" link and selecting those portions of your communication settings you would like to update. You also will be given the opportunity, in any commercial e-mail that we send to you, to opt-out of receiving such messages in the future. It may take up to 10 days for us to process an opt-out request. We may send you other types of transactional and relationship e-mail communications, such as order confirmations/receipts, service announcements, administrative notices, and surveys, without offering you the opportunity to opt-out of receiving them.
+You also may provide information to be published or displayed ("posted") on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, "user contributions"). Your user contributions are posted on and transmitted to others at your own risk. Although you may set certain privacy settings for this information by logging into your account, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your user contributions. Thus, we cannot and do not guarantee that your user contributions will not be viewed by unauthorized persons. 
 
- **Security** **In General**  
-BeSocial.com is committed to taking reasonable steps to ensure the security of your information. In an effort to prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information while it is under our control, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online via the Site. Your credit card security is our highest priority. BeSocial.com utilizes Secure Sockets Layer (SSL) encryption, an advanced encryption technology that protects the information you send us against unauthorized access.
+Information We Collect through Automatic Data Collection Technologies
 
-When you register for an account on our Website, we ask you to create a password. To protect the confidentiality of your personal information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of our Site by any person using your password.
+As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including:
 
-We want you to feel confident using our Website to transact business. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure e-mail. Please refer to the Federal Trade Commission's website at http://www.ftc.gov/bcp/menus/consumer/data.shtm for information about how to protect yourself against identity theft.
+  * Details of your visits to our Website, including traffic data, location data, logs, and other communication data and the resources that you access and use on the Website.
+  * Information about your computer and internet connection, including your IP address, operating system, and browser type.
 
-**Children**  
-We encourage parents to take an active interest in their children's use of the Internet. BeSocial.com has no intention of collecting, and will not knowingly collect personal information from children under the age of 13. Should we ever do so, we will comply with the Children's Online Privacy Protection Act. If you are under 13, you should not provide information on our Website and should ask your parent to do so for you.
 
-**Links to Third-Party Websites**  
-This Website may contain links to other websites. Please be aware that we are not responsible for the privacy practices of such other websites, as this Privacy Policy applies solely to BeSocial.com. We encourage our users to remain vigilant when they leave our Website and to read the privacy statements of each and every website that collects personally identifiable information.
 
-**Consent and Changes**
+We also may use these technologies to collect information about your online activities over time and across third-party websites or other online services (behavioral tracking). 
 
-**Your Consent**  
-By using our Site, you consent to our use of your personal information as specified above, and acknowledge that you have read and understood this policy and that you agree to its terms. If you do no agree to the terms of this Privacy Policy, simply exit this page without accessing or using any of our services.
+The information we collect automatically is statistical data and does not include personal information, but we may keep it or associate it with personal information we collect in other ways or receive from third parties. It helps us to improve our Website and to deliver a better and more personalized service, including by allowing us to:
 
-If you are visiting or using this Site from outside Canada, please be advised that our Privacy Policy is intended to meet the laws and regulations of Canada, which may not be the same as the laws and regulations of your home country. By providing us with your personal information via this Site you consent to the transfer to (and processing of such information in) Canada.
+  * Estimate our audience size and usage patterns.
+  * Store information about your preferences, allowing us to customize our Website according to your individual interests.
+  * Speed up your searches.
+  * Recognize you when you return to our Website.
 
-**Policy Changes**  
-We will occasionally update this Privacy Policy to reflect changes in our practices and services. When we post changes to this Privacy Policy, we will revise the "last updated" date at the top of this Privacy Policy. If we make any material changes in the way we collect, use, and/or share your personal information, we will notify you by sending an e-mail to the e-mail address you most recently provided us in your account, profile or registration (unless we do not have such an e-mail address), and/or by prominently posting notice of the changes on our Website. We recommend that you check our Website from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies.
 
-**Questions or Comments**
 
-If you have any questions about our Privacy Policy or our information-handling practices, please contact us by e-mail or postal mail below:
+The technologies we use for this automatic data collection may include:
 
-Privacy Officer  
-BeSocial.com  
-2100 Bloor St.W, Suite 6  
-Toronto, ON, M6S 5A5
+  * Cookies (or browser cookies).A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. But if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website. If you want to learn more about cookies, please see [www.allaboutcookies.org](http://www.allaboutcookies.org/) or [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). To learn more about how we use cookies, please see our [cookie statement](https://web.archive.org/cookies).
+  * Flash Cookies. Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from, and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies, but you can access your Flash management tools from [Adobe's website](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+  * Web Beacons.Pages of our Website (and our emails) may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit us, for example, to count users who have visited those pages (or opened an email) and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). If you want to learn more about web beacons, please see [www.allaboutcookies.org/web-beacons/.](http://www.allaboutcookies.org/web-beacons/)
+
+
+
+We do not collect personal information automatically, but we may tie this information to personal information about you that we collect from other sources or you provide to us. 
+
+Third-party Use of Cookies and Other Tracking Technologies
+
+Some content or applications, including advertisements, on the Website are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our Website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
+
+We do not control third-party tracking technologies or how third parties' use them. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. 
+
+Social Networks and Third-Party Plug-ins
+
+Our Website includes plugins from social networks and other third parties. An example of a plugin is the Facebook "Like" button. Where legally permitted, these plugins may communicate with and send information to the party that provided the plugin, even if you do not click on the plugin. This information may include your IP address, information about your browser and device, and the address of the webpage you are visiting on our Website. Loading, using, or clicking the plugins may also place, read, and transmit cookies. These cookies may contain a unique identifier the social network or third party assigns you. The loading, functionality, and your use of the plugins are governed by the privacy policy and terms of the party that provided the plugin. 
+
+Social Network and Third-Party Login
+
+Our Website allows you to log in using a social network or other third-party account. An example of a third-party login is "Log in with Facebook." Logging into our Website with your social network or other third-party account may allow us to gather information that you give us permission to access from that social network or third party. The login feature may also transfer information to the social network or third party, including your username and password, to authenticate you. The social network or third party may also automatically collect information like your IP address, information about your browser and device, and the address of the webpage you are visiting on our Website. The login feature may also place and read cookies from that third party that may contain a unique identifier the social network or other third party assigns to you. The functionality of and your use of the login is governed by the privacy policy and terms of the party that provided the login functionality.
+
+#### 3\. How do we use your information?
+
+  * We may use information that we collect about you or that you provide to us, including any personal information:
+  * To present our Website and its contents to you.
+  * To provide you with information, products, or services that you request from us.
+  * To fulfill any other purpose for which you provide it.
+  * To provide you with notices about your account, including expiration and renewal notices.
+  * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
+  * To notify you about changes to our Website or any products or services we offer or provide through it.
+  * To allow you to participate in any interactive features on our Website.
+  * In any other way we may describe when you provide the information.
+  * For any other purpose with your consent.
+
+
+
+We may also use your information to contact you about our own and third-parties' goods and services that may be of interest to you. If you do not want us to use your information in this way, please adjust your user preferences in your account profile. For more information, see What choices do you have about how we use and disclose your information. 
+
+We may use the information we have collected from you to allow us to display advertisements to our advertisers' target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria. 
+
+If you have registered with one or more of our partner websites, including Facebook, or you have verified your account through a partner website, we may connect your BeSocial profile with your profile on that partner website. We may do this by way of new products and applications that we introduce on one or more occasions, including new products powered by Belgrano. 
+
+#### 4\. With whom do we share your information?
+
+  * We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
+  * We may disclose personal information that we collect or you provide as described in this privacy policy:
+  * To our subsidiaries and affiliates.
+  * To contractors, service providers, and other third parties we use to support our business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them.
+  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Belgrano's assets, whether as a going concerning or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by Belgrano about our Website users is among the assets transferred.
+  * To third parties to market their products or services to you if you have not opted out of these disclosures. We contractually require these third parties to keep personal information confidential and use it only for the purposes for which we disclose it to them. For more information, see What choices do you have about how we use and disclose your information.
+  * To fulfill the purpose for which you provide it. 
+  * For any other purpose disclosed by us when you provide the information.
+  * With your consent.
+  * We may also disclose your personal information:
+  * To comply with any court order, law, or legal process, including to respond to any government or regulatory request.
+  * To enforce or apply our [terms](https://web.archive.org/terms) and other agreements, including for payment or for billing and collection purposes.
+  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Belgrano, our users, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+
+
+
+#### 5\. When you put information about yourself on BeSocial, what do the other users see?
+
+To make sure you get to meet as many people as possible on BeSocial, other users get to see your user name and any information you post on your profile, including photos if you select the "photo privacy" setting on the [account settings](https://web.archive.org/account) page. Any information you choose to provide should reflect how much you want other BeSocial users to know about you. You can also choose to limit the information that other users see by adjusting your "privacy settings" on the [account settings](https://web.archive.org/account) page. 
+
+We recommend and encourage you (and all our users) to think carefully about the information you disclose about yourself, and suggest that you follow our [Safety Tips](https://web.archive.org/safety). We also do not recommend that you put email addresses, URLs, instant messaging details, phone numbers, full name or address, credit card details, national identity numbers, drivers' license details, or other sensitive information in your profile, which is open to abuse and misuse. 
+
+Please be careful about posting sensitive details about yourself on your profile, including your religious denomination and health details. While you may voluntarily provide this information to us when you create your profile, including your sexual preferences and ethnic background, there is no requirement to do so. Please remember that photographs or any video clips that you post on BeSocial may reveal these kinds of sensitive personal data. Where you do upload and choose to tell us sensitive information about yourself, you are expressly consenting to our processing your information and making this public to other users.
+
+When you post information about yourself or use the messaging system, the amount of personal information you share is at your own risk. If you post anything that is inconsistent with our terms, we may terminate your account.
+
+#### 6\. What choices do you have about how we use and disclose your information?
+
+We strive to provide you with choices about the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
+
+  * Tracking Technologies and Advertising. You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on [Adobe's website](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). To learn how you can manage your other cookies, visit [www.allaboutcookies.org/manage-cookies/](http://www.allaboutcookies.org/manage-cookies/). If you disable or refuse cookies, please note that some parts of this Website may then be inaccessible or not function properly. 
+  * Disclosure of Your Information for Third-Party Advertising.If you do not want us to share your personal information with unaffiliated or non-agent third parties for promotional purposes, you can opt-out by clicking on the unsubscribe link on any received email messages or at any time by logging into the Website and adjusting your user preferences in your Account Settings by checking or unchecking the relevant boxes or by sending us an email stating your request to privacy@BeSocial.com.
+  * Promotional Offers from the Company.If you do not want to have your email address used by Belgrano to promote our own or third parties' products or services, you can opt-out by usingt he provided unsubscribe links in received emails or at any other time by logging into the Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an email stating your request to privacy@BeSocial.com. If we have sent you a promotional email, you may send us a return email asking to be omitted from future email distributions or click on the "unsubscribe" link at the bottom of the email. This opt out does not apply to information provided to Belgrano because of a service purchase or other transactions.
+  * Targeted Advertising. If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our advertisers' target-audience preferences, you can opt-out via the provided unsubscribe links in received email messages. You can also always adjust your user advertising preferences in your account profile by checking or unchecking the relevant boxes or by sending us an email stating your request to privacy@BeSocial.com. For this opt-out to function, you must have your browser set to accept browser cookies. 
+
+
+
+We do not control third parties' collection or use of your information to serve interest-based advertising. But these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative ("NAI") on the [NAI's website](http://www.networkadvertising.org/choices/).
+
+Warning: If you have created a BeSocial profile through Facebook and you do not want to link your BeSocial profile to your Facebook profile, BeSocial cannot amend these settings. Please visit the application settings on Facebook and follow the instructions to remove the BeSocial access permissions.
+
+#### 7\. How do you access and correct your information?
+
+You can review and change your personal information by logging into the Website and visiting your [account profile page](https://web.archive.org/account).
+
+You may also send us an email at privacy@BeSocial.com to request access to, correct, or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+
+If you delete your user contributions from the Website, copies of your user contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Our [terms](https://web.archive.org/terms) govern proper access and use of information provided on the Website, including user contributions.
+
+#### 8\. Can you hide or deleteyour profile?
+
+If you have registered on BeSocial, you can cancel or hide your account at any time by going to the [My Settings](https://web.archive.org/account) control on BeSocial when you are logged in and choosing the "hide account" or "cancel account" link. Hiding your profile means that no user can search for you on the Website although they might still see your profile from direct cached links, but it will not be deleted. We save your profile information in case you later decide to restore your account. We save your profile information in case you later decide to restore your account. Many users cancel their accounts for temporary reasons and in doing so expect us to keep their information until they return to BeSocial (if this is not true for you, please contact us and we will delete your information). You will thus be able to restore your account and your profile in its entirety within six months of canceling it. 
+
+After the expiration of six months, we permanently delete your account from BeSocial. We delete photographs from our servers no later than 14 days after the expiration of the six month period while we delete other information (like contact history) over a longer timescale, by way of periodic housekeeping. You should only delete your account if you are certain you never want to restore it. 
+
+To prevent abuse or misuse of BeSocial by a user, after termination or deletion of a profile/account, we will keep the information we consider necessary to make sure that user does not open a new account and profile in breach of our [terms](https://web.archive.org/terms) and to ensure compliance with all laws. 
+
+Warning: Even after you remove information from your profile or delete your account, copies of that information may still be viewable or accessed on the Internet if you have previously shared that information with others, or copied or stored by other users or if that information has been shared with search engines. We cannot control this, nor will we be liable for this. If you have given third-party applications or websites access to your personal information, they may retain that information if permitted under their terms or privacy policies.
+
+Removed or delete information may persist in backup copies for up to 30 days to allow restoration, but will not be available to others in the meantime. 
+
+#### 9\. How do we protect your personal information?
+
+We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, change, and disclosure. All information you provide to us is stored on our secure servers behind firewalls. Any payment transactions will be encrypted using SSL technology. 
+
+The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. We urge you to be careful about giving out information in public areas of the Website like your profile. Any user of the Website may view the information you share in public areas. 
+
+Unfortunately, the transmission of information over the Internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website.
+
+#### 10\. Where is your personal information kept?
+
+This privacy policy is intended to cover collection of information on or through our Website from residents of the United States. If you are visiting our Website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. Please be assured that we seek to take reasonable steps to make sure that your privacy is protected. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this privacy policy. When you provide personal information to us through the services, you consent to the processing of your data in, and the transfer of your data to, the United States or any other country in which we or our affiliates, subsidiaries, or service providers host these services.
+
+#### 11\. Third-Party Websites
+
+There may be a number of places on our Website or through our services where you may click on a link to access other websites that do not operate under this privacy policy.For example, if you click on an advertisement or a search result on our Website, you may be taken to a website that we do not control. These third-party websites may independently solicit and collect information, including personal information, from you and, in some instances, provide us with information about your activities on those websites. Once you leave our digital environment, we are no longer responsible for and cannot control what is collected on these websites. We recommend that you consult the privacy statements of all third-party websites you visit by clicking on the "privacy" link typically located at the bottom of the webpage you are visiting.
+
+#### 12\. DMCA Takedown Requests
+
+This Website complies with the Digital Millennium Copyright Act. If you reasonably believe your copyrighted work has been used or posted by a third party without your consent, you may follow the instructions on our [DMCA Page](https://web.archive.org/dmca) on how to report it. 
+
+By submitting a copyright infringement notice or other communication (including communications about content stored on or transmitted through the Website), you consent to have these communications forwarded to the person or entity who stored, transmitted, or linked to the content addressed by your communication, in order to facilitate a prompt resolution. We forward DMCA infringement notices (including any personally identifying information contained in the notices) as submitted to us without any deletions.
+
+#### 13\. Do Not Track
+
+Do Not Track ("DNT") is a privacy preference that you can set in your browser. DNT is a way for you to inform websites and services that you do not want certain information about your webpage visits collected over time and across websites or online services. We are committed to providing you with meaningful choices about the information we collect and that is why we provide you the ability to opt-out. But we do not recognize or respond to any DNT signals as the Internet industry works toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT. For more information about DNT signals, you may visit www.allaboutdnt.com.
+
+#### 14\. Your California Privacy Rights
+
+California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To make this request, please send an email to privacy@BeSocial.com.
+
+#### 15\. Canada Privacy Rights
+
+BeSocial complies with Canadian Federal and Provincial privacy laws and regulations including the Personal Information Protection and Electronic Documents Act.BeSocial will only use your personal information for the purposes intended and as detailed in this privacy policy unless we have obtained your consent to use it for other purposes.
+
+Residents of Canada are notified that the personal information they provide to BeSocial is stored in BeSocial's databases outside of Canada including in the United States and may be subject to disclosure to authorized law enforcement or government agencies in response to lawful demand under the laws of that country. 
+
+If you need to contact BeSocial about your personal information, please email us at privacy@BeSocial.com. 
+
+#### 16\. Changes to Privacy Policy
+
+We post any changes we make to our privacy policy on this page. If we make material changes to how we treat your personal information, we will notify you by email to the email address specified in your account or through a notice on the Website home page. The privacy policy identifies when we last updated it at the top of the page.You are responsible for making sure we have an up-to-date active and deliverable email address for you, and for frequently visiting our Website and this privacy policy to check for any changes.
+
+#### 17\. Contact Information
+
+To ask questions or comment about this privacy policy and our privacy practices, contact us at privacy@BeSocial.com.
