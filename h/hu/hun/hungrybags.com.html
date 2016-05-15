@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hungrybags.com privacy policy that was archived on 2015-10-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151005203729id_/http%3A//www.hungrybags.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hungrybags.com privacy policy that was archived on 2016-05-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160515190003id_/http%3A//www.hungrybags.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
 <title>Privacy Policy - HungryBags</title>
@@ -27,12 +27,17 @@
 <link type="text/css" rel="stylesheet" href="http://www.hungrybags.com/style/jqueryui.css">
 <link type="text/css" rel="stylesheet" href="http://www.hungrybags.com/style/newmaster.css">
 <link type="text/css" rel="stylesheet" href="http://www.hungrybags.com/style/newstyle.css">
+<!--<link type="text/css" rel="stylesheet" href="http://www.hungrybags.com/style/newmaster.css" >
+<link type="text/css" rel="stylesheet" href="http://www.hungrybags.com/style/newstyle.css" >-->
 <link type="text/css" rel="stylesheet" href="http://www.hungrybags.com/style/searchlist.css">
 <link type="text/css" rel="stylesheet" href="http://www.hungrybags.com/style/responsive.css">
+<link type="text/css" rel="stylesheet" href="http://www.hungrybags.com/style/device.css">
+<link type="text/css" rel="stylesheet" href="http://www.hungrybags.com/style/flex.css">
 
 <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-54NQBH"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" language="javascript" src="http://www.hungrybags.com/script/jquery-1.10.2.min.js"> </script>
 <script type="text/javascript" language="javascript" src="http://www.hungrybags.com/script/jqueryui.js"> </script>
 <script type="text/javascript" language="javascript" src="http://www.hungrybags.com/script/template.js"> </script>
+<script type="text/javascript" language="javascript" src="http://www.hungrybags.com/script/flex.js"> </script>
     <!--[if lt IE 7]>
         <div style=' clear: both; text-align:center; position: relative; z-index:2;'>
             <a href="http://www.microsoft.com/windows/internet-explorer/default.aspx?ocid=ie6_countdown_bannercode"><img src="http://storage.ie6countdown.com/assets/100/img/banners/warning_bar_0000_us.jpg" border="0"  alt="" /></a>
@@ -185,6 +190,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <input type="hidden" name="pkg_country_id" value="0">
     <input type="hidden" name="url" value="http://www.hungrybags.com/privacy_policy.php">
     <input type="hidden" name="city" value="">
+    <input type="hidden" id="qtxtCaptcha1" name="qtxtCaptcha1">
     	<div class="row cnt_Head">Quick Contact</div>
 		<div class="row frm_holder borderBox">
     		<div class="row "> 
@@ -197,12 +203,30 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        	</div>
         <div class="row">
     		<div class="row"><label>Mobile</label></div>
-            <div class="row"><div class="ContIco"><span class="fa fa-mobile"></span></div><input type="text" data-type="number" name="mobile" class="input inputRequired" placeholder="Mobile"> </div>
+            <div class="row"><div class="ContIco"><span class="fa fa-mobile"></span></div>
+            <input type="text" data-type="number" name="mobile" class="input inputRequired" placeholder="Mobile">
+            </div>
         </div>
         <div class="row">
         	<div class="row"><label>Message</label></div>
-    		<div "row"=""> <textarea type="text" name="message" class="massege inputRequired" rows="5" cols="20" placeholder="Message"></textarea></div>
+    		<div lass="row"> <textarea type="text" name="message" class="massege inputRequired" rows="5" cols="20" placeholder="Message"></textarea></div>
         </div>
+        
+        <div class="row">
+        	<div class="row"><label>Captcha</label></div>
+    		<div lass="row">
+            <div class="grid_40">
+            <input type="text" name="captcha" id="qtxtInput" maxlength="6" autocomplete="off" class="grid_60 captcha inputRequired" placeholder="captcha" data-type="captcha">
+            
+            </div>
+            <div class="grid_60">
+            <span id="qtxtCaptcha" class="txtCaptcha grid_40" style="background-image:url(http://www.hungrybags.com/img/cap_bg.jpg)"></span>
+			<a href="javascript:void(0);" name="btnrefresh" class="mar_l_2" onclick="DrawCaptcha_qcontact();" id="btnrefresh">Refresh</a>
+            </div>
+            </div>
+        </div>
+        
+        
         <div class="row">
         	<div class="row"><label>Confirmation</label></div>
             <div class="row">
@@ -219,13 +243,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div rel="0" id="poupAct" style="display:none;"></div>
 <!-- Google Code for Remarketing Tag -->
 <script type="text/javascript">
+DrawCaptcha_qcontact();
 /* <![CDATA[ */
 var google_conversion_id = 966575981;
 var google_custom_params = window.google_tag_params;
 var google_remarketing_only = true;
 /* ]]> */
 
-setInterval(function(){ quickshow() }, 90000);</script>
+</script>
 <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
 </script>
 <noscript>
@@ -257,7 +282,7 @@ setInterval(function(){ quickshow() }, 90000);</script>
 				<div class="row">
                 	<div class="grid_25">
                 	<div class="row fot_mHead">Company </div>
-					<ul>
+					<ul class="menuf">
                     	<li><a href="#">About us</a></li>
                         <li><a href="http://www.hungrybags.com/ourteam.php">Our Team</a></li>
                         <li><a href="http://www.hungrybags.com/consultants.php">Our Consultants</a></li>
@@ -266,7 +291,7 @@ setInterval(function(){ quickshow() }, 90000);</script>
                 </div>
                     <div class="grid_25">
                         <div class="row fot_mHead">Why Hungrybags</div>
-                            <ul>
+                            <ul class="menuf">
                                 <li><a href="http://www.hungrybags.com/testimonial.html">Testimonials</a></li>
                                 <li><a href="http://www.hungrybags.com/faq.php">FAQs</a></li>
                                 
@@ -274,14 +299,14 @@ setInterval(function(){ quickshow() }, 90000);</script>
                     </div>
                     <div class="grid_25">
                         <div class="row fot_mHead">policies</div>
-                            <ul>
+                            <ul class="menuf">
                                 <li><a href="http://www.hungrybags.com/terms_of_use.php">User Agreement</a></li>
                                 <li><a href="http://www.hungrybags.com/privacy_policy.php">Privacy Policy</a></li>
                             </ul>
                     </div>
                     <div class="grid_25">
                         <div class="row fot_mHead">Help Us</div>
-                            <ul>
+                            <ul class="menuf">
                                 <li><a href="http://www.hungrybags.com/feedback/">Share Feedback</a></li>
                                 <li><a href="#">Contact Us</a></li>
                             </ul>
@@ -317,7 +342,7 @@ setInterval(function(){ quickshow() }, 90000);</script>
             <div class="row pad_b_15"><hr size="1" color="#FFFFFF"></div>
             
             <div class="row text_align_c lh35">
-            	<span class="fnt_size_22 mar_r_30">Join us on: </span>
+            	<span class="fnt_size_22 col_wht mar_r_30">Join us on: </span>
                 <a rel="nofollow" target="_blank" href="http://twitter.com/hungrybags"><span class="fnt_size_35 mar_r_30 fa fa-twitter" style="color:#FFF"> </span></a>
                 <a rel="nofollow" target="_blank" href="http://www.facebook.com/hungrybags"><span class="fnt_size_35 mar_r_30 fa fa-facebook" style="color:#FFF"> </span></a>
                 <a target="_blank" href="https://plus.google.com/+HungryBagsHolidays"><span class="fnt_size_35 mar_r_30 fa fa-google-plus" style="color:#FFF"> </span></a>
@@ -329,6 +354,4 @@ setInterval(function(){ quickshow() }, 90000);</script>
 </footer>
 
 
- 
-
-</body></html>
+ </body></html>
