@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 4ti.in privacy policy that was archived on 2011-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110825124726id_/http%3A//4ti.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4ti.in privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515105417id_/http%3A//4ti.in/privacy.php) for the most accurate reproduction.*
 
-# Url Shortner
+# Advertise, Shorten, Share & Track Your Links With 4ti.in
 
 _This statement was last updated February 26, 2011._
 
@@ -86,4 +86,4 @@ We cannot withhold data we collect about you, as per The Data Protection Act 199
 
 **8\. Contacting Us**
 
-Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy. We welcome any communication via our [contact form](https://web.archive.org/web/20110825124726id_/http%3A//4ti.in/contact.php). 
+Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy. We welcome any communication via our [contact form](https://web.archive.org/web/20160515105417id_/http%3A//4ti.in/contact.php). 
