@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apliiq.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919080029id_/http%3A//www.apliiq.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apliiq.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515053229id_/https%3A//www.apliiq.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Apliiq
 
