@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 4ufreeclassifiedads.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113174024id_/http%3A//www.4ufreeclassifiedads.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4ufreeclassifiedads.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515092315id_/http%3A//www.4ufreeclassifiedads.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
 
-# Antarctica - 4U Free Classifiedads Free Classified Ads Post Free Ads Business Advertising Classifiedads Classifiedads Global Free Classifiedads
+# Cuba - 4U Free Classifiedads Free Classified Ads Post Free Ads Business Advertising Classifiedads Classifiedads Global Free Classifiedads
 
   
 1\. Introduction
