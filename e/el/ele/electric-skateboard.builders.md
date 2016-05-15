@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electric-skateboard.builders privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114061943id_/http%3A//www.electric-skateboard.builders/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electric-skateboard.builders privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515024814id_/http%3A//www.electric-skateboard.builders/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Electric Skateboard Builders Forum | Learn How to Build your own E-board
 
