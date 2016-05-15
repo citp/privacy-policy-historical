@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the newhomeguide.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317100929id_/http%3A//www.newhomeguide.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newhomeguide.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515172718id_/http%3A//www.newhomeguide.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-RentPath, Inc., operator of NewHomeGuide.com, is committed to making your search for a new home as pleasant and successful as possible. Maintaining your privacy is a large part of our commitment. We will never disclose your personally identifiable information to any third party without your consent, except in limited circumstances to our business partners with whom we have established agreements that protect your privacy.
+RentPath, LLC., operator of NewHomeGuide.com, is committed to making your search for a new home as pleasant and successful as possible. Maintaining your privacy is a large part of our commitment. We will never disclose your personally identifiable information to any third party without your consent, except in limited circumstances to our business partners with whom we have established agreements that protect your privacy.
 
 [Click here](https://web.archive.org/do-not-track/) to learn more about how we handle do-not-track signals and user tracking.
 
@@ -36,7 +36,7 @@ Our sites use forms for you to request information, products and services and mo
 
 #### Your Security
 
-RentPath, Inc. has taken the following important measures to protect against loss, misuse or alteration of your personal information. First, we store no financial information or social security information on our site. The personal data we do store on our system is protected by firewall and password. Our network firewall is a combination of hardware and software designed to keep unauthorized users from accessing our network. The password you select, along with your unique email address, prevents others from accessing your information. We suggest that you do not disclose your password to anyone.
+RentPath, LLC. has taken the following important measures to protect against loss, misuse or alteration of your personal information. First, we store no financial information or social security information on our site. The personal data we do store on our system is protected by firewall and password. Our network firewall is a combination of hardware and software designed to keep unauthorized users from accessing our network. The password you select, along with your unique email address, prevents others from accessing your information. We suggest that you do not disclose your password to anyone.
 
 #### Third Party Service Providers
 
@@ -48,11 +48,11 @@ While on NewHomeGuide.com, you may be led to other web sites. Be aware that othe
 
 #### Disclosure
 
-To provide you the best products and services, we team with business partners. When you indicate that you want to receive a product or service, or contact a person or organization, we share the data needed for you to receive what you have indicated. Occasionally, we hire consultants that may need access to our member database to perform their services for us. We take great care to require that these business partners agree by contract not to use any member information that they may receive access to. RentPath, Inc. may contract with outside companies to administer our mailing lists or provide retail services. Your personal information may be shared with an outside company for the sole purpose of administering the products, services and programs you have selected.
+To provide you the best products and services, we team with business partners. When you indicate that you want to receive a product or service, or contact a person or organization, we share the data needed for you to receive what you have indicated. Occasionally, we hire consultants that may need access to our member database to perform their services for us. We take great care to require that these business partners agree by contract not to use any member information that they may receive access to. RentPath, LLC. may contract with outside companies to administer our mailing lists or provide retail services. Your personal information may be shared with an outside company for the sole purpose of administering the products, services and programs you have selected.
 
 #### Choice/Opt-out
 
-RentPath, Inc. provides you the opportunity to opt out of receiving communications from our partners and us. To remove your personal information, users can send a request via the "Comments" feature and by typing "unsubscribe" in the "Additional Comments" section, or unsubscribe via the 'Opt-Out' link that is included at the bottom of every RentPath, Inc. email you receive.
+RentPath, LLC. provides you the opportunity to opt out of receiving communications from our partners and us. To remove your personal information, users can send a request via the "Comments" feature and by typing "unsubscribe" in the "Additional Comments" section, or unsubscribe via the 'Opt-Out' link that is included at the bottom of every RentPath, LLC. email you receive.
 
 #### Correct or Update
 
@@ -60,4 +60,4 @@ You can change or update your personal information for a particular tool by goin
 
 #### Contacting Us
 
-If you have questions or concerns about our privacy policy or if at any time you feel that RentPath, Inc. has not adhered to this policy, send a message through the "Comments" feature of NewHomeGuide.com and we'll do our best to determine any problem and quickly respond.This privacy policy does not extend to any information that is inherent in the operation of the Internet, and therefore beyond the control of RentPath, Inc., and is not to be applied in any manner contrary to applicable law or governmental regulation. We reserve the right at our discretion to make changes to this policy at any time.RentPath, Inc. and its affiliates may disclose your personally identifiable information if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the requirements of the law or comply with governmental orders, court orders, or legal process served on RentPath, Inc. or its affiliates; (2) protect and defend the property or rights of RentPath, Inc., and its affiliates or users.
+If you have questions or concerns about our privacy policy or if at any time you feel that RentPath, LLC. has not adhered to this policy, send a message through the "Comments" feature of NewHomeGuide.com and we'll do our best to determine any problem and quickly respond.This privacy policy does not extend to any information that is inherent in the operation of the Internet, and therefore beyond the control of RentPath, LLC., and is not to be applied in any manner contrary to applicable law or governmental regulation. We reserve the right at our discretion to make changes to this policy at any time.RentPath, LLC. and its affiliates may disclose your personally identifiable information if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the requirements of the law or comply with governmental orders, court orders, or legal process served on RentPath, LLC. or its affiliates; (2) protect and defend the property or rights of RentPath, LLC., and its affiliates or users.
