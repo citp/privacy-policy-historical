@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petruccimusiclibrary.org privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630061855id_/http%3A//imslp.org/wiki/IMSLP%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petruccimusiclibrary.org privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515205921id_/http%3A//imslp.org/wiki/IMSLP%3APrivacy_policy) for the most accurate reproduction.*
 
 # IMSLP:Privacy policy - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music
 
@@ -22,7 +22,7 @@ Available log records, account information, and all data stored on our servers m
 
 #####  Cookies
 
-Cookies are small text files that the Site can send to your browser for storage on your computer's hard drive. They make your use of the Site easier by saving your status and preferences and are refreshed every time you visit. We may use session cookies when you visit our website while your browser is open, or while you are logged into the Site. To facilitate our registration and login functions, we may use cookies to recognize when you return to the Site. If you do not logout of your account, these cookies allow us to keep track of your username and password so that you do not have to resubmit the information to log into your account. If others will be using your computer, you should log out of your account so that your logon information is cleared. Most browser are initially set to accept cookies, but you may be able to change the settings to refuse cookies or to be alerted when cookies are being sent. 
+Cookies are small text files that the Site can send to your browser for storage on your computer's hard drive. They make your use of the Site easier by saving your status and preferences and are refreshed every time you visit. We may use session cookies when you visit our website while your browser is open, or while you are logged into the Site. To facilitate our registration and login functions, we may use cookies to recognize when you return to the Site. If you do not logout of your account, these cookies allow us to keep track of your username and password so that you do not have to resubmit the information to log into your account. If others will be using your computer, you should log out of your account so that your logon information is cleared. Most browsers are initially set to accept cookies, but you may be able to change the settings to refuse cookies or to be alerted when cookies are being sent. 
 
 #####  Children's Privacy
 
