@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pimsleurapproach.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231052532id_/https%3A//www.pimsleurapproach.com/legal/privacy-policy-new) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pimsleurapproach.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515210815id_/http%3A//www.pimsleurapproach.com/legal/privacy-policy-new) for the most accurate reproduction.*
 
 # Privacy Policy | Pimsleur Approach™
 
@@ -6,7 +6,7 @@ This Privacy Policy is Effective as of August 11, 2015.
 
 ## Privacy Practices for Our Website
 
-Internetorderllc.com and pimsleurapproach.com (the "Websites") are Internet properties of Internet Order LLC ("us" or "we"). Your privacy is important to us. This privacy policy is designed to inform you of what information Internet Order LLC collects, why we collect such information and how we use the information we collect (this "Privacy Policy"). If you have any questions about this Privacy Policy, please feel free to contact us at [customercare@pimsleurapproach.com](https://server.iad.liveperson.net/hc/s-61627811/web/ticketpub/msgcontroller.jsp). You agree to this Privacy Policy, in its entirety, when you access or use the Websites or otherwise make a purchase of any Internet Order LLC product (a "Product"). If you do not agree with the terms and conditions of our Privacy Policy, please do not use or access the Website. Additional information about consumer use of the Internet is available via the Federal Trade Commission and at its website, [www.ftc.gov](http://www.ftc.gov/).
+Internetorderllc.com and pimsleurapproach.com (the "Websites") are Internet properties of Internet Order LLC ("us" or "we"). Your privacy is important to us. This privacy policy is designed to inform you of what information Internet Order LLC collects, why we collect such information and how we use the information we collect (this "Privacy Policy"). If you have any questions about this Privacy Policy, please feel free to contact us at [customercare@pimsleurapproach.com](mailto:customercare@pimsleurapproach.com). You agree to this Privacy Policy, in its entirety, when you access or use the Websites or otherwise make a purchase of any Internet Order LLC product (a "Product"). If you do not agree with the terms and conditions of our Privacy Policy, please do not use or access the Website. Additional information about consumer use of the Internet is available via the Federal Trade Commission and at its website, [www.ftc.gov](http://www.ftc.gov/).
 
 ## Personally Identifiable Information
 
@@ -24,7 +24,7 @@ If you provide Internet Order LLC with PII, this information may be used to comm
 
 If you place an order with Internet Order LLC, in addition to the uses set forth above, we will use your PII to confirm your order, prevent and detect fraud or abuse, respond to your requests or inquiries, provide you with other administrative information regarding your order, review for errors omissions and accuracy, and provide you with any other information we deem helpful or interesting to you.
 
-If you do not want to receive communications from Internet Order LLC, you may elect to opt-out of receiving such communications by: (1) e-mail "unsubscribe" to [customercare@pimsleurapproach.com](https://server.iad.liveperson.net/hc/s-61627811/web/ticketpub/msgcontroller.jsp) or (2) make your request in person by contacting us at [866-204-7139](tel:866-204-7139). If you wish a third-party to stop communicating with you, please follow that party's un-subscribe procedures.
+If you do not want to receive communications from Internet Order LLC, you may elect to opt-out of receiving such communications by: (1) e-mail "unsubscribe" to [customercare@pimsleurapproach.com](mailto:customercare@pimsleurapproach.com) or (2) make your request in person by contacting us at [866-204-7139](tel:866-204-7139). If you wish a third-party to stop communicating with you, please follow that party's un-subscribe procedures.
 
 ## Non-Personally Identifiable Information 
 
@@ -56,16 +56,16 @@ Changes to this Privacy Policy and Notification of Changes:–Internet Order LLC
 
 ## Changing or Deleting your PII
 
-If the PII Internet Order LLC has received from you changes or you would like to revise such information, we will gladly correct or update any personal data you have previously provided to us. To request a change or update to your personal information, please send an e-mail to [customercare@pimsleurapproach.com](https://server.iad.liveperson.net/hc/s-61627811/web/ticketpub/msgcontroller.jsp) or contact us at [866-204-7139](tel:866-204-7139). If you would like us to delete any PII that you have provided to us on our Website, please send your request to us at [customercare@pimsleurapproach.com](https://server.iad.liveperson.net/hc/s-61627811/web/ticketpub/msgcontroller.jsp) and we will process your request, where possible, and subject to the terms and conditions of this Privacy Policy within a reasonable period of time after receipt.
+If the PII Internet Order LLC has received from you changes or you would like to revise such information, we will gladly correct or update any personal data you have previously provided to us. To request a change or update to your personal information, please send an e-mail to [customercare@pimsleurapproach.com](mailto:customercare@pimsleurapproach.com) or contact us at [866-204-7139](tel:866-204-7139). If you would like us to delete any PII that you have provided to us on our Website, please send your request to us at [customercare@pimsleurapproach.com](mailto:customercare@pimsleurapproach.com) and we will process your request, where possible, and subject to the terms and conditions of this Privacy Policy within a reasonable period of time after receipt.
 
 ## Contacting the Website
 
-If you have any questions about this Privacy Policy or the practices of Internet Order, LLC, please feel free to contact us at [customercare@pimsleurapproach.com](https://server.iad.liveperson.net/hc/s-61627811/web/ticketpub/msgcontroller.jsp), or via postal mail at:
+If you have any questions about this Privacy Policy or the practices of Internet Order, LLC, please feel free to contact us at [customercare@pimsleurapproach.com](mailto:customercare@pimsleurapproach.com), or via postal mail at:
 
 Internet Order LLC  
 Attn: Privacy Officer  
-1600 JFK Boulevard  
-3rd Floor  
+100 N. 18th Street  
+Suite 820  
 Philadelphia, PA 19103
 
-We want to communicate with you only if you want to hear from us. To opt out of receiving communications from Internet Order LLC: (1) e-mail "unsubscribe" to [customercare@pimsleurapproach.com](https://server.iad.liveperson.net/hc/s-61627811/web/ticketpub/msgcontroller.jsp) or (2) make your request in person by contacting us at [866-204-7139](tel:866-204-7139).
+We want to communicate with you only if you want to hear from us. To opt out of receiving communications from Internet Order LLC: (1) e-mail "unsubscribe" to [customercare@pimsleurapproach.com](mailto:customercare@pimsleurapproach.com) or (2) make your request in person by contacting us at [866-204-7139](tel:866-204-7139).
