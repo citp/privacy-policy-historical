@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the manticoretechnology.com privacy policy that was archived on 2015-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150220012359id_/http%3A//www.salesenginemedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manticoretechnology.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515203022id_/http%3A//www.salesenginemedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Sales Engine - B2B Lead Generation
+# Privacy Policy — Sales Engine Media
 
 For the Sales Engine corporate site and for our online software services, we leverage our own SaaS product, the Manticore marketing automation platform, to analyze traffic on our website.
 
