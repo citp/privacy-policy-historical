@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bozemandailychronicle.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114182936id_/http%3A//www.bozemandailychronicle.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bozemandailychronicle.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515024605id_/http%3A//www.bozemandailychronicle.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | bozemandailychronicle.com
 
@@ -53,17 +53,3 @@ In certain jurisdictions, you may have the right to receive: a) information iden
 From time to time, and without notice, the Company may revise the policies set out herein. The effective date of the current policy is set out below the title and all users our the Company’s websites are bound to the terms and conditions in effect as of the date of use.
 
 If you have any questions or comments about our policies, we may be reached at Mark Cohen, Pioneer Newspapers, Inc., 221 First Avenue West, Suite 405, Seattle, WA 98119; tel. 206-284-4424.
-
-1000 S.F. 2BR, 1BA, Apt. garage, w/d hkps. No pets, N/S. W/T paid. $750 +utils. 579-4701
-
-ALLOW US TO MANAGE YOUR RENTAL PROPERTY. Your partner in property management. Call Steve Cichon for a free consult. Property Partners of MT 587-9004 www.PropertyPartnersMT.com
-
-BOZEMAN OFFICE SPACE $10/sqft GROSS lease to start 1,600 SQFT w/ ample parking Call or text/Arison KWMTRE (406) 570-0632
-
-Luxury Apartment ***Available Now *** 1652 Tempest Court Starting at $1500/mo. including rent incentives w/a 1 yr. lease. High Quality Construction Spacious 2 BED & 2 BATH, OVER 1100 sq.ft. With many Luxury Upgrades: -Keypad Entry & Video Surveillance for added security -Stainless St…
-
-1,000 SF and 720 SF Warehouses w/ Power, $450 or $550 Growers, Belgrade. Call 406-580-5816
-
-Exclusive Legends at Bridger Creek phase 3 lots available. Lots are backed by Bridger Creek, open space & unobstructed views of the Bridger mountains. Custom homes to be built by Ebbighausen Homes Inc. Rare opportunity - last building lots along Bridger Creek. Call 539-6862 or 581-9660
-
-BOZEMAN OFFICE SPACE $10/sqft GROSS lease to start 1,600 SQFT w/ ample parking Call or text/Arison KWMTRE (406) 570-0632
