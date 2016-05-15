@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpzerobounce.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222172142id_/http%3A//wpzerobounce.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpzerobounce.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515223615id_/http%3A//wpzerobounce.com/privacy.html) for the most accurate reproduction.*
 
 # ZeroBounce JV Privacy
 
