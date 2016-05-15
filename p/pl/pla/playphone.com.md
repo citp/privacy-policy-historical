@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playphone.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114131952id_/http%3A//playphone.com/legal/terms%3Ftype%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playphone.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515200937id_/http%3A//www.playphone.com/legal/terms%3Ftype%3Dprivacy) for the most accurate reproduction.*
 
 # Mobile Game Developer Social Privacy Policy | PlayPhone Inc
 
