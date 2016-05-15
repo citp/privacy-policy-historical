@@ -1,39 +1,47 @@
-> *The following text is extracted and transformed from the acumatica.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921154004id_/http%3A//www.acumatica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acumatica.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515175601id_/http%3A//www.acumatica.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Cloud ERP Software
 
-**NOTICE TO USERS OF THIS SITE:**
+**Acumatica Privacy Statement**
 
-By continuing to use this site, you certify that you have read and agree to abide by Acumatica, Inc. [Terms of Use](http://www.acumatica.com/default/terms-of-use). Any users of this site who state that they work for Acumatica are deemed to be doing so solely for identification purposes. All information, data, text, software or other materials (“Content”) posted to this site by any users are the sole responsibility of those users. Acumatica does not guarantee the accuracy, integrity, or quality of such Content. Posting a name in a discussion forum places that personal information into a public forum.
+**Last Updated November 12, 2015**
 
-Other relevant policies:  
-[End of Life Policy Statement](http://www.acumatica.com/default/end-of-life-policy-statement/)  
- 
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices.
 
-* * *
+**Policy**
 
-**EMAIL PRIVACY:**
+Acumatica, Inc., a Washington Company (“Acumatica”) will never sell, rent, barter, trade, distribute or lease personally identifiable information to outside parties unless Acumatica obtains customer permission or disclosure is required by law.
 
-**Why did you receive a mailing from us?**
+**Purpose**
 
-Our email marketing is compliant with CAN-SPAM laws in the USA. If you received a mailing from us, our records indicate that (a) you have expressly shared this address for the purpose of receiving information in the future (“opt-in”), or (b) you have registered or purchased or otherwise have an existing relationship with one of our marketing partners. We respect your time and attention by controlling the frequency of our mailings.
+Acumatica uses the information customers provide only to the extent necessary to offer our services to our customers. Acumatica uses return email addresses to answer the email Acumatica receives. Such addresses are not used for any other purpose and are not shared with outside parties.  The only individually identifiable information that Acumatica collects about you is that which you choose to share with us in registration. As stated earlier, this information will be closely protected and used for internal purposes only. Acumatica will never willfully release your personal information to any third party unless you direct us to do so or disclosure is required by law.
 
-If you believe you have received unwanted, unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to info@acumatica.com for review.
+Acumatica also collects information about aggregate site usage. Statistics that we gather about unique visits, repeat visits and page views are all based on IP address, not on your individual activities.
 
-**How can you stop receiving email from us?**
+**Cookies**
 
-Each email sent contains an easy, automated way for you to cease receiving email from us, or to change your expressed interests. If you wish to do this, simply follow the links at the bottom of any email.
+There is a technology called “cookies” which can be used to provide tailored information from a web site. A cookie is an element of data that a web site can send to your browser, which may then be stored on your system. A “cookie” marks and identifies visitors on an Internet site to allow customers to enter customized information and have it available on subsequent visits. Acumatica pages may use cookies so that Acumatica can provide a customer with access to information when a customer returns to Acumatica’ web site.
 
-**How we protect your privacy**
+Although there has been debate over the privacy implications of cookies, it is important for Acumatica customers to know that cookies do not read your hard rive, nor can cookies be used to reveal new information about you that you have not elected to reveal.  Acumatica may also use cookies to log your activity on the site. Everything Acumatica learns from these logs will be used to enrich your experience on our site. It will help Acumatica understand what you like and don’t like, so Acumatica can focus its energies more effectively and provide you with better data.
 
-We use appropriate security measures to protect against the loss, misuse and alteration of data used by our system.
+** ** **Security**
 
-**Sharing and Usage**
+Acumatica is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, which are located in controlled facilities.
 
-We will never share, sell, or rent individual personal information with anyone for their promotional use without your advance permission or unless ordered by a court of law. Information submitted to us is only available to employees managing this information for purposes of contacting you or sending you emails based on your request for information.
+If a password is used to help protect your accounts and personal information, it is your responsibility to keep your password confidential. Do not share this information with anyone. If you are sharing a computer with anyone you should always choose to log out before leaving a site or service to protect access to your information from subsequent users.
 
-**Use of Web Beacons**
+**Opt-Out**
 
-When we send you emails, we may include a web beacon to allow us to determine the number of people who open our emails. When you click on a link in an email, we may record this individual response to allow us to customize our offerings to you. Web beacons collect only limited information, such as a cookie identifier, time and date of a page being viewed, and a description of the page on which the Web Beacon resides (the URL).
+To opt out of receiving marketing related communications from Acumatica, please click on the “opt-out” link in the communication. Please note that if you do opt-out of receiving marketing- related emails from us, we may still send you important administrative messages, and you cannot opt-out from receiving administrative messages.
 
-Web Beacons can be refused when delivered via email. If you do not wish to receive Web Beacons via email, you will need to disable HTML images or refuse HTML (select Text only) emails via your email software.
+**Changes to This Privacy Statement**
+
+We will occasionally update this privacy statement to reflect changes in our services and customer feedback. When we post changes to this Statement, we will revise the “last updated” date at the top of this statement. If there are material changes to this statement or in how Acumatica will use your personal information, we will notify you either by prominently posting a notice of such changes prior to implementing the change or by directly sending you a notification. We encourage you to periodically review this statement to be informed of how Acumatica is protecting your information.
+
+**Contacting Us**
+
+Acumatica welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please contact us at:
+
+Acumatica Privacy, Acumatica, Inc., 4030 Lake Washington Blvd NE, Suite 100, Kirkland, WA 98033
+
+© 2015 Acumatica, Inc. All rights reserved.
