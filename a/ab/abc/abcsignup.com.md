@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abcsignup.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113003834id_/http%3A//www.abcsignup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcsignup.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515110324id_/http%3A//www.abcsignup.com/privacy) for the most accurate reproduction.*
 
 # Registration Software | Privacy | ABC Signup
 
