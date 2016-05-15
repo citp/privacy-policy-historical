@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the napacabs.com privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917080018id_/http%3A//www.napacabs.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the napacabs.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515084847id_/http%3A//www.napacabs.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy
 
 This privacy policy sets out how Napacabs.com uses and protects any information that you give Napacabs.com when you use this website. Napacabs.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Napacabs.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
-[Please read our Conditions of Use](http://www.designyourwinelabel.com/conditions-of-use)
+[Please read our Conditions of Use](http://www.napacabs.com/customer-service/)
 
 ## What we collect
 
@@ -51,7 +51,7 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at sales@napacabs.com
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at support@napacabs.com
 
 
 
@@ -67,31 +67,31 @@ The table below lists the cookies we collect and what information they store.
 
 COOKIE name| COOKIE Description  
 ---|---  
-CART | The association with your shopping cart.  
-CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
-COMPARE | The items that you have in the Compare Products list.  
-CURRENCY | Your preferred currency  
-CUSTOMER | An encrypted version of your customer id with the store.  
-CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
-CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
-CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
-EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
-FRONTEND | You sesssion ID on the server.  
-GUEST-VIEW | Allows guests to edit their orders.  
-LAST_CATEGORY | The last category you visited.  
-LAST_PRODUCT | The most recent product you have viewed.  
-NEWMESSAGE | Indicates whether a new message has been received.  
-NO_CACHE | Indicates whether it is allowed to use cache.  
-PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
-POLL | The ID of any polls you have recently voted in.  
-POLLN | Information on what polls you have voted on.  
-RECENTLYCOMPARED | The items that you have recently compared.  
-STF | Information on products you have emailed to friends.  
-STORE | The store view or language you have selected.  
-USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
-VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
-WISHLIST | An encrypted list of products added to your Wishlist.  
-WISHLIST_CNT | The number of items in your Wishlist.  
+CART| The association with your shopping cart.  
+CATEGORY_INFO| Stores the category info on the page, that allows to display pages more quickly.  
+COMPARE| The items that you have in the Compare Products list.  
+CURRENCY| Your preferred currency  
+CUSTOMER| An encrypted version of your customer id with the store.  
+CUSTOMER_AUTH| An indicator if you are currently logged into the store.  
+CUSTOMER_INFO| An encrypted version of the customer group you belong to.  
+CUSTOMER_SEGMENT_IDS| Stores the Customer Segment ID  
+EXTERNAL_NO_CACHE| A flag, which indicates whether caching is disabled or not.  
+FRONTEND| You sesssion ID on the server.  
+GUEST-VIEW| Allows guests to edit their orders.  
+LAST_CATEGORY| The last category you visited.  
+LAST_PRODUCT| The most recent product you have viewed.  
+NEWMESSAGE| Indicates whether a new message has been received.  
+NO_CACHE| Indicates whether it is allowed to use cache.  
+PERSISTENT_SHOPPING_CART| A link to information about your cart and viewing history if you have asked the site.  
+POLL| The ID of any polls you have recently voted in.  
+POLLN| Information on what polls you have voted on.  
+RECENTLYCOMPARED| The items that you have recently compared.  
+STF| Information on products you have emailed to friends.  
+STORE| The store view or language you have selected.  
+USER_ALLOWED_SAVE_COOKIE| Indicates whether a customer allowed to use cookies.  
+VIEWED_PRODUCT_IDS| The products that you have recently viewed.  
+WISHLIST| An encrypted list of products added to your Wishlist.  
+WISHLIST_CNT| The number of items in your Wishlist.  
   
   
 NapaCabs.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting NapaCabs.com, you are accepting the practices described in this Privacy Notice.
@@ -105,23 +105,23 @@ The information we learn from customers helps us personalize and continually imp
 
 E-mail Communications: To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from NapaCabs.com if your computer supports such capabilities.
 
-## **Does NapaCabs.com Share the Information It Receives?**
+##  **Does NapaCabs.com Share the Information It Receives?**
 
 Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only with the subsidiaries NapaCabs.com and NapaCabs, Inc., controls and as described below. 
 
 Business Transfers: As we continue to develop our business, we might sell or buy stores or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that NapaCabs.com or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
 
-**Protection of NapaCabs.com and Others:** We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of NapaCabs.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+ **Protection of NapaCabs.com and Others:** We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of NapaCabs.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
-**With Your Consent:** Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
+ **With Your Consent:** Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
 
-## **What Information Can I Access?**
+##  **What Information Can I Access?**
 
 NapaCabs.com gives you access to the following information about you for the limited purpose of viewing and, in certain cases, updating that information. This list will change as our Web site evolves.
 
-## **Your Account**
+##  **Your Account**
 
-**Your Wish List  
+ **Your Wish List  
 What Choices Do I Have? **  
 As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such NapaCabs.com features as Wish Lists.
 
@@ -134,7 +134,7 @@ If you do not want to receive e-mail or other mail from us. (If you do not want 
   
 The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
 
-**  
+ **  
 Children**  
 NapaCabs.com does not sell products for purchase by children. If you are under 21, you may use NapaCabs.com only with involvement of a parent or guardian to purchase non-alcohol gifts and accessories.
 
@@ -148,5 +148,5 @@ If you choose to visit NapaCabs.com, your visit and any dispute over privacy is 
 
 Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type and version, operating system, and platform; purchase history; the full Uniform Resource Locators (URL) clickstream to, through, and from our Web site, including date and time; cookie number; products you viewed or searched for and phone number used to call our 800 number.
 
-**  
+ **  
 Send mail to Support with questions or comments about this web site.**
