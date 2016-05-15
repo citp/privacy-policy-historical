@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joovy.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120010910id_/http%3A//www.joovy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joovy.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516005343id_/http%3A//joovy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,7 +46,7 @@ We utilize encryption/security best practices to safeguard the confidentiality o
 
 Communication Opt Out
 
-If you wish to opt out of receiving offers directly from Joovy, you can unsubscribe by following the opt-out instructions in the emails that they send you located at the footer of the communication. We can be reached by postal mail at 15281 Barranca Pkwy Suite H, Irvine, CA, 92618 or by phone at 877-456-5049. You can email us at greg@joovy.com with questions, comments or suggestions.
+If you wish to opt out of receiving offers directly from Joovy, you can unsubscribe by following the opt-out instructions in the emails that they send you located at the footer of the communication. We can be reached by postal mail at 2919 Canton Street, Dallas, TX 75226 or by phone at 877-456-5049. You can email us at customerservice@joovy.com with questions, comments or suggestions.
 
 Do We Disclose Information to Outside Parties?
 
