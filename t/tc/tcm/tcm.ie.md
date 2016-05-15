@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tcm.ie privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117190426id_/http%3A//www.eveningecho.ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcm.ie privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515091257id_/http%3A//www.eveningecho.ie/privacy-policy) for the most accurate reproduction.*
 
-# Evening Echo — Privacy Policy
+# Privacy Policy
 
 The Evening Echo has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: http://www.eveningecho.ie.
 
