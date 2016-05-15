@@ -1,19 +1,21 @@
-<!--The following is the downloaded HTML source of the supplyon.com privacy policy that was archived on 2014-01-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140108165720id_/http%3A//supplyon.com/en/privacy_notice.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the supplyon.com privacy policy that was archived on 2016-05-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160515021634id_/http%3A//www.supplyon.com/en/privacy_notice.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
-		<base href="http://supplyon.com/">
+	<meta http-equiv="X-UA-Compatible" content="IE=9">
+
+		<base href="http://www.supplyon.com/">
 	
 	<title>SupplyOn - Privacy Notice</title>
 		
-	<link rel="canonical" href="http://supplyon.com/en/privacy_notice.html">
+	<link rel="canonical" href="http://www.supplyon.com/en/privacy_notice.html">
 	<meta name="robots" content="index,follow">
 
 	
 <!--
 	This website is powered by StormCMS (StormCMS/2 with C5)
-	StormCMS is copyright 1999-2014 of Stefan Mateescu - http://www.stormcms.net
+	StormCMS is copyright 1999-2016 of Stefan Mateescu - http://www.stormcms.net
 -->
 
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -22,70 +24,102 @@
 	
 	
 
-	<link rel="StyleSheet" href="http://supplyon.com/c5thirdparty/bootstrap/css/bootstrap.min.css" type="text/css">
-	<link rel="StyleSheet" href="http://supplyon.com/c5thirdparty/font-awesome/css/font-awesome.min.css" type="text/css">
-	<link rel="StyleSheet" href="http://supplyon.com/site2013/main.css" type="text/css">
-	<link rel="StyleSheet" href="http://supplyon.com/site2013/print.css" type="text/css" media="print">
+	<link rel="StyleSheet" href="http://www.supplyon.com/c5thirdparty/bootstrap/css/bootstrap.min.css" type="text/css">
+	<link rel="StyleSheet" href="http://www.supplyon.com/c5thirdparty/font-awesome/css/font-awesome.min.css" type="text/css">
+	<link rel="StyleSheet" href="http://www.supplyon.com/site2013/main.css" type="text/css">
+	<link rel="StyleSheet" href="http://www.supplyon.com/site2013/print.css" type="text/css" media="print">
 	<script type="text/javascript" src="./c5thirdparty/jquery/jquery-1.9.1.min.js"></script>
-	<link rel="SHORTCUT ICON" href="http://supplyon.com/img/supplyon_favicon_16.ico">
+	<link rel="SHORTCUT ICON" href="http://www.supplyon.com/img/supplyon_favicon_16.ico">
 
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 	<style>
 		.container{
 		  max-width: none !important;
 		  width: 940px;
-		}	
+		}
 	</style>
-	
+
 	<link rel="stylesheet" href="c5thirdparty/jquery/colorbox/example4/colorbox.css" type="text/css">
 	<script type="text/javascript" src="c5thirdparty/jquery/colorbox/jquery.colorbox-min.js"></script>
-	
+
 	<script>
-	
+
 		jQuery(function() {
 			supoResizeJsSpacer2013();
 			jQuery('DIV#c5control').hide();
 			jQuery('DIV#c5debug').hide();
 		});
-	
+
+		// placeholder-polyfill
+		jQuery(document).ready(function() {
+			if ( !("placeholder" in document.createElement("input")) ) {
+				jQuery("input[placeholder], textarea[placeholder]").each(function() {
+					var val = jQuery(this).attr("placeholder");
+					if ( this.value == "" ) {
+						this.value = val;
+					}
+					jQuery(this).focus(function() {
+						if ( this.value == val ) {
+							this.value = "";
+						}
+					}).blur(function() {
+						if ( jQuery.trim(this.value) == "" ) {
+							this.value = val;
+						}
+					})
+				});
+				// Clear default placeholder values on form submit
+				jQuery('form').submit(function() {
+					jQuery(this).find("input[placeholder], textarea[placeholder]").each(function() {
+						if ( this.value == jQuery(this).attr("placeholder") ) {
+							this.value = "";
+						}
+					});
+				});
+			}
+		});
+
 	</script>
-	
+
 </head>
 
 <body onload="">
 
 	<!-- TPL2013 START -->
-	
+
 	<div id="supo-upper">
-	
-				
+
+		
 		<div id="supo-bluehead" class="supo-outer-container supo-headblue supo-smooth-shadow-below supo-specialnav">
 			<div class="supo-inner-container container" style="position:relative;">
 
 				<div class="pull-left" style="padding-right:5px;position:relative">
 					<a href="javascript:;" class="supo-languageselect" onmousemove="supoMouseoverLangs()" onclick="supoShowLangs()" onmouseenter="supoMouseoverLangs()" onmouseout="supoMouseoutLangs()">Language &nbsp;&nbsp;&nbsp;<i onmousemove="supoMouseoverLangs()" onmouseenter="supoMouseoverLangs()" onmouseout="supoMouseoutLangs()" class="fa fa-chevron-down"></i></a>
 					<div id="supo-langselectoverlay" onmousemove="supoMouseoverLangs()" onmouseenter="supoMouseoverLangs()" onmouseout="supoMouseoutLangs()">
-					<a style="color:black" href="http://supplyon.com/cn/privacy_notice.html">中国的</a><br><a style="color:black" href="http://supplyon.com/de/datenschutzhinweise.html">Deutsch</a><br><span style="color:#a0a0a0; font-weight:bold">English</span><br><a style="color:black" href="http://supplyon.com/es/privacy_notice.html">Español</a><br><a style="color:black" href="http://supplyon.com/fr/privacy_notice.html">Français</a><br><a style="color:black" href="http://supplyon.com/it/privacy_notice.html">Italiano</a><br><a style="color:black" href="http://supplyon.com/jp/privacy_notice.html">日本の</a><br><a style="color:black" href="http://supplyon.com/ko/privacy_notice.html">한국의</a><br><a style="color:black" href="http://supplyon.com/pt/privacy_notice.html">Português</a><br>					</div>
+					<a style="color:black" href="http://www.supplyon.com/cn/privacy_notice.html">中文</a><br><a style="color:black" href="http://www.supplyon.com/de/datenschutzhinweise.html">Deutsch</a><br><span style="color:#a0a0a0; font-weight:bold">English</span><br><a style="color:black" href="http://www.supplyon.com/es/privacy_notice.html">Español</a><br><a style="color:black" href="http://www.supplyon.com/fr/privacy_notice.html">Français</a><br><a style="color:black" href="http://www.supplyon.com/it/privacy_notice.html">Italiano</a><br><a style="color:black" href="http://www.supplyon.com/jp/privacy_notice.html">日本語</a><br><a style="color:black" href="http://www.supplyon.com/ko/privacy_notice.html">한국의</a><br><a style="color:black" href="http://www.supplyon.com/pt/privacy_notice.html">Português</a><br>					</div>
 				</div>
-				
+
 				<div class="pull-left" style="padding-right:16px">
-										<form action="http://supplyon.com/en/search.html" method="get" style="display:inline">
+										<form action="http://www.supplyon.com/en/search.html" method="get" style="display:inline">
 						<input type="hidden" name="c5p" value="2578">
 						<input type="hidden" name="c5l" value="en">
 						<input type="text" name="q" class="supo-suche" placeholder="Search">
 						<div style="position:absolute;top:-100px;left:-10px;width:1px;height:1px;overflow:hidden;"><input type="submit"></div>
 					</form>
-				</div> 
-				
-				<div class="pull-left" style="padding:0 16px"><a href="http://supplyon.com/en/home.html" class="">Home</a></div><div class="pull-left" style="padding:0 16px"><a href="http://supplyon.com/en/about_us.html" class="">About Us</a></div><div class="pull-left" style="padding:0 16px"><a href="http://supplyon.com/en/supplyon_career.html" class="">Career</a></div><div class="pull-left" style="padding:0 16px"><a href="http://supplyon.com/en/contact.html" class="">Contact</a></div>									<div class="pull-right"><a href="https://platform.application.prd.supplyon.com/social" class="supo-login-button">LOGIN</a></div>
-				 
-			</div>
+				</div>
+
+				<div class="pull-left" style="padding:0 16px"><a href="http://www.supplyon.com/en/home.html" class="">Home</a></div><div class="pull-left" style="padding:0 16px"><a href="http://www.supplyon.com/en/supplyon_career.html" class="">Career</a></div><div class="pull-left" style="padding:0 16px"><a href="http://www.supplyon.com/en/contact.html" class="">Contact</a></div><div class="pull-left" style="padding:0 16px"><a href="http://www.supplyon.com/en/about_us.html" class="">About Us</a></div><div class="pull-left" style="padding:0 16px"><a href="http://blog.supplyon.com/en/" target="_blank">Blog</a></div>									<div class="pull-right"><a href="https://platform.application.prd.supplyon.com/social" class="supo-login-button">LOGIN</a></div>
+							</div>
 		</div>
-		
+
 		<div class="supo-outer-container supo-mainnav" style="height:70px">
 			<div id="supo-realnav" class="supo-inner-container container">
-				<div id="nav1elem-2368" class="pull-left" style="height:70px; padding:0 16px; padding-left:0; margin-right:1px;  border-right:1px solid #eaeaea;">
+				<div id="nav1elem-2371" class="pull-left" style="height:70px; padding:0 16px; padding-left:0; margin-right:1px;  border-right:1px solid #eaeaea;">
+								<table cellspacing="0" cellpadding="0" border="0">
+								<tbody><tr><td style="height:70px" align="center" valign="middle"><a href="http://www.supplyon.com/en/customers.html" onclick="" class="">CUSTOMERS</a></td></tr>
+								</tbody></table>
+							</div><div id="nav1elem-2368" class="pull-left" style="height:70px; padding:0 16px;  margin-right:1px; border-left:1px solid #eaeaea; border-right:1px solid #eaeaea;">
 								<table cellspacing="0" cellpadding="0" border="0">
 								<tbody><tr><td style="height:70px" align="center" valign="middle"><a href="javascript:;" onclick="supoToggleNav(2368)" class="">SOLUTIONS</a></td></tr>
 								</tbody></table>
@@ -97,47 +131,42 @@
 								<table cellspacing="0" cellpadding="0" border="0">
 								<tbody><tr><td style="height:70px" align="center" valign="middle"><a href="javascript:;" onclick="supoToggleNav(2370)" class="">CONSULTING</a></td></tr>
 								</tbody></table>
-							</div><div id="nav1elem-2371" class="pull-left" style="height:70px; padding:0 16px;  margin-right:1px; border-left:1px solid #eaeaea; border-right:1px solid #eaeaea;">
-								<table cellspacing="0" cellpadding="0" border="0">
-								<tbody><tr><td style="height:70px" align="center" valign="middle"><a href="http://supplyon.com/en/customers.html" onclick="" class="">CUSTOMERS</a></td></tr>
-								</tbody></table>
 							</div><div id="nav1elem-2372" class="pull-left" style="height:70px; padding:0 16px;  margin-right:1px; border-left:1px solid #eaeaea; border-right:1px solid #eaeaea;">
 								<table cellspacing="0" cellpadding="0" border="0">
-								<tbody><tr><td style="height:70px" align="center" valign="middle"><a href="http://supplyon.com/en/training.html" onclick="" class="">TRAINING</a></td></tr>
+								<tbody><tr><td style="height:70px" align="center" valign="middle"><a href="http://www.supplyon.com/en/training.html" onclick="" class="">TRAINING</a></td></tr>
 								</tbody></table>
 							</div><div id="nav1elem-2373" class="pull-left" style="height:70px; padding:0 16px;  margin-right:1px; border-left:1px solid #eaeaea; ">
 								<table cellspacing="0" cellpadding="0" border="0">
 								<tbody><tr><td style="height:70px" align="center" valign="middle"><a href="javascript:;" onclick="supoToggleNav(2373)" class="">SUPPLYON FOR<br> SUPPLIERS</a></td></tr>
 								</tbody></table>
-							</div>				<div class="pull-right"><a href="http://supplyon.com/en/home.html"><img src="site2013/logo_supplyon.png"></a></div>
+							</div>				<div class="pull-right"><a href="http://www.supplyon.com/en/home.html"><img src="site2013/logo_supplyon.png"></a></div>
 			</div>
 		</div>
-				
+
 		<div id="supo-subnav" class="supo-outer-container supo-subnav supo-smooth-shadow-below">
 			<div class="supo-inner-container container" style="padding-top:10px">
 				<div id="subnav2368" class="supo-subnavdiv" style="width:940px; ">
-			<div style="float:left; width:140px; text-align:left; "><h3><a style="font-size:16px" href="http://supplyon.com/en/solutions.html">SOLUTIONS</a></h3></div>
-			<div style="margin-left:180px"><div style="float:left; width:251px; text-align:left; "><h3><a href="http://supplyon.com/en/strategic_procurement.html">Strategic procurement</a></h3><ul class="supo-blue" style="padding-left:15px;"><li><a class="" href="http://supplyon.com/en/supplier_master_data_management.html">Supplier master data management</a></li><li><a class="" href="http://supplyon.com/en/proposal_processes.html">Proposal processes</a></li><li><a class="" href="http://supplyon.com/en/document_management.html">Document management</a></li></ul></div><div style="float:left; width:251px; text-align:left; "><h3><a href="http://supplyon.com/en/operational_procurement.html">Operational procurement</a></h3><ul class="supo-blue" style="padding-left:15px;"><li><a class="" href="http://supplyon.com/en/requirement_processes.html">Classic requirement processes</a></li><li><a class="" href="http://supplyon.com/en/vendor-managed-inventory.html">Vendor Managed Inventory</a></li><li><a class="" href="http://supplyon.com/en/kanban.html">Kanban</a></li><li><a class="" href="http://supplyon.com/en/financial_processes.html">Operational financial processes</a></li><li><a class="" href="http://supplyon.com/en/supply-chain-monitoring.html">Supply Chain Monitoring</a></li></ul></div><div style="float:left; width:251px; text-align:left; "><h3><a href="http://supplyon.com/en/supplier_risk_and_performance_management.html">Supplier Risk and Performance Management</a></h3><ul class="supo-blue" style="padding-left:15px;"><li><a class="" href="http://supplyon.com/en/compliance_management.html">Compliance Management</a></li><li><a class="" href="http://supplyon.com/en/certificate_management.html">Certificate management</a></li><li><a class="" href="http://supplyon.com/en/supplier_evaluation.html">Supplier evaluation</a></li><li><a class="" href="http://supplyon.com/en/supplier_development.html">Supplier development</a></li><li><a class="" href="http://supplyon.com/en/supply_chain_monitoring.html">Supply Chain Monitoring</a></li></ul></div><div style="clear:both"></div><div style="float:left; width:251px; text-align:left; "><h3><a href="http://supplyon.com/en/quality_improvement.html">Quality improvement</a></h3><ul class="supo-blue" style="padding-left:15px;"><li><a class="" href="http://supplyon.com/en/advanced-product-quality-planning.html">Advanced Product Quality Planning</a></li><li><a class="" href="http://supplyon.com/en/initial_sampling.html">Initial sampling</a></li><li><a class="" href="http://supplyon.com/en/complaint_management.html">Complaint management (8D)</a></li><li><a class="" href="http://supplyon.com/en/concessions.html">Concessions</a></li><li><a class="" href="http://supplyon.com/en/action_management.html">Action plan management</a></li></ul></div><div style="float:left; width:251px; text-align:left; "><h3><a href="http://supplyon.com/en/transportation-management.html">Transport Management</a></h3><ul class="supo-blue" style="padding-left:15px;"><li><a class="" href="http://supplyon.com/en/inbound-logistics.html">Inbound logistics</a></li><li><a class="" href="http://supplyon.com/en/outbound-logistics.html">Outbound logistics</a></li><li><a class="" href="http://supplyon.com/en/container-management.html">Container management</a></li></ul></div><div style="float:left; width:251px; text-align:left; "><h3><a href="http://supplyon.com/en/airsupply.html">AirSupply</a></h3><ul class="supo-blue" style="padding-left:15px;"></ul></div><div style="clear:both"></div></div>
+			<div style="float:left; width:140px; text-align:left; "><h3><a style="font-size:16px" href="http://www.supplyon.com/en/solutions.html">SOLUTIONS</a></h3></div>
+			<div style="margin-left:180px"><div style="float:left; width:251px; text-align:left; "><h3><a href="http://www.supplyon.com/en/transportation-management.html">Transport management</a></h3><ul class="supo-blue" style="padding-left:15px;"><li><a class="" href="http://www.supplyon.com/en/container-management.html">Container management</a></li><li><a class="" href="http://www.supplyon.com/en/fright-cost-calculation.html">Freight cost calculation </a></li><li><a class="" href="http://www.supplyon.com/en/dock-management_slot-management.html">Dock-/Slot-Management</a></li><li><a class="" href="http://www.supplyon.com/en/transport-consolidation.html">Transport consolidation</a></li><li><a class="" href="http://www.supplyon.com/en/dynamic-network-planning.html">Dynamic network planning</a></li></ul></div><div style="float:left; width:251px; text-align:left; "><h3><a href="http://www.supplyon.com/en/airsupply.html">AirSupply</a></h3><ul class="supo-blue" style="padding-left:15px;"></ul></div><div style="float:left; width:251px; text-align:left; "><h3><a href="http://www.supplyon.com/en/railsupply.html">RailSupply</a></h3><ul class="supo-blue" style="padding-left:15px;"></ul></div><div style="clear:both"></div><div style="float:left; width:251px; text-align:left; "><h3><a href="http://www.supplyon.com/en/source-to-contract.html">Source to contract (S2C)</a></h3><ul class="supo-blue" style="padding-left:15px;"><li><a class="" href="http://www.supplyon.com/en/document_management.html">Document management</a></li><li><a class="" href="http://www.supplyon.com/en/auctions.html">Auctions</a></li><li><a class="" href="http://www.supplyon.com/en/contract-generation.html">Contract generation</a></li><li><a class="" href="http://www.supplyon.com/en/proposal_processes.html">Proposal processes</a></li></ul></div><div style="float:left; width:251px; text-align:left; "><h3><a href="http://www.supplyon.com/en/supplier-management.html">Supplier management</a></h3><ul class="supo-blue" style="padding-left:15px;"><li><a class="" href="http://www.supplyon.com/en/supplier_master_data_management.html">Supplier master data management</a></li><li><a class="" href="http://www.supplyon.com/en/supplier_evaluation.html">Supplier evaluation</a></li><li><a class="" href="http://www.supplyon.com/en/certificate_management.html">Certificate management</a></li><li><a class="" href="http://www.supplyon.com/en/compliance_management.html">Compliance Management</a></li><li><a class="" href="http://www.supplyon.com/en/supplier_development.html">Supplier development</a></li></ul></div><div style="float:left; width:251px; text-align:left; "><h3><a href="http://www.supplyon.com/en/quality-management.html">Quality management</a></h3><ul class="supo-blue" style="padding-left:15px;"><li><a class="" href="http://www.supplyon.com/en/advanced-product-quality-planning.html">Advanced Product Quality Planning</a></li><li><a class="" href="http://www.supplyon.com/en/initial_sampling.html">Initial sampling</a></li><li><a class="" href="http://www.supplyon.com/en/complaint_management.html">Complaint management (8D)</a></li><li><a class="" href="http://www.supplyon.com/en/concession.html">Concession</a></li><li><a class="" href="http://www.supplyon.com/en/on-time-delivery.html">On Time Delivery</a></li></ul></div><div style="clear:both"></div><div style="margin-top:22px; border-top:3px solid #CCC; padding-top:1px"></div><div style="float:left; width:251px; text-align:left; "><h3><a href="http://www.supplyon.com/en/procure-to-pay.html">Procure to Pay (P2P)</a></h3><ul class="supo-blue" style="padding-left:15px;"><li><a class="" href="http://www.supplyon.com/en/requirement_processes.html">Classic requirement processes</a></li><li><a class="" href="http://www.supplyon.com/en/advanced-shipping-notification.html">Advanced Shipping Notification</a></li><li><a class="" href="http://www.supplyon.com/en/vendor-managed-inventory.html">Vendor Managed Inventory</a></li><li><a class="" href="http://www.supplyon.com/en/kanban.html">Kanban</a></li><li><a class="" href="http://www.supplyon.com/en/entry-of-services-performed.html">Entry of services performed</a></li><li><a class="" href="http://www.supplyon.com/en/e-invoicing.html">E-Invoicing</a></li></ul></div><div style="float:left; width:251px; text-align:left; "><h3><a href="http://www.supplyon.com/en/supply-chain-performance-management.html">Supply chain performance management</a></h3><ul class="supo-blue" style="padding-left:15px;"><li><a class="" href="http://www.supplyon.com/en/supply_chain_monitoring.html">Supply Chain Monitoring</a></li><li><a class="" href="http://www.supplyon.com/en/supply-chain-event-management.html">Supply chain event management</a></li></ul></div></div>
 			<div style="clear:both"></div>
 		</div><div id="subnav2369" class="supo-subnavdiv" style="width:940px; ">
-			<div style="float:left; width:190px; text-align:left; "><h3><a style="font-size:16px" href="http://supplyon.com/en/industries.html">INDUSTRIES</a></h3></div>
-			<div style="margin-left:230px"><div style="float:left; width:352px; text-align:left; "><h3><a href="http://supplyon.com/en/automotive_industry.html">Automotive industry</a></h3><ul class="supo-blue" style="padding-left:15px;"></ul></div><div style="float:left; width:352px; text-align:left; "><h3><a href="http://supplyon.com/en/aerospace.html">Aerospace</a></h3><ul class="supo-blue" style="padding-left:15px;"></ul></div><div style="clear:both"></div><div style="float:left; width:352px; text-align:left; "><h3><a href="http://supplyon.com/en/mechanical-engineering.html">Mechanical Engineering &amp; Plant Construction</a></h3><ul class="supo-blue" style="padding-left:15px;"></ul></div><div style="float:left; width:352px; text-align:left; "><h3><a href="http://supplyon.com/en/railway_transport.html">Railway and transport</a></h3><ul class="supo-blue" style="padding-left:15px;"></ul></div><div style="clear:both"></div><div style="float:left; width:352px; text-align:left; "><h3><a href="http://supplyon.com/en/high-tech_electronics.html">High-Tech &amp; Electronics</a></h3><ul class="supo-blue" style="padding-left:15px;"></ul></div></div>
+			<div style="float:left; width:190px; text-align:left; "><h3><a style="font-size:16px" href="http://www.supplyon.com/en/industries.html">INDUSTRIES</a></h3></div>
+			<div style="margin-left:230px"><div style="float:left; width:352px; text-align:left; "><h3><a href="http://www.supplyon.com/en/aerospace.html">Aerospace</a></h3><ul class="supo-blue" style="padding-left:15px;"></ul></div><div style="float:left; width:352px; text-align:left; "><h3><a href="http://www.supplyon.com/en/mechanical-engineering.html">Mechanical Engineering &amp; Plant Construction</a></h3><ul class="supo-blue" style="padding-left:15px;"></ul></div><div style="clear:both"></div><div style="float:left; width:352px; text-align:left; "><h3><a href="http://www.supplyon.com/en/railway_transport.html">Railway and transport</a></h3><ul class="supo-blue" style="padding-left:15px;"></ul></div><div style="float:left; width:352px; text-align:left; "><h3><a href="http://www.supplyon.com/en/high-tech_electronics.html">High-Tech &amp; Electronics</a></h3><ul class="supo-blue" style="padding-left:15px;"></ul></div><div style="clear:both"></div><div style="float:left; width:352px; text-align:left; "><h3><a href="http://www.supplyon.com/en/automotive_industry.html">Automotive industry</a></h3><ul class="supo-blue" style="padding-left:15px;"></ul></div></div>
 			<div style="clear:both"></div>
 		</div><div id="subnav2370" class="supo-subnavdiv" style="width:940px; ">
-			<div style="float:left; width:190px; text-align:left; "><h3><a style="font-size:16px" href="http://supplyon.com/en/consulting.html">CONSULTING</a></h3></div>
-			<div style="margin-left:230px"><div style="float:left; width:352px; text-align:left; "><h3><a href="http://supplyon.com/en/business_case.html">Business Case</a></h3><ul class="supo-blue" style="padding-left:15px;"></ul></div><div style="float:left; width:352px; text-align:left; "><h3><a href="http://supplyon.com/en/quick-scan-projects.html">Quick-Scan Projects</a></h3><ul class="supo-blue" style="padding-left:15px;"></ul></div><div style="clear:both"></div><div style="float:left; width:352px; text-align:left; "><h3><a href="http://supplyon.com/en/qualification.html">Qualification</a></h3><ul class="supo-blue" style="padding-left:15px;"></ul></div><div style="float:left; width:352px; text-align:left; "><h3><a href="http://supplyon.com/en/operational_excellence.html">Operational Excellence</a></h3><ul class="supo-blue" style="padding-left:15px;"></ul></div><div style="clear:both"></div><div style="float:left; width:352px; text-align:left; "><h3><a href="http://supplyon.com/en/implementation_rollout.html">Implementation - ERP Integration - Rollout </a></h3><ul class="supo-blue" style="padding-left:15px;"></ul></div><div style="float:left; width:352px; text-align:left; "><h3><a href="http://supplyon.com/en/supply-chain-optimization.html">Strategic Supply Chain Optimization</a></h3><ul class="supo-blue" style="padding-left:15px;"></ul></div><div style="clear:both"></div></div>
+			<div style="float:left; width:190px; text-align:left; "><h3><a style="font-size:16px" href="http://www.supplyon.com/en/consulting.html">CONSULTING</a></h3></div>
+			<div style="margin-left:230px"><div style="float:left; width:352px; text-align:left; "><h3><a href="http://www.supplyon.com/en/business_case.html">Business Case</a></h3><ul class="supo-blue" style="padding-left:15px;"></ul></div><div style="float:left; width:352px; text-align:left; "><h3><a href="http://www.supplyon.com/en/quick-scan-projects.html">Quick-Scan Projects</a></h3><ul class="supo-blue" style="padding-left:15px;"></ul></div><div style="clear:both"></div><div style="float:left; width:352px; text-align:left; "><h3><a href="http://www.supplyon.com/en/qualification.html">Qualification</a></h3><ul class="supo-blue" style="padding-left:15px;"></ul></div><div style="float:left; width:352px; text-align:left; "><h3><a href="http://www.supplyon.com/en/operational_excellence.html">Operational Excellence</a></h3><ul class="supo-blue" style="padding-left:15px;"></ul></div><div style="clear:both"></div><div style="float:left; width:352px; text-align:left; "><h3><a href="http://www.supplyon.com/en/implementation_rollout.html">Implementation - ERP Integration - Rollout </a></h3><ul class="supo-blue" style="padding-left:15px;"></ul></div><div style="float:left; width:352px; text-align:left; "><h3><a href="http://www.supplyon.com/en/supply-chain-optimization.html">Strategic Supply Chain Optimization</a></h3><ul class="supo-blue" style="padding-left:15px;"></ul></div><div style="clear:both"></div></div>
 			<div style="clear:both"></div>
 		</div><div id="subnav2373" class="supo-subnavdiv" style="width:940px; ">
-			<div style="float:left; width:190px; text-align:left; "><h3><a style="font-size:16px" href="http://supplyon.com/en/supplyon_for_suppliers.html">SUPPLYON FOR<br> SUPPLIERS</a></h3></div>
-			<div style="margin-left:230px"><div style="float:left; width:352px; text-align:left; "><h3><a href="http://supplyon.com/en/services_for_suppliers.html">Use SupplyOn as a supplier</a></h3><ul class="supo-blue" style="padding-left:15px;"><li><a class="" href="http://supplyon.com/en/supplyon_sourcing.html">Sourcing</a></li><li><a class="" href="http://supplyon.com/en/supplyon_business_directory.html">Business Directory</a></li><li><a class="" href="http://supplyon.com/en/supplyon_document_management.html">Document Management</a></li><li><a class="" href="http://supplyon.com/en/webedi.html">WebEDI</a></li><li><a class="" href="http://supplyon.com/en/edi.html">EDI</a></li><li><a class="" href="http://supplyon.com/en/vendor_managed_inventory_vmi.html">Vendor Managed Inventory</a></li><li><a class="" href="http://supplyon.com/en/supplyon_performance_monitor.html">Performance Monitor</a></li><li><a class="" href="http://supplyon.com/en/supplyon_problem_solver.html">Problem Solver</a></li><li><a class="" href="http://supplyon.com/en/supplyon_project_management.html">Project Management</a></li><li><a class="" href="http://supplyon.com/en/supplyon_action_management.html">Action Management</a></li><li><a class="" href="http://supplyon.com/en/supplyon_airsupply.html">AirSupply</a></li></ul></div><div style="float:left; width:352px; text-align:left; "><h3><a href="http://supplyon.com/en/register_as_supplier.html">Registration as Supplier</a></h3><h3><a href="http://supplyon.com/en/supplyon_training.html">Training</a></h3><h3><a href="http://supplyon.com/en/faq.html">FAQ</a></h3></div></div>
+			<div style="float:left; width:190px; text-align:left; "><h3><a style="font-size:16px" href="http://www.supplyon.com/en/supplyon_for_suppliers.html">SUPPLYON FOR<br> SUPPLIERS</a></h3></div>
+			<div style="margin-left:230px"><div style="float:left; width:352px; text-align:left; "><h3><a href="http://www.supplyon.com/en/services_for_suppliers.html">Use SupplyOn as a supplier</a></h3><ul class="supo-blue" style="padding-left:15px;"><li><a class="" href="http://www.supplyon.com/en/supplyon_sourcing.html">Sourcing</a></li><li><a class="" href="http://www.supplyon.com/en/supplyon_business_directory.html">Business Directory</a></li><li><a class="" href="http://www.supplyon.com/en/supplyon_document_management.html">Document Management</a></li><li><a class="" href="http://www.supplyon.com/en/supplyon_collaboration_folders.html">Collaboration Folders</a></li><li><a class="" href="http://www.supplyon.com/en/webedi.html">WebEDI</a></li><li><a class="" href="http://www.supplyon.com/en/edi.html">EDI</a></li><li><a class="" href="http://www.supplyon.com/en/vendor_managed_inventory_vmi.html">Vendor Managed Inventory</a></li><li><a class="" href="http://www.supplyon.com/en/supplyon_performance_monitor.html">Performance Monitor</a></li><li><a class="" href="http://www.supplyon.com/en/supplyon_problem_solver.html">Problem Solver</a></li><li><a class="" href="http://www.supplyon.com/en/supplyon_project_management.html">Project Management</a></li><li><a class="" href="http://www.supplyon.com/en/supplyon_action_management.html">Action Management</a></li><li><a class="" href="http://www.supplyon.com/en/supplyon_airsupply.html">AirSupply</a></li></ul></div><div style="float:left; width:352px; text-align:left; "><h3><a href="http://www.supplyon.com/en/register_as_supplier.html">Registration as Supplier</a></h3><h3><a href="http://www.supplyon.com/en/supplyon_training.html">Training</a></h3><h3><a href="http://www.supplyon.com/en/faq.html">FAQ</a></h3></div></div>
 			<div style="clear:both"></div>
 		</div>				<div id="supo-navpfeil"><img src="site2013/navpfeil.png" alt="" border="0"></div>
 				<div id="supo-navcloser"><a href="javascript:;" onclick="supoToggleNav(supoSubnavActShowing)"><span class="fa fa-chevron-up"></span></a></div>
 			</div>
 		</div>
 
-		
-		 
+
 		
 				<div class="supo-outer-container supo-heroshot supo-smooth-shadow-below">
 			<div style="margin-top:1px; height:289px; background-position:center; background-repeat:no-repeat; background-image:url( img/images/header/about_us.jpg )">
@@ -151,27 +180,24 @@
 					</div>
 
 				</div>
-			
+
 			</div>
 		</div>
-		 
-
-		 
-
+		
+		
 				<div id="supo-breadcrumb" class="supo-outer-container supo-breadcrumb">
 			<div id="supo-breadcrumb-inner" class="supo-inner-container container">
-								<a href="http://supplyon.com/en/home.html">Home</a>
-				 &gt; <a href="http://supplyon.com/en/privacy_notice.html">Privacy Notice</a>				<span id="supo-breadcrumb-dynamic">&nbsp;</span>
+								<a href="http://www.supplyon.com/en/home.html">Home</a>
+				 &gt; <a href="http://www.supplyon.com/en/privacy_notice.html">Privacy Notice</a>				<span id="supo-breadcrumb-dynamic">&nbsp;</span>
 			</div>
 		</div>
-		 
-
+		
 	</div>
-	
+
 	<div id="supo-middle">
 
 		
-<!-- content 363101 -->
+<!-- content 477361 -->
 <div class="supo-outer-container supo-r2013box">
 <div class="supo-inner-container container">
 
@@ -189,7 +215,7 @@
 <p><strong>Cookies</strong></p>
 <p>When you log in to the SupplyOn portal, register or enroll for a training course, we use session cookies to identify your user session. Cookies are small text files that are stored in the visitor's local browser cache. As a result of their use, your browser is assigned a unique ID that enables bidirectional communication between it and our application. You are responsible for deleting the cookies transferred to your browser. You should configure your browser so that cookies are automatically deleted when it is closed.</p>
 <p>&nbsp;</p>
-<p>In addition, we use an analysis tool from etracker GmbH (<a href="http://www.etracker.com/en/" onmousemove="" onclick="" onmouseout="" onmouseover="" onblur="" ondblclick="" onfocus="" onmousedown="" onmouseup="" target="_blank">www.etracker.com)</a> which collects and stores data to enable creation of a pseudonymized user profile. etracker GmbH stores a permanent cookie in your browser program to allow your browser to be recognized. This data does not permit any details of your person to be directly deduced. The profiles are not used to identify visitors to this Internet site personally. They are not linked to data about the person behind the pseudonym. You can <a href="http://application.etracker.com/privacy.php?sid=263a357e35fd701c2bb7553022da2405&amp;languageId=2&amp;et=sX9XYV" onmousemove="" onclick="" onmouseout="" onmouseover="" onblur="" ondblclick="" onfocus="" onmousedown="" onmouseup="" target="_blank">object</a> to the collection and storage of data by etracker GmbH using the permanent cookie at any time with future effect.</p>
+<p>In addition, we use an analysis tool from etracker GmbH (<a href="http://www.supplyon.com/.html" onmousemove="" onclick="" onmouseout="" onmouseover="" onblur="" ondblclick="" onfocus="" onmousedown="" onmouseup="" class="internal1" target="">www.etracker.com) <i class="fa fa-chevron-right"></i> </a> which collects and stores data to enable creation of a pseudonymized user profile. etracker GmbH stores a permanent cookie in your browser program to allow your browser to be recognized. This data does not permit any details of your person to be directly deduced. The profiles are not used to identify visitors to this Internet site personally. They are not linked to data about the person behind the pseudonym. You can <a href="http://application.etracker.com/privacy.php?sid=263a357e35fd701c2bb7553022da2405&amp;languageId=2&amp;et=sX9XYV" onmousemove="" onclick="" onmouseout="" onmouseover="" onblur="" ondblclick="" onfocus="" onmousedown="" onmouseup="" target="_blank">object</a> to the collection and storage of data by etracker GmbH using the permanent cookie at any time with future effect.</p>
 <p>&nbsp;</p>
 <p>You can configure your browser so that it informs you of the placement of cookies. This ensures that the use of cookies is transparent for you. You can disable acceptance of cookies in your browser settings. However, if you do so you will no longer be able to log in to the SupplyOn portal, register or enroll for training courses.</p>
 <p>&nbsp;</p>
@@ -211,8 +237,8 @@
 // The PHP code may be obtained from http://www.celticproductions.net/
 
 
-  coded = "5Cp79XYKKGm7CS_7z"
-  key = "Q-e5NRoG9HUtEu4m8q.M6wc7sIAnfjYBzdPSbhk_gXFOCpT0DWL2i1vxl@rJ3aKZyV"
+  coded = "-fgp2KXjj8DpfYyp0"
+  key = "Kn@hkWUZYoX9ILilDVf26xRGFHpv3a_-85egPz1rSNqjbBCmcsOQMwtT4.AuJ7dE0y"
   shift=coded.length
   link=""
   for (i=0; i<coded.length; i++) {
@@ -231,6 +257,8 @@ document.write("<a href='mailto:"+link+"?subject=Unsubscribe%20from%20SupplyOn%2
 </script><a href="mailto:info@supplyon.com?subject=Unsubscribe%20from%20SupplyOn%20Newsletter" onmousemove="" onclick="" onmouseout="" onmouseover="" onblur="" ondblclick="" onfocus="" onmousedown="" onmouseup="">Info@SupplyOn.com</a><noscript>N/A</noscript></p>
 <p>Your data is then removed from the mailing system.</p>
 <p>&nbsp;</p>
+<p><strong>Contact form</strong></p>
+<p>In order to use our contact form we require your name and your email-address. You may send us further information (voluntary data), but you are not obliged to do so. <br>In order to work on your request, your data is stored in our CRM-system, supervised by an US located service provider. Of course we have ensured an adequate level of data protection. We use your data only for providing the requested information.&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>Right of information</strong></p>
 <p>For queries regarding data protection, you can contact our operational data protection officer at <script type="text/javascript" language="javascript">
@@ -243,8 +271,8 @@ document.write("<a href='mailto:"+link+"?subject=Unsubscribe%20from%20SupplyOn%2
 // The PHP code may be obtained from http://www.celticproductions.net/
 
 
-  coded = "18brzSj9nbWhSnFF6K4zYj4L"
-  key = "_3gRh5eul1q7MWtKJUSOi.foXZDC9crn6QHmIpbB2aA0GY@4EvxdTjwz-yPLsFNkV8"
+  coded = "U90KqpgNl0EOplooGz2qCg2T"
+  key = "Jym1K4ZtRdxw7PCLgpl5Vh63vzTAnQr0DUiMH@_aboGS-NeY8EWIqFBf.jcsuOk9X2"
   shift=coded.length
   link=""
   for (i=0; i<coded.length; i++) {
@@ -260,44 +288,110 @@ document.write("<a href='mailto:"+link+"?subject=Unsubscribe%20from%20SupplyOn%2
 document.write("<a href='mailto:"+link+"'   onmousemove=\"\"  onclick=\"\"  onmouseout=\"\"  onmouseover=\"\"  onblur=\"\"  ondblclick=\"\"  onfocus=\"\"  onmousedown=\"\"  onmouseup=\"\"  >datenschutz@supplyon.com</a>")
 
 //-->
-</script><a href="mailto:datenschutz@supplyon.com" onmousemove="" onclick="" onmouseout="" onmouseover="" onblur="" ondblclick="" onfocus="" onmousedown="" onmouseup="">datenschutz@supplyon.com</a><noscript>N/A</noscript> or in writing at the address given in the <a href="http://supplyon.com/en/imprint.html" onmousemove="" onclick="" onmouseout="" onmouseover="" onblur="" ondblclick="" onfocus="" onmousedown="" onmouseup="" target="_self">imprint</a>. Upon request, we will inform you in writing in accordance with the applicable legislation whether and which personal data of yours are stored by us.</p>
+</script><a href="mailto:datenschutz@supplyon.com" onmousemove="" onclick="" onmouseout="" onmouseover="" onblur="" ondblclick="" onfocus="" onmousedown="" onmouseup="">datenschutz@supplyon.com</a><noscript>N/A</noscript> or in writing at the address given in the <a href="http://www.supplyon.com/en/imprint.html" onmousemove="" onclick="" onmouseout="" onmouseover="" onblur="" ondblclick="" onfocus="" onmousedown="" onmouseup="" target="_self">imprint</a>. Upon request, we will inform you in writing in accordance with the applicable legislation whether and which personal data of yours are stored by us.</p>
 </div>
 <p>&nbsp;</p></div>
 </div>
 
 </div>
 </div>
-<!-- content 363101 done -->
+<!-- content 477361 done -->
+
+
+<!-- content 477362 -->
+<div class="supo-outer-container supo-r2013box">
+<div class="supo-inner-container container">
+
+<div style="width:75%">
+
+<h3>Social plug-ins (on the SupplyOn corporate blog)</h3>
+<div class="supo-textbox"><p><strong>Initial setting: Deactivated</strong></p>
+<p>In the interests of data protection, we have deliberately decided not to integrate social plug-ins (such as Facebook’s ‘Like’ button, the Twitter button or the Google +1 button) into our site. For this reason, when you visit our site it will not normally send any data to social media services such as Facebook, Twitter or Google+. This prevents you from being profiled by any third party.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Activation is possible if you want it</strong></p>
+<p>However, we have no wish to prevent those visitors who want to use social plug-ins from doing so. Our <a href="http://blog.supplyon.com/" onmousemove="" onclick="" onmouseout="" onmouseover="" onblur="" ondblclick="" onfocus="" onmousedown="" onmouseup="" target="_blank">corporate blog</a> does therefore give you the option of enabling social media plug-ins. Please be aware that activating such a plug-in does cause certain data to be transmitted to the provider of the corresponding social media service, for example:</p>
+<p>-the address of the website on which the active social plug-in is located,</p>
+<p>-information about your browser and operating system,</p>
+<p>-the date and time the website was called or the plug-in was activated,</p>
+<p>-your current IP address.</p>
+<p>&nbsp;</p>
+<p>If you are already logged in to the corresponding social media service when you activate the plug-in, the above information is already sufficient to enable the service provider to establish your user name and possibly even your real name.</p>
+<p>Providers of social media services can also process this data in countries outside the European Union. We have no influence on the scope, nature or purpose of processing carried out by providers of social media services. Please note that providers of social media services are perfectly capable of using the above data to create pseudonymous and even personalized user profiles. You can deactivate a previously activated social media plug-in at any time, but this has no effect on any data that has already been transferred to the social media service provider.&nbsp;</p>
+<p>&nbsp;</p></div>
+</div>
+
+</div>
+</div>
+<!-- content 477362 done -->
+
+
+<!-- content 477363 -->
+<div class="supo-outer-container supo-r2013box">
+<div class="supo-inner-container container">
+
+
+<div class="row">
+	<div class="col-xs-9">
+				<div class="supo-textbox"><p><strong>Two clicks – activation and use</strong></p>
+<p>You can recognize a disabled social media plug-in by the fact that it is highlighted in gray. No external content is loaded and no data is transferred.</p>
+<p>&nbsp;</p>
+<p>Your first click on a grayed-out social media plug-in activates it, and it is then displayed in color.&nbsp;<strong>At this point</strong>&nbsp;data is already being transferred to the social media provider. You can now click on the plug-in a second time to actually use it.</p>
+<p>&nbsp;</p>
+<p><strong>Enable social media plug-ins permanently</strong></p>
+<p>You also have the option of permanently enabling the plug-ins of one or more social media provider. To do this, click on the gearwheel icon and then click on the desired social media provider. Please be aware that this enables the social media service provider to carry out even more extensive profiling. You will see ticks marking those social plug-ins that you have permanently activated.</p>
+<p>You can also any time cancel the permanent activation simply by removing the ticks you previously set.</p></div>
+	</div>
+	<div class="col-xs-3">
+				<img src="./img/images/Sonstiges/Zwei-Klick-Loesung_gesamt_s.png" width="205" height="325" alt="" class="" border="0" align="right">
+		<div style="clear:both"></div>
+			</div>
+</div>
+<script>
+jQuery(function(){
+	
+	supoInitImageLightbox('.lightboxclassnxvyimbqkg');
+});
+</script>
+
+
+</div>
+</div>
+<!-- content 477363 done -->
 
 
 	</div>
-	
+
 	<div id="supo-lower">
 
 		<div id="supo-funcs" class="supo-outer-container supo-pagefuncs">
 	<div class="supo-inner-container container">
 		<a class="pull-right" href="javascript:;" onclick="window.print()"><span class="fa fa-print"></span> Print</a>
-		<a class="pull-right" href="mailto:?subject=You%20might%20be%20interested%20in%20this%3A%20SupplyOn%20-%20Privacy%20Notice&amp;body=I%20thought%20this%20may%20be%20of%20interest%20to%20you%3A%20http%3A%2F%2Fsupplyon.com%2Fen%2Fprivacy_notice.html%20"><span class="fa fa-share-square-o"></span> Share this page</a>
+		<a class="pull-right" href="mailto:?subject=You%20might%20be%20interested%20in%20this%3A%20SupplyOn%20-%20Privacy%20Notice&amp;body=I%20thought%20this%20may%20be%20of%20interest%20to%20you%3A%20http%3A%2F%2Fwww.supplyon.com%2Fen%2Fprivacy_notice.html%20"><span class="fa fa-share-square-o"></span> Share this page</a>
 	</div>
 </div>
-		
+
 		<div id="supo-footer" class="supo-outer-container supo-footer supo-smooth-shadow-above">
 			<div class="supo-inner-container container">
 				<div>
-					<div class="pull-left" style="width:25%"><a class="" href="http://supplyon.com/en/solutions.html">SOLUTIONS</a><br><br><a class="" href="http://supplyon.com/en/strategic_procurement.html">Strategic procurement</a><br><a class="" href="http://supplyon.com/en/operational_procurement.html">Operational procurement</a><br><a class="" href="http://supplyon.com/en/supplier_risk_and_performance_management.html">Supplier Risk and Performance Management</a><br><a class="" href="http://supplyon.com/en/quality_improvement.html">Quality improvement</a><br><a class="" href="http://supplyon.com/en/transportation-management.html">Transport Management</a><br><a class="" href="http://supplyon.com/en/airsupply.html">AirSupply</a><br></div><div class="pull-left" style="width:25%"><a class="" href="http://supplyon.com/en/supplyon_for_suppliers.html">SUPPLYON FOR<br> SUPPLIERS</a><br><br><a class="" href="http://supplyon.com/en/services_for_suppliers.html">Use SupplyOn as a supplier</a><br><a class="" href="http://supplyon.com/en/register_as_supplier.html">Registration as Supplier</a><br><a class="" href="http://supplyon.com/en/supplyon_training.html">Training</a><br><a class="" href="http://supplyon.com/en/faq.html">FAQ</a><br></div>					<div class="pull-left" style="width:25%">
-						<a href="http://supplyon.com/en/events.html" class="">Events</a><br><a href="http://supplyon.com/en/news.html" class="">News</a><br><a href="http://supplyon.com/en/network.html" class="">Network</a><br><a href="http://supplyon.com/en/platform.html" class="">Platform</a><br>					</div>
+					<div class="pull-left" style="width:25%"><a class="" href="http://www.supplyon.com/en/solutions.html">SOLUTIONS</a><br><br><a class="" href="http://www.supplyon.com/en/transportation-management.html">Transport management</a><br><a class="" href="http://www.supplyon.com/en/airsupply.html">AirSupply</a><br><a class="" href="http://www.supplyon.com/en/railsupply.html">RailSupply</a><br><a class="" href="http://www.supplyon.com/en/source-to-contract.html">Source to contract (S2C)</a><br><a class="" href="http://www.supplyon.com/en/supplier-management.html">Supplier management</a><br><a class="" href="http://www.supplyon.com/en/quality-management.html">Quality management</a><br><a class="" href="http://www.supplyon.com/en/procure-to-pay.html">Procure to Pay (P2P)</a><br><a class="" href="http://www.supplyon.com/en/supply-chain-performance-management.html">Supply chain performance management</a><br></div><div class="pull-left" style="width:25%"><a class="" href="http://www.supplyon.com/en/supplyon_for_suppliers.html">SUPPLYON FOR<br> SUPPLIERS</a><br><br><a class="" href="http://www.supplyon.com/en/services_for_suppliers.html">Use SupplyOn as a supplier</a><br><a class="" href="http://www.supplyon.com/en/register_as_supplier.html">Registration as Supplier</a><br><a class="" href="http://www.supplyon.com/en/supplyon_training.html">Training</a><br><a class="" href="http://www.supplyon.com/en/faq.html">FAQ</a><br></div>					<div class="pull-left" style="width:25%">
+						<a href="http://www.supplyon.com/en/events.html" class="">Events</a><br><a href="http://www.supplyon.com/en/news.html" class="">News</a><br><a href="http://www.supplyon.com/en/supplyon-newsletter.html" class="">Newsletter</a><br><a href="http://www.supplyon.com/en/network.html" class="">Network</a><br><a href="http://www.supplyon.com/en/platform.html" class="">Platform</a><br>					</div>
 					<div class="pull-right" style="width:25%">
-						© 2014 SupplyOn AG<br><br>
-						<a href="http://supplyon.com/en/imprint.html" class="">Imprint</a><br><a href="http://supplyon.com/en/sitemap.html" class="">Sitemap</a><br><a href="http://supplyon.com/en/legal_notes.html" class="">Legal Notes</a><br><a href="http://supplyon.com/en/privacy_notice.html" class="active">Privacy Notice</a><br><a href="http://supplyon.com/en/data-security.html" class="">Data Security</a><br><a href="http://supplyon.com/en/downloads.html" class="">Downloads</a><br><a href="http://supplyon.com/en/search.html" class="">Search</a><br>					</div>
-				
+						© 2016 SupplyOn AG<br><br>
+						<a href="http://www.supplyon.com/en/sitemap.html" class="">Sitemap</a><br><a href="http://www.supplyon.com/en/legal_notes.html" class="">Legal Notes</a><br><a href="http://www.supplyon.com/en/privacy_notice.html" class="active">Privacy Notice</a><br><a href="http://www.supplyon.com/en/data-security.html" class="">Data Security</a><br><a href="http://www.supplyon.com/en/downloads.html" class="">Downloads</a><br><a href="http://www.supplyon.com/en/search.html" class="">Search</a><br><a href="http://www.supplyon.com/en/imprint.html" class="">Imprint</a><br>					</div>
+
 				</div>
 				<div style="clear:both"></div>
 				<div>
 					&nbsp;<br>
 					&nbsp;<br>
-					We make your <a href="http://supplyon.com/en/home.html">Supply Chain Management</a> a success – with true <a href="http://supplyon.com/en/supply-chain-collaboration.html">Supply Chain Collaboration</a>
+					We make your <a href="http://www.supplyon.com/en/home.html">Supply Chain Management</a> a success – with true <a href="http://www.supplyon.com/en/supply-chain-collaboration.html">Supply Chain Collaboration</a>
 					<div class="pull-right">
-						<a href="https://www.xing.com/companies/supplyonag" target="_blank" class="supo-some-link"><span class="fa fa-xing"></span></a>
+													<a class="supo-some-link" href="http://blog.supplyon.com/en/" target="_blank" style="display:block; float:left; padding-top:2px; padding-right:5px;">
+								<svg width="34" height="34">
+								  <image xlink:href="site2013/blog_icon.svg" src="site2013/blog_icon.png" width="34" height="34"></image>
+								</svg>
+							</a>
+												<a href="https://www.xing.com/companies/supplyonag" target="_blank" class="supo-some-link"><span class="fa fa-xing"></span></a>
 						<a href="http://www.linkedin.com/company/supplyon-ag" target="_blank" class="supo-some-link"><span class="fa fa-linkedin-square"></span></a>
 						<a href="http://www.youtube.com/user/SupplyOnAG" target="_blank" class="supo-some-link"><span class="fa fa-youtube-square"></span></a>
 											</div>
@@ -305,21 +399,15 @@ document.write("<a href='mailto:"+link+"'   onmousemove=\"\"  onclick=\"\"  onmo
 									</div>
 			</div>
 		</div>
-	
+
 	</div>
-	
-	
+
+
 	<!-- TPL2013 END -->
 			
-<!-- Copyright (c) 2000-2009 etracker GmbH. All rights reserved. -->
-<!-- This material may not be reproduced, displayed, modified or distributed -->
-<!-- without the express prior written permission of the copyright holder. -->
 
-<!-- BEGIN etracker Tracklet 3.0 -->
-<script type="text/javascript">document.write(String.fromCharCode(60)+"script type=\"text/javascript\" src=\"http"+("https:"==document.location.protocol?"s":"")+"://code.etracker.com/t.js?et=sX9XYV\">"+String.fromCharCode(60)+"/script>");</script><script type="text/javascript" src="https://code.etracker.com/t.js?et=sX9XYV"></script>
-<script type="text/javascript">_etc();</script>
-<noscript><p><a href="http://www.etracker.com"><img style="border:0px;" alt="" src="https://www.etracker.com/nscnt.php?et=sX9XYV" /></a></p></noscript>
-<!-- etracker CODE END -->
+<!-- etracker entfernt -->
+
 
 	
 	
@@ -359,9 +447,7 @@ function c5edit_onload() {
 
 
 
-<!-- Generated by StormCMS/2 + C5 | a=live | l=en | p=2404 | t=1389200241 | uniqid=52739 | tpl=2000 | et=1.091 | gen=0 -->	
-
-
+<!-- Generated by StormCMS/2 + C5 | a=live | l=en | p=2404 | t=1463278594 | uniqid=52739 | tpl=2000 | et=1.816 | gen=0 -->
 
 
 </body></html>
