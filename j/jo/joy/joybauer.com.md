@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the joybauer.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905145615id_/http%3A//www.joybauer.com/help/help_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joybauer.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515092711id_/http%3A//www.joybauer.com/help/help_privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Joy Bauer
 
 **Healthy Code, Inc. Privacy Policy**
 
 This policy covers how Healthy Code, Inc. treats personal information that Healthy Code, Inc. collects and receives, including information related to your past use of Healthy Code, Inc. products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. This policy does not apply to the practices of companies that Healthy Code, Inc. does not own or control, or to people that Healthy Code, Inc. does not employ or manage. In addition, certain Healthy Code, Inc. services may have their own associated privacy statements.
 
-Healthy Code, Inc. operates this website (the "Site"), and other health, wellness, diet and fitness websites that are part of the Healthy Code, Inc. portfolio of websites (collectively, the "Sites") and the services related to or offered on the Sites (hereinafter, the "Services"). Some of the Sites are websites that we operate on behalf of third party licensors, for example, JoyBauer.com, collectively, "Licensors"). Healthy Code, Inc.’s Services may include, without limitation, tools, applications, email services, bulletin and message boards, chat areas, news groups, forums, communities, calendars, and downloadable mobile applications related to the Sites or provided through the Sites.
+Healthy Code, Inc. operates this website (the “Site”), and other health, wellness, diet and fitness websites that are part of the Healthy Code, Inc. portfolio of websites (collectively, the “Sites”) and the services related to or offered on the Sites (hereinafter, the “Services”). Some of the Sites are websites that we operate on behalf of third party licensors, for example, JoyBauer.com, collectively, “Licensors”). Healthy Code, Inc.’s Services may include, without limitation, tools, applications, email services, bulletin and message boards, chat areas, news groups, forums, communities, calendars, and downloadable mobile applications related to the Sites or provided through the Sites.
 
-We provide you this privacy policy (the "Policy") to help you understand the kinds of information we may gather about you when you visit the Site or use any of our Services, how we may use and disclose the information, and how you can control, correct and/or update the information.
+We provide you this privacy policy (the “Policy”) to help you understand the kinds of information we may gather about you when you visit the Site or use any of our Services, how we may use and disclose the information, and how you can control, correct and/or update the information.
 
-To be clear about the terminology we are using, when we use the phrase "Personal Information" in this Policy, we mean information that can be used to identify or contact a person, like a person’s full name, address, e-mail address, or phone number. When we use the phrase "Anonymous Information" in this Policy, we mean information that cannot reasonably be used to identify individual persons.
+To be clear about the terminology we are using, when we use the phrase “Personal Information” in this Policy, we mean information that can be used to identify or contact a person, like a person’s full name, address, e-mail address, or phone number. When we use the phrase “Anonymous Information” in this Policy, we mean information that cannot reasonably be used to identify individual persons.
 
 By visiting this Site or using the Services, you are accepting the policies and practices described in this Policy. Each time you visit the Site or use the Services, you agree and expressly consent to our collection, use and disclosure of the information that you provide as described in this Policy.
 
@@ -27,7 +27,7 @@ We collect information about you in the following ways:
 We collect and maintain information that you voluntarily submit to us during your use of the Sites and Services. For example:
 
   * when you register for a Site, you may provide us certain information including your name, email address, screen name, password, demographic information and the health topics that interest you;
-  * to engage a Site's social networking function, you may add to your profile by providing information about your interests or health topics. For example, your profile may list your favorite healthy foods or movie;
+  * to engage a Site’s social networking function, you may add to your profile by providing information about your interests or health topics. For example, your profile may list your favorite healthy foods or movie;
   * if you are registering for a customized weight loss program, you may provide us answers to questions we use to provide you the program, like your actual and goal weights, your preferred method of exercise, or your caloric intake;
   * if you sign up to receive a newsletter, enter a contest or participate in social networking activities, you may provide us contact information (e.g., email or physical address);
   * if you purchase a product or service, you may provide us your credit card information; and
@@ -51,7 +51,7 @@ We will use your Personal Information in the ways described below or described a
 
 #### A. Advertising.
 
-We believe that advertising is more interesting to you when it is relevant. Accordingly, we customize the advertisements that you see based upon: (i) the information that you provide us (e.g., age, gender, stated health interests and other information in your profile); (ii) geographic location information, which we may determine through your IP address, from your mobile device, or other ways; (iii) data we receive from third parties or; (iv) your visits on the Sites or use of Services (commonly referred to as "Behavioral Advertising"). Please see the Cookies and Targeted Advertising section below for more information on the use of cookies and the information collected for Behavioral Advertising.
+We believe that advertising is more interesting to you when it is relevant. Accordingly, we customize the advertisements that you see based upon: (i) the information that you provide us (e.g., age, gender, stated health interests and other information in your profile); (ii) geographic location information, which we may determine through your IP address, from your mobile device, or other ways; (iii) data we receive from third parties or; (iv) your visits on the Sites or use of Services (commonly referred to as “Behavioral Advertising”). Please see the Cookies and Targeted Advertising section below for more information on the use of cookies and the information collected for Behavioral Advertising.
 
 #### B. To Provide the Sites and Services.
 
@@ -73,21 +73,21 @@ In general, we use your Personal Information as necessary or appropriate for pur
 
 #### A. Cookies, Web Beacons and IP Address Information.
 
-"Cookies" are small pieces of information that a website places on your browser when you visit that website. We may use cookies to provide you with a more personal and interactive experience with the Sites and Services. For example, we may use cookies to control what advertisements you see, the sequence of advertisements and to make sure you don't see the same advertisement too many times. For contests or sweepstakes, we may also use cookies in order to track your progress and the number of entries in some promotions. For polls, we may use cookies to help ensure that an individual can't vote more than once on a particular question or issue. We do not store Personal Information in any cookies on your computer.
+“Cookies” are small pieces of information that a website places on your browser when you visit that website. We may use cookies to provide you with a more personal and interactive experience with the Sites and Services. For example, we may use cookies to control what advertisements you see, the sequence of advertisements and to make sure you don’t see the same advertisement too many times. For contests or sweepstakes, we may also use cookies in order to track your progress and the number of entries in some promotions. For polls, we may use cookies to help ensure that an individual can’t vote more than once on a particular question or issue. We do not store Personal Information in any cookies on your computer.
 
-Cookies can be removed by following your Internet browser's directions within the help tab. In order to use certain Services offered through the Sites, your web browser must accept cookies. If you choose to disable cookies, some aspects of the Sites may not work properly, and you may not be able to access our Services.
+Cookies can be removed by following your Internet browser’s directions within the help tab. In order to use certain Services offered through the Sites, your web browser must accept cookies. If you choose to disable cookies, some aspects of the Sites may not work properly, and you may not be able to access our Services.
 
 We may also use cookies, pixels, web beacons (which are usually small, transparent graphic images), operating system and device information and navigational data like Uniform Resource Locators (URL) to gather information regarding the date and time of your visit, the features and information for which you searched and viewed, the email you opened, or on which advertisements you clicked. This type of information is collected to make the Sites and Services more useful to you and to tailor the experience with us to meet your special interests and needs.
 
-An "Internet protocol address" or "IP Address" is a number that is automatically assigned to your computer when you use the Internet. We, or our service providers, may use your IP Address when you access the Sites or Services or use other means to assist with delivering geographically targeted advertisements.
+An “Internet protocol address” or “IP Address” is a number that is automatically assigned to your computer when you use the Internet. We, or our service providers, may use your IP Address when you access the Sites or Services or use other means to assist with delivering geographically targeted advertisements.
 
 #### B. Targeted Advertising.
 
-Companies Healthy Code, Inc. works with may use cookies for purposes including understanding Web usage patterns of users who see advertisements on the Sites, controlling the sequence of advertisements you see, making sure you don't see the same advertisement too many times, determining your interests and tailoring advertisements and promotions based on those interests. For example, if you read an article about a particular health condition on the Sites, we may use cookies from a vendor to later serve you an advertisement for a product related to the viewed article. These third party vendors may connect information about pages you visit on our Sites with information about pages you visit on other websites and show you advertising based on this combined information. The advertisement may appear when you are visiting a different section of this Site, another Site or any other website on the Internet if the website also has a relationship with our vendor.
+Companies Healthy Code, Inc. works with may use cookies for purposes including understanding Web usage patterns of users who see advertisements on the Sites, controlling the sequence of advertisements you see, making sure you don’t see the same advertisement too many times, determining your interests and tailoring advertisements and promotions based on those interests. For example, if you read an article about a particular health condition on the Sites, we may use cookies from a vendor to later serve you an advertisement for a product related to the viewed article. These third party vendors may connect information about pages you visit on our Sites with information about pages you visit on other websites and show you advertising based on this combined information. The advertisement may appear when you are visiting a different section of this Site, another Site or any other website on the Internet if the website also has a relationship with our vendor.
 
 #### C. Information Collected by Third Party Advertisers
 
-Advertisers or other third parties on the Sites may also engage in Behavioral Advertising and use cookies and web beacons in the manner described above. We do not control these advertisers or other parties' use of cookies or web beacons or what they do with the information they collect. Many third party vendors that engage in Behavioral Advertising participate in the Network Advertising Initiative (NAI) and/or the Digital Advertising Alliance (DAA) and abide by NAI and/or DAA principles. If you wish to opt out of participating in advertising programs conducted by NAI and DAA members or learn more about the NAI and DAA, please go to the NAI Opt-Out website and DAA Choice Page and follow the instructions. After you opt-out, you will still see advertisements, but the advertising may not be as relevant to your interests. If you change your computer, change your browser or delete your cookies, you will need to renew your opt-out.
+Advertisers or other third parties on the Sites may also engage in Behavioral Advertising and use cookies and web beacons in the manner described above. We do not control these advertisers or other parties’ use of cookies or web beacons or what they do with the information they collect. Many third party vendors that engage in Behavioral Advertising participate in the Network Advertising Initiative (NAI) and/or the Digital Advertising Alliance (DAA) and abide by NAI and/or DAA principles. If you wish to opt out of participating in advertising programs conducted by NAI and DAA members or learn more about the NAI and DAA, please go to the NAI Opt-Out website and DAA Choice Page and follow the instructions. After you opt-out, you will still see advertisements, but the advertising may not be as relevant to your interests. If you change your computer, change your browser or delete your cookies, you will need to renew your opt-out.
 
 ### 4\. How We Disclose Information to Third Parties
 
@@ -117,7 +117,7 @@ Some of the Sites are websites that Healthy Code, Inc. operates on behalf of Lic
 
 #### F. Sponsors, Merchants and other ways that you approve at the time of collection.
 
-We may collect Personal Information about you and share it with third parties to the extent that you give us permission at the time of collection. For example, if you purchase a deal or service, we will provide your information to the applicable merchant or vendor. We also sometimes gather Personal Information on behalf of a sponsor in association with a promotion. In such a case, we will provide you notice at the time of collection that the information is being collected on the sponsor's behalf and link to the sponsor's privacy policy.
+We may collect Personal Information about you and share it with third parties to the extent that you give us permission at the time of collection. For example, if you purchase a deal or service, we will provide your information to the applicable merchant or vendor. We also sometimes gather Personal Information on behalf of a sponsor in association with a promotion. In such a case, we will provide you notice at the time of collection that the information is being collected on the sponsor’s behalf and link to the sponsor’s privacy policy.
 
 #### G. Within our Company; Changes to our Company.
 
@@ -127,19 +127,19 @@ We may share your Personal Information with any of our subsidiaries, joint ventu
 
 We may make message boards, chat rooms, and other interactive forums available as part of the Services. You should be aware that any information which you post to these interactive forums or otherwise choose to make publicly available, including your Personal Information, may be disclosed and available to all users who have access to that portion of the Site or Services. By using these interactive forums, you agree that we are not responsible for any information that you disclose or communicate in such forums, and any disclosures you make are at your own risk.
 
-### 6\. Children's Information
+### 6\. Children’s Information
 
-The Site and Services are not directed or intended for children under 13 years of age. We do not knowingly collect Personal Information from individuals under 13 years of age. If you are under 13 years of age, you should not register or provide Personal Information on the Site or through the Services. If you are the parent or guardian of a child whom you believe has disclosed Personal Information to us, please contact us at web@healthycode.com so that we may delete and remove such child's information from our systems.
+The Site and Services are not directed or intended for children under 13 years of age. We do not knowingly collect Personal Information from individuals under 13 years of age. If you are under 13 years of age, you should not register or provide Personal Information on the Site or through the Services. If you are the parent or guardian of a child whom you believe has disclosed Personal Information to us, please contact us at web@healthycode.com so that we may delete and remove such child’s information from our systems.
 
 ### 7\. Updating and Control of Your Personal Information
 
-We offer you choices regarding the collection, use, and sharing of your Personal Information. When you receive promotional communications from us you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the promotional e-mail or newsletter you receive or by editing your preference to receive these communications within the "Manage My Email" or similar feature on the individual Sites when you are logged in as a registered user..
+We offer you choices regarding the collection, use, and sharing of your Personal Information. When you receive promotional communications from us you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the promotional e-mail or newsletter you receive or by editing your preference to receive these communications within the “Manage My Email” or similar feature on the individual Sites when you are logged in as a registered user..
 
-If your Personal Information changes or if you no longer desire to use or access one of the Sites or Services, we encourage you to correct, update or remove the Personal Information from your profile. This can be done at the "Profile" or "My Account" section on each of the Sites. Keep in mind, however, that even if you delete information from your profile, we may retain your Personal Information in conformance with our data retention policy and Personal Information may remain within our databases, access logs, and other records. In addition, we are not responsible for updating or removing your Personal Information contained in the lists or databases of third parties who have been provided information as permitted by this Policy.
+If your Personal Information changes or if you no longer desire to use or access one of the Sites or Services, we encourage you to correct, update or remove the Personal Information from your profile. This can be done at the “Profile” or “My Account” section on each of the Sites. Keep in mind, however, that even if you delete information from your profile, we may retain your Personal Information in conformance with our data retention policy and Personal Information may remain within our databases, access logs, and other records. In addition, we are not responsible for updating or removing your Personal Information contained in the lists or databases of third parties who have been provided information as permitted by this Policy.
 
 ### 8\. Co-branded Sections of the Sites
 
-Certain portions of the Sites may be co-branded with a business partner and subject to a different privacy policy that is either the partner's privacy policy or a privacy policy developed jointly by Healthy Code, Inc. and our partner (collectively the "Co-branded Policy"). The partner's collection, use and dissemination practices regarding any data or Personal Information provided by, or obtained from users of these Co-branded portions of the Sites will be governed by the Co-branded Policy. Please read the Co-branded Policy for each Co-branded Site before providing any Personal Information.
+Certain portions of the Sites may be co-branded with a business partner and subject to a different privacy policy that is either the partner’s privacy policy or a privacy policy developed jointly by Healthy Code, Inc. and our partner (collectively the “Co-branded Policy”). The partner’s collection, use and dissemination practices regarding any data or Personal Information provided by, or obtained from users of these Co-branded portions of the Sites will be governed by the Co-branded Policy. Please read the Co-branded Policy for each Co-branded Site before providing any Personal Information.
 
 ### 9\. Third Party Links
 
@@ -156,12 +156,12 @@ If you have any questions regarding privacy or this Policy, you may contact us a
 Telephone: (888) 838-0842  
 Email: web@healthycode.com  
 Address:  
-  Healthy Code, Inc.  
-  2787 California Street, Suite A  
-  San Francisco, CA 94115
+Healthy Code, Inc.  
+2787 California Street, Suite A  
+San Francisco, CA 94115
 
 ### 12\. Privacy Policy Changes
 
 We reserve the right to change, modify, add or remove portions of this Policy at any time and without prior notice, and any changes will become effective immediately upon being posted unless we advise you otherwise. Your continued use of the Site or Services after this Policy has been amended shall be deemed to be your continued acceptance of the terms and conditions of the Policy, as amended. We encourage you to bookmark this Web page and review this Policy regularly.
 
- _This Policy was last changed on April 20th, 2014_
+_This Policy was last changed on April 20th, 2014_
