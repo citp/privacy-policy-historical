@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amyshealthybaking.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113235356id_/http%3A//amyshealthybaking.com/disclosure-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amyshealthybaking.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515190444id_/http%3A//amyshealthybaking.com/disclosure-and-privacy-policy) for the most accurate reproduction.*
 
 # Disclosure and Privacy Policy | Amy's Healthy Baking
 
