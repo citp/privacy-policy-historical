@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecompanystore.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905072531id_/http%3A//www.thecompanystore.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecompanystore.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515024224id_/http%3A//www.thecompanystore.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Security | The Company Store
 
@@ -16,8 +16,8 @@ We are here to answer your questions on our privacy policy:
 Or if you prefer, write to us at:   
 Customer Service Manager  
 The Company Store  
-500 Company Store Road  
-La Crosse, WI 54601-4477
+2929 Airport Rd  
+La Crosse, WI 54603-1259
 
 
 
