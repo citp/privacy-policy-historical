@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the looksgud.in privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115124821id_/http%3A//www.looksgud.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the looksgud.in privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516015308id_/http%3A//www.looksgud.in/privacy-policy) for the most accurate reproduction.*
 
-# LooksGud
+# Privacy Policy - LooksGud.in
 
 ## Commitment
 
