@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getalma.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109153317id_/http%3A//www.getalma.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getalma.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515223803id_/http%3A//www.getalma.com/privacy.html) for the most accurate reproduction.*
 
-# About Alma | Mission-Driven K12 Holistic Student Engagement Platform
+# About Alma | The world's first truly integrated SIS + LMS
 
 ## Privacy Policy
 
@@ -79,3 +79,9 @@ You can always opt not to disclose information to us, but keep in mind some info
 You may be able to add, update, or delete information as explained above. When you update information, however, we may maintain a copy of the unrevised information in our records. You may request deletion of your account by contacting the applicable school or district that originally provisioned the account using the Services. Some information may remain in our records after your deletion of such information from your account. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally, and only in accordance with the Terms.
 
 **_What if I have questions about this policy?_** If you have any questions or concerns regarding our privacy policies, please send us a detailed message to [privacy@getalma.com](mailto:privacy@getalma.com), and we will try to resolve your concerns. 
+
+**Alma demos are fully customized to focus on what's important to you and your school.**
+
+We usually start with a brief discussion of your current solution and needs, then show you a _live, online demo_ of the features you're most interested in seeing.
+
+We know you're busy, so we'll call or email you to schedule a one-on-one demo when it's convenient for you. Demos average around _30 minutes_ , but can be as short or long as you like.
