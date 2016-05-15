@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tntdrama.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101170715id_/http%3A//www.tntdrama.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tntdrama.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515204404id_/http%3A//www.tntdrama.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
