@@ -1,91 +1,45 @@
-> *The following text is extracted and transformed from the pofex.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121232018id_/http%3A//www.pofex.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pofex.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515120102id_/http%3A//www.pofex.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Pofex
+# Pofex - Privacy
 
-Pofex is founded on the principles of helping people to discover new information by enabling them to share what they find interesting with one another. Pofex knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting the Pofex website, you are accepting the practices outlined in this Privacy Policy.
+This privacy policy discloses the privacy practices for **http://www.pofex.com/**. This privacy policy applies solely to information collected by this web site. It will notify you of the following:
 
-This Privacy Policy covers Pofex's treatment of personal information that Pofex gathers when you are on the Pofex website and when you use Pofex services. This policy does not apply to the practices of third parties that Pofex does not own or control, or to individuals that Pofex does not employ or manage.
+What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared. What choices are available to you regarding the use of your data. The security procedures in place to protect the misuse of your information. How you can correct any inaccuracies in the information. Information Collection, Use, and Sharing
 
-### Information Collected by Pofex
+We are the sole owners of the information collected on this site. We only have access to collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
 
-We only collect personal information that is relevant to the purpose of our website, which is to enable users to discover and share information with one another. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our Pofex users:
+We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order.
 
-  1. **Information You Provide to Us:**  
-We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. 
+Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
 
-Registration: In order for you to use Pofex services, such as submitting new links to the website, you must complete a registration form. As part of this registration form, we require select personal information (including your full name, city, state and e-mail address).
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
 
-User Profile: To allow you to express yourself beyond just the information collected during registration, we enable you to provide additional information, such as a bio, favorite URLs, and instant messaging IDs. In addition, you may choose to include photos of yourself in your profile. As indicated below, in the section titled "Sharing Your Information", you can control how your information is displayed and used.
+Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
 
-  2. **Automatic Information:**  
-We receive and store certain types of information whenever you interact with us. Pofex and its authorized agents automatically receive and record certain "traffic data" on their server logs from your browser including your IP address, Pofex cookie information, and the page you requested. Pofex uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website. 
+Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/).
 
-Pofex may collect and, on any page, display the total counts that page has been viewed. This includes User Profile pages.
+**Your Access to and Control Over Information**
 
-Many companies offer programs that help you to visit websites anonymously. While Pofex will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:
 
+\- See what data we have about you, if any.
 
+\- Change/correct any data we have about you.
 
+\- Have us delete any data we have about you.
 
-### E-mail Communications
+\- Express any concern you have about our use of your data.
 
-Pofex is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the "Sharing Your Information" section below. Pofex may send out e-mails with Pofex-related news, products, offers, surveys or promotions. You may also receive notification e-mails from Pofex, which inform you of actions (e.g. friend requests) that have been performed on the site. If you do not want to receive e-mail from us, please visit the Email Preferences section of your User Profile and/or follow the instructions contained in the unwanted e-mail message. However, please note that in all cases you will continue to receive all system e-mails (e.g. those regarding forgotten user passwords) and legal notices (e.g. updates to our policies) from us.
+**Security**
 
-### Cookies
+We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
 
-  * Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Pofex cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
-  * The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of Pofex's coolest features.
-  * Some of our business partners, like our advertisers, may use cookies on our website. We have no access to, or control over, these cookies.
+Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page.
 
+While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 
+**Updates**
 
-### Sharing Your Information
+Our Privacy Policy may change from time to time and all updates will be posted on this page. 
 
-Because Pofex enables people to discover and share information with one another, information about the people who use Pofex is an integral part of the Pofex experience. Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below.
-
-  * Pofex Personnel: Pofex personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of Pofex business.
-  * Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if Pofex, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred.
-  * Protection of Pofex and Others: We may release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our Terms of Use and other policies; or to protect the rights, property, or safety of Pofex, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
-  * User Profile information: Information collected during registration and subsequent visits, such as your full name and location, may be displayed to other Pofex users in your User Profile. The User Profile is the area on Pofex where we allow you to tell other Pofex users about yourself and your interests. You may control what personal information is displayed in your User Profile by visiting the Privacy Settings section of your User Profile.
-  * Member Directory: The e-mail address that you submit upon registration will be searchable by other Pofex users who know you by your email address, unless you choose to opt out of this feature. This is primarily so that other users can find you to establish friendship through Pofex. You may opt-out of this feature by visiting the Privacy Settings section of your User Profile.
-  * Friends' Activity: Much like other online social networks, Pofex allows non-friends to browse your friends' activity.
-  * API: Pofex will allow third parties access to all Pofex data this is already publicly available through the Pofex website. Pofex will keep private any passwords.
-  * Syndication: Pofex allows for the RSS syndication of all of its public content within the Pofex website.
-  * With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information.
-
-
-
-### Keeping Information Secure
-
-  * Your Pofex account information is protected by a password for your privacy and security. Protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer.
-  * Only employees who need personal information to perform a specific job (for example, a customer service representative) are granted access to it. All of our employees are kept up to date on our privacy and security practices.
-
-
-
-### Ways to Control Display and Use of Your Information
-
-  * As stated previously, you can always opt not to disclose information, but then you may be unable to use certain features on our website, such as posting new links.
-  * By visiting your User Profile, you can correct, amend, add or delete personal information on our website. When you update information, however, we often maintain a copy of the unrevised information in our records.
-  * You may request deletion of your Pofex account by e-mailing us at [support@pofex.com](mailto:support@pofex.com).
-  * If you do not wish to receive e-mail from us or other Pofex users, please visit the Email Preferences section of your User Profile and/or follow the instructions contained in the unwanted e-mail message.
-  * However, please note that you will continue to receive all system e-mails (e.g. those regarding forgotten user passwords) and legal notices (e.g. updates to our policies) from us.
-  * If you do not wish to have people who know you by your email address find you via the Member Directory service, please visit the Privacy Settings section of your User Profile to opt out of this feature.
-  * As explained earlier, the "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our attractive features.
-
-
-
-### Children Under 18 Years of Age
-
-You must be 13 years and older to register to use the Pofex website. As a result, Pofex does not specifically collect information about children. If we learn that Pofex has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents' permission before using Pofex or sending information about themselves or anyone else over the Internet.
-
-### Changes to this Privacy Policy
-
-Pofex may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Pofex website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
-
-### Conditions of Use
-
-If you decide to visit Pofex website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.
-
-### Effective Date of this Privacy Policy
-
-This Privacy Policy is effective as of January 1, 2010 and last updated July 24, 2011.
+If you feel that we are not abiding by this privacy policy, you should contact us immediately http://www.pofex.com/contact.php. 
