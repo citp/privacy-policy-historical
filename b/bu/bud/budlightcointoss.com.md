@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the budlightcointoss.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114135605id_/http%3A//www.budlightcointoss.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budlightcointoss.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515102223id_/http%3A//www.budlightcointoss.com/privacy) for the most accurate reproduction.*
 
-# 
-
-### Privacy Policy
+# Bud Light Super Bowl Coin Toss
 
 Thank you for visiting our website (the "Website"). We value and respect your privacy, and this privacy policy (the "Privacy Policy") is designed to assist you in understanding how we collect, use, and protect any information you may provide to us. Our Terms of Use available [here](https://web.archive.org/terms) describe the terms and conditions governing your access to and use of the Website. Your use of the Website signifies your agreement to be bound by both the Privacy Policy and our Terms of Use. If you do not agree to the terms of the Privacy Policy, please do not use the Website or provide any information to us. Anheuser-Busch is committed to complying with the requirements of the Beer Institute Advertising and Marketing Code. For more information, click here.
 
