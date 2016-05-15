@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolcoder.in privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911102639id_/http%3A//www.coolcoder.in/p/blog-page_2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolcoder.in privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515025324id_/http%3A//www.coolcoder.in/p/blog-page_2.html) for the most accurate reproduction.*
 
 # Privacy Policy | Coding is Cool
 
