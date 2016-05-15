@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starkbros.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217025338id_/http%3A//www.starkbros.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starkbros.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515190254id_/http%3A//www.starkbros.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Stark Bro's
 
@@ -22,10 +22,10 @@ In addition, when you visit our website, we make use of remarketing and similar 
 
 ### Do I have a choice with the use of my information?
 
-You have the options to review, change or modify the use of your personal information in regards to promotional emails, catalog mailings, third-party sharing, and promotional telephone contact. If your account is set up online, all of these options can be found by going to _View My Account »[Promotion Options](https://web.archive.org/web/20151217025338id_/http%3A//www.starkbros.com/account/promotion-options)_. If your account is not yet set up online, you can simply call us at 800.325.4180 to make any of these inquiries or changes. We respect your wishes concerning the use of your personal information.
+You have the options to review, change or modify the use of your personal information in regards to promotional emails, catalog mailings, third-party sharing, and promotional telephone contact. If your account is set up online, all of these options can be found by going to _View My Account »[Promotion Options](https://web.archive.org/web/20160515190254id_/http%3A//www.starkbros.com/account/promotion-options)_. If your account is not yet set up online, you can simply call us at 800.325.4180 to make any of these inquiries or changes. We respect your wishes concerning the use of your personal information.
 
 You can also opt out of Google's use of cookies by visiting the [Ads Preference Manager](https://www.google.com/settings/ads/onweb). You can opt out of third-party vendors use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/). And you can install a [browser add-on](https://tools.google.com/dlpage/gaoptout/) to opt out of Google Analytics data collection. 
 
 ### Have additional questions or concerns?
 
-Should you have any additional questions or concerns regarding our privacy policy, please feel free to [contact us anytime.](https://web.archive.org/web/20151217025338id_/http%3A//www.starkbros.com/about/contact-information) You can also contact us if you need to correct or change any account information.
+Should you have any additional questions or concerns regarding our privacy policy, please feel free to [contact us anytime.](https://web.archive.org/web/20160515190254id_/http%3A//www.starkbros.com/about/contact-information) You can also contact us if you need to correct or change any account information.
