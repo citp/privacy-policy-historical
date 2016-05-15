@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aadharcarduidai.in privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114065951id_/http%3A//www.aadharcarduidai.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aadharcarduidai.in privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515023138id_/http%3A//www.aadharcarduidai.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Aadhar Card
 
