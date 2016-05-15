@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazonaffiliateautomation.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130034712id_/http%3A//www.amazonaffiliateautomation.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazonaffiliateautomation.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515172225id_/http%3A//www.amazonaffiliateautomation.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Untitled Document
 
@@ -50,7 +50,7 @@ If it proves impossible to arrive at a mutually satisfactory solution through me
 
 Amazon Affiliate Automation (AmazonAffiliateAutomation.com) is controlled, operated and administered entirely within Amazon Affiliate Automation (AmazonAffiliateAutomation.com). This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party
 
-[Terms Of Use](https://web.archive.org/web/20151130034712id_/http%3A//www.amazonaffiliateautomation.com/tos.html) | [Privacy Policy](https://web.archive.org/web/20151130034712id_/http%3A//www.amazonaffiliateautomation.com/privacypolicy.html) | [Earnings Disclaimer](https://web.archive.org/web/20151130034712id_/http%3A//www.amazonaffiliateautomation.com/earndisclaimer.html)
+[Terms Of Use](https://web.archive.org/web/20160515172225id_/http%3A//www.amazonaffiliateautomation.com/tos.html) | [Privacy Policy](https://web.archive.org/web/20160515172225id_/http%3A//www.amazonaffiliateautomation.com/privacypolicy.html) | [Earnings Disclaimer](https://web.archive.org/web/20160515172225id_/http%3A//www.amazonaffiliateautomation.com/earndisclaimer.html)
 
 © Amazon Affiliate Automation All Rights Reserved  
 
