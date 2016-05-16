@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retentionscience.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124202337id_/http%3A//www.retentionscience.com/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retentionscience.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516042433id_/http%3A//www.retentionscience.com/footer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Retention Science
 
