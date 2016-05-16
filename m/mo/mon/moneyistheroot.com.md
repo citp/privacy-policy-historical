@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyistheroot.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920080313id_/http%3A//www.moneyistheroot.com/about/privacy-policy-3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyistheroot.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516224238id_/http%3A//www.moneyistheroot.com/about/privacy-policy-3) for the most accurate reproduction.*
 
 # Privacy_Policy
 
