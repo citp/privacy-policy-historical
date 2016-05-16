@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediaplayer.me privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213214908id_/http%3A//mediaplayer.me/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediaplayer.me privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516093333id_/http%3A//mediaplayer.me/privacy.php) for the most accurate reproduction.*
 
 # Download Media Players from MediaPlayer.me
 
