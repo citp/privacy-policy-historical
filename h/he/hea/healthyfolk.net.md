@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthyfolk.net privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124043657id_/http%3A//healthyfolk.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthyfolk.net privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516104203id_/http%3A//healthyfolk.net/privacy-policy) for the most accurate reproduction.*
 
 # Healthy Folk » Privacy Policy
 
