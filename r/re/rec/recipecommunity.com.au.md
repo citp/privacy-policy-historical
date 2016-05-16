@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the recipecommunity.com.au privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212074813id_/http%3A//www.recipecommunity.com.au/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipecommunity.com.au privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516212622id_/http%3A//www.recipecommunity.com.au/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Official Thermomix Forum & Recipe Community
 
 **Privacy Statement:**  
-At Thermomix in Australia Pty Ltd (ACN 069 944 930) ( **Thermomix in Australia** ), we recognise the importance of protecting your personal information ( **Personal Information** ). We are bound by the Privacy Act 1988 (Cth) and the Australian Privacy Principles. 
+At Thermomix ® in Australia Pty Ltd (ACN 069 944 930) ( **Thermomix ® in Australia** ), we recognise the importance of protecting your personal information ( **Personal Information** ). We are bound by the Privacy Act 1988 (Cth) and the Australian Privacy Principles. 
 
-The Privacy Policy relates to the collection and use of Personal Information you may supply to us when you interact with us, such as at a demonstration, cooking class or through your conduct on our [website](http://www.thermomix.com.au/) or the [recipe community](http://www.recipecommunity.com.au/) (together the Site). 
+The Privacy Policy relates to the collection and use of Personal Information you may supply to us when you interact with us, such as at a demonstration, cooking class or through your conduct on our [website](http://www.xn--thermomix%20-pra.com.au/) or the [recipe community](http://www.recipecommunity.com.au/) (together the Site). 
 
-By using the Site and providing us with your Personal Information, you consent and agree to the Privacy Policy of Thermomix in Australia as follows. We are not responsible for the privacy of any Personal Information that you reveal in any public form on the Site (e.g. message boards, blogs etc). 
+By using the Site and providing us with your Personal Information, you consent and agree to the Privacy Policy of Thermomix ® in Australia as follows. We are not responsible for the privacy of any Personal Information that you reveal in any public form on the Site (e.g. message boards, blogs etc). 
 
 We reserve the right, at our discretion, to modify or remove portions of this Privacy Policy from time to time. You should review this Privacy Policy periodically to ensure you are updated on any changes.
 
@@ -19,7 +19,7 @@ We may collect your Personal Information such as your name, date of birth, addre
   * the date and time of your visit to the Site;
   * the pages viewed and information downloaded;
   * food habits;
-  * Thermomix model;
+  * Thermomix ® model;
   * the previous sites visited; and
   * the type of browser used.
 
@@ -33,7 +33,7 @@ We may collect your Personal Information using various means such as: directly f
 **How do we use your Personal Information?**  
 We may use your Personal Information for the following purposes:
 
-  * to better understand who uses a Thermomix and the Site;
+  * to better understand who uses a Thermomix ® and the Site;
   * to provide products and services to you;
   * to send information updates, marketing materials and newsletters to you;
   * we may disclose your Personal Information to other businesses who assist us in providing products or services or who perform functions on our behalf;
@@ -43,7 +43,7 @@ We may use your Personal Information for the following purposes:
 
 
 **To whom do we disclose your Personal Information?**  
-We may disclose your Personal Information to third parties but only on a needs basis and for purposes contemplated by your use of a Thermomix. These third parties may include:
+We may disclose your Personal Information to third parties but only on a needs basis and for purposes contemplated by your use of a Thermomix ®. These third parties may include:
 
   * our agents or contractors; 
   * email marketing providers such as Vision 6;
@@ -86,7 +86,7 @@ Sometimes, cookies may collect and store your Personal Information. We treat suc
 **Third Party Sites**  
 From time to time we may provide links to third party websites ( **Linked Sites** ). These Linked Sites are not under our control and we do not accept responsibility or liability for the conduct of the Linked Sites or their businesses and the information available on the Linked Sites. We recommend that you refer to the privacy policy of the Linked Sites before disclosing your Personal Information to the Linked Sites. 
 
-**Contact Us** If you have any further queries relating to our Privacy Policy or you have any comments or feedback, please contact us at: [info@thermomix.com.au](mailto:info@thermomix.com.au). 
+**Contact Us** If you have any further queries relating to our Privacy Policy or you have any comments or feedback, please contact us at: [info@Thermomix ®.com.au](mailto:info@Thermomix%20%C2%AE.com.au). 
 
 **Further Privacy Information**  
 For more information about privacy issues in Australia and protecting your privacy, visit the Australian Government, Office of the Australian Information Commissioner website. [www.oaic.gov.au](http://www.oaic.gov.au/). 
