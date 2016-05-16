@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adzs.co.uk privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115181404id_/http%3A//www.adzs.co.uk/privacy-policy-p30) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adzs.co.uk privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516201759id_/http%3A//www.adzs.co.uk/privacy-policy-p30) for the most accurate reproduction.*
 
-# Privacy Policy / Free Classifieds Ads
+# Privacy Policy
 
 **Privacy Policy**
 
