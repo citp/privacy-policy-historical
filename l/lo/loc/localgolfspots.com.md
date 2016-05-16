@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localgolfspots.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213013423id_/http%3A//www.localgolfspots.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localgolfspots.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516110359id_/http%3A//www.localgolfspots.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LocalGolfSpots
 
