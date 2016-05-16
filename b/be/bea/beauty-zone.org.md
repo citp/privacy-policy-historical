@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beauty-zone.org privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009144153id_/http%3A//beauty-zone.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beauty-zone.org privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516204518id_/http%3A//beauty-zone.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Beauty Zone
 
