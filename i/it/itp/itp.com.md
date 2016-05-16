@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itp.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116033055id_/http%3A//www.itp.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itp.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516211454id_/http%3A//www.itp.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | ITP Publishing Group | ITP.com
 
