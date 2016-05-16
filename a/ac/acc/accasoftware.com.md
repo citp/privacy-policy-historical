@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the accasoftware.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914163711id_/http%3A//www.accasoftware.com/en/id42/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accasoftware.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516175430id_/http%3A//www.accasoftware.com/en/id42/privacy-policy.html) for the most accurate reproduction.*
 
-# ACCA software S.p.A.
+# ACCA software
 
 This information is intended to describe how to manage the website in relation to the processing of personal data of those that visit the website. This notice is given pursuant to art.13 of Legislative Decree nr.196/2003 (Italian Code relating to the protection of personal data) to those who connect to the www.accasoftware.com website and connected sub-domains. This information is provided for the www.accasoftware.com website and its connected sub-domains. Following consultation of the website, identifiable personal data may be treated. The Data treatment manager is ACCA software S.p.A. with headquarters in Via Michelangelo Cianciulli n. 114, 83048 Montella (AV), Italy. Data will be processed by ACCA software SpA and may also be transmitted to other company associates.
 
