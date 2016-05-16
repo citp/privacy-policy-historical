@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justrentalsdubai.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209173537id_/http%3A//www.justrentals.com/information/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justrentalsdubai.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516232800id_/http%3A//www.justrentals.com/information/policy) for the most accurate reproduction.*
 
 # Privacy Policy Statement - JustRentals.com
 
@@ -69,4 +69,11 @@ Create a free account to manage your properties and search results
 
 By clicking Create Account you confirm that you agree to JustRentals [terms of use](https://web.archive.org/information/terms/), our [privacy policy](https://web.archive.org/information/policy/) and approval to store [cookies](https://web.archive.org/information/policy/#cookies) on your computer.
 
-JustRentals.com is moving! We've joined forces with JustProperty.com to bring you the nation's largest collection of reliable sales and rentals listings. [Go to JustProperty.com](https://justproperty.com/)
+#### JustRentals.com is now
+
+Find the most up-to-date property listings   
+in JustProperty.com 
+
+[Take me there >](http://justproperty.com/)
+
+JustRentals.com is now 
