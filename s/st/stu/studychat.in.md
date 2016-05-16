@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studychat.in privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116113253id_/http%3A//www.studychat.in/p/normal-0-false-false-false-en-us-x-none.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studychat.in privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516162745id_/http%3A//www.studychat.in/p/normal-0-false-false-false-en-us-x-none.html) for the most accurate reproduction.*
 
 # Privacy policy
 
