@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torontofashionblog.ca privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029025954id_/http%3A//torontofashionblog.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torontofashionblog.ca privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517014740id_/http%3A//torontofashionblog.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
