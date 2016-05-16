@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylittlemuffin.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908034707id_/http%3A//www.mylittlemuffin.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylittlemuffin.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516065901id_/http%3A//www.mylittlemuffin.com/terms) for the most accurate reproduction.*
 
 # Terms and Privacy policy - My Little Muffin
 
@@ -41,6 +41,21 @@ When you use our Website or purchase our products or services, you acknowledge t
 ### Changes to this Privacy Policy
 
 We may amend this Privacy Policy from time to time.  Use of information we collect is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will post such changes on our Website and/or send you an email. You are bound by any changes to the Privacy Policy when you use the Website after such changes have been posted.
+
+  * About
+  * Latest Posts
+
+
+
+[](http://www.mylittlemuffin.com/author/admin/ "Preetjyot")
+
+### [Preetjyot](http://www.mylittlemuffin.com/author/admin/)
+
+I am Preetjyot K. Mehra. I am a dreamer, a dreamer who believes in her dreams, and keeps going strong till she gives life to her dreams. I have my own little corner of the web called www.mylittlemuffin.com (follow me on https://www.facebook.com/mylittlemuffin ), a place where I share interesting articles and ideas , to help you break all the stereotypes.
+
+[](http://www.mylittlemuffin.com/author/admin/ "Preetjyot")
+
+#### Latest posts by Preetjyot ([see all](http://www.mylittlemuffin.com/author/admin/))
 
 ### Comments
 
