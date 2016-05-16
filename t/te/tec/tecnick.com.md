@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tecnick.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231052524id_/http%3A//www.tecnick.com/public/code/cp_dpage.php%3Faiocp_dp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tecnick.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516130637id_/http%3A//www.tecnick.com/public/code/cp_dpage.php%3Faiocp_dp%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
-Questo sito internet utilizza unicamente cookie di sessione e non utilizza cookie di profilazione ai fini di invio di messaggi pubblicitari mirati. Tuttavia questo sito utilizza cookie di "terze parti" installati da servizi diversi il sito che si sta visitando. Per disabilitare i cookie di profilazione di terze parti visitate i seguenti link: [AddThis Targeting Opt-Out](http://www.addthis.com/privacy/opt-out "AddThis Targeting cookie Opt-Out") e [Google Ads Settings](https://www.google.com/settings/ads/plugin "Google cookie opt-out"). **Proseguendo nella navigazione di questo sito si presta il consenso all'uso dei[cookie](https://web.archive.org/web/20151231052524id_/http%3A//www.tecnick.com/public/code/cp_dpage.php?aiocp_dp=cookie_info "Informativa estesa sull'uso dei cookies").**
+This website uses only session cookies and does not use profiling cookies for the purposes of sending targeted advertisements. However, this site uses "third parties" cookies installed by different services than the site you are visiting. To disable the third-party profiling cookies, please visit the following links: [AddThis Targeting Opt-Out](http://www.addthis.com/privacy/opt-out "AddThis Targeting cookie Opt-Out") e [Google Ads Settings](https://www.google.com/settings/ads/plugin "Google cookie opt-out"). **By using this website, you agree to our use of cookies.**
 
 The following statement outlines the privacy policy of Tecnick.com (www.tecnick.com). This policy is open to comment and is meant to provide an evolutionary framework from which we at Tecnick.com can address any concerns of the web-surfer community. Please forward any comments you may have regarding this policy to us at [info@tecnick.com](mailto:info@tecnick.com). 
 
@@ -39,7 +39,7 @@ A web surfer may choose to opt-out of receiving the benefits associated with our
 
 ### Personally Identifiable Consumer Data - Opt-Out
 
-Users can change or delete their personally-identifiable data simply using the [user area](https://web.archive.org/web/20151231052524id_/http%3A//www.tecnick.com/public/code/cp_edit_user.php) or sending an email to [info@tecnick.com](mailto:info@tecnick.com).
+Users can change or delete their personally-identifiable data simply using the [user area](https://web.archive.org/web/20160516130637id_/http%3A//www.tecnick.com/public/code/cp_edit_user.php) or sending an email to [info@tecnick.com](mailto:info@tecnick.com).
 
 ### Children's Privacy
 
