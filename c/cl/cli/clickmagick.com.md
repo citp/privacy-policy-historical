@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickmagick.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214051157id_/http%3A//www.clickmagick.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickmagick.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516145456id_/http%3A//www.clickmagick.com/privacy.cgi) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -63,7 +63,7 @@ Please note however that even if you opt-out, you may still receive announcement
   
 3\. Telephone: 213-761-4681 (if you're having trouble with the above)  
   
-4\. Postal Mail: ClickMagick, LLC, 8605 Santa Monica Blvd #49267, Los Angeles, CA 90069
+4\. Postal Mail: ClickMagick Inc., 8605 Santa Monica Blvd #49267, Los Angeles, CA 90069
 
 Can children or minors use ClickMagick?
 
