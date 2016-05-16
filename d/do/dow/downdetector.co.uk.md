@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downdetector.co.uk privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115015106id_/http%3A//downdetector.co.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downdetector.co.uk privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516185327id_/http%3A//downdetector.co.uk/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement and policy Down Detector
 
@@ -16,11 +16,11 @@ We have no access to or administration abilities over any cookies that are used 
  **  
 Third-Party Advertising – AdChoices**
 
-We use third-party advertising companies to serve ads and collect information when you visit this website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. For more information about this practice and to understand your opt-out choices, please [click here](https://web.archive.org/web/20150627161127/http://www.networkadvertising.org/choices/). 
+We use third-party advertising companies to serve ads and collect information when you visit this website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. For more information about this practice and to understand your opt-out choices, please [click here](http://www.networkadvertising.org/choices/). 
 
-To opt out for Project Rubicon advertising, please visit [http://www.Rubiconproject.com/privacy/consumer-online-profile-and-opt-out/](https://web.archive.org/web/20150627161127/http://www.rubiconproject.com/privacy/consumer-online-profile-and-opt-out/)
+To opt out for Project Rubicon advertising, please visit [http://www.Rubiconproject.com/privacy/consumer-online-profile-and-opt-out/](http://www.rubiconproject.com/privacy/consumer-online-profile-and-opt-out/)
 
-To opt out for Taboola advertising, please visit [http://www.taboola.com/privacy-policy](https://web.archive.org/web/20150627161127/http://www.taboola.com/privacy-policy)  
+To opt out for Taboola advertising, please visit <http://www.taboola.com/privacy-policy>  
  **  
 Links to Other Websites**
 
@@ -64,8 +64,9 @@ info@downdetector.com
 
 Serinus42  
 Downdetector  
-Parklaan 125  
-2011 KT Haarlem  
+Schipholweg 1  
+7e Verdieping  
+2034 LS Haarlem  
 The Netherlands
 
 This privacy statement and policy was last updated on 19 February 2015.
