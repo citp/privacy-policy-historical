@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naijatechguide.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207202809id_/http%3A//apps.naijatechguide.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijatechguide.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516050957id_/http%3A//apps.naijatechguide.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy for NaijaTechGuide Blog and Apps
 
