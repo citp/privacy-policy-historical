@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abrsm.org privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218133419id_/http%3A//us.abrsm.org/en/policies/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abrsm.org privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516131401id_/http%3A//us.abrsm.org/en/policies/website-privacy-policy) for the most accurate reproduction.*
 
 # ABRSM: Website Privacy Policy
 
@@ -6,6 +6,7 @@
   * [Special Consideration Policy](http://us.abrsm.org/en/policies/special-consideration-policy/)
   * [Safeguarding Children Policy, Procedures and Code of Practice](http://us.abrsm.org/en/policies/safeguarding-child-protection-policy/)
   * [Customer Service Statement](http://us.abrsm.org/en/policies/customer-service-statement/)
+  * [Complaints Policy](http://us.abrsm.org/en/policies/complaints-policy/)
   * [Equal Opportunities Statement](http://us.abrsm.org/en/policies/equal-opportunities-statement/)
   * [Website Privacy Policy](http://us.abrsm.org/en/policies/website-privacy-policy/)
   * [Cookie Policy](http://us.abrsm.org/en/policies/cookie-policy/)
@@ -18,7 +19,7 @@ This privacy statement is designed to explain how we collect information from yo
 
 Please read this statement carefully and revisit it from time to time to review any changes that may have been made.
 
-##  [Information collection](http://us.abrsm.org/en/policies/website-privacy-policy/#collapse_1)
+##  [Information collection](http://us.abrsm.org/en/policies/website-privacy-policy#collapse_1)
 
 ### Personal information
 
@@ -87,11 +88,11 @@ If you choose to participate in an ABRSM discussion forum, you should be aware 
 
 
 
-##  [Aggregate information](http://us.abrsm.org/en/policies/website-privacy-policy/#collapse_2)
+##  [Aggregate information](http://us.abrsm.org/en/policies/website-privacy-policy#collapse_2)
 
 Aggregate information is collected from users using our own web tracker. This information includes users (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time of visit, number of clicks, error pages and number of unique visits. This information is collected to allow us to analyze visitor trends and use of our website, administer the website and to gather broad demographic information of our website users. This information is not linked to personal profiles or to personally identifiable information provided by users.
 
-##  [Information use](http://us.abrsm.org/en/policies/website-privacy-policy/#collapse_3)
+##  [Information use](http://us.abrsm.org/en/policies/website-privacy-policy#collapse_3)
 
 ### Profile
 
@@ -113,7 +114,7 @@ If you are concerned about cookies, you can disable them in your browser.  If 
 
 Like most standard website servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
 
-##  [Communications from the site](http://us.abrsm.org/en/policies/website-privacy-policy/#collapse_4)
+##  [Communications from the site](http://us.abrsm.org/en/policies/website-privacy-policy#collapse_4)
 
 ### Online applicants
 
@@ -171,13 +172,13 @@ When our online examination entry form asks users to enter sensitive information
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. Personal information given by users beyond their name and address is restricted in our offices and made available only to the appropriate departments. All employees are provided with a unique username and password in order to gain access to this information. Finally, the servers that store personally identifiable information are password protected and held in a secure environment, in a locked facility. Regular back ups are made of this data, and these are stored off site.
 
-##  [Notification of changes](http://us.abrsm.org/en/policies/website-privacy-policy/#collapse_5)
+##  [Notification of changes](http://us.abrsm.org/en/policies/website-privacy-policy#collapse_5)
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. 
 
 If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection we will notify users where possible via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner.
 
-##  [Subject Access requests](http://us.abrsm.org/en/policies/website-privacy-policy/#collapse_6)
+##  [Subject Access requests](http://us.abrsm.org/en/policies/website-privacy-policy#collapse_6)
 
 ABRSM respects the right of individuals to access and check the accuracy of any personal data that is being kept by them, either on computer or in a relevant filing system, as defined in the Data Protection Act 1988. Under the act, individuals have the right to know what information is held about them. This is known as a subject access request.
 
