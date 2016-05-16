@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitecloud.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905052412id_/https%3A//www.greengeeks.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitecloud.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516211344id_/https%3A//www.greengeeks.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GreenGeeks®
 
