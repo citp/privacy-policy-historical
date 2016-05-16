@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the taiga.io privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315043943id_/https%3A//taiga.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taiga.io privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517001357id_/https%3A//taiga.io/privacy-policy.html) for the most accurate reproduction.*
 
-# Taiga.Io | Agile, Open Source, Free Project Management System
+# Taiga.io
 
 ## General Information
 
@@ -40,7 +40,7 @@ If you choose to provide Taiga with your information, you consent to the transfe
 
 Taiga adheres to the US-EU and US-Swiss Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. Department of Commerce's Safe Harbor Program <http://www.export.gov/safeharbor/>.
 
-For European Union and Swiss residents, any questions or concerns regarding the use or disclosure of your information should be directed to Taiga by sending an email to privacy@taiga.io. We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of your information in accordance with this Privacy Policy. For complaints that cannot be resolved, and consistent with the Safe Harbor Enforcement Principle, we have committed to cooperate with data protection authorities located within Switzerland or the European Union (or their authorized representatives).
+For European Union and Swiss residents, any questions or concerns regarding the use or disclosure of your information should be directed to Taiga by sending an email to [privacy@taiga.io](mailto:privacy@taiga.io "Send mail to privacy@taiga.io"). We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of your information in accordance with this Privacy Policy. For complaints that cannot be resolved, and consistent with the Safe Harbor Enforcement Principle, we have committed to cooperate with data protection authorities located within Switzerland or the European Union (or their authorized representatives).
 
 ## Changes
 
@@ -48,4 +48,6 @@ Taiga may periodically update this policy. We will notify you about significant 
 
 ## Questions
 
-Any questions about this Privacy Policy should be addressed to support@taiga.io.
+Any questions about this Privacy Policy should be addressed to [privacy@taiga.io](mailto:privacy@taiga.io "Send mail to privacy@taiga.io").
+
+iocaine lock promote trash unlock client-requirement project team-requirement add scrum bulk close dashboard discover drag exclamation flag fold-column fold-row graph issues kanban like-empty like question search settings team timeline unfold-column unfold-row unwatch user wiki archive arrow-down arrow-left arrow-right arrow-up attachment briefcase bubble-empty bubble bug capslock check clipboard document documents downvote edit error filters-empty filters github maximize minimize move reload save upload upvote writer watch check-empty task api customize feel-love highly-designed integration lend-hand powerful smiley speak-up gallery list
