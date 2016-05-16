@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websaver.ca privacy policy that was archived on 2015-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151028005054id_/https%3A//websaver.ca/en_ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websaver.ca privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516040437id_/https%3A//websaver.ca/en_ca/privacy-policy) for the most accurate reproduction.*
 
 # webSaver.ca - Canadian Coupons and Printable Coupons
 
@@ -11,9 +11,9 @@ At webSaver.ca, we’re serious about protecting your privacy. The following pol
 
 #### INFORMATION COLLECTED AND HOW WE USE IT:
 
-You always remain in control of the information you provide to webSaver.ca. We collect two types of information about visitors: Personal information (such as name, address, telephone number, e-mail address, etc.), which you have voluntarily submitted to us, and Aggregate information (such as information about how many visitors log on to our sites, the pages they access, how and where our coupons are redeemed, etc.). A 2nd barcode is used to identify at which retailer you redeemed your coupons.
+You always remain in control of the information you provide to webSaver.ca. We collect two types of information about visitors: Personal information (such as name, address, telephone number, e-mail address, etc.), which you have voluntarily submitted to us, and Aggregate information (such as information about how many visitors log on to our sites, the pages they access, how and where our coupons and/or offers are redeemed, etc.). A 2nd barcode is used to identify at which retailer you redeemed your coupons.
 
-In general, while you can visit our website and add webSaver.ca to your shopping cart without telling us who you are or revealing personal information about yourself, you must register to create a profile or login in order to complete your order and receive your webSaver.ca. We collect, maintain and use personal information you have voluntarily submitted to process and mail your webSaver.ca, contact you, including via e-mail, to respond to your comments or requests for information. We will also use it to communicate with you about the webSaver.ca service in general, and send any weekly or daily newsletters you’ve subscribed to, as well as sponsored e-mails on behalf of carefully selected partners in regards to offers, promotions, and new products that may be of interest to you, unless you choose to opt out of these mailings. You can do this by changing your preferences on your profile page and/or clicking the “unsubscribe” link at the bottom of any webSaver.ca e-mail. In addition, we may use personal information to provide you the most helpful and targeted products and services to meet your needs and respond to your inquiries. 
+In general, while you can visit our website and add webSaver.ca to your shopping cart without telling us who you are or revealing personal information about yourself, you must register to create a profile or login in order to complete your order and receive your webSaver.ca offers. We collect, maintain and use personal information you have voluntarily submitted to process, mail, email, digitally notify or print your webSaver.ca coupons and/or offers (including those from partner and/or affiliate marketers), contact you, including via e­mail or digital notification to respond to your comments or requests for information. We will also use it to communicate with you about the webSaver.ca service in general, and send any weekly or daily newsletters you’ve subscribed to, as well as sponsored and/or special offers vial mail, email or digital advertising on behalf of carefully selected partners in regards to offers, promotions, and new products that may be of interest to you, unless you choose to opt out of these mailings. You can do this by changing your preferences on your profile page and/or clicking the “unsubscribe” link at the bottom of any webSaver.ca e­mail. In addition, we may use personal information to provide you the most helpful and targeted products and services to meet your needs and respond to your inquiries.
 
 Any contact with our customer service team may be recorded to help us provide better service.
 
@@ -98,7 +98,7 @@ webSaver.ca
 Suite 203, Montréal, Québec,  
 Canada H4P 2N5  
 [privacy@websaver.ca](mailto:privacy@websaver.ca)  
-Date of Last Revision: October 27, 2015  
+Date of Last Revision: May 16, 2016  
 
 
 ×
