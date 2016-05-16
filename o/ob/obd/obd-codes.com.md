@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the obd-codes.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102061534id_/http%3A//www.obd-codes.com/misc/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obd-codes.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516062019id_/http%3A//www.obd-codes.com/misc/privacy-policy.php) for the most accurate reproduction.*
 
 # OBD-Codes.com Privacy Policy
 
@@ -15,9 +15,9 @@ NOTE: By using this site, you agree to the terms of the OBD-Codes.com privacy po
 
 
 Here is the information we have right now regarding your visit:  
-**IP Address:** 174.129.228.67  
+**IP Address:** 207.241.229.48  
 **Remote Hostname:**   
-**Referring Page:**
+**Referring Page:** http://www.obd-codes.com/
 
 ## Information Sharing And Disclosure
 
