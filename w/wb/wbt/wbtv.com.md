@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wbtv.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217120335id_/http%3A//www.wbtv.com/story/8774923/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbtv.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516203204id_/http%3A//www.wbtv.com/story/8774923/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - WBTV 3 News, Weather, Sports, and Traffic for Charlotte, NC
+# Privacy Policy - | WBTV Charlotte
 
 We provide a variety of online web services, mobile applications, and services for location-enabled and other types of devices (collectively, the "Services") from news and weather to interactive entertainment to electronic commerce via our relationship with Frankly Media LLC ("Frankly") and other vendors. Frankly is the host of the Services. Because the success of the Services is dependent on building and maintaining goodwill with our customers, the Services and Frankly (hereinafter collectively referred to as "we" or "us" or "our") are committed to implementing measures designed to protect the privacy of those using the Services. 
 
