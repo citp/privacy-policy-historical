@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the estatesgazette.com privacy policy that was archived on 2015-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150801143508id_/http%3A//www.estatesgazette.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estatesgazette.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516135519id_/http%3A//www.estatesgazette.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Estates Gazette.com
 
