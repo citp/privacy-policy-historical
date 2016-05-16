@@ -1,20 +1,16 @@
-> *The following text is extracted and transformed from the localsaver.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626095001id_/http%3A//www.localsaver.com%3Fp%3DLocalSaverAbout%26content%3Dprivacypolicy%26fullpage%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localsaver.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516174215id_/http%3A//www.localsaver.com%3Fp%3DLocalSaverAbout%26content%3Dprivacypolicy%26fullpage%3Dtrue) for the most accurate reproduction.*
 
-# None
-
-[](https://web.archive.org/)
-
-## Privacy Policy
+# Privacy Policy
 
 Last updated: September 18, 2013
 
 This privacy policy ("Policy") explains how personal information is collected, used, and disclosed with respect to your use of the LocalSaver™ website located at <http://www.localsaver.com/> (the "Site") operated by DataSphere Technologies, Inc. ("DataSphere", "we" or "us") so you can make an informed decision about using the Site. We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on the privacy policy the date it was last updated. Your use of the Site following the posting of such changes or revised statement shall constitute your consent to any changes in our privacy practices. We encourage you to review this Policy whenever you visit our Site to make sure that you understand how any personal information you provide will be used.
 
-### WHAT IS PERSONAL INFORMATION?
+### What is personal information
 
 As used herein, the term "personal information" means information that specifically identifies an individual (such as a name, address, telephone number, e-mail address, or other account number), and information about that individual's activities, such as information about his or her use of the Site, when directly linked to personally identifiable information. Personal information also includes demographic information such as date of birth, gender, geographic area and preferences when such information is linked to other personal information that identifies you. Personal information does not include "aggregate" information, which is data we collect about the use of the Site or about a group or category of products, services or users, from which individual identities or other personal information has been removed. In other words, information about how you use a service may be collected and combined with information about how others use the same service. Aggregate data helps us understand trends and our users' needs so that we can better consider new features or otherwise tailor our Site. This policy in no way restricts or limits our collection and use of aggregate information.
 
-### HOW DO WE USE PERSONAL INFORMATION?
+### How do we use personal information?
 
 Personal information may be collected in a number of ways when you visit our Site. We may collect certain information you voluntarily provide to us which may contain personal information. For example, we may collect personal information, such as your name, address, email, phone number, and other contact, and demographic information when you select or update your location, register to receive email alerts, or send us an email or contact us by other means for any reason. We may also collect contact information and credit card or other payment account information if you pay subscription or advertising fees or purchase any such products or services through the Site. From time to time we may collect demographic, contact or other personal information you provide in connection with your participation in surveys, contests, promotional offers, and other activities on the Site.
 
@@ -35,7 +31,7 @@ In general, we use personal information we collect to facilitate your use of, an
 
 Personal information provided online may be linked together or merged with other personal information so that we may better understand your needs and inform you about our products or services and those of our partners. In addition, if we receive information from third parties with whom we have business relationships, we may combine this information with the other personal information we maintain about you. In either case, this Policy governs this information.
 
-### SHARING OF PERSONAL INFORMATION
+### Sharing of personal information
 
 We may share your personal information with third parties when you request us to do so or otherwise give us your consent. For example, when you select a coupon for printing or viewing, we will share your personal information with such merchant offering that coupon in order to carry out your request. We may also share personal information with third party vendors, consultants and other service providers (“Service Providers”) who are engaged by or working with us in connection with the operation of the Site and the Services and who need access to such information to carry out their work for us, such as payment processors and hosting services. However, we are not responsible for the actions of such Service Providers, nor are we responsible for any additional information you provide directly to these Service Providers or to other third parties, and we encourage you to become familiar with their practices before disclosing information directly to them. We may also share personal information in any manner with any company that owns, is owned by or which is under common ownership with us (collectively "Affiliates"), who may use such information in the same way that we do (as described above). Note that nothing in this Policy restricts the sharing of aggregate information, which may be shared with third parties without your consent.
 
@@ -43,19 +39,19 @@ You understand that if you post an advertisement to the Site, certain informatio
 
 In addition, we may disclose personal information in the good faith belief that we are lawfully authorized or required to do so, or that doing so is reasonably necessary or appropriate to comply with the law or with legal process or authorities, respond to any claims, or to protect the rights, property or safety of DataSphere, our users, our employees or the public, including without limitation to protect DataSphere or our users from fraudulent, abusive, inappropriate or unlawful use of our Site or the Services. Information about our users, including personal information, may also be disclosed or transferred as part of, or during negotiations of, any merger, sale of company assets, financing or acquisition or in any other situation where personal information may be transferred as one of the business assets of DataSphere. In addition, we may disclose personal information in the good faith belief that we are lawfully authorized or required to do so, or that doing so is reasonably necessary or appropriate to comply with the law or with legal process or authorities, respond to any claims, or to protect the rights, property or safety of DataSphere, our users, our employees or the public, including without limitation to protect DataSphere or our users from fraudulent, abusive, inappropriate or unlawful use of our Site or the Services. Information about our users, including personal information, may also be disclosed or transferred as part of, or during negotiations of, any merger, sale of company assets, financing or acquisition or in any other situation where personal information may be transferred as one of the business assets of DataSphere.
 
-### WHAT STEPS DO WE TAKE TO PROTECT PERSONAL INFORMATION ONLINE?
+### What steps do we take to protect personal information online?
 
 You may opt out of our using your personal information to send promotional and marketing emails about our or a third party's products, services, promotions or events by sending an email to [support@DataSphere.com](mailto:support@DataSphere.com). However, this shall not affect our ability to send you emails or other communications for other purposes as described in this Policy.
 
-### HOW CAN YOU CORRECT AND UPDATE YOUR PERSONAL INFORMATION, DELETE YOUR ACCOUNT OR OBTAIN ADDITIONAL INFORMATION?
+### How can you correct and update your personal information, delete your account or obtain additional information?
 
 If you wish to correct, update or otherwise modify the data associated with your account, or if you have any questions about this Policy, please email us at [support@DataSphere.com](mailto:support@DataSphere.com).
 
-### CHILDREN’S PRIVACY
+### Children's privacy
 
 The Site is not directed at nor targeted to children under the age of 13. We do not use the Site to knowingly solicit personal information from or market to children under the age of 13. If you are under the age of 13, do not provide us with any personal information. If we learn that someone under 13 has provided personal information to the Site, we will use reasonable efforts to remove such information from our databases.
 
-### DIGITAL MILLENNIUM COPYRIGHT ACT NOTICE
+### Digital millennium copyright act notice
 
 DataSphere does not knowingly publish (or permit individuals to publish) copyrighted materials without permission. If you believe that any material published on the Site or the Services has been used in a way that constitutes copyright infringement and if you are authorized to act on behalf of the owner of the copyright that is allegedly infringed, please notify our Copyright Agent of any alleged infringement. Your notice to our Copyright Agent should be in the form of a written, signed statement containing the following information:
 
@@ -79,7 +75,7 @@ Fax: 206.219.6416
 E-mail: doug@tangolaw.com  
 
 
-### THIRD PARTY SERVICES PRIVACY POLICIES
+### Third policy services privacy policies
 
 [Open Street Maps via mapquest](http://privacy.aol.com/)
 
