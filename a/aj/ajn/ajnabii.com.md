@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ajnabii.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214205157id_/http%3A//ajnabii.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ajnabii.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517002825id_/http%3A//ajnabii.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
