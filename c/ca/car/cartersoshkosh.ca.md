@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartersoshkosh.ca privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118175534id_/http%3A//www.cartersoshkosh.ca/en_CA/privacy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartersoshkosh.ca privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516051607id_/http%3A//www.cartersoshkosh.ca/en_CA/privacy/privacy-policy.html) for the most accurate reproduction.*
 
 # Carters.com | OshKoshBgosh.com Privacy Policy
 
@@ -72,9 +72,10 @@ Our Coremetrics site usage statistics system allows you to view or change your p
 
 #### Change your current opt-out option:
 
-  * Click for Anonymous Opt-Out. Under this setting, the visitor’s Web actions captured by Coremetrics, including the data collected in its reporting, will be anonymous. All actions are grouped with all other anonymous visitors.
-  * Click for Total Opt-Out. The data is not collected by Coremetrics' data collection front-end servers and, consequently, is not included in Coremetrics reporting.
-  * Click to opt-in. This setting will again allow Coremetrics to capture all Web actions and includes the data collected in Coremetrics reporting.
-  * View Current Opt-out Status.
+    * Click for Anonymous Opt-Out. Under this setting, the visitor’s Web actions captured by Coremetrics, including the data collected in its reporting, will be anonymous. All actions are grouped with all other anonymous visitors.
+    * Click for Total Opt-Out. The data is not collected by Coremetrics' data collection front-end servers and, consequently, is not included in Coremetrics reporting.
+    * Click to opt-in. This setting will again allow Coremetrics to capture all Web actions and includes the data collected in Coremetrics reporting.
+    * View Current Opt-out Status.
+
 
 
