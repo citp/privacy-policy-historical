@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the masnsports.com privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106031243id_/http%3A//www.masnsports.com/masn-news-information/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masnsports.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516190010id_/http%3A//www.masnsports.com/masn-news-information/privacy-policy.html) for the most accurate reproduction.*
 
-# MASN News & Information - Orioles, Nationals, Ravens on MASNsports.com
+# MASN News & Information - MASNsports.com
 
 **MASN Online Privacy Policy**
 
@@ -8,7 +8,7 @@ MASN is committed to protecting the personal information that you provide to us 
 
 **User Data We Collect**
 
-We collect two types of user data: (1) anonymous data that is automatically collected from all visitors to the MASN Site; and (2) personally-identifiable data that you voluntarily submit to us (described below under "Personal Data"). 
+We collect two types of user data: (1) anonymous data that is automatically collected from all visitors to the MASN Site; and (2) personally-identifiable data that you voluntarily submit to us (described below under “Personal Data”). 
 
 __Anonymous Data__  
 We automatically collect Internet Protocol addresses and domain names through our server. We also track the number and frequency of hits per page on an aggregate basis. 
