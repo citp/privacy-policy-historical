@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pleasantholidays.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208054938id_/http%3A//www.pleasantholidays.com/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pleasantholidays.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516105833id_/http%3A//www.pleasantholidays.com/Privacy-Statement) for the most accurate reproduction.*
 
 # Privacy Policy
 
