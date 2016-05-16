@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeskuwait.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117013901id_/http%3A//www.timeskuwait.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeskuwait.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516174911id_/http%3A//www.timeskuwait.com/Privacy) for the most accurate reproduction.*
 
 # The Times Kuwait
 
