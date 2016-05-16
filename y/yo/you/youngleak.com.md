@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youngleak.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116011709id_/http%3A//www.youngleak.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngleak.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516132143id_/http%3A//www.youngleak.com/privacy) for the most accurate reproduction.*
 
 # privacy - YoungLeak
 
@@ -21,9 +21,9 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 YoungLeak may collect and use Users personal information for the following purposes:
 
   * _To run and operate our Site_  
-We may need your information display content on the Site correctly. 
+We may need your information display content on the Site correctly.
   * _To personalize user experience_  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site. 
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
 
 
 
@@ -33,7 +33,7 @@ We adopt appropriate data collection, storage and processing practices and secur
 
 ### Sharing your personal information
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. 
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
 ### Third party websites
 
@@ -59,8 +59,4 @@ YoungLeak has the discretion to update this privacy policy at any time. When we 
 
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-### Contacting us
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.
-
-This document was last updated on June 27, 2015
+This document was last updated on April 15, 2016
