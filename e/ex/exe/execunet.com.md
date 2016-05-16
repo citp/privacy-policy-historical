@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the execunet.com privacy policy that was archived on 2015-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150821203202id_/http%3A//www.execunet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the execunet.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516103439id_/https%3A//www.execunet.com/privacy-policy) for the most accurate reproduction.*
 
 # ExecuNet| ExecuNet
 
