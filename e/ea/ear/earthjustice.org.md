@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthjustice.org privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115104742id_/http%3A//earthjustice.org/site_info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthjustice.org privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516191816id_/http%3A//earthjustice.org/site_info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Earthjustice
 
