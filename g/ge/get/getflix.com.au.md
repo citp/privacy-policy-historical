@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getflix.com.au privacy policy that was archived on 2015-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150712232848id_/https%3A//www.getflix.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getflix.com.au privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516022226id_/http%3A//www.getflix.com.au/privacy) for the most accurate reproduction.*
 
-# Getflix: Unblock Hulu Plus, Amazon, Vudu, BBC iPlayer (and much more)
+# Getflix: Unblock Hulu, Amazon, BBC iPlayer, Vudu (and much more)
 
 This Privacy Policy governs the manner in which Global Stealth, Inc collects, uses, maintains and discloses information collected from users (each, a "User") of the Getflix website ("Site"). This privacy policy applies to the Site and all associated products and services.
 
