@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the security-warehouse.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506054014id_/http%3A//www.security-warehouse.com/index.php/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the security-warehouse.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516200457id_/http%3A//www.security-warehouse.com/index.php/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy
 
