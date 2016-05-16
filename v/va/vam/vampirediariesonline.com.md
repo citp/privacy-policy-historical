@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vampirediariesonline.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031114452id_/http%3A//vampirediariesonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vampirediariesonline.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516220019id_/http%3A//vampirediariesonline.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Vampire Diaries Spoilers and News
 
