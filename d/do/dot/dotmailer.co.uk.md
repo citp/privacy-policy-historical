@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the dotmailer.co.uk privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913042434id_/http%3A//www.dotmailer.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotmailer.co.uk privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516070505id_/http%3A//www.dotmailer.com/terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | dotmailer
 
 dotmailer whose registered office is at No 1 Croydon, 12-16 Addiscombe Road, Croydon, CR0 0XT England Registered No. 03762341 has created this privacy statement because we take your privacy seriously.  The statement sets out, who we are, what information we collect from you, and how we use it.
+
+[Print this page](https://web.archive.org/terms/privacy-policy-print-friendly/ "Print friendly")
 
 ### Contents
 
@@ -44,19 +46,28 @@ Our website may contain links to enable you to visit other websites of interest 
 
 You may choose to restrict the collection or use of your personal information in the following ways: 
 
-To opt out of any email communications from us, please click the ‘unsubscribe’ link at the foot of the email in question
+To opt out of any email communications from us, please click the ‘unsubscribe’ link at the foot of the email in question for an immediate removal from further communications.
 
-If you have previously agreed to us holding or using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [info@dotmailer.com](mailto:info@dotmailer.com)
+If you have previously agreed to us holding or using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [info@dotmailer.com](mailto:info@dotmailer.com). We will process the restriction of use in our marketing communications or removal of your personal information within 10 days, sometimes sooner.
 
 You may request details of personal information which we hold about you under the Data Protection Act 1998.  A small administration fee will be payable.  If you would like a copy of the information held on you please write to dotmailer at No 1 Croydon, 12-16 Addiscombe Road, Croydon, CR0 0XT] England. 
 
 ### Protection of your personal information
 
-We are concerned about guarding the security of your personal information and the details of any transactions.  We take appropriate organisational and technical security measures to protect your data against unauthorised disclosure or processing. We use a secure server to store the information you give us when you register or make an order (including your credit card details and any password) and any personal data you send us on-line is securely encrypted. 
+We are concerned about guarding the security of your personal information and the details of any transactions.  We take appropriate organisational and technical security measures to protect your data against unauthorised disclosure or processing. We use a secure server to store the information you give us when you register or make an order (including your credit card details and any password) and any personal data you send us on-line is securely encrypted.
 
-### Safe Harbour
+### Use of third party services
 
-dotmailer complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  dotmailer has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view dotmailer’s certification, please visit <http://www.export.gov/safeharbor/>.
+We may partner with and use various third party software and services, including analytics services, to help understand your usage of our products and services. In particular, we provide a limited amount of your information (such as your email address and sign-up date) to select third party services to collect data for analytics purposes when you visit our website or use our products and services. This allows dotmailer to monitor your use of our website, products and services and tracks our relationship so that we can improve our service to you. We may also use these third party services for communications, either through email, or through messages within our products and services. As part of our service agreements, these third party services may collect publicly available contact and social information related to you, such as your name, email address, gender, company, job title, photos, website URLs, social network handles and physical addresses, to enhance your user experience.
+
+### How we use personal data
+
+Personal data is used for the following purposes: (i) to provide, administer and improve our products and services, (ii) to better understand your needs and interests, (iii) to fulfill requests you may make, (iv) to personalize your experience, (v) to provide service announcements and (vi) protect, investigate and deter against fraudulent, harmful, unauthorized or illegal activity.
+
+### Cross-border data transfers
+
+Your personal information may be stored and processed in any country where we have facilities or service providers, and by using our service or by providing consent to us (where required by law), you agree to the transfer of information to countries outside of your country of residence, including to the United States, which may provide for different data protection rules than in your country.  Please note that all dotmailer entities operate under Standard Contractual Clauses providing protections and safeguards for cross-border transfers.  We take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.           
+
 
 ### SMS
 
