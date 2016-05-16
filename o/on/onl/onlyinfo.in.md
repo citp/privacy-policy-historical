@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlyinfo.in privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025021308id_/http%3A//onlyinfo.in/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlyinfo.in privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516023046id_/http%3A//onlyinfo.in/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # Indian Local Search Engine: Only Info
 
