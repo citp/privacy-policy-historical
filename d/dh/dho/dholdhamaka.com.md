@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dholdhamaka.com privacy policy that was archived on 2014-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140831071403id_/https%3A//www.dholdhamaka.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dholdhamaka.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516042517id_/http%3A//dholdhamaka.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
