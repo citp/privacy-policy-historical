@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westlaw.co.uk privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127035742id_/http%3A//www.sweetandmaxwell.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westlaw.co.uk privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516202654id_/http%3A//www.sweetandmaxwell.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Our Privacy Policies
 
