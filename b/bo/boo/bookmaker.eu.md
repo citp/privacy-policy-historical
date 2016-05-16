@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmaker.eu privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115124605id_/http%3A//www.bookmaker.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmaker.eu privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516193904id_/http%3A//www.bookmaker.eu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bookmaker.eu
 
