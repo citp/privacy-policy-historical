@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepostclassifiedads.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115111453id_/http%3A//www.freepostclassifiedads.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepostclassifiedads.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516183822id_/http%3A//www.freepostclassifiedads.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
 
 # Free Post Classified Ads Free Classifiedads Buy & Sell Post Free Classified Ads Free Ads Free Unlimited Free Classifiedads Cars B2B
 
