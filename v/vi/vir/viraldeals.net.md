@@ -1,61 +1,80 @@
-> *The following text is extracted and transformed from the viraldeals.net privacy policy that was archived on 2013-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130723043711id_/http%3A//www.hostzilla.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viraldeals.net privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516033426id_/http%3A//www.viraldeals.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | HostZilla.com
+# Privacy Policy • Viral Deals
 
-This Privacy Policy describes the information we collect from you, what we do with the  
-information, and our information security practices. If you have any questions about our  
-Privacy Policy, please contact  support@hostzilla.com
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-When you sign up for our service, we will ask you to provide contact information such as your name, address, telephone number(s), e-mail address(es), and payment information such as credit card number and expiration date. We may ask you to complete user surveys, and to provide certain demographic information, such as age, gender, special interests, etc. You do not have to provide this type of information to use our service if you do not want to, however, we may be limited in our ability to provide services or to help you if you choose not to provide said information. If you contact us for customer support, we may also ask you for information about your operating system, software, and other technical matters.
+**What personal information do we collect from the people that visit our blog, website or app?**
 
-When you visit our web site we will capture your IP Address, time of and duration of visit, and time and duration of the pages on our web site that you view. We may tie this information to the personally identifiable information we have about you. We will also place a cookie that will identify you to us as a repeat visitor or a customer when you visit our web site. See “What is a Cookie” below for more information. We may tie this cookie to the personally identifiable information we have about you. If we send you an e-mail, we may include a marker that will allow us to identify e-mail that is opened and viewed.
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, Website or other details to help you with your experience.
 
-## Use of Personally Identifiable Information
+**When do we collect information?**
 
-We will use your personally identifiable information only as follows:
+We collect information from you when you subscribe to a newsletter, fill out a form Comment or enter information on our site.
 
-  * For payment purposes and to provide customer support.
-  * To announce special offers or provide other information from time to time via email.
-  * We may also send e-mail announcing special offers by third parties.
-  * To improve our service and the marketing of our service. For example, we may use the information we gather from user surveys, demographic data, and web site visits to help us improve or target our web site and customize your visit.
+**How do we use your information?**
 
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
+**•** To personalize user’s experience and to allow us to deliver the type of content and product offerings in which you are most interested.
 
-We reserve the right to provide third parties with your e-mail address or other personally identifiable information in order to present offers and services relevant to your needs. If you do not wish to receive these e-mails, you may opt out of future e-mails at any time by following the instructions included in the e-mail.
+**•** To improve our website in order to better serve you.
 
-We will not provide any personally identifiable information about you to any other person other than:
+**•** To allow us to better service you in responding to your customer service requests.
 
-  * a law enforcement or regulatory agency at their request;
-  * a person or company who acquires our business;
-  * third parties who perform services on our behalf (such as payment processing), subject to the third party agreeing with us that it will keep your personally identifiable information confidential;
-  * our partners who are providing or offering relevant services;
-  * as otherwise needed to protect or enforce our rights or the rights of others.
+**How do we protect visitor information?**
 
+We do not use vulnerability scanning and/or scanning to PCI standards.
 
+We do not use Malware Scanning.
 
-## Use of Non-Personally Identifiable Information
+We do not use an SSL certificate
 
-We may share aggregate statistical data about our customers with third parties, such as advertisers or suppliers. This aggregate statistical data will not identify you personally.
+**•** We do not need an SSL because:
 
-**What Is a Cookie**  
-A “cookie” is an alphanumeric identifier that is unique to your browser. The cookie will identify your browser to us when you visit our web site so that we may customize your  
-visit.
+**Do we use ‘cookies’?**
 
-**Security of Your Information**  
-We store your personally identifiable information and payment information [describe secure method of storage].
+We do not use cookies for tracking purposes
 
-**Children’s Privacy**  
-Our service is not available to children under the age of 18, and we will not intentionally maintain information about anyone under the age of 18.  If you are under the age of 18, you must cease using our service.
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
 
-**Changes to this Policy**  
-HostZilla reserves the right to make changes to this policy without notification to the user.  Any changes will be posted here at this webpage or you will be notified via email or notified via a prominent announcement on our main website.
+If you disable cookies off, some features will be disabled that make your site experience more efficient and some of our services will not function properly.
 
-**Outbound links**  
-Sometimes there will be outbound links to third party websites originating from HostZilla. We suggest you take care to review the content on these links and their own privacy policy. HostZilla will not be responsible for the content on these sites.
+However, you can still place orders .
 
-**Security Standards**  
-HostZilla uses state of the art security systems in order to protect and safeguard your data.  While we make all efforts to provide a 100% secure data environment, in the event of unforeseen events, we cannot guarantee 100% that we will be responsible for loss or theft of data. Any such incursion will be reported to law enforcement personnel.
+**Third Party Disclosure**
 
-This privacy policy was last updated on 6/24/2012.
+**Do we disclose the information we collect to Third Parties?**
 
-==============================
+We sell,trade, or otherwise transfer to outside parties your name personally identifiable information.
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**Google**
+
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
+
+We have not enabled Google AdSense on our site but we may do so in the future.
+
+**COPPA (Children Online Privacy Protection Act)**
+
+When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
+
+We do not specifically market to children under 13.
+
+**CAN SPAM Act**
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+**We collect your email address in order to:**
+
+**To be in accordance with CANSPAM we agree to the following:**
+
+**  
+If at any time you would like to unsubscribe from receiving future emails, you can email us at**
+
+and we will promptly remove you from **ALL** correspondence.
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
