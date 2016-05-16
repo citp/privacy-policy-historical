@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schedulesource.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114021057id_/http%3A//www.schedulesource.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schedulesource.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516211239id_/http%3A//schedulesource.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy for ScheduleSource.com
 
