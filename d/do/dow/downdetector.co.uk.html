@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the downdetector.co.uk privacy policy that was archived on 2015-11-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151115015106id_/http%3A//downdetector.co.uk/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the downdetector.co.uk privacy policy that was archived on 2016-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160516185327id_/http%3A//downdetector.co.uk/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
@@ -7,7 +7,7 @@
     <meta content="Realtime overview of issues and outages with all kinds of services. Having issues? We help you find out what is wrong." name="description">
     <meta content="523422240,700526189" property="fb:admins">
     <meta content="116781521799556" property="fb:app_id">
-    <meta content="2015-11-15T01:50:57.983306+00:00" name="generated">
+    <meta content="2016-05-16T19:53:12.126372+01:00" name="generated">
     <meta content="app-id=816223770" name="apple-itunes-app">
     <link href="/static/images/favicon.gif" type="image/gif" rel="shortcut icon">
     
@@ -83,10 +83,23 @@
         var inline_size_second = [];
         var rectangle_size = [300,250];
         var rectangle_size_bottom = [300,250];
+        var ancora_site_id = '';
+        var activate_ancora = false;
+        var ancora_banner = '';
+        var ancora_sidebar_top = '';
+        var ancora_sidebar_bottom = '';
+        var inline_top = '';
+        var inline_bottom = '';
+
 
 // ]]>
 </script>
     <script type="text/javascript">// <![CDATA[
+
+console.log("adsense_only")
+console.log("ads UK")
+activate_ancora = false;
+
 if (width <= 468){
     size = [[320, 50], [320, 100]];
     rectangle_size = [100,100];
@@ -130,17 +143,16 @@ if (width >= 1200) {
 <script type="text/javascript">
 // <![CDATA[
         googletag.cmd.push(function() {
-            googletag.defineSlot('/11637228/downdetector.co.uk-leaderboard', size, 'ad-leaderboard').addService(googletag.pubads().setTargeting('company', '').setTargeting('category', '')).setTargeting('width',size[0][0]).setTargeting('source', 'firstpass');
+            if (!activate_ancora)
+            {
+                googletag.defineSlot('/11637228/downdetector.co.uk-leaderboard', size, 'ad-leaderboard').addService(googletag.pubads().setTargeting('company', '').setTargeting('category', '')).setTargeting('width',size[0][0]).setTargeting('source', 'firstpass');
+                 googletag.defineSlot('/11637228/downdetector.co.uk-rectangle-top', rectangle_size, 'mpu-ad-top').addService(googletag.pubads().setTargeting('company', '').setTargeting('category', '')).setTargeting('width',size[0][0]).setTargeting('source', 'firstpass');
+                googletag.defineSlot('/11637228/downdetector.co.uk-rectangle-bottom', rectangle_size_bottom, 'mpu-ad-bottom').addService(googletag.pubads().setTargeting('company', '').setTargeting('category', '')).setTargeting('width',size[0][0]).setTargeting('source', 'firstpass');
+            }
             googletag.defineSlot('/11637228/downdetector.co.uk-affiliate', [ [300, 200],  [336, 280] ], 'ad-affiliate').addService(googletag.pubads().setTargeting('company', '').setTargeting('category', '')).setTargeting('width',size[0][0]).setTargeting('source', 'firstpass');
-            googletag.defineSlot('/11637228/downdetector.co.uk-rectangle-top', rectangle_size, 'mpu-ad-top').addService(googletag.pubads().setTargeting('company', '').setTargeting('category', '')).setTargeting('width',size[0][0]).setTargeting('source', 'firstpass');
             googletag.defineSlot('/11637228/downdetector.co.uk-textad', [ [468,15]], 'ad-textad').addService(googletag.pubads().setTargeting('company', '').setTargeting('category', '')).setTargeting('width',size[0][0]).setTargeting('source', 'firstpass');
             googletag.defineSlot('/11637228/downdetector.co.uk-inline', inline_size, 'ad-inline').addService(googletag.pubads().setTargeting('company', '').setTargeting('category', '')).setTargeting('width',size[0][0]).setTargeting('source', 'firstpass');
             googletag.defineSlot('/11637228/downdetector.co.uk-inline-second', inline_size_second, 'ad-inline-second').addService(googletag.pubads().setTargeting('company', '').setTargeting('category', '')).setTargeting('width',size[0][0]).setTargeting('source', 'firstpass');
-
-        
-                googletag.defineSlot('/11637228/downdetector.co.uk-rectangle-bottom', rectangle_size_bottom, 'mpu-ad-bottom').addService(googletag.pubads().setTargeting('company', '').setTargeting('category', '')).setTargeting('width',size[0][0]).setTargeting('source', 'firstpass');
-        
-
 
             googletag.pubads().setTargeting('company', '').setTargeting('category', '');
 
@@ -148,15 +160,35 @@ if (width >= 1200) {
             googletag.pubads().enableSingleRequest();
             googletag.enableServices();
         });
+
+// ]]>
+</script>
+<script type="text/javascript">
+// <![CDATA[
+        if (activate_ancora)
+        {
+          (function(w) {
+          var d = w.document; w.libServingName__ = "__ASL__";
+          var url = ("https:" === d.location.protocol ? "https:" : "http:") + "//creatives.ancoraplatform.com/showad_7719a1c7.js";
+          if (typeof w["__ASL_LIB_LOADED"] === "undefined") { asyncInclude(url); }
+          w['__ASL_LIB_LOADED'] = 1; w['AncoraTagProvider'] = w['AncoraTagProvider'] || new Tag();
+          function Tag() {
+          var me = this; me['stack'] = {}; me['displayAd'] = function(){};
+          me['requestAds'] = function(p) { var l = w[w.libServingName__];
+          if ((p || {})['sectionId'] !== 0 && !(p || {})['sectionId']) { return; }
+          try { l['requestAds'].call(l, p); } catch (e) { me['stack'][p['sectionId'] + ""] = p; }};}
+          function asyncInclude(url) {
+          var scriptEl = d.createElement("script"), node = d.getElementsByTagName("script")[0];
+          scriptEl.type = "text/javascript"; scriptEl.src = url; scriptEl.async = true;
+          if (navigator.userAgent.indexOf('Opera') !== -1) { setTimeout(function() { node.parentNode.insertBefore(scriptEl, node); }, 0); }
+          else { node.parentNode.insertBefore(scriptEl, node); }}})(window);
+        }
+
 // ]]>
 </script>
     
   </head>
-  <body dir="ltr"><script type="text/javascript">
-//<![CDATA[
-try{(function(a){var b="http://",c="downdetector.co.uk",d="/cdn-cgi/cl/",e="img.gif",f=new a;f.src=[b,c,d,e].join("")})(Image)}catch(e){}
-//]]>
-</script>
+  <body dir="ltr">
     <div class="container">
       <div class="header">
         <h1 class="logo">
@@ -250,8 +282,8 @@ try{(function(a){var b="http://",c="downdetector.co.uk",d="/cdn-cgi/cl/",e="img.
       <div class="row">
 <div class="span12">
 <p>This User Agreement and Privacy Statement governs each website, mobile site, application, and/or other service, regardless of how distributed, transmitted, published, or broadcast (each, a “Service”) provided by Downdetector, its parent, subsidiaries and/or affiliates (“we,” “us,” or “our”) that links to this User Agreement and Privacy Policy, which is binding on all those who access, visit and/or use the Service, whether acting as an individual or on behalf of an entity, including you and all persons, entities, or digital engines of any kind that harvest, crawl, index, scrape, spider, or mine digital content by an automated or manual process or otherwise (collectively, “you” or “your”).<br><br>We highly value your privacy and make this policy easily available throughout our site to assist you in understanding the handling of information in the course of using this site.<br><strong><br>Log Files and Cookies<br><br></strong>This website utilizes industry standard analytics packages which gathers limited information on visitors to our website automatically, and stores this anonymous information in server log files. This information may include IP addresses, browser type, basic IP information, referring pages, operating system used and date/time stamps. This information does not identify individual users; it is used only for site administration, as well as for analysis of website usage and trends.<br><br>Additionally, cookies may be used to provide easier and faster access to website features such as logins and/or repeat visits. Cookies are very small text files that are stored on personal computers for reference purposes. We do not link the information we store in cookies to any personally indentifiable information you have submitted while on our site.<br><br>We use both session ID cookies and persistent cookies. A session cookie expires when your browser is closed, and a persistent cookie may stay on your hard drive for an extended period. Session cookies make it easier for you to navigate our site; persistent cookies can perform such activities as storing your Facebook login-status so you do not have to sign in every time you visit our website, and/or may be used to enable us to track and target the interests of our users so as to enhance the overall experience of using our site.<br><br>We have no access to or administration abilities over any cookies that are used by any advertisers on our site.<br><strong><br>Third-Party Advertising – AdChoices</strong></p>
-<p>We use third-party advertising companies to serve ads and collect information when you visit this website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. For more information about this practice and to understand your opt-out choices, please&nbsp;<a href="https://web.archive.org/web/20150627161127/http://www.networkadvertising.org/choices/">click here</a>.&nbsp;<br><br>To opt out for Project Rubicon advertising, please visit&nbsp;<a href="https://web.archive.org/web/20150627161127/http://www.rubiconproject.com/privacy/consumer-online-profile-and-opt-out/">http://www.Rubiconproject.com/privacy/consumer-online-profile-and-opt-out/</a></p>
-<p>To opt out for Taboola advertising, please visit&nbsp;<a href="https://web.archive.org/web/20150627161127/http://www.taboola.com/privacy-policy">http://www.taboola.com/privacy-policy</a><br><strong><br>Links to Other Websites</strong></p>
+<p>We use third-party advertising companies to serve ads and collect information when you visit this website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. For more information about this practice and to understand your opt-out choices, please&nbsp;<a href="http://www.networkadvertising.org/choices/">click here</a>.&nbsp;<br><br>To opt out for Project Rubicon advertising, please visit&nbsp;<a href="http://www.rubiconproject.com/privacy/consumer-online-profile-and-opt-out/">http://www.Rubiconproject.com/privacy/consumer-online-profile-and-opt-out/</a></p>
+<p>To opt out for Taboola advertising, please visit&nbsp;<a href="http://www.taboola.com/privacy-policy">http://www.taboola.com/privacy-policy</a><br><strong><br>Links to Other Websites</strong></p>
 <p>This website may contain links to other sites that are not controlled in any way by us. Please be aware of this when you click on any such links; we are not responsible for the privacy practices and/or policies of any website other than our own. Consequently, we strongly suggest that you review the privacy policy of every website you visit, whether or not they are linked to by our own site.<br><br><strong>Links to Other Websites That Are Considered Endorsements or Testimonials in Advertising<br></strong><br>This website may contain links to other websites, where this website receives financial compensation if the person clicking on the link makes a purchase, orders a product or a service on the linked website. These kind of links are commonly referred to as 'affiliate links'. Following these links may result in a cookie being placed on the user's system by an outside service that allows the service to determine if the site visitor engages in a transaction in the future.</p>
 <p><strong>Registration and Use of Personal Information<br></strong><br>Registration is not required in order to use or access this website. However, this site may make comments and other tools available to its users. You may be required to register for these features or use a third party tool that requires registration, such as Facebook or Uservoice, particularly if you wish to leave comments.<br><br>If you do register, and in the process provide us with personally identifiable information, rest assured that any such information you provide will not be shared with any third-party organization except with your express consent.<br><br>Please note that if you post comments or articles to any forum, blog or message board on this site, any personally identifiable information you provide in those comments or articles may be read, collated and used by anyone viewing them. As such, we are not responsible for personally identifiable information you may choose to make available through these channels.<br><br>We currently don’t, but in the future might opt to provide visitors to our website the opportunity to opt-in to receive communications from us. In this case, we ask the visitor for his or her email address and name. These communications will include our regular newsletter, product promotions and any other information that we feel may be pertinent to the visitor. You may opt out of receiving any, or all, of these communications by emailing us at&nbsp;info@downdetector.com, by clicking on the “unsubscribe” link in any email we send to you or by replying to any email we send you.<br><br>Again, if you provide us with your email address and/or name for the purposes of receiving communications from us, this information will not be shared with any third-party organization except with your express consent.<br><br><strong>Access to Personally Identifiable Information</strong></p>
 <p>If your personally identifiable information changes, or if you no longer wish us to possess your information, you may request correction, updating, or deletion of your information by emailing us at&nbsp;info@downdetector.com.<br><br><strong>Security<br></strong><br>We follow accepted industry standards to protect any personal information you have provided to us. However, please be aware that no method of electronic storage can ever be 100% secure. Therefore as is the case with any organization – we are not in a position to guarantee the absolute security of your information.<br><br>You may submit any questions you may have about our security procedures by emailing us at&nbsp;info@downdetector.com</p>
@@ -260,7 +292,7 @@ try{(function(a){var b="http://",c="downdetector.co.uk",d="/cdn-cgi/cl/",e="img.
 <p><strong>Contact Details</strong></p>
 <p>If you have any questions or concerns regarding this privacy policy, or you wish to contact us by email or post, our contact information is as follows:</p>
 <p>info@downdetector.com</p>
-<p>Serinus42<br>Downdetector<br>Parklaan 125<br>2011 KT Haarlem<br>The Netherlands</p>
+<p>Serinus42<br>Downdetector<br>Schipholweg 1<br>7e Verdieping<br>2034 LS Haarlem<br>The Netherlands</p>
 <p>This privacy statement and policy was last updated on 19 February 2015.</p>
 </div>
 </div>
@@ -413,6 +445,14 @@ try{(function(a){var b="http://",c="downdetector.co.uk",d="/cdn-cgi/cl/",e="img.
             js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3&appId=116781521799556";
             fjs.parentNode.insertBefore(js, fjs);
         }(document, 'script', 'facebook-jssdk'));
+
+// ]]>
+</script>
+<script type="text/javascript">
+// <![CDATA[
+        try{
+            AncoraTagProvider.requestAds({sectionId: ancora_site_id, dmp: false, sync: false});
+        }catch(err){};
 
 // ]]>
 </script>
