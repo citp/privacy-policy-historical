@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crockpot.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905083518id_/http%3A//www.crock-pot.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crockpot.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516042900id_/http%3A//www.crock-pot.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy at Crock-Pot.com.
 
@@ -53,7 +53,7 @@ You may choose to correct or update the PII you have submitted to us online thro
 **Opt-Out**   
 We do not disclose an individual customer's PII to third parties for third-party direct marketing purposes if that individual has submitted a request not to have his or her PII shared for this purpose. If you would like to opt out of having your PII shared with third parties for third-party direct marketing purposes, by U.S. mail at: Attention: Direct Marketing, 2381 Executive Center Drive, Boca Raton, FL 33431. Third-party providers, such as Google or Adobe analytics, or similar providers have developed "opt-out" mechanisms that may have unique settings based on your specific browser. Some of these mechanisms are in the form of browser "add-ons" or may be presented in "dashboard" form. Please follow this link to find out more about such features:[ https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout)
 
-California residents have the right to request information from us regarding the manner that we may share personal information with affiliated companies and third parties for their direct marketing purposes. To find out what and how we share such information, you may send us an e-mail request at: [info@jardencs.com](mailto:info@jardencs.com). We will provide: 
+California residents have the right to request information from us regarding the manner that we may share personal information with affiliated companies and third parties for their direct marketing purposes. To find out what and how we share such information, you may [send us an e-mail request](http://www.crock-pot.com/contactus?cid=contact-us). We will provide: 
 
 A. The categories of information we disclosed to third parties for their direct marketing purposes during the preceding calendar year, if any; 
 
