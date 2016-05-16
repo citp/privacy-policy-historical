@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeallimages.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207194804id_/http%3A//www.freeallimages.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeallimages.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516055859id_/http%3A//www.freeallimages.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
