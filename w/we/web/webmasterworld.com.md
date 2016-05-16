@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webmasterworld.com privacy policy that was archived on 2015-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150328041700id_/http%3A//www.webmasterworld.com/help.cgi%3Fcat%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmasterworld.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516101924id_/https%3A//www.webmasterworld.com/privacy.htm) for the most accurate reproduction.*
 
-# Help :
+# Help : - WebmasterWorld
 
 > **Privacy Statement for Webmaster World**
 > 
