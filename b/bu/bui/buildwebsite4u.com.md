@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buildwebsite4u.com privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030005343id_/http%3A//www.buildwebsite4u.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildwebsite4u.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516205505id_/http%3A//www.buildwebsite4u.com/privacy.shtml) for the most accurate reproduction.*
 
 # Build Website For You - Privacy Policy
 
@@ -20,6 +20,6 @@ BuildWebSite4u.com may present links in a way that allows us to track whether th
 
 * * *
 
-If you have any questions, please [contact us](https://web.archive.org/web/20151030005343id_/http%3A//www.buildwebsite4u.com/contact.shtml). 
+If you have any questions, please [contact us](https://web.archive.org/web/20160516205505id_/http%3A//www.buildwebsite4u.com/contact.shtml). 
 
-[](https://web.archive.org/cgi-bin/t.cgi?j10517867)
+[](https://web.archive.org/cgi-bin/t.cgi?j11099579)
