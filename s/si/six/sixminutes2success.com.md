@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the sixminutes2success.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202011757id_/http%3A//www.getresultsthatstick.com/pgi-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixminutes2success.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516145551id_/http%3A//proctorgallagherinstitute.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Get Results That Stick!
+# Privacy Policy | Proctor Gallagher Institute
 
-**PRIVACY POLICY STATEMENT**
-
-Proctor Gallagher Institute (the “Company”) is dedicated to protecting privacy while using the services of www.proctorgallagherinstitute.com and its affiliated websites (the “Site”).  This privacy policy statement explains information collection and use practices for the Site. By accessing the Site, you are agreeing with and consenting to the data collection and use practices described in this privacy policy. This privacy policy statement expressly incorporates and is subject to the Terms of Use (“TOU”) for the Site, which may be separately accessed via a hypertext link located on its homepage. The provisions, terms and conditions set forth in the TOU shall supersede, govern and control in the event of any actual or potential inconsistency or conflict with the contents of this privacy policy statement.
+Proctor Gallagher Institute (the “Company”) is dedicated to protecting privacy while using the services of [www.proctorgallagherinstitute.com](http://www.proctorgallagherinstitute.com/) and its affiliated websites (the “Site”).  This privacy policy statement explains information collection and use practices for the Site. By accessing the Site, you are agreeing with and consenting to the data collection and use practices described in this privacy policy. This privacy policy statement expressly incorporates and is subject to the Terms of Use (“TOU”) for the Site, which may be separately accessed via a hypertext link located on its homepage. The provisions, terms and conditions set forth in the TOU shall supersede, govern and control in the event of any actual or potential inconsistency or conflict with the contents of this privacy policy statement.
 
 **PERSONAL DATA COLLECTION**
 
@@ -32,7 +30,8 @@ Personal information and Personal Data collected on the Site may be stored and p
 
 Except as otherwise described in this statement, personal information and Personal Data provided to the Company with regard to use of the Site will not be shared outside of this Site and its controlled subsidiaries and affiliates without your permission.
 
-The Company may send out periodic e-mails informing you of certain services or products offered by it, its subsidiaries and affiliates, concerning technical services or security issues related to a product or service you requested or otherwise related to your use of the Site, or confirming a requested product or service related to the Site. Contact with the customer is an intrinsic part of the product or service being offered. You will not be able to unsubscribe to these e-mails as they are considered an essential part of the product(s) or service(s) you have chosen.  
+The Company may send out periodic e-mails informing you of certain services or products offered by it, its subsidiaries and affiliates, concerning technical services or security issues related to a product or service you requested or otherwise related to your use of the Site, or confirming a requested product or service related to the Site. Contact with the customer is an intrinsic part of the product or service being offered. You will not be able to unsubscribe to these e-mails as they are considered an essential part of the product(s) or service(s) you have chosen.
+
 **PERSONAL DATA SECURITY**
 
 The Company is committed to protecting the security of your Personal Data. The Company, through its selected service providers, uses a variety of security technologies and procedures to help protect your personal information and Personal Data from unauthorized access, use or disclosure.
@@ -49,7 +48,4 @@ The Company may occasionally modify this privacy policy statement. When this is 
 
 **CONTACT INFORMATION**
 
-We welcome your comments regarding this privacy policy statement.  You may contact us via e-mail at customerservice@proctorgallagher.com or by U.S. Mail at Proctor Gallagher Institute – Privacy Policy Comments, 8776 E Shea Blvd, Suite 106-621, Scottsdale, AZ 85260.  
-
-
-[](http://www.hupso.com/share/)
+We welcome your comments regarding this privacy policy statement.  You may contact us via e-mail at [customerservice@proctorgallagher.com](mailto:customerservice@proctorgallagher.com) or by U.S. Mail at Proctor Gallagher Institute – Privacy Policy Comments, 8776 E Shea Blvd, Suite 106-621, Scottsdale, AZ 85260.
