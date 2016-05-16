@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lashowroom.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316182947id_/https%3A//www.lashowroom.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lashowroom.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516072245id_/https%3A//www.lashowroom.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy − LAShowroom.com
 
@@ -17,7 +17,7 @@ This privacy statement covers the site LAShowroom.com. This policy statement str
 
 
 
-If users have questions or concerns regarding this statement, they should first contact us by email at privacy@lashowroom.com and then by phone at 213.627.0339.
+If users have questions or concerns regarding this statement, they should first contact us by email at privacy@lashowroom.com and then by phone at 213-627-0339.
 
 ## Information Collection and Use
 
