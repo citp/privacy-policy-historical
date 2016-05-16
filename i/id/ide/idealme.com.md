@@ -1,40 +1,66 @@
-> *The following text is extracted and transformed from the idealme.com privacy policy that was archived on 2003-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030212191211id_/http%3A//www.personalimagecenters.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idealme.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516190717id_/http%3A//idealme.com/privacy-policy) for the most accurate reproduction.*
 
-# Cosmetic Surgery, Cosmetic Lasers & Physician Directed Skin Care
+# Privacy Policy |
 
-  
-|  | 
+**What information do we collect?**
 
-We know that you care how your personal information is used, and we respect the privacy of all our visitors. It is our policy to not sell, rent, or loan to third parties for any reason, any of the personal information you share at our site.
+We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. 
 
-While information and special offers from our business partners may appear on our site or in our e-mail publications, you can rest assured that those partners were not given direct access to your personal information.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-Personal Image Centers is a network of Cosmetic Practices across the United States. In some cases the information you provide online may be shared with our local centers to obtain answers to your questions or to bring you special offers in your area. You'll find additional information about how the data you offer is used below.
+Google, as a third party vendor, uses cookies to serve ads on your site.  
+Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-## Consultation Coupons
+**What do we use your information for?**
 
-We believe that there is no substitute for personal time with your surgeon. We offer special coupons to online visitors good for a free consultation with a surgeon in your area (consults are usually at least $50). When you request a coupon, you are asked to provide your name, e-mail address, phone number, and procedure of interest. We send that information to our practice nearest you so that they know your coupon is valid and so they may discreetly contact you to help schedule your consultation. 
+Any of the information we collect from you may be used in one of the following ways: 
 
-## Online Exclusives E-mail Newsletter
+; To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-Our Online Exclusives Newsletter is your inside ticket to the latest news and special offers from our centers and partners. When you subscribe, you can set certain preferences, such as your Zip code and preferred procedures, to help us tailor messages to your location and interests. You can change those preferences at any time.
+; To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-It is our policy to send e-mail only those people who given us permission to do so. Sometimes people subscribe for their friends, and while we cannot prevent that, each message sent includes an explanation of how you can unsubscribe. If you choose to unsubscribe your name will be removed from our list immediately. 
+; To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-To manage your subscription, just enter your e-mail address in the "Online Exclusives Newsletter" form on the left and click the blue arrow. There you can follow the simple instructions to change your preferences or unsubscribe. 
-
-## Digital Imaging Orders
-
-Your digital imaging order is taken using the industry standard for secure server software (SSL). It encrypts all of your financial information, including credit card information, so it can't be read as the information travels over the Internet. In order for SSL security to work, you must use an SSL-enabled browser. When your order is ready, your digitally enhanced after photos are available to you in a password protected area. 
-
-## Forms & E-mail
-
-When you contact us using the forms or e-mail links at our site it is our policy to use the information provide in the spirit of your communication. For example, if you write us with a question, we'll the information in your message to answer your question and nothing else. 
-
-If you have any concern about privacy at this site, please send a detailed description of your concern to [info@personalimagecenters.com](mailto:info@personalimagecenters.com), and we will try to resolve it. 
-
-  
+; To process transactions  
 
 
-  
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
+; To send periodic emails  
+
+
+> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+
+**Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to help us remember and process the items in your shopping cart and understand and save your preferences for future visits.
+
+**Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**Your Consent**
+
+By using our site, you consent to our [web site privacy policy](http://www.freeprivacypolicy.com/).
+
+This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm).
