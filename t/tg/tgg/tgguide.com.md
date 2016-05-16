@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tgguide.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116021145id_/http%3A//tgguide.com/about-us/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tgguide.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516164323id_/http%3A//tgguide.com/about-us/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Policy of The Transgender Guide | The Transgender Guide
 
