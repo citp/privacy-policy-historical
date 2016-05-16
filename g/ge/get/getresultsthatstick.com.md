@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getresultsthatstick.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116204301id_/http%3A//proctorgallagherinstitute.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getresultsthatstick.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516145551id_/http%3A//proctorgallagherinstitute.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Proctor Gallagher Institute
 
