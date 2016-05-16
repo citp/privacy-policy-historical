@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lsbu.ac.uk privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017044055id_/http%3A//www.lsbu.ac.uk/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lsbu.ac.uk privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516201631id_/http%3A//www.lsbu.ac.uk/footer/privacy) for the most accurate reproduction.*
 
 # Privacy | London South Bank University
 
@@ -28,11 +28,13 @@ Visitors can opt-out of Google Analytics for Display Advertising and customize G
 
 Alternatively, visitors can also use the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout).
 
-### Adroll display advertising
+### Advertising and remarketing
 
-As you browse the London South Bank University website, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, [AdRoll](http://www.adroll.com/), then enables us to present you with retargeting advertising on other sites based on your previous interaction with London South Bank University. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. 
+As you browse the London South Bank University website, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partners, [AdRoll](http://www.adroll.com/), [DoubleClick](https://www.doubleclickbygoogle.com/ "DoubleClick") and [Google](https://www.google.co.uk/ "Goolge")  then enable us to present you with remargeting advertising on other sites based on your previous interaction with London South Bank University. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. 
 
-Visitors can opt-out of AdRoll and their partners' targeted advertising by visiting the [Networks Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/).
+Visitors can opt-out of [AdRoll](http://www.adroll.com/), [DoubleClick](https://www.doubleclickbygoogle.com/ "DoubleClick") and [Google](https://www.google.co.uk/ "Goolge")  targeted advertising and that of other third parties by visiting the [Networks Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/).
+
+## Further information
 
 For more detailed information on what cookies are and which ones are set across the LSBU website and what they are used for, please visit our [dedicated cookie usage page](http://www.lsbu.ac.uk/footer/cookies "Cookie usage page").
 
