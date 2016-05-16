@@ -1,78 +1,97 @@
-> *The following text is extracted and transformed from the ascential.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206135441id_/http%3A//ibm.ascential.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ascential.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516212919id_/http%3A//www.ascential.com/site-services/privacy-and-cookies-policy) for the most accurate reproduction.*
 
-# Data Integration Software - IBM WebSphere Information Integration (formerly Ascential Software)
+# Privacy & Cookies Policy – Ascential
 
-[Home](https://web.archive.org/) [Company](https://web.archive.org/company/) Privacy Policy 
+## Introduction
 
-## Privacy Policy
-
-### Privacy Policy for ibm.ascential.com
-
-This statement discloses the privacy practices of ibm.ascential.com, the division Web site of the Information Integration Solutions division of IBM. IBM will seek to comply with applicable data protection laws and regulations. As a company, we want to build user trust and confidence in the Internet by promoting the use of fair information practices. Because we want to demonstrate our commitment to your privacy, we are disclosing to you our information practices. This includes notifying you of: 
-
-  1. What personally identifiable information of yours - including your name, mailing address and email address - is collected from you through the Web site
-  2. The organization that is collecting and holding the information 
-  3. How personally identifiable information is used 
-  4. With whom personally identifiable information may be shared 
-  5. What choices are available to you regarding collection, use, and distribution of the information and the consequences to you if we do not receive certain information from you 
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under IBM's control 
+  1. This Privacy and Cookies Policy sets out the privacy policy of Ascential plc, Company Number 9934451 (incorporated in England & Wales) whose registered address is at The Prow, 1 Wilder Walk, London W1B 5AP ("Ascential“), who controls this website. For the purpose of the Data Protection Act, the data controller is Ascential plc.
+  2. Ascential is committed to protecting the privacy of its users and the purpose of this Privacy Policy is to describe to you how Ascential will use personal information about you that is submitted to Ascential. 
+  3. By providing your personal information to Ascential, you consent to the collection and use of it and any other information provided to Ascential in accordance with this Privacy Policy. If at any time you wish to change the uses of your personal information to which you have consented, please contact us at security@ascential.com
+  4. Ascential may revise this Privacy Policy at any time by posting an update on its website(s). Please ensure that you check this website and any other Ascential website(s) you use from time to time to review the then current Privacy Policy and to update your preferences. This Privacy and Cookies Policy was last updated in March 2012.
 
 
 
-Please note as well that you have the right to obtain a copy of data or personally identifiable information processed or held by IBM, and you may request to review data, change data, require rectification of inaccurate data, or require deletion of your data, and/or object to its processing under certain circumstances, by giving written notice to IBM's Corporate Data Privacy officer at [eu-data-privacy@ascentialsoftware.com](mailto:eu-data-privacy@ascentialsoftware.com)
+## Collection of Personal Information
 
-If you have any questions or concerns regarding this privacy policy or the use of your information, contact: The Web Team at [ascentialweb@ascentialsoftware.com ](mailto:ascentialweb@ascentialsoftware.com)
+  1. The types of personal information collected and stored by Ascential might include your name, date of birth, e-mail address, postal address, telephone number, fax number and credit/debit card details (to the extent permitted by the Data Protection Act 1998 and related legislation (“the DPA”)). 
+  2. Ascential (or any of its sub-contractors) may collect personal information about you in the following ways:   
 
-### Information Collection and Use
+    * any data which you provide when you complete and submit an application to Ascential to register on its website(s) or receive email alerts or other communications from Ascential;
+    * any data that you provide via postings to forums and blogs and any other posting that you make to an Ascential website (in such circumstances the information posted by you will, of course, also be available to users of the website throughout the world); 
+    * during any transaction with us; and
+    * any other data which you provide to Ascential when you enquire about our activities, email, telephone or write to us or otherwise provide us with personal information. 
+  3. Ascential (or any of its sub-contractors) may also receive information about you from third parties, for example a friend who wants to tell you about one of our websites.
 
-IBM collects and holds the information collected on this site. IBM is the sole owner of the information collected on this site and will keep the information for a limited period of time that is necessary for the purpose for which it is collected. We will not use this information, or sell, share, rent or otherwise disclose this information to others in ways other than as described in this statement. 
 
-### Registration
 
-In order to use some of the facilities accessible through this Web site, a user must first complete the registration form. During registration a user is required to give his or her contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have expressed interest. We may not be able to provide information regarding our services if a user does not provide this information. By completing the registration, the user confirms he/she has been advised on the purpose for which the information will be used and consents to such use. The user agrees to be bound by this statement, as in effect from time to time, and any other agreement provided on this Web site. 
+## Storage and retention of your information
 
-### Our WW Practices 
+  1. Ascential will keep your information on a secure server. The technology that Ascential uses and the security policies which Ascential has implemented are intended to safeguard your information from unauthorised access and improper use. 
+  2. Ascential will keep your information (to the extent permitted by the DPA) to enable Ascential to use it for the purposes described in this Privacy Policy. 
 
-IBM is a global organization, with legal entities, business processes, management structures, and technical systems that cross borders. Our privacy practices are designed to seek to provide protection for your personal information, all over the world. We may share your information within IBM and transfer it to members of the IBM global organization and our partners in other countries in the world where we do business. Although some countries may provide less legal protection for you information, in such countries IBM will still handle your information in the manner described here. We intend to protect your personal information and to maintain its quality. We therefore implement appropriate measures and processes to help us to keep your information secure and to maintain its quality. 
 
-### Mergers and Acquisitions
 
-Circumstances may arise where, whether for strategic or other business reasons, IBM decides to sell, buy, merge or otherwise reorganise businesses in some countries. Such a transaction may involve the disclosure of personally identifiable information to prospective or actual purchasers, or receiving it from prospective or actual sellers. It is IBM's practice to take reasonable steps to seek appropriate protection for information in these types of transactions. You should be aware, however, that IBM takes no responsibility for actions taken, or any inactions, by any prospective or actual purchasers or sellers who receive such information. 
+## Use of Your Information
 
-### Cookies
+  1. Ascential may use your personal information (subject in each case to the requirements of the DPA) for the following purposes: 
+    * administering your website account(s) and otherwise in connection with any service for which you have provided your information, including any email alerts, transactions with us and competitions and promotions that you take part in; 
+    * responding to any enquiry you make; 
+    * subject to your consent, sending you newsletters and/or alerts and information regarding Ascential's or any third party's future services (in all formats to which you have consented eg post, email, text); and
+    * for generating aggregated statistics about users, traffic patterns etc of the Ascential website(s) and other services and developing Ascential's marketing plans. 
+  2. Ascential may also disclose your information (subject in each case to the requirements of the DPA) as follows: 
+    * if you have given your consent for Ascential to do so, to other selected organisations to enable them to contact you or send you information by post, telephone and/or email;
+    * to any service providers, sub-contractors and agents appointed by Ascential to perform the above functions on its behalf and in accordance with its instructions; 
+    * to third parties selected by Ascential as part of aggregated and anonymised statistics about users, traffic patterns etc. of the Ascential website(s); 
+    * to such individuals and/or bodies as necessary to ensure Ascential's compliance with any applicable law, regulation, legal proceeding or governmental request;
+    * (where you post material that does or may constitute a criminal offence, breach the rights of a third party, give rise to a civil action or breach the Terms & Conditions of the applicable website and as otherwise necessary to protect the rights, property or safety of Ascential and its customers), to any relevant authority or third party requiring Ascential to disclose the identity of or locate anyone posting such material on an Ascential website; and
+    * to any individual making a subject information request to Ascential.
+  3. In the event that Ascential (or a relevant part of Ascential) is acquired by or merges with another company, your personal information may be passed to the purchasing/merging company amongst the transferred business assets. This will enable your relationship to continue with the relevant Ascential business despite the change of ownership. Your personal information may also be passed (on a confidential basis) to companies with whom Ascential is negotiating such a sale/merger as part of the verification exercise carried out on Ascential by the third party.
+  4. In processing your information in accordance with the above, Ascential may (to the extent permitted by the DPA) send it outside the European Economic Area (“EEA”). Ascential will take all reasonable steps to ensure that in such circumstances your data is treated securely and in accordance with this Privacy Policy but your attention is drawn to the fact that the laws of countries outside the EEA may provide lesser protection to your information than the UK. When you submit your personal information to Ascential you consent to the transfer of your information outside the EEA unless you specifically indicate otherwise.
 
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. After a user closes his or her browser, cookies may stay active for a period of 14 days so users do not have to reenter registration information. If a user rejects the cookie, he or she may still use our site. The principal drawback to rejecting a cookie is that the user will have only limited access to certain areas of our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. 
 
-### Log Files
 
-We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
+## Cookies
 
-### Sharing
+  1. When you visit an Ascential website(s), Ascential uses “cookie” technology try to make that experience simple, personalised and meaningful. Cookies are small pieces of information which are issued to your computer or any similar device you use to access the internet e.g. smart phone, tablet or other mobile device when you visit a website and which store and sometimes track information about you're use of the website. A number of cookies Ascential use last only for the duration of your web session and expire when you close your browser. Other cookies are used to remember you when you return to the website and will last for longer. 
+  2. Ascential use cookies to: 
+    * create a specific log-in session for a visitor to an Ascential website in order that page requests by that visitor are delivered in an effective, secure and consistent manner;
+    * recognise when a visitor to a Ascential website has visited before; this means we can identify the number of unique visitors we receive to the website and allows us to make sure we have enough capacity for the number of users that we get;
+    * customise elements of the promotional layout and/or content of the pages of the website;
+    * store your product selections to the shopping basket;
+    * collect statistical information about how our visitors use the website(s) so that we can improve the website(s) and learn which parts are most popular to visitors; and
+    * Gather information through our advertising partners, about the pages on the Ascential website(s) that you visit, and also other information about other websites that you visit, so as to place you in an “interest segment”. This information is then used to serve interest-based advertisements which it is believed will be targeted to your interests. For more information about this type of interest based advertising, and about how to turn this feature off please visit www.youronlinechoices.co.uk or follow the link to the website of our advertising partners shown below. Without these cookies, advertisements you encounter will be less relevant to you and to your interests.
 
-We will not share aggregated demographic information that may contain personally identifiable information with our partners. However, we do partner with third parties who provide specific systems integration or data management services. When the user signs up for these services, we will share personally identifiable information that is necessary for the third party to provide these services. 
+Some of the cookies used by Ascential websites are set by us, and some are set by third parties who are delivering services on our behalf. Most web browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set. You can also learn more about cookies by visiting www.allaboutcookies.org which includes additional useful information on cookies and how to block cookies using different types of browser. Please note however, that by blocking or deleting cookies used on an Ascential website(s) you may not be able to take full advantage of the website(s) if you do so.
 
-### Links
+  3. Our cookies
 
-This Web site contains links to other sites. Please be aware that IBM is not responsible for the privacy practices, or content, of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+We have described the main cookies we use and what we use these for below:
 
-### Surveys & Contests
+Cookie name | Description  
+---|---  
+_ga | It stores your PHP SessionId so we can store data as part of the standard PHP session system.   
+_gat | Used to throttle request rate. (GA – Universal Analytics)  
+#lang | Language cookie  
+ASP.NET_SessionId | It is a cookie which is used to identify the users session on the server. It is created the first time your site is accessed over the browser.  
+AWSELB | It is a cookie persisted by AWS ELB(Elastic Load Balancer) for managing sticky session across production servers.  
+  4. Third party cookies
 
-From time-to-time our site requests information from users in connection with surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose the information requested. Information requested may include personally identifiable information, such as name, mailing address and email address, as well as demographic information, such as zip code. It may also include other personal identifiable information. The information may also be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site, or collection of information relative to our customers or market. 
+Certain cookies are either set by third parties on the Website or these are set by us using the third parties cookie code. More information about cookies placed by third parties and how to restrict or block their cookies can be accessed by following the link to their website. In addition to cookies, tracking gifs may be set by us or third parties in respect of your use of the Site. Tracking gifs are small image files within the content of our site or the body of our newsletters so we or third parties can understand which parts of the website are visited or whether particular content is of interest.
 
-### Direct Marketing
 
-We may use the user's personally identifiable information for marketing purpose. If you do not want to participate in our direct marketing program, please send an email to [ascentialweb@ascentialsoftware.com](mailto:ascentialweb@ascentialsoftware.com). 
 
-### Security
 
-This Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, your information is protected both online and off-line. 
+## Third Party Websites
 
-If you have any questions about the security at our Web site, you can send an email to [ascentialweb@ascentialsoftware.com](mailto:ascentialweb@ascentialsoftware.com). 
+  1. Please be aware that Ascential does not control and is not responsible for websites that are referred to or linked from its own websites and that use of your personal information on these websites is not subject to this Privacy and Cookies Policy.
 
-### Notification of Changes
 
-This Privacy Policy will be updated from time to time. IBM's updated privacy statement is posted on this Web site, within a reasonable period of time, so our users are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
-[Return to Terms and Conditions](https://web.archive.org/web/20061206135441id_/http%3A//ibm.ascential.com/company/legal.html)
+## Registration
 
-For more information call 1-800-966-9875 or [contact us](https://web.archive.org/company/contact_form.html)
+  1. To access certain parts of the Ascential websites, Ascential may require you to register and provide certain information about yourself.
+  2. You are reminded that in addition to the provisions of this Privacy and Cookies Policy, where you register you also agree to: 
+  3. provide true, accurate, current and complete information about yourself as prompted by the relevant registration form (such information being the "Registration Data"); and
+  4. maintain and promptly update the Registration Data to keep it fully up to date.
+
+
