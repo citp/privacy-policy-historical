@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartridgehyper.co.za privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107081141id_/http%3A//www.cartridgehyper.co.za/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartridgehyper.co.za privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517154508id_/http%3A//www.cartridgehyper.co.za/index.php/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
