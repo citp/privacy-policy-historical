@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hiretale.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211040830id_/http%3A//www.hiretale.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiretale.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517220755id_/http%3A//www.hiretale.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Pages
 
 Privacy Policy Eduangels (www.HireTale.com) is committed to protecting the privacy of our candidates, clients and other users of our websites and services. Where you provide us with your personal information, in person, by email, through this website, we will endeavour to ensure that such information remains private and is only used in accordance with this policy. By providing us with your personal information, you also consent for us to collect, hold, use and disclose your personal information in accordance with this policy. Eduangels (HireTale.com) must comply with the applicable privacy laws and similar laws in the countries in which we operate. 
 
