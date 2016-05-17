@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scalemates.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114122406id_/http%3A//www.scalemates.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scalemates.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517183109id_/https%3A//www.scalemates.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement - Scalemates, scale modeling database
 
@@ -6,11 +6,11 @@ At scalemates.com, the privacy of our visitors is of extreme importance to us. T
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at _scalemates at gmail dot com_.
 
-Last Updated: 7th of June 2013
+__Last Updated: 7th of June 2013
 
-###  **Public Nature of Content Submitted to Sites**
+### **Public Nature of Content Submitted to Sites**
 
-The nature of this website is to reach a public audience. Please be aware that any information that you submit to us whether through forms or email, including personally identifiable information, may be publicly displayed on sites hosted at http://www.scalemates.com/, or on websites not within our control. If you don�t want others to see such information, don�t submit it or make use of the appropriate privacy settings when posting information..
+The nature of this website is to reach a public audience. Please be aware that any information that you submit to us whether through forms or email, including personally identifiable information, may be publicly displayed on sites hosted at http://www.scalemates.com/, or on websites not within our control. If you don't want others to see such information, don't submit it or make use of the appropriate privacy settings when posting information..
 
 ### Membership - Registration
 
@@ -21,7 +21,7 @@ All other personal information you provide in your personal profile _(except pas
 A user can restrict acces to new messages posted on his wall. New messages can be posted using 3 different privacy settings: "Public", "Mates only" and "Private".
 
   * Public: Public messages are visible to all registered and non registered users.
-  * Mates only: These messages are visible to all the mates of the writer. Mutual agreement is required to become each others mate.
+  * Mates only: These messages are visible to all the mates of the writer. Mutual agreement is required to become each others mate. 
   * Private: A message marked as private is only visible to 2 members, the sender and the destinee.
 
 
@@ -63,8 +63,8 @@ You should consult the respective privacy policies of these third-party ad serve
 #### **Google & DoubleClick DART Cookie**
 
   * Google, as a third party vendor, uses cookies to serve ads on scalemates.com.
-  * Google's use of the DART cookie enables it to serve ads to users based on their visit to scalemates.com and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
+  * Google's use of the DART cookie enables it to serve ads to users based on their visit to scalemates.com and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
 
 
 
