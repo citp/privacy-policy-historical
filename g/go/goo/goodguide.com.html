@@ -1,18 +1,20 @@
-<!--The following is the downloaded HTML source of the goodguide.com privacy policy that was archived on 2015-09-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150910192154id_/http%3A//www.goodguide.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the goodguide.com privacy policy that was archived on 2016-05-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160517021850id_/http%3A//www.goodguide.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><!--<![endif]--><head>
-<script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"5caf9dab80","applicationID":"3571074","transactionName":"dlhaRkJYDl8BQxpVUlpCQB1DXw1E","queueTime":0,"applicationTime":379,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-686.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYAU1FWGwAFU1BSAAU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,u=c.document;t(2);var f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+<script src="https://js-agent.newrelic.com/nr-943.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"5caf9dab80","applicationID":"3571074","transactionName":"dlhaRkJYDl8BQxpVUlpCQB1DXw1E","queueTime":0,"applicationTime":1464,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYAU1FWGwAFU1BSAAU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(11),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(12),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),c.xhrWrappable&&t(6),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(13)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(13)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(13)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){y.push(t),h&&(g=-g,x.data=g)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(13)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var w=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,w),w.prototype=p.prototype,d.inPlace(w.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,x=document.createTextNode(g);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(8),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(10),m=window.XMLHttpRequest;s.features.xhr=!0,t(6),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(11),a=t(12);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],11:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],12:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],13:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(12),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([y,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},y={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return y}function i(){return new r}var a="nr@context",s=t("gos"),c=t(11),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(11),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(9);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-943.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,7]);</script>
 <title>Privacy Policy | GoodGuide</title>
 <meta content="We have rated &amp; reviewed 250,000+ products based on safety, health, &amp; environmental factors.  See your favorite products reviewed &amp; rated." name="description">
 <link href="http://www.goodguide.com/about/privacy" rel="canonical">
 
 <link href="//fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
 <link href="//fast.fonts.net/cssapi/8d218c1c-ff57-4a4c-b011-c883544a8f62.css" rel="stylesheet" type="text/css">
+<link href="http://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.css" rel="stylesheet">
 <script src="//cdn.optimizely.com/js/2158200946.js"></script>
-<script src="//resources-robotic-musketeer.goodguide.com/assets/facebook-aac735ed118755c580d81bed98ee3f3f.js"></script>
-<link href="//resources-robotic-musketeer.goodguide.com/assets/application-89003e9ca022f22381ce8c5d2f959dfb.css" media="screen, projection" rel="stylesheet" type="text/css">
+<script src="//resources-desperate-engineer.goodguide.com/assets/facebook-276453d2ab4ab5b5ee62da8a10641c15.js"></script>
+<script src="//resources-desperate-engineer.goodguide.com/assets/vendor/modernizr-7c206370f052a17ad19d00ca53f1724a.js" type="text/javascript"></script>
+<link href="//resources-desperate-engineer.goodguide.com/assets/application-5e05ed48685572f3b8c990d778c16801.css" media="screen, projection" rel="stylesheet" type="text/css">
 <!-- HTML5 shim for ie < 9 -->
 <!--[if lt IE 9]>
 <script>
@@ -25,44 +27,132 @@
 </script>
 
 <![endif]-->
-<link href="//resources-robotic-musketeer.goodguide.com/assets/favicon-10414c04a3fe4ebd097ec63c4ba0c24c.ico" rel="shortcut icon" type="image/x-icon">
-<link href="//resources-robotic-musketeer.goodguide.com/assets/apple-touch-icon-precomposed-febea65d6d83a87c2d423203e8ebb6d1.png" rel="apple-touch-icon-precomposed">
+<link href="//resources-desperate-engineer.goodguide.com/assets/favicon-cde208dbc234c56a11af4c5b5f7499d8.ico" rel="shortcut icon" type="image/x-icon">
+<link href="//resources-desperate-engineer.goodguide.com/assets/apple-touch-icon-precomposed-ff3ad443da3638d59e2de18654884567.png" rel="apple-touch-icon-precomposed">
 <meta content="authenticity_token" name="csrf-param">
-<meta content="eiCWjbt7j1UvZreW1G7WWj/PIk7HOfBITafrmYMoUCM=" name="csrf-token">
+<meta content="UYCSPqGd058Myy5X/KYjIvB9dkKWclR8Y/q+qRmiLHw=" name="csrf-token">
 <meta content="app-id=294447660" name="apple-itunes-app">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
 </head>
 <body class="about">
-<div id="wrap">
+<div class="off-canvas-wrap" data-offcanvas="">
+<div class="inner-wrap">
 <header id="header">
-<nav class="header-container">
-<div class="gg-analytics" data-event-data="null" data-event-enabled="true" data-event-ga-action="Top Nav: Home" data-event-name="Top Nav: Home" data-event-source="about"><div class="header-logo">
-<a href="/" title="GoodGuide">GoodGuide</a>
+<!-- MOBILE NAV BAR -->
+<nav class="tab-bar hide-for-large-up" data-options="is_hover: false" data-topbar="" role="navigation">
+<section class="left-small left-off-canvas-toggle">
+<div class="fi-list"></div>
+</section>
+<section class="middle tab-bar-section">
+<a class="name" href="/" title="GoodGuide">GoodGuide</a>
+</section>
+<section class="right-small tab-header search" id="search">
+<div class="fi-magnifying-glass"></div>
+</section>
+</nav>
+<aside class="left-off-canvas-menu">
+<ul class="off-canvas-list">
+<li>
+<label>Personal Care</label>
+<div class="container">
+<a href="/categories/152642-after-shave-reviews-and-ratings">After Shave</a>
+<a href="/categories/261594-body-wash-cleanser-reviews-and-ratings">Body Wash &amp; Cleanser</a>
+<a href="/categories/152675-conditioner-reviews-and-ratings">Conditioner</a>
+<a href="/categories/153026-deodorants-antiperspirants-reviews-and-ratings">Deodorants &amp; Antiperspirants</a>
+<a href="/categories/184392-eye-ear-care-reviews-and-ratings">Eye &amp; Ear Care</a>
+<a href="/categories/184398-makeup-reviews-and-ratings">Makeup</a>
+<a href="/categories/152783-medicine-cabinet-reviews-and-ratings">Medicine Cabinet</a>
+<a href="/categories/152738-mouthwash-reviews-and-ratings">Mouthwash</a>
+<a href="/categories/152758-shampoo-reviews-and-ratings">Shampoo</a>
+<a href="/categories/152759-shaving-cream-reviews-and-ratings">Shaving Cream</a>
+<a href="/categories/184401-skin-care-reviews-and-ratings">Skin Care</a>
+<a href="/categories/205501-soap-reviews-and-ratings">Soap</a>
+<a href="/categories/152766-sunscreen-spf-15-above-reviews-and-ratings">Sunscreen SPF 15 and Above</a>
+<a href="/categories/231377-tampons-reviews-and-ratings">Tampons</a>
+<a href="/categories/152770-toothpaste-reviews-and-ratings">Toothpaste</a>
+<a href="/categories">See all »</a>
 </div>
-</div><div class="tab-headers">
-<div class="tab-header nav-menu">
-<div class="text">Personal Care</div>
-<div class="arrow"></div>
+</li>
+<li>
+<label>Food</label>
+<div class="container">
+<a href="/categories/255744-breads-baked-goods-reviews-and-ratings">Breads &amp; Baked Goods</a>
+<a href="/categories/255757-breakfast-reviews-and-ratings">Breakfast</a>
+<a href="/categories/255760-candy-reviews-and-ratings">Candy</a>
+<a href="/categories/255770-canned-foods-reviews-and-ratings">Canned Foods</a>
+<a href="/categories/255779-coffee-reviews-and-ratings">Coffee</a>
+<a href="/categories/255782-condiments-dips-salad-dressings-reviews-and-ratings">Condiments, Dips, &amp; Salad Dressings</a>
+<a href="/categories/255789-dairy-dairy-substitutes-reviews-and-ratings">Dairy &amp; Dairy Substitutes</a>
+<a href="/categories/255752-drinks-reviews-and-ratings">Drinks</a>
+<a href="/categories/256022-fresh-meat-seafood-reviews-and-ratings">Fresh Meat &amp; Seafood</a>
+<a href="/categories/256021-fresh-produce-reviews-and-ratings">Fresh Produce</a>
+<a href="/categories/255805-frozen-foods-reviews-and-ratings">Frozen Foods</a>
+<a href="/categories/255873-packaged-meals-and-sides-reviews-and-ratings">Packaged Meals and Sides</a>
+<a href="/categories/255898-snacks-reviews-and-ratings">Snacks</a>
+<a href="/categories/255832-teas-reviews-and-ratings">Teas</a>
+<a href="/categories">See all »</a>
 </div>
-<div class="tab-header nav-menu">
-<div class="text">Food</div>
-<div class="arrow"></div>
+</li>
+<li>
+<label>Household</label>
+<div class="container">
+<a href="/categories/167203-air-fresheners-reviews-and-ratings">Air Fresheners</a>
+<a href="/categories/172613-dishwashing-reviews-and-ratings">Dishwashing</a>
+<a href="/categories/180013-household-cleaners-reviews-and-ratings">Household Cleaners</a>
+<a href="/categories/184448-laundry-reviews-and-ratings">Laundry</a>
+<a href="/categories/308912-pet-food-reviews-and-ratings">Pet Food</a>
 </div>
-<div class="tab-header nav-menu">
-<div class="text">Household</div>
-<div class="arrow"></div>
+</li>
+<li>
+<label>Babies &amp; Kids</label>
+<div class="container">
+<a href="/categories/152651-baby-bubble-bath-reviews-and-ratings">Baby Bubble Bath</a>
+<a href="/categories/255740-baby-food-reviews-and-ratings">Baby Food</a>
+<a href="/categories/255741-baby-formula-reviews-and-ratings">Baby Formula</a>
+<a href="/categories/152652-baby-lotion-reviews-and-ratings">Baby Lotion</a>
+<a href="/categories/152653-baby-oil-reviews-and-ratings">Baby Oil</a>
+<a href="/categories/152654-baby-powder-reviews-and-ratings">Baby Powder</a>
+<a href="/categories/152655-baby-shampoo-reviews-and-ratings">Baby Shampoo</a>
+<a href="/categories/152656-baby-soap-reviews-and-ratings">Baby Soap</a>
+<a href="/categories/205490-baby-soap-bath-reviews-and-ratings">Baby Soap &amp; Bath</a>
+<a href="/categories/152657-baby-sunscreen-reviews-and-ratings">Baby Sunscreen</a>
+<a href="/categories/152658-baby-toothpaste-reviews-and-ratings">Baby Toothpaste</a>
+<a href="/categories/152659-baby-wipes-reviews-and-ratings">Baby Wipes</a>
+<a href="/categories/278854-childrens-apparel-reviews-and-ratings">Children's Apparel</a>
+<a href="/categories/152687-diaper-cream-reviews-and-ratings">Diaper Cream</a>
+<a href="/categories/298990-diapers-reviews-and-ratings">Diapers</a>
 </div>
-<div class="tab-header nav-menu">
-<div class="text">Babies &amp; Kids</div>
-<div class="arrow"></div>
+</li>
+</ul>
+</aside>
+<!-- NAV BAR -->
+<nav class="top-bar show-for-large-up" data-options="is_hover: false" data-topbar="" role="navigation">
+<div class="gg-analytics" data-event-data="null" data-event-enabled="true" data-event-ga-action="Top Nav: Home" data-event-name="Top Nav: Home" data-event-source="about"><div class="title-area">
+<a class="name" href="/" title="GoodGuide">GoodGuide</a>
 </div>
-<div class="tab-header nav-menu search" id="search-icon">
-<div class="search-icon"></div>
-</div>
-</div>
+</div><section class="top-bar-section tab-headers">
+<ul class="right">
+<li class="tab-header has-dropdown" id="personal-care">
+<a>Personal Care</a>
+</li>
+<li class="tab-header has-dropdown" id="food">
+<a>Food</a>
+</li>
+<li class="tab-header has-dropdown" id="household">
+<a>Household</a>
+</li>
+<li class="tab-header has-dropdown" id="babies-kids">
+<a>Babies &amp; Kids</a>
+</li>
+<li class="tab-header search" id="search">
+<a class="fi-magnifying-glass"></a>
+</li>
+</ul>
+</section>
 </nav>
 <div class="tab-content-container">
-<div class="gg-analytics" data-event-data="{&quot;Browsed Category Name&quot;:&quot;:text&quot;}" data-event-enabled="true" data-event-ga-action="browse_menu_dropdown" data-event-name="Top Nav: Browse Category" data-event-scope=".header-link a" data-event-source="about"><div class="tab-content">
-<div class="header-col one">
+<div class="gg-analytics" data-event-data="{&quot;Browsed Category Name&quot;:&quot;:text&quot;}" data-event-enabled="true" data-event-ga-action="browse_menu_dropdown" data-event-name="Top Nav: Browse Category" data-event-scope=".header-link a" data-event-source="about"><div class="personal-care row tab-content">
+<div class="medium-4 columns">
 <div class="header-link"><a href="/categories/152642-after-shave-reviews-and-ratings">After Shave</a></div>
 <div class="header-link"><a href="/categories/261594-body-wash-cleanser-reviews-and-ratings">Body Wash &amp; Cleanser</a></div>
 <div class="header-link"><a href="/categories/152675-conditioner-reviews-and-ratings">Conditioner</a></div>
@@ -70,14 +160,14 @@
 <div class="header-link"><a href="/categories/184392-eye-ear-care-reviews-and-ratings">Eye &amp; Ear Care</a></div>
 <div class="header-link"><a href="/categories/184398-makeup-reviews-and-ratings">Makeup</a></div>
 </div>
-<div class="header-col two">
+<div class="medium-4 columns">
 <div class="header-link"><a href="/categories/152783-medicine-cabinet-reviews-and-ratings">Medicine Cabinet</a></div>
 <div class="header-link"><a href="/categories/152738-mouthwash-reviews-and-ratings">Mouthwash</a></div>
 <div class="header-link"><a href="/categories/152758-shampoo-reviews-and-ratings">Shampoo</a></div>
 <div class="header-link"><a href="/categories/152759-shaving-cream-reviews-and-ratings">Shaving Cream</a></div>
 <div class="header-link"><a href="/categories/184401-skin-care-reviews-and-ratings">Skin Care</a></div>
 </div>
-<div class="header-col three">
+<div class="medium-4 columns">
 <div class="header-link"><a href="/categories/205501-soap-reviews-and-ratings">Soap</a></div>
 <div class="header-link"><a href="/categories/152766-sunscreen-spf-15-above-reviews-and-ratings">Sunscreen SPF 15 and Above</a></div>
 <div class="header-link"><a href="/categories/231377-tampons-reviews-and-ratings">Tampons</a></div>
@@ -85,22 +175,22 @@
 <div class="header-link"><a href="/categories">See all »</a></div>
 </div>
 </div>
-<div class="tab-content">
-<div class="header-col one">
+<div class="food row tab-content">
+<div class="medium-4 columns">
 <div class="header-link"><a href="/categories/255744-breads-baked-goods-reviews-and-ratings">Breads &amp; Baked Goods</a></div>
 <div class="header-link"><a href="/categories/255757-breakfast-reviews-and-ratings">Breakfast</a></div>
 <div class="header-link"><a href="/categories/255760-candy-reviews-and-ratings">Candy</a></div>
 <div class="header-link"><a href="/categories/255770-canned-foods-reviews-and-ratings">Canned Foods</a></div>
 <div class="header-link"><a href="/categories/255779-coffee-reviews-and-ratings">Coffee</a></div>
 </div>
-<div class="header-col two">
+<div class="medium-4 columns">
 <div class="header-link"><a href="/categories/255782-condiments-dips-salad-dressings-reviews-and-ratings">Condiments, Dips, &amp; Salad Dressings</a></div>
 <div class="header-link"><a href="/categories/255789-dairy-dairy-substitutes-reviews-and-ratings">Dairy &amp; Dairy Substitutes</a></div>
 <div class="header-link"><a href="/categories/255752-drinks-reviews-and-ratings">Drinks</a></div>
 <div class="header-link"><a href="/categories/256022-fresh-meat-seafood-reviews-and-ratings">Fresh Meat &amp; Seafood</a></div>
 <div class="header-link"><a href="/categories/256021-fresh-produce-reviews-and-ratings">Fresh Produce</a></div>
 </div>
-<div class="header-col three">
+<div class="medium-4 columns">
 <div class="header-link"><a href="/categories/255805-frozen-foods-reviews-and-ratings">Frozen Foods</a></div>
 <div class="header-link"><a href="/categories/255873-packaged-meals-and-sides-reviews-and-ratings">Packaged Meals and Sides</a></div>
 <div class="header-link"><a href="/categories/255898-snacks-reviews-and-ratings">Snacks</a></div>
@@ -108,35 +198,35 @@
 <div class="header-link"><a href="/categories">See all »</a></div>
 </div>
 </div>
-<div class="tab-content">
-<div class="header-col one">
+<div class="household row tab-content">
+<div class="medium-4 columns">
 <div class="header-link"><a href="/categories/167203-air-fresheners-reviews-and-ratings">Air Fresheners</a></div>
 <div class="header-link"><a href="/categories/172613-dishwashing-reviews-and-ratings">Dishwashing</a></div>
 </div>
-<div class="header-col two">
+<div class="medium-4 columns">
 <div class="header-link"><a href="/categories/180013-household-cleaners-reviews-and-ratings">Household Cleaners</a></div>
 <div class="header-link"><a href="/categories/184448-laundry-reviews-and-ratings">Laundry</a></div>
 </div>
-<div class="header-col three">
+<div class="medium-4 columns">
 <div class="header-link"><a href="/categories/308912-pet-food-reviews-and-ratings">Pet Food</a></div>
 </div>
 </div>
-<div class="tab-content">
-<div class="header-col one">
+<div class="babies-kids row tab-content">
+<div class="medium-4 columns">
 <div class="header-link"><a href="/categories/152651-baby-bubble-bath-reviews-and-ratings">Baby Bubble Bath</a></div>
 <div class="header-link"><a href="/categories/255740-baby-food-reviews-and-ratings">Baby Food</a></div>
 <div class="header-link"><a href="/categories/255741-baby-formula-reviews-and-ratings">Baby Formula</a></div>
 <div class="header-link"><a href="/categories/152652-baby-lotion-reviews-and-ratings">Baby Lotion</a></div>
 <div class="header-link"><a href="/categories/152653-baby-oil-reviews-and-ratings">Baby Oil</a></div>
 </div>
-<div class="header-col two">
+<div class="medium-4 columns">
 <div class="header-link"><a href="/categories/152654-baby-powder-reviews-and-ratings">Baby Powder</a></div>
 <div class="header-link"><a href="/categories/152655-baby-shampoo-reviews-and-ratings">Baby Shampoo</a></div>
 <div class="header-link"><a href="/categories/152656-baby-soap-reviews-and-ratings">Baby Soap</a></div>
 <div class="header-link"><a href="/categories/205490-baby-soap-bath-reviews-and-ratings">Baby Soap &amp; Bath</a></div>
 <div class="header-link"><a href="/categories/152657-baby-sunscreen-reviews-and-ratings">Baby Sunscreen</a></div>
 </div>
-<div class="header-col three">
+<div class="medium-4 columns">
 <div class="header-link"><a href="/categories/152658-baby-toothpaste-reviews-and-ratings">Baby Toothpaste</a></div>
 <div class="header-link"><a href="/categories/152659-baby-wipes-reviews-and-ratings">Baby Wipes</a></div>
 <div class="header-link"><a href="/categories/278854-childrens-apparel-reviews-and-ratings">Children's Apparel</a></div>
@@ -144,14 +234,14 @@
 <div class="header-link"><a href="/categories/298990-diapers-reviews-and-ratings">Diapers</a></div>
 </div>
 </div>
-<div class="tab-content">
+<div class="tab-content search">
 <div class="gg-analytics" data-event-data="{&quot;Query&quot;:&quot;.search-field&quot;}" data-event-enabled="true" data-event-ga-action="header_search_form" data-event-name="Search Performed" data-event-scope="form" data-event-source="about" data-event-type="submit"><form action="/products" method="get">
 <div class="search-container">
 <div class="search-bar">
-<div class="search-icon"></div>
+<div class="search-icon fi-magnifying-glass"></div>
 <input autocomplete="off" class="search-field" name="filter" placeholder="Search for products" type="search" value="">
-<input class="search-button" type="submit" value="SEARCH">
-<input class="clear-icon" type="reset">
+<input class="search-button" type="submit" value="Search">
+<button class="clear-icon fi-x" type="reset"></button>
 </div>
 </div>
 </form>
@@ -161,24 +251,24 @@
 
 </header>
 <div id="content-container">
-<nav class="breadcrumbs">
-<div class="gg-analytics" data-event-data="{&quot;Level&quot;:&quot;@level&quot;}" data-event-enabled="true" data-event-ga-action="breadcrumb" data-event-ga-label="@label" data-event-name="Breadcrumbs" data-event-source="about"><div class="breadcrumbs-container"><div class="__microdata-scope gg-analytics" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/" data-label="Home" data-level="1" itemprop="url"><div class="gg-analytics" itemprop="title">Home</div></a></div><span class="breadcrumb-spacing">&gt;</span><div class="__microdata-scope gg-analytics" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/about" data-label="About" data-level="2" itemprop="url"><div class="gg-analytics" itemprop="title">About</div></a></div><span class="breadcrumb-spacing">&gt;</span><div class="gg-analytics">Privacy Policy</div></div></div>
+<div class="gg-analytics" data-event-data="{&quot;Level&quot;:&quot;@level&quot;}" data-event-enabled="true" data-event-ga-action="breadcrumb" data-event-ga-label="@label" data-event-name="Breadcrumbs" data-event-source="about"><nav class="breadcrumbs-container"><div class="__microdata-scope gg-analytics" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/" data-label="Home" data-level="1" itemprop="url"><div class="gg-analytics" itemprop="title">Home</div></a></div><span class="breadcrumb-spacing">&gt;</span><div class="__microdata-scope gg-analytics" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/about" data-label="About" data-level="2" itemprop="url"><div class="gg-analytics" itemprop="title">About</div></a></div><span class="breadcrumb-spacing">&gt;</span><div class="gg-analytics">Privacy Policy</div></nav></div>
 
-</nav>
 <!--[if IE]>
-<div id='unsupported-browser-notification'>
+<div class='row'><div class='small-10 small-centered columns' id='unsupported-browser-notification'>
 Sorry, we don't support
 <a href='http://whatbrowser.org' target='_blank'>your browser.</a>
 We recommend Chrome, Firefox, Safari, or Internet Explorer 10 and higher.
 </div>
-
+</div>
 <![endif]-->
 <div class="content">
 <div class="ad-leaderboard" id="ad-about-leaderboard"></div>
-<div id="column-narrow"><nav>
-<div class="gg-analytics" data-event-data="{&quot;Link&quot;:&quot;:text&quot;}" data-event-enabled="true" data-event-ga-action="link" data-event-ga-label=":text" data-event-name="About Page Sidebar" data-event-source="about"><section class="sidebar info-tile">
-<div class="info-tile-header truncate">
+<div class="about-page">
+<div id="column-narrow"><nav class="show-for-large-up">
+<div class="gg-analytics" data-event-data="{&quot;Link&quot;:&quot;:text&quot;}" data-event-enabled="true" data-event-ga-action="link" data-event-ga-label=":text" data-event-name="About Page Sidebar" data-event-source="about"><section class="sidebar info-tile" data-order="0">
+<div class="info-tile-header">
 <h1>About Us</h1>
+<div class="arrow"></div>
 </div>
 <div class="info-tile-content">
 <ul class="menu">
@@ -192,9 +282,10 @@ We recommend Chrome, Firefox, Safari, or Internet Explorer 10 and higher.
 
 </div>
 </section>
-<section class="sidebar info-tile">
-<div class="info-tile-header truncate">
+<section class="sidebar info-tile" data-order="0">
+<div class="info-tile-header">
 <h1>Jobs</h1>
+<div class="arrow"></div>
 </div>
 <div class="info-tile-content">
 <ul class="menu">
@@ -207,9 +298,10 @@ We recommend Chrome, Firefox, Safari, or Internet Explorer 10 and higher.
 
 </div>
 </section>
-<section class="sidebar info-tile">
-<div class="info-tile-header truncate">
+<section class="sidebar info-tile" data-order="0">
+<div class="info-tile-header">
 <h1>Press</h1>
+<div class="arrow"></div>
 </div>
 <div class="info-tile-content">
 <ul class="menu">
@@ -220,9 +312,10 @@ We recommend Chrome, Firefox, Safari, or Internet Explorer 10 and higher.
 
 </div>
 </section>
-<section class="sidebar info-tile">
-<div class="info-tile-header truncate">
+<section class="sidebar info-tile" data-order="0">
+<div class="info-tile-header">
 <h1>Our Ratings</h1>
+<div class="arrow"></div>
 </div>
 <div class="info-tile-content">
 <ul class="menu">
@@ -233,9 +326,10 @@ We recommend Chrome, Firefox, Safari, or Internet Explorer 10 and higher.
 
 </div>
 </section>
-<section class="sidebar info-tile">
-<div class="info-tile-header truncate">
+<section class="sidebar info-tile" data-order="0">
+<div class="info-tile-header">
 <h1>Policies</h1>
+<div class="arrow"></div>
 </div>
 <div class="info-tile-content">
 <ul class="menu">
@@ -248,13 +342,44 @@ We recommend Chrome, Firefox, Safari, or Internet Explorer 10 and higher.
 </div>
 </section>
 </div></nav>
+<nav class="hide-for-large-up">
+<div class="gg-analytics" data-event-data="{&quot;Link&quot;:&quot;:text&quot;}" data-event-enabled="true" data-event-ga-action="link" data-event-ga-label=":text" data-event-name="About Page Sidebar" data-event-source="about"><select onchange="window.location.href=this.value">
+<optgroup label="About Us"></optgroup>
+<option value="/about">&nbsp;&nbsp;Who Are We?</option>
+<option value="/about/team">&nbsp;&nbsp;Executive Team</option>
+<option value="/about/contact">&nbsp;&nbsp;Contact Us</option>
+<option value="/about/mobile">&nbsp;&nbsp;Mobile Apps</option>
+<option value="/about/platform">&nbsp;&nbsp;PurView(SM) Platform</option>
+<option value="/about/faq">&nbsp;&nbsp;Frequently Asked Questions</option>
+<optgroup label="Jobs"></optgroup>
+<option value="/about/jobs">&nbsp;&nbsp;Open Positions</option>
+<option value="/about/jobs/faq">&nbsp;&nbsp;Working With Us</option>
+<option value="/about/jobs/team">&nbsp;&nbsp;Meet the GoodGuide Team</option>
+<option value="/about/jobs/b2b">&nbsp;&nbsp;Our Platform</option>
+<option value="/about/jobs/ul">&nbsp;&nbsp;GoodGuide and UL</option>
+<optgroup label="Press"></optgroup>
+<option value="/about/press">&nbsp;&nbsp;All Press</option>
+<option value="/about/press/news">&nbsp;&nbsp;News Coverage</option>
+<option value="/about/press/media">&nbsp;&nbsp;Radio and TV</option>
+<optgroup label="Our Ratings"></optgroup>
+<option value="/about/ratings">&nbsp;&nbsp;Ratings</option>
+<option value="/about/data">&nbsp;&nbsp;Data</option>
+<option value="/about/methodologies">&nbsp;&nbsp;Methodology</option>
+<optgroup label="Policies"></optgroup>
+<option value="/about/user-agreement">&nbsp;&nbsp;User Agreement</option>
+<option value="/about/privacy">&nbsp;&nbsp;Privacy Policy</option>
+<option value="/about/disclaimer">&nbsp;&nbsp;Legal Notices</option>
+<option value="/about/partnerships">&nbsp;&nbsp;Partnerships</option>
+</select>
+</div></nav>
 </div>
 <div id="column-wide">
 <article id="about-privacy">
 
-<div class="about-content info-tile">
-<div class="info-tile-header truncate">
+<section class="about-content info-tile" data-order="0">
+<div class="info-tile-header">
 <h1>GoodGuide Privacy Policy (Last Modified April 7, 2015)</h1>
+<div class="arrow"></div>
 </div>
 <div class="info-tile-content">
 <div class="gg-analytics" data-event-data="null" data-event-enabled="true" data-event-ga-action="link" data-event-name="link" data-event-scope="a" data-event-source="about" label="@href"><div class="info-tile-text"><h2>Your Privacy</h2>
@@ -323,38 +448,38 @@ We recommend Chrome, Firefox, Safari, or Internet Explorer 10 and higher.
 </div>
 </div>
 </div>
-</div>
+</section>
 </article>
 </div>
+</div>
 
-</div>
-</div>
 </div>
 <footer id="footer">
 
-<div class="footer-container">
-<div class="footer-logo"></div>
-<nav class="footer-list">
+<div class="header">
+<div class="logo">GoodGuide</div>
+<div class="social-container">
+<a class="fi-social-facebook" href="https://www.facebook.com/GoodGuide" title="Facebook"></a>
+<a class="fi-social-twitter" href="https://twitter.com/goodguide" title="Twitter"></a>
+</div>
+</div>
+<hr class="show-for-small">
+<div class="footer-lists show-for-medium-up">
+<div class="footer-column">
 <h2 class="footer-title">Ratings</h2>
 <ul>
 <li><a href="http://www.goodguide.com/about/ratings">Ratings</a></li>
 <li><a href="http://www.goodguide.com/about/data">Data</a></li>
 <li><a href="http://www.goodguide.com/about/methodologies">Methodology</a></li></ul>
-</nav>
-<nav class="footer-list">
+</div>
+<div class="footer-column">
 <h2 class="footer-title">Jobs</h2>
 <ul>
 <li><a href="http://www.goodguide.com/about/jobs">Open Positions</a></li>
 <li><a href="http://www.goodguide.com/about/jobs/faq">Working with Us</a></li>
 <li><a href="http://www.goodguide.com/about/jobs/ul">GoodGuide + UL</a></li></ul>
-</nav>
-<nav class="footer-list">
-<h2 class="footer-title">Tools</h2>
-<ul>
-<li><a href="http://www.goodguide.com/about/mobile">Mobile App</a></li>
-<li><a href="http://www.goodguide.com/about/platform">Purview Platform</a></li></ul>
-</nav>
-<nav class="footer-list">
+</div>
+<div class="footer-column">
 <h2 class="footer-title">Site Index</h2>
 <ul>
 <li><a href="http://www.goodguide.com/categories">Category Index</a></li>
@@ -362,36 +487,47 @@ We recommend Chrome, Firefox, Safari, or Internet Explorer 10 and higher.
 <li><a href="http://www.goodguide.com/brands">Brand Index</a></li>
 <li><a href="http://www.goodguide.com/products">Product Index</a></li>
 <li><a href="http://www.goodguide.com/ingredients">Ingredient Index</a></li></ul>
-</nav>
-<nav class="footer-list">
+</div>
+<div class="footer-column">
 <h2 class="footer-title">About</h2>
 <ul>
 <li><a href="http://www.goodguide.com/about">About GoodGuide</a></li>
 <li><a href="http://blog.goodguide.com/">Blog</a></li>
 <li><a href="http://www.goodguide.com/about/press">Press</a></li>
 <li><a href="http://www.goodguide.com/about/contact">Contact Us</a></li></ul>
-</nav>
+</div>
+</div>
+<div class="footer-lists show-for-small">
+<ul class="footer-column">
+<li><a href="http://www.goodguide.com/about">About Us</a></li>
+<li><a href="http://www.goodguide.com/about/ratings">Our Ratings</a></li>
+<li><a href="http://blog.goodguide.com/">Blog</a></li>
+<li><a href="http://www.goodguide.com/about/press">Press</a></li>
+<li><a href="http://www.goodguide.com/about/contact">Contact us</a></li>
+<li><a href="http://www.goodguide.com/about/jobs">Jobs</a></li></ul>
+<ul class="footer-column">
+<li><a href="http://www.goodguide.com/about/mobile">Mobile App</a></li>
+<li><a href="http://www.goodguide.com/about/platform">Purview</a></li>
+<li><a href="http://www.goodguide.com/categories">All Categories</a></li>
+<li><a href="http://www.goodguide.com/companies">All Companies</a></li>
+<li><a href="http://www.goodguide.com/brands">All Brands</a></li>
+<li><a href="http://www.goodguide.com/ingredients">All Ingredients</a></li></ul>
+</div>
+<hr class="show-for-small">
 <div class="copyright">
-<div class="footer-title">
-© 2014 GoodGuide, Inc.
-</div>
-<nav>
 <ul>
-<li>
-<a href="http://www.goodguide.com/about/user-agreement">User Agreement</a>
-</li>
-<li>
-<a href="http://www.goodguide.com/about/privacy">Privacy Policies</a>
-</li>
-<li>
-<a href="http://www.goodguide.com/about/disclaimer">Legal Notices</a>
-</li>
+<li class="text-left"><a href="http://www.goodguide.com/about/user-agreement">User Agreement</a></li>
+<li class="text-center"><a href="http://www.goodguide.com/about/privacy">Privacy Policies</a></li>
+<li class="text-right"><a href="http://www.goodguide.com/about/disclaimer">Legal Notices</a></li>
 </ul>
-</nav>
-</div>
+<div class="footer-title">© 2016 GoodGuide, Inc.</div>
 </div>
 
 </footer>
+</div>
+<a class="exit-off-canvas"></a>
+</div>
+</div>
 <script data-turbolinks-eval="false" src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.3.1/underscore-min.js" type="text/javascript"></script>
 <script data-turbolinks-eval="false" src="//cdnjs.cloudflare.com/ajax/libs/d3/2.8.1/d3.v2.min.js" type="text/javascript"></script>
 <script data-turbolinks-eval="false" src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
@@ -412,7 +548,7 @@ mixpanel.init(window._mixpanel_config.token);
 
 //]]>
 </script>
-<script data-turbolinks-eval="false" src="//resources-robotic-musketeer.goodguide.com/assets/application-fb988ee85b9958b7470f3dfb8a57b4d5.js" type="text/javascript"></script>
+<script data-turbolinks-eval="false" src="//resources-desperate-engineer.goodguide.com/assets/application-90547e1c7a817b53616b306ec0ff1e00.js" type="text/javascript"></script>
 <script data-turbolinks-eval="false" type="text/javascript">
 //<![CDATA[
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
