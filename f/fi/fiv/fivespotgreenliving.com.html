@@ -1,24 +1,37 @@
-<!--The following is the downloaded HTML source of the fivespotgreenliving.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607134305id_/http%3A//www.fivespotgreenliving.com/privacy-po) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fivespotgreenliving.com privacy policy that was archived on 2016-05-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160517080852id_/http%3A//www.fivespotgreenliving.com/privacy-po) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US"><head><link rel="stylesheet" href="http://www.fivespotgreenliving.com/wp-content/plugins/wp-minify/min/?f=wp-content/themes/lifestyle-pro/style.css,wp-content/plugins/crafty-social-buttons/css/public.min.css,wp-content/plugins/recipe-card/css/layout.css,wp-content/plugins/jquery-pin-it-button-for-images/css/style.css,wp-content/plugins/genesis-layout-extras/css/gle-layout-3col-html5-styles.min.css,wp-content/plugins/commentluv/css/commentluv.css,wp-content/plugins/wordpress-23-related-posts-plugin/static/themes/modern.css,wp-content/plugins/ziplist-recipe-plugin/zlrecipe-std.css&amp;m=1433339282" type="text/css" media="screen"> <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.fivespotgreenliving.com/wp-content/plugins/wp-minify/min/?f=wp-content/plugins/ziplist-recipe-plugin/zlrecipe_print.js&amp;m=1431912645"></script> <meta charset="UTF-8"><title>Privacy -</title><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="canonical" href="http://www.fivespotgreenliving.com/privacy-po/"> <script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/www.fivespotgreenliving.com\/","name":""}</script>  <script type="text/javascript">window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"http:\/\/www.fivespotgreenliving.com\/wp-includes\/js\/wp-emoji.js","twemoji":"http:\/\/www.fivespotgreenliving.com\/wp-includes\/js\/twemoji.js"}};
+<!DOCTYPE html><html lang="en-US"><head>
+<meta charset="UTF-8">
+<title>Privacy</title><meta name="robots" content="noodp,noydir">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="alternate" type="application/rss+xml" title="Five Spot Green Living » Feed" href="http://www.fivespotgreenliving.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Five Spot Green Living » Comments Feed" href="http://www.fivespotgreenliving.com/comments/feed/">
+<link rel="canonical" href="http://www.fivespotgreenliving.com/privacy-po/">
+		<script type="text/javascript" async="" src="http://www.fivespotgreenliving.com/wp-content/plugins/easy-social-share-buttons3/assets/js/easy-social-share-buttons.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"http:\/\/www.fivespotgreenliving.com\/wp-includes\/js\/wp-emoji.js?ver=4.5","twemoji":"http:\/\/www.fivespotgreenliving.com\/wp-includes\/js\/twemoji.js?ver=4.5"}};
 			( function( window, document, settings ) {
-	var src;
+	var src, ready, ii, tests;
+
 	/**
 	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
 	 * made of two characters, so some browsers (notably, Firefox OS X) don't support them.
 	 *
 	 * @since 4.2.0
 	 *
-	 * @param type {String} Whether to test for support of "simple" or "flag" emoji.
+	 * @param type {String} Whether to test for support of "simple", "flag", "diversity" or "unicode8" emoji.
 	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
 	 */
 	function browserSupportsEmoji( type ) {
 		var canvas = document.createElement( 'canvas' ),
-			context = canvas.getContext && canvas.getContext( '2d' );
+			context = canvas.getContext && canvas.getContext( '2d' ),
+			stringFromCharCode = String.fromCharCode,
+			tonedata, tone, tone2;
+
 		if ( ! context || ! context.fillText ) {
 			return false;
 		}
+
 		/*
 		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
 		 * it doesn't work when the font is bolder than 500 weight. So, we
@@ -26,40 +39,107 @@
 		 */
 		context.textBaseline = 'top';
 		context.font = '600 32px Arial';
-		if ( type === 'flag' ) {
-			/*
-			 * This works because the image will be one of three things:
-			 * - Two empty squares, if the browser doesn't render emoji
-			 * - Two squares with 'G' and 'B' in them, if the browser doesn't render flag emoji
-			 * - The British flag
-			 *
-			 * The first two will encode to small images (1-2KB data URLs), the third will encode
-			 * to a larger image (4-5KB data URL).
-			 */
-			context.fillText( String.fromCharCode( 55356, 56812, 55356, 56807 ), 0, 0 );
-			return canvas.toDataURL().length > 3000;
-		} else {
-			/*
-			 * This creates a smiling emoji, and checks to see if there is any image data in the
-			 * center pixel. In browsers that don't support emoji, the character will be rendered
-			 * as an empty square, so the center pixel will be blank.
-			 */
-			context.fillText( String.fromCharCode( 55357, 56835 ), 0, 0 );
-			return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+
+		switch ( type ) {
+			case 'flag':
+				/*
+				 * This works because the image will be one of three things:
+				 * - Two empty squares, if the browser doesn't render emoji
+				 * - Two squares with 'A' and 'U' in them, if the browser doesn't render flag emoji
+				 * - The Australian flag
+				 *
+				 * The first two will encode to small images (1-2KB data URLs), the third will encode
+				 * to a larger image (4-5KB data URL).
+				 */
+				context.fillText( stringFromCharCode( 55356, 56806, 55356, 56826 ), 0, 0 );
+				return canvas.toDataURL().length > 3000;
+			case 'diversity':
+				/*
+				 * This tests if the browser supports the Emoji Diversity specification, by rendering an
+				 * emoji with no skin tone specified (in this case, Santa). It then adds a skin tone, and
+				 * compares if the emoji rendering has changed.
+				 */
+				context.fillText( stringFromCharCode( 55356, 57221 ), 0, 0 );
+				tonedata = context.getImageData( 16, 16, 1, 1 ).data;
+
+				context.fillText( stringFromCharCode( 55356, 57221, 55356, 57343 ), 0, 0 );
+				// Chrome has issues comparing arrays, and Safari has issues converting arrays to strings.
+				// So, we create our own string and compare that, instead.
+				tonedata = context.getImageData( 16, 16, 1, 1 ).data;
+				tone2 = tonedata[0] + ',' + tonedata[1] + ',' + tonedata[2] + ',' + tonedata[3];
+
+				return tone !== tone2;
+			case 'simple':
+				/*
+				 * This creates a smiling emoji, and checks to see if there is any image data in the
+				 * center pixel. In browsers that don't support emoji, the character will be rendered
+				 * as an empty square, so the center pixel will be blank.
+				 */
+				context.fillText( stringFromCharCode( 55357, 56835 ), 0, 0 );
+				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+			case 'unicode8':
+				/*
+				 * To check for Unicode 8 support, let's try rendering the most important advancement
+				 * that the Unicode Consortium have made in years: the burrito.
+				 */
+				context.fillText( stringFromCharCode( 55356, 57135 ), 0, 0 );
+				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
 		}
+
+		return false;
 	}
+
 	function addScript( src ) {
 		var script = document.createElement( 'script' );
+
 		script.src = src;
 		script.type = 'text/javascript';
 		document.getElementsByTagName( 'head' )[0].appendChild( script );
 	}
+
+	tests = Array( 'simple', 'flag', 'unicode8', 'diversity' );
+
 	settings.supports = {
-		simple: browserSupportsEmoji( 'simple' ),
-		flag:   browserSupportsEmoji( 'flag' )
+		everything: true,
+		everythingExceptFlag: true
 	};
-	if ( ! settings.supports.simple || ! settings.supports.flag ) {
+
+	for( ii = 0; ii < tests.length; ii++ ) {
+		settings.supports[ tests[ ii ] ] = browserSupportsEmoji( tests[ ii ] );
+
+		settings.supports.everything = settings.supports.everything && settings.supports[ tests[ ii ] ];
+
+		if ( 'flag' !== tests[ ii ] ) {
+			settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && settings.supports[ tests[ ii ] ];
+		}
+	}
+
+	settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && ! settings.supports.flag;
+
+	settings.DOMReady = false;
+	settings.readyCallback = function() {
+		settings.DOMReady = true;
+	};
+
+	if ( ! settings.supports.everything ) {
+		ready = function() {
+			settings.readyCallback();
+		};
+
+		if ( document.addEventListener ) {
+			document.addEventListener( 'DOMContentLoaded', ready, false );
+			window.addEventListener( 'load', ready, false );
+		} else {
+			window.attachEvent( 'onload', ready );
+			document.attachEvent( 'onreadystatechange', function() {
+				if ( 'complete' === document.readyState ) {
+					settings.readyCallback();
+				}
+			} );
+		}
+
 		src = settings.source || {};
+
 		if ( src.concatemoji ) {
 			addScript( src.concatemoji );
 		} else if ( src.wpemoji && src.twemoji ) {
@@ -67,7 +147,11 @@
 			addScript( src.wpemoji );
 		}
 	}
-} )( window, document, window._wpemojiSettings );</script><script src="http://www.fivespotgreenliving.com/wp-includes/js/twemoji.js" type="text/javascript"></script><script src="http://www.fivespotgreenliving.com/wp-includes/js/wp-emoji.js" type="text/javascript"></script> <style type="text/css">img.wp-smiley,
+
+} )( window, document, window._wpemojiSettings );
+		</script><script src="http://www.fivespotgreenliving.com/wp-includes/js/twemoji.js?ver=4.5" type="text/javascript"></script><script src="http://www.fivespotgreenliving.com/wp-includes/js/wp-emoji.js?ver=4.5" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
 img.emoji {
 	display: inline !important;
 	border: none !important;
@@ -78,15 +162,42 @@ img.emoji {
 	vertical-align: -0.1em !important;
 	background: none !important;
 	padding: 0 !important;
-}</style><style type="text/css">.enews .screenread {
+}
+</style>
+<link rel="stylesheet" id="pretty-happy-css" href="http://www.fivespotgreenliving.com/wp-content/themes/prettyhappy/style.css?ver=1.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="sb_instagram_styles-css" href="http://www.fivespotgreenliving.com/wp-content/plugins/instagram-feed/css/sb-instagram.css?ver=1.3.11" type="text/css" media="all">
+<link rel="stylesheet" id="sb_instagram_icons-css" href="//netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css?1&amp;ver=4.2.0" type="text/css" media="all">
+<link rel="stylesheet" id="yumprint-recipe-theme-layout-css" href="http://www.fivespotgreenliving.com/wp-content/plugins/recipe-card/css/layout.css?ver=4.5" type="text/css" media="all">
+<link rel="stylesheet" id="google-fonts-css" href="//fonts.googleapis.com/css?family=Open+Sans%3A400%2C300%2C300italic%2C400italic%7CMontserrat&amp;ver=1.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="http://www.fivespotgreenliving.com/wp-includes/css/dashicons.css?ver=4.5" type="text/css" media="all">
+<link rel="stylesheet" id="simple-social-icons-font-css" href="http://www.fivespotgreenliving.com/wp-content/plugins/simple-social-icons/css/style.css?ver=1.0.12" type="text/css" media="all">
+<link rel="stylesheet" id="easy-social-share-buttons-css" href="http://www.fivespotgreenliving.com/wp-content/plugins/easy-social-share-buttons3/assets/css/tiny-retina/easy-social-share-buttons.min.css?ver=3.5" type="text/css" media="all">
+<link rel="stylesheet" id="essb-social-followers-counter-css" href="http://www.fivespotgreenliving.com/wp-content/plugins/easy-social-share-buttons3/lib/modules/social-followers-counter/assets/css/essb-followers-counter.min.css?ver=3.5" type="text/css" media="all">
+<link rel="stylesheet" id="essb-cct-style-css" href="http://www.fivespotgreenliving.com/wp-content/plugins/easy-social-share-buttons3/lib/modules/click-to-tweet/assets/css/styles.css?ver=3.5" type="text/css" media="all">
+<script type="text/javascript" src="http://www.fivespotgreenliving.com/wp-includes/js/jquery/jquery.js?ver=1.12.3"></script>
+<script type="text/javascript" src="http://www.fivespotgreenliving.com/wp-includes/js/jquery/jquery-migrate.js?ver=1.4.0"></script>
+<script type="text/javascript" src="http://www.fivespotgreenliving.com/wp-content/plugins/recipe-card/js/post.js?ver=4.5"></script>
+<script type="text/javascript" src="http://www.fivespotgreenliving.com/wp-content/themes/genesis/lib/js/skip-links.js?ver=4.5"></script>
+<link rel="https://api.w.org/" href="http://www.fivespotgreenliving.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.fivespotgreenliving.com/xmlrpc.php?rsd">
+<link rel="alternate" type="application/json+oembed" href="http://www.fivespotgreenliving.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.fivespotgreenliving.com%2Fprivacy-po%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://www.fivespotgreenliving.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.fivespotgreenliving.com%2Fprivacy-po%2F&amp;format=xml">
+<style type="text/css"> .enews .screenread {
 	height: 1px;
     left: -1000em;
     overflow: hidden;
     position: absolute;
     top: -1000em;
-    width: 1px; }</style><script type="text/javascript">window.yumprintRecipePlugin = "http://www.fivespotgreenliving.com/wp-content/plugins/recipe-card";
+    width: 1px; } </style><script type="text/javascript">
+	window.yumprintRecipePlugin = "http://www.fivespotgreenliving.com/wp-content/plugins/recipe-card";
 	window.yumprintRecipeAjaxUrl = "http://www.fivespotgreenliving.com/wp-admin/admin-ajax.php";
-	window.yumprintRecipeUrl = "http://www.fivespotgreenliving.com/";</script><!--[if lte IE 8]> <script type="text/javascript">window.yumprintRecipeDisabled = true;</script> <![endif]--><style type="text/css">.blog-yumprint-recipe .blog-yumprint-recipe-title {
+	window.yumprintRecipeUrl = "http://www.fivespotgreenliving.com/";
+</script><!--[if lte IE 8]>
+<script type="text/javascript">
+    window.yumprintRecipeDisabled = true;
+</script>
+<![endif]-->
+<style type="text/css">    .blog-yumprint-recipe .blog-yumprint-recipe-title {
     	color: #53291C;
     }
     .blog-yumprint-recipe .blog-yumprint-subheader, .blog-yumprint-recipe .blog-yumprint-infobar-section-title, .blog-yumprint-recipe .blog-yumprint-infobox-section-title, .blog-yumprint-nutrition-section-title {
@@ -117,6 +228,7 @@ img.emoji {
     .blog-yumprint-recipe .blog-yumprint-nutrition-bar:hover .blog-yumprint-nutrition-section-data {
         color: #a6a6a6;
     }
+
     .blog-yumprint-recipe .blog-yumprint-print {
     	background-color: #BEBEBE;
     	color: #ffffff;
@@ -192,100 +304,150 @@ img.emoji {
 		text-decoration: none;
     }    .blog-yumprint-header {
         width: 100% !important;
-    }</style><script type="text/javascript">window._wp_rp_static_base_url = 'https://wprp.zemanta.com/static/';
-	window._wp_rp_wp_ajax_url = "http://www.fivespotgreenliving.com/wp-admin/admin-ajax.php";
-	window._wp_rp_plugin_version = '3.5.4';
-	window._wp_rp_post_id = '11031';
-	window._wp_rp_num_rel_posts = '5';
-	window._wp_rp_thumbnails = true;
-	window._wp_rp_post_title = 'Privacy';
-	window._wp_rp_post_tags = [];
-	window._wp_rp_promoted_content = true;</script> <script type="text/javascript" src="https://wprp.zemanta.com/static/js/loader.js?version=3.5.4" async=""></script> <!--[if lt IE 9]><style type="text/css">.pinit-overlay {
-				background-image: url( 'http://www.fivespotgreenliving.com/wp-content/plugins/jquery-pin-it-button-for-images/images/transparency_0.png' ) !important;
-			}</style><![endif]--><style type="text/css">a.pinit-button {
-				width: 65px !important;
-				height: 41px !important;
-				background: transparent url('http://www.fivespotgreenliving.com/wp-content/plugins/jquery-pin-it-button-for-images/images/pinit-button.png') no-repeat 0 0 !important;
-				background-size: 65px 41px !important
-			}
-			a.pinit-button.pinit-top-left {
-				margin: 20px 0 0 20px			}
-			a.pinit-button.pinit-top-right {
-				margin: 20px 20px 0 0			}
-			a.pinit-button.pinit-bottom-left {
-				margin: 0 0 20px  20px			}
-			a.pinit-button.pinit-bottom-right {
-				margin: 0 20px  20px 0			}
-			img.pinit-hover {
-				opacity: 0.5 !important;
-				filter:alpha(opacity=50) !important; /* For IE8 and earlier */
-			}</style><link rel="Shortcut Icon" href="http://www.fivespotgreenliving.com/wp-content/themes/genesis/images/favicon.ico" type="image/x-icon"><link rel="pingback" href="http://www.fivespotgreenliving.com/xmlrpc.php"> <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]--><style type="text/css">@media only screen and (max-width: 768px){ #header{ background-image:none!important; background-color:#ffffff !important; height:auto!important;min-height:0!important;width:100%; } #title-area{  } #title, #title a { background: none !important; } }</style><script type="text/javascript">var _gaq = _gaq || [];
+    }    </style><link rel="Shortcut Icon" href="http://www.fivespotgreenliving.com/wp-content/themes/prettyhappy/images/favicon.ico" type="image/x-icon">
+<link rel="pingback" href="http://www.fivespotgreenliving.com/xmlrpc.php">
+<style type="text/css">.site-title a { background: url(http://www.fivespotgreenliving.com/wp-content/uploads/2015/10/cropped-5-ways-do-more-happy.jpg) no-repeat !important; }</style>
+<!--[if lt IE 9]><script src="http://www.fivespotgreenliving.com/wp-content/themes/genesis/lib/js/html5shiv.js"></script><![endif]-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-45487202-1']);
   _gaq.push(['_trackPageview']);
+
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();</script> <link rel="icon" type="image/x-icon" href="http://www.fivespotgreenliving.com/blogimages/favicon.ico"><style type="text/css">.sprite {
-        background: url("http://www.fivespotgreenliving.com/images/sprites.png") no-repeat;
-    }
-    .ie {
-        width: 50px; /* Icon width */
-        height: 50px; /* Icon height */
-        display: inline-block; /* Display icon as inline block */
-        background-position: 0 -200px; /* Icon background position in sprite */
-    }</style><style type="text/css">.broken_link, a.broken_link {
+  })();
+
+</script>
+<style type="text/css" media="screen"> .simple-social-icons ul li a, .simple-social-icons ul li a:hover { background-color: #999999 !important; border-radius: 3px; color: #666666 !important; border: 0px #ffffff solid !important; font-size: 18px; padding: 9px; }  .simple-social-icons ul li a:hover { background-color: #666666 !important; border-color: #ffffff !important; color: #666666 !important; }</style>
+<script type="text/javascript">var essb_settings = {"ajax_url":"http:\/\/www.fivespotgreenliving.com\/wp-admin\/admin-ajax.php","essb3_nonce":"baf94ce664","essb3_plugin_url":"http:\/\/www.fivespotgreenliving.com\/wp-content\/plugins\/easy-social-share-buttons3","essb3_facebook_total":true,"essb3_admin_ajax":false,"essb3_internal_counter":false,"essb3_stats":true,"essb3_ga":false,"essb3_ga_mode":"simple","essb3_counter_button_min":0,"essb3_counter_total_min":0,"blog_url":"http:\/\/www.fivespotgreenliving.com\/","ajax_type":"wp","essb3_postfloat_stay":false,"essb3_no_counter_mailprint":false,"essb3_single_ajax":false,"twitter_counter":"self","post_id":11031};</script><style type="text/css">.broken_link, a.broken_link {
 	text-decoration: line-through;
-}</style><style type="text/css" id="custom-background-css">body.custom-background { background-color: #ffffff; }</style></head><body class="page page-id-11031 page-template-default custom-background header-image sidebar-content-sidebaralt" itemscope="itemscope" itemtype="http://schema.org/WebPage"><div class="site-container"><header class="site-header" role="banner" itemscope="itemscope" itemtype="http://schema.org/WPHeader"><div class="wrap"><div class="title-area"><p class="site-title" itemprop="headline"><a href="http://www.fivespotgreenliving.com/" title=""><img src="http://www.fivespotgreenliving.com/wp-content/themes/lifestyle-pro/images/FiveSpot-logo-tagline-2015.jpg" title="" alt=""></a></p><p class="site-description" itemprop="description">Healthy Recipes, Healthy Meal Plans and Natural Living for Health and Wellness</p></div><aside class="widget-area header-widget-area"><section id="text-80" class="widget widget_text"><div class="widget-wrap"><div class="textwidget"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>  <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-3263440384009979" data-ad-slot="7628960944" data-ad-format="auto"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></div></section><div class="crafty-social-buttons crafty-social-link-buttons crafty-social-buttons-size-3 crafty-social-buttons-align-right crafty-social-buttons-caption-inline-block"><ul class="crafty-social-buttons-list"><li><a href="http://pinterest.com/www.pinterest.com/fivespotgrnlvng" class="crafty-social-button csb-pinterest" title="Pinterest" target="_blank"><img class="crafty-social-button-image" alt="Pinterest" width="32" height="32" src="http://www.fivespotgreenliving.com/wp-content/plugins/crafty-social-buttons/buttons/simple/pinterest.png"></a></li><li><a href="http://twitter.com/@fivespotgrnlvng" class="crafty-social-button csb-twitter" title="Twitter" target="_blank"><img class="crafty-social-button-image" alt="Twitter" width="32" height="32" src="http://www.fivespotgreenliving.com/wp-content/plugins/crafty-social-buttons/buttons/simple/twitter.png"></a></li><li><a href="http://www.facebook.com/www.facebook.com/fivespotgreenliving" class="crafty-social-button csb-facebook" title="Facebook" target="_blank"><img class="crafty-social-button-image" alt="Facebook" width="32" height="32" src="http://www.fivespotgreenliving.com/wp-content/plugins/crafty-social-buttons/buttons/simple/facebook.png"></a></li><li><a href="https://plus.google.com/u/0/b/104293098532236408901/+Fivespotgreenliving/posts" class="crafty-social-button csb-google" title="Google" target="_blank"><img class="crafty-social-button-image" alt="Google" width="32" height="32" src="http://www.fivespotgreenliving.com/wp-content/plugins/crafty-social-buttons/buttons/simple/google.png"></a></li><li><a href="http://instagram.com/instagram.com/fivespotgreenliving" class="crafty-social-button csb-instagram" title="Instagram" target="_blank"><img class="crafty-social-button-image" alt="Instagram" width="32" height="32" src="http://www.fivespotgreenliving.com/wp-content/plugins/crafty-social-buttons/buttons/simple/instagram.png"></a></li><li><a href="http://www.fivespotgreenliving.com/feed" class="crafty-social-button csb-rss" title="Subscribe via RSS" target="_blank"><img class="crafty-social-button-image" alt="Subscribe via RSS" width="32" height="32" src="http://www.fivespotgreenliving.com/wp-content/plugins/crafty-social-buttons/buttons/simple/rss.png"></a></li><li><a href="mailto:vicki@fivespotgreenliving.com" class="crafty-social-button csb-email" title="Email"><img class="crafty-social-button-image" alt="Email" width="32" height="32" src="http://www.fivespotgreenliving.com/wp-content/plugins/crafty-social-buttons/buttons/simple/email.png"></a></li></ul></div></aside></div></header><nav class="nav-secondary" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement"><div class="wrap"><ul id="menu-main" class="menu genesis-nav-menu menu-secondary"><li id="menu-item-13091" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-13091"><a href="http://www.fivespotgreenliving.com">home</a><ul class="sub-menu"><li id="menu-item-13092" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13092"><a href="http://www.fivespotgreenliving.com/about/">Welcome to Five Spot Green Living!</a></li><li id="menu-item-13093" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13093"><a href="http://www.fivespotgreenliving.com/ad-space/">Advertising Space</a></li><li id="menu-item-13094" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13094"><a href="http://www.fivespotgreenliving.com/contact-media-kit-2014/">Contact and Media Kit 2014</a></li><li id="menu-item-13095" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-11031 current_page_item menu-item-13095"><a href="http://www.fivespotgreenliving.com/privacy-po/">Privacy</a></li><li id="menu-item-13096" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13096"><a href="http://www.fivespotgreenliving.com/category/reviews-giveaways/">Reviews</a></li></ul></li><li id="menu-item-10689" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10689"><a title="Container Gardening" href="http://www.fivespotgreenliving.com/container-gardening/">gardening</a></li><li id="menu-item-12762" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-12762"><a title="healthy recipes" href="http://www.fivespotgreenliving.com/category/natural-foods/">healthy recipes</a><ul class="sub-menu"><li id="menu-item-12761" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12761"><a title="healthy meal plans" href="http://www.fivespotgreenliving.com/healthy-meal-plans/">Healthy Meal Plans</a></li><li id="menu-item-10270" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10270"><a title="healthy recipes index" href="http://www.fivespotgreenliving.com/healthy-recipes/">Healthy Recipes Index</a></li><li id="menu-item-13395" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13395"><a title="healthy appetizers" href="http://www.fivespotgreenliving.com/category/natural-foods/healthy-appetizers/">Healthy Appetizer Recipes</a></li><li id="menu-item-13823" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13823"><a href="http://www.fivespotgreenliving.com/category/natural-foods/healthy-salad-recipes/">Healthy Salad Recipes</a></li><li id="menu-item-12833" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12833"><a title="healthy snacks" href="http://www.fivespotgreenliving.com/healthy-snacks/">Healthy Snacks</a></li><li id="menu-item-13664" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13664"><a title="homemade bread" href="http://www.fivespotgreenliving.com/category/natural-foods/homemade-bread/">Homemade Bread Recipes</a></li><li id="menu-item-13429" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13429"><a title="Moroccan Food" href="http://www.fivespotgreenliving.com/category/natural-foods/moroccan-food/">Moroccan Food Recipes</a></li><li id="menu-item-13370" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13370"><a href="http://www.fivespotgreenliving.com/category/natural-foods/pressure-cooker-recipes/">Pressure Cooker Recipes</a></li></ul></li><li id="menu-item-5697" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-5697"><a title="healthy and wellness" href="http://www.fivespotgreenliving.com/category/natural-health-green-living-2/">health</a><ul class="sub-menu"><li id="menu-item-11614" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11614"><a href="http://www.fivespotgreenliving.com/glioblastoma-multiforme-brain-tumor-cancer/">cancer</a></li><li id="menu-item-13608" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13608"><a title="home remedies" href="http://www.fivespotgreenliving.com/category/natural-health-green-living-2/home-remedies/">home remedies</a></li><li id="menu-item-12987" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12987"><a href="http://www.fivespotgreenliving.com/essential-oils">skin care</a></li></ul></li><li id="menu-item-10631" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-10631"><a title="diy crafts" href="http://www.fivespotgreenliving.com/category/green-crafts/">diy crafts</a><ul class="sub-menu"><li id="menu-item-13450" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13450"><a title="activities for kids" href="http://www.fivespotgreenliving.com/category/green-crafts/activities-for-kids/">Activities for Kids</a></li><li id="menu-item-13517" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13517"><a title="homemade gifts" href="http://www.fivespotgreenliving.com/category/green-crafts/homemade-gifts/">Homemade Gifts</a></li></ul></li><li id="menu-item-4251" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4251"><a title="family" href="http://www.fivespotgreenliving.com/category/parenting-green-living-2/">family</a></li><li id="menu-item-4633" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4633"><a title="free printables" href="http://www.fivespotgreenliving.com/category/printables/">printables</a></li><li id="menu-item-13277" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13277"><a href="http://www.fivespotgreenliving.com/essential-oils">essential oils</a><ul class="sub-menu"><li id="menu-item-13447" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13447"><a title="essential oils" href="http://www.fivespotgreenliving.com/essential-oils/">What are Essential Oils</a></li><li id="menu-item-12604" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12604"><a href="http://www.fivespotgreenliving.com/why-young-living-5/">Why Young Living?</a></li><li id="menu-item-12606" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12606"><a href="http://www.fivespotgreenliving.com/essential-oils/never-buy-essential-oils-amazon/">Why You Should Never Buy Essential Oils on Amazon</a></li><li id="menu-item-12603" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12603"><a title="Essential Oils Premium Starter Kit" href="http://www.fivespotgreenliving.com/essential-oils-premium-starter-kit/">Essential Oils Premium Starter Kit</a></li><li id="menu-item-12607" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12607"><a href="http://www.fivespotgreenliving.com/young-living-essential-rewards-program/">Young Living Essential Rewards Program</a></li><li id="menu-item-13726" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13726"><a title="tea tree oil uses" href="http://www.fivespotgreenliving.com/tea-tree-oil-uses/">Tea Tree Oil Uses</a></li><li id="menu-item-12602" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12602"><a href="http://www.fivespotgreenliving.com/class/">Essential Oils Classes</a></li></ul></li><li id="menu-item-12986" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12986"><a href="http://www.fivespotgreenliving.com/category/coupons-and-deals/">deals &amp; giveaways</a></li><li id="menu-item-13251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13251"><a title="Graphic Web and Blog Design Services" href="http://www.fivespotgreenliving.com/graphic-and-web-design-services/">blog design</a></li></ul></div></nav><div class="site-inner"><div class="content-sidebar-wrap"><main class="content" role="main" itemprop="mainContentOfPage"><article class="post-11031 page type-page status-publish entry" itemscope="itemscope" itemtype="http://schema.org/CreativeWork"><header class="entry-header"><h1 class="entry-title" itemprop="headline">Privacy</h1> </header><div class="entry-content" itemprop="text"><input class="jpibfi" type="hidden"><div style="float:none;margin:10px 0 10px 0;text-align:center;"> <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>  <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-3263440384009979" data-ad-slot="6984026949" data-ad-format="auto"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script> </div><div class="crafty-social-buttons crafty-social-share-buttons crafty-social-buttons-size-3 crafty-social-buttons-align-center crafty-social-buttons-caption-inline-block"><ul class="crafty-social-buttons-list"><li><a href="http://twitter.com/share?url=http://www.fivespotgreenliving.com/privacy-po/&amp;text=Privacy" class="crafty-social-button csb-twitter" title="Share via Twitter" target="_blank"><img class="crafty-social-button-image" alt="Share via Twitter" width="36" height="36" src="http://www.fivespotgreenliving.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://www.fivespotgreenliving.com/wp-content/plugins/crafty-social-buttons/buttons/somacro/twitter.png"><noscript><img
-class="crafty-social-button-image" alt="Share via Twitter" width="36" height="36" src="http://www.fivespotgreenliving.com/wp-content/plugins/crafty-social-buttons/buttons/somacro/twitter.png" /></noscript><span class="crafty-social-share-count-twitter-11031 crafty-social-share-count" style="display:none;">&nbsp;</span></a></li><li><a title="Share via Pinterest" class="crafty-social-button csb-pinterest" href="javascript:void((function()%7Bvar%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','http://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)%7D)());"><img class="crafty-social-button-image" alt="Share via Pinterest" width="36" height="36" src="http://www.fivespotgreenliving.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://www.fivespotgreenliving.com/wp-content/plugins/crafty-social-buttons/buttons/somacro/pinterest.png"><noscript><img
-class="crafty-social-button-image" alt="Share via Pinterest" width="36" height="36" src="http://www.fivespotgreenliving.com/wp-content/plugins/crafty-social-buttons/buttons/somacro/pinterest.png" /></noscript><span class="crafty-social-share-count-pinterest-11031 crafty-social-share-count" style="display:none;">&nbsp;</span></a></li><li><a href="http://www.facebook.com/sharer/sharer.php?u=http://www.fivespotgreenliving.com/privacy-po/" class="crafty-social-button csb-facebook" title="Share via Facebook" target="_blank"><img class="crafty-social-button-image" alt="Share via Facebook" width="36" height="36" src="http://www.fivespotgreenliving.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://www.fivespotgreenliving.com/wp-content/plugins/crafty-social-buttons/buttons/somacro/facebook.png"><noscript><img
-class="crafty-social-button-image" alt="Share via Facebook" width="36" height="36" src="http://www.fivespotgreenliving.com/wp-content/plugins/crafty-social-buttons/buttons/somacro/facebook.png" /></noscript><span class="crafty-social-share-count-facebook-11031 crafty-social-share-count" style="display:none;">&nbsp;</span></a></li><li><a href="https://plus.google.com/share?url=http://www.fivespotgreenliving.com/privacy-po/" class="crafty-social-button csb-google" title="Share via Google" target="_blank"><img class="crafty-social-button-image" alt="Share via Google" width="36" height="36" src="http://www.fivespotgreenliving.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://www.fivespotgreenliving.com/wp-content/plugins/crafty-social-buttons/buttons/somacro/google.png"><noscript><img
-class="crafty-social-button-image" alt="Share via Google" width="36" height="36" src="http://www.fivespotgreenliving.com/wp-content/plugins/crafty-social-buttons/buttons/somacro/google.png" /></noscript><span class="crafty-social-share-count-google-11031 crafty-social-share-count" style="display:none;">&nbsp;</span></a></li><li><a href="http://www.digg.com/submit?url=http://www.fivespotgreenliving.com/privacy-po/" class="crafty-social-button csb-digg" title="Share via Digg" target="_blank"><img class="crafty-social-button-image" alt="Share via Digg" width="36" height="36" src="http://www.fivespotgreenliving.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://www.fivespotgreenliving.com/wp-content/plugins/crafty-social-buttons/buttons/somacro/digg.png"><noscript><img
-class="crafty-social-button-image" alt="Share via Digg" width="36" height="36" src="http://www.fivespotgreenliving.com/wp-content/plugins/crafty-social-buttons/buttons/somacro/digg.png" /></noscript></a></li><li><a href="http://www.stumbleupon.com/submit?url=http://www.fivespotgreenliving.com/privacy-po/&amp;title=Privacy" class="crafty-social-button csb-stumbleupon" title="Share via StumbleUpon" target="_blank"><img class="crafty-social-button-image" alt="Share via StumbleUpon" width="36" height="36" src="http://www.fivespotgreenliving.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://www.fivespotgreenliving.com/wp-content/plugins/crafty-social-buttons/buttons/somacro/stumbleupon.png"><noscript><img
-class="crafty-social-button-image" alt="Share via StumbleUpon" width="36" height="36" src="http://www.fivespotgreenliving.com/wp-content/plugins/crafty-social-buttons/buttons/somacro/stumbleupon.png" /></noscript><span class="crafty-social-share-count-stumbleupon-11031 crafty-social-share-count" style="display:none;">&nbsp;</span></a></li><li><a href="mailto:?Subject=Privacy&amp;Body=I%20thought%20you%20might%20like%20this:%20http://www.fivespotgreenliving.com/privacy-po/" class="crafty-social-button csb-email" title="Share via Email"><img class="crafty-social-button-image" alt="Share via Email" width="36" height="36" src="http://www.fivespotgreenliving.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://www.fivespotgreenliving.com/wp-content/plugins/crafty-social-buttons/buttons/somacro/email.png"><noscript><img
-class="crafty-social-button-image" alt="Share via Email" width="36" height="36" src="http://www.fivespotgreenliving.com/wp-content/plugins/crafty-social-buttons/buttons/somacro/email.png" /></noscript></a></li></ul></div><p>This privacy policy sets out how Five Spot Green Living uses and protects any information that you give while using www.fivespotgreenliving.com. ??Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.</p><p>Five Spot Green Living may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from date.</p><h3>What we collect</h3><p><b>We may collect the following information:</b></p><ul><li>contact information including email address</li><li>demographic information such as postcode, preferences and interests</li><li>other information relevant to customer surveys and/or offers</li></ul><p><b>What we do with the information we gather</b></p><p>We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:</p><ul><li>We may use the information to improve our products and services.</li><li>We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.</li><li>From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail.</li><li>We may use the information to customise the website according to your interests.</li></ul><h3>Security</h3><p>We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.</p><h3>How we use cookies</h3><p>A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.</p><p>We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.</p><p>Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.</p><p>You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.</p><h3>Advertising</h3><p>Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website, one of which is <a href="http://www.gourmetads.com" target="_blank">http://www.gourmetads.com</a>. These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.</p><h3>Links to other websites</h3><p>Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.</p><h3>Controlling your personal information</h3><p>You may choose to restrict the collection or use of your personal information in the following ways:</p><ul><li>whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes?</li><li>if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us.</li></ul><p>We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.</p><h3>Opt Out</h3><p>For information about opting out of Gourmet Ads and ad serving partners please visit <a href="http://www.gourmetads.com/about/privacy-policy" target="_blank">http://www.gourmetads.com/about/privacy-policy</a></p><p><i>If you believe that any information we are holding on you is incorrect or incomplete, please contact us.</i></p><div class="crafty-social-buttons crafty-social-share-buttons crafty-social-buttons-size-3 crafty-social-buttons-align-center crafty-social-buttons-caption-inline-block"><ul class="crafty-social-buttons-list"><li><a href="http://twitter.com/share?url=http://www.fivespotgreenliving.com/privacy-po/&amp;text=Privacy" class="crafty-social-button csb-twitter" title="Share via Twitter" target="_blank"><img class="crafty-social-button-image" alt="Share via Twitter" width="36" height="36" src="http://www.fivespotgreenliving.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://www.fivespotgreenliving.com/wp-content/plugins/crafty-social-buttons/buttons/somacro/twitter.png"><noscript><img
-class="crafty-social-button-image" alt="Share via Twitter" width="36" height="36" src="http://www.fivespotgreenliving.com/wp-content/plugins/crafty-social-buttons/buttons/somacro/twitter.png" /></noscript><span class="crafty-social-share-count-twitter-11031 crafty-social-share-count" style="display:none;">&nbsp;</span></a></li><li><a title="Share via Pinterest" class="crafty-social-button csb-pinterest" href="javascript:void((function()%7Bvar%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','http://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)%7D)());"><img class="crafty-social-button-image" alt="Share via Pinterest" width="36" height="36" src="http://www.fivespotgreenliving.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://www.fivespotgreenliving.com/wp-content/plugins/crafty-social-buttons/buttons/somacro/pinterest.png"><noscript><img
-class="crafty-social-button-image" alt="Share via Pinterest" width="36" height="36" src="http://www.fivespotgreenliving.com/wp-content/plugins/crafty-social-buttons/buttons/somacro/pinterest.png" /></noscript><span class="crafty-social-share-count-pinterest-11031 crafty-social-share-count" style="display:none;">&nbsp;</span></a></li><li><a href="http://www.facebook.com/sharer/sharer.php?u=http://www.fivespotgreenliving.com/privacy-po/" class="crafty-social-button csb-facebook" title="Share via Facebook" target="_blank"><img class="crafty-social-button-image" alt="Share via Facebook" width="36" height="36" src="http://www.fivespotgreenliving.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://www.fivespotgreenliving.com/wp-content/plugins/crafty-social-buttons/buttons/somacro/facebook.png"><noscript><img
-class="crafty-social-button-image" alt="Share via Facebook" width="36" height="36" src="http://www.fivespotgreenliving.com/wp-content/plugins/crafty-social-buttons/buttons/somacro/facebook.png" /></noscript><span class="crafty-social-share-count-facebook-11031 crafty-social-share-count" style="display:none;">&nbsp;</span></a></li><li><a href="https://plus.google.com/share?url=http://www.fivespotgreenliving.com/privacy-po/" class="crafty-social-button csb-google" title="Share via Google" target="_blank"><img class="crafty-social-button-image" alt="Share via Google" width="36" height="36" src="http://www.fivespotgreenliving.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://www.fivespotgreenliving.com/wp-content/plugins/crafty-social-buttons/buttons/somacro/google.png"><noscript><img
-class="crafty-social-button-image" alt="Share via Google" width="36" height="36" src="http://www.fivespotgreenliving.com/wp-content/plugins/crafty-social-buttons/buttons/somacro/google.png" /></noscript><span class="crafty-social-share-count-google-11031 crafty-social-share-count" style="display:none;">&nbsp;</span></a></li><li><a href="http://www.digg.com/submit?url=http://www.fivespotgreenliving.com/privacy-po/" class="crafty-social-button csb-digg" title="Share via Digg" target="_blank"><img class="crafty-social-button-image" alt="Share via Digg" width="36" height="36" src="http://www.fivespotgreenliving.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://www.fivespotgreenliving.com/wp-content/plugins/crafty-social-buttons/buttons/somacro/digg.png"><noscript><img
-class="crafty-social-button-image" alt="Share via Digg" width="36" height="36" src="http://www.fivespotgreenliving.com/wp-content/plugins/crafty-social-buttons/buttons/somacro/digg.png" /></noscript></a></li><li><a href="http://www.stumbleupon.com/submit?url=http://www.fivespotgreenliving.com/privacy-po/&amp;title=Privacy" class="crafty-social-button csb-stumbleupon" title="Share via StumbleUpon" target="_blank"><img class="crafty-social-button-image" alt="Share via StumbleUpon" width="36" height="36" src="http://www.fivespotgreenliving.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://www.fivespotgreenliving.com/wp-content/plugins/crafty-social-buttons/buttons/somacro/stumbleupon.png"><noscript><img
-class="crafty-social-button-image" alt="Share via StumbleUpon" width="36" height="36" src="http://www.fivespotgreenliving.com/wp-content/plugins/crafty-social-buttons/buttons/somacro/stumbleupon.png" /></noscript><span class="crafty-social-share-count-stumbleupon-11031 crafty-social-share-count" style="display:none;">&nbsp;</span></a></li><li><a href="mailto:?Subject=Privacy&amp;Body=I%20thought%20you%20might%20like%20this:%20http://www.fivespotgreenliving.com/privacy-po/" class="crafty-social-button csb-email" title="Share via Email"><img class="crafty-social-button-image" alt="Share via Email" width="36" height="36" src="http://www.fivespotgreenliving.com/wp-content/plugins/speed-booster-pack/inc/images/1x1.trans.gif" data-lazy-src="http://www.fivespotgreenliving.com/wp-content/plugins/crafty-social-buttons/buttons/somacro/email.png"><noscript><img
-class="crafty-social-button-image" alt="Share via Email" width="36" height="36" src="http://www.fivespotgreenliving.com/wp-content/plugins/crafty-social-buttons/buttons/somacro/email.png" /></noscript></a></li></ul></div><div style="float:none;margin:10px 0 10px 0;text-align:center;"> <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>  <ins class="adsbygoogle" style="display:inline-block;width:468px;height:15px" data-ad-client="ca-pub-3263440384009979" data-ad-slot="2236732148"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script> </div><div style="font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both"></div></div></article></main><aside class="sidebar sidebar-secondary widget-area" role="complementary" itemscope="itemscope" itemtype="http://schema.org/WPSideBar"><section id="text-66" class="widget widget_text"><div class="widget-wrap"><div class="textwidget"><img src="http://www.fivespotgreenliving.com/images/vickifinn-oils-2015-cover.jpg" width="120" height="88"><br><div width="100">Vicki Finn is a NH girl who<br>grew up swimming in lakes<br>and hiking Mt. Monadnock<br>(the greatest mountain on earth). She is passionate about all<br>things natural, healthy and herbal.</div></div></div></section> <section id="recent-posts-4" class="widget widget_recent_entries"><div class="widget-wrap"><h4 class="widget-title widgettitle">RECENT POSTS</h4><ul><li> <a href="http://www.fivespotgreenliving.com/summertime-food-on-a-stick-recipes/">Summertime Food on a Stick Recipes</a></li><li> <a href="http://www.fivespotgreenliving.com/tea-tree-oil-foot-soak/">Soothing and Exfoliating Tea Tree Oil Foot Soak</a></li><li> <a href="http://www.fivespotgreenliving.com/save-40-off-green-kid-crafts-outer-space-box/">Save 40% Off Green Kid Crafts Outer Space Box</a></li><li> <a href="http://www.fivespotgreenliving.com/healthy-recipes-santa-fe-pasta-salad/">Healthy Recipes: Santa Fe Pasta Salad</a></li><li> <a href="http://www.fivespotgreenliving.com/get-grilling-this-summer-with-delicious-veggie-burgers/">Get Grilling This Summer with Delicious Veggie Burgers!</a></li><li> <a href="http://www.fivespotgreenliving.com/bath-products-sulfate/">Are Your Bath Products Making You Sick? Why Use Sulfate Free Shampoo.</a></li><li> <a href="http://www.fivespotgreenliving.com/chocolate-cream-strawberries-dessert/">Homemade Chocolate Cream with Strawberries Dessert</a></li><li> <a href="http://www.fivespotgreenliving.com/healthy-meal-plans-under-50-volume-12/">Healthy Meal Plans Under $50 Volume 12</a></li></ul></div></section><section id="text-83" class="widget widget_text"><div class="widget-wrap"><div class="textwidget"> <script src="http://ib.adnxs.com/ttj?id=3328809&amp;size=160x600&amp;promo_sizes=120x600&amp;promo_alignment=center&amp;referrer=fivespotgreenliving.com" type="text/javascript"></script> <div style="text-align:center; width:160px; padding:5px 0;"> <a href="http://www.gourmetads.com" target="_blank" title="Food Marketing" style="text-decoration:none; color:#333;"> <img src="http://pub-images.gourmetads.com/gourmetads-logo.jpg" alt="Food Marketing" style="float:none; border:none;"> </a></div></div></div></section></aside></div><aside class="sidebar sidebar-primary widget-area" role="complementary" itemscope="itemscope" itemtype="http://schema.org/WPSideBar"><section id="text-81" class="widget widget_text"><div class="widget-wrap"><div class="textwidget"><a href="http://eepurl.com/VFAnX" target="_blank"><img align="center" src="http://www.fivespotgreenliving.com/images/blog-header-subscribe-icon.png"></a></div></div></section><section id="search-10" class="widget widget_search"><div class="widget-wrap"><form method="get" class="search-form" action="http://www.fivespotgreenliving.com/" role="search"><input type="search" name="s" placeholder="Search this website…"><input type="submit" value="Search"></form></div></section><section id="text-82" class="widget widget_text"><div class="widget-wrap"><div class="textwidget"><a href="http://www.fivespotgreenliving.com/easy-healthy-recipe-vegetarian-enchilada-casserole/"><img align="center" src="http://www.fivespotgreenliving.com/images/blog-veggie-enchilada-bake-sidebar.jpg" width="300" height="300"></a></div></div></section><section id="text-79" class="widget widget_text"><div class="widget-wrap"><div class="textwidget"><div align="center"> <script src="http://ads.blogherads.com/bh/36/361/361778/1591354/300a.js" type="text/javascript"></script> </div></div></div></section><section id="text-46" class="widget widget_text"><div class="widget-wrap"><div class="textwidget"><a href="http://www.fivespotgreenliving.com/essential-oils"><img align="center" src="http://www.fivespotgreenliving.com/images/oils-new-promo-2015-sidebar-300px.jpg" width="300" height="213"></a></div></div></section><section id="text-55" class="widget widget_text"><div class="widget-wrap"><div class="textwidget"><a href="http://www.fivespotgreenliving.com/homemade-diy-cleaning-recipes-essential-oils-event/"><img align="center" src="http://www.fivespotgreenliving.com/images/oils-DIY-cleaning-recipes-300px.jpg" width="300" height="135" alt="Natural Cleaning Recipes" border="0"></a> <br> <a href="http://www.fivespotgreenliving.com/10-homemade-cleaning-products-always-make-home/"><img align="center" width="300" height="400" src="http://www.fivespotgreenliving.com/images/blog-green-10-things-home-300px.jpg" alt="10 Products You Should Always Make at Home Instead of Buying at the Store" border="0"></a> <br> <a href="http://www.fivespotgreenliving.com/fun-summer-activities-for-kids/"><img align="center" src="http://www.fivespotgreenliving.com/images/blog-homemade-summer-fun-300px.jpg" width="300" height="423"></a></div></div></section><section id="text-75" class="widget widget_text"><div class="widget-wrap"><div class="textwidget"><script type="text/javascript" src="https://s3.amazonaws.com/cgc-badge-v2/load.min.js"></script><script type="text/javascript" src="https://s3.amazonaws.com/cgc-badge-v2/common.js"></script><script type="text/javascript" src="http://badge.clevergirlscollective.com/v2/KZ7qp537R2aSvdYW9jBfO7dwn1dV3lK6.js" width="241" height="61"></script> <br> <script src="http://ads.blogherads.com/bh/36/361/361778/1983593/influencer.js" type="text/javascript"></script></div></div></section><section id="text-60" class="widget widget_text"><div class="widget-wrap"><div class="textwidget"> <ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-3263440384009979" data-ad-slot="7057211349"></ins> <br>  <script src="http://ib.adnxs.com/ttj?id=3328797&amp;size=300x250&amp;promo_sizes=300x600&amp;promo_alignment=none&amp;referrer=fivespotgreenliving.com" type="text/javascript"></script> <div style="text-align:right; width:300px; padding:5px 0;"> <img src="http://pub-images.gourmetads.com/gourmetads-logo.jpg" alt="logo" style="float:right; border:none;"><div style="width:auto; padding:4px 5px 0 0; float:right; display:inline-block; font-family:Verdana, Geneva, sans-serif; font-size:11px; color:#333;"> <a href="http://www.gourmetads.com/" target="_blank" title="Food Advertising" style="text-decoration:none; color:#333;">Food Advertising</a> by</div></div></div></div></section></aside></div><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>  <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-3263440384009979" data-ad-slot="7878456543" data-ad-format="auto"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script><footer class="site-footer" role="contentinfo" itemscope="itemscope" itemtype="http://schema.org/WPFooter"><div class="wrap"><p>Copyright ©&nbsp;2015 · <a href="http://my.studiopress.com/themes/lifestyle/">Lifestyle Pro Theme</a> on <a href="http://www.studiopress.com/">Genesis Framework</a> · <a href="http://wordpress.org/">WordPress</a> · <a rel="nofollow" href="http://www.fivespotgreenliving.com/wp-login.php">Log in</a></p></div></footer></div>  <script>var sc_project=9347156;
-        var sc_security="13daa3c5";
-      var sc_invisible=1;
-        var scJsHost = (("https:" == document.location.protocol) ?
-        "https://secure." : "http://www.");
-    //-->
-document.write("<sc"+"ript src='" +scJsHost +"statcounter.com/counter/counter.js'></"+"script>");</script><script src="https://secure.statcounter.com/counter/counter.js"></script> <noscript><div
-class="statcounter"><a
-title="web analytics" href="http://statcounter.com/"><img
-class="statcounter" src="http://c.statcounter.com/9347156/0/13daa3c5/1/" alt="web analytics" /></a></div></noscript><script src="https://www.yummly.com/js/widget.js?wordpress"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js" defer="defer"></script>
-<script type="text/javascript">try{jQuery.noConflict();}catch(e){};</script>
-<script type="text/javascript" src="http://www.fivespotgreenliving.com/wp-includes/js/jquery/jquery-migrate.js" defer="defer"></script>
+}</style></head>
+<body class="singular page page-id-11031 page-template-default custom-header header-image header-full-width content-sidebar" itemscope="" itemtype="http://schema.org/WebPage"><div class="site-container"><section><h2 class="screen-reader-text">Skip links</h2><ul class="genesis-skip-link"><li><a href="#genesis-nav-primary" class="screen-reader-shortcut"> Skip to primary navigation</a></li><li><a href="#genesis-content" class="screen-reader-shortcut"> Skip to content</a></li><li><a href="#genesis-sidebar-primary" class="screen-reader-shortcut"> Skip to primary sidebar</a></li><li><a href="#genesis-footer-widgets" class="screen-reader-shortcut"> Skip to footer</a></li></ul></section>
+<h2 class="screen-reader-text">Main navigation</h2><nav class="nav-primary" itemscope="" itemtype="http://schema.org/SiteNavigationElement" id="genesis-nav-primary" aria-label="Main navigation"><div class="wrap"><ul id="menu-primary-navigation" class="menu genesis-nav-menu menu-primary js-superfish"><li id="menu-item-10634" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-10634"><a title="Five Spot Green Living" href="http://www.fivespotgreenliving.com" itemprop="url"><span itemprop="name">Home</span></a></li>
+<li id="menu-item-10635" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10635"><a title="About Five Spot Green Living" href="http://www.fivespotgreenliving.com/about/" itemprop="url"><span itemprop="name">About FSGL</span></a></li>
+<li id="menu-item-10636" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10636"><a title="Advertising" href="http://www.fivespotgreenliving.com/ad-space/" itemprop="url"><span itemprop="name">Advertising</span></a></li>
+<li id="menu-item-10639" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10639"><a title="Media Kit PR" href="http://www.fivespotgreenliving.com/contact-media-kit-2014/" itemprop="url"><span itemprop="name">Contact/Media Kit/PR</span></a></li>
+<li id="menu-item-11114" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-11031 current_page_item menu-item-11114"><a href="http://www.fivespotgreenliving.com/privacy-po/" itemprop="url"><span itemprop="name">Privacy</span></a></li>
+<aside class="widget-area"><h2 class="genesis-sidebar-title screen-reader-text">Nav Widget Area</h2><section id="simple-social-icons-14" class="widget simple-social-icons"><div class="widget-wrap"><ul class="alignright"><li class="social-email"><a href="mailto:vicki@fivespotcreative.com" target="_blank"></a></li><li class="social-facebook"><a href="http://www.facebook.com/fivespotgreenliving" target="_blank"></a></li><li class="social-gplus"><a href="https://plus.google.com/u/0/b/104293098532236408901/+Fivespotgreenliving/posts" target="_blank"></a></li><li class="social-instagram"><a href="http://www.instagram.com/fivespotgreenliving" target="_blank"></a></li><li class="social-pinterest"><a href="http://www.pinterest.com/fivespotgrnlvng" target="_blank"></a></li><li class="social-twitter"><a href="http://www.twitter.com/fivespotgrnlvng" target="_blank"></a></li></ul></div></section>
+</aside></ul></div></nav><header class="site-header" itemscope="" itemtype="http://schema.org/WPHeader"><div class="wrap"><div class="title-area"><h1 class="site-title" itemprop="headline"><a href="http://www.fivespotgreenliving.com/">Five Spot Green Living</a></h1><h2 class="site-description" itemprop="description">Live Simply. Naturally.</h2></div></div></header><nav class="nav-secondary" itemscope="" itemtype="http://schema.org/SiteNavigationElement"><div class="wrap"><ul id="menu-secondary-navigation" class="menu genesis-nav-menu menu-secondary js-superfish"><li id="menu-item-9113" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9113"><a href="http://www.fivespotgreenliving.com/category/green-living-2/" itemprop="url"><span itemprop="name">Green Living</span></a></li>
+<li id="menu-item-9114" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9114"><a href="http://www.fivespotgreenliving.com/category/parenting-green-living-2/" itemprop="url"><span itemprop="name">Family</span></a></li>
+<li id="menu-item-9115" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9115"><a href="http://www.fivespotgreenliving.com/category/natural-health-green-living-2/" itemprop="url"><span itemprop="name">Health</span></a></li>
+<li id="menu-item-9123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9123"><a href="http://www.fivespotgreenliving.com/healthy-meal-planning/" itemprop="url"><span itemprop="name">Healthy Meal Plans</span></a></li>
+<li id="menu-item-15439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15439"><a href="http://www.fivespotgreenliving.com/contact/" itemprop="url"><span itemprop="name">Contact Page</span></a></li>
+<li id="menu-item-15441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15441"><a href="http://www.fivespotgreenliving.com/columns/" itemprop="url"><span itemprop="name">Column Classes</span></a></li>
+<li id="menu-item-9118" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9118"><a href="http://www.fivespotgreenliving.com/category/green-crafts/" itemprop="url"><span itemprop="name">Crafts</span></a></li>
+</ul></div></nav><div class="site-inner"><div class="content-sidebar-wrap"><main class="content" id="genesis-content"><article class="post-11031 page type-page status-publish entry gs-1 gs-odd gs-featured-content-entry" itemscope="" itemtype="http://schema.org/CreativeWork"><header class="entry-header"><h1 class="entry-title" itemprop="headline">Privacy</h1> 
+</header><div class="entry-content" itemprop="text"><p>This privacy policy sets out how Five Spot Green Living uses and protects any information that you give while using www.fivespotgreenliving.com. ??Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.</p>
+<p>Five Spot Green Living may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from date.</p>
+<h3>What we collect</h3>
+<p><b>We may collect the following information:</b></p>
+<ul>
+<li>contact information including email address</li>
+<li>demographic information such as postcode, preferences and interests</li>
+<li>other information relevant to customer surveys and/or offers</li>
+</ul>
+<p><b>What we do with the information we gather</b></p>
+<p>We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:</p>
+<ul>
+<li>We may use the information to improve our products and services. </li>
+<li>We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.</li>
+<li>From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail.</li>
+<li>We may use the information to customise the website according to your interests.</li>
+</ul>
+<h3>Security</h3>
+<p>We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. </p>
+<h3>How we use cookies</h3>
+<p>A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. </p>
+<p>We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. </p>
+<p>Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. </p>
+<p>You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.</p>
+<h3>Advertising</h3>
+<p>Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website, one of which is <a href="http://www.gourmetads.com" target="_blank">http://www.gourmetads.com</a>. These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.</p>
+<h3>Links to other websites</h3>
+<p>Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.</p>
+<h3>Controlling your personal information</h3>
+<p>You may choose to restrict the collection or use of your personal information in the following ways:</p>
+<ul>
+<li>whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes?</li>
+<li>if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us.</li>
+</ul>
+<p>We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.</p>
+<h3>Opt Out</h3>
+<p>For information about opting out of Gourmet Ads and ad serving partners please visit <a href="http://www.gourmetads.com/about/privacy-policy" target="_blank">http://www.gourmetads.com/about/privacy-policy</a></p>
+<p><i>If you believe that any information we are holding on you is incorrect or incomplete, please contact us.</i></p>
+</div></article><h2 class="screen-reader-text">Reader Interactions</h2></main><aside class="sidebar sidebar-primary widget-area" role="complementary" aria-label="Primary Sidebar" itemscope="" itemtype="http://schema.org/WPSideBar" id="genesis-sidebar-primary"><h2 class="genesis-sidebar-title screen-reader-text">Primary Sidebar</h2><section id="user-profile-2" class="widget user-profile"><div class="widget-wrap"><h3 class="widgettitle widget-title">welcome!</h3>
+<p><span class="alignleft"><img alt="" src="http://0.gravatar.com/avatar/922c5d7369f34a000d6244df3f24632b?s=65&amp;d=mm&amp;r=g" srcset="http://0.gravatar.com/avatar/922c5d7369f34a000d6244df3f24632b?s=130&amp;d=mm&amp;r=g 2x" class="avatar avatar-65 photo" height="65" width="65"></span>I am a NH girl who grew up swimming in lakes and hiking Mt. Monadnock (the greatest mountain on earth). I am passionate about all things natural, healthy and herbal and I strive to educate others. Find me on <a href="https://plus.google.com/u/0/110296230320924167770/posts">Google+</a> and <a href="http://twitter.com/fivespotgrnlvng">Twitter.</a></p>
+</div></section>
+<section id="text-111" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- NEW Sidebar Ad -->
+<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-3263440384009979" data-ad-slot="1437100142"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</div></section>
+<section id="search-13" class="widget widget_search"><div class="widget-wrap"><form class="search-form" itemprop="potentialAction" itemscope="" itemtype="http://schema.org/SearchAction" method="get" action="http://www.fivespotgreenliving.com/" role="search"><meta itemprop="target" content="http://www.fivespotgreenliving.com/?s={s}"><label class="search-form-label screen-reader-text" for="searchform-573ad1e8ba24a">Search this website</label><input itemprop="query-input" type="search" name="s" id="searchform-573ad1e8ba24a" placeholder="Search this website …"><input type="submit" value=""></form></div></section>
+<section id="enews-ext-23" class="widget enews-widget"><div class="widget-wrap"><div class="enews"><p>Subscribe and Receive Free Stuff, Updates and Healthy Recipes Delivered to Your Inbox!</p>
+			<form id="subscribeenews-ext-23" action="//fivespotgreenliving.us4.list-manage.com/subscribe/post?u=4831e579ace21af790ed268d7&amp;id=68aa3e98da" method="post" target="_blank" onsubmit="if ( subbox1.value == 'First Name') { subbox1.value = ''; } if ( subbox2.value == 'Last Name') { subbox2.value = ''; }" name="enews-ext-23">
+				<label for="subbox1" class="screenread">First Name</label><input type="text" id="subbox1" class="enews-subbox" value="" placeholder="First Name" name="first name">								<label for="subbox" class="screenread">E-Mail Address</label><input type="email" value="" id="subbox" placeholder="E-Mail Address" name="e-mail address" required="required">
+								<input type="submit" value="sign me up!" id="subbutton">
+			</form>
+		</div></div></section>
+<section id="featured-content-2" class="featured-content-latest-post featuredpost widget featured-content"><div class="featured-content-latest-post featuredpost widget-wrap"><h3 class="widgettitle widget-title">latest post</h3>
+<article class="post-15568 post type-post status-publish format-standard has-post-thumbnail category-essential-oils-3 tag-essential-oils tag-homemade-deodorant tag-tea-tree-oil tag-tea-tree-uses entry gs-1 gs-odd gs-featured-content-entry" itemscope="" itemtype="http://schema.org/CreativeWork"><a href="http://www.fivespotgreenliving.com/10-amazing-tea-tree-essential-oil-uses/" title="10 Amazing Tea Tree Essential Oil Uses" class="aligncenter"><img width="360" height="237" src="http://www.fivespotgreenliving.com/wp-content/uploads/2016/05/blog-10-ways-tea-tree-wide-360x237.jpg" class="entry-image attachment-post aligncenter" alt="blog-10-ways-tea-tree-wide" itemprop="image"></a><h2 class="entry-title"><a href="http://www.fivespotgreenliving.com/10-amazing-tea-tree-essential-oil-uses/" title="10 Amazing Tea Tree Essential Oil Uses">10 Amazing Tea Tree Essential Oil Uses</a></h2></article></div></section>
+<section id="text-120" class="widget widget_text"><div class="widget-wrap"><h3 class="widgettitle widget-title">instagram</h3>
+			<div class="textwidget"><div id="sb_instagram" class="sbi sbi_fixed_height  sbi_col_2" style="width:100%; height:200px; padding-bottom: 10px; " data-id="336420857" data-num="4" data-res="auto" data-cols="2" data-options="{&quot;sortby&quot;: &quot;none&quot;, &quot;headercolor&quot;: &quot;&quot;, &quot;imagepadding&quot;: &quot;5&quot;}"><div id="sbi_images" style="padding: 5px;"><div class="sbi_loader fa-spin"></div></div><div id="sbi_load"><div class="sbi_follow_btn"><a href="http://instagram.com/" style="" target="_blank"><i class="fa fa-instagram"></i>Follow on Instagram</a></div></div></div></div>
+		</div></section>
+<section id="text-122" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><div style="text-align:center; width:300px; padding:5px 0;">
+<!-- BEGIN JS TAG - 300x600 inc 300x250  160x600  120x600 - BTF - Run of Site - middleRight < - DO NOT MODIFY -->
+<script src="http://ib.adnxs.com/ttj?id=7202037&amp;size=300x600&amp;promo_sizes=160x600,120x600,300x250&amp;promo_alignment=none" type="text/javascript"></script>
+<!-- END TAG --><div style="text-align:center; padding:5px 0; width:100%;">
+   <div style="width:auto; padding:0 5px 0 0; float:none; display:inline-block; font-family:Verdana, Geneva, sans-serif; font-size:11px; color:#333;">
+      <a href="http://www.gourmetads.com/" target="_blank" title="Food Advertising" style="text-decoration:none; color:#333;">Food Advertising</a> by
+   </div>
+   <img src="http://pub-images.gourmetads.com/gourmetads-logo.jpg" alt="logo" style="float:none; vertical-align:sub; border:none;">
+</div>
+</div></div>
+		</div></section>
+</aside></div></div><div class="footer-widgets" id="genesis-footer-widgets"><h2 class="genesis-sidebar-title screen-reader-text">Footer</h2><div class="wrap"><div class="footer-widgets-1 widget-area"><section id="text-121" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Footer AD -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-3263440384009979" data-ad-slot="7878456543" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</div></section>
+</div><div class="footer-widgets-2 widget-area"></div><div class="footer-widgets-3 widget-area"></div><div class="footer-widgets-4 widget-area"></div></div></div><footer class="site-footer" itemscope="" itemtype="http://schema.org/WPFooter"><div class="wrap">	<p>© 2015 <a href="http://prettydarncute.com/">Pretty Happy WordPress Theme</a> · By: <a href="http://prettydarncute.com/">Pretty Darn Cute Design</a></p>
+	</div></footer></div><script type="text/javascript">
+function downloadJSAtOnload() {
+var element = document.createElement("script");
+element.src = "jquery.js";
+document.body.appendChild(element);
+}
+if (window.addEventListener)
+window.addEventListener("load", downloadJSAtOnload, false);
+else if (window.attachEvent)
+window.attachEvent("onload", downloadJSAtOnload);
+else window.onload = downloadJSAtOnload;
+</script><script type="text/javascript" src="//assets.pinterest.com/js/pinit.js" async="" data-pin-hover="true" data-pin-shape="rectangle" data-pin-color="red" data-pin-lang="eng"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var cl_settings = {"name":"author","url":"url","comment":"comment","email":"email","infopanel":"on","default_on":"on","default_on_admin":"on","cl_version":"2.93.8","images":"http:\/\/www.fivespotgreenliving.com\/wp-content\/plugins\/commentluv\/images\/","api_url":"http:\/\/www.fivespotgreenliving.com\/wp-admin\/admin-ajax.php","_fetch":"c1934cf690","_info":"5945f46818","infoback":"white","infotext":"black","template_insert":"","logged_in":"","refer":"http:\/\/www.fivespotgreenliving.com\/privacy-po\/","no_url_message":"Please enter a URL and then click the CommentLuv checkbox if you want to add your last blog post","no_http_message":"Please use http:\/\/ in front of your url","no_url_logged_in_message":"You need to visit your profile in the dashboard and update your details with your site URL","no_info_message":"No info was available or an error occured"};
+var sb_instagram_js_options = {"sb_instagram_at":"336420857.1654d0c.1d36bf7c3ea64d52814393523022db29"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.fivespotgreenliving.com/wp-content/plugins/commentluv/js/commentluv.js" defer="defer"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var crafty_social_buttons_data_11031 = {"url":"http:\/\/www.fivespotgreenliving.com\/privacy-po\/","callbackUrl":"http:\/\/www.fivespotgreenliving.com\/wp-admin\/admin-ajax.php?action=share_count&_wpnonce=ce8a106909","title":"Privacy","services":["Twitter","Pinterest","Facebook","Google","StumbleUpon"],"key":"11031"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.fivespotgreenliving.com/wp-content/plugins/crafty-social-buttons/js/public.min.js" defer="defer"></script>
-<script type="text/javascript" src="http://www.fivespotgreenliving.com/wp-content/plugins/recipe-card/js/post.js" defer="defer"></script>
-<script type="text/javascript" src="http://www.fivespotgreenliving.com/wp-content/plugins/speed-booster-pack/js/sbp-lazy-load.min.js" defer="defer"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var jpibfi_options = {"imageSelector":".jpibfi_container img","disabledClasses":"nopin;wp-smiley","enabledClasses":"","descriptionOption":"1","usePostUrl":"0","minImageHeight":"200","minImageWidth":"200","siteTitle":"","buttonPosition":"0","debug":"0","containerSelector":"div","pinImageHeight":"41","pinImageWidth":"65","buttonMarginTop":"20","buttonMarginBottom":"20","buttonMarginLeft":"20","buttonMarginRight":"20","retinaFriendly":"0"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.fivespotgreenliving.com/wp-content/plugins/jquery-pin-it-button-for-images/js/script.min.js" defer="defer"></script>
-<script type="text/javascript" src="http://www.fivespotgreenliving.com/wp-content/plugins/genesis-responsive-header/js/resize-header.js" defer="defer"></script>
-<!-- We need this for debugging themes using Speed Booster Pack Plugin v2.6 -->
-<!-- Scripts to footer: enabled -->
-<!-- Defer parsing of js: enabled -->
+<script type="text/javascript" src="http://www.fivespotgreenliving.com/wp-content/plugins/instagram-feed/js/sb-instagram.js?ver=1.3.11"></script>
+<script type="text/javascript" src="http://www.fivespotgreenliving.com/wp-includes/js/hoverIntent.js?ver=1.8.1"></script>
+<script type="text/javascript" src="http://www.fivespotgreenliving.com/wp-content/themes/genesis/lib/js/menu/superfish.js?ver=1.7.5"></script>
+<script type="text/javascript" src="http://www.fivespotgreenliving.com/wp-content/themes/genesis/lib/js/menu/superfish.args.js?ver=2.2.7"></script>
+<script type="text/javascript" src="http://www.fivespotgreenliving.com/wp-content/themes/prettyhappy/js/responsive-menu.js?ver=1.0.0"></script>
+<script type="text/javascript" src="http://www.fivespotgreenliving.com/wp-content/themes/prettyhappy/js/sticky-nav.js?ver=4.5"></script>
+<script type="text/javascript" src="http://www.fivespotgreenliving.com/wp-includes/js/wp-embed.js?ver=4.5"></script>
+<style type="text/css">.essb_links_list li.essb_totalcount_item .essb_t_l_big .essb_t_nb:after, .essb_links_list li.essb_totalcount_item .essb_t_r_big .essb_t_nb:after { color: #777777;content: "shares";display: block;font-size: 11px;font-weight: normal;text-align: center;text-transform: uppercase;margin-top: -5px; } .essb_links_list li.essb_totalcount_item .essb_t_l_big, .essb_links_list li.essb_totalcount_item .essb_t_r_big { text-align: center; }.essb_displayed_sidebar .essb_links_list li.essb_totalcount_item .essb_t_l_big .essb_t_nb:after, .essb_displayed_sidebar .essb_links_list li.essb_totalcount_item .essb_t_r_big .essb_t_nb:after { margin-top: 0px; } .essb_displayed_sidebar_right .essb_links_list li.essb_totalcount_item .essb_t_l_big .essb_t_nb:after, .essb_displayed_sidebar_right .essb_links_list li.essb_totalcount_item .essb_t_r_big .essb_t_nb:after { margin-top: 0px; } .essb_totalcount_item_before, .essb_totalcount_item_after { display: block !important; }.essb_totalcount_item_before .essb_totalcount, .essb_totalcount_item_after .essb_totalcount { border: 0px !important; }.essb_counter_insidebeforename { margin-right: 5px; font-weight: bold; }.essb_width_columns_1 li { width: 100%; }.essb_width_columns_1 li a { width: 92%; }.essb_width_columns_2 li { width: 49%; }.essb_width_columns_2 li a { width: 86%; }.essb_width_columns_3 li { width: 32%; }.essb_width_columns_3 li a { width: 80%; }.essb_width_columns_4 li { width: 24%; }.essb_width_columns_4 li a { width: 70%; }.essb_width_columns_5 li { width: 19.5%; }.essb_width_columns_5 li a { width: 60%; }.essb_links li.essb_totalcount_item_before, .essb_width_columns_1 li.essb_totalcount_item_after { width: 100%; text-align: left; }.essb_network_align_center a { text-align: center; }.essb_network_align_right .essb_network_name { float: right;}</style><style type="text/css"></style><script type="text/javascript">
+					(function() {
+					var po = document.createElement('script'); po.type = 'text/javascript'; po.async=true;;
+					po.src = 'http://www.fivespotgreenliving.com/wp-content/plugins/easy-social-share-buttons3/assets/js/easy-social-share-buttons.min.js';
+					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+					})();</script><script type="text/javascript">var essb_handle_stats = function(oService, oPostID, oInstance) { var element = jQuery('.essb_'+oInstance); var instance_postion = jQuery(element).attr("data-essb-position") || ""; var instance_template = jQuery(element).attr("data-essb-template") || ""; var instance_button = jQuery(element).attr("data-essb-button-style") || ""; var instance_counters = jQuery(element).hasClass("essb_counters") ? true : false; var instance_nostats = jQuery(element).hasClass("essb_nostats") ? true : false; if (instance_nostats) { return; } var instance_mobile = false; if( (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i).test(navigator.userAgent) ) { instance_mobile = true; } if (typeof(essb_settings) != "undefined") { jQuery.post(essb_settings.ajax_url, { 'action': 'essb_stat_log', 'post_id': oPostID, 'service': oService, 'template': instance_template, 'mobile': instance_mobile, 'position': instance_postion, 'button': instance_button, 'counter': instance_counters, 'nonce': essb_settings.essb3_nonce }, function (data) { if (data) { }},'json'); } };var essb_clicked_lovethis = false; var essb_love_you_message_thanks = "Thank you for loving this."; var essb_love_you_message_loved = "You already love this today."; var essb_lovethis = function(oInstance) { if (essb_clicked_lovethis) { alert(essb_love_you_message_loved); return; } var element = jQuery('.essb_'+oInstance); if (!element.length) { return; } var instance_post_id = jQuery(element).attr("data-essb-postid") || ""; var cookie_set = essb_get_lovecookie("essb_love_"+instance_post_id); if (cookie_set) { alert(essb_love_you_message_loved); return; } if (typeof(essb_settings) != "undefined") { jQuery.post(essb_settings.ajax_url, { 'action': 'essb_love_action', 'post_id': instance_post_id, 'service': 'love', 'nonce': essb_settings.essb3_nonce }, function (data) { if (data) { alert(essb_love_you_message_thanks); }},'json'); } essb_tracking_only('', 'love', oInstance, true); }; var essb_get_lovecookie = function(name) { var value = "; " + document.cookie; var parts = value.split("; " + name + "="); if (parts.length == 2) return parts.pop().split(";").shift(); };var essb_window = function(oUrl, oService, oInstance) { var element = jQuery('.essb_'+oInstance); var instance_post_id = jQuery(element).attr("data-essb-postid") || ""; var instance_position = jQuery(element).attr("data-essb-position") || ""; var wnd; var w = 800 ; var h = 500; if (oService == "twitter") { w = 500; h= 300; } var left = (screen.width/2)-(w/2); var top = (screen.height/2)-(h/2); if (oService == "twitter") { wnd = window.open( oUrl, "essb_share_window", "height=300,width=500,resizable=1,scrollbars=yes,top="+top+",left="+left ); } else { wnd = window.open( oUrl, "essb_share_window", "height=500,width=800,resizable=1,scrollbars=yes,top="+top+",left="+left ); } if (typeof(essb_settings) != "undefined") { if (essb_settings.essb3_stats) { if (typeof(essb_handle_stats) != "undefined") { essb_handle_stats(oService, instance_post_id, oInstance); } } if (essb_settings.essb3_ga) { essb_ga_tracking(oService, oUrl, instance_position); } } essb_self_postcount(oService, instance_post_id); var pollTimer = window.setInterval(function() { if (wnd.closed !== false) { window.clearInterval(pollTimer); essb_smart_onclose_events(oService, instance_post_id); } }, 200); }; var essb_self_postcount = function(oService, oCountID) { if (typeof(essb_settings) != "undefined") { oCountID = String(oCountID); jQuery.post(essb_settings.ajax_url, { 'action': 'essb_self_postcount', 'post_id': oCountID, 'service': oService, 'nonce': essb_settings.essb3_nonce }, function (data) { if (data) { }},'json'); } }; var essb_smart_onclose_events = function(oService, oPostID) { if (typeof (essbasc_popup_show) == 'function') { essbasc_popup_show(); } if (typeof essb_acs_code == 'function') { essb_acs_code(oService, oPostID); } }; var essb_tracking_only = function(oUrl, oService, oInstance, oAfterShare) { var element = jQuery('.essb_'+oInstance); if (oUrl == "") { oUrl = document.URL; } var instance_post_id = jQuery(element).attr("data-essb-postid") || ""; var instance_position = jQuery(element).attr("data-essb-position") || ""; if (typeof(essb_settings) != "undefined") { if (essb_settings.essb3_stats) { if (typeof(essb_handle_stats) != "undefined") { essb_handle_stats(oService, instance_post_id, oInstance); } } if (essb_settings.essb3_ga) { essb_ga_tracking(oService, oUrl, instance_position); } } essb_self_postcount(oService, instance_post_id); if (oAfterShare) { essb_smart_onclose_events(oService, instance_post_id); } }; var essb_pinterest_picker = function(oInstance) { essb_tracking_only('', 'pinterest', oInstance); var e=document.createElement('script'); e.setAttribute('type','text/javascript'); e.setAttribute('charset','UTF-8'); e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e); };</script>
 
-
-</body></html>
+<script src="jquery.js"></script></body></html>
