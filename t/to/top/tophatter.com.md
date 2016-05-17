@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tophatter.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222144552id_/http%3A//tophatter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tophatter.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517124704id_/http%3A//tophatter.com/privacy) for the most accurate reproduction.*
 
 # Tophatter : Privacy Policy
 
@@ -50,11 +50,11 @@ By using Tophatter and providing us with your Personal Information, you understa
 
 **Third Party Sites and Advertising:** Tophatter may contain links to other websites. Please be aware that we are not responsible for the privacy practices or the content of such other websites. We encourage our users to read the privacy statements of each and every website they visit. This Privacy Policy applies solely to information collected by us through Tophatter and does not apply to these third-party websites. The ability to access information of third parties from Tophatter, or links to other websites or locations, is for your convenience and does not signify our endorsement of such third-parties, their products, their services, other websites, locations or their content.
 
-**Your Choices Regarding Your Personal Information:** We offer you choices regarding the collection, use, and sharing of your Personal Information. You have a right at any time to stop us from contacting you for marketing purposes. When you receive promotional communications from us, you may indicate a preference to stop receiving further promotional communications from us and you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the promotional e-mail you receive or by [contacting us](https://web.archive.org/support).
+**Your Choices Regarding Your Personal Information:** We offer you choices regarding the collection, use, and sharing of your Personal Information. You have a right at any time to stop us from contacting you for marketing purposes. When you receive promotional communications from us, you may indicate a preference to stop receiving further promotional communications from us and you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the promotional e-mail you receive or by [contacting us](https://web.archive.org/support/new).
 
 Despite your indicated email marketing preferences, we may send you administrative emails regarding Tophatter, including, for example, administrative and transactional confirmations, and notices of updates to our Privacy Policy.
 
-You have the right to request a copy of the Personal Information that we hold about you. If you would like a copy of some or all of your Personal Information, please [contact us](https://web.archive.org/support). We may charge a reasonable fee for this service. We want to make sure that your information is accurate and up-to-date. You may ask us to correct or remove information which you think is inaccurate. You may change any of your profile information by editing it in the profile settings page.
+You have the right to request a copy of the Personal Information that we hold about you. If you would like a copy of some or all of your Personal Information, please [contact us](https://web.archive.org/support/new). We may charge a reasonable fee for this service. We want to make sure that your information is accurate and up-to-date. You may ask us to correct or remove information which you think is inaccurate. You may change any of your profile information by editing it in the profile settings page.
 
 ### Feedback
 
@@ -66,6 +66,6 @@ We are committed to protecting the security of your Personal Information. We use
 
 ### Contact and Revisions
 
-If you have questions or concerns about our Privacy Policy, please [contact us](https://web.archive.org/support).
+If you have questions or concerns about our Privacy Policy, please [contact us](https://web.archive.org/support/new).
 
 This Privacy Policy is subject to occasional revision at our discretion, and if we make any substantial changes in the way we use your Personal Information, we will post an alert on this page and send an email to registered users. If you object to any such changes, you must cease using Tophatter. Continued use of Tophatter following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
