@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodguide.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910192154id_/http%3A//www.goodguide.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodguide.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517021850id_/http%3A//www.goodguide.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GoodGuide
 
