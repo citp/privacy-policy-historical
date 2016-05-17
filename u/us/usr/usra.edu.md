@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usra.edu privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112031817id_/http%3A//www.usra.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usra.edu privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517213651id_/http%3A//www.usra.edu/privacy) for the most accurate reproduction.*
 
 # USRA | Privacy Policy
 
@@ -7,7 +7,7 @@ All use of USRA's Web site is subject to the Terms of Use. Any use of the Web si
 
 ## GENERAL DISCLAIMER
 
-USRA (University Space Research Association) and its affiliated and subsidiary operations, and their respective trustees, directors, officers, and employees (hereinafter collectively referred to as USRA) do not make any express or implied warranties or guarantees including, without limitation, any warranties of merchantability or fitness for a particular purpose in regard to the accuracy, completeness or usefulness of any information, data, apparatus, product or process disclosed on or available through this site. Further, USRA shall not be liable to any user or anyone else for damages of any kind or nature including, without limitation, any consequential or indirect damages arising out of any use of, attempted use of or inability to use this site or the information contained on or available through this site.
+USRA (Universities Space Research Association) and its affiliated and subsidiary operations, and their respective trustees, directors, officers, and employees (hereinafter collectively referred to as USRA) do not make any express or implied warranties or guarantees including, without limitation, any warranties of merchantability or fitness for a particular purpose in regard to the accuracy, completeness or usefulness of any information, data, apparatus, product or process disclosed on or available through this site. Further, USRA shall not be liable to any user or anyone else for damages of any kind or nature including, without limitation, any consequential or indirect damages arising out of any use of, attempted use of or inability to use this site or the information contained on or available through this site.
 
   
 This system is monitored to assure proper operation, to verify the functioning of applicable security features, and for other business-related purposes. Anyone using this system expressly consents to such monitoring. Unauthorized attempts to modify any information stored on this system, to defeat or circumvent security features of this system or to use this system or the Information contained on or available through this system in an unlawful or inappropriate manner may result in civil liability and/or criminal prosecution.
@@ -52,8 +52,8 @@ Please note that e-mail is not secure from interception, so senders cannot expec
 
   
 USRA  
-10211 Wincopin Circle, Suite 500  
-Columbia, MD 21044
+7178 Columbia Gateway Drive  
+Columbia, MD 21046
 
 ## LINKS TO OTHER SITES
 
