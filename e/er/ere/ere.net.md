@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ere.net privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221105310id_/http%3A//www.eremedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ere.net privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517070951id_/http%3A//www.eremedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ERE Media
 
@@ -84,7 +84,7 @@ If you have any questions about our practices or this privacy policy, please con
 
 ERE Media, Inc.
 
-217 Thompson Street
+215 Thompson Street
 
 Suite 202
 
