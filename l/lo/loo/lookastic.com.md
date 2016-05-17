@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lookastic.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919011920id_/https%3A//lookastic.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookastic.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517084902id_/https%3A//lookastic.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lookastic
 
