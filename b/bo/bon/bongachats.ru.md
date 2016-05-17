@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bongachats.ru privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315012941id_/http%3A//bongachats.ru/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bongachats.ru privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517080610id_/http%3A//bongachats.ru/privacy) for the most accurate reproduction.*
 
-# Live Sex Cams: XXX Adult Sex Shows, Live Porn Chat - BongaChats - секс видеочат
+# Live Sexcams: XXX Adult Shows, Free Porn Chat - BongaChats - секс видеочат
 
-LAST REVISION: SEPTEMBER 19, 2013
+## LAST REVISION: SEPTEMBER 19, 2013
 
 PLEASE READ THIS BongaChats - секс видеочат PRIVACY POLICY ("Beronata Services PRIVACY POLICY") CAREFULLY. IT SETS FORTH THE PRACTICES OF Beronata Services, LTD ("Beronata Services") WITH RESPECT TO INFORMATION COLLECTED FROM BASIC MEMBERS, PREMIUM MEMBERS, GUESTS AND VISITORS TO bongachats.ru WITH RESPECT TO ALL SERVICES PROVIDED BY Beronata Services OR SERVICES REQUIRING A LOG-IN OR PASSWORD (THE "SERVICES"). BY VISITING THE SITE, OR COMPLETING THE REGISTRATION PROCESS AND CLICKING THE "SUBMIT" BUTTON, YOU AGREE TO BE BOUND BY ALL OF THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY.
 
@@ -10,7 +10,7 @@ Beronata Services DOES NOT KNOWINGLY COLLECT PERSONAL DATA FROM CHILDREN. IF YOU
 
 Beronata Services may change the Privacy Policy at any time by posting a revised version in place of this document. The last revision will be indicated at the top of this document and takes precedence over all previous versions. You agree to review the Privacy Policy periodically to be aware of such changes. If any change is unacceptable to you, you may terminate your membership as provided in your Subscriber Agreement. Your use, or continued use of the Services following the Effective Date of any such change to the Privacy Policy constitutes acceptance of all such changes.
 
-1\. Introduction.
+## 1\. Introduction.
 
 1.1. General.
 
@@ -20,7 +20,7 @@ The following presents important information relating to Beronata Services's Pri
 
 Individual Information is any information, data or records that relate to your Beronata Services membership or use of Beronata Services and identifies you or your individual Member account. The three types of Individual Information are; (1) "identity and billing information," including without limitation your name, street address, telephone number, billing information, and any account information associated with your screen names; (2) "navigational and transactional information," including without limitation information about which pages or products or services you access through Beronata Services; and (3) "private communications," including without limitation the contents of e-mail, or private chat room communications.
 
-2\. Member Identity and Billing Information.
+## 2\. Member Identity and Billing Information.
 
 2.1. Collection and Storage.
 
@@ -38,7 +38,7 @@ Except as set forth in Section 5 herein, our policy is not to disclose Billing I
 
 Although Beronata Services will take reasonable measures not to disclose Billing Information, we may be compelled to do so in the good faith belief that such action is reasonably necessary (a) to comply with the law; (b) to comply with legal process; (c) to enforce Beronata Services's terms and conditions; (d) to respond to claims that any content violates the rights of third parties; or (e) to protect the interests of Beronata Services or others.
 
-3\. Navigational and Transactional Information.
+## 3\. Navigational and Transactional Information.
 
 3.1. Collection.
 
@@ -52,7 +52,7 @@ Beronata Services uses Navigational Information to personalize Beronata Services
 
 Except as set forth in section 5, Beronata Services will not disclose to third parties Navigational Information (e.g., what you view or access through Beronata Services), except to comply with applicable law or valid legal process (including without limitation search warrant, court order, or providing assistance to law-enforcement authorities investigating the alleged commission of a crime).
 
-4\. Private Communications.
+## 4\. Private Communications.
 
 4.1. Collection and Storage.
 
@@ -68,10 +68,10 @@ Beronata Services treats Communications as strictly confidential. Beronata Servi
 
 Beronata Services does not access or disclose the contents of Communications (e.g., e-mail, Member-created private rooms, online communications), unless it in good faith believes that such action is necessary (1) to comply with applicable law or valid legal process (including without limitation search warrants, court orders or providing assistance to law-enforcement authorities investigating the alleged commission of a crime); (2) to protect the rights or property of Beronata Services; or (3) in emergencies when Beronata Services believes that physical safety is at risk. Beronata Services reserves the right to treat as public any private chat room whose directory or room name is published or becomes generally known or available.
 
-5\. Sale, Merger or other Corporate Transaction.
+## 5\. Sale, Merger or other Corporate Transaction.
 
 Beronata Services reserves the right to disclose any Individual Information to any person or entity in the event of a sale (of all or a portion of Beronata Services's assets), merger, reorganization, dissolution or similar event.
 
-6\. Questions.
+## 6\. Questions.
 
 If you have any questions whatsoever regarding Beronata Services's Subscriber Privacy Policy, e-mail [support@beronata.com](mailto:support@beronata.com).
