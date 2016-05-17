@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pier1.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219093838id_/http%3A//www.pier1.com/Privacy-Policy/privacy_policy%2Cdefault%2Cpg.html%3Ficid%3Dfooter-nav-privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pier1.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517072451id_/http%3A//www.pier1.com/Privacy-Policy/privacy_policy%2Cdefault%2Cpg.html%3Ficid%3Dfooter-nav-privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pier 1 Imports
 
@@ -12,7 +12,7 @@ You have arrived at a web site that is provided by Pier 1 Imports (“Pier 1 I
 
 This Privacy Policy describes what information Pier 1 Imports collects about you, why we collect it, how we use it, and under what circumstances we share it with third parties. This Privacy Policy also describes the choices you can make about how we use your information. To the extent we provide you notice on our Site or in our Stores of different or additional privacy policies or practices (e.g., at the point of our collection), those additional terms shall govern such data collection and use.
 
-In addition, please review the Site’s [Terms of Use](http://www.pier1.com/Website-Terms-Conditions/terms_and_conditions,default,pg.html), which governs your use of the Site. By using our Site, you consent to our Privacy Policy and Terms of Use.
+In addition, please review the Site’s [Terms of Use](https://www.pier1.com/Website-Terms-Conditions/terms_and_conditions,default,pg.html), which governs your use of the Site. By using our Site, you consent to our Privacy Policy and Terms of Use.
 
 ### Full Detailed Privacy Policy
 
@@ -103,7 +103,7 @@ We may use third party service providers to perform certain services, such as: (
 
     3. To Protect the Rights of Pier 1 Imports and our Users. 
 
-We may disclose your Personal Information if we believe in good faith that doing so is necessary or appropriate to: (i) protect or defend the rights, safety or property of Pier 1 Imports or third parties (including through the enforcement of this Policy, our [Terms of Use](http://www.pier1.com/Website-Terms-Conditions/terms_and_conditions,default,pg.html), and other applicable agreements and policies); or (ii) comply with legal and regulatory obligations (e.g., pursuant to law enforcement inquiries, subpoenas or court orders).
+We may disclose your Personal Information if we believe in good faith that doing so is necessary or appropriate to: (i) protect or defend the rights, safety or property of Pier 1 Imports or third parties (including through the enforcement of this Policy, our [Terms of Use](https://www.pier1.com/Website-Terms-Conditions/terms_and_conditions,default,pg.html), and other applicable agreements and policies); or (ii) comply with legal and regulatory obligations (e.g., pursuant to law enforcement inquiries, subpoenas or court orders).
 
     4. Affiliates and Business Transfer. 
 
@@ -124,7 +124,7 @@ The Site may permit you to submit ideas, photographs, videos, audio recordings, 
 
     2. Name and Likeness. 
 
-We may also publish your name, voice, likeness and other Personal Information that is part of your User Content, and we may use the content, or any portion of the content, for advertising, marketing, publicity and promotional activities. For full terms and conditions regarding User Content you submit, please review our [Terms of Use](http://www.pier1.com/Website-Terms-Conditions/terms_and_conditions,default,pg.html).
+We may also publish your name, voice, likeness and other Personal Information that is part of your User Content, and we may use the content, or any portion of the content, for advertising, marketing, publicity and promotional activities. For full terms and conditions regarding User Content you submit, please review our [Terms of Use](https://www.pier1.com/Website-Terms-Conditions/terms_and_conditions,default,pg.html).
 
   5. Interest-Based Advertising
 
