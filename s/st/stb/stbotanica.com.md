@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stbotanica.com privacy policy that was archived on 2015-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150925061604id_/http%3A//www.stbotanica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stbotanica.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517140348id_/http%3A//www.stbotanica.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | St.Botanica.com
 
@@ -39,3 +39,6 @@ Finally, we never use or share the personally identifiable information provided 
 ### **Our Commitment To Data Security**
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+
+**Write Us:-**  
+
