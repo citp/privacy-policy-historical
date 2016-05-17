@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dd4.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321123649id_/http%3A//www.dd4.com/article/23.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dd4.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517065136id_/http%3A//www.dd4.com/article/23.html) for the most accurate reproduction.*
 
 # Security & Privacy Policy - DD4.com - Global Online Shopping for Fashions, Home & Garden, Electronics, Wedding Apparel
 
