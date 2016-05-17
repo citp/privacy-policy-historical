@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dora.net privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219165854id_/http%3A//www.dora.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dora.net privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517190036id_/http%3A//www.dora.net/privacy.html) for the most accurate reproduction.*
 
 # Dora.net - Privacy Policy
 
