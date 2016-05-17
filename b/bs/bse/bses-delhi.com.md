@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bses-delhi.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116102631id_/http%3A//www.bses-delhi.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bses-delhi.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518013824id_/http%3A//www.bses-delhi.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - By Duplicate Bills Print
-
-##  Privacy 
 
 ## **Privacy Policy**
 
@@ -32,3 +30,5 @@ Note that you can change your browser settings to disable cookies if you have pr
 **Contact Information**
 
 Concerns or questions about this privacy policy can be directed to us via our Contact Form .
+
+* * *
