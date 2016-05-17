@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kfvs12.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116091915id_/http%3A//www.kfvs12.com/story/8774923/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kfvs12.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517083408id_/http%3A//www.kfvs12.com/story/8774923/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - KFVS12 News & Weather Cape Girardeau, Carbondale, Poplar Bluff
 
