@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canlinks.net privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113233225id_/http%3A//www.canlinks.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canlinks.net privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517072518id_/http%3A//www.canlinks.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Canlinks.Net
 
