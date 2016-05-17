@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arirang.co.kr privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923163155id_/http%3A//www.arirang.com/Help/Privacy_Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arirang.co.kr privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517185822id_/http%3A//www.arirang.com/Help/Privacy_Policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | The World On Arirang
 
@@ -70,7 +70,7 @@ Management Chief
 
 Management Director  
 \- Name : Lee Taek-soo  
-\- Department : Newmedia Team  
+\- Department : CS & PR Team  
 \- E-mail : [tslee@arirang.com](mailto:tslee@arirang.com)
 
   * #### 12\. Complaints on personal information related
