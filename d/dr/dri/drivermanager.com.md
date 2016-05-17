@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drivermanager.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117001518id_/http%3A//www.drivermanager.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivermanager.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517110639id_/http%3A//www.drivermanager.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Driver Manager | Manages Your Driver Updates.
 
@@ -108,7 +108,6 @@ For questions about this policy as well as product-related technical support:
 
 DRIVERMANAGER.COM  
 427 N. Tatnall St #72424  
-Wilmington, Delaware 19801-2230  
-Phone: 512.373.3518  
-Fax: 254.983.9179  
-drivermanager@driversupport.com
+Wilmington, Delaware 19801-2230
+
+support@safebytes.com
