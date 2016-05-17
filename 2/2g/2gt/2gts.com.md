@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2gts.com privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017101420id_/http%3A//2gts.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2gts.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517105132id_/http%3A//2gts.com/privacy_policy.html) for the most accurate reproduction.*
 
 # 2GTS.com Contact
 
