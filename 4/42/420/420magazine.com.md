@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 420magazine.com privacy policy that was archived on 2015-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151012234328id_/http%3A//www.420magazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 420magazine.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518015209id_/http%3A//www.420magazine.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : 420 MAGAZINE ®
+# Privacy Policy : 420 MAGAZINE ® - Medical Marijuana Publication & Social Networking
 
 Here at 420Magazine.com we value your business. This brief privacy statement discusses what information we collect about you and what we do with that information.
 
