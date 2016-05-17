@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exclusiveprivatelabelrights.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115235903id_/http%3A//exclusiveprivatelabelrights.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exclusiveprivatelabelrights.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517133233id_/http%3A//www.exclusiveprivatelabelrights.com/privacy.html) for the most accurate reproduction.*
 
 # ==exclusiveprivatelabelrights.com==
 
