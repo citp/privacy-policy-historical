@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cunet.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924015109id_/http%3A//sparkroom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cunet.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517124400id_/http%3A//sparkroom.com/privacy-policy) for the most accurate reproduction.*
 
 # Sparkroom Privacy Policy
 
@@ -134,7 +134,7 @@ California has passed legislation requiring certain disclosures be made availabl
 If you have any questions about this website Privacy Policy, the practices of the website, or your use of the website, please contact us at:
 
 **Address:  
-**461 From Road Suite 200  
+**115 West Century Road, Suite 280  
 Paramus, NJ 07652
 
 **Email:** [info@sparkroom.com](mailto:info@sparkroom.com)
