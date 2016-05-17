@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wpdaily.co privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315173114id_/http%3A//torquemag.io/privacy-policy-3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpdaily.co privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517105202id_/http%3A//torquemag.io/privacy-policy-3) for the most accurate reproduction.*
 
 # Privacy Policy | @thetorquemag
-
-## **PRIVACY POLICY**
 
 Protecting your private information is our priority. This Statement of Privacy applies to [torquemag.io](http://torquemag.io/) and Torque and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Torque include [torquemag.io](http://torquemag.io/) and Torque. The Torque website is a WordPress news site. By using the Torque website, you consent to the data practices described in this statement.
 
