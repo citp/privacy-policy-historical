@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the friv.io privacy policy that was archived on 2015-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150824095017id_/http%3A//friv.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friv.io privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517221912id_/http%3A//friv.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Friv.io Friv.io
 
