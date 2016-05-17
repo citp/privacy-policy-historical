@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymixtapez.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107203031id_/http%3A//www.mymixtapez.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymixtapez.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517044527id_/http%3A//mymixtapez.com/privacy-policy.html) for the most accurate reproduction.*
 
 # My Mixtapez - Privacy Policy
 
