@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the industryarc.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926042527id_/http%3A//industryarc.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the industryarc.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517104625id_/http%3A//industryarc.com/privacy-policy.php) for the most accurate reproduction.*
 
-# 
+# IndustryARC - Privacy Policy
 
 ### IndustryARC Policy:
 
@@ -17,6 +17,8 @@
   * The reports sold by IndustryARC are limited publications containing valuable market information provided to a select group of customers in response to orders.
   * Our customers acknowledge and agree that any report bought from IndustryARC is for their own internal use and not for general publication or disclosure to third parties.
   * Our reports or part of the reports, information contained in the report, cannot be shared or resold to any other third party.
-  * Disclosure to third parties, usage of data in a public document, article or blog by the customer can be done with prior permission taken from IndustryARC. 
+  * Disclosure to third parties, usage of data in a public document, article or blog by the customer can be done with prior permission taken from IndustryARC.
+  * If you would like to unsubscribe or update your preferences, please [click here](http://industryarc.com/unsubscribe.php)  
+
 
 
