@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acer.com.au privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207142942id_/http%3A//www.acer.com.au/ac/en/AU/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acer.com.au privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517215205id_/http%3A//www.acer.com/ac/en/AU/content/privacy) for the most accurate reproduction.*
 
 # Privacy | Acer Official Site
 
@@ -81,6 +81,46 @@ If you are a user from Taiwan, we hereby draw your attention to the following in
 
   
 
+
+**Users from Australia and New Zealand:**
+
+Australian Privacy Principles as set out in the Privacy Act, 1988, and New Zealand Privacy Principles as set out in the Privacy Act, 1993 have been adopted as part of Acer Computer Australia and Acer Computer New Zealand Pty Ltd (“Acer,” “We,” or “us”) Privacy Policy to protect and manage your personal information. 
+
+We will collect, store, use and disclose your personal information according to Acer Privacy Policy and in compliance with any Australian and New Zealand legal requirements related to privacy protection. 
+
+During any contact or engagement you have with us, you may be asked to provide your personal information in connection with commercial credits, product registrations, product/service orders, requests for information, customer complaints, marketing, newsletter or support subscriptions, job applications, event/service registrations, and/or downloading a software update. 
+
+Subject to any exceptions at law, we will not collect sensitive information about you without your consent. We retain personal information and other data only as required and permitted by relevant laws.
+
+We may use your personal information 
+
+  * To assess commercial credits; 
+  * To consider job applications; 
+  * To fulfill your requests by us or by others involved in fulfillment; 
+  * To contact you for customer satisfaction surveys, market research or in connection with certain transactions; 
+  * To develop our business relationship if you represent a Acer Business Partner or Vendor; 
+  * To help us develop, deliver and improve our products, services, content and advertising; 
+  * To update you on important notices (e.g. changes to our terms, conditions and policies); 
+  * For internal purposes (e.g. auditing, data research and market analytics);
+  * To help prevent and detect security threats, fraud or other malicious activities
+
+
+
+In order to undertake one or more of the actions above, it is likely that we may transfer your personal information to recipients overseas and you consent to such disclosure. We may disclose your personal information both within and outside Australia and New Zealand to: 
+
+  * Other Acer group companies, including the parent company;
+  * Other credit providers whether or not your account is overdue, and, if necessary, our risk insurers, debt collectors and credit reporting agencies; 
+  * Our service providers, contractors and advisers;
+  * Your authorised representatives or legal advisers; 
+  * Our professional advisers including lawyers, accountants, tax advisors and auditors;
+  * Debt collection agencies and other parties that assist with debt-recovery functions;
+  * Law enforcement bodies to assist in their functions, Courts of law or as otherwise required or authorised by law;
+  * Regulatory or government bodies for the purposes of resolving customer complaints or disputes both internally and externally to comply with any investigation by one of those bodies; 
+  * Any other person or for any other purpose that would be reasonably expected. 
+
+
+
+Any such transfer of your personal information will be in accordance with the Australian and New Zealand laws. 
 
 **Use and Disclosure of Anonymous Aggregated Information:**
 
