@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ca.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110195856id_/http%3A//www.ca.com/us/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ca.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517233830id_/http%3A//www.ca.com/us/privacy.aspx%3Fintcmp%3Dfooternav) for the most accurate reproduction.*
 
 # CA Privacy Notice - CA Technologies
-
-Last updated by CA Legal team on October 24, 2013
 
 ## Q: What is CA’s privacy position?
 
@@ -10,12 +8,29 @@ CA is committed to respecting and protecting your privacy and wants you to feel 
 
 CA may modify or update this privacy notice at any time without prior notice. You can check the “Last Updated” date above to see when the notice was last changed. Your continued use of the website constitutes your consent to the contents of this privacy notice.
 
-We have prepared this Privacy Notice to inform you of the information we gather and how it is used. This Notice applies to all CA websites that display or link to this Privacy Notice. In some cases CA may request additional information in which case you will receive separate notice and will be able to review those terms at that time. You should also note that CA maintains the same privacy practices with respect to data that is collected off-line and this notice may be relied upon with respect to those methods of data collection and use. Please see our [Core Values and Code of Conduct](https://web.archive.org/us/about-us/company-information/core-values.aspx) for more information about CA’s high standard of ethics and our commitment to the protection of your personal information.
+We have prepared this Privacy Notice to inform you of the information we gather and how it is used. This Notice applies to all CA websites that display or link to this Privacy Notice. In some cases CA may request additional information in which case you will receive separate notice and will be able to review those terms at that time. You should also note that CA maintains the same privacy practices with respect to data that is collected off-line and this notice may be relied upon with respect to those methods of data collection and use. Please see our [Core Values and Code of Conduct](http://investor.ca.com/corporate-governance-document.cfm?DocumentID=4139) for more information about CA’s high standard of ethics and our commitment to the protection of your personal information.
 
-For personal information of individuals that CA receives from the European Economic Area (EEA), CA has committed to handling such personal information in accordance with the US Department of Commerce Safe Harbor Principles for transfer of personal information outside of the EEA. CA's Safe Harbor certification can be found at <https://safeharbor.export.gov/list.aspx>
+_Data Transfers_
 
-**[We self-certify compliance with](https://safeharbor.export.gov/list.aspx)**  
-[](http://www.export.gov/safeharbor)  
+  * Binding Corporate Rules 
+
+CA, Inc. has many subsidiaries in the European Economic Area (EEA) (this is an area made up of European Union Member States and other countries in Europe who adhere to similar rules). In order for CA Technologies to do business, CA subsidiaries in the EEA need to send personal data to CA, Inc. and other subsidiaries around the world. For transfer to the US and other subsidiaries around the world we have developed a set of Binding Corporate Rules (BCRs) to ensure uniform, comprehensive data protection and privacy standards for the handling of such personal data.
+
+Click [here](http://ec.europa.eu/justice/data-protection/international-transfers/binding-corporate-rules/bcr_cooperation/index_en.htm) to see our listing on the European Commission's BCR website.
+
+
+
+  * Model Clauses 
+
+In light of the European Court of Justice decision regarding the Safe Harbor on the 6th of October, 2015, CA Technologies also uses model clauses for the transfer of personal data where CA Technologies acts as the data Processor. Click [here](https://web.archive.org/us/data-transfers.aspx) for more information
+
+
+
+  * Safe Harbor 
+
+In addition, CA Technologies continues to comply with the principles of the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.
+
+
 
 
 ## Q: What information does CA collect?
@@ -28,7 +43,7 @@ In general, you may visit this website without identifying yourself or revealing
 
 
 
-Some of the ways in which we may collect information from you are: 
+Some of the ways in which we may collect information from you are from: 
 
   * Event registrations for webcasts, seminars, conferences, etc.
   * Product support registration
@@ -38,6 +53,7 @@ Some of the ways in which we may collect information from you are:
   * Product purchases or trials
   * White paper or other downloads
   * Sweepstakes or contests
+  * Data you provide may be aggregated with data we gain from Social media tools e.g. Twitter, for more information see “How does CA use the information”.
 
 
 
@@ -50,10 +66,11 @@ The information we collect about you or your computer will be used for various r
   * respond to your requests or process any transactions you have authorized 
   * verify your information
   * send you information or contact you in relation to a CA product or service that you are using or that we believe may be of interest to you
+  * aggregate your information with data that is separately provided by you on social media and third party websites if visible to third parties
 
 
 
-When we collect information about you, such as your name or other details, it is our practice to provide you with the reason we will use it at the time you are asked for it. When we ask you to provide us with your information, you will have the option of not doing so, in which case you may still be able to access other portions of this website, although you may not be able to access certain programs or services. 
+When we collect information about you, such as your name or other details, it is our practice to provide you with the reason we will use it at the time you are asked for it. When we ask you to provide us with your information through a registration page or otherwise, you will have the option of not doing so, in which case you may still be able to access other portions of this website, although you may not be able to access certain programs or services.
 
 In certain areas of our website, we may, where appropriate, enable you to "opt out" of certain uses of your information, or elect not to receive future communications or services.
 
@@ -81,13 +98,13 @@ You are entitled to know whether we hold information about you and, if we do (su
 
 This website contains links to other websites. CA is not responsible for the privacy practices or the content of such websites- however check the links they have available and review their privacy terms to find out more.
 
-## Q: Do you use any 3rd parties to advertise?
+## Q: Does CA use any 3rd parties to advertise?
 
-CA uses pixels, transparent GIF files and other methods to help manage online advertising. The GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With this technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. Visit [DoubleClick](http://www.doubleclick.net/us/corporate/privacy) for more information, including information about how to opt out of these technologies.
+CA uses pixels, transparent GIF files and other methods to help manage online advertising. The GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With this technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. Visit [DoubleClick](https://www.doubleclickbygoogle.com/) for more information, including information about how to opt out of these technologies.
 
-## Q: What are your practices regarding cookies and/or web beacons
+## Q: What are your practices regarding cookies and/or web beacons?
 
-CA uses third party advertising companies to serve ads on our behalf across the Internet. These third party companies employ cookie and web beacon (also referred to as 1x1 pixel.gifs or action tags) technology to measure and improve the effectiveness of ads for their clients. Cookies are also used to help us track usage patterns in order to improve or manage our site, to ensure the integrity of the registration process, and to help provide personalized service and deliver content specific to your interests. A "cookie" is a small amount of data transferred to your browser and read by the Web server that placed it there. It works as a sort of identification card, recording your preferences and previously entered information. By using cookies, the information you previously provided can be retrieved on your next visit to the website so that your navigation time is reduced and your use of the website is simplified. Cookies are uniquely assigned to you and can only be read by a web server in the domain that issued the cookie. Web beacons may be used to deliver the cookie and to compile statistics about our website, such as how many people visited a particular page or clicked on certain links. While your particular use of the site will not be revealed and no personally identifying information will be collected, this anonymous information may be used for online preference marketing purposes, and CA's third party advertising companies may use the information about your visit to the website(s) in order to provide ads about goods and services of interest to you. This information can include: date/time of banner ad shown, related cookie, and the first three octets of the IP address. CA may share aggregated statistics about the use of the website with third parties.
+CA uses third party advertising companies to serve ads on our behalf across the Internet. These third party companies employ cookie and web beacon (also referred to as 1x1 pixel.gifs or action tags) technology to measure and improve the effectiveness of ads for their clients. Cookies are also used to help us track usage patterns in order to improve or manage our site, to ensure the integrity of the registration process, and to help provide personalized service and deliver content specific to your interests. A "cookie" is a small amount of data transferred to your browser and read by the Web server that placed it there. It works as a sort of identification card, recording your preferences and previously entered information. By using cookies, the information you previously provided can be retrieved on your next visit to the website so that your navigation time is reduced and your use of the website is simplified. Cookies are uniquely assigned to you and can only be read by a web server in the domain that issued the cookie. Web beacons may be used to deliver the cookie and to compile statistics about our website, such as how many people visited a particular page or clicked on certain links. While your particular use of the site will not be revealed and no personally identifying information will be collected, this anonymous information may be used for online preference marketing purposes, and CA's third party advertising companies may use the information about your visit to the website(s) in order to provide ads about goods and services of interest to you. This information can include: date/time of banner ad shown, related cookie, and the first three octets of the IP address. CA may share aggregated statistics about the use of the website with third parties. CA Technologies does not currently respond to the browser DNT signals on its own websites or online services, or on third-party websites or online services where CA Technologies provides advertisements, content or is otherwise able to collect information.  
 
 You can set your browser to decline cookies if you prefer. If you do so, you may not be able to get the benefit of some of the features of this website or other websites that you visit.
 
@@ -99,4 +116,4 @@ Portions of this website make chat rooms, forums, blogs, message boards, and/or 
 
 If you have any questions, concerns, or comments about our privacy notice or practices, please contact us via email at [PrivacyHelpLine@ca.com](mailto:PrivacyHelpLine@ca.com) with the words "PRIVACY POLICY" in the subject line. All emails will be read promptly and an initial response will be provided to the sender within 5-7 business days. All issues raised will be investigated until completion, and all matters will be handled in compliance with local data protection requirements.
 
-Visit the [Canadian Privacy Policy](https://web.archive.org/ca/en/privacy/canadaprivacy.aspx) for additional information about CA Canada.
+Visit the [Canadian Privacy Policy](https://web.archive.org/us/privacy/canadaprivacy.aspx) for additional information about CA Canada.
