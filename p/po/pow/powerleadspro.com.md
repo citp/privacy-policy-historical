@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerleadspro.com privacy policy that was archived on 2015-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150902133249id_/http%3A//www.powerleadspro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerleadspro.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517215551id_/http%3A//www.powerleadspro.com/privacy) for the most accurate reproduction.*
 
 # Power Leads Pro X Privacy Policy
 
@@ -40,8 +40,8 @@ PowerLeadsPro.com reserves the right to change this policy at any time. Please c
 
 ### Governing law 
 
-This policy and the use of this Site are governed by New York law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Queens County. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us. 
+This policy and the use of this Site are governed by New York law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Suffolk County. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us. 
 
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Queens County, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so. 
+If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Suffolk County, under the rules of the American Arbitration Association. Judgement upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so. 
 
-PowerLeadsPro.com is controlled, operated and administered entirely within Nevada. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+PowerLeadsPro.com is controlled, operated and administered entirely within New York. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
