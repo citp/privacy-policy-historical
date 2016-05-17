@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the schoolinks.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907104946id_/https%3A//www.schoolinks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolinks.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517031302id_/https%3A//www.schoolinks.com/privacy) for the most accurate reproduction.*
 
 # SchooLinks - Privacy and Policy
 
-Thank you for using SchooLinks.com website (hereinafter, the "Site"). Please read our Privacy Policy carefully before submitting your personal information to our site [http://SchooLinks.com](http://schoolinks.com/). We know that providing your personal information online involves a great amount of trust from your end. At SchooLinks we take this trust very seriously, and make it a high priority to ensure the security and confidentiality of your personal information.By accessing or using the Site in any manner, including, but not limited to, visiting, browsing, or contributing content or other materials to the Site, you agree to be bound by this Agreement. Do not access or use the Site if you are unwilling or unable to be bound by our Privacy Policy.
+Thank you for using SchooLinks.com website (hereinafter, the "Site"). Please read our Privacy Policy carefully before submitting your personal information to our site [https://www.schoolinks.com](https://www.schoolinks.com/). We know that providing your personal information online involves a great amount of trust from your end. At SchooLinks we take this trust very seriously, and make it a high priority to ensure the security and confidentiality of your personal information.By accessing or using the Site in any manner, including, but not limited to, visiting, browsing, or contributing content or other materials to the Site, you agree to be bound by this Agreement. Do not access or use the Site if you are unwilling or unable to be bound by our Privacy Policy.
 
 ## INFORMATION YOU SUBMIT
 
@@ -37,7 +37,7 @@ We implement a variety of security measures to maintain the safety of your perso
 
 ## CHILDREN’S PRIVACY
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act). The Site is intended for general audiences and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information without parental consent, please contact us at info[at]SchooLinks.com. If we become aware that a child under 13 has provided us with personal information without parental consent, we take steps to remove such information and terminate the child's account.
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act). The Site is intended for general audiences and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information without parental consent, please contact us at info@schoolinks.com. If we become aware that a child under 13 has provided us with personal information without parental consent, we take steps to remove such information and terminate the child's account.
 
 ## LIABILITY DISCLAIMER
 
@@ -53,4 +53,4 @@ SchooLinks may update this Privacy Policy in the future. We will notify our memb
 
 ## CONTACT US
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at [info@schoolinks.com](mailto:info@SchooLinks.com)
+If you have any questions or suggestions regarding our privacy policy, please contact us at [info@schoolinks.com](mailto:info@schoolinks.com)
