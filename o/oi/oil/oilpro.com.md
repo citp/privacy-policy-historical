@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oilpro.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095255id_/http%3A//oilpro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oilpro.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517145007id_/http%3A//oilpro.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Oilpro
 
@@ -82,6 +82,8 @@ Subject to the foregoing, Oilpro uses your personally identifying information in
 
     * to send you certain e-mail messages from third party advertisers (you may "opt-out" of receiving these materials, as provided below). Such third-party advertisements are distributed by Oilpro on behalf of the advertiser. Oilpro does not disclose your email address to its advertisers. However, you will be interacting directly with the advertiser and will be subject to their privacy policy once you "click-through" on an advertisement.
 
+    * to generate marketing materials based on data you provide via uploading files to the Website or connecting to third party services (e.g. LinkedIn, Gmail) that transmit data directly to the Website, including, but not limited to, photos, likenesses, names, contacts, email addresses, personal descriptions, skills, work history, urls, blog posts, and other similar data;
+
     * to "pre-populate" forms that are displayed for the purpose of collecting individual data by Oilpro and/or its sponsors (in no case will pre-populating a form automatically transfer any data to an advertiser or other third party - only if you voluntarily request that such data be transferred will any such transfer take place, e.g., by clicking the "Submit" button); and
 
     * as may be necessary to support the operation of the Services, such as for billing, account maintenance, and record-keeping purposes.
@@ -101,6 +103,8 @@ In addition to the circumstances described above, Oilpro may disclose your perso
   5. All information made available to Oilpro may be made available to our contractors and consultants, and professional advisors (such as attorneys or accountants), but only to the extent necessary for them to perform services on our behalf, and only under a duty of confidentiality.
 
   6. Email to a Friend: If you choose to use our referral service to tell another person about a job, we will ask you for that person's email address. We will automatically send that person a one-time email inviting him or her to visit the site. We use this information for the sole purpose of sending this one-time email, and do not store these email addresses.
+
+  7. Connections: A key feature of the Oilpro professional network is allowing members to invite and connect with their current and former colleagues and associates. To support this functionality, you may provide the email addresses of your contacts, either by typing them in or uploading a list of contacts, which Oilpro will contact on your behalf. For your contacts who are already members of Oilpro, a connection will be initiated and the member notified via a private message and email, if the user has opted to receive such notifications via email. For your contacts who are not members of Oilpro, an invitation email will be generated and sent to the email address provided, if the user has not previously opted out of email communications from Oilpro. In either case, reminder emails may be sent to the recipient, if he or she does not opt out of receiving further connection or invite reminders. In addition, as long as your connection or invite is in a pending state (i.e. it has not been accepted or ignored by the recipient or cancelled by you, the sender), it may be aggregated or combined with other pending connections or invites to a given member or email address in order to provide a count or list of pending connections in other email communications sent to that member or email address.
 
 
   
