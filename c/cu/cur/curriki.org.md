@@ -1,113 +1,123 @@
-> *The following text is extracted and transformed from the curriki.org privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006020336id_/http%3A//www.curriki.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curriki.org privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517053841id_/http%3A//www.curriki.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Curriki
 
-Updated: September 16, 2011
+Privacy Policy
 
-[Download a PDF of the Curriki Privacy Policy](http://www.curriki.org/xwiki/bin/download/Main/PrivacyPolicy/CurrikiPrivacyPolicyv2.1.pdf "Privacy Policy")
+Effective: April 5, 2016
 
-## Information Collection & Use
+[Download a PDF of the Curriki Privacy Policy](http://cdn.curriki.org/uploads/2016/04/07142837/Curriki-Privacy-Policy.pdf)
 
-### Registration
+This policy explains what information we collect from and about you, how we use and share that information, and what choices you have with that information. This policy applies to all information that we have about you, and to all of the services provided by us, including our website at [www.curriki.org](http://www.curriki.org/) (collectively, our “ ** _Services_** ”). Please take the time to familiarize yourself with our policies, and if you have any questions please contact us at [privacy@curriki.org](mailto:privacy@curriki.org). This policy is incorporated into and is subject to our [Terms of Use](http://www.curriki.org/terms-of-service/).
 
-In order to use this Web site, you must first complete the registration form and create a user name and password. During registration you are required to give contact information (such as your email address).
+**Information Collection**
 
-Curriki is the sole owner of the contact and usage information collected on Curriki.org. Curriki collects personally identifiable information from our users at several different points on our Web site.
+_Registration_
 
-### Third Party Authentication
+In order to create a profile on our Services or submit contributions, you must first complete the registration form and create a user name and password. During your registration, you also provide information, such as your name, email address, city, state, zip code, and gender.
 
-If you decide to register through or otherwise grant access to a third party social networking or authentication service that we may make available (“Authentication Service”), such as Facebook Connect or Google, we will collect certain personal information that you have provided to the Authentication Service (such as your name, email address and other information you make available via the Authentication Service) from the account you have with the Authentication Service. The personal information collected from the Authentication Service may be used to register you for the Web site and to provide some of the features of the Web site. You may revoke Curriki’s access to your account on the Authentication Service at any time by updating the appropriate settings in the account preferences of the respective Authentication Service. You understand that certain features of the Web site may not be available to you if you choose to remove Curriki’s access to your account with the Authentication Service.
+If you sign up to receive newsletters or other communications from us or otherwise contact us, you may provide your name, email address, role or position, country, and information about your interests.
 
-### Log Files
+_Third Party Authentication_
 
-As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
+If you decide to register through or otherwise grant access to a third party social networking or authentication service that we may make available (“ ** _Authentication Service_** ”), such as Facebook Connect or Google, we will collect certain personal information that you have provided to the Authentication Service (such as your name, email address, and other information you make available via the Authentication Service) and an authentication token from the Authentication Service. The personal information collected from the Authentication Service will be used to register you on our Services and to provide some of the features of our Services. You may revoke our access to your account on the Authentication Service at any time by updating the appropriate settings in the account preferences of the respective Authentication Service. You understand that certain features of our Services may not be available to you if you choose to remove our access to your account with the Authentication Service.
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.
+_Profile and Contributions_
 
-We do not link this automatically-collected data to personally identifiable information. However, your account is associated with any and all contributions you make to the site and you are responsible for adhering to all presently published IP policies.
+You may fill out your account profile with additional information, including your bio, photograph, organization, language, and interests; links to your social media pages, websites, or blogs; and community contributions. Community contributions include posting resources to your profile or groups, posting information on forums, and providing reviews of resources other users post. We also collect information about which friends you are following, groups you have joined, and resources you have saved to your library on our Services.
 
-### Cookies
+All contributions you make on the site are linked to your user profile and user name. Any member of the site and the general public on the Internet (“the **_public_** ”) can view your profile and the information stored there (except your password) and all of your published contributions (but not your unpublished contributions). You can choose to keep your email address private, but all users and the public can see your published contributions and that your user name is associated with the contribution. While we may make available certain privacy settings for your profile, we cannot guarantee that information you provide us will not be accessible by third parties.
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use both session ID cookies and/or persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s ‘help’ file.
+_Donations_
 
-We set a persistent cookie to store your User Name and Passwords, so you don’t have to enter it more than once. If you register through, or otherwise provide Curriki with access to, an Authentication Service, we may store the authorization token provided to Curriki by the Authentication Service in order to improve your experience with the Web site. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
+You can make donations to us online through our payment vendors. When you make an online donation, we do not receive or store your payment information, but we will receive your name, mailing address, email address, and donation amount based on the form you fill out.   If you make an offline donation, we receive your name, mailing address, email address, donation amount, and payment information, but we do not store or process credit card information.
 
-If you reject cookies, you may still use our site, but your ability to use some areas of our site may be limited.
+_Log Files_
 
-This privacy statement covers the use of cookies by Curriki only.
+As is true of most websites, we gather certain information automatically and store it in log files. This information includes internet protocol (“IP”) addresses, browser type, internet service provider (“ISP”), referring/exit pages, operating system, date/time stamp, and your use of our Services.
 
-### Profile
+We use this information, which does not identify individual users, to analyze trends, administer the site, track users’ movements around the site, and gather demographic information about our user base as a whole.
 
-We store information that we collect through registration and the contributions you make to the community to create a ‘profile’ of your preferences and activities, to serve the community and to enforce IP and use policies. All contributions you make on the site are linked to your user profile and login/screen name. If you have shared your profile, any member of the site can view your profile and the information stored there (except your password) and all of your published contributions (but not your unpublished contributions). Even if you choose to keep your profile private, all members can see your published contributions and that your screen name is associated with the contribution. While we may make available certain privacy settings for your profile, we cannot guarantee that any information that you provide to us in your profile will not be accessible by third parties, such as by unauthorized third party access or other access.
+We do not link this automatically-collected data to your profile information.
 
-### Uses of Information
+_Cookies_
 
-Curriki collects personal information that you disclose when you register with the site, when you grant access to an Authentication Service, and through your use of the services on the site. Curriki automatically receives and records information on our server logs from your browser, including your IP address, Curriki cookies, the contributions you make and the page you request. Curriki uses information for the following general purposes, to: monitor traffic, improve our services, enforce terms of use and IP policies, contact you, and conduct research.
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use both session ID cookies and/or persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser.
 
-### Our Commitment to Children’s Privacy
+A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies through the settings of your Internet browser. We set a persistent cookie for authentication purposes. Persistent cookies also may enable us to track and target the interests of our users to enhance the experience on our site. Third party websites linked to our Services may also use cookies and may track your activities across websites and over time. We are not responsible for cookies placed by third parties.
 
-Protecting the privacy of young children is especially important. For that reason, Curriki does not knowingly collect or maintain personally identifiable information on the Curriki Site from persons under 13 years-of-age. If Curriki learns that personally-identifiable information of persons less than 13-years-of-age has been collected on Curriki without verifiable parental consent, then Curriki will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under the age of 13 has obtained a Curriki Site account, then you may alert Curriki at [Webmaster@curriki.org](mailto:Webmaster@curriki.org) and request that Curriki delete that child’s personal information from its systems.
+If your web browser rejects cookies, you may still use our Services, but your ability to use some areas of our Services may be limited.
 
-## Communications from the Site
+**Uses of Information**
 
-### Newsletters & Site Pages
+We may use the information we collect for a variety of purposes, including to:
 
-If you wish to subscribe to our newsletter(s) or ‘Watch’ pages on our site, we will use your name and email address to send the newsletter or page to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the ‘Choice and Opt-out’ section.
+  * Provide, improve, personalize, and promote the Services;
+  * Develop new services, features, and functionality;
+  * Communicate with you, such as to respond to your comments, questions, and requests; provide customer service and support; provide you with information about the Services and donation opportunities, administrative messages, and other news or information about us;
+  * Monitor and analyze trends, usage, and activities in connection with the Services; and
+  * Investigate and prevent fraudulent transactions, unauthorized access to the Services, and other illegal activities.
 
-### Service-related Announcements
 
-We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email.
 
-Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.
+We may anonymize or aggregate data collected through the Services and use and disclose it for any purpose.
 
-### Customer Service
+**Information Sharing & Disclosure**
 
-Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request as reasonable.
+Curriki is not in the business of selling your information. The Services are intended to be public, and your profile and other information will be viewable to visitors of the Services.  Your information may also be shared as described in this privacy policy and with your permission.  However, we do not rent, sell, or share personal information about you collected in connection with your use of our Services with other people or entities for their direct marketing purposes, except with your permission.
 
-## Information Sharing & Disclosure
+_Service Providers_
 
-### Personally Identifiable Information
+We may share your personal information with companies that process payments or provide services to us in connection with developing, operating and maintaining our Services and our business, including outside vendors. We only authorize such entities to use your personal information in accordance with this privacy policy and for no other purpose than to provide us necessary services.
 
-Curriki is not in the business of selling your personal information. We do not share personally identifiable information with third parties as long as you keep your user profile private and we do not rent, sell, or share personal information about you collected in connection with your use of the Curriki Website with other people or entities, except as otherwise specified.
+_Our Commitment to Our Donors_
 
-We may share your personally identifiable information with companies that provide services to us in connection with developing, operating and maintaining the Web site and our business, including outside vendors, contractors, and agents who help us manage our business activities. We only authorize such entities to use your personal information in accordance with this Privacy Policy and for no other purpose than to provide us necessary services.
+We will not sell, share, or trade our donor lists containing personal information, including names, email addresses, mailing addresses, and phone numbers, with any other non-affiliated organization for their own purposes, unless donors have given us specific permission to do so. This limitation includes personal information received online or offline by us from or about our donors in connection with requesting and/or processing donations. We will share information with service providers that will use the donors’ information only as necessary to provide their services to us.
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct or update your profile by making the change on our member information page (‘My Curriki’) and you may delete or deactivate your profile by sending an e-mail to [Webmaster@curriki.org](mailto:Webmaster@curriki.org) or by contacting us through any method described in the Curriki Contact Page.
+_Other Users and the Public_
 
-### Links to Other Sites
+Curriki is a service dedicated to supporting learning communities. Any comments, resources, content, and information you submit to the public areas of the Services, such as the forums, can be read, collected, or used by other users and the public. We are not responsible for the information you choose to submit in these forums, share in your profile, share in the resources you contribute, or otherwise disclose to the public areas on the site.
 
-This Web site may contain links to other sites that are not owned or controlled by Curriki. Please be aware that we, Curriki, are not responsible for the privacy practices of such other sites.
+_Sharing with Social Networks_
 
-We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.
+We may allow you to share information with social networking websites, such as Facebook. We do not share your information with them unless you direct us to share it. Their use of the information will be governed by their privacy policies, and you may be able to modify your privacy settings on their websites.
 
-This privacy statement applies only to information collected by this Web site.
+_Compliance with Laws and Law Enforcement Requests; Protection of Our Rights_
 
-### Co-branded Sites
+We may disclose your information to a third party if (a) we believe that disclosure is reasonably necessary to comply with any applicable law, regulation, legal process or governmental request, (b) to enforce our agreements, policies and terms of service, (c) to protect the security or integrity of the Services, (d) to protect the property, rights, and safety of us, our users, donors, or the public from harm or illegal activities, (e) to respond to an emergency which we believe in the good faith requires us to disclose information to assist in preventing the death or serious bodily injury of any person, or (f) to investigate and defend ourselves or others against any third-party claims or allegations.
 
-Curriki works with partners to provide services to the community. One such partnership is with Elluminate who provides a hosted service application for group collaboration, application sharing, conferencing and white boarding. Curriki does not share your information with Elluminate, however, when using their application you may be asked to provide a screen name (Or Curriki may provide your Curriki screen name), and all your activities and information provided are governed by Elluminate’s agreements and policies. Please be sure to review Elluminate’s policies before using the service linked on the Curriki site.
+_Business Transitions_
 
-### Bulletin Boards and Chat Rooms
+In the event we go through a business transaction, such as a merger, acquisition by another entity, or bankruptcy, your information will likely be among the assets transferred.
 
-Curriki is a service dedicated to supporting learning communities. Curriki provides many on-line tools for users to contribute and participate in the community; in addition to comments and message boards, Curriki provides users the ability to contribute and share content, and to work collaboratively on content development projects. If you use a bulletin board or chat room on this site, or use any of the other contributory and participatory functions, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums, share in your profile, and share in the resources you contribute or otherwise disclose on the site.
+**Our Commitment to Children’s Privacy**
 
-### Security
+Protecting the privacy of young children is especially important. For that reason, we do not knowingly collect or maintain personal information from persons under 13 years of age. If we learn that personal information of persons less than 13 years of age has been collected on our Services without verifiable parental consent, then we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under the age of 13 has provided us with personal information, then you may alert us at [privacy@curriki.org](mailto:privacy@curriki.org) and request that we delete that child’s personal information from our systems.
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+**Security**
 
-If you have any questions about security on our Web site, you can send email us at [Webmaster@curriki.org](mailto:Webmaster@curriki.org).
+We provide reasonable security to protect the information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
 
-### Business Transitions
+If you have any questions about security on our Services, you can send email us at [privacy@curriki.org](mailto:privacy@curriki.org).
 
-In the event Curriki goes through a business transition, such as a merger, acquisition by another entity, your personally identifiable information will likely be among the assets transferred. You will be notified via prominent notice on our Web site for 30 days of any such change in ownership or control of your personal information.
+**Choice or Opt-outs**
 
-## Legal Disclaimer
+If your personal information changes, or if you no longer desire to use the Services, you may correct or update your profile by making the change on your profile, and you may delete or deactivate your profile by sending an email to [privacy@curriki.org](mailto:privacy@curriki.org) or by contacting us through any method described in the Curriki Contact Page.
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on Curriki.
+You can also choose which groups you would like to join, what members you would like to follow, and what mailings to receive.  When you submit a resource to be included on the site, you can choose to share it publicly or privately, with only yourself or members of the group where you upload it.  If you would like to delete a resource, you can email us at [privacy@curriki.org](mailto:privacy@curriki.org).
 
-## Choice or Opt-out
+You can opt out of email messages and newsletter subscriptions by emailing us at [privacy@curriki.org](mailto:privacy@curriki.org) or by using the unsubscribe link included within each email. Even after you opt out from receiving promotional messages from us, you will continue to receive administrative messages from us.
 
-We provide you the opportunity to ‘opt-out’ of having your profile visible to visitors and other members. You can indicate your preference in your account settings. You can also choose which pages you would like to watch and what mailings to receive. You can also delete your account or send a request, using the e-mail address listed in the account, to [webmaster@curriki.org](mailto:webmaster@curriki.org) to have your account removed from the system.
+**Links to Other Websites**
 
-## Changes in this Privacy Statement
+Our Services may contain links to other sites that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personal information.
 
-We reserve the right to amend or modify our privacy policy at any time. If we change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+**Changes in this Privacy Statement**
+
+We may change this privacy policy from time to time. If we make any changes, we will notify you by revising the “Effective” date at the top of this privacy policy. In the event that the changes materially alter your rights or obligations hereunder, we will make reasonable efforts to notify you of the change. For example, we may send a message to your email address, if we have one on file, or generate a pop-up or similar notification when you access the Services for the first time after such material changes are made. Your continued use of the Services after the revised policy has become effective indicates that you have read, understood, and agreed to the current version of our privacy policy.
+
+**How to Contact Us**
+
+We welcome your questions and comments about privacy. Please contact us at [privacy@curriki.org](mailto:privacy@curriki.org) _._
+
+Previous Privacy Policy may be viewed [here](http://cdn.curriki.org/uploads/2016/04/07164439/CurrikiPrivacyPolicyv2.1.pdf).
