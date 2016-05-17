@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crawlist.net privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116150745id_/http%3A//www.crawlist.net/p/blog-page.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crawlist.net privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517105608id_/http%3A//www.crawlist.net/p/blog-page.html) for the most accurate reproduction.*
 
 # Privacy Policy of Crawlist - Crawlist
 
