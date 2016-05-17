@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stylesight.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610022135id_/http%3A//www.wgsn.com/en/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylesight.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518014212id_/http%3A//www.wgsn.com/en/privacy-cookies-policy) for the most accurate reproduction.*
 
-# Privacy & Cookies Policy - WGSN Fashion Trend Forecasting and Analysis
+# Privacy & Cookies Policy - StyleTrial
 
 **Privacy policy**
 
@@ -95,5 +95,3 @@ The parties submit to the exclusive jurisdiction of the courts of England and Wa
 **Advisory**
 
 WGSN offers a bespoke consultancy service. By mobilising our global team of experts, drawing intelligence from our products and conducting proprietary research, we work to solve problems & create opportunities for customers with particular needs.
-
-[Learn More](https://web.archive.org/web/20150610022135id_/http://www.wgsn.com/en/services/advisory/)
