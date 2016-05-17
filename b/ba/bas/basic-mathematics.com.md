@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basic-mathematics.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008063308id_/http%3A//www.basic-mathematics.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basic-mathematics.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517073437id_/http%3A//www.basic-mathematics.com/privacy-policy.html) for the most accurate reproduction.*
 
 # www.basic-mathematics.com's Privacy Policy
 
@@ -61,4 +61,6 @@ If you do not agree to basic-mathematics.com Privacy Policy as posted here on th
 
 Your use of this site indicates acceptance of this privacy policy. 
 
-[](http://www.copyscape.com/)
+  
+[](http://www.copyscape.com/)   
+
