@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lids.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208181046id_/http%3A//www.lids.com/HelpDesk/Security/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lids.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517051338id_/http%3A//www.lids.com/HelpDesk/Security/PrivacyPolicy) for the most accurate reproduction.*
 
 # Lids.com - Help Desk - Safety, Security & Privacy
 
-Last updated: November 4, 2015
+Last updated: January 19, 2016
 
 **Our Commitment to Privacy**  
 Hat World values your time, respects your privacy, and seeks to earn your trust.
@@ -115,7 +115,7 @@ To reach us with any questions or requests about customer care or our privacy po
 **US & CANADA**  
 Hat World  
 Attn: Privacy Officer  
-7555 Woodland Dr  
-Indianapolis, IN 46278  
+10555 LIDS Way  
+Zionsville, IN 46077  
 1-888-564-4287  
 [Privacy Officer](mailto:privacyofficer@lids.com)
