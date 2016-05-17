@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mohawkcollege.ca privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909201059id_/http%3A//www.mohawkcollege.ca/Legal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mohawkcollege.ca privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517171839id_/http%3A//www.mohawkcollege.ca/Legal.html) for the most accurate reproduction.*
 
 # Privacy and Legal Statements for the Mohawk College Website
 
-Mohawk College collects and retains personal information of students, alumni and other parties, including but not limited to faculty, staff and private citizens as part of services the college provides , under the legal authority of The Ontario Colleges of Applied Arts and Technology Act, 2002, S.O. 2002, Schedule F (“OCAAT Act”). This information is used for the academic, administrative, employment-related, financial, statistical and other appropriate purposes of the College. In all circumstances, when dealing with personal information of any individual Mohawk is obligated to adhere to the provisions of the Ontario _Freedom of Information and Protection of Privacy Act_ (FIPPA)
+Mohawk College collects and retains personal information of students, alumni and other parties, including but not limited to faculty, staff and private citizens as part of services the college provides, under the legal authority of The Ontario Colleges of Applied Arts and Technology Act, 2002, S.O. 2002, Schedule F ("OCAAT Act"). This information is used for the academic, administrative, employment-related, financial, statistical and other appropriate purposes of the College. In all circumstances, when dealing with personal information of any individual Mohawk is obligated to adhere to the provisions of the Ontario _Freedom of Information and Protection of Privacy Act_ (FIPPA)
 
 The information collected by Mohawk College may be used, among other things, to admit, register and graduate students, record academic achievement, issue identity cards and, where applicable, facilitate local transit passes, to provide access to information technology systems and to operate academic, financial, athletic, recreational, residence, alumni and other College programs. Information on admissions, registration and academic achievement may also be disclosed:
 
@@ -11,9 +11,9 @@ The information collected by Mohawk College may be used, among other things, to 
 >  (c) where it is necessary and proper in the discharge of the college’s functions, or  
 >  (d) as required under law. 
 
-Without limiting the generality of the foregoing, Mohawk College is required to report student-level enrolment-related data to the Ministry of Training, Colleges and Universities under the authority of the Ontario Colleges of Applied Arts and Technology Act, 2002. The Ministry collects this data, which includes limited personal information such as Ontario Education Numbers, student characteristics and educational outcomes, in order to administer government postsecondary funding, policies and programs, including planning, evaluation and monitoring activities.
+Without limiting the generality of the foregoing, Mohawk College is required to disclose personal information such as Ontario Education Numbers, student characteristics and educational outcomes to the Minister of Training, Colleges and Universities under s. 15 of the Ministry of Training, Colleges and Universities Act, R.S.O. 1990, Chapter M. 19, as amended, under the authority of the Ontario Colleges of Applied Arts and Technology Act, 2002. The ministry collects this data for purposes such as planning, allocating and administering public funding to colleges, universities and other post-secondary educational and training institutions and to conduct research and analysis, including longitudinal studies, and statistical activities conducted by or on behalf of the ministry for purposes that relate to post-secondary education and training. Further information on the collection and use of student-level enrolment-related data can be obtained from the Ministry of Training Colleges and Universities website: <http://www.tcu.gov.on.ca/>.
 
-In addition, the federal Statistics Act provides the legal authority for Statistics Canada to obtain access to personal information held by educational institutions. The information may be used for statistical purposes only, and the confidentiality provisions of the Statistics Act prevent the information from being released in any way that would identify a student. Students who do not wish to have their information used can ask Statistics Canada to remove their identifying information from the national database. On request by a student, Statistics Canada will delete an individual's contact information (name, address, or other personal identifiers) from the PSIS database. To make such a request, please contact us:
+In addition, the federal Statistics Act provides the legal authority for Statistics Canada to obtain access to personal information held by educational institutions. The information may be used for statistical purposes only, and the confidentiality provisions of the Statistics Act prevent the information from being released in any way that would identify a student. Students who do not wish to have their information used can ask Statistics Canada to remove their identifying information from the national database. On request by a student, Statistics Canada will delete an individual's contact information (name, address, or other personal identifiers) from the PSIS database. To make such a request, please contact:
 
 Via telephone:  
 Monday to Friday  
@@ -21,22 +21,22 @@ Monday to Friday
 1-800-307-3382 or 1-613-951-7608
 
 Via mail:  
-Institutional Surveys Section   
+Institutional Surveys Section  
 Centre for Education Statistics  
 Statistics Canada, Main Building, SC 2100-K  
 Tunney's Pasture, Ottawa, Ontario, K1A 0T6
 
 The names of alumni, their School and program, award information, degrees, diplomas and certificates awarded and date of graduation is considered public information and may be published by Mohawk College. In addition, student photographs posted by the College in the form of individual pictures or class pictures may be publicly displayed.
 
-Mohawk College may also collect personal information from other relevant sources including, without limitation, the Ontario Colleges Application Service, secondary schools, colleges, universities and other institutions previously attended, including third-party services and test score providers where the items collected form a part of the application or admission process to a College program. In addition to collecting personal information for its own purposes, Mohawk College collects specific and limited personal information on behalf of the Mohawk Students' Association (MSA) and the Mohawk College Association of Continuing Education Students (MCACES). These constituent student groups use personal information for the purpose of membership, administration, elections, annual general meetings, health plans and other related matters only. Please contact the relevant Student Association office if you have questions about this collection, use and disclosure of your personal information and their respective privacy policies.
+Mohawk College may also collect personal information from other relevant sources including, without limitation, the Ontario Colleges Application Service, secondary schools, colleges, universities and other institutions previously attended, including third-party services and test score providers where the items collected form a part of the application or admission process to a College program. In addition to collecting personal information for its own purposes, Mohawk College collects specific and limited personal information on behalf of the Mohawk Students' Association (MSA). The MSA uses personal information for the purpose of membership, administration, elections, annual general meetings, health plans and other related matters only. Please contact the MSA's office if you have questions about the collection, use and disclosure of your personal information and their respective privacy policies.
 
-If you have any questions about the collection and use of this information please contact Mohawk’s Vice President, General Counsel and Public Affairs, at 905-575-2189.
+If you have any questions about the collection and use of this information, please contact Tom Ferns, General Counsel and Corporate Secretary at 905-575-1212 ext. 2189.
 
 ## Copyright Notice
 
-All materials provided on the Mohawk College website are protected by copyright and federal and provincial laws of intellectual property. No logo, image, audio or video file, or text information may be copied or retransmitted from the website without the express written permission of Mohawk College.
+All materials provided on the Mohawk College website are protected by copyright and federal and provincial laws of intellectual property. No logo, image, audio or video file, or text information may be copied or re-transmitted from the website without the express written permission of Mohawk College.
 
-To obtain such permission, please contact the [Webmaster](http://www2.mohawkcollege.ca/email.asp?name=Webmaster "Email the Webmaster").
+To obtain such permission, please contact the [Webmaster](http://www.mohawkcollege.ca/web "Email the Webmaster").
 
 ## Terms of Use
 
@@ -44,8 +44,11 @@ The contents of the Mohawk College website are provided for informational and ed
 
 Mohawk College may provide links to other websites outside of the College. Mohawk College makes no warranty or endorsement of material contained within such websites, nor does the College assume any responsibility for the linked website or its contents.
 
-To report errors or bad links, please contact the [Webmaster](http://www2.mohawkcollege.ca/email.asp?name=Webmaster "Email the Webmaster"), noting the page where you found the error.
+To report errors or bad links, please contact the [Webmaster](http://www.mohawkcollege.ca/web "Email the Webmaster"), noting the page where you found the error.
 
 ## Changes to these Statements
 
 Mohawk College reserves the right to make changes to these Privacy and Legal Statements from time to time as required without notice.
+
+  
+
