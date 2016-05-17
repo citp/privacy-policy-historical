@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the currentscience.ac.in privacy policy that was archived on 2015-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151020071036id_/http%3A//www.currentscience.ac.in/php/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currentscience.ac.in privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518015614id_/http%3A//www.currentscience.ac.in/php/policy.php) for the most accurate reproduction.*
 
 # Current Science - Privacy Policy
 
 Guest Editorial
 
-One hundred years of general relativity: summary, status and prospects  
-T. Padmanabhan
+The tale of two diseases – type-1 and type-2 diabetes mellitus  
+C. V. Krishnaswami
 
-The general theory of relativity, published by Einstein in 1915, has received innumerable accolades, of which my personal favourite is the sentence which occurs in volume...
+Sushruta, the ancient Hindu physician recognized two types of diabetes nearly 3000 years ago – one with youth onset and the other due to injudicious diet....
 
-[...read more](https://web.archive.org/web/20151020071036id_/http%3A//www.currentscience.ac.in/php/Volumes/109/07/1215.pdf)
+[...read more](https://web.archive.org/web/20160518015614id_/http%3A//www.currentscience.ac.in/php/Volumes/110/09/1599.pdf)
 
 Privacy Policy
 
