@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myessentia.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118050949id_/http%3A//www.myessentia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myessentia.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519003053id_/http%3A//www.myessentia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,10 +10,10 @@
 
 Only with your consent we may use your information for different purposes for example:
 
-  * fulfill requests for services, products, or information
-  * provide customer care services
-  * administer promotions or contests
-  * offer new products and services and
+  * \- fulfill requests for services, products, or information
+  * \- provide customer care services
+  * \- administer promotions or contests
+  * \- offer new products and services and
 
 
 
@@ -71,11 +71,11 @@ We will use reasonable efforts to ensure that your personal information is used 
 **Legal Disclosure  
 ** Essentia may disclose your information as permitted or required to by law; for example:
 
-  * to a government institution or other person or entity that has asserted its lawful authority to obtain the information;
-  * where we have reasonable grounds to believe the information could be useful in the investigation of unlawful activity;
-  * to comply with a subpoena or warrant or an order made by a court, person or entity with jurisdiction to compel the production of information;
-  * to comply with court rules regarding the production of records and information; and
-  * to our legal counsel.
+  * \- to a government institution or other person or entity that has asserted its lawful authority to obtain the information;
+  * \- where we have reasonable grounds to believe the information could be useful in the investigation of unlawful activity;
+  * \- to comply with a subpoena or warrant or an order made by a court, person or entity with jurisdiction to compel the production of information;
+  * \- to comply with court rules regarding the production of records and information; and
+  * \- to our legal counsel.
 
 
 
