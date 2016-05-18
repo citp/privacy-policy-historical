@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marketingmag.com.au privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217151352id_/https%3A//www.marketingmag.com.au/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingmag.com.au privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518130345id_/https%3A//www.marketingmag.com.au/privacy_policy) for the most accurate reproduction.*
 
-# privacy_policy - Marketing Magazine
+# privacy_policy | Marketing Magazine
 
 This is the default dialog which is useful for displaying information. The dialog window can be moved, resized and closed with the 'x' icon.
 
