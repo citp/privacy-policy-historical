@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvfcu.com privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027195332id_/http%3A//tvfcu.com/r/documents/TVFCU_Privacy_Policy_12-31-2014.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvfcu.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518200040id_/http%3A//tvfcu.com/r/documents/TVFCU_Privacy_Policy_12-31-2014.pdf) for the most accurate reproduction.*
 
 # FACTS
 
