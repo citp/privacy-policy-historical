@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 321sexchat.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115121448id_/http%3A//www.321sexchat.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 321sexchat.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518072150id_/http%3A//www.321sexchat.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - 321 Sex Chat
 
 Here at 321 Sex Chat, a privacy statement has been in made in order to demonstrate our firm commitment to your privacy. Listed below is content that discloses the information gathering and dissemination practices for this Web site: 321 Sex Chat. Please read through carefully before contacting our site or becoming a user. 
 
-321 Sex Chat is a community chat site that allows users of all types to interact with one another through our chat rooms and message forums. There are many different options to choose from in the chat room or message board of your choice. All chat rooms will be accessible via Android, mobile APPs or IOS. If you have any questions about our website, please read over our [Disclaimer](https://web.archive.org/web/20151115121448id_/http%3A//www.321sexchat.com/disclaimer.html) or [Terms of Use](https://web.archive.org/web/20151115121448id_/http%3A//www.321sexchat.com/terms-of-use.html) page before contacting an admin. If your question couldn't be answered through those pages or this one, please feel free to contact our website with any questions or concerns that you may have. 
+321 Sex Chat is a community chat site that allows users of all types to interact with one another through our chat rooms and message forums. There are many different options to choose from in the chat room or message board of your choice. All chat rooms will be accessible via Android, mobile APPs or IOS. If you have any questions about our website, please read over our [Disclaimer](https://web.archive.org/web/20160518072150id_/http%3A//www.321sexchat.com/disclaimer.html) or [Terms of Use](https://web.archive.org/web/20160518072150id_/http%3A//www.321sexchat.com/terms-of-use.html) page before contacting an admin. If your question couldn't be answered through those pages or this one, please feel free to contact our website with any questions or concerns that you may have. 
 
 ## Advertising
 
@@ -33,7 +33,7 @@ We will never gather any personal information throughout our website. Because of
 
 Our website uses forums, mobile apps and chat rooms. Because you will be connected with other users on this website, it's important to make sure that you don't share any personal information or post any private information publicly. No matter how old a user might be, if we find out that anyone has been sharing information that is meant to be kept private, we will be deleting any information that we find. This can include posting personal phone numbers, email addresses, home addresses or full names. Please take into consideration that our website does not keep chat log records. Information that has been posted in chat rooms might not be available for removal. 
 
-If a person submits personal information to our website, it was through their own choice. We will never demand that any users provide us with information that can personally identify them. When participating in a chat, keep in mind that we do not keep record of chat logs. If you encounter a person or issue that is problematic for you, please [email us](https://web.archive.org/web/20151115121448id_/http%3A//www.321sexchat.com/contact/)
+If a person submits personal information to our website, it was through their own choice. We will never demand that any users provide us with information that can personally identify them. When participating in a chat, keep in mind that we do not keep record of chat logs. If you encounter a person or issue that is problematic for you, please [email us](https://web.archive.org/web/20160518072150id_/http%3A//www.321sexchat.com/contact/)
 
 If you encounter anyone on this website that doesn't appear to be the appropriate age, is breaking any rules or disrupting chat rooms and forums, please contact an admin immediately. Please provide their screen name to us and where possible times and screen shots and we will take appropriate action against the person who is breaking the rules.
 
@@ -45,6 +45,6 @@ This website will never collect your personal information from chat logs or mess
 
 ## Contact Us
 
-We will do our best to make sure that our website can provide the best experience for our users. If any information about the [disclaimer](https://web.archive.org/web/20151115121448id_/http%3A//www.321sexchat.com/disclaimer.html), copyright, uses of this or your own personal experiences with this website have been unclear, please feel free to [contact us](https://web.archive.org/web/20151115121448id_/http%3A//www.321sexchat.com/contact/).
+We will do our best to make sure that our website can provide the best experience for our users. If any information about the [disclaimer](https://web.archive.org/web/20160518072150id_/http%3A//www.321sexchat.com/disclaimer.html), copyright, uses of this or your own personal experiences with this website have been unclear, please feel free to [contact us](https://web.archive.org/web/20160518072150id_/http%3A//www.321sexchat.com/contact/).
 
-Make sure to take the time to read and review our [Terms of Use](https://web.archive.org/web/20151115121448id_/http%3A//www.321sexchat.com/terms-of-use.html) area for any questions or concerns you may have.
+Make sure to take the time to read and review our [Terms of Use](https://web.archive.org/web/20160518072150id_/http%3A//www.321sexchat.com/terms-of-use.html) area for any questions or concerns you may have.
