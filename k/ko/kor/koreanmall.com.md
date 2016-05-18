@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the koreanmall.com privacy policy that was archived on 2015-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150808042735id_/http%3A//koreanmall.com/app/company/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koreanmall.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518181347id_/http%3A//koreanmall.com/app/company/policy) for the most accurate reproduction.*
 
-# Korean Mall
+# Korean Online Shopping Mall | Kpop, Korean Cosmetic, women clothing, men clothing, Korean bag, Korean wallet, Korean accessories, Korean shoes, Korean watch, Korean jewelry, Korean Skin Care, Korean Makeup, Korean cleanser, Korean Body Care, Korean Hair Care, Men Cosmetics, Korean Groceries, Korean Processed Foods, Korean Healthy Foods, Korean Clothing, Korean Accessories, Korean Toys, Korean Games,Korean Baby, Korean Maternity, Korean Bedding, Korean Furniture, Deco, Korean Kitchen, Korean Dining, Korean Stationery, Korean ELECTRONICS, Sports Clothing, Ball, Hiking, Camping, Fishing, Golf, Swimming, Ski, Bicycle, Inline, Cars, CD, DVD,k pop, Lowest Price, Worldwide fast shipping available By Koreanmall, 코리안몰
 
 | 
 
@@ -68,10 +68,8 @@ In the event that the Company handles the personal information of users by deleg
 
 | Persons for delegation (delegatees) | and the content of duties for delegation (delegated duties)  
 ---|---  
-[배송업체명 기입] | providing services for shipping goods, the shipping place, the arrival information, etc.  
+[Korea Post] | providing services for shipping goods, the shipping place, the arrival information, etc.  
 Koreacenter.com Co., Ltd. | Management by consignment of customer information DB system (outsourcing for data processing)  
-[본인인증서비스 제공 업체명 기입] | Verifying identification  
-[PG업체명 기입] | Payments  
   
 ###### Rights of Users and Legal Representatives and the Exercise Methods
 
@@ -101,11 +99,9 @@ By selecting options in your web browser, you may allow all cookies, pass throug
 
 The company has designated the authorized relevant department and the personal information control manager in order to protect personal information of customers and handle personal information related complaints as follows:
 
-• Department for Customer Service : [고객서비스 부서/팀명]  
-• Telephone No. : [전화번호]  
-• E-mail : [이메일 주소] | • Name of Personal Information Control Manager : [개인정보관리책임자 이름]  
-• Telephone No. : [전화번호]  
-• E-mail : [이메일 주소]  
+• Department for Customer Service : [Customer service team]  
+• E-mail : [info@koreanmall.com] | • Name of Personal Information Control Manager : [Bokhee Kim]  
+• E-mail : [info@koreanmall.com]  
 ---|---  
   
   * \- You may report to the personal information control manger or the relevant department any complaints regarding all personal information protection incurred in using the Services of the Company. 
@@ -120,5 +116,5 @@ The company has designated the authorized relevant department and the personal i
 
 ###### Duty to Notify
 
-The current personal information treatment policies shall be applicable from [적용일자]. When there is an addition, deletion, or amendment of the content, it shall be publicly announced through notifications of the homepage from at least seven (7) days before the amendment. Also the Company has made it easy to check amendments by giving the version numbers and the date of amendment to the personal information treatment policies.   
-These policies shall be implemented from [적용일자].
+The current personal information treatment policies shall be applicable from [12.01.2015]. When there is an addition, deletion, or amendment of the content, it shall be publicly announced through notifications of the homepage from at least seven (7) days before the amendment. Also the Company has made it easy to check amendments by giving the version numbers and the date of amendment to the personal information treatment policies.   
+These policies shall be implemented from [12.01.2015].
