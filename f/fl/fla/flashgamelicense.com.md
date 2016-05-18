@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flashgamelicense.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321040946id_/https%3A//www.fgl.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashgamelicense.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518144313id_/https%3A//www.fgl.com/pp.php) for the most accurate reproduction.*
 
-# Privacy Policy - FGL
+# Terms of Service - FGL
 
 **FGL**
 
@@ -8,11 +8,11 @@
 
 Effective Date: [February 28, 2014]
 
-Lucrative Gaming Inc., (“ **FGL** ”, “ **we** ” or “ **us** ”) is the owner of the site www.fgl.com, and its related sub-sites and affiliated sites (collectively, the “ **Site** ”). FGL recognizes that your privacy is important to you, and the security of your personal information is important to us, as well. We want you to be as comfortable as possible using the Site and the services provided by FGL, as defined in FGL’s Terms of Use (“ **Service** ”). Therefore, we have developed this Privacy Policy which details important information regarding the use and disclosure of user information we collect to help you make an informed decision about whether to use or continue using the Site and the Service. Users of the Site that register for the Services shall be “ **Registrants.** ”
+Lucrative Gaming Inc., (“ **FGL** ”, “ **we** ” or “ **us** ”) is the owner of the site www.fgl.com, and its related sub-sites and affiliated sites (collectively, the “ **Site** ”). FGL recognizes that your privacy is important to you, and the security of your personal information is important to us, as well. We want you to be as comfortable as possible using the Site and the services provided by FGL, as defined in FGL’s Terms of Use (“ **Service** ”). Therefore, we have developed this Privacy Policy which details important information regarding the use and disclosure of user information we may collect to help you make an informed decision about whether to use or continue using the Site and the Service. Users of the Site that register for the Services shall be “ **Registrants.** ”
 
 This Privacy Policy is incorporated into and subject to the Terms of Use. Each time that you access or use our Service you signify that you agree to be bound by the Terms of Use and this Privacy Policy. If you do not agree to the terms of this Privacy Policy, you must discontinue use of the Site and the Service.
 
-**I. INFORMATION WE COLLECT**
+**I. INFORMATION WE MAY COLLECT**
 
 **Information Provided by You.**
 
@@ -24,7 +24,7 @@ This Privacy Policy is incorporated into and subject to the Terms of Use. Each t
 
 Certain advertisements on the Service may be delivered to Registrants by our advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by FGL and its service providers and does not cover the use of cookies by any advertisers.
 
-**II. HOW WE USE YOUR INFORMATION**
+**II. HOW WE MAY USE YOUR INFORMATION**
 
 **Service Providers.** We may use third party service providers to help us operate our business and the Site or administer activities or services on our behalf. We may share your information with these third parties for those limited purposes.
 
@@ -74,7 +74,7 @@ Please note, changes may not be effective immediately. In each event, you must c
 
 **Applicable Law.** If you choose to visit the Site your visit and any dispute over privacy is subject to this Privacy Policy and our Terms of Use including limitations on damages, and governing law. By visiting the Site, you agree that the laws of the State of California, without regard to its conflict of laws principles, govern this privacy policy and any dispute of any sort that might arise between us or our affiliates.
 
-**Your California Privacy Rights.** Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties or corporate affiliates’ direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the address referenced below, addressed to: 
+**Your California Privacy Rights.** Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we may share with third parties or corporate affiliates for those third parties or corporate affiliates’ direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the address referenced below, addressed to: 
 
 Lucrative Gaming Inc.  
 Attn: California Privacy Rights.
