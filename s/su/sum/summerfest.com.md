@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the summerfest.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118183831id_/http%3A//summerfest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the summerfest.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518180005id_/http%3A//summerfest.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Summerfest, The World's Largest Music Festival
 
-Milwaukee World Festival, Inc., is a Wisconsin non-stock, nonprofit 501(c)(3) corporation with its principal place of business at 200 North Harbor Drive, Milwaukee, Wisconsin 53202 (“MWF”). MWF is the owner and producer of Summerfest ™,  _The World’s Largest Music Festival ®.  _This Privacy Policy discloses the privacy practices for the [www.summerfest.com](http://www.summerfest.com/) site and various related services (together referred to as the “site”). MWF, the provider of the site (referred to as “us” or “we” or “Summerfest”), is committed to protecting your privacy online. Please read the information below to learn the following regarding your use of this site.
+Milwaukee World Festival, Inc., is a Wisconsin non-stock, nonprofit 501(c)(3) corporation with its principal place of business at 639 E. Summerfest Place North Harbor Drive, Milwaukee, Wisconsin 53202 (“MWF”). MWF is the owner and producer of Summerfest ™,  _The World’s Largest Music Festival ®.  _This Privacy Policy discloses the privacy practices for the [www.summerfest.com](http://www.summerfest.com/) site and various related services (together referred to as the “site”). MWF, the provider of the site (referred to as “us” or “we” or “Summerfest”), is committed to protecting your privacy online. Please read the information below to learn the following regarding your use of this site.
 
 You acknowledge that this Privacy Policy is part of our Site Terms of Use, and by accessing or using our site, you agree to be bound by all of its terms and conditions. If you do not agree to these terms, please do not access or use this site.
 
@@ -43,7 +43,7 @@ We may also provide Non-Personally Identifiable Information about our customers�
 We believe you should have the ability to access and edit the Personally Identifiable Information that you have provided to us. You may change any of your Personally Identifiable Information in your account online at any time by linking to your account in accordance with instructions posted elsewhere on this site. You may also access and correct your personal information and privacy preferences by writing us at:
 
 Milwaukee World Festival, Inc.  
-200 N. Harbor Drive  
+639 E. Summerfest Place N. Harbor Drive  
 Milwaukee, WI 53202
 
 Please include your name, address, and/or email address when you contact us. We encourage you to promptly update your Personally Identifiable Information if it changes. You may ask to have the information on your account deleted or removed; however, because we keep track of past transactions, you cannot delete information associated with past transactions on this site. In addition, it may be impossible to completely delete your information without some residual information because of backups.
@@ -83,6 +83,6 @@ You should also be aware that when Personally Identifiable Information is volunt
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us by sending a letter to:
 
 Milwaukee World Festival, Inc.  
-200 N. Harbor Drive  
+639 E. Summerfest Place N. Harbor Drive  
 Milwaukee, WI. 53202  
 Attn: Frank Nicotera, General Counsel
