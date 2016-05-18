@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inlinevision.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213053306id_/http%3A//inlinevision.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inlinevision.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518165304id_/http%3A//inlinevision.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | InlineVision: Web Design / E-Commerce / PPC / Social Media | Las Vegas, NV
 
