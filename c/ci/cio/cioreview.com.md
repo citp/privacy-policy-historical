@@ -1,100 +1,67 @@
-> *The following text is extracted and transformed from the cioreview.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cioreview.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518231116id_/http%3A//www.cioreview.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# CIOReview : Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+### Privacy Policy
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+This website collects personally identifying information and data about individuals, their company, and their company's demographics (personally identifying information and data) including (i) when you provide information to us, such as when you register or sign up for any of our products such as subscriptions, e-mails, newsletters, memberships, RSS Feeds, White Papers, conferences and other communications with the Publisher, (ii) when you register for any other CIOReview products individually, your information will be known to the publisher and (iii) from time to time we may add other information that we collect from third party sources to enhance the information that you provided to the Publisher.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Below is the current policy regarding the usage of personally identifying information and data collected by the Publisher. We re-evaluate this policy on an ongoing basis based on feedback from readers. The Publisher reserves the right to change its privacy policy. However, if there are any changes to the use of personally identifying information and data that is different from that stated at the time of collection, we will notify you by posting a notice on our Website.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+The Publisher or one of our affiliated websites, or third party partners or advertisers may place online tracking technology such as a "cookie" in the browser files of a user's computer. The cookie itself does not contain any personally identifying information, except when such information has been supplied by a subscriber or registered user. In addition, cookies placed in the browser files of a user's computer by a third party advertiser, may be used by the advertiser to collect web viewing data to serve further online interest-based advertising, also known as online behavioral advertising..
 
-**Information Collection and Use**
+However, we cannot link that user ID acquired by the “cookie” with personally identifying information and data about you such as your name or e-mail address.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+Other cookies without personally identifying information and data are used to enable the Publisher to manage the banner advertisements presented or personalized information to the user.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Browsers or third-party software can allow you to block the use of cookies while you surf our site. Or, you can use third-party "anonymizer" services to mask information in your cookies, or even general data such as your IP address. In such cases you would not be able to take advantage of most of the personalization services offered by the Publisher site(s).
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+The aggregated information we collect is used for a number of purposes including the following:  
+1\. to improve the content and design of our website.  
+2\. to help advertisers, potential advertisers or marketers assess the suitability of our Website for their ad campaigns.  
+3\. as clear GIFs, also known as pixel tags, provided by our ad-serving company to help manage online advertising. These clear GIFS let our ad-serving company recognize a browser's cookie when a user visits our site. The information we collect and share through this technology is not personally identifiable (It does not include your name, address, telephone number or e-mail address).  
+4\. We may create and use aggregate customer data to understand more about the interests of our customers and may use the data to offer goods and services we believe may be of interest to our customers, on behalf of the Publisher or select organizations.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Mobile, Telephone numbers, Postal addresses, and other personally identifying information and data may be collected from our online users (and, as applicable, our print subscribers) and may be used to promote the Publisher’s products and services, and may be rented and/or licensed to select outside firms for promotional purposes. Offers for which the personally identifying information and data are rented and/or licensed for use and the users are required to target their offers carefully. With your express consent, your mobile telephone number may be used to promote other products and services of the Publisher, as well as the products and services of other related companies. Further, your mobile phone number may, with your express consent, be used to promote the products and services of carefully chosen third parties. At any time you may "opt-out" of receiving communications via your mobile phone from the Publisher and other third parties, by writing to the address provided in the “Contact Us” section or by clicking the unsubscribe link of any individual message you may receive. Because many phone companies recycle phone numbers, it is possible for users who purchase a new phone to receive messages that the previous owner had subscribed to or otherwise consented to receive.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Email addresses and Fax numbers may be collected from our online users (and, as applicable, our print subscribers) and may be used by the Publisher to collect re-qualification data, and may be used for surveys for the Publisher and third parties. Except as set forth in this policy no fax numbers are rented and/or licensed to outside firms.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Users who later decide they want to change any of their preferences may do so at [www.cioreview.com/newsletter/](http://www.cioreview.com/newsletter/)
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+(Online users who are also print subscribers should refer to the print subscriber section of this policy which contains information on how to remove your name from our promotion list).
 
-**Security**
+Our Website makes available a large library of content provided to us from third parties. When accessing content contributed by a third party, your personally identifying information may be shared with those third parties, and the information will be governed by those parties' privacy policies as well as ours. The Publisher, nor the parent company, or any of its subsidiaries or affiliates, do not bear any responsibility for any actions or policies of such third parties. If you do not wish to have your information shared with a third party, please do not access third party content on our site.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+Our Website, or portions of our Website, may be sponsored by third party sponsors. Any personally identifying information you share on our Website when registering to receive access to any offer, including but not limited to newsletter content, may be shared with such sponsors for marketing purposes.
 
-**Updating Your Information**
+Our Website users should be aware that when they disclose personally identifying information (e.g., address, company name, telephone number, demographic information, buying information, other data and E-mail address) in areas that are publicly accessible by others, that information can be collected and used by others and may result in unsolicited messages from other posters or parties. Neither the Publisher, nor its parent company or any of its subsidiaries or affiliates are responsible for any information that you provide in the above areas.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+In the event that the ownership of this Website and/or any of the Publisher's other products and/or assets are sold or transferred, all lists and data which contain personally identifying information and data including for example address, company name, telephone number, demographic information, buying information, other data and e-mail address, will be transferred to the new owner.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+We may use or disclose personally identifying information if we have a good-faith belief that the disclosure is reasonably necessary (a) to satisfy applicable law, regulation, legal process, or enforceable governmental request, (b) to enforce agreements we have with you, (c) to address fraud or security issues, or (d) to protect against harm to the rights, property, or safety of the Publisher, or our employees or customers.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+**Print Subscriber Privacy Policy**  
+The Publisher collects personally identifying information and data about individuals their company and the company's demographics (personally identifying information and data) (i) when you provide information to us, such as when you register or sign up for any of our products such as subscriptions, RSS Feeds, White Papers, emails, newsletters, memberships and other communications with the Publisher (ii) when you subscribe to one or our websites or products, your information will be known to the Publisher and (iii) from time to time we may add other information that we collect from third party sources to enhance the information that you provided to the Publisher.
 
-      iii.      You may call us at: (480) 505-8800
+Below is the current policy regarding the usage of personally identifying information and data collected by the Publisher. We re-evaluate this policy on an ongoing basis based on feedback from readers. The Publisher reserves the right to change its privacy policy. However, if there are any changes to the use of personally identifying information and data that is different from that stated at the time of collection, we will notify you by posting a notice on our Website.
 
-       iv.      You may fax us at: (480) 505-8844
+Subscribers for the Publisher's Print subscriptions are asked to complete a questionnaire with personally identifying information and demographics. The data is used in a number of ways including the following:  
+1\. to improve the content of the Publisher's print product(s)  
+2\. to notify subscribers about re-qualification and renewal  
+3\. used by us for marketing the Publisher's products and services  
+4\. used by the Publisher, its subsidiaries for research surveys  
+5\. used by Publisher for consultation with readers
 
-**Sending Emails**
+In the event that the ownership of the Publisher's print product or any of the Publisher's other products and/or assets are sold, the lists and data which contain personally identifying information and data including for example address, company name, telephone number, demographic information, buying information, other data and e-mail address, will be transferred to the new owner.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+We may use or disclose personally identifying information if we have a good-faith belief that the disclosure is reasonably necessary (a) to satisfy applicable law, regulation, legal process, or enforceable governmental request, (b) to enforce agreements we have with you, (c) to address fraud or security issues, or (d) to protect against harm to the rights, property, or safety of the Publisher, or our employees or customers.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+Print subscribers or applicants who do not want their names used in any of the above ways may write and ask to be removed from the promotion list. Requests should be sent to:
 
-**Compliance with Laws and Law Enforcement**
+CIOReview  
+44790, S Grimmer Blvd,  
+#202 Fremont, CA 94538  
+U.S.A
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+  
 
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
