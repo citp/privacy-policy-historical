@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoolwires.com privacy policy that was archived on 2015-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151020132426id_/http%3A//www.schoolwires.com/domain/90) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolwires.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518235440id_/http%3A//www.schoolwires.com/domain/90) for the most accurate reproduction.*
 
 # Privacy policy / Privacy policy
 
