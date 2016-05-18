@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thekeywordacademy.com privacy policy that was archived on 2015-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150902155016id_/http%3A//thekeywordacademy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thekeywordacademy.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518164626id_/http%3A//thekeywordacademy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Learn How To Make Money Online at The Keyword Academy
 
