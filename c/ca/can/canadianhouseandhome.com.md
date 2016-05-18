@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadianhouseandhome.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211003746id_/http%3A//houseandhome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadianhouseandhome.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518103045id_/http%3A//houseandhome.com/privacy) for the most accurate reproduction.*
 
 # Consumer Privacy Statement | House & Home
 
@@ -38,7 +38,7 @@ When you ask a question, participate in a survey or enter a contest or sweepstak
 
 ### eNewsletters
 
-You can unsubscribe from the H&H eNewsletter list at any time by clicking the unsubscribe link provided in each of our eNewsletters, by e-mailing us at[privacy@hhmedia.com](mailto:privacy@hhmedia.com), or by sending us mail to House & Home Media, 511 King Street West, Suite 120, Toronto, ON, M5V 2Z4.
+You can unsubscribe from the H&H eNewsletter list at any time by clicking the unsubscribe link provided in each of our eNewsletters, by e-mailing us at [privacy@hhmedia.com](mailto:privacy@hhmedia.com), or by sending us mail to House & Home Media, 511 King Street West, Suite 120, Toronto, ON, M5V 2Z4.
 
 ### Provide us with feedback or suggestions
 
