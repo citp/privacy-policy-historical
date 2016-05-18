@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eprocessingnetwork.com privacy policy that was archived on 2015-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150829075448id_/http%3A//eprocessingnetwork.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eprocessingnetwork.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518034954id_/http%3A//www.eprocessingnetwork.com/privacy_policy.html) for the most accurate reproduction.*
 
 # eProcessingNetwork Privacy Policy
 
