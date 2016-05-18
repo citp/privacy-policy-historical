@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the bench.co privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927043200id_/https%3A//bench.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bench.co privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518065716id_/https%3A//bench.co/privacy) for the most accurate reproduction.*
 
 # Bench — Privacy Policy
 
-##### In a nutshell
+#### In a nutshell
 
 We take privacy and data security seriously. We are committed to being fair and transparent in the collection and use of your data. The Privacy Policy below describes how we protect you and how we use your data to provide you with our services.
 
-##### Summary
+#### Summary
 
 We capture, manage and store data that may include your Personal Information as part of our normal operations and service offerings. This Privacy Policy describes why we capture, how we use and the circumstances under which we may disclose this information.
 
@@ -14,16 +14,13 @@ By visiting or registering on our site, or by using our service, regardless of t
 
 If you have concerns about this, you should contact us at [privacy@bench.co](mailto:privacy@bench.co).
 
-> **by using our site or services, you agree to the terms of this privacy policy and you expressly consent to the processing of your personal information according to this privacy policy. your personal information may be processed by us or on our behalf in the country where it was collected as well as other countries (including the united states) where laws regarding processing of personal information may be less stringent than the laws in your country.**
+>  **by using our site or services, you agree to the terms of this privacy policy and you expressly consent to the processing of your personal information according to this privacy policy. your personal information may be processed by us or on our behalf in the country where it was collected as well as other countries (including the united states) where laws regarding processing of personal information may be less stringent than the laws in your country.**
 
-  
-
-
-##### What is personal information?
+#### What is personal information?
 
 Personal Information includes your name, mailing address, phone number, e-mail address and demographic and other personally identifiable information about you as an individual. If you are a user of our site, it will also include business information that you contribute which concerns business and personal relationships between yourself and other individuals and organizations (“Bookkeeping Data”). You may provide or upload Personal Information in order to enable us to provide you with our services. We may also ask for certain Personal Information when you request information about or order our products and services, participate in our marketing, sales or other promotional activities, or correspond with us. If you are in a part of our site that requires you to provide your Personal Information, it will be clear what Personal Information we are requesting.
 
-##### Why do we collect your information?
+#### Why do we collect your information?
 
 We collect, use and disclose information that can identify you (“Personal Information”) so that we can:
 
@@ -46,7 +43,7 @@ We may also collect, process, store and analyze anonymous information about you 
 
 We may send you communications via email about our service. You can opt out of receiving communications from us by changing your notification settings on our website. Please note that even if you unsubscribe or opt-out, we may still send you urgent service related communications (e.g., if your credit card payment was declined). If you do not wish to receive them, you must delete your account with us.
 
-##### Who do we share your personal information with?
+#### Who do we share your personal information with?
 
 Except as set forth in this privacy policy, we do not sell or release your Personal information to third parties without your consent. However, we reserve the right to gather, analyze, aggregate and transform non-personally identifiable information sourced from all or any portion of our visitors and users, and to make this information available at our site or through other means, channels or partners at such time and on such terms as we believe are appropriate.
 
@@ -68,21 +65,21 @@ We will also share your Personal Information if we are required by law (includin
 
 If you provide feedback to us, we may use and disclose such feedback for any purpose, provided we do not associate such feedback with your Personal Information. We will collect any information contained in such feedback and will treat the Personal Information in it in accordance with this Privacy Policy.
 
-##### Your use of the personal information of others
+#### Your use of the personal information of others
 
 If you choose to provide Personal Information of any third party, we will assume that you have the third party’s permission to provide us that information. Examples include Site referrals to friends. This information will not be used for any purposes other than those described above. You agree that, with respect to the Personal Information of other persons that you collect, use and disclose on the Site, you have all necessary consents and rights to collect, use and disclose that information as described in this Privacy Policy from time to time, and you agree that the indemnity you give to us in the Terms of Service applies to any non-compliance by you with respect to the foregoing.
 
 The site may contain links to other websites that are not owned or controlled by us. We have no control over, do not review and are not responsible for the privacy policies of or content displayed on such other websites. When you click on such a link, you will leave our service and go to another site. During this process, another entity may collect Personal Information from you, and we do not collect information from you that you submit on such third party sites.
 
-##### What is our security policy?
+#### What is our security policy?
 
 We use commercially reasonable efforts to ensure that Personal Information is secure, including https protocol and encryption. In order to prevent unauthorised access or disclosure, we put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect, as well as the modes of access to it. While we strive to protect your Personal Information, we cannot warrant the security of any information you transmit to us. More information about security is available in our Terms of Service.
 
-##### How can you access, correct and update your personal information?
+#### How can you access, correct and update your personal information?
 
 Much of your Personal Information is available to you through your account. To review and update your Personal Information to ensure it is accurate, you may login into your account to make the changes, or you may contact us. If we are unable to provide access or disclose information to you, we will explain why, subject to any legal or regulatory restrictions.
 
-##### How can you delete your account?
+#### How can you delete your account?
 
 All Personal Information linked to your account will be deleted at your request as soon as reasonably possible in accordance with the law. When you make a request to delete your account, your data will be deleted from our production servers, and you will no longer be able to access your account. However, we may retain your Personal Information to comply with laws, prevent fraud, resolve disputes, troubleshoot problems, assist with any investigations, enforce our terms of service, and take other actions otherwise permitted by law.
 
@@ -90,12 +87,12 @@ Please remember, however, if we have already disclosed some of your Personal Inf
 
 Aggregated or anonymous data derived from your Personal Information, which cannot be traced back to your account, may remain on our production servers indefinitely. We reserve the right to use any aggregated or anonymous data derived from or incorporating your Personal Information.
 
-##### How will you learn of updates to our privacy rules?
+#### How will you learn of updates to our privacy rules?
 
 We may update this Privacy Policy to reflect changes to our privacy and data management practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 Our service is not directed to children and children are not eligible to use it. Protecting the privacy of children is very important to us. We do not collect or maintain Personal Information from people we actually know are under 13 years of age, and no part of our service is designed to attract people under 13 years of age. If we later learn that a user is under 13 years of age, we will take steps to remove that user's Personal Information from our databases and to prevent the user from utilizing the service.
 
-##### Who should you contact with comments and questions?
+#### Who should you contact with comments and questions?
 
 Bench welcomes your comments and questions regarding this Privacy Policy and the use of your Personal Information. If you have questions, concerns or if you would like more detailed information please email our privacy officer at [privacy@bench.co](mailto:privacy@bench.co).
