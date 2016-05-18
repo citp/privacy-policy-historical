@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadfusion.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116072032id_/http%3A//www.leadfusion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadfusion.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518022733id_/http%3A//www.leadfusion.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Leadfusion
 
