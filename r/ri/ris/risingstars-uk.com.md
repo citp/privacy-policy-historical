@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the risingstars-uk.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226153634id_/http%3A//www.risingstars-uk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the risingstars-uk.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518234512id_/http%3A//www.risingstars-uk.com/Privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Rising Stars
+# Privacy policy
 
 This is the website of Rising Stars. We take your privacy seriously and are fully committed to handling the information we collect from you in a secure and responsible manner. Please read this policy, which explains how we use your information, in particular:
 
@@ -9,35 +9,43 @@ This is the website of Rising Stars. We take your privacy seriously and are full
   * with whom the information may be shared
   * how you can correct any inaccuracies in the information
 
+  
 
 
-**Tracking - what information is collected from you through the website**  
+**Tracking - what information is collected from you through the website**
+
 We track your movements on the website to analyse trends and public interest in our products and services, administer the site and gather information for aggregate use. The information we gather in this way is anonymous and is not linked to personal information from which you can be identified.
 
-**How will we use your information?**  
+**How will we use your information?**
+
 Rising Stars will use your information for administration, marketing, customer services and profiling your purchasing preferences.
 
-**With whom will we share your information?**  
+**With whom will we share your information?**
+
 We will disclose your information to our service providers and agents for the purposes set out in this policy.
 
-We will NOT sell or rent to third parties the information collected from you on this site except in the event that this part of Rising Stars' business is transferred to a new owner, in which case your details will be transferred to that owner as part of that business transfer.
+We will NOT sell or rent to third parties the information collected from you on this site except in the event that this part of Rising Stars' business is transferred to a new owner, in which case your details will be transferred to that owner as part of that business transfer.
 
-We may keep your information for a reasonable period to contact you about our services. If you would rather that your details were NOT used in these ways, please contact us at any time at custcare@risingstars-uk.com
+We may keep your information for a reasonable period to contact you about our services. If you would rather that your details were NOT used in these ways, please contact us at any time at [primary@bookpoint.com](mailto:primary@bookpoint.com)  
+ 
 
 We may search the files of credit reference agencies, who will record the search. Information may be shared with other credit grantors and used for making credit decisions, fraud prevention and occasionally for tracing debtors.
 
-We may contact you by post or email to let you know about goods, services or promotions which may be of interest to you. If you do not want to receive such information from us please tick the relevant box on any of our forms or contact us at any time at custcare@risingstars-uk.com.
+We may contact you by post or email to let you know about goods, services or promotions which may be of interest to you. If you do not want to receive such information from us please tick the relevant box on any of our forms or contact us at any time at [primary@bookpoint.com.](mailto:primary@bookpoint.com)
 
-**How can you correct the information we hold about you?**  
-If your personally identifiable information changes (such as your postcode), or if you no longer want us to have your information, please contact us at any time at custcare@risingstars-uk.com and we will correct, update or remove your personal data accordingly.
+**How can you correct the information we hold about you?**
+
+If your personally identifiable information changes (such as your postcode), or if you no longer want us to have your information, please contact us at any time at [primary@bookpoint.com](mailto:primary@bookpoint.com) and we will correct, update or remove your personal data accordingly.
 
 You have a right to ask for a copy of your information (for which we charge a small fee) and to correct any inaccuracies.
 
-**Further help**  
-If you have any queries in relation to this policy or the privacy of your data at Rising Stars, or if you feel that Rising Stars is not abiding by our privacy policy, please contact custcare@risingstars-uk.com or write to:
+**Further help**
+
+If you have any queries in relation to this policy or the privacy of your data at Rising Stars, or if you feel that Rising Stars is not abiding by our privacy policy, please contact [p](mailto:custcare@risingstars-uk.com)[rimary@bookpoint.com](mailto:primary@bookpoint.com) or write to:
 
 Rising Stars  
-7 Hatchers Mews  
-Bermondsey Street  
+Rising Stars UK Ltd  
+Carmelite House  
+50 Victoria Embankment  
 London  
-SE1 3GS
+EC4Y 0DZ:
