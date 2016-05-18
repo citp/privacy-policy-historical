@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicopinion.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316151535id_/http%3A//www.publicopinion.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicopinion.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518230738id_/http%3A//www.publicopinion.com/pages/privacy) for the most accurate reproduction.*
 
 # PublicOpinion
 
