@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the maven.org privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207231908id_/http%3A//www.sonatype.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maven.org privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518232314id_/http%3A//www.sonatype.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Usage - Privacy Policy - Sonatype.com
+# Master EULA
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=a81a725c-f999-46d7-a351-7faf0c69326c "TRUSTe Privacy Certification")
 
 ## SONATYPE, INC. PRIVACY POLICY
 
-**Effective 26 June, 2015** , at Sonatype, Inc. ("Sonatype" or "our", or "us" or "we"), we respect the privacy rights of our online visitors and recognize the importance of protecting the information we collect about you. Our Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. This Privacy Policy applies to our website located at **www.sonatype.com** , **www.maven.org** and its related subdomains (collectively, the "Site") and all products and services we offer on the Site (together with the Site, the "Service").
+**Effective 7 December, 2015** , at Sonatype, Inc. ("Sonatype" or "our", or "us" or "we"), we respect the privacy rights of our online visitors and recognize the importance of protecting the information we collect about you. Our Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. This Privacy Policy applies to our website located at **www.sonatype.com** , **www.maven.org** and its related subdomains (collectively, the "Site") and all products and services we offer on the Site (together with the Site, the "Service").
 
-Sonatype, Inc. has received TRUSTe's Privacy Seal signifying that this Privacy Policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through these websites, [www.sonatype.com](http://www.sonatype.com/) and [www.maven.org](http://www.maven.org/). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+The TRUSTe program covers only information that is collected through these websites, [www.sonatype.com](https://www.sonatype.com/) and [www.maven.org](http://www.maven.org/). The TRUSTe program does not cover information that may be collected through downloadable software.
+
+In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
 Sonatype, Inc. complies with the U.S. – E.U. Safe Harbor Framework and the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Sonatype, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Sonatype, Inc.'s certification, please visit <http://www.export.gov/safeharbor/>.
 
@@ -26,7 +28,7 @@ In general, you can use our Service without providing us with any personal infor
   * We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [clicking here](http://preferences.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
   * Local Storage Objects (Flash/HTML5)
 
-We may use Local Storage Objects (LSOs) such as HTML5 and Flash to store content information and preferences. Third parties with whom we partner to provide certain features on our Site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 and Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
+We may use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our Site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 and Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
   * Order Information - If you purchase a product or service from us, we request certain personal information from you on our order form. You must provide contact information (such as name, email and shipping address) and financial information (such as credit card number and expiration date). We use this information for billing purposes and to fill your orders. If we have trouble processing an order, need to return an item, or otherwise have customer service or support issues, we will use this information to contact and assist you.
   * User Communications - When you send email or other communications to us, we may retain those communications in order to process your inquiries, respond to your requests and improve the Service.
@@ -38,11 +40,11 @@ By using the Service, you are consenting to have your personal data transferred 
 
 ### Children Under Age 13
 
-Sonatype does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to or on the Service. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at: [privacy@sonatype.com](mailto:privacy@sonatype.com).
+Sonatype does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to or on the Service. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at: [privacy@sonatype.com](mailto:privacy@sonatype.com).
 
 ### Sharing Your Information with Third Parties
 
-Sonatype does not sell, trade or transfer your personal information to third parties except in the following limited circumstances:
+We will not share your personal information to third parties except in the following limited circumstances:
 
   * We have your consent.
   * We may share your personal information with our subsidiaries, affiliated companies or service partners for the purpose of processing your personal information on our behalf or to assist us with marketing, advertising or product/service offerings and fulfillment of orders. For example, we may provide personal information to our service providers for direct emailing of our newsletters, online surveys or notifications of our product/service offerings. We require that these parties agree to process such information based on our instructions and in compliance with appropriate confidentiality measures.
@@ -88,7 +90,7 @@ Our Web site offers a publicly accessible blog. Our blog is managed by a third p
 
 ### Accessing and Updating Personal Information
 
-If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or deactivate it by emailing our Customer Support at [privacy@sonatype.com](mailto:privacy@sonatype.com) or by contacting us by telephone or postal mail at the contact information listed [on our about us page](http://www.sonatype.com/About-Sonatype). We will respond to your request to access within 30 days.
+If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or deactivate it by emailing our Customer Support at [privacy@sonatype.com](mailto:privacy@sonatype.com) or by contacting us by telephone or postal mail at the contact information listed [on our about us page](https://www.sonatype.com/About-Sonatype). We will respond to your request to access within 30 days.
 
 ### Retention
 
@@ -96,7 +98,7 @@ We will retain your information for as long as your account is active or as need
 
 ### Security
 
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number or your password), we encrypt that information using secure socket layer technology ("SSL"). (To learn more about SSL, go to: <http://en.wikipedia.org/wiki/Secure_Sockets_Layer>. No method of transmission over the Internet, or method of electronic storage, is one hundred percent secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at [privacy@sonatype.com](mailto:privacy@sonatype.com).
+The security of your personal information is important to us. When you enter sensitive information (such as credit card number or your password), we encrypt that information using reasonable security both during transmission and once we receive it. If you have any questions about security on our website, you can contact us at [privacy@sonatype.com](mailto:privacy@sonatype.com).
 
 ### Enforcement
 
