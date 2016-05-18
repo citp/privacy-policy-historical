@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northerncu.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316200419id_/https%3A//www.northerncu.com/TrueNorthStrong/OnlinePolicies/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northerncu.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518070428id_/https%3A//www.northerncu.com/TrueNorthStrong/OnlinePolicies/Privacy) for the most accurate reproduction.*
 
 # Northern Credit Union - Protecting Your Personal Information and Our Privacy Code
 
