@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the magazine3.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919065350id_/http%3A//magazine3.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazine3.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518021648id_/http%3A//magazine3.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Magazine3 Wordpress Themes
 
-Posted On 15 Jun, 2014 - By [Matt Kaludi](https://magazine3.com/author/ugguseth/ "Posts by Matt Kaludi") \- With Comments Off
+Posted On 15 Jun, 2014 - By [Matt Kaludi](https://magazine3.com/author/ugguseth/ "Posts by Matt Kaludi") \- With Comments Off on Privacy Policy
 
 This Privacy Policy governs the manner in which Magazine3 collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://magazine3.com](https://magazine3.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Magazine3.
 
@@ -22,9 +22,9 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Magazine3 may collect and use Users personal information for the following purposes:
 
-  *  _\- To improve customer service_ Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  *  _\- To personalize user experience_ We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  *  _\- To send periodic emails_ We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+  *  _– To improve customer service_ Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  *  _– To personalize user experience_ We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  *  _– To send periodic emails_ We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
 
