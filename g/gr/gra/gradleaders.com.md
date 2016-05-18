@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gradleaders.com privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928003220id_/http%3A//www.gradleaders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gradleaders.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519005243id_/http%3A//www.gradleaders.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy | GradLeaders
 
-GradLeaders.com and CSOresearch.com (the "Websites") are operated by MBA Focus, LLC dba GradLeaders, LLC and GradLeaders, Inc., (collectively "GradLeaders") located at 5980 Wilcox Place, Dublin, Ohio, 43016 U.S.A.  GradLeaders takes the private nature your personal information very seriously. This privacy policy describes how we collect, use and disclose the personal information of visitors and uses of the Websites.  This privacy policy applies only to information collected by GradLeaders through the Websites.  Please read this notice very carefully.
+GradLeaders.com, MBAFocus.com and CSOResearch.com (the "Websites") are operated by GradLeaders, LLC and GradLeaders, Inc., (collectively "GradLeaders") located at 5980 Wilcox Place, Dublin, Ohio, 43016 U.S.A.  GradLeaders takes the private nature your personal information very seriously. This privacy policy describes how we collect, use and disclose the personal information of visitors and uses of the Websites.  This privacy policy applies only to information collected by GradLeaders through the Websites.  Please read this notice very carefully.
 
 BY USING THE WEBSITES, YOU EXPRESSLY CONSENT TO THE PROCESSING OF YOUR PERSONAL INFORMATION ACCORDING TO THIS PRIVACY POLICY. YOUR PERSONAL INFORMATION MAY BE PROCESSED IN THE COUNTRY WHERE IT WAS COLLECTED AS WELL AS OTHER COUNTRIES (INCLUDING THE UNITED STATES) WHERE LAWS REGARDING PROCESSING OF PERSONAL INFORMATION MAY BE LESS STRINGENT THAN THE LAWS IN YOUR COUNTRY.
 
