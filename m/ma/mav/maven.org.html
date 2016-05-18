@@ -1,249 +1,254 @@
-<!--The following is the downloaded HTML source of the maven.org privacy policy that was archived on 2015-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207231908id_/http%3A//www.sonatype.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the maven.org privacy policy that was archived on 2016-05-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160518232314id_/http%3A//www.sonatype.com/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class=" js no-flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!--<![endif]--><head>
-  <meta charset="utf-8">
-  <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"6f6612a326","applicationID":"2186366","transactionName":"cw1ZRUZXXl4HQkoRUFYLWVRGQR1CA1cAEBpDClhG","queueTime":0,"applicationTime":138,"agent":"js-agent.newrelic.com/nr-768.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwUHU1ZUGwEBXFdRAQc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script><![endif]-->
-  <title>Usage - Privacy Policy - Sonatype.com</title>
-  <meta name="google-site-verification" content="nbYtuMxWgi_ozBMwaSL8a_pZ-p5KqLlI5PQ7tEZhE3A">
-  <meta name="google-site-verification" content="ZCyWdPSAwP3oiI3mQ69AAmnrm5xTeXHXCO35h_9hxTI">
-  <link rel="shortcut icon" href="/favicon.ico?v=2">
-  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
-  <style type="text/css">.js-hideme{display:none;}</style></head><body class="fixed-nav" id="privacy-policy-page"><a href="https://plus.google.com/117596333621717490325" rel="publisher"></a>
-    <link rel="canonical" content="/usage/privacy-policy">
-  <!-- OpenGraph fields - see http://opengraphprotocol.org/ -->
-  <meta property="og:title" content="Usage - Privacy Policy - Sonatype.com">
-  <meta property="og:type" content="website">
-  <meta property="og:url" content="http://www.sonatype.com/usage/privacy-policy">
-  <meta name="og:image" content="http://www.sonatype.com/assets/logo_200px-af83e2f1c041fc35cea73b1d0f2bd591.png">
-
-    <meta property="og:locale" content="en_US">
-  <meta property="og:site_name" content="Sonatype">
-
+<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="author" content="Sonatype Inc.">
+    <meta name="description" content="">
+    <meta name="generator" content="HubSpot">
+    <title>Master EULA</title>
+    <link rel="shortcut icon" href="//cdn2.hubspot.net/hubfs/1958393/Backgrounds/favicon.ico?t=1463596292988">
     
 
-  <link href="/assets/application-2184f11d6c5704a9a9a38a170cc50399.css" media="all" rel="stylesheet" type="text/css">
-  <link href="http://fonts.googleapis.com/css?family=Oswald:400,300,700" rel="stylesheet" type="text/css">
-  <link href="http://fonts.googleapis.com/css?family=Alegreya+Sans:400,700" rel="stylesheet" type="text/css">
-  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-
-    <link href="http://fonts.googleapis.com/css?family=Dosis:300,400,500,600,700" media="screen" rel="stylesheet" type="text/css">
-  <link href="http://fonts.googleapis.com/css?family=Alegreya+Sans:400,700" media="screen" rel="stylesheet" type="text/css">
-
-
-  <script src="/assets/modernizr-min-b4e303bfcf93f58fdc3793a72ff25471.js" type="text/javascript"></script>­<style>@font-face {font-family:"font";src:url("https://")}@media (touch-enabled),(-webkit-touch-enabled),(-moz-touch-enabled),(-o-touch-enabled),(-ms-touch-enabled),(modernizr){#touch{top:9px;position:absolute}}@media (transform-3d),(-webkit-transform-3d),(-moz-transform-3d),(-o-transform-3d),(-ms-transform-3d),(modernizr){#csstransforms3d{left:9px;position:absolute;height:3px;}}#generatedcontent:after{content:":)";visibility:hidden}</style>
-  <script src="//cdn.optimizely.com/js/314555700.js" type="text/javascript"></script>
-  
-
-
-  
-    <script type="text/javascript">
-      var js_hideme = document.createElement('style');
-          js_hideme.type = 'text/css';
-          js_hideme.innerText = '.js-hideme{display:none;}';
-      var dom_h = document.getElementsByTagName('head');
-      if (typeof(dom_h) !== 'undefined' && dom_h.length > 0) document.getElementsByTagName('head')[0].appendChild(js_hideme);
-    </script>
-	
-	<div class="nav-wrapper navbar-fixed-top">
-	
-            <!-- header_interim.html.erb -->
-    <header class="header hidden-phone">
-      <div class="header-bar">
-        <div class="container-fluid">
-          <div class="row-fluid">
-            <div class="span12" style="min-height: 29px;">
-              <div class="pull-right">
-                <ul>
-                  <li>
-                    <a href="http://blog.sonatype.com/people/" title="Visit the Sonatype blog">
-                      <img src="/assets/sitelink-blog.png"> Blog
-                    </a>
-                  </li>
-                  <li>
-                    <a href="http://www.sonatype.org/nexus" title="Community" target="_blank">
-                      <img src="/assets/sitelink-community.png"> Community
-                    </a>
-                  </li>
-                  <li>
-                    <a href="http://www.sonatype.com/support">
-                      <img src="/assets/sitelink-support.png"> Support
-                    </a>
-                  </li>
-                  <li class="no-border">
-                    <a href="http://www.sonatype.com/contact">
-                      <img src="/assets/sitelink-contact.png"> Contact
-                    </a>
-                  </li>
-                  <li class="form-holder">
-                    <form action="/search" novalidate="novalidate">
-                      <input type="hidden" name="cx" value="017156762307045728421:nxzwpnwhlg8">
-                      <input type="hidden" name="ie" value="ISO-8859-1">
-                      <input type="hidden" name="cof" value="FORID:10">
-                      <input type="text" name="q" placeholder="Search" value="">
-                      <input type="submit" value="">
-                    </form>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </header>
-
-    <div class="navbar navbar-inverse" id="nav-main">
-      <div class="navbar-inner">
-        <div class="container-fluid">
-          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="brand" href="/"><img src="/assets/logo-navbar.png"></a>
-          <div class="nav-collapse collapse">
-            <ul class="nav navbar-nav pull-right">
-              
-
-
-  <li class="dropdown">
-    <a href="/nexus/product-overview" aria-expanded="false" class="dropdown-toggle " data-toggle="dropdown">Nexus</a>
-
-
-    <ul class="dropdown-menu multi-columns columns-3">
-      <div class="row-fluid">
-        <div class="span4">
-          <ul class="multi-column-dropdown">
-            <li><a href="/nexus/portfolio-overview" class="">Portfolio Overview</a><ul><li><a href="/nexus/portfolio-overview/nexus-lifecycle" class="">Nexus Lifecycle</a></li><li><a href="/nexus/portfolio-overview/nexus-firewall" class="">Nexus Firewall</a></li><li><a href="/nexus/portfolio-overview/nexus-repository" class="">Nexus Repository</a></li><li><a href="/nexus/portfolio-overview/nexus-auditor" class="">Nexus Auditor</a></li><li><a href="http://www.sonatype.org/nexus/go/" class="">Nexus OSS</a></li></ul></li><li><a href="/nexus/feature-tours" class="">Feature Tours</a><ul><li><a href="/nexus/feature-tours/nexus-repository" class="">Nexus Repository</a></li><li><a href="/nexus/feature-tours/firewall-lifecycle-auditor" class="">Firewall, Lifecycle &amp; Auditor</a></li></ul></li>
-          </ul>
-        </div>
-        <div class="span4">
-          <ul class="multi-column-dropdown">
-            <li><a href="/nexus/customer-experiences" class="">Customer Experiences</a><ul><li><a href="/nexus/customer-experiences/nexus-repositories" class="">Nexus Repositories</a></li><li><a href="/nexus/customer-experiences/nexus-lifecycle-auditor" class="">Nexus Lifecycle, Auditor</a></li></ul></li>
-          </ul>
-        </div>
-        <div class="span4">
-          <ul class="multi-column-dropdown">
-            <li><a href="/nexus/try-compare-buy" class="">Compare, Try, Buy</a><ul><li><a href="/nexus/try-compare-buy/compare" class="">Compare</a></li><li><a href="/nexus/try-compare-buy/free-downloads" class="">Free Downloads</a></li><li><a href="/nexus/try-compare-buy/buy" class="">Purchase</a></li><li><a href="/nexus/try-compare-buy/nexus-requirements" class="">System Requirements</a></li><li><a href="http://books.sonatype.com/nexus-book/reference/eval.html" class="">Evaluation Guide</a></li><li><a href="/nexus/try-compare-buy/nexus-customer-downloads" class="">Customer Downloads</a></li><li><a href="/nexus/try-compare-buy/faq" class="">FAQ</a></li></ul></li>
-          </ul>
-        </div>
-      </div>
-    </ul>
-</li>
-
-
-  <li class="dropdown">
-    <a href="/resources" aria-expanded="false" class="dropdown-toggle " data-toggle="dropdown">Resources</a>
-
-
-    <ul class="dropdown-menu multi-columns columns-2">
-      <div class="row-fluid">
-        <div class="span6">
-          <ul class="multi-column-dropdown">
-            <li><a href="/resources" class="">Overview</a></li><li><a href="/resources/events/" class="">Events</a></li><li><a href="/resources/webinars" class="">Webinars</a></li><li><a href="/resources/videos" class="">Videos</a></li><li><a href="/resources/whitepapers" class="">Whitepapers</a></li><li><a href="http://www.sonatype.org/nexus/resources/resources-book-links-and-downloads/" class="">Books</a></li><li><a href="/resources/infographics" class="">Infographics</a></li><li><a href="/resources/product-information" class="">Product Information</a></li><li><a href="/education/overview" class="">Education</a></li><li><a href="/about/media/" class="">Articles</a></li>
-          </ul>
-        </div>
-        <div class="span6">
-          <ul class="multi-column-dropdown">
-            <li><a href="/about/press/" class="">News Releases</a></li><li><a href="http://blog.sonatype.com/" class="">Blog</a></li><li><a href="/about/success-stories" class="">Successes</a></li><li><a href="http://www.slideshare.net/SonatypeCorp" class="">Presentations</a></li><li><a href="/resources/nexus-now-newsletter" class="">Newsletter</a></li>
-          </ul>
-        </div>
-      </div>
-    </ul>
-</li>
-
-
-  <li class="dropdown">
-    <a href="/assessments" aria-expanded="false" class="dropdown-toggle " data-toggle="dropdown">Assessments</a>
-
-
-    <ul class="dropdown-menu single-column">
-    <li><a href="/assessments/overview" class="">Overview</a></li><li><a href="/assessments/application-health-check" class="">Application Health Check</a><ul><li><a href="/assessments/application-health-check/start" class="">Start</a></li><li><a href="/assessments/application-health-check/sample-applications" class="">Sample Applications</a></li><li><a href="/assessments/application-health-check/guide" class="">Guide</a></li><li><a href="/assessments/application-health-check/faq" class="">FAQ</a></li></ul></li><li><a href="/assessments/repository-health-check" class="">Repository Health Check</a></li><li><a href="/assessments/software-bill-of-materials" class="">Create a Software Bill of Materials</a></li><li><a href="/assessments/known-vulnerabilities" class="">Known Vulnerabilities</a></li>
-    </ul>
-</li>
-
-
-  <li class="dropdown">
-    <a href="/spotlight" aria-expanded="false" class="dropdown-toggle " data-toggle="dropdown">Spotlights</a>
-
-
-    <ul class="dropdown-menu single-column">
-    <li><a href="/spotlight/us-federal" class="">U.S. Federal</a></li><li><a href="/spotlight/cyber-supply-chain-act" class="">Cyber Supply Chain Act</a></li><li><a href="/spotlight/financial-services" class="">Financial Services</a></li><li><a href="/spotlight/owasp-top-ten" class="">OWASP Top Ten</a></li><li><a href="/spotlight/pci-compliance" class="">PCI Compliance</a></li><li><a href="/spotlight/heartbleed" class="">Heartbleed</a></li>
-    </ul>
-</li>
-
-
-  <li class="dropdown">
-    <a href="/education" aria-expanded="false" class="dropdown-toggle " data-toggle="dropdown">Education</a>
-
-
-    <ul class="dropdown-menu single-column">
-    <li><a href="/education/overview" class="">Overview</a></li><li><a href="/education/free-nexus-pro-video-training" class="">Free Nexus Pro Video Training</a></li><li><a href="/education/nexus-best-practices" class="">Nexus Best Practices</a></li><li><a href="/education/nexus-lifecycle-fundamentals" class="">Nexus Lifecycle Fundamentals</a></li><li><a href="/education/nexus-lifecycle-developer" class="">Nexus Lifecycle Developer</a></li><li><a href="/education/nexus-lifecycle-policy" class="">Nexus Lifecycle Policy</a></li><li><a href="/education/nexus-lifecycle-champion" class="">Nexus Lifecycle Champion</a></li>
-    </ul>
-</li>
-
-
-  <li class="dropdown">
-    <a href="/about" aria-expanded="false" class="dropdown-toggle " data-toggle="dropdown">About</a>
-
-
-    <ul class="dropdown-menu multi-columns columns-3">
-      <div class="row-fluid">
-        <div class="span4">
-          <ul class="multi-column-dropdown">
-            <li><a href="/about/overview" class="">Overview</a></li><li><a href="/about/media/" class="">Press</a><ul><li><a href="/about/media/" class="">Sonatype in the News</a></li><li><a href="/about/press/" class="">Press Releases</a></li></ul></li><li><a href="/nexus/customer-experiences" class="">Real World Experiences</a><ul><li><a href="/nexus/customer-experiences/nexus-lifecycle-auditor" class="">Nexus Lifecycle</a></li><li><a href="/nexus/customer-experiences/nexus-repositories" class="">Nexus Repository</a></li></ul></li>
-          </ul>
-        </div>
-        <div class="span4">
-          <ul class="multi-column-dropdown">
-            <li><a href="/about/leadership" class="">Leadership</a><ul><li><a href="/about/leadership/executives" class="">Executives</a></li><li><a href="/about/leadership/board-of-directors" class="">Board of Directors</a></li><li><a href="/about/leadership/sales-leadership" class="">Sales Leadership</a></li></ul></li><li><a href="/about/partners" class="">Partners</a><ul><li><a href="/about/partners/strategic-alliances" class="">Strategic Alliances</a></li><li><a href="/about/partners/business-alliances" class="">Business Alliances</a></li><li><a href="/about/partners/partner-portal" class="">Partner Portal</a></li></ul></li><li><a href="/about/investors" class="">Investors</a></li><li><a href="/about/careers" class="">Careers</a></li>
-          </ul>
-        </div>
-        <div class="span4">
-          <ul class="multi-column-dropdown">
-            <li><a href="http://www.sonatype.com/get-it-now/new-research" class="">Software Supply Chain Report</a></li><li><a href="/about/2014-open-source-software-development-survey" class="">2014 Survey</a></li><li><a href="/about/raise-the-barr" class="">Raise the B.A.R.R.</a></li><li><a href="/about/secure-access-to-central" class="">Secure Access to Central</a></li><li><a href="/about/community-contributions" class="">Community Contributions</a></li>
-          </ul>
-        </div>
-      </div>
-    </ul>
-</li>
-            </ul>
-          </div><!--/.nav-collapse -->
-        </div>
-      </div>
-    </div>
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580510100000/1958393.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TT8R4P"></script><script type="text/javascript" src="https://static.hsstatic.net/jquery-libs/static-1.1/jquery/jquery-1.7.1.js"></script>
+    <script type="text/javascript">hsjQuery = window['jQuery']</script>
+    <link href="https://static.hsstatic.net/content_shared_assets/static-1.4019/css/public_common.css" rel="stylesheet">
+    <meta property="og:description" content="">
+    <meta property="og:title" content="Master EULA">
+    <meta name="twitter:description" content="">
+    <meta name="twitter:title" content="Master EULA">
 
     
-	</div>
-	
-	
+    
+<!--  Added by AdRoll integration -->
+<script type="text/javascript">
+  adroll_adv_id = "LVE6K7UX6ZF3TJCF5YYLLW";
+  adroll_pix_id = "QDMEQXRCGJGFVFHP7PP7BL";
+  (function () {
+      var _onload = function(){
+          if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+          if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
+          var scr = document.createElement("script");
+          var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+          scr.setAttribute('async', 'true');
+          scr.type = "text/javascript";
+          scr.src = host + "/j/roundtrip.js";
+          ((document.getElementsByTagName('head') || [null])[0] ||
+              document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+      };
+      if (window.addEventListener) {window.addEventListener('load', _onload, false);}
+      else {window.attachEvent('onload', _onload)}
+  }());
+</script>
+<!-- /Added by AdRoll integration -->
 
-    <section class="content">
-      <div class="container-fluid">
-        <div class="content-box" id="main-content-box">
-          <div class="inner-elements">
-<div class="row-fluid">
-<div class="span12">
-<div class="pull-right sonatype-truste">
-<div> <a href="//privacy.truste.com/privacy-seal/validation?rid=a81a725c-f999-46d7-a351-7faf0c69326c" title="TRUSTe Privacy Certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/seal?rid=37d63f3e-126f-41a9-b658-e5065da3e2d4" alt="TRUSTe Privacy Certification"></a> </div>
+    <link rel="canonical" href="http://www.sonatype.com/usage/privacy-policy">
+
+
+    <!--[if lt IE 9]>
+    <script src="https://static.hsstatic.net/content_shared_assets/static-1.4019/js/css3-mediaqueries.js"></script>
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<script type="text/javascript" src="//cdn2.hubspot.net/hub/1958393/hub_generated/template_assets/1457126684015/custom/page/web_page_basic/form-quality-check.min.js"></script>
+
+<!-- Add fancybox support -->
+
+<script type="text/javascript" src="https://cdn2.hubspot.net/hubfs/1958393/Plugins/fancybox/lib/jquery.mousewheel-3.0.6.pack.js?t=1463596292988"></script>
+
+<link rel="stylesheet" href="https://cdn2.hubspot.net/hubfs/1958393/Plugins/fancybox/source/jquery.fancybox.css?v=2.1.5&amp;t=1463596292988" type="text/css" media="screen">
+<script type="text/javascript" src="https://cdn2.hubspot.net/hubfs/1958393/Plugins/fancybox/source/jquery.fancybox.pack.js?v=2.1.5&amp;t=1463596292988"></script>
+
+<!-- Optionally add helpers - button, thumbnail and/or media -->
+
+<link rel="stylesheet" href="https://cdn2.hubspot.net/hubfs/1958393/Plugins/fancybox/source/helpers/jquery.fancybox-buttons.css?v=1.0.5&amp;t=1463596292988" type="text/css" media="screen">
+
+<script type="text/javascript" src="https://cdn2.hubspot.net/hubfs/1958393/Plugins/fancybox/source/helpers/jquery.fancybox-buttons.js?v=1.0.5&amp;t=1463596292988"></script>
+
+<script type="text/javascript" src="https://cdn2.hubspot.net/hubfs/1958393/Plugins/fancybox/source/helpers/jquery.fancybox-media.js?v=1.0.6&amp;t=1463596292988"></script>
+
+<link rel="stylesheet" href="https://cdn2.hubspot.net/hubfs/1958393/Plugins/fancybox/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7&amp;t=1463596292988" type="text/css" media="screen">
+
+<script type="text/javascript" src="https://cdn2.hubspot.net/hubfs/1958393/Plugins/fancybox/source/helpers/jquery.fancybox-thumbs.js?v=1.0.7&amp;t=1463596292988"></script>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('.fancybox')
+            .fancybox({
+                openEffect : 'none',
+                closeEffect : 'none',
+                prevEffect : 'none',
+                nextEffect : 'none',
+
+                arrows : false,
+                helpers : {
+                    media : {},
+                    buttons : {}
+                }
+            });
+});
+</script>
+<meta name="google-site-verification" content="YwJUaTig7dTU7VWHgOIGs-O5zEmCFqLjIC4hFfkLAyA">
+<!-- Google Tag Manager -->
+<noscript>&lt;iframe  src="//www.googletagmanager.com/ns.html?id=GTM-TT8R4P" height="0" width="0" style="display:none;visibility:hidden"&gt;</noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TT8R4P');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://use.fonticons.com/cae69742.js"></script>
+<meta property="og:url" content="http://www.sonatype.com/usage/privacy-policy">
+<link href="//cdn2.hubspot.net/hub/-1/hub_generated/style_manager/1431123893544/hubspot_default/shared/responsive/layout.min.css" rel="stylesheet">
+<link href="//cdn2.hubspot.net/hub/1958393/hub_generated/template_assets/1463606404701/custom/styles/default/hs_default_custom_style.min.css" rel="stylesheet">
+
+
+
+
+    <!-- The style tag has been deprecated. Attached stylesheets are included in the required_head_tags page variable. -->
+
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<body class="sonatype-generic   hs-content-id-3967400889 hs-site-page page " style="">
+    <div class="header-container-wrapper">
+    <div class="header-container container-fluid">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-global_group " style="" data-widget-type="global_group" data-x="0" data-w="12">
+<!-- start coded_template: id:3906896754 path:generated_global_groups/3906896744.html -->
+<div class="" data-global-widget-path="generated_global_groups/3906896744.html"><div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell sonatype-secondary-header sonatype-section" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span6 widget-span widget-type-rich_text sonatype-news" style="" data-widget-type="rich_text" data-x="0" data-w="6">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_14567894788182" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text">Webinar: Nexus Repository 3.0 is here! See it in action.&nbsp;<a href="//www.sonatype.com/nexus3-webinar?__hsfp=4115015983">Register</a><span style="color: #808080;"></span></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+<nav class="sonatype-secondary-nav">
+  
+<div class="span6 widget-span widget-type-menu " style="" data-widget-type="menu" data-x="6" data-w="6">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1458689972919765" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_module_1458689972919765" class="hs-menu-wrapper active-branch no-flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="Secondary menu">
+ <ul>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="//www.sonatype.com/about-sonatype">About</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="http://blog.sonatype.com" target="_blank">Blog <i class="fa fa-external-link"></i></a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="//www.sonatype.com/partners">Partners</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="http://www.sonatype.org/" target="_blank">Community <i class="fa fa-external-link"></i></a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="http://support.sonatype.com" target="_blank">Support <i class="fa fa-external-link"></i></a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://twitter.com/sonatype" target="_blank"><i class="fa fa-twitter"></i></a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.linkedin.com/company/sonatype" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.facebook.com/Sonatype" target="_blank"><i class="fa fa-facebook"></i></a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://plus.google.com/+Sonatypeinc/posts" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.youtube.com/user/sonatype" target="_blank"><i class="fa fa-youtube-play"></i></a></li>
+ </ul>
+</div></span></div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+     
+</nav>
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell sonatype-section sonatype-primary-header" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-4 ">
+<div class="row-fluid ">
+<div class="span4 widget-span widget-type-logo sonatype-primary-nav-logo" style="" data-widget-type="logo" data-x="0" data-w="4">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_14567894788185" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_logo" style="" data-hs-cos-general-type="widget" data-hs-cos-type="logo"><a href="//www.sonatype.com/" id="hs-link-module_14567894788185" style="border-width:0px;border:0px;"><img src="//cdn2.hubspot.net/hub/1958393/hubfs/sonatype_logo_whiteBG.jpg?t=1463596292988&amp;width=211" class="hs-image-widget " style="width:211px;border-width:0px;border:0px;" width="211" alt="Sonatype Logo" title="Sonatype Logo" srcset="//cdn2.hubspot.net/hub/1958393/hubfs/sonatype_logo_whiteBG.jpg?t=1463596292988&amp;width=106 106w, //cdn2.hubspot.net/hub/1958393/hubfs/sonatype_logo_whiteBG.jpg?t=1463596292988&amp;width=211 211w, //cdn2.hubspot.net/hub/1958393/hubfs/sonatype_logo_whiteBG.jpg?t=1463596292988&amp;width=317 317w, //cdn2.hubspot.net/hub/1958393/hubfs/sonatype_logo_whiteBG.jpg?t=1463596292988&amp;width=422 422w, //cdn2.hubspot.net/hub/1958393/hubfs/sonatype_logo_whiteBG.jpg?t=1463596292988&amp;width=528 528w, //cdn2.hubspot.net/hub/1958393/hubfs/sonatype_logo_whiteBG.jpg?t=1463596292988&amp;width=633 633w" sizes="(max-width: 211px) 100vw, 211px"></a></span></div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+<nav class="sonatype-primary-nav">
+  
+<div class="span8 widget-span widget-type-menu " style="" data-widget-type="menu" data-x="4" data-w="8">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_14576409481131480" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_module_14576409481131480" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="Sonatype - v1 -Launch- - March 2016">
+ <ul>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children"><a href="javascript:;">Products</a>
+   <ul class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2"><a href="//www.sonatype.com/products-sonatype">Overview</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="//www.sonatype.com/nexus-lifecycle">Nexus Lifecycle</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="//www.sonatype.com/nexus-firewall">Nexus Firewall</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="//www.sonatype.com/nexus-auditor">Nexus Auditor</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="//www.sonatype.com/nexus-repository-sonatype">Nexus Repository</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="//www.sonatype.com/nexus-repository-oss">Nexus Repository OSS</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="//www.sonatype.com/nexus-product-pricing">Pricing</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children"><a href="javascript:;">Innovators</a>
+   <ul class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2"><a href="//www.sonatype.com/innovators-ceo">CEO</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="//www.sonatype.com/innovators-devops">DevOps</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="//www.sonatype.com/innovators-security">Security</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="//www.sonatype.com/innovator-development">Development</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="//www.sonatype.com/innovators-governance">Governance</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children"><a href="javascript:;">Customers</a>
+   <ul class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2"><a href="//www.sonatype.com/customers-overview">Overview</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children"><a href="javascript:;">Learn</a>
+   <ul class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2"><a href="//www.sonatype.com/learn-overview">Overview</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="//www.sonatype.com/learn-data-services">Data Services</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="//www.sonatype.com/download-application-health-check">Application Health Check</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="//www.sonatype.com/upcoming-events">Events</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="//www.sonatype.com/learn-training">Training</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="//www.sonatype.com/learn-white-papers">White Papers</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="//www.sonatype.com/learn-webinars">Webinars</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="http://books.sonatype.com/sonatype-clm-book/html/" target="_blank">Documentation <i class="fa fa-external-link"></i></a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="//www.sonatype.com/get-nexus-sonatype">Get Nexus</a></li>
+ </ul>
+</div></span></div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+     
+</nav>
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+</div><!-- end coded_template: id:3906896754 path:generated_global_groups/3906896744.html -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+    </div><!--end header -->
+</div><!--end header wrapper -->
+
+<div class="body-container-wrapper">
+    <div class="body-container container-fluid">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell sonatype-section sonatype-body" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-rich_text " style="" data-widget-type="rich_text" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_145756529207629946" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><div class="pull-right sonatype-truste">
+<div><a href="//privacy.truste.com/privacy-seal/validation?rid=a81a725c-f999-46d7-a351-7faf0c69326c" title="TRUSTe Privacy Certification" target="_blank"><img style="border: none;" src="//privacy-policy.truste.com/privacy-seal/seal?rid=37d63f3e-126f-41a9-b658-e5065da3e2d4" alt="TRUSTe Privacy Certification"></a></div>
 </div>
-
 <h1>Privacy Policy</h1>
-
 <h2>SONATYPE, INC. PRIVACY POLICY</h2>
-
-<p><strong>Effective 26 June, 2015</strong>, at Sonatype, Inc. ("Sonatype" or "our", or "us" or "we"), we respect the privacy rights of our online visitors and recognize the importance of protecting the information we collect about you. Our Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. This Privacy Policy applies to our website located at <strong>www.sonatype.com</strong>, <strong>www.maven.org</strong> and its related subdomains (collectively, the "Site") and all products and services we offer on the Site (together with the Site, the "Service").</p>
-
-<p>Sonatype, Inc. has received TRUSTe's Privacy Seal signifying that this Privacy Policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through these websites, <a href="http://www.sonatype.com">www.sonatype.com</a> and <a href="http://www.maven.org">www.maven.org</a>. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact <a href="https://feedback-form.truste.com/watchdog/request">TRUSTe here</a>.</p>
-
+<p><strong>Effective 7 December, 2015</strong>, at Sonatype, Inc. ("Sonatype" or "our", or "us" or "we"), we respect the privacy rights of our online visitors and recognize the importance of protecting the information we collect about you. Our Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. This Privacy Policy applies to our website located at <strong>www.sonatype.com</strong>, <strong>www.maven.org</strong> and its related subdomains (collectively, the "Site") and all products and services we offer on the Site (together with the Site, the "Service").</p>
+<p>The TRUSTe program covers only information that is collected through these websites, <a href="//www.sonatype.com">www.sonatype.com</a> and <a href="http://www.maven.org">www.maven.org</a>. The TRUSTe program does not cover information that may be collected through downloadable software.</p>
+<p>In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact <a href="https://feedback-form.truste.com/watchdog/request">TRUSTe here</a>.</p>
 <p>Sonatype, Inc. complies with the U.S. – E.U. Safe Harbor Framework and the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Sonatype, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Sonatype, Inc.'s certification, please visit <a href="http://www.export.gov/safeharbor/">http://www.export.gov/safeharbor/</a>.</p>
-
 <p>By using or accessing the Service, you are accepting the practices described in this Privacy Policy.</p>
-
 <p>Note that if you download software or otherwise purchase products or services through the Site or Service, use of such products or services is subject to the separate Sonatype license or other terms and conditions applicable to such product or service.</p>
-
 <h3>The Information We Collect and How We Use It</h3>
 <p>In general, you can use our Service without providing us with any personal information. However, there are instances where you must provide us with certain personal information in order to receive full access to the Service or to assist us in delivering a superior level of customer service. In such instances, we may collect the following types of information:</p>
 <ul>
@@ -251,21 +256,16 @@
 <li>Log Information - When you access the Service, our servers automatically record information that your browser sends whenever you visit a website and our analytics platform may capture additional information about use of our Site. This information may include information such as your Internet Protocol address, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We do not link this automatically-collected data to personal information.</li>
 <li>Cookies and other Tracking Technologies - Technologies such as: cookies, beacons, tags and scripts are used by Sonatype and our marketing and technology partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the Service, tracking users' movements around the Site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. We may use cookies to improve our Service including by storing user preferences and tracking user trends. We also use cookies in our advertising services to help advertisers and publishers serve and manage ads across the web. We or our third party advertisers may set a cookie in your browser when you visit a website or click on an ad supported by our advertising services. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.</li>
 <li>We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by <a href="http://preferences.truste.com/">clicking here</a> (or if located in the European Union click <a href="http://www.youronlinechoices.eu/">here</a>). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.</li>
-<li>Local Storage Objects (Flash/HTML5)<br>
-<br>
-We may use Local Storage Objects (LSOs) such as HTML5 and Flash to store content information and preferences. Third parties with whom we partner to provide certain features on our Site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 and Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html">http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html</a>
-</li>
+<li>Local Storage Objects (Flash/HTML5)<br> <br> We may use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our Site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 and Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html">http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html</a></li>
 <li>Order Information - If you purchase a product or service from us, we request certain personal information from you on our order form. You must provide contact information (such as name, email and shipping address) and financial information (such as credit card number and expiration date). We use this information for billing purposes and to fill your orders. If we have trouble processing an order, need to return an item, or otherwise have customer service or support issues, we will use this information to contact and assist you.</li>
 <li>User Communications - When you send email or other communications to us, we may retain those communications in order to process your inquiries, respond to your requests and improve the Service.</li>
 <li>We purchase lead data about our potential customers from third parties and combine it with information we already have about you, to create more tailored business leads.</li>
 </ul>
 <p>By using the Service, you are consenting to have your personal data transferred to and processed in the United States.</p>
-
 <h3>Children Under Age 13</h3>
-<p>Sonatype does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to or on the Service. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at: <a href="mailto:privacy@sonatype.com">privacy@sonatype.com</a>.</p>
-
+<p>Sonatype does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to or on the Service. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at: <a href="mailto:privacy@sonatype.com">privacy@sonatype.com</a>.</p>
 <h3>Sharing Your Information with Third Parties</h3>
-<p>Sonatype does not sell, trade or transfer your personal information to third parties except in the following limited circumstances:</p>
+<p>We will not share your personal information to third parties except in the following limited circumstances:</p>
 <ul>
 <li>We have your consent.</li>
 <li>We may share your personal information with our subsidiaries, affiliated companies or service partners for the purpose of processing your personal information on our behalf or to assist us with marketing, advertising or product/service offerings and fulfillment of orders. For example, we may provide personal information to our service providers for direct emailing of our newsletters, online surveys or notifications of our product/service offerings. We require that these parties agree to process such information based on our instructions and in compliance with appropriate confidentiality measures.</li>
@@ -274,229 +274,337 @@ We may use Local Storage Objects (LSOs) such as HTML5 and Flash to store content
 <li>We become involved in a merger, acquisition, or any form of sale of some or all of our assets. In this event, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.</li>
 </ul>
 <p>We may share with third parties aggregate, non-personal information. Such information does not identify you individually.</p>
-
 <h3>Choice/Opt-out</h3>
 <p>We provide you with the opportunity to "opt-out" of having your personal information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference at the time the information is collected.</p>
-
 <p>If you no longer wish to receive our promotional communications, you may opt-out of receiving them by following the instructions included in the applicable message, by setting preferences as may be otherwise indicated on the Site or by contacting Sonatype at the address set forth at the bottom of this Privacy Policy.</p>
-
 <p>We will also send you service related email announcements on rare occasions when it is necessary to do so. For instance, if our Service is temporarily suspended for maintenance, we might send you an email. You do not have an option to opt out of these emails, which are not promotional in nature.</p>
-
 <p>We share your personal information with other companies so that they can market their products or services to you. If you do not want us to share your personal information with these companies, contact us at <a href="mailto:privacy@sonatype.com">privacy@sonatype.com</a>. If you receive a marketing communication from our subsidiaries, business partners or independent resellers, you should opt-out with that entity directly.</p>
-
 <h3>Links</h3>
 <p>This Privacy Policy applies solely to information collected by Sonatype. The Site may contain links to other third party websites. Even if the third party is affiliated with Sonatype through a business partnership or otherwise, we are not responsible for the privacy practices of other websites. We encourage our users to be aware when they leave the Site to read the privacy policies of each and every website that collects personal information.</p>
-
 <h3>Social Media Widgets</h3>
 <p>Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.</p>
-
 <h3>Surveys or Contests</h3>
 <p>From time-to-time we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personal information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). We use this information to notify contest winners and award prizes.</p>
-
 <p>We use a third party service provider to conduct these surveys or contests; that company is prohibited from using our users' personal information for any other purpose. We will not share the personal information you provide through a contest or survey with other third parties unless we give you prior notice and choice.</p>
-
 <h3>Customer Testimonials</h3>
 <p>We post customer testimonials on our web site which may contain personal information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you wish to update or delete your testimonial, you can contact us at <a href="mailto:privacy@sonatype.com">privacy@sonatype.com</a>.</p>
-
 <h3>Sonatype Blog</h3>
 <p>Our Web site offers a publicly accessible blog. Our blog is managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want the personal information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy.</p>
-
 <h3>Accessing and Updating Personal Information</h3>
-<p>If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or deactivate it by emailing our Customer Support at <a href="mailto:privacy@sonatype.com">privacy@sonatype.com</a> or by contacting us by telephone or postal mail at the contact information listed <a href="http://www.sonatype.com/About-Sonatype">on our about us page</a>. We will respond to your request to access within 30 days.</p>
-
+<p>If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or deactivate it by emailing our Customer Support at <a href="mailto:privacy@sonatype.com">privacy@sonatype.com</a> or by contacting us by telephone or postal mail at the contact information listed <a href="//www.sonatype.com/About-Sonatype">on our about us page</a>. We will respond to your request to access within 30 days.</p>
 <h3>Retention</h3>
 <p>We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at <a href="mailto:privacy@sonatype.com">privacy@sonatype.com</a>. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
-
 <h3>Security</h3>
-<p>The security of your personal information is important to us. When you enter sensitive information (such as credit card number or your password), we encrypt that information using secure socket layer technology ("SSL"). (To learn more about SSL, go to: <a href="http://en.wikipedia.org/wiki/Secure_Sockets_Layer">http://en.wikipedia.org/wiki/Secure_Sockets_Layer</a>. No method of transmission over the Internet, or method of electronic storage, is one hundred percent secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at <a href="mailto:privacy@sonatype.com">privacy@sonatype.com</a>.</p>
-
+<p>The security of your personal information is important to us. When you enter sensitive information (such as credit card number or your password), we encrypt that information using reasonable security both during transmission and once we receive it. If you have any questions about security on our website, you can contact us at <a href="mailto:privacy@sonatype.com">privacy@sonatype.com</a>.</p>
 <h3>Enforcement</h3>
 <p>Sonatype regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or Sonatype's treatment of personal information by emailing us at: <a href="mailto:privacy@sonatype.com">privacy@sonatype.com</a> or by writing to us at:</p>
-
-<p>Privacy Matters <br>
-Sonatype, Inc.<br>
-8161 Maple Lawn Blvd, Suite 250<br>
-Fulton, MD 20759</p>
-
+<p>Privacy Matters <br> Sonatype, Inc.<br> 8161 Maple Lawn Blvd, Suite 250<br> Fulton, MD 20759</p>
 <p>We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer or personal data that cannot be resolved between Sonatype and an individual.</p>
-
 <h3>Terms of Service, Notices and Revisions</h3>
 <p>Please also see our Terms of Service, which describe the restrictions, disclaimers, indemnification and limitation of liability governing the use of the Service. The Terms of Service also further describe our Service and the information we use.</p>
-
 <h3>Notification of Privacy Policy Changes</h3>
 <p>We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.</p>
-
 <h3>Contact Us</h3>
 <p>If you have any questions or suggestions regarding our Privacy Policy, please contact us online, email us at <a href="mailto:privacy@sonatype.com">privacy@sonatype.com</a>, call us at 1.877.866.2836, or write to us at:</p>
+<p>Sonatype, Inc.<br> 8161 Maple Lawn Blvd, Suite 250<br> Fulton, MD 20759</p></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
 
-<p>Sonatype, Inc.<br>
-8161 Maple Lawn Blvd, Suite 250<br>
-Fulton, MD 20759</p>
-</div>
-</div>
-</div>
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
 
-        </div>
-      </div>
-    </section>
+    </div><!--end body -->
+</div><!--end body wrapper -->
 
+<div class="footer-container-wrapper">
+    <div class="footer-container container-fluid">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-global_group " style="" data-widget-type="global_group" data-x="0" data-w="12">
+<!-- start coded_template: id:4063610555 path:generated_global_groups/4063610545.html -->
+<div class="" data-global-widget-path="generated_global_groups/4063610545.html"><div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell sonatype-footer sonatype-body sonatype-section" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span2 widget-span widget-type-cell sonatype-column" style="" data-widget-type="cell" data-x="0" data-w="2">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-linked_image sonatype-footer-nav-logo" style="" data-widget-type="linked_image" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_14568829902672" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="//cdn2.hubspot.net/hub/1958393/hubfs/Assets/sonatype-logo-navbar.png?t=1463596292988&amp;width=144" class="hs-image-widget " style="width:144px;border-width:0px;border:0px;" width="144" alt="sonatype-logo-navbar.png" title="sonatype-logo-navbar.png" srcset="//cdn2.hubspot.net/hub/1958393/hubfs/Assets/sonatype-logo-navbar.png?t=1463596292988&amp;width=72 72w, //cdn2.hubspot.net/hub/1958393/hubfs/Assets/sonatype-logo-navbar.png?t=1463596292988&amp;width=144 144w, //cdn2.hubspot.net/hub/1958393/hubfs/Assets/sonatype-logo-navbar.png?t=1463596292988&amp;width=216 216w, //cdn2.hubspot.net/hub/1958393/hubfs/Assets/sonatype-logo-navbar.png?t=1463596292988&amp;width=288 288w, //cdn2.hubspot.net/hub/1958393/hubfs/Assets/sonatype-logo-navbar.png?t=1463596292988&amp;width=360 360w, //cdn2.hubspot.net/hub/1958393/hubfs/Assets/sonatype-logo-navbar.png?t=1463596292988&amp;width=432 432w" sizes="(max-width: 144px) 100vw, 144px"></span></div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-4 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-raw_html " style="" data-widget-type="raw_html" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_14568829902673" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_raw_html" style="" data-hs-cos-general-type="widget" data-hs-cos-type="raw_html"><div class="sonatype-social">
+<a href="https://twitter.com/sonatype" target="_blank"><i class="fa fa-twitter"></i> Twitter</a>
+<a href="https://www.linkedin.com/company/sonatype" target="_blank"><i class="fa fa-linkedin"></i> LinkedIn</a>
+<a href="https://www.facebook.com/Sonatype" target="_blank"><i class="fa fa-facebook"></i> Facebook</a>
+<a href="https://plus.google.com/+Sonatypeinc/posts" target="_blank"><i class="fa fa-google-plus"></i> Google+</a>
+<a href="https://www.youtube.com/user/sonatype" target="_blank"><i class="fa fa-youtube-play"></i> YouTube</a>
+</div></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+<div class="span2 widget-span widget-type-cell sonatype-column" style="" data-widget-type="cell" data-x="2" data-w="2">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-5 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-rich_text " style="" data-widget-type="rich_text" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_14568829902678" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><span style="color: #ffffff;">Products</span></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-6 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-simple_menu " style="" data-widget-type="simple_menu" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_14568829902679" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_14568829902679" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-vertical" role="navigation" data-sitemap-name="">
+ <ul>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="//www.sonatype.com/nexus-lifecycle" target="_self">Nexus Lifecycle</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="//www.sonatype.com/nexus-firewall" target="_self">Nexus Firewall</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="//www.sonatype.com/nexus-auditor" target="_self">Nexus Auditor</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="//www.sonatype.com/nexus-repository-sonatype" target="_self">Nexus Repository</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="//www.sonatype.com/nexus-repository-oss" target="_self">Nexus Repository OSS</a></li>
+ </ul>
+</div></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+<div class="span2 widget-span widget-type-cell sonatype-column" style="" data-widget-type="cell" data-x="4" data-w="2">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-7 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-rich_text " style="" data-widget-type="rich_text" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_14568829902675" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><span style="color: #ffffff;">Innovators</span></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-8 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-simple_menu " style="" data-widget-type="simple_menu" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_14568829902676" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_14568829902676" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-vertical" role="navigation" data-sitemap-name="">
+ <ul>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="//www.sonatype.com/innovators-ceo" target="_self">CEO</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="//www.sonatype.com/innovators-devops" target="_self">DevOps</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="//www.sonatype.com/innovators-security" target="_self">Security</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="//www.sonatype.com/innovator-development" target="_self">Development</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="//www.sonatype.com/innovators-governance" target="_self">Governance</a></li>
+ </ul>
+</div></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+<div class="span2 widget-span widget-type-cell sonatype-column" style="" data-widget-type="cell" data-x="6" data-w="2">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-9 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-rich_text " style="" data-widget-type="rich_text" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_145688299026711" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><span style="color: #ffffff;">Customers</span></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-10 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-simple_menu " style="" data-widget-type="simple_menu" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_145688299026712" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_145688299026712" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-vertical" role="navigation" data-sitemap-name="">
+ <ul>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="//www.sonatype.com/customers-overview" target="_self">Overview</a></li>
+ </ul>
+</div></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+<div class="span2 widget-span widget-type-cell sonatype-column" style="" data-widget-type="cell" data-x="8" data-w="2">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-11 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-rich_text " style="" data-widget-type="rich_text" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_145688299026714" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><span style="color: #ffffff;">Learn</span></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-12 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-simple_menu " style="" data-widget-type="simple_menu" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_145688299026715" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_145688299026715" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-vertical" role="navigation" data-sitemap-name="">
+ <ul>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="//www.sonatype.com/learn-overview" target="_self">Overview</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="//www.sonatype.com/learn-data-services" target="_self">Data Services</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="//www.sonatype.com/learn-training" target="_self">Training</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="//www.sonatype.com/learn-white-papers" target="_self">White papers</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="//www.sonatype.com/learn-webinars" target="_self">Webinars</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="http://books.sonatype.com/sonatype-clm-book/html/?__hstc=233546881.c9b40ef0dfafe39fd7bf595f175a093e.1457747145387.1458835370025.1458839469644.24&amp;__hssc=233546881.25.1458839469644&amp;__hsfp=1755209651" target="_blank">Documentation <i class="fa fa-external-link"></i></a></li>
+ </ul>
+</div></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+<div class="span2 widget-span widget-type-cell sonatype-column" style="" data-widget-type="cell" data-x="10" data-w="2">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-13 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-rich_text " style="" data-widget-type="rich_text" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_145688299026717" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><span style="color: #ffffff;">Company</span></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-14 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-simple_menu " style="" data-widget-type="simple_menu" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_145688299026718" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_145688299026718" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-vertical" role="navigation" data-sitemap-name="">
+ <ul>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="//www.sonatype.com/about-sonatype" target="_self">About</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="http://blog.sonatype.com" target="_blank">Blog <i class="fa fa-external-link"></i></a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="http://www.sonatype.org/" target="_blank">Community <i class="fa fa-external-link"></i></a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="//www.sonatype.com/partners" target="_self">Partners</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="http://support.sonatype.com" target="_blank">Support <i class="fa fa-external-link"></i></a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="//www.sonatype.com/contact-us" target="_self">Contact Us</a></li>
+ </ul>
+</div></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-15 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-raw_html " style="" data-widget-type="raw_html" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_14573962010646554" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_raw_html" style="" data-hs-cos-general-type="widget" data-hs-cos-type="raw_html"><div class="bars sonatype-striped-background"></div></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-16 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-rich_text sonatype-legal" style="" data-widget-type="rich_text" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_145688299026719" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><p><span style="color: #999b9d; font-size: 14px;"><a href="//sonatype-1958393.hs-sites.com/terms-of-service" style="color: #999b9d;">Terms of Service</a> &nbsp; &nbsp;<a href="//sonatype-1958393.hs-sites.com/privacy-policy" style="color: #999b9d;">Privacy Policy</a></span></p>
+<p><span style="color: #999b9d; font-size: 14px;">Copyright&nbsp;© 2008-present, Sonatype Inc. All rights reserved. Includes the third-party code listed here. Sonatype and Sonatype Nexus are trademarks of Sonatype, Inc. Apache Maven and Maven are trademarks of the Apache Software Foundation. M2Eclipse is a trademark of the Eclipse Foundation. All other trademarks are the property of their respective owners.<br><br>Sonatype Headquarters -&nbsp;<span>8161 Maple Lawn Blvd #250, Fulton, MD 20759</span><br>Tysons Office - 8251 Greensboro Blvd #610, McLean, VA 22102</span></p></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+</div><!-- end coded_template: id:4063610555 path:generated_global_groups/4063610545.html -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+    </div><!--end footer -->
+</div><!--end footer wrapper -->
 
     
+<script type="text/javascript" src="https://static.hsstatic.net/content_shared_assets/static-1.4019/js/public_common.js"></script>
 
-    <footer class="footer">
-      <div class="container-fluid">
-  <div class="inner-elements">
-    
-<nav id="footer-menu" class="nav-holder">
-  <div class="navbar">
-    <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse-footer">
-      <span class="icon-bar"></span>
-      <span class="icon-bar"></span>
-      <span class="icon-bar"></span>
-    </button>
-    <div class="nav-collapse nav-collapse-footer collapse">
-      <ul class="nav footer-nav row-fluid">
-        <li>
-  <a href="/education" class="has-child">Education</a>      <ul class="clearfix sub-menu">
-        <li>
-  <a href="/education/nexus-best-practices" class="">Nexus Best Practices</a></li><li>
-  <a href="/education/nexus-lifecycle-policy" class="">Nexus Lifecycle Policy</a></li><li>
-  <a href="/education/free-nexus-pro-video-training" class="">Free Nexus Pro Video Training</a></li><li>
-  <a href="/education/overview" class="">Overview</a></li><li>
-  <a href="/education/nexus-lifecycle-champion" class="">Nexus Lifecycle Champion</a></li><li>
-  <a href="/education/nexus-lifecycle-fundamentals" class="">Nexus Lifecycle Fundamentals</a></li><li>
-  <a href="/education/nexus-lifecycle-developer" class="">Nexus Lifecycle Developer</a></li>    </ul>
-</li><li>
-  <a href="/resources" class="has-child">Resources</a>      <ul class="clearfix sub-menu">
-        <li>
-  <a href="/resources/product-information" class="">Product Information</a></li><li>
-  <a href="/education/overview" class="">Education</a></li><li>
-  <a href="/resources/events/" class="">Events</a></li><li>
-  <a href="/resources/videos" class="">Videos</a></li><li>
-  <a href="http://www.sonatype.org/nexus/resources/resources-book-links-and-downloads/" class="">Books</a></li><li>
-  <a href="/resources/infographics" class="">Infographics</a></li><li>
-  <a href="/resources/webinars" class="">Webinars</a></li><li>
-  <a href="/resources/whitepapers" class="">Whitepapers</a></li><li>
-  <a href="/about/press/" class="">News Releases</a></li><li>
-  <a href="http://blog.sonatype.com/" class="">Blog</a></li><li>
-  <a href="/about/media/" class="">Articles</a></li><li>
-  <a href="/about/success-stories" class="">Successes</a></li><li>
-  <a href="http://www.slideshare.net/SonatypeCorp" class="">Presentations</a></li><li>
-  <a href="/resources/nexus-now-newsletter" class="">Newsletter</a></li>    </ul>
-</li><li>
-  <a href="/nexus/product-overview" class="has-child">Nexus</a>      <ul class="clearfix sub-menu">
-        <li>
-  <a href="/nexus/try-compare-buy" class="has-child">Compare, Try, Buy</a>      <ul class="clearfix sub-menu">
-        <li>
-  <a href="/nexus/try-compare-buy/free-downloads" class="">Free Downloads</a></li><li>
-  <a href="/nexus/try-compare-buy/buy" class="">Purchase</a></li><li>
-  <a href="/nexus/try-compare-buy/compare" class="">Compare</a></li><li>
-  <a href="/nexus/try-compare-buy/nexus-requirements" class="">System Requirements</a></li><li>
-  <a href="/nexus/try-compare-buy/nexus-customer-downloads" class="">Customer Downloads</a></li><li>
-  <a href="/nexus/try-compare-buy/faq" class="">FAQ</a></li><li>
-  <a href="http://books.sonatype.com/nexus-book/reference/eval.html" class="">Evaluation Guide</a></li>    </ul>
-</li><li>
-  <a href="/nexus/customer-experiences" class="has-child">Customer Experiences</a>      <ul class="clearfix sub-menu">
-        <li>
-  <a href="/nexus/customer-experiences/nexus-lifecycle-auditor" class="">Nexus Lifecycle, Auditor</a></li><li>
-  <a href="/nexus/customer-experiences/nexus-repositories" class="">Nexus Repositories</a></li>    </ul>
-</li><li>
-  <a href="/nexus/portfolio-overview" class="has-child">Portfolio Overview</a>      <ul class="clearfix sub-menu">
-        <li>
-  <a href="/nexus/portfolio-overview/nexus-lifecycle" class="">Nexus Lifecycle</a></li><li>
-  <a href="/nexus/portfolio-overview/nexus-repository" class="">Nexus Repository</a></li><li>
-  <a href="/nexus/portfolio-overview/nexus-firewall" class="">Nexus Firewall</a></li><li>
-  <a href="/nexus/portfolio-overview/nexus-auditor" class="">Nexus Auditor</a></li><li>
-  <a href="http://www.sonatype.org/nexus/go/" class="">Nexus OSS</a></li>    </ul>
-</li><li>
-  <a href="/nexus/feature-tours" class="has-child">Feature Tours</a>      <ul class="clearfix sub-menu">
-        <li>
-  <a href="/nexus/feature-tours/firewall-lifecycle-auditor" class="">Firewall, Lifecycle &amp; Auditor</a></li><li>
-  <a href="/nexus/feature-tours/nexus-repository" class="">Nexus Repository</a></li>    </ul>
-</li>    </ul>
-</li><li>
-  <a href="/about" class="has-child">About</a>      <ul class="clearfix sub-menu">
-        <li>
-  <a href="http://www.sonatype.com/get-it-now/new-research" class="">Software Supply Chain Report</a></li><li>
-  <a href="/about/partners" class="has-child">Partners</a>      <ul class="clearfix sub-menu">
-        <li>
-  <a href="/about/partners/strategic-alliances" class="">Strategic Alliances</a></li><li>
-  <a href="/about/partners/business-alliances" class="">Business Alliances</a></li><li>
-  <a href="/about/partners/partner-portal" class="">Partner Portal</a></li>    </ul>
-</li><li>
-  <a href="/about/investors" class="">Investors</a></li><li>
-  <a href="/about/2014-open-source-software-development-survey" class="">2014 Survey</a></li><li>
-  <a href="/about/community-contributions" class="">Community Contributions</a></li><li>
-  <a href="/about/leadership" class="has-child">Leadership</a>      <ul class="clearfix sub-menu">
-        <li>
-  <a href="/about/leadership/executives" class="">Executives</a></li><li>
-  <a href="/about/leadership/board-of-directors" class="">Board of Directors</a></li><li>
-  <a href="/about/leadership/sales-leadership" class="">Sales Leadership</a></li>    </ul>
-</li><li>
-  <a href="/about/raise-the-barr" class="">Raise the B.A.R.R.</a></li><li>
-  <a href="/about/overview" class="">Overview</a></li><li>
-  <a href="/about/careers" class="">Careers</a></li><li>
-  <a href="/about/secure-access-to-central" class="">Secure Access to Central</a></li><li>
-  <a href="/about/media/" class="">Press</a></li><li>
-  <a href="/nexus/customer-experiences" class="has-child">Real World Experiences</a>      <ul class="clearfix sub-menu">
-        <li>
-  <a href="/nexus/customer-experiences/nexus-lifecycle-auditor" class="">Nexus Lifecycle</a></li><li>
-  <a href="/nexus/customer-experiences/nexus-repositories" class="">Nexus Repository</a></li>    </ul>
-</li>    </ul>
-</li>        <li class="span2">
-          <h6>Connect</h6>
-          <div class="footer-social">
-            <a href="http://blog.sonatype.com/people/" target="_blank">
-              <img src="http://www.sonatype.com/system/images/W1siZiIsIjIwMTMvMDkvMjUvMTgvNTQvMTQvMzA1L2ljb25fZm9vdGVyQmxvZy5wbmciXV0/icon_footerBlog.png">
-            </a>
-            <a href="http://twitter.com/Sonatype" target="_blank">
-              <img src="http://www.sonatype.com/system/images/W1siZiIsIjIwMTMvMDkvMjUvMTgvNTQvMTYvNzA3L2ljb25fZm9vdGVyVHdpdHRlci5wbmciXV0/icon_footerTwitter.png">
-            </a>
-            <br>
-            <a href="http://www.sonatype.com/resources/nexus-now-newsletter" target="_blank">
-              <img src="http://www.sonatype.com/system/images/W1siZiIsIjIwMTMvMDkvMjUvMTgvNTQvMTUvMzc0L2ljb25fZm9vdGVyTmV3c2xldHRlci5wbmciXV0/icon_footerNewsletter.png">
-            </a>
-            <a href="http://www.facebook.com/sonatype" target="_blank">
-              <img src="http://www.sonatype.com/system/images/W1siZiIsIjIwMTMvMDkvMjUvMTgvNTQvMTUvMTkwL2ljb25fZm9vdGVyRmFjZWJvb2sucG5nIl1d/icon_footerFacebook.png">
-            </a>
-            <br>
-            <a href="http://www.linkedin.com/company/sonatype" target="_blank">
-              <img src="http://www.sonatype.com/system/images/W1siZiIsIjIwMTMvMDkvMjUvMTgvNTQvMTUvOTM1L2ljb25fZm9vdGVyTGlua2VkaW4ucG5nIl1d/icon_footerLinkedin.png">
-            </a>
-            <a href="http://www.youtube.com/user/sonatype" target="_blank">
-              <img src="http://www.sonatype.com/system/images/W1siZiIsIjIwMTMvMDkvMjUvMTgvNTQvMTYvNzUzL2ljb25fZm9vdGVyWW91dHViZS5wbmciXV0/icon_footerYoutube.png">
-            </a>
-            <br>
-            <a href="https://plus.google.com/117596333621717490325?prsrc=3" rel="publisher" target="_top" style="text-decoration:none;">
-              <img src="//ssl.gstatic.com/images/icons/gplus-32.png" alt="Google+" style="border:0;width:24px;height:24px;">
-            </a>
-          </div>
-        </li>
-      </ul>
-    </div>
-  </div>
-</nav>
+<!-- Start of Async HubSpot Analytics Code -->
+<script type="text/javascript">
+var _hsq = _hsq || [];
+_hsq.push(["setContentType", "standard-page"]);
+_hsq.push(["setCanonicalUrl", "http:\/\/www.sonatype.com\/usage\/privacy-policy"]);
+_hsq.push(["setPageId", "3967400889"]);
+_hsq.push(["setContentMetadata", {
+    "contentPageId": 3967400889,
+    "legacyPageId": "3967400889",
+    "contentGroupId": null,
+    "abTestId": null,
+    "languageVariantId": 3967400889,
+    "languageCode": null
+}]);
+_hsq.push(["setTargetedContentMetadata", []]);
+(function(d,s,i,r) {
+    if (d.getElementById(i)){return;}
+    var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+    n.id=i;n.src='//js.hs-analytics.net/analytics/'+(Math.ceil(new Date()/r)*r)+'/1958393.js';
+    e.parentNode.insertBefore(n, e);
+})(document,"script","hs-analytics",300000);
+</script>
+<!-- End of Async HubSpot Analytics Code -->
 
 
-    <div class="row-fluid">
-      <div class="span12 copyright">
-        <p>
-          <a href="/usage/terms-of-service">Terms of Service</a> &nbsp; <a href="/usage/privacy-policy">Privacy Policy</a><br>
-          Copyright © 2008-2015, Sonatype Inc. All rights reserved. Includes the third-party code 
-          listed here. Sonatype and Sonatype Nexus are trademarks of Sonatype, Inc. Apache Maven 
-          and Maven are trademarks of the Apache Software Foundation. M2Eclipse is a trademark of 
-          the Eclipse Foundation. All other trademarks are the property of their respective owners.
-        </p>
-      </div>
-    </div>
-  </div>
-</div>    </footer>
-
-    
+<script type="text/javascript">
+var hsVars = {
+    ticks: 1463613794820,
+    page_id: 3967400889,
+    content_group_id: 0,
+    portal_id: 1958393,
+    app_hs_base_url: "https://app.hubspot.com"
+}
+</script>
 
 
-<script src="/assets/application-ce6ca22cbd4a73def75871d46997aa86.js" type="text/javascript"></script>
 
-  
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
+  ga('create', 'UA-1693297-38', 'auto');
+  ga('send', 'pageview');
+
+  ga('create', 'UA-1693297-29', 'auto','cdt');
+  ga('cdt.send', 'pageview');
+
+</script>
+
+
+    <!-- Generated by the HubSpot Template Builder - template version 1.03 -->
+
+<!-- end coded_template: id:4014005092 path:generated_layouts/4014005082.html -->
 </body></html>
