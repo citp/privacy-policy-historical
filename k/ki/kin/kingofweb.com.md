@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kingofweb.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608094206id_/http%3A//creatorrepublic.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingofweb.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519001219id_/http%3A//creatorrepublic.com/privacy) for the most accurate reproduction.*
 
-# Creator Republic - Privacy
+# Creator Republic
 
 ## PRIVACY POLICY
 
