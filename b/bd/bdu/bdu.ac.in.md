@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bdu.ac.in privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908104535id_/http%3A//www.bdu.ac.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdu.ac.in privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518213026id_/http%3A//www.bdu.ac.in/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Bharathidasan University, Tiruchirappalli, India
 
