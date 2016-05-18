@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itmatchonline.com privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112100720id_/http%3A//www.itmatchonline.com/itprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itmatchonline.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518095952id_/http%3A//www.itmatchonline.com/itprivacy.php) for the most accurate reproduction.*
 
 # Privacy Policy of Itmatchonline.com
 
