@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rprogramming.net privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029021626id_/http%3A//rprogramming.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rprogramming.net privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518175122id_/http%3A//rprogramming.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RProgramming.net
 
