@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fmanet.org privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213143848id_/http%3A//fmanet.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fmanet.org privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519003109id_/http%3A//fmanet.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Fabricators & Manufacturers Association, International
+# Privacy Policy
 
 Last updated June 13, 2011
 
@@ -24,9 +24,9 @@ We do not collect any personally identifiable information about you other than t
 
 We use the information collected to improve our site, target advertisements or other content on the site to products or services that may be of interest to you. We may share this information with other interested parties from whom we think you may want to receive information. We may also use information we collect to analyze user behavior as a measure of interest in and use of the our websites, and may disclose such analyses to advertisers or other third parties in the form of aggregate data, such as overall patterns or demographic reports that do not describe or identify any individual user. We may disclose information about you to third parties if we have a good-faith belief that we are required to do so by law or legal process, to respond to legal claims, or to protect the our rights, property or safety or the rights, property or safety of others.
 
-### Chat rooms, bulletin boards and other parties
+### User-provided information and other parties
 
-If you provide information in a chat room, on a bulletin board, or to any other party through any of our websites, you should be aware that your information may then be made available to others.
+If you provide information on our websites, or to any other party through any of our websites, you should be aware that your information may then be made available to others.
 
 ### Right to opt out
 
