@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mightytravels.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117200326id_/http%3A//www.mightytravels.com/2013/03/mightytravels-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mightytravels.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518075928id_/http%3A//www.mightytravels.com/2013/03/mightytravels-privacy-policy) for the most accurate reproduction.*
 
 # MightyTravels Privacy Policy | MightyTravels
 
