@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jockey.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026155253id_/http%3A//www.jockey.com/customerservice/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jockey.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518183007id_/http%3A//www.jockey.com/customerservice/privacypolicy) for the most accurate reproduction.*
 
 # Jockey Privacy Policy | Corportate Information | Jockey.com
 
@@ -54,7 +54,7 @@ Generally, Jockey keeps your personal information only as long as it is reasonab
 
 #### How Can I Access and Update My Personal Information?
 
-If you would like to access and update your personal information provided to us, please contact us electronically at: [HTTP://WWW.JOCKEY.COM/CUSTOMERSERVICE/CONTACTUS/](https://web.archive.org/customerservice/contactus) or call us toll free at 1-800- 562-5391 (MON-FRI 8:00-9:00 CST, SAT-SUN 9:30-6:00 CST) or write to us at the postal address provided below. Some of your personal information may also be accessed and updated by visiting the Site and logging into your user profile. 
+If you would like to access and update your personal information provided to us, please contact us electronically at: [HTTP://WWW.JOCKEY.COM/CUSTOMERSERVICE/CONTACTUS/](https://web.archive.org/customerservice/contactus) or call us toll free at 1-800-562-5391 (MON-FRI 8:00 - 9:00 CST, SAT-SUN 9:30 - 6:00 CST) or write to us at the postal address provided below. Some of your personal information may also be accessed and updated by visiting the Site and logging into your user profile. 
 
 #### How Can I Unsubscribe or Opt-Out of Receiving Communications from Jockey?
 
@@ -63,7 +63,7 @@ If you provide us with your e-mail address, mobile phone number or other contact
   * Email: by following the link at the bottom of our e-mail communications.
   * Text Message: by texting "JOCKEY STOP" to 73596 on your mobile device.
   * Internet: by following the link [HTTP://WWW.JOCKEY.COM/CUSTOMERSERVICE/CONTACTUS/](https://web.archive.org/customerservice/contactus)
-  * Phone: by calling us toll free at 1-800-562-5391 (MON-FRI 8:00-9:00 CST, SAT-SUN 9:30-6:00 CST), or
+  * Phone: by calling us toll free at 1-800-562-5391 (MON-FRI 8:00 - 9:00 CST, SAT-SUN 9:30 - 6:00 CST), or
   * Mail: by writing us at:
 
 
@@ -81,7 +81,7 @@ Please note, however, that by unsubscribing to Jockey's communication or by with
 
 We use reputable third parties to help us provide services to you such as fulfilling orders, processing payments, monitoring site activity, conducting surveys, maintaining our loyalty programs, administering e- mails, online and catalog marketing campaigns, and sweepstakes, drawings, or contests. We may also share aggregate purchase behavior with third parties that monitor consumer purchasing trends and product interest. Third parties also provide aggregate, comparative information on the performance of our site to us. We also may share personal information with jockey's wholly owned subsidiaries. 
 
-In addition, we cooperate in advertising member networks with other consumer entities where we may communicate your name, postal address and general purchase information so that other members may inform you about products or services that might interest you. If you prefer to have your name withheld, please contact us electronically at: [HTTP://WWW.JOCKEY.COM/CUSTOMERSERVICE/CONTACTUS/](https://web.archive.org/customerservice/contactus) or call us toll free at: 1-800-562-5391 (MON-FRI 8:00-9:00 CST, SAT-SUN 9:30-6:00 CST) or write to us at the postal address provided above. 
+In addition, we cooperate in advertising member networks with other consumer entities where we may communicate your name, postal address and general purchase information so that other members may inform you about products or services that might interest you. If you prefer to have your name withheld, please contact us electronically at: [HTTP://WWW.JOCKEY.COM/CUSTOMERSERVICE/CONTACTUS/](https://web.archive.org/customerservice/contactus) or call us toll free at: 1-800-562-5391 (MON-FRI 8:00 - 9:00 CST, SAT-SUN 9:30 - 6:00 CST) or write to us at the postal address provided above. 
 
 Please note that we may disclose specific information about you if necessary to do so by law or based on our good faith belief that it is necessary to conform or comply with the law or to protect the users of our Site or the public. 
 
@@ -107,7 +107,7 @@ This Privacy Notice is effective as of the date noted above. We may need to chan
 
 #### Questions or Concerns?
 
-If you have any questions or concerns about Jockey's Privacy Notice, you need further information, or you feel that this Site is not following its stated policy, you are welcome to contact us electronically at: [HTTP://WWW.JOCKEY.COM/CUSTOMERSERVICE/CONTACTUS/](https://web.archive.org/customerservice/contactus) or call us toll free at: 1-800-562-5391 (MON-FRI 8:00-9:00 CST, SAT-SUN 9:30-6:00 CST) or write to us at the postal address provided above. 
+If you have any questions or concerns about Jockey's Privacy Notice, you need further information, or you feel that this Site is not following its stated policy, you are welcome to contact us electronically at: [HTTP://WWW.JOCKEY.COM/CUSTOMERSERVICE/CONTACTUS/](https://web.archive.org/customerservice/contactus) or call us toll free at: 1-800-562-5391 (MON-FRI 8:00 - 9:00 CST, SAT-SUN 9:30 - 6:00 CST) or write to us at the postal address provided above. 
 
 [Contact Us](https://web.archive.org/customerservice/contactus)  
 [Terms of Use](https://web.archive.org/customerservice/termsandconditions)  
@@ -115,4 +115,4 @@ If you have any questions or concerns about Jockey's Privacy Notice, you need fu
 [Request a Jockey® Catalog](https://web.archive.org/shoppingguide/catalogrequest)  
 
 
-©2015 Jockey International, Inc. All Rights Reserved. 
+©2016 Jockey International, Inc. All Rights Reserved. 
