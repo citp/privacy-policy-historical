@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adforum.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105094922id_/http%3A//www.adforum.com/pages/help/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adforum.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518151053id_/http%3A//www.adforum.com/pages/help/Privacy_Policy.html) for the most accurate reproduction.*
 
 # AdForum Privacy Policy
 
-### [Other Privacy Issues](https://web.archive.org/web/20151105094922id_/http%3A//www.adforum.com/pages/help/Privacy_Policy.html?#18)
+### [Other Privacy Issues](https://web.archive.org/web/20160518151053id_/http%3A//www.adforum.com/pages/help/Privacy_Policy.html?#18)
 
 **WHAT INFORMATION WE COLLECT AND WHY**
 
@@ -51,7 +51,7 @@ Our users are given the opportunity to "opt-out" of having their personal inform
 Users who no longer wish to receive our newsletters, e-alerts or promotional materials may opt-out by:   
 \- Removing their email address from our database at: [click here](https://web.archive.org/pages/aboutus/contactus_contactus.html)   
 \- Replying to the email message with the word UNSUBSCRIBE in the subject line   
-\- Sending a letter to MayDream, Information Center, 70 Hudson Street, Office 4B, Hoboken, NJ 07030, USA   
+\- Sending a letter to MayDream, 6W 18th Street, 8th Floor, NY, USA   
 When the user makes an “unsubscribe” request we commit to remove the email address from our mailing lists as soon as possible, and usually before the next mailing. 
 
 ###  4\. Sharing of information
@@ -82,11 +82,11 @@ OpenX, our digital advertising service, also uses cookies to collect information
 
 We provide a way to correct or update user personal data from our records should information change. For a user who no longer desires to be on our mailing list, see our opt-out process.  
 A delay of 3 days applies to corrections and updates of personal information as Maydream attempts to verify the identity of a user requesting such changes to their information before they are made.  
-To correct or update personal information, send an email to our [Customer Support Department](https://web.archive.org/pages/aboutus/contactus_contactus.html) or send a letter to MayDream, Information Center, 70 Hudson Street, Office 4B, Hoboken, NJ 07030, USA. 
+To correct or update personal information, send an email to our [Customer Support Department](https://web.archive.org/pages/aboutus/contactus_contactus.html) or send a letter to MayDream, Information Center, 6W 18th Street, 8th Floor, NY, USA. 
 
 ###  9\. Accessing your information
 
-To review your personal or business information held by Maydream, please [address us an email to this effect](https://web.archive.org/pages/aboutus/contactus_contactus.html) or write to MayDream, Information Center, 80 Park Avenue, Office 3, Hoboken, NJ 07030, USA. We will ensure you are who you claim before we disclose any information. 
+To review your personal or business information held by Maydream, please [address us an email to this effect](https://web.archive.org/pages/aboutus/contactus_contactus.html) or write to MayDream, 6W 18th Street, 8th Floor, NY, USA. We will ensure you are who you claim before we disclose any information. 
 
 ###  1\. Commitment to Data Security
 
