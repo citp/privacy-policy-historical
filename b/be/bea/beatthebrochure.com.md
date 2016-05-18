@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beatthebrochure.com privacy policy that was archived on 2015-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151004101816id_/http%3A//www.beatthebrochure.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beatthebrochure.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518035506id_/http%3A//www.beatthebrochure.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Beat The Brochure - Privacy Policy
 
@@ -93,8 +93,8 @@ Please let us know if the personal information which we hold about you needs to 
 
 **(11) Contact**   
 If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to [**website@beatthebrochure.com** ](mailto:website@beatthebrochure.com)or by post to  
-**Scottish Provident house, 3rd Floor,  
-76-80 College Road, Harrow, HA1 1BQ**. 
+**Holborn Tower,  
+137-144 High Holborn, London, WC1V 6PL**. 
 
 **(12) Data controller**   
 The data controller responsible for our website is **Truly Travel Limited**. 
