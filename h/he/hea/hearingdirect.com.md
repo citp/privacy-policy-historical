@@ -1,123 +1,163 @@
-> *The following text is extracted and transformed from the hearingdirect.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206034300id_/http%3A//www.hearingdirect.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hearingdirect.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518222330id_/http%3A//www.hearingdirect.com/pages/cookies-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - HearingDirect.com ™
+# Cookies & Privacy Policy - HearingDirect.com ™
 
-### 1\. INTRODUCTION
+This privacy policy sets out how we use and protect any information that you give when you use this website. We are committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. We may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
-**PLEASE DO NOT SEND EMAILS OR REGISTER ON THE SITE IF YOU DO NOT WANT THAT INFORMATION TO BE PROCESSED BY US IN THE WAYS DESCRIBED BY THIS NOTICE. BY PROVIDING US WITH INFORMATION ON THE SITE, YOU CONSENT TO THE TRANSFER OF PERSONAL DATA AS DESCRIBED BELOW**
-
-Your privacy is important to us. This Privacy and Cookie Policy explains what information we collect about you and what we do with it. Please take a few minutes to read it.
-
-Hearing Direct Limited ("we") run this site www.hearingdirect.com (the "Site") for visitors who wish to find out more about our business and for visitors who wish to purchase our products ("you") using this Site.
-
-Your access, use of and submission of an order via the Site constitutes your explicit consent to the collection, use and transfer of your personal data, in the manner described in this Privacy & Cookie Policy ("the Policy"). If you disagree with the way we process data collected on the Site, we recommend that you do not use the Site. If you wish to obtain further information about us and/or the contents of this Privacy and Cookie Policy, you can contact us by email or by post.
-
-### 2\. WHAT TYPE OF DATA DO WE COLLECT ABOUT YOU?
-
-Personal data relating to Internet users viewing the Site may be collected through the Site on each of the following occasions:
-
-  * Data regarding navigation may be collected by our web servers or by cookies when you are browsing the Site;
-  * Data regarding your identity and email address may be collected when you send an email to us through the Site (if you choose to do so), for instance via the ‘Contact’ page or where you submit an Order Form in accordance with our Terms and Conditions;
-  * Data regarding your identity may be collected by the Site on registration for online ordering; and
-  * Data regarding your identity or other supporting information that you provide to us, whether by email or post.
-  * Upon collection the personal data will be stored for as long as is reasonably necessary to provide goods and services, including after sales services to you, in accordance with our Terms and Conditions.
-  * Please note, we do not store any financial data including debit/credit card details. Transactional data of this nature is stored securely by an authorised and certified payment services provider.
+  * Information collected by our website
+  * Website Security
+  * An Introduction to cookies
+  * Your consent for cookie deployment by our website.
+  * Cookies used by our website
+  * Actual cookies deployed
+  * How to disable cookies
 
 
 
-### 3\. WHAT IS A COOKIE?
+## Information collected by our website
 
-A cookie is a tiny element of data that is stored on your computer's hard drive by your web browser when you access a website. The Site makes use of the following types of cookie technology:
+    * ### What we collect
 
-  * A "Session cookie", which contains a random ID number automatically allocated to your computer by the webserver for the duration of your visit. It is meant to make your use of the Site faster and easier. It will be deactivated after thirty minutes of inactivity on the Site and will be automatically removed from your computer when you close your browser.
-  * A "Script generated cookie" is automatically allocated to your computer when you register to access any restricted areas of the Site and on each subsequent visit. It only contains an identifier which will enable the Site to identify you as a registered user so that you do not have to identify yourself again while you move from one server to another during your visit. It will remain on your computer after your visit until you remove it. It will be placed again at your next visit.
+For the purpose of making an enquiry or placing an order, our website may collect the following information. Your name and appropriate contact information including email address, address, preferences and interests. Other information relevant to customer surveys and/or offers may also be requested.
 
+    * ### What we do with the information collected
 
+We require this information to understand your needs and provide you with more information for the product(s)/service(s) you have requested. Your information may also be stored in a CRM system for Internal record keeping. We may use the information to improve our products and services. We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests. If at any time you wish for us to cease contacting you with items that may be of interest, please call us on 0800 0321301 or email customerservices@hearingdirect.com.
 
-**Third-Party Cookies**
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee may be payable. If you would like a copy of the information held on you please write to or email us.
 
-We may use third-party advertising companies or affiliates to display advertisements on our website. These third-party advertising companies or affiliates may separately place or recognise a cookie file on your browser in the course of delivering advertisements to the Site. We cannot see the information collected or stored in third party cookies. We do not provide personal data about you to these third party advertisers or affiliates or to any other third party.
-
-You do not have to agree to the use of cookies. For information on how to reject cookies, see below Removing and Disabling Cookies Section. However, in order to use the payment section of the Site, we recommend that you do not block the recording of cookies on your computer.
-
-### 4\. REMOVING AND DISABLING COOKIES
-
-If you don't want us to place cookies on your computer at all, you can set your browser to disable or reject cookies. This will mean that no websites will be able to place cookies on your computer. You can do this by adjusting the preferences within your browser. This may mean, however, that you will not be able to enjoy full use of all parts of the Site.
-
-If you want to remove previously-stored cookies, you can manually delete the cookies at any time. This will not prevent websites from placing further cookies on your computer.  
-To find out exactly how to disable/remove, please go to [http://www.aboutcookies.org/default.aspx](http://www.aboutcookies.org/default.aspx).
-
-### 5\. WHAT WE DO WITH THE INFORMATION WE COLLECT ABOUT YOU
-
-**DATA COLLECTED BY WEB SERVERS AND COOKIES**
-
-The web servers that serve the Site collect the IP address of users who visit the Site, their Site navigation information (page requested, time of request, browser type and server response) as well as the user name if the user has registered to any restricted areas of the site.
-
-This information is regularly aggregated and de-identified so that the number of visits to the Site and its pages, the average time spent on the Site and the pages viewed, etc., can be measured and analysed to improve our product offerings and marketing approach and to improve the Site's content and functionality. This information will not be used to create individual visitors' profiles. We will not track the individual navigation of visitors, except in the very limited cases where a visitor faces navigation problems which require a technical intervention to correct the problem or to detect potential intrusions.
-
-**DATA COLLECTED ON SENDING AN EMAIL TO THE OWNER**
-
-You may want to send an email to us through the Site, for instance via the 'Contact' pages. By doing so, you will provide us with basic information about yourself, such as your email address, telephone numbers, your name and your query.
-
-We will not use the information you provide when sending us emails for purposes other than responding to your message, handling your query or your Order, analysing your feedback and/or suggestions and for improving the Site.
-
-Except if provided to others, as set out below, the supplied data will be kept on the Site's secured servers and computer systems, protected from outside intrusions.
-
-**DATA COLLECTED THROUGH SUBMISSION OF ORDER FORM**
-
-You are required to provide the personal information set out in the Order Form.
-
-This information, as well as your password, is processed by us for the purpose of processing your Order Form, delivery Goods to you and otherwise performing our obligations to you in accordance with our Terms and Conditions. If you do not wish to register, but would still like product or service information, all you need to do is send us an email.
-
-If you specify on the "Cardholder Details" page that you are interested in receiving news from Hearing Direct, your personal data will be used and transferred for direct marketing purposes. Except as expressly stated in this Privacy and Cookies Policy and in our Terms and Conditions we will not send you email messages or junk mail, and your details will not be passed to ANY organisation beyond Hearing Direct without your explicit permission.
-
-### 6\. TRANSFER OF THE DATA COLLECTED VIA THE SITE TO THIRD PARTIES
-
- 
-
-  * Data collected by web servers and cookies are not transferred to any third parties
-  * Data collected on sending an email may be provided, to the extent necessary to handle your Order, to our offices or laboratories (including those of our affiliates, agents or representatives) as well as vendors whose assistance is needed to handle your query
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
 
 
-Data collected through the Site may also be transferred to others from time to time in the following cases as needed to perform the data processing purposes described in this Policy: 
 
-  * at your request, on your order or subject to your prior agreement, to recipients specified by you;
-  * to authorised third parties in compliance with our statutory or regulatory obligations;
-  * to recipients who are operators acting on our behalf in their capacity as agent, authorised proxy, sub-contractor, service provider or in any other capacity, including suppliers in charge of hosting or maintaining the site;
-  * other third party businesses selected by us for the purposes of direct marketing, if you tick in the relevant boxes;
-  * in case of a change of control or acquisition or the whole or part of the assets or business of Hearing Direct Limited, the data collected through this site will be transferred to the acquiring entity.
+## Security
 
+      * ### Website Security
 
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-### 7\. TRANSFERRING YOUR DATA OUTSIDE EUROPE
+      * ### Payment Security
 
-Currently we do not transfer your data outside Europe.
+We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. We will never store your credit/debit card information on our website. All electronic transactions you make to or receive from us will be encrypted using SSL technology via GEOTrust and will be transferred and processed by **Worldpay**. Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet. You are responsible for keeping your password and user details confidential. We will not ask you for your password.
 
-### 8\. SUBJECT ACCESS RIGHTS
+      * ### External Links
 
-At law you have the following rights
-
-  * a subject access right which enables you to be told whether we hold any personal data about you and to obtain a copy of that information;
-  * a right to get personal data relating to you rectified, completed, updated, blocked or erased when incomplete, unclear, obsolete or processed unlawfully;
-  * a right to object to the processing of data relating to you on legitimate grounds and a right to object free of charge to the use of data for solicitation purposes.
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
 
 
-We will comply with such rights as provided under applicable law. If you wish to exercise your subject access right, please contact us in writing at the address set out on the Site with sufficient information to identify yourself and the information you require. We will respond to your request within 40 days. We reserve the right to charge £10 for complying with a subject access request.
 
-### 9\. SECURITY
+## An introduction to cookies
 
-Except if provided to others in the circumstances set out in this Policy, the data supplied by you will be kept on the Site's secured servers and computer systems, protected from outside intrusions.
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-### 10\. LINKS FROM THE WEBSITE TO OTHER WEBSITES
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes.
 
-The Site may contain links to the websites of our business partners, advertisers or other third parties. We do not control the privacy policies or the terms of use of the websites reached through the links from the Site. These may differ from the policy and terms of use of the Site. You will need to determine if they are acceptable to you and your Company. We accept no responsibility for the content or the privacy practices employed by such other websites.
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of our website.
 
-### 11\. CHANGES TO THIS PRIVACY AND COOKIE POLICY
+### Cookies deployed by our website:
 
-We reserve the right to make changes to this Policy from time to time and reserve the right to do so. Any changes to the Policy will appear on this page, which you should check from time to time. By continuing to use the site you are deemed to accept changes to this Policy.
+      * ensure that functionality operates as intended
+      * remember your choices and preferences during and between visits
+      * allow you to share pages via social network widgets like Facebook, Twitter and AddThis
+      * allow you to interact with our website by leaving comments or opinions
+      * post enquiries via our Anti-Spam enquiry form
+      * track your visit for statistical analysis, allowing us to improve the usability, speed and security of our website
 
-### 12\. CONTACTING US
 
-If you have any questions about any aspect of this Policy or want to discuss how we handle your data you can contact us by email or post.
+
+### Cookies are not deployed to:
+
+      * collect any personal identifiable information (without your express permission)
+      * collect any sensitive information (without your express permission)
+      * pass data to advertising networks
+      * pass personally identifiable data to third parties
+      * pay sales commissions
+
+
+
+## Your consent for cookie deployment by our website.
+
+Upon your first visit to our website, you may have noticed our banner alerting you to the use of cookies by our website. In compliance with the 2011 EU Cookie Law, our website operates on an 'Implied Consent' basis. This means that we will assume that you have opted-in for our website to deploy cookies until you choose to deactivate them within your browser settings or via the instructions below. By default, the majority of popular web browsers automatically permit websites to deploy cookies onto your device. Below you can learn more about the specific cookies deployed by our website, and how they can be disabled. For more information on the EU Cookie Law in the UK, we recommend visiting the [Information Commissioner's Office (ICO)](http://www.ico.gov.uk/) website where you can find the latest information, guidelines and advice on the EU Cookie Law.
+
+## Cookies used by our website
+
+      * ### Social Network Sharing
+
+We encourage users to share our content and/or like our on profile on the popular Social Media websites Facebook, Twitter, YouTube, Google+ and LinkedIn. In order to make 'Social Sharing' accessible, our website utilises widgets either provided directly from the Social Networks and/or via amalgamative widgets from third parties such as AddThis. Cookies and privacy implications from the social networks vary and will be dependent on your nominated privacy settings with each Social Network. Social Sharing buttons will only deploy cookies if you are signed to that respective Social Network at the time of being on our website.
+
+      * ### Analytical Tracking
+
+Our website has Google Analytics installed which allows us to track and compile anonymous visitor statistics. The information collected ranges from simple traffic volume to the type of browser you are viewing our website with. This information is valuable to us not just for marketing analysis and quantification, but to improve the usability, security and load speed of our website content. Google Analytics is a popular, secure, flagship webmaster product from Google. The privacy and security of Google Analytics data is a high priority at Google that you can read more about on [Google's Analytics Data Safeguarding page](http://www.google.com/analytics/learn/privacy.html). Google also offer a [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) that will allow you to automatically Opt-out of all websites that track your activity via Google Analytics. No personal information is collected by Google Analytics.
+
+      * ### Cookie Consent Check
+
+As mentioned above, upon your first visit our website displays a banner at the top of the page alerting you about cookies being deployed by our website. In order for our website to remember your choice of opting-in, we store an anonymous cookie to remove the alert banner for 28 days. To prevent this cookie being stored, simply do not accept and close the alert. If you have already accepted the alert and you wish to remove the cookie, please clear your cookies within your browser settings.
+
+      * ### Wordpress
+
+Our website, either in full or in part, is built on the popular open-source CMS framework - WordPress. WordPress utilises cookies to allow visitors to register, login and comment on our website's content. If you do not wish to participate in commenting on our website, Wordpress will not deploy any cookies onto your device. Cookies will only be created by Wordpress if you actively register or comment via the clear forms on our website.
+
+      * ### Magento
+
+Our eCommerce website is built on the popular open-source platform - Magento. Magento and eCommerce platforms in general require the use of several essential cookies for the website to function correctly. A comprehensive list of the 25 cookies Magento may use are detailed in the table below.
+
+      * ### Enquiry Forms
+
+Visitors can choose to contact us via enquiry form(s) on our website. In order to prevent spam enquiries, we protect our forms with a 'CAPTCHA' challenge to ensure the submission is from a living person, rather than a computer bot. This CAPTCHA challenge creates a cookie that is used only to check the input response from the user is correct. The CAPTCHA cookie does not store any other information from your enquiry.
+
+      * ### Google Maps/Places
+
+Our website may have our Google Maps/Places profile embedded within an iframe. Google Maps creates cookies that enable the functionality of their powerful mapping software. No personal information is stored or shared on the cookies deployed by Google Maps/Places
+
+
+
+
+## Actual cookies deployed
+
+Below is a table of information which lists all cookies deployed and used on our website.
+
+Cookie Category| Cookie Name| Cookie Description  
+---|---|---  
+Google | _utma | A Google Analytics cookie, which keeps track of the number of times, a visitor has been to the site, when their first visit was, and when their last visit occurred.  
+_utmb | A Google Analytics cookie, which creates a timestamp of the exact moment when a visitor enters a site.  
+_utmc | A Google Analytics cookie, which creates a timestamp of the exact moment when a visitor leaves the site.  
+_utmv | Used for reporting in Google Analytics classifying the visitor.  
+_utmz | A Google Analytics cookie which tracks where the visitor came from, what search engine was used, what link was clicked on, what keywords used, and where in the world the site was accessed from.  
+PREF, NID | This cookie is set by Google Maps when you load a map of our location  
+AddThis | loc, uid/uit, psc, di/dt, atuvc/bt/ssc/ssh/sshs/xtc | Allows users to share content via Social Networking websites and email  
+WordPress | wp-settings, wp-settings-time- | This cookie verifies if you are logged into the website or not.  
+wordpress_, wordpress_logged_in | WordPress cookie for a logged in user.  
+comment_author, comment_author_email, comment_author_url | When you enter a comment on this site you will be asked to provide certain information about yourself including your name, email and website address.  
+Magento | CART | The association with your shopping cart.  
+CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
+COMPARE | The items that you have in the Compare Products list.  
+CURRENCY | Your preferred currency  
+CUSTOMER | An encrypted version of your customer id with the store.  
+CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
+CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
+CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
+EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
+FRONTEND | You session ID on the server.  
+GUEST-VIEW | Allows guests to edit their orders.  
+LAST_CATEGORY | The last category you visited.  
+LAST_PRODUCT | The most recent product you have viewed.  
+NEWMESSAGE | Indicates whether a new message has been received.  
+NO_CACHE | Indicates whether it is allowed to use cache.  
+PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
+POLL | The ID of any polls you have recently voted in.  
+POLLN | Information on what polls you have voted on.  
+RECENTLYCOMPARED | The items that you have recently compared.  
+STF | Information on products you have emailed to friends.  
+STORE | The store view or language you have selected.  
+USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
+VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
+WISHLIST | An encrypted list of products added to your Wishlist.  
+WISHLIST_CNT | The number of items in your Wishlist.  
+  
+## How to disable cookies
+
+Most modern browsers allow you to control your cookie settings for all websites that you browse. You can disable cookie deployment completely by editing your browser settings, however in doing this you may be limiting the functionality that is displayed on our website. To learn how to disable cookies on your preferred browser we recommend reading [this advice posted by Google](http://support.google.com/accounts/bin/answer.py?hl=en&answer=61416).
+
+If you are concerned about cookies tracking your movements on the Internet then you may be concerned about spyware. Spyware is the name given to a particular band of cookies that track personal information about you. There are many antispyware programs that you can use to prevent this from happening. Learn more about antispyware software - [http://en.wikipedia.org/wiki/Spyware. ](http://en.wikipedia.org/wiki/Spyware "Spyware")As mentioned earlier in this page you can also disable Google Analytics on all websites by downloading the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout).
