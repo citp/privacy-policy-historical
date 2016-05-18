@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animationmagazine.net privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105170334id_/http%3A//www.animationmagazine.net/privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animationmagazine.net privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518234454id_/http%3A//www.animationmagazine.net/privacy-policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
