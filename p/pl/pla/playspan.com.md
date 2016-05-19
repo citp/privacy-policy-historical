@@ -1,95 +1,149 @@
-> *The following text is extracted and transformed from the playspan.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907085358id_/http%3A//www.playspan.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playspan.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519132543id_/http%3A//www.cybersource.com/privacy.html) for the most accurate reproduction.*
 
-# PlaySpan Privacy Policy
+# Privacy Statement - CyberSource
 
-Welcome to PlaySpan. Please read below to learn how we collect, protect and use your data.
+This Privacy Statement was last updated September 3, 2015.
 
-This privacy policy applies to the PlaySpan family of websites including www.PlaySpan.com, www.UltimateGameCard.com, www.PayByCash.com, www.UltimatePay.com and www.SpareChangeInc.com (“PlaySpan”,“we”, or “us”). If you sign up for additional PlaySpan services, there may be additional applies to PlaySpan service offered through the PlaySpan websites. PlaySpan is owned by Visa Inc. (“Visa”) and other Visa products and websites have their own separate privacy policies. The Visa.com privacy policy does not apply to PlaySpan.
+As a leading provider of payment management services to hundreds of thousands of online businesses around the world, privacy and data protection are of the utmost importance to CyberSource Corporation and its subsidiaries, including Authorize.Net LLC, CyberSource Limited, CyberSource NI Ltd., CYBS Singapore Pte. Ltd., CyberSource K.K., CyberSource Payment Solutions Pty Ltd and other subsidiaries (collectively "CyberSource").
 
-This privacy policy was last updated November 16, 2011.
+This Privacy Statement details CyberSource’s policies with respect to the handling of personally identifiable information ("Personal Information") submitted to or otherwise collected by CyberSource via CyberSource's website(s), mobile application(s), and/or in the course of providing its payment processing, payment security and fraud management solutions and services (collectively the “Services”). CyberSource will use and disclose Personal Information in accordance with the terms of this Privacy Statement.
 
-### Information we collect
+## Personal Information we collect: 
 
-We collect Personal Information (this is information which can be used to identify you as an individual) that you provide us when you sign up such as:
+Personal Information is information which can be used to identify an individual. We collect Personal Information any time the Services are used. The Personal Information collected includes information provided to us directly by individuals and that is provided to us by merchants or financial institutions. The collection of Personal Information described herein is necessary for use of the Services. This information includes but is not limited to:
 
-  * You're name
-  * Contact information (including our email)
-  * Financial information including personal account number and checking account number
-  * The name and email addresses of proposed recipients whom you ask us to email on your behalf. PlaySpan does not store the name or email address of any recipients.
-  * Information from Facebook Connect if you choose to connect your Facebook and PlaySpan accounts.
+  * Consumer Name
+  * Contact information (such as email address, phone number, and mailing address)
+  * Order and payment information
 
 
 
-We also collect other information about your visit to our site such as:
+## We collect other information, such as:
 
-  * IP address
-  * What pages you visit on the PlaySpan site
-  * Information about the device you use to access PlaySpan.
-
-
-
-PlaySpan uses cookies and other web tracking technologies placed by us or companies providing services to us for the purposes described below.
-
-We collect or compile non-Personal Information about PlaySpan users such as enrollment numbers or demographic group information on an aggregated and anonymized basis. We may share any non-Personal Information with third parties for any lawful purpose.
-
-### How we use this information
-
-We primarily use this information to provide PlaySpan services to you and to:
-
-  * Fulfill your order and complete transactions including sending notifications to you
-  * Send you information you request about the services
-  * Create a profile for account maintenance
-  * Responding to requests you make
-  * Verify your identity or administer your account
-  * Access social networks
-  * Tailor content, advertisements, and offers we serve you; or provide specialized products and services to you from select partners
-  * Contact you about PlaySpan services including new features and service offerings 
-  * Contact you about other PlaySpan services, if you agree
-  * Analyze usage and generally improve the service
-  * Perform other activities with your consent
-  * Monitoring account activity for fraud
+  * IP address and information about the device used to access the Services
+  * How and which Services are used
+  * Merchant and merchant account information, including account information we may gather from third party sources
+  * Information provided to us through means such as social media or when you contact us through our website
 
 
 
-### Protecting your Personal Information
+We also collect or compile other information about you (such as enrollment numbers or demographic group information) which does not identify you. We may use or share any other information with third parties for any lawful purpose.
 
-The security of your Personal Information is very important to us, and we are committed to protecting the Personal Information we collect. While we cannot guarantee absolute security of your Personal Information, PlaySpan uses firewalls and Secure Socket Layers to help protect the Personal Information we collect from you when it is being communicated to us. Our policies restrict access to Personal Information to those employees and service providers who need to know the information in order to provide you this service. We maintain physical, electronic and procedural safeguards that comply with applicable privacy and data security laws and regulations.
+## Use of Cookies
 
-### How we share personal information
+CyberSource and its third party service providers use certain tools to collect information about users browsing our website. These tools use cookies which are small text files that are stored on a user’s computer hard drive. The cookies are used, among other things, to improve website performance, to provide customized viewing options, to compile statistical reports on website activity, for fraud reduction or for security purposes. We also use cookies to recognize customers or a previous visitor of our website, or to pre-populate website forms. Such information may be disclosed to third parties to provide any of the activities mentioned above on behalf of CyberSource.
 
-We will only share your Personal Information as described in this policy and any supplemental privacy policies for other enrolled PlaySpan services. Specifically, we may share your Personal Information:
+To find out more about cookies, including browser-specific instructions on how to restrict or block cookies, go to [http://www.allaboutcookies.org](http://www.allaboutcookies.org/). Remember, though, without cookies, users may not be able to take full advantage of all of our website features.
 
-  * With other companies and vendors that help us to operate our business. We require that they protect your information and only use it for that purpose
-  * With Merchants for account maintenance purposes
-  * To comply with law or other legal obligations such as responding to subpoenas
-  * To protect our rights or property, or that of our users
-  * To investigate, prevent, or take action regarding potential or suspected illegal activities, fraud, threats to the personal safety of any person, or violations of the PlaySpan terms and conditions
-  * With Visa and other companies that are owned by Visa as allowed by law
-  * With a purchaser of PlaySpan or Visa (or the majority of its assets)
-  * As directed by you
+We may also use locally stored objects (sometimes referred to as “Flash cookies”) for security and fraud detection purposes. Flash cookies are not managed through web browser settings. Please visit Adobe’s Flash Player Help website for help with managing Flash cookies.
+
+## How we use Personal Information
+
+Usage and disclosure of Personal Information varies based on a party’s relationship with CyberSource. CyberSource primarily uses this information to provide the Services and related features and to
+
+  * Facilitate the processing of payment transactions
+  * Respond to requests and inquiries
+  * Provide support services
+  * Send administrative information, such as changes to our terms, conditions, and policies
+  * Administer promotions or contests
+  * Facilitate social sharing functionality
+  * Analyze and monitor Services usage and to make improvements
+  * Help secure the Services, prevent fraud and enforce our policies
+  * Help personalize our Services
+  * Communicate about other CyberSource services or those of our affiliates or other third parties
+  * To make contact, directly or through a third party vendor, to complete a survey or questionnaire
+  * To communicate, directly or through a third party vendor, about CyberSource offerings, about general company news and industry trends, and to address responses to a survey or questionnaire
+  * Compile information for use on an aggregated and de-identified basis
+  * Conduct data analysis and research, audits, develop new products, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities
+  * Perform other activities with consent
 
 
 
-### Your Choices
+## How we share Personal Information
 
-You can configure your browser to reject all cookies, or to notify you when a cookie is set. Each browser is different, so check the “Help” menu of your browser to learn how to change your cookie and privacy preferences. However, if you reject cookies, your use of PlaySpan services may be impaired.You may opt-out of communications other than those related to your transactions by emailing info@playspan.com.
+We will only share Personal Information as described in this policy. Specifically, we may share Personal Information:
 
-### How you can access and edit your Personal Information
+  * As necessary to perform the Services and to complete payment transactions
+  * With companies and vendors that help us to operate our business by providing services such as website hosting, fraud screening, data analysis, information technology and related infrastructure provision, customer service, email delivery, auditing and other similar services
+  * With third parties that have contracted with CyberSource to perform certain functions on our behalf
+  * With third parties sponsors of promotions or contests where consent has been given
+  * To comply with law or other legal obligations such as responding to subpoenas, or other requests from public and government agencies, including laws and other legal obligations outside a party’s country of residence
+  * To protect our rights, operations or property, or that of our users
+  * To investigate, prevent, or take action regarding potential or suspected illegal activities, fraud, threats to the personal safety of any person, or violations of the Service’s terms and conditions
+  * With other companies that control, are controlled by, or are under common control with CyberSource that support the provision of Transaction Services or relationship with a party. This includes its subsidiaries and parent companies
+  * With a purchaser of all or a unit of CyberSource (or the majority of CyberSource’s or its unit’s assets), a merger, acquisition, or internal reorganization of CyberSource or a unit of CyberSource
+  * With consent
 
-You can review and edit your Personal Information at any time by [logging in to your account]. Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, please email info@playspan.com. 
 
-### Children
 
-The PlaySpan Sites are not directed to children under 13. We do not knowingly collect personally identifiable information from anyone under 13 years of age. If we determine upon collection that a user is under this age, we will not use or maintain his/her Personal Information without the parent/guardian’s consent. If we become aware that we have unknowingly collected personally identifiable information from a child under the age of 13, we will make reasonable efforts to delete such information from our records.
+Please note that any information posted to public areas such as on our social media pages may be seen by other visitors.
 
-### Information for customers outside of the United States
+## Choices
 
-The information we collect may be stored in the US. If you live outside of the US, please note that the US may have different laws and requirements about privacy and data use than where you live. By using PlaySpan you are consenting to PlaySpan’s storage and use of this information in the US.
+Users can choose not to provide us Personal Information when you use our website(s) or mobile application(s). However if the information request is not identified as optional and a user chooses to not provide required Personal information, then the user may not be able to use the features of the website or mobile application.
 
-### Changes to this privacy policy
+Users can opt out of receiving promotional email from CyberSource by following the unsubscribe link in those email messages. Users can opt out of receiving SMS text messages from CyberSource by replying STOP to any message.
 
-We may change this privacy policy at any time by posting an updated privacy policy to the site. If we make a material change then you will have a choice as to whether or not we use your information in a different way. Unless you accept the updated privacy policy sooner, changes will be effective 30 days after the “Last Updated” date in the updated privacy policy, and your use of PlaySpan services after the 30 day posting period means you are subject to the updated privacy policy.
+Users can learn more about CyberSource’s use of online behavioral advertising and how it can manage its choices for online behavioral advertising by clicking [here](http://info.evidon.com/pub_info/1169?v=1).
 
-### How to contact PlaySpan regarding your privacy concerns and questions
+Users can configure its browser to reject cookies, or to notify it when a cookie is set. However, if you reject cookies, the Services may not operate properly.
 
-If you have questions or comments about our privacy practices, please email us at [info@playspan.com] or write to us at: Visa U.S.A. Inc., Attention: Global Privacy Office, P.O. Box 8999, Mailstop M4-1SW, San Francisco, CA 94128.
+## Accessing or editing Personal Information
+
+CyberSource may be contacted at the email address at the bottom of this policy to request access to or that we update, or correct the Personal Information collected by our Services. Please note, that consistent with local law, CyberSource may retain Personal Information for auditing purposes, to troubleshoot problems, assist with investigations, enforce our policies or comply with legal requirements. Please note that we are not responsible for permitting the review, or the updating or deleting Personal Information provided to a third party, including any mobile application, social media platform, or wireless service provider.
+
+## Third Parties and Linked services
+
+CyberSource is not responsible for the collection, usage and disclosure policies and practices (including the data security practices) of other organizations, including any Personal Information disclosed to other organizations through or in connection with the Services.
+
+The inclusion of a link on the CyberSource website does not imply endorsement of the linked site or service by CyberSource.
+
+## Changes to this Privacy Policy
+
+We may change this privacy policy at any time by posting an updated privacy policy.
+
+## Retention period
+
+We will retain Personal Information for the period necessary to fulfill the purposes outlined in this policy unless a longer retention period is required or permitted by applicable law or regulation. 
+
+## Use of the Services by minors
+
+The Services are not directed to individuals under the age of thirteen (13), and we request that these individuals do not provide Personal Information through the Services. 
+
+## Notice to European Users
+
+The Data Protection Act puts obligations on users of Personal Information and sets forth principles for its use. One principle states that information must be processed fairly and lawfully. This means that citizens of the European Union are entitled to know how we intend to use Personal Information. Details are publicly available at [www.ico.gov.uk](http://www.ico.gov.uk/) or from:
+
+Information Commissioner's Office  
+Wycliffe House  
+Water Lane  
+Wilmslow  
+Cheshire SK9 5AF  
+Tel: 08456 30 60 60 or 01625 54 57 45  
+Fax: 01625 524510  
+
+
+The Data Protection Act does not generally apply to data about limited companies or partnerships, but it does cover personal data relating to sole traders and partnerships. When we receive an application from a business, we may perform a search with a credit reference agency and fraud prevention agency on the individual company directors or partners.
+
+Personal Information may be processed and stored by CyberSource or its affiliates, service providers or agents located in the United States, Singapore and other countries. By providing Personal Information directly to CyberSource or to its customers, you consent to the transfer of such information outside of the European Union and to its storage and use as described herein.
+
+## How to contact CyberSource regarding your privacy concerns and questions
+
+If you have questions or comments about our privacy practices, or if you want CyberSource to correct your Information that is stored on CyberSource systems, please submit your request in writing to:
+
+CyberSource Corporation  
+P.O. Box 8999  
+San Francisco, CA 94128  
+ATTN: Data Use and Privacy Office  
+Fax: (650) 286-6547
+
+OR
+
+CyberSource Limited  
+P.O. Box 3073  
+Reading RG1 9YB  
+United Kingdom  
+ATTN: Compliance Officer  
+Fax: +44 (0)118 990 7301
+
+Subject to our ability to verify your request, CyberSource will correct the information within thirty (30) days of receipt of your request.
