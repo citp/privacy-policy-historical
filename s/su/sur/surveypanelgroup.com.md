@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveypanelgroup.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023090158id_/http%3A//www.surveypanelgroup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveypanelgroup.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519024743id_/http%3A//surveypanelgroup.com/privacy.php) for the most accurate reproduction.*
 
 # SURVEY PANEL GROUP: Get invitations to the best paid online surveys
 
@@ -103,6 +103,6 @@ We may sell, brand or share your personal information that you supply to us with
 
 Contact Information: 
 
-If you are not in agreement with the terms of this Policy, please unsubscribe from the Survey Panel Group [click here](http://www.surveypanelgroup.com/unsub.php) or write to us at Survey Panel Group, 6800 Koll Center Parkway, Suite No. 170, Pleasanton, CA 94566 and request to be removed. 
+If you are not in agreement with the terms of this Policy, please unsubscribe from the Survey Panel Group [click here](http://www.surveypanelgroup.com/unsub.php) or write to us at Survey Panel Group, 303 Ray Street, Pleasanton, CA 94566 and request to be removed. 
 
-If you feel that Survey Panel Group is not abiding by its posted privacy policy, write us at Survey Panel Group, 6800 Koll Center Parkway, Suite No. 170, Pleasanton, CA 94566. 
+If you feel that Survey Panel Group is not abiding by its posted privacy policy, write us at Survey Panel Group, 303 Ray Street, Pleasanton, CA 94566. 
