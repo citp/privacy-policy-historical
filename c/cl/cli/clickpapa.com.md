@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickpapa.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119045106id_/http%3A//www.clickpapa.com/pages/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickpapa.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519145219id_/https%3A//clickpapa.com/pages/support/privacy) for the most accurate reproduction.*
 
 # ClickPapa.com - Buy and Sell Traffic - Privacy
 
@@ -59,67 +59,3 @@ H-6640 Csongrád, Dózsa György square 18.
 Tax ID: HU24299125 
 
 General info: info@clickpapa.com 
-
-## Latest News
-
-## 
-
-2015-11-16
-
-Mid-November payments are sent out! 
-
-The payments due the middle of November have been successfully sent out to all our Publishers. Cheers!
-
-## 
-
-2015-11-02
-
-October-end payments are Sent 
-
-All payments due end of October have been successfully sent out!
-
-## 
-
-2015-10-16
-
-Mid-October payments are sent out 
-
-That's right! All payments due mid-October have been successfully sent out. Enjoy!
-
-## Upcoming Events
-
-##  2016-03-31 
-
-The Phoenix Forum - Phoenix, AZ, USA - 2016. 03.31-04.03
-
-##  2016-02-29 
-
-The European Summit - Sitges, ES - 2016 02.29-03.03
-
-## Past Events
-
-##  2015-09-22 
-
-The European Summit Fall 2015 - Prague, Sep 22 - 25, 2015
-
-##  2015-09-18 
-
-Webmaster Access - Amsterdam, Sep 18 - 21, 2015
-
-##  2015-03-25 
-
-The Phoenix Forum 2015 - Phoenix, March 25 - 29 2015
-
-##  2015-03-07 
-
-The European Summit spring 2015 - Sitges, March 07 - 10 2015
-
-##  2014-09-22 
-
-The European Summit Fall 2014, Prague
-
-##  2014-09-19 
-
-Webmaster Access 2014, Amsterdam
-
-more
