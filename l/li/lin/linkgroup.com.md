@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the linkgroup.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123085437id_/http%3A//www.linkgroup.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkgroup.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519215251id_/http%3A//www.linkgroup.com/privacy.html) for the most accurate reproduction.*
 
 # Link Group
 
-The Link Group's complete Privacy Policy can be accessed by calling +61 1800 502 355 (free call within Australia), 9am-5pm (Sydney time), Monday to Friday (excluding public holidays) and requesting a copy. This Privacy Statement takes into account changes made by the Privacy Amendment (Enhancing Privacy Protection) Act 2012 and was last updated in March 2014.
+The Link Group's complete Privacy Policy can be accessed by calling +61 1800 502 355 (free call within Australia), 9am-5pm (Sydney time), Monday to Friday (excluding public holidays) and requesting a copy. This Privacy Statement takes into account changes made by the Privacy Amendment (Enhancing Privacy Protection) Act 2012 and was last updated in February 2016.
 
 ### Personal Information Handling Practices
 
@@ -50,7 +50,7 @@ We do not sell personal information, and we do not give personal information to 
 
 The Link Group takes reasonable steps to confirm that third parties with whom we deal, are also compliant with the Privacy Act.
 
-In executing services, activities and functions, where necessary, personal information may be disclosed to third parties and/or related bodies corporate currently located in Australia, India, New Zealand, Papua New Guinea, South Africa, Canada, the United States, the United Kingdom, France, China [Hong Kong] and Germany.
+In executing services, activities and functions, where necessary, personal information may be disclosed to third parties and/or related bodies corporate currently located in Australia, New Zealand, the United Kingdom, France, Germany, Luxembourg, Switzerland, the United States of America, Papua New Guinea, China [Hong Kong], India, United Arab Emirates, South Africa, Canada and the Philippines.
 
 #### Direct Marketing
 
@@ -76,4 +76,4 @@ Link may make changes to the Privacy Statement from time to time, without notice
 
 If you have any questions or if you would like to give us feedback or make a complaint about how we handle your information, contact us by phone on +61 1800 502 355 (free call within Australia), 9am–5pm (Sydney time) Monday to Friday (excluding public holidays); or by email to [privacy.officer@linkgroup.com](mailto:privacy.officer@linkgroup.com) or by mail to, the Privacy Officer, Link Group, Locked Bag A14, Sydney South NSW 1235.
 
-For a printable copy of this statement, please [click here](https://web.archive.org/docs/LG-Privacy-Statement.pdf).
+For a printable copy of the Privacy Policy, please [click here](https://web.archive.org/web/20160519215251id_/http%3A//www.linkgroup.com/docs/Link_Group_Privacy_Policy.pdf).
