@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the campusgroups.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530060219id_/http%3A//all.campusgroups.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campusgroups.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519233205id_/http%3A//www.campusgroups.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement | CampusGroups at CampusGroups
+# Privacy Statement | CampusGroups
 
-Note: "CampusGroups" is a product developed and owned by Novalsys, Inc. All mentions of "CampusGroups" apply to "Novalsys, Inc." as well.
+## Privacy policy
 
-**Last Updated: January 5, 2008**
+****Note:** CampusGroups is a product developed and owned by Novalsys, Inc.   
+All mentions of CampusGroups apply to Novalsys, Inc. as well.**
+
+**Last Updated: January 5, 2015**
 
 Your privacy is our top concern. We work hard to earn and keep your trust, so we adhere to the following principles to protect your privacy:
 
@@ -20,8 +23,7 @@ Your privacy is our top concern. We work hard to earn and keep your trust, so we
   * How the information is used.
   * With whom the information may be shared.
   * How you can access and change your Account information. 
-  * What security procedures are in place to protect the loss, misuse or alteration   
-of information collected by CampusGroups. 
+  * What security procedures are in place to protect the loss, misuse or alteration of information collected by CampusGroups. 
   * How to contact us.
 
 
@@ -70,7 +72,7 @@ It is possible that we may need to disclose personal information when required b
 
 ### Accessing and Changing Your Account Information
 
-You can review the personal information you provided us and make any desired changes to the information, or to the settings for your CampusGroups account, at any time by logging in to your account on the CampusGroups website and editing the information on your Profile page. You can also close your account through the CampusGroups website. If you close your CampusGroups account, we will remove your name and other personally identifiable information from our database. To request that we close your account and remove your information please send your request to [Customer Service](http://www.novalsys.com/contact.aspx). Please send your request using an email account that you have registered with CampusGroups under your name. You will receive a response to requests sent to [Customer Service](http://www.novalsys.com/contact.aspx)[](mailto:customer_service@CampusGroups.com) within three business days of our receiving it.
+You can review the personal information you provided us and make any desired changes to the information, or to the settings for your CampusGroups account, at any time by logging in to your account on the CampusGroups website and editing the information on your Profile page. You can also close your account through the CampusGroups website. If you close your CampusGroups account, we will remove your name and other personally identifiable information from our database. To request that we close your account and remove your information please send your request to [Customer Service](http://www.campusgroups.com/product/contact-us/). Please send your request using an email account that you have registered with CampusGroups under your name. You will receive a response to requests sent to [Customer Service](http://www.campusgroups.com/product/contact-us/)[](mailto:customer_service@CampusGroups.com) within three business days of our receiving it.
 
 ### Security
 
@@ -88,24 +90,15 @@ FERPA gives parents certain rights with respect to their children's education re
 
   * Generally, schools must have written permission from the parent or eligible student in order to release any information from a student's education record. However, FERPA allows schools to disclose those records, without consent, to the following parties or under the following conditions (34 CFR § 99.31):
 
-    * School officials with legitimate educational interest;  
-
-    * Other schools to which a student is transferring;  
-
-    * Specified officials for audit or evaluation purposes;  
-
-    * Appropriate parties in connection with financial aid to a student;  
-
-    * Organizations conducting certain studies for or on behalf of the school;  
-
-    * Accrediting organizations;  
-
-    * To comply with a judicial order or lawfully issued subpoena;   
-
-    * Appropriate officials in cases of health and safety emergencies; and  
-
-    * State and local authorities, within a juvenile justice system, pursuant to specific State law.  
-
+    * School officials with legitimate educational interest; 
+    * Other schools to which a student is transferring; 
+    * Specified officials for audit or evaluation purposes; 
+    * Appropriate parties in connection with financial aid to a student; 
+    * Organizations conducting certain studies for or on behalf of the school; 
+    * Accrediting organizations; 
+    * To comply with a judicial order or lawfully issued subpoena; 
+    * Appropriate officials in cases of health and safety emergencies; and 
+    * State and local authorities, within a juvenile justice system, pursuant to specific State law. 
 
 
 
@@ -118,9 +111,9 @@ CampusGroups may update this privacy policy. In the event there are significant 
 ### Questions or Comments
 
 If you have questions or comments about this privacy policy,   
-please email us at [Customer Service](http://www.novalsys.com/contact.aspx) or contact us at:
+please email us at [Customer Service](http://www.campusgroups.com/product/contact-us/) or contact us at:
 
-Novalsys, Inc.   
-411 Lafayette Street, 6th Floor  
-New York, NY 10003   
-Phone: (707) 922-7351
+Novalsys Inc  
+902 Broadway, 6th Floor  
+New York, NY 10010   
+Phone: +1 (646) 797-3161
