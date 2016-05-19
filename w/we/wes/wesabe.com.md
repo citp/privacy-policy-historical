@@ -1,76 +1,134 @@
-> *The following text is extracted and transformed from the wesabe.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531000752id_/http%3A//www.wesabe.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wesabe.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519165639id_/https%3A//due.com/privacy) for the most accurate reproduction.*
 
-# Wesabe: Privacy Policy
+# Due Privacy Policy
 
-This website is owned and operated by Wesabe, Inc. We have written this policy in order to describe the privacy practices that apply to our web services worldwide, and to explain how we may collect, use, and share information associated with these services.
+Due Inc., knows that you care about how your personal information is used and shared, and we take your privacy seriously. Our primary goal is to provide you with exceptional service (see the [Terms of Use](https://due.com/terms/) for a definition), and we understand that you may have questions or concerns regarding your personal information and how it will be used.
 
-Please take a few minutes to review this policy. If you have any questions or concerns about this policy, please contact us at [support@wesabe.com](mailto:support@wesabe.com).
+To make this privacy policy easy to find, we make it available from home page of the Due website at [https://due.com](https://due.com/) (the "website") and through our mobile applications. You may also email us at [privacy@due.com](mailto:privacy@due.com) with any privacy-related questions you have.
 
-The effective date of this policy is: December 4, 2009.
+#### APPLICABILITY OF PRIVACY POLICY
 
-### Your options
+This privacy policy applies to all information we collect through our web and mobile applications from Due users, including you.
 
-  * **You are in control:** We believe strongly that you should be in control of what happens to your data. We try to offer you choices when we ask for personal information, whenever reasonably possible, and we have created tools that allow you to control the amount of personally identifiable information shared with others.
-  * **User access:** We make a good faith effort to provide you with the ability to correct your personal information at your request. We may, however, be forced to decline requests that are unreasonable, require disproportionate technical effort, jeopardize the privacy of others, are otherwise impractical, or where the information is required to be retained by law or for legitimate business purporses.
-  * **Opt-out:** If you choose, you may decline to provide personal information to us and/or refuse cookies in your browser, although some of our features or services may not function properly as a result. In such cases, we would appreciate an email saying what you don’t like about our privacy practices, and what we can do to improve.
-  * **Deleting your account:** Because we believe that your data is yours, and that you should be able to control it, we also allow you to delete your private data from our servers at any time. Please note that, while some data may be preserved on backups for up to 180 days after it is deleted from our production servers, it will not generally be possible to recover data that is accidentally deleted. Please be careful!
+Throughout this policy, we use the term "personal information" to describe information that can be associated with a specific person and can be used to identify that person. We do not consider personal information to include information that has been anonymized so that it does not identify a specific user.
 
+#### THE INFORMATION WE COLLECT
 
+When you visit the website or use one of our mobile applications, we collect your IP address, and standard web log information, such as your browser type and the pages you accessed on our website. We also may collect certain geo-location information. If you do not agree to our collection of this information, you may not be able to use our Service.
 
-### The Information We Collect
+If you open an account, we collect the following information from you:
 
-  * **Required account information:** The only information Wesabe requires in order to create an account is a username and a valid email address. All other information is completely voluntary. Usernames are used only to identify accounts, and are never shared with anyone. We recommend the use of anonymous email accounts for users who want to increase their anonymity.
-  * **Optional account information:** When creating an account, you may also choose to enter a public name, zip or postal code, and other information about yourself. Entering this information is entirely up to you: while it allows us to provide improved and personalized service, we respect the wishes of those who may wish to remain anonymous.
-  * **Private information:** Some features of Wesabe’s systems allow you to submit private information, including financial statements, transaction details, and access credentials to third-party sites. This information is kept in the strictest confidence, and never shared with anyone without your consent.
-  * **Aggregate information:** Wesabe may combine the anonymous private information of many users together to form aggregate data such as average spending at particular merchants and spending patterns over time. This aggregate information does not identify particular users or otherwise allow anyone to recover sensitive information about individual users. Aggregate information belongs to Wesabe, and is not subject to this privacy policy.
-  * **Publicly posted information:** Wesabe offers a number of ways for you to communicate with other users, including the Tips, Groups, and Wesabe Mail systems. Please keep in mind that information posted on these systems may be public and accessible to others. You should exercise caution when deciding to post personal information in such forums.
-  * **Technical information:** Wesabe servers may record various pieces of technical information, such as IP addresses, browser versions and capabilities, or referring site addresses, whenever you visit one of our sites. Wesabe sites may also store information, known as cookies, in your browser. These pieces of technical information are used to make the site more secure and easier to use, to monitor and troubleshoot performance and reliability issues, and to judge the effectiveness of individual features and marketing campaigns. This technical information is not directly correlated with the personal information of individual users.
-  * **Information about children:** We do not and will not knowingly request personally identifiable information from anyone under the age of 13. Any person who provides their personal information to Wesabe through this website represents that they are 13 years of age or older. (This is consistent with the federal Children’s Online Privacy Protection Act of 1998.)
-  * **Other websites:** This privacy policy applies to websites and services that are owned and operated by Wesabe, Inc. We do not have any control over the websites of third parties that may be linked to from pages on our website, and we cannot be responsible for the actions or policies of such third parties. We encourage you to check the applicable privacy policy of these sites before entering information on them.
+  * Account Information - text-enabled cellular/wireless telephone number, machine or mobile device ID and other similar information.
+  * Identification Information - your name, street address, email address, date of birth, and SSN (or other governmental issued verification numbers).
+  * Device Information - We also may obtain information about you: (a) from your mobile device such as your device type, machine or mobile device identification number, geo-location, time zone, language setting, browser type, and IP address, and (b) from third parties for purposes of transaction processing, identity verification, fraud detection or prevention and other similar purposes. For fraud prevention purposes, we also may link your machine ID with the machines of others who use your same payment cards.
+  * Social Web Information - including but not limited to your Facebook connect credentials (and information that you authorize Facebook share with us though permissions like this [http://developers.facebook.com/images/devsite/auth-dialog-example.png](http://developers.facebook.com/images/devsite/auth-dialog-example.png) ) and email account information. If you authorize Facebook Connect, the plug in allows us access to your friends' contact information. We also allow you to import data from other social web services, including but not limited to Twitter, Google+, Linkedin, email lists and email service providers. Social and e-mail contact information helps you connect to friends and contacts for invitation and payment transmission purposes (as well as helping us improve our services and fight fraud). Additionally, another Due user may mention you in a transaction in which you are not a party to by “tagging” your username in a transaction note. When you are mentioned in a transaction, a link to your Due profile will appear in the transaction note and you will receive a notification about the mentions. You may manage certain contact preferences and notifications in your account settings.
+  * Financial Information - bank account and routing numbers and credit cards linked to your Due account. Due does not share financial information with third party social networking services such as those listed in the prior bullet.
 
 
 
-### How We Use Your Information
+We are committed to providing a safe, secure and all around great service. Therefore, before permitting you to use our Service, we may require additional information from you we can use to verify your identity, address or other information or to manage risk and compliance throughout our relationship. We may also obtain information about you from third parties such as identity verification, fraud prevention and similar services.
 
-  * **Customized content:** We may use personal information to provide the services you’ve requested, including services that display customized content.
-  * **Decision support:** We may use aggregate and non-personally identifiable data to provide the broader Wesabe community with information to make better decisions.
-  * **Keeping in touch:** We may use your personal information to contact you under various circumstances, such as in response to support requests, or to deliver newsletters or alerts that you have requested. You may opt out of any or all of these communications if you so choose.
-  * **Third parties:** We may share non-personally identifiable aggregate data with third parties outside of Wesabe. We may also share personal information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. When we use third parties to assist us in processing your personal information, we require that they strictly comply with our Privacy Policy and any other appropriate confidentiality and security measures. 
+When you are using the Due Service, we collect information about your account transactions and trust relationships and we may collect information about your computer or other access device for fraud prevention and other similar purposes.
 
+Finally, we may collect additional information from or about you in other ways not specifically described here. For example, we may collect information related to your contact with our customer support team or store results when you respond to a survey.
 
+#### INFORMATION FROM CHILDREN
 
-### How We Protect Your Information
+We do not knowingly solicit or collect information from any individuals under the age of 18.
 
-  * **Privacy wall:** The data that you submit to Wesabe is divided into two categories: public and private. Public data is associated with your public persona (i.e., publicly posted information and some forms of optional account information such as public name and user image). Your private data, which includes your bank account and transaction information, is only connected to your public persona by your password, which we never store. Therefore, your private data can only be connected to your user account when you are logged in; when you log out of Wesabe, the connection is completely severed and your privacy protected.
-  * **Anonymization and encryption:** Where feasible, the data that you send to Wesabe is scrubbed of sensitive information (such as account numbers) before processing. When we must store and process sensitive data in order to provide the service, we make extensive efforts to protect that information from unauthorized access, disclosure, alteration, and destruction. These steps include the use of firewalls, network-layer encryption such as SSL, storage-layer encryption, and dedicated monitoring systems.
-  * **No guarantee:** No data transmissions over the Internet can be guaranteed to be 100% secure. We cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we make reasonable efforts to ensure security on our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed.
-  * **Notification:** If Wesabe learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using this website or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of this website. Wesabe may post a notice on our website if a security breach occurs. Wesabe may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at [support@wesabe.com](https://web.archive.org/web/20100531000752id_/http%3A//www.wesabe.com/page/support@wesabe.com). 
+#### HOW WE USE COOKIES
 
+When you access the website, we, or companies we hire to track how our website is used, may place small data files called "cookies" on your computer.
 
+For example, we send a "session cookie" to your computer any time you log in to your Due account. This type of cookie helps us to recognize you if you visit multiple pages on our site during the same session, so that we don't need to ask you for your password on each page.
 
-### International Visitors and Customers
+You are free to decline Due cookies if your browser permits, but doing so may interfere with your use of the website.
 
-  * **Safe Harbor:** This website is hosted in the United States. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that the United States Department of Commerce and the European Commission have agreed on a set of data protection principles (the "Safe Harbor Principles") to enable U.S. Companies to satisfy the requirement under European Union law that adequate protection be given to personal information transferred from the EU to the United States. Wesabe’s privacy policy conforms to these principles, in keeping with our commitment to protecting your privacy.
+#### HOW WE PROTECT & STORE PERSONAL INFORMATION
 
+We store and process your personal information using third party servers located in secure data centers in the United States, This information is protected by physical, electronic and procedural safeguards in compliance with applicable US federal and state regulations. We also use computer safeguards such as firewalls and data encryption, we enforce physical access controls to our office and files, and we authorize access to personal information only for those employees who require it to fulfill their job responsibilities.
 
+We make reasonable efforts to ensure security on our systems. Despite our efforts, we cannot guarantee that personal information may not be accessed, disclosed, altered or destroyed by breach of our administrative, managerial and technical safeguards. Therefore, we urge you to take adequate precautions to protect your personal data as well, including never sharing your Due password with anyone.
 
-### Changes and Updates
+If Due learns of a systems security breach, we may attempt to notify you electronically so that you can take appropriate protective steps. By using the Due Service, you agree that Due may communicate with you electronically. Due may post a notice on the website if a security breach occurs. We may also send an email to you at the email address you have provided to us. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice of a security breach) you should [notify us](https://support.due.com/).
 
-  * **Updates to this policy:** We may occasionally update this policy. When we do, we will also revise the effective date of the policy. If any change to this policy would be significantly less restrictive, we will attempt to obtain your consent before implementing the change.
-  * **Change of control:** If Wesabe is ever sold, merges with another entity, or files for bankruptcy, the information covered by this policy will be considered a Wesabe asset and may be transferred. If any such change of control would result in significantly weaker protections for your data, you will be given the opportunity to opt out of such a transfer.
-  * **Your consent:** Your continued use of this website constitutes your agreement to this privacy policy and any updates.
+#### HOW WE USE THE PERSONAL INFORMATION WE COLLECT
 
+Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, fun and customized experience. We may use your personal information to:
 
-
-### Contacting Us
-
-  * **Questions?** If you have any questions, comments, or concerns about Wesabe or this Privacy Policy, please don't hesitate to contact us. In the event that we are unable to resolve your concerns, Wesabe is committed to to achieving a proper resolution of your privacy concerns through transparent and cooperative measures. 
-
-> Wesabe, Inc.  
->  1 Lombard Street, Suite 303  
->  San Francisco, CA 94111  
->  USA  
->  [support@wesabe.com](mailto:support@wesabe.com)
+  * provide the services and customer support you request;
+  * process transactions and send notices about your transactions or your network activity;
+  * resolve disputes, collect fees, and troubleshoot problems;
+  * prevent potentially fraudulent, prohibited or illegal activities, and enforce our User Agreement;
+  * customize, personalize, measure, and improve our services and the content and layout of our website;
+  * send you updates about new products and services that we are offering to customers
+  * compare information for accuracy and verify it with third parties;
+  * perform other duties as required by law.
 
 
 
+#### HOW WE SHARE PERSONAL INFORMATION WITHIN THE DUE NETWORK
+
+To process payments on Due, we need to share some of your personal information with the person or company that you are paying or is paying you. Your contact information, date of sign-up, the number of payments you have received and other verification metrics like social graph activity may be provided to users or companies when you transact with, on, or through Due.
+
+We work with vendors to enable them to accept payments from you using Due. In doing so, a vendor may share information about you with us, such as your mobile phone number or Due username, when you attempt to pay that vendor. We use this information to confirm to that vendor that you are a Due customer and that the vendor should enable Due as a form of payment for your purchase.
+
+Regardless, we will not disclose your credit card number or bank account number to anyone you have paid or who has paid you through Due, except with your express permission or if we are required to do so to comply with a subpoena or other legal process.
+
+#### HOW WE SHARE PERSONAL INFORMATION WITH OTHER PARTIES
+
+Due does not share your personal information with third parties for promotional or marketing purposes.
+
+We may share your personal information with:
+
+  * Our parent company, Due Inc. and affiliates and subsidiaries it controls, but only for purposes allowed by this document.
+  * Companies that Due Inc. plans to merge with or be acquired by or, in the event of any bankruptcy, a bankruptcy estate. Should such a combination occur, we will require that the new combined entity follow this privacy policy with respect to your personal information. If your personal information could be used contrary to this policy, you will receive prior notice and the opportunity to communicate preferences you may have, if applicable.
+  * Law enforcement, government officials, or other third parties if Due is compelled to do so by a subpoena, court order or similar legal procedure, when it is necessary to do so to comply with law, or where the disclosure of personal information is reasonably necessary to prevent physical harm or financial loss, to report suspected illegal activity, or to investigate violations of the Due User Agreement, or as otherwise required by law.
+  * Third party service providers who assist us in providing services to you or who provide fraud detection or similar services on our [or any vendor's] behalf.
+  * Your social web, if your Due account transactions are designated as "public" or ͞friends-only͟ payments such that other Due users can view your payments or when you otherwise request Due payments be posted to your social web. You may access our privacy controls to designate that all of your payments default to private as well. When you broadcast information to third-party services, such information is no longer under the control of Due and is subject to the terms of use and privacy policies of such third parties. Due does not send your personal information to third-party social networks unless you have specifically requested or authorized us to do so.
+  * Service providers under contract who help with parts of our business operations (for example, fraud prevention, payment processing, or technology services); Our contracts dictate that these service providers only use your information in connection with the services they perform for us and not for their own benefit.
+  * Other third parties with your consent or at your direction to do so.
+
+
+
+#### HOW YOU CAN ACCESS OR CHANGE YOUR PERSONAL INFORMATION
+
+You can review and update your personal information in your account settings at any time by logging in to your account.
+
+#### LINKS TO OTHER SITES
+
+The website may contain links to other sites. Due does not control the information collection of sites that can be reached through links from the website. We encourage our users to be aware when they are leaving the website and to read the privacy statements of any site that collects personally identifiable information.
+
+**Cookie Policy**
+
+Like many other websites, we may place small data files on your computer or other device. These data files may be cookies, pixel tags, or other local storage provided by your browser or associated applications. We use these technologies to:
+
+  * Recognize you as a customer.
+  * Customize our Services, content, advertising, marketing, and targeting, and measure their effectiveness.
+  * Help ensure that your account security is not compromised, mitigate risk and prevent fraud, and promote trust and safety across our Website and the Services.
+
+
+
+We may use both session and persistent cookies. Session cookies expire and no longer have any effect when you log out of your account or close your browser. Persistent cookies remain on your device until you erase them or they expire. We may tie the information gathered to our users' personally identifiable information.
+
+Some browsers make it possible for you to signal that you don’t want your internet browsing activity to be tracked. There is currently no consensus on how to best honor these signals, so we don’t respond to “do not track” requests at this time. Declining our cookies may interfere with your use of our Services.
+
+Our third-party partners also may employ cookies. The use of cookies by others is not covered by this Privacy Policy.
+
+#### HOW WE PROTECT YOUR INFORMATION
+
+We and our [cloud provider](https://aws.amazon.com/privacy/) protect your information using physical, technical, and administrative security measures to reduce the risks of loss, misuse, unauthorized access, disclosure, and alteration. Safeguards include firewalls and data encryption, physical access controls to the data centers, and information access authorization controls.
+
+When you enter financial information (such as a payment card number or your bank account information) on our Services, we encrypt the transmission of that information using secure socket layer technology (SSL).
+
+To the extent we transmit and store your cardholder data, we do so under the most stringent credit card security standard: PCI Compliance Level 1. A PCI-certified auditor verified and awarded us this level of security and compliance.
+
+We work hard to secure your data, but nobody is perfect. If you discover a vulnerability in our Services, we would be grateful for your report and encourage you to let us know immediately. To report a bug, please email [privacy@due.com](mailto:privacy@due.com).
+
+#### CHANGES TO OUR PRIVACY POLICY
+
+Due is always improving. As the Due service evolves we may occasionally update this privacy policy. If we make material changes in the way we use personal information, we will notify you by posting an announcement on our service or by sending you an e-mail. It is your responsibility to periodically review this privacy policy;users are bound by any changes to the privacy policy by using the service after such changes have been first posted.
+
+#### HOW TO CONTACT US
+
+If you have questions or concerns regarding this privacy policy, or any feedback pertaining to your privacy and the Due service that you would like us to consider, please email us at [privacy@due.com](mailto:privacy@due.com).
