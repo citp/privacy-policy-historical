@@ -1,0 +1,1489 @@
+<!--The following is the downloaded HTML source of the buycott.com privacy policy that was archived on 2016-05-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160519234729id_/http%3A//buycott.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, minimum-scale=1, maximum-scale=1" name="viewport">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<script src="https://d37gvrvc0wt4s1.cloudfront.net/js/v1.7/rollbar.min.js" async=""></script><script src="https://js-agent.newrelic.com/nr-943.min.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"fbf356cade","applicationID":"4160744","transactionName":"J1daTUUNDVtURhsFFBRUXVpWFghYXxscCxAMXUYQ","queueTime":0,"applicationTime":23,"ttGuid":"","agentToken":null,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwcGVVZSGwcBUlFVAwU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-943.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="https://s3.amazonaws.com/buycott/assets/buycott.ico">
+    <link rel="canonical" href="https://www.buycott.com/privacy">
+    <meta name="apple-itunes-app" content="app-id=585933440">
+    <meta name="google-play-app" content="app-id=com.buycott.android">
+    <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/dibdgehbbgcoppenlabblkahneeocojb">
+
+    <link href="/assets/custom-23e4c53023ffa7540090c55a9b70df55.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="/assets/admin-1d4e47edd99bd856c254c20f909865de.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="/assets/flexslider-fba372db8c5c2736603a0c3da2bac641.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="/assets/bootstrap.min-a0c0577d65a0d75008b9bedb6f8e0b20.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="/assets/bootstrap-theme.min-6cf2199faa64997c4f566b3e62a29290.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="/assets/font-awesome-372bb4510b35201419b6325b9fc1d888.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="/assets/goalProgress-86bdf35781a966040ccc7f01883cacb3.css" media="screen" rel="stylesheet" type="text/css">
+
+    <script src="/assets/jquery1.11.1-9ceb2d56bbcc2acc3d562e43ed5db786.js" type="text/javascript"></script>
+    <script src="/assets/html5-c1e3228a1aabd86e85eb92240575486a.js" type="text/javascript"></script>
+    <script src="/assets/jquery.flexslider-min-9f26fb72e7ae38f1375c4417d2be2d15.js" type="text/javascript"></script>
+    <script src="/assets/bootstrap.min-ba0dc42306ac18979b0853d809bc6510.js" type="text/javascript"></script>    
+    <script src="/assets/validator-2a3c53ddbf1c5e1e56e2baec6f5ced77.js" type="text/javascript"></script>    
+    <script src="/assets/goalProgress.min-7047ff0473ba14f79dd7fc0b161312cf.js" type="text/javascript"></script>    
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-36077937-2', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+    <script>
+      var _rollbarConfig = {
+          accessToken: "7faced0f386a46f89bd575f0abb6e4c8",
+          captureUncaught: true,
+          payload: {
+              environment: "test"
+          }
+      };
+      !function(r){function o(e){if(t[e])return t[e].exports;var n=t[e]={exports:{},id:e,loaded:!1};return r[e].call(n.exports,n,n.exports,o),n.loaded=!0,n.exports}var t={};return o.m=r,o.c=t,o.p="",o(0)}([function(r,o,t){"use strict";var e=t(1).Rollbar,n=t(2),i="https://d37gvrvc0wt4s1.cloudfront.net/js/v1.7/rollbar.min.js";_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||i;var a=e.init(window,_rollbarConfig),l=n(a,_rollbarConfig);a.loadFull(window,document,!1,_rollbarConfig,l)},function(r,o,t){"use strict";function e(r){this.shimId=++s,this.notifier=null,this.parentShim=r,this.logger=function(){},window.console&&void 0===window.console.shimId&&(this.logger=window.console.log)}function n(r,o,t){window._rollbarWrappedError&&(t[4]||(t[4]=window._rollbarWrappedError),t[5]||(t[5]=window._rollbarWrappedError._rollbarContext),window._rollbarWrappedError=null),r.uncaughtError.apply(r,t),o&&o.apply(window,t)}function i(r){var o=e;return l(function(){if(this.notifier)return this.notifier[r].apply(this.notifier,arguments);var t=this,e="scope"===r;e&&(t=new o(this));var n=Array.prototype.slice.call(arguments,0),i={shim:t,method:r,args:n,ts:new Date};return window._rollbarShimQueue.push(i),e?t:void 0})}function a(r,o){if(o.hasOwnProperty&&o.hasOwnProperty("addEventListener")){var t=o.addEventListener;o.addEventListener=function(o,e,n){t.call(this,o,r.wrap(e),n)};var e=o.removeEventListener;o.removeEventListener=function(r,o,t){e.call(this,r,o&&o._wrapped?o._wrapped:o,t)}}}function l(r,o){return o=o||window.console.log||function(){},function(){try{return r.apply(this,arguments)}catch(t){o("Rollbar internal error:",t)}}}var s=0;e.init=function(r,o){var t=o.globalAlias||"Rollbar";if("object"==typeof r[t])return r[t];r._rollbarShimQueue=[],r._rollbarWrappedError=null,o=o||{};var i=new e;return l(function(){if(i.configure(o),o.captureUncaught){var e=r.onerror;r.onerror=function(){var r=Array.prototype.slice.call(arguments,0);n(i,e,r)};var l,s,u="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(l=0;l<u.length;++l)s=u[l],r[s]&&r[s].prototype&&a(i,r[s].prototype)}return r[t]=i,i},i.logger)()},e.prototype.loadFull=function(r,o,t,e,n){var i=l(function(){var r=o.createElement("script"),n=o.getElementsByTagName("script")[0];r.src=e.rollbarJsUrl,r.async=!t,r.onload=a,n.parentNode.insertBefore(r,n)},this.logger),a=l(function(){var o;if(void 0===r._rollbarPayloadQueue){var t,e,i,a;for(o=new Error("rollbar.js did not load");t=r._rollbarShimQueue.shift();)for(i=t.args,a=0;a<i.length;++a)if(e=i[a],"function"==typeof e){e(o);break}}"function"==typeof n&&n(o)},this.logger);l(function(){t?i():r.addEventListener?r.addEventListener("load",i,!1):r.attachEvent("onload",i)},this.logger)()},e.prototype.wrap=function(r,o){try{var t;if(t="function"==typeof o?o:function(){return o||{}},"function"!=typeof r)return r;if(r._isWrap)return r;if(!r._wrapped){r._wrapped=function(){try{return r.apply(this,arguments)}catch(o){throw o._rollbarContext=t()||{},o._rollbarContext._wrappedSource=r.toString(),window._rollbarWrappedError=o,o}},r._wrapped._isWrap=!0;for(var e in r)r.hasOwnProperty(e)&&(r._wrapped[e]=r[e])}return r._wrapped}catch(n){return r}};for(var u="log,debug,info,warn,warning,error,critical,global,configure,scope,uncaughtError".split(","),p=0;p<u.length;++p)e.prototype[u[p]]=i(u[p]);r.exports={Rollbar:e,_rollbarWindowOnError:n}},function(r,o,t){"use strict";r.exports=function(r,o){return function(t){if(!t&&!window._rollbarInitialized){var e=window.RollbarNotifier,n=o||{},i=n.globalAlias||"Rollbar",a=window.Rollbar.init(n,r);a._processShimQueue(window._rollbarShimQueue||[]),window[i]=a,window._rollbarInitialized=!0,e.processPayloads()}}}}]);
+      </script>
+    
+      <title>Privacy Policy | Buycott</title>
+
+  </head>
+
+  <body>
+      <header>
+  <div class="full-header">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-3 col-sm-3">
+          <div class="row">
+            <h1 class="logo"> <a href="/"><img src="/assets/logo-7800944901041f2e792abc95b007fb2e.png" alt="Buycott" title="buycott"></a> </h1>
+          </div>
+        </div>
+        <div class="col-md-9 col-sm-9">
+          <div class="row">
+            <div class="navigation">
+              <button aria-expanded="false" aria-controls="bs-navbar" data-target="#bs-navbar" data-toggle="collapse" type="button" class="navbar-toggle collapsed"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+              <nav class="collapse navbar-collapse" id="bs-navbar">
+                <ul>
+                  <li class="search"><a href="/search">Search</a></li>
+                  <li class="campaigns"><a href="/campaign/browse">Campaigns</a></li>
+                  <!-- <li class="extension" id="download_chrome_extensions"><a href="#" title="Get Chrome Extension">Chrome Extension</a></li> -->
+                  <li class="signup"><a href="#" title="Sign Up" data-toggle="modal" data-target="#signupModal">Sign Up</a></li>
+                </ul>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- Modal -->
+<div class="modal fade" id="signupModal" role="dialog">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content user-account-modal">
+      <!--- Sign Up start here -->
+      <div class="sign_up_popup col-md-offset-2 col-sm-offset-2">
+        <div class="col-md-6 col-sm-6 ">
+          <div id="divSignup" class="sing_up_text">
+          <h4>Sign up</h4>
+          <form data-toggle="validator" role="form" novalidate="true">
+            <div id="sigupForm" method="post" class="form-horizontal" role="form" data-toggle="validator">
+              <div class="form-group">
+                <input type="text" class="form-control" placeholder="Full name" id="user_name" name="user[name]" required="">
+                <span class="help-block with-errors form_error"></span>
+                <div class="popover right">
+                  <div class="arrow"></div>
+                </div>
+              </div>
+              <div class="form-group">
+                <input type="text" class="form-control" placeholder="Username" id="user_username" name="user[username]" required="" data-minlength="3" data-remote="/user/username/checklive">
+                <span class="help-block with-errors form_error" id="username_validation_error"></span>
+                <div class="popover right">
+                  <div class="arrow"></div>
+                </div>
+                <div class="form_process">
+                  <span id="val_spin" style="display:none;"><img src="/assets/spin.png" border="0"></span>
+                  <span id="val_true" style="display:none;"><img src="/assets/right.png" border="0"></span>
+                  <span id="val_false" style="display:none;"><img src="/assets/wrong.png" border="0"></span>
+                </div>
+              </div>
+              <div class="form-group">
+                <input type="email" class="form-control" placeholder="Email" id="signup_user_email" name="user[email]" required="" data-error="That email address is invalid">
+                <span class="help-block with-errors form_error"></span>
+                <div class="popover right">
+                  <div class="arrow"></div>
+                </div>
+              </div>
+              <div class="form-group">
+                <input type="password" class="form-control" placeholder="Password" id="signup_password" name="user[password_confirmation]" data-minlength="8" required="" data-error="Minimum of 8 characters">
+                <span class="help-block with-errors form_error"></span>
+                <div class="popover right">
+                  <div class="arrow"></div>
+                </div>
+              </div>
+              <div class="form-group">
+                <span class="help-block with-errors"></span> 
+                <button type="submit" class="btn create_account green_button" id="create_account" data-style="expand-right">Create Account
+                  <div class="green_spinner display_none"></div>
+                </button>
+              </div>
+              <script src="/assets/simple.placeholder-e5883019d41c2ba4a186c425a9460594.js" type="text/javascript"></script>
+            </div>
+          </form></div>
+          
+          <div id="divSignin" class="sing_up_text" style="display: none;">
+            <h4>Sign in</h4>
+            <form data-toggle="validator" role="form" novalidate="true">
+              <div id="siginForm" method="post" class="form-horizontal" role="form" data-toggle="validator">
+                <div class="form-group">
+                  <input type="email" class="form-control" placeholder="Email" id="login_email" name="user[email]" required="" data-error="That email address is invalid">
+                  <span class="help-block with-errors form_error"></span>
+                  <div class="popover right">
+                    <div class="arrow"></div>
+                  </div>
+                </div>
+                <div class="form-group">
+                  <input type="password" class="form-control" placeholder="Password" id="login_password" name="user[password_confirmation]" data-minlength="8" required="" data-error="Minimum of 8 characters">
+                  <span class="help-block with-errors form_error"></span>
+                  <div class="popover right">
+                    <div class="arrow"></div>
+                  </div>
+                </div>
+                <meta content="authenticity_token" name="csrf-param">
+<meta content="41ZDmqJtSJyNR18P/wn37M/iz/XZUMFCQtX0Jfw4Zos=" name="csrf-token">
+                <div class="form-group">
+                  <span class="help-block with-errors "></span> 
+                  <button type="submit" class="btn create_account green_button" data-style="expand-right" id="sign_in_button" name="commit">Sign in
+                    <div class="green_spinner display_none"></div>
+                  </button>
+                  <a style="position: relative; top: 15px; font-family: 'Biko-Light';" href="/password/new" class="forgot">Forgot password?</a>
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+        <div class="col-md-6 col-sm-6">
+          <div class="sing_up_text">
+            <h4>Easier Sign Up</h4>
+            <a class="sign_up_fb" href="#">Sign up with Facebook</a> <a class="sing_up_twitter" href="/auth/twitter">Sign up with Twitter</a>
+            <p>Already have an account?</p>
+            <a class="sign_up_email form_toggler" id="link_signup_text" href="#">Sign in with email</a> </div>
+        </div>
+        <div class="sing_up_text_bottom">
+          <a href="/terms">Terms of Service</a>
+        </div>
+      </div>
+      <!--- Sign Up end here -->
+    </div>
+  </div>
+</div>
+<!-- Facebook post-sign-in modal -->
+<div class="modal fade" id="facebook_sign_in_modal" role="dialog">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content user-account-modal">
+      <!--- Sign Up start here -->
+      <div class="sign_up_popup col-md-offset-2 col-sm-offset-2">
+        <div class="col-md-8 col-sm-8 col-sm-offset-2">
+          <div class="sing_up_text">
+          <h4>Sign up With Facebook</h4>
+          <form data-toggle="validator" role="form" novalidate="true">
+            <div id="sigupFormFb" method="post" class="form-horizontal" role="form" data-toggle="validator">
+              <div class="form-group">
+                <input type="text" class="form-control" placeholder="Full name" id="facebook_user_name" name="user[name]" required="">
+                <span class="help-block with-errors form_error"></span>
+                <div class="popover right">
+                  <div class="arrow"></div>
+                </div>
+              </div>
+              <div class="form-group">
+                <input type="text" class="form-control" placeholder="Enter username" id="facebook_user_username" name="user[username]" required="" data-minlength="3" data-remote="/user/username/checklive">
+                <span class="help-block with-errors form_error" id="username_validation_error"></span>
+                <div class="form_process">
+                  <span id="val_spin" style="display:none;"><img src="/assets/spin.png" border="0"></span>
+                  <span id="val_true" style="display:none;"><img src="/assets/right.png" border="0"></span>
+                  <span id="val_false" style="display:none;"><img src="/assets/wrong.png" border="0"></span>
+                </div>
+              </div>
+              <div class="form-group">
+                <input type="email" class="form-control" placeholder="Email" id="facebook_signup_user_email" name="user[email]" required="" data-error="That email address is invalid">
+                <span class="help-block with-errors form_error"></span>
+              </div>
+              <div class="form-group">
+                <input type="password" class="form-control" placeholder="Password" id="facebook_signup_password" name="user[password_confirmation]" data-minlength="8" required="" data-error="Minimum of 8 characters">
+                <span class="help-block with-errors form_error"></span>
+              </div>
+              <div class="form-group"> <span id="create_account_error_message" class="help-block with-errors"></span>
+                <button type="submit" class="btn create_account green_button" id="facebook_create_account" data-style="expand-right">Create Account
+                <div class="green_spinner display_none"></div>
+                </button>
+              </div>
+            </div>
+            </form></div>
+          
+        </div>
+        <div class="sing_up_text_bottom">
+          <a href="/terms">Terms of Service</a>
+        </div>
+      </div>
+      <!--- Sign Up end here -->
+    </div>
+  </div>
+</div>
+
+
+
+
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '392922624123779',
+      xfbml      : true,
+      cookie    : true,
+      status    : true,
+      oauth     : true,
+      version    : 'v2.2'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+
+  function fbLoginWithPermissions(permissionsToRequest, meCallback, permissionsCallback, errorCallback){
+    FB.login(function(response) {
+      // handle the response
+      if(response.status == "connected"){
+        var accessToken = response.authResponse.accessToken;
+        var expiresIn = response.authResponse.expiresIn;
+        facebookLoginResponse = response;
+        FB.api('/me','get', { access_token: accessToken, fields: 'id,name,email,gender,picture' }, function(r){
+          meCallback(r, response.authResponse);
+          FB.api("/me/permissions", function (permissionsResponse) {
+            var perms = [];
+            if (permissionsResponse && !permissionsResponse.error) { 
+              $.each(permissionsResponse.data, function(index, item){
+                if(item.status=="granted"){
+                  perms.push(item.permission);
+                }
+              });
+            }
+            permissionsCallback(perms);
+          });
+        });
+      }
+      else{
+        errorCallback(response);
+      }
+    }, {scope: permissionsToRequest, return_scopes: true, default_audience: 'everyone'});
+    return false;
+  }
+</script>
+
+
+
+
+
+
+
+<script>
+function toggleSignup(){
+  if($('#divSignin').css('display') != 'none'){
+    $('#divSignin').hide();
+    $('#divSignup').show();
+    $('#link_signup_text').text('Sign in with email');
+  }else{
+    $('#divSignup').hide();
+    $('#divSignin').show();
+    $('#link_signup_text').text('Sign up with email');
+  }
+}
+
+var facebookLoginResponse = null;
+var facebookPermissions = [];
+function enableLoadingState(button){
+  $(button).find(".green_spinner").removeClass("display_none");
+  $(button).addClass("disabled");
+}
+function disableLoadingState(button){
+  $(button).find(".green_spinner").addClass("display_none");
+  $(button).removeClass("disabled");
+}
+$(document).ready(function() {
+  $(".form_toggler").on("click", function(e){
+    e.preventDefault();
+    toggleSignup();
+  });
+  $("#sign_in_button").on("click", function(event){
+    event.preventDefault();
+    enableLoadingState(this);
+    var self = this
+    var params = {"email": $("#login_email").val(), "password":$("#login_password").val()};
+    $.ajax({
+        url: "/user/login",
+        type: 'POST',
+        beforeSend: function(xhr) {
+            xhr.setRequestHeader('X-CSRF-Token', $('meta[name="csrf-token"]').attr('content'));
+        },
+        data: params,
+        success: function(response) {
+          //alert(response);
+          if(response.success){
+            //alert("logged in");
+            location.reload(true);
+          }
+          else{
+            $(self).parents('.form-group').find(".with-errors").html(response.message);
+            disableLoadingState(self);
+          }
+        },
+        error: function(response) {
+          disableLoadingState(self);
+        }
+    });
+  });
+
+  $("#create_account").on("click", function(event){
+    event.preventDefault();
+    var self = this;
+    enableLoadingState(self);
+    var params = {"email": $("#signup_user_email").val(), "password":$("#signup_password").val(), "name": $("#user_name").val(), "username": $("#user_username").val()};
+    $.ajax({
+        url: "/user/create",
+        type: 'POST',
+        beforeSend: function(xhr) {
+            xhr.setRequestHeader('X-CSRF-Token', $('meta[name="csrf-token"]').attr('content'));
+        },
+        data: params,
+        success: function(response) {
+          //alert(response);
+          if(response.success){
+            //alert("logged in");
+            location.reload(true);
+          }
+          else{
+            $(self).parents('.form-group').find(".with-errors").html(response.message);
+            disableLoadingState(self);
+          }
+
+        },
+        error: function(response) {
+          disableLoadingState(self);
+        }
+    });
+  });
+
+  $(".campaign_not_joined_not_member").on("click", function(event){
+    $("#signupModal").modal("show");
+  });
+
+
+
+  //FB Login
+  $(".sign_up_fb, .facebook_login").on("click", function(event){
+    event.preventDefault();
+    
+    fbLoginWithPermissions(
+      'public_profile,email,user_friends', 
+      function(meResponse) {
+          $("#signupModal").modal("hide")
+          $("#facebook_user_name").val(meResponse.name);
+          $("#facebook_signup_user_email").val(meResponse.email);
+          $("#facebook_sign_in_modal").modal("show");
+      },
+      function(permissionsGranted){
+        facebookPermissions = permissionsGranted;
+      },
+      function(error){
+        console.log("facebook login error");
+      });
+
+  });
+
+
+  $("#facebook_create_account").on("click", function(event){
+    event.preventDefault();
+    var self = this;
+
+    enableLoadingState(self);
+    //Create account with fb details
+    var expiresAt = parseInt((((new Date().getTime())/1000)+ facebookLoginResponse.authResponse.expiresIn ));
+
+    var email = $("#facebook_signup_user_email").val();
+    var params = {"permissions":JSON.stringify(facebookPermissions), "fbuid": facebookLoginResponse.authResponse.userID, "expires_at": expiresAt, "access_token": facebookLoginResponse.authResponse.accessToken, "email": email, "password":$("#facebook_signup_password").val(), "name": $("#facebook_user_name").val(), "username": $("#facebook_user_username").val()};
+
+    if(email && email.length > 0){
+
+        $.ajax({
+          url: "/user/create/facebook",
+          type: 'POST',
+          beforeSend: function(xhr) {
+              xhr.setRequestHeader('X-CSRF-Token', $('meta[name="csrf-token"]').attr('content'));
+          },
+          data: params,
+          success: function(response) {
+
+            if(response.success){
+              location.reload(true);
+            }
+            else{
+              disableLoadingState(self);
+              var message = response.message;
+              if(response.status == 1){
+                message += '<br/><a href="/password/new" class="forgot">Forgot password?</a>';
+              }
+              $("#create_account_error_message").html(message);
+            }
+          },
+          error: function(response) {
+            disableLoadingState(self);
+          }
+      });
+    }
+    else{
+
+    }
+
+  });
+
+
+  });
+
+
+</script>
+
+
+
+<div class="clear"></div>
+
+
+            <style>
+        
+        #terms *{
+          font-family: "Biko" !important;
+          line-height: 28px;
+        }
+        #terms a{
+          color: #48b9a7;
+        }
+
+        </style>
+
+
+
+
+<section id="terms">
+  <div class="full_wrapper">
+    <div class="container">
+      <div class="row">
+        <div class="page-title">
+          <h2>Privacy Policy</h2>
+        </div>
+            <div>
+
+    <style type="text/css">
+        @import url('https://themes.googleusercontent.com/fonts/css?kit=wAPX1HepqA24RkYW1AuHYA');
+        ol.lst-kix_list_3-1 {
+            list-style-type: none
+        }
+        ol.lst-kix_list_3-2 {
+            list-style-type: none
+        }
+        .lst-kix_list_3-1>li {
+            counter-increment: lst-ctn-kix_list_3-1
+        }
+        ol.lst-kix_list_3-3 {
+            list-style-type: none
+        }
+        ol.lst-kix_list_3-4.start {
+            counter-reset: lst-ctn-kix_list_3-4 0
+        }
+        ol.lst-kix_list_3-4 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_1-0 {
+            list-style-type: none
+        }
+        ol.lst-kix_list_3-0 {
+            list-style-type: none
+        }
+        .lst-kix_list_3-0>li:before {
+            content: "" counter(lst-ctn-kix_list_3-0, decimal) ". "
+        }
+        ol.lst-kix_list_3-1.start {
+            counter-reset: lst-ctn-kix_list_3-1 0
+        }
+        ul.lst-kix_list_5-7 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_9-3 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_5-8 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_9-4 {
+            list-style-type: none
+        }
+        .lst-kix_list_3-1>li:before {
+            content: "(" counter(lst-ctn-kix_list_3-1, lower-latin) ") "
+        }
+        .lst-kix_list_3-2>li:before {
+            content: "(" counter(lst-ctn-kix_list_3-2, lower-roman) ") "
+        }
+        ul.lst-kix_list_5-5 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_9-1 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_5-6 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_9-2 {
+            list-style-type: none
+        }
+        .lst-kix_list_8-1>li:before {
+            content: "\0025cf  "
+        }
+        ul.lst-kix_list_9-7 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_9-8 {
+            list-style-type: none
+        }
+        .lst-kix_list_8-2>li:before {
+            content: "\0025cf  "
+        }
+        ul.lst-kix_list_9-5 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_9-6 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_1-3 {
+            list-style-type: none
+        }
+        .lst-kix_list_3-5>li:before {
+            content: "" counter(lst-ctn-kix_list_3-5, lower-roman) ". "
+        }
+        ul.lst-kix_list_5-0 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_1-4 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_1-1 {
+            list-style-type: none
+        }
+        .lst-kix_list_3-4>li:before {
+            content: "" counter(lst-ctn-kix_list_3-4, lower-latin) ". "
+        }
+        ul.lst-kix_list_1-2 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_5-3 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_1-7 {
+            list-style-type: none
+        }
+        .lst-kix_list_3-3>li:before {
+            content: "(" counter(lst-ctn-kix_list_3-3, decimal) ") "
+        }
+        ol.lst-kix_list_3-5 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_5-4 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_9-0 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_1-8 {
+            list-style-type: none
+        }
+        ol.lst-kix_list_3-6 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_5-1 {
+            list-style-type: none
+        }
+        .lst-kix_list_8-0>li:before {
+            content: "\0025cf  "
+        }
+        ul.lst-kix_list_1-5 {
+            list-style-type: none
+        }
+        ol.lst-kix_list_3-7 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_5-2 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_1-6 {
+            list-style-type: none
+        }
+        ol.lst-kix_list_3-8 {
+            list-style-type: none
+        }
+        .lst-kix_list_8-7>li:before {
+            content: "\0025cf  "
+        }
+        .lst-kix_list_3-8>li:before {
+            content: "" counter(lst-ctn-kix_list_3-8, lower-roman) ") "
+        }
+        .lst-kix_list_8-5>li:before {
+            content: "\0025cf  "
+        }
+        .lst-kix_list_8-6>li:before {
+            content: "\0025cf  "
+        }
+        .lst-kix_list_2-0>li {
+            counter-increment: lst-ctn-kix_list_2-0
+        }
+        .lst-kix_list_8-3>li:before {
+            content: "\0025cf  "
+        }
+        .lst-kix_list_3-6>li:before {
+            content: "" counter(lst-ctn-kix_list_3-6, decimal) ") "
+        }
+        .lst-kix_list_3-7>li:before {
+            content: "" counter(lst-ctn-kix_list_3-7, lower-latin) ") "
+        }
+        .lst-kix_list_8-4>li:before {
+            content: "\0025cf  "
+        }
+        ol.lst-kix_list_3-7.start {
+            counter-reset: lst-ctn-kix_list_3-7 0
+        }
+        .lst-kix_list_3-2>li {
+            counter-increment: lst-ctn-kix_list_3-2
+        }
+        .lst-kix_list_8-8>li:before {
+            content: "\0025cf  "
+        }
+        .lst-kix_list_5-0>li:before {
+            content: "\0025cf  "
+        }
+        ol.lst-kix_list_2-0 {
+            list-style-type: none
+        }
+        .lst-kix_list_4-8>li:before {
+            content: "\0025aa  "
+        }
+        .lst-kix_list_5-3>li:before {
+            content: "\0025aa  "
+        }
+        .lst-kix_list_4-7>li:before {
+            content: "\0025aa  "
+        }
+        .lst-kix_list_5-2>li:before {
+            content: "\0025aa  "
+        }
+        .lst-kix_list_5-1>li:before {
+            content: "o  "
+        }
+        ul.lst-kix_list_4-8 {
+            list-style-type: none
+        }
+        .lst-kix_list_5-7>li:before {
+            content: "\0025aa  "
+        }
+        ul.lst-kix_list_8-4 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_8-5 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_4-6 {
+            list-style-type: none
+        }
+        .lst-kix_list_5-6>li:before {
+            content: "\0025aa  "
+        }
+        .lst-kix_list_5-8>li:before {
+            content: "\0025aa  "
+        }
+        ul.lst-kix_list_8-2 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_4-7 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_8-3 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_8-8 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_8-6 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_8-7 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_4-0 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_4-1 {
+            list-style-type: none
+        }
+        ol.lst-kix_list_3-3.start {
+            counter-reset: lst-ctn-kix_list_3-3 0
+        }
+        .lst-kix_list_5-4>li:before {
+            content: "\0025aa  "
+        }
+        ul.lst-kix_list_4-4 {
+            list-style-type: none
+        }
+        .lst-kix_list_5-5>li:before {
+            content: "\0025aa  "
+        }
+        ul.lst-kix_list_8-0 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_4-5 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_8-1 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_4-2 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_4-3 {
+            list-style-type: none
+        }
+        .lst-kix_list_6-1>li:before {
+            content: "o  "
+        }
+        .lst-kix_list_6-3>li:before {
+            content: "\0025aa  "
+        }
+        .lst-kix_list_6-0>li:before {
+            content: "\0025cf  "
+        }
+        .lst-kix_list_6-4>li:before {
+            content: "\0025aa  "
+        }
+        .lst-kix_list_3-0>li {
+            counter-increment: lst-ctn-kix_list_3-0
+        }
+        .lst-kix_list_3-3>li {
+            counter-increment: lst-ctn-kix_list_3-3
+        }
+        .lst-kix_list_3-6>li {
+            counter-increment: lst-ctn-kix_list_3-6
+        }
+        .lst-kix_list_6-2>li:before {
+            content: "\0025aa  "
+        }
+        ol.lst-kix_list_3-2.start {
+            counter-reset: lst-ctn-kix_list_3-2 0
+        }
+        .lst-kix_list_6-8>li:before {
+            content: "\0025aa  "
+        }
+        .lst-kix_list_6-5>li:before {
+            content: "\0025aa  "
+        }
+        .lst-kix_list_6-7>li:before {
+            content: "\0025aa  "
+        }
+        .lst-kix_list_7-0>li:before {
+            content: "o  "
+        }
+        .lst-kix_list_6-6>li:before {
+            content: "\0025aa  "
+        }
+        .lst-kix_list_2-6>li:before {
+            content: " "
+        }
+        .lst-kix_list_2-7>li:before {
+            content: " "
+        }
+        .lst-kix_list_3-7>li {
+            counter-increment: lst-ctn-kix_list_3-7
+        }
+        .lst-kix_list_7-4>li:before {
+            content: "o  "
+        }
+        .lst-kix_list_7-6>li:before {
+            content: "\0025cf  "
+        }
+        .lst-kix_list_2-4>li:before {
+            content: " "
+        }
+        .lst-kix_list_2-5>li:before {
+            content: " "
+        }
+        .lst-kix_list_2-8>li:before {
+            content: " "
+        }
+        .lst-kix_list_7-1>li:before {
+            content: "o  "
+        }
+        .lst-kix_list_7-5>li:before {
+            content: "\0025aa  "
+        }
+        .lst-kix_list_7-2>li:before {
+            content: "\0025aa  "
+        }
+        .lst-kix_list_7-3>li:before {
+            content: "\0025cf  "
+        }
+        ul.lst-kix_list_7-5 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_7-6 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_7-3 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_7-4 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_7-7 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_7-8 {
+            list-style-type: none
+        }
+        ol.lst-kix_list_3-0.start {
+            counter-reset: lst-ctn-kix_list_3-0 0
+        }
+        .lst-kix_list_7-8>li:before {
+            content: "\0025aa  "
+        }
+        ul.lst-kix_list_7-1 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_7-2 {
+            list-style-type: none
+        }
+        ol.lst-kix_list_3-8.start {
+            counter-reset: lst-ctn-kix_list_3-8 0
+        }
+        ul.lst-kix_list_7-0 {
+            list-style-type: none
+        }
+        .lst-kix_list_7-7>li:before {
+            content: "o  "
+        }
+        .lst-kix_list_4-0>li:before {
+            content: "\0025cf  "
+        }
+        .lst-kix_list_3-8>li {
+            counter-increment: lst-ctn-kix_list_3-8
+        }
+        .lst-kix_list_4-1>li:before {
+            content: "o  "
+        }
+        .lst-kix_list_4-4>li:before {
+            content: "\0025aa  "
+        }
+        .lst-kix_list_9-2>li:before {
+            content: " "
+        }
+        .lst-kix_list_4-3>li:before {
+            content: "\0025aa  "
+        }
+        .lst-kix_list_4-5>li:before {
+            content: "\0025aa  "
+        }
+        .lst-kix_list_4-2>li:before {
+            content: "\0025aa  "
+        }
+        .lst-kix_list_4-6>li:before {
+            content: "\0025aa  "
+        }
+        .lst-kix_list_9-3>li:before {
+            content: " "
+        }
+        .lst-kix_list_3-5>li {
+            counter-increment: lst-ctn-kix_list_3-5
+        }
+        .lst-kix_list_9-0>li:before {
+            content: "\0025cf  "
+        }
+        .lst-kix_list_9-1>li:before {
+            content: " "
+        }
+        .lst-kix_list_3-4>li {
+            counter-increment: lst-ctn-kix_list_3-4
+        }
+        .lst-kix_list_9-7>li:before {
+            content: " "
+        }
+        .lst-kix_list_9-6>li:before {
+            content: " "
+        }
+        ol.lst-kix_list_3-6.start {
+            counter-reset: lst-ctn-kix_list_3-6 0
+        }
+        .lst-kix_list_9-4>li:before {
+            content: " "
+        }
+        .lst-kix_list_9-5>li:before {
+            content: " "
+        }
+        ul.lst-kix_list_6-6 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_6-7 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_6-4 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_2-8 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_6-5 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_6-8 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_2-2 {
+            list-style-type: none
+        }
+        .lst-kix_list_1-0>li:before {
+            content: "\0025cf  "
+        }
+        ul.lst-kix_list_2-3 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_2-1 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_6-2 {
+            list-style-type: none
+        }
+        .lst-kix_list_9-8>li:before {
+            content: " "
+        }
+        ul.lst-kix_list_2-6 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_6-3 {
+            list-style-type: none
+        }
+        .lst-kix_list_1-1>li:before {
+            content: " "
+        }
+        .lst-kix_list_1-2>li:before {
+            content: " "
+        }
+        ol.lst-kix_list_2-0.start {
+            counter-reset: lst-ctn-kix_list_2-0 0
+        }
+        ul.lst-kix_list_2-7 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_6-0 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_2-4 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_6-1 {
+            list-style-type: none
+        }
+        ul.lst-kix_list_2-5 {
+            list-style-type: none
+        }
+        .lst-kix_list_1-3>li:before {
+            content: " "
+        }
+        .lst-kix_list_1-4>li:before {
+            content: " "
+        }
+        ol.lst-kix_list_3-5.start {
+            counter-reset: lst-ctn-kix_list_3-5 0
+        }
+        .lst-kix_list_1-7>li:before {
+            content: " "
+        }
+        .lst-kix_list_1-5>li:before {
+            content: " "
+        }
+        .lst-kix_list_1-6>li:before {
+            content: " "
+        }
+        .lst-kix_list_2-0>li:before {
+            content: "" counter(lst-ctn-kix_list_2-0, decimal) ". "
+        }
+        .lst-kix_list_2-1>li:before {
+            content: " "
+        }
+        .lst-kix_list_1-8>li:before {
+            content: " "
+        }
+        .lst-kix_list_2-2>li:before {
+            content: " "
+        }
+        .lst-kix_list_2-3>li:before {
+            content: " "
+        }
+        ol {
+            margin: 0;
+            padding: 0
+        }
+        .c7 {
+            padding-top: 0pt;
+            padding-bottom: 11pt;
+            line-height: 1.0;
+            text-align: justify;
+            direction: ltr
+        }
+        .c28 {
+            padding-top: 0pt;
+            padding-bottom: 36pt;
+            line-height: 1.0;
+            text-align: right;
+            direction: ltr
+        }
+        .c4 {
+            orphans: 2;
+            widows: 2;
+            text-align: justify;
+            direction: ltr;
+            height: 12pt
+        }
+        .c5 {
+            vertical-align: baseline;
+            font-size: 14pt;
+            font-family: "Calibri";
+            color: #000000;
+            font-weight: normal
+        }
+        .c1 {
+            padding-top: 0pt;
+            padding-bottom: 3pt;
+            line-height: 1.0;
+            text-align: justify;
+            direction: ltr
+        }
+        .c15 {
+            padding-top: 0pt;
+            padding-bottom: 0pt;
+            line-height: 1.0;
+            text-align: justify;
+            direction: ltr
+        }
+        .c0 {
+            padding-bottom: 11pt;
+            orphans: 2;
+            widows: 2;
+            text-align: justify;
+            direction: ltr
+        }
+        .c6 {
+            vertical-align: baseline;
+            font-size: 14pt;
+            font-family: "Calibri";
+            font-weight: bold
+        }
+        .c9 {
+            orphans: 2;
+            widows: 2;
+            text-align: justify;
+            direction: ltr
+        }
+        .c2 {
+            vertical-align: baseline;
+            font-size: 12pt;
+            font-family: "Times New Roman";
+            font-weight: normal
+        }
+        .c3 {
+            vertical-align: baseline;
+            font-size: 11pt;
+            font-family: "Calibri";
+            font-weight: normal
+        }
+        .c10 {
+            vertical-align: baseline;
+            font-size: 11pt;
+            font-family: "Calibri";
+            font-weight: bold
+        }
+        .c14 {
+            vertical-align: baseline;
+            font-size: 14pt;
+            font-family: "Calibri";
+            font-weight: normal
+        }
+        .c32 {
+            vertical-align: baseline;
+            font-size: 8pt;
+            font-family: "Times New Roman";
+            font-weight: normal
+        }
+        .c17 {
+            vertical-align: baseline;
+            font-size: 12pt;
+            font-family: "Calibri";
+            font-weight: normal
+        }
+        .c26 {
+            padding-top: 0pt;
+            padding-bottom: 11pt;
+            line-height: 1.0;
+            direction: ltr
+        }
+        .c21 {
+            background-color: #ffffff;
+            max-width: 482.4pt;
+            padding: 57.6pt 64.8pt 57.6pt 64.8pt
+        }
+        .c12 {
+            vertical-align: baseline;
+            font-size: 11pt;
+            font-family: "Calibri"
+        }
+        .c31 {
+            vertical-align: baseline;
+            font-size: 11.5pt;
+            font-family: "Calibri"
+        }
+        .c20 {
+            padding-bottom: 3pt;
+            page-break-after: avoid;
+            direction: ltr
+        }
+        .c16 {
+            vertical-align: baseline;
+            font-family: "Calibri";
+            font-weight: bold
+        }
+        .c24 {
+            text-align: center;
+            direction: ltr
+        }
+        .c25 {
+            font-weight: bold;
+            font-family: "Calibri"
+        }
+        .c27 {
+            page-break-after: avoid;
+            direction: ltr
+        }
+        .c22 {
+            direction: ltr;
+            height: 12pt
+        }
+        .c13 {
+            font-size: 11pt;
+            font-family: "Calibri"
+        }
+        .c18 {
+            orphans: 2;
+            widows: 2
+        }
+        .c29 {
+            padding-bottom: 3pt
+        }
+        .c23 {
+            height: 12pt
+        }
+        .c8 {
+            color: #000000
+        }
+        .c19 {
+            padding-bottom: 6pt
+        }
+        .c11 {
+            text-decoration: underline
+        }
+        .c30 {
+            color: #333333
+        }
+        .title {
+            padding-top: 12pt;
+            color: #000000;
+            font-weight: bold;
+            font-size: 10pt;
+            padding-bottom: 12pt;
+            font-family: "Times New Roman";
+            line-height: 1.0;
+            page-break-after: avoid;
+            orphans: 2;
+            widows: 2;
+            text-align: center
+        }
+        .subtitle {
+            padding-top: 0pt;
+            color: #666666;
+            font-weight: bold;
+            font-size: 10pt;
+            padding-bottom: 12pt;
+            font-family: "Times New Roman";
+            line-height: 1.0;
+            page-break-after: avoid;
+            font-style: italic;
+            orphans: 2;
+            widows: 2;
+            text-align: left
+        }
+        li {
+            color: #000000;
+            font-size: 12pt;
+            font-family: "Times New Roman"
+        }
+        p {
+            margin: 0;
+            color: #000000;
+            font-size: 12pt;
+            font-family: "Times New Roman"
+        }
+        h1 {
+            padding-top: 0pt;
+            color: #000000;
+            font-size: 10pt;
+            padding-bottom: 12pt;
+            font-family: "Times New Roman";
+            line-height: 1.0;
+            page-break-after: avoid;
+            orphans: 2;
+            widows: 2;
+            text-align: left
+        }
+        h2 {
+            padding-top: 0pt;
+            color: #000000;
+            font-size: 10pt;
+            padding-bottom: 12pt;
+            font-family: "Times New Roman";
+            line-height: 1.0;
+            page-break-after: avoid;
+            orphans: 2;
+            widows: 2;
+            text-align: left
+        }
+        h3 {
+            padding-top: 0pt;
+            color: #000000;
+            font-size: 10pt;
+            padding-bottom: 12pt;
+            font-family: "Times New Roman";
+            line-height: 1.0;
+            page-break-after: avoid;
+            orphans: 2;
+            widows: 2;
+            text-align: left
+        }
+        h4 {
+            padding-top: 0pt;
+            color: #000000;
+            font-size: 10pt;
+            padding-bottom: 12pt;
+            font-family: "Times New Roman";
+            line-height: 1.0;
+            page-break-after: avoid;
+            orphans: 2;
+            widows: 2;
+            text-align: left
+        }
+        h5 {
+            padding-top: 0pt;
+            color: #000000;
+            font-size: 10pt;
+            padding-bottom: 12pt;
+            font-family: "Times New Roman";
+            line-height: 1.0;
+            page-break-after: avoid;
+            orphans: 2;
+            widows: 2;
+            text-align: left
+        }
+        h6 {
+            padding-top: 0pt;
+            color: #000000;
+            font-size: 10pt;
+            padding-bottom: 12pt;
+            font-family: "Times New Roman";
+            line-height: 1.0;
+            page-break-after: avoid;
+            orphans: 2;
+            widows: 2;
+            text-align: left
+        }
+    </style>
+
+
+
+    <p class="c24 c18"><span class="c16">Buycott Privacy Policy</span>
+    </p>
+    <p class="c18 c24"><span class="c16">Last Updated: </span><span class="c25">Dec 02, 2015</span>
+    </p>
+    <p class="c18 c22"><span class="c3"></span>
+    </p>
+    <p class="c9"><span class="c12">Protecting your privacy is really important to us. With this in mind, we’re providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive through our Services. This Privacy Policy does not apply to any third-party websites, services or applications, even if they are accessible through our Services. Also, please note that, unless we define a term in this Privacy Policy, all capitalized terms used in this Privacy Policy have the same meanings as in our Terms of Service. So, please make sure that you have read and understand our Terms of Service.</span>
+    </p>
+    <p class="c4"><span class="c3"></span>
+    </p>
+    <h1 class="c20"><span class="c6">Revisions to this Privacy Policy</span></h1>
+    <p class="c9"><span class="c12">Any information that is collected via our Services is covered by the Privacy Policy in effect at the time such information is collected. We may revise this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, we’ll notify you of those changes by posting them on the Services or by sending you an email or other notification, and we’ll update the “Last Updated Date” above to indicate when those changes will become effective.</span>
+    </p>
+    <p class="c4"><span class="c3"></span>
+    </p>
+    <h1 class="c19 c27"><span class="c6">Collection and Use of Information</span></h1>
+    <p class="c9 c29"><span class="c16">Information Collected or Received from You</span>
+    </p>
+    <p class="c9 c19"><span class="c12">Our primary goals in collecting information are to provide and improve our Services, to administer your use of the Services (including your Account, if you are an Account holder), and to enable you to enjoy and easily navigate our Services.</span>
+    </p>
+    <p class="c9"><span class="c12 c11">Account Information</span><span class="c12">. If you create an Account, we’ll collect certain information that can be used to identify you, such as your full name and email address (“</span><span class="c10">PII</span><span class="c12">”). If you create an Account using your login credentials from one of your SNS Accounts, we’ll be able to access and collect your name and email address and other PII that your privacy settings on the SNS Account permit us to access. If you create an Account through the Site or one of your SNS Accounts, we may also collect your gender, date of birth and other information that is not considered PII because it cannot be used by itself to identify you.</span>
+    </p>
+    <p class="c4"><span class="c3"></span>
+    </p>
+    <p class="c0"><span class="c12 c11">Information You Choose to Provide in Campaigns and User Content</span><span class="c12">. We will collect any information (including any PII) that you may submit to the Services when you create a Campaign. We will also collect any information (including any PII) that you may submit when you post comments and other User Content relating to various Causes and Campaigns.</span>
+    </p>
+    <p class="c0"><span class="c12 c11">Information Collected Using Cookies and other Web Technologies</span><span class="c12">. Like many website owners and operators, we use automated data collection tools such as Cookies and Web Beacons to collect certain information.</span>
+    </p>
+    <p class="c0"><span class="c12">“</span><span class="c10">Cookies</span><span class="c12">” are small text files that are placed on your hard drive by a Web server when you access our Services. We may use both session Cookies and persistent Cookies to identify that you’ve logged in to the Services and to tell us how and when you interact with our Services. We may also use Cookies to monitor aggregate usage and web traffic routing on our Services and to customize and improve our Services. Unlike persistent Cookies, session Cookies are deleted when you log off from the Services and close your browser. Although most browsers automatically accept Cookies, you can change your browser options to stop automatically accepting Cookies or to prompt you before accepting Cookies. Please note, however, that if you don’t accept Cookies, you may not be able to access all portions or features of the Services. Some third-party services providers that we engage (including third-party advertisers) may also place their own Cookies on your hard drive. Note that this Privacy Policy covers only our use of Cookies and does not include use of Cookies by such third parties.</span>
+    </p>
+    <p class="c0"><span class="c12">“</span><span class="c10">Web Beacons</span><span class="c12">” (also known as Web bugs, pixel tags or clear GIFs) are tiny graphics with a unique identifier that may be included on our Services for several purposes, including to deliver or communicate with Cookies, to track and measure the performance of our Services, to monitor how many visitors view our Services, and to monitor the effectiveness of our advertising. Unlike Cookies, which are stored on the user’s hard drive, Web Beacons are typically embedded invisibly on web pages (or in an e-mail).</span>
+    </p>
+    <p class="c0"><span class="c12 c11">Information Related to Use of the Services</span><span class="c12">. Our servers automatically record certain information about how a person uses our Services (we refer to this information as “</span><span class="c10">Log Data</span><span class="c12">”), including both Account holders and non-Account holders (either, a “</span><span class="c10">User</span><span class="c12">”). Log Data may include information such as a User’s Internet Protocol (IP) address, browser type, operating system, the web page that a User was visiting before accessing our Services, the pages or features of our Services to which a User browsed and the time spent on those pages or features, search terms, the links on our Services that a User clicked on and other statistics. We use Log Data to administer the Services and we analyze (and may engage third parties to analyze) Log Data to improve, customize and enhance our Services by expanding their features and functionality and tailoring them to our Users’ needs and preferences. We may use a person’s IP address to generate aggregate, non-identifying information about how our Services are used.</span>
+    </p>
+    <p class="c9"><span class="c12 c11">Information Sent by Your Mobile Device</span><span class="c12">. We collect certain information that your mobile device sends when you use our Services, like a device identifier, user settings and the operating system of your device, as well as information about your use of our Services.</span>
+    </p>
+    <p class="c4"><span class="c3"></span>
+    </p>
+    <p class="c9"><span class="c12 c11">Location Information</span><span class="c12">.</span><span class="c31">&nbsp;W</span><span class="c12">hen you use our App, we may collect and store information about your location by converting your IP address into a rough geo-location or by accessing your mobile device’s GPS coordinates or coarse location if you enable location services on your device. We may use location information to improve and personalize our Services for you. If you do not want us to collect location information, you may disable that feature on your mobile device. </span>
+    </p>
+    <p class="c4"><span class="c3"></span>
+    </p>
+    <h1 class="c20"><span class="c6">Information that We Share with Third Parties</span></h1>
+    <p class="c9"><span class="c12">We will not share any PII that we have collected from or regarding you except as described below:</span>
+    </p>
+    <p class="c4"><span class="c3"></span>
+    </p>
+    <p class="c0"><span class="c11 c12">Information Shared with Our Services Providers</span><span class="c12">. We may engage third-party services providers to work with us to administer and provide the Services. These third-party services providers have access to your PII only for the purpose of performing services on our behalf and are expressly obligated not to disclose or use your PII for any other purpose.</span>
+    </p>
+    <p class="c0"><span class="c12 c11">Information Shared with Third Parties That Are The Subject Of A Campaign Or That Make Or Market The Product That Is The Subject Of A Campaign</span><span class="c12">. When you create a Campaign or provide comments to your or others’ Campaigns or Causes, we will share the information that you provide via such Campaign and/or Causes with the companies that make or market the products or services to which the Campaign relates or with the companies that are the subject of a Campaign, but only if you select the option via the Services giving us permission to communicate with such companies. &nbsp;You and your PII may be included in such communications. </span>
+    </p>
+    <p class="c0"><span class="c12 c11">Information Shared With Other Users</span><span class="c12">. As part of the Services, when you interact with the Services your User Content, and any PII contained in such User Content will be visible to all other Users of the Services, including Campaign Creators and Consumers.</span>
+    </p>
+    <p class="c0"><span class="c12 c11">Aggregated Information Shared with Third Parties</span><span class="c12">. We may share aggregated information and non-identifying information with third parties for industry research and analysis, demographic profiling and other similar purposes.</span>
+    </p>
+    <p class="c0"><span class="c12 c11">Information Disclosed in Connection with Business Transactions</span><span class="c12">. Information that we collect from our Users, including PII, is considered to be a business asset. Thus, if we are acquired by a third party as a result of a transaction such as a merger, acquisition or asset sale or if our assets are acquired by a third party in the event we go out of business or enter bankruptcy, some or all of our assets, including your PII, may be disclosed or transferred to a third party acquirer in connection with the transaction.</span>
+    </p>
+    <p class="c7 c18"><span class="c3 c11">Information Disclosed for Our Protection and the Protection of Others</span><span class="c3">. We cooperate with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate: (i) to respond to claims, legal process (including subpoenas); (ii) to protect our property, rights and safety and the property, rights and safety of a third party or the public in general; and (iii) to stop any activity that we consider illegal, unethical or legally actionable activity.</span>
+    </p>
+    <h1 class="c20"><span class="c6">Your Choices</span></h1>
+    <p class="c7"><span class="c3">We offer you choices regarding the collection, use and sharing of your PII and we’ll respect the choices you make. Please note that if you decide not to provide us with the PII that we request, you may not be able to access all of the features of the Services.</span>
+    </p>
+    <p class="c0"><span class="c12 c11">Opt-Out</span><span class="c12">. We may periodically send you free newsletters and e-mails that directly promote our Services. When you receive such promotional communications from us, you will have the opportunity to “opt-out” (either through your Account or by following the unsubscribe instructions provided in the e-mail you receive). We do need to send you certain communications regarding the Services and you will not be able to opt out of those communications – e.g., communications regarding updates to our Terms of Service or this Privacy Policy or information about billing.</span>
+    </p>
+    <p class="c7"><span class="c17 c11">Modifying Your Information</span><span class="c17">. </span><span class="c3">You can access and modify the PII associated with your Account by</span><span class="c13">&nbsp;visiting the edit profile tab in our mobile app</span><span class="c3">. If you want us to delete your PII and your Account, please contact us at </span><span class="c13">info@buycott.com</span><span class="c3">&nbsp;with your request. We’ll take steps to delete your information as soon we can, but some information may remain in archived/backup copies for our records or as otherwise required by law.</span>
+    </p>
+    <p class="c1"><span class="c6">Responding to Do Not Track Signals</span>
+    </p>
+    <p class="c7"><span class="c3">Our Site does not have the capability to respond to “Do Not Track” signals received from various web browsers. </span>
+    </p>
+    <p class="c1"><span class="c6">The Security of Your Information</span>
+    </p>
+    <p class="c9"><span class="c12">We take reasonable administrative, physical and electronic measures designed to protect the information that we collect from or about you (including your PII) from unauthorized access, use or disclosure. [When you enter sensitive information on our forms, we encrypt this data using SSL or other technologies]. Please be aware, however, that no method of transmitting information over the Internet or storing information is completely secure. Accordingly, we cannot guarantee the absolute security of any information. </span>
+    </p>
+    <p class="c4"><span class="c3"></span>
+    </p>
+    <p class="c1"><span class="c6">Links to Other Sites</span>
+    </p>
+    <p class="c15 c18"><span class="c3">Our Services may contain links to websites and services that are owned or operated by third parties (each, a “</span><span class="c10">Third-party Service</span><span class="c3">”). Any information that you provide on or to a Third-party Service or that is collected by a Third-party Service is provided directly to the owner or operator of the Third-party Service and is subject to the owner’s or operator’s privacy policy. We’re not responsible for the content, privacy or security practices and policies of any Third-party Service. To protect your information we recommend that you carefully review the privacy policies of all Third-party Services that you access. </span>
+    </p>
+    <p class="c15 c23"><span class="c17"></span>
+    </p>
+    <p class="c1"><span class="c6">International Transfer</span>
+    </p>
+    <p class="c18 c26"><span class="c3 c30">Your PII may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. </span><span class="c3">If you’re located outside the United States and choose to provide your PII to us, we may transfer your PII to the United States and process it there.</span>
+    </p>
+    <p class="c15"><span class="c6">Our Policy Toward Children</span>
+    </p>
+    <p class="c15"><span class="c3">Our Services are not directed to children under 13 and we do not knowingly collect PII from children under 13. If we learn that we have collected PII of a child under the age of 13 we will take steps to delete such information from our files as soon as possible.</span>
+    </p>
+    <p class="c15 c23"><span class="c3"></span>
+    </p>
+    <p class="c1"><span class="c6">Your California Privacy Rights</span>
+    </p>
+    <p class="c7"><span class="c3">California residents may request and obtain from us, once a year, free of charge, a list of third parties, if any, to which we disclosed their PII for direct marketing purposes during the preceding calendar year and the categories of PII shared with those third parties</span><span class="c3 c8">.</span><span class="c3">&nbsp;If you are a California resident and wish to obtain that information, please submit your request by sending us an email at </span><span class="c13">info@buycott.com</span><span class="c3">&nbsp;with “California Privacy Rights” in the subject line or by writing to us at </span><span class="c13">1613 Chelsea Road, Unit 267, San Marino, CA 91108</span><span class="c3">.</span>
+    </p>
+    <p class="c1"><span class="c6">Questions?</span>
+    </p>
+    <p class="c15"><span class="c3">Please contact us at</span><span class="c13">&nbsp;info@buycott.com</span><span class="c3">&nbsp;if you have any questions about our Privacy Policy.</span>
+    </p>
+
+
+
+            
+
+            </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+<!-- footer section start here -->
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-sm-6">
+        <div class="row">
+          <div class="footer_top">
+            <ul>
+              <li><a href="https://itunes.apple.com/us/app/buycott-barcode-scanner-grocery/id585933440"><img src="/assets/app_store-e2bd12a5549f84b115197d04bdf3806e.png" alt="App Store" title="App Store"></a></li>
+              <li><a href="https://play.google.com/store/apps/details?id=com.buycott.android"><img src="/assets/google_play-01672b0a53850d8a2c7c596eb0389b47.png" alt="Google Play" title="Google Play"></a></li>
+            </ul>
+          </div>
+          <div class="clear"></div>
+          <div class="footer_bottom">
+            <ul>
+              <li class="follow_us">Follow us!</li>
+              <li><a href="https://www.facebook.com/buycottapp/"><img src="/assets/fb-7ffd228aedfee233a8d7041ab6fc7547.png" alt="Facebook" title="Facebook"></a></li>
+              <li><a href="https://twitter.com/buycottapp"><img src="/assets/twitter-13d0834d4a94300c27d54159a2e54e31.png" alt="Twitter" title="Twitter"></a></li>
+              <li><a href="https://www.instagram.com/buycott/"><img src="/assets/instagram-44038c298175969004eb167affa95137.png" alt="Twitter" title="Twitter"></a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 col-sm-6">
+        <div class="row">
+          <div class="footer_right_links">
+            <ul>
+              <li><a href="/faq" title="FAQ">FAQ</a></li>
+              <li class="press"><a href="/press" title="press">Press</a></li>
+              <li><a href="/terms" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
+              <li><a href="/privacy" title="Privacy">Privacy</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- footer section end here -->
+
+
+  
+
+
+</body></html>
