@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onthesnow.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905055159id_/http%3A//www.onthesnow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onthesnow.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519045815id_/http%3A//www.onthesnow.com/privacy) for the most accurate reproduction.*
 
 # Snow Reports | Ski Resort Weather | Gear | OnTheSnow
 
@@ -71,6 +71,70 @@ If you no longer wish to receive our newsletter and promotional communications, 
 
 **HOW DO WE USE COOKIES?**  
 Your Web browser offers so-called "cookies" which, if you allow their use, store small amounts of data on your computer when you visit a website. Cookies do not contain any personally identifiable information about you and therefore cannot be used to identify you personally. Cookies assist us in tracking which of our features you like best. Cookies also enable us to customize our content according to your preferences. You have the ability to accept or decline cookies by modifying your browser and our websites are viewable even if you disable the cookie function on your browser. However, if you disable cookies, some advanced and customized features or offerings will not be available to you. Our third party advertisers may also use cookies.
+
+**Cookies we use:  
+**
+
+icevedmnc
+
+  * to identify our users across devices session
+
+
+  * to serve the end users their recently viewed resorts
+
+
+
+**DFP (ad-server)**  
+GoogleAdServingTest
+
+  * To serve ads on the page
+
+
+
+**Google Analytics**  
+_utma
+
+  * keeps track of the number of times a visitor has been to the site pertaining to the cookie, when their first visit was, and when their last visit occurred.
+
+
+
+_utmb
+
+  * takes a timestamp of the exact moment in time when a visitor enters a site
+
+
+
+_utmc
+
+  * takes a timestamp of the exact moment in time when a visitor leaves a site.
+
+
+
+_utmz
+
+  * keeps track of where the visitor came from, what search engine you used, what link you clicked on, what keyword you used, and where they were in the world when you accessed a website.
+
+
+
+_gadz
+
+  * used by Google for a variety of purposes (eg, ensuring Frequency Caps work correctly) which include Adsense if you have Adsense enabled.
+
+
+
+_utmt
+
+  * Session cookie from Google Analytics. Used to throttle request rate.
+
+
+
+**New Relic**
+
+NREUM
+
+  * Used for page load timing. This session cookie is only created in browsers that do not support the Navigation Timing API. When a browser supports the Navigation Timing API, a native interface can be used to determine navigation start time.
+
+
 
 **HOW DO WE USE WEB BEACONS?**  
 Some of our Web pages may contain electronic images known as Web beacons, which are also called single-pixel gifs. These images allow us to count users who have visited those pages and to deliver co-branded services. We also may include Web beacons in promotional e-mail messages or newsletters in order to count how many messages have been opened and acted upon. Web beacons are not used to access your personally identifiable information but they are a technique we use to compile aggregated statistics about our website usage. Web beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the Web beacon resides. Some of our Web pages may also contain Web beacons placed there by our advertising partners to help us determine the effectiveness of our advertising campaigns.
