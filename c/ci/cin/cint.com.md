@@ -1,70 +1,82 @@
-> *The following text is extracted and transformed from the cint.com privacy policy that was archived on 2015-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151028104137id_/http%3A//www.cint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cint.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519051515id_/http%3A//www.cint.com/privacy-policy) for the most accurate reproduction.*
 
 # Cint Privacy Policy
 
-Last Updated 12 September 2013
+Last Updated April 13th 2016 
 
-## 1\. Our commitment to protecting your privacy
+## 1\. Who is Cint?
 
-Cint is committed to respecting individual and client privacy, to safeguarding confidential information and to ensuring the security of all personal information. When you decide to share your information with us, we feel that it is important to assure you that your information will be safely protected. This statement discloses our information collecting, handling and disclosure practices. 
+Cint is a global technology company, focused on providing SaaS-based solutions (software as a service) for buyers and sellers of online sample in the market research industry. Headquartered in Stockholm, Sweden, Cint has offices in major cities across Europe, North America and Asia-Pacific.
 
-## 2\. What do we do?
+## 2\. Cint is committed to safeguarding your privacy
 
-Cint is a medium sized global technology company, focused on providing SaaS-based (software as a service) solutions for buyers and sellers of online sample in the market research industry. The OpinionHUB connects online research buyers and panel owners together to form a transparent sample marketplace for online surveys. Headquartered in Stockholm, Sweden, Cint has offices in major cities across Europe, North America and Asia-Pacific. 
+Cint is committed to maintaining the privacy of online respondents and panel members. Please read the following privacy policy to understand how your personal information will be treated.
 
-## 3\. What we do with your information
+## 3\. Our Standards
 
-We collect personal information from you when you communicate with us by any media. The personal information collected on this website may be e.g. your name, company, title, phone number and email address or other information that you give. We collect your personal information on a voluntary basis. If you request a quote or brochure, we may require that you provide specific information to ensure delivery and execution of your request. Any personal information that we collect from the website is passed on to our sales department for follow-up or to provide any information you have requested.
+Cint supports and strictly adheres to the standards and guidelines set out by ESOMAR: [www.esomar.org](http://www.esomar.org/) and CASRO: [www.casro.org](http://www.casro.org/)
 
-Cint supports and strictly adheres to the standards and guidelines set out by ESOMAR: [www.esomar.org](http://www.esomar.org/) and CASRO: [www.casro.org](http://www.casro.org/) and follows the local law when processing any personal data for the following purposes:
+## 4\. Collection & Use of Personal Information
 
-  * to keep you informed and obtain your views about Cint’s products, services and activities;
-  * transferring any personal information to any subsidiary or group company (i.e. when you may request information and your request is forwarded to the appropriate sales office);
-  * to process any enquiries raised by you and other communications initiated by you in relation to your dealings with Cint and any services provided by Cint;
-  * when permitted by you, to send you marketing communications keeping you informed about the activities of Cint; to help analyze website effectiveness
+Cint collects and processes personal information in accordance with the instruction of panel owners. This means that the panel owner shall be regarded as controller of all personal information processed and Cint shall be considered a processor of the personal information processed. For information about how the applicable data controllers handle privacy matters, please review the privacy policy of the Panel which You belong to.
 
+Cint may not, as a data processor, process personal information for any purpose or in any manner other than is necessary to perform its obligations in relation to the panel owner. This implies the following processing.
 
+Panelists are invited to join panel partner's panels. Panelists may join panels to voice their opinions in different surveys regarding products and services or. Panelist may also accept other services which are used for market research. Cint helps facilitate this process. Cint collects personal information from panelists who, of their own free will, chose to provide or accept the collection of such information
 
-### Opt Out
+When Cint facilitates data collection research, we encourage our panel owners to use invitations and clients to use questionnaires that clearly identify the research company or panel company and explain the purpose(s) of our contact.
 
-We may use your personal information ourselves to conduct direct marketing when you have opted into this, but you are entitled to opt out from receiving direct marketing communications from us at any time. You may do so by responding to the opt out option which is included with each direct marketing communication that we send.
+The panelist's personal information may be used for the following purposes:
 
-### European Economic Area ("EEA")
-
-Please note that information displayed on our Website or sent to Cint over the Internet may be transferred outside of the EEA to one of our local offices, if you have given your consent. Data will only be sent to other offices within Cint in the case that you require:
-
-  * more information on Cint,
-  * a quote request;
-  * Or anything else pertaining specifically to Cint.
+  1. to invite the panelist to participate in market research through a questionnaire;
+  2. to execute a profiling study to garner more information on the panelist;
+  3. to respond to a support based issue;
+  4. to validate a panelist's answers; and
+  5. to update and ensure that the panelist's personal information is true and correct.
 
 
 
-If you have any concerns in relation to such transfers, you should not use the Internet as a means of communication with Cint.
+Occasionally, we may contact a panelist in order:
 
-## 4\. How we protect your personal information
+  1. to gather information to provide any other form of incentive offering; and
+  2. to ask for a panelist his/her permission to use their personal information for a purpose that was not explained to them when their personal information was first collected.
 
-Cint takes reasonable steps to protect your personal information from unauthorised access, use, disclosure or loss. This site has security measures (including online and offline physical, electronic and managerial safeguards) in place to protect against the loss, misuse, and alteration of the information, including your e-mail address, under our control. As with any transmission over the Internet; however, there is always some element of risk involved in sending personal information online.
 
-### Disclosure of your personal information
 
-We do not share, sell, rent or trade personally identifiable information with third parties.We reserve the right to disclose your personally identifiable information as required by law or when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our website.
+When a panelist participates in any of our surveys that we carry out on behalf of our clients, the survey may ask a panelist for their personal opinions, as well as demographic information, such as their age and household composition. A panelist may also accept services which will result in tracking of the panelist's use of Internet such as websites accessed and online campaigns exposed to the panelist.
 
-## 5\. Use of cookies
+A panelist may refuse to answer certain questions or discontinue participation in a study at any time. If a panelist joins one of our panel owners' panels, they may rescind their membership at any time by following the opt-out instructions.
 
-We may use technology to track the patterns of behavior of visitors to the site. This can include using a 'cookie', pieces of information that are transferred to an individual user's hard drive for record keeping purposes. At the present time we send a basic cookie to your computer which stores basic information which you enter into the site. This information may include your name, company, title, address, phone number and email address (Basic Cookies). The Basic Cookie functions by saving your passwords and site preferences. As a result it is possible to speed up your future activities at the site and allow Cint to provide you with information specifically tailored to your interests. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings. To modify your browser settings click on the help section of your Internet browser and follow the instructions. Please note that not accepting cookies may affect the performance of our website. To view cookies used by Cint click [here](http://www.cint.com/cookie-usage).
+## 5\. Disclosures of Personal Information
 
-## 6\. Our commitment to Children's Privacy
+We DO NOT give, sell, or otherwise transfer your personal information to third parties without your prior consent, except as otherwise set out below.
 
-Cint encourages all parents and guardians to instruct their children in the safe and responsible use of their personal information whilst using the internet. Cint will not (through our website or otherwise) intentionally collect information which relates to or originates from a child unless we have the consent of the child's parent or guardian. If we become aware that a user of our website is a child who is using this website without the consent of his parent or guardian, we will use reasonable endeavours to delete any information submitted by that child as soon as possible and to ensure that such information is not transferred to anyone else nor used by us. Please let us know as soon as you become aware that a child has submitted information about him-/herself through our website without the consent of his parent or guardian. You can contact us in the ways outlined at the end of this policy.
+**Survey Responses and information:** Only non-identifiable and aggregated information will be shared with our clients. Any answers you provide to survey questions or information that we collect will remain entirely confidential.
 
-## 7\. Changes to our Privacy Statement
+**Sale of a Business:** We may transfer any information we have collected about you as an asset in connection with a merger or sale of business or part of our business or as part of a corporate reorganization or other change in corporate control.
 
-Please check this page periodically for changes as Cint reserves the right, at its discretion, to change, modify, add, or remove portions of the Privacy Policy and the Site at any time. Your continued use of the Site following the posting of any changes to this Policy will mean that you accept such changes. If we are going to use personal data in a manner materially different from that stated at the time of collection, we will notify the affected individuals by posting a notice on this Site or via email. 
+**Legal:** Cint and our service providers may provide your personal information in response to a search warrant or other legally valid inquiry or order, or to an investigative body in the case of a breach of an agreement or contravention of law, or as otherwise required by law. We may also disclose personal information in collecting a debt owed by you, or otherwise where necessary for the establishment, exercise or defense of legal claims.
 
-## 8\. Governing Law
+## 6\. Security of personal information
 
-This Site and Privacy Policy are governed by the laws of Sweden. Any dispute arising in connection with this Privacy Policy shall be governed under the jurisdiction of the courts of Sweden.
+Your account information and profile are password-protected so that you and only you have access to this personal information.
 
-## 9\. How to contact us
+We recommend that you do not divulge your password to anyone. Cint will never ask you for your password in an unsolicited phone call or in an unsolicited email. Also remember to sign out of your panel account and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe.
 
-Questions regarding this policy, complaints about our practices and access requests should be directed to the Cint Team via e-mail: [learnmore@cint.com](mailto:learnmore@cint.com) or by mail at Cint AB Luntmakargatan 46, 4tr, 111 37 Stockholm, Sweden. Users have a right to, once a year, free of charge, request information regarding if/which personal data about him/her is being processed and a right to obtain rectification.
+Whenever Cint handles personal information as described above, regardless of where this occurs, Cint takes steps to ensure that your information is treated securely and in accordance with this privacy policy.
+
+## 7\. Children's Privacy Protection
+
+Cint strongly believes that it is important to protect the online privacy of children and Cint encourages parents or guardians to spend time online with their children to participate and monitor their Internet activities. Cint will never process personal information of children without parental consent.
+
+Parents or guardians are encouraged to contact Cint to discuss the personal information collected from their child or children.
+
+## 8\. How to contact us
+
+To ensure you are up to date with any changes to this privacy policy, please see the last updated section of this policy. Questions regarding this policy, complaints about our practices and access requests should be directed to either your panel owner or:
+
+Cint Support Team, learnmore@cint.com
+
+or by mail at:
+
+Cint AB, Luntmakargatan 46, 4tr, 111 37 Stockholm, Sweden
