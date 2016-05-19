@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bivori.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230113458id_/http%3A//bivori.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bivori.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519093550id_/http%3A//bivori.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Bivori
+# Privacy Policy - Bivori - The truth as I saw it!
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@bivori.com.
 
