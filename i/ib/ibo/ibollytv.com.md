@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ibollytv.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319020718id_/http%3A//www.ibollytv.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibollytv.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519134140id_/http%3A//www.ibollytv.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Hindi Movies Online, Bollywood Movies Online, Indian TV Serials Online
+# Privacy Policy | Latest Hindi Movies Online, Bollywood Full Movies Online, Indian TV Serials Online
 
 At www.ibollytv.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.ibollytv.com and how it is used. 
 
