@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blurbpoint.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906035933id_/http%3A//www.blurbpoint.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blurbpoint.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519235410id_/http%3A//www.blurbpoint.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Blurbpoint
 
