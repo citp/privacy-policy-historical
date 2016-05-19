@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cegeka.com privacy policy that was archived on 2015-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151028130529id_/http%3A//www.cegeka.com/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cegeka.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519234155id_/http%3A//www.cegeka.com/en/privacypolicy) for the most accurate reproduction.*
 
 # Privacypolicy
 
 ## 1\. Scope
 
-This Privacy statement applies to the website [www.cegeka.com](https://web.archive.org/web/20151028130529id_/http%3A//www.cegeka.com/en/www.cegeka.com).
+This Privacy statement applies to the website [www.cegeka.com](https://web.archive.org/web/20160519234155id_/http%3A//www.cegeka.com/en/www.cegeka.com).
 
 The website is operated by Cegeka, a company incorporated under Belgian law, having its registered office in 3500 Hasselt, Universiteitslaan 9, and with company registration number 0882.419.490.
 
