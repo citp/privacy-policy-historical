@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webnots.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119200206id_/http%3A//www.webnots.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webnots.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519133140id_/http%3A//www.webnots.com/home/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of webNots.com
 
