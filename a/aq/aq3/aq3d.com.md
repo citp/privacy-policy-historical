@@ -1,245 +1,282 @@
-> *The following text is extracted and transformed from the aq3d.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905055115id_/http%3A//www.aq.com/policy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aq3d.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519130513id_/http%3A//www.aq3d.com/policy-privacy) for the most accurate reproduction.*
 
-# Artix Entertainment Privacy Policy
+# Adventure Quest 3D | Policy-Privacy
 
-**Artix Entertainment LLC** provides family friendly entertainment to our users. We are committed to protecting the safety and security of its online visitors and are sensitive to our user's concerns about the safety of personal information provided to us. We encourage all our users to read this Privacy Statement carefully in order to understand how any personal information collected about you is used.
+Artix Entertainment's Privacy Policy is designed to provide clarity about the information we collect and how we use it to provide a better social gaming experience. By accepting our Privacy Policy and [Terms of Service](https://web.archive.org/policy-terms) in registration or game installation, you consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
 
-This privacy statement covers the Web Sites: [Battleon.com](http://www.battleon.com/), [AQ.com](http://www.aq.com/), [DragonFable.com](http://www.dragonfable.com/), [MechQuest.com](http://www.mechquest.com/), [Herosmash.Artix.com](http://herosmash.artix.com/), [Artix.com](http://www.artix.com/), [EpicDuel.Artix.com](http://epicduel.artix.com/), [OverSoul.Artix.com](http://oversoul.artix.com/), [Ebilgames.com](http://www.ebilgames.com/), [PonyvsPony.com](http://www.ponyvspony.com/), [BioBeasts.com](http://www.biobeasts.com/), [AQ3D.com](http://www.aq3d.com/), [AQDragons.com](http://www.aqdragons.com/), [BattleGems.Artix.com](http://battlegems.artix.com/), [BladeHaven.com,](http://www.bladehaven.com/) and [ArtixWallpapers.com](http://www.artixwallpapers.com/).
+### 1\. INTRODUCTION
 
-We are also aware, that due to our content we may have some younger users on our site. We recognize the need to provide additional protection to those younger users. The Children's Online Privacy Protection Act ('COPPA') requires that we inform parents and legal guardians about how we collect, use, and disclose personal information from children under 13 years of age. We explain this information under the Children's Privacy Policy section below.
+Artix Entertainment develops and publishes social games for the web and mobile devices including AdventureQuest 3D, AdventureQuest, AdventureQuest Worlds, AdventureQuest: Battle Gems, AQ Dragons, Undead Assault, DragonFable, EpicDuel, MechQuest, Pony vs. Pony, Bladehaven, OverSoul, and HeroSmash (the “Service”). In this policy, "Artix Entertainment" refers to Artix Entertainment, LLC and its Affiliates, which shall mean subsidiaries, parent companies, joint ventures and other corporate entities under common ownership. We may also refer to Artix Entertainment as "We" or "Us".
 
-  * Information You Provide to Us And How We Use This Information
-  * What We WILL NOT DO With the Information You Provide to Us
-  * What Are Cookies?
-  * What Are IP Addresses?
-  * Message Boards
-  * Mobile
-  * Security and Credit Card Use
-  * CHILDREN'S PRIVACY POLICY
-  * Revision Information
-  * Contacting Artix Entertainment
+#### This Privacy Policy describes:
 
+  * the information We collect, how We do so and the purposes of our collection
 
+  * how We use and with whom We share such information
 
-## Information You Provide to Us And How We Use This Information
+  * how you can access and update such information
 
-#### Chat Logs of Users
+  * the choices you can make about how We collect, use and share your information
 
-Artix Entertainment creates and retains logs of all chat conversations (both private and public) between users ('Chat Content'), as well as private game play patterns and other activity of users within Company games. Additionally, you acknowledge and grant permission to Company to review, monitor, disclose, censor, delete or otherwise remove Chat Content and other private user activity within Company games for the purpose of preventing breaches of this Agreement and of other Company prohibitions on unlawful or abusive activity. Accordingly, you acknowledge that you have no privacy rights whatsoever in Chat Content or any other content that you create in Company games.
+  * how We protect the information We store about you
 
-#### Free Accounts
 
-Artix Entertainment has a large portion of their games available to the users for free. In order to register a character for the free version of the game, the only information that Artix Entertainment collects is the user's e-mail address if the user is over 13 years of age. The e-mail address is used for the following purposes:
 
-  1. To send a confirmation notice to the user of their character registration and password information. 
-  2. Upon the user's request, to send the user password information when the user has lost or forgotten the password.
-  3. In response to any question, concerns or problem that the user contacted Artix Entertainment about. 
-  4. To contact the user about any problem with the user's account or conduct in the game.
-  5. To send out a newsletter*. Out of respect for your privacy, we provide a way to unsubscribe. Please see the Choice and Opt-out section below. 
 
+If you have questions regarding this Privacy Policy or our collection and use of information, please contact us as described in Section 14 ("Contact Us").
 
+If you access our games from a third party Social Networking Site ("SNS"), you may be required to also read and accept the SNS [Terms of Service](https://web.archive.org/policy-terms) and Privacy Policy.
 
-* Artix Entertainment games are unique in a sense that we design and run numerous special events that keep the game constantly fresh, challenging, fun and interesting for our users. Some of these events coincide with actual real life holidays, such as Valentine's Day, other events are made up as we go along. We use the newsletter to notify our users of all the current events, changes, improvements, upgrades, new characters, etc. In addition, occasionally we may notify our users of new products and services that Artix Entertainment has designed and made available exclusively to our users. In addition, Artix Entertainment may send promotional items and advertisements from the sponsors, however Artix Entertainment will not divulge your personal information to the sponsor directly.
+### 2\. INFORMATION WE COLLECT
 
-By registering for Artix Entertainment, you consent to: a) receive periodic email communications from Artix Entertainment concerning your account; and b) receive the above-described email newsletter. 
+#### Information about You Received from an SNS
 
-#### **Choice/Opt-Out**
+When you use any Artix Entertainment game at an SNS such as Steam, Facebook, or Google +, where our games may also be referred to as “applications”, you allow Artix Entertainment to access certain information from your profile for that site. The information you allow Artix Entertainment to access varies by game and SNS, and it is affected by the privacy settings you and your friends establish at the SNS. You can control and find out more about these settings at the SNS where you play our games. For example, Artix Entertainment may access and store some or all of the following information, as allowed by you, the SNS and your preferences:
 
-If you no longer wish to receive our email newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in any newsletter email message. We also offer an opportunity to opt-out of certain communications on our Manage Account web pages, or you may contact us at (813) 774-8493, or use the email or physical address listed below to opt-out.
+  * your first and last name
 
-#### **Subscriber Accounts**
+  * your profile picture or its URL
 
-A Subscriber Account is a paid membership account that provides our users with additional access and privileges while playing Artix Entertainment. The Subscriber Account requires and uses all of the information listed under the Free Account in the same manner. In addition to the above, however, we will require you to provide the following information:
+  * your user ID number, which is linked to publicly available information such as name and profile photo
 
-  1. First and last name
-  2. Address, city, state and zip code
-  3. Home telephone number
+  * the user ID numbers and other public data for your friends
 
+  * the login e-mail you provided to that SNS when you registered
 
+  * your physical location and that of
 
-We are copied with this information by PayPal (see Security and Credit Card Use below) and require this information for the sole purpose of verifying your account and payment information.
+  * your access devices
 
-## What We WILL DO With Your Personal Information
+  * your gender
 
-We use third-party service providers (“Service Providers”), such as a shipping company to fulfill orders, and a credit card processing company to bill you for goods and services. When you sign up with the website, we will provide your personal information (e.g. name, address, phone number and email address) to Service Providers as necessary for such Service Providers to provide their respective services. Service Providers to whom Artix Entertainment discloses your personal information all have agreed to abide by this Privacy Policy, and Service Providers are specifically prohibited from using your personal information for promotional purposes. Please note that Service Providers (e.g., PayPal)may have separate privacy policies that govern their collection, use and storage of information that you provide to them directly. 
+  * your birthday
 
-## What We WILL NOT DO With Your Personal Information
 
-Artix Entertainment is supported by its Subscriber Account Users. Therefore Artix Entertainment does not share, sell, rent or trade your or your child's personally identifiable information with any third parties for their promotional purposes. We reserve the right to disclose your or your child's personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web Sites. 
 
-## Other Provisions
 
-#### What Are Cookies?
+By playing an Artix Entertainment game through an SNS, you are authorizing Artix Entertainment to collect, store, and use in accordance with this Privacy Policy any and all information that you agreed the SNS could provide to Artix Entertainment through the SNS Application Programming Interface ("API"). Your agreement takes place when you "accept" or "allow" (or similar terms) one of our applications on an SNS.
 
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. Each cookie can only be accessed by the web site that created the cookie. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
+#### Information We Collect from You Directly
 
-We use both temporary session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate on our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your web browser's help information.
+When you interact with the Service (whether or not on an SNS), at [http://www.AQ3D.com](http://www.aq3d.com/)​, or any Artix Entertainment-owned website, We may collect and store information from you directly as described below:
 
-We set persistent cookies to store your game account login and/or password, so you don't have to enter it more than once. Persistent cookies also enable us to detect new users, and track referals to the site to reward users that refer their friends to the site.
+#### Registration Information
 
-If your browser rejects all cookies, you may still use our site, but your ability to use some areas of our site including purchasing membership, will be limited.
+We may allow you to “register” with Us by using Facebook Connect, Steam, or other SNS authentication options to create an account or profile within the Service. We may also provide a more typical registration flow where you may be required to provide the following information: your age or birthday (for age screening and/or to better understand who our users are); your first and last names; your e-mail address; a password and other information that helps Us confirm that it is you accessing your account.
 
-#### Third Party Tracking Technologies
+We may also offer you the option to complete a user profile that is visible to other Artix Entertainment users. Your user profile may include: a profile photo; one or more game username(s); your gender; biographic details that you provide; links to your profiles on various SNS; details about the games you play; and a Artix Entertainment user ID number that is created by Artix Entertainment and used to identify your profile.
 
-Third party partners, affiliates, and advertisers employ a software technology called Web beacons, that help us better manage content on our site by informing us what content is effective. Web beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, Web beacons are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. 
+The Artix Entertainment user ID number used to identify your account and profile will be public and will appear in the URL of your profile page, but will only permit access to information that is considered public or that you have designated as public in your settings.
 
-The use of cookies and Web beacon by our partners, affiliates, and advertisers is not covered by our privacy statement. We do not have access or control over these tracking technologies. Our partners use persistant cookies and Web beacons to track users that visit our site through their advertising networks. For more information on cookies, please visit the **Federal Trade Commission's** website at <http://www.ftc.gov/ftc/cookies.shtm>.
+Your first and last names and profile picture are considered "public" on Artix Entertainment websites that offer direct access to Artix Entertainment games and search engines may index this publicly available information. When We offer profiles, We will also offer functionality that allows you to opt-out of public indexing of your public profile information.
 
-#### Flash LSOs
+We may also offer you the ability to import your address book contacts or manually enter email addresses so that you can (i) locate your contacts on Artix Entertainment; and (ii) invite those contacts to join you in our games. We will store those contacts for purposes of helping you and your contacts make connections on our site. If you do not want your contacts stored just follow the instructions available at the "Learn More" link. Passwords provided to Artix Entertainment for the purpose of accessing your address book will not be stored.
 
-We use local shared objects, also known as Flash cookies, to store your preferences such as volume control or high game score, or display content based upon what you view on our site to personalize your visit.  Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored.  Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118).
+#### Information We Receive or Collect When You Access Artix Entertainment Games on a Mobile Device
 
-#### What are IP Addresses?
+If you play Artix Entertainment games on your mobile telephone or other mobile device, including iPads and tablets, We collect mobile device identifiers, including MAC Address, and IP Address. In certain games We will create and assign to your device an identifier that is similar to an account number. We may collect the name you have associated with your device, device type, telephone number, country, and any other information you choose to provide, such as username, character name, geo-location or e-mail address. We may also access your contacts to enable you to invite friends to join you in the Service.
 
-An IP address (Internet Protocol address) is a unique address that certain electronic devices use in order to identify and communicate with each other on a computer network utilizing the Internet Protocol standard (IP)—in simpler terms, a computer address. Any participating network device—including routers, computers, time-servers, printers, Internet fax machines, and some telephones—can have their own unique address.
+#### Payment Information
 
-#### Message Boards
+If you purchase a license to use in-game virtual currency or virtual items directly from Artix Entertainment, We will collect the billing and financial information necessary to process your charges, which may include your postal and email addresses. Artix Entertainment may also receive the billing and payment information that you provide when your purchase is processed by another party, such as Facebook (for Facebook Credits), Valve (for Steam Wallet), or Apple (for purchases on iOS devices). Our [Terms of Service](https://web.archive.org/policy-terms) explain our policies and terms relevant to our charges and billing practices. Please note that purchases of third party credits or currencies like Facebook Credits may also be subject to additional policies.
 
-If you use a message board or forum on this Web Site, you should be aware that any personally identifiable information you submit there can be read, collected or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
+#### Customer Support Correspondence
 
-The message board must be signed up for separately from the game and is subject to TERMS OF USE. To request removal of your personal information from our message board or forums, contact us at . In some cases we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+When you ask for assistance from our Customer Support team, We will collect and store the contact information you provide (generally your name and e-mail address), information about your game play or activity on the Service, and your user ID number. We will also store the correspondence and any information contained within.
 
-#### Mobile
+#### SMS Notifications, Push Notifications & Local Notifications
 
-Artix Entertainment may use tools or third party analytical software to collect and use certain non-personal data that does not enable Artix Entertainment to identify you. The types of non-personal data Artix Entertainment may collect and use include, but are not limited to: (i) mobile device type and device properties; (ii) mobile device software platform and firmware; (iii) mobile phone carrier; (iv) geographical data no more accurate that metropolitan areas; (v) gamescore and achievements; (vi) other non-personal data as reasonably required by Artix Entertainment to enhance its services.
+We receive and store the information you provide, including your telephone number, when you sign up to have SMS notifications sent directly to your mobile phone. These messages notify you of in-game activity and may allow you to play the game from your phone. You can adjust the types of notifications you receive and when you receive them by editing your SMS notification settings; just log in to your game account and choose SMS mobile from the Help menu.
 
-Artix Entertainment may use the collected data for purposes of analyzing usage of Artix Entertainment games, managing and providing Artix Entertainment games and to further develop Artix Entertainment's services and products. Artix Entertainment reserves the right to use and disclose the collected non-personal data for purposes of advertisement by Artix Entertainment or Artix Entertainment's partners.
+With your consent We may send push notifications to your mobile device to provide game updates and other relevant messages. You can manage push notifications from the “options” or “settings” page within the relevant game or within the device settings. You may also be able to manage them from your device’s settings page for the relevant game.
 
-## Security and Credit Card Use
+We may send local notifications to your mobile device to provide game updates and other relevant information. You can manage local notifications from the “options” or “settings” page within the relevant game.
 
-The security of your personal information is important to us and our third party vendors. When you enter sensitive information (such as credit card number and/or social security number, Corp ID number or ABN) on our site or an affiliate sign up page, registration or order forms, both Artix Entertainment and our third party vendors encrypt that information using secure socket layer technology (SSL).
+#### Technical and Usage Information
 
-We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+When you access our websites or play our games, We collect (i) certain technical information about your mobile device or computer system, including MAC Address, IP Address and mobile device ID; and (ii) usage statistics about your interactions with the Service. This information is typically collected through the use of server log files or web log files (“Log Files”), mobile device software development kits and tracking technologies like browser cookies to collect and analyze certain types of technical information. Some of the cookies the Service places on your computer are linked to your user ID number(s). For more information on how We utilize cookies and other tracking technologies please review the "Cookies and Automated Information Collection" portion of Section 3 ("How We Collect Information about You").
 
-If you have any questions about the security of our website, you can email us at: 
+#### Game Toolbars or Game Bars
 
-Artix Entertainment utilizes a credit card processor to process your payments while on our site. We share your name, email address and credit card information with these third parties to provide the service requested. These third parties are not permitted to use your information for their own promotional purposes. Alternatively you have the option to use the payment options listed below. The personal information (such as name and email address, but non inclusive of your financial information) collected by these third parties is shared back with Artix Entertainment for the purpose of fulfilling your subscription request.
+You may have the opportunity to download and install an Artix Entertainment branded toolbar (the "Toolbar") when playing various games. As the Toolbar is improved, it will be automatically updated on your browser. The Toolbar itself does not collect personal information, but there are some features within the Toolbar that may allow you to provide personal information (e.g. Contact form, Tell-a-friend). Additionally, We may keep statistics regarding toolbar use on an aggregated basis.
 
-#### PayPal
+### 3\. HOW WE COLLECT INFORMATION ABOUT YOU
 
-Founded in 1998, PayPal, an eBay Company, enables any individual or business with an email address to securely, easily and quickly send and receive payments online. To find our more about PayPal and its privacy and security policies, please visit [www.paypal.com](http://www.paypal.com/). PayPal is our preferred method of payment.
+We may collect information about you in any one or more of the following ways:
 
-#### PlaySpan
+#### Information about Players and Play
 
-Founded in 1998, PlaySpan offers over 100 methods of payment, including cash and money order methods (additional fees may apply). To find out more about PlaySpan and its privacy and security policies, please visit [www.playspan.com](http://www.playspan.com/)
+When you play one of our games, Artix Entertainment collects and stores certain information that you provide directly or through the SNS or other third party website that is offering our game(s). To provide a richer game play and social experience, We also collect information about your play and interaction with other players and the Service. The bulk of this information is collected and stored through the use of Log Files, which are files on our web servers that record actions taken on our games and websites.
 
-#### Cherry Credits
+#### Communications Features
 
-Cherry Credits allows individuals or businesses to make payments without the dominant use of Credit Cards. To find out more about Cherry Credits and its privacy and security policies, please visit [www.cherrycredits.com](http://www.cherrycredits.com/).
+You may be able to take part in certain activities on our websites or games that give you the opportunity to communicate or share information not just with Artix:
 
-Name of 3rd Party Partner | What info is shared with partner? | What info is collected by this partner? | Partner's Purpose | Link to partner's privacy policy  
----|---|---|---|---  
-PayPal | userid, email | name, address, email, payment info | Payment Provider | [PayPal Privacy Policy](https://www.paypal.com/us/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside)  
-PayPalPro | name, address, email, credit card | name, address, email, payment info | Payment Provider | [PayPal Privacy Policy](https://www.paypal.com/us/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside)  
-PlaySpan | userid, email | name, address, email, payment info | Payment Provider | [PlaySpan Privacy Policy](http://www.playspan.com/privacy/)  
-FastCash Brazil | none | username, email, payment info | Payment Provider | [FastCash Brazil Privacy Policy](https://www.fastcash.com.br/en/)  
-Paymentez | userid, email | payment info | Payment Provider | [Paymentez Privacy Policy](https://d3f8wu33pc6fwg.cloudfront.net/checkout/docs/privacy/pp_2013_pt-BR.pdf)  
-DragonPay  | userid, email | payment info | Payment Provider | [DragonPay Privacy Policy](http://www.dragonpay.ph/about/)  
-cashU | userid | payment info | Payment Provider | [cashU Privacy Policy](https://www.cashu.com/site/en/privacyPolicy)  
-Mobius | userid | payment info | Payment Provider | [Mobius Privacy Policy](http://drupal.jordanacosta.com/?q=node/26)  
-Allopass SMS | userid | cell phone number | Payment Provider | [Allopass Privacy Policy](http://www.allopass.com/us/legal/privacy)  
-Boku SMS | userid | cell phone number | Payment Provider | [Boku Privacy Policy](http://boku.com/privacy/)  
-Cherry Credits | userid | payment info | Payment Provider | [Cherry Credits Privacy Policy](http://www.cherrycredits.com/sg/pages/privacy-policy)  
-INCOMM | userid | none | Payment Provider | [INCOMM Privacy Policy](http://www.incomm.com/)  
-(link at bottom of page)  
-Blackhawk | userid | none | Payment Provider | [Blackhawk Privacy Policy](http://www.blackhawknetwork.com/privacy-policy)  
-Rixty | userid | email | Payment Provider | [Rixty Privacy Policy](https://www.rixty.com/docs/PrivacyPolicy.html)  
-Zeevex | userid, email | email | Payment Provider | [Zeevex Privacy Policy](https://www.zeevex.com/privacy)  
-OpenBucks | userid | none | Payment Provider | [OpenBucks Privacy Policy](http://www.openbucks.com/privacy-policy.html)  
-Freecause | userid | none | Toolbar | [Freecause Privacy Policy](http://rakutenloyalty.com/legal-website-privacy-policy/)  
-SuperRewards | userid, Age | optional: email, gender, birthdate | OfferWall | [SuperRewards Privacy Policy](http://www.superrewards-offers.com/super/privacy)  
-Matomy Money | userid, Age | optional: email | OfferWall | [Matomy Money Privacy Policy](http://www.matomymoney.com/about/privacy-policy/)  
-Peanut Labs | encrypted userid, Age | optional: age, gender, demographics, varies | OfferWall | [Peanut Labs Privacy Policy](http://www.peanutlabs.com/media/privacy_policy.php)  
-Sometrics | userid | optional: email | OfferWall | [Sometrics Privacy Policy](https://www.sometrics.com/company/privacy/)  
-TokenAds | userid, Age | optional: name, email, facebook connect | OfferWall | [TokenAds Privacy Policy](http://www.tokenads.com/privacy.html)  
-SponsorPay | userid | optional: email, gender, birthdate | OfferWall | [SponsorPay Privacy Policy](http://sponsorpay.com/)  
-SupersonicAds | userid | optional: email | OfferWall | [SupersonicAds Privacy Policy](http://www.supersonicads.com/about-us/privacy-policy)  
-Volume11 Media | userid, Age | none | OfferWall | [Volumn11 Media Privacy Policy](http://v11media.com/privacy-policy/)  
-RadiumOne | userid | optional: email | OfferWall | [RadiumOne Privacy Policy](http://radiumone.com/privacy-policy.html)  
-Jampp | userid | optional: facebook connect | OfferWall | [Jampp](http://jampp.com/index.php)  
-Shizmoo | none | none | Advertiser | [Shizmoo Privacy Policy](http://www.cpmstar.com/index.aspx?nav=privacy)  
-Google | none | none | Advertiser | [Google Privacy Policy](http://www.google.com/policies/privacy/)  
-WildTangent | none | none | Advertiser | [Wild Tangent Privacy Policy](http://www.wildtangent.com/legal/privacy)  
-WildTangent Brandboost | userid | none | Advertiser | [Wild Tangent Privacy Policy](http://www.wildtangent.com/legal/privacy)  
-AdCash | userid | none | Advertiser | [AdCash Privacy Policy](https://www.adcash.com/en/privacy.php)  
-Game Advertising Online | userid | none | Advertiser | [GameAdvertising Online Privacy](https://www.game-advertising-online.com/index.php?section=doc&action=privacy)  
-adsmarket.com | userid | none | Advertiser | [adsmarket Privacy Policy](http://www.matomy.com/assets/global-privacy-policy)  
-popmog.com | userid | none | Advertiser | [popmog Privacy Policy](http://en.popmog.com/static/privacy)  
-ad2games.com | none | none | Advertiser | [ad2games Privacy Policy](http://web.ad2games.com/_launch/index.php?article_id=25&clang=1)  
-ad4game.com | none | none | Advertiser | [ad4game Privacy Policy](http://ad4game.com/privacy_policy.php)  
-ValueClick | none | none | Advertiser | [ValueClick Privacy Policy](http://www.valueclick.com/privacy)  
-  
-If you have any inquiries regarding our partner's privacy practices or how they use your child's personal information, please contact us directly at .
+  * participating in player forums and message boards
 
-#### Social Media (Features) and Widgets
+  * posting public comments to other users' profiles or gameboards
 
-Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+  * sending private messages or invitations to other users, either directly on our websites or to their e-mail accounts
 
-## CHILDRENS'S PRIVACY POLICY
+  * chat with other users
 
-Artix Entertainment encourages parents and legal guardians to spend time online with their children. We urge parents and legal guardians to instruct their children to never give out their personal information online without permission. We also recognize a special need to protect personal information obtained from children. In compliance with Children's Online Privacy Protection Act ('COPPA'), we have adopted the following policies regarding children under the age of 13 ('Children'):
+  * posting photos
 
-#### Type and Use of Information Collected from Children
 
-To create a Free Account, Artix Entertainment does not collect or require for the child to provide any personally identifiable information if the child is known to Artix Entertainment to be under the age of 13. 
 
-To create a Subscriber Account, Artix Entertainment does require an e-mail address as well as the parent's correct billing information as outlined under the Subscriber Accounts section.
 
-For Subscriber Accounts, we use your Subscriber e-mail address for the following purposes:
+We may record and store archives of these communications on Artix Entertainment's servers to protect the safety and wellbeing of our users and Artix Entertainment's rights and property in connection with the service. You acknowledge and consent to the recording and storage of such communications for these purposes.
 
-  1. To send a confirmation notice to the parent of their child's character registration and password information. 
-  2. Upon the parent's request, to send the user password information when the child has lost or forgotten their password. 
-  3. In response to any questions, concerns or problems that a subscriber has contacted Artix Entertainment about.* 
-  4. To contact the parent about any problem with the child's account or conduct in the game. 
-  5. To send out a newsletter to the subscriber email account**.
+#### Cookies and Automated Information Collection
 
+When you access the Service, We collect certain technical information in order to (i) analyze the usage of our sites and services; (ii) provide a more personalized experience; and (iii) manage advertising. We and service providers acting on our behalf, such as Google Analytics, use Log Files and tracking technologies to collect and analyze certain types of technical information, including cookies, IP addresses, device type, device identifiers, browser types, browser language, referring and exit pages, and URLs, platform type, the number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, game state and the date and time of activity on our websites or games, and other similar information. In some cases, We will associate this information with your user ID number for our internal use.
 
+We may also employ other technologies including (i) web beacons, which allow Us to know if a certain page was visited or whether an e-mail was opened; (ii) tracking pixels, which allow Us to advertise more efficiently by excluding our current users from certain promotional messages, identifying the source of a new installation or delivering ads to you on other websites; and (iii) local shared objects also known as flash cookies, which help Us to prevent fraud, remember your in-game preferences and speed up load times.
 
-*We recognize that young children may inadvertently give out personal information including their e-mail address when contacting us with any questions, problems, or concerns they have encountered while playing the game. We do not collect or use any such additional personal information acquired in this manner unless it is necessary for us to respond to the problem or question or concern. We reserve the right to disclose your child's personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web Sites. 
+You can set your web browser to warn you about attempts to place cookies on your computer or limit the type of cookies you allow. Flash cookies operate differently than browser cookies and cookie management tools available in a web browser may not remove flash cookies. To learn more about and manage flash cookies you can visit http://www.adobe.com​ and make changes at the privacy settings panel. If you disable cookies, you may lose some of the features and functionality of playing our games, as Artix Entertainment cookies are necessary to track and enhance your game activities. Please note that companies delivering advertisements in our games or on our websites may also use cookies or other technologies, and those practices are subject to their own policies.
 
-** Artix Entertainment games are unique in a sense that we design and run numerous special events that keep the game constantly fresh, challenging, fun and interesting for our users. Some of these events coincide with actual real life holidays, such as Valentine's Day, other events are made up as we go along. We use the newsletter to notify our users of all the upcoming events, changes, improvements, upgrades, new characters, etc. In addition, occasionally we may notify our users of new products and services that Artix Entertainment has designed and made available exclusively to our users.
+#### Other Sources
 
-If a child desires to upgrade his/her account to Subscriber Status, a parent or legal guardian will be required to divulge additional reasonably necessary information as described above under Subscriber Accounts.
+We may collect or receive information from other sources including (i) other Artix Entertainment users who choose to upload their email contacts; and (ii) third party information providers. This information will be used to supplement your profile - primarily to help you and your friends connect. It will be combined with other information We collect.
 
-Artix Entertainment does not share, sell, rent or trade, your child's personal information to any third parties for their promotional purposes. 
+### 4\. HOW WE USE THE INFORMATION WE COLLECT
 
-Artix Entertainment does not condition a child's participation in an online activity on the child providing more personal information than is reasonably necessary for the activity. In addition, Parent's have the right to consent to the website's use of their child's personal information without having to consent to its disclosure of that information to third parties. Parents may consent to the website's use of their child's personal information, but request that such personal information is not disclosed to third parties, by emailing us at 
+In general, We collect, store and use your information to provide you with a safe, smooth, efficient, and customized experience. For example, We may use information collected from you in any one or more of the following ways:
 
-#### Notification and Verifiable Parental Consent
+  * to create your game accounts and allow play of our games
 
-At this time, whenever Artix Entertainment is aware that a user is under the age of 13, Artix Entertainment requires the child submit the parent's email address. We will then provide proper parental notice of the child's use of the site, including their username and password. For Subscriber Accounts, the receipt of payment is considered actual, verifiable consent from the parents to the child's use of our website and to any information that was divulged as reasonably necessary to process payments, verify and maintain the account.
+  * to identify and suggest connections with other Artix Entertainment users
 
-#### How can parents access, change or delete personally identifiable information about their children?
+  * to enable user-to-user communications
 
-Once again, we would like to assure you that we do not keep any information other than what is listed above. However, parents are welcome to contact us about any personally identifiable information about their child by email. If your child's personally identifiable information changes, or if you no longer desire our service, you may correct, update, or delete it by making the change within the 'Account Management' section of the site, or by contacting us at the email address provided below. We will respond to your request to access within 30 days. Parents may request that we discontinue collection and use of their Child's Personal Information and request that we delete it by contacting us at the email address provided below.
+  * to provide technical support and respond to user inquiries
 
-#### How can users acess, change or delete personally identifiable information about themselves?
+  * to prevent fraud or potentially illegal activities, and enforce our [Terms of Service](https://web.archive.org/policy-terms)
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update or delete it by making a change within the 'Account Management' section of the site, or by contacting us at the email address provided below. We will respond to your request to access within 30 days.
+  * to deliver and target advertising
 
-#### Data Retention
+  * to notify users of in-game updates
 
-We will retain your informationfor as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at .  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+  * to provide in-game leader boards and promote in-game player achievements
 
-#### Revision Information
+  * to solicit input and feedback to improve Artix Entertainment products and services and customize your user experience
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+  * to inform users about new products or promotional offers
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. If we make material changes to how we use Personal Information collected from children under age 13, we will notify parents by email in order to obtain verifiable parental consent for the new uses of the child's Personal Information.
+  * to engage in commonly accepted practices, such as contacting you at the email address We have on file if you are a potential winner in a sweepstakes
 
-## Revision Information
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. If we make material changes to how we use Personal Information collected from children under age 13, we will notify parents by email in order to obtain verifiable parental consent for the new uses of the child's Personal Information. 
 
-## Contacting Artix Entertainment
+One important use of your information is communication. If you have provided your email address to Artix Entertainment, We'll use it to respond to (i) customer support inquiries, and (ii) keep you informed of your in-game activity, including comments from friends, notifications about in-game status such as "crops ready" as well as notifications of gift and neighbor requests. Some messages, such as invites for friends to join you in a game, may include your name and profile photo. We may also send promotional email messages and promotional SMS messages ("Promotional Communications") directly or in partnership with parties other than Artix Entertainment. Each Promotional Communication will generally offer recipients choices about receiving additional messages.
 
-If you need further assistance or have any additional questions or comments about our Privacy Policy, please contact us at  or write to us:
+### 5\. SHARING OF YOUR INFORMATION
 
-**Member Services**
+We will share your information (in some cases personal information) with third parties, that is parties other than Artix Entertainment, in the following circumstances:
 
-**Artix Entertainment, LLC**  
-P.O. Box 2005  
-Land O' Lakes, FL 34637  
-For Payment Questions Only, Please Call (813) 774-8493 
+#### Third Party Service Providers
+
+We will provide your information to third party companies to perform services on our behalf, including payment processing, data analysis, e-mail delivery, hosting services, customer service and to assist Us in our marketing efforts. We direct all such third party service providers to maintain the confidentiality of the information disclosed to them and to not use your information for any purpose other than to provide services on Artix Entertainment's behalf.
+
+#### Friends and Other Artix Entertainment Players
+
+The Service supports and may encourage interaction among players. In most Artix Entertainment games your SNS friends will see your name, profile photo and descriptions of your game activity. In many Artix Entertainment games friends and other players will be able to see your game profile, which may include your name or a “game name” and your profile photo, which in certain cases can reveal your SNS User ID number or Artix Entertainment ID. For example, in Artix Entertainment Poker any other player may encounter your game profile, if you are playing at the same table. Access to a Artix Entertainment ID or your SNS User ID may allow others to view the public information associated with your related SNS or Artix Entertainment account. Other players may also be able to send you game requests or even friend requests through the related SNS’ communication channels.
+
+#### Advertising of Third Party Products and Services
+
+We do not actively share personal information with third party advertisers for their direct marketing purposes unless you give Us your consent.
+
+We may share (i) aggregated information (information about you and other users collectively, but not specifically identifiable to you); (ii) anonymous information; and (iii) certain technical information (including IP Addresses, MAC Addresses for mobile devices and mobile device IDs) to develop and deliver targeted advertising in the Service and on the websites of third parties. We may also allow advertisers to collect these types of information within the Service and they may share it with Us. Advertisers may collect this information through the use of tracking technologies like browser cookies and web beacons. The information collected may be used to offer you targeted ad-selection and delivery in order to personalize your user experience by ensuring that advertisements for products and services you see will appeal to you, a practice known as behavioral advertising, and to undertake web analytics (i.e. to analyze traffic and other end user activity to improve your experience). To learn more about behavioral advertising or to opt-out of this type of advertising for participating ad networks, you can visit the Network Advertising Initiative or the Digital Advertising Alliance.
+
+Our collection, use, and disclosure of anonymous or aggregated information are not subject to any of the restrictions in this Privacy Policy.
+
+#### Offer Walls
+
+Artix Entertainment games or their purchase pages may display an "offer wall" that is hosted by an offer wall provider. The offer wall allows third party advertisers to provide virtual currency to users in exchange for interacting with an advertisement or for completing a marketing offer that may include signing up for an account with one of those advertisers. These are not offers made by Artix Entertainment. These offers may be displayed to you based on certain technical information, such as your geographic area or anonymous demographic information. After clicking on one of these advertisements, you will no longer be on a site hosted by Artix Entertainment or a partnering SNS. To properly credit user accounts and to prevent fraud, a unique identifier, in some cases your user ID number, will be shared with the offer wall provider.
+
+#### Safety, Security and Compliance with Law
+
+Your information, and the contents of all of your online communications (including without limitation chat text, voice communications, IP addresses and your personal information) may be accessed and monitored as necessary to provide the Service and may be disclosed: (i) when We have a good faith belief that We are required to disclose the information in response to legal process (for example, a court order, search warrant or subpoena); (ii) to satisfy any applicable laws or regulations (iii) where We believe that the Service is being used in the commission of a crime, including to report such criminal activity or to exchange information with other companies and organizations for the purposes of fraud protection and credit risk reduction; (iv) when We have a good faith belief that there is an emergency that poses a threat to the health and/or safety of you, another person or the public generally; and (v) in order to protect the rights or property of Artix Entertainment, including to enforce our [Terms of Service](https://web.archive.org/policy-terms).
+
+#### Sale or Merger
+
+In the event that Artix Entertainment undergoes a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, We may transfer all of your information, including personal information, to the successor organization in such transition. If material changes to Artix Entertainment's privacy practices will occur as a result of the business transition, We will notify you and other users (in the manner described in Section 12) of the business transition prior to transferring your personal information.
+
+### 6\. OUR POLICIES CONCERNING CHILDREN
+
+Our websites and games are not intended for children under the age of 13 and We do not knowingly collect any personal information from such children. Children under the age of 13 should not use our websites or games at any time. In the event that We learn that We have inadvertently gathered personal information from children under the age of 13, We will take reasonable measures to promptly erase such information from our records.
+
+### 7\. HOW TO ACCESS AND UPDATE YOUR INFORMATION
+
+#### Information We Receive From an SNS Where You Play Our Games
+
+To manage the information Artix Entertainment receives about you from an SNS where you play our games, you will need to follow the instructions at that site for updating your information and changing your privacy settings. You can manage certain aspects of information collection and use by going to the settings of your (mobile) device and reviewing the permissions of each application.
+
+Once Artix Entertainment receives your information from an SNS, that information is stored and used by Artix Entertainment in accordance with this Privacy Policy, and you may access and update that information as described below. Game or other accounts created with Artix Entertainment are considered active until We receive a user request to delete them or deactivate them.
+
+#### Other Methods of Accessing and Controlling your Information
+
+  * If you no longer want Artix Entertainment to make active use of your information, you may send an email to Artix.MobilePrivacy@Artix.com. Place "Delete My Account" in the subject line and include your first name, last name, e-mail address and user ID number for the SNS from which you access our games (if applicable) in the body of the e-mail. We will respond to your request within thirty (30) days. Please note that certain records, for example those pertaining to payments or customer service matters, will be retained for legal and accounting purposes. If you have sent or posted content on the Service, We may not be able to delete it.
+
+  * If you wish to review or change the information Artix Entertainment has about you, e-mail Us at the address provided herein.
+
+  * You may change your e-mail preferences at any time, by visiting your e-mail preference page.
+
+  * You can turn off push notifications by visiting the “options” or “settings” page within the relevant game. You can turn off local notifications by visiting the “options” or “settings” page within the relevant game.
+
+  * You can stop further use of your geo-location (for example through “check-ins”) by visiting your device's settings for the relevant application or the “settings” page for the relevant game. You can also stop checking in.
+
+  * If you have additional questions about this Privacy Policy, contact Us at Artix.MobilePrivacy@Artix.com
+
+
+
+
+### 8\. YOUR SHARING AND MESSAGING OPTIONS
+
+#### Information We Receive from Third Party SNS Where You play an Artix Entertainment Game
+
+If you play our games at a third-party SNS, Artix Entertainment will be able to access and store profile and other information about you as described above. The categories of information you share with Us will depend, in part, on the permissions you grant Us and the privacy settings you have established at the SNS where you access the application. Artix Entertainment does not offer an "opt out" option for specific fields that are shared by the SNS where you access and play the game(s).
+
+#### Opting out of Promotional Communications
+
+You can choose to opt out of receiving additional promotional emails from Artix Entertainment by clicking on the "unsubscribe" link in any such e-mail, or visiting the e-mail preference page. Please note that once We receive your request, it may take an additional period of time for your opt-out to become effective. Your unsubscribe or e-mail preference change will be processed promptly, and in no event longer than 10 business days.
+
+#### Opting Out of Other Communications
+
+You can opt out of receiving SMS messages by texting STOP to the number We send from for that particular SMS program. In some cases a preference management page will also be available under the "Help" menu of the game that is offering the SMS program. When We receive an opt-out message from you for SMS messages, We may send a message confirming our receipt of your opt-out.
+
+When you install our apps on your mobile device you can choose to receive push notifications. You can turn off push notifications by visiting the “options” or “settings” page within the relevant game. You may also receive local notifications. You can turn off local notifications by visiting the “options” or “settings” page within the relevant game.
+
+Note that if you opt-out of our Promotional Communications or other forms of communication, We may still e-mail or communicate with you from time to time if We need to provide you with information or if We need to request information from you with respect to a transaction initiated by you or for other legitimate non-marketing reasons.
+
+### 9\. PRIVACY POLICIES AND LINKED SITES AND ADVERTISERS
+
+Our websites and games may contain advertisements from companies other than Artix Entertainment that may link to their own websites. We are not responsible for the privacy practices or the content of such websites. If you have any questions about how these other websites use your information, you should review their policies and contact them directly.
+
+### 10\. SECURITY OF YOUR INFORMATION
+
+Artix Entertainment implements reasonable security measures to protect the security of your information both online and offline, and We are committed to the protection of customer information.
+
+For user accounts registered directly with Artix Entertainment profile information is protected by the password each member uses to access their online account. It is important that you protect and maintain the security of your account and that you immediately notify Us of any unauthorized use of your account. If you forget the password to your Artix Entertainment account, the website allows you to request that instructions be sent to you that explain how to reset your password. When you sign into your account or enter payment information (such as a credit card number when purchasing virtual currency), We encrypt the transmission of that information using secure socket layer technology ("SSL").
+
+While We take reasonable precautions against possible security breaches of our websites and our customer databases and records, no website or Internet transmission is completely secure, and We cannot guarantee that unauthorized access, hacking, data loss, or other breaches will never occur. We urge you to take steps to keep your personal information safe (including your account password), and to log out of your account after use. If your SNS account is hacked, this may lead to unauthorized play of your Artix Entertainment games, so be careful to keep your account information secure. If you have questions about the security of our websites, please contact Us at Artix.MobilePrivacy@Artix.com
+
+Unfortunately, the transmission of information over the Internet is not completely secure. Although We strive to protect your personal data, We cannot guarantee the security of your data while it is being transmitted to our site; any transmission is at your own risk. Once We have received your information, We have procedures and security features in place to try to prevent unauthorized access.
+
+### 11\. CHANGES TO OUR PRIVACY POLICY
+
+We may make P3P – compact machine-readable – policies and headers available. If we do so, we will try to ensure that they are consistent with this human readable policy. However, in the event of a conflict between a machine-readable policy and this policy, this (human readable) policy will control.
+
+If We decide to make material changes to our Privacy Policy, We will notify you and other users by placing a notice on [http://www.AQ3D.com](http://www.aq3d.com/) or by sending you a notice to the e-mail address We have on file for you. We may supplement this process by placing notices in our games and on other Artix Entertainment websites. You should periodically check [http://www.AQ3D.com](http://www.aq3d.com/) ​ and this privacy page for updates.
+
+### 12\. FLORIDA USE ONLY
+
+The Site is controlled and operated by Company from its offices in the State of Florida. Company makes no representation that any of the materials or the services to which you have been given access are available or appropriate for use in other locations. Your use of or access to the Site should not be construed as Company’s purposefully availing itself of the benefits or privilege of doing business in any state or jurisdiction other than Florida.
+
+### 13\. RIGHT TO ACCESS
+
+Users in certain jurisdictions have a right to access personal information held about themselves. Your right of access can be exercised in accordance with applicable law. Please submit any requests for access to your personal data in writing to: Artix.MobilePrivacy@Artix.com
+
+### 14\. CONTACT US
+
+If you have any questions, comments or concerns regarding our Privacy Policy and/or practices, please send an email to: Artix.MobilePrivacy@Artix.com. All other inquiries should be directed to Artix Entertainment's Support Page.
