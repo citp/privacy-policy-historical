@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the penguinmagic.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141631id_/http%3A//www.penguinmagic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penguinmagic.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519204129id_/http%3A//www.penguinmagic.com/privacy.php) for the most accurate reproduction.*
 
 # Penguin Magic Privacy Policy
 
@@ -89,13 +89,19 @@ support@penguinmagic.com
 800-880-2592  
 
 
-|  |  [](https://web.archive.org/coolbox)   
+|  |  [](https://web.archive.org/p/7031)   
+
+
+0 0 : 0 0 : 0 0  remaining
+
+[](https://web.archive.org/p/A17450)
+
   
 [](https://web.archive.org/.php)
 
 0 0 : 0 0 : 0 0  remaining
 
-[](https://web.archive.org/p/6438)
+[](https://web.archive.org/p/7085)
 
 [](https://itunes.apple.com/us/app/coolbox/id582690613) [](http://play.google.com/store/apps/details?id=com.penguinmagic.coolbox)
 
@@ -104,11 +110,11 @@ support@penguinmagic.com
 
 [Act Builder beta](https://web.archive.org/acts.php)
 
-  1. Jordan Vo
-  2. Paul Reynolds
-  3. Magic Orthodoxy
+  1. Paul Anfuso
+  2. Y. Ethan Oum
+  3. Twitch Reents
   4. Kevin Bryan
-  5. Craig Browning
+  5. Gaijin
 
 
 
