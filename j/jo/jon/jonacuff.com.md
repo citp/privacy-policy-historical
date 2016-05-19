@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jonacuff.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214235758id_/http%3A//www.daveramsey.com/store/privacy-policy/cPRI-p1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jonacuff.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519191424id_/http%3A//www.daveramsey.com/store/privacy-policy/cPRI-p1.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
