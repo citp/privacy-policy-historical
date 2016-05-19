@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the gov.ab.ca privacy policy that was archived on 2015-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150925211208id_/http%3A//www.alberta.ca/privacystatement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gov.ab.ca privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519204355id_/http%3A//www.alberta.ca/privacystatement.cfm) for the most accurate reproduction.*
 
-# Government of Alberta Privacy Statement
-
-### Know what information may be collected from you when you visit a Government of Alberta website.
-
-The Government of Alberta is committed to ensuring your privacy while you visit this site. All information is collected in accordance with section 33 (c) of the Freedom of Information and Protection of Privacy (FOIP) Act.
+# Privacy | Using Alberta.ca
 
 ## Collection of information
 
-Information collected on this website is only used for the purpose of assisting the public with finding information about the government and its services. When you visit this site, our web server automatically collects a limited amount of standard information essential to the operation and evaluation of the site. This information is not used to identify individuals who come to the site. None of this information is disclosed to other public bodies or individuals.
+All information is collected in compliance with section 33 (c) of the Freedom of Information and Protection of Privacy (FOIP) Act.
 
-The information that is collected identifies the following:
+When you visit this site, our web server automatically collects a limited amount of standard information essential to the operation and evaluation of the site. This information is not used to identify individuals who come to the site, nor is it disclosed to other public bodies or individuals.
+
+The information that's collected identifies the following:
 
   * the page from which you arrived
   * the date and time of your page request
@@ -26,23 +24,10 @@ The only information we may use to identify you is the information you give volu
 
 This personal information is disclosed only to the authorized personnel who use it to process and respond to your request.
 
-While the personal information you send is secure once it reaches the government server, it may not be secure in transit between your computer and ours.
-
-For more information about any of the policies described above, please contact:
-
- **[Email](mailto:internetcomm@gov.ab.ca)**
-
- **Mail**
+While the personal information you send is secure once it reaches the government server, it may not be secure in transit between your computer and ours. For more information about any of the policies described above, please contact:
 
 Director, Digital Communications  
-7th fl Federal Building  
-9820 - 107 Street  
-Edmonton, AB  
-T5K 1E7
-
- **Phone**
-
-780-427-2754 
+Email: [internetcomm@gov.ab.ca](mailto:internetcomm@gov.ab.ca?subject=GOA%20Privacy%20statement)
 
 ## Cookies
 
@@ -52,7 +37,7 @@ If you wish, you can change the settings on your web browser to deny cookies, or
 
 Government of Alberta websites use cookies to collect anonymous statistical information such as browser type, screen size, traffic patterns and pages visited. This information helps us provide you with better service. We do not store personal information in cookies, nor do we collect personal information from you without your knowledge, as you browse the site.
 
-#### Cookies from third party applications
+### Cookies from third party applications
 
 This site uses a number of third party products. Read their privacy statements to find out how they track and use your information:
 
@@ -60,7 +45,7 @@ This site uses a number of third party products. Read their privacy statements t
 
 [Crazy Egg privacy statement](http://www.crazyegg.com/privacy)
 
-[Google Analytics privacy statement](http://www.google.ca/analytics/learn/privacy.html)
+[Google Analytics privacy statement](https://www.google.com/policies/privacy/)
 
 ## Security
 
