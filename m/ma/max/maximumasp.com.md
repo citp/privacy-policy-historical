@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maximumasp.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209141957id_/http%3A//www.maximumasp.com/documents/privacyPolicy-maximumasp.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maximumasp.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519194355id_/http%3A//www.maximumasp.com/documents/privacyPolicy-maximumasp.pdf) for the most accurate reproduction.*
 
 # MaximumASP’s Safe Harbor Data Privacy Policy
 
