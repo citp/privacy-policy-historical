@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the workintelligent.ly privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226113223id_/http%3A//ricoh-usa.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workintelligent.ly privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519171642id_/http%3A//ricoh-usa.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # About Ricoh | Ricoh-USA
 
-Ricoh Americas Corporation ("Ricoh") respects your online privacy and recognizes your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. Ricoh has established this Privacy Policy so that you can understand how we intend to use and treat your Personal Information in the United States, and about the choices you can make in the way your information is collected and used. This policy does not cover the websites of Ricoh affiliates who publish their own policies. 
+Ricoh USA, Inc. ("Ricoh") respects your online privacy and recognizes your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. Ricoh has established this Privacy Policy so that you can understand how we intend to use and treat your Personal Information in the United States, and about the choices you can make in the way your information is collected and used. This policy does not cover the websites of Ricoh affiliates who publish their own policies. 
 
 ##  Changes to Ricoh's Privacy Policy
 
@@ -63,4 +63,4 @@ Links to third party web sites from our pages are provided solely as a convenien
 
 ##  How to Contact Us 
 
-If you have questions or comments about this Privacy Policy, please mail your inquiry to Ricoh Americas Corporation, 70 Valley Stream Parkway, Malvern, PA 19355, Attention: General Counsel. 
+If you have questions or comments about this Privacy Policy, please mail your inquiry to Ricoh USA, Inc., 70 Valley Stream Parkway, Malvern, PA 19355, Attention: General Counsel. 
