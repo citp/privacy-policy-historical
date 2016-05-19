@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the giftagift.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504044014id_/http%3A//www.giftagift.com/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftagift.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519124154id_/http%3A//www.countryoven.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which Country Oven collects, uses, maintains and discloses information collected from users (each, a "User") of the[ www.giftagift.com](http://www.giftagift.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Country Oven.
+This Privacy Policy governs the manner in which Country Oven collects, uses, maintains and discloses information collected from users (each, a "User") of the[ www.countryoven.com](http://www.countryoven.in/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Country Oven.
 
 ## Personal identification information
 
@@ -26,35 +26,33 @@ Our Site may use "cookies" to enhance User experience. Users web browser places 
 
 Country Oven may collect and use Users personal information for the following purposes:
 
-  * To improve customer service
+* To improve customer service
 
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
 
-  * To personalize user experience
+* To personalize user experience
 
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
 
-  * To improve our Site
+* To improve our Site
 
 We may use feedback you provide to improve our products and services.
 
-  * To process payments
+* To process payments
 
 We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
 
-  * To share your information with third parties
+* To share your information with third parties
 
 We may share or sell information with third parties for marketing or other purposes.
 
-  * To run a promotion, contest, survey or other Site feature
+* To run a promotion, contest, survey or other Site feature
 
 To send Users information they agreed to receive about topics we think will be of interest to them.
 
-  * To send periodic emails
+* To send periodic emails
 
-
-
-We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt- in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 ## How we protect your information
 
@@ -88,28 +86,20 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-##  Country Oven | www.giftagift.com
+##  Country Oven
 
-**USA:**
+**INDIA**  
+Namrata Estates,  
+Greenlands,   
+Ameerpet,   
+Hyderabad - 500 016.   
+India  
 
-Phone: 1-248-275-5368, 1-732-790-0578 | Fax: 212-504-8233
 
- **India:**
+Phone: 040-6666 2400, 2341 0198  
+Mobile: +91-98481 55830  
+Email: contact@countryoven.in
 
-Phone:+91 9848155830,+91 40-23411039
-
- **Canada:**
-
-Phone:1-416-628-1206
-
- **UK:**
-
-Phone:+44-207 101 9225
-
- **Australia**
-
-Phone:+61-3-99883814
-
-For any other queries or information send us an email at contact@giftagift.com
-
-This document was last updated on June 07, 2014
+**USA** Phone: 1-248-275-5368, 1-732-790-0578   
+Fax: 212-504-8233  
+Email: contact@countryoven.com
