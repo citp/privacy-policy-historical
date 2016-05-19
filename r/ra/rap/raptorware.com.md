@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the raptorware.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023011848id_/http%3A//www.raptorware.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raptorware.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519050223id_/http%3A//www.raptorware.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Raptor Technologies LLC - Privacy Policy
 
-This Privacy Policy describes how Raptor Technologies, LLC (“we”, “us” or “RAPTOR”) collects, uses and shares personally identifiable information (“PII”) we obtain from and about individuals located in the U.S. both online and off-line. This Privacy Policy is effective as of March __, 2013. From time to time RAPTOR may revise this Privacy Policy to reflect industry initiatives or changes in the law, our PII collection and use practices, the features of our web sites, or technology. You should review the Privacy Policy periodically so that you are up to date on our most current policies and practices.
+This Privacy Policy describes how Raptor Technologies, LLC (“we”, “us” or “RAPTOR”) collects, uses and shares personally identifiable information (“PII”) we obtain from and about individuals located in the U.S. both online and off-line. This Privacy Policy is effective as of March 2016. From time to time RAPTOR may revise this Privacy Policy to reflect industry initiatives or changes in the law, our PII collection and use practices, the features of our web sites, or technology. You should review the Privacy Policy periodically so that you are up to date on our most current policies and practices.
 
 ## COLLECTION: Collection of PII by RAPTOR
 
