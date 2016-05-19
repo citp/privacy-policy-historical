@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixlee.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226080322id_/http%3A//www.pixlee.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixlee.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519063726id_/http%3A//www.pixlee.com/legal%23privacy) for the most accurate reproduction.*
 
 # Terms of Service
 
@@ -137,8 +137,8 @@ We may amend this Privacy Policy at any time. We will post all changes to this P
 
 For questions or comments regarding this Privacy Policy, please contact us at:  
 Pixlee, Inc.  
-1160 Battery Street, Suite 40  
-San Francisco, CA 94111  
+425 2nd Street, Suite 602  
+San Francisco, CA 94107  
 
 
 Pixlee, Inc. (“Pixlee”) respects the intellectual property rights of third parties and responds to allegations that copyrighted material has been shared through Pixlee’s image management and sharing platform (“Platform”) without authorization from the copyright holder in accordance with the safe harbor set forth in the Digital Millennium Copyright Act (“DMCA”). Pixlee will also, in appropriate circumstances and at its discretion, disable and/or terminate the use of thePlatform by users who may infringe or repeatedly infringe the copyrights of others in accordance with the DMCA.
