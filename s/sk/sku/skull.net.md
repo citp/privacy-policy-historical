@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skull.net privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229130606id_/http%3A//www.ebusinessdomains.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skull.net privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520001941id_/http%3A//www.ebusinessdomains.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – eBusinessDomains
 
 Widest Media (eBusinessDomains.com) is deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information.
 
