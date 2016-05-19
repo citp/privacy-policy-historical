@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prizelogic.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126032558id_/http%3A//prizelogic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prizelogic.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520001736id_/http%3A//prizelogic.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Prizelogic.com
 
