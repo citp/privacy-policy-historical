@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amritatv.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208172351id_/http%3A//www.amritatv.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amritatv.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519112112id_/http%3A//www.amritatv.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Welcome to Amrita TV
 
@@ -51,12 +51,6 @@ Leave a Comment
 Disclaimer - Posting comments that are abusive, vulgar, personal or incendiary is subject to legal action. Irrelevant comments and hyperlinks cannot be published.  
    
   
-##### Shans8180@gmail.com
-
-2015-12-08 08:18:03
-
-2013 ജൂൺ 13 രാത്രി 7.00 എനിക്ക് ഒരിക്കലും മറക്കാനാവാത്ത അനുഭവം എനിക്കുണ്ടായി. അന്ന് നടന്ന ട്രെയിൻ അപകടത്തിൽ എന്റെ കാലുകൾ എനിക്ക് നഷ്ടപ്പെട്ടു. 9746232317 
-
 Write a comment ...
 
 Post comment
