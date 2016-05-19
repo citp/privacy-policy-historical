@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nmat.org.in privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227194603id_/http%3A//www.nmat.org.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmat.org.in privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520000549id_/http%3A//www.nmat.org.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
