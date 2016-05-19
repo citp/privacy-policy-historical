@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodfuckingdesignadvice.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117184147id_/http%3A//store.goodfuckingdesignadvice.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodfuckingdesignadvice.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519122520id_/http%3A//store.goodfuckingdesignadvice.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Good Fucking Design Advice Store
 
