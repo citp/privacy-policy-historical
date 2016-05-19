@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jmbullion.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210022613id_/http%3A//www.jmbullion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jmbullion.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519123928id_/http%3A//www.jmbullion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Customer Security - JM Bullion
 
@@ -76,7 +76,7 @@ From time to time, JM Bullion may release traffic data and information gathered 
 
 **3\. CONSENT TO RECEIVE EMAIL AND PROMOTIONAL MATERIALS**
 
-By establishing an account, making a purchase or registering to receive the JM Bullion Newsletter, you consent to receive periodic commercial/promotional email communications from us. You may opt-out of receiving such promotional communications at any time by following the unsubscribe instructions contained in each email, or by contacting our customer service department. To be removed from our promotional newsletter, log into the My Account area and uncheck the Promotional Newsletter box at the bottom of the page. By unsubscribing from our Promotional Newsletter only, you may still receive promotional materials and transactional emails from us in the future.
+By establishing an account, making a purchase or registering to receive the JM Bullion Newsletter, you consent to receive periodic commercial/promotional email communications from us. You may opt-out of receiving such promotional communications at any time by following the unsubscribe instructions contained in each email, or by contacting our customer service department. By unsubscribing from our Promotional Newsletter only, you may still receive promotional materials and transactional emails from us in the future.
 
 **4\. SECURITY OF PERSONAL INFORMATION**
 
