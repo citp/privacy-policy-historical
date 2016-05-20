@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldwarwings.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114073002id_/http%3A//worldwarwings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwarwings.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520233053id_/http%3A//worldwarwings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - World War Wings
 
