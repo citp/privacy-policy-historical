@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landmarkshops.com privacy policy that was archived on 2015-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150702113118id_/http%3A//www.landmarkshops.com/lmgContent/privacyPolicyPage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landmarkshops.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520142101id_/http%3A//www.landmarkshops.com/lmgContent/privacyPolicyPage) for the most accurate reproduction.*
 
 # Privacy Policy - LandmarkShops.com
 
