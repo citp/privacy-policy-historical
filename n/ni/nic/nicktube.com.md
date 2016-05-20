@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nicktube.com privacy policy that was archived on 2015-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150901174051id_/http%3A//nicktube.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicktube.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520095417id_/http%3A//nicktube.com/privacy) for the most accurate reproduction.*
 
 # NickTube - High speed video experience with HD Quality
 
