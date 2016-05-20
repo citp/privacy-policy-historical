@@ -1,37 +1,70 @@
-> *The following text is extracted and transformed from the aedgency.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119025645id_/http%3A//www.aedgency.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aedgency.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520054056id_/http%3A//www.aedgency.com/privacy-policy) for the most accurate reproduction.*
 
 # Aedgency - Privacy Policy
 
-### 1\. The Inclusion of Personal Data in AEDGE PERFORMANCE files:
+The aim of this Privacy Policy is to inform users of how we collect and use certain information as a result of online advertising services provided by AEDGE PERFORMANCE BCN, S.L.U (hereinafter “Aedgency”) to its customers.
 
-Pursuant to the provisions of Organic Law 15/1999 of 13 December pertaining to Personal Data Protection, all such information the User provides by means of this Website shall be collected and processed in files owned by AEDGE PERFORMANCE BCN, S.L.U (hereinafter referred to as "AEDGE PERFORMANCE") to provide the services requested by the User, to respond to their requests and to keep the User informed of AEDGE PERFORMANCE's products and services, including by way of electronic means.
+### Our business
 
-If you do not wish to receive such information, you may so indicate by ticking the boxes provided for that purpose, or by sending us an e-mail to info@aedgency.com.
+Aedgency technology powers advertisements that can appear on websites and applications on mobile phones or other devices connected to the internet. You may interact directly with our servers (for example, when you click on an ad) or indirectly via the a web site or mobile application that displays the ads.
 
-The completion of all information marked as mandatory on this Website is necessary in order to ensure optimum provision of the services offered to the User. If this data is not provided, AEDGE PERFORMANCE does not guarantee that the information and services requested may be offered, correctly supplied or meet the needs of the User.
+### Purpose of data collection
 
-AEDGE PERFORMANCE BCN, S.L.U. informs you that it has implemented the technical and organisational security measures deemed necessary to guarantee the security of your personal data and to prevent its alteration, loss, mishandling and/or unauthorised access thereto, in accordance with the status of technology, the nature of the data stored and the risks to which is exposed, whether from human action or physical or natural forces. The foregoing is pursuant to the provisions of Article 9 of the Spanish Organic Law on Personal Data Protection.
+With each interaction between your device and our ad servers we collect certain information, which we will describe below. We use this information in order to help deliver more interesting and relevant ads to you, in order to provide to our customers and partners reports that contain aggregated data (for instance, the number of ads delivered each day, the number of clicks on those ads, and so on), in order to analyze trends, and in order to perform fraud detection.
 
-### 2\. Submission of data for staff selection:
+### Information collected
 
-Curriculum Vitaes submitted by the User to AEDGE PERFORMANCE will be used for the sole purpose of responding to applications for employment related to jobs advertised. By providing your personal information, you acknowledge that the data provided is yours and is accurate and true.
+We do not collect personally identifiable information about you. We do, however, record and use information that is not personally identifiable, including but not limited to the following:
 
-### 3\. Prohibition on registration by minors:
+  * the IP address of your device on the internet, to do geo-targeting, to identify your mobile operator, connection type, and other details;
 
-Persons under the age of 14 must obtain prior consent from their parents or guardians before providing their personal information to AEDGE PERFORMANCE. If you are a minor, please ask your parents or guardians to contact us first.
+  * the ‘user agent’ of your browser or application, and other relevant request headers, to help us identify your device type;
 
-### 4\. Transfer to third parties:
+  * the date and time of the ad request or interaction;
 
-Personal data may be transferred to third parties for processing in accordance with the purpose(s) for which the data was originally collected or may otherwise be lawfully processed, such as service delivery, evaluating the usefulness of this website, marketing, data management or technical support.
+  * and a unique identifier, such as an HTTP cookie or your device advertising identifier, that enables us not to show you the same ad over and over again.
 
-### 5\. Exercise of rights:
 
-The User may exercise their rights to access, rectification, cancellation and opposition by sending an e-mail to info@aedgency.com or by writing to AEDGE PERFORMANCE, Avenida Diagonal 579, Planta 7ª, 08014, Barcelona. In both cases, a copy of your National Identity Document, passport or other valid identity document must be included.
 
-### 6\. Communication of information by the User:
 
-Before providing personal information belonging to third parties, the User must obtain their prior express consent and inform the parties concerned of the terms of this privacy policy. The User shall indemnify and hold AEDGE PERFORMANCE harmless with regard to any possible claim, fine or penalty that it may be subject to arising from the User's breach of the obligations set forth in this clause.
+We also encourage (but do not require) our publishers to share with us additional information that is not personally identifiable information, but that we may use in order to improve ad relevance. This data may include:
 
-### 7\. Use of cookies:
+  * your age or age range, if known to the publisher;
 
-AEDGE PERFORMANCE may use cookies either directly or through third parties contracted for the provision of measurement services when the User accesses the Website. Cookies are files sent to the browser from a web server to record the User's activities on the portal. The cookies used by the Website are solely associated with an anonymous user and their computer, and do not themselves provide any personal information regarding the User. Through the use of cookies, the server hosting the Website may recognise the browser used by the User in order to make web browsing simpler, for example by granting access for users who have previously registered to areas, services, promotions or competitions reserved exclusively for users without having to register every time they visit the Website. Cookies are also used to measure website audience and traffic parameters and to monitor the progress and number of visits. The User can also change the settings on their browser in order to receive notification of the receipt of cookies and to prevent the installation of cookies on their hard drive. Please refer to your web browser's instructions and manuals for further information. To use this Website, the user does not have to allow the installation of cookies sent by the Website or third parties acting on behalf of AEDGE PERFORMANCE; however, the User may have to log in each time for those services requiring previous registration or "login".
+  * your gender, if known to the publisher;
+
+  * your user geographic location, if known to the publisher.
+
+
+
+
+### Use of information
+
+We may use this non personally identifiable information along with our technology in order to provide ads that are likely to be more interesting and more relevant to users to target advertising (this is also known as behavioral, or interest-based advertising).
+
+We sometimes use cookies or device identifiers to help us track whether you complete specific actions on an advertiser’s web site or application, as this is needed for analytical purposes, and in order to monitor the performance of our ads. These cookies or identifiers use the domain name "contextual-serving.com" and expire within 30 days.
+
+We may also use some of this data to provide interest-based advertising. As a general rule, we don’t collect personally identifiable information.
+
+### Opt-out
+
+Opting Out is easy; when a you opt-out we will no longer be able to recognize and serve contextual or retargeted advertising to you. By you clicking on the opt-out button below, we will recognize that you are no longer are interested in receiving our advertising and will disable Aedgency's and its Partners the ability to deliver ads to you.
+
+### Retargeting campaigns
+
+We may run retargeting campaigns based on user lists provided directly by the advertisers, to reach a precise audience.
+
+### Changes to privacy policy
+
+Aedgency is committed to continually examining and reviewing its privacy practices, and may make changes to its Privacy Policy. In the event that material changes are made, the Privacy Policy on this website will be changed.
+
+### Questions and concerns:
+
+If you have any questions or concerns about our privacy practices, you may contact us:
+
+Aedgency S.L.  
+AV Diagonal 579  
+08014 Barcelona  
+Email: [info@aedgency.com](mailto:info@aedgency.com)
+
+Opt Out Now
