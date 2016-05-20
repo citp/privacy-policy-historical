@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the barringtonsports.com privacy policy that was archived on 2015-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151028073627id_/http%3A//www.barringtonsports.com/help/privacy_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barringtonsports.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520100500id_/http%3A//www.barringtonsports.com/help/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice: Help Topics & FAQs | Barrington Sports
 
 Barrington Sports knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes the privacy policy of Barrington Sports. **By visiting Barrington Sports, you are accepting and consenting to the practices described in this Privacy Notice.**
 
-  * [Controllers of Personal Information](http://www.barringtonsports.com/help/privacy_notice/#a)
-  * [What Personal Information About Customers Does Barrington Sports Gather?](http://www.barringtonsports.com/help/privacy_notice/#b)
-  * [What About Cookies?](http://www.barringtonsports.com/help/privacy_notice/#c)
-  * [Does Barrington Sports Share the Information it Receives?](http://www.barringtonsports.com/help/privacy_notice/#d)
-  * [How Secure Is Information About Me?](http://www.barringtonsports.com/help/privacy_notice/#e)
-  * [What About Third-Party Advertisers and Links to Other Websites?](http://www.barringtonsports.com/help/privacy_notice/#f)
-  * [What Information Can I Access?](http://www.barringtonsports.com/help/privacy_notice/#g)
-  * [What Choices Do I Have?](http://www.barringtonsports.com/help/privacy_notice/#h)
-  * [Are Children Allowed to Use Barrington Sports?](http://www.barringtonsports.com/help/privacy_notice/#i)
-  * [Notices and Revisions](http://www.barringtonsports.com/help/privacy_notice/#k)
-  * [Examples of Information Collected](http://www.barringtonsports.com/help/privacy_notice/#examples)
+  * [Controllers of Personal Information](http://www.barringtonsports.com/help/privacy-notice/#a)
+  * [What Personal Information About Customers Does Barrington Sports Gather?](http://www.barringtonsports.com/help/privacy-notice/#b)
+  * [What About Cookies?](http://www.barringtonsports.com/help/privacy-notice/#c)
+  * [Does Barrington Sports Share the Information it Receives?](http://www.barringtonsports.com/help/privacy-notice/#d)
+  * [How Secure Is Information About Me?](http://www.barringtonsports.com/help/privacy-notice/#e)
+  * [What About Third-Party Advertisers and Links to Other Websites?](http://www.barringtonsports.com/help/privacy-notice/#f)
+  * [What Information Can I Access?](http://www.barringtonsports.com/help/privacy-notice/#g)
+  * [What Choices Do I Have?](http://www.barringtonsports.com/help/privacy-notice/#h)
+  * [Are Children Allowed to Use Barrington Sports?](http://www.barringtonsports.com/help/privacy-notice/#i)
+  * [Notices and Revisions](http://www.barringtonsports.com/help/privacy-notice/#k)
+  * [Examples of Information Collected](http://www.barringtonsports.com/help/privacy-notice/#examples)
 
 
 
@@ -22,7 +22,7 @@ Barrington Sports knows that you care how information about you is used and shar
 
 Any personal information provided to or to be gathered by Barrington Sports is controlled primarily by Barrington Sports, the data controllers, at Northgame House, Haig Road, Parkgate Industrial Estate, Knutsford, Cheshire, WA16 8DX, UK. Telephone: +44 (0)1565 650269. Email: customerservices@barringtonsports.com
 
-[Back to top](http://www.barringtonsports.com/help/privacy_notice/#pagetop)
+[Back to top](http://www.barringtonsports.com/help/privacy-notice/#pagetop)
 
 #### What Personal Information About Customers Does Barrington Sports Gather?
 
@@ -30,24 +30,24 @@ The information we learn from customers helps us personalise and continually imp
 
 Here are the types of information we gather.
 
-  * **Information You Give Us:** we receive and store any information you enter on our website or give us in any other way. [Click here](http://www.barringtonsports.com/help/privacy_notice/#examples) to see examples of what we collect. You can choose not to provide certain information but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customising future shopping for you, improving our stores, and communicating with you.
+  * **Information You Give Us:** we receive and store any information you enter on our website or give us in any other way. [Click here](http://www.barringtonsports.com/help/privacy-notice/#examples) to see examples of what we collect. You can choose not to provide certain information but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customising future shopping for you, improving our stores, and communicating with you.
   * **Automatic Information:** we receive and store certain types of information whenever you interact with us. For example, like many websites, we use "cookies" and we obtain certain types of information when your Web browser accesses Barrington Sports. A number of companies offer utilities designed to help you visit websites anonymously. Although we will not be able to provide you with a personalised experience at Barrington Sports if we cannot recognise you, we want you to be aware that these tools exist.
   * **E-mail Communications:** to help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Barrington Sports if your computer supports such capabilities. We also compare our customer list to lists received from other companies in an effort to avoid sending unnecessary messages to our customers. To unsubscribe from our mailing list simply click on the unsubscribe link at the bottom of every marketing email and you will be opted out of all email communications.
   * **Information from Other Sources:** we might receive information about you from other sources and add it to our account information. 
 
 
 
-[Back to top](http://www.barringtonsports.com/help/privacy_notice/#pagetop)
+[Back to top](http://www.barringtonsports.com/help/privacy-notice/#pagetop)
 
 #### What About Cookies?
 
   * Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognise your browser and to provide features such as personalised greetings and storage of items in your Shopping Basket between visits.
   * The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer. However, because cookies allow you to take advantage of some of Barrington Sports's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Basket, proceed to Checkout, or use any Barrington Sports products and services that require you to Sign in.
-  * If you do leave cookies turned on, be sure to sign off when you finish using a shared computer. [Click here](https://web.archive.org/help/signing_out) for more information on how to sign out.
+  * If you do leave cookies turned on, be sure to sign off when you finish using a shared computer. [Click here](https://web.archive.org/help/signing-out) for more information on how to sign out.
 
 
 
-[Back to top](http://www.barringtonsports.com/help/privacy_notice/#pagetop)
+[Back to top](http://www.barringtonsports.com/help/privacy-notice/#pagetop)
 
 #### Does Barrington Sports share the Information it receives?
 
@@ -61,18 +61,18 @@ Information about our customers is an important part of our business and we are 
 
 
 
-[Back to top](http://www.barringtonsports.com/help/privacy_notice/#pagetop)
+[Back to top](http://www.barringtonsports.com/help/privacy-notice/#pagetop)
 
 #### How Secure Is Information About Me?
 
   * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. 
   * We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
   * We maintain physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of personally identifiable customer information. Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you.
-  * It is important for you to protect against unauthorised access to your password and to your computer. Be sure to sign off when you finish using a shared computer. [Click here](https://web.archive.org/help/signing_out) for more information on how to sign out.
+  * It is important for you to protect against unauthorised access to your password and to your computer. Be sure to sign off when you finish using a shared computer. [Click here](https://web.archive.org/help/signing-out) for more information on how to sign out.
 
 
 
-[Back to top](http://www.barringtonsports.com/help/privacy_notice/#pagetop)
+[Back to top](http://www.barringtonsports.com/help/privacy-notice/#pagetop)
 
 #### What About Third-Party Advertisers and Links to Other Websites?
 
@@ -80,13 +80,13 @@ Our site may include third-party advertising and links to other websites. We do 
 
 These third-party websites and advertisers, or Internet advertising companies working on their behalf, sometimes use technology to send (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalise advertising content. We do not have access to or control over cookies or other features that they may use, and the information practices of these advertisers and third-party websites are not covered by this Privacy Notice. Please contact them directly for more information about their privacy practices. In addition, the [Network Advertising Initiative](http://www.networkadvertising.org/) offers useful information about Internet advertising companies (also called "ad networks" or "network advertisers"), including information about how to opt-out of their information collection.
 
-[Back to top](http://www.barringtonsports.com/help/privacy_notice/#pagetop)
+[Back to top](http://www.barringtonsports.com/help/privacy-notice/#pagetop)
 
 #### What Information Can I Access?
 
-Barrington Sports gives you access to a broad range of information about your account and your interactions with Barrington Sports for the limited purpose of viewing and, in certain cases, updating that information. [Click here](http://www.barringtonsports.com/help/privacy_notice/#examples) to see some examples. This list will change as our website evolves.
+Barrington Sports gives you access to a broad range of information about your account and your interactions with Barrington Sports for the limited purpose of viewing and, in certain cases, updating that information. [Click here](http://www.barringtonsports.com/help/privacy-notice/#examples) to see some examples. This list will change as our website evolves.
 
-[Back to top](http://www.barringtonsports.com/help/privacy_notice/#pagetop)
+[Back to top](http://www.barringtonsports.com/help/privacy-notice/#pagetop)
 
 #### What Choices Do I Have?
 
@@ -97,19 +97,19 @@ Barrington Sports gives you access to a broad range of information about your ac
 
 
 
-[Back to top](http://www.barringtonsports.com/help/privacy_notice/#pagetop)
+[Back to top](http://www.barringtonsports.com/help/privacy-notice/#pagetop)
 
 #### Are Children Allowed to Use Barrington Sports?
 
 Barrington Sports does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use Barrington Sports only with the involvement of a parent or guardian.
 
-[Back to top](http://www.barringtonsports.com/help/privacy_notice/#pagetop)
+[Back to top](http://www.barringtonsports.com/help/privacy-notice/#pagetop)
 
 #### Notices and Revisions
 
 If you have any concern about privacy at Barrington Sports, please [e-mail us](https://web.archive.org/contact) a thorough description and we will try to resolve the issue for you.
 
-Our business changes constantly and our Privacy Notice and the [Conditions of Use](https://web.archive.org/help/conditions_of_use_sale) will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our website frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
+Our business changes constantly and our Privacy Notice and the [Conditions of Use](https://web.archive.org/help/conditions-of-use-sale) will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our website frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
 
 #### Examples of Information Collected
 
@@ -129,4 +129,4 @@ Examples of information we receive from other sources include: updated delivery 
 
 Examples of information you can access easily at Barrington Sports include: up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, communications preferences and address book); payment settings (including credit-card information); e-mail notification settings (including Alerts, Delivers and newsletters); recommendations (including recent product-view history, prior-order history and Favourites); your My Account area (including your product reviews, requests and recommendations, your personal profile).
 
-[Back to top](http://www.barringtonsports.com/help/privacy_notice/#pagetop)
+[Back to top](http://www.barringtonsports.com/help/privacy-notice/#pagetop)
