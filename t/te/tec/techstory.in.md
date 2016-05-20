@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techstory.in privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212101301id_/http%3A//techstory.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techstory.in privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520094923id_/http%3A//techstory.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TechStory
 
