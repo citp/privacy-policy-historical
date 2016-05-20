@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rainmakerplatform.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201221127id_/http%3A//rainmakerplatform.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainmakerplatform.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520203602id_/http%3A//rainmakerplatform.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rainmaker Platform
 
-The NewRainmaker.com Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. New Rainmaker is a service offering of Copyblogger Media LLC (“Copyblogger Media”), and references in this document to “us,” “our,” and “we” refer to Copyblogger Media.
+The RainmakerPlatform.com Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. Rainmaker Platform is a service offering of Rainmaker Digital LLC (“Rainmaker Digital”), and references in this document to “us,” “our,” and “we” refer to Rainmaker Digital.
 
 #### What Information Do We Collect?
 
@@ -11,7 +11,7 @@ When you visit our website you may provide us with two types of information: per
 #### 1\. Personal Information You Choose to Provide
 
 **Registration Information**  
-You will provide us information about yourself, your firm or company, and your practices when you purchase New Rainmaker products and services, register for forum support, or register for email newsletters and alerts.
+You will provide us information about yourself, your firm or company, and your practices when you purchase Rainmaker Platform products and services, register for forum support, or register for email newsletters and alerts.
 
 **Email Information**  
 If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. 
