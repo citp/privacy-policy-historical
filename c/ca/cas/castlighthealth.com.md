@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the castlighthealth.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109070213id_/http%3A//www.castlighthealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the castlighthealth.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520030633id_/http%3A//www.castlighthealth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Castlight Health
+
+## Castlight Health Privacy Statement 
 
 ###### Last Updated August 10, 2015
 
@@ -21,10 +23,15 @@ If you have questions or complaints regarding our Privacy Statement or practices
 We will not sell, share or rent personal information that is collected on this Web site in ways different than from what is disclosed in this Statement.
 
   2. Information Collected
+
     * Information Requests. If you wish to request more information about Castlight you are required to provide contact information (for example, name and e-mail address). This information will be used by Castlight to contact you about our services.
     * Communications. Certain communications (for example, requests for more information) are recorded and maintained by Castlight. Castlight considers these communications to be personal and private and will not use or disclose these communications except as provided for in this Privacy Statement, where required by law, or unless you agree to additional use and disclosure of such information.
     * Log Files. As is true of most websites, Castlight automatically collects and stores in log files the Internet Protocol (IP) address of the computer you are using; the name of the domain and host from which you access the Internet; the browser software you use and your operating system; the date and time you access the service; and the Internet address of the Web site from which you directly linked to Castlight. We may combine this automatically collected log information with other information we collect about you. Castlight uses this log file information to analyze trends, monitor service traffic and usage patterns for internal marketing and security purposes, and to help make the Castlight website more useful.
   3. Use And Disclosure of Your Information
+
+    * Information Requests. If you wish to request more information about Castlight you are required to provide contact information (for example, name and e-mail address). This information will be used by Castlight to contact you about our services.
+    * Communications. Certain communications (for example, requests for more information) are recorded and maintained by Castlight. Castlight considers these communications to be personal and private and will not use or disclose these communications except as provided for in this Privacy Statement, where required by law, or unless you agree to additional use and disclosure of such information.
+    * Log Files. As is true of most websites, Castlight automatically collects and stores in log files the Internet Protocol (IP) address of the computer you are using; the name of the domain and host from which you access the Internet; the browser software you use and your operating system; the date and time you access the service; and the Internet address of the Web site from which you directly linked to Castlight. We may combine this automatically collected log information with other information we collect about you. Castlight uses this log file information to analyze trends, monitor service traffic and usage patterns for internal marketing and security purposes, and to help make the Castlight website more useful.
 
 In addition to the uses and collection of information outlined above, your information may also be used and disclosed as follows:
 
@@ -36,10 +43,12 @@ In addition to the uses and collection of information outlined above, your infor
     * Provide information as required by law.
     * Update you on the Castlight service its benefits.
   4. Disclosure of Information
+
     * Compliance with Laws. Castlight will not disclose personal information to third parties other than as provided for in this Privacy Statement, except when required to do so by law such as to comply with a subpoena or similar legal process, or you have otherwise consented to additional use or disclosure of the information. We may also disclose your personal information when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, and if Castlight is involved in a merger, acquisition, or sale of all or a portion of its assets. You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
     * Third Parties. If you use Castlight to link to another web site, you may decide to disclose personal information at that web site. For example, you might provide your contact information to obtain an information packet from an organization. Please be aware that in contacting that site, or in providing information on that site, that third party may obtain personal information about you. This Privacy Statement does not apply when you leave Castlight and go to a third party web site from Castlight. We encourage you to be aware when you leave our service and to read the privacy policy of each and every site that collects personal information.
     * **Service Providers** We may provide your personal information to companies that provide services to help us with our business activities such as marketing. These companies are authorized to use your personal information only as necessary to provide these services to us.
   5. Opting Out or Opting In to Specific Uses of Information
+
     * If your personal information changes, or if you no longer desire our service, you may correct, update, amend, or ask to have the information removed by emailing our Marketing team at marketing@castlighthealth.com or Customer Support at support@castlighthealth.com or by postal mail at Castlight Health, Inc., Two Rincon Center 121 Spear Street, Suite 300, San Francisco, CA 94105. We will respond to your request to access within 30 days.
     * Email Updates and Castlight Service Marketing. Castlight may provide service updates, tips or education, or may market the Castlight service to you. Out of respect for your privacy, you will be able to opt-out of any such email communications at any time. You can expect to receive one to two emails per month from Castlight. To opt-out of Castlight email, please click the “unsubscribe” link at the bottom of any email or send an email with the subject line “Unsubscribe” to [support@CastlightHealth.com](mailto:support@CastlightHealth.com).
   6. Storage and Maintenance of Information
@@ -63,8 +72,9 @@ We partner with a third party to manage our advertising on other sites. Our thir
 Our Web site may include Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Social Media Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable such Features to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with such Features are governed by the privacy policy of the company providing it.
 
   9. Miscellaneous
+
     * Questions. If you have any questions about this Privacy Statement or the use of your information via Castlight, please contact us at [privacy@CastlightHealth.com](mailto:privacy@CastlightHealth.com).
-  10. Changes to Privacy Statement.
+  10. Changes to Privacy Statement
 
 Castlight will only use your personal information in the manner described in the Privacy Statement in effect when we collected the information from you. However, we reserve the right to change the terms of this Privacy Statement at any time by posting those changes on our service so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point, we decide to use personally identifiable information in a manner different from that stated at the time it was collected or if we make any material changes, we will document such changes on our Web site. We urge you to check here for any updates to this Privacy Statement from time to time.
 
