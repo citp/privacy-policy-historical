@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the metvnetwork.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905085733id_/http%3A//metvnetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metvnetwork.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520065842id_/http%3A//www.metv.com/privacy-policy) for the most accurate reproduction.*
 
 # MeTV Network | Privacy Policy
 
-We take your electronic privacy seriously. Questions regarding this statement or our practices should be directed to the MeTVNetwork.com Privacy Coordinator by email at [feedback-metv@metvnetwork.com](mailto:metvnetwork@weigelbroadcasting.com). You may also send inquiries by mail to:
+We take your electronic privacy seriously. Questions regarding this statement or our practices should be directed to the MeTV.com Privacy Coordinator by email at [feedback-metv@metvnetwork.com](mailto:metvnetwork@weigelbroadcasting.com). You may also send inquiries by mail to:
 
-**Me-TV National Limited Partnership**  
+**MeTV National Limited Partnership**  
 **26 North Halsted**  
 **Chicago, IL 60661**  
 
@@ -24,34 +24,45 @@ We collect Aggregate Information - such as your IP address (a number that's auto
 
 ### SURVEYS AND REGISTRATION FORMS
 
-Sometimes MeTVNetwork.com posts surveys and registration forms in which we ask for Personally Identifiable Information. Here are some ways we might use that information:
+Sometimes MeTV.com posts surveys and registration forms in which we ask for Personally Identifiable Information. Here are some ways we might use that information:
 
-  * To send you information about Me-TV Network and this Web site
+  * To send you information about MeTV Network and this Web site
   * To give to our content partners, who may send you promotional material
   * To give to our advertisers, who may send you information about their products and services
 
 
 
-The choice is yours - you do not have to answer surveys or register for newsletters or service. If you choose to answer the survey or complete the registration, we will tell you on the survey or registration form how we will use the Personally Identifiable Information. If we are asking for optional information, we will mark it with an asterisk (*) so you know you can skip it if you want. And on that same page we will give you a way to "opt out" of being contacted by MeTVNetwork.com and any third parties.
+The choice is yours - you do not have to answer surveys or register for newsletters or service. If you choose to answer the survey or complete the registration, we will tell you on the survey or registration form how we will use the Personally Identifiable Information. If we are asking for optional information, we will mark it with an asterisk (*) so you know you can skip it if you want. And on that same page we will give you a way to "opt out" of being contacted by MeTV.com and any third parties.
 
 ### CONTESTS AND SWEEPSTAKES
 
 From time to time we run contests and sweepstakes in which we ask for Personally Identifiable Information such as your name, email address or telephone number. That's so we can let you know if you win. Sometimes we request additional Personally Identifiable Information such as your age, gender, and income level. And once in a while - though not often - we require this additional information in exchange for allowing you to enter the contest. Here are some of the ways we might use the information that we collect:
 
   * To notify you if you are a winner
-  * To send you information about Me-TV Network and our site
+  * To send you information about MeTV Network and our site
   * To give to content partners, who may send you promotional email
   * To give to advertisers, who may send you emails about their products and services
 
 
 
-We may share Aggregate Information with our partners and advertisers. We will not share your Personally Identifiable Information with third parties unless we tell you otherwise when asking for it. We will give you a way to "opt out" of being contacted by MeTVNetwork.com and any third parties.
+We may share Aggregate Information with our partners and advertisers. We will not share your Personally Identifiable Information with third parties unless we tell you otherwise when asking for it. We will give you a way to "opt out" of being contacted by MeTV.com and any third parties.
 
 If you win one of our contests or sweepstakes, we will not publish your name, hometown, or other Personally Identifiable Information on the Site unless you give us your permission.
 
 ### OPT OUT
 
-If we ask you for Personally Identifiable Information, we will tell you if we intend to share it with others. We will provide you with a way to tell us that you don't want us to share the information or if you don't want to receive promotional and/or marketing information about products, services, and offerings from MeTVNetwork.com and/or any third parties. Let us know and we will use your name and address only to tell you if you win a contest.
+If we ask you for Personally Identifiable Information, we will tell you if we intend to share it with others. We will provide you with a way to tell us that you don't want us to share the information or if you don't want to receive promotional and/or marketing information about products, services, and offerings from MeTV.com and/or any third parties. Let us know and we will use your name and address only to tell you if you win a contest.
+
+### COOKIES
+
+We authorize select suppliers of advertisements to place cookies on MeTV.com. The purpose of the cookies is to re/target users of our website to display personalized advertisements in their future navigation. The following platforms - [IAB opt-out platform](http://youronlinechoices.eu/), [Network Advertising Initiative opt-out platform](http://www.networkadvertising.org/choices/#completed), and [Digital Advertising Alliance platform](http://www.aboutads.info/choices/#completed) provide options to express opt-out choices for all companies that are registered in the respective platform. Please note that if you disable the display of personalized ads and other advertising partners, you will continue to receive ads that are less relevant to your interests/browsing behavior. 
+
+Here is a list of suppliers authorized to place cookies on MeTV.com and information on how to opt-out through their privacy policy. 
+
+  * Criteo ([criteo.com/en/privacy-policy](http://www.criteo.com/en/privacy-policy))
+  * Sovrn ([sovrn.com/privacy-policy](http://www.sovrn.com/privacy-policy/))
+
+
 
 ### SUBPOENAS AND LAW ENFORCEMENT AGENCIES
 
@@ -63,7 +74,7 @@ Information posted to message boards or chat areas is available to the general p
 
 ### FEEDBACK AND EMAIL
 
-On every page at MeTVNetwork.com there is a link to a Contact Us email form so you can comment, complain, make suggestions, and ask questions. Your email address is required on this form so we can answer your questions, and we want your name, too, so we can address our answer in a mannerly way. We may also track your browser type and referring URL to better diagnose technical issues you may be having. We do not share this information with third parties and we will use it only to answer your correspondence.
+On every page at MeTV.com there is a link to a Contact Us email form so you can comment, complain, make suggestions, and ask questions. Your email address is required on this form so we can answer your questions, and we want your name, too, so we can address our answer in a mannerly way. We may also track your browser type and referring URL to better diagnose technical issues you may be having. We do not share this information with third parties and we will use it only to answer your correspondence.
 
 ### LINKS TO OTHER SITES
 
@@ -76,7 +87,7 @@ If you've given us personally identifiable information in the past and then have
 Email to:  
 [**feedback-metv@metvnetwork.com**](mailto:feedback-metv@metvnetwork.com)  
 Regular mail to:  
-**Me-TV National Limited Partnership**  
+**MeTV National Limited Partnership**  
 **26 North Halsted**  
 **Chicago, IL 60661**  
 
@@ -85,4 +96,4 @@ Although it is not always possible to remove or modify information in the databa
 
 ### SECURITY OF PRIVATE INFORMATION
 
-Any personal information you give us is kept in secure files. Access is limited to the few employees who have a need to know. We would like to tell you that your information is as safe with us as it is in your head, but, as hackers have proved worldwide, no computer security system is entirely foolproof. The most any Web site can do is make reasonable efforts, which is what we do at MeTVNetwork.com, to protect your information from theft, misuse and alteration.
+Any personal information you give us is kept in secure files. Access is limited to the few employees who have a need to know. We would like to tell you that your information is as safe with us as it is in your head, but, as hackers have proved worldwide, no computer security system is entirely foolproof. The most any Web site can do is make reasonable efforts, which is what we do at MeTV.com, to protect your information from theft, misuse and alteration.
