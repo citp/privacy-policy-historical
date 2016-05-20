@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moviegallery.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020171814id_/http%3A//moviegallery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviegallery.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520035847id_/http%3A//moviegallery.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The NEW Movie Gallery
+# Privacy Policy
 
 We take your privacy very seriously and we work hard to earn and keep your trust. As such, we adhere to the following basic principles to protect your privacy. We may collect certain information from you on or through this website (the “Site”). We use this information to deliver the services offered on the Site, to inform you of changes to the Site or your account, to enhance the Site, to prevent illegal or potentially prohibited conduct, and to enforce our Terms of Use (the “Terms”), which incorporate this Privacy Policy by reference.
 
