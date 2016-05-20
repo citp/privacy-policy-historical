@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornstar.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022041250id_/http%3A//www.pornstar.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornstar.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520141739id_/http%3A//www.pornstar.com/privacy.html%3F) for the most accurate reproduction.*
 
 # Pornstar.com live cams Privacy Policy
 
@@ -47,7 +47,7 @@ If you have any questions about this Privacy Policy, please contact our customer
 
 The address for correspondence by post is
 
-ICF Technology, Inc.  
-PO Box 21508  
-Seattle, WA 98111  
-USA
+.cnI ,ygolonhceT FCI  
+80512 xoB OP  
+11189 AW ,elttaeS  
+ASU
