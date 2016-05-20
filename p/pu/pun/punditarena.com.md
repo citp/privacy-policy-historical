@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the punditarena.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120125052id_/http%3A//www.punditarena.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punditarena.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520055040id_/http%3A//www.punditarena.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Pundit Arena
 
