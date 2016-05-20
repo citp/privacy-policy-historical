@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the longest.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103130335id_/http%3A//www.longest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longest.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520145249id_/http%3A//www.longest.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
