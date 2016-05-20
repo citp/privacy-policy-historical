@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitc.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909165655id_/http%3A//www.hitc.com/en-gb/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitc.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520100346id_/http%3A//www.hitc.com/en-gb/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
