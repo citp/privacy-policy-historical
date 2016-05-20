@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the copart.co.uk privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516103912id_/http%3A//www.copart.co.uk/Content/UK/EN/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copart.co.uk privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520101453id_/http%3A//www.copart.co.uk/Content/UK/EN/Privacy-Policy) for the most accurate reproduction.*
 
 # Copart UK Privacy Policy - Copart
 
