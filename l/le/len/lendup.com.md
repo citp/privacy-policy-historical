@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lendup.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316045736id_/https%3A//www.lendup.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lendup.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520194551id_/https%3A//www.lendup.com/en/privacy) for the most accurate reproduction.*
 
-# Privacy & Security - LendUp
+# Privacy & Security
 
 We take our customer privacy very seriously and are committed to our customers' privacy. Scroll down this page to learn what personal information we collect from consumers, how we collect and use it, how we protect it, and how we share personal information. We do not share our customers’ or former customers’ personal information except for our everyday business purposes such as to verify identity or eligibility for our loan products, to process transactions, maintain account(s), respond to court orders and legal investigations, or report to credit bureaus. 
 
@@ -73,9 +73,9 @@ LendUp encrypts and securely transmits user payment information to the banking n
 
 LendUp does not share a user's personal or financial information with other customers or users. It is your responsibility to protect your account access codes, including your username and password, so others can’t access your account.
 
-#### LendUp Does Not Sell Your Information To Third Parties
+#### LendUp Does Not Sell Your Personal Information To Third Parties
 
-LendUp takes your privacy seriously and does not sell your data to third parties.
+LendUp takes your privacy seriously and does not sell your personal information to third parties.
 
 LendUp may share personal information with partners under contract who help with certain parts of our business operations including application evaluation, customer services, payment, fraud prevention, secure data storage, collections and other similar services.
 
@@ -87,12 +87,16 @@ LendUp may be compelled to share personal information with law enforcement, gove
 
 LendUp will not sell or rent any of your personal information to third parties in the normal course of doing business and only shares your personal information with third parties as described in this policy, unless we implement a policy change and inform you of such change.
 
+#### ONLINE ADVERTISING
+
+We may permit third party online advertising networks to collect information about your use of our website over time so that they may play or display ads that may be relevant to your interests on our site as well as on other websites or apps. Typically, the information we share is provided through cookies or similar tracking technologies, which recognize the device you are using and collect information, including hashed data, click stream information, browser type, time and date you visited the site, and other information. This information is used to display targeted ads on or through our site, or to our users or visitors to our websites on other websites or apps. We or the online advertising networks use this information to make the advertisements you see online more relevant to your interests. You may be able to “opt out” of the collection of information through cookies or other tracking technology by actively managing the settings on your browser or mobile device. Please refer to your browser’s or mobile device’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. (To learn more about cookies, clear gifs/web beacons and related technologies, and to learn how you may be able to opt-out of interest-based advertising from many online advertising networks, you may wish to visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) and/or the Network Advertising Initiative’s online resources, at [http://www.networkadvertising.org](http://www.networkadvertising.org/)). If you access our service on your mobile device, you may not be able to control tracking technologies through settings.
+
 #### LendUp Allows You to Control Your Account
 
 LendUp allows you to manage your account and information on www.lendup.com. Once you log in you may update your personal information, assuming your account is in good standing. In that case, we will retain only the personal information required by law or that we deem necessary.
 
 #### LendUp Publishes Our Privacy Policy For Everyone To See
 
-You can always see the most updated changes to the LendUp Privacy Policy on [www.lendup.com](https://web.archive.org/web/20150316045736id_/https%3A//www.lendup.com/en/www.lendup.com) or by contacting LendUp at [privacy@lendup.com](mailto:privacy@lendup.com). In the event we modify our privacy policy, we may contact you via email and provide you with notice of the change and a link to review the new privacy policy.
+You can always see the most updated changes to the LendUp Privacy Policy on [www.lendup.com](https://web.archive.org/web/20160520194551id_/https%3A//www.lendup.com/en/www.lendup.com) or by contacting LendUp at [privacy@lendup.com](mailto:privacy@lendup.com). In the event we modify our privacy policy, we may contact you via email and provide you with notice of the change and a link to review the new privacy policy.
 
-Last Updated: 03/03/2015
+Last Updated: 04/28/2016
