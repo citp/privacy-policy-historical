@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thesourcecad.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118045022id_/http%3A//www.thesourcecad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesourcecad.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520151032id_/http%3A//www.thesourcecad.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SourceCAD
+# Privacy Policy
 
 This Privacy Policy governs the manner in which SourceCAD collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.thesourcecad.com](http://www.generateprivacypolicy.com/account/policies/edit/www.thesourcecad.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by SourceCAD.
 
