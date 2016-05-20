@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the osha.gov privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230163726id_/https%3A//www.dol.gov/dol/privacynotice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osha.gov privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520170029id_/https%3A//www.dol.gov/dol/privacynotice.htm) for the most accurate reproduction.*
 
-# U.S. Department of Labor -- Privacy and Security Statement
+# Privacy and Security Statement | United States Department of Labor
 
-Thank you for visiting the Department of Labor (DOL or Department) website and reviewing our privacy and security statement. DOL is committed to maintaining the privacy of your personal information and the security of our computer systems. With respect to the collection, use and disclosure of personally identifiable information (PII), DOL makes every effort to ensure compliance with applicable federal law, including, but not limited to, [The Privacy Act of 1974](https://web.archive.org/cgi-bin/leave-dol.asp?exiturl=http://www.justice.gov/opcl/privstat.htm&exitTitle=http://www.justice.gov&fedpage=yes), [The Paperwork Reduction Act of 1995](https://web.archive.org/cgi-bin/leave-dol.asp?exiturl=http://www.archives.gov/federal-register/laws/paperwork-reduction/&exitTitle=www.archives.gov&fedpage=yes), and [The Freedom of Information Act](https://web.archive.org/cgi-bin/leave-dol.asp?exiturl=http://www.justice.gov/oip/foia_updates/Vol_XVII_4/page2.htm&exitTitle=http://www.justice.gov&fedpage=yes).
+Thank you for visiting the Department of Labor (DOL or Department) website and reviewing our privacy and security statement. DOL is committed to maintaining the privacy of your personal information and the security of our computer systems. With respect to the collection, use and disclosure of personally identifiable information (PII), DOL makes every effort to ensure compliance with applicable federal law, including, but not limited to, [The Privacy Act of 1974](http://www.justice.gov/opcl/privstat.htm), [The Paperwork Reduction Act of 1995](https://www.law.cornell.edu/uscode/text/44/chapter-35/subchapter-I), and [The Freedom of Information Act](http://www.justice.gov/oip/foia_updates/Vol_XVII_4/page2.htm).
 
-As a general rule, the Department does not collect personally identifiable information when you visit our site unless you choose to provide such information. The information we collect varies based on what you do when visiting our site. 
+As a general rule, the Department does not collect personally identifiable information when you visit our site unless you choose to provide such information. The information we collect varies based on what you do when visiting our site.
 
 _If you respond to an online request for personal information:_
 
@@ -22,7 +22,7 @@ This information is used by software programs on our website to collect summary 
 
 _If you identify yourself by sending an e-mail containing personal information:_
 
-You may send us personally identifiable information in an electronic mail message - for example you may send us your mailing address when requesting that information be mailed to you. This information is used solely for responding to your requests for information or records. We may forward your e-mail to other government employees who are better able to fulfill your requests. Should you wish to file a request under the Freedom of Information Act (FOIA), instructions are provided at [http://www.dol.gov/dol/foia/](https://web.archive.org/dol/foia/).
+You may send us personally identifiable information in an electronic mail message - for example you may send us your mailing address when requesting that information be mailed to you. This information is used solely for responding to your requests for information or records. We may forward your e-mail to other government employees who are better able to fulfill your requests. Should you wish to file a request under the Freedom of Information Act (FOIA), instructions are provided at [http://www.dol.gov/general/foia](https://web.archive.org/general/foia).
 
 _If you link to other sites outside DOL:_
 
@@ -37,20 +37,18 @@ _Cookie Use Notice:_
 Cookies are small files that Web servers place on a user's hard drive. They can serve several functions, depending upon how they are designed:
 
   * they allow the website to identify you as a previous visitor each time you access a site;
-  * they track what information you view at a site (important to commercial sites trying to determine your buying preferences); 
-  * in the more advanced cases they track your movements through many websites but not the whole Web; 
+  * they track what information you view at a site (important to commercial sites trying to determine your buying preferences);
+  * in the more advanced cases they track your movements through many websites but not the whole Web;
   * businesses use them for customer convenience to allow them to produce a list of items to buy and pay for them all at one time and to garner information about what individuals are buying at their sites;
-  * advertisers use them to determine the effectiveness of their marketing and offer insights into consumer preferences and tastes by collecting data from many websites; and 
-  * they can be used to help a website tailor screens for each customer's preference. 
+  * advertisers use them to determine the effectiveness of their marketing and offer insights into consumer preferences and tastes by collecting data from many websites; and
+  * they can be used to help a website tailor screens for each customer's preference.
 
 
 
-Some DOL pages have "session cookies," to facilitate use of that particular page. These disappear when the Web user terminates a Web session and closes the browser. DOL also permits the use of persistent cookies for the collection of Web metrics; however, DOL does not collect any personally identifiable information about visitors to our Web pages. Please see our [DOL Persistent Cookie Notice](https://web.archive.org/dol/persistentcookies.htm) that details the types of information collected and how to opt-out by changing the cookie settings in your browsers.
+Some DOL pages have "session cookies," to facilitate use of that particular page. These disappear when the Web user terminates a Web session and closes the browser. DOL also permits the use of persistent cookies for the collection of Web metrics; however, DOL does not collect any personally identifiable information about visitors to our Web pages. Please see our [DOL Persistent Cookie Notice](https://web.archive.org/general/persistentcookies) that details the types of information collected and how to opt-out by changing the cookie settings in your browsers.
 
-If you are concerned about the potential use of the information gathered from your computer by cookies, you can set your browser to prompt you before it accepts a cookie. Most Internet browsers have settings that let you identify and/or reject cookies. 
+If you are concerned about the potential use of the information gathered from your computer by cookies, you can set your browser to prompt you before it accepts a cookie. Most Internet browsers have settings that let you identify and/or reject cookies.
 
-* * *
+For security purposes and to ensure that this service remains available to all users, our Web site also employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
-For security purposes and to ensure that this service remains available to all users, our Web site also employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. 
-
-Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and The National Information Infrastructure Protection Act of 1996. 
+Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and The National Information Infrastructure Protection Act of 1996.
