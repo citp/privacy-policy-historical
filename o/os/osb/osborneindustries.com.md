@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osborneindustries.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206192037id_/http%3A//www.osborneindustries.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osborneindustries.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520074118id_/http%3A//osborneindustries.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Osborne Industries
 
