@@ -1,182 +1,67 @@
-> *The following text is extracted and transformed from the cancelon.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225094225id_/http%3A//www.cancelon.com/page/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cancelon.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520122904id_/http%3A//www.cancelon.com/page/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  
-Privacy Policy
+This privacy policy (“Privacy Policy”) governs how Cancelon Inc., having its principal place of business at 160 Greentree Dr Ste 101, 19904 Dover, DE, USA (“Cancelon”, “we”, “our” or “us”), use Personal Information in connection with your use of the website [www.Cancelon.com](http://www.Cancelon.com) (“Site”). 
 
-By this Privacy Policy We are committed to safeguarding the privacy of the users of Cancelon, on the domain name Cancelon.com (“the Website”) and in any additional domain name decided upon by the sole discretion of Cancelon LTD and its affiliates (“Cancelon”); this policy sets out how we treat your personal information. The use of Paypal through the Website is subject to the Privacy Policy of Paypal and its terms.
+1.    Introduction. This Privacy Policy explains our online information practices and the choices you can make about the way your Personal Information is collected and used in connection with the Site. “Personal Information” means any information that may be used, either alone or in combination with other information, to personally identify an individual.
 
-1) Providing Information to the Website  
-The use of the Website and its services require registration. When you sign up for the Website we will ask you to provide certain identifying information such as name, address, current email address, phone number and more. In order to make a purchase via the Website, you will have to give also your credit card information. Alternatively you will be able to use PayPal. Without providing the information required, you will not be able to use the Website's services.  
-You must provide only true, accurate and complete information and you hereby confirm that the information provided by you answers to this description.
+2.    Terms of Use. This Privacy Policy forms part of our Terms of Use which is available at [www.Cancelon.com/page/User-Agreement](http://www.Cancelon.com/page/User-Agreement) (“Terms”). 
 
-  
-The information you provide in your registration will be kept by the administration of the Website. In case of a transaction between two users and in order to change a name on a reservation, Cancelon will share, both with Buyer and Seller, the full name of the other party.  
+3.    Consent and Modification. By using the Site, you consent to the terms of this Privacy Policy and to our collection, processing and sharing of Personal Information for the purposes set forth herein. If you do not agree to this Privacy Policy, please do not access or otherwise use the Site. We reserve the right, at our discretion, to change this Privacy Policy at any time, such change will be effective 10 days following posting of the revised Privacy Policy on the Site, and your continued use of the Site thereafter means that you accept those changes.
 
+4.    What Personal Information We Collect and How We Collect It. We do receive and/or collect Personal Information from you in the following ways: 
 
-You are not required to provide us with any information, but incorrect information or failure to provide all required information may prevent you from using the services on the Website, affecting the quality of the services provided to you as well as impair the ability to contact you. If your details have changed, you should update them in the Website.
+## 4.1.     Account. In order to use certain services that we offer via the Site, you may be required to create an account (“Account”). We may offer different options to create an Account, including: (a) _Online Registration Form_ : You may choose to complete and submit an online registration form; and (b) _Third Party Accounts_ : You may choose to create an Account by clicking on a ‘connect’ or ‘sign-in’ button that we may display on the Site for a designated third party website or service (each a “Third Party Account”). Doing so will enable you to link your Account and your Third Party Account.
 
-When you provide personal information of third parties, you acknowledge that you have received their explicit consent to deliver the information to the Website management for the usage of the Website according to this Privacy Policy.
+## 4.2.     ‘Contact Us’ Information. If you send us a “Contact Us” request, you may be required to provide us with certain information such as your name and email address.
 
-  
-2) What information do we collect?
+## 4.3.     Share with Friends Service. The Site may enable you to invite your friends to use our Site by sending them an invitation email or message. If you send or post an invitation message we may collect Personal Information about the recipient _._
 
-We collect, store and use the following kinds of our users' personal information:
+## 4.4.     Purchases. The Site includes the option to purchase certain products or services from us. When you make a purchase through the Site, we use a third-party credit card processor to process your credit card purchases. We will require sufficient billing information from you to complete the transaction, which will be shared via secure (encrypted) means with a third party payment processor for the sole purpose of completing your order. The third-party credit card processor’s privacy policy will apply to the information you provide on the third-party credit card processor’s website. You hereby acknowledge and agree that we have no responsibility or liability for the services provided by such third-party credit card processor.
 
-(a) information relating to any transactions carried out between you and us on or in relation to the Website, including information relating to any purchases you make of our goods or services. 
+## 4.5.     Log Files. We may make use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, clicked pages and any other information your browser may send to us. We may use such information to analyze trends, administer the Site, track user’s movement around the Site, and gather demographic information.
 
-(c) information that you provide to us for the purpose of registering with us.
+## 4.6.     Cookies and Other Tracking Technologies. Our Site may utilize cookies, in order for us to provide our Site and present you with information that is customized for you. Certain cookies and other technologies may serve to recall Personal Information, such as an IP address, previously indicated by a user. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser.
 
-(d) information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters.
+## 4.7.     Publicly Available Information. Any publicly available content that you post on or via the Site (“User Submissions”) may be publicly available to other Site users, and may also be accessed and used by people off the Site.
 
-(e) any other information that you choose to send to us.
+## 4.8.     Google Analytics. The Site may use a tool called “Google Analytics” to collect information about use of the Site. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this Site. We use the information we get from Google Analytics to maintain and improve the Site and our products. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Google’s ability to use and share information collected by Google Analytics about your visits to this Site is restricted by the Google Analytics Terms of Service, available at http://www.google.com/analytics/terms/us.html, and the Google Privacy Policy, available at http://www.google.com/policies/privacy/. You may learn more about how Google collects and processes data specifically in connection with Google Analytics at http://www.google.com/policies/privacy/partners/. You may prevent your data from being used by Google Analytics by downloading and installing the Google Analytics Opt-out Browser Add-on, available at https://tools.google.com/dlpage/gaoptout/.
 
-(f) other information. different kinds of personal information which may be collected over or in relation to the Website, such as, but not limited to ads you read, pages you viewed, the services that interested you.
+5.    The Way We Use Personal Information. If you submit or we collect Personal Information through the Site, then we may use such Personal Information in the following ways:
 
-By using the Website you allow the management of the Website to collect and to get the assistance of third parties to collect analytic, anonymous, statistical and aggregative data with relation to your usage of the Website, including information that is relevant to your information and your action on the Website.
+5.1.     We will use your Personal Information to provide and improve our Site, to contact you and to identify and authenticate your access to the Site. 
 
-3) Using you personal information
+5.2.     We may use your designated email address to: (i) send you updates, offers or news regarding the Site and our products; and/or (ii) respond to a “Contact Us” or administrative request (for example, to change your password).
 
-Your personal information submitted to us via the Website and the information that will be collected about your habits while you use the Website will be used for the purposes specified in this privacy policy and according to the law – and for the following purposes:
+5.3.     If you choose to send your friend an invitation email or message we will use the contact information to automatically send your friend an invitation email or message. Your name and email address may be included in the invitation email or message.
 
-We may use your personal information to:
+5.4.     We may transfer your Personal Information to our subsidiaries or affiliated companies for the purpose of storing or processing such information on our behalf; and we may share your Personal Information with our third party service providers and partners, but only to assist us with our business operations and to provide our Site. Such information may be transferred to other countries around the world. We require that these parties agree to process such information in compliance with our Privacy Policy. 
 
-1\. Enable your use of the services available on the Website;
+5.5.     We may disclose your Personal Information or any information you submitted via the Site if we have a good faith belief that disclosure of such information is helpful or reasonably necessary to: (i) comply with any applicable law, regulation, legal process or governmental request; (ii) enforce our Terms; (iii) address fraud or security issues; or (iv) protect against harm to the rights, property or safety of Cancelon and our users.
 
-2\. Administer the Website and developing it;
+6.    Use of Anonymous Information. We may use Anonymous Information (as defined below) or disclose it to third party service providers in order to improve our Site and enhance your experience with the Site. We may also disclose Anonymous Information (with or without compensation) to third parties, including advertisers and partners. “Anonymous Information” means information which does not enable identification of an individual user, such as aggregated information about the use of our Site.
 
-3\. Improve your browsing experience by personalizing the Website;
+7.    Opting Out. You may choose not to receive emails from us by selecting an unsubscribe link at the bottom of each email that we send. Please note that even if you opt out of receiving emails, we may still send you a response to any “Contact Us” request as well as administrative emails that are necessary to facilitate your use of the Site (such as confirmation emails with your booking information).
 
-4\. Supply to you services purchased via the Website;
+8.    Choice. At all times, you may choose whether or not to provide or disclose Personal Information; however, if you choose not to, you may be unable to access certain parts of the Site. 
 
-5\. Improve the services and content that are offered on the Website and cancel or change current services. The information that will be used by the management of the Website for this purpose will be mostly statistical and will not identify you personally.
+9.    Access/Accuracy. If you would like to delete or correct any of your other Personal Information that we may be storing, you may use the tools that we make available on the Site or you may submit an access request by sending an email to [Support@cancelon.com](mailto:Support@cancelon.com).
 
-6\. Allow you to adjust the services in the Website to your preferences.
+10.  Links to and Interaction with Third Party Products. The Site may enable you to interact with or contain links to your Third Party Account and other third party websites, mobile software applications and services that are not owned or controlled by us (each a “Third Party Service”). We are not responsible for the privacy practices or the content of the Third Party Service. 
 
-7\. Send statements and invoices to you, and collect payments from you;
+11.  Children’s Privacy. The Site is not structured to attract children under the age of 13 years. Accordingly, we do not intend to collect Personal Information from anyone we know to be under 13 years. If we learn that we have collected Personal Information from a child under 13 years, we will delete that information as quickly as possible. If you believe that we might have any such information, please contact us at [Support@cancelon.com](mailto:Support@cancelon.com).
 
-8\. Send you general (non-marketing) commercial communications;
+12.  Security. We follow generally accepted industry standards, including the use of appropriate administrative, physical and technical safeguards, to protect the Personal Information submitted to us. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security or confidentiality. 
 
-9\. Send you email notifications which you have specifically requested;
+13.  Merger, Sale or Bankruptcy. In the event that we are acquired by or merged with a third party entity, or in the event of bankruptcy or a comparable event, we reserve the right to transfer or assign Personal Information in connection with the foregoing events. 
 
-10\. Send you newsletters and other marketing communications relating to our business which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications);
+14.  California Privacy Rights. California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please send an email to [Support@cancelon.com](mailto:Support@cancelon.com). Please note that we are only required to respond to one request per customer each year.
 
-11\. Provide third parties with statistical information about our users. However, this information will not be used to identify any individual user;
+15.  Our California Do Not Track Notice. We may collect personally identifiable information about an individual consumer’s online activities over time and across different web sites when a consumer uses the Site. If you choose to operate your web browser “do not track” signals or any other mechanism that provides consumers the ability to exercise choice regarding the collection of such information, we will abide by your request and stop collecting such information. We may allow third parties (such as a Google Analytics) to collect personally identifiable information about an individual consumer’s online activities over time and across different web sites when a consumer uses the Site.
 
-12\. Deal with inquiries and complaints made by or about you relating to the Website;
+16.  Commitment. If you have any comments or questions regarding our Privacy Policy, or your Personal Information that we may be storing and using, please contact us at [Support@cancelon.com](mailto:Support@cancelon.com).
 
-13\. Contacting you when the management of the Website believes there is a need for that.
+_Last updated:  April 2016_ __
 
-14\. For any other reason that is in the Privacy Policy or in the User Agreement of the Website.
-
-We will not, without your express consent, provide your personal information to any third parties for the purpose of direct marketing.
-
-All our Website financial transactions are handled through our payment services provider, PayPal. You can review the PayPal privacy policy at www.paypal.com. We will share information with PayPal only to the extent necessary for the purposes of processing payments you make via our website and dealing with complaints and queries relating to such payments.
-
-4) Cookies
-
-A cookie consists of a piece of text sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
-
-We may use both “session” cookies and “persistent” cookies on the Website. We may use the session cookies to: keep track of you whilst you navigate the Website and whils you are signed in; and We may use the persistent cookies to: enable our website to recognise you when you visit; and 
-
-All cookies may be deleted from your computer when you sign out or after they reached a specified expiry date or when you close your browser. Some of them may remain on your computer until deleted. 
-
-We use Google Analytics to analyse the use of the Website. Google Analytics generates statistical and other information about the Website use by means of cookies, which are stored on users' computers. The information generated relating to the Website is used to create reports about the use of the Website. Google will store this information. Google's privacy policy is available at: http://www.google.com/privacypolicy.html.
-
-Our payment services providers, Paypal, may also send you cookies. Paypal’s privacy policy is available at: https://cms.paypal.com/il/cgi-bin/marketingweb?cmd=_render-content&content_ID=ua/Privacy_full&locale.x=en_US
-
-Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector. Blocking all cookies will, however, may have a negative impact upon the usability of many websites, including this one.
-
-  
-5) Disclosures
-
-  
-Information about our customers and Website users is an important part of our business and we are not getting it so we can sell it to third parties. We may disclose information about you insofar as reasonably necessary for the purposes as set out in this privacy policy.
-
-In addition, we may disclose your personal information:
-
-(a) to the extent that we are required to do so by law;
-
-(b) in connection with any legal proceedings or prospective legal proceedings;
-
-(c) to apply our [User Agreement](http://www.cancelon.com/page/User-Agreement) and other agreements and in order to establish, exercise or defend our legal rights, our users or others (including providing information to others for the purposes of fraud prevention and reducing credit risk);
-
-(d) In case you will violate the User Agreement of the Website or if you make via the Website or in connection with it, actions predicted by the administration of the Website as the violation of any law or an attempt to do so.
-
-(e) In any event the administration of the Website will think that disclosing your personal information is required to prevent a serious damage to your body, your property of the body and/or property of a third person.
-
-(f) to the purchaser (or prospective purchaser) of any business or asset which we are (or are contemplating) selling; and
-
-(g) to any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal information where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal information.
-
-(h) to affiliated businesses we do not control: we work with hotels, motels, businesses in the lodging industry and different types of tourist businesses. You can tell when a third party is involved in your transaction. This third party will receive your personal information that is relevant to that transaction.
-
-(i) to any of our employees, officers, agents, suppliers or subcontractors
-
-(j) with your consent. Other than as detailed above, we will sent you a notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
-
-(k) to third-party service providers: we employ and work with other businesses to perform functions on our behalf. For examples: analyzing data, providing marketing assistance, providing search results and links, processing credit card payments. They have access to personal information needed to perform their functions, but may not use it for other purposes.
-
-(l) to promotional offers: we may send to our users special offers and promotions on behalf of other businesses. In these cases, we will not give those businesses your personal information.
-
-(m) as part of business transfer. As we continue to develop, our business may be sold to another business. In such transactions, users information is normally one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Policy, unless the user agrees otherwise. If that ever happens, your personal information will be part of the transferred assets.
-
-Except as provided in this privacy policy, we will not provide your information to third parties and we will not sell, rent, share, or otherwise disclose personal identifiable information from our users for commercial purposes in violation of the commitments set forth in our Privacy Policy.
-
-6) International data transfers
-
-Information that we collect may be stored and processed in and transferred all around the world, and in some cases to countries with different protection laws.   
-You expressly agree to such transfers of personal information.  
-In addition, personal information that you submit for publication on the Website will be published on the Internet and may be available, via the Internet, around the world. We cannot prevent the use or misuse of such information by others.
-
-7) Security of your personal information
-
-We are taking reasonable technical and organizational precautions to secure your information and to prevent the loss, misuse or alteration of your personal information.
-
-Of course, data transmission over the Internet is inherently insecure, and we cannot guarantee the security of data sent over the Internet.
-
-You are responsible for keeping your password and user details confidential. It is extremely important that you protect against unauthorized access to your password and to your computer. Always sign off when finished using our site.
-
-8) Policy amendments
-
-We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes.
-
-9) Your rights
-
-(a) You may choose not to provide information, even though it might be needed to use the site.
-
-(b) You may instruct us to provide you with any personal information we hold about you. Provision of such information will be in accordance with any law or regulations and may be subject to:  
-(a) Payment of a fee; and  
-(b) Supply of appropriate evidence of your identity (for this purpose, we will usually accept a photocopy of your passport certified by a notary plus an original copy of a utility bill showing your current address).
-
-(c) You may add or update your information by logging in to your account and selecting your user profile. We will maintain the old information as well as the new one.
-
-(d) If you do not wish to receive emails and/or mail from us, please write us to [Contact US](http://www.cancelon.com/contact)
-
-We may withhold such personal information to the extent permitted by law.
-
-You may instruct us not to process your personal information for marketing purposes by email us at any time. In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal information for marketing purposes.
-
-10) Third party websites
-
-The website contains links to other websites and it may include third party advertising. We are not responsible for the privacy policies or practices of third party websites. In addition, we do not provide your information to these third-party websites.   
-These third-party websites and advertisers are working on their behalf. They use different technologies to advertise to you and to measure the effectiveness of their ads and to personalize their content. We don't have access and/or control over it and the third party websites are not covered by this Privacy Policy. Please contact those websites for further any information about their privacy policy. For further information as to how to opt-out of the collection of the Internet Advertising companies, please go to www.networkadvertising.org
-
-11) Are children allowed to use our site?
-
-Children are not allowed to use our Website. If you are under 18, you may use our Website only with the involvement of an adult.
-
-12) Updating information
-
-Please let us know if the personal information that we hold about you needs to be corrected or updated.
-
-13) User Agreement, notices and edits
-
-If you choose to use the Website, your usage and any dispute over privacy is subject to this Private Policy and to our User Agreement, including limitations on damages, resolution of disputes and application of the law of Israel.  
-If you have any questions about this privacy policy or our treatment of your personal information, please [contact us](http://www.cancelon.com/contact).  
-Our business is dynamic and changes often and our Privacy Policy and the User Agreement will change as well. Please check the Website for updates on our recent changes. However, you should know that we will never apply less protective Privacy Policy. Unless otherwise is mention, our current Privacy Policy applies to all information that we have about you in your account.
-
-14) Contact
-
-If you have any questions about this privacy policy or our treatment of your personal information, please [Contact Us](http://www.cancelon.com/contact).
+[ Contact Us](http://www.cancelon.com/contact).
