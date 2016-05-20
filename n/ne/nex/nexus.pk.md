@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the nexus.pk privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006182700id_/http%3A//www.nexus.pk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexus.pk privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520151911id_/http%3A//www.nexus.pk/privacy.php) for the most accurate reproduction.*
 
-# Nexus Technologies
+# Privacy Policy - Nexus Technologies
+
+## Privacy Policy
 
 Your privacy is important to us. We want you to feel comfortable using Nexus services. Because we gather certain types of information about the users of Nexus's services, we feel you should fully understand what information we gather and how we use that information. Nexus employees are required to familiarize themselves with this privacy policy as a condition of their employment, and any employee violating the policy is subject to disciplinary action.
 
@@ -10,7 +12,7 @@ When you register for a Nexus account, Nexus obtains contact information, such a
 
 **What Does Nexus Do With This Information?**
 
-Nexus uses the information it gathers in order to provide you with the best online experience possible. As you might expect, contact information is used to contact you concerning your account and our company. Payment information is used to validate your identity and to bill you for the services and products you order. Information on your online sessions is used to allocate system resources and to ensure compliance with Nexus's Terms and Conditions of Use. Information on your communications with Nexus's support team is used to address the issues raised by your communications. In addition, Nexus regularly sends out mailings regarding the operation of its service and other goods and services that it believes may be of interest to you. You may request that Nexus not send you mailings relating to other goods and services at the URLs listed in this section or send an e-mail to [info@nexus.net.pk](mailto:info@nexus.net.pk). Nexus reserves the right, however, to send bulletins and other important information regarding the service at its discretion.
+Nexus uses the information it gathers in order to provide you with the best online experience possible. As you might expect, contact information is used to contact you concerning your account and our company. Payment information is used to validate your identity and to bill you for the services and products you order. Information on your online sessions is used to allocate system resources and to ensure compliance with Nexus's Terms and Conditions of Use. Information on your communications with Nexus's support team is used to address the issues raised by your communications. In addition, Nexus regularly sends out mailings regarding the operation of its service and other goods and services that it believes may be of interest to you. You may request that Nexus not send you mailings relating to other goods and services at the URLs listed in this section or send an e-mail to [support@nexus.pk](mailto:support@nexus.pk). Nexus reserves the right, however, to send bulletins and other important information regarding the service at its discretion.
 
 **Does Nexus Share Subscriber Information With Third Parties?**
 
@@ -20,7 +22,7 @@ You should be aware, however, that any information that you disclose in a public
 
 **How Can I Correct or Update the Information?**
 
-To request a copy of the contact Nexus has on your account, send an e-mail request to [info@nexus.net.pk](mailto:info@nexus.net.pk). You may correct that information as appropriate by returning a message to the same address. Please keep in mind that under Nexus's Terms and Conditions of Use, subscribers are required to provide Nexus with current contact and billing information. Nexus may require a copy of a government issued form of identification before disclosing billing information or before making changes to the billing or contact information on an account.
+To request a copy of the contact Nexus has on your account, send an e-mail request to [support@nexus.pk](mailto:support@nexus.pk). You may correct that information as appropriate by returning a message to the same address. Please keep in mind that under Nexus's Terms and Conditions of Use, subscribers are required to provide Nexus with current contact and billing information. Nexus may require a copy of a government issued form of identification before disclosing billing information or before making changes to the billing or contact information on an account.
 
 **What Happens to the Information if I Leave Nexus?**
 
@@ -28,4 +30,4 @@ If you ever leave Nexus, Nexus will normally delete your personally identifiable
 
 **Changes to This Policy and Questions About Privacy**
 
-Nexus reserves the right to make changes to this policy. Those changes will become effective 30 days after notice of them is posted here. If you have any questions about this privacy policy, please send them via e-mail to [info@nexus.net.pk](mailto:info@nexus.net.pk).
+Nexus reserves the right to make changes to this policy. Those changes will become effective 30 days after notice of them is posted here. If you have any questions about this privacy policy, please send them via e-mail to [support@nexus.pk](mailto:support@nexus.pk).
