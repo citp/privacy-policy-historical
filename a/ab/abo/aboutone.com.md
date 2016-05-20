@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aboutone.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101041503id_/http%3A//www.aboutone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutone.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520111320id_/http%3A//www.aboutone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AboutOne
 
@@ -39,8 +39,6 @@ If you have questions or concerns regarding this Policy, you should first contac
 [](https://www.mcafeesecure.com/verify?host=go.aboutone.com)
 
 [](https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&dn=www.aboutone.com&lang=en)
-
-[](http://privacy.truste.com/privacy-seal/AboutOne,-Inc-/validation?rid=cad4f1b3-c06a-4d3f-8b4c-6c61cca3d62f)
 
 [](https://www.privacyassociation.org/)
 
