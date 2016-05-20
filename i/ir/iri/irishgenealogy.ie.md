@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the irishgenealogy.ie privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924020743id_/http%3A//www.irishgenealogy.ie/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishgenealogy.ie privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520174159id_/http%3A//www.irishgenealogy.ie/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Irish Genealogy
 
 ##  [ Cookie and Privacy Policy](http://www.irishgenealogy.ie/en/privacy-policy)
 
-  * [ Print ](http://www.irishgenealogy.ie/en/privacy-policy?tmpl=component&print=1&page= "Print")
+  * [Print](http://www.irishgenealogy.ie/en/privacy-policy?tmpl=component&print=1&page= "Print")
 
 
 
