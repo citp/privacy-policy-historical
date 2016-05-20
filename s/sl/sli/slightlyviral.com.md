@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slightlyviral.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119231444id_/http%3A//slightlyviral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slightlyviral.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520164451id_/http%3A//slightlyviral.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Slightly Viral
 
