@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techknowl.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119084040id_/http%3A//www.techknowl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techknowl.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520201536id_/http%3A//www.techknowl.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy
+# PrivacyTechknowl.com Blog: Free software reviews, downloads and Tech tips
 
 The privacy of people visiting Techknowl.com is very important to us. That is why we have kept this page on everywhere  we would collect any kind of private information.
 
