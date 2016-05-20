@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the royal-hawaiian.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317061639id_/http%3A//www.starwoodhotels.com/preferredguest/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royal-hawaiian.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520143712id_/http%3A//www.starwoodhotels.com/preferredguest/legal/privacy.html) for the most accurate reproduction.*
 
 # Starwood Hotels & Resorts
 
-**Updated October 15, 2014**
+**Updated January 28,2016**
 
 ### Our Mission
 
@@ -10,38 +10,17 @@ At Starwood Hotels & Resorts Worldwide, Inc. (“Starwood”), we are dedicated 
 
 We have provided this Privacy Statement as an explanation of the information we collect, how we use it, how the use of this information can benefit your experience on our web sites and during your relationship with us, with whom and for what purposes we may share the information, and the choices you can make about our use of the information. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices. Our privacy practices may vary among the countries in which we operate to reflect local practices and legal requirements. We wish to help you make informed decisions, so please take a moment to read the sections below.
 
-  * THE WORLD OF STARWOOD
-  * STARWOOD VACATION OWNERSHIP
-  * TYPES OF INFORMATION WE COLLECT
-  * PURPOSE FOR COLLECTION, PROCESSING, AND DISCLOSURE
-  * CONSENT
-  * DATA TRANSFERS ACROSS INTERNATIONAL BORDERS
-  * SAFE HARBOR
-  * ACCESS TO YOUR PERSONALLY IDENTIFIABLE INFORMATION
-  * SECURITY SAFEGUARDS
-  * ON-LINE TECHNOLOGIES
-  * LINKS TO OTHER WEB SITES
-  * MINORS
-  * CONTACT US
-  * UPDATES TO THE PRIVACY STATEMENT
-
-
-
 ## THE WORLD OF STARWOOD:
 
 In order to provide multiple access points to the services and products we offer, Starwood Hotels & Resorts Worldwide, Inc. operates directly, or through its affiliates or service providers, many web sites, including [www.starwood.com](http://www.starwood.com/), [www.starwoodhotels.com](http://www.starwoodhotels.com/), [www.starwoodvo.com](http://www.starwoodvo.com/), [www.sheraton.com](http://www.sheraton.com/), [www.stregis.com](http://www.stregis.com/), [www.westin.com](http://www.westin.com/), [www.luxurycollection.com](http://www.luxurycollection.com/), [www.whotels.com](http://www.whotels.com/) , [www.alofthotels.com](http://www.alofthotels.com/),  [www.lemeridien.com](http://www.lemeridien.com/), [www.starwoodhotels.com/element](http://www.starwoodhotels.com/element), [www.fourpoints.com](http://www.fourpoints.com/), [www.preferredguest.com](http://www.preferredguest.com/), and [www.spg.com](http://www.spg.com/). Any one of these web sites may ask for and collect personally identifiable information in order to enhance your experience and provide you with relevant information.
-
-Back to Top
 
 ## STARWOOD VACATION OWNERSHIP:
 
 If you visit the Starwood Vacation Ownership web site, please note that a separate privacy statement governs the use of that site, available at <http://www.starwoodvacationownership.com/legal/privacy.jsp>.
 
-Back to Top
-
 ## TYPES OF INFORMATION WE COLLECT:
 
-Starwood collects information about our guests and visitors to our web sites so that we can provide an experience that is responsive to our guests' and visitors' needs. Information may be collected as part of: (i) fulfilling reservation or information requests, (ii) purchasing products or services, (iii) registering for program membership, (iv) submitting a job application, (v) responding to communications from us (e.g., surveys, promotional offers, or reservation confirmations), (vi) accommodating your personal preferences, (vii) fulfilling requests for services or recommendations we provide you, (viii) working with third party sources, including collecting information available from social networking and other web sites, to better assist us with understanding your interests and to serve you better, (ix) your use of our apps on your electronic devices, (x) updating your contact information including your address (through such services as the National Change of Address Service in the United States), or (xi) facilitating the transmission of forward to a friend email at your request. The types of personally identifiable information (sometimes referred to as “PII”) that we collect may include your name, home, work and e-mail addresses, telephone, mobile telephone, and fax numbers, credit card information, date of birth, gender, and lifestyle information such as room preferences, leisure activities, names and ages of children, and other information necessary to fulfill special requests (e.g., health conditions that require special room accommodations).
+Starwood collects information about our guests and visitors to our web sites so that we can provide an experience that is responsive to our guests' and visitors' needs. Information may be collected as part of: (i) fulfilling reservation or information requests, (ii) purchasing products or services, (iii) registering for program membership, (iv) submitting a job application, (v) responding to communications from us (e.g., surveys, promotional offers, or reservation confirmations), (vi) accommodating your personal preferences, (vii) fulfilling requests for services or recommendations we provide you, (viii) working with third party sources, including collecting information available from social networking and other web sites, to better assist us with understanding your interests and to serve you better, (ix) your use of our apps on your electronic devices, (x) updating your contact information including your address (through such services as the National Change of Address Service in the United States), or (xi) facilitating the transmission of forward to a friend email at your request. The types of personally identifiable information or personal data (sometimes referred to as “PII”) that we collect may include your name, home, work and e-mail addresses, telephone, mobile telephone, and fax numbers, credit card information, date of birth, gender, and lifestyle information such as room preferences, leisure activities, names and ages of children, and other information necessary to fulfill special requests (e.g., health conditions that require special room accommodations).
 
 Starwood may also collect non-personally identifiable information about you, such as your use of our web sites, communication preferences, travel habits, aggregated data relative to your stays, and responses to promotional offers and surveys.
 
@@ -65,7 +44,7 @@ You may opt out of marketing emails and Starwood surveys at any time by clicking
 
 **Processing and Disclosure**
 
-In most cases, the information you provide is added to a local or global database. In the course of processing your information, it may be necessary to transfer your PII to Starwood's affiliates, properties within the Starwood system and/or third party service providers located in the United States and throughout the world for the purposes outlined within this Privacy Statement. Unless otherwise precluded or governed by legal requirements and/or process, Starwood subsidiaries, affiliates and property owners that may receive your information are required to abide by substantially similar ****privacy requirements relating to your PII.   As a general practice, Starwood does not sell, rent, or give physical possession of your PII to unaffiliated third parties outside the Starwood system. Situations in which Starwood may disclose your information to others include:
+In most cases, the information you provide is added to a local or global database. In the course of processing your information, it may be necessary to transfer your PII to Starwood's affiliates, properties within the Starwood system and/or third party service providers located in the United States and throughout the world for the purposes outlined within this Privacy Statement. Unless otherwise precluded or governed by legal requirements and/or process, Starwood subsidiaries, affiliates and property owners that may receive your information are required to abide by substantially similar privacy requirements relating to your PII.  As a general practice, Starwood does not sell, rent, or give physical possession of your PII to unaffiliated third parties outside the Starwood system. Situations in which Starwood may disclose your information to others include:
 
   * when we have received your consent to do so
   * in situations where sharing or disclosing your information is required in order to offer you products or services you desire (e.g., a vacation package)
@@ -99,13 +78,13 @@ Back to Top
 
 ## DATA TRANSFERS ACROSS INTERNATIONAL BORDERS:
 
-As a global company, we endeavor to provide you with the same outstanding service in New York City, as you would find in Paris or Beijing. To achieve this goal, we have established a global network comprised of properties, offices, data centers, trusted marketing partners, service providers, customer contact centers, and trained associates around the globe. The nature of our business and our operations require us to transfer your information, including PII, to other group companies, properties, centers of operations, data centers, or service providers that may be located in countries outside of your own. We may transfer the PII we collect about you to countries other than the country in which the information was originally collected. Although the data protection and other laws of these various countries may not be as comprehensive as those in your own country, Starwood will take appropriate steps to ensure that your PII is protected and handled as described in this Privacy Statement. Japan residents, please [click here](http://www.starwoodhotels.com/promotions/promo_landing.html?category=JPPRST) for information regarding the Japan Personal Information Protection Act.
+We endeavor to provide you with the same outstanding service in New York City, as you would find in Paris or Beijing. To achieve this goal, we have established a global network comprised of properties, offices, operations centers, data centers, trusted strategic marketing partners, service providers, customer contact centers, and trained associates around the globe. The nature of our business and our operations require us to transfer your personal data to other Group companies, properties, operations centers, data centers, trusted strategic marketing partners, service providers, or customer contact centers that may be located in countries outside of your own. We may transfer your personal data to countries other than the country in which the personal data was originally collected. 
 
-Back to Top
+Although the data protection requirements and other laws of these various countries may not be as comprehensive as those in your own country, Starwood will take appropriate steps to ensure that your personal data is protected and handled as described in this Privacy Statement.
 
-## SAFE HARBOR:
+If you are located in the European Economic Area or Switzerland, we comply with applicable legal requirements providing adequate protection for the transfer of personal data to countries outside of the European Economic Area or Switzerland (including using, as appropriate, Binding Corporate Rules (BCRs), Model Clauses, and U.S. Safe Harbor program).
 
-If you are located in the European Economic Area or Switzerland, we comply with applicable legal requirements providing adequate protection for the transfer of PII to countries outside of the European Economic Area or Switzerland. Starwood is certified under the Safe Harbor privacy framework as set forth by the U.S. Department of Commerce, European Commission and Switzerland regarding the collection, storage, use, transfer and other processing of PII transferred from the European Economic Area or Switzerland to the U.S. [click here](http://www.starwoodhotels.com/promotions/promo_landing.html?category=SHPRST) to view our Safe Harbor Privacy Policy.
+Starwood is certified under the Safe Harbor privacy framework as set forth by the U.S. Department of Commerce, European Commission and Switzerland regarding the collection, storage, use, transfer and other processing of PII transferred from the European Economic Area or Switzerland to the U.S. Please note that since October 6, 2015, the European Union no longer recognizes Safe Harbor. Nonetheless, Starwood upholds to comply with the Safe Harbor Privacy Principles. To learn more about the Safe Harbor program, and to view Starwood’s certification, please visit <http://www.export.gov/safeharbor/>.
 
 Back to Top
 
@@ -150,7 +129,7 @@ We also work with vendors and marketing partners to help deliver advertisements 
 
 For example, if you go to a Starwood site to look at one of our properties or to book a hotel room, you may later see an advertisement from us when you visit another web site.  We may also engage one of these vendors to deliver our advertisements to consumers whose online behaviors on sites other than the Starwood sites indicate that they may be interested in travel.  In other instances, we engage in special arrangements with certain advertisers with which we think our web site visitors would have an interest.  We allow these advertisers to deliver co-branded messages (e.g., Starwood and the advertiser) directly to consumers who have visited our web pages.  These types of cobranded advertisements may appear on Starwood sites or on third party sites.  In general, you can opt out of our vendors' use of cookies to tailor personalized content or advertising to you by visiting <http://www.networkadvertising.org/managing/opt_out.asp> and <http://www.aboutads.info/choices>.
 
-We also work with vendors to deliver our advertisements directly to those who are traveling or about to travel.  For example, when you print your boarding pass online, one of our vendors may drop a cookie on your computer, identifying your computer with a unique identifier and a code indicating your destination.  We use this vendor to deliver advertisements to you indicating our available properties in the destination indicated on your boarding pass.  To opt-out of these types of advertisements from us, [click here](http://www.sojern.com/privacy.php) and follow the directions in the Sojern Privacy Policy for opting out.
+We also work with vendors to deliver our advertisements directly to those who are traveling or about to travel. For example, when you print your boarding pass online, one of our vendors may drop a cookie on your computer, identifying your computer with a unique identifier and a code indicating your destination. We use this vendor to deliver advertisements to you indicating our available properties in the destination indicated on your boarding pass. To opt-out of these types of advertisements from us, [Click here](http://www.sojern.com/privacy.php) and follow the directions in the Sojern Privacy Policy for opting out. 
 
 Back to Top
 
@@ -223,6 +202,6 @@ Attention: Consumer Affairs – Privacy
 
 ## UPDATES TO THE PRIVACY STATEMENT:
 
-This statement was last updated to include Starwood’s Safe Harbor Certification, updates to the types of information we may collect, online advertising, online technologies section (please click here to view your online technology options), as well as information regarding updates to your communication preferences, and new contact information **.**   Starwood may amend this Privacy Statement from time to time in order to meet changes in the regulatory environment, business needs, or to satisfy the needs of our guests, properties, strategic marketing partners, and service providers. Updated versions will be posted to our web site and date stamped so that you are always aware of when the Privacy Statement was last updated.
+This statement was last updated to describe how Starwood transfers personal data from the European Economic Area or Switzerland. Starwood may amend this Privacy Statement from time to time in order to meet changes in the regulatory environment, business needs, or to satisfy the needs of our guests, properties, strategic marketing partners, and service providers. Updated versions will be posted to our web site and date stamped so that you are always aware of when the Privacy Statement was last updated.
 
 Back to Top
