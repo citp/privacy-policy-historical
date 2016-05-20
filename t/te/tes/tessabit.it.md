@@ -1,74 +1,94 @@
-> *The following text is extracted and transformed from the tessabit.it privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604235457id_/http%3A//shop.tessabit.com/pag92.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tessabit.it privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520232400id_/http%3A//www.tessabit.com/us/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Privacy - Tessabit.com – Luxury Fashion For Men and Women: Shipping Worldwide
+# Privacy Policy | Tessabit shop online
 
-##  Thank you for visiting our web site [Tessabit](https://web.archive.org/web/20140604235457id_/http%3A//shop.tessabit.com/\[OK-LINK_LOJA\])
+Please replace this text with you Privacy Policy. Please add any additional cookies your website uses below (e.g., Google Analytics)
 
-Your privacy is important to us, and we want to protect your personal information. Please read this Privacy Policy to find out more. In our Privacy Policy we explain how we collect, use and (occasionally) disclose your personal information. This Privacy Policy also tells you about the steps we have taken to ensure that your personal information is kept safe. Finally, this Privacy Policy will explain your options regarding the collection, use and disclosure of your personal information. By visiting our Site, you will be accepting the practices described in our Policy. 
+This privacy policy sets out how Tessabit uses and protects any information that you give Tessabit when you use this website. Tessabit is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Tessabit may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
-**COLLECTION AND USE OF INFORMATION**
+## What we collect
 
-**1-Collection of Information.**
+We may collect the following information:
 
-On this Site we collect information from you in a number of different ways. Our main goal in collecting personal information from you is to provide you with an efficient, meaningful, and customized experience. For example, we can use your personal information to:  
-• Make this Site easier for you to use by not having to enter information more than once.   
-• Help you find information, products, and services promptly.  
-• Help us create content on this Site that is most relevant to you  
-• Inform you of new information, products, and services that we offer.
-
-**a) Registration and Ordering.**  
-Before using certain parts of this Site or ordering products, you will have to complete an online registration form. Once you have been registered you are ready to purchase your item(s). At this point you will need to provide us with certain personal information, for example your name, shipping and billing address(es), phone number, e-mail address, and credit card number. We will also ask you for your country of residence so that we can comply with the relevant laws and regulations. The personal information you provide is used for billing purposes, to fulfil your orders, to tell you about your order and our site, and for internal marketing purposes. If we come across a problem when processing your order, we will use the personal information to contact you. 
-
-**b) E-mail Addresses.**  
-When you enter your e-mail address to register, you are automatically signing up for our e-mail newsletter and special offers. 
-
-**c) Cookies and Other Technology.**  
-Cookies and web beacons are used in this Site (also known as clear GIF technology or "action tags") to speed your navigation of the Site. It also recognises you and your access privileges, and will track your Site usage.
-
-• Cookies are small pieces of information that are stored as text files by your Internet browser on your computer's hard drive. Most Internet browsers are initially set to accept cookies. You can set your browser to refuse cookies from websites or to remove cookies from your hard drive, but if you do this you will not be able to access or use portions of this Site. To enable you to select products, place them in an online shopping cart, and to purchase them we have to use cookies. They act as a record of your browsing activity and purchase.   
-• This site's cookies do not and cannot infiltrate a user's hard drive to gather a user's confidential information. Our cookies are not "spyware."  
-• Web beacons assist in delivering cookies. They also help us determine whether a web page on this Site has been viewed and how frequently. Any electronic image on this Site, such as an ad banner, can function as a web beacon.
-
-**d) Log Files.**  
-The Site server automatically recognizes the Internet URL from which you access this Site. We may also log your Internet protocol ("IP") address, Internet service provider, and date/time stamp for system administration, order verification, internal marketing, and system troubleshooting purposes. (An IP address may indicate the location of your computer on the Internet.) 
-
-**2.Information Use and Disclosure.**
-
-**a) Internal Use.**   
-Your personal information is used to process your order and provide you with customer service. Sometimes your personal information will be used internally to improve our Site's content and layout, our outreach and for our own marketing purposes (including marketing our products and services to you), and to determine general marketplace information about the Site’s visitors. 
-
-**b) Communications with You.**  
-We will use your personal information to tell you about our site and your orders and deliveries, and we will send you a confirmation e-mail when you register with us. There is also a chance that we may send you service-related announcements (such as a temporary suspension of our service for maintenance). You may also submit your e-mail to register for our e-mail newsletter and our special offers. If you submit your e-mail address we will use it to deliver the information to you. You can’t opt out of receiving e-mails related to your orders, as we need to tell you about them. 
-
-**c) External Use.**  
-Because our aim is to provide you with excellent service and to offer you a great selection, we do not sell, rent, trade, license or otherwise disclose your specific personal or financial information to anyone, except:
-
-  * When we sometimes use others to perform specific functions on our behalf, as do most catalogue and Internet retailers. When we disclose information to these service providers, we do so to help them perform their service. For example, in order to deliver products to you we must share some information. 
-  * We partner with third parties (such as UPS) to ship products, to ensure delivery, and so that we can obtain feedback, improve the quality of our service, and measure and improve the quality of the service of the third party. In the example of shippers, we provide them some personally identifiable information such as your name, shipping address, e-mail, and phone number.
-  * To help you buy products and provide customer service to you, we must provide your credit card number to financial services corporations such as credit card processors and issuers. When we submit your credit card number for authorization, we use state-of-the-art data encryption to protect your information. (Read more on this below in Data Security.)
-  * We may be required to disclose such information in response to requests from law-enforcement officials conducting investigations; a court order; or if we are otherwise required to disclose such information by law. Personal information will also be released where disclosure is necessary to protect our legal rights, enforce our Terms of Use or other agreements, or to protect ourselves or others. For example, we may share information to reduce the risk of fraud or if someone uses or attempts to use our Site for illegal reasons or to commit fraud.
-  * We will not sell (or trade or rent) personally identifiable information to other companies as part of our regular course of business. It is possible however, that we might acquire, merge or be acquired by another company or that we might dispose of some or all of our assets. If that happens, your personal information may be disclosed to another company, but that disclosure will be subject to the Privacy Policy in effect.
+  * name
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
 
 
-**DATA SECURITY**
+For the exhaustive list of cookies we collect see the List of cookies we collect section.
 
-Physical, electronic, and administrative procedures are incorporated in this Site to safeguard the confidentiality of your personal information such as the use of a Secure Sockets Layer ("SSL") for all financial transactions through this Site. We use SSL encryption to protect your personal information online, and take several steps to protect your personal information in our facilities. Access to your personal information is restricted to employees who need access to your personal information to perform a specific job. Finally, we rely on third-party service providers for the physical security of some of our computer hardware. We believe that their security procedures are adequate. When you visit our Site, for example, you access servers that are kept in a secure physical environment, behind a locked cage and an electronic firewall.While we use industry-standard precautions to safeguard your personal information, we cannot guarantee 100% complete security as it does not presently exist anywhere online or offline. 
+## What we do with the information we gather
 
-**OPT OUT/CORRECTIONS**
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-If you request us to do so, we will
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
-a) correct or update your personal information
 
-b) stop sending e-mails to your e-mail address
 
-and/or 
+## Security
 
-c) disable your account to prevent any future purchases through that account. You can make these requests in the Support Section [click here.](https://web.archive.org/pag280.aspx)
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-You can also e-mail your request to [support](https://web.archive.org/pag280.aspx). Please do not e-mail us your credit card number or other sensitive information. 
+## How we use cookies
 
-**UPDATES TO THIS POLICY**
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-If this Privacy Policy is changed or updated, we will post changes and updates on this Site so that you will always be informed of what information we collect, use and disclose. Please read this Privacy Policy from time to time to see if any changes have been made. If you have any queries about the Privacy Policy, please e-mail us at [support.](https://web.archive.org/pag280.aspx)
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+## Links to other websites
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+## Controlling your personal information
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at cs@tessabit.com
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Via Vittorio Emanuele II 13 22100 Como Italy.
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+## List of cookies we collect
+
+The table below lists the cookies we collect and what information they store.
+
+COOKIE name| COOKIE Description  
+---|---  
+CART | The association with your shopping cart.  
+CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
+COMPARE | The items that you have in the Compare Products list.  
+CURRENCY | Your preferred currency  
+CUSTOMER | An encrypted version of your customer id with the store.  
+CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
+CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
+CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
+EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
+FRONTEND | You sesssion ID on the server.  
+GUEST-VIEW | Allows guests to edit their orders.  
+LAST_CATEGORY | The last category you visited.  
+LAST_PRODUCT | The most recent product you have viewed.  
+NEWMESSAGE | Indicates whether a new message has been received.  
+NO_CACHE | Indicates whether it is allowed to use cache.  
+PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
+POLL | The ID of any polls you have recently voted in.  
+POLLN | Information on what polls you have voted on.  
+RECENTLYCOMPARED | The items that you have recently compared.  
+STF | Information on products you have emailed to friends.  
+STORE | The store view or language you have selected.  
+USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
+VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
+WISHLIST | An encrypted list of products added to your Wishlist.  
+WISHLIST_CNT | The number of items in your Wishlist.
