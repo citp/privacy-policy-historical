@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techcloud7.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103175307id_/http%3A//www.techcloud7.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techcloud7.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520173807id_/http%3A//www.techcloud7.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
