@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the ifunny.mobi privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204134554id_/http%3A//ifunny.co/app/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifunny.mobi privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520115428id_/https%3A//ifunny.co/app/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - iFunny :)
 
-Last Updated: 10-24-2014 
+Last Updated: 02-03-2016 
 
-The following privacy policy ("Privacy Policy") covers all of the entertainment content, products or services by Okrujnost LLC, websites and mobile applications, [including, but not limited to, this website ifunny.co (and any subdomains operated at ifunny.co), any mobile applications (including, but not limited to, mobile application iFunny) available for devices running iOS, which can be found in the Apple App Store, and the Android operating system, which can be found in the Android Market], and any products or services available from the websites and mobile applications (collectively referred to herein as the “iFunny Services”). 
+The following privacy policy ("Privacy Policy") covers all of the Services provided by iFunny as those Services are defined in iFunny’s Terms of Use Agreement. 
 
-This Privacy Policy describes the practices of Okrujnost LLC and its affiliates (“iFunny,” “we” or “us”), regarding the collection, use, disclosure, transfer and other processing of personal information about you ("Personal Information") collected as part of your use of the iFunny Services. Before using the iFunny Services or providing information to us, please carefully review this Privacy Policy. By using or accessing the iFunny Services, you agree that we may collect and use your information in accordance with this Privacy Policy, as revised from time to time. If you have any questions or suggestions regarding our Privacy Policy, please contact us at the email address indicated below. 
+This Privacy Policy describes the practices of iFunny Ltd and its affiliates (“iFunny,” “we” or “us”), regarding the collection, use, disclosure, transfer and other processing of personal information about you ("Personal Information") collected as part of your use of the iFunny Services. Before using the iFunny Services or providing information to us, please carefully review this Privacy Policy. By using or accessing the iFunny Services, you agree that we may collect and use your information in accordance with this Privacy Policy, as revised from time to time. If you have any questions or suggestions regarding our Privacy Policy, please contact us at the email address indicated below. 
+
+Processing of Personal Information 
+
+You understand and agree that iFunny may store and process your Personal Information on computers located outside of the European Union, including, but not limited to, in the United States and the Russian Federation. By using the Services, you agree to the collection and processing of your Personal Information outside of the European Union and you hereby expressly waive any rights that you may have under the EU Data Protection Directive. 
 
 Personal Information Collected 
 
@@ -31,15 +35,15 @@ You have the ability to accept or decline cookies. By default, most web browsers
 
 Comments 
 
-In order to enhance the user experience of the iFunny Services, users can choose to leave comments on particular images and videos. Okrujnost LLC does not endorse these comments, as they are opinions of users who are not associated with Okrujnost LLC, its subsidiary, affiliates, "sister entities," officers, directors, employees and agents. Please remember that any information that is disclosed in these areas becomes public information. Parties may view and collect any such information. As such, you should exercise caution when deciding to disclose Personal Information. 
+In order to enhance the user experience of the iFunny Services, users can choose to leave comments on particular images and videos. iFunny Ltd does not endorse these comments, as they are opinions of users who are not associated with iFunny Ltd, its subsidiary, affiliates, "sister entities," officers, directors, employees and agents. Please remember that any information that is disclosed in these areas becomes public information. Parties may view and collect any such information. As such, you should exercise caution when deciding to disclose Personal Information. 
 
 Mailing List 
 
-Okrujnost LLC may launch a mailing list for the iFunny Services. By signing up for an account at one of the iFunny Services, you will be placed on the mailing list. From time to time, Okrujnost LLC may email its members new features and other news regarding the iFunny Services. You will be given the option of opting out of the mailing list via a link contained within emails on the mailing list. In addition, if you do not wish to receive marketing communications, please contact us at the email address provided below. 
+iFunny Ltd may launch a mailing list for the iFunny Services. By signing up for an account at one of the iFunny Services, you will be placed on the mailing list. From time to time, iFunny Ltd may email its members new features and other news regarding the iFunny Services. You will be given the option of opting out of the mailing list via a link contained within emails on the mailing list. In addition, if you do not wish to receive marketing communications, please contact us at the email address provided below. 
 
 Third Party Services and Advertising Networks 
 
-Third-party advertising companies and networks may serve cookies on the iFunny Services and serve ads to you when you visit the iFunny Services. These companies and networks may use the log file information and/or information collected by cookies, Web beacons and similar technologies to provide advertisements about goods and services that they believe may be of interest to you. All such features are managed by third parties; therefore, please review the privacy policies posted at those sites. Okrujnost LLC has no control over these third parties’ use of cookies or web beacons, or how they manage the non-personal information they gather through them. This Privacy Policy covers the use of cookies by Okrujnost LLC only and does not cover the use of cookies by any advertisers or other third parties. 
+Third-party advertising companies and networks may serve cookies on the iFunny Services and serve ads to you when you visit the iFunny Services. These companies and networks may use the log file information and/or information collected by cookies, Web beacons and similar technologies to provide advertisements about goods and services that they believe may be of interest to you. All such features are managed by third parties; therefore, please review the privacy policies posted at those sites. iFunny Ltd has no control over these third parties’ use of cookies or web beacons, or how they manage the non-personal information they gather through them. This Privacy Policy covers the use of cookies by iFunny Ltd only and does not cover the use of cookies by any advertisers or other third parties. 
 
 The ads appearing on the iFunny Services are delivered to users by third-party advertisers including Google Inc. and Apple Inc. among others. These companies may use cookies and other tracking tools on our websites and third-party websites to collect your metric data and information (not including your name, address, email address or telephone number) about your visits to the iFunny Services in order to provide advertisements on iFunny Services and other sites about goods and services that may be of interest to you. 
 
@@ -53,23 +57,29 @@ We may disclose Personal Information as follows:
 
 Business Transitions 
 
-In the event Okrujnost LLC goes through a business transition, including, but not limited to, a merger, acquisition, partnership, business reorganization, debt finance or sale of company assets, or in the event of an insolvency, bankruptcy or receivership, we may use Personal Information as part of the context of any such business transition. In most instances, Personal Information will be part of the assets transferred. Additionally, we may share Personal Information with our partners, affiliates, contractors, and service providers, as necessary, to provide iFunny Services to you or to otherwise improve our services. 
+In the event iFunny Ltd goes through a business transition, including, but not limited to, a merger, acquisition, partnership, business reorganization, debt finance or sale of company assets, or in the event of an insolvency, bankruptcy or receivership, we may use Personal Information as part of the context of any such business transition. In most instances, Personal Information will be part of the assets transferred. Additionally, we may share Personal Information with our partners, affiliates, contractors, and service providers, as necessary, to provide iFunny Services to you or to otherwise improve our services. 
 
 Legal Disclaimer 
 
-Though we make commercially reasonable efforts to preserve user privacy, Okrujnost LLC may need to disclose Personal Information when we believe it is required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on Okrujnost LLC. While we may provide you with advance notice at our discretion, nothing in this Privacy Policy entitles you to such notice. 
+Though we make commercially reasonable efforts to preserve user privacy, iFunny will not disclose Personal Information to third parties except in response to a duly authorized subpoena, court order, or search warrant issued by a court of competent jurisdiction over iFunny or in response to a valid emergency request. iFunny will evaluate emergency disclosure requests consistent with the law (including 18 U.S.C. § 2702(b)(8)) on a case by case basis. If, after reviewing an emergency disclosure request, iFunny has a good faith believe that there are exigent emergency circumstances that involve the danger of death or serious physical injury to a person, iFunny may disclose Personal Information necessary to prevent that harm. 
+
+iFunny may notify its users of third party requests for their Personal Information, including, but not limited to, by providing its users with a copy of the request, unless it is explicitly prohibited from doing so by valid legal process, such as a court order. Where prior notice is prohibited, iFunny may notify its users that a third party has requested their Personal Information after Personal Information has been disclosed. 
 
 Safety and Protecting Our Interests 
 
-We may disclose information we collect from you in order to prevent damage to our tangible and/or intangible property, for safety reasons, in the course of collecting amounts owed to us, or for other similar reasons as we see fit in our discretion. 
+We may disclose Personal Information we collect from you in order to prevent damage to our tangible and/or intangible property, for safety reasons, in the course of collecting amounts owed to us, or for other similar reasons as we see fit in our discretion. 
 
 Children Under the Age of 13 
 
 The iFunny Services are not intended for children under the age of 13 and we do not knowingly collect personal information from children under age 13. If you are younger than 13, please do not use the iFunny Services and please do not provide personal information to us. 
 
+Your California Privacy Rights 
+
+California residents have the right to receive information that identifies any third party companies or individuals that iFunny has shared your Personal Information with in the previous calendar year, as well as a description of the categories of Personal Information disclosed to that third party. You may obtain this information once a year and free of charge by contacting iFunny at support@ifunny.co. 
+
 Notification of Changes 
 
-Whenever Okrujnost LLC changes its Privacy Policy, we will post those changes to this Privacy Policy and other places that we deem appropriate. Your use of the iFunny Services following these changes indicates your consent to the practices described in the revised Privacy Policy. 
+Whenever iFunny Ltd changes its Privacy Policy, we will post those changes to this Privacy Policy and other places that we deem appropriate. Your use of the iFunny Services following these changes indicates your consent to the practices described in the revised Privacy Policy. 
 
 Contact Us 
 
