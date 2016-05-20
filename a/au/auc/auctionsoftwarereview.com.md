@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auctionsoftwarereview.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910032218id_/http%3A//www.webretailer.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctionsoftwarereview.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520042907id_/http%3A//www.webretailer.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Web Retailer
 
