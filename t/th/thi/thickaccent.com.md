@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thickaccent.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120150134id_/http%3A//www.thickaccent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thickaccent.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520231943id_/http%3A//www.thickaccent.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Thick Accent
+# Privacy Policy – Thick Accent | Live blogging the wold of Football | Pictures, Videos, Transfer Rumors & More.
 
 This privacy policy sets out how [ThickAccent.com](http://www.thickaccent.com/) uses and protects any information that you give [ThickAccent.com](http://www.thickaccent.com/) when you use this website.
 
