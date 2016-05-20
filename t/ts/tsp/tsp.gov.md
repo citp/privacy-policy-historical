@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsp.gov privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905122738id_/https%3A//www.tsp.gov/sitehelp/privacy/privacyPolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsp.gov privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520113529id_/https%3A//www.tsp.gov/sitehelp/content/index.html) for the most accurate reproduction.*
 
 # TSP: Website Privacy Policy
 
@@ -25,7 +25,7 @@ Information automatically collected and stored includes:
 
 
 
-In addition, this website uses Google Analytics. Please refer to the following policies on Google’s website for more information:
+In addition, this website uses Google Analytics. Please refer to the following policies on Google's website for more information:
 
 #### TSP Account Access
 
@@ -34,9 +34,6 @@ If you choose to access your account in the secure section of the TSP website (w
 We only share information you give us with other government agencies if your transaction relates to another agency, or as otherwise required by law. Read the warning on the login page.
 
 The TSP does not use Google Analytics on the My Account section of the website. Your account data is not available to Google or any other third party.
-
-  
-
 
 ### Comments Submitted Online
 
@@ -50,14 +47,8 @@ Persistent cookies are pieces of information sent by a Web server to your browse
 
 We also use temporary or session cookies. These cookies are stored in memory and are only available during an active browser session. We use this type of cookie to track user sessions in order to analyze site usage. We do not collect or store any personal information with this type of cookie. These cookies are erased as soon as you close your Web browser.
 
-  
-
-
 ### Security Monitoring
 
 To ensure that the TSP website is secure and that this website is available to all users, the Government computer system employs software programs to monitor network traffic in order to identify unauthorized attempts to upload or change information or damage the functioning of the website.
 
 Unauthorized attempts to add and/or change information on this website are strictly prohibited and are subject to prosecution under the Computer Fraud and Abuse Act of 1986 (18 U.S.C. § 1030).
-
-  
-
