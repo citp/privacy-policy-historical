@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nostringsfun.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326033212id_/http%3A//www.nostringsfun.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nostringsfun.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520024528id_/http%3A//www.nostringsfun.com/site/privacy) for the most accurate reproduction.*
 
 # No Strings Fun
 
