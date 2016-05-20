@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freecamstars.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102013657id_/http%3A//www.freecamstars.com/privacy.html%3FAFNO%3D1-100018-s1%257Cp2%257Ctour1%257Ck%257Ck2%257Ck3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecamstars.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521013651id_/http%3A//www.freecamstars.com/privacy.html%3FAFNO%3D1-100018-s1%257Cp2%257Ctour1%257Ck%257Ck2%257Ck3) for the most accurate reproduction.*
 
 # FreeCamStars - Privacy Policy
 
@@ -47,7 +47,7 @@ If you have any questions about this Privacy Policy, please contact our customer
 
 The address for correspondence by post is
 
-ICF Technology, Inc.  
-PO Box 21508  
-Seattle, WA 98111  
-USA
+.cnI ,ygolonhceT FCI  
+80512 xoB OP  
+11189 AW ,elttaeS  
+ASU
