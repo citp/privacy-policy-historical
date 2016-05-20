@@ -1,8 +1,20 @@
-<!--The following is the downloaded HTML source of the metv.com privacy policy that was archived on 2015-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151226103633id_/http%3A//www.metv.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the metv.com privacy policy that was archived on 2016-05-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160520065842id_/http%3A//www.metv.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-        <base href="http://www.metv.com/">
+		<!-- Google Fonts -->
+        <link href="https://fonts.googleapis.com/css?family=Work+Sans:800" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,800" rel="stylesheet" type="text/css">
+       
+<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-6520115836404543",
+    enable_page_level_ads: true
+  });
+</script>
+ 
+        <base href="//www.metv.com/">
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
         <title>MeTV Network | Privacy Policy</title>
@@ -10,10 +22,11 @@
         <meta name="description" content="">
 
 		        
-                
+        
         <link rel="stylesheet" href="/css/normalize.css" media="screen">
-        <link rel="stylesheet" href="/css/style.css?v17" media="screen">
-        <link rel="stylesheet" href="/css/extra.css?v13" media="screen">
+        <link rel="stylesheet" href="/css/style.css?v28" media="screen">
+        <link rel="stylesheet" href="/css/extra.css?v26" media="screen">
+        <link rel="stylesheet" href="/css/style_new_2016.css" media="screen">
 <!--
         <link rel="stylesheet" href="https://metvnetwork-resources.s3.amazonaws.com/all_style.gz.css" media="screen" />
 -->        
@@ -36,12 +49,13 @@
         </script>
         <![endif]-->
         
-        <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.4"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
         <script src="/js/jquery-ui.js"></script>
         <script src="/js/jquery.sticky.js"></script>
-                <script src="/js/jquery.bxslider.min.js"></script>
+                        
+        <script src="/js/jquery.bxslider.min.js"></script>
         <script src="/js/jquery.colorbox-min.js"></script>
-		<script type="text/javascript" src="/js/rrssb.min.js"></script>
+		<script type="text/javascript" src="/js/rrssb.js?v3"></script>
 		<script>
 			$(document).ready(function(){
 				// System alerts
@@ -82,7 +96,7 @@
         
                 
         <!-- DFP/Google Adsense -->
-        <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+                <script type="text/javascript" src="https://partner.googleadservices.com/gampad/google_service.js"></script>
 		<script type="text/javascript">
 			GS_googleAddAdSenseService("ca-pub-0852133682462285");
 			GS_googleEnableAllServices();
@@ -115,8 +129,7 @@
         <script type="text/javascript">
         	GA_googleFetchAds();
         </script>
-        
-        <!-- Google Analytics -->
+                <!-- Google Analytics -->
 		<script>
 			
 			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -125,9 +138,11 @@
 			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 			
 			
-				ga('create', 'UA-5553426-11', 'metv.com');
-				ga('require', 'displayfeatures');
-				ga('send', 'pageview');
+				 ga('create', 'UA-5553426-11', 'metv.com');
+				 ga('create', 'UA-39299970-1', 'auto', {'name': 'newTracker'});
+				 ga('require', 'displayfeatures');
+				 ga('send', 'pageview');
+				 ga('newTracker.send','pageview');
 			
 		</script>
         
@@ -138,41 +153,86 @@
         
             </head>
     <body>
+<script>
+    /**********************************************
+     * Workaround - On iOS 9, inside of FB's iOS app, if you click our share link for Facebook on a story it crashes. 
+     * This workaround uses the SDK to share when the userAgent is a Facebook app
+     *********************************************/
+    var SHARE_URL = "//www.metv.com/privacy-policy/";
+        
+    function isFacebookApp() {
+      var ua = navigator.userAgent || navigator.vendor || window.opera;
+      return (ua.indexOf("FBAN") > -1) || (ua.indexOf("FBAV") > -1);
+    }         
+    var isFBInitialized = function () {
+        return typeof (FB) != 'undefined' && window.fbAsyncInit.hasRun;
+    };   
+    
+    window.fbAsyncInit = function() {
+      FB.init({
+        appId      : '424455911043606',
+        xfbml      : true,
+        version    : 'v2.5'
+      });
+     };
+
+   $(document).ready(function(){
+        $('.rrssb-facebook a').on('click', function(e){
+            if(isFBInitialized && isFacebookApp()){
+                FB.ui(
+                 {
+                  method: 'share',
+                  href: SHARE_URL
+                }, function(response){});           
+                console.log("USING FACEBOOK APP SHARING TO PREVENT CRASH");
+                e.preventDefault();
+                return false;                
+            }          
+            //console.log("NORMAL SHARE");            
+        });   
+        
+   });
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>        
+
     	<!-- Facebook -->
         <div id="fb-root"></div>
-		<script>(function(d, s, id) {
-          var js, fjs = d.getElementsByTagName(s)[0];
-          if (d.getElementById(id)) return;
-          js = d.createElement(s); js.id = id;
-          js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
-          fjs.parentNode.insertBefore(js, fjs);
-        }(document, 'script', 'facebook-jssdk'));</script>
         
         <!-- Twitter -->
         <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
         
-    	        <header>
+    	        <div id="newsletter-modal">
+            <a href="#" class="close"></a>
+            <img src="/images/memail_modal_header.gif" alt="MeMail" width="300" height="85">
+            <div class="newsletter-wrap">
+                <span>Sign up for MeTV's newsletter to receive our most popular articles and quizzes straight to your inbox!</span>
+                <form id="modal-newsletter-form" class="newsletter-form clearfix" method="post">
+                    <div class="newsletter-form-input-wrap">
+                        <input type="text" id="modal_newsletter_email" name="email" value="YOUR EMAIL...">
+                    </div>
+                    <button id="newsletter_signup" type="submit" name="submit"><i class="fa fa-chevron-right"></i></button>
+                </form>
+            </div>
+        </div>
+                <header>
         	<div class="header-design">
                 <div class="header-logo-affiliate lg-col-wrapper clearfix">
-                    <div class="header-ad">
-                        
-							<script type="text/javascript">
-							var width = window.innerWidth || document.documentElement.clientWidth;
-							if(width > 800){
-								GA_googleFillSlot("metvcom_728x90_header");
-							}else if(width > 500){
-								GA_googleFillSlot("metvcom_468x60_header");
-							}else{
-								GA_googleFillSlot("metvcom_320x50_header");
-							}
-							</script>
-							
+                                        <div class="header-ad">
+                        <a href="http://ad.doubleclick.net/N6526/jump/allb.wjla/meTV;tile=1;pos=top;cat=null;reg=null;sz=728x90;KW=null;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/N6526/ad/allb.wjla/meTV;tile=1;pos=top;cat=null;reg=null;sz=728x90;KW=null;ord=123456789?" border="0" alt=""></a>
+
                     </div>
-                    <div class="logo-affiliate clearfix">
+                                        <div class="logo-affiliate clearfix">
                         <a href="/"><img class="logo" src="images/metv_logo.png" width="193" height="62"></a>
                         <div class="header-affiliate">
                             <a href="/wheretowatch/">Change your location »</a>
-                            <img src="/images/logos/logo_sanfrancisco.png" width="290" height="40">
+                            <img src="/images/logos/logo_wjla_web.png" width="290" height="40">
                         </div>
                     </div>
                     <div class="header-social clearfix">
@@ -189,53 +249,29 @@
                     	<a href="/"><img class="logo-resp" src="images/metv_logo.png" width="125" height="40"></a>
                         <ul class="clearfix">
                             <li>
-                                <a href="/schedule/">
-                                    <span class="header-section-icon section-icon-schedule"></span>
-                                    Schedule
-                                </a>
+                                <a href="/schedule/">Schedule</a>
                             </li>
                             <li>
-                                <a href="/shows/">
-                                    <span class="header-section-icon section-icon-shows"></span>
-                                    Shows
-                                </a>
+                                <a href="/shows/">Shows</a>
                             </li>
                             <li>
-                                <a href="/stories/">
-                                    <span class="header-section-icon section-icon-stories"></span>
-                                    Stories
-                                </a>
+                                <a href="/stories/">Stories</a>
                             </li>
                             <li>
-                                <a href="/quiz/">
-                                    <span class="header-section-icon section-icon-content"></span>
-                                    Quizzes
-                                </a>
+                                <a href="/quiz/">Quizzes</a>
                             </li>
                             <li>
-                                <a href="/videos/">
-                                    <span class="header-section-icon section-icon-videos"></span>
-                                    Videos
-                                </a>
+                                <a href="/videos/">Videos</a>
                             </li>
                             <li>
-                                <a href="http://games.metv.com">
-                                    <span class="header-section-icon section-icon-games"></span>
-                                    Games
-                                </a>
+                                <a href="http://games.metv.com">Games</a>
+                            </li>
+                            <li>
+                                <a href="http://store.metv.com">Shop</a>
                             </li>
                             <li class="wtw">
-                                <a href="/wheretowatch/">
-                                    <span class="header-section-icon section-icon-wtw"></span>
-                                    <div class="wtw-nav">Where To <span>Watch</span></div>
-                                </a>
+                                <a href="/wheretowatch/">Where To Watch</a>
                             </li>
-                            <!--<li>
-                                <a href="/wheretowatch/">
-                                    <span class="header-section-icon section-icon-wtw"></span>
-                                    Where To Watch
-                                </a>
-                            </li>-->
                         </ul>
                         <div class="social-facebook">
                             <div class="fb-like" data-href="https://www.facebook.com/metvnetwork" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
@@ -264,11 +300,11 @@
                                 
                                  5:00AM
                                                         <a class="header-next-title" href="shows/">
-                                        F Troop
+                                        Gomer Pyle, U.S.M.C.
                     </a>
                             </div>
         </header>
-        <div class="lg-col-wrapper clearfix">
+                <div class="lg-col-wrapper clearfix">
                 <div class="header-store-banner">
         	<a href="http://store.metv.com/" target="_blank"><img src="/images/900x80-metvstore-banner.png" alt="The MeTV Store" width="900" height="80"></a>
         </div>
@@ -384,7 +420,7 @@ Regular mail to:<br>
             </div><!-- #main-content -->
                         <aside>
             	<div class="sidebar-ad">
-					<script type="text/javascript">
+                    					<script type="text/javascript">
 						var width = window.innerWidth || document.documentElement.clientWidth;
 						if(width > 1260){
 							GA_googleFillSlot("metvcom_300x250_nysidebar");
@@ -396,6 +432,7 @@ Regular mail to:<br>
 							GA_googleFillSlot("metvcom_320x50_nysidebar");
 						}
                     </script>
+                                            
                 </div>
                 <div class="side-now-next">
                     <div class="side-now">
@@ -410,12 +447,12 @@ Regular mail to:<br>
                     <div class="side-next">
                     	                        <h3> 5:00AM</h3>
                         <div class="now-next-show">
-                                                                                    <a href="shows/f-troop">
-                                                        F Troop
+                                                                                    <a href="shows/gomer-pyle">
+                                                        Gomer Pyle, U.S.M.C.
                             </a>
                                                     </div>
-                                                <a href="shows/f-troop">
-                                                <img src="https://metvnetwork.s3.amazonaws.com/nSvb4-1443540127-210-show-130x116_whatson__0001s_0002_F-Troop.png" width="130" height="116">
+                                                <a href="shows/gomer-pyle">
+                                                <img src="https://metvnetwork.s3.amazonaws.com/Jw6K9-1443540125-16-show-130x116_whatson__0001s_0008_gomer-pyle.png" width="130" height="116">
                         </a>
                     </div>
                 </div>
@@ -436,11 +473,11 @@ Regular mail to:<br>
                         <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
                     </div>
                 </div>
-                <div class="side-store-widget">
+                                                <div class="side-store-widget">
                     <a href="http://store.metv.com/" target="_blank"><img src="/images/300x50-metvstore-button.png" alt="The MeTV Store" width="300" height="50"></a>
                 </div>
-                <div class="sidebar-ad">
-                    <script type="text/javascript">
+                                                <div class="sidebar-ad">
+                                        <script type="text/javascript">
 						var width = window.innerWidth || document.documentElement.clientWidth;
 						if(width > 1260){
 							GA_googleFillSlot("metvcom_300x250_sidebar");
@@ -452,7 +489,9 @@ Regular mail to:<br>
 							GA_googleFillSlot("metvcom_320x50_sidebar");
 						}
                     </script>
+                                        
                 </div>
+                                
                 <div class="newsletter-wrap">
                     <span>Sign up for our newsletter!</span>
                     <form id="newsletter-form" class="newsletter-form clearfix" method="post">
@@ -462,49 +501,171 @@ Regular mail to:<br>
                         <button id="newsletter_signup" type="submit" name="submit"><i class="fa fa-chevron-right"></i></button>
                     </form>
                 </div>
-                <div class="side-trending-wrap clearfix">
-                    <h3>Trending Articles</h3>
-                                                                    <div class="side-trending-item clearfix">
-                            <a href="/stories/in-memoriam-remembering-those-we-lost-in-2015"><img src="https://metvnetwork.s3.amazonaws.com/cNUAP-1450798016-581-blog-RIP_nimoy.jpg" width="140" height="140"></a>
-                            <div class="side-trending-desc">
-                                <h4><a href="/stories/in-memoriam-remembering-those-we-lost-in-2015">In Memoriam – Remembering those we lost in 2015</a></h4>
-                                
-                                
+                
+                                <div class="side-tabs">
+                	<ul class="side-tab-links clearfix">
+                    	<li class="side-tab-link-active"><a href="#popular">Popular</a></li>
+                        <li><a href="#latest">Latest</a></li>
+                    </ul>
+                    <div class="side-tab-content clearfix">
+                    	<div id="popular" class="side-tab side-tab-content-active">
+                                                        
+                                                            
+                            <div class="side-tab-content-item clearfix">
+                            	<a href="/quiz/can-you-name-these-1960s-rock-roll-bands"><img src="https://s3.amazonaws.com/metvnetwork/MpCQ7-1463585950-102-quiz-140x140-1960sBand.png" width="70" height="70"></a>
+                                <a class="side-tab-content-item-title" href="/quiz/can-you-name-these-1960s-rock-roll-bands">Quiz: Can you name these 1960s rock &amp; roll bands?</a>
                             </div>
-                        </div>                        
-                                                                                            <div class="side-trending-item clearfix">
-                            <a href="/lists/8-things-you-might-not-know-about-emergency"><img src="https://metvnetwork.s3.amazonaws.com/jeZPc-1450900250-84-list-emergency_thb.png" width="140" height="140"></a>
-                            <div class="side-trending-desc">
-                                <h4><a href="/lists/8-things-you-might-not-know-about-emergency">8 things you might not know about 'Emergency!'</a></h4>
-                                
-                                
+                                                        
+                                                            
+                            <div class="side-tab-content-item clearfix">
+                            	<a href="/stories/what-ever-happened-to-rona-barrett"><img src="https://s3.amazonaws.com/metvnetwork/ZCkId-1463682674-thumbnail_image-878.jpg" width="70" height="70"></a>
+                                <a class="side-tab-content-item-title" href="/stories/what-ever-happened-to-rona-barrett">What ever happened to Rona Barrett?</a>
                             </div>
-                        </div>                        
-                                                                                            <div class="side-trending-item clearfix">
-                            <a href="/quiz/which-star-trek-planet-is-this"><img src="https://metvnetwork.s3.amazonaws.com/K6i8c-1450736727-53-quiz-140x140-startrekplanet.png" width="140" height="140"></a>
-                            <div class="side-trending-desc">
-                                <h4><a href="/quiz/which-star-trek-planet-is-this">Quiz: Can you name this Star Trek planet?</a></h4>
-                                
-                                
+                                                        
+                                                            
+                            <div class="side-tab-content-item clearfix">
+                            	<a href="/quiz/quiz-can-you-guess-the-tv-show-based-on-a-single-frame"><img src="https://s3.amazonaws.com/metvnetwork/GpiFo-1462313670-90-quiz-140x140-thumbnail.jpg" width="70" height="70"></a>
+                                <a class="side-tab-content-item-title" href="/quiz/quiz-can-you-guess-the-tv-show-based-on-a-single-frame">Can you guess the TV show based on a single frame?</a>
                             </div>
-                        </div>                        
-                                                                                            <div class="side-trending-item clearfix">
-                            <a href="/lists/11-things-you-might-not-know-about-mamas-family"><img src="https://metvnetwork.s3.amazonaws.com/l3YzW-1450120672-74-list-mamas_vicki_thb.jpg" width="140" height="140"></a>
-                            <div class="side-trending-desc">
-                                <h4><a href="/lists/11-things-you-might-not-know-about-mamas-family">11 things you might not know about 'Mama's Family'</a></h4>
-                                
-                                
+                                                        
+                                                            
+                            <div class="side-tab-content-item clearfix">
+                            	<a href="/stories/27-things-you-forgot-you-used-to-have-to-do"><img src="https://metvnetwork.s3.amazonaws.com/l6uyp-1455825633-683-blog-thingsusedtodo_main_1200.jpg" width="70" height="70"></a>
+                                <a class="side-tab-content-item-title" href="/stories/27-things-you-forgot-you-used-to-have-to-do">27 things you forgot you used to have to do</a>
                             </div>
-                        </div>                        
-                                                                                            <div class="side-trending-item clearfix">
-                            <a href="/lists/10-fascinating-factoids-about-the-patty-duke-show"><img src="https://metvnetwork.s3.amazonaws.com/LS4QM-1450191552-75-list-PATTYDUKE_main_thb.jpg" width="140" height="140"></a>
-                            <div class="side-trending-desc">
-                                <h4><a href="/lists/10-fascinating-factoids-about-the-patty-duke-show">10 fascinating factoids about 'The Patty Duke Show'</a></h4>
-                                
-                                
+                                                        
+                                                            
+                            <div class="side-tab-content-item clearfix">
+                            	<a href="/lists/the-favorite-television-shows-of-american-presidents"><img src="https://s3.amazonaws.com/metvnetwork/t9bAa-1463500452-thumbnail_image-393.jpg" width="70" height="70"></a>
+                                <a class="side-tab-content-item-title" href="/lists/the-favorite-television-shows-of-american-presidents">The favorite television shows of American presidents</a>
                             </div>
-                        </div>                        
-                                                            </div><!-- .side-trending-wrap -->
+                                                    </div>
+                        <div id="latest" class="side-tab">
+                                                                                    <div class="side-tab-content-item clearfix">
+                            	<a href="/lists/10-bubble-gums-you-will-never-chew-again"><img src="https://s3.amazonaws.com/metvnetwork/c0Gtm-1463694624-thumbnail_image-402.jpg" width="70" height="70"></a>
+                                <a class="side-tab-content-item-title" href="/lists/10-bubble-gums-you-will-never-chew-again">10 bubble gums you will never chew again</a>
+                            </div>
+                                                                                    <div class="side-tab-content-item clearfix">
+                            	<a href="/stories/japan-had-an-oddly-gripping-spiderman-tv-show-in-the-1970s"><img src="https://s3.amazonaws.com/metvnetwork/RyGjD-1463694412-thumbnail_image-879.png" width="70" height="70"></a>
+                                <a class="side-tab-content-item-title" href="/stories/japan-had-an-oddly-gripping-spiderman-tv-show-in-the-1970s">Japan had an oddly gripping Spiderman TV show in the 1970s</a>
+                            </div>
+                                                                                    <div class="side-tab-content-item clearfix">
+                            	<a href="/lists/the-7-most-unbelievable-shows-of-the-1960s"><img src="https://s3.amazonaws.com/metvnetwork/APC5S-1463685474-thumbnail_image-400.jpg" width="70" height="70"></a>
+                                <a class="side-tab-content-item-title" href="/lists/the-7-most-unbelievable-shows-of-the-1960s">The 7 most unbelievable shows of the 1960s</a>
+                            </div>
+                                                                                    <div class="side-tab-content-item clearfix">
+                            	<a href="/stories/what-ever-happened-to-rona-barrett"><img src="https://s3.amazonaws.com/metvnetwork/ZCkId-1463682674-thumbnail_image-878.jpg" width="70" height="70"></a>
+                                <a class="side-tab-content-item-title" href="/stories/what-ever-happened-to-rona-barrett">What ever happened to Rona Barrett?</a>
+                            </div>
+                                                                                    <div class="side-tab-content-item clearfix">
+                            	<a href="/lists/11-things-you-might-not-know-about-raymond-burr"><img src="https://s3.amazonaws.com/metvnetwork/CdlkM-1463674194-thumbnail_image-399.jpg" width="70" height="70"></a>
+                                <a class="side-tab-content-item-title" href="/lists/11-things-you-might-not-know-about-raymond-burr">11 things you might not know about Raymond Burr</a>
+                            </div>
+                                                                                    <div class="side-tab-content-item clearfix">
+                            	<a href="/stories/morley-safer-longtime-60-minutes-correspondent-dies-at-84"><img src="https://s3.amazonaws.com/metvnetwork/CqS62-1463676091-thumbnail_image-877.jpg" width="70" height="70"></a>
+                                <a class="side-tab-content-item-title" href="/stories/morley-safer-longtime-60-minutes-correspondent-dies-at-84">Morley Safer, longtime '60 Minutes' correspondent, dies at 84</a>
+                            </div>
+                                                                                    <div class="side-tab-content-item clearfix">
+                            	<a href="/stories/everything-we-learned-from-the-new-star-trek-logo-and-teaser"><img src="https://s3.amazonaws.com/metvnetwork/QZkUP-1463667571-thumbnail_image-876.jpg" width="70" height="70"></a>
+                                <a class="side-tab-content-item-title" href="/stories/everything-we-learned-from-the-new-star-trek-logo-and-teaser">8 things we learned from the new Star Trek logo and teaser</a>
+                            </div>
+                                                                                    <div class="side-tab-content-item clearfix">
+                            	<a href="/stories/check-out-the-trailer-for-the-new-macgyver"><img src="https://s3.amazonaws.com/metvnetwork/Ea39K-1463666203-875-blog-macgyver_newguy_main_1200.png" width="70" height="70"></a>
+                                <a class="side-tab-content-item-title" href="/stories/check-out-the-trailer-for-the-new-macgyver">Check out the trailer for the new 'MacGyver'</a>
+                            </div>
+                                                                                    <div class="side-tab-content-item clearfix">
+                            	<a href="/lists/10-larger-than-life-facts-about-land-of-the-giants"><img src="https://s3.amazonaws.com/metvnetwork/4x8Y1-1463607163-thumbnail_image-398.png" width="70" height="70"></a>
+                                <a class="side-tab-content-item-title" href="/lists/10-larger-than-life-facts-about-land-of-the-giants">10 larger than life facts about Land of the Giants</a>
+                            </div>
+                                                                                    <div class="side-tab-content-item clearfix">
+                            	<a href="/stories/walgreens-is-now-selling-a-wonder-woman-makeup-line"><img src="https://s3.amazonaws.com/metvnetwork/UjtKn-1463608424-thumbnail_image-874.jpg" width="70" height="70"></a>
+                                <a class="side-tab-content-item-title" href="/stories/walgreens-is-now-selling-a-wonder-woman-makeup-line">Warner Bros. and Walgreens team up for a Wonder Woman makeup line</a>
+                            </div>
+                                                                                    <div class="side-tab-content-item clearfix">
+                            	<a href="/lists/8-out-of-this-world-facts-about-james-arness"><img src="https://s3.amazonaws.com/metvnetwork/P2LUY-1463603384-397-list-1200_arness_header.jpg" width="70" height="70"></a>
+                                <a class="side-tab-content-item-title" href="/lists/8-out-of-this-world-facts-about-james-arness">8 Out-of-This-World Facts About James Arness </a>
+                            </div>
+                                                                                    <div class="side-tab-content-item clearfix">
+                            	<a href="/stories/do-you-remember-the-show-the-san-pedro-beach-bums"><img src="https://s3.amazonaws.com/metvnetwork/nytwx-1463598584-thumbnail_image-872.jpg" width="70" height="70"></a>
+                                <a class="side-tab-content-item-title" href="/stories/do-you-remember-the-show-the-san-pedro-beach-bums">Do you remember the show 'The San Pedro Beach Bums'?</a>
+                            </div>
+                                                                                    <div class="side-tab-content-item clearfix">
+                            	<a href="/lists/8-television-stars-who-were-affected-by-the-red-scare-and-hollywood-blacklist"><img src="https://s3.amazonaws.com/metvnetwork/k9mMJ-1463592480-thumbnail_image-396.jpg" width="70" height="70"></a>
+                                <a class="side-tab-content-item-title" href="/lists/8-television-stars-who-were-affected-by-the-red-scare-and-hollywood-blacklist">8 television stars who were affected by the Red Scare and Hollywood blacklist</a>
+                            </div>
+                                                                                    <div class="side-tab-content-item clearfix">
+                            	<a href="/quiz/can-you-name-these-1960s-rock-roll-bands"><img src="https://s3.amazonaws.com/metvnetwork/MpCQ7-1463585950-102-quiz-140x140-1960sBand.png" width="70" height="70"></a>
+                                <a class="side-tab-content-item-title" href="/quiz/can-you-name-these-1960s-rock-roll-bands">Quiz: Can you name these 1960s rock &amp; roll bands?</a>
+                            </div>
+                                                                                    <div class="side-tab-content-item clearfix">
+                            	<a href="/stories/we-asked-dawn-wells-from-gilligans-island-to-taste-test-coconut-waters"><img src="https://s3.amazonaws.com/metvnetwork/ibQm5-1463521743-thumbnail_image-871.png" width="70" height="70"></a>
+                                <a class="side-tab-content-item-title" href="/stories/we-asked-dawn-wells-from-gilligans-island-to-taste-test-coconut-waters">Video: Dawn Wells taste tests coconut water</a>
+                            </div>
+                                                                                    <div class="side-tab-content-item clearfix">
+                            	<a href="/stories/pop-flashback-these-were-the-top-hits-this-week-in-1976"><img src="https://s3.amazonaws.com/metvnetwork/CebEF-1463517511-thumbnail_image-869.jpg" width="70" height="70"></a>
+                                <a class="side-tab-content-item-title" href="/stories/pop-flashback-these-were-the-top-hits-this-week-in-1976">Pop flashback: These were the top hits this week in 1976</a>
+                            </div>
+                                                                                    <div class="side-tab-content-item clearfix">
+                            	<a href="/quiz/which-movie-grossed-more-at-the-box-office"><img src="https://s3.amazonaws.com/metvnetwork/YCBzs-1463518121-101-quiz-140x140-BoxOffice.png" width="70" height="70"></a>
+                                <a class="side-tab-content-item-title" href="/quiz/which-movie-grossed-more-at-the-box-office">Which movie made more money?</a>
+                            </div>
+                                                                                    <div class="side-tab-content-item clearfix">
+                            	<a href="/lists/wed-spend-summer-at-these-7-fictional-summer-camps-from-tv"><img src="https://s3.amazonaws.com/metvnetwork/WnSJy-1463511630-thumbnail_image-395.png" width="70" height="70"></a>
+                                <a class="side-tab-content-item-title" href="/lists/wed-spend-summer-at-these-7-fictional-summer-camps-from-tv">We'd spend summer at these 7 fictional summer camps from TV</a>
+                            </div>
+                                                                                    <div class="side-tab-content-item clearfix">
+                            	<a href="/lists/7-classic-tv-shows-that-had-show-stopping-musical-episodes"><img src="https://s3.amazonaws.com/metvnetwork/pUm5I-1463503273-thumbnail_image-394.png" width="70" height="70"></a>
+                                <a class="side-tab-content-item-title" href="/lists/7-classic-tv-shows-that-had-show-stopping-musical-episodes">7 classic TV shows that had show-stopping musical episdoes</a>
+                            </div>
+                                                                                    <div class="side-tab-content-item clearfix">
+                            	<a href="/lists/the-favorite-television-shows-of-american-presidents"><img src="https://s3.amazonaws.com/metvnetwork/t9bAa-1463500452-thumbnail_image-393.jpg" width="70" height="70"></a>
+                                <a class="side-tab-content-item-title" href="/lists/the-favorite-television-shows-of-american-presidents">The favorite television shows of American presidents</a>
+                            </div>
+                                                                                    <div class="side-tab-content-item clearfix">
+                            	<a href="/stories/watch-sssssss-saturday-night-on-svengoolie"><img src="https://s3.amazonaws.com/metvnetwork/RMliT-1463501887-thumbnail_image-867.jpg" width="70" height="70"></a>
+                                <a class="side-tab-content-item-title" href="/stories/watch-sssssss-saturday-night-on-svengoolie">Watch 'Sssssss' Saturday Night on 'Svengoolie'</a>
+                            </div>
+                                                                                    <div class="side-tab-content-item clearfix">
+                            	<a href="/lists/listen-to-the-surprising-demo-versions-for-these-8-classic-songs"><img src="https://s3.amazonaws.com/metvnetwork/oanpF-1463432273-thumbnail_image-392.png" width="70" height="70"></a>
+                                <a class="side-tab-content-item-title" href="/lists/listen-to-the-surprising-demo-versions-for-these-8-classic-songs">Listen to the surprising demo versions for these 8 classic songs</a>
+                            </div>
+                                                                                    <div class="side-tab-content-item clearfix">
+                            	<a href="/lists/lions-apes-and-bears-here-are-12-non-traditional-tv-pets"><img src="https://s3.amazonaws.com/metvnetwork/GYHDS-1463417577-390-list-pets_main_baretta_1200.jpg" width="70" height="70"></a>
+                                <a class="side-tab-content-item-title" href="/lists/lions-apes-and-bears-here-are-12-non-traditional-tv-pets">Lions, apes and bears! Here are 12 non-traditional TV pets</a>
+                            </div>
+                                                                                    <div class="side-tab-content-item clearfix">
+                            	<a href="/lists/9-tv-characters-who-were-wealthy-beyond-belief"><img src="https://s3.amazonaws.com/metvnetwork/vGAiU-1463419493-thumbnail_image-391.png" width="70" height="70"></a>
+                                <a class="side-tab-content-item-title" href="/lists/9-tv-characters-who-were-wealthy-beyond-belief">9 TV characters who are wealthy beyond belief</a>
+                            </div>
+                                                                                    <div class="side-tab-content-item clearfix">
+                            	<a href="/stories/5-must-see-episodes-on-metv-this-week-of-may-16"><img src="https://s3.amazonaws.com/metvnetwork/TtvnZ-1463407512-thumbnail_image-866.png" width="70" height="70"></a>
+                                <a class="side-tab-content-item-title" href="/stories/5-must-see-episodes-on-metv-this-week-of-may-16">5 must-see episodes on MeTV this week of May 16</a>
+                            </div>
+                                                                                    <div class="side-tab-content-item clearfix">
+                            	<a href="/lists/13-unlucky-tv-characters-for-friday-the-13th"><img src="https://s3.amazonaws.com/metvnetwork/fIq4P-1463177119-thumbnail_image-389.png" width="70" height="70"></a>
+                                <a class="side-tab-content-item-title" href="/lists/13-unlucky-tv-characters-for-friday-the-13th">13 unlucky TV characters for Friday the 13th</a>
+                            </div>
+                                                                                    <div class="side-tab-content-item clearfix">
+                            	<a href="/stories/15-vintage-ice-cream-ads-that-will-have-you-hungering-for-summer"><img src="https://s3.amazonaws.com/metvnetwork/hSHt9-1463166408-thumbnail_image-865.jpg" width="70" height="70"></a>
+                                <a class="side-tab-content-item-title" href="/stories/15-vintage-ice-cream-ads-that-will-have-you-hungering-for-summer">15 vintage ice cream ads that will have you hungering for summer</a>
+                            </div>
+                                                                                    <div class="side-tab-content-item clearfix">
+                            	<a href="/lists/8-things-you-never-knew-about-the-beach-party-movies"><img src="https://s3.amazonaws.com/metvnetwork/HKBW2-1463147741-thumbnail_image-387.jpg" width="70" height="70"></a>
+                                <a class="side-tab-content-item-title" href="/lists/8-things-you-never-knew-about-the-beach-party-movies">8 things you never knew about the 'Beach Party' movies</a>
+                            </div>
+                                                                                    <div class="side-tab-content-item clearfix">
+                            	<a href="/lists/11-facts-about-top-gun-that-will-take-your-breath-away"><img src="https://s3.amazonaws.com/metvnetwork/BVpea-1463157065-thumbnail_image-388.jpg" width="70" height="70"></a>
+                                <a class="side-tab-content-item-title" href="/lists/11-facts-about-top-gun-that-will-take-your-breath-away">11 facts about 'Top Gun' that'll take your breath away</a>
+                            </div>
+                                                                                    <div class="side-tab-content-item clearfix">
+                            	<a href="/stories/11-hilariously-outrageous-beauty-tips-for-girls-from-the-1960s"><img src="https://s3.amazonaws.com/metvnetwork/cwnIU-1463089317-thumbnail_image-864.jpg" width="70" height="70"></a>
+                                <a class="side-tab-content-item-title" href="/stories/11-hilariously-outrageous-beauty-tips-for-girls-from-the-1960s">11 hilariously outrageous beauty tips for girls from the 1960s</a>
+                            </div>
+                                                    </div>
+                    </div>
+                </div><!-- .side-tabs -->
+                                
+                
                 <div class="sidebar-games">
                 	<a href="http://games.metv.com">
                     	<img class="sidebar-games-lg" src="/images/300x600-arkadium-trafficdriver-2.png" width="300" height="600">
@@ -512,7 +673,7 @@ Regular mail to:<br>
                         <img class="sidebar-games-sml" src="/images/320x100-arkadium-trafficdriver.png" width="320" height="100">
                     </a>
                 </div>
-                <div id="criteoscroller">
+                                <div id="criteoscroller">
                     
                     <script type="text/javascript">
                     <!--//<![CDATA[
@@ -531,12 +692,15 @@ Regular mail to:<br>
                        }
                        if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
                        document.write ("'></scr"+"ipt>");
-                    //]]>--></script><script type="text/javascript" src="https://cas.criteo.com/delivery/ajs.php?zoneid=270611&amp;nodis=1&amp;cb=30263955402&amp;exclude=undefined&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20151226103633id_/http%3A//www.metv.com/privacy-policy/"></script>
+                    //]]>--></script><script type="text/javascript" src="https://cas.criteo.com/delivery/ajs.php?zoneid=270611&amp;nodis=1&amp;cb=37825584943&amp;exclude=undefined&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20160520065842id_/http%3A//www.metv.com/privacy-policy/"></script>
                     
                 </div>
-                
+                                
                 <script type="text/javascript">    
                     var NEWSLETTER_CLICK = false;
+					var HP_NEWSLETTER_CLICK = false;
+					var MODAL_NEWSLETTER_CLICK = false;
+					var LP_NEWSLETTER_CLICK = false;
                     var PICKME_CLICK = false;
                     var HEADTOHEAD_CLICK = false;
                     
@@ -562,8 +726,29 @@ Regular mail to:<br>
                     $('#newsletter-form').click(function(event) {
                         PICKME_CLICK = false;
                     });
+					
+					$('#hp-newsletter-form').on('keypress', function(event) {
+                        HP_NEWSLETTER_CLICK = true;
+                    });
+                    $('#hp-newsletter-form').click(function(event) {
+                        HP_NEWSLETTER_CLICK = true;
+                    });
+					
+					$('#modal-newsletter-form').on('keypress', function(event) {
+                        MODAL_NEWSLETTER_CLICK = true;
+                    });
+                    $('#modal-newsletter-form').click(function(event) {
+                        MODAL_NEWSLETTER_CLICK = true;
+                    });
+					
+					$('#lp-newsletter-form').on('keypress', function(event) {
+                        LP_NEWSLETTER_CLICK = true;
+                    });
+                    $('#lp-newsletter-form').click(function(event) {
+                        LP_NEWSLETTER_CLICK = true;
+                    });
                     
-                    $('#newsletter-form,#pickme-newsletter-form,#hth-newsletter-form').submit( function(e){
+                    $('#newsletter-form,#hp-newsletter-form,#modal-newsletter-form,#lp-newsletter-form,#pickme-newsletter-form,#hth-newsletter-form').submit( function(e){
                         e.preventDefault();          
                         
                         var emailAddress = $('#newsletter_email').val();
@@ -572,6 +757,16 @@ Regular mail to:<br>
                         }else if(HEADTOHEAD_CLICK){
                             emailAddress = $('#hth_newsletter_email').val();                            
                         }
+						else if(HP_NEWSLETTER_CLICK){
+                            emailAddress = $('#hp_newsletter_email').val();                            
+                        }
+						else if(MODAL_NEWSLETTER_CLICK){
+                            emailAddress = $('#modal_newsletter_email').val();                            
+                        }
+						else if(LP_NEWSLETTER_CLICK){
+                            emailAddress = $('#lp_newsletter_email').val();                            
+                        }
+						
                         if(emailAddress.length <= 2){
                             alert("Enter a valid email");
                             return;
@@ -597,7 +792,8 @@ Regular mail to:<br>
                                         $('.hth-newsletter').html('<span>Thank you for signing up!</span>');                                        
                                     }
                                     else{
-                                        $('.newsletter-wrap').html('<span>Thank you for signing up!</span>');                                                                             
+                                        $('.newsletter-wrap').html('<span class="newsletter-thankyou">Thank you for signing up!</span>');
+										$('.content-newsletter-signup.newsletter-wrap').css('padding-left', '0');
                                     }
                                 }
                                 else if(data.status == "failure"){
@@ -614,6 +810,8 @@ Regular mail to:<br>
                                                     
                     });
                 </script>
+                
+                                
                 <script type="text/javascript">
 					jQuery(window).load(function() {
 					var criteo_scrollingAd = jQuery('#criteoscroller');
@@ -634,11 +832,22 @@ Regular mail to:<br>
 					});
                 </script>
                 
+                                <!-- 123 -->
+<script type="text/javascript" language="javascript" src="//c.amazon-adsystem.com/aax2/getads.js"></script>
+<script type="text/javascript" language="javascript">
+//<![CDATA[
+aax_getad_mpb({
+  "slot_uuid":"4510b8a8-9d62-417d-95fa-627b53c150fa"
+});
+//]]>
+</script>
+
             </aside>
+
     	</div><!-- .lg-col-wrapper -->
-                <div class="footer-ad">
+                        <div class="footer-ad">
         	<div class="footer-ad-inner">
-            	<script type="text/javascript">
+                                	<script type="text/javascript">
 					var width = window.innerWidth || document.documentElement.clientWidth;
 					if(width > 800){
 						GA_googleFillSlot("metvcom_728x90_footer");
@@ -648,16 +857,44 @@ Regular mail to:<br>
 						GA_googleFillSlot("metvcom_320x50_footer");
 					}
 				</script>
-            </div>
+                                </div>
         </div>
-                <footer>
+                        <footer>
         	<div class="lg-col-wrapper">
         		<a href="/about-us/">About</a> | <a href="/contact/">Contact</a> | <a href="/advertise/">Advertise</a> | <a href="/privacy-policy/">Privacy Policy</a> | <a href="/terms-of-use/">Terms of Use</a> | <a href="/sweepstakes/">Sweepstakes Winners</a>
         		<div class="footer-affiliate-logos">
-                	                </div>
-                <div class="copyright">© 2015 MeTV National Limited Partnership</div>
+                	                    <a href="http://www.wjla.com/" target="_blank"><img src="//images.metv.com/footerlogos/abc7logodc.png" alt=""></a>
+                                        <a href="http://www.wjla.com/news/newschannel-8/" target="_blank"><img src="//images.metv.com/footerlogos/nc8logodc.png" alt=""></a>
+                                    </div>
+                <div class="copyright">© 2016 MeTV National Limited Partnership</div>
             </div>
         </footer>
-                            
+                <script src="/js/jquery.the-modal.js"></script>
+                                <script>
+			localStorage.clear();
+			var hours = 336; // Reset when storage is more than two weeks old
+			var now = new Date().getTime();
+			var setupTime = localStorage.getItem('setupTime');
+			if (setupTime == null || now-setupTime > hours*60*60*1000){
+				if(now-setupTime > hours*60*60*1000){
+					localStorage.clear();
+				}
+				localStorage.setItem('setupTime', now);
+				
+				// Google analytics event tracking
+				ga('send', 'event', 'Newsletter Modal Opened', 'open', 'MeTV Newsletter Modal');
+				
+				// Facebook "like" modal
+				$('#newsletter-modal .close').on('click', function(e){
+					e.preventDefault();
+					$.modal().close();
+				});
+				
+				$('#newsletter-modal').modal().open();
+			}
+			
+        </script>
+            
+
 
 </body></html>
