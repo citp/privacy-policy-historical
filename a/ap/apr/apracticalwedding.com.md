@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apracticalwedding.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905084217id_/http%3A//apracticalwedding.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apracticalwedding.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520043003id_/http%3A//apracticalwedding.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - A Practical Wedding: Blog Ideas for the Modern Wedding, Plus Marriage
 
@@ -6,7 +6,7 @@ APW is committed to protecting your privacy. This privacy policy explains APW’
 
 Personally Identifiable Information
 
-We may request personally identifiable information (such as your name, street address, telephone number, credit card number, e-mail address and/or any other identifier that permits the physical or online contacting of you). We only collect personal information from you if you voluntarily submit such information to us or our third party vendors.
+We may request personally identifiable information (such as your name, street address, telephone number, credit card number, e-mail address and/or any other identifier that permits the physical or online contacting of you). We only collect personal information from you if you voluntarily submit such information to us or our third party vendors. By submitting your personal information you give us permission to share the information with our partners and affiliates and to use such information for marketing or promotional purposes.
 
 We will never intentionally disclose any personal information without permission. However, we may choose to release personal information to enforce our Terms of Use, manage our business, protect users or the general public, or to otherwise comply with legal obligations.
 
@@ -14,9 +14,7 @@ In event of a corporate change or a sale of our business we may share your perso
 
 Any User Content you leave on our site becomes public. We are not responsible for personal information you choose to include in your User Content. Although we strive to protect our users’ privacy, we cannot guarantee the security of information you post in these forums and have no control over how such third parties may use your information. You disclose such information at your own risk.
 
-If you give us your permission, we may also use personal identification information for internal or external marketing and promotional purposes.
-
-In addition, on occasion, we may collect personal identification information from you in connection with optional contests, special offers or promotions. We will share such information with necessary third parties for the purpose of carrying out the contest, special offer or promotion. Your participation in the contest, special offer or promotion constitutes your consent to such disclosure and use of such information.
+In addition, on occasion, we may collect personal identification information from you in connection with optional contests, special offers or promotions. We will share such information with our partners, our affiliates and necessary third parties for the purpose of carrying out the contest, special offer or promotion. Your participation in the contest, special offer or promotion constitutes your consent to such disclosure and use of such information.
 
 Nonpersonal Identification Information
 
