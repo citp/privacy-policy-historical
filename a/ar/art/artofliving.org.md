@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the artofliving.org privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921030021id_/http%3A//www.artofliving.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artofliving.org privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520133135id_/http%3A//www.artofliving.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Art Of Living Global
 
 **_This agreement is entered into by and between Art of Living Foundation on behalf of itself and its affiliates and licensors (“Organization”), and you as user of this website and potential participant in one or more programs of learning administered by the Organization (the “program” or “programs”)._**
 
-The Organization respects the privacy rights of visitors to our website and is committed to protecting those rights.  To support this commitment, we have adopted this Privacy Policy that governs how we collect, use, disclose, update and protect the information you provide online to the Organization., Please read this Privacy Policy carefully before you use the Organization website. This Privacy Policy does not apply to information collected by the Organization other than through its website.
+The Organization respects the privacy rights of visitors to our website and is committed to protecting those rights. To support this commitment, we have adopted this Privacy Policy that governs how we collect, use, disclose, update and protect the information you provide online to the Organization, Please read this Privacy Policy carefully before you use the Organization website. This Privacy Policy does not apply to information collected by the Organization other than through its website.
 
 Visitors to the Organization website from outside of Switzerland are advised that the Organization’s Privacy Policy is intended to meet the laws and requirements of Switzerland, which may not necessarily be the same as the laws and regulations of your home country. Any information that you provide to the Organization online will be handled in accordance with the laws and regulations of Switzerland.
 
@@ -24,19 +24,19 @@ _This Privacy Policy will inform you as to:_
 
 #### **_Websites covered by the Privacy Policy_**
 
-Please note that this Privacy Policy applies only to this website and other websites maintained by the Organization.  This Privacy Policy does not apply to websites maintained by other companies or organizations to which we may link.
+Please note that this Privacy Policy applies only to this website and other websites maintained by the Organization. This Privacy Policy does not apply to websites maintained by other companies or organizations to which we may link.
 
-When you click on a link displayed on our website, you may be leaving the Organization’s website and entering another website for which this Privacy Policy does not apply. You may not be specifically informed of this fact, although in most instances a new browser window will be opened when a hyperlink is redirecting you to a website which we do not operate or control. This may not always be the case, however. Therefore, before providing any personal information which may be requested from you, you should first verify the Uniform Resource Locator (URL) or the hypertext transfer protocol (http) address displayed by your web browser to confirm whether or not you are still accessing a website operated by the Organization. If not, this Privacy Policy will not apply to your visit.
+When you click on a link displayed on our website, you may be leaving the Organization’s website and entering another website for which this Privacy Policy does not apply. You may not be specifically informed of this fact, although in most instances a new browser window will be opened when a hyperlink is redirecting you to a website which we do not operate or control. You may not be specifically informed of this fact, although in most instances a new browser window will be opened when a hyperlink is redirecting you to a website which we do not operate or control.
 
 You should carefully review the privacy statements or policies of any other website that you visit or wish to send email to because those privacy statements or policies will apply to your visit and email sent to that site and may be very different from the Organization’s Privacy Policy.
 
-Our website is not intended for children under 18 years of age.  No one under age 18 may provide any personal information on our websites, and we do not knowingly collect personal information from children under age 18.  If you are under age 18, do not use or provide any information on this website, make any purchases through this website, use any interactive or public comment features of this website, or provide any information about yourself to us.  If we learn that we have collected or received personal information from a child under age 18 without verification of parental consent, we will delete that information.  If you believe that we might have any information from or about a child under age 18, please contact us at [webmaster@artofliving.org](mailto:webmaster@artofliving.org).
+Our website is not intended for children under 18 years of age. No one under age 18 may provide any personal information on our websites, and we do not knowingly collect personal information from children under age 18. If you are under age 18, do not use or provide any information on this website, make any purchases through this website, use any interactive or public comment features of this website, or provide any information about yourself to us. If we learn that we have collected or received personal information from a child under age 18 without verification of parental consent, we will delete that information. If you believe that we might have any information from or about a child under age 18, please contact us at [webmaster@artofliving.org](mailto:webmaster@artofliving.org).
 
 #### **_Collection of Personal Information and Its Use and Purpose_**
 
 _**_Data Storage and Transfer_**_
 
-Your personal data will be securely stored by and accessible to us, including our affiliated organizations and our technology outsourcing partners, on servers which may be located in countries with different data protection regulations than apply in your home country, for the purpose of providing information technology services on our behalf for the administration of the programs and offerings described on our website.   The data on the servers may also be accessed by us or our technology development outsourcing partners from outside your home country for system development and support purposes.
+Your personal data will be securely stored by and accessible to us, including our affiliated organizations and our technology outsourcing partners, on servers which may be located in countries with different data protection regulations than apply in your home country, for the purpose of providing information technology services on our behalf for the administration of the programs and offerings described on our website. The data on the servers may also be accessed by us or our technology development outsourcing partners from outside your home country for system development and support purposes.
 
 _**_Electronic Marketing_**_
 
@@ -46,7 +46,7 @@ If you decide you do not wish to be informed of related products or services in 
 
 _**_Demographic and Aggregate Information_**_
 
-In order to provide you with the best possible experience on our website, the Organization may also collect demographic and aggregate information from online visitors who access its websites.  “Demographic information” is anonymous information such as age, gender and geographic location.  “Aggregate information” is data about a group or category of services or users from which individual identities have been removed.  Demographic and aggregate information is not considered personal information, as it does not permit the identification of an individual.
+In order to provide you with the best possible experience on our website, the Organization may also collect demographic and aggregate information from online visitors who access its websites. “Demographic information” is anonymous information such as age, gender and geographic location. “Aggregate information” is data about a group or category of services or users from which individual identities have been removed. Demographic and aggregate information is not considered personal information, as it does not permit the identification of an individual.
 
 _**_User Comments and Email_**_
 
