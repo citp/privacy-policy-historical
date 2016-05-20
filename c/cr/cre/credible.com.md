@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the credible.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905080221id_/https%3A//www.credible.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the credible.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520184924id_/https%3A//www.credible.com/privacy) for the most accurate reproduction.*
 
-# Credible - Home
+# Credible® - Refinance Student Loans, Student Loans, Personal Loans
 
 Welcome to Credible.com, the website and online service of Credible Labs Inc. (“Credible,” “we,” or “us”). We are committed to protecting your privacy. Our Privacy Policy explains how we collect, use, disclose, and protect information that applies to our Service, and your choices about the collection and use of your information. 
 
@@ -125,7 +125,7 @@ Following termination or deactivation of your User account, Credible may retain 
 
 ### Children’s privacy
 
-Credible does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as Users. The Service and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [admin@credible.com](mailto:admin@credible.com). 
+Credible does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as Users. The Service and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [support@credible.com](mailto:support@credible.com). 
 
 ### Links to other web sites and services
 
@@ -133,7 +133,7 @@ We are not responsible for the practices employed by websites or services linked
 
 ### How to contact us
 
-If you have any questions about this Privacy Policy or the Service, please contact us at [admin@credible.com](mailto:admin@credible.com). 
+If you have any questions about this Privacy Policy or the Service, please contact us at [support@credible.com](mailto:support@credible.com). 
 
 ### Changes to our privacy policy
 
