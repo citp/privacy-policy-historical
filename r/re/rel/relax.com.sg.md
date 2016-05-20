@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the relax.com.sg privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612000032id_/http%3A//www.asiaone.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relax.com.sg privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520101951id_/http%3A//sph.com.sg/legal/sph_privacy.html) for the most accurate reproduction.*
 
 # SPH Privacy Policy - Singapore Press Holdings
 
