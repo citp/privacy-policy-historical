@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datascience.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117180801id_/http%3A//www.datascience.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datascience.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520104531id_/http%3A//www.datascience.com/privacy) for the most accurate reproduction.*
 
 # DataScience | Privacy and Security
 
