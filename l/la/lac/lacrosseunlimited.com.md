@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lacrosseunlimited.com privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030005040id_/http%3A//lacrosseunlimited.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacrosseunlimited.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520073527id_/http%3A//lacrosseunlimited.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Lacrosse Unlimited Privacy Policy | Lacrosse Unlimited
 
@@ -68,4 +68,6 @@ If you have questions about this privacy statement, the information practices of
 Lacrosse Unlimited  
 Customer Service  
 59 Gilpin Avenue  
-Hauppauge, NY 11788
+Hauppauge, NY 11788  
+1-877-800-5850  
+[web@lacrosseunlimited.com](mailto:web@lacrosseunlimited.com "Email Customer Service")
