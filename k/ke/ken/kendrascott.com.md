@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kendrascott.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906065203id_/http%3A//www.kendrascott.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kendrascott.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520080127id_/http%3A//www.kendrascott.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,9 +13,6 @@ Kendra Scott Design, Inc. (“Kendra Scott”) values its customer and respects 
 You acknowledge that this Privacy and Usage Policy is part of our website Terms of Use, and by accessing or using our website, you agree to be bound by all of its terms and conditions. If you do not agree to these terms, please do not access or use our website.
 
 Our policy also describes the choices you can make about how we collect and use the information collected. If our information practices change, we will post an updated policy on our website. You can tell if the policy changed by checking the revision date that appears in this policy.
-
-  
-
 
 ### Information We Collect and How We Use It
 
@@ -79,7 +76,7 @@ You acknowledge that this Privacy & Usage Policy is part of the Terms of Use and
 
 ### Safe Harbor
 
-Kendra Scott adheres to the seven privacy principles dictated by the Safe Harbor Framework as set forth by the US Department of Commerce: Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement. These principles may be found at www.export.gov/safeharbor.
+Kendra Scott adheres to the seven privacy principles dictated by the Safe Harbor Framework as set forth by the US Department of Commerce: Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement. These principles may be found at [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
 
 ### How to Contact Us
 
