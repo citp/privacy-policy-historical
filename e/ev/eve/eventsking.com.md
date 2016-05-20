@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eventsking.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108094825id_/http%3A//eventsking.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventsking.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520103419id_/http%3A//eventsking.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
 
-# Events King - Own your business and shop for free & Free Post & Search Classified & ADs.
+# Events King - The Right Place For Success
 
 **Events King Privacy Policy**
 
