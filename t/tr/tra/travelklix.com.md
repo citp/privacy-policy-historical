@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelklix.com privacy policy that was archived on 2015-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151004095448id_/http%3A//www.travelklix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelklix.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520084519id_/http%3A//www.travelklix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Travel Klix
 
