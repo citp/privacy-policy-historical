@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mazarscareers.ie privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918021727id_/http%3A//mazarscareers.ie/apply/data_protection) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mazarscareers.ie privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520102548id_/http%3A//mazarscareers.ie/apply/data_protection) for the most accurate reproduction.*
 
-# Mazars Careers | Mazars Careers
+# Mazars CareersMazars Careers
 
 This privacy policy sets out how Mazars uses and protects any information that you give Mazars when you use this website.
 
