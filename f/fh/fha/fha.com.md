@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fha.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929114558id_/http%3A//www.fha.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fha.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520164820id_/http%3A//www.fha.com/privacy_policy) for the most accurate reproduction.*
 
 # FHA Loan Privacy Policy
 
