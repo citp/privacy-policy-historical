@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tv-online.cl privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121013703id_/http%3A//tv-online.cl/privacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tv-online.cl privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520182733id_/http%3A//tv-online.cl/privacy.txt) for the most accurate reproduction.*
 
 # 
 
