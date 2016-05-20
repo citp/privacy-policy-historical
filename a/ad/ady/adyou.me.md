@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the adyou.me privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315074633id_/https%3A//adyou.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adyou.me privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520050542id_/http%3A//adyou.me/privacy) for the most accurate reproduction.*
 
 # adYoume - Privacy Policy
 
 Last modified: July 20, 2014
 
-This Privacy Policy governs the manner in which AdYoume Inc. collects, uses, maintains and discloses information collected from users (each, a "User") of the adyou.me website ("Site"). This privacy policy applies to the Site and all products and services offered by AdYoume Inc.. 
+This Privacy Policy governs the manner in which AdYoume Inc. collects, uses, maintains and discloses information collected from users (each, a 'User') of the adyou.me website ('Site'). This privacy policy applies to the Site and all products and services offered by AdYoume Inc.. 
 
 Your privacy is essential to AdYoume, we believe that privacy is a top priority. We know that you care how information about you is used and shared. Thus, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. By visiting AdYoume, you agree to be bound by this Privacy Policy and hereby accept the procedures and practices stated in this herein. The following outlines our privacy policy. 
 
@@ -18,14 +18,14 @@ We may collect non-personal identification information about Users whenever they
 
 ### Web browser cookies
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. This website however does require the User to make sure their web browser does accept cookies in order to access the restricted pages of the website and the shortened link pages leading to destination URL. 
+Our Site may use 'cookies' to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. This website however does require the User to make sure their web browser does accept cookies in order to access the restricted pages of the website and the shortened link pages leading to destination URL. 
 
 ### How we use collected information
 
 AdYoume Inc. may collect and use Users personal information for the following purposes:
 
   * **To improve customer service** Information you provide helps us respond to your customer service requests and support needs more efficiently. 
-  * **To personalize user experience** We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site. 
+  * **To personalize user experience** We may use feedback you provide to improve our products and services. 
   * **To improve our Site** We may use feedback you provide to improve our products and services. 
   * **To process payments** We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service. Our payment partners include: First Data Global (Credit Cards), Payza.com, and Payoneer®. 
   * **To run a promotion, contest, survey or other Site feature** To send Users information they agreed to receive about topics we think will be of interest to them. 
@@ -84,4 +84,4 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 ### Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us through our [contact form](https://adyou.me/contact) or you may send an email to: [support@adyou.me](mailto:support@adyou.me)
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us through our [contact form](http://adyou.me/contact) or you may send an email to: [support@adyou.me](mailto:support@adyou.me)
