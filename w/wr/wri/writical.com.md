@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the writical.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205013254id_/http%3A//writical.com/sample-page-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writical.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521190725id_/http%3A//writical.com/sample-page-2) for the most accurate reproduction.*
 
 # Privacy Policy - Writical
 
