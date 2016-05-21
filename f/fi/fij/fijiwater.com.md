@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fijiwater.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607085913id_/http%3A//www.fijiwater.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fijiwater.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521133650id_/http%3A//www.fijiwater.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FIJI Water
 
@@ -10,7 +10,7 @@ Welcome to the FIJI Water website, www.fijiwater.com (the “Site”).  Your pr
 
 _Personally Identifiable Information_
 
-To fulfill your requests for information, enable you to participate in our offerings or to upload your resume on our Careers webpage, and provide you with opportunities to learn about other products and services in which we think you might be interested, we ask that you provide us with certain personally identifiable information.  The types of personally identifiable information that may be collected include: name, address, e-mail address, telephone number, fax number, date of birth, employment information and information related to your education, training, list of references, credit card information, and information about your interests in and use of various products, programs, and services.  By providing your personal information on the Site, you consent to allow us to use that information in accordance with this Privacy Policy.
+To fulfill your requests for information, enable you to participate in our offerings or to upload your resume on our [Careers webpage](http://fijiwater.com/careers/ "Careers Webpage"), and provide you with opportunities to learn about other products and services in which we think you might be interested, we ask that you provide us with certain personally identifiable information.  The types of personally identifiable information that may be collected include: name, address, e-mail address, telephone number, fax number, date of birth, employment information and information related to your education, training, list of references, credit card information, and information about your interests in and use of various products, programs, and services.  By providing your personal information on the Site, you consent to allow us to use that information in accordance with this Privacy Policy.
 
 In some instances, we may request that you submit information about other people.  For example, if you include references, you might submit the reference’s name and e-mail address.  The types of personally identifiable information that may be collected about other people include: recipient’s name, address, e-mail address, and telephone number.
 
