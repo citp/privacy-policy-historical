@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nilsenreport.ca privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927120353id_/http%3A//nilsenreport.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nilsenreport.ca privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521052613id_/http%3A//nilsenreport.ca/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Nilsen Report
+# Privacy Policy – Nilsen Report
 
 This Privacy Policy governs the manner in which Nilsen Report collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://nilsenreport.ca](http://nilsenreport.ca/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Nilsen Report.
 
@@ -60,6 +60,6 @@ If you have any questions about this Privacy Policy, the practices of this site,
 [http://nilsenreport.ca](http://nilsenreport.ca/)  
 Kanata, Ontario   
 613-314-8988  
-aaron@nlsenreport.ca
+aaron@nilsenreport.ca
 
 This document was last updated on June 10, 2014
