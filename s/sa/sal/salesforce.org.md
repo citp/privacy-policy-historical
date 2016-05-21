@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salesforce.org privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124151403id_/http%3A//www.salesforce.org/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salesforce.org privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521064750id_/http%3A//www.salesforce.org/privacy-statement) for the most accurate reproduction.*
 
 # Salesforce.org Privacy Statement - Salesforce.org
 
@@ -43,7 +43,8 @@ Salesforce.org uses cookies to make interactions with Salesforce.org’s Web sit
 
 Salesforce.org uses cookies that are session-based and persistent-based. Session cookies exist only during one session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you close your browser or turn off your computer. Please note that if you disable your Web browser’s ability to accept cookies, you will be able to navigate Salesforce.org’s Web site, but you will not be able to successfully use the Services.
 
-The following sets out how Salesforce.org uses different categories of cookies and your options for managing cookies’ settings:
+The following sets out how Salesforce.org uses different categories of cookies and your options for managing cookies’ settings:  
+
 
 Type of Cookies | Description | Managing Settings  
 ---|---|---  
@@ -52,17 +53,17 @@ Performance cookies | These cookies collect information about how Visitors use o
 
 From time-to-time, Salesforce.org engages third parties to track and analyze usage and volume statistical information from individuals who visit Salesforce.org’s Web site. Salesforce.org may also utilize Flash cookies for these purposes. 
 
-| To learn how to opt out of performance cookies using your browser settings click here. 
+| To learn how to opt out of performance cookies using your browser settings [click here](http://www.aboutcookies.org/). 
 
-To learn how to manage privacy and storage settings for Flash cookies click here.   
+To learn how to manage privacy and storage settings for Flash cookies [click here](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118).   
   
 Functionality cookies | Functionality cookies allow Salesforce.org’s Web site to remember information you have entered or choices you make (such as your username, language, or your region) and provide enhanced, more personal features. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customize. 
 
 Salesforce.org uses local shared objects, also known as Flash cookies, to store your preferences or display content based upon what you view on our Web sites to personalize your visit. 
 
-| To learn how to opt out of functionality cookies using your browser settings click here. Note that opting out may impact the functionality you receive when visiting Salesforce.org. 
+| To learn how to opt out of functionality cookies using your browser settings [click here](http://www.aboutcookies.org/). Note that opting out may impact the functionality you receive when visiting Salesforce.org. 
 
-To learn how to manage privacy and storage settings for Flash cookies click here.   
+To learn how to manage privacy and storage settings for Flash cookies [click here](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118).   
   
 Targeting or Advertising cookies | From time-to-time, Salesforce.org engages third parties to track and analyze usage and volume statistical information from individuals who visit Salesforce.org’s Web site. Salesforce.org sometimes uses cookies delivered by third parties to track the performance of Company advertisements. For example, these cookies remember which browsers have visited Salesforce.org’s Web site. The information provided to third parties does not include personal information, but this information may be re-associated with personal information after Salesforce.org receives it. 
 
@@ -70,9 +71,9 @@ Salesforce.org also contracts with third-party advertising networks that collect
 
 Third parties, with whom Salesforce.org partners to provide certain features on our Web sites or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored.
 
-| To learn more about these and other advertising networks and their opt out instructions, click here and here. 
+| To learn more about these and other advertising networks and their opt out instructions, click [here](http://www.networkadvertising.org/choices/) and [here](https://www.aboutads.info/choices/). 
 
-To learn how to manage privacy and storage settings for Flash cookies click here.   
+To learn how to manage privacy and storage settings for Flash cookies [click here](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118).   
   
 **Web Beacons**  
 Salesforce.org uses Web beacons alone or in conjunction with cookies to compile information about Customers and Visitors’ usage of Salesforce.org’s Web site and interaction with emails from Salesforce.org. Web beacons are clear electronic images that can recognize certain types of information on your computer, such as cookies, when you viewed a particular Web site tied to the Web beacon, and a description of a Web site tied to the Web beacon. For example, Salesforce.org may place Web beacons in marketing emails that notify Salesforce.org when you click on a link in the email that directs you to one of Salesforce.org’s Web site. Salesforce.org uses Web beacons to operate and improve Salesforce.org’s Web site and email communications.
@@ -152,5 +153,5 @@ Salesforce.org reserves the right to change this Privacy Statement. Salesforce.o
 
 ### 13\. Contacting us
 
-Questions regarding this Privacy Statement or the information practices of Salesforce.org’s Web site should be directed to Salesforce.org Legal team by emailing SFDOLegal@salesforce.org or by mailing Salesforce.org  
+Questions regarding this Privacy Statement or the information practices of Salesforce.org’s Web site should be directed to Salesforce.org Legal team by emailing SFDOLegal@salesforce.com or by mailing Salesforce.org  
 General Counsel, 50 Fremont Street, Suite 300, San Francisco, CA 94105.
