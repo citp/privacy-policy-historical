@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rsc.org privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926200141id_/http%3A//www.rsc.org/help-legal/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsc.org privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521062418id_/http%3A//www.rsc.org/help-legal/legal/privacy) for the most accurate reproduction.*
 
 # Privacy & cookies
 
 Last updated on 11 December 2014
 
-  * Any reference to ‘We’, ‘Us’ and ‘Our’ is to the [Royal Society of Chemistry as an organisation](https://web.archive.org/help-legal/legal/legal-identity/).
+  * Any reference to ‘We’, ‘Us’ and ‘Our’ is to [The Royal Society of Chemistry as an organisation](https://web.archive.org/help-legal/legal/legal-identity/)
   * Any reference to ‘Our websites’ is to websites available within rsc.org and www.chemspider.com
   * Any reference to ‘You’ and ‘Your’ is to you as an individual user of our websites
 
@@ -25,7 +25,7 @@ We collect information in the following ways:
 
 ## How do we use your information?
 
-We use your personal data (e.g. name, address, email address, country of residence) to administer our activities, products, and services and to send information about them to you.
+We use your personal data (eg name, address, email address, country of residence) to administer our activities, products, and services and to send information about them to you.
 
 We may also communicate with you, on behalf of other organisations, should you opt in to receiving third party communications.
 
