@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securescanpro.com privacy policy that was archived on 2015-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150818065529id_/http%3A//www.securescanpro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securescanpro.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521173040id_/http%3A//www.securescanpro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SecureScanPRO - Fast and easy security for Wordpress
 
