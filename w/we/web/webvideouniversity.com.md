@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webvideouniversity.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103005709id_/http%3A//webvideouniversity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webvideouniversity.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521040138id_/http%3A//webvideouniversity.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Web Video University - Learn How To Make Videos That Make You Money
+# Privacy Policy – Web Video University – Learn How To Make Videos That Make You Money
 
 ### Our Privacy Policy
 
@@ -84,7 +84,7 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change.
 
-This policy was last modified on January 25, 2015
+This policy was last modified on January 25, 2016
 
 ### Privacy Policy Customer Pledge
 
