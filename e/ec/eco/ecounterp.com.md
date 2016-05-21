@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecounterp.com privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027073647id_/http%3A//www.ecounterp.com/product/product-privacy-policy.aspx%3Fp%3DB3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecounterp.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521041134id_/http%3A//www.ecounterp.com/product/product-privacy-policy.aspx%3Fp%3DB3) for the most accurate reproduction.*
 
 # Ecount ERP - Privacy Policy
 
