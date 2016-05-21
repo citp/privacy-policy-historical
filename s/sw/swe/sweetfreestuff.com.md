@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sweetfreestuff.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120000530id_/http%3A//www.sweetfreestuff.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetfreestuff.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521032202id_/http%3A//www.sweetfreestuff.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SweetFreeStuff.com
+# Privacy Policy – SweetFreeStuff.com
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at <http://www.sweetfreestuff.com/contact/>.
 
