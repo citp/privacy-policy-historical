@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the viralscape.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222100325id_/http%3A//viralscape.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralscape.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521025449id_/http%3A//viralscape.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy | Viralscape
 
 This privacy policy sets out how Viralscape uses and protects any information that you give us when you use this website.
 
