@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rwgusa.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113000513id_/http%3A//www.rwgusa.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rwgusa.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521093419id_/http%3A//www.rwgusa.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for Domain Registration and Internet Marketing
 
