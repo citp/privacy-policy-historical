@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moibibiki.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507024347id_/http%3A//www.moibibiki.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moibibiki.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521041900id_/http%3A//www.moibbk.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy. MoiBibiki
 
@@ -24,4 +24,4 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 * * *
 
-[Terms of Service](http://www.moibibiki.com/terms.html)
+[Terms of Service](http://www.moibbk.com/terms.html)
