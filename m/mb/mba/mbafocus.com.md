@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbafocus.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906203607id_/http%3A//mbafocus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbafocus.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521071300id_/https%3A//www.mbafocus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MBA Focus
 
