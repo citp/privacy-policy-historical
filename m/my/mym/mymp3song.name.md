@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymp3song.name privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106224237id_/http%3A//mymp3song.name/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymp3song.name privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521215500id_/http%3A//mymp3song.name/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy - MyMp3Song.Name
 
