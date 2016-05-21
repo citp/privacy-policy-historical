@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forward2me.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524154916id_/https%3A//www.forward2me.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forward2me.com privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522000348id_/https%3A//www.forward2me.com/privacy-policy) for the most accurate reproduction.*
 
 # forward2me - Privacy Policy - UK Mailing Address, Mail Forwarding Service, International Package & Parcel Forwarding
 
@@ -40,9 +40,9 @@
 
 5.3 All information you provide to us is stored on secure servers. Any payment transactions will be encrypted using secure sockets layer (SSL) technology. Where we have given you (or where you have chosen) a password which enables you to access certain features or parts of the Site, you are responsible for keeping this password confidential. You must not share the password with anyone.
 
-5.4 When you proceed to the Checkout, before you are prompted to complete your billing and delivery address, your browser will go into secure mode. Data relating to your order and your personal details will all pass to our server in an encrypted format. As soon as you have finished ordering you will exit secure mode. As an additional protection for you, our system is designed so that you cannot place an order until you are safely within secure mode.
+5.4 When you proceed to the Checkout data relating to your order and your personal details will all pass to our server in an encrypted format. As an additional protection for you, our system is designed so that when using our website you are always safely within secure mode (https).
 
-5.5 All payment transactions will be processed on our behalf by PayPal. This means that your credit/debit card details are provided directly to PayPal and are never revealed to us. We do not store any of your financial details such as credit card numbers. PayPal operates a secure server to process your payment details. PayPal encrypts your credit/debit card information and authorises payment.
+5.5 All payment transactions will be processed on our behalf by one of our payment providers such as PayPal. This means that your credit/debit card details are provided directly to your choice of payment provider and are never revealed to us. We do not store any of your financial details such as credit card numbers. Our payment providers operate a secure server to process your payment details. The payment provider encrypts your credit/debit card information and authorises payment.
 
 5.6 We recommend that you do not communicate your payment card details to anyone, including us, by email. We cannot be responsible for any losses you may incur in transmitting information to us by internet link or by email. Any such loss shall be entirely your responsibility.
 
@@ -97,4 +97,4 @@
 
 **12 Updates**
 
-12.1 We reserve the right to change this privacy policy from time to time by changing it on the Site. This privacy policy was last updated on 4th November 2010.
+12.1 We reserve the right to change this privacy policy from time to time by changing it on the Site. This privacy policy was last updated on 23rd November 2015.
