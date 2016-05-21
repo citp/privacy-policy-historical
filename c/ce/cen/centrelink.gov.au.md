@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the centrelink.gov.au privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210081246id_/http%3A//www.humanservices.gov.au/customer/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centrelink.gov.au privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521041430id_/https%3A//www.humanservices.gov.au/customer/privacy) for the most accurate reproduction.*
 
-# Your right to privacy
+# Your right to privacy - Australian Government Department of Human Services
 
-You have a right to have your personal information kept private.
+You have a right to have your personal information kept private. The department is bound by strict confidentiality and secrecy provisions in social security, families, health, child support and disability services law.
 
 ## About privacy
 
@@ -12,7 +12,7 @@ We are bound by strict confidentiality and secrecy provisions in social security
 
 The Privacy Act contains 13 Australian Privacy Principles which regulate the way we collect, store, provide access to, use and disclose personal information. The new Principles came into effect on 12 March 2014, and apply to public and private sector entities.
 
-Read more about our [Privacy Policy](https://web.archive.org/corporate/publications-and-resources/privacypolicy)[1] and how we apply the Principles.
+Read more about our [Privacy Policy](https://web.archive.org/corporate/publications-and-resources/privacypolicy) and how we apply the Principles.
 
 The Privacy Act provides you with rights, including:
 
@@ -21,7 +21,7 @@ The Privacy Act provides you with rights, including:
   * your personal information can only be collected for a lawful purpose
   * finding out what information we hold about you and have it corrected if it is incorrect, out of date or incomplete, the _Freedom of Information Act 1982_ also supports this
   * providing that your personal information must be stored securely and protected from interference or misuse
-  * finding out how your personal information will be used by reading our [Privacy Policy](https://web.archive.org/corporate/publications-and-resources/privacypolicy)[1]
+  * finding out how your personal information will be used by reading our [Privacy Policy](https://web.archive.org/corporate/publications-and-resources/privacypolicy)
 
 
 
@@ -47,7 +47,7 @@ In addition to requesting information from you, we may also obtain information a
 
 Any personal information we receive from a third party is treated the same as if you provided it.
 
-The collection of your personal information is detailed in our [Privacy Policy](https://web.archive.org/corporate/publications-and-resources/privacypolicy)[1].
+The collection of your personal information is detailed in our [Privacy Policy](https://web.archive.org/corporate/publications-and-resources/privacypolicy).
 
 ### Use of information
 
@@ -71,40 +71,27 @@ Your personal information will not be disclosed to any other person, body or age
 
 
 
-From time to time it may be necessary to disclose your personal information to third parties. The circumstances surrounding why, who and when your information may be disclosed are outlined in our [Privacy Policy](https://web.archive.org/corporate/publications-and-resources/privacypolicy)[1].
+From time to time it may be necessary to disclose your personal information to third parties. The circumstances surrounding why, who and when your information may be disclosed are outlined in our [Privacy Policy](https://web.archive.org/corporate/publications-and-resources/privacypolicy).
 
 ## Privacy notice for our applications
 
 The privacy notices outline how we will manage your personal information in connection with the:
 
-  * [Express Plus Medicare mobile app](https://web.archive.org/customer/information/privacy-notice-for-express-plus-medicare-mobile-app)[2]
-  * [Express Plus Jobseekers, Students, Families and Seniors mobile apps](https://web.archive.org/customer/information/privacy-notice-for-express-plus-mobile-apps)[3]
-  * [Centrelink online accounts - Privacy and security](https://web.archive.org/customer/services/centrelink/centrelink-online-accounts#a5)[4]
-  * [Medicare online account](https://www2.medicareaustralia.gov.au/pext/coin/termsAndConditions.do)[5]
-  * [Child Support online accounts terms and conditions - Your privacy](https://web.archive.org/customer/enablers/child-support/child-support-online-accounts/child-support-online-accounts-terms-and-conditions#a12)[6]
-  * [Healthcare Identifiers Service](https://web.archive.org/customer/services/medicare/healthcare-identifiers-service)[7]
+  * [Express Plus Medicare mobile app](https://web.archive.org/customer/information/privacy-notice-for-express-plus-medicare-mobile-app)
+  * [Express Plus Jobseekers, Students, Families and Seniors mobile apps](https://web.archive.org/customer/enablers/privacy-notice-express-plus-jobseekers-students-families-and-seniors-mobile-apps)
+  * [Centrelink online accounts - Privacy and security](https://web.archive.org/customer/services/centrelink/centrelink-online-accounts#a5)
+  * [Medicare online account](https://www2.medicareaustralia.gov.au/pext/coin/termsAndConditions.do)
+  * [Child Support online accounts terms and conditions - Your privacy](https://web.archive.org/customer/enablers/child-support/child-support-online-accounts/child-support-online-accounts-terms-and-conditions#a12)
+  * [Healthcare Identifiers Service](https://web.archive.org/customer/services/medicare/healthcare-identifiers-service)
 
 
 
 ## If you have privacy concerns
 
-If you are concerned about how we have collected or managed your personal information, you can read our [Privacy Policy](https://web.archive.org/corporate/publications-and-resources/privacypolicy)[1] to familiarise yourself with our approach to privacy. You can also call Customer Relations on **1800 132 468** or the TTY phone on **1800  000 567**.
+If you are concerned about how we have collected or managed your personal information, you can read our [Privacy Policy](https://web.archive.org/corporate/publications-and-resources/privacypolicy) to familiarise yourself with our approach to privacy. You can also call Customer Relations on **1800 132 468** or the TTY phone on **1800  000 567**.
 
-Read more about general privacy, on the [Office of the Australian Information Commissioner’s (OAIC)](http://www.oaic.gov.au/)[8] website.
+Read more about general privacy, on the [Office of the Australian Information Commissioner’s (OAIC)](http://www.oaic.gov.au/) website.
 
 If you are not satisfied with how we have handled your privacy concerns you can also contact the OAIC directly. The OAIC is independent to us and has the power to investigate complaints about possible interferences with your privacy. It is usually best to contact us first. While it is possible for the first contact to be with the OAIC, they will generally ask us to conduct our own inquiry first and pass any findings on to the OAIC.
 
-## Link references
-
-  1. https:/ / web.archive.org/ corporate/ publications-and-resources/ privacypolicy
-  2. https:/ / web.archive.org/ customer/ information/ privacy-notice-for-express-plus-medicare-mobile-app
-  3. https:/ / web.archive.org/ customer/ information/ privacy-notice-for-express-plus-mobile-apps
-  4. https:/ / web.archive.org/ customer/ services/ centrelink/ centrelink-online-accounts#a5
-  5. https:/ / www2.medicareaustralia.gov.au/ pext/ coin/ termsAndConditions.do
-  6. https:/ / web.archive.org/ customer/ enablers/ child-support/ child-support-online-accounts/ child-support-online-accounts-terms-and-conditions#a12
-  7. https:/ / web.archive.org/ customer/ services/ medicare/ healthcare-identifiers-service
-  8. http:/ / www.oaic.gov.au/
-
-
-
-This information was printed It may not include all of the relevant information on this topic. Please consider any relevant site notices at humanservices.gov.au/siteinformation when using this material.
+Page last updated: 5 February 2016
