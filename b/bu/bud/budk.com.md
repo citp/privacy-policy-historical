@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budk.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115104143id_/http%3A//www.budk.com/Info.aspx%3Fid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budk.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521232853id_/http%3A//www.budk.com/Info.aspx%3Fid%3D1) for the most accurate reproduction.*
 
 # Privacy
 
