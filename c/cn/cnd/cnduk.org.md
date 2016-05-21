@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnduk.org privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003215536id_/http%3A//www.cnduk.org/component/k2/item/111) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnduk.org privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521135136id_/http%3A//www.cnduk.org/component/k2/item/111) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,7 +25,7 @@ We collect information about you when you become a supporter, place an order for
 
 We collect information about you to manage our relationship with you, process any orders and, if you agree, to email you campaigning information we think may be of interest to you.
 
-Occasionally your Regional or Local CND group may request contact details of CND members in their area to publicise specific CND events and information. All CND groups follow data protection guidelines. If you would prefer to be excluded from these local mailings, please contact us so we can ensure your details are not shared.
+CND shares data with Scottish CND and national, regional and local CND groups, but only in order to fulfil the aims of CND.  This enables groups to publicise CND events and information.  All CND groups follow data protection guidelines. If you would prefer to be excluded from these local mailings, please contact us so we can ensure your details are not shared.
 
 We may use your information collected from the website to personalise your repeat visits to our website.
 
@@ -57,7 +57,7 @@ Our primary web server is located in the UK, however certain processes may mean 
 
 ### Changes to our privacy policy
 
-We keep our privacy policy under regular review and will place any updates on this webpage [www.cnduk.org/privacy]. This privacy policy was last updated on 4 July 2011.
+We keep our privacy policy under regular review and will place any updates on this webpage [www.cnduk.org/privacy]. This privacy policy was reviewd and updated July 2015.
 
 ### How to contact us
 
