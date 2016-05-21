@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 3scale.net privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905073044id_/http%3A//www.3scale.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3scale.net privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521143058id_/https%3A//www.3scale.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - 3scale API Management Platform
+# 3scale API Management Platform
 
 In order for 3scale’s web site to properly fulfill its obligation to our customers, it is necessary for us to supplement the information we receive with information from 3rd party sources. This information is not shared with any additional outside parties.
 
@@ -10,6 +10,6 @@ You agree that 3scale at its sole discretion, has the right (but not the obligat
 
 You further acknowledge that 3scale may, in its sole discretion, preserve or disclose your Content, as well as your information, such as e-mail addresses, IP addresses, timestamps, and other user information, if required to do so by law or in the good faith belief that such preservation or disclosure is reasonably necessary to comply with the legal process, enforce these Terms, respond to claims that any Content violates the right of third-parties; or to protect the rights, property, or personal safety of 3scale, its users or the general public.
 
-3scale reserves the right to use the [Web Services](http://www.3scale.net/) description to configure examples in its press releases, marketing channels and any other publicity materials as well as the right to link to your site.
+3scale reserves the right to use the [Web Services](https://www.3scale.net/) description to configure examples in its press releases, marketing channels and any other publicity materials as well as the right to link to your site.
 
 You understand that the technical processing and transmission of the Service, including your Information, may involve (a) transmissions over various networks; and (b) changes to conform and adapt to technical requirements of connecting networks or devices.
