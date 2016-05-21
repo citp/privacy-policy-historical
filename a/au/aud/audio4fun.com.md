@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the audio4fun.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103084014id_/http%3A//www.audio4fun.com/policy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audio4fun.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521063430id_/http%3A//www.audio4fun.com/policy/privacy.htm) for the most accurate reproduction.*
 
 # Audio4fun.com privacy policy
 
-Last updated: 06 May 2013
+Last updated: 18 Feb 2016
 
 #### Everyone's and anyone's privacy must be respected!
 
-At the _**[ Audio4fun.com store](http://www.audio4fun.com/policy/legal.htm "All websites/ channels/ stores that sell software products from AVnex")**_, we are committed to protecting your privacy. When you visit our website, our server automatically recognizes your Internet Protocol address (IP address) or domain name. Unless you provide, we do not collect your name or e-mail address. We do not follow your browsing path outside **Audio4fun.com**.
+At the _**[ Audio4fun.com store](https://www.audio4fun.com/policy/legal.htm "All websites/ channels/ stores that sell software products from AVnex")**_, we are committed to protecting your privacy. When you visit our website, we may automatically collect your Internet Protocol address (IP address) or cookies to enable us to provide better services that will be more suitable to you. Unless you provide, we do not collect your name or e-mail address. We do not follow your browsing path outside **Audio4fun.com**.
 
 However, when you purchase a product, we ask you to provide personal information for our bank to process your order.
 
@@ -30,7 +30,7 @@ This could be in the form of an advertisement on a Google search result page, or
 
 #### How to opt out of Google's use of cookies:
 
-If you do not wish to participate in our Google AdWords Remarketing, you can opt out of Google's use of cookies by visiting Google's [Ads Settings](http://www.google.com/settings/ads "Ads Settings"), or by visiting the [Network Advertising Initiative op-out page](http://www.networkadvertising.org/choices/ "Network Advertising Initiative op-out page") to opt out of a third-party vendor's use of cookies.
+If you do not wish to participate in our Google AdWords Remarketing, you can opt out of Google's use of cookies by visiting Google's [Ads Settings](https://www.google.com/settings/ads "Ads Settings"), or by visiting the [Network Advertising Initiative op-out page](https://www.networkadvertising.org/choices/ "Network Advertising Initiative op-out page") to opt out of a third-party vendor's use of cookies.
 
 #### Will Audio4fun.com disclose the information it collects to outside parties?
 
@@ -48,4 +48,4 @@ Software piracy is theft. Using and distributing **AV Voice Changer Software** c
 
 Under no circumstances shall AVSoft Corp. be liable for any indirect, incidental or consequential damages or any liability in tort, contract, or other legal theory for computer failure or malfunction, business interruption, loss of profits, loss of goodwill, or any other damages or losses arising out of your use or inability to use the software.
 
-Should you have any question concerning this Policy, please [contact us via this form](http://www.audio4fun.com/contact.htm).
+Should you have any question concerning this Policy, please [contact us via this form](https://www.audio4fun.com/contact.htm).
