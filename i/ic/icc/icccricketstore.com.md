@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the icccricketstore.com privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015010128id_/http%3A//www.icccricketstore.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icccricketstore.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521024717id_/http%3A//www.icccricketstore.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# ICC Cricket World Cup 2015 Official Online Store - Privacy Policy
+# Privacy Policy
 
 ### Table of Contents:
 
@@ -13,15 +13,14 @@
   7. Our sharing of your personal information overseas
   8. Updates
   9. Other privacy terms and limits of this policy
-  10. More information
-  11. Cookies Statement
-  12. Credit Card Security
+  10. Cookies Statement
+  11. Credit Card Security
 
 
 
 ### 1\. Respecting your privacy
 
-The ICC Cricket World Cup 2015 Official Online Store is operated by Infinite Retail Pty Ltd (Australian Business Number 19 158 215 984) ( _We_ ) on behalf of ICC CWC 2015. We are committed to protecting your privacy, and to compliance with applicable privacy laws which set out standards for the management of personal information. This policy outlines our personal information management practices. Specifically:
+The ICC Official Online Shop is operated by Gaames Unlimited under license from Velocity Brand Management. We are committed to protecting your privacy, and to compliance with applicable privacy laws which set out standards for the management of personal information. This policy outlines our personal information management practices. Specifically:
 
   * the kinds of personal information we collect and hold;
   * how we collect and hold it;
@@ -36,7 +35,7 @@ There are some matters to which this policy does not apply. These are referred t
 
 ### 2\. What kinds of personal information do we collect and hold?
 
-We collect and hold personal information that is reasonably necessary for the operation of the ICC Cricket World Cup 2015 Official Online Store, which may include:
+We collect and hold personal information that is reasonably necessary for the operation of the ICC Official Online Shop, which may include:
 
   * your personal details such as your name, email and/or physical addresses, telephone numbers, employer, date of birth, age and gender;
   * financial information (such as your credit card details);
@@ -85,9 +84,9 @@ When we collect, hold, use and disclose your personal information, we do so prim
 
 
 
-We disclose personal information we collect for purposes which are incidental to the sale and promotion of our products and services to you. For example, we may disclose your personal information within our group, to service providers who assist us in our day-to-day business operations and as part of buying or selling businesses. We may also disclose your personal information to the ICC CWC 2015.
+We disclose personal information we collect for purposes which are incidental to the sale and promotion of our products and services to you. For example, we may disclose your personal information within our group, to service providers who assist us in our day-to-day business operations and as part of buying or selling businesses.
 
-We may collect, hold, use and disclose your personal information for other purposes which are within reasonable expectations or where permitted by law. When marketing to you, your personal information is only ever used or disclosed for our own purposes or those of our group companies, or the purposes of ICC CWC 2015 or the carefully selected commercial partners of us or ICC CWC 2015. You may opt out of our direct marketing to you at any time. Our direct marketing materials will tell you how to do this.
+We may collect, hold, use and disclose your personal information for other purposes which are within reasonable expectations or where permitted by law. When marketing to you, your personal information is only ever used or disclosed for our own purposes or those of our group companies. You may opt out of our direct marketing to you at any time. Our direct marketing materials will tell you how to do this.
 
 We may de-identify your personal information. We may do this for use and disclosure of the anonymous data to determine preferences and shopping patterns.
 
@@ -95,14 +94,14 @@ We may de-identify your personal information. We may do this for use and disclos
 
 _Enquiry and access:_
 
-We will provide you with access to any of your personal information we hold (except in limited circumstances recognised by law). If you wish to access your personal information or have an enquiry about privacy, please contact our Privacy Officer at: [privacy@infiniteretail.com](mailto:privacy@infiniteretail.com) or by calling us on dedicated phone number 1300 304 334.
+We will provide you with access to any of your personal information we hold (except in limited circumstances recognised by law). If you wish to access your personal information or have an enquiry about privacy, please contact our Privacy Officer at: [privacy@vbmglobal.com](mailto:privacy@vbmglobal.com) or by calling us on +918065690377.
 
 Alternatively, you can write to us at:
 
 Privacy Officer   
-Infinite Retail Pty Ltd   
-PO Box 6217   
-North Sydney NSW 2060
+Gaames Unlimited   
+#201, 10th 'D' Main, 1st Block, Jayanagar   
+Bengaluru 560011
 
 Before we provide you with access to your personal information we may require some proof of identity. We may charge a reasonable fee for giving access to your personal information if your request requires substantial effort on our part.
 
@@ -114,16 +113,15 @@ If you need to correct your personal information, please contact our Privacy Off
 
 If you wish to complain about a breach of the privacy rules that bind us, you may contact our Privacy Officer at one of the above contact points. We may ask you to put your complaint in writing and to provide details about it. We may discuss your complaint with our personnel and our service providers and others as appropriate.
 
-Our Privacy Officer will investigate the matter and attempt to resolve it in a timely way. Our Privacy Officer will inform you in writing about the outcome of the investigation. If our Privacy Officer does not resolve your complaint to your satisfaction and no other complaint resolution procedures are agreed or required by law, our Privacy Officer will inform you that your complaint may be referred to the Privacy Commissioner for further investigation (contact details in clause 10 below).
+Our Privacy Officer will investigate the matter and attempt to resolve it in a timely way. Our Privacy Officer will inform you in writing about the outcome of the investigation. 
 
 ### 7\. Our sharing of your personal information overseas
 
 It is our policy to require all of our overseas sharing of personal information to be done in a way which requires observance of strict privacy and security standards, both during transit and at the overseas destination. We may allow your personal information to be shared with those who are in countries other than your own location. We do this:
 
   * where we have made a business decision to host our websites or store our data with trusted service providers who are in the business of providing website hosting, data storage and/or data processing services. These services commonly involve diverse geographic locations which change from time to time for reasons which include data protection and processing efficiency. Where these services are used by us, it is not practical for us to notify you of which country your personal information may be located in; and
-  * for disclosures between our group companies. Our main business location is in Australia, but some of our group companies may be based in other countries from time to time;
+  * for disclosures between our group companies. Our main business location is in India and Velocity Brand Management's is Australia, but some of our respective group companies may be based in other countries from time to time;
   * when our business which collected your personal information is in a different country to your location;
-  * when ICC CWC 2015, or where relevant the commercial partners of us or ICC CWC 2015, are located in a different country to your location;
   * when our supply to you necessarily involves overseas disclosures. For example where we need to provide certain of your personal information to one or more of our overseas product suppliers in order to fulfil your order;
   * where you are involved with public liability issues concerning a product we may disclose your personal information to any overseas supplier of such a product in the course of managing those issues.
 
@@ -131,15 +129,11 @@ It is our policy to require all of our overseas sharing of personal information 
 
 ### 8\. Updates
 
-This privacy policy is current as of the date below. We may change it from time to time. If we do change it we will publish the updated version on ICC Cricket World Cup 2015 Official Online Store from which point the updated version will apply.
+This privacy policy is current as of the date below. We may change it from time to time. If we do change it we will publish the updated version on ICC Official Online Shop from which point the updated version will apply.
 
 ### 9\. Other privacy terms and limits of this policy
 
-This is a policy. There may be additional privacy notices and terms relevant to you depending on the nature of your dealings with us and on our particular businesses. For example we may have different or additional privacy terms governing our loyalty programs, or on our corporate website [www.vbmglobal.com](http://www.vbmglobal.com/), and we have separate charters concerning the personal information of our employees. There are also separate terms governing the use of our sites and the purchase of products from our sites.
-
-### 10\. More information
-
-More information about privacy law and privacy principles is available from the [Privacy Commissioner](http://www.oaic.gov.au/privacy/privacy-news). The Privacy Commissioner may be contacted at [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au), or on 1300 363 992, or at GPO Box 5218 Sydney NSW 2001.
+This is a policy. There may be additional privacy notices and terms relevant to you depending on the nature of your dealings with us and on our particular businesses. For example we may have different or additional privacy terms governing our loyalty programs, or on our corporate website [www.gaamesunlimited.com](http://www.gaamesunlimited.com/), and we have separate charters concerning the personal information of our employees. There are also separate terms governing the use of our sites and the purchase of products from our sites.
 
 ### Cookies Statement:
 
@@ -171,12 +165,9 @@ _What are your choices about cookies?_
 
 You can control the extent to which your device allows cookies to be set on it. You can do this by changing the settings on the software your device uses to access the internet (your browser software). For example, depending on which browser your device uses, you may be able to disable third party cookies.
 
-There is a lot of information available about how cookies work and how to change your browser’s cookie preferences. This includes information at the following links:
+There is a lot of information available about how cookies work and how to change your browser’s cookie preferences. This includes information at the following link:
 
   * [What Are Cookies;](http://www.whatarecookies.com/)
-  * [Stay Smart Online](http://www.staysmartonline.gov.au/alert_service/alerts/all_about_cookies_and_your_privacy_sso_alert_priority_low#.U_WAQtd-_IU) – All About Cookies and Your Privacy;
-  * [Your Online Choices](http://www.youronlinechoices.com.au/);
-  * [Privacy Commissioner Fact Sheet on Online Behavioural Advertising](http://www.oaic.gov.au/privacy/privacy-resources/privacy-fact-sheets/other/privacy-fact-sheet-4-online-behavioural-advertising-know-your-options).
 
 
 
@@ -184,12 +175,6 @@ There is a lot of information available about how cookies work and how to change
 
 We take the utmost precautions to protect your credit card details.
 
-When your credit card details are submitted via the website, that information is encrypted and transmitted to the payment processors (typically PayPal, Payflow and/or banks) by industry standard 128bit Secure Socket Layer (SSL) technology equivalent to that used by Banks for online banking transactions. This ensures that if anyone else on the Internet is somehow able to intercept the communication he/she will only be able to see it in an encrypted (garbled) form. SSL Certificate technology allows our payment processors to decrypt the information, and view it in plain text form for processing.
+When your credit card details are submitted via the website, that information is encrypted and transmitted to the payment processors (typically PayPal, PayU, Payflow and/or banks) by industry standard 128bit Secure Socket Layer (SSL) technology equivalent to that used by Banks for online banking transactions. This ensures that if anyone else on the Internet is somehow able to intercept the communication he/she will only be able to see it in an encrypted (garbled) form. SSL Certificate technology allows our payment processors to decrypt the information, and view it in plain text form for processing.
 
-This encryption technology is provided by our service provider, Cybersource. Your credit card information is stored by Cybersource and the payment processors in a secure environment subject to strict protocols. We ourselves do not store, and are not able to decrypt, your credit card information, although if necessary (eg. in relation to an order enquiry) we are able to request access to that information from Cybersource.
-
-We and our service providers adopt systems and procedures designed to detect the fraudulent use of credit cards. It is possible that we or our service providers may contact you requiring additional verification of your credit card details as part of these systems and procedures. If, however, you have any doubt as to the legitimacy of any such contact or request, or indeed any other questions regarding our handling of your credit card information, please do not hesitate to contact us at [privacy@infiniteretail.com](mailto:privacy@infiniteretail.com) or 1300 304 334 before actioning any such request.
-
-For further information regarding our handling of your credit card information, see <http://www.cybersource.com/en-APAC/>
-
-Policy last updated: 28 August 2014
+We and our service providers adopt systems and procedures designed to detect the fraudulent use of credit cards. It is possible that we or our service providers may contact you requiring additional verification of your credit card details as part of these systems and procedures. If, however, you have any doubt as to the legitimacy of any such contact or request, or indeed any other questions regarding our handling of your credit card information, please do not hesitate to contact us at [privacy@vbmglobal.com](mailto:privacy@vbmglobal.com) or +918065690377 before actioning any such request.
