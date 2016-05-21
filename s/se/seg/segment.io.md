@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the segment.io privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009062526id_/https%3A//segment.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the segment.io privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522013430id_/https%3A//segment.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Segment
 
@@ -12,7 +12,7 @@ Segment commits to strong, secure and transparent privacy practices. Our Privacy
 
 We have kept this simple for your understanding, but if you’re not familiar with terms like “cookies”, “IP addresses” or “API”, then feel free to [email us](mailto:legal@segment.com)! Your privacy is really important to us, so whether you’re new to Segment or a long-time user, please take the time to get to know our practices.
 
-Effective as of July 16, 2015
+Effective as of January 16, 2016
 
 Segment.io, Inc. (“Segment”, “we”, “us”, “our”) provides this “Privacy Policy” to inform our users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information that we receive when they visit and use the [www.segment.com](http://segment.com/) site and any websites owned by Segment (collectively, the “Sites”), and when they use any of Segment’s services. For ease of reading in this Privacy Policy, the Sites and our services are collectively referred to as the “Service(s).” This Privacy Policy applies only to information that you provide to us when you use the Sites or Service.
 
@@ -35,6 +35,8 @@ We appreciate that the language above is a pretty high level description – so 
 ## Website Visitors __
 
 Like many websites, we collect certain information through the use of “cookies,” which are small text files that are saved by your browser when you access our Site. We may use both session cookies and persistent cookies to identify that you’ve logged in to the Site and to tell us how and when you interact with our Site. We may also use cookies to monitor aggregate usage and web traffic routing on our Site and to customize and improve our Service. We may link this information to your user account. Unlike persistent cookies, session cookies are deleted when you log off from the Site and close your browser. Although most browsers automatically accept cookies, you can change your browser options to stop automatically accepting cookies or to prompt you before accepting cookies. Please note, however, that if you don’t accept cookies, you may not be able to access all portions or features of the Service. We may also use cookies in connection with third party services to run analytics on our Site; such cookies may collect PII about users.
+
+Segment does not respond to “Do Not Track” browser signals or other similar mechanisms. Third parties may collect personal information about your online activities over time and across sites when you visit the Sites or use the Service.
 
 We may employ and/or our third party tracking utility company may employ software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our Site by informing us what content is effective. These gifs (or other tracking technology) may be included in or associated with e-mails or other communications that you receive from us (or our partners) in order to help us track your response and interests and to deliver you relevant content and services. We may tie information gathered by clear gifs or other tracking technology to PII.
 
@@ -103,21 +105,6 @@ The Service may contain links to other websites and services. The fact that we l
 ## Voluntary Public Disclosure of Personal Information __
 
 We may make available on our Site, or link to, certain opportunities for our members and other users to share information online (e.g., on message boards, in chat areas, in file uploads, through events, etc.). Please be aware that whenever you voluntarily disclose personal information online, that information becomes public and can be collected and used by others. We have no control over, and take no responsibility for, the use, storage or dissemination of such publicly-disclosed personal information. By posting personal information online in public forums, you may receive unsolicited messages from other parties.
-
-## Safe Harbor Compliance Statement __
-
-Segment complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Segment has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>
-
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, Segment commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Segment.
-
-Please feel free to [email us](mailto:legal@segment.com). Or contact us by mail:
-
-Segment.io, Inc.  
-101 15th St  
-San Francisco, CA 94103 USA  
-Attention: Privacy Officer
-
-Segment has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Segment, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 ## Questions? __
 
