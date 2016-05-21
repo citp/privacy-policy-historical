@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mixing.dj privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410092949id_/http%3A//mixing.dj/2011/livesets/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixing.dj privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521041916id_/http%3A//mixing.dj/2011/livesets/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy for mixing.dj
+**Privacy Policy**
 
 **Cookies & 3rd Party Advertisements**
 
@@ -35,5 +35,3 @@ mixing.dj has no access to or control over these cookies that are used by third-
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. mixing.dj’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
-
-comments:
