@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alertnet.org privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206113411id_/http%3A//www.trust.org/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alertnet.org privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521232956id_/http%3A//news.trust.org/privacy-and-cookies) for the most accurate reproduction.*
 
-# Thomson Reuters Foundation | News, Information and Connections for Action
+# Privacy and Cookies | Thomson Reuters Foundation News
 
 The Thomson Reuters Foundation (We) are committed to protecting and respecting your privacy. This policy (together with our Website Terms and Conditions and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
