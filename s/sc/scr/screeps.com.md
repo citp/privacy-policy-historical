@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screeps.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109042219id_/http%3A//support.screeps.com/hc/en-us/articles/203833942-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screeps.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521043214id_/http%3A//support.screeps.com/hc/en-us/articles/203833942-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy – Screeps Support Center
 
