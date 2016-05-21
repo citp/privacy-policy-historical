@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the john-carlton.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221011812id_/http%3A//www.john-carlton.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the john-carlton.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521065842id_/http%3A//www.john-carlton.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | The RANT
 
 We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website. 
 
