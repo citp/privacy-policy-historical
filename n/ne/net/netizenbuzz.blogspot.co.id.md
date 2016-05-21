@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netizenbuzz.blogspot.co.id privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115080424id_/http%3A//netizenbuzz.blogspot.co.id/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netizenbuzz.blogspot.co.id privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521233606id_/http%3A//netizenbuzz.blogspot.co.id/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy ~ Netizen Buzz
 
