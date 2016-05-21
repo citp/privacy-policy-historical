@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the eventective.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215105247id_/http%3A//www.eventective.com/tmplt/tmplt.aspx%3Fcmsuid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventective.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521022656id_/http%3A//www.eventective.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Eventective
 
-  
 Eventective.com ("Website") is strongly committed to your right to privacy and to taking steps designed to secure your personal and financial information. To earn your trust and confidence in our commitment, the intent of this policy is to fully disclose our privacy practices to you. We will only use your personal information in accordance with this Privacy Policy. 
 
 The Eventective.com website is owned and operated by Eventective, Inc., which is located at 10 Plaza Drive, Suite 105, Scarborough, ME 04074. The website refers visitors to hotels, restaurants, and other Venues that have meeting and event rooms, as well as to event- and meeting-related service providers or vendors.
@@ -13,17 +12,7 @@ Consequently, to understand how any information collected may be used, you shoul
 
 We encourage you to read the Eventective.com privacy policy, as well as those of our participating Venues and Vendors, so that you understand what types of personal information are collected and how this information may be used. 
 
-**As part of our Privacy Policy, we address the following:**
-
-* The personal information we collect   
-
-* With whom your information is shared and how it is used   
-
-* The choices you have about the collection and use of your information   
-
-* The security measures we take to protect your personal information   
-
-* Additional information about online privacy and changes to our policy 
+Additional information about online privacy and changes to our policy 
 
 **The personal information we collect**  
 Eventective.com and its partners collect personal information necessary to respond to your requests for information about Venues, Events, and Vendors, as well as our customized products and services, and to allow you to use the resources available on our website, including the creation and maintenance of an account. Personal information includes, but is not limited to, name, physical address, email address, phone number, age and any other information that itself identifies or, when tied to the above information, may identify you as a specific individual. Eventective.com and its partners also collect information related to your event, including dates and locations of your event, and information relating to the number of attendees. Eventective.com also uses order forms for you to request certain information, products and services. On such order forms, we collect your contact information, financial information (including credit card numbers) and demographic information. 
