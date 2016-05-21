@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radiox.co.uk privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121102353id_/http%3A//www.radiox.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiox.co.uk privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521051109id_/http%3A//www.radiox.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Radio X
 
