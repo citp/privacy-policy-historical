@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wallbasehq.com privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027230137id_/http%3A//wallbasehq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallbasehq.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521171954id_/http%3A//hqwallbase.pw/privacy-policy) for the most accurate reproduction.*
 
-# wallbaseHQ.com - Privacy policy
+# hqwallbase.pw - Privacy policy
 
 **Cookies**
 
