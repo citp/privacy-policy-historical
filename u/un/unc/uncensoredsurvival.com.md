@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uncensoredsurvival.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122094210id_/http%3A//www.uncensoredsurvival.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uncensoredsurvival.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521221112id_/http%3A//www.uncensoredsurvival.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Uncensored Survival
 
@@ -65,3 +65,5 @@ If you are concerned about the topic covered by this policy, you should read it 
 If you are a California resident and our customer, Cal. Civ. Code 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to support@uncensoredsurvival.com
 
 This policy was last updated on 11-12-2012.
+
+© 2015 Uncensored Survival Contact Us At: 800-370-8660 | Office Hours: 9am to 5pm CST
