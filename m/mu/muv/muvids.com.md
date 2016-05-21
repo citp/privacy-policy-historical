@@ -1,14 +1,48 @@
-> *The following text is extracted and transformed from the muvids.com privacy policy that was archived on 2013-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130309092506id_/http%3A//www.muvids.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muvids.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521131242id_/http%3A//muvids.com/private-policy) for the most accurate reproduction.*
 
-# Privacy Stement
+# Check out privacy policy at Muvids.com
 
-**_Personal Information:_**  
-MuVids.com does not request or collect any personal information about you when you visit this web site. However, your Internet domain and IP address, the date and time you access the site, the pages you visit, and the type of browser and operating system you use are automatically collected and stored by the server the site is running on for the sole purpose of tracking the number and type of visitors using the site.
+Muvids.com understands the importance of information confidentiality. That is why all your private information is treated seriously. We use only up-to-date computer technologies which help us avoiding any information disclosure. Our Human Resource policies, efficient software and modern management protect your private data on the highest level.
 
- ** _Links to Other Sites:_**  
-This site contains links to other sites which is not controlled or owned by us. If you are no longer on our site, you are subject to the privacy policy on the new site.
+From time to time our Privacy Policy can be changed or modified. Therefore we highly recommend our clients to visit and check the following page.
 
- ** _Third-Party Advertising and Cookies:_**  
-We use third-party advertising companies to serve ads when you visit this web site. These companies may collect information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to analyze the effectiveness of their ad campaigns and to provide advertisements for this web site and other web sites about goods and services that may be of interest to you. In order to monitor such statistics, a unique "cookie" is automatically generated and placed into your browser.
+You should be always bewaring of scammers who may ask your personal information on the behalf of Muvids.com. Below you can see the list of information we may collect from you and the ways we are going to use it. We hope that this information will help avoiding problems caused by scammers.
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>
+Information we may collect from you:
+
+  * Your full name;
+  * Your email;
+
+
+
+Your data will be used in order to:
+
+  * Collect statistics on clients’ satisfaction;
+  * Improve services or reshaping them;
+  * Reshape the web site interface according to clients feedbacks;
+  * Send various promotional offers to our clients’ emails;
+  * Inform regarding any service updates, rebates and the rest of commercial information;
+  * Approach our clients for a survey via email address.
+
+
+
+Security measures protecting your data:
+
+  * We use powerful software;
+  * Our team consists of the best professionals.
+
+
+
+## Attitude to cookies
+
+Our clients may notice the message “to disable cookies”. You should not treat cookies as a threat to your privacy. They are quite a handy tool. With the help of cookies we tend to do accumulate some information on your computer, such as preferable web pages or common settings of the browser. We will appreciate if you give us access to your cookies so we will improve the web site and services according to your preferences. In case you decide to deny cookies, do not forget to set the settings of your browser, because some of them accept them by default.
+
+## Following links to other sites
+
+Every time when we provide links to other sites, we are not able to control privacy polices of such sites. So try to be careful while sharing your data with other sites. And do not forget to check their privacy policies.
+
+## Controlling personal data sharing
+
+We never disclose or sell our clients information to third parties, except they allow us to do that. In some cases we may have to obey government bodies’ orders. If you are interested in third parties’ information, their products and services, you may authorize us and we will provide you the most relevant information.
+
+When you change your contacts, name or occupation, we will appreciate if you notify us about them so we will be able to serve you at our best standards.
