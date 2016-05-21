@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the htmlremix.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929043930id_/http%3A//www.htmlremix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htmlremix.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521154148id_/http%3A//www.htmlremix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HTML Remix
 
@@ -95,4 +95,11 @@ India
 US Phone: +1 240-34-REMIZ (73649)  
 rahnas@googlemail.com
 
-This document was last updated on January 03, 2011
+This document was last updated on January 03, 2011  
+
+
+* * *
+
+#### Incoming search terms:
+
+[PrivacyPolicy|HTMLRemix](http://www.htmlremix.com/privacy-policy "PrivacyPolicy|HTMLRemix")
