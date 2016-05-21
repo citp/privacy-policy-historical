@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the zsassociates.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121051951id_/http%3A//www.zsassociates.com/Home/Privacy-Policy-Highlights.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zsassociates.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521041214id_/http%3A//www.zsassociates.com/Privacy-Policy-Highlights.aspx) for the most accurate reproduction.*
 
 # 
 
-## Privacy Policy Highlights
-
 ## ZS Associates  
-Web Site Privacy Policy  
-Last Updated: May 19, 2015
+Online Privacy Policy  
+Last Updated: March 2, 2016
 
 ## Privacy Policy Highlights
 
