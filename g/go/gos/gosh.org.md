@@ -1,128 +1,216 @@
-> *The following text is extracted and transformed from the gosh.org privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205123032id_/http%3A//www.gosh.org/hidden-footer-redirect-and-error-pages/privacy-and-data-protection-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gosh.org privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521110438id_/http%3A//www.gosh.org/hidden-pages/privacy-and-data-protection-statement) for the most accurate reproduction.*
 
 # Privacy and Data Protection Statement | Great Ormond Street Hospital Children's Charity
 
-Great Ormond Street Hospital Children’s Charity is committed to protecting your privacy. This policy explains how we will handle the personal information you provide to us and what we learn about you from your visit to our web site.
+Great Ormond Street Hospital Children’s Charity is committed to protecting your privacy. This policy explains how we collect and use the personal information you provide to us whether online or via phone, mobile, e-mail, letter or other correspondence.  
 
-By using this site, you are agreeing to the terms of this Privacy Policy. If you do not agree to our Privacy Policy then please do not use this site.
+By using our website, any of our services, or providing us with any personal information we will assume you are agreeing to your information being used and disclosed in the ways described in this policy. 
 
+The links below can be used to navigate your way around this policy: 
+
+  * Who are we?
   * Data Protection Act
-
-  * What personal information do we collect?  
-
-
-  * Why do we collect personal information?  
-
-
-  * How do we use your information?  
-
-
-  * How we use 'cookies' and 'spotlight tags'  
-
-
-  * The accuracy of your information  
-
-
-  * Users 16 years and under  
-
-
-  * Other websites  
-
-
-  * Changes to the policy  
-
-
-  * Access rights  
-
-
+  * What personal information do we collect?
+  * Credit and debit card information
+  * Why do we collect and how do we use your Information?
+  * Information sharing and disclosure 
+  * The accuracy of your Information
+  * Under 16s
+  * Vulnerable circumstances policy
+  * Storing your Information
+  * Our website
+  * Cookies and spotlight tags
+  * Changes to the policy
+  * Your rights
   * Privacy queries
-
 
 
 
 * * *
 
-## Data Protection Act
+## 1\. Who we are?
 
-We are conscious of our responsibilities as a “data controller” under the Data Protection Act 1998 and we shall endeavour to ensure that the personal information we obtain and use will always be held, used, transferred and otherwise processed in accordance with that Act and all other applicable data protection laws and regulations. 
+Great Ormond Street Hospital Children’s Charity (GOSHCC) raises money to enable the hospital to provide world class care to children and to pioneer new treatments and cures for childhood illnesses. The support the Charity provides to the Hospital is concentrated in four main areas namely redevelopment, research, medical equipment and accommodation and patient/family support.
 
-Back to top
+[Access the 'Why we need your help?' page](http://www.gosh.org/why-we-need-your-help) \- to find out more about what we do.  
 
-## What personal information do we collect?
+GOSHCC is registered as a charity in England and Wales (registered charity number 1160024) and we are also registered as a company limited by guarantee (company number 09338724).  
 
-Personal information is information that can be used to identify you. It can include your name, date of birth, email address, postal address, telephone number, fax number and credit/debit card details. We collect personal information when you ask about our activities, register with us (for example, registering on a discussion board), order products and services (such as publications and email newsletters), or otherwise give us personal information. We only collect your debit/credit card details if you set up a direct debit payment for regular donations to us.
-
-By submitting personal data manually or in electronic form to this website, or by using this site, you give your consent that all personal data you submit may be processed in the manner and for the purposes described below.
-
-If you do nothing other than read pages or download information while using this web site, we will collect information about your visit. This information will not personally identify you, it relates to (i) the Internet domain and IP address from which you access the web site (ii) the type of browser and operating system you use (iii) the date and time of your visit, (iv) the pages you visit), (v) demographic and interest information from Google and (vi) the address of the website from which you linked to us (if applicable).
+We also use a wholly owned subsidiary company of GOSHCC, Great Ormond Street International Promotions Limited (registered company in England and Wales number 02265303) to record our activity classed as trading for example the selling of GOSH clothes and gifts.  Within the context of this policy, “we” means both the charity and this subsidiary. 
 
 Back to top
 
-## Why do we collect personal information?
+* * *
 
-We collect personal information to make each visit more rewarding, and to provide us with information to help improve our service and the information available to users.
+## 2\. Data Protection Act
 
-Back to top
+In carrying out our day to day activities we process and store personal information relating to our supporters and we are therefore required to adhere to the requirements of the Data Protection Act 1998. We take our responsibilities under this act very seriously and we ensure the personal information we obtain is held, used, transferred and otherwise processed in accordance with that Act and all other applicable data protection laws and regulations including, but not limited to, the Privacy and Electronic Communication Regulations. 
 
-## How do we use your information?
-
-We will use your personal information to provide you with the services, products or information you have requested, for administration purposes and to further our charitable aims, including for fundraising activities. We may need to share your information with our service providers, associated organisations and agents for these purposes.
-
-The data we collect is used in aggregate (and therefore anonymously) to monitor the use of our website and to research our users' behaviour, demographics and interests. This allows us to gain a better understanding of how our users navigate and use the website and therefore improve our service to you and to the hospital. By using the demographic and interest reports, we are able to tailor sections of the website for the people who use it and in particular for the patients and their parents.
-
-We may share your information with other organisations who are supportive of our aims and objectives. We only use your personal information for direct marketing purposes if we are allowed to do this by law or if we have your consent. You can change your mind at any time by contacting Great Ormond Street Hospital’s Children’s Charity, 40 Bernard Street, London WC1N 1LE or email: [webcontent@gosh.org](mailto:webcontent@gosh.org "webmaster@gosh.org").
-
-Great Ormond Street Hospital Children’s Charity is responsible for collecting your personal information. Any information we collect is stored and processed in the UK. Your personal information is not shared with third parties or used in any other way (other than described in this policy or as required by law) unless you agree.
-
-We reserve the right to share your personal information if we are legally obliged to and to enable us to apply our terms and conditions and other agreements. This includes exchanging information with other organisations for fraud and credit risk reduction and for police investigations.
-
-We use a secure server for any page which requires you to enter personal information. Unfortunately, no data transmission over the internet is 100% secure. As a result, while we use our best endeavours to protect your personal information, Great Ormond Street Hospital Children’s Charity cannot guarantee the security of any information you transmit to us and you do so at your own risk. When we collect your personal information we use strict procedures and security features to prevent unauthorised access.
+See the section below on information about your rights.
 
 Back to top
 
-## How we use 'cookies' and 'spotlight tags'
+* * *
 
-Great Ormond Street Hospital Children’s Charity uses “cookies” and “spotlight tags” to help track the success of our online advertising and monitor the usage of our website. We use Google Analytics for our web analytics and work with DoubleClick to monitor our online advertising results. A cookie is a small text file we pass to your computer’s hard disk through your web browser so the website remembers who you are when you return. To find out more about cookies and how you can disable them please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). Spotlight tags use a combination of transparent gif (image) files and cookies. These gif files are provided to us by our ad partner, DoubleClick. For more information about DoubleClick please visit [www.doubleclick.net](http://www.doubleclick.net/ "www.doubleclick.net")
+## 3\. What personal information do we collect?
 
-With both cookies and spotlight tags, the information we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address.
+Personal information is information that can be used to identify you. It can include your name, date of birth, email address, postal address, telephone number, mobile telephone number, fax number, bank account details, credit/debit card details and whether you are a UK tax payer so that we can claim Gift Aid (please rest assured we do not collect information about your actual tax payments, just whether you are a tax payer). We collect personal information about you when you ask about our activities, register with us (for example, registering on a discussion board or for a publication), make a donation to us, register for an event, engage with our social media or message boards, order products and services (such as publications and email newsletters), or otherwise give us personal information. 
 
-### What is a cookie?
+If you do nothing other than read pages or download information from our website, we may gather information about this use, such as which pages are most visited and which events or activities are of most interest.  This information can be used to help us improve our website and services and ensure we provide you with the best service.  Wherever possible, the information we use for this purpose will be aggregated or anonymised i.e. it will not identify you as an individual visitor to our website.  More information can be found in the section below entitled “Our Website”. 
 
-A cookie is a small text file which is either stored on the user hard drive, or in your computer's memory. To find out more about cookies and how you can disable them please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/ "www.allaboutcookies.org")
-
-### What are spotlight tags?
-
-Spotlight tags use a combination of transparent gif (image) files and cookies. These gif files are provided to us by our ad partner, DoubleClick. For more information about DoubleClick please visit [www.doubleclick.net](http://www.doubleclick.net/ "DoubleClick privacy policy")
+We do not usually collect “sensitive personal information” about you unless there is a clear reason for doing so, such as participation in an event where we need this information to ensure we provide appropriate facilities for you.  We may collect health information if you tell us about your experiences of the hospital (for example, if you act as a case study for us); however, we will make it clear to you when collecting this information as to what we are collecting and why. 
 
 Back to top
 
-## The accuracy of your information
+* * *
 
-While we endeavour to ensure that the information we hold about you is accurate and, where necessary, kept up to date, we shall assume that in the absence of evidence to the contrary, the information you provide us with is accurate. Should there be any inaccuracies in the information of which you inform us, or of which we become aware, it shall be promptly rectified by us. We do not retain any information about you which is out of date or which is no longer required.
+## 4\. Credit and debit card information
 
-Back to top
+If you use your credit or debit card to donate to us, buy something or pay online or over the phone, we will ensure that this is done securely and in accordance with the Payment Card Industry Data Security Standard. 
 
-## Users 16 years and under
+[Access the PCI website](http://www.pcisecuritystandards.org/) \- for more information about PCI DSS standards. 
 
-If you are aged 16 or under, please get your parent/guardian’s permission beforehand whenever you provide personal information to the Great Ormond Street Hospital Children’s Charity website. Users without this consent are not allowed to provide us with personal information.
-
-Back to top
-
-## Other websites
-
-Our web-site contains links to other web sites belonging to third parties and we reserve the right to participate in social networking sites including but not limited to You Tube and Facebook as regularly as we choose. We reserve the right to include content from sites including but not limited to You Tube & Facebook. We do not control the privacy practices of these other sites.  You should therefore make sure when you leave our site that you have read that site’s privacy policy.
+We do not store your credit or debit card details at all, following the completion of your transaction.  All card details and validation codes are securely destroyed once the payment or donation has been processed. Only those staff authorised to process payments will be able to see your card details.  If we receive an e-mail containing any credit or debit card details, it will be immediately deleted, no payment will be taken and you will be notified about this.  
 
 Back to top
 
-## Changes to the policy
+* * *
 
-We reserve the right, at our sole discretion, to modify, add or remove sections of this Privacy Policy at any time and any changes will be notified to you using the e-mail address you have given us or by an announcement on this site. Your continued use of this site, following the posting of changes to these terms, will mean you accept these changes.
+## 5\. Why do we collect and how do we use your information?
+
+We may collect your personal information for a number of reasons, such as:
+
+• to provide you with the services, products or information you have requested;   
+• to process any donation(s) we may receive from you;  
+• to ask you to help us raise money or donate money to our charity, but always in accordance with our supporter promise;   
+• to provide you with information about our work or our activities, that you have asked to receive;   
+• to send you the items you have ordered through our shop;   
+• to invite you to participate in surveys or research;  
+• for administration purposes e.g. we may contact you about a donation you have made or event you have expressed an interest in or registered for;   
+• for internal record keeping, such as the management of feedback or complaints;   
+• to analyse and improve the services we offer;   
+• the use of IP addresses to block disruptive use, to record website traffic or to personalise the way our information is presented to you to identify your approximate location;   
+• where it is required or authorised by law; and  
+• assessing your personal information for the purposes of credit risk reduction or fraud prevention (regrettably some people target charities for illegal purposes such as money laundering and, quite rightly, we are required to monitor financial activity and report suspected fraud to the appropriate authorities).
+
+We may supplement or add to the information we hold about you with information that is available through, or we receive from, other sources e.g. public registers. This allows us to assess the accuracy of the information we hold about you in order to send you relevant information and promote those fundraising opportunities that we believe you are most likely to be interested in. 
+
+We may contact you for marketing purposes by mail, e-mail, telephone, mobile telephone, text or social messaging; in some cases, this will require getting your permission. We may also send you service communications via e-mail, text or social posting, for example where you place an order for goods or services on our website, or if you have made a donation by text. 
+
+It is your choice on the type of communications and information you receive about our charity and the ways in which you can get involved. You can change your mind at any time by contacting our Supporter Services Team at Great Ormond Street Hospital’s Children’s Charity, 40 Bernard Street, London WC1N 1LE or on 0203 841 3131 or via e-mail:[ supporter.care@gosh.org](http://supporter.care@gosh.org/). 
+
+We will not use your information for marketing purposes if you have asked us not to. However, we will retain your details on a suppression list to help ensure we do not continue to contact you. 
 
 Back to top
 
-## Access rights
+* * *
 
-You have a right to access the personal data we hold about you. If you wish to obtain a copy of this information, please write to us or email us at the addresses given below enclosing your postal details:
+## 6\. Information sharing and disclosure
+
+We will not sell or swap your information with any third party.
+
+We may share your information with our data processors. These are trusted partner organisations that work with us in connection with our charitable purposes; and other entities that act as fundraisers for us, sell our products or provide us with information and marketing (subject to your communication preferences and our internal policies and procedures). All our trusted partners are required to comply with data protection laws and our high standards and are only allowed to process your information in strict compliance with our instructions. We will always make sure appropriate contracts and controls are in place and we regularly monitor all our partners to ensure their compliance.
+
+We may disclose your personal information to third parties if we are required to do so through a legal obligation (for example to the police or a government body); to enable us to enforce or apply our terms and conditions or rights under an agreement; or to protect us, for example, in the case of suspected fraud or defamation. 
+
+We do not share your information for any other purposes.
+
+Back to top
+
+* * *
+
+## 7\. The accuracy of your information
+
+We aim to ensure that all information we hold about you is accurate and, where necessary, kept up to date. If any of the information we hold about you is inaccurate and either you advise us or we become otherwise aware, we will ensure it is amended and updated as soon as possible. 
+
+Back to top
+
+* * *
+
+## 8\. Under 16s
+
+If you are aged 16 or under, and would like to participate in an event, make a donation or get involved with us, please make sure that you have your parent/guardian’s permission before giving us your personal information. When we collect information about a child or young person, we will make it clear as to the reasons for collecting this information and how it will be used. 
+
+Back to top
+
+* * *
+
+## 9\. Vulnerable circumstances policy
+
+We recognise the importance of protecting our vulnerable supporters and follow the guidance issued by the Institute of Fundraising on treating donors fairly. We believe this helps to support our staff and fundraisers who come into contact with supporters in providing high quality customer care, ensuring anyone donating to the Charity is in a position to make a free and informed decision. 
+
+[Access the Institute of Fundraising’s website](http://www.institute-of-fundraising.org.uk/library/treatingdonorsfairly/) \- for more guidance.
+
+Back to top
+
+* * *
+
+## 10\. Storing your information
+
+Although most of the information we store and process stays within the UK, some information may be transferred to countries outside the European Economic Area. This may occur if, for example, one of our trusted partners servers are located in a country outside the EU. These countries may not have similar data protection laws to the UK however, we will take steps with the aim of ensuring your privacy continues to be protected as outlined in this privacy policy. 
+
+We will keep your information for as long as required to enable us to operate our services but we will not keep your information for any longer than is necessary. We will take into consideration our legal obligations and tax and accounting rules when determining how long we should retain your information. When we no longer need to retain your information we will ensure it is securely disposed of, at the appropriate time. 
+
+Back to top
+
+* * *
+
+## 11\. Our website
+
+Our websites use cookies to help them work well and to track information about how people are using them. More information on cookies can be found below. 
+
+For all areas of our website which collect personal information, we use a secure server. Although we cannot 100 per cent guarantee the security of any information you transmit to us, we enforce strict procedures and security features to protect your information and prevent unauthorised access. 
+
+Our website contains links to other websites belonging to third parties and we sometimes choose to participate in social networking sites including but not limited to You Tube and Facebook. We may also include content from sites such as these on our website however, would advise that we do not have any control the privacy practices of these other sites. You should make sure when you leave our site that you have read and understood that site’s privacy policy in addition to our own.
+
+Back to top
+
+* * *
+
+## 12\. Cookies and spotlight tags
+
+Great Ormond Street Hospital Children’s Charity uses “cookies” and “spotlight tags” to help track the success of our online advertising and monitor the usage of our website. We use Google Analytics for our web analytics and work with DoubleClick to monitor our online advertising results. 
+
+With both cookies and spotlight tags, the information we collect and share is anonymous and does not personally identify you. It does not contain your name, address, telephone number, or email address.
+
+**What is a cookie?  ** A cookie is a small file of letters and numbers that we may put on your computer or mobile device when you access our website.  These cookies allow us to distinguish you from other users of the website helping us to provide you with a good experience when you browse our website and also allow us to improve our site. For example, they will tell us whether you have visited our site before or whether you are a new visitor.
+
+[Access the All About Cookies website](http://www.allaboutcookies.org/) \- to find out more about cookies and how you can disable.
+
+**What are spotlight tags?**
+
+A spotlight tag records access to a website as part of online advertising. Spotlight tags allow us to track, measure and report on activities that happen on our website after you see or click on an ad. These tags allow us to measure the effectiveness of our online marketing campaigns.
+
+These files are provided to us by our ad partner, DoubleClick.
+
+[Access the DoubleClick website](http://www.doubleclick.net/) \- for more information.
+
+Back to top
+
+* * *
+
+## 13\. Changes to the policy
+
+This policy replaces all previous versions and is correct as of May 2016. We will regularly review and update this Privacy and Data Protection Statement and will update, modify, add or remove sections at our discretion. Any changes will be notified to you either via e-mail or through an announcement on our website and your continued use of our website, any of our services and/or the continued provision of personal information after we have posted the changes to these terms will be taken to mean you are in agreement with those changes.
+
+Back to top
+
+* * *
+
+## 14\. Your rights
+
+You have the right to:
+
+  * request a copy of the information we hold about you;
+  * update or amend the information we hold about you if it is wrong;
+  * change your communication preferences at any time;
+  * ask us to remove your personal information from our records;
+  * object to the processing of your information for marketing purposes; or
+  * raise a concern or complaint about the way in which your information is being used.
+
+
+
+If you wish to find out more about these rights, or obtain a copy of the information we hold about you, please contact our Supporter Services Team at:
 
 Private Information Request  
 Great Ormond Street Hospital’s Children’s Charity  
@@ -130,14 +218,15 @@ Great Ormond Street Hospital’s Children’s Charity
 London  
 WC1N 1LE
 
-[webcontent@gosh.org](mailto:webcontent@gosh.org "webmaster@gosh.org")
+Tel: 0203 841 3131  
+Email: [supporter.care@gosh.org](mailto:supporter.care@gosh.org)
 
 Back to top
 
-## Privacy queries
+* * *
 
-If you have any questions regarding this policy, or you wish to update your details or remove your personal data from our records, please contact us at the above address.
+## 15\. Privacy queries
 
-Thank you for visiting our site.
+If you have any questions or queries about this Privacy and Data Protection Statement, please contact our Data Protection Officer using the above address and contact details. 
 
 Back to top
