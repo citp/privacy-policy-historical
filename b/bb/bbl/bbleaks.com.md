@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the bbleaks.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127193524id_/https%3A//n4bb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbleaks.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521050523id_/http%3A//n4bb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | N4BB
 
 **N4BB.com will not share your information with 3rd parties.**  
 N4BB.com respects your right to the privacy of the personal information you provide us on our Web sites. To that end, unless you designate otherwise or we state otherwise in this policy or at the time information is collected, any personal information you provide to N4BB.com will be known only to two parties: you and N4BB.com. The following policy is intended to explain how your personal information will be treated as you make use of our sites and their features. Personal information includes your name, street and e-mail addresses, billing information, click-through activity and any other personal information you may provide here. This policy may change from time to time, so please check back periodically.
 
-**N4BB.com Membership**  
+ **N4BB.com Membership**  
 In order to register to the site, registrants provide N4BB.com with personal information including name, address, and e-mail address, gender and device info. N4BB.com keeps all such information strictly confidential and does not reuse, resell or redistribute it in any way.
 
 **Traffic Data**  
