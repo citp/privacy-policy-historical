@@ -1,0 +1,885 @@
+<!--The following is the downloaded HTML source of the wizer.me privacy policy that was archived on 2016-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160521150438id_/https%3A//app.wizer.me/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+    <base href="//app.wizer.me/">
+    <title>
+        wizer.me
+    </title>
+    <!-- version 2.11.1 -->
+    <!-- Viewport mobile tag for sensible mobile support -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="icon" href="/images/wizer-logo-bulb-32.png" sizes="16x16 32x32" type="image/png">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="wizer.me">
+    
+            <!--
+        Stylesheets and Preprocessors
+        ==============================
+        You can always bring in CSS files manually with `<link>` tags, or asynchronously
+            using a solution like AMD (RequireJS).  Or, if you like, you can take advantage
+            of Sails' conventional asset pipeline (boilerplate Gruntfile).
+            By default, stylesheets from your `assets/styles` folder are included
+            here automatically (between STYLES and STYLES END). Both CSS (.css) and LESS (.less)
+            are supported. In production, your styles will be minified and concatenated into
+            a single file.
+            
+            To customize any part of the built-in behavior, just edit `tasks/pipeline.js`.
+            For example, here are a few things you could do:
+            
+            + Change the order of your CSS files
+            + Import stylesheets from other directories
+            + Use a different or additional preprocessor, like SASS, SCSS or Stylus
+            -->
+            <!--STYLES-->
+            <link rel="stylesheet" href="/min/production.min.css?v=2.11.1">
+            <!--STYLES END-->
+            <script type="text/javascript" async="" src="https://widget.intercom.io/widget/dkewtuyi"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+            var features = {};
+            </script>
+            <!-- end Mixpanel -->
+</head>
+
+<body ng-app="wizer" layout="column">
+     <md-toolbar aria-label="nav tool bar" class="wizer-navbar" ng-cloak="">
+<div class="editor-header" role="navigation" ng-controller="HeaderCTRL">
+    <div class="container">
+    
+      <a class="header-logo clickable" ng-click="logoClicked()"></a>
+     <md-menu-bar aria-label="nav menu bar" class="text-right">
+      
+      <md-button aria-label="teachers" ng-click="home()" ng-if="true &amp;&amp; isDesktopMenu()" ng-class="{'header-active-menu' : (activeMenu === 'gallery')}" class="header-explore-btn">
+        Explore
+        </md-button>
+        
+        
+      <md-button aria-label="create" class="create-worksheet-button" ng-click="createNew()" ng-if="true &amp;&amp; isDesktopMenu()">
+        Create
+      </md-button>
+      <md-button aria-label="teachers" ng-if="true &amp;&amp; isDesktopMenu()" ng-class="{'header-active-menu' : (activeMenu === 'teacher')}" ng-click="navigateTeachers()">
+          Teachers
+      </md-button>
+
+      <md-menu class="header-menu" ng-if="true &amp;&amp; isDesktopMenu()" ng-class="{'header-active-menu' : (activeMenu === 'contact' || activeMenu === 'about' || activeMenu === 'faq' || activeMenu === 'how_it_works')}">
+            <button ng-click="$mdOpenMenu()">
+             About
+            </button>
+            <md-menu-content class="header-menu-content">
+             <md-menu-item style="display : none;">
+                <md-button aria-label="how_it_works" ng-click="navigateHowItWorks()">
+                   How it works
+                </md-button>
+              </md-menu-item>
+               <md-menu-item>
+                <md-button aria-label="faq" ng-click="navigateFAQ()">
+                  FAQ
+                </md-button>
+              </md-menu-item>
+               <md-menu-item style="display : none;">
+                <md-button aria-label="about_us" ng-click="navigateAboutUs()">
+                  About us
+                </md-button>
+              </md-menu-item>
+               <md-menu-item>
+                <md-button aria-label="contact_us" ng-click="navigateContactUs()">
+                   Contact us
+                </md-button>
+              </md-menu-item>
+            </md-menu-content>
+      </md-menu>
+      <md-button aria-label="blog" ng-if="true &amp;&amp; isDesktopMenu()" ng-click="navigateBlog()">
+        Blog
+      </md-button>
+          
+        
+      <div ng-cloak="" wstoken="" ng-controller="LoginHeaderCTRL" class="login-button-block">
+
+  <md-button aria-label="login" ng-if="! userName &amp;&amp; true" ng-model="login" ng-click="navigateLogin()" class="join-btn nav-login-btn">Log in</md-button>
+
+   <md-button class="join-btn" aria-label="signup" ng-if="! userName &amp;&amp; true" ng-click="navigateSignup()">Join</md-button>
+
+ <md-menu ng-if="userName" class="header-menu user-profile-menu" md-offset="0 76">
+ 	<button aria-label="loggedin_user" class="md-icon-button" ng-click="$mdOpenMenu()">
+ 	   
+       	
+    </button>
+    <md-menu-content class="header-menu-content">
+    		<md-menu-item class="user-profile-menu-item" ng-click="openUserProfile()">
+    			<md-button aria-label="user_profile">
+    				<div class="header-profile-username">{{userName}}</div>
+    				<div class="view-profile-text">View profile</div>
+    			</md-button>
+    		</md-menu-item>
+             <md-menu-item class="user-account-menu-item" style="display : none;">
+                <md-button aria-label="account_settings">
+                  Account settings
+                </md-button>
+              </md-menu-item>
+                <md-menu-item class="user-account-menu-item">
+                <md-button aria-label="logout" ng-click="doLogout()">
+                  Logout
+                </md-button>
+              </md-menu-item>
+    </md-menu-content>
+ </md-menu>
+ </div>
+      </md-menu-bar>
+   
+    </div>
+</div>
+</md-toolbar> 
+
+
+
+
+ <section layout="row" flex="">
+  <md-sidenav class="md-sidenav-left menu-sidenav" md-component-id="left" ng-show="!$mdMedia('(min-width: 768px)')" md-whiteframe="3" ng-cloak="">
+    <md-content layout-padding="" ng-controller="HeaderCTRL">
+        <md-button aria-label="explore" ng-class="{'header-active-menu' : (activeMenu === 'gallery')}" class="sidenav-menu-btn" ng-click="home()">
+            Explore
+        </md-button>
+        <md-divider class="sidenav-divider"></md-divider>
+        
+            <md-button aria-label="create" class="sidenav-menu-btn" ng-click="createNew()">
+                Create
+            </md-button>
+            <md-divider class="sidenav-divider"></md-divider>
+            
+                
+                        
+                            <md-button aria-label="teachers" ng-if="true" ng-class="{'header-active-menu' : (activeMenu === 'teacher')}" class="sidenav-menu-btn" ng-click="navigateTeachers()">
+                                Teachers
+                            </md-button>
+                            <md-divider class="sidenav-divider"></md-divider>
+                            <md-button ng-if="true" class="sidenav-menu-btn" ng-click="toggleAboutMenu()">
+                                About <span class="pull-right about-collapsed-icon" ng-class="{&quot;icon-right&quot; : aboutNavCollapsed, &quot;icon-arrow_down&quot; : !aboutNavCollapsed}"></span>
+                            </md-button>
+                            <md-divider class="sidenav-divider"></md-divider>
+                            <div class="side-nav-about-container" ng-class="{&quot;about-nav-expanded&quot; : !aboutNavCollapsed}">
+                                <md-button aria-label="how-it-works" ng-if="true" class="sidenav-menu-btn about-submenu" ng-class="{'header-active-menu' : (activeMenu === 'how_it_works')}" ng-click="navigateHowItWorks()" style="display : none;">
+                                    How it works
+                                </md-button>
+                                <md-divider class="sidenav-divider" style="display : none;"></md-divider>
+                                <md-button aria-label="faq" ng-if="true" class="sidenav-menu-btn about-submenu" ng-class="{'header-active-menu' : (activeMenu === 'faq')}" ng-click="navigateFAQ()">
+                                    FAQ
+                                </md-button>
+                                <md-divider class="sidenav-divider"></md-divider>
+                                <md-button aria-label="about-us" ng-if="true" class="sidenav-menu-btn about-submenu" ng-class="{'header-active-menu' : (activeMenu === 'about')}" ng-click="navigateAboutUs()" style="display : none;">
+                                   About us
+                                </md-button>
+                                <md-divider class="sidenav-divider" style="display : none;"></md-divider>
+                                <md-button aria-label="contact-us" ng-if="true" class="sidenav-menu-btn about-submenu" ng-class="{'header-active-menu' : (activeMenu === 'contact')}" ng-click="navigateContactUs()">
+                                    Contact us
+                                </md-button>
+                                <md-divider class="sidenav-divider"></md-divider>
+                            </div>
+                            <md-button aria-label="blog" ng-if="true" class="sidenav-menu-btn" ng-click="navigateBlog()">
+                                Blog
+                            </md-button>
+                            
+    </md-content>
+</md-sidenav>
+
+<md-content flex="">
+<div class="container">
+  <div>
+  <style type="text/css">@import url('https://themes.googleusercontent.com/fonts/css?kit=wAPX1HepqA24RkYW1AuHYA');.lst-kix_list_1-7>li{counter-increment:lst-ctn-kix_list_1-7}.lst-kix_list_3-8>li{counter-increment:lst-ctn-kix_list_3-8}.lst-kix_list_1-1>li:before{content:"(" counter(lst-ctn-kix_list_1-1,decimal) ") "}.lst-kix_list_2-8>li:before{content:"\0025aa  "}.lst-kix_list_1-1>li{counter-increment:lst-ctn-kix_list_1-1}.lst-kix_list_3-2>li:before{content:"(" counter(lst-ctn-kix_list_3-2,lower-latin) ") "}.lst-kix_list_3-7>li:before{content:"" counter(lst-ctn-kix_list_3-7,lower-latin) ". "}.lst-kix_list_3-4>li{counter-increment:lst-ctn-kix_list_3-4}.lst-kix_list_2-0>li:before{content:"\0025cf  "}ol.lst-kix_list_1-2.start{counter-reset:lst-ctn-kix_list_1-2 0}ol.lst-kix_list_3-1{list-style-type:none}.lst-kix_list_1-2>li:before{content:"(" counter(lst-ctn-kix_list_1-2,lower-latin) ") "}ol.lst-kix_list_3-2{list-style-type:none}ol.lst-kix_list_3-3{list-style-type:none}ol.lst-kix_list_3-4{list-style-type:none}.lst-kix_list_1-5>li:before{content:"" counter(lst-ctn-kix_list_1-5,lower-roman) ". "}ol.lst-kix_list_3-0{list-style-type:none}.lst-kix_list_1-8>li{counter-increment:lst-ctn-kix_list_1-8}ol.lst-kix_list_1-7.start{counter-reset:lst-ctn-kix_list_1-7 0}ol.lst-kix_list_3-6{list-style-type:none}ol.lst-kix_list_3-5{list-style-type:none}ol.lst-kix_list_3-8{list-style-type:none}ol.lst-kix_list_3-7{list-style-type:none}.lst-kix_list_2-3>li:before{content:"\0025cf  "}.lst-kix_list_3-5>li:before{content:"" counter(lst-ctn-kix_list_3-5,lower-roman) ". "}.lst-kix_list_2-4>li:before{content:"o  "}ol.lst-kix_list_1-5.start{counter-reset:lst-ctn-kix_list_1-5 0}.lst-kix_list_1-4>li:before{content:"" counter(lst-ctn-kix_list_1-4,lower-latin) ". "}.lst-kix_list_3-5>li{counter-increment:lst-ctn-kix_list_3-5}.lst-kix_list_3-3>li{counter-increment:lst-ctn-kix_list_3-3}ol.lst-kix_list_1-1.start{counter-reset:lst-ctn-kix_list_1-1 0}ol.lst-kix_list_3-7.start{counter-reset:lst-ctn-kix_list_3-7 0}ol.lst-kix_list_1-0.start{counter-reset:lst-ctn-kix_list_1-0 0}.lst-kix_list_3-0>li:before{content:"(" counter(lst-ctn-kix_list_3-0,decimal) ") "}.lst-kix_list_1-5>li{counter-increment:lst-ctn-kix_list_1-5}.lst-kix_list_1-0>li:before{content:"(" counter(lst-ctn-kix_list_1-0,decimal) ") "}.lst-kix_list_2-5>li:before{content:"\0025aa  "}.lst-kix_list_2-7>li:before{content:"o  "}.lst-kix_list_3-7>li{counter-increment:lst-ctn-kix_list_3-7}.lst-kix_list_1-8>li:before{content:"" counter(lst-ctn-kix_list_1-8,lower-roman) ". "}ol.lst-kix_list_3-6.start{counter-reset:lst-ctn-kix_list_3-6 0}ol.lst-kix_list_3-0.start{counter-reset:lst-ctn-kix_list_3-0 0}.lst-kix_list_1-6>li{counter-increment:lst-ctn-kix_list_1-6}ol.lst-kix_list_1-6.start{counter-reset:lst-ctn-kix_list_1-6 0}.lst-kix_list_3-4>li:before{content:"" counter(lst-ctn-kix_list_3-4,lower-latin) ". "}.lst-kix_list_1-3>li:before{content:"" counter(lst-ctn-kix_list_1-3,decimal) ". "}.lst-kix_list_3-3>li:before{content:"" counter(lst-ctn-kix_list_3-3,decimal) ". "}.lst-kix_list_1-0>li{counter-increment:lst-ctn-kix_list_1-0}.lst-kix_list_3-6>li:before{content:"" counter(lst-ctn-kix_list_3-6,decimal) ". "}ol.lst-kix_list_1-3.start{counter-reset:lst-ctn-kix_list_1-3 0}ol.lst-kix_list_3-2.start{counter-reset:lst-ctn-kix_list_3-2 0}.lst-kix_list_1-3>li{counter-increment:lst-ctn-kix_list_1-3}.lst-kix_list_1-2>li{counter-increment:lst-ctn-kix_list_1-2}ol.lst-kix_list_3-5.start{counter-reset:lst-ctn-kix_list_3-5 0}.lst-kix_list_3-2>li{counter-increment:lst-ctn-kix_list_3-2}.lst-kix_list_3-8>li:before{content:"" counter(lst-ctn-kix_list_3-8,lower-roman) ". "}ol.lst-kix_list_1-7{list-style-type:none}ol.lst-kix_list_1-8{list-style-type:none}ol.lst-kix_list_3-4.start{counter-reset:lst-ctn-kix_list_3-4 0}.lst-kix_list_1-6>li:before{content:"" counter(lst-ctn-kix_list_1-6,decimal) ". "}.lst-kix_list_2-6>li:before{content:"\0025cf  "}.lst-kix_list_1-4>li{counter-increment:lst-ctn-kix_list_1-4}.lst-kix_list_3-1>li:before{content:"(" counter(lst-ctn-kix_list_3-1,decimal) ") "}.lst-kix_list_3-6>li{counter-increment:lst-ctn-kix_list_3-6}ol.lst-kix_list_3-8.start{counter-reset:lst-ctn-kix_list_3-8 0}ul.lst-kix_list_2-4{list-style-type:none}ol.lst-kix_list_3-3.start{counter-reset:lst-ctn-kix_list_3-3 0}.lst-kix_list_2-2>li:before{content:"\0025aa  "}ul.lst-kix_list_2-5{list-style-type:none}ul.lst-kix_list_2-6{list-style-type:none}.lst-kix_list_1-7>li:before{content:"" counter(lst-ctn-kix_list_1-7,lower-latin) ". "}ul.lst-kix_list_2-7{list-style-type:none}ol.lst-kix_list_1-8.start{counter-reset:lst-ctn-kix_list_1-8 0}ul.lst-kix_list_2-0{list-style-type:none}ol.lst-kix_list_3-1.start{counter-reset:lst-ctn-kix_list_3-1 0}ul.lst-kix_list_2-1{list-style-type:none}.lst-kix_list_3-1>li{counter-increment:lst-ctn-kix_list_3-1}ul.lst-kix_list_2-2{list-style-type:none}ul.lst-kix_list_2-3{list-style-type:none}ol.lst-kix_list_1-4.start{counter-reset:lst-ctn-kix_list_1-4 0}ol.lst-kix_list_1-2{list-style-type:none}ol.lst-kix_list_1-1{list-style-type:none}.lst-kix_list_2-1>li:before{content:"o  "}ol.lst-kix_list_1-0{list-style-type:none}ol.lst-kix_list_1-6{list-style-type:none}ul.lst-kix_list_2-8{list-style-type:none}ol.lst-kix_list_1-5{list-style-type:none}.lst-kix_list_3-0>li{counter-increment:lst-ctn-kix_list_3-0}ol.lst-kix_list_1-4{list-style-type:none}ol.lst-kix_list_1-3{list-style-type:none}ol{margin:0;padding:0}.c1{line-height:1.0;widows:2;orphans:2;height:11pt;text-align:center;direction:ltr;padding-bottom:0pt}.c15{line-height:1.0;padding-top:12pt;widows:2;orphans:2;text-align:justify;direction:rtl;padding-bottom:0pt}.c9{line-height:1.0;widows:2;orphans:2;text-align:center;direction:ltr;padding-bottom:0pt}.c10{line-height:1.0;widows:2;orphans:2;text-align:justify;direction:ltr;padding-bottom:6pt}.c7{vertical-align:baseline;font-size:13pt;font-style:normal;font-family:"Arial";text-decoration:none;font-weight:normal}.c4{line-height:1.0;widows:2;orphans:2;text-align:justify;direction:ltr;padding-bottom:0pt}.c22{line-height:1.0;widows:2;orphans:2;direction:ltr;padding-bottom:0pt}.c28{line-height:1.0;widows:2;orphans:2;direction:ltr}.c31{line-height:1.0;text-align:left;direction:ltr;padding-bottom:0pt}.c0{font-size:13pt;font-family:"Calibri";font-weight:normal}.c11{background-color:#ffffff;padding:72pt 72pt 72pt 72pt}.c17{padding-left:0pt;padding-top:12pt;margin-left:54pt}.c20{padding-left:0pt;padding-top:6pt;margin-left:18pt}.c21{padding-left:0pt;margin-left:18pt}.c14{color:inherit;text-decoration:inherit}.c6{font-size:13pt;font-family:"Calibri"}.c8{color:#1155cc;text-decoration:underline}.c18{margin:5px;border:1px solid black}.c2{font-style:italic;font-weight:bold}.c19{color:#0000ff;text-decoration:underline}.c27{padding-left:0pt;margin-left:54pt}.c32{text-align:center;padding-bottom:6pt}.c25{color:#0563c1;text-decoration:underline}.c16{margin:0;padding:0}.c3{color:#000000}.c30{text-decoration:underline}.c13{margin-left:22.4pt}.c12{height:11pt}.c26{margin-left:18pt}.c29{margin-left:27pt}.c23{padding-top:0pt}.c5{font-weight:bold}.c24{padding-top:6pt}.title{widows:2;padding-top:24pt;line-height:1.0791666666666666;orphans:2;text-align:left;color:#000000;font-size:36pt;font-family:"Calibri";font-weight:bold;padding-bottom:6pt;page-break-after:avoid}.subtitle{widows:2;padding-top:18pt;line-height:1.0791666666666666;orphans:2;text-align:left;color:#666666;font-style:italic;font-size:24pt;font-family:"Georgia";padding-bottom:4pt;page-break-after:avoid}li{color:#000000;font-size:13pt;font-family:"Calibri"}p{color:#000000;font-size:13pt;margin:0;font-family:"Calibri"}h1{widows:2;padding-top:24pt;line-height:1.0791666666666666;orphans:2;text-align:left;color:#000000;font-size:24pt;font-family:"Calibri";font-weight:bold;padding-bottom:6pt;page-break-after:avoid}h2{widows:2;padding-top:18pt;line-height:1.0791666666666666;orphans:2;text-align:left;color:#000000;font-size:18pt;font-family:"Calibri";font-weight:bold;padding-bottom:4pt;page-break-after:avoid}h3{widows:2;padding-top:14pt;line-height:1.0791666666666666;orphans:2;text-align:left;color:#000000;font-size:14pt;font-family:"Calibri";font-weight:bold;padding-bottom:4pt;page-break-after:avoid}h4{widows:2;padding-top:12pt;line-height:1.0791666666666666;orphans:2;text-align:left;color:#000000;font-size:12pt;font-family:"Calibri";font-weight:bold;padding-bottom:2pt;page-break-after:avoid}h5{widows:2;padding-top:11pt;line-height:1.0791666666666666;orphans:2;text-align:left;color:#000000;font-size:11pt;font-family:"Calibri";font-weight:bold;padding-bottom:2pt;page-break-after:avoid}h6{widows:2;padding-top:10pt;line-height:1.0791666666666666;orphans:2;text-align:left;color:#000000;font-size:10pt;font-family:"Calibri";font-weight:bold;padding-bottom:2pt;page-break-after:avoid}
+  </style>
+  <div class="c11">
+    <p class="c9">
+      <span class="c5">Wizerme Privacy and Cookie Policy
+      </span>
+    </p>
+    <p class="c9">
+      <span class="c5">&nbsp;
+      </span>
+    </p>
+    <p class="c9">
+      <span>Last Revised: April 20, 2015
+      </span>
+    </p>
+    <p class="c1">
+      <span>
+      </span>
+    </p>
+    <p class="c4">
+      <span>Welcome to the Wizer.me Platform
+      </span>
+      <span class="c3">a unique, user-friendly education platform for teachers ("
+      </span>
+      <span class="c3 c5">Wizer.me Platform
+      </span>
+      <span class="c3">" or
+      </span>
+      <span class="c3 c5">&nbsp;“Platform”
+      </span>
+      <span class="c3">)
+      </span>
+      <span>&nbsp;brought to you
+      </span>
+      <span class="c3">(“
+      </span>
+      <span class="c3 c5">you
+      </span>
+      <span class="c3">”,
+      </span>
+      <span class="c3 c5">“user”, or “teacher
+      </span>
+      <span class="c3">”)
+      </span>
+      <span>by Wizerme L.S (2015) Ltd.
+      </span>
+      <span class="c3">(“
+      </span>
+      <span class="c5">Wizerme
+      </span>
+      <span class="c3 c5">”, “we”, “us”, “our”
+      </span>
+      <span class="c3">or the "
+      </span>
+      <span class="c3 c5">Company
+      </span>
+      <span class="c3">").
+      </span>
+    </p>
+    <p class="c4 c12">
+      <span class="c3">
+      </span>
+    </p>
+    <p class="c4">
+      <span>We
+      </span>
+      <span class="c3">&nbsp;respect the privacy of our users and are committed to protect the personal information that users share with us in connection with the use of
+      </span>
+      <span>the Wizer.me Platform
+      </span>
+      <span class="c3">.
+      </span>
+    </p>
+    <p class="c4 c12">
+      <span>
+      </span>
+    </p>
+    <p class="c4">
+      <span class="c3">This Privacy and Cookie Policy (the "
+      </span>
+      <span class="c3 c5">Privacy Policy
+      </span>
+      <span class="c3">") is intended to describe our practices regarding the information we may collect from you when you use
+      </span>
+      <span>the Wizer.me Platform
+      </span>
+      <span class="c3">, the manners in which we may use such information, and the options and rights available to you.
+      </span>
+    </p>
+    <p class="c4 c12">
+      <span class="c3">
+      </span>
+    </p>
+    <p class="c4">
+      <span class="c3">Capitalized terms which are not defined herein, shall have the meaning ascribed to them in our Terms and Conditions available at
+      </span>
+      <span>www.wizer.me/terms
+      </span>
+      <span class="c5">&nbsp;
+      </span>
+      <span class="c3">(the "
+      </span>
+      <span class="c3 c5">Terms
+      </span>
+      <span class="c3">"), which this Privacy Policy is incorporated thereto by reference.
+      </span>
+    </p>
+    <p class="c9">
+      <span class="c3 c5">Your Consent
+      </span>
+    </p>
+    <p class="c4 c12">
+      <span class="c3 c5">
+      </span>
+    </p>
+    <p class="c4">
+      <span class="c3">BY ACCESSING AND/OR USING THE WIZER.ME PLATFORM, YOU AGREE TO THE TERMS AND CONDITIONS SET FORTH IN THIS PRIVACY POLICY, INCLUDING TO THE COLLECTION AND PROCESSING OF YOUR PERSONAL INFORMATION (AS DEFINED BELOW). IF YOU DISAGREE TO ANY TERM PROVIDED HEREIN, PLEASE DO NOT INSTALL, ACCESS, OR USE THE WIZER.ME PLATFORM IN ANY MANNER WHATSOEVER, AND PROMPTLY ERASE AND REMOVE THE WIZER.ME PLATFORM AND ANY PART THEREOF FROM YOUR SYSTEMS.
+      </span>
+      </p><p class="c4 c12">
+        <span class="c3">
+        </span>
+      </p>
+      <div style="padding: 10px;border: 2px solid black;">
+      <p></p>
+      <p class="c9">
+        <span class="c3 c5">Personal Identifiable Information from Children</span>
+      </p>
+    <p></p>
+    <p class="c4">
+      In accordance with COPPA we do not knowingly collect personally identifiable information online from children who are under the age of 13. You represent and warrant that you are a teacher or school administrator or otherwise authorized by a school or district to sign up on behalf of students for the Service. You further represent and warrant that you are solely responsible for complying with COPPA, meaning that you may either act as the parent’s agent and consent to the collection of the children’s information on the parent’s behalf or obtain advance written consent from all parents or guardians whose children under 13 will be accessing the Service.
+      
+      When obtaining consent, you must provide parents and guardians with the Terms and this Privacy Policy. You must keep all consents on file and provide them to us if we request them. If you are a teacher, you represent and warrant that you have permission and authorization from your school and/or district to use the Services as part of your curriculum, and for purposes of COPPA compliance, you represent and warrant that you are entering into these Terms on behalf of your school and/or district.
+      If you are a parent, guardian, and teacher and believe that your child or student has provided Wizerme with Personal Identifiable Information, you should notify us at <span class="c5 c8">
+        <a class="c14" href="mailto:support@wizer.me">support@wizer.me</a>
+      </span>  so that we may immediately delete the information from our servers.
+    </p>
+    <p class="c4">
+      <span class="c3">Please note: you are not obligated by law to provide us with any Personal Information. You hereby acknowledge and agree that you are providing us with Personal Information at your own free will, for the purposes described below, and that we may retain such Personal Information in accordance with this Privacy Policy and any applicable laws and regulations.
+      </span>
+    </p>
+  </div>
+  <p class="c4 c12">
+    <span class="c3">
+    </span>
+  </p>
+  <p class="c9">
+    <span class="c3 c5">Information Collected from Users
+    </span>
+  </p>
+  <p class="c9">
+    <span class="c3 c5">&nbsp;
+    </span>
+  </p>
+  <p class="c4">
+    <span class="c3">We may collect two types of data and information from our Users:
+    </span>
+  </p>
+  <ol class="c16 lst-kix_list_1-0 start" start="1">
+    <li class="c4 c20">
+      <span class="c0 c3">The first type of information is un-identified and non-identifiable information pertaining to a User(s), which may be made available or gathered via the User's use of
+      </span>
+      <span class="c0">the Wizer.me Platform
+      </span>
+      <span class="c0 c3">&nbsp;(
+      </span>
+      <span class="c0">“
+      </span>
+      <span class="c3 c5 c6">Non-personal Information
+      </span>
+      <span class="c0">”
+      </span>
+      <span class="c0 c3">).
+      </span>
+      <span class="c6 c3 c5">We are not aware of the identity of the User from which the Non-personal Information was collected
+      </span>
+      <span class="c0 c3">. Non-personal Information which is being collected consists of technical information and aggregated usage information, and may contain, among other things, the activity of the User on
+      </span>
+      <span class="c0">the Wizer.me Platform
+      </span>
+      <span class="c0 c3">, type of operation system, User's 'click-stream' on
+      </span>
+      <span class="c0">the Wizer.me Platform
+      </span>
+      <span class="c0 c3">&nbsp;and/or any e-commerce websites operated by third parties (including Third Party Services, as such term is defined in the Terms), browser type, language and keyboard language, etc.
+      </span>
+    </li>
+  </ol>
+  <p class="c4 c12 c26 c23">
+    <span class="c0 c3">
+    </span>
+  </p>
+  <ol class="c16 lst-kix_list_1-0" start="2">
+    <li class="c10 c21 c23">
+      <span class="c0">The second type of information is individually identifiable information, namely information that identifies an individual or may with reasonable effort identify an individual, or may be of private or sensitive nature (“
+      </span>
+      <span class="c6 c5">Personal Information
+      </span>
+      <span class="c0">”).
+      </span>
+      <span class="c6 c5">&nbsp;
+      </span>
+    </li>
+  </ol>
+  <p class="c10 c24">
+    <span>Personal Information which may be gathered consists of the following:
+    </span>
+  </p>
+  <ul class="c16 lst-kix_list_2-0 start">
+    <li class="c10 c27 c24">
+      <span>The User's IP address or other persistent user identifier, which is automatically provided by the User &nbsp;and used mainly for enhancing the User's experience and for geolocation personalization and security purposes, as further detailed below;
+      </span>
+    </li>
+    <li class="c10 c27 c24">
+      <span>Any Personal Information provided voluntarily by the User via the Wizer.me Platform, such as the User's e-mail address in order to be contacted, the User's answers to questions presented to the User through the Wizer.me Platform, including the User’s full name and password, and/or other actions performed by the User in connection with the Wizer.me Platform;
+      </span>
+    </li>
+    <li class="c10 c24 c27">
+      <span>Any Personal Information provided voluntarily by the User via their Third Party Service accounts;
+      </span>
+    </li>
+    <li class="c10 c17">
+      <span>Personal Information regarding Student Activity including timestamps and events for when a student accomplishes a particular assignment as designated by a User; and/or
+      </span>
+    </li>
+    <li class="c10 c17">
+      <span class="c3">Personal information regarding User’s transactions on the Marketplace.
+      </span>
+    </li>
+  </ul>
+  <p class="c10">
+    <span>For avoidance of doubt, any Non-personal Information connected or linked to any Personal Information shall be deemed as Personal Information as long as such connection or linkage exists.
+    </span>
+  </p>
+  <p class="c10">
+    <span class="c5">We do not collect any Personal Information from you or related to you without your approval, which is obtained,
+    </span>
+    <span class="c2">inter alia
+    </span>
+    <span class="c5">, through your active acceptance to the Terms and this Privacy Policy.
+    </span>
+  </p>
+  <p class="c10 c12">
+    <span class="c5">
+    </span>
+  </p>
+  <p class="c10 c12">
+    <span class="c5">
+    </span>
+  </p>
+  <p class="c10 c12">
+    <span class="c5">
+    </span>
+  </p>
+  <p class="c9">
+    <span class="c5">How We Collect Information on Our Users
+    </span>
+  </p>
+  <p class="c22">
+    <span class="c5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </span>
+  </p>
+  <p class="c4">
+    <span class="c3">There are two main methods we use:
+    </span>
+  </p>
+  <p class="c4 c12">
+    <span class="c3">
+    </span>
+  </p>
+  <ol class="c16 lst-kix_list_3-0 start" start="1">
+    <li class="c10 c20">
+      <span class="c5">We collect information through your use of the Wizer.me Platform
+      </span>
+      <span>. In other words, when you are using the Wizer.me Platform we are aware of it and may gather, collect and record the information relating to such usage, either independently or through the help of third-party services as detailed below.
+      </span>
+    </li>
+    <li class="c4 c21">
+      <span class="c5">We collect information
+      </span>
+      <span class="c3 c5">&nbsp;which you provide us voluntarily
+      </span>
+      <span class="c3">. For example,
+      </span>
+      <span>we collect Personal Informatio
+      </span>
+      <span class="c3">n which you voluntarily provide when you contact us directly. We may also collect Personal Information you voluntarily provide through integration with your Twitter, Facebook, Pinterest, Gmail and/or Edmodo account.
+      </span>
+    </li>
+  </ol>
+  <p class="c4 c26">
+    <span class="c3">&nbsp;
+    </span>
+  </p>
+  <p class="c4">
+    <span class="c3">We store the Personal Information either independently or through the help of our authorized third-party service providers as detailed below.
+    </span>
+  </p>
+  <p class="c4">
+    <span class="c3">&nbsp;
+    </span>
+  </p>
+  <p class="c9 c29">
+    <span class="c3 c5">Purposes of the Collection of Information
+    </span>
+  </p>
+  <p class="c1 c29">
+    <span class="c3 c5">
+    </span>
+  </p>
+  <p class="c4">
+    <span class="c3">We collect Non-personal and Personal Information in order to provide and operate
+    </span>
+    <span>the Wizer.me Platform
+    </span>
+    <span class="c3">, including for statistical and research purposes; to enable us to further develop, customize and improve
+    </span>
+    <span>the Wizer.me Platform
+    </span>
+    <span class="c3">&nbsp;based on Users common preferences and uses; and to enable us to provide our Users with a better user experience, with more relevant features and other materials, and with technical assistance and support.
+    </span>
+  </p>
+  <p class="c4">
+    <span class="c3">&nbsp;
+    </span>
+  </p>
+  <p class="c9 c13">
+    <span class="c3 c5">Sharing Information with Third Parties
+    </span>
+  </p>
+  <p class="c1 c13">
+    <span class="c3 c5">
+    </span>
+  </p>
+  <p class="c4">
+    <span class="c3">Wizerme will not share any Personal Information it collects with any third party. Notwithstanding the foregoing, we may disclose Personal Information in the following cases: (a) to satisfy any applicable law, regulation, legal process, subpoena or governmental request; (b) to enforce this Privacy Policy and/or the Terms, including investigation of potential violations thereof; (c) to detect, prevent, or otherwise address fraud, security or technical issues; (d) to respond to User's support requests; (e) to respond to claims that any content available on the Site violates the rights of third-parties; (f) to respond to claims that contact information (e.g. name, e-mail address, etc.) of a third-party has been posted or transmitted without their consent or as a form of harassment; (g) to protect the rights, property, or personal safety of Wizerme, its Users, or the general public; (h) when Wizerme or any of its affiliates is undergoing any change in control, including by means of merger, acquisition or purchase of all or substantially all of its assets; (i) to collect, hold and/or manage your Personal Information through the Wizerme 's authorized third party service providers, as reasonable for business purposes, which may be located in a country that does not have the same data protection laws as your jurisdiction; (j) pursuant to your explicit approval prior to the disclosure; or (k) to cooperate with third parties for the purpose of enhancing the User's experience.
+    </span>
+  </p>
+  <p class="c4">
+    <span class="c3">&nbsp;
+    </span>
+  </p>
+  <p class="c4">
+    <span class="c3">For avoidance of doubt, Wizerme may transfer and disclose to third parties or otherwise use
+    </span>
+    <span class="c3 c30">Non-personal Information
+    </span>
+    <span class="c3">&nbsp;at its sole discretion.
+    </span>
+  </p>
+  <p class="c4">
+    <span class="c3">&nbsp;
+    </span>
+  </p>
+  <p class="c9">
+    <span class="c3 c5">Deletion of Personal Information
+    </span>
+  </p>
+  <p class="c1">
+    <span class="c3 c5">
+    </span>
+  </p>
+  <p class="c4">
+    <span>If for any reason you wish us to delete your Personal Information stored with us and identifying to you, please send us an e-mail to:
+    </span>
+    <span class="c5">&nbsp;
+    </span>
+    <span class="c5 c8">
+      <a class="c14" href="mailto:support@wizer.me">support@wizer.me
+      </a>
+    </span>
+    <span class="c5">&nbsp;
+    </span>
+    <span>and we will make reasonable efforts to delete any such Personal Information pursuant to any applicable privacy laws.
+    </span>
+    <span class="c3">&nbsp;
+    </span>
+    <span>Note that unless you instruct us otherwise we may retain your Personal Information for a period of 7 years or a longer period as reasonably and legally required.
+    </span>
+    <span class="c3">&nbsp;A parent of any student may contact us to delete the Personal Information of their child
+    </span>
+    <span>and we will make reasonable efforts to delete any such Personal Information pursuant to any applicable privacy laws
+    </span>
+  </p>
+  <p class="c1">
+    <span class="c3 c5">
+    </span>
+  </p>
+  <p class="c9">
+    <span class="c3 c5">Security
+    </span>
+  </p>
+  <p class="c9">
+    <span class="c3 c5">&nbsp;
+    </span>
+  </p>
+  <p class="c4">
+    <span class="c3">We take a great care in
+    </span>
+    <span>implementing
+    </span>
+    <span class="c3">&nbsp;and maintaining the security of
+    </span>
+    <span>the Wizer.me Platform
+    </span>
+    <span class="c3">, and
+    </span>
+    <span>the User's Personal Information. The Personal Information is hosted on Heroku, which provides advanced security features. The Company employs industry standard procedures and policies to ensure the safety of its Users’ Personal Information, and prevent unauthorized use of any such information.
+    </span>
+    <span class="c3">However, we do not and cannot guarantee that unauthorized access will never occur.
+    </span>
+  </p>
+  <p class="c4 c12">
+    <span class="c3">
+    </span>
+  </p>
+  <p class="c9">
+    <span class="c3 c5">Third Party Software/Service
+    </span>
+  </p>
+  <p class="c9">
+    <span class="c3 c5">&nbsp;
+    </span>
+  </p>
+  <p class="c4">
+    <span class="c3">While using
+    </span>
+    <span>the Wizer.me Platform
+    </span>
+    <span class="c3">&nbsp;we may be using third party software and/or service, in order to collect and/or process the information detailed herein. Such software includes without limitation, Google Analytics, which privacy policy is available at
+    </span>
+    <span class="c19">
+      <a class="c14" href="http://www.google.com/intl/en/analytics/privacyoverview.html">http://www.google.com/intl/en/analytics/privacyoverview.html
+      </a>
+    </span>
+    <sup>
+    <a href="#cmnt1" name="cmnt_ref1">[a]
+    </a>
+    </sup>
+    <span class="c3">; and Heroku, which privacy policy is available at
+    </span>
+    <span class="c25">
+      <a class="c14" href="https://www.google.com/url?q=https%3A%2F%2Fwww.heroku.com%2Fpolicy%2Fprivacy&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEY7ApjlInihpG2bcYEikT_JavTJw">https://www.heroku.com/policy/privacy
+      </a>
+    </span>
+    <span class="c3">.
+    </span>
+  </p>
+  <p class="c4 c12">
+    <span class="c3">
+    </span>
+  </p>
+  <p class="c9">
+    <span class="c3 c5">Third Party Services
+    </span>
+  </p>
+  <p class="c9">
+    <a name="h.gjdgxs">
+    </a>
+    <span class="c3 c5">&nbsp;
+    </span>
+  </p>
+  <p class="c4">
+    <span class="c3">While using
+    </span>
+    <span>the Wizer.me Platform
+    </span>
+    <span class="c3">&nbsp;you may encounter links to Third Party Content and/or Third Party Services. Please be advised that such Third Party Services are independent from the Company, and if you click on any of these third party links, these Third Party Services may use cookies and other web-tracking technologies to collect non-personal and/or personal information about you. &nbsp;We assume no responsibility or liability whatsoever with regard to privacy matters or any other legal matter with respect to such services. We encourage you to carefully read the privacy policies and the terms of use or service of such third parties, as their terms, not ours, will apply to any of your interactions with such third parties.
+    </span>
+  </p>
+  <p class="c4 c12">
+    <span class="c3">
+    </span>
+  </p>
+  <p class="c9">
+    <span class="c3 c5">Cookies
+    </span>
+  </p>
+  <p class="c9">
+    <span class="c3 c5">&nbsp;
+    </span>
+  </p>
+  <p class="c4">
+    <span class="c3">When you access or use
+    </span>
+    <span>the Wizer.me Platform
+    </span>
+    <span class="c3">, Wizerme may use industry-wide technologies such as "cookies" (or similar technologies), which store certain information on your computer ("
+    </span>
+    <span class="c3 c5">Local Storage
+    </span>
+    <span class="c3">") and which will allow us to enable automatic activation of certain features, and make your service experience much more convenient and effortless. The cookies used by
+    </span>
+    <span>the Wizer.me Platform
+    </span>
+    <span class="c3">&nbsp;are created per session, do not include any information about you other than your session key, and are removed as your session ends. It is easy to prohibit the Local Storage. Most browsers will allow you to erase cookies from your computer's hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. However, if you block or erase cookies your online experience may be limited.
+    </span>
+  </p>
+  <p class="c4 c12">
+    <span class="c3">
+    </span>
+  </p>
+  <p class="c9">
+    <span class="c3 c5">Changes to the Privacy Policy
+    </span>
+  </p>
+  <p class="c1">
+    <span class="c3 c5">
+    </span>
+  </p>
+  <p class="c4">
+    <span class="c3">Wizerme reserves the right to change this Privacy Policy at any time and at its sole discretion, so please re-visit this page frequently. We will provide notice of substantial changes of this Privacy Policy on the homepage of the Site and/or we will notify you via
+    </span>
+    <span>the Wizer.me Platform
+    </span>
+    <span class="c3">&nbsp;regarding such changes. Such substantial changes will take effect seven (7) days after such notice was provided on any of the abovementioned methods. Otherwise, all other changes to this Privacy Policy are effective as of the stated “Last Revised” date and your continued use of
+    </span>
+    <span>the Wizer.me Platform
+    </span>
+    <span class="c3">&nbsp;after the Last Revised date will constitute acceptance of, and agreement to be bound by, those changes.
+    </span>
+  </p>
+  <p class="c28 c24 c32">
+    <span class="c3 c5">How to Contact Us
+    </span>
+  </p>
+  <p class="c10 c24">
+    <span class="c3">If you have any questions (or comments) concerning this Privacy Policy, you are welcome to send us an e-mail at
+    </span>
+    <span>:
+    </span>
+    <span class="c8 c5">
+      <a class="c14" href="mailto:support@wizer.me">support@wizer.me
+      </a>
+    </span>
+    <span>&nbsp;
+    </span>
+    <span class="c3">and we will make an effort to
+    </span>
+    <span class="c3 c5">&nbsp;
+    </span>
+    <span class="c3">reply within a reasonable timeframe.
+    </span>
+  </p>
+  <p class="c10 c12 c26 c24">
+    <span class="c3">
+    </span>
+  </p>
+  <p class="c12 c15">
+    <span>
+    </span>
+  </p>
+  <p class="c12 c28">
+    <span>
+    </span>
+  </p>
+</div>
+</div>
+</div>
+<section>
+    <div class="footer-container">
+  <div class="footer">
+    <ul>
+      <li>
+        <a target="_self" href="/privacy">Privacy</a>
+      </li>
+      <li>
+        <a target="_self" href="/tos">Terms Of Service</a>
+      </li>
+      <li>
+        <a target="_self" href="/contactus">Contact us</a>
+      </li>
+    </ul>
+    <p class="copyright">
+      © Wizerme L.S (2015) Ltd.
+    </p>
+    <div class="social">
+      <a href="http://twitter.com/wizerme" target="_blank">
+        <span class="fa-stack fa-lg">
+          <i class="fa fa-circle fa-stack-2x"></i>
+          <i class="fa fa fa-twitter fa-stack-1x fa-inverse"></i>
+        </span>
+      </a>
+      <a href="https://www.facebook.com/wizerworksheets" target="_blank">
+        <span class="fa-stack fa-lg">
+          <i class="fa fa-circle fa-stack-2x"></i>
+          <i class="fa fa fa-facebook fa-stack-1x fa-inverse"></i>
+        </span>
+      </a>
+    </div>
+  </div>
+  <script>
+  (function(i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r;
+    i[r] = i[r] || function() {
+      (i[r].q = i[r].q || []).push(arguments)
+    }, i[r].l = 1 * new Date();
+    a = s.createElement(o),
+      m = s.getElementsByTagName(o)[0];
+    a.async = 1;
+    a.src = g;
+    m.parentNode.insertBefore(a, m)
+  })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+  ga('create', 'UA-51170255-4', 'auto');
+  ga('send', 'pageview');
+  </script>
+  <!-- Start intercom -->
+  <script>
+  if (window.location.pathname.indexOf('/learn') != 0) {
+    window.intercomSettings = {
+      app_id: "dkewtuyi"
+      
+    };
+  }
+  </script>
+  <script>
+  (function() {
+    var w = window;
+    var ic = w.Intercom;
+    if (typeof ic === "function") {
+      ic('reattach_activator');
+      ic('update', intercomSettings);
+    } else {
+      var d = document;
+      var i = function() {
+        i.c(arguments)
+      };
+      i.q = [];
+      i.c = function(args) {
+        i.q.push(args)
+      };
+      w.Intercom = i;
+
+      function l() {
+        var s = d.createElement('script');
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = 'https://widget.intercom.io/widget/dkewtuyi';
+        var x = d.getElementsByTagName('script')[0];
+        x.parentNode.insertBefore(s, x);
+      }
+      if (w.attachEvent) {
+        w.attachEvent('onload', l);
+      } else {
+        w.addEventListener('load', l, false);
+      }
+    }
+  })()
+  </script>
+  <!-- end intercom -->
+</div>
+
+</section>
+</md-content>
+</section>
+        <!--
+            Client-side Templates
+            ========================
+            HTML templates are important prerequisites of modern, rich client applications.
+            To work their magic, frameworks like Backbone, Angular, Ember, and Knockout require
+            that you load these templates client-side.
+            By default, your Gruntfile is configured to automatically load and precompile
+            client-side JST templates in your `assets/templates` folder, then
+            include them here automatically (between TEMPLATES and TEMPLATES END).
+            
+            To customize this behavior to fit your needs, just edit `tasks/pipeline.js`.
+            For example, here are a few things you could do:
+            + Import templates from other directories
+            + Use a different template engine (handlebars, jade, dust, etc.)
+            + Internationalize your client-side templates using a server-side
+            stringfile before they're served.
+            -->
+            <!--TEMPLATES-->
+            <script type="text/javascript" src="/jst.js?v=2.11.1"></script>
+            <!--TEMPLATES END-->
+            <!--
+            Client-side Javascript
+            ========================
+            You can always bring in JS files manually with `script` tags, or asynchronously
+            on the client using a solution like AMD (RequireJS).  Or, if you like, you can
+            take advantage of Sails' conventional asset pipeline (boilerplate Gruntfile).
+            By default, files in your `assets/js` folder are included here
+            automatically (between SCRIPTS and SCRIPTS END).  Both JavaScript (.js) and
+            CoffeeScript (.coffee) are supported. In production, your scripts will be minified
+            and concatenated into a single file.
+            
+            To customize any part of the built-in behavior, just edit `tasks/pipeline.js`.
+            For example, here are a few things you could do:
+            
+            + Change the order of your scripts
+            + Import scripts from other directories
+            + Use a different preprocessor, like TypeScript
+            -->
+        <!--SCRIPTS-->
+        <script src="/min/production.min.js?v=2.11.1"></script>
+        <!--SCRIPTS END-->
+
+
+
+</body></html>
