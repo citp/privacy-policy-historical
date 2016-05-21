@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cgproprints.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120183544id_/http%3A//www.cgproprints.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgproprints.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521032416id_/http%3A//www.cgproprints.com/privacy) for the most accurate reproduction.*
 
 # CG Pro Prints Privacy Policy
 
