@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chestofbooks.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905081143id_/http%3A//chestofbooks.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chestofbooks.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521184821id_/http%3A//chestofbooks.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
