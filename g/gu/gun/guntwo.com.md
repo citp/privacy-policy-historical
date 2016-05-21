@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guntwo.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622001541id_/http%3A//www.guntwo.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guntwo.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521223629id_/http%3A//www.guntwo.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
