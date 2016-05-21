@@ -1,14 +1,13 @@
-<!--The following is the downloaded HTML source of the mathworks.in privacy policy that was archived on 2015-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151227043518id_/http%3A//www.mathworks.com/company/aboutus/policies_statements/%3Fs_tid%3Dgf_priv) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mathworks.in privacy policy that was archived on 2016-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160522002418id_/http%3A//www.mathworks.com/company/aboutus/policies_statements/%3Fs_tid%3Dgf_priv) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head><script type="text/javascript" async="" src="//s3.amazonaws.com/ki.js/49559/ahy.js"></script><script type="text/javascript" async="" src="//img.en25.com/i/elqCfg.min.js"></script><script src="https://secure.quantserve.com/aquant.js?a=p-zfNtLVVEHXE-1" async="" type="text/javascript"></script><script type="text/javascript" async="async" src="https://dpm.demdex.net/id?d_visid_ver=1.5.2&amp;d_rtbd=json&amp;d_ver=2&amp;d_orgid=B1441C8B533095C00A490D4D%40AdobeOrg&amp;d_nsid=0&amp;d_mid=92123702856383765722977482636282912152&amp;d_cb=s_c_il%5B0%5D._setAudienceManagerFields"></script>
+<!DOCTYPE html><html><head><script src="https://web.archive.org/web/20160403053120/https://secure.quantserve.com/aquant.js?a=p-zfNtLVVEHXE-1" async="" type="text/javascript"></script><script type="text/javascript" async="async" src="https://dpm.demdex.net/id?d_visid_ver=1.5.2&amp;d_rtbd=json&amp;d_ver=2&amp;d_orgid=B1441C8B533095C00A490D4D%40AdobeOrg&amp;d_nsid=0&amp;d_mid=17391682547702928475943622929146760510&amp;d_cb=s_c_il%5B0%5D._setAudienceManagerFields"></script>
 <title>Policies and Statements</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<link rel="canonical" href="http://www.mathworks.com/company/aboutus/policies_statements/?s_tid=gf_priv">
 <!-- BEGIN Adobe DTM -->
-<script src="/scripts/dtm/d0cc0600946eb3957f703b9fe43c3590597a8c2c/satelliteLib-e8d23c2e444abadc572df06537e2def59c01db09.js"></script><script src="https://www.mathworks.com/scripts/dtm/d0cc0600946eb3957f703b9fe43c3590597a8c2c/mbox-contents-95c6a4d9c82a8d20476522984666120b54192e9b.js"></script>
+<script src="/scripts/dtm/d0cc0600946eb3957f703b9fe43c3590597a8c2c/satelliteLib-e8d23c2e444abadc572df06537e2def59c01db09.js"></script><script src="https://web.archive.org/web/20160403053120/https://www.mathworks.com/includes_content/jscript/adobe/mbox.js"></script><style type="text/css">{visibility: hidden;}</style><script src="https://www.mathworks.com/scripts/dtm/d0cc0600946eb3957f703b9fe43c3590597a8c2c/scripts/satellite-56972e2c64746d54aa00cb73.js"></script><style type="text/css">{visibility: hidden;}</style><style>.mboxDefault { visibility:hidden; }</style>
 <!-- END Adobe DTM -->
 <link href="/includes_content/responsive/css/bootstrap/bootstrap.min.css" rel="stylesheet" type="text/css">
 <link href="/includes_content/responsive/css/site6.css?201507" rel="stylesheet" type="text/css">
@@ -26,23 +25,6 @@
 <link href="/includes_content/responsive/css/site6_ie9.css" rel="stylesheet" type="text/css">
 <![endif]-->
 <link href="/includes_content/responsive/css/site6_print.css" rel="stylesheet" type="text/css" media="print">
-<!-- Begin Eloqua 1st Party Cookie Tracking Script-->
-<script type="text/javascript">
-var _elqQ = _elqQ || [];
-_elqQ.push(['elqSetSiteId', '646005169']);
-_elqQ.push(['elqTrackPageView']);
-_elqQ.push(['elqUseFirstPartyCookie', 'tracking.mathworks.com']);
-(function () {
-function async_load() {
-var s = document.createElement('script'); s.type = 'text/javascript';
-s.async = true; s.src = '//img.en25.com/i/elqCfg.min.js';
-var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
-}
-if (window.addEventListener) window.addEventListener('DOMContentLoaded', async_load, false);
-else if (window.attachEvent) window.attachEvent('onload', async_load);
-})();
-</script>
-<!--End Eloqua 1st Party Cookie Tracking Script-->
 <script src="/includes_content/responsive/scripts/jquery/jquery-latest.js"></script>
 <script src="/includes_content/responsive/scripts/jquery/jquery.mobile.custom.min.js"></script>
 <script src="/includes_content/responsive/scripts/bootstrap/bootstrap.min.js"></script>
@@ -82,12 +64,53 @@ queries[i[0].toString()] = i[1].toString();
 var requested_domain = (queries['requestedDomain'] != undefined) ? queries['requestedDomain'] : "";
 var nocookie = (queries['nocookie'] != undefined) ? queries['nocookie'] : "";
 var client = (queries['client'] != undefined) ? queries['client'] : "";
-if(requested_domain == "" || nocookie == "true" || !cookiesEnabled() || client == "addons") {
+if(requested_domain == "" || nocookie == "true" || !cookiesEnabled() || client == "addons" || window.overrideDomainSelector) {
 displayDomainSelector = false;
 }
 }
 detectDomain();
+function extractDomain(url) {
+var domain;
+//find & remove protocol (http, ftp, etc.) and get domain
+if (url.indexOf("://") > -1) {
+domain = url.split('/')[2];
+} else {
+domain = url.split('/')[0];
+}
+//find & remove port number
+domain = domain.split(':')[0];
+return domain;
+}
+function getDomainContent(returnContent) {
+// Get the location information from the marketing site
+$.ajax({
+url : "/includes_content/domainSelect/location.html",
+type : "get",
+async: false,
+success : function(data) {
+$("#location_content").html(data);
+var button_link = $("#button_link").text();
+var current_location = $("#current_location").text();
+var location_key = $("#location_key").text();
+//Set the location in the text and button
+$(".text_location").text(current_location);
+$("#domain_select_button").text("Select " + current_location);
+// if the current location is different from the browser location, update the button functionality
+var browser_domain = extractDomain(window.location.href);
+if(button_link.indexOf(browser_domain) == -1) {
+// Get the current page link from the links within the selector
+new_button_link = $("." + location_key).attr("href");
+$("#domain_select_button").attr("href",new_button_link);
+$("#domain_select_button").removeAttr("data-dismiss");
+}
+}
+});
+if(returnContent) {
+return $('#country-unselected').html();
+}
+}
 $(document).ready(function () {
+//setLocation();
 // determine if links need to be rewritten
 if ( $( "#country-unselected li a" ).length ) {
 $("#country-unselected li a").each(function() {
@@ -109,6 +132,9 @@ var link_url = $(this).attr("href").replace(/%26requestedDomain(%3D[^%26|&]*)?|r
 $(this).attr("href", link_url);
 });
 }
+$('body').on('click','.footernav_country a',function(){
+getDomainContent(false);
+});
 // set the click function for Switzerland/French link
 $('body').on('click','#swiss_french',function(){
 setDomainLanguage('fr');
@@ -119,14 +145,15 @@ setDomainLanguage('de');
 });
 });
 // onload functionality for the selector
-$(document).ready(function ($) {
+$(document).ready(function () {
 if(displayDomainSelector) {
+getDomainContent(false);
 $('#country-unselected').modal('show');
 }
 });
 })(jQuery);
 </script>
-<script src="https://www.mathworks.com/scripts/dtm/d0cc0600946eb3957f703b9fe43c3590597a8c2c/s-code-contents-73da148cb454c4f6e395aa8df704854c99540662.js"></script></head>
+<style type="text/css">{visibility: hidden;}</style><style type="text/css">{visibility: hidden;}</style><style type="text/css">{visibility: hidden;}</style><style type="text/css">{visibility: hidden;}</style><script src="https://www.mathworks.com/scripts/dtm/d0cc0600946eb3957f703b9fe43c3590597a8c2c/s-code-contents-73da148cb454c4f6e395aa8df704854c99540662.js"></script><script src="https://themathworksinc.tt.omtrdc.net/m2/themathworksinc/mbox/ajax?mboxHost=web.archive.org&amp;mboxPage=1580477898166-394740&amp;screenHeight=600&amp;screenWidth=800&amp;browserWidth=1366&amp;browserHeight=768&amp;browserTimeOffset=0&amp;colorDepth=24&amp;mboxSession=1580477895548-317448&amp;mboxXDomain=enabled&amp;mboxMCGVID=17391682547702928475943622929146760510&amp;mboxCount=1&amp;mboxTime=1580477898166&amp;mbox=pk_da_bhag&amp;mboxId=0&amp;mboxMCSDID=3C30C45FFDBF4975-7EDCBC9F7617653A&amp;profile.imc=dataa&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20160522002418id_%2Fhttp%253A%2F%2Fwww.mathworks.com%2Fcompany%2Faboutus%2Fpolicies_statements%2F%253Fs_tid%253Dgf_priv&amp;mboxReferrer=&amp;mboxVersion=58"></script></head>
   
 <body id="responsive_b" style="">
 
@@ -142,9 +169,7 @@ $('#country-unselected').modal('show');
 <span class="icon-menu"></span>
 </button>
 <a href="http://www.mathworks.com/index.html?s_tid=gn_logo" class="svg_link navbar-brand">
-<object data="/images/responsive/global/pic-header-mathworks-logo.svg" alt="MathWorks" class="mw_logo" type="image/svg+xml">
-<img src="/images/responsive/global/pic-header-mathworks-logo.png" class="mw_logo" alt="MathWorks">
-</object>
+<img src="/images/responsive/global/pic-header-mathworks-logo.svg" class="mw_logo" alt="MathWorks">
 </a>
 </div>
 </div>
@@ -154,7 +179,7 @@ $('#country-unselected').modal('show');
 <div class="navbar-collapse collapse" id="topnav_collapse">
 <ul class="nav navbar-nav" id="topnav">
 <li class="headernav_login">
-<a href="https://www.mathworks.com/accesslogin/login.do?uri=http://www.mathworks.com/company/aboutus/policies_statements/index.html%3Fs_tid%3Dgf_priv" class="mwa-nav_login">Log In</a>
+<a href="https://www.mathworks.com/login?uri=http://www.mathworks.com/company/aboutus/policies_statements/index.html%3Fs_tid%3Dgf_priv" class="mwa-nav_login">Log In</a>
 </li>
 <li class="topnav_products "><a href="http://www.mathworks.com/products/?s_tid=gn_ps">Products</a></li>
 <li class="topnav_solutions "><a href="http://www.mathworks.com/solutions/?s_tid=gn_sol">Solutions</a></li>
@@ -164,7 +189,7 @@ $('#country-unselected').modal('show');
 <li class="topnav_events "><a href="http://www.mathworks.com/company/events/?s_tid=gn_ev">Events</a></li>
 <li class="topnav_company active"><a href="http://www.mathworks.com/company/?s_tid=gn_co">Company</a></li>
 <li class="headernav_contact"><a href="http://www.mathworks.com/company/aboutus/contact_us/?s_tid=gn_cntus">Contact Us</a></li>
-<li class="headernav_store"><a href="http://www.mathworks.com/store/default.do?s_cid=store_top_nav&amp;s_tid=gn_store">How To Buy</a></li>
+<li class="headernav_store"><a href="http://www.mathworks.com/store?s_cid=store_top_nav&amp;s_tid=gn_store">How To Buy</a></li>
 </ul>
 </div>
 </div>
@@ -182,9 +207,9 @@ $('#country-unselected').modal('show');
 <div class="collapse navbar-collapse" id="headernav_collapse">
 <ul class="nav navbar-nav navbar-right" id="headernav">
 <li class="headernav_contact"><a href="http://www.mathworks.com/company/aboutus/contact_us/?s_tid=gn_cntus">Contact Us</a></li>
-<li class="headernav_store"><a href="http://www.mathworks.com/store/default.do?s_cid=store_top_nav&amp;s_tid=gn_store">How To Buy</a></li>
+<li class="headernav_store"><a href="http://www.mathworks.com/store?s_cid=store_top_nav&amp;s_tid=gn_store">How To Buy</a></li>
 <li class="headernav_login">
-<a href="https://www.mathworks.com/accesslogin/login.do?uri=http://www.mathworks.com/company/aboutus/policies_statements/index.html%3Fs_tid%3Dgf_priv" class="mwa-nav_login">Log In</a>
+<a href="https://www.mathworks.com/login?uri=http://www.mathworks.com/company/aboutus/policies_statements/index.html%3Fs_tid%3Dgf_priv" class="mwa-nav_login">Log In</a>
 </li>
 </ul>
 </div>
@@ -195,9 +220,7 @@ $('#country-unselected').modal('show');
 <div class="navbar-header">
 <div class="logo_container hidden-xs hidden-sm">
 <a href="http://www.mathworks.com/index.html?s_tid=gn_logo" class="svg_link pull-left">
-<object data="/images/responsive/global/pic-header-mathworks-logo.svg" alt="MathWorks" class="mw_logo" type="image/svg+xml">
-<img src="/images/responsive/global/pic-header-mathworks-logo.png" alt="MathWorks">
-</object>
+<img src="/images/responsive/global/pic-header-mathworks-logo.svg" class="mw_logo" alt="MathWorks">
 </a>
 </div>
 <div class="navbar-collapse collapse hidden-xs hidden-sm">
@@ -239,7 +262,7 @@ $('#country-unselected').modal('show');
 </div>
 <button class="btn icon-remove btn_search pull-right icon_32 visible-xs" data-toggle="collapse" href="#mobile_search" aria-expanded="false" aria-controls="mobile_search"></button>
 </div>
-<div class="col-sm-6 col-sm-pull-6 col-md-7 col-md-pull-5" id="section_header_title">
+<div class="col-sm-6 col-sm-pull-6 col-md-7 col-md-pull-5 has_horizontal_local_nav" id="section_header_title">
 <div class="section_header_content">
 <div class="section_header_title">
 <p class="h1">About Us</p>
@@ -521,10 +544,11 @@ You can remove your name from e-mail lists:
  
  
 
-                                                                          
+
+<div id="location_content" style="display:none;"></div>
 
 
-<div class="modal fade" id="country-unselected">
+<div class="modal fade" id="country-unselected" translate="no">
   <div class="modal-dialog modal-lg">
     <div class="modal-content">
       <div class="modal-header">
@@ -537,15 +561,17 @@ You can remove your name from e-mail lists:
         <div class="row add_margin_40">
           <div class="col-xs-12">
             <h1 class="icon-globe icon_color_secondary">Select Your Country</h1>
-            <p>Choose your country to get translated content where available and see local events and offers. Based on your location, we recommend you select <strong>United States</strong> from the following list:</p>
+            <p>Choose your country to get translated content where available and see local events and offers. Based on your location, we recommend that you select: <strong class="text_location"></strong>.</p>
+            <a href="#" id="domain_select_button" class="btn btn_secondary" data-dismiss="modal"></a>
           </div>
         </div>
+        <p>You can also select a location from the following list:</p>
         <div class="row add_margin_30">
           <div class="col-sm-4 col-md-3">
             <h3 class="add_bottom_rule">Americas</h3>
             <ul class="list-unstyled">
-              <li><a href="https://www.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop">Canada</a> (English)</li>
-              <li><a href="https://www.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop">United States</a> (English)</li>
+              <li><a href="http://www.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop" class="canada_select">Canada</a> (English)</li>
+              <li><a href="http://www.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop" class="united_states_select">United States</a> (English)</li>
             </ul>
           </div>
           <div class="col-sm-4 col-md-6">
@@ -553,31 +579,31 @@ You can remove your name from e-mail lists:
             <div class="row">
               <div class="col-xs-6 col-sm-12 col-md-6">
                 <ul class="list-unstyled add_margin_0_sm">
-                  <li><a href="https://nl.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop">Belgium</a> (English)</li>
-                  <li><a href="https://se.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop">Denmark</a> (English)</li>
-                  <li><a href="https://de.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop">Deutschland</a> (Deutsch)</li>
-                  <li><a href="https://es.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop">España</a> (Español)</li>
-                  <li><a href="https://se.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop">Finland</a> (English)</li>
-                  <li><a href="https://fr.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop">France</a> (Français)</li>
-                  <li><a href="https://uk.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop">Ireland</a> (English)</li>
-                  <li><a href="https://it.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop">Italia</a> (Italiano)</li>
-                  <li><a href="https://nl.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop">Luxembourg</a> (English)</li>
+                  <li><a href="http://nl.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop" class="belgium_select">Belgium</a> (English)</li>
+                  <li><a href="http://se.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop" class="denmark_select">Denmark</a> (English)</li>
+                  <li><a href="http://de.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop" class="deutschland_select">Deutschland</a> (Deutsch)</li>
+                  <li><a href="http://es.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop" class="espana_select">España</a> (Español)</li>
+                  <li><a href="http://se.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop" class="finland_select">Finland</a> (English)</li>
+                  <li><a href="http://fr.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop" class="france_select">France</a> (Français)</li>
+                  <li><a href="http://uk.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop" class="ireland_select">Ireland</a> (English)</li>
+                  <li><a href="http://it.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop" class="italia_select">Italia</a> (Italiano)</li>
+                  <li><a href="http://nl.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop" class="luxembourg_select">Luxembourg</a> (English)</li>
                 </ul>
               </div>
               <div class="col-xs-6 col-sm-12 col-md-6">
                 <ul class="list-unstyled">
-                  <li><a href="https://nl.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop">Netherlands</a> (English)</li>
-                  <li><a href="https://se.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop">Norway</a> (English)</li>
-                  <li><a href="https://de.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop">Österreich</a> (Deutsch)</li>
-                  <li><a href="https://www.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop">Portugal</a> (English)</li>
-                  <li><a href="https://se.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop">Sweden</a> (English)</li>
+                  <li><a href="http://nl.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop" class="netherlands_select">Netherlands</a> (English)</li>
+                  <li><a href="http://se.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop" class="norway_select">Norway</a> (English)</li>
+                  <li><a href="http://de.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop" class="osterreich_select">Österreich</a> (Deutsch)</li>
+                  <li><a href="http://www.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop" class="portugal_select">Portugal</a> (English)</li>
+                  <li><a href="http://se.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop" class="sweden_select">Sweden</a> (English)</li>
                   <li>Switzerland
                     <ul class="list-unstyled add_indent_20">
-                      <li><a href="https://ch.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop" id="swiss_german">Deutsch</a></li>
-                      <li><a href="https://ch.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop" id="swiss_french">Français</a></li>
+                      <li><a href="http://ch.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop" id="swiss_german" class="switzerland_select">Deutsch</a></li>
+                      <li><a href="http://ch.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop" id="swiss_french">Français</a></li>
                     </ul>
                   </li>
-                  <li><a href="https://uk.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop">United Kingdom</a> (English)</li>
+                  <li><a href="http://uk.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop" class="united_kingdom_select">United Kingdom</a> (English)</li>
                 </ul>
               </div>
             </div>
@@ -585,12 +611,12 @@ You can remove your name from e-mail lists:
           <div class="col-sm-4 col-md-3">
             <h3 class="add_bottom_rule">Asia Pacific</h3>
             <ul class="list-unstyled">
-              <li><a href="https://au.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop">Australia</a> (English)</li>
-              <li><a href="https://in.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop">India</a> (English)</li>
-              <li><a href="https://au.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop">New Zealand</a> (English)</li>
-              <li><a href="https://cn.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop">中国</a> (简体中文))</li>
-              <li><a href="https://jp.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_dropp">日本</a> (日本語)</li>
-              <li><a href="https://kr.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop">한국</a> (한국어)</li>
+              <li><a href="http://au.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop" class="australia_select">Australia</a> (English)</li>
+              <li><a href="http://in.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop" class="india_select">India</a> (English)</li>
+              <li><a href="http://au.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop" class="new_zealand_select">New Zealand</a> (English)</li>
+              <li><a href="http://cn.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop" class="china_select">中国</a> (简体中文)</li>
+              <li><a href="http://jp.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop" class="japan_select">日本</a> (日本語)</li>
+              <li><a href="http://kr.mathworks.com/company/aboutus/policies_statements/index.html?action=changeCountry&amp;s_tid=gn_loc_drop" class="korea_select">한국</a> (한국어)</li>
             </ul>
           </div>
         </div>
@@ -610,13 +636,13 @@ You can remove your name from e-mail lists:
   <footer id="footer" class="bs-footer"> 
     <!-- BASIC FOOTER CONTENT - Begin --> 
     <div class="container"> 
-      <div class="footer">
+      <div id="_sdsat_mbox_3606475276776775_"><div class="footer">
 <div class="row">
 <div class="col-xs-12 col-md-9">
 <ul class="countrynav" id="countrynav">
 <li class="footernav_country">
 <a href="javascript:void(0);" data-toggle="modal" data-target="#country-unselected">
-<span class="icon-arrow-up"></span><span class="icon-globe icon_color_quinary"></span>United States
+<span class="icon-globe icon_color_quinary icon_16"></span>United States
 </a>
 </li>
 </ul>
@@ -629,45 +655,35 @@ You can remove your name from e-mail lists:
 </ul>
 <div class="clearfix"></div>
 <div class="clearfix"></div>
-<p class="copyright">© 1994-2015 The MathWorks, Inc.</p>
+<p class="copyright" translate="no">© 1994-2016 The MathWorks, Inc.</p>
 </div>
 <div class="clearfix visible-sm add_margin_10"></div>
 <div class="col-xs-12 col-md-3">
 <div class="social_media">
 <ul class="social_media_icons">
 <li>
-<a href="http://www.mathworks.com/programs/bounce_hub_generic.html?s_tid=mlc_fbk&amp;url=http://www.facebook.com/MATLAB" target="_blank" class="svg_link">
-<object data="/images/responsive/global/ico-facebook.svg" alt="Facebook" class="ico_facebook" type="image/svg+xml">
-<span class="ico_facebook ico_sm"></span>
-</object>
+<a href="http://www.facebook.com/MATLAB" target="_blank" class="svg_link">
+<img src="/images/responsive/global/ico-facebook.svg" alt="Facebook" class="ico_facebook">
 </a>
 </li>
 <li>
-<a href="http://www.mathworks.com/programs/bounce_hub_generic.html?s_tid=mlc_twt&amp;url=http://www.twitter.com/MATLAB" target="_blank" class="svg_link">
-<object data="/images/responsive/global/ico-twitter.svg" alt="Twitter" class="ico_twitter" type="image/svg+xml">
-<span class="ico_twitter ico_sm"></span>
-</object>
+<a href="http://www.twitter.com/MATLAB" target="_blank" class="svg_link">
+<img src="/images/responsive/global/ico-twitter.svg" alt="Twitter" class="ico_twitter">
 </a>
 </li>
 <li>
-<a href="http://www.mathworks.com/programs/bounce_hub_generic.html?s_tid=mlc_glg&amp;url=https://plus.google.com/117177960465154322866?prsrc=3" target="_blank" class="svg_link">
-<object data="/images/responsive/global/ico-google-plus.svg" alt="Google+" class="ico_google" type="image/svg+xml">
-<span class="ico_google ico_sm"></span>
-</object>
+<a href="https://plus.google.com/117177960465154322866?prsrc=3" target="_blank" class="svg_link">
+<img src="/images/responsive/global/ico-google-plus.svg" alt="Google+" class="ico_google">
 </a>
 </li>
 <li>
-<a href="http://www.mathworks.com/programs/bounce_hub_generic.html?s_tid=mlc_lkd&amp;url=http://www.linkedin.com/company/the-mathworks_2" target="_blank" class="svg_link">
-<object data="/images/responsive/global/ico-linkedin.svg" alt="LinkedIn" class="ico_linkedin" type="image/svg+xml">
-<span class="ico_linkedin ico_sm"></span>
-</object>
+<a href="http://www.linkedin.com/company/the-mathworks_2" target="_blank" class="svg_link">
+<img src="/images/responsive/global/ico-linkedin.svg" alt="LinkedIn" class="ico_linkedin">
 </a>
 </li>
 <li>
 <a href="http://www.mathworks.com/company/rss/index.html" class="svg_link">
-<object data="/images/responsive/global/ico-rss.svg" alt="RSS" class="ico_rss" type="image/svg+xml">
-<span class="ico_rss ico_sm"></span>
-</object>
+<img src="/images/responsive/global/ico-rss.svg" alt="RSS" class="ico_rss">
 </a>
 </li>
 </ul>
@@ -676,43 +692,7 @@ You can remove your name from e-mail lists:
 </div>
 </div>
 </div>
-</div>
-<!-- Quantcast Tag -->
-<script>
-(function(){
-var elem = document.createElement('script');
-elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/aquant.js?a=p-zfNtLVVEHXE-1";
-elem.async = true;
-elem.type = "text/javascript";
-var scpt = document.getElementsByTagName('script')[0];
-scpt.parentNode.insertBefore(elem,scpt);
-}());
-var smarttagdata={qacct: 'p-zfNtLVVEHXE-1',
-orderid: '',
-revenue: '',
-};
-</script>
-<noscript>
-<img src="//pixel.quantserve.com/pixel/p-zfNtLVVEHXE-1.gif?labels=_fp.event.Default;" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
-</noscript>
-<!-- End Quantcast tag -->
-<!-- BEGIN Google Code for UK and .COM Domains-->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1023777138;
-var google_conversion_label = "SVIBCMq3xwIQ8rKW6AM";
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1023777138/?value=0&label=SVIBCMq3xwIQ8rKW6AM&guid=ON&script=0"/>
-</div>
-</noscript>
-<!-- END Google Code for UK and .COM Domains-->
+</div></div>
 <!-- BEGIN Adobe DTM -->
 <script type="text/javascript">
 try {
@@ -720,19 +700,43 @@ _satellite.pageBottom();
 } catch (e) {
 //something went wrong
 }
+</script><script>
+ var qcord;var qcrev; var qclabels;
+ var ezt = ezt ||[];
+
+ (function(){
+   var elem = document.createElement('script');
+   elem.src = (document.location.protocol == "https:" ? "https://web.archive.org/web/20160403053120/https://secure" : "https://web.archive.org/web/20160403053120/http://pixel") + ".quantserve.com/aquant.js?a=p-zfNtLVVEHXE-1";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem,scpt);
+ }());
+
+
+ ezt.push({qacct: 'p-zfNtLVVEHXE-1',
+           orderid: qcord,
+           revenue: qcrev,
+           labels: qclabels
+           });
 </script>
+<noscript>
+  <img src="//web.archive.org/web/20160403053120/http://pixel.quantserve.com/pixel/p-zfNtLVVEHXE-1.gif?labels=_fp.event.Default" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript><script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1023777138;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//web.archive.org/web/20160403053120/http://www.googleadservices.com/pagead/conversion.js">
+</script><iframe name="google_conversion_frame" title="Google conversion frame" width="300" height="13" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1023777138/?random=1580477898024&amp;cv=8&amp;fst=1580477898024&amp;num=1&amp;fmt=1&amp;guid=ON&amp;u_h=600&amp;u_w=800&amp;u_ah=600&amp;u_aw=800&amp;u_cd=24&amp;u_his=3&amp;u_tz=0&amp;u_java=false&amp;u_nplug=0&amp;u_nmime=0&amp;frm=0&amp;url=https%3A//web.archive.org/web/20160522002418id_/http%253A//www.mathworks.com/company/aboutus/policies_statements/%253Fs_tid%253Dgf_priv&amp;tiba=Policies%20and%20Statements" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no"><img height="1" width="1" border="0" alt="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1023777138/?frame=0&random=1580477898024&cv=8&fst=1580477898024&num=1&fmt=1&guid=ON&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=3&u_tz=0&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https%3A//web.archive.org/web/20160522002418id_/http%253A//www.mathworks.com/company/aboutus/policies_statements/%253Fs_tid%253Dgf_priv&tiba=Policies%20and%20Statements" /></iframe>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//web.archive.org/web/20160403053120/http://googleads.g.doubleclick.net/pagead/viewthroughconversion/1023777138/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
 <!-- END Adobe DTM -->
-<!-- BEGIN Qualaroo -->
-<script type="text/javascript">
-var _kiq = _kiq || [];
-(function(){
-setTimeout(function(){
-var d = document, f = d.getElementsByTagName('script')[0], s = d.createElement('script'); s.type = 'text/javascript';
-s.async = true; s.src = '//s3.amazonaws.com/ki.js/49559/ahy.js'; f.parentNode.insertBefore(s, f);
-}, 1);
-})();
-</script>
-<!-- END Qualaroo -->
     </div>
     <!-- BASIC FAT FOOTER CONTENT - End -->
   </footer>
