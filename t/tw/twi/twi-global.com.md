@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twi-global.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080544id_/http%3A//www.twi-global.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twi-global.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521232807id_/http%3A//www.twi-global.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -29,11 +29,22 @@ Our privacy policy covers TWI Ltd’s websites:
  ICO Registration: |  Z5611956  
  Websites: | 
 
-[www.twi-global.com](https://web.archive.org/ "Home")      
-[www.twichina.cn](http://www.twichina.cn/)   
+[www.twi-global.com](https://web.archive.org/ "Home")       
+[www.twicanada.ca](http://www.twicanada.ca/ "TWI Canada")   
+[www.twichina.com](http://www.twichina.com/)    
+[www.twijapan.jp](http://www.twijapan.jp/ "TWI Japan")   
+[www.twi-mtl.com](http://www.twi-mtl.com/ "TWI MTL")   
+[www.twinorthamerica.com](http://www.twinorthamerica.com/ "TWI North America")   
 [www.twisoftware.com](http://www.twisoftware.com/ "TWI Software")   
-[www.nsirc.co.uk](http://www.nsirc.co.uk/)  
+[www.twitraining.com](http://www.twitraining.com/ "TWI Training and Examination Services")   
+[www.aemri.co.uk](http://www.aemri.co.uk/ "AEMRI")   
+[www.nsirc.co.uk](http://www.nsirc.co.uk/ "NSIRC")   
+[www.sirf.uk.com](http://www.sirf.uk.com/ "SIRF")   
+[www.theweldinginstitute.com](http://www.theweldinginstitute.com/ "The Welding Institute")  
   
+  
+
+
 This privacy and cookie use policy explains how we use any personal information we collect about you when you use these websites. 
 
 **Anonymous Access  
@@ -102,7 +113,7 @@ Purpose: logs where a visitor came from, e.g. a search engine or from another we
 
 Typical content: no personal information about you, only a randomly generated identification number linked to information about your computer and your browser
 
-Domain: .twi.co.uk; nsirc.co.uk
+Domain: .twi-global.com; nsirc.co.uk
 
 Expires: 6 months after it was last set on your device 
 
@@ -112,7 +123,7 @@ Purpose: logs each user’s number of visits, the time of the first visit, the p
 
 Typical content: no personal information about you, only a randomly generated identification number linked to information about your computer and your browser
 
-Domain: .twi.co.uk; nsirc.co.uk
+Domain: .twi-global.com; nsirc.co.uk
 
 Expires: 2 years after your last visit to the website
 
@@ -122,7 +133,7 @@ Purpose: logs when a user starts their visit
 
 Typical content: no personal information about you, only a randomly generated identification number linked to information about your computer and your browser
 
-Domain: .twi.co.uk; nsirc.co.uk
+Domain: .twi-global.com; nsirc.co.uk
 
 Expires: 30 minutes after your visit or after 30 minutes of inactivity
 
@@ -132,7 +143,7 @@ Purpose: logs when a user ends their visit
 
 Typical content: no personal information about you, only a randomly generated identification number linked to information about your computer and your browser
 
-Domain: .twi.co.uk; nsirc.co.uk
+Domain: .twi-global.com; nsirc.co.uk
 
 Expires: when you close your browser
 
@@ -144,7 +155,7 @@ Purpose: session identifier cookies are set if you have login credentials after 
 
 Typical content: information about the session but the cookie itself does not contain any personal information
 
-Domain:.twi.co.uk; nsirc.co.uk
+Domain:.twi-global.com; nsirc.co.uk
 
 Expires: when you close your browser
 
@@ -154,7 +165,7 @@ Purpose: after entering your username and password in the login page, you can ch
 
 Typical content: username and password and a session verification cookies to authenticate your login details against our login database.
 
-Domain:.twi.co.uk/login/?ReturnUrl=/home/ ; nsirc.co.uk/login/?ReturnUrl=/home/
+Domain:.twi-global.com/login/?ReturnUrl=/home/ ; nsirc.co.uk/login/?ReturnUrl=/home/
 
 Expires: never until the logged in user clicks the ‘log out’ option
 
@@ -226,7 +237,7 @@ The TWI website also hosts links to various social media portals and offers opti
 
 #####  [Flickr (Yahoo)](http://info.yahoo.com/privacy/us/yahoo/flickr/details.html)
 
-#####  [Google](http://http//www.google.com/intl/en/policies/privacy/ "Google Privacy Policy")
+#####  [Google](http://www.google.com/intl/en/policies/privacy/ "Google Privacy Policy")
 
 **How to control and delete cookies**
 
@@ -302,7 +313,7 @@ We ensure that your personal data will not be disclosed to State institutions an
 **Access to your information and correction  
 **You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, you can contact us by:
 
-  * sending an email to [data.protection@twi.co.uk](mailto:data.protection@twi.co.uk)
+  * sending an email to [ data.protection@twi-global.com ](mailto:data.protection@twi-global.com)
   * calling this telephone number +44 (0)1223 899000
 
 
@@ -330,8 +341,10 @@ We want to make sure that your personal information is accurate and up to date. 
  Address: |  Granta Park, Great Abington, Cambridge, CB21 6AL, UK  
  Phone number: |  +44 (0)1223 899000  
  Fax number: |  01223 892588  
- Email address: |   [data.protection@twi.co.uk](mailto:data.protection@twi.co.uk)  
+ Email address: |   [data.protection@twi-global.com ](mailto:data.protection@twi-global.com)  
   
+
+
 ###  Table of personal data collected and purposes for which they are used
 
 **  
