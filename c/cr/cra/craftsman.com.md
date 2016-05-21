@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craftsman.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026170851id_/http%3A//www.craftsman.com/en_us/customer-care/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftsman.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521100350id_/http%3A//www.craftsman.com/en_us/customer-care/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Craftsman
 
