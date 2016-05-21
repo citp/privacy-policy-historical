@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ppcsecure.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121024656id_/http%3A//ppcsecure.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppcsecure.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521102436id_/http%3A//www.ppcsecure.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | PPCSecure
 
 ## PPCSecure Privacy Policy
 
-_Last modified on July 29, 2015_
+_Last modified on April 18, 2016_
 
   
 
@@ -24,7 +24,7 @@ Any information we collect while you are using our websites or services and any 
 
 #### Sign up and Billing Information 
 
-While registering for the services we may offer, you may be asked for personal information such as credit card numbers, addresses or your name. Any information collected via these forms on our websites is transmitted to us via an SSL encrypted connection to ensure the safety of your information. We limit physical and virtual access to the servers which store this information in order to protect your information.
+While registering for the services we may offer, you may be asked for personal information such as credit card numbers, addresses, or your name. Any information collected via these forms on our websites is transmitted to us via an SSL encrypted connection to ensure the safety of your information. We limit physical and virtual access to the servers which store this information in order to protect your information.
 
 PPCSecure uses an outside secure solution to process our credit card transactions for goods and services. We have ensured through our own auditing procedures that these companies do everything within their power to protect and securely transmit your data during any transaction.
 
@@ -33,10 +33,6 @@ PPCSecure uses an outside secure solution to process our credit card transaction
 In addition to the uses for the information listed above, we may also use personal information that you submit to us for the following reasons:
 
 -To contact you when necessary for additional information that is required to complete or fulfill your order; determine if you are satisfied with our services; survey you to gather information used to improve our products, inform you that an upgrade of your services is available; or to inform you regarding the billing or technical status of your subscription.
-
--To contact you with information or special offers about PPCSecure's products and services.
-
-We may also, from time-to-time, share your basic contact information with affiliates, third parties, or business partners, who may then use that information to contact you with special offers, promotions, or to inform you about their products and services.
 
 PPCSecure may also be forced to release personal or account related information to comply with law enforcement, judicial proceedings, or legal matters, to enforce the terms of any of our user agreements, or to protect the rights, property or safety of PPCSecure, our staff, our clients, or others.
 
@@ -48,7 +44,7 @@ We also may collect other data such as IP address, time of visit and store user 
 
 #### Third-Party and Linked Websites
 
-This privacy policy only pertains to this website and any other website owned by PPCSecure. We do not endorse and are not responsible for the privacy practices of any third-party, regardless of their affiliation with PPCSecure. This includes other websites which we may link to or refer your to for outside services. 
+This privacy policy only pertains to this website and any other website owned by PPCSecure. We do not endorse and are not responsible for the privacy practices of any third-party. This includes other websites which we may link to or refer your to for outside services.
 
 #### Business Transition
 
