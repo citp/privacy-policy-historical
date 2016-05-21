@@ -1,62 +1,75 @@
-> *The following text is extracted and transformed from the blizzardinternet.com privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209095704id_/http%3A//www.blizzardinternet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blizzardinternet.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521214850id_/http%3A//www.blizzardinternet.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Blizzard Internet Marketing, Inc.
 
-PRIVACY POLICY FOR CUSTOMERS
+**What Information Do We Collect?**
 
-Set out below is Blizzard Internet Marketing’s Privacy Policies. In short, we will not sell or share your information with anyone! Blizzard may from time to time change this policy in its sole discretion. You understand and agree that such changed policies are enforceable promptly after receipt of changed policies from Blizzard Internet Marketing, Inc.
+We collect information from you when you fill out a form on our website.
 
-**_Privacy Principles_**  
-Because your privacy is important to us, Blizzard Internet Marketing conducts its business under the following principles:
+When you fill out a form, you may be asked to enter your: name, email address, mailing address, or phone number.
 
-_Principle 1 - Your Information is Confidential_  
-All the information we compile for your website is considered confidential. Statistics about websites are protected by usernames and passwords, and we will not disclose these to unauthorized persons. To ensure this privacy, our Data Center is protected by industry standard security technology.
+**What Do We Use Your Information For?**
 
-_Principle 2 - No Site-Specific Data is Ever Divulged Without Permission_  
-Blizzard Tracker compiles statistics across all the websites it services. These statistics are limited to certain broad categories, such as Internet browser usage and screen resolution. This information is presented only in an aggregate form, and in no event will we present specific site data without permission.
+Any of the information we collect from you may be used in one of the following ways:
 
-_Principle 3 - Use of Cookies_  
-Cookies are pieces of information that a website transfers to a computer’s hard disk for record-keeping purposes. Cookies can make a website more useful by personalizing information for visitors and by storing information about preferences on a particular site. The use of cookies is an industry standard, and many major websites use them to provide useful features for their customers.  
-It is Blizzard’s policy to use cookies only for the following purposes:
+– To improve our website  
+– To improve customer service  
+– To occasionally show you remarketing, display, search or other ads in various advertising platforms
 
-  * To identify you
-  * To customize our site for you
-  * To help improve navigation
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
+– To administer a contest, promotion, survey or other site feature  
+– To send periodic emails
 
+When you become a client, the email address you provide may be used to send you information and updates, in addition to receiving occasional company news, updates, related product or service information.
 
-Most browsers are initially set up to accept cookies. If you would prefer, you can set your browser to reject cookies. However, you will not be able to take advantage of our website if you do so. Your website’s visitors can also reject cookies.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include unsubscribe instructions at the bottom of each email.
 
-_Principle 4 - Personal Information_  
-Personal (e-mail addresses) and financial information collected is used to check the user’s qualifications for registration and to bill the user for products and services. Blizzard does not store such information linked to a cookie.  
-We may use this information to:
+How do we protect your information?
 
-  * Contact you when necessary
-  * Send you information about our company
-  * Send you promotional material from some of our partners
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
+**Do We Use Cookies?**
 
+Yes (cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-_For More Information_  
-If you have any questions or comments about this agreement, our services, or your experience with Blizzard Internet Marketing, please e-mail info@blizzardinternet.com.
+We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. Third-party service providers may use cookies, web beacons, and similar technologies to collect or receive information from your website and elsewhere on the internet and use that information to provide measurement services and target ads.
 
-**Blizzard’s Anti-Spam Policy**
+You may opt out of Google’s use of cookies by visiting the Google Advertising Opt-out Page. You may opt out of Google Analytics by visiting the Google Analytics Opt-out Page. You may opt out of third party vendor use of cookies by visiting the Network Advertising Initiative Opt-out Page at http://www.networkadvertising.org/choices/ or the Digital Advertising Alliance Consumer Choice page at www.aboutads.info/choices. If the advertiser is not listed on that website, please contact us at the address below in order to opt-out.
 
-We take a strong stand against spam. Please read this information to find out more about our Anti-Spam Policy:
+For further information regarding Google’s privacy practices, please visit http://www.google.com/privacypolicy.html.
 
-_E-mail Spam_
+**Do We Disclose Any Information To Outside Parties?**
 
-  * We never send unsolicited e-mail. We do, however, e-mail our marketing newsletters to customers (and non-customers who request them).
-  * We do not sell or give away our customer or non-customer e-mail addresses.
-  * We do not allow customers to send spam. Each hosting and design customer agrees to not engage in the practice of sending unsolicited e-mail (spam) for the duration of hosting services. If we find that a customer has sent unsolicited e-mails, we reserve the right to take his or her website down.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
+**Third Party Links**
 
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-_Search Engine Spam_
+**California Online Privacy Protection Act Compliance**
 
-  * We do not support the process of spamming search engines. We have officially notified customers we will not use hidden keywords on any website page that we maintain, nor will we stuff image tags, metatags or text with strings of words or phrases (hidden or not), nor use keywords unrelated to the content on a given website.
-  * We actively support stopping e-mail spam by offering a spam filter and by maintaining lists of known spammers.
-  * We will not work with, nor link to, any industry website or company engaged in the practice of spamming.
-  * We do not condone the use of link farms (automatic links from unrelated websites, created solely to boost link popularity).
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
+**Children’s Online Privacy Protection Act Compliance**
 
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+**Your Consent**
+
+By using our site, you consent to our website’s privacy policy.
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page.
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+[www.BlizzardInternet.com](http://www.blizzardinternet.com/)  
+1001 Grand Ave., Suite 005  
+Glenwood Springs, Colorado 81601  
+United States  
+info@BlizzardInternet.com  
+970-928-7875
