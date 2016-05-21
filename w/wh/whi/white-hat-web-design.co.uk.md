@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the white-hat-web-design.co.uk privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908013208id_/http%3A//white-hat-web-design.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the white-hat-web-design.co.uk privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521034323id_/http%3A//white-hat-web-design.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - White Hat Web Design
 
@@ -10,7 +10,7 @@ The Website is operated by White Hat Web Marketing Limited registered in England
 
 The Company is committed to protecting and respecting your privacy.
 
-This policy (together with our **Terms of Business** [INSERT AS A LINK TO THE RELEVANT WEBSITE PAGE] and any other documents referred to on it) sets out the basis on which any personal data We collect from you, or that you provide to Us, will be processed by Us. Please read this Privacy Policy carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our [**Terms of Business**](http://white-hat-web-design.co.uk/white-hat-design-terms-of-business/)and any other documents referred to on it) sets out the basis on which any personal data We collect from you, or that you provide to Us, will be processed by Us. Please read this Privacy Policy carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 **Using the Website indicates that you accept this Privacy Policy together with our Terms of Business Agreement regardless of whether or not you register with us**. If you do not accept this Privacy Policy and/or our Terms of Business, you must leave the Website immediately.
 
