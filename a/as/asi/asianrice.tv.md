@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asianrice.tv privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018233850id_/http%3A//www.asianrice.tv/index.php%3Fsection%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianrice.tv privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521070041id_/http%3A//www.asianrice.tv/index.php%3Fsection%3Dprivacy) for the most accurate reproduction.*
 
 # AsianRice.TV - Online source for free asian streaming video
 
