@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the general-ebooks.com privacy policy that was archived on 2015-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150710030413id_/http%3A//www.general-world.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the general-ebooks.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521172207id_/http%3A//www.general-community.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - General World
-
-* * *
 
 We provide this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of the personal and other information we receive from users of the GW Service. For additional data on collection and protection of your information in regards to the GW software “General Downloader”, please check the separate EULA for GW Software
 
@@ -104,8 +102,3 @@ In case you wish to delete your account in the GW, you can still use the GW Serv
 
 
 Any violation of these guidelines may lead to the restriction, suspension or termination of your account by the GW.
-
-* * *
-
-  
-
