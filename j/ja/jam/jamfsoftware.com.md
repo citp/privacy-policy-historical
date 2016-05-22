@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamfsoftware.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231221428id_/http%3A//www.jamfsoftware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamfsoftware.com privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523014351id_/http%3A//www.jamfsoftware.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | JAMF Software
 
@@ -45,9 +45,9 @@ You hereby waive, release, and forever discharge JAMF, its current and former af
 In compliance with the Safe Harbor Principles, JAMF commits to resolve complaints about your privacy and our collection or use of your personal information.  Anyone with inquiries or complaints regarding this Privacy Policy should first contact JAMF at:
 
 JAMF Software, LLC  
-301 4th Avenue South  
-Suite 1075  
-Minneapolis, MN 55415  
+100 Washington Ave S  
+Suite 1100  
+Minneapolis, MN 55401  
 Email: [support@jamfsoftware.com](mailto:support@jamfsoftware.com)
 
 JAMF has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus.  If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by JAMF, you may contact the BBB EU SAFE HARBOR program at the address below:
@@ -73,7 +73,7 @@ If you have provided your Personal Information and your Personal Information cha
 
 ### 10\.  Changes to Privacy Policy
 
-JAMF reserves the right to changes this Privacy Policy at any time by sending you notification of the change and posting the revised Privacy Policy on the Site.  Any revised Privacy Policy will be effective immediately upon posting on the Site.
+JAMF reserves the right to change this Privacy Policy at any time by sending you notification of the change and posting the revised Privacy Policy on the Site.  Any revised Privacy Policy will be effective immediately upon posting on the Site.
 
 ### 11\.  How to Contact Us
 
