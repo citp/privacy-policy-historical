@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scpr.org privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003180605id_/http%3A//www.scpr.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scpr.org privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522193912id_/http%3A//www.scpr.org/privacy) for the most accurate reproduction.*
 
 # Your Privacy Rights | 89.3 KPCC
 
@@ -12,9 +12,9 @@ You have come to this page from a Web site produced by Southern California Publi
     * Demographic and profile information
     * Credit card information
   * Your California Privacy Rights
-  * [Contact SCPR](https://web.archive.org/web/20151003180605id_/http://www.scpr.org/privacy/contact)
-  * [Consent](https://web.archive.org/web/20151003180605id_/http://www.scpr.org/privacy/consent)
-  * [Effective Date](https://web.archive.org/web/20151003180605id_/http://www.scpr.org/privacy/effective)
+  * [Contact SCPR](https://web.archive.org/web/20160522193912id_/http%3A//www.scpr.org/contact)
+  * [Consent](https://web.archive.org/web/20160522193912id_/http%3A//www.scpr.org/consent)
+  * [Effective Date](https://web.archive.org/web/20160522193912id_/http%3A//www.scpr.org/effective)
 
 
 
@@ -44,6 +44,8 @@ SCPR works with a third party, ADTECH, for ad delivery.  The non-personally-ide
 ### Nielsen//NetRatings
 
 The use of Nielsen//NetRatings' Web site measurement software assists Southern California Public Radio in analyzing the user experience on our Web sites and improving the structure and ease of use of our Web sites. Nielsen//NetRatings is used to collect such information as the number of unique visitors, how long visitors spend on our Web sites, and common entry and exit points into and from the Web sites. We do not collect personally identifying information from our Web sites unless you choose to provide that information to us.
+
+Our properties may feature Nielsen’s proprietary measurement software which will allow you to contribute to market research, like Nielsen’s TV Ratings. To learn more about the information Nielsen’s software may collect and your choices with regard to it, please [click here](http://www.nielsen.com/digitalprivacy).
 
 Further information about Nielsen//NetRatings including their privacy policy can be found on the Nielsen//NetRatings Web site ([Nielsen Online Privacy Statement](http://www.nielsen-online.com/privacy.jsp?section=leg_scs)).
 
