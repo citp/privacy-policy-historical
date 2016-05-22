@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the startup-videos.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007063022id_/http%3A//startup-videos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startup-videos.com privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522164921id_/http%3A//startup-videos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Startup Videos
 
-  
 At Startup Videos (www.startup-videos.com), the privacy of our visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
 This Privacy Policy is reviewed and revised from time to time. You will want to revisit it regularly. Your use of this site, in any and all forms, constitutes an acceptance of this Privacy Policy.
