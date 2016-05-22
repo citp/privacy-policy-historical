@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workwithtobyandlayla.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224042722id_/http%3A//workwithtobyandlayla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workwithtobyandlayla.com privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522124815id_/http%3A//workwithtobyandlayla.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
