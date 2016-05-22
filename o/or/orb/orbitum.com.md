@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the orbitum.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107100454id_/http%3A//orbitum.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orbitum.com privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522045814id_/http%3A//orbitum.com/privacy) for the most accurate reproduction.*
 
-# Orbitum - Privacy Policy
+# Orbitum - Politique de confidentialité
 
 1\. Personal User Information Obtained and Processed by the Right Holder 
 
-  * 1.1. For the purpose of this Policy, 'Personal User Information' means the information that the User provides about himself or herself upon registration (creating an account) or when using the Software, including the User's personal data. The information mandatory for using the Software is specifically marked. Other information is provided by the User at his or her option.
+  * 1.1. For the purpose of this Policy, "Personal User Information" means the information that the User provides about himself or herself upon registration (creating an account) or when using the Software, including the User's personal data. The information mandatory for using the Software is specifically marked. Other information is provided by the User at his or her option.
 
 1.2. The User is hereby notified and agrees that upon enabling the Software function of automatic statistics sending, the following anonymous Statistical Information (without a reference to the User) is automatically transmitted to the Right Holder to improve the quality of services provided to the User:
 
