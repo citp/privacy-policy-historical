@@ -1,0 +1,344 @@
+<!--The following is the downloaded HTML source of the laibatour.com privacy policy that was archived on 2016-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160522171612id_/http%3A//www.laibatour.com/laibatravel-ws/policyTerm%3Fflag%3D2) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+<title>Privacy Policy</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="css/public.css">
+<link rel="stylesheet" type="text/css" href="css/other/term.css">
+<link rel="stylesheet" type="text/css" href="css/blue.css">
+<link rel="stylesheet" type="text/css" href="css/login/login.css">
+<link rel="stylesheet" type="text/css" href="css/index.css">	
+
+<script src="/laibatravel-ws/js/jquery-1.11.0.min.js"></script>
+<script src="/laibatravel-ws/js/jquery.validate.min.js"></script>
+<script type="text/javascript" src="/laibatravel-ws/js/weblogin/webLogin.js"></script>
+
+</head>
+
+
+<body id="body">
+	<header id="main-header" class="main-header"></header>
+<!-- div class="index_head" id="headerUserLongId"></div-->
+	<!--ç»å½æ³¨åé¡µé¢-->
+<div class="login">
+	<div class="section">
+		<div class="close" onclick="closeLogin()"></div>
+		<form id="loginfrm">
+			<div class="con dis1">
+				<img src="img/logo_login.png" class="login_img">
+                <div class="facebookbtn">Sign In with Facebook
+                    <!-- Facebookç¬¬ä¸æ¹ç»å½æé® -->
+                    <fb:login-button scope="public_profile,email" v="2" size="xlarge" onlogin="checkLoginState();" style="opacity:0.01;width:100%;height:100%;position:absolute;top:0;left:0">
+                    <fb:intl>Login with Facebook Facebook</fb:intl>
+                    </fb:login-button>
+                </div>
+                <div class="facebook-fail" id="facebook_fail"><i>!</i><span></span></div>
+                <div class="text-center gray" style="color: #8689a0">or</div>
+				<div class="linput">
+					<input type="text" placeholder="Email" class="login_input " name="email" id="email">
+					<div class="validate-message">
+						
+					</div>
+				</div>
+				<div class="linput">
+					<input type="password" placeholder="Password" class="login_input" name="password" id="password">
+					<div class="validate-message">
+						
+					</div>
+	
+				</div>
+				<div class="rem">
+					<input type="checkbox" name="autoFlag" id="autoFlag" value="1">  Remember <a href="#" onclick="toRetrieveInit();">Forgot Password?</a>
+				</div>
+				<button onclick="doLoginSubmit();" id="userLoginId">Sign In</button>
+				<div class="account">
+					Don't have an account? <a href="javascript:;" onclick="toSignUp()">Sign Up&gt;</a>
+				</div>
+			</div>
+		</form>
+		<form id="registfrm">
+			<div class="con dis2">
+				<img src="img/logo_login.png" class="login_img">
+                <div class="facebookbtn">Sign In with Facebook
+                    <!-- Facebookç¬¬ä¸æ¹ç»å½æé® -->
+                    <fb:login-button scope="public_profile,email" v="2" size="xlarge" onlogin="checkLoginState();" style="opacity:0.01;width:100%;height:100%;position:absolute;top:0;left:0">
+                    <fb:intl>Login with Facebook Facebook</fb:intl>
+                    </fb:login-button>
+                </div>
+                <div class="facebook-fail" id="facebook_fail"><i>!</i><span></span></div>
+                <div class="text-center gray" style="color: #8689a0">or</div>
+				<div class="linput">
+					<input type="text" placeholder="Email" class="login_input" name="remail" id="remail">
+					<div class="validate-message">
+					</div>
+	
+				</div>
+				
+				<div class="select"><i id="xialacountrySpin"></i>
+					<input type="hidden" name="countryData" id="countryData">
+					<input type="text" placeholder="Nationality" class="login_input" id="xialacountry">
+						<ul class="clearfix country-list-login list-unstyled" id="nationality">
+						            	    
+
+            	    </ul>
+					<div class="validate-message">
+					</div>
+				</div>
+	
+				
+				
+				
+				<div class="linput">
+					<input type="password" placeholder="Password" class="login_input" id="pwd" name="pwd">
+					<div class="validate-message">
+					</div>
+				</div>
+				<div class="linput">
+					<input type="password" placeholder="Confirm Password" class="login_input" id="confirmPassword" name="confirmPassword">
+					<div class="validate-message">
+						
+					</div>
+				</div>
+				<div class="rem">
+					<input type="checkbox" class="check" name="agree" checked="" id="agree"> I'd like to receive
+					discounts and news.
+				</div>
+				<button onclick="toRegistSubmit()" id="login11">Sign Up for Laibatour</button>
+				<div class="login-agree">
+					By signing up, I agree to Laibatour's <span><a href="javascript:toTeams('1')" style="float:none;">Terms &amp; Conditons</a></span> and
+					<span><a href="javascript:toTeams('2')" style="float:none;">Privacy Policy</a></span>.
+				</div>
+				<div class="account">
+					Already have an account? <a href="javascript:;" onclick="toLogin()">Sign In&nbsp;&gt;</a>
+				</div>
+			</div>
+	    </form>
+
+	</div>
+</div>
+<!--End-->
+<script type="text/javascript" src="js/country.js"></script>
+<script type="text/javascript" src="js/facebook.js"></script>
+	<!--End-->
+		<div class="bg1">
+		<div class="term_con">
+			<h1>Privacy Policy</h1>
+			
+
+			<div class="term_con1">This privacy statement applies to http://www.laibatour.com owned and operated by Archetour Information Technology Co., Ltd. ("Laibatour"). This privacy statement describes how Laibatour collects and uses the personal information you provide on our Web site: www.laibatour.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.</div>
+
+			<div class="term_con1">Collection and Use of Personal Information</div>
+
+			<div class="term_con1">We collect the following personal information from you</div>
+
+			<div class="term_con1">Contact Information such as name, email address, mailing address, nationality, phone number, zip code Billing Information such as credit card number, and billing address
+			Unique Identifiers such as user name, account number Passport and Visa data</div>
+
+			<div class="term_con1">As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system. In addition, we may use website analytics tools, or other technologies, like cookies and web beacons, to collect information about your visit to the Sites, including the pages you view, the links you click and other actions taken in connection with the Sites and services.</div>
+
+			<div class="term_con1">We use this information to Respond to customer service &amp; offer requests Administer your account Improve our Web site and marketing efforts To obtain airline tickets and hotel bookings &amp; to apply for travel permits in certain regions in China (Tibet, Hong Kong and Macau) To design a fabulous trip to your best interests Send our latest newsletter to you as your request.</div>
+
+			<h2>Information Obtained from Third Parties</h2>
+
+			 <div class="term_con1">If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.</div>
+
+			<h2>Information Sharing</h2>
+
+			<div class="term_con1">We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.</div>
+
+			<div class="term_con1">We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service or booking air tickets. These companies are authorized to use your personal information only as necessary to provide these services to us.</div>
+
+			<div class="term_con1">We may also disclose your personal information as required by law such as to comply with a subpoena, or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, if Laibatour is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, to any other third party with your prior consent to do so.</div>
+
+			<h2>Cookies and Other Tracking Technologies</h2>
+
+			<div class="term_con1">1. Cookies</div>
+
+			<div class="term_con1">A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We link the information we store in cookies to any personal information for consistency you submit while on our site.</div>
+
+			<div class="term_con1">We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.</div>
+
+			<div class="term_con1">We use cookie in our hotel &amp; flights pages, order forms and account login pages, we set a persistent cookie to store the check in/out date selection, password and some information that you filled, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.</div>
+
+			<div class="term_con1">If you reject cookies, you can still use our site, but you may enter the same information many times.</div>
+
+			<div class="term_con1">2. Tracking Technologies &amp; Third Party Cookies</div>
+
+			<div class="term_con1">The use of cookies by our tracking utility company, service providers are not covered by our privacy statement. We do not have access or control over these cookies.  Our tracking utility company, service providers use session ID cookies to make it easier for you to navigate our site, in order for you to use the shopping cart, etc.</div>
+
+			<div class="term_con1">We use Google Analytics, a third-party tracking service, which uses cookies to track non-personal information about our visitors to our site in the aggregate to capture usage and volume statistics. We have no access to or control over these cookies. This privacy statement covers the use of cookies by Laibatour only and does not cover the use of cookies by any third-party.</div>
+
+			<div class="term_con1">3. Web beacons</div>
+
+			<div class="term_con1">Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.</div>
+
+			<div class="term_con1">We use a third party (Google analytics) to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.</div>
+
+			<div class="term_con1">4.  Links to Other Web Sites</div>
+
+			<div class="term_con1">Our Site includes links to other Web sites whose privacy practices may differ from Laibatour. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.</div>
+
+			<h2>Security</h2>
+
+			<div class="term_con1">The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our website (www.laibatour.com), we encrypt the transmission of that information using secure socket layer technology (SSL).</div>
+
+			<div class="term_con1">We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.</div>
+
+			<div class="term_con1">If you have any questions about security on our Web site, you can contact us at info@laibatour.com.</div>
+
+			<h2>Additional Policy Information</h2>
+
+			<div class="term_con1">Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. send the free e-cards, watch the videos, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.</div>
+
+			<div class="term_con1">Our Web site offers publicly community forums like travel stories and reviews sharing. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.</div>
+
+			<div class="term_con1">You can link to our site using social networking services such as Facebook and Twitter. These services will authenticate your identity and provide you the option to share certain personal information with us such as your sign-in information, name and email address to link between the sites. Services like Facebook &amp; Twitter give you the option to post information about your activities on this Web site to your profile page to share with others within your network.</div>
+
+			<div class="term_con1">Tell-A-Friend: If you choose to use our referral service to tell a friend about our site or send free e-cards to your friends, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Laibatour stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at info@laibatour.com to request that we remove this information from our database.</div>
+
+			<div class="term_con1">With your consent we may post your testimonials, questions and reviews along with your name. If you want your testimonials, questions and reviews removed please contact us at info@laibatour.com</div>
+
+			<div class="term_con1">Correcting and Updating Your Personal Information</div>
+
+			<div class="term_con1">To review and update your personal information to ensure it is accurate, you may contact us directly at info@laibatour.com</div>
+
+			<div class="term_con1">We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at info@laibatour.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</div>
+
+			<div class="term_con1">Notification of Privacy Statement Changes</div>
+
+			<div class="term_con1">We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.</div>
+
+			<div class="term_con1">Our Contact Information</div>
+
+			<div class="term_con1">You can contact us about this privacy statement by writing or email us at the address below:</div>
+
+			<div class="term_con1">Room 201, Taide Office Building, No.12 Middle Street of Xinyuan Xili, Chaoyang District, Beijing</div>
+
+			<div class="term_con1">Email: info@laibatour.com</div>
+
+			<div class="term_con1">Tel: 4008515999</div>
+
+			<div class="term_con1">Choice/Opt-Out</div>
+
+			<div class="term_con1">You may choose to stop receiving our newsletters by the unsubscribe instructions contained in the each newsletter that we sent, or go to our newsletter page on our website, logging into your account and updating your selections or you can contact us at info@laibatour.com</div>
+
+			<div class="term_con1">We also allow you to create an account, and share information such as messages, questions, comments, &amp; travel experience with others.</div>
+		</div>
+	</div>
+	
+	<!-- foot page start -->
+	<div class="cms-footer" id="main-footer">
+    <div class="cms-footer-con">
+        <div class="container">
+            <div class="cms-footer-links clearfix row">
+                <div class="col-xs-12">
+                    <dl class="pull-left mybox box1">
+                        <dt>Change language</dt>
+                        <dd>
+                            <a href="/" target="_blank">English</a><br>
+                            <a href="/Chinese.html">Chinese</a><br>
+                        </dd>
+                    </dl>
+                    <dl class="pull-left mybox box2">
+                        <dt>Company</dt>
+                        <dd>
+                            <a target="_blank" href="/home/about.html">About us</a><br>
+                            <a target="_blank" href="/explore-china.html">Explore China</a><br>
+                            <a target="_blank" href="/laibatravel-ws/policyTerm?flag=1">Terms of Use</a><br>
+                            <a target="_blank" href="/laibatravel-ws/policyTerm?flag=2">Privacy Policy</a><br>
+                            <a target="_blank" href="/User/Help.html">Help Center</a><br>
+                        </dd>
+                    </dl>
+                    <dl class="pull-left mybox box3">
+                        <dt>Customer Care</dt>
+                        <dd>
+                            <span>24/7 Customer Support</span>
+                            <a href="mailto:info@laibatour.com">info@laibatour.com</a>
+                        </dd>
+                    </dl>
+                  <dl class="pull-left mybox box4">
+                        <dt>Partners</dt>
+                        <dd>
+                            <span>Tripadvisor</span><br>
+                            <a target="_blank" href="http://www.amchamchina.org/">AmChamChina</a><br>
+                            <span>CATA</span><br>
+                            <span>IATA</span><br>
+                            <a target="_blank" href="http://www.pata.org/">PATA</a><br><a target="_blank" href="/user/links.html">more</a>
+                        </dd>
+                    </dl>
+                    <dl class="pull-left mybox box5">
+                        <dt>Sign up for Email-only Coupons</dt>
+                        <dd>
+                            <span style="display:inline-block">Get the free EBook - Experience China</span>
+                            <div class="ft-cms-book-form mt5">
+                                <form class="form form-horizontal" id="ft_email_form">
+                                    <div id="ft_email_wrap" class="mb10">
+                                        <input type="text" placeholder="Email address" class="form-control ft-cms-form-email mb10" id="ft_cms_form_email" name="email" value="">
+                                        <input class="btn btn-primary bt-cms-form-sub mb10" id="ft_mysubmit" value="Subscribe" type="submit">
+                                        <span class="bt-email-err">Please enter a valid email address</span>
+                                    </div>
+                                    <em class="ft-cms-refresh" id="ft_cms_refresh"></em>
+                                   <span id="ft_email_success" style="display:none">Thank you , your subscription is submitted!</span>
+                                </form>
+                            </div>
+                        </dd>
+                    </dl>
+                    <dl class="pull-left mybox box6">
+                        <dt>Join us on</dt>
+                        <dd class="fus"><a class="share-icon fus_1" href="https://twitter.com/Laibatour" target="_blank"></a>
+                            <a class="share-icon fus_2" href="https://www.facebook.com/laibatour" target="_blank"></a>
+                            <a class="share-icon fus_3" href="https://www.youtube.com/channel/UCdi94z5j0dkeoPAIADos_kA" target="_blank"></a>
+                            <a class="share-icon fus_4" href="https://www.pinterest.com/Laibatour_/" target="_blank"></a>
+                            <a class="share-icon fus_5" href="https://www.linkedin.com/company/3651288?trk=tyah&amp;trkInfo=clickedVertical%3Acompany%2Cidx%3A1-1-1%2CtarId%3A1435905450093%2Ctas%3Alaibatour" target="_blank"></a>
+                            <a class="share-icon fus_6" href="https://plus.google.com/u/0/b/109908404629263022813/109908404629263022813/about" target="_blank"></a>
+                            <a class="share-icon fus_7" href="https://instagram.com/laibatour/" target="_blank"></a>
+                            <a class="share-icon fus_8" href="javascript:;" target="_blank"><img src="/statics/images/QuickMark_03.png"></a>
+                       </dd>
+                    </dl>
+                </div>
+            </div>
+            <div class="row text-center cms-footer-payment"><div class="col-xs-12"><div class="footer-line"><img src="/statics/images/footer_payment.png"></div></div></div>
+            <div class="row cms-footer-copyright">
+                <div class="col-xs-12">
+                    <div class="cms-footer-right pull-left">
+                        <p class="mb0">COPYRIGHT Â© 2008-2016 LAIBATOUR.COM, ALL RIGHTS RESERVED </p>
+                    </div>
+                    <div class="pull-right mac-nor"><span class="cfp-span mr15"><img src="/statics/images/blp_6.png"></span><span class="cfp-span"><img src="/statics/images/blp_7.png"></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="js/nicescroll.js"></script>
+<div class="hide">
+<span id="cnzz_stat_icon_1258115861"></span><script src=" http://s11.cnzz.com/z_stat.php?id=1258115861&amp;show=pic" type="text/javascript"></script>
+<!-- Google AdWords -->
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 947215431;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/947215431/?value=0&amp;guid=ON&amp;script=0"/>
+    </div>
+</noscript>
+</div>
+	<!--  end-->
+		<script src="/laibatravel-ws/js/jquery.silde.min.js"></script>
+	<script type="text/javascript" src="/laibatravel-ws/js/jquery.placeholder.min.js"></script>
+<script type="text/javascript" src="/laibatravel-ws/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/laibatravel-ws/js/jquery.pagination.js"></script>
+<script src="/laibatravel-ws/js/icheck.js"></script>
+<script src="/laibatravel-ws/js/jquery.raty.js"></script>
+<script type="text/javascript" src="/laibatravel-ws/js/weblogin/webLogin.js"></script>
+<script src="/laibatravel-ws/js/weblogin/login.js"></script>
+<script type="text/javascript" src="js/common.js"></script>
+
+</body></html>
