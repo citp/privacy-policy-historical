@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the seradata.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120104445id_/http%3A//www.seradata.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seradata.com privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522065653id_/http%3A//www.seradata.com/privacy.html) for the most accurate reproduction.*
 
 # Seradata - Privacy Policy
 
-We use cookies to give you the best website experience. By using our website you agree to our use of cookies - [Find out more](https://web.archive.org/web/20151120104445id_/http%3A//www.seradata.com/cookies.html) Close
+We use cookies to give you the best website experience. By using our website you agree to our use of cookies - [Find out more](https://web.archive.org/web/20160522065653id_/http%3A//www.seradata.com/cookies.html) Close
 
 ### Seradata Limited ("We") commit ourselves to protecting and respecting your privacy when visiting our website.
 
