@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitepages.ca privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122102538id_/http%3A//www.whitepages.ca/data-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitepages.ca privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522163333id_/http%3A//www.whitepages.ca/data-policy) for the most accurate reproduction.*
 
 # Data Policy | Whitepages
 
