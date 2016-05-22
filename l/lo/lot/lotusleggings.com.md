@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lotusleggings.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116052013id_/http%3A//lotusleggings.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lotusleggings.com privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522233340id_/http%3A//lotusleggings.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Lotus Leggings
 
