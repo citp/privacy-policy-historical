@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the atlantisbahamas.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907202804id_/http%3A//www.atlantisbahamas.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlantisbahamas.com privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523004146id_/http%3A//www.atlantisbahamas.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy: Atlantis Resort & Casino Paradise Island Bahamas
 
 Effective Date: 2/20/2015
 
-Atlantis, Paradise Island, Bahamas, owned by Atlantis Resort SPE Limited and operated by Brookfield Hospitality Management LLC (collectively, "We" or "Atlantis"), are committed to protecting and respecting your privacy.
+Atlantis, Paradise Island, Bahamas, owned by Atlantis Resort SPE Limited and operated by Island Hotel Company Limited (collectively, "We" or "Atlantis"), are committed to protecting and respecting your privacy.
 
 This privacy policy (together with our terms of use <http://atlantisbahamas.com/terms> and any other documents referred to in it) sets out the basis on which any information (which may include personal data) we collect from you, or that you provide to us, through this website will be processed by us. Please read the following carefully to understand our practices regarding your information and how we will treat it.
 
@@ -29,7 +29,7 @@ Please click on the sections below to learn more about our privacy policy:
 
 
 **WHO WE ARE**  
-As used in this Privacy Policy, "Atlantis" includes Atlantis, Paradise Island, Bahamas, Atlantis Resort SPE Limited, Brookfield Hospitality Management LLC, and any entity that controls, is controlled by or is under common control with Atlantis, Paradise Island, Bahamas.
+As used in this Privacy Policy, "Atlantis" includes Atlantis, Paradise Island, Bahamas, Atlantis Resort SPE Limited, Island Hotel Company Limited, and any entity that controls, is controlled by or is under common control with Atlantis, Paradise Island, Bahamas.
 
 **INFORMATION WE MAY COLLECT FROM YOU**  
 When you use the Site or contact us by e-mail, social media, online feedback forms or forms at the Atlantis, we may collect and process the following data about you:
@@ -143,9 +143,11 @@ Questions, comments and requests regarding this privacy policy are welcomed and 
 OR 
 
 Atlantis, Paradise Island, Bahamas  
-1000 South Pine Island Road  
-Plantation, FL 33324
+c/o Legal Department  
+Executive Offices Coral Towers  
+One Casino Drive  
+PO Box N-4777, Paradise Island, Bahamas
 
-If you do not want to receive e-mail from us in the future, please let us know by calling us at 1-888-528-7155. If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at 1-888-528-7155.
+If you do not want to receive e-mail from us in the future, please let us know by emailing us: [privacy@atlantisparadise.com](mailto:privacy@atlantisparadise.com). or calling us Toll Free at 1-888-528-7155 or if outside the US call 1-242-363-3000. If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by emailing us: [privacy@atlantisparadise.com](mailto:privacy@atlantisparadise.com). or calling us Toll Free at 1-888-528-7155 or if outside the US call 1-242-363-3000.
 
-Upon request we provide Site visitors with access to all information including proprietary information that we maintain about them. Customers can access this information and if errors are found, request that this information be corrected by calling us at 1-888-528-7155.
+Upon request we provide Site visitors with access to all information including proprietary information that we maintain about them. Customers can access this information and if errors are found, request that this information be corrected by emailing us: [privacy@atlantisparadise.com](mailto:privacy@atlantisparadise.com). or calling us Toll Free at 1-888-528-7155 or if outside the US call 1-242-363-3000.
