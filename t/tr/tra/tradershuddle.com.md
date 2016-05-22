@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradershuddle.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128082823id_/http%3A//www.tradershuddle.com/Site-Details/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradershuddle.com privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522075838id_/http%3A//www.tradershuddle.com/Site-Details/pp.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site Details - TradersHuddle.com
 
