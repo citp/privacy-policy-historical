@@ -1,73 +1,53 @@
-> *The following text is extracted and transformed from the boobs.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002201514id_/http%3A//boobs.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boobs.com privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523014252id_/http%3A//www.bigmelons.com/privacy.html%3F) for the most accurate reproduction.*
 
-# Boobs.com - Bringing women and cosmetic surgeons together for the perfect boob job!
+# Big Melons | Privacy Policy
 
-**_Boobs.com_**
+[Home](http://www.bigmelons.com/) / Privacy Policy
 
-**PRIVACY POLICY**
+By using our sites, you signify your agreement to the privacy policies described herein. If you do not agree with our privacy policies, please do not use our site or service. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages or we will email you at our discretion.
 
-**Revised January 23, 2012**
+BigMelons respects and safeguards the privacy of every individual who visits our website. This Privacy Statement is a formal document that outlines the information which may be collected about you while you use BigMelons, and how that information may be used. This Statement will also instruct you on what to do if you do not want your personal information collected or shared when you visit the BigMelons website.
 
-Boobs.com has created this privacy policy in order to demonstrate our firm commitment to the privacy of our guests and users. The following discloses our information gathering and dissemination practices for Boobs.com, and any other website we operate. Enjoy the site.
+BigMelons will not collect any personal identifying information about you (including, but not limited to, your name, address, telephone number, email address, Social Security number, bank account or credit card information, or any combination of data that could be used to identify you, such as birth date, zip code, and gender) unless you provide it to us voluntarily.
 
-**Your Acceptance of These Terms** **/ Modifications**
+If you do not want your personal identifying information collected, please do not submit it to us. If you have already submitted this information and would like for us to remove it from our records, please contact us at the email address listed at the bottom of this Statement. We will use reasonable efforts to delete your information from our existing files.
 
-By using the Boobs.com website, you indicate your acceptance of all terms of this Privacy Policy. If you do not agree to this policy, please do not use our websites. Your continued use of the Boobs.com website following the posting of changes to these terms indicates your acceptance of those changes.
+When you do provide us with personal identifying information, such information will be gathered solely by BigMelons, and is for use solely by BigMelons and trusted partners. At any point where personal identifying information is requested, any information that is optional to provide, rather than mandatory, will be clearly marked as such. We may use personal identifying information in the following ways, unless stated otherwise: we may store and process that information to better understand your needs and how we can improve our products and services; and we may use that information to contact you. Financial information that is collected is used to check the users' qualifications for registration and to bill the user for products and services.
 
-**A Special Note about Children**
+BigMelons may utilize electronic newsletters to reach all or a subset of all registered users, using the email address collected. Users may remove themselves from such mailing lists at any time by following the instructions that shall be sent as part of any of such mailings.
 
-Children under the age of 13 are not eligible to use our services, and we ask that anyone under 13 please not submit any personal information to us or use the site in any manner. We believe that is important that parents supervise their children when they are online. As a result, we ask that individuals between the ages of 13 and 18 use this service only in conjunction with parents or guardians and only with their permission.
+BigMelons may request personal identifying information on specific pages that allow users to contact BigMelons. Such information is being collected to assist us in solving a specific issue addressed by the user and/or to allow us to contact the user with an appropriate response.
 
-**Use of Cookies**
+There are a limited number of situations where we may disclose your personal information to others without first receiving your consent: (1) when legally ordered to do so by a lawful subpoena or court order, (2) if you violate or breach an agreement with us, (3) if we believe conduct by you will harm the property or rights of BigMelons or those of BigMelons customers or chat hosts, (4) under exigent circumstances to protect the physical safety of BigMelons, its employees, users or the general public, (5) in connection with the sale of all or substantially all of our company’s assets or the sale of an entire web site or business division or (6) in order to validate credit card numbers for charging for fee services.
 
-Cookies are pieces of information that a Website transfers to your computer for record-keeping purposes. Cookies make browsing the Internet easier for you by saving your preferences while you access a Website. Boobs.com never saves passwords in cookies. By showing how and when users use a website, cookies help us see which areas are popular and which are not. Many improvements and updates to the Boobs.com web content are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies. We use the information from cookies to provide services better tailored to our users’ needs. Boobs.com uses cookies primarily in two ways. First, we use them to specify unique preferences so that you do not have to tell us repeatedly about the content you are interested in. Secondly, we use cookies to track user trends and patterns, so we can improve areas of the Boobs.com online experience that our users find valuable. While both of these activities depend on the use of a cookie, visitors to Boobs.com always have the option of disabling cookies via their browser preferences. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. Please note that some parts of the Boobs.com service may not function properly or may be considerably slower if you refuse cookies. For example, you may have difficulty entering contests, or playing games. You may occasionally get cookies directly from our advertisers. Boobs.com does not control these cookies.
+Your browser offers so-called "cookies," which – if you allow their use – store small amounts of data on your computer about your visit to our site. Cookies assist us in tracking which of our features you like best. And when you re-visit our sites, cookies can enable us to customize our content according to your preferences. However, cookies tell us nothing about you personally unless you specifically give us additional information.
 
-**Other Information We Collect and Our Use and Disclosure of Your Information**
+Cookies used on the website by category:
 
-We also occasionally send emails and newsletters to our users, announcing special promotions changes in our services, and other information we believe will be of interest to our users. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. This information may be shared with advertisers and our partners on an individual or aggregate basis.
-
-If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on our site, we may collect such information into a file specific to you. We would use information in the file that we maintain for you, and other information that we obtain from your use of the services, to resolve disputes, troubleshoot problems and enforce our _[Terms of Use](http://boobs.com/terms_and_conditions.php "Terms of Use")_.
-
-The personal information collected from registered users includes your name, e-mail address, IP address, mailing address, telephone number and the number of visits to the site. We also collect the information which you provide regarding your service and/or products needs.
-
-We may use the collect personal information for various purposes, including but not limited to the following: (1) to fulfill your requests for products and services; (2) to offer products and services that may be of interest to you; (3) to customize the advertising and content that you see on our website; (4) to facilitate use of our website; (5) to manage your account and your preferences; (6) to analyze use of and improve our website, products and services; (7) to identify and protect against fraudulent transactions and other misuses of our website; and (8) to enforce our Terms of Use.
-
-Boobs.com does not sell, trade or give away any personal information or listing information which you provide, other than the information which you volunteer for your particular listing, and only for the purposes specifically described there.
-
-We cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. For example, we may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. We can (and you authorize us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us to legal liability.
-
-**Linked Sites**
-
-For your convenience, this website contains links to other websites. Boobs.com is not responsible for the privacy practices or the content of such websites. Users should be aware that when they are on Boobs.com, they could be directed to other sites that are beyond our control. There are links to other sites from Boobs.com pages that take you outside our service. For example, if you click on a banner advertisement, doing so may direct you off of Boobs.com. Such other sites may send their own cookies to users, collect data, or solicit personal information. Whenever you give out personal information online (for example, via message boards or chat rooms) information can be collected and used by other people. While Boobs.com strives to protect our users' personal information and privacy, we cannot guarantee the security of any information you disclose online, and you do so at your own risk.
-
-**Security**
-
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. All user information is stored on a server operated by a third party, using standard security measures. Notwithstanding these efforts, we caution you that “perfect security” does not exist on the Internet and therefore you share information at your own risk.
-
-**Choice/Opt-Out  **
-
-This website gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. To keep you in control of your personal information and the communications directed to you, we allow you to opt out of the following services: receiving communications (including our newsletters) from us about new Boobs.com shows, and receiving communications about offers from third-party companies that offer a product or service that we think would be of value to you. If you object to such use for any reason, you may stop that use by modifying your member information online.
-
-  1. Change your mailing preferences at [My Account](http://http//boobs.com/accounts/account.php)
+  * Strictly necessary cookies - These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website.
+  * Performance cookies - These cookies collect anonymous information on the pages visited. By using our site, you agree that we can place these types of cookies on your device. These cookies collect information about how visitors use a website, for instance which pages visitors go to most often. These cookies don't collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works.
+  * Functionality cookies - These cookies remember choices you make to improve your experience. By using our site, you agree that we can place these types of cookies on your device. These cookies allow the website to remember choices you make and provide enhanced, more personal features. The information these cookies collect may be anonymized and they cannot track your browsing activity on other websites.
+  * Advertising cookies - These cookies are used to deliver advertisements more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organizations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organization.
 
 
 
-**For California Residents**
+You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. However, note that if you reject some or all cookies, your experience at our sites and on other sites throughout the World Wide Web may not be complete. Some sites require cookies to function, such as those with e-commerce features. In addition, if you do not allow cookies, you will not be able to take advantage of personalized content delivery offered by us or other Internet sites.
 
-If you are a resident of California, in addition to the rights set forth above, you have the right to request information from us regarding the manner in which we share certain categories of personal information with third parties and the IAC companies for their direct marketing purposes. California law gives you the right to send us a request at a designated address to receive the following information:
+This site makes chat rooms available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. If you disclose your email address in a chat room or forum, you may receive unsolicited email or "spam". We cannot safeguard the privacy of any such information you choose to disclose online in this manner and you must do so carefully and at your own risk.
 
-  1. the categories of information we disclosed to third parties for their direct marketing purposes during the preceding calendar year
-  2. the names and addresses of the third parties that received that information; and
-  3. if the nature of the third party's business cannot be determined from their name, examples of the products or services marketed.
+Because we care about the safety and privacy of children online, we comply with the Children’s Online Privacy Act of 1998 (COPA). COPA and its accompanying FTC regulation established United States federal law that protects the privacy of children using the Internet. BigMelons does not knowingly collect contact or personal information from persons under 18. Our sites are not intended to solicit information of any kind from persons under 18, and we have designed our sites to block our knowing acceptance of information from persons under 18 wherever age related information is requested.
 
+Members areas of BigMelons may contain content considered offensive to some, and are inaccessible to individuals under the age of 18 via a standard credit card wall, as advocated by the Communications Decency Act. It is possible that by fraud or deception we may receive information given to us or pertaining to minors under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by minors, please do so by emailing us at [support@bigmelons.com](https://web.archive.org/contactsupport.php?).
 
+BigMelons does not send unsolicited email to anyone who has requested we do not contact them. Any newsletters that we send are only sent to those who are active members of the site. To stop receiving email or newsletters from BigMelons, either follow the instructions on the email or newsletter itself or send a request to be unsubscribed to [Support](https://web.archive.org/contactsupport.php?).
 
-We may provide this information in a standardized format that is not specific to you. The designated email address for these requests is [webmaster@boobs.com](mailto:webmaster@boobs.com)
+BigMelons also does not condone spam by affiliates or chat hosts advertising our site. Spam by our affiliates is prohibited by our Acceptable Use Policy. Some trusted partners may email a member to present special offers to our members. Further, according to our published policy, if BigMelons becomes aware that a customer or affiliate is in violation of the law or this Acceptable Use Policy, BigMelons reserves the right to impose disciplinary action in its sole discretion. Our disciplinary action may include: removal from our servers of files that violate our Acceptable Use Policy, the expulsion of the customer from the BigMelons program, termination of BigMelons services, and forfeiture of all commissions.
 
-**Contacting Boobs.com about the Website**
+If you have any questions about this Privacy Policy, please contact our customer service department at [support@bigmelons.com](https://web.archive.org/contactsupport.php?) and provide us with your name, your BigMelons login name, and any information you feel is important.
 
-If you have any questions about this privacy policy, the practices of this site, or your dealings with Boobs.com or this Website, you can contact:
+The address for correspondence by post is
 
-Boobs.com 
-
-rev date: 01.23.2012
+.cnI ,ygolonhceT FCI  
+80512 xoB OP  
+11189 AW ,elttaeS  
+ASU
