@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the overallbeauty.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119223434id_/http%3A//overallbeauty.com/homepage/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overallbeauty.com privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522080546id_/http%3A//overallbeauty.com/homepage/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Notice » Overall Beauty
+# Privacy Notice » OverallBeauty.com
 
 Overall Beauty/Website/Creator of [**Overall Beauty Minerals**](http://overallbeauty.com/product-category/overall-beauty-minerals-brand-mineral-makeup/ "Overall Beauty Minerals vegan friendly mineral makeup") your vegan friendly mineral makeup line.  
 ATTN: Kim Snyder  
