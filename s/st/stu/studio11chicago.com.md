@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studio11chicago.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117151902id_/http%3A//www.studio11chicago.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studio11chicago.com privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522161132id_/http%3A//www.studio11chicago.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | STUDIO 11
 
