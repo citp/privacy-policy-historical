@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thecriticalslidesociety.com privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013181853id_/http%3A//www.thecriticalslidesociety.com/static_page%3Fid%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecriticalslidesociety.com privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523005536id_/http%3A//www.thecriticalslidesociety.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# TCSS
+# Privacy Policy – The Critical Slide Society
 
 ## Privacy Policy
 
@@ -9,3 +9,7 @@ The Critical Slide Society is dedicated to keeping your details private. Any inf
 Whenever you use our web site, or any other web site, the computer on which the web pages are stored (the Web server) needs to know the network address of your computer so that it can send the requested web pages to your Internet browser. The unique network address of your computer is called its "IP address," and is sent automatically each time you access any Internet site. From a computer's IP address, it is possible to determine the general geographic location of that computer, but otherwise it is anonymous.
 
 We do not keep a record of the IP addresses from which users access our site except where you have specifically provided us with information about yourself, in which case we also record your IP address for security purposes. An example of this would be when proceeding to a checkout to finalise an order you may wish to make. After completing the form provided, your IP address will be stored along with a transaction number that allows us to track your order.
+
+## Security Policy
+
+When purchasing from The Critical Slide Society your financial details are passed through a secure server using the latest 128-bit SSL (secure sockets layer) encryption technology.128-bit SSL encryption is approximated to take at least one trillion years to break, and is the industry standard. If you have any questions regarding our security policy, please contact our customer support info@thecriticalslidesociety.com
