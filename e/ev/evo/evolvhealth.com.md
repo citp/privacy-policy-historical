@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the evolvhealth.com privacy policy that was archived on 2015-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150830041621id_/http%3A//www.evolvhealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evolvhealth.com privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522184609id_/http%3A//www.evolvhealth.com/privacy-policy) for the most accurate reproduction.*
 
-# EvolvHealth, LLC | Privacy Policy
+# Privacy Policy – EvolvHealth, LLC
 
 #### What information do we collect?
 
