@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myeexcel.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011041523id_/http%3A//eexcel.myvoffice.com/index.cfm%3FFuse%3Dpublic/Files%26Page%3DPrivacyStatement%26HideCloseWindow%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myeexcel.com privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522171737id_/http%3A//eexcel.myvoffice.com/index.cfm%3FFuse%3Dpublic/Files%26Page%3DPrivacyStatement%26HideCloseWindow%3D1) for the most accurate reproduction.*
 
-# E. Excel Evo
+# E. EXCEL Evo
 
   
 
@@ -12,9 +12,9 @@ Privacy Policy
   
 ---  
   
-**E. Excel** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: **E. Excel**.
+**E. EXCEL** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: **E. EXCEL**.
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Our site uses cookies to keep track of your login status and personal preferences. This site contains links to other sites. **E. Excel** is not responsible for the privacy practices or the content of such Web sites.
+We use your IP address to help diagnose problems with our server, and to administer our Web site. Our site uses cookies to keep track of your login status and personal preferences. This site contains links to other sites. **E. EXCEL** is not responsible for the privacy practices or the content of such Web sites.
 
 Our site uses a registration form for customers to request information, products, and services. We collect visitors' contact information (such as their email address). Contact information from the registration form is used to track and bill for service usage. 
 
