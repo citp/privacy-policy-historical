@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markeedragon.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221153517id_/http%3A//markeedragon.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markeedragon.com privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522231320id_/http%3A//news.markeedragon.com/privacypolicy) for the most accurate reproduction.*
 
 # Markee Dragon Game Codes,Markee Dragon News,Dragon Media Entertainment LLC -Privacy Policy | Markee Dragon News
 
@@ -50,6 +50,22 @@ We are in compliance with the requirements of COPPA (Children’s Online Privacy
 
 MDN will occasionally update this Statement of Privacy to reflect company and customer feedback. MDN encourages you to periodically review this Statement to be informed of how MDN is protecting your information. If we decide to change our privacy policy, we will post those changes on this page, and update the Privacy Policy modification date below.
 
-This policy was last modified on December 04, 2013
+Dragon Media Entertainment LLC
+
+5699 E Sleepydale LN
+
+Hereford,Arizona,85615
+
+USA
+
+support@markeedragon.com
+
+Phone:
+
+(512) 666-7740  
+(512) MMO-RPG0  
+Austin, TX
+
+This policy was last modified on Jan 05, 2016
 
 * * *
