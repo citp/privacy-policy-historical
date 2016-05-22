@@ -1,59 +1,10 @@
-> *The following text is extracted and transformed from the thestandard.com.hk privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124073253id_/http%3A//www.thestandard.com.hk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestandard.com.hk privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522173213id_/http%3A//www.thestandard.com.hk/Privacy.php) for the most accurate reproduction.*
 
-# The Standard - China's Business Newspaper
+# The Standard
 
+Privacy Policy Statement   
 ---  
-|  | [ ](https://web.archive.org/breaking_news.asp?icid=a&d_str=20151124)  
----  
-[](https://web.archive.org/breaking_news.asp?icid=3&d_str=20151124)  
-[](https://web.archive.org/breaking_news.asp?icid=1&d_str=20151124)  
-[](https://web.archive.org/breaking_news.asp?icid=2&d_str=20151124)  
-[](https://web.archive.org/breaking_news.asp?icid=4&d_str=20151124)  
-[](https://web.archive.org/breaking_news.asp?icid=5&d_str=20151124)  
-[](https://web.archive.org/news_sec.asp?we_cat=17&d_str=20151124)  
-[](https://web.archive.org/news_sec.asp?we_cat=11&d_str=20151124)  
-[](https://web.archive.org/news_sec.asp?we_cat=4&d_str=20151124)  
-[](https://web.archive.org/news_sec.asp?we_cat=2&d_str=20151124)  
-[](https://web.archive.org/news_sec.asp?we_cat=3&d_str=20151124)  
-[](https://web.archive.org/news_sec.asp?we_cat=6&d_str=20151124)  
-[](https://web.archive.org/news_sec.asp?we_cat=9&d_str=20151124)  
-[](https://web.archive.org/news_sec.asp?we_cat=5&d_str=20151124)  
-[](https://web.archive.org/news_sec.asp?we_cat=8&d_str=20151124)  
-[](https://web.archive.org/news_sec.asp?we_cat=7&d_str=20151124)  
-[](https://web.archive.org/news_sec.asp?we_cat=21&d_str=20151124)  
-[](https://web.archive.org/news_sec.asp?we_cat=12&d_str=20151124)  
-[](https://web.archive.org/news_sec.asp?we_cat=16&d_str=20151124&fc=1)  
-[](https://web.archive.org/news_sec.asp?we_cat=16&d_str=20151124&fc=2)  
-[](https://web.archive.org/news_sec.asp?we_cat=16&d_str=20151124&fc=3)  
-[](https://web.archive.org/news_sec.asp?we_cat=16&d_str=20151124&fc=4)  
-[](https://web.archive.org/news_sec.asp?we_cat=16&d_str=20151124&fc=6)  
-[](https://web.archive.org/news_sec.asp?we_cat=16&d_str=20151124&fc=7)  
-[](https://web.archive.org/news_sec.asp?we_cat=16&d_str=20151124&fc=11)  
-[](https://web.archive.org/news_sec.asp?we_cat=16&d_str=20151124&fc=12)  
----  
-[ ](https://web.archive.org/news_search.asp)  
-[ ](https://web.archive.org/character_builder.asp)  
-[ ](http://www.thestandard.com.hk/images/elan.pdf)  
-[ ](http://www.thestandard.com.hk/files/cheng)  
-[ ](http://www.student.thestandard.com.hk/)  
-[ ](http://www.finance.thestandard.com.hk/)  
-[Newsfeeds](https://web.archive.org/newsfeed.asp)  
-[ ](https://web.archive.org/newsfeed.asp)   [ ](https://web.archive.org/newsfeed.asp)  
-[Contact Us](https://web.archive.org/contactus.asp)  
-[About Us](https://web.archive.org/aboutus.asp)  
-[Print Advertising](https://web.archive.org/banners/PrintAdRate.pdf)  
-[Online Advertising](https://web.archive.org/banners/OnlineAdRate.pdf)  
-[Archive ](https://web.archive.org/news_search.asp)  
-[Site Search](https://web.archive.org/news_search.asp)  
-[ ](https://web.archive.org/web/20151124073253id_/http%3A//www.thestandard.com.hk/TS_StreetPoints_2013-10.pdf)  
-[ ](https://web.archive.org/banners/IndividualOrderForm.pdf)  
-  
-|   | 
-
-**Privacy Policy Statement**   
-
-
-|  Sing Tao Limited, its subsidiaries and/or its affiliates are hereinafter collectively referred to as "the Company", "we", "our" or "us". 
+Sing Tao Limited, its subsidiaries and/or its affiliates are hereinafter collectively referred to as "the Company", "we", "our" or "us". 
 
 We provide various services including but not limited to membership of the Company, electronic news, information, newsletters, product selling and/or purchasing, games, message boards, album, chat rooms, and/or forums ("the Services") through different forms, means, medium and channels, including the Company's website ("Website"). 
 
@@ -61,7 +12,6 @@ Your use of our Services, is subject to the terms and conditions set out in this
 
 It is our policy to comply with the requirements of the Personal Data (Privacy) Ordinance (Cap. 486) of the Laws of Hong Kong ("the Ordinance"). The meaning of "personal data" in this PPS is same as that defined in the Ordinance.   
   
----  
 **About this PPS**  
 This PPS will give you information about our practices regarding collection, use and disclosure of information including personal data that you may provide to us whether via the Website or not. Please read this entire PPS carefully before using the Services or submitting any information including your personal data to us. 
 
@@ -142,6 +92,4 @@ This PPS is subject to changes and revisions from time to time. Please check per
 
 This PPS is written in the English language and may be translated into Chinese language. In the event of inconsistency between the English version and the translated version of this PPS, the former shall prevail.  
   
-This Privacy Policy was last updated on December 30, 2013.   
-  
- 
+This Privacy Policy was last updated on December 30, 2013. 
