@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tradershuddle.com privacy policy that was archived on 2015-11-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151128082823id_/http%3A//www.tradershuddle.com/Site-Details/pp.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tradershuddle.com privacy policy that was archived on 2016-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160522075838id_/http%3A//www.tradershuddle.com/Site-Details/pp.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en-gb" lang="en-gb"><head>
 <meta name="google-site-verification" content="NaVNDfyM59FV7-qPFf9uWd5Vx-MN4ph5OwptuqjIjW8">
@@ -19,6 +19,7 @@
   <link href="http://cdn.tradershuddle.com/templates/gk_twn2/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
   <link rel="stylesheet" href="http://www.tradershuddle.com/templates/gk_twn2/css/menu.gkmenu.css" type="text/css">
   <link rel="stylesheet" href="http://www.tradershuddle.com/modules/mod_stock_gk4/style/style.css" type="text/css">
+  <link rel="stylesheet" href="/components/com_ajaxregistration/assets/css/validate.css" type="text/css">
   <link rel="stylesheet" href="http://www.tradershuddle.com/modules/mod_news_pro_gk4/interface/css/style.css" type="text/css">
   <link rel="stylesheet" href="http://www.tradershuddle.com/modules/mod_news_pro_gk4/interface/css/style.portal.mode.4.css" type="text/css">
   <style type="text/css">
@@ -69,9 +70,34 @@ div.header .nspLinks ul li h4 { font-family: Yanone Kaffeesatz, Arial, sans-seri
   <script src="http://cdn.tradershuddle.com/templates/gk_twn2/js/gk.scripts.js" type="text/javascript"></script>
   <script src="http://cdn.tradershuddle.com/templates/gk_twn2/js/ie7.equal.columns.js" type="text/javascript"></script>
   <script src="http://www.tradershuddle.com/modules/mod_stock_gk4/scripts/engine.js" type="text/javascript"></script>
+  <script src="/media/system/js/validate.js" type="text/javascript"></script>
   <script src="http://www.tradershuddle.com/modules/mod_news_pro_gk4/interface/scripts/engine.js" type="text/javascript"></script>
   <script src="http://www.tradershuddle.com/modules/mod_news_pro_gk4/interface/scripts/engine.portal.mode.4.js" type="t" defer="defer" async="async"></script>
   <script type="text/javascript">
+ $GKMenu = { height:true, width:true, duration: 250 };
+$GK_TMPL_URL = "http://www.tradershuddle.com/templates/gk_twn2";
+ $GKMenu = { height:true, width:true, duration: 250 };
+$GK_TMPL_URL = "http://www.tradershuddle.com/templates/gk_twn2";
+ $GKMenu = { height:true, width:true, duration: 250 };
+$GK_TMPL_URL = "http://www.tradershuddle.com/templates/gk_twn2";
+ $GKMenu = { height:true, width:true, duration: 250 };
+$GK_TMPL_URL = "http://www.tradershuddle.com/templates/gk_twn2";
+var RecaptchaOptions = {
+                           theme : 'clean',
+                           lang  : 'en'
+                        };
+function keepAlive() {	var myAjax = new Request({method: "get", url: "index.php"}).send();} window.addEvent("domready", function(){ keepAlive.periodical(1740000); });
+		window.addEvent('domready', function() {
+			$$('.hasTip').each(function(el) {
+				var title = el.get('title');
+				if (title) {
+					var parts = title.split('::', 2);
+					el.store('tip:title', parts[0]);
+					el.store('tip:text', parts[1]);
+				}
+			});
+			var JTooltips = new Tips($$('.hasTip'), { maxTitleChars: 50, fixed: false});
+		});
  $GKMenu = { height:true, width:true, duration: 250 };
 $GK_TMPL_URL = "http://www.tradershuddle.com/templates/gk_twn2";
   </script>
@@ -107,7 +133,8 @@ $GK_TMPL_URL = "http://www.tradershuddle.com/templates/gk_twn2";
 		</div>
 			
 <div id="gkBanner1">
-      
+      <script src="http://ib.adnxs.com/ttj?id=1995757&amp;position=above" type="text/javascript"></script>
+
 </div>
 
 		<div id="gkButtons">
@@ -191,11 +218,12 @@ $GK_TMPL_URL = "http://www.tradershuddle.com/templates/gk_twn2";
 " aapl"="" (goog)"="">
 					<div class="col1"><img src="http://www.tradershuddle.com/images/focus/GOOG.png"></div>
 					<div class="col2">GOOG<br><small><span class="focus_red">N/A</span></small></div>
-					<div class="col3">750.26<br><small><span class="focus_red">N/A</span></small></div>
+					<div class="col3">709.74<br><small><span class="focus_red">N/A</span></small></div>
 				</a>
 			</div>
 			
-			<p></p></div></div></div></div>
+			<p></p></div></div></div></div><div class="box"><div><div class="content"><script src="http://ib.adnxs.com/ttj?id=1995761&amp;position=above" type="text/javascript"></script>
+</div></div></div>
                 </div>
 							
 				
@@ -339,18 +367,121 @@ jQuery(document).ready(function(){
 <tr>
 <td>
 <p><strong>Stock Search:</strong></p>
-<p></p>
+<p></p><form id="quote" name="quote" action="http://www.tradershuddle.com/Site-Details/tradershuddleresults.html"><input id="txtQuotes" name="symb" value="" type="text" autocomplete="off" size="50" align="right"><br><input type="submit" value="Get Stock"></form>
+<script type="text/javascript" src="http://l.yimg.com/bm/combo?fi/common/p/d/static/js/0.0.110/yui_2.8.0/build/yuiloader-dom-event/2.0.0/mini/yuiloader-dom-event.js&amp;fi/common/p/d/static/js/0.0.110/yui_2.8.0/build/container/2.0.0/mini/container.js&amp;fi/common/p/d/static/js/0.0.110/2.0.0/mini/ylc_1.9.js&amp;fi/common/p/d/static/js/0.0.110/2.0.0/mini/yfi_symbol_suggest.js&amp;fi/common/p/d/static/js/0.0.110/2.0.0/mini/yfi_nav_topnav_init.js&amp;fi/common/p/d/static/js/0.0.110/2.0.0/mini/yfi_nav_topnav.js"></script><div id="spaceid" style="display:none;">95993639</div><script type="text/javascript">
+                  var dsServerVal = 'http://d.yimg.com/aq/autoc';
+                  var dsRegionVal = 'US';
+                  var dsLangVal = 'en-US';
+                  var dsFooterVal = '';
+
+				    
+                    // Ensure we have loaded all YUI dependencies for us to run symbol suggest
+                    function loadRequiredLibraries(libs, config){
+                        this.log = function(msg, more){
+                            if(config.debug && window.console && window.console.log){
+                                window.console.log(msg, more);
+                            }
+                        }
+                        
+                        var YSS = YAHOO.Finance.SymbolSuggest();
+                        var conf = {
+                            dsServer:dsServerVal,
+                            dsRegion:dsRegionVal,
+                            dsLang:dsLangVal,
+                            dsFooter:dsFooterVal,
+                            acInputId:'txtQuotes',
+                            acInputFormId:'quote',
+                            acContainerId:'quoteContainer'
+                        }
+                        
+                        // Deal with focus issues of autocomplete
+                        if(document.activeElement == document.getElementById(conf.acInputId)){
+                            YSS.acInputHasFocus(true);
+                        }
+
+                        var libsLoadedEvent = new YAHOO.util.CustomEvent("libsLoadedEvent", this);
+                        var libsLoadedDone = function (){
+                            this.log('Yay, we have all our YUI dependencies!');
+                            YSS.init(conf);
+                        }
+
+                        libsLoadedEvent.subscribe(libsLoadedDone, this);
+
+                        // this.log = console.log;
+                        var lazyLoadLibs = [];
+                        // Go through provided
+                        for(i = 0, l = libs.length; i < l; i++ ){
+                            if(!YAHOO.env.getVersion(libs[i])){
+                                this.log('I need to load', libs[i]);
+                                lazyLoadLibs.push(libs[i]);
+                            }
+                        }
+
+                        if(lazyLoadLibs.length > 0){
+                            var that = this;
+                            var loaderConf = {
+                                require: lazyLoadLibs,
+                                loadOptional: false,
+                                onSuccess: function(o) {
+                                    that.log('loaded lib', o);
+                                    libsLoadedEvent.fire();
+                                },
+                                onFailure: function(o) {
+                                    that.log('failed to load lib', o);
+                                    return false;
+                                },
+                                timeout: 1000,
+                                combine: true
+                            }
+                            var loader = new YAHOO.util.YUILoader(loaderConf);
+                            loader.insert();
+                        } else {
+                            // All the libraries we need are already loaded
+                            libsLoadedEvent.fire();
+                        }
+                        return true;
+                    };
+
+ 
+                    YAHOO.util.Event.onAvailable('txtQuotes' ,function() {
+                        // Identify the components you want to load.  Loader will automatically identify
+                        var requiredLibs = ["datasource", "autocomplete", "json", "event", "dom"];
+                        var config = {debug : false};
+                        var loadLibraries = loadRequiredLibraries(requiredLibs, config);
+                    });
+                    				    
+				</script><p></p>
 </td>
 </tr>
 <tr>
 <td>
 <p><strong>Site Search:</strong></p>
+<p></p><div id="cse-search-form" style="width: 100%;">Loading</div>
+<script src="//www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript"> 
+  google.load('search', '1', {language : 'en', style : google.loader.themes.MINIMALIST});
+  google.setOnLoadCallback(function() {
+    var customSearchControl = new google.search.CustomSearchControl('003544542118888062154:1srz2jvkkoo');
+    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+    var options = new google.search.DrawOptions();
+    options.setAutoComplete(true);
+    options.enableSearchboxOnly("/Search/search-results.html");
+    customSearchControl.draw('cse-search-form', options);
+  }, true);
+</script>
+
 <p></p>
 </td>
 </tr>
 </tbody>
 </table>
 </div></div></div></div></div><div class="box dark"><div><h3 class="header"><span>Technical Scans</span></h3><div class="content">
+	<div style="direction: ltr; text-align: left ! important" class="feed dark">
+	
+			<ul class="newsfeed dark">
+						</ul>
+
+	</div>
 </div></div></div><div class="box dark"><div><h3 class="header"><span>Recent Trading Ideas</span></h3><div class="content">
 
 <div class="custom dark">
@@ -361,7 +492,8 @@ jQuery(document).ready(function(){
 						</ul>
 
 	</div>
-<p></p></div></div></div></div><div class="box"><div><h3 class="header"><span>Latest Partner Headlines</span></h3><div class="content">
+<p></p></div></div></div></div><div class="box"><div><div class="content"><script src="http://ib.adnxs.com/ttj?id=1995718&amp;position=above" type="text/javascript"></script>
+</div></div></div><div class="box"><div><h3 class="header"><span>Latest Partner Headlines</span></h3><div class="content">
 
 <div class="custom">
 	<p>
@@ -392,8 +524,8 @@ jQuery(document).ready(function(){
 		<div class="gks_stock">
 						<span class="gks_trigger first" title="INDEXDJX:.DJI">o</span>
 									<a href="http://www.google.com/finance?q=INDEXDJX:.DJI" class="gks_stock_name" title="INDEXDJX:.DJI">Dow Jones</a>
-						<span class="gks_value">17,798.49</span>
-			<span class="gks_change minus">▼14.90 (-0.08%)</span>
+						<span class="gks_value">17,500.94</span>
+			<span class="gks_change plus">▲65.54 (0.38%)</span>
 		</div>
 				
 		
@@ -401,8 +533,8 @@ jQuery(document).ready(function(){
 		<div class="gks_stock">
 						<span class="gks_trigger second" title="INDEXSP:.INX">o</span>
 									<a href="http://www.google.com/finance?q=INDEXSP:.INX" class="gks_stock_name" title="INDEXSP:.INX">S&amp;P 500</a>
-						<span class="gks_value">2,090.11</span>
-			<span class="gks_change plus">▲1.24 (0.06%)</span>
+						<span class="gks_value">2,052.32</span>
+			<span class="gks_change plus">▲12.28 (0.60%)</span>
 		</div>
 				
 		
@@ -410,8 +542,8 @@ jQuery(document).ready(function(){
 		<div class="gks_stock">
 						<span class="gks_trigger third" title="INDEXNASDAQ:.IXIC">o</span>
 									<a href="http://www.google.com/finance?q=INDEXNASDAQ:.IXIC" class="gks_stock_name" title="INDEXNASDAQ:.IXIC">NASDAQ</a>
-						<span class="gks_value">5,127.52</span>
-			<span class="gks_change plus">▲11.38 (0.22%)</span>
+						<span class="gks_value">4,769.56</span>
+			<span class="gks_change plus">▲57.02 (1.21%)</span>
 		</div>
 						<div class="gks_tooltip_data">
 						<div class="gks_tooltip_stock">		
@@ -422,9 +554,9 @@ jQuery(document).ready(function(){
 				<div class="gks_tooltip_datas">
 					<h3>Dow Jones</h3>
 					<sub><strong>Company ID</strong> [INDEXDJX:.DJI]</sub>
-					<span class="gks_tooltip_value"><strong>Last trade:</strong>17,798.49</span>
-					<span class="gks_tooltip_time"><strong>Trade time:</strong>1:57PM EST</span>
-					<span class="gks_tooltip_change minus"><strong>Value change:</strong>▼14.90 (-0.08%)</span>
+					<span class="gks_tooltip_value"><strong>Last trade:</strong>17,500.94</span>
+					<span class="gks_tooltip_time"><strong>Trade time:</strong>4:50PM EDT</span>
+					<span class="gks_tooltip_change plus"><strong>Value change:</strong>▲65.54 (0.38%)</span>
 				</div>
 			</div>	
 						<div class="gks_tooltip_stock">		
@@ -435,9 +567,9 @@ jQuery(document).ready(function(){
 				<div class="gks_tooltip_datas">
 					<h3>S&amp;P 500</h3>
 					<sub><strong>Company ID</strong> [INDEXSP:.INX]</sub>
-					<span class="gks_tooltip_value"><strong>Last trade:</strong>2,090.11</span>
-					<span class="gks_tooltip_time"><strong>Trade time:</strong>1:57PM EST</span>
-					<span class="gks_tooltip_change plus"><strong>Value change:</strong>▲1.24 (0.06%)</span>
+					<span class="gks_tooltip_value"><strong>Last trade:</strong>2,052.32</span>
+					<span class="gks_tooltip_time"><strong>Trade time:</strong>4:50PM EDT</span>
+					<span class="gks_tooltip_change plus"><strong>Value change:</strong>▲12.28 (0.60%)</span>
 				</div>
 			</div>	
 						<div class="gks_tooltip_stock">		
@@ -448,15 +580,21 @@ jQuery(document).ready(function(){
 				<div class="gks_tooltip_datas">
 					<h3>NASDAQ</h3>
 					<sub><strong>Company ID</strong> [INDEXNASDAQ:.IXIC]</sub>
-					<span class="gks_tooltip_value"><strong>Last trade:</strong>5,127.52</span>
-					<span class="gks_tooltip_time"><strong>Trade time:</strong>2:15PM EST</span>
-					<span class="gks_tooltip_change plus"><strong>Value change:</strong>▲11.38 (0.22%)</span>
+					<span class="gks_tooltip_value"><strong>Last trade:</strong>4,769.56</span>
+					<span class="gks_tooltip_time"><strong>Trade time:</strong>5:15PM EDT</span>
+					<span class="gks_tooltip_change plus"><strong>Value change:</strong>▲57.02 (1.21%)</span>
 				</div>
 			</div>	
 					</div>
 		<div class="gks_tooltip ts-left tp-tooltip1"></div>
 			</div>
 </div></div></div></div><div class="box color"><div><h3 class="header"><span>In The Wires</span></h3><div class="content">
+	<div style="direction: ltr; text-align: left ! important" class="feed color">
+	
+			<ul class="newsfeed color">
+						</ul>
+
+	</div>
 </div></div></div>
 	</div>
 		
@@ -468,7 +606,8 @@ jQuery(document).ready(function(){
 <div id="gkUser1" class="gkMain gkWrap">
 			
 	<div id="gkuseruser1" class="gkCol gkColFull">
-				
+				<div class="box"><div><div class="content"><script src="http://ib.adnxs.com/ttj?id=1995784&amp;position=below" type="text/javascript"></script>
+</div></div></div>
 	</div>
 		</div>
 
