@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chikk.net privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121175210id_/http%3A//chikk.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chikk.net privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522164204id_/http%3A//chikk.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Chikk.net
 
