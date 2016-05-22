@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planisware.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428054810id_/http%3A//www.planisware.com/planisware-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planisware.com privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522040630id_/https%3A//www.planisware.com/planisware-privacy-policy) for the most accurate reproduction.*
 
 # Planisware Privacy Policy | Planisware
 
@@ -12,9 +12,9 @@ We also may collect certain non-personally identifiable information when you vis
 
 ## How We Use the Information
 
-We use the information you provide about yourself to respond to your inquiries about our products and services, and if you opted in to send you news and updates about our offerings to provide you with opportunities to purchase other products or services that we believe may be of interest to you.
+We use the information you provide about yourself to respond to your inquiries about our products and services.
 
-We will disclose personally identifiable information only in response to legal process or when we believe in good faith that the law requires it.
+We value your privacy. We do not sell, rent, loan, or give your email address or other personal information to anybody without your express permission. We will disclose personally identifiable information __**only**__ in response to legal process or when we believe in good faith that the law requires it.
 
 We use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products or services.
 
@@ -32,4 +32,4 @@ Planisware provides you the opportunity to exercise an opt-out choice if you do 
 
 ## Contact Us
 
-If you have any questions or concerns about our privacy policy or its implementation, you may contact through [our web formular](https://web.archive.org/web/20150428054810id_/http%3A//www.planisware.com/planisware-information-request) or by phone at your nearest Planisware location. See our [contact page](https://web.archive.org/web/20150428054810id_/http%3A//www.planisware.com/contact).
+If you have any questions or concerns about our privacy policy or its implementation, you may contact through [our web formular](https://web.archive.org/web/20160522040630id_/https%3A//www.planisware.com/planisware-information-request) or by phone at your nearest Planisware location. See our [contact page](https://web.archive.org/web/20160522040630id_/https%3A//www.planisware.com/contact).
