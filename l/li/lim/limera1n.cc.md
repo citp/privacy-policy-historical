@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the limera1n.cc privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021211059id_/http%3A//www.limera1n.cc/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limera1n.cc privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522024423id_/http%3A//www.limera1n.cc/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Unlock / Untethered Jailbreak iOS 8 / 8.0.2 with Pnagu: Privacy Policy
+# Privacy Policy - Unlock / Untethered Jailbreak iPhone with Pnagu
 
 **Privacy Policy for www.Limera1n.cc**
 
