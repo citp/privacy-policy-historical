@@ -1,31 +1,35 @@
-> *The following text is extracted and transformed from the twed.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206113123id_/http%3A//twed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twed.com privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522230845id_/http%3A//twed.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy policy sets out how Twed uses and protects any information that you give us when you use this website.  
-Twed  is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  
-Twed may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from february 1, 2014.
+## Information Collection and Use 
 
-**Security**
-
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
-
-**How we use cookies**  
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
-
-We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
-
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
-
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
-
-**Third Party Vendors**
-
-  * Third party vendors, including Google, use cookies to serve ads based on a your prior web site visits.
-  * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visits to Twed and/or other sites on the Internet.
-  * You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (or by visiting [aboutads.info](http://www.aboutads.info/).)
+### 1\. The information collected   
 
 
+Twed.com is the sole owner of information collected on this site. Twed.com doesn’t sell, share, or rent this information to any outside parties, except as outlined in this policy.   
+Information collected includes:   
+— customer’s name   
+— payment information   
+— e-mail address   
+— username and password of customer’s choice   
+Twed.com allows third-party companies to collect non-personally identifiable information when customers visit the website.   
 
-**Links to other websites**  
-Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+### 2\. Cookies
+
+— Twed.com customizes certain Web page content based upon customer’s browser type and other information provided by our cookie. Twed.com doesn’t share any personally identifiable information provided by this cookie with any third party. 
+
+— This privacy statement covers the use of cookies by Twed.com only and does not cover the use of cookies by any advertisers, since we have no access to or control over these cookies. 
+
+### 3\. Log Files
+
+Twed.com uses IP addresses to analyze trends, administer the site, track user movement, and gather broad demographic information for aggregate use. We do not link IP addresses to personally identifiable information, and we do not distribute or share IP information with any third parties. 
+
+### 4\. Security
+
+Twed.com takes precautions to protect its customers' information. When you submit sensitive information via the website, your information is protected both online and offline. 
+
+### Last Update
+
+The Privacy Policy contained herein became officially effective October 1, 2015. 
