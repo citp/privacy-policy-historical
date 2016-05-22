@@ -1,172 +1,135 @@
-> *The following text is extracted and transformed from the getrocketbook.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128192509id_/https%3A//learn.indiegogo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getrocketbook.com privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522225641id_/http%3A//getrocketbook.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Indiegogo
+# Rocketbook Privacy Policy
 
-## Indiegogo, Inc.
+  1. **  Introduction**
 
-This Privacy Policy was last modified on and is effective as of June 26, 2015.
 
-Indiegogo, Inc. (“ **Indiegogo** ,” “ **we** ,” or “ **us** “) knows that you care how Personal Information about you is collected, used, shared and stored. “ **Personal Information** ” means information which personally identifies you or another.
 
-This Privacy Policy explains what Personal Information will be collected by Indiegogo when you use our Website: [https://www.indiegogo.com/](https://web.archive.org/) and related services (the “ **Service** “), how Personal Information will be used, and how you can control the collection, correction and/or deletion of Personal Information.
+Thank you for visiting Rocketbook and, if applicable, downloading our App.  Please read our Terms of Service and this Privacy Policy carefully, as you must agree to both documents in order to be permitted to use our Service.
 
-This Privacy Policy should be read along with our Terms of Use posted at: <https://www.indiegogo.com/about/terms> (“ **Agreement** “), the Partner Terms posted at: <https://www.indiegogo.com/partners/terms>, and Indiegogo’s Cookie Policy posted at: [https://www.indiegogo.com/about/cookies](https://learn.indiegogo.com/cookie-policy/) and all other operating rules, policies and procedures and additional terms and conditions published on our Website (all of which are incorporated by reference) which governs your use of our Website and Service. Capitalized terms, if not defined in this Privacy Policy, are defined in the Agreement.
+  2. **  Definitions**
 
-### TRUSTe
 
-Indiegogo, Inc. has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this English language Website [https://www.indiegogo.com/](https://web.archive.org/) and the related Service, but does not cover information that may be collected through mobile devices, mobile applications, or any 3rd party business affiliates of Indiegogo.
 
-TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at: [privacy@indiegogo.com](mailto:privacy@indiegogo.com) or at: 965 Mission Street, 6th Floor, San Francisco, CA 94103. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). 
+Throughout this document, we may use certain words or phrases, and it is important that you understand the meaning of them.  The following is a non-exhaustive list of definitions of words and phrases found in this document:
 
-### E.U. Safe Harbor
+“App” refers to our mobile software application;
 
-Indiegogo, Inc. complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Indiegogo, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Indiegogo, Inc.’s certification, please visit <http://www.export.gov/safeharbor/>.
+“Rocketbook” refers to our company, known as “Rocket Innovations, Inc.”; our Site; our Service; our App; or a combination of all or some of the preceding definitions, depending on the context in which the word is used;
 
-### Mobile Privacy
+“Service” refers to the services that we provide, including our Site and our App;
 
-We may offer you the ability to connect with our Website, or use our applications, services, and tools using a mobile device, either through a mobile application or via a mobile optimized website. The provisions of this Privacy Policy apply to all such mobile access and use of mobile devices. This Privacy Policy will be referenced by all such mobile applications or mobile optimized websites.
+“Site” refers to our websites, getrocketbook.com, and rocketbookapp.com;
 
-### Personal Information We Collect or You May Provide
+“User” refers to anyone who uses our Service;
 
-You provide us Personal Information when you register to be a User:
+“You” refers to you, the person who is governed by this Privacy Policy.
 
-  * Your name
-  * Your email address
-  * Your Facebook information if you are signing up via Facebook connect (This will authenticate your identity and link your Facebook Profile information, such as your name and email address, to your Indiegogo account. Services like Facebook Connect give you the option to post information about your activities on this Website to your profile page to share with others within your network)
-  * You may provide your location
+  3. **  Information Collected**
 
 
 
-If you create a Campaign, or join as a Campaign team member, you will provide us with the following Personal Information in addition to the Personal Information you provide when you register to be a User:
+Identifying Information
 
-  * Your legal person or business name
-  * Your legal physical address
-  * Your Tax ID (if you are a business)
-  * Your telephone number
-  * Your date of birth
-  * Your PayPal account information (if accepting payments via PayPal)
-  * Your bank account information.
+We collect certain personal information from you when you sign up to our Service that can be used to identify you, such as your name, e-mail address, whiteboard images, and any other information that we deem necessary for the purpose of providing you with our Service or which you provide to us voluntarily.  The information we collect from you, to the extent that it is private, is disclosed only in accordance with our Terms of Service and/or this Privacy Policy.
 
+Non-Identifying Information
 
+Whenever you visit our Site, we may collect non-identifying information from you, such as your IP address, referring URL, browser, operating system, cookie information, and Internet Service Provider.  Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, this information alone cannot usually be used to identify you.
 
-As a Contributor, you may provide:
+  4. **  Use of Your Information**
 
-  * Your name
-  * Your email address
-  * Ship-to information
-  * Your billing name and address
-  * Your PayPal e-mail address
 
 
+We may use your information to:
 
-You may be asked further information in order to help validate your identity:
+  * Enhance or improve User experience, our Site, or our Service.
+  * Send e-mails about our Site or respond to inquiries.
+  * Review your notebook images for the purpose of improving our Service.
+  * Send our e-mail newsletter.
+  * Perform any other function that we believe in good faith is necessary to protect the security or proper functioning of our Site or Service.
 
-  * Your gender
-  * Your driver’s license information, government issued identification number
-  * Other personally identifiable information as we need for verification
 
+  5. **  Accessing, Editing, and Removing Your Information**
 
 
-We may obtain address information about you from third party sources, such as LexisNexis, for fraud prevention or for legal compliance.
 
-We may also collect Personal Information from you as a result of your email communications with us or your Posts which we may retain along with our responses.
+Users may in some cases be able to review and edit the personal information they have provided to us by logging into your account on the Site and editing their account.  Although most changes may occur immediately, information may still be stored in a web browser’s cache.  We take no responsibility for stored information in your cache, or in other devices that may store information, and disclaim all liability of such.  In addition, we may, from time to time, retain residual information about you in our backup and/or database.
 
-As a Campaign Owner, you can invite others who are helping you with your campaign to join your campaign team. We will ask you for this person’s email address and send him or her an email invite to join your team. Indiegogo collects this email address for the purpose of sending this invite. This person may contact us at [privacy@indiegogo.com](mailto:privacy@indiegogo.com) to request that we remove this information.
+  6. **  Cookies**
 
-You can sign up for or sign in to your Indiegogo account using Facebook Connect. When you sign in using Facebook Connect, Indiegogo will receive the following info: your public profile, friend list and email address. Indiegogo uses this info to authenticate your identity, display your number of Facebook friends on your Indiegogo Profile page, show you Campaigns your friends have funded, and link your Facebook Profile information to your Indiegogo account. Facebook Connect gives you the option to post information about your activities on this Website to your profile page to share with others within your network. You can disconnect Facebook Connect under your Indiegogo account settings page.
 
-Any Personal Information you Post as User Content is available to the public without any expectation of privacy or confidentiality. Copies may remain viewable in cached and archived pages or if other Users have copied or stored your User Content even if you remove the User Content. Your name and location are publicly displayed in your profile page. To request removal of your personal information from these areas of the site, contact us using the information below. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. The profile you create on our site will be publically visible. You may change the visibility settings of your Contributions, and the types of information it may disclose, on the “My Contributions” page, and/or when you take specific actions on the site that provide you the option of anonymity.
 
-We display personal testimonials of satisfied users on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us using the information below.
+We use cookies to remember your preferences.  For this reason, it is necessary that you enable cookies in your browser, and you hereby acknowledge that we have informed you of our use of cookies and that you consent to our use of cookies in relation to your computer system.
 
-When you use our mobile site, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location based services, search results, and other personalized content. Most mobile devices allow you to control or disable location services in the device’s setting’s menu. If you have questions about how to disable your device’s location services, we recommend you contact your mobile service carrier or the manufacturer of your particular device.
+  7. **  Third Party Websites**
 
-### How We Use Your Personal Information
 
-We use your Personal Information to operate, maintain, and provide to you the Service and conduct our business. For example (and not limited) to:
 
-  * Register as a User and to identify you when you sign-in to your account
-  * Administer your account or funds
-  * Respond to your inquiries, customer service requests, complaints or your job application
-  * Verify activity as we deem necessary
-  * Send you a newsletter or other promotional communications
-  * Conduct research and analyze data to improve our Service or customize our communications with you
-  * Communicate with you
+Rocketbook may post links to third party websites on its Site.  These third party websites are not screened for privacy or security issues by Rocketbook, and you release us from any liability for the conduct of these third party websites.
 
+Please be aware that this Privacy Policy, and any other policies in place, in addition to any amendments, does not create rights enforceable by third parties or require disclosure of any personal information relating to members of the Service or Site.  Rocketbook bears no responsibility for the information collected or used by any advertiser or third party website.  Please review the privacy policy and terms of service for each site you visit through third party links.
 
+  8. **  Third Party Access to Your Information**
 
-### How We Share Your Personal Information with Third Parties
 
-We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your Personal Information to third parties.
 
-We may share your Personal information:
+Although you are entering into an Agreement with Rocketbook to disclose your information to us, we do use third party individuals and organizations to assist us, including contractors, web hosts, and others.
 
-  * As required by law, such as to comply with reporting requirements, a subpoena, or similar legal process.
-  * In connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity or as we believe reasonably necessary to protect or enforce our rights, protect your safety or the safety of others.
-  * With any other user, contributor, campaign owner or third party with your prior consent to do so as described in this Policy.
+Throughout the course of our provision of our Service to you, we may delegate our authority to collect, access, use, and disseminate your information.  For example, our web host stores the information that you provide us, and we may hire outside contractors to perform maintenance or assist us in securing our website.
 
+It is therefore necessary that you grant the third parties we may use in the course of our business the same rights that you afford us under this Privacy Policy.  For this reason, you hereby agree that for every authorization which you grant to us in this Privacy Policy, you also grant to any third party that we may hire, contract, or otherwise retain the services of for the purpose of operating, maintaining, repairing, or otherwise improving or preserving our website or its underlying files or systems.  You agree not to hold us liable for the actions of any of these third parties, even if we would normally be held vicariously liable for their actions, and that you must take legal action against them directly should they commit any tort or other actionable wrong against you.
 
+Without limiting the generality of the foregoing, you authorize us to collect, share, store, and otherwise use your information in conjunction with:
 
-If you are a Contributor, we share your name, email and shipping address with the Campaign Owner or Campaign team member for delivery of Perks.
+  * Mailchimp
+  * Surveymonkey
+  * Wufoo
+  * Salesforce.com
+  * Insight.ly
+  * Parse.com
+  * Segment.io
+  * MixPanel
+  * Intercom.io
 
-If you are a Campaign Owner, we may share your name, email address, and other contact information with any Contributor who alleges that you have failed to comply with your Campaign commitments such as Perk fulfillment.
 
-We may provide your personal information to companies that provide services to help us with our business activities such as processing your payments, accepting job applications and offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us and are obligated to keep your information confidential. Some of our pages utilize framing techniques to serve content from our service providers while preserving the look and feel of our site, such as when you enter credit card information. Please be aware that you are providing your personal information to these third parties and not to [https://www.indiegogo.com/](https://web.archive.org/).
+  9. **  Release of Your Information for Legal Purposes**
 
-If Indiegogo is involved in a merger, acquisition, or sale of all or a portion of its assets or bankruptcy, you will be notified via email and/or a prominent notice on our Website of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information.
 
-### How We Store and Protect Your Personal Information
 
-We may store Personal Information in locations outside our direct control (for instance, on servers or databases co-located with hosting providers).
+At times it may become necessary or desirable to Rocketbook, for legal purposes, to release your information in response to a request from a government agency or a private litigant.  You agree that we may disclose your information to a third party where we believe, in good faith, that it is desirable to do so for the purposes of a civil action, criminal investigation, or other legal matter.  In the event that we receive a subpoena affecting your privacy, we may elect to notify you to give you an opportunity to file a motion to quash the subpoena, or we may attempt to quash it ourselves, but we are not obligated to do either.  We may also proactively report you, and release your information to, third parties where we believe that it is prudent to do so for legal reasons, such as our belief that you have engaged in fraudulent activities.  You release us from any damages that may arise from or relate to the release of your information to a request from law enforcement agencies or private litigants.
 
-We use Security Sockets Layer (SSL) encryption technology to encrypt sensitive personal information (such as your payment information and geolocation) before it travels over the internet. Credit card numbers are never stored on our database or servers.
+  1. **  Commercial and Non-Commercial Communications**
 
-The security of your personal information is important to us. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Website, you can contact us at [privacy@indiegogo.com](mailto:privacy@indiegogo.com).
 
-### Compromise of Personal Information
 
-We will promptly notify those persons whose Personal Information is compromised. Notwithstanding, Indiegogo does not accept liability for any unintentional disclosure or a disclosure that occurs due to a security breach of our systems or facilities.
+By providing information to the Site that forms the basis of communications with you, such as contact information, you waive all rights to file complaints concerning unsolicited e-mails from Rocketbook since, by providing such information, you agree to receive communications from us or anyone else covered under this Privacy Policy.  However, you may unsubscribe from certain communications by notifying Rocketbook that you no longer wish to receive solicitations or information and we will endeavor to remove you from the database.
 
-### User Access and Choice
+  1. **  Security Measures**
 
-You may, of course, decline to submit Personal Information to us; in which case, you may not be able to become a User or use certain Services.
 
-If your Personal Information changes, you may correct, update, amend, remove, or ask to have it removed by making the change on your user account “Settings” page, by contacting the email address listed below. If you no longer desire our service, you may deactivate/delete your account entirely from the account “Settings” page, or contact us directly. We will respond to your request within 30 days.
 
-We will retain your Personal Information for as long as your account is active or as needed to provide you services. We will retain and use your Personal Information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We take certain measures to enhance the security of our Site and Service, including using SSL certificates.  However, we make no representations as to the security or privacy of your information.  It is in our interest to keep our website secure, but we recommend that you use anti-virus software, firewalls, and other precautions to protect yourself from security threats.
 
-### Notification, Electronic Communication and Opt-Out
+  2. **  Your California Privacy Rights**
 
-You consent to our using your email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. You may not opt out of some Service-related communications. You can change the frequency of many Service-related communications by changing the settings in the “Settings” section.
 
-Upon registration, or on other areas of the site, you may opt-in to receive periodic messages from us, including changes to features of the Service, newsletters, promotions and special offers. If you wish to subscribe to these emails, we will use your name and email address to send them to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing email preferences manager on your account settings page or you can contact us at [privacy@indiegogo.com](mailto:privacy@indiegogo.com). Opting out may prevent you from receiving email messages regarding updates, improvements, or offers.
 
-### Children’s Privacy
+Rocketbook permits residents of California to use its services.  Therefore, it is the intent of Rocketbook to comply with the California Business and Professions Code §§ 22575-22579.  If you are a California resident you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes.  Various provisions throughout this Privacy Policy address requirements of the Californian privacy statutes.  In summary, you must presume that we collect electronic information from all visitors.  You may contact us at help@getrocketbook.com with any questions. 
 
-Protecting the privacy of young children is especially important. Indiegogo does not knowingly collect or solicit Personal Information from anyone under the age of 13 or knowingly allow such persons to register. If you are between the ages of 13 and 17, please use our Service with adult supervision. If you are under 13, please do not send any Personal Information to us. If we learn that we have collected Personal Information from a child under age 13, we will remove that information as quickly as possible. If you believe that we might have any Personal Information from or about a child under 13, please contact us at the contact information below.
+  3. **  International Transfer**
 
-This site complies with the California Eraser law. If you are a California resident, a minor, and you have publicly posted personally identifiable content, you may request such content be removed from our site, by providing a link to the content, your age, and contacting us at the information below. This site is not responsible for content you made public that is taken from this site and posted to another site.
 
-### Tracking Technologies
 
-Our policies are found at: <https://www.indiegogo.com/about/cookies>.
+Your information may be transferred to—and maintained on—computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction.  If you are located outside the United States and choose to provide information to us, Rocketbook transfers Personal Information to the United States and processes it there.  Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-### Links to Other Websites, Blogs/Forums and Social Media Widgets
+  4. **  Amendments**
 
-Our Site includes links to other websites whose privacy practices may differ from those of Indiegogo. When you use a link to go from our Website to another website, such as that of our payments processors, the privacy statement for the other website governs. We encourage you to carefully read and understand the privacy statement of any website you visit.
 
-Our Website offers a publicly accessible blog. You should be aware that any information you provide in these areas may be displayed publicly and read, collected, and used by others who access them. To request removal of your personal information from our blog, contact us at [privacy@indiegogo.com](mailto:privacy@indiegogo.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-Our Website includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button. These Features may collect your IP address, which page you are visiting on our Website, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Website. Your interactions with these Features are governed by the privacy policy of the company providing it.
+We may amend this Privacy Policy from time to time.  When we amend this Privacy Policy, we will post the amended version on this page.  You must read this page each time that you use our Service, and your continued use of our Service shall constitute your acceptance of any such amendments.
 
-### English Language
+Last Modified[:](http://www.rocketboard.it/privacy/#!betasignupsuccess/c13kn)  September 7, 2[0](http://www.rocketboard.it/privacy/#!beta-signup-2-with-ecommerce/crbj)15
 
-The English version of this Privacy Policy governs. All disputes, claims and causes of action (and related proceedings) will be communicated in English.
-
-### Changes to Our Privacy Policy
-
-If we make a material change to our privacy policies and procedures as to the collection, use or disclosure of your Personal Information, we will post a notice of those changes on our Website or notify you by email (sent to the email address specified in your account) to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it, prior to the change becoming effective. You are bound by changes to the Privacy Policy when you use the site after those changes have been posted. We encourage you to periodically review this page for the latest information on our privacy practices.
-
-### Contact Us
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Website, please contact us at [privacy@indiegogo.com](mailto:privacy@indiegogo.com) or at 965 Mission Street, 6th Floor, San Francisco, CA 94103.
+Copyright © 2015 Rocketbook, All Rights Reserved
