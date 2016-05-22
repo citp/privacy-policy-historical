@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the copdconnect.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216212225id_/http%3A//www.copdconnect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copdconnect.com privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522105602id_/http%3A//www.copdconnect.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | COPD Connect
 
@@ -77,7 +77,7 @@ Personally Identifiable Information is information you voluntarily provide and t
 
 Sensitive Personally Identifiable Information (SPII) is sensitive information that you voluntarily provide and is collected when you register for community membership or advertising offers presented to you by our Partners. SPII is information that could result in substantial harm, embarrassment, inconvenience or unfairness to you if lost, compromised or disclosed, and may include:
 
-  * ealth condition(s)
+  * Health condition(s)
 
   * Medications
 
