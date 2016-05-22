@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multcolib.org privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107022233id_/https%3A//multcolib.org/policies-manuals/statement-privacy-and-confidentiality-library-records) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multcolib.org privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522192606id_/https%3A//multcolib.org/policies-manuals/statement-privacy-and-confidentiality-library-records) for the most accurate reproduction.*
 
 # Privacy and confidentiality of library records | Multnomah County Library
 
@@ -105,10 +105,12 @@ Policies for our e-books, audiobooks, streaming music, movies, and kids' stuff:
   * [Ebsco](http://web.a.ebscohost.com/ehost/external?sid=6c6f4765-ab5f-4813-b8c6-2c8deceb4815%40sessionmgr4004&vid=1&hid=4112)
   * [Gale products](http://0-www.gale.com.catalog.multcolib.org/epcopyright/index.htm#privacy)
   * [Hoopla](https://www.hoopladigital.com/privacy)
+  * [IndieFlix](https://indieflix.com/policies/privacy)
   * [OverDrive](https://www.overdrive.com/fine-print/account-privacy-policy)
   * [OverDrive Kids](http://company.overdrive.com/education/k-12-schools/privacy-policy-for-children)
   * [StarWalk KidsMedia](https://logintoread.com/information/privacy-policy.html)
   * [TumbleBook Library](http://asp.tumblebooks.com/privacy.aspx)
+  * [Zinio/Recorded Books](https://www.rbdigital.com/media/RBdigital%20Gateway%20Privacy%20Policy%202015.pdf)
 
 
 
