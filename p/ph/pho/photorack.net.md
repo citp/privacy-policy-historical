@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the photorack.net privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121110450id_/http%3A//photorack.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photorack.net privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522160859id_/http%3A//photorack.net/privacy.php) for the most accurate reproduction.*
 
 # Photo Rack - Stock Photos
 
   
-|  |  [](http://flashbuilder.net/)  
----|---  
+|  [](http://flashbuilder.net/) |  |  [](http://gpl.directory/)  
+---|---|---  
 Privacy Policy   
 **Privacy Policy**  
 PhotoRack takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this privacy policy primer to learn more about privacy policies in general.
