@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ting.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908014701id_/https%3A//ting.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ting.com privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522044827id_/https%3A//ting.com/privacy_policy) for the most accurate reproduction.*
 
-# Ting - mobile that makes sense
-
-## Privacy Policy
+# Ting | Privacy Policy
 
 **Effective on November 23, 2011**
 
@@ -107,10 +105,8 @@ You can contact us about this privacy statement by writing or email us at the ad
 
 Ting Inc.
 
-800D Louisville St 
+421 Dr Martin Luther King Jr Dr E #2
 
 Starkville, MS  39759
 
 United States
-
-Phone: 1-855-846-4389
