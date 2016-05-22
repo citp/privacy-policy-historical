@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tellymasti.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225232704id_/http%3A//tellymasti.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tellymasti.com privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522182928id_/http%3A//tellymasti.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy | Tellymasti
+# Privacy Policy – Tellymasti
 
 Tellymasti cares about how your personal information is used and shared, and we take your privacy seriously. Please read the following terms to learn more about our privacy policy. By registering to and creating account at Tellymasti.me you are accepting the practices outlined in this Privacy Policy.
 
