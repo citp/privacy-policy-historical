@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedom.net privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220050327id_/http%3A//www.radialpoint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedom.net privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522120226id_/http%3A//www.radialpoint.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Radialpoint
 
@@ -6,7 +6,7 @@
 
 PRIVACY POLICY
 
-Effective as of November 19, 2015
+Effective as of January 27, 2016
 
 ### 1\. Summary
 
@@ -14,7 +14,7 @@ At Radialpoint, we are committed to protecting your personal information. We hav
 
 In essence, we need to collect certain personal information about you (such as your name, contact information, etc.) in order to be able to provide you with our products and services. We promise to work hard to preserve the integrity and the security of your information. We will only use your data in accordance with this policy, and will not share it with anyone for any other purposes. Your data may be stored and processed anywhere in the world.
 
-While the above highlights certain aspects of our privacy policy, **we strongly encourage you to read very carefully the entire document** before accepting these terms. Please remember that **your access and use of our website, products or service will mean that you’ve accepted the full version of this privacy policy**.
+While the above highlights certain aspects of our privacy policy, **we strongly encourage you to read very carefully the entire document** before accepting these terms. Please remember that **your access and use of our website, products or service will mean that you’ve accepted the full version of this privacy policy.**
 
 ### 2\. What we mean by…
 
@@ -22,7 +22,7 @@ In order to render this document as concise as possible, we decided to summarise
 
 When we use the expression “ **personal information** ” in this document, we mean the information that either uniquely identifies a physical person or enables us to do so, as further explained below. Such information may include the person’s name, address, contact information (such as telephone numbers or email addresses), age, gender, and so forth.
 
-When we use “ **Radialpoint** ”, “ **AppDirect** ”, “ **us** ”, “ **we** ”, “ **our** ”, or other similar words, we refer to AppDirecte Canada Inc. (doing business as Radialpoint) and its affiliated companies.
+When we use “ **Radialpoint** ”, “ **AppDirect** ”, “ **us** ”, “ **we** ”, “ **our** ”, or other similar words, we refer to AppDirect Canada Inc. (doing business as Radialpoint) and its affiliated companies.
 
 We refer to the “ **Service Provider** ” as to the legal entity with which you may have an agreement for the provision of products and/or services, and as part of which you are being provided with Radialpoint software and services.
 
@@ -200,8 +200,8 @@ Because we are continuously implementing new technologies and improving our proc
 
 Where applicable, we will also provide you with instructions on how to opt in to or opt out from our new services or communications. Note that some aspects of our services may not be available to you if you choose to opt out.
 
-This privacy policy has been last updated on January 1, 2015.
+This privacy policy has been last updated on January 27, 2016.
 
-© 2015 AppDirecte Canada Inc., doing business as Radialpoint. All Rights Reserved.
+© 2016 AppDirect Canada Inc., doing business as Radialpoint. All Rights Reserved.
 
-Radialpoint™, PTScx™ and their respective logos are trademarks or registered trademarks of AppDirecte Canada Inc. in Canada, the United States and/or other countries.
+Radialpoint™, PTScx™ and their respective logos are trademarks or registered trademarks of AppDirect Canada Inc. in Canada, the United States and/or other countries.
