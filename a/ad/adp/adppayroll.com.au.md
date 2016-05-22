@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adppayroll.com.au privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217114925id_/http%3A//www.adppayroll.com.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adppayroll.com.au privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522232524id_/http%3A//www.adppayroll.com.au/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy | ADP Payroll Solutions
 
@@ -8,11 +8,9 @@ This Privacy Statement is the privacy policy of Automatic Data Processing Limite
 
 ADP is committed to complying with the requirements of the Privacy Act 1988 as amended from time to time (‘Act’). The core requirements of the Act are set out in the Australian Privacy Principles (APPs). The APPs set out how an organisation such as ADP should collect, hold, use, and disclose personal information. The APPs also give individuals a right to know what information an organisation holds about him or her, and a right to correct it if it is wrong. 
 
-This Privacy Statement sets out ADP's policy in Australia for handling personal information that is regulated by the Act. ADP is a subsidiary of Automatic Data Processing Incorporated (ADP Inc) which is headquartered in Roseland, New Jersey in the United States of America and ADP will also comply with the ADP Global Privacy Policy at [adp.com/privacy](http://adp.com/privacy). 
+This Privacy Statement sets out ADP's policy in Australia for handling personal information that is regulated by the Act. ADP is a subsidiary of Automatic Data Processing Incorporated which is headquartered in Roseland, New Jersey in the United States of America and ADP will also comply with the ADP Global Privacy Policy at [adp.com/privacy](http://adp.com/privacy). 
 
 From time to time, as ADP updates and improves its service ADP may change this Privacy Statement. ADP will publish these changes on its website at [adppayroll.com.au/privacy](http://www.adppayroll.com.au/privacy)
-
-Please note this version does not substantively change the way ADP treats personal information compared to the previous version of the privacy statement available at [adppayroll.com.au/privacy/archive](http://adppayroll.com.au/privacy/archive).
 
 **What personal information does ADP collect and hold?**
 
@@ -41,7 +39,7 @@ ADP collects and holds personal information that is reasonably necessary to prov
 
 > • **Applicants for jobs at ADP** : ADP collects contact details, employment history and other background information as required and as permitted by law. 
 
-Some personal information collected by ADP may be sensitive information as defined in the Act; for instance, membership of a trade union (where ADP pays trade union membership fees on behalf of an employee), or biometric identification (via clocks used for ADP’s ezLaborManager and EmpLive services). Any biometric information collected is immediately converted to an encrypted format so that the biometric information originally collected is not stored by ADP.
+Some personal information collected by ADP may be sensitive information as defined in the Act; for instance, membership of a trade union (where ADP pays trade union membership fees on behalf of an employee), or biometric identification (via clocks used for time and attendance services sold by ADP). Any biometric information collected is immediately converted to an encrypted format so that the biometric information originally collected is not stored by ADP.
 
 **How does ADP collect and hold personal information?**
 
@@ -53,7 +51,7 @@ ADP will ask for personal information (including contact information and relatio
 
 If an individual interacts with ADP online, ADP uses cookies and other technological tools to collect information about their computer and their use of ADP’s website and applications.  ADP treats this information as personal information when it is associated with the individual’s contact information.  For more information about cookies and other technologies, please see the section Cookies and Other Data Collection Technologies below.  
 
-ADP offers “tell-a-friend” functionality on some of its websites.  If this function is chosen, ADP will collect contact information for the friend.  ADP will automatically send the friend a one-time email with the information specified or inviting him or her to visit the site.  ADP uses this information for the sole purpose of sending this one-time email and does not retain the information.  
+ADP may offer “refer-a-friend” functionality on its website.  If this function is chosen, ADP will collect contact information for the friend.  ADP will automatically send the friend a one-time email with the information specified or inviting him or her to visit the site.  ADP uses this information for the sole purpose of sending this one-time email and does not retain the information.  
 
 ADP collects information from a job applicant directly from the applicant or publicly available information. With the consent of the applicant ADP may conduct reference, background and criminal record checks. 
 
@@ -78,6 +76,8 @@ ADP deals with personal information for a number of purposes, such as:
 > • Providing additional information that may be of interest, such as ADP news and announcements and technical service bulletins; and
 > 
 > • Managing ADP’s everyday business needs, such as payment processing and financial account management, product development, contract management, website administration, forum management, fulfilment, analytics, security and fraud prevention, corporate governance, reporting and legal compliance, and business continuity.
+
+ADP never uses for marketing purposes the personal information of its clients’ employees that is collected for the provision of payroll or related employer services.
 
 ADP understands that individuals do not want ADP to provide their personal information to third parties for their own marketing purposes. ADP limits its sharing of an individual’s personal information as follows:
 
@@ -116,6 +116,8 @@ The collection, use and disclosure of personal information may be required or au
 > 
 > • Corporations Act 2001 (Cth)
 > 
+> • Social Security (Administration) Act 1999
+> 
 > • Anti-Money Laundering and Counter-Terrorism Financing Act 2006 (Cth)
 > 
 > • Any secondary legislation pursuant to primary legislation referred to above.
@@ -146,7 +148,9 @@ The Privacy Officer will investigate any complaint and notify the individual wit
 
 **Does ADP disclose personal information to overseas recipients?**
 
-As a global business, ADP may store personal information overseas, and personal information may be accessed by staff of ADP related bodies corporate overseas, in the United States, India, France, Spain and the Philippines. 
+As a global business, ADP may store personal information overseas, and personal information may be accessed by staff of ADP related bodies corporate overseas, in the United States, India and the Philippines, and in countries of the European Union (France, Spain and Romania). 
+
+ADP partners with Kronos to provide the ADP RealTime Powered by Kronos® solution, which is supported by Kronos from the USA, the UK and Belgium. 
 
 ADP’s related bodies corporate in the European Union comply with the Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data. 
 
@@ -195,4 +199,4 @@ Email: privacy@adp.com
 Automatic Data Processing Limited  
 ABN: 70 003 924 945
 
-Dated: 1 March 2014
+Dated: 12 January 2016
