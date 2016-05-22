@@ -1,836 +1,335 @@
-<!--The following is the downloaded HTML source of the thestandard.com.hk privacy policy that was archived on 2015-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151124073253id_/http%3A//www.thestandard.com.hk/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thestandard.com.hk privacy policy that was archived on 2016-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160522173213id_/http%3A//www.thestandard.com.hk/Privacy.php) for the most accurate reproduction.-->
 
-<html><head><script language="javascript" src="/js/comScoreUpper.js"></script>
-<script language="JavaScript">
-<!--
-/*define common js stuff here*/
-var bannerLoadList = new Array();
-var stdfin_referrer = document.referrer;
+<!DOCTYPE html><html lang="en"><!-- InstanceBegin template="/Templates/tpl.dwt" codeOutsideHTMLIsLocked="false" --><head>
+	<!--script language="javascript" type="text/javascript" src="../popup.js"></script>
+	<script language="javascript" type="text/javascript" src="../js/popup_func.js"></script-->
+	<!--script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script-->
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="js/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/ts.js"></script>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- InstanceBeginEditable name="doctitle" -->
+    <title>The Standard</title>
+    <!-- InstanceEndEditable -->
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="css/bootstrap.css">
 
+    <!-- Custom styles for this template -->
+    <link href="css/ts-theme.css" rel="stylesheet">
+    <link href="css/non-responsive.css" rel="stylesheet">
 
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
-function MM_findObj(n, d) { //v3.0
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
-}
-
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-function MM_openBrWindow(theURL,winName,features) { //v2.0
-  window.open(theURL,winName,features);
-}
-
-function openWindow(url) {
-    fullsearchpop = window.open(url,'fullsearchpop','width=700,height=400,left=100,top=100,toolbar=no,location=yes,directories=no,statusbar=no,menubar=no,scrollbars=yes,resizable=yes');
-    if (fullsearchpop.focus!=null)
-    	fullsearchpop.focus();
-}
-function MM_jumpMenu(targ,selObj,restore){ //v3.0
-  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
-  if (restore) selObj.selectedIndex=0;
-}
-//-->
-</script>
-<script language="JavaScript">
-<!--
-function isblank(s)
-{
-	for(var i =0; i<s.length;i++)
-	{
-		var c = s.charAt(i);
-		if((c!=' ') && (c!='\n') && (c!='\t')) return false;
-	}
-	return true;
-}
-/*
-	check if the input string only contains eng characters, number, _ or .
-*/
-function isWordNumeric(myString){
-	var regExp = /^[0-9a-zA-Z_\.]+$/;
-	var valid = regExp.test(myString);
-	return valid;
-}
-function gotfocus(obj)
-{
-	obj.focus();
-}
-
-function getlength(str)
-{
-	leth = 0;
-	if (str)
-	{
-		for (i=0; i<str.length; i++)
-		{
-			chr = str.charAt(i);
-			if (chr < "!" || chr > "~")  //chinese char , 2 bytes
-			{
-				leth = leth + 2;
-			}
-			else
-			{
-				leth = leth + 1;
-			}
-		}
-	}
-	return leth;
-}
-
-
-
-function isnumber(str)
-{
-    flagnumber = true;
-    if (str)
-    {
-        for (i=0; i<str.length; i++)
-        {
-            chr = str.charAt(i);
-            if (!(chr >= '0' && chr <= '9'))
-            {
-                flagnumber = false;
-                break;
-            }
-        }
-    }
-    
-    return flagnumber;
-}
-
-
-
-
-function jump (page)
- {
-         window.open(page);
- } 
- 
-function popup(loc,name,w,h,sc,r,s,m,t,l){  	
-	
-	/*Center PopUp Function*/
-  	
-  	/*====================
-  	loc	= location
-  	name	= Window Name
-  	w	= width
-  	h	= height
-  	sc	= scrollbars
-  	r	= resizable
-  	t	= toolbar
-  	l	= location
-  	s	= status
-  	m	= menubar
-  	====================*/
-
-	var x = ((screen.width-w)/2);
-    	var y = ((screen.height-h)/2) - 400;
-    	para = "left=" + x + ",top=" + y + ",width=" + w + ",height=" + h + 
-    	       ((sc) ? ",scrollbars=yes" : "") +
-               ((r) ? ",resizable=yes" : "") +
-	       ((s) ? ",status=yes": "") +
-	       ((t) ? ",toolbar=yes" : "") +
-	       ((l) ? ",location=yes" : "") +	       
-	       ((m) ? ",menubar=yes" : "")
-	z = window.open(loc,name,para);
-	z.focus();
-}
--->
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  <!-- InstanceBeginEditable name="head" -->
+  <!-- InstanceEndEditable -->
+  </head>
+  <body>
+	   <script type="text/javascript">
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+      '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
 </script>
 
-
-
-
-
-
-<title>The Standard - China's Business Newspaper</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta content="The Standard, Hong Kong" name="keywords">
-<meta content="The Standard, Hong Kong - " name="description">
-<meta content="The Standard" name="AUTHOR">
-<meta content="The Standard" name="COPYRIGHT">
-<meta content="never" name="EXPIRES">
-<meta content="Global" name="Distribution">
-<meta content="Document" name="Resource-Type">
-<meta content="1 days" name="Revisit-after">
-<meta content="index, follow" name="Robots">
-<meta content="en-us" name="Language">
-<link href="http://www.thestandard.com.hk/img/favicon.ico" rel="SHORTCUT ICON">
-<link href="std.css" type="text/css" rel="stylesheet">
-<meta content="MSHTML 6.00.2800.1491" name="GENERATOR">
-<style type="text/css">
-<!--
-.style1 {color: #FF0000}
-.content
-{
-font-size: 14px;
-line-height:18px;
-}
--->
-</style>
-<script src="https://web.archive.org/web/20141002113027/http://b.scorecardresearch.com/c2/9053246/cs.js"></script></head>
-
-<body vlink="#ffffff" alink="#ffffff" link="#ffffff" bgcolor="#ededee" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-	<table height="100%" cellspacing="0" cellpadding="0" width="780" align="center" bgcolor="#ffffff" border="0">
-		<tbody><tr valign="top">
-			<td width="39" bgcolor="#ededee"><img src="/images/tiger-walk-left-inside.jpg"></td>
-			<td valign="top">
-			<table height="100%" cellspacing="0" cellpadding="0" width="778" align="center" border="0">
-				<tbody><tr valign="top" align="left">
-				<td valign="top" align="left" width="785" bgcolor="#ffffff" height="85">
-					
-<table width="778" height="212" border="0" cellpadding="0" cellspacing="0" bgcolor="#ED1C24">
-	<form name="stadvsearch" action="news_search_resu.asp" method="post"></form>
-
-	<tbody><tr align="right" valign="top">
-		<td width="778" height="20" align="left">
-			<img src="images/top_nav_2014_Jun.gif" width="639" height="20" alt="" usemap="#TopbarMap" border="0">
-			<map name="TopbarMap">
-			<area shape="rect" coords="0,0,60,15" href="http://www.thestandard.com.hk/">
-	  		<area shape="rect" coords="192,1,319,15" href="http://finance.thestandard.com.hk/" target="_blank">
-	  		<area shape="rect" coords="325,1,400,15" href="http://student.thestandard.com.hk/" target="_blank">
-	  		<area shape="rect" coords="404,1,479,15" href="http://www.singtao.com/" target="_blank">
-	  		<area shape="rect" coords="482,1,557,15" href="http://www.thestandard.com.hk/careers.asp">
-		</map>
-		<input type="text" name="1text" maxlength="50" class="input" style="FONT-SIZE: 9px; FONT-FAMILY: arial, sans-serif" size="18">&nbsp;
-		<input type="hidden" name="passpos" value="frontsearch"><input type="hidden" name="searchtype" value="1"><input id="Submit2" style="FONT-SIZE: 9px; FONT-FAMILY: arial, helvetica, sans-serif; width:20px;" type="submit" value="Go">&nbsp;&nbsp;
-	  </td>
-	</tr>
-	<tr>
-		<td width="778" height="79" align="center">
-			<a href="http://www.thestandard.com.hk/"><img src="images/std_logo.gif" width="215" height="81" alt="" border="0"></a></td>
-	</tr>
-	<tr>
-		<td width="778" height="98" align="center" valign="middle">
-        	<!-- include file="advert-flash-new.inc" -->
-        
-        	<!--<script language="JavaScript" src="rotate-728x90.js"></script>-->
-        	
-        	<iframe frameborder="0" scrolling="no" align="center" style="width:778px;height:90px;overflow:hidden;" name="if728_90" id="if728_90" src="/rotate_wrap_728_90.asp"></iframe><br><div style="height:3px;width:1px;overflow:hidden;"></div>
-<script language="Javascript" type="text/javascript">
-function loadIframe728_90(){
-    var f = document.getElementById('if728_90');
-    f.src='/rotate_wrap_728_90.asp';
-}
-bannerLoadList[bannerLoadList.length] = 'loadIframe728_90();';
-</script>
-<!--20070131-->
-		</td>
-	</tr>
-	<tr>
-		<td width="778" height="18" style="background-color:white;background-image:url('images/top_bar.gif');background-position:bottom left;background-repeat:repeat-x;">
-		<table width="100%" border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr><td height="14"><!--<img src="images/top_subhead.gif" width="153" height="14" alt="China's Business News">--></td>
-		<td align="right">
-		  		  <table cellspacing="0" cellpadding="0" width="468" border="0">
-					<tbody>
-						<tr>						
-							<td align="right"><span class="bodyCopy">Tuesday, November 24, 2015&nbsp;
-<!-- datetime & weather //-->
-
-<script language="Javascript">
-<!--
-var temperature = '';
-var humidity = '';
-var weather_date = '';
-var layout = 'ts';
-//-->
-</script>
-<script language="Javascript" src="/js/thestandard_top_date_weather.js?d=20151124153254"></script>
-<script language="Javascript">
-<!--
-//alert(weather_date);
-var show_weather = true;
-if ((weather_date.indexOf('-') > 0) && (weather_date.indexOf(':') > 0)){
-  var awd1 = weather_date.split(' ');
-  var awd_ymd = awd1[0].split('-');
-  var awd_hns = awd1[1].split(':');
-  
-  var dfr = new Date();
-  dfr.setFullYear(awd_ymd[0]*1);
-  dfr.setMonth( (awd_ymd[1]*1) -1);
-  dfr.setDate(awd_ymd[2]*1);
-  dfr.setHours(awd_hns[0]*1);
-  dfr.setMinutes(awd_hns[1]*1);
-  dfr.setSeconds(awd_hns[2]*1);
-  dfr.setMilliseconds(0);
-  
-  var dtest = new Date();
-  dtest.setFullYear(2015);
-  dtest.setMonth(10);
-  dtest.setDate(24);
-  dtest.setHours(15);
-  dtest.setMinutes(32);
-  dtest.setSeconds(54);
-  dtest.setMilliseconds(0);
-  
-  var awms = dfr.getTime();
-  var awms_now = dtest.getTime();
-  var awms_diff = (awms_now - awms)/1000;
-  
-  //hide if data is too old
-  //alert(awms_diff);
-  if (awms_diff > 90*60){
-    show_weather = false;
-  }  
-}
-		
-
-if ( (temperature!='') && (humidity!='') && show_weather ){
-  document.write(temperature + ' ' + humidity);
-}
-//-->
-</script>&nbsp;
-<script language="javascript">var aWeatherGif = new Array();</script>
-<script language="javascript" src="http://finance.thestandard.com.hk/js/typhoon.js?force=20151124153254" type="text/javascript"></script>
-<script language="javascript">
-var iWeatherGif, cWeatherGif = '';
-for(iWeatherGif=0; iWeatherGif<aWeatherGif.length; iWeatherGif++){
-	cWeatherGif += '<img src="http://finance.thestandard.com.hk/image/typhoon/' +aWeatherGif[iWeatherGif] +'"'
-	cWeatherGif += ' height="16" border="0" style="vertical-align:middle;">';
-	
-	cWeatherGif += "&nbsp;&nbsp;";
-}
-document.write(cWeatherGif);
-</script></span>
-              
-							</td>
-						</tr>
-					</tbody></table>
-
-		</td></tr></tbody></table>
-		</td>
-	</tr>
+<script type="text/javascript">
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/270010083/TS-300x250-Embd-Content', [300, 250], 'div-gpt-ad-1442818250328-0').addService(googletag.pubads());
+    googletag.defineSlot('/270010083/TS-300x250-Index-1', [300, 250], 'div-gpt-ad-1442818250328-1').addService(googletag.pubads());
+    googletag.defineSlot('/270010083/TS-300x250-Index-2', [300, 250], 'div-gpt-ad-1442818250328-2').addService(googletag.pubads());
+    googletag.defineSlot('/270010083/TS-468x60-Index', [468, 60], 'div-gpt-ad-1442818250328-3').addService(googletag.pubads());
+    googletag.defineSlot('/270010083/TS-728x90-Index', [728, 90], 'div-gpt-ad-1442818250328-4').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script><header id="top">
+      <div class="container">
+        <nav class="top-link clearfix">
+<!-- 2016-03-21 S -->		  
+          <div class="today-weather pull-left">
+              May 23, 01:32<span class="w-icon">26°C</span><span class="h-icon">83%</span>	      </div>
+<!-- 2016-03-21 E -->
+          <ul class="list-inline pull-right">
+            <li><a href="http://finance.thestandard.com.hk/" target="_blank" title="The Standard Finance">The Standard Finance</a></li>
+            <li><a href="http://student.thestandard.com.hk/" target="_blank" title="The Student">The Student</a></li>
+            <li><a href="http://www.singtao.com/" target="_blank" title="SING TAO">SING TAO</a></li>
+            <li><a href="Career.php" target="_blank" title="The StandardJobs">The StandardJobs</a></li>
+          </ul>
+        </nav>
+        <div class="logo_img clearfix">
+          <a href="http://www.thestandard.com.hk/" class="logo pull-left" title="The Standard">The Standard</a>
+          <div class="ad w728-h90 pull-right">
+		  <!-- /270010083/TS-728x90-Index -->
+			<div id="div-gpt-ad-1442818250328-4" style="height:90px; width:728px;">
+			<script type="text/javascript">
+			googletag.cmd.push(function() { googletag.display('div-gpt-ad-1442818250328-4'); });
+			</script>
+			</div>
+		  <!--a href="#"><img src="main_05.jpg" width="728" height="90" /></a-->
 		  
+		  <!--script>var bannerLoadList = new Array();</script>		  
+		  <iframe frameborder="0" scrolling="no" align="center" style="width:728px;height:90px;overflow:hidden;" name="if728_90" id="if728_90"></iframe><br/><div style="height:3px;width:1px;overflow:hidden;"></div>
+		  
+			<script language="Javascript" type="text/javascript">
+			function loadIframe728_90(){
+				var f = document.getElementById('if728_90');
+				f.src='/rotate_wrap_728_90.asp';
+			}
+			bannerLoadList[bannerLoadList.length] = 'loadIframe728_90();';
+				var s=0;
+				for(;s<bannerLoadList.length;s++){
+				  eval(bannerLoadList[s]);
+				}
+			</script-->
 
-</tbody></table>
+		  </div>
+        </div>
+        <div class="head-bottom clearfix">
+		<script language="javascript">
+		/*
+		function login_checkform(){
+		  var f = document.login_form;
+		  var ok = true;
+		  if (f){
+			if (f.username.value == ''){
+			  alert('Please enter username');
+			  f.username.focus();
+			  ok = false;  
+			}
+			else if (f.password.value == ''){
+			  alert('Please enter password');
+			  f.password.focus();
+			  ok = false;  
+			}
+		  }
+		  
+		  return ok;
+		}
+		*/
 
-				</td>
-				</tr>
-				<tr valign="top" align="left">
-				<td bgcolor="#003f8f">
-				<table height="100%" cellspacing="0" cellpadding="0" width="778" border="0">
-					<tbody><tr>
-					<!--left menu-->
-<!--## 11/24/2015 --><!--@today@ 20151124  -->
-<td valign="top" width="129" background="/images_revamp/bkgd_menu_left.jpg" bgcolor="#003f8f">
-
-
-
-<table width="129" border="0" cellpadding="0" cellspacing="0">
-  <!--breaking news-->
-  <script language="javascript">
-  <!--
-  function getAbsCoord(x, which){
-    var r = 0;
-    var temp;
-    var obj = x;
-    if (which == 'top'){
-      r += (x.offsetTop*1);
-      while (obj.offsetParent){
-        temp = obj.offsetParent;
-        r += (temp.offsetTop*1);
-        obj = temp;
-
-      }
-    }
-    else if (which == 'left'){
-      r += (x.offsetLeft*1);
-      while (obj.offsetParent){
-        temp = obj.offsetParent;
-        r += (temp.offsetLeft*1);
-        obj = temp;
-      }
-    }
-    
-    return r;
-  }
-  
-  var bMenuLeft, bMenuTop;
-  
-  function getBMCoord(that){
-    bMenuLeft = getAbsCoord(that, 'left');
-    bMenuTop = getAbsCoord(that, 'top');
-  }
-  
-  function showSubMenu(id, show){
-    var m = document.getElementById(id);
-    if(m){
-      if(show){
-        m.style.left = bMenuLeft + 129;
-        m.style.top = bMenuTop -1;
-        m.style.display = 'block';
-      }else{
-        m.style.display = 'none';
-      }
-    }
-  }
-  //-->
-  </script>
-  
- 
-  	
-  <tbody><tr><td><a href="/breaking_news.asp?icid=a&amp;d_str=20151124">
-  <img src="/images/left_menu/breakingnews_v2.jpg" width="129" border="0"></a></td></tr>   
-  
-  <tr height="2"> 
-	</tr><tr><td><img src="/images/left_menu/space.gif" width="129" height="4" alt=""></td></tr>
-	<!--<tr><td><a href="/breaking_news.asp?icid=4&d_str=20151124"><img src="/images/left_menu/btn_uselection.gif" border="0" width="129" height="23"></a></td></tr>
-	<tr><td><img src="/images/left_menu/space.gif" width="129" height="6" alt=""></td></tr>
-  	<tr><td><a href="/breaking_news.asp?icid=2&d_str=20151124"><img src="/images/left_menu/btn_chinacongress.gif" border="0" width="129" height="23"></a></td></tr>
-	<tr><td><img src="/images/left_menu/space.gif" width="129" height="6" alt=""></td></tr>-->
-	
-	
-			
-	
-	
-	
-	<tr><td><a href="/breaking_news.asp?icid=3&amp;d_str=20151124" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('ImageBN3','','/images/left_menu/bn_hk_o.gif',1)"><img src="/images/left_menu/bn_hk.gif" name="ImageBN3" border="0" id="ImageBN3" align="right"></a></td>
-	</tr>	
-	<tr><td><a href="/breaking_news.asp?icid=1&amp;d_str=20151124" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('ImageBN1','','/images/left_menu/bn_business_o.gif',1)"><img src="/images/left_menu/bn_business.gif" name="ImageBN1" border="0" id="ImageBN1" align="right"></a></td>
-	</tr>	
-	<tr><td><a href="/breaking_news.asp?icid=2&amp;d_str=20151124" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('ImageBN2','','/images/left_menu/bn_china_o.gif',1)"><img src="/images/left_menu/bn_china.gif" name="ImageBN2" border="0" id="ImageBN2" align="right"></a></td>
-	</tr>	
-	<tr><td><a href="/breaking_news.asp?icid=4&amp;d_str=20151124" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('ImageBN4','','/images/left_menu/bn_world_o.gif',1)"><img src="/images/left_menu/bn_world.gif" name="ImageBN4" border="0" id="ImageBN4" align="right"></a></td>
-	</tr>
-	<tr><td><a href="/breaking_news.asp?icid=5&amp;d_str=20151124" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('ImageBN5','','/images/left_menu/bn_sports_o.gif',1)"><img src="/images/left_menu/bn_sports.gif" name="ImageBN5" border="0" id="ImageBN5" align="right"></a></td>
-	</tr>
-	
-	
-	
-  <tr height="6">
-  
-  
-  <!--sections-->
-	</tr><tr><td><img src="/images/left_menu/sections.gif" width="129" height="23"></td></tr>
-	<tr><td><img src="/images/left_menu/space.gif" width="129" height="6" alt=""></td></tr>
-
-	
-	
-	<tr><td><a href="/news_sec.asp?we_cat=17&amp;d_str=20151124" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image_cat44','','/images/left_menu/cat_btn_maryma_o.gif',1)"><img src="/images/left_menu/cat_btn_maryma.gif" name="Image_cat44" width="129" height="19" border="0" id="Image8"></a></td>
-	</tr>	
-	
-	
-	<tr><td><a href="/news_sec.asp?we_cat=11&amp;d_str=20151124" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('ImageTN','','/images/left_menu/se_topnews_o.gif',1)"><img src="/images/left_menu/se_topnews.gif" name="ImageTN" width="129" height="18" border="0" id="ImageTN"></a></td>
-	</tr>
-	
-	
-	<tr><td><a href="/news_sec.asp?we_cat=4&amp;d_str=20151124" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image8','','/images/left_menu/se_local_o.gif',1)"><img src="/images/left_menu/se_local.gif" name="Image8" width="129" height="19" border="0" id="Image8"></a></td>
-	</tr>	
-	<tr><td><a href="/news_sec.asp?we_cat=2&amp;d_str=20151124" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','/images/left_menu/se_business_o.gif',1)"><img src="/images/left_menu/se_business.gif" name="Image6" width="129" height="18" border="0" id="Image6"></a></td>
-	</tr>
-	<tr><td><a href="/news_sec.asp?we_cat=3&amp;d_str=20151124" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image7','','/images/left_menu/se_china_o.gif',1)"><img src="/images/left_menu/se_china.gif" name="Image7" width="129" height="18" border="0" id="Image7"></a></td>
-	</tr>
-	<tr><td><a href="/news_sec.asp?we_cat=6&amp;d_str=20151124" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image12','','/images/left_menu/se_world_o.gif',1)"><img src="/images/left_menu/se_world.gif" name="Image12" width="129" height="20" border="0" id="Image12"></a></td>
-	</tr>	
-	<tr><td><a href="/news_sec.asp?we_cat=9&amp;d_str=20151124" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image9','','/images/left_menu/se_focus_o.gif',1)"><img src="/images/left_menu/se_focus.gif" name="Image9" width="129" height="18" border="0" id="Image9"></a></td>
-	</tr>
-	<tr><td><a href="/news_sec.asp?we_cat=5&amp;d_str=20151124" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image10','','/images/left_menu/se_opinion_o.gif',1)"><img src="/images/left_menu/se_opinion.gif" name="Image10" width="129" height="19" border="0" id="Image10"></a></td>
-	</tr>
-<!--	<tr><td><a href="/news_sec.asp?we_cat=10&d_str=20151124" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image11','','/images/left_menu/se_markets_o.gif',1)"><img src="/images/left_menu/se_markets.gif" name="Image11" width="129" height="17" border="0" id="Image11" /></a></td>
-	</tr>-->
-	<tr><td><a href="/news_sec.asp?we_cat=8&amp;d_str=20151124" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image13','','/images/left_menu/se_sports_o.gif',1)"><img src="/images/left_menu/se_sports.gif" name="Image13" width="129" height="19" border="0" id="Image13"></a></td>
-	</tr>
-	<tr><td><a href="/news_sec.asp?we_cat=7&amp;d_str=20151124" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image14','','/images/left_menu/se_people_o.gif',1)"><img src="/images/left_menu/se_people.gif" name="Image14" width="129" height="18" border="0" id="Image14"></a></td>
-	</tr>
-	<tr><td><a href="/news_sec.asp?we_cat=21&amp;d_str=20151124" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image15','','/images/left_menu/se_centralstation_o.gif',1)"><img src="/images/left_menu/se_centralstation.gif" name="Image15" width="129" height="18" border="0" id="Image15"></a></td>
-	</tr>
-	<tr><td><a href="/news_sec.asp?we_cat=12&amp;d_str=20151124" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image16','','/images/left_menu/se_weekend_o.gif',1)"><img src="/images/left_menu/se_weekend.gif" name="Image16" border="0" id="Image16"></a></td>
-	</tr>
-	<tr><td><a href="/news_sec.asp?we_cat=16&amp;d_str=20151124&amp;fc=1" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image17','','/images/left_menu/fe_money_o.gif',1)"><img src="/images/left_menu/fe_money.gif" name="Image17" border="0" id="Image17"></a></td>
-	</tr>
-	<!--<tr><td><a href="/news_sec.asp?we_cat=16&d_str=20151124" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image16','','/images/left_menu/se_property_o.gif',1)"><img src="/images/left_menu/se_property.gif" name="Image16" width="129" height="19" border="0" id="Image16" /></a></td>
-	</tr>-->
-	<tr><td><img src="/images/left_menu/space.gif" width="129" height="6" alt=""></td></tr>
-	<tr><td><img src="/images/left_menu/features.gif" width="129" height="23"></td></tr>
-	<tr><td><img src="/images/left_menu/space.gif" width="129" height="6" alt=""></td></tr>
-	
-	<tr><td><a href="/news_sec.asp?we_cat=16&amp;d_str=20151124&amp;fc=2" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('LMFeImg_0','','/images/left_menu/fe_technology_o.gif',1)"><img src="/images/left_menu/fe_technology.gif" name="LMFeImg_0" id="LMFeImg_0" width="129" height="19" border="0"></a></td>
-	</tr>
-	
-	<tr><td><a href="/news_sec.asp?we_cat=16&amp;d_str=20151124&amp;fc=3" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('LMFeImg_1','','/images/left_menu/fe_health_beauty_o.gif',1)"><img src="/images/left_menu/fe_health_beauty.gif" name="LMFeImg_1" id="LMFeImg_1" width="129" height="19" border="0"></a></td>
-	</tr>
-	
-	<tr><td><a href="/news_sec.asp?we_cat=16&amp;d_str=20151124&amp;fc=4" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('LMFeImg_2','','/images/left_menu/fe_education_o.gif',1)"><img src="/images/left_menu/fe_education.gif" name="LMFeImg_2" id="LMFeImg_2" width="129" height="19" border="0"></a></td>
-	</tr>
-	
-	<tr><td><a href="/news_sec.asp?we_cat=16&amp;d_str=20151124&amp;fc=6" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('LMFeImg_3','','/images/left_menu/fe_motoring_o.gif',1)"><img src="/images/left_menu/fe_motoring.gif" name="LMFeImg_3" id="LMFeImg_3" width="129" height="19" border="0"></a></td>
-	</tr>
-	
-	<tr><td><a href="/news_sec.asp?we_cat=16&amp;d_str=20151124&amp;fc=7" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('LMFeImg_4','','/images/left_menu/fe_property_o.gif',1)"><img src="/images/left_menu/fe_property.gif" name="LMFeImg_4" id="LMFeImg_4" width="129" height="19" border="0"></a></td>
-	</tr>
-	
-	<tr><td><a href="/news_sec.asp?we_cat=16&amp;d_str=20151124&amp;fc=11" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('LMFeImg_5','','/images/left_menu/fe_homedecor_o.gif',1)"><img src="/images/left_menu/fe_homedecor.gif" name="LMFeImg_5" id="LMFeImg_5" width="129" height="19" border="0"></a></td>
-	</tr>
-	
-	<tr><td><a href="/news_sec.asp?we_cat=16&amp;d_str=20151124&amp;fc=12" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('LMFeImg_6','','/images/left_menu/fe_travel_o.gif',1)"><img src="/images/left_menu/fe_travel.gif" name="LMFeImg_6" id="LMFeImg_6" width="129" height="19" border="0"></a></td>
-	</tr>
-	
-  <!--<tr><td align="right"><a href="/breaking_news.asp?icid=a&d_str=20151124" onmouseout="MM_swapImgRestore()" 
-    onmouseover="MM_swapImage('lm_inst00','','/images/left_menu/bn_all_o.gif',1)"><img 
-    src="/images/left_menu/bn_all.gif" name="lm_inst00" border="0" id="lm_inst00" /></a></td>
-	</tr>-->
-</tbody></table>
-    <!--//new menu-->
-
-
-    
-	<table cellspacing="0" cellpadding="0" width="129" border="0">
-	    
-				
-
+		</script>
+		<script>
+		 $(document).ready(function(){
 		 
-
-	
-	
-
-<!--		
-		<tr><td><a href="/olympic.asp"><img src="/images/left_menu/olympic.jpg" name="Image12" width="129" height="20" border="0" /></a></td>
-			</tr>
--->
-		
-
-
-		
-		<tbody><tr><td height="6"></td></tr>
-		<tr>
-			<td align="right"><a href="/news_search.asp"><img src="/images/129x40_Archive.jpg" width="129" border="0">
-			<!--<font size="4" color="blue"><B>Archive</B></font>-->
-			</a>
-			</td>
-		</tr>		
-		<tr><td height="6"></td></tr>
-
-		
-		
-		<tr><td height="6"></td></tr>
-		<tr>
-			<td align="right"><a href="/character_builder.asp"><img src="/images/120x40_CBandIdiom.jpg" width="120" border="0">
-			</a>
-			</td>
-		</tr>		
-		<tr><td height="6"></td></tr>	
-		
-		
-		
-		
-		
-		<tr>
-			<td align="middle">
-				<a href="http://www.thestandard.com.hk/images/elan.pdf" target="_blank">
-					<img src="/images/elan_Logo.jpg" border="0">
-				</a>
-			</td>
-		</tr>
-		
-		<tr>
-			<td height="4"></td>			
-		</tr>		
-
-
-
-		
+			$("#register").click(function(){
 			
-        <tr><td height="5"></td></tr>
-		<tr>
-			<td align="middle"><img src="/images/potshot/potshot_small.jpg"></td>
-		</tr>		
-		<tr>
-			<td align="middle"><a href="javascript:openWindow('/show_image.asp?id=1470','list','height=800,width=800, toolbar=no, menubar=no, scrollbars=yes,resizable=yes,location=no, status=no');"><img src="/images/potshot/20151124/pots.jpg" width="120" height="152"></a>			</td>
-		</tr>
-		<!--<tr>
-			<TD  align="middle" class="bodyCopy"><=rs("caption1")%></td>
-		</tr>		-->
-		<tr><td height="5"></td></tr>
+				window.location.href = "http://www.thestandard.com.hk/member_register.php";
+				return false;
+			});
+		 
+			$("#login").click(function(){
+				  var f = document.login_form;
+				  var ok = true;
+				  if (f){
+						if (f.username.value == ''){
+						  alert('Please enter username');
+						  f.username.focus();
+						 return false;
+						}
+						else if (f.password.value == ''){
+						  alert('Please enter password');
+						  f.password.focus();
+						  return false;  
+						}
+					}
+				/*
+			$.ajax({
+                 url: "login_include_for_paper.php",
+                data: {username: f.username.value, password: f.password.value},
+                type:"POST",
+                dataType:'text',
 
-		<tr height="4">
-		</tr><tr>
-			<td align="middle">
-				<a href="http://www.thestandard.com.hk/files/cheng">
-					<img src="/files/cheng/images/Cheng-Home.jpg" border="0">
-				</a>
-			</td>
-		</tr>
-		<tr height="4">
+                success: function(msg){
+					if(msg == 0){
+						window.location.href = "http://www.thestandard.com.hk/index.php";
+					}else{
+						alert("Wrong username or password.");
+						window.location.href = "http://www.thestandard.com.hk/index.php";
+					}
+                },
+
+                 error:function(xhr, ajaxOptions, thrownError){ 
+				 
+					alert("Login fail.");
+                    alert(xhr.responseText); //responseText,status
+					alert(ajaxOptions); 
+                    alert(thrownError); 
+					
+                 }
+            });
+			*/
+			});
 			
-
-
-
-<!--		
-		<TR>
-			<TD align="right">
-				<a href="http://www.thestandard.com.hk/character_builder.asp">
-					<IMG src="/images/120x60_CharacterBuilder.gif" height="60" width="120" border="0">
-				</a>
-			</td>
-		</TR>
--->
-		
-		
-		</tr><tr>
-			<td align="right">
-				<a href="http://www.student.thestandard.com.hk/" target="_blank">
-					<img src="/images/120x55_SS+JS+G.gif" width="120" border="0">
-				</a>
-			</td>
-		</tr>
-
-		<tr>
-			<td height="4"></td>
-		</tr>	
-
-		
-		<tr>
-			<td align="right">
-				<a href="http://www.finance.thestandard.com.hk/" target="_blank">
-					<img src="/images/120x60_SF.jpg" height="60" width="120" border="0">
-				</a>
-			</td>
-		</tr>
 			
-		<tr>
-			<td height="4"></td>
-		</tr>
+		 });
+		</script>
+<!-- 2016-03-21 S -->
+            <div class="navbar pull-left">
+				<ul class="list-inline active">
+										<li class="active"><a href="http://www.thestandard.com.hk">Home</a></li>
+					<li><a href="http://www.thestandard.com.hk/breaking_news_list.php">Breaking News</a></li>
+					<li><a href="http://www.thestandard.com.hk/sections_news_list.php?sid=17">Section News</a></li>
+					<li><a href="http://www.thestandard.com.hk/sections_news_list.php?fc=1">Features</a></li>
+				</ul>				  
+			</div>
+			            
+			<script>
+				$(document).ready(function(){
+					$("#Submit2").click(function(){
+						var header_text = $("#search_text").val();
+						window.location.href = "http://www.thestandard.com.hk/search.php?search_text="+header_text;
+					});
+				});
+			</script>
+          <div class="pull-right">
+            <a href="http://finance.thestandard.com.hk/feed/breaking.xml" class="btn btn-default btn-rss" role="button"><i></i>RSS</a>
+            <a href="http://finance.thestandard.com.hk/feed/breaking.xml" class="btn btn-default btn-xml" role="button">XML</a>
+            <!-- member login -->
+						<!--form name="login_form" style="margin:0px;" -->
+            <div class="member-login pull-left" id="member-login">
+              <a href="http://www.thestandard.com.hk/member_login.php" class="btn btn-default btn-login" role="button"><i></i>
+			  <div align="center">Member Login</div>
+			  </a>
+              <div class="login-panel hidden">
+                <form class="form-inline" action="http://www.thestandard.com.hk/login_include_for_paper.php" method="post">
+                  <div class="form-group">
+                    <input type="text" class="form-control" placeholder="Username" id="username" name="username">
+                  </div>
+                  <div class="form-group">
+                    <input type="password" class="form-control" placeholder="Password" id="password" name="password">
+                  </div>
+                  <div class="form-group">
+                    <button class="btn btn-primary" id="login" type="submit">Login</button>
+                    <button class="btn btn-default" id="register">Register</button>
+                  </div>
+                </form>
+              </div>
+            </div>
+			<!--/form-->
+			            <div name="stadvsearch" class="form-inline search" id="search_form">
+              <div class="form-group">
+                  <input class="form-control" type="text" placeholder="Search" name="search_text" id="search_text">
+				  <input type="hidden" name="passpos" value="frontsearch">
+				  <input type="hidden" name="searchtype" value="1">
+                  <button id="Submit2" class="btn btn-primary"></button>
+              </div>
+            </div>
+          </div>
+					
+		  
+<!-- 2016-03-21 E -->
+        </div>
+      </div>
+	   <script src="http://www.thestandard.com.hk/js/comScoreUpper.js"></script>
+    </header>    <div class="ts-content" id="content">
+      <div class="container">
+        <!-- left bar -->
+	        <div class="ts-left-bar">
+		<div>
+		  <img src="http://finance.thestandard.com.hk/images/today_cover.gif" border="0">
+		  </div>
+          <div class="paper-cover">
+		  			<!--script src="http://finance.thestandard.com.hk/thestandard_covers/cover.js" type="text/javascript" language="javascript"></script-->
+			 <div class="flip">
+			 <div id="carousel-flip" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators" style="top: -10px;bottom:inherit;">
+                <li data-target="#carousel-flip" data-slide-to="0" class="active"></li>
+                <li data-target="#carousel-flip" data-slide-to="1"></li>
+				<li data-target="#carousel-flip" data-slide-to="2"></li>
+              </ol>
+              <div class="carousel-inner" role="listbox">
+				                <div class="item active">
+                  <a href="http://paper.thestandard.com.hk/default.aspx?page=1" target="_blank"><img src="http://finance.thestandard.com.hk/thestandard_covers_new/c2016052300355568352.jpg" width="120px" border="0" style="z-index:100;"></a>
+                </div>
+				                <div class="item ">
+                  <a href="http://paper.thestandard.com.hk/default.aspx?page=2" target="_blank"><img src="http://finance.thestandard.com.hk/thestandard_covers_new/c2016052300355530260.jpg" width="120px" border="0" style="z-index:100;"></a>
+                </div>
+				                <div class="item ">
+                  <a href="http://paper.thestandard.com.hk/default.aspx?page=3" target="_blank"><img src="http://finance.thestandard.com.hk/thestandard_covers_new/c2016052300355516260.jpg" width="120px" border="0" style="z-index:100;"></a>
+                </div>
+				              </div>
+            </div>
+			</div>
+          </div>
+          <div class="filpping-ver-archive"><a href="http://paper.thestandard.com.hk/?archive=1" target="_blank" title="Filpping Ver. Archive">Filpping Ver. Archive</a></div>
 
-		
-				
-		<tr>
-			<td height="4"></td>
-		</tr>		
-		
-		
-		
-		
-			
-				
-		<tr>
-			<td align="right"><img height="44" src="/images_revamp/resources.gif" width="129"></td>
-		</tr>
-		<tr>
-			<td class="menuOption" align="right"><a class="menulink" href="/newsfeed.asp" target="_blank">Newsfeeds</a></td>
-		</tr>
-		<tr>
-			<td class="menuOption" align="right">
-			<a class="menulink" href="/newsfeed.asp" target="_blank">
-			<img src="/images/xml.gif" border="0"></a>&nbsp;&nbsp;
-			<a class="menulink" href="/newsfeed.asp" target="_blank">
-			<img src="/images/rss.gif" border="0"></a></td>
-		</tr>
-		<tr>
-			<td align="right" background="/images_revamp/divider.menu.gif" height="2"><img height="2" src="/images/spacer.gif" width="1"></td>
-		</tr>
-		<tr>
-			<td class="menuOption" align="right"><a class="menulink" href="/contactus.asp">Contact 
-					Us</a></td>
-		</tr>
-		<tr>
-			<td align="right" background="/images_revamp/divider.menu.gif" height="2"><img height="2" src="/images/spacer.gif" width="1"></td>
-		</tr>
-		<tr>
-			<td class="menuOption" align="right"><a class="menulink" href="/aboutus.asp">About 
-					Us</a></td>
-		</tr>
-		<tr>
-			<td align="right" background="/images_revamp/divider.menu.gif" height="2"><img height="2" src="/images/spacer.gif" width="1"></td>
-		</tr>
-		<tr>
-			<td class="menuOption" align="right"><a class="menulink" href="/banners/PrintAdRate.pdf" target="_blank">Print Advertising</a></td>
-		</tr>
-		<tr>
-			<td align="right" background="/images_revamp/divider.menu.gif" height="2"><img height="2" src="/images/spacer.gif" width="1"></td>
-		</tr>
-		<tr>
-			<td class="menuOption" align="right"><a class="menulink" href="/banners/OnlineAdRate.pdf" target="_blank"><font size="1">Online Advertising</font></a></td>
-		</tr>
-		<tr>
-			<td align="right" background="/images_revamp/divider.menu.gif" height="2"><img height="2" src="/images/spacer.gif" width="1"></td>
-		</tr>
-<!--		<TR>
-			<TD class="menuOption" align="right"><A class="menulink" href="/banners/PrintAdRate.pdf" target="_blank">Media 
-					Kit</A></TD>
-		</TR>
-		<TR>
-			<TD align="right" background="/images_revamp/divider.menu.gif" height="2"><IMG height="2" src="/images/spacer.gif" width="1"></TD>
-		</TR>
--->
-		<!--<TR>
-			<TD class="menuOption" align="right"><A class="menulink" href="/banners/IndividualOrderForm.pdf" target="_blank">Subscriptions
-				</A>
-			</TD>
-		</TR>-->
-			
-		<tr>
-			<td class="menuOption" align="right"><a class="menulink" href="/news_search.asp">Archive
-				</a>
-			</td>
-		</tr>
-		<tr>
-			<td align="right" background="/images_revamp/divider.menu.gif" height="2"><img height="2" src="/images/spacer.gif" width="1"></td>
-		</tr>
-		<tr>
-			<td class="menuOption" align="right"><a class="menulink" href="/news_search.asp">Site 
-					Search</a></td>
-		</tr>
-		<tr>
-			<td align="right" background="/images_revamp/divider.menu.gif" height="2"><img height="2" src="/images/spacer.gif" width="1"></td>
-		</tr>
-		<!--<TR>
-			<TD class="menuOption" align="right"><A class="menulink" href="TS-Street-Point-Dec2011.pdf" target="_blank">Street Points</A></TD>
-		</TR>-->
-		<tr>
-			<td height="10"></td>
-		</tr>
+          <div class="elan">
+            <a href="http://www.thestandard.com.hk/images/elan.pdf" target="_blank" title="elan">elan</a>
+          </div>
+		  		  <div>
+		  <a href="http://www.thestandard.com.hk/banner/IndividualOrderForm.pdf" target="_blank">
+				<img src="http://www.thestandard.com.hk/banners/120x60_Subscription.jpg" border="0">
+		  </a>
+		  </div>
+		  <br>
+          <div class="potshot">
+            <i>Potshot</i>
+			</div>
+			<div class="potphoto">
+			 <div id="carousel-potphoto" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators" style="top:0 auto;bottom:inherit;">
+                <li data-target="#carousel-potphoto" data-slide-to="0" class="active"></li>
+                <li data-target="#carousel-potphoto" data-slide-to="1"></li>
+				<li data-target="#carousel-potphoto" data-slide-to="2"></li>
+              </ol>
+              <div class="carousel-inner" role="listbox">
+				                <div class="item active">
+                  <a href="#potshot" onclick="javascript:window.open('http://www.thestandard.com.hk/show_image.php?recid=1580','list','width=800,height=800,toolbar=no, menubar=no, scrollbars=yes,resizable=yes,location=no, status=no');"><img src="http://www.thestandard.com.hk/images/potshot/20160523/potsmall.jpg" width="120px"></a>
+                </div>
+				                <div class="item ">
+                  <a href="#potshot" onclick="javascript:window.open('http://www.thestandard.com.hk/show_image.php?recid=1579','list','width=800,height=800,toolbar=no, menubar=no, scrollbars=yes,resizable=yes,location=no, status=no');"><img src="http://www.thestandard.com.hk/images/potshot/20160520/potsmall.jpg" width="120px"></a>
+                </div>
+				                <div class="item ">
+                  <a href="#potshot" onclick="javascript:window.open('http://www.thestandard.com.hk/show_image.php?recid=1578','list','width=800,height=800,toolbar=no, menubar=no, scrollbars=yes,resizable=yes,location=no, status=no');"><img src="http://www.thestandard.com.hk/images/potshot/20160519/potsmall.jpg" width="120px"></a>
+                </div>
+				              </div>
+            </div>
+			</div>
+		  <div>  </div>
+		  		  		  <div class="free-tickets">
+            <div id="carousel-free-tickets" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+				                <li data-target="#carousel-free-tickets" data-slide-to="0" class="active"></li>
+				              </ol>
+              <div class="carousel-inner" role="listbox">
+				                <div class="item active" align="middle">
+                  <a href="http://www.thestandard.com.hk/special/thewave/index.php"><img src="http://www.thestandard.com.hk/special/thewave/images/web.jpg" style="height:170px;"></a>
+                </div>
+				              </div>
+            </div>
+            <h4>Free Premium</h4>
+          </div>
+		  		  <br>
+		  			<div><a href="http://www.thestandard.com.hk/special/lswriting2016/ls2016.php"><img src="http://www.thestandard.com.hk/images/lswriting2016.jpg"></a></div><a href="http://www.thestandard.com.hk/special/lswriting2016/ls2016.php">
+		  <br>
+		  </a><div><a href="http://www.thestandard.com.hk/special/lswriting2016/ls2016.php"></a><a href="http://www.thestandard.com.hk/special/storywriting2016/sw2016.php"><img src="http://www.thestandard.com.hk/images/icon_ls2016.jpg"></a></div><a href="http://www.thestandard.com.hk/special/storywriting2016/sw2016.php">
+		  <br>
+		  </a><div><a href="http://www.thestandard.com.hk/special/storywriting2016/sw2016.php">
+			</a><a href="http://www.thestandard.com.hk/CharacterBuilder.php"><img src="/images/120x40_CBandIdiom.jpg" width="120" border="0"></a>
+		  </div>
+        </div>        <!-- /left bar -->
+        <!-- main -->
+        <!-- InstanceBeginEditable name="main" -->  
+        <div class="ts-main">
+		<table cellspacing="1" cellpadding="1" width="100%" align="center" border="0" class="content">
+<tbody><tr><td style="text-align:center;font-size: xx-large;" colspan="2">Privacy Policy Statement </td></tr>
 
-	<tr>	
-		<td align="center">
-			<a href="TS_StreetPoints_2013-10.pdf" target="_blank">
-				<img src="/banners/120x60_TS_StreetPoints.jpg" border="0">
-			</a>
-		</td>	
-	</tr>
-	
-	
-<!--	
-	<TR>	
-		<TD align="center">
-			<A HREF="/banners/MT12018_Redemption leaflet4.pdf" target="_blank">
-				<IMG SRC="/banners/120x60_RedemptionCard.jpg" border="0" />
-			</A>
-		</TD>	
-	</TR>		
--->
-
-
-	
-	<tr>	
-		<td align="center">
-			<a href="/banners/IndividualOrderForm.pdf" target="_blank">
-				<img src="/banners/120x60_Subscription.jpg" border="0">
-			</a>
-		</td>	
-	</tr>	
-	
-
-
-	
-	<tr>
-		<td height="10"></td>
-	</tr>	
-		
-		
-		<!--
-		<TR>
-			<TD align="middle"><a href="http://www.puremedia-asia.com/" target=_blank><img src="/banners_revamp/puremedia-logo-mini.jpg" border="0"></a></TD>
-		</TR>
-		-->
-
-		<tr>
-			<td height="4"></td>
-		</tr>
-		
-		<tr>
-			<td align="right" background="/images_revamp/divider.menu.gif" height="20"><img height="20" src="/images/spacer.gif" width="1"></td>
-		</tr>
-		
-		<tr>
-			<td height="4"></td>
-		</tr>
-
-
-		
-		
-		<!--		
-		<TR>
-			<TD align="right">
-				<a href="http://www.thestandard.com.hk/tangram" target="_blank">
-					<IMG src="/images/120x60_Tangram.gif" height="60" width="120" border="0">
-				</a>
-			</td>
-		</TR>	
-		-->
-		
-		
-<!--	
-		<TR>
-			<TD align="right">
-				<a href="/banners/synergy_revised.pdf" target="_blank">
-					<img src="/banners/Small square(120X120).jpg" width="120" border="0">
-				</a>
-			</TD>
-		</TR>
-		
-		<TR>
-			<TD height="4"></TD>
-		</TR>	
--->
-		
-<!--		<TR>
-			<TD align="right">
-				<a href="/banners/Canopus-small-square-1.jpg" onclick="MM_openBrWindow('banners/Canopus-small-square-1.jpg','','width=420,height=420');return false">
-					<img src="/banners/Canopus-small-square.jpg" width="120" border="0">
-				</a>
-			</TD>
-		</TR>
-		<TR>
-			<TD height="4"></TD>
-		</TR>
--->
-
-<!--		
-		<TR>
-			<TD align="right">
-				<a href="https://www.thestandardcs.com.hk/order_b.asp" target="_blank">
-					<img src="/banners/subscription-01-2006.gif" width="120" height="120" border="0">
-				</a>
-			</TD>
-		</TR>
-		<TR>
-			<TD height="4"></TD>
-		</TR>
--->		
-		
-			
-
-		
-		<tr>
-		  <td aligh="middle"></td>
-    		</tr>
-		</tbody></table>
-	<br>
-	<img height="1" src="/images/spacer.gif" width="130">
-</td>
-
-					<td valign="top" width="520" background="/images/bkgd_body.update.jpg" bgcolor="#ffffff">
-						<table id="Table1" cellspacing="1" cellpadding="1" width="490" align="center" border="0">
-						  <tbody><tr valign="top" bgcolor="#ffffff">
-						    <td>&nbsp;</td> 
-						    <td>
-						      <p><font face="Arial, Helvetica, sans-serif" size="2"><b>Privacy Policy Statement</b> 
-						      <br></font></p>
-							  
-							  
-							  
-							  
-							  
-<!--**************************************Table for Content*********************************-->							  
-	
-<table cellspacing="1" cellpadding="1" width="100%" align="center" border="0" class="content">
-
-
- <tbody><tr>
+ <tr>
  <!-- <td width="30" align="left" valign="top" class="content">1.</td> -->
  <td align="left" valign="top" class="content" colspan="2">
   Sing Tao Limited, its subsidiaries and/or its affiliates are hereinafter collectively referred to as "the Company", "we", "our" or "us".  
@@ -1262,450 +761,98 @@ The aforesaid information provided by the Third Parties will be used primarily t
  
  
  
-</tbody></table>
-	
-<!--**************************************//Table for Content*********************************-->
-						
-						</td></tr>
-					      </tbody></table>
-						  
-					</td>
-					<td valign="top" align="middle" background="/images/bkgd_menu_right.jpg" bgcolor="#003f8f">
-						<table cellspacing="0" cellpadding="0" width="120" border="0" id="Table16">
-	<tbody>
-		<!--TR>
-				<TD align="center">
-					<A HREF="http://www.thestandard.com.hk/vote_hsbc.asp" target="_blank">
-						<IMG width="120" SRC="/images/hsbc_120_200_e.gif" border="0"/>
-					</A>
-				</TD>
-		</TR>
-		<TR>
-			<TD height="4"></TD>
-		</TR-->
+</tbody></table>  
+        </div>
+        <!-- InstanceEndEditable -->
+        <!-- /main -->
+        <!-- right bar -->
+		        <div class="ts-right-bar">
+          <div class="ad w300-h250">
+            <!--a href="#a"></a><img src="images/main_10.jpg" width="300" height="250" /></a-->
+			<div id="div-gpt-ad-1442818250328-1" style="height:250px; width:300px;">
+			<script type="text/javascript">
+				googletag.cmd.push(function() { googletag.display('div-gpt-ad-1442818250328-1'); });
+			</script>
+			</div>
+          </div>
+
+          <div class="ad w300-h250">
+            <!--a href="http://www.thestandard.com.hk/special/lswriting2015/" target="_blank"><img src="images/main_33.jpg" width="300" height="250" /></a-->
+			<!-- /270010083/TS-300x250-Index-2 -->
+			<div id="div-gpt-ad-1442818250328-2" style="height:250px; width:300px;">
+			<script type="text/javascript">
+				googletag.cmd.push(function() { googletag.display('div-gpt-ad-1442818250328-2'); });
+			</script>
+			</div>
+          </div>
+		  <div class="grid-2-2 row text-center">
+            <!--div class="col-xs-6">
+              <a href="../files/cheng/"><img src="images/main_21.jpg" width="120" height="60"/></a>
+            </div-->
+            <!--div class="col-xs-6">
+              <a href="http://www.thestandard.com.hk/character_builder.asp"><img src="images/main_23.jpg" width="120" height="60"/></a>
+            </div-->
+            <div class="col-xs-6" style="width:33%;padding-left:15px; margin: 0; padding: 0; overflow: hidden;">
+              <a href="http://student.thestandard.com.hk/junior/index.asp"><img src="http://www.thestandard.com.hk/images/01_juniorstandard.gif" width="100" height="40"></a>
+            </div>
+            <div class="col-xs-6" style="width:33%;padding-left:15px; margin: 0; padding: 0; overflow: hidden;">
+              <a href="http://student.thestandard.com.hk/goodies/"><img src="http://www.thestandard.com.hk/images/02_goodies.gif" width="100" height="40"></a>
+            </div>
+			<div class="col-xs-6" style="width:33%;padding-left:15px; margin: 0; padding: 0; overflow: hidden;">
+              <a href="http://student.thestandard.com.hk/student/"><img src="http://www.thestandard.com.hk/images/03_studentstandard.gif" width="100" height="40"></a>
+            </div>
+          </div>
+		  <!-- 300 x 100 banner -->
+		  
+		  <script type="text/javascript">
+			  var googletag = googletag || {};
+			  googletag.cmd = googletag.cmd || [];
+			  (function() {
+				var gads = document.createElement('script');
+				gads.async = true;
+				gads.type = 'text/javascript';
+				var useSSL = 'https:' == document.location.protocol;
+				gads.src = (useSSL ? 'https:' : 'http:') +
+				  '//www.googletagservices.com/tag/js/gpt.js';
+				var node = document.getElementsByTagName('script')[0];
+				node.parentNode.insertBefore(gads, node);
+			  })();
+			</script>
+
+			<script type="text/javascript">
+			  googletag.cmd.push(function() {
+				googletag.defineSlot('/270010083/TS-300x100-Index-1', [300, 100], 'div-gpt-ad-1452138785075-0').addService(googletag.pubads());
+				googletag.defineSlot('/270010083/TS-300x100-Index-2', [300, 100], 'div-gpt-ad-1452138785075-1').addService(googletag.pubads());
+				googletag.pubads().enableSingleRequest();
+				googletag.enableServices();
+			  });
+			</script>
 
 
-		
 
-
-<!--		<TR>
-			<TD height="4"></TD>
-		</TR>
--->
-		<!--PA2007-->
-<!--
-<script language="javascript">				
-document.write('<tr><td align="center" bgcolor="#CE181E">');
-document.write('<span class="bodyCopy" style="color:white;"><b>Policy Address<br/>Special Edition</b></span>');
-document.write('</td></tr>');
-document.write('<tr><td align="center" bgcolor="#CE181E">');
-document.write('<a href="http://202.66.86.28/ActiveMagazine/getBook.asp?Path=thestandard/2002/02/02&Language=English&ReaderStyle=Normal&browserWindowWidth=1014&browserWindowHeight=718" target="_blank">');
-document.write('<img src="/popup/standard_PA_right.jpg" width="120px" ');
-document.write(' border="0"/>');
-document.write('</a><br/><div style="width:10px;height:1px;overflow:hidden;"></div>');
-document.write('</td></tr>');
-</script>
-
-    <TR>
-			<TD height="6"></TD>
-		</TR>
--->		<!--PA2007-->
-		
-    <script src="http://finance.thestandard.com.hk/thestandard_covers/cover.js" type="text/javascript" language="javascript"></script>
-		<tr>
-			<td height="3"></td>
-		</tr>	
-		<!--<tr>
-			<td align="center">
-               <a href="images/LKK_Eng.jpg"  target="_blank"><img src="/images/leeicon.gif" border="0" ></a>
-			</td>
-		</tr>-->
-			
-<!--        <tr ><td  height="5"></td></tr>
-		<tr>
-			<TD  align="middle"><img src="images/potshot/potshot_small.jpg" ></td>
-		</tr>		
-		<tr>
-			<TD  align="middle"><a href="javascript:openWindow('show_image.asp?id=1470','list','width=600,height=600,toolbar=no, menubar=no, scrollbars=yes,resizable=yes,location=no, status=no');" ><img src="/images/potshot/20151124/pots.jpg" width="120" height="152"></a>			</td>
-		</tr>
--->		<!--<tr>
-			<TD  align="middle" class="bodyCopy"><=rs("caption1")%></td>
-		</tr>		-->
-		<tr><td height="0"></td></tr> 
-		<!-- Edited by Jackie... People keep asking about how to read old papers, so add "Archive" underneath the cover and cut down the space between the cover and the "Archive" image-->
-	
-	
-	
-	<tr><td align="center"><a href="http://paper.thestandard.com.hk/?archive=1" target="_blank">
-		<img src="/images/120x40_FlippingArchive.jpg" width="120" border="0"></a></td></tr>
-		
-	<tr>
-			<td height="8"></td>
-	</tr>
-		
-		
-	
-		
-		
-		
-		
-		<tr>
-				<td align="center">
-					<a href="/member/mem_login.asp">
-						<img width="120" src="/images/StandardWebMemberLogin_v2.jpg" border="0">
-					</a>
-				</td>
-		</tr>
-		<tr height="4">
-<!--
-		<tr><TD vAlign="top" align="middle">
-		<a href="javascript:openWindow('/images/weather-full.jpg','list','resizable=yes,scrollbars,width=840,height=550');">
-		<IMG height="102" src="/images/weather.gif" width="127" border="0"></a><br></td></tr>
-
-
-		<TR>
-			<TD height="6"></TD>
-		</TR>
--->
-
-		
-		<script>
-		function openwin(page, size){
-			window.open(page,"newwindow","toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,"+ size);
-		}
-		</script>
-
-		
-
-		
-		
-		
-		
-		
-		</tr><tr>
-			<td align="center">
-				<!--/* OpenX Javascript Tag v2.6.4 (Rich Media - Doubleclick) */-->
-
-<!--/*
-  * The backup image section of this tag has been generated for use on a
-  * non-SSL page. If this tag is to be placed on an SSL page, change the
-  *   'http://203.80.0.221/openx-2.6.4/www/delivery/...'
-  * to
-  *   'https://203.80.0.221/openx-2.6.4/www/delivery/...'
-  *
-  * This noscript section of this tag only shows image banners. There
-  * is no width or height in these banners, so if you want these tags to
-  * allocate space for the ad before it shows, you will need to add this
-  * information to the <img> tag.
-  *
-  * If you do not want to deal with the intricities of the noscript
-  * section, delete the tag (from <noscript>... to </noscript>). On
-  * average, the noscript tag is called from less than 1% of internet
-  * users.
-  */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   document.MAX_ct0 ='%c';
-   
-   var m3_u = (location.protocol=='https:'?'https://203.80.0.221/www/delivery/ajs.php':'http://203.80.0.221/www/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=10&amp;withtext=1&amp;block=1");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
-       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
-   }
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://203.80.0.221/www/delivery/ajs.php?zoneid=10&amp;withtext=1&amp;block=1&amp;cb=29695393784&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20151124073253id_/http%253A//www.thestandard.com.hk/privacy.asp"></script>
-<noscript><a href='http://203.80.0.221/www/delivery/ck.php?n=a155483d&amp;cb=%n' target='_blank'><img src='http://203.80.0.221/www/delivery/avw.php?zoneid=10&amp;n=a155483d&amp;ct0=%c' border='0' alt='' /></a></noscript>
-	
-			</td>
-		</tr>
-		
-		
-		
-		
-		
-		<tr><td align="center">
-				<!--/* OpenX Javascript Tag v2.8.7 */-->
-
-<!--/*  * Replace all instances of INSERT_RANDOM_NUMBER_HERE with
-  * a generated random number (or timestamp).
-  *
-  * The backup image section of this tag has been generated for use on a
-  * non-SSL page. If this tag is to be placed on an SSL page, change the
-  *   'http://203.80.0.221/www/delivery/...'
-  * to
-  *   'https://203.80.0.221/www/delivery/...'
-  *
-  * This noscript section of this tag only shows image banners. There
-  * is no width or height in these banners, so if you want these tags to
-  * allocate space for the ad before it shows, you will need to add this
-  * information to the <img> tag.
-  *
-  * If you do not want to deal with the intricities of the noscript
-  * section, delete the tag (from <noscript>... to </noscript>). On
-  * average, the noscript tag is called from less than 1% of internet
-  * users.
-  */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
-   
-   var m3_u = (location.protocol=='https:'?'https://203.80.0.221/www/delivery/ajs.php':'http://203.80.0.221/www/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=15&amp;block=1");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
-       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
-   }
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://203.80.0.221/www/delivery/ajs.php?zoneid=15&amp;block=1&amp;cb=76120908226&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20151124073253id_/http%253A//www.thestandard.com.hk/privacy.asp"></script>
-<noscript><a href='http://203.80.0.221/www/delivery/ck.php?n=adce691b&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://203.80.0.221/www/delivery/avw.php?zoneid=15&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=adce691b&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></noscript>
-
-			</td></tr>
-		<tr><td height="4"></td></tr>
-		
-		
-		
-		
-		
-		
-		
-		
-				
-						
-		<tr>
-				<td align="center">
-					<a href="http://www.thestandard.com.hk/special/lswriting2015/index_result.asp" target="_blank">
-						<img width="120" src="/banners/LS2014-15_banner_result.jpg" border="0">
-					</a>
-				</td>
-		</tr>
-		<tr height="4">
-			
-		
-		
-		
-		
-		</tr><tr>
-			<td align="center">
-				<!--/* OpenX Javascript Tag v2.8.8 */-->
-
-<!--/*  * Replace all instances of INSERT_RANDOM_NUMBER_HERE with
-  * a generated random number (or timestamp).
-  *
-  * The backup image section of this tag has been generated for use on a
-  * non-SSL page. If this tag is to be placed on an SSL page, change the
-  *   'http://203.80.0.221/www/delivery/...'
-  * to
-  *   'https://203.80.0.221/www/delivery/...'
-  *
-  * This noscript section of this tag only shows image banners. There
-  * is no width or height in these banners, so if you want these tags to
-  * allocate space for the ad before it shows, you will need to add this
-  * information to the <img> tag.
-  *
-  * If you do not want to deal with the intricities of the noscript
-  * section, delete the tag (from <noscript>... to </noscript>). On
-  * average, the noscript tag is called from less than 1% of internet
-  * users.
-  */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
-
-   var m3_u = (location.protocol=='https:'?'https://203.80.0.221/www/delivery/ajs.php':'http://203.80.0.221/www/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=25&amp;block=1&amp;blockcampaign=1");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
-       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
-   }
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://203.80.0.221/www/delivery/ajs.php?zoneid=25&amp;block=1&amp;blockcampaign=1&amp;cb=79101934459&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20151124073253id_/http%253A//www.thestandard.com.hk/privacy.asp"></script><noscript><a href='http://203.80.0.221/www/delivery/ck.php?n=a6d34016&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://203.80.0.221/www/delivery/avw.php?zoneid=25&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a6d34016&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></noscript>
-
-			</td>
-		</tr>
-		<tr height="4">	
-
-		
-		
-		</tr><tr>
-			<td align="center">
-				<!--/* OpenX Javascript Tag v2.8.7 */-->
-
-<!--/*  * Replace all instances of INSERT_RANDOM_NUMBER_HERE with
-  * a generated random number (or timestamp).
-  *
-  * The backup image section of this tag has been generated for use on a
-  * non-SSL page. If this tag is to be placed on an SSL page, change the
-  *   'http://203.80.0.221/www/delivery/...'
-  * to
-  *   'https://203.80.0.221/www/delivery/...'
-  *
-  * This noscript section of this tag only shows image banners. There
-  * is no width or height in these banners, so if you want these tags to
-  * allocate space for the ad before it shows, you will need to add this
-  * information to the <img> tag.
-  *
-  * If you do not want to deal with the intricities of the noscript
-  * section, delete the tag (from <noscript>... to </noscript>). On
-  * average, the noscript tag is called from less than 1% of internet
-  * users.
-  */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
-   
-   var m3_u = (location.protocol=='https:'?'https://203.80.0.221/www/delivery/ajs.php':'http://203.80.0.221/www/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=15&amp;block=1");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
-       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
-   }
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://203.80.0.221/www/delivery/ajs.php?zoneid=15&amp;block=1&amp;cb=22301926662&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20151124073253id_/http%253A//www.thestandard.com.hk/privacy.asp"></script>
-<noscript><a href='http://203.80.0.221/www/delivery/ck.php?n=adce691b&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://203.80.0.221/www/delivery/avw.php?zoneid=15&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=adce691b&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></noscript>
-
-			</td>
-		</tr>
-		<tr height="4">
-		
-		
-		
-		
-		
-		
-		
-
-		
-		
-		
-		
-<!--		
-		<tr>
-			<TD width="120" align="middle">	
-				<a href="http://www.thestandard.com.hk/special/ipadcase/" target="blank">
-				<IMG src="/images/iPad-icon.gif" width="120" border="0">
-				</a>
-			</td>
-		</tr>
-		
-		<TR>
-			<TD height="4"></TD>
-		</TR>	
--->		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-<!--		
-		<TR>
-			<TD align="right">
-				<a href="http://www.thestandard.com.hk/banners/Elan_281008.pdf" target="_blank">
-					<IMG src="/images/Elan_2810081.jpg" width="123" border="0">
-				</a>
-			</td>
-		</TR>
--->
-			
-			
-			
-		
-		
-		
-		
-		
-		</tr><tr><td align="center">
-		
-		    <!--<A HREF="http://www.mformembership.com/" target="_blank"><IMG SRC="/banners/mformer.gif" /></A>-->
-		
-		
-		</td></tr>
-
-		
-						
-		
-		
-		<!--
-		<tr>		
-			<td align="center">
-				<object width="120" height="120">
-					<param name="movie" value="/banners/morningstar_logo.swf">
-					<embed src="/banners/morningstar_logo.swf" width="120" height="120">
-					</embed>
-				</object>
-			</td>
-		</tr>
-		<tr><td height="4"></td></tr>
-		-->
-
-		<tr>
-			<td align="center">
-				<!-- include file="120x120_MorningStar.inc" -->
-			</td>	
-		</tr>
-
-				
-		
-		<tr>
-			<td align="center">
-				<!-- include file="rotate_120_200_local.inc" -->
-				<script language="JavaScript" src="rotate-120x200.js"></script><a href="http://www.equinox-serviced-apt.com" target="_blank"><img src="banners/120x200_Equinox3.gif" border="0" alt="Please visit our sponsors"></a>
-			</td>
-		</tr>
-	
-		<tr>
-			<td height="4"></td>
-		</tr>					
-	
-				
-				
-				
-		
-		<script language="javascript">
+			<!-- /270010083/TS-300x100-Index-1 -->
+			<div id="div-gpt-ad-1452138785075-0" style="height:100px; width:300px;">
+			<script type="text/javascript">
+				googletag.cmd.push(function() { googletag.display('div-gpt-ad-1452138785075-0'); });
+			</script>
+			</div>
+			<br>
+			<!-- /270010083/TS-300x100-Index-2 -->
+			<div id="div-gpt-ad-1452138785075-1" style="height:100px; width:300px;">
+			<script type="text/javascript">
+				googletag.cmd.push(function() { googletag.display('div-gpt-ad-1452138785075-1'); });
+			</script>
+			</div> 
+			<br>
+		  <!-- end 300x100 banner-->
+          <!--div class="ad">
+            <a href="http://barclays.statspack.co.uk/" target="_blank"><img src="images/main_38.jpg" width="300" height="60" /></a>
+          </div-->
+		  <script language="javascript">
 		function askprice() {
         	f = document.stock_form;
-			f.action="http://delaycontent.megahubhk.com/Client/SingTao/MHStockFrame.aspx?style=singtao&lang=en&code=" + f.code.value
+			code=f.code.value;
+			f.action="http://delaycontent.megahubhk.com/Client/SingTao/MHStockFrame.aspx?style=singtao&lang=en&code=" + code
         	window.open("about:blank", "stockprice", "toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=no,width=600,height=730");
         	f.target="stockprice";
         	return true;
@@ -1715,302 +862,159 @@ document.write('</td></tr>');
 		.standard_font3 {font-size: 11px;font-family: Arial, Helvetica;font-style: normal;line-height: 16px;color: #000000;}
 		.inputbox {font-family: Arial, Helvetica, sans-serif;font-size: 12px;font-style: normal;line-height: 14px;}
 		</style>
-		<tr>
-			<td align="center">
-            <table width="122" border="0" align="center" cellpadding="0" cellspacing="0">
-              <form method="post" name="stock_form" id="stock_form" onsubmit="askprice()"></form>
-                <tbody><tr>
-                  <td align="center" bgcolor="#9d0006"><table width="100%" border="0" cellpadding="0" cellspacing="0" bordercolor="#9d0006">
-                    <tbody><tr>
-                      <td align="center"><img src="/banners/aastock/aastock-graphic_stand_ani_0.gif" width="120" height="81" style="border:1px solid #9d0006"></td>
-                    </tr>
-                  </tbody></table></td>
-                </tr>
-                <tr>
-                  <td align="center" bgcolor="#9d0006"><img src="/banners/aastock/left_02_01.gif" width="83" height="13"></td>
-                </tr>
-                <tr>
-                  <td align="center" bgcolor="#9d0006"><input name="code" type="text" class="inputbox" size="8" maxlength="8"></td>
-                </tr>
-                <tr>
-                  <td height="2" align="center" bgcolor="#9d0006"><font size="2" class="standard_font3"><font color="#FFFFFF">
-                    <img src="/banners/aastock/skim.gif" width="1" height="5"></font></font></td>
-                </tr>
-                <tr>
-                  <td height="3" align="center" bgcolor="#9d0006"><font size="2" class="standard_font3"><font size="2" class="standard_font3"><font color="#FFFFFF">
-                    <input name="Submit" type="submit" class="inputbox" value="Quote">
-                  </font></font></font></td>
-                </tr>
-                <tr>
-                  <td><img src="/banners/aastock/skim.gif" width="1" height="8"></td>
-                </tr>
+          <div class="stock-code-quote">
+            <form method="post" name="stock_form" id="stock_form" onsubmit="askprice()" class="form-inline">
+              <div class="form-group">
+                  <input class="form-control" type="text" placeholder="STOCK CODE" name="code">
+                  <button type="submit" class="btn">Quote</button>
+              </div>
+            </form>
+          </div>
+         	  <script>
+ $(document).ready(function(){
+ 
+	var year = parseInt($("#current_year").val());
+	var month = parseInt($("#current_month").val());
+	var day = parseInt($("#current_day").val());
+	var check_request = $("#check_request").val();
+	var request_date = $("#request_date").val();
+	
+	AjaxCal(year, month, day, check_request, request_date);
+
+    $("#prev").click(function(){
+
+		if(month == 1){
+			year = year - 1;
+			month = 12;
+		}else{
+			month = month - 1;
+		}
+		 AjaxCal(year, month, day, check_request, request_date);
+    });
+	
+	 $("#next").click(function(){
+
+		if(month == 12){
+			year = year + 1;
+			month = 1;
+		}else{
+			month = month + 1;
+		}
+		  AjaxCal(year, month, day, check_request, request_date);
+    });
+});
+
+function AjaxCal(year, month, day, check_request, request_date){
+	var month_info = new Array(  "January", "February",  "March",  "April",  "May",  "June",  "July",  "August",   "September",  "October",  "November",  "December" ) ;
+	return  $.ajax({
+                 url: "http://www.thestandard.com.hk/ajax_calender.php",
+                data: {year: year, month: month, day: day, check_request : check_request, request_date:request_date},
+                type:"POST",
+                dataType:'html',
+
+                success: function(data){
+					$("#current_year").val(year);
+					$("#current_month").val(month);
+					$("#curr_dateMonth").text(month_info[month-1] + ' ' +year);
+				    $("#table1 > tbody").html("");
+					$("#table1 > tbody").append(data);
+                },
+                 error:function(xhr, ajaxOptions, thrownError){ 
+					console.log('ajax calender error.');
+					console.log(xhr.status);
+                    //alert(xhr.status); 
+                    //alert(thrownError); 
+                 }
+            });
+}
+ </script>
+  <div class="search-archive" id="search-archive">
+            <h4>Search Archive</h4>
+            <a href="http://www.thestandard.com.hk/search.php" class="icon-advanced-search" title="Advanced Search">Advanced Search</a>
+			<input type="hidden" id="current_year" value="2016">
+			<input type="hidden" id="current_month" value="5">
+			<input type="hidden" id="current_day" value="23">
+			<input type="hidden" id="check_request" value="">
+			<input type="hidden" id="request_date" value="2016-05-23">
+            <div class="calendar">
+            <div class="month-control">
+                <a class="left" id="prev" style="cursor:pointer">prev</a>
+				                <span id="curr_dateMonth">May 2016</span>
+                <a class="right" id="next" style="cursor:pointer">next</a>
+              </div><table class="table" id="table1">
               
-            </tbody></table>
-			</td>
-		</tr>		
-	
-	<tr>	
-		<td align="center">
-			<!-- include file="rotate_120_600.inc"-->
-		</td>	
-	</tr>
-	
-<!--	<tr><td height="6"></td></tr>
--->	
+              <thead>
+                <tr>
+                  <th>S</th>
+                  <th>M</th>
+                  <th>T</th>
+                  <th>W</th>
+                  <th>T</th>
+                  <th>F</th>
+                  <th>S</th>
+                </tr>
+              </thead>
+              <tbody>
 
-			
-	<!--<TR>	
-		<TD align="center">
-			<A HREF="TS-Street-Point-Dec2011.pdf" target="_blank">
-				<IMG SRC="/banners/120x120_TS_StreetPoints.gif" border="0" />
-			</A>
-		</TD>	
-	</TR>
-		
-	<TR>	
-		<TD align="center">
-			<A HREF="/banners/IndividualOrderForm.pdf" target="_blank">
-				<IMG SRC="/banners/120x150_Subscription.gif" border="0" />
-			</A>
-		</TD>	
-	</TR>-->	
-		
-		
-				
-		
-		
-		
-		<tr><td height="4"></td></tr>	
-				
-		<tr>
-			<td align="middle"><script language="JavaScript">
-				<!-- 
-				
-				function openWindow(theURL,winName,features) {
-				  window.open(theURL,winName,features);
-				}
-					function openWindow(theURL,winName,features) 
-					{
-						var stats=""
-						if (screen.width) {
-							var w = (screen.width/2) - 150
-							var h = (screen.height/2) - 150
-							stats = features+",left="+w+",top="+h
-						}
-						window.open(theURL,winName,stats)
-					}
-				//-->
-				</script>
-
-<!--
-			<IMG src="/images/markets-strip.jpg" width=120 useMap=#Markets border=0>
-			
-			<map name=Markets>
-			<area shape=RECT coords=1,30,120,200 href="javascript:openWindow('/images/markets-1.jpg','list','resizable=yes,scrollbars,width=370,height=520');">
-			<area shape=RECT coords=1,215,120,400 href="javascript:openWindow('/images/markets-2.jpg','list','resizable=yes,scrollbars,width=370,height=540');">
-			<area shape=RECT coords=1,420,120,520 href="javascript:openWindow('/images/markets-3.jpg','list','resizable=yes,scrollbars,width=370,height=340');">
-			<area shape=RECT coords=1,540,120,600 href="javascript:openWindow('/images/markets-4.jpg','list','resizable=yes,scrollbars,width=370,height=300');">
-			</MAP>
-			</TD>
-		</TR>
--->		
-		</td></tr><tr>
-			<td height="6"></td>
-		</tr>
-		
-
-
-
-	</tbody>
-</table>
-
-						<img height="1" src="/images/spacer.gif" width="128">
-					</td>
-					</tr>
-				</tbody></table>
-				
-				</td></tr>
-				<tr valign="top" align="left">
-					<td valign="top" align="left" width="785" bgcolor="#003f8f" height="90">
-						<!--footer-->
-
-<table cellspacing="0" cellpadding="0" width="100%" border="0">
-							
-		<tbody><tr height="10"><td background="/images/bkg_long.gif"></td></tr>
-					
-		<tr valign="center" align="middle">
-			<td class="bodyCopy" colspan="2" height="20" xwidth="129" background="/images/bkg_long.gif">
-			
-				<!--script language="JavaScript" src="rotate-468x60-B.js"></script-->
-			
-				<br>
-			</td>
-		</tr>	
-											
-</tbody></table>
-							
-<table cellspacing="0" cellpadding="0" width="100%" border="0">
-	<tbody><tr align="middle">
-	<td background="/images/bkg_long.gif">
-	<a class="toplink" href="http://www.thestandard.com.hk/">© 2015 The Standard, The Standard Newspapers Publishing Ltd.</a>
-	<br>
-	<a class="toplink" href="/contactus.asp">Contact Us</a>
-	| <a class="toplink" href="/aboutus.asp">About Us</a>
-	| <a class="toplink" href="/newsfeed.asp" target="_blank">Newsfeeds</a>
-	| <a class="toplink" href="/banners/IndividualOrderForm.pdf" target="_blank">Subscriptions</a><!--http://203.80.2.5/others/subs04.cfm?reg=hk-->
-	| <a class="toplink" href="/banners/PrintAdRate.pdf" target="_blank">Print Ad.</a>
-	| <a class="toplink" href="/banners/OnlineAdRate.pdf" target="_blank">Online Ad.</a>
-	| <a class="toplink" href="TS-Street-Point-Dec2011.pdf" target="_blank">Street Pts</a>
-	</td></tr>
-</tbody></table>
-<table id="Table6" cellspacing="0" cellpadding="0" width="100%" align="center" bgcolor="#ed1c24" border="0">
-	<tbody><tr>
-		<td colspan="2">
-			<p align="right"><img height="20" src="/images/paper-of-the-year-mini.gif" align="absMiddle" border="0">&nbsp;</p>
-		</td>
-	</tr>
-</tbody></table>
-<table id="Table18" cellspacing="0" cellpadding="0" width="100%" border="0">
-	<tbody><tr height="1">
-		<td valign="top" bgcolor="#000000" colspan="3" height="1"><img height="1" src="/res/spacer.gif" width="1" border="0"></td>
-	</tr>
-	<tr>
-		<td valign="top" width="22" bgcolor="#f7931e"><img height="1" src="/res/spacer.gif" width="1" border="0"></td>
-		<td valign="top" width="734" bgcolor="#f7931e"><br>
-			<center><a class="toplink" href="http://www.thestandard.com.hk/"><font face="Verdana" color="#ffffff" size="1">Home</font></a><font face="Verdana"><font size="1">
-						<font color="#ffffff">| </font></font></font>
-						
-						<a class="toplink" href="/news_sec.asp?we_cat=11&amp;d_str=20151124">
-					<font face="Verdana" color="#ffffff" size="1">Top News</font></a><font face="Verdana"><font size="1">
-						<font color="#ffffff">| </font></font></font><a class="toplink" href="/news_sec.asp?we_cat=4&amp;d_str=20151124">
-					<font face="Verdana" color="#ffffff" size="1">Local</font></a><font face="Verdana"><font size="1">
-						<font color="#ffffff">| </font></font></font><a class="toplink" href="/news_sec.asp?we_cat=2&amp;d_str=20151124">
-					<font face="Verdana" color="#ffffff" size="1">Business</font></a><font face="Verdana"><font size="1">
-						<font color="#ffffff">| </font></font></font><a class="toplink" href="/news_sec.asp?we_cat=3&amp;d_str=20151124">
-					<font face="Verdana" color="#ffffff" size="1">China</font></a><font face="Verdana"><font size="1">
-						<font color="#ffffff">| </font></font></font><a class="toplink" href="/news_sec.asp?we_cat=9&amp;d_str=20151124">
-					<font face="Verdana" color="#ffffff" size="1">ViewPoint</font></a><font face="Verdana"><font size="1">
-						<font color="#ffffff">| </font></font></font><a class="toplink" href="/news_sec.asp?we_cat=5&amp;d_str=20151124">
-					<font face="Verdana" color="#ffffff" size="1">CityTalk</font></a><font face="Verdana"><font size="1">
-						<font color="#ffffff">| </font></font></font><a class="toplink" href="/news_sec.asp?we_cat=6&amp;d_str=20151124">
-					<font face="Verdana" color="#ffffff" size="1">World</font></a><font face="Verdana"><font size="1">
-						<font color="#ffffff">| </font></font></font><a class="toplink" href="/news_sec.asp?we_cat=8&amp;d_str=20151124">
-					<font face="Verdana" color="#ffffff" size="1">Sports</font></a><font face="Verdana"><font size="1">
-						<font color="#ffffff">| </font></font></font><a class="toplink" href="/news_sec.asp?we_cat=7&amp;d_str=20151124">
-					<font face="Verdana" color="#ffffff" size="1">People</font></a><font face="Verdana"><font size="1">
-						<font color="#ffffff">| </font></font></font><a class="toplink" href="/news_sec.asp?we_cat=21&amp;d_str=20151124">
-					<font face="Verdana" color="#ffffff" size="1">Central Station</font></a><font face="Verdana"><font size="1">
-						<font color="#ffffff">| </font></font></font><a class="toplink" href="/news_sec.asp?we_cat=12&amp;d_str=20151124">
-					<font face="Verdana" color="#ffffff" size="1">Spree</font></a><font face="Verdana"><font size="1">
-						<font color="#ffffff">| </font></font></font><a class="toplink" href="/news_sec.asp?we_cat=16&amp;d_str=20151124">
-					<font face="Verdana" color="#ffffff" size="1">Features</font></a><font face="Verdana"><font size="1">
-<!--						<FONT color="#ffffff">| </FONT></FONT></FONT><A class="toplink" href="/news_sec.asp?we_cat=16&d_str=20151124">
-					<FONT face="Verdana" color="#ffffff" size="1">Property</FONT></A><FONT face="Verdana"><FONT size="1">
-					<FONT color="#ffffff">| </FONT></FONT></FONT><!--<A class="toplink" href="/news_sec.asp?we_cat=15&d_str=20151124">
-					<FONT face="Verdana" color="#ffffff" size="1">Macau</FONT></A><FONT face="Verdana"><FONT size="1">
-
-					<FONT color="#ffffff">| </FONT></FONT></FONT><A class="toplink" href="/index.asp?d_str="><FONT face="Verdana" color="#ffffff" size="1">
-						Weekend</FONT></A>
--->						
-					</font></font></center><font face="Verdana"><font size="1">
-			<center>
-				<p align="center"><font color="#ffffff"><font size="5"><strong><font face="Times New Roman">The 
-									Standard</font></strong><br>
-						</font>
-						<br>
-						<font face="Verdana" size="2">Trademark and Copyright Notice:&nbsp;Copyright 
-							2015,&nbsp;The Standard Newspaper Publishing Ltd.,&nbsp;and its related entities. All 
-							rights reserved.&nbsp; Use in whole or part of this site's content is 
-							prohibited.&nbsp; &nbsp;Use of this Web site assumes acceptance of the </font>
-					</font><a href="/termsofuse.asp" target="_blank">
-						<font face="Verdana" color="#ffffff" size="2">Terms of Use</font></a><font face="Verdana" color="#ffffff" size="2">,</font>
-
-<a href="/privacy.asp" target="_blank">
-						<font face="Verdana" color="#ffffff" size="2">Privacy Policy Statement </font></a>
-
-						
-						<font face="Verdana" color="#ffffff" size="2">
-						and </font><a href="/copyright.asp" target="_blank">
-						<font face="Verdana" color="#ffffff" size="2">Copyright Policy.</font></a>&nbsp;<font face="Verdana" color="#ffffff" size="2">
-						Please also read our <a href="/ethics.asp" target="_blank"><font color="#ffffff">
-								Ethics Statement</font></a>.</font>&nbsp;<br>
-				</p>
-			</center>
-		</font></font></td>
-		<td valign="top" width="22" bgcolor="#f7931e"><img height="1" src="/res/spacer.gif" width="1" border="0"></td>
-	</tr>
-</tbody></table>
-
-<table cellspacing="0" cellpadding="0" width="100%" border="0" bgcolor="#f7931e">
-<tbody><tr>
-<td valign="top" align="left">
-
-<script language="javascript" type="text/javascript">
-<!--
-    var s=0;
-    for(;s<bannerLoadList.length;s++){
-      eval(bannerLoadList[s]);
-    }
--->
-</script>
-
-<center>&nbsp;</center>
-
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-2107155-1";
-urchinTracker();
-</script>
-
-
-</td>
-</tr>
-</tbody></table>
-
-
-
-
-<table cellspacing="0" cellpadding="0" width="100%" border="0" bgcolor="#ffffff">
- <tbody><tr>
-  <td valign="top" align="center" height="10">
-
-  <table border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td><a href="http://www.singtaonewscorp.com/" target="_blank"><img src="/images/footer_logo/singtaocorp.gif" border="0"></a></td>
-    <td><a href="http://www.hkheadline.com/" target="_blank"><img src="/images/footer_logo/headline.gif" border="0"></a></td>
-    <td width="1"></td>
-    <td><a href="http://www.singtao.com/" target="_blank"><img src="/images/footer_logo/singtao_com.gif" border="0"></a></td>
-    <td width="10"></td>
-    <td><a href="http://www.pcmarket.com.hk/" target="_blank"><img src="/images/footer_logo/pcm.gif" border="0"></a></td>
-    <td width="10"></td>
-    <td><a href="http://www.cazbuyer.com/" target="_blank"><img src="/images/footer_logo/cazbuyer.gif" border="0"></a></td>
-    <td width="10"></td>
-    <td><a href="http://www.easttouch.com.hk/" target="_blank"><img src="/images/footer_logo/eastouch.gif" border="0"></a></td>
-    <td width="10"></td>
-    <td><a href="http://www.eastweek.com.hk/" target="_blank"><img src="/images/footer_logo/dongtouch.gif" border="0"></a></td>
-    <td width="10"></td>
-    <td><a href="http://www.singtaobooks.com/" target="_blank"><img src="/images/footer_logo/singtao_pub.gif" border="0"></a></td>
-	<td width="10"></td>
-    <td><a href="http://www.headlinefinance.hk/" target="_blank"><img src="/images/footer_logo/hl_finance_logo.gif" border="0"></a></td>
-  </tr>      </tbody></table>
-
-  </td>
- </tr>
-</tbody></table>
-
-
-<!-- comScore Tag Footer, Added at 20140730, By Wingo -->
-<script language="javascript" src="/js/comScoreLower.js"></script>
-						
-					</td>
-				</tr>
-			</tbody></table>
-			
-			</td>
-		</tr>
-	</tbody></table>
-	
-
+              </tbody>
+            </table>
+            </div>
+          </div>
+		          </div>       
+        <!-- /right bar -->
+      </div>
+    </div>
+   <footer>
+      <div class="container">
+        <div class="copyright clearfix">
+          © 2016 The Standard, The Standard Newspapers Publishing Ltd.
+          <ul class="list-inline">
+            <li><a href="http://www.thestandard.com.hk/contact_us.php" title="Contact Us">Contact Us</a></li>
+            <li><a href="http://www.thestandard.com.hk/about_us.php" title="About Us">About Us</a></li>
+            <li><a href="http://www.thestandard.com.hk/newsfeed.asp" title="Newsfeeds">Newsfeeds</a></li>
+            <li><a href="http://www.thestandard.com.hk/banner/IndividualOrderForm.pdf" title="Subscriptions">Subscriptions</a></li>
+            <li><a href="http://www.thestandard.com.hk/banner/PrintAdRate.pdf" title="Print Advertising">Print Advertising</a></li>
+            <li><a href="http://www.thestandard.com.hk/banner/OnlineAdRate2016.pdf" title="Online Advertising">Online Advertising</a></li>
+            <li><a href="http://www.thestandard.com.hk/banner/StreetPoint2016.pdf" title="Street Points">Street Points</a></li>
+          </ul>
+        </div>
+        <div class="copyright-notice">
+          <ul class="list-inline">
+            <li><a href="http://www.thestandard.com.hk/index.php" title="Home">Home</a></li>
+            <li><a href="http://www.thestandard.com.hk/sections_news_list.php?sid=11" title="Top News">Top News</a></li>
+            <li><a href="http://www.thestandard.com.hk/sections_news_list.php?sid=4" title="Local">Local</a></li>
+            <li><a href="http://www.thestandard.com.hk/sections_news_list.php?sid=2" title="Business">Business</a></li>
+            <li><a href="http://www.thestandard.com.hk/sections_news_list.php?sid=3" title="China">China</a></li>
+            <!--li><a href="http://www.thestandard.com.hk/sections_news_list.php?sid=9" title="ViewPoint">ViewPoint</a></li-->
+            <li><a href="http://www.thestandard.com.hk/sections_news_list.php?sid=5" title="CityTalk">CityTalk</a></li>
+            <li><a href="http://www.thestandard.com.hk/sections_news_list.php?sid=8" title="Sports">Sports</a></li>
+            <li><a href="http://www.thestandard.com.hk/sections_news_list.php?sid=7" title="People">People</a></li>
+            <li><a href="http://www.thestandard.com.hk/sections_news_list.php?sid=21" title="Central Station">Central Station</a></li>
+            <li><a href="http://www.thestandard.com.hk/sections_news_list.php?sid=12" title="Spree">Spree</a></li>
+            <li><a href="http://www.thestandard.com.hk/sections_news_list.php?fc=1" title="Features">Features</a></li>
+          </ul>
+          <h1><b>The Standard</b></h1>
+          <p class="notice-text">
+            Trademark and Copyright Notice: Copyright 2016, The Standard Newspaper Publishing Ltd., and its related entities. All rights reserved.
+            <br>Use in whole or part of this site's content is prohibited. Use of this Web site assumes acceptance of the <a href="http://www.thestandard.com.hk/TermsOfUse.php" title="Terms of Use">Terms of Use</a>, <a href="http://www.thestandard.com.hk/Privacy.php" title="Privacy Policy Statement">Privacy Policy Statement</a>
+            <br>and <a href="http://www.thestandard.com.hk/CopyRight.php" title="Copyright Policy">Copyright Policy</a>.  Please also read our <a href="http://www.thestandard.com.hk/Ethics.php" title="Ethics Statement">Ethics Statement</a>.
+          </p>
+        </div>
+        <div class="img-link">
+          <ul class="list-inline">
+            <li><a href="http://www.singtaonewscorp.com/" target="_blank" title="Singtao News Corporation Limited"><img src="http://www.thestandard.com.hk/images/f_logo/singtaocorp.gif"></a></li>
+            <li><a href="http://hd.stheadline.com/" target="_blank" title="Headline Daily"><img src="http://www.thestandard.com.hk/images/f_logo/headline.gif"></a></li>
+            <li><a href="http://std.stheadline.com/" target="_blank" title="Singtao Daily"><img src="http://www.thestandard.com.hk/images/f_logo/singtao_com.gif"></a></li>
+            <li><a href="http://pcm.my-magazine.me/main/" target="_blank" title="PCM"><img src="http://www.thestandard.com.hk/images/f_logo/pcm.gif" alt="PCM"></a></li>
+            <li><a href="http://cazbuyer.my-magazine.me/" target="_blank" title="CAZBuyer"><img src="http://www.thestandard.com.hk/images/f_logo/cazbuyer.gif"></a></li>
+            <li><a href="http://easttouch.my-magazine.me/main/" target="_blank" title="East Touch"><img src="http://www.thestandard.com.hk/images/f_logo/eastouch.gif"></a></li>
+            <li><a href="http://eastweek.my-magazine.me/" target="_blank" title="East Week"><img src="http://www.thestandard.com.hk/images/f_logo/dongtouch.gif"></a></li>
+            <li><a href="http://www.singtaobooks.com/" target="_blank" title="Singtao Books"><img src="http://www.thestandard.com.hk/images/f_logo/singtao_pub.gif"></a></li>
+            <li><a href="http://hdfin.stheadline.com/" target="_blank" title="Headline Finance"><img src="http://www.thestandard.com.hk/images/f_logo/hl_finance.gif"></a></li>
+          </ul>
+        </div>
+      </div>
+	  <script src="http://www.thestandard.com.hk/js/comScoreLower.js"></script>
+    </footer>
+  
 </body></html>
