@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funyo.tv privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027195808id_/http%3A//funyo.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funyo.tv privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523093923id_/http%3A//www.funyo.tv/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - funyo.tv
 
