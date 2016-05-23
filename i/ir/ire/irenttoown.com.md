@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irenttoown.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113152212id_/http%3A//www.irenttoown.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irenttoown.com privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523075848id_/http%3A//www.irenttoown.com/us/privacy) for the most accurate reproduction.*
 
 # iRentToOwn.com Privacy Policy
 
