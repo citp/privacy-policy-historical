@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tempted.com privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027094715id_/http%3A//www.tempted.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tempted.com privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523075134id_/https%3A//www.tempted.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy statement sets forth the policies and practices with respect to information or data that is received or gathered regarding Members, visitors and Users of Tempted, a site operated by Aspiden Holdings Limited, Arch. Makariou III, 2-4, CAPITAL CENTER, 9th Floor, P.C. 1505 Nicosia, Cyprus, and related services (hereafter the 'Site'). CAREFULLY READ THIS PRIVACY POLICY STATEMENT BECAUSE BY YOUR USE OF THIS SITE AND ITS SERVICES YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE TO THIS PRIVACY POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS PRIVACY POLICY STATEMENT. 
+This Privacy Policy statement sets forth the policies and practices with respect to information or data that is received or gathered regarding Members, visitors and Users of Tempted, a site operated by Blyther Holdings Limited, Perdika 7, Strovolos PC 2057 Nicosia, Cyprus, and related services (hereafter the 'Site'). CAREFULLY READ THIS PRIVACY POLICY STATEMENT BECAUSE BY YOUR USE OF THIS SITE AND ITS SERVICES YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE TO THIS PRIVACY POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS PRIVACY POLICY STATEMENT. 
 
 IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT USE THIS SITE OR THE SERVICES PROVIDED BY THIS SITE. 
 
