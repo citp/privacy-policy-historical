@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fusioncash.net privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101082036id_/http%3A//www.fusioncash.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fusioncash.net privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523042054id_/http%3A//www.fusioncash.net/privacy.php) for the most accurate reproduction.*
 
 # FusionCash
 
@@ -25,7 +25,7 @@ When completing some offers, some or all of your contact information may be "pre
 
 If you "opt-in" to an advertiser offer that has a "Yes/No" radio button next to it, FusionCash automatically transmits one or more of: email address, name, street address, and/or demographic information to the advertiser(s) you selected. 
 
-Certain features of FusionCash, provided by third parties, require that we transmit one or more of: email address, name, street address, and/or demographic information. These parties are contractually obligated to protect your data and use it only in conjunction with providing services on FusionCash. Further details can be found in Section VIII. of the [Terms of Service](https://web.archive.org/web/20151101082036id_/http%3A//www.fusioncash.net/tos.php). 
+Certain features of FusionCash, provided by third parties, require that we transmit one or more of: email address, name, street address, and/or demographic information. These parties are contractually obligated to protect your data and use it only in conjunction with providing services on FusionCash. Further details can be found in Section VIII. of the [Terms of Service](https://web.archive.org/web/20160523042054id_/http%3A//www.fusioncash.net/tos.php). 
 
 Upon visiting the "FC Surveys" page, one or more cookies may be placed for the purpose of offering you surveys related to ads on other websites. 
 
@@ -42,8 +42,8 @@ FusionCash sends three types of emails:
 
 
 
-You may [unsubscribe from newsletters](https://web.archive.org/web/20151101082036id_/http%3A//www.fusioncash.net/newsletter.php?unsub) at any time. Once unsubscribed, you will no longer receive the newsletter. 
+You may [unsubscribe from newsletters](https://web.archive.org/web/20160523042054id_/http%3A//www.fusioncash.net/newsletter.php?unsub) at any time. Once unsubscribed, you will no longer receive the newsletter. 
 
-For security reasons, we do not allow users to unsubscribe from account confirmation or completion notification emails. If you do not wish to receive those emails, simply cease logging in, as they are sent only when triggered by user actions. You are also permitted to [deactivate your account](https://web.archive.org/web/20151101082036id_/http%3A//www.fusioncash.net/tickets.php?deactivate), which will prevent you from receiving notification emails.
+For security reasons, we do not allow users to unsubscribe from account confirmation or completion notification emails. If you do not wish to receive those emails, simply cease logging in, as they are sent only when triggered by user actions. You are also permitted to [deactivate your account](https://web.archive.org/web/20160523042054id_/http%3A//www.fusioncash.net/tickets.php?deactivate), which will prevent you from receiving notification emails.
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement. 
