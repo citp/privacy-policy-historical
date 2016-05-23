@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zobello.com privacy policy that was archived on 2015-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150829164652id_/http%3A//www.zobello.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zobello.com privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523203829id_/http%3A//www.zobello.com/privacy-policy) for the most accurate reproduction.*
 
 # Zobello Privacy Policy
 
@@ -73,4 +73,4 @@ By submitting your personal information, you give your consent to the use of sai
 
 **6\. Contact us at** **Zobello**
 
-If you have any questions, feedback or want to know more about how your personal information is used, or if you want to access, correct or remove your personal information, please contact us at [info@zobello.com](mailto:info@zobello.com) .
+If you have any questions, feedback or want to know more about how your personal information is used, or if you want to access, correct or remove your personal information, please contact us at [customer-care@zobello.com](mailto:customer-care@zobello.com) .
