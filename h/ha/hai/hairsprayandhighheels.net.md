@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hairsprayandhighheels.net privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017203419id_/http%3A//www.hairsprayandhighheels.net/pr-friendly/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairsprayandhighheels.net privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523092028id_/http%3A//www.hairsprayandhighheels.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Hairspray and Highheels
+# Privacy Policy | Hairspray and Highheels
 
 Your privacy is important to me! Email addresses and names submitted in comment forms will never be sold, rented, or added to any mailing lists without your consent! We may at times use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [see here](http://www.networkadvertising.org/managing/opt_out.asp).[  
 ](http://www.networkadvertising.org/managing/opt_out.asp "see here")
@@ -81,15 +81,4 @@ If you require more information or have any questions regarding our privacy poli
 This policy is powered by Free Privacy Policy and Rhino Support [help desk software](http://www.rhinosupport.com/).
 
   
-[](http://www.bloglovin.com/en/blog/4816487)[](mailto:angela.peters6@gmail.com)[](http://www.facebook.com/hairsprayandhighheels)[](https://plus.google.com/u/0/112521443754709902347/posts?rel=author)[](http://instagram.com/angejim)[](http://www.pinterest.com/angejim0531)[](http://feeds.feedburner.com/HairsprayAndHighHeelsaJerseyGirlsGuideToBeauty)[](http://www.twitter.com/angejim0531)  
-[](http://mad.ly/signups/107225/join)  
 
-
-The following two tabs change content below.
-
-  * Bio
-  * Latest Posts
-
-
-
-Hi, I'm Ange! I'm a fun loving Jersey girl married to my best friend and trying to be a happy little houswife, without burning our apartment down. I have a serious nail polish obsession that probably borders on hoarding. I love beauty. I love budget beauty even more & I have been blogging for a little over a year now and absolutely love every minute of sharing fun beauty tips, trick, reviews, nail swatches, nail art, recipes & lifestyle posts with y'all.
