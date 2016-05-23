@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the absoluteacaiberry.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130060351id_/http%3A//www.caoh.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absoluteacaiberry.com privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523025932id_/http%3A//www.caoh.com/privacy-policy.html) for the most accurate reproduction.*
 
 # California Academy of Health Privacy Policy
 
