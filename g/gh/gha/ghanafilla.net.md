@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ghanafilla.net privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225113334id_/http%3A//www.ghanafilla.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghanafilla.net privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523205309id_/http%3A//www.ghanafilla.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Ghana HomePage
+# Privacy Policy - Ghana HomePage
 
 All User information supplied by Users of Ghanafilla.net as defined under the Terms & Conditions is covered by the Data Protection Act 1998.  
 Users can amend information provided at any time by contacting info@ghanafilla.net  
