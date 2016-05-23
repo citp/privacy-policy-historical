@@ -1,23 +1,23 @@
-> *The following text is extracted and transformed from the puzzlepirates.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110010838id_/http%3A//www.puzzlepirates.com/Privacy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puzzlepirates.com privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523201418id_/http%3A//www.puzzlepirates.com/Privacy.xhtml) for the most accurate reproduction.*
 
 # Puzzle Pirates: tright"><a href="http://www.esrb.org/confirm/threerings-confirmation.jsp" title="caption"><img alt="caption" src="/content/images/Official_esrb_privacy.gif" width="76" height="102" /></a></div>
 
 [](http://www.esrb.org/confirm/threerings-confirmation.jsp "caption")
 
-Three Rings (“we”) respects the privacy rights of our online visitors and is committed to protecting the personal information collected about you on our sites. To further this commitment, we have adopted this Privacy Policy to explain how we collect, store, and use the information you provide us. 
+Grey Havens (“we”) respects the privacy rights of our online visitors and is committed to protecting the personal information collected about you on our sites. To further this commitment, we have adopted this Privacy Policy to explain how we collect, store, and use the information you provide us. 
 
-This Privacy Policy and the ESRB certification seals shown on our websites confirm that Three Rings is a valid licensee, and participating member, in the Entertainment Software Rating Board's Privacy Certified Program. To protect your privacy, we have voluntarily undertaken this privacy initiative and have had all of our websites where this Privacy Policy is posted reviewed and certified by ESRB Privacy Certified to meet established online information collection and use practices. As a licensee of this privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by the ESRB. 
+This Privacy Policy and the ESRB certification seals shown on our websites confirm that Grey Havens is a valid licensee, and participating member, in the Entertainment Software Rating Board's Privacy Certified Program. To protect your privacy, we have voluntarily undertaken this privacy initiative and have had all of our websites where this Privacy Policy is posted reviewed and certified by ESRB Privacy Certified to meet established online information collection and use practices. As a licensee of this privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by the ESRB. 
 
-This Privacy Policy applies to Three Rings only, and not to websites maintained by our affiliates or by other companies or organizations to which we link. When you visit a link to those websites or other websites, this Privacy Policy no longer applies. We strongly recommend that you read the privacy policy of any third party website you visit before you submit any personal information. 
+This Privacy Policy applies to Grey Havens only, and not to websites maintained by our affiliates or by other companies or organizations to which we link. When you visit a link to those websites or other websites, this Privacy Policy no longer applies. We strongly recommend that you read the privacy policy of any third party website you visit before you submit any personal information. 
 
 By using and submitting personal information to any of our websites, you signify your assent to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use our websites. We reserve the right to make changes to this Privacy Policy. If we make a material change to this Privacy Policy, we will notify you by posting the change on our websites or in this Privacy Policy and, if necessary, give you additional choices regarding such change. Please check back from time to time to ensure that you are aware of these changes. Your continued use of our websites will signify your acceptance of these changes. 
 
 ##  TABLE OF CONTENTS
     
     
-           [1. WHAT TYPES OF INFORMATION DOES THREE RINGS COLLECT?](https://web.archive.org/Privacy.xhtml#1._WHAT_TYPES_OF_INFORMATION_DOES_THREE_RINGS_COLLECT.3F "Official:Privacy")
-           [2. HOW DOES THREE RINGS USE THE INFORMATION IT COLLECTS?](https://web.archive.org/Privacy.xhtml#2._HOW_DOES_THREE_RINGS_USE_THE_INFORMATION_IT_COLLECTS.3F "Official:Privacy")
-           [3. DOES THREE RINGS USE COOKIES, TRACK IP ADDRESSES, OR USE OTHER PASSIVE MEANS TO COLLECT INFORMATION?](https://web.archive.org/Privacy.xhtml#3._DOES_THREE_RINGS_USE_COOKIES.2C_TRACK_IP_ADDRESSES.2C_OR_USE_OTHER_PASSIVE_MEANS_TO_COLLECT_INFORMATION.3F "Official:Privacy")
+           [1. WHAT TYPES OF INFORMATION DOES GREY HAVENS COLLECT?](https://web.archive.org/Privacy.xhtml#1._WHAT_TYPES_OF_INFORMATION_DOES_GREY_HAVENS_COLLECT.3F "Official:Privacy")
+           [2. HOW DOES GREY HAVENS USE THE INFORMATION IT COLLECTS?](https://web.archive.org/Privacy.xhtml#2._HOW_DOES_GREY_HAVENS_USE_THE_INFORMATION_IT_COLLECTS.3F "Official:Privacy")
+           [3. DOES GREY HAVENS USE COOKIES, TRACK IP ADDRESSES, OR USE OTHER PASSIVE MEANS TO COLLECT INFORMATION?](https://web.archive.org/Privacy.xhtml#3._DOES_GREY_HAVENS_USE_COOKIES.2C_TRACK_IP_ADDRESSES.2C_OR_USE_OTHER_PASSIVE_MEANS_TO_COLLECT_INFORMATION.3F "Official:Privacy")
            [4. WHAT HAPPENS WHEN I INTERACT WITH SOCIAL MEDIA?](https://web.archive.org/Privacy.xhtml#4._WHAT_HAPPENS_WHEN_I_INTERACT_WITH_SOCIAL_MEDIA.3F "Official:Privacy")
            [5. WHO IS COLLECTING MY PERSONAL INFORMATION AND IS IT SHARED WITH ANYONE?](https://web.archive.org/Privacy.xhtml#5._WHO_IS_COLLECTING_MY_PERSONAL_INFORMATION_AND_IS_IT_SHARED_WITH_ANYONE.3F "Official:Privacy")
            [6. CHILDREN’S PRIVACY](https://web.archive.org/Privacy.xhtml#6._CHILDREN.E2.80.99S_PRIVACY "Official:Privacy")
@@ -27,26 +27,26 @@ By using and submitting personal information to any of our websites, you signify
            [10. ASKING A QUESTION OR FILING A COMPLAINT](https://web.archive.org/Privacy.xhtml#10._ASKING_A_QUESTION_OR_FILING_A_COMPLAINT "Official:Privacy")
     
 
-##  1\. WHAT TYPES OF INFORMATION DOES THREE RINGS COLLECT?
+##  1\. WHAT TYPES OF INFORMATION DOES GREY HAVENS COLLECT?
 
-In order to give you the best experience on our websites, Three Rings will collect personal information about you, but only if you voluntarily provide it to us. Typically, we ask you to submit personal and/or demographic information if you decide to: 
+In order to give you the best experience on our websites, Grey Havens will collect personal information about you, but only if you voluntarily provide it to us. Typically, we ask you to submit personal and/or demographic information if you decide to: 
 
   * Register on one of our websites; 
   * Access and participate in message boards or forums; 
   * Participate in online contests, promotions, beta tests, tournaments, or other events; 
   * Email a question to our customer service desk; 
-  * Use certain products or services provided by Three Rings or its partners; and/or 
+  * Use certain products or services provided by Grey Havens or its partners; and/or 
   * Register for polls, surveys, questionnaires or e-cards. 
 
 
 
-Please note that before you can use some of the activities above, you may be required to register or create an account. The ability to access certain areas and features of our websites may only be available to users that have registered or created an account with Three Rings. The types of personal information collected in conjunction with the activities listed above will vary depending on the activity, including: (i) your name, (ii) mailing address, (iii) telephone number, (iv) email address, and, (v) for those purchasing products or services online, credit card and billing information. 
+Please note that before you can use some of the activities above, you may be required to register or create an account. The ability to access certain areas and features of our websites may only be available to users that have registered or created an account with Grey Havens. The types of personal information collected in conjunction with the activities listed above will vary depending on the activity, including: (i) your name, (ii) mailing address, (iii) telephone number, (iv) email address, and, (v) for those purchasing products or services online, credit card and billing information. 
 
-For some activities, we may also ask you to create a username and password and to provide other non-personal information such as: (i) your age or date of birth; (ii) your gender; (iii) your game and platform preferences; (iv) information about the hardware you may own and/or the game you may have recently purchased; (v) your favorite quotes, websites, and fan pages; and, (vi) other game-related information (collectively referred to as "demographic information"). Three Rings also collects information about your transactions with us and with some of our business partners. If demographic information is collected for an activity that also requires personal information, we combine your demographic information with your personal information. 
+For some activities, we may also ask you to create a username and password and to provide other non-personal information such as: (i) your age or date of birth; (ii) your gender; (iii) your game and platform preferences; (iv) information about the hardware you may own and/or the game you may have recently purchased; (v) your favorite quotes, websites, and fan pages; and, (vi) other game-related information (collectively referred to as "demographic information"). Grey Havens also collects information about your transactions with us and with some of our business partners. If demographic information is collected for an activity that also requires personal information, we combine your demographic information with your personal information. 
 
 If you choose not to submit personal information when requested, you may not be able to use some of the features offered on our websites. For example, if you were to refuse to disclose your name or email address, you may not be able to submit a question to customer service. However, to simply browse and view certain content on our websites, you do not need to give us any personal information. 
 
-##  2\. HOW DOES THREE RINGS USE THE INFORMATION IT COLLECTS?
+##  2\. HOW DOES GREY HAVENS USE THE INFORMATION IT COLLECTS?
 
 Generally, information that we collect for a particular purpose is used for that purpose only. For example, if you email us with a customer service related question, your personal information will only be used to provide a response to your inquiry. Similarly, information collected from those who register on one of our websites is used to provide registrants the benefits that come along with registration, which may include access to the latest game news and special offers, contests, and other features. 
 
@@ -66,37 +66,37 @@ Please be advised that information submitted by individuals acting solely in a b
 
 Please note that whenever you give out personal information in public areas such as on a message board or forum, that information can be collected and used by people you don't know. While we strive to protect those who wish to participate in these activities, we cannot guarantee the security and privacy of any information that you post in these areas. 
 
-##  3\. DOES THREE RINGS USE COOKIES, TRACK IP ADDRESSES, OR USE OTHER PASSIVE MEANS TO COLLECT INFORMATION?
+##  3\. DOES GREY HAVENS USE COOKIES, TRACK IP ADDRESSES, OR USE OTHER PASSIVE MEANS TO COLLECT INFORMATION?
 
-We may use cookies on our websites. A "cookie" is a small bit of record-keeping information that sites often store on a user's computer. Cookies are typically used to quickly identify a user's computer and to "remember" things about the user's visit. For example, Three Rings uses cookies to keep track of your preferences and your username and password. Information contained in a cookie may be linked to your personal information for this purpose. You can disable cookies or set your browser to alert you when cookies are being sent to your computer, although this may affect your ability to use many of the features on our websites. 
+We may use cookies on our websites. A "cookie" is a small bit of record-keeping information that sites often store on a user's computer. Cookies are typically used to quickly identify a user's computer and to "remember" things about the user's visit. For example, Grey Havens uses cookies to keep track of your preferences and your username and password. Information contained in a cookie may be linked to your personal information for this purpose. You can disable cookies or set your browser to alert you when cookies are being sent to your computer, although this may affect your ability to use many of the features on our websites. 
 
 An Internet Protocol (IP) address is a number that is used by computers on the network to identify your computer every time you log on to the Internet. We collect and use your IP address only when we feel it is necessary to protect our service, websites, customers, or others. 
 
-If you play a Three Rings game online, we collect your MAC address, which is a unique number associated with a computer's identity on a network. 
+If you play a Grey Havens game online, we collect your MAC address, which is a unique number associated with a computer's identity on a network. 
 
-The only other information that is passively collected by Three Rings is in the form of logs - files that record website activity, including how many "hits" a particular web page is getting (a.k.a. "navigational data"). These entries are generated anonymously, and enable Three Rings to gather statistics about users' browsing habits, assess overall website activity, track interest in advertised sales, and maintain website security. We also use the log file entries for our internal marketing and demographic studies, so we can constantly improve the online services we provide you. Log files are used internally only, and may be combined with data collected via cookies to help us aggregate behavior patterns of registered users. 
+The only other information that is passively collected by Grey Havens is in the form of logs - files that record website activity, including how many "hits" a particular web page is getting (a.k.a. "navigational data"). These entries are generated anonymously, and enable Grey Havens to gather statistics about users' browsing habits, assess overall website activity, track interest in advertised sales, and maintain website security. We also use the log file entries for our internal marketing and demographic studies, so we can constantly improve the online services we provide you. Log files are used internally only, and may be combined with data collected via cookies to help us aggregate behavior patterns of registered users. 
 
 ## 
 
 You also can engage with our content on or through third-party social networking sites, such as Facebook and Twitter (or third-party social media plug-ins and applications). When you engage with our content on or through third-party social networking sites, plug-ins and applications, you may allow us to have access to certain information from your social media profile (e.g., name, e-mail address, photo, gender, birthday, location, your list of friends, people you follow and/or who follow you, the posts or the 'likes' you make) to deliver the content or as part of the operation of the application. We may also obtain non-personally identifiable information (e.g., content viewed, game performance, high scores, and information about advertisements within the content you have been shown or may have clicked on) from your interaction with our content. 
 
-When you provide information from your social media account, it can help enable Three Rings to do things like (1) give you exclusive content, (2) personalize your online experience with Three Rings within and outside Three Rings’ websites (and/or applications), and (3) contact you through the social networking sites or directly by sending you the latest news, special offerings, and rewards. By doing so, you consent to the use of this information in accordance with this Privacy Policy. When you provide personal information to Three Rings through an application, on Three Rings’ websites, or on social networking sites, it may be publicly viewed by other members of these sites and we cannot prevent further use of the information by third parties. 
+When you provide information from your social media account, it can help enable Grey Havens to do things like (1) give you exclusive content, (2) personalize your online experience with Grey Havens within and outside Grey Havens’ websites (and/or applications), and (3) contact you through the social networking sites or directly by sending you the latest news, special offerings, and rewards. By doing so, you consent to the use of this information in accordance with this Privacy Policy. When you provide personal information to Grey Havens through an application, on Grey Havens’ websites, or on social networking sites, it may be publicly viewed by other members of these sites and we cannot prevent further use of the information by third parties. 
 
 Through some social networking sites' privacy settings, you can control what data you share. For more information about how social networking sites handle your personal information, please refer to their privacy policies and terms of use. 
 
 ##  5\. WHO IS COLLECTING MY PERSONAL INFORMATION AND IS IT SHARED WITH ANYONE?
 
-Generally, the information that you disclose on a Three Rings website is collected by Three Rings or by a vendor on Three Rings' behalf, and is used in accordance with the practices set forth above. Vendors (or agents) are entities that provide support for the internal operations of our websites and who only use the information we share with them for the purpose of carrying out the service you've requested (e.g., fulfillment of online purchases and contest entries). 
+Generally, the information that you disclose on a Grey Havens website is collected by Grey Havens or by a vendor on Grey Havens' behalf, and is used in accordance with the practices set forth above. Vendors (or agents) are entities that provide support for the internal operations of our websites and who only use the information we share with them for the purpose of carrying out the service you've requested (e.g., fulfillment of online purchases and contest entries). 
 
 From time to time, we may run contests, tournaments, or other events or activities ("events"). Information collected for these events may include personal information such as your email address and may be collected by or shared with a third party sponsor or co-sponsor or shared with another reputable third party (that provides products or services that may be of interest to you). While we have no control over the third party's use of such information, we will attempt to ensure that they agree to protect the confidentiality, security, and integrity of any personal information collected through our website. If you do not want your information to be collected by or shared with a third party, you can choose not to participate in these events at the time the information is collected. 
 
 We may disclose personal information in the good faith belief that we are required to do so by law, including but not limited to disclosure to law enforcement or other government officials in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose you or us to legal liability. 
 
-In addition, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, Three Rings' customer information may be transferred to its successor or assign, if permitted by and done in accordance with applicable law. 
+In addition, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, Grey Havens' customer information may be transferred to its successor or assign, if permitted by and done in accordance with applicable law. 
 
-Three Rings may also share aggregate information about our visitors with Three Rings’ affiliates. For example, we may say a particular game title's audience is X% female and Y% male. This data is used to improve the content of Three Rings’ websites to deliver better experience for our visitors. It can also help tailor Three Rings’ products and services to meet the needs of our customers. 
+Grey Havens may also share aggregate information about our visitors with Grey Havens’ affiliates. For example, we may say a particular game title's audience is X% female and Y% male. This data is used to improve the content of Grey Havens’ websites to deliver better experience for our visitors. It can also help tailor Grey Havens’ products and services to meet the needs of our customers. 
 
-Three Rings sends to your web browser most of the advertisements you see when you visit our websites. However, Three Rings may allow other companies, called third party ad servers, to serve advertisements within our web pages. This Privacy Policy does not apply to, and cannot control the activities of, these other companies. If you want to prevent a third party ad server from sending or reading cookies on your computer, you must visit each of the company's websites individually and opt-out. 
+Grey Havens sends to your web browser most of the advertisements you see when you visit our websites. However, Grey Havens may allow other companies, called third party ad servers, to serve advertisements within our web pages. This Privacy Policy does not apply to, and cannot control the activities of, these other companies. If you want to prevent a third party ad server from sending or reading cookies on your computer, you must visit each of the company's websites individually and opt-out. 
 
 Company Name  |  Category  |  Privacy Choices   
 ---|---|---  
@@ -107,7 +107,7 @@ RightMedia  | Advertising  | <http://info.yahoo.com/privacy/us/biz/rightmedia/de
   
 **A Special Note About Our Payment Processors**
 
-Three Rings processes payments in a number of ways for certain features in our browser-based games. Depending on the payment type and payment processor, Three Rings collects the following information: 
+Grey Havens processes payments in a number of ways for certain features in our browser-based games. Depending on the payment type and payment processor, Grey Havens collects the following information: 
 
   * Full name; 
   * Full street address; 
@@ -115,7 +115,7 @@ Three Rings processes payments in a number of ways for certain features in our b
   * Credit card information; 
   * IP address; 
   * Phone number (optional); and, 
-  * Any other information voluntarily included in the note to Three Rings. 
+  * Any other information voluntarily included in the note to Grey Havens. 
 
 
 
@@ -127,25 +127,26 @@ PayPal  | PayPal  | <https://www.paypal.com/us/webapps/mpp/ua/privacy-full>
 Credit Card  | Authorize.net  | <http://www.authorize.net/company/privacy/>  
 Cash Card  | Cards purchased through retailers such as Walmart, i.e. PaidByCash  | Offline / Not Applicable   
 Mobile Phone  | BOKU  | <http://www.boku.com/privacy/>  
-Rixty  | Rixty  | <https://www.rixty.com/docs/PrivacyPolicy.html>  
+Prepaid Cards  | Paymentwall  | <https://www.paymentwall.com/en/privacypolicy>  
 Cash  | PlaySpan (formerly PayByCash)  | <http://www.playspan.com/privacy>  
-Pay by Mail  | Three Rings  | Offline / Not Applicable   
+Pay by Mail  | Grey Havens  | Offline / Not Applicable   
   
 ##  6\. CHILDREN’S PRIVACY
 
-Protecting the privacy of young children is especially important to Three Rings. Three Rings does not accept registrations from children under age 13 on any of its websites. If Three Rings learns that personally identifiable information of users under the age of 13 has been collected, Three Rings will delete the account. 
+Protecting the privacy of young children is especially important to Grey Havens. Grey Havens does not accept registrations from children under age 13 on any of its websites. If Grey Havens learns that personally identifiable information of users under the age of 13 has been collected, Grey Havens will delete the account. 
 
 From time to time, certain portions of our websites (e.g., a contest entry form) may allow all users (including children under 13) to disclose a limited amount of personal information without first telling us their age or obtaining parental permission. Such portions of our sites operate activities or provide services in a way that, according to the Children’s Online Privacy Protection Act (“COPPA”) (a U.S. Federal law), does not require prior parental consent. We recognize the importance of safeguarding the privacy of children and encourage parents to check and monitor their children's use of online activities regularly. 
 
 If you believe that we have unintentionally collected personal information about your child, you may contact us at: 
     
     
-                        Three Rings
-                        Customer Service Department
-                        612 Howard Street 
-                        Suite 500
-                        San Francisco, CA 94105
-                        privacy@threerings.net
+                       Grey Havens, LLC
+                       Customer Service Department
+                       P.O. Box 1356
+                       Brookline, MA
+                       02446
+                       USA 
+                       support@puzzlepirates.com
     
 
 ##  7\. YOUR CALIFORNIA PRIVACY RIGHTS
@@ -153,25 +154,26 @@ If you believe that we have unintentionally collected personal information about
 Since 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. For inquiries regarding our disclosure policy, please write us: 
     
     
-                       Three Rings
+                       Grey Havens, LLC
                        Customer Service Department
-                       612 Howard Street 
-                       Suite 500
-                       San Francisco, CA 94105
-                       privacy@threerings.net
+                       P.O. Box 1356
+                       Brookline, MA
+                       02446
+                       USA 
+                       support@puzzlepirates.com
     
 
-If you do not want to receive email communications from Three Rings, please opt-out from these services by using the "unsubscribe" link at the bottom of your most current email from Three Rings. 
+If you do not want to receive email communications from Grey Havens, please opt-out from these services by using the "unsubscribe" link at the bottom of your most current email from Grey Havens. 
 
 ##  8\. CONFIDENTIALITY AND SECURITY
 
-Three Rings maintains appropriate safeguards that ensure the security, integrity, and privacy of the personal information we collect and store about you. These safeguards include, among other things, limiting access to such data to those employees performing a legitimate business function; technical security measures, such as encryption or passwords, to prevent unauthorized access; and the storage of data on secure servers or computers inaccessible by modem. 
+Grey Havens maintains appropriate safeguards that ensure the security, integrity, and privacy of the personal information we collect and store about you. These safeguards include, among other things, limiting access to such data to those employees performing a legitimate business function; technical security measures, such as encryption or passwords, to prevent unauthorized access; and the storage of data on secure servers or computers inaccessible by modem. 
 
-We also have security measures in place to protect the loss, misuse, and alteration of the information under our control (i.e., maintain data quality). Before we allow web users to access their personal information, for example, we verify their identity by requesting that they submit information such as their username and password. In certain areas Three Rings uses industry-standard SSL encryption to protect data transmissions. We also take reasonable steps to ensure that third parties to whom we transfer personal information provide sufficient protection of such data. We take security seriously and make our best efforts to prevent compromise of your personal information. In the event of a serious security breach, we will alert our registered users. 
+We also have security measures in place to protect the loss, misuse, and alteration of the information under our control (i.e., maintain data quality). Before we allow web users to access their personal information, for example, we verify their identity by requesting that they submit information such as their username and password. In certain areas Grey Havens uses industry-standard SSL encryption to protect data transmissions. We also take reasonable steps to ensure that third parties to whom we transfer personal information provide sufficient protection of such data. We take security seriously and make our best efforts to prevent compromise of your personal information. In the event of a serious security breach, we will alert our registered users. 
 
 ##  9\. CHANGES TO THIS PRIVACY POLICY
 
-Three Rings may amend this Privacy Policy at any time. If we make any material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email at the last email address that you provided us and/or by prominently posting notice of the changes on the websites covered by this Privacy Policy. Any material changes to this Privacy Policy will be effective 30 days following our dispatch of an email notice to you or 30 days following our posting of notice of the changes on the Websites covered by this Privacy Policy. 
+Grey Havens may amend this Privacy Policy at any time. If we make any material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email at the last email address that you provided us and/or by prominently posting notice of the changes on the websites covered by this Privacy Policy. Any material changes to this Privacy Policy will be effective 30 days following our dispatch of an email notice to you or 30 days following our posting of notice of the changes on the Websites covered by this Privacy Policy. 
 
 Please note that, at all times, you are responsible for updating your personal information to provide us your current email address. If the last email address that you have provided us is not valid, or for any other reason is not capable of delivering to you the notice described above, our dispatch of the email containing such notice will nonetheless constitute effective notice of the changes described in the notice. 
 
@@ -180,15 +182,16 @@ Please note that, at all times, you are responsible for updating your personal i
 If you have any questions, complaints, or comments regarding this Privacy Policy or our information collection practices, you can contact us via email or by mail: 
     
     
-                       Three Rings
+                       Grey Havens, LLC
                        Customer Service Department
-                       612 Howard Street 
-                       Suite 500
-                       San Francisco, CA 94105
-                       privacy@threerings.net
+                       P.O. Box 1356
+                       Brookline, MA
+                       02446
+                       USA 
+                       support@puzzlepirates.com
     
 
-Three Rings is a licensee of the ESRB's Privacy Certified Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at <http://www.esrb.org/privacy/contact.jsp> or: 
+Grey Havens is a licensee of the ESRB's Privacy Certified Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at <http://www.esrb.org/privacy/contact.jsp> or: 
     
     
                        ESRB
