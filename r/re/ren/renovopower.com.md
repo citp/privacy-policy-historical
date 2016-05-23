@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the renovopower.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210222911id_/http%3A//renovopower.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renovopower.com privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523111429id_/http%3A//renovopower.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
@@ -16,6 +16,6 @@ Where necessary, [RenovoPower.com](http://www.renovopower.com/) uses cookies to 
 Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. 
 
 **Google Specific**   
-Google, as a third party vendor, uses cookies to serve ads on your site. Googleâ€™s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
 
 If you're not sure what we mean by "Advertising", then look below at a sampling from our various sponsors. We try to bring you useful (discounts and rebates) and informative (new products, one-time events) ads. 
