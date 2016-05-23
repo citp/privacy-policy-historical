@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoganza.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108085037id_/http%3A//autoganza.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoganza.com privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523022255id_/http%3A//autoganza.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AutoGanza
 
