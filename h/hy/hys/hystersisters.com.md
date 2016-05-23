@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hystersisters.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228122347id_/http%3A//www.hystersisters.com/vb2/view_privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hystersisters.com privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523223338id_/http%3A//www.hystersisters.com/vb2/view_privacypolicy.htm) for the most accurate reproduction.*
 
 # Hyster Sisters Privacy Policy | HysterSisters
 
@@ -66,4 +66,4 @@ Denton, Texas 76205
 
 _The effective date of this Privacy Policy is July 1, 2009. This Website is intended for viewing within the United States._
 
-Page Created at 06-08-2003 - 07:00 AM, Last Modified 07-10-2009 - 07:50 AM 
+Page Created at 06-08-2003 - 06:00 AM, Last Modified 07-10-2009 - 06:50 AM 
