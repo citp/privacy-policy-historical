@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bobvila.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127170521id_/http%3A//www.bobvila.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bobvila.com privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523042345id_/http%3A//www.bobvila.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Bob Vila : Trusted Home Renovation & Repair Expert
 
@@ -22,7 +22,7 @@ We collect information about you in three ways: 
 
 ·       if you make any purchases through the Site you may provide us with credit card and other payment information;
 
-·       if you sign up to receive a Site newsletter, we may require that you provide us contact information (e.g., email or physical address); and
+·       if you sign up to receive a Site newsletter, or enter a sweepstakes, we may require that you provide us contact information (e.g., email or physical address); and
 
 ·       you may provide us with personal information in the course of email, customer support interactions, surveys, bulletin boards, forums, and comment areas on site content.
 
@@ -112,7 +112,7 @@ We place a priority on the security of Personal Information, and we undertake re
 
 If you have any questions regarding privacy or this Policy, you may contact us as follows:
 
-privacy@bobvila.com
+contact@bobvila.com
 
 PO Box 835, West Barnstable, MA  02668
 
