@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the etoosindia.com privacy policy that was archived on 2015-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150702140140id_/http%3A//www.etoosindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etoosindia.com privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523155840id_/http%3A//www.etoosindia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-###  Privacy Policy
 
   * _**Privacy Policy**_
 
