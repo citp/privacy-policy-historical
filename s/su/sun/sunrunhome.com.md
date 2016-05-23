@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunrunhome.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202020127id_/http%3A//www.sunrun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunrunhome.com privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523105157id_/https%3A//www.sunrun.com/privacy-policy) for the most accurate reproduction.*
 
 # Sunrun Privacy Policy | Sunrun
 
@@ -99,3 +99,5 @@ To ask questions or comment about this privacy policy and our privacy practices,
   3. Or via our toll-free number: 855-478-6786
 
 
+
+where-pinminleaseminpiggybankmin
