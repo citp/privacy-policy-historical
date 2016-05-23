@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xapads.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221111535id_/http%3A//www.xapads.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xapads.com privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523081205id_/http%3A//www.xapads.com/privacy-policy) for the most accurate reproduction.*
 
-# Xapads - Real-Time Bidding (RTB) | Programmatic Ad Exchange | Turn insights into ROI
+# Privacy Policy | Xapads
 
 ## Xapads ‘s Privacy Policy
 
