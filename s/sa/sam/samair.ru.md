@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samair.ru privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219002203id_/http%3A//samair.ru/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samair.ru privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523102053id_/http%3A//www.samair.ru/privacy) for the most accurate reproduction.*
 
 # NNTime - Privacy Policy
 
