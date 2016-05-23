@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the telmar.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423162158id_/http%3A//telmar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telmar.com privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523061949id_/https%3A//telmar.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY |
+# Telmar | Privacy Policy
 
-* * *
-
-  
 Effective September 1, 2009
 
  **Our Commitment To Privacy…**
@@ -64,4 +61,4 @@ We reserve the right to change our Privacy Policy at any time without notice. If
 
 **How To Contact Us:**
 
-Should you have other questions or concerns about these privacy policies, please call us at or send us an email at [privacy@telmar.com.](mailto:privacy@telmar.com)
+Should you have other questions or concerns about these privacy policies, please call us at or send us an email at[privacy@telmar.com.](mailto:privacy@telmar.com)
