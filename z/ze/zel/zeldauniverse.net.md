@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeldauniverse.net privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227060454id_/http%3A//zeldauniverse.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeldauniverse.net privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523193004id_/http%3A//zeldauniverse.net/privacy) for the most accurate reproduction.*
 
 # Legal Information and Privacy Policy - Zelda Universe
 
@@ -12,4 +12,4 @@ Zelda Universe may not be held responsible for, or under any circumstances be as
 
 In a similar fashion, we use third-party advertising companies to serve ads when you visit Zelda Universe. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. We cannot be held responsible or directly associated with the advertisements shown at our site, as they are served through a third party network. We will, however, do everything in our power to limit these ads to those which are suitable for people of all ages.
 
-If you have any questions regarding our privacy policies, please feel free to contact us at [hello@zeldauniverse.net](mailto:hello@zeldauniverse.net). We will be happy to answer your questions for you.
+If you have any questions regarding our privacy policies, please feel free to contact us at [webmaster@zeldauniverse.net](mailto:webmaster@zeldauniverse.net). We will be happy to answer your questions for you.
