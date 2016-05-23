@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the degreesearch.org privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219055200id_/http%3A//degreesearch.org/portal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreesearch.org privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524010723id_/http%3A//degreesearch.org/portal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
