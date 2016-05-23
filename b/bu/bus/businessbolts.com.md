@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessbolts.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029013255id_/http%3A//www.businessbolts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessbolts.com privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523140539id_/http%3A//www.businessbolts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
