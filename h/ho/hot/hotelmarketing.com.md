@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelmarketing.com privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814111516id_/http%3A//www.hotelmarketing.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelmarketing.com privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523033104id_/http%3A//www.hotelmarketing.com/privacy.html) for the most accurate reproduction.*
 
 # Hotelmarketing.com - must reads for hotel marketers, served fresh daily.
 
