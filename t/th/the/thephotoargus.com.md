@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thephotoargus.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122094045id_/http%3A//www.thephotoargus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thephotoargus.com privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523060359id_/http%3A//www.thephotoargus.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,8 @@ DoubleClick DART Cookie
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:  
-Google Adsense
+Google Adsense  
+Amazon
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.new-statups.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
@@ -28,8 +29,8 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-This blog accepts advertising, sponsorship, affiliate sales, paid insertions or other forms of compensation.
+This blog also accepts advertising, sponsorship, affiliate sales, paid insertions, or other forms of compensation.
 
-The compensation received will never influence the content, topics or posts made in this blog. 
+The compensation received will never influence the content, topics, or posts made in this blog. 
 
 The owner(s) of this blog is compensated to provide opinion on products, services, websites and various other topics. Even though the owner(s) of this blog receives compensation for our posts or advertisements, we always give our honest opinions, findings, beliefs, or experiences on those topics or products. The views and opinions expressed on this blog are purely the bloggers’ own. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question.
