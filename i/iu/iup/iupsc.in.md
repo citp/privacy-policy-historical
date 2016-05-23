@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iupsc.in privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213034145id_/http%3A//www.iupsc.in/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iupsc.in privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523035509id_/http%3A//www.iupsc.in/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | UPSC | Recruitment 2015 | RPSC | TNPSC| MPPSC | BPSC | APPSC | UPPSC| MPSC | Exam Results
+# Privacy Policy | UPSC | Recruitment 2016 | RPSC | TNPSC| MPPSC | BPSC | APPSC | UPPSC| MPSC | Exam Results
 
 **Privacy Policy At www.iupsc.in**
 
