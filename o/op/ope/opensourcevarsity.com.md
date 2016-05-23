@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opensourcevarsity.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208035628id_/http%3A//www.opensourcevarsity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opensourcevarsity.com privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523093349id_/http%3A//www.opensourcevarsity.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - opensourcevarsity.com
+# Privacy Policy - OpenSourceVarsity
 
 The OpenSourceVarsity [ OSV ] recognizes the importance of maintaining your privacy. We value your privacy and appreciate your trust in us.
 
@@ -28,7 +28,7 @@ Information You Send To Us: If you choose to provide us with Personal Informatio
 
 ## Cookies And Similar Files
 
-Our Website uses "cookies" and files that are similar to cookies. Cookies are alphanumeric identifiers created by your browser at our request and stored in an approved and standardized place on your computer.
+Our Website uses “cookies” and files that are similar to cookies. Cookies are alphanumeric identifiers created by your browser at our request and stored in an approved and standardized place on your computer.
 
 By transferring these cookies, OSV assigns you a unique customer code and record locater. Information about your activity on our Website can then be included in your customer record, which is stored within the OSV firewall. When you visit or return to our Website, we read the cookie to identify you as one of our customers and help recall orders or preferences you have selected. The cookie also enables us to recall your past activities, post your account data, and tailor site elements and special offers to you. No Personal Information about you is stored on the cookie.
 
@@ -42,15 +42,15 @@ In future, we may use third-party advertising companies to serve ads on our beha
 
 We use the information that we collect about you to maintain, improve, and administer our website, operate our business, provide products and services that you request, administer your account, inform you about products and services that might be of interest to you, and personalize your online experience.
 
-In order to carry out certain business functions, such as order fulfillment, e-mail delivery, or marketing, we sometimes hire other companies to perform services on our behalf. We may disclose personally identifiable information that we collect about you to these companies to enable them to perform these services, but they are required to safeguard the data and are not authorized to use it for any other purpose than completing their contractual requirements to OSV.
+In order to carry out certain business functions, such as order fulfilment, e-mail delivery, or marketing, we sometimes hire other companies to perform services on our behalf. We may disclose personally identifiable information that we collect about you to these companies to enable them to perform these services, but they are required to safeguard the data and are not authorized to use it for any other purpose than completing their contractual requirements to OSV.
 
-For example, as a part of the normal process of completing your purchase, OSV may provide your personal data to a third party payment processor, such as PayPal etc depending on your chosen method of payment. Please be aware that, because of the limitations of the systems used by some financial institutions, the statement you receive from your credit card or financial institution may show the name of a third party payment processor, instead of or in addition to the OSV name. 
+For example, as a part of the normal process of completing your purchase, OSV may provide your personal data to a third party payment processor, such as PayPal etc depending on your chosen method of payment. Please be aware that, because of the limitations of the systems used by some financial institutions, the statement you receive from your credit card or financial institution may show the name of a third party payment processor, instead of or in addition to the OSV name.
 
 In addition, we may share the information we collect with other companies with whom we have joint marketing arrangements.
 
 We may also disclose information, including personal information; we collect about you in other circumstances as required or permitted by law. For example, OSV reserves the right to disclose Personal Information, including account information, when we believe such disclosure is appropriate to cooperate with an investigation of activities claimed to be unlawful, to enforce our Terms of Use, or to protect the rights or property of OSV or others.
 
-In addition, it is possible that in the future another company may acquire OSV or its assets. It is also possible that OSV may partner with or purchase another company to continue to do business as a combined entity. In the event that this occurs, it is possible that our customer information, including your Personal Information, may be transferred to the new business entity as one of OSV’s assets. In such an event, we will update this policy to reflect any change in ownership or control of your Personal Information.
+In addition, it is possible that in the future another company may acquire OSV or its assets. It is also possible that OSV may partner with or purchase another company to continue to do business as a combined entity. In the event that this occurs, it is possible that our customer information, including your Personal Information, may be transferred to the new business entity as one of OSVâ€™s assets. In such an event, we will update this policy to reflect any change in ownership or control of your Personal Information.
 
 ## Links To Third Party Products And Services
 
@@ -62,11 +62,11 @@ If you click on one of the presented offers, you will be redirected to the site 
 
 We offer you a variety of choices with respect to how we use and share your personal information.
 
-Communications from OSV - If you do not want to receive communications from OSV about products and services that may be of interest to you, simply indicate this preference by logging into "My Account", selecting "Account Update", and updating your preference.
+Communications from OSV – If you do not want to receive communications from OSV about products and services that may be of interest to you, simply indicate this preference by logging into “My Account”, selecting “Account Update”, and updating your preference.
 
 Even if you choose to be placed on one of these lists, we may still communicate with you using any of these methods regarding your use of our Website, your orders or your account.
 
-Deactivation of Your Account - You may also request deactivation of your OSV account by contacting us and requesting account deactivation. Please note that some information may remain in our archived records after your account has been deactivated.
+Deactivation of Your Account – You may also request deactivation of your OSV account by contacting us and requesting account deactivation. Please note that some information may remain in our archived records after your account has been deactivated.
 
 ## How To Manage Your Account
 
@@ -74,9 +74,9 @@ If you wish to change your name, e-mail address, telephone number, password, com
 
 ## Website Security
 
-We maintain physical, electronic, and procedural safeguards designed to help us protect your nonpublic personal information. When you establish an account at OSV, you choose a password to help protect your account information.
+We maintain physical, electronic, and procedural safeguards designed to help us protect your non-public personal information. When you establish an account at OSV, you choose a password to help protect your account information.
 
-A password is only as strong as you make it. You should select a unique password and keep it safe. You may change the password as often as you wish by going to "My Account" and selecting "Account Update."
+A password is only as strong as you make it. You should select a unique password and keep it safe. You may change the password as often as you wish by going to “My Account” and selecting “Account Update.”
 
 OSV authorizes only those persons who need to know personal information to administer your account, to provide or inform you about products and services, or to maintain, improve or administer our website to access your personal information.
 
@@ -88,7 +88,7 @@ OSV sends an e-mail notice confirming acceptance of each order you place to the 
 
 We go to great lengths to protect all of your information on our Site. To help us maintain the security of your personal information, we ask that you do not share your password with anybody. Sharing this information could put you and your rating as a buyer/seller at risk. If you lose control of your password or you think that somebody has obtained unauthorized access to your account, immediately change your password.
 
-## Children´s Privacy
+## Children’s Privacy
 
 We do not knowingly collect information from children under the age of 13 and as such do not target our website(s) to such children under the age of 13 years. However, our site may contain links to content providers that collect information from children under the age of 13. We have no control over such content providers and are not responsible for the privacy practices or the content of other web sites. It is stated for general information that Internet offers open access to a wide range of information; hence it is important that parents and guardians supervise and prevent their children’s access to inappropriate content, email or chat sessions.
 
