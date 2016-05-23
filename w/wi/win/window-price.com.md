@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the window-price.com privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522021109id_/http%3A//www.window-price.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the window-price.com privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523093112id_/http%3A//www.window-price.com/privacy) for the most accurate reproduction.*
 
-# Window Price | Save Money on Window Replacement
+# Window Price | Save Money on Window Replacement | Privacy Policy
 
 **_Your Privacy Rights (Last updated: March 30, 2015)_** __
 
-Window-Price.com (“Window-Price,” “we,” or “our”) respects the privacy of our users. This Privacy Policy is intended to describe for you the information we collect, how we may use that information, with whom we may share that information, and your choices about such uses and disclosures. We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy. If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us. 
+Window-Price.com (“Window-Price,” “we,” or “our”) respects the privacy of our users. This Privacy Policy is intended to describe for you the information we collect, how we may use that information, with whom we may share that information, and your choices about such uses and disclosures. We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our wesbite, you are accepting the practices described in this Privacy Policy. If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us. 
 
 **_Information We Collect About You_** __
 
 We may collect personal information that can identify you such as your name and email address. When you provide personal information through our website, the information may be sent to servers located in the United States and other countries. ****
 
-  * **Information you provide:** We may collect and store any personal information you enter on our website, such as your name, address, email address, telephone number, credit card information, and other personally identifiable information. When you join Window-Price by requesting a free quote, you are opting in to receive emails from us or about Window-Price, other Home Improvement Leads, Inc brands, one of our affiliates, or one of our 3rd party marketing partners. You can opt-out of notifications by replying to emails you’ve received, using the unsubscribe link the email, or contacting us via email at [ unsubscribe@window-price.com](mailto:unsubscribe@window-price.com). Note: you cannot opt out of receiving certain administrative or legal notices from us. 
+  * **Information you provide:** We may collect and store any personal information you enter on our website, such as your name, address, email address, telephone number, credit card information, and other personally identifiable information. When you join Window-Price by requesting a free quote, you are opting in to receive emails from us or about Window-Price, other Home Improvement Leads, Inc brands, one of our affiliates, or one of our 3rd party marketing partners. You can opt-out of notifications by replying to emails you’ve received, using the unsubscribe link the email, or contacting us via email at [ unsubscribe@Window-Price.com](mailto:unsubscribe@Window-Price.com). Note: you cannot opt out of receiving certain administrative or legal notices from us. 
   * **Information from other sources:** We may also obtain both personal and non-personal information about you from business partners, contractors and other third parties, such as updated delivery and address information, purchase history, and demographic information. 
 
 
@@ -65,11 +65,11 @@ We may share aggregated and non-personal information we collect under any of the
 
 **_How You can Access Your Information_**
 
-If you have an online consumer account with us, you can access and review your personal information by logging into your account. You can also review and update your personal information by contacting us. You can also choose to have your account disabled by contacting [support@window-price.com](mailto:support@window-price.com). After you deactivate your account, you will not be able to sign in to our website or access any of your personal information. If you deactivate your account, we may still retain certain information associated with your account for analytical purposes and recordkeeping integrity, as well as to prevent fraud, collect any fees owed, enforce our Terms of Use, take actions we deem necessary to protect the integrity of our web site or our users, or take other actions otherwise permitted by law. 
+If you have an online consumer account with us, you can access and review your personal information by logging into your account. You can also review and update your personal information by contacting us. You can also choose to have your account disabled by contacting [support@Window-Price.com](mailto:support@Window-Price.com). After you deactivate your account, you will not be able to sign in to our website or access any of your personal information. If you deactivate your account, we may still retain certain information associated with your account for analytical purposes and recordkeeping integrity, as well as to prevent fraud, collect any fees owed, enforce our Terms of Use, take actions we deem necessary to protect the integrity of our web site or our users, or take other actions otherwise permitted by law. 
 
 **_Your Choices About Collection and Use of Your Information_** __
 
-At any time you can choose to no longer receive commercial marketing or promotional emails or newsletters from us by accessing your user account and opting out. You also will be given the opportunity, in any marketing email that we send to you, to opt out of receiving such messages in the future, or by replying to any of these emails. Be sure you include your name and email address. It may take up to 10 days for us to process an opt-out request. We may send you other types of transactional and relationship email communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them. If you prefer not to have us share your email address & other information with selected providers of goods and services that may be of interest to you, you can notify us at any time by emailing us at [support@window-price.com](mailto:support@window-price.com). ****
+At any time you can choose to no longer receive commercial marketing or promotional emails or newsletters from us by accessing your user account and opting out. You also will be given the opportunity, in any marketing email that we send to you, to opt out of receiving such messages in the future, or by replying to any of these emails. Be sure you include your name and email address. It may take up to 10 days for us to process an opt-out request. We may send you other types of transactional and relationship email communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them. If you prefer not to have us share your email address & other information with selected providers of goods and services that may be of interest to you, you can notify us at any time by emailing us at [support@Window-Price.com](mailto:support@Window-Price.com). ****
 
 **_How We Protect Your Personal Information_** __
 
@@ -81,7 +81,7 @@ We may provide areas on our websites where you can post information about yourse
 
 **_Children’s Privacy_** __
 
-Our website is a general audience site, and we do not knowingly collect personal information from children under the age of 13. If you become aware that a child has provided us with personal information without parental consent, please contact us at [support@window-price.com](mailto:support@window-price.com) and we will take steps to remove such information and terminate the child’s account. 
+Our website is a general audience site, and we do not knowingly collect personal information from children under the age of 13. If you become aware that a child has provided us with personal information without parental consent, please contact us at [support@Window-Price.com](mailto:support@Window-Price.com) and we will take steps to remove such information and terminate the child’s account. 
 
 **_Visiting Our Websites from Outside the United States_** __
 
@@ -97,7 +97,7 @@ We will occasionally update this Privacy Policy to reflect changes in our practi
 
 **_How to Contact Us_**
 
-If you have any questions about this Privacy Policy or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by email or postal mail as follows: Privacy Policy Inquiry, 804 Congress Avenue, Suite 400, Austin, TX 78701 or email us at [support@window-price.com](mailto:support@window-price.com). 
+If you have any questions about this Privacy Policy or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by e-mail or postal mail as follows: Privacy Policy Inquiry, 804 Congress Avenue, Suite 400, Austin, TX 78701 or email us at [support@Window-Price.com](mailto:support@Window-Price.com). 
 
 **_Your California Privacy Rights_** __
 
@@ -109,24 +109,24 @@ If you are a resident of California, in addition to the rights set forth above, 
 
 
 
-We may provide this information in a standardized format that is not specific to you. The designated email address for these requests is [support@window-price.com](mailto:support@window-price.com)
+We may provide this information in a standardized format that is not specific to you. The designated email address for these requests is [support@Window-Price.com](mailto:support@Window-Price.com)
 
 **_Do Not Call Policy_** __
 
-Window-Price takes its responsibilities about customer information and customer service very seriously. In support of this commitment, Windows-Price has adopted the following Do Not Call Policy. 
+Window-Price takes its responsibilities about customer information and customer service very seriously. In support of this commitment, Window-Price has adopted the following Do Not Call Policy. 
 
-No employee or agent of Windows-Price shall engage in telemarketing practices that violate the terms of the Telephone Consumer Protection Act of 1991, the FTC Telephone Sales Rule, or state regulation. 
+No employee or agent of Window-Price shall engage in telemarketing practices that violate the terms of the Telephone Consumer Protection Act of 1991, the FTC Telephone Sales Rule, or state regulation. 
 
-Windows-Price maintains a record of the name and telephone number for consumers who do not wish to be called. If you don’t want to receive sales calls from Windows-Price, just ask us to place your name on our Do Not Call List. We will note your request immediately, and will remove your information from active lists within 30 days. 
+Window-Price maintains a record of the name and telephone number for consumers who do not wish to be called. If you don’t want to receive sales calls from Window-Price, just ask us to place your name on our Do Not Call List. We will note your request immediately, and will remove your information from active lists within 30 days. 
 
-You can make your request in writing by mailing us at 804 Congress Avenue, Suite 400, Austin, TX 78701or by phone by calling 1-888-643-3888. When you make a request you must include your name, address and telephone number(s) you want to be included on our list. If your information changes, please notify us of the new name, address, and telephone number(s) in order to remain on our Do Not Call List. If you would like us to remove you from our Do Not Call List in order to receive our telephone solicitations, notify us by contacting us at the above address or telephone number. 
+You can make your request in writing by mailing us at 804 Congress Avenue, Suite 400, Austin, TX 78701 or by phone by calling 1-888-565-1613. When you make a request you must include your name, address and telephone number(s) you want to be included on our list. If your information changes, please notify us of the new name, address, and telephone number(s) in order to remain on our Do Not Call List. If you would like us to remove you from our Do Not Call List in order to receive our telephone solicitations, notify us by contacting us at the above address or telephone number. 
 
-Please note that Windows-Price’s Do Not Call Policy does not cover independent third parties, so you may continue to receive calls from other companies. If you would like to add your number to the National Do Not Call List, you may do so by calling 1-888-382-1222, or visiting www.donotcall.gov. 
+Please note that Window-Price’s Do Not Call Policy does not cover independent third parties, so you may continue to receive calls from other companies. If you would like to add your number to the National Do Not Call List, you may do so by calling 1-888-382-1222, or visiting www.donotcall.gov. 
 
-Also note that being on the Windows-Price’s Do Not Call List restricts telephone solicitations only. We may still contact you about other topics. 
+Also note that being on the Window-Price’s Do Not Call List restricts telephone solicitations only. We may still contact you about other topics. 
 
-All Windows-Price personnel involved with telemarketing and/or telephone solicitation for Windows-Price are trained, informed, and directed to comply with Windows-Price Do Not Call Policy. 
+All Window-Price personnel involved with telemarketing and/or telephone solicitation for Window-Price are trained, informed, and directed to comply with Window-Price Do Not Call Policy. 
 
-Upon request, Windows-Price will provide its Do Not Call policy. The policy is also available online at the following web address: **_http://window-price.com/terms_**
+Upon request, Window-Price will provide its Do Not Call policy. The policy is also available online at the following web address: **_http://Window-Price.com/terms_**
 
 Thank you for your interest in our Privacy and Do Not Call Policies. 
