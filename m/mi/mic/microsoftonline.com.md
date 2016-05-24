@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the microsoftonline.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231040125id_/https%3A//login.microsoftonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microsoftonline.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524203623id_/https%3A//login.microsoftonline.com/privacy) for the most accurate reproduction.*
 
-# Sign in
+# Sign in to your account
 
 This Privacy Statement applies to the information collected by Microsoft when you sign-in or sign-up for Microsoft business websites, services and products that display these terms on their sign-in or sign-up pages. It does not apply to your use of such websites, services and products after you complete the sign-in or sign-up process, nor does it apply to any other Microsoft site, services or products that do not display or link to this statement or that have their own privacy statements. 
 
@@ -48,5 +48,3 @@ Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington
 Other Microsoft Products
 
 To view Privacy Statements for other Microsoft websites, please visit http://www.microsoft.com/privacystatement/. 
-
-Back 
