@@ -1,27 +1,113 @@
-> *The following text is extracted and transformed from the oxygenmag.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129113212id_/http%3A//www.oxygenmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxygenmag.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524213412id_/http%3A//www.oxygenmag.com/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy - Oxygen Women's Fitness - Oxygen Women's Fitness
+# Oxygen Magazine > Privacy Policy
 
-This site complies with the following Privacy Policy. By using this site, you indicate your acceptance of _Oxygen_ ‘s Online Privacy Policy.
+This site complies with the following Privacy Policy. By using this site, you indicate your acceptance of _Oxygen Magazine's_  Online Privacy Policy.
 
-This site collects no personally identifying information about individuals except when specifically and knowingly provided by such individuals. We do record information such as time of day, browser type, browser language, and IP address when you interact with the site. _Oxygen_ uses this information to help diagnose problems with our server and to administer our web site. We also use this information to verify the number of discrete times you visit this web site each day.
+### What information do we collect?
 
-The Information We Collect At some Cruz Bay Publishing sites, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services.
+We collect information from you when you register on our site, place an order, subscribe to our newsletter or magazine, respond to a survey or fill out a form. 
 
-There are cases where Cruz Bay Publishing sites may ask you for personally-identifiable information such as your name, mailing address, and email address. Examples include, but are not limited to, online shopping transactions, signing up for an email newsletter, registering on our Sites, or participating in sweepstakes. Cruz Bay Publishing sites will not collect any personally-identifiable information about you unless you provide it to us voluntarily. Cruz Bay Publishing sites may store and process that information to better understand your needs and how we can improve our products and services; use that information to contact you for informational and promotional purposes; use and disclose that information to third parties to the extent necessary to provide you with products or services you have ordered.
+Any data we request that is not required will be specified as voluntary or optional. 
 
-In addition, we may place a “cookie” in the browser files of a user’s computer. The cookie itself does not contain any personally identifying information although it will enable us to relate a user’s use of our sites to information that the user has specifically and knowingly provided to us.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-A user’s personally identifying information may be used for marketing and promotional purposes and we may share the information with others if the user has not advised us of his or her preference not to be included in such an exchange. Individuals always have the ability to stop their information being used for such purposes.
+Like most websites, we use cookies to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the 'do we use cookies?' section below for information about cookies and how we use them. 
 
-_Oxygen_ may send e-mail to people with whom we have a business relationship.
+### What do we use your information for?
 
-To ensure the security of your data, including address information and credit card numbers, _Oxygen_ always uses industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. We have appropriate security measures that protect against the loss, misuse or alteration of information that we have collected from you.
+Any of the information we collect from you may be used in one of the following ways: 
 
-While we will seek to require third parties with whom we have agreements to follow appropriate privacy policies, we do not bear any responsibility for any actions or policies of third parties. Our web site contains links, including e-commerce opportunities with affiliates, partners and associates, to other sites that are not maintained by us. If you visit these sites, please look for their privacy policy.
+• To personalize your experience
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: (<http://www.google.com/privacy_ads.html>).
+(your information helps us to better respond to your individual needs) 
 
-Children should ask their parents for permission before sending any information about themselves to us or anyone else over the Internet.
+• To improve our website
 
-[Posting comments on Oxygenmag.com is subject to additional policies.](https://web.archive.org/general_customer_service/cs_privacy/cs_privacy_blogs/)
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+
+• To improve customer service
+
+(your information helps us to more effectively respond to your customer service requests and support needs)
+
+• To process transactions
+
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer. 
+
+• To send periodic emails
+
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+
+• To administer a contest, promotion, survey or other site feature
+
+### How do we protect your information? 
+
+We implement a variety of security measures to maintain the safety of your personal information when you submit a request, place an order or enter, submit, or access your personal information.
+
+These security measures include: password protected directories and databases to safeguard your information, SSL (Secure Sockets Layered) technology to ensure that your information is fully encrypted and sent across the Internet securely or PCI Scanning to actively protect our servers from hackers and other vulnerabilities. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+
+### Do we use cookies? 
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+
+###  Do we disclose any information to outside parties? 
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+### Third party links 
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+### California Online Privacy Protection Act Compliance
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+
+###  Children’s Online Privacy Protection Act Compliance 
+
+We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+### CAN-SPAM Compliance 
+
+We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
+
+###  Online Privacy Policy Only 
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+### Your Consent 
+
+By using our site, you consent to our privacy policy.
+
+### Changes to our Privacy Policy 
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. 
+
+This policy was last modified on August 1, 2014
+
+### Contacting Us 
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+Active Interest Media | 300 N. Continental Blvd., Suite 650 | El Segundo, CA 90245
+
+admin@aimmedia.com / 310.356.4100 
+
+###  Privacy Policy Customer Pledge 
+
+We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:
+
+Federal Trade Commission's Fair Children's Online Privacy Protection Act 
+
+Privacy Alliance
+
+Controlling the Assault of Non-Solicited Pornography and Marketing Act
+
+Trust Guard Privacy Requirements
