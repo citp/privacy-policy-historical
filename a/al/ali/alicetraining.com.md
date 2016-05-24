@@ -1,41 +1,68 @@
-> *The following text is extracted and transformed from the alicetraining.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118060204id_/http%3A//www.alicetraining.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alicetraining.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524055741id_/http%3A//www.alicetraining.com/home/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ALICE Training Institute
 
-**ATI Website Privacy Policy** (Last updated on 12/18/2013)
+### **We have updated our privacy policy as of November 1, 2015.**
 
-We respect your privacy. Any personal information you provide to us including and similar to your name, address, telephone number, and email address will not be intentionally released, sold, or rented to any entities or individuals outside of our organization except as noted below.
+### This privacy policy describes how the ALICE Training Institute and its affiliates (collectively, “ATI” or “we”) collect, use and protect your personal information. When you submit personal information to us through our website, email, telephone or by U.S. Mail, you are consenting to the collection, use, transfer and disclosure of your personal information as described in this Privacy Policy. If you have questions about this policy please contact us through our website.
 
-**With Whom Do We Share the Personal Information We Collect Through This Site?**
+### **Information We Collect**  
+When you visit our website, our web server automatically recognizes your domain name and e-mail address (where possible) and may also collect other information such as IP address, geolocation information, unique device identifiers, browser type, browser language, and other transactional information. We use “cookies” to record session information, such as web pages you have visited, web browser type and version information and items you have added to your shopping cart and/or purchased. Cookies are also used to record past online activities, such as dates and times of your prior visits and/or your purchases and participation in online training courses and examinations. You may be able to opt-out of the cookies delivered through our website by changing the settings on your Internet browser. Depending on your privacy settings, please be aware that this may disable all cookies delivered to your browser, not just the ones delivered through our website.
 
-**Our Service Providers**
+### When you submit information to our website, email us, call us or write us, we receive and store that information. Examples of the type of information you may provide to us are: your email address, telephone number, physical address, account username, account password, content of emails and instant messages you have sent us, responses to survey questions, site registrations comments posted in our forums, and if you purchase products or services from us, billing information and your credit card number. You can choose to not provide this information, however, you may then not have access to certain features of our website, our online training and information system, or purchasing products or services.
 
-We may share your personal information with companies (including our affiliates) that perform services on our behalf, for example, companies that help process credit card payments. Our service providers are required by contract to protect the confidentiality of the personal information we share with them and to use it only to provide specific services on our behalf.
+### Our website allows you to connect with us through certain social media platforms, including Facebook. If you connect with us in this manner, we may collect personal information that you make available to us through these social media platforms, including your account ID. We will only collect and use that information to the extent that such collection and use is permitted under the privacy policies of the social media platform. You should review the privacy policies of the social media platform before using it in connection with our website.
 
-**Third Parties**
+### Our website and the services available through our website are not intended for use by children, especially those under the age of 13. We do not knowingly collect information from children, including children under the age of 13. If we learn that we have collected children’s personal information, we will delete it from our system.
 
-In some instances, your name and physical mailing address may be shared for one-time use with select third parties whose products or services are believed to be of value to you.  Your email will only be shared with these third parties if you opt-in to receive third party communications.  If you wish to no longer receive materials from these third parties, please contact them directly.
+### **How We Use Your Information**  
+The information we collect is used to:
 
-**Email Choice/Opt Out**
+  * ### Customize our website content to enhance your user experience, provide you with better service when you return to our website and improve the content of our website.
 
-If you no longer wish to receive updates or notifications, you may opt-out of receiving these communication by changing your personal account settings.
+  * ### Provide you with information you specifically request, product support and customer service, whether through the live chat feature, the contact us feature or otherwise and to provide you with services, if you are an account holder.
 
-**Business Transfers**
+  * ### Contact you regarding new products or services or upcoming events offered by us or by our business partners. If you decide you do not want to continue receiving information about new products, services or events, please let us know by contacting us, changing your settings within our system, or unsubscribing from our emails. You can unsubscribe either by responding directly to an email from us or through managing your online subscription.
 
-Your personal information may be transferred to another entity (either an affiliated entity or an unrelated third party) in connection with a merger, reorganization, change in control, stock sale, dissolution, or similar corporate event. If such a transfer were ever to occur, the acquiring entity’s use of your personal information will still be subject to this privacy policy.
+  * ### For compliance purposes, such as detecting and investigating activities that may violate any law or any of our rules or policies, including our Terms of Use.
 
-**Government and Legal Disclosures**
 
-We may disclose the personal information we collect through this site, when we, in good faith, believe disclosure is appropriate to comply with the law (or a court order or subpoena); to prevent or investigate a possible crime, such as fraud or identity theft; to enforce our terms and conditions or other agreements that govern your use of this site; or to protect the rights, property, or safety of our company, our users, or others.
 
-**External Sites**
 
-We are not responsible for the content of external Internet sites. You are advised to read the privacy policy of external sites before disclosing any personal information.
+### We may also disclose information to third parties under the following circumstances:
 
-**Cookies**
+  * ### To comply with legal requirements for disclosure of personal information, such as pursuant to a court order or subpoena or to enforce contract terms applicable to use of our website and services, including enforcement of our Terms of Use and our User Agreement.
 
-A “cookie” is a small data text file that is placed in your browser and allows us to recognize you each time you visit this site (personalization, etc). Cookies themselves do not contain any personal information, and we do not use cookies to collect personal information. Cookies may also be used by third party content providers, such as newsfeeds.
+  * ### To service providers who are under contract with us in order to assist with our business operations, such as credit card processing, analytics, mail delivery, product order fulfillment and bill collection.
 
-**Remember the Risks Whenever You Use the Internet**
+  * ### To business partners who are under contract with us where either you or the organization or entity through which your account has been issued has given us express permission to share your information and subject to an obligation to keep your personal information confidential.
 
-While we have taken steps to protect your personal information, we cannot guarantee the security of any information that you transmit to us and you are solely responsible for maintaining the secrecy of any passwords or other account information. In addition, other Internet sites or services that may be accessible through our site have separate data and privacy practices independent of us, and therefore we disclaim any responsibility or liability for their policies or actions. Please contact those vendors and others directly if you have any questions about their privacy policies.
+  * ### From time to time we may be involved in some form of business transfer, whether it is a merger, acquisition or some form of asset sale. In connection with such activity, user information, including your personal information, may be provided to entities and advisors involved in the business transfer, subject to an obligation to keep your personal information confidential.
+
+  * ### We may disclose or share non-personal information in an aggregated and de-identified form with our business partners and other third parties as we deem appropriate or necessary. Among other things, we may disclose non-personal information to third parties to help us determine how people use parts of websites and who our users are so we can improve our website and our product and service offerings.
+
+
+
+
+### **Changing or Updating Your Information**  
+You can obtain access to the information we currently have on file for you and/or correct inaccuracies in such information by making a written request to us at our physical address listed below, by emailing us or you can update your information within our system if you are an account holder. For your protection, we may ask you for additional information to verify your identity before providing you access to your personal information. You can also update your information by signing in to our system
+
+### **How We Protect Your Information**  
+We have security measures in place at our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you. When we transfer and receive certain types of sensitive information online, such as financial information, we redirect visitors to a secure server. However, due to computer hackers, electronic malfunctions, and other events, we cannot guarantee that such safeguards will always protect such information.
+
+### Certain portions of our website are only accessible by registered users who have an account with us. Your account can only be accessed by entering the correct password. You are solely responsible for protecting your password and you should not share your password or personal information with others.
+
+### **Updates**  
+Please visit this Privacy Policy from time to time, as we reserve the right to periodically update it. When we change the Privacy Policy in a material way, a notice will be posted on our website along with the updated Privacy Policy. Your continued use of our website after a Privacy Policy update indicates your acceptance of the terms of the updated Privacy Policy.
+
+### **Contact Us**  
+You can contact us by email, telephone or by U.S. Mail. When you contact us, please provide us with your contact information and a detailed description of your request or privacy concern. Please provide us with your exact name, address, telephone number, and email address at the time of your request.  
+Contact Information:
+
+### ALICE Training Institute  
+Attn: Privacy Compliance  
+3613 Reserve Commons Drive  
+Medina, OH 44256  
+Phone: 330-661-0106
+
+### Last Updated: November 1, 2015
