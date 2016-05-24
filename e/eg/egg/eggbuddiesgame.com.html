@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the eggbuddiesgame.com privacy policy that was archived on 2015-08-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150812065934id_/http%3A//eggbuddiesgame.com/%3Fmode%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eggbuddiesgame.com privacy policy that was archived on 2016-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160524035612id_/http%3A//eggbuddies.com/%3Fmode%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://opengraphprotocol.org/schema/"><head>
 	<title>Egg Buddies</title>
 
 <meta name="propeller" content="adb4e646f4c3d2a8a5dd834d768680bf">
 	<meta property="og:title" content="Egg Buddies">
-<meta property="og:image" content="http://sphotos.ak.fbcdn.net/hphotos-ak-ash1/hs518.ash1/30514_1420996121407_1127817627_31284842_4460690_n.jpg">
+<meta property="og:image" content="http://eggbuddiesgame.com/img/fgd.png">
 <meta property="og:type" content="website">
 
-<meta property="og:url" content="http://eggbuddiesgame.com/">
+<meta property="og:url" content="http://eggbuddies.com/">
 	<meta property="og:site_name" content="Egg Buddies Game"> 
 	<meta property="og:description" content="Egg Buddies is the best, fun-est treasure hunt game on Facebook"> 
 	<meta property="og:locale" content="en_US">
@@ -20,12 +20,12 @@
 	<meta name="description" content="Play Egg Buddies on facebook"> 
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="keywords" content="facebook social games play friends surprises fun">
-	<link rel="canonical" href="http://eggbuddiesgame.com/">
+	<link rel="canonical" href="http://eggbuddies.com/">
 
 	<link href="/css/fb.css" type="text/css" rel="stylesheet">
 	<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
 	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.13/jquery-ui.min.js"></script>
-	<script type="text/javascript" src="http://eggbuddiesgame.com//js/basic.js"></script>
+	<script type="text/javascript" src="http://eggbuddies.com//js/basic.js"></script>
 	<link href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.13/themes/ui-lightness/jquery-ui.css" type="text/css" rel="stylesheet">
 	<link rel="shortcut icon" href="/css/favicon.gif">
 
@@ -45,8 +45,10 @@
 	}
 
 
+var __eb_fb_inited = 0;
+function initFB() { 
 
-$(document).ready(function() {
+	if (__eb_fb_inited>0) return;
 
 	$.ajaxSetup({ cache: true });
 
@@ -56,12 +58,24 @@ $(document).ready(function() {
 		    appId:'143842853544', 
 		    cookie:true, 
 		    status:true,
-		    channelUrl:'http://eggbuddiesgame.com//fbchannel.php',
+		    channelUrl:'http://eggbuddies.com//fbchannel.php',
 		    oauth:true,
 		    xfbml:true
 		});
 
-				FB.Event.subscribe('auth.login', function(response) { setTimeout(function(){ window.location.reload(); }, 1000)});
+		__eb_fb_inited = 1;
+
+				FB.Event.subscribe('auth.login', function(response) { setTimeout(function() { 
+									/*var ww = window.location; 
+									if (ww.indexOf('?')>=0)
+										ww += '&donelogin=1';
+									else
+										ww += '?donelogin=1';
+									window.location = ww;
+									*/
+									location.reload();
+
+								}, 1000)});
 		FB.Event.subscribe('auth.logout', function(response) { setTimeout(function() { location = '/?donelogout=1'; }, 1000) }); 
 
 		
@@ -72,15 +86,18 @@ $(document).ready(function() {
 		});
 
 	});
+}
+
+
+$(document).ready(function() {
+	initFB();
 });
 
-	__fb_canvas_url = 'http://eggbuddiesgame.com/';
-
-	__fb_app_id = '143842853544';
+__fb_canvas_url = 'http://eggbuddies.com/';
+__fb_app_id = '143842853544';
 </script>
 
-
-	</head>
+</head>
 
 <body>
 <div class="bodywrap">
@@ -90,17 +107,17 @@ $(document).ready(function() {
 	<div class="bluebar">
 	<div class="wrapper">
 	<div class="bluebarin">
-		<a class="home" href="http://eggbuddiesgame.com/"><span style="color:#ffe276">eggbuddies</span><span style="color:#eee">.com</span><sup style="font-weight:normal;font-size:9px;">®</sup></a>
+		<a class="home" href="http://eggbuddies.com/"><span style="color:#ffe276">eggbuddies</span><span style="color:#eee">.com</span><sup style="font-weight:normal;font-size:9px;">®</sup></a>
 
 		<div class="sub">
 
-				<a href="?mode=messages" class="hlink">Messages <span class="notifcount " id="someother"></span>
+				<a href="?mode=messages" class="hlink">Messages <span class="notifcount " id="someother"></span></a>
 
 		
-		</a><a href="http://www.facebook.com/" class="hlink" onclick="$.cookie('notif_check_num', 0,{expires:2});return true;">Facebook <span class="notifcount" id="notifcount"></span> </a>
-				<a class="hlink" href="http://eggbuddiesgame.com//?mode=hof">Leaderboard</a>
-		<a class="hlink" href="http://eggbuddiesgame.com//?mode=help">Help</a>
-		<a class="hlink" style="font-weight:normal;font-size:10px;color:#ddd;" onclick="if (confirm('Are you sure you want to log out of Facebook?')) FB.logout()">Logout</a>
+		<a href="http://www.facebook.com/" class="hlink">Facebook <span class="notifcount" id="notifcount"></span> </a>
+				<a class="hlink" href="http://eggbuddies.com//?mode=hof">Leaderboard</a>
+		<a class="hlink" href="http://eggbuddies.com//?mode=help">Help</a>
+		<a class="hlink" style="font-weight:normal;font-size:10px;color:#ddd;" href="/?donelogout=1">Logout</a>
 		<a class="hlink" href="http://word-buddies.com/" style="color:#fd7;float:right"> Word Buddies »</a>
 		</div>
 
@@ -112,7 +129,7 @@ $(document).ready(function() {
 	<div class="wrapper">
 
 
-	<div style="width:170px;float:left;display:block;text-align:left;padding-top:0px;">
+	<div style="width:170px;float:left;display:block;text-align:left;padding-top:0px;height:600px;">
 		<br>
 		<center><img src="/img/aaa.png" vspace="10"></center>
 		<br>
@@ -153,7 +170,7 @@ $(document).ready(function() {
 	
 
 	<div class="mcont">
-		<div style="clear:both"></div><br>
+		<div style="margin-top:8px">
 			<!-- atert -->
 	<div style="text-align:center;padding:6px;">
 	<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -161,8 +178,11 @@ $(document).ready(function() {
 	</script>
        </div>
 
-		
-	<div style="display:block;">
+			</div>
+
+	<div style="clear:both"></div><br>
+
+	<div style="display:block;width:750px;">
 	<h2>Privacy Policy</h2>
 <div id="PopdigsArticleBody">At Egg Buddies we collect different types of information about our users for three main reasons: <br>
 <br>
@@ -282,22 +302,7 @@ $(document).ready(function() {
 
 
 	$(document).ready(function(){
-	if (0) { 
-		if (n = $.cookie('notif_check_num'))
-		{
-			setNotifCount(n);
-		}
-		else
-		{
-			$.getJSON('https://api.facebook.com/method/fql.query?query=SELECT+notification_id+FROM+notification+WHERE+recipient_id%3D+AND+is_unread+%3D+1+AND+is_hidden+%3D+0&access_token=&format=json&callback=?', 
-				function (data) { 
-					n = data.length
-					setNotifCount(n);
-					$.cookie('notif_check_num', n, {expires:2});
-					}
-			);
-		}
-	}
+	
 	});
 	</script>
 
@@ -325,4 +330,4 @@ $(document).ready(function() {
 
 
 
-<!-- act=0.023276, renderts=0.023973 0.75748000 1439362774 0.73349200 1439362774 --> </body></html>
+<!-- act=0.024255, renderts=0.024509 0.84280800 1464062172 0.81829300 1464062172 --> </body></html>
