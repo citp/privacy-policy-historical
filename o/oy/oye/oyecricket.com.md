@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oyecricket.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108221307id_/http%3A//www.oyecricket.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oyecricket.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524155227id_/http%3A//www.oyecricket.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - OyeCricket.com
 
