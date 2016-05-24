@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspect-ny.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226071256id_/http%3A//inspectapedia.com/Admin/InspectApedia_Policies.php%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspect-ny.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524165157id_/http%3A//inspectapedia.com/Admin/InspectApedia_Policies.php%23Privacy) for the most accurate reproduction.*
 
 # Accuracy Pledge: Technical Accuracy of Articles and Reporting Without Bias are Guaranteed at InspectAPedia.com
 
@@ -235,5 +235,3 @@ Click to Show or Hide Citations & References
 From Google's Contributor website: Contribute a few dollars each month. See fewer ads. The money you contribute helps fund the sites you visit.
 
 [](https://www.google.com/contributor/welcome/)
-
-* * *
