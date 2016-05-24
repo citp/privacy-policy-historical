@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myvirtualpaper.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006040150id_/http%3A//www.virtualpaper.com/en/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myvirtualpaper.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524071118id_/http%3A//www.virtualpaper.com/en/privacy-policy.php) for the most accurate reproduction.*
 
 # Virtual Paper, the digital publishing experts.
 
@@ -85,7 +85,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-[Please also visit our Terms and Conditions section](https://web.archive.org/web/20151006040150id_/http%3A//www.virtualpaper.com/en/terms-conditions.php) establishing the use, disclaimers, and limitations of liability governing the use of our website at :
+[Please also visit our Terms and Conditions section](https://web.archive.org/web/20160524071118id_/http%3A//www.virtualpaper.com/en/terms-conditions.php) establishing the use, disclaimers, and limitations of liability governing the use of our website at :
 
 [http://www.virtualpaper.com](http://www.virtualpaper.com/)
 
