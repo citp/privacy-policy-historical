@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveycompare.net privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123143714id_/http%3A//www2.surveycompare.net/privacy/c203b/ba86a) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveycompare.net privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524205055id_/http%3A//www2.surveycompare.net/privacy/c203b/ba86a) for the most accurate reproduction.*
 
 # MVF Global Ltd
 
