@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kollegekidd.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212013746id_/http%3A//kollegekidd.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kollegekidd.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524062559id_/http%3A//kollegekidd.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy | Welcome To KollegeKidd.com
 
-At kollegekidd.com, the privacy of our visitors is of extreme importance to us. This Privacy Policy governs the manner in which KollegeKidd collects, uses, maintains and discloses information collected from users (each, a "User") of the www.kollegekidd.com website ("Site"). This privacy policy applies to the Site and all products and services offered by KollegeKidd.
+At kollegekidd.com, the privacy of our visitors is of extreme importance to us. This Privacy Policy governs the manner in which KollegeKidd collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.kollegekidd.com website (“Site”). This privacy policy applies to the Site and all products and services offered by KollegeKidd.
 
 ## Personal identification information
 
@@ -18,11 +18,11 @@ We may collect non-personal identification information about Users whenever they
 
 ## Web browser cookies
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
 ## How we use collected information
 
-KollegeKidd collects and uses Users personal information for the following purposes: • - To personalize user experience?We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site. • - To improve our Site?We continually strive to improve our website offerings based on the information and feedback we receive from you. • - To send periodic emails?The email address Users provide will only be used to respond to their inquiries, and/or other requests or questions.
+KollegeKidd collects and uses Users personal information for the following purposes: • – To personalize user experience?We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site. • – To improve our Site?We continually strive to improve our website offerings based on the information and feedback we receive from you. • – To send periodic emails?The email address Users provide will only be used to respond to their inquiries, and/or other requests or questions.
 
 ## How we protect your information
 
@@ -38,7 +38,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 ## Google Adsense
 
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
 
 ## Changes to this privacy policy
 
