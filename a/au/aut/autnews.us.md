@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autnews.us privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126031342id_/http%3A//www.autnews.us/%23policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autnews.us privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524210849id_/http%3A//www.autnews.us/%23policy) for the most accurate reproduction.*
 
 # News| Politics | Logbook Loans | Same Day & Instant Cash Loans
 
@@ -52,6 +52,10 @@ This warning comes from the Citizens Advice Bureau themselves stating that some 
 Having studied payday loans direct lenders only [blogs](http://www.manyloans.co.uk/payday-loans-direct-lenders-only.html), it has now become apparent how payday loans for people on benefits can have a negative impact on your dream to own your own home. According to a piece by the BBC, taking out a payday loan could endanger your chances of getting a mortgage regardless of whether you had difficulty repaying the loan or not. 66% of brokers contacted by _Mortgage Strategy_ , a trade publication, indicated that they had hda a client turned down for a mortgage application because of a guaranteed payday loans [application](http://www.manyloans.co.uk/guaranteed-payday-loans.html). Now there are plans to warn potential borrowers of the [danger/impact](http://www.manyloans.co.uk/instant-payday-loans.html) of using payday loans. A loan taken out will remain on your credit record for a period of up to 6 years. Some Mortgage applications are instantly declined and credit scores impacted negatively following a payday loan. It has been reported that this is the case even for High Street lenders.
 
 These revelations make these loans even less attractive despite the [convenience](http://www.manyloans.co.uk/payday-loans-no-brokers.html) of payday loans no brokers. It is also speculated that the market will take a hit, seeing its value fall by up to 50%.
+
+## Home Improvement Loans
+
+Also of particular alarm is the high interest rates charged by some financial firms for [home improvement](https://www.honestjohn.ninja/ppc/double-glazing-quote.html) loans. This is an issue that has gone hand in hand with the controversial way in which double glazing windows are currently being sold.
 
   
 
