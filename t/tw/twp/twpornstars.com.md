@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the twpornstars.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124060455id_/http%3A//www.twpornstars.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twpornstars.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524032520id_/http%3A//www.twpornstars.com/pages/privacy) for the most accurate reproduction.*
 
-# 
+# TW Pornstars - Privacy Policy
 
 Thank you for visiting Twpornstar.com (the "Site") and reviewing the Privacy Policy Twpornstar ("Twpornstar", "We", "Us", "Our" ). By using or accessing the Site, you expressly consent to Our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
 
