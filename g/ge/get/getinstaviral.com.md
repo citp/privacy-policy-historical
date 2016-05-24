@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getinstaviral.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123054407id_/http%3A//getinstaviral.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getinstaviral.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524042413id_/http%3A//getinstaviral.com/home/privacy) for the most accurate reproduction.*
 
 # InstaViral JV Privacy
 
