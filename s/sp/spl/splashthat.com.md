@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the splashthat.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906173827id_/https%3A//splashthat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splashthat.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524102702id_/https%3A//splashthat.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Splash
+# Splash - Privacy Policy
 
-Personal Information about our users is an integral part of our business. We neither rent nor sell your Personal Information to anyone. We may share your Personal Information only as described below. 
+Personal Information about our users is an integral part of our business. We neither rent nor sell your Personal Information to anyone. We may share your Personal Information only as described below.
 
   
-**In General:** We do not use your Personal Information without your consent. However, we do combine information that we receive about you (such as gender, age, geographic location, etc.) with information about your events and activities on the Site and the Services to identify trends and other statistical information. We may use this anonymous data to provide third parties with statistics that might be relevant to the marketing and sale of their goods and services.
+ **In General:** We do not use your Personal Information without your consent. However, we do combine information that we receive about you (such as gender, age, geographic location, etc.) with information about your events and activities on the Site and the Services to identify trends and other statistical information. We may use this anonymous data to provide third parties with statistics that might be relevant to the marketing and sale of their goods and services.
 
  **Non-Private or Non-Personal Information:** For clarity, we may share or disclose your non-private, aggregated or otherwise non-personal information with advertisers, service providers, and other persons with whom we conduct business. Conversely, these advertisers, service providers and other persons may share with us non-private, aggregated or otherwise non-personal information about you that they have independently developed or acquired.
 
@@ -17,7 +17,7 @@ Personal Information about our users is an integral part of our business. We nei
 
  **Communication in response to User Content:** As part of the Services, you will receive from Splash email and other communications. You acknowledge and agree that by availing yourself of the Services, you allow Splash to send you email and other communication that it determines in its sole discretion relate to your use of the Services.
 
- **Promotional Offers:** We may send you offers on behalf of other businesses. However, when we do so, we do not give the other business your name and address. [If you do not wish to receive these offers, please email us at [privacy@splashthat.com.]] [Splash – Please confirm that you will provide for an opt-out; or we can remove this section if no such e-mails will be sent.]
+ **Promotional Offers:** We may send you offers on behalf of other businesses. However, when we do so, we do not give the other business your name and address. [If you do not wish to receive these offers, please email us at [privacy@splashthat.com.]] 
 
  **Business Transfers:** In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that is transferred. Moreover, if Splash, or substantially all of its assets, were to be acquired, or in the unlikely event that Splash goes out of business or enters bankruptcy, customer information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Splash may continue to use your Personal Information as set forth in this policy.
 
