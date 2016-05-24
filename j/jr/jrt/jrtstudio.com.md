@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jrtstudio.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907225339id_/http%3A//www.jrtstudio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jrtstudio.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524083153id_/http%3A//www.jrtstudio.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | JRT Studio
 
@@ -6,6 +6,8 @@
 We collect information from you when you register on our sites, e-mail us directly or use any of our software.
 
 When you enter your information, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously. Our Android applications never send us your email address. If we someday need your email address, we'll ask you for it.
+
+If you are viewing ads on Android, we may have Google Analytics Advertising Features on. This allows Google Analytics to show you more relevant ads, and allows us to see the demographics of our users. We do not sell or re-distribute this information. You can opt out of this advertising inside the "Google Settings" app on your device, if you want to.
 
 **What do we use your information for?**
 
