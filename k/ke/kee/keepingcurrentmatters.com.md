@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keepingcurrentmatters.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123170330id_/http%3A//www.keepingcurrentmatters.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keepingcurrentmatters.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524035849id_/http%3A//www.keepingcurrentmatters.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Keeping Current Matters
 
