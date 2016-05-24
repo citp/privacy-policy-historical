@@ -1,53 +1,53 @@
-> *The following text is extracted and transformed from the environment.gov.au privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117162703id_/http%3A//www.environment.gov.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environment.gov.au privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524054553id_/http%3A//www.environment.gov.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Department of the Environment, Australian Government
+# Privacy policy | Department of the Environment
 
-  * [Download the Privacy Policy (PDF - 292 KB)](https://web.archive.org/system/files/pages/c48b8310-336b-424e-b67c-fb076944f330/files/privacy-policy-march-2014.pdf "Privacy policy")
+  * [Download the Privacy policy (PDF - 599.4 KB)](https://web.archive.org/system/files/pages/c48b8310-336b-424e-b67c-fb076944f330/files/privacy-policy-dec-2015.pdf "Privacy policy")
 
 
 
 * * *
 
-## 1\. Privacy policy background
+## 1\. Introduction
 
-### 1.1 The portfolio
+The ​Department of the Environment, and most functions in the portfolio, are bound by the Australian Privacy Principles in the [_Privacy Act 1988_](http://www.comlaw.gov.au/Details/C2012C00903 "External Site - Comlaw - Privacy Act 1988"). The Principles regulate how agencies collect, use, disclose and store personal information, including sensitive information, and how individuals may access and correct records containing their personal information.
 
-The Department of the Environment ( **Department** ) is responsible for implementing the Australian Government’s policies to protect our environment and heritage and to promote a sustainable way of life.
+We respect your rights to privacy under the Privacy Act and we will comply with the requirements under the Act in respect of the collection and management of your personal information.
 
-We have arrangements in place to assist our Minister and Parliamentary Secretary and their offices, and certain offices in the portfolio in complying with the _Privacy Act 1988_ (Cth) ( **Privacy Act** ). Specific offices in the portfolio include:
+This document is our privacy policy and it tells you how we collect and manage your personal information.
 
-  * [Water Efficiency Labelling Scheme Regulator ( **WELS** )](http://www.waterrating.gov.au/);
-  * [Commonwealth Environmental Water Holder ( **CEWH** );](https://web.archive.org/water/cewo "Commonwealth Environmental Water Office")
-  * [National Environmental Protection Council ( **NEPC** )](http://www.scew.gov.au/about-us/nepc);
-  * [National Environmental Protection Council Service Corporation ( **NEPCSC** )](http://www.scew.gov.au/about-us/nepc-service-corporation);
-  * [Australian Heritage Council ( **AHC** )](https://web.archive.org/heritage/organisations/australian-heritage-council "Australian Heritage Council"); and
-  * [Director of National Parks ( **DNP** )](https://web.archive.org/topics/national-parks/parks-australia "Parks Australia").
+## 2\. Privacy policy in the environment portfolio
+
+The Department of the Environment is responsible for implementing the Australian Government’s policies to protect our environment and heritage and to promote a sustainable way of life.
+
+We have arrangements in place to assist our Minister and certain offices in the portfolio to comply with the Privacy Act and the Principles. This privacy policy applies to the Department and to those offices which the Department assists in complying with the Privacy Act and the Principles. Those functions include:
+
+  * Alligator Rivers Region Technical Committee;
+  * Alligator Rivers Region Advisory Committee;
+  * Australian Heritage Council;
+  * Commonwealth Environmental Water Holder;
+  * Director of National Parks;
+  * Independent Expert Scientific Committee on Coal Seam Gas and Large Coal Mining Development;
+  * Indigenous Advisory Committee;
+  * National Environmental Protection Council;
+  * Supervising Scientist; and
+  * Threatened Species Scientific Committee.
 
 
 
-This privacy policy will apply to the Department, our Minister and Parliamentary Secretary (to the extent that they are managing our affairs) and to the above mentioned portfolio agencies.
+The following portfolio agencies manage their own privacy compliance and have their own privacy policies. For more information please refer to their websites:
 
-Our website may contain links to other websites operated by third parties.  No representations or warranties in relation to the privacy practices of any third party website are made and we are not responsible for the privacy policies or the content of any third party website. 
-
-For further information regarding other portfolio agencies’ privacy policy, please refer to their websites:
-
+  * [Australian Renewable Energy Agency](http://arena.gov.au/)
   * [Bureau of Meteorology](http://www.bom.gov.au/)
+  * [Clean Energy Finance Corporation](http://www.cleanenergyfinancecorp.com.au/)
   * [Clean Energy Regulator](http://www.cleanenergyregulator.gov.au/)
   * [Climate Change Authority](http://www.climatechangeauthority.gov.au/)
   * [Great Barrier Reef Marine Park Authority](http://www.gbrmpa.gov.au/)
-  * [Murray-Darling Basin Authority](http://www.mdba.gov.au/)
-  * [National Water Commission](http://www.nwc.gov.au/)
   * [Sydney Harbour Federation Trust](http://www.harbourtrust.gov.au/)
 
 
 
-## 2\. Privacy obligations
-
-### 2.1 Privacy Act
-
-We recognise the importance of protecting the privacy and the rights of individuals in relation to their personal information.  This document is our privacy policy and it tells you how we collect and manage your personal information.
-
-We respect your rights to privacy under the Privacy Act and we will comply with the requirements under the Act in respect of the collection and management of your personal information.
+Our website may contain links to other websites operated by third parties. No representations or warranties in relation to the privacy practices of any third party website are made and we are not responsible for the privacy policies or the content of any third party website.
 
 ## 3\. Personal information
 
@@ -57,7 +57,7 @@ In general terms, personal information is any information that can be used to id
 
 ## 4\. Types of personal information
 
-We collect, store and from time to time disclose information. This information consists of the following types of information, which may also contain personal information:
+We collect, store and from time to time disclose information. This information can include:
 
   * full name;
   * mailing or street address;
@@ -86,9 +86,7 @@ We collect, store and from time to time disclose information. This information c
 
 We may also collect information that is not personal information because it does not identify you or anyone else. For example, we may collect anonymous answers to surveys or aggregated information about how users use our website.
 
-## 5\. Collection of personal information
-
-### 5.1 How do we collect your personal information?
+## 5\. How do we collect your personal information?
 
 We collect personal information directly from the individual unless it is unreasonable or impracticable to do so. When collecting personal information, we may collect it in a number ways that include:
 
@@ -129,7 +127,7 @@ These third parties include:
 
 ## 6\. Privacy notice
 
-At or before the time we collect your personal information (or as soon as practicable afterwards), we may provide you with a notice (also known as ‘Privacy Notice’ or ‘APP Notice’) containing the following information:
+At or before the time we collect your personal information (or as soon as practicable afterwards), we may provide you with a notice (also known as ‘Privacy Notice’ or ‘Australian Privacy Principle (APP) Notice’) containing the following information:
 
   * the fact that we have collected your personal information, if it is likely that: 
     * we collected the information from another source; or
@@ -143,11 +141,11 @@ At or before the time we collect your personal information (or as soon as practi
 
 
 
-## 7\. Sensitive information
+## 7\. Sensitive personal information
 
-We may collect sensitive information about you, including:
+We may collect sensitive personal information about you, including:
 
-  * information or opinion (that may also fall within the definition of personal information) about your: 
+  * information or opinion about your: 
     * racial or ethnic origin;
     * political opinions;
     * membership of a political association;
@@ -168,11 +166,15 @@ Cookies are used to maintain a user’s settings and preferences on a website, a
 
 We may also log IP addresses (the electronic addresses of computers connected to the Internet) to assist in analysing trends, administering the website, and gathering broad demographic information.
 
+Our website also uses Google Analytics, a service which transmits website traffic data to Google servers in the United States. We use Google Analytics in order to understand how users engage with our website. Data transmitted includes, for example, the web address of the page that you're visiting and your IP address. Google may also set cookies on your browser, or read cookies that are already there. Google may transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf.
+
+More information about how Google Analytics collects and processes data is described in Google's Privacy Policy. If you don’t want Google Analytics to be used in your browser, you can use the [opt-out service provided by Google](https://tools.google.com/dlpage/gaoptout) or the [’incognito’ mode](https://support.google.com/chrome/answer/95464?hl=en) in your browser. 
+
 ## 9\. What happens if we can't collect your personal information?
 
 When interacting with us, you are not required to identify yourself. You may use a pseudonym. However, this does not apply if:
 
-  * it is not possible for us to interact with you, because you have not identified yourself or you use a pseudonym; or
+  * it is impracticable for us to interact with you, because you have not identified yourself or you use a pseudonym; or
   * we are required or authorised by or under an Australian law, or a court/tribunal order, to interact with individuals who have identified themselves. For example, the _Environment Protection and Biodiversity Conservation Act 1999_ ( **EPBC Act**) and associated Regulations require personal information to be provided for the purposes of referrals, approvals and permits. There are mandatory requirements for this information to be published and/or made available for public comment. Public comments received by us also contain personal information about the individual making the submission.
 
 
@@ -185,7 +187,7 @@ If you do not provide us with the personal information described above, some or 
 
 
 
-## 10\. Unsolicited personal information
+## 10\. How do we treat unsolicited personal information?
 
 From time to time, we receive personal information that is additional to information that we have solicited or information that we have not taken active steps to collect. This is known as ‘unsolicited personal information’ and includes:
 
@@ -201,17 +203,17 @@ From time to time, we receive personal information that is additional to informa
 
 If we receive unsolicited personal information and we decide that we are not permitted to collect it in accordance with the privacy principles, we will take reasonable steps to destroy or de-identify the information as soon as practicable, unless it is contained in a ‘Commonwealth record’ or it is unlawful or unreasonable to do so.
 
-## 11\. Purposes of collecting, storing, using and disclosing your personal information
+## 11\. Why do we collect, store, use and disclose your personal information?
 
 We collect personal information about you so that we can perform our activities and functions and endeavour to provide quality customer service.
 
-We collect, hold, use and disclose your personal information for the following purposes:
+We may collect, hold, use and disclose your personal information for purposes that include the following:
 
   * to process and assess applications (funding, grants, permits etc) under programs and functions we administer including procurement and tender processes, permits, grants etc;
   * to provide you with our products such as research reports, guidelines, Annual/Outcomes reports etc;
   * to provide services to you;
   * to send communications requested by you;
-  * to provide information and to  seek feedback or advice on matters;
+  * to provide information and to seek feedback or advice on matters;
   * to answer enquiries, and provide information or advice about existing and new products or services;
   * to conduct administrative functions including booking of travel, accommodation and allowance payments, health assessments and workers compensation matters;
   * for the administrative, planning, product or service development, quality control and research, project and grant purposes of the Department, its contractors or service providers;
@@ -226,28 +228,26 @@ We collect, hold, use and disclose your personal information for the following p
 
 Your personal information will not be shared, sold, rented or disclosed other than as described in this privacy policy.
 
-## 12\. Using your personal information
+## 12\. How do we use your personal information?
 
-We will only use your personal information for the primary purpose that it was collected. Before using your personal information for any other purposes, we will ensure that:
+We can use your personal information for the primary purpose for which it was collected. (Our privacy notice (see section 6 above) will explain the primary purpose.) We may also use your personal information for other purposes that are permitted under the Privacy Act. Those other purposes include where:
 
-  * we have your consent for that other purpose;
-  * you would reasonably expect us to use or disclose the information for a secondary purpose that is related to the primary purpose;
-  * the use or disclosure is required under law or court order;
-  * we reasonably believe that the disclosure is necessary for an enforcement related purpose; or
-  * the use or disclosure is permitted by an exception under APP 6.2 or 6.3.
+  * we obtain your consent to use the information for that other purpose;
+  * you would reasonably expect us to use or disclose the information for a secondary purpose that is related to the primary purpose (for sensitive personal information, this secondary purpose must be _directly_ related to the primary purpose);
+  * the use or disclosure is required or authorised under law or court/tribunal order;
+  * we reasonably believe that the disclosure is necessary for an enforcement related purpose.
 
 
 
 ## 13\. Disclosure of personal information
 
-### 13.1 Disclosure of your personal information to third parties
-
-We may disclose your personal information to:
+We may disclose your personal information to third parties that we specify in our privacy notice when we collect the information, or to whom disclosure is otherwise permitted under the Privacy Act. Without limiting this, those third parties could be: ​
 
   * contractors or service providers for the purposes of operation of our website or our functions, fulfilling requests by you, and to otherwise provide information, products and services to you including, without limitation, web hosting providers, IT systems administrators, mailing houses, couriers, payment processors, data entry service providers, electronic network administrators, debt collectors, and professional advisors such as accountants, solicitors, business advisors, consultants and travel providers;
   * suppliers and other third parties with whom we have commercial relationships for business, marketing, and related purposes;
   * peer reviewers and committee members for the purpose of assessing your applications;
-  * any organisation for any authorised purpose with your express consent;
+  * an organisation that you have given consent for us to supply the information to;
+  * an organisation that you would reasonably expect us to supply the information to for a purpose that is related to the primary purpose of collection (for sensitive personal information, this secondary purpose must be _directly_ related to the primary purpose);
   * other Commonwealth or State agencies for the purposes of compliance breaches, investigations, legal actions and insurance claims;
   * law enforcement bodies, agencies and authorities regarding infringement notices;
   * our Minister, Parliamentary Secretary and portfolio agencies for the purposes of administering portfolio programs and functions; and/or
@@ -261,32 +261,30 @@ Public submissions made on applications, permits or referrals may be published b
 
 ## 14\. Do we disclose your personal information to anyone overseas?
 
-We may disclose personal information to third party suppliers and service providers, researchers and governments located overseas for some of the purposes listed in paragraph 13 of this policy.
-
-We take reasonable steps to ensure that the overseas recipients of your personal information do not breach the privacy obligations relating to your personal information.
-
-We may disclose your personal information to entities located outside of Australia, including the following:
+We may disclose personal information to third party suppliers and service providers, researchers and governments located overseas for some of the purposes listed in paragraph 13 of this policy. This includes disclosure to:
 
   * peer reviewers anywhere in the world where the appropriate scientific expertise exists; and
   * overseas recipients if we believe the disclosure of the information is reasonably necessary for our enforcement related functions and the recipient is a body that performs functions, or exercises powers, that are similar to those performed or exercised by an Australian enforcement body.
 
 
 
+We will take reasonable steps to ensure that the overseas recipients of your personal information do not breach the privacy obligations relating to your personal information.
+
 ## 15\. Storage and access to personal information
 
 ### 15.1 How is your personal information stored and secured?
 
-We take reasonable steps to ensure your personal information is protected from misuse and loss and from unauthorised access, modification or disclosure.  We may hold your information in either electronic or hard copy form.  Where reasonable and practicable to do so, personal information is destroyed or de-identified when no longer needed.
+We take reasonable steps to ensure your personal information is protected from misuse and loss and from unauthorised access, modification or disclosure. We may hold your information in either electronic or hard copy form. Where reasonable and practicable to do so, personal information is destroyed or de-identified when no longer needed.
 
 Personal information that is contained in hard copy is secured in accordance with our Information Security Policy.
 
-However, as our website is linked to the internet, and the internet is inherently insecure, we cannot provide any assurance regarding the security of transmission of information you communicate to us via our website.  We also cannot guarantee that the information you supply by email will not be intercepted while being transmitted. Accordingly, any personal information or other information, which you transmit to us, is transmitted at your own risk.
+However, as our website is linked to the internet, and the internet is inherently insecure, we cannot provide any assurance regarding the security of transmission of information you communicate to us via our website. We also cannot guarantee that the information you supply by email will not be intercepted while being transmitted. Accordingly, any personal information or other information, which you transmit to us, is transmitted at your own risk.
 
 Sensitive enforcement-related personal information is held in a restricted database and appropriate security clearances are required to access such information.
 
-### 15.2 Who has access to your personal information?
+### 15.2 Who has access to your personal information within the Department?
 
-We take reasonable steps to ensure that access to your personal information is permitted only for legitimate purposes and on a need to know basis.
+We take reasonable steps to ensure that access to your personal information occurs only for legitimate purposes and on a need to know basis.
 
 ### 15.3 Personal information no longer required
 
@@ -294,48 +292,41 @@ We take reasonable steps to ensure that we delete or de-identify personal inform
 
 In addition, personal information in electronic form is deleted if it is no longer required. Similarly, personal information contained in undelivered emails or return post is deleted or destroyed from our databases.
 
-## 16\. Accessing and correcting your personal information
+## 16\. How can you access and correct your personal information?
 
-### 16.1 How can you access and correct your personal information?
+You may request access to any personal information we hold about you at any time by contacting us (details below). Where we hold information that you are entitled to access, we will try to provide you with suitable means of accessing it (for example, by mailing or emailing it to you). We will not charge you for providing your personal information to you, or for the costs of making any corrections to your personal information.
 
-You may request access to any personal information we hold about you at any time by contacting us (details below). Where we hold information that you are entitled to access, we will try to provide you with suitable means of accessing it (for example, by mailing or emailing it to you).  We will not charge you for providing your personal information to you, or for the costs of making any corrections to your personal information.
+There may be instances where we cannot grant you access to your personal information. For example, we may need to refuse access if we are required or authorised to refuse access under an Australian law. If that happens, we will give you written notice of the reasons for the refusal within 30 days of receipt of your request, together with information about how you can complain about our refusal, if you wish to do so.
 
-There may be instances where we cannot grant you access to your personal information. For example, we may need to refuse access if we are required or authorised to refuse access under an Australian law.  If that happens, we will give you written notice of the reasons for the refusal within 30 days of receipt of your request, together with information about how you can complain about our refusal, if you wish to do so.
-
-If you believe that your personal information is incorrect, incomplete or inaccurate, then you may request us to amend it. We will consider whether the information requires amendment.  If we do not agree that there are grounds for amendment, we will give you written notice of the reasons for the refusal within 30 days of receipt of your request, together with information about how you can complain about our refusal, if you wish to do so.
+If you believe that your personal information is incorrect, incomplete or inaccurate, then you may request us to amend it. We will consider whether the information requires amendment. If we do not agree that there are grounds for amendment, we will give you written notice of the reasons for the refusal within 30 days of receipt of your request, together with information about how you can complain about our refusal, if you wish to do so.
 
 Current and former employees can make arrangements to access their personal information with our Personnel Section at [personnelhelpdesk@environment.gov.au](mailto:personnelhelpdesk@environment.gov.au).
 
-## 17\. Complaints process
-
-### 17.1 What is the process for complaining about a breach of privacy?
+## 17\. What is the process for complaining about a breach of privacy?
 
 If you have any questions about this privacy policy, any concerns or a complaint regarding the treatment of your privacy or a possible breach of your privacy, please use the contact link on our website or contact our Privacy Officer via the details set out below (at paragraph 18).
 
-We will treat your requests or complaints confidentially. One of our representatives will contact you within a reasonable time after receipt of your complaint to discuss your concerns and outline options regarding how they may be resolved. We will aim to ensure that your complaint is resolved in a timely and appropriate manner.
+We will treat your requests or complaints as your personal information. One of our representatives will contact you within a reasonable time after receipt of your complaint to discuss your concerns and outline options regarding how they may be resolved. We will aim to ensure that your complaint is resolved in a timely and appropriate manner.
 
 At the conclusion of the investigation, we will provide a written response to you regarding your complaint. If you are not satisfied with our response, you may refer your complaint to the Australian Privacy Commissioner.
 
-### 18.1 Privacy Contact Officer
-
-Contact details for our Privacy Officer are:
+### 18.1 Contact details for our Privacy Contact Officer:
 
 Privacy Contact Officer  
 Department of the Environment  
 GPO Box 787  
-CANBERRA ACT 2600  
-Phone: 02 6275 9255  
+CANBERRA ACT 2600
+
+Phone: 02 6274 2603  
 Email: [privacy@environment.gov.au](mailto:privacy@environment.gov.au)
 
 ### 18.2 Changes to our privacy policy
 
 We may change this privacy policy from time to time. Any updated versions of this privacy policy will be posted on our website.
 
-This privacy policy was last updated on 12 March 2014.
+This privacy policy was last updated on 21 December 2015.
 
 ## 19\. Definition of common terms
-
-### 19.1 Meaning of commonly used privacy terms
 
 Terms | Meaning  
 ---|---  
