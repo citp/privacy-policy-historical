@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the buywithjohnlscott.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205214810id_/http%3A//www.buywithjohnlscott.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buywithjohnlscott.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524120601id_/http%3A//www.buywithjohnlscott.com/privacy) for the most accurate reproduction.*
 
 # John L. Scott - KMS - Privacy Policy
 
 ## Privacy Policy 
 
-**(Effective Date: September 18, 2008)**
+**(Effective Date: October 1, 2015)**
 
-The Web site you are accessing (the "Site") is hosted by Market Leader Inc ("Market Leader") on behalf of one of its real estate industry customers (the "Company"). Market Leader and Company are independent contractors and are not partners or otherwise engaged in any joint venture in delivering the Site. Notwithstanding that fact, this Privacy Policy ("Policy") applies to both Market Leader and Company and as such, any reference to "we", "us" or "our" herein will apply equally to both Market Leader and Company. This Policy explains how personal information is collected, used, and disclosed with respect to your use of the Site, so you can make an informed decision about using the Site.
+The website you are accessing (the "Site") is hosted by Constellation Web Solutions, Inc. DBA Market Leader on behalf of one of its real estate industry customers (the "Company"). Market Leader and Company are independent contractors and are not partners or otherwise engaged in any joint venture in delivering the Site. Notwithstanding that fact, this Privacy Policy ("Policy") applies to both Market Leader and Company and as such, any reference to "we", "us" or "our" herein will apply equally to both Market Leader and Company. This Policy explains how personal information is collected, used, and disclosed with respect to your use of the Site, so you can make an informed decision about using the Site.
 
 We reserve the right to change this Policy at any time. If we make any material changes to the Policy, we will post a new statement on the Site and update the effective date set forth above. Therefore, we encourage you to check the effective date of the Policy whenever you visit the Site to see if it has been updated since your last visit.
 
@@ -52,7 +52,7 @@ We do not intend, and the Site is not designed, to collect personal information 
 You may unsubscribe at any time from receiving non-service related communications from us. Site users have the following options for accessing, changing and deleting personal information previously provided, or opting out of receiving communications from Company or Market Leader: 
 
   * email us at info@marketleader.com; or
-  * call us at the following telephone number: 800-491-3687
+  * call us at the following telephone number: 877-450-0088
 
 
 
@@ -60,6 +60,5 @@ You may unsubscribe at any time from receiving non-service related communication
 
 If you have any questions about this Policy, the practices applicable to the Site, or your dealings with the Site, please contact us at the following address:
 
-Market Leader Inc  
-11332 NE 122nd Way Suite 200   
-Kirkland, WA 98034
+Market Leader  
+1840 York Road, Timonium MD 21093 
