@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the clothingattesco.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104074818id_/http%3A//www.clothingattesco.com/privacy/privacy-policy/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clothingattesco.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524174318id_/http%3A//www.clothingattesco.com/privacy/privacy-policy/page/privacy) for the most accurate reproduction.*
 
 # Clothing at Tesco | privacy policy
 
 F&F ("the Website") is owned and operated by Tesco Stores Limited, part of the Tesco Group. This policy, together with our [Terms and Conditions](http://www.clothingattesco.com/terms-and-conditions/clothing-at-tesco-terms+conditions/page/terms), explain how Tesco may use information we collect about you, as well as your rights over any personal information we hold about you. Please read this policy and our [Terms and Conditions](http://www.clothingattesco.com/terms-and-conditions/clothing-at-tesco-terms+conditions/page/terms) carefully; by accessing the Website you confirm to have understood and agreed to them.
 
-### Information we collect about you
+## Information we collect about you
 
 We collect information about you when you:
 
@@ -17,7 +17,7 @@ We collect information about you when you:
 
 We may supplement the information we collect about you with information we receive from other sources eg public registers such as the electoral roll. This allows us to assess the accuracy of the information we hold about you in order to send you relevant offers and information.
 
-### Using your information
+## Using your information
 
 Collecting your personal information helps Tesco to better understand what you need from us. We use your information to:
 
@@ -82,25 +82,25 @@ A list of all the cookies used on the Website by category is set out below.
 
 ### Strictly necessary cookies
 
-These cookies enable services you have specifically asked for. For those types of cookies that are strictly necessary, no consent is required.
+**These cookies enable services you have specifically asked for. For those types of cookies that are strictly necessary, no consent is required.**
 
 These cookies are essential in order to enable you to move around the Website and use its features, such as accessing secure areas of the Website. Without these cookies services you have asked for, like shopping baskets or e-billing, cannot be provided.
 
 ### Performance cookies
 
-These cookies collect anonymous information on the pages visited. By using the Website, you agree that we can place these types of cookies on your device.
+**These cookies collect anonymous information on the pages visited. By using the Website, you agree that we can place these types of cookies on your device.**
 
 These cookies collect information about how visitors use the Website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don't collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how the Website works.
 
 ### Functionality cookies
 
-These cookies remember choices you make to improve your experience. By using the Website, you agree that we can place these types of cookies on your device.
+**These cookies remember choices you make to improve your experience. By using the Website, you agree that we can place these types of cookies on your device.**
 
 These cookies allow the Website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.
 
 ### Targeting or advertising cookies
 
-These cookies collect information about your browsing habits in order to make advertising relevant to you and your interests.
+**These cookies collect information about your browsing habits in order to make advertising relevant to you and your interests.**
 
 These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with our permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation.
 
@@ -126,11 +126,11 @@ The Website may contain links to other sites which are outside our control and n
 
 ## Accessing your information
 
-To obtain a copy of the information we hold about you, write to: Data Protection Officer, Corporate & Legal Affairs, New Tesco House, Delamare Road, Cheshunt, Hertfordshire EN8 9SL enclosing a cheque or postal order for £10 payable to "Tesco Stores Limited". Please confirm your Clubcard number and any details to help us identify and locate your information. If any of the details are incorrect, let us know and we will amend them.
+To obtain a copy of the information we hold about you, write to: Data Protection Officer, Corporate and Legal Affairs, Tesco House, Shire Park, Kestrel Way, Welwyn Garden City, AL7 1GA enclosing a cheque or postal order for £10 payable to "Tesco Stores Limited". Please confirm your Clubcard number and any details to help us identify and locate your information. If any of the details are incorrect, let us know and we will amend them.
 
 ## Changes to our policy
 
-This policy replaces all previous versions and is correct as of May 2012. We reserve the right to change the policy at any time.
+This policy replaces all previous versions and is correct as of December 2015. We reserve the right to change the policy at any time.
 
 ## Contacting us
 
