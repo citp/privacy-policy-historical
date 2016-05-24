@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raiders.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208174945id_/http%3A//www.raiders.com/footer/copyright-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raiders.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524075000id_/http%3A//www.raiders.com/footer/copyright-privacy-policy.html) for the most accurate reproduction.*
 
 # Oakland Raiders | Copyright & Privacy Policy
 
