@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customcat.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123212558id_/http%3A//www.customcat.com%3Ft%3Dh.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customcat.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524021934id_/http%3A//www.customcat.com%3Ft%3Dh.privacy) for the most accurate reproduction.*
 
 # Home - CustomCat.com
 
