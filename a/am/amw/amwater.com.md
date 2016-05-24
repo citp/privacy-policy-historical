@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amwater.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906032008id_/http%3A//www.amwater.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amwater.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524093919id_/http%3A//amwater.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -59,6 +59,10 @@ Voorhees, NJ 08043
 Telephone: 856.346.8200  
 Fax: 856.346.8360  
 E-mail: [aw.websitefeedback@amwater.com](mailto:aw.websitefeedback@amwater.com)
+
+ **Interest Based Advertising and IP Targeting**
+
+We may work with data providers to serve advertising to you through display media or other methods. These providers may use personal information that we have collected or that you have provided to locate youonline, such as when you visit or log in to websites or mobile applications. This information may be linked to online identifiers or IP addresses assigned to you, and to demographic or interest-based data, in order to target you with relevant advertising, including about our products or services. To learn more about or opt out of this and other interest-based advertising, please visit the industry opt-out pages operated by the DAA, at [http://www.aboutads.info](http://www.aboutads.info/) and by the NAI at [http://networkadvertising.org](http://networkadvertising.org/).
 
  **Acknowledgement**
 
