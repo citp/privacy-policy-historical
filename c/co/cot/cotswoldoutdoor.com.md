@@ -1,41 +1,65 @@
-> *The following text is extracted and transformed from the cotswoldoutdoor.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924192736id_/http%3A//www.cotswoldoutdoor.com/us/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cotswoldoutdoor.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524070859id_/http%3A//www.cotswoldoutdoor.com/us/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and cookies
 
-**We care about your privacy**
+**Privacy Policy**
 
-**This privacy policy covers Cotswold Outdoor Ltd and its websites.**
+**This privacy policy covers Outdoor and Cycle Concepts Ltd, including the cotswoldoutdoor.com website.**
 
-You can browse our website without disclosing any personal data to us. We will store data that you provide us with to allow us to process and fulfil any order requirements and also to provide you with the best possible service.
+We care about your privacy.
 
-Any personal data that you may volunteer whilst using our services e.g. (customer registration, placing an order or requesting a catalogue) will be stored. We will use this data for our own marketing purposes, including market research and to keep you up to date with any product offers or information regarding our stores or direct sales channels.
+We treat your Personal Information as confidential. We keep it on a secure server and we fully comply with the Data Protection Act 1998 and consumer legislation. We reserve the right to disclose this information in the circumstances set out below.
 
-We will only share your personal data with our partners for the purpose of fulfilling your order, providing customer service to you and getting feedback to improve the service we provide.
+Any personal data that you volunteer whilst using our services e.g. your name, e-mail address, billing address, delivery address, contact telephone numbers, favourite outdoor activities, product selections, credit card or other payment information and a password will be stored.
 
-**Protecting your data**
+We may also collect information about where you are on the internet (e.g. the URL you came from, IP address, domain types like .co.uk and .com), your browser type, the country where your computer is located, the pages of our website that were viewed during your visit, and any search terms that you entered on our website ("User Information"). We may collect this information even if you do not register with us.
 
-**The type of information that we will store includes the following;**
+You should be aware that this site is being monitored and may capture information about your visit that will help us improve the quality of our service.
+
+We use your information only for the following purposes:
 
   
 
 
-  * Your name 
-  * Your postal address
-  * Contact telephones numbers
-  * Your e-mail address
-  * Order details
-  * Your favourite outdoor activities
+  * Processing your orders;
+  * For statistical or survey purposes to improve this Website and its services to you;
+  * To serve website content to you;
+  * To administer this website;
+  * If you consent, to notify you of information, products or special offers that may be of interest to you.
 
 
 
-**All information is collected lawfully and in accordance with the Data Protection Act 1998**  
+We may contact you for any of the above purposes whether by telephone, email or in writing.
+
+When you register with us you have the option to receive marketing information from us by post or e-mail, about products, promotions or special offers which we feel may be of interest to you. In the event that you do not wish to be contacted for such purposes, ensure that you tick or untick the appropriate box as you go through the registration process. You may unsubscribe from our contact list at any time by following the unsubscribe link in our emails or through your My Account page on the cotswoldoutdoor.com website.
+
+We will not release your personal information to any company outside of Outdoor and Cycle Concepts Ltd for mailing or marketing purposes unless you have given your consent.
+
+We will only share your personal data with our partners for the purpose of fulfilling your order, providing customer service to you and getting feedback to improve the service we provide.
+
+Be aware that if requested by the police or a government authority investigating suspected illegal activities to provide your Personal Information and/or User Information, we are entitled do so.
+
+We use Cookies to keep track of your current shopping session to personalise your experience and so that you may retrieve your shopping basket at any time - if you do not accept Cookies you will be unable to use this Website. Please check back frequently to see any updates or changes to our privacy policy.
+
+For the purposes of the Data Protection Act 1998, the Data Controller is Outdoor and Cycle Concepts Ltd at the address below. Questions regarding this Policy should be directed to the same address.
+
+  
 
 
-Our website contains links to third party websites operating their own terms and conditions and privacy policies. The Cotswold Outdoor Ltd group is not responsible for the policies of any linked third party sites.
+  * Outdoor and Cycle Concepts Ltd.,
+  * Unit 11 Kemble Business Park,
+  * Crudwell,
+  * Malmesbury,
+  * Wiltshire
+  * SN16 9SH
 
-Our community, www.community.cotswoldoutdoor.com has it’s own privacy policy, which can be found on the tab "Community T&Cs" on the Terms and Conditions page [here](https://www.cotswoldoutdoor.com/index.cfm/fuseaction/pages.help/sub/terms-conditions "View Terms & Conditions")
 
-**Cookies**
+
+Our website contains links to third party websites operating their own terms and conditions and privacy policies. Outdoor and Cycle Concepts Ltd is not responsible for the policies of any linked third party sites.
+
+Our community, community.cotswoldoutdoor.com has it’s own privacy policy, which can be found on the tab "Community T&Cs" on the Terms and Conditions page [here](http://www.cotswoldoutdoor.com/index.cfm/fuseaction/pages.help/sub/terms-conditions "View Terms & Conditions").
+
+**Cookie Policy**
 
 Cookies are tiny text files stored on your computer when you visit certain web pages. We use cookies to keep track of what you have in your basket, and to remember you when you return to our site.
 
@@ -157,4 +181,4 @@ Social media tools on our website:
 
 **Find out more**
 
-If you have a general query, please check our [Help Centre](https://www.cotswoldoutdoor.com/us/help-centre "Help"), which may be able to provide your answer. If you have a more specific question about our Privacy Policy, please [contact us](https://www.cotswoldoutdoor.com/us/contact-us "contact us ").
+If you have a general query, please check our [Help Centre](http://www.cotswoldoutdoor.com/us/help-centre "Help"), which may be able to provide your answer. If you have a more specific question about our Privacy Policy, please [contact us](http://www.cotswoldoutdoor.com/us/contact-us "contact us ").
