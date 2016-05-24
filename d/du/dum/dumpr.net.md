@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dumpr.net privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217201236id_/http%3A//en.picjoke.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dumpr.net privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524214641id_/https%3A//picjoke.net/privacy.php) for the most accurate reproduction.*
 
-# Picjoke Privacy Policy
+# Funny photo effects & free photo frames online. Photofunia. Funny pictures. Photo funny.
+
+##  Privacy Policy 
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at picjoke@picjoke.com. 
 
