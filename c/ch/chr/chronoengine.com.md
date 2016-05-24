@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the chronoengine.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206140703id_/http%3A//www.chronoengine.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chronoengine.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524123540id_/http%3A//www.chronoengine.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ##  [ Privacy Policy](http://www.chronoengine.com/privacy-policy.html)
 
-  * [ Print ](http://www.chronoengine.com/privacy-policy.html?tmpl=component&print=1&page= "Print")
-  * [ Email](http://www.chronoengine.com/component/mailto/?tmpl=component&template=rt_hexeris&link=9b4156122be46c411256dc21e0c29a619065eef1 "Email")
+  * [Print](http://www.chronoengine.com/privacy-policy.html?tmpl=component&print=1&page= "Print")
+  * [Email](http://www.chronoengine.com/component/mailto/?tmpl=component&template=rt_hexeris&link=9b4156122be46c411256dc21e0c29a619065eef1 "Email")
 
 
 
