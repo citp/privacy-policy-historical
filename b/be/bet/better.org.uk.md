@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the better.org.uk privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910215033id_/http%3A//www.better.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the better.org.uk privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524092304id_/http%3A//www.better.org.uk/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Better: The Feel Good Place. Find a centre today.
 
-We respect each individual’s right to personal privacy ("you"/"your"). We will collect and use information through our website only in the ways covered in this statement. This statement applies solely to information collected on our website [www.better.org.uk](https://web.archive.org/web/20150910215033id_/) and [www.gll.org](http://www.gll.org/) ("our website(s)").
+We respect each individual’s right to personal privacy ("you"/"your"). We will collect and use information through our website only in the ways covered in this statement. This statement applies solely to information collected on our website [www.better.org.uk](http://www.better.org.uk/) and [www.gll.org](http://www.gll.org/) ("our website(s)").
 
 For the purposes of the Data Protection Act 1998 ("Act"), the data controller is Greenwich Leisure Ltd ("we"/"our"/"us") of Middlegate House, 1 Seymour Street, Woolwich, London SE18 6SX. Our nominated representative for the purposes of the Act is Philip Donnay.
 
@@ -57,5 +57,3 @@ The Act gives you the right to access information held about you. Your right to 
 ### Contact
 
 If problems arise, please [contact us here](http://www.gll.org/b2b/contact) or at the address given above. We are committed to resolving disputes as soon as possible.
-
-Last updated: April 2013
