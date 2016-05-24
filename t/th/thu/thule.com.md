@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thule.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905054607id_/http%3A//www.thule.com/en-us/us/legal-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thule.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525000715id_/http%3A//www.thule.com/en-us/us/legal-and-privacy-policy) for the most accurate reproduction.*
 
-# Legal and Privacy Policy - Thule
+# Legal and Privacy Policy | Thule | USA
 
 **  
 What information does THULE Group collect and how is it used?**  
@@ -36,7 +36,7 @@ The website might use social media widgets to enable users to engage with conten
 
 **  
 Prices on thule.com?**  
-Prices listed on thule.com are recommended retail price (RRP). Local variations may apply. Contact your [local dealer ](https://web.archive.org/ItemNotFound.aspx?item=web%3a%7bC9DA05DB-5949-47B9-A25C-5B7873C9C42B%7d%40en-US)for more information. 
+Prices listed on thule.com are recommended retail price (RRP). Local variations may apply. Contact your local dealer for more information. 
 
 **How does THULE GROUP protect customer information?**  
 Thule Group maintains high standards to safeguard your personal information at all times, and will carefully protect all such information.
