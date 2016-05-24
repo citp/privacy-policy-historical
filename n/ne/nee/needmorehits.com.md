@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the needmorehits.com privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017013744id_/http%3A//www.needmorehits.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the needmorehits.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524071743id_/http%3A//www.needmorehits.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - NeedMoreHits.com
 
