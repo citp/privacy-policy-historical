@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thewitcher.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107022335id_/http%3A//bar.cdprojektred.com/regulations/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewitcher.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524214004id_/http%3A//regulations.cdprojektred.com/en/privacy_policy) for the most accurate reproduction.*
 
-# Regulations - CD PROJEKT RED
+# 
 
 | 
 
@@ -122,7 +122,7 @@ We may collect and process information about you in the following ways: (a) info
 
 | 
 
-We also collect information about you via cookies. You can find out more about this in our Cookie Policy here: [link](http://bar.cdprojektred.com/regulations/cookie_policy/). The Cookie Policy forms part of this Privacy Policy.
+We also collect information about you via cookies. You can find out more about this in our Cookie Policy here: [link](http://regulations.cdprojektred.com/en/cookie_policy/). The Cookie Policy forms part of this Privacy Policy.
 
 | 
 
@@ -340,7 +340,7 @@ If you don't agree to those changes (regardless of whether you email us), then u
 
 | 
 
-We'd also like to remind you that our User Agreement has more information about how we operate CD PROJEKT RED services and it has a number of sections, which apply to this Privacy Policy too. You can read it at [link](http://bar.cdprojektred.com/regulations/).
+We'd also like to remind you that our User Agreement has more information about how we operate CD PROJEKT RED services and it has a number of sections, which apply to this Privacy Policy too. You can read it at [link](http://regulations.cdprojektred.com/en/user_agreement/).
 
 | 
 
