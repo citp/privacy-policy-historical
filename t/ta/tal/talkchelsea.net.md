@@ -1,17 +1,71 @@
-> *The following text is extracted and transformed from the talkchelsea.net privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424093600id_/http%3A//forum.talkchelsea.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkchelsea.net privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524183747id_/http%3A//talkchelsea.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Talk Chelsea
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our footer and at every point where personally identifiable information may be requested.
+## **Internet Privacy and Cookies Policy**
 
-Log files are maintained and analysed of all requests for files on this website's web servers. Log files do not capture personal information but do capture the user's IP address, which is automatically recognised by our web servers.
+At Talk Chelsea we are committed to safeguarding and preserving the privacy of our visitors. This Privacy Policy document (the “Policy”) has been provided by the legal resource DIY Legals and reviewed and approved by their solicitors.
 
-**Our Commitment to Children's Privacy**  
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+This Policy explains what happens to any personal data that you provide to us, or that we collect from you whilst you visit our site and how we use cookies on this website.
 
-**Cookies**  
-This website does not store any information that would, on its own, allow us to identify individual users of this service without their permission. Any cookies that may be used by this website are used either solely on a per session basis or to maintain user preferences. Cookies are not shared with any third parties. 
+We do update this Policy from time to time so please do review this Policy regularly.
 
-  1.  
+**Information That We Collect**
 
+In running and maintaining our website we may collect and process the following data about you:
 
+* Information about your use of our site including details of your visits such as pages viewed and the resources that you access. Such information includes traffic data, location data and other communication data.
+
+* Information provided voluntarily by you. For example, when you register for information or make a purchase.
+
+* Information that you provide when you communicate with us by any means.
+
+**Use of Cookies**
+
+Cookies provide information regarding the computer used by a visitor. We may use cookies where appropriate to gather information about your computer in order to assist us in improving our website.
+
+We may gather information about your general internet use by using the cookie. Where used, these cookies are downloaded to your computer and stored on the computer’s hard drive. Such information will not identify you personally; it is statistical data which does not identify any personal details whatsoever.
+
+Our advertisers may also use cookies, over which we have no control. Such cookies (if used) would be downloaded once you click on advertisements on our website.
+
+You can adjust the settings on your computer to decline any cookies if you wish. This can be done within the “settings” section of your computer. For more information please read the advice at AboutCookies.org.
+
+TalkChelsea’s cookie policy can be read [here](http://talkchelsea.net/cookiepolicy/ "Cookie Policy").
+
+**Use of Your Information**
+
+We use the information that we collect from you to provide our services to you. In addition to this we may use the information for one or more of the following purposes:
+
+* To provide information to you that you request from us relating to our products or services.
+
+* To provide information to you relating to other products that may be of interest to you. Such additional information will only be provided where you have consented to receive such information.
+
+* To inform you of any changes to our website, services or goods and products.
+
+If you have previously purchased goods or services from us we may provide to you details of similar goods or services, or other goods and services, that you may be interested in.
+
+**We never give your details to third parties to use your data to enable them to provide you with information regarding unrelated goods or services.**
+
+**Storing Your Personal Data**
+
+In operating our website it may become necessary to transfer data that we collect from you to locations outside of the European Union for processing and storing. By providing your personal data to us, you agree to this transfer, storing and processing. We do our utmost to ensure that all reasonable steps are taken to make sure that your data is stored securely.
+
+Unfortunately the sending of information via the internet is not totally secure and on occasion such information can be intercepted. We cannot guarantee the security of data that you choose to send us electronically, sending such information is entirely at your own risk.
+
+**Disclosing Your Information**
+
+We will not disclose your personal information to any other party other than in accordance with this Privacy Policy and in the circumstances detailed below:
+
+* In the event that we sell any or all of our business to the buyer.
+
+* Where we are legally required by law to disclose your personal information.
+
+* To further fraud protection and reduce the risk of fraud.
+
+**Third Party Links**
+
+On occasion we include links to third parties on this website. Where we provide a link it does not mean that we endorse or approve that site’s policy towards visitor privacy. You should review their privacy policy before sending them any personal data.
+
+**Contacting Us**
+
+Please do not hesitate to [contact us](http://talkchelsea.net/contact/ "Contact") regarding any matter relating to this Privacy and Cookies Policy
