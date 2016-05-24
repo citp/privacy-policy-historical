@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chloe.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220234740id_/http%3A//www.chloe.com/en/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chloe.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525004747id_/http%3A//www.chloe.com/en/content/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | Chloé official website
 
