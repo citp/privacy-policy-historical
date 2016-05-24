@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thoughtmechanics.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907211437id_/http%3A//www.thoughtmechanics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thoughtmechanics.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525003725id_/http%3A//www.thoughtmechanics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
