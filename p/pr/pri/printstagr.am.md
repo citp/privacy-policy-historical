@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the printstagr.am privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907005614id_/http%3A//www.printstagr.am/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printstagr.am privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524190132id_/http%3A//www.socialprintstudio.com/privacy.html) for the most accurate reproduction.*
 
-# Printstagram is now Social Print Studio
+# Social Print Studio
 
 Here at Social Print Studio we are committed to protecting your privacy and data as far as we legally can. We have seen Citizenfour and we care. Most privacy policies scare the bejesus out of us, so we've tried to put this in human terms. Let's do this!
 
