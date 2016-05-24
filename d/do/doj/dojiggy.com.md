@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dojiggy.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407235331id_/http%3A//www.dojiggy.com/app/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dojiggy.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524054557id_/http%3A//www.dojiggy.com/app/privacy) for the most accurate reproduction.*
 
-# Privacy Statement | DoJiggy
+# Privacy Policy | DoJiggy
 
 ## Information Collection and Use
 
@@ -35,8 +35,10 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 ## Conflict Resolution
 
-We are committed to resolving disputes within 24-48 hours. If problems arise, users may contact us by email, telephone or fax.
+We are committed to resolving disputes within 24-48 hours. If problems arise, users may contact us by email or telephone. We require a written notification of complaints.
 
 ## Contact Information
 
-If site users have any questions or suggestions regarding our privacy policy, please contact us at phone: 303-395-3456 or fax: 303-265-9028, or by email.
+If site users have any questions or suggestions regarding our privacy policy, please contact us by phone at 303-395-3456 or by email.
+
+DoJiggy Privacy Statement - updated October 2008
