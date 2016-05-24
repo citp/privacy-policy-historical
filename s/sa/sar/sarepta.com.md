@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sarepta.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209025009id_/http%3A//www.sarepta.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarepta.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524120028id_/http%3A//www.sarepta.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sarepta Therapeutics
 
@@ -8,7 +8,7 @@
 
 ### INTRODUCTION
 
-Sarepta Therapeutics, Inc. (" **Sarepta** ", " **Company** " or " **We"** ) respects your privacy and is committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit [**www.sarepta.com**](https://web.archive.org/web/20151209025009id_/http%3A//www.sarepta.com/), [**www.skipahead.com**](http://www.skipahead.com/) and any of our websites (our "Websites") and our practices for collecting, using, maintaining, protecting and disclosing that information.
+Sarepta Therapeutics, Inc. (" **Sarepta** ", " **Company** " or " **We"** ) respects your privacy and is committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit [**www.sarepta.com**](https://web.archive.org/web/20160524120028id_/http%3A//www.sarepta.com/), [**www.skipahead.com**](http://www.skipahead.com/) and any of our websites (our "Websites") and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
 This policy applies to personal and other information we may collect:
 
