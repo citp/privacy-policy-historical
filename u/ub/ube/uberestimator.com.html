@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the uberestimator.com privacy policy that was archived on 2015-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151123231920id_/http%3A//uberestimator.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uberestimator.com privacy policy that was archived on 2016-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160524051737id_/http%3A//uberestimator.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -7,16 +7,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
     <title>Privacy Policy</title>
-    <link href="/css/all.min.css?v=1448168173202" rel="stylesheet" type="text/css">
+    <link href="/css/all.min.css?v=1463862978689" rel="stylesheet" type="text/css">
+    <link rel="dns-prefetch" href="//fonts.googleapis.com">
+    <link rel="dns-prefetch" href="//maps.googleapis.com">
+    <link rel="dns-prefetch" href="//maps.gstatic.com">
+    <link rel="dns-prefetch" href="//www.gstatic.com">
+    <link rel="dns-prefetch" href="//csi.gstatic.com">
+    <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+    <link rel="dns-prefetch" href="//www.google-analytics.com">
+    <link rel="dns-prefetch" href="//pagead2.googlesyndication.com">
+    <link rel="dns-prefetch" href="//nohrgroup.com">
+    
+    
     <meta property="og:image" content="http://uberestimator.com/img/share.png">
     <meta property="og:type" content="website">
-    
-    
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="/js/all.min.js?v=1448168173202"></script></head>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="/js/all.min.js?v=1463862978689"></script></head>
 <body>
 
 <header>
@@ -28,7 +37,7 @@
             <ul>
                 <li><a href="/uber-prices">Uber Prices</a></li>
                 <li><a href="/uber-promo-code">Uber Promo Code</a></li>
-                <li><a href="/popular">Popular Destinations</a></li>
+                <li><a href="/cities">Uber Cities</a></li>
             </ul>
         </nav>
     </div>
@@ -85,7 +94,8 @@
         <div class="r">
             <p>
                 <a href="/privacy">Privacy Policy</a> -
-                <a href="mailto:hello@uberestimator.com">Contact us</a>
+                <a href="mailto:hello@uberestimator.com" onclick="return confirm('This email is for feedback of this estimator only. Click \'OK\' if you want to give us any feedback. Please click on the link \'Uber support\' instead for any other help. Thanks!');">Contact us</a> -
+                <a href="https://help.uber.com/" rel="nofollow" target="_blank">Uber Support</a>
             </p>
         </div>
     </div>
@@ -94,25 +104,29 @@
 <script>
     (function() {
         function loadJS(c,b){var a=document.createElement("script");a.type="text/javascript";a.async=!0;a.readyState?a.onreadystatechange=function(){if("loaded"==a.readyState||"complete"==a.readyState)a.onreadystatechange=null,b&&"function"===typeof b&&b()}:a.onload=function(){b&&"function"===typeof b&&b()};a.src=c;(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(a)};
-        window.addEventListener("load", function() {
+        function init() {
+            window.removeEventListener('load', init);
             var islocal = (window.location.hostname === 'localhost');
-            loadJS('/js/all.min.js?v=1448168173202', function() {
-                var calc = document.getElementById('calculator');
-                var map = document.getElementById('map');
-                if (calc) { loadJS('//maps.googleapis.com/maps/api/js?v=3.exp&signed_in=false&libraries=places&callback=custom.places'); }
-                if (map) { loadJS('//maps.googleapis.com/maps/api/js?v=3.exp&signed_in=false&callback=custom.maps'); }
+            loadJS('/js/all.min.js?v=1463862978689', function() {
+                var calc = document.getElementById('calculator'),
+                        map = document.getElementById('map'),
+                        cities = document.getElementById('cities'),
+                        apikey = 'AIzaSyCIgqgIS-Adzc-zY4W5H9kxSexdnJ9C59I';
+                if (calc) { loadJS('//maps.googleapis.com/maps/api/js?v=3.exp&signed_in=false&libraries=places&callback=custom.places&key=' + apikey); }
+                if (map) { loadJS('//maps.googleapis.com/maps/api/js?v=3.exp&signed_in=false&callback=custom.maps&key=' + apikey); }
                 if (!islocal) { loadJS('//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'); }
             });
             if (!islocal) {
                 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
                         m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
                 })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
                 setTimeout(function() { ga('send', 'event', '20_seconds', 'read'); }, 20000);
                 ga('create', 'UA-1263123-74', 'auto');
                 ga('send', 'pageview');
             }
-        });
+        }
+        window.addEventListener('load', init, false);
     })();
 </script>
 
