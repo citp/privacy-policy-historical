@@ -1,49 +1,133 @@
-> *The following text is extracted and transformed from the mercedes-benz.com.au privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228095223id_/http%3A//www2.mercedes-benz.com.au/content/australia/mpc/mpc_australia__website/en/home_mpc/orivacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercedes-benz.com.au privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524212639id_/http%3A//www2.mercedes-benz.com.au/content/australia/mpc/mpc_australia__website/en/home_mpc/privacy_statement.html) for the most accurate reproduction.*
 
-# Mercedes-Benz Australia - Privacy Statement
+# Privacy Statement
 
-Mercedes-Benz Australia/Pacific Pty Ltd ("MBAuP") respects privacy and personal information. Where MBAuP deals with your personal information, being an Australian company MBAuP is governed by and complies with the National Privacy Principles which are found in Schedule 3 of the Privacy Act 1988 (Cth) (as amended from time to time).
+Mercedes-Benz Australia/Pacific Pty Ltd (ACN 004 411 410) (“we”, “us” or “our”) knows that our use, collection and protection of your personal information is important. We respect your personal information and privacy and are committed to keeping your personal information safe.
 
-MBAuP also complies with the Daimler policy on Data Protection for Data of Customers & Partners.
+Our Privacy Policy applies to customers, potential customers, suppliers, service providers, dealers, contractors, potential employees and temporary staff. This is a brief summary of our full Privacy Policy, details of which can be found by clicking the link below. 
 
-  * [Code of Conduct](https://web.archive.org/content/media_library/hq/hq_mpc_reference_site/general/data_protection_policy_518_en_11-2010_pdf.object-Single-MEDIA.download.tmp/data_protection_policy_518_en_11-2010.pdf)
+  * [Full Privacy Policy ](https://web.archive.org/content/australia/mpc/mpc_australia__website/en/home_mpc/privacy_statement-long.ngrb.html)
 
 
 
-MBAuP collects and uses your information to provide information relating to our products and services that is relevant to your interests.
+## 1.1 Kinds of information we collect and hold
 
-## Information Collection and Use
+We collect information reasonably necessary for or directly related to one or more of our functions or activities. The types of personal information we collect includes but is not limited to your:
 
-• MBAuP collects personal information on this web site for purposes that are made clear on the page on which the information is collected, such as when you request to be sent information.
+  * name; 
+  * gender; 
+  * age and birthdate; 
+  * occupation and employment details; 
+  * contact details; 
+  * address details; 
+  * registration and driver’s licence details; 
+  * credit card and bank account details; 
+  * other financial information; 
+  * current and past vehicle information and details; 
+  * cookies and website tracking; 
+  * location through anti-theft vehicle tracking technology in loan and demonstrator vehicles; 
+  * voice and image; 
+  * educational qualifications and resume; 
+  * personal interests; 
 
-• MBAuP does not collect and process any personal information unless the information is considered necessary for the effective functioning or activities of our business.
 
-• Generally, MBAuP only processes personal information for the purposes for which it was originally collected, unless required or authorised by or under law or if the individual concerned has consented to the intended use. MBAuP destroys or permanently de-identifies personal information that is no longer needed.
 
-• MBAuP does not collect and/or process any personal or sensitive information against the expressed wishes of an individual, unless MBAuP is required by law to do so.
+## 1.2 How we collect your personal information
 
-• You have the right to remain anonymous when entering into transactions with MBAuP, unless such anonymity would be considered unlawful or impracticable.
+We take steps to ensure that we collect personal information by lawful means, and obtain your personal information in various ways including but not limited to:
 
-• MBAuP does not use or pass onto others any personal information without the consent of the individual(s) concerned unless required by law. Nevertheless, MBAuP´s third party service providers may occasionally have access to the personal information held by MBAuP under conditions of confidentiality.
+  * when you contact us (including our customer support centres); 
+  * when you attend one of our or, our authorised dealers’ premises; 
+  * if you order a product or service from us; 
+  * when you provide us with goods or services; 
+  * if you apply to be a dealer or through dealer communications; 
+  * from third party roadside assistance service providers; 
+  * via our websites; 
+  * when you attend a product focus group or review a product; 
+  * via social media; 
+  * from competitions or promotions you have participated in or our events you have attended; 
+  * from publicly available sources; 
+  * from third party service providers; 
+  * when you apply to work with us; 
+  * from other Daimler Group companies; 
+  * from the Austroads Ltd’s National Exchange of Vehicle and Driver Information System if we are conducting a recall; and/or 
+  * from government bodies, enforcement and regulatory authorities.
 
-• MBAuP takes steps to ensure that personal information is kept safe from misuse, loss and unauthorised access, modification and disclosure.
 
-• MBAuP will not transfer personal information to a foreign country unless such a transfer is allowed by law.
 
-## Other Information Uses and Disclosure 
+## 2.1 How we may use personal information
 
-• MBAuP may use information relating to your visit to our website, or information you provide to us, for market research purposes in order to continually improve the product and service that MBAuP delivers to you.
+We collect personal information to provide you with the best possible products and services that we and our authorised dealerships have to offer, to create a more personalised experience for you, and comply with our legal, regulatory, industry or workplace requirements. More specific purposes include but are not limited to:
 
-• On occasions, MBAuP may form relationships with other organisations, designed to bring you special offers or competitions, relevant to your preferences. MBAuP only deals with parties that demonstrate the same level of commitment to your privacy as MBAuP does, and can assure complete compliance with all Australian privacy laws.
+  * any purpose you have consent to; 
+  * buying, selling, repairing and loaning vehicles and parts; 
+  * franchising; 
+  * any related purpose related to one or more of our functions or activities; 
+  * responding to enquiries/complaints; 
+  * providing support; 
+  * fulfilling and processing orders and administering accounts; 
+  * roadside assistance, vehicle warranty, product issues, service measures and recalls; 
+  * marketing, event and promotional activities; 
+  * market research; 
+  * administration; 
+  * recruitment purposes; 
+  * registration of security interests on the personal property securities register; 
+  * checking your details against sanctions lists; and 
+  * to comply with industry, legal and regulatory requirements.
 
-• In the unlikely event that MBAuP sells a part or whole of its business, its records of personal information may be transferred to the new business owner. The information will remain subject to privacy law and until further notified, will remain subject to MBAuP´s privacy policy. If at any stage you are receiving communications from MBAuP and you do not wish to receive any further communications, please let us know.
 
-## Further questions
 
-At all times, MBAuP strives to ensure your personal information is treated confidentially, and in accordance with the Privacy Act 1988 (Cth). If you believe your personal information has been handled in a way that does not comply with the Privacy Act 1988 (Cth), or if you wish to access information that MBAuP holds about you, please contact us. For security reasons, we require that requests for personal information are provided in writing. MBAuP will endeavour to provide you with this access unless MBAuP is required or authorised to refuse such access by the laws of Australia. All such enquiries should be directed to:
+## 2.2 Disclosure
 
-Wilfred D'Mello  
-Chief Security Officer  
+During our day to day business, we may disclose your personal information to third parties outside our organisation, including but not limited to:
+
+  * those that you have consented we disclose your personal information to; 
+  * our authorised dealer network; 
+  * contracted service providers; 
+  * related and other Daimler Group companies; and 
+  * as required by an enforcement authority, regulator, law, court or tribunal.
+
+
+
+## 2.3 Cross border disclosure
+
+During our daily business activities and those of our related and associated entities and service providers, your personal information may be transferred, accessed, processed and/or stored in various countries within Asia, Africa, Europe, North America and other parts of Australasia, but usually in Germany, Singapore, India, United Kingdom and Japan.
+
+Where work or services are undertaken on our behalf, this occurs under conditions of confidentiality and may result in your personal information being transferred, accessed, processed and/or stored (for example, on clouds and servers) in various countries for the purpose of service delivery to us or you.
+
+Unless an exception applies in the Privacy Act, prior to disclosing personal information to overseas recipients we will take reasonable steps in the circumstances to ensure that the overseas recipient adheres to the Australian Privacy Principles (“APPs”).
+
+  * those that you have consented we disclose your personal information to; 
+  * our authorised dealer network; 
+  * contracted service providers; 
+  * related and other Daimler Group companies; and 
+  * as required by an enforcement authority, regulator, law, court or tribunal.
+
+
+
+## 3.1 Access to information we hold about you
+
+In addition to making our Privacy Policy available on our website, we will provide a copy of our Privacy Policy to anyone who requests it free of charge.
+
+At any time you can request access to information we hold about you. We aim to respond to your request within 30 days. We may charge a reasonable fee for information requests. 
+
+If an exception in the Privacy Act applies to your access request, we will work with you and attempt to provide you with access in a way to meet both of our needs. 
+
+## 3.2 Correction of information we hold about you
+
+We also encourage you to actively engage with us and let us know when your details change or if your personal information needs correction or updating via our contact information provided below. 
+
+## 3.3 Complaints and enquiries 
+
+If you are not happy with the way we have handled your personal information or believe that we have breached the Privacy Act or APPs then please contact us and we will try our best to resolve the matter with you. For security reasons, we request that complaints, requests for access to or correction of personal information or any enquiries or questions concerning privacy matters be put in writing and either e-mailed or posted to:
+
+The Privacy Officer  
 Mercedes-Benz Australia/Pacific Pty Ltd  
-Lexia Place  
-Mulgrave Victoria 3170 Australia
+44 Lexia Place   
+Mulgrave, Victoria  
+Australia 3170  
+By phone: 1300 300 896  
+By email: mbaupprivacyofficer@daimler.com 
+
+We may also require documentary proof of your identity depending on your request.  
+For information about privacy generally, or if your concerns are not resolved to your satisfaction, please contact the Office of the Australian Information Commissioner at www.oaic.gov.au or on 1300 363 992.
