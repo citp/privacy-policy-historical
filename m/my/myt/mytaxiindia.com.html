@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mytaxiindia.com privacy policy that was archived on 2015-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151216173317id_/http%3A//www.mytaxiindia.com/privacy_and_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mytaxiindia.com privacy policy that was archived on 2016-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160525125719id_/http%3A//www.mytaxiindia.com/privacy_and_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><!--<![endif]--><head>
     <!-- Page Title -->
@@ -23,7 +23,7 @@
     <link id="main-style" rel="stylesheet" href="http://www.mytaxiindia.com/css_new/style.css">
     <!-- Responsive Styles -->
     <link rel="stylesheet" href="http://www.mytaxiindia.com/css_new/responsive.css">
-     <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="http://www.mytaxiindia.com/js_new/jquery-1.11.1.min.js"></script>
+     <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" charset="utf-8" src="//v2.zopim.com/?3v8UNQzBSqtKHBN3wZFPX3mftMFsi9df" type="text/javascript"></script><script type="text/javascript" src="http://www.mytaxiindia.com/js_new/jquery-1.11.1.min.js"></script>
     <script type="text/javascript" src="http://www.mytaxiindia.com/js_new/send_enquiry_top.js"></script>    
      
     
@@ -38,57 +38,176 @@
       <script type='text/javascript' src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
       <script type='text/javascript' src="http://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js"></script>
     <![endif]-->
-    <!--<script type="text/javascript">
+<script type="text/javascript">
 $(document).ready(function(){ 
-$('#send_us').click(function(){
-$("#await").css("display","block");
-			var name=$('#user_name').val();
-			var email=$('#user_email').val();
-			var mobile=$('#user_mobile_no').val();
-			var query=$('#user_query').val();
-			var cap1 = $('#cap1').val();
-			var cap2 = $('#cap2').val();
-			var captcha = $('#captcha').val();
-			var key	=	'odsjnjs8978s6dcdt6dt6sdcd';
-			var filname = /^[A-Za-z ]+$/;
-			var filmob	= /^[1-9]{1}[0-9]{9}$/;;
-			var filemail= /^[a-zA-Z0-9]+[a-zA-Z0-9_.-]+[a-zA-Z0-9_-]+@[a-zA-Z0-9]+[a-zA-Z0-9.-]+[a-zA-Z0-9]+.[a-z]{2,4}$/;
-			if ($('#check_hotel').is(":checked"))
-			{
-  			var hotel=$("input[name='need_hotel']").val();
-			}
-			else{
-				var hotel = 'NO';
-				}
-			if(filname.test(name)){
-				if(filmob.test(mobile)){
-					if(filemail.test(email)){
-			$.post('http://www.mytaxiindia.com/send_enquiry/send_query/',{name:name,email:email,mobile:mobile,query:query,hotel:hotel,cap1:cap1,cap2:cap2,captcha:captcha,key:key}, show_msg);
-			function show_msg(res){
-			var res	=	res.split("@");
-			if(res[0] == 'Thankyou! we will respond you shortly.'){
-			$("#await").css("display","none");
-            $('#msgg').html(res[0]).css('color','green');
-			//$('#icubewire').text(res[1]);
-			}
-			else{
-			 $('#msgg').html(res);
-			}
-	        }
-			}
-			else{
-			$("#await").css("display","none");
-			$('#msgg').html('Please enter a valid email').css('color','red');
-			}
+/* Register with My Taxi India */
+	$('#RegisterWithMTI').click(function(){		
+	var usr_name	=	$('#exampleInputName').val();
+	var usr_email	=	$('#exampleInputEmail').val();
+	var usr_phone	=	$('#exampleInputMobile').val();
+	var usr_address	=	$('#exampleInputAddress').val();
+	if(checkuser_name_reg()){ 
+		if(checkuser_email_reg()){
+			if(checkuser_phone_reg()){
+				$.post('http://www.mytaxiindia.com//user/registration.php',{name:usr_name,email:usr_email,mobile:usr_phone,addRes:usr_address},function(resp){
+		if(resp == true){
+			$('#suchna').html('Registration Successfull, please check your mail').css('color','green');
+			return true;
 			}else{
-			$("#await").css("display","none");
-			$('#msgg').html('Please enter a valid mobile no.').css('color','red'); }
-			}else {
-			$("#await").css("display","none");
-			$('#msgg').html('Please enter a valid name').css('color','red'); }
+				$('#suchna').html('Already Registered...').css('color','red');
+				return false;
+				}
+		});
+			}else{
+		$('#suchna').html('Please use 10 digits mobile no.').css('color','red');
+		return false;	
+	}}else{
+		$('#suchna').html('Please enter a valid email..').css('color','red');
+		return false;	
+	}}else{		
+		$('#suchna').html('You can use only alphabets and dot(.)').css('color','red');
+		return false;
+		}	
+	
+	function checkuser_name_reg(){ 
+		var usr_name	=	$('#exampleInputName').val();
+		var filter		=	/^[A-Za-z. ]+$/;
+		if(filter.test(usr_name)){  
+				$('#suchna').html('');
+				$('#exampleInputName').removeClass("errorDiv");
+				return true;
+				}else{
+					$('#exampleInputName').addClass("errorDiv");
+					return false;
+					}
+		}
+	
+	function checkuser_email_reg(){
+		var usr_email	=	$('#exampleInputEmail').val();
+		var filter= /^[a-zA-Z0-9_.-]+@[a-zA-Z0-9.-]+.[a-z]{2,4}$/;
+			if(filter.test(usr_email)){
+				$('#suchna').html('');
+				$('#exampleInputEmail').removeClass("errorDiv");
+				return true;
+				}else{
+					$('#exampleInputEmail').addClass("errorDiv");
+					return false;
+					}
+		}
+	
+	function checkuser_phone_reg(){
+		var mb=$('#exampleInputMobile').val();
+			var filter	= /^[1-9]{1}[0-9]{9}$/;
+			if(filter.test(mb)){
+				$('#suchna').html('');
+				$('#exampleInputMobile').removeClass("errorDiv");
+				return true;
+				}else{
+					$('#exampleInputMobile').addClass("errorDiv");
+					return false;
+					}
+		}
+	
+	});
+	/* Sign in with Mytaxi India */
+	$('#praveshdwar').click(function(){	
+		var usr_email	=	$('#exampleInputEmail1').val();
+		var usr_pass	=	$('#exampleInputPassword1').val();
+	if(email_credentials()){ 
+		if(password_credentials()){	
+			$.post('http://www.mytaxiindia.com//user/login.php',{email:usr_email,passW:usr_pass},function(resp){
+		if(resp == true){
+			//$('#loginForm').attr('action','http://127.0.0.1/mti').submit();
+			$('#chk_cred').text('Verifying.....');
+			location.reload(true);
+			}else{
+				$('#loginForm').attr('action','javascript:void(0)');
+				$('#chk_cred').text('Invalid Credentials!').css('color','red');
+				}
+			});		
+			}else{
+				$('#chk_cred').html('Please enter your password...').css('color','red');
+				return false;
+				}
+		}else{
+			$('#chk_cred').html('Incorrect Email...').css('color','red');
+			return false;		
+			}
+		
+	function email_credentials(){
+		var email =  $('#exampleInputEmail1').val();
+		var filter= /^[a-zA-Z0-9_.-]+@[a-zA-Z0-9.-]+.[a-z]{2,4}$/;
+			if(filter.test(email)){
+				$('#chk_cred').html('');
+				$('#exampleInputEmail1').removeClass("errorDiv");
+				return true;
+				}else{
+					$('#exampleInputEmail1').addClass("errorDiv");
+					return false;
+					}
+		}
+	function password_credentials(){
+		var pass	=	$('#exampleInputPassword1').val();
+		if(pass.length > 0){
+				$('#chk_cred').html('');
+				$('#exampleInputPassword1').removeClass("errorDiv");
+				return true;
+				}else{
+					$('#exampleInputPassword1').addClass("errorDiv");
+					return false;
+					}
+		}	
+		});
+	$('#forgot_password').click(function(){
+		$('#chk_cred').text('');
+		$('#loginForm').hide();
+		
+		$('#forgot_password_form').show();
+		});	
+	$('#recover_password').click(function(){
+		var usr_email	=	$('#Email_forgot_password').val();
+		if(email_credentials()){ 
+			$.post('http://www.mytaxiindia.com//user/forgot-password.php',{email:usr_email},function(resp){
+		if(resp == true){
+			$('#chk_cred').text('Your password has been sent to your email address...').css('color','green');
+			}else{
+				$('#chk_cred').text('Invalid Email!').css('color','red');
+				}
+			});		
+		    }else{
+			$('#chk_cred').html('Incorrect Email...').css('color','red');
+			return false;		
+			}
+		
+	function email_credentials(){
+		var email =  $('#Email_forgot_password').val();
+		var filter= /^[a-zA-Z0-9_.-]+@[a-zA-Z0-9.-]+.[a-z]{2,4}$/;
+			if(filter.test(email)){
+				$('#chk_cred').html('');
+				$('#Email_forgot_password').removeClass("errorDiv");
+				return true;
+				}else{
+					$('#Email_forgot_password').addClass("errorDiv");
+					return false;
+					}
+		}
 
-			});});
-</script>-->
+		});	
+			});
+</script>
+<!--Start of Zopim Live Chat Script-->
+<script type="text/javascript">
+<!--Start of Zopim Live Chat Script-->
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+$.src="//v2.zopim.com/?3v8UNQzBSqtKHBN3wZFPX3mftMFsi9df";z.t=+new Date;$.
+type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+
+<!--End of Zopim Live Chat Script-->	
+</script>
+<!--End of Zopim Live Chat Script-->
+
 </head>
 <body>
     <div id="page-wrapper">
@@ -98,84 +217,74 @@ $("#await").css("display","block");
   _gaq.push(['_setDomainName', 'mytaxiindia.com']);
   _gaq.push(['_setAllowLinker', true]);
   _gaq.push(['_trackPageview']);
-
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-
 </script>
-<header id="header" class="navbar-static-top">
-            <div class="main-header">
-   <button class="mobile-menu-toggle" id="mobile-button-cr">
-    <span class="animenu-toggle-bar"></span>
-    <span class="animenu-toggle-bar"></span>
-    <span class="animenu-toggle-bar"></span>
-  	</button>             
-                <div class="container">
-                    <h1 class="logo navbar-brand">
-                        <a href="http://www.mytaxiindia.com/" title="Home">
-                            <img src="http://www.mytaxiindia.com/images_new/logo.png" height="52" alt="">
-                        </a>
-                    </h1>
-                   
-                    <nav id="main-menu" role="navigation">
-                        <ul class="menu">
-			  <li><a href="tel:+918882001133"><i class="mob-icon-header"></i> <span class="header-ph">  (24 X 7) <br><strong>+91 888 - 200 - 1133</strong> </span></a></li>
-                            <!-- <li class="menu-item-has-children">
-                                <a href="http://www.mytaxiindia.com/">Home</a>
-                            </li> -->   
-                            <!--<li class="menu-item-has-children ">
-                                <li class="login-register"><i class="singinicon"></i>
-                                <div id="Invisible" class="logintip">
-			<dl>
-				<dt>
-					<i class="singinicon"></i> <b class="fl padTB5 padLR10">Bijendra Singh</b>
-				</dt>
-				
-                <dd><a href="#">My Trips</a></dd>
-				<dd><a href="#">My GoCash</a></dd>
-				<dd><a href="W">My Traveller Details</a></dd>
-				<dd><a href="#">My Profile</a></dd>
-				<dd><a href="#">Sign Out</a></dd>
-				<dd><a href="#"><i class="icon-print ico21 blue fl padR10 "></i><span class="fl">Print Ticket</span></a></dd>
-			</dl></div>
-                                 <a onclick="showSignin()">Login </a> <span>|</span> <a onclick="showSignup()"> Register</a> </li>
-                            </li>-->
-                           <li class="menu-item-has-children enquirymob">
-                                <a href="javascript:void(0);" onclick="enquiry();"> <i class="enquiry-box"></i><span>Enquiry</span> </a>
-                            </li>
-                          
-                        </ul>
-                    </nav>
-                  
-                </div>
-                
-                <nav id="mobile-menu-02" class="mobile-menu">
-                    <ul id="mobile-primary-menu" class="menu">
-                        <li>
-                            <a href="http://www.mytaxiindia.com/">Home</a>
-                        </li>
-						<li>
-                                <a href="http://www.mytaxiindia.com/contactus.php">Contact Us</a></li>
-                                <li><a href="http://www.mytaxiindia.com/ourteam.php">Our Team</a></li>
-                                <li><a href="http://www.mytaxiindia.com/terms_and_conditions.php">Terms and Conditions</a></li>
-                                <li><a href="http://www.mytaxiindia.com/privacy_and_policy.php">Privacy &amp; Policy</a></li>
-                                <li><a href="http://www.mytaxiindia.com/careers.php">We are Hiring</a></li>
-                          
-						<li>
-                                <a href="javascript:void(0);" onclick="enquiry();">Enquiry</a>
-                            </li>
-                            
-                    
-                
-               
-					 </ul>                    
-                </nav>
-            </div>
-        </header>
-<section id="content" class="gray-area">
+      <header id="header" class="navbar-static-top">
+        <div class="main-header">        
+          <button id="mobile-button-cr" class="mobile-menu-toggle">
+            <span class="animenu-toggle-bar"></span>
+            <span class="animenu-toggle-bar"></span>
+            <span class="animenu-toggle-bar"></span>
+          </button>    
+          <div class="container">
+            <h1 class="logo navbar-brand">
+              <a href="http://www.mytaxiindia.com" title="Home">
+                <img src="http://www.mytaxiindia.com/images_new/logo.png" height="52" alt="">
+              </a>
+            </h1>
+            <nav id="main-menu">
+             <ul class="menu-mobile">
+               <li class="loginformob">
+                 <i class="fa fa-user"></i>
+                 <i class="soap-icon-roundtriangle-bottom"></i>
+                  <ul class="mobloginbox"><i class="fa fa-times-circle"></i>
+                                      <li><a onclick="showSignup()">Register</a></li>
+                 	 <li> <a onclick="showSignup()">Sign In </a> </li>
+                                     </ul>
+               	</li>
+               </ul>
+                              <ul class="menu">
+               <li class="fr">
+                <span class="enquirybox"> <i class="fa fa-envelope-o"></i><a href="javascript:void(0);" onclick="enquiry();"> Enquiry </a> </span>
+                 <span class="phonebox"><i class="fa fa-phone"></i><a href="tel:+918882001133">+91 888 - 200 - 1133 </a></span>
+               </li> 
+            	<li class="menu-item-has-children ">
+               </li><li class="login-register"><ul>
+                  <span class="menuwhbg"><a href="javascript:void(0);" onclick="attachTaxi();">Attach Taxi </a></span>
+                  <span class="attach-taxi"><a href="http://www.mytaxiindia.com/taxi-packages.php">Taxi Packages</a></span> <span class="menuwhbg offallmenu"></span>
+                  <span class="menuwhbg"><a onclick="showSignup()"> Register/Sign In</a></span>
+                </ul>
+                </li>
+             
+            	     </ul>
+        </nav>
+      </div>
+          <nav id="mobile-menu-02" class="mobile-menu" style="display:none;">
+            <ul class="menu2">
+              <li><a href="http://www.mytaxiindia.com/">Home</a></li>
+              <li><a href="javascript:void(0);" onclick="attachTaxi();">Attach Taxi</a></li>
+              <li><a href="http://www.mytaxiindia.com/taxi-packages.php">Taxi Packages</a></li>
+              <li class="menutabclick helpalltext"> <a href="javascript:void(0);">24x7</a>
+               <ul><i class="soap-icon-chevron-down"></i>
+                 <li><a onclick="cancelTicket()" href="javascript:void(0);">Cancel Ticket <i class="fa fa-ticket"></i></a></li>
+                 <li><a onclick="refundStatus()" href="javascript:void(0);">Refund Status <i class="fa fa-inr"></i></a></li>
+                 <!--<li><a onclick="enquiry()" href="javascript:void(0);">Enquiry <i class="fa fa-envelope-o"></i></a></li>-->
+               </ul>
+             </li>
+             <li><a href="http://www.mytaxiindia.com/contact.php">Contact Us</a></li>
+             <li><a href="http://www.mytaxiindia.com/ourteam.php">Our Team</a></li>
+             <li><a href="http://www.mytaxiindia.com/terms-and-conditions.php">Terms and Conditions</a></li>
+             <li><a href="http://www.mytaxiindia.com/privacy-and-policy.php">Privacy &amp; Policy</a></li>
+             <li><a href="http://www.mytaxiindia.com/careers.php">We are Hiring</a></li>
+             <li><a href="javascript:void(0);" onclick="enquiry();">Enquiry</a></li>
+           </ul>
+         </nav>
+       </div>
+     </header><section id="content" class="gray-area">
   <div class="allpage">
             <div class="page-info-heading">
 
@@ -260,751 +369,789 @@ If you believe that any information we are holding on you is incorrect or incomp
 </section>
         <footer id="footer" class="style5">
 <a href="#" class="scrollup" style="display: none;"><i class="fa fa-chevron-up"></i></a>           
- <div class="footer-wrapper">
-                <div class="container">
-                    <div class="row"> 
-                        <div class="col-sm-6 col-md-3 footer-box routers-hide">
-                            <h2>All about mytaxiindia<i></i></h2>
-                            <ul class="circle bullet-orange linkDis">
-                                <li><a href="http://www.mytaxiindia.com/aboutus.php">About Us</a></li>
-                                <li><a href="http://www.mytaxiindia.com/contactus.php">Contact Us</a></li>
-                                <li><a href="http://www.mytaxiindia.com/ourteam.php">Our Team</a></li>
-                                <li><a href="http://www.mytaxiindia.com/terms_and_conditions.php">Terms and Conditions</a></li>
-                                <li><a href="http://www.mytaxiindia.com/privacy_and_policy.php">Privacy &amp; Policy</a></li>
-                                <li><a href="http://www.mytaxiindia.com/cancellation-and-refund.php">Cancellation &amp; Refund Policy</a></li>
-                                <li><a href="http://www.mytaxiindia.com/careers.php">We are Hiring</a></li>
-                             </ul>
-                            <br>
-                        </div>
-                        <div class="col-sm-6 col-md-3 footer-box footer-linetb routers-hide">
-                            <h2>Top <strong>Routes</strong> <i></i></h2>
-                            <ul class="circle bullet-orange linkDis">
-                                <li><a href="http://www.mytaxiindia.com/delhi-to-manali-taxi.php">Delhi to Manali</a></li>
-                                <li><a href="http://www.mytaxiindia.com/mumbai-to-shirdi-taxi.php">Mumbai to Shirdi</a></li>
-                                <li><a href="http://www.mytaxiindia.com/chandigarh-to-shimla-taxi.php">Chandigarh to Shimla</a></li>
-                                <li><a href="http://www.mytaxiindia.com/kalka-to-shimla-taxi.php">Kalka to Shimla</a></li>
-                                <li><a href="http://www.mytaxiindia.com/jammu-to-katra-taxi.php">Jammu to Katra</a></li>
-                                <li><a href="http://www.mytaxiindia.com/pune-to-shirdi-taxi.php">Pune to Shirdi</a></li>
-                                <li><a href="http://www.mytaxiindia.com/delhi-to-agra-taxi.php">Delhi to Agra </a></li>
-                            </ul>
-                            <br>
-                        </div>
-                        <div class="col-sm-6 col-md-2 col-lg-2 footer-box footer-linetb routers-hide">
-                            <h2>Top <strong>Cities</strong> <i></i></h2>
-                            <ul class="circle bullet-orange linkDis">
-                                <li><a href="http://www.mytaxiindia.com/car-rental-in-delhi.php">Delhi</a></li>
-                                <li><a href="http://www.mytaxiindia.com/car-rental-mumbai.php">Mumbai</a></li>
-                                <li><a href="http://www.mytaxiindia.com/car-rental-kolkata.php">kolkata</a></li>
-                                <li><a href="http://www.mytaxiindia.com/car-rental-chennai.php">Chennai</a></li>
-                                <li><a href="http://www.mytaxiindia.com/car-rental-bangalore.php">Banglore</a></li>
-                                <li><a href="http://www.mytaxiindia.com/car-rental-jammu.php">Jammu</a></li>
-                                <li><a href="http://www.mytaxiindia.com/car-rental-shirdi.php">Shirdi</a></li>
-                            </ul>
-                            <br>
-                        </div>
-                         <div class="col-sm-6 col-md-4">
-                            <address class="contact-details">
-                                <h3 class="contact-phone">Get to know us better now!<span>Share your Products over the Social Networks</span></h3>
-                            </address>
-                            <ul class="social-icons clearfix">
-                                <li class="twitter"><a title="" href="https://twitter.com/mytaxiindia/" data-toggle="tooltip" data-original-title="twitter"><i class="soap-icon-twitter"></i></a></li>
-                                <li class="googleplus"><a title="" href="https://plus.google.com/+Mytaxiindia" data-toggle="tooltip" data-original-title="googleplus"><i class="soap-icon-googleplus"></i></a></li>
-                                <li class="facebook"><a title="" href="http://www.facebook.com/pages/My-Taxi-India/151060494928898" data-toggle="tooltip" data-original-title="facebook"><i class="soap-icon-facebook"></i></a></li>
-                                <li class="linkedin"><a title="" href="https://www.linkedin.com/company/mytaxiindia-com" data-toggle="tooltip" data-original-title="linkedin"><i class="soap-icon-linkedin"></i></a></li>
-                             </ul>
-                            <br>
-                            <div class=" marginB10 marginT10">
-                                 <!--<img src="images_new/iso-registered.png" alt="">-->
-                            </div>
-                            <!--<div class="customer-box">Customer Support <span class="time-heading">( 9:00 AM - 9:00 PM )</span> <span class="phone-box" ><i ></i>+91 888 - 200 - 1133</span></div>-->
-                        </div>
-                    </div>
-                </div>
-                <div class="container marginT15 routers-hide">
-                    <hr>
-                </div>
-                <div class="container routers-hide">
-                <div class="row routers-hide">
-                    <div class="col-md-2 text-left">
-                        <h2 class="car-services">Car <strong>From</strong> <i></i></h2>
-                    </div>
-                    <div class="col-md-10">
-                        <span class="footer-line car-services"><a href="http://www.mytaxiindia.com/chandigarh-to-shimla-taxi.php" title="chandigarh to shimla">
-Chandigarh to Shimla</a> |
-<a href="http://www.mytaxiindia.com/kalka-to-shimla-taxi.php" title="kalka to shimla">
-Kalka to Shimla</a> |
-<a href="http://www.mytaxiindia.com/delhi-to-shimla-taxi.php" title="delhi to shimla">
-Delhi to Shimla</a> |
-<a href="http://www.mytaxiindia.com/jammu-to-srinagar-taxi.php" title="jammu to srinagar">
-Jammu to Srinagar</a> |
-<a href="http://www.mytaxiindia.com/delhi-to-chandigarh-taxi.php" title="delhi to chandigarh">
-Delhi to Chandigarh</a> |
-<a href="http://www.mytaxiindia.com/delhi-to-manali-taxi.php" title="delhi to manali">
-Delhi to Manali</a> |
-<a href="http://www.mytaxiindia.com/jammu-to-katra-taxi.php" title="jammu to katra">
-Jammu to Katra</a> |
-<a href="http://www.mytaxiindia.com/delhi-to-agra-taxi.php" title="delhi to agra">
-Delhi to Agra</a> |
-<a href="http://www.mytaxiindia.com/delhi-to-jaipur-taxi.php" title="delhi to jaipur">
-Delhi to Jaipur</a> |
-<a href="http://www.mytaxiindia.com/chandigarh-to-manali-taxi.php" title="chandigarh to manali">
-Chandigarh to Manali</a> |
-<a href="http://www.mytaxiindia.com/mumbai-to-shirdi-taxi.php" title="mumbai to shirdi">
-Mumbai to Shirdi</a> |
-<a href="http://www.mytaxiindia.com/pune-to-shirdi-taxi.php" title="pune to shirdi">
-Pune to Shirdi</a> |
-<a href="http://www.mytaxiindia.com/nashik-to-shirdi-taxi.php" title="nashik to shirdi">
-Nashik to Shirdi</a> |
-<a href="http://www.mytaxiindia.com/aurangabad-to-shirdi-taxi.php" title="aurangabad to shirdi">
-Aurangabad to Shirdi</a> |
-<a href="http://www.mytaxiindia.com/chennai-to-tirupati-taxi.php" title="chennai to tirupati">
-Chennai to Tirupati</a> |
-<a href="http://www.mytaxiindia.com/bangalore-to-tirupati-taxi.php" title="bangalore to tirupati">
-Bangalore to Tirupati</a> |
-<a href="http://www.mytaxiindia.com/madurai-to-rameshwaram-taxi.php" title="madurai to rameshwaram">
-Madurai to Rameshwaram</a> |
-<a href="http://www.mytaxiindia.com/madurai-to-kanyakumari-taxi.php" title="madurai to kanyakumari">
-Madurai to Kanyakumari</a> |
-<a href="http://www.mytaxiindia.com/delhi-to-khatushyam-taxi.php" title="delhi to khatushyam">
-Delhi to Khatushyam</a> |
-</span>
-                    </div>
+<div class="footer-wrapper">
+    <div class="container">
+        <div class="row"> 
+            <div class="col-sm-6 col-md-3 footer-box routers-hide">
+                <ul class="circle bullet-orange linkDis">
+                   <li><a href="http://www.mytaxiindia.com/aboutus.php">About Us</a></li>
+                   <li><a href="http://www.mytaxiindia.com/contact.php">Contact Us</a></li>
+                   <li><a href="http://www.mytaxiindia.com/ourteam.php">Our Team</a></li>
+                   <li><a href="http://www.mytaxiindia.com/terms-and-conditions.php">Terms and Conditions</a></li>
+                   <li><a href="http://www.mytaxiindia.com/privacy-and-policy.php">Privacy &amp; Policy</a></li>
+                   <li><a href="http://www.mytaxiindia.com/cancellation-and-refund.php">Cancellation &amp; Refund Policy</a></li>
+                    <li><a href="http://www.mytaxiindia.com/careers.php">We are Hiring</a></li>
+                   <!-- <li><a href="#">Press</a></li>-->
+                    <li><a href="https://mytaxiindiablog.wordpress.com" target="_blank">Blog</a></li>
+                 </ul>
+                <br>
+            </div>
+            <div class="col-sm-6 col-md-2 footer-box footer-linetb routers-hide">
+                <h2>Top <strong>Routes</strong> <i></i></h2>
+                <ul class="circle bullet-orange linkDis">
+                <li><a href="http://www.mytaxiindia.com/delhi-to-manali-taxi.php">Delhi to Manali</a></li>
+                <li><a href="http://www.mytaxiindia.com/mumbai-to-shirdi-taxi.php">Mumbai to Shirdi</a></li>
+               <li><a href="http://www.mytaxiindia.com/chandigarh-to-shimla-taxi.php">Chandigarh to Shimla</a></li>
+               <li><a href="http://www.mytaxiindia.com/kalka-to-shimla-taxi.php">Kalka to Shimla</a></li>
+               <li><a href="http://www.mytaxiindia.com/jammu-to-katra-taxi.php">Jammu to Katra</a></li>
+               <li><a href="http://www.mytaxiindia.com/pune-to-shirdi-taxi.php">Pune to Shirdi</a></li>
+               <li><a href="http://www.mytaxiindia.com/delhi-to-agra-taxi.php">Delhi to Agra </a></li>
+                </ul>
+                <br>
+            </div>
+            <div class="col-sm-6 col-md-2 col-lg-2 footer-box footer-linetb routers-hide">
+
+                <h2>Top <strong>Cities</strong> <i></i></h2>
+                <ul class="circle bullet-orange linkDis">
+                    <li><a href="http://www.mytaxiindia.com/car-rental-in-delhi.php">Delhi</a></li>
+                    <li><a href="http://www.mytaxiindia.com/car-rental-mumbai.php">Mumbai</a></li>
+                    <li><a href="http://www.mytaxiindia.com/car-rental-kolkata.php">kolkata</a></li>
+                    <li><a href="http://www.mytaxiindia.com/car-rental-chennai.php">Chennai</a></li>
+                    <li><a href="http://www.mytaxiindia.com/car-rental-bangalore.php">Banglore</a></li>
+                    <li><a href="http://www.mytaxiindia.com/car-rental-jammu.php">Jammu</a></li>
+                    <li><a href="http://www.mytaxiindia.com/car-rental-shirdi.php">Shirdi</a></li>
+                </ul>
+                <br>
+            </div>
+             <div class="col-sm-6 col-md-5">
+                <address class="contact-details ">
+                    <h3 class="contact-phone">Get to know us better now!<span>Share your Products over the Social Networks</span></h3>
+                </address>
+                <ul class="social-icons clearfix">
+                    <li class="twitter"><a title="" href="https://twitter.com/mytaxiindia/" data-toggle="tooltip" data-original-title="twitter"><i class="soap-icon-twitter"></i></a></li>
+          <!--          <li class="googleplus"><a title="" href="https://plus.google.com/+Mytaxiindia" data-toggle="tooltip" data-original-title="googleplus"><i class="soap-icon-googleplus"></i></a></li>-->
+                    <li class="facebook"><a title="" href="http://www.facebook.com/pages/My-Taxi-India/151060494928898" data-toggle="tooltip" data-original-title="facebook"><i class="soap-icon-facebook"></i></a></li>
+                    <li class="linkedin"><a title="" href="https://www.linkedin.com/company/mytaxiindia-com" data-toggle="tooltip" data-original-title="linkedin"><i class="soap-icon-linkedin"></i></a></li>
+                 </ul>
+            
+                <address class="contact-details marginT10 routers-hide">
                     
-                   </div> 
-                </div>
+                    <span class="fl marginR20">
+                    <h3 class="contact-phone downloadapp">Download App</h3>
+                    <span class="appfoterbg"></span>
+                    <span class="app-lastfoterbg"></span></span>
+                    <span class="fl">
+                      <h3 class="contact-phone downloadapp">Payment Method</h3>
+                    <img src="http://www.mytaxiindia.com/images_new/visa-master-card.jpg">
+                    </span>
+                </address>
+                <div class="fl width100 marginT10"></div>
+            </div>
+        </div>
+    </div>
+    <div class="container routers-hide">
         
-                <div class="container routers-hide">
-                <div class="row marginB10">
-                    <div class="col-md-2 text-left">
-                        <h2 class="car-services">Car <strong>Services</strong> <i></i></h2>
-                    </div>
-                    <div class="col-md-10">
-                        <span class="footer-line car-services"><a href="http://www.mytaxiindia.com/car-rental-kashmir.php" title="Kashmir">Kashmir</a> |
-<a href="http://www.mytaxiindia.com/car-rental-jaipur.php" title="Jaipur">Jaipur</a> |
-<a href="http://www.mytaxiindia.com/car-rental-rajasthan.php" title="Rajasthan">Rajasthan</a> |
-<a href="http://www.mytaxiindia.com/car-rental-tirupati.php" title="Tirupati">Tirupati</a> |
-<a href="http://www.mytaxiindia.com/car-rental-aurangabad.php" title="Aurangabad">Aurangabad</a> |
-<a href="http://www.mytaxiindia.com/car-rental-madurai.php" title="Madurai">Madurai</a> |
-<a href="http://www.mytaxiindia.com/car-rental-orissa.php" title="Orissa">Orissa</a> |
-<a href="http://www.mytaxiindia.com/car-rental-indore.php" title="Indore">Indore</a> |
-<a href="http://www.mytaxiindia.com/car-rental-haridwar.php" title="Haridwar">Haridwar</a> |
-<a href="http://www.mytaxiindia.com/car-rental-dehradun.php" title="Dehradun">Dehradun</a> |
-<a href="http://www.mytaxiindia.com/car-rental-shimla.php" title="Shimla">Shimla</a> |
-<a href="http://www.mytaxiindia.com/car-rental-mysore.php" title="Mysore">Mysore</a> |
-<a href="http://www.mytaxiindia.com/car-rental-kanyakumari.php" title="Kanyakumari">Kanyakumari</a> |
-<a href="http://www.mytaxiindia.com/car-rental-andhrapradesh.php" title="Andhra Pradesh">Andhra Pradesh</a> |
-<a href="http://www.mytaxiindia.com/car-rental-newjalpaiguri.php" title="New jalpaiguri">New jalpaiguri</a> |
-<a href="http://www.mytaxiindia.com/car-rental-jaisalmer.php" title="Jaisalmer">Jaisalmer</a> |
-<a href="http://www.mytaxiindia.com/car-rental-amritsar.php" title="Amritsar">Amritsar</a> |
-<a href="http://www.mytaxiindia.com/car-rental-haryana.php" title="Haryana">Haryana</a> |
-<a href="http://www.mytaxiindia.com/car-rental-corbett.php" title="Corbett">Corbett</a> |
-<a href="http://www.mytaxiindia.com/car-rental-gaya.php" title="Gaya">Gaya</a> |
-<a href="http://www.mytaxiindia.com/car-rental-ujjain.php" title="Ujjain">Ujjain</a> |
-<a href="http://www.mytaxiindia.com/car-rental-ranchi.php" title="Ranchi">Ranchi</a> |
-<a href="http://www.mytaxiindia.com/car-rental-mussoorie.php" title="Mussoorie">Mussoorie</a> |
-<a href="http://www.mytaxiindia.com/car-rental-nagpur.php" title="Nagpur">Nagpur</a> |
-<a href="http://www.mytaxiindia.com/car-rental-lonawala.php" title="Lonavala">Lonavala</a> |
-<a href="http://www.mytaxiindia.com/car-rental-katra.php" title="Katra">Katra</a> |
-<a href="http://www.mytaxiindia.com/car-rental-vadodara.php" title="Vadodara">Vadodara</a> |
-<a href="http://www.mytaxiindia.com/car-rental-sikkim.php" title="Sikkim">Sikkim</a> |
-<a href="http://www.mytaxiindia.com/car-rental-india.php" title="India">India</a> |
-<a href="http://www.mytaxiindia.com/car-rental-ludhiana.php" title="Ludhiana">Ludhiana</a> |
-<a href="http://www.mytaxiindia.com/car-rental-uttarpradesh.php" title="Uttar Pradesh">Uttar Pradesh</a> |
-<a href="http://www.mytaxiindia.com/car-rental-agra.php" title="Agra">Agra</a> |
-<a href="http://www.mytaxiindia.com/car-rental-noida.php" title="Noida">Noida</a> |
-<a href="http://www.mytaxiindia.com/car-rental-madhyapradesh.php" title="Madhya Pradesh">Madhya Pradesh</a> |
-<a href="http://www.mytaxiindia.com/car-rental-orchcha.php" title="Orchha">Orchha</a> |
-<a href="http://www.mytaxiindia.com/car-rental-dharamshala.php" title="Dharamshala">Dharamshala</a> |
-<a href="http://www.mytaxiindia.com/car-rental-himachal.php" title="Himachal">Himachal</a> |
-<a href="http://www.mytaxiindia.com/car-rental-leh.php" title="Leh">Leh</a> |
-<a href="http://www.mytaxiindia.com/car-rental-gangtok.php" title="Gangtok">Gangtok</a> |
-<a href="http://www.mytaxiindia.com/car-rental-hubli.php" title="Hubli">Hubli</a> |
-<a href="http://www.mytaxiindia.com/car-rental-ooty.php" title="Ooty">Ooty</a> |
-<a href="http://www.mytaxiindia.com/car-rental-hampi.php" title="Hampi">Hampi</a> |
-<a href="http://www.mytaxiindia.com/car-rental-coimbatore.php" title="Coimbatore">Coimbatore</a> |
-<a href="http://www.mytaxiindia.com/car-rental-visakhapatnam.php" title="Visakhapatnam">Visakhapatnam</a> |
-<a href="http://www.mytaxiindia.com/car-rental-darjeeling.php" title="Darjeeling">Darjeeling</a> |
-<a href="http://www.mytaxiindia.com/car-rental-jalandhar.php" title="Jalandhar">Jalandhar</a> |
-<a href="http://www.mytaxiindia.com/car-rental-lucknow.php" title="Lucknow">Lucknow</a> |
-<a href="http://www.mytaxiindia.com/car-rental-mathur.php" title="Mathura">Mathura</a> |
-<a href="http://www.mytaxiindia.com/car-rental-uttaranchal.php" title="Uttaranchal">Uttaranchal</a> |
-<a href="http://www.mytaxiindia.com/car-rental-rishikesh.php" title="Rishikesh">Rishikesh</a> |
-<a href="http://www.mytaxiindia.com/car-rental-khajuraho.php" title="Khajuraho">Khajuraho</a> |
-<a href="http://www.mytaxiindia.com/car-rental-ladakh.php" title="Ladakh">Ladakh</a> |
-<a href="http://www.mytaxiindia.com/car-rental-bhuvaneshwar.php" title="Bhubaneswar">Bhubaneswar</a> |
-<a href="http://www.mytaxiindia.com/car-rental-assam.php" title="Assam">Assam</a> |
-<a href="http://www.mytaxiindia.com/car-rental-portblair.php" title="Portblair">Portblair</a> |
-<a href="http://www.mytaxiindia.com/car-rental-kovalam.php" title="Kovalam">Kovalam</a> |
-<a href="http://www.mytaxiindia.com/car-rental-karnataka.php" title="Karnataka">Karnataka</a> |
-<a href="http://www.mytaxiindia.com/car-rental-tamilnadu.php" title="Tamilnadu">Tamilnadu</a> |
-<a href="http://www.mytaxiindia.com/car-rental-thanjavur.php" title="Thanjavur">Thanjavur</a> |
-<a href="http://www.mytaxiindia.com/car-rental-vijayawada.php" title="Vijayawada">Vijayawada</a> |
-<a href="http://www.mytaxiindia.com/car-rental-bikaner.php" title="Bikaner">Bikaner</a> |
-<a href="http://www.mytaxiindia.com/car-rental-punjab.php" title="Punjab">Punjab</a> |
-<a href="http://www.mytaxiindia.com/car-rental-mohali.php" title="Mohali">Mohali</a> |
-<a href="http://www.mytaxiindia.com/car-rental-meerut.php" title="Meerut">Meerut</a> |
-<a href="http://www.mytaxiindia.com/car-rental-jhansi.php" title="Jhansi">Jhansi</a> |
-<a href="http://www.mytaxiindia.com/car-rental-bihar.php" title="Bihar">Bihar</a> |
-<a href="http://www.mytaxiindia.com/car-rental-bhopal.php" title="Bhopal">Bhopal</a> |
-<a href="http://www.mytaxiindia.com/car-rental-jabalpur.php" title="Jabalpur">Jabalpur</a> |
-<a href="http://www.mytaxiindia.com/car-rental-maharastra.php" title="Maharastra">Maharastra</a> |
-<a href="http://www.mytaxiindia.com/car-rental-manali.php" title="Manali">Manali</a> |
-<a href="http://www.mytaxiindia.com/car-rental-gujrat.php" title="Gujrat">Gujrat</a> |
-<a href="http://www.mytaxiindia.com/car-rental-guwahati.php" title="Guwahati">Guwahati</a> |
-<a href="http://www.mytaxiindia.com/car-rental-imphal.php" title="Imphal">Imphal</a> |
-<a href="http://www.mytaxiindia.com/car-rental-kozhikode.php" title="Kozhikode">Kozhikode</a> |
-<a href="http://www.mytaxiindia.com/car-rental-mangalore.php" title="Mangalore">Mangalore</a> |
-<a href="http://www.mytaxiindia.com/car-rental-tiruchirapally.php" title="Tiruchirapally">Tiruchirapally</a> |
-<a href="http://www.mytaxiindia.com/car-rental-bagdogra.php" title="Bagdogra">Bagdogra</a> |
-<a href="http://www.mytaxiindia.com/car-rental-jodhpur.php" title="Jodhpur">Jodhpur</a> |
-<a href="http://www.mytaxiindia.com/car-rental-pathankot.php" title="Pathankot">Pathankot</a> |
-<a href="http://www.mytaxiindia.com/car-rental-varanasi.php" title="Varanasi">Varanasi</a> |
-<a href="http://www.mytaxiindia.com/car-rental-nainital.php" title="Nainital">Nainital</a> |
-<a href="http://www.mytaxiindia.com/car-rental-patna.php" title="Patna">Patna</a> |
-<a href="http://www.mytaxiindia.com/car-rental-gwalior.php" title="Gwalior">Gwalior</a> |
-<a href="http://www.mytaxiindia.com/car-rental-nashik.php" title="Nashik">Nashik</a> |
-<a href="http://www.mytaxiindia.com/car-rental-kullu.php" title="Kullu">Kullu</a> |
-<a href="http://www.mytaxiindia.com/car-rental-jharkhand.php" title="Jharkhand">Jharkhand</a> |
-<a href="http://www.mytaxiindia.com/car-rental-kerala.php" title="Kerala">Kerala</a> |
-<a href="http://www.mytaxiindia.com/car-rental-udaipur.php" title="Udaipur">Udaipur</a> |
-</span></div>
-                    </div>
-                      </div>
-             
-            <!--<div class="bottom gray-area">
-                <div class="container">
-                    <div class="logo pull-left">
-
-                    </div>
-                   
-                   
-                </div>
-            </div>-->
-             <div class="copyright text-center">
-                        <a>© 2015 My Taxi India</a>
-                    </div>
-      
+    </div>
+    <div class="container routers-hide more-box-hide">
+    <div class="row routers-hide">
+    <div class="col-sm-12 col-md-6 footer-box">
+    <h2 class="car-services">Car <strong>From</strong> <i></i></h2>
+     <div class="scrollbar" id="style-4">
+<div class="force-overflow footer-box">
+<ul class="circle bullet-orange linkDis">
+                   <li><a href="http://www.mytaxiindia.com/chandigarh-to-shimla-taxi.php" title="chandigarh to shimla">
+Chandigarh to Shimla</a> </li>
+<li><a href="http://www.mytaxiindia.com/kalka-to-shimla-taxi.php" title="kalka to shimla">
+Kalka to Shimla</a> </li>
+<li><a href="http://www.mytaxiindia.com/delhi-to-shimla-taxi.php" title="delhi to shimla">
+Delhi to Shimla</a> </li>
+<li><a href="http://www.mytaxiindia.com/jammu-to-srinagar-taxi.php" title="jammu to srinagar">
+Jammu to Srinagar</a> </li>
+<li><a href="http://www.mytaxiindia.com/delhi-to-chandigarh-taxi.php" title="delhi to chandigarh">
+Delhi to Chandigarh</a> </li>
+<li><a href="http://www.mytaxiindia.com/delhi-to-manali-taxi.php" title="delhi to manali">
+Delhi to Manali</a> </li>
+<li><a href="http://www.mytaxiindia.com/jammu-to-katra-taxi.php" title="jammu to katra">
+Jammu to Katra</a> </li>
+<li><a href="http://www.mytaxiindia.com/delhi-to-agra-taxi.php" title="delhi to agra">
+Delhi to Agra</a> </li>
+<li><a href="http://www.mytaxiindia.com/delhi-to-jaipur-taxi.php" title="delhi to jaipur">
+Delhi to Jaipur</a> </li>
+<li><a href="http://www.mytaxiindia.com/chandigarh-to-manali-taxi.php" title="chandigarh to manali">
+Chandigarh to Manali</a> </li>
+<li><a href="http://www.mytaxiindia.com/mumbai-to-shirdi-taxi.php" title="mumbai to shirdi">
+Mumbai to Shirdi</a> </li>
+<li><a href="http://www.mytaxiindia.com/pune-to-shirdi-taxi.php" title="pune to shirdi">
+Pune to Shirdi</a> </li>
+<li><a href="http://www.mytaxiindia.com/nashik-to-shirdi-taxi.php" title="nashik to shirdi">
+Nashik to Shirdi</a> </li>
+<li><a href="http://www.mytaxiindia.com/aurangabad-to-shirdi-taxi.php" title="aurangabad to shirdi">
+Aurangabad to Shirdi</a> </li>
+<li><a href="http://www.mytaxiindia.com/chennai-to-tirupati-taxi.php" title="chennai to tirupati">
+Chennai to Tirupati</a> </li>
+<li><a href="http://www.mytaxiindia.com/bangalore-to-tirupati-taxi.php" title="bangalore to tirupati">
+Bangalore to Tirupati</a> </li>
+<li><a href="http://www.mytaxiindia.com/madurai-to-rameshwaram-taxi.php" title="madurai to rameshwaram">
+Madurai to Rameshwaram</a> </li>
+<li><a href="http://www.mytaxiindia.com/madurai-to-kanyakumari-taxi.php" title="madurai to kanyakumari">
+Madurai to Kanyakumari</a> </li>
+<li><a href="http://www.mytaxiindia.com/delhi-to-khatushyam-taxi.php" title="delhi to khatushyam">
+Delhi to Khatushyam</a> </li>
+</ul>
 </div>
-  </footer>    <!-- Javascript -->
-    <!--<script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>-->
-    <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>-->
-    <script src="http://www.mytaxiindia.com/js_new/jquery.min.js"></script>
-    <!-- Twitter Bootstrap -->
-    <!--<script type="text/javascript" src="js/bootstrap.js"></script>-->
-    <script src="http://www.mytaxiindia.com/js_new/bootstrap.min.js"></script>
-    <script>
-	function  ourtem1(){
-        tjq('#ourtem1').modal();
-    }
-	function  ourtem2(){
-        tjq('#ourtem2').modal();
-    }
-	function  ourtem3(){
-        tjq('#ourtem3').modal();
-    }
-	function  enquiry(){
-        tjq('#enquiryBox').modal();
-    }
-	function  refundStatus(){
-        tjq('#refundStatusBox').modal();
-    }
-	function cancelTicket(){
-        tjq('#cancelTicketBox').modal();
-    }
-	function pringSms(){
-        tjq('#pringSmsbox').modal();
-    }
-
-    function showSignin(){
-
-        tjq('#myModal').modal();
-    }
-    function showSignup(){
-        tjq('#upModal').modal();
-    }
-    function showMoreCity(){
-	 tjq('#addmore').modal();
-    }
-	function modifyMoreCity(){
-	 tjq('#addmorecity').modal();
-    }
-
-//    $('#signin').click(function (){
-//
-//});
-//$('#signup').click(function (){
-//  $('#upModal').modal();
-//});
-    </script>
-        <script>
+</div>   
+</div> 
+<div class="col-sm-12 col-md-6">
+<h2 class="car-services">Car <strong>Services</strong> <i></i></h2>
+<div class="scrollbar" id="style-4">
+<div class="force-overflow footer-box">
+       <ul class="circle bullet-orange linkDis"><li><a href="http://www.mytaxiindia.com/car-rental-kashmir.php" title="Kashmir">Kashmir</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-jaipur.php" title="Jaipur">Jaipur</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-rajasthan.php" title="Rajasthan">Rajasthan</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-tirupati.php" title="Tirupati">Tirupati</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-aurangabad.php" title="Aurangabad">Aurangabad</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-madurai.php" title="Madurai">Madurai</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-orissa.php" title="Orissa">Orissa</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-indore.php" title="Indore">Indore</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-haridwar.php" title="Haridwar">Haridwar</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-dehradun.php" title="Dehradun">Dehradun</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-shimla.php" title="Shimla">Shimla</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-mysore.php" title="Mysore">Mysore</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-kanyakumari.php" title="Kanyakumari">Kanyakumari</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-andhrapradesh.php" title="Andhra Pradesh">Andhra Pradesh</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-newjalpaiguri.php" title="New jalpaiguri">New jalpaiguri</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-jaisalmer.php" title="Jaisalmer">Jaisalmer</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-amritsar.php" title="Amritsar">Amritsar</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-haryana.php" title="Haryana">Haryana</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-corbett.php" title="Corbett">Corbett</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-gaya.php" title="Gaya">Gaya</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-ujjain.php" title="Ujjain">Ujjain</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-ranchi.php" title="Ranchi">Ranchi</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-mussoorie.php" title="Mussoorie">Mussoorie</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-nagpur.php" title="Nagpur">Nagpur</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-lonawala.php" title="Lonavala">Lonavala</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-katra.php" title="Katra">Katra</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-vadodara.php" title="Vadodara">Vadodara</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-sikkim.php" title="Sikkim">Sikkim</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-india.php" title="India">India</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-ludhiana.php" title="Ludhiana">Ludhiana</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-uttarpradesh.php" title="Uttar Pradesh">Uttar Pradesh</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-agra.php" title="Agra">Agra</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-noida.php" title="Noida">Noida</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-madhyapradesh.php" title="Madhya Pradesh">Madhya Pradesh</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-orchcha.php" title="Orchha">Orchha</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-dharamshala.php" title="Dharamshala">Dharamshala</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-himachal.php" title="Himachal">Himachal</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-leh.php" title="Leh">Leh</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-gangtok.php" title="Gangtok">Gangtok</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-hubli.php" title="Hubli">Hubli</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-ooty.php" title="Ooty">Ooty</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-hampi.php" title="Hampi">Hampi</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-coimbatore.php" title="Coimbatore">Coimbatore</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-visakhapatnam.php" title="Visakhapatnam">Visakhapatnam</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-darjeeling.php" title="Darjeeling">Darjeeling</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-jalandhar.php" title="Jalandhar">Jalandhar</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-lucknow.php" title="Lucknow">Lucknow</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-mathur.php" title="Mathura">Mathura</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-uttaranchal.php" title="Uttaranchal">Uttaranchal</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-rishikesh.php" title="Rishikesh">Rishikesh</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-khajuraho.php" title="Khajuraho">Khajuraho</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-ladakh.php" title="Ladakh">Ladakh</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-bhuvaneshwar.php" title="Bhubaneswar">Bhubaneswar</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-assam.php" title="Assam">Assam</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-portblair.php" title="Portblair">Portblair</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-kovalam.php" title="Kovalam">Kovalam</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-karnataka.php" title="Karnataka">Karnataka</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-tamilnadu.php" title="Tamilnadu">Tamilnadu</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-thanjavur.php" title="Thanjavur">Thanjavur</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-vijayawada.php" title="Vijayawada">Vijayawada</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-bikaner.php" title="Bikaner">Bikaner</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-punjab.php" title="Punjab">Punjab</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-mohali.php" title="Mohali">Mohali</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-meerut.php" title="Meerut">Meerut</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-jhansi.php" title="Jhansi">Jhansi</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-bihar.php" title="Bihar">Bihar</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-bhopal.php" title="Bhopal">Bhopal</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-jabalpur.php" title="Jabalpur">Jabalpur</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-maharastra.php" title="Maharastra">Maharastra</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-manali.php" title="Manali">Manali</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-gujrat.php" title="Gujrat">Gujrat</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-guwahati.php" title="Guwahati">Guwahati</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-imphal.php" title="Imphal">Imphal</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-kozhikode.php" title="Kozhikode">Kozhikode</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-mangalore.php" title="Mangalore">Mangalore</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-tiruchirapally.php" title="Tiruchirapally">Tiruchirapally</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-bagdogra.php" title="Bagdogra">Bagdogra</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-jodhpur.php" title="Jodhpur">Jodhpur</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-pathankot.php" title="Pathankot">Pathankot</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-varanasi.php" title="Varanasi">Varanasi</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-nainital.php" title="Nainital">Nainital</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-patna.php" title="Patna">Patna</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-gwalior.php" title="Gwalior">Gwalior</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-nashik.php" title="Nashik">Nashik</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-kullu.php" title="Kullu">Kullu</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-jharkhand.php" title="Jharkhand">Jharkhand</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-kerala.php" title="Kerala">Kerala</a> </li>
+<li><a href="http://www.mytaxiindia.com/car-rental-udaipur.php" title="Udaipur">Udaipur</a> </li>
+</ul>
+</div>
+</div>
+        </div>
+    </div>
+    </div>
+  <div class="container routers-hide"><div class="footer-more" id="more-button-footer"></div></div>
+  <div class="copyright ">
+  <div class="container">
+   <span id="siteseal" class="text-left inline-block width50"><script type="text/javascript" src="https://seal.starfieldtech.com/getSeal?sealID=H1arsf6EmwvxlwEEOY2tZCI1zBVHKQGzIW65PqyCf3FfJoLzTzIBaj7OHdK3"></script></span>         <span class="text-right inline-block"><a>© 2016 My Taxi India</a></span>
+   </div>
+        </div>
+        <!-- IZOOTO PUSH NOTIFICATION -->
+<script src="//cdn.izooto.com/scripts/master.1090.min.js"></script>      
+<!-- END -->
+</div>
+</footer>    <!-- Javascript -->
+<script src="http://www.mytaxiindia.com/js_new/jquery.min.js"></script>
+<!-- Twitter Bootstrap -->
+<script src="http://www.mytaxiindia.com/js_new/bootstrap.min.js"></script>
+<script>
+function  attachTaxi(){
+tjq('#attachTaxi').modal();
+}
+function  ourtem1(){
+tjq('#ourtem1').modal();
+}
+function  ourtem2(){
+tjq('#ourtem2').modal();
+}
+function  ourtem3(){
+tjq('#ourtem3').modal();
+}
+function  enquiry(){
+tjq('#enquiryBox').modal();
+}
+function  refundStatus(){
+tjq('#refundStatusBox').modal();
+}
+function cancelTicket(){
+tjq('#cancelTicketBox').modal();
+}
+function pringSms(){
+tjq('#pringSmsbox').modal();
+}
+function showSignin(){
+tjq('#forgot_password_form').hide();
+tjq('#chk_cred').text('');
+tjq('#exampleInputEmail1').removeClass('errorDiv');
+tjq('#loginForm').show();
+tjq('#myModal').modal();
+}
+function showSignup(){
+tjq('#upModal').modal();
+}
+function showMoreCity(){
+tjq('#addmore').modal();
+}
+function modifyMoreCity(){
+tjq('#addmorecity').modal();
+}
+function showPasswordChange(){
+tjq('#c_p_err_msg').text('');
+tjq('#emailtochangePass').removeClass('errorDiv');
+tjq('#newPassword').removeClass('errorDiv');
+tjq('#confPassword').removeClass('errorDiv')
+tjq('#changePassword').modal();
+}
+function showBookingPreview(val){
+var b_id = val;
+tjq('#showbooking').html('');
+tjq('#showbookingreview').modal();
+$.post('http://www.mytaxiindia.com/user/booking_review.php',{b_id:b_id},function(resp){
+//tjq('#showbookingreview').modal();
+tjq('#wait_msg_load_voucher').hide();
+tjq('#showbooking').html(resp);
+});			 
+}
+</script>
+<script>
 $(document).ready(function () {
-$(window).scroll(function () {
-        if ($(this).scrollTop() > 300) {
-            $('.scrollup').fadeIn();
-        } else {
-            $('.scrollup').fadeOut();
-        }
-    });
-
-    $('.scrollup').click(function () {
-        $("html, body").animate({
-            scrollTop: 0
-        }, 600);
-        return false;
-    });
-	
-	$("#mobile-menu-02").hide();
-   		$("#mobile-button-cr").click(function(){ 
- 		$("#mobile-menu-02").slideToggle("700");
-		if($("#mobile-button-cr").hasClass('mobile-menu-toggle mobile-menu-side')){
-			$('#mobile-button-cr').removeClass("mobile-menu-toggle mobile-menu-side");
-			$('#mobile-button-cr').addClass("mobile-menu-toggle");
-		}else{
-			 $('#mobile-button-cr').removeClass("mobile-menu-toggle");
-             $('#mobile-button-cr').addClass("mobile-menu-toggle mobile-menu-side");
-		}
-		 });
+$("#mobile-menu-02").hide();
+$("#mobile-button-cr").click(function(){ 
+$("#mobile-menu-02").animate({
+width: 'toggle'
+}, "slow");
+if($("#mobile-button-cr").hasClass('mobile-menu-toggle mobile-menu-side')){
+$('#mobile-button-cr').removeClass("mobile-menu-toggle mobile-menu-side");
+$('#mobile-button-cr').addClass("mobile-menu-toggle");
+}else{
+ $('#mobile-button-cr').removeClass("mobile-menu-toggle");
+ $('#mobile-button-cr').addClass("mobile-menu-toggle mobile-menu-side");
+}
+});
+    $('.menutabclick').click(function(){              
+    $(".menu2 ul li").toggle(); 
+    $( ".menu2 li ul i" ).toggleClass( 'soap-icon-top', 'soap-icon-chevron-down' );
+  
+    $('.menu2 ul li').addClass('menuslideeffect fadeIn animated');
+        });
+    $(".offallmenu").append($(".helpalltext").html());          
+    $('.offallmenu').click(function(){
+      $(".offallmenu ul").toggle();
+     });
 
 });
 </script>
-<div class="modal fade about-popup" id="ourtem1">
-  <div class="modal-dialog modal-md">
-    <div class="modal-content">
-      <div class="modal-header">
- <h3> Anshuman Mihir
-<span>Co- Founder</span></h3>
-<p class="marginB20">  Anshuman Mihir is a computer science graduate and MBA. He has 7 years of experience in product development and e-commerce. Previously worked with Global Information system and technology as Assistant Manager, Wiseassist Technologies ( A Start-up) as Product Manager. He loves to work for innovation, technologies, product development. In addition to entrepreneurial roles, tie-loathing adventurer and thrill seeker, who believes in turning ideas into reality.  </p>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">×</span></button>
-        
-      </div>
-      
-
-      </div>
-    </div><!-- /.modal-content -->
-  </div><!-- /.modal-dialog -->
-</div><!-- /ourtem1 -->
-<div class="modal fade about-popup" id="ourtem2">
-  <div class="modal-dialog modal-md">
-    <div class="modal-content">
-      <div class="modal-header">
- <h3> Mohit
-<span>Co- Founder</span></h3>
-<p class="marginB20"> Mohit Rajpal is commerce Graduate &amp; MBA in Marketing. He is Travel E-commerce specialist with over 10 years of combined experience in travel, tourism, e-commerce, travel technology and Internet industries. Understanding of start-up challenges and ability to convert them into opportunities. Hands on with the travel technology, products, Integrations, Operational Process, Marketing, Alliances and CRM. He has been a part of Core team of many successful online ventures like Goibibo.Com, Yatra.Com &amp; Musafir.Com. </p>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">×</span></button>
-        
-      </div>
-      
-
-      </div>
-    </div><!-- /.modal-content -->
-  </div><!-- /.modal-dialog -->
-<!-- /ourtem2 -->
-<div class="modal fade about-popup" id="ourtem3">
-  <div class="modal-dialog modal-md">
-    <div class="modal-content">
-      <div class="modal-header">
- <h3> Rahul
-<span>Co- Founder</span></h3>
-<p class="marginB20"> Satyakam Rahul is a Post Graduate is Tourism, Having 14 Yrs Experiences in Travel and Tourism. He is a part of Voyages India, A Holiday Company as CEO. Voyager India operations in India, Spain and Kazakhstan for Inbound market. He has sound knowledge and strong contact in every part of India, well known to offline and B2B market. He worked as a adviser on number of successful product.</p>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">×</span></button>
-        
-      </div>
-      
-
-      </div>
-    </div><!-- /.modal-content -->
-  </div><!-- /.modal-dialog -->
-<!-- /ourtem3 -->
-         <div class="modal fade" id="enquiryBox">
-  <div class="modal-dialog modal-sm">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">×</span></button>
-        <h4 class="modal-title">Enquiry</h4>
-      </div>
-      <div class="modal-body">
-                  <div id="await" style="display:none;"><img src="http://www.mytaxiindia.com/images_new/enq_load.gif"></div>
-     <div id="msgg"></div>
-	<form id="landing_page_enquiry_form" name="landing_page_enquiry_form" method="post" onsubmit="return xyz()">
-      <div class="form-group">
-    <label for="exampleInputEmail1">Name</label>
-    <input type="name" name="user_name" class="form-control" id="user_name" onblur="check_name()" onkeyup="check_name()" placeholder="your name">
-  </div>
-  <div class="form-group">
-     <label for="exampleInputPassword1">Phone</label>
-    <input type="Phone" name="user_mobile_no" class="form-control" id="user_mobile_no" onblur="check_mobile()" onkeyup="check_mobile()" placeholder="your phone">
-  </div>
-  <div class="form-group">
-     <label for="exampleInputPassword1">Email</label>
-    <input type="Phone" name="user_email" class="form-control" id="user_email" onblur="check_email()" onkeyup="check_email()" placeholder="your email">
-  </div>
-  <div class="form-group">
-     <label for="exampleInputPassword1">Query</label>
-<textarea name="user_query" class="form-control" id="user_query" onblur="check_query()" onkeyup="check_query()" placeholder="e.g.  Local Taxi- Agra"></textarea>
-  </div>
-         <input type="hidden" name="cap1" id="cap1" value="17">
-        <input type="hidden" name="cap2" id="cap2" value="4"> 
-                       
-   <div class="form-group">
-     <label for="exampleInputPassword1">Captcha&nbsp;[17+4]</label>
-<input type="text" name="captcha" id="captcha" class="form-control" onblur="check_captcha()" onkeyup="check_captcha()" placeholder="Enter sum of given no..">
-  </div>                <br>
-                 <p class="text-primary"><input type="checkbox" name="need_hotel" id="check_hotel" value="YES"><strong> &nbsp;&nbsp;<font>Do You Want Hotel?</font></strong></p> 
-                  <br>
-              <div class="form-group">    
-  <button type="submit" class="btn btn-lg btn-block">Submit</button>
-              </div>
-                  
-</form>
-      </div>
-    </div><!-- /.modal-content -->
-  </div><!-- /.modal-dialog -->
-</div><!-- /.enquiry -->
-    <div class="modal fade" id="refundStatusBox">
-  <div class="modal-dialog modal-sm">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">×</span></button>
-        <h4 class="modal-title">Refund</h4>
-      </div>
-      <div class="modal-body modal-body-cancel">
-              <form>
-  <div class="form-group">
-    <label for="exampleInputEmail1">For refund status please contact:</label>
-     <div class="icon-box style5 marginT15">
-                                <i class="soap-icon-phone phonebox"></i>
-                                <div class="description">
-                                     <h5 class="padTB5"><strong>+91 888 - 200 - 1133</strong></h5>
-                                </div>
-                            </div>
-								<div class="marginB5 text-center"><img src="http://www.mytaxiindia.com/images_new/orbg.png"></div>
-                            <div class="icon-box style5">
-                                <i class="soap-icon-message messagebox"></i>
-                                <div class="description">
-
-                                   <h5 class="padTB5"><a href="mailto:booking@mytaxiindia.com"><strong>booking@mytaxiindia.com</strong></a></h5>
-                                </div>
-                            </div>
-  </div>
-                  <br>
-
-                  <br>
-</form>
-      </div>
-    </div><!-- /.modal-content -->
-  </div><!-- /.modal-dialog -->
-</div><!-- /.refundStatus -->
-    <div class="modal fade" id="cancelTicketBox">
-  <div class="modal-dialog modal-sm">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">×</span></button>
-        <h4 class="modal-title">Cancel Ticket</h4>
-      </div>
-      <div class="modal-body modal-body-cancel">
-              <form>
-  <div class="form-group">
-    <label for="exampleInputEmail1">For cancellation please contact:</label>
-     <div class="icon-box style5 marginT15">
-                                <i class="soap-icon-phone phonebox"></i>
-                                <div class="description">
-                                     <h5 class="padTB5"><strong>+91 888 - 200 - 1133</strong></h5>
-                                </div>
-                            </div>
-						<div class="marginB5 text-center"><img src="http://www.mytaxiindia.com/images_new/orbg.png"></div>
-                            <div class="icon-box style5">
-                                <i class="soap-icon-message messagebox"></i>
-                                <div class="description">
-
-                                   <h5 class="padTB5"><a href="mailto:booking@mytaxiindia.com"><strong>booking@mytaxiindia.com</strong></a></h5>
-                                </div>
-                            </div>
-  						</div>
-                  <br><br>
-</form>
-      </div>
-    </div><!-- /.modal-content -->
-  </div><!-- /.modal-dialog -->
-</div><!-- /.cancelTicketBox -->
-    <div class="modal fade" id="pringSmsbox">
-  <div class="modal-dialog modal-sm">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">×</span></button>
-        <h4 class="modal-title">Print SMS Ticket</h4>
-      </div>
-      <div class="modal-body">
-              <form>
-  <div class="form-group">
-  		<div id="showmsgTicket"></div>
-    <label for="exampleInputEmail1">Enter your Invoice number</label>
-     <input type="text" class="form-control" id="InputInvoiceNumber" value="" placeholder="Invoice number">
-  </div>
-                  <br>
-              <div class="form-group">
-  <button type="submit" id="GenSMSticket" class="btn btn-primary btn-sm btn-block">Submit</button>
-              </div>
-                  <br>
-</form>
-      </div>
-    </div><!-- /.modal-content -->
-  </div><!-- /.modal-dialog -->
-</div><!-- /.printsms -->
-    <div class="modal fade" id="myModal">
-  <div class="modal-dialog modal-sm">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">×</span></button>
-        <h4 class="modal-title">Sign In to My Taxi India</h4>
-      </div>
-      <div class="modal-body">
-              <form>
-  <div class="form-group">
-    <label for="exampleInputEmail1">Email address</label>
-    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
-  </div>
-  <div class="form-group">
-      <b><label for="exampleInputPassword1">Password</label></b>
-    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
-  </div>
-                  <div class="form-group text-right">
-                      <a>Forgot Your Password</a>
-              </div>
-                  <br>
-              <div class="form-group">
-  <button type="submit" class="btn btn-primary btn-sm btn-block">Submit</button>
-              </div>
-                  <br><h5 class="text-center"> OR </h5>
-                  <a class="btn btn-block btn-social btn-facebook">
-    <i class="fa fa-facebook"></i> Sign in with Facebook
-  </a>
-                  <br><h5 class="text-center"> OR </h5>
-                  <a class="btn btn-block btn-social btn-google">
-    <i class="fa fa-google"></i> Sign in with Google
-  </a>
-</form>
-      </div>
-    </div><!-- /.modal-content -->
-  </div><!-- /.modal-dialog -->
-</div><!-- /.modal -->
-
-      <div class="modal fade" id="upModal">
-      <div class="modal-dialog modal-sm">
-        <div class="modal-content">
-          <div class="modal-header">
-            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span aria-hidden="true">×</span></button>
-            <h4 class="modal-title">Sign In to My Taxi India</h4>
-          </div>
-          <div class="modal-body">
-        <form>
-      <div class="form-group">
-        <label for="exampleInputEmail1">Email address</label>
-        <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Email">
-      </div>
-      <div class="form-group">
-          <b><label for="exampleInputPassword1">Password</label></b>
-        <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
-        <span class="help-block">Password must be of 8 Character Long</span>
-      </div>
-                      <div class="form-group">
-        <label for="exampleInputEmail1">Home City</label>
-        <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Home City">
-      </div>
-                      <br>
-                  <div class="form-group">
-      <button type="submit" class="btn btn-primary btn-sm btn-block">Create Account</button>
-                  </div>
-                      <br><h5 class="text-center"> OR </h5>
-                      <a class="btn btn-block btn-social btn-facebook">
-        <i class="fa fa-facebook"></i> Login with Facebook
-      </a>
-                      <br><h5 class="text-center"> OR </h5>
-                      <a class="btn btn-block btn-social btn-google">
-        <i class="fa fa-google"></i> Login with Google
-      </a>
-    </form>
-          </div>
-        </div><!-- /.modal-content -->
-      </div><!-- /.modal-dialog -->
-    </div><!-- /.modal -->
-     <div class="modal fade" id="addmore">
-  <div class="modal-dialog modal-lg">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">×</span></button>
-        <h4 class="modal-title">Add More Cities</h4>
-      </div>
-  <form class="form-inlinebox" id="mc_form" name="mc_form" method="post" action="http://www.mytaxiindia.com/index.php/multycity">		
-         <div class="modal-body iconfont"> 
-         <table id="mc_search_table">
-         <tbody><tr><th>Pickup Date</th><th>Pickup Point</th><th>Drop Point</th></tr>
-        <tr id="MC_city_1">
-            <td class="padR8 padB10 ">
-            <input type="text" name="MC_date[]" id="MC_date_1" value="" onchange="changedate1(this.value);" class="form-control" autocomplete="off"></td>
-            <td class="padR8 padB10">
-            <input type="text" name="mc_from[]" id="MC_from_1" class="form-control" autocomplete="off">
-            <input type="hidden" name="MC_from[]" id="MC_from_1_val" value="">
-            <input type="hidden" name="MC_from_city[]" id="MC_from_1_city" value=""></td>
-            <td class="padR8 padB10">
-            <input type="text" class="form-control" name="mc_to[]" id="MC_to_1" onselect="changeNextValue1(this.value);" onblur="changeNextValue1(this.value);" autocomplete="off">
-            <input type="hidden" name="MC_to[]" id="MC_to_1_val">
-            <input type="hidden" name="MC_to_city[]" id="MC_to_1_city" value=""></td>
-            <td class="padR8 padB10">
-            <a href="javascript:void(0);" id="MC_add_1"><i class="fa fa-plus-circle fa-2"></i></a></td>
-        </tr>
-        <tr id="MC_city_2"><td class="padR8 padB10">
-            <input type="text" class="form-control" name="MC_date[]" id="MC_date_2" value="" onchange="changedate2(this.value);" autocomplete="off"></td>
-            <td class="padR8 padB10">
-            <input type="text" class="form-control" name="mc_From[]" id="MC_from_2" value="" readonly="">
-            <input type="hidden" class="form-control" name="MC_from[]" id="MC_from_2_val" value="">
-            <input type="hidden" name="MC_from_city[]" id="MC_from_2_city" value=""></td>
-            <td class="padR8 padB10">
-            <input type="text" class="form-control" name="mc_to[]" id="MC_to_2" onkeyup="changeNextValue2(this.value);" onblur="changeNextValue2(this.value);" autocomplete="off">
-            <input type="hidden" class="form-control" name="MC_to[]" id="MC_to_2_val">
-            <input type="hidden" name="MC_to_city[]" id="MC_to_2_city" value=""></td>
-            <td class="padR8 padB10">
-            <a href="javascript:void(0);" id="MC_del_2"><i class="fa fa-minus-circle fa-2"></i></a>
-            <a href="javascript:void(0);" id="MC_add_2"><i class="fa fa-plus-circle fa-2"></i></a></td>
-        </tr>
-        <tr id="MC_city_3">
-            <td class="padR8 padB10"> 
-            <input type="text" class="form-control" name="MC_date[]" id="MC_date_3" value="" onchange="changedate3(this.value);" autocomplete="off"></td>
-            <td class="padR8 padB10">
-            <input type="text" class="form-control" name="mc_from[]" id="MC_from_3" value="" readonly="" autocomplete="off">
-            <input type="hidden" name="MC_from[]" id="MC_from_3_val" value="">
-            <input type="hidden" name="MC_from_city[]" id="MC_from_3_city" value=""></td>
-            <td class="padR8 padB10">
-            <input type="text" class="form-control" name="mc_to[]" id="MC_to_3" onkeyup="changeNextValue3(this.value);" onblur="changeNextValue3(this.value);" autocomplete="off">
-            <input type="hidden" class="form-control" name="MC_to[]" id="MC_to_3_val" value="">
-            <input type="hidden" name="MC_to_city[]" id="MC_to_3_city" value=""></td>
-            <td class="padR8 padB10">
-            <a href="javascript:void(0);" id="MC_del_3"><i class="fa fa-minus-circle fa-2"></i></a>
-            <a href="javascript:void(0);" id="MC_add_3"><i class="fa fa-plus-circle fa-2"></i></a></td>
-        </tr>
-        <tr id="MC_city_4">
-            <td class="padR8 padB10">
-            <input type="text" class="form-control" name="MC_date[]" id="MC_date_4" value="" onchange="changedate4(this.value);" autocomplete="off"></td>
-            <td class="padR8 padB10">
-            <input type="text" class="form-control" name="mc_from[]" id="MC_from_4" value="" readonly="">
-            <input type="hidden" class="form-control" name="MC_from[]" id="MC_from_4_val" value="">
-            <input type="hidden" name="MC_from_city[]" id="MC_from_4_city" value=""></td>
-            <td class="padR8 padB10">
-            <input type="text" class="form-control" name="mc_to[]" id="MC_to_4" onkeyup="changeNextValue4(this.value);" onblur="changeNextValue4(this.value);" autocomplete="off">
-            <input type="hidden" name="MC_to[]" id="MC_to_4_val" value="">
-            <input type="hidden" name="MC_to_city[]" id="MC_to_4_city" value=""></td>
-            <td class="padR8 padB10">
-            <a href="javascript:void(0);" id="MC_del_4"><i class="fa fa-minus-circle fa-2"></i></a>
-            <a href="javascript:void(0);" id="MC_add_4"><i class="fa fa-plus-circle fa-2"></i></a></td>
-        </tr>
-        <tr id="MC_city_5">
-            <td class="padR8 padB10">
-            <input type="text" class="form-control" name="MC_date[]" id="MC_date_5" value="" onchange="changedate5(this.value);" autocomplete="off"></td>
-            <td class="padR8 padB10">
-            <input type="text" class="form-control" name="mc_from[]" id="MC_from_5" value="" readonly="">
-            <input type="hidden" name="MC_from[]" id="MC_from_5_val" value="">
-            <input type="hidden" name="MC_from_city[]" id="MC_from_5_city" value=""></td>
-            <td class="padR8 padB10">
-            <input type="text" class="form-control" name="mc_to[]" id="MC_to_5" onkeyup="changeNextValue5(this.value);" onblur="changeNextValue5(this.value);" autocomplete="off">
-            <input type="hidden" name="MC_to[]" id="MC_to_5_val" value="">
-            <input type="hidden" name="MC_to_city[]" id="MC_to_5_city" value=""></td>
-            <td class="padR8 padB10">
-            <a href="javascript:void(0);" id="MC_del_5"><i class="fa fa-minus-circle fa-2"></i></a>
-            <a href="javascript:void(0);" id="MC_add_5"><i class="fa fa-plus-circle fa-2"></i></a></td>
-        </tr>
-        <tr id="MC_city_6">
-            <td class="padR8 padB10">
-            <input type="text" class="form-control" name="MC_date[]" id="MC_date_6" value="" autocomplete="off"></td>
-            <td class="padR8 padB10">
-            <input type="text" class="form-control" name="mc_from[]" id="MC_from_6" value="" readonly="">
-            <input type="hidden" name="MC_from[]" id="MC_from_6_val" value="">
-            <input type="hidden" name="MC_from_city[]" id="MC_from_6_city" value=""></td>
-            <td class="padR8 padB10">
-            <input type="text" class="form-control" name="mc_to[]" id="MC_to_6" autocomplete="off">
-            <input type="hidden" name="MC_to[]" id="MC_to_6_val" value="">
-            <input type="hidden" name="MC_to_city[]" id="MC_to_6_city" value=""></td>
-            <td class="padR8 padB10">
-            <a href="javascript:void(0);" id="MC_del_6"><i class="fa fa-minus-circle fa-2"></i></a></td>
-        </tr>        
-        </tbody></table>	
-       
-          </div><!-- /.modal-dialog -->
-           <div class="modal-footer">
-            <div class="form-group">
-    	<input type="submit" name="seacrh" id="mc_search" value="search" class="btn-primary btn-sm col-sm-12 col-md-3 pull-right">
-    </div>
-        </div>
-    </form>
-
-</div><!-- /.modal-content -->
-  </div><!-- /.modal-dialog -->
-</div><!-- /.modal -->
-
-
-<div class="modal fade" id="addmorecity">
-  <div class="modal-dialog modal-lg">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">×</span></button>
-        <h4 class="modal-title">Add More Cities</h4>
-      </div>
-      <div class="modal-body">
-  	<form class="form-inlineboxx" id="mc_form" name="mc_form" method="post" action="http://www.mytaxiindia.com/index.php/multycity">
-	 <div id="morecities" class="row marginB10 ">
- 	 <div class="col-sm-6 col-md-3">
-    <label for="exampleInputName2">Date</label>
-    <input type="text" id="moredate" name="MC_date[]" class="form-control datepicker" placeholder="Travel Date">
-  	</div>
-     <div class="col-sm-6 col-md-3">
-    <label for="exampleInputName2">From City</label>
-    <input type="text" name="MC_from[]" id="MC_frm_1" value="" placeholder="Pickup City" class="abc form-control">
-  	</div>
- 	 <div class="col-sm-6 col-md-3 ">
-    <label for="exampleInputEmail2">To City</label>
-    <input type="text" name="MC_to[]" id="MC_t_1" value="" placeholder="Pickup City" class="xyz form-control">
-  </div>
-     <div class="col-sm-6 col-md-3 marginT10">
-     <button id="addmorecities_1" type="button" class="btnn btn-primary btn-sm"><i class="fa fa-plus"></i></button>
-  	 </div>
-                      <!--<div class="form-group delete-button">
-                          <button id="deletemorecities" type="button" class="btn-dager btn-sm"><i class="fa fa-trash"></i></button>
-  </div>-->
-       </div>
-       </form></div>
-        <div class="modal-footer">
-            <div class="form-group">
-                      <button id="search" type="submit" class="btn-primary btn-sm col-sm-12 col-md-3 pull-right">Search</button>
-  				</div>
-        </div>
-    
-    </div><!-- /.modal-content -->
-  </div><!-- /.modal-dialog -->
+<div class="modal fade" id="changePassword">
+<div class="modal-dialog modal-sm">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">×</span></button>
+<h4 class="modal-title">Change Password</h4>
+</div>    
+<div class="modal-body">
+<div id="c_p_err_msg"></div>
+<form id="changepass" method="post" action="javascript:void(0);">
+<div class="form-group">
+<label for="exampleInputEmail1">Email address</label>
+<input type="email" class="form-control" id="emailtochangePass" placeholder="Registered email">
 </div>
+<div class="form-group">
+<b><label for="exampleInputPassword1">New Password</label></b>
+<input type="password" class="form-control" id="newPassword" placeholder="New password">
+</div>
+<div class="form-group">
+<b><label for="exampleInputPassword1">Confirm Password</label></b>
+<input type="password" class="form-control" id="confPassword" placeholder="Confirm password">
+</div>
+      <br>
+  <div class="form-group">
+<button type="submit" id="chnagePass" class="btn btn-primary btn-sm btn-block">Submit</button>
+  </div>                 
+</form>
+</div><!-- /.modal-content -->
+</div><!-- Change Password -->
+</div>
+</div><!-- change password -->
+<div class="modal fade" id="attachTaxi">
+<div class="modal-dialog modal-sm">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">×</span></button>
+<h4 class="modal-title">Attach Taxi</h4>
+</div>
+<div class="modal-body">
+<div id="await" style="display:none;"><img src="http://www.mytaxiindia.com/images_new/enq_load.gif"></div>
+<div id="atc_txi_err_msg"></div>
+<form id="attch_taxi_form" name="attch_taxi_form" method="post" onsubmit="return attach_taxi()">
+<div class="form-group">
+<label for="exampleInputEmail1">Name</label>
+<input type="name" name="trs_name" class="form-control" id="trs_name" onblur="check_trs_name()" onkeyup="check_trs_name()" placeholder="your name">
+</div>
+<div class="form-group">
+<label for="exampleInputPassword1">Phone</label>
+<input type="Phone" name="trs_mobile_no" class="form-control" id="trs_mobile_no" onblur="check_trs_mobile()" onkeyup="check_trs_mobile()" maxlength="10" placeholder="your phone">
+</div>
+<div class="form-group">
+<label for="exampleInputPassword1">Email</label>
+<input type="Email" name="trs_email" class="form-control" id="trs_email" onblur="check_trs_email()" onkeyup="check_trs_email()" placeholder="your email">
+</div>
+<div class="form-group">
+<label for="exampleInputPassword1">Company Name</label>
+<input type="text" name="trs_company" class="form-control" id="trs_company" onblur="check_trs_company()" onkeyup="check_trs_company()" placeholder="your Company">
+</div>
+<div class="form-group">
+<label for="exampleInputPassword1">City</label>
+<input type="text" name="trs_city" id="trs_city" class="form-control" onblur="check_trs_city()" onkeyup="check_trs_city()" placeholder="Your city">
+</div>         
+  <div class="form-group ">    
+<button type="submit" class="home-page-search width100 button-o button-orange"><span>Submit</span></button>
+  </div>                 
+</form>
+</div>
+</div><!-- /.modal-content -->
+</div><!-- /.modal-dialog -->
+</div>
+</div><!-- /ourtem1 -->
+<!-- /ourtem2 -->
+<!-- /ourtem3 -->
+<div class="modal fade" id="enquiryBox">
+<div class="modal-dialog modal-sm enquiry-change">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">×</span></button>
+<!--<h4 class="modal-title">Enquiry</h4>-->
+</div>
+<div class="modal-body">
+      <div id="await" style="display:none;"><img src="http://www.mytaxiindia.com/images_new/enq_load.gif"></div>
+<div id="msgg"></div>
+<form id="landing_page_enquiry_form" name="landing_page_enquiry_form" method="post" onsubmit="return xyz()">
+  
+<div class="input-group marginT10">
+            <span class="input-group-addon"><i class="glyphicon glyphicon-earphone"></i></span>
+<input type="Phone" name="user_mobile_no" class="form-control" id="user_mobile_no" onblur="check_mobile()" onkeyup="check_mobile()" maxlength="10" placeholder="your phone">
+</div>
+<div class="input-group marginT10">
+            <span class="input-group-addon"><i class="glyphicon glyphicon-envelope"></i></span>
+<input type="Email" name="user_email" class="form-control" id="user_email" onblur="check_email()" onkeyup="check_email()" placeholder="your email">
+</div>
+<div class="input-group marginT10">
+            <span class="input-group-addon"><i class="glyphicon glyphicon-globe"></i></span>
+<textarea name="user_query" class="form-control" id="user_query" onblur="check_query()" onkeyup="check_query()" placeholder="e.g.  Local Taxi- Agra"></textarea>
+</div>
+<input type="hidden" name="cap1" id="cap1" value="15">
+<input type="hidden" name="cap2" id="cap2" value="0"> 
+<div class="clr marginT10"></div>
+<label for="exampleInputPassword1">Captcha&nbsp;[15]</label>
+<div class="input-group marginT10">
+            <span class="input-group-addon"><i class="glyphicon glyphicon-send"></i></span>
+<input type="text" name="captcha" id="captcha" class="form-control" onblur="check_captcha()" onkeyup="check_captcha()" placeholder="Enter above mention no.">
+</div>               
+  <div class="form-group">    
+<button type="submit" class="home-page-search marginT10 width100 button-o button-orange"><span>Submit</span></button>
+  </div>
+</form>
+</div>
+</div><!-- /.modal-content -->
+</div><!-- /.modal-dialog -->
+</div>      
+<!-- /.enquiry -->
+<div class="modal fade" id="refundStatusBox">
+<div class="modal-dialog modal-sm">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">×</span></button>
+<h4 class="modal-title">Refund</h4>
+</div>
+<div class="modal-body modal-body-cancel">
+<form>
+<div class="form-group">
+<label for="exampleInputEmail1">For refund status please contact:</label>
+<div class="icon-box style5 marginT15">
+                    <i class="soap-icon-phone phonebox"></i>
+                    <div class="description">
+                         <h5 class="padTB5"><strong>+91 888 - 200 - 1133</strong></h5>
+                    </div>
+                </div>
+                    <div class="marginB5 text-center"><img src="http://www.mytaxiindia.com/images_new/orbg.png"></div>
+                <div class="icon-box style5">
+                    <i class="soap-icon-message messagebox"></i>
+                    <div class="description">
+                <h5 class="padTB5"><a href="mailto:booking@mytaxiindia.com"><strong>booking@mytaxiindia.com</strong></a></h5>
+                    </div>
+                </div>
+</div>
+      <br><br>
+</form>
+</div>
+</div><!-- /.modal-content -->
+</div><!-- /.modal-dialog -->
+</div><!-- /.refundStatus -->
+<div class="modal fade" id="cancelTicketBox">
+<div class="modal-dialog modal-sm">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">×</span></button>
+<h4 class="modal-title">Cancel Ticket</h4>
+</div>
+<div class="modal-body modal-body-cancel">
+  <form>
+<div class="form-group">
+<label for="exampleInputEmail1">For cancellation please contact:</label>
+<div class="icon-box style5 marginT15">
+                    <i class="soap-icon-phone phonebox"></i>
+                    <div class="description">
+                         <h5 class="padTB5"><strong>+91 888 - 200 - 1133</strong></h5>
+                    </div>
+                </div>
+            <div class="marginB5 text-center"><img src="http://www.mytaxiindia.com/images_new/orbg.png"></div>
+                <div class="icon-box style5">
+                    <i class="soap-icon-message messagebox"></i>
+                    <div class="description">
+                       <h5 class="padTB5"><a href="mailto:booking@mytaxiindia.com"><strong>booking@mytaxiindia.com</strong></a></h5>
+                    </div>
+                </div>
+            </div>
+     <br><br>
+</form>
+</div>
+</div><!-- /.modal-content -->
+</div><!-- /.modal-dialog -->
+</div><!-- /.cancelTicketBox -->
+<div class="modal fade" id="pringSmsbox">
+<div class="modal-dialog modal-sm">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">×</span></button>
+<h4 class="modal-title">Print SMS Ticket</h4>
+</div>
+<div class="modal-body">
+  <form>
+<div class="form-group">
+<div id="showmsgTicket"></div>
+<label for="exampleInputEmail1">Enter your Invoice number</label>
+<input type="text" class="form-control" id="InputInvoiceNumber" value="" placeholder="Invoice number">
+</div>
+      <br>
+  <div class="form-group">
+<button type="submit" id="GenSMSticket" class="btn btn-primary btn-sm btn-block">Submit</button>
+  </div>
+      <br>
+</form>
+</div>
+</div><!-- /.modal-content -->
+</div><!-- /.modal-dialog -->
+</div><!-- /.printsms -->
+<div class="modal fade" id="myModal">
+<div class="modal-dialog modal-sm">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">×</span></button>
+<h4 class="modal-title">Sign In to My Taxi India</h4>
+</div>
+<div class="modal-body">
+</div>
+</div><!-- /.modal-content -->
+</div><!-- /.modal-dialog -->
+</div><!-- Sign in -->
+<div class="modal fade" id="upModal">
+<div class="modal-dialog modal-sm">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+    <span aria-hidden="true">×</span></button>
+<ul class="nav nav-tabs">
+<li class="active"><a href="javascript:void(0)#home" target="">Register</a></li>
+<li><a href="javascript:void(0)#menu1" target="">Sign In</a></li>
+</ul>
+<div class="tab-content">
+<div id="home" class="tab-pane fade in active">
+<div id="suchna"></div>
+<form id="registerationForm" action="javascript:void(0);">
+<div class="input-group marginT10">
+      <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
+<input type="text" class="form-control" id="exampleInputName" placeholder="Name">
+</div>
+<div class="input-group marginT10">
+      <span class="input-group-addon"><i class="glyphicon glyphicon-envelope"></i></span>
+<input type="text" class="form-control" id="exampleInputEmail" placeholder="Email">
+</div>
+<div class="input-group marginT10">
+      <span class="input-group-addon"><i class="glyphicon glyphicon-earphone"></i></span>
+<input type="text" class="form-control" id="exampleInputMobile" maxlength="10" placeholder="Mobile">
+</div>
+<div class="input-group marginT10">
+    <span class="input-group-addon"><i class="glyphicon glyphicon-globe"></i></span>
+<textarea class="form-control" id="exampleInputAddress" placeholder="Address"></textarea>
+</div>
+<div class="form-group">
+<button type="submit" id="RegisterWithMTI" class="home-page-search marginT10 width100 button-o button-orange"><span>Submit</span></button>
+</div>
+<!--<div class="orbox">OR</div>
+<div><a class="btn btn-block btn-social btn-lg btn-facebook" >CONNECT WITH FACEBOOK</a>
+<a class="btn btn-block btn-social btn-lg btn-google">
+<span class="fa fa-google"></span> CONNECT WITH GOOGLE+
+</a></div>-->
+</form>
+</div>
+<div id="menu1" class="tab-pane fade">
+<div id="chk_cred"></div>
+<form id="loginForm" action="javascript:void(0);">
+<div class="input-group marginT10">
+  <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
+  <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">                                        
+        </div>
+<div class="form-group">
+<div class="input-group marginT10">
+    <span class="input-group-addon"><i class="glyphicon glyphicon-lock"></i></span>
+             <input type="password" class="form-control" id="exampleInputPassword3" placeholder="Password">
+        </div>
+</div>
+    <div class="checkbox marginT10">
+<label>
+<input type="checkbox" value="remember-me"> Remember me
+</label>
+</div>
+  <div class="form-group">
+<button type="submit" id="praveshdwar" class="home-page-search  marginT10 width100 button-o button-orange"><span>Submit</span></button>
+  </div>  
+    <div class="form-group text-center marginT10">
+<a href="javascript:void(0);" id="forgot_password" class="formtextblue">Forgot Your Password</a>
+</div>               
+</form>
+<div class="forgetpasswodbox">
+<div class="forgettext"><i class="fa fa-arrow-left fl"></i> Forgot Password?</div>
+<div id="chkk_cred"></div>
+<form id="forgot_password_form" action="javascript:void(0);">
+<div class="input-group marginT10">
+<span class="input-group-addon"><i class="glyphicon glyphicon-envelope"></i></span>
+<input type="email" class="form-control" id="Email_forgot_password" placeholder="your registered email...">
+</div>
+<div class="form-group">
+<button type="submit" id="recover_password" class="home-page-search width100 button-o button-orange"><span>Submit</span></button>
+</div>  
+<div class="form-group text-center marginT10">
+<a href="#" id="signinforpass" class="formtextblue">Sign In</a>
+</div>  
+</form> 
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><!-- /.modal-content -->
+</div><!-- /.modal-dialog -->
 
-
-    <script type="text/javascript" src="http://www.mytaxiindia.com/js_new/jquery.noconflict.js"></script>
-    <!--<script type="text/javascript" src="http://www.mytaxiindia.com/js_new/modernizr.2.7.1.min.js"></script>-->
-    <!-- load page Javascript -->
-    <script type="text/javascript" src="http://www.mytaxiindia.com/js_new/theme-scripts_1.js"></script>
-    <!-- Javascript -->
-    <script type="text/javascript" src="http://www.mytaxiindia.com/js_new/datepicker/bootstrap-datepicker.js"></script>
-    <script type="text/javascript" src="http://www.mytaxiindia.com/jquery.bxslider/jquery.bxslider.min.js"></script>
-    <script>
-		tjq("#moredate").datepicker({autoclose: true,format: "dd-mm-yyyy",todayHighlight: true});
-        tjq('body').on('focus',".datepicker", function(){
-    	tjq(this).datepicker({autoclose: true,format: "dd-mm-yyyy",todayHighlight: true});
-		});
-	</script>	
+<div class="modal fade" id="addmore">
+<div class="modal-dialog modal-lg">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">×</span></button>
+<h4 class="modal-title">Add More Cities</h4>
+</div>
+<form class="form-inlinebox" id="mc_form" name="mc_form" method="post" action="http://www.mytaxiindia.com/multycity">		
+<div class="modal-body iconfont"> 
+<table id="mc_search_table">
+<tbody><tr><th>Pickup DateTime</th><th>Pickup Point</th><th>Drop Point</th></tr>
+<tr id="MC_city_1">
+<td class="padR8 padB10 ">
+<div class="datepicker-bg from-group">
+<input type="text" name="MC_date[]" id="MC_date_1" value="" onchange="changedate1(this.value);" class="form-control" autocomplete="off">
+</div>
+</td>
+<td class="padR8 padB10">
+<input type="text" name="mc_from[]" id="MC_from_1" class="form-control" autocomplete="off">
+<input type="hidden" name="MC_from[]" id="MC_from_1_val" value="">
+<input type="hidden" name="MC_from_city[]" id="MC_from_1_city" value=""></td>
+<td class="padR8 padB10">
+<input type="text" class="form-control" name="mc_to[]" id="MC_to_1" onselect="changeNextValue1(this.value);" onblur="changeNextValue1(this.value);" autocomplete="off">
+<input type="hidden" name="MC_to[]" id="MC_to_1_val">
+<input type="hidden" name="MC_to_city[]" id="MC_to_1_city" value=""></td>
+<td class="padR8 padB10">
+<a href="javascript:void(0);" id="MC_add_1"><i class="fa fa-plus-circle fa-2"></i></a></td>
+</tr>
+<tr id="MC_city_2"><td class="padR8 padB10">
+<div class="datepicker-bg from-group">
+<input type="text" class="form-control" name="MC_date[]" id="MC_date_2" value="" onchange="changedate2(this.value);" autocomplete="off">
+</div>
+</td>
+<td class="padR8 padB10">
+<input type="text" class="form-control" name="mc_From[]" id="MC_from_2" value="" readonly="">
+<input type="hidden" class="form-control" name="MC_from[]" id="MC_from_2_val" value="">
+<input type="hidden" name="MC_from_city[]" id="MC_from_2_city" value=""></td>
+<td class="padR8 padB10">
+<input type="text" class="form-control" name="mc_to[]" id="MC_to_2" onkeyup="changeNextValue2(this.value);" onblur="changeNextValue2(this.value);" autocomplete="off">
+<input type="hidden" class="form-control" name="MC_to[]" id="MC_to_2_val">
+<input type="hidden" name="MC_to_city[]" id="MC_to_2_city" value=""></td>
+<td class="padR8 padB10">
+<a href="javascript:void(0);" id="MC_del_2"><i class="fa fa-minus-circle fa-2"></i></a>
+<a href="javascript:void(0);" id="MC_add_2"><i class="fa fa-plus-circle fa-2"></i></a></td>
+</tr>
+<tr id="MC_city_3">
+<td class="padR8 padB10"> 
+<div class="datepicker-bg from-group">
+<input type="text" class="form-control" name="MC_date[]" id="MC_date_3" value="" onchange="changedate3(this.value);" autocomplete="off">
+</div>
+</td>
+<td class="padR8 padB10">
+<input type="text" class="form-control" name="mc_from[]" id="MC_from_3" value="" readonly="" autocomplete="off">
+<input type="hidden" name="MC_from[]" id="MC_from_3_val" value="">
+<input type="hidden" name="MC_from_city[]" id="MC_from_3_city" value=""></td>
+<td class="padR8 padB10">
+<input type="text" class="form-control" name="mc_to[]" id="MC_to_3" onkeyup="changeNextValue3(this.value);" onblur="changeNextValue3(this.value);" autocomplete="off">
+<input type="hidden" class="form-control" name="MC_to[]" id="MC_to_3_val" value="">
+<input type="hidden" name="MC_to_city[]" id="MC_to_3_city" value=""></td>
+<td class="padR8 padB10">
+<a href="javascript:void(0);" id="MC_del_3"><i class="fa fa-minus-circle fa-2"></i></a>
+<a href="javascript:void(0);" id="MC_add_3"><i class="fa fa-plus-circle fa-2"></i></a></td>
+</tr>
+<tr id="MC_city_4">
+<td class="padR8 padB10">
+<div class="datepicker-bg from-group">
+<input type="text" class="form-control" name="MC_date[]" id="MC_date_4" value="" onchange="changedate4(this.value);" autocomplete="off">
+</div>
+</td>
+<td class="padR8 padB10">
+<input type="text" class="form-control" name="mc_from[]" id="MC_from_4" value="" readonly="">
+<input type="hidden" class="form-control" name="MC_from[]" id="MC_from_4_val" value="">
+<input type="hidden" name="MC_from_city[]" id="MC_from_4_city" value=""></td>
+<td class="padR8 padB10">
+<input type="text" class="form-control" name="mc_to[]" id="MC_to_4" onkeyup="changeNextValue4(this.value);" onblur="changeNextValue4(this.value);" autocomplete="off">
+<input type="hidden" name="MC_to[]" id="MC_to_4_val" value="">
+<input type="hidden" name="MC_to_city[]" id="MC_to_4_city" value=""></td>
+<td class="padR8 padB10">
+<a href="javascript:void(0);" id="MC_del_4"><i class="fa fa-minus-circle fa-2"></i></a>
+<a href="javascript:void(0);" id="MC_add_4"><i class="fa fa-plus-circle fa-2"></i></a></td>
+</tr>
+<tr id="MC_city_5">
+<td class="padR8 padB10">
+<div class="datepicker-bg from-group">
+<input type="text" class="form-control" name="MC_date[]" id="MC_date_5" value="" onchange="changedate5(this.value);" autocomplete="off">
+</div>
+</td>
+<td class="padR8 padB10">
+<input type="text" class="form-control" name="mc_from[]" id="MC_from_5" value="" readonly="">
+<input type="hidden" name="MC_from[]" id="MC_from_5_val" value="">
+<input type="hidden" name="MC_from_city[]" id="MC_from_5_city" value=""></td>
+<td class="padR8 padB10">
+<input type="text" class="form-control" name="mc_to[]" id="MC_to_5" onkeyup="changeNextValue5(this.value);" onblur="changeNextValue5(this.value);" autocomplete="off">
+<input type="hidden" name="MC_to[]" id="MC_to_5_val" value="">
+<input type="hidden" name="MC_to_city[]" id="MC_to_5_city" value=""></td>
+<td class="padR8 padB10">
+<a href="javascript:void(0);" id="MC_del_5"><i class="fa fa-minus-circle fa-2"></i></a>
+<a href="javascript:void(0);" id="MC_add_5"><i class="fa fa-plus-circle fa-2"></i></a></td>
+</tr>
+<tr id="MC_city_6">
+<td class="padR8 padB10">
+<div class="datepicker-bg from-group">
+<input type="text" class="form-control" name="MC_date[]" id="MC_date_6" value="" autocomplete="off">
+</div>
+</td>
+<td class="padR8 padB10">
+<input type="text" class="form-control" name="mc_from[]" id="MC_from_6" value="" readonly="">
+<input type="hidden" name="MC_from[]" id="MC_from_6_val" value="">
+<input type="hidden" name="MC_from_city[]" id="MC_from_6_city" value=""></td>
+<td class="padR8 padB10">
+<input type="text" class="form-control" name="mc_to[]" id="MC_to_6" autocomplete="off">
+<input type="hidden" name="MC_to[]" id="MC_to_6_val" value="">
+<input type="hidden" name="MC_to_city[]" id="MC_to_6_city" value=""></td>
+<td class="padR8 padB10">
+<a href="javascript:void(0);" id="MC_del_6"><i class="fa fa-minus-circle fa-2"></i></a></td>
+</tr>        
+</tbody></table>	
+</div><!-- /.modal-dialog -->
+<div class="modal-footer">
+<div class="form-group">
+<!--<input type="submit" name="seacrh" id="mc_search" value="SEARCH" class="btn-primary btn-sm col-sm-12 col-md-3 pull-right">
+--><button type="submit" id="mc_search" class="home-page-search width25 button-o button-orange"><span>SEARCH</span></button>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div> <!-- Multicity-->
+<div class="modal fade" id="showbookingreview">
+<div class="modal-dialog modal-lg">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">×</span></button>
+<h4 class="modal-title">Booking Review</h4>
+</div>
+<div class="modal-body">
+<div id="wait_msg_load_voucher" style="text-align:center;">Please Wait.....</div>
+<div id="showbooking"></div>
+</div><!-- /.modal-content -->
+</div><!-- /.modal-dialog -->
+</div>
+</div>
+<script type="text/javascript" src="http://www.mytaxiindia.com/js_new/jquery.noconflict.js"></script>
+<script type="text/javascript" src="http://www.mytaxiindia.com/js_new/theme-scripts_1.js"></script>
+<script type="text/javascript" src="http://www.mytaxiindia.com/js_new/datepicker/bootstrap-datepicker.js"></script>
+<script type="text/javascript" src="http://www.mytaxiindia.com/jquery.bxslider/jquery.bxslider.min.js"></script>
+<script type="text/javascript" src="http://www.mytaxiindia.com/js_new/attach-taxi.js"></script>
+<script>
+tjq("#moredate").datepicker({autoclose: true,format: "dd-mm-yyyy",todayHighlight: true});
+tjq('body').on('focus',".datepicker", function(){
+tjq(this).datepicker({autoclose: true,format: "dd-mm-yyyy",todayHighlight: true});
+});
+</script>	
 <script>
  $(document).ready(function () {
 		$('#MC_city_2').hide();$('#MC_city_3').hide();$('#MC_city_4').hide();$('#MC_city_5').hide();$('#MC_city_6').hide();
