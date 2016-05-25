@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crsdata.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124052514id_/http%3A//crsdata.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crsdata.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525183031id_/http%3A//crsdata.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CRS Data
 
@@ -64,6 +64,6 @@ Our Privacy Policy may change from time to time and all updates will be posted o
 
 **If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 800.374.7488 or** **via email at getinfo@crsdata.com** **.**
 
-“The quality of our work would not be as good without CRS. And it would take hours to get the work done without CRS."
+The Real Estate [Suite] … gives me an edge in an industry that is quite competitive.” 
 
-**CHARLIE HARPER** \- Sunmark Community Bank 
+**ROSS RYLANCE** \- Keller Williams Realty, Franklin 
