@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insuranceaut.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110142622id_/http%3A//www.insuranceaut.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insuranceaut.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525123943id_/http%3A//www.insuranceaut.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Car Insurance,Health insurance,Pet insurance,Home Insurance, and Life Insurances from US – AUT
 
