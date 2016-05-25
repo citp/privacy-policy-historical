@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cocoetlavieenrose.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124202324id_/http%3A//www.cocoetlavieenrose.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cocoetlavieenrose.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525134246id_/http%3A//www.cocoetlavieenrose.com/privacy) for the most accurate reproduction.*
 
 # Fashion blog Coco et La vie en rose - MODA & BEAUTY
 
