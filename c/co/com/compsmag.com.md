@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the compsmag.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812150307id_/http%3A//www.compsmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compsmag.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525193136id_/http%3A//www.compsmag.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy
 
-This Privacy Policy governs the manner in which compsmag collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.compsmag.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by compsmag.
+This Privacy Policy governs the manner in which compsmag collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://compsmag.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by compsmag.
 
 **Personal identification information**
 
@@ -20,14 +20,10 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 compsmag may collect and use Users personal information for the following purposes:
 
-  * _– To personalize user experience_
-
+  * _– To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-
-  * _– To send periodic emails_
-
+  * _– To send periodic emails_  
 If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
-
 
 
 
@@ -66,5 +62,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+
+site     : <http://compsmag.com/>  
+email   :contact@compsmag.com
 
 This document was last updated on January 15, 2015
