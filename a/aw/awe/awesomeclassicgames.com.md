@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awesomeclassicgames.com privacy policy that was archived on 2015-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150708120251id_/http%3A//awesomeclassicgames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awesomeclassicgames.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525065234id_/http%3A//awesomeclassicgames.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AwesomeClassicGames
 
