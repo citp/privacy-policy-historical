@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alsa.org privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207093633id_/http%3A//www.alsa.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alsa.org privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525192819id_/http%3A//www.alsa.org/privacy-policy.html) for the most accurate reproduction.*
 
 # The ALS Association
 
@@ -11,7 +11,7 @@ The ALS Association
 Suite 250   
 Washington, DC 20005
 
-You can contact us via email at [webmaster@alsa.org](mailto:webmaster@alsa.org) or by phone at (888) 949-2577.
+You can contact us via email at [webmaster@alsa.org](mailto:webmaster@alsa.org) or by phone at 202-407-8580.
 
 We provide this notice to explain our online information practices. By visiting The ALS Association at [www.alsa.org](http://www.alsa.org/), you are accepting the practices described in this privacy notice.
 
