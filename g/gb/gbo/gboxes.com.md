@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gboxes.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205200036id_/http%3A//www.gboxes.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gboxes.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525113613id_/http%3A//www.gboxes.com/privacy.html) for the most accurate reproduction.*
 
-# Green Boxes - Cloud storage service - The Best
-
-###  Privacy Policy 
+# Green Boxes - File Upload - Share & Earn Money - Easy way to share your files
 
 This policy covers how GBoxes use your personal information. We take your privacy seriously and will take all measures to protect your personal information.
 
