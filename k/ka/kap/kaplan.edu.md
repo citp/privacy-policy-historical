@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaplan.edu privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114015036id_/http%3A//www.kaplanuniversity.edu/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaplan.edu privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525113646id_/http%3A//www.kaplanuniversity.edu/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Kaplan University
 
