@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the banyantree.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905180508id_/http%3A//www.banyantree.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banyantree.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525172047id_/http%3A//www.banyantree.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,9 +12,9 @@
 
  
 
-This Data Protection Policysupplements but does not supersede nor replace any other consents you may have previously provided to Banyan Tree in respect of your Personal Data, and your consents herein are additional to any rights which to any of the Companies may have at law to collect, use or disclose your Personal Data.
+This Data Protection Policy supplements but does not supersede nor replace any other consents you may have previously provided to Banyan Tree in respect of your Personal Data, and your consents herein are additional to any rights which to any of the Companies may have at law to collect, use or disclose your Personal Data.
 
-Banyan Tree may from time to time update this Data Protection Policy to ensure that this Data Protection Policy is consistent with our future developments, industry trends and/or any changes in legal or regulatory requirements. Subject to your rights at law, you agree to be bound by the prevailing terms of the Data Protection Policy as updated from time to time on our website <http://www.banyantree.com/en/pages/privacy_policy>. Please check back regularly for updated information on the handling of your Personal Data.
+Banyan Tree may from time to time update this Data Protection Policy to ensure that this Data Protection Policy is consistent with our future developments, industry trends and/or any changes in legal or regulatory requirements. Subject to your rights at law, you agree to be bound by the prevailing terms of the Data Protection Policy as updated from time to time on our website <http://www.banyantree.com/en/privacy-policy>. Please check back regularly for updated information on the handling of your Personal Data.
 
  
 
