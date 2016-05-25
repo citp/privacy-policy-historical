@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamhomebasedwork.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207150439id_/http%3A//www.dreamhomebasedwork.com/privacy-policy_1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamhomebasedwork.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525070910id_/http%3A//www.dreamhomebasedwork.com/privacy-policy_1.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
