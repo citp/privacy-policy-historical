@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the falmouth.ac.uk privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119052346id_/http%3A//www.falmouth.ac.uk/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the falmouth.ac.uk privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525074440id_/http%3A//www.falmouth.ac.uk/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Falmouth University - No 1 for Arts
+# Privacy Policy | Falmouth - No 1 Arts University
 
 Please read this Privacy Policy carefully before using the Falmouth University ('Falmouth', 'us', 'we', or 'our') website at [www.falmouth.ac.uk](http://www.falmouth.ac.uk/ "Opens in a new window") ('Website')
 
