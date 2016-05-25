@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guava.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529080757id_/http%3A//www.netbooster.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guava.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525115939id_/http%3A//www.netbooster.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NetBooster - Your Digital Performance Architects
 
@@ -164,7 +164,7 @@ It should be noted that this website uses Google Analytics with the extension of
 
  **8.1. Opt-in:** By agreeing to the opt-in following the display of the Cookies Box at the start of your navigation to our Website, you agree to the use of such cookies.
 
- **8.2. Opt-out:** However, if you would like to opt-out of the NetBooster cookie use, please opt-out at [this site](http://www.metapeople.com/opting-out-of-cookies/).
+ **8.2. Opt-out:**   However, if you would like to opt-out of the NetBooster cookie use and **GroundControl** cookie use, please opt-out at [this site](http://www.netbooster.com/opting-out-of-cookies/)
 
  **9. Use the Google "+1" button**
 
@@ -226,9 +226,11 @@ On our Website we use the social plugins bookmarking service ShareThis Inc. (her
 
  **17. The use of other tracking tools**
 
-On our website is the tracking tool metalyzer, by [metapeople GmbH](http://www.metapeople.com/ "metapeople homepage "). This tracking tool on our website, enables us collect and process data for marketing and optimisation purposes. These data can be used to create pseudonymous user profiles. Without explicit consent of the data subject, however, there is no personal identifying and no data collected and combined to form a personal profile. Our web server collects information about each visitor to our Web page (the name of the Internet service provider, the website from where he/she visited us, the websites he/she visited along with the date and duration of visit). To this end, we also use our third service providers. The data collected does not contain your name or address or your eMail and thus cannot personally identifiable to.
+On our website are the tracking tools  **metalyzer** , by [metapeople GmbH](http://www.metapeople.com/ "metapeople homepage ") ([http://www.metapeople.com](http://www.metapeople.com/))  and **GroundControl** by NetBooster. These tracking tools on our website, enable us collect and process data for marketing and optimisation purposes. These data can be used to create pseudonymous user profiles. Without explicit consent of the data subject, however, there is no personal identifying and no data collected and combined to form a personal profile. Our web server collects information about each visitor to our Web page (the name of the Internet service provider, the website from where he/she visited us, the websites he/she visited along with the date and duration of visit). To this end, we also use our third service providers. The data collected does not contain your name or address or your eMail and thus cannot personally identifiable to.
 
 The data collection and storage can be revoked at any time with effect for the future.
+
+ **Opt-out:**  If you would like to opt-out of the tracking tools  **metalyzer**  and **GroundControl** by NetBooster cookie use, please opt-out at [this site](http://www.netbooster.com/opting-out-of-cookies/).
 
  **18. Data Security**
 
