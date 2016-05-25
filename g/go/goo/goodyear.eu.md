@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodyear.eu privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125060238id_/http%3A//www.goodyear.eu/home_en/footer/privacy-statement/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodyear.eu privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525180427id_/http%3A//www.goodyear.eu/home_en/footer/privacy-statement/index.jsp) for the most accurate reproduction.*
 
 # Goodyear Tires – Made to feel good.
 
