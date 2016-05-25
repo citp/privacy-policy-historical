@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the lensdiaries.com privacy policy that was archived on 2015-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150218051240id_/http%3A//www.lensdiaries.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lensdiaries.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525132437id_/http%3A//www.lensdiaries.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Lens Diaries™
 
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.lensdiaries.com%2Fprivacy-statement%2F&media=&description=Privacy%20Statement) |   
----|---  
-  
 **Privacy Statement**
 
  **
@@ -83,11 +80,9 @@ If a user or member wishes not to receive any emails from the administrator, the
 
 Privacy of our email lists: LensDiaries.com does not provide the actual email addresses when a list is sold or rented. All members of any lists owned by LensDiaries.com. agreed to join our list before being accepted and can opt-out without any questions or reasons according to the guidelines provide above under our privacy policy and options, 100% and instantly, at any time. None of our lists are sold or rented to any type of spam or spam services. LensDiaries.com supports all anti-spamming legislation and existing laws. If you have any questions, [please contact us](http://www.lensdiaries.com/contact/).
 
-We're not just another photography forum or social networking website, we're a photography community and family!
+Welcome to LensDiaries.com (Lens Diaries™), a hybrid photography blog with social flair. The photoblog provides photo tips, photo tutorials and photo diaries by professional photographer, author, writer, speaker and social media consultant, Rolando Gomez. 
 
-LensDiaries.com (Lens Diaries™) is a hybrid photoblog composed of a photography blog and a photography social community. The photoblog provides photo tips, photo tutorials and photo diaries by professional photographer, author, writer, speaker and social media consultant, Rolando Gomez. There is even a photography book section. 
-
-The social photography community provides members photo albums, photography forums, social networking and more. Lens Diaries™ is open to all levels of photographers, beginners to advanced, including wedding photography, portrait photography, people photography, baby photography, sports photography, nature photography, iphoneography, landscape photography, studio photography, underwater photography, etc. 
+Lens Diaries™ is open to all levels of photographers, beginners to advanced, including fine art photography, fashion photography, wedding photography, portrait photography, people photography, baby photography, sports photography, nature photography, iphoneography, landscape photography, studio photography, underwater photography, etc. 
 
 Our primary photography focus is digital photography and digital cameras. From iPhones to Canon’s and Nikon’s, you can count on us!
 
