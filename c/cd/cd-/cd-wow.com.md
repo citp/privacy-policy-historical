@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cd-wow.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219025036id_/http%3A//www.wowhd.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cd-wow.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525213932id_/http%3A//www.wowhd.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Help Policies Privacy Policy on WOW HD
 
