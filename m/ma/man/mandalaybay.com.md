@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mandalaybay.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214145949id_/http%3A//www.mgmresorts.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mandalaybay.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525124552id_/http%3A//www.mgmmirage.com/privacy.htm) for the most accurate reproduction.*
 
 # MGM Resorts International Privacy Statement
 
