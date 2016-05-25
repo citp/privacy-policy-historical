@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postradam.us privacy policy that was archived on 2015-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150826112927id_/http%3A//postradam.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postradam.us privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525143359id_/http%3A//postradam.us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Postradamus
 
