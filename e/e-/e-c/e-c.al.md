@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the e-c.al privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919175227id_/http%3A//ecal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-c.al privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525232442id_/http%3A//ecal.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | ECAL
-
-**Privacy policy**
-
-Last updated 1 September 2015
+# Privacy policy - ECAL
 
 **1\. Introduction**
 
-ECAL is a free service that allows users to receive digital calendar information (in the form of an **Event** , **Date** or **Schedule** ) via subscription into their personal digital calendar ( **Calendar** ). The information within each unique event in a user’s Calendar ( **Event** ) can be changed by the third party source publisher of the Schedule ( **Publisher** ) or by E-DIARY Pty Ltd.
+ECAL is a free service that allows users to receive digital calendar information (in the form of an **Event** , **Date  **or **Schedule** ) via subscription into their personal digital calendar ( **Calendar** ). The information within each unique event in a user’s Calendar ( **Event** ) can be changed by the third party source publisher of the Schedule ( **Publisher** ) or by E-DIARY Pty Ltd.
 
 ECAL is owned and operated worldwide by E-DIARY Pty Ltd ( **EPL** ). This Privacy Policy describes the information we collect in connection with the ECAL service and how we use and disclose it. By providing personal information to us or using the service, you agree to the terms of this Privacy Policy.
 
@@ -18,7 +14,7 @@ We also follow our own ECAL contact policy (“contact standards”), and ask ou
 
 Additionally, EPL does not have access to any other information in your personal Calendar, including your private events, meetings, appointments, etc., other than Events and Schedules that you have subscribed to using the ECAL service.
 
-We may vary this Privacy Policy from time to time, the most recent version can always be accessed at [www.ecal.com](http://www.ecal.com/). Any changes will become effective when we post the revised Privacy Policy at [www.ecal.com](http://www.ecal.com/).
+We may vary this Privacy Policy from time to time, the most recent version can always be accessed at [www.ecal.com](http://www.ecal.com/). Any changes will become effective when we post the revised Privacy Policy at [www.ecal.com](http://www.ecal.com/).
 
 **2\. Information gathering**
 
@@ -104,7 +100,7 @@ Participation and use of the ECAL service is voluntary. If you no longer wish to
 
 **11\. Contact us**
 
-If you have any questions about this privacy statement, or your dealings with us, please email _support@ecal.com_.
+If you have any questions about this privacy statement, or your dealings with us, please email  _support@ecal.com_.
 
 **  
 E-DIARY Pty Ltd  
