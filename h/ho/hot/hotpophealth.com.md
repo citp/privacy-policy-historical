@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotpophealth.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219191124id_/http%3A//hotpophealth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotpophealth.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525192610id_/http%3A//hotpophealth.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Hot Pop Health
 
@@ -58,10 +58,10 @@ Please note that if you choose to opt out of having your information used to del
 
 ## Recently on Hot Pop Health
 
-[ ](http://hotpophealth.com/3-major-mens-health-vitamins/ "3 Major Men’s Health Vitamins")
+[ ](http://hotpophealth.com/gym-no-nos-you-need-to-know-2/ "Gym No Nos You Need To Know")
 
-### [3 Major Men’s Health Vitamins](http://hotpophealth.com/3-major-mens-health-vitamins/)
+### [Gym No Nos You Need To Know](http://hotpophealth.com/gym-no-nos-you-need-to-know-2/)
 
-__Nov 18, 2015
+__Dec 28, 2015
 
-The rule for a healthy living not only for men, but even to children and women is eating right, exercising, sleeping well and other practices that boost a good... 
+So you’ve just joined a new gym and are looking to get fit, toned, jacked, yoked, etc. A gym, unbeknownst to many, is no different than riding a streetcar or dining at... 
