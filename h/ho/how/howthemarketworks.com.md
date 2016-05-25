@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howthemarketworks.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207015455id_/http%3A//education.howthemarketworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howthemarketworks.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525160055id_/http%3A//education.howthemarketworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
