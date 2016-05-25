@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the payleap.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202074842id_/http%3A//www.payleap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payleap.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525023750id_/http%3A//www.payleap.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | PayLeap Credit Card Payment Processing PayLeap
+# Privacy Policy - PayLeap PayLeap
 
 **Effective date: 11/30/09**
 
@@ -20,7 +20,7 @@ We are committed to keeping your Personal Information secure and have taken all 
 
 ### Secure Socket Layer:
 
-The security of your personal information is important to us. When you enter sensitive information (such as social security number, national ID, personal health information) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this link <http://www.comodo.com/e-commerce/ssl-certificates/ssl.php>.
+The security of your personal information is important to us. When you enter sensitive information (such as social security number, national ID, personal health information) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this link [http://www.comodo.com/e-commerce/ssl-certificates/ssl.php](https://web.archive.org/web/20160201233809/http://www.comodo.com/e-commerce/ssl-certificates/ssl.php).
 
 ### Cookies:
 
@@ -28,7 +28,7 @@ This website may utilize “cookies” to enhance your visit to and navigation a
 
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site.
 
-We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. This site uses Google Analytics to track the user data. For further information about how Google uses cookies, please visit <http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html#HowGAUsesCookies>.
+We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. This site uses Google Analytics to track the user data. For further information about how Google uses cookies, please visit [http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html#HowGAUsesCookies](https://web.archive.org/web/20160201233809/http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html#HowGAUsesCookies).
 
 If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.
 
