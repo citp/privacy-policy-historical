@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the odin.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124104124id_/http%3A//www.odin.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odin.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525203819id_/http%3A//www.odin.com/legal/privacy) for the most accurate reproduction.*
 
 # Parallels Privacy Policy - Odin
 
-Updated December 2014 
+Updated December 2015
 
-Parallels (“we”, “us”, “our”) knows that information privacy and security are important to you and we are committed to protecting the information you entrust to our care. Knowing our customers helps us to better serve them, so we place a high value of protecting personal information. 
+Odin (“we”, “us”, “our”) knows that information privacy and security are important to you and we are committed to protecting the information you entrust to our care. Knowing our customers helps us to better serve them, so we place a high value of protecting personal information. 
 
 In this Privacy Notice, we describe the information that we collect from individuals who visit our website, use our products, contact us for support, and conduct business or exchange communications with us. We describe the type of information we collect, use, share, and protect it. By using our website, products and/or services you agree to the practices described in this Privacy Notice. 
 
 ## Information Collection
 
-Parallels gathers information in most of our interactions with prospects and customers, whether directly or indirectly. Some of the information we collect is personally identifiable – that is, we can use it to identify, locate or contact you as an individual. Much of the information we collect is not personally identifiable. 
+Odin gathers information in most of our interactions with prospects and customers, whether directly or indirectly. Some of the information we collect is personally identifiable – that is, we can use it to identify, locate or contact you as an individual. Much of the information we collect is not personally identifiable. 
 
 ### Information You Provide
 
@@ -30,9 +30,9 @@ We may collect and store information about how you use our website(s) and applic
 
 We use cookies on our website to remember user preferences and to enhance our website services. Cookies are small identifiers we transfer to your computer to enable our systems to recognize your device and to provide features and advertising. You can learn more about cookies and controlling how your computer accepts and stores cookies and similar identifiers by clicking [here](http://www./). You can block cookies though this might disable certain features that you find convenient. In general, information we collect through cookies does not identify you. 
 
-### Information from Applications (Parallels Desktop and Parallels Access)
+### Information from Applications (Odin Desktop and Odin Access)
 
-Parallels collects limited information from users of our desktop and mobile applications, including product registration information, non-identifying indicators of operating system version, IP address, referring URL’s and other information about your use of the product. 
+Odin collects limited information from users of our desktop and mobile applications, including product registration information, non-identifying indicators of operating system version, IP address, referring URL’s and other information about your use of the product. 
 
 ### Minimizing Personal Information Collection
 
@@ -40,7 +40,7 @@ We strive to collect only that information needed to serve the purpose requested
 
 ## Information Uses
 
-Parallels uses your information to serve you and meet your needs to our best ability. For example, when you use our website, the cookie helps recognize you and your preferences. We use your product purchase and registration information to keep you informed about updates, patches and other advisories. We use it to process your purchases, manage subscriptions, send messages and provide product support. 
+Odin uses your information to serve you and meet your needs to our best ability. For example, when you use our website, the cookie helps recognize you and your preferences. We use your product purchase and registration information to keep you informed about updates, patches and other advisories. We use it to process your purchases, manage subscriptions, send messages and provide product support. 
 
 We also use your information for research into improving our products and services, for planning new features and updates and to customize and improve our websites. For the safety of our customers and employees, we may use information we collect to detect and prevent potential or actual claims and prohibited behaviors, such as fraud or attempts to breach our information security. 
 
@@ -52,15 +52,15 @@ We share your information with our business divisions and affiliated companies f
 
 We will share your information when you specifically permit that sharing. And we will share your information when, in good faith, we believe it is necessary to prevent or respond to fraud, defend our interests or protect our customers, employees or the public. We may disclose personal information if we are required to by law or legal process or in response to requests by government agencies or as required for national security. 
 
-Should Parallels merge with or be acquired by another company or we sell product lines, service activities or other assets, it is likely your information will be transferred as is appropriate and relevant. 
+Should Odin merge with or be acquired by another company or we sell product lines, service activities or other assets, it is likely your information will be transferred as is appropriate and relevant. 
 
 We may share aggregated and anonymized information (non-identifying) such as statistics about website visitors, product users or other uses of our products and services. 
 
 ## Information Choices for Use & Sharing
 
-Parallels provides you the opportunity to choose how we use your information and with whom we share it. You may choose to not provide your information, though that will likely prevent us from providing certain services. You can choose to receive or to stop receiving Parallels marketing materials, newsletters and subscriptions. We retain the right to send customers messages concerning purchases, critical updates and other administratively necessary information. You cannot opt-out of these messages. 
+Odin provides you the opportunity to choose how we use your information and with whom we share it. You may choose to not provide your information, though that will likely prevent us from providing certain services. You can choose to receive or to stop receiving Odin marketing materials, newsletters and subscriptions. We retain the right to send customers messages concerning purchases, critical updates and other administratively necessary information. You cannot opt-out of these messages. 
 
-You may give or withhold permission for Parallels to share your information for marketing purposes with trusted vendors and partners. You can make and manage your choices by signing in to the “My Account” feature on our website. You can also respond to our electronic communications and subscriptions with an “Unsubscribe” message in the subject field. 
+You may give or withhold permission for Odin to share your information for marketing purposes with trusted vendors and partners. You can make and manage your choices by signing in to the “My Account” feature on our website. You can also respond to our electronic communications and subscriptions with an “Unsubscribe” message in the subject field. 
 
 ## Information Access for Changes
 
@@ -76,4 +76,4 @@ We maintain customer information for as long as we need it to provide the reques
 
 ## Information Inquiries
 
-Individuals who have questions about our personal information handling policies and procedures can contact us at privacy(at)parallels.com
+Individuals who have questions about our personal information handling policies and procedures can contact us at privacy(at)Odin.com
