@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vroomvroomvroom.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924160545id_/https%3A//www.vroomvroomvroom.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vroomvroomvroom.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525212942id_/https%3A//www.vroomvroomvroom.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Cheap Car Hire Australia > Avis,Budget,Europcar,Hertz,Thrifty.
 
-Vroom Vroom Vroom Pty Ltd ACN 050 417 037 (“we”, “our” or “us”) is committed to the protection of personal privacy within the scope of applicable law. This Privacy Policy covers our treatment of personal information that we collect, use and disclose.
+VroomVroomVroom Pty Ltd ACN 050 417 037 (“we”, “our” or “us”) is committed to the protection of personal privacy within the scope of applicable law. This Privacy Policy covers our treatment of personal information that we collect, use and disclose.
 
 We may update this Privacy Policy from time to time. The most current version will be located on our website, and is also available by contacting our Privacy Officer by email or at the address detailed below.
 
@@ -116,4 +116,4 @@ The Privacy Officer
 E-mail: privacy@vroomvroomvroom.com.au  
 We will take reasonable steps to remedy any issues resulting from our failure to comply with our privacy obligations.
 
-Last updated July 2014.
+ _Last updated 28th August 2015._
