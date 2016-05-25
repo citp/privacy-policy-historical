@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the alsa.org privacy policy that was archived on 2015-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207093633id_/http%3A//www.alsa.org/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alsa.org privacy policy that was archived on 2016-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160525192819id_/http%3A//www.alsa.org/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 
@@ -8,7 +8,7 @@
 
 
 <meta name="generator" content="Convio CMS"> 
-<script language="JavaScript" type="text/javascript" src="/components/cookie/cookie.js"></script>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NDRJPB"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script language="JavaScript" type="text/javascript" src="/components/cookie/cookie.js"></script>
 
 
 <script language="JavaScript" type="text/javascript" src="/components/print/printer-friendly.js"></script>
@@ -18,11 +18,11 @@
 <script type="text/javascript">
 if (typeof CONVIO=="undefined" || ! CONVIO) { var CONVIO = {}; }
 CONVIO.pageUserName = '1627:0';
-CONVIO.pageSessionID = '1A01B152BDE4B80E0B47FB2F162FAFB5.app277b';
+CONVIO.pageSessionID = '71187AFD115E48F4EDF105603A1FF881.app295b';
 CONVIO.pageSessionName = 'JSESSIONID';
 </script>
 
-<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1449480992910"></script>
+<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1464204499517"></script>
 <script type="text/javascript">
 
 
@@ -44,6 +44,23 @@ deleteCookie("CONVIO.referrer");
 <script type="text/javascript" src="http://web.alsa.org/js/utils.js"></script>
 
 
+
+
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1015472371843842');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1015472371843842&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
 
 
     <meta charset="utf-8">
@@ -412,6 +429,477 @@ h2.ibchallHeaders { background-color: #d9003a; padding: 8px; color: #ffffff; tex
     <!-- enable HTML5 tag support -->
     <script src="http://www.alsa.org/about-als/2013-aam/assets/js/html5shiv.js"></script>
     <script src="http://www.alsa.org/assets/js/2015responsive.js"></script> 
+    <!--google analytics-->
+    
+
+
+
+
+
+
+
+
+
+<!-- begin CMS call to S51:reus_google_analytics_tagmanager -->
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NDRJPB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NDRJPB');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Security category: -->
+
+<script>
+  Y.use("jquery-ui", function(Y) { 
+
+    var nCounterStep1 = 0,
+        nCounterStep2 = 0,
+        nCounterStep3 = 0;
+
+    jQuery(document).ready(function() {
+
+    console.log("## Document Ready ##");
+    var iCanUseOn = !!jQuery.fn.on;
+
+    if(!iCanUseOn) { 
+      jQuery.fn.extend( {
+        on: function(eventsmap, selector, data, handler) {
+            return this.delegate(selector, eventsmap, data, handler)
+        }
+      });
+      console.log('jquery.on loaded as extension');
+    }
+      
+   /**
+          Measuring Checkout Options. 
+          Handle click(s) leading to a checkout option selection. Data layer push to handle different steps in the process
+   **/
+      /* Step 1 */
+        jQuery('.donation-level-label-container').click(function(){
+
+          if (nCounterStep1 < 1) {
+console.log("step1");
+            window.dataLayer.push({
+              'event': 'checkout',
+              'ecommerce': {
+                'checkout': {
+                'actionField': {
+                  'step': 1, 
+                  'option': 'Gift Information'},
+                'products': [{
+                'name': 'dc:donationFormName',          
+                'id': 'dc:donFormId',  
+                'price': '1.00',
+                'brand': 'Campaign Name',    
+                'category': '1',  
+                'variant': 'one time',
+                'quantity': 1
+              }]
+
+
+                }
+              }
+            });
+            nCounterStep1 = nCounterStep1 + 1;
+          };
+        });
+
+        /* Step 2 */
+        jQuery('#responsive_payment_typecc_numbername').click(function(){
+
+          if (nCounterStep2 < 1) {
+console.log("step2");
+            window.dataLayer.push({
+              'event': 'checkout',
+              'ecommerce': {
+                'checkout': {
+                  'actionField': {
+                    'step': 2, 
+                    'option': 'Payment Information'
+                  },
+              'products': [{
+                'name': 'dc:donationFormName',          
+                'id': 'dc:donFormId',  
+                'price': '1.00',
+                'brand': 'Campaign Name',    
+                'category': '1',  
+                'variant': 'one time',
+                'quantity': 1
+              }]
+
+                }
+              }
+            });
+            nCounterStep2 = nCounterStep2 + 1;
+          };
+        });
+        
+        /* Step 3 */
+        jQuery('#billing_first_namename').click(function(){
+
+          if (nCounterStep3 < 1) {
+console.log("step3");
+            window.dataLayer.push({
+              'event': 'checkout',
+              'ecommerce': {
+                'checkout': {
+                  'actionField': {
+                    'step': 3, 
+                    'option': 'Billing Information'
+                  },
+              'products': [{
+                'name': 'dc:donationFormName',          
+                'id': 'dc:donFormId',  
+                'price': '1.00',
+                'brand': 'Campaign Name',    
+                'category': '1',  
+                'variant': 'one time',
+                'quantity': 1
+              }]
+
+                }
+              }
+            });
+            nCounterStep3 = nCounterStep3 + 1;
+          };
+        });
+    
+          console.log('Measuring a View of Product Detail');    
+      if (window.location.href.indexOf("donation=form1") > -1) {
+        console.log("## donation form1 ##");
+        window.dataLayer.push({
+          'event' : 'productDetail',
+          'ecommerce': {
+            'detail': {
+              'products': [{
+                'name': 'dc:donationFormName', //form name        
+                'id': 'dc:donFormId', //form id 
+                'brand': 'Campaign Name', //campaign  
+                'category': '1' // security category
+              }]
+            }
+          }
+        });
+        console.log("## donation form1 detail sent ##");
+      } 
+      
+      
+      
+      //checking for dform
+      if (window.location.href.indexOf("donation=complete") > -1) {
+        //Transaction tracking in enhanced ecommerce. Track eCommerce if success page
+        console.log("## Thank You page ##");
+        var donationFormName = 'dc:donationFormName';
+        var donationLevelName = 'Donation Level';
+        var donationFormBrand = 
+                donationFormName.indexOf('Walk') > -1 ? 'Walk to Defeat ALS' :
+                donationFormName.indexOf('One Dollar Difference') > -1 ? 'One Dollar Difference' :
+                donationFormName.indexOf('Community of Hope') > -1 ? 'Community of Hope' :
+                donationFormName.indexOf('Ride') > -1 ? 'Ride to Defeat ALS' :
+                donationFormName.indexOf('Daugherty Fund') > -1 ? 'Daugherty Fund' :
+                donationFormName.indexOf('Angels over Kentucky') > -1 ? 'Angels over Kentucky' :
+                donationFormName.indexOf('Ski') > -1 ? 'Ski to Defeat ALS' :
+                donationFormName.indexOf('Page Parkhill Event') > -1 ? 'Page Parkhill Event' :
+                donationFormName.indexOf('Marathon') > -1 ? 'Marathon' :
+                'General Donation';
+        console.log("form name = " + donationFormName);
+        console.log("form brand = " + donationFormBrand);
+        
+        var variant = 'Payment Frequency',
+            donationAmount = parseFloat("Gift Amount".replace("$", ""));
+        console.log("donationAmount ="+ donationAmount );
+
+        if (variant == '' || variant === null || variant === undefined) {
+          variant = 'one time';
+        }
+        console.log("variant = "+ variant);
+
+        window.dataLayer.push({
+          'event': 'transactionComplete',
+          'ecommerce': {
+            'purchase': {
+              'actionField': {
+                'id': 'Tracking Code', //Transaction ID. Required for purchases and refunds.
+                'affiliation': '1',
+                'revenue': donationAmount, //Total transaction value (incl. tax and shipping)
+                'tax':'0',
+                'shipping': '0'
+              },
+              'products': [{                            // List of productFieldObjects.
+                'name': 'dc:donationFormName',    
+                'id': 'dc:donFormId - ' + 'Donation Level - ' + variant,
+                'price': donationAmount,
+                'brand': donationFormBrand,
+                'variant': variant,
+                'quantity': 1,
+                'category': 'Donation'
+              }]
+            }
+          }
+        });
+      }; // end  dform thank you page tracking
+      
+      // begin teamraiser thank you page tracking
+      if (window.location.href.indexOf("rthanks") > -1) {
+        //Transaction tracking in enhanced ecommerce. Track eCommerce if success page
+        console.log("## TR Reg Thank You page ##");
+        
+        // scrape dome for dollar amounts. responsive layout || wide layout (TR TY pages)
+        var regFee = jQuery('.part-type-amount').text().trim() || jQuery('th:contains(Registration Information)').parent().parent().find('td:contains(Registration Fee Paid)').next().text().trim();  ;  
+        var regDon = jQuery('.additional-gift-amount').text().trim() || jQuery('th:contains(Registration Information)').parent().parent().find('td:contains(Final Gift Amount)').next().text().trim();  
+        
+        
+          console.log("reg fee = " + regFee);
+          console.log("reg donation = " + regDon);
+
+ //Fix added for missing Revenue: Mai Alowaish 3/16/16
+//need to add up the regFee and regDon to get transaction total for revenue
+var totalDon = Number(regDon.replace(/[^0-9\.]+/g,""));    
+var totalReg = Number(regFee.replace(/[^0-9\.]+/g,""));
+ 
+var totalAmt = totalDon + totalReg ;       
+   
+          console.log("reg fee = " + regFee + " in num format=" + totalReg );
+          console.log("reg donation = " + regDon + " in num format=" + totalDon);
+          console.log("total revenue = " + totalAmt );
+          
+        var teamraiser = '';
+        // var donationLevelName = 'Donation Level';
+        var trBrand = 
+                teamraiser.toLowerCase().indexOf('walk') > -1 ? 'Walk to Defeat ALS' :
+                teamraiser.toLowerCase().indexOf('one dollar difference') > -1 ? 'One Dollar Difference' :
+                teamraiser.toLowerCase().indexOf('community of hope') > -1 ? 'Community of Hope' :
+                teamraiser.toLowerCase().indexOf('ride to defeat als') > -1 ? 'Ride to Defeat ALS' :
+                teamraiser.toLowerCase().indexOf('blizzard tour') > -1 ? 'Black Woods Blizzard Tour' :
+                teamraiser.toLowerCase().indexOf('daugherty fund') > -1 ? 'Daugherty Fund' :
+                teamraiser.toLowerCase().indexOf('angels over kentucky') > -1 ? 'Angels over Kentucky' :
+                teamraiser.toLowerCase().indexOf('ski') > -1 ? 'Ski to Defeat ALS' :
+                teamraiser.toLowerCase().indexOf('page parkhill event') > -1 ? 'Page Parkhill Event' :
+                teamraiser.toLowerCase().indexOf('marathon') > -1 ? 'Marathon' :
+                'Unknown Event';
+          console.log("form name = " + teamraiser);
+          console.log("donation level name = " + donationLevelName);
+          console.log("form brand = " + trBrand);
+        
+        
+        // var donationAmount = parseFloat("Gift Amount".replace("$", ""));
+        //   console.log("donationAmount ="+ donationAmount );
+
+        // var variant = 'Payment Frequency';
+        // if (variant == '' || variant === null || variant === undefined) {
+        //   variant = 'one time';
+        // }
+        // console.log("variant = "+ variant);
+
+
+
+
+//Fix added for extra product call: Mai Alowaish 3/16/16
+//check if the donation value (regDon) is NOT zero, then push
+
+ if (totalDon !=0)
+{
+ console.log("DON and REG payment");
+
+ window.dataLayer.push({
+          'event': 'transactionComplete',
+          'ecommerce': {
+            'purchase': {
+              'actionField': {
+                'id': '', //Teamraiser ID
+                'affiliation': '1',
+                'revenue': totalAmt, //Total transaction value (incl. tax and shipping)
+                'tax':'0',
+                'shipping': '0'
+              },
+              'products': [{                            // List of productFieldObjects.
+                'name': teamraiser,    
+                'id': ' - ',
+                'price': regFee,
+                'brand': trBrand,
+                // 'variant': variant,
+                'quantity': 1,
+                'category': 'Registration'
+              },
+              {                            // List of productFieldObjects.
+                'name': teamraiser,    
+                'id': ' - ',
+                'price': regDon,
+                'brand': trBrand,
+                // 'variant': variant,
+                'quantity': 1,
+                'category': 'Registration Donation'
+              }
+              ]
+            }
+          }
+        });
+
+}
+else //only send a fee product, no donation
+{        
+   console.log("only REG payment");
+
+        window.dataLayer.push({
+          'event': 'transactionComplete',
+          'ecommerce': {
+            'purchase': {
+              'actionField': {
+                'id': '', //Teamraiser ID
+                'affiliation': '1',
+                'revenue': totalAmt, //Total transaction value (incl. tax and shipping)
+                'tax':'0',
+                'shipping': '0'
+              },
+              'products': [{                            // List of productFieldObjects.
+                'name': teamraiser,    
+                'id': ' - ',
+                'price': regFee,
+                'brand': trBrand,
+                // 'variant': variant,
+                'quantity': 1,
+                'category': 'Registration'
+              }]
+            }
+          }
+        });
+}
+
+      }; // end TR reg thank you page tracking
+    });
+  });
+</script>
+
+<!-- Begin Donation form error message tracking -->
+
+
+<!-- not a donation form, no error tracking -->
+
+<!-- End - Donation form error message tracking -->
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+<!-- begin CMS call to S51:reus_google_analytics_bf -->
+<!--Google Analytics-->
+<script src="http://web.alsa.org/js/ga_link_tracker_async.js?v=201404" type="text/javascript" language="JavaScript"></script>
+<script type="text/javascript">// <![CDATA[
+                var _gaq = _gaq || [];
+                
+                                // Use correct UA code for client
+                _gaq.push(['_setAccount', 'UA-1914066-50']);
+
+                //handles self-referrals
+               _gaq.push(['_addIgnoredRef', 'alsa.org']);
+               _gaq.push(['_addIgnoredRef', 'alsapromise.org']);
+    _gaq.push(['_addIgnoredRef', 'alsagrants.org']);
+    _gaq.push(['_addIgnoredRef', 'convio.org']);
+    _gaq.push(['_addIgnoredRef', 'legacy.vg']);
+                
+                                // Decide how to track. (These are not mutually exclusive.)
+                var trackEvents = false;
+                var trackPageViews = true;
+                
+                                // regular expressions matching the domain, 
+                                //make sure to list them from most specific to least specific        
+                var trackedDomains = [
+                                /^https?:\/\/([\w_\.-]*alsa\.org)\/?/
+                              , /^https?:\/\/([\w_\.-]*convio\.net)\/?/
+            , /^https?:\/\/([\w_\.-]*alspromise\.org)\/?/
+                              , /^https?:\/\/([\w_\.-]*alsagrants\.org)\/?/
+                              , /^https?:\/\/([\w_\.-]*legacy\.vg)\/?/
+                                                                                                     
+                ];
+                
+                                // End configuration
+                bf.onLoad(bf.ga.trackLinks, null, trackedDomains, trackEvents, trackPageViews);
+                bf.ga.configureGA();
+                _gaq.push(['_trackPageview']);
+                
+                (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                })();
+
+
+//fix for E-commerce Tracking
+//sets page title
+var pageTitle = "";
+var seperator = ":";
+pageTitle = document.title.replace(/^\s+|\s+$/g, '');
+var pageTitleWords = pageTitle.split(seperator);
+var pageTitleBeginning = pageTitleWords[0];
+//var pageFullTitle = document.title;  
+var pageFullTitle = 'The ALS Association' ;
+
+
+  
+//  Track login state if logged in
+  
+
+
+// Track source code if set
+
+
+  if (typeof CONVIO!="undefined" && CONVIO){
+    if (CONVIO.referrer.length != 0) {
+      _gaq.push(['_setReferrerOverride',CONVIO.referrer]);
+    }
+  }
+
+
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+
+
+// Track eCommerce if success page 
+
+//Account for all API donation forms
+
+
+
+//Tracks event registrations as ecommerce -update pagename
+
+
+
+
+
+
+
+//Tracks event registrations as ecommerce 
+
+// --&gt;
+// ]]></script>
+
+
+
+
+
+    <!--end google analytics-->
 
 
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
@@ -474,9 +962,7 @@ h2.ibchallHeaders { background-color: #d9003a; padding: 8px; color: #ffffff; tex
 <div class="left logo">
 	<a href="http://www.alsa.org/"><img src="http://www.alsa.org/assets/images/wrpr/2015-responsive-wrapper/alslogo.png" alt="ALS Association"></a>
 </div>
-<div class="challengeCallout desk">
-	<span>What can you do to <a href="http://www.alsa.org/fight-als/challenge.html" title="ChallengeALS">#ChallengeALS</a></span>
-</div>
+
 <div class="ctaWrap mobileShow">
 	<ul>
 		<li class="findServices green button">
@@ -487,9 +973,6 @@ h2.ibchallHeaders { background-color: #d9003a; padding: 8px; color: #ffffff; tex
 			<li><a href="http://www.alsa.org/community/centers-clinics/" title="The ALS Association Certified Centers and Clinics">Certified Centers and Clinics</a></li>
 			<li><a href="http://www.alsa.org/community/support-groups/" title="ALS Association Chapter Support Groups">Support Groups</a></li>
 		</ul>
-		<li class="challengeCallout">
-			<div class="pre"><div class="tri"><a href="http://www.alsa.org/fight-als/challenge.html" title="ChallengeALS"><span>What can you do to</span> #ChallengeALS</a></div></div>
-		</li>
 		<li class="red button"><a href="http://www.alsa.org/donation">Donate</a></li>
 	</ul>
 </div>
@@ -583,14 +1066,14 @@ h2.ibchallHeaders { background-color: #d9003a; padding: 8px; color: #ffffff; tex
 
 <script type="text/javascript" src="/components/form/form.js"></script>
 
-<h1>Privacy Policy</h1>
+<h1 class="page-title">Privacy Policy</h1>
 <p>This is the Web site of The ALS Association, <a href="http://www.alsa.org/">http://www.alsa.org</a>.</p>
 <p>Our postal address is:</p>
 <p>The ALS Association
     <br>1275 K Street NW
     <br>Suite 250
     <br>Washington, DC 20005</p>
-<p>You can contact us via email at <a href="mailto:webmaster@alsa.org">webmaster@alsa.org</a> or by phone at (888) 949-2577.</p>
+<p>You can contact us via email at <a href="mailto:webmaster@alsa.org">webmaster@alsa.org</a> or by phone at 202-407-8580.</p>
 <p>We provide this notice to explain our online information practices. By visiting The ALS Association at <a href="http://www.alsa.org/">www.alsa.org</a>, you are accepting the practices described in this privacy notice.</p>
 <h3>I. Privacy Policy Statement</h3>
 <p>The ALS Association is committed to protecting the privacy of its users. Information gathered by The ALS Association is used to monitor the effectiveness of our site, personalize your Internet experience, and respond to your questions and requests.</p>
@@ -791,6 +1274,9 @@ CONVIO.user.isAnonymous = true;
       <div class="ad">
         <a href="http://walktodefeatals.org/"><img alt="Walk To Defeat ALS" src="http://www.alsa.org/assets/images/wrpr/2015-responsive-wrapper/walk-ad.png"></a>
       </div> 
+      <div class="ad">
+        <a href="http://www.alsa.org/fight-als/teamchallengeals/"><img alt="Team Challenge ALS" src="http://www.alsa.org/assets/images/wrpr/2015-responsive-wrapper/tcals-ad.jpg"></a>
+      </div> 
     </div>
     <div class="clear"></div>
   </div>
@@ -827,7 +1313,7 @@ CONVIO.user.isAnonymous = true;
 		<li class="last"><a href="http://www.alsa.org/about-us/contact-us.html" title="Contact Us">Contact Us</a></li>
 	</ul>
 	<p>The ALS Association <span class="break">-</span> 1275 K Street NW - Suite 250 <span class="break">-</span> Washington, DC 20005</p>
-	<p>All content and works posted on this website are owned and copyrighted by <a href="http://www.alsa.org/">The ALS Association</a>. ©2015</p>
+	<p>All content and works posted on this website are owned and copyrighted by <a href="http://www.alsa.org/">The ALS Association</a>. ©2016</p>
 	<p>Lou Gehrig® used with permission of the Rip Van Winkle Foundation / <a target="_blank" href="http://www.lougehrig.com">www.LouGehrig.com</a></p>
 </div>
 <div class="right">
@@ -867,122 +1353,11 @@ CONVIO.user.isAnonymous = true;
 </div>
 <!-- END: Powered By -->
 </div>
-  <!--google analytics-->
-  <div id="convio-content-379792252" style="display: inline;">
 
 
 
 
 
-
-
-
-
-<!--Google Analytics-->
-<script src="http://web.alsa.org/js/ga_link_tracker_async.js?v=201404" type="text/javascript" language="JavaScript"></script>
-<script type="text/javascript">// <![CDATA[
-                var _gaq = _gaq || [];
-                
-                                // Use correct UA code for client
-                _gaq.push(['_setAccount', 'UA-1914066-1']);
-
-                //handles self-referrals
-               _gaq.push(['_addIgnoredRef', 'alsa.org']);
-               _gaq.push(['_addIgnoredRef', 'alsapromise.org']);
-    _gaq.push(['_addIgnoredRef', 'alsagrants.org']);
-    _gaq.push(['_addIgnoredRef', 'convio.org']);
-    _gaq.push(['_addIgnoredRef', 'legacy.vg']);
-                
-                                // Decide how to track. (These are not mutually exclusive.)
-                var trackEvents = false;
-                var trackPageViews = true;
-                
-                                // regular expressions matching the domain, 
-                                //make sure to list them from most specific to least specific        
-                var trackedDomains = [
-                                /^https?:\/\/([\w_\.-]*alsa\.org)\/?/
-                              , /^https?:\/\/([\w_\.-]*convio\.net)\/?/
-            , /^https?:\/\/([\w_\.-]*alspromise\.org)\/?/
-                              , /^https?:\/\/([\w_\.-]*alsagrants\.org)\/?/
-                              , /^https?:\/\/([\w_\.-]*legacy\.vg)\/?/
-                                                                                                     
-                ];
-                
-                                // End configuration
-                bf.onLoad(bf.ga.trackLinks, null, trackedDomains, trackEvents, trackPageViews);
-                bf.ga.configureGA();
-                _gaq.push(['_trackPageview']);
-                
-                (function() {
-                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-                ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-                })();
-
-
-//fix for E-commerce Tracking
-//sets page title
-var pageTitle = "";
-var seperator = ":";
-pageTitle = document.title.replace(/^\s+|\s+$/g, '');
-var pageTitleWords = pageTitle.split(seperator);
-var pageTitleBeginning = pageTitleWords[0];
-//var pageFullTitle = document.title;  
-var pageFullTitle = 'The ALS Association' ;
-
-
-  
-//  Track login state if logged in
-  
-
-
-// Track source code if set
-
-
-  if (typeof CONVIO!="undefined" && CONVIO){
-    if (CONVIO.referrer.length != 0) {
-      _gaq.push(['_setReferrerOverride',CONVIO.referrer]);
-    }
-  }
-
-
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-
-
-
-// Track eCommerce if success page 
-
-//Account for all API donation forms
-
-
-
-//Tracks event registrations as ecommerce -update pagename
-
-
-
-
-
-
-
-//Tracks event registrations as ecommerce 
-
-// --&gt;
-// ]]></script>
-
-
-
-</div>
-
-
-
-
-<!-- Powered by Convio -->
-<!-- 10.12.0.42:8901 -->
+<!-- 10.12.0.30:8901 -->
 
 </body></html>
