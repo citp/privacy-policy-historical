@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adshield.me privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124200948id_/http%3A//adshield.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adshield.me privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525161452id_/http%3A//adshield.me/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy adshield.me
 
 ## Overview of Our Privacy Policy
 
@@ -97,9 +97,9 @@ Many ad companies are members of the Network Advertising Initiative. NAI members
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-## Information stored on your system when you use Clear
+## Information stored on your system when you use AdShield
 
-Clear stores some information locally on your system. This may include:
+AdShield stores some information locally on your system. This may include:
 
   * Basic browsing history information such as the URLs of pages that you visit, a cache file of text and images from those pages, and a list of the some IP addresses linked from pages that you visit.
   * A searchable index of most pages you visit (except for secure pages with “https” web addresses such as bank pages).
@@ -114,7 +114,7 @@ You can always choose to delete your browsing history information, in whole or i
 
 We currently do not send promotional messages to our users. If at any time we do contact you, it would only be for product support reasons. If in that regard, you would like stop receiving messages or notifications, you can click on an unsubscribe link from any message we provide to no longer receive our messages.
 
-If you would like to be removed from our system, you can reach us via email at [contactus@browseclear.com](mailto:contactus@adshield.me?Subject=Hello%20again).
+If you would like to be removed from our system, you can reach us via email at [contactus@browseAdShield.com](mailto:contactus@adshield.me?Subject=Hello%20again).
 
 ## California Online Privacy Protection Act Compliance
 
@@ -146,9 +146,9 @@ If we decide to change our Privacy Policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may Contact Us at:
 
-**Clear**  
+**AdShield**  
 588 Sutter St. #551   
 San Francisco, CA 94102-1102  
 [contactus@adshield.me](mailto:contactus@adshield.me?Subject=Hello%20again)
 
-Last Updated: June 12, 2015
+Last Updated: JAnurary 11, 2016
