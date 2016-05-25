@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vinsolutions.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907213039id_/http%3A//vinsolutions.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vinsolutions.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525123413id_/http%3A//www.vinsolutions.com/privacy-terms/privacy) for the most accurate reproduction.*
 
-# VinSolutions - Privacy Policy
+# VinSolutions - Auto Dealership Management and Sales Software
 
  
 
@@ -11,7 +11,7 @@ Thank you for your interest in VinSolutions. We respect the privacy of our users
 
   Services offered by the Sites are not directed to individuals under the age of eighteen (18). If you are under eighteen (18), you should not provide any personal information to us.
 
-  This Privacy Statement covers:
+  This Privacy Statement covers: 
 
   * Information We Collect
     * Information You Provide
@@ -39,7 +39,7 @@ Thank you for your interest in VinSolutions. We respect the privacy of our users
   * Updates to this Privacy Statement
   * How to Contact Us
 
-
+ 
 
 **Information We Collect**  
  
