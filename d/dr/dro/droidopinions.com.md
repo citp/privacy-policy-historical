@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the droidopinions.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118070823id_/http%3A//www.droidopinions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the droidopinions.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525211755id_/http%3A//www.droidopinions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DroidOpinions
 
