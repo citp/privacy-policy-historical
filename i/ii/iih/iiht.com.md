@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the iiht.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103171017id_/http%3A//www.iiht.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iiht.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525190708id_/http%3A//www.iiht.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy, Indian Institute of Hardware Technology Limited | IIHT, Best IT Training Institutes
-
-### Privacy Policy
+# IIHT
 
 This privacy policy sets out how Indian Institute of Hardware Technology Limited uses and protects any information that you give Indian Institute of Hardware Technology Limited when you use this website.
 
@@ -10,9 +8,9 @@ Indian Institute of Hardware Technology Limited is committed to ensuring that yo
 
 Indian Institute of Hardware Technology Limited may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
-### What we collect
+What we collect
 
-We may collect the following information:
+**We may collect the following information:**
 
   * Name and job title.
   * Contact information including email address.
@@ -21,9 +19,9 @@ We may collect the following information:
 
 
 
-### What we do with the information we gather
+What we do with the information we gather
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+**We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:**
 
   * Internal record keeping.
   * We may use the information to improve our products and services.
@@ -32,26 +30,25 @@ We require this information to understand your needs and provide you with a bett
 
 
 
-### Security
+Security
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-### Links to other websites
+Links to other websites
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-### Controlling your personal information
+Controlling your personal information
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+**You may choose to restrict the collection or use of your personal information in the following ways:**
 
-  * whenever you are asked to fill in a form on the website, you can choose not to fill the form.
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [info@iiht.com](mailto:info@iiht.com)
+  * Whenever you are asked to fill in a form on the website, you can choose not to fill the form. if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at info@iiht.com
   * We will not sell, distribute or lease your personal information to third parties, unless, we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting, if you tell us that you wish this to happen.
   * If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
 
 
-### Website disclaimer
+Website disclaimer
 
 The information contained in this website is for general information purposes only. The information is provided by Indian Institute of Hardware Technology Limited and while we endeavor to keep the information up to date and correct. We make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
 
@@ -61,25 +58,25 @@ Through this website, you are able to link to other websites which are not under
 
 Every effort is made to keep the website up and running smoothly. However, Indian Institute of Hardware Technology Limited takes no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond our control.
 
-### Cookies
+Cookies
 
 Cookies are small digital signature files that are stored by your web browser that allow your preferences to be recorded when visiting the website. Also, they may be used to track your return visits to the website to better help build and assure a quality interaction experience.
 
 3rd party advertising companies may also use cookies for tracking purposes.
 
-### Google Ads
+Google Ads
 
-Google, as a third party vendor, uses cookies to serve ads.
-
-Google’s use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet.
-
+Google, as a third party vendor, uses cookies to serve ads.  
+Google’s use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet.  
 Website visitors may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-### Contact Us
+  
 
-15, 4th Floor, Sri Lakashmi Complex.  
-St. Marks Road,  
+
+__**Contact Us**  
+15, 4th Floor, Sri Lakashmi Complex  
+St. Marks Road  
 Bangalore – 560 001.  
 INDIA.
 
-Email: [info@iiht.com](mailto:info@iiht.com)
+__: info@iiht.com
