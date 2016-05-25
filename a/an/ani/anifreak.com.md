@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anifreak.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810163206id_/http%3A//www.anifreak.com/main/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anifreak.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525123916id_/http%3A//www.anifreak.com/main/privacy.html) for the most accurate reproduction.*
 
 # aniFreak > Your #1 Anime and Manga Resource! > Main > Privacy
 
