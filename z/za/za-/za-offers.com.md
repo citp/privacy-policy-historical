@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the za-offers.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107110040id_/http%3A//www.za-offers.com/cgi-bin/global.pl%3Ftodo%3Dshow_page%26ident%3Ddatenschutz%26wingame_pk%3D43%26freetest_pk%3D23) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the za-offers.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526095304id_/http%3A//www.za-offers.com/cgi-bin/global.pl%3Ftodo%3Dshow_page%26ident%3Ddatenschutz%26wingame_pk%3D43%26freetest_pk%3D23) for the most accurate reproduction.*
 
 # 
 
