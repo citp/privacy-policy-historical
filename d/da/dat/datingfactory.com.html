@@ -1,0 +1,166 @@
+<!--The following is the downloaded HTML source of the datingfactory.com privacy policy that was archived on 2016-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160526041354id_/http%3A//datingfactory.com/memberprivacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><head profile="http://gmpg.org/xfn/11"><link rel="stylesheet" href="http://datingfactory.com/wp-content/plugins/wp-minify-fix/cache/a65fa58c3facf0692a07699f86713317.css?m=1464235646" type="text/css" media="screen"> <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="http://datingfactory.com/wp-content/plugins/wp-minify-fix/cache/4c761f0b97ce007b5520651dc01604d6.js?m=1464235200"></script> <link href="http://fonts.googleapis.com/css?family=Roboto:400,100,300,700" rel="stylesheet" type="text/css"><link href="http://fonts.googleapis.com/css?family=Ubuntu+Condensed" rel="stylesheet" type="text/css"><link href="http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700" rel="stylesheet" type="text/css"><meta http-equiv="Content-Type" content="text/html" charset="UTF-8"><meta name="verify-v1" content="rx5HR0niuDB+EXPSr94xjm7aHZ/4HD6tCsAc5T9x3jg="><title>Privacy Policy | DatingFactory.com</title><link rel="shortcut icon" href="/favicon.ico"><meta name="HandheldFriendly" content="True"><meta name="MobileOptimized" content="320"><meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black"><meta http-equiv="cleartype" content="on"><!--[if lte IE 9]><link href="/wp-content/themes/datingfactorymobile/style.ie.css" rel="stylesheet" type="text/css" /> <![endif]-->  <script type="text/javascript">/*<![CDATA[*/function mycarousel_initCallback(carousel)
+{
+    // Disable autoscrolling if the user clicks the prev or next button.
+    carousel.buttonNext.bind("click", function() {
+        carousel.startAuto();
+    });
+    carousel.buttonPrev.bind("click", function() {
+        carousel.startAuto();
+    });
+    // Pause autoscrolling if the user moves with the cursor over the clip.
+    carousel.clip.hover(function() {
+        carousel.stopAuto();
+    }, function() {
+        carousel.startAuto();
+    });
+};
+function slideSwitch() {
+    var $active = $('.vslideshow IMG.active');
+    if ( $active.length == 0 ) $active = $('.vslideshow IMG:last');
+    // use this to pull the images in the order they appear in the markup
+    var $next =  $active.next().length ? $active.next()
+        : $('.vslideshow IMG:first');
+    $active.addClass('last-active');
+    $next.css({opacity: 0.0})
+        .addClass('active')
+        .animate({opacity: 1.0}, 1000, function() {
+            $active.removeClass('active last-active');
+        });
+}
+$(function() {
+    setInterval( "slideSwitch()", 4000 );
+});
+    $(document).ready(function(){
+		$("#mycarousel").jcarousel({
+        auto: 0,
+        wrap: "circular",
+		scroll: 1,
+		timer: 3000,
+        initCallback: mycarousel_initCallback
+		});
+		$("a.link-login").click(
+   			function() {
+		       $(".form-login").css("display","block");
+   			   $(".gray-cover").css("z-index","5");
+   			   $(".gray-cover").css("background-image","url(/wp-content/themes/datingfactory/images/gray-cover.png)");
+			   $(".gray-cover").css("display","block");
+	    });
+		$("a.closei").click(
+			function() {
+				$(".form-login").css("display","none");
+				$(".gray-cover").css("display","none");
+				$("body").css("overflow","visible");
+		});
+		$(".current_page_item a").after("<div></div>");
+		$(".portfolioList li").mouseover(function(){
+			 $("a.sitelink",this).css("display","block");
+			 }).mouseout(function(){
+				$("a.sitelink",this).css("display","none");
+				});
+		$(".foryou ul li").find(".title").click(
+			function() {
+				$(this).parent().find("span").css({"display":"block"});
+			});
+        $("#carousel_item").agile_carousel({
+                carousel_data: [{
+      "content": "<div class='carousel_photo'><a href='/about-us/testimonials/'><img src='/wp-content/themes/datingfactory/images/company/testimonials/01_thomas.jpg' alt='Thomas VOULLEMIER' /></a></div><h3>Thomas VOULLEMIER</h3><a href='http://www.datingdisabled.net' target='_blank'>www.datingdisabled.net</a><div class='carousel_text'><p>I wasn't expecting it, it takes time to convert and every adwords advertiser understands it.&hellip;</p><a href='/about-us/testimonials/' class='readmore'>Read more&hellip;</a></div>"
+}, {
+      "content": "<div class='carousel_photo'><a href='/about-us/testimonials/'><img src='/wp-content/themes/datingfactory/images/company/testimonials/02_david.jpg' alt='David MILLER' /></a></div><h3>David MILLER</h3><a href='http://disabilitymatch.co.uk/' target='_blank'>disabilitymatch.co.uk</a><div class='carousel_text'><p>Datingfactory is by far and away the best dating network I have dealt with, friendly, helpful&hellip;</p><a href='/about-us/testimonials/' class='readmore'>Read more&hellip;</a></div>"
+}, {
+      "content": "<div class='carousel_photo'><a href='/about-us/testimonials/'><img src='/wp-content/themes/datingfactory/images/company/testimonials/04_steve_bolton.jpg' alt='Steve Bolton' /></a></div><h3>Steve Bolton</h3><a href='http://www.dateanudist.com/' target='_blank'>www.dateanudist.com</a><div class='carousel_text'><p>I have been developing affiliate dating sites for around two years now, with a number of white label providers&hellip;</p><a href='/about-us/testimonials/' class='readmore'>Read more&hellip;</a></div>"
+}, {
+      "content": "<div class='carousel_photo'><a href='/about-us/testimonials/'><img src='/wp-content/themes/datingfactory/images/company/testimonials/04_jeff.jpg' alt='Jeff Bledsoe' /></a></div><h3>Jeff Bledsoe</h3><a href='http://interracialswirl.com/' target='_blank'>interracialswirl.com</a><div class='carousel_text'><p>I have tried other White Label Dating platforms and none compare to Dating Factory&hellip;</p><a href='/about-us/testimonials/' class='readmore'>Read more&hellip;</a></div>"
+}, {
+      "content": "<div class='carousel_photo'><a href='/about-us/testimonials/'><img src='/wp-content/themes/datingfactory/images/company/testimonials/05_linder.jpg' alt='Mikael Linder' /></a></div><h3>Mikael Linder</h3><a href='http://www.kk.nu/' target='_blank'>www.kk.nu</a><div class='carousel_text'><p>Datingfactory outperforms everything on the market! Easy to set up. Easy to launch. Easy to make money&hellip;</p><a href='/about-us/testimonials/' class='readmore'>Read more&hellip;</a></div>"
+	  }, {
+      "content": "<div class='carousel_photo'><a href='/about-us/testimonials/'><img src='/wp-content/themes/datingfactory/images/company/testimonials/06_uaeaffairs.jpg' alt='Mehtab Ullah' /></a></div><h3>Mehtab Ullah</h3><a href='http://uaeaffairs.com/' target='_blank'>uaeaffairs.com</a><div class='carousel_text'><p>I had 2 dating sites on 2 different platforms before joining DF. I spent quite decent money on designs&hellip;</p><a href='/about-us/testimonials/' class='readmore'>Read more&hellip;</a></div>"
+}, {
+      "content": "<div class='carousel_photo'><a href='/about-us/testimonials/'><img src='/wp-content/themes/datingfactory/images/company/testimonials/07_siva.jpg' alt='Siva Ganesamoorthy' /></a></div><h3>Siva Ganesamoorthy</h3><a href='http://www.disableddating4u.co.uk/' target='_blank'>DisabledDating4U.co.uk</a><div class='carousel_text'><p>I decided towards the end of 2009 that I was going to launch a life-long dream of owning my own dating site or sites&hellip;</p><a href='/about-us/testimonials/' class='readmore'>Read more&hellip;</a></div>"
+}, {
+      "content": "<div class='carousel_photo'><a href='/about-us/testimonials/'><img src='/wp-content/themes/datingfactory/images/company/testimonials/08_flirtovanie.jpg' alt='Flirtovanie.com' /></a></div><h3>Johan Gadd</h3><a href='http://www.flirtovanie.com/' target='_blank'>Flirtovanie.com</a><div class='carousel_text'><p>Having worked as an affiliate marketer for several years, promoting everything from dating to games,&hellip;</p><a href='/about-us/testimonials/' class='readmore'>Read more&hellip;</a></div>"
+}, {
+      "content": "<div class='carousel_photo'><a href='/about-us/testimonials/'><img src='/wp-content/themes/datingfactory/images/company/testimonials/09_flirtovanie.jpg' alt='Celibataires.ca' /></a></div><h3>Vincent Abry</h3><a href='http://www.celibataires.ca/' target='_blank'>Celibataires.ca</a><div class='carousel_text'><p>As an affiliate, I tried several white label dating platforms and I must admit that the most advanced of all them is Dating Factory&hellip;</p><a href='/about-us/testimonials/' class='readmore'>Read more&hellip;</a></div>"
+}],
+                carousel_outer_height: 365,
+                carousel_height: 365,
+                slide_height: 365,
+                carousel_outer_width: 219,
+                slide_width: 169,
+                transition_time: 300,
+                timer: 7000,
+                continuous_scrolling: true
+                //no_control_set: "previous_button,next_button"
+            });
+            $("#carousel_create_site").agile_carousel({
+                carousel_data: [{
+      "content": "<div class='create_site'>Create your own dating website</div>"
+}, {
+      "content": "<div class='create_site'>Promote top brands</div>"
+}, {
+      "content": "<div class='create_site'>Run your own affiliate network</div>"
+}],
+                carousel_outer_height: 160,
+                carousel_height: 160,
+                slide_height: 160,
+                carousel_outer_width: 190,
+                slide_width: 190,
+                transition_time: 300,
+                timer: 7000,
+                continuous_scrolling: true
+                //no_control_set: "previous_button,next_button"
+            });
+		$("a.closeth").click(
+			function() {
+				$(".thanncover").css("display","none");
+				$(".gray-cover").css("display","none");
+				$("body").css("overflow","visible");
+		});
+		$('.for30days span').text(Math.ceil( (new Date(2014, 4, 2, 0, 0, 0) - new Date())/(1000*60*60*24) ));
+        });
+function descchange (objName) {
+    if ( $(objName).css('display') == 'none' ) {
+    $(objName).animate({height: 'show'}, 300);
+    } else { $(objName).animate({height: 'hide'}, 300); }
+    };
+$(window).scroll(function(event) {
+	$('#top_fixed').css('display','block');
+});/*]]>*/</script> <script type="text/javascript">/*<![CDATA[*/window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/datingfactory.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.1"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d");return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(String.fromCharCode(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(String.fromCharCode(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(String.fromCharCode(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(String.fromCharCode(55357,56835),0,0):e.fillText(String.fromCharCode(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);/*]]>*/</script><script src="http://datingfactory.com/wp-includes/js/wp-emoji-release.min.js?ver=4.4.1" type="text/javascript"></script> <style type="text/css">img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}</style><style id="wp-polls-inline-css" type="text/css">.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 6px;
+	line-height: 8px;
+	height: 8px;
+	background-image: url('http://datingfactory.com/wp-content/plugins/wp-polls/images/default/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}</style><link rel="https://api.w.org/" href="http://datingfactory.com/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://datingfactory.com/xmlrpc.php?rsd"><link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://datingfactory.com/wp-includes/wlwmanifest.xml"><meta name="generator" content="WordPress 4.4.1"><link rel="canonical" href="http://datingfactory.com/memberprivacy/"><link rel="shortlink" href="http://datingfactory.com/?p=840"><link rel="alternate" type="application/json+oembed" href="http://datingfactory.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdatingfactory.com%2Fmemberprivacy%2F"><link rel="alternate" type="text/xml+oembed" href="http://datingfactory.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdatingfactory.com%2Fmemberprivacy%2F&amp;format=xml"><meta name="robots" content="noindex,nofollow,noarchive"><meta name="description" content="Privacy Policy for www.datingfactory.com members can be found here"><meta name="keywords" content="DatingFactory.com, Dating Factory Privacy Policy, "><link rel="canonical" href="http://datingfactory.com/memberprivacy/"><meta name="blogcatalog" content="9BC9929278"><link href="https://plus.google.com/107876291608517033848" rel="publisher"><style>div.thanncover {position:absolute; width:100%; height:100%; left:0; top:0; text-align:center; z-index:2000;}
+div.thann {position:relative; margin:100px auto 0; background:url(/wp-content/themes/datingfactory/images/5th-anniversary.png) no-repeat; width:542px; height:535px;}
+a.closeth {position:absolute; right:23px; top:44px; width:12px; height:12px;}
+a.thbutton {background:url(/wp-content/themes/datingfactory/images/5th-button.png) no-repeat; width:355px; height:102px; position:absolute; top:388px; left:120px; line-height:76px; color: #FFFFFF; cursor: pointer; font-size: 42px; font-weight: bold; text-align: center; text-decoration: none; text-shadow: -1px -1px 1px #416E00;}
+div.for30days {position:absolute; bottom:0; left:0; width:95%; text-align:center; font-size:16px; font-weight:bold; color:#fff; padding:0 0 0 5%;}
+div.for30days span {font-size:29px;}
+div.thdescription {width:320px; text-align:center; padding:110px 0 0 135px; font-family:'Roboto'; font-size:18px; font-weight:300;}
+.ann5th {font-size:22px;}
+.ann5th strong {color:#f20000; letter-spacing:-1px; font-weight:700;}
+.ann85 {font-size:37px; color:#f20000; font-weight:300; display:block; padding:13px 0 0px;}
+.ann85 strong {font-weight:700;}
+.for60 {font-size:37px; color:#494141; font-weight:300; display:block; padding:0 0 20px; line-height:1;}
+.for60 .blue {color:#0089d0;}
+.for60 strong {font-weight:700;}</style><!--[if IE 7]><style>div.thdescription {padding-left:65px!important; width:340px!important;}</style><![endif]--></head><body class="memberprivacy"><div class="gray-cover"></div><div id="header"><div class="content clearfix"> <a name="pageTop">&nbsp;</a> <a href="#pageTop" id="top_fixed"><img src="/wp-content/themes/datingfactorymobile/images/toparrow.png" width="20"></a><div class="logo"><a href="http://datingfactory.com/" title="DatingFactory.com"><img src="/wp-content/themes/datingfactory/images/logo.png" alt="International Private Label Dating Solutions and Dating Affiliate Network | DatingFactory.com" title="International Private Label Dating Solutions and Dating Affiliate Network | DatingFactory.com"></a></div><h1 class="slogan">We build <span>your brand,</span> not ours...</h1><div class="autorization"> <a href="#" class="link-login">Login</a> <a href="/registration" class="link-registration">Start now!</a> <a href="#" onclick="descchange('#list-menu'); return false" class="link-menu">Menu</a><ul id="list-menu"><li class="frontpage"><a href="/"></a></li><li class="page_item  first-page-item page-item-150"><a href="http://datingfactory.com/registration/">Register</a></li><li class="page_item page-item-499"><a href="http://datingfactory.com/about-us/">About <span>Us</span></a></li><li class="page_item page-item-22"><a href="http://datingfactory.com/platform/">White Label Dating Platform</a></li><li class="page_item page-item-20"><a href="http://datingfactory.com/customers/">How It Works</a></li><li class="page_item page-item-501"><a href="http://datingfactory.com/testimonials/">Partners</a></li><li class="page_item page-item-31"><a href="http://datingfactory.com/news/">News</a></li><li class="page_item  last-page-item page-item-15"><a href="http://datingfactory.com/contact/">Contacts</a></li></ul></div><div class="form-login clearfix"><form class="clean" enctype="application/x-www-form-urlencoded" method="post" id="account" name="account" action="https://admin.datingfactory.com/auth/login"><div class="horizontal"><div class="dt"><label for="username">E-mail:</label></div><div class="dd"><input type="text" value="" id="username" name="username"></div><div class="dt"><label for="password">Password:</label></div><div class="dd"><input type="password" value="" id="password" name="password"></div> <button id="submitButtonlogin" class="submit" type="submit">Login</button><div class="clear"></div></div><div class="horizontal"><div class="helplinks"><a href="/registration/">Not registered yet?</a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://admin.datingfactory.com/auth/resetpassword">Forgot password?</a></div></div></form> <a href="#" class="closei">x</a></div><div class="phone"> +1 855 642 8715</div></div></div><div id="mainMenu"><div class="content"><ul><li class="frontpage"><a href="/"></a></li><li class="page_item  first-page-item page-item-150"><a href="http://datingfactory.com/registration/">Register</a></li><li class="page_item page-item-499"><a href="http://datingfactory.com/about-us/">About <span>Us</span></a></li><li class="page_item page-item-22"><a href="http://datingfactory.com/platform/">White Label Dating Platform</a></li><li class="page_item page-item-20"><a href="http://datingfactory.com/customers/">How It Works</a></li><li class="page_item page-item-501"><a href="http://datingfactory.com/testimonials/">Partners</a></li><li class="page_item page-item-31"><a href="http://datingfactory.com/news/">News</a></li><li class="page_item  last-page-item page-item-15"><a href="http://datingfactory.com/contact/">Contacts</a></li></ul></div></div><div id="body" class=""><div class="content clearfix"><div class="pageColumn pageLeft"><ul class="sidemenu"></ul></div><div class="pageColumn pageRight"> <a href="/registration/" class="startButton"><span>Start Now!</span></a><h1 class="title_content">Privacy Policy</h1><div class="pageContent clearfix"><p><strong>This Privacy Policy is effective for Members on websites in the Dating Factory Network</strong></p><p><strong>Last edition — March 1, 2014.</strong></p><p>The Dating Factory network is operated by Tyche Technologies AG, a company registered under the laws of Switzerland, whose registered office is Baarerstrasse 21, CH-6300, Zug, Switzerland.</p><p>The Dating Factory Network is committed to providing you with the professional and high quality dating solutions and is therefore committed to protecting your privacy. We follow all the procedures that are set out in this document, and it needs to be read and understood together with the <a href="http://datingfactory.com/memberterms/">Terms of use</a> of the web-site you registered on. The Dating Factory Network Privacy Policy is intended to ensure that you can use the service without having to worry about confidentiality issues.</p><p>Dating Factory may change some clauses of this Policy from time to time, and members are advised to review this Policy regularly to make sure they read and understand the most current version of it.</p><ol><li>All the information you fill about you on your profile will be displayed on your profile page. We are required to remove any bad language or words and phrases that don’t contain any information or make sense in the interests of other members and with a view of providing a quality dating service to every member of the web-site on the Dating Factory Network. We will only post pictures and images which meet the editorial guidelines set out in Terms of use.</li><li>We will NOT display any of your personal information such as your real name, e-mail address, full post code, mobile or landline phone number or IP-address, and they will be kept strictly private and confidential. In any case when we ask for such information we make it clear that it is not for display without your express consent.</li><li>We will not share your personal information with any third party for marketing purposes without your permission.</li><li>We are required to give information to legal authorities if they have the proper authorization such as a search warrant or court order. Other than a valid request from a legal authority your information is secure on the web-site and on the Dating Factory Network. We do our best to ensure that all information held relating to you is kept up-to-date, accurate and complete, but we also rely on you to notify us if your information requires updating or deleting.</li><li>Your individual use of the web-site and your interaction with other members through it will be kept strictly private.</li><li>We may from time to time send you offers, system and site activity notifications or emails or promotions that we feel will be of benefit for you to the email you provided us with. You may unsubscribe to these at any time using the link at the top of the emails or by changing your profile settings.</li><li>In the course of serving ads to the web-site and you using some part of the it, us or our third-party advertiser may place or recognize a unique cookie on your browser. Cookies are a normal part of internet operations and are also used by the Dating Factory Network to safely identify you each time you logon and use the web-site and to keep your session active when you don’t use the web-site for some time. Any information collected via cookies and marketing campaigns tracking software is totally anonymous.</li><li>If you want to unsubscribe from receiving email notifications to your external mailbox, please use the link at the bottom of each email.<p>Our members have the following choices to modify or delete their information from our database:</p><ul><li>Send an email to Customer support</li><li>Log in with your password and change/delete your profile</li></ul></li></ol><p>If you have questions or concerns, please use <a title="Contacts" href="http://datingfactory.com/contact/">“Contact us” form on www.datingfactory.com</a> web-site, or call us at +44 2033970182 or +41 0566342202 and our team will deal with your enquiry quickly, professionally and efficiently because we take privacy of our members seriously and are ready to address all the concerns they may have 24/7.</p><p>&nbsp;</p></div></div></div></div><div id="above-footer"><div class="content"><div class="pageswidgets"><div style="display:inline;"><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fdatingfactory.com%2Fmemberprivacy%2F&amp;send=false&amp;layout=button_count&amp;width=120&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:21px;" allowtransparency="true"></iframe></div><div style="display:inline;"><a href="http://twitter.com/share?url=http%3A%2F%2Fdatingfactory.com%2Fmemberprivacy%2F" class="twitter-share-button" data-count="horizontal">Twitter</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div><div style="display:inline;"><g:plusone size="medium" href="http://datingfactory.com/memberprivacy/"></g:plusone><script type="text/javascript">(function() { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; po.src = 'https://apis.google.com/js/plusone.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })();</script></div></div></div></div><div id="footer"><div class="content"><div class="fright"><div class="bged subscribe"><h3 class="subscribe_title"><strong>Subscribe</strong> to our marketing tips<br> <span>How to make money on online dating</span></h3><div id="quick_subscribe_messages"></div><form name="quick_subscribe_form" id="quick_subscribe_form" method="POST" action="http://datingfactory.com/index.php?"><input class="commonInput" type="text" name="QS_user_email_tt" id="QS_user_email_tt" value="E-mail" onfocus="if(this.value==&quot;E-mail&quot;) this.value=&quot;&quot;"><input class="commonButton" type="submit" value="Subscribe"></form><div class="clear"></div></div><div class="topnav"><div class="social colour"><ul><li><a href="http://twitter.com/datingfactory" title="DatingFactory on Twitter" target="_blank" class="tw">&nbsp;</a></li><li><a href="http://www.youtube.com/user/datingfactorynetwork" title="DatingFactory on YouTube" target="_blank" class="yt">&nbsp;</a></li><li><a href="https://www.facebook.com/pages/Dating-Factory/128016303899214" title="DatingFactory on FaceBook" target="_blank" class="fb">&nbsp;</a></li><li><a title="DatingFactory on Google+" target="_blank" class="go" href="https://plus.google.com/107876291608517033848?prsrc=3"></a></li><li><a href="https://www.linkedin.com/company/datingfactory-com" title="DatingFactory on LinkedIn" target="_blank" class="in">&nbsp;</a></li></ul></div></div></div><div class="fleft"><h4 class="footer_slogan">We build <br><strong>your brand,</strong><br> <span>not ours...</span> &nbsp;&nbsp;&nbsp;&nbsp;<sup><font size="1">™</font></sup></h4><div id="footerMenu"><ul><li class="page_item  first-page-item page-item-1376"><a href="http://datingfactory.com/terms-and-conditions/">Terms and Conditions</a></li><li class="page_item page-item-13"><a href="http://datingfactory.com/faq/">FAQs</a></li><li class="page_item page-item-15 page_item_has_children"><a href="http://datingfactory.com/contact/">Contacts</a><ul class="children"><li class="page_item  last-page-item page-item-41"><a href="http://datingfactory.com/contact/vacancie/">We are recruiting</a></li></ul></li><li class="page_item page-item-840"><a href="/memberprivacy/">Member privacy policy</a></li></ul></div><div class="clear"></div><p class="copyright clean">Copyright DatingFactory.com, 2009–2016<br><br> This website places cookies on your computer. For more info <a href="/about-us/cookie">click here</a>.</p></div><div class="clear"></div></div></div> <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script> <script type="text/javascript">try {
+var pageTracker = _gat._getTracker("UA-8993531-4");
+pageTracker._trackPageview();
+} catch(err) {}</script> </body></html>
