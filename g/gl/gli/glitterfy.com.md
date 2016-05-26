@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glitterfy.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205192652id_/http%3A//www.glitterfy.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glitterfy.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526083844id_/http%3A//www.glitterfy.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Service - Glitterfy.com
 
