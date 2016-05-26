@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecommunity.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907014538id_/https%3A//www.ecommunity.com/s/privacy-notice-hipaa/notice-of-privacy-practices) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecommunity.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526230303id_/http%3A//www.ecommunity.com/s/privacy-notice-hipaa/notice-of-privacy-practices) for the most accurate reproduction.*
 
 # Privacy Notice / HIPAA | Notice of Privacy Practices | Community Health Network
 
@@ -81,27 +81,27 @@ If you have questions about this Notice or complaints about our privacy practice
 
 Marti A. Baker, Network Privacy & Compliance Consultant  
 317-621-7321  
-[E-mail Marti Baker](https://web.archive.org/web/20150907014538id_/https%3A//www.ecommunity.com/s/privacy-notice-hipaa/mabaker@eCommunity.com)
+[E-mail Marti Baker](https://web.archive.org/web/20160526230303id_/http%3A//www.ecommunity.com/s/privacy-notice-hipaa/mabaker@eCommunity.com)
 
 Melissa Kleine, Chief Quality and Compliance Officer, Community Home Health  
 317-621-4832  
-[E-mail Melissa Kleine](https://web.archive.org/web/20150907014538id_/https%3A//www.ecommunity.com/s/privacy-notice-hipaa/mkleine@eCommunity.com)
+[E-mail Melissa Kleine](https://web.archive.org/web/20160526230303id_/http%3A//www.ecommunity.com/s/privacy-notice-hipaa/mkleine@eCommunity.com)
 
 Emily Rogers, Director of Human Resources, Community Westview Hospital  
 317-920-7273  
-[E-mail Emily Rogers](https://web.archive.org/web/20150907014538id_/https%3A//www.ecommunity.com/s/privacy-notice-hipaa/erogers2@eCommunity.com)
+[E-mail Emily Rogers](https://web.archive.org/web/20160526230303id_/http%3A//www.ecommunity.com/s/privacy-notice-hipaa/erogers2@eCommunity.com)
 
 Leslee Lantz, Director of Corporate Compliance, Community Howard Regional Health  
 765-453-8462  
-[E-mail Leslee Lantz](https://web.archive.org/web/20150907014538id_/https%3A//www.ecommunity.com/s/privacy-notice-hipaa/llantz@communityhoward.org)
+[E-mail Leslee Lantz](https://web.archive.org/web/20160526230303id_/http%3A//www.ecommunity.com/s/privacy-notice-hipaa/llantz@communityhoward.org)
 
 Beth Wilhelm, Director, Risk Management and Safety, Community Physician Network  
 317-621-7186  
-[E-mail Beth Wilhelm](https://web.archive.org/web/20150907014538id_/https%3A//www.ecommunity.com/s/privacy-notice-hipaa/bwilhelm@eCommunity.com)
+[E-mail Beth Wilhelm](https://web.archive.org/web/20160526230303id_/http%3A//www.ecommunity.com/s/privacy-notice-hipaa/bwilhelm@eCommunity.com)
 
 Jackie Smith, Network Privacy & Compliance Officer  
 317-621-7324  
-[E-mail Jackie Smith](https://web.archive.org/web/20150907014538id_/https%3A//www.ecommunity.com/s/privacy-notice-hipaa/Jackie.Smith@eCommunity.com)
+[E-mail Jackie Smith](https://web.archive.org/web/20160526230303id_/http%3A//www.ecommunity.com/s/privacy-notice-hipaa/Jackie.Smith@eCommunity.com)
 
 ### VI. Instructions for Revoking an Authorization:
 
