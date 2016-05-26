@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the martinbaileyphotography.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116051904id_/http%3A//www.martinbaileyphotography.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the martinbaileyphotography.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526192111id_/http%3A//www.martinbaileyphotography.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Martin Bailey Photography
 
@@ -73,7 +73,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
  **Terms and Conditions**
 
-Please also visit our Terms of Service section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.martinbaileyphotography.com/terms-of-service/>
+Please also visit our Terms of Service section establishing the use, disclaimers, and limitations of liability governing the use of our website at <https://www.martinbaileyphotography.com/terms-of-service/>
 
 **Your Consent**
 
@@ -85,6 +85,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
  **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using our [contact form](http://http//www.martinbaileyphotography.com/contact/): [http://www.martinbaileyphotography.com/contact/](https://www.martinbaileyphotography.com/contact/)
+If there are any questions regarding this privacy policy you may contact us using our [contact form](http://https//www.martinbaileyphotography.com/contact/): <https://www.martinbaileyphotography.com/contact/>
 
 Tel: +81(0)42-446-6382 (Note that we work in Japan Standard Time (JST) which is GMT + 9 hours)
