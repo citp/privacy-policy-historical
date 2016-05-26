@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the backpage.com.au privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120223005id_/http%3A//australia.backpage.com/classifieds/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backpage.com.au privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526212541id_/http%3A//australia.backpage.com/classifieds/PrivacyPolicy) for the most accurate reproduction.*
 
 # Australia classifieds for apts, jobs, and items for sale - backpage.com
 
 **Privacy Policy  
 Last Revised: _June 1, 2015_**
 
-Backpage.com and its affiliates (collectively, the “Site”) respect your privacy. Here is our Privacy Policy for this Site:
+backpage.com and its affiliates (collectively, the “Site”) respect your privacy. Here is our Privacy Policy for this Site:
 
 **Acceptance of Privacy Policy**
 
@@ -42,9 +42,11 @@ Please note that if you post any of your personal information on the Site, such 
 
 **Collection of Non-Personal Information Using Cookies**
 
-We automatically receive and record non-personal information on our server logs from your browser as well as through other analysis of the Sites.  Non-personal information includes without limitation your Internet Protocol (“IP”) address, cookie information (as described below), the pages you request, type of computer operating system you use (e.g., Microsoft Windows or Mac OS), the type of browser you use (e.g., Firefox, Chrome, Internet Explorer), the domain name of the Internet service provider, your activities while visiting the Site, and the content you accessed. 
+We and certain service providers operating on our behalf collect information about your activity on our Site using tracking technologies such as cookies. This tracking data is used for many purposes, including, for example, to (i) deliver relevant content based on your preferences, usage patterns and location; (ii) monitor and evaluate the use and operation of our Site; and (iii) analyze traffic on our Site and on the sites of third parties. 
 
-“Cookies” are small text files that allow Web sites to store and retrieve information about you from your computer system. The Site does serve cookies to track individual site usage for later aggregation. But we do not use cookies in order to retrieve any information from your computer other than information originally sent in a Site cookie, such as a user code. We have no control over whether and how our advertisers use cookies that originate from their website.
+Non-personal information collected includes, without limitation, your Internet Protocol (“IP”) address, the pages you request, the type of computer operating system you use (e.g., Microsoft Windows or Mac OS), the type of browser you use (e.g., Firefox, Chrome or Internet Explorer), the domain name of the Internet service provider, your activities while visiting the Site and the content you accessed. We may also collect your geolocation information when you visit our Site, including location information either provided by a mobile device interacting with our Site, or associated with your IP address, where we are permitted by law to process this information. 
+
+Advertisers and third parties also may collect information about your activity on our Site and on third-party sites and applications using tracking technologies. Tracking data collected by these advertisers and third parties is used to decide which ads you see on third-party sites and applications, but does not identify you personally. You may choose not to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers. You may also choose to control targeted advertising you receive within applications by using your mobile device settings (for example, by re-setting your device’s advertising identifier and/or opting out of interest based ads). We adhere to the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising.
 
 **Communication from the Site/Opt-Out**
 
@@ -61,9 +63,10 @@ Telephone: +44 1929290057
 
 Postal Address:   
 International Correspondence:   
-Payment Solutions BV.   
-Zuidplein 116, Tower H, Level 14,   
-1077XV, Amsterdam, Netherlands 
+Payment Solutions BV.  
+Keizersgracht 127  
+1015 CJ Amsterdam  
+The Netherlands
 
 **Children**
 
