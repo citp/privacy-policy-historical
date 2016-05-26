@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conserve-energy-future.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929120357id_/http%3A//www.conserve-energy-future.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conserve-energy-future.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526075713id_/http%3A//www.conserve-energy-future.com/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # PrivacyPolicy - Conserve-Energy-Future
 
@@ -46,4 +46,17 @@ If you do not agree to www.conserve-energy-future.com Privacy Policy as posted h
 
 Your use of this site indicates acceptance of this privacy policy.
 
-* * *
+  * [About](http://www.conserve-energy-future.com/PrivacyPolicy.php#abh_about)
+  * [Latest Posts](http://www.conserve-energy-future.com/PrivacyPolicy.php#abh_posts)
+
+
+
+[](http://www.conserve-energy-future.com/author/rinkesh "Rinkesh")
+
+### [Rinkesh](http://www.conserve-energy-future.com/author/rinkesh)
+
+Rinkesh is passionate about clean and green energy. He is running this site since 2009 and writes on various environmental and renewable energy related topics. He lives a green lifestyle and is often looking for ways to improve the environment around him.
+
+[](http://www.conserve-energy-future.com/author/rinkesh "Rinkesh")
+
+#### Latest posts by Rinkesh ([see all](http://www.conserve-energy-future.com/author/rinkesh))
