@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebooktag.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125000528id_/http%3A//www.ebooktag.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebooktag.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526092250id_/http%3A//ebooktag.com/privacy.php) for the most accurate reproduction.*
 
 # eBook Tag
 
