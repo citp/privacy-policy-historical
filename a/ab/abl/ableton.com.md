@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the ableton.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905121924id_/https%3A//www.ableton.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ableton.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526203426id_/https%3A//www.ableton.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Ableton Privacy Policy | Ableton
 
+This site uses cookies. By continuing to browse the site you are agreeing to our use of cookies. [Find out more here](https://web.archive.org/en/privacy-policy/#cookies)
+
 Ableton handles all customers’ personal data with the utmost discretion. Data will only be collected within the scope of what is technically necessary. On no account, data shall be transferred to third parties for invalid reasons.
 
-### 1\. Definitions
+## 1\. Definitions
 
 This privacy policy is based on the definitions used in the German Data Protection Act (BDSG), in particular:
 
@@ -21,7 +23,7 @@ This privacy policy is based on the definitions used in the German Data Protecti
 
 
 
-### 2\. Scope and intended purpose of the data collected
+## 2\. Scope and intended purpose of the data collected
 
 Personal data shall be collected or used, insofar as this is necessary for the use of the website and for the purchase of products. In particular, data shall be collected and used in order to process user interactions and to enable contact with the web shop.
 
@@ -47,7 +49,7 @@ Billing data may be collected and used beyond completion of the billing cycle (e
 
 Insofar as there are clear indications that our website has been used with the intent of not paying (in full) for such use, we are entitled to make use of the particular users’ personal data beyond the end of the data use procedure to the extent necessary for prosecution. Once this is no longer the case, and assuming there is no further obligation to use such data, we will delete the data promptly.
 
-### 3\. Automatically collected data
+## 3\. Automatically collected data
 
  **3.1 Server log file**
 
@@ -103,7 +105,7 @@ If the “Usage Report“ function has been activated in the Software settings, 
 
 This data is used to develop the Software further, and to adapt it to user requirements, and to optimize it. Personal user profiles shall not be created.
 
-### 4\. User entries on the website
+## 4\. User entries on the website
 
  **4.1 Newsletter**
 
@@ -121,19 +123,19 @@ When you purchase products in our shop, we require the information necessary for
 
 Insofar as there are factual indications of fraudulent acquisition or other illegal uses of our services, we will be entitled to collect and exploit personal data in order to detect and prevent such unlawful use, as well as to enforce our own legal claims.
 
-### 5. External service providers
+## 5. External service providers
 
 For certain activities in connection with our website and our e-mail communication we commissioned external service providers (e.g., data processing centers). These service providers process data exclusively in accordance with our instructions, they are also bound by these privacy policy terms and are subject to our control. These service providers must not, under any circumstances, use data which they collected or processed on our behalf for their own purposes.
 
-### 6\. Criminal prosecution
+## 6\. Criminal prosecution
 
 In a given case, the obligation to provide information about inventory data for purposes of criminal prosecution, warding off danger and/or for use by the police authorities of the German Länder and other authorities can arise.
 
-### 7\. Right to access
+## 7\. Right to access
 
 You have the right to be informed at any time and without cost about the personal data recorded about you, as well as a right to the correction, blocking, and/or erasure of the data, as applicable.
 
-### 8\. Contact for data protection and privacy
+## 8\. Contact for data protection and privacy
 
 If you have any questions regarding the collection, processing, or use of your personal data, in case of requests for information, correction, blocking, and/or erasure of the data, as well for the revocation of any consent given please contact:
 
