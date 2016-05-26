@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexoverdose.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124093524id_/http%3A//www.sexoverdose.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexoverdose.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526114126id_/http%3A//sexoverdose.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
