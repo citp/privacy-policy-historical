@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cabletv.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053643id_/http%3A//www.cabletv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cabletv.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526225556id_/http%3A//www.cabletv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CableTV.com
 
@@ -42,8 +42,19 @@ IMPORTANT - PLEASE READ: By providing your contact information, including your t
 
 By submitting a review, I, the customer, give my express consent to Cabletv.com to use my review and rating in conjunction with my name and Zip Code in any way Cabletv.com sees fit, including publicly displaying it on this website.
 
+### If You Are a Resident of California or Delaware
+
+If you are a California or Delaware resident, in addition to the rights set forth above, you have the right to request information from us regarding the manner in which we share certain categories of your Customer Information with third parties, for the third parties' direct marketing purposes. California and Delaware law provides that you have the right to submit a request to us at the designated address and receive the following information:
+
+  1. The categories of information we disclosed to third parties for the third parties direct marketing purposes during the preceding calendar year
+  2. The names and addresses of third parties that received such information: and
+  3. If the nature of a third party's business cannot be reasonably determined from the third party's name, examples of the products or services marketed.
+  4. You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. Our designated email address for such requests is privacy@clearlink.com
+
+
+
 ### Changes to This Privacy Policy
 
 We will update this Privacy Policy from time to time to reflect changes in our business. If we change how we use your Customer Information or the purposes or entities for and to which we disclose your Customer Information we will post the policy change notification on our web site.
 
-The Effective Date hereto shall be June 01, 2009
+The Effective Date hereto shall be September 01, 2015
