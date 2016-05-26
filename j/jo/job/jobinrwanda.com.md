@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobinrwanda.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125042618id_/http%3A//www.jobinrwanda.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobinrwanda.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526102415id_/http%3A//www.jobinrwanda.com/content/job-rwanda-privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Job in Rwanda
+# Job in Rwanda Privacy Policy | Job in Rwanda
 
 Job in Rwanda collects personal information and distributes that information to help in connecting employers with job seekers with similar interests and to provide other services. This policy describes how information is collected and distributed and your choices with respect to your personal information.
 
