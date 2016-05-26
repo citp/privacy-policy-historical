@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pingo.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127063543id_/http%3A//www.pingo.com/en/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pingo.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526225201id_/http%3A//www.pingo.com/en/privacy.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -65,9 +65,6 @@ Visitor Retargeting Program - We work with Google to display retargeted ads to V
   * **Google opt out section:  
 [Google: http://www.google.com/privacy/ads/](http://www.google.com/privacy/ads/)**
 
-  * **Banner retargeting ads:  
-[MyThings: http://www.mythings.com/respecting-your-privacy/](http://www.mythings.com/respecting-your-privacy/)**
-
 
 
 
@@ -105,7 +102,7 @@ Personal Information will be retained as long as necessary for the fulfillment o
 
 **_Use of Personal Information to Support and Promote PINGO Services - Opt Out Rights_**
 
-By accepting this Privacy Statement, registering on the Website, or using Pingo's services, You consent to the collection, use, and disclosure of your Personal Information as set forth in this Privacy Statement. However, Pingo allows Customers to opt-out of receiving Pingo marketing communications from Us or Our affiliates during registration and any time thereafter by sending an e-mail request to [customerservice@pingo.com](mailto:customerservice@pingo.com) or by following the unsubscribe procedures in any email marketing communication.
+By accepting this Privacy Statement, registering on the Website, or using Pingo's services, You consent to the collection, use, and disclosure of your Personal Information as set forth in this Privacy Statement. However, Pingo allows Customers to opt-out of receiving Pingo marketing communications from Us or Our affiliates during registration, and any time thereafter by sending an e-mail request to [customerservice@pingo.com](mailto:customerservice@pingo.com) or by following the unsubscribe procedures in any email marketing communication.
 
 Even if You opt out of receiving Pingo marketing communications, You will still receive e-mail communications from Us regarding your Pingo account and services to which You have subscribed, including, but not limited to, communications regarding service issues. Pingo also reserves the right to use e-mail to notify You regarding any claims related to your use of Pingo services, including without limitation claims of violations of a third party's rights. You may permanently close your Pingo account and stop all communication by sending a request to [customerservice@pingo.com](mailto:customerservice@pingo.com).
 
@@ -144,9 +141,9 @@ We reserve the right to change this Privacy Statement at any time. The revised P
 We have designated one or more individuals who monitor Our compliance with this Privacy Statement. The individual responsible for Our compliance has been designated as Pingo's Privacy Officer and can be reached by sending correspondence to the following address:
 
 **Pingo, Inc.  
-ATTN: Legal Dept.  
-20 Second Avenue  
-Burlington, MA 01803, USA  
+ATTN: Legal Department  
+10 McGuire Road, Building 3  
+Lexington, MA 02421, USA  
 **
 
 Other individuals may handle the day-to-day collection and processing of Personal Information. The Privacy Officer or Pingo's management may designate other individuals within Pingo to assist the Privacy Officer or to perform the Privacy Officer's responsibilities.
@@ -156,9 +153,9 @@ Other individuals may handle the day-to-day collection and processing of Persona
 If a Customer or Visitor believes that We have not complied with the terms and conditions of this Privacy Policy, they may send correspondence to Our Privacy Officer to the following address:
 
 **Pingo, Inc.  
-ATTN: Legal Dept.  
-20 Second Avenue  
-Burlington, MA 01803, USA  
+ATTN: Legal Department  
+10 McGuire Road, Building 3  
+Lexington, MA 02421, USA  
 **
 
 Pingo will investigate all such inquiries and will respond as appropriate. We may seek advice from internal and external advisors before providing responding to Your inquiry. If We determine that a complaint is justified, We will take appropriate remedial measures, in Our sole discretion, including modifying Our policies and practices.
@@ -168,11 +165,11 @@ Pingo will investigate all such inquiries and will respond as appropriate. We ma
 Questions or correspondence regarding this Privacy Statement should be directed to Us at the following address:
 
 **Pingo, Inc.  
-ATTN: Legal Dept.  
-20 Second Avenue  
-Burlington, MA 01803, USA  
+ATTN: Legal Department  
+10 McGuire Road, Building 3  
+Lexington, MA 02421, USA  
 **
 
 **_Effective Date_**
 
-**This Privacy Statement is effective as of August 26, 2013.**
+**This Privacy Statement is effective as of January 12, 2016.**
