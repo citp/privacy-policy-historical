@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the niadd.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125082728id_/http%3A//www.niadd.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niadd.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526164349id_/http%3A//www.niadd.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy Add Funny
 
