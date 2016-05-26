@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windmobile.ca privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216203107id_/http%3A//www.windmobile.ca/accessibility-and-terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windmobile.ca privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526054316id_/http%3A//www.windmobile.ca/accessibility-and-terms/privacy) for the most accurate reproduction.*
 
 # WIND Mobile | Privacy Policy
 
@@ -23,9 +23,10 @@ In this Privacy Policy, “Personal Information” means information about you t
 
 ### Use of Information
 
-WIND Mobile and its affiliates may use Personal Information for the following purposes: to send you marketing and other communications; 
+WIND Mobile and its affiliates may use Personal Information for the following purposes: 
 
   * to conduct marketing research;
+  * to send you marketing and other communications;
   * to understand your needs and preferences and your eligibility for our products & services;
   * to develop and enhance our products and services;
   * to provide you products and services, including sending and receiving confirmations, communications and bills, validating your identity, providing you support, authorizing and processing payments or performing credit checks; 
@@ -66,9 +67,9 @@ However, we may not be able to offer you some of our services or functions of ou
 
 ### Transparency Report
 
-WIND complies with Canadian privacy law and take active steps to fully safeguard the information of our customers. At the same time we are compelled by law to respond to federal, provincial and municipal government and law enforcement agencies when they have a legally valid request ‐ like a search warrant or court order. Our customers' privacy is important to us and that is why we have issued a Transparency Report. This report is designed to provide more details on the number and types of requests we received in 2013.
+WIND complies with Canadian privacy law and take active steps to fully safeguard the information of our customers. At the same time we are compelled by law to respond to federal, provincial and municipal government and law enforcement agencies when they have a legally valid request ‐ like a search warrant or court order. Our customers' privacy is important to us and that is why we have issued a Transparency Report. This report is designed to provide more details on the number and types of requests we received in 2014.
 
-Download our [2013 Transparency Report ](http://www.windmobile.ca/docs/default-source/default-document-library/2013-transparency-report-wind-mobile.pdf)
+Download our [2014 Transparency Report](http://www.windmobile.ca/docs/default-source/default-document-library/2014-transparency-report-wind-mobileABF7DF074C25.pdf)
 
 ### Links to other sites
 
