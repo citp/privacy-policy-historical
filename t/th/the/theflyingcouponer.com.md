@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theflyingcouponer.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217112013id_/http%3A//www.theflyingcouponer.com/pr-friendly/policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theflyingcouponer.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526054806id_/http%3A//www.theflyingcouponer.com/pr-friendly/policy-2) for the most accurate reproduction.*
 
-# Giveaway, Disclosure & Privacy Policy - The Flying Couponer|Family. Travel. Couponing.
+# Giveaway, Disclosure & Privacy Policy - The Flying Couponer|Family. Travel. Saving Money.
 
 The Flying Couponer’s giveaways and reviews are honest and expressed my own opinions **.** Our giveaways are open to Canadian residents and might be open to USA residents when possible. Residents of the province of Quebec might be excluded due to La Régie des alcools, des courses et des jeux. Visit www.racj.gouv.qc.ca for more information.  
 
