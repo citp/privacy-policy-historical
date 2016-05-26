@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamestarmechanic.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926171437id_/https%3A//gamestarmechanic.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamestarmechanic.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526184610id_/https%3A//gamestarmechanic.com/about/privacy) for the most accurate reproduction.*
 
 # Gamestar Mechanic - Privacy Policy
 
