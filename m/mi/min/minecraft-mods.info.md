@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minecraft-mods.info privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217014431id_/http%3A//minecraft-mods.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraft-mods.info privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526123047id_/http%3A//minecraft-mods.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,21 +8,26 @@ The privacy of our visitors to **[minecraft-mods.info](http://minecraft-mods.inf
 
 At [**minecraft-mods.info**](http://minecraft-mods.info/ "The world of Minecraft"), we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit **[minecraft-mods.info](http://minecraft-mods.info/ "The world of Minecraft")** , and how we safeguard your information. We never sell your personal information to third parties.
 
-**Third Party Advertising**  
+ **Third Party Advertising**  
 We use Google AdSense and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
 
 If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: Google Adsense ([Privacy Policy](http://www.google.com/privacy.html))
 
-**If Google Adsense Ads are present, what does this mean to me?**  
+ **If Google Adsense Ads are present, what does this mean to me?**  
 Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.
 
 Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
 
 Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting theads preference manager. (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies for interest based advertising by visiting aboutads.info.)
 
-**Contacting Us**  
+ **Contacting Us**  
 If there are any questions regarding this privacy policy you may contact us using the information below.  
 [http://minecraft-mods.info](http://minecraft-mods.info/ "http://minecraft-mods.info")  
 **crazyminecraft.net@gmail.com**
 
-**Thanks for your visitation.**
+ **Thanks for your visitation.**
+
+Back to top
+
+Minecraft mods reviews, downloads and guides. Updated regularly with the latest and greatest Mods for Minecraft. On this website you can find the latest updates of minecraft, as well as to download free mods, resource packs, maps, skins for 1.9, 1.8, 1, 1.7.10, 1.6...   
+Copyright ©2016 – [minecraft-mods.info](http://www.minecraft-mods.info/). All rights reserved. Minecraft-mods.info is not affiliated with Mojang AB [](http://minecraft-mods.info/)
