@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manojob.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126140241id_/http%3A//www.manojob.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manojob.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526105050id_/http%3A//www.manojob.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | ManoJob
 
