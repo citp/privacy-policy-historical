@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anyperk.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909181432id_/https%3A//anyperk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anyperk.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526171318id_/https%3A//anyperk.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy of AnyPerk | AnyPerk
 
@@ -83,7 +83,7 @@ You may opt out of receiving promotional communications from us by using the uns
 
 We take reasonable measures to protect your personal information. Please be aware, however, that despite our efforts, no security measures are perfect or impenetrable and no method of data transmission can be guaranteed against any interception or other type of misuse.
 
-## Childrenís Privacy
+## Children's Privacy
 
 Our Services are not directed to individuals under 13. We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we will take steps to delete such information. If you become aware that a child has provided us with personal information, please contact us.
 
