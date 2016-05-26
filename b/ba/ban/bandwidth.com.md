@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bandwidth.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908020319id_/http%3A//www.bandwidth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bandwidth.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526205450id_/http%3A//www.bandwidth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bandwidth
 
