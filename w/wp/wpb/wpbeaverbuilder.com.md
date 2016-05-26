@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the wpbeaverbuilder.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908144341id_/https%3A//www.wpbeaverbuilder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpbeaverbuilder.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526072456id_/https%3A//www.wpbeaverbuilder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Beaver Builder
+
+See our [Terms and Conditions](https://www.wpbeaverbuilder.com/terms-and-conditions/).
 
 ### What information do we collect?
 
@@ -12,26 +14,26 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 Any of the information we collect from you may be used in one of the following ways:
 
- **To personalize your experience**  
+**To personalize your experience**  
 Your information helps us to better respond to your individual needs.
 
- **To improve customer service**  
+**To improve customer service**  
 Your information helps us to more effectively respond to your customer service requests and support needs.
 
- **To process transactions**  
+**To process transactions**  
 Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
 ### How do we protect your information?
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
 ### Do we use cookies?
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
 We use cookies to help us remember and process the items in your shopping cart and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
@@ -47,7 +49,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Account’ page.
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at any time by logging into their control panel and going to the ‘Edit Account’ page.
 
 ### Childrens Online Privacy Protection Act Compliance
 
@@ -63,7 +65,7 @@ By using our site, you consent to our privacy policy.
 
 ### Newsletter
 
-By becoming a member of Beaver Builder, you acknowledge and agree to be signed up for our newsletter which will be sent to you occasionally for either bug releases, theme updates or when new items are released. You are free to opt out at any time by clicking on the link provided in the newsletter. We do not give your personal information to any 3rd party companies as mentioned in our [Privacy Policy](http://www.wpbeaverbuilder.com/privacy-policy/ "Privacy Policy").
+By becoming a member of Beaver Builder, you acknowledge and agree to be signed up for our newsletter which will be sent to you occasionally for either bug releases, theme updates or when new items are released. You are free to opt out at any time by clicking on the link provided in the newsletter. We do not give your personal information to any 3rd party companies as mentioned in our [Privacy Policy](https://www.wpbeaverbuilder.com/privacy-policy/ "Privacy Policy").
 
 ### Changes to our Privacy Policy
 
@@ -75,7 +77,7 @@ This policy was last modified on 09/09/2014.
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-www.fastlinemedia.com  
-1865 Winchester Blvd., #202  
-Campbell, California 95008 USA  
+FastLine Media LLC  
+2443 Fillmore St #380  
+San Francisco, CA 94115 USA  
 info@fastlinemedia.com
