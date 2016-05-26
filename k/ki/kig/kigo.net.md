@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kigo.net privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527172826id_/https%3A//kigo.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kigo.net privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526084730id_/http%3A//kigo.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,6 +53,10 @@ RealPage does not target children under the age of 13 for the collection of info
 ### Accessing and Updating Personal Information
 
 In the event that your personal information becomes outdated, incomplete, or inaccurate, you may access and update your information by logging into your RealPage product or service account. If you require verification that your requested changes have been completed, and such verification is not readily displayed in your product or service account, you may request confirmation at the email address listed below (See “Contact Us”). You can also contact RealPage directly at the address below (see “Contact Us”) to ask us what personal information we hold about you.
+
+### California Privacy Rights – “Shine The Light” Requests
+
+California Civil Code Section § 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. Your options for making such a request are listed below under “Contact Us.”
 
 ### Data retention
 
