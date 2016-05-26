@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rclone.org privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123164304id_/http%3A//rclone.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rclone.org privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526084240id_/http%3A//rclone.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,8 +24,6 @@ This website uses tracking software to monitor its visitors to better understand
 
 Other cookies may be stored to your computers hard drive by external vendors when this website uses referral programs, sponsored links or adverts. Such cookies are used for conversion and referral tracking and typically expire after 30 days, though some may take longer. No personal information is stored, saved or collected.
 
-## Contact & Communication
-
 Users contacting this website and/or its owners do so at their own discretion and provide any such personal details requested at their own risk. Your personal information is kept private and stored securely until a time it is no longer required or has no use, as detailed in the Data Protection Act 1998.
 
 This website and its owners use any information submitted to provide you with further information about the products / services they offer or to assist you in answering any questions or queries you may have submitted.
@@ -36,13 +34,9 @@ Although this website only looks to include quality, safe and relevant external 
 
 The owners of this website cannot guarantee or verify the contents of any externally linked website despite their best efforts. Users should therefore note they click on external links at their own risk and this website and its owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.
 
-## Adverts and Sponsored Links
-
 This website may contain sponsored links and adverts. These will typically be served through our advertising partners, to whom may have detailed privacy policies relating directly to the adverts they serve.
 
 Clicking on any such adverts will send you to the advertisers website through a referral program which may use cookies and will track the number of referrals sent from this website. This may include the use of cookies which may in turn be saved on your computers hard drive. Users should therefore note they click on sponsored external links at their own risk and this website and its owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.
-
-### Social Media Platforms
 
 Communication, engagement and actions taken through external social media platforms that this website and its owners participate on are subject to the terms and conditions as well as the privacy policies held with each social media platform respectively.
 
