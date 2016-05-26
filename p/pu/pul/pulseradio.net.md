@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pulseradio.net privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612073333id_/http%3A//pulseradio.net/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pulseradio.net privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526053024id_/http%3A//pulseradio.net/page/privacy-policy) for the most accurate reproduction.*
 
 # Pages | Pulse Radio
 
