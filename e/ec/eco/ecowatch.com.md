@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecowatch.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116034128id_/http%3A//ecowatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecowatch.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526173432id_/http%3A//ecowatch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,10 +50,6 @@ EcoWatch will not use or disclose your personal information without your consent
 
 **Contacting EcoWatch**
 
-If you have any questions or concerns regarding these policies, you may send an email to EcoWatch via this [online form](http://ecowatch.com/about/contact-us/).  All requests will be formally reviewed by our staff and will be answered within 48 hours.
-
-EcoWatch  
-46 E. 70th St  
-New York, NY 10021
+If you have any questions or concerns regarding these policies, you may send an email to EcoWatch via this [online form](http://ecowatch.com/about/contact-us/). All requests will be formally reviewed by our staff and will be answered within 48 hours.
 
 EcoWatch reserves the right to amend this Privacy Statement at any time without notice, and only the current Privacy Statement may be deemed effective.
