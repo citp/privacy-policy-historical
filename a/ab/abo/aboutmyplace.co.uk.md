@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aboutmyplace.co.uk privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009062558id_/http%3A//www.rightmove.co.uk/this-site/terms-of-use-and-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutmyplace.co.uk privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526144133id_/http%3A//www.rightmove.co.uk/this-site/terms-of-use-and-privacy-policy.html) for the most accurate reproduction.*
 
 # Terms of use and privacy policy
 
