@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the artistaloud.com privacy policy that was archived on 2015-09-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150912035724id_/http%3A//www.artistaloud.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the artistaloud.com privacy policy that was archived on 2016-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160526114510id_/http%3A//www.artistaloud.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" lang="en" class="cufon-active cufon-ready"><head>
         <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -787,7 +787,6 @@
                                             $('#' + cur).css('background-color', '#06C');
                                         }
                                         $('#artistbuyall').click(function (event, a, b) {
-                                            var url = baseUrl + '/site/addToCartArtistBuyAll';
                                             var a = a;
                                             //alert(document.getElementById('artistId').value);return false;
                                             if (document.getElementById('artistId').value != '') {
@@ -795,29 +794,37 @@
                                             } else {
                                                 var artistId = a;
                                             }
-                                            $.post(url, {"artistId": artistId}, function (data) {
-                                                var myString = data;
-                                                var mySplitResult = myString.split("::");
-                                                //alert(mySplitResult);return false;
-                                                if (mySplitResult[2] != 0) {
-                                                    //alert("Items already exists in your Cart.");
-                                                    $.modal('<p class="signupTextPNew">Items already exist in your cart</p><p class="PopupLogo"><img title="ArtistAloud" alt="ArtistAloud" src="/themes/aaloud/images/aa_logo.png" width="100" height="100"></p>', {minHeight: 160, minWidth: 320});
-                                                    $(".CartCounter").html(mySplitResult[1]);
-                                                    return false;
-                                                }
-                                                else if (mySplitResult[0] == 1)
-                                                {
-                                                    //window.location = baseUrl + '/site/submitSecure';
-                                                    $(".CartCounter").html(mySplitResult[1]);
-                                                    //alert("Items has been added to your Cart.");
-                                                    $.modal('<p class="signupTextPNew">Congratulations! items have been added to your cart</p><p class="PopupLogo"><img title="ArtistAloud" alt="ArtistAloud" src="/themes/aaloud/images/aa_logo.png" width="100" height="100"></p>', {minHeight: 160, minWidth: 320});
-                                                    return false;
-                                                }
-                                                else
-                                                {
-                                                    //alert("Items not added to your cart");
-                                                    $.modal('<p class="signupTextP">Items not added to your cart</p><p class="signupTextP"><img title="ArtistAloud" alt="ArtistAloud" src="/themes/aaloud/images/aa_logo.png" width="100" height="100"></p>', {minHeight: 160, minWidth: 320});
-                                                    return false;
+                                            var chkurl = baseUrl + '/site/getfreebuyall';
+                                            $.post(chkurl, {"artistId": artistId}, function (data) {
+                                                if (data != "0.00") {//free buyall content
+                                                    $.modal('<p class="signupTextPNew">Our Payment Gateway is currently under revamp.</p><p class="signupTextPNew">We are sorry for the inconvenience caused.</p><p class="signupTextPNew">Continue enjoying the full track through streaming mode.</p>', {minHeight: 140, minWidth: 340});
+                                                } else {
+                                                    var url = baseUrl + '/site/addToCartArtistBuyAll';
+                                                    $.post(url, {"artistId": artistId}, function (data) {
+                                                        var myString = data;
+                                                        var mySplitResult = myString.split("::");
+                                                        //alert(mySplitResult);return false;
+                                                        if (mySplitResult[2] != 0) {
+                                                            //alert("Items already exists in your Cart.");
+                                                            $.modal('<p class="signupTextPNew">Items already exist in your cart</p><p class="PopupLogo"><img title="ArtistAloud" alt="ArtistAloud" src="/themes/aaloud/images/aa_logo.png" width="100" height="100"></p>', {minHeight: 160, minWidth: 320});
+                                                            $(".CartCounter").html(mySplitResult[1]);
+                                                            return false;
+                                                        }
+                                                        else if (mySplitResult[0] == 1)
+                                                        {
+                                                            //window.location = baseUrl + '/site/submitSecure';
+                                                            $(".CartCounter").html(mySplitResult[1]);
+                                                            //alert("Items has been added to your Cart.");
+                                                            $.modal('<p class="signupTextPNew">Congratulations! items have been added to your cart</p><p class="PopupLogo"><img title="ArtistAloud" alt="ArtistAloud" src="/themes/aaloud/images/aa_logo.png" width="100" height="100"></p>', {minHeight: 160, minWidth: 320});
+                                                            return false;
+                                                        }
+                                                        else
+                                                        {
+                                                            //alert("Items not added to your cart");
+                                                            $.modal('<p class="signupTextP">Items not added to your cart</p><p class="signupTextP"><img title="ArtistAloud" alt="ArtistAloud" src="/themes/aaloud/images/aa_logo.png" width="100" height="100"></p>', {minHeight: 160, minWidth: 320});
+                                                            return false;
+                                                        }
+                                                    });
                                                 }
                                             });
                                         });
@@ -943,7 +950,7 @@
                                                         <!--<div class="fl" id="basic-modal-signup"> <a href="javascript: void(0)" class="basic-signup menu-link">Sign up</a>-->
                                                                                                                 <!--</div>-->
                                                         <a href="javascript: void(0)" class="basic" onclick="document.getElementById('page').value = '';
-                                                                    document.getElementById('signuppage').value = '';">Login</a> 
+                                                                document.getElementById('signuppage').value = '';">Login</a> 
                                                        
                                                 </div>
                                             </div>
@@ -990,15 +997,15 @@
                         <span class="wpmega-link-title font-mole"><cufon class="cufon cufon-canvas" alt="New " style="width: 44px; height: 20px;"><canvas width="58" height="20" style="width: 58px; height: 20px; top: 1px; left: 0px;"></canvas><cufontext>New </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Artists" style="width: 56px; height: 20px;"><canvas width="68" height="20" style="width: 68px; height: 20px; top: 1px; left: 0px;"></canvas><cufontext>Artists</cufontext></cufon></span>
                         <ul class="sub-menu sub-menu-2">
                             
-                                                            <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span> <a class="wpmega-link-title ml10" href="http://www.artistaloud.com/RoachKillaMissPooja">Roach Killa &amp; ..</a> 
+                                                            <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span> <a class="wpmega-link-title ml10" href="http://www.artistaloud.com/TheNationalBeats">The National Beats</a> 
                                     </span></li>
-                                                            <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span> <a class="wpmega-link-title ml10" href="http://www.artistaloud.com/DivyaVenugopal">Divya Venugopal</a> 
+                                                            <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span> <a class="wpmega-link-title ml10" href="http://www.artistaloud.com/KoustubhandShreyas">Koustubh &amp; Shr..</a> 
                                     </span></li>
-                                                            <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span> <a class="wpmega-link-title ml10" href="http://www.artistaloud.com/NusratHussain">Nusrat Hussain</a> 
+                                                            <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span> <a class="wpmega-link-title ml10" href="http://www.artistaloud.com/BOMBOYJungleJackFt.OZandNCube">BOMBOY - Jungle Ja..</a> 
                                     </span></li>
-                                                            <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span> <a class="wpmega-link-title ml10" href="http://www.artistaloud.com/VivekDate">Vivek Date</a> 
+                                                            <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span> <a class="wpmega-link-title ml10" href="http://www.artistaloud.com/SraboniChaudhuri">Sraboni Chaudhuri</a> 
                                     </span></li>
-                                                            <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span> <a class="wpmega-link-title ml10" href="http://www.artistaloud.com/AmikaShail">Amika Shail</a> 
+                                                            <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span> <a class="wpmega-link-title ml10" href="http://www.artistaloud.com/DilpreetBhatia">Dilpreet Bhatia</a> 
                                     </span></li>
                             
 
@@ -1013,11 +1020,11 @@
                         <span class="wpmega-link-title font-mole"><cufon class="cufon cufon-canvas" alt="Popular " style="width: 71px; height: 20px;"><canvas width="85" height="20" style="width: 85px; height: 20px; top: 1px; left: 0px;"></canvas><cufontext>Popular </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Artists" style="width: 56px; height: 20px;"><canvas width="68" height="20" style="width: 68px; height: 20px; top: 1px; left: 0px;"></canvas><cufontext>Artists</cufontext></cufon></span>
                         <ul class="sub-menu sub-menu-2">
                                                             <li id="menu-item-50" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"> 
+                                    <a class="wpmega-link-title" href="http://www.artistaloud.com/SraboniChaudhuri">Sraboni Chaudhuri</a>                                                                </li><li id="menu-item-50" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"> 
+                                    <a class="wpmega-link-title" href="http://www.artistaloud.com/ThermalProjekt">Thermal Projekt</a>                                                                </li><li id="menu-item-50" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"> 
                                     <a class="wpmega-link-title" href="http://www.artistaloud.com/KavitaSeth">Kavita Seth</a>                                                                </li><li id="menu-item-50" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"> 
-                                    <a class="wpmega-link-title" href="http://www.artistaloud.com/VivekDate">Vivek Date</a>                                                                </li><li id="menu-item-50" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"> 
-                                    <a class="wpmega-link-title" href="http://www.artistaloud.com/RoachKillaMissPooja">Roach Killa &amp; Miss..</a>                                                                </li><li id="menu-item-50" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"> 
-                                    <a class="wpmega-link-title" href="http://www.artistaloud.com/sonalivij">Sonali Vij</a>                                                                </li><li id="menu-item-50" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"> 
-                                    <a class="wpmega-link-title" href="http://www.artistaloud.com/NusratHussain">Nusrat Hussain</a>                                                            </li><li class="detailsa pt10 pl5"><a href="/artists/popular-artists">More</a> </li>
+                                    <a class="wpmega-link-title" href="http://www.artistaloud.com/ZohaibKazi">Zohaib Kazi</a>                                                                </li><li id="menu-item-50" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"> 
+                                    <a class="wpmega-link-title" href="http://www.artistaloud.com/mumbaisfinest">Mumbai's Finest</a>                                                            </li><li class="detailsa pt10 pl5"><a href="/artists/popular-artists">More</a> </li>
                         </ul>
                     </li>
                     <div style="border:1px solid #1B182B; height:184px; float:left;"></div>
@@ -1081,7 +1088,7 @@
 
                         <style>.pad-adjust{ padding:0px 5px 0 0 !important;}</style>
                         <div style="width:280px; padding:3px 0 3px 5px;">
-                            <a class="wpmega-link-title pad-adjust len-text" href="/artists/genre/Acoustic/864">Acoustic</a><a class="wpmega-link-title pad-adjust len-text" href="/artists/genre/Acoustic-Ballad/744">Acoustic Ballad</a><a class="wpmega-link-title pad-adjust len-text" href="/artists/genre/Acoustic-Filmi-Pop/991">Acoustic Filmi Pop</a><a class="wpmega-link-title pad-adjust len-text" href="/artists/genre/Acoustic-pop/691">Acoustic pop</a><a class="wpmega-link-title pad-adjust len-text" href="/artists/genre/Acoustic-Pop-Rock/891">Acoustic Pop Rock</a><a class="wpmega-link-title pad-adjust len-text" href="/artists/genre/Acoustic-Rock-Pop/901">Acoustic Rock Pop</a>                        </div>
+                            <a class="wpmega-link-title pad-adjust len-text" href="/artists/genre/--Instrumental/2570703">- Instrumental</a><a class="wpmega-link-title pad-adjust len-text" href="/artists/genre/Acoustic/864">Acoustic</a><a class="wpmega-link-title pad-adjust len-text" href="/artists/genre/Acoustic-Ballad/744">Acoustic Ballad</a><a class="wpmega-link-title pad-adjust len-text" href="/artists/genre/Acoustic-Filmi-Pop/991">Acoustic Filmi Pop</a><a class="wpmega-link-title pad-adjust len-text" href="/artists/genre/Acoustic-pop/691">Acoustic pop</a><a class="wpmega-link-title pad-adjust len-text" href="/artists/genre/Acoustic-Pop-Rock/891">Acoustic Pop Rock</a>                        </div>
                         <ul class="sub-menu sub-menu-2">
                             <li class="detailsa pt10 pl5"><a href="/artists/genres">All Genres</a></li>
                         </ul>
@@ -1094,15 +1101,15 @@
                     <li id="menu-item-61" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-1"><span class="wpmega-link-title font-mole"><cufon class="cufon cufon-canvas" alt="New " style="width: 44px; height: 20px;"><canvas width="58" height="20" style="width: 58px; height: 20px; top: 1px; left: 0px;"></canvas><cufontext>New </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Videos" style="width: 56px; height: 20px;"><canvas width="69" height="20" style="width: 69px; height: 20px; top: 1px; left: 0px;"></canvas><cufontext>Videos</cufontext></cufon></span>
                         <ul class="sub-menu sub-menu-2">
 
-                                                            <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span><a class="wpmega-link-title ml10" href="/videos/Meri-Hasraton-Mein/16061695">Meri Hasraton Mein</a></span></li>
+                                                            <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span><a class="wpmega-link-title ml10" href="/videos/Holi/18264210">Holi</a></span></li>
 
-                                                            <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span><a class="wpmega-link-title ml10" href="/videos/Out-Of-Control/15496501">Out Of Control</a></span></li>
+                                                            <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span><a class="wpmega-link-title ml10" href="/videos/Jashn-e-Hungama/18241331">Jashn-e-Hungama</a></span></li>
 
-                                                            <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span><a class="wpmega-link-title ml10" href="/videos/Tu-Hai-Kaun/15972377">Tu Hai Kaun</a></span></li>
+                                                            <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span><a class="wpmega-link-title ml10" href="/videos/Maa-Aa-Bhi-Ja/18241333">Maa Aa Bhi Ja</a></span></li>
 
-                                                            <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span><a class="wpmega-link-title ml10" href="/videos/Aais-Pais-Dhappa-%28Lyric-Video%29/15037258">Aais Pais Dhappa (..</a></span></li>
+                                                            <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span><a class="wpmega-link-title ml10" href="/videos/Sajna/18264002">Sajna</a></span></li>
 
-                                                            <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span><a class="wpmega-link-title ml10" href="/videos/Saath%E2%80%A6-Ft.-Momo-Gangte-%28Lyric-Video%29/15037259">Saath… Ft. Momo ..</a></span></li>
+                                                            <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span><a class="wpmega-link-title ml10" href="/videos/Awara/18024422">Awara</a></span></li>
 
                                                         <li class="detailsa pt10 pl5"><a href="/videos">All Video</a></li>
                         </ul>
@@ -1115,27 +1122,27 @@
                             
                                 <li id="menu-item-50" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2">
                                     <span> 
-                                        <a class="wpmega-link-title" href="/videos/popular-videos/Sab-Chalta-hai-%28Bhai-India-Hai%29/15972378">Sab Chalta hai (Bh..</a></span></li>
+                                        <a class="wpmega-link-title" href="/videos/popular-videos/Sajna/18264002">Sajna</a></span></li>
 
                             
                                 <li id="menu-item-50" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2">
                                     <span> 
-                                        <a class="wpmega-link-title" href="/videos/popular-videos/Tu-Hai-Kaun/15972377">Tu Hai Kaun</a></span></li>
+                                        <a class="wpmega-link-title" href="/videos/popular-videos/Jashn-e-Hungama/18241331">Jashn-e-Hungama</a></span></li>
 
                             
                                 <li id="menu-item-50" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2">
                                     <span> 
-                                        <a class="wpmega-link-title" href="/videos/popular-videos/Meri-Hasraton-Mein/16061695">Meri Hasraton Mein</a></span></li>
+                                        <a class="wpmega-link-title" href="/videos/popular-videos/Maybe-This-Time-%28August%29/18024426">Maybe This Time (A..</a></span></li>
 
                             
                                 <li id="menu-item-50" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2">
                                     <span> 
-                                        <a class="wpmega-link-title" href="/videos/popular-videos/Out-Of-Control/15496501">Out Of Control</a></span></li>
+                                        <a class="wpmega-link-title" href="/videos/popular-videos/Awara/18024422">Awara</a></span></li>
 
                             
                                 <li id="menu-item-50" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2">
                                     <span> 
-                                        <a class="wpmega-link-title" href="/videos/popular-videos/You-make-my-knees%28go-weak%29/14991500">You make my knees(..</a></span></li>
+                                        <a class="wpmega-link-title" href="/videos/popular-videos/Beti/17597939">Beti</a></span></li>
 
                                                         <li class="detailsa pt10 pl5"><a href="/videos/popular-videos">More</a> </li>
                         </ul>
@@ -1145,6 +1152,12 @@
                         <ul class="sub-menu sub-menu-2">
 
                                                             <li id="menu-item-86" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2">
+
+
+
+                                    <a class="wpmega-link-title" href="/videos/languages/Assamese/asm">Assamese</a>
+                                </li>
+                                                                <li id="menu-item-86" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2">
 
 
 
@@ -1167,12 +1180,6 @@
 
 
                                     <a class="wpmega-link-title" href="/videos/languages/English/eng">English</a>
-                                </li>
-                                                                <li id="menu-item-86" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2">
-
-
-
-                                    <a class="wpmega-link-title" href="/videos/languages/French/fre">French</a>
                                 </li>
                                 
                             <li class="detailsa pt10 pl5"><a href="/videos/languages">All Languages</a></li>
@@ -1283,8 +1290,13 @@
             <input type="hidden" name="uploadvideo" id="uploadvideo" value="0">
             <input type="hidden" name="uploadpage" id="uploadpage" value="http://www.artistaloud.com/userupload">
             <li id="menu-item-48" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-2 ss-nav-menu-item-depth-0 ss-nav-menu-mega"><a target="_blank" href="/musicmania"><span class="wpmega-link-title">Music Mania</span></a></li>
-            <li id="menu-item-48" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-2 ss-nav-menu-item-depth-0 ss-nav-menu-mega"><a target="_blank" href="/aama"><span class="wpmega-link-title">#AAMA2014</span></a></li>
+            <li id="menu-item-48" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-2 ss-nav-menu-item-depth-0 ss-nav-menu-mega"><a target="_blank" href="/aama"><span class="wpmega-link-title">AAMA</span></a></li>
             <li id="menu-item-48" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-2 ss-nav-menu-item-depth-0 ss-nav-menu-mega"><a target="_blank" href="/WorldMusicDay"><span class="wpmega-link-title">#WorldMusicDay</span></a></li>
+			<li id="menu-item-48" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-2 ss-nav-menu-item-depth-0 ss-nav-menu-mega mega-with-sub"><a target="_blank"><span class="wpmega-link-title" style="cursor:pointer;">Exclusive Artists</span></a>				<ul class="sub-menu sub-menu-1">
+						<li class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2" id="menu-item-62"><span><a href="/exclusiveartists/indiva" class="wpmega-link-title ml10">Indiva</a></span></li>
+						<li class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2" id="menu-item-62"><span><a href="/exclusiveartists/luke-kenny" class="wpmega-link-title ml10">Luke Kenny</a></span></li>
+				</ul>
+			</li>
         </ul>
     </div>
     <div class="nSearch floatL">
@@ -1482,85 +1494,85 @@ new TWTR.Widget({
 
 					 
 								<li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-1 jcarousel-item-1-horizontal" jcarouselindex="1" style="float: left; list-style: none;">
-                                                                    <a href="http://www.artistaloud.com/prajothdsafeatadilnadaf">
-										<img width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/429688051.gif" alt="Prajoth Dsa feat. Adil Nadaf" title="Prajoth Dsa feat. Adil Nadaf"> 
+                                                                    <a href="http://www.artistaloud.com/">
+										<img width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/438027068.gif" alt="Akki J" title="Akki J"> 
 									</a>
 								</li>
 								
 								 
 								<li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-2 jcarousel-item-2-horizontal" jcarouselindex="2" style="float: left; list-style: none;">
-                                                                    <a href="http://www.artistaloud.com/folkmasti">
-										<img width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/429694721.gif" alt="Folk Masti" title="Folk Masti"> 
+                                                                    <a href="http://www.artistaloud.com/">
+										<img width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/436852054.gif" alt="Vimal Gupta" title="Vimal Gupta"> 
 									</a>
 								</li>
 								
 								 
 								<li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-3 jcarousel-item-3-horizontal" jcarouselindex="3" style="float: left; list-style: none;">
-                                                                    <a href="http://www.artistaloud.com/deepanairrasiya">
-										<img width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/429688052.gif" alt="Deepa Nair Rasiya" title="Deepa Nair Rasiya"> 
+                                                                    <a href="http://www.artistaloud.com/">
+										<img width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/436812598.gif" alt="Ronkini Gupta Collective" title="Ronkini Gupta Collective"> 
 									</a>
 								</li>
 								
 								 
 								<li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-4 jcarousel-item-4-horizontal" jcarouselindex="4" style="float: left; list-style: none;">
-                                                                    <a href="http://www.artistaloud.com/prarthanachoudhury">
-										<img width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/429180257.gif" alt="Prarthana Choudhury" title="Prarthana Choudhury"> 
+                                                                    <a href="http://www.artistaloud.com/">
+										<img width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/436812596.gif" alt="Romance Complicated" title="Romance Complicated"> 
 									</a>
 								</li>
 								
 								 
 								<li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-5 jcarousel-item-5-horizontal" jcarouselindex="5" style="float: left; list-style: none;">
-                                                                    <a href="http://www.artistaloud.com/hammernthong">
-										<img width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/429071224.gif" alt="Hammer n Thong!" title="Hammer n Thong!"> 
+                                                                    <a href="http://www.artistaloud.com/">
+										<img width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/436738796.gif" alt="GPR" title="GPR"> 
 									</a>
 								</li>
 								
 								 
 								<li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-6 jcarousel-item-6-horizontal" jcarouselindex="6" style="float: left; list-style: none;">
-                                                                    <a href="http://www.artistaloud.com/greyarea">
-										<img width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/429303880.gif" alt="Grey Area" title="Grey Area"> 
+                                                                    <a href="http://www.artistaloud.com/">
+										<img width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/436829841.gif" alt="Pinky Paras" title="Pinky Paras"> 
 									</a>
 								</li>
 								
 								 
 								<li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-7 jcarousel-item-7-horizontal" jcarouselindex="7" style="float: left; list-style: none;">
-                                                                    <a href="http://www.artistaloud.com/krosswindz">
-										<img width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/428808748.gif" alt="Krosswindz" title="Krosswindz"> 
+                                                                    <a href="http://www.artistaloud.com/">
+										<img width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/436735003.gif" alt="Piyush Gupta" title="Piyush Gupta"> 
 									</a>
 								</li>
 								
 								 
 								<li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-8 jcarousel-item-8-horizontal" jcarouselindex="8" style="float: left; list-style: none;">
-                                                                    <a href="http://www.artistaloud.com/frankyvij">
-										<img width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/428871072.gif" alt="Franky Vij" title="Franky Vij"> 
+                                                                    <a href="http://www.artistaloud.com/">
+										<img width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/436500342.gif" alt="Sandokan" title="Sandokan"> 
 									</a>
 								</li>
 								
 								 
 								<li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-9 jcarousel-item-9-horizontal" jcarouselindex="9" style="float: left; list-style: none;">
-                                                                    <a href="http://www.artistaloud.com/twisttobreakseal">
-										<img width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/428808747.gif" alt="Twist To Break Seal" title="Twist To Break Seal"> 
+                                                                    <a href="http://www.artistaloud.com/">
+										<img width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/436819665.gif" alt="W.O.A International" title="W.O.A International"> 
 									</a>
 								</li>
 								
 								 
 								<li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-10 jcarousel-item-10-horizontal" jcarouselindex="10" style="float: left; list-style: none;">
-                                                                    <a href="http://www.artistaloud.com/mumbaisfinest">
-										<img width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/428971041.gif" alt="Mumbai's Finest" title="Mumbai's Finest"> 
+                                                                    <a href="http://www.artistaloud.com/">
+										<img width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/436272603.gif" alt="Sonia J. Patel" title="Sonia J. Patel"> 
 									</a>
 								</li>
 								
 								 
 								<li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-11 jcarousel-item-11-horizontal" jcarouselindex="11" style="float: left; list-style: none;">
-                                                                    <a href="http://www.artistaloud.com/sumitsingh">
-										<img width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/428808749.gif" alt="Sumit Singh" title="Sumit Singh"> 
+                                                                    <a href="http://www.artistaloud.com/">
+										<img width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/435716311.gif" alt="Shirin" title="Shirin"> 
 									</a>
 								</li>
 								
 								 
 								<li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-12 jcarousel-item-12-horizontal" jcarouselindex="12" style="float: left; list-style: none;">
-                                                                    <a href="http://www.artistaloud.com/alapdesai">
-										<img width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/428632903.gif" alt="Alap Desai" title="Alap Desai"> 
+                                                                    <a href="http://www.artistaloud.com/">
+										<img width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/435146495.gif" alt="Neerja Pandit" title="Neerja Pandit"> 
 									</a>
 								</li>
 								
@@ -1577,10 +1589,7 @@ new TWTR.Widget({
         <!--Bottom Div Start Here-->
 <div class="nfooter">
     <p class="ncopyright">All rights reserved. Copyrights © 2014 - 2015 Hungama Digital Media Ent. Pvt. Ltd.</p>
-    <p>ArtistAloud.com : <a class="grey99" href="/about-artist-aloud">About us</a> 
-        | <a href="mailto:help@artistaloud.com" class="grey99">Help</a> 
-        | <a class="grey99" href="/news/allnews">Press</a>        | <a href="mailto:advertising@artistaloud.com" class="grey99">Advertising</a>
-        | <a class="grey99" href="/feedback">Feedback</a> 
+    <p>ArtistAloud.com : <a class="grey99" href="/about-artist-aloud">About Us</a>        | <a class="grey99" href="/contactus">Contact Us</a> 
         | <a class="grey99" href="/sitemap">Sitemap</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         Artists : 
         <a class="grey99" href="/artists">Artists</a>        | <a class="grey99" href="/videos">Videos</a></p>
@@ -2046,7 +2055,7 @@ new TWTR.Widget({
                                     var body = 'I just logged into ArtistAloud.com. Check out the premium platform for Independent Artists and Content.';
                                     FB.api('/me/feed', 'post', {message: body,
                                         link: "http://www.artistaloud.com",
-                                        picture: "http://www.artistaloud.com/themes/aaloud/images/fbpost.png"},
+                                        picture: "http://akm-www.artistaloud.com/themes/aaloud/images/fbpost.png"},
                                     function(response) {
                                         if (!response || response.error) {
                                             window.location.reload(true);
