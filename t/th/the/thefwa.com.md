@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefwa.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207212658id_/http%3A//www.thefwa.com/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefwa.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526130444id_/http%3A//www.thefwa.com/about/privacy-statement) for the most accurate reproduction.*
 
 # TheFWA - Privacy Statement
 
