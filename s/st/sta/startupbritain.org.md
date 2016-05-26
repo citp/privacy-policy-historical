@@ -1,80 +1,93 @@
-> *The following text is extracted and transformed from the startupbritain.org privacy policy that was archived on 2012-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120727162949id_/http%3A//www.startupbritain.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startupbritain.org privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526035632id_/http%3A//startupbritain.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | StartUp Britain
+# Privacy Policy – Startup Britain
 
-StartUp Britain (which herby may be referred to as “us”, “we” or “our”) is committed to protecting your personal details on our website as defined in the Data Protection Act 1998. We know that you care how information about you is used, shared and stored and we appreciate your trust in us to do that carefully and sensibly. We are committed to giving you a personalised service that meets your needs in a way that also protects your privacy.
+Your privacy is important to StartUp Britain We are committed to safeguarding the privacy of our website visitors; this privacy statement sets out how we will treat your personal information.
 
-This Privacy Policy, which forms part of our website terms and conditions and hereby may be referred to as “it”, explains how we may collect personal data about you, the security measures we take to protect your personal data and tells you certain things we will and will not do.
+**Personal Data Collection**
 
-It only applies to personal data we hold about individuals. Information we hold about companies and other organisations is not protected by the Data Protection Act 1998.
+StartUp Britain may collect, store and use the following kinds of personal information:
 
-**By providing personal data or by visiting** **[www.startupbritain.org](http://www.startupbritain.org/) ** **(“the website”) you are accepting and consenting to the practices described in the Privacy Policy.**
+  * information about your computer and about your visits to and use of this websites (which may include your IP address, geographical location, browser type and version, referral source, entry page, exit page, length of visit, number of page views, route taken through this website, and similar information);
+  * information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services;
+  * information that you provide to us for the purpose of registering with us;
+  *  information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters; and
+  * any other information that you choose to send to us.
 
-**1) Collecting Information**
 
-When we first obtain personal data from you we will usually give you the opportunity to tell us if you do or do not want to receive information from us about other services or products. If you sign up for our email newsletter we will take this as consent to receive information by email from us about our services and services offered by our sponsors and partners. You may change your mind at any time by unsubscribing within the newsletter or by emailing us at [info@startupbritain.org](mailto:info@startupbritain.org).
 
-We may collect personal data about you from a number of sources, including the following:
+**Using Personal Data**
 
-1.1 - From when you register on our website, apply to become a StartUp Local Champion or agree to use a service or product from us, our sponsors or our partners, in which case this may include your contact details, date of birth, demographic information, business details and other essential and relevant information.
+Personal information submitted to us via this website will be used for the purposes specified in this privacy statement or in relevant parts of the website.
 
-1.2 - From you when you contact us with an enquiry or in response to a communication from us, in which case this may tell us something about how you use our services.
+We may use your personal data to:
 
-1.3 - From you when you sign up to receive more information about us and the goods and services available through StartUp Britain and our sponsors and partners
+  * administer the website;
+  * improve your browsing experience;
+  * enable your use of the services available on the website;
+  * send to you goods purchased via the website, and supply to you services purchased via the website;
+  * send statements and invoices to you, and collect payments from you;
+  * send you general non-marketing commercial communications;
+  * send you email notifications which you have specifically requested;
+  * send to you our newsletter and other marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you by post or, where you have specifically agreed to this, by email and you can inform us at any time if you no longer require marketing communications; and
+  * deal with enquiries and complaints made by or about you relating to the website.
 
-**2) Using Your Personal Information**
 
-2.1 - Personal data about our customers is an important part of the campaign and we shall only use your personal data for the following purposes and shall not keep such personal data longer than is necessary to fulfil these purposes:
 
-2.1.1 - To help us to identify you when you contact us  
-2.1.2 - To help us identify accounts, services and/or products which you could have from us or our selected sponsors and partners  
-2.1.3 - To help us administer and to contact you about improved administration of any accounts, services and products we have provided before, do provide now or will or may provide in the future  
-2.1.4 - To allows us to carry out marketing analysis, customer profiling and conduct research  
-2.1.5 - To allow us to contact you in any way about services and products offered by us and our selected sponsors and partners , or which we feel you may be interested in, in accordance with your marketing preferences.  
-2.1.6 - We may monitor and record communications with you for quality assurance, reference and compliance.
+**Personal Data Security**
 
-2.2 - We will not disclose your personal data to any third party except in accordance with this privacy policy.
+We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
 
-2.3 - We may allow other people and organisations to use the personal data we hold about you in the following circumstances:
+StartUp Britain will store all the personal data you provide on its secure servers. Information relating to electronic transactions entered into via this website will be protected by encryption technology.
 
-2.3.1 - If we, or substantially all of our assets, are acquired or are in the process of being acquired by a third party, in which case personal data held by us, about our customers, will be one of the transferable assets.  
-2.3.2 - If we have been legitimately asked to provide information for legal or regulatory purposes or as part of legal proceeding or prospective legal proceedings.  
-2.3.3 - We employ companies and individuals to perform functions on our behalf and we may disclose your personal data to these parties for the purposes set out in clauses 2.1 – 2.7 (for example, analysing data and providing customer service). We will remain responsible for their use of your personal data.
+You are responsible for keeping your password and user details confidential. We will not ask you for your password except when you log in to the website.
 
-2.4 - Although we will send you information about offers, events and links from our sponsors and partners, we will not give them a copy of your data and they will not contact you directly using the information you provide to us.
+**Disclosures**
 
-2.5 - This website includes links to other third-party websites. We do not provide any personally identifiable customer personal data to these third-party websites.
+We may disclose information about you to any of our employees, officers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes as set out in this privacy statement.
 
-2.6 - Where you give us personal data on behalf of someone else, you confirm that you have provided them with the information set out in this privacy policy and that they have consented to such use of their personal data
+In addition, we may disclose your personal information:
 
-2.7 - Specific information you enter on the website may be shared with others via the website (for example, contact details for the StartUp Local Champions). You will be notified when you enter the data if it will be made available publically on the website. We cannot be held responsible for third-party use of the data you publically share.
+  * to the extent that we are required to do so by law;
+  * in connection with any legal proceedings or prospective legal proceedings;
+  * in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk); and
+  * to any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal information where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal information.
 
-**3) Securing Your Personal Data**
 
-3.1 - We maintain physical, electronic and procedural safeguards ourselves in connection with the collection, storage and disclosure of personally identifiable customer information, as do our hosting company. Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you.
 
-3.2 - Please remember that communications over the internet, such as emails and webmails (messages sent through a website), are not secure unless they have been encrypted. Your communications may go through a number of countries before they are delivered – this is the nature of the Internet. We cannot accept responsibility for any unauthorised access or loss of personal data that is beyond our control.
+Except as provided in this privacy statement, we will not provide your information to third parties.
 
-3.3 - We may use ‘cookies’ to monitor how people use our site. This helps us to understand how our customers and potential customers use our website so we can develop and improve the design, layout and function aspects of the site. A cookie is a piece of information that is stored on your computer’s hard drive through your browser, to recognise your browser and which records how you have used a website. This means that when you go back to that website it can give you tailored options based on the information it has stored about your last visit. You can normally alter the settings of your browser to prevent it from accepting cookies.
+**Cross-border Data Transfers**
 
-3.4 - If you do not want us to use cookies in your browser, you can set your browser to reject cookies or to tell you when a website tries to put a cookie on your computer. However, you may not be able to use some of the products or services available through us or our sponsors and partners on our website without cookies.
+Information that StartUp Britain collects may be stored and processed in and transferred between any of the countries in which we operate to enable the use of the information in accordance with this privacy statement.
 
-The help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-ons settings or  by visiting the website of its manufacturer.
+In addition, personal information that you submit for publication on the website will be published on the internet and may be available around the world.
 
-3.5 - We do not have access to or control over cookies or other features on the third-party websites we link to and the information  practices of these third-party websites are not covered by this privacy policy. Please contact them directly for more information about their privacy practices.
+**Your Rights**
 
-3.6 - We exclude all liability for loss that you may incur when using these third party websites.
+You may instruct us to provide you with any personal information we hold about you.  Provision of such information will be subject to:
 
-**4) Further Information**
+  * the payment of a fee; and
+  * the supply of appropriate evidence of your identity.
 
-4.1 - If you would like any more information or if you have any comments about our privacy policy, please email us at [info@startupbritain.org](mailto:info@startupbritain.org)
 
-4.2 - We may amend this privacy policy from time to time without notice to you, in which case, we will publish the amended version on the website. You confirm that we shall not be liable to you or any third party for any change to this privacy policy from time to time. It is your responsibility to check regularly to determine whether this privacy policy has changed.
 
-4.3 - You can ask us for a copy of this privacy policy and of any amended privacy policy by emailing us at [info@startupbritain.org](mailto:info@startupbritain.org). If you would like access to the personal data that we hold about you, you can do this by emailing us at [info@startupbritain.org](mailto:info@startupbritain.org). There may be a nominal charge of £10 to cover administration costs.
+We may withhold such personal information to the extent permitted by law.
 
-4.4 - We aim to keep the personal data we hold about you accurate and up to date. If you tell us that we are holding any inaccurate personal data about you, we will delete it or correct it promptly. Please email us at [info@startupbritain.org](mailto:info@startupbritain.org)to update your personal data or marketing preferences.
+You may instruct us not to process your personal information for marketing purposes by email at any time.
 
-This website is brought to you by StartUp Britain Limited (Registered Number 7597547).
+**Privacy Statement Update**
 
-**Last Updated: January 2012.**
+We may update this privacy statement from time-to-time by posting a new version on our website.  You should check this page occasionally to ensure you are happy with any changes.
+
+We may also notify you of changes to our privacy statement by email.
+
+**Other websites**
+
+The website contains links to other websites that are not under the control of and are not maintained by StartUp Britain. We are not responsible for the content or reliability of the linked websites. StartUp Britain provides these links for your convenience only but does not endorse the material on these sites.
+
+**Contact Us**
+
+If you have any questions about this privacy statement or our treatment of your personal information, please write to us by email to [info@startupbritain.org](mailto:info@startupbritain.org).
+
+###### This website privacy policy template is based on a free document supplied by The Legal Stop Limited through its website [www.thelegalstop.co.uk](http://www.thelegalstop.co.uk/)
