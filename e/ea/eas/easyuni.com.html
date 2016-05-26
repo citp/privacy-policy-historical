@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the easyuni.com privacy policy that was archived on 2015-09-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150919095141id_/https%3A//www.easyuni.com/en/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the easyuni.com privacy policy that was archived on 2016-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160526203343id_/https%3A//www.easyuni.com/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><!-- BEGIN HEAD --><head>
-		
+        
 
 
 
@@ -10,12 +10,10 @@
 <meta content="yOpUQSva19Zcqgii3VwwGFE6r7qwZs4qsbgmzDBIrA" name="globalsign-domain-verification">
 <meta content="text/html;charset=UTF-8" http-equiv="content-type">
 <meta charset="utf-8">
-
-  <script src="https://js-agent.newrelic.com/nr-741.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NZ8S5S"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQMBUl5TGwIAUllWDgc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-741.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
-
+<script src="https://js-agent.newrelic.com/nr-943.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NZ8S5S"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQMBUl5TGwIAUllWDgc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-943.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
 <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
 
-  <meta name="robots" contents="noindex, nofollow">
+  <meta content="noindex, follow" name="robots">
 
 <meta content="6kPxv3sJk6s30ygPIEFpTXztUV8" name="alexaVerifyID">
 <!-- easyuni.mu -->
@@ -26,44 +24,17 @@
 <link href="/static/images/favicon.ico" type="image/x-icon" rel="shortcut icon">
 <link href="/static/images/favicon.ico" type="image/x-icon" rel="icon">
 <!-- END FAVICON -->
-<!-- BEGIN CORE CSS FRAMEWORK -->
-<link href="/static/plugins/boostrapv3/css/bootstrap.css" type="text/css" rel="stylesheet">
-<link href="/static/plugins/bootstrap-select2/select2.css" type="text/css" rel="stylesheet">
-<link href="/static/plugins/boostrap-slider/css/slider.css" type="text/css" rel="stylesheet">
-<link href="/static/plugins/boostrapv3/css/bootstrap-theme.css" type="text/css" rel="stylesheet">
-<link href="/static/plugins/boostrap-checkbox/css/bootstrap-checkbox.css" type="text/css" rel="stylesheet">
-<link href="/static/plugins/font-awesome/css/font-awesome.css" type="text/css" rel="stylesheet">
-<link href="/static/sass/animate.min.css" type="text/css" rel="stylesheet">
-<!-- END CORE CSS FRAMEWORK -->
-<!-- BEGIN CSS TEMPLATE -->
-<link href="/static/sass/style.css" type="text/css" rel="stylesheet">
-<link href="/static/css/frontsearch.css" type="text/css" rel="stylesheet">
-<link href="/static/sass/responsive.css" type="text/css" rel="stylesheet">
-<link href="/static/css/custom-icon-set.css" type="text/css" rel="stylesheet">
-<link href="/static/css/magic_space.css" type="text/css" rel="stylesheet">
-<link href="/static/sass/tiles_responsive.css" type="text/css" rel="stylesheet">
-<link href="/static/sass/articles.css" type="text/css" rel="stylesheet">
+
+    <link href="/static/build/base.css" type="text/css" rel="stylesheet">
 
 
-<!-- END CSS TEMPLATE -->
-<!-- BEGIN PLUGINS CSS -->
-<link media="screen" href="/static/social_network/plugins/jquery-ui/jquery-ui-1.10.1.custom.min.css" type="text/css" rel="stylesheet">
-<link media="screen" href="/static/social_network/plugins/jquery-slider/css/jquery.sidr.light.css" type="text/css" rel="stylesheet">
-<link media="screen" href="/static/plugins/jquery-notifications/css/messenger.css" type="text/css" rel="stylesheet">
-<link media="screen" href="/static/plugins/jquery-notifications/css/messenger-theme-flat.css" type="text/css" rel="stylesheet">
-<link media="screen" href="/static/plugins/bootstrap-datepicker/css/datepicker.css" type="text/css" rel="stylesheet">
-<link media="screen" href="/static/plugins/pace/pace-theme-flash.css" type="text/css" rel="stylesheet">
-<!-- END PLUGINS CSS -->
+
 <!-- BEGIN SOCIAL NETWORK CSS -->
 
 <!-- END SOCIAL NETWORK CSS -->
-<!-- BEGIN PIWIK -->
-
-
-<!-- END PIWIK -->
 
 <!-- BEGIN PAGE LEVEL CSS -->
-		
+        
 <style type="text/css">
 /*<![CDATA[*/
     .page-content { min-height: 0px !important; }
@@ -73,77 +44,85 @@
 
 <!-- END PAGE LEVEL CSS -->
 <!-- BEGIN PAGE TITLE -->
-		
-			<title>
-				
+        
+            <title>
+                
   Privacy Statement
 
 
-				
-					-
-					Study abroad or locally - EASYUNI
-				
-			</title>
-		
+                
+                    -
+                    Study abroad or locally - EASYUNI
+                
+            </title>
+        
 <!-- END PAGE TITLE -->
 <!-- BEGIN META DATA -->
-		
-		
-		<meta content="HESCAR.EDU" property="fb:admins">
-		<meta content="161500430602423" property="fb:app_id">
-		
-			<meta content="EASYUNI" property="og:title">
-			<meta content="https://www.easyuni.com/en/privacy-statement/" property="og:url">
-			<meta content="Find information about the Universities and Colleges in Malaysia and 22 other countries. Select courses and apply online. Read reviews written by students, see photos ans videos uploaded by them." property="og:description">
-			<meta content="/media/hescar_utils/domain/logo/2015/02/24/logo240x100.png" property="og:image">
-			<meta content="website" property="og:type">
-		
+        
+        
+        
+
+        
+
+        
+             <link href="https://easyuni.com/privacy-statement/" rel="canonical">
+
+        
+        
+            
+                <meta content="EASYUNI" property="og:title">
+            
+            
+                <meta content="https://easyuni.com/privacy-statement/" property="og:url">
+            
+            
+                <meta content="Find information about the Universities and Colleges in Malaysia and 22 other countries. Select courses and apply online. Read reviews written by students, see photos ans videos uploaded by them." property="og:description">
+            
+            <meta content="https://www.easyuni.com/media/hescar_utils/domain/logo/2015/02/24/logo240x100.png" property="og:image">
+            <meta content="website" property="og:type">
+        
 <!-- END META DATA -->
 <!-- BEGIN META KEYWORDS -->
-		
-			
-				
-					<meta content="study in malaysia, malaysian university, malaysian college, malaysian universities, malaysian colleges, bachelor degree in malaysia, universities in malaysia, colleges in malaysia, MBA in Malaysia, master's degree in Malaysia, study abroad, study overseas, malaysia university, malaysia universities, malaysia college, malaysia colleges" name="keywords">
-				
-			
-		
+        
+            
+                <meta content="study in malaysia, malaysian university, malaysian college, malaysian universities, malaysian colleges, bachelor degree in malaysia, universities in malaysia, colleges in malaysia, MBA in Malaysia, master's degree in Malaysia, study abroad, study overseas, malaysia university, malaysia universities, malaysia college, malaysia colleges" name="keywords">
+            
+        
 <!-- END META KEYWORDS -->
 <!-- BEGIN META DESCRIPTION -->
-		
+        
   <meta content="" name="description">
 
 
 <!-- END META DESCRIPTION -->
-		<link href="https://www.easyuni.com/privacy-statement/" rel="canonical">
-
-		<script src="/static/js/jquery-1.8.3.min.js" type="text/javascript"></script>
+        
+        <script src="/static/js/jquery-1.8.3.min.js" type="text/javascript"></script>
 <!-- SOME VARIABLE DECLARATION -->
-		
+        
 
-		
+        
 
-		
+        
 <!-- BEGIN GOOGLE ADSENSE -->
 <script type="text/javascript">
 // <![CDATA[
-				var googletag = googletag || {};
-				googletag.cmd = googletag.cmd || [];
+                var googletag = googletag || {};
+                googletag.cmd = googletag.cmd || [];
 
-				(function() {
-					var gads = document.createElement('script');
-					gads.async = true;
-					gads.type = 'text/javascript';
-					var useSSL = 'https:' == document.location.protocol;
-					gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
-					var node = document.getElementsByTagName('script')[0];
-					node.parentNode.insertBefore(gads, node);
-				})();
+                (function() {
+                    var gads = document.createElement('script');
+                    gads.async = true;
+                    gads.type = 'text/javascript';
+                    var useSSL = 'https:' == document.location.protocol;
+                    gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+                    var node = document.getElementsByTagName('script')[0];
+                    node.parentNode.insertBefore(gads, node);
+                })();
 // ]]>
 </script>
-			<script src="/static/js/hescar/dfp.js" type="text/javascript"></script>
-			
-				
-<script type="text/javascript">
+            <script src="/static/js/hescar/dfp.js" type="text/javascript"></script>
+            
+                <script type="text/javascript">
 googletag.cmd.push(function() {
       googletag.defineSlot('/6392724/Non_Premium_University_Page_468x60', [468, 60], 'div-gpt-ad-1344231467833-0').addService(googletag.pubads());
       googletag.defineSlot('/6392724/All_Site_MediumRectangle_300x250', [300, 250], 'div-gpt-ad-1344242131373-0').addService(googletag.pubads());
@@ -154,7 +133,6 @@ googletag.cmd.push(function() {
       googletag.defineSlot('/6392724/easyuni.co.id_Homepage_Featured_Universities_1', [300, 250], 'div-gpt-ad-1346903190209-0').addService(googletag.pubads());
       googletag.defineSlot('/6392724/easyuni.co.id_Homepage_Featured_Universities_2', [300, 250], 'div-gpt-ad-1346903206499-0').addService(googletag.pubads());
       googletag.defineSlot('/6392724/easyuni.co.id_Homepage_Featured_Universities_3', [300, 250], 'div-gpt-ad-1346903219738-0').addService(googletag.pubads());
-      googletag.defineSlot('/6392724/Test_320x250', [300, 250], 'div-gpt-ad-1347247765710-0').addService(googletag.pubads());
 
       update_ads_url(slots);
 
@@ -163,46 +141,40 @@ googletag.cmd.push(function() {
 });
 </script>
 
-
 <script type="text/javascript">
 // <![CDATA[
-					googletag.cmd.push(function() {
-						slots = [];
-						slots.push(googletag.defineSlot('/6392724/300x250', [300, 250], 'div-gpt-ad-mobile').addService(googletag.pubads()));
-						slots.push(googletag.defineSlot('/6392724/300x250', [300, 250], 'div-gpt-ad-300x250').addService(googletag.pubads()));
-						slots.push(googletag.defineSlot('/6392724/300x250', [300, 250], 'div-gpt-ad2-300x250').addService(googletag.pubads()));
-						slots.push(googletag.defineSlot('/6392724/300x250', [300, 250], 'div-gpt-ad3-300x250').addService(googletag.pubads()));
-						slots.push(googletag.defineSlot('/6392724/160x600', [160, 600], 'div-gpt-ad-160x600').addService(googletag.pubads()));
-						slots.push(googletag.defineSlot('/6392724/160x600', [160, 600], 'div-gpt-ad2-160x600').addService(googletag.pubads()));
-						slots.push(googletag.defineSlot('/6392724/468x60', [468, 60], 'div-gpt-ad-468x60').addService(googletag.pubads()));
-						slots.push(googletag.defineSlot('/6392724/468x60', [468, 60], 'div-gpt-ad2-468x60').addService(googletag.pubads()));
+                    googletag.cmd.push(function() {
+                        slots = [];
+                        slots.push(googletag.defineSlot('/6392724/300x250', [300, 250], 'div-gpt-ad-mobile').addService(googletag.pubads()));
+                        slots.push(googletag.defineSlot('/6392724/300x250', [300, 250], 'div-gpt-ad-300x250').addService(googletag.pubads()));
+                        slots.push(googletag.defineSlot('/6392724/300x250', [300, 250], 'div-gpt-ad2-300x250').addService(googletag.pubads()));
+                        slots.push(googletag.defineSlot('/6392724/300x250', [300, 250], 'div-gpt-ad3-300x250').addService(googletag.pubads()));
+                        slots.push(googletag.defineSlot('/6392724/160x600', [160, 600], 'div-gpt-ad-160x600').addService(googletag.pubads()));
+                        slots.push(googletag.defineSlot('/6392724/160x600', [160, 600], 'div-gpt-ad2-160x600').addService(googletag.pubads()));
+                        slots.push(googletag.defineSlot('/6392724/468x60', [468, 60], 'div-gpt-ad-468x60').addService(googletag.pubads()));
+                        slots.push(googletag.defineSlot('/6392724/468x60', [468, 60], 'div-gpt-ad2-468x60').addService(googletag.pubads()));
 
-						
+                        
 
-						update_ads_url(slots);
+                        update_ads_url(slots);
 
-						googletag.pubads().setTargeting("domain", "main");
-						googletag.pubads().setTargeting("gpage", "true");
+                        googletag.pubads().setTargeting("domain", "main");
+                        googletag.pubads().setTargeting("gpage", "true");
+                        googletag.pubads().setTargeting("site", "main");
 
-						
-								googletag.pubads().setTargeting("site", "main");
-						
+                        
 
-						
-
-						
-
-						googletag.pubads().collapseEmptyDivs();
-						googletag.enableServices();
-					});
+                        googletag.pubads().collapseEmptyDivs();
+                        googletag.enableServices();
+                    });
 // ]]>
 </script>
-			
+            
 <!-- END GOOGLE ADSENSE -->
-		
+        
 <!-- BEGIN BACKBONE TEMPLATES -->
-		<script id="tmpl-notification" type="text/template">
-			
+        <script id="tmpl-notification" type="text/template">
+            
 
 <div class='notification-messages info'>
   <a class='block' style='float: none' href='<%= obj.url %>'>
@@ -220,27 +192,26 @@ googletag.cmd.push(function() {
   </a>
 </div>
 
-		</script>
-		
-		
+        </script>
+        
+        
 <!-- END BACKBONE TEMPLATES -->
-		
+        
 <style type="text/css">
 /*<![CDATA[*/
-				.navbar-inner { max-width: 1210px; }
-				.page-content { margin-left: 0px !important; }
-				.content { max-width: 1200px; }
+                .navbar-inner { max-width: 1210px; }
+                .page-content { margin-left: 0px !important; }
+                .content { max-width: 1200px; }
 /*]]>*/
 </style>
-		
-		
-		
-	</head>
+        
+        
+        
+    </head>
 <!-- END HEAD -->
 <!-- BEGIN BODY -->
-	<body class="breakpoint-1024">
-		<div id="fb-root"></div>
-		
+    <body class="breakpoint-1024">
+        
     <!-- Google Tag Manager -->
     <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NZ8S5S"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -252,448 +223,245 @@ googletag.cmd.push(function() {
     <!-- End Google Tag Manager -->
 
 
-
+        <div id="fb-root"></div>
 <!-- BEGIN HEADER -->
-		<div class="header navbar navbar-inverse">
+        <div class="header navbar navbar-inverse">
 <!-- BEGIN TOP NAVIGATION BAR -->
-			<div class="navbar-inner">
-				<div class="header-seperation m-r-15">
-					<ul id="main-menu-toggle-wrapper" class="nav pull-left notifcation-center" style="display: none; background: none">
-						
-							<li class="dropdown">
-								<a id="toggle-supermenu" class="bg-blue" href="#super-menu-xs">
-									<i class="fa fa-bars text-white"></i>
-								</a>
-							</li>
-						
-					</ul>
+            <div class="navbar-inner" style="max-width:1290px">
+                <div class="header-seperation m-r-15">
+                    <ul id="main-menu-toggle-wrapper" class="nav pull-left notifcation-center" style="display: none; background: none">
+                        
+                            <li class="dropdown">
+                                <a id="toggle-supermenu" class="bg-blue" href="#super-menu-xs">
+                                    <i class="fa fa-bars text-white"></i>
+                                </a>
+                            </li>
+                        
+                    </ul>
 <!-- BEGIN LOGO -->
-					<a href="/en/">
-						<img class="logo" src="/media/hescar_utils/domain/logo/2015/02/24/logo240x100.png" style="" height="80" width="192" data-src="/media/hescar_utils/domain/logo/2015/02/24/logo240x100.png" alt="easyuni">
-					</a>
+                    <a href="/">
+                        <img class="logo" src="/media/hescar_utils/domain/logo/2015/02/24/logo240x100.png" style="" height="80" width="192" data-src="/media/hescar_utils/domain/logo/2015/02/24/logo240x100.png" alt="easyuni">
+                    </a>
 <!-- END LOGO -->
-				</div>
-				<div class="header-quick-nav">
+                </div>
+                <div class="header-quick-nav">
 <!-- BEGIN CHAT TOGGLER -->
-					<div class="quick-section-outer pull-right" style="position:relative;right:-35px;">
-						<div class="quick-section-inner m-t-20" style="">
-							
-							<ul class="nav quick-section" style="position:relative;right:35px">
-								
-									<li class="quicklinks">
-										<a class="text-black large-text" href="/en/login/">
-											Login
-										</a>
-									</li>
-									<li>
-										<span class="h-seperate p-b-5"></span>
-									</li>
-									<li class="quicklinks">
-										<a class="text-black large-text" href="/en/register/">
-											Signup
-										</a>
-									</li>
-								
-							</ul>
-							
-						</div>
-						<div class="clearfix"></div>
-					</div>
+                    <div class="quick-section-outer pull-right" style="width:400px; position:relative;right:0px;">
+
+                            
+                                <a class="btn btn-success" disabled="disabled" style="font-weight: bold; margin-top:4px; margin-left:175px">Call us +603-220 220 71</a>
+                            
+                        <div class="quick-section-inner m-t-20" style="right:0px; margin-left:255px;margin-top:1px">
+                            
+                            <ul class="nav quick-section" style="margin-top:10px;position:relative; margin-right:35px;width: 150px; right:35px">
+                                
+                                    <li class="quicklinks">
+                                        <a class="text-black large-text" href="/login/">
+                                            Login
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <span class="h-seperate p-b-5"></span>
+                                    </li>
+                                    <li class="quicklinks">
+                                        <a class="text-black large-text" href="/register/">
+                                            Signup
+                                        </a>
+                                    </li>
+                                
+                            </ul>
+                            
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
 <!-- END CHAT TOGGLER -->
 <!-- BEGIN TOP NAVIGATION MENU -->
-					<div class="pull-left m-l-60 p-l-10" style="">
-						<ul class="nav main-section">
-							<li class="no-margin" style="box-shadow: none; min-width: 0px">
-								<a data-toggle="dropdown" href="/en/international/all/all/all-levels/">
-									<i class="iconset top-down-arrow pull-right"></i>
-									Find University or College
-								</a>
-								<ul class="dropdown-menu arrow-left pull-left text-left" aria-labelledby="Find University or College" role="menu">
-									<li class="has-sub-menu">
-										<a href="javascript:;">
-											<i class="fa fa-chevron-right pull-right muted"></i>
-											By Subject
-										</a>
-										<div class="sub-menu menu-subject" style="width: 555px">
-											<ul class="dropdown-menu">
-												
-													<li>
-														<a href="/en/international/accounting-and-finance/all/all-levels/">
-															Accounting and Finance
-														</a>
-													</li>
-												
-													<li>
-														<a href="/en/international/agriculture-and-related-subjects/all/all-levels/">
-															Agriculture and Related Subjects
-														</a>
-													</li>
-												
-													<li>
-														<a href="/en/international/applied-and-pure-sciences/all/all-levels/">
-															Applied and Pure Sciences
-														</a>
-													</li>
-												
-													<li>
-														<a href="/en/international/architecture-building-and-planning/all/all-levels/">
-															Architecture, Building and Planning
-														</a>
-													</li>
-												
-													<li>
-														<a href="/en/international/aviation/all/all-levels/">
-															Aviation
-														</a>
-													</li>
-												
-													<li>
-														<a href="/en/international/beauty-and-personal-care/all/all-levels/">
-															Beauty and Personal Care
-														</a>
-													</li>
-												
-													<li>
-														<a href="/en/international/business-and-management/all/all-levels/">
-															Business and Management
-														</a>
-													</li>
-												
-													<li>
-														<a href="/en/international/computer-science-and-information-technology/all/all-levels/">
-															Computer Science and IT
-														</a>
-													</li>
-												
-													<li>
-														<a href="/en/international/creative-arts-design/all/all-levels/">
-															Creative Arts &amp; Design
-														</a>
-													</li>
-												
-													<li>
-														<a href="/en/international/education-and-teaching/all/all-levels/">
-															Education and Teaching
-														</a>
-													</li>
-												
-											</ul>
-											<ul class="dropdown-menu">
-												
-													<li>
-														<a href="/en/international/engineering/all/all-levels/">
-															Engineering
-														</a>
-													</li>
-												
-													<li>
-														<a href="/en/international/english-language/all/all-levels/">
-															English Language
-														</a>
-													</li>
-												
-													<li>
-														<a href="/en/international/health-and-medicine/all/all-levels/">
-															Health and Medicine
-														</a>
-													</li>
-												
-													<li>
-														<a href="/en/international/hotel-management-and-hospitality/all/all-levels/">
-															Hotel Management and Hospitality
-														</a>
-													</li>
-												
-													<li>
-														<a href="/en/international/humanities-social-sciences/all/all-levels/">
-															Humanities &amp; Social Sciences
-														</a>
-													</li>
-												
-													<li>
-														<a href="/en/international/law/all/all-levels/">
-															Law
-														</a>
-													</li>
-												
-													<li>
-														<a href="/en/international/mandarin-chinese-language/all/all-levels/">
-															Mandarin (Chinese Language)
-														</a>
-													</li>
-												
-													<li>
-														<a href="/en/international/mass-communication-and-media/all/all-levels/">
-															Mass Communication and Media
-														</a>
-													</li>
-												
-													<li>
-														<a href="/en/international/mba/all/all-levels/">
-															MBA
-														</a>
-													</li>
-												
-													<li>
-														<a href="/en/international/sports-science/all/all-levels/">
-															Sports Science
-														</a>
-													</li>
-												
-											</ul>
-											<div class="clearfix"></div>
-										</div>
-									</li>
-									<li class="has-sub-menu">
-										<a href="javascript:;">
-											<i class="fa fa-chevron-right pull-right muted"></i>
-											By Level of Study
-										</a>
-										<div class="sub-menu" style="width: 410px">
-											<ul class="dropdown-menu sub-menu">
-												
-													<li>
-														<a href="/en/international/all/all/foundationpre-u/">
-															Foundation/Pre-U
-														</a>
-													</li>
-												
-													<li>
-														<a href="/en/international/all/all/diploma/">
-															Diploma
-														</a>
-													</li>
-												
-													<li>
-														<a href="/en/international/all/all/bachelors-degree/">
-															Bachelor's Degree
-														</a>
-													</li>
-												
-													<li>
-														<a href="/en/international/all/all/masters-degree/">
-															Master's Degree
-														</a>
-													</li>
-												
-													<li>
-														<a href="/en/international/all/all/advanced-diploma/">
-															Advanced Diploma
-														</a>
-													</li>
-												
-													<li>
-														<a href="/en/international/all/all/associate-degree/">
-															Associate Degree
-														</a>
-													</li>
-												
-											</ul>
-											<ul class="dropdown-menu sub-menu">
-												
-													<li>
-														<a href="/en/international/all/all/certificate/">
-															Certificate
-														</a>
-													</li>
-												
-													<li>
-														<a href="/en/international/all/all/professional-and-vocational/">
-															Professional and Vocational
-														</a>
-													</li>
-												
-													<li>
-														<a href="/en/international/all/all/postgraduate-certificate/">
-															Postgraduate Certificate
-														</a>
-													</li>
-												
-													<li>
-														<a href="/en/international/all/all/postgraduate-diploma/">
-															Postgraduate Diploma
-														</a>
-													</li>
-												
-													<li>
-														<a href="/en/international/all/all/doctoral-degree-phd/">
-															Doctoral Degree (PhD)
-														</a>
-													</li>
-												
-													<li>
-														<a href="/en/international/all/all/summer-courses/">
-															Summer Courses
-														</a>
-													</li>
-												
-											</ul>
-										</div>
-									</li>
-									<li class="has-sub-menu">
-										<a href="javascript:;">
-											<i class="fa fa-chevron-right pull-right muted"></i>
-											By Country
-
-										</a>
-										<div class="sub-menu menu-country" style="width: 400px">
-											
-												<ul class="dropdown-menu sub-menu">
-													
-														<li>
-															<a href="/en/australia/">
-																Australia
-															</a>
-														</li>
-													
-														<li>
-															<a href="/en/china/">
-																China
-															</a>
-														</li>
-													
-														<li>
-															<a href="/en/france/">
-																France
-															</a>
-														</li>
-													
-														<li>
-															<a href="/en/germany/">
-																Germany
-															</a>
-														</li>
-													
-														<li>
-															<a href="/en/hong-kong/">
-																Hong Kong
-															</a>
-														</li>
-													
-														<li>
-															<a href="/en/italy/">
-																Italy
-															</a>
-														</li>
-													
-												</ul>
-											
-												<ul class="dropdown-menu sub-menu">
-													
-														<li>
-															<a href="/en/macau/">
-																Macau
-															</a>
-														</li>
-													
-														<li>
-															<a href="/en/malaysia/">
-																Malaysia
-															</a>
-														</li>
-													
-														<li>
-															<a href="/en/new-zealand/">
-																New Zealand
-															</a>
-														</li>
-													
-														<li>
-															<a href="/en/singapore/">
-																Singapore
-															</a>
-														</li>
-													
-														<li>
-															<a href="/en/spain/">
-																Spain
-															</a>
-														</li>
-													
-														<li>
-															<a href="/en/taiwan-roc/">
-																Taiwan (ROC)
-															</a>
-														</li>
-													
-												</ul>
-											
-												<ul class="dropdown-menu sub-menu">
-													
-														<li>
-															<a href="/en/united-kingdom/">
-																United Kingdom
-															</a>
-														</li>
-													
-														<li>
-															<a href="/en/united-states/">
-																United States
-															</a>
-														</li>
-													
-												</ul>
-											
-										</div>
-									</li>
-									<li class="has-sub-menu">
-										<a href="/en/course-recommender/">
-											<i></i>
-											Course Recommender
-
-										</a>
-									</li>
-									<li class="uni-quick-search">
-										<label class="uni-quick-search-error error hide m-l-10">University not found</label><div class="input-group transparent">
-											<span class="input-group-addon">
-												<i class="fa fa-search"></i>
-											</span>
-											<input class="form-control" placeholder="Search by name" type="text" name="uni_quicksearch" autocomplete="off">
-										</div>
-									</li>
-								</ul>
-							</li>
-							<li>
-								<span class="h-seperate no-margin"></span>
-							</li>
-							<li>
-								<a href="/en/scholarships/search/">
-									Find Scholarship
-								</a>
-							</li>
-							<li>
-								<span class="h-seperate no-margin"></span>
-							</li>
-							<li>
-								<a href="/en/advice/">
-									Find Advice
-								</a>
-							</li>
-							<li>
-								<span class="h-seperate no-margin"></span>
-							</li>
-							
-								<li>
-									<a href="https://forum.easyuni.com">
-										Forum
-									</a>
-								</li>
-							
-						</ul>
-					</div>
+                    <div class="pull-left m-l-60 p-l-10" style="">
+                        <ul class="nav main-section">
+                            <li class="no-margin" style="box-shadow: none; min-width: 0px">
+                                <a class="menu__find-univ" data-toggle="dropdown" href="/international/all/all/all-levels/">
+                                    <i class="iconset top-down-arrow pull-right"></i>
+                                    Find University or College
+                                </a>
+                                <ul class="dropdown-menu arrow-left pull-left text-left" aria-labelledby="Find University or College" role="menu">
+                                    <li class="has-sub-menu">
+                                        <a href="javascript:;"><i class="fa fa-chevron-right pull-right muted"></i>By Subject</a>
+                                        <div class="sub-menu menu-subject" style="width: 555px">
+                                            <ul class="dropdown-menu">
+                                                
+                                                    <li><a href="/international/accounting-and-finance/all/all-levels/">Accounting and Finance</a></li>
+                                                
+                                                    <li><a href="/international/agriculture-and-related-subjects/all/all-levels/">Agriculture and Related Subjects</a></li>
+                                                
+                                                    <li><a href="/international/applied-and-pure-sciences/all/all-levels/">Applied and Pure Sciences</a></li>
+                                                
+                                                    <li><a href="/international/architecture-building-and-planning/all/all-levels/">Architecture, Building and Planning</a></li>
+                                                
+                                                    <li><a href="/international/aviation/all/all-levels/">Aviation</a></li>
+                                                
+                                                    <li><a href="/international/beauty-and-personal-care/all/all-levels/">Beauty and Personal Care</a></li>
+                                                
+                                                    <li><a href="/international/business-and-management/all/all-levels/">Business and Management</a></li>
+                                                
+                                                    <li><a href="/international/computer-science-and-information-technology/all/all-levels/">Computer Science and Information Technology</a></li>
+                                                
+                                                    <li><a href="/international/creative-arts-design/all/all-levels/">Creative Arts &amp; Design</a></li>
+                                                
+                                                    <li><a href="/international/education-and-teaching/all/all-levels/">Education and Teaching</a></li>
+                                                
+                                            </ul>
+                                            <ul class="dropdown-menu">
+                                                
+                                                    <li><a href="/international/engineering/all/all-levels/">Engineering</a></li>
+                                                
+                                                    <li><a href="/international/english-language/all/all-levels/">English Language</a></li>
+                                                
+                                                    <li><a href="/international/health-and-medicine/all/all-levels/">Health and Medicine</a></li>
+                                                
+                                                    <li><a href="/international/hotel-management-and-hospitality/all/all-levels/">Hotel Management and Hospitality</a></li>
+                                                
+                                                    <li><a href="/international/humanities-social-sciences/all/all-levels/">Humanities &amp; Social Sciences</a></li>
+                                                
+                                                    <li><a href="/international/law/all/all-levels/">Law</a></li>
+                                                
+                                                    <li><a href="/international/mandarin-chinese-language/all/all-levels/">Mandarin (Chinese Language)</a></li>
+                                                
+                                                    <li><a href="/international/mass-communication-and-media/all/all-levels/">Mass Communication and Media</a></li>
+                                                
+                                                    <li><a href="/international/mba/all/all-levels/">MBA</a></li>
+                                                
+                                                    <li><a href="/international/sports-science/all/all-levels/">Sports Science</a></li>
+                                                
+                                            </ul>
+                                            <div class="clearfix"></div>
+                                        </div>
+                                    </li>
+                                    <li class="has-sub-menu">
+                                        <a href="javascript:;"><i class="fa fa-chevron-right pull-right muted"></i>By Level of Study</a>
+                                        <div class="sub-menu" style="width: 410px">
+                                            <ul class="dropdown-menu sub-menu">
+                                                
+                                                    <li><a href="/international/all/all/foundationpre-u/">Foundation/Pre-U</a></li>
+                                                
+                                                    <li><a href="/international/all/all/diploma/">Diploma</a></li>
+                                                
+                                                    <li><a href="/international/all/all/bachelors-degree/">Bachelor's Degree</a></li>
+                                                
+                                                    <li><a href="/international/all/all/masters-degree/">Master's Degree</a></li>
+                                                
+                                                    <li><a href="/international/all/all/advanced-diploma/">Advanced Diploma</a></li>
+                                                
+                                                    <li><a href="/international/all/all/associate-degree/">Associate Degree</a></li>
+                                                
+                                            </ul>
+                                            <ul class="dropdown-menu sub-menu">
+                                                
+                                                    <li><a href="/international/all/all/certificate/">Certificate</a></li>
+                                                
+                                                    <li><a href="/international/all/all/professional-and-vocational/">Professional and Vocational</a></li>
+                                                
+                                                    <li><a href="/international/all/all/postgraduate-certificate/">Postgraduate Certificate</a></li>
+                                                
+                                                    <li><a href="/international/all/all/postgraduate-diploma/">Postgraduate Diploma</a></li>
+                                                
+                                                    <li><a href="/international/all/all/doctoral-degree-phd/">Doctoral Degree (PhD)</a></li>
+                                                
+                                                    <li><a href="/international/all/all/summer-courses/">Summer Courses</a></li>
+                                                
+                                            </ul>
+                                        </div>
+                                    </li>
+                                    <li class="has-sub-menu">
+                                        <a href="javascript:;"><i class="fa fa-chevron-right pull-right muted"></i>By Country</a>
+                                        <div class="sub-menu menu-country" style="width: 480px">
+                                            
+                                                <ul class="dropdown-menu sub-menu">
+                                                    
+                                                        <li><a href="/australia/">Australia</a></li>
+                                                    
+                                                        <li><a href="/bulgaria/">Bulgaria</a></li>
+                                                    
+                                                        <li><a href="/canada/">Canada</a></li>
+                                                    
+                                                        <li><a href="/china/">China</a></li>
+                                                    
+                                                        <li><a href="/france/">France</a></li>
+                                                    
+                                                        <li><a href="/germany/">Germany</a></li>
+                                                    
+                                                        <li><a href="/hong-kong/">Hong Kong</a></li>
+                                                    
+                                                </ul>
+                                            
+                                                <ul class="dropdown-menu sub-menu">
+                                                    
+                                                        <li><a href="/italy/">Italy</a></li>
+                                                    
+                                                        <li><a href="/macau/">Macau</a></li>
+                                                    
+                                                        <li><a href="/malaysia/">Malaysia</a></li>
+                                                    
+                                                        <li><a href="/netherlands/">Netherlands</a></li>
+                                                    
+                                                        <li><a href="/new-zealand/">New Zealand</a></li>
+                                                    
+                                                        <li><a href="/singapore/">Singapore</a></li>
+                                                    
+                                                        <li><a href="/south-korea/">South Korea</a></li>
+                                                    
+                                                </ul>
+                                            
+                                                <ul class="dropdown-menu sub-menu">
+                                                    
+                                                        <li><a href="/spain/">Spain</a></li>
+                                                    
+                                                        <li><a href="/switzerland/">Switzerland</a></li>
+                                                    
+                                                        <li><a href="/thailand/">Thailand</a></li>
+                                                    
+                                                        <li><a href="/turkey/">Turkey</a></li>
+                                                    
+                                                        <li><a href="/united-kingdom/">United Kingdom</a></li>
+                                                    
+                                                        <li><a href="/united-states/">United States</a></li>
+                                                    
+                                                </ul>
+                                            
+                                        </div>
+                                    </li>
+                                    <li class="uni-quick-search">
+                                        <label class="uni-quick-search-error error hide m-l-10">University not found</label><div class="input-group transparent">
+                                            <span class="input-group-addon">
+                                                <i class="fa fa-search"></i>
+                                            </span>
+                                            <input class="form-control" placeholder="Search by name" type="text" name="uni_quicksearch" autocomplete="off">
+                                        </div>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li><span class="h-seperate no-margin"></span></li>
+                            <li><a href="/advice/">Find Advice</a></li>
+                            <li><span class="h-seperate no-margin"></span></li>
+                            
+                            <li><span class="h-seperate no-margin"></span></li>
+                            
+                                <li><a href="https://forum.easyuni.com">Forum</a></li>
+                            
+                        </ul>
+                    </div>
 <!-- END TOP NAVIGATION MENU -->
-					<div class="clearfix"></div>
-				</div>
-			</div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
 <!-- END TOP NAVIGATION BAR -->
-		</div>
+        </div>
 <!-- END HEADER -->
 <!-- BEGIN CONTAINER -->
-		<div class="page-container row-fluid">
+        <div class="page-container row-fluid">
 <!-- BEGIN SIDEBAR -->
-			
+            
 <!-- BEGIN CONTENT OUTER TOP -->
-			
+            
   <div class="p-t-60">
     <div class="page-content">
       <div class="content">
@@ -761,7 +529,7 @@ googletag.cmd.push(function() {
     <ul class="no-padding" style="list-style: none">
       
         <li class="">
-          <a class="block" href="/en/about/">
+          <a class="block" href="/about/">
             <i class="fa fa-chevron-right muted pull-right m-t-5" style="font-size: 12px"></i>
             About Us
           </a>
@@ -772,7 +540,7 @@ googletag.cmd.push(function() {
         </li>
       
         <li class="">
-          <a class="block" href="/en/whats-easyuni/">
+          <a class="block" href="/whats-easyuni/">
             <i class="fa fa-chevron-right muted pull-right m-t-5" style="font-size: 12px"></i>
             What is EASYUNI
           </a>
@@ -783,7 +551,7 @@ googletag.cmd.push(function() {
         </li>
       
         <li class="">
-          <a class="block" href="/en/contact-us/">
+          <a class="block" href="/contact-us/">
             <i class="fa fa-chevron-right muted pull-right m-t-5" style="font-size: 12px"></i>
             Contact us
           </a>
@@ -794,7 +562,7 @@ googletag.cmd.push(function() {
         </li>
       
         <li class="">
-          <a class="block" href="/en/press/">
+          <a class="block" href="/press/">
             <i class="fa fa-chevron-right muted pull-right m-t-5" style="font-size: 12px"></i>
             Press Room
           </a>
@@ -805,7 +573,7 @@ googletag.cmd.push(function() {
         </li>
       
         <li class="">
-          <a class="block" href=" https://bit.ly/1rpA5vy ">
+          <a class="block" href="http://careers.easyuni.com/">
             <i class="fa fa-chevron-right muted pull-right m-t-5" style="font-size: 12px"></i>
             Careers
           </a>
@@ -816,7 +584,7 @@ googletag.cmd.push(function() {
         </li>
       
         <li class="bold">
-          <a class="block" href="/en/privacy-statement/">
+          <a class="block" href="/privacy-statement/">
             <i class="fa fa-chevron-right muted pull-right m-t-5" style="font-size: 12px"></i>
             Privacy Statement
           </a>
@@ -827,7 +595,7 @@ googletag.cmd.push(function() {
         </li>
       
         <li class="">
-          <a class="block" href="/en/terms-and-conditions/">
+          <a class="block" href="/terms-and-conditions/">
             <i class="fa fa-chevron-right muted pull-right m-t-5" style="font-size: 12px"></i>
             Terms and Conditions
           </a>
@@ -838,7 +606,7 @@ googletag.cmd.push(function() {
         </li>
       
         <li class="">
-          <a class="block" href="/en/disclaimer/">
+          <a class="block" href="/disclaimer/">
             <i class="fa fa-chevron-right muted pull-right m-t-5" style="font-size: 12px"></i>
             Disclaimer
           </a>
@@ -849,7 +617,7 @@ googletag.cmd.push(function() {
         </li>
       
         <li class="">
-          <a class="block" href="/en/student-testimonial/">
+          <a class="block" href="/student-testimonial/">
             <i class="fa fa-chevron-right muted pull-right m-t-5" style="font-size: 12px"></i>
             Student Testimonial
           </a>
@@ -865,29 +633,25 @@ googletag.cmd.push(function() {
               
 
 
-	
-		<div id="div-gpt-ad-300x250" style="width:300px; height:250px;margin-left:auto; margin-right:auto;margin-bottom:10px;">
-		    <script type="text/javascript">
-		        googletag.cmd.push(function() { googletag.display('div-gpt-ad-300x250'); });
-		    </script>
-		</div>
-		<div id="div-gpt-ad2-300x250" style="width:300px; height:250px; margin-left:auto; margin-right:auto;">
-		    <script type="text/javascript">
-		        googletag.cmd.push(function() { googletag.display('div-gpt-ad2-300x250'); });
-		    </script>
-		</div>
-	
+  <div id="div-gpt-ad-300x250" style="width:300px; height:250px;margin-left:auto; margin-right:auto;margin-bottom:10px;">
+	<script type="text/javascript">
+	 googletag.cmd.push(function() { googletag.display('div-gpt-ad-300x250'); });
+	</script>
+  </div>
+  <div id="div-gpt-ad2-300x250" style="width:300px; height:250px; margin-left:auto; margin-right:auto;">
+	<script type="text/javascript">
+	 googletag.cmd.push(function() { googletag.display('div-gpt-ad2-300x250'); });
+	</script>
+  </div>
 
 
 
               <div class="m-t-30 visible-xs visible-sm">
-                
-<div id="div-gpt-ad-mobile" style="width:300px; height:250px;margin-left:auto;margin-right:auto;">
+                <div id="div-gpt-ad-mobile" style="width:300px; height:250px;margin-left:auto;margin-right:auto;">
     <script type="text/javascript">
-        googletag.cmd.push(function() { googletag.display('div-gpt-ad-mobile'); });
+        googletag.cmd.push(function() { googletag.display("div-gpt-ad-mobile"); });
     </script>
 </div>
-
 
 
               </div>
@@ -900,65 +664,48 @@ googletag.cmd.push(function() {
 
 <!-- END CONTENT OUTER TOP -->
 <!-- BEGIN PAGE CONTAINER -->
-			<div class="page-content">
+            <div class="page-content">
 <!-- BEGIN MOBILE SUPER MENU -->
-				<div id="super-menu-xs" class="p-t-60 hide">
-					<ul class="nav nav-pills nav-stacked p-t-15 m-r-20 m-l-20">
-						<li class="active m-b-5 large-text no-padding">
-							<a href="/en/international/all/all/all-levels/">
-								Find University or College
-							</a>
-						</li>
-						<li class="active m-b-5 large-text no-padding">
-							<a href="/en/scholarships/search/">
-								Find Scholarship
-							</a>
-						</li>
-						<li class="active m-b-5 large-text no-padding">
-							<a href="/en/advice/">
-								Find Advice
-							</a>
-						</li>
-						
-							<li class="active m-b-5 large-text no-padding">
-								<a href="https://forum.easyuni.com">
-									Forum
-								</a>
-							</li>
-						
-						<li class="active m-b-5 large-text no-padding hidden">
-							<a href="/en/course-recommender/">
-								Course Recommender
-							</a>
-						</li>
-						
-							<li class="active m-b-5 large-text no-padding">
-								<a href="/en/login/">
-									Login
-								</a>
-							</li>
-							<li class="active m-b-5 large-text no-padding">
-								<a href="/en/register/">
-									Register
-								</a>
-							</li>
-						
-					</ul>
-				</div>
+                <div id="super-menu-xs" class="p-t-60 hide">
+                    <ul class="nav nav-pills nav-stacked p-t-15 m-r-20 m-l-20">
+                        <li class="active m-b-5 large-text no-padding">
+                            <a href="/international/all/all/all-levels/">Find University or College</a>
+                        </li>
+                        <li class="active m-b-5 large-text no-padding">
+                            <a href="/advice/">Find Advice</a>
+                        </li>
+                        
+                            <li class="active m-b-5 large-text no-padding">
+                                <a href="https://forum.easyuni.com">Forum</a>
+                            </li>
+                        
+                        <li class="active m-b-5 large-text no-padding hidden">
+                            <a href="/course-recommender/">Course Recommender</a>
+                        </li>
+                        
+                            <li class="active m-b-5 large-text no-padding">
+                                <a href="/login/">Login</a>
+                            </li>
+                            <li class="active m-b-5 large-text no-padding">
+                                <a href="/register/">Register</a>
+                            </li>
+                        
+                    </ul>
+                </div>
 <!-- END MOBILE SUPER MENU -->
-				<div class="p-t-60" style="padding-top:90px">
-					
+                <div class="p-t-60" style="padding-top:90px">
+                    
 
-					
+                    
 
-				</div>
+                </div>
 <!-- BEGIN CONTENT -->
-				<div class="content">
-					<noscript class="alert block m-b-20">
-						For best experience enable JavaScript in your browser settings
+                <div class="content">
+                    <noscript class="alert block m-b-20">
+                        For best experience enable JavaScript in your browser settings
 
-					</noscript>
-					
+                    </noscript>
+                    
 
 
 <!-- BEGIN BACKBONE MESSAGES -->
@@ -973,405 +720,280 @@ googletag.cmd.push(function() {
 <!-- END BACKBONE MESSAGES -->
 
 
-					<div class="m-t-20">
-						
+                    <div class="m-t-20">
+                        
 
-						
+                        
 
-					</div>
-					
+                    </div>
+                    
 
-					
+                    
 
-					
+                    
 
-
-					
-
+                    
 
 <!-- BEGIN FOOTER -->
-					
-						
-							<hr>
-							<div class="row bottom-sitemap">
-								<div class="col-md-3">
-									<div class="grid simple vertical green">
-										<div class="grid-title no-border">
-											<h4>
-												Everything EASYUNI
-											</h4>
-										</div>
-										<div class="grid-body no-border">
-											<ul class="p-l-5">
-												<li>
-													<a href="/en/whats-easyuni/">
-														What's EASYUNI
-													</a>
-												</li>
-												<li>
-													<a href="/en/about/">
-														About Us
-													</a>
-												</li>
-												<li>
-													<a href="/en/press/">
-														Press Room
-													</a>
-												</li>
-												<li>
-													<a href="/en/student-testimonial/">
-														Student Testimonial
-													</a>
-												</li>
-												<li>
-													<a href="http://inside.easyuni.com">
-														Inside EASYUNI
-													</a>
-												</li>
-												<li>
-													<a href="http://careers.easyuni.com">
-														Careers
-													</a>
-												</li>
-												<li>
-													<a href="/en/contact-us/">
-														Contact Us
-													</a>
-												</li>
-												<li>
-													<a href="/en/terms-and-conditions/">
-														Terms &amp; Conditions
-													</a>
-												</li>
-												<li>
-													<a href="/en/privacy-statement/">
-														Privacy Statement
-													</a>
-												</li>
-											</ul>
-										</div>
-									</div>
-								</div>
-								<div class="col-md-3">
-									<div class="grid simple vertical blue">
-										<div class="grid-title no-border">
-											<h4>
-												Study Abroad
-											</h4>
-										</div>
-										<div class="grid-body no-border">
-											<ul class="p-l-5">
-												
-													<li>
-														<a href="/en/australia/">
-															
-																Study in Australia
-															
-														</a>
-													</li>
-												
-													<li>
-														<a href="/en/china/">
-															
-																Study in China
-															
-														</a>
-													</li>
-												
-													<li>
-														<a href="/en/france/">
-															
-																Study in France
-															
-														</a>
-													</li>
-												
-													<li>
-														<a href="/en/germany/">
-															
-																Study in Germany
-															
-														</a>
-													</li>
-												
-													<li>
-														<a href="/en/hong-kong/">
-															
-																Study in Hong Kong
-															
-														</a>
-													</li>
-												
-													<li>
-														<a href="/en/italy/">
-															
-																Study in Italy
-															
-														</a>
-													</li>
-												
-													<li>
-														<a href="/en/macau/">
-															
-																Study in Macau
-															
-														</a>
-													</li>
-												
-													<li>
-														<a href="/en/malaysia/">
-															
-																Study in Malaysia
-															
-														</a>
-													</li>
-												
-											</ul>
-										</div>
-									</div>
-								</div>
-								<div class="col-md-3">
-									<div class="grid simple vertical purple">
-										<div class="grid-title no-border">
-											<h4>
-												Courses by level
-											</h4>
-										</div>
-										<div class="grid-body no-border">
-											<ul class="p-l-5">
-												
-													<li>
-														
-															<a href="/en/international/all/all/foundationpre-u/">
-																Foundation/Pre-U
-															</a>
-														
-													</li>
-												
-													<li>
-														
-															<a href="/en/international/all/all/diploma/">
-																Diploma
-															</a>
-														
-													</li>
-												
-													<li>
-														
-															<a href="/en/international/all/all/bachelors-degree/">
-																Bachelor's Degree
-															</a>
-														
-													</li>
-												
-													<li>
-														
-															<a href="/en/international/all/all/masters-degree/">
-																Master's Degree
-															</a>
-														
-													</li>
-												
-													<li>
-														
-															<a href="/en/international/all/all/doctoral-degree-phd/">
-																Doctoral Degree (PhD)
-															</a>
-														
-													</li>
-												
-											</ul>
-										</div>
-									</div>
-								</div>
-								<div class="col-md-3">
-									<div class="grid simple vertical red">
-										<div class="grid-title no-border">
-											<h4>
-												Partnership
-											</h4>
-										</div>
-										<div class="grid-body no-border">
-											<ul class="p-l-5">
-												<li>
-													<a href="http://ads.easyuni.com">
-														Advertise on EASYUNI
-													</a>
-												</li>
-												<li>
-													<a href="/add-your-university">
-														Add your university
-													</a>
-												</li>
-												<li>
-													<a href="/campaign/easyuni-student-ambassador/">
-														Be our Student Ambassador
-													</a>
-												</li>
-											</ul>
-										</div>
-									</div>
-									
-										<div class="grid simple">
-											<div class="grid-title no-border">
-												<h4>
-													Keep in touch
-												</h4>
-											</div>
-											<div class="grid-body no-border">
-												<a class="m-r-10" href="https://www.facebook.com/easyuni" title="Like us on Facebook">
+                    
+                        
+                            <hr>
+                            <div class="row bottom-sitemap">
+                                <div class="col-md-3">
+                                    <div class="grid simple vertical green">
+                                        <div class="grid-title no-border">
+                                            <h4>
+                                                Everything EASYUNI
+                                            </h4>
+                                        </div>
+                                        <div class="grid-body no-border">
+                                            <ul class="p-l-5">
+                                                <li><a href="/whats-easyuni/">What's EASYUNI</a></li>
+                                                <li><a href="/about/">About Us</a></li>
+                                                <li><a href="/press/">Press Room</a></li>
+                                                <li><a href="/student-testimonial/">Student Testimonial</a></li>
+                                                <li><a href="http://inside.easyuni.com">Inside EASYUNI</a></li>
+                                                <li><a href="http://careers.easyuni.com">Careers</a></li>
+                                                <li><a href="/contact-us/">Contact Us</a></li>
+                                                <li><a href="/terms-and-conditions/">Terms &amp; Conditions</a></li>
+                                                <li><a href="/privacy-statement/">Privacy Statement</a></li>
+                                                <li><a href="/scholarships/search/">Find Scholarships</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="grid simple vertical blue">
+                                        <div class="grid-title no-border">
+                                            <h4>Study Abroad</h4>
+                                        </div>
+                                        <div class="grid-body no-border">
+                                            <ul class="p-l-5">
+                                                
+                                                    <li><a href="/australia/">
+                                                                Study in Australia
+                                                            </a></li>
+                                                
+                                                    <li><a href="/bulgaria/">
+                                                                Study in Bulgaria
+                                                            </a></li>
+                                                
+                                                    <li><a href="/canada/">
+                                                                Study in Canada
+                                                            </a></li>
+                                                
+                                                    <li><a href="/china/">
+                                                                Study in China
+                                                            </a></li>
+                                                
+                                                    <li><a href="/france/">
+                                                                Study in France
+                                                            </a></li>
+                                                
+                                                    <li><a href="/germany/">
+                                                                Study in Germany
+                                                            </a></li>
+                                                
+                                                    <li><a href="/hong-kong/">
+                                                                Study in Hong Kong
+                                                            </a></li>
+                                                
+                                                    <li><a href="/italy/">
+                                                                Study in Italy
+                                                            </a></li>
+                                                
+                                                    <li><a href="/macau/">
+                                                                Study in Macau
+                                                            </a></li>
+                                                
+                                                    <li><a href="/malaysia/">
+                                                                Study in Malaysia
+                                                            </a></li>
+                                                
+                                                    <li><a href="/netherlands/">
+                                                                Study in Netherlands
+                                                            </a></li>
+                                                
+                                                    <li><a href="/new-zealand/">
+                                                                Study in New Zealand
+                                                            </a></li>
+                                                
+                                                    <li><a href="/singapore/">
+                                                                Study in Singapore
+                                                            </a></li>
+                                                
+                                                    <li><a href="/south-korea/">
+                                                                Study in South Korea
+                                                            </a></li>
+                                                
+                                                    <li><a href="/spain/">
+                                                                Study in Spain
+                                                            </a></li>
+                                                
+                                                    <li><a href="/switzerland/">
+                                                                Study in Switzerland
+                                                            </a></li>
+                                                
+                                                    <li><a href="/thailand/">
+                                                                Study in Thailand
+                                                            </a></li>
+                                                
+                                                    <li><a href="/turkey/">
+                                                                Study in Turkey
+                                                            </a></li>
+                                                
+                                                    <li><a href="/united-kingdom/">
+                                                                Study in United Kingdom
+                                                            </a></li>
+                                                
+                                                    <li><a href="/united-states/">
+                                                                Study in United States
+                                                            </a></li>
+                                                
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="grid simple vertical purple">
+                                        <div class="grid-title no-border">
+                                            <h4>Courses by level</h4>
+                                        </div>
+                                        <div class="grid-body no-border">
+                                            <ul class="p-l-5">
+                                                
+                                                    <li><a href="/international/all/all/foundationpre-u/">Foundation/Pre-U</a>                                                        </li>
+                                                
+                                                    <li><a href="/international/all/all/diploma/">Diploma</a>                                                        </li>
+                                                
+                                                    <li><a href="/international/all/all/bachelors-degree/">Bachelor's Degree</a>                                                        </li>
+                                                
+                                                    <li><a href="/international/all/all/masters-degree/">Master's Degree</a>                                                        </li>
+                                                
+                                                    <li><a href="/international/all/all/doctoral-degree-phd/">Doctoral Degree (PhD)</a>                                                        </li>
+                                                
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="grid simple vertical red">
+                                        <div class="grid-title no-border">
+                                            <h4>Partnership</h4>
+                                        </div>
+                                        <div class="grid-body no-border">
+                                            <ul class="p-l-5">
+                                                <li><a href="http://ads.easyuni.com">Advertise on EASYUNI</a></li>
+                                                <li><a href="/add-your-university">Add your university</a></li>
+                                                <li><a href="/campaign/easyuni-student-ambassador/">Be our Student Ambassador</a></li>
+                                            </ul>
+                                        </div>
+                                      <div class="grid simple">
+                                          <div class="grid-title no-border">
+                                              <h4>Keep in touch</h4>
+                                          </div>
+                                          <div class="grid-body no-border">
+                                              <a class="m-r-15" href="https://www.facebook.com/easyuni" title="Like us on Facebook">
   <i class="fa fa-facebook-square" style="font-size: 250%"></i>
 </a>
-<a class="m-r-10" style="color: #55ACEE" href="https://twitter.com/easyuni" title="Follow us on Twitter">
+<a class="m-r-15" style="color: #55ACEE" href="https://twitter.com/easyuni" title="Follow us on Twitter">
   <i class="fa fa-twitter-square" style="font-size: 250%"></i>
 </a>
-<a class="m-r-10" style="color: #dd4b39" href="https://plus.google.com/u/0/b/117688414804591255387/117688414804591255387/posts" title="Follow us on Google+">
+<a class="m-r-15" style="color: #dd4b39" href="https://plus.google.com/u/0/b/117688414804591255387/117688414804591255387/posts" title="Follow us on Google+">
   <i class="fa fa-google-plus-square" style="font-size: 250%"></i>
 </a>
 
-											</div>
-										</div>
-									
-								</div>
-							</div>
+                                          </div>
+                                          <div class="grid-body no-border">
+                                              
+                                                  <a class="btn btn-success" disabled="disabled" style="font-weight: bold">Call us<br>+603-220 220 71</a>
+                                              
+                                          </div>
+                                      </div>
+                                    </div>
+                                </div>
+                            </div>
 <!-- BEGIN COPYRIGHT -->
-							<hr>
+                            <hr>
 
-							<div class="content-mid-m-t">
-								
+                            <div class="content-mid-m-t">
+                                
 
-								
+                                
 
-								<a class="pull-left m-r-20" href="https://www.mscmalaysia.my" target="_blank">
-									<img src="/static/images/msc-logo.png" alt="MSC Malaysia">
-								</a>
-								<p>
-									<small>
-										© Copyright
-										2015
-										easyuni Sdn. Bhd. (Formerly known as HESCAR Sdn. Bhd.). All Rights Reserved.
-										<br>
-										easyuni Sdn. Bhd. is MSC status company.
-									</small>
-								</p>
-								<div class="clearfix"></div>
-							</div>
+                                <a class="pull-left m-r-20" href="https://www.mscmalaysia.my" target="_blank">
+                                    <img src="/static/images/msc-logo.png" alt="MSC Malaysia">
+                                </a>
+                                <p>
+                                    <small>
+                                        © Copyright
+                                        2016
+                                        easyuni Sdn. Bhd. All Rights Reserved.
+                                        <br>
+                                        easyuni Sdn. Bhd. is MSC status company.
+                                    </small>
+                                </p>
+                                <div class="clearfix"></div>
+                            </div>
 <!-- END COPYRIGHT -->
-							<div class="foot-domain-links">
-								<hr>
-								<ul>
-									<li>
-										<a href="https://www.easyuni.my">
-											EASYUNI Malaysia &nbsp; |
-										</a>
-									</li>
-									<li>
-										<a href="https://www.easyuni.co.id">
-											EASYUNI Indonesia &nbsp; |
-										</a>
-									</li>
-									<li>
-										<a href="https://www.easyuni.vn">
-											EASYUNI Vietnam &nbsp; |
-										</a>
-									</li>
-									<li>
-										<a href="https://www.easyuni.in">
-											EASYUNI India &nbsp; |
-										</a>
-									</li>
-									<li>
-										<a href="https://www.easyuni.lk">
-											EASYUNI Sri Lanka &nbsp; |
-										</a>
-									</li>
-									<li>
-										<a href="https://www.easyuni.sg">
-											EASYUNI Singapore &nbsp; |
-										</a>
-									</li>
-									<li>
-										<a href="https://www.easyuni.cn">
-											EASYUNI China &nbsp; |
-										</a>
-									</li>
-									<li>
-										<a href="https://www.easyuni.mu">
-											EASYUNI Mauritius &nbsp; |
-										</a>
-									</li>
-									<li>
-										<a href="https://www.easyuni.com.bn">
-											EASYUNI Brunei
-										</a>
-									</li>
-								</ul>
-							</div>
-						
+                            <div class="foot-domain-links">
+                                <hr>
+                                <ul>
+                                    <li><a href="https://www.easyuni.my">EASYUNI Malaysia &nbsp; |</a></li>
+                                    <li><a href="https://www.easyuni.co.id">EASYUNI Indonesia &nbsp; |</a></li>
+                                    <li><a href="https://www.easyuni.vn">EASYUNI Vietnam &nbsp; |</a></li>
+                                    <li><a href="https://www.easyuni.in">EASYUNI India &nbsp; |</a></li>
+                                    <li><a href="https://www.easyuni.lk">EASYUNI Sri Lanka &nbsp; |</a></li>
+                                    <li><a href="https://www.easyuni.sg">EASYUNI Singapore &nbsp; |</a></li>
+                                    <li><a href="https://www.easyuni.cn">EASYUNI China &nbsp; |</a></li>
+                                    <li><a href="https://www.easyuni.mu">EASYUNI Mauritius &nbsp; |</a></li>
+                                    <li><a href="https://www.easyuni.com.bn">EASYUNI Brunei</a></li>
+                                </ul>
+                            </div>
+                        
 <!-- END FOOTER -->
-					
-				</div>
+                    
+                </div>
 <!-- END CONTENT -->
-			</div>
-		</div>
+            </div>
+        </div>
 <!-- BEGIN CORE JS FRAMEWORK -->
 <script type="text/javascript">
 // <![CDATA[
-			var uniQuickSearchURL = "/en/api/institutions/";
+            var uniQuickSearchURL = "/api/institutions/";
+            $(".menu__find-univ").click(function(e) {e.preventDefault()});
 
 // ]]>
 </script>
-		
+        
 
-<!-- BEGIN JQUERY LIBS -->
-<script src="/static/plugins/jquery-ui/jquery-ui-1.10.1.custom.min.js" type="text/javascript"></script>
-<script src="/static/plugins/jquery-validation/js/jquery.validate.js" type="text/javascript"></script>
-<script src="/static/plugins/jquery-unveil/jquery.unveil.js" type="text/javascript"></script>
-<script src="/static/plugins/jquery-block-ui/jqueryblockui.js" type="text/javascript"></script>
-<script src="/static/plugins/jquery-lazyload/jquery.lazyload.js" type="text/javascript"></script>
-<script src="/static/plugins/jquery-slider/jquery.sidr.js" type="text/javascript"></script>
-<script src="/static/plugins/jquery-slimscroll/jquery.slimscroll.js" type="text/javascript"></script>
-<script src="/static/plugins/jquery-numberAnimate/jquery.animateNumbers.js" type="text/javascript"></script>
-<script src="/static/plugins/jquery-notifications/js/messenger.js" type="text/javascript"></script>
-<script src="/static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.js" type="text/javascript"></script>
-<script src="/static/js/jquery.autocomplete.js" type="text/javascript"></script>
-<script src="/static/js/jquery.cookie.min.js" type="text/javascript"></script>
-<!-- END JQUERY LIBS -->
-<!-- BEGIN BACKBONE & DEPS -->
-<script src="/static/social_network/plugins/underscore-min.js" type="text/javascript"></script>
-<script src="/static/social_network/plugins/json2.js" type="text/javascript"></script>
-<script src="/static/social_network/plugins/backbone-min.js" type="text/javascript"></script>
-<!-- %script{src: "/static/social_network/plugins/backbone.poller.min.js", type: "text/javascript"} -->
-<!-- END BACKBONE -->
-<!-- BEGIN OTHER -->
-<script src="/static/plugins/bootstrap/js/bootstrap.js" type="text/javascript"></script>
-<script src="/static/plugins/breakpoints.js" type="text/javascript"></script>
-<!-- END OTHER -->
+
+  <script src="/static/build/libs.js" type="text/javascript"></script>
+  <script src="/static/build/libs-bb.js" type="text/javascript"></script>
+  <script src="/static/build/libs-bs.js" type="text/javascript"></script>
+
 <!-- BEGIN GLOBAL VARIABLES -->
 <script type="text/javascript">
 // <![CDATA[
   var vars = {
     enableNotifications: false,
-    csrf: "b22e9c330a82e62f169bf8dc84c24193"
+    csrf: "9HWiCT8aUoLsMs63ZGZ8D9QVYIBcPjZz"
   };
 
   var urls = {
-    basketList: "/en/shortlists/basket/list/",
-    basketAdd: "/en/shortlists/basket/add/",
-    basketRemove: "/en/shortlists/basket/remove/",
-    basketCompare: "/en/shortlists/basket/compare/",
+    basketList: "/shortlists/basket/list/",
+    basketAdd: "/shortlists/basket/add/",
+    basketRemove: "/shortlists/basket/remove/",
+    basketCompare: "/shortlists/basket/compare/",
   };
 
 // ]]>
 </script>
-
 <!-- END GLOBAL VARIABLES -->
 <!-- BEGIN CORE TEMPLATE JS -->
-<script src="/static/js/core.js" type="text/javascript"></script><div id="sidr" class="sidr right"></div><div class="uni-quick-search-popup" style="position: absolute; display: none; width: 100px; top: 26px; left: 0px; max-height: 300px; z-index: 9999;"></div>
-<script src="/static/js/utils.js" type="text/javascript"></script>
-<script src="/static/js/tabs_accordian.js" type="text/javascript"></script>
-<script src="/static/js/notifications.js" type="text/javascript"></script>
-<script src="/static/js/messages_notifications.js" type="text/javascript"></script>
+
+  <script src="/static/build/base.js" type="text/javascript"></script><div id="sidr" class="sidr right"></div><div class="uni-quick-search-popup" style="position: absolute; display: none; width: 100px; top: 26px; left: 0px; max-height: 300px; z-index: 9999;"></div>
+
 <!-- END CORE TEMPLATE JS -->
 <!-- BEGIN SOCIAL NETWORK JS -->
 
@@ -1432,24 +1054,20 @@ googletag.cmd.push(function() {
 
 <!-- END CORE JS FRAMEWORK -->
 <!-- BEGIN NOTIFICATION -->
-		
-			
+        
+            
 
-		
+        
 <!-- END NOTIFICATION -->
 <!-- BEGIN PAGE LEVEL JS -->
-		
-		
+        
+        
 <!-- END PAGE LEVEL JS -->
 <!-- BEGIN GOOGLE FONTS -->
-		
-			<link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&amp;subset=latin,vietnamese,latin-ext" type="text/css" rel="stylesheet">
-		
+        <link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&amp;subset=latin,vietnamese,latin-ext" type="text/css" rel="stylesheet">
 <!-- END GOOGLE FONTS -->
-		
-		<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"40af5b6b29","agent":"js-agent.newrelic.com/nr-741.min.js","transactionName":"MVIENRFYWRYCVUNRWQgYIBQNWkMMDFgYS0IHQw8CE1hQABAYQVFTEURcMQJeUiEGQlZRWjBeAxZNXlIR","applicationID":"1068496","errorBeacon":"bam.nr-data.net","applicationTime":58}</script>
-		
-	
+        <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"40af5b6b29","agent":"","transactionName":"MVIENRFYWRYCVUNRWQgYIBQNWkMMDFgYS0IHQw8CE1hQABAYQVFTEURcMQJeUiEGQlZRWjBeAxZNXlIR","applicationID":"1068496","errorBeacon":"bam.nr-data.net","applicationTime":156}</script>
+    
 <!-- END BODY -->
 
 </body></html>
