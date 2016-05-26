@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bergdorfgoodman.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205121708id_/http%3A//www.bergdorfgoodman.com/assistance/assistance.jsp%3FitemId%3Dcat403606%26icid%3Dfoot_secur_priv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bergdorfgoodman.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526120315id_/http%3A//www.bergdorfgoodman.com/assistance/assistance.jsp%3FitemId%3Dcat403606%26icid%3Dfoot_secur_priv) for the most accurate reproduction.*
 
 # Security & Privacy at Bergdorf Goodman
 
@@ -51,7 +51,7 @@ When you visit one of our stores, if your mobile device accesses one of our wire
 
 Our mobile applications will not transmit geo-location information about you to us unless you give them permission to do so.
 
-Some web browsers and devices permit you to broadcast a preference that you not be ???tracked??? online. At this time we do not modify your experience based upon whether such a signal is broadcast. 
+Some web browsers and devices permit you to broadcast a preference that you not be ?tracked? online. At this time we do not modify your experience based upon whether such a signal is broadcast. 
 
 The Information We Collect was last updated December 5, 2014.
 
