@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coupon-nurse.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125103743id_/http%3A//www.adventuresofanurse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupon-nurse.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526094300id_/http%3A//www.adventuresofanurse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Adventures of a Nurse
 
