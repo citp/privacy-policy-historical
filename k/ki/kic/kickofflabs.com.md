@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the kickofflabs.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919131659id_/http%3A//kickofflabs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kickofflabs.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526185034id_/https%3A//kickofflabs.com/privacy-policy) for the most accurate reproduction.*
 
-# KickoffLabs LLC Privacy Policy - Kickofflabs
-
-* * *
+# KickoffLabs LLC Privacy Policy - KickoffLabs
 
 **Last Updated: September 8th, 2015**
 
 Your privacy and the privacy of your customers are critically important to us. At KickoffLabs LLC (“KickoffLabs”, “We”, “Us”, or “Our”), we have a few fundamental principles:
 
-We don’t and won’t ask you for personally identifying information unless we truly need it. (Until we have a good reason for needing your gender and income level, what’s the point?) We ask that you do the same with any site(s) you create using Our Services (“Your Sites”). To make this Privacy Policy easier to read, www.kickofflabs.com, and Our products and services and are collectively called the “Services.”
+We don’t and won’t ask you for personally identifying information unless we truly need it. (Until we have a good reason for needing your gender and income level, what’s the point?) We ask that you do the same with any site(s) you create using Our Services (“Your Sites”). To make this Privacy Policy easier to read, www.kickofflabs.wpengine.com, and Our products and services and are collectively called the “Services.”
 
 We don’t share your personally identifying information, or data you collect through Your Sites, with anyone, except as needed, to provide product support, to comply with the law, or to protect Our rights.
 
 We don’t store personal or customer information from Your Sites on Our servers unless required for the on-going operation of Our Services. 
 
-You are in control of the information you share through Your Sites and the customer data you collect is your responsibility. As part of the Terms of Service, available at www.kickofflabs.com/terms, we require that you respect other Users’ and your customers’ rights to privacy in the same manner you’d require your data to be respected.
+You are in control of the information you share through Your Sites and the customer data you collect is your responsibility. As part of the Terms of Service, available at www.kickofflabs.wpengine.com/terms, we require that you respect other Users’ and your customers’ rights to privacy in the same manner you’d require your data to be respected.
 
 This Privacy Policy does not apply to the privacy practices of third parties whose links may appear on or through the Services. We are not responsible for the content or privacy practices of third parties or other Users.
 
