@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the pabo.com privacy policy that was archived on 2015-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151212132038id_/http%3A//www.pabo.com/aboutcookies) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pabo.com privacy policy that was archived on 2016-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160526060102id_/http%3A//www.pabo.com/aboutcookies) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
 		<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PBB7PJ"></script><script>
 			window["adrum-app-key"] = "AD-AAB-AAA-MBP";
 			window["adrum-start-time"] = new Date().getTime();
 		</script>
-		<script type="text/javascript" src="//de8of677fyt0b.cloudfront.net/adrum/adrum-latest.js"></script>
+		<script type="text/javascript" src="//cdn.appdynamics.com/adrum/adrum-latest.js"></script>
 		
 		<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><![endif]-->
 		<title>about_cookies</title>
@@ -44,6 +44,7 @@
 		<link rel="manifest" href="/_ui/desktop/theme-des/images/favicons/manifest.json">
 		<meta name="msapplication-TileColor" content="#ffffff">
 		<meta name="msapplication-TileImage" content="/_ui/desktop/theme-des/images/favicons/ms-icon-144x144.png">
+		<meta name="msapplication-config" content="none">
 		<meta name="theme-color" content="#ffffff">
 
 		<link rel="shortcut icon" href="/_ui/desktop/theme-des/images/favicons/favicon.ico" type="image/x-icon">
@@ -93,7 +94,6 @@
 	/*]]>*/
 </script>
 </head>
-
 	<body class="page-ABOUTCOOKIES pageType-ContentPage template-pages-layout-pabo-contentLayoutPage pageLabel--aboutcookies language-en" data-page-name="about_cookies">
 
 		<!-- Begin dataLayer -->
@@ -179,11 +179,11 @@
 <div class="close"></div>
 	<form id="loginForm" class="user-login" action="/j_spring_security_check" method="POST" onsubmit="forceHttpsOnSubmit(this)"><div class=" inputElement">
 		
-				<input id="j_username" name="j_username" class="user-login__field" placeholder="Your e-mail address" type="text" value=""></div>
+				<input id="j_username" name="j_username" class="user-login__field" placeholder="Your e-mail address" type="email" value=""></div>
 	<div class=" inputElement">	
 				<input id="j_password" name="j_password" class="user-login__field" placeholder="Your password" type="password" value=""></div>
 		<div class="btn_login">
-			<button type="submit" class="cta-arrow-right">Login</button>
+			<button type="submit" id="header-login" class="cta-arrow-right">Login</button>
 			<span class="ui-btn__arrow"> </span>
 		</div>
 	</form><a href="/login/pw/request" class="user-login__link">Forgot your password?</a>
@@ -193,7 +193,7 @@
 				</ul>
 	</div>
 	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 action">
-		<button type="button" class="navbar-toggle toggleBtn" data-toggle="collapse" data-target=".navbar-collapse">
+		<button type="button" id="roelBurger" class="navbar-toggle toggleBtn" data-toggle="collapse" data-target=".navbar-collapse">
 			<span class="icon-bar"></span>
 			<span class="icon-bar"></span>
 			<span class="icon-bar"></span>
@@ -229,7 +229,7 @@
 			<div id="headerMid" class="headerMidNoTeaser">
 				<form name="search_form" method="get" action="/page" class="hidden-xs navbar-form" role="search">
 		        	<div class="input-group">
-				            <input id="desktop-search" type="text" class="form-control search-control" placeholder="I'm looking for" autocomplete="off" name="text">
+				            <input id="desktop-search" type="search" class="form-control search-control" placeholder="I'm looking for" autocomplete="off" name="text">
 				            <div class="input-group-btn">
 				                <button class="btn btn-default" type="submit"><i class="fa fa-search"></i></button>
 				            </div>
@@ -265,14 +265,8 @@ function refreshMiniCart(totalAmountValue) {
         url: '/cart/miniCart/count',
         success: function(result) {
             miniCartEl.find('span.amount').text(result);
-        }
-    });
-
-    var miniCartMob = $(".cartPopupMob .fa .badge");
-    var miniCartMobContent = $(".cartPopupMob .fa .badge .badgeContent");
-    $.ajax({cache: false,
-        url: '/cart/miniCart/count',
-        success: function(result) {
+            var miniCartMob = $(".cartPopupMob .fa .badge");
+            var miniCartMobContent = $(".cartPopupMob .fa .badge .badgeContent");
             if (result > 0) {
             	miniCartMob.show();
 			}
@@ -350,26 +344,15 @@ $(document).ready(function() {
 			}
 		}, 100);
 	});
-
-	var miniCartMob = $(".cartPopupMob .fa .badge");
-	var miniCartMobContent = $(".cartPopupMob .fa .badge .badgeContent");
-    $.ajax({cache: false,
-        url: '/cart/miniCart/count',
-        success: function(result) {
-            if (result < 1) {
-            	miniCartMob.hide();
-			} else {
-				miniCartMob.show();
-			}
-
-            if (result > 9) {
-				miniCartMob.addClass("moreThanTen");
-			}
-
-            miniCartMobContent.text(result);
-        }
-    });
 	
+	var mobcount = $(".cartPopupMob .fa .badge .badgeContent").text();
+	if (mobcount != '0') {
+		var miniCartMob = $(".cartPopupMob .fa .badge");
+		miniCartMob.show();
+		if (mobcount > 9) {
+			miniCartMob.addClass("moreThanTen");
+		}
+	}
 });
 /*]]>*/
 </script>
@@ -384,8 +367,7 @@ $(document).ready(function() {
 	<a class="cartPopupMob" href="/cart">
 		<span class="fa fa-shopping-cart">
 			<span class="badge" style="display: none;">
-				<div class="badgeContent">
-					0</div>
+				<span class="badgeContent">0</span>
 			</span>
 		</span>
 	</a>
@@ -435,6 +417,9 @@ $(document).ready(function() {
                                         </h3>
 								<ul>
 									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="New arrivals" href="/lingerie/lingerie-for-her/new-arrivals">New arrivals</a>
+                                        </li>
+									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Bras &amp; bra sets" href="/lingerie/bras-bra-sets">Bras &amp; bra sets</a>
                                         </li>
 									<li class="Lc right_col">
@@ -459,13 +444,13 @@ $(document).ready(function() {
 				                            <a class="flyoutsubcategorylink" title="Bodystockings" href="/lingerie/bodystockings">Bodystockings</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Lingerie bargains" href="/lingerie/lingerie-bargains">Lingerie bargains</a>
+				                            <a class="flyoutsubcategorylink" title="Lingerie sets" href="/lingerie/lingerie-sets">Lingerie sets</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Sleepwear" href="/lingerie/sleepwear">Sleepwear</a>
+				                            <a class="flyoutsubcategorylink" title="Nightwear" href="/lingerie/nightwear">Nightwear</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Babydolls &amp; chemises" href="/lingerie/babydolls-chemises">Babydolls &amp; chemises</a>
+				                            <a class="flyoutsubcategorylink" title="Babydolls" href="/lingerie/babydolls">Babydolls</a>
                                         </li>
 									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Costumes" href="/lingerie/costumes">Costumes</a>
@@ -477,42 +462,93 @@ $(document).ready(function() {
 				                            <a class="flyoutsubcategorylink" title="Bridal lingerie" href="/lingerie/bridal-lingerie">Bridal lingerie</a>
                                         </li>
 									</ul>
+							<!-- <h3 class="dropdown-header "> -->
+								<h3 class="dropdown-header ">
+									<a class="flyoutsectionlink" title="Tips &amp; Advice" href="/lingerie/advice"> Tips &amp; Advice</a>
+                                        </h3>
+								<ul>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Measure your bra size" href="/lingerie/advice/measure-bra-size">Measure your bra size</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Bra solutions" href="/lingerie/advice/bra-solutions">Bra solutions</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Which bra type suits me" href="/lingerie/advice/which-bra-type-suits-me">Which bra type suits me</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="How does the Bye Bra work" href="/lingerie/advice/bye-bra">How does the Bye Bra work</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Tips for a sexy cleavage" href="/lingerie/advice/sexy-cleavage">Tips for a sexy cleavage</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Get your perfect tights" href="/lingerie/advice/perfect-tights">Get your perfect tights</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="The 5 bras you should have" href="/lingerie/advice/5-bras-should-have">The 5 bras you should have</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Which nightwear suits me best" href="/lingerie/tips-advice/which-nightwear-suits-me-best">Which nightwear suits me best</a>
+                                        </li>
+									</ul>
 							</div>
 					<div class="col-sm-3 col-md-3 col-lg-3 segment">
 							<!-- <h3 class="dropdown-header "> -->
 								<h3 class="dropdown-header ">
-									<a class="flyoutsectionlink" title="Underwear for him" href="/underwear-for-him"> Underwear for him</a>
+									<a class="flyoutsectionlink" title="Men's underwear" href="/mens-underwear"> Men's underwear</a>
                                         </h3>
 								<ul>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Underpants &amp; thongs" href="/underwear-for-him/underpants-thongs">Underpants &amp; thongs</a>
+				                            <a class="flyoutsubcategorylink" title="Men's briefs &amp; thongs" href="/mens-underwear/underpants-thongs">Men's briefs &amp; thongs</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Shorts &amp; boxers" href="/underwear-for-him/shorts-boxers">Shorts &amp; boxers</a>
+				                            <a class="flyoutsubcategorylink" title="Boxers" href="/mens-underwear/boxers">Boxers</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Underwear multipacks" href="/underwear-for-him/underwear-multipacks">Underwear multipacks</a>
+				                            <a class="flyoutsubcategorylink" title="Underwear multipacks" href="/mens-underwear/underwear-multipacks">Underwear multipacks</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Fun underwear" href="/lingerie/underwear-for-him/fun-underwear">Fun underwear</a>
+				                            <a class="flyoutsubcategorylink" title="Fun underwear" href="/mens-underwear/fun-underwear">Fun underwear</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="T-shirts" href="/lingerie/underwear-for-him/t-shirts">T-shirts</a>
+				                            <a class="flyoutsubcategorylink" title="T-shirts" href="/mens-underwear/t-shirts">T-shirts</a>
                                         </li>
 									</ul>
 							<!-- <h3 class="dropdown-header "> -->
 								<h3 class="dropdown-header ">
-									<a class="flyoutsectionlink" title="Erotic lingerie" href="/lingerie/erotic-lingerie"> Erotic lingerie</a>
+									<a class="flyoutsectionlink" title="Stunning lingerie" href="/lingerie/stunning-lingerie"> Stunning lingerie</a>
                                         </h3>
 								<ul>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="PVC &amp; latex" href="/lingerie/erotic-lingerie/pvc-latex">PVC &amp; latex</a>
+				                            <a class="flyoutsubcategorylink" title="PVC &amp; latex lingerie" href="/lingerie/stunning-lingerie/pvc-latex-lingerie">PVC &amp; latex lingerie</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Wetlook &amp; faux leather" href="/lingerie/erotic-lingerie/wetlook-faux-leather">Wetlook &amp; faux leather</a>
+				                            <a class="flyoutsubcategorylink" title="Wetlook &amp; faux leather lingerie" href="/lingerie/stunning-lingerie/wetlook-faux-leather-lingerie">Wetlook &amp; faux leather lingerie</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Kinky" href="/lingerie/erotic-lingerie/kinky">Kinky</a>
+				                            <a class="flyoutsubcategorylink" title="Erotic lingerie" href="/lingerie/stunning-lingerie/erotic-lingerie">Erotic lingerie</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Thrilling  lingerie" href="/lingerie/stunning-lingerie/thrilling-lingerie">Thrilling  lingerie</a>
+                                        </li>
+									</ul>
+							<!-- <h3 class="dropdown-header "> -->
+								<h3 class="dropdown-header ">
+									<a class="flyoutsectionlink" title="Trend Boutique" href="/lingerie/trend-boutique"> Trend Boutique</a>
+                                        </h3>
+								<ul>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Loungylicious" href="/lingerie/trend-boutique/loungylicious">Loungylicious</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Wicked Bodies" href="/lingerie/trend-boutique/wicked-bodies">Wicked Bodies</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Lovely Bralettes" href="/lingerie/trend-boutique/lovely-bralettes">Lovely Bralettes</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Bootylicious styles" href="/lingerie/trend-boutique/bootylicious-styles">Bootylicious styles</a>
                                         </li>
 									</ul>
 							</div>
@@ -524,10 +560,16 @@ $(document).ready(function() {
                                         </h3>
 								<ul>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="New arrivals" href="/lingerie/new-arrivals">New arrivals</a>
+				                            <a class="flyoutsubcategorylink" title="Best sellers" href="/lingerie/best-sellers">Best sellers</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Best sellers" href="/lingerie/best-sellers">Best sellers</a>
+				                            <a class="flyoutsubcategorylink" title="Bra Sets for 11.95" href="/lingerie/bra-sets-for-11-95">Bra Sets for 11.95</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="3 briefs for 11.95" href="/lingerie/3-briefs-for-11-95">3 briefs for 11.95</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="2 Bras for 19.95" href="/lingerie/2-bras-for-19-95">2 Bras for 19.95</a>
                                         </li>
 									</ul>
 							<!-- <h3 class="dropdown-header hidden-xs"> -->
@@ -579,9 +621,6 @@ $(document).ready(function() {
 				                            <a class="flyoutsubcategorylink" title="Kiss Me" href="/lingerie/kiss-me">Kiss Me</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Allure" href="/lingerie/allure">Allure</a>
-                                        </li>
-									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Avanza" href="/lingerie/avanza">Avanza</a>
                                         </li>
 									<li class="Lc right_col">
@@ -591,19 +630,19 @@ $(document).ready(function() {
 				                            <a class="flyoutsubcategorylink" title="Doréanse" href="/lingerie/doreanse">Doréanse</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Goldenbay" href="/lingerie/goldenbay">Goldenbay</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Passion" href="/lingerie/passion">Passion</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Fifty Shades Of Grey" href="/lingerie/fifty-shades-of-grey">Fifty Shades Of Grey</a>
+				                            <a class="flyoutsubcategorylink" title="Fifty Shades of Grey" href="/lingerie/fifty-shades-of-grey">Fifty Shades of Grey</a>
                                         </li>
 									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Julimex" href="/lingerie/julimex">Julimex</a>
                                         </li>
 									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Von Follies By Dita Von Teese" href="/lingerie/von-follies-by-dita-von-teese">Von Follies By Dita Von Teese</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Leg Avenue" href="/lingerie/leg-avenue">Leg Avenue</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Allure Kitten" href="/lingerie/allure-kitten">Allure Kitten</a>
                                         </li>
 									</ul>
 							</div>
@@ -619,6 +658,9 @@ $(document).ready(function() {
                                         </h3>
 								<ul>
 									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="New arrivals" href="/fashion/women-s-clothing/new-arrivals">New arrivals</a>
+                                        </li>
+									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Dresses" href="/fashion/dresses">Dresses</a>
                                         </li>
 									<li class="Lc right_col">
@@ -631,7 +673,7 @@ $(document).ready(function() {
 				                            <a class="flyoutsubcategorylink" title="Tops &amp; Tunics" href="/fashion/tops-tunics">Tops &amp; Tunics</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Bodies &amp; bustiers" href="/fashion/women-s-clothing/bodies-bustiers">Bodies &amp; bustiers</a>
+				                            <a class="flyoutsubcategorylink" title="Bodies &amp; bustiers" href="/fashion/bodies-bustiers">Bodies &amp; bustiers</a>
                                         </li>
 									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Jumpers &amp; cardigans" href="/fashion/jumpers-cardigans">Jumpers &amp; cardigans</a>
@@ -643,7 +685,7 @@ $(document).ready(function() {
 				                            <a class="flyoutsubcategorylink" title="Trousers &amp; leggings" href="/fashion/trousers-leggings">Trousers &amp; leggings</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Shorts" href="/fashion/shorts">Shorts</a>
+				                            <a class="flyoutsubcategorylink" title="Hot pants" href="/fashion/hot-pants">Hot pants</a>
                                         </li>
 									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Jeans" href="/fashion/jeans">Jeans</a>
@@ -652,10 +694,13 @@ $(document).ready(function() {
 				                            <a class="flyoutsubcategorylink" title="Swimwear" href="/fashion/swimwear">Swimwear</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Accessoires" href="/fashion/women-s-clothing/accessoires">Accessoires</a>
+				                            <a class="flyoutsubcategorylink" title="Fashion accessoires" href="/fashion/accessoires">Fashion accessoires</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Shoes" href="/fashion/women-s-clothing/shoes">Shoes</a>
+				                            <a class="flyoutsubcategorylink" title="Women's shoes" href="/fashion/womens-shoes">Women's shoes</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Find your perfect Date Dress" href="/fashion/women-s-clothing/find-your-perfect-date-dress">Find your perfect Date Dress</a>
                                         </li>
 									</ul>
 							</div>
@@ -666,13 +711,31 @@ $(document).ready(function() {
                                         </h3>
 								<ul>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Faux Leatherlook &amp; Wetlook " href="/fashion/extreme-fetish-clothing/faux-leatherlook-wetlook-">Faux Leatherlook &amp; Wetlook </a>
+				                            <a class="flyoutsubcategorylink" title="Faux leather &amp; wetlook clothing" href="/fashion/extreme-fetish-clothing/faux-leatherlook-wetlook">Faux leather &amp; wetlook clothing</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="PVC &amp; Latex " href="/fashion/extreme-fetish-clothing/pvc-latex-">PVC &amp; Latex </a>
+				                            <a class="flyoutsubcategorylink" title="PVC &amp; latex clothing" href="/fashion/extreme-fetish-clothing/pvc-latex">PVC &amp; latex clothing</a>
                                         </li>
 									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Funky shoes" href="/fashion/extreme-fetish-clothing/funky-shoes">Funky shoes</a>
+                                        </li>
+									</ul>
+							<!-- <h3 class="dropdown-header "> -->
+								<h3 class="dropdown-header ">
+									<a class="flyoutsectionlink" title="Shop the look" href="/fashion/shop-the-look"> Shop the look</a>
+                                        </h3>
+								<ul>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Little black dress" href="/fashion/shop-the-look/little-black-dress">Little black dress</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Flatter your figure" href="/fashion/shop-the-look/flatter-your-figure">Flatter your figure</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="An irresistible cleavage" href="/fashion/shop-the-look/an-irresistible-cleavage">An irresistible cleavage</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Everyday Chic" href="/fashion/shop-the-look/everyday-chic">Everyday Chic</a>
                                         </li>
 									</ul>
 							</div>
@@ -683,9 +746,6 @@ $(document).ready(function() {
                                             <a title="Recommended" href="#"> Recommended</a>
                                         </h3>
 								<ul>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="New arrivals" href="/fashion/new-arrivals">New arrivals</a>
-                                        </li>
 									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Best sellers" href="/fashion/best-sellers">Best sellers</a>
                                         </li>
@@ -706,13 +766,16 @@ $(document).ready(function() {
 				                            <a class="flyoutsubcategorylink" title="Wetlook clothing" href="/fashion/wetlook-clothing">Wetlook clothing</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Plus size" href="/fashion/plus-size">Plus size</a>
+				                            <a class="flyoutsubcategorylink" title="Plus size fashion" href="/fashion/plus-size-fashion">Plus size fashion</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Clubwear" href="/fashion/clubwear">Clubwear</a>
+				                            <a class="flyoutsubcategorylink" title="Party outfits" href="/fashion/party-outfits">Party outfits</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Costumes" href="/fashion/costumes">Costumes</a>
+				                            <a class="flyoutsubcategorylink" title="Party Dresses up to 24.00" href="/fashion/party-dresses-up-to-24-00">Party Dresses up to 24.00</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Role play costumes" href="/fashion/role-play-costumes">Role play costumes</a>
                                         </li>
 									</ul>
 							</div>
@@ -748,17 +811,20 @@ $(document).ready(function() {
 					<div class="col-sm-3 col-md-3 col-lg-3 segment">
 							<!-- <h3 class="dropdown-header "> -->
 								<h3 class="dropdown-header ">
-									<a class="flyoutsectionlink" title="For her" href="/sex-toys/for-her"> For her</a>
+									<a class="flyoutsectionlink" title="Sex toys for women" href="/sex-toys/for-women"> Sex toys for women</a>
                                         </h3>
 								<ul>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="New arrivals" href="/sex-toys/sex-toys-for-women/new-arrivals">New arrivals</a>
+                                        </li>
 									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Vibrators" href="/sex-toys/vibrators">Vibrators</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Vibrating eggs" href="/sex-toys/vibrating-eggs">Vibrating eggs</a>
+				                            <a class="flyoutsubcategorylink" title="Love eggs" href="/sex-toys/love-eggs">Love eggs</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Love balls" href="/sex-toys/love-balls">Love balls</a>
+				                            <a class="flyoutsubcategorylink" title="Ben wa balls" href="/sex-toys/ben-wa-balls">Ben wa balls</a>
                                         </li>
 									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Stimulators" href="/sex-toys/stimulators">Stimulators</a>
@@ -772,7 +838,7 @@ $(document).ready(function() {
 									</ul>
 							<!-- <h3 class="dropdown-header "> -->
 								<h3 class="dropdown-header ">
-									<a class="flyoutsectionlink" title="For couples" href="/sex-toys/couples-toys"> For couples</a>
+									<a class="flyoutsectionlink" title="Sex toys for couples" href="/sex-toys/couples-toys"> Sex toys for couples</a>
                                         </h3>
 								<ul>
 									<li class="Lc right_col">
@@ -787,14 +853,71 @@ $(document).ready(function() {
 									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Strap ons" href="/sex-toys/strap-ons">Strap ons</a>
                                         </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Cock rings" href="/sex-toys/sex-toys-for-couples/cock-rings">Cock rings</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Sex toys with a remote control" href="/sex-toys/sex-toys-with-remote-control">Sex toys with a remote control</a>
+                                        </li>
+									</ul>
+							<!-- <h3 class="dropdown-header "> -->
+								<h3 class="dropdown-header ">
+									<a class="flyoutsectionlink" title="Tips &amp; Advice" href="/sex-toys/advice"> Tips &amp; Advice</a>
+                                        </h3>
+								<ul>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Choose the perfect vibrator" href="/sex-toys/advice/choose-vibrator">Choose the perfect vibrator</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="How to use a sex toy" href="/sex-toys/advice/how-to-use-sex-toys">How to use a sex toy</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Which couples toy suits us best" href="/sex-toys/advice/which-couples-toy-suits-us">Which couples toy suits us best</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="How to use ben wa balls" href="/sex-toys/advice/how-to-use-ben-wa-balls">How to use ben wa balls</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Which dildo suits me best" href="/sex-toys/advice/which-dildo-suits-me-best">Which dildo suits me best</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="How to use a cock ring" href="/sex-toys/advice/how-to-use-a-cock-ring">How to use a cock ring</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="10 Naughty Bedroom Tips" href="/sex-toys/tips-advice/10-naughty-bedroom-tips">10 Naughty Bedroom Tips</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="How to use a butt plug" href="/sex-toys/advice/how-to-use-a-butt-plug">How to use a butt plug</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="50 Shades of Grey" href="/sex-toys/tips-advice/50-shades-of-grey">50 Shades of Grey</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Bondage tips &amp; advice" href="/sex-toys/advice/bdsm">Bondage tips &amp; advice</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="(First time) Anal sex tips" href="/sex-toys/advice/-first-time-anal-sex-tips">(First time) Anal sex tips</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Which masturbator suits me best" href="/sex-toys/advice/which-masturbator-suits-me">Which masturbator suits me best</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="How does a prostate massage work" href="/sex-toys/advice/how-does-a-prostate-massage-work">How does a prostate massage work</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Penis enlarging or lengthening" href="/sex-toys/advice/penis-enlarging-or-lengthening">Penis enlarging or lengthening</a>
+                                        </li>
 									</ul>
 							</div>
 					<div class="col-sm-3 col-md-3 col-lg-3 segment">
 							<!-- <h3 class="dropdown-header "> -->
 								<h3 class="dropdown-header ">
-									<a class="flyoutsectionlink" title="For him" href="/sex-toys/for-him"> For him</a>
+									<a class="flyoutsectionlink" title="Sex toys for men" href="/sex-toys/for-men"> Sex toys for men</a>
                                         </h3>
 								<ul>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="New arrivals" href="/sex-toys/sex-toys-for-men/new-arrivals">New arrivals</a>
+                                        </li>
 									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Cock rings" href="/sex-toys/cock-rings">Cock rings</a>
                                         </li>
@@ -805,7 +928,7 @@ $(document).ready(function() {
 				                            <a class="flyoutsubcategorylink" title="Penis plugs" href="/sex-toys/penis-plugs">Penis plugs</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Penis enlargers" href="/sex-toys/penis-enlargers">Penis enlargers</a>
+				                            <a class="flyoutsubcategorylink" title="Penis extenders" href="/sex-toys/penis-extenders">Penis extenders</a>
                                         </li>
 									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Male masturbators" href="/sex-toys/male-masturbators">Male masturbators</a>
@@ -826,10 +949,10 @@ $(document).ready(function() {
                                         </h3>
 								<ul>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Bondage sets" href="/bondage-gear/bondage-sets">Bondage sets</a>
+				                            <a class="flyoutsubcategorylink" title="Bondage kits" href="/bondage-gear/bondage-kits">Bondage kits</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Handcuffs &amp; restraints" href="/bondage-gear/handcuffs-restraints">Handcuffs &amp; restraints</a>
+				                            <a class="flyoutsubcategorylink" title="Bondage restraints" href="/bondage-gear/handcuffs-restraints">Bondage restraints</a>
                                         </li>
 									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Collars, masks &amp; gags" href="/bondage-gear/collars-masks-gags">Collars, masks &amp; gags</a>
@@ -838,16 +961,19 @@ $(document).ready(function() {
 				                            <a class="flyoutsubcategorylink" title="Nipple clamps" href="/bondage-gear/nipple-clamps">Nipple clamps</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Whips &amp; paddles" href="/bondage-gear/whips-paddles">Whips &amp; paddles</a>
+				                            <a class="flyoutsubcategorylink" title="Bondage whips &amp; paddles" href="/bondage-gear/whips-paddles">Bondage whips &amp; paddles</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Electro stimulation" href="/bondage-gear/electro-stimulation">Electro stimulation</a>
+				                            <a class="flyoutsubcategorylink" title="Electro sex" href="/bondage-gear/electro-stimulation">Electro sex</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Sexual positioning" href="/bondage-gear/sexual-positioning">Sexual positioning</a>
+				                            <a class="flyoutsubcategorylink" title="Sex furniture" href="/bondage-gear/sex-furniture">Sex furniture</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Sex Toys" href="/sex-toys/bondage-gear/sex-toys">Sex Toys</a>
+				                            <a class="flyoutsubcategorylink" title="50 Shades of Grey" href="/sex-toys/bondage-gear/50-shades-of-grey">50 Shades of Grey</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Bondage toys" href="/bondage-gear/bondage-toys">Bondage toys</a>
                                         </li>
 									</ul>
 							</div>
@@ -875,7 +1001,7 @@ $(document).ready(function() {
 				                            <a class="flyoutsubcategorylink" title="Adult books" href="/sex-toys/adult-books">Adult books</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Toy care" href="/sex-toys/toy-care">Toy care</a>
+				                            <a class="flyoutsubcategorylink" title="Sex toy cleaner" href="/sex-toys/sex-toy-cleaner">Sex toy cleaner</a>
                                         </li>
 									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Gift sets" href="/sex-toys/gift-sets">Gift sets</a>
@@ -896,13 +1022,19 @@ $(document).ready(function() {
                                         </h3>
 								<ul>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Toy Joy" href="/sex-toys/toy-joy">Toy Joy</a>
-                                        </li>
-									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="We-Vibe" href="/sex-toys/we-vibe">We-Vibe</a>
                                         </li>
 									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="G-Vibe" href="/sex-toys/g-vibe">G-Vibe</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="LUZ" href="/sex-toys/luz">LUZ</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Fifty Shades of Grey" href="/sex-toys/fifty-shades-of-grey">Fifty Shades of Grey</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Toy Joy" href="/sex-toys/toy-joy">Toy Joy</a>
                                         </li>
 									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Mae B" href="/sex-toys/mae-b">Mae B</a>
@@ -914,7 +1046,7 @@ $(document).ready(function() {
 				                            <a class="flyoutsubcategorylink" title="taboom" href="/sex-toys/taboom">taboom</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Fifty Shades Of Grey" href="/sex-toys/fifty-shades-of-grey">Fifty Shades Of Grey</a>
+				                            <a class="flyoutsubcategorylink" title="Fun Factory" href="/sex-toys/fun-factory">Fun Factory</a>
                                         </li>
 									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Swan" href="/sex-toys/swan">Swan</a>
@@ -923,22 +1055,25 @@ $(document).ready(function() {
 				                            <a class="flyoutsubcategorylink" title="Vibe Therapy" href="/sex-toys/vibe-therapy">Vibe Therapy</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="LUZ" href="/sex-toys/luz">LUZ</a>
+				                            <a class="flyoutsubcategorylink" title="Pipedream" href="/sex-toys/pipedream">Pipedream</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="210th" href="/sex-toys/210th">210th</a>
+				                            <a class="flyoutsubcategorylink" title="Fetish Fantasy Series" href="/sex-toys/fetish-fantasy-series">Fetish Fantasy Series</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="American Bombshell" href="/sex-toys/american-bombshell">American Bombshell</a>
+				                            <a class="flyoutsubcategorylink" title="Lovers Dream" href="/sex-toys/lovers-dream">Lovers Dream</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Amor" href="/sex-toys/amor">Amor</a>
+				                            <a class="flyoutsubcategorylink" title="Fleshlight" href="/sex-toys/fleshlight">Fleshlight</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Anal Fantasy" href="/sex-toys/anal-fantasy">Anal Fantasy</a>
+				                            <a class="flyoutsubcategorylink" title="Womanizer" href="/sex-toys/womanizer">Womanizer</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Avanza" href="/sex-toys/avanza">Avanza</a>
+				                            <a class="flyoutsubcategorylink" title="Lelo" href="/sex-toys/lelo">Lelo</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Svakom" href="/sex-toys/svakom">Svakom</a>
                                         </li>
 									</ul>
 							</div>
@@ -994,6 +1129,27 @@ $(document).ready(function() {
                                         </li>
 									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Flavoured condoms" href="/condoms/flavoured-condoms">Flavoured condoms</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Choose the right condom" href="/sex-essentials/advice/choose-condom">Choose the right condom</a>
+                                        </li>
+									</ul>
+							<!-- <h3 class="dropdown-header "> -->
+								<h3 class="dropdown-header ">
+									<a class="flyoutsectionlink" title="For couples" href="/sex-essentials/for-couples"> For couples</a>
+                                        </h3>
+								<ul>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Massage" href="/sex-essentials/for-couples/massage">Massage</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Kamasutra" href="/sex-essentials/for-couples/kamasutra">Kamasutra</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Anal sex" href="/sex-essentials/for-couples/anal-sex">Anal sex</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Spanish Fly" href="/sex-essentials/for-couples/spanish-fly">Spanish Fly</a>
                                         </li>
 									</ul>
 							</div>
@@ -1055,13 +1211,13 @@ $(document).ready(function() {
 				                            <a class="flyoutsubcategorylink" title="Lubricant for women" href="/lubricants/lubricant-for-women">Lubricant for women</a>
                                         </li>
 									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="2 in 1 lubricant" href="/lubricants/2-in-1-lubricant">2 in 1 lubricant</a>
+                                        </li>
+									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Lubricant for men" href="/lubricants/lubricant-for-men">Lubricant for men</a>
                                         </li>
 									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Stimulating lubricant" href="/lubricants/stimulating-lubricant">Stimulating lubricant</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="2 in 1 lubricant" href="/lubricants/2-in-1-lubricant">2 in 1 lubricant</a>
                                         </li>
 									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Cooling lubricant" href="/lubricants/cooling-lubricant">Cooling lubricant</a>
@@ -1095,10 +1251,13 @@ $(document).ready(function() {
 				                            <a class="flyoutsubcategorylink" title="Anal play" href="/sex-essentials/anal-play">Anal play</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Toy care" href="/sex-essentials/toy-care">Toy care</a>
+				                            <a class="flyoutsubcategorylink" title="Sex toy cleaner" href="/sex-essentials/sex-toy-cleaner">Sex toy cleaner</a>
                                         </li>
 									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Hard stuff" href="/sex-essentials/hard-stuff">Hard stuff</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Gift sets" href="/sex-essentials/gift-sets">Gift sets</a>
                                         </li>
 									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Body painting" href="/sex-essentials/body-painting">Body painting</a>
@@ -1116,40 +1275,19 @@ $(document).ready(function() {
                                         </h3>
 								<ul>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="taboom" href="/sex-essentials/taboom">taboom</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Stimul8" href="/sex-essentials/stimul8">Stimul8</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Hot" href="/sex-essentials/hot">Hot</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Shunga" href="/sex-essentials/shunga">Shunga</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Durex" href="/sex-essentials/durex">Durex</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Pjur" href="/sex-essentials/pjur">Pjur</a>
+				                            <a class="flyoutsubcategorylink" title="Pabo" href="/sex-essentials/pabo">Pabo</a>
                                         </li>
 									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="JO" href="/sex-essentials/jo">JO</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Pabo" href="/sex-essentials/pabo">Pabo</a>
+				                            <a class="flyoutsubcategorylink" title="Durex" href="/sex-essentials/durex">Durex</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Beppy" href="/sex-essentials/beppy">Beppy</a>
+				                            <a class="flyoutsubcategorylink" title="Shunga" href="/sex-essentials/shunga">Shunga</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="210th" href="/sex-essentials/210th">210th</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Amor" href="/sex-essentials/amor">Amor</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Anal Fantasy" href="/sex-essentials/anal-fantasy">Anal Fantasy</a>
+				                            <a class="flyoutsubcategorylink" title="Pjur" href="/sex-essentials/pjur">Pjur</a>
                                         </li>
 									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Aquaglide" href="/sex-essentials/aquaglide">Aquaglide</a>
@@ -1158,7 +1296,25 @@ $(document).ready(function() {
 				                            <a class="flyoutsubcategorylink" title="Billy Boy" href="/sex-essentials/billy-boy">Billy Boy</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="CEN" href="/sex-essentials/cen">CEN</a>
+				                            <a class="flyoutsubcategorylink" title="Beppy" href="/sex-essentials/beppy">Beppy</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Eros" href="/sex-essentials/eros">Eros</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Hot" href="/sex-essentials/hot">Hot</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Stimul8" href="/sex-essentials/stimul8">Stimul8</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="taboom" href="/sex-essentials/taboom">taboom</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="YesforLov" href="/sex-essentials/yesforlov">YesforLov</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="210th" href="/sex-essentials/210th">210th</a>
                                         </li>
 									</ul>
 							</div>
@@ -1187,9 +1343,6 @@ $(document).ready(function() {
                                         </li>
 									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Hair removal" href="/health-beauty/bodycare/hair-removal">Hair removal</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Hair care" href="/health-beauty/bodycare/hair-care">Hair care</a>
                                         </li>
 									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Facial care" href="/health-beauty/for-her/facial-care">Facial care</a>
@@ -1235,15 +1388,6 @@ $(document).ready(function() {
 									</ul>
 							<!-- <h3 class="dropdown-header "> -->
 								<h3 class="dropdown-header ">
-									<a class="flyoutsectionlink" title="Fitness" href="/health-beauty/fitness"> Fitness</a>
-                                        </h3>
-								<ul>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Fitness equipment" href="/health-beauty/fitness/fitness-equipment">Fitness equipment</a>
-                                        </li>
-									</ul>
-							<!-- <h3 class="dropdown-header "> -->
-								<h3 class="dropdown-header ">
 									<a class="flyoutsectionlink" title="Diet &amp; weight loss" href="/health-beauty/diet-weight-loss"> Diet &amp; weight loss</a>
                                         </h3>
 								<ul>
@@ -1258,6 +1402,15 @@ $(document).ready(function() {
                                         </li>
 									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Energy boosters" href="/health-beauty/diet-weight-loss/energy-boosters">Energy boosters</a>
+                                        </li>
+									</ul>
+							<!-- <h3 class="dropdown-header "> -->
+								<h3 class="dropdown-header ">
+									<a class="flyoutsectionlink" title="Fitness" href="/health-beauty/fitness"> Fitness</a>
+                                        </h3>
+								<ul>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Fitness equipment" href="/health-beauty/fitness/fitness-equipment">Fitness equipment</a>
                                         </li>
 									</ul>
 							</div>
@@ -1321,9 +1474,6 @@ $(document).ready(function() {
 				                            <a class="flyoutsubcategorylink" title="Bruno Banani" href="/health-beauty/bruno-banani">Bruno Banani</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Victoria's Secret" href="/health-beauty/victoria-s-secret">Victoria's Secret</a>
-                                        </li>
-									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Veet" href="/health-beauty/veet">Veet</a>
                                         </li>
 									<li class="Lc right_col">
@@ -1333,13 +1483,16 @@ $(document).ready(function() {
 				                            <a class="flyoutsubcategorylink" title="Dolce &amp; Gabbana" href="/health-beauty/dolce-gabbana">Dolce &amp; Gabbana</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Gucci" href="/health-beauty/gucci">Gucci</a>
+				                            <a class="flyoutsubcategorylink" title="Casuelle" href="/health-beauty/casuelle">Casuelle</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Jil Sander" href="/health-beauty/jil-sander">Jil Sander</a>
+				                            <a class="flyoutsubcategorylink" title="Medisana" href="/health-beauty/medisana">Medisana</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Silk'n" href="/health-beauty/silk-n">Silk'n</a>
+				                            <a class="flyoutsubcategorylink" title="Playboy" href="/health-beauty/playboy">Playboy</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="210th" href="/health-beauty/210th">210th</a>
                                         </li>
 									</ul>
 							</div>
@@ -1382,10 +1535,10 @@ $(document).ready(function() {
 				                            <a class="flyoutsubcategorylink" title="Adult gadgets" href="/gadgets/adult-gadgets-">Adult gadgets</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Lifestyle gadgets" href="/gadgets/lifestyle-gadgets">Lifestyle gadgets</a>
+				                            <a class="flyoutsubcategorylink" title="Games" href="/gadgets/games">Games</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Stag party" href="/gadgets/spy-shop">Stag party</a>
+				                            <a class="flyoutsubcategorylink" title="Stag party" href="/gadgets/stag-party">Stag party</a>
                                         </li>
 									</ul>
 							</div>
@@ -1415,9 +1568,6 @@ $(document).ready(function() {
 								<ul>
 									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Home trends" href="/home-living/home-trends">Home trends</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Latest gadgets" href="/home-living/latest-gadgets">Latest gadgets</a>
                                         </li>
 									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Best sellers" href="/home-living/best-sellers">Best sellers</a>
@@ -1451,194 +1601,33 @@ $(document).ready(function() {
                                         </h3>
 								<ul>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Bijoux Indiscrets" href="/home-living/bijoux-indiscrets">Bijoux Indiscrets</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="CEN" href="/home-living/cen">CEN</a>
-                                        </li>
-									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Day Dream" href="/home-living/day-dream">Day Dream</a>
                                         </li>
 									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Dreamhouse Bedding" href="/home-living/dreamhouse-bedding">Dreamhouse Bedding</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Hip" href="/home-living/hip">Hip</a>
-                                        </li>
-									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Jorzolino" href="/home-living/jorzolino">Jorzolino</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Kheper Games" href="/home-living/kheper-games">Kheper Games</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Medisana" href="/home-living/medisana">Medisana</a>
                                         </li>
 									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Papillon" href="/home-living/papillon">Papillon</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Pipedream" href="/home-living/pipedream">Pipedream</a>
+				                            <a class="flyoutsubcategorylink" title="Primaviera Deluxe" href="/home-living/primaviera-deluxe">Primaviera Deluxe</a>
                                         </li>
 									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Sleeptime" href="/home-living/sleeptime">Sleeptime</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Spencer&amp;Fleetwood" href="/home-living/spencer-fleetwood">Spencer&amp;Fleetwood</a>
-                                        </li>
-									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="DONA" href="/home-living/dona">DONA</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="JO" href="/home-living/jo">JO</a>
+				                            <a class="flyoutsubcategorylink" title="Good Morning" href="/home-living/good-morning">Good Morning</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Roxana" href="/home-living/roxana">Roxana</a>
+				                            <a class="flyoutsubcategorylink" title="Nightlife" href="/home-living/nightlife">Nightlife</a>
                                         </li>
 									</ul>
-							</div>
-					</div>
-				</li>
-		<li class="dropdown">
-                <a class="navigationbarlink" href="/christmas" title="Christmas">Christmas<span class="visible-xs navigationBarArrow"><div class="nicePulldown2"></div></span></a>
-                <div class="flyoutNavigation dropdown-menu hidden-xs" role="menu">
-					<div class="col-sm-3 col-md-3 col-lg-3 segment">
-							<!-- <h3 class="dropdown-header "> -->
-								<h3 class="dropdown-header ">
-									<a class="flyoutsectionlink" title="Christmas Lingerie" href="/christmas/christmas-lingerie"> Christmas Lingerie</a>
-                                        </h3>
-								<ul>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Erotic lingerie" href="/christmas/christmas-lingerie/erotic-lingerie">Erotic lingerie</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Luxurious lingerie" href="/christmas/christmas-lingerie/luxurious-lingerie">Luxurious lingerie</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Red lingerie" href="/christmas/christmas-lingerie/red-lingerie">Red lingerie</a>
-                                        </li>
-									</ul>
-							<!-- <h3 class="dropdown-header "> -->
-								<h3 class="dropdown-header ">
-									<a class="flyoutsectionlink" title="Dresses" href="/christmas/dresses"> Dresses</a>
-                                        </h3>
-								<ul>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Little black dress" href="/christmas/dresses/little-black-dress">Little black dress</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Lace dresses" href="/christmas/dresses/lace-dresses">Lace dresses</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Red dresses" href="/christmas/dresses/red-dresses">Red dresses</a>
-                                        </li>
-									</ul>
-							<!-- <h3 class="dropdown-header "> -->
-								<h3 class="dropdown-header ">
-									<a class="flyoutsectionlink" title="Sex Toys" href="/christmas/sex-toys"> Sex Toys</a>
-                                        </h3>
-								<ul>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Toys for couples" href="/christmas/sex-toys/toys-for-couples">Toys for couples</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Sex toy sets &amp; gift sets" href="/christmas/sex-toys/sex-toy-sets-gift-sets">Sex toy sets &amp; gift sets</a>
-                                        </li>
-									</ul>
-							</div>
-					<div class="col-sm-3 col-md-3 col-lg-3 segment">
-							<!-- <h3 class="dropdown-header "> -->
-								<h3 class="dropdown-header ">
-									<a class="flyoutsectionlink" title="Gadgets" href="/christmas/gadgets"> Gadgets</a>
-                                        </h3>
-								<ul>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Gadgets" href="/christmas/gadgets/gadgets">Gadgets</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Duvets" href="/christmas/gadgets/duvets">Duvets</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Adult games" href="/christmas/gadgets/adult-games">Adult games</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Bathrobes" href="/christmas/gadgets/bathrobes">Bathrobes</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Adult books" href="/christmas/gadgets/adult-books">Adult books</a>
-                                        </li>
-									</ul>
-							<!-- <h3 class="dropdown-header "> -->
-								<h3 class="dropdown-header ">
-									<a class="flyoutsectionlink" title="Health &amp; Beauty" href="/christmas/health-beauty"> Health &amp; Beauty</a>
-                                        </h3>
-								<ul>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Massage" href="/christmas/health-beauty/massage">Massage</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Cosmetics" href="/christmas/health-beauty/cosmetics">Cosmetics</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Perfume" href="/christmas/health-beauty/perfume">Perfume</a>
-                                        </li>
-									</ul>
-							</div>
-					<div class="col-sm-3 col-md-3 col-lg-3 segment">
-							<!-- <h3 class="dropdown-header hidden-xs"> -->
-								<h3 class="dropdown-header nonClickable">
-									<!--  -->
-                                            <a title="Brands" href="#"> Brands</a>
-                                        </h3>
-								<ul>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Besired" href="/christmas/besired">Besired</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="BLove" href="/christmas/blove">BLove</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Leg Avenue" href="/christmas/leg-avenue">Leg Avenue</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Avanza" href="/christmas/avanza">Avanza</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="taboom" href="/christmas/taboom">taboom</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Anal Fantasy" href="/christmas/anal-fantasy">Anal Fantasy</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Anycase" href="/christmas/anycase">Anycase</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Bijoux Indiscrets" href="/christmas/bijoux-indiscrets">Bijoux Indiscrets</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Bruno Banani" href="/christmas/bruno-banani">Bruno Banani</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Calvin Klein" href="/christmas/calvin-klein">Calvin Klein</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="210th" href="/christmas/210th">210th</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Allure Kitten" href="/christmas/allure-kitten">Allure Kitten</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Allure Kitten Plus Size" href="/christmas/allure-kitten-plus-size">Allure Kitten Plus Size</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Allure Leather" href="/christmas/allure-leather">Allure Leather</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Allure Noir" href="/christmas/allure-noir">Allure Noir</a>
-                                        </li>
-									</ul>
-							</div>
-					<div class="col-sm-3 col-md-3 col-lg-3 segment">
 							</div>
 					</div>
 				</li>
@@ -1651,6 +1640,9 @@ $(document).ready(function() {
 									<a class="flyoutsectionlink" title="Lingerie" href="/outlet/lingerie"> Lingerie</a>
                                         </h3>
 								<ul>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Final sizes" href="/outlet/lingerie/clearance-rail">Final sizes</a>
+                                        </li>
 									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Bras" href="/outlet/bras">Bras</a>
                                         </li>
@@ -1721,13 +1713,13 @@ $(document).ready(function() {
 				                            <a class="flyoutsubcategorylink" title="Cock rings &amp; penis sleeves" href="/outlet/sex-toys/cock-rings-penis-sleeves">Cock rings &amp; penis sleeves</a>
                                         </li>
 									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Sex dolls" href="/outlet/sex-toys/sex-dolls">Sex dolls</a>
+                                        </li>
+									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Dildos" href="/outlet/sex-toys/dildos">Dildos</a>
                                         </li>
 									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Male masturbators" href="/outlet/sex-toys/male-masturbators">Male masturbators</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Sex dolls" href="/outlet/sex-toys/sex-dolls">Sex dolls</a>
                                         </li>
 									</ul>
 							<!-- <h3 class="dropdown-header "> -->
@@ -1746,6 +1738,9 @@ $(document).ready(function() {
 									<a class="flyoutsectionlink" title="Fashion" href="/outlet/fashion"> Fashion</a>
                                         </h3>
 								<ul>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Final sizes" href="/outlet/fashion/final-sizes">Final sizes</a>
+                                        </li>
 									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Dresses" href="/outlet/fashion/dresses">Dresses</a>
                                         </li>
@@ -1786,10 +1781,16 @@ $(document).ready(function() {
                                         </h3>
 								<ul>
 									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Lubricants" href="/outlet/intimate-care/lubricants">Lubricants</a>
+                                        </li>
+									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Stimulating" href="/outlet/intimate-care/stimulating">Stimulating</a>
                                         </li>
 									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Condoms" href="/outlet/intimate-care/condoms">Condoms</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Massage &amp; bodypainting" href="/outlet/intimate-care/massage-bodypainting">Massage &amp; bodypainting</a>
                                         </li>
 									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Toy care" href="/outlet/intimate-care/toy-care">Toy care</a>
@@ -1846,216 +1847,10 @@ $(document).ready(function() {
 				                            <a class="flyoutsubcategorylink" title="Stimul8" href="/outlet/stimul8">Stimul8</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Amor" href="/outlet/amor">Amor</a>
+				                            <a class="flyoutsubcategorylink" title="Durex" href="/outlet/durex">Durex</a>
                                         </li>
 									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Anycase" href="/outlet/anycase">Anycase</a>
-                                        </li>
-									</ul>
-							</div>
-					<div class="col-sm-3 col-md-3 col-lg-3 segment">
-							</div>
-					</div>
-				</li>
-		<li class="dropdown">
-                <a class="navigationbarlink" href="/x-mas-deals" title="X-mas deals">X-mas deals<span class="visible-xs navigationBarArrow"><div class="nicePulldown2"></div></span></a>
-                <div class="flyoutNavigation dropdown-menu hidden-xs" role="menu">
-					<div class="col-sm-3 col-md-3 col-lg-3 segment">
-							<!-- <h3 class="dropdown-header "> -->
-								<h3 class="dropdown-header ">
-									<a class="flyoutsectionlink" title="Lingerie" href="/x-mas-deals/lingerie"> Lingerie</a>
-                                        </h3>
-								<ul>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Bras &amp; bra sets" href="/x-mas-deals/lingerie/bras-bra-sets">Bras &amp; bra sets</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Lingerie sets" href="/x-mas-deals/lingerie/lingerie-sets">Lingerie sets</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Knickers" href="/x-mas-deals/lingerie/knickers">Knickers</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Babydolls &amp; chemises" href="/x-mas-deals/lingerie/babydolls-chemises">Babydolls &amp; chemises</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Nightwear" href="/x-mas-deals/lingerie/nightwear">Nightwear</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Bustiers &amp; corsets" href="/x-mas-deals/lingerie/bustiers-corsets">Bustiers &amp; corsets</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Suspenders" href="/x-mas-deals/lingerie/suspenders">Suspenders</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Bodies" href="/x-mas-deals/lingerie/bodies">Bodies</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Hosiery" href="/x-mas-deals/lingerie/hosiery">Hosiery</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Costumes" href="/x-mas-deals/lingerie/costumes">Costumes</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Underwear for him" href="/x-mas-deals/lingerie/underwear-for-him">Underwear for him</a>
-                                        </li>
-									</ul>
-							<!-- <h3 class="dropdown-header "> -->
-								<h3 class="dropdown-header ">
-									<a class="flyoutsectionlink" title="Sex Toys" href="/x-mas-deals/sex-toys"> Sex Toys</a>
-                                        </h3>
-								<ul>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Vibrators" href="/x-mas-deals/sex-toys/vibrators">Vibrators</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Dildos" href="/x-mas-deals/sex-toys/dildos">Dildos</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Sex toy sets" href="/x-mas-deals/sex-toys/sex-toy-sets">Sex toy sets</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Vibrating eggs" href="/x-mas-deals/sex-toys/vibrating-eggs">Vibrating eggs</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Male sex toys" href="/x-mas-deals/sex-toys/male-sex-toys">Male sex toys</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Stimulators" href="/x-mas-deals/sex-toys/stimulators">Stimulators</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Bondage gear" href="/x-mas-deals/sex-toys/bondage-gear">Bondage gear</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Anal sex toys" href="/x-mas-deals/sex-toys/anal-sex-toys">Anal sex toys</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Cock rings &amp; penis sleeves" href="/x-mas-deals/sex-toys/cock-rings-penis-sleeves">Cock rings &amp; penis sleeves</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Sex dolls" href="/x-mas-deals/sex-toys/sex-dolls">Sex dolls</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Penis pumps &amp; masturbators" href="/x-mas-deals/sex-toys/penis-pumps-masturbators">Penis pumps &amp; masturbators</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Adult games" href="/x-mas-deals/sex-toys/adult-games">Adult games</a>
-                                        </li>
-									</ul>
-							<!-- <h3 class="dropdown-header "> -->
-								<h3 class="dropdown-header ">
-									<a class="flyoutsectionlink" title="Home &amp; Living" href="/x-mas-deals/home-living"> Home &amp; Living</a>
-                                        </h3>
-								<ul>
-									</ul>
-							</div>
-					<div class="col-sm-3 col-md-3 col-lg-3 segment">
-							<!-- <h3 class="dropdown-header "> -->
-								<h3 class="dropdown-header ">
-									<a class="flyoutsectionlink" title="Fashion" href="/x-mas-deals/fashion"> Fashion</a>
-                                        </h3>
-								<ul>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Dresses &amp; skirts" href="/x-mas-deals/fashion/dresses-skirts">Dresses &amp; skirts</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Shirts &amp; tops" href="/x-mas-deals/fashion/shirts-tops">Shirts &amp; tops</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Blouses &amp; tunics" href="/x-mas-deals/fashion/blouses-tunics">Blouses &amp; tunics</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Jumpers &amp; cardigans" href="/x-mas-deals/fashion/jumpers-cardigans">Jumpers &amp; cardigans</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Jackets &amp; blazers" href="/x-mas-deals/fashion/jackets-blazers">Jackets &amp; blazers</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Trousers &amp; leggings" href="/x-mas-deals/fashion/trousers-leggings">Trousers &amp; leggings</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Swimwear" href="/x-mas-deals/fashion/swimwear">Swimwear</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Shoes &amp; accessories" href="/x-mas-deals/fashion/shoes-accessories">Shoes &amp; accessories</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Jumpsuits" href="/x-mas-deals/fashion/jumpsuits">Jumpsuits</a>
-                                        </li>
-									</ul>
-							<!-- <h3 class="dropdown-header "> -->
-								<h3 class="dropdown-header ">
-									<a class="flyoutsectionlink" title="Intimate care" href="/x-mas-deals/intimate-care"> Intimate care</a>
-                                        </h3>
-								<ul>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Stimulating" href="/x-mas-deals/intimate-care/stimulating">Stimulating</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Lubricants" href="/x-mas-deals/intimate-care/lubricants">Lubricants</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Massage &amp; bodypainting" href="/x-mas-deals/intimate-care/massage-bodypainting">Massage &amp; bodypainting</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Toy care" href="/x-mas-deals/intimate-care/toy-care">Toy care</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Condoms" href="/x-mas-deals/intimate-care/condoms">Condoms</a>
-                                        </li>
-									</ul>
-							<!-- <h3 class="dropdown-header "> -->
-								<h3 class="dropdown-header ">
-									<a class="flyoutsectionlink" title="Health &amp; Beauty" href="/x-mas-deals/health-beauty"> Health &amp; Beauty</a>
-                                        </h3>
-								<ul>
-									</ul>
-							</div>
-					<div class="col-sm-3 col-md-3 col-lg-3 segment">
-							<!-- <h3 class="dropdown-header hidden-xs"> -->
-								<h3 class="dropdown-header nonClickable">
-									<!--  -->
-                                            <a title="Brands" href="#"> Brands</a>
-                                        </h3>
-								<ul>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Besired" href="/x-mas-deals/besired">Besired</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Kiss Me" href="/x-mas-deals/kiss-me">Kiss Me</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Leg Avenue" href="/x-mas-deals/leg-avenue">Leg Avenue</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Avanza" href="/x-mas-deals/avanza">Avanza</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Forplay" href="/x-mas-deals/forplay">Forplay</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Allure" href="/x-mas-deals/allure">Allure</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Toy Joy" href="/x-mas-deals/toy-joy">Toy Joy</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="taboom" href="/x-mas-deals/taboom">taboom</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Mae B" href="/x-mas-deals/mae-b">Mae B</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Vibe Therapy" href="/x-mas-deals/vibe-therapy">Vibe Therapy</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Hot" href="/x-mas-deals/hot">Hot</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Stimul8" href="/x-mas-deals/stimul8">Stimul8</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="210th" href="/x-mas-deals/210th">210th</a>
                                         </li>
 									</ul>
 							</div>
@@ -2111,16 +1906,28 @@ $(document).ready(function() {
 				                            <a class="flyoutsubcategorylink" title="Vibrators &amp; dildos" href="/new-arrivals/sex-toys/vibrators-dildos">Vibrators &amp; dildos</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Cock rings &amp; penis sleeves" href="/new-arrivals/sex-toys/cock-rings-penis-sleeves">Cock rings &amp; penis sleeves</a>
-                                        </li>
-									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Vibrating eggs" href="/new-arrivals/sex-toys/vibrating-eggs">Vibrating eggs</a>
+				                            <a class="flyoutsubcategorylink" title="Anal toys" href="/new-arrivals/sex-toys/anal-toys">Anal toys</a>
                                         </li>
 									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Stimulators" href="/new-arrivals/sex-toys/stimulators">Stimulators</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Anal toys" href="/new-arrivals/sex-toys/anal-toys">Anal toys</a>
+				                            <a class="flyoutsubcategorylink" title="Cock rings &amp; penis sleeves" href="/new-arrivals/sex-toys/cock-rings-penis-sleeves">Cock rings &amp; penis sleeves</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="BDSM" href="/new-arrivals/sex-toys/bdsm">BDSM</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Penis pumps" href="/new-arrivals/sex-toys/penis-pumps">Penis pumps</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Vibrating eggs" href="/new-arrivals/sex-toys/vibrating-eggs">Vibrating eggs</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Male masturbators" href="/new-arrivals/sex-toys/male-masturbators">Male masturbators</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Sex toy sets &amp; adult games" href="/new-arrivals/sex-toys/sex-toy-sets-adult-games">Sex toy sets &amp; adult games</a>
                                         </li>
 									</ul>
 							<!-- <h3 class="dropdown-header "> -->
@@ -2159,21 +1966,96 @@ $(document).ready(function() {
 				                            <a class="flyoutsubcategorylink" title="Leg Avenue" href="/new-arrivals/leg-avenue">Leg Avenue</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Avanza" href="/new-arrivals/avanza">Avanza</a>
-                                        </li>
-									<li class="Lc right_col">
 				                            <a class="flyoutsubcategorylink" title="Toy Joy" href="/new-arrivals/toy-joy">Toy Joy</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Baci" href="/new-arrivals/baci">Baci</a>
+				                            <a class="flyoutsubcategorylink" title="Hot" href="/new-arrivals/hot">Hot</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="Besired Blacklabel" href="/new-arrivals/besired-blacklabel">Besired Blacklabel</a>
+				                            <a class="flyoutsubcategorylink" title="Durex" href="/new-arrivals/durex">Durex</a>
                                         </li>
 									<li class="Lc right_col">
-				                            <a class="flyoutsubcategorylink" title="BLove" href="/new-arrivals/blove">BLove</a>
+				                            <a class="flyoutsubcategorylink" title="Adelante" href="/new-arrivals/adelante">Adelante</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="American Bombshell" href="/new-arrivals/american-bombshell">American Bombshell</a>
                                         </li>
 									</ul>
+							</div>
+					<div class="col-sm-3 col-md-3 col-lg-3 segment">
+							</div>
+					</div>
+				</li>
+		<li class="dropdown">
+                <a class="navigationbarlink" href="/be-inspired-" title="Be Inspired  ">Be Inspired  <span class="visible-xs navigationBarArrow"><div class="nicePulldown2"></div></span></a>
+                <div class="flyoutNavigation dropdown-menu hidden-xs" role="menu">
+					<div class="col-sm-3 col-md-3 col-lg-3 segment">
+							</div>
+					<div class="col-sm-3 col-md-3 col-lg-3 segment">
+							</div>
+					<div class="col-sm-3 col-md-3 col-lg-3 segment">
+							</div>
+					<div class="col-sm-3 col-md-3 col-lg-3 segment">
+							</div>
+					</div>
+				</li>
+		<li class="dropdown">
+                <a class="navigationbarlink" href="/beach" title="Beach">Beach<span class="visible-xs navigationBarArrow"><div class="nicePulldown2"></div></span></a>
+                <div class="flyoutNavigation dropdown-menu hidden-xs" role="menu">
+					<div class="col-sm-3 col-md-3 col-lg-3 segment">
+							<!-- <h3 class="dropdown-header "> -->
+								<h3 class="dropdown-header ">
+									<a class="flyoutsectionlink" title="Swimwear" href="/beach/swimwear"> Swimwear</a>
+                                        </h3>
+								<ul>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Bikinis" href="/beach/swimwear/bikinis">Bikinis</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Mix and match bikinis" href="/beach/swimwear/mix-and-match-bikinis">Mix and match bikinis</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Swimsuits" href="/beach/swimwear/swimsuits">Swimsuits</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Plus size" href="/beach/swimwear/plus-size">Plus size</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Final sizes" href="/beach/swimwear/final-sizes">Final sizes</a>
+                                        </li>
+									</ul>
+							<!-- <h3 class="dropdown-header "> -->
+								<h3 class="dropdown-header ">
+									<a class="flyoutsectionlink" title="Beachwear" href="/beach/beachwear"> Beachwear</a>
+                                        </h3>
+								<ul>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="All Beachwear" href="/beach/beachwear/all-beachwear">All Beachwear</a>
+                                        </li>
+									</ul>
+							</div>
+					<div class="col-sm-3 col-md-3 col-lg-3 segment">
+							<!-- <h3 class="dropdown-header hidden-xs"> -->
+								<h3 class="dropdown-header nonClickable">
+									<!--  -->
+                                            <a title="Brands" href="#"> Brands</a>
+                                        </h3>
+								<ul>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Free For Humanity" href="/beach/free-for-humanity">Free For Humanity</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Forplay" href="/beach/forplay">Forplay</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="F**K" href="/beach/f-k">F**K</a>
+                                        </li>
+									<li class="Lc right_col">
+				                            <a class="flyoutsubcategorylink" title="Maríemeili" href="/beach/mariemeili">Maríemeili</a>
+                                        </li>
+									</ul>
+							</div>
+					<div class="col-sm-3 col-md-3 col-lg-3 segment">
 							</div>
 					<div class="col-sm-3 col-md-3 col-lg-3 segment">
 							</div>
@@ -2268,8 +2150,8 @@ $(document).ready(function() {
     </div>
 				<footer>
 	<div class="yCmsContentSlot"><div class="row">
-	<div class="col-xs-6">
-		<div class="col-sm-6 col-md-6 col-lg-6 hidden-xs ">
+	<div class="col-xs-6 col-sm-4 col-md-5 col-lg-6">
+		<div class="col-xs-6  col-md-6 col-lg-6 hidden-sm hidden-xs ">
 			<h5>Discover our products</h5>
 			<ul class="nav nav--vertical">
 				<li class="yCmsComponent"><a href="/lingerie" title="Lingerie">
@@ -2279,7 +2161,7 @@ $(document).ready(function() {
 	Home &amp; Living</a></li><li class="yCmsComponent"><a href="/sex-toys" title="Sex Toys">
 	Sex Toys</a></li></ul>
 		</div>
-		<div class="col-xs-6">
+		<div class="col-xs-6 col-sm-12 col-md-6">
 			<h5>About Pabo</h5>
 			<ul class="nav nav--vertical">
 				<li class="yCmsComponent"><a href="/about_why" title="Why shop with us?">
@@ -2291,7 +2173,7 @@ $(document).ready(function() {
 	</a></li></ul>
 		</div>
 	</div>
-	<div class="col-xs-6 col-sm-3">
+	<div class="col-xs-6 col-sm-3 col-md-2 ">
 		<h5>Service and help</h5>
 		<ul class="nav nav--vertical">
 			<li class="yCmsComponent"><a href="/kundenservice" title="Customer Service">
@@ -2302,12 +2184,32 @@ $(document).ready(function() {
 	Ordering</a></li><li class="yCmsComponent"><a href="/contact" title="Contact us">
 	Contact us</a></li></ul>
 	</div>
-	<div class="hidden-xs col-sm-3">
-		<h5>Follow us</h5>
-		<ul class="nav social-links">
+		<div class="col-xs-12 col-sm-5 col-md-5 col-lg-4 footer_newsletter_padding">
+		<div class="col-xs-12 col-sm-4 footer_newsletter">
+			<form id="newsletter_footer_form" method="post" name="onlineForm2">
+				<div class="newsletter_form_header">
+					<img src="/_ui/desktop/theme-des/images/NB_bol_en.png">
+					<h5>Register for our newsletter</h5>
+					<p>Order using your £5 discount</p>
+				</div>
+				<input value="99999" name="newsletter_source_code" type="hidden">
+				<input id="LANG" value="en" name="LANG" type="hidden">
+				<input id="COMPANYID" value="gbs" name="COMPANYID" type="hidden">
+				<div class="input_data row">
+					<div class="col-xs-7 col-sm-12 col-md-7 col-lg-6 nopadding">
+						<input id="EMAIL_FIELD" class="form-control" name="MAIL" maxlength="50" value="" placeholder="email adres" type="email">
+					</div>
+					<button type="submit" id="submitOptin" class="cta-arrow-right">
+						<span class="placeOrderButtonText"> Register</span>
+					</button>
+				</div>
+			</form>
+			<div id="mail-has-error" class="col-xs-12"></div>
+		</div>
+		<h5 class="hidden-xs">Follow us</h5>
+		<ul class="nav social-links hidden-xs">
 			<li class="yCmsComponent facebook nav--social-links"><a href="https://www.facebook.com/pages/PABO-UK/126103420809959" title="Facebook" target="_new">
-	<br>
-		</a></li></ul>
+	Facebook</a></li></ul>
 	</div>
 </div>
 <div class="row">
@@ -2315,13 +2217,16 @@ $(document).ready(function() {
 		<hr>
 		<ul class="nav social-links">
 			<li class="yCmsComponent facebook nav--social-links"><a href="https://www.facebook.com/pages/PABO-UK/126103420809959" title="Facebook" target="_new">
-	<br>
-		</a></li></ul>
-	</div>	
+	Facebook</a></li></ul>
+	</div>
 	<div class="col-xs-12 payment-wrapper">
 		<div class="col-xs-12 border-top">
 			<ul class="nav payment-links">
-			    </ul>
+				<a target="_blank" href="/paymenthow"><li class="paypal" title=""></li></a>
+							<a target="_blank" href="/paymenthow"><li class="visa" title=""></li></a>
+							<a target="_blank" href="/paymenthow"><li class="mastercard" title=""></li></a>
+							<a target="_blank" href="/paymenthow"><li class="maestro" title=""></li></a>
+							</ul>
 		</div>
 		<div class="col-xs-12">
 			<div class="nav payment-compliances">
@@ -2345,7 +2250,52 @@ $(document).ready(function() {
 	All models are over 18</a></li></ul>
 		</div>
 	</div>
-</div></div></footer></div>
+</div>
+
+<script>
+	$(document).ready(function() {
+		$('#newsletter_footer_form').submit(function(e) {
+			e.preventDefault();
+
+			var emailAddress = $("#EMAIL_FIELD").val()
+
+			if (isValidEmailAddress(emailAddress)) {
+				$.ajax({
+					url: '/sim/subscribe',
+					type : "POST",
+					data: { email: emailAddress },
+					async: true,
+					dataType: "json",
+					success: function(result) {
+						if (result.succes == 'true') {
+							$('#newsletter_footer_form').replaceWith(result.succesHtml);
+							$('#mail-has-error').replaceWith('<div class="col-xs-12" id="mail-has-error">');
+							 window.dataLayer = window.dataLayer || [];
+							 dataLayer.push({'event' : 'newsletterOptin'});
+						} else {
+							$('#mail-has-error').replaceWith(result.errorHtml);
+						}
+					},
+					error: function(x, t, m) {
+						$('#mail-has-error').replaceWith('<div  id="mail-has-error"class="col-xs-12"><div id="formMessages"><div class="information_message negative"><span class="single"></span><p class="termsError">An error occurred during registration. Please try again.</p></div></div></div>');
+					}
+				});
+			} else {
+				$('#mail-has-error').replaceWith('<div  id="mail-has-error"class="col-xs-12"><div id="formMessages"><div class="information_message negative"><span class="single"></span><p class="termsError">invalid email address.</p></div></div></div>');
+			}
+		});
+	});
+	
+	function isValidEmailAddress(emailAddress) {
+		var pattern = /^[a-zA-Z0-9.!#$%&'*+\/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)*$/;
+
+		if (emailAddress == '' || !pattern.test(emailAddress)) {
+			return false;
+		} else {
+			return true;
+		}
+	};
+</script></div></footer></div>
 		</div>
 	<form name="accessiblityForm" class="accessiblityForm">
 			<input type="hidden" id="accesibility_refreshScreenReaderBufferField" name="accesibility_refreshScreenReaderBufferField" value="">
@@ -2373,6 +2323,10 @@ $(document).ready(function() {
 <script type="text/javascript" src="/_ui/desktop/common/js/gaevents.js"></script>
 
 <script type="text/javascript" src="/_ui/desktop/common/js/imagesloaded.pkgd.min.js"></script>
+
+<script>
+	ADRUM.command ("setPageName", "about_cookies-gbs-en");
+</script>
 
 <script type="text/javascript">
 	var bvenabled = "";
