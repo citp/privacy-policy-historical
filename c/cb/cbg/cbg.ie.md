@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbg.ie privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508081010id_/http%3A//www.cbg.ie/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbg.ie privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526055329id_/http%3A//www.cbg.ie/home/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Car Buyer Guide
 
@@ -66,9 +66,9 @@ Examples of the information we collect and analyze include the Internet protocol
 
   
 Should you wish to stop receiving any of out emails you can find an unsubscribe link at the footer of all out emails.   
-Company address - MenuPages, Unit 12 The Courtyard, Carmanhall Road, Sandyford, Dublin 18, Ireland   
+Company address - 101 Monkstown Road, Monkstown, Co.Dublin   
 Company email - info@cbg.ie   
-Tel - (01) 240 5515 
+Tel - 
 
 **Does Car Buyers Guide Share the Information It Receives?**
 
