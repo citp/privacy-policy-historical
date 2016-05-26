@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vincheckup.com privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918114134id_/http%3A//vincheckup.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vincheckup.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526110132id_/http%3A//www.vincheckup.com/privacy) for the most accurate reproduction.*
 
-# Welcome to Vin Check Up | VinCheckUP | Vincheckup
+# Privacy Policy | VINCHECKUP.com
 
 This privacy policy is intended to inform you about the types of information gathered by VinCheckUp when you use our search services, how we use and safeguard that information, and the degree to which you may control the maintenance and sharing of your information. Please note: if you are reviewing or accessing our Services via a third party website not under VinCheckUp's control (such as an affiliate website), that website may have its own privacy policy. Please be sure to review that third party's privacy policy, as its terms may differ from ours.
 
@@ -15,24 +15,24 @@ We expressly reserve the right to change/update our Privacy Policy from time to 
 When you use our Services or visit a website at which our Services are available, we will not collect any personally identifiable information about you unless you choose to provide such information to us. If you choose to purchase our Services, we will ask you to provide certain personally identifiable information such as your name and email address, as well as credit card or other payment information and a billing address. We use this information as required to provide you with the Services you have requested.  
 We do not directly collect or store any personal financial information provided in connection with your purchase of Services. All personal financial information required to complete your purchase (such as your credit card number) will be provided to and/or collected by a third party vendor who will process payments and complete transactions. We store information regarding any searches you may make via the Services for sixty (60) days, after which time we delete such information. 
 
-### Log Files
+## Log Files
 
 We may automatically and through third-party tracking services (e.g., Google Analytics) gather certain non-personally identifiable information about your use of our websites and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamps, and related data. We use this information, which does not identify individual users, solely to improve the quality of our Services. Out of respect for your privacy, we do not link this automatically-collected data to personally identifiable information.
 
-### Cookies
+## Cookies
 
 A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use both session ID cookies and tracking cookies. We use session cookies to make it easier for you to use our Services. A session ID cookie expires when you close your browser. We use tracking cookies to better understand how you use our Services, and to enhance your user experience. A tracking cookie remains on your hard drive for an extended period of time. You are free to decline cookies, but by doing so, you may not be able to take full advantage of all of our offerings. We do not link the information we store in cookies to any personally identifiable information you submit while using our Services.
 
 ## Information Use and Disclosure
 
-If you choose to purchase Services, we will send you a welcome email including information about the Services along with your purchase details. Unless you elect otherwise, we will periodically send you emails notifying you about new or upcoming products or services, information about changing or updating your registration or payment information, changes to our Terms of Service and Privacy Policy, and promotional materials and offers from our company as well as from our subsidiaries, affiliates, marketing partners, advertisers and other third parties. Out of respect for your privacy, if you no longer wish to receive these emails, you may opt-out of receiving them by [Contacting Us](https://web.archive.org/web/20150918114134id_/http%3A//vincheckup.com/contactus.php).
+If you choose to purchase Services, we will send you a welcome email including information about the Services along with your purchase details. Unless you elect otherwise, we will periodically send you emails notifying you about new or upcoming products or services, information about changing or updating your registration or payment information, changes to our Terms of Service and Privacy Policy, and promotional materials and offers from our company as well as from our subsidiaries, affiliates, marketing partners, advertisers and other third parties. Out of respect for your privacy, if you no longer wish to receive these emails, you may opt-out of receiving them by [Contacting Us](https://web.archive.org/web/20160526110132id_/http%3A//www.vincheckup.com/support).
 
-### Disclosure
+## Disclosure
 
 We understand how highly our users value the privacy and security of their personally identifiable information. We will disclose information collected from and about you to the following entities for the following purposes: (1) to our related companies, service providers and suppliers, to enable them to fulfill a product or service request or to perform a business, professional or technical support function for us; (2) as necessary if we believe that there has been a violation of our Terms of Service or of our rights or the rights of any third party; and (3) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law.
 
 Should you forget your account login information, you may request that we send it to the email address associated with your account. To prevent unauthorized disclosure of and access to your account and search history, you should take steps to keep your email address and account information secure.
 
-### Business Transitions
+## Business Transitions
 
 In the event VinCheckUp goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, any personally identifiable information we have on record will likely be among the assets transferred. The transferred personally identifiable information will remain subject to the provisions of this Privacy Policy or any subsequent updated versions.
