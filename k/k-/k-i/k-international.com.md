@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the k-international.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125182301id_/http%3A//www.k-international.com/k-international-web-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k-international.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526120746id_/http%3A//www.k-international.com/k-international-web-privacy-policy) for the most accurate reproduction.*
 
 # K International Web Privacy Policy - K International
 
@@ -78,7 +78,7 @@ Users are advised to take caution and good judgement before clicking any shorten
 
 v.2.0 April 2013 Edited & customised by: K International LTD.
 
-14 Davey Ave.  
+14 Davy Ave.  
 Knowlhill  
 Milton Keynes
 
