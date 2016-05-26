@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pabo.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212132038id_/http%3A//www.pabo.com/aboutcookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pabo.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526060102id_/http%3A//www.pabo.com/aboutcookies) for the most accurate reproduction.*
 
 # about_cookies
 
