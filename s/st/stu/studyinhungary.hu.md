@@ -1,0 +1,13 @@
+> *The following text is extracted and transformed from the studyinhungary.hu privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526205835id_/http%3A//www.studyinhungary.hu/footer/privacy-policy.html) for the most accurate reproduction.*
+
+# Study in Hungary
+
+## Privacy policy
+
+The Tempus Public Foundation doesn’t sell, doesn’t rent and doesn’t lend the information concerned to their clients for other companies. The Tempus Public Foundation as a data manager, according to the law of CXII. 2011. about the information autonomy and information freedom, it manages and keeps a record of your data according to this law, and only in that area in which you authorized us to do so. We will not publish your personal information for any other person that you gave us during the registration in any circumstances– unless you give us your consent. The Tempus Public Foundation excludes taking responsibility for the information published by you on the Internet.
+
+The Tempus Public Foundation uses cookies from external services in order to have a better user’s experience. Those cookies collect and store information how the users use the website of  [www.tka.hu](http://www.tka.hu/).
+
+These information will not be connected to other personal information, i.e. the users can not be identified according to these information. We use them mainly for the following aims: collection of web analytics and analysis, to see how the users use our page, and to  measure the performance of our advertisements. If someone visits our page, he or she accepts the we use cookies managed by external service(s). In the case you do not wish to keep cookies on your computer, you can cancel them anytime and you can also prohibit the use of the cookies with the help of your browser’s settings. You can have information about the settings of your connected browser at the Help of your browser. About the cookies’ policies of the data protection coming from external services you can inform at the services’ website: Google, Facebook. Regarding to the external services’ data management, the regulation for data protection provided by those services are the normative ones. The Tempus Public Foundation does not take any responsibility regarding to those data management.
+
+The Tempus Public Foundation is committed to the protection of their clients’ information. In order to avoid the unauthorized acces and the publication, to assure the accurate information and the most appropriate data management we take care with the appropriate physical, electronic and technical systems and we assure the information collected online.
