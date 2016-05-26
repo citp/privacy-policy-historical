@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the djuced.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503155515id_/http%3A//www.djuced.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djuced.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526100032id_/http%3A//www.djuced.com/en/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Djuced - Boost Your Mix
 
@@ -53,4 +53,4 @@ This Web site may contain links to third party Web sites. Guillemot is not respo
 By using this Web site, you consent to our Privacy Policy. If you do not agree to this Policy, you must stop using the Web site. We reserve the right to make changes to this Policy, so please check back from time to time to ensure that you are aware of any changes in our information collection practices. Your continued use of the Web site signifies your acceptance of these changes.
 
 General Terms and Conditions of Use  
-The terms of this Online Privacy Policy are incorporated into our general Terms of Use. Please review our Terms of Use [here](http://www.djuced.com/content/term-use).
+The terms of this Online Privacy Policy are incorporated into our general Terms of Use. Please review our Terms of Use [here](http://www.djuced.com/en/content/term-use).
