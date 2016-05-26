@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billmyparents.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116055050id_/http%3A//smsmasterminds.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billmyparents.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526114926id_/http%3A//smsmasterminds.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
