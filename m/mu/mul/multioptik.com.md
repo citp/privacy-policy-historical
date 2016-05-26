@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multioptik.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204201252id_/http%3A//multioptik.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multioptik.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526204038id_/http%3A//multioptik.com/privacy) for the most accurate reproduction.*
 
 # Multioptik
 
