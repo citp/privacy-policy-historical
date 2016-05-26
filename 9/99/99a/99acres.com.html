@@ -1,24 +1,15 @@
-<!--The following is the downloaded HTML source of the 99acres.com privacy policy that was archived on 2015-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150621065926id_/http%3A//www.99acres.com/load/Company/privacy%3FlstAcn%3DCP_R%26lstAcnId%3D205%26src%3DFTR) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 99acres.com privacy policy that was archived on 2016-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160526094602id_/http%3A//www.99acres.com/load/Company/privacy%3FlstAcn%3DCP_R%26lstAcnId%3D20%26src%3DFTR) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8; IE=EmulateIE10"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgAPVFBaGwcDXFVXBAI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script> 
+<meta http-equiv="content-language" content="en">
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8; IE=EmulateIE10"> 
 <link rel="canonical" href="http://www.99acres.com/load/Company/privacy">
 <title>Privacy policy is subject to the terms of the Site Policy (User agreement) of 99acres.</title>
 <meta name="description" content="The policy is effective from the date and time a user registers with 99acres by filling up the Registration form and accepting the terms and conditions laid out in the Site Policy.">
 <meta name="alexaVerifyID" content="nzI4-SnUIpv3uZmQ37-WnhjmxEQ">
-<link rel="stylesheet" href="http://static.99acres.com/css/99acres_Base-v11.css" type="text/css" media="all"><link rel="stylesheet" href="http://static.99acres.com/css/99acres_UI-v40.css" type="text/css" media="all"><link rel="stylesheet" href="http://static.99acres.com/css/99coreheader-v3.1.css" type="text/css" media="all"><link rel="stylesheet" href="http://static.99acres.com/css/99core-v16.6.css" type="text/css" media="all"><link rel="stylesheet" href="http://static.99acres.com/css/xid-v19.1.css" type="text/css" media="all">    <!--[if lt IE 9]>
-        <script src="http://static.99acres.com/js/html5shiv.min.js"></script>
-    <![endif]-->
-        <!--[if lt IE 9]>
-        <script src="http://static.99acres.com/js/respond.min.js"></script>
-        <link href="http://static.99acres.com/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
-        <link href="/images/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
-        <script src="/js/respond.proxy-v1.js"></script>
-    <![endif]-->
-        
-        <script>function jsb9createCookie(c,e,d){if(d){var b=new Date();b.setTime(b.getTime()+(d*60*1000));var a="; expires="+b.toGMTString()}else{var a=""}document.cookie=c+"="+e+a+"; path=/"}function jsb9readCookie(b){var e=b+"=";var a=document.cookie.split(";");for(var d=0;d<a.length;d++){var f=a[d];while(f.charAt(0)==" "){f=f.substring(1,f.length)}if(f.indexOf(e)==0){return f.substring(e.length,f.length)}}return"-1|-1"}function jsb9eraseCookie(a){jsb9createCookie(a,"",-1)}var jsb9TrackVal=jsb9readCookie("jsb9Track");jsb9eraseCookie("jsb9Track");var date=new Date();jsb9TrackStartTime=date.getTime();var jsb9recordTimes=[];</script><script>
+<link rel="stylesheet" href="http://static.99acres.com/css/99acres_Base-v1.min.d59493742.css" type="text/css" media="all"><link rel="stylesheet" href="http://static.99acres.com/css/99acres_UI.min.22b98dc88.css" type="text/css" media="all"><link rel="stylesheet" href="http://static.99acres.com/css/99coreheader.min.1fb43ec3a.css" type="text/css" media="all"><link rel="stylesheet" href="http://static.99acres.com/css/99core.min.43e1076c4.css" type="text/css" media="all"><link rel="stylesheet" href="http://static.99acres.com/css/xid.min.23a8acd77.css" type="text/css" media="all">        <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script>function jsb9createCookie(c,e,d){if(d){var b=new Date();b.setTime(b.getTime()+(d*60*1000));var a="; expires="+b.toGMTString()}else{var a=""}document.cookie=c+"="+e+a+"; path=/"}function jsb9readCookie(b){var e=b+"=";var a=document.cookie.split(";");for(var d=0;d<a.length;d++){var f=a[d];while(f.charAt(0)==" "){f=f.substring(1,f.length)}if(f.indexOf(e)==0){return f.substring(e.length,f.length)}}return"-1|-1"}function jsb9eraseCookie(a){jsb9createCookie(a,"",-1)}var jsb9TrackVal=jsb9readCookie("jsb9Track");jsb9eraseCookie("jsb9Track");var date=new Date();jsb9TrackStartTime=date.getTime();var jsb9recordTimes=[];</script><script>
     var IMG_BASE_URL = 'http://static.99acres.com',
     xidonswitch = 1,
     autoSuggestURL = "http://s.99acres.com/autocomplete/suggest.php",
@@ -35,11 +26,12 @@ if(typeof googleGaFlag=="undefined"){googleGaFlag=true;var _gaq=_gaq||[];_gaq.pu
 				</script>
 				<noscript>
 				<img src="http://b.scorecardresearch.com/p?c1=2&c2=6035313&cv=2.0&cj=1" />
-				</noscript><script type="text/javascript" src="http://static.99acres.com/js/99a-jquery-min-v1.js"></script><script type="text/javascript" src="http://static.99acres.com/js/99tinyscrollbar-v3.1.js"></script><script type="text/javascript" src="http://static.99acres.com/js/jquery-com-v5.1.js"></script><script type="text/javascript" src="http://static.99acres.com/js/99a-v80.2.js"></script><script type="text/javascript" src="http://static.99acres.com/js/99common_ros-v2.1.js"></script><script type="text/javascript" src="http://static.99acres.com/js/99sugstcore-v2.4.js"></script><script type="text/javascript" src="http://static.99acres.com/js/99srp-v15.js"></script><script type="text/javascript" src="http://static.99acres.com/js/mapUtilities-v8.js"></script><script type="text/javascript" src="http://static.99acres.com/js/99mma-v4.1.js"></script></head>
+				</noscript><script type="text/javascript" src="http://static.99acres.com/js/99a-jquery-min.min.023bf33bf.js"></script><script type="text/javascript" src="http://static.99acres.com/js/99tinyscrollbar.min.ff80f0c49.js"></script><script type="text/javascript" src="http://static.99acres.com/js/jquery-com.min.18ff67c0f.js"></script><script type="text/javascript" src="http://static.99acres.com/js/99a.min.8488c43cf.js"></script><script type="text/javascript" src="http://static.99acres.com/js/99common_ros.min.893e080d7.js"></script><script type="text/javascript" src="http://static.99acres.com/js/99sugstcore.min.b4e0e7582.js"></script><script type="text/javascript" src="http://static.99acres.com/js/99srp.min.682b988d6.js"></script><script type="text/javascript" src="http://static.99acres.com/js/npMain.min.432d41d2e.js"></script><script type="text/javascript" src="http://static.99acres.com/js/mapUtilities.min.982f87465.js"></script><script type="text/javascript" src="http://static.99acres.com/js/99mma.min.d273368f4.js"></script></head>
 
 <body onload="_load();" onclick="checkiPad()" style="min-height:700px;">
-     <div id="leaderBoard">
+    <div id="leaderBoard">
     <i class="setMid"></i> 
+    <div class="leaderBoardPlaceHolder"></div>
 </div>
  <noscript>
 <div style='text-align:center;font-size:16px !important;'><img src="http://static.99acres.com/images/error.gif" width="23" height="20"/>
@@ -47,30 +39,85 @@ Javascript is disabled in your browser due to this certain functionalities will 
 <a href="http://www.99acres.com/property/99acres_help.htm" target="_blank"><u>Click Here</u></a>, to know how to enable it.</div>
 </noscript>
 <div id="dim_bg"></div>
-<div class="boxSize fullbg-SRP " style="position:relative;">    <div id="header1">
+<div class="boxSize fullbg-SRP " style="position:relative">    <div id="header1">
+<input type="hidden" value="7" id="INTL_MOB_LENGTH">
+<script type="text/javascript">
+ var __uzdbm_a = "ae81e443-ba00-c5d9-d262-c42a5e97cbfc";
+</script>
+<div id="ss_098786_234239_238479_190541"></div>
+<script async="true" type="text/javascript" src="https://cdn.perfdrive.com/static/jscall_min.js"></script>
 <div class="boxSize" id="HeaderStickyHandler">
     <header id="Header-Wrap" class="RosHead osrch">
     <div class="lPane">
-        <div class="rel DinBk" id="HmMenuTTPID"> 
-            <div class="_showTip hMenu rel" id="hmcontainer">
-                <a class="iconS ham-Icon" href="javascript:void(0);" trackval="OTH"><i id="hamBrg_Icon" class="iconS hamBrg-Icon"></i></a>
+	    <nav id="HM-Menu" trackval="OTH">
+
+    <div class="hamTop">
+        <div>
+            <div id="setAlertTTPIDHam" class="rel DinBk topUtil">
+                <a id="tool_tip4" class="set-alerts rel" href="http://www.99acres.com/do/buyer/ShowBuyerForms/DisplayForm?p1=0&amp;p2=S&amp;p3=0&amp;lstAcn=&amp;lstAcnId=">	
+                    <i class="hdrIcn-set-alert-ham iconS"></i>
+                    <span class="set-alerts-sup abs">Set Alerts</span>
+                </a>
             </div>
         </div>
-	    <nav id="HM-Menu" trackval="OTH">
-	<div class="propType mt10 up">
-        <a class="HamBookmarkLink" bookmarkid="ResBuyTab" trackaction="BUY" href="http://www.99acres.com/property-real-estate-buy-rent-residential"><i class="iconS res-Icon" style="top:-2px"></i><span class="vmid">Buy</span></a>
-        <a class="HamBookmarkLink" bookmarkid="ResResaleTab" trackaction="RESALE" href="http://www.99acres.com?tab=Resale"><i class="iconS resale-Icon" style="top:-1px"></i><span class="vmid">Resale</span></a> 
-        <a class="HamBookmarkLink" bookmarkid="NpTab" trackaction="Projects" href="http://www.99acres.com/new-projects-in-india"><i class="iconS np-Icon"></i><span class="vmid">Projects</span></a> 
-        <a class="HamBookmarkLink" bookmarkid="ResRentTab" trackaction="RENT" href="http://www.99acres.com?tab=ResidentialRent"><i class="iconS rent-Icon" style="top:0px"></i><span class="vmid">Rent</span></a>
-        <a class="HamBookmarkLink" bookmarkid="ComTab" trackaction="Commercial" href="http://www.99acres.com/property-real-estate-buy-rent-commercial"><i class="iconS com-Icon" style="top:-2px"></i><span class="vmid">Commercial</span></a>
-        <a class="HamBookmarkLink" bookmarkid="DealerTab" trackaction="Dealer" href="http://www.99acres.com?tab=Dealer"><i class="iconS dlr-Icon" style="top:3px"></i><span class="vmid">Dealers</span></a> 
+        <i class="iconS barV-Icon2 " style="margin:0;"></i>
+
+        <div>
+            <div id="shListTTPIDHam" class="rel DinBk topUtil">
+                <a class=" shortlist rel" href="http://www.99acres.com/shortlisted-properties" target="_blank">
+                    <i class="hdrIcn-shortlist-ham iconS"></i>
+                    <span id="sl-count" class="sl_count abs"></span>
+                </a>
+                <div id="_shrtlst_txt" class="bluToolTip" style="display:none;">  </div>
+            </div>
+        </div>
+        <i class="iconS barV-Icon2 " style="margin:0;"></i>
+
+        <div style="width: 19%;">
+            <div id="crossTTPID" class="rel DinBk topUtil">
+                <a id="tool_tip4" class="rel">	
+                    <i class="hdrIcn-close iconS"></i>
+                </a>
+            </div>
+        </div>
+
     </div>
-    <div class="hrLine"></div>
+    
+    <div id="loginHeader" style="position: relative;">
+    
+        <div id="login" class="DD-Menu-V DD-Hover _login">
+            <a href="http://www.99acres.com/property/loginpage.php" class="mmWrap Login f14">
+                <!--dheeraj-->
+<!--                <i class="iconS user"></i>-->
+                <!--<div class="logCaption caption"></div>-->
+                Login / Register
+            </a>
+        </div>
+   </div>        
+<input type="hidden" id="loggedIn" value="0">
+<input type="hidden" id="userAuth" value="0"> 
+<input type="hidden" id="loggedUserClass" value="">
+<input type="hidden" id="searchBarFix">
+<script style="display:none;">
+    var userActionParams = { 
+        lstAcn: '', 
+        lstAcnId:'0' 
+    }, 
+    currentPageName='',
+    blockUrl = new Array('/property/inputproperty.php','/do/buyourservices','/ask'),
+    u= userActionParams;
+    u.p1 = '0';
+    u.p2 = 'S';
+    u.p3 = '0';
+    document.__rc = 'R';
+</script>
+    
     <div class="propType hmLink">
         <a target="_blank" href="http://www.99acres.com/do/advertiseproperty/?p1=0&amp;p2=S&amp;p3=0&amp;lstAcn=&amp;lstAcnId=" trackaction="SRP">Sell / Rent Property <sup class="Free posSt" style="color:#666">Free</sup></a> 
         <div class="rel hm_advice">
             <a class="advMenuHdr cDefault" href="javascript:void(0);">
-                Advice <i class="iconS hm-advice rf mt5"></i>
+                Advice 
+                <i class="iconS hm-advice rf mt5"></i>
             </a>
             <div class="row-list-menu DD-Menu-V">
                 <div class="menu-wrap posSt Dblk" id="adviceHdr">
@@ -89,7 +136,9 @@ Javascript is disabled in your browser due to this certain functionalities will 
             </div>
         </div>
         <a target="_blank" href="http://www.99acres.com/do/buyourservices/" trackaction="BOS">Buy Our Services</a>
-        <a target="_blank" id="homeLoan" class=" ddm" href="http://www.99acres.com/do/HomeLoan/" trc="HomeLoanClick" trackaction="HomeLoan">Home Loan</a>
+        <a target="_blank" href="http://builders.99acres.com">Builders in India</a>
+     <!-- dheeraj  <a target=_blank id="homeLoan" class=" ddm" href="/do/HomeLoan/" trc="HomeLoanClick"  trackAction="HomeLoan">Home Loan</a>
+    -->
     </div>
     
     <div class="pSearch">
@@ -111,13 +160,13 @@ Javascript is disabled in your browser due to this certain functionalities will 
         </form>
         <div class="clr"></div>
     </div>            
-
-    <div class="hrLine"></div>
+    
+    <div class="hrLine" id="hamHrLine"></div>
     <div class="touchLinks">
         <a trc="AppBandClick" target="_blank" href="http://www.99acres.com/mobile-apps" trackaction="Mobile">Mobile</a> |
         <a id="feedclick" trackaction="Feedback" trackval="OTH">Feedback</a> |
         <a href="http://www.infoedge.in" title="About Us" target="_blank" rel="nofollow" trackaction="About">About Us</a>
-        <div class="mb0 mt8">Toll Free <b>180041 99 00 99</b></div>
+        <div class="mb0 mt8">Toll Free <b>1800 41 99099</b></div>
         <div class="mt0 f10">MON-SAT | 9:30AM-6:30PM</div>
     </div>
 </nav>
@@ -145,8 +194,8 @@ Javascript is disabled in your browser due to this certain functionalities will 
 			</div>
 		</div>   
         <form id="lvl5_form" method="post" novalidate="" search_type="PROPERTY" class="chkradCustom" action="/do/quicksearch/search" name="search_form">
-            <input name="budget_min" value="0" class="acoff" id="budget_min" type="hidden" nameinerr="Min Budget">
-            <input name="budget_max" value="0" class="acoff" id="budget_max" type="hidden" nameinerr="Max Budget">
+            <input name="budget_min" value="" class="acoff" id="budget_min" type="hidden" nameinerr="Min Budget">
+            <input name="budget_max" value="" class="acoff" id="budget_max" type="hidden" nameinerr="Max Budget">
             <input type="hidden" class="acoff" name="search_type" value="QS">
             <input type="hidden" class="acoff" name="search_location" value="SH">
             <input type="hidden" class="acoff" name="lstAcn" value="">
@@ -164,7 +213,7 @@ Javascript is disabled in your browser due to this certain functionalities will 
     <div id="searchBg">
             <section id="search-bar-hp">
                 <div id="search-fld-wraper" class="clearfix">
-                    <div class="DinBk" style="vertical-align:top;">
+                    <div class="DinBk searchCtrlBox" style="vertical-align:top;">
                         
                    
         <div class="ptype-input-wrap lf">
@@ -269,10 +318,10 @@ Javascript is disabled in your browser due to this certain functionalities will 
 	<div id="search-filter" class="slideClose">
 				<div class="filter-item lf" id="avail_wrap">
                                     <input type="hidden" id="availability" name="availability" class="hidEle" autocomplete="off" value="">
-					<div class="head clearfix">Construction Status</div>
-					<div class="FI-Box" style="width:130px; white-space:nowrap;">
+					
+					<div class="FI-Box" style="white-space:nowrap;">
 						<a class="FI-Tag ddLClick dropDown frmEl">
-							<i class="setMid"></i><div id="underC" class="_myEdCap">All</div>
+							<i class="setMid"></i><div id="underC" class="_myEdCap">Construction Status</div>
 							<i class="iconS arrow-D-Icon"></i>
 						</a>	
 						<div id="s_avail" class="dd-list-menu ddlistOpen ddlstSrp showi flipClose" style="width:160px;">
@@ -284,10 +333,9 @@ Javascript is disabled in your browser due to this certain functionalities will 
 					</div>
 				</div>
                             <div class="filter-item  lf hide" id="np_search_type_wrap">
-					<div class="head clearfix">Construction Status</div>
-					<div class="FI-Box" style="width:130px; white-space:nowrap;">
+					<div class="FI-Box" style=" white-space:nowrap;">
 						<a class="FI-Tag ddLClick dropDown frmEl">
-							<i class="setMid"></i><div id="underC">All</div>
+							<i class="setMid"></i><div id="underC">Construction Status</div>
 							<i class="iconS arrow-D-Icon"></i>
 						</a>	
 						<div id="s_np_search_type" class="dd-list-menu ddlistOpen ddlstSrp showi   flipClose" style="width:160px;">
@@ -300,77 +348,82 @@ Javascript is disabled in your browser due to this certain functionalities will 
 					</div>
 				</div>
 				<div class="filter-item lf" id="budget_wrap">
-					<div id="priceLabel" class="head clearfix">Price</div>
-					<div id="buy_budget_min_wrap" class="FI-Box">
-                        <a class="FI-Tag ddLClick dropDown frmEl" style="width:120px">
-							<i class="setMid"></i><div>Min Price</div>
-							<i class="iconS arrow-D-Icon"></i>
-						</a>	
-						<div id="s_buy_budget_min" class="dd-list-menu ddlistOpen ddlstSrp showi   flipClose" style="width:110px;">
-						<div class="cScroll scrollbar96 mti5" style="height:200px">
-								<div class="ddlist" id="buy_minprice">
-								<a val="0">Min</a>
-                                                                <a val="1">Below 5 Lacs</a><a val="2">5 Lacs</a><a val="3">10 Lacs</a><a val="4">15 Lacs</a><a val="5">20 Lacs</a><a val="6">25 Lacs</a><a val="7">30 Lacs</a><a val="8">40 Lacs</a><a val="9">50 Lacs</a><a val="10">60 Lacs</a><a val="11">75 Lacs</a><a val="12">90 Lacs</a><a val="13">1 Crore</a><a val="14">1.5 Crores</a><a val="15">2 Crores</a><a val="16">3 Crores</a><a val="17">5 Crores</a><a val="18">10 Crores</a><a val="19">20 Crores</a><a val="20">30 Crores</a><a val="21">40 Crores</a><a val="22">50 Crores</a><a val="23">60 Crores</a><a val="24">70 Crores</a><a val="25">80 Crores</a><a val="26">90 Crores</a><a val="27">100 Crores</a><a val="28">100+ Crores</a><a val="99">On Request</a>								
-							</div>
-
-								</div>
-                                                    
-							</div>
-						
-							
-						</div>
-                        <div id="rent_budget_min_wrap" class="FI-Box hide">
-                            <a class="FI-Tag ddLClick dropDown frmEl" style="width:120px;">
-                                <i class="setMid"></i><div>Min Price</div>
+                        <!--dheeraj goyal -->
+                        <div id="budget_sub_wrap" class="FI-Box">
+                            <a class="FI-Tag ddLClick dropDown frmEl" style="">
+                                <i class="setMid"></i><div class="priceLbl">Price</div>
+                                <i class="iconS arrow-D-Icon"></i>
+                            </a>
+                            <div id="s_budget" class="dd-list-menu ddlistOpen ddlstSrp showi  priceDrop flipClose" style="">
+                        <div class="combFI">
+                        <div id="buy_budget_min_wrap" class="FI-Box">
+                            <a class="FI-Tag ddLClick  frmEl" style="">
+                                <i class="setMid"></i><div class="hyphen">Min</div>
                                 <i class="iconS arrow-D-Icon"></i>
                             </a>	
-                            <div id="s_rent_budget_min" class="dd-list-menu ddlistOpen ddlstSrp showi   flipClose" style="width:110px;">
+                            <div id="s_buy_budget_min" class="dd-list-menu ddlistOpen  showi   " style="width:100%;">
+                                <div class="cScroll scrollbar96 mti5" style="height:200px">
+                                    <div class="ddlist" id="buy_minprice">
+                                        <a val="0">Min</a>
+                                        <a val="1">Below 5 Lacs</a><a val="2">5 Lacs</a><a val="3">10 Lacs</a><a val="4">15 Lacs</a><a val="5">20 Lacs</a><a val="6">25 Lacs</a><a val="7">30 Lacs</a><a val="8">40 Lacs</a><a val="9">50 Lacs</a><a val="10">60 Lacs</a><a val="11">75 Lacs</a><a val="12">90 Lacs</a><a val="13">1 Crore</a><a val="14">1.5 Crores</a><a val="15">2 Crores</a><a val="16">3 Crores</a><a val="17">5 Crores</a><a val="18">10 Crores</a><a val="19">20 Crores</a><a val="20">30 Crores</a><a val="21">40 Crores</a><a val="22">50 Crores</a><a val="23">60 Crores</a><a val="24">70 Crores</a><a val="25">80 Crores</a><a val="26">90 Crores</a><a val="27">100 Crores</a><a val="28">100+ Crores</a><a val="99">On Request</a>                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="rent_budget_min_wrap" class="FI-Box" style="display:none;">
+                            <a class="FI-Tag ddLClick  frmEl" style="">
+                                <i class="setMid"></i><div class="budget_inner_title hyphen" style="">Min</div>
+                                <i class="iconS arrow-D-Icon"></i>
+                            </a>	
+                            <div id="s_rent_budget_min" class="dd-list-menu ddlistOpen  showi  " style="width:100%px;">
                                 <div class="cScroll scrollbar96 mti5" style="height:200px">
                                     <div class="ddlist" id="buy_minprice">
                                         <a val="0">Min</a>
                                         <a val="100">&lt; 5000</a><a val="101">5,000</a><a val="102">10,000</a><a val="103">15,000</a><a val="104">20,000</a><a val="105">25,000</a><a val="106">30,000</a><a val="107">40,000</a><a val="108">50,000</a><a val="109">60,000</a><a val="110">75,000</a><a val="111">90,000</a><a val="112">1 Lac</a><a val="113">1.5 Lacs</a><a val="114">2 Lacs</a><a val="115">5 Lacs</a><a val="116">10 Lacs</a><a val="117">10+ Lacs</a><a val="199">On Request</a>                                    </div>
                                 </div>
                             </div>
-						</div>
-					
-					<i>-</i>
-					<div class="FI-Box" id="buy_budget_max_wrap">
-						<a class="FI-Tag ddLClick dropDown frmEl" style="width:120px;">
-							<i class="setMid"></i><div>Max Price</div>
-							<i class="iconS arrow-D-Icon"></i>
-						</a>	
-						<div id="s_buy_budget_max" class="dd-list-menu ddlistOpen ddlstSrp showi   flipClose" style="width:110px;">
-                            <div class="cScroll scrollbar96 mti5" style="height:200px;">
-                                <div class="ddlist" id="buy_maxprice">
-                                    <a val="0">Max</a>
-                                    <a val="1">Below 5 Lacs</a><a val="2">5 Lacs</a><a val="3">10 Lacs</a><a val="4">15 Lacs</a><a val="5">20 Lacs</a><a val="6">25 Lacs</a><a val="7">30 Lacs</a><a val="8">40 Lacs</a><a val="9">50 Lacs</a><a val="10">60 Lacs</a><a val="11">75 Lacs</a><a val="12">90 Lacs</a><a val="13">1 Crore</a><a val="14">1.5 Crores</a><a val="15">2 Crores</a><a val="16">3 Crores</a><a val="17">5 Crores</a><a val="18">10 Crores</a><a val="19">20 Crores</a><a val="20">30 Crores</a><a val="21">40 Crores</a><a val="22">50 Crores</a><a val="23">60 Crores</a><a val="24">70 Crores</a><a val="25">80 Crores</a><a val="26">90 Crores</a><a val="27">100 Crores</a><a val="28">100+ Crores</a><a val="99">On Request</a>                                </div>
+                        </div>
+                        
+                        <div class="FI-Box" id="buy_budget_max_wrap" style="margin-left:-3px">
+                            <a class="FI-Tag ddLClick  frmEl" style="">
+                                <i class="setMid"></i><div>Max</div>
+                                <i class="iconS arrow-D-Icon"></i>
+                            </a>	
+                            <div id="s_buy_budget_max" class="dd-list-menu ddlistOpen  showi   " style="margin-top:1px;width:100%;">
+                                <div class="cScroll scrollbar96 mti5" style="height:200px;">
+                                    <div class="ddlist" id="buy_maxprice">
+                                        <a val="0">Max</a>
+                                        <a val="1">Below 5 Lacs</a><a val="2">5 Lacs</a><a val="3">10 Lacs</a><a val="4">15 Lacs</a><a val="5">20 Lacs</a><a val="6">25 Lacs</a><a val="7">30 Lacs</a><a val="8">40 Lacs</a><a val="9">50 Lacs</a><a val="10">60 Lacs</a><a val="11">75 Lacs</a><a val="12">90 Lacs</a><a val="13">1 Crore</a><a val="14">1.5 Crores</a><a val="15">2 Crores</a><a val="16">3 Crores</a><a val="17">5 Crores</a><a val="18">10 Crores</a><a val="19">20 Crores</a><a val="20">30 Crores</a><a val="21">40 Crores</a><a val="22">50 Crores</a><a val="23">60 Crores</a><a val="24">70 Crores</a><a val="25">80 Crores</a><a val="26">90 Crores</a><a val="27">100 Crores</a><a val="28">100+ Crores</a><a val="99">On Request</a>                                    </div>
+                                </div>
                             </div>
-						</div>
-					</div>
-                    <div class="FI-Box hide" id="rent_budget_max_wrap">
-						<a class="FI-Tag ddLClick dropDown frmEl" style="width:120px;">
-							<i class="setMid"></i><div>Max Price</div>
-							<i class="iconS arrow-D-Icon"></i>
-						</a>	
-						<div id="s_rent_budget_max" class="dd-list-menu ddlistOpen ddlstSrp showi   flipClose" style="width:110px;">
-                            <div class="cScroll scrollbar96 mti5" style="height:200px;">
-                                <div class="ddlist" id="buy_maxprice">
-                                    <a val="0">Max</a>
-                                    <a val="100">&lt; 5000</a><a val="101">5,000</a><a val="102">10,000</a><a val="103">15,000</a><a val="104">20,000</a><a val="105">25,000</a><a val="106">30,000</a><a val="107">40,000</a><a val="108">50,000</a><a val="109">60,000</a><a val="110">75,000</a><a val="111">90,000</a><a val="112">1 Lac</a><a val="113">1.5 Lacs</a><a val="114">2 Lacs</a><a val="115">5 Lacs</a><a val="116">10 Lacs</a><a val="117">10+ Lacs</a><a val="199">On Request</a>                                </div>
+                        </div>
+                        <div class="FI-Box" id="rent_budget_max_wrap" style="display:none;margin-left: -3px;">
+                            <a class="FI-Tag ddLClick  frmEl" style="">
+                                <i class="setMid"></i><div>Max</div>
+                                <i class="iconS arrow-D-Icon"></i>
+                            </a>	
+                            <div id="s_rent_budget_max" class="dd-list-menu ddlistOpen  showi  " style="width:100%;  margin-top: 1px;">
+                                <div class="cScroll scrollbar96 mti5" style="height:200px;">
+                                    <div class="ddlist" id="buy_maxprice">
+                                        <a val="0">Max</a>
+                                        <a val="100">&lt; 5000</a><a val="101">5,000</a><a val="102">10,000</a><a val="103">15,000</a><a val="104">20,000</a><a val="105">25,000</a><a val="106">30,000</a><a val="107">40,000</a><a val="108">50,000</a><a val="109">60,000</a><a val="110">75,000</a><a val="111">90,000</a><a val="112">1 Lac</a><a val="113">1.5 Lacs</a><a val="114">2 Lacs</a><a val="115">5 Lacs</a><a val="116">10 Lacs</a><a val="117">10+ Lacs</a><a val="199">On Request</a>                                    </div>
+                                </div>
                             </div>
-						</div>
-					</div>
-                    <div class="clr"></div>
-				</div>
+                        </div>
+                        </div>
+                            </div>
+                        </div>
+<!--                        <div class="clr"></div>-->
+                    </div>
 				<div class="filter-item bedroom lf" id="bedroom_num_wrap">
-					<div class="head clearfix">Bedrooms
-                                        <input name="bedroom_num" id="bedroom_num" class="acoff" type="hidden">
-                                        </div>
+<!--					<div class="head clearfix">
+                                       
+                                        </div>-->
+                                     <input name="bedroom_num" id="bedroom_num" class="acoff" type="hidden">
 					<div class="FI-Box">
-                                            <a class="FI-Tag ddLClick dropDown frmEl"><i class="setMid"></i><div>Any</div><i class="iconS arrow-D-Icon"></i></a>
+                                            <a class="FI-Tag ddLClick dropDown frmEl"><i class="setMid"></i><div>Bedroom</div><i class="iconS arrow-D-Icon"></i></a>
 							
 						<div class="dd-list-menu ddlistOpen ddlstSrp showi   flipClose" id="s_bedroom_num" style="width:110px;">
-						<div class="cScroll scrollbar96 mti5" style="height:200px">
+						<div class="cScroll scrollbar96 scrollbar98 mti5" style="height:200px">
 							
 								
 								<div class="ddlist">
@@ -385,14 +438,13 @@ Javascript is disabled in your browser due to this certain functionalities will 
 					</div>
 
 				<div class="filter-item lf" id="posted_by_wrap">
-					<div class="head clearfix">Posted By
-                                        </div>
+					
 					<div class="FI-Box">
-						<a class="FI-Tag ddLClick dropDown frmEl" style="width:120px;">
-							<i class="setMid"></i><div>All</div>
+						<a class="FI-Tag ddLClick dropDown frmEl" style="">
+							<i class="setMid"></i><div>Posted By</div>
 							<i class="iconS arrow-D-Icon"></i>
 						</a>	
-						<div id="s_class" class="dd-list-menu ddlistOpen flipClose showi ddlstSrp" style="width:112px;display:block;">
+						<div id="s_class" class="dd-list-menu ddlistOpen flipClose showi ddlstSrp" style="width:100%;display:block;">
 							<div class="ddlist">
 									<a value="O" id="p_o" class="acoff"><i class="iconS unchecked"></i> Owner</a>
 									<a value="B" id="p_b" class="acoff"><i class="iconS unchecked"></i> Builder</a>
@@ -404,17 +456,16 @@ Javascript is disabled in your browser due to this certain functionalities will 
 				</div>
 				
                             <div class="filter-item lf hide" id="rent_op_wrap">
-					<div class="head clearfix">Search Type</div>
-					<div id="rent_op" class="FI-Box">
-						<a val="R" class="mr23"><i class="iconS radio-Yes"></i> Rent</a>
-						<a val="P"><i class="iconS radio-No"></i> PG</a>
-					</div>
+					<div class="head clearfix" style="display:inline-block;vertical-align: middle;margin: 5px 5px 0px 0px;">Search Type</div>
+                        <div id="rent_op" class="FI-Box" style="display:inline-block;vertical-align: middle;">
+                            <a val="R" class="mr10"><i class="iconS radio-Yes"></i> Rent</a>
+                            <a val="P"><i class="iconS radio-No"></i> PG</a>
+                        </div>
 				</div>
                 <div class="filter-item wdthFixAreaIe lf hide" id="area_wrap">
-					<div class="head clearfix">Area</div>
 					<div class="FI-Box">
-						<a class="FI-Tag ddLClick dropDown frmEl" style="max-width:140px;padding:2px 5px 0px;">
-                            <div id="area_lbl" class="addPdElip" style="width:85%;height:19px;">Area</div>
+						<a class="FI-Tag ddLClick dropDown frmEl" style="">
+                            <div id="area_lbl" class="addPdElip" style="">Area</div>
                             <i class="iconS arrow-D-Icon arrowHack"></i>
                         </a>
 						<div class="dd-list-menu nested1 ddlistOpen ddlstSrp showi   flipClose" id="s_area" htmlgrp="area" style="width:285px;">
@@ -441,14 +492,14 @@ Javascript is disabled in your browser due to this certain functionalities will 
 					</div>
 				</div>
 				<div class="rf mt8" id="clrAlTxt">
-                    <i class="iconS barV-Icon2"></i>
+<!--                    <i class="iconS barV-Icon2"></i>-->
                     <a id="clrAl" class="clearall">clear all</a>
                 </div>
 			</div>
                 <div class="clr"></div>	
 </div> </section></form>
 <input type="hidden" id="srchhdr_st" value="PROPERTY">
-<div id="srchhdr_srchFormData" class="hide">{"PROPERTY":{"res_com":"R","preference":"S","property_type":"R","city":null,"budget_min":null,"budget_max":null,"bedroom_num":null,"area_min":null,"area_max":null,"area_unit":null,"keyword":null,"np_search_type":null},"PROJECT":{"res_com":null,"preference":null,"property_type":null,"city":null,"bedroom_num":null,"budget_min":null,"budget_max":null,"area_min":null,"area_max":null,"area_unit":null,"selected_tab":null,"np_search_type":null},"DEALER":{"res_com":null,"preference":null,"property_type":null,"city":null,"bedroom_num":null,"budget_min":null,"budget_max":null,"area_min":null,"area_max":null,"area_unit":null,"selected_tab":null,"np_search_type":null}}</div>
+<input id="srchhdr_srchFormData" type="hidden" value="{&quot;PROPERTY&quot;:{&quot;res_com&quot;:&quot;R&quot;,&quot;preference&quot;:&quot;S&quot;,&quot;property_type&quot;:&quot;R&quot;,&quot;city&quot;:null,&quot;budget_min&quot;:null,&quot;budget_max&quot;:null,&quot;bedroom_num&quot;:null,&quot;area_min&quot;:null,&quot;area_max&quot;:null,&quot;area_unit&quot;:null,&quot;keyword&quot;:null,&quot;class&quot;:&quot;&quot;,&quot;np_search_type&quot;:null},&quot;PROJECT&quot;:{&quot;res_com&quot;:null,&quot;preference&quot;:null,&quot;property_type&quot;:null,&quot;city&quot;:null,&quot;bedroom_num&quot;:null,&quot;budget_min&quot;:null,&quot;budget_max&quot;:null,&quot;area_min&quot;:null,&quot;area_max&quot;:null,&quot;area_unit&quot;:null,&quot;selected_tab&quot;:null,&quot;np_search_type&quot;:null},&quot;DEALER&quot;:{&quot;res_com&quot;:null,&quot;preference&quot;:null,&quot;property_type&quot;:null,&quot;city&quot;:null,&quot;bedroom_num&quot;:null,&quot;budget_min&quot;:null,&quot;budget_max&quot;:null,&quot;area_min&quot;:null,&quot;area_max&quot;:null,&quot;area_unit&quot;:null,&quot;selected_tab&quot;:null,&quot;np_search_type&quot;:null}}">
 <script>
     var srpentityMap='',
         srchhdr_strPhraseValueMap='null';
@@ -461,50 +512,58 @@ Javascript is disabled in your browser due to this certain functionalities will 
 </script>
   
         <div class="rPane">
-                        <div id="setAlertTTPID" class="rel DinBk">
-                <a id="tool_tip4" class="_showTip set-alerts rel" href="http://www.99acres.com/do/buyer/ShowBuyerForms/DisplayForm?p1=0&amp;p2=S&amp;p3=0&amp;lstAcn=&amp;lstAcnId=">	<i class="iconS set-alerts-Icon"></i>
-                    <span class="set-alerts-sup abs">Set Alerts</span>
+            
+            <div id="setDealsTTPID" class="rel DinBk">
+                <a id="tool_tip4" class="_showTip set-deals rel" href="/do/deals/index/servePage">	
+                    <i class="iconS hdrIcn-deals-new"></i>
+                    <span class="set-alerts-sup abs">Deals</span>
                 </a>
             </div>
-            <div id="shListTTPID" class="rel DinBk">
-                <a class="_showTip shortlist rel" href="http://www.99acres.com/shortlisted-properties" target="_blank">
-                    <i class="iconS shortlist-Icon"></i>
-                    <span id="sl-count" class="sl_count abs"></span>
-                </a>
-                <div id="_shrtlst_txt" class="bluToolTip" style="display:none;">  </div>
+
+            <div id="setLoanTTPID" class=" rel DinBk">
+                 <a target="_blank" id="homeLoan" class="_showTip setLoan ddm" href="http://www.99acres.com/do/HomeLoan/" trc="HomeLoanClick" trackaction="HomeLoan">
+                     <i class="iconS hdrIcn-home-loans"></i>
+                     <span class="home-loans-sup abs">Home Loans</span>
+                 </a>
             </div>
-            <div id="loginHeader">
+
+ 
+            <div id="HmMenuTTPID" class=" rel DinBk">
+                 <a id="hmcontainer" class="setMenu ddm" href="javascript:void(0);" trackval="OTH">
+                     <i class="iconS ham-Icon"></i>
+
+                     <span class="menu-sup abs">Menu</span>
+                 </a>
+            </div>
+
+
+<div class="headerFloatRight">
+            
+    <div id="shListTTPID" class="rel DinBk topUtil">
+        <!--margin: 53px 6px 0px 0px;-->
+        <a class="_showTip shortlist rel" href="http://www.99acres.com/shortlisted-properties" target="_blank">
+            <i class="hdrIcn-shortlist iconS"></i>
+            <!--<span id="sl-count" class="sl_count abs"></span>-->
+        </a>
+<!--        <div id="_shrtlst_txt" class="bluToolTip" style="display:none;">  </div>-->
+    </div>
+
+    <div id="setAlertTTPID" class="rel DinBk topUtil">
+        <!--style="margin: 19px 6px 0px 0px;"-->
+                    <a id="tool_tip4" class="_showTip set-alerts rel" href="http://www.99acres.com/do/buyer/ShowBuyerForms/DisplayForm?p1=0&amp;p2=S&amp;p3=0&amp;lstAcn=&amp;lstAcnId=">	
+                        <i class="hdrIcn-set-alert iconS"></i>
+                        <!--<span class="set-alerts-sup abs">Set Alerts</span>-->
+                    </a>
+    </div>
     
-        <div id="login" class="DD-Menu-V DD-Hover _login">
-            <a href="http://www.99acres.com/property/loginpage.php" class="mmWrap Login f14">
-                <i class="iconS user"></i>
-                <div class="logCaption caption">Login</div>
-            </a>
-        </div>
-   </div>        
-<input type="hidden" id="loggedIn" value="0">
-<input type="hidden" id="userAuth" value="0"> 
-<input type="hidden" id="loggedUserClass" value="">
-<input type="hidden" id="searchBarFix">
-<script style="display:none;">
-    var userActionParams = { 
-        lstAcn: '', 
-        lstAcnId:'0' 
-    }, 
-    currentPageName='',
-    blockUrl = new Array('/property/inputproperty.php','/do/buyourservices','/ask'),
-    u= userActionParams;
-    u.p1 = '0';
-    u.p2 = 'S';
-    u.p3 = '0';
-    document.__rc = 'R';
-</script>
+</div>
+
         </div>
     </header>
 </div>			
 <div class="clr"></div>
-</div></div>
-
+</div></div>	
+	
 
 <div class="c content mTopFix ">
   <div class="mid_section f12">
@@ -515,9 +574,9 @@ You agree that IEIL may use personal information about you to improve its market
   
 </div>
 <div class="clr"></div>    <script>var jsb9date = new Date();jsb9recordTimes["SEARCH_FOOT_ST"]=jsb9date.getTime();</script></div>
-<div class="clr mt10"></div>
+<div class="clr mt10"></div><link rel="stylesheet" href="http://static.99acres.com/css/footer.min.589ad5e6c.css" type="text/css" media="all">    
     <div id="pdStickyHandler" class="footBG oflow textC"><img class="vbot" src="http://static.99acres.com/images/footer_cap-optmized.png"></div>
-    <link rel="stylesheet" href="http://static.99acres.com/css/footer-v1.3.css" type="text/css" media="all">    <div class="footerWraper" id="footerWrap">
+    <div class="footerWraper" id="footerWrap">
         <div class="fn foot">
                         <ul class="ftcity">
                 <li class="foot_hding">Real Estate in India </li>
@@ -560,6 +619,46 @@ You agree that IEIL may use personal information about you to improve its market
                                             <li>
                         <a title="Vadodara Real Estate" href="http://www.99acres.com/Vadodara-Real-Estate.htm">Vadodara</a></li>
                                             <li>
+                        <a title="Dehradun Real Estate" href="http://www.99acres.com/Dehradun-Real-Estate.htm">Dehradun</a></li>
+                                            <li>
+                        <a title="Patna Real Estate" href="http://www.99acres.com/Patna-Real-Estate.htm">Patna</a></li>
+                                            <li>
+                        <a title="Nasik Real Estate" href="http://www.99acres.com/Nasik-Real-Estate.htm">Nasik</a></li>
+                                            <li>
+                        <a title="Bhopal Real Estate" href="http://www.99acres.com/Bhopal-Real-Estate.htm">Bhopal</a></li>
+                                            <li>
+                        <a title="Vishakhapatnam Real Estate" href="http://www.99acres.com/Vishakhapatnam-Real-Estate.htm">Vishakhapatnam</a></li>
+                                            <li>
+                        <a title="Kanpur Real Estate" href="http://www.99acres.com/Kanpur-Real-Estate.htm">Kanpur</a></li>
+                                            <li>
+                        <a title="Varanasi Real Estate" href="http://www.99acres.com/Varanasi-Real-Estate.htm">Varanasi</a></li>
+                                            <li>
+                        <a title="Vijayawada Real Estate" href="http://www.99acres.com/Vijayawada-Real-Estate.htm">Vijayawada</a></li>
+                                            <li>
+                        <a title="Mysore Real Estate" href="http://www.99acres.com/Mysore-Real-Estate.htm">Mysore</a></li>
+                                            <li>
+                        <a title="Ranchi Real Estate" href="http://www.99acres.com/Ranchi-Real-Estate.htm">Ranchi</a></li>
+                                            <li>
+                        <a title="Raipur Real Estate" href="http://www.99acres.com/Raipur-Real-Estate.htm">Raipur</a></li>
+                                            <li>
+                        <a title="Mangalore Real Estate" href="http://www.99acres.com/Mangalore-Real-Estate.htm">Mangalore</a></li>
+                                            <li>
+                        <a title=" Real Estate" href="http://www.99acres.com"></a></li>
+                                            <li>
+                        <a title=" Real Estate" href="http://www.99acres.com"></a></li>
+                                            <li>
+                        <a title=" Real Estate" href="http://www.99acres.com"></a></li>
+                                            <li>
+                        <a title=" Real Estate" href="http://www.99acres.com"></a></li>
+                                            <li>
+                        <a title=" Real Estate" href="http://www.99acres.com"></a></li>
+                                            <li>
+                        <a title=" Real Estate" href="http://www.99acres.com"></a></li>
+                                            <li>
+                        <a title=" Real Estate" href="http://www.99acres.com"></a></li>
+                                            <li>
+                        <a title=" Real Estate" href="http://www.99acres.com"></a></li>
+                                            <li>
                         <a title=" Real Estate" href="http://www.99acres.com"></a></li>
                                 </ul>
             <ul class="ft99">
@@ -568,7 +667,6 @@ You agree that IEIL may use personal information about you to improve its market
                 <li><a title="National Home" href="http://www.99acres.com/Home-Real-Estate.htm" target="_blank">National Home</a> </li>
                 <li><a title="Buy Our Services" href="http://www.99acres.com/do/buyourservices">Buy Our Services</a></li>
                 <li><a title="Residential Property" href="http://www.99acres.com/property-real-estate-buy-rent-residential" target="_blank">Residential Property</a> </li>
-                <li trackval="FOOT_HOME_FINANCE"><a title="Home Finance" href="http://www.99acres.com/property/home_finance.php">Home Finance</a></li>
                 <li><a title="Commercial Property" href="http://www.99acres.com/property-real-estate-buy-rent-commercial" target="_blank">Commercial Property</a> </li>
                 <li><a title="Property Index and Prices" href="http://www.99acres.com/real-estate-property-rates-index" target="_blank">Price Trends</a> </li>
                 <li><a title="Services in India" href="http://www.99acres.com/Home-Real-Estate.htm">Services in India</a></li>
@@ -592,6 +690,7 @@ You agree that IEIL may use personal information about you to improve its market
                  <li><a title="Privacy Policy" href="http://www.99acres.com/load/Company/privacy?lstAcn=&amp;lstAcnId=&amp;src=FTR">Privacy Policy</a></li>
                  <li><a title="Summons/Notices" href="http://www.99acres.com/load/Company/summons_notices?lstAcn=&amp;lstAcnId=&amp;src=FTR">Summons/Notices</a></li>
                  <li><a title="Grievances" href="http://www.99acres.com/load/Company/grievances?lstAcn=&amp;lstAcnId=&amp;src=FTR">Grievances</a></li>
+<li><a title="Safety Guide" href="http://www.99acres.com/load/Company/safetyguide?lstAcn=&amp;lstAcnId=&amp;src=FTR">Safety Guide</a></li>
             </ul>
             <ul class="ftPtner">
                 <li class="foot_hding">Our Partners </li>
@@ -602,20 +701,23 @@ You agree that IEIL may use personal information about you to improve its market
                 <li><a title="Shiksha.com - Education Career Info" target="_blank" href="http://www.shiksha.com">Shiksha.com - Education Career Info</a></li>
                                 <li><a title="Policybazaar.com - Insurance India" target="_blank" href="http://www.policybazaar.com">Policybazaar.com - Insurance India</a></li>
                                 <li><a title="Meritnation.com - Online Educational Assessment" target="_blank" href="http://www.meritnation.com">Meritnation.com - Online Educational Assessment</a></li>
-                <li><a title="Zomato.com - Restaurant Directory" target="_blank" href="http://www.zomato.com">Zomato.com - Restaurant Directory</a></li>
-                <li><a title="Online discount shopping deals India" target="_blank" href="http://www.mydala.com">mydala - Best deals in India</a></li>
                 <li><a title="Buy Property in India" target="_blank" href="http://www.allcheckdeals.com/">Allcheckdeals.com</a></li>
+                <li><a title="PaisaBazaar.com" target="_blank" href="http://www.paisabazaar.com/">PaisaBazaar.com</a></li>
             </ul>
                         <div class="clr vp15"></div>
             <div class="lf textL" style="width:720px; ">
                 <div class="lf ">
                     <div class="f16 lf">
                         <div class="b f15">Connect with us</div>
-                            <iframe id="fbWG" src="about:blank" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:308px; height:68px;" allowtransparency="true"></iframe>
+                            <iframe id="fbWG" src="about:blank" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:308px; height:43px;" allowtransparency="true"></iframe>
+                            <div class="clr"></div>
+                           <!-- <script src="https://apis.google.com/js/platform.js" async defer></script>-->
+                            <g:follow href="https://plus.google.com/+99acres/posts" rel="publisher" height="24"></g:follow>
+                            <div class="fn f11">* India's No.1 Property Portal. Source: Alexa.com</div>
                         </div>
                         <div class="lf">
                             <div class="mt20"><iframe id="twitterWG" allowtransparency="true" frameborder="0" scrolling="no" src="about:blank" style="width:248px; height:28px;"></iframe></div>
-                                <a target="_blank" href="http://www.youtube.com/99acresindia"><em class="uiIcon m10 icnYtube"></em></a>
+                                <a target="_blank" href="http://www.youtube.com/user/99acresindia"><em class="uiIcon m10 icnYtube"></em></a>
                         </div>
                         <div class="lf lp10" style="border-left:1px #cfdbe1 solid;margin-left:6px;padding-bottom:6px;">
                             <div class="vm10 b f15">Mobile App</div>
@@ -648,13 +750,13 @@ You agree that IEIL may use personal information about you to improve its market
                     Usage of 99acres.com to upload content which enables targeting by religion/community/caste/race is prohibited. Please report inappropriate content by writing to us at <a href="mailto:legal@99acres.com?Subject=Report Inappropriate Content">report abuse</a>
             </div>
             <div class="fn foot_blackBar">
-            All right reserved - Info Edge (India) Ltd. A <i class="uiSprite naukri vmid"></i> group venture
+            All rights reserved - Info Edge (India) Ltd. A <i class="uiSprite naukri vmid"></i> group venture
             </div>
         </div>
         <input type="hidden" id="setSeoStaticData">
-    <div id="srchhdr_virtualCities" style="display:none;">[317,221,257,226,250,248,249,247,227,246,244,245,242,243,241,240,223,239,238,224,236,235,234,225,233,232,231,230,229,228,262,185,19,45,38,32,25,20,12,1]</div>
-    <div id="srchhdr_virtualCityMappings" style="display:none;">{"317":"512,319,318,317","221":"291,359,383,345,360,293,365,294,292,364,361,362,357,363,314,350,221","257":"73,77,78,168,257","226":"280,493,455,529,408,483,213,281,488,214,25,544,282,413,358,283,429,215,226","250":"542,423,211,335,264,445,454,325,254,433,399,353,304,266,253,212,250","248":"195,196,248","249":"197,198,199,372,200,330,201,9,203,222,315,401,347,204,205,206,207,451,431,375,7,376,288,255,210,209,271,249","247":"183,184,247","227":"412,32,185,471,290,186,187,444,476,414,311,305,188,426,475,308,470,189,306,307,354,190,194,478,487,540,191,303,472,192,193,480,473,227","246":"176,276,497,402,496,277,289,296,535,511,299,338,177,178,503,485,179,180,468,352,378,531,405,432,536,395,450,302,342,181,246","244":"328,494,501,162,163,510,498,442,518,167,164,165,166,527,244","245":"169,491,287,502,170,336,171,316,172,173,174,175,458,411,505,245","242":"158,159,242","243":"160,161,243","241":"157,156,241","240":"154,155,240","223":"146,417,456,147,543,508,506,374,329,148,516,367,369,434,149,272,486,339,322,419,153,12,150,509,437,151,416,420,19,421,382,371,300,373,295,422,404,436,430,435,223","239":"140,457,351,530,448,141,526,142,143,418,394,145,490,521,479,515,517,144,443,239","238":"278,128,130,415,286,393,406,337,139,131,132,133,409,495,452,135,523,137,138,273,238","224":"538,20,118,119,482,120,440,343,438,301,532,121,439,122,123,127,398,124,441,125,126,392,461,380,407,533,224","236":"111,113,539,112,236","235":"279,106,107,110,534,465,108,109,341,235","234":"98,326,459,331,10,8,105,285,320,101,102,396,256,103,400,104,492,251,484,234","225":"45,84,368,86,87,88,541,537,425,403,90,424,97,91,321,466,92,477,428,464,463,519,453,397,348,514,93,349,94,95,96,462,381,467,225","233":"82,310,323,79,80,324,81,233","232":"74,346,76,500,386,410,507,75,388,232","231":"528,449,70,72,446,387,499,391,389,71,231","230":"69,67,447,68,230","229":"66,65,229","228":"52,64,298,522,53,54,525,38,524,344,309,340,55,513,334,297,56,57,327,332,58,333,460,60,61,62,377,63,520,228","262":"140,162,73,185,211,233,67,142,177,131,205,171,125,126,150,151,19,95,62,262","185":"185","19":"19","45":"48,49,46,47,45","38":"269,268,38","32":"35,33,34,36,32","25":"30,28,26,27,29,25","20":"23,22,21,217,252,20","12":"14,275,218,274,13,15,16,17,219,12","1":"6,220,4,2,3,5,10,9,222,8,7,1"}</div>
-    <div id="srchhdr_citiesWithSecondaryParents" style="display:none;">{"335":"250","354":"227","10":"1","9":"1","222":"1","8":"1","7":"1","372":"249","386":"232","387":"231"}</div>
+    <input id="srchhdr_virtualCities" type="hidden" value="[317,221,257,226,250,248,249,247,227,246,244,245,242,243,241,240,223,239,238,224,236,235,234,225,233,232,231,230,229,228,262,185,19,45,38,32,25,20,12,1]">
+    <input id="srchhdr_virtualCityMappings" type="hidden" value="{&quot;317&quot;:&quot;318,319,512,317&quot;,&quot;221&quot;:&quot;314,221&quot;,&quot;257&quot;:&quot;168,78,77,73,257&quot;,&quot;226&quot;:&quot;280,281,282,283,215,214,43482,25,213,358,408,493,529,604,550,488,483,413,429,455,544,226&quot;,&quot;250&quot;:&quot;264,266,304,254,253,44557,211,212,325,335,445,454,542,433,423,353,399,335,250&quot;,&quot;248&quot;:&quot;195,196,248&quot;,&quot;249&quot;:&quot;209,207,206,205,210,222,288,271,255,204,203,9,7,43081,44831,197,198,201,200,199,315,330,583,577,575,562,586,591,610,601,594,560,554,375,372,347,376,401,553,451,431,372,249&quot;,&quot;247&quot;:&quot;183,184,247&quot;,&quot;227&quot;:&quot;290,194,193,311,305,308,307,306,192,191,186,185,32,187,188,190,189,303,412,487,480,478,540,546,592,567,476,475,444,426,414,470,471,473,472,593,227&quot;,&quot;246&quot;:&quot;302,299,296,338,342,378,352,289,277,178,177,176,179,180,276,181,395,402,588,531,511,571,564,536,558,503,497,432,405,450,468,496,485,535,246&quot;,&quot;244&quot;:&quot;165,166,167,164,163,43012,162,328,442,527,568,518,510,494,501,498,244&quot;,&quot;245&quot;:&quot;175,287,316,336,174,173,169,170,171,172,411,458,579,580,581,585,578,563,491,502,505,552,587,245&quot;,&quot;242&quot;:&quot;158,159,242&quot;,&quot;243&quot;:&quot;160,161,243&quot;,&quot;241&quot;:&quot;156,157,241&quot;,&quot;240&quot;:&quot;154,155,240&quot;,&quot;223&quot;:&quot;329,339,322,300,295,367,369,382,374,373,371,272,153,19,12,43470,44626,146,147,151,150,149,148,404,416,516,509,508,506,609,608,569,570,597,598,486,456,421,420,419,417,422,430,437,436,435,434,543,223&quot;,&quot;239&quot;:&quot;351,394,418,443,145,144,140,141,142,143,448,457,530,566,565,556,526,521,479,490,515,517,555,239&quot;,&quot;238&quot;:&quot;133,135,137,138,132,131,44944,128,130,139,273,409,415,452,495,406,393,278,286,337,523,238&quot;,&quot;224&quot;:&quot;125,124,126,127,343,301,123,122,118,20,119,120,121,380,392,532,482,533,538,589,545,461,441,407,398,438,439,440,599,224&quot;,&quot;236&quot;:&quot;111,112,113,539,236&quot;,&quot;235&quot;:&quot;108,107,106,465,109,110,595,596,341,279,534,235&quot;,&quot;234&quot;:&quot;103,104,105,251,102,101,8,10,98,256,285,459,484,492,400,396,320,326,331,576,234&quot;,&quot;225&quot;:&quot;97,96,95,94,321,348,381,368,349,93,92,84,45,43447,86,87,91,90,88,397,403,541,537,519,514,547,561,590,584,582,477,467,428,425,424,453,462,466,464,463,603,225&quot;,&quot;233&quot;:&quot;80,79,81,82,323,310,324,233&quot;,&quot;232&quot;:&quot;346,76,75,74,410,500,572,573,507,386,232&quot;,&quot;231&quot;:&quot;72,389,71,70,44498,43789,391,446,602,557,528,499,449,387,231&quot;,&quot;230&quot;:&quot;67,68,69,447,230&quot;,&quot;229&quot;:&quot;65,66,229&quot;,&quot;228&quot;:&quot;63,62,61,64,297,309,298,60,58,53,52,38,54,55,57,56,327,332,548,525,524,549,551,574,559,522,520,340,334,333,344,377,513,460,43332,228&quot;,&quot;262&quot;:&quot;67,62,151,95,150,233,205,171,125,142,177,185,131,126,19,211,162,140,73,262&quot;,&quot;185&quot;:185,&quot;19&quot;:19,&quot;45&quot;:&quot;46,47,48,49,45&quot;,&quot;38&quot;:&quot;268,269,38&quot;,&quot;32&quot;:&quot;33,34,35,36,32&quot;,&quot;25&quot;:&quot;26,27,28,29,30,25&quot;,&quot;20&quot;:&quot;21,22,23,217,252,20&quot;,&quot;12&quot;:&quot;15,14,13,16,17,274,219,218,275,12&quot;,&quot;1&quot;:&quot;5,4,3,2,6,220,7,9,10,8,222,1&quot;}">
+    <input id="srchhdr_citiesWithSecondaryParents" type="hidden" value="{&quot;354&quot;:&quot;227&quot;,&quot;387&quot;:&quot;231&quot;,&quot;386&quot;:&quot;232&quot;,&quot;372&quot;:&quot;249&quot;,&quot;335&quot;:&quot;250&quot;,&quot;222&quot;:&quot;1&quot;,&quot;7&quot;:&quot;1&quot;,&quot;9&quot;:&quot;1&quot;,&quot;10&quot;:&quot;1&quot;,&quot;8&quot;:&quot;1&quot;}">
         <script>var jsb9date = new Date();jsb9recordTimes["SEARCH_FOOT_END"]=jsb9date.getTime();</script>    <script>var jsb9date = new Date();jsb9recordTimes["SEARCH_VIZ_ST"]=jsb9date.getTime();</script><script>
     if(show_bounzd==true) {
         appnedCallThirdParty('www.bounzd.com/api/jquery.bounzd-1.1.js');
@@ -695,7 +797,24 @@ You agree that IEIL may use personal information about you to improve its market
         jsData.noBudget = "1";
         jsData.bedRoomNum = "";
         jsData.propertyType = "";
-        jsData.areaMin = 0;jsData.areaMax = 0;    </script>
+        jsData.description = jsData.budgetMin.concat(' to ').concat(jsData.budgetMax);
+        jsData.category = ['Projects',jsData.cityName , jsData.locality,jsData.description];
+        jsData.areaMin = 0;jsData.areaMax = 0;
+        jsData.sitetype = "d";
+        jsData.email_address = "";
+        if( typeof google_tag_params != 'undefined')
+        {
+            jsData.productids = google_tag_params['dynx_itemid'];
+        }
+    </script>
+
+<script>
+if( typeof google_tag_params != 'undefined')
+{
+google_tag_params['price_min'] = jsData.budgetMin;
+google_tag_params['price_max'] = jsData.budgetMax;
+}
+</script>
 
     <noscript id="use_gtm_tracking"><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TRVNRW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <script>
@@ -703,9 +822,10 @@ You agree that IEIL may use personal information about you to improve its market
     var bnr=[];
 </script>
     <script>var jsb9date = new Date();jsb9recordTimes["SEARCH_CLICKTALE_ST"]=jsb9date.getTime();</script>    <script>var jsb9date = new Date();jsb9recordTimes["SEARCH_CLICKTALE_END"]=jsb9date.getTime();</script>    <script>var jsb9date = new Date();jsb9recordTimes["SEARCH_JSB9_ST"]=jsb9date.getTime();</script>	<script>jsb9recordTimes["HeadFlushTime"]=0;</script>    <script>   		jsb9eraseCookie("jsb9Track");var prevWindowOnunload=window.onbeforeunload;window.onbeforeunload=function(){try{if(typeof(prevWindowOnunload)=="function"){prevWindowOnunload.call()}}catch(a){}jsb9onUnloadTracking();};function jsb9onUnloadTracking(){jsb9eraseCookie("jsb9Track");var b=new Date();var a=b.getTime();var c=window.location.href;jsb9createCookie("jsb9Track",a+"|"+c,5)};var date= new Date();
-jsb9TrackEndTime=date.getTime();function jsb9TrackTime(){jsb9TrackFinalLoad=(new Date()).getTime();if(typeof(jsb9TrackVal)=="string"){var a=jsb9TrackVal.split("|");var c=a[0];var h=encodeURIComponent(a[1]);var d=document.createElement("div");d.id="jsb9Div";var b="border:0;width:0;height:0;display:none;visibility:hidden";var e=1434869967.9945;var k=encodeURIComponent(window.location.href);var j="";for(var g in jsb9recordTimes){j+="|"+g+":"+jsb9recordTimes[g]}var f=k+"|"+h+"|"+c+"|"+jsb9TrackStartTime+"|"+jsb9TrackEndTime+"|"+jsb9TrackFinalLoad+"|"+e+j+"";d.innerHTML='<iframe border="0" height=0 widht=0 style="visibility: hidden;display:none" src="http://track.99acres.com/images/zero.gif?data='+f+'|SERVER_ID:119"></iframe>';document.body.appendChild(d)}};
+jsb9TrackEndTime=date.getTime();function jsb9TrackTime(){jsb9TrackFinalLoad=(new Date()).getTime();if(typeof(jsb9TrackVal)=="string"){var a=jsb9TrackVal.split("|");var c=a[0];var h=encodeURIComponent(a[1]);var d=document.createElement("div");d.id="jsb9Div";var b="border:0;width:0;height:0;display:none;visibility:hidden";var e=1464255961.8289;var k=encodeURIComponent(window.location.href);var j="";for(var g in jsb9recordTimes){j+="|"+g+":"+jsb9recordTimes[g]}var f=k+"|"+h+"|"+c+"|"+jsb9TrackStartTime+"|"+jsb9TrackEndTime+"|"+jsb9TrackFinalLoad+"|"+e+j+"";d.innerHTML='<iframe border="0" height=0 widht=0 style="visibility: hidden;display:none" src="http://track.99acres.com/images/zero.gif?data='+f+'|SERVER_ID:web6"></iframe>';document.body.appendChild(d)}};
     </script>    <script>var jsb9date = new Date();jsb9recordTimes["SEARCH_JSB9_END"]=jsb9date.getTime();</script>    <script>var jsb9date = new Date();jsb9recordTimes["SEARCH_SEMLAYER_END"]=jsb9date.getTime();</script> 
     <div class="back-top-Wrap hide" page="SEARCH_PAGE" val=""><i class=" iconS scrollup" id="back_to_top"></i><br></div><div id="coverbgLyr"></div>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"35d098e923","applicationID":"4384533","transactionName":"Z1NRYxYEX0VTUEQLV14ZclQQDF5YHXBfD0hRWEoYFBdYQFNQSQ==","queueTime":0,"applicationTime":1055,"atts":"SxRSFV4eTEs=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+<!--google pls acript called from the onload  script-->
+
 
 </body></html>
