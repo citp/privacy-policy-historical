@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the allegromedical.com privacy policy that was archived on 2015-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151215201707id_/http%3A//www.allegromedical.com/support/privacyPolicy.do) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allegromedical.com privacy policy that was archived on 2016-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160526183658id_/http%3A//www.allegromedical.com/support/privacyPolicy.do) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -24,7 +24,6 @@
  	<link rel="stylesheet" type="text/css" href="http://static.allegromedical.com/include/css/accessibleMegaMenuModified.css">
  	<link rel="stylesheet" type="text/css" href="http://static.allegromedical.com/include/css/accessibleMainMenu.css">
  	<link rel="stylesheet" type="text/css" href="http://static.allegromedical.com/include/css/accessibleRightHeader.css">
-
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript">
 	
 	var expando = "jQuery" + now();
@@ -273,7 +272,7 @@
 
 		function checkSearchBox()
 		{
-			var defText = "Search 45,259 products";
+			var defText = "Search 44,843 products";
 			var str = jQuery.trim(jQuery("#searchfield").val());
 			if (str != "" && str != defText)
 			{
@@ -365,8 +364,9 @@ jQuery(document).ready(function() {
 
 <input type="hidden" name="ecatAlt" value="" id="ecatAlt">
 
-<div style="display: none" id="eCatHomePagePopupSelector">
+<div style="display: none" id="eCatHomePagePopupSelector" role="dialog" aria-labeledby="ecatalog" aria-describedby="myDesc">
 	<div style="width:695px; ">
+	<div id="myDesc" style="display:none">Please press Esc to close this dialog.</div>
 	<table style="border-collapse: collapse; position:absolute;width:100%;height:400px">
 		<tbody>
 		<tr style="width:100%">
@@ -374,7 +374,7 @@ jQuery(document).ready(function() {
 		<div class="ecatModalBk" style="width:695px;height: 355px; background: transparent url('http://static.allegromedical.com/images/browse/modal-offer.png') no-repeat;">
 		<br>
 		<div style="width:695px;height:25px;">
-			<div class="modalecatclose" style="cursor:pointer; cursor:hand; float:right;width:30px; height: 20px;" onclick="justClosePopupModal();">
+			<div class="modalecatclose" title="close" style="cursor:pointer; cursor:hand; float:right;width:30px; height: 20px;" onclick="justClosePopupModal();">
 			</div>
 			<form action="#" method="POST" onsubmit="ajaxSubscribe(this); return false;">
 				<input id="noecat" style="visibility:hidden" type="submit" name="Nope" value="No Thanks">
@@ -384,7 +384,7 @@ jQuery(document).ready(function() {
 		<div class="ecatPromoText" style="display:none; color: #053B87;    font-family: arial;    font-size: 36px;   font-weight: bold;  height: 31px;    margin-left: 370px;    margin-top: 14px;    width: 310px;"></div>
 		<div class="ecatPromoText2" style="display:none; color: #053B87;    font-family: arial;    font-size: 26px;    font-weight: bold; height: 31px;    margin-left: 370px;    margin-top: 130px;    width: 310px;"></div>
 		<div class="ecatcontent" style="font-family: arial">
-			<div id="ecatalog" class="sidebaritem">
+			<div id="ecatalog" class="sidebaritem" onload="focus();" tabindex="0">
 				<div style="width:300px; float:left; height: 355px; ">
 					<div class="ecatPromoText" style="color: #053B87;    font-size: 30px;  height: 31px;    margin-left: 40px;    margin-top: 84px;    width: 250px;"></div>
 					<div style="   color: #444444 ;font-size: 24px;    height: 31px;    margin-left: 40px;    margin-top: 95px; width: 225px;">Enter your email address to get the gift code.</div>
@@ -393,7 +393,7 @@ jQuery(document).ready(function() {
 					<form action="#" method="POST" onsubmit="ajaxSubscribe(this);return false;">
 						<input type="hidden" name="action" value="Yes">
 						<input name="email" title="enter email address" style="-moz-border-radius: 6px; border-radius: 6px;color: #777777; border:1px solid #777; width: 250px;font-size: 13px;height: 19px;margin-left: 81px;margin-top: 151px;padding: 8px;" type="text" value="ENTER EMAIL ADDRESS" id="ecatPopupEmail" onkeyup="jQuery('#ecatAlt').val(this.value);" onfocus="if(this.value=='ENTER EMAIL ADDRESS'){ this.value=''}" onblur="if(this.value=='') {this.value='ENTER EMAIL ADDRESS';}jQuery('#ecatAlt').val(this.value);">
-						<input name="referringPage" type="hidden" id="referringPage" value="Modal_Popup at %2Fsupport%2FprivacyPolicy.do%3F">
+						<input name="referringPage" type="hidden" id="referringPage" value="Modal_Popup at %2Fsupport%2FprivacyPolicy.do">
 						<input id="ecatyes" style="display:none" class="ecatSignup" type="image" alt="Submit" src="http://static.allegromedical.com/images/button/signup.png">
 					</form>
 					<div class="errorEcat" style="color:#fff; height: 21px; margin-left: 85px; margin-top: 2px; width: 207px;"></div>
@@ -439,12 +439,12 @@ jQuery(document).ready(function() {
 		}
 		function getServerTime() {
 			var time = null;
-		    time = new Date(1450210627748);
+		    time = new Date(1464287818058);
 		    return time; 
 		}
 	
 		jQuery(".banner-countdown-timer .timer").countdown({ 
-			until: new Date(1450508400000),
+			until: new Date(1464418800000),
 			compact: true,
 			format:'DHMS',
 			onExpiry: closePromoTimer,
@@ -458,12 +458,12 @@ jQuery(document).ready(function() {
 
 <div id="banner-across-top">
         <div id="banner-across-top-promo-info">
-                <div id="banner-across-top-promo-code">Use Gift Code: DEC99</div>
+                <div id="banner-across-top-promo-code">Use Gift Code: MAY25</div>
         	<div class="promo-text hand-cursor" id="banner-across-top-details">*See Details »</div>
-		<div id="banner-across-top-offer-end" style="display:none">Offer Ends 2015-12-19</div>
+		<div id="banner-across-top-offer-end" style="display:none">Offer Ends 2016-05-28</div>
 	</div>
-        <div id="banner-across-top-promo-text">99 CENT SHIPPING - NO MINIMUM</div>
-	<div class="banner-ends-in">Hurry,<br>Ends in:<div class="hide">Ends Dec 19, 2015 1:00:00 AM CT</div></div>
+        <div id="banner-across-top-promo-text">60% OFF LIST + FREE SHIPPING OVER $25</div>
+	<div class="banner-ends-in">Hurry,<br>Ends in:<div class="hide">Ends May 28, 2016 2:00:00 AM CT</div></div>
 	<div class="banner-countdown-timer"><div class="timer"></div></div>
 </div>
 
@@ -483,7 +483,7 @@ jQuery(document).ready(function() {
 			<td class="ajaxMainData">
 <br>
 			<div id="promo-text" class="promo-text" style="height:323px;overflow:auto;">
-<div id="gpdiv"><p> 99 Cent Shipping. No minimum. Use gift certificate code <span class="bold">DEC99</span> at checkout. Offer Ends Midnight Friday.</p>
+<div id="gpdiv"><p> 60% Off List plus Free Shipping over $25. Use gift certificate code <span class="bold">MAY25</span> at checkout. Offer Ends Midnight Friday.</p>
 
 <p>Most products on Allegro Medical qualify for our offers. Due to restrictions the following products have been excluded from all Allegro Medical promotions and offers online:</p>
 
@@ -500,8 +500,7 @@ jQuery(document).ready(function() {
 
 <p>Other products may not qualify for additional discount. Exclusions may include, but are not limited to, products of certain size, weight, manufacturer price restrictions or products with savings/discounts already applied.</p>
 
-<p>Offers are available online only and are exclusive of applicable shipping and handling charges or taxes. Offers cannot be combined, are not available on all AllegroMedical.com products, and are subject to restrictions, limitations and blackout periods. Offers are not valid on prior purchases. Discount 
- applied at time of purchase will be taken off each item returned. Prices and charges are subject to change without notice.</p></div>
+<p>Offers are available online only and are exclusive of applicable shipping and handling charges or taxes. Offers cannot be combined, are not available on all AllegroMedical.com products, and are subject to restrictions, limitations and blackout periods. Offers are not valid on prior purchases. Discount applied at time of purchase will be taken off each item returned. Prices and charges are subject to change without notice.</p></div>
 			</div>
 			</td>
 			<td class="ajax-right"></td>
@@ -726,7 +725,7 @@ jQuery(function() {
 	
 		<div style="float:left">
 			<a style="width: 100px; " class="fixed" title="Phone Number for Customer Service">1-800-861-3211</a>
-			<br><span style="font-size:0.8em;text-align:center;font-weight:bold;float:left;color:#888">¡Hablemos Español!</span>
+			<br><span class="gray" style="font-size:0.8em;text-align:center;font-weight:bold;float:left;">¡Hablemos Español!</span>
 		</div>
 		
 	</div>
@@ -735,7 +734,7 @@ jQuery(function() {
 		
 			<div style="float:left;width:59%;text-align:center">
 							<span id="signinlink" style="border: none">
-							<a style="margin-top:37px;" class="bluelink" href="/signIn.do?successPath=%2Fsupport%2FprivacyPolicy.do%3F" accesskey="r" title="Visit Sign in/Register page">Sign In/<u>R</u>egister</a></span>
+							<a style="margin-top:37px;" class="bluelink" href="/signIn.do?successPath=%2Fsupport%2FprivacyPolicy.do" accesskey="r" title="Visit Sign in/Register page">Sign In/<u>R</u>egister</a></span>
 					<div class="bar"></div>
 			</div>
 		
@@ -752,7 +751,7 @@ jQuery(function() {
 								<div class="sub-nav">
 									<ul class="sub-nav-group">
 										<li><a href="/myaccount/details.do"><span>Order history</span></a></li>
-										<li><a href="/myaccount/details.do"><span>My profile</span></a></li>
+										<li><a href="/myaccount/details.do"><span>My Profile</span></a></li>
 										<li><a title="Order Status" href="/tracking/tracking.do"><span>Order status</span></a></li>
 									</ul>
 								</div>
@@ -775,7 +774,7 @@ jQuery(function() {
 			
 		</div>
 		<div id="right-menu-cart">
-			<a id="shoppingCartLink" class="fixed" style="padding-left:32px;" href="/shopping/displayCart.do" accesskey="p" title="View Shopping Cart">Sho<u>p</u>ping Cart <span style="color:#888" class="numberOfItemsInCart">(0)</span></a>
+			<a id="shoppingCartLink" class="fixed" style="padding-left:32px;" href="/shopping/displayCart.do" accesskey="p" title="View Shopping Cart">Sho<u>p</u>ping Cart <span class="numberOfItemsInCart gray">(0)</span></a>
 		</div>
 	</div>
 </div>
@@ -815,15 +814,15 @@ jQuery(function() {
 						<div style="width:240px;padding: 7px 0px 0 0">
 							<form action="/browse/browseProducts.do" onsubmit="return checkSearchBox()">
 								<div id="search_fields">
-									<input id="searchfield" title="Enter Search Terms" style="color:#999" name="searchPhrase" type="text" value="Search 45,259 products" onfocus="if (this.value.indexOf('Search') > -1) { this.value = ''; jQuery('#searchfield').css({color:'#000'}); }" onblur="if (this.value == '') { this.value='Search 45,259 products';  jQuery('#searchfield').css({color:'#999'});} ">
+									<input id="searchfield" title="Enter Search Terms" style="color:#999" name="searchPhrase" type="text" value="Search 44,843 products" onfocus="if (this.value.indexOf('Search') > -1) { this.value = ''; jQuery('#searchfield').css({color:'#000'}); }" onblur="if (this.value == '') { this.value='Search 44,843 products';  jQuery('#searchfield').css({color:'#999'});} ">
 									<input type="submit" value="Search">
 								</div>
 							</form>
 						</div>
-						<div style="right:0;position:relative;">
+						<div style="right:0;position:absolute;">
 								<div id="menu_bar_shadow">
 									<div style="padding-top: 2px;" role="navigation">
-<nav id="dawgdrops"> <ul class="nav-menu"> <li class="nav-item"> <a title="Category Sitemap" href="/categorysitemap.html" onclick="return false;" accesskey="c"><b>Shop By <u>C</u>ategory</b></a> <div class="sub-nav"> <ul class="sub-nav-group"> <li><a role="accessibleItem" href="/bariatric-c6776.html" title="Bariatric">Bariatric</a></li> <li><a role="accessibleItem" href="/bathroom-assists-c517.html" title="Bathroom Assists">Bathroom Assists</a></li> <li><a role="accessibleItem" href="/beds-c6812.html" title="Beds">Beds</a></li> <li><a role="accessibleItem" href="/canes-c6632.html" title="Canes">Canes</a></li> <li><a role="accessibleItem" href="/catheters-c539.html" title="Catheters">Catheters</a></li> <li><a role="accessibleItem" href="/children-pediatric-c531.html" title="Children/Pediatric">Children/Pediatric</a></li> <li><a role="accessibleItem" href="/crutches-c5009.html" title="Crutches">Crutches</a></li> <li><a role="accessibleItem" href="/cushions-covers-backs-c544.html" title="Cushions/Covers/Backs">Cushions/Covers/Backs</a></li> <li><a role="accessibleItem" href="/daily-living-aids-c519.html" title="Daily Living Aids">Daily Living Aids</a></li> <li><a role="accessibleItem" href="/defibrillators-c546.html" title="Defibrillators">Defibrillators</a></li> <li><a role="accessibleItem" href="/diabetic-supplies-c520.html" title="Diabetic Supplies">Diabetic Supplies</a></li> <li><a role="accessibleItem" href="/diagnostic-products-c521.html" title="Diagnostic Products">Diagnostic Products</a></li> <li><a role="accessibleItem" href="/dietary-supplements-c522.html" title="Dietary Supplements">Dietary Supplements</a></li> <li><a role="accessibleItem" href="/electrotherapy-c561.html" title="Electrotherapy">Electrotherapy</a></li> <li><a role="accessibleItem" href="/emergency-preparation-c565.html" title="Emergency Preparation">Emergency Preparation</a></li> <li><a role="accessibleItem" href="/exercise-fitness-c523.html" title="Exercise/Fitness">Exercise/Fitness</a></li> </ul> <ul class="sub-nav-group"> <li><a role="accessibleItem" href="/exam-gloves-latex-vinyl-nitrile-c6867.html" title="Exam Gloves - Latex/Vinyl/Nitrile">Exam Gloves - Latex/Vinyl/Nitrile</a></li> <li><a role="accessibleItem" href="/gift-ideas-c573.html" title="Gift Ideas">Gift Ideas</a></li> <li><a role="accessibleItem" href="/hair-care-c7479.html" title="Hair care">Hair Care</a></li> <li><a role="accessibleItem" href="/handcycles-c543.html" title="Handcycles">Handcycles</a></li> <li><a role="accessibleItem" href="/hospital-discharge-favorites-c5000.html" title="Hospital Discharge Favorites">Hospital Discharge Favorites</a></li> <li><a role="accessibleItem" href="/housewares-c5256.html" title="Housewares">Housewares</a></li> <li><a role="accessibleItem" href="/impotence-c574.html" title="Impotence">Impotence</a></li> <li><a role="accessibleItem" href="/incontinence-c525.html" title="Incontinence">Incontinence</a></li> <li><a role="accessibleItem" href="/infusion-iv-supplies-c6448.html" title="Infusion/IV Supplies">Infusion/IV Supplies</a></li> <li><a role="accessibleItem" href="/lift-chairs-c526.html" title="Lift Chairs">Lift Chairs</a></li> <li><a role="accessibleItem" href="/maternity-care-c527.html" title="Maternity Care">Maternity Care</a></li> <li><a role="accessibleItem" href="/mobility-scooters-c533.html" title="Mobility Scooters">Mobility Scooters</a></li> <li><a role="accessibleItem" href="/orthopedics-orthotics-c528.html" title="Orthopedics/Orthotics">Orthopedics/Orthotics</a></li> <li><a role="accessibleItem" href="/ostomy-supplies-c529.html" title="Ostomy Supplies">Ostomy Supplies</a></li> <li><a role="accessibleItem" href="/otc-medications-c6752.html" title="OTC Medications">OTC Medications</a></li> <li><a role="accessibleItem" href="/outdoor-gear-c5209.html" title="Outdoor Gear">Outdoor Gear</a></li> <li><a role="accessibleItem" href="/pain-management-c6489.html" title="Pain Relief">Pain Relief</a></li> </ul> <ul class="sub-nav-group"> <li><a role="accessibleItem" href="/patient-care-c530.html" title="Patient Care">Patient Care</a></li> <li><a role="accessibleItem" href="/personal-care-c532.html" title="Personal Care">Personal Care</a></li> <li><a role="accessibleItem" href="/personal-protection-c6473.html" title="Personal Protection">Personal Protection</a></li> <li><a role="accessibleItem" href="/pet-supplies-c563535.html" title="Pet Supplies">Pet Supplies</a></li> <li><a role="accessibleItem" href="/ramps-c559.html" title="Ramps">Ramps</a></li> <li><a role="accessibleItem" href="/respiratory-therapy-c534.html" title="Respiratory Therapy">Respiratory Therapy</a></li> <li><a role="accessibleItem" href="/sexual-health-c524.html" title="Sexual Health">Sexual Health</a></li> <li><a role="accessibleItem" href="/shoes-c575.html" title="Shoes">Shoes</a></li> <li><a role="accessibleItem" href="/skin-care-c535.html" title="Skin Care">Skin Care</a></li> <li><a role="accessibleItem" href="/surgical-supplies-c537.html" title="Surgical Supplies">Surgical Supplies</a></li> <li><a role="accessibleItem" href="/syringes-c570.html" title="Syringes">Syringes</a></li> <li><a role="accessibleItem" href="/travel-aids-c6857.html" title="Travel Aids">Travel Aids</a></li> <li><a role="accessibleItem" href="/treatment-furniture-c554.html" title="Treatment Furniture">Treatment Furniture</a></li> <li><a role="accessibleItem" href="/walkers-c516.html" title="Walkers">Walkers</a></li> <li><a role="accessibleItem" href="/wheelchairs-c540.html" title="Wheelchairs">Wheelchairs</a></li> <li><a role="accessibleItem" href="/wound-care-c541.html" title="Wound Care">Wound Care</a></li> </ul> <div class="seeAll"> <ul class="sub-nav-group allegrobottomline"> <li><a class="allegroAll" role="accessibleItem" title="See all categories" href="/categorysitemap.html"><b>See All Categories...</b></a></li> </ul> </div> </div> </li> <li class="nav-item"> <a title="See all Brands" href="/brandsitemap.html" onclick="return false;" accesskey="b"><b>Shop by <u>B</u>rand</b></a> <div class="sub-nav"> <ul class="sub-nav-group"> <li><a role="accessibleItem" href="/abena-bff8081813c291c19013c2b6e6c160089.html" title="Abena">Abena</a></li> <li><a role="accessibleItem" href="/ableware-b15772.html" title="Ableware">Ableware</a></li> <li><a role="accessibleItem" href="/alimed-b15590.html" title="AliMed">AliMed</a></li> <li><a role="accessibleItem" href="/aloe-vesta-bff8081812f018af6012f036e589f31dd.html" title="Aloe Vesta">Aloe Vesta</a></li> <li><a role="accessibleItem" href="/bard-b14921.html" title="Bard">Bard</a></li> <li><a role="accessibleItem" href="/brava-bff8081813b468448013b490f757c0060.html" title="Brava">Brava</a></li> <li><a role="accessibleItem" href="/bd-bff8081812ec3beab012ec4fb4baf20d0.html" title="BD">BD</a></li> <li><a role="accessibleItem" href="/boost-b15712.html" title="Boost">Boost</a></li> <li><a role="accessibleItem" href="/carnation-b15713.html" title="Carnation">Carnation</a></li> <li><a role="accessibleItem" href="/coloplast-bff808181191ad70001192aa306800338.html" title="Coloplast">Coloplast</a></li> <li><a role="accessibleItem" href="/colpac-b15689.html" title="ColPaC">ColPaC</a></li> <li><a role="accessibleItem" href="/cure-medical-bff8081811bbd86b2011bbddd16f600a8.html" title="Cure Medical">Cure Medical</a></li> <li><a role="accessibleItem" href="/curity-bff8081812f06b151012f0850f1a31828.html" title="Curity">Curity</a></li> <li><a role="accessibleItem" href="/dignity-bff8099810aa08115ea0df0f7414f0ff3.html" title="Dignity">Dignity</a></li> <li><a role="accessibleItem" href="/dover-bff8081812f06b151012f08406f0916d8.html" title="Dover">Dover</a></li> <li><a role="accessibleItem" href="/drive-b15763.html" title="Drive">Drive</a></li> <li><a role="accessibleItem" href="/dura-stick-b15694.html" title="Dura-Stick">Dura-Stick</a></li> <li><a role="accessibleItem" href="/encore-b15002.html" title="Encore">Encore</a></li> </ul> <ul class="sub-nav-group"> <li><a role="accessibleItem" href="/ensure-b15708.html" title="Ensure">Ensure</a></li> <li><a role="accessibleItem" href="/ez-access-bff8081812f447da2012f46a6e621579d.html" title="EZ-Access">EZ-Access</a></li> <li><a role="accessibleItem" href="/freedom-clear-bff8081812ee7cb26012ee9c042826606.html" title="Freedom Clear">Freedom Clear</a></li> <li><a role="accessibleItem" href="/freestyle-bff8081812ea4d878012ea5e90c190aa4.html" title="FreeStyle">FreeStyle</a></li> <li><a role="accessibleItem" href="/guardian-bff8081811d8cd634011d8d69f88d00b3.html" title="Guardian">Guardian</a></li> <li><a role="accessibleItem" href="/harmonie-bff8081812f259778012f2681917a156e.html" title="Harmonie">Harmonie</a></li> <li><a role="accessibleItem" href="/invacare-b15069.html" title="Invacare">Invacare</a></li> <li><a role="accessibleItem" href="/jevity-bff8081812ea4d878012ea62846e4223a.html">Jevity</a></li> <li><a role="accessibleItem" href="/kerlix-bff8081812f06b151012f0837e1181663.html" title="Kerlix">Kerlix</a></li> <li><a role="accessibleItem" href="/kinesio-b15728.html" title="Kinesio">Kinesio</a></li> <li><a role="accessibleItem" href="/dmi-b14990.html" title="DMI">Mabis DMI</a></li> <li><a role="accessibleItem" href="/magic-bullet-b15734.html" title="Magic Bullet">Magic Bullet</a></li> <li><a role="accessibleItem" href="/medipore-bff8081812e9fb220012ea0ea77cc1651.html" title="Medipore">Medipore</a></li> <li><a role="accessibleItem" href="/medline-b15324.html" title="Medline">Medline</a></li> <li><a role="accessibleItem" href="/mepilex-bff8081812f4eca56012f50ca10833d63.html" title="Mepilex">Mepilex</a></li> <li><a role="accessibleItem" href="/monoject-bff8081812f06b151012f081a48551551.html" title="Monoject">Monoject</a></li> <li><a role="accessibleItem" href="/new-image-bff8081812f2abdd3012f2c8cc4224fc9.html" title="New Image">New Image</a></li> <li><a role="accessibleItem" href="/nutren-bff8081812f688a20012f6a85c09b4954.html" title="Nutren">Nutren</a></li> </ul> <ul class="sub-nav-group"> <li><a role="accessibleItem" href="/onetouch-bff8081812f53f0b2012f5509671415c5.html" title="OneTouch">OneTouch</a></li> <li><a role="accessibleItem" href="/ossur-bff8081811b2826e0011b290eeacf0084.html" title="Ossur">Ossur</a></li> <li><a role="accessibleItem" href="/pediasure-b15710.html" title="Pediasure">Pediasure</a></li> <li><a role="accessibleItem" href="/prevail-bff8081812f018af6012f038c385534a1.html" title="Prevail">Prevail</a></li> <li><a role="accessibleItem" href="/rochester-medical-b15222.html" title="Rochester Medical">Rochester Medical</a></li> <li><a role="accessibleItem" href="/roho-b15225.html" title="Roho">Roho</a></li> <li><a role="accessibleItem" href="/rusch-b15231.html" title="Rusch">Rusch</a></li> <li><a role="accessibleItem" href="/sammons-preston-b15238.html" title="Sammons Preston">Sammons Preston</a></li> <li><a role="accessibleItem" href="/self-cath-bff8081812ee4859a012ee4c2d37803ce.html" title="Self-Catch">Self-Cath</a></li> <li><a role="accessibleItem" href="/sensi-care-bff8081812f350a8f012f374edd0f5dc1.html" title="Sensi-Care">Sensi-Care</a></li> <li><a role="accessibleItem" href="/smith-and-nephew-b15257.html" title="Smith &amp; Nephew">Smith &amp; Nephew</a></li> <li><a role="accessibleItem" href="/sur-fit-natura-bff8081812f350a8f012f37016832591b.html" title="SUR-FIT Natura">SUR-FIT</a></li> <li><a role="accessibleItem" href="/surgilube-bff8081812f447da2012f46971339564e.html" title="Surgilube">Surgilube</a></li> <li><a role="accessibleItem" href="/tena-bff8081812ed8582d012ed96ec44d45b1.html" title="TENA">TENA</a></li> <li><a role="accessibleItem" href="/tranquility-b15205.html" title="Tranquility">Tranquility</a></li> <li><a role="accessibleItem" href="/uplift-technologies-b15637.html" title="Uplift Technologies">Uplift Technologies</a></li> <li><a role="accessibleItem" href="/visco-memory-foam-b15753.html" title="Visco Memory Foam">Visco Memory Foam</a></li> <li><a role="accessibleItem" href="/wings-bff8081812f06b151012f082164cc157d.html" title="Wings">Wings</a></li> </ul> <div class="seeAll"> <ul class="sub-nav-group allegrobottomline"> <li><a class="allegroAll" role="accessibleItem" title="See all Brands" href="/brandsitemap.html"><b>See All Brands...</b></a></li> </ul> </div> </div> </li> <li class="nav-item"> <a title="See all Conditions" href="/browse/attributeMap.do" onclick="return false;" accesskey="o"><b>Shop by C<u>o</u>ndition™</b></a> <div class="sub-nav leftSideCondition"> <ul class="sub-nav-group"> <li><a role="accessibleItem" href="/attr-condition-Allergies%252C%2BNasal.html" title="Allergies, Nasal">Allergies, Nasal</a></li> <li><a role="accessibleItem" href="/attr-condition-Alzheimers%2B-%2BDementia.html" title="Alzheimers / Dementia">Alzheimers / Dementia</a></li> <li><a role="accessibleItem" href="/attr-condition-Ankle%2BPain.html" title="Ankle Pain">Ankle Pain</a></li> <li><a role="accessibleItem" href="/attr-condition-Arthritis.html" title="Arthritis">Arthritis</a></li> <li><a role="accessibleItem" href="/attr-condition-Asthma.html" title="Asthma">Asthma</a></li> <li><a role="accessibleItem" href="/attr-condition-Athletes%2BFoot.html" title="Athletes Foot">Athletes Foot</a></li> <li><a role="accessibleItem" href="/attr-condition-Back%2BPain.html" title="Back Pain">Back Pain</a></li> <li><a role="accessibleItem" href="/attr-condition-Balance%2Band%2BCore%2BStability.html" title="Balance / Core Stability">Balance / Core Stability</a></li> <li><a role="accessibleItem" href="/attr-condition-Bed%2BWetting.html" title="Bed Wetting">Bed Wetting</a></li> <li><a role="accessibleItem" href="/attr-condition-Bedridden.html" title="Bedridden">Bedridden</a></li> <li><a role="accessibleItem" href="/attr-condition-Blindness%2Bor%2BLow%2BVision.html" title="Blindness / Low Vision">Blindness / Low Vision</a></li> <li><a role="accessibleItem" href="/attr-condition-Carpal%2BTunnel.html" title="Carpal Tunnel">Carpal Tunnel</a></li> <li><a role="accessibleItem" href="/attr-condition-Cerebral%2BPalsy.html" title="Cerebral Palsy">Cerebral Palsy</a></li> <li><a role="accessibleItem" href="/attr-condition-Cold%2B-%2BFlu.html" title="Cold / Flu">Cold / Flu</a></li> <li><a role="accessibleItem" href="/attr-condition-Constipation.html" title="Constipation">Constipation</a></li> <li><a role="accessibleItem" href="/attr-condition-Crohns%2BDisease.html" title="Crohns Disease">Crohns Disease</a></li> <li><a role="accessibleItem" href="/attr-condition-Diabetes.html" title="Diabetes">Diabetes</a></li> </ul> <ul class="sub-nav-group"> <li><a role="accessibleItem" href="/attr-condition-Diaper%2BRash.html" title="Diaper Rash">Diaper Rash</a></li> <li><a role="accessibleItem" href="/attr-condition-Diarrhea.html" title="Diarrhea">Diarrhea</a></li> <li><a role="accessibleItem" href="/attr-condition-Ebola.html" title="Ebola">Ebola</a></li> <li><a role="accessibleItem" href="/attr-condition-Foot%2BPain.html" title="Foot Pain">Foot Pain</a></li> <li><a role="accessibleItem" href="/attr-condition-Headache.html" title="Headache">Headache</a></li> <li><a role="accessibleItem" href="/attr-condition-Hearing%2BImpairment.html" title="Hearing Impairment">Hearing Impairment</a></li> <li><a role="accessibleItem" href="/attr-condition-Heartburn.html" title="Heartburn">Heartburn</a></li> <li><a role="accessibleItem" href="/attr-condition-Heel%2BSpurs.html" title="Heel Spurs">Heel Spurs</a></li> <li><a role="accessibleItem" href="/attr-condition-High%2BBlood%2BPressure.html" title="High Blood Pressure">High Blood Pressure</a></li> <li><a role="accessibleItem" href="/attr-condition-Hip%2BReplacement.html" title="Hip Replacement">Hip Replacement</a></li> <li><a role="accessibleItem" href="/attr-condition-Incontinence.html" title="Incontinence">Incontinence</a></li> <li><a role="accessibleItem" href="/attr-condition-Insomnia.html" title="Insomnia">Insomnia</a></li> <li><a role="accessibleItem" href="/attr-condition-Knee%2BPain.html" title="Knee Pain">Knee Pain</a></li> <li><a role="accessibleItem" href="/attr-condition-Knee%2BReplacement.html" title="Knee Replacement">Knee Replacement</a></li> <li><a role="accessibleItem" href="/attr-condition-Migraine.html" title="Migraine">Migraine</a></li> <li><a role="accessibleItem" href="/attr-condition-Multiple%2BSclerosis.html" title="Multiple Sclerosis">Multiple Sclerosis</a></li> </ul> <ul class="sub-nav-group"> <li><a role="accessibleItem" href="/attr-condition-Muscle%2BPain.html" title="Muscle Pain">Muscle Pain</a></li> <li><a role="accessibleItem" href="/attr-condition-Obesity.html" title="Obesity">Obesity</a></li> <li><a role="accessibleItem" href="/attr-condition-Paraplegia.html" title="Paraplegia">Paraplegia</a></li> <li><a role="accessibleItem" href="/attr-condition-Plantar%2BFasciitis.html" title="Plantar Fasciitis">Plantar Fasciitis</a></li> <li><a role="accessibleItem" href="/attr-condition-Post-Surgery.html" title="Post-Surgery">Post-Surgery</a></li> <li><a role="accessibleItem" href="/attr-condition-Pregnant%2B-%2BNewborn.html" title="Pregnant / Newborn">Pregnant / Newborn</a></li> <li><a role="accessibleItem" href="/attr-condition-Quadriplegia.html" title="Quadriplegia">Quadriplegia</a></li> <li><a role="accessibleItem" href="/attr-condition-Shin%2BSplints.html" title="Shin Splints">Shin Splints</a></li> <li><a role="accessibleItem" href="/attr-condition-Skin%2BCondition.html" title="Skin Condition">Skin Condition</a></li> <li><a role="accessibleItem" href="/attr-condition-Snoring.html" title="Snoring">Snoring</a></li> <li><a role="accessibleItem" href="/attr-condition-Stress.html" title="Stress">Stress</a></li> <li><a role="accessibleItem" href="/attr-condition-Stroke.html" title="Stroke">Stroke</a></li> <li><a role="accessibleItem" href="/attr-condition-Swallowing%2BDisorder.html" title="Swallowing Disorder">Swallowing Disorder</a></li> <li><a role="accessibleItem" href="/attr-condition-Tube%2BFeeding.html" title="Tube Feeding">Tube Feeding</a></li> <li><a role="accessibleItem" href="/attr-condition-Weight%2BGain%2BHelp.html" title="Weight Gain Help">Weight Gain Help</a></li> <li><a role="accessibleItem" href="/attr-condition-Weight%2BLoss%2BHelp.html" title="Weight Loss Help">Weight Loss Help</a></li> </ul> <div class="seeAll"> <ul class="sub-nav-group allegrobottomline"> <li><a class="allegroAll" role="accessibleItem" title="See all body parts" href="/browse/attributeMap.do"><b>See All Conditions...</b></a></li> </ul> </div> </div> </li> <li class="nav-item"> <a title="Shop by Body Part" href="/browse/shopByBodyPart.do" onclick="return false;" accesskey="p"><b>Shop by Body <u>P</u>art</b></a> <div class="sub-nav leftSideBodyPart"> <ul class="sub-nav-group"> <li><a role="accessibleItem" title="Ankles" href="/browse/browseProducts.do?searchPhrase=ankles">Ankles</a></li> <li><a role="accessibleItem" title="Arm" href="/browse/browseProducts.do?searchPhrase=arm+sling">Arm</a></li> <li><a role="accessibleItem" title="Back" href="/attr-condition-Back%2BPain.html">Back</a></li> <li><a role="accessibleItem" title="Calf" href="/browse/browseProducts.do?searchPhrase=calf">Calf</a></li> <li><a role="accessibleItem" title="Chest" href="/attr-condition-Cold%2B%252F%2BFlu.html">Chest</a></li> <li><a role="accessibleItem" title="Circulatory System" href="/diagnostic-products-c521/blood-pressure-monitors-c3637.html">Circulatory System</a></li> <li><a role="accessibleItem" title="Feet" href="/orthopedics-orthotics-c528/ankle-foot-c4061.html">Feet</a></li> <li><a role="accessibleItem" title="Hamstring" href="/browse/browseProducts.do?searchPhrase=Hamstring">Hamstring</a></li> <li><a role="accessibleItem" title="Head" href="/attr-condition-Headache.html">Head</a></li> <li><a role="accessibleItem" title="Heart" href="/diagnostic-products-c521/heart-rate-monitors-c4041.html">Heart</a></li> <li><a role="accessibleItem" title="Hip" href="/attr-condition-Hip%2BReplacement.html">Hip</a></li> <li><a role="accessibleItem" title="Ear" href="/attr-condition-Hearing%2BImpairment.html">Ear</a></li> <li><a role="accessibleItem" title="Elbow" href="/browse/browseProducts.do?searchPhrase=elbow">Elbow</a></li> <li><a role="accessibleItem" title="Eyes" href="/attr-condition-Blindness%2B%252F%2BLow%2BVision.html">Eyes</a></li> <li><a role="accessibleItem" title="Finger" href="/browse/browseProducts.do?searchPhrase=finger">Finger</a></li> </ul> <ul class="sub-nav-group"> <li><a role="accessibleItem" title="Knees" href="/orthopedics-orthotics-c528/knee-thigh-c3677.html">Knees</a></li> <li><a role="accessibleItem" title="Larynx" href="/daily-living-aids-c519/servox-digital-artificial-larynx-p189025.html">Larynx</a></li> <li><a role="accessibleItem" title="Lateral Ligament" href="/browse/browseProducts.do?searchPhrase=lateral+ligament">Lateral Ligament</a></li> <li><a role="accessibleItem" title="Lungs" href="/attr-condition-Asthma.html">Lungs</a></li> <li><a role="accessibleItem" title="Mouth" href="/attr-condition-Swallowing%2BDisorder.html">Mouth</a></li> <li><a role="accessibleItem" title="Neck" href="/orthopedics-orthotics-c528/neck-c3679.html">Neck</a></li> <li><a role="accessibleItem" title="Nose" href="/attr-condition-Allergies%252C%2BNasal.html">Nose</a></li> <li><a role="accessibleItem" title="Palm" href="/browse/browseProducts.do?searchPhrase=palm">Palm</a></li> <li><a role="accessibleItem" title="Penis" href="/impotence-c574.html">Penis</a></li> <li><a role="accessibleItem" title="Rectum" href="/browse/browseProducts.do?searchPhrase=suppository">Rectum</a></li> <li><a role="accessibleItem" title="Shoulder" href="/orthopedics-orthotics-c528/shoulder-c4102.html">Shoulder</a></li> <li><a role="accessibleItem" title="Thigh" href="/browse/browseProducts.do?searchPhrase=thigh">Thigh</a></li> <li><a role="accessibleItem" title="Thumb" href="/browse/browseProducts.do?searchPhrase=thumb">Thumb</a></li> <li><a role="accessibleItem" title="Toes" href="/browse/browseProducts.do?searchPhrase=toe">Toes</a></li> <li><a role="accessibleItem" title="Trachea" href="/browse/browseProducts.do?searchPhrase=trachea">Trachea</a></li> <li><a role="accessibleItem" title="Vagina" href="/browse/browseProducts.do?searchPhrase=menstrual">Vagina</a></li> </ul> <div class="seeAll"> <ul class="sub-nav-group allegrobottomline"> <li class="allegrobottomline"><a class="allegroAll" role="accessibleItem" title="See all body parts" href="/browse/shopByBodyPart.do"><b>See All Body Parts...</b></a></li> </ul> </div> </div> </li> <li class="nav-item"> <a title="Shop by Store" href="#" onclick="return false;" accesskey="s"><b>Shop by <u>S</u>tore</b></a> <div class="sub-nav leftSideStore"> <ul class="sub-nav-group"> <li><a href="/medical-equipment-store">Medical Equipment</a></li> <li><a href="/mobility-equipment-store">Mobility Equipment</a></li> <li><a href="/incontinence-store">Incontinence Store</a></li> <li><a href="/medical-supplies-store">Medical Supplies</a></li> <li><a href="/wound-care-store">Wound Care</a></li> <li><a href="/dietary-supplement-store">Dietary Supplement</a></li> <li><a href="/diabetic-supplies-store">Diabetic Supplies</a></li> <li><a href="/catheter-store">Catheter Store</a></li> </ul> </div> </li> </ul> </nav>									</div>
+<nav id="dawgdrops"> <ul class="nav-menu"> <li class="nav-item"> <a title="Category Sitemap" href="/categorysitemap.html" onclick="return false;" accesskey="c"><strong>Shop By <u>C</u>ategory</strong></a> <div class="sub-nav"> <ul class="sub-nav-group"> <li><a role="accessibleItem" href="/bariatric-c6776.html" title="Bariatric">Bariatric</a></li> <li><a role="accessibleItem" href="/bathroom-assists-c517.html" title="Bathroom Assists">Bathroom Assists</a></li> <li><a role="accessibleItem" href="/beds-c6812.html" title="Beds">Beds</a></li> <li><a role="accessibleItem" href="/canes-c6632.html" title="Canes">Canes</a></li> <li><a role="accessibleItem" href="/catheters-c539.html" title="Catheters">Catheters</a></li> <li><a role="accessibleItem" href="/children-pediatric-c531.html" title="Children/Pediatric">Children/Pediatric</a></li> <li><a role="accessibleItem" href="/crutches-c5009.html" title="Crutches">Crutches</a></li> <li><a role="accessibleItem" href="/cushions-covers-backs-c544.html" title="Cushions/Covers/Backs">Cushions/Covers/Backs</a></li> <li><a role="accessibleItem" href="/daily-living-aids-c519.html" title="Daily Living Aids">Daily Living Aids</a></li> <li><a role="accessibleItem" href="/defibrillators-c546.html" title="Defibrillators">Defibrillators</a></li> <li><a role="accessibleItem" href="/diabetic-supplies-c520.html" title="Diabetic Supplies">Diabetic Supplies</a></li> <li><a role="accessibleItem" href="/diagnostic-products-c521.html" title="Diagnostic Products">Diagnostic Products</a></li> <li><a role="accessibleItem" href="/dietary-supplements-c522.html" title="Dietary Supplements">Dietary Supplements</a></li> <li><a role="accessibleItem" href="/electrotherapy-c561.html" title="Electrotherapy">Electrotherapy</a></li> <li><a role="accessibleItem" href="/emergency-preparation-c565.html" title="Emergency Preparation">Emergency Preparation</a></li> <li><a role="accessibleItem" href="/exercise-fitness-c523.html" title="Exercise/Fitness">Exercise/Fitness</a></li> </ul> <ul class="sub-nav-group"> <li><a role="accessibleItem" href="/exam-gloves-latex-vinyl-nitrile-c6867.html" title="Exam Gloves - Latex/Vinyl/Nitrile">Exam Gloves - Latex/Vinyl/Nitrile</a></li> <li><a role="accessibleItem" href="/gift-ideas-c573.html" title="Gift Ideas">Gift Ideas</a></li> <li><a role="accessibleItem" href="/hair-care-c7479.html" title="Hair care">Hair Care</a></li> <li><a role="accessibleItem" href="/handcycles-c543.html" title="Handcycles">Handcycles</a></li> <li><a role="accessibleItem" href="/hospital-discharge-favorites-c5000.html" title="Hospital Discharge Favorites">Hospital Discharge Favorites</a></li> <li><a role="accessibleItem" href="/housewares-c5256.html" title="Housewares">Housewares</a></li> <li><a role="accessibleItem" href="/impotence-c574.html" title="Impotence">Impotence</a></li> <li><a role="accessibleItem" href="/incontinence-c525.html" title="Incontinence">Incontinence</a></li> <li><a role="accessibleItem" href="/infusion-iv-supplies-c6448.html" title="Infusion/IV Supplies">Infusion/IV Supplies</a></li> <li><a role="accessibleItem" href="/lift-chairs-c526.html" title="Lift Chairs">Lift Chairs</a></li> <li><a role="accessibleItem" href="/maternity-care-c527.html" title="Maternity Care">Maternity Care</a></li> <li><a role="accessibleItem" href="/mobility-scooters-c533.html" title="Mobility Scooters">Mobility Scooters</a></li> <li><a role="accessibleItem" href="/orthopedics-orthotics-c528.html" title="Orthopedics/Orthotics">Orthopedics/Orthotics</a></li> <li><a role="accessibleItem" href="/ostomy-supplies-c529.html" title="Ostomy Supplies">Ostomy Supplies</a></li> <li><a role="accessibleItem" href="/otc-medications-c6752.html" title="OTC Medications">OTC Medications</a></li> <li><a role="accessibleItem" href="/outdoor-gear-c5209.html" title="Outdoor Gear">Outdoor Gear</a></li> <li><a role="accessibleItem" href="/pain-management-c6489.html" title="Pain Relief">Pain Relief</a></li> </ul> <ul class="sub-nav-group"> <li><a role="accessibleItem" href="/patient-care-c530.html" title="Patient Care">Patient Care</a></li> <li><a role="accessibleItem" href="/personal-care-c532.html" title="Personal Care">Personal Care</a></li> <li><a role="accessibleItem" href="/personal-protection-c6473.html" title="Personal Protection">Personal Protection</a></li> <li><a role="accessibleItem" href="/pet-supplies-c563535.html" title="Pet Supplies">Pet Supplies</a></li> <li><a role="accessibleItem" href="/ramps-c559.html" title="Ramps">Ramps</a></li> <li><a role="accessibleItem" href="/respiratory-therapy-c534.html" title="Respiratory Therapy">Respiratory Therapy</a></li> <li><a role="accessibleItem" href="/sexual-health-c524.html" title="Sexual Health">Sexual Health</a></li> <li><a role="accessibleItem" href="/shoes-c575.html" title="Shoes">Shoes</a></li> <li><a role="accessibleItem" href="/skin-care-c535.html" title="Skin Care">Skin Care</a></li> <li><a role="accessibleItem" href="/surgical-supplies-c537.html" title="Surgical Supplies">Surgical Supplies</a></li> <li><a role="accessibleItem" href="/syringes-c570.html" title="Syringes">Syringes</a></li> <li><a role="accessibleItem" href="/travel-aids-c6857.html" title="Travel Aids">Travel Aids</a></li> <li><a role="accessibleItem" href="/treatment-furniture-c554.html" title="Treatment Furniture">Treatment Furniture</a></li> <li><a role="accessibleItem" href="/walkers-c516.html" title="Walkers">Walkers</a></li> <li><a role="accessibleItem" href="/wheelchairs-c540.html" title="Wheelchairs">Wheelchairs</a></li> <li><a role="accessibleItem" href="/wound-care-c541.html" title="Wound Care">Wound Care</a></li> </ul> <div class="seeAll"> <ul class="sub-nav-group allegrobottomline"> <li><a class="allegroAll" role="accessibleItem" title="See all Categories" href="/categorysitemap.html"><strong>See All Categories...</strong></a></li> </ul> </div> </div> </li> <li class="nav-item"> <a title="See all Brands" href="/brandsitemap.html" onclick="return false;" accesskey="b"><strong>Shop by <u>B</u>rand</strong></a> <div class="sub-nav"> <ul class="sub-nav-group"> <li><a role="accessibleItem" href="/abena-bff8081813c291c19013c2b6e6c160089.html" title="Abena">Abena</a></li> <li><a role="accessibleItem" href="/ableware-b15772.html" title="Ableware">Ableware</a></li> <li><a role="accessibleItem" href="/alimed-b15590.html" title="AliMed">AliMed</a></li> <li><a role="accessibleItem" href="/aloe-vesta-bff8081812f018af6012f036e589f31dd.html" title="Aloe Vesta">Aloe Vesta</a></li> <li><a role="accessibleItem" href="/bard-b14921.html" title="Bard">Bard</a></li> <li><a role="accessibleItem" href="/brava-bff8081813b468448013b490f757c0060.html" title="Brava">Brava</a></li> <li><a role="accessibleItem" href="/bd-bff8081812ec3beab012ec4fb4baf20d0.html" title="BD">BD</a></li> <li><a role="accessibleItem" href="/boost-b15712.html" title="Boost">Boost</a></li> <li><a role="accessibleItem" href="/carnation-b15713.html" title="Carnation">Carnation</a></li> <li><a role="accessibleItem" href="/coloplast-bff808181191ad70001192aa306800338.html" title="Coloplast">Coloplast</a></li> <li><a role="accessibleItem" href="/colpac-b15689.html" title="ColPaC">ColPaC</a></li> <li><a role="accessibleItem" href="/cure-medical-bff8081811bbd86b2011bbddd16f600a8.html" title="Cure Medical">Cure Medical</a></li> <li><a role="accessibleItem" href="/curity-bff8081812f06b151012f0850f1a31828.html" title="Curity">Curity</a></li> <li><a role="accessibleItem" href="/dignity-bff8099810aa08115ea0df0f7414f0ff3.html" title="Dignity">Dignity</a></li> <li><a role="accessibleItem" href="/dover-bff8081812f06b151012f08406f0916d8.html" title="Dover">Dover</a></li> <li><a role="accessibleItem" href="/drive-b15763.html" title="Drive">Drive</a></li> <li><a role="accessibleItem" href="/dura-stick-b15694.html" title="Dura-Stick">Dura-Stick</a></li> <li><a role="accessibleItem" href="/encore-b15002.html" title="Encore">Encore</a></li> </ul> <ul class="sub-nav-group"> <li><a role="accessibleItem" href="/ensure-b15708.html" title="Ensure">Ensure</a></li> <li><a role="accessibleItem" href="/ez-access-bff8081812f447da2012f46a6e621579d.html" title="EZ-Access">EZ-Access</a></li> <li><a role="accessibleItem" href="/freedom-clear-bff8081812ee7cb26012ee9c042826606.html" title="Freedom Clear">Freedom Clear</a></li> <li><a role="accessibleItem" href="/freestyle-bff8081812ea4d878012ea5e90c190aa4.html" title="FreeStyle">FreeStyle</a></li> <li><a role="accessibleItem" href="/guardian-bff8081811d8cd634011d8d69f88d00b3.html" title="Guardian">Guardian</a></li> <li><a role="accessibleItem" href="/harmonie-bff8081812f259778012f2681917a156e.html" title="Harmonie">Harmonie</a></li> <li><a role="accessibleItem" href="/invacare-b15069.html" title="Invacare">Invacare</a></li> <li><a role="accessibleItem" href="/jevity-bff8081812ea4d878012ea62846e4223a.html">Jevity</a></li> <li><a role="accessibleItem" href="/kerlix-bff8081812f06b151012f0837e1181663.html" title="Kerlix">Kerlix</a></li> <li><a role="accessibleItem" href="/kinesio-b15728.html" title="Kinesio">Kinesio</a></li> <li><a role="accessibleItem" href="/dmi-b14990.html" title="DMI">Mabis DMI</a></li> <li><a role="accessibleItem" href="/magic-bullet-b15734.html" title="Magic Bullet">Magic Bullet</a></li> <li><a role="accessibleItem" href="/medipore-bff8081812e9fb220012ea0ea77cc1651.html" title="Medipore">Medipore</a></li> <li><a role="accessibleItem" href="/medline-b15324.html" title="Medline">Medline</a></li> <li><a role="accessibleItem" href="/mepilex-bff8081812f4eca56012f50ca10833d63.html" title="Mepilex">Mepilex</a></li> <li><a role="accessibleItem" href="/monoject-bff8081812f06b151012f081a48551551.html" title="Monoject">Monoject</a></li> <li><a role="accessibleItem" href="/new-image-bff8081812f2abdd3012f2c8cc4224fc9.html" title="New Image">New Image</a></li> <li><a role="accessibleItem" href="/nutren-bff8081812f688a20012f6a85c09b4954.html" title="Nutren">Nutren</a></li> </ul> <ul class="sub-nav-group"> <li><a role="accessibleItem" href="/onetouch-bff8081812f53f0b2012f5509671415c5.html" title="OneTouch">OneTouch</a></li> <li><a role="accessibleItem" href="/ossur-bff8081811b2826e0011b290eeacf0084.html" title="Ossur">Ossur</a></li> <li><a role="accessibleItem" href="/pediasure-b15710.html" title="Pediasure">Pediasure</a></li> <li><a role="accessibleItem" href="/prevail-bff8081812f018af6012f038c385534a1.html" title="Prevail">Prevail</a></li> <li><a role="accessibleItem" href="/rochester-medical-b15222.html" title="Rochester Medical">Rochester Medical</a></li> <li><a role="accessibleItem" href="/roho-b15225.html" title="Roho">Roho</a></li> <li><a role="accessibleItem" href="/rusch-b15231.html" title="Rusch">Rusch</a></li> <li><a role="accessibleItem" href="/sammons-preston-b15238.html" title="Sammons Preston">Sammons Preston</a></li> <li><a role="accessibleItem" href="/self-cath-bff8081812ee4859a012ee4c2d37803ce.html" title="Self-Catch">Self-Cath</a></li> <li><a role="accessibleItem" href="/sensi-care-bff8081812f350a8f012f374edd0f5dc1.html" title="Sensi-Care">Sensi-Care</a></li> <li><a role="accessibleItem" href="/smith-and-nephew-b15257.html" title="Smith &amp; Nephew">Smith &amp; Nephew</a></li> <li><a role="accessibleItem" href="/sur-fit-natura-bff8081812f350a8f012f37016832591b.html" title="SUR-FIT Natura">SUR-FIT</a></li> <li><a role="accessibleItem" href="/surgilube-bff8081812f447da2012f46971339564e.html" title="Surgilube">Surgilube</a></li> <li><a role="accessibleItem" href="/tena-bff8081812ed8582d012ed96ec44d45b1.html" title="TENA">TENA</a></li> <li><a role="accessibleItem" href="/tranquility-b15205.html" title="Tranquility">Tranquility</a></li> <li><a role="accessibleItem" href="/uplift-technologies-b15637.html" title="Uplift Technologies">Uplift Technologies</a></li> <li><a role="accessibleItem" href="/visco-memory-foam-b15753.html" title="Visco Memory Foam">Visco Memory Foam</a></li> <li><a role="accessibleItem" href="/wings-bff8081812f06b151012f082164cc157d.html" title="Wings">Wings</a></li> </ul> <div class="seeAll"> <ul class="sub-nav-group allegrobottomline"> <li><a class="allegroAll" role="accessibleItem" title="See all Brands" href="/brandsitemap.html"><strong>See All Brands...</strong></a></li> </ul> </div> </div> </li> <li class="nav-item"> <a title="See all Conditions" href="/browse/attributeMap.do" onclick="return false;" accesskey="o"><strong>Shop by C<u>o</u>ndition™</strong></a> <div class="sub-nav leftSideCondition"> <ul class="sub-nav-group"> <li><a role="accessibleItem" href="/attr-condition-Allergies%252C%2BNasal.html" title="Allergies, Nasal">Allergies, Nasal</a></li> <li><a role="accessibleItem" href="/attr-condition-Alzheimers%2B-%2BDementia.html" title="Alzheimers / Dementia">Alzheimers / Dementia</a></li> <li><a role="accessibleItem" href="/attr-condition-Ankle%2BPain.html" title="Ankle Pain">Ankle Pain</a></li> <li><a role="accessibleItem" href="/attr-condition-Arthritis.html" title="Arthritis">Arthritis</a></li> <li><a role="accessibleItem" href="/attr-condition-Asthma.html" title="Asthma">Asthma</a></li> <li><a role="accessibleItem" href="/attr-condition-Athletes%2BFoot.html" title="Athletes Foot">Athletes Foot</a></li> <li><a role="accessibleItem" href="/attr-condition-Back%2BPain.html" title="Back Pain">Back Pain</a></li> <li><a role="accessibleItem" href="/attr-condition-Balance%2Band%2BCore%2BStability.html" title="Balance / Core Stability">Balance / Core Stability</a></li> <li><a role="accessibleItem" href="/attr-condition-Bed%2BWetting.html" title="Bed Wetting">Bed Wetting</a></li> <li><a role="accessibleItem" href="/attr-condition-Bedridden.html" title="Bedridden">Bedridden</a></li> <li><a role="accessibleItem" href="/attr-condition-Blindness%2Bor%2BLow%2BVision.html" title="Blindness / Low Vision">Blindness / Low Vision</a></li> <li><a role="accessibleItem" href="/attr-condition-Carpal%2BTunnel.html" title="Carpal Tunnel">Carpal Tunnel</a></li> <li><a role="accessibleItem" href="/attr-condition-Cerebral%2BPalsy.html" title="Cerebral Palsy">Cerebral Palsy</a></li> <li><a role="accessibleItem" href="/attr-condition-Cold%2B-%2BFlu.html" title="Cold / Flu">Cold / Flu</a></li> <li><a role="accessibleItem" href="/attr-condition-Constipation.html" title="Constipation">Constipation</a></li> <li><a role="accessibleItem" href="/attr-condition-Crohns%2BDisease.html" title="Crohns Disease">Crohns Disease</a></li> <li><a role="accessibleItem" href="/attr-condition-Diabetes.html" title="Diabetes">Diabetes</a></li> </ul> <ul class="sub-nav-group"> <li><a role="accessibleItem" href="/attr-condition-Diaper%2BRash.html" title="Diaper Rash">Diaper Rash</a></li> <li><a role="accessibleItem" href="/attr-condition-Diarrhea.html" title="Diarrhea">Diarrhea</a></li> <li><a role="accessibleItem" href="/attr-condition-Ebola.html" title="Ebola">Ebola</a></li> <li><a role="accessibleItem" href="/attr-condition-Foot%2BPain.html" title="Foot Pain">Foot Pain</a></li> <li><a role="accessibleItem" href="/attr-condition-Headache.html" title="Headache">Headache</a></li> <li><a role="accessibleItem" href="/attr-condition-Hearing%2BImpairment.html" title="Hearing Impairment">Hearing Impairment</a></li> <li><a role="accessibleItem" href="/attr-condition-Heartburn.html" title="Heartburn">Heartburn</a></li> <li><a role="accessibleItem" href="/attr-condition-Heel%2BSpurs.html" title="Heel Spurs">Heel Spurs</a></li> <li><a role="accessibleItem" href="/attr-condition-High%2BBlood%2BPressure.html" title="High Blood Pressure">High Blood Pressure</a></li> <li><a role="accessibleItem" href="/attr-condition-Hip%2BReplacement.html" title="Hip Replacement">Hip Replacement</a></li> <li><a role="accessibleItem" href="/attr-condition-Incontinence.html" title="Incontinence">Incontinence</a></li> <li><a role="accessibleItem" href="/attr-condition-Insomnia.html" title="Insomnia">Insomnia</a></li> <li><a role="accessibleItem" href="/attr-condition-Knee%2BPain.html" title="Knee Pain">Knee Pain</a></li> <li><a role="accessibleItem" href="/attr-condition-Knee%2BReplacement.html" title="Knee Replacement">Knee Replacement</a></li> <li><a role="accessibleItem" href="/attr-condition-Migraine.html" title="Migraine">Migraine</a></li> <li><a role="accessibleItem" href="/attr-condition-Multiple%2BSclerosis.html" title="Multiple Sclerosis">Multiple Sclerosis</a></li> </ul> <ul class="sub-nav-group"> <li><a role="accessibleItem" href="/attr-condition-Muscle%2BPain.html" title="Muscle Pain">Muscle Pain</a></li> <li><a role="accessibleItem" href="/attr-condition-Obesity.html" title="Obesity">Obesity</a></li> <li><a role="accessibleItem" href="/attr-condition-Paraplegia.html" title="Paraplegia">Paraplegia</a></li> <li><a role="accessibleItem" href="/attr-condition-Plantar%2BFasciitis.html" title="Plantar Fasciitis">Plantar Fasciitis</a></li> <li><a role="accessibleItem" href="/attr-condition-Post-Surgery.html" title="Post-Surgery">Post-Surgery</a></li> <li><a role="accessibleItem" href="/attr-condition-Pregnant%2B-%2BNewborn.html" title="Pregnant / Newborn">Pregnant / Newborn</a></li> <li><a role="accessibleItem" href="/attr-condition-Quadriplegia.html" title="Quadriplegia">Quadriplegia</a></li> <li><a role="accessibleItem" href="/attr-condition-Shin%2BSplints.html" title="Shin Splints">Shin Splints</a></li> <li><a role="accessibleItem" href="/attr-condition-Skin%2BCondition.html" title="Skin Condition">Skin Condition</a></li> <li><a role="accessibleItem" href="/attr-condition-Snoring.html" title="Snoring">Snoring</a></li> <li><a role="accessibleItem" href="/attr-condition-Stress.html" title="Stress">Stress</a></li> <li><a role="accessibleItem" href="/attr-condition-Stroke.html" title="Stroke">Stroke</a></li> <li><a role="accessibleItem" href="/attr-condition-Swallowing%2BDisorder.html" title="Swallowing Disorder">Swallowing Disorder</a></li> <li><a role="accessibleItem" href="/attr-condition-Tube%2BFeeding.html" title="Tube Feeding">Tube Feeding</a></li> <li><a role="accessibleItem" href="/attr-condition-Weight%2BGain%2BHelp.html" title="Weight Gain Help">Weight Gain Help</a></li> <li><a role="accessibleItem" href="/attr-condition-Weight%2BLoss%2BHelp.html" title="Weight Loss Help">Weight Loss Help</a></li> </ul> <div class="seeAll"> <ul class="sub-nav-group allegrobottomline"> <li><a class="allegroAll" role="accessibleItem" title="See all Conditions" href="/browse/attributeMap.do"><strong>See All Conditions...</strong></a></li> </ul> </div> </div> </li> <li class="nav-item"> <a title="Shop by Body Part" href="/browse/shopByBodyPart.do" onclick="return false;" accesskey="p"><strong>Shop by Body <u>P</u>art</strong></a> <div class="sub-nav leftSideBodyPart"> <ul class="sub-nav-group"> <li><a role="accessibleItem" title="Ankles" href="/browse/browseProducts.do?searchPhrase=ankles">Ankles</a></li> <li><a role="accessibleItem" title="Arm" href="/browse/browseProducts.do?searchPhrase=arm+sling">Arm</a></li> <li><a role="accessibleItem" title="Back" href="/attr-condition-Back%2BPain.html">Back</a></li> <li><a role="accessibleItem" title="Calf" href="/browse/browseProducts.do?searchPhrase=calf">Calf</a></li> <li><a role="accessibleItem" title="Chest" href="/attr-condition-Cold%2B%252F%2BFlu.html">Chest</a></li> <li><a role="accessibleItem" title="Circulatory System" href="/diagnostic-products-c521/blood-pressure-monitors-c3637.html">Circulatory System</a></li> <li><a role="accessibleItem" title="Feet" href="/orthopedics-orthotics-c528/ankle-foot-c4061.html">Feet</a></li> <li><a role="accessibleItem" title="Hamstring" href="/browse/browseProducts.do?searchPhrase=Hamstring">Hamstring</a></li> <li><a role="accessibleItem" title="Head" href="/attr-condition-Headache.html">Head</a></li> <li><a role="accessibleItem" title="Heart" href="/diagnostic-products-c521/heart-rate-monitors-c4041.html">Heart</a></li> <li><a role="accessibleItem" title="Hip" href="/attr-condition-Hip%2BReplacement.html">Hip</a></li> <li><a role="accessibleItem" title="Ear" href="/attr-condition-Hearing%2BImpairment.html">Ear</a></li> <li><a role="accessibleItem" title="Elbow" href="/browse/browseProducts.do?searchPhrase=elbow">Elbow</a></li> <li><a role="accessibleItem" title="Eyes" href="/attr-condition-Blindness%2B%252F%2BLow%2BVision.html">Eyes</a></li> <li><a role="accessibleItem" title="Finger" href="/browse/browseProducts.do?searchPhrase=finger">Finger</a></li> </ul> <ul class="sub-nav-group"> <li><a role="accessibleItem" title="Knees" href="/orthopedics-orthotics-c528/knee-thigh-c3677.html">Knees</a></li> <li><a role="accessibleItem" title="Larynx" href="/daily-living-aids-c519/servox-digital-artificial-larynx-p189025.html">Larynx</a></li> <li><a role="accessibleItem" title="Lateral Ligament" href="/browse/browseProducts.do?searchPhrase=lateral+ligament">Lateral Ligament</a></li> <li><a role="accessibleItem" title="Lungs" href="/attr-condition-Asthma.html">Lungs</a></li> <li><a role="accessibleItem" title="Mouth" href="/attr-condition-Swallowing%2BDisorder.html">Mouth</a></li> <li><a role="accessibleItem" title="Neck" href="/orthopedics-orthotics-c528/neck-c3679.html">Neck</a></li> <li><a role="accessibleItem" title="Nose" href="/attr-condition-Allergies%252C%2BNasal.html">Nose</a></li> <li><a role="accessibleItem" title="Palm" href="/browse/browseProducts.do?searchPhrase=palm">Palm</a></li> <li><a role="accessibleItem" title="Penis" href="/impotence-c574.html">Penis</a></li> <li><a role="accessibleItem" title="Rectum" href="/browse/browseProducts.do?searchPhrase=suppository">Rectum</a></li> <li><a role="accessibleItem" title="Shoulder" href="/orthopedics-orthotics-c528/shoulder-c4102.html">Shoulder</a></li> <li><a role="accessibleItem" title="Thigh" href="/browse/browseProducts.do?searchPhrase=thigh">Thigh</a></li> <li><a role="accessibleItem" title="Thumb" href="/browse/browseProducts.do?searchPhrase=thumb">Thumb</a></li> <li><a role="accessibleItem" title="Toes" href="/browse/browseProducts.do?searchPhrase=toe">Toes</a></li> <li><a role="accessibleItem" title="Trachea" href="/browse/browseProducts.do?searchPhrase=trachea">Trachea</a></li> <li><a role="accessibleItem" title="Vagina" href="/browse/browseProducts.do?searchPhrase=menstrual">Vagina</a></li> </ul> <div class="seeAll"> <ul class="sub-nav-group allegrobottomline"> <li class="allegrobottomline"><a class="allegroAll" role="accessibleItem" title="See all body parts" href="/browse/shopByBodyPart.do"><strong>See All Body Parts...</strong></a></li> </ul> </div> </div> </li> <li class="nav-item"> <a title="Shop by Store" href="#" onclick="return false;" accesskey="s"><strong>Shop by <u>S</u>tore</strong></a> <div class="sub-nav leftSideStore"> <ul class="sub-nav-group"> <li><a href="/medical-equipment-store">Medical Equipment</a></li> <li><a href="/mobility-equipment-store">Mobility Equipment</a></li> <li><a href="/incontinence-store">Incontinence Store</a></li> <li><a href="/medical-supplies-store">Medical Supplies</a></li> <li><a href="/wound-care-store">Wound Care</a></li> <li><a href="/dietary-supplement-store">Dietary Supplement</a></li> <li><a href="/diabetic-supplies-store">Diabetic Supplies</a></li> <li><a href="/catheter-store">Catheter Store</a></li> </ul> </div> </li> </ul> </nav>									</div>
 								</div>
 						</div>
 					</div>
@@ -833,9 +832,9 @@ jQuery(function() {
 <li class="gn_level1" id="gn_main_2" style="background:none;"><a id="gn_main_2_a" style="width: 93px;" class="fixed" href="/catheters-c539.html" title="Catheters">Catheters</a></li>
 <li class="gn_level1" id="gn_main_3" style="background:none;"><a id="gn_main_3_a" style="width: 100px;" class="fixed" href="/wound-care-c541.html" title="Wound Care">Wound Care</a></li>
 <li class="gn_level1" id="gn_main_4" style="background:none;"><a id="gn_main_4_a" style="width: 149px;" class="fixed" href="/daily-living-aids-c519.html" title="Daily Living Aids">Daily Living Aids</a></li>
-<li class="gn_level1" id="gn_main_5" style="background:none;"><a id="gn_main_5_a" style="width: 121px;" class="fixed" href="/personal-care-c532.html" title="Personal Care">Personal Care</a></li>
+<li class="gn_level1" id="gn_main_5" style="background:none;"><a id="gn_main_5_a" style="width: 261px;" class="fixed" href="/exam-gloves-latex-vinyl-nitrile-c6867.html" title="Exam Gloves - Latex/Vinyl/Nitrile">Exam Gloves - Latex/Vinyl/Nitrile</a></li>
 <li class="gn_level1" id="gn_main_6" style="background:none;"><a id="gn_main_6_a" style="width: 86px;" class="fixed" href="/syringes-c570.html" title="Syringes">Syringes</a></li>
-<li class="gn_level1" id="gn_main_7" style="background:none;"><a id="gn_main_7_a" style="width: 163px;" class="fixed" href="/personal-protection-c6473.html" title="Personal Protection">Personal Protection</a></li>
+<li class="gn_level1" id="gn_main_7" style="background:none;"><a id="gn_main_7_a" style="width: 121px;" class="fixed" href="/personal-care-c532.html" title="Personal Care">Personal Care</a></li>
 <li class="gn_level1" id="gn_main_seemore"><a style="width: 80px; background: none;" class="fixed" href="/categorysitemap.html" title="Categories SiteMap">See More</a></li>
 </ul><div id="gn_main_fix"></div></div><div style="display: none;" id="gn_sub"></div></div></div></div>
 <div id="gn_fly">
@@ -857,12 +856,12 @@ jQuery(function() {
 <li class="leaf"><a class="gn_main_2_cs_item" title="Intermittent Catheters" href="/catheters-c539/intermittent-catheters-c3748.html"><span>Intermittent Catheters</span></a></li>
 <li class="leaf"><a class="gn_main_2_cs_item" title="Leg Bags" href="/catheters-c539/leg-bags-c3749.html"><span>Leg Bags</span></a></li>
 <li class="leaf"><a class="gn_main_2_cs_item" title="External Catheters" href="/catheters-c539/external-catheters-c3745.html"><span>External Catheters</span></a></li>
-<li class="leaf"><a class="gn_main_2_cs_item" title="Foley Catheters" href="/catheters-c539/foley-catheters-c3746.html"><span>Foley Catheters</span></a></li>
 <li class="leaf"><a class="gn_main_2_cs_item" title="Irrigation Products/Solutions" href="/catheters-c539/irrigation-solutions-c6269.html"><span>Irrigation Products/Solutions</span></a></li>
+<li class="leaf"><a class="gn_main_2_cs_item" title="Foley Catheters" href="/catheters-c539/foley-catheters-c3746.html"><span>Foley Catheters</span></a></li>
 <li class="leaf"><a class="gn_main_2_cs_item" title="Urine Collection" href="/catheters-c539/collection-systems-c3744.html"><span>Urine Collection</span></a></li>
 <li class="leaf"><a class="gn_main_2_cs_item" title="Lubricants" href="/catheters-c539/lubricants-c4076.html"><span>Lubricants</span></a></li>
-<li class="leaf"><a class="gn_main_2_cs_item" title="Insertion Trays/Kits" href="/catheters-c539/insertion-trays-kits-c3747.html"><span>Insertion Trays/Kits</span></a></li>
 <li class="leaf"><a class="gn_main_2_cs_item" title="Accessories" href="/catheters-c539/accessories-c3742.html"><span>Accessories</span></a></li>
+<li class="leaf"><a class="gn_main_2_cs_item" title="Insertion Trays/Kits" href="/catheters-c539/insertion-trays-kits-c3747.html"><span>Insertion Trays/Kits</span></a></li>
 <li class="leaf"><a class="gn_main_2_cs_item" title="Closed Systems" href="/catheters-c539/closed-systems-c566379.html"><span>Closed Systems</span></a></li>
 </ul></div>
 <div class="gn_special last-child"><ul><li class="leaf"><a title="See all products" href="/catheters-c539.html"><span>See All Products...</span></a></li></ul></div>
@@ -882,32 +881,27 @@ jQuery(function() {
 <div class="gn_special last-child"><ul><li class="leaf"><a title="See all products" href="/wound-care-c541.html"><span>See All Products...</span></a></li></ul></div>
 </div></div>
 <div style="left: -9999px; top: -9999px;" class="gn_level1_fly gn_fly main col1" id="gn_mainfly_4"><div style="width: 64px; height: 36px; top: -36px;" class="gn_flytab"><div class="gn_shadow"><div class="gn_tl"></div><div class="gn_tr"></div><div class="gn_bl"></div><div class="gn_br"></div></div><a id="gn_main_4_cs" title="Daily Living Aids" href="/daily-living-aids-c519.html"><span>Daily Living Aids</span></a></div><div style="min-width: 200px;" class="gn_flybody"><div class="gn_shadow"><div class="gn_tl"></div><div class="gn_tr"></div><div class="gn_bl"></div><div class="gn_br"></div></div><div class="gn_col"><ul>
-<li class="leaf"><a class="gn_main_4_cs_item" title="TV Listening Amplifiers" href="/daily-living-aids-c519/tv-listening-amplifiers-c572281.html"><span>TV Listening Amplifiers</span></a></li>
 <li class="leaf"><a class="gn_main_4_cs_item" title="Communication" href="/daily-living-aids-c519/communication-c3613.html"><span>Communication</span></a></li>
+<li class="leaf"><a class="gn_main_4_cs_item" title="TV Listening Amplifiers" href="/daily-living-aids-c519/tv-listening-amplifiers-c572281.html"><span>TV Listening Amplifiers</span></a></li>
 <li class="leaf"><a class="gn_main_4_cs_item" title="Hearing Assists" href="/daily-living-aids-c519/hearing-assists-c4124.html"><span>Hearing Assists</span></a></li>
 <li class="leaf"><a class="gn_main_4_cs_item" title="Around the House" href="/daily-living-aids-c519/around-the-house-c3609.html"><span>Around the House</span></a></li>
 <li class="leaf"><a class="gn_main_4_cs_item" title="Daily Living Aids" href="/daily-living-aids-c519/daily-living-aids-c3920.html"><span>Daily Living Aids</span></a></li>
 <li class="leaf"><a class="gn_main_4_cs_item" title="Eating Aids" href="/daily-living-aids-c519/eating-aids-c3616.html"><span>Eating Aids</span></a></li>
 <li class="leaf"><a class="gn_main_4_cs_item" title="Telephones" href="/daily-living-aids-c519/telephones-c572287.html"><span>Telephones</span></a></li>
 <li class="leaf"><a class="gn_main_4_cs_item" title="Reachers" href="/daily-living-aids-c519/reachers-c3622.html"><span>Reachers</span></a></li>
+<li class="leaf"><a class="gn_main_4_cs_item" title="Dressing Aids" href="/daily-living-aids-c519/dressing-aids-c3614.html"><span>Dressing Aids</span></a></li>
 <li class="leaf"><a class="gn_main_4_cs_item" title="Hearing Aid Accessories" href="/daily-living-aids-c519/hearing-aid-accessories-c572276.html"><span>Hearing Aid Accessories</span></a></li>
-<li class="leaf"><a class="gn_main_4_cs_item" title="Emergency Products" href="/daily-living-aids-c519/emergency-products-c572269.html"><span>Emergency Products</span></a></li>
 </ul></div>
 <div class="gn_special last-child"><ul><li class="leaf"><a title="See all products" href="/daily-living-aids-c519.html"><span>See All Products...</span></a></li></ul></div>
 </div></div>
-<div style="left: -9999px; top: -9999px;" class="gn_level1_fly gn_fly main col1" id="gn_mainfly_5"><div style="width: 64px; height: 36px; top: -36px;" class="gn_flytab"><div class="gn_shadow"><div class="gn_tl"></div><div class="gn_tr"></div><div class="gn_bl"></div><div class="gn_br"></div></div><a id="gn_main_5_cs" title="Personal Care" href="/personal-care-c532.html"><span>Personal Care</span></a></div><div style="min-width: 200px;" class="gn_flybody"><div class="gn_shadow"><div class="gn_tl"></div><div class="gn_tr"></div><div class="gn_bl"></div><div class="gn_br"></div></div><div class="gn_col"><ul>
-<li class="leaf"><a class="gn_main_5_cs_item" title="Gloves" href="/personal-care-c532/gloves-c3709.html"><span>Gloves</span></a></li>
-<li class="leaf"><a class="gn_main_5_cs_item" title="Hot/Cold Therapy" href="/personal-care-c532/hot-cold-therapy-c3711.html"><span>Hot/Cold Therapy</span></a></li>
-<li class="leaf"><a class="gn_main_5_cs_item" title="Massagers" href="/personal-care-c532/massagers-c3714.html"><span>Massagers</span></a></li>
-<li class="leaf"><a class="gn_main_5_cs_item" title="Oral Care" href="/personal-care-c532/oral-care-c4135.html"><span>Oral Care</span></a></li>
-<li class="leaf"><a class="gn_main_5_cs_item" title="Pillows &amp; Wedges" href="/personal-care-c532/pillows-and-wedges-c3705.html"><span>Pillows &amp; Wedges</span></a></li>
-<li class="leaf"><a class="gn_main_5_cs_item" title="Relaxation Products" href="/personal-care-c532/relaxation-products-c4136.html"><span>Relaxation Products</span></a></li>
-<li class="leaf"><a class="gn_main_5_cs_item" title="Hygiene" href="/personal-care-c532/hygiene-c3712.html"><span>Hygiene</span></a></li>
-<li class="leaf"><a class="gn_main_5_cs_item" title="Pain Management" href="/personal-care-c532/pain-management-c3715.html"><span>Pain Management</span></a></li>
-<li class="leaf"><a class="gn_main_5_cs_item" title="Compression Socks" href="/personal-care-c532/compression-socks-c3704.html"><span>Compression Socks</span></a></li>
-<li class="leaf"><a class="gn_main_5_cs_item" title="Infection Control" href="/personal-care-c532/infection-control-c3713.html"><span>Infection Control</span></a></li>
+<div style="left: -9999px; top: -9999px;" class="gn_level1_fly gn_fly main col1" id="gn_mainfly_5"><div style="width: 64px; height: 36px; top: -36px;" class="gn_flytab"><div class="gn_shadow"><div class="gn_tl"></div><div class="gn_tr"></div><div class="gn_bl"></div><div class="gn_br"></div></div><a id="gn_main_5_cs" title="Exam Gloves - Latex/Vinyl/Nitrile" href="/exam-gloves-latex-vinyl-nitrile-c6867.html"><span>Exam Gloves - Latex/Vinyl/Nitrile</span></a></div><div style="min-width: 200px;" class="gn_flybody"><div class="gn_shadow"><div class="gn_tl"></div><div class="gn_tr"></div><div class="gn_bl"></div><div class="gn_br"></div></div><div class="gn_col"><ul>
+<li class="leaf"><a class="gn_main_5_cs_item" title="Vinyl Gloves - Powder Free" href="/exam-gloves-latex-vinyl-nitrile-c6867/vinyl-gloves-powder-free-c6887.html"><span>Vinyl Gloves - Powder Free</span></a></li>
+<li class="leaf"><a class="gn_main_5_cs_item" title="Nitrile Gloves" href="/exam-gloves-latex-vinyl-nitrile-c6867/nitrile-gloves-c6888.html"><span>Nitrile Gloves</span></a></li>
+<li class="leaf"><a class="gn_main_5_cs_item" title="Latex Gloves - Powdered" href="/exam-gloves-latex-vinyl-nitrile-c6867/latex-gloves-powdered-c6884.html"><span>Latex Gloves - Powdered</span></a></li>
+<li class="leaf"><a class="gn_main_5_cs_item" title="Latex Gloves - Powder Free" href="/exam-gloves-latex-vinyl-nitrile-c6867/latex-gloves-powder-free-c6885.html"><span>Latex Gloves - Powder Free</span></a></li>
+<li class="leaf"><a class="gn_main_5_cs_item" title="Vinyl Gloves - Powdered" href="/exam-gloves-latex-vinyl-nitrile-c6867/vinyl-gloves-powdered-c6886.html"><span>Vinyl Gloves - Powdered</span></a></li>
 </ul></div>
-<div class="gn_special last-child"><ul><li class="leaf"><a title="See all products" href="/personal-care-c532.html"><span>See All Products...</span></a></li></ul></div>
+<div class="gn_special last-child"><ul><li class="leaf"><a title="See all products" href="/exam-gloves-latex-vinyl-nitrile-c6867.html"><span>See All Products...</span></a></li></ul></div>
 </div></div>
 <div style="left: -9999px; top: -9999px;" class="gn_level1_fly gn_fly main col1" id="gn_mainfly_6"><div style="width: 64px; height: 36px; top: -36px;" class="gn_flytab"><div class="gn_shadow"><div class="gn_tl"></div><div class="gn_tr"></div><div class="gn_bl"></div><div class="gn_br"></div></div><a id="gn_main_6_cs" title="Syringes" href="/syringes-c570.html"><span>Syringes</span></a></div><div style="min-width: 200px;" class="gn_flybody"><div class="gn_shadow"><div class="gn_tl"></div><div class="gn_tr"></div><div class="gn_bl"></div><div class="gn_br"></div></div><div class="gn_col"><ul>
 <li class="leaf"><a class="gn_main_6_cs_item" title="Needle/Syringe Combos" href="/syringes-c570/needle-syringe-combos-c4055.html"><span>Needle/Syringe Combos</span></a></li>
@@ -918,19 +912,19 @@ jQuery(function() {
 </ul></div>
 <div class="gn_special last-child"><ul><li class="leaf"><a title="See all products" href="/syringes-c570.html"><span>See All Products...</span></a></li></ul></div>
 </div></div>
-<div style="left: -9999px; top: -9999px;" class="gn_level1_fly gn_fly main col1" id="gn_mainfly_7"><div style="width: 64px; height: 36px; top: -36px;" class="gn_flytab"><div class="gn_shadow"><div class="gn_tl"></div><div class="gn_tr"></div><div class="gn_bl"></div><div class="gn_br"></div></div><a id="gn_main_7_cs" title="Personal Protection" href="/personal-protection-c6473.html"><span>Personal Protection</span></a></div><div style="min-width: 200px;" class="gn_flybody"><div class="gn_shadow"><div class="gn_tl"></div><div class="gn_tr"></div><div class="gn_bl"></div><div class="gn_br"></div></div><div class="gn_col"><ul>
-<li class="leaf"><a class="gn_main_7_cs_item" title="Protective Gloves" href="/personal-protection-c6473/gloves-misc-c6474.html"><span>Protective Gloves</span></a></li>
-<li class="leaf"><a class="gn_main_7_cs_item" title="Sanitizers" href="/personal-protection-c6473/sanitizers-c6478.html"><span>Sanitizers</span></a></li>
-<li class="leaf"><a class="gn_main_7_cs_item" title="Face Mask" href="/personal-protection-c6473/face-mask-c569457.html"><span>Face Mask</span></a></li>
-<li class="leaf"><a class="gn_main_7_cs_item" title="Ebola Virus Protection" href="/personal-protection-c6473/personal-protection-equipment-c569006.html"><span>Ebola Virus Protection</span></a></li>
-<li class="leaf"><a class="gn_main_7_cs_item" title="Isolation Gowns" href="/personal-protection-c6473/isolation-gowns-c569459.html"><span>Isolation Gowns</span></a></li>
-<li class="leaf"><a class="gn_main_7_cs_item" title="Physician Supplies" href="/personal-protection-c6473/physician-supplies-c6491.html"><span>Physician Supplies</span></a></li>
-<li class="leaf"><a class="gn_main_7_cs_item" title="Head Protection" href="/personal-protection-c6473/head-protection-c569465.html"><span>Head Protection</span></a></li>
-<li class="leaf"><a class="gn_main_7_cs_item" title="Shoe Covers" href="/personal-protection-c6473/shoe-covers-c569460.html"><span>Shoe Covers</span></a></li>
-<li class="leaf"><a class="gn_main_7_cs_item" title="Protective Wear" href="/personal-protection-c6473/protective-wear-c6476.html"><span>Protective Wear</span></a></li>
-<li class="leaf"><a class="gn_main_7_cs_item" title="Eye Protection" href="/personal-protection-c6473/eye-protection-c569458.html"><span>Eye Protection</span></a></li>
+<div style="left: -9999px; top: -9999px;" class="gn_level1_fly gn_fly main col1" id="gn_mainfly_7"><div style="width: 64px; height: 36px; top: -36px;" class="gn_flytab"><div class="gn_shadow"><div class="gn_tl"></div><div class="gn_tr"></div><div class="gn_bl"></div><div class="gn_br"></div></div><a id="gn_main_7_cs" title="Personal Care" href="/personal-care-c532.html"><span>Personal Care</span></a></div><div style="min-width: 200px;" class="gn_flybody"><div class="gn_shadow"><div class="gn_tl"></div><div class="gn_tr"></div><div class="gn_bl"></div><div class="gn_br"></div></div><div class="gn_col"><ul>
+<li class="leaf"><a class="gn_main_7_cs_item" title="Gloves" href="/personal-care-c532/gloves-c3709.html"><span>Gloves</span></a></li>
+<li class="leaf"><a class="gn_main_7_cs_item" title="Hot/Cold Therapy" href="/personal-care-c532/hot-cold-therapy-c3711.html"><span>Hot/Cold Therapy</span></a></li>
+<li class="leaf"><a class="gn_main_7_cs_item" title="Oral Care" href="/personal-care-c532/oral-care-c4135.html"><span>Oral Care</span></a></li>
+<li class="leaf"><a class="gn_main_7_cs_item" title="Pillows &amp; Wedges" href="/personal-care-c532/pillows-and-wedges-c3705.html"><span>Pillows &amp; Wedges</span></a></li>
+<li class="leaf"><a class="gn_main_7_cs_item" title="Relaxation Products" href="/personal-care-c532/relaxation-products-c4136.html"><span>Relaxation Products</span></a></li>
+<li class="leaf"><a class="gn_main_7_cs_item" title="Hygiene" href="/personal-care-c532/hygiene-c3712.html"><span>Hygiene</span></a></li>
+<li class="leaf"><a class="gn_main_7_cs_item" title="Massagers" href="/personal-care-c532/massagers-c3714.html"><span>Massagers</span></a></li>
+<li class="leaf"><a class="gn_main_7_cs_item" title="Compression Socks" href="/personal-care-c532/compression-socks-c3704.html"><span>Compression Socks</span></a></li>
+<li class="leaf"><a class="gn_main_7_cs_item" title="Pain Management" href="/personal-care-c532/pain-management-c3715.html"><span>Pain Management</span></a></li>
+<li class="leaf"><a class="gn_main_7_cs_item" title="Infection Control" href="/personal-care-c532/infection-control-c3713.html"><span>Infection Control</span></a></li>
 </ul></div>
-<div class="gn_special last-child"><ul><li class="leaf"><a title="See all products" href="/personal-protection-c6473.html"><span>See All Products...</span></a></li></ul></div>
+<div class="gn_special last-child"><ul><li class="leaf"><a title="See all products" href="/personal-care-c532.html"><span>See All Products...</span></a></li></ul></div>
 </div></div>
 <div style="left: -9999px; top: -9999px;" class="gn_level1_fly gn_fly main col1" id="gn_mainfly_seemore"><div style="width: 64px; height: 36px; top: -36px;" class="gn_flytab"><div class="gn_shadow"><div class="gn_tl"></div><div class="gn_tr"></div><div class="gn_bl"></div><div class="gn_br"></div></div><a id="gn_main_seemore_cs" title="Category Sitemap" href="/categorysitemap.html"><span>See More</span></a></div><div class="gn_flybody"><div class="gn_shadow"><div class="gn_tl"></div><div class="gn_tr"></div><div class="gn_bl"></div><div class="gn_br"></div></div><div style="width: 810px" class="gn_col">
 <div style="width:190px; float:left"><ul>
@@ -962,20 +956,20 @@ jQuery(function() {
 <li class="leaf"><a title="Exam Gloves - Latex/Vinyl/Nitrile" href="/exam-gloves-latex-vinyl-nitrile-c6867.html"><span>Exam Gloves</span></a></li>
 <li class="leaf"><a title="Exercise/Fitness" href="/exercise-fitness-c523.html"><span>Exercise/Fitness</span></a></li>
 <li class="leaf"><a title="Gift Ideas" href="/gift-ideas-c573.html"><span>Gift Ideas</span></a></li>
-<li class="leaf"><a title="Hair Care" href="/hair-care-c7479.html"><span>Hair Care</span></a></li>
 <li class="leaf"><a title="Handcycles" href="/handcycles-c543.html"><span>Handcycles</span></a></li>
 <li class="leaf"><a title="Hospital Discharge Favorites" href="/hospital-discharge-favorites-c5000.html"><span>Hospital Discharge Favorites</span></a></li>
 <li class="leaf"><a title="Housewares" href="/housewares-c5256.html"><span>Housewares</span></a></li>
 <li class="leaf"><a title="Impotence" href="/impotence-c574.html"><span>Impotence</span></a></li>
 <li class="leaf"><a title="Incontinence" href="/incontinence-c525.html"><span>Incontinence</span></a></li>
 <li class="leaf"><a title="Infusion/IV Supplies" href="/infusion-iv-supplies-c6448.html"><span>Infusion/IV Supplies</span></a></li>
-</ul></div><div style="width:205px; float:left"><ul>
 <li class="leaf"><a title="Lift Chairs" href="/lift-chairs-c526.html"><span>Lift Chairs</span></a></li>
+</ul></div><div style="width:205px; float:left"><ul>
 <li class="leaf"><a title="Maternity Care" href="/maternity-care-c527.html"><span>Maternity Care</span></a></li>
 <li class="leaf"><a title="Mobility Scooters" href="/mobility-scooters-c533.html"><span>Mobility Scooters</span></a></li>
 <li class="leaf"><a title="OTC Medications" href="/otc-medications-c6752.html"><span>OTC Medications</span></a></li>
 <li class="leaf"><a title="Orthopedics/Orthotics" href="/orthopedics-orthotics-c528.html"><span>Orthopedics/Orthotics</span></a></li>
 <li class="leaf"><a title="Ostomy Supplies" href="/ostomy-supplies-c529.html"><span>Ostomy Supplies</span></a></li>
+<li class="leaf"><a title="Outdoor Gear" href="/outdoor-gear-c5209.html"><span>Outdoor Gear</span></a></li>
 <li class="leaf"><a title="Pain Relief" href="/pain-management-c6489.html"><span>Pain Relief</span></a></li>
 <li class="leaf"><a title="Patient Care" href="/patient-care-c530.html"><span>Patient Care</span></a></li>
 <li class="leaf"><a title="Personal Care" href="/personal-care-c532.html"><span>Personal Care</span></a></li>
@@ -992,7 +986,6 @@ jQuery(function() {
 <li class="leaf"><a title="Surgical Supplies" href="/surgical-supplies-c537.html"><span>Surgical Supplies</span></a></li>
 <li class="leaf"><a title="Syringes" href="/syringes-c570.html"><span>Syringes</span></a></li>
 <li class="leaf"><a title="Therapeutic Mattresses" href="/therapeutic-mattresses-c565851.html"><span>Therapeutic Mattresses</span></a></li>
-<li class="leaf"><a title="Transfer Benches" href="/transfer-benches-c564.html"><span>Transfer Benches</span></a></li>
 <li class="leaf"><a title="Travel Aids" href="/travel-aids-c6857.html"><span>Travel Aids</span></a></li>
 <li class="leaf"><a title="Treatment Furniture" href="/treatment-furniture-c554.html"><span>Treatment Furniture</span></a></li>
 <li class="leaf"><a title="Walkers" href="/walkers-c516.html"><span>Walkers</span></a></li>
@@ -1018,80 +1011,25 @@ jQuery(function() {
 			Recently Viewed
 		</label>
 
-	<div id="rvMiniProd564855" class="hand-cursor sidebar-prod">
+	<div id="rvMiniProd562197" class="hand-cursor sidebar-prod">
 		<div class="sidebarProductBlock">
-			<a href="/personal-care-c532/saline-solution-saljet-sodium-chloride-0-9-irrigation-solution-unit-dose-vial-twist-off-cap-30-ml-p564855.html"><img src="http://images.allegrocentral.com/F3/37/saline-solution-saljet-sodium-chloride-0-9-irrigation-solution-unit-dose-vial-twist-off-cap-30-ml-564855-SMALL_0.jpg" alt="Saline Solution Saljet Sodium Chloride 0.9% Irrigation Solution Unit Dose Vial, Twist-Off Cap 30 mL" width="45" height="45" border="0" style="display:inline;text-align:middle"></a>
+			<a href="/cushions-covers-backs-c544/gel-e-3-large-wheelchair-cushions-with-gel-bladder-p562197.html"><img src="http://imgorigin.allegromedical.com/3F/48/gel-e-3-large-wheelchair-cushions-with-gel-bladder-562197-SMALL_0.jpg" alt="Gel &quot;E&quot;  3&quot; Large Wheelchair Cushions with Gel Bladder " width="45" height="45" border="0" style="display:inline;text-align:middle"></a>
 		</div>
 
 		<div class="sidebarProductInfo">
-			<a style="white-space: normal;" href="/personal-care-c532/saline-solution-saljet-sodium-chloride-0-9-irrigation-solution-unit-dose-vial-twist-off-cap-30-ml-p564855.html"> Saline Solution Saljet Sodium Chloride 0...</a>
+			<a style="white-space: normal;" href="/cushions-covers-backs-c544/gel-e-3-large-wheelchair-cushions-with-gel-bladder-p562197.html"> Gel "E" 3" Large Wheelchair Cushions wi...</a>
 			
 			<br>
-			<span class="retail-price">$2.53</span>
-			<span class="our-price">$1.72</span>
-				
+				<span class="retail-price">$91.78</span>
+				- <span class="retail-price">$108.16</span><br>
+				<span class="our-price">$40.79</span>
+				-  <span class="our-price">$48.07</span>
+			
 
 				
 		</div>
 	</div>
-	<script type="text/javascript">miniProductPageAjax('564855','rvMiniProd564855', 'recentlyViewed', '#000099');</script>
-					<div style="clear:both;border-top:1px gray dotted;height:1px"></div>
-
-	<div id="rvMiniProd190769" class="hand-cursor sidebar-prod">
-		<div class="sidebarProductBlock">
-			<a href="/ostomy-supplies-c529/adapt-barrier-strips-60-grams-p190769.html"><img src="http://images.allegrocentral.com/CB/C6/adapt-barrier-strips-190769-SMALL_0.jpg" alt="Adapt Barrier Strips" width="45" height="45" border="0" style="display:inline;text-align:middle"></a>
-		</div>
-
-		<div class="sidebarProductInfo">
-			<a style="white-space: normal;" href="/ostomy-supplies-c529/adapt-barrier-strips-60-grams-p190769.html"> Adapt Barrier Strips</a>
-			
-			<br>
-			<span class="retail-price">$68</span>
-			<span class="our-price">$52.51</span>
-				
-
-				
-		</div>
-	</div>
-	<script type="text/javascript">miniProductPageAjax('190769','rvMiniProd190769', 'recentlyViewed', '#000099');</script>
-					<div style="clear:both;border-top:1px gray dotted;height:1px"></div>
-
-	<div id="rvMiniProd562476" class="hand-cursor sidebar-prod">
-		<div class="sidebarProductBlock">
-			<a href="/incontinence-c525/bariatric-staydry-ultra-underwear-xxl-68-to-80-p562476.html"><img src="http://images.allegrocentral.com/FD/4A/bariatric-staydry-ultra-underwear-xxl-68-to-80-562476-SMALL_0.jpg" alt="Bariatric StayDry Ultra Underwear - Heavy Absorbency XXL - 68&quot; to 80&quot;" width="45" height="45" border="0" style="display:inline;text-align:middle"></a>
-		</div>
-
-		<div class="sidebarProductInfo">
-			<a style="white-space: normal;" href="/incontinence-c525/bariatric-staydry-ultra-underwear-xxl-68-to-80-p562476.html"> Bariatric StayDry Ultra Underwear - Heav...</a>
-			
-			<br>
-			<span class="retail-price">$14.24</span>
-			<span class="our-price">$9.49</span>
-				
-
-				<div style="color:red">FREE Shipping- Ends We</div>
-		</div>
-	</div>
-	<script type="text/javascript">miniProductPageAjax('562476','rvMiniProd562476', 'recentlyViewed', '#000099');</script>
-					<div style="clear:both;border-top:1px gray dotted;height:1px"></div>
-
-	<div id="rvMiniProd209023" class="hand-cursor sidebar-prod">
-		<div class="sidebarProductBlock">
-			<a href="/daily-living-aids-c519/spoons-small-spoons-1-bowl-10-pk-p209023.html"><img src="http://images.allegrocentral.com/C0/1E/Maroon-Spoons-209023-PRODUCT-SMALL_IMAGE.jpg" alt="Maroon Spoons" width="45" height="45" border="0" style="display:inline;text-align:middle"></a>
-		</div>
-
-		<div class="sidebarProductInfo">
-			<a style="white-space: normal;" href="/daily-living-aids-c519/spoons-small-spoons-1-bowl-10-pk-p209023.html"> Maroon Spoons</a>
-			
-			<br>
-			<span class="retail-price">$25</span>
-			<span class="our-price">$14.48</span>
-				
-
-				
-		</div>
-	</div>
-	<script type="text/javascript">miniProductPageAjax('209023','rvMiniProd209023', 'recentlyViewed', '#000099');</script>
+	<script type="text/javascript">miniProductPageAjax('562197','rvMiniProd562197', 'recentlyViewed', '#000099');</script>
 					<div style="clear:both"></div>
 	</div>
 
@@ -1111,7 +1049,7 @@ jQuery(function() {
 			<form action="https://www.allegromedical.com/support/subscriptionCenter.do" method="post">
 				<div>
 						<input name="email" style="width:155px" title="manage your subscription, enter email" type="text" value="enter email address" id="ecatEmail" onfocus="erase(this); return false" onkeyup="updateEcatEmail(this)" onblur="revert(this); return false">
-						<input name="referringPage" type="hidden" id="referringPage" value="%2Fsupport%2FprivacyPolicy.do%3F">
+						<input name="referringPage" type="hidden" id="referringPage" value="%2Fsupport%2FprivacyPolicy.do">
 						<input name="js" type="hidden" value="off">
 						<input name="action" type="hidden" value="add">
 						<br>
@@ -1378,7 +1316,7 @@ jQuery(document).ready( function()
 			<td class="ajaxMainData">
 							<div class="accessibility-info">
 							
-								<h2>Allegro Accessibility Policy</h2><br>
+								<div style="font-size:1.5em;font-weight:bold">Allegro Accessibility Policy</div><br>
 								<div>
 									Allegro Medical has been serving the disabled community since our beginning in 1996. We are committed to ensuring that individuals with disabilities can access our website, whether from a desktop computer, mobile device, or tablet, and enjoy all of the goods, services, facilities, privileges, advantages, and accommodations we have to offer.
 								</div><br>
@@ -1460,7 +1398,7 @@ jQuery(document).ready( function()
 <br>
 <table class="footest" cellpadding="3" cellspacing="0" id="BBBtable">
 	<tbody><tr>
-		<td align="left" valign="top" colspan="2">© 1997 - 2015 Allegro Medical Supplies Inc, a division of Scrip, Inc. All rights reserved.</td>
+		<td align="left" valign="top" colspan="2">© 1997 - 2016 Allegro Medical Supplies Inc, a division of Scrip, Inc. All rights reserved.</td>
 	</tr>
 	<tr>
 		<td align="left" valign="top" colspan="2">All trademarks and logos are property of their respective owners.</td>
@@ -1578,22 +1516,18 @@ var CID='10205';
 </script>
 
 <script type="text/javascript">
-	var biJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
-	document.write(unescape("%3Cscript src='" + biJsHost + "cdn.listrakbi.com/scripts/script.js?m=ikcdXnlnDIhz&v=1' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://cdn.listrakbi.com/scripts/script.js?m=ikcdXnlnDIhz&amp;v=1" type="text/javascript"></script>
-<script type="text/javascript">
 	
 	if ( "http:" == document.location.protocol ) {
 		jQuery(window).on( 'load', function() {
 			try{
-				_ltk.SCA.CaptureEmail('ecatEmail');
+	//			_ltk.SCA.CaptureEmail('ecatEmail');
 			}
 			catch(e) {}
 		});
 	}
 	
 	try{
-		_ltk.Click.Submit();
+	//	_ltk.Click.Submit();
 	}
 	catch(e) {}
 	
@@ -1608,15 +1542,15 @@ var CID='10205';
 			//alert("Form exists!");
 			jQuery("form").submit( function( event ) {
 				if ( jQuery(this).find("#ecatEmail") ) {
-					_etmc.push(["setUserInfo",{"email":jQuery(this).find("#ecatEmail").val()}]);
+					_etmc.push(["setUserInfo",{"email":jQuery(this).find("#ecatEmail").val()  + '_ALM'}]);
 					_etmc.push(["trackPageView"]);					
 				}
 				else if ( jQuery(this).find("#ecatPopupEmail") ) {
-					_etmc.push(["setUserInfo",{"email":jQuery(this).find("#ecatPopupEmail").val()}]);
+					_etmc.push(["setUserInfo",{"email":jQuery(this).find("#ecatPopupEmail").val() + '_ALM'}]);
 					_etmc.push(["trackPageView"]);				
 				}
 				else if ( jQuery(this).find("#emailAddress") ) {
-					_etmc.push(["setUserInfo",{"email":jQuery(this).find("#emailAddress").val()}]);
+					_etmc.push(["setUserInfo",{"email":jQuery(this).find("#emailAddress").val() + '_ALM'}]);
 					_etmc.push(["trackPageView"]);
 				}
 				
