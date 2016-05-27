@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twilightguide.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029182833id_/http%3A//twilightguide.com/tg/twilight-graphics/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twilightguide.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527141723id_/http%3A//twilightguide.com/tg/twilight-graphics/privacy) for the most accurate reproduction.*
 
 # Privacy | Twilight Guide
 
