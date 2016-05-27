@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leads360.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119181646id_/http%3A//velocify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leads360.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527021307id_/http%3A//velocify.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Velocify: High Performance Sales
+# Privacy | Velocify: High Performance Sales
 
 Our privacy policy is pretty simple. We will only contact you if you voluntarily submit your contact information. We will never sell your information.
 
