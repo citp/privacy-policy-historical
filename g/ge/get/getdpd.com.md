@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the getdpd.com privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918224602id_/https%3A//getdpd.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getdpd.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527031305id_/https%3A//getdpd.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Website Privacy Policy | DPD – Digital Product Delivery | Sell Downloads | Digital Publishing
+# DPD - Website Privacy Policy - Digital Product Delivery
 
 The last update to our Privacy Policy was posted on December 12, 2013. This document governs the privacy policy of our Website, www.getdpd.com. Any capitalized terms not defined herein will have the same meaning as where they are defined elsewhere on our Website.
 
-### Definitions 
+### Definitions
 
-“Non-Personal Information” (NPI) is information that is in no way personally identifiable and that is obtained automatically when you access our Website with a web browser.  
-“Personally Identifiable Information” (PII) is non-public information that is personally identifiable to you and obtained for us to provide you with a product or service. PII may include information such as your name, address, phone number, credit card information, and other related information that you provide to us. 
+"Non-Personal Information" (NPI) is information that is in no way personally identifiable and that is obtained automatically when you access our Website with a web browser. "Personally Identifiable Information" (PII) is non-public information that is personally identifiable to you and obtained for us to provide you with a product or service. PII may include information such as your name, address, phone number, credit card information, and other related information that you provide to us. 
 
 ### Our Commitment to Your Privacy
 
@@ -19,7 +18,8 @@ Portal Labs, LLC and our affiliates respect your privacy and recognize the need 
 
 ### Links to Other Websites
 
-Our Website may contain links to other websites. You understand that these websites are not under our control and are not subject to our Privacy Policy. These websites will likely have their own privacy policies. We have no responsibility for these websites and provide links to these websites solely for your convenience.  
+Our Website may contain links to other websites. You understand that these websites are not under our control and are not subject to our Privacy Policy. These websites will likely have their own privacy policies. We have no responsibility for these websites and provide links to these websites solely for your convenience.
+
 You acknowledge that your use and access of these websites is solely at your own risk. It is your responsibility to check the privacy policies of these websites to see how they treat your personal information. 
 
 ### Information We Collect
@@ -30,11 +30,11 @@ However, if you register as a Member to use our Website, you must provide PII in
 
 **_At Member Registration_**
 
-When you register for membership, we collect your name and email address. 
+When you register for membership, we collect your name and email address.
 
 **_Online Forms_**
 
-There may be online forms used in our Website. The information you enter into these online forms may contain PII. 
+There may be online forms used in our Website. The information you enter into these online forms may contain PII.
 
 **_Premium Features_**
 
@@ -80,7 +80,7 @@ You can always opt out of future unaffiliated third-party disclosures of your in
 
 ### “Do Not Track” Settings
 
-Some web browsers have settings that enable you to request that our Website does not track your movement within our Website. Our Website does NOT obey such settings when transmitted to and detected by our Website. 
+Some web browsers have settings that enable you to request that our Website does not track your movement within our Website. Our Website does NOT obey such settings when transmitted to and detected by our Website.
 
 **_Google Analytics Opt-out Browser Add-on._**
 
@@ -88,7 +88,7 @@ Google provides a free add-on to most major browsers that you can install to pre
 
 ### Protecting Your Child’s Privacy
 
-We follow the Children’s Online Privacy Protection Act (COPPA). Even though our Website is not designed for use by anyone under the age of 18 (child), we realize that a child may attempt to access our Website. We do not knowingly collect PII from a child. If you are a parent or guardian and believe your child is using our Website, please contact us. We may ask for proof of identification before we remove any information to prevent malicious removal of account information. If we discover on our own that a child is accessing our Website, we will delete the information as soon as we discover it, we will not use the information for any purpose, and we will not disclose the information to third parties. You acknowledge that we do not verify the age of our users nor do we have any liability to do so. If you are a child, please seek the permission of a parent or guardian before accessing our Website. 
+We follow the Children’s Online Privacy Protection Act (COPPA). Even though our Website is not designed for use by anyone under the age of 18 (child), we realize that a child may attempt to access our Website. We do not knowingly collect PII from a child. If you are a parent or guardian and believe your child is using our Website, please contact us. We may ask for proof of identification before we remove any information to prevent malicious removal of account information. If we discover on our own that a child is accessing our Website, we will delete the information as soon as we discover it, we will not use the information for any purpose, and we will not disclose the information to third parties. You acknowledge that we do not verify the age of our users nor do we have any liability to do so. If you are a child, please seek the permission of a parent or guardian before accessing our Website.
 
 ### Our Email Policy
 
@@ -104,7 +104,7 @@ You may have to provide a credit card to buy products and services from our Webs
 
 ### Changes to Our Privacy Policy
 
-As necessary to address changes in laws or our business practices, we may modify our Privacy Policy, in whole or in part, to address these changes. We will typically notify users by some message on our Website home page that our Privacy Policy has changed. We will also change the “Last Updated” date at the beginning of this Privacy Policy. Any changes we make to our Privacy Policy are effective as of this Last Updated date and replace any prior Privacy Policies. We encourage you to review our Privacy Policy periodically to make sure you still agree with it.
+As necessary to address changes in laws or our business practices, we may modify our Privacy Policy, in whole or in part, to address these changes. We will typically notify users by some message on our Website home page that our Privacy Policy has changed. We will also change the "Last Updated" date at the beginning of this Privacy Policy. Any changes we make to our Privacy Policy are effective as of this Last Updated date and replace any prior Privacy Policies. We encourage you to review our Privacy Policy periodically to make sure you still agree with it.
 
 ### Questions about Our Privacy Policy
 
