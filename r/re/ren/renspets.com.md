@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the renspets.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921221920id_/http%3A//www.renspets.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renspets.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527132750id_/https%3A//www.renspets.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Online Pet Store
+# Ren's Pets Depot-Privacy Policy
+
+**Safety comes first.**
 
 ### Privacy Policy
 
@@ -38,10 +40,10 @@ A cookie is a string of information that a website stores on a visitor’s compu
 
 ### Choice/Opt-out
 
-Users are given the opportunity to subscribe to our monthly newsletter, and are given the option to unsubscribe from Ren's monthly newsletters and special offers email communications at any time. They may send an email to [info@renspets.com](mailto:info@renspets.com) to have their email address removed from our database.
+Users are given the opportunity to subscribe to our monthly newsletter, and are given the option to unsubscribe from Ren's monthly newsletters and special offers email communications at any time. They may send an email to [info@renspets.com](mailto:info@renspets.com) to have their email address removed from our database.
 
 ### Privacy Policy Changes
 
 Although most changes are likely to be minor, Ren's may change its Privacy Policy from time to time, and in Ren's sole discretion. Ren's encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-If you have any questions regarding this privacy policy please email [info@renspets.com](mailto:info@renspets.com).
+If you have any questions regarding this privacy policy please email [info@renspets.com](mailto:info@renspets.com).
