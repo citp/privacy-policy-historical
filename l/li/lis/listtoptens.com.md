@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the listtoptens.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031104849id_/http%3A//listtoptens.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listtoptens.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527185200id_/http%3A//listtop10s.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-listtoptens.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+listtop10s.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-listtoptens.com  may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 20th-JUN-2013
+listtop10s.com  may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 20th-JUN-2013
 
 **What we collect**
 
