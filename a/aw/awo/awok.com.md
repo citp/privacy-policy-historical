@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the awok.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113114757id_/http%3A//www.awok.com/help-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awok.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528012742id_/http%3A//www.awok.com/help-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AWOK Online Shopping Store
 
-This website is owned and manage by ALIFCA DMCC
-
-By visiting the Awok.com website or any other websites operated by Awok.com or its affiliates (collectively, the "Site"), you agree to accept the practices described in this Privacy Notice. If you do not agree to the terms of this Privacy Notice, please do not use the Site. Each time you use the Site, you should check the date of this Privacy Notice (which appears above) and review any changes that have been made since your last visit to the Site. As with all shopping websites, we collect personal information from you.
+By visiting the Awok.com website or any other websites operated by Awok.com or its affiliates (collectively, the 'Site''), you agree to accept the practices described in this Privacy Notice. If you do not agree to the terms of this Privacy Notice, please do not use the Site. Each time you use the Site, you should check the date of this Privacy Notice (which appears above) and review any changes that have been made since your last visit to the Site. As with all shopping websites, we collect personal information from you.
 
 At Awok.com, we understand that you value your privacy and wish to have your personal information kept secure, that’s why we are committed to protecting your privacy of any personal information provided to us. Our Privacy Policy describes generally how we manage your personal information and safeguard your right privacy.
 
@@ -56,7 +54,7 @@ If you believe that your password has been misused, please notify us immediately
 
 ## Correcting Your Information and Removal/Opt-Out
 
-If your name, e-mail, telephone number or other Personal Information changes, you may update, correct or omit the relevant information by going to your profile under “My Account”. If you request us to do so, we will amend any personal information which is inaccurate, incomplete or out of date. You may \ directly contact us or send an email at info@awok.com. In addition, if you no longer wish to receive communications from us you may opt-out by emailing us at info@awok.com or by clicking on the unsubscribe link within any marketing e-mail you receive from us.
+If your name, e-mail, telephone number or other Personal Information changes, you may update, correct or omit the relevant information by going to your profile under “My Account”. If you request us to do so, we will amend any personal information which is inaccurate, incomplete or out of date. You may \ directly contact us or send an email at info@awok.com. In addition, if you no longer wish to receive communications from us you may opt-out by emailing us at info@awok.com or by clicking on the one click unsubscribe link at the bottom of any marketing e-mail you receive from us.
 
 ## Children and Privacy
 
@@ -70,16 +68,10 @@ We maintain relationships with third party affiliates, thus we may feature links
 
 From time to time it may be necessary for us to amend our privacy policy, thus we reserve the right to its revision, and we strongly suggest that you visit and review our Privacy Policy periodically to make sure you understand how information you provide will be used. However, you can be confident that any changes will be in accordance with the general Privacy Act and the National Privacy Principles.
 
-## SSL (Secure Socket Layer)
-
-SSL is enabled on cart and checkout pages.
-
-All credit/debit cards’ details and personally identifiable information will NOT be stored, sold, shared, rented or leased to any third parties.
-
 ## Limitations On Liability
 
 IN NO EVENT WILL AWOK.COM OR ITS PARENT, AFFILIATES, LICENSEES OR ANY PARTY INVOLVED IN CREATING, PRODUCING OR DELIVERING THE SITE OR ITS PRODUCTS OR SERVICES BE LIABLE IN ANY MANNER WHATSOEVER FOR ANY INCIDENTAL, CONSEQUENTIAL, INDIRECT, SPECIAL OR PUNITIVE DAMAGES ARISING OUT OF YOUR ACCESS, USE OR INABILITY TO USE THE SITE, OR IN CONNECTION WITH ANY FAILURE OR PERFORMANCE, ERROR, OMISSION, INTERRUPTION, DEFECT, DELAY IN OPERATION OR TRANSMISSION, COMPUTER VIRUS OR LINE OR SYSTEM FAILURE (INCLUDING LOSS OF PROFITS, LOSS OF BUSINESS OR DATA, BUSINESS INTERRUPTION, AND DAMAGES THAT RESULT FROM INACCURACY OF THE INFORMATION OR INCONVENIENCE, DELAY, OR LOSS OF THE USE OF THE SITE). THE FOREGOING LIMITATIONS APPLY WHETHER THE ALLEGED LIABILITY IS BASED ON CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY OR ANY OTHER BASIS, EVEN IF AWOK.COM OR ITS AFFILIATES OR ANY OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
 ## Questions or Concerns
 
-In case you want to get in touch with us, or to provide your feedback, we are always there for you. In fact it is a pleasure to hear from our valued customers. Kindly feel free to contact our customer care team via email: support@awok.com.
+In case you want to get in touch with us, or to provide your feedback, we are always there for you. In fact it is a pleasure to hear from our valued customers. Kindly feel free to contact our customer care team via email: support@awok.com or phone: 8008-8008.
