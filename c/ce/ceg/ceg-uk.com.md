@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ceg-uk.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016032000id_/http%3A//www.cambridgeeducationgroup.com/en/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceg-uk.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527184614id_/http%3A//www.cambridgeeducationgroup.com/about-us/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Cambridge Education Group
 
 Cambridge Education Group ("We") are committed to protecting and respecting your privacy.  
 Cambridge Education Group includes CATS Colleges, CATS Academy Boston, Stafford House School of English, Stafford House Study Holidays, and our Foundation on Campus locations across the UK, US and Europe. This policy applies to Cambridge Education Group and all our subsidiary businesses.
@@ -56,7 +56,7 @@ Unfortunately, the transmission of information via the internet is not completel
 
 We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by [post or telephone].
 
-If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data. 
+If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data.
 
 ## DISCLOSURE OF YOUR INFORMATION
 
@@ -69,12 +69,11 @@ We may disclose your personal information to third parties:
   * If you study with us and apply via an educational agent we will disclose your data to your agent.
   * In the event of a medical emergency we will disclose your data to the appropriate medical authorities.
 
-  
 
 
 ## YOUR RIGHTS
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at cegmarketing@ceg-uk.com.
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [cegmarketing@ceg-uk.com](mailto:cegmarketing@ceg-uk.com).
 
 ## ACCESS TO INFORMATION
 
