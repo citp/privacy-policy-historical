@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybanktracker.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226150157id_/http%3A//www.mybanktracker.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybanktracker.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527042340id_/http%3A//www.mybanktracker.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for MyBankTracker.com
 
