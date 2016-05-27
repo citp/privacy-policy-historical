@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appointment-plus.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905140056id_/http%3A//www.appointment-plus.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appointment-plus.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527111721id_/http%3A//www.appointment-plus.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Appointment-Plus Privacy Policy | Online Scheduling Software Privacy
 
@@ -56,7 +56,7 @@ StormSource reserves the right to use or disclose information provided if requir
 
 **5\. Security**
 
-StormSource uses robust security measures to protect Data from unauthorized access, maintain data accuracy, and help ensure the appropriate use of Data. When the Services are accessed using the Internet, Secure Socket Layer (.SSL.) technology protects Customer Data using both server authentication and data encryption. These technologies help ensure that Customer Data is safe, secure, and only available to the Customer to whom the information belongs and those to whom the Customer has granted access. StormSource also implements other advanced technology measures to prevent interference or access from outside intruders. StormSource offers enhanced security features within the Services that permit Clients to configure security settings to the level they deem necessary, such as forced password changes and IP-restrictions. Customers are responsible for maintaining the security and confidentiality of their StormSource usernames and passwords.
+StormSource uses robust security measures to protect Data from unauthorized access, maintain data accuracy, and help ensure the appropriate use of Data. When the Services are accessed using the Internet, Transport Layer Security(TLS) technology protects Customer Data using both server authentication and data encryption. These technologies help ensure that Customer Data is safe, secure, and only available to the Customer to whom the information belongs and those to whom the Customer has granted access. StormSource also implements other advanced technology measures to prevent interference or access from outside intruders. StormSource offers enhanced security features within the Services that permit Clients to configure security settings to the level they deem necessary, such as forced password changes and IP-restrictions. Customers are responsible for maintaining the security and confidentiality of their StormSource usernames and passwords.
 
 **6\. Public Forums, Refer a Friend, and Customer Testimonials**
 
