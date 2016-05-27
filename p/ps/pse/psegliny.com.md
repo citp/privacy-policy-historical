@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psegliny.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909204750id_/https%3A//www.psegliny.com/page.cfm/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psegliny.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527040539id_/https%3A//www.psegliny.com/page.cfm/PrivacyPolicy) for the most accurate reproduction.*
 
 # PSEG Long Island
 
@@ -20,7 +20,7 @@ We will only collect personally identifiable information to the extent deemed re
 
 ### Security
 
-The site has security measures in place to protect the loss, misuse and alteration of the information under our control. When we ask users to enter sensitive information (such as an account number or social security number), that information is protected with security software. All forms on our website are totally voluntary. If you do not feel comfortable submitting information over the Internet, please call a customer service representative at 1-800-436-PSEG.
+The site has security measures in place to protect the loss, misuse and alteration of the information under our control. When we ask users to enter sensitive information (such as an account number or social security number), that information is protected with security software. All forms on our website are totally voluntary. If you do not feel comfortable submitting information over the Internet, please call a customer service representative at 1-800-490-0025.
 
 ### Sharing
 
@@ -28,7 +28,7 @@ PSEG will not disclose any of your personal account information without your con
 
   * To help establish programs in which municipalities buy energy on behalf of their residents;
   * To render, bill and collect for electric and/or gas services;
-  * To protect the property of PSE&G; As otherwise required by law.
+  * To protect the property of PSEG; As otherwise required by law.
 
 
 
