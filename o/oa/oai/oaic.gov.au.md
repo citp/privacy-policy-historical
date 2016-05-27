@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the oaic.gov.au privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913025607id_/http%3A//www.oaic.gov.au/privacy-policy-summary) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oaic.gov.au privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527073101id_/https%3A//www.oaic.gov.au/about-us/corporate-information/key-documents/privacy-policy-summary) for the most accurate reproduction.*
 
 # Privacy policy summary| Office of the Australian Information Commissioner - OAIC
 
-## Scope                    
+## Scope
 
 This summary sets out the key points about how the Office of the Australian Information Commissioner (OAIC) handles personal information.
 
 We collect, hold, use and disclose personal information to carry out our functions or activities under the [_Australian Information Commissioner Act 2010_](http://www.comlaw.gov.au/Details/C2012C00126) (AIC Act), the [_Privacy Act 1988_](http://www.comlaw.gov.au/Details/C2013C00482) (Privacy Act) and the [_Freedom of Information Act 1982_](http://www.comlaw.gov.au/Details/C2012C00904) __ (FOI Act).
 
-More information can be found in our main [privacy policy](https://web.archive.org/about-us/corporate-information/key-oaic-documents/privacy-policy) and our [human resources privacy policy](https://web.archive.org/about-us/corporate-information/key-oaic-documents/human-resources-privacy-policy).
+More information can be found in our main [privacy policy](https://web.archive.org/about-us/corporate-information/key-documents/privacy-policy) and our [human resources privacy policy](https://web.archive.org/about-us/corporate-information/key-documents/human-resources-privacy-policy).
 
 ## Collection of your personal information
 
@@ -38,9 +38,9 @@ You can complain to us in writing about how we have handled your personal inform
 
 You can [contact us](https://web.archive.org/about-us/contact-us) at:
 
-  *         [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au)
-  *         1300 363 992
-  *         GPO Box 5218, Sydney NSW 2001, Australia.
+  * [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au)
+  * 1300 363 992
+  * GPO Box 5218, Sydney NSW 2001, Australia.
 
 
 
