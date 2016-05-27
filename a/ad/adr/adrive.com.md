@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adrive.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206093157id_/http%3A//www.adrive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adrive.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527043553id_/http%3A//www.adrive.com/privacy) for the most accurate reproduction.*
 
 # ADrive | Online Storage, Online Backup, Cloud Storage | Privacy Policy
 
