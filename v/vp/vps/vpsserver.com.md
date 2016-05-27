@@ -1,37 +1,39 @@
-> *The following text is extracted and transformed from the vpsserver.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422065904id_/http%3A//www.ozhosting.com/terms-and-conditions/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpsserver.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527040258id_/https%3A//www.vpsserver.com/privacy-policy) for the most accurate reproduction.*
 
-# Affordable Web Hosting - Privacy Policy - OzHosting.com
+# Privacy Policy - VPSServer.com
 
-## OzHosting.com Web Hosting and Domain Name Services
+VPSServer.com considers safeguarding its members’ identity and other personal information critical. We ensure that all personal information collected from our customers will be kept and maintained private. The following policy defines how privacy is handled by us. This policy is applicable for the information collected by us from you online and it does not apply to the information collected offline. By using the website VPSServer.com, you agree to this privacy policy.
 
-This web site: www.ozhosting.com and its contents are owned and operated by OzHosting.com Pty Limited (“OzHosting”). This policy describes the way in which OzHosting manages personal information about you obtained by OzHosting from your use of the Web Site.
+## Information Collection
 
-By using this web site you acknowledge that you have read and understood this Privacy Statement and agree with and consent to the practices described in this Privacy Statement. If you do not consent to these practices you should immediately cease using the web site.
+We save your information when you register for an account, send us an email or when you enquire about a product/solution over a phone call. We also store information when you register yourself as an affiliate and when an existing customer refers you. Such information includes name, email address, phone number, etc. 
 
-The web site may be updated from time to time, including this Privacy Statement. OzHosting encourages you to check this document regularly. By continuing to use this web site after this Privacy Statement has been updated, you acknowledge that you have read and understood the updated Privacy Statement and agree to be bound by it.
+### Utilization
 
-OzHosting and its related departments are committed to protecting the privacy of individuals' personal information. OzHosting is bound by the National Privacy Principles set out in the Privacy Act 1988 (Commonwealth) in relation to its management of personal information of Australian citizens and permanent residents.
+The information collected by us is only used in the most required areas. Here are a few examples of how your information is used. 
 
-OzHosting will only collect personal information over this web site and use, disclose and store that personal information in accordance with the Act and this Privacy Statement. "Personal information" means information or an opinion (including information or an opinion forming part of a database), whether true or not, and whether recorded in a material form or not, about a person whose identity is apparent, or can be reasonably ascertained, from the information or opinion.
+### Communication
 
-OzHosting may, from time to time, collect and use personal information. The types of personal information OzHosting collects from you depends upon how you use this web site and emails we send you. Generally speaking however, OzHosting may collect and store any personal information which you enter into the web site or which relates to your use of the web site and/or emails we send you.
+By default, all account related communication will be sent to your email address. Technical, billing, and other queries will also be responded through mails. Important announcements and newsletters (if you have subscribed) will be sent your mail address. 
 
-OzHosting will not disclose personal information about you collected through the web site to third parties except:
+### Customer Relationship
 
-  * where third parties appointed by OzHosting require access to personal information held by OzHosting to perform services (in these cases, OzHosting requires these contractors to keep that personal information confidential and not to use or disclose it for any purpose other than the purpose of performing those services);
-  * within the Group in accordance with the law;
-  * where OzHosting is required or authorised by law to disclose personal information, for example to law enforcement agencies; or with your consent.
+Through calls or emails, our customer relationship officers may get in touch with you time to time. Such communication, if done through a phone call will never request you to share your credit card/bank details. 
 
+### Information Protection
 
+VPSServer.com has proper tools and processes in place to ensure the personal information collected from its users is safe. In the event of a user’s account being compromised (password sharing or malicious software installed on the user’s computers that steal information), VPSServer cannot be held responsible for the breach/information theft.
 
-You may seek access to personal information which OzHosting holds about you and OzHosting will provide access to that information in accordance with the Act. There are certain exemptions which may apply to the provision of that information. OzHosting may charge an administration fee for granting access to information. To request access to personal information, contact us at the address set out below.
+### Cookies
 
-The web site contains links to other sites. With the exception of other sites owned by OzHosting, OzHosting does not control the privacy practices or policies of sites reached through links from this web site. If you have any questions about the privacy practices and policies of those sites then you should contact the companies controlling those sites directly. From time to time, this web site may contain cookies, chat rooms, surveys, message boards, news groups, and other forums. You should be aware that any personal information you disclose on these forums becomes public information, and may be collected and used by others. This may result, for example, in you receiving unsolicited messages from other parties. Nothing in this Privacy Statement guarantees that OzHosting will collect or store personal information or other information about you and your use of this web site. You are responsible for keeping your own records relating to your use of the web site and any transactions conducted via it, and for complying with any applicable record keeping legislation.
+Cookies are installed on your computers browsers when you access a website. Cookies identify your browser and remember values entered on your browser to be used on a website. You have the ability to change your browser settings and stop cookies from sending data to us at any time.
 
-If you have any questions or concerns about OzHosting and its collection, use or disclosure of personal information, contact us at:
+Cookies are only used to provide a better experience on the site by retrieving information that you had entered during your previous visits to the site and the information is not shared with others. 
 
-**OzHosting.com Pty Limited**   
-Level 2 175 Flinders Lane   
-Melbourne VIC 3000 Australia   
-Phone: 1300 467 843   
-Fax: 1300 258 332
+VPSServer.com does not share your information with any third parties. If the need arises, we will do so only after acquiring your approval. However, in specific times, if governing and regulatory bodies request for information, we are bound by law to share them. 
+
+### Changes and Updates
+
+Parts or whole of this privacy policy may be modified from time to time. The changes will be updated on the website without any notification. We request you to check this page periodically to stay updated on our privacy policy. 
+
+If you require any clarification with regards to the privacy policy, please contact us.
