@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noah-conference.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008005912id_/https%3A//www.noah-conference.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noah-conference.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527075137id_/https%3A//www.noah-conference.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Noah Conference
 
@@ -34,7 +34,7 @@ We, along with many other websites, make use of so-called “Cookies”. Cookies
 
 The help function available in the menu bar of the majority of web browsers will explain how you can prevent your browser from accepting new cookies, should you not wish to make use of the cookie functionality, how you tell your browser to inform you when you have received a new cookie or how to deactivate or delete received cookies. Some functions of the service may not be available if you set your browser to not accept cookies.
 
-#### 4\. Changes in Our Privacy Policy ****
+#### 4\. Changes in Our Privacy Policy
 
 Please note that we reserve the right to amend this Privacy Policy in our sole discretion, at any time in order to adapt to technical or legal developments or in order to offer new services or goods. The current version of our privacy policy will be available for download or viewing on our website via the link “Privacy Policy” at the bottom of the page.
 
@@ -60,6 +60,10 @@ This website uses Google Analytics, a web analytics service provided by Google, 
   * There is the possibility to transfer your ticket if it remains within the same category.
 
 
+
+#### Spam Policy
+
+In the context of electronic messaging, spam refers to unsolicited, bulk or indiscriminate messages, typically sent for a commercial purpose. NOAH has a zero-tolerance spam policy. NOAH provides a facility that enables users to send private messages to other users. Users must not use this facility to send unsolicited, bulk or indiscriminate messages, whether or not for a commercial purposes. In the unlikely event that you receive any message from NOAH or sent using NOAH’s systems that may be considered to be spam, please contact abuse@noah-conference.com and the matter will be investigated.
 
 #### Ticket Purchase
 
