@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetelegram.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108135443id_/http%3A//tctranscontinental.com/privacy-policy%3Fp_p_id%3D82%26p_p_lifecycle%3D1%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_82_struts_action%3D%252Flanguage%252Fview%26_82_redirect%3D%252Fprivacy-policy%26languageId%3Den_CA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetelegram.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527210351id_/http%3A//tctranscontinental.com/privacy-policy%3Fp_p_id%3D82%26p_p_lifecycle%3D1%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_82_struts_action%3D%252Flanguage%252Fview%26_82_redirect%3D%252Fprivacy-policy%26languageId%3Den_CA) for the most accurate reproduction.*
 
 # Privacy Policy - TC Transcontinental
 
