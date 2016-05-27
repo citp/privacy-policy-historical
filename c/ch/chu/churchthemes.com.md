@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the churchthemes.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207224844id_/http%3A//churchthemes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the churchthemes.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527173854id_/http%3A//churchthemes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - churchthemes.com
 
@@ -40,7 +40,7 @@ churchthemes.com contains links to other sites. churchthemes.com is not responsi
 
 ## Data Access/Quality
 
-Upon request, we provide users of this website with access to all information that we maintain about them, transaction information, communications that the user has directed to our site (e.g., e-mails, inquiries) and contact information (e.g., e-mail address, name, etc.) that we maintain about them. Persons can access this information by contacting us via our contact form at <http://churchthemes.com/contact/>. Upon request, we offer everyone the ability to have inaccuracies in their information corrected or removed.
+Upon request, we provide users of this website with access to all information that we maintain about them, transaction information, communications that the user has directed to our site (e.g., e-mails, inquiries) and contact information (e.g., e-mail address, name, etc.) that we maintain about them. Persons can access this information by contacting us via our contact form at <https://churchthemes.com/contact/>. Upon request, we offer everyone the ability to have inaccuracies in their information corrected or removed.
 
 ## California Online Privacy Protection Act Compliance
 
@@ -62,7 +62,7 @@ This online privacy policy applies only to information collected through our web
 
 ## Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://churchthemes.com/terms/>.
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <https://churchthemes.com/terms/>.
 
 ## Your Consent
 
@@ -76,7 +76,7 @@ Last Update: July 30, 2013
 
 If you have any questions about this privacy policy statement, the practices of this website, your dealings with this website, or if you feel that this site is not following its stated information policy, you may contact us using the information below.
 
-E-mail (Contact Form): <http://churchthemes.com/contact/>
+E-mail (Contact Form): <https://churchthemes.com/contact/>
 
 churchthemes.com  
 P.O. Box 126511  
