@@ -1,85 +1,121 @@
-> *The following text is extracted and transformed from the kickboardforteachers.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626050220id_/http%3A//www.kickboardforteachers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kickboardforteachers.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527163359id_/https%3A//www.kickboardforschools.com/terms/website-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Kickboard
+# Website Privacy Policy | Kickboard
 
-### Please read the following carefully
+Welcome to Kickboard, Inc.’s company website. Like many hosted service providers, the name of our company is also the name of our suite of product and service solutions. In this policy we refer to our instructional management software platform and service suite as “Kickboard” and to the Kickboard, Inc. entity as “Company” or “we.”
 
-General information about the policy of this website in its collection, protection, use and disclosure of the personal information gathered on this site. If you are under 18 years of age, please be sure to read this privacy statement with your parents or guardian and ask them questions about what you don’t understand.
+This policy describes the types of information we may collect from you or that you may provide when you visit [http://www.kickboardforschools.com](http://www.kickboardforschools.com/) (the “Company Site”) and our practices for collecting, using, maintaining, protecting and disclosing that information. The Company Site is intended for a general audience. Although we may permit educators and parents to access the Kickboard instructional management software platform through links provided on the Company Site, access to and use of Kickboard is governed by separate agreements with customers and authorized Kickboard users, including our [Kickboard Platform Privacy Policy](https://web.archive.org/terms/platform-privacy-policy "Kickboard Platform & Service Privacy Policy") and our [Platform Acceptable Use Policy](https://web.archive.org/terms/platform-acceptable-use-policy "Platform Acceptable Use Policy"). In addition, this policy does not apply to information collected by us offline or through any other means or by any third party, including through application or content (including advertising) that may link to or be accessible from or on the Company Site.
 
-### Purpose
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use the Company Site. By accessing or using the Company Site, you agree to this privacy policy. This policy may change from time to time (see Changes to our Privacy Policy). Your continued use of the Company Site after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
-In this Privacy Policy Kickboard Inc. is referred to as “Kickboard,” “we,” “us,” or “our” and you, the end user, are referred to as “you” or “your”.  
-Certain Kickboard® websites are freely accessible (“Kickboard Corporate Websites”). Other Kickboard websites are restricted to those who are authorized to access them by Kickboard and have a user name and password (“Kickboard Customer Websites”); these Kickboard Customer Websites include Kickboard platform solutions made available through such websites (“Kickboard Platform”). This Privacy Policy describes the type of information we may collect from users through both the Kickboard Corporate and Customer Websites (the ”Kickboard websites”), how we use that information, and with whom we may share it.
+### Children Under the Age of 13 and Student Education Records
 
-This Privacy Policy does not apply to information collected by Kickboard offline or in any other way.
+The Company Site is not intended for children under 13 years of age or for use in connection with student education records. We do not knowingly collect personal information from children under 13, or information that may comprise student education records, through the Company Site. If you are under 13, do not use or provide any information on the Company Site or on or through any of its features. In addition, regardless of age, you should never provide student education records on or through the Company Site. If we learn we have collected or received personal information from a child under 13 without verification of parental consent or any education records of a minor student through the Company Site we will delete that information.
 
-The Kickboard websites include links to websites operated by others. We are not responsible for the privacy practices of such third parties, and this policy does not apply to any information collected by such third party websites.
+To learn more about our practices with respect to student information entered into the Kickboard platform and how and when FERPA may apply, please refer to our [Platform Privacy Policy](https://web.archive.org/terms/platform-privacy-policy "Kickboard Platform & Service Privacy Policy").
 
-#### Modification
+### Information We Collect About You and How We Collect It
 
-We reserve the right, at our discretion, to modify this Privacy Policy from time to time. Any revisions will be effective upon posting.
+#### We collect several types of information from and about users of the Company Site, including information:
 
-#### How We May Collect Personal Information
+  * by which you may be personally identified, such as name, employer, job title, postal address, email address and telephone number (“ **personal information** ”);
+  * that is about you but individually does not identify you; and/or
+  * about your internet connection, the equipment you use to access the Company Site and usage details.
 
-We may collect information that personally identifies you when you obtain a user name and password, when you the Kickboard Platform or when you otherwise communicate with us through a Kickboard website. We may also obtain your personal information through a Kickboard website if it is submitted by a representative of the institution (such as a school, school district, state department of education or other educational organization) or by the individual (such as a parent or guardian) funding your access to the Kickboard Platform (“Sponsoring Organization”).
 
-#### What personal information do we collect and use
 
-We consider the following to be examples of Personally Identifiable Information but there may be others: your first and last name, email address, home address, phone number, date of birth, credit card information, and certain other information, such as a Social Security Number, if it is linked with your Personally Identifiable Information. We strongly recommend that you not use your Social Security Number or any other important ID as a user ID or password for this Site or others.
+#### We collect this information:
 
-Kickboard does not collect Personally Identifiable Information about a user, unless it is voluntarily provided to us and so that we can serve the user’s needs and our legitimate business purposes as stated here. For example, when the user sends us a message or makes an online purchase, we need to retain certain Personally Identifiable Information on this Site in order to respond. A user’s Personally Identifiable Information may also be used by us to help improve this Site, and for our company’s marketing and promotional purposes. The information will be treated confidentially within Kickboard, as we protect other confidential information. You can choose not to provide certain information, which may preclude your access to certain parts of Kickboard websites.
+  * Directly from you when you provide it to us.
+  * Automatically as you navigate through the Company Site, such usage details, IP addresses and information collected through cookies, web beacons and other tracking technologies.
+  * From third parties, for example, display advertising providers and social networks.
 
-### How Information Is Used and Shared
 
-#### Kickboard Support
 
-We may use your personal information to provide user support to you and your school or Sponsoring Organization for your use of the Kickboard websites.
+#### **Information You Provide to Us.** The information we collect on or through the Company Site may include:
 
-#### Kickboard Communications
+  * Information that you provide by filling in forms on the Company Site, such as requests for marketing or other information.
+  * Records and copies of your correspondence (including email addresses), if you contact us.
 
-We may send you communications about updates, services and new Kickboard offerings from time to time. If you do not want to receive these communications you can opt out by sending an email to support@kickboardforteachers.com or by such other manner as may be indicated in such communications.
 
-#### Legal Requirements
 
-Kickboard reserves the right to disclose your personal information as necessary to: (1) comply with any applicable federal, state or local law or regulation, including to comply with any subpoena, court order, or legal process served on Kickboard; (2) protect and defend the rights or property of Kickboard; (3) protect the personal safety of other Kickboard websites users or the public; or (4) to ensure compliance with our Terms of Use, including the Terms of Use for the Kickboard Corporate Websites and the Terms of Use for the Kickboard Customer Websites. Kickboard cooperates with law enforcement and other third parties to enforce laws, intellectual property, and other rights. We reserve the right to report suspicious activity to law enforcement for prosecution.
+#### **Information We Collect Through Automatic Data Collection Technologies.** As you navigate through and interact with the Company Site, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions and patterns, including:
 
-#### Business Transfers
+  * Details of your visits to the Company Site, including traffic data, location data, logs and other communication data and the resources that you access and use on the Company Site.
+  * Information about your computer and internet connection, including your IP address, operating system and browser type.
 
-Information about Kickboard websites users, including personal information, may be disclosed as part of any merger, acquisition, debt financing, sale of company assets, as well as in the event of an insolvency, bankruptcy or receivership in which personal information could be transferred to third parties as one of the business assets of Kickboard.
 
-#### Third Parties
 
-Except as described in this Privacy Policy, we will not disclose your personal information to third parties. Kickboard may, however, use for its own purposes, aggregate information that does not identify you personally, or share aggregate information about our users with advertisers, business partners, sponsors, and other third parties.
+We also may use these technologies to collect information about your online activities over time and across third-party websites or other online services (referred to as behavioral tracking). [Click here](http://www.networkadvertising.org/choices/#completed) for information on how you can opt out of behavioral tracking on the Company Site and how we respond to web browser signals and other mechanisms that enable consumers to exercise choice about behavioral tracking.
 
-#### Children and Our Privacy Policy
+The information we collect automatically may include personal information, or we may maintain it or associate it with personal information we collect in other ways or receive from third parties. It helps us to improve the Company Site and to deliver more personalized service, including by enabling us to:
 
-We do not knowingly collect Personally Identifiable Information from Children on this Site either directly or passively except when a Child may voluntarily submit such information through a “Contact Us” link on a Kickboard Website or a public posting area on a Kickboard Website, if such feature is available. If a Child e-mails us via a “Contact Us” link and we can identify the sender as a Child, any Personally Identifiable Information submitted will only be used to respond on a one-time basis to such Child. In addition, if we have actual knowledge that a Child is sending or posting Personally Identifiable Information on any area of this Site, we will use commercially reasonable efforts to delete such Personally Identifiable Information before it is made public.  
-We may disclose a Child’s Personally Identifiable Information if we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other users, or anyone else that could be harmed by such activities. We may also disclose a Child’s Personally Identifiable Information when we believe in good faith that the law requires it.
+  * Estimate our audience size and usage patterns.
+  * Store information about your preferences, allowing us to customize the Company Site according to your individual interests.
+  * Recognize you when you return to the Company Site.
 
-#### Non-personal User Information
 
-An IP address is a number that is automatically assigned to your computer whenever you’re surfing the Internet. When you request pages from Kickboard websites, our servers log your computer’s IP address. Kickboard collects these IP addresses for the sole purpose of identifying our users’ service providers (whether AOL, MSN, etc.) so we can better develop our offerings at the Kickboard websites. We do not automatically link IP addresses to anything personally identifiable, however we can and will use IP addresses to identify users when we feel it is necessary to: (1) comply with the law or comply with legal process served on Kickboard; (2) protect and defend the rights or property of Kickboard; (3) protect the personal safety of other Kickboard websites users or the public; or (4) to ensure compliance with our Terms of Use, including the Terms of Use for the Kickboard Corporate Websites and the Terms of Use for the Kickboard Customer Websites.
 
-#### Cookies
+The technologies we use for this automatic data collection may include:
 
-Kickboard Websites use “cookies” to obtain certain types of information when your Web browser accesses a Kickboard Website, Cookies are textual identifiers that our systems transfer to your computer’s hard drive through your Web browser to enable the Kickboard Website to recognize your browser, and to optimize and sometimes customize your use of our Site. If you want to disable cookies, you can. The Help portion of the toolbar on most browsers and “add-on” programs will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. It is your choice, but cookies allow you to take full advantage of Kickboard Website features, and we recommend that you leave them turned on.
+  * **Cookies (or browser cookies).** A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of the Company Site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to the Company Site.
+  * **Flash Cookies.** Certain features of the Company Site may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on the Company Site. Flash cookies are not managed by the same browser settings as are used for browser cookies. For information about managing your privacy and security settings for Flash cookies, visit the Flash player settings page on Adobe’s website.
+  * **Web Beacons.** Pages of our the Company Site and our emails may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an email and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
 
-We do not use cookies to get users’ Personally Identifiable Information before a user registers with a Kickboard Website and affirmatively opts-in. Once a user opts-in and provides personal information for purposes of receiving more information from us, we do collect and use that information obtained through the cookie technology for purposes of marketing to you, in accordance with this policy. If you do not want to receive e-mail or other marketing communications from us, you can opt out of further marketing to the addresses you have provided.
 
-In connection with cookies we may use web beacons to track response rates to certain email communications that a user has opted to receive from us. If a user has registered with our Site, we may collect certain personal information in connection with the web beacon including the referring email address. This information is not shared with third parties.
 
-Kickboard reserves the right to monitor your use of Kickboard Websites to determine if you are complying with our terms of use and the right, in its sole discretion, to terminate your access to a Kickboard Website.
+### Third-party Use of Tracking Technologies.
 
-### Steps You Can Take to Protect Your Privacy
+Some content or applications on the Company Site are served by third-parties, including advertisers, ad networks and servers, content providers and application providers. These third parties may use cookies, alone or in conjunction with web beacons or other tracking technologies, to collect information about you when you use the Company Site. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
 
-#### Links to Other Websites
+We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
 
-You should be aware that when you are on any Kickboard website, you could be directed by links or otherwise to other websites hosted by third parties. We do not endorse those websites. For example, if you “click” a link to a third party site we have listed on one of the pages on the Kickboard websites, the “click” takes you off the applicable Kickboard websites. Kickboard is not responsible for the content or information collection practices of any third party websites. Please note that these websites may have privacy policies that differ from this Privacy Policy. We encourage you to review and understand their privacy practices before providing them with information.
+### How We Use Your Information
 
-#### What You Disclose
+We use information that we collect about you or that you provide to us, including any personal information:
 
-Please keep in mind that whenever you give out personal information online – for example, via message boards, forums, or chats – that information can be viewed and used by people that you do not know, including but not limited to other students who access the Kickboard websites. Kickboard does not control their use of that information.
+  * To present the Company Site and its contents to you.
+  * To provide you with information, products or services that you request from us.
+  * To fulfill any other purpose for which you provide it.
+  * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
+  * To notify you about changes to the Company Site or any of our products or services.
+  * In any other way we may describe when you provide the information.
+  * For any other purpose with your consent.
 
-#### No Guarantee of Security
 
-No data transmission over the Internet is guaranteed to be secure. Kickboard does not ensure or warrant the security of any personal or other information you transmit to us including without limitation via the Kickboard websites.
+
+We may also use your information to contact you about our own and third-parties’ goods and services that may be of interest to you. If you do not want us to use your information in this way, please check the relevant box located on the email subscription account profile).
+
+### Disclosure of Your Information
+
+We may disclose aggregated information about our guests to the Company Site, and information that does not identify any individual, without restriction. In addition, we may disclose personal information that we collect or you provide as described in this privacy policy:
+
+  * To contractors, service providers and other third parties we use to support our business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them.
+  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of the Company’s assets.
+  * To fulfill the purpose for which you provide it.
+  * In any other way we may describe when you provide the information.
+  * For any other purpose with your consent.
+
+
+
+We may also disclose your personal information:
+
+  * To comply with any court order, law or legal process, including to respond to any government or regulatory request.
+  * To enforce or apply our Terms of Use.
+  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of the Company, our customers or others.
+
+
+
+### Your California Privacy Rights
+
+California Civil Code Section § 1798.83 permits users of the Company Site that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to support@kickboardforteachers.com.
+
+### Changes to Our Privacy Policy
+
+It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users’ personal information, we will notify you through a notice on the Company Site home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for periodically visiting the Company Site and this privacy policy to check for any changes.
+
+### Contact Information
+
+If you have questions or concerns regarding this privacy policy, please contact our Support Team at: Kickboard, Inc., 935 Gravier Street, Suite 1625, New Orleans, LA 70112 or via email at: [support@kickboardforschools.com](mailto:support@kickboardforschools.com "support@kickboardforteachers.com"). In the U.S. you may also call us toll-free at: 1 (855) 456-1946.
+
+_Last modified June 16, 2014_
