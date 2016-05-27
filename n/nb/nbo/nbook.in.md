@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nbook.in privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408023950id_/http%3A//www.nbook.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbook.in privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527112441id_/https%3A//nbook.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | nbooknbook
+# Privacy Policy | nbook.in
 
-This Privacy Policy governs the manner in which Real Estate Portal  collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://nbook.in/](http://wpresidence.net/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Real Estate News.
+This Privacy Policy governs the manner in which Real Estate Portal  collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://nbook.in/](http://wpresidence.net/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Real Estate News.
 
 **Personal identification information**
 
