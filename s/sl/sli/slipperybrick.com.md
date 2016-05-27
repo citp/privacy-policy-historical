@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slipperybrick.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127210633id_/http%3A//www.slipperybrick.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slipperybrick.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527233340id_/http%3A//www.slipperybrick.com/privacy-policy) for the most accurate reproduction.*
 
 # SlipperyBrick Privacy Policy - SlipperyBrick.com
 
