@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the triphobo.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223022121id_/http%3A//www.triphobo.com/content/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triphobo.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527173435id_/http%3A//www.triphobo.com/content/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy: TripHobo
 
@@ -8,7 +8,7 @@ This Privacy Policy applies to all of the services and websites offered by JoGur
 
 If you have any questions about this Privacy Policy, please feel free to [contact us](http://www.triphobo.com/content/contactus) through our website or write to us at – (mention address & email ID) 
 
-## Collection of information
+### Collection of information
 
 JoGuru Inc collects personal information when you register with us, when you use JoGuru Inc products or services, when you visit TripHobo.com pages, and when you enter promotions or sweepstakes. TripHobo.com may combine information about you that we have with information we obtain from business partners or other companies.
 
@@ -22,7 +22,7 @@ JoGuru Inc automatically receives and records information on our server logs fro
 
 JoGuru Inc is the sole owner or license holder of the information collected on this and other sites maintained and owned by JoGuru Inc. We at JoGuru Inc believe in keeping our users’ personal data private and confidential. In compliance with the law, JoGuru Inc will not share information with any unaffiliated third parties for marketing purposes unless you expressly ask us to.
 
-## Children
+### Children
 
 We at JoGuru Inc are extremely careful about safety of children below 14 years of age. Keeping in view legal provisions and social impact, we advise that when a child under age 14 attempts to register with TripHobo.com, we ask that he or she shall have a parent or guardian accompanying him or her while using our services.
 
@@ -30,7 +30,7 @@ JoGuru Inc will not contact children under age 14 about special offers or for ma
 
 JoGuru Inc does not ask a child under age 14 for more personal information, as a condition of participation, than is reasonably necessary to participate in a given activity or promotion.
 
-## Using Facebook data
+### Using Facebook data
 
 If you decide you would like to sign-up with TripHobo.com services using the using the "Connect to Facebook" option, then you are giving JoGuru Inc access to –
 
@@ -45,7 +45,7 @@ If you decide you would like to sign-up with TripHobo.com services using the usi
 
 
 
-## Sharing of Data
+### Sharing of Data
 
 JoGuru Inc does not rent, sell, or share personal information about you with other people or nonaffiliated companies (third party) except to provide products or services you’ve requested, when we have your permission or under the following circumstances-
 
@@ -57,7 +57,7 @@ JoGuru Inc does not rent, sell, or share personal information about you with oth
 
 (4) We transfer information about you if JoGuru Inc is acquired by or merged with another company. In this event, JoGuru Inc will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
-## Cookies
+### Cookies
 
 JoGuru Inc may set and access TripHobo.com cookies on your computer. JoGuru Inc lets other companies that show advertisements on some of our pages TripHobo.com and access their cookies on your computer. Other companies’ use of their cookies is subject to their own privacy policies, not this one.
 
@@ -65,7 +65,7 @@ Advertisers or other companies do not have access to JoGuru Inc.
 
 JoGuru Inc uses web beacons to access TripHobo.com cookies inside and outside our network of web sites and in connection with JoGuru Inc products and services.
 
-## Your Ability to edit and delete your account information and preferences (opt-in-opt-out)
+### Your Ability to edit and delete your account information and preferences (opt-in-opt-out)
 
 You can edit your TripHobo.com Account Information, including your preferences, at any time.
 
@@ -75,7 +75,7 @@ Certain communications from JoGuru Inc, such as service announcements, administr
 
 You can request deletion of your TripHobo.com account by writing a mail to [hi@triphobo.com](mailto:hi@TripHobo.com) with subject line as “Account deletion request” from the same email id that you have used to register.
 
-## Confidentiality and Security 
+### Confidentiality and Security 
 
 This website takes every precaution to protect our users' information. We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
 
@@ -85,6 +85,6 @@ Your TripHobo.com Account Information is password-protected.
 
 In certain areas JoGuru Inc uses industry-standard SSL encryption to protect data transmissions.
 
-## Changes to this Privacy Policy
+### Changes to this Privacy Policy
 
 JoGuru Inc may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Triphobo.com account or by placing a prominent notice on our site.
