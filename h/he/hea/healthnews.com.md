@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthnews.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103090646id_/http%3A//www.healthnews.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthnews.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527143135id_/http%3A//www.healthnews.com/Privacy) for the most accurate reproduction.*
 
 # HealthNews Privacy Policy
 
