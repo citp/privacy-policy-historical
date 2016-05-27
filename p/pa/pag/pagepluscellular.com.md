@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagepluscellular.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913061744id_/https%3A//www.pagepluscellular.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagepluscellular.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527052504id_/https%3A//www.pagepluscellular.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Page Plus Cellular
 
@@ -8,7 +8,7 @@ While this policy is detailed, the principle we follow is simple: we don’t vol
 
 **Collection of Information**
 
-When you visit [www.pagepluscellular.com](https://web.archive.org/home/ "Home"), we collect the following information about your visit:
+When you visit [www.pagepluscellular.com](https://web.archive.org/ "Home"), we collect the following information about your visit:
 
   * Site browsing statistics that are anonymous for unregistered site visitors (for example, which Web pages you visited, and what browser you use). These statistics are helpful in designing ways to make browsing on the site easier.
   * Personal information you knowingly give us when you register on the site. We collect this information in order to respond to requests for information or support, and to improve your online experience (that is, make it easier for you to do business with Page Plus Cellular).
