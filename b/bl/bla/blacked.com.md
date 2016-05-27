@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the blacked.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315150643id_/https%3A//www.blacked.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacked.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527112718id_/https%3A//www.blacked.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : BLACKED.com
 
-PLEASE READ THIS PRIVACY POLICY STATEMENT CAREFULLY. BY YOUR SUBSCRIPTION TO AND USE OF THIS SITE YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE WITH THE POLICIES AND PRACTICES SET FORTH IN THE PRESENT PRIVACY POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS PRIVACY POLICY STATEMENT.
-
-IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT SUBSCRIBE TO OR USE THIS SITE.
+PLEASE READ THIS PRIVACY POLICY STATEMENT CAREFULLY. BY YOUR SUBSCRIPTION TO AND USE OF THIS SITE YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE WITH THE POLICIES AND PRACTICES SET FORTH IN THE PRESENT PRIVACY POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS PRIVACY POLICY STATEMENT. IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT SUBSCRIBE TO OR USE THIS SITE.
 
 The present Privacy Policy Statement details important information regarding the use and disclosure of user information and/or data gathered regarding subscriber ("you") and members of MadCheddar.com network ("our", "we", "us" the "site") websites including but not limited to, Blacked.COM. In addition, this Privacy Policy sets forth all relevant policies and practices for the sites.
 
@@ -47,14 +45,21 @@ The site has adopted and implemented reasonable and technologically feasible pro
 
 While the website uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information, the transmission of information via the Internet is not completely secure. All subscribers should consider any information provided to or collected by the site as non-confidential, and consequently the site assumes no liability or responsibility if any information relating to any subscriber is intercepted and/or used by an unintended recipient.
 
- **FINANCIAL INFORMATION**
+ **FINANCIAL INFORMATION**  
+
 
 All financial data will only be shared with the site's third party processors in order to initiate and complete any orders placed on your account. All credit card transactions and such are processed with industry standard encryption through third party processors. Said processors only use your information for that purpose. All financial data and information shall be considered private information and will not be shared by the site with third parties except with your authorization or when necessary to carry out all and any transactions requested by the user with the understanding that such transactions may be subject to rules, terms, conditions and policies of a third party. All such information provided to a third party and all transactions are not governed by this Privacy Policy. All such information provided to a third party is subject to their terms and conditions.
 
 Subscriber's e-mail address may be used by the site to communicate special offers and other relevant information such as new services, subscription information, etc. In addition, there may be occasions when a subscriber will be presented with special offers either from the operators of the site or from third-party service or content providers, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials.
 
- **"OPT-IN" & "OPT-OUT" PROVISIONS**
+ **“Opt-in” & “Opt-in” Provisions**  
 
-"OPT-IN AND USER COMMUNICATION" – Subscriber's expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, some offers may be presented to the subscriber via email campaigns or other means of communications with the option to express the subscriber's preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes", the subscriber indicates that the subscriber "OPTS-IN" to that offer and thereby agrees and assents that the subscriber's personal information, including its email address and data may be used for that matter or disclosed to third-parties."
 
-"OPT-OUT AND USER COMMUNICATION" – Subscriber's expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, other offers may be presented to the subscriber via email campaigns or other means of communications with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the offer) then the site may transfer the subscriber's personal profile information to the third-party service or content provider making the offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
+“Opt—in and user communication”  
+Subscriber's expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, some offers may be presented to the subscriber via email campaigns or other means of communications with the option to express the subscriber's preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes", the subscriber indicates that the subscriber "OPTS-IN" to that offer and thereby agrees and assents that the subscriber's personal information, including its email address and data may be used for that matter or disclosed to third-parties."
+
+“Opt—in and user communication”  
+Subscriber's expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, other offers may be presented to the subscriber via email campaigns or other means of communications with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the offer) then the site may transfer the subscriber's personal profile information to the third-party service or content provider making the offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
+
+  
+
