@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the manybooks.net privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202222632id_/http%3A//manybooks.net/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manybooks.net privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527203934id_/http%3A//manybooks.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | ManyBooks
 
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -108,6 +108,6 @@ USA
 830-13 A1A North #234  
 FL  
 32082  
-[info@manybooks.net](mailto:info@manybooks.net)
+[info@manybooks.net](https://web.archive.org/cdn-cgi/l/email-protection#caa3a4aca58aa7aba4b3a8a5a5a1b9e4a4afbe)
 
 Last Edited on 2015-01-08
