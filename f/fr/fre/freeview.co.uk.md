@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeview.co.uk privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915142214id_/http%3A//www.freeview.co.uk/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeview.co.uk privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527073701id_/http%3A//www.freeview.co.uk/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | Freeview
 
@@ -8,7 +8,7 @@ Your privacy is important to us. This Privacy & Cookie Policy explains what info
 
 The site, Facebook applications and mobile applications are for online visitors (“you” and “your”) who wish to find out more about the business and products of DTV Services Ltd (“DTVS”), the company formed specifically for the purposes of promoting Freeview, by using the site, Facebook applications and mobile applications.
 
-Your access and use of the site, Facebook applications and mobile applications constitutes your consent to the collection, use, sharing and transfer of your personal data in the manner described in this Privacy & Cookie Policy (“the Policy”). If you disagree with the way we process your personal data collected on the site, Facebook applications and mobile applications, please exit and do not use the site, Facebook applications and mobile applications. 
+Your access and use of the site, Facebook applications and mobile applications constitutes your consent to the collection, use, sharing and transfer of your personal data in the manner described in this Privacy & Cookie Policy (“the Policy”). If you disagree with the way we process your personal data collected on the site, Facebook applications and mobile applications, please exit and do not use the site, Facebook applications and mobile applications.
 
 If you have any questions, comments or concerns about this Policy please contact us at this Freeview, 2nd Floor, 27 Mortimer Street, London, W1T 3JF.
 
@@ -24,13 +24,13 @@ We collect information regarding your navigation that is sent by your web browse
 
 _(ii) Information you provide_
 
-We collect the information you knowingly provide to us when using our site, Facebook applications and/or mobile applications (using your mouse and keyboard), for instance by filling in online forms or by corresponding with us online such as by e-mail or otherwise (if you choose to do so).This also includes information you provide when you contact us for advice about Freeview, check your Freeview coverage, sign up to receive newsletters, enter competitions or otherwise contact us and when you report a problem with our site. 
+We collect the information you knowingly provide to us when using our site, Facebook applications and/or mobile applications (using your mouse and keyboard), for instance by filling in online forms or by corresponding with us online such as by e-mail or otherwise (if you choose to do so).This also includes information you provide when you contact us for advice about Freeview, check your Freeview coverage, sign up to receive newsletters, enter competitions or otherwise contact us and when you report a problem with our site.
 
 Upon collection your personal data will be stored for as long as is reasonably necessary to deal with any requests made by you or any information provided by you and will be permanently deleted thereafter.
 
 **3\. What cookies and similar technologies do we use?**
 
-A cookie is a small text file that is stored on your device by your web browser when you access a website. They are widely used in order to make websites work, or perform more efficiently, as well as to collect information about you. Generally, the information we collect using cookies does not identify you personally. If, however, you have created a user profile/account for example, by signing up to use a password-protected area on our site, Facebook applications and mobile applications, we may link the information we collect using cookies to other information that identifies you personally. 
+A cookie is a small text file that is stored on your device by your web browser when you access a website. They are widely used in order to make websites work, or perform more efficiently, as well as to collect information about you. Generally, the information we collect using cookies does not identify you personally. If, however, you have created a user profile/account for example, by signing up to use a password-protected area on our site, Facebook applications and mobile applications, we may link the information we collect using cookies to other information that identifies you personally.
 
 The site, Facebook applications and mobile applications may make use of the following types of cookie technology:
 
@@ -38,9 +38,9 @@ The site, Facebook applications and mobile applications may make use of the foll
 
 “Persistent cookies” which are automatically allocated to your device when you register to access any restricted areas of the site, Facebook applications and mobile applications and on each subsequent visit. Such cookies only contain an identifier which will enable the site, Facebook applications and mobile applications to identify you as a registered user so that you do not have to identify yourself again while you move from one server to another during your visit. Such cookies will remain on your device after your visit until you remove them and will be placed again at your next visit.
 
-We may use third-party advertising companies or affiliates to display advertisements on our site, Facebook applications and mobile applications. These third-party advertising companies or affiliates may separately place a cookie on your device in the course of delivering advertisements to the site, Facebook applications and mobile applications. However, please be aware that we do not see, access or obtain the information collected by or stored in third party cookies. 
+We may use third-party advertising companies or affiliates to display advertisements on our site, Facebook applications and mobile applications. These third-party advertising companies or affiliates may separately place a cookie on your device in the course of delivering advertisements to the site, Facebook applications and mobile applications. However, please be aware that we do not see, access or obtain the information collected by or stored in third party cookies.
 
-We do not provide personal data about you collected through our own cookies to these third party advertisers or affiliates or to any other third party. 
+We do not provide personal data about you collected through our own cookies to these third party advertisers or affiliates or to any other third party.
 
 You may change your cookie settings preferences by deleting and/or blocking all or part of the cookies we place on our site, Facebook applications and mobile applications. For information on how to reject cookies, see the “Removing and disabling cookies” section below. However, if you delete them, you may not be able to use all of the features and functionalities of the site, Facebook applications and mobile applications.
 
@@ -75,7 +75,7 @@ In case of a change of control or acquisition of the whole or part of the assets
 
 **7\. Is your information transferred outside Europe?**
 
-We process and store your personal data within Europe. Currently we do not transfer your personal data outside Europe. 
+We process and store your personal data within Europe. Currently we do not transfer your personal data outside Europe.
 
 **8\. How can you access, update or correct your information?**
 
@@ -87,7 +87,7 @@ At law you have the following rights:
 
 
 
-We will comply with such rights as provided under applicable law. If you wish to exercise your rights, please [contact us](http://www.freeview.co.uk/articles/faq/more-about-freeview/about-freeview/what-does-it-cost-to-call-the-freeview-tv-advice-line.html) with sufficient information to identify yourself and the information you require. We will respond to your request within a reasonable time and within the time limits established by applicable law. We reserve the right to charge a fee up to £10 for complying with a subject access request unless otherwise provided under applicable law.
+We will comply with such rights as provided under applicable law. If you wish to exercise your rights, please [contact us](https://www.freeview.co.uk/support/more-about-freeview/about-freeview/what-does-it-cost-to-call-the-freeview-tv-advice-line.html) with sufficient information to identify yourself and the information you require. We will respond to your request within a reasonable time and within the time limits established by applicable law. We reserve the right to charge a fee up to £10 for complying with a subject access request unless otherwise provided under applicable law.
 
 **9\. Security**
 
