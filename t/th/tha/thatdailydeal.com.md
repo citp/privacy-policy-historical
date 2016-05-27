@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thatdailydeal.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202003124id_/http%3A//www.thatdailydeal.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatdailydeal.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527151308id_/http%3A//www.thatdailydeal.com/privacy.php) for the most accurate reproduction.*
 
 # That Daily Deal
 
@@ -42,6 +42,14 @@ Attn: Casey Booyinga
 Johnson City, TN 37601
 
 Please include first name, last name, date of birth and email address. One postcard equals one entry. You can enter as many times as you want.
+
+### Magazine Offer
+
+Our way of saying thanks for shopping with ThatDailyDeal.com today! Your purchase of $4.99 or more will include a 6 month (6 issues) subscription to Better Homes and Gardens Magazine. Don't worry, NO STRINGS ATTACHED, NO BILL, NO AUTO-RENEWAL! We know you must be thinking... "really?!?!". Yes, really! But come on, you shop with ThatDailyDeal.com, so you should be used to insanely good deals. Oh, and if you already have an existing subscription to Better Homes and Gardens, your subscription will simply be extended for an additional 6 months. Again, NO ADDITIONAL COST TO YOU WHATSOEVER. If for some reason you don't want it, although even if YOU won't read it, give it to someone what will, you can simply say no thank you by using coupon code NOMAGMARCHAPRILTDD during checkout. 
+
+FULL OFFER AND REFUND DETAILS: 
+
+The magazine offer is valid for U.S subscribers only. Please allow 6-8 weeks for the delivery of your first issue of Better Homes and Gardens magazine. If you have an existing subscription to Better Homes and Gardens, your subscription will be extended for an additional 6 months. Each magazine is valued at $4. If you would like a refund for this offer of a magazine subscription, please print out your email receipt and mail within 30 days to the following address to receive a cash allowance for its stated value: Better Homes and Gardens Promotion, 1151 Cleveland St. Clearwater, FL 33755. 
 
 ### In More Detail
 
