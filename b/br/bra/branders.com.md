@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the branders.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119231429id_/http%3A//branders.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the branders.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527132452id_/http%3A//www.branders.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Promotional Products & Promo Items - Tradeshow Giveaways
 
@@ -7,7 +7,7 @@ Branders.com knows that you care how information about you is used and shared, a
 **What Personal Information About Customers Does Branders.com Gather?**   
 The information we learn from customers helps us personapze and continually improve your shopping experience at Branders.com. Here are the types of information we gather.
 
-You might also pke : [promotional advertising items](http://www.branders.com/category/advertising-giveaways/), [customised sweatpant](http://www.branders.com/category/custom-sweatpants/), [wholesale sunglass](http://www.branders.com/category/custom-sunglasses/)
+You might also pke : [promotional advertising items](https://www.branders.com/category/advertising-giveaways/), [customised sweatpant](https://www.branders.com/category/custom-sweatpants/), [wholesale sunglass](https://www.branders.com/category/custom-sunglasses/)
 
 **Information You Give Us:** We receive and store any information you enter on our Web site or give us in any other way. Branders.com is in the practice of collecting the following information: phone, email, company name, quotes, projects, and order information. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide exclusively for the purpose of responding to your requests and communicating with you.
 
@@ -49,7 +49,7 @@ The Help portion of the toolbar on most browsers will tell you how to prevent yo
 **Conditions of Use, Notices, and Revisions**  
 If you choose to visit Branders.com, your visit and any dispute over privacy is subject to this Notice. If you have any concern about privacy at Branders.com, please contact us with a thorough description, and we will try to resolve it.
 
-Other products we also recommend : [business logo on sunglasses](http://www.branders.com/category/custom-sunglasses/), [marketing toys](http://www.branders.com/category/logo-toys-and-games/)
+Other products we also recommend : [business logo on sunglasses](https://www.branders.com/category/custom-sunglasses/), [marketing toys](https://www.branders.com/category/logo-toys-and-games/)
 
 Our business changes constantly and our Privacy Notice will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice apppes to all information that we have about you and your account.
 
