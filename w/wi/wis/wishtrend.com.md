@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wishtrend.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516020409id_/http%3A//www.wishtrend.com/content/112-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wishtrend.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527034508id_/http%3A//www.wishtrend.com/content/112-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wishtrend
 
@@ -7,7 +7,8 @@ The ten keys of incomparable wishtrend site.
 This Privacy Policy governs the manner in which Wishcompany, Inc.  
 collects, uses, maintains and discloses information collected from  
 users (each, a "User") of the www.wishtrend.com website ("Site").  
-This privacy policy applies to the Site and all products and services offered by Wishcompany, Inc.”
+This privacy policy applies to the Site and all products and services   
+offered by Wishcompany, Inc.”
 
 * We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site place an order fill out a form respond to a survey subscribe to the newsletter and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, phone number.
 
@@ -36,4 +37,4 @@ The email address Users provide for order processing, will only be used to send 
 * If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at :  
 Wishcompany, Inc.  
 37-7 Hoam B/D Gangnam-gu, Samseoung-dong, Seoul, Korea. 135-090  
-Trend@wishcompany.net 
+cs@wishtrend.com
