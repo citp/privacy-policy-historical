@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dakkadakka.com privacy policy that was archived on 2015-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151004033956id_/http%3A//www.dakkadakka.com/core/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dakkadakka.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527193805id_/http%3A//www.dakkadakka.com/core/privacy.jsp) for the most accurate reproduction.*
 
-# DakkaDakka - Privacy Policy | Roll the dice to see if I'm getting drunk.
+# DakkaDakka - Privacy Policy | Don't bother, we've got a Holo-field.
 
 ## Dakka Privacy Policy
 
