@@ -1,6 +1,37 @@
-> *The following text is extracted and transformed from the sportsshoes.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201103630id_/http%3A//www.sportsshoes.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsshoes.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527041603id_/https%3A//www.sportsshoes.com/support/privacy) for the most accurate reproduction.*
 
 # Support, Help & Advice | SportsShoes.com
+
+[ ](https://www.sportsshoes.com/) [ __ 0 ](https://web.archive.org/basket/)
+
+[ ](https://www.sportsshoes.com/)
+
+EN / £ 
+
+  * Language 
+    * English
+    * Deutsch
+    * Español
+    * Francais
+    * Italiano
+  * Currency 
+    * £
+    * €
+    * US$
+    * AU$
+    * DKK(kr)
+    * NOK(kr)
+    * SEK(kr)
+
+
+
+[
+
+Items: 0
+
+£0.00
+
+](https://web.archive.org/basket/)
 
 At sportsshoes.com we respect your privacy and are committed to maintaining it. Our privacy policy statement is given below. If we make changes to this policy, we will notify you by updating this statement on our website. 
 
@@ -26,6 +57,8 @@ We will never collect sensitive information about you without your explicit cons
 
 The personal information we hold will be held securely in accordance with our internal security policy and the law.
 
+After your order has been placed, we will contact you by email via the review platform Feefo to request feedback, in order to help us improve our service.
+
 We may send you from time to time (by email or post) information about products and services and details of promotions and special offers from Sportsshoes.com. We will not contact you in this way unless you have given us your consent.
 
 ## Cookies
@@ -41,3 +74,8 @@ We use cookies for the following reasons:
 
 
 We do not store any information in cookies which could be used to identify you personally, nor are any sensitive details stored in the cookie.
+
+  
+
+
+Loading...
