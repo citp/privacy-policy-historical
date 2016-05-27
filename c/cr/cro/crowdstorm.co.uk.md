@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdstorm.co.uk privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118041044id_/http%3A//www.crowdstorm.co.uk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdstorm.co.uk privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527051016id_/http%3A//www.crowdstorm.co.uk/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Crowdstorm
 
