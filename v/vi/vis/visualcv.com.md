@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the visualcv.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907032302id_/https%3A//www.visualcv.com/www/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualcv.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527222432id_/https%3A//www.visualcv.com/www/privacy-policy) for the most accurate reproduction.*
 
-# VisualCV - Privacy Policy
+# Privacy Policy
 
 ### VisualCV is a business of Workstory Inc.
 
-VisualCV(“ **VisualCV** ,” “ **we** ,” “ **us** “) is concerned about online privacy issues and wants you to be familiar with how we collect, use and disclose your Personally Identifiable Information (as defined below). This Privacy Policy (the “ **Policy** “) describes our practices in connection with Personally Identifiable Information that we collect through our web site located at[http://www.visualcv.com](http://www.visualcv.com/) (the “ **Site** “). This Policy does not govern our collection of information through any web site, or by any other means, other than through the Site or by third parties.
+VisualCV(“ **VisualCV** ,” “ **we** ,” “ **us** “) is concerned about online privacy issues and wants you to be familiar with how we collect, use and disclose your Personally Identifiable Information (as defined below). This Privacy Policy (the “ **Policy** “) describes our practices in connection with Personally Identifiable Information that we collect through our web site located at[https://www.visualcv.com](https://www.visualcv.com/) (the “ **Site** “). This Policy does not govern our collection of information through any web site, or by any other means, other than through the Site or by third parties.
 
 By using the Site, you agree to the terms and conditions of this Policy. If you do not agree to the terms and conditions of this Policy, please do not use the Site. We reserve the right to change this Policy without prior notice. You can determine when this Policy was last revised by referring to the “ _LAST UPDATED_ ” legend at the bottom of this page. Any changes to our Policy will become effective upon our posting of the revised Policy on the Site. Use of the Site following such changes constitutes your acceptance of the revised Policy then in effect.
 
