@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the structube.com privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030064055id_/http%3A//www.structube.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the structube.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527033444id_/https%3A//www.structube.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Structube
 
