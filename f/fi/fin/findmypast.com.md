@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findmypast.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905183210id_/http%3A//www.findmypast.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmypast.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527175405id_/http%3A//www.findmypast.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | findmypast.com
 
@@ -58,6 +58,24 @@ If your account is inactive for two or more years and you are not paying for a s
 Information stored in your family tree will, in almost all cases, include personal information about other people that are still alive. As with all information in your family tree, your information may be searchable by findmypast.com users (together with users of other websites) and may appear on internet searches, but all of the information will not be viewable unless you explicitly give them permission to view your tree.
 
 You should always seek permission from people who are living before you make their personal information available in your tree, or anywhere else online. We have provided you with privacy controls to manage your family tree and control who can see the information in it. You should familiarize yourself with how they work as you’re responsible for using them to protect the information you have provided. We reserve the right (at our own discretion) to remove any personal data which you have included in your family tree about people who are living if we are alerted to the fact that this personal data was used without that person’s permission. If you become aware that your personal information has been included in somebody else's tree without your permission or is being misused in any other way on the findmypast.com site, please send an email to our Customer Support team with details and we will investigate and, if necessary, remove this information.
+
+### Record Matching
+
+Findmypast uses record matching technologies to suggest possible matches between historical records on Findmypast and associated partner trees.
+
+**What is Record Matching?**
+
+Record matching on Findmypast automatically matches historical records for your family tree. These records are pulled from our vast database of over 8 billion records. Record matching will save you time with your research and allow you to make fascinating discoveries through birth, marriage and death documents and census records.
+
+**How does it work?**
+
+When record matching is enabled within the partner site, information from small parts of your family tree is passed between the sites without you having to do anything, to a matching service on the Findmypast website. This information includes basic information such as names, dates and places associated with individuals and their close relatives. Findmypast uses this data to find accurate matches for relevant individuals. Please note this information is not retained by Findmypast and is deleted automatically after matches are calculated and displayed to you. Only partner site users receive Findmypast hints, Findmypast users do not receive hints about trees on the partner site.
+
+The partner site will show matches in its search window where matches are found. To find out more about these matches, click on the links provided and review them; you will then have the ability to accept or reject matches. Please note that some of the matches can be viewed and confirmed for free, while others require a Findmypast data subscription. In order to review these matches you will need to subscribe to Findmypast and create an account.
+
+The information passed to Findmypast is never used for any other purpose and will never be displayed, sold, licensed or used in any manner whatsoever.
+
+If you have any question or concerns, you can email support@findmypast.com.
 
 ### Emails we send you: 
 
