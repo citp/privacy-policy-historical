@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fascinately.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222082342id_/http%3A//fascinately.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fascinately.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527124414id_/http%3A//www.fascinately.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | fascinately | fascinatingly shareable.
 
@@ -6,11 +6,11 @@
 
 Fascinately.com respects the privacy of every individual who visits our web sites, responds to any of our mailings, or sends us e-mail. This Privacy Statement outlines the information Fascinately.com will collect and how we will use that information. This Statement will also instruct you on what to do if you do not want your personal information collected or shared when you visit our websites, respond to our web-based mailings or send us email.
 
-####  **SECURITY**
+#### **SECURITY**
 
 We are committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access that are located in controlled facilities. When we transmit highly confidential information over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
-####  **PERSONAL INFORMATION**
+#### **PERSONAL INFORMATION**
 
 Fascinately.com will not collect any personally-identifiable information about you (that is, your name, address, telephone number, email address, etc.) unless you provide it to us voluntarily.
 
@@ -39,13 +39,13 @@ We will not disclose personal information except as follows:
 
 
 
-####  **NON-PERSONAL INFORMATION**
+#### **NON-PERSONAL INFORMATION**
 
 In some cases, we may collect information about you that is not personally-identifiable. Examples of this type of information include the type of Internet Browser you are using, the type of computer operating system you are using, and the domain name of the web site and/or Internet Service Provider from which you linked to our site or advertisement.
 
 Similar to personally identifiable information, we will not rent, sell, or lease non-personally-identifiable information to third parties. We may share non-personally identifiable information with business partners.
 
-####  **CHILDREN**
+#### **CHILDREN**
 
 We do not target any of our services to children, but if there happens to be a child under the age of 18 who signs up for a service, we will NOT knowingly: Collect online contact information from a child under 18 without prior verifiable parental consent or direct parental notification of the nature and intended use of this information, which shall include an opportunity for the parent to prevent use of the information and participation in the activity. Where prior verifiable parental consent is not obtained, online contact information shall only be used to directly respond to the child’s request and shall not be used to re-contact the child for other purposes.
 
@@ -55,15 +55,15 @@ We do not target any of our services to children, but if there happens to be a c
 
 
 
-####  **COOKIES**
+#### **COOKIES**
 
 When you view one of our web sites we may store some information on your computer. This information will be in the form of a “cookie” or similar file and will be used to determine ways to improve our web sites, advertisements, products or services. For example, cookies allow us to tailor a web site to better match your interests and preferences. With most Internet Browsers, you can erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. Please refer to your Browser instructions or help screen to learn more about these functions.
 
-####  **WEB BEACONS**
+#### **WEB BEACONS**
 
 Fascinately.com web pages may contain electronic images known as web beacons – sometimes called single-pixel gifs – that allow us to count users who have visited those pages and to deliver co-branded services. We may include web beacons in promotional e-mail messages or newsletters in order to count how many messages have been opened and acted upon. Web beacons are not used to access your personal information; they are a technique we use to compile aggregated statistics about web site usage. Web beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the web beacon resides.
 
-####  **CHANGES TO THIS STATEMENT**
+#### **CHANGES TO THIS STATEMENT**
 
 Fascinately.com will occasionally update this Statement of Privacy to reflect company and customer feedback. When we post changes to this Statement, we will include the date at the top of this statement. Fascinately.com encourages you to periodically review this Statement to be informed of how we are protecting your information.
 
