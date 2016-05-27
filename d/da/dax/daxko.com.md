@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daxko.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224225543id_/http%3A//daxko.com/privacy-statement-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daxko.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527052705id_/http%3A//daxko.com/privacy-statement-2) for the most accurate reproduction.*
 
 # Privacy Statement | Daxko
 
