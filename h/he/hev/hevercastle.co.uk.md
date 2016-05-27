@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hevercastle.co.uk privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906051708id_/http%3A//www.hevercastle.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hevercastle.co.uk privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527060039id_/http%3A//www.hevercastle.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Hever Castle Privacy Policy
 
@@ -86,5 +86,4 @@ Questions, comments and requests regarding this privacy policy are welcomed and 
 ### Contact
 
 Tel: [+44 (0)1732 861710](tel:%20+44 \(0\)1732 861710)  
-Fax: [+44 (0)1732 866796](tel:+44%20\(0\)1732 866796)  
 Email: [marketing@hevercastle.co.uk](mailto:marketing@hevercastle.co.uk)
