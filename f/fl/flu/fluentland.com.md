@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fluentland.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125075311id_/http%3A//www.fluentland.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fluentland.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527073121id_/http%3A//www.fluentland.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Fluent Land
+# Privacy Policy - Fluent LandFluent Land
 
 Respecting users privacy is an important core principle of fluentland.com. Information on this page details how our site protects your privacy, and what type of information is collected.
 
