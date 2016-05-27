@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vguard.in privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127013158id_/http%3A//www.vguard.in/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vguard.in privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528014857id_/http%3A//www.vguard.in/home/privacy-policy) for the most accurate reproduction.*
 
-# V-Guard : V-Guard India | Privacy Policy
+# V-Guard India | Privacy Policy
 
 V-Guard Industries Ltd. believes strongly in protecting the privacy of the personally identifiable information shared with us through the use of this website. We believe it is important to inform you about how personal data obtained through this site will be used. We therefore encourage you to read this Privacy Policy carefully. 
 
