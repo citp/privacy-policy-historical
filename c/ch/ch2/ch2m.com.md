@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ch2m.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117174947id_/http%3A//www.ch2m.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ch2m.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527203933id_/http%3A//www.ch2m.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # CH2M Privacy Policy | CH2M
 
@@ -37,7 +37,7 @@ We will also ask you to provide your name and email address when you subscribe t
 
  **Jobs at CH2M**
 
-When you choose to post a resume to the careers section of the Website and apply to become part of the CH2M team, please note that you will be taken to a third-party URL ([sjobs.brassring.com](https://sjobs.brassring.com/1033/asp/tg/cim_home.asp?partnerid=434&siteid=47)) and these pages will be branded as CH2M. The information you provide via the URL will be used solely for the purposes for which it is provided (including the processing of your application) and will be retained for such period as is necessary to comply with CH2M’s legal and administrative requirements. The information collected and used while on these hosted pages is subject to the following sections of this Policy to the extent applicable to resumes: _Types of Data Collected_ (specifically _Through use of the Website_ ), _Use and Disclosure_ , _Security_ and _Changes_.
+When you choose to post a resume to the careers section of the Website and apply to become part of the CH2M team, please note that you will be taken to a third-party URL ([ch2mhill.taleo.net](https://ch2mhill.taleo.net/careersection/iam/accessmanagement/login.jsf?lang=en&redirectionURI=https%3A%2F%2Fch2mhill.taleo.net%2Fcareersection%2Fch2_1st_application%2Fjobapply.ftl)) and these pages will be branded as CH2M. The information you provide via the URL will be used solely for the purposes for which it is provided (including the processing of your application) and will be retained for such period as is necessary to comply with CH2M’s legal and administrative requirements. The information collected and used while on these hosted pages is subject to the following sections of this Policy to the extent applicable to resumes: _Types of Data Collected_ (specifically _Through use of the Website_ ), _Use and Disclosure_ , _Security_ and _Changes_.
 
  **Use and Disclosure**
 
