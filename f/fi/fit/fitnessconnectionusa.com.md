@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitnessconnectionusa.com privacy policy that was archived on 2015-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150903051722id_/http%3A//www.fitnessconnectionusa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitnessconnectionusa.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527140649id_/http%3A//www.fitnessconnectionusa.com/privacy-policy) for the most accurate reproduction.*
 
 # Fitness Connection, Texas, Nevada And North Carolina
 
