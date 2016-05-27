@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ringnrock.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123224006id_/http%3A//ringnrock.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ringnrock.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527044004id_/http%3A//ringnrock.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ring N Rock
 
