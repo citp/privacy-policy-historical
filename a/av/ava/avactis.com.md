@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the avactis.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125140225id_/http%3A//www.avactis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avactis.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527071239id_/http%3A//www.avactis.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Free PHP Shopping Cart & Open Source Ecommerce Software by Avactis
+# Privacy Policy - Free PHP Shopping Cart Software and Open Source Shopping Cart Solution by Avactis
 
 Hummingbird Web Solutions Pvt. Ltd ("Hummingbird Web Solutions Pvt. Ltd") respects your privacy. We describe our privacy practices in this Privacy Policy so that you understand what Personal Information we collect about you and your company, and how we use such information.
 
