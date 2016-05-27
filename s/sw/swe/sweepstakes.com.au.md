@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweepstakes.com.au privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610025319id_/http%3A//www.readersdigest.com.au/privacy-policy%3Ficm%3Dfooter%26icn%3DPrivacy%252BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweepstakes.com.au privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527064932id_/http%3A//www.readersdigest.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reader's Digest Australia
 
@@ -57,7 +57,7 @@ We secure the personal information you provide to us on servers located in contr
 
 **Protection of Credit Card Information**
 
-On our website, when you begin to place credit card details on the RD Online Store, a secure system software called "socket security layer" (SSL) encrypts all information you input before it is sent to us.
+On our website, when you begin to place credit card details on the RD Online Store, a secure system software called "Secure Sockets Layer" (SSL) encrypts all information you input before it is sent to us.
 
 **Third party websites**
 
