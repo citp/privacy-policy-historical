@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamesedition.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202082857id_/http%3A//www.jamesedition.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesedition.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527182107id_/http%3A//www.jamesedition.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Buy, Sell & Charter Yachts, Watches, Private Jets, Boats, Cars, Motorcycles & Helicopters on JamesEdition.com
 
