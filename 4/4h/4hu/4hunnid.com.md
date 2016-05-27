@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4hunnid.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026134431id_/http%3A//4hunnid.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4hunnid.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527163605id_/http%3A//4hunnid.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – 4HUNNID
 
