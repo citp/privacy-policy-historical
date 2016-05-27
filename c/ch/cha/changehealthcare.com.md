@@ -1,91 +1,89 @@
-> *The following text is extracted and transformed from the changehealthcare.com privacy policy that was archived on 2010-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100923103526id_/https%3A//changehealthcare.com/help/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the changehealthcare.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528014423id_/http%3A//www.changehealthcare.com/security/privacy-policy) for the most accurate reproduction.*
 
-# Privacy and Terms | change:healthcare
+# Privacy Policy
 
-change:healthcare (“C:H”) is dedicated to protecting the privacy of users (“Users”) and ensuring that the rge C:H website, www.changehealthcare.com (“the Site”), and other co-branded websites developed for C:H’s customers is used appropriately. C:H understands that health is a very personal and private subject and C:H wants Users to feel comfortable using the Site to whatever degree they see fit. Therefore, with the help of Users, C:H strives to maintain the highest level of privacy and integrity. C:H recognizes the importance of sharing and comparing healthcare costs, and welcomes suggestions on how C:H can improve the Site. 
+### Last Updated: November 5, 2015
 
-This Privacy Policy identifies what information C:H gathers from you, how C:H may use or disclose that information, and how C:H works to protect your privacy, among other things. 
+  Welcome to the Change Healthcare, Inc. website (this "Site"). This Statement discloses the Privacy Policy (this "Policy") for this Site and describes how Change Healthcare, Inc. ("Change Healthcare"), the operator of this Site, collects, protects and uses information we receive from visitors to this Site. This Policy has been created in order to demonstrate and inform you of our firm commitment to privacy and to outline how we deal with any personal data you provide while visiting this Site. If you do not agree with any portion of this Policy, you should not use this Site. This Policy applies only to information collected through this Site and not to information collected offline or through any other websites (even if affiliated with Change Healthcare or linked to by this Site).
 
-**PLEASE READ THE TERMS AND CONDITIONS OF THE PRIVACY POLICY CAREFULLY BEFORE USING THE SITE. BY ACCESSING OR USING THE SITE, YOUR INDICATE YOUR ACCEPTANCE OF ALL OF THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE WITH ALL OF THESE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, DO NOT USE THE SITE.**
+## 1\. The Information We Collect
 
-**INFORMATION**
+There are two kinds of information websites can obtain about you:
 
-In order to provide Users with the most relevant and personalized service, the Site uses claims information to populate individual accounts. Theis collection of this data greatly assists C:H in delivering the most accurate information to Users. 
+### (A) Anonymous Information
 
-You may use and interact with the Site on multiple levels. Personal information on the Site is completely private. C:H may collect, for the purposes of reporting, the actions you take within your account on all areas of the Site. This information may be used to present aggregate de-identified reporting metrics to individuals who are authorized to access aggregate reporting through C:H business agreements. Additionally, C:H may provide reporting metrics that identify personal health information and savings potential to individuals authorized to access such information through C:H business agreements. C:H may further collect any information that you voluntarily provide to C:H through responses to surveys, questionnaires and the like. 
+"Anonymous Information" is data in a form that does not permit direct association with any specific individual. Anonymous Information is aggregate data that websites use to administer their sites. This Anonymous Information comprises information that cannot be used to identify or contact you, and may include such information as your browser type or your Internet Protocol (IP) address (if not deleted, clipped or anonymized). Change Healthcare may from time to time retain third parties to help us collect and aggregate Site information.
 
-**COOKIES**
+#### IP Addresses
 
-Cookies help a website distinguish a User’s browser as a previous visitor to the Site and save and remember any preferences that may have been set by the User on a previous visit to the Site. Currently, websites use cookies to enhance a User’s visit; in general, cookies can securely store a User’s ID and password, personalize home pages, or identify which parts of a site have been visited. C:H does not collect any information or track any Site use using cookies. 
+An IP address is a unique string of numbers that is assigned to your computer by your Internet Service Provider. Web servers automatically identify your computer by its IP address. We use your IP address to help diagnose problems with our servers, to administer our Site, avoid hacking attacks on the Site's servers, and may use it to gather broad demographic information. We do not link IP addresses to any personally identifiable information, even if such information is voluntarily provided by a user.
 
-You may personally set your web browser to notify you of cookie placement requests. You may also decline cookies completely. In addition, you can delete files that contain cookies. Note: If you delete cookies that have been sent from the Site, this will require you to re-enter data upon logging in. 
+#### Cookie Information
 
-**USE OF INFORMATION**
+As is the case with many websites, our Site uses a technology called "cookies", which are small data files that are downloaded onto your computer. The use of cookies is standard on the Internet, and allows us to tailor your visits to our Site to your individual preferences. We also may contract with third party service providers who assign cookies and/or web beacons to conduct site tracking for us. These companies use cookies solely to provide us with aggregate data about Site traffic. Although most web browsers automatically accept cookies, you can change your browser to prevent cookies or notify you whenever you are sent a cookie. Even without accepting a cookie, you can still access most of the features on our Site.
 
-change:healthcare understands the importance of privacy in healthcare. When aggregated and used anonymously, C:H believes that public information is beneficial to other Users in evaluating healthcare costs and quality. C:H uses your email address and/or other personal information to identify and register you as a member of the Site. C:H also uses your information to communicate back to you, update you on services and benefits and to personalize the Site for you. Additionally, C:H may also use your de-identified data to calculate aggregate information, which may be presented to other Users regarding providers, prescriptions and/or services. It will not be possible for such aggregate information to be linked to you. 
+### (B) Personally Identifiable Information
 
-From time to time, C:H may also use your information to contact you for feedback on the Site. At a minimum, C:H always gives you the opportunity to opt out of receiving such information in the future by changing your privacy settings. 
+"Personally Identifiable Information" is any information that personally identifies you, such as your name, email address or your telephone number. For example, you may be asked to provide the following information:
 
-**DISCLOSURE OF PERSONALLY IDENTIFIABLE INFORMATION**
+#### Email Correspondence
 
-C:H will never sell, rent, or give away any information, including your email address to unaffiliated companies that will identify you as a User of the Site. C:H provides such information to subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing information on C:H’s behalf. C:H requires that these parties agree to process and access such information based on C:H’s instructions and in compliance with this Policy and any other appropriate confidentiality and security measures. 
+Scattered throughout the Site are links or forms that can be used to contact this Site so you can comment, make a complaint, make suggestions and ask questions. Your name, organization, title, email address, address, and phone number are required on these forms. Change Healthcare may put information from email on file, but does not currently share, sell, license or transmit this information with third parties without express authorization from you.
 
-C:H and its subsidiaries will not disclose to unaffiliated companies any information it gathers from you which could be used to identify or contact you except as set forth in this pPolicy. Any personal information provided to entities affiliated with the C:H Site will be treated in accordance with the terms of this Privacy Policy and any applicable laws. 
+#### eNewsletters and Other Communications
 
-If comments are accessible to you on the Site, you should be aware that any personally identifiable information you submit there can be read, collected or used by other Users of the Site, and could be used to send you unsolicited messages. C:H is not responsible for the personally identifiable information you choose to submit in this fashion. Comments can be deleted at any time by clicking on the delete button. 
+We offer access to various services through the Site, including the ability to submit and receive electronic payments and remittances through Change Healthcare's ePayment service (the "ePayment Service"). In order to enroll for the ePayment Service, your name, organization, email address, address, phone number, bank account owner, bank account type, bank account routing number and bank account number are required on the enrollment forms. This information is used for set-up of your ePayment Service account and to process payments through the ePayment Service. In addition, we collect information that we receive from you about your electronic transactions using the ePayment Service. Such information includes, without limitation, your payment and/or remittance data and history, and information regarding your requests and authorizations for payments to or from, as applicable, third parties. In addition, we collect information from third parties who have requested or otherwise authorized payments to or from you through the ePayment Service. In the event an issue arises in connection with your enrollment in or use of the ePayment Service, or a payment or remittance, we may also use this information to contact you regarding the same. To protect access to your account, we will also ask you to verify your identity in the event you contact us for assistance with your account. This information will only be used to verify critical information about you, including your contact information, in relation to your ePayment Service account.
 
-In the event that C:H undergoes a business transition such as a merger, being acquired by another company, or selling a substantial portion of its business assets, Users’ personal information may become part of the assets managed under the new corporation . 
+## 2\. How We Use Gathered Information
 
-**OTHER INFORMATION**
+The information you share with us may be used in a few ways:
 
-C:H may provide to third parties information about you that does not allow you to be identified or contacted. This information might include collective profiles of User groups and their activities and preferences. Such information may also be used in describing the Site and services to prospective partners, advertisers and other third parties, and for other lawful purposes. C:H reserves the right to supply anonymized data to partners for research or commercial purposes. 
+### (A) Anonymous Information
 
-**LEGAL DISCLOSURES**
+Anonymous Information is used internally for Site administration, troubleshooting, and to help improve the quality of this Site and its design. We may share such aggregated, non-personally identifiable information, such as demographics, with existing and prospective business partners and advertisers.
 
-C:H may also disclose information if C:H has a good faith belief that access, use, preservation or disclosure of such information is necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable law or this Policythese Terms and Conditions, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues or (d) protect against imminent harm to the rights, property or safety of C:H, its Users or the public as required or permitted by law. 
+### (B) Personally Identifiable Information:
 
-**CHANGING YOUR INFORMATION**
+Personally Identifiable Information collected by Change Healthcare may be used for purposes including administration of the Site, forum registration, enrollment in and administration of services offered by Change Healthcare and its third-party providers (including without limitation the ePayment Service), and communications with you. We share Personally Identifiable Information you provide in enrollment forms or otherwise provide in connection with enrollment in and/or services offered through the Site, including without limitation Change Healthcare's ePayment Service, with our third-party service providers as necessary to provide such services to you. In all cases, however, we will only use your information as permitted by law. We may also disclose Personally Identifiable Information if we are required to do so by law or we in good faith believe that such action is necessary to (a) comply with the law or with legal process; (b) protect and defend our rights and property; (c) protect against misuse or unauthorized use of the Site; or (d) protect the personal safety or property of our users or the public. Please note we may not provide you with notice prior to disclosure in such cases.
 
-You may change the personal information in your profile at any time by clicking on the link entitled “My Profile” and then clicking on the edit button. New information will either replace or supplement previous information, with regards to the instance and specification of the update or removal. While confidentiality rules apply to certain materials, the User does not own the data contained on the Site. 
+## 3\. Opt-Out
 
-**CHILDREN**
+We support the right of visitors to choose. You will be given the right to opt-out of receiving any promotional materials about Change Healthcare or its partners whenever you are asked to provide Personally Identifiable Information on this Site. If you do not opt-out at that time, but later decide that you do not wish to receive future communications of this nature you can contact us at brandcentral@changehealthcare.com or at the address provided below, indicating that you no longer want to receive information relating to this Site.
 
-C:H conforms to the Children's Online Privacy Protection Act [COPPA]. C:H will never knowingly request personally identifiable information from anyone under the age of 13 without parental consent. When C:H does receive information (with parental consent) from Users under the age of 13, C:H will never voluntarily share their personally identifiable information with third parties, regardless of the stated preference at the time of registration. 
+## 4\. Security
 
-**PRIVACY SETTINGS**
+Security of information communicated by or to us over the Internet is of utmost concern to us; however, no data transmission over the Internet can be guaranteed to be 100% secure. This Site incorporates reasonable safeguards to protect the security, integrity and privacy of the personal information we have collected. We have put in place reasonable precautions to protect information from loss, misuse and alteration, including Secure Socket Layer (SSL) technology and database encryption. Please do not use email to communicate information to us that you consider confidential. While we strive to protect your personal information, Change Healthcare cannot ensure or warrant the security of any information you transmit to us or through this Site.
 
-Information on C:H is private. Privacy settings are standard and set by default in the Site. 
+## 5\. Disclosure of Information Through Business Transfers
 
-Please remember that any information (including personal and medical information) that you mark as publicly accessible in your profile (such as a health issues, comments, providers, and/or prescriptions) is not subject to this Privacy Policy and will be seen by other Site members. This information will never be available to visitors, except for the User name associated with comments. Also, if you leave the Site via a link to a third party site, any information you reveal on that site is not subject to this Privacy Policy -- you should consult the privacy policies of each site you visit. 
+As we continue to develop our business, we may buy, merge or partner with other companies or businesses, and in so doing, acquire customer information. In such transactions, user information may be among the transferred assets. Similarly, in the event that a portion or substantially all of Change Healthcare's assets are sold or transferred to a third party, customer information (including Personally Identifiable Information) would likely be one of the transferred business assets.
 
-**SECURITY ISSUES**
+## 6\. Our Commitment to Children's Privacy
 
-Security is a matter of protecting data from unintended use, misuse and/or accidental or unauthorized alteration. C:H has installed a number of security measures to protect the confidentiality of your personal information. These include: 
+Protecting the privacy of children is very important to us. The Children's Online Privacy and Protection Act of 1998 ("COPPA") defines a "Child" as anyone under the age of 13. Change Healthcare strictly adheres to COPPA. For that reason, we do not collect or maintain information obtained through our Site from those we actually know are under 13, and no part of our Site is structured to attract anyone under 13.
 
-  * C:H uses industry-standard encryption methods when transmitting Social Security Number information over the Internet, including SSL encryption to transmit and receive any information submitted to the Site
-  * You are identified on the Site by your Username and Password only.
-  * You play a unique role in the security of the Site as well. Your password should never be shared with anyone and should be changed frequently. You are responsible for the security of your password.
+## 7\. External Links
 
+This Site may provide links to various websites that we do not control. When you click on one of these links, you will be transferred out of our Site and connected to the website of the organization or company that you selected. We are not responsible for the nature, quality or accuracy of the content or opinions expressed on such websites, or of the services provided through such websites. Such websites are not investigated, monitored or checked for quality, accuracy or completeness by us. Inclusion of any linked website on this Site does not imply or express an approval or endorsement of the linked website by us, or of any of the content, opinions, products or services provided on these websites. Even if an affiliation exists between our Site and a third-party website, we exercise no control over linked sites. Each of these linked sites maintains its own independent privacy and data collection policies and procedures. While Change Healthcare expects its partners and affiliates to respect the privacy of our users, Change Healthcare cannot be responsible for the actions of third parties. If you visit a website that is linked to from our Site, we encourage you to consult that website's privacy policy before providing any personal information and whenever interacting with any website.
 
+## 8\. Consent and Modifications to Privacy Policy
 
-Remember, any information you voluntarily disclose is no longer protected under this Privacy Policy. 
+This Site is controlled, operated and administered entirely within the United States. By using this Site, you signify your agreement to the terms of this Policy. If you do not agree with this Policy, please do not disclose any personal information through this Site. This Policy and the use of this Site are governed by Tennessee law. Any claim related to the Site or this Policy shall be brought in a federal or state court in Nashville, Tennessee, within one year after the claim arises. Users of the Site consent to the exclusive jurisdiction and venue of such courts as the most convenient and appropriate for the resolution of disputes concerning this Policy. This Policy and the notices outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any third party.
 
-Unfortunately, C:H cannot guarantee the identity of other members who participate on the Site. C:H furthermore cannot authenticate any information provided by other members pertaining to comments and quality purposes. 
+## 9\. Special Notice to California Residents
 
-Regardless of the security precautions taken by you or by C:H, “perfect security” does not exist on the Internet. However, C:H does utilize the highest possible commercially responsible technical precautions to help keep your data secure and as private as you specify. 
+Under the California Civil Code, residents of the State of California that have provided any Personally Identifiable Information to Change Healthcare have the right to request a list of all third parties to which Change Healthcare has disclosed Personally Identifiable Information during the preceding year for direct marketing purposes. Alternatively, the law provides that if Change Healthcare has a privacy policy that gives either an opt-out or opt-in choice for use of Personally Identifiable Information by third parties (such as advertisers or affiliated companies) for marketing purposes, Change Healthcare may instead provide you with information on how to exercise your disclosure choice options free of charge. Change Healthcare qualifies for the alternative option and has adopted a policy of not disclosing the personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option that prevents that information from being disclosed to third parties for those purposes. It has established this Policy that provides you with details on how you may either opt-out of the use of your Personally Identifiable Information by third parties for direct marketing purposes. If you are a California resident and would like to request information about how to exercise your third party disclosure choices, please send a request to brandcentral@changehealthcare.com with a preference on how our response to your request should be sent.
 
-**IP ADDRESSES**
+## 10\. Modifications to Privacy Policy
 
-Computer identification over the Internet is conducted with IP addresses. This allows other computers and servers to recognize and communicate with each other. C:H servers automatically record information when you visit the Site, including the URL, IP address, browser type and language, and the date and time of your request. C:H collects IP addresses to conduct system administration, report aggregated, de-identified information to sponsors and advertisers, and to conduct site analysis. If a visitor requests pages from C:H, C:H servers enter a visitor's IP address into a log. To maintain visitor anonymity, C:H does not associate IP addresses with records containing personal information. 
+Change Healthcare may modify this Policy at any time, at its discretion, and modifications are effective upon being posted on this Site. You are responsible for reviewing this Policy periodically to ensure that you are aware of any changes to it.
 
-**CHANGES TO THE PRIVACY POLICY**
+## 11\. Account Revisions, Revoking & Deleting Personal Information
 
-C:H, at its sole discretion, reserves the right to modify this Privacy Policy at any time, and without prior notice, by posting the revised pPolicy on this Site. You will be notified via email or upon logging into the site when C:H makes any material changes to this pPolicy. C:H encourages you to review the Privacy Policy periodically for any updates or changes, which will have an update effective date. Your continued use of the Site following the posting of a revised Privacy Policy constitutes full acceptance of any and all updates or changes. 
+We welcome your questions, comments and all feedback pertaining to your privacy or any other issue with regard to this Site. You may contact us at:
 
-**FEEL FREE TO CONTACT change:healthcare, Inc.**
-
-Please do not hesitate to contact C:H if you have any questions, comments or concerns about this Privacy Policy or the Site in general. You can reach C:H via the information on the Site’s contact page. 
-
-change:healthcare, inc.   
-12 cadillac drive, suite 240   
-brentwood, tn 37027 
+**Change Healthcare, Inc.**  
+3055 Lebanon Pike.  
+Nashville, TN 37214  
+615.932.3000  
+email: chiefprivacyofficer@changehealthcare.com.
