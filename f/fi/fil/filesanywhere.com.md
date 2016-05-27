@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filesanywhere.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907032358id_/http%3A//support.filesanywhere.com/entries/20163703-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filesanywhere.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527021026id_/http%3A//support.filesanywhere.com/entries/20163703-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Support Center
 
@@ -43,9 +43,4 @@ By using our website, you consent to the collection and use of basic information
 
 ### Still Have Questions?
 
-If you need help or have additional questions about logging in, please [contact us](http://support.filesanywhere.com/entries/20225197-contact-us). FilesAnywhere LIVE customer support is available weekdays 9:00 a.m. - 9:00 p.m. Eastern Time. Our customer support is always free, and all engineers are located at our headquarters in the US. 
-
- __________________________________________________________________________
-
-07/01/11: Updated by Kym W.  
-07/07/11: Chris A.
+If you need help or have additional questions about logging in, please [contact us](http://support.filesanywhere.com/entries/20225197-contact-us). 
