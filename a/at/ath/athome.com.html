@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the athome.com privacy policy that was archived on 2015-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151123101722id_/http%3A//www.athome.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the athome.com privacy policy that was archived on 2016-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160527143434id_/http%3A//www.athome.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 
@@ -50,21 +50,54 @@
 <meta name="keywords" content=" Privacy Policy At Home">
 <meta content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
 
-<link href="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/v1448262203938/lib/jquery/ui/jquery-ui.min.css" type="text/css" rel="stylesheet">
+<link href="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/v1464357066015/lib/jquery/ui/jquery-ui.min.css" type="text/css" rel="stylesheet">
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
 <!--[if lt IE 9]>
-<script src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/v1448262203938/js/lib/html5.js"></script>
+<script src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/v1464357066015/js/lib/html5.js"></script>
 <![endif]-->
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/v1448262203938/internal/jscript/dwac-14.8.js"></script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/v1464357066015/internal/jscript/dwac-14.8.js"></script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (head-cquotient.js) */
+var CQuotient = window.CQuotient = {};
+CQuotient.clientId = 'aayz-athome';
+CQuotient.activities = [];
+CQuotient.cqcid='';
+CQuotient.cquid='';
+CQuotient.initFromCookies = function () {
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+	  var c = ca[i];
+	  while (c.charAt(0)==' ') c = c.substring(1,c.length);
+	  if (c.indexOf('cqcid=') == 0) {
+		  CQuotient.cqcid=c.substring('cqcid='.length,c.length);
+	  } else if (c.indexOf('cquid=') == 0) {
+		  CQuotient.cquid=c.substring('cquid='.length,c.length);
+		  break;
+	  }
+	}
+}
+CQuotient.getCQCookieId = function () {
+	if(window.CQuotient.cqcid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqcid;
+};
+CQuotient.getCQUserId = function () {
+	if(window.CQuotient.cquid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cquid;
+};
+/* ]]> */
+// -->
+</script>
 
 
 <!-- UI -->
-<link rel="stylesheet" href="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/v1448262203938/css/style.css">
+<link rel="stylesheet" href="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/v1464357066015/css/style.css">
 <!--[if lte IE 8]>
 <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js" type="text/javascript"></script>
 <script src="https://cdn.rawgit.com/chuckcarpenter/REM-unit-polyfill/master/js/rem.min.js" type="text/javascript"></script>
 <![endif]-->
-<link rel="stylesheet" href="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/v1448262203938/css/magiczoomplus.css">
+<link rel="stylesheet" href="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/v1464357066015/css/magiczoomplus.css">
 
 <meta name="google-site-verification" content="lkZluBhHgI0f5unb-NJyKLidYeKKf_OQv5sWQEVHxBE">
 
@@ -77,18 +110,19 @@
 if (window.jQuery) {
 jQuery(document).ready(function(){
 if(screen.width < 768){
-jQuery('#footer').append('<a href="/on/demandware.store/Sites-athome-Site/default/Home-Show" class="mobile-site-link">View Mobile Site</a>');
-jQuery('.mobile-site-link')
-.attr('href', '/on/demandware.store/Sites-athome-Site/default/Home-MobileSite')
+jQuery('#footer').append('<a href="/on/demandware.store/Sites-athome-Site/default/Home-Show" class="full-site-link">View Full Site</a>');
+jQuery('.full-site-link')
+.attr('href', '/on/demandware.store/Sites-athome-Site/default/Home-FullSite')
 .click(function(e) {
 e.preventDefault();
 jQuery.ajax({
-url: '/on/demandware.store/Sites-athome-Site/default/Home-MobileSite',
+url: '/on/demandware.store/Sites-athome-Site/default/Home-FullSite',
 success: function(){
 window.location.reload();
 }
 });
-});
+}
+);
 }
 });
 }
@@ -114,7 +148,7 @@ window.location.reload();
 
 
 <style type="text/css">.highlight {
-     color: #ff3333;
+     color: #ffffff;
   }
   .headerLink{
       color: #00b3dd !important;
@@ -124,7 +158,7 @@ window.location.reload();
           text-decoration: underline !important;   }
 </style>
 <div class="header-promotion">
-<p><a href="http://www.athome.com/black-friday-2015-special-buys.html"><span style="color:#FFFFFF;">See All Our</span> <span class="highlight"><strong>Black Friday Special Buys</strong></span>.<span style="color:#FFFFFF;"> In store for a limited time.</span></a><a href="http://www.athome.com/black-friday-2015-special-buys.html"><span style="color:#FFFFFF;"> <u>See what's in-store</u></span></a><span style="color:#FFFFFF;">.</span></p>
+<p><a href="http://www.athome.com/on/demandware.store/Sites-athome-Site/default/Stores-Find"><span class="highlight"></span></a><strong><span style="color:#FFFFFF;"></span><span style="color:#FFFFFF;"></span><span style="color:#FFFFFF;">&nbsp;</span></strong><span style="color:#FFFFFF;"></span><span style="color:#FFFFFF;"></span><span style="color:#FFFFFF;">going, going, GONE. Semi-Annual Clearance sale. Up to 50%&nbsp;off </span><span style="color:#FFFFFF;"></span><span style="color:#FFFFFF;"></span><span style="color:#FFFFFF;"><u>1000s of selected items</u></span><span style="color:#FFFFFF;">.</span><a href="http://www.athome.com/semi-annual-clearance/"><span style="color:#FFFFFF;"></span></a><a href="http://www.athome.com/on/demandware.store/Sites-athome-Site/default/Stores-Find"><span style="color:#FFFFFF;">&nbsp;</span></a><a class="headerLink" href="http://www.athome.com/on/demandware.store/Sites-athome-Site/default/Stores-Find">Find your nearest&nbsp;store.</a></p>
 </div>
 
  
@@ -134,9 +168,9 @@ window.location.reload();
 <div class="logo-container-div">
 <button class="menu-toggle"><img class="menu-icon" src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/dw9bb4b163/images/homepage/menu-icon.png"></button>
 <div class="primary-logo">
-<a href="/" title="At Home Home">
-<img class="desktop-show" src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/dw3e89f5cc/images/homepage/athome_web_logo.png" alt="At Home">
-<img class="mobile-show" src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/dwc0e16e49/images/homepage/MobileAtHomeLogo.png" alt="At Home">
+<a href="/" title="Go to At Home Homepage">
+<img class="desktop-show logo-desktop" src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/dw25f8483e/images/homepage/ah-logo-2015.png" alt="At Home Logo">
+<img class="mobile-show" src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/dwc0e16e49/images/homepage/MobileAtHomeLogo.png" alt="At Home Logo">
 <span class="visually-hidden">At Home</span>
 </a>
 </div>
@@ -145,7 +179,7 @@ window.location.reload();
 <i class="heart-menu-icon fa fa-heart"></i>
 </a>
 <i class="circle-menu-icon fa fa-circle"></i>
-<a href="https://www.athome.com/on/demandware.store/Sites-athome-Site/default/Wishlist-Show" id="mobile-myfavs-link" class="mobile-myfavs-link" title="My Favs"><span class="wishlistquantity">null</span></a>
+<a href="https://www.athome.com/on/demandware.store/Sites-athome-Site/default/Wishlist-Show" id="mobile-myfavs-link" class="mobile-myfavs-link" title="My Favs"><span class="wishlistquantity">0.0</span></a>
 </div>
 <div class="mobile-search-button mobile-show">
 <i class="search-menu-icon fa fa-search"></i>
@@ -156,8 +190,9 @@ window.location.reload();
 <form role="search" id="simpleSearchForm" action="/on/demandware.store/Sites-athome-Site/default/Search-Show" method="get" name="simpleSearch">
 <fieldset>
 <label class="visually-hidden" for="q">Search Catalog</label>
-<button class="search-button simplesearch desktop-show" type="submit" value=" ">
-</button><button class="search-button simplesearch mobile-show" type="submit" value=" ">
+<button class="search-button simplesearch desktop-show hide-text" type="submit" value=" ">Search</button>
+<button class="search-button simplesearch mobile-show" type="submit" value=" ">
+<span class="hide">Search</span>
 <i class="search-menu-icon fa fa-search"></i>
 </button>
 <input type="text" id="q" name="q" value="" class="search-input" placeholder="Find Anything For Your Home">
@@ -167,25 +202,34 @@ window.location.reload();
 </div>
 <div class="search-container">
 <div class="current-location">
-<label class="locationLabel">Your Store:</label><span class="locationText">
 
-	<a id="userSelectedStore" href="/on/demandware.store/Sites-athome-Site/default/Stores-Details?StoreID=Virginia-Manassas">Virginia-Manassas</a>
- </span>
+
+
+
+
+<span class="locationLabel">Your Store:</span>
+<span class="locationText">
+	
+		<a class="userSelectedStore" href="/on/demandware.store/Sites-athome-Site/default/Stores-Details?StoreID=Virginia-Manassas">
+			Virginia-Manassas
+		</a>
+	 
+</span>
 <div class="change-location-div">
-<a href="http://www.athome.com/on/demandware.store/Sites-athome-Site/default/Stores-Find" class="changeLocation">(change)</a>
+	<a href="http://www.athome.com/on/demandware.store/Sites-athome-Site/default/Stores-Find" class="changeLocation">(change)</a>
 </div>
 </div>
 <div class="store-finder">
-<a href="http://www.athome.com/on/demandware.store/Sites-athome-Site/default/Stores-Find" class="store-search-button" title="Find A Store">
-<img class="findStoreBtn" src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/dw130c8f8e/images/homepage/StoreLocator.jpg"><span class="storeLabel">Find A Store</span>
+<a href="http://www.athome.com/on/demandware.store/Sites-athome-Site/default/Stores-Find" class="store-search-button">
+<img alt="find store icon" class="findStoreBtn" src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/dw130c8f8e/images/homepage/StoreLocator.jpg"><span class="storeLabel">Find A Store</span>
 </a>
 </div>
 <div class="my-favs">
 
 
-<a href="https://www.athome.com/on/demandware.store/Sites-athome-Site/default/Wishlist-Show" id="myfavs-link" class="store-search-button" title="My Favs">
+<a href="https://www.athome.com/on/demandware.store/Sites-athome-Site/default/Wishlist-Show" id="myfavs-link" class="store-search-button">
 <i class="heart-menu-icon fa fa-heart"></i>
-<label class="storeLabel">My Favs (0)</label>
+<label class="storeLabel">My Favs</label>
 </a>
 
 <script type="text/javascript">
@@ -194,7 +238,7 @@ ebRand = ebRand * 1000000;
 //<![CDATA[
 document.write('<scr'+'ipt src="HTTP://bs.serving-sys.com/Serving/ActivityServer.bs?cn=as&amp;ActivityID=695409&amp;rnd=&#39;' + ebRand + '"></scr' + 'ipt>');
 //]]>
-</script><script src="HTTP://bs.serving-sys.com/Serving/ActivityServer.bs?cn=as&amp;ActivityID=695409&amp;rnd='643412.5514295321"></script>
+</script><script src="HTTP://bs.serving-sys.com/Serving/ActivityServer.bs?cn=as&amp;ActivityID=695409&amp;rnd='623834.4139533058"></script>
 <noscript>
 <img width="1" height="1" style="border:0" src="HTTP://bs.serving-sys.com/Serving/ActivityServer.bs?cn=as&amp;ActivityID=695409&amp;ns=1"/>
 </noscript>
@@ -270,10 +314,22 @@ var google_remarketing_only = false;
 </div>
 
 <div class="mobile-current-location mobile-show">
-<label class="locationLabel">Your Store:</label><span class="locationText">
+<span class="locationLabel">Your Store:</span><span class="locationText">
 
-	<a id="userSelectedStore" href="/on/demandware.store/Sites-athome-Site/default/Stores-Details?StoreID=Virginia-Manassas">Virginia-Manassas</a>
- </span>
+
+
+
+<span class="locationLabel">Your Store:</span>
+<span class="locationText">
+	
+		<a class="userSelectedStore" href="/on/demandware.store/Sites-athome-Site/default/Stores-Details?StoreID=Virginia-Manassas">
+			Virginia-Manassas
+		</a>
+	 
+</span>
+<div class="change-location-div">
+	<a href="http://www.athome.com/on/demandware.store/Sites-athome-Site/default/Stores-Find" class="changeLocation">(change)</a>
+</div></span>
 <div class="mobile-change-location-div">
 <a href="http://www.athome.com/on/demandware.store/Sites-athome-Site/default/Stores-Find" class="mobile-changeLocation">CHANGE</a>
 </div>
@@ -332,7 +388,11 @@ Explore By Departments
 </li>
 
 <li id="seasonal">
-<a href="http://www.athome.com/seasonal/">Holiday Headquarters</a>
+<a href="http://www.athome.com/seasonal/">Seasonal</a>
+</li>
+
+<li id="semi-annual-clearance">
+<a href="http://www.athome.com/semi-annual-clearance/">Semi-Annual Clearance</a>
 </li>
 
 </ul>
@@ -459,14 +519,6 @@ Patio
 <li>
 <a href="http://www.athome.com/accent-furniture/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Accent Furniture');">
 Accent Furniture
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.athome.com/explore-by-piece/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Explore by Piece');">
-Explore by Piece
 </a>
 </li>
 
@@ -700,6 +752,62 @@ Patio Furniture
 
 
 
+<li>
+<a href="http://www.athome.com/umbrellas-shade/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Umbrellas &amp; Shade');">
+Umbrellas &amp; Shade
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.athome.com/outdoor-decor-collections/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Outdoor Decor Collections');">
+Outdoor Decor Collections
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.athome.com/lawn-garden/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Lawn &amp; Garden');">
+Lawn &amp; Garden
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.athome.com/grills-outdoor-cooking/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Grills &amp; Outdoor Cooking');">
+Grills &amp; Outdoor Cooking
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.athome.com/patio-pillows-cushions/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Outdoor Pillows &amp; Cushions');">
+Outdoor Pillows &amp; Cushions
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.athome.com/outdoor-lighting/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Outdoor Lighting');">
+Outdoor Lighting
+</a>
+</li>
+
+
+
+<li>
+<a href="http://www.athome.com/outdoor-decor/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Outdoor Decor');">
+Outdoor Decor
+</a>
+</li>
+
+
+
 </ul>
 
 </div>
@@ -735,30 +843,19 @@ Housekeeping
 <ul class="level-3">
 
 <li>
-<a href="http://www.athome.com/halloween/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Halloween');">
-Halloween
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.athome.com/thanksgiving-fall/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Thanksgiving &amp; Fall');">
-Thanksgiving &amp; Fall
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.athome.com/christmas-season/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Christmas');">
-Christmas
+<a href="http://www.athome.com/wedding/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Wedding');">
+Wedding
 </a>
 </li>
 
 
 
 </ul>
+
+</div>
+
+<div class="semi-annual-clearance level2-subcategories">
+
 
 </div>
 
@@ -827,6 +924,10 @@ Explore By Styles
 <a href="http://www.athome.com/whimsy/">Whimsy</a>
 </li>
 
+<li id="whats-trending">
+<a href="http://www.athome.com/whats-trending/">What's Trending?</a>
+</li>
+
 <li id="style-1">
 <a href="http://www.athome.com/style-quiz.html">Take Our Style Quiz!</a>
 </li>
@@ -844,12 +945,11 @@ Explore By Styles
 
 
 <div style="width:225px">
-<p><img alt="" src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/-/Library-Sites-AtHomeLibrary/default/dwfd699832/images/mega-menu/modernmetro-navigation.jpg" title=""></p>
+<p><img alt="" src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/-/Library-Sites-AtHomeLibrary/default/dw21293ac8/images/mega-menu/explore by style - modern2.jpg" title=""></p>
 
 <p style="font-size:24px;font-weight:800;">Modern Metro</p>
 
-<p>A fan of clean lines and hip minimalism, you’re simply mad for mid mod.</p>
-
+<p>If you're a&nbsp;fan of bold color, retro decor&nbsp;and hip accents, you’re simply mad for mod.</p>
 </div>
 
  
@@ -866,12 +966,11 @@ Explore By Styles
 
 
 <div style="width:225px">
-<p><img alt="" src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/-/Library-Sites-AtHomeLibrary/default/dw4c150936/images/mega-menu/soholoft-navigation.jpg" title=""></p>
+<p><img alt="" src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/-/Library-Sites-AtHomeLibrary/default/dwa5b01a25/images/mega-menu/explore by stlye- urban.jpg" title=""></p>
 
 <p style="font-size:24px;font-weight:800;">Urban Living</p>
 
 <p>Your style, like your approach to life, reflects a modern sensibility that’s efficient-yet-relaxed.</p>
-
 </div>
 
  
@@ -888,12 +987,11 @@ Explore By Styles
 
 
 <div style="width:225px">
-<p><img alt="" src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/-/Library-Sites-AtHomeLibrary/default/dw18cf92f3/images/mega-menu/graciousliving-navigation.jpg" title=""></p>
+<p><img alt="" src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/-/Library-Sites-AtHomeLibrary/default/dw4fe4760a/images/mega-menu/explore by stlye- gracious.jpg" title=""></p>
 
 <p style="font-size:24px;font-weight:800;">Gracious Living</p>
 
-<p>Your style is truly unique blending a foundation of classic looks with a feminine touch.</p>
-
+<p>Your style is truly unique blending a foundation of classic looks with an elegant&nbsp;touch.</p>
 </div>
 
  
@@ -1032,6 +1130,27 @@ Explore By Styles
 	
 </div>
 
+<div class="whats-trending level2-subcategories">
+
+	 
+
+
+	
+
+
+
+<div style="width:225px">
+<p><img alt="What's Trending" src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/-/Library-Sites-AtHomeLibrary/default/dwbb0fc43b/images/mega-menu/mixed elements_trend_tile_5.2.jpg" title=""></p>
+
+<p style="font-size:24px;font-weight:800;">What's Trending?</p>
+
+<p>Check out What's Trending in our stores and share how you incorporate fast fashion finds in your home with the #AtHomeFinds.</p>
+</div>
+
+ 
+	
+</div>
+
 <div class="style-1 level2-subcategories">
 
 	 
@@ -1080,6 +1199,10 @@ Explore By Rooms
 <div>
 <ul class="level2-menu">
 
+<li id="back-to-campus">
+<a href="http://www.athome.com/back-to-campus/">Back to Campus</a>
+</li>
+
 <li id="living-room">
 <a href="http://www.athome.com/living-room/">Living Room</a>
 </li>
@@ -1104,10 +1227,21 @@ Explore By Rooms
 <a href="http://www.athome.com/bathroom/">Bathroom</a>
 </li>
 
+<li id="explore-the-look">
+<a href="http://www.athome.com/explore-the-look/">Get the Look</a>
+</li>
+
 </ul>
 </div>
 
-<div class="living-room level2-subcategories" style="display:block;">
+<div class="back-to-campus level2-subcategories" style="display:block;">
+
+	 
+
+	
+</div>
+
+<div class="living-room level2-subcategories">
 
 	 
 
@@ -1117,7 +1251,7 @@ Explore By Rooms
 
 
 <div style="width:225px">
-<p><img alt="" src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/-/Library-Sites-AtHomeLibrary/default/dw47d9bcf4/images/mega-menu/living room megamenu.jpg" title=""></p>
+<p><img alt="" src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/-/Library-Sites-AtHomeLibrary/default/dw42b92423/images/mega-menu/explore by room-living room2.jpg" title=""></p>
 </div>
 
  
@@ -1134,7 +1268,7 @@ Explore By Rooms
 
 
 <div style="width:225px">
-<p><img alt="" src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/-/Library-Sites-AtHomeLibrary/default/dw91f9288e/images/mega-menu/dining room megamenu.jpg" title=""></p>
+<p><img alt="" src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/-/Library-Sites-AtHomeLibrary/default/dw30b15327/images/mega-menu/explore by room-dining room2.jpg" title=""></p>
 </div>
 
  
@@ -1166,8 +1300,7 @@ Explore By Rooms
 
 
 <div style="width:225px">
-<p><img alt="" src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/-/Library-Sites-AtHomeLibrary/default/dwda8699f6/bedroom mega menu.jpg" title=""></p>
-
+<p><img alt="" src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/-/Library-Sites-AtHomeLibrary/default/dw8d9eb09f/images/mega-menu/explore by room-bedroom.jpg" title=""></p>
 </div>
 
  
@@ -1202,8 +1335,24 @@ Explore By Rooms
 
 
 <div style="width:225px">
-<p><img alt="" src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/-/Library-Sites-AtHomeLibrary/default/dw2da3ec67/images/mega-menu/bath-navigation.jpg" title=""></p>
+<p><img alt="" src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/-/Library-Sites-AtHomeLibrary/default/dw1aef4ec1/images/mega-menu/explore by room-bathroom.jpg" title=""></p>
+</div>
 
+ 
+	
+</div>
+
+<div class="explore-the-look level2-subcategories">
+
+	 
+
+
+	
+
+
+
+<div style="width:225px">
+<p><img alt="" src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/-/Library-Sites-AtHomeLibrary/default/dw022b7a4c/images/mega-menu/get_the_look_style_tile_5.2.jpg" title=""></p>
 </div>
 
  
@@ -1219,107 +1368,30 @@ Explore By Rooms
 
 <li>
 
-<a class="" href="http://www.athome.com/holiday-headquarters/">
-Holiday Headquarters
-
-
+<a class="" href="http://www.athome.com/new/">
+New
 
 </a>
 
-<img class="menuDownImg" src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/dwdefcc818/images/blue_open_close.png">
 
 
 
 
 
 
-<div class="level-2">
-
-<div class="vertical-megamenu">
-<div>
-<ul class="level2-menu">
-
-<li id="thanksgiving-fall-season">
-<a href="http://www.athome.com/thanksgiving-fall-season/">Thanksgiving &amp; Fall</a>
 </li>
 
-<li id="christmas-headquarters">
-<a href="http://www.athome.com/christmas-headquarters/">Christmas</a>
-</li>
+<li>
 
-<li id="tree-for-me">
-<a href="http://www.athome.com/tree-for-me/">Tree for Me</a>
-</li>
+<a class="" href="http://www.athome.com/springhouse/">
+HGTV® Spring House 2016
 
-<li id="holiday-1">
-<a href="http://www.athome.com/holiday-1/">Christmas Themes</a>
-</li>
-
-</ul>
-</div>
-
-<div class="thanksgiving-fall-season level2-subcategories" style="display:block;">
-
-	 
-
-
-	
+</a>
 
 
 
-<div style="width:225px">
-<p><img alt="" src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/-/Library-Sites-AtHomeLibrary/default/dwb4fc82ab/Harvest mega menu2.jpg" title=""></p>
-</div>
-
- 
-	
-</div>
-
-<div class="christmas-headquarters level2-subcategories">
-
-	 
 
 
-	
-
-
-
-<div style="width:225px">
-<p><img alt="" src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/-/Library-Sites-AtHomeLibrary/default/dw4118c8c1/Christmas Megamenu.jpg" title=""></p>
-
-</div>
-
- 
-	
-</div>
-
-<div class="tree-for-me level2-subcategories">
-
-	 
-
-	
-</div>
-
-<div class="holiday-1 level2-subcategories">
-
-	 
-
-
-	
-
-
-
-<div style="width:225px">
-<p><img alt="" src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/-/Library-Sites-AtHomeLibrary/default/dw499e695e/Theme Megamenu.jpg" title=""></p>
-</div>
-
- 
-	
-</div>
-
-</div>
-
-</div>
 
 
 </li>
@@ -1328,6 +1400,21 @@ Holiday Headquarters
 
 <a class="" href="http://www.athome.com/ideas-how-tos/">
 Ideas &amp; How To's
+
+</a>
+
+
+
+
+
+
+
+</li>
+
+<li>
+
+<a class="" href="http://www.athome.com/At-Home-Finds.html">
+#AtHomeFinds
 
 </a>
 
@@ -1360,9 +1447,9 @@ Ideas &amp; How To's
 
 
 <div class="breadcrumb">
-<a href="http://www.athome.com" class="breadcrumb-element" title="Home">Home</a>
+<a href="http://www.athome.com" class="breadcrumb-element">Home</a>
 
-<a class="breadcrumb-element" href="/privacy-policy.html" title="Privacy Policy">Privacy Policy</a>
+<a class="breadcrumb-element" href="/privacy-policy.html">Privacy Policy</a>
 
 </div><!-- END: breadcrumb -->
 
@@ -1597,7 +1684,7 @@ display:none;
 <div class="mobile-footer-div mobile-show">
 <div class="footer-email-txt"><span class="signUpTxt"><span class="boldTxt">Sign Up </span>to receive emails about store promotions and decorating ideas.</span></div>
 <div class="email-div">
-<form action="#" id="footer-email-signup" method="post"><button class="footer-subscribe-button" name="home-email" title="Submit" type="submit" value="Submit">SIGN UP FOR SPECIALS</button></form>
+<form action="#" id="footer-email-signup-mobile" method="post"><button class="footer-subscribe-button" name="home-email" title="Submit" type="submit" value="Submit">SIGN UP FOR SPECIALS</button></form>
 </div>
 <div class="social-div">
    <a class="footer-facebook displayA" href="https://www.facebook.com/athomestores" target="_blank"><span class="hideText">Text</span></a> 
@@ -1666,7 +1753,7 @@ display:none;
 
 
 <div class="content-asset"><!-- dwMarker="content" dwContentID="cd2AciaaiEXnUaaadmXbQKhNEa" -->
-<h3>Quick Links<span class="expand-menu-icon mobile-show"><i class="expand-icon fa fa-plus"></i></span><span class="contract-menu-icon"><i class="contract-icon fa fa-minus"></i></span></h3>
+<h3>Quick Links</h3>
 
 <ul class="menu-footer">
 	<li><a href="http://www.athome.com/departments/">Explore Departments</a></li>
@@ -1674,8 +1761,7 @@ display:none;
 	<li><a href="http://www.athome.com/rooms/">Explore Rooms</a></li>
 	<li><a href="http://www.athome.com/ideas-how-tos/">Ideas &amp; How-To's</a></li>
 	<li><a href="http://blog.athome.com" target="_blank">Blog</a></li>
-	<li><a href="http://www.athome.com/thanksgiving-fall/">Thanksgiving &amp; Fall</a></li>
-	<li><a href="http://www.athome.com/christmas/">Christmas</a></li>
+	<li><a href="http://www.athome.com/At-Home-Finds.html">#AtHomeFinds</a></li>
 </ul>
 <!-- END: footer_about -->
 </div> <!-- End content-asset -->
@@ -1696,7 +1782,7 @@ display:none;
 <h3>Other<span class="expand-menu-icon mobile-show"><i class="expand-icon fa fa-plus"></i></span><span class="contract-menu-icon"><i class="contract-icon fa fa-minus"></i></span></h3>
 
 <ul class="menu-footer">
-     <li><a href="https://www.athome.com/on/demandware.store/Sites-athome-Site/default/Stores-Find" title="Find a Store">Find A Store</a></li>
+     <li><a href="https://www.athome.com/on/demandware.store/Sites-athome-Site/default/Stores-Find">Find A Store</a></li>
   <li><a href="http://www.athome.com/partners.html">Product Partner Login</a></li>
 
  </ul>
@@ -1716,18 +1802,16 @@ display:none;
 
 
 <div class="content-asset"><!-- dwMarker="content" dwContentID="bcA4UiaaiExGUaaadmwIsKhND8" -->
-<style>
-.footer_logo {
+<style type="text/css">.footer_logo {
    display: block;
     height: 40px;
     margin: auto;
     padding:  54px 0 30px 0;
 }
 </style>
+<div class="footer-logo-div"><img alt="At Home" class="footer_logo" height="130" src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/-/Library-Sites-AtHomeLibrary/default/dw25f8483e/ah-logo-2015.png" width="141"></div>
 
-<div class="footer-logo-div">
-<img class="footer_logo" alt="" src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/-/Library-Sites-AtHomeLibrary/default/dw3e89f5cc/athome_web_logo.png" title="At Home">
-</div>
+<div class="footer-logo-div" style="text-align: center;">HGTV, HGTV Spring House, and their respective logos are trademarks of Scripps Networks, LLC. Used with permission; all rights reserved.</div>
 </div> <!-- End content-asset -->
 
 
@@ -1761,7 +1845,7 @@ if(window.innerWidth < 768) {
 
 
 <!--[if lte IE 8]>
-<script src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/v1448262203938/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
+<script src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/v1464357066015/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
 <script src="//cdn.rawgit.com/weblinc/media-match/master/media.match.min.js" type="text/javascript"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/es5-shim/3.4.0/es5-shim.min.js"></script>
 <![endif]-->
@@ -1769,32 +1853,34 @@ if(window.innerWidth < 768) {
 <script src="//cdn.rawgit.com/paulirish/matchMedia.js/master/matchMedia.js" type="text/javascript"></script>
 <script src="//cdn.rawgit.com/paulirish/matchMedia.js/master/matchMedia.addListener.js" type="text/javascript"></script>
 <![endif]-->
-<script src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/v1448262203938/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
-<script src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/v1448262203938/lib/jquery/ui/jquery-ui.min.js" type="text/javascript"></script>
+<script src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/v1464357066015/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
+<script src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/v1464357066015/lib/jquery/ui/jquery-ui.min.js" type="text/javascript"></script>
+<!--
 <script src="//tandemtheory.com/athome/slider/slider.js" type="text/javascript"></script>
 <script src="//tandemtheory.com/athome/quiz/styleQuiz.js" type="text/javascript"></script>
+-->
 <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
 <link href="http://fonts.googleapis.com/css?family=Open+Sans:700,300,600,400" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700" rel="stylesheet" type="text/css">
-<link type="text/css" rel="stylesheet" href="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/v1448262203938/css/selectBoxIt.css">
-<script src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/v1448262203938/lib/jquery/jquery.jcarousel.min.js" type="text/javascript"></script>
-<script src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/v1448262203938/lib/jquery/jquery.validate.min.js" type="text/javascript"></script>
+<link type="text/css" rel="stylesheet" href="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/v1464357066015/css/selectBoxIt.css">
+<script src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/v1464357066015/lib/jquery/jquery.jcarousel.min.js" type="text/javascript"></script>
+<script src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/v1464357066015/lib/jquery/jquery.validate.min.js" type="text/javascript"></script>
 <script src="http://gregfranko.com/jquery.selectBoxIt.js/js/jquery.selectBoxIt.min.js"></script>
-<script src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/v1448262203938/lib/jquery/jquery.zoom.min.js"></script>
-<script src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/v1448262203938/lib/magiczoomplus/magiczoomplus.js"></script>
-<script src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/v1448262203938/lib/jquery/jquery.cookie.js" type="text/javascript"></script>
+<script src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/v1464357066015/lib/jquery/jquery.zoom.min.js"></script>
+<script src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/v1464357066015/lib/magiczoomplus/magiczoomplus.js"></script>
+<script src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/v1464357066015/lib/jquery/jquery.cookie.js" type="text/javascript"></script>
 <script type="text/javascript">
 
 (function(){
 window.Constants = {"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE"};
 window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No Thanks","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","REG_ADDR_ERROR":"Couldn't Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Product(s)","SELECT_BONUS_PRODUCTS":"Select Bonus Product(s)","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products have been selected.  Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"Find Anything For Your Home","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please Enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response, Parser error","INVALID_PHONE":"Please specify a valid phone number.","INVALID_EMAIL":"The email address is invalid.","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added to compare.  Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid Gift Certificate Code","GIFT_CERT_BALANCE":"Your current gift certificate balance is","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift certificate code.","INVALID_OWNER":"This appears to be a credit card number.  Please enter the name of the credit card owner.","COUPON_CODE_MISSING":"Please Enter a Coupon Code","COOKIES_DISABLED":"Your browser currently is not set to accept Cookies. Please turn it on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","ITEM_STATUS_NOTAVAILABLE":"This item is currently not available.","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter Zip Code","INVALID_ZIP":"Please enter a valid Zip Code","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Less Stores","QUICK_VIEW":"Quick View","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) In Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back Order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"This item is currently not available.","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
-window.Urls = {"appResources":"/on/demandware.store/Sites-athome-Site/default/Resources-Load","pageInclude":"/on/demandware.store/Sites-athome-Site/default/Page-Include","continueUrl":"http://www.athome.com/on/demandware.store/Sites-athome-Site/default/Page-Show/C86855214","staticPath":"http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/v1448262203938/","addGiftCert":"/on/demandware.store/Sites-athome-Site/default/GiftCert-Purchase","minicartGC":"/on/demandware.store/Sites-athome-Site/default/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-athome-Site/default/Cart-AddProduct","minicart":"/on/demandware.store/Sites-athome-Site/default/Cart-MiniAddProduct","cartShow":"/on/demandware.store/Sites-athome-Site/default/Cart-Show","giftRegAdd":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/Address-GetAddressDetails?addressID=","paymentsList":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/PaymentInstruments-List","addressesList":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/Address-List","wishlistAddress":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-athome-Site/default/Address-Delete","getProductUrl":"/on/demandware.store/Sites-athome-Site/default/Product-Show","getBonusProducts":"/on/demandware.store/Sites-athome-Site/default/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-athome-Site/default/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-athome-Site/default/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-athome-Site/default/Product-Detail","getAvailability":"/on/demandware.store/Sites-athome-Site/default/Product-GetAvailability","removeImg":"http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/dwc8e53f09/images/interface/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-athome-Site/default/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-athome-Site/default/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-athome-Site/default/COBilling-UpdateSummary","billingSelectCC":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/COBilling-UpdateCreditCardSelection","updateAddressDetails":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-athome-Site/default/COBilling-ResetPaymentForms","compareShow":"/on/demandware.store/Sites-athome-Site/default/Compare-Show","compareAdd":"/on/demandware.store/Sites-athome-Site/default/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-athome-Site/default/Compare-RemoveProduct","compareEmptyImage":"http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/Cart-AddCouponJson","storesInventory":"/on/demandware.store/Sites-athome-Site/default/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-athome-Site/default/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-athome-Site/default/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-athome-Site/default/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-athome-Site/default/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-athome-Site/default/StoreInventory-GetZipCode","billing":"/on/demandware.store/Sites-athome-Site/default/COBilling-Start","setSessionCurrency":"/on/demandware.store/Sites-athome-Site/default/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-athome-Site/default/COShippingMultiple-AddEditAddressJSON","cookieHint":"/on/demandware.store/Sites-athome-Site/default/Page-Include?cid=cookie_hint","optinForm":"/on/demandware.store/Sites-athome-Site/default/Home-OptInForm"};
+window.Urls = {"appResources":"/on/demandware.store/Sites-athome-Site/default/Resources-Load","pageInclude":"/on/demandware.store/Sites-athome-Site/default/Page-Include","continueUrl":"http://www.athome.com/on/demandware.store/Sites-athome-Site/default/Page-Show/C2028854501","staticPath":"http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/v1464357066015/","addGiftCert":"/on/demandware.store/Sites-athome-Site/default/GiftCert-Purchase","minicartGC":"/on/demandware.store/Sites-athome-Site/default/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-athome-Site/default/Cart-AddProduct","minicart":"/on/demandware.store/Sites-athome-Site/default/Cart-MiniAddProduct","cartShow":"/on/demandware.store/Sites-athome-Site/default/Cart-Show","giftRegAdd":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/Address-GetAddressDetails?addressID=","paymentsList":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/PaymentInstruments-List","addressesList":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/Address-List","wishlistAddress":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-athome-Site/default/Address-Delete","getProductUrl":"/on/demandware.store/Sites-athome-Site/default/Product-Show","getBonusProducts":"/on/demandware.store/Sites-athome-Site/default/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-athome-Site/default/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-athome-Site/default/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-athome-Site/default/Product-Detail","getAvailability":"/on/demandware.store/Sites-athome-Site/default/Product-GetAvailability","removeImg":"http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/dwc8e53f09/images/interface/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-athome-Site/default/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-athome-Site/default/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-athome-Site/default/COBilling-UpdateSummary","billingSelectCC":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/COBilling-UpdateCreditCardSelection","updateAddressDetails":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-athome-Site/default/COBilling-ResetPaymentForms","compareShow":"/on/demandware.store/Sites-athome-Site/default/Compare-Show","compareAdd":"/on/demandware.store/Sites-athome-Site/default/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-athome-Site/default/Compare-RemoveProduct","compareEmptyImage":"http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/Cart-AddCouponJson","storesInventory":"/on/demandware.store/Sites-athome-Site/default/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-athome-Site/default/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-athome-Site/default/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-athome-Site/default/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-athome-Site/default/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-athome-Site/default/StoreInventory-GetZipCode","billing":"/on/demandware.store/Sites-athome-Site/default/COBilling-Start","setSessionCurrency":"/on/demandware.store/Sites-athome-Site/default/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-athome-Site/default/COShippingMultiple-AddEditAddressJSON","cookieHint":"/on/demandware.store/Sites-athome-Site/default/Page-Include?cid=cookie_hint","tandemStyleQuizXml":"/on/demandware.store/Sites-athome-Site/default/Home-StyleQuizInclude","optinForm":"/on/demandware.store/Sites-athome-Site/default/Home-OptInForm"};
 window.SitePreferences = {"LISTING_INFINITE_SCROLL":true,"LISTING_REFINE_SORT":true,"LISTING_SEARCHSUGGEST_LEGACY":true,"STORE_PICKUP":false,"COOKIE_HINT":false};
 window.User = {"zip":null,"storeId":null};
 }());
 </script>
-<script src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/v1448262203938/js/app.js"></script>
-<script src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/v1448262203938/js/powerreviews.js"></script>
+<script src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/v1464357066015/js/app.js"></script>
+<script src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/v1464357066015/js/powerreviews.js"></script>
 
 
 
@@ -1851,6 +1937,7 @@ $(this).hide();
 });
 });
 </script>
+<div class="img-blank-alt">
 <script type="text/javascript">
 // Retargeting Pixel
 var ebRand = Math.random()+'';
@@ -1858,9 +1945,10 @@ ebRand = ebRand * 1000000;
 //<![CDATA[
 document.write('<scr'+'ipt src="HTTP://bs.serving-sys.com/Serving/ActivityServer.bs?cn=as&amp;ActivityID=674534&amp;rnd=' + ebRand + '"></scr' + 'ipt>');
 //]]>
-</script><script src="HTTP://bs.serving-sys.com/Serving/ActivityServer.bs?cn=as&amp;ActivityID=674534&amp;rnd=556600.321330855"></script>
+</script><script src="HTTP://bs.serving-sys.com/Serving/ActivityServer.bs?cn=as&amp;ActivityID=674534&amp;rnd=533640.4092026763"></script>
+</div>
 <noscript>
-<img width="1" height="1" style="border:0" src="HTTP://bs.serving-sys.com/Serving/ActivityServer.bs?cn=as&amp;ActivityID=674534&amp;ns=1"/>
+<img alt="" width="1" height="1" style="border:0" src="HTTP://bs.serving-sys.com/Serving/ActivityServer.bs?cn=as&amp;ActivityID=674534&amp;ns=1"/>
 </noscript>
 <!-- Google Analytics -->
 <script type="text/javascript">
@@ -1888,13 +1976,15 @@ document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
 if(oldonload){oldonload()}};
 }());
 </script>
+<script src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/v1464357066015/lib/tandem/slider.js" type="text/javascript"></script>
+<script src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/v1464357066015/lib/tandem/styleQuiz.js" type="text/javascript"></script>
 
 
 
 
 </div>
-<!-- Demandware Analytics code 1.0 -->
-<script type="text/javascript" src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/v1448262203938/internal/jscript/dwanalytics.js"></script>
+<!-- Demandware Analytics code 1.0 (body_end-analytics-tracking.js) -->
+<script type="text/javascript" src="http://demandware.edgesuite.net/aayz_prd/on/demandware.static/Sites-athome-Site/-/default/v1464357066015/internal/jscript/dwanalytics.js"></script>
 <script type="text/javascript">//<!--
 /* <![CDATA[ */
 try{
@@ -1909,6 +1999,8 @@ try{
 /* ]]> */
 // -->
 </script>
+<!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script src="//cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="true"></script>
 
 
 </body></html>
