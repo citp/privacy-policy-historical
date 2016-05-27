@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the spec.org privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208015354id_/http%3A//www.spec.org/spec/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spec.org privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527164955id_/http%3A//www.spec.org/spec/privacy_policy.html) for the most accurate reproduction.*
 
 # SPEC Privacy Policy
 
 **Benchmarks**
 
-  * [CPU](https://web.archive.org/benchmarks.html)
+  * [Cloud](https://web.archive.org/benchmarks.html#cloud)
+  * [CPU](https://web.archive.org/benchmarks.html#cpu)
   * [Graphics/Workstations](https://web.archive.org/benchmarks.html#gwpg)
   * [ACCEL/MPI/OMP](https://web.archive.org/benchmarks.html#hpg)
   * [Java Client/Server](https://web.archive.org/benchmarks.html#java)
