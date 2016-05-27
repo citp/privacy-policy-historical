@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sqlmaestro.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219031743id_/http%3A//www.sqlmaestro.com/contacts/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlmaestro.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527170540id_/http%3A//www.sqlmaestro.com/contacts/privacy) for the most accurate reproduction.*
 
 # Database tools for MySQL, SQL Server, PostgreSQL, SQLite, Oracle, DB2, Firebird by SQL Maestro Group
 
@@ -6,9 +6,9 @@ Partners
 
 Testimonials
 
-**Padster Reynolds:** "Good software that has become one of our must have tools - wouldn't like to be without it these days. Keep up the good work".
+**Brian Vivian:** "Thank you very much for making such a great product. It makes my job a LOT easier".
 
-**Marco De Luca:** "I can handle now both version of SQLite Databases, 2.x and 3.x. Your SQLite PHP Generator is among the best tools I have seen".
+**Padster Reynolds:** "Good software that has become one of our must have tools - wouldn't like to be without it these days. Keep up the good work".
 
 [More](http://www.sqlmaestro.com/products/testimonials/)
 
@@ -69,35 +69,26 @@ If we decide to change our privacy policy, we will post those changes on our hom
 
 | 
 
-#### [Christmas Sale](http://www.sqlmaestro.com/purchase/)
-
-| [](http://www.sqlmaestro.com/purchase/)  
----  
-  
-SQL Maestro Group wish you a **Merry  Christmas!**  
-  
-We're happy to grant you a [**25% discount**](http://www.sqlmaestro.com/purchase/) for all our products and bundles till **December 31!**  
-  
 Company news[](http://www.sqlmaestro.com/rss.xml)
 
-Dec 10, 2015
+Apr 11, 2016
 
-This new and revolutionary, major release features state of the art 100% responsive design, PHP 7 support, enhanced Filter Builder, multi-column sorting, 18 color themes, top side drop-down menus, a number of new and updated controls, improved event model, and a lot of other time-saving features. 
+This version introduces cross-DBMS data comparison with native support for the most popular database servers, email notifications, and more.
 
-Nov 16, 2015
+Mar 21, 2016
 
-New version introduces Firebird 3.0 RC1 compatibility, support of packages, DDL triggers and some other Firebird 3.0 features, improved Transaction Browser, new encryption algorithms in data grids, updated data export and data import tools and other useful things.
+New version introduces out-of-the-box charts, enhanced sidebar menus, compact themes, embedded video columns, improved data export tools, new and updated events, custom form titles, and some other features.
 
-Jul 27, 2015
+Feb 11, 2016
 
-New version features support for Azure SQL Database and SQL Server 2016, updated data export/import tools, colored tabs, new encryption algorithms in data grids and some other useful things.
+We're pleased to start a new product family and release as many as 9 new tools for database conversion and migration.
 
 Feature of the day
 
-[](http://www.sqlmaestro.com/products/mssql/compact_maestro/help/10_02_03_sql_editor_formatter/)
+[](http://www.sqlmaestro.com/products/mssql/phpgenerator/screenshots/common/data_partitioning/)
 
-MS Compact Maestro allows you to tune up SQL scripts according to your preferences.
+PHP Generator allows you to create a custom pagination i.e. split the records on the generated page by a specified criteria.
 
-[](http://www.sqlmaestro.com/products/firebird/phpgenerator/screenshots/common/security_options/)
+[](http://www.sqlmaestro.com/products/mssql/codefactory/screenshots/getting_started/sql_editor/)
 
-PHP Generator allows you to protect the result script with a lot of security settings.
+MS SQL Code Factory provides you with all the features (such as viewing, editing, grouping, sorting and filtering) to analyze the data in the most convenient way.
