@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wheatoncollege.edu privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127141257id_/http%3A//wheatoncollege.edu/web/digital-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wheatoncollege.edu privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527232929id_/http%3A//wheatoncollege.edu/web/digital-privacy-policy) for the most accurate reproduction.*
 
-# Digital Privacy Policy – Web | Wheaton College
+# Digital Privacy Policy – Web | Wheaton College | Massachusetts
 
 Wheaton College is committed to preserving and maintaining the privacy of visitors to our websites. Wheaton College wants the personal information of visitors to our website to remain as secure as reasonably possible. Hence, we have taken measures to protect such personal information from loss, misuse or alteration. You understand, however, that no website security procedures are foolproof. Therefore, you agree that the personal information you submit to the Wheaton College website is submitted at your own risk and that Wheaton College will not be liable to you for any breach of security or inadvertent disclosure of your personal information.
 
