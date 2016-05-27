@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the digital.nyc privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218165453id_/http%3A//www.digital.nyc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digital.nyc privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527085441id_/http%3A//www.digital.nyc/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Digital.NYC
 
-Digital.NYC respects your privacy and is committed to protecting it. This Privacy Policy describes the policies and procedures that govern the collection, use and disclosure of your personal information when you use Digital.NYC. We will not use or share your confidential information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect from other sources.  Information that you submit to Digital.NYC may be publicly available and disclosed. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in Digital.NYC’s [Terms of Service](https://web.archive.org/terms).   
-
+Digital.NYC respects your privacy and is committed to protecting it. This Privacy Policy describes the policies and procedures that govern the collection, use and disclosure of your personal information when you use Digital.NYC. We will not use or share your confidential information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect from other sources.  Information that you submit to Digital.NYC may be publicly available and disclosed. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in Digital.NYC’s [Terms of Service](http://gust-dnyc.sandbox.floe.ca/terms).
 
 ## Scope of this Privacy Policy
 
-**This Privacy Policy applies only to your relationship with  “the Covered Parties” as defined in the Digital.NYC Terms of Service. **It does not apply to the interactions that you have with any other individual, entity, investor or other group on or through Digital.NYC. 
+**This Privacy Policy applies only to your relationship with  “the Covered Parties” as defined in the Digital.NYC Terms of Service. **It does not apply to the interactions that you have with any other individual, entity, investor or other group on or through Digital.NYC.
 
-This Privacy Policy describes the types of information we may collect from you or that you may provide when you use Digital.NYC, and our practices for collecting, using, maintaining, protecting and disclosing that information. 
+This Privacy Policy describes the types of information we may collect from you or that you may provide when you use Digital.NYC, and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
 This Privacy Policy applies to information we collect:
 
@@ -19,28 +18,28 @@ This Privacy Policy applies to information we collect:
 
 
 
-It does not apply to information collected by: 
+It does not apply to information collected by:
 
-  * Us offline or through any other means; or 
+  * Us offline or through any other means; or
   * Any third party (including our partners, affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from or on Digital.NYC.
 
 
 
 Please read this Privacy Policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use Digital.NYC. By accessing or using Digital.NYC, you agree to this Privacy Policy. This Privacy Policy may change from time to time. Your continued use of Digital.NYC after we make changes is deemed to be acceptance of those changes, so please check the Privacy Policy periodically for updates.
 
-Back to Top
+[Back to Top](http://gust-dnyc.sandbox.floe.ca/privacy#)
 
 ## Definitions
 
-This Privacy Policy is a part of the Terms of Service for Digital.NYC. The terms “Covered Parties,” “Digital.NYC,” “Gust,” and “Digital.NYC Content,” as well as all other capitalized terms not otherwise defined in the Privacy Policy have the same meaning set forth in the [Digital.NYC Terms of Service.](https://web.archive.org/terms)
+This Privacy Policy is a part of the Terms of Service for Digital.NYC. The terms “Covered Parties,” “Digital.NYC,” “Gust,” and “Digital.NYC Content,” as well as all other capitalized terms not otherwise defined in the Privacy Policy have the same meaning set forth in the [Digital.NYC Terms of Service.](http://gust-dnyc.sandbox.floe.ca/terms)
 
-Back to Top
+[Back to Top](http://gust-dnyc.sandbox.floe.ca/privacy#)
 
 ## What is “personal data”?
 
 "Personal data" is any data that (1) is recorded in any form, (2) is about or pertains to a specific individual and (3) can be linked to that individual. For example, and without limitation, your first and last names, address, email address, telephone number, and other contact information are "personal data." Personal data does not include website data, aggregated data,  uploaded documents, or profile information about a commercial business or not-for-profit organization.
 
-Back to Top
+[Back to Top](http://gust-dnyc.sandbox.floe.ca/privacy#)
 
 ## What kind of personal data is collected?
 
@@ -56,19 +55,19 @@ We collect personal data at different stages of your use of Digital.NYC.
 
 If you provide any information about or personal data of a third party (such as a person's name or photograph), you are representing to the Covered Parties that you have all necessary authority and/or have obtained all necessary consents from such individual to enable the Covered Parties to collect, use and disclose his or her personal data as set forth in this Privacy Policy.  If we receive a written complaint or direction from the person, we will take down his or her information and notify you that we have done so.
 
-Back to Top
+[Back to Top](http://gust-dnyc.sandbox.floe.ca/privacy#)
 
 ## How is personal data collected?
 
-We collect personal data directly from you when you provide it through your use of Digital.NYC, such as in emails or when you fill out forms that are displayed on Digital.NYC. We also use cookies that are sent to your computer, or action tags that are placed on Digital.NYC. For additional explanation on cookies and action tags, see Cookies and Action Tags.
+We collect personal data directly from you when you provide it through your use of Digital.NYC, such as in emails or when you fill out forms that are displayed on Digital.NYC. We also use cookies that are sent to your computer, or action tags that are placed on Digital.NYC. For additional explanation on cookies and action tags, see [Cookies and Action Tags.](http://gust-dnyc.sandbox.floe.ca/privacy#section14)
 
-Back to Top
+[Back to Top](http://gust-dnyc.sandbox.floe.ca/privacy#)
 
 ## For what purpose will my personal data be used?
 
 The Covered Parties use your personal data to respond to requests that you make of us, and to contact you and to provide you with information that we believe may be of interest to you. We may also use your name and contact information to make queries to social networking and other sites, such as LinkedIn, for a variety of purposes, including, but not limited to, verifying your identity.
 
-Back to Top
+[Back to Top](http://gust-dnyc.sandbox.floe.ca/privacy#)
 
 ## With whom may the Covered Parties share personal data?
 
@@ -76,25 +75,25 @@ Under certain business or legal conditions, Gust may have to disclose your perso
 
   * **Within the Gust Family:** Gust may now or in the future have a parent, subsidiary or related company or companies within the Gust family of companies.  Gust has the right to share all personal data with all such affiliated companies.
   * **Service Providers:** Gust may engage other companies and individuals to perform necessary business functions on behalf of Gust (e.g. outside contractors or service providers). If it is necessary to perform these functions, these companies or individuals may have access to personal data of our users. These service providers have agreed not to use the personal data for any other purpose other than providing the required services.
-  * **Legally Required Disclosure:** Under certain circumstances, disclosure of your personal data may be required by law. Gust may disclose your personal data (1) if, in its own best judgment, it is required to do so in order to comply with a facially valid judicial or governmental subpoena, warrant, or other order, or (2) to a government institution that has asserted its lawful authority to obtain the information, or (3) in connection with the exercise or defense of its rights. 
-  * **Change of Ownership:** If ownership of Gust changes as a result of a merger, acquisition, or transfer to another company, your personal data may be transferred to the successor entity. If such transfer takes place, you will be notified of any material changes to the Privacy Policy and provided with the ability to opt-out of the transfer of your personal data to the successor entity. 
+  * **Legally Required Disclosure:** Under certain circumstances, disclosure of your personal data may be required by law. Gust may disclose your personal data (1) if, in its own best judgment, it is required to do so in order to comply with a facially valid judicial or governmental subpoena, warrant, or other order, or (2) to a government institution that has asserted its lawful authority to obtain the information, or (3) in connection with the exercise or defense of its rights.
+  * **Change of Ownership:** If ownership of Gust changes as a result of a merger, acquisition, or transfer to another company, your personal data may be transferred to the successor entity. If such transfer takes place, you will be notified of any material changes to the Privacy Policy and provided with the ability to opt-out of the transfer of your personal data to the successor entity.
   * **With Partners:** Gust may share the organization’s contact information provided by you when you submit User Content. You may opt-out of communications from such Partners by unsubscribing at Digital.NYC or the Partner websites or by emailing [support@digital.nyc](mailto:support@digital.nyc).
 
 
 
-Back to Top
+[Back to Top](http://gust-dnyc.sandbox.floe.ca/privacy#)
 
 ## Can I access or change my personal data?
 
 All users of Digital.NYC can access the personal data that Gust holds about them and can see it listed in their profiles, by logging into Gust.com with the login credentials provided when the data was submitted through either Digital.nyc or Gust.com. They can correct, amend, or delete this data at their convenience.
 
-Back to Top
+[Back to Top](http://gust-dnyc.sandbox.floe.ca/privacy#)
 
 ## Can I have my personal data deleted?
 
 You can contact [support@digital.nyc](mailto:support@digital.nyc) to delete any personal data that is recorded in the profile that you create for yourself as an investor or for your company, or as an entrepreneur.
 
-Back to Top
+[Back to Top](http://gust-dnyc.sandbox.floe.ca/privacy#)
 
 ## What is Aggregated Data, and how is it used?
 
@@ -105,7 +104,7 @@ Data aggregation is a process in which information is gathered and expressed in 
 
 
 
-Back to Top
+[Back to Top](http://gust-dnyc.sandbox.floe.ca/privacy#)
 
 ## What is Website Data, and how is it used?
 
@@ -113,7 +112,7 @@ Website data is aggregated data about the overall traffic to, and usage of Digit
 
 The statistics generated in this manner contain no personal data and cannot be used to gather any information about individual visitors to the site.
 
-Back to Top
+[Back to Top](http://gust-dnyc.sandbox.floe.ca/privacy#)
 
 ## Cookies and Action Tags
 
@@ -125,7 +124,7 @@ Back to Top
 
 
 
-Back to Top
+[Back to Top](http://gust-dnyc.sandbox.floe.ca/privacy#)
 
 ## What security measures are in place to protect my personal data?
 
@@ -133,13 +132,13 @@ Gust uses physical, technical, and administrative procedures in order to safegua
 
 Gust uses industry-standard technological means to protect your personal data while in transit through the Internet. We use encryption and a comprehensive authentication protocol to provide reasonable security. However, please remember that no security system on the Internet is perfect.
 
-Back to Top
+[Back to Top](http://gust-dnyc.sandbox.floe.ca/privacy#)
 
 ## What about Uploaded Documents?
 
 Documents that are uploaded to Digital.NYC for sharing are stored at a third party data-storage service. All uploads and downloads are transmitted through the web between users and the data storage service using the same encryption techniques as those that are used with personal data. However, uploaded documents are neither stored redundantly, nor backed up. Therefore, we recommend that users keep back-up copies of their documents if they upload them to Digital.NYC.
 
-Back to Top
+[Back to Top](http://gust-dnyc.sandbox.floe.ca/privacy#)
 
 ## When will Digital.NYC, Gust or anyone else contact me?
 
@@ -149,43 +148,43 @@ Gust will send you service-related emails if it becomes necessary to do so. Gust
 
 The public information you provide in company or organization profiles, including contact information for the organization such as a mailing or email address, may also be shared with a limited number of partners/sponsors of Digital.NYC, including Internet Week NY, a division of Crain Communications, and IBM. All partners will safeguard such information subject to the terms of their own Privacy Policies, and you may opt out of sharing any information with any such partners by emailing [support@digital.nyc](mailto:support@digital.nyc), or through other means provided on the Digital.NYC web site.
 
-Back to Top
+[Back to Top](http://gust-dnyc.sandbox.floe.ca/privacy#)
 
 ## Links to other websites
 
 Digital.NYC may provide links to other websites. We are not responsible for the privacy practices or content of these sites. In order to safeguard your privacy, please review the privacy policies of any sites that you may visit before providing any personal data to these third party sites.
 
-Back to Top
+[Back to Top](http://gust-dnyc.sandbox.floe.ca/privacy#)
 
 ## Limitation of Liability
 
 The Covered Parties exercise reasonable efforts to safeguard the security and confidentiality of your personal data; however, transmissions protected by industry standard technology and administered by humans cannot be guaranteed to be secure. The Covered Parties will not be liable for unauthorized disclosure of personal data that occurs through no fault of the Covered Parties including, but not limited to, errors in transmission, access to your account by anyone uses your user ID and password, your failure to comply with your security obligations, and the unauthorized acts of the Covered Parties’ employees.
 
-Back to Top
+[Back to Top](http://gust-dnyc.sandbox.floe.ca/privacy#)
 
 ## Minors
 
 Gust does not provide products or services for individuals under the age of 18. We do not intentionally collect nor maintain information from users actually known to be under the age of 18, and we will not use that information if we learn that it has been provided by someone under 18.
 
-Back to Top
+[Back to Top](http://gust-dnyc.sandbox.floe.ca/privacy#)
 
 ## Choice
 
 If at any time Gust wishes to disclose, or use your personal data in a way, or for a purpose other than as described in this Privacy Policy, Gust will give you the opportunity to choose (opt out) whether your personal data (1) may be disclosed to a third party and (2) may be used for a purpose other than the purposes that are set forth in this Privacy Policy.
 
-Back to Top
+[Back to Top](http://gust-dnyc.sandbox.floe.ca/privacy#)
 
 ## California Privacy Rights
 
 California Civil Code Section § 1798.83 permits users of Digital.NYC that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [support@digital.nyc](mailto:support@digital.nyc) or write us at: Digital.NYC, c/o Gust, 158 West 29th Street, New York, NY 10001-5300 USA.
 
-Back to Top
+[Back to Top](http://gust-dnyc.sandbox.floe.ca/privacy#)
 
 ## Changes to the Privacy Policy
 
 From time to time, this Privacy Policy may be updated in order to reflect changes in practices. Whenever such changes are made, an updated Privacy Policy will be posted on Digital.NYC and users who have shared their contact information may be emailed. All changes will apply to the personal data that are already collected, and to personal data that are collected after the effective date of the revised Privacy Policy, and will become effective when posted. You will have the right to delete your profile at any time.
 
-Back to Top
+[Back to Top](http://gust-dnyc.sandbox.floe.ca/privacy#)
 
 ## Dispute Resolution
 
@@ -193,7 +192,7 @@ If you have any concerns or claims with respect to our Privacy Policy, please co
 
 If arbitration is necessary, it will be conducted by telephone and email, and if it must be done in person, it will be conducted in New York, NY. The arbitration will be conducted by one arbitrator member of the American Arbitration Association, and under the rules of commercial arbitration of the American Arbitration Association. Both parties will bear equally the cost of arbitration (exclusive of legal fees and expenses). All decisions of the arbitrator(s) will be final and binding on both parties and enforceable in any court of competent jurisdiction.
 
-Back to Top
+[Back to Top](http://gust-dnyc.sandbox.floe.ca/privacy#)
 
 ## Contacting Digital.NYC
 
