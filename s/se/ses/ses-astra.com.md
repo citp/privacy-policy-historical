@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ses-astra.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035651id_/http%3A//www.ses.com/4353601/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ses-astra.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527155529id_/http%3A//www.ses.com/4353601/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Satellite Services - SES.com
 
@@ -45,7 +45,7 @@ You may set your browser to notify you when you receive a cookie. You may also e
 
 **Keeping our records accurate and data retention**
 
-We aim to keep our information about you as accurate as possible. You will have a right of access to the data collected and a right of rectification of the data in cases where such data is inaccurate and incomplete. Please contact us at [info@ses.com](mailto:%20info@ses.com).
+We aim to keep our information about you as accurate as possible. You will have a right of access to the data collected and a right of rectification of the data in cases where such data is inaccurate and incomplete. Please contact us at [info@ses.com](mailto:info@ses.com).
 
 All data related information shall not be held for longer than necessary with regard to the purpose of the data processing, observing the legal periods of limitation.
 
