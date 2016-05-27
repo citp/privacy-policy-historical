@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fasttimesatnaupage.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229055907id_/http%3A//www.national.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fasttimesatnaupage.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528014650id_/http%3A//www.national.edu/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - NAU
+# Privacy Policy | NAU
 
 ******Introduction**  
 National American University recognizes the importance of protecting your privacy and the information that you share with us. Described below is our policy on the collection, use, disclosure, maintenance and protection of personal information that you provide to us through this website.
