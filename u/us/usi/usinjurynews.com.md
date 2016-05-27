@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usinjurynews.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128163313id_/http%3A//www.usinjurynews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usinjurynews.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527023547id_/http%3A//www.usinjurynews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
