@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lashback.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202041832id_/http%3A//www.lashback.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lashback.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527061718id_/http%3A//www.lashback.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LashBack
 
@@ -46,5 +46,5 @@ Questions or comments about this Statement should be directed to:
 
 LASHBACK, LLC  
 ATTN: Privacy Dept.  
-555 Washington Avenue, Suite 400  
-Saint Louis, MO 63101
+1017 Olive St, 4th Floor  
+St. Louis, MO 63101
