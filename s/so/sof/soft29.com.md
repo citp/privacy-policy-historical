@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soft29.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126052356id_/http%3A//www.soft29.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soft29.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527114405id_/http%3A//www.soft29.com/privacy.html) for the most accurate reproduction.*
 
 # Soft29.com privacy policy
 
