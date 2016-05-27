@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickhit.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207032431id_/http%3A//www.majescoent.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickhit.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527092551id_/http%3A//www.majescoent.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Majesco Entertainment
 
