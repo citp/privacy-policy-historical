@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myschool.edu.au privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209184135id_/http%3A//www.acara.edu.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myschool.edu.au privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527082337id_/http%3A//www.acara.edu.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy | ACARA
 
@@ -408,7 +408,7 @@ We also collect and hold additional student and parent/guardian background perso
   * permanent resident indicator
   * visa sub-class number
   * date of arrival in Australia and
-  * student address details.
+  * student address details (these are historic holdings only, as ACARA has ceased collecting these data).
 
 
 
