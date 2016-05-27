@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the couponrani.com privacy policy that was archived on 2015-10-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151024072204id_/http%3A//www.couponrani.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the couponrani.com privacy policy that was archived on 2016-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160527030425id_/http%3A//www.couponrani.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en"><head>
 <meta charset="UTF-8">
@@ -18,7 +18,7 @@
 <meta property="og:title" content="Privacy Policy | CouponRani - Coupons, Coupon Codes and Offers">
 <meta property="og:type" content="website">
 <meta property="og:description" content="Privacy policy of CouponRani. Kindly read the privacy policy instructions.">
-<meta property="og:image" content="http://www.couponrani.com/assets/images/logo-couponrani.png">
+<meta property="og:image" content="http://www.couponrani.com/assets/images/logo.png">
 <meta property="og:url" content="http://www.couponrani.com/privacy_policy">
 <meta property="og:site_name" content="CouponRani">
 <meta name="twitter:card" content="summary">
@@ -27,19 +27,27 @@
 <meta property="og:locale" content="en_US">
 <meta name="twitter:title" content="Privacy Policy | CouponRani - Coupons, Coupon Codes and Offers">
 <meta name="twitter:description" content="Privacy policy of CouponRani. Kindly read the privacy policy instructions.">
-<meta name="twitter:image" content="http://www.couponrani.com/assets/images/logo-couponrani.png">
+<meta name="twitter:image" content="http://www.couponrani.com/assets/images/logo.png">
 <meta name="twitter:url" content="http://www.couponrani.com/privacy_policy">
 <meta property="fb:admins" content="100004044112946">
 <meta name="google-site-verification" content="sh8xmDJ49R7RorqxY8J2JT6ziu9v6PQMXzV4TslgZ8I">
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/imcheapjllkgajfmpdmnggnfmngoaepj">
 <link href="https://plus.google.com/113924233968374840067" rel="author">
-<link async="" rel="stylesheet" media="all" href="http://fonts.googleapis.com/css?family=Droid+Sans:400,700">
-<link async="" rel="stylesheet" media="all" href="http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700,700italic">
-<link rel="stylesheet" media="all" href="http://cdn.couponrani.com/assets/css/styles.css">
+<!-- <link async rel="stylesheet" media="all" href="http://fonts.googleapis.com/css?family=Droid+Sans:400,700" />
+<link async rel="stylesheet" media="all" href="http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700,700italic" /> -->
+
+<!-- <link rel="stylesheet" media="all" href="http://cdn.couponrani.com/assets/css/styles_102.css" /> -->
+<!--link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"-->
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css" media="all"><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
+//<![CDATA[ 
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }loadCSS("http://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css");
+//]]> 
+</script>
 <!-- <link rel="stylesheet" media="all" href="http://assets.couponrani.com/assets/css/styles.css" /> -->
-<script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
+<script type="text/javascript">
 var site_url = "http://www.couponrani.com/";
+var logged_in=false;
 var language = "english";
 var copy_label_text = "Copied";
 var newsletter_success_message = "Thank you for subscribing to our newsletter. Please check your email for confirmation.";
@@ -59,7 +67,12 @@ if(site_url == "http://hindi.couponrani.com/"){
 <!--[if lt IE 9]>
 	<script src="http://cdn.couponrani.com/assets/js/html5.js"></script>
 <![endif]-->
-
+<style>.breadcrumb > li + li:before {
+  padding: 0px !important;
+    content: ">\00a0";
+    padding: 0 0.5em;
+    color: #000000;
+}</style>
 <link href="http://www.couponrani.com/opensearch.xml" rel="search" title="couponrani" type="application/opensearchdescription+xml">
 <script type="text/javascript">
 
@@ -92,13 +105,24 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 </script>
 <style type="text/css">
   #background {  
-    background-image: url(http://www.couponrani.com/assets/images/CR_Navratri_Left_Side.png), url(http://www.couponrani.com/assets/images/CR_Navratri_Right_Side.png);
+    background-image: url(http://cdn.couponrani.com/assets/images/optimized4.png), url(http://cdn.couponrani.com/assets/images/optimized4.png);
     background-repeat: repeat-y;
-    background-position: left, right;
+    /*background-position: left, right;*/
+    background-position-x: 0%, 100%;
+    background-position-y: 3.3%, 3.3%;
+    margin-top: 3px;
   }
+
 </style>
+<script>
+function showtext()
+{
+  document.querySelector(".blocker").style.display = "block";
+}
+
+</script>
 </head>
-<body id="">
+<body id="" onload="myFunction()">
     <noscript><img height="1" width="1" alt="Fb Pixel" style="display:none" src="https://www.facebook.com/tr?id=1456927837884780&amp;ev=PixelInitialized" /></noscript>
   	  <div id="topstrip">
       
@@ -112,9 +136,11 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
                 </button>
               <div class="collapse navbar-collapse nopadding" id="bs-example-navbar-collapse-1">
                 <ul class="listnone nomargin nav navbar-nav navbar-left" id="top_nav">
-                  			<li><a class="" href="http://www.couponrani.com/">HOME</a></li>			<li><a class="" href="http://www.couponrani.com/stores">STORES</a></li>			<li><a class="" href="http://www.couponrani.com/categories">CATEGORIES</a></li>			<li><a class="" href="http://www.couponrani.com/exclusive">EXCLUSIVE COUPONS</a></li>			<li><a class="" href="http://www.couponrani.com/categories/travel/bus">BUS OFFERS</a></li>			<li><a class="" href="http://www.couponrani.com/offers/dussehra-offers">DUSSEHRA OFFERS</a></li>
+                  			<li><a class="" href="http://www.couponrani.com/">HOME</a></li>			<li><a class="" href="http://www.couponrani.com/stores">STORES</a></li>			<li><a class="" href="http://www.couponrani.com/categories">CATEGORIES</a></li>			<li><a class="" href="http://www.couponrani.com/exclusive">EXCLUSIVE COUPONS</a></li>			<li><a class="" href="http://www.couponrani.com/categories/travel/bus">BUS OFFERS</a></li><!-- <li><a class="active" href="http://www.couponrani.com/offers/new-year-offer">NEW YEAR OFFER</a></li> -->
                     </ul>
-                    <ul class="nav navbar-nav navbar-right">                
+                    <ul class="nav navbar-nav navbar-right">    
+          
+              
                                       <li>
                     <a rel="external nofollow" href="http://www.couponrani.com/profile/login/custom?redirect_url=http://www.couponrani.com/privacy_policy" id="btn-logsign">LOG IN / SIGN UP</a>                      
                     </li>
@@ -127,44 +153,52 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
         
     </div>
     <!-- / topstrip -->    <!-- / topmenu -->
+
+<header>
+  <div class="container">                   
+
+  <!--<span class="nomargin float-l">
+    <a href="http://www.couponrani.com/">
+      <img src="http://cdn.couponrani.com/assets/images/logo.png" alt="CouponRani - Free Online Coupons">
+       <img src="http://www.couponrani.com/assets/images/CR_Rep_Day_Logo02.gif" alt="CouponRani - Free Online Coupons"> 
+    </a>
+  </span>
+-->
+
+ <span class="nomargin float-l">
+    <a href="http://www.couponrani.com/">
+      <img src="http://cdn.couponrani.com/assets/images/logo.png" alt="CouponRani - Free Online Coupons">
+      <!--<img src="http://www.couponrani.com/assets/images/CR_Valentine_Logo.png" alt="CouponRani - Free Online Coupons"> -->
+    </a>
+  </span>
+<!-- Holi
+<span class="nomargin float-l">
+    <a href="http://www.couponrani.com/">
+      <img src="http://cdn.couponrani.com/assets/images/optimized2.png" alt="CouponRani - Free Online Coupons">
+      <!--<img src="http://www.couponrani.com/assets/images/CR_Valentine_Logo.png" alt="CouponRani - Free Online Coupons"> -->
     
-                <header>
-                  <div class="container">
-                    
-                    <!-- http://cdn.couponrani.com/assets/images/logo.png -->
-            <span class="nomargin float-l">
-              <a href="http://www.couponrani.com/">
-                <!-- <img src="http://cdn.couponrani.com/assets/images/logo.png" alt="CouponRani - Free Online Coupons"> -->
-                <img src="http://www.couponrani.com/assets/images/CR_Navratri_Logo.gif" alt="CouponRani - Free Online Coupons">
-              </a>
-            </span>
-            <!--<a style="padding-left:20px;width:60px;" href="http://www.couponrani.com/offers/navratri-offer"><img src="http://i.imgur.com/AYdisDV.png"></a>-->
-            <!--<div style="padding:10px 20px;float:left;"  class="visible-lg">
-            	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:inline-block;width:468px;height:60px"
-     data-ad-client="ca-pub-8247504921266942"
-     data-ad-slot="8810591467"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-            	
-            </div>-->
-                        <span><a target="_blank" style="margin-left:54px; margin-top:10px;" href="https://play.google.com/store/apps/details?id=com.couponrani.android"><img style="height:50px;padding-top:7px;" src="http://www.couponrani.com/assets/images/Android_App.png" alt="CouponRani"></a></span>
-          
-                        <form action="http://www.couponrani.com/search.php" id="search_form">
-            	<input type="text" placeholder="Search for stores, products or offers..." name="q" id="search_key" autocomplete="off">
-              <input type="hidden" id="search_slug" name="search_slug">
-                <button type="submit" class="btn">Search</button>
-            </form>
-            <div class="clear"></div>
-            <div id="search_result"></div>
-            
-          </div>
-        </header>
-        <div class="container">
-          <!--<div class="banner-left" ></div>-->
+  
+
+<!--  <span class="nomargin float-l">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.couponrani.com/offers/valentines-day-offers"><img src="http://www.couponrani.com/assets/images/EVDC01.png" width="350" alt="Exclusive Valentine Day Coupons CouponRani" /></a></span>-->
+
+
+  <form action="http://www.couponrani.com/search.php" id="search_form">
+    <input type="text" placeholder="Search for stores, products or offers..." name="q" id="search_key" autocomplete="off">
+    <input type="hidden" id="search_slug" name="search_slug">
+    <button type="submit" class="btn">Search</button>
+  </form>
+  <div class="clear"></div>
+  <div id="search_result"></div>
+
+  </div>
+</header>
+        <div class="container"> 
+                          <!--<div class="banner-left" ></div>-->
         <!-- / header -->
+              <!--link rel="stylesheet" media="all" href="http://cdn.couponrani.com/assets/css/styles_new1.css" /-->
+       <!--<link rel="stylesheet" type="text/css" href="http://cdn.couponrani.com/assets/css/styles_new_final.css">-->
+       <link rel="stylesheet" type="text/css" href="http://cdn.couponrani.com/assets/css/styles_new_finalone.css">
                <!-- / header -->       
         <div id="content-wrap">
             <section class="leftstrip">                  
@@ -284,31 +318,32 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
                         <aside class="rightstrip">                
 
                          
-                                                                        
+                                                                                      
              
-            	
-            	 
-            	
-            	
+              
+               
+              
+              
                 
-			        
+              
                 <!--bool(false)
 -->             
                 <p class="adbanner" data-id="1"><!-- Sidebar- Rectangle2 -->
 <ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-8247504921266942" data-ad-slot="3225707463"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>                                                
+</script></p>                
+                                                
                                 
-                <section class="blocktype1">
-                	<h5>Free Newsletter</h5>
+                <section style="width:300px;" class="blocktype1">
+                  <h5 style="list-style-type: none;/* padding: 10px; */background-color: #D8D8D8;color: #34495e;font-size: 17px;box-shadow: inset 1px 1px 12px #C3C3C3;margin-bottom: 7px;/* font-size: 17px; */font-weight: 400;margin-bottom: 0px;">Free Newsletter</h5>
                     <div class="newsletter">
-                    	<p>Want to get the best deals and offers on Indian stores? Sign up for our Free Biweekly Newsletter!</p>
+                      <p>Want to get the best deals and offers on Indian stores? Sign up for our Free Biweekly Newsletter!</p>
                         <form action="" method="post" class="newsletter_sub_small">
-                        	<input name="email" type="text" class="btn">
-                        	<input name="page_mode" type="hidden" value="STATIC_PAGE">
-                        	<input name="page_value" type="hidden" value="1">
-                            <button type="submit" class="btn">GO</button>
+                          <input name="email" type="text" class="btn">
+                          <input name="page_mode" type="hidden" value="STATIC_PAGE">
+                          <input name="page_value" type="hidden" value="1">
+                            <button type="submit" class="btn" style="width:20% !important; text-align:center; padding-left:15px;">GO</button>
                             <p class="clear"></p>
                         </form>
                         <small>We never spam or sell your information with any 3rd party. Promise!</small>
@@ -316,10 +351,10 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
                 </section>
 
                                 <!-- / Newsletter -->
-                 <section class="blocktype1">
-                	<h5>Share The Love</h5>
+                 <section style="width:300px;" class="blocktype1">
+                  <h5 style="list-style-type: none;/* padding: 10px; */background-color: #D8D8D8;color: #34495e;font-size: 17px;box-shadow: inset 1px 1px 12px #C3C3C3;margin-bottom: 7px;/* font-size: 17px; */font-weight: 400;margin-bottom: 0px;">Share The Love</h5>
                     <div id="socialicons">
-                    	<a href="https://twitter.com/CouponRani/" target="_blank" rel="external nofollow" class="ic-twitter"><span>&nbsp;</span>Twitter</a>
+                      <a href="https://twitter.com/CouponRani/" target="_blank" rel="external nofollow" class="ic-twitter"><span>&nbsp;</span>Twitter</a>
                         <a href="https://www.facebook.com/CouponRani/" target="_blank" rel="external nofollow" class="ic-facebook float-r"><span>&nbsp;</span>Facebook</a>
                         <a href="https://plus.google.com/+CouponraniOnlineCoupons/" target="_blank" rel="external nofollow" class="ic-gplus"><span>&nbsp;</span>Google+</a>
                         <a href="http://www.pinterest.com/couponrani/" target="_blank" rel="external nofollow" class="ic-pinterest float-r"><span>&nbsp;</span>Pinterest</a>
@@ -328,7 +363,163 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
                 <!-- / Social share -->
                 
                 
-            </aside>			<!-- / Sidebar -->
+            </aside>
+                        <style type="text/css">
+            .blocktype5 article{
+  width: 526px;
+    min-height: 137px;
+}
+
+p.coupon_short_desc{
+  margin-top: 8px;
+}
+section.coupon aside, section.deal aside{
+  margin-top: 10px;
+}
+.deal .offer_badge{
+      font-weight: 600;
+  border: 1px solid #167EA3;
+}
+.deal .offer_badge p{
+  background-color: #167EA3;
+}
+.coupon .offer_badge{
+      font-weight: 600;
+  border: 1px solid #42C6A5;
+}
+.coupon .offer_badge p{
+  background-color: #42C6A5;
+}
+
+.blocktype5 article h3 a{
+  font-size: 26px;
+}
+.blocktype5{
+  margin-top: 12px;
+}
+aside.rightstrip{
+  max-width: 300px;
+}
+div#socialicons{
+  padding: 4px;
+}
+.blocktype1 #socialicons a{
+  width: 110px;
+}
+.blocktype1 #socialicons a span{
+  width: 40px;
+}
+.leftstrip{
+  width: 860px;
+}
+.blocktype5 div span{
+  font-style: normal;
+}
+div.actions span,div.actions a{
+  color: #6F6F6F;
+  font-size: 12px;
+      line-height: 22px;
+}
+/*@font-face {
+    font-family: 'proxima';
+    src: url('http://www.couponrani.com/assets/fonts/proxima.otf');    
+    src: url('http://assets.couponrani.com/assets/fonts/proxima.otf');    
+    
+}*/
+div.coupons_list h1,h2,h3,h4,h5,h6{
+  /*font-family: "source-serif-pro";*/
+   /*font-family: "museo-sans";*/
+  font-weight: 600 !important;
+  /*font-family: 'Roboto', sans-serif;*/
+
+/*font-family: 'Droid Sans', sans-serif;*/
+/*font-family: 'Montserrat', sans-serif;*/
+font-family: 'proxima', sans-serif;
+
+}
+div.actions{
+    height: 24px;
+    line-height: 0px;
+}
+.offer_badge span{
+  display: block;
+    max-height: 69px;
+
+}
+.blocktype3 div article button.coupon, .blocktype5.coupon button.btn-lg, .modal-content button.btn-lg, .blocktype3 div article button.deal, .blocktype5.deal button.btn-lg, .modal-content button.btn-lg{
+  min-width:  183px;
+}
+.blocktype5 aside{
+  width: 218px;
+}
+p.coupon-tools {
+
+    margin-right: 55px;
+}
+body{
+      font-family: "proxima",sans-serif;
+}
+.related_stores ul{
+     padding-left: 6px;
+
+  }
+  .discount_type_first{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+  }
+  .discount_type_second{
+        font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+  }
+  span.expiresspan{
+    color: #EF1717;
+  }
+  .blocktype5 article {
+    width: 519px;
+    min-height: 137px;
+}
+  .blocktype5.results article{
+        width: 477px;
+        margin-top: 12px;
+  }
+  .blocktype5 figure{
+        margin-top: 12px;
+  }
+  #btn-dashboard:hover, #topstrip #btn-logsign:hover, .blocktype1 .newsletter button:hover, .blocktype3 div article button.coupon:hover, .blocktype3 div article button.deal:hover, .blocktype5.coupon button.btn-lg:hover, .blocktype5.deal button.btn-lg:hover, .leftstrip .blocktype1 .newsletter button:hover, .leftstrip .loadmore:hover, .modal-content button.btn-lg:hover, .modal-content form button:hover {
+    background: #e9573f;
+    transition: background-color 706ms linear;
+    width: 168px !important;
+     -webkit-transition: width 500ms ease-in-out;
+    -moz-transition: width 500ms ease-in-out;
+    -o-transition: width 500ms ease-in-out;
+    transition: width 500ms ease-in-out;    
+    }
+    #btn-dashboard, #topstrip #btn-logsign, .blocktype1 .newsletter button, .blocktype3 div article button.coupon, .blocktype3 div article button.deal, .blocktype5.coupon button.btn-lg, .blocktype5.deal button.btn-lg, .leftstrip .blocktype1 .newsletter button, .leftstrip .loadmore, .modal-content button.btn-lg, .modal-content form button  {
+    -webkit-transition: width 500ms ease-in-out;
+    -moz-transition: width 500ms ease-in-out;
+    -o-transition: width 500ms ease-in-out;
+    transition: width 500ms ease-in-out;
+}
+.blocktype3 div article button.coupon, .blocktype5.coupon button.btn-lg, .modal-content button.btn-lg {
+  background: #f75b16;
+}
+.blocktype3 div article button.deal, .blocktype5.deal button.btn-lg,.blocktype5.deal button.btn-lg:hover{
+background-color: #e9573f;
+}
+ .blocktype5.coupon button.btn-lg:hover{
+background-color: #f75b16;
+}
+.blocktype5.deal button.btn-lg{
+  min-width: 193px;
+}
+.blocktype5.deal, .blocktype5.deal.featured, .blocktype5.coupon.featured, .blocktype5.coupon {
+    border: 1px solid #DADADA;
+    box-shadow: 1px 1px 10px #CCCACA;
+}
+</style>
+			<!-- / Sidebar -->
             <div class="clear"></div>
         </div>
         <style type="text/css">
@@ -349,45 +540,42 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
             <h6>Popular Categories 
               <!-- <small><a style="color:#434a54;text-decoration:none;outline: none;background: transparent;" href=""> &nbsp;  View all Categories</a></small> -->
             </h6>              
-              
-	<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/categories/apparel-accessories/clothes-and-fashion">Clothes and Fashion</a><a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/categories/electronics/mobile-tablets">Mobile &amp; Tablets</a><a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/categories/electronics/desktops-and-laptops">Desktops and Laptops</a><a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/categories/food-beverages/food">Food</a><a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/categories/health-beauty/health-care-products">Health Care Products</a><a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/categories/travel/flights">Flights</a><a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/categories/travel/bus">Bus</a><a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/categories/travel/hotels">Hotels</a>	<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/categories?cr_source=footer_category">View All &gt;&gt;</a>
+              	<style>
+	.footerWebkit { -webkit-border-radius: 5px; }
+	</style>
+	<a class="footerWebkit" href="http://www.couponrani.com/categories/apparel-accessories/clothes-and-fashion">Clothes and Fashion</a><a class="footerWebkit" href="http://www.couponrani.com/categories/electronics/mobile-tablets">Mobile &amp; Tablets</a><a class="footerWebkit" href="http://www.couponrani.com/categories/electronics/desktops-and-laptops">Desktops and Laptops</a><a class="footerWebkit" href="http://www.couponrani.com/categories/food-beverages/food">Food Orderding</a><a class="footerWebkit" href="http://www.couponrani.com/categories/health-beauty/health-care-products">Health Care Products</a><a class="footerWebkit" href="http://www.couponrani.com/categories/travel/flights">Flights</a><a class="footerWebkit" href="http://www.couponrani.com/categories/travel/bus">Bus</a><a class="footerWebkit" href="http://www.couponrani.com/categories/travel/hotels">Hotels</a>	<a class="footerWebkit" href="http://www.couponrani.com/categories?cr_source=footer_category">View All &gt;&gt;</a>
           </div>
             <p class="clear"></p>
                         <div class="rightstrip" id="footerStores">           
 
             	<h6>Stores</h6>
-            	    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/tolexo-coupons?cr_source=footer_stores">Tolexo</a>
-    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/zivame-com?cr_source=footer_stores">Zivame</a>
-    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/yepme-com?cr_source=footer_stores">Yepme</a>
-    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/yatra-com?cr_source=footer_stores">Yatra</a>
-    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/trendin-coupons?cr_source=footer_stores">Trendin</a>
-    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/snapdeal-com?cr_source=footer_stores">Snapdeal</a>
-    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/limeroad-coupons?cr_source=footer_stores">Limeroad</a>
-    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/redbus-in?cr_source=footer_stores">Redbus</a>
-    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/basicslife-com?cr_source=footer_stores">Basics Life</a>
-    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/shopclues?cr_source=footer_stores">ShopClues</a>
-    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/healthkart-coupons?cr_source=footer_stores">Healthkart</a>
-    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/askmebazaar-coupons?cr_source=footer_stores">AskMeBazaar</a>
-    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/makemytrip-com?cr_source=footer_stores">Makemytrip</a>
-    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/first-cry?cr_source=footer_stores">FirstCry</a>
-    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/paytm-coupons?cr_source=footer_stores">Paytm</a>
-    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/flipkart-com?cr_source=footer_stores">Flipkart</a>
-    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/jabong-com?cr_source=footer_stores">Jabong</a>
-    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/lenskart-com?cr_source=footer_stores">Lenskart</a>
-    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/amazon-coupons?cr_source=footer_stores">Amazon</a>
-    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/ebay-in?cr_source=footer_stores">eBay</a>
-    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/fabfurnish-com?cr_source=footer_stores">Fabfurnish</a>
-    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/mybustickets-coupons?cr_source=footer_stores">MyBusTickets</a>
-    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/nykaa-coupons?cr_source=footer_stores">Nykaa</a>
-    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/flintobox-coupons?cr_source=footer_stores">Flintobox</a>
-    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/stalkbuylove-coupons?cr_source=footer_stores">Stalk Buy Love</a>
-    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/travelguru-com?cr_source=footer_stores">Travelguru</a>
-    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/ticketgoose-coupons?cr_source=footer_stores">Ticketgoose</a>
+            	    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/askmebazaar-coupons?cr_source=footer_stores">AskMeBazaar</a>
+    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/tolexo-coupons?cr_source=footer_stores">Tolexo</a>
     						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/pepperfry-com?cr_source=footer_stores">Pepperfry</a>
-    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/musafir-coupons?cr_source=footer_stores">Musafir</a>
-    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/foodpanda?cr_source=footer_stores">Foodpanda</a>
-    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/expedia-co-in?cr_source=footer_stores">Expedia</a>
+    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/printvenue?cr_source=footer_stores">Printvenue</a>
+    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/flipkart-com?cr_source=footer_stores">Flipkart</a>
+    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/oyorooms-coupons?cr_source=footer_stores">Oyo Rooms</a>
+    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/mybustickets-coupons?cr_source=footer_stores">MyBusTickets</a>
+    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/yatra-com?cr_source=footer_stores">Yatra</a>
+    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/stalkbuylove-coupons?cr_source=footer_stores">StalkBuyLove</a>
+    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/travelguru-com?cr_source=footer_stores">Travelguru</a>
+    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/paytm-coupons?cr_source=footer_stores">Paytm</a>
+    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/lenskart-com?cr_source=footer_stores">Lenskart</a>
     						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/dominos-co-in?cr_source=footer_stores">Dominos</a>
+    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/musafir-coupons?cr_source=footer_stores">Musafir</a>
+    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/expedia-co-in?cr_source=footer_stores">Expedia</a>
+    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/amazon-coupons?cr_source=footer_stores">Amazon</a>
+    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/zivame-com?cr_source=footer_stores">Zivame</a>
+    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/shopclues?cr_source=footer_stores">ShopClues</a>
+    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/ebay-in?cr_source=footer_stores">eBay</a>
+    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/makemytrip-com?cr_source=footer_stores">MakeMyTrip</a>
+    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/trendin-coupons?cr_source=footer_stores">Trendin</a>
+    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/healthkart-coupons?cr_source=footer_stores">Healthkart</a>
+    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/first-cry?cr_source=footer_stores">FirstCry</a>
+    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/ticketgoose-coupons?cr_source=footer_stores">Ticketgoose</a>
+    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/limeroad-coupons?cr_source=footer_stores">Limeroad</a>
+    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/jabong-com?cr_source=footer_stores">Jabong</a>
+    						    						<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/kapapai-coupons?cr_source=footer_stores">Kapapai</a>
     						              <a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/stores?cr_source=footer_stores">View All &gt;&gt;</a>
             </div>            
             
@@ -395,9 +583,8 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
             	<h6>Offers</h6> 
             							<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/categories/media-software/recharge">Mobile/DTH Recharge Offers</a>
 												<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/categories/food-beverages/pizza">Pizza Coupons</a>
-												<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/offers/buy-1-get-1-free-bogo-offers">Buy 1 Get 1 Free Offers</a>
 						            	
-          
+<a style="-webkit-border-radius: 5px;" href="http://www.couponrani.com/offers?cr_source=footer_offers">View All &gt;&gt;</a>          
             </div>
 
             <!-- / Offers tag cloud -->
@@ -405,19 +592,46 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 
                   </section>
     
-        <div style="">  
-<!-- Bottom-Leaderboard - 2 -->
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8247504921266942" data-ad-slot="9107478661" data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
-                   <p class="clear">&nbsp;</p>
+                        <p class="clear">&nbsp;</p>
                   <!-- / stores, offers and covered -->     
        <!--<div class="banner-right" ></div>-->
    
     </div>   
+    
 
+<style type="text/css">footer ul li+li::before {
+    content: "";
+}
+#grad {
+    background: white; /* For browsers that do not support gradients */
+   
+}
+  div .foot{
+        background: url('http://cdn.couponrani.com/assets/images/social/result.png');
+
+    }
+    </style>
+     <div class="row" id="grad" style="color: #555555; margin-left: 0px !important; margin-right: 0px;">
+     <center><ul class="list-inline footer-stats go-flex"><li style=""><div class="foot" style="background-position: -0px -0px; width: 60px; height: 60px; float: left;vertical-align: super;"><i class="gi-tag"></i></div><span style="clear: both;
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;    margin-top: 15px;"><b style="font-size: 20px; vertical-align:middle;">13,789,644</b><br><small>Coupons redeemed so far</small></span></li>
+
+    <li style="padding-left: 65px"><div class="foot" style="background-position: -0px -70px; width: 60px; height: 60px; float: left; vertical-align: super;"><i class="gi-shop"></i></div>
+
+    <span style="clear: both;
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;    margin-top: 15px;"><b style="font-size: 20px; vertical-align: middle;">16,054</b><br><small>Coupons &amp; Deals for you</small></span></li>
+      <li style="padding-left: 65px"><div class="foot" style="background-position: -0px -140px; width: 60px; height: 60px; float: left"><i class="gi-shop"></i></div><span style="clear: both;
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;    margin-top: 15px;"><b style="font-size: 20px; vertical-align: middle;">421</b><br><small>Exclusive Coupons</small></span></li> <li style="padding-left: 65px"><div class="foot" style="background-position: -0px -210px; width: 60px; height: 60px; float: left"><i class="gi-star"></i></div><span style="clear: both;
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;    margin-top: 15px;"><b style="font-size: 20px; vertical-align: middle;">3,106</b><br><small>Merchants Listed on the Website</small></span></li> </ul></center>
+    
+    </div>
 
 	 <footer>
      	<div class="container">
@@ -431,6 +645,7 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
                 <li><a href="http://blog.couponrani.com" target="_blank">Blog</a></li>
                 <li><a href="http://www.couponrani.com/submit_coupon">Submit Coupon</a></li>
                 <li><a href="http://www.couponrani.com/merchants">Merchants</a></li>
+                <li><a href="http://www.couponrani.com/partner/partnerlogin">Partners</a></li>
                 <li><a href="http://www.couponrani.com/partners">API Partners</a></li>
                 <li><a href="http://www.couponrani.com/press_release">Press Release</a></li>
                 <li><a href="http://www.couponrani.com/sitemap">Sitemap</a></li>
@@ -443,7 +658,12 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
     	<div class="container"> 
       <div class="row">
         <div style="color:#fff;" class="col-md-3 col-md-offset-3">Local Language Site <b>: <a style="color:#fff;" target="_blank" href="http://hindi.couponrani.com/">Hindi</a></b></div>
-        <div style="color:#fff;" class="col-md-6">International Sites <b>: <a style="color:#fff;" target="_blank" href="http://www.couponbelanja.com/">Malaysia</a> | <a style="color:#fff;" target="_blank" href="http://www.couponbelanja.sg/">Singapore</a> | <a style="color:#fff;" target="_blank" href="http://ph.couponbelanja.com/">Philippines</a></b></div>
+        <div style="color:#fff;" class="col-md-4">International Sites <b>: <a style="color:#fff;" target="_blank" href="http://www.couponbelanja.com/">Malaysia</a> </b></div>
+        <div style="color:#fff;" class="col-md-2">
+          
+            <span><a target="_blank" style="margin-left:54px; margin-top:10px;" href="https://play.google.com/store/apps/details?id=com.couponrani.android"><img style="height:50px;padding-top:7px;" src="http://cdn.couponrani.com/assets/images/Android_App.png" alt="CouponRani Andriod App"></a></span>
+          
+        </div>
       </div>   		
     		<!-- <p style="float:none;text-align:center;"></p> -->
     	</div>
@@ -457,6 +677,13 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
         height: 170px;
         cursor: pointer;    
     }
+    /*body{
+      background-image: url(http://i.imgur.com/Mtbu986.gif),url(http://i.imgur.com/Mtbu986.gif);
+    background-position: left 112px,right 112px;
+    
+    background-repeat: repeat-y;
+    }
+    */
 </style>
     <!-- / footer -->    
 <!-- Scroll to top -->
@@ -466,6 +693,8 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 </span>
 </div>  -->
 <div class="scroll-top-inner" style="display: none;"><span class=" "></span></div>
+  <!-- <div><a class="diwali-contest" href="#diwalicontest"></a></div> -->
+
 <div class="modal fade" id="sign_in_modal" role="dialog">
       <div class="modal-dialog">
         <div class="modal-content">
@@ -562,7 +791,7 @@ right: -33px;
 <div class="modal fade" id="subscribe_modal" role="dialog">
   <div class="modal-dialog" style="width: 55%; height:auto;">
     <div class="modal-content" style="padding:20px;margin-top:10%; background-image: url(http://cdnres.couponrani.com/images/banner/CR_Popup_Background.jpg);"> 
-      <!--<button type="button" class="close" data-dismiss="modal" aria-hidden="true">�</button>-->
+      
       <div class="modal-body" style="padding:0px;">
 
         <div class="span12 center" style="color:#fff;font-size:25px;font-weight:normal;">EXTRA SAVINGS WITHOUT EXTRA SPENDING        </div>
@@ -596,7 +825,7 @@ right: -33px;
             <div class="row center">
               <div class="col-md-2"> </div>
               <div class="col-md-8 center center" style="color:#fff;padding-top:22px;cursor:pointer;text-decoration: underline;font-weight:bold;" data-dismiss="modal" aria-hidden="true">I dont like discounts, I will pay a higher price</div>
-              <div class="col-md-2"><img alt="CouponRani Logo" src="http://www.couponrani.com/assets/images/logo.png"></div>
+              <div class="col-md-2"><img alt="CouponRani Logo" src="http://cdn.couponrani.com/assets/images/logo.png"></div>
             </div>
           </div>
         </form>              
@@ -610,7 +839,7 @@ right: -33px;
         <div class="modal-content"> 
           <div class="modal-body cr_pop silver">
           <form action="#" method="POST" id="coupon_pop_up_comment" style="border:none;">
-          	<h2 style="color:#000;font-weight:bold;font-size:20px;line-height:28px;font-family: Droid Sans, Arial, Helvetica, sans-serif;">Add a Comment</h2>               
+          	<strong style="color:#000;font-weight:bold;font-size:20px;line-height:28px;font-family: Droid Sans, Arial, Helvetica, sans-serif;">Add a Comment</strong>               
                  <div class="form-group">
     <label for="exampleInputEmail1">Name</label>
     <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Enter Name" name="name" autocomplete="on">
@@ -649,6 +878,18 @@ right: -33px;
   bottom: 85px;
   background: url(http://cdn.couponrani.com/assets/images/up-button.png);
 }
+/*.diwali-contest{
+  z-index: 9999;
+  width: 58px;
+  height: 327px;
+  display: inline;
+  position: fixed;
+  cursor: pointer;
+  margin: 0 auto;
+  right: 0px;
+  bottom: 60px;
+  background: url(http://www.couponrani.com/assets/images/backgrounds/cr_diwali_contest.gif);
+}*/
 </style>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script type="text/javascript" src="http://cdn.couponrani.com/assets/js/typeahead.bundle.min.js"></script>
@@ -701,7 +942,30 @@ $(".changelang").click(function(){
     e.preventDefault()
     $(this).tab('show');
   }); 
-  
+  $(".tring").hover(
+    function(){
+      
+      $(".tring img").animate(
+        {width:"60px"},
+        200,
+        function(){
+        $("#notification_content").animate({left:"70px"});
+        }
+      );
+      $(".tring").css("width","290px");
+      $(".tring span.product-desc").text("Ping Me for Best Offers");
+    },
+    function(){      
+      
+      $(".tring img").animate({width:"60px"},200,
+        function(){
+        $("#notification_content").animate({left:"-222px"});
+        }
+      );
+      $(".tring").css("width","70px");
+      $(".tring span.product-desc").text("Ping Me");
+    }
+    );
   // $("#fb-share").click(function(){
   //   if ($(#message).val()=="") {return false;}
   //   window.open("https://www.facebook.com/dialog/feed?app_id=1535932156644102&display=popup&name="+$("#message").val()+"&link=http%3A%2F%2Fwww.couponrani.com%2Fregistration%2Ffriendshipday-contest&redirect_uri=http://www.couponrani.com/registration/friendshipday-contest","_blank","toolbar=no,menubar=0,status=0,copyhistory=0,scrollbars=yes,resizable=1,location=0,Width=800,Height=900");
@@ -748,7 +1012,8 @@ $(".chosen").chosen({width:"400px"});
             });
 </script> 
 <!-- / js -->
-<script src="http://cdn.couponrani.com/assets/js/scripts.js"></script>
+<!--script src="http://www.couponrani.com/assets/js/scripts_102.js"></script-->
+<script type="text/javascript" src="http://cdn.couponrani.com/assets/js/scripts_102_new1.js"></script>
 <script src="http://cdn.couponrani.com/assets/js/crengage.js"></script>
 <script src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
