@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marketingignite.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907232917id_/http%3A//www.marketingignite.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingignite.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527140459id_/http%3A//www.marketingignite.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Marketing Ignite
+# Internet Marketing Company in Bangkok, Thailand
 
 Marketing Ignite Co. Ltd.,  believes that strong internet privacy is crucial for the ongoing success of the Internet.   Marketing Ignite will never release your personal information to anyone else without your consent. Your privacy is very important to us and we will not jeopardize your trust. 
 
