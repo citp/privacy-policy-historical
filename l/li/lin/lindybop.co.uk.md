@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lindybop.co.uk privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209210727id_/http%3A//www.lindybop.co.uk/privacy-policy-i4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lindybop.co.uk privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527154027id_/https%3A//www.lindybop.co.uk/privacy-policy-i4) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,12 +6,12 @@ This privacy policy sets out how Lindy Bop uses and protects any information tha
 
 Lindy Bop may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 16.8.2011. What we collect We may collect the following information:
 
-• name and address   
-• contact information including email address   
-• demographic information such as postcode, preferences and interests   
-• other information relevant to customer surveys and/or offers What we do with the information we gather We will not disclose information about our customers to third parties except where it is part of providing a service to you - e.g. arranging for a delivery of your order, carrying out credit and other security checks and for the purposes of customer research. 
+• Name and Address   
+• Contact information including email address   
+• Demographic information such as postcode, preferences and interests   
+• Other information relevant to customer surveys and/or offers What we do with the information we gather We will not disclose information about our customers to third parties except where it is part of providing a service to you - e.g. arranging for a delivery of your order, carrying out credit and other security checks and for the purposes of customer research. 
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
+We require this information to understand your needs and provide you with a better service, for the following reasons: 
 
 • Internal record keeping.   
 • We may use the information to improve our products and services.   
