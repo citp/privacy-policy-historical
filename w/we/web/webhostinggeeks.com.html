@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the webhostinggeeks.com privacy policy that was archived on 2015-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905185515id_/http%3A//webhostinggeeks.com/company/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the webhostinggeeks.com privacy policy that was archived on 2016-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160527182932id_/https%3A//webhostinggeeks.com/company/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
         <meta charset="utf-8">
@@ -98,7 +98,7 @@
                     <a href="/"><img alt="Web Hosting Geeks | Web Hosting Experts" src="https://d2bnoh7ldglz5s.cloudfront.net/images/new_design/logo.png" class="logoImage" height="95" width="220"></a>
                 </div>
                 <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
-                    <div class="headerInfo"><p>Since 2004 <span class="headerBadge">11513</span><a href="/user-reviews/">reviews</a> by <span class="headerBadge">1284</span><a href="/hosting-providers/">hosting companies</a></p>
+                    <div class="headerInfo"><p>Since 2004 <span class="headerBadge">13602</span><a href="/user-reviews/">reviews</a> <span class="headerBadge">1585</span><a href="/hosting-providers/">hosting companies</a></p>
                     </div>
                     <div class="headerHotline">
                         <span class="headerHotline-span1"> 1(866)TOP-HOST</span>
@@ -168,7 +168,7 @@
             <div class="row">
                 <div class="col-xs-10">
                     <div class="blueStrap-inside">
-                        <p><span class="headerBadge">11513</span> reviews <span class="headerBadge">1284</span> hosting providers</p>
+                        <p><span class="headerBadge">13602</span> reviews <span class="headerBadge">1585</span> hosting providers</p>
                     </div>
                 </div>
                 <div class="col-xs-2">
@@ -702,7 +702,7 @@
             <div class="row">
 
                 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                    <div class="copyrightContainer">Copyright © 2004 – 2015 WebHostingGeeks.com.</div>
+                    <div class="copyrightContainer">Copyright © 2004 – 2016 WebHostingGeeks.com.</div>
                 </div>
             </div>
 
@@ -865,13 +865,16 @@
                         </div>
 
                 </form></div>
-                <div class="modal-footer">
-                    <label class="checkbox" style="text-align: left">
+                <div class="modal-line" style="border-top: 1px solid #e5e5e5;width: 100%;margin-top: 10px;"></div>
+                <div class="modal-footer" style="border: none;">
+                    <label class="checkbox termsaccept" style="text-align: left">
                         <input type="checkbox" name="termsaccept" value="y"> I accept WebHostingGeeks.com Terms and Conditions
                     </label>
                     <button type="button" class="btn btn-default btnGray" data-dismiss="modal">Cancel</button>
                     <button type="submit" class="btn btn-primary btnBlue">Submit Review</button>
-                    <button id="final-review-submit" style="display: none;" type="button" class="btn btn-default btnGray">Ok</button>
+
+                    <button id="final-review-submit" style="display: none;" type="button" class="btn btn-default btnBlue">Submit</button>
+
                 </div>
                 
             </div><!-- /.modal-content -->
@@ -895,6 +898,12 @@
                 $("#myModal-header").find('button[data-dismiss="modal"]').show();
 
                 $("#final-review-submit").hide();
+
+                $("#myModal-header").find('.modal-footer').css('text-align','');
+
+                $("#myModal-header").find('.modal-line').show();
+
+                $("#myModal-header").find('label.termsaccept').show();
 
 
             });
@@ -1019,6 +1028,11 @@
                                 //$("#myModal-header").find('button[data-dismiss="modal"]').html('Ok');
 
                                 $("#final-review-submit").show();
+
+                                $("#myModal-header").find('label.termsaccept').hide();
+                                $("#myModal-header").find('.modal-line').hide();
+                                $("#myModal-header").find('.modal-footer').css('text-align','center');
+
 
                                 dataLayer.push({
                                     'event' : 'review-form-submitted'
