@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the grana.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208135250id_/http%3A//www.grana.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grana.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528090458id_/http%3A//www.grana.com/privacy) for the most accurate reproduction.*
 
 # GRANA: Wardrobe essentials made from the world’s best fabrics
-
-Add US$75 more for FREE shipping 
 
   * ## Privacy policy
 
