@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paksoldiers.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128001952id_/http%3A//paksoldiers.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paksoldiers.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528202847id_/http%3A//paksoldiers.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - Pak Soldiers
 
@@ -31,4 +31,4 @@ http://www.google.com/privacy_ads.html
 
 Our web sites contain links to other sites. PakSoldiers.com is not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each web site to which we may link that may collect personal information.
 
-Last updated: October 12, 2012
+Last updated: March 12, 2016
