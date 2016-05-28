@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cutcabletoday.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128083954id_/http%3A//www.cutcabletoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutcabletoday.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528134944id_/http%3A//www.cutcabletoday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CutCableToday
 
@@ -27,6 +27,7 @@ Cookies are used on cutcabletoday.com for storage of certain information about v
   * user preferences
   * visited pages
   * browser
+  * demographics info
   * misc. info
 
 
@@ -34,6 +35,10 @@ Cookies are used on cutcabletoday.com for storage of certain information about v
 ### **Ad Partners**
 
 Please note that our ad partners and affiliates may make use of cookies and web beacons here too.
+
+### **Demographics**
+
+We recently began tracking demographic information, which again does not allow us to personally identify you. We track this through Google Analytics cookies. You can opt out if you wish through the following: Ads Settings, Ad Settings for mobile apps, or by going to Google Analytics’ [currently available opt-outs](https://tools.google.com/dlpage/gaoptout/).
 
 ### **Questions about the Privacy Policy or Getting Rid of Cable?**
 
