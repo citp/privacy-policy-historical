@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the prodigygame.com privacy policy that was archived on 2015-09-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150910093306id_/https%3A//prodigygame.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the prodigygame.com privacy policy that was archived on 2016-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160528062317id_/https%3A//prodigygame.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html style="background-color: #f5f5f5;"><head>
 	<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
@@ -9,7 +9,7 @@
 <meta name="google-site-verification" content="ZGpq8HPfeC-lJfJ0tiG60N3N-WjlBr8vHKPzbTu7-p4">
 
 <meta name="description" content="Prodigy is a free math game for Grades 1 - 8 that kids absolutely love! Learn over 300 critical math skills in our self-paced math game."><meta property="title" content="Prodigy Math Game"><title>Prodigy Math Game</title>
-<script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580384400000/499281.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script>(function() {
+<script async="" charset="utf-8" src="//v2.zopim.com/?28uRNxjJJThy7zMtGFBEdvLcLB5ql9Kg" type="text/javascript"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580384400000/499281.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script>(function() {
   var _fbq = window._fbq || (window._fbq = []);
   if (!_fbq.loaded) {
     var fbds = document.createElement('script');
@@ -66,7 +66,7 @@ e.parentNode.insertBefore(n, e);
 		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
 
-	<link rel="stylesheet" type="text/css" href="/Includes/Styles/web.min.css?v=1441877588">
+	<link rel="stylesheet" type="text/css" href="/Includes/Styles/web.min.css?v=1464416596">
 	<!--[if IE 7]>
 		<link rel="stylesheet" type="text/css" href="/Includes/Styles/ie7.css">	
 	<![endif]-->
@@ -76,6 +76,8 @@ e.parentNode.insertBefore(n, e);
 
 	<script src="/Includes/Scripts/Libraries/lodash.min.js"></script>
 	<script src="/Includes/Scripts/Libraries/jquery.min.js"></script>
+	<script charset="ISO-8859-1" src="//fast.wistia.com/assets/external/E-v1.js" async=""></script>
+	
 
 	<script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -84,11 +86,371 @@ e.parentNode.insertBefore(n, e);
 	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 		var prodigyWeb = {};
 
-		var session_user_id = false;var openRegisterOnLoad = false;prodigyWeb.country = 2;
+		var session_user_id = false;var openRegisterOnLoad = false;
 		ga('create', 'UA-40390561-1', 'auto');		ga('send', 'pageview');
 	</script>
 
-		<script id="simple-dialog-template" type="text/x-handlebars-template">
+		<script id="add-students-template" type="text/x-handlebars-template">
+
+	{{#if feature.classcode}}
+		<div class="clearfix">
+			<div class="add-students__method-toggle add-students__method-toggle--code">
+				<div sw-method="classcode" class="js-change-method add-students__method-toggle-btn clickable">
+					<div class="unclickable">
+						<img src="/assets/images/svg/chalkboard.svg">
+						<p>Use class code</p>
+					</div>
+				</div>
+				<p class="add-students__method-toggle-desc">Best suited for older students or larger classes.</p>
+			</div>
+
+			<div class="add-students__method-toggle-separator">
+				or
+			</div>
+
+			<div class="add-students__method-toggle add-students__method-toggle--manual">
+				<div sw-method="create-students" class="js-change-method add-students__method-toggle-btn clickable">
+					<div class="unclickable">
+						<img src="/assets/images/svg/keyboard.svg">
+					<p>Add manually</p>
+					</div>
+				</div>
+				<p class="add-students__method-toggle-desc">Best suited for younger students or smaller classes.</p>
+			</div>
+		</div>
+	{{/if}}
+
+	<div class="js-selected-method-container"></div>
+</script>
+
+<script id="add-students-classcode-template" type="text/x-handlebars-template">
+	<ul class="table">
+		<li class="row-xs">
+			<div class="cell">
+				<span class="circled circled--list-icon circled--blue">
+					<span class="circled__inner">1</span>
+				</span>
+			</div>
+			<div class="cell">Get your students to visit <b>prodigygame.com/play</b></div>
+		</li>
+		<li class="row-xs">
+			<div class="cell">
+				<span class="circled circled--list-icon circled--blue">
+					<span class="circled__inner">2</span>
+				</span>
+			</div>
+			<div class="cell">Have them select New Student, and enter your class&nbsp;code:&nbsp;<span class="text-blue text-bold">{{classcode}}</span></div>
+		</li>
+		<li class="row-xs">
+			<div class="cell">
+				<span class="circled circled--list-icon circled--blue">
+					<span class="circled__inner">3</span>
+				</span>
+			</div>
+			<div class="cell">They create their own character, and are ready to start&nbsp;playing!</div>
+		</li>
+	</ul>
+
+	<a class="js-parent-letters btn-ghost btn-ghost--block btn-ghost--grey text-bold text-mb-none text-mt-md" href="/actions/getClassCodePDF.php?classCode={{classcode}}"><i class="fa fa-print"></i> Print these instructions</a>
+</script>
+
+<script id="add-students-manual-template" type="text/x-handlebars-template">
+	<div class="toggle-btn-group row-sm row-collapse-t">
+		<button sw-method="create-students" class="toggle-btn toggle-btn--blue {{#if isCreateStudents}}toggle-btn--selected{{/if}}">New accounts</button>
+		<button sw-method="existing-students" class="toggle-btn toggle-btn--blue {{#if isExistingStudents}}toggle-btn--selected{{/if}}">Existing accounts</button>
+	</div>
+
+	<div class="js-add-students-error-container"></div>
+
+	<div class="add-students__manual-wrapper">
+		<table class="js-add-student-table table-bordered table--layout-auto text-m-none">
+			<tbody>
+				<tr>
+					<th></th>
+					{{#if isCreateStudents}}
+						<th style="width: 42%;">First Name</th>
+						<th>Last Name</th>		
+					{{/if}}
+
+					{{#if isExistingStudents}}
+						<th style="width: 42%;">Username</th>
+						<th>Password</th>
+					{{/if}}
+				</tr>	
+			</tbody>
+		</table>
+	</div>
+
+	<button class="js-create-students btn btn--block btn--blue text-mb-none text-mt-md">
+		{{#if isCreateStudents}}
+			Create student accounts
+		{{else}}
+			Link student accounts
+		{{/if}}
+	</button>
+</script>
+
+<script id="add-students-manual-new-student-row-template" type="text/x-handlebars-template">
+	<tr sw-student-row="{{index}}">
+		<td class="text-center">{{index}}</td>
+		<td><input name="first_name" class="input--plain" type="text" title="Enter student's name"></td>
+		<td><input name="last_name" class="input--plain" type="text" title="Enter student's last name or initial."></td>			
+	</tr>
+</script>
+
+<script id="add-students-manual-existing-student-row-template" type="text/x-handlebars-template">
+	<tr sw-student-row="{{index}}">
+		<td class="text-center">{{index}}</td>
+		<td><input name="username" class="input--plain" type="text" title="Enter student's username" autocomplete="off"></td>
+		<td><input name="password" class="input--plain" type="password" title="Enter student's password"></td>			
+	</tr>
+</script>
+
+<script id="add-students-manual-errors-template" type="text/x-handlebars-template">
+	{{#if invalidAccountError}}
+		<label class="warning-text small text-normal text-lh-md">Looks like some of the <b>username</b> and <b>password</b> combinations were incorrect.</label>
+	{{else}}
+		{{#if firstNameError}}
+			<label class="warning-text small text-normal text-lh-md">Be sure <b>first names</b> are at least {{minNameLength}} characters long.</label>
+		{{/if}}
+
+		{{#if lastNameError}}
+			<label class="warning-text small text-normal text-lh-md">Be sure <b>last names</b> are at least 1 character long.</label>
+		{{/if}}
+
+		{{#if usernameError}}
+			<label class="warning-text small text-normal text-lh-md">Be sure <b>usernames</b> are at least {{minNameLength}} characters long.</label>
+		{{/if}}
+
+		{{#if passwordError}}
+			<label class="warning-text small text-normal text-lh-md">Be sure <b>passwords</b> are at least {{minPasswordLength}} characters long.</label>
+		{{/if}}
+	{{/if}}
+	<label class="warning-text small text-normal text-lh-md">Errors on rows: <b>{{rowsWithErrors}}</b></label>
+</script>
+<script id="calendar-template" type="text/x-handlebars-template">
+	<div class="calendar-nav text-right hide-mobile">
+		<i class="calendar-nav__calendar-icon fa fa-calendar-o"></i> {{firstDateMonth}} {{firstDateDay}} - {{lastDateMonth}} {{lastDateDay}}
+		<i class="calendar-nav__shift-icon js-previous-week fa fa-chevron-left"></i> <i class="calendar-nav__shift-icon js-next-week fa fa-chevron-right"></i>
+	</div>
+
+	<div class="calendar-nav text-center show-mobile-only clearfix">
+		<i class="left calendar-nav__shift-icon js-previous-week fa fa-chevron-left"></i>
+		<span style="line-height: 2rem;">{{firstDateMonthShort}} {{firstDateDay}} - {{lastDateMonthShort}} {{lastDateDay}}</span>
+		<i class="right calendar-nav__shift-icon js-next-week fa fa-chevron-right"></i>
+	</div>
+
+	<div class="calendar-wrapper">
+		<table class="calendar">
+			<thead>
+				<tr>
+					<th class="calendar__day-heading">SUN</th>
+					<th class="calendar__day-heading">MON</th>
+					<th class="calendar__day-heading">TUE</th>
+					<th class="calendar__day-heading">WED</th>
+					<th class="calendar__day-heading">THU</th>
+					<th class="calendar__day-heading">FRI</th>
+					<th class="calendar__day-heading">SAT</th>
+				</tr>
+			</thead>
+			<tbody class="js-calendar-body">	
+			</tbody>
+		</table>
+	</div>
+</script>
+
+
+<script id="calendar-day-template" type="text/x-handlebars-template">
+	<div class="text-nowrap">
+		{{#if isFirstDate}}<div class="calendar__day-month {{#if isToday}}calendar__day-month--current{{/if}}">{{dayMonth}}</div>{{/if}}
+		<div class="calendar__day-number {{#if isToday}}calendar__day-number--current{{/if}}">{{dayNumber}}</div>
+	</div>
+	<div class="calendar__day-events"></div>
+</script>
+<script id="class-preview-template" type="text/x-handlebars-template">
+	<div class="class-preview__inner">
+		<i class="js-edit-class-btn class-preview__edit-icon fa fa-cog"></i>
+		<h1 class="class-preview__name ellipsis">{{name}}</h1>
+		<p class="class-preview__students">{{numOfStudents}} Student{{#if isStudentsPlural}}s{{/if}}</p>
+		<p class="class-preview__classcode">Class Code: {{classCode}}</p>
+		<a href="#classes/class/{{id}}" class="btn btn--block btn--blue text-m-none">Manage class</a href="#classes/class/{{classID}}">			
+	</div>
+</script>
+<script id="connect-parents-template" type="text/x-handlebars-template">	
+	<div class="text-center">
+		<p>You've connected <span class="js-total-connected-students">{{totalConnectedStudents}}</span> out of {{totalStudents}} parents</p>
+		<div class="js-progress-bar-wrapper"></div>
+		<div class="row-md">
+			<a class="js-parent-letters btn-ghost btn-ghost--grey text-bold text-m-none" href="/actions/printParentLetters.php"><i class="fa fa-download" aria-hidden="true"></i> Get parent letters</a>	
+		</div>			
+	</div>
+	<ul class="connect-parents__student-list">
+		{{#each students}}
+			<li class="js-student-list-item-{{cid}} connect-parents__student-list-item"></li>
+		{{/each}}
+	</ul>
+</script>
+
+<script id="connect-parents-student-template" type="text/x-handlebars-template">	
+	<div class="connect-parents__student-name ellipsis" title="{{this.name}}">{{this.name}}</div>
+	<div class="connect-parents__parent-email-container">
+		{{#if this.parentEmail}}
+			<div class="connect-parents__parent-email ellipsis">
+				<p class="text-light text-faded">Invited parent</p>
+				<p>{{this.parentEmail}}</p>
+			</div>
+			<div class="connect-parents__remove-email">
+				<button sw-user-id="{{this.userID}}" class="js-remove-parent btn connect-parents__remove-email-btn">Remove</button>
+			</div>
+		{{else}}
+			<div class="input-btn-group">
+				<input sw-user-id="{{this.userID}}" class="js-invite-parent-input input-btn-group__input" placeholder="Enter parent email" type="text">
+				<button class="js-invite-parent input-btn-group__btn btn btn--blue">Invite</button>
+			</div>
+		{{/if}}
+	</div>						
+</script>
+<script id="create-class-template" type="text/x-handlebars-template">
+	
+	<p class="text-center text-m-none row-md row-collapse-t">Enter details for your new class</p>
+
+	<form>
+		<div class="form-table">
+			<table>
+				<tr class="form-table__input-row">
+					<td class="form-table__label-cell">
+						<label id="class-name-label" class="form-table__label" for="class-name">Class name</label>
+					</td>
+					<td class="form-table__input-cell">
+						<input id="class-name" class="form-table__input" name="name" type="text" placeholder='e.g. "Homeroom"' sw-input sw-type="text" sw-label="#class-name-label">
+					</td>
+				</tr>
+				<tr class="form-table__input-row">
+					<td class="form-table__label-cell">
+						<label id="class-grade-label" class="form-table__label" for="class-grade-select">Grade</label>
+					</td>
+					<td class="form-table__input-cell">
+						<select id="class-grade-select" class="form-table__select clickable" name="grade" sw-input sw-type="text" sw-label="#class-grade-label">
+							<option value="" selected disabled hidden>Select a grade</option>
+							{{#each curricula}}
+								<option value="{{curriculumID}}">{{name}}</option>
+							{{/each}}
+						</select>
+					</td>
+				</tr>
+			</table>	
+		</div>
+
+		<div class="row-xl row-collapse-b">
+			<button class="btn btn--blue btn--block text-m-none">Create class</button>
+		</div>
+	<form>
+</script>
+<script id="curriculum-select-template" type="text/x-handlebars-template">
+	<p class="text-size-5">Choose your curriculum</p>
+	<select id="curriculum-select" class="icon-select text-strong" sw-select>
+		<option value="0" disabled selected hidden>Please choose a curriculum</option>
+		<option value="1" sw-select-option-url="/assets/images/svg/flag-prodigy.svg">Prodigy Math Curriculum (Default)</option>
+		<option value="1" sw-select-option-url="/assets/images/svg/flag-canada.svg">Ontario Math Curriculum</option>
+		<option value="2" sw-select-option-url="/assets/images/svg/flag-america.svg">Common Core State Standards</option>
+		<option value="3" sw-select-option-url="/assets/images/svg/flag-america.svg">MAFS (Florida)</option>
+		<option value="4" sw-select-option-url="/assets/images/svg/flag-america.svg">TEKS (Texas)</option>
+	</select>
+
+	<div class="row-sm">
+		<button id="curriculum-next-button" class="js-tutorial-next-step btn btn--primary btn--feature" disabled>Choose curriculum</button>
+	</div>
+</script>
+<script id="dash-question-template" type="text/x-handlebars-template">
+	<div class="dash-block__inner">
+		<div class="dash-block__content">
+			<p class="js-toggle-open clickable dash-question__title text-mb-none">{{#if imgSrc}}<img class="dash-question__title-img" width="31px" src="{{imgSrc}}">{{/if}} {{{question}}} <i class="js-toggle-open-icon dash-question__icon fa {{#if startOpen}}fa-caret-up{{/if}}{{#unless startOpen}}fa-caret-down{{/unless}}"></i></p>
+
+			<div class="js-answer-container dash-question__answer-content" {{#unless startOpen}}style="display: none;"{{/unless}}>
+				<p class="text-mb-none">{{{answer}}}</p>	
+				{{#if linkText}}
+					<a class="js-action-link dash-question__link" href="#">{{{linkText}}} <i class="dash-question__icon fa fa-angle-right"></i></a>
+				{{/if}}
+			</div>
+		</div>
+	</div>
+</script>
+<script id="alert-dialog-template" type="text/x-handlebars-template">
+	<div class="dialog__wrapper">
+		{{#if title}}
+			<div class="dialog__title dialog__title--small">{{{title}}}</div>
+		{{/if}}
+
+		{{#if imageSrc}}
+			<img class="dialog__image" src="{{imageSrc}}" alt="{{imageAlt}}">
+		{{/if}}
+
+		<div class="dialog__main">{{{main}}}</div>
+
+		{{#if loader}}
+			<div class="js-loader-container"></div>
+		{{/if}}
+	</div>
+
+	{{#if buttons}}
+		<div class="dialog__button-container text-right">
+			{{#each buttons}}
+				{{#if href}}
+					<a class="js-dialog-button-{{@index}} btn-flat btn-flat--md {{className}}" href="{{href}}" {{#if target}}target="{{target}}"{{/if}}>{{text}}</a>
+				{{else}}
+					<button class="js-dialog-button-{{@index}} btn-flat btn-flat--md {{className}}">{{text}}</button>
+				{{/if}}
+			{{/each}}
+		</div>
+	{{/if}}
+</script>
+
+<script id="confirmation-dialog-template" type="text/x-handlebars-template">
+	<div class="dialog__wrapper">
+		{{#if title}}
+			<div class="dialog__title">{{{title}}}</div>
+		{{/if}}
+
+		{{#if imageSrc}}
+			<img class="dialog__image" src="{{imageSrc}}" alt="{{imageAlt}}">
+		{{/if}}
+
+		<div class="dialog__main">{{{main}}}</div>
+
+		{{#if loader}}
+			<div class="js-loader-container"></div>
+		{{/if}}
+	</div>
+
+	{{#if buttons}}
+		<div class="dialog__button-container text-right">
+			{{#each buttons}}
+				{{#if href}}
+					<a class="js-dialog-button-{{@index}} btn-flat btn-flat--md {{className}}" href="{{href}}" {{#if target}}target={{target}}{{/if}}>{{text}}</a>
+				{{else}}
+					<button class="js-dialog-button-{{@index}} btn-flat btn-flat--md {{className}}">{{text}}</button>
+				{{/if}}
+			{{/each}}
+		</div>
+	{{/if}}
+</script>
+
+<script id="shell-dialog-template" type="text/x-handlebars-template">
+	<div class="dialog__header {{#if headerClassName}}{{headerClassName}}{{/if}}">
+		{{#if title}}
+			<div class="dialog__title text-m-none">{{{title}}}</div>
+			{{#if $img}}{{{$img}}}{{/if}}
+		{{/if}}
+
+		<i class="js-dialog-close dialog__close-icon fa fa-times {{#if iconClassName}}{{iconClassName}}{{/if}}"></i>
+	</div>
+
+	<div class="dialog__wrapper">
+		<div class="dialog__main">{{{main}}}</div>
+	</div>
+</script>
+<!-- These templates are deprecated, but may still be in use by older parts of the web app. -->
+<script id="simple-dialog-template" type="text/x-handlebars-template">
 	<div class="dialog__wrapper">
 		{{#if title}}
 			<div class="dialog__title">{{{title}}}</div>
@@ -118,57 +480,6 @@ e.parentNode.insertBefore(n, e);
 	</div>
 </script>
 
-<script id="alert-dialog-template" type="text/x-handlebars-template">
-	<div class="dialog__wrapper">
-		{{#if title}}
-			<div class="dialog__title dialog__title--small">{{{title}}}</div>
-		{{/if}}
-
-		{{#if imageSrc}}
-			<img class="dialog__image" src="{{imageSrc}}" alt="{{imageAlt}}">
-		{{/if}}
-
-		{{#if main}}
-			<div class="dialog__main">{{{main}}}</div>
-		{{/if}}
-	</div>
-
-	{{#if buttons}}
-		<div class="dialog__button-container text-right">
-			{{#each buttons}}
-				<{{tag}} class="js-button {{className}}" {{#if href}}href="{{href}}"{{/if}} data-callback-index="{{callbackIndex}}">{{text}}</{{tag}}>
-			{{/each}}
-		</div>
-	{{/if}}
-</script>
-
-<script id="confirmation-dialog-template" type="text/x-handlebars-template">
-	<div class="dialog__wrapper">
-		{{#if title}}
-			<div class="dialog__title">{{{title}}}</div>
-		{{/if}}
-
-		{{#if imageSrc}}
-			<img class="dialog__image" src="{{imageSrc}}" alt="{{imageAlt}}">
-		{{/if}}
-
-		{{#if main}}
-			<div class="dialog__main">{{{main}}}</div>
-		{{/if}}
-
-		{{#if loader}}
-			<div class="js-loader-container"></div>
-		{{/if}}
-	</div>
-
-	{{#if buttons}}
-		<div class="dialog__button-container text-right">
-			{{#each buttons}}
-				<{{tag}} class="js-button {{className}}" {{#if href}}href="{{href}}"{{/if}} data-callback-index="{{callbackIndex}}">{{text}}</{{tag}}>
-			{{/each}}
-		</div>
-	{{/if}}
-</script>
 
 <script id="figure-dialog-template" type="text/x-handlebars-template">
 	<div class="dialog-figure__wrapper clearfix">
@@ -196,12 +507,90 @@ e.parentNode.insertBefore(n, e);
 	</div>
 
 	{{#if buttons}}
-		<div class="dialog-figure__button-container text-right">
+		<div class="dialog__button-container text-right">
 			{{#each buttons}}
-				<{{tag}} class="js-button {{className}}" {{#if href}}href="{{href}}"{{/if}} data-callback-index="{{callbackIndex}}">{{text}}</{{tag}}>
+				<{{#if href}}a{{else}}button{{/if}} class="js-dialog-button-{{@index}} btn-flat btn-flat--md {{className}}" {{#if href}}href="{{href}}"{{/if}}>{{text}}</{{#if href}}a{{else}}button{{/if}}>
 			{{/each}}
 		</div>
 	{{/if}}
+</script>
+
+
+<script id="sign-up-form-dialog-template" type="text/x-handlebars-template">
+	<div class="dialog__wrapper dialog__wrapper--tall dialog__wrapper--blue">
+		{{#if title}}
+			<div class="dialog__title text-white">{{{title}}}</div>
+			<img class="dialog__title-ed-img" width="140px" src="/assets/images/svg/ed/ed-balloon.svg" alt="Ed holding a heart-shaped balloon.">
+		{{/if}}
+
+		<i class="js-dialog-close dialog__close-icon fa fa-times text-white"></i>
+	</div>
+
+	<div class="dialog__wrapper">
+		<div class="dialog__main">{{{main}}}</div>
+	</div>
+
+	<div class="dialog__button-container text-center">
+		<p class="text-m-none">Already have an account? <a id="dialog-sign-in-link" class="js-login-link text-bold" href="#">Sign&nbsp;In</a></p>		
+	</div>
+</script>
+
+<script id="header-dialog-template" type="text/x-handlebars-template">
+	<div class="dialog__header dialog__wrapper--tall dialog__wrapper--blue">
+		{{#if title}}
+			<div class="dialog__title text-white text-m-none">{{{title}}}</div>
+			{{#if $img}}{{{$img}}}{{/if}}
+		{{/if}}
+
+		<i class="js-dialog-close dialog__close-icon fa fa-times text-white"></i>
+	</div>
+
+	<div class="dialog__wrapper">
+		<div class="dialog__main">{{{main}}}</div>
+	</div>
+</script>
+<script id="edit-class-template" type="text/x-handlebars-template">
+	<form>
+		<label id="class-name-label" for="class-name">Change class name</label>
+		<input id="class-name" name="name" type="text" placeholder='e.g. "Homeroom"' sw-input sw-type="text" sw-label="#class-name-label" sw-error="Class name should be at least 1 characters long." value="{{name}}">
+
+		<label id="class-grade-label" for="class-grade-select">Change grade</label>
+		<select id="class-grade-select" class="clickable" name="grade" sw-input sw-type="text" sw-label="#class-grade-label" sw-optional="true">
+			{{#each curricula}}
+				<option value="{{curriculumID}}">{{name}}</option>
+			{{/each}}
+		</select>	
+
+		{{#unless inDialog}}
+			<button class="btn btn--block btn--blue">Save changes</button>
+		{{/unless}}
+	<form>
+
+	{{!-- Delete class is disabled until full multiple class feature is released. --}}
+	{{!-- <a class="js-delete-class-btn text-mb-none text-warning clickable"><i class="fa fa-trash"></i> Delete this class</a> --}}
+</script>
+<script id="edit-student-template" type="text/x-handlebars-template">
+	<form>
+		<label id="student-name-label" for="student-name">Student's name</label>
+		<input id="student-name" name="student-name" type="text" sw-input sw-type="name" sw-label="#student-name-label" sw-error="Name should be at least 2 characters long." value="{{fullname}}">
+
+		<label id="student-override-label" for="student-override">Grade Override</label>
+		<select id="student-override" name="student-override">
+			<option value="">No Override</option>
+			{{#each curricula}}
+				<option value="{{curriculumID}}">Grade {{grade}}</option>
+			{{/each}}
+		</select>
+
+		<label id="student-new-password-label" for="student-new-password">New password</label>
+		<input id="student-new-password" name="student-new-password" type="password" sw-input sw-type="password" sw-label="#student-new-password-label" sw-error="Password should be at least 4 characters long." sw-optional="true">
+
+		{{#unless inDialog}}
+			<button class="btn btn--block btn--blue">Save changes</button>
+		{{/unless}}
+	<form>
+
+	<a class="js-remove-student text-mb-none text-warning clickable"><i class="fa fa-trash"></i> Remove student from class</a>
 </script>
 <script id="class-code-username-template" type="text/x-handlebars-template">
 	<div class="modal-section-container">
@@ -236,15 +625,18 @@ e.parentNode.insertBefore(n, e);
 
 <script id="class-code-register-template" type="text/x-handlebars-template">
 	<div class="modal-section-container">
-		<div class="modal--advanced__heading">Complete your Registration</div>
+		<div class="modal--advanced__heading">Teacher email not found</div>
 		<div class="modal-section">
-			<form id="class-code-register-form" type="submit">
+			<p class="text-left"><strong>Students:</strong> To play without a class code, select <a class="clickable js-close-advanced-modal">Playing at Home</a> on the game screen.</p>
+
+			<p class="text-left"><strong>Teachers:</strong> If you need a class code, please <a href="https://prodigygame.com" target="_blank">register for an account</a>.</p>
+			<!--<form id="class-code-register-form" type="submit">
 				<label for="class-code-register-name" class="text-left">Full Name</label><input id="class-code-register-name" type="text">
 				<label for="class-code-register-password" class="text-left">Password</label><input id="class-code-register-password" type="password">
 				<input id="class-code-register-email-consent" type="checkbox" name="emailConsent" value="true"><label for="class-code-register-email-consent" class="label--inline text-left">I consent to receive Prodigy emails and updates</label>
 				<button id="class-code-register-submit" class="btn btn-md btn-primary" type="submit">Get Your Class Code</button>
 				<p class='text-light small'>By registering you agree to our <a class='text-light' target="_blank" href="/terms-conditions">Terms</a> and <a class='text-light' target="_blank" href="/privacy-policy">Privacy Policy</a></p>
-			</form>
+			</form> -->
 		</div>
 	</div>
 </script>
@@ -266,6 +658,106 @@ e.parentNode.insertBefore(n, e);
 
 
 
+<script id="intro-plan-template" type="text/x-handlebars-template">
+	<div class="js-topic-select-wrapper"></div>
+	<div class="row-md row-collapse-b">
+		<button class="js-save-intro-plan-btn btn btn--blue btn--block btn--disabled text-m-none">Align your class</button>
+	</div>	
+</script>
+<script id="location-select-base-template" type="text/x-handlebars-template">
+	
+	<div id="location-select-search-container">
+		<div class="search-container">
+			<div id="location-select-input-container"></div>
+			<div id="location-select-results-container"></div>
+		</div>
+		<div class="text-right">
+			<a id="location-skip-hint" class="js-skip-location-select small clickable">{{#if skippable}}Don't have a school?{{/if}}</a>
+			<a id="location-add-hint" class="js-start-add-school small clickable" style="display:none">Can't find your school?</a>
+		</div>
+	</div>
+
+	<div id="location-select-add-school-container" style="display:none;"></div>
+
+	<div id="location-select-curriculum-container" style="display:none;"></div>
+	
+	<button id="location-select-submit" class="js-location-select-submit btn btn--primary btn--block text-strong" style="display:none;" disabled>Continue</button>
+
+</script>
+
+<script id="location-select-search-template" type="text/x-handlebars-template">
+	<input class="js-location-search search__input" autofocus="true" type="text" placeholder="Enter your school name...">
+	<i id="location-search-icon" class="search__icon fa fa-search"></i>
+	<i id="location-clear-icon" class="js-reset-location-selection search__icon search__icon--clear fa fa-times-circle clickable" style="display:none;"></i>
+</script>
+
+<script id="location-select-results-template" type="text/x-handlebars-template">
+	<div class="search__results">
+		<div class="js-search-spinner search__loading" style="display:none;">
+			<div class="module-overlay--light">
+				<img class="spinner search__spinner" src="/assets/images/svg/tail-spin.svg" alt="Content is loading.">
+			</div>
+		</div>
+
+		{{#if locations}}
+			<ul class="search__list">
+				{{#each locations}}
+					<li id="{{id}}" class="js-location-item search__item" data-school="{{school}}" data-board="{{board}}" data-country="{{country}}" data-state="{{state}}" data-id="{{objectID}}"><div class="search__item-title">{{school}}</div><div class="search__item-subtitle">{{board}}, {{province}}, {{country}}</div></li>
+				{{/each}}
+			</ul>
+		{{/if}}
+
+		{{#if emptySearch}}
+			<div class="search__results-note">
+				<p>We couldn't find your school. Add it now!</p>
+				<a class="js-start-add-school btn btn--primary text-strong">Add your school</a>
+			</div>
+		{{/if}}
+	</div>
+</script>
+
+<script id="location-select-add-school-template" type="text/x-handlebars-template">
+	<form>
+		<div class="form-table">
+			<table>
+				<tr class="form-table__input-row">
+					<td class="form-table__label-cell">
+						<label id="school-name-label" class="form-table__label" for="school-name">School Name</label>
+					</td>
+					<td class="form-table__input-cell">
+						<input id="school-name" class="js-location-field form-table__input" name="name" type="text" sw-type="name" sw-label="#school-name-label" sw-error="" placeholder="Thomas Street Public School">
+					</td>
+				</tr>
+
+				<tr class="form-table__input-row">
+					<td class="form-table__label-cell">
+						<label id="board-name-label" class="form-table__label" for="board-name">Board / District</label>
+					</td>
+					<td class="form-table__input-cell">
+						<input id="board-name" class="js-location-field form-table__input" name="name" type="text" sw-type="name" sw-label="#board-name-label" sw-error="" placeholder="Peel District School Board">
+					</td>
+				</tr>
+			</table>	
+		</div>
+	</form>
+	<div class="text-right">
+		<a class="js-start-search small clickable">Go back to search bar</a>
+	</div>
+</script>
+
+<script id="location-select-curriculum-template" type="text/x-handlebars-template">
+	<div class="row-md">
+		<p class="text-size-5">Choose your curriculum</p>
+		<select id="curriculum-select" class="icon-select text-strong" sw-select>
+			<option value="0" disabled selected hidden>Please choose a curriculum</option>
+			<option value="1" sw-select-option-url="/assets/images/svg/flag-prodigy.svg">Prodigy Math Curriculum</option>
+			<option value="1" sw-select-option-url="/assets/images/svg/flag-canada.svg">Ontario Math Curriculum</option>
+			<option value="2" sw-select-option-url="/assets/images/svg/flag-america.svg">Common Core State Standards</option>
+			<option value="3" sw-select-option-url="/assets/images/svg/flag-america.svg">MAFS (Florida)</option>
+			<option value="4" sw-select-option-url="/assets/images/svg/flag-america.svg">TEKS (Texas)</option>
+		</select>
+	</div>
+</script>
 <script id="login-modal-template" type="text/x-handlebars-template">
 	<div class="modal--advanced__heading">Login To Prodigy</div>
 	<form id="login-form">
@@ -273,7 +765,7 @@ e.parentNode.insertBefore(n, e);
 			<label id="login-form-label--error" class="label--error gone"></label>
 			<label id="login-username-label" for="login-username">Email</label>
 			<label id="login-username-label--error" for="login-username" class="label--error gone"></label>
-			<input id="login-username" type="text">			
+			<input id="login-username" type="text" value="{{defaultEmail}}">			
 
 			<label id="login-password-label" for="login-password">Password</label>
 			<label id="login-password-label--error" for="login-password" class="label--error gone"></label>
@@ -334,104 +826,121 @@ e.parentNode.insertBefore(n, e);
 		<div class="modal-btn-container"></div>
 	</div>
 </script>
-<script id="progress-bar-collection-template" type="text/x-handlebars-template">
-
-	<div class="progress-bar-legend legend-item-table">
-		<div class="legend-item js-sort-name js-active-filter">NAME</div>
-		<div class="legend-item js-sort-mastered"><span class="legend-color-marker color-mastered"></span> SEGMENT NAME</div>
-		<div class="legend-item js-sort-struggling"><span class="legend-color-marker color-struggling"></span> SEGMENT NAME</div>
-		<div class="legend-item js-sort-not-started"><span class="legend-color-marker color-not-started"></span> SEGMENT NAME</div>
-	</div>
-
-	<p class="text-right text-light small">Click the bars for more details.</p>
-
-	<div class="progress-bar-container widget-container">
-
-	</div>
-
-</script>
-<script id="progress-bar-template" type="text/x-handlebars-template">
-
-	<p class="bar-title js-bar-title" data-id="{{id}}">{{name}}</p>
-
-	<div class="bar-segment-container">
-		{{#each segmentData}}
-			<div class="progress-bar-segment {{className}}" data-index="{{@index}}" data-value="{{value}}" title="Click for more details" style="width: {{percentageWidth}};">
-				<span class="progress-bar-segment-value">{{value}}</span>
-			</div>
+<script id="move-students-template" type="text/x-handlebars-template">
+	<p>Move the {{students.length}} selected students to a different class.</p>
+	<div class="js-error-container text-warning"></div>
+	<select class="js-select-class move-students__class-select">
+		{{#each classes}}
+			<option value="{{id}}">{{name}}</option>
 		{{/each}}
-	</div>
+	</select>
 
+	{{#unless inDialog}}
+		<a class="js-open-create-class-dialog clickable">Create new class</a>
+	{{/unless}}
 </script>
-<script id="progress-bar-tooltip-template" type="text/x-handlebars-template">
+<script id="notifications-template" type="text/x-handlebars-template">
+	<i class="js-toggle-notifications notifications__icon fa fa-bell-o"></i>
 
-	<div class="progress-bar-tooltip" title>
-		<div class="progress-bar-tooltip-arrow"></div>
+	{{#if numNewNotifications}}
+		<span class="js-toggle-notifications notifications__counter {{counterClass}}">{{notificationIconText}}</span>
+	{{/if}}
 
-		<div class="js-container progress-bar-tooltip-content">
-
-			<div class="progress-bar-tooltip-header">
-				<h1 class="progress-bar-tooltip-title">
-					{{name}}				
-					{{#if tooltipNotice}}<br/><small>{{tooltipNotice}}</small>{{/if}}
-				</h1>
-				<i class="js-close-tooltip fa fa-times tooltip-title-icon"></i>
+	{{#if isOpen}}
+		<div class="js-notifications-list notifications__container">
+			<div class="notifications__heading">
+				{{#if notifications}}Notifications{{else}}You have no notifications!{{/if}}
 			</div>
+			<ul class="notifications__items">
+				{{#each notifications}}
+					<li>
+						<a class="{{readStatusClass}} {{eventClass}}" href="{{url}}", target="{{target}}">
+							<i class="{{iconColorClass}} fa {{iconTypeClass}}"></i>
 
-			<ul class="progress-bar-tooltip-details">
-				{{#each data}}
-					<li><a class="js-tooltip-item" data-id="{{valueID}}">{{value}}</a></li>
+							<div class="notifications__item-details">
+								<div class="notifications__item-description">
+									<strong>{{subjects}}</strong> {{{description}}} <strong>{{object}}</strong>
+								</div>
+								<div class="notifications__item-date"><i class="icon-inline--left fa fa-clock-o"></i> {{time}}</div>
+							</div>
+
+						</a>
+					</li>
 				{{/each}}
 			</ul>
 		</div>
-	</div>
+	{{/if}}
 
 </script>
-<script id="skill-progress-bar-collection-template" type="text/x-handlebars-template">	
 
-	<p class="text-right text-light small">Click below to sort the skills.</p>	
-
-	<div title="Click to sort" class="progress-bar-legend legend-item-table">
-		<div class="legend-item js-sort-name">Skill Name</div>
-		<div class="legend-item legend-segment-name js-sort-struggling js-active-filter"><span class="legend-color-marker color-struggling"></span> Struggling</div>
-		<div class="legend-item legend-segment-name js-sort-mastered"><span class="legend-color-marker color-mastered"></span> Mastered</div>
-		<div class="legend-item legend-segment-name js-sort-not-started"><span class="legend-color-marker color-not-started"></span> Not Started</div>
-	</div>
-
-	<p class="text-right text-light small">Click the bars for more details.</p>
-
-	<div class="widget-container">
-		<div class="skill-bar-container progress-bar-container">
-
+<script id="planner-calendar-form-template" type="text/x-handlebars-template">
+	<div class="planner-calendar__form clearfix">
+		<div class="js-plan-topic-input-group planner-calendar__form-group planner-calendar__form-group--input">
+			<label>Topic</label>
+			<div class="context">
+				<div class="planner-calendar__form-select-input">
+					<input readonly class="js-planner-calendar-topic-input js-select-topic" type="text" placeholder="Select a topic..." {{#if topic}}value="{{topic.topicName}}" title="{{topic.topicName}}"{{/if}}>
+					<button class="js-select-topic">Select</button>
+				</div>
+			</div>
 		</div>
-		{{#if hasHiddenBars}}
-			<span class="js-display-more skill-bar-btn">Show More Skills</span>
-		{{/if}}
-	</div>
 
+		<div class="js-plan-start-date-input-group planner-calendar__form-group planner-calendar__form-group--input">
+			<label>Start Date</label>
+			<div class="context">
+				<input readonly disabled class="js-planner-calendar-topic-input planner-calendar__form-input" type="text" value="{{startDateReadable}}">
+				{{#if startDate}}
+					<i class="js-edit-start-date planner-calendar__edit-input-icon fa fa-times-circle"></i>
+				{{/if}}			
+			</div>
+			
+		</div>
+
+		<div class="js-plan-end-date-input-group planner-calendar__form-group planner-calendar__form-group--input">
+			<label>End Date</label>
+			<div class="context">
+				<input readonly disabled class="js-planner-calendar-topic-input planner-calendar__form-input" type="text" value="{{endDateReadable}}">
+				{{#if endDate}}
+					<i class="js-edit-end-date planner-calendar__edit-input-icon fa fa-times-circle"></i>
+				{{/if}}
+			</div>
+			
+		</div>
+
+		<div class="planner-calendar__form-group planner-calendar__form-group--btn">
+			{{#if isBeingEdited}}
+				<button class="planner-calendar__form-btn btn btn--red btn--block js-cancel-plan-btn">Cancel edit</button>				
+			{{else}}
+				<button class="planner-calendar__form-btn btn btn--red btn--block js-cancel-plan-btn">Cancel</button>
+				
+			{{/if}}
+		</div>
+
+		<div class="js-plan-save-btn-group planner-calendar__form-group planner-calendar__form-group--btn">
+			{{#if isBeingEdited}}
+				<button class="planner-calendar__form-btn btn btn--primary btn--block js-create-plan-btn" {{#unless endDate}}disabled="true"{{/unless}}>Save edit</button>				
+			{{else}}
+				<button class="planner-calendar__form-btn btn btn--primary btn--block js-create-plan-btn" disabled="true">Create</button>
+			{{/if}}
+		</div>
+	</div>
 </script>
-<script id="student-progress-bar-collection-template" type="text/x-handlebars-template">
 
-	<p class="text-right text-light small">Click below to sort your students.</p>	
-
-	<div title="Click to sort" class="progress-bar-legend legend-item-table">
-		<div class="legend-item js-sort-name">Student Name</div>
-		<div class="legend-item legend-segment-name js-sort-struggling js-active-filter"><span class="legend-color-marker color-struggling"></span> Struggling</div>
-		<div class="legend-item legend-segment-name js-sort-mastered"><span class="legend-color-marker color-mastered"></span> Mastered</div>		
-		<div class="legend-item legend-segment-name js-sort-not-started"><span class="legend-color-marker color-not-started"></span> Not Started</div>
-	</div>
-
-	<p class="text-right text-light small">Click the bars for more details.</p>
-
-	<div class="widget-container">
-		<div class="skill-bar-container progress-bar-container">
-
+<script id="planner-calendar-success-dialog-template" type="text/x-handlebars-template">
+	<div class="col-row">
+		<div class="col col--4of12 cell-md">
+			<img class="center row-sm" src="/assets/images/svg/ed/ed-happy.svg" width="220px" alt="Ed, cheering with excitement!">
 		</div>
-		{{#if hasHiddenBars}}
-			<span class="js-display-more skill-bar-btn">Show More Students</span>
-		{{/if}}
-	</div>
 
+		<div class="col col--8of12 cell-md">
+			<div class="dialog__title">Your plan has been created!</div>
+			<p><b class="text-primary">{{startDateString}}</b> Your plan will begin, and we will automatically focus your students on the topic you chose.</p>
+			<p><b class="text-primary">{{endDateString}}</b> Your plan will end, and we will email you a report on how your students performed.</p>
+		</div>
+	</div>
+</script>
+<script id="progress-bar-template" type="text/x-handlebars-template">
+	<div class="js-progress-bar-segment progress-bar__segment {{elementClassModifiers.segment}}"></div>
 </script>
 <script id="purchase-flow-billing-step-template" type="text/x-handlebars-template">
 	<h1 class="flow-step-heading text-center">Enter your payment information.</h1>
@@ -453,7 +962,7 @@ e.parentNode.insertBefore(n, e);
 								Parent&#39;s Email 
 								<i class="popover-icon js-popover-icon fa fa-question-circle m-icon"></i>		
 
-								<div class="email-popover js-popover popover gone">
+								<div class="email-popover js-popover popover" style="display:none;">
 									<p class="text-normal">This is the email we will send your child&#39;s progress reports to.</p>
 									<p class="text-normal">We will never sell or share your information with third parties.</p>
 								</div>
@@ -520,7 +1029,7 @@ e.parentNode.insertBefore(n, e);
 								Card CVC 
 								<i class="popover-icon js-popover-icon fa fa-question-circle m-icon"></i>
 
-								<div class="cvc-popover js-popover popover gone">
+								<div class="cvc-popover js-popover popover" style="display:none;">
 									<p>Where the CVC is located.</p>
 									<img title="Where the CVC is located" src='/Includes/Images/Popovers/cvc.gif' />
 								</div>
@@ -532,6 +1041,11 @@ e.parentNode.insertBefore(n, e);
 			</form>
 		</div>
 	</div>
+
+	{{#if didYouKnow}}
+		<p class="small text-center" style="margin: 10px 0px 0px;border: 1px solid rgb(170, 170, 170);padding: 10px 5px;color: rgb(136, 136, 136);">{{{didYouKnow}}}
+		</p>
+	{{/if}}
 
 	<button class="js-complete-step btn btn--lg btn--primary btn--block complete-step-btn">Review Purchase</button>
 </script>
@@ -606,6 +1120,11 @@ e.parentNode.insertBefore(n, e);
 			</table>
 		{{/if}}
 	</div>
+
+	{{#if didYouKnow}}
+		<p class="small text-center" style="margin: 10px 0px 0px;border: 1px solid rgb(170, 170, 170);padding: 10px 5px;color: rgb(136, 136, 136);">{{{didYouKnow}}}
+		</p>
+	{{/if}}
 
 	<button class="js-complete-step btn btn--lg btn--primary btn--block complete-step-btn">Complete your Purchase!</button>
 
@@ -733,6 +1252,11 @@ e.parentNode.insertBefore(n, e);
 		</div>	
 	</div>
 
+	{{#if didYouKnow}}
+		<p class="small text-center" style="margin: 10px 0px 0px;border: 1px solid rgb(170, 170, 170);padding: 10px 5px;color: rgb(136, 136, 136);"><i style="margin-right: 10px;font-weight:bold;" class="icon-inline fa fa-lightbulb-o"></i> {{{didYouKnow}}}
+		</p>
+	{{/if}}
+
 	<button class="js-complete-step btn btn--lg btn--primary btn--block complete-step-btn" {{#unless selectedStudents.length}}disabled{{/unless}}>Proceed to Purchase</button>
 </script>
 
@@ -750,6 +1274,193 @@ e.parentNode.insertBefore(n, e);
 		<div class='row-container js-container'></div>
 	</section>
 </script>
+<script id="register-form-template" type="text/x-handlebars-template">	
+	<input type="hidden" name="method" value="register">
+
+	<div class="row-xs row-collapse-t radio-ghost-group radio-ghost-group--3">
+		<label>What type of user are you?</label>
+		<div class="radio-ghost">
+			<input id="register-teacher-radio" name="usertype" type="radio" value="teacher">
+			<label class="radio-ghost__label radio-ghost__label--grey" for="register-teacher-radio">Teacher</label>
+		</div>
+
+		<div class="radio-ghost">
+			<input id="register-parent-radio" name="usertype" type="radio" value="parent">
+			<label class="radio-ghost__label radio-ghost__label--grey" for="register-parent-radio">Parent</label>
+		</div>
+
+		<div class="radio-ghost">
+			<input id="register-student-radio" name="usertype" type="radio" value="student">
+			<label class="radio-ghost__label radio-ghost__label--grey" for="register-student-radio">Student</label>
+		</div>
+	</div>
+
+	<div class="js-teacher-inputs">
+		<label id="register-name-label" for="register-name">Full name</label>
+		<input id="register-name" name="name" type="text" sw-input sw-type="name" sw-label="#register-name-label" sw-error="Full name should be at least 2 characters long.">
+
+		<label id="register-email-label" for="register-email">Email</label>
+		<input id="register-email" name="email" type="text" sw-input sw-type="email" sw-label="#register-email-label" sw-error="Email address appears to be invalid.">
+
+		<label id="register-password-label" for="register-password">Password</label>
+		<input id="register-password" name="password" type="password" sw-input sw-type="password" sw-label="#register-password-label" sw-error="Password needs to be at least 4 characters long.">
+
+		<label id="marketing-consent-label" class="label--small " for="marketing-consent"><input id="marketing-consent" name="marketingConsent" value="true" type="checkbox"> Receive emails about Prodigy news and promotions</label>
+
+		<label class="label--small"><input checked="checked" disabled="true" type="checkbox"> By registering, you agree to the <a class="text-static" href="/terms-conditions/" target="_blank">Terms of Service</a> and <a class="text-static" href="/privacy-policy/" target="_blank">Privacy Policy</a></label>
+
+		<button class="btn btn--md btn--block home-hero__btn-cta">Create Account</button>
+	</div>
+
+	<div style="display: none;" class="js-student-inputs">
+		<div>
+			<a class="btn btn--lg btn--block btn--no-margin home-hero__btn-cta" href="/play">Play Prodigy!</a>
+		</div>
+	</div>
+</script>
+
+
+
+
+
+
+
+
+<script id="register-form-dialog-template" type="text/x-handlebars-template">
+	<input type="hidden" name="method" value="register">
+
+	<label class="text-center text-normal">What type of user are you?</label>
+	<div class="register-form__user-type-container radio-ghost-group radio-ghost-group--3">
+		<div class="radio-ghost">
+			<input id="register-teacher-radio" name="usertype" type="radio" value="teacher">
+			<label class="radio-ghost__label radio-ghost__label--grey" for="register-teacher-radio">Teacher</label>
+		</div>
+
+		<div class="radio-ghost">
+			<input id="register-parent-radio" name="usertype" type="radio" value="parent">
+			<label class="radio-ghost__label radio-ghost__label--grey" for="register-parent-radio">Parent</label>
+		</div>
+
+		<div class="radio-ghost">
+			<input id="register-student-radio" name="usertype" type="radio" value="student">
+			<label class="radio-ghost__label radio-ghost__label--grey" for="register-student-radio">Student</label>
+		</div>
+	</div>
+
+	<div class="js-dialog-error-container form__error-container text-warning text-center"></div>
+
+	<div class="js-teacher-inputs">
+		<div class="form-table">
+			<table>
+				<tr class="form-table__input-row">
+					<td class="form-table__label-cell">
+						<label id="register-name-label" class="form-table__label" for="register-name">Full name</label>
+					</td>
+					<td class="form-table__input-cell">
+						<input id="register-name" class="form-table__input" name="name" type="text" sw-input sw-type="name" sw-label="#register-name-label" sw-error="Full name should be at least 2 characters long.">
+					</td>
+				</tr>
+				<tr class="form-table__input-row">
+					<td class="form-table__label-cell">
+						<label id="register-email-label" class="form-table__label" for="register-email">Email</label>
+					</td>
+					<td class="form-table__input-cell">
+						<input id="register-email" class="form-table__input" name="email" type="text" sw-input sw-type="email" sw-label="#register-email-label" sw-error="Email address appears to be invalid.">
+					</td>
+				</tr>
+				<tr class="form-table__input-row">
+					<td class="form-table__label-cell">
+						<label id="register-password-label" class="form-table__label" for="register-password">Password</label>
+					</td>
+					<td class="form-table__input-cell">
+						<input id="register-password" class="form-table__input" name="password" type="password" sw-input sw-type="password" sw-label="#register-password-label" sw-error="Password needs to be at least 4 characters long.">
+					</td>
+				</tr>
+			</table>	
+		</div>
+
+		
+
+		<div class="row-xs text-center"> 
+			<label id="marketing-consent-label" class="label--small " for="marketing-consent"><input id="marketing-consent" name="marketingConsent" value="true" type="checkbox"> Receive emails about Prodigy news and promotions</label>
+			<label class="label--small"><input checked="checked" disabled="true" type="checkbox"> By registering, you agree to the <a class="text-static" href="/terms-conditions/" target="_blank">Terms of Service</a> and <a class="text-static" href="/privacy-policy/" target="_blank">Privacy Policy</a></label>
+		</div>
+
+		<button class="btn btn--no-margin btn--block btn--blue text-normal">Create account</button>
+	</div>
+
+	<div style="display: none;" class="js-student-inputs">
+		<div class="text-center">
+			<p>Students create their accounts in-game.</p>
+			<a class="btn btn--no-margin btn--block btn--blue text-normal" href="/play">Play Prodigy Now!</a>
+		</div>
+	</div>
+
+	<div class="register-form__existing-account-container text-center">
+		<p class="text-m-none">Already have an account? <a id="dialog-sign-in-link" class="js-login-link text-bold" href="#">Sign&nbsp;In</a></p>		
+	</div>
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Does NOT include a submit button because the dialog is expected to supply it. -->
+<script id="OLD-register-form-dialog-template" type="text/x-handlebars-template">
+	<form>
+		<input type="hidden" name="method" value="register">
+
+		<div class="row-xs row-collapse-t radio-ghost-group radio-ghost-group--3">
+			<label>What type of user are you?</label>
+			<div class="radio-ghost">
+				<input id="register-teacher-radio" name="usertype" type="radio" value="teacher">
+				<label class="radio-ghost__label radio-ghost__label--grey" for="register-teacher-radio">Teacher</label>
+			</div>
+
+			<div class="radio-ghost">
+				<input id="register-parent-radio" name="usertype" type="radio" value="parent">
+				<label class="radio-ghost__label radio-ghost__label--grey" for="register-parent-radio">Parent</label>
+			</div>
+
+			<div class="radio-ghost">
+				<input id="register-student-radio" name="usertype" type="radio" value="student">
+				<label class="radio-ghost__label radio-ghost__label--grey" for="register-student-radio">Student</label>
+			</div>
+		</div>
+
+		<div class="js-teacher-inputs">
+			<label id="register-name-label" for="register-name">Full name</label>
+			<input id="register-name" name="name" type="text" sw-input sw-type="name" sw-label="#register-name-label" sw-error="Full name should be at least 2 characters long.">
+
+			<label id="register-email-label" for="register-email">Email</label>
+			<input id="register-email" name="email" type="text" sw-input sw-type="email" sw-label="#register-email-label" sw-error="Email address appears to be invalid.">
+
+			<label id="register-password-label" for="register-password">Password</label>
+			<input id="register-password" name="password" type="password" sw-input sw-type="password" sw-label="#register-password-label" sw-error="Password needs to be at least 4 characters long.">
+
+			<label id="marketing-consent-label" class="label--small " for="marketing-consent"><input id="marketing-consent" name="marketingConsent" value="true" type="checkbox"> Receive emails about Prodigy news and promotions</label>
+
+			<label class="label--small"><input checked="checked" disabled="true" type="checkbox"> By registering, you agree to the <a class="text-static" href="/terms-conditions/" target="_blank">Terms of Service</a> and <a class="text-static" href="/privacy-policy/" target="_blank">Privacy Policy</a></label>
+		</div>
+
+		<div style="display: none;" class="js-student-inputs">
+			<div>
+				<a class="btn btn--lg btn--block btn--no-margin home-hero__btn-cta" href="/play">Play Prodigy!</a>
+			</div>
+		</div>
+	</form>
+</script>
+<script id="share-class-template" type="text/x-handlebars-template"></script>
 <script id="skill-details-menu-template" type="text/x-handlebars-template">	
 	<h2 class="h3 slide-menu-title">{{name}}</h2>
 
@@ -804,6 +1515,42 @@ e.parentNode.insertBefore(n, e);
 		</div><!-- END slide-menu-content -->
 	</div><!-- END .slide-layer-main -->
 </script>
+<script id="student-preview-template" type="text/x-handlebars-template">
+	<div class="student-preview__inner">
+		<div class="student-preview__cell student-preview__cell--input">
+			<input id="student-{{id}}" class="js-select-checkbox sw-checkbox" type="checkbox" {{#if isSelected}}checked="true"{{/if}}>
+			<label for="student-{{id}}" class="sw-checkbox-label"><i class="fa fa-check"></i></label>
+		</div>
+
+		<div class="student-preview__cell student-preview__cell--profile no-select">
+			<span class="student-preview__profile" style="background-color: {{studentColor}}">
+				<span>{{initials}}</span>
+			</span>
+		</div>
+
+		<div class="student-preview__cell student-preview__cell--details">
+			<p class="student-preview__name ellipsis" title="{{fullname}}">{{fullname}}</p>
+			<p class="student-preview__username">{{username}}</p>
+			{{#if feature.connectParents}}
+				{{#if isParentConnected}}
+					<p class="js-open-connect-parents student-preview__parent-status student-preview__parent-status--connected">Parent connected</p>				
+				{{else}}
+					<p class="js-open-connect-parents student-preview__parent-status student-preview__parent-status--not-connected">No parent connected</p>
+				{{/if}}
+			{{/if}}
+		</div>
+
+		<div class="student-preview__cell student-preview__cell--edit text-right">
+			<a class="js-edit-student student-preview__edit-link">Edit <i class="fa fa-chevron-right"></i></a>
+		</div>
+	</div>
+</script>
+<script id="toast-template" type="text/x-handlebars-template">
+	<div class="toast__inner">
+		<div class="toast__content cell">{{{content}}}</div> 
+		<div class="cell"><i class="js-toast-close toast__close-btn fa fa-times"></i></div>
+	</div>
+</script>
 <script id="tooltip-template" type="text/x-handlebars-template">
 	{{#if heading}}
 		<div class='tooltip__heading'>{{heading}}</div>
@@ -813,6 +1560,166 @@ e.parentNode.insertBefore(n, e);
 </script>
 
 
+
+<script id="topic-select-template" type="text/x-handlebars-template">
+	<div class="topic-select__inner {{#if selectedTopic}}topic-select--selected{{/if}}">
+
+		{{#if selectedTopic}}
+			<p class="topic-select__text">Selected topic:</p>
+		{{else}}
+			<p class="topic-select__text">
+				Selected grade:
+				<select class="js-select-grade plain-select plain-select--inline clickable">
+					{{#each curricula}}
+						<option value="{{curriculumID}}">{{name}}</option>
+					{{/each}}
+				</select>
+			</p>
+
+			<p class="topic-select__text topic-select__choose-text">Choose a topic:</p>
+		{{/if}}
+
+		<div class="topic-select__search">
+			{{#if selectedTopic}}
+				<input class="js-topic-search topic-select__search-input topic-select__text" type="text" placeholder="Search for a topic..." readonly="true" value="{{selectedTopic.topicName}}">
+				<i class="js-reset-topic-selection topic-select__search-icon fa fa-times-circle clickable"></i>
+			{{else}}
+				<input class="js-topic-search topic-select__search-input" autofocus="true" type="text" placeholder="Search for a topic...">
+				<i class="topic-select__search-icon fa fa-search"></i>
+			{{/if}}
+
+			<div class="topic-select__filter-wrapper"></div>
+		</div>
+
+		<div class="topic-select__skills-wrapper">
+			{{#if selectedTopic}}
+				<a class="js-topic-select-customize topic-select__customize-link clickable">Customize the skills you want to include in your plan.</a>
+			{{/if}}
+		</div>
+	</div>
+</script>
+
+<script id="topic-select-filtered-topics-template" type="text/x-handlebars-template">
+	{{#if filteredTopics}}
+		<ul class="js-filtered-topics topic-select__list topic-select__list--border-top">
+			{{#each filteredTopics}}
+				<li id="{{id}}" class="js-topic topic-select__list-item topic-select__text">{{topicName}}</li>
+			{{/each}}
+		</ul>
+	{{/if}}
+</script>
+
+<script id="topic-select-customize-skills-template" type="text/x-handlebars-template">
+	<p class="topic-select__skills-instruction topic-select__text text-mt-lg">These skills will be included in your plan:</p>
+	<p class="topic-select__skills-error topic-select__text text-mt-lg">Oops, we cannot make a plan without skills!</p>
+	<div class="topic-select__skills context">
+		<ul class="js-customize-skill-list topic-select__list">
+			{{#each topicSkills}}
+				<li class="js-topic-skill topic-select__text topic-select__list-item topic-select__list-item--skill no-select" sw-skill-id="{{data.ID}}">
+					<div class="topic-select__skill table">
+						<div class="col--1of12 cell topic-select__list-item--block" style="padding-right: 0;"><input id="skill-{{data.ID}}" class="js-topic-skill-input" type="checkbox" {{#if checked}}checked{{/if}} value="{{data.ID}}"> </div>
+						<div class="cell"><label class="topic-select__list-item--block " for="skill-{{data.ID}}">{{data.name}}</label></div>
+						<div class="cell text-right topic-select__list-item--block"><i class="js-show-skill-sample topic-select__skill-icon fa fa-external-link"></i></div>
+					</div>
+
+					<div class="js-skill-sample topic-select__skill-sample topic-select__skill-sample--hidden">
+						<p class="topic-select__skill-sample-title">Example:</p>
+						<div id="sample-skill-{{data.ID}}" class="js-skill-sample-inner context" style="width=100%; height: 100%;"></div>
+					</div>
+				</li>
+			{{/each}}
+		</ul>
+	</div>
+</script>
+<script id="tutorial-step-welcome-template" type="text/x-handlebars-template">
+	<div class="app-section">
+		<div class="tutorial-section text-center">		
+			<p class="row-lg row-collapse-b text-size-4 text-height-md"><span class="text-scales">Prodigy isn't just an engaging math game. It's an adaptive math tool that <strong>makes your life easier</strong> in the classroom!</span></p>
+
+			<div class="row-lg">
+				<img src="/assets/images/svg/ed/ed-raised-hand.svg" alt="Ed the green monster point up." style="max-width: 225px; margin-left: -2%;">
+			</div>
+
+			<button class="js-tutorial-start js-tutorial-next-step btn btn--primary btn--feature">See How</button>
+		</div>
+	</div>
+</script>
+
+
+<script id="tutorial-step-location-template" type="text/x-handlebars-template">
+	<div class="app-section">
+		<div class="tutorial-section">
+			<p class="row-lg row-collapse-b text-size-4 text-height-md text-center"><span class="text-scales">{{{locationStepTitle}}}</span></p>
+
+			<div class="row-sm">
+				<div id="tutorial-search-container" class="tutorial__search-container">
+					<p class="text-size-5">Join your school:</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</script>
+
+<script id="tutorial-step-reports-template" type="text/x-handlebars-template">
+	<div class="app-section">
+		<div class="tutorial-section text-center">
+
+			{{#if isParent}}
+				<p class="row-lg row-collapse-b text-size-4 text-height-md"><span class="text-scales">Our reports highlight where <strong>your child is excelling</strong>, and where they need additional support:</span></p>
+			{{else}}
+				<p class="row-lg row-collapse-b text-size-4 text-height-md"><span class="text-scales">Our reports highlight where <strong>your students are excelling</strong>, and where they need additional support:</span></p>
+			{{/if}}
+	
+			<div style="position: relative;" class="row-md">
+				<img class="js-struggling-skills-tooltip tutorial__svg-tooltip gone" src="/assets/images/svg/page/tutorial/struggling-tooltip.svg">
+				<img src="/assets/images/svg/page/tutorial/struggling-widget.svg" style="max-height:400px;">
+			</div>
+
+			<button class="js-tutorial-next-step btn btn--primary btn--feature">Next</button>
+		</div>
+	</div>
+</script>
+
+<script id="tutorial-step-align-template" type="text/x-handlebars-template">
+	<div class="app-section">
+		<div class="tutorial-section text-center">
+			<p class="row-lg row-collapse-b text-size-4 text-height-md"><span class="text-scales">You can also <strong>align Prodigy</strong> with the topics you are teaching in the classroom in just a few&nbsp;clicks!</p>
+
+			<div class="row-sm">
+				<div class="js-topic-select-container text-left tutorial-step__topic-container"></div>
+			</div>
+		</div>
+	</div>
+</script>
+<script id="tutorial-step-curriculum-template" type="text/x-handlebars-template">
+	<div class="app-section">
+		<div class="tutorial-section text-center">
+			<p class="row-lg row-collapse-b text-size-4 text-height-md text-center"><span class="text-scales">Prodigy <strong>automatically adapts</strong> for each student and progresses them through your curriculum at their own&nbsp;pace!</span></p>
+			<div id="tutorial-curriculum-container" class="row-sm">
+				
+			</div>
+		</div>
+	</div>
+
+</script>
+
+
+<!-- PARENT TUTORIALS -->
+
+
+<script id="tutorial-step-parent-welcome-template" type="text/x-handlebars-template">
+	<div class="app-section">
+		<div class="tutorial-section text-center">		
+			<p class="row-lg row-collapse-b text-size-4 text-height-md"><span class="text-scales">Prodigy isn't your typical math game. It's been designed to <strong>maximize engagement, learning, and confidence</strong> with math!</span></p>
+
+			<div class="row-lg">
+				<img src="/assets/images/svg/ed/ed-raised-hand.svg" alt="Ed the green monster point up." style="max-width: 225px; margin-left: -2%;">
+			</div>
+
+			<button class="js-tutorial-start js-tutorial-next-step btn btn--primary btn--feature">Get Started</button>
+		</div>
+	</div>
+</script>
 
 <script id="app-page-base-template" type="text/x-handlebars-template">
 	<nav id="main-app-nav" class="app-nav">
@@ -832,19 +1739,20 @@ e.parentNode.insertBefore(n, e);
 
 					{{#if hasTooltip}}
 						<div class="app-nav__item__tooltip">
+							<i class="js-nav-tooltip-close dialog__close-icon fa fa-times"></i>
 							<h1 class="app-nav__item__tooltip__title">{{tooltipTitle}}</h1>
 							<p class="app-nav__item__tooltip__content">{{tooltipContent}}</p>
 
 							<div>
 								<img class="app-nav__item__tooltip__img" src="/assets/images/ed/pointing-ed.png" alt="Prodigy's mascot Ed, pointing up over head.">
-								<button class="btn btn-primary app-nav__item__tooltip__btn">Got it!</button>
+								<a class="js-video-btn btn btn-primary app-nav__item__tooltip__btn" href="{{tooltipVideoUrl}}">Watch a short video</a>
 							</div>
 						</div>
 					{{/if}}
 				</li>
 			{{/each}}
 
-			<li class="app-nav__item hide-md-up">
+			<li class="js-app-nav-dropdown app-nav__item hide-md-up">
 				<div class="app-nav__item__contents">
 					<i class="js-app-page-menu-toggle menu-toggle"><p class="app-nav__item__label">Menu</p></i>						
 				</div>
@@ -869,19 +1777,15 @@ e.parentNode.insertBefore(n, e);
 		<ul class="app-page__main-sub-menu__list">
 			{{#unless hiddenOptions.classCode}}
 				<li class="app-page__menu__item">
-					<a href="/Actions/getClassCodePDF.php" class='app-page__link' target="_blank" title="View instructions on how to use your class code">
-						Class Code: <span class="text-primary--light spacing--left">{{user.classCode}}</span>
+					<a href="/Actions/getClassCodePDF.php?classCode={{classCode}}" class='app-page__link' target="_blank" title="View instructions on how to use your class code">
+						Class Code: <span class="text-primary--light spacing--left">{{classCode}}</span>
 					</a>
 				</li>		
 			{{/unless}}
 
-			{{#unless hiddenOptions.notifications}}
-				<li class="app-page__menu__item app-page__link">
-					<span class="hide-md-up spacing--right">Notifications</span> <i class="hide-md-down fa fa-bell-o"></i>
-				</li>	
-			{{/unless}}
-
-			<li class="app-page__menu__item"><a class="app-page__link" href="/mystudents/">Students</a></li>
+			<li class="app-page__menu__item"><a class="app-page__link" href="/dashboard#students/">Students</a></li>
+			<li class="app-page__menu__item"><a class="app-page__link" href="/assignments">Assignments</a></li>
+			<li class="app-page__menu__item"><a class="app-page__link" href="http://prodigygame.vanillacommunity.com/" target="_blank">Community</a></li>
 			<li class="app-page__menu__item"><a class="app-page__link" href="/resources/" taret="_blank">Resources</a></li>
 
 		</ul>
@@ -893,9 +1797,9 @@ e.parentNode.insertBefore(n, e);
 				</li>			
 			{{/unless}}
 
-			<li class="app-page__menu__item"><a class="app-page__link" href="/membership/" target="_blank">Membership</a></li>
 			<li class="app-page__menu__item"><a class="app-page__link" href="/play/">Play Prodigy</a></li>
 			<li class="app-page__menu__item"><a class="app-page__link" href="/support/">Support</a></li>
+			<li class="app-page__menu__item"><a class="app-page__link" href="/licenses/">Membership</a></li>
 
 			{{#unless hiddenOptions.account}}	
 				<li class="app-page__menu__item"><a class="app-page__link" href="/account/">Account</a></li>
@@ -906,49 +1810,54 @@ e.parentNode.insertBefore(n, e);
 </script>
 
 <script id="app-page-base-header-template" type="text/x-handlebars-template">
-	<div class="app-page__header__section--left">
-		{{#if page.rootTitle.length}}<a class="js-breadcrumb-link app-page__breadcrumb-link" href="/dashboard/#/{{page.rootRouterName}}">{{page.rootTitle}}</a> <i class="spacing--both fa fa-chevron-right"></i> {{/if}}<span class="text-primary--light">{{page.title}}</span>
-	</div>
+	{{#unless hiddenOptions.appNav}}
+		<div class="app-page__header__section--left">
+			{{#if page.rootTitle.length}}<a class="js-breadcrumb-link app-page__breadcrumb-link" href="/dashboard/#/{{page.rootRouterName}}">{{page.rootTitle}}</a> <i class="spacing--both fa fa-chevron-right"></i> {{/if}}<span class="text-primary--light">{{page.title}}</span>
+		</div>
 
-	<div class="app-page__header__section--right">		
-		<ul class="app-page__menu">
-			{{#unless hiddenOptions.classCode}}
-				<li class="app-page__menu__item hide-md-down">
-					<a href="/Actions/getClassCodePDF.php" class='app-page__link' target="_blank" title="View instructions on how to use your class code">
-						Class Code: <span class="text-primary--light spacing--left">{{user.classCode}}</span>
-					</a>
-				</li>		
-			{{/unless}}
+		<div class="app-page__header__section--right">		
+			<ul class="app-page__menu">
+				{{#unless hiddenOptions.classCode}}
+					<li class="app-page__menu__item hide-md-down">
+						<a href="/Actions/getClassCodePDF.php?classCode={{classCode}}" class='app-page__link' target="_blank" title="View instructions on how to use your class code">
+							Class Code: <span class="text-primary--light spacing--left">{{classCode}}</span>
+						</a>
+					</li>		
+				{{/unless}}
 
-			<li class="app-page__menu__item hide-md-down">
-				<a class="app-page__link" href="/membership/" target="_blank">Membership</a>
-			</li>
+				{{#unless hiddenOptions.membership}}
+					<li class="app-page__menu__item hide-md-down">
+						<a class="app-page__link" href="/membership/" target="_blank">Membership</a>
+					</li>
+				{{/unless}}
 
-			{{#unless hiddenOptions.notifications}}
-				<li class="app-page__menu__item--notifications app-page__link">
-					<i class="fa fa-bell-o"></i>
-				</li>	
-			{{/unless}}
+				{{#unless hiddenOptions.account}}
+					<li class="app-page__menu__item hide-md-down">
+						<span class="js-app-page-toggle-sub-menu hide-md-down app-page__link">{{user.name}} <i class="text-primary--light spacing--left text-bold fa fa-angle-down"></i></span>
+						<ul class="js-app-page-sub-menu app-page_sub-menu">
+							<li><a class="app-page__menu__item app-page__link" href="/play/">Play Prodigy</a></li>
+							<li><a class="app-page__menu__item app-page__link" href="https://prodigygame.zendesk.com/hc/en-us" target="_blank">Support</a></li>
+							<li><a class="app-page__menu__item app-page__link" href="/licenses/">Memberships</a></li>
+							<li><a class="app-page__menu__item app-page__link" href="/account/">Account</a></li>
+							<li class="app-page__menu__item app-page__link" onclick="sw.user.logout()">Logout</li>
+						</ul>
+					</li>							
+				{{/unless}}
 
-			{{#unless hiddenOptions.account}}
-				<li class="app-page__menu__item hide-md-down">
-					<span class="js-app-page-toggle-sub-menu hide-md-down app-page__link">{{user.name}} <i class="text-primary--light spacing--left text-bold fa fa-angle-down"></i></span>
-					<ul class="js-app-page-sub-menu app-page_sub-menu">
-						<li><a class="app-page__menu__item app-page__link" href="/play/">Play Prodigy</a></li>
-						<li><a class="app-page__menu__item app-page__link" href="/support/">Support</a></li>
-						<li><a class="app-page__menu__item app-page__link" href="/account/">Account</a></li>
-						<li class="app-page__menu__item app-page__link" onclick="sw.user.logout()">Logout</li>
-					</ul>
-				</li>							
-			{{/unless}}
+				{{#unless hiddenOptions.notifications}}
+					<li class="app-page__menu__item--notifications app-page__link">
+						<div class="js-notifications-container"></div>
+					</li>	
+				{{/unless}}
 
-			{{#unless hiddenOptions.help}}
-				<li class="js-app-hint app-page__menu__item app-page__link hide-md-down">
-					<i class="text-primary--light fa fa-question"></i>
-				</li>			
-			{{/unless}}
-		</ul>
-	</div>
+				{{#unless hiddenOptions.help}}
+					<li class="js-app-hint app-page__menu__item app-page__link hide-md-down">
+						<i class="text-primary--light fa fa-question"></i>
+					</li>			
+				{{/unless}}
+			</ul>
+		</div>
+	{{/unless}}
 </script>
 
 <script id="app-page-error-template" type="text/x-handlebars-template">
@@ -959,50 +1868,280 @@ e.parentNode.insertBefore(n, e);
 		<button class="js-page-reload-btn btn btn--primary btn--md">Try Again</button>
 	</div>
 </script>
+<script id="classes-empty-template" type="text/x-handlebars-template">
+	<div class="row-display row-collapse-b text-center">
+		<img width="275px" src="/assets/images/svg/classroom.svg">
+		<h1 class="h5 text-bold">Your classes will appear here!</h1>
+		<p class="small text-m-none">Create your first class to get started with Prodigy.</p>
+		<p class="small">Want more information? <a href="https://prodigygame.zendesk.com/hc/en-us" target="_blank">Read our help page</a>.</p>
 
-<script id="eqao-menu-template" type="text/x-handlebars-template">	
-	<h2 class="slide-menu-title">{{name}}</h2>
-
-	<p class="h5 slide-menu-subhead">{{description}}</p>		
-
-	<form id="create-eqao-assignment-form">
-	  	<div class="slide-menu-form-group">
-		    <label for="inputAssignTo">Assign to: <span class="js-error-msg"></span></label>
-	    	<select id="inputAssignTo" name="selectedStudents">
-	    		<option selected="selected" value="all">Whole Class</option>
-	    		<option value="select">Select Students</option><!-- if this option is selected, show checkbox inputs -->
-	    	</select>
-	  	</div><!-- .slide-menu-form-group -->	
-
-		<div class="slide-menu-form-group">
-	  		<button class="js-submit-assignment btn btn--accent btn--block btn--lg" type="submit">Create EQAO Package</button>		
-	  	</div><!-- .slide-menu-form-group -->				
-	</form>
+		<button class="js-create-class btn btn--blue btn--max-sm">Create class</button>
+	</div>
 </script>
-<script id="eqao-edit-menu-template" type="text/x-handlebars-template">	
-	<h2 class="slide-menu-title">{{name}}</h2>
 
-	<p class="h5 slide-menu-subhead">{{description}}</p>
 
-	<p>{{subDescription}}</p>
+<script id="classes-none-empty-template" type="text/x-handlebars-template">
+	<div class="clearfix">
+		<div class="js-class-preview-container"></div>
+		<div class="create-class-preview">
+			<div class="js-create-class create-class-preview__inner">
+				<i class="create-class-preview__plus fa fa-plus-circle"></i>
+			</div>
+		</div>		
+	</div>
+</script>
+<script id="dashboard-tutorial-template" type="text/x-handlebars-template">
 
-	<form id="create-eqao-assignment-form">
-	  	<div class="slide-menu-form-group">
-		    <label for="inputAssignTo">Assign to: <span class="js-error-msg"></span></label>
-	    	<select id="inputAssignTo" name="selectedStudents">
-	    		<option selected="selected" value="all">Whole Class</option>
-	    		<option value="select">Select Students</option>{{!-- if this option is selected, show checkbox inputs --}}
-	    	</select>
-	  	</div><!-- .slide-menu-form-group -->	
+	{{#if isParent}}
+		<h1 class="app-section text-center text-bold">Engage your child with math in 3 simple&nbsp;steps.</h1>
+	{{else}}
+		<h1 class="app-section text-center text-bold">Get your class started in just 2&nbsp;minutes.</h1>
+		<h4 class="app-section text-center text-light">It&#39;s so easy, over 25,000 students get started with Prodigy every day!</h4>
+	{{/if}}
+	
+	<div class="{{#if isParent}}row-display-xs row-collapse-t{{/if}} dash-block-group dash-block-group--3">
+		<div class="tutorial-step dash-block">
+			<div class="tutorial-step__inner dash-block__inner">
+				<div class="tutorial-step__content dash-block__content">
+					<img class="tutorial-step__step-icon" src="/assets/images/svg/step1.svg" alt="">
+					<div class="tutorial-step__img-wrapper">
+						<img class="tutorial-step__img" src="/assets/images/badges/small/browser.png" alt="">
+					</div>
 
-		<div class="slide-menu-form-group">
-	  		<button class="js-submit-assignment btn btn--accent btn--md btn--block" type="submit">Save your Changes</button>			  		
-	  	</div><!-- .slide-menu-form-group -->				
-	</form>
+					{{#if isParent}}
+						<p class="tutorial-step__desc">To play Prodigy, have your child visit <span class="text-bold">prodigygame.com/play</span>.</p>										
+					{{else}}
+						<p class="tutorial-step__desc">Get your students to visit <span class="text-bold">prodigygame.com/play</span>.</p>					
+					{{/if}}
+				</div>
+			</div>
+		</div>
+		<div class="tutorial-step dash-block">
+			<div class="tutorial-step__inner dash-block__inner">
+				<div class="tutorial-step__content dash-block__content">
+					<img class="tutorial-step__step-icon" src="/assets/images/svg/step2.svg" alt="">
+					<div class="tutorial-step__img-wrapper">
+						<img class="tutorial-step__img" src="/assets/images/badges/small/chalk-board.png" alt="">
+					</div>
 
-	<button class="js-exit btn-ghost btn-ghost--secondary btn-ghost--md btn-ghost--block">Cancel</button>	
+					{{#if isParent}}
+						<p class="tutorial-step__desc">As they play, we&#39;ll move them through the curriculum at <span class="text-bold">their own&nbsp;pace</span>.</p>
+					{{else}}
+						<p class="tutorial-step__desc">Have them select <span class="text-bold">New Student</span>, and enter your class code:&nbsp;<span class="text-bold">{{classCode}}</span>.</p>
+					{{/if}}
+				</div>
+			</div>
+		</div>
+		<div class="tutorial-step dash-block">
+			<div class="tutorial-step__inner dash-block__inner">
+				<div class="tutorial-step__content dash-block__content">
+					<img class="tutorial-step__step-icon" src="/assets/images/svg/step3.svg" alt="">
+					<div class="tutorial-step__img-wrapper">
+						<img class="tutorial-step__img" src="/assets/images/badges/small/castle.png" alt="">
+					</div>
+
+					{{#if isParent}}
+						<p class="tutorial-step__desc"><span class="text-bold">Add your child to your account</span> to view their math progress and trouble&nbsp;spots.</p>
+					{{else}}
+						<p class="tutorial-step__desc">They create their own character, and are ready to <span class="text-bold">start&nbsp;playing!</span></p>
+					{{/if}}
+				</div>
+			</div>
+		</div>
+	</div>
+
+	{{#if isParent}}
+		<div class="app-section btn-group text-center" style="margin-top: 0; margin-bottom: 66px;">
+			<a class="btn btn--primary btn--md" href="/dashboard#students">Link your child account to see their progress</a>
+		</div>
+	{{/if}}
+
+	{{#unless isParent}}
+		<div class="app-section btn-group text-center" style="margin-top: 33px; margin-bottom: 66px;">
+			<a class="js-intro-tutorial-print btn btn--primary btn--md tutorial__btn-pair" href="/actions/getClassCodePDF.php?classCode={{classCode}}"><i class="fa fa-print icon-inline--left"></i> Print instructions</a>
+			<a class="js-video-btn btn-ghost btn-ghost--primary btn-ghost--md tutorial__btn-pair" href="//fast.wistia.net/embed/iframe/67v23w4gco?autoPlay=true"><i class="fa fa-play-circle icon-inline--left"></i> See Prodigy in action</a>
+		</div>
+	{{/unless}}
+
+	<h2 class="app-section row-lg row-collapse-t text-center text-bold">Still have a question? We&#39;re here to help.</h2>
+	<div class="clearfix">
+		<div class="js-qa-container-1 dash-question-column"></div>
+		<div class="js-qa-container-2 dash-question-column"></div>
+	</div>
 </script>
 <script id="influencer-page-template" type="text/x-handlebars-template">
+</script>
+<script id="planner-dialog-template" type="text/x-handlebars-template">
+	<div class="col-row">
+		<div class="col col--4of12 cell-md">
+			<img class="center row-sm" src="/assets/images/svg/ed/ed-calendar.svg" width="220px" alt="Ed, peeking over a calendar.">
+		</div>
+
+		<div class="col col--8of12 cell-md">
+			<div class="dialog__title">The Planner Tool</div>
+			<p>This tool allows you to customize the math topics your students encounter while playing Prodigy. It is a great way to align the game with what you are teaching in class!</p>
+		</div>
+	</div>
+</script>
+<script id="students-page-template" type="text/x-handlebars-template">
+	<div class="students-page__header">
+		<div class="students-page__header-details">
+			<h1 class="students-page__header-title"><span class="text-middle">{{name}} {{#if curriculum.name}}- {{curriculum.name}}{{/if}}</span> <i class="js-edit-class students-page__edit-icon fa fa-pencil text-middle"></i></h1>
+			{{#unless isParent}}
+				<p class="students-page__header-classcode">Class Code: <span class="text-blue">{{classCode}}</span></p>
+			{{/unless}}
+		</div>
+		<div class="students-page__header-buttons">
+			{{#if students}}
+				<a class="js-print-login-info btn btn--alabaster text-bold" href="/actions/printStudentLogins.php?class-id={{id}}" target="_blank">View Login Info</a>
+
+				{{#if feature.parentLetters}}
+					<a class="js-get-parent-letters btn btn--alabaster text-bold" href="/actions/printParentLetters.php?class-id={{id}}">Get Parent Letters</a>
+				{{/if}}
+
+				{{#if feature.connectParents}}
+					<button class="js-connect-parents btn btn--alabaster text-bold">Connect Parents</button>
+				{{/if}}
+			{{/if}}
+
+			{{!--  <button class="js-share-class btn btn--alabaster text-bold">Share Class</button> --}}
+		</div>
+	</div>
+
+	<div class="students-page__main">
+		{{#if students}}
+			<div class="students-page__student-actions">
+				<button class="js-add-students btn btn--blue text-bold">Add Students</button>
+				{{!-- <button class="js-move-students btn btn--alabaster text-bold">Move Students</button> --}}
+				<button class="js-remove-students btn btn--alabaster text-bold">Remove Students</button>
+				<button class="js-selection-btn btn btn--alabaster text-bold">Select All</button>								
+			</div>
+			<div class="js-student-container students-page__students-wrapper clearfix"></div>
+		{{else}}
+			<div class="students-page__students-wrapper students-page__students-wrapper--empty text-center">
+				<p class="text-bold">You don't have any students in your class yet!</p>
+				<button class="js-add-students btn btn--blue btn--max-sm">Add Students</button>
+			</div>		
+		{{/if}}
+	</div>
+</script>
+<script id="topic-report-base-template" type="text/x-handlebars-template">
+	<div id="topic-report-options-container"></div>
+	<div id="topic-report-container"></div>
+</script>
+
+<script id="topic-report-options-template" type="text/x-handlebars-template">
+	<section id="topic-report-options-container" class="options-bar">
+		<div class="sw-select sw-select--inline options-bar__select" sw-select-id="id-1" tabindex="-1">
+			<select id="topic-report-curriculum" class="options-select" sw-select>
+				{{#each curricula}}
+					<option value="{{curriculumID}}" {{#if selected}}selected="selected"{{/if}}>Grade {{grade}}</option>
+				{{/each}}
+			</select>
+		</div>
+	</section>
+</script>
+
+<script id="topic-report-template" type="text/x-handlebars-template">
+	<section id="topic-report-container" class="skill-report__container">
+		<div class="js-loader-container module-overlay--light gone"></div>
+		<div class="skill-report__contents">
+			{{#each topics}}
+				<div id="skill-report-topic-{{topicNumber}}" class="skill-report__category" data-topic-number="{{topicNumber}}">
+					<div class="js-skill-report-expand-topic skill-report__category-title text-bold" data-topic-number="{{topicNumber}}" title="{{topicName}}">
+						<div class="skill-report__icon-container">
+							<i class="fa fa-caret-right skill-report__icon"></i>
+						</div> 
+						{{topicName}}
+					</div>
+
+					<div class="skill-report__progress-bar-container js-progress-bar">
+						<div class="skill-report__progress-bar context">
+							<div class="skill-report__progress-bar-inner" style="width:{{topicMasteryPercent}}%"></div>
+						</div>
+					</div>
+					<div class="skill-report__status-icons">
+						{{#if showCautionIcon}}
+							<i id="topic-caution-{{topicNumber}}" class="js-topic-caution fa fa-warning text-caution context"></i>
+						{{/if}}
+						{{#if showDangerIcon}}
+							<i id="topic-danger-{{topicNumber}}" class="js-topic-danger fa fa-warning text-danger context"></i>
+						{{/if}}
+					</div>
+					<ul class="skill-report__legend js-skills-legend-{{topicNumber}}" style="display:none">
+						<li class="skill-report__legend-item">Struggling <span class="skill-report__legend-color--red"></span></li>
+						<li class="skill-report__legend-item">Not Started <span class="skill-report__legend-color--light"></span></li>
+						<li class="skill-report__legend-item">In Progress <span class="skill-report__legend-color--dark"></span></li>
+						<li class="skill-report__legend-item">Mastered <span class="skill-report__legend-color--green"></span></li>
+					</ul>
+				</div>
+
+				<div class="js-skills-container-{{topicNumber}}" style="display:none">
+					{{#each skills}}
+					<div class="skill-report__skill-container">
+						<div class="skill-report__skill-info">
+							<div class="skill-report__title js-skill-report-expand-skill" title="{{skillName}}" data-topic-number="{{topicNumber}}" data-skill-id="{{skillID}}">
+								<div class="skill-report__icon-container"><i class="fa fa-caret-right skill-report__icon"></i></div>
+								{{skillName}}
+							</div>
+							<div class="skill-report__sample-question-container js-skill-details-{{topicNumber}}-{{skillID}}" style="display:none;">
+								<p class="text-center text-light"><i>Sample Question</i></p>
+								<div id="sample-question-image-{{skillID}}" class="js-sample-question skill-report__sample-question-image"></div>
+							</div>
+						</div>
+						<div class="skill-report__skill-data">
+							<div class="pie-bar">
+								{{#if percentStruggling}}
+									<span class="pie-bar__segment--red" style="width:{{percentStruggling}}%"></span>
+								{{/if}}
+								{{#if percentNotStarted}}
+									<span class="pie-bar__segment--light" style="width:{{percentNotStarted}}%"></span>
+								{{/if}}
+								{{#if percentInProgress}}
+									<span class="pie-bar__segment--dark" style="width:{{percentInProgress}}%"></span>
+								{{/if}}
+								{{#if percentMastered}}
+								<span class="pie-bar__segment--green" style="width:{{percentMastered}}%"></span>
+								{{/if}}
+							</div>
+							<div class="skill-report__list-containers js-skill-details-{{topicNumber}}-{{skillID}}" style="display:none">
+								
+								<div class="skill-report__list-group">
+									<ul class="skill-report__list-container">
+										<li class="skill-report__list-heading--red">Struggling</li>
+										{{#each studentsStruggling}}
+											<li class="js-student-name skill-report__list-item context" data-user-id="{{studentID}}" data-skill-id="{{skillID}}">{{name}}</li>
+										{{/each}}
+									</ul>
+									<ul class="skill-report__list-container">
+										<li class="skill-report__list-heading--light">Not Started</li>
+										{{#each studentsNotStarted}}
+											<li class="js-student-name skill-report__list-item context" data-user-id="{{studentID}}" data-skill-id="{{skillID}}">{{name}}</li>
+										{{/each}}
+									</ul>
+								</div>
+								<div class="skill-report__list-group">
+									<ul class="skill-report__list-container">
+										<li class="skill-report__list-heading--dark">In Progress</li>
+										{{#each studentsInProgress}}
+											<li class="js-student-name skill-report__list-item context" data-user-id="{{studentID}}" data-skill-id="{{skillID}}">{{name}}</li>
+										{{/each}}
+									</ul>
+									<ul class="skill-report__list-container">
+										<li class="skill-report__list-heading--green">Mastered</li>
+										{{#each studentsMastered}}
+											<li class="js-student-name skill-report__list-item context" data-user-id="{{studentID}}" data-skill-id="{{skillID}}">{{name}}</li>
+										{{/each}}
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+					{{/each}}
+				</div>
+			{{/each}}
+		</div>
+	</section>
 </script>
 <script id="influence-leaderboard-card-content-template" type="text/x-handlebars-template">
 	<div class="card__inner-wrapper">
@@ -1033,61 +2172,13 @@ e.parentNode.insertBefore(n, e);
 		</div>
 	</div>
 </script>
-<script id="user-influence-card-content-template" type="text/x-handlebars-template">
-	<div class="card__inner-wrapper">
-		<h1 class="card-influencer__main-heading">You&#39;ve helped spread the love of math!</h1>
-
-		<div class="user-influence__stats-group text-center">
-			<div class="user-influence__stats">
-				<p class="user-influence__stat-teacher-num">{{user.teachers}}</p>
-				<p class="user-influence__stat-teacher">Teachers</p>
-			</div>
-
-			<div class="user-influence__stats">
-				<p class="user-influence__stat-teacher-num">{{user.students}}</p>
-				<p class="user-influence__stat-teacher">Students</p>
-			</div>
-
-			<div class="user-influence__stats">
-				<p class="user-influence__stat-teacher-num">{{user.points}}</p>
-				<p class="user-influence__stat-teacher">Points</p>
-			</div>
-		</div>
-
-		<table class="card-influencer__user-card-table">
-			<tbody>
-				<tr class="hide-mobile">
-					<th class="table__text-cell">Name</th>
-					<th class="table__number-cell">Active Students</th>
-					<th class="table__number-cell">Points So Far</th>
-					<th class="table__icon-cell">Send Reminder</th>
-				</tr>
-
-				{{#each teachers}}
-					<tr class="card-influencer__teacher-row">
-						<td class="table__text-cell">{{name}}</td>	
-						<td class="table__number-cell"><span class="show-mobile-only ">Active Students</span> <span class="influencer-table__number-value">{{activeStudents}}</span></td>	
-						<td class="table__number-cell"><span class="show-mobile-only ">Points So Far</span> <span class="influencer-table__number-value">{{points}}</span></td>	
-						<td class="table__icon-cell"><button data-name="{{name}}" data-id="{{id}}" class="btn-flat btn-flat--primary js-send-reminder"><span class="show-mobile-only">send reminder</span><i class="card-influencer__envelope fa fa-envelope hide-mobile"></i></button></td>	
-					</tr>
-				{{/each}}
-			</tbody>
-		</table>
-
-		<div class="text-center {{#if areAllTeacherLoaded}}hidden{{/if}}">
-			<p class="card-influencer__show-more js-show-more">show more <i class="fa fa-caret-down"></i></p>
-		</div>
-	</div>
-</script>
-
-
 <script id="sharing-card-content-template" type="text/x-handlebars-template">
 	<div class="card__inner-wrapper">
 		<h1 class="card__main-heading">Earn free memberships by sharing Prodigy with teachers</h1>
-		<p class="h4 card__sub-heading">Each class you help get on Prodigy &asymp; 1 Free Membership</p>
+		<p class="h4 card__sub-heading">For every class of 20 you refer, you get a free membership!</p>
 
 		<div class="sharing-card__points">
-			{{#if points.current}}<p class="text-center text-bold">You have {{points.current}} points.</p>{{/if}}
+			{{#if points.totalStudents}}<p class="sharing-card__progress-bar-label">{{points.totalStudents}} {{pluralize points.totalStudents "student"}} referred</p>{{/if}}
 
 			<div class="sharing-card__progress-bar">
 				<div class="sharing-card__progress js-progress-bar" data-width="{{points.percent}}%">
@@ -1101,6 +2192,19 @@ e.parentNode.insertBefore(n, e);
 				<span class="sharing-card__point-start">{{points.min}}</span>
 				<span class="sharing-card__point-end">{{points.max}}</span>
 			</div>
+
+			{{#if points.unclaimedMemberships}}
+				<div class="card__notice-box">
+					<p class="text-center">You have <strong class="text-bold text-primary">{{points.unclaimedMemberships}} free {{pluralize points.unclaimedMemberships "membership"}}</strong> to give away to your&nbsp;students!</p>
+					<button class="js-membership-unlock-btn btn-ghost btn-ghost--primary">Claim your {{pluralize points.unclaimedMemberships "membership"}}</button>
+				</div>
+			{{/if}}
+
+			{{#if points.claimedMemberships}}
+				<div class="text-center">
+					<a class="text-primary" href="/licenses">Manage your memberships</a>
+				</div>
+			{{/if}}
 		</div>
 	</div>
 
@@ -1108,18 +2212,72 @@ e.parentNode.insertBefore(n, e);
 		<p class="h4 card__heading">Just share this link with other teachers!</p>
 
 		<div class="sharing-card__copy-link copy-text js-copy-text">
-			<input class="ellipsis js-copy-text__value" type="text" readonly value="{{sharingLink}}">
-			<button class="btn btn--primary js-copy-text__btn">Copy Link</button>
+			<input class="ellipsis js-copy-text__value" type="text" readonly value="{{sharingCopyLink}}">
+			<button class="btn btn--primary sharing-card__copy-btn js-copy-text__btn">Copy Link</button>
 		</div>
 
-		<div class="sharing-card__share-btn-group btn-group btn-group--4">
-			<button data-share="facebook" class="js-share-btn btn btn--facebook"><i class="fa fa-facebook-square"></i><span class="hide-md-down "> Facebook</span></button>
-			<button data-share="twitter" class="js-share-btn btn btn--twitter"><i class="fa fa-twitter"></i><span class="hide-md-down "> Twitter</span></button>
-			<button data-share="google-plus" class="js-share-btn btn btn--google-plus"><i class="fa fa-google-plus"></i><span class="hide-md-down "> Google</span>+</button>
-			<button data-share="pinterest" class="js-share-btn btn btn--pinterest"><i class="fa fa-pinterest"></i><span class="hide-md-down "> Pinterest</span></button>
+		{{#if showShareOptions}}
+			<div class="sharing-card__share-btn-group btn-group btn-group--4">
+				<button data-share="facebook" class="js-share-btn btn btn--facebook"><i class="fa fa-facebook-square"></i><span class="hide-md-down "> Facebook</span></button>
+				<button data-share="twitter" class="js-share-btn btn btn--twitter"><i class="fa fa-twitter"></i><span class="hide-md-down "> Twitter</span></button>
+				<button data-share="google-plus" class="js-share-btn btn btn--google-plus"><i class="fa fa-google-plus"></i><span class="hide-md-down "> Google</span>+</button>
+				<button data-share="pinterest" class="js-share-btn btn btn--pinterest"><i class="fa fa-pinterest"></i><span class="hide-md-down "> Pinterest</span></button>
+			</div>
+		{{/if}}
+	</div>
+</script>
+<script id="user-influence-card-content-template" type="text/x-handlebars-template">
+	<div class="card__inner-wrapper">
+		<h1 class="card-influencer__main-heading">You&#39;ve helped spread the love of math!</h1>
+
+		<div class="user-influence__stats-group text-center">
+			<div class="user-influence__stats">
+				<p class="user-influence__stat-teacher-num">{{user.teachers}}</p>
+				<p class="user-influence__stat-teacher">{{pluralize user.teachers "Teacher"}}</p>
+			</div>
+
+			<div class="user-influence__stats">
+				<p class="user-influence__stat-teacher-num">{{user.students}}</p>
+				<p class="user-influence__stat-teacher">{{pluralize user.students "Student"}}</p>
+			</div>
+
+			<div class="user-influence__stats">
+				<p class="user-influence__stat-teacher-num">{{user.memberships}}</p>
+				<p class="user-influence__stat-teacher">{{pluralize user.memberships "Membership"}}</p>
+			</div>
+		</div>
+
+		<table class="card-influencer__user-card-table">
+			<tbody>
+				<tr class="hide-mobile">
+					<th class="table__text-cell">Name</th>
+					<th class="table__number-cell">Active Students *</th>
+					<th class="table__number-cell">Date Joined</th>
+					{{!<th class="table__icon-cell">Send Reminder</th>}}
+				</tr>
+
+				{{#each teachers}}
+					<tr class="card-influencer__teacher-row">
+						<td class="table__text-cell">{{name}}</td>	
+						<td class="table__number-cell"><span class="show-mobile-only ">Active Students</span> <span class="influencer-table__number-value">{{activeStudents}}</span></td>
+						<td class="table__number-cell">{{registerDate}}</td>
+						{{!--<td class="table__icon-cell"><button data-name="{{name}}" data-id="{{id}}" class="btn-flat btn-flat--primary js-send-reminder"><span class="show-mobile-only">send reminder</span><i class="card-influencer__envelope fa fa-envelope hide-mobile"></i></button></td>--}}
+					</tr>
+				{{/each}}
+			</tbody>
+		</table>
+
+		<div class="text-center {{#if areAllTeacherLoaded}}hidden{{/if}}">
+			<p class="card-influencer__show-more js-show-more">show more <i class="fa fa-caret-down"></i></p>
+		</div>
+
+		<div class="block-sm text-center">
+			<small class="text-light"><strong>* Note:</strong> There is a 'questions answered' quota before students are considered active and counted towards your goal</small>
 		</div>
 	</div>
 </script>
+
+
 <script id="dash-widget-base-template" type="text/x-handlebars-template">
 
 	{{#if title.length}}
@@ -1187,6 +2345,51 @@ e.parentNode.insertBefore(n, e);
 		<span class='js-filter-btn app-page__link'><u style="white-space: nowrap;">{{text}}</u>&nbsp;<i class='fa fa-caret-down'></i></span>
 	</span>	
 </script>
+<script id="assignment-widget-content-template" type="text/x-handlebars-template">
+	<div class="assignment-widget__content">
+		{{!-- <h1 class="assignment-widget__name">{{assignment.name}}</h1> --}}
+	
+		<div class="assignment-widget__name-wrapper">
+			<select id="assignment-select" class="assignment-widget__name">
+				{{#each allAssignments}}
+					<option {{#if isSelected}}selected{{/if}} value="{{@index}}">{{this.name}}</option>
+				{{/each}}
+			</select>
+			<i class="assignment-widget__name-select-arrow fa fa-sort-desc"></i>
+		</div>
+		
+
+		<div class="assignment-widget__average-grade">
+			{{#if assignment.questions.answered}}
+				{{assignment.averageGrade}}%
+			{{/if}}
+			<small>Grade Average</small>
+
+			{{#unless assignment.questions.answered}}
+				?
+			{{/unless}}
+		</div>		
+	</div>
+
+	<div class="assignment-widget__progress-wrapper">
+		<div class="clearfix">
+			<span class="assignment-widget__progress-complete">{{assignment.questions.answeredPercentage}}% Complete</span>
+			<span class="assignment-widget__progress-date">Ends {{assignment.endDate}}</span>
+		</div>
+		<div class="assignment-widget__progress-bar">
+			<div class="assignment-widget__progress-bar__completed-segment" style="width: {{assignment.questions.answeredPercentage}}%;"></div>
+			<div class="assignment-widget__progress-bar__incompleted-segment" style="width: {{assignment.questions.unansweredPercentage}}%;"></div>
+		</div>
+	</div>
+</script>
+
+<script id="assignment-widget-no-assignments-template" type="text/x-handlebars-template">
+	<div class="assignment-widget__create-wrapper">
+		<img class="assignment-widget__create-img" src="/assets/images/ed/@1x/ed-pointingclosed-grey@1x.png" alt="Ed pointing up and smiling.">
+		<p class="assignment-widget__create-content">Looks like you don&#39;t have any assignments!</p>
+		<a class="btn btn--primary btn--md" href="/assignments/create.php">Create an Assignment</a>
+	</div>
+</script>
 <script id="grade-comparison-widget-empty-template" type="text/x-handlebars-template">
 	{{#unless this.length}}
 		<div class="dash-widget__error">
@@ -1195,28 +2398,36 @@ e.parentNode.insertBefore(n, e);
 	{{/unless}}
 </script>
 <script id="influencer-widget-content-template" type="text/x-handlebars-template">
-	{{#if percentage}}
+	{{#if totalStudents}}
 		<div class="text-center">
 			<img alt="Ed holding a flag, standing in front of a gold and red chest." src="/assets/images/icons/@1x/points@1x.png">
 		</div>
 
 		<div class="influencer-widget__progress-bar influencer-widget__block">
-			<div class="influencer-widget__progress-bar-segment" style="width:{{percentage}}%;"></div>
+			<div class="influencer-widget__progress-bar-segment" style="width:{{#if unclaimedMemberships}}100%{{/if}}{{#unless unclaimedMemberships}}{{percentage}}%{{/unless}};"></div>
 		</div>
 
 		<div class="text-center">
-			<p>You only need <em>{{untilNextMembership}} more points</em> to unlock your next free&nbsp;membership!</p>
-			<a href="/dashboard/#/influencer" class="btn btn--md btn--primary">Share</a>
+			{{#if unclaimedMemberships}}
+				<p>Woohoo! You've earned a free membership to give to one of your students!</p>
+				<a href="/dashboard/#/influencer" class="btn btn--md btn--primary">Claim your membership!</a>
+			{{/if}}
+
+			{{#unless unclaimedMemberships}}
+				<p>You've helped {{totalStudents}} {{pluralize totalStudents "student"}} love math with Prodigy! <strong>Only {{untilNextMembership}} more to go!</strong></p>
+				<a href="/dashboard/#/influencer" class="btn btn--md btn--primary">Share Prodigy</a>
+			{{/unless}}
+			
 		</div>
 	{{/if}}
 
-	{{#unless percentage}}
+	{{#unless totalStudents}}
 		<div class="text-center">
-			<img alt="A locked chest with gold seams and red wood." src="/assets/images/icons/@1x/chest@1x.png">
+			<img class='influencer-widget__image' alt="A locked chest with gold seams and red wood." src="/assets/images/graphics/illustration-sharing.png">
 
-			<p class="influencer-widget__block text--medium">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id mi viverra, porta sapien consequat, tempor justo.</p>
+			<p class="influencer-widget__block text--medium">Earn a <strong class='text-primary text-bold'>free membership</strong> for every teacher you help onboard to Prodigy!</p>
 
-			<a href="/dashboard/#/influencer" class="btn btn--md btn--primary">Find out more</a>
+			<a href="/dashboard/#/influencer" class="btn btn--md btn--primary">Share Prodigy Now</a>
 		</div>
 	{{/unless}}
 </script>
@@ -1249,76 +2460,6 @@ e.parentNode.insertBefore(n, e);
 	{{/unless}}
 </script>
 
-<script id="intro-tutorial-widget-content-template" type="text/x-handlebars-template">
-
-	{{#if isLastSlide}}
-		<div class="intro-tutorial__img-wrapper last-tutorial-slide__img">
-			<span class="intro-tutorial__img-classcode">{{classCode}}</span>
-		</div>
-	{{/if}}
-
-	{{#unless isLastSlide}}
-		<div class="intro-tutorial__img-wrapper">
-			<img class="intro-tutorial__img" src="{{imgSrc}}">
-		</div>
-	{{/unless}}
-	
-	<h1 class="intro-tutorial__heading">{{{heading}}}</h1>
-
-	<div class="intro-tutorial__main">
-		{{{main}}}
-
-		{{#if isLastSlide}}
-			<div class="intro-tutorial__btn-group">
-				{{#if isTeacher}}
-					<a class="js-intro-tutorial-print intro-tutorial__print-btn" href="/actions/getClassCodePDF.php?classCode={{classCode}}">Print These Instructions</a>
-				{{/if}}
-
-				{{#unless isTeacher}}
-					<a class="js-intro-tutorial-add-student intro-tutorial__print-btn" href="/mystudents/?add=1">Link Child Account</a>
-				{{/unless}}
-
-				{{#if hasTutorialBeenCompleted}}
-					<a class="js-dash-next intro-tutorial__tour">Take The Tour Again</a>
-
-					<div class="intro-tutorial__learn-more-wrapper">
-						<button class="js-intro-tutorial-more intro-tutorial__learn-more">Learn More</button>
-					</div>
-				{{/if}}
-
-				{{#unless hasTutorialBeenCompleted}}
-					<button class="js-complete-tutorial intro-tutorial__tour">Got it!</button>
-
-					<div class="intro-tutorial__learn-more-wrapper">
-						<button class="js-complete-tutorial intro-tutorial__learn-more">Got it!</button>
-					</div>
-				{{/unless}}				
-			</div>
-		{{/if}}
-	</div>
-</script>
-
-<script id="intro-tutorial-list-control-template" type="text/x-handlebars-template">
-	<div class="intro-tutorial__progress progress-at-{{currentItem}}">
-		<div class="intro-tutorial__progress-points--{{lastItem}}">
-			{{#times lastItem}}
-				<div class="progress-point"><div class="progress-point__inner"></div></div>
-			{{/times}}
-		</div>
-
-		<div class="intro-tutorial__progress-bar--{{lastItem}}">
-			<div class="progress-bar__completed"></div>
-		</div>
-	</div>
-
-	{{#unless isFirstItem}}
-		<button class="js-dash-previous intro-tutorial__btn--back"><i class="fa fa-caret-left"></i> Back</button>
-	{{/unless}}
-
-	{{#unless isLastItem}}
-		<button class="js-dash-next intro-tutorial__btn--next {{#if isFirstItem}}has-pulse{{/if}}">Next <i class="fa fa-caret-right"></i></button>
-	{{/unless}}
-</script>
 <script id="learning-widget-content-template" type="text/x-handlebars-template">
 	<div class="text-center">
 		<img height="115px" src="{{imgSrc}}" alt="{{imgAlt}}">
@@ -1327,55 +2468,104 @@ e.parentNode.insertBefore(n, e);
 		<button class="js-learn-more-btn btn btn--primary btn--md">Watch a Short Video</button>
 	</div>
 </script>
-<script id="assignment-widget-content-template" type="text/x-handlebars-template">
-	<div class="assignment-widget__content">
-		{{!-- <h1 class="assignment-widget__name">{{assignment.name}}</h1> --}}
-	
-		<div class="assignment-widget__name-wrapper">
-			<select id="assignment-select" class="assignment-widget__name">
-				{{#each allAssignments}}
-					<option {{#if isSelected}}selected{{/if}} value="{{@index}}">{{this.name}}</option>
-				{{/each}}
-			</select>
-			<i class="assignment-widget__name-select-arrow fa fa-sort-desc"></i>
-		</div>
-		
-
-		<div class="assignment-widget__average-grade">
-			{{#if assignment.averageGrade}}
-				{{assignment.averageGrade}}%
-			{{/if}}
-			<small>Grade Average</small>
-
-			{{#unless assignment.averageGrade}}
-				?
-			{{/unless}}
-		</div>		
-	</div>
-
-	<div class="assignment-widget__progress-wrapper">
-		<div class="clearfix">
-			<span class="assignment-widget__progress-complete">{{assignment.questions.answeredPercentage}}% Complete</span>
-			<span class="assignment-widget__progress-date">Ends {{assignment.endDate}}</span>
-		</div>
-		<div class="assignment-widget__progress-bar">
-			<div class="assignment-widget__progress-bar__completed-segment" style="width: {{assignment.questions.answeredPercentage}}%;"></div>
-			<div class="assignment-widget__progress-bar__incompleted-segment" style="width: {{assignment.questions.unansweredPercentage}}%;"></div>
-		</div>
+<script id="notice-widget-content-template" type="text/x-handlebars-template">
+	<p class="text-center">{{main}}</p>
+</script>
+<script id="planner-widget-empty-template" type="text/x-handlebars-template">
+	<div class="text-center">
+		<h1 class="text-mt-none text-bold h3 text-size-4">Align Prodigy to your classroom!</h1>
+		<img class="img-max-w-md center row-md" src="{{imgSrc}}" alt="{{imgAlt}}">
+		<a class="btn btn--primary btn--max-sm text-bold" href="#planner">{{{buttonText}}}</a>
 	</div>
 </script>
 
-<script id="assignment-widget-no-assignments-template" type="text/x-handlebars-template">
-	<div class="assignment-widget__create-wrapper">
-		<img class="assignment-widget__create-img" src="/assets/images/ed/@1x/ed-pointingclosed-grey@1x.png" alt="Ed pointing up and smiling.">
-		<p class="assignment-widget__create-content">Looks like you don&#39;t have any assignments!</p>
-		<a class="btn btn--primary btn--md" href="/assignments/create.php">Create an Assignment</a>
+<script id="planner-widget-active-template" type="text/x-handlebars-template">
+	<div class="text-center">
+		<div class="text-mt-none text-bold h3 text-size-5 text-light">Your current plan:</div>
+		<div class="text-mt-none text-bold h3 text-size-4">{{nearestPlan.topic_name}}</div>
+		<div class="context img-max-w-xs center row-xs row-collapse-b">
+			<img src="{{imgSrc}}" alt="{{imgAlt}}">
+			<span class="planner-widget__days-remaining text-bold">{{daysRemaining}}</span>
+		</div>
+		<p class="text-bold">day{{#if moreThanOneDay}}s{{/if}} remaining</p>
+		<a class="btn btn--primary btn--max-sm text-bold" href="#planner">{{{buttonText}}}</a>
 	</div>
+</script>
+
+<script id="planner-widget-upcoming-template" type="text/x-handlebars-template">
+	<div class="text-center">
+		<h1 class="text-mt-none text-bold h3 text-size-5">Your plan on <span class="text-accent">{{nearestPlan.topic_name}}</span> will start in {{daysUntil}}&nbsp;day{{#if moreThanOneDay}}s{{/if}}.</h1>
+		<img class="img-max-w-md center row-md" src="{{imgSrc}}" alt="{{imgAlt}}">		
+		<a class="btn btn--primary btn--max-sm text-bold" href="#planner">{{{buttonText}}}</a>
+	</div>
+</script>
+<script id="struggling-widget-content-template" type="text/x-handlebars-template">
+
+	{{#if this.length}}
+		<table class="struggling-widget__table">
+			<thead>
+				<tr>
+					<th class="struggling-widget__table__heading">Skill</th>
+					<th class="struggling-widget__table__grade">Average Grade of Struggling Students</th>
+					<th class="struggling-widget__table__num-students">#&nbsp;Students</th>
+					
+				</tr>
+			</thead>
+			<tbody>
+				{{#each this}}
+					<tr class='js-struggling-widget-row' data-index="{{@index}}">
+						<td>
+							<div class="struggling-widget__table__skill-name" title="{{skillName}}">{{skillName}}</div>
+						</td>
+						
+						<td>
+							<div class="struggling-widget__table__grade-bar">
+								<div class="grade-bar__progress {{colorClass}}" style="width: {{grade}}%;"></div>
+								<span class="grade-bar__average-grade">{{grade}}%</span>
+							</div> 
+						</td>
+						<td>
+							<div class="text-center" title="# students struggling in this skill">{{numStudents}}</div>
+						</td>
+					</tr>
+				{{/each}}
+			</tbody>
+		</table>
+	{{/if}}
+
+	{{#unless this.length}}
+		<div class="dash-widget__error">
+			<p class="text-bold">You have no struggling skills!</p>	
+		</div>
+	{{/unless}}
+
+</script>
+
+<script id="struggling-widget-tooltip-template" type="text/x-handlebars-template">
+	<table class="struggling-widget-tooltip__content table--clean">
+		<thead>
+			<tr>
+				<th>Student</th>
+				<th class='text-center'># Questions</th>
+				<th class='text-center'>Grade</th>
+			</tr>
+		</thead>
+		<tbody>
+			{{#each students}}
+				<tr>
+					<td class="table__data--small">{{name}}</td>
+					<td class="text-center table__data--small">{{numQuestions}}</td>
+					<td class="text-center table__data--small {{colorClass}}">{{grade}}%</td>
+				</tr>
+			{{/each}}
+		</tbody>
+	</table>
+
 </script>
 <script id="assignment-creation-menu-error-template" type="text/x-handlebars-template">	
 	<h2 class="h3 slide-menu-title">Oops, this skill was not found.</h2>
 
-	<p class="slide-menu-subhead">Usually a skill cannot be opened due to a failed internet connection. We suggest confirming your connection and trying again.</p> 
+	<p class="slide-menu-subhead">Usually a skill cannot be opened due to a failed Internet connection. We suggest confirming your connection and trying again.</p> 
 
 	<p class="slide-menu-subhead">If the problem persist despite your connectivity, you can contact our support team at <a target="_blank" href="https://www.prodigygame.com/support/">www.prodigygame.com/support/</a></p>
 
@@ -1441,72 +2631,6 @@ e.parentNode.insertBefore(n, e);
 		<li class='slide-menu-details-item'><i class="fa fa-calendar slide-menu-details-icon"></i><span id="start-date">Today </span> to <span id="end-date"></span></li>
 	</ul>
 </script>
-<script id="struggling-widget-content-template" type="text/x-handlebars-template">
-
-	{{#if this.length}}
-		<table class="struggling-widget__table">
-			<thead>
-				<tr>
-					<th class="struggling-widget__table__heading">Skill</th>
-					<th class="struggling-widget__table__grade">Average Grade of Struggling Students</th>
-					<th class="struggling-widget__table__num-students">#&nbsp;Students</th>
-					
-				</tr>
-			</thead>
-			<tbody>
-				{{#each this}}
-					<tr class='js-struggling-widget-row' data-index="{{@index}}">
-						<td>
-							<div class="struggling-widget__table__skill-name" title="{{skillName}}">{{skillName}}</div>
-						</td>
-						
-						<td>
-							<div class="struggling-widget__table__grade-bar">
-								<div class="grade-bar__progress {{colorClass}}" style="width: {{grade}}%;"></div>
-								<span class="grade-bar__average-grade">{{grade}}%</span>
-							</div> 
-						</td>
-						<td>
-							<div class="text-center" title="# students struggling in this skill">{{numStudents}}</div>
-						</td>
-					</tr>
-				{{/each}}
-			</tbody>
-		</table>
-	{{/if}}
-
-	{{#unless this.length}}
-		<div class="dash-widget__error">
-			<p class="text-bold">You have no struggling skills!</p>	
-		</div>
-	{{/unless}}
-
-</script>
-
-<script id="struggling-widget-tooltip-template" type="text/x-handlebars-template">
-	<table class="struggling-widget-tooltip__content table--clean">
-		<thead>
-			<tr>
-				<th>Student</th>
-				<th class='text-center'># Questions</th>
-				<th class='text-center'>Grade</th>
-			</tr>
-		</thead>
-		<tbody>
-			{{#each students}}
-				<tr>
-					<td class="table__data--small">{{name}}</td>
-					<td class="text-center table__data--small">{{numQuestions}}</td>
-					<td class="text-center table__data--small {{colorClass}}">{{grade}}%</td>
-				</tr>
-			{{/each}}
-		</tbody>
-	</table>
-
-</script>
-<script id="notice-widget-content-template" type="text/x-handlebars-template">
-	<p class="text-center">{{main}}</p>
-</script>
 
 	
 
@@ -1522,7 +2646,7 @@ e.parentNode.insertBefore(n, e);
 
 
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-<body style="background: none;">
+<body>
 	<!-- <div id='service-announcement' class=''>
 		<h4 class="alert alert-warning alert-top">Prodigy is currently undergoing maintenance, and will be available at 8AM Eastern Time.</h4>
 	</div> -->
@@ -1619,7 +2743,7 @@ e.parentNode.insertBefore(n, e);
 	</style>
 
 	
-	<footer class="app-footer">
+	<footer class="app-footer no-print-gone">
 		<div class="app-footer__wrapper">
 			<div class="app-footer__wrapper--inner">
 				<nav class="app-page__footer__section--right">
@@ -1632,7 +2756,7 @@ e.parentNode.insertBefore(n, e);
 				</nav>	
 
 				<div class="app-page__footer__section--left">
-					<span>© 2015 Prodigy</span>
+					<span>© 2016 Prodigy</span>
 				</div>	
 			</div>
 		</div>
@@ -1710,11 +2834,11 @@ e.parentNode.insertBefore(n, e);
 							<div id="buy-account-information" class="buffer-bottom">
 								<h5 class="align-center no-margin-bottom">Note: If you don't have a parent account, a new one will be created for you with this email and password</h5>
 								<div class="left align-center">
-									<h4 class="input-title">Parent Email <i id="cvc-popover" class="fa fa-question-circle m-icon" data-toggle="popover" title="" data-html="true" data-content="Parent accounts are used to monitor a student's progress. If you do not have a parent account, one will be created for you with this email." data-original-title="What is a parent account?"></i></h4>
+									<h4 class="input-title">Parent Email <i id="cvc-popover" class="fa fa-question-circle m-icon" data-toggle="popover" title="What is a parent account?" data-html="true" data-content="Parent accounts are used to monitor a student's progress. If you do not have a parent account, one will be created for you with this email."></i></h4>
 									<input id="buy-email-field" type="text" name="email" class="buffer-bottom" \="">
 								</div>
 								<div class="right align-center">
-									<h4 class="input-title">Parent Password <i id="cvc-popover" class="fa fa-question-circle m-icon" data-toggle="popover" title="" data-html="true" data-content="If you have a parent account but forgot your password, click the login button at the top of the page and select 'Forgot your password'</span>" data-original-title="Forgotton your password?"></i></h4>
+									<h4 class="input-title">Parent Password <i id="cvc-popover" class="fa fa-question-circle m-icon" data-toggle="popover" title="Forgotton your password?" data-html="true" data-content="If you have a parent account but forgot your password, click the login button at the top of the page and select 'Forgot your password'</span>"></i></h4>
 									<input id="buy-password-field" type="password" name="buy-password" class="buffer-bottom" \="">
 								</div>
 							</div>
@@ -1737,7 +2861,7 @@ e.parentNode.insertBefore(n, e);
 							<input id="buy-cc-number" type="text" name="card-number" \="">
 						</div>
 						<div class="left align-center">
-							<h4 class="input-title">CVC/CVV <i id="cvc-popover" class="fa fa-question-circle m-icon" data-toggle="popover" title="" data-html="true" data-content="<img src='/Includes/Images/Popovers/cvc.gif' \>" data-original-title="Where the CVC is located"></i></h4>
+							<h4 class="input-title">CVC/CVV <i id="cvc-popover" class="fa fa-question-circle m-icon" data-toggle="popover" title="Where the CVC is located" data-html="true" data-content="<img src='/Includes/Images/Popovers/cvc.gif' \>"></i></h4>
 							<input id="buy-cc-cvc" type="text" name="cvc" \="">
 						</div>
 						<div class="right card-expiry-input align-center">
@@ -1798,7 +2922,7 @@ e.parentNode.insertBefore(n, e);
 	
 </div>
 <div id="notices">
-</div><script src="/Includes/Scripts/web.min.js?v=1441877588"></script>
+</div><script src="/Includes/Scripts/web.min.js?v=1464416596"></script>
 
 
 
@@ -1850,10 +2974,25 @@ if(oldonload){oldonload()}};
 
 </script>
 
-<!-- Start of prodigygame Zendesk Widget script -->
-<iframe src="javascript:false" title="" style="display: none;"></iframe><script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(c){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("//assets.zendesk.com/embeddable_framework/main.js","prodigygame.zendesk.com");/*]]>*/</script>
-<!-- End of prodigygame Zendesk Widget script -->
+<!--Start of Zopim Live Chat Script-->
+	<script type="text/javascript">
+	window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+	d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+	_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+	$.src="//v2.zopim.com/?28uRNxjJJThy7zMtGFBEdvLcLB5ql9Kg";z.t=+new Date;$.
+	type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+	
+	</script>
+
+	<script>
+		$zopim(function() {
+			$zopim.livechat.window.onHide(function(){
+				$zopim.livechat.button.show()
+			});
+		});
+	</script>
+<!--End of Zopim Live Chat Script-->
 
 
 
-<div id="sb-container"><div id="sb-overlay"></div><div id="sb-wrapper"><div id="sb-title"><div id="sb-title-inner"></div></div><div id="sb-wrapper-inner"><div id="sb-body"><div id="sb-body-inner"></div><div id="sb-loading"><div id="sb-loading-inner"><span>loading</span></div></div></div></div><div id="sb-info"><div id="sb-info-inner"><div id="sb-counter"></div><div id="sb-nav"><a id="sb-nav-close" title="Close" onclick="Shadowbox.close()"></a><a id="sb-nav-next" title="Next" onclick="Shadowbox.next()"></a><a id="sb-nav-play" title="Play" onclick="Shadowbox.play()"></a><a id="sb-nav-pause" title="Pause" onclick="Shadowbox.pause()"></a><a id="sb-nav-previous" title="Previous" onclick="Shadowbox.previous()"></a></div></div></div></div></div></body></html>
+</body></html>
