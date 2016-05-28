@@ -1,155 +1,67 @@
-> *The following text is extracted and transformed from the mouseflow.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524210422id_/http%3A//mouseflow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mouseflow.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528164447id_/https%3A//mouseflow.com/privacy) for the most accurate reproduction.*
 
-# Mouse Tracking, Website Heatmaps – Mouseflow – Privacy Policy
+# Privacy - Mouseflow - Session Replay, Heatmaps, Funnels & Forms
 
-* At Mouseflow we recognize that your privacy is important. We value your trust and confidence and are firmly committed to protecting the privacy of our clients and visitors to our website. Mouseflow is equally committed to protecting the privacy of the information that it gathers.
+Effective Date: March 25, 2016
 
-The following documents describe the privacy practices of Mouseflow. Below you can find detailed information on when and why we collect personal information, how we use it and the limited conditions under which we may disclose it to others. We have provided information on how Mouseflow handles the information it gathers about visitors to sites tracked by Mouseflow (“Visitor Information”) as well as the information it gathers from Mouseflow clients who visit mouseflow.com and use Mouseflow to track their website (“Client Information”).
+This Privacy Policy applies to the Mouseflow, ApS owned and operated websites and its subdomains (“Sites”). Mouseflow, ApS (Mouseflow,” “we,” or “us”) knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Mouseflow when you access the Sites and Mouseflow Service (including through the websites of our partners), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms of Service. The use of information collected through our Sites shall be limited to the purposes under this Privacy Policy and our Terms of Service to customers.
 
-If you have visited a site that uses Mouseflow to track how visitors use their websites and would like information on how we use the information gathered, please see: Privacy Policy for Use of Visitor Information.
+  1. Information We Collect.
 
-If you are a Mouseflow client and would like to know how Mouseflow uses your personal account information, please see: Privacy Policy for Use of Client Information.
+(a) Our Service: We may collect personally identifiable information about you, such as your full name, phone number and email address, when you register for an account. If you choose to purchase a product from us, we or our third-party payment processors will collect your payment information. We also collect data through our partners (customers) who use the Mouseflow Service (including by embedding our code on their websites) on their websites or mobile applications. When you use the Mouseflow Service or if you visit such websites or mobile applications, we may receive certain information about you as described below. We do not send any promotional emails; however, we may send you service related emails related to your account. If you no longer wish to receive these emails, you may opt out of them by canceling your account. 
 
-## A. PRIVACY POLICY FOR USE OF VISITOR INFORMATION
+(b) Cookies And Tracking Technologies: Technologies such as: cookies, beacons, tags and scripts are used by Mouseflow and our partners (such as advertising, marketing and analytics), affiliates or analytics or service providers. These technologies may be used in analyzing trends, administering the Sites, tracking users’ movements around the Sites and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by such companies on an individual as well as aggregated basis. Our partners may also use such technologies to deliver advertisements to you as described below. While we respect the privacy of our users, we are not able to respond to Do Not Track signals set by your browser at this time. We use cookies to remember users’ settings as well as for authentication and analytics. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our Sites, but your ability to use some features or areas of our Sites may be limited.
 
-### A.1. Visitor information collected by Mouseflow
+(c) Log File Information: Log file information is automatically reported by your browser or mobile application each time you access our Sites or the Mouseflow Service. For example, when you access our Sites or the Mouseflow Service, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed and other such information. We do not link this automatically-collected data to personally identifiable information.
 
-The information collected by our Service may include:
+(d) Information Related To Data Collected For Our Customers: Mouseflow collects information under the direction of its customers, and has no direct relationship with the individuals whose data it may process. If you are a client of one of our current customers and would no longer like to be contacted by such customer, please contact our customer that you interact with directly. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our customers.
 
-i. Characteristics of your client system such as: IP address, browser type, system language, OS version, time zone and screen resolution metrics.
+(e) Access And Retention Of Data Controlled By Our Customers: An individual who seeks access, or who seeks to correct, amend or delete inaccurate data should direct his query to a Mouseflow customer (the data controller). If requested to remove data, we will respond within a reasonable timeframe.
 
-ii. The web pages that you visit in a specific website and the URLs of the web pages that referred you to that website.
+We will retain personal data we process on behalf of our customers for as long as needed to provide our services. Mouseflow will retain this personal information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements.
 
-iii. Any mouse movements, mouse clicks, scroll actions and keystrokes on the visited website.
+  2. How We Use Your Information. We use the information that we collect to operate and maintain our Sites and the Mouseflow Service, send you marketing communications, respond to your questions and concerns and to help our partners improve their online offerings.
 
-iv. Any information you enter and submit to a specific website. As a result, if you choose to supply personal information (such as, but not limited to, name, address or contact information) on a website, such information will be collected by the Service.
+  3. How We Share Your Information.
 
-v. Session information stored in cookies that are used to ensure accurate data is extracted from our systems. These cookies are 1st party cookies (cookie data cannot be shared across websites) and do not include any personal data.
+(a) Personally Identifiable Information: Mouseflow will not rent or sell your personally identifiable information to others. We may store personal information in locations outside the direct control of Mouseflow (for instance, on servers or databases co-located with hosting providers). Any personally identifiable information you elect to make publicly available on our Sites or the Mouseflow Service, such as posting comments on our blog page, will be available to others. If you remove information that you have made public on our Sites or the Mouseflow Service, copies may remain viewable in cached and archived pages of our Sites or the Mouseflow Service, or if other users have copied or saved that information. Our blog is managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want the personal information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy.
 
-### A.2. What Mouseflow does NOT do
+(b) Non-Personally Identifiable Information: We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain Mouseflow Services and those of our partners. Our partners also have the option to publish the results for their websites on the Mouseflow Service. Such results consist solely of non-personally identifiable information. If you choose to publish such results on the Mouseflow Service or Site (for example, in our results gallery), you understand and agree that this information, along with any personally identifiable information you choose to make available in connection with such results, will be made publicly available. By publishing your results on the Mouseflow Service or Site, you agree that you have obtained all necessary consents to make such information public and that doing so will not violate any laws. If you remove information that you have made public on the Mouseflow Service or Site, copies may remain viewable in cached and archived pages of the Mouseflow Service or Site, or if other users have copied or saved that information. Non-personally identifiable information may be stored indefinitely.
 
-i. We do NOT collect any information about websites which do not use the Service.
+(c) Instances Where We Are Required To Share Your Information: Mouseflow will disclose your information where required to do so by law, if subject to subpoena or other legal proceeding or if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our Terms of Service or to protect the security or integrity of our Service; and/or (c) to exercise or protect the rights, property, or personal safety of Mouseflow, our users or others.
 
-ii. We do NOT collect any information about other programs that you are running on your computer.
+(d) What Happens In The Event Of A Change Of Control: We may buy or sell/divest/transfer the company (including any shares in the company), or any combination of its products, services, assets and/or businesses. Your information such as customer names and email addresses, and other User information related to the Mouseflow Service may be among the items sold or otherwise transferred in these types of transactions. We may also sell, assign or otherwise transfer such information in the course of corporate divestitures, mergers, acquisitions, bankruptcies, dissolutions, reorganizations, liquidations, similar transactions or proceedings involving all or a portion of the company. You will be notified via email and/or a prominent notice on our Site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
-iii. We do NOT assign a global unique identifier to you.
+(e) Behavioral Targeting / Re-Targeting: We partner with third parties to display advertising on our Sites and manage our advertising on other sites. Our third party partners may use technologies such as cookies to gather information about your activities on this Site and other sites in order to provide you advertising based upon your browsing activities and interests. The only way to completely “opt out” of the collection of any information through cookies or other tracking technology is to actively manage the settings on your browser or mobile device. Please refer to your browser’s or mobile device’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools (to learn more about cookies, clear gifs/web beacons and related technologies, you may wish to visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) and/or the Network Advertising Initiative’s online resources, at [http://www.networkadvertising.org](http://www.networkadvertising.org/)). If you access the Mouseflow Service or Sites on your mobile device, you may not be able to control tracking technologies through the settings.
 
-iv. We do NOT collect any passwords that you enter in a website.
+(f) Testimonials: We display personal testimonials of satisfied customers on our Site in addition to other endorsements. With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at hi [at] mouseflow [dot] com.
 
-v. We do NOT use 3rd party cookies that can be shared across websites
+  4. Storage and Processing. Your information collected through the Mouseflow Service may be stored and processed in the United States, Europe, or any other country in which Mouseflow or its subsidiaries, affiliates or service providers maintain facilities. Mouseflow may transfer information that we collect about you, including personal information, to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we will not transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction.
 
-### A.3. How Mouseflow handles the collected visitor information
+  5. How We Protect Your Information. Mouseflow is concerned with protecting your privacy and data, but we cannot ensure or warrant the security of any information you transmit to Mouseflow or guarantee that your information on the Mouseflow Service may not be accessed, disclosed, altered or destroyed by breach of any of our industry standard physical, technical or managerial safeguards. When you enter sensitive information (such as log in credentials) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). No method of transmission over the Internet or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Site, you can contact us at hi [at] mouseflow [dot] com. We use an outside help platform, and a credit card processing company to bill you if you purchase services. These companies do not retain, share, store or use personally identifiable information for any other purposes.
 
-Any information we collect will be used in accordance with applicable laws for the following purposes:
+  6. Mouseflow, complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Mouseflow has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program, and to view Mouseflow’s certification, please visit <http://www.export.gov/safeharbor/>.
 
-i. To provide website owners with raw or aggregate reports regarding visitor interactions on their website, that may include for example: aggregate reports of clicking or mouse movement activity, aggregate reports of scrolling activity and recreation of visitor browsing sessions.
+  7. Compromise of Personal Information. In the event that personal information is compromised as a breach of security, Mouseflow will promptly notify our customers in compliance with applicable law.
 
-ii. Mouseflow may use the information to perform anonymous aggregated web surfing analysis and statistical reports.
+  8. Our Choices About Your Information. You can review, correct, update or delete inaccuracies to the information about you that Mouseflow keeps on file by logging into your account to update your password and billing information. Alternately, you can contact us directly at hi [at] mouseflow [dot] com. We will respond to your request to access within 30 days. We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements.
 
-iii. For auditing, research and analysis to operate and improve Mouseflow technologies and services.
+  9. Children’s Privacy. Protecting the privacy of young children is especially important. For that reason, Mouseflow does not knowingly collect or solicit personal information from anyone under the age of 13. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at hi [at] mouseflow [dot] com.
 
-iv. We may share information with third parties in limited circumstances, including, without limitation, when complying with legal requirements, preventing fraud or imminent harm, and ensuring the security of our network and services. We may further share certain pieces of aggregated, non-personal information, such as average page load time, or the number of pages processed by our system per day. Such information does not identify you individually.
+  10. Notification Procedures. It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email, written or hard copy notice, or through conspicuous posting of such notice on the Service, as determined by Mouseflow in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.
 
-v. When you send email or other communication to Mouseflow, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. Please do not send us any communication which contains confidential information. Since we are not able to evaluate whether such communication contains confidential information or not, we may retain or use such confidential information as aforesaid and such retention or use shall not be deemed as a breach of any of our obligations herein.
+  11. Links to Other Web Sites. We are not responsible for the practices employed by websites or services linked to or from the Mouseflow Service or Sites, including the information or content contained therein. Please remember that when you use a link to go from the Mouseflow Service or Sites to another website or service, our Privacy Policy does not apply to third-party websites or services. Your browsing and interaction on any third-party website or service, including those that have a link or advertisement on our website, are subject to that third party’s own rules and policies.
 
-vi. When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures.
+Social Media Widgets: Our Site includes social media features, such as the Facebook Like button and other widgets, that run on our Site. These features may collect your IP address and which page you are visiting on our Site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the organization providing it.
 
-Except as described herein, we do NOT:
+  12. Changes to Our Privacy Policy. All changes to this Privacy Policy are effective when they are posted on this page. When we change the policy in a material manner, we will let you know via email and/or a prominent notice on our Site, prior to the change becoming effective and update the ‘effective date’ at the top of this page.
 
-i. Disclose your information.
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this website, please contact us at hi [at] mouseflow [dot] com, or send mail to:
 
-ii. Share your information with third parties.
+Mouseflow, ApS   
+Flaesketorvet 68  
+1711 Copenhagen V  
+Denmark
 
-### A.4. Information security
 
-Mouseflow maintains a strict “no-spam” policy. Your e-mail address will not be sold, rented or otherwise delivered to any third party unless it is so required with respect to the Service as described below.
 
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
-
-We restrict access to personal information to a limited number of Mouseflow employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
-
-When we receive formal written complaints posted using our [contact form](https://web.archive.org/support/), it is Mouseflow’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Mouseflow and an individual.
-
-### A.5. Policy Modifications
-
-We may change this Privacy Policy from time to time. When Mouseflow makes changes to this Privacy Policy, updated version will be posted on this page. We encourage you to visit this page periodically.
-
-### A.6. Contacting us about Privacy
-
-If you have any questions about our privacy statement, the information we have collected from you online, the practices of this website, or your dealings with this website, please contact us by using our [contact form](https://web.archive.org/support/).
-
-## B. PRIVACY POLICY FOR USE OF CLIENT INFORMATION
-
-### B.1. Mouseflow Web Analytics Service
-
-This site uses Mouseflow web analytics service. The service may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website, except text in password fields. Mouseflow does not collect personally identifiable information that you do not voluntarily enter in this website. Mouseflow does not track your browsing habits across other web sites or text inputted in password fields. For more information see the above main section of our Privacy Policy.We are using the information collected by Mouseflow service to improve our website, make it more user-friendly and monitor that it is performing correctly.
-
-### B.2. Client information collected by Mouseflow
-
-The information collected by our website may include:
-
-i. Any personal details you enter and submit, such as name, address, email address, etc.
-
-ii. Your IP address, referrer, web pages that you visit and any other data normally stored in website logs.
-
-iii. Session information stored in cookies that are used to ensure accurate data is extracted from our systems. These cookies do not include any personal data. If you set your browser to reject cookies, you might not be able to sign in to your Mouseflow account.
-
-iv. If you have an account with Mouseflow, your preferences and use of email updates.  
-v. Under no circumstances will we hold sensitive payment details such as your credit card number, expiry date and security code. All transactions are handled through our payment provider, PayPal. Please refer to PayPal’s privacy policy for more information.
-
-### B.3. How Mouseflow handles the collected client information
-
-Any information we collect will be used in accordance with applicable laws for the following purposes:
-
-i. To comply with legal requirements.
-
-ii. In certain cases, we may use your email address to send you information about our products and services. In such a case, you will be offered the option to opt in/out before completing your registration.
-
-iii. We may use personal information to provide the Mouseflow Service.
-
-iv. We may use personal information for auditing, research and analysis to operate and improve Mouseflow technologies and services.
-
-v. We may share aggregated non-personal information with third parties.
-
-vi. When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures.
-
-vii. We may share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services.
-
-viii. When you send email or other communication to Mouseflow, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. Please don’t send us any communication which contains confidential information. Since we are not able to evaluate whether such communication contains confidential information or not, we may retain or use such confidential information as aforesaid and such retention or use shall not be deemed as a breach of any of our obligations herein.
-
-Except as described herein, we do NOT:
-
-i. Disclose your information.
-
-ii. Share your information with third parties.
-
-### B.4. Information security and communication from Mouseflow to clients
-
-Mouseflow maintains a strict “no-spam” policy. Your e-mail address will not be sold to a third party.
-
-When you sign up for an account you are automatically added to our mailing list to which we may send e-mails containing news, announcements, new feature information and other Mouseflow-related information. You can at any time unsubscribe to this mailing list by changing your account settings.
-
-Because some communication with our clients are necessary to adequately provide our services, clients cannot opt-out of receiving administrative e-mails related to their accounts. Such e-mail may include confirmation of a registration or purchase, account status e-mails, or communication during the sales or support process.
-
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
-
-We restrict access to personal information to Mouseflow employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
-
-If Mouseflow becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.  
-When we receive formal written complaints posted using our [contact form](https://web.archive.org/support/), it is Mouseflow’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Mouseflow and an individual.
-
-### B.5. Policy Modifications
-
-We may change this Privacy Policy from time to time. When Mouseflow makes changes to this Privacy Policy, updated version will be posted on this page. We encourage you to visit this page periodically.
-
-### B.6. Contacting us about Privacy
-
-If you have any questions about our privacy statement, the information we have collected from you online, the practices of this website, or your dealings with this website, please contact us by using our [contact form](https://web.archive.org/support/).
-
-## C. MISCELLANEOUS PROVISIONS
-
-### A.1. Safe Harbor
-
-Mouseflow complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Mouseflow has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
-
-For more information, view our [Safe Harbor Policy](http://mouseflow.com/safe-harbor/) or [learn about the Safe Harbor program](http://www.export.gov/safeharbor/).
