@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the officevibe.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024094001id_/https%3A//www.officevibe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officevibe.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528105848id_/https%3A//www.officevibe.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -69,6 +69,12 @@ Third party advertisers may collect certain information that is available to the
 If a company’s Officevibe network is integrated with the “Yammer” social-enterprise network platform (for either Facegame or Officevibe Platform), Yammer’s API will be used in order to post within the company’s Yammer network, add/integrate users within Officevibe, and will appear on the Yammer activity feed. If you have any specific requests with the use of Yammer’s API for the use of Facegame or the Officevibe Platform, please contact Yammer at the link provided: <https://about.yammer.com/success/activate/need-help/>
 
 For more information on Yammer’s API limitations, read the literature on their dev site: <https://developer.yammer.com/docs>
+
+#### Use of Slack:
+
+Leo the Culturebot is a third party Slack integration. It is not created by, affiliated with, or supported by Slack Technologies, Inc.
+
+Because Slack is simply a front-end interface for Officevibe, there is no additional information collected by using this integration.
 
 #### Use of Intercom Services:
 
