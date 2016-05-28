@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nknews.org privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210144524id_/http%3A//www.nknews.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nknews.org privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528190356id_/https%3A//www.nknews.org/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ###  Privacy Policy 
 
-This Privacy Policy governs the manner in which NK News, LTD. (NK NEWS) collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.nknews.org/> website (“Site”). This privacy policy applies to the Site and all products and services offered by NK NEWS.
+This Privacy Policy governs the manner in which NK News, LTD. (NK NEWS) collects, uses, maintains and discloses information collected from users (each, a “User”) of the <https://www.nknews.org/> website (“Site”). This privacy policy applies to the Site and all products and services offered by NK NEWS.
 
 ### **Personal identification information**
 
@@ -69,7 +69,7 @@ NK NEWS has the discretion to update this privacy policy at any time. When we d
 
 ### **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://www.nknews.org/terms-and-conditions-nk-news-pro/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://www.nknews.org/terms-and-conditions-nk-news-pro/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 ### **Contacting us**
 
