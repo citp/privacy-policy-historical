@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thespacereporter.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219165918id_/http%3A//thespacereporter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thespacereporter.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528185110id_/https%3A//thespacereporter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Space Reporter
 
