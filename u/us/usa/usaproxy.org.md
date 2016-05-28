@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usaproxy.org privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127042107id_/http%3A//www.usaproxy.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usaproxy.org privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528110533id_/http%3A//usaproxy.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,4 +22,4 @@ The service we provide allows indirect browsing of third-party websites. A third
 
 The service we provide may attempt to forward third-party cookies from the websites you choose to browse. We have no control over indirect cookies and you are advised to consult the privacy policy of the applicable third-party website. For more information on configuring your browser, see [AboutCookies.org](http://www.aboutcookies.org/Default.aspx?page=1) or the documentation for your browser. We are not responsible for the content of any third-party websites.
 
-[**Home**](https://web.archive.org/web/20151127042107id_/http%3A//www.usaproxy.org/index.php)
+[**Home**](https://web.archive.org/web/20160528110533id_/http%3A//usaproxy.org/index.php)
