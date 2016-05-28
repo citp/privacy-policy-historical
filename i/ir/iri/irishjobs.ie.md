@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irishjobs.ie privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223230720id_/http%3A//www.irishjobs.ie/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishjobs.ie privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529014948id_/http%3A//www.irishjobs.ie/about/privacy) for the most accurate reproduction.*
 
 # IrishJobs.ie for jobs in Ireland. Search IrishJobs.ie for jobs in Ireland, Dublin, Cork and Galway.
 
