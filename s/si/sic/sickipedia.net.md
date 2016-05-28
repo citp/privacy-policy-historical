@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sickipedia.net privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128052932id_/http%3A//www.sickipedia.net/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sickipedia.net privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528090901id_/http%3A//sickipedia.net/privacy.aspx) for the most accurate reproduction.*
 
 # Sickipedia | Never grow up
 
