@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arts.ac.uk privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905140322id_/http%3A//www.arts.ac.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arts.ac.uk privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528192115id_/http%3A//www.arts.ac.uk/privacy-and-cookies) for the most accurate reproduction.*
 
-# Privacy and Cookies - University of the Arts London
+# Privacy and Cookies - UAL
 
 This privacy policy sets out how University of the Arts London uses and protects any information that you give University of the Arts London when you use this website.University of the Arts London is committed to ensuring that your privacy is protected 
 
