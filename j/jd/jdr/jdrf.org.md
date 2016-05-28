@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jdrf.org privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930132813id_/http%3A//jdrf.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jdrf.org privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528223924id_/http%3A//jdrf.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - JDRF: Improving Lives. Curing Type 1 Diabetes
+# Privacy Policy | JDRF
 
-Effective as of: June 22, 2015
+Effective as of: March 15, 2016
 
-JDRF VALUES THE PROTECTION OF INDIVIDUAL PRIVACY AND IS COMMITTED TO THE PRIVACY OF THOSE WHO VISIT AND USE OUR WEBSITES. THIS DOCUMENT SETS FORTH THE PRIVACY POLICY (“PRIVACY POLICY”) FOR JDRF (“WE”, “US” OR “OUR”) WEBSITES (COLLECTIVELY, “SITE”). FOR PURPOSES OF THIS PRIVACY POLICY ONLY, REFERENCES TO “JDRF”, “WE”, “US” AND “OUR” INCLUDE TYPEONENATION.ORG (“T1N”). WHERE APPLICABLE, THIS PRIVACY POLICY INCLUDES THE CHILD PRIVACY POLICY ADDENDUM. THIS PRIVACY POLICY GOVERNS THE MANNER IN WHICH JDRF COLLECTS, USES, MAINTAINS, DISCLOSES AND SECURES INFORMATION COLLECTED FROM USERS OF THE SITE. BY USING THE SITE IN ANY WAY, YOU AGREE TO BE BOUND BY THIS PRIVACY POLICY. YOU SHOULD READ THIS PRIVACY POLICY, AND IF YOU DO NOT AGREE TO IT, DO NOT USE THE SITE. EXCEPT FOR THE LIMITED SITUATIONS MENTIONED BELOW, JDRF DOES NOT SHARE OR SELL DONOR INFORMATION COLLECTED ONLINE OR OFFLINE.
+JDRF VALUES THE PROTECTION OF INDIVIDUAL PRIVACY AND IS COMMITTED TO THE PRIVACY OF THOSE WHO VISIT AND USE OUR WEBSITES. THIS DOCUMENT SETS FORTH THE PRIVACY POLICY (“PRIVACY POLICY”) FOR JDRF (“WE”, “US” OR “OUR”) WEBSITES (COLLECTIVELY, “SITE”). FOR PURPOSES OF THIS PRIVACY POLICY ONLY, REFERENCES TO “JDRF”, “WE”, “US” AND “OUR” INCLUDE TYPEONENATION.ORG (“T1N”). WHERE APPLICABLE, THIS PRIVACY POLICY INCLUDES THE CHILD PRIVACY POLICY ADDENDUM. THIS PRIVACY POLICY GOVERNS THE MANNER IN WHICH JDRF COLLECTS, USES, MAINTAINS, DISCLOSES AND SECURES INFORMATION COLLECTED FROM USERS OF THE SITE. BY USING THE SITE IN ANY WAY, YOU AGREE TO BE BOUND BY THIS PRIVACY POLICY. YOU SHOULD READ THIS PRIVACY POLICY, AND IF YOU DO NOT AGREE TO IT, DO NOT USE THE SITE. EXCEPT FOR THE LIMITED SITUATIONS MENTIONED BELOW, JDRF DOES NOT SHARE OR SELL DONOR INFORMATION COLLECTED ONLINE.
 
 **I. INFORMATION COLLECTION AND USE**
 
@@ -29,10 +29,10 @@ We use this information to validate Site users, to facilitate participation in v
 You may also submit information that personally identifies you or someone you know, including any medical condition or connection to T1D, when you post to any public forum that is offered through the Site, such as through the “Share your Story” tab, web logs, bulletin boards, or other forums which permit users to interact online. Any information you transmit online in such forums will be made public and JDRF cannot control nor is it responsible for the use any third party may make of such information. You should understand that any information that you submit on any public forum through the Site is not and cannot be treated as confidential by us, and is not subject to this Privacy Policy. Your participation on these forums and public post boards is voluntary, and you consent to full public disclosure of any personally identifiable information that you submit through such forums.
 
 **B.   Non-Personally Identifiable Information**  
-To help us enhance and optimize users’ overall Site experience, we also collect non-personally identifiable information during your Site visits. Non-personally identifiable information is anonymous information about you, such as pages most frequently accessed by you, time spent on a page or area of the Site, the number of visits to the Site by you, types of browser used by you, cookie preferences or search terms entered by you. We can tell the type of computer and web service that you are using, as well as the date, time, and pages that you visit. Examples of non-personally-identifiable and anonymous information may include your Internet access provider, your computer’s Internet protocol (IP) address, your browser and operating system, the date and time of your visit, and data based on your use of the Site. JDRF collects and uses this non-personally-identifiable information in order to, among other things, provide you with or assist in the provision of information through the Site and to maintain the performance of the Site. This data is not associated with any of your personal information. It may be shared with third parties, such as our sponsors or third party service providers, who may use this de-identified information to study and understand Site user preferences and to provide better Services and content.
+To help us enhance and optimize users’ overall Site experience, including providing you with better and more targeted content that you find useful, we also collect non-personally identifiable information during your Site visits. Non-personally identifiable information is anonymous information about you or your interactions with the Site, such as pages most frequently accessed by you, time spent on a page or area of the Site, mouse movements, non-sensitive text entered, the number of visits to the Site by you, types of browser used by you, cookie preferences or search terms entered by you. We can tell the type of computer and web service that you are using, as well as its location, and the date, time, and pages that you visit. Examples of non-personally-identifiable and anonymous information may include your Internet access provider, your computer’s Internet protocol (IP) address, your browser and operating system, the date and time of your visit, and data based on your use of the Site. JDRF collects and uses this non-personally-identifiable information in order to, among other things, provide you with or assist in the provision of information through the Site and to maintain the performance of the Site. This data is not associated with any of your personal information. It may be shared with third parties, such as our sponsors or third party service providers, who may use this de-identified information to study and understand Site user preferences and to provide better Services and content.
 
-**C.   Cookies**  
-Like most standard website servers, JDRF may use cookies and other tools to collect information about how you use the Site. A cookie is a small, unique text file that a website can send to your computer hard drive when you visit a website. Cookies allow us to provide visitors to our Site with certain conveniences, such as delivering unique content or providing easy log-on access.  We also use cookies to track the path of users through our Site, and to keep track of where they came from (for example, if they arrive via a search engine). You can choose to set your web browser to turn off cookies, but if you do, you may lose certain features when navigating on the Site. We do not link the information we store in cookies to any personally identifiable information you submit to us through the Site.
+**C.   Cookies  
+**Like most standard website servers, JDRF may use cookies and other tools to collect information about how you use the Site. A cookie is a small, unique text file that a website can send to your computer hard drive when you visit a website. Cookies allow us to provide visitors to our Site with certain conveniences, such as delivering unique content or providing easy log-on access.  We also use cookies to track the path of users through our Site, and to keep track of where they came from (for example, if they arrive via a search engine). You can choose to set your web browser to turn off cookies, but if you do, you may lose certain features when navigating on the Site. We do not link the information we store in cookies to any personally identifiable information you submit to us through the Site.
 
 **II. SECURITY**
 
@@ -54,16 +54,16 @@ We are committed to comply with any applicable laws and/or requirements that are
 
 We send all new members a welcome email. From time to time, we will also send email notification, mail or call you to provide you with information concerning updates or enhancements to our services, account issues, or service-related announcements. Generally, you may not opt-out of these communications. If you do not wish to receive them, you have the option to deactivate your on-line account.
 
-**VI.  DISCLOSURE OF INFORMATION**
+**VI. DISCLOSURE OF INFORMATION**
 
 **A.   Disclosure to Agents of JDRF**  
 JDRF may need to share your information with third parties in limited circumstances. For instance, and from time to time, we may share the information you provide to us, including personally identifiable information, with outside contractors, auditors, consultants, or others hired by us to assist in providing financial, operational or research activities on our behalf. We require these parties to use such personally identifiable information only for the specifically intended and authorized purpose, on behalf of JDRF, and consistent with this Privacy Policy.
 
-**B.   Disclosures to Other Charitable Organizations  
-**JDRF participates in a list exchange in which we share very limited personally identifiable donor information with select other non-profit charitable organizations. We do this in order to enhance our ability to get and retain additional donors, which ultimately strengthens our ability to provide you with more superior services. The only personally identifiable information about donors that we share on the list exchange with these other charitable organizations is limited to the donor’s name, mailing address, and the duration of the donation made to us (such as a yearly donation). We do not share any other donor personally identifiable information with the list exchange, including the amount of the donation. If you wish to opt-out of this sharing of limited personally identifiable information with the list exchange, you may do so by contacting us in writing or email, through the address shown in this Privacy Policy below.
+**B.   Disclosures to Other Charitable Organizations**  
+JDRF participates in a list exchange in which we share very limited personally identifiable donor information with select other non-profit charitable organizations. We do this in order to enhance our ability to get and retain additional donors, which ultimately strengthens our ability to provide you with more superior services. The only personally identifiable information about donors that we share on the list exchange with these other charitable organizations is limited to the donor’s name, mailing address, and the duration of the donation made to us (such as a yearly donation). We do not share any other donor personally identifiable information with the list exchange, including the amount of the donation. If you wish to opt-out of this sharing of limited personally identifiable information with the list exchange, you may do so by contacting us in writing or email, through the address shown in this Privacy Policy below.
 
-**C.   Disclosures Required by Law  
-**From time to time, JDRF may be required to provide personally identifiable information or non-personally identifiable information in response to a valid court order, subpoena, government investigation, or as otherwise required by law, or if we reasonably believe that you have committed unlawful acts or acts that may endanger the health or safety of another user or the general public. JDRF also reserves the right to report to law enforcement agencies any activities that we, in good faith, believe to be unlawful. We may release such information when we believe that its release is reasonably necessary to protect the rights, property, and safety of others and ourselves.
+**C.   Disclosures Required by Law**  
+From time to time, JDRF may be required to provide personally identifiable information or non-personally identifiable information in response to a valid court order, subpoena, government investigation, or as otherwise required by law, or if we reasonably believe that you have committed unlawful acts or acts that may endanger the health or safety of another user or the general public. JDRF also reserves the right to report to law enforcement agencies any activities that we, in good faith, believe to be unlawful. We may release such information when we believe that its release is reasonably necessary to protect the rights, property, and safety of others and ourselves.
 
 **D.   Opting In Through Other Venues**  
 Please be advised that if you provide consent and allow JDRF to disclose your personally identifiable information through one JDRF venue (such as the Site), you will be deemed to have “opted in” through all JDRF venues.
@@ -88,10 +88,10 @@ By using the Site or submitting personally identifiable information to the Site,
 Questions or comments regarding this Privacy Policy should be directed to JDRF using the following contact information:
 
 JDRF  
-Attention: Digital Marketing  
+Attention: Digital & Creative Services  
 26 Broadway, 14th Floor  
 New York, NY 10004  
-Email: [privacy@jdrf.org](mailto:privacy@jdrf.org)  
+Email: [privacy@jdrf.org](mailto:privacy@jdrf.org)  
 Telephone: 1-800-533-CURE (2873)  
 Fax: (212) 785-9595
 
@@ -99,16 +99,16 @@ Fax: (212) 785-9595
 
 YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY (WHICH INCLUDES, WHERE APPLICABLE, THE CHILD PRIVACY POLICY ADDENDUM) AND JDRF’S TERMS OF USE (INCLUDING ANY INDEMNIFICATION AND LIMITATIONS ON DAMAGES CONTAINED THEREIN).
 
-### **CHILD PRIVACY POLICY ADDENDUM**
+### CHILD PRIVACY POLICY ADDENDUM
 
-Effective as of: June 22, 2015
+Effective as of: March 15, 2016
 
 JDRF (“WE”, “US” OR “OUR”) PRIVACY POLICY, LINKED AT THE BOTTOM OF JDRF’S WEBPAGES, DESCRIBES HOW JDRF COLLECTS AND USES PERSONALLY IDENTIFIABLE AND OTHER USER INFORMATION. THIS DOCUMENT (“CHILD PRIVACY POLICY ADDENDUM”), WHICH IS A PART OF THE PRIVACY POLICY, SETS FORTH ADDITIONAL PRIVACY POLICY TERMS AND CONDITIONS APPLICABLE TO THE COLLECTION AND USE OF SUCH INFORMATION FROM CHILDREN UNDER 13 YEARS OF AGE. THIS CHILD PRIVACY POLICY ADDENDUM DOES NOT APPLY TO T1N, HOWEVER, AND FOR PURPOSES OF THE T1N WEBSITE, CHILDREN UNDER THE AGE OF 13 ARE NOT ALLOWED TO VISIT OR OTHERWISE USE THAT WEBSITE.
 
 **INFORMATION COLLECTION AND USE**
 
-**Child Personally Identifiable Information**  
-JDRF is a non-profit organization dedicated to finding a cure for diabetes and its complications through the support of research. Kids Walk is an online program designed to teach students about diabetes and to raise funds for type 1 diabetes research. You or your child under the age of 13 may be prompted to provide for some or all of the following types of information (referred to as “child personally identifiable information”) in order to register, access various content or features, or otherwise participate in Kids Walk:
+**Child Personally Identifiable Information  
+**JDRF is a non-profit organization dedicated to finding a cure for diabetes and its complications through the support of research. Kids Walk is an online program designed to teach students about diabetes and to raise funds for type 1 diabetes research. You or your child under the age of 13 may be prompted to provide for some or all of the following types of information (referred to as “child personally identifiable information”) in order to register, access various content or features, or otherwise participate in Kids Walk:
 
   * Contact information, such as name or e-mail address User name and password;
   * Geolocation information;
@@ -122,18 +122,18 @@ JDRF is a non-profit organization dedicated to finding a cure for diabetes and i
 
 We use child personally identifiable information collected through the Site to validate Site users and facilitate participation in the Kids Walk program all for the sole benefit of the participating schools and such schools’ students. We do not share child personally identifiable information with any third parties except the child’s respective school where necessary to facilitate the child’s involvement in Kids Walk. JDRF does not condition a child’s participation in Kids Walk on the child disclosing more personal information than is reasonably necessary to participate in such activity.
 
-**Correcting/Updating/Deleting/Deactivating Personal Information**  
-A user 13 or over or the adult parent or guardian of a user under 13 may review, request corrections, ask that we delete, or refuse further collection or use of the personally identifiable information JDRF collects from such user or the child or children for which such user is the legal guardian. Such user may do this by contacting JDRF at:
+**Correcting/Updating/Deleting/Deactivating Personal Information  
+**A user 13 or over or the adult parent or guardian of a user under 13 may review, request corrections, ask that we delete, or refuse further collection or use of the personally identifiable information JDRF collects from such user or the child or children for which such user is the legal guardian. Such user may do this by contacting JDRF at:
 
 Postal Address:
 
 JDRF  
-Attention: Digital Marketing  
+Attention: Digital & Creative Services  
 26 Broadway, 14th Floor  
 New York, NY 10004  
-Email: [privacy@jdrf.org](mailto:privacy@jdrf.org)  
+Email: [privacy@jdrf.org](mailto:privacy@jdrf.org)  
 Telephone: 1-800-533-CURE (2873)  
 Fax: (212) 785-9595
 
-**Consent to Receive Notices Via the Site**  
-By using the Site or submitting personally identifiable information to the Site (and, for parents or guardians of children under the age of 13, having consented to your child’s use of the Site), you are agreeing that JDRF may deliver all privacy and opt out notices to you in the manners described in the Privacy Policy.
+**Consent to Receive Notices Via the Site  
+**By using the Site or submitting personally identifiable information to the Site (and, for parents or guardians of children under the age of 13, having consented to your child’s use of the Site), you are agreeing that JDRF may deliver all privacy and opt out notices to you in the manners described in the Privacy Policy.
