@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rentalo.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023071034id_/http%3A//rentalo.com/docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentalo.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529001245id_/http%3A//rentalo.com/docs/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy at Rentalo.com
 
