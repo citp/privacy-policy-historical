@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeagent.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910000325id_/http%3A//www.freeagent.com/website/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeagent.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528143316id_/http%3A//www.freeagent.com/website/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - FreeAgent
 
@@ -6,7 +6,7 @@ Maintaining your privacy is really, really important to us. You entrust us with 
 
 **Version 4.0:** This policy was last updated on 26th November 2012 It may be updated in the future and we'll post the new version here on our website. We will never deviate from our overall philosophy of maintaining your privacy, though.
 
-**This policy explains how we collect, store and use personal data about you when you browse[www.freeagent.com](http://www.freeagent.com/) (the "FreeAgent website"), use the FreeAgent application ("FreeAgent") or otherwise provide your personal data to us.**
+**This policy explains how we collect, store and use personal data about you when you browse[www.freeagent.com](https://web.archive.org/) (the "FreeAgent website"), use the FreeAgent application ("FreeAgent") or otherwise provide your personal data to us.**
 
 **By visiting, logging into, registering or using FreeAgent and the FreeAgent website, you agree that it's okay for us to collect, use and transfer your information (including your personal data) under the terms of this policy. If you're not cool with this or don't want to be bound by this policy any longer, please do not continue to use or enter your details on the FreeAgent website, or use FreeAgent (by free trial or by subscription).**
 
@@ -45,11 +45,11 @@ This section details how we use your personal data and your financial data.
 
 **Making Contact** \- We may use your personal data to contact you by email, fax, post, SMS, social media and/or telephone to notify you about important changes or developments to the FreeAgent website or FreeAgent, or to let you know about our other FreeAgent and/or third party services, content, or product ranges which may be of interest to you. We may also use your financial data to enable us to tailor these notifications (in order to make sure what we are sending you is relevant). By using FreeAgent or the FreeAgent website, you are consenting to this use of your data. If you change your mind about being contacted in the future, that's no problem – just contact us using the details below. To stop receiving emails from FreeAgent itself (for example, a reminder that your subscription is expiring), you should cancel your FreeAgent account.
 
-**Cookies** \- We may further use, or permit selected third parties to use, your personal data to enable us to track and analyse FreeAgent website traffic and visitor trends and improve your browsing experience. For further details, please see our [Cookies Policy](http://www.freeagent.com/website/cookie-policy). By using the FreeAgent website or FreeAgent you are consenting to this use of your personal data. If you do not want us to use your personal data in this way, please see the Cookies Policy for more information.
+**Cookies** \- We may further use, or permit selected third parties to use, your personal data to enable us to track and analyse FreeAgent website traffic and visitor trends and improve your browsing experience. For further details, please see our [Cookies Policy](https://web.archive.org/website/cookie-policy). By using the FreeAgent website or FreeAgent you are consenting to this use of your personal data. If you do not want us to use your personal data in this way, please see the Cookies Policy for more information.
 
 ## You can export your financial data anytime.
 
-You can export a copy of your financial data as an Excel file whenever you like - this will include your financial transactions, invoices, and expenses (without any uploaded receipts). We recommend that you use the export functionality to keep a backup of your financial data. While we regularly back up your financial data (see our security section), we can't restore backups on an individual basis. Read here for [instructions about how to export your FreeAgent data.](http://www.freeagent.com/support/kb/getting-started/export-data-from-freeagent)
+You can export a copy of your financial data as an Excel file whenever you like - this will include your financial transactions, invoices, and expenses (without any uploaded receipts). We recommend that you use the export functionality to keep a backup of your financial data. While we regularly back up your financial data (see our security section), we can't restore backups on an individual basis. Read here for [instructions about how to export your FreeAgent data.](https://web.archive.org/support/kb/getting-started/export-data-from-freeagent)
 
 You can also ask us for a copy of your personal data that we hold (see "Your Rights" below).
 
@@ -87,7 +87,7 @@ The FreeAgent website and/or FreeAgent may, from time-to-time, contain links to 
 
 When you use FreeAgent, you will enter information about your bank account(s) such as the sort code and account number. You'll also upload or automatically import electronic bank statements, or manually enter transaction data. We use this financial data to calculate your business accounts and tax liabilities. We are very aware that this information is sensitive and we are very careful about how we store it. 
 
-### We partner with secure sites. 
+### We partner with secure sites.
 
 All data you provide to us is stored securely on our servers. Where we pass your data to third parties, we do so over a secure connection.
 
