@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanprogress.org privacy policy that was archived on 2015-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150701044619id_/https%3A//www.americanprogress.org/about/c3-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanprogress.org privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528173227id_/https%3A//www.americanprogress.org/about/c3-privacy-policy) for the most accurate reproduction.*
 
 # CAP Privacy Policy | Center for American Progress
 
@@ -18,6 +18,7 @@ The Center for American Progress believes in transparency, and we want you to kn
   * **Special Note Regarding Interactive Services** – Any communications you submit or post to a blog, message board, social networking site or other interactive feature may be viewable by other participants or users of the service. Therefore, you should understand that you have no expectation of privacy or confidentiality in the content you submit to such interactive features, whether or not it contains personally identifiable information about you.
   * **Sharing Personal Information with Third Parties** – We do not share, sell or rent your personal information with unaffiliated third parties except as we explain in the privacy policy or as otherwise notified. We may share personal information with affiliates, service providers and certain limited information, such as name and organizational information, with panelists and third parties if you attend one of our events.  We currently do not share your email address in this fashion.
   * **Security** – Maintaining the security of information about our constituents is a priority for us.
+  * **Donor Privacy** – The Center for American Progress will not share or sell a donor’s personal information, collected online or offline, except to process payments as disclosed in the privacy policy. CAP will also not send donor mailings on behalf of other organizations.
 
 
 
