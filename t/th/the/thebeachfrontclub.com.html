@@ -1,107 +1,265 @@
-<!--The following is the downloaded HTML source of the thebeachfrontclub.com privacy policy that was archived on 2015-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206040013id_/http%3A//www.thebeachfrontclub.com/s/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thebeachfrontclub.com privacy policy that was archived on 2016-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160528054302id_/http%3A//www.true-beachfront.com/s/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
-<title>Privacy Policies of The Beachfront Club  - </title>
-<meta name="description" content="The world's first and only true beachfront hotel finder, having qualified over 8,000 hotels as genuinely right on the beach in over 100 countries">
+<!DOCTYPE html><html lang="en" ng-app="TrueBeachfront"><head>
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href="http://cdn.true-beachfront.com/media/md5-img/c6bcdd60a39f650fa245f458827d7dbb.ico">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>
+        privacy policy
+        
+    </title>
+    
+        <meta name="description" content="Privacy Policies of True Beachfront">
+    
 
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    
+    <link rel="stylesheet" href="/static/CACHE/css/d234f4091b13.css" type="text/css">
 
+    
+        
+    
+</head>
 
+<body class="">
 
-
-
-
-
-
-<meta http-equiv="Pragma" content="no-cache">
-<meta http-equiv="Cache-Control" content="no-cache">
-<link rel="stylesheet" type="text/css" href="http://cdn.thebeachfrontclub.com/media/css/styles.css">
-<link rel="stylesheet" type="text/css" href="http://cdn.thebeachfrontclub.com/media/css/map.css">
-<link rel="stylesheet" type="text/css" href="http://cdn.thebeachfrontclub.com/media/css/wiki.css">
-<link rel="stylesheet" type="text/css" href="http://cdn.thebeachfrontclub.com/media/css/navbar.css">
-<link rel="stylesheet" type="text/css" href="http://cdn.thebeachfrontclub.com/media/css/impromptu.css">
-<link rel="stylesheet" type="text/css" href="http://cdn.thebeachfrontclub.com/media/css/jquery.autocomplete.css">
-<link rel="stylesheet" type="text/css" href="http://cdn.thebeachfrontclub.com/media/css/jquery.ui.override.css">
-<link rel="stylesheet" type="text/css" href="http://cdn.thebeachfrontclub.com/media/css/ol.dialogue.css">
-
-
-<style type="text/css">
-	.perma-bar {
-		height:125px !important;
-	}
-</style>
-
-</head><body><div class="obscure" style="display:none;"></div>
-<div class="loaderGraph" style="display:none;">
+<header>
+    
+        
+<div class="header">
+    <div class="visible-xs" ng-controller="searchToggleCtrl">
+        <div class="container">
+            <div class="row header-with-search">
+                <div class="col-xs-12">
+                    <a href="/" class="pull-left">
+                        <img src="/static/images/tbf-logo.jpg" alt="True Beachfront">
+                    </a>
+                    <div class="pull-right search-component">
+                        <a href="" ng-click="toggleSearch()">
+                            <i class="fa fa-search"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div ng-controller="SearchBoxCtrl as ctrl">
+    <div class="search-panel row" ng-class="{'expanded': isExpanded}" ng-cloak="">
+        <div class="col-xs-12">
+            <div class="search">
+                <form>
+                    <div class="search-form">
+                        <input type="text" placeholder="Search" id="search-input" ng-model="ctrl.query" ng-change="ctrl.search()" ng-model-options="{ debounce: 300 }" autocomplete="off">
+                        <a href="" class="clear" ng-click="ctrl.clearSearch()" ng-show="ctrl.query" ng-cloak="">
+                            <i class="fa fa-times"></i>
+                        </a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    
+<div class="search-results-wrapper" ng-cloak="">
+    <div class="search-loading ng-hide" ng-show="ctrl.state == 'LOADING'">
+        <i class="fa fa-circle-o-notch fa-spin"></i> Loading...
+    </div>
+    <div class="search-not-found ng-hide" ng-show="ctrl.state == 'NO_RESULT'">
+        <i class="fa fa-times"></i> No Result
+    </div>
+    <div class="search-results ng-hide" ng-show="ctrl.state == 'HAS_RESULTS'">
+        <div class="search-result block-list" ng-repeat="result in ctrl.response.results">
+            <a ng-href="{{ result.url }}" class="list-item location-list-item" ng-if="result.type == 'location'">
+                <div class="list-item-detail">
+                    <div>
+                        <strong>{{ result.title }}</strong>
+                    </div>
+                    <div>
+                        <small>destination</small>
+                    </div>
+                </div>
+            </a>
+            <a ng-href="{{ result.url }}" class="list-item beach-list-item" ng-if="result.type == 'beach'">
+                <div class="list-item-detail">
+                    <div>
+                        <strong>{{ result.title }}</strong>
+                    </div>
+                    <div>
+                        <small>{{ result.hotels }} hotels</small>
+                    </div>
+                </div>
+            </a>
+            <a ng-href="{{ result.url }}" class="list-item" ng-if="result.type == 'hotel'">
+                <div class="list-item-detail">
+                    <div class="rating">
+                        <i class="fa fa-star" ng-repeat="x in ctrl.getRatingArray(result.rating)"></i>
+                    </div>
+                    <div>
+                        <strong>{{ result.title }}</strong>
+                    </div>
+                    <div ng-if="result.start_form">
+                        <small>from {{ result.start_from }}</small>
+                    </div>
+                </div>
+            </a>
+            <a ng-href="{{ result.url }}" class="list-item location-list-item" ng-if="result.type == 'guidepage'">
+                <div class="list-item-detail">
+                    <div>
+                        <strong>{{ result.title }}</strong>
+                    </div>
+                    <div>
+                        <small>guide</small>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="more-results block-list" ng-show="ctrl.state == 'HAS_RESULTS' &amp;&amp; ctrl.response.count > 5">
+            <a ng-href="/search?query={{ ctrl.encodeURI(ctrl.query) }}" class="list-item">
+                <div class="list-item-detail">
+                    <i class="fa fa-search"></i>
+                    See all results for "{{ ctrl.query }}"
+                </div>
+            </a>
+        </div>
+    </div>
 </div>
-<div class="perma-bar ">
-<div id="perma-bar-bgr">
-<table id="perma-bar-structure">
-<tbody><tr>
-<td id="perma-bar-left" valign="top">
-<a href="/"><img id="bfc-logo" src="http://cdn.thebeachfrontclub.com/media/md5-img/d2ca3ec5590494e6bfa41969d2e7a61e.gif" width="329" height="80" alt="the beachfront club"></a><a href="http://www.thebeachfrontclub.com" class="home-icon"><img src="http://cdn.thebeachfrontclub.com/media/md5-img/9bac4e00fb96cc8a37dff2e43cf9fc5c.gif"><br>home</a>
-
-</td>
-<td id="perma-bar-right" valign="top">
-<div id="top-options">
-
-
-<div class="user-state">
-
-<fb:login-button id="facebook_login_button" show-faces="false" width="200" max-rows="1" scope="publish_actions">
-
-</fb:login-button>
-
-
-
-<a id="manager_action" style="display:none;" href="/profile/" class="green-action-btn user-action">edit my hotel</a>
-<a id="photographer_action" style="display:none;" href="/profile/" class="green-action-btn user-action">upload photos</a>
-<a id="admin_action" style="display:none;" href="/profile/" class="green-action-btn user-action">admin</a>
-
-<a id="hotelier_button" style="display:block;" class="blue-action-btn user-action" href="/s/register-your-hotel/">for hotels</a>
-
-
-
-
-
-
-<a id="signout_button" style="display:none;" class="blue-action-btn user-action" href="javascript:;">sign out</a>
-<script type="text/javascript">$("#signout_button").live('click',logout );</script>
-
-
-
-
 
 </div>
-
-
+        </div>
+    </div>
+    <div class="container hidden-xs header-desktop">
+        <div class="row center-header">
+            <div class="col-md-6 col-sm-6 desktop-header-logo text-center">
+                <a href="/" class="">
+                    <img src="/static/images/tbf-logo-desktop.jpg" alt="True Beachfront">
+                </a>
+            </div>
+            <div class="col-md-4 col-sm-4 desktop-search-panel">
+                <div ng-controller="SearchBoxCtrl as ctrl">
+    <div class="row">
+        <div class="col-xs-12 full-width search-homepage-desktop">
+            <form>
+                <div class="search-form">
+                    <input type="text" placeholder="search destinations or hotels" id="search-input" ng-model="ctrl.query" ng-change="ctrl.search()" ng-model-options="{ debounce: 300 }" autocomplete="off">
+                    <a href="" class="clear" ng-click="ctrl.clearSearch()" ng-cloak="">
+                        <i ng-class="{'fa-search': !ctrl.query, 'fa-times': ctrl.query,}" class="fa"></i>
+                    </a>
+                </div>
+            </form>
+        </div>
+        <div class="col-xs-12">
+            
+<div class="search-results-wrapper" ng-cloak="">
+    <div class="search-loading ng-hide" ng-show="ctrl.state == 'LOADING'">
+        <i class="fa fa-circle-o-notch fa-spin"></i> Loading...
+    </div>
+    <div class="search-not-found ng-hide" ng-show="ctrl.state == 'NO_RESULT'">
+        <i class="fa fa-times"></i> No Result
+    </div>
+    <div class="search-results ng-hide" ng-show="ctrl.state == 'HAS_RESULTS'">
+        <div class="search-result block-list" ng-repeat="result in ctrl.response.results">
+            <a ng-href="{{ result.url }}" class="list-item location-list-item" ng-if="result.type == 'location'">
+                <div class="list-item-detail">
+                    <div>
+                        <strong>{{ result.title }}</strong>
+                    </div>
+                    <div>
+                        <small>destination</small>
+                    </div>
+                </div>
+            </a>
+            <a ng-href="{{ result.url }}" class="list-item beach-list-item" ng-if="result.type == 'beach'">
+                <div class="list-item-detail">
+                    <div>
+                        <strong>{{ result.title }}</strong>
+                    </div>
+                    <div>
+                        <small>{{ result.hotels }} hotels</small>
+                    </div>
+                </div>
+            </a>
+            <a ng-href="{{ result.url }}" class="list-item" ng-if="result.type == 'hotel'">
+                <div class="list-item-detail">
+                    <div class="rating">
+                        <i class="fa fa-star" ng-repeat="x in ctrl.getRatingArray(result.rating)"></i>
+                    </div>
+                    <div>
+                        <strong>{{ result.title }}</strong>
+                    </div>
+                    <div ng-if="result.start_form">
+                        <small>from {{ result.start_from }}</small>
+                    </div>
+                </div>
+            </a>
+            <a ng-href="{{ result.url }}" class="list-item location-list-item" ng-if="result.type == 'guidepage'">
+                <div class="list-item-detail">
+                    <div>
+                        <strong>{{ result.title }}</strong>
+                    </div>
+                    <div>
+                        <small>guide</small>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="more-results block-list" ng-show="ctrl.state == 'HAS_RESULTS' &amp;&amp; ctrl.response.count > 5">
+            <a ng-href="/search?query={{ ctrl.encodeURI(ctrl.query) }}" class="list-item">
+                <div class="list-item-detail">
+                    <i class="fa fa-search"></i>
+                    See all results for "{{ ctrl.query }}"
+                </div>
+            </a>
+        </div>
+    </div>
 </div>
 
-<div class="clear"></div>
-
-
-
-<div style="display:none;padding-left: 200px; padding-top: 35px; font-weight: bold; font-size: 14px; font-style:italic; color: #FFCB05;">all qualified ‘true beachfront’ hotels have no road or <br>traffic between their rooms and beach or ocean</div>
-
-</td>
-</tr>
-
-</tbody></table>
-
+        </div>
+    </div>
 </div>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
 </div>
-<div id="main-wrapper" class="page-container">
+    
+    
+    <div class="breadcrumb">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    <ul class="list-inline">
+                        <li>
+                            <a href="/">
+                                <i class="fa fa-home"></i>
+                            </a>
+                        </li>
+                        <li>privacy policy</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
 
-	<div class="center-wrapper padding-top-20">
-		        <div class="informationPage">
-				<div class="content-small">
-					
-					
-				</div>
-				<div class="content-large" style="float:right;">
-					<div id="rightContent">
-					 
-<h2>Privacy Policies of The Beachfront Club</h2>
+</header>
+<main>
+    
+    <div class="container single-page-container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-8 col-sm-push-2">
+                <section class="single-page-content">
+                    <div class="block-content"><style>
+  h2 {
+    color: #0276bf;
+  }
+  a {
+    color: blue;
+  }
+ h3 {
+font-size: 18px;
+font-weight: bold;
+}
+</style>	
+
+<h2>Privacy Policies of True Beachfront</h2>
 <p></p>
 <h3>1.	we respect our members' privacy </h3>
 <p>The BFC will never sell or give away your private contacts or information to third parties for the purpose of spamming, advertising or commercial benefit of any kind.</p>
@@ -111,124 +269,234 @@
 <h3>3.	your information, your choice</h3>
 <p>In addition to the two, minimum log-in data fields required for registration as above, the BFC collects information about you that you choose to provide and place in your profile.  This information is kept within our site for our clearly stated purposes only: to help create a global network of true beachfront hotels and a community of beach-lovers who will then communicate and cooperate in various ways for the benefit and preservation of beach environments. </p>
 <h3>4.	no advertising whatsoever</h3>
-<p>The Beachfront Club does not favour on-line advertising in any form.  The Club website does not carry banner or other advertising on its website, save the simple promotions of member hotels and the special offers they wish to promote.  We will never send advertising to the e-mail contacts we collect nor will we ever give, rent or sell those e-mail contacts to any third party engaged in advertising or spamming.</p>
+<p>True Beachfront does not favour on-line advertising in any form.  The Club website does not carry banner or other advertising on its website, save the simple promotions of member hotels and the special offers they wish to promote.  We will never send advertising to the e-mail contacts we collect nor will we ever give, rent or sell those e-mail contacts to any third party engaged in advertising or spamming.</p>
 <h3>5.	Information from other sources</h3>
 <p>In some cases we might obtain information about you from other sources.  For example, if you arrive on our site through an associated website (like Facebook), a social networking or similar website where you have registered, your profile information might also be sent to us.  We treat all such information in the same manner as the information that you provide to us directly.</p>
 <h3>6.	Information about others</h3>
 <p>In some locations within the website you might have opportunity to provide the BFC with contact information about your family, friends or others.  Please obtain the consent of other parties before sending their contact or personal information to us. </p>
 <h3>7.	confidential sharing of information only </h3>
 <p>The information we collect about members through our log-in and profile functions, or from other sources, will be kept in a secure and confidential manner.  The only other parties permitted access to any part of this information will be those performing a function necessary for the operation of this website, such as a provider of newsletter distribution services engaged by the BFC.  In such cases the third party will be forbidden to disclose the BFC's member contacts and information or utilize these for any other purpose.</p>
-<p>The only other parties that may be given access to personal information are websites or businesses within, or associated with, The Beachfront Club group. </p>
+<p>The only other parties that may be given access to personal information are websites or businesses within, or associated with, True Beachfront group. </p>
 <h3>8.	personal profiles</h3>
 <p>Those people who are eager to share information about themselves in order to make contact with like-minded members of the BFC and the global beach community will find our growing use of personal profiles helpful.  We will introduce more extensive profiles as our community grows, along with secure privacy settings that will allow those who use this service to control who does and does not see their profile information.  Smart profiles will help people to meet others who share their interests, to forge bonds, to meet new friends on new beaches and to join beach- and environment-related activities worldwide.</p>
 <h3>9.	newsletters &amp; bulletins</h3>
 <p>Our newsletters, bulletins and promotions are restricted to our own BFC on-line publications dealing with topics directly related to the concerns of the BFC.  These are the only e-mails you will receive from us.  However, every user has the choice to opt-out of or opt-in for our on-line publications, or select a range of suitable publications at any time by using the settings within 'Newsletter' under 'Community' in the Global Navigation Bar.  This range includes selections of newsletters by topic, geographic location and other criteria.</p>
 <h3>10.	e-mails and mail lists </h3>
 <p>Our policy is to make contact with companies and individuals that can benefit from our website services and will thus be pleased to learn about the site.  We wish to avoid becoming part of the growing problem of unwanted, annoying spam. </p>
-<p>E-mails introducing The Beachfront Club website and services are sent to e-mail addresses of companies and individuals that we have gathered through serious research and who we believe can gain advantage from the BFC services.  These include hotels that we have mapped, travel-related businesses including travel agents, tour operators, travel writers and travel newsletters.  We seek individual photographers, writers, reviewers and bloggers who have an interest in beaches and who we believe will be interested in posting to the BFC website.  We send only such targeted e-mails that result from our own research and never purchase mail lists from third parties.</p>
+<p>E-mails introducing True Beachfront website and services are sent to e-mail addresses of companies and individuals that we have gathered through serious research and who we believe can gain advantage from the BFC services.  These include hotels that we have mapped, travel-related businesses including travel agents, tour operators, travel writers and travel newsletters.  We seek individual photographers, writers, reviewers and bloggers who have an interest in beaches and who we believe will be interested in posting to the BFC website.  We send only such targeted e-mails that result from our own research and never purchase mail lists from third parties.</p>
 <p>All of our news bulletins and many e-mails carry an opt-out function allowing people to choose to be permanently removed from our lists.</p>
 <h3>11.	contests &amp; promotions</h3>
 <p>From time to time the BFC may offer prizes through contests and other promotions.  Users who participate in such contests or promotions will not be added to any additional mailing lists without their consent nor be targeted in any way for the sale of other services or products.</p>
 <h3>12.	cookies</h3>
 <p>Following standard practice for membership websites we may place cookies in your computer to enhance your experience in various ways, including a cookie that recognises you and provides a fast-track log-in.  You can delete the cookies at any time, though doing so might make your use of the BFC website slower and less convenient.</p>
-<h3>13.	keep up-to-date on The Beachfront Club's policies</h3>
-<p>The Beachfront Club reserves the right to make changes to its Privacy Policies or to update them as and when it sees the need.  It is your responsibility to check these policies on our website in a timely manner to keep abreast of any changes to clauses that might affect you.</p>
-
-
-					</div>
-				</div>
-			</div>
-			<div class="clear"></div>
-	</div>
-	
-
-
-
-
-
-<div class="center-wrapper">
-<div id="footer">
-<!-- begin footer -->
-<div id="flexicontent" class="flexicontent item242 type1">
-
-  <div class="clear"></div>
-  <div class="description" style="background:none; color:black; border: none;">
-    <div class="desc-content"><!-- START: Modules Anywhere --><p style="text-align: center;">&nbsp;</p>
-      <p style="text-align: center;"><span style="font-size: 10pt; text-align: left;">&nbsp;</span></p>
-      <table style="margin-left: auto; margin-right: auto;">
-        <tbody>
-          <tr>
-            <td><span style="font-family: 'Trebuchet MS', sans-serif; font-size: 12px; font-weight: bold; line-height: 16px; background-color: #f7f0e2;">about us</span></td>
-            <td><span style="font-family: 'Trebuchet MS', sans-serif; font-size: 12px; font-weight: bold; line-height: 16px; background-color: #f7f0e2;">terms &amp; conditions</span></td>
-            <td><span style="font-family: 'Trebuchet MS', sans-serif; font-size: 12px; font-weight: bold; background-color: #f7f0e2;">for hotels</span></td>
-            <td><span style="font-family: 'Trebuchet MS', sans-serif; font-size: 12px; font-weight: bold; background-color: #f7f0e2;"><span style="font-family: 'Trebuchet MS', sans-serif; font-size: 12px; font-weight: bold; background-color: #f7f0e2;"><span style="font-family: 'Trebuchet MS', sans-serif; font-size: 12px; font-weight: bold; background-color: #f7f0e2;">press</span></span></span></td>
-          </tr>
-          <tr>
-            <td class="bodytxt">
-              <p><a class="footerlink" href="/s/about" target="_blank">about The Beachfront Club</a></p>
-              <p><a class="footerlink" href="/guide/mission-statement" target="_blank">mission statement</a></p>
-            </td>
-            <td class="bodytxt">
-              <p><a class="footerlink" href="http://www.thebeachfrontclub.com/s/TC_uploading_photos/" target="_blank">T &amp; C of photo uploads</a></p>
-              <p><a class="footerlink" href="http://www.thebeachfrontclub.com/s/terminology-and-definitions/" target="_blank">Terminology &amp; Definitions</a></p>
-              <p><a class="footerlink" href="http://www.thebeachfrontclub.com/s/privacy-policy/" target="_blank">Privacy Policy</a></p>
-              <p><a class="footerlink" href="http://www.thebeachfrontclub.com/s/TC_hotel_membership/" target="_blank">Terms &amp; Conditions for Hotel Members</a></p>
-              <p><a class="footerlink" href="http://www.thebeachfrontclub.com/s/TC/" target="_blank">Terms &amp; Conditions for Users</a></p>
-            </td>
-            <td class="bodytxt">
-              <p><a class="footerlink" href="/s/advantages-for-all-levels/" target="_blank">advantages for all hotels</a></p>
-              <p><a class="footerlink" href="/s/advantages-of-premium-membership/" target="_blank">advantages of Premium Membership</a></p>
-              <p><a class="footerlink" href="/s/what-to-expect-of-premium/" target="_blank">what to expect of Premium Membership</a></p>
-              <p><a class="footerlink" href="/s/how-to-use-BFC/" target="_blank">how to use the BFC website</a></p>
-              <p><a class="footerlink" href="/s/code-snippets/" target="_blank">link your hotel</a></p>
-            </td>
-            <td class="bodytxt">
-              <p><a class="footerlink" href="http://thebeachfrontclub.com/guide/global-beachfront-awards-thailand-wins" target="_blank">Global Awards - Press Release</a></p>
-              <p><a class="footerlink" href="http://thebeachfrontclub.com/guide/global-beachfront-awards" target="_blank">Global Awards - Thailand No. 1</a></p>
-              <p><a class="footerlink" href="http://thebeachfrontclub.com/guide/koh-samui-wins-1st-place-in-global-beachfront-destination-awards" target="_blank">Global Awards - Koh Samui</a></p>
-              <p><a class="footerlink" href="http://www.thebeachfrontclub.com/s/media-resources/" target="_blank">media resources</a></p>
-              <p><a class="footerlink" href="http://www.thebeachfrontclub.com/s/media-stories/" target="_blank">media stories about BFC</a></p>
-              <p>&nbsp;</p>
-            </td>
-          </tr>
-        </tbody>
-      </table>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p><!-- END: Modules Anywhere -->
-
+<h3>13.	keep up-to-date on True Beachfront's policies</h3>
+<p>True Beachfront reserves the right to make changes to its Privacy Policies or to update them as and when it sees the need.  It is your responsibility to check these policies on our website in a timely manner to keep abreast of any changes to clauses that might affect you.</p>
+</div>
+                </section>
+            </div>
+        </div>
     </div>
-  </div>
-  <!-- EOF description -->
 
-  <div class="clear"></div>
+</main>
 
-  <div class="fc_afterDisplayContent" style="clear:both;">
-    <div class="yvComment" id="yvComment242">
+
+    <footer>
+    <div class="footer-desktop hidden-xs">
+        <div class="container">
+            <div class="row footer-menus">
+                <div class="col-xs-3">
+                    <ul class="list-unstyled">
+                        <li class="footer-list-header">
+                            <strong>about us</strong>
+                        </li>
+                        
+                            <li>
+                                <a href="/s/about/">about The Beachfront Club</a>
+                            </li>
+                        
+                            <li>
+                                <a href="/s/mission-statement/">mission statement</a>
+                            </li>
+                        
+                    </ul>
+                </div>
+                <div class="col-xs-3">
+                    <ul class="list-unstyled">
+                        <li class="footer-list-header">
+                            <strong>terms &amp; conditions</strong>
+                        </li>
+                        
+                            <li>
+                                <a href="/s/tc_uploading_photos/">T &amp; C of photo uploads</a>
+                            </li>
+                        
+                            <li>
+                                <a href="/s/terminology-and-definitions/">Terminology &amp; Definitions</a>
+                            </li>
+                        
+                            <li>
+                                <a href="/s/privacy-policy">Privacy Policy</a>
+                            </li>
+                        
+                            <li>
+                                <a href="/s/tc_hotel_membership/">Terms &amp; Conditions for Hotel Members</a>
+                            </li>
+                        
+                            <li>
+                                <a href="/s/tc/">Terms &amp; Conditions for Users</a>
+                            </li>
+                        
+                    </ul>
+                </div>
+                <div class="col-xs-3">
+                    <ul class="list-unstyled">
+                        <li class="footer-list-header">
+                            <strong>for hotels</strong>
+                        </li>
+                        
+                            <li>
+                                <a href="/s/advantages-for-all-levels/">advantages for all hotels</a>
+                            </li>
+                        
+                            <li>
+                                <a href="/s/advantages-of-premium-membership/">advantages of Premium Membership</a>
+                            </li>
+                        
+                            <li>
+                                <a href="/s/what-to-expect-of-premium/">what to expect of Premium Membership</a>
+                            </li>
+                        
+                            <li>
+                                <a href="/s/how-to-use-bfc/">how to use the BFC website</a>
+                            </li>
+                        
+                            <li>
+                                <a href="/s/code-snippets/">link your hotel</a>
+                            </li>
+                        
+                    </ul>
+                </div>
+                <div class="col-xs-3">
+                    <ul class="list-unstyled">
+                        <li class="footer-list-header">
+                            <strong>press</strong>
+                        </li>
+                        
+                            <li>
+                                <a href="/guide/global-beachfront-awards-thailand-wins">Global Awards - Press Release</a>
+                            </li>
+                        
+                            <li>
+                                <a href="/guide/global-beachfront-awards">Global Awards - Thailand No. 1</a>
+                            </li>
+                        
+                            <li>
+                                <a href="/guide/koh-samui-wins-1st-place-in-global-beachfront-destination-awards">Global Awards - Koh Samui</a>
+                            </li>
+                        
+                            <li>
+                                <a href="/s/media-resources/">media resources</a>
+                            </li>
+                        
+                            <li>
+                                <a href="/s/media-stories/">media stories about BFC</a>
+                            </li>
+                        
+                    </ul>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12 text-center footer-base">
+                    <ul class="list-inline">
+                        <li class="footer-list-header">
+                            <strong>2016 © True Beachfront</strong>
+                        </li>
+                        
+                            <li class="divider">·</li>
+                            <li>
+                                <a href="/">home page</a>
+                            </li>
+                        
+                            <li class="divider">·</li>
+                            <li>
+                                <a href="/">contact us</a>
+                            </li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </div>
     </div>
-  </div>
-
-</div>
+</footer>
 
 
-<div id="orbiousinterest_dialog" style="display: none;"><div class="container">  <div class="header">Mark as unread</div>  URL <input type="text" value="" class="url" readonly="readonly"><br>  Title <input type="text" value="" class="title"><br>  Tags <input type="text" value="tags, seperated by commas" class="tags empty">  <div class="buttons">     <input type="button" value="Cancel" class="cancel">     <input type="button" value="Save" class="save">  </div></div></div><a id="ORBVIOUS_DOMWindowHost" href="#orbiousinterest_dialog"></a><div class="tip-wrap" style="position: absolute; top: 0px; left: 0px;"><div class="tip-top"></div><div class="tip"></div><div class="tip-bottom"></div></div>
-
-<!-- end footer -->
-
-<!-- GOF Consulting -->
-<p id="copyright"> Site and contents © copyright 2011 The Beachfront Club. All rights reserved. <a href="http://www.thebeachfrontclub.com">home page</a> <a href="/contact_us/">contact us</a></p>
-</div>
-</div>
-
-</div>
 
 
-<div class="social_actions">
-	<a id="feedback" class="feedback sbutton" href="javascript:;" onclick="$.fancybox({href: '/feedback/', margin: 0, padding: 0}); return false;"></a>
- 
-  
-        
-</div>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/static/CACHE/js/1369c6ec1c23.js"></script>
+<script type="text/javascript">
+    trueBeachfront.constant('mapSearchUri', 'http://true-beachfront.com/map/search');
+    trueBeachfront.constant('searchUri', "/search/api");
+    trueBeachfront.constant('leafletImagePath', '/static/bower_components/leaflet/dist/images');
+    trueBeachfront.value('activePage', {
+        slug: 'privacy-policy',
+        areas: '',
+        type: ''
+    });
+</script>
+
+
+
+    
+
+
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-74916217-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
+
+<script type="text/ng-template" id="image-gallery.html">
+    <div>
+        <flex-slider
+                slide="imageUrl in ctrl.imageGallery track by $index"
+                animation="slide"
+                animation-loop="false"
+                control-nav="false"
+                prev-text=""
+                next-text=""
+                slideshow="false"
+                slideshow-speed="5000"
+                pause-on-action="false"
+                pause-on-hover="false"
+                start="ctrl.startSlide($slider)"
+                before="ctrl.beforeSlide($slider)"
+                after="ctrl.afterSlide($slider)">
+            <li>
+                
+                <div class="flexslider-child" data-image-src="{{ imageUrl }}"></div>
+                
+            </li>
+        </flex-slider>
+        <div class="spinner" ng-show="ctrl.isLoading"></div>
+        <div class="image-gallery-counter" ng-show="ctrl.imageGallery.length">
+            <span ng-bind="ctrl.currentImage"></span>/<span ng-bind="ctrl.count"></span>
+        </div>
+    </div>
+</script>
+
 
 
 </body></html>
