@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prettylinkpro.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910002444id_/https%3A//prettylinkpro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prettylinkpro.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528105854id_/https%3A//prettylinkpro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WordPress Affiliate Link Cloaker | WordPress URL Shortener | Pretty Link Pro
 
