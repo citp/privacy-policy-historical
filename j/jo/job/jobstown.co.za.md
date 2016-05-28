@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobstown.co.za privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128112606id_/http%3A//jobstown.co.za/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobstown.co.za privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528134033id_/http%3A//jobstown.co.za/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy - Jobs Town
 
 This Privacy Policy governs the manner in which JobsTown SA collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.jobstown.co.za](http://www.jobstown.co.za/) website (“Site”). This privacy policy applies to the Site and all products and services offered by JobsTown SA.
 
