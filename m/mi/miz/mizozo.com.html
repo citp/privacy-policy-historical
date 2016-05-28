@@ -1,20 +1,141 @@
-<!--The following is the downloaded HTML source of the mizozo.com privacy policy that was archived on 2015-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206141104id_/http%3A//www.mizozo.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mizozo.com privacy policy that was archived on 2016-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160528233754id_/http%3A//www.mizozo.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<base href="http://www.mizozo.com">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Mizozo - Privacy Policy</title>
 	<meta name="description" content="It is important for everyone to realize that we at Mizozo do not believe in Privacy. We expect people to stand behind what they say, not merely post anonymously. We have no intention of making known who is who, but if ever placed behind the barrel we will not hesitate to identify IP addresses and what we know about an individual. If Privacy is a concern of yours, a little online research would help secure your privacy. If we don’t know who you are, we will not try and find out. We will...">
 	<meta name="keywords" content="News, Latest News, Breaking News, World News, Best News,  Favorite News, Top News, Technology News, Local News, Business News, Sports News, Arts News, Entertainment News">
-	<link rel="stylesheet" type="text/css" href="css/main.css">
-	<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
+	<meta name="p:domain_verify" content="1642ca0b6ab12b6000ae0d3adfb11a88">
+<link rel="stylesheet" type="text/css" href="css/main.css">
 
-	<link rel="stylesheet" type="text/css" href="js/fancybox/jquery.fancybox-1.3.4.css">
-	<script type="text/javascript" src="js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+<link rel="shortcut icon" href="favicon.png">
 	
-	<script type="text/javascript" src="js/jcarousellite/jcarousellite_1.0.1.pack.js"></script>
-	<script type="text/javascript" src="js/script.js"></script>
+
+	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700">
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="assets/css/blog.style.css">
+
+
+
+	<link rel="stylesheet" href="assets/css/headers/header-v8.css">
+	<link rel="stylesheet" href="assets/css/footers/footer-v8.css">
+
+
+	<link rel="stylesheet" href="assets/plugins/animate.css">
+	<link rel="stylesheet" href="assets/plugins/line-icons/line-icons.css">
+	<link rel="stylesheet" href="assets/plugins/fancybox/source/jquery.fancybox.css">
+	<link rel="stylesheet" href="assets/plugins/font-awesome/css/font-awesome.min.css">
+	<link rel="stylesheet" href="assets/plugins/login-signup-modal-window/css/style.css">
+	<link rel="stylesheet" href="assets/plugins/owl-carousel/owl-carousel/owl.carousel.css">
+	<link rel="stylesheet" href="assets/plugins/master-slider/masterslider/style/masterslider.css">
+	<link rel="stylesheet" href="assets/plugins/master-slider/masterslider/skins/default/style.css">
+
+	<link rel="stylesheet" href="assets/css/theme-colors/default.css" id="style_color">
+	<link rel="stylesheet" href="assets/css/theme-skins/dark.css">
+
+
+	<link rel="stylesheet" href="assets/css/custom.css">
+
+
+
+
+
+	<!-- JS Global Compulsory -->
+	<script type="text/javascript" async="" src="//cdn.viglink.com/api/vglnk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="assets/plugins/jquery/jquery.min.js"></script>
+
+	<script src="js/imageloaded.js"></script>
+	<script src="https://npmcdn.com/masonry-layout@4.0.0/dist/masonry.pkgd.min.js"></script>
+
+
+
+<script>
+/**
+ * jQuery Unveil
+ * A very lightweight jQuery plugin to lazy load images
+ * http://luis-almeida.github.com/unveil
+ *
+ * Licensed under the MIT license.
+ * Copyright 2013 Luís Almeida
+ * https://github.com/luis-almeida
+ */
+
+;(function($) {
+
+  $.fn.unveil = function(threshold, callback) {
+
+    var $w = $(window),
+        th = threshold || 0,
+        retina = window.devicePixelRatio > 1,
+        attrib = retina? "data-src-retina" : "data-src",
+        images = this,
+        loaded;
+
+    this.one("unveil", function() {
+      var source = this.getAttribute(attrib);
+      source = source || this.getAttribute("data-src");
+      if (source) {
+        this.setAttribute("src", source);
+        if (typeof callback === "function") callback.call(this);
+      }
+    });
+
+    function unveil() {
+      var inview = images.filter(function() {
+        var $e = $(this);
+        if ($e.is(":hidden")) return;
+
+        var wt = $w.scrollTop(),
+            wb = wt + $w.height(),
+            et = $e.offset().top,
+            eb = et + $e.height();
+
+        return eb >= wt - th && et <= wb + th;
+      });
+
+      loaded = inview.trigger("unveil");
+      images = images.not(loaded);
+    }
+
+    $w.on("scroll.unveil resize.unveil lookup.unveil", unveil);
+
+    unveil();
+
+    return this;
+
+  };
+
+})(window.jQuery || window.Zepto);
+
+$(document).ready(function() {
+  $("img").unveil(200);
+});
+var $grid = $(".grid").imagesLoaded( function() {
+	$grid.masonry({
+	  itemSelector: ".item",
+	  percentPosition: true
+	 });
+});
+
+
+</script>
+
+
+
+	<style type="text/css">
+		* {padding:0;margin:0;}
+	</style>
+
+	<script src="glue/js/jquery-1.11.0.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="glue/css/jquery.glue.slide.css">
+	<script src="glue/js/jquery.glue.slide.min.js"></script>
+	
+
+
 
 
 <script>
@@ -28,47 +149,188 @@
 
 </script>
 
-	
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-56dc684239d38d29"></script>
 </head>
-	<body>
-	
-	<div id="page">
-		<!-- header -->
-		<div id="header">
-			<div id="logo"><a href="/" title="MIZOZO!">Mizozo</a></div>
-			<div id="top_line">
-				<div class="welcome_line"></div>
-				<div class="top_menu">
-					<a id="what_is_mizozo" href="#what_is">What is Mizozo?</a>|
-					<a id="feedback" href="feedback.php"><img src="img/top_plus.gif" alt="" align="absmiddle">Feedback</a>|
-					<a id="login_link" href="#mizozo_login_form">Login</a>
-				</div>
-			</div>
-			<div class="top_search">
-				<form method="get" id="SearchForm" action="search.php" name="SearchForm" onsubmit="return searchAllowSubmit(this.get_text);">
-					<div class="search_box">
-						<input type="text" name="get_text" value="" class="top_keywords">
-						<a href="#" onclick="$('#SearchForm').submit(); return false;">FIND!</a>
+	<body class="header-fixed header-fixed-space-v2">
+	<div id="beforeyonopub" style="display:none;" class="glue_popup">
+		<div class="glue_close" onclick="$.glue_close()">X</div>
+		<div class="glue_content">
+			<div class="container">
+			<h2>Super trending on mizozo!</h2>
+<div class="row margin-bottom-20 " style="margin-top:50px">
+						<div class="col-sm-4 sm-margin-bottom-50">
+							<div class="blog-grid">
+								<a href="http://www.mizozo.com/health/03/2016/07/9-lead-poisoning-symptoms-everyone-should-be-aware-of.html"><img class="img-responsive" src="http://www.mizozo.com/images/item_images/80000/79184_gallery.jpg" alt=""></a>
+								<h3><a href="http://www.mizozo.com/health/03/2016/07/9-lead-poisoning-symptoms-everyone-should-be-aware-of.html">9 lead poisoning symptoms everyone should be aware of</a></h3>
+
+							</div>
+						</div>
+						<div class="col-sm-4">
+							<div class="blog-grid">
+								<a href="http://www.mizozo.com/sports/01/2014/06/crazy-collection-of-hotties-from-formula-1-racing.html"><img class="img-responsive" src="images/pub_test/1.png" alt=""></a>
+								<h3><a href="http://www.mizozo.com/sports/01/2014/06/crazy-collection-of-hotties-from-formula-1-racing.html">Collection of over 200 Formula 1 Racing Hotties</a></h3>
+
+							</div>
+						</div>
+
+						<div class="col-sm-4">
+							<div class="blog-grid">
+								<a href="http://www.mizozo.com/weird/09/2014/16/japan-why-you-so-crazy.html"><img class="img-responsive" src="images/pub_test/3.png" alt=""></a>
+								<h3><a href="http://www.mizozo.com/weird/09/2014/16/japan-why-you-so-crazy.html">Japan, why you so crazy?</a></h3>
+
+							</div>
+						</div>
+						</div>
+						<div class="row margin-bottom-50">
+						<div class="col-sm-4">
+							<div class="blog-grid">
+								<a href="http://www.mizozo.com/entertainment/09/2015/04/20-near-naked-pictures-of-barbara-palvin.html"><img class="img-responsive" src="images/pub_test/2.png" alt=""></a>
+								<h3><a href="http://www.mizozo.com/entertainment/09/2015/04/20-near-naked-pictures-of-barbara-palvin.html">20 Near Naked Pictures Of Barbara Palvin</a></h3>
+
+							</div>
+						</div>
+						<div class="col-sm-4">
+							<div class="blog-grid">
+								<a href="http://www.mizozo.com/weird/11/2013/20/images-of-crazy-russian-girls-trying-to-be-sexy-on-the-russian-social-networks.html"><img class="img-responsive" src="images/pub_test/4.png" alt=""></a>
+								<h3><a href="http://www.mizozo.com/weird/11/2013/20/images-of-crazy-russian-girls-trying-to-be-sexy-on-the-russian-social-networks.html">Images of Crazy Russian Girls Trying to be Sexy on the Russian Social Networks</a></h3>
+
+							</div>
+						</div>
+						<div class="col-sm-4">
+							<div class="blog-grid">
+								<a href="http://www.mizozo.com/travel/12/2013/18/some-of-the-worlds-craziest-super-yachts.html"><img class="img-responsive" src="images/pub_test/5.png" alt=""></a>
+								<h3><a href="http://www.mizozo.com/travel/12/2013/18/some-of-the-worlds-craziest-super-yachts.html">Some of the worlds craziest super yachts</a></h3>
+
+							</div>
+						</div>
+
+
+
 					</div>
-				</form>
-			</div>
-				
-			<div class="top_contribute">
-				<a href="signup.php?redirect=member.php%3Fact%3Dpost_article_form" alt="Submit Your Articles" title="Submit Your Articles"></a>
-			</div>
-			<div id="navigation">
-				<ul class="menu">
-					<li><a href="world/index.html">WORLD</a></li><li><a href="tech/index.html">TECH</a></li><li><a href="entertainment/index.html">ENTERTAINMENT</a></li><li><a href="sports/index.html">SPORTS</a></li><li><a href="biz/index.html">BIZ</a></li><li><a href="weird/index.html">WEIRD</a></li><li><a href="travel/index.html">TRAVEL</a></li><li><a href="health/index.html" class="final">HEALTH</a></li>
-				</ul>
+
+²
+<script type="text/javascript">
+
+function realWidth(obj){
+    var clone = obj.clone();
+    clone.css("visibility","hidden");
+    $('body').append(clone);
+    var width = clone.outerWidth();
+    clone.remove();
+    return width;
+}
+
+	setTimeout(function(){
+			$.glue({
+				layer: '#beforeyonopub',
+				maxamount: 1
+			});
+
+
+
+},100);
+
+
+resize()
+function resize(){
+
+		$("#beforeyonopub").height(1000);
+
+}
+
+			</script>
 			</div>
 		</div>
+	</div><div class="wrapper">
+ 
+	<div class="header-v8 header-sticky">
+		<div class="blog-topbar">
+			<div class="topbar-search-block">
+				<div class="container">
+				<form method="get" id="SearchForm" action="search.php" name="SearchForm" onsubmit="return searchAllowSubmit(this.get_text);">
+
+						<input type="text" class="form-control top_keywords" name="get_text" value="" placeholder="Search">
+						<div class="search-close"><i class="icon-close"></i></div>
+				</form>
+				</div>
+			</div>				
+
+				
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-6 col-xs-6">
+						<div class="topbar-time">Saturday, May 28th 2016</div>
+						<div class="topbar-toggler"><span class="fa fa-angle-down"></span></div>
+						<ul class="topbar-list topbar-menu">
+							<li><a href="http://www.mizozo.org">Blog</a></li>
+							<li><a href="signup.php?redirect=member.php%3Fact%3Dpost_article_form" title="Contribute">Contribute</a></li>
+							<li><a href="mailto:mizozo.com@gmail.com" title="Contribute">mizozo.com@gmail.com</a></li>
+
+							
+							<li class="cd-log_reg hidden-sm hidden-md hidden-lg"><strong><a class="cd-signin" href="javascript:void(0);">Login</a></strong></li>
+							<li class="cd-log_reg hidden-sm hidden-md hidden-lg"><strong><a class="cd-signup" href="javascript:void(0);">Register</a></strong></li>
+						</ul>
+					</div>
+					<div class="col-sm-6 col-xs-6 clearfix">
+						<i class="fa fa-search search-btn pull-right"></i>
+						<ul class="topbar-list topbar-log_reg pull-right visible-sm-block visible-md-block visible-lg-block">
+						
+							<li class="home"><a id="what_is_mizozo" href="#what_is">What is Mizozo?</a></li>
+							<li class="home"><a id="feedback" href="feedback.php">Feedback</a></li>
+							
+							<li class="cd-log_reg home"><a class="cd-signin" href="javascript:void(0);">Login</a></li>
+							
+						</ul>
+					</div>
+				</div><!--/end row-->
+			</div><!--/end container-->
+		</div>
+	<div class="navbar mega-menu" role="navigation">
+			<div class="container">
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="res-container">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+
+					<div class="navbar-brand">
+						<a href="/" title="Home">
+							<img src="assets/img/themes/logo-news-dark-default.png" alt="Logo">
+						</a>
+					</div>
+				</div><!--/end responsive container-->
+
+				<!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse navbar-responsive-collapse">
+					<div class="res-container">
+						<ul class="nav navbar-nav">
+		
+					<li><a href="world/index.html">WORLD</a></li><li><a href="tech/index.html">TECH</a></li><li><a href="entertainment/index.html">ENTERTAINMENT</a></li><li><a href="sports/index.html">SPORTS</a></li><li><a href="biz/index.html">BIZ</a></li><li><a href="weird/index.html">WEIRD</a></li><li><a href="travel/index.html">TRAVEL</a></li><li><a href="health/index.html" class="final">HEALTH</a></li>
+				</ul>
+						
+					</div><!--/responsive container-->
+				</div><!--/navbar-collapse-->
+			</div><!--/end contaoner-->
+		</div>
+		<!-- End Navbar -->
+	</div>
 	
+
 	<!-- content -->
+
   	<div id="content" class="inside">
+
     <!-- content left collumn -->
+
     <div class="content_left static">
+
     	<h1>Privacy Policy</h1>
+
     	
+
     	<div>It is important for everyone to realize that we at Mizozo do not believe in Privacy. We expect people to stand behind what they say, not merely post anonymously. We have no intention of making known who is who, but if ever placed behind the barrel we will not hesitate to identify IP addresses and what we know about an individual. If Privacy is a concern of yours, a little online research would help secure your privacy. If we don’t know who you are, we will not try and find out. We will simply identify what we know and leave it at that. We believe that it is the job of the end user to protect their private lives and not ours. Everything you provide us, outside of your email address, will be considered public information. If you do not wish it to be public, keep it to yourself.</div>
 <div></div>
 <div>The following is a break down of what we plan on storing and how that information is to be used.&nbsp;</div>
@@ -92,237 +354,381 @@
 <div>This policy is effective as of January 1st, 2012.&nbsp;</div>
 <div></div>
 <div><span style="font-size: xx-small;">Don’t like our wording? … send us a better version <a href="contact.html" target="_blank">here</a>.</span></div>
+
     	
+
     </div>
+
     <!-- content right collumn -->
+
     <div class="content_right">
+						<div class="blog-video">
+
+							
+							<img class="full-width" src="images/item_images/80000/79179_gallery.jpg" alt="">
+							<span class="category-badge">Marc Matron</span>
+							<span class="date-badge">2016-03-05 00:00:00</span>
+							<div class="center-wrap">
+								<span class="center-alignCenter">
+									<span class="center-body">
+										<a href="https://player.vimeo.com/video/74197060" class="fbox-modal fancybox.iframe" title="At World's end">
+											
+										</a>
+									</span>
+								</span>
+							</div><!--/end center wrap-->
+							<h4><a href="world/03/2016/05/don-t-let-six-strings-intimidate-you.html title=" don’t="" let="" six="" strings="" intimidate="" you"="">Don’t Let Six Strings Intimidate You</a></h4>
+						</div></div>
+			
+
+
       <!-- TOP STORIES -->
+
       <div class="top_stories">
+
         <h2>Top Stories</h2>
+
        	
-			<div class="story">
-				<a class="crop-top-stories" href="entertainment/11/2015/17/check-out-this-beautiful-russian-woman.html">
-					<img src="http://mizozo.com/images/item_images/79000/78888_large.jpg" alt="">
-				</a> 
-				<a href="entertainment/11/2015/17/check-out-this-beautiful-russian-woman.html" class="small_link">
-					Check Out This Beautiful Russian Woman
-				</a>
-			</div>
-			<div class="story">
-				<a class="crop-top-stories" href="entertainment/11/2015/11/did-you-forget-about-the-sexy-carly-lauren.html">
-					<img src="http://mizozo.com/images/item_images/79000/78867_large.jpg" alt="">
-				</a> 
-				<a href="entertainment/11/2015/11/did-you-forget-about-the-sexy-carly-lauren.html" class="small_link">
-					Did You Forget About The Sexy Carly Lauren?
-				</a>
-			</div><div class="clear"></div>
-			<div class="story">
-				<a class="crop-top-stories" href="entertainment/11/2015/08/who-is-this-sexy-blonde-kenna-james.html">
-					<img src="http://mizozo.com/images/item_images/79000/78848_large.jpg" alt="">
-				</a> 
-				<a href="entertainment/11/2015/08/who-is-this-sexy-blonde-kenna-james.html" class="small_link">
-					Who Is This Sexy Blonde?  Kenna James!
-				</a>
-			</div>
-			<div class="story">
-				<a class="crop-top-stories" href="sports/11/2015/08/6-tips-for-buying-boat-lifts.html">
-					<img src="http://mizozo.com/images/item_images/79000/78847_large.jpg" alt="">
-				</a> 
-				<a href="sports/11/2015/08/6-tips-for-buying-boat-lifts.html" class="small_link">
-					6 Tips for Buying Boat Lifts
-				</a>
-			</div><div class="clear"></div>
-			<div class="story">
-				<a class="crop-top-stories" href="health/11/2015/08/finding-stress-relief-in-nature.html">
-					<img src="http://mizozo.com/images/item_images/79000/78846_large.jpg" alt="">
-				</a> 
-				<a href="health/11/2015/08/finding-stress-relief-in-nature.html" class="small_link">
-					Finding Stress Relief in Nature
-				</a>
-			</div>
-			<div class="story">
-				<a class="crop-top-stories" href="entertainment/11/2015/05/mia-sollis-is-our-favorite-redhead.html">
-					<img src="http://mizozo.com/images/item_images/79000/78829_large.jpg" alt="">
-				</a> 
-				<a href="entertainment/11/2015/05/mia-sollis-is-our-favorite-redhead.html" class="small_link">
-					Mia Sollis Is Our Favorite Redhead
-				</a>
-			</div><div class="clear"></div>
+
+						<div class="col-sm-3 col-xs-6 sm-margin-bottom-30">
+							<!-- Blog Thumb v4 -->
+							<div class="blog-thumb-v4">
+							<a href="health/03/2016/10/sex-with-watermelons-certified-to-be-100-safe.html" title="Sex With Watermelons Certified to Be 100% Safe">
+								<img class="img-responsive margin-bottom-10" src="images/item_images/6000/5463_gallery.jpg" alt="Sex With Watermelons Certified to Be 100% Safe photo">
+							</a>
+								<h3><a href="health/03/2016/10/sex-with-watermelons-certified-to-be-100-safe.html">Sex With Watermelons Certified to Be 100% Safe</a></h3>
+							</div>
+						</div>
+
+						<div class="col-sm-3 col-xs-6 sm-margin-bottom-30">
+							<!-- Blog Thumb v4 -->
+							<div class="blog-thumb-v4">
+							<a href="health/03/2016/07/9-lead-poisoning-symptoms-everyone-should-be-aware-of.html" title="9 lead poisoning symptoms everyone should be aware...">
+								<img class="img-responsive margin-bottom-10" src="images/item_images/80000/79184_gallery.jpg" alt="9 lead poisoning symptoms everyone should be aware... photo">
+							</a>
+								<h3><a href="health/03/2016/07/9-lead-poisoning-symptoms-everyone-should-be-aware-of.html">9 lead poisoning symptoms everyone should be aware...</a></h3>
+							</div>
+						</div>
+
+						<div class="col-sm-3 col-xs-6 sm-margin-bottom-30">
+							<!-- Blog Thumb v4 -->
+							<div class="blog-thumb-v4">
+							<a href="travel/03/2016/07/first-date-tips-how-to-communicate-with-russian-girls.html" title="First Date Tips: How to Communicate with Russian...">
+								<img class="img-responsive margin-bottom-10" src="images/item_images/80000/79182_gallery.jpg" alt="First Date Tips: How to Communicate with Russian... photo">
+							</a>
+								<h3><a href="travel/03/2016/07/first-date-tips-how-to-communicate-with-russian-girls.html">First Date Tips: How to Communicate with Russian...</a></h3>
+							</div>
+						</div>
+
+						<div class="col-sm-3 col-xs-6 sm-margin-bottom-30">
+							<!-- Blog Thumb v4 -->
+							<div class="blog-thumb-v4">
+							<a href="tech/05/2016/20/why-students-should-hir-essay-writing-services.html" title="Why Students Should Hire Essay Writing Services?">
+								<img class="img-responsive margin-bottom-10" src="images/item_images/80000/79204_gallery.jpg" alt="Why Students Should Hire Essay Writing Services? photo">
+							</a>
+								<h3><a href="tech/05/2016/20/why-students-should-hir-essay-writing-services.html">Why Students Should Hire Essay Writing Services?</a></h3>
+							</div>
+						</div><div class="clear"></div>
+
+						<div class="col-sm-3 col-xs-6 sm-margin-bottom-30">
+							<!-- Blog Thumb v4 -->
+							<div class="blog-thumb-v4">
+							<a href="tech/05/2016/20/Hiring-an-essay-writing-company-to-get-help-in-your-essay-assignment.html" title="Hiring an Essay Writing Company to Get Help in...">
+								<img class="img-responsive margin-bottom-10" src="images/item_images/80000/79203_gallery.jpg" alt="Hiring an Essay Writing Company to Get Help in... photo">
+							</a>
+								<h3><a href="tech/05/2016/20/Hiring-an-essay-writing-company-to-get-help-in-your-essay-assignment.html">Hiring an Essay Writing Company to Get Help in...</a></h3>
+							</div>
+						</div>
+
+						<div class="col-sm-3 col-xs-6 sm-margin-bottom-30">
+							<!-- Blog Thumb v4 -->
+							<div class="blog-thumb-v4">
+							<a href="tech/03/2016/02/importance-of-technology-in-schools.html" title="Importance of Technology in Schools">
+								<img class="img-responsive margin-bottom-10" src="images/item_images/80000/79200_gallery.jpg" alt="Importance of Technology in Schools photo">
+							</a>
+								<h3><a href="tech/03/2016/02/importance-of-technology-in-schools.html">Importance of Technology in Schools</a></h3>
+							</div>
+						</div>
+
       </div>
+
       	<!-- NEW ARTICLES -->	
+
 		<div class="new_articles">
-	    		
-		<div class="new_tabs">
-			<a href="#" class="tab_active">New Articles</a>
-			<a href="#" class="tab_passive">New Mizozos</a>
-		</div>
-		<div class="new_list">
-			
-			<div class="new_small_top">
-				<a href="tech/11/2015/27/barcodes.html" class="small_link">
-					Barcodes?
-				</a>
-				<br>
-				<div class="publisher_name">
-					by <a href="http://erismith.mizozo.com">Erismith</a>
-				</div>
-			</div>
-			<div class="new_small">
-					<a class="cropped-small-link" href="entertainment/11/2015/17/check-out-this-beautiful-russian-woman.html">
-						<img src="http://mizozo.com/images/item_images/79000/78888_small.jpg" alt="">
-					</a>
-				<a href="entertainment/11/2015/17/check-out-this-beautiful-russian-woman.html" class="small_link">
-					Check Out This Beautiful Russian Woman
-				</a>
-				<br>
-				<div class="publisher_name">
-					by <a href="http://super_star.mizozo.com">Super_Star</a>
-				</div>
-			</div>
-			<div class="new_small">
-					<a class="cropped-small-link" href="entertainment/11/2015/11/did-you-forget-about-the-sexy-carly-lauren.html">
-						<img src="http://mizozo.com/images/item_images/79000/78867_small.jpg" alt="">
-					</a>
-				<a href="entertainment/11/2015/11/did-you-forget-about-the-sexy-carly-lauren.html" class="small_link">
-					Did You Forget About The Sexy Carly Lauren?
-				</a>
-				<br>
-				<div class="publisher_name">
-					by <a href="http://snlseo.mizozo.com">snlseo</a>
-				</div>
-			</div>
-			<div class="new_small">
-					<a class="cropped-small-link" href="entertainment/11/2015/08/who-is-this-sexy-blonde-kenna-james.html">
-						<img src="http://mizozo.com/images/item_images/79000/78848_small.jpg" alt="">
-					</a>
-				<a href="entertainment/11/2015/08/who-is-this-sexy-blonde-kenna-james.html" class="small_link">
-					Who Is This Sexy Blonde?  Kenna James!
-				</a>
-				<br>
-				<div class="publisher_name">
-					by <a href="http://grizzly.mizozo.com">Grizzly</a>
-				</div>
-			</div>
-			<div class="new_small">
-					<a class="cropped-small-link" href="sports/11/2015/08/6-tips-for-buying-boat-lifts.html">
-						<img src="http://mizozo.com/images/item_images/79000/78847_small.jpg" alt="">
-					</a>
-				<a href="sports/11/2015/08/6-tips-for-buying-boat-lifts.html" class="small_link">
-					6 Tips for Buying Boat Lifts
-				</a>
-				<br>
-				<div class="publisher_name">
-					by <a href="http://hammer.mizozo.com">Hammer</a>
-				</div>
-			</div>
-			<div class="new_small">
-					<a class="cropped-small-link" href="health/11/2015/08/finding-stress-relief-in-nature.html">
-						<img src="http://mizozo.com/images/item_images/79000/78846_small.jpg" alt="">
-					</a>
-				<a href="health/11/2015/08/finding-stress-relief-in-nature.html" class="small_link">
-					Finding Stress Relief in Nature
-				</a>
-				<br>
-				<div class="publisher_name">
-					by <a href="http://hammer.mizozo.com">Hammer</a>
-				</div>
-			</div>
-			<div class="new_small">
-					<a class="cropped-small-link" href="entertainment/11/2015/05/mia-sollis-is-our-favorite-redhead.html">
-						<img src="http://mizozo.com/images/item_images/79000/78829_small.jpg" alt="">
-					</a>
-				<a href="entertainment/11/2015/05/mia-sollis-is-our-favorite-redhead.html" class="small_link">
-					Mia Sollis Is Our Favorite Redhead
-				</a>
-				<br>
-				<div class="publisher_name">
-					by <a href="http://tanira.mizozo.com">Tanira</a>
-				</div>
-			</div>
-		</div>
-		<div style="display:none;" class="new_list">
-			
-			<div class="new_small_top">
-				<a href="travel/03/2014/28/my-horrible-experience-with-legendary-preferred-destinations-and-why-they-are-a-scam.html" class="small_link">
-					Fourth Email
-				</a>
-				<br>
-				<div class="publisher_name">
-					by <a href="http://shark.mizozo.com">shark</a>
-				</div>
-			</div>
-			<div class="new_small">
-				<a href="travel/03/2014/28/my-horrible-experience-with-legendary-preferred-destinations-and-why-they-are-a-scam.html" class="small_link">
-					Third Email
-				</a>
-				<br>
-				<div class="publisher_name">
-					by <a href="http://shark.mizozo.com">shark</a>
-				</div>
-			</div>
-			<div class="new_small">
-				<a href="travel/03/2014/28/my-horrible-experience-with-legendary-preferred-destinations-and-why-they-are-a-scam.html" class="small_link">
-					Third Response
-				</a>
-				<br>
-				<div class="publisher_name">
-					by <a href="http://shark.mizozo.com">shark</a>
-				</div>
-			</div>
-			<div class="new_small">
-				<a href="travel/03/2014/28/my-horrible-experience-with-legendary-preferred-destinations-and-why-they-are-a-scam.html" class="small_link">
-					Second Response
-				</a>
-				<br>
-				<div class="publisher_name">
-					by <a href="http://shark.mizozo.com">shark</a>
-				</div>
-			</div>
-			<div class="new_small">
-				<a href="travel/03/2014/28/my-horrible-experience-with-legendary-preferred-destinations-and-why-they-are-a-scam.html" class="small_link">
-					Second Email
-				</a>
-				<br>
-				<div class="publisher_name">
-					by <a href="http://shark.mizozo.com">shark</a>
-				</div>
-			</div>
-			<div class="new_small">
-				<a href="travel/03/2014/28/my-horrible-experience-with-legendary-preferred-destinations-and-why-they-are-a-scam.html" class="small_link">
-					First Response
-				</a>
-				<br>
-				<div class="publisher_name">
-					by <a href="http://shark.mizozo.com">shark</a>
-				</div>
-			</div>
-			<div class="new_small">
-				<a href="travel/03/2014/28/my-horrible-experience-with-legendary-preferred-destinations-and-why-they-are-a-scam.html" class="small_link">
-					First Email
-				</a>
-				<br>
-				<div class="publisher_name">
-					by <a href="http://shark.mizozo.com">shark</a>
-				</div>
-			</div>
-		</div>
+
+	    			<div class="blog-thumb margin-bottom-20">
+										<div class="blog-thumb-hover">
+											<img src="images/item_images/0/_gallery.jpg" alt="How online gaming has developed in the gambling...">
+											<a class="hover-grad" href="biz/05/2016/27/how-online-gaming-has-developed-in-the-gambling-industry.html" title="How online gaming has developed in the gambling..."><i class="fa fa-link"></i></a>
+										</div>
+										<div class="blog-thumb-desc">
+											<h3><a href="biz/05/2016/27/how-online-gaming-has-developed-in-the-gambling-industry.html" title="How online gaming has developed in the gambling...">How online gaming has developed in the gambling...</a></h3>
+											<ul class="blog-thumb-info">
+												<li>Matilda</li>
+								
+											</ul>
+										</div>
+									</div>		<div class="blog-thumb margin-bottom-20">
+										<div class="blog-thumb-hover">
+											<img src="images/item_images/80000/79204_gallery.jpg" alt="Why Students Should Hire Essay Writing Services?">
+											<a class="hover-grad" href="tech/05/2016/20/why-students-should-hir-essay-writing-services.html" title="Why Students Should Hire Essay Writing Services?"><i class="fa fa-link"></i></a>
+										</div>
+										<div class="blog-thumb-desc">
+											<h3><a href="tech/05/2016/20/why-students-should-hir-essay-writing-services.html" title="Why Students Should Hire Essay Writing Services?">Why Students Should Hire Essay Writing Services?</a></h3>
+											<ul class="blog-thumb-info">
+												<li>Matilda</li>
+								
+											</ul>
+										</div>
+									</div>		<div class="blog-thumb margin-bottom-20">
+										<div class="blog-thumb-hover">
+											<img src="images/item_images/0/_gallery.jpg" alt="Pollen Allergy: Symptoms, Treatments, Prevention">
+											<a class="hover-grad" href="health/05/2016/20/pollen-allergy-symptoms-treatments-prevention.html" title="Pollen Allergy: Symptoms, Treatments, Prevention"><i class="fa fa-link"></i></a>
+										</div>
+										<div class="blog-thumb-desc">
+											<h3><a href="health/05/2016/20/pollen-allergy-symptoms-treatments-prevention.html" title="Pollen Allergy: Symptoms, Treatments, Prevention">Pollen Allergy: Symptoms, Treatments, Prevention</a></h3>
+											<ul class="blog-thumb-info">
+												<li>johnGilt</li>
+								
+											</ul>
+										</div>
+									</div>		<div class="blog-thumb margin-bottom-20">
+										<div class="blog-thumb-hover">
+											<img src="images/item_images/80000/79203_gallery.jpg" alt="Hiring an Essay Writing Company to Get Help in...">
+											<a class="hover-grad" href="tech/05/2016/20/Hiring-an-essay-writing-company-to-get-help-in-your-essay-assignment.html" title="Hiring an Essay Writing Company to Get Help in..."><i class="fa fa-link"></i></a>
+										</div>
+										<div class="blog-thumb-desc">
+											<h3><a href="tech/05/2016/20/Hiring-an-essay-writing-company-to-get-help-in-your-essay-assignment.html" title="Hiring an Essay Writing Company to Get Help in...">Hiring an Essay Writing Company to Get Help in...</a></h3>
+											<ul class="blog-thumb-info">
+												<li>Matilda</li>
+								
+											</ul>
+										</div>
+									</div>		<div class="blog-thumb margin-bottom-20">
+										<div class="blog-thumb-hover">
+											<img src="images/item_images/0/_gallery.jpg" alt="Web Page Load Time Affects CRO">
+											<a class="hover-grad" href="tech/03/2016/02/web-page-load-time-affects-CRO.html" title="Web Page Load Time Affects CRO"><i class="fa fa-link"></i></a>
+										</div>
+										<div class="blog-thumb-desc">
+											<h3><a href="tech/03/2016/02/web-page-load-time-affects-CRO.html" title="Web Page Load Time Affects CRO">Web Page Load Time Affects CRO</a></h3>
+											<ul class="blog-thumb-info">
+												<li>Matilda</li>
+								
+											</ul>
+										</div>
+									</div>		<div class="blog-thumb margin-bottom-20">
+										<div class="blog-thumb-hover">
+											<img src="images/item_images/0/_gallery.jpg" alt="Installment loans – An Overview">
+											<a class="hover-grad" href="biz/05/2016/20/installment-loans-an-overview.html" title="Installment loans – An Overview"><i class="fa fa-link"></i></a>
+										</div>
+										<div class="blog-thumb-desc">
+											<h3><a href="biz/05/2016/20/installment-loans-an-overview.html" title="Installment loans – An Overview">Installment loans – An Overview</a></h3>
+											<ul class="blog-thumb-info">
+												<li>johnGilt</li>
+								
+											</ul>
+										</div>
+									</div>		<div class="blog-thumb margin-bottom-20">
+										<div class="blog-thumb-hover">
+											<img src="images/item_images/0/_gallery.jpg" alt="Is Forcing a Teenager to Learn to Drive a Good...">
+											<a class="hover-grad" href="health/03/2016/02/is-forcing-a-teenager-to-learn-to-drive-a-good-policy.html" title="Is Forcing a Teenager to Learn to Drive a Good..."><i class="fa fa-link"></i></a>
+										</div>
+										<div class="blog-thumb-desc">
+											<h3><a href="health/03/2016/02/is-forcing-a-teenager-to-learn-to-drive-a-good-policy.html" title="Is Forcing a Teenager to Learn to Drive a Good...">Is Forcing a Teenager to Learn to Drive a Good...</a></h3>
+											<ul class="blog-thumb-info">
+												<li>Matilda</li>
+								
+											</ul>
+										</div>
+									</div>
+
 	    </div>
+
     	</div>
+
  	</div>
-		<!-- footer -->
-		<div id="footer"><a href="signup.php?redirect=member.php%3Fact%3Dpost_article_form">Submit Your Articles</a>
-			<a href="http://www.mizozo.com/terms.html">Terms</a>|
-			<a href="http://www.mizozo.com/privacy.html">Privacy Policy</a>|
-			<a href="http://www.mizozo.com/advertise.html">Advertise</a>|
-			<a href="http://www.mizozo.com/about.html">About</a>|
-			<a href="http://www.mizozo.com/contact.html">Contact</a>|
-			<a href="http://www.mizozo.com/faqs.php">FAQ</a>|
-			<a id="feedback_footer" href="feedback.php">FeedBack</a>|
-			<a href="http://www.mizozo.org/">The Blog</a>|
-			<a href="http://www.mizozo.com/seo.php">SEO</a>|
-			<a href="http://www.mizozo.com/rss.xml">RSS</a>
-			<p>© 2015 Mizozo LLC</p>
-		</div>
+
+	<div class="footer-v8">
+		<footer class="footer">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-3 col-sm-6 column-one md-margin-bottom-50">
+						<a href="/"><img class="footer-logo" src="assets/img/themes/logo-news-light-default.png" alt=""></a>
+						<p class="margin-bottom-20">Mizozo is a news blog which display user generated premium content.</p>
+
+						<span>Contact us:</span>
+						<a href="#">mizozo.com@gmail.com</a>
+					</div>
+
+					<div class="col-md-3 col-sm-6 md-margin-bottom-50">
+						<h2>Tags</h2>
+						<!-- Tag Links v4 -->
+						<ul class="tags-v4 margin-bottom-40">
+							<li><a class="rounded-4x" href="/tag/Photos">Photo</a></li>
+							<li><a class="rounded-4x" href="/tag/Sexy">Sexy</a></li>
+							<li><a class="rounded-4x" href="/tag/Naked">Naked</a></li>
+							<li><a class="rounded-4x" href="/tag/Nude">Nude</a></li>
+							<li><a class="rounded-4x" href="/tag/Pics">Pics</a></li>
+							<li><a class="rounded-4x" href="/tag/Athletes">Athletes</a></li>
+						</ul>
+						<!-- End Tag Links v4 -->
+
+						<h2>Useful Links</h2>
+						<!-- Footer Lists -->
+						<ul class="footer-lists">
+						
+						<li><i class="fa fa-angle-right"></i><a href="signup.php?redirect=member.php%3Fact%3Dpost_article_form">Submit Your Articles</a></li>
+							<li><i class="fa fa-angle-right"></i><a href="http://www.mizozo.com/rss.xml">RSS</a></li>
+							<li><i class="fa fa-angle-right"></i><a href="http://www.mizozo.com/seo.php">SEO</a></li>
+							<li><i class="fa fa-angle-right"></i><a href="http://www.mizozo.org/">The Blog</a></li>
+							<li><i class="fa fa-angle-right"></i><a href="http://www.mizozo.com/faqs.php">FAQ</a></li>
+							<li><i class="fa fa-angle-right"></i><a id="feedback_footer" href="feedback.php">FeedBack</a></li>
+						</ul>
+						<!-- End Footer Lists -->
+					</div>
+
+					<div class="col-md-3 col-sm-6 md-margin-bottom-50">
+												<h2>Newsletter</h2>
+						<p><strong>Subscribe</strong> to our newsletter and stay up to date with the latest news and deals!</p><br>
+
+						<!-- Form Group -->
+						<div class="input-group margin-bottom-50">
+							<input class="form-control" type="email" placeholder="Enter email">
+							<div class="input-group-btn">
+								<button type="button" class="btn-u input-btn">Subscribe</button>
+							</div>
+						</div>
+						<!-- End Form Group -->
+
+					</div>
+
+					<div class="col-md-3 col-sm-6">
+
+
+						<h2>Social Network</h2>
+						<p><strong>Follow Us</strong> If you want to be kept up to date about what’s going on, minute by minute, then search for Grant and give us a follow!</p><br>
+
+						<!-- Social Icons -->
+						<ul class="social-icon-list margin-bottom-20">
+							<li><a href="https://twitter.com/mizoz0"><i class="rounded-x fa fa-twitter"></i></a></li>
+							<li><a href="https://www.facebook.com/mizozo"><i class="rounded-x fa fa-facebook"></i></a></li>
+							<li><a href="https://www.pinterest.com/mizozo_official"><i class="rounded-x fa fa-pinterest"></i></a></li>
+
+						</ul>
+						<!-- End Social Icons -->
+					</div>
+				</div><!--/end row-->
+			</div><!--/end container-->
+		</footer>
+
+		<footer class="copyright">
+			<div class="container">
+				<ul class="list-inline terms-menu">
+					<li>© 2016 Mizozo LLC</li>
+					<li class="home"><a href="http://www.mizozo.com/terms.html">Terms of Use</a></li>
+					<li><a href="http://www.mizozo.com/privacy.html">Privacy and Policy</a></li>
+					<li><a href="https://megabuzz.fr/acheter-des-followers-twitter" alt="Created Acheter des followers twitter">Acheter des followers twitter</a></li>
+					<li><a href="https://megabuzz.fr/acheter-des-followers-instagram" alt="Created Acheter des followers instagram">Acheter des followers instagram</a></li>
+					
+				</ul>
+			</div><!--/end container-->
+		</footer>
+	</div>
+	<!--=== End Footer v8 ===-->
+	<div class="cd-user-modal"> <!-- this is the entire modal form, including the background -->
+		<div class="cd-user-modal-container"> <!-- this is the container wrapper -->
+			<ul class="cd-switcher">
+				<li><a href="javascript:void(0);">Login</a></li>
+			</ul>
+
+			<div id="cd-login"> <!-- log in form -->
+				<form class="cd-form">
+
+
+					<p class="fieldset">
+						<label class="image-replace cd-email" for="signin-email">E-mail</label>
+						<input class="full-width has-padding has-border" id="signin-email" type="email" placeholder="E-mail">
+						<span class="cd-error-message">Error message here!</span>
+					</p>
+
+					<p class="fieldset">
+						<label class="image-replace cd-password" for="signin-password">Password</label>
+						<input class="full-width has-padding has-border" id="signin-password" type="text" placeholder="Password">
+						<a href="javascript:void(0);" class="hide-password">Hide</a>
+						<span class="cd-error-message">Error message here!</span>
+					</p>
+
+					<p class="fieldset">
+						<input type="checkbox" id="remember-me" checked="">
+						<label for="remember-me">Remember me</label>
+					</p>
+
+					<p class="fieldset">
+						<input class="full-width" type="submit" value="Login">
+					</p>
+				</form>
+
+				<p class="cd-form-bottom-message"><a href="javascript:void(0);">Forgot your password?</a></p>
+				<!-- <a href="javascript:void(0);" class="cd-close-form">Close</a> -->
+			</div> <!-- cd-login -->
+
+			<div id="cd-signup"> <!-- sign up form -->
+				<form class="cd-form">
+
+
+					<p class="fieldset">
+						<label class="image-replace cd-username" for="signup-username">Username</label>
+						<input class="full-width has-padding has-border" id="signup-username" type="text" placeholder="Username">
+						<span class="cd-error-message">Error message here!</span>
+					</p>
+
+					<p class="fieldset">
+						<label class="image-replace cd-email" for="signup-email">E-mail</label>
+						<input class="full-width has-padding has-border" id="signup-email" type="email" placeholder="E-mail">
+						<span class="cd-error-message">Error message here!</span>
+					</p>
+
+					<p class="fieldset">
+						<label class="image-replace cd-password" for="signup-password">Password</label>
+						<input class="full-width has-padding has-border" id="signup-password" type="text" placeholder="Password">
+						<a href="javascript:void(0);" class="hide-password">Hide</a>
+						<span class="cd-error-message">Error message here!</span>
+					</p>
+
+					<p class="fieldset">
+						<input type="checkbox" id="accept-terms">
+						<label for="accept-terms">I agree to the <a href="javascript:void(0);">Terms</a></label>
+					</p>
+
+					<p class="fieldset">
+						<input class="full-width has-padding" type="submit" value="Create account">
+					</p>
+				</form>
+
+				<!-- <a href="javascript:void(0);" class="cd-close-form">Close</a> -->
+			</div> <!-- cd-signup -->
+
+			<div id="cd-reset-password"> <!-- reset password form -->
+				<p class="cd-form-message">Lost your password? Please enter your email address. You will receive a link to create a new password.</p>
+
+				<form class="cd-form">
+					<p class="fieldset">
+						<label class="image-replace cd-email" for="reset-email">E-mail</label>
+						<input class="full-width has-padding has-border" id="reset-email" type="email" placeholder="E-mail">
+						<span class="cd-error-message">Error message here!</span>
+					</p>
+
+					<p class="fieldset">
+						<input class="full-width has-padding" type="submit" value="Reset password">
+					</p>
+				</form>
+
+				<p class="cd-form-bottom-message"><a href="javascript:void(0);">Back to log-in</a></p>
+			</div> <!-- cd-reset-password -->
+			<a href="javascript:void(0);" class="cd-close-form">Close</a>
+		</div> <!-- cd-user-modal-container -->
+	</div> <!-- cd-user-modal -->
+<!--/wrapper-->
 		<div class="hidden-content">
 				
 		<div id="mizozo_login_form">
@@ -420,38 +826,80 @@
 				<h2 class="message-title"></h2>
 				<div class="message-body"></div>
 		</div>
-		<a id="custom-fake-link" href="#custom-message">fake link</a>
-			
-		<div id="what_is">
-			<h2>What is Mizozo? </h2>
-			<p><span style="font-size: large;">Mizozo is a user generated content site which is in the process of a major shift in business. Originally a news site, Mizozo is now becoming the first truly transparent corporate entity. Not only will everything be laid out, but everyone will have a say in how things are run and get a cut of the revenue. Yes, Socialism.</span></p>
+			<a id="custom-fake-link" href="#custom-message">fake link</a>
+				
+			<div id="what_is">
+				<h2>What is Mizozo? </h2>
+				<p><span style="font-size: large;">Mizozo is a user generated content site which is in the process of a major shift in business. Originally a news site, Mizozo is now becoming the first truly transparent corporate entity. Not only will everything be laid out, but everyone will have a say in how things are run and get a cut of the revenue. Yes, Socialism.</span></p>
 <p><span style="font-size: large;">2013 is going to be a year of massive change.&nbsp;</span></p>
 <p>For more information, check out <a href="http://www.mizozo.org/" target="_blank">the blog</a>.&nbsp;</p>
+			</div>
+			
 		</div>
-		
-	</div><!-- Quantcast Tag -->
-<script type="text/javascript">
-var _qevents = _qevents || [];
 
-(function() {
-var elem = document.createElement("script");
-elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-elem.async = true;
-elem.type = "text/javascript";
-var scpt = document.getElementsByTagName("script")[0];
-scpt.parentNode.insertBefore(elem, scpt);
-})();
 
-_qevents.push({
-qacct:"p--eEBzArn2N9Qd"
-});
+
+
+	<script type="text/javascript" src="js/jcarousellite/jcarousellite_1.0.1.pack.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
+
+
+
+	<script src="assets/plugins/jquery/jquery-migrate.min.js"></script>
+	<script src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+	<!-- JS Implementing Plugins -->
+	<script src="assets/plugins/back-to-top.js"></script>
+	<script src="assets/plugins/smoothScroll.js"></script>
+	<script src="assets/plugins/counter/waypoints.min.js"></script>
+	<script src="assets/plugins/counter/jquery.counterup.min.js"></script>
+	<script src="assets/plugins/fancybox/source/jquery.fancybox.pack.js"></script>
+	<script src="assets/plugins/owl-carousel/owl-carousel/owl.carousel.js"></script>
+	<script src="assets/plugins/master-slider/masterslider/masterslider.js"></script>
+	<script src="assets/plugins/master-slider/masterslider/jquery.easing.min.js"></script>
+	<script src="assets/plugins/modernizr.js"></script>
+	<script src="assets/plugins/login-signup-modal-window/js/main.js"></script> <!-- Gem jQuery -->
+	<!-- JS Customization -->
+	<script src="assets/js/custom.js"></script>
+	<!-- JS Page Level -->
+	<script src="assets/js/app.js"></script>
+	<script src="assets/js/plugins/fancy-box.js"></script>
+	<script src="assets/js/plugins/owl-carousel.js"></script>
+	<script src="assets/js/plugins/master-slider-showcase1.js"></script>
+	<script src="assets/js/plugins/style-switcher.js"></script>
+	<script type="text/javascript">
+  var vglnk = { key: '5aec5d2a5715474729d180813122cb7b' };
+
+  (function(d, t) {
+    var s = d.createElement(t); s.type = 'text/javascript'; s.async = true;
+    s.src = '//cdn.viglink.com/api/vglnk.js';
+    var r = d.getElementsByTagName(t)[0]; r.parentNode.insertBefore(s, r);
+  }(document, 'script'));
 </script>
 
-<noscript>
-<div style="display:none;">
-<img src="//pixel.quantserve.com/pixel/p--eEBzArn2N9Qd.gif" border="0" height="1" width="1" alt="Quantcast"/>
-</div>
-</noscript>
-<!-- End Quantcast tag -->		
+	<script>
+	jQuery(document).ready(function() {
+		App.init();
+		App.initCounter();
+		FancyBox.initFancybox();
+		OwlCarousel.initOwlCarousel();
+		OwlCarousel.initOwlCarousel2();
+		StyleSwitcher.initStyleSwitcher();
+		MasterSliderShowcase1.initMasterSliderShowcase1();
+	});
+</script>
+<!--[if lt IE 9]>
+	<script src="assets/plugins/respond.js"></script>
+	<script src="assets/plugins/html5shiv.js"></script>
+	<script src="assets/plugins/placeholder-IE-fixes.js"></script>
+<![endif]-->
+
+
+
+
+
+
+
 	
-	</div></body></html>
+	
+	
+</body></html>
