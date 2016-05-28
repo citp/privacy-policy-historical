@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the portada-online.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121132422id_/http%3A//www.portada-online.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portada-online.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528175043id_/http%3A//www.portada-online.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy » Portada
 
 At Portada we recognize that privacy is important. This Privacy Policy applies to all of the products, services and websites offered by Portada. Portada adheres to the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement. If you have any questions about this Privacy Policy, please feel free to [contact us](http://www.portada-online.com/marketingtohispanics/contact-portada/) through our website or write to us at
 
@@ -21,7 +21,7 @@ A substantial part of the content posted on our website does not  require you t
   * **Cookies** – When you visit Portada, we send one or more cookies – a small file containing a string of characters – to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people search. Portada also uses cookies in its advertising services to help advertisers and publishers serve and manage ads across the web. We may set a cookie in your browser when you visit a website and view or click on an ad supported by Portada’s advertising services.
   * **Log information** – When you access Portada services, our servers automatically record information that your browser sends whenever you visit a website. These server may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
   * **User communications** – When you send email or other communications to Portada, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
-  * **Links** – Portada may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology, customized content and advertising. For more information about links and redirected URLs, please see our [FAQs](http://www.google.com/intl/en/privacy_glossary.html#urls).
+  * **Links** – Portada may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology, customized content and advertising. For more information about links and redirected URLs, please see our [F](http://www.google.com/intl/en/privacy_glossary.html#urls)AQ[s](http://www.google.com/intl/en/privacy_glossary.html#urls).
 
 
 
@@ -29,7 +29,7 @@ Portada only processes personal information for the purposes described in this P
 
   * Auditing, research and analysis in order to maintain, protect and improve our services;
   * Ensuring the technical functioning of our websites/products
-  * Developing new services.
+  * Developing new services such as databases.
 
 
 
@@ -37,7 +37,7 @@ Portada only processes personal information for the purposes described in this P
 
 When you sign up for a particular service that requires registration, we ask you to provide personal information.  By submitting this information,n we ask you to confirm that you are  only acting for your  own e-mail account, or one for which you have express authority to submit this request.
 
-We will not collect or use informationi for purposes other than those described in this Privacy Policy and/or in the supplementary service privacy notices, unless we have obtained your prior consent.
+We will not collect or use information for purposes other than those described in this Privacy Policy and/or in the supplementary service privacy notices, unless we have obtained your prior consent.
 
 Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent.
 
@@ -47,7 +47,7 @@ You can decline to submit personal information to any of our services, in which 
 
 Portada only shares personal information with other companies or individuals outside of Portada in the following limited circumstances:
 
-  * Once the subscription (Free E-newsletters, Paid Subscriptions, Databases, Event Tickets)  is confirmed, subscribers accept e-mails from third parties that are targeted to the areas
+  * Once the subscription (Free E-newsletters, Paid Subscriptions, Databases, Event Tickets)  is confirmed, subscribers may get e-mails from third parties that are related to the areas the subscriber opted into.
 
 
 
@@ -58,9 +58,8 @@ We may share with third parties certain pieces of such as the number of users wh
 Please contact us at the address below for any additional questions about the management or use of personal data.
 
 Portada  
-315 Fifth Avenue, Ste. 702  
-NY, NY 10016  
-USA
+40 W. 38th Street , Fifth Floor  
+NY, NY 10018
 
 ### Information security
 
