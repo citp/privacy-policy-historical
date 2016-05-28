@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the windows7themes.net privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918184251id_/http%3A//windows7themes.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windows7themes.net privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528091118id_/http%3A//windows7themes.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[](http://windows7themes.net/javascript-disabled/)[](http://windows7themes.net/windows-7-shortcuts-overview/)
 
 _Worried about your privacy?_  
   
@@ -34,30 +32,6 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-  
+### Alternative Solutions: Auto-Repair Your PC And Drivers
 
-
-### Trending On Windows Themes .Net
-
-### Related Posts
-
-**Written by:**   
-Oliver is the founder and lead editor of this site. He is interested in finding new ways to break Windows, find common errors and help others to fix them. Aside from that, he loves to fully customize systems with Rainmeter and Dreamscene, find out more about ancient civilizations like the Chachapoya, sharpen his digital photography skills and create software with a small group of selected developers. If you would like to connect with him to discuss anything, send him a mail!
-
- **[Learn More About.Me](http://about.me/oliver.krautscheid)**
-
-Follow me on Twitter for daily updates:
-
-Contact The Author:   
-[Support Mail](mailto:support@windows7themes.net)
-
-Connect With Our Site:
-
-_Need help? Ask a question at our QA site, click the red button to get started:_
-
- **Want to support us?** Great, simply buy your favorite games from G2A via our referral link (g2a.com/r/win7themes) and save money at the same time:
-
-  
-
-
-#### What are others reading today?
+ **Still Having Trouble?** [Try TWEAKBIT FIXMYPC - FREE](http://windows7themes.net/reviews/tweakbit-fixmypc-2016-auto-repair-kit-for-your-pc/)
