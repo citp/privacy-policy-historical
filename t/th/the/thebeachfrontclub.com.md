@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thebeachfrontclub.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206040013id_/http%3A//www.thebeachfrontclub.com/s/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebeachfrontclub.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528054302id_/http%3A//www.true-beachfront.com/s/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policies of The Beachfront Club -
+# privacy policy
+
+## Privacy Policies of True Beachfront
 
 ### 1\. we respect our members' privacy 
 
@@ -18,7 +20,7 @@ In addition to the two, minimum log-in data fields required for registration as 
 
 ### 4\. no advertising whatsoever
 
-The Beachfront Club does not favour on-line advertising in any form. The Club website does not carry banner or other advertising on its website, save the simple promotions of member hotels and the special offers they wish to promote. We will never send advertising to the e-mail contacts we collect nor will we ever give, rent or sell those e-mail contacts to any third party engaged in advertising or spamming.
+True Beachfront does not favour on-line advertising in any form. The Club website does not carry banner or other advertising on its website, save the simple promotions of member hotels and the special offers they wish to promote. We will never send advertising to the e-mail contacts we collect nor will we ever give, rent or sell those e-mail contacts to any third party engaged in advertising or spamming.
 
 ### 5\. Information from other sources
 
@@ -32,7 +34,7 @@ In some locations within the website you might have opportunity to provide the B
 
 The information we collect about members through our log-in and profile functions, or from other sources, will be kept in a secure and confidential manner. The only other parties permitted access to any part of this information will be those performing a function necessary for the operation of this website, such as a provider of newsletter distribution services engaged by the BFC. In such cases the third party will be forbidden to disclose the BFC's member contacts and information or utilize these for any other purpose.
 
-The only other parties that may be given access to personal information are websites or businesses within, or associated with, The Beachfront Club group. 
+The only other parties that may be given access to personal information are websites or businesses within, or associated with, True Beachfront group. 
 
 ### 8\. personal profiles
 
@@ -46,7 +48,7 @@ Our newsletters, bulletins and promotions are restricted to our own BFC on-line 
 
 Our policy is to make contact with companies and individuals that can benefit from our website services and will thus be pleased to learn about the site. We wish to avoid becoming part of the growing problem of unwanted, annoying spam. 
 
-E-mails introducing The Beachfront Club website and services are sent to e-mail addresses of companies and individuals that we have gathered through serious research and who we believe can gain advantage from the BFC services. These include hotels that we have mapped, travel-related businesses including travel agents, tour operators, travel writers and travel newsletters. We seek individual photographers, writers, reviewers and bloggers who have an interest in beaches and who we believe will be interested in posting to the BFC website. We send only such targeted e-mails that result from our own research and never purchase mail lists from third parties.
+E-mails introducing True Beachfront website and services are sent to e-mail addresses of companies and individuals that we have gathered through serious research and who we believe can gain advantage from the BFC services. These include hotels that we have mapped, travel-related businesses including travel agents, tour operators, travel writers and travel newsletters. We seek individual photographers, writers, reviewers and bloggers who have an interest in beaches and who we believe will be interested in posting to the BFC website. We send only such targeted e-mails that result from our own research and never purchase mail lists from third parties.
 
 All of our news bulletins and many e-mails carry an opt-out function allowing people to choose to be permanently removed from our lists.
 
@@ -58,6 +60,6 @@ From time to time the BFC may offer prizes through contests and other promotions
 
 Following standard practice for membership websites we may place cookies in your computer to enhance your experience in various ways, including a cookie that recognises you and provides a fast-track log-in. You can delete the cookies at any time, though doing so might make your use of the BFC website slower and less convenient.
 
-### 13\. keep up-to-date on The Beachfront Club's policies
+### 13\. keep up-to-date on True Beachfront's policies
 
-The Beachfront Club reserves the right to make changes to its Privacy Policies or to update them as and when it sees the need. It is your responsibility to check these policies on our website in a timely manner to keep abreast of any changes to clauses that might affect you.
+True Beachfront reserves the right to make changes to its Privacy Policies or to update them as and when it sees the need. It is your responsibility to check these policies on our website in a timely manner to keep abreast of any changes to clauses that might affect you.
