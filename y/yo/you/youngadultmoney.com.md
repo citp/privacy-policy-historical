@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the youngadultmoney.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114323id_/http%3A//www.youngadultmoney.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngadultmoney.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529000057id_/http%3A//www.youngadultmoney.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Young Adult Money
-
-## Privacy Policy
 
 Our privacy policy is in place to protect you as a user of this website. 
 
