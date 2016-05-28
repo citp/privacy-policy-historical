@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dedicatednetworks.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130030527id_/http%3A//www.dedicatedmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dedicatednetworks.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528111637id_/http%3A//www.dedicatedmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dedicated Media | Dedicated Media
 
