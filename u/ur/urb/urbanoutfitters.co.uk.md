@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbanoutfitters.co.uk privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913113136id_/http%3A//www.urbanoutfitters.com/uk/help/privacy_security.jsp%3Fcm_sp%3DEXPANDED_FOOTER-_-PRIVACY-_-privacy_security.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanoutfitters.co.uk privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528021627id_/http%3A//www.urbanoutfitters.com/uk/help/privacy_security.jsp%3Fcm_sp%3DEXPANDED_FOOTER-_-PRIVACY-_-privacy_security.jsp) for the most accurate reproduction.*
 
 # Privacy & Security - Urban Outfitters
 
@@ -18,7 +18,7 @@ When you contact us with a question, feedback or other comment, you may be asked
 
 ##### WEBSITE INFORMATION COLLECTED
 
-You can visit this site [www.urbanoutfitters.com/uk](https://web.archive.org/web/20150913113136id_/http%3A//www.urbanoutfitters.com/uk/help/www.urbanoutfitters.com/uk) without telling us who you are or providing us with any personal information. However, we collect the IP (Internet Protocol) addresses of all our website visitors and other related information such as page requests, browser type, operating system and average time spent on our website. We use this information to monitor and improve our website.
+You can visit this site [www.urbanoutfitters.com/uk](http://www.urbanoutfitters.com/uk/index.jsp) without telling us who you are or providing us with any personal information. However, we collect the IP (Internet Protocol) addresses of all our website visitors and other related information such as page requests, browser type, operating system and average time spent on our website. We use this information to monitor and improve our website.
 
 We use cookies and similar technologies to collect information about the pages you access or visit. Cookies are bits of information that are automatically stored on your computer so we can recognise you when you return. We use cookies to better understand your use of the Urban Outfitters Europe website so that we may continue to refine and improve the website. If you do not wish to have cookies on your system, you can set your browser preferences to disable them. However, if you decide not to accept cookies, you may not be able to take advantage of all of the features on the Urban Outfitters Europe website. The information collected through cookies may be combined with other identifiable personal information (such as demographic information) from our records and other sources. We may use this combined information for future marketing initiatives and to help us improve our website presentation.
 
