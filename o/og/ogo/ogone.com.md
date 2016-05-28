@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ogone.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909230747id_/http%3A//payment-services.ingenico.com/int/en/cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ogone.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529010110id_/https%3A//payment-services.ingenico.com/int/en/cookie-policy) for the most accurate reproduction.*
 
 # Privacy policy - Ingenico Payment Services - International
 
@@ -6,7 +6,7 @@
 
 **Who is Ingenico Payment Services?**
 
-Ingenico Payment Services is a group of companies offering technical solutions to process online payments in e-commerce, MoTo and other sectors. The Ingenico Payment Services group consists of several entities, an overview of which is available on the '[Our locations](https://web.archive.org/int/en/about-ingenico-payment-services/locations)' page. With respect to any of your personal data collected during or otherwise processed in connection with your visit of an Ingenico Payment Services website, Ingenico e-Commerce Solutions BVBA/SPRL acts as data controller. 
+Ingenico Payment Services is a group of companies offering technical solutions to process online payments in e-commerce, MoTo and other sectors. The Ingenico Payment Services group consists of several entities, an overview of which is available on the '[Our locations](https://web.archive.org/int/en/about-ingenico-epayments/locations)' page. With respect to any of your personal data collected during or otherwise processed in connection with your visit of an Ingenico Payment Services website, Ingenico e-Commerce Solutions BVBA/SPRL acts as data controller. 
 
 Processing of your personal data when visiting the Ingenico Payment Services website. Please note that this policy applies to your visit of an Ingenico Payment Services website only and does not apply to payments processed via Ingenico Payment Services. 
 
@@ -28,7 +28,7 @@ Your personal data may be shared with the following third parties and recipients
 
 **Transfer of personal data outside European Economic Area**
 
-You understand and accept that by using our website, your personal data can be transferred to countries outside of the European Union, which do not offer an adequate level of protection. Please note that our US entity Ingenico Payment Services Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries and Switzerland. Ingenico Payment Services Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program and to view Ingenico Payment Services Inc.’s certification, please visit <http://www.export.gov/safeharbor/>. In case you have any complaints, please note that Ingenico Payment Services Inc. has committed to co-operate with data protection authorities located in the European Union and Switzerland, or their authorized representatives. 
+You understand and accept that by using our website, your personal data can be transferred to countries outside of the European Union, which do not offer an adequate level of protection. Please note that our US entity Ingenico e-Commerce Solutions Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries and Switzerland. Ingenico Payment Services Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program and to view Ingenico Payment Services Inc.’s certification, please visit <http://www.export.gov/safeharbor/>. In case you have any complaints, please note that Ingenico Payment Services Inc. has committed to co-operate with data protection authorities located in the European Union and Switzerland, or their authorized representatives. 
 
 **Cookies**
 
