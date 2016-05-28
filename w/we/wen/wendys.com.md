@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wendys.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905075220id_/https%3A//www.wendys.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wendys.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528131529id_/https%3A//www.wendys.com/en-us/privacy-policy) for the most accurate reproduction.*
 
 # Wendy's Privacy Policy - Wendy's
 
@@ -6,30 +6,21 @@ Contents
 
 ## Quality is our Recipe
 
-[About Us](https://web.archive.org/en-us/about-wendys)| [Careers](https://web.archive.org/en-us/careers)
+[About Us](https://web.archive.org/en-us/about-wendys)| [Careers](http://careers.wendys.com/)
 
   * Dine
   * Learn
   * Play
-  * Find
-
-{{ i18n.dictionary.restaurant.noneFound }} 
-
-    * {{ address1() }}  
-{{ address2() }}  
-{{ phone() | phone }} 
-
-{{ hours() | prefix: i18n.dictionary.restaurant.open:hasHours() }}  
-{{ i18n.dictionary.restaurant.holidayHoursVary }} 
-
-  * My Wendy's {{ i18n.dictionary.signIn.login }}
+  * [Find](http://find.wendys.com/)
+  * [My Wendy's](http://my.wendys.com/)
 
 {{ i18n.dictionary.signIn.forgot.copy }}
 
+  * [Order](http://order.wendys.com/)
+  * 
 
 
-
-[About Us](https://web.archive.org/en-us/about-wendys)| [Careers](https://web.archive.org/en-us/careers)
+[About Us](https://web.archive.org/en-us/about-wendys)| [Careers](http://careers.wendys.com/)
 
 **Wendy's International, LLC Privacy Policy and Information Security Policy ("Privacy Policy" or "Policy")**
 
