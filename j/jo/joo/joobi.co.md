@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the joobi.co privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911025659id_/http%3A//www.joobi.co/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joobi.co privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528145525id_/https%3A//joobi.co/legal/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Joobi
 
 We take your right to privacy seriously and want you to feel comfortable using our web site. This Privacy Policy deals with personally identifiable information (referred to as "Data" below) that may be collected by us on our site. This Policy does not apply to other entities that we do not own or control or persons that are not our employees, agents or within our control. Please take time to read our Terms of Use.
 
@@ -43,7 +43,7 @@ While this Privacy Policy states our standards for maintenance of Data and we wi
 
 If you have any questions about this Policy or our web site, please feel free to contact our webmaster.
 
-**Joobi Limited**  
+**Joobi**  
 1883/24B Moorefield Rd  
 Johnsonville, Wellington 6037  
 New Zealand
