@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cinebucket.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128112601id_/http%3A//www.cinebucket.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinebucket.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528133916id_/http%3A//www.cinebucket.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
