@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landmarkfestival.org privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106031547id_/http%3A//www.landmarkfestival.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landmarkfestival.org privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528040951id_/http%3A//www.landmarkfestival.org/privacy) for the most accurate reproduction.*
 
 # Privacy & Security Policy | Landmark Music Festival
 
