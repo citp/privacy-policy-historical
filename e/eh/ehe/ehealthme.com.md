@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the ehealthme.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207022204id_/http%3A//www.ehealthme.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehealthme.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528164245id_/http%3A//www.ehealthme.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy policy of eHealthMe - real world drug outcomes
+# 
 
-## Privacy Policy
+### Privacy Policy
 
 eHealthMe.com ("eHealthMe") understands how important the privacy of personal information is to our users. This Privacy Policy will tell you what information we collect about you and about your use of eHealthMe and its services. It will explain the choices you have about how your personal information is used and how we protect that information. We urge you to read this Privacy Policy carefully.
 
-**Part 1: About This Privacy Policy and Using Our Site and Tools**
+Part 1: About This Privacy Policy and Using Our Site and Tools
 
-**Part 2: Non-Personal Information We Collect About You**
+Part 2: Non-Personal Information We Collect About You
 
-**Part 3: Personally Identifiable Information We Collect About You and Third Parties**
+Part 3: Personally Identifiable Information We Collect About You and Third Parties
 
-**Part 4: Disclosure of Your Information**
+Part 4: Disclosure of Your Information
 
-**Part 5: How eHealthMe Handles Privacy and Security Internally**
+Part 5: How eHealthMe Handles Privacy and Security Internally
 
-**Part 6: Third Party Advertisers**
+Part 6: Third Party Advertisers
 
-**Part 7: Changes to this Privacy Policy**
+Part 7: Changes to this Privacy Policy
 
-**Part 8: Glossary**
+Part 8: Glossary
 
 **_Part 1: About This Privacy Policy and Using Our Site and Tools_**
 
