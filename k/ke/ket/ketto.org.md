@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ketto.org privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011093258id_/http%3A//www.ketto.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ketto.org privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528221755id_/https%3A//www.ketto.org/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Ketto.org
+# Privacy Policy - Ketto
 
-We value the trust you place in us. That's why we insist upon the highest standards for secure transactions and User information privacy. Please read the following statement to learn about our information gathering and dissemination practices. The following Privacy Policy should be read along with the Ketto – Terms of Use for a full understanding of Ketto's practices as well as the Users responsibilities when interacting with the site [www.ketto.org](http://www.ketto.org/)
+We value the trust you place in us. That's why we insist upon the highest standards for secure transactions and User information privacy. Please read the following statement to learn about our information gathering and dissemination practices. The following Privacy Policy should be read along with the Ketto – Terms of Use for a full understanding of Ketto's practices as well as the Users responsibilities when interacting with the site [www.ketto.org](https://www.ketto.org/)
 
 This Privacy Policy is published in accordance with the provisions of the Indian Information Technology Act, 2000 and the rules made thereunder, specifically, The Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal data or information) Rules, 2011 and the Information Technology (Intermediary Guidelines) Rules, 2011.
 
@@ -90,16 +90,16 @@ The donors/contributors hereby permit Ketto to share their personal information 
 ### 9\. Retention of Information
 
 Information provided by you to Ketto is processed, stored and retained through our servers and web hosts being Amazon Web Services.  
-Our web hosts and agency managing your information are compliant with IS/ISO/IEC27001 or an equivalent in standards of Security Techniques and Information Security Management System Requirements.
+Our web hosts and agency managing your information are compliant with IS/ISO/IEC27001 or an equivalent in standards of Security Techniques and Information Security Management System Requirements. 
 
 ### 10\. Grievance Officer
 
 In accordance with Information Technology Act 2000 and rules made there under, the name and contact details of the Grievance Officer are provided below:
 
-Varun Sheth  
+**Varun Sheth**  
 Ketto Online Ventures Private Limited  
-Office Number 636, Laxmi Plaza,  
-Sab TV Lane, Off Link Road.  
+Shop No. 20, Andheri Industrial Estate,  
+Off Veera Desai Road.  
 Andheri West, Mumbai- 400 053 (India)  
 Phone: +91- 022 - 65702567  
 Email: [info@ketto.org](mailto:info@ketto.org)  
