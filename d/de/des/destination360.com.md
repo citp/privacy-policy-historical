@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destination360.com privacy policy that was archived on 2015-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150711074251id_/http%3A//www.destination360.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destination360.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528143517id_/http%3A//www.destination360.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Destination360.com
 
