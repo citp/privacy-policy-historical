@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nugenix.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108060943id_/http%3A//www.nugenix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nugenix.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529010210id_/https%3A//www.nugenix.com/privacy) for the most accurate reproduction.*
 
 # Nugenix Free Testosterone | Privacy Policy
 
