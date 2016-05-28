@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lexology.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907103150id_/http%3A//www.lexology.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexology.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528192745id_/http%3A//www.lexology.com/Privacy) for the most accurate reproduction.*
 
-# Lexology
+# Privacy Policy
 
 Globe Business Publishing Ltd ("We") are committed to protecting and respecting your privacy.
 
-This privacy policy (together with our [terms of use](https://web.archive.org/Terms) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data, how we will treat it and the basis on which it will be disclosed to third parties. By visiting [www.lexology.com](http://www.lexology.com/) ("our site") and/or registering for the service and/or providing information about yourself you are accepting and consenting to the practices described in this policy. 
+This privacy policy (together with our [terms of use](https://web.archive.org/Info/Terms) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data, how we will treat it and the basis on which it will be disclosed to third parties. By visiting [www.lexology.com](http://www.lexology.com/) ("our site") and/or registering for the service and/or providing information about yourself you are accepting and consenting to the practices described in this policy. 
 
 For the purpose of the Data Protection Act 1998 (the "Act"), the data controller is Globe Business Publishing Ltd. We have our registered office at St Brides House, 10 Salisbury Square, London, EC4Y 8EH. Our main trading address is New Hibernia House, Winchester Walk, London Bridge, London SE1 9AG. 
 
@@ -27,7 +27,7 @@ We may collect and process the following data about you:
 
 ## COOKIES
 
-Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. Some functions of the website may not be available if cookies are disabled. For detailed information on the cookies we use and the purposes for which we use them see our [Cookie policy](https://web.archive.org/Cookies). 
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. Some functions of the website may not be available if cookies are disabled. For detailed information on the cookies we use and the purposes for which we use them see our [Cookie policy](https://web.archive.org/Info/Cookies). 
 
 ## USES MADE OF THE INFORMATION
 
@@ -55,7 +55,7 @@ We may share your personal information with any member of our group, which means
 
 We will not usually share your personal information with other third parties without your consent but may do so in the following situations: 
 
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/Terms) and other agreements; or to protect the rights, property, or safety of Globe Business Publishing Ltd, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction; 
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/Info/Terms) and other agreements; or to protect the rights, property, or safety of Globe Business Publishing Ltd, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction; 
   * where we share aggregated information which does not identify individuals with potential authors, contributors, subscribers and clients; 
   * where we are requested to provide information by authorised third parties or regulatory or governmental agencies investigating illegal activities; 
   * where we believe that an emergency, illegal activity or some other reasonable basis exists for notifying the relevant authority; 
