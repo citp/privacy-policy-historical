@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the texasobserver.org privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224062728id_/http%3A//www.texasobserver.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasobserver.org privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528192809id_/https%3A//www.texasobserver.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Texas Observer
 
-This website (“[www.TexasObserver.org](http://www.texasobserver.org/)“) is owned by The Texas Democracy Foundation dba _The Texas Observer_. It is our policy to protect your personal information and to use it in accordance with this PrivacyPolicy. Please take a few moments to review our Privacy Policy.
+This website (“[www.TexasObserver.org](https://www.texasobserver.org/)“) is owned by The Texas Democracy Foundation dba _The Texas Observer_. It is our policy to protect your personal information and to use it in accordance with this PrivacyPolicy. Please take a few moments to review our Privacy Policy.
 
 #### Information Collection and Use
 
@@ -12,27 +12,27 @@ The information you provide may include information provided during the registra
 
 Information that you provide is the property of The Texas Observer. All of the information that you providemay be used by The Texas Observer to better serve you. The Texas Observer may also use this informationto contact you about news, donation solicitations, events, and other opportunities. Ways we use information include:
 
-The Texas Observer may use your contact information to get in touch with you regarding the status of your registration or any contributions or orders you may place. You may also be contacted by us regarding contribution receipts, additional solicitations or subscription specials, or requesting your feedback about yourexperience with [TexasObserver.org](http://www.texasobserver.org/).
+The Texas Observer may use your contact information to get in touch with you regarding the status of your registration or any contributions or orders you may place. You may also be contacted by us regarding contribution receipts, additional solicitations or subscription specials, or requesting your feedback about yourexperience with [TexasObserver.org](https://www.texasobserver.org/).
 
 The personally identifiable information that you provide to us and information about your order may becombined with other personally identifiable information (such as demographic information and past purchasehistory) available from our records and other sources. This information will be used to make our futuremarketing efforts more efficient. This information may also be shared with our third party service providersthat assist us with our marketing efforts and with other marketers whose products or services we feel maybe of interest to you. If you prefer that we do not share your name and address with other marketers, please email us at [business@texasobserver.org.](http://mailto:business@texasobserver.org/)
 
-[TexasObserver.org](http://www.texasobserver.org/) may provide you with comment sections, personal blogs, or message boards for youruse. In the event you voluntarily disclose personally identifiable information using such services, thatinformation, along with any content in your communication or post, can be collected, correlated and usedby third parties. This may result in unsolicited messages from third parties. Such activities are beyond thecontrol of The Texas Observer. The Texas Observer does not assume any duty to monitor or review thecontents of any comments or personal blogs.
+[TexasObserver.org](https://www.texasobserver.org/) may provide you with comment sections, personal blogs, or message boards for youruse. In the event you voluntarily disclose personally identifiable information using such services, thatinformation, along with any content in your communication or post, can be collected, correlated and usedby third parties. This may result in unsolicited messages from third parties. Such activities are beyond thecontrol of The Texas Observer. The Texas Observer does not assume any duty to monitor or review thecontents of any comments or personal blogs.
 
-Where technically feasible, the domain names of visitors to [TexasObserver.org](http://www.texasobserver.org/) are automatically recognizedby our server. The Texas Observer may use this information to track the number of visitors to the [TexasObserver.org](http://www.texasobserver.org/) website and to see which pages and services on [TexasObserver.org](http://www.texasobserver.org/) are visited most often.
+Where technically feasible, the domain names of visitors to [TexasObserver.org](https://www.texasobserver.org/) are automatically recognizedby our server. The Texas Observer may use this information to track the number of visitors to the [TexasObserver.org](https://www.texasobserver.org/) website and to see which pages and services on [TexasObserver.org](https://www.texasobserver.org/) are visited most often.
 
-_The Texas Observer_ may provide links on [TexasObserver.org](http://www.texasobserver.org/) to other sites of interest. The Texas Observer does not review or endorse the content of these sites or guarantee that they will abide by this Privacy Policy. Your use of such linked sites is subject to the terms, conditions and privacy policies of the providers of thosesites. We encourage our users to be aware when they leave our website and to read the privacy statementsof each website that collects identifying information.
+_The Texas Observer_ may provide links on [TexasObserver.org](https://www.texasobserver.org/) to other sites of interest. The Texas Observer does not review or endorse the content of these sites or guarantee that they will abide by this Privacy Policy. Your use of such linked sites is subject to the terms, conditions and privacy policies of the providers of thosesites. We encourage our users to be aware when they leave our website and to read the privacy statementsof each website that collects identifying information.
 
-Please note that your use of the [TexasObserver.org](http://www.texasobserver.org/) website and services is subject to [TexasObserver.org’s](http://www.texasobserver.org/)Terms and Conditions.
+Please note that your use of the [TexasObserver.org](https://www.texasobserver.org/) website and services is subject to [TexasObserver.org’s](https://www.texasobserver.org/)Terms and Conditions.
 
 ### Sharing Your Information
 
 #### BY WEBSITE OR PRINT
 
-The Texas Democracy Foundation may publicly acknowledge donors by name and/or description ofdonation, unless the donor requests in writing that the donor does not wish to be publicly acknowledged.Donations may be acknowledged in the print magazine or on [TexasObserver.org](http://www.texasobserver.org/). If a donor choosesto opt out of any acknowledgement listings in printed material or on [TexasObserver.org](http://www.texasobserver.org/), please email [business@texasobserver.org](mailto:business@texasobserver.org), mark your public acknowledgement preferences on the on the donation returnpaperwork, call 800-939-6620 to request that your donation remain anonymous.
+The Texas Democracy Foundation may publicly acknowledge donors by name and/or description ofdonation, unless the donor requests in writing that the donor does not wish to be publicly acknowledged.Donations may be acknowledged in the print magazine or on [TexasObserver.org](https://www.texasobserver.org/). If a donor choosesto opt out of any acknowledgement listings in printed material or on [TexasObserver.org](https://www.texasobserver.org/), please email [business@texasobserver.org](mailto:business@texasobserver.org), mark your public acknowledgement preferences on the on the donation returnpaperwork, call 800-939-6620 to request that your donation remain anonymous.
 
 #### BY E-MAIL
 
-Your privacy is important to us! Your email address will only be used by The Texas Observer. Youremail address will not be shared with any third parties although we reserve the right to present you withadvertisements on their behalf. [TexasObserver.org](http://www.texasobserver.org/) collects emails so that we can send news alerts,donation solicitations, and event invitations and other opportunities that Texas Observer readers may findinteresting. You may unsubscribe to The Texas Observer email list at the bottom of Texas Observer emailsor email [business@texasobserver.org](mailto:business@texasobserver.org) to request to unsubscribe.
+Your privacy is important to us! Your email address will only be used by The Texas Observer. Youremail address will not be shared with any third parties although we reserve the right to present you withadvertisements on their behalf. [TexasObserver.org](https://www.texasobserver.org/) collects emails so that we can send news alerts,donation solicitations, and event invitations and other opportunities that Texas Observer readers may findinteresting. You may unsubscribe to The Texas Observer email list at the bottom of Texas Observer emailsor email [business@texasobserver.org](mailto:business@texasobserver.org) to request to unsubscribe.
 
 #### BY MAIL
 
@@ -58,9 +58,9 @@ In the event of a major business transaction, our customer information may be on
 
 #### Use of Cookies
 
-The use of cookies enables The Texas Observer to enhance your visits to the [TexasObserver.org](http://www.texasobserver.org/) website.Cookies enable [TexasObserver.org](http://www.texasobserver.org/) systems to recognize your browser. We use cookies in a limited way toidentify unique browsers that visit us and to track usage throughout our site.
+The use of cookies enables The Texas Observer to enhance your visits to the [TexasObserver.org](https://www.texasobserver.org/) website.Cookies enable [TexasObserver.org](https://www.texasobserver.org/) systems to recognize your browser. We use cookies in a limited way toidentify unique browsers that visit us and to track usage throughout our site.
 
-The information about readership and site usage that we collect through cookies is aggregated into generalreports about readership and not tied to individual identities, with one exception. [TexasObserver.org](http://www.texasobserver.org/) savesusage information collected solely for the use of our customer support team to help resolve problemssubscribers and donors may have.
+The information about readership and site usage that we collect through cookies is aggregated into generalreports about readership and not tied to individual identities, with one exception. [TexasObserver.org](https://www.texasobserver.org/) savesusage information collected solely for the use of our customer support team to help resolve problemssubscribers and donors may have.
 
 #### Letters to the editor
 
@@ -68,21 +68,21 @@ The Observer asks senders of letters to the editor to include a phone number so 
 
 #### “E-mail to a friend” feature
 
-“E-mail a friend about this story” is a mail service that individual visitors to [TexasObserver.org](http://www.texasobserver.org/) make use ofto send individual e-mails. While this tool cannot be used to send mass “spam” mailings, [TexasObserver.org](http://www.texasobserver.org/) has no control over how our visitors use it, and any e-mail sent through it originates with, and is theresponsibility of the sender, not [TexasObserver.org](http://www.texasobserver.org/). We do not store or save these addresses and you willnot receive e-mail or other communications from The Observer as a result of having used this feature.
+“E-mail a friend about this story” is a mail service that individual visitors to [TexasObserver.org](https://www.texasobserver.org/) make use ofto send individual e-mails. While this tool cannot be used to send mass “spam” mailings, [TexasObserver.org](https://www.texasobserver.org/) has no control over how our visitors use it, and any e-mail sent through it originates with, and is theresponsibility of the sender, not [TexasObserver.org](https://www.texasobserver.org/). We do not store or save these addresses and you willnot receive e-mail or other communications from The Observer as a result of having used this feature.
 
 #### Traffic data
 
-Each time a visitor comes to [TexasObserver.org](http://www.texasobserver.org/), our servers — like most on the Web — collect some basictechnical information, including, for example, the visitor’s domain name, referral data and browser andplatform type.
+Each time a visitor comes to [TexasObserver.org](https://www.texasobserver.org/), our servers — like most on the Web — collect some basictechnical information, including, for example, the visitor’s domain name, referral data and browser andplatform type.
 
-We also count, track and aggregate the visitor’s activity into our analysis of general traffic flows at our site (e.g. tracking where traffic comes from, how traffic flows within the [TexasObserver.org](http://www.texasobserver.org/) sites, etc.). Tothese ends, we may merge information about visitors and visits into group data, which may then be sharedon an aggregated basis with our supporters; but we will not disclose your individual identity or personallyidentifiable data without your permission.
+We also count, track and aggregate the visitor’s activity into our analysis of general traffic flows at our site (e.g. tracking where traffic comes from, how traffic flows within the [TexasObserver.org](https://www.texasobserver.org/) sites, etc.). Tothese ends, we may merge information about visitors and visits into group data, which may then be sharedon an aggregated basis with our supporters; but we will not disclose your individual identity or personallyidentifiable data without your permission.
 
 #### Surveys
 
-[TexasObserver.org](http://www.texasobserver.org/) will from time to time conduct voluntary surveys of visitors to the site to obtain aggregatedemographic information about them. Such information may be compiled and shared in the aggregatewith advertisers and other third parties, but no personal details will be traceable or associated with specificindividuals.
+[TexasObserver.org](https://www.texasobserver.org/) will from time to time conduct voluntary surveys of visitors to the site to obtain aggregatedemographic information about them. Such information may be compiled and shared in the aggregatewith advertisers and other third parties, but no personal details will be traceable or associated with specificindividuals.
 
 #### Accessing and Updating Your Information
 
-You can always choose not to provide information, to opt out of receiving communications from us or toupdate your information at any time. [TexasObserver.org](http://www.texasobserver.org/) gives users the following options:
+You can always choose not to provide information, to opt out of receiving communications from us or toupdate your information at any time. [TexasObserver.org](https://www.texasobserver.org/) gives users the following options:
 
   1. Click on the “Unsubscribe” link included at the bottom of each of our e-mails and follow theinstructions on the web page.
   2. Send an e-mail to our friendly Customer Service representatives at [business@TexasObserver.org](mailto:business@texasobserver.org) with your name and address.
@@ -100,11 +100,11 @@ We also make some content, products and services available through our Services 
 
 #### Privacy Policy Changes
 
-[TexasObserver.org](http://www.texasobserver.org/) may update this Privacy Policy periodically to better serve you.
+[TexasObserver.org](https://www.texasobserver.org/) may update this Privacy Policy periodically to better serve you.
 
 #### For Further Information
 
-If you choose to visit [TexasObserver.org](http://www.texasobserver.org/), your visit and any dispute over privacy is subject to this PrivacyPolicy. If you have questions or comments concerning this Privacy Policy, you may contact us at:
+If you choose to visit [TexasObserver.org](https://www.texasobserver.org/), your visit and any dispute over privacy is subject to this PrivacyPolicy. If you have questions or comments concerning this Privacy Policy, you may contact us at:
 
 The Texas Observer
 
