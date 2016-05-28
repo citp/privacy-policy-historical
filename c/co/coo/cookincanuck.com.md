@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the cookincanuck.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127204308id_/http%3A//www.cookincanuck.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookincanuck.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528175515id_/http%3A//www.cookincanuck.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Cookin Canuck
+
+## Our Privacy Policy
 
 Cookin’ Canuck is dedicated to maintaining the privacy and protection of your personal information.   This privacy policy tells you about the information we collect on our website and how we use that information. By using the Cookin’ Canuck website, you are consenting to the information collection and use practices described in this privacy policy, which may be modified from time to time by us.
 
