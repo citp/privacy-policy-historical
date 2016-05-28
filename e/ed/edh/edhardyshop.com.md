@@ -1,126 +1,77 @@
-> *The following text is extracted and transformed from the edhardyshop.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114084712id_/http%3A//www.edhardyshop.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edhardyshop.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529010252id_/http%3A//www.edhardyoriginals.com/privacy-policy) for the most accurate reproduction.*
 
-# Musictoday Privacy Policy
+# Privacy Policy Ed Hardy | The official website of the Ed Hardy
 
-Published July 18th, 2014
+Iconix Brand Group, Inc., its affiliates and subsidiaries (“Iconix” or, collectively, “us,” “we” or “our”), operate this website (the “Site”). This Privacy Policy sets forth our information practices and is incorporated therein by reference to the Terms and Conditions of Use of this Site. We encourage you to read this Privacy Policy carefully and to contact us if you have any questions. Your use of the Site indicates your acceptance of this Privacy Policy.
 
-This privacy policy applies only to the website owned, operated and maintained by Delivery Agent, Inc. (“DA”) and Musictoday, LLC (“MT”) (collectively referred to as the “Parties”, "we" or "us") where this privacy policy is posted (collectively, the "Site"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITE, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITE. 
+I. WHAT INFORMATION IS COLLECTED AND WHY
 
-  
+a. Information submitted by you  
+At times, we may ask you to provide information about yourself in order to better serve you. For example, some of the information collected may include name, title, address, phone number, email address, and personal information concerning your interests, occupation, gender and other demographic information. We do not require this information to obtain access to any area of our Site, however, you are required to create a new account or login as a registered user prior to ordering any products on our Site. If you wish to correct or remove your account information please follow the procedures set forth below in the section titled “Can I Update or Remove My Account Information?”
 
+b. Information collected by Cookies  
+We also make use of website “cookies” to help you use our services more easily and to help us continuously improve our Site and our service to you. A “cookie” is a small data file that a website can send to your browser, which may then be stored on your computer to help our Site “remember” information about you to make it easier and more efficient to use our Site. Our Site employs session cookies. A session cookie does not remain on your computer after you close your web browser window. Our session cookies contain none of your personal information and cannot be used to track you around the internet. Our session cookies can only be used by this Site and they only exist for the duration of your visit. Depending on the settings in your browser, you may have the option to deny the session cookie; however, doing so may negatively impact upon the performance of the Site or restrict us in better serving your needs and interests. The “help” portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
 
-### **A. Information Collected**
+**Ii. How Is My Information Used?**
 
-This privacy policy applies only to information collected on the Site and does not apply to information collected by us through any other means. We collect the information you provide to us actively, and also collect information automatically from the devices that interact with our Site, as explained below. 
+a. User Identification  
+For our sites that offer user registration, we may retain this information on a secure server so that on re-visiting our Site, you will not need to re-enter that information. We may use this information in an aggregated form to measure number of visits, average time spent on the Site, pages viewed, and other relevant statistics. We collect this information to measure the use of our Site and to improve the content of our Site.
 
-(1) Information You Actively Provide
+b. Contacting You Concerning Promotions and New Products  
+We may request you to “opt-in” to receive certain communications from the Site. We will not send unsolicited messages to you concerning promotions or new products or other marketing material unless you have opted-in. If, after you have opted-in, you no longer wish to receive such communications from us please follow the procedures set forth below in the section titled How Can I “Opt-out” of Receiving E-mail Communications. Please note that your request to stop receiving these communications may not prevent us from sending such messages that were generated prior to the time we were able to process your request.
 
-"We collect registration details and personal information, such as your name, address, telephone number, email address, age, gender, payment details, purchase history, or company name, that you actively provide to us when you register, communicate, or transact business with our Site. 
+c. Use of Your Information  
+At times, we may request you to provide personally identifiable information to identify you as a user of the Site and to assist and speed the completion of transactions on the Site. We may also use information collected about your preferences and activities at the Site, such as the particular pages you request at the Site and purchases or other transactions you effect through the Site. We may vary the content you receive in future visits to the Site based on your preferences and activities.
 
-We receive and store the information that you enter on our Site or give to us in any other way. The above list provides an example of the personally identifiable information that may be collected on the Site. If you do not want us to collect your personally identifiable information, please do not provide it to us. 
+d. Disclosure of Your Information  
+We will not disclose your personally identifiable information to any persons or entities outside of our company, nor lease, license, sublicense, rent, transfer, disclose, disseminate or otherwise grant access to such information unless:  
+(i) You have been given an opportunity to “opt-in” and have agreed to opt-in to such disclosure of your information;  
+(ii) We must share your information in order to provide a product or service that you have ordered or requested, in which case we will require that any third person or entity we use to fulfill your order agrees that it does not have the right to use your information other than to fulfill your order or request; or  
+(iii) We are required to respond to subpoena, court orders or other requirement of law which requires disclosure of your information.
 
-(2) Information Collected From or About the Devices that Interact with our Site
+e. Disclosure of Aggregate Information  
+We may combine your personally identifying information and information about your preferences and activities, with those of all or a particular group of our users to prepare collective profiles of our users and their activities for our internal use. For example, we may track the number of our users who view certain pages or use certain features or compile the total dollar amount of sales conducted through the Site in a particular geographic region or to track purchasing trends. Such information, and other information we derive from individual users’ information, allows us to continue to grow and provide you with quality information through more accurate marketing and advertising of the Site. We may share aggregated information concerning our users, without attribution of personal information, to other companies with whom we conduct business.
 
-We receive and store information from and about the devices (such computers, smartphones) that interact with our device, including the Internet protocol (IP) address used to connect your computer to the Internet; your login credentials; and computer and connection information such as browser type, version, and time zone setting, browser plug-in types and versions, operating system, and platform. We use cookies, web beacons, and other technologies to measure and collect session information, including page response times, and to measure and understand visitor behaviors on the site. We may also collect technical information to help us identify your device for reasons of security and site integrity. 
+f. How Can I “Opt-out” of Receiving E-mail Communications?  
+If you do not wish to receive email messages from us, please choose “unsubscribe” from within the email that you receive.
 
-### **B. Use of Information Collected Via the Site**
+**Iii. What We Do To Keep This Site Secure**
 
-(1) We use the information that you actively provide
+a. Security  
+We employ procedural and technical safeguards to secure your personal information against loss, theft, alteration, and unauthorized access, use and disclosure. Any information you enter on our accounts setup page is encrypted before transmission to our server by using 128-bit Secure Sockets Layer encryption software. You can safely enter your credit card and personal registration information and it cannot be read in transit to our server. We also employ many security procedures to protect your information from unauthorized access by users inside and outside the company.  
+Regardless of the precautions taken by us we cannot ensure or warrant the security of any information you transmit to us, and you transmit such information at your own risk.
 
-  * To deliver services, such as educational programs, information, newsletters or software you request or purchase;
-  * To alert you to special offers, updated information and other new services from us, or other third parties, or to forward promotional materials;
-  * To complete a transaction or service requested by you;
-  * To fulfill the terms of a promotion;
-  * To ensure the Site are relevant to your needs;
-  * To help us create and publish content most relevant to you;
-  * To notify you about a material change to this privacy policy or the Visitor Agreement, if necessary;
-  * To allow you access to limited-entry areas of the Site; and
-  * To contact you in response to sign up forms such as Contact Us or Order Inquiry.
+What You Can Do To Protect Your Information?  
+(i) Use only secure websites when disclosing your information. Secure pages begin with “https”.  
+(ii) Avoid using easy to figure out access and personal ID (PIN) codes.  
+(iii) Never respond to unsolicited requests for your social security number or financial information.  
+(iv) Do not disclose your passwords to the Site or your account information to any other person.  
+(v) Be sure to sign off when finished using a shared computer.
 
+b. Hypertext Links  
+Our Site may contain “links” to other websites, and we cannot and are not responsible for maintaining your privacy once you leave our Site. If you provide any information to parties who operate websites that are linked to or from this Site, different rules may apply to their collection, use or disclosure of your personal information. We encourage you to review other websites’ policies before revealing any sensitive or personal information. Under no circumstances shall we have any liability whatsoever for the activities conducted by or at any website accessed from or through the Site.
 
+**Iv. Information From Persons Under The Age Of 13**
 
-### **C. Sharing and Disclosure of Information**
+NOTICE: Visit [www.OnGuardOnline.gov](http://www.onguardonline.gov/ "http://www.OnGuardOnline.gov/") for tips from the Federal Trade Commission on protecting kids’ privacy online.  
+We do not seek to collect personally identifiable information from persons under the age of 13 without prior verifiable parental consent. If we become aware that we have inadvertently received such information online from a child under the age of 13, we will delete it from our records. If you are under the age of 13, please do not submit any personally identifiable information to us. If you are the parent or guardian of a person under the age of 13 who has provided personally identifiable information to us, please inform us by contacting us at info@iconixbrand.com and we will remove such information from our database. If you are concerned about your children’s use of the Site, you may use web filtering technology to supervise or limit access to the Site.
 
-We may share or disclose the information you provide, including name and contact details in the following instances:
+**V. Your California Privacy Rights (As Provided By California Civil Code Section 1798.83)**
 
-(i) To fulfill a service to you. For example, if you choose to watch an educational program on the Site, we may share your personally identifiable information in order to provide the program to you. In addition, if you email us a question, we may use your email address to process your request and respond to your question. Also, if you are entering a sweepstakes or contest, we may use your personally identifiable information in order to fulfill the terms of that promotion. This means that we may share the information for prize fulfillment purposes or mail carriers. We also may share your information with the co-sponsor of that promotion. 
+A California resident who has provided personal information to a business with whom he/she has established a business relationship for personal, family, or household purposes (“California customer”) is entitled to request information about whether the business has disclosed personal information to any third parties for the third parties’ direct marketing purposes. In general, if the business has made such a disclosure of personal information, upon receipt of a request by a California customer, the business is required to provide a list of all third parties to whom personal information was disclosed in the preceding calendar year, as well as a list of the categories of personal information that were disclosed.
 
-(ii) To affiliates, strategic partners, agents, third party marketers or other unaffiliated parties who are offering products or services that we believe may be of interest to you or who require your personally identifiable information for research, administrative and/or internal business purposes. These parties may use your personally identifiable information to contact you with an offer or advertisement related to a product or service, or they may use such information for their own research, administration or business purposes. If you do not want us to share your personally identifiable information in this manner, please do not provide us with this information. 
+However, under the law, a business is not required to provide the above-described lists if the business adopts and discloses to the public (in its privacy Policy) a Privacy Policy of not disclosing customer’s personal information to third parties for their direct marketing purposes unless the customer first affirmatively agrees to the disclosure, as long as the business maintains and discloses this Privacy Policy. Rather, the business may comply with the law by notifying the customer of his or her right to prevent disclosure of personal information and providing a cost free means to exercise that right.
 
-(iii) To unaffiliated third-party service providers, agents or independent contractors who help us maintain our Site and provide other administrative services to us (including, but not limited to, order processing and fulfillment, providing customer service, maintaining and analyzing data, sending customer communications on our behalf, and entry collection, winner selection and prize fulfillment for contests, sweepstakes and other promotions). We seek to ensure that these unaffiliated third parties will not use the personally identifiable information for any other purpose than to provide the administrative services for which they are responsible. Because such unaffiliated third-party service providers that help us administer our Site will have access to users' personally identifiable information, if you do not wish for our unaffiliated third-party service providers to have access to your information, please do not register or submit any personally identifiable information to us. 
+As stated in this Privacy Policy, we do not share information with third parties for their direct marketing purposes unless you affirmatively agree to such disclosure — typically by opting in to receive information from a third party that is participating in a sweepstakes or other promotion on one of our sites. If you do ask us to share your information with a third party for its marketing purposes, we will only share information in connection with that specific promotion, as we do not share information with any third party on a continual basis. To prevent disclosure of your personal information for use in direct marketing by a third party, do not opt in to such use when you provide personally identifiable information on one of our sites. Please note that whenever you opt in to receive future communications from a third party, your information will be subject to the third party’s privacy Policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use information. You should always review the privacy Policy of any party that collects your information to determine how that entity will handle your information.
 
-(iv) To complete your purchase. If you choose to make a purchase on the Site, we may collect from you your credit card number, billing address and other information related to such purchase, and we may use such collected information in order to fulfill your purchase. We may also provide such information, or other personally identifiable information provided by you, to unaffiliated third parties as necessary to complete your purchase (for example, to process your credit card). 
+California customers may request further information about our compliance with this law by e-mailing info@iconixbrand.com. Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this e-mail address.
 
-(v) To comply with the law or in the good faith belief that such action is necessary in order to conform to the requirements of law or comply with legal process served on us, protect and defend our rights or property or act in urgent circumstances to protect the personal safety of our end users. 
+a. Limitation of Liability  
+IN NO EVENT SHALL WE BE LIABLE FOR ANY INCIDENTAL, CONSEQUENTIAL, INDIRECT OR SPECIAL DAMAGES, (INCLUDING LOST PROFITS) WHETHER BASED ON WARRANTY, CONTRACT, TORT, OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT WE ARE ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. BECAUSE SOME STATES OR JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE LIMITATIONS SET FORTH IN THIS PARAGRAPH MAY NOT APPLY TO YOU. IF THE FOREGOING LIMITATIONS ARE HELD INAPPLICABLE OR UNENFORCEABLE FOR ANY REASON, THEN THE MAXIMUM LIABILITY OF US TO YOU FOR ANY TYPE OF DAMAGES SHALL BE LIMITED TO THE GREATER OF THE ACTUAL AMOUNT PAID BY YOU FOR ANY PRODUCTS OFFERED ON THE WEBSITE OR U.S. $100.00.
 
-(vi) To third parties as part of any corporate reorganization process including, but not limited to, mergers, acquisitions, and sales of all or substantially all of our assets.
+b. Miscellaneous  
+The Privacy Policy for the Site established by us constitutes ours and your entire understanding with respect to the use of the Site. We control and/or operate the Site from offices in the United States of America. We do not represent that materials on the Site are appropriate or available for use in other locations. Persons who choose to access this Site from other locations do so on their own initiative and at their own risk, and are responsible for compliance with local laws, if and to the extent local laws are applicable.  This Privacy Policy shall be construed in accordance with the laws of the State of New York, without regard to its conflict of laws rules. You agree to personal jurisdiction by the federal and state courts located in New York County, New York State. No waiver by use of any breach or default hereunder shall be deemed to be a waiver of any preceding or subsequent breach or default. You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to use of the Site must be filed within one (1) year after such claim or cause of action arose or be forever barred. If any provision of the Terms and Conditions and Privacy P9olicy is found to be unenforceable for any reason, than that provision shall be deemed severable and shall not affect the validity and enforceability of any remaining provisions.
 
-(vii) To track and analyze non-identifying and aggregate usage and volume statistical information from our visitors and customers and provide such information to third parties.
+**Vii. Changes To Our Terms And Conditions And Our Privacy Policy**
 
-(viii) To protect against potential fraud, we may verify with third parties the information collected from these Site. In the course of such verification, we may receive personally identifiable information about you from such services. In particular, if you use a credit card or debit card to purchase services with us, we may use card authorization and fraud screening services to verify that your card information and address matches the information that you supplied to us, and that the card has not been reported as lost or stolen. 
-
-Except as described in this Privacy Policy or at the time we request the information, we do not otherwise use, share or otherwise disclose your name and contact or payment details to any third parties.
-
-### **D. Online Tracking / Third Party Advertising**
-
-We use cookies, web beacons, and other tracking technologies for analytics and advertising purposes. When you interact with our Site, interest-based ads may be displayed to you based upon information such as purchasing or browsing behaviors on our Site. These tracking technologies enable us to identify the ads you see, whether you click on them, and other actions you take on our Site, so that we can tailor advertising, including for example avoiding repetition of ad content. We do not use personal information, such as name or contact details, to tailor advertising. 
-
-We may use advertisers, third party ad networks, and other advertising companies, to serve advertisements on the Site. Please be advised that such advertising companies may gather information about your visit to the Site or other sites (such as through cookies, web beacons and other technologies) to enable such advertising companies to market products or services to you, to monitor which ads have been served to your browser and which webpages you were viewing when such ads were delivered. These advertisers may read and place cookies on our Site, but they do not have access to personal information such as name or contact details. 
-
-Our Site, whether accessed on a computer or a mobile device, is not at this time configured to read or respond to “do not track” settings or signals in your browser headings, which vary by browser provider. In lieu of a browser-based opt-out solution, users can utilize the Digital Advertising Alliance and other approved methods for placement of “opt-out” cookies. Our site and those of our third party advertisers or other vendors are configured to read and honor these opt-out cookies, so long as they are present on your computer. (If you delete all cookies, you will need to reset your opt-out cookies.) Specific instructions on how to do so follow. However, please be aware that we do not control these opt-out processes. 
-
-### **E. Children**
-
-The features, programs, promotions and other aspects of this Site requiring personally identifiable information are not intended for children. We do not knowingly collect personally identifiable information from children under the age of thirteen (13). If you are a parent or guardian of a child under the age of thirteen (13) and believe he or she has disclosed personally identifiable information to us, please contact us at [storesupport@deliveryagent.com](mailto:storesupport@deliveryagent.com). A parent or guardian of a child under the age of thirteen (13) may review and request deletion of such child’s personally identifiable information as well as prohibit the use thereof. 
-
-### **F. International Transfer of Information**
-
-If you choose to provide us with personally identifiable information, we may transfer that information to its affiliates and subsidiaries or to other third parties, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personally identifiable information to the United States which does not have the same data protection laws as the EU and by providing your personally identifiable information you consent to: 
-
-  * The use of your personally identifiable information for the uses identified above in accordance with this privacy policy; and
-  * The transfer of your personally identifiable information to the United States as indicated above.
-
-
-
-### **G. Opt-Out**
-
-We communicate with users who subscribe to our services on a regular basis via email. For example, we may use your email address to confirm your request, to send you notice of payments, to send you information about changes to our products and services, and to send notices and other disclosures as required by law. Generally, users cannot opt-out of these communications, but they will be primarily informational in nature rather than promotional. However, we provide you the opportunity to exercise an opt-out choice if you do not want to receive other types of communication from us, such as emails or updates from us regarding new services and products offered on this Site or if you do not want us to share your personally identifiable information with third parties. The opt-out choice may be exercised by ticking or un-ticking the appropriate box if such checkbox is available at the points where personally identifiable information is collected or by contacting us. We will process your unsubscribe as soon as possible, but please be aware that in some circumstances you may receive a few more messages until the unsubscribe is processed. You also may opt-out of receiving such emails by clicking on the "unsubscribe" link within the text of the email. 
-
-### **H. Forums, Chat Rooms, and Other Public Posting Areas**
-
-Please note that any information you include in a message you post to any chat room, forum or other public posting area is available to anyone with Internet access. If you don't want people to know your e-mail address, for example, don't include it in any message you post publicly. PLEASE BE EXTREMELY CAREFUL WHEN DISCLOSING ANY INFORMATION IN CHAT ROOMS, FORUMS AND OTHER PUBLIC POSTING AREAS. WE ARE NOT RESPONSIBLE FOR THE USE BY OTHERS OF THE INFORMATION THAT YOU DISCLOSE IN CHAT ROOMS, FORUMS AND OTHER PUBLIC POSTING AREAS. 
-
-### **I. Third Party Web Site**
-
-This statement applies solely to information collected on the Site. The Site may contain links to other web sites. We are not responsible for the privacy practices or the content of these other web sites. 
-
-### **J. Access to Your Information/Choices**
-
-We provide you with an opportunity to access your personal information to ensure it is correct, accurate and current. To edit your personally identifiable information, please contact our customer service representatives at [storesupport@deliveryagent.com](mailto:storesupport@deliveryagent.com). If for any reason you are not able to update or edit your personally identifiable information at this page, you can access such information by contacting us as described below. We will make reasonable efforts to accommodate your request. 
-
-### **K. Assignment**
-
-In the event that all or part of our assets or sold or acquired by another party, or in the event of a merger, you grant us the right to assign the personally identifiable and non-personally identifiable information collected via the Site. 
-
-### **L. Changes to this Privacy Policy**
-
-We reserve the right to change this privacy policy from time to time. When we do, we will also revise the "last update" date at the bottom of this privacy policy. For changes to this privacy policy that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will attempt to obtain your consent before implementing the change by sending a notice to the primary email address specified in your account or by placing a prominent notice on the Site. 
-
-### **M. Security**
-
-No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you understand that any information that you transfer to us is done at your own risk. Once we receive your transmission, we make reasonable efforts to ensure security on our systems. We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software. 
-
-### **N. Contacting Us**
-
-If you have any questions about this privacy policy or our privacy practices, please contact us at [storesupport@deliveryagent.com](mailto:storesupport@deliveryagent.com). All information you provide in any written communication will also be covered by this policy. 
-
-### **YOUR CALIFORNIA PRIVACY RIGHTS**
-
-Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding ours disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please contact us: 
-
-Delivery Agent, Inc.  
-300 California Street, Third Floor  
-San Francisco, CA 94104  
-Phone: (415) 696-5768 
-
-Last Updated On: July 18th, 2014
+We may revise this Privacy Policy at any time by updating this posting without advance notice to you. Such revisions shall be effective immediately upon posting. It is your obligation to review the Privacy Policy from time to time.
