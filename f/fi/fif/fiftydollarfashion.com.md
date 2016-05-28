@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiftydollarfashion.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909031915id_/http%3A//www.fiftydollarfashion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiftydollarfashion.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528103418id_/http%3A//www.fiftydollarfashion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : FiftyDollarFashion
 
