@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investorsunderground.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108213202id_/http%3A//www.investorsunderground.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investorsunderground.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528094503id_/http%3A//www.investorsunderground.com/privacy-policy) for the most accurate reproduction.*
 
 # Investors Underground Privacy Policy
 
