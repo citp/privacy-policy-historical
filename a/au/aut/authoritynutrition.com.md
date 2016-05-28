@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the authoritynutrition.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207030429id_/http%3A//authoritynutrition.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authoritynutrition.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528185311id_/https%3A//authoritynutrition.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Authority Nutrition
 
+Authority Nutrition understands how important privacy is for our readers. We encourage you to take the time to read the entire privacy policy.
+
 ## Information that we collect
 
-We collect information from you when you fill out a contact or comment form.
+We collect information from you when you fill out a contact form or email subscription form.
 
-Google, as a third party vendor, uses cookies to serve ads on this site. 
+We use third-party tools, such as Google Analytics, to better understand our site visitors. We also use social media widgets that may collect information about your use of the site.
 
-Google’s use of the DART cookie enables it to serve ads to users based on their visits to this site and other sites on the Internet.
+Google, as a third party vendor, uses cookies to serve ads on this site. Google’s use of cookies enables it to serve ads to users based on their visits to this site and other sites on the Internet.
 
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network [privacy policy](http://www.google.com/policies/technologies/ads/).
+Users may opt out of the use of these cookies by visiting the Google ad and content network [privacy policy](https://www.google.com/policies/technologies/ads/).
 
 ## What we use your information for
 
@@ -18,7 +20,7 @@ The email address you provide may be used to send you information, respond to in
 
 At the bottom of each and every email sent to you, there is an unsubscribe link. If you click that link, you will never hear from us again.
 
-We will **never** share your email address with anyone.
+We will never share your email address with anyone.
 
 ## We do use cookies
 
@@ -30,7 +32,7 @@ We may contract with third-party service providers to assist us in better unders
 
 ## Terms and Conditions
 
-Please also visit our [Disclaimer](http://authoritynutrition.com/disclaimer/) page establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms of Use](https://authoritynutrition.com/terms-of-use/) page establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 ## Your Consent
 
@@ -40,8 +42,12 @@ By using our site, you consent to our online privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on 1.12.2012
+## Contact Us
 
-## Contacting Us
+If there are any questions regarding this privacy policy, use the [contact form](https://authoritynutrition.com/contact/) to contact the site admin.
 
-If there are any questions regarding this privacy policy, [contact us](http://authoritynutrition.com/contact/).
+You can also contact us by mail via this address: Kristjan Gunnarsson slf. Austurkor 102, 203 Kopavogur. Iceland.
+
+This page was last updated on December 28th, 2015.
+
+© 2012-2015 Authority Nutrition. All rights reserved.
