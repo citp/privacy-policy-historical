@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filegoat.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115011149id_/http%3A//filegoat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filegoat.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528060310id_/http%3A//www.filegoat.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy - filegoat.com
 
