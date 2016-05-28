@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rotorbuilds.com privacy policy that was archived on 2015-11-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151128061148id_/http%3A//rotorbuilds.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rotorbuilds.com privacy policy that was archived on 2016-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160528155003id_/http%3A//rotorbuilds.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -15,7 +15,7 @@
 <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 <link rel="stylesheet" href="/styles/animations.css">
 
-<link type="text/css" href="/min/index.php?f=/theme/jquery-ui.css,/codemirror/lib/codemirror.css,/codemirror/theme/mdn-like.css,/javascript/lightGallery/css/lightgallery.min.css,/styles/style.css,/styles/media-queries.css,/styles/icomoon.css" rel="StyleSheet">
+<link type="text/css" href="/min/index.php?f=/theme/jquery-ui.css,/codemirror/lib/codemirror.css,/codemirror/theme/mdn-like.css,/javascript/lightGallery/css/lightgallery.min.css,/styles/css/style.css,/styles/media-queries.css,/styles/icomoon.css" rel="StyleSheet">
 <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,400,300,600,700|Roboto+Condensed:300,400,700" rel="stylesheet">
 
 <!--
@@ -38,7 +38,11 @@
 <script src="/javascript/chart.js/Chart.js"></script>
 <script src="/javascript/lightGallery/js/lightgallery-all.min.js"></script>
 
+<script src="https://npmcdn.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
 <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+
+<link href="https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,200" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Rajdhani:300" rel="stylesheet" type="text/css">
 
 
 <!--[if IE 8]>
@@ -51,15 +55,18 @@
 </head>
 <body>
 
+	<div class="offcanvas-wrapper">
+
 	<nav class="offcanvas st-menu st-left">
 		<ul class="nav navmenu-nav">
 			<li><a href="/"><i class="icon-home2"></i>Home</a></li>
 			<li><a href="/explore"><i class="icon-like"></i>Featured Builds</a></li>
+			<li><a href="/planned"><i class="icon-ei-pencil"></i>Planned Builds</a></li>
 			<li><a href="/builds"><i class="icon-paper-plane"></i>Latest Builds</a></li>
 			<li>
             	<a data-toggle="collapse" href="#parts-menu"><i class="icon-tools"></i>Parts</a>
                 <ul id="parts-menu" class="collapse">
-					<li><a href="/parts">All Parts</a></li><li><a href="/parts/frame">Frames</a></li><li><a href="/parts/fc">Flight Controllers</a></li><li><a href="/parts/motor">Motors</a></li><li><a href="/parts/esc">ESCs</a></li><li><a href="/parts/prop">Propellers</a></li><li><a href="/parts/battery">Batteries</a></li><li><a href="/parts/camera">HD Cameras</a></li><li><a href="/parts/gimbal">Gimbals</a></li><li><a href="/parts/display">FPV Displays</a></li><li><a href="/parts/fpv">FPV Components</a></li><li><a href="/parts/fpvcamera">FPV Cameras</a></li><li><a href="/parts/pdb">Power Distribution</a></li><li><a href="/parts/gps">GPS</a></li><li><a href="/parts/bench">Bench Equipment</a></li><li><a href="/parts/tx">Transmitters</a></li><li><a href="/parts/rx">Receivers</a></li><li><a href="/parts/telemetry">Telemetry</a></li><li><a href="/parts/misc">Misc Parts</a></li>
+					<li><a href="/parts">All Parts</a></li><li><a href="/parts/frame">Frames</a></li><li><a href="/parts/fc">Flight Controllers</a></li><li><a href="/parts/motor">Motors</a></li><li><a href="/parts/esc">ESCs</a></li><li><a href="/parts/prop">Propellers</a></li><li><a href="/parts/battery">Batteries</a></li><li><a href="/parts/camera">HD Cameras</a></li><li><a href="/parts/gimbal">Gimbals</a></li><li><a href="/parts/display">FPV Displays</a></li><li><a href="/parts/fpv">FPV Components</a></li><li><a href="/parts/fpvcamera">FPV Cameras</a></li><li><a href="/parts/pdb">Power Distribution</a></li><li><a href="/parts/telemetry">Telemetry</a></li><li><a href="/parts/rx">Receivers</a></li><li><a href="/parts/tx">Transmitters</a></li><li><a href="/parts/gps">GPS</a></li><li><a href="/parts/bench">Bench Equipment</a></li><li><a href="/parts/osd">OSD</a></li><li><a href="/parts/misc">Misc Parts</a></li>
                	</ul>
 			</li>
 			<li><a href="/discussions"><i class="icon-chat"></i>Latest Discussions</a></li>
@@ -89,7 +96,7 @@
 		</div>
 		<ul class="nav navmenu-nav">
 			<li><a href="/profile//">View profile</a></li>
-			<li><a href="/profile//builds">My Builds</a></li>
+			<li><a href="/profile//builds">My Fleet</a></li>
 			<li><a href="/account">Account</a></li>
 			<!-- <li><a href='/statistics/'>Statistics</a></li>	-->
 			<li><a href="/profile//following/">Following</a></li>
@@ -98,9 +105,7 @@
 		</ul>
 	</div>
 
-<div class="st-pusher">
 <nav class="navbar navbar-default navbar-fixed-top">
-	<div class="container">
 		<div class="navbar-header pull-left col-md-11">
 			<div class="pull-left hide">
 			<button id="button-left-offcanvas" class="navbar-toggle collapsed pull-left" type="button"><span class="sr-only">Toggle navigation</span>
@@ -111,26 +116,32 @@
 				<a id="logo" href="#"><i class="icon-ei-navicon"></i></a>
 			</div>
 			<div class="logo pull-center">
-				<a href="/"><i class="icon-quad"></i><div class="brand hidden-xs">RotorBuilds</div></a>
+				<a href="/"><img src="/images/prop3.svg"><div class="brand hidden-xs">RotorBuilds</div></a>
 			</div>
+			<!--
+			<div class='logo pull-center'>
+				<a href='/'><i class='icon-quad'></i><div class='brand hidden-xs'>RotorBuilds</div></a>
+			</div>
+			-->
 
 			<ul class="nav navbar-nav hidden-xs hidden-sm">
 				<li class="dropdown ">
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Builds <span class="caret"></span></a>
-                	<ul class="dropdown-menu">
+                	<ul class="dropdown-menu fade">
                   		<li><a href="/explore">Featured</a></li>
+                  		<li><a href="/planned">Planned</a></li>
                   		<li><a href="/builds">Latest</a></li>
                 	</ul>
 				</li>
 				<li class="dropdown ">
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Parts <span class="caret"></span></a>
-                	<ul class="dropdown-menu">
-						<li><a href="/parts">All Parts</a></li><li><a href="/parts/frame">Frames</a></li><li><a href="/parts/fc">Flight Controllers</a></li><li><a href="/parts/motor">Motors</a></li><li><a href="/parts/esc">ESCs</a></li><li><a href="/parts/prop">Propellers</a></li><li><a href="/parts/battery">Batteries</a></li><li><a href="/parts/camera">HD Cameras</a></li><li><a href="/parts/gimbal">Gimbals</a></li><li><a href="/parts/display">FPV Displays</a></li><li><a href="/parts/fpv">FPV Components</a></li><li><a href="/parts/fpvcamera">FPV Cameras</a></li><li><a href="/parts/pdb">Power Distribution</a></li><li><a href="/parts/gps">GPS</a></li><li><a href="/parts/bench">Bench Equipment</a></li><li><a href="/parts/tx">Transmitters</a></li><li><a href="/parts/rx">Receivers</a></li><li><a href="/parts/telemetry">Telemetry</a></li><li><a href="/parts/misc">Misc Parts</a></li>
+                	<ul class="dropdown-menu fade">
+						<li><a href="/parts">All Parts</a></li><li><a href="/parts/frame">Frames</a></li><li><a href="/parts/fc">Flight Controllers</a></li><li><a href="/parts/motor">Motors</a></li><li><a href="/parts/esc">ESCs</a></li><li><a href="/parts/prop">Propellers</a></li><li><a href="/parts/battery">Batteries</a></li><li><a href="/parts/camera">HD Cameras</a></li><li><a href="/parts/gimbal">Gimbals</a></li><li><a href="/parts/display">FPV Displays</a></li><li><a href="/parts/fpv">FPV Components</a></li><li><a href="/parts/fpvcamera">FPV Cameras</a></li><li><a href="/parts/pdb">Power Distribution</a></li><li><a href="/parts/telemetry">Telemetry</a></li><li><a href="/parts/rx">Receivers</a></li><li><a href="/parts/tx">Transmitters</a></li><li><a href="/parts/gps">GPS</a></li><li><a href="/parts/bench">Bench Equipment</a></li><li><a href="/parts/osd">OSD</a></li><li><a href="/parts/misc">Misc Parts</a></li>
                 	</ul>
 				</li>
 				<li class="dropdown ">
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Community <span class="caret"></span></a>
-                	<ul class="dropdown-menu">
+                	<ul class="dropdown-menu fade">
 						<li><a href="/discussions">Discussions</a></li>
 						<li><a href="/builders">Scoreboard</a></li>
                 	</ul>
@@ -153,12 +164,13 @@
 				<li><button onclick="window.location='/login'" class="btn btn-orange">Sign in</button></li>
 			</ul>
 		</div>
-	</div>
-</nav>
+	</nav>
+
+
+<div class="wrapper">
 
 
 <div id="drawer" class="col-sm-offset-2 col-sm-8"></div>
-<div class="wrapper">
 
 
 <div id="content-header">
@@ -188,9 +200,8 @@
 </div>					
 
 
-</div> <!-- .wrapper -->
-
-</div> <!-- .st-pusher -->
+</div> <!-- wrapper -->
+</div> <!-- offcanvas-wrapper -->
 
 
 <div id="unfollow_dialog" title="Unfollow" class="dialog">
