@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the elements.org privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917171216id_/https%3A//www.elements.org/clientuploads/Privacypolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elements.org privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528232055id_/https%3A//www.elements.org/clientuploads/Privacypolicy.pdf) for the most accurate reproduction.*
 
 # FACTS
 
-                                                                                                        Rev. 01/2014
+                                                                                                        Rev. 04/2016
                        WHAT DOES ELEMENTS FINANCIAL
 FACTS                  DO WITH YOUR PERSONAL INFORMATION?
 Why?                   Financial companies choose how they share your personal information. Federal
@@ -65,12 +65,13 @@ Why can’t I limit all sharing?  Federal law gives you the right to limit only
 Definitions
 Affiliates                      Companies related by common ownership or control. They
                                 can be financial and nonfinancial companies.
-                               • Our affiliates include credit union service organizations such as LCU Financial
-                                  Services, LLC; Credit Union Student Choice, LLC; and CO-OP Financial Services.
+                               • Our affiliates include credit union service organizations
+                                  such as Elements Financial Services, LLC; Credit Union
+                                  Student Choice, LLC; and CO-OP Financial Services.
 Nonaffiliates                   Companies not related by common ownership or control.
                                 They can be financial and nonfinancial companies.
                                • Elements Financial does not share with nonaffiliates so they can market to you.
 Joint Marketing                 A formal agreement between nonaffiliated financial companies
                                 that together market financial products or services to you.
-                               • Our joint marketing partners include insurance
-                                  companies and other financial institutions.
+                               • Our joint marketing partners include investment, insurance,
+                                  and other financial services companies.
