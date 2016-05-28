@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goabroad.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929145450id_/http%3A//www.goabroad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goabroad.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528223351id_/http%3A//www.goabroad.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GoAbroad.com
 
@@ -39,6 +39,10 @@ If you ever decide that you no longer want to receive our newsletters, you can c
 ## Strict adherence to CAN-SPAM Act of 2003
 
 We hate spam just like you do. We have never sent spam or junk emails and our mailing practice strictly conforms to the CAN-SPAM Act of 2003. 
+
+## GoAbroad Reviews
+
+GoAbroad's Review Platform was created to provide users with a resource for gaining and tool for sharing honest first hand experience(s) and information about the international programs and providers found on GoAbroad.com. To view our review policy, please click [here](https://web.archive.org/privacy-reviews "Review Policy"). 
 
 ## Confidentiality and Security
 
