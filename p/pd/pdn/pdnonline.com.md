@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pdnonline.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126230329id_/http%3A//www.pdnonline.com/Privacy-Policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdnonline.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528090850id_/http%3A//www.pdnonline.com/Privacy-Policy.shtml) for the most accurate reproduction.*
 
 # Photo Magazine | Photography Magazine | Photos Magazine | Professional Photographer Magazine | Photo News | Best News Photos
+
+## EFFECTIVE DATE: August 10, 2015
 
   
 
