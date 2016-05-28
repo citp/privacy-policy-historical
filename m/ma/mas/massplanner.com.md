@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massplanner.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124091928id_/http%3A//www.massplanner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massplanner.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528172402id_/http%3A//www.massplanner.com/privacy-policy) for the most accurate reproduction.*
 
 # The Mass Planner Privacy Policy page
 
