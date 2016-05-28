@@ -1,20 +1,22 @@
-> *The following text is extracted and transformed from the whangout.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106032708id_/http%3A//whangout.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whangout.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528172327id_/http%3A//whangout.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy- WHangOut Webmaster Forum
+# Privacy Policy - Whangout
 
-  * Google, as a third party vendor, uses cookies to serve ads on your site.
-  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
-  * WHangout recognizes that you care about the personal information that is held about you and how that is used.
-  * This privacy policy applies to all personal data, submitted by you, to the WHangout web site.
-  * By registering to WHangout you need to submit a chosen name and contact information, more specifically an e-mail address. No extremely personal information, such as Social Security or Credit Card numbers are stored by us.
-  * WHangout also stores and reads cookies to and from your computer. Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our forums and general website features to recognize your browser for when you return to this web site. By using this website, you agree that both the webserver, and any trusted 3rd party we chose, such as advertising networks, may place a tracking cookie on your machine and access it at any time during your session. In general, cookies are safe and are not a security issue when being used from 'trusted' internet sites, such as WHangout. For information on how to manage cookies in your browser, please visit [AboutCookies.org](http://www.aboutcookies.org/Default.aspx?page=2)
-  * WHangout will not sell, transmit or distribute any data held without your prior permission or consent, unless required to do so under relevant legislation.
-  * All other information provided by you goes into a "public profile" and is entirely optional, all information held in that profile is held there at your own risk. This info is edited via your Control Panel in the forums.
-  * You have a legal right for the personal information held at WHangout to be updated if it is incorrect or deleted if you choose. Most of this can be done through your Control Panel in the forums. If you are having issues with this, please contact us if you need help.
-  * WHangout will take all reasonable effort to ensure that all personal information about you submitted is maintained secure on our server. However, we make no warranty to this.
-  * This site is intended for individuals over the age of 13. Any information collected is intended to be of individuals over the age of 13. According to [COPPA](http://www.ftc.gov/coppa/index.html), our site does NOT cater to children. "Operators of commercial websites or online services directed to children under 13 that collect personal information from children" require a COPPA agreement and privacy policy. Since we do not cater to this age group, no COPPA exists on WHangout
-  * This Privacy Policy may be modified at any time without notice. It is your responsibility to check this page for updates or changes. If you have any questions regarding your privacy, then [Contact Us](https://web.archive.org/sendmessage.php)
-  * We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, contact us.
+**What information do we collect?**
 
+Whangout.com collect information from you when you register on our site, comment on the site or fill out a form, subscribe our newsletter. We never sell, misuse or republish your email to send spam. 
 
+**Advertising Cookies**
+
+We allow third party advertising companies to serve ads when you visit our site like Google Adsense. These advertising companies may serve cookies to your browser to serve ads and target ad content to you. We have no control over these cookies.
+
+Most web browsers will accept cookies by default, but it can be disable, either from all websites or from specific sites. Learn how to opt out of behavioral advertising on sites.  
+http://www.networkadvertising.org/choices/
+
+There might be some third party vendors serving ads on this site and you may visit those vendor websites to opt out of cookies (if the vendor offers this capability).
+
+**Analytics Log Files**
+
+Like other websites, we use analytics tools called “Google Analytics” to monitor and log files to track site traffic. The information log include parameter like IP addresses, date or time stamp, browser type, ISP, landing/leaving pages, etc to track visitors movement across the website and enable us to better serve content to our readers. Note that all this information is NOT personally identifiable.
+
+At whangout.com the privacy of our visitors is of extreme importance to us. If you need any other information or have any questions about our privacy policy, please feel free to contact us by email at contact@whangout.com
