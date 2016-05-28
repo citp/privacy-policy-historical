@@ -1,650 +1,196 @@
-<!--The following is the downloaded HTML source of the dreamsresorts.com privacy policy that was archived on 2015-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207133352id_/http%3A//www.dreamsresorts.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dreamsresorts.com privacy policy that was archived on 2016-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160528104826id_/http%3A//www.dreamsresorts.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><!--<![endif]--><head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <meta name="format-detection" content="telephone=no">
-  
-  <!--meta http-equiv="X-UA-Compatible" content="IE=8;IE=9;" /-->
-
-  <!--meta http-equiv="X-UA-Compatible" content="IE=7;" /-->
-
-  <link href="/templates/desktop/favicon.png" rel="shortcut icon" type="image/png">
-  <link rel="stylesheet" href="/templates/desktop/css/main.css" type="text/css">
-  <link rel="stylesheet" href="/templates/desktop/css/editor.css" type="text/css">
-  <link rel="stylesheet" href="/templates/desktop/css/cal.css" type="text/css">
-  <link rel="stylesheet" href="/templates/desktop/css/nav.css" type="text/css">
-  <link rel="stylesheet" href="/templates/desktop/css/SqueezeBox.css" type="text/css">
-  <link rel="stylesheet" href="/templates/desktop/css/jquery.selectBoxIt.css" type="text/css">
-  <link rel="stylesheet" href="/templates/desktop/css/jquery.ui.all.css">
-  <link rel="stylesheet" href="/templates/desktop/css/demos.css">
-    
-  <!-- TYPEKIT -->
-      <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://dc.skyglue.com/sgtracker.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5SVZ3Q"></script><script type="text/javascript" src="http://use.typekit.net/dra6osp.js"></script> <!-- AMR Typekit -- Production -->
-  
-  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-
-  <!-- END TYPEKIT -->
-
-  <script type="text/javascript" src="/templates/desktop/js/jquery-1.7.2.min.js"></script>
-  <script type="text/javascript" src="/templates/desktop/js/jquery.form.js"></script>
-  <script type="text/javascript" src="/templates/desktop/js/jquery.cookie.js"></script>
-  <script type="text/javascript" src="/templates/desktop/js/jQextend.js"></script>
-  <script type="text/javascript" src="/templates/desktop/js/swfobject.js"></script>
-  <script type="text/javascript" src="/templates/desktop/js/ui/jquery.ui.core.js"></script>
-  <script type="text/javascript" src="/templates/desktop/js/ui/jquery.ui.widget.js"></script>
-  <script type="text/javascript" src="/templates/desktop/js/ui/jquery.ui.datepicker.js"></script>
-  <script type="text/javascript" src="/templates/desktop/js/ui/jquery.selectBoxIt.min.js"></script>
-  <script type="text/javascript" src="/templates/desktop/js/ui/tabs.js"></script>
-    <script type="text/javascript">
-    $menu = {
-      id   :'978',
-      type :'mainmenu',
-      alias:'privacy',
-      level: 1,
-      small: 0,
-      special: 1    };
-
-    var cur_resort = "mainmenu";
-    var book_dc = "";    var book_albergo = "";    var book_id_stile = "7638";
-    var jq = jQuery.noConflict();
-    jq(function() {
-      SqueezeBox.initialize();
-      SqueezeBox.assign($$('a[rel=boxed]'),{size: {x:'auto', y:'auto'}});
-      jq("#sbox-content").width(jq("#sbox-content").children("img").width());
-     jq(".more-parent").on('click', function(e){
-     e.preventDefault();
-     });
-     jq(".more-parent").parent('li').on('mouseenter mouseleave', function () {
-     console.log('mouseenter mouseleave');
-     jq(this).toggleClass("hover-effect");
-     });
-
-     if(elementPosition != null){
-       var elementPosition = jq('#resort_menu').offset();
-       var contentPosition = jq('#content').offset();
-       var contentHeight = jq('#content').outerHeight();
-      
-       jq(window).scroll(function(){
-       if(jq(window).scrollTop() > elementPosition.top){
-       
-       if(jq(window).scrollTop() > (contentPosition.top + contentHeight)) {
-       
-       jq('#resort_menu.resort_menu_fixed')
-       .removeClass('resort_menu_fixed')
-       .addClass('resort_menu_abs')
-       .css('top', (contentPosition.top + contentHeight) + "px")
-       .css('left', (elementPosition.left) + "px");
-       
-       } else {
-       
-       jq('#resort_menu')
-       .removeClass('resort_menu_abs')
-       .addClass('resort_menu_fixed')
-       .css('top', 0)
-       .css('left', (elementPosition.left) + "px");
-       jq('#content')
-       .css('padding-top', '43px');
-       }
-       
-       } else {
-        
-       jq('#resort_menu')
-       .removeClass('resort_menu_fixed')
-       .css('top', "")
-       .css('left',"");
-       
-       jq('#content')
-       .css('padding-top', '0');
-       }
-       });
-     }
-
-      if (!jq('#resort_menu').length) return;
-
-      var view    = jq(window);
-      var content = jq("#content"); if (!content.length) return;
-      var sidebar = jq("#sidebar"); if (!sidebar.length) return;
-      var ymin    = sidebar.offset().top;
-      var is_touch = 'ontouchstart' in window;
-      
-      function set_fixed(on,y) {
-        if (on==sidebar.is(".sidebar_fix") && (on || !y || y==sidebar.css('top'))) return;
-        if (on) sidebar.removeClass("sidebar_abs").addClass("sidebar_fix");
-          else  sidebar.removeClass("sidebar_fix").addClass("sidebar_abs");
-        sidebar.css('top',y);
-      }
-
-      function update() {
-        var ymax = content.offset().top+content.height()-sidebar.height()-18;
-        var y  = view.scrollTop();
-        if (!is_touch) {
-          if (y <= ymin) set_fixed(0,0); else 
-          if (y >  ymax) set_fixed(0,ymax-ymin); else
-          set_fixed(1,0);
-        } else {
-          if (y <= ymin) y = ymin; else 
-          if (y >  ymax) y = ymax; else;
-          sidebar.css('-webkit-transform','translateY('+(y-ymin)+'px)');
-        }
-      };
-
-      if (!is_touch) {        
-        view.bind("scroll resize", update);      
-      } else {
-        sidebar.children().first().css('webkitTransform','scale3d(1,1,1)');
-        sidebar.css('-webkit-transition','-webkit-transform 1.5s ease-in-out');
-        sidebar.css('-webkit-backface-visibility','hidden');
-        view.bind("touchend", function() { setTimeout(update,0); });
-      }
-    });
-
-  </script>
+<!DOCTYPE html><html class="no-js"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Privacy</title>
     <base href="http://www.dreamsresorts.com/privacy">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="generator" content="Joomla! - Open Source Content Management">
   <title>Privacy</title>
   <link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
-  <link rel="stylesheet" href="http://www.dreamsresorts.com/modules/mod_resorts_map/css/style.css" type="text/css">
-  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
-  <script src="/media/system/js/core.js" type="text/javascript"></script>
-  <script src="/media/system/js/caption.js" type="text/javascript"></script>
-  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
-  <script src="http://www.dreamsresorts.com/modules/mod_resorts_map/js/UI_tabs.js" type="text/javascript"></script>
-  <script src="/modules/mod_amr_kit/js/modernizr_forms.js" type="text/javascript"></script>
-  <script src="http://www.dreamsresorts.com/modules/mod_menu/tmpl/menu.js" type="text/javascript"></script>
-  <script type="text/javascript">
-window.addEvent('load', function() {
-				new JCaption('img.caption');
-			});
-  </script>
 
-  <script type="text/javascript" src="/templates/desktop/js/SqueezeBox.js"></script>
 
-  <!--[if lte IE 8 ]>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="format-detection" content="telephone=no">
+  <link href="/favicon.png" rel="shortcut icon" type="image/png">
+  <link rel="stylesheet" href="/templates/responsive/stylesheets/css/main.css" type="text/css">
+  <link rel="stylesheet" href="/templates/responsive/stylesheets/css/flag-icon-css/css/flag-icon.css" type="text/css">
+  <!--[if lt IE 9]>
+  <script src="/templates/responsive/js/dist/lib/html5-shiv.js"></script>
+  <![endif]-->
 
-  <!--script type="text/javascript" src="/templates/desktop/js/IE8.js"></script-->
+  <!-- TYPEKIT -->
+      <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5SVZ3Q"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://use.typekit.net/dra6osp.js"></script> <!-- AMR Typekit -- Production -->
+  
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+  <script type="text/javascript">window.q=[];window.$=window.jq=function(f){q.push(f)}</script>
+  <!-- END TYPEKIT -->
 
-  <script type="text/javascript" src="/templates/desktop/js/pseudo.js"></script>
-
-  <!--[endif]---->
-
-  <!--[if IE 8 ]>
-
-  <style>
-
-    .ui-datepicker-group-last {
-
-    left:10px;
-
-  }
-
-  </style><![endif]-->
-
-  <link rel="stylesheet" type="text/css" href="/plugins/editors/jckeditor/typography/typography.php">
+<link rel="stylesheet" type="text/css" href="/plugins/editors/jckeditor/typography/typography.php">
 </head>
 
-  <body class="alias_privacy menu_mainmenu">
-
-<!-- Cendyn Master Tag -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5SVZ3Q"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-5SVZ3Q');</script>
-<!-- End Cendyn Mater Tag -->
-<!-- Start of SkyGlue Code -->
-         <script type="text/javascript">
-           var _sgq = _sgq || [];
-           _sgq.push(['setSgAccount', 'kwmgjxik']);
-
-           setTimeout(function() {
-             var sg = document.createElement('script'); sg.type = 'text/javascript'; sg.async = true;
-             sg.src = ("https:" == document.location.protocol ? "https://dc" : "http://cdn0") + ".skyglue.com/sgtracker.js";
-             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sg, s);
-           }, 1);
-         </script>
-<!-- End of SkyGlue Code -->   
-
-
-<!-- Start of DoubleClick Floodlight Tag Creation. Date: 06/19/2012  --> 
-
-<script>document.write('<iframe src="http://fls.doubleclick.net/activityi;src=3038919;type=gener669;cat=amres389;ord=1405633233?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
-
-</script><iframe src="http://fls.doubleclick.net/activityi;src=3038919;type=gener669;cat=amres389;ord=1405633233?" width="1" height="1" frameborder="0" style="display:none"></iframe>
-<noscript>
-  <iframe src="http://fls.doubleclick.net/activityi;src=3038919;type=gener669;cat=amres389;ord=1405633233?" width="1" height="1" frameborder="0" style="display:none"></iframe>  </noscript>
-
-<!-- End of DoubleClick Floodlight Tag -->
-
-
-
-
-<div id="top_alert_bar" style="">
-
-    <div id="top_alert_bar_title"><b>Hotel Update:</b> <a href="/hotel-updates">Click here to learn more</a></div>
-
-    <div id="top_alert_bar_close"><span>close</span></div>
-    <script>
-    if (jq.cookie('alert_showed_219') != 'hide')  
-    {jq('#top_alert_bar').css('display', '')
-    ;}
-    jq(function() {
-      jq('#top_alert_bar_close').click(function(){
-          jq('#top_alert_bar').animate({'margin-top': '-35px'}, 500, function() {jq.cookie('alert_showed_219', 'hide', {expires: 3})  })
-        })
-    })
-  </script>
-
-</div>
- <div id="top_panel"> </div>
-<div id="mainframe">
-    <div id="top">
-    <div id="top_nav">
-                                <!--a href="#booking_box" rel="boxed">
-  <div class="book_now" style="float:right;"> </div>
-</a-->
-
-<div style="display: none;">
-  <div id="booking_box" class="booking_box">
-    <div class="booking_box_frame">
-      <div class="booking_box_title">Let's Get Started!</div>
-      <form onsubmit="_gaq.push(['_linkByPost', this]);" method="post" name="myform" target="_blank" enctype="application/x-www-form-urlencoded;chrset=UTF-8" style="margin:0px;padding:0px;">
-          <div class="booking_box_sep"> </div>
-          <p>When would you like to go?</p>
-          <input name="Depart" class="booking_bar_date booking_box_date booking_depart" type="button" value="From"><span class="booking_bar_icon"></span>
-          <div class="booktip_depart"></div>
-          <input name="Return" class="booking_bar_date booking_box_date booking_return" type="button" value="To"><span class="booking_bar_icon"></span>
-          <div class="booktip_return"></div>
-          <br>
-
-          <div class="button_33 booking_btn room">
-            <div class="button_33_start">&nbsp;</div>
-            <a href="javascript:void(0)" onclick="_gaq.push(['_trackEvent', 'booking_widget_submit', 'booking box', 'Experience']);">Unlimited-Luxury® Experience</a>
-            <div class="button_33_end">&nbsp;</div>
-          </div>
-
-          <div class="button_33 booking_btn air">
-            <div class="button_33_start">&nbsp;</div>
-            <a href="javascript:void(0)" onclick="_gaq.push(['_trackEvent', 'booking_widget_submit', 'booking box', 'Airfare']);">Unlimited-Luxury® + Airfare</a>
-            <div class="button_33_end">&nbsp;</div>
-          </div>
-
-          <div class="booking"></div>
-        </form>
+<!--[if gt IE 8]><!--><body class="alias_privacy menu_mainmenu"><!--<![endif]-->
+<!--[if IE 8]><body class="alias_privacy menu_mainmenu ie8"><![endif]-->
+		
+<div class="notification-bar" data-js="alert-bar">
+  <div class="notification-bar-body">
+    <div class="notification-bar-text">
+      <a href="/hotel-updates">U.S. Passport Policy Update</a>
     </div>
+    <div class="notification-bar-close">
+      close <button type="button" class="modal-bar-close" data-js="close-alert-bar">x</button>
+    </div>
+    <script>
+
+    jq(function() {
+      if (jq.cookie('alert_showed_219') != 'hide')  {
+        jq('[data-js="alert-bar"]').addClass('is-active');
+      }
+
+        jq('[data-js="close-alert-bar"]').click(function() {
+            jq.cookie('alert_showed_219', 'hide', {expires: 3});
+            jq('[data-js="alert-bar"]').removeClass('is-active');
+            jq('[data-js="canvas-menu"]').removeClass('cover-alert-bar');
+        });
+      });
+
+    </script>
   </div>
 </div>
-      
-      
-<div id="booking_bar" class="resort">
-  <div id="booking_bar_center">
-    <form onsubmit="_gaq.push(['_linkByPost', this]);" method="post" name="myform" target="_blank" enctype="application/x-www-form-urlencoded;chrset=UTF-8" style="margin:0px;padding:0px;">
-    <div id="booking_bar_title">Book Now</div>
-    <select id="booking_bar_select" class="booking_bar_select" style="display: none;"> 
-    	<option value="" selected="">Where would you like to go?</option>       
-	<option value="huatulco">Dreams Huatulco</option> 
-	<option value="la-romana">Dreams La Romana</option> 
-	<option value="las-mareas">Dreams Las Mareas</option> 
-	<option value="los-cabos">Dreams Los Cabos</option> 
-	<option value="palm-beach">Dreams Palm Beach Punta Cana</option> 
-	<option value="puerto-aventuras">Dreams Puerto Aventuras</option> 
-	<option value="punta-cana">Dreams Punta Cana</option> 
-	<option value="riviera-cancun">Dreams Riviera Cancun</option>
-	<option value="sands">Dreams Sands Cancun</option> 
-	<option value="tulum">Dreams Tulum</option> 
-	<option value="villamagna">Dreams Villamagna</option> 
-	<option value="sugar-bay">Dreams Sugar Bay St. Thomas</option> 
-    </select>  
-    <div class="booktip_sel"></div>
-    <input name="Depart" class="booking_bar_date booking_depart" type="button" value="From"><span class="booking_bar_icon"></span>
-    <div class="booktip_depart"></div>
-    <input name="Return" class="booking_bar_date booking_return" type="button" value="To"><span class="booking_bar_icon"></span>
-    <div class="booktip_return"></div>
-    <!--a href="javascript:void(0)" class="button_25 booking_btn room">BOOK YOUR ROOM</a-->
-    <!--a href="javascript:void(0)" class="button_25 booking_btn air">ROOM + AIRFARE</a-->
-
-    <div class="button_25 booking_btn room">      
-      <div class="button_25_start"> </div>      
-      <a href="javascript:void(0)" onclick="_gaq.push(['_trackEvent', 'booking_widget_submit', 'booking bar', 'Experience']);">Unlimited-Luxury® Experience ›</a>      
-      <div class="button_25_end"> </div>    
-    </div>    
-    
-    <div class="button_25 booking_btn air">      
-      <div class="button_25_start"> </div>      
-      <a href="javascript:void(0)" onclick="_gaq.push(['_trackEvent', 'booking_widget_submit', 'booking bar', 'Airfare']);">Unlimited-Luxury® + Airfare ›</a>      
-      <div class="button_25_end"> </div>    
-    </div>
-
-    </form></div>
-    <div style="width:100%;height:0;display:inline-block;"></div> 
-</div>
-
-      
-      
-
-<script>
-var ONE_DAY = 1000 * 60 * 60 * 24, maxNights = 25;
-//var dimmed = 'sugar-bay'; //use if resort is land only ~fam
-
-function Booking(base,options) {
-  this.b      = jq(base);
-  this.check  = false;
-  this.options= options;
-  this.dimmed = false;
-
-  this.params = { 
-    id_stile:9225, 
-    lingua_int:'eng',
-    tot_adulti:2,
-    adulti1: 2,
-    tot_bambini:0,
-    tot_camere:1,
-    notti_1:7,
-    id_albergo: 0
-  };  
-
-  var that = this;
-
-  this.setResort = function(id) {
-    switch (id) {
-      case 'las-mareas' :
-        this.params.id_albergo = 12346; 
-        this.params.dc = 9506;
-        break;
-      case 'riviera-cancun' : 
-        this.params.id_albergo = 10577; 
-        this.params.dc = 120;
-        break;
-      case 'puerto-aventuras' : 
-        this.params.id_albergo = 10578; 
-        this.params.dc = 562;
-        break;
-      case 'tulum':
-        this.params.id_albergo = 10579;
-        this.params.dc = 198;
-        break;
-      case 'la-romana':
-        this.params.id_albergo = 10580;
-        this.params.dc = 427;
-      break;
-      case 'punta-cana':
-        this.params.id_albergo = 10581; 
-        this.params.dc = 139;
-        break;
-      case 'palm-beach':
-        this.params.id_albergo = 10582; 
-        this.params.dc = 517;
-        break;
-      case 'huatulco':
-        this.params.id_albergo = 10583; 
-        this.params.dc = 549;
-        break;
-      case 'los-cabos':
-        this.params.id_albergo = 10584; 
-        this.params.dc = 126;
-        break;
-      case 'villamagna':
-        this.params.id_albergo = 10586;
-        this.params.dc = 538;
-        break;
-      case 'sands':
-        this.params.id_albergo = 12069;
-        this.params.dc = 9602;
-        break;
-      case 'sugar-bay':
-        this.params.id_albergo = 12361;
-        this.params.dc = 2534;
-        break;
-    }
-  } 
-
-  this.setRange = function (from,to) {
-    var nights = Math.max(1,Math.round((to-from)/ONE_DAY));
-    this.params.notti_1 = nights;
-    this.params.aa = from.getFullYear();
-    this.params.mm = from.getMonth()+1;
-    this.params.gg = from.getDate();
-  }
-
-  this.submit = function() {
-  
-    if(this.params.id_albergo > 0) {  
-        var url = 'https://booking.dreamsresorts.com/reservation_hotel.htm',s = '';
-    } else {
-        var url = 'https://booking.dreamsresorts.com/reservation_gruppo.htm',s = '';
-        this.params.id_gruppo = 9437; 
-        this.params.dc_gruppo = 1151; 
-        this.params.mostra_loc = "no"; 
-        this.params.id_brand = 4; 
-
-    }
-  jq("form",this.b).find('.params').remove();
-    if (1) {
-      for (var i in this.params) { 
-        //console.log(i + " : " + this.params[i]);
-        // s += (s==''?'?':'&') + i+'='+this.params[i];
-    jq("form",this.b).append('<input type="hidden" name="' + i + '" value="' + this.params[i] + '"  class="params" />');
-      }  
-    }
-    jq("form",this.b).attr({'action': url, 'method': 'POST'}).submit();
-  }
-
-  this.getDate = function (id) {
-    var date = new Date(jq(id,this.b).attr('value'));
-    return 'Invalid Date'==date || isNaN(date) ? null:date;
-  }
-
-  this.setDate = function (id,v) {
-    jq(id,this.b).attr('value',jq.datepicker.formatDate("mm/dd/yy",v)); 
-  }
-  
-  this.fade = function (v) {
-    if (that.options && that.options.index) 
-      return {opacity:v?1:0,'z-index':v?1:-1};
-    else  
-      return {opacity:v?1:0,'z-index':0};
-  }
-
-  this.show = function(id,on,time) {
-    var el = jq(id,that.b);
-    if (on) el.css('display','inline-block');
-    if (on) el.animate(that.fade(on), time, function() { el.css('display','inline-block') } ); 
-      else  el.animate(that.fade(on), time, function() { el.css('display','none') } ); 
-  }
-
-  this.update = function (tip) {
-    setTimeout(function() {
-      var from = that.getDate('.booking_depart');
-      var to   = that.getDate('.booking_return');
- 
-      var v_sel  = that.sel ? jq(that.sel,that.b).attr('data-val'):'';    
-      var b_from = that.check && !from;
-      var b_to   = that.check && !to;
-      var b_sel  = that.check && v_sel=='';
-
-      if (typeof(dimmed)=='string') {
-        that.dimmed = that.sel && v_sel==dimmed || !that.sel && jq('body').is('.menu_'+dimmed);
-        jq('.button_33.air,.button_33:has(.air),',that.b)[that.dimmed ? 'addClass':'removeClass']('dimmed');
-        jq('.button_25.air,.button_25:has(.air),',that.b)[that.dimmed ? 'addClass':'removeClass']('dimmed');
-      }
-     // var dimmed = 'RESORTALIAS';
-      if (from && to) {
-        if (from>to) that.setDate('.booking_return',to = from); 
-        var nights = Math.max(1,Math.round((to-from)/ONE_DAY));
-    
-        if (nights>maxNights) {
-          nights = maxNights;
-          to = new Date(from.getTime() + nights*ONE_DAY);
-          that.setDate('.booking_return',to); 
-        }
-      }
-  
-      var time = tip===0 ? 0:300;
-      if (tip!=null || !b_from) that.show(".booktip_depart",b_from, time);
-      if (tip!=null || !b_to  ) that.show(".booktip_return",b_to  , time);
-      if (tip!=null || !b_sel ) that.show(".booktip_sel"   ,b_sel , time);
-  
-      jq(".booking_depart",that.b).css(           b_from? {border:'1px solid white'}:{border:""});
-      jq(".booking_return",that.b).css(           b_to  ? {border:'1px solid white'}:{border:""});
-      if (that.seltip) jq(that.seltip,that.b).css(b_sel ? {border:'1px solid white'}:{border:""});
-    },0);
-  }
-  
-  jq('.booktip_depart, .booktip_return, .booktip_sel',this.b).die().live('hover', function(){ that.show(this,0,300) })
-  jq(".booking_bar_icon",this.b).live('click', function() { jq(this).prev().trigger('click'); });
-  
-  jq(".booking_bar_date",this.b).each(function() {
-    jq(this).datepicker('destroy');  
-  });
-  
-  this.update(0);
-
-  jq(".booking_bar_date",this.b).die().live('click', function() {
-    if (!that.sel) jq.datepicker.dpDiv.css({'bottom':'auto'});
-    var minDate = 0, maxDate = null;
-    if (jq(this).is('.booking_return')) {
-      var from = that.getDate('.booking_depart');
-      var to   = that.getDate('.booking_return');
-      if (from) {
-        minDate = from; 
-        maxDate = new Date(from.getTime() + maxNights*ONE_DAY);
-        if (to) {
-          jq(this).datepicker('destroy');  
-        }
-      } 
-    }
- 
-    jq(this).datepicker({minDate:minDate, maxDate:maxDate, defaultDate:minDate, 
-      numberOfMonths:2, dateFormat:"mm/dd/yy", showOn:'focus',onClose:function(){that.update()},
-      beforeShow: function(input, inst) {
-              
-          if (!that.sel || that.options && that.options.index) return;
-          jq.datepicker._pos = jq.datepicker._findPos(input);
-          jq.datepicker._pos[1] -= jq(document).scrollTop()+225;
-              
-      }
-    }).focus();
-  });
-
-  if (that.options && that.options.sel) {
-    that.sel    = that.options.sel+'SelectBoxItText';
-    that.seltip = that.options.sel+'SelectBoxIt';
-
-    jq(that.options.sel+" option:selected").attr('selected','')
-    jq(that.options.sel+" option[value="+cur_resort+"]").attr('selected','selected')
-    jq("#basement").css('padding-bottom', '52px');
-    jq(that.options.sel).selectBoxIt({autoWidth:false}).data('booking_bar_ui_');
-    jq(that.options.sel).bind('close',function(){that.update()});
-    
-    jq(that.options.sel+" option").each(function() {
-      if (jq(this).val() == cur_resort) { 
-        jq(this).attr('selected', 'selected')
-      }
-    });
-  }
-
-
-  jq(".booking_btn.air",this.b).die().live('click', function() {
-    that.check = false;
-    that.update();
-    if (!that.dimmed) {
-      jq("form",that.b).attr('action','https://partners.kcdataservices.com/amr/custom/buildMyOwn.jsp?agn_id=67296').submit();
-      //jq("form",that.b).attr('action','https://partners.kcdataservices.com/amr/custom/buildMyOwn.jsp?agn_id=39543906&ui_path=dreams').submit();
-    }
-  })
-  jq(".booking_btn.room",this.b).die().live('click', function() {
-    that.check = true;
-    that.update(1);
-  
-    var from = that.getDate('.booking_depart'); if (!from) return;
-    var to   = that.getDate('.booking_return'); if (!to  ) return;
-
-    var resort = typeof(cur_resort)=='string' ? cur_resort:'';
-    if (that.sel) {
-      var sel  = that.options && that.options.sel && jq(that.options.sel,that.b).val(); 
-      if (sel!='') resort = sel; else return;
-    } 
-    that.setResort(resort);
-    that.setRange(from,to);
-    that.submit();
-  })
-} 
-
-SqueezeBox.addEvent('onUpdate', function() {
-  var top_booking = new Booking('#sbox-content .booking_box'); 
-});
-
-jq(function() {
-  if (jq('#booking_bar').length) {
-    var foot_booking = new Booking('#booking_bar',{sel:'#booking_bar_select'}); 
-    if (!jq('#resort_bar_title').length) jq('#booking_bar').attr('class','brand');
-  }
-
-  if (jq('#onslider_booking').length) {
-//  var d; if ((d=jq('#resort_bar')).length) jq('#onslider_booking').css('margin-top',45);
-    var onslider_booking = new Booking('#onslider_booking',{index:1,sel:'#onslider_booking_select'}); 
-  }  
-})
-
-</script>
-
-                     <div class="top_selector_frame deeper">
-         <div class="top_selector" style="float:left; margin-left:10px;"> Select Language </div>
-         <div class="top_selector_box" style="left:0; right:auto; border-radius: 2px 0 2px 2px!important;"> <a href="#">Selected Language English</a> <a href="http://www.dreamsresorts.com.mx/">Spanish</a></div>
-		</div>
 
 		
-        <div class="top_homelink" style="float:right; margin-right:15px;"><a href="#lightbox_view_reservation" rel="boxed">View Reservation</a></div>
-        <div class="top_homelink" style="float:right; margin-right:15px;"><a href="/offers">Special Offers</a></div>
-
-                  
-        <a href="/..">
-      <div id="main_logo"> </div>
-      </a> </div>
-    
-             <div id="main_nav">
-         
-
-  
-  <ul class="menu" id="main_nav_left">
-  <li class="item-475 deeper n0 parent"><a href="/our-resorts-spas">Our Resorts &amp; Spas </a><ul><li class="item-477 deeper n1 parent"><a href="/our-resorts-spas">DREAMS IN MEXICO</a><ul><li class="item-482"><a href="/huatulco">Dreams Huatulco Resort &amp; Spa</a></li><li class="item-484"><a href="/los-cabos">Dreams Los Cabos Suites Golf Resort &amp; Spa</a></li><li class="item-1651"><a href="/playa-mujeres">Dreams Playa Mujeres Golf &amp; Spa Resort</a></li><li class="item-479"><a href="/puerto-aventuras">Dreams Puerto Aventuras Resort &amp; Spa</a></li><li class="item-480"><a href="/riviera-cancun">Dreams Riviera Cancun Resort &amp; Spa</a></li><li class="item-1481"><a href="/sands-cancun">Dreams Sands Cancun Resort &amp; Spa</a></li><li class="item-708"><a href="/tulum">Dreams Tulum Resort &amp; Spa</a></li><li class="item-1773"><a href="/playa-del-carmen">Dreams Villas Playa del Carmen</a></li><li class="item-989"><a href="/villamagna">Dreams Villamagna Nuevo Vallarta</a></li></ul></li><li class="item-488 deeper n2 parent"><a href="/our-resorts-spas">DREAMS IN DOMINICAN REPUBLIC</a><ul><li class="item-1681"><a href="/dominicus">Dreams Dominicus La Romana</a></li><li class="item-487"><a href="/la-romana">Dreams La Romana Resort &amp; Spa</a></li><li class="item-489"><a href="/palm-beach">Dreams Palm Beach Punta Cana</a></li><li class="item-486"><a href="/punta-cana">Dreams Punta Cana Resort &amp; Spa</a></li></ul></li><li class="item-485 deeper n3 parent"><a href="/our-resorts-spas">DREAMS IN COSTA RICA</a><ul><li class="item-1261"><a href="/las-mareas">Dreams Las Mareas Costa Rica</a></li></ul></li><li class="item-1545 deeper n4 parent"><a href="/our-resorts-spas">DREAMS IN US VIRGIN ISLANDS</a><ul><li class="item-1547"><a href="/sugar-bay">Dreams Sugar Bay St. Thomas</a></li></ul></li><li class="item-1663 deeper n5 parent"><a href="/our-resorts-spas">DREAMS IN PANAMA</a><ul><li class="item-1665"><a href="/buenaventura-panama">Dreams Buenaventura Panama</a></li></ul></li></ul></li><li class="item-503"><a href="/your-dreams-getaway">Your Dreams Getaway</a></li></ul>
-
-  
-  <ul class="menu" id="main_nav_right">
-  <li class="item-490"><a href="/your-dreams-wedding">Your Wedding</a></li><li class="item-1123"><a href="/your-spa-day">Your Spa Day</a></li><li class="item-491"><a href="/your-dreams-meeting">Your Meeting</a></li></ul>
-
-         
-       </div>
-     
-    <div class="inside"> top navigation </div>
+<header class="header">
+  <div class="nav-home-link-position">
+    <div class="nav-home-link">
+        <div class="nav-home-link-container"><a href="http://www.dreamsresorts.com/" class="nav-logo"></a></div>
+    </div>
   </div>
-    
-    <div id="bodyframe">
-      
-   
-    <div id="content">
-        
-                
-        <!-- 
+    <!-- secondary navigation -->
+    <nav role="navigation" class="nav--secondary-container hide-mobile ">
+      <ul class="container nav nav--secondary">
+        <li class="nav-item-left">
+          <ul>
+                      <li class="nav-desktop-links brand-home-link"> <i class="nav-back-link nav-top-home-icon"></i><a href="http://www.dreamsresorts.com/">Dreams Home </a></li>
           
-                            
-          -->
-      
-        <div id="content_body" style="">
-        <div id="central_box" style="margin-right: 41px; width:621px;">
-            <div id="home_top">
-            <div id="home_top_mask"> </div>
-            
-            <!--<div class="item-page">-->
+                      <li class="nav-dropmenu-container"><a href="#" class="nav-links nav-drop-link">Our Brand Collection</a>
+              <ul class="nav-submenu submenu--is-closed" data-js="nav-dropdown-menu">
+                <li><a href="http://www.zoetryresorts.com">Zoëtry Wellness &amp; Spa Resorts</a></li>
+                <li><a href="http://www.secretsresorts.com">Secrets Resorts &amp; Spas</a> </li>
+                <li><a href="http://www.breathlessresorts.com">Breathless Resorts &amp; Spas</a></li>
+                <li><a href="http://www.dreamsresorts.com">Dreams Resorts &amp; Spas</a></li>
+                <li><a href="http://www.nowresorts.com">Now Resorts &amp; Spas</a></li>
+                <li><a href="http://www.sunscaperesorts.com">Sunscape Resorts &amp; Spas</a></li>
+              </ul>
+            </li>
+                    <li class="nav-dropmenu-container"><a href="#" class="nav-links nav-drop-link"><span class="flag-icon flag-icon-us"></span> US</a>
+            <ul class="nav-submenu submenu--is-closed" data-js="nav-dropdown-menu">
+              <li><a href="http://www.dreamsresorts.com.mx/"><span class="flag-icon flag-icon-mx"></span> Mexico</a></li><li><a href="http://www.dreamsresorts.com.br/"><span class="flag-icon flag-icon-br"></span> Brazil</a></li><li><a href="http://www.dreamsresorts.com.pa/"><span class="flag-icon flag-icon-pa"></span> Panama</a></li><li><a href="http://www.dreamsresorts.cr/"><span class="flag-icon flag-icon-cr"></span> Costa Rica</a></li>            </ul>
+          </li>
+          </ul>
+        </li><!-- end nav-item-left -->
+        <li class="nav-item-right">
+          <ul>
+            <li class="nav-desktop-links"><a href="/offers" class="nav-links">Special Offers</a></li>
+            <li><a href="#lightbox_view_reservation" aria-describedby="lightbox_view_reservation" rel="boxed" class="nav-links js-nav-lightbox">View Reservation</a></li>
+                        <li class="nav-button-desktop"><a href="#booking_box" aria-describedby="booking_box" rel="boxed" class="btn btn--small btn-brand">Book Your Vacation »</a></li>
+                      </ul>
+        </li><!-- end nav-item-right -->
+      </ul>
+    </nav>
+    <!-- end secondary navigation -->
+    <!-- primary navigation -->
+        <nav role="navigation" class="nav--primary-container nav-brand">
+      <ul class="container nav nav--primary nav--primary--brand">
+            <li class="nav-menu-toggle"><a class="nav-main-links nav-tablet-links" href="#" data-js="nav-menu-toggle"><i class="menu-toggle-icon nav-menu-icon"></i>Menu</a></li>
+            <li>
+          <ul class="nav-mobile-links">
+            <li><a href="#booking_box" aria-describedby="booking_box" rel="boxed" class="btn btn--small btn-brand nav-button-mobile">Book Now</a></li>
+            <li><a href="/offers">Special Offers</a></li>
+          </ul>
+        </li>
+      </ul>
+      <div class="nav-button-tablet"><a href="#booking_box" aria-describedby="booking_box" rel="boxed" class="btn btn--small btn-brand nav-button-desktop">Book Your Vacation Now »</a></div>
+      <div data-js="canvas-menu" class="nav-canvas-container">
+        <div class="nav-mobile-header">
+          <div class="nav-mobile-header-close" data-js="nav-mobile-header-close">
+            <i class="nav-mobile-close mobile-close-icon"></i>
+          </div>
+          <div class="nav-mobile-header-logo">
+            <a href="/"><div class="mobile-menu-logo"></div></a>
+          </div>
+        </div>
+        <ul class="container nav nav--primary nav--primary--brand nav--canvas-menu">
+        
+  <li class="nav-item-primary-link nav-item-primary-link--left item-475 deeper n0 parent"><a href="/our-resorts-spas">Our Resorts &amp; Spas </a><ul class="nav-submenu-section submenu--is-closed"><li class="nav-item-primary-link nav-item-primary-link--left item-477 deeper n1 parent"><a href="/our-resorts-spas">DREAMS IN MEXICO</a><ul class="nav-submenu-section submenu--is-closed"><li class="nav-item-primary-link nav-item-primary-link--left item-482"><a href="/huatulco">Dreams Huatulco Resort &amp; Spa</a></li><li class="nav-item-primary-link nav-item-primary-link--left item-484"><a href="/los-cabos">Dreams Los Cabos Suites Golf Resort &amp; Spa</a></li><li class="nav-item-primary-link nav-item-primary-link--left item-1651"><a href="/playa-mujeres">Dreams Playa Mujeres Golf &amp; Spa Resort</a></li><li class="nav-item-primary-link nav-item-primary-link--left item-479"><a href="/puerto-aventuras">Dreams Puerto Aventuras Resort &amp; Spa</a></li><li class="nav-item-primary-link nav-item-primary-link--left item-480"><a href="/riviera-cancun">Dreams Riviera Cancun Resort &amp; Spa</a></li><li class="nav-item-primary-link nav-item-primary-link--left item-1481"><a href="/sands-cancun">Dreams Sands Cancun Resort &amp; Spa</a></li><li class="nav-item-primary-link nav-item-primary-link--left item-708"><a href="/tulum">Dreams Tulum Resort &amp; Spa</a></li><li class="nav-item-primary-link nav-item-primary-link--left item-989"><a href="/villamagna">Dreams Villamagna Nuevo Vallarta</a></li></ul></li><li class="nav-item-primary-link nav-item-primary-link--left item-488 deeper n2 parent"><a href="/our-resorts-spas">DREAMS IN DOMINICAN REPUBLIC</a><ul class="nav-submenu-section submenu--is-closed"><li class="nav-item-primary-link nav-item-primary-link--left item-1681"><a href="/dominicus">Dreams Dominicus La Romana</a></li><li class="nav-item-primary-link nav-item-primary-link--left item-487"><a href="/la-romana">Dreams La Romana Resort &amp; Spa</a></li><li class="nav-item-primary-link nav-item-primary-link--left item-489"><a href="/palm-beach">Dreams Palm Beach Punta Cana</a></li><li class="nav-item-primary-link nav-item-primary-link--left item-486"><a href="/punta-cana">Dreams Punta Cana Resort &amp; Spa</a></li></ul></li><li class="nav-item-primary-link nav-item-primary-link--left item-485 deeper n3 parent"><a href="/our-resorts-spas">DREAMS IN COSTA RICA</a><ul class="nav-submenu-section submenu--is-closed"><li class="nav-item-primary-link nav-item-primary-link--left item-1261"><a href="/las-mareas">Dreams Las Mareas Costa Rica</a></li></ul></li><li class="nav-item-primary-link nav-item-primary-link--left item-1663 deeper n4 parent"><a href="/our-resorts-spas">DREAMS IN PANAMA</a><ul class="nav-submenu-section submenu--is-closed"><li class="nav-item-primary-link nav-item-primary-link--left item-1665"><a href="/buenaventura-panama">Dreams Buenaventura Panama</a></li></ul></li><li class="nav-item-primary-link nav-item-primary-link--left item-1863 deeper n5 parent"><a href="/our-resorts-spas">DREAMS IN PUERTO RICO</a><ul class="nav-submenu-section submenu--is-closed"><li class="nav-item-primary-link nav-item-primary-link--left item-1865"><a href="/puerto-rico">Dreams Puerto Rico Resort &amp; Spa</a></li></ul></li></ul></li><li class="nav-item-primary-link nav-item-primary-link--left item-503"><a href="/your-dreams-getaway">Your Dreams Getaway</a></li>
+  <li class="nav-item-primary-link nav-item-primary-link--right item-490"><a href="/your-dreams-wedding">Your Wedding</a></li><li class="nav-item-primary-link nav-item-primary-link--right item-1123"><a href="/your-spa-day">Your Spa Day</a></li><li class="nav-item-primary-link nav-item-primary-link--right item-491"><a href="/your-dreams-meeting">Your Meeting</a></li>
+      </ul>
+      <div class="nav--navbar-footer">
+      <ul class="nav--navbar-footer-links">
+        <li class="nav--navbar-footer-link">
+          <a href="#booking_box" aria-describedby="booking_box" rel="boxed">Book Now  ›</a>
+        </li>
+        <li class="nav--navbar-footer-link">
+          <a href="#lightbox_view_reservation" aria-describedby="lightbox_view_reservation" rel="boxed" class="js-nav-lightbox">View Reservation  ›</a>
+        </li>
+        <li class="nav--navbar-footer-link">
+          <a href="/contact-us">Contact Us  ›</a>
+        </li>
+        <li class="nav--navbar-footer-link">
+          <a href="/connect">Connect With Us  ›</a>
+        </li>
+      </ul>
+      <ul class="nav--navbar-primary-links">
+        <li class="nav-dropmenu-container">
+          <div class="nav-submenu-title" data-js="mobile-menu-droplink">Our Brand Collection<i class="nav-submenu-toggle menu-arrow-icon" data-js="mobile-submenu-toggle"></i></div>
+          <ul class="nav-submenu mobile-menu-dropdown" data-js="mobile-menu-dropdown">
+              <li class="nav--navbar-footer-link"><a href="http://www.zoetryresorts.com">Zoetry Resorts &amp; Spas</a></li>
+              <li class="nav--navbar-footer-link"><a href="http://www.secretsresorts.com">Secrets Resorts &amp; Spas</a></li>
+              <li class="nav--navbar-footer-link"><a href="http://www.breathlessresorts.com">Breathless Resorts &amp; Spas</a></li>
+              <li class="nav--navbar-footer-link"><a href="http://www.dreamsresorts.com">Dreams Resorts &amp; Spas</a></li>
+              <li class="nav--navbar-footer-link"><a href="http://www.nowresorts.com">Now Resorts &amp; Spas</a></li>
+              <li class="nav--navbar-footer-link"><a href="http://www.sunscaperesorts.com">Sunscape Resorts &amp; Spas</a></li>
+          </ul>
+        </li>
+        <li class="nav--navbar-footer-link">
+          <a class="nav-submenu-title" href="/our-resorts-spas">View All Dreams Resorts &amp; Spas</a>
+        </li>
+        <li class="nav-dropmenu-container">
+         <div class="nav-submenu-title" data-js="mobile-menu-droplink">Select Country<i class="nav-submenu-toggle menu-arrow-icon" data-js="mobile-submenu-toggle"></i></div>
+          <ul class="nav-submenu mobile-menu-dropdown" data-js="mobile-menu-dropdown">
+            <li class="nav--navbar-footer-link">
+              <a href="#" title=""><span class="flag-icon flag-icon-us"></span>&nbsp; US</a>
+            </li>
+              <li class="nav--navbar-footer-link">
+                <a href="http://www.dreamsresorts.com.mx/" title=""><span class="flag-icon flag-icon-mx"></span>&nbsp; Mexico</a>
+              </li>
+          </ul>
+        </li>
+      </ul>
+    </div><!-- end mobile only canvas navigation addons -->
+    </div>
+        </nav>
+    <!-- primary navigation -->
+</header>
+		
+		<!-- resort menu located at modules/mod_menu/ resort.php -->
+				<div class="container container--main">
+			
+			<div class="content-wrapper">
+									<div class="main-content main-content--column">
+									
+					<!--<div class="item-page">-->
                 
 <div id="home_text_left">
-  <div id="shown"><div style="text-align:justify;">
-  <div id="home_text_top"><a name="top" id="top"></a>DREAMS RESORTS &amp; SPAS - PRIVACY POLICY</div>
+		<div id="shown"><div>
+  <div id="home_text_top">
+    <a name="top" id="top"></a>
+    <h3>DREAMS RESORTS &amp; SPAS - PRIVACY POLICY</h3>
+    </div>
       <p>By using the Website you accept our Policy. We may revise it at any time by updating the Website.</p>
       <h3>General </h3>
       <p>This policy covers how AMRESORTS treats personal information that AMRESORTS collects and receives, including information related to your past use of AMRESORTS products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. This policy does not apply to the practices of companies that AMRESORTS does not own or control or to people that AMRESORTS does not manage or employ. Please read the following policy to understand how your personal information will be treated as you use our web site, dreamsresorts.com. This policy may change from time to time, so please check back periodically.</p>
@@ -707,147 +253,460 @@ jq(function() {
       
       <p><a href="#top">back to top</a> </p>
     </div> </div>
-  </div>
+</div><!-- #home_text_left -->
 
  
 <!--</div>--> 
 
-          </div>
-            <div id="home_body">
-                        <div style="text-align:justify;font-size: 0;margin-right:-67px\9;">
-                
-                <div style="display:inline-block; width:100%;height:0;"> </div>
-              </div>
-            
-          </div>
-          </div>
-        </div>
-                <div class="sidebar">
-                    <div class="sidebar_divider" style="left:0;">
-            <div class="sidebar_divider_top"> </div>
-            <div class="sidebar_divider_med"> </div>
-            <div class="sidebar_divider_bot"> </div>
-          </div>
-          <div class="sidebar_body" style="margin-left:30px;">
-            
-<div id="sidebar_mail">
-	<div id="header_mail">KEEP IN TOUCH</div>
-	<div id="text_mail">Learn about deals &amp; specials by email.</div>
-	<a href="#gk_lightbox_kit_form" rel="boxed" class="button_email_signup">SIGN UP HERE</a>
+										
+					
+				</div> <!-- end main content -->
+				
+				<div class="sidebar">
+					<div class="sidebar-divider">
+			            <div class="sidebar-divider-top"> </div>
+			            <div class="sidebar-divider-med"> </div>
+			            <div class="sidebar-divider-bot"> </div>
+	          		</div>
+	          		<div class="sidebar-content">
+											<div class="book-place book-place-right">
+          					
 
-	<div style="display: none;">
-		<div id="gk_lightbox_kit_form">
-			<div class="form_mail">
-				<div class="header_mail">SIGN UP TO RECEIVE<br>EXCLUSIVE OFFERS AND PROMOTIONS</div>
-				<div id="formerror" class="error" style="color:red;text-align:center;width:100%;height:14px;size:12px;padding-bottom:5px;"></div>
-				<form class="mail_sign_up" onsubmit="submitOverride(); return false;" name="frmSurvey">
-					<div class="formitem">
-						<label for="givenname">FIRST NAME:</label>
-						<input name="QID2094" type="text" id="givenname" tabindex="1" title="givenname" value="" size="22" maxlength="150" placeholder="First Name" pattern="[a-zA-Z0-9]+" class="givenname">
-					</div>
-					<div class="formitem">
-						<label for="familyname">LAST NAME:</label>
-						<input name="QID2095" type="text" id="familyname" tabindex="2" title="familyname" value="" size="22" maxlength="150" placeholder="Last Name" pattern="[a-zA-Z0-9]+" class="familyname">
-					</div>
-					<div class="formitem">
-						<label for="input_mail">EMAIL:</label>
-						<input name="QID2096" type="text" id="input_mail" tabindex="3" title="input_mail" value="" size="22" maxlength="150" placeholder="Email Address" class="input_mail">
-					</div>
-					<div class="formitem">
-						<label for="zipcode">ZIPCODE:</label>
-						<input name="QID21915" type="text" id="zipcode" tabindex="4" title="zipcode" value="" size="10" maxlength="150" placeholder="Zip Code" pattern="[a-zA-Z0-9]+" class="zipcode">
-					</div>
-					<div class="checkbox">
-						<input name="QID22027||CHECKBOX||67637" type="checkbox">
-					</div>
-					<div class="checkbox-text">
-						<p>AMResorts is requesting for itself and on behalf of its affiliates within the Apple Leisure Group collection of companies your consent to receive e-mail and other electronic 
-							communications regarding the travel and hospitality products and services of the Apple Leisure Group companies.  For more on the companies and for contact information, 
-							please see here: <a href="http://www.appleleisuregroup.com" target="_blank">www.appleleisuregroup.com. </a> You may withdraw this consent at any time by e-mailing us 
-							at <a href="mailto: unsubscribe@amresorts.com" target="_blank">unsubscribe@amresorts.com. </a>For more information you can view our 
-							<a href="/privacy" target="_blank">Privacy Policy</a>.</p>
-					</div>
-					<div class="formbutton">
-						<button type="submit">Submit form</button>
-					</div>
 
-					<!--  cendyn specific hidden form fields -->
-					<input type="hidden" value="False" name="IsMemberAgent">
-					<input type="hidden" value="False" name="IsMemberSurveyPerence">
-					<input type="hidden" value="0" name="MemberID">
-					<input type="hidden" value="7" name="SourceCustomer">
-					<input type="hidden" value="True" name="isCreateProfile">
-					<input type="hidden" value="False" name="isUpdateProfile">
-					<input type="hidden" value="213" name="ProfileSurveyID">
-					<input type="hidden" value="343" name="EmailListID">
-					<input type="hidden" value="7055" name="CompanyID">
-					<input type="hidden" value="No" name="AdminOrOwnerEditResponse">
-					<input type="hidden" value="0" name="AdminOrOwnerResponseID">
-					<input type="hidden" value="92KH5942" name="SurveyID">
-					<input type="hidden" value="0" name="EmailAddressID">
-					<input type="hidden" value="0" name="EmailMessageID">
-					<input type="hidden" value="" name="EID">
-					<input type="hidden" value="A" name="ResponseType">
-					<input type="hidden" value="" name="SurveyComplete">
-					<input type="hidden" value="0" name="DoneClicked">
-					<input type="hidden" value="" name="ItemIDValues">
-					<input type="hidden" value="key=vXaHfpdCGxlIwulboqevRTS4zKJeFdEU&amp;email=sample@cendyn.com&amp;QuestionOnly=True" name="PostedQueryString">
-					<input type="hidden" value="key=vXaHfpdCGxlIwulboqevRTS4zKJeFdEU&amp;email=sample@cendyn.com&amp;QuestionOnly=True" name="FirstPageQueryString">
-					<input type="hidden" value="1" name="DisplayPageNumber">
-					<input type="hidden" value="" name="ResponseStartDate">
-					<input type="hidden" value="1" name="ActualPageNumber">
-					<input type="hidden" value="False" name="loadSecondTemplate">
-					<input type="hidden" value="False" name="bypassLogin">
-					<input type="hidden" value="false" name="hdnUpdatingSurvey">
-					<input type="hidden" value="0" name="ResponseID">
-					<input type="hidden" value="6" name="QuestionNumber">
-					<input type="hidden" value="," name="SP">
-					<input type="hidden" value="P" name="TypePoll">
+<!-- without the presence of this extra form element, the form wrapper below will not render but the content within will -->
+<form method="post" name="myform" target="_blank" enctype="application/x-www-form-urlencoded;chrset=UTF-8" class="selectbox-form">
+</form>
+<!-- -->
+  <div class="selectbox selectbox--bar booking-bar" id="booking_bar">
+    <form onsubmit="_gaq.push(['_linkByPost', this]); _gaq.push(['_trackEvent', 'booking_widget', 'booking bar']);" method="post" name="myform" target="_blank" enctype="application/x-www-form-urlencoded;chrset=UTF-8" class="selectbox-form">
+      <div class="selectbox-title">Book Now</div>
+        <select id="booking_bar_select" class="selectbox--bar-selector">
+            <option value="" selected="selected">Where would you like to go?</option>
+	<option value="huatulco">Dreams Huatulco</option>
+	<option value="la-romana">Dreams La Romana</option>
+	<option value="las-mareas">Dreams Las Mareas</option>
+	<option value="los-cabos">Dreams Los Cabos</option>
+	<option value="palm-beach">Dreams Palm Beach Punta Cana</option>
+	<option value="playa-mujeres">Dreams Playa Mujeres</option>
+	<option value="puerto-aventuras">Dreams Puerto Aventuras</option>
+	<option value="punta-cana">Dreams Punta Cana</option>
+	<option value="riviera-cancun">Dreams Riviera Cancun</option>
+	<option value="sands-cancun">Dreams Sands Cancun</option>
+	<option value="tulum">Dreams Tulum</option>
+	<option value="villamagna">Dreams Villamagna</option>
+	<option value="dominicus">Dreams Dominicus</option>
+        </select>
+        <div class="selectbox-datepicker-input">
+        <input name="Depart" class="btn btn--xsmall btn-select selectbox-datepicker booking_bar_date booking_depart" type="button" value="From">
+        <i class="datepicker-icon booking_bar_icon"></i>
+        <div class="selectbox-tip booktip_sel"></div>
+      </div>
+        <div class="selectbox-datepicker-input">
+        <input name="Return" class="btn btn--xsmall btn-select selectbox-datepicker selectbox-datepicker-sm booking_bar_date booking_return" type="button" value="To">
+        <i class="datepicker-icon booking_bar_icon"></i>
+        <div class="selectbox-tip booktip_return"></div>
+      </div>
+        <a href="javascript:void(0)" onclick="_gaq.push(['_trackEvent', 'booking_widget_submit', 'booking bar', 'Experience']);" class="btn btn--x-small btn-brand selectbox-button booking_btn room">Unlimited-Luxury® Experience ›</a>
+        <a href="javascript:void(0)" onclick="_gaq.push(['_trackEvent', 'booking_widget_submit', 'booking bar', 'Airfare']);" class="btn btn--x-small btn-brand selectbox-button booking_btn air">Unlimited-Luxury® + Airfare ›</a>
+   </form>
+  </div> <!-- end selectbox--bar -->
+  
+<script>
+var ONE_DAY = 1000 * 60 * 60 * 24, maxNights = 25;
+var aAirfareDisabled = ['dominicus']; //use for any resorts that are land only ~fam
+var dimmed = '';
 
-				</form>
-			</div>
-			<div class="form_mess" style="display:none;">
-				<center>Thank you!</center>You are now signed up to receive our latest news &amp; features, special promotions and subscribers-only limited offers and exclusive amenities. You can unsubscribe at any time.
-			</div>
-		</div>
-	</div>        
+function Booking(base,options) {
+  this.b      = jq(base);
+  this.check  = false;
+  this.options= options;
+  this.dimmed = false;
 
-	<script>
-		jQuery("body").on( "click", "#sbox-overlay, #sbox-btn-close", function() {
-			jQuery('.form_mail').show();
-			jQuery('.form_mess').hide();
+  this.params = {
+    id_stile:9225,
+    lingua_int:'eng',
+    tot_adulti:2,
+    adulti1: 2,
+    tot_bambini:0,
+    tot_camere:1,
+    notti_1:7,
+    id_albergo: 0
+  };
+
+  var that = this;
+
+  this.setResort = function(id) {
+    switch (id) {
+      case 'las-mareas' :
+        this.params.id_albergo = 12346;
+        this.params.dc = 9506;
+        break;
+      case 'riviera-cancun' :
+        this.params.id_albergo = 10577;
+        this.params.dc = 120;
+        break;
+      case 'puerto-aventuras' :
+        this.params.id_albergo = 10578;
+        this.params.dc = 562;
+        break;
+      case 'tulum':
+        this.params.id_albergo = 10579;
+        this.params.dc = 198;
+        break;
+      case 'la-romana':
+        this.params.id_albergo = 10580;
+        this.params.dc = 427;
+      break;
+      case 'punta-cana':
+        this.params.id_albergo = 10581;
+        this.params.dc = 139;
+        break;
+      case 'palm-beach':
+        this.params.id_albergo = 10582;
+        this.params.dc = 517;
+        break;
+      case 'huatulco':
+        this.params.id_albergo = 10583;
+        this.params.dc = 549;
+        break;
+      case 'los-cabos':
+        this.params.id_albergo = 10584;
+        this.params.dc = 126;
+        break;
+      case 'villamagna':
+        this.params.id_albergo = 10586;
+        this.params.dc = 538;
+        break;
+	case 'dominicus':
+		this.params.id_albergo = 14101;
+		this.params.dc = 8859;
+		break;
+      case 'sands-cancun':
+        this.params.id_albergo = 12069;
+        this.params.dc = 9602;
+        break;
+	case 'playa-mujeres':
+		this.params.id_albergo = 14099;
+		this.params.dc = 7978;
+		break;
+    }
+  }
+
+  this.setRange = function (from,to) {
+    var nights = Math.max(1,Math.round((to-from)/ONE_DAY));
+    this.params.notti_1 = nights;
+    this.params.aa = from.getFullYear();
+    this.params.mm = from.getMonth()+1;
+    this.params.gg = from.getDate();
+  }
+
+  this.submit = function() {
+    if(this.params.id_albergo > 0) {
+        var url = 'https://booking.dreamsresorts.com/reservation_hotel.htm',s = '';
+    } else {
+        var url = 'https://booking.dreamsresorts.com/reservation_gruppo.htm',s = '';
+        this.params.id_gruppo = 9437;
+        this.params.dc_gruppo = 1151;
+        this.params.mostra_loc = "no";
+        this.params.id_brand = 4;
+
+    }
+  jq("form",this.b).find('.params').remove();
+    if (1) {
+      for (var i in this.params) {
+        //console.log(i + " : " + this.params[i]);
+        // s += (s==''?'?':'&') + i+'='+this.params[i];
+    jq("form",this.b).append('<input type="hidden" name="' + i + '" value="' + this.params[i] + '"  class="params" />');
+      }
+    }
+    jq("form",this.b).attr({'action': url, 'method': 'POST'}).submit();
+  }
+
+  this.getDate = function (id) {
+    var date = new Date(jq(id,this.b).attr('value'));
+    return 'Invalid Date'==date || isNaN(date) ? null:date;
+  }
+
+  this.setDate = function (id,v) {
+    jq(id,this.b).attr('value',jq.datepicker.formatDate("mm/dd/yy",v));
+  }
+
+  this.fade = function (v) {
+    if (that.options && that.options.index)
+      return {opacity:v?1:0,'z-index':v?1:-1};
+    else
+      return {opacity:v?1:0,'z-index':0};
+  }
+
+  this.show = function(id,on,time) {
+    var el = jq(id,that.b);
+    if (on) el.css('display','inline-block');
+    if (on) el.animate(that.fade(on), time, function() { el.css('display','inline-block') } );
+      else  el.animate(that.fade(on), time, function() { el.css('display','none') } );
+  }
+
+  this.update = function (tip) {
+    setTimeout(function() {
+      var from = that.getDate('.booking_depart');
+      var to   = that.getDate('.booking_return');
+      var v_sel  = that.sel ? jq(that.sel,that.b).attr('data-val'):'';
+      var b_from = that.check && !from;
+      var b_to   = that.check && !to;
+      var b_sel  = that.check && that.sel && jq(that.sel,that.b).attr('data-val')=='';
+    
+		// 9/14/2015 JRM - modified logic to match menu alias to aAirfareDisabled array
+		var this_dimmed = false;
+		jq.each(aAirfareDisabled, function (i, val) {
+			if (jq('body').is('.menu_'+val))
+				this_dimmed = true;
 		});
 
+		// 10/22/2015 JRM - on-demand ability to disable airfare button across the current page
+		// Add class 'airfare-disabled' to any <a> within the content
+		// @todo Disabling of booking buttons need to be refactored
+		if (!this_dimmed)
+			this_dimmed = (jq('#content a.airfare-disabled').length ? true : false);
+
+		// 9/1/2015 JRM - modified logic to accomodate the array of disabled properties (aAirfareDisabled)
+		that.dimmed = that.sel && aAirfareDisabled.indexOf(v_sel) != -1 || !that.sel && jq('body').is('.menu_'+dimmed) || this_dimmed;
+
+        jq('.booking_btn.air,booking_btn:has(.air),',that.b)[that.dimmed ? 'addClass':'removeClass']('btn--is-disabled');
+
+      if (from && to) {
+        if (from>to) that.setDate('.booking_return',to = from);
+        var nights = Math.max(1,Math.round((to-from)/ONE_DAY));
+
+        if (nights>maxNights) {
+          nights = maxNights;
+          to = new Date(from.getTime() + nights*ONE_DAY);
+          that.setDate('.booking_return',to);
+        }
+      }
+
+      var time = tip===0 ? 0:300;
+      if (tip!=null || !b_from) jq(".booktip_depart",that.b).css({display:'inline-block'}).animate(that.fade(b_from), time);
+      if (tip!=null || !b_to  ) jq(".booktip_return",that.b).css({display:'inline-block'}).animate(that.fade(b_to  ), time);
+      if (tip!=null || !b_sel ) jq(".booktip_sel"   ,that.b).css({display:'inline-block'}).animate(that.fade(b_sel ), time);
+
+      jq(".booking_depart",that.b).css(           b_from? {border:'1px solid white'}:{border:""});
+      jq(".booking_return",that.b).css(           b_to  ? {border:'1px solid white'}:{border:""});
+      if (that.seltip) jq(that.seltip,that.b).css(b_sel ? {border:'1px solid white'}:{border:""});
+    },0);
+  }
+  jq('.booktip_depart, .booktip_return, .booktip_sel',this.b).die().live('hover', function(){ that.show(this,0,300) })
+  jq(".booking_bar_icon",this.b).live('click', function() { jq(this).prev().trigger('click'); });
+
+  jq(".booking_bar_date",this.b).each(function() {
+    jq(this).datepicker('destroy');
+  });
+
+  this.update(0);
+  jq(".booking_bar_date",this.b).on('click', function(e) {
+    e.preventDefault();
+    if (!that.sel) jq.datepicker.dpDiv.css({'bottom':'auto'});
+    var minDate = 0, maxDate = null;
+    if (jq(this).is('.booking_return')) {
+      var from = that.getDate('.booking_depart');
+      var to   = that.getDate('.booking_return');
+      if (from) {
+        minDate = from;
+        maxDate = new Date(from.getTime() + maxNights*ONE_DAY);
+        if (to) {
+          jq(this).datepicker('destroy');
+        }
+      }
+    }
+
+    if (parseInt(jq(window).width()) < 500) {
+        var monthsNum = 1;
+      } else {
+        var monthsNum = 2;
+      };
+
+    jq(this).datepicker({minDate:minDate, maxDate:maxDate, defaultDate:minDate,
+      numberOfMonths: monthsNum, dateFormat:"mm/dd/yy", showOn:'focus',
+      onClose:function(datetext, inst){
+        var $bar = $(this).parents('.booking-bar');
+        $bar.removeAttr('style');
+
+        that.update();
+      },
+      beforeShow: function(input, inst) {
+        jq.datepicker._pos = jq.datepicker._findPos(input);
+
+        if (jq(this).hasClass('selectbox-bar-datepicker')) {
+          if(Modernizr.touch) {
+            var $bar = $(this).parents('.booking-bar');
+
+            $bar.css('position','absolute');
+            $bar.css('top',($(window).scrollTop() + window.innerHeight) - $bar.outerHeight());
+            jq.datepicker._pos[1] -= 1;
+          } else {
+            jq.datepicker._pos[1] -= jq(document).scrollTop()+225;
+          }
+        }
+      }
+    }).focus();
+  });
+
+  if (that.options && that.options.sel) {
+    that.sel    = that.options.sel+'SelectBoxItText';
+    that.seltip = that.options.sel+'SelectBoxIt';
+
+    jq(that.options.sel+" option:selected").attr('selected','');
+    jq(that.options.sel+" option[value="+cur_resort+"]").attr('selected','selected');
+
+	/** JRM@2016-03-14: Set selected resort name in menu **/
+	resortName = jq(that.options.sel+" option[value="+cur_resort+"]").text();
+	if (resortName)
+		jq('.ui-selectmenu-text',that.b).text(resortName);
+
+    //jq("#basement").css('padding-bottom', '52px');
+    jq(that.options.sel)/*.selectBoxIt({autoWidth:false})*/.data('booking_bar_ui_');
+    jq(that.options.sel).bind('close',function(){that.update()});
+
+    jq(that.options.sel+" option").each(function() {
+      if (jq(this).val() == cur_resort) {
+        jq(this).attr('selected', 'selected')
+      }
+    });
+  }
+
+
+  jq(".booking_btn.air",this.b).die().live('click', function() {
+    that.check = false;
+    that.update();
+
+	// 9/1/2015 JRM - added condition to prevent click binding to dimmed (disabled) buttons
+    if (!jq(this).is('.btn--is-disabled'))
+      jq("form",that.b).attr('action','https://partners.kcdataservices.com/amr/custom/buildMyOwn.jsp?agn_id=67296').submit();
+  })
+
+  jq(".booking_btn.room",this.b).die().live('click', function() {
+    that.check = true;
+    that.update(1);
+
+    var from = that.getDate('.booking_depart'); if (!from) return;
+    var to   = that.getDate('.booking_return'); if (!to  ) return;
+
+    var resort = typeof(cur_resort)=='string' ? cur_resort:'';
+    if (that.sel) {
+      var sel  = that.options && that.options.sel && jq(that.options.sel,that.b).val();
+      if (sel!='') resort = sel; else return;
+    }
+    that.setResort(resort);
+    that.setRange(from,to);
+    that.submit();
+  })
+}
+
+jq(function() {
+  var top_booking = new Booking('#booking_box');
+});
+
+
+jq(function() {
+  if (jq('#booking_bar').length) {
+    var foot_booking = new Booking('#booking_bar',{sel:'#booking_bar_select'});
+  //   if (!jq('#resort_bar_title').length) jq('#booking_bar').attr('class','brand');
+  }
+
+  if (jq('#onslider_booking').length) {
+//  var d; if ((d=jq('#resort_bar')).length) jq('#onslider_booking').css('margin-top',45);
+    var onslider_booking = new Booking('#onslider_booking',{index:1,sel:'#selectbox-selector'});
+    $('.book_slide').appendTo('.hero--slideshow').addClass('book_slide--appended');
+  }
+});
+
+
+
+</script>
+
+          				</div>
+          									
+
+<!-- <div id="sidebar_mail">
+	<div id="header_mail">KEEP IN TOUCH</div>
+	<div id="text_mail">Learn about deals &amp; specials by email.</div>
+	<a href="#gk_lightbox_room_test" rel="boxed" class="button_email_signup">SIGN UP HERE</a> -->
+
+<div class="actionbox actionbox--sm sidebar-module" id="sidebar_mail">
+    <div class="actionbox-title">Keep In Touch</div>
+    <div class="actionbox-description">
+        <p>Learn about deals &amp; specials by email</p>
+    </div>
+	<a href="#gk_lightbox_room_test" rel="boxed" aria-describedby="gk_lightbox_room_test" class="btn btn-brand btn--small actionbox-button">SIGN UP HERE</a>
+
+	<div data-js="modal" id="gk_lightbox_room_test" class="modal">
+		<div class="form-validate form_mail" data-js="position-modal">
+			<i class="modal-close modal-close-icon" data-js="modal-close"></i>
+        	<div class="header_mail">SIGN UP TO RECEIVE<br>EXCLUSIVE OFFERS AND PROMOTIONS</div>
+        	<div id="formerror" class="error" style="color:red;text-align:center;width:100%;height:14px;size:12px;padding-bottom:5px;"></div>
+			<!--form action="http://www.amresorts.us/pms_wsdl/CaptureLeadSimple.php" method="post"-->
+			<form class="mail_sign_up">
+				<input name="nextpage" type="hidden" value="http://www.dreamsresorts.com/privacy">
+				<input name="lead_source" type="hidden" value="Dreams-Website">
+               <div class="formitem">
+					<label for="givenname">FIRST NAME:</label>
+					<input name="givenname" type="text" id="givenname" tabindex="1" title="first" value="" size="22" maxlength="100" placeholder="First Name" pattern="[a-zA-Z0-9]+">
+               </div>
+               <div class="formitem">
+					<label for="familyname">LAST NAME:</label>
+					<input name="familyname" type="text" id="familyname" tabindex="2" title="givenname" value="" size="22" maxlength="100" placeholder="Last Name" pattern="[a-zA-Z0-9]+">
+               </div>
+               <div class="formitem">
+					<label for="input_mail">EMAIL:</label>
+					<input name="email" type="email" id="input_mail" class="input_mail" tabindex="3" title="email" value="" size="22" maxlength="320" placeholder="Email Address">
+               </div>
+               <div class="formitem">
+					<label for="zipcode">ZIPCODE:</label>
+					<input name="zip" type="text" id="zipcode" tabindex="4" title="zipcode" value="" size="10" maxlength="320" placeholder="Zip Code" pattern="[a-zA-Z0-9]+">
+               </div>
+               <div class="checkbox">
+					<input name="optin" type="checkbox" id="optin" value="1" pattern="[1]">
+               </div>
+               <div class="checkbox-text">
+					<p>I agree to receive e-mail communications regarding AMResorts’ branded resorts as well as from affiliates of AMResorts within the Apple Leisure Group companies regarding
+						their travel and hospitality products and services, including Unlimited Vacation Club, AppleVacations, CheapCaribbean.com, Travel Impressions and Amstar. Once you have opted-in
+						to receive Email from us, you may choose to opt-out of Email communications at any time by updating your account.  For more information you can view our <a href="/privacy" target="_blank">Privacy Policy</a>.</p>
+               </div>
+               <div class="formbutton">
+					<!-- <input type="image" name="but_img" class="content_button validate" src="/images/button_sign_up2.png"> -->
+					<button type="submit">Submit form</button>
+               </div>
+			</form>
+		</div>
+		<div class="form_mess" style="display:none;">
+			<center>Thank you!</center>You are now signed up to receive our latest news &amp; features, special promotions and subscribers-only limited offers and exclusive amenities. You can unsubscribe at any time.
+		</div>
+	</div>
+	<script>
+	jq(function(){
 		var validationInfo = {
-			'firstNameField' : {
-				'pattern' : '[a-zA-Z0-9]+'
-			},
-			'lastNameField' : {
-				'pattern' : '[a-zA-Z0-9]+'
-			},
 			'emailField' : {
 				'pattern' :  '^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+.[a-zA-Z]{2,6}$'
-			},
-			'zipcodeField' : {
-				'pattern' : '[a-zA-Z0-9]+'
 			},
 			'checkBox' : {
 				'pattern' : '[1]'
 			}
 		};
 
+		$('.mail_sign_up').on('submit', function(e){
+			e.preventDefault();
+			submitOverride();
+		});
+
 		function submitOverride(){
-			if(validateFirstName() && validateLastName() && validateEmail() && validateTerms() && validateZipcode()){
-				var $form = jQuery('#sbox-content .mail_sign_up'),
+			if(validateEmail() && validateTerms()){
+				var $form = jQuery('.mail_sign_up'),
 				$inputs = $form.find("input, select, button, textarea"),
 					serializedData = $form.serialize();
-					console.log("data input:" + serializedData);
 
 				$inputs.attr("disabled", "disabled");
 
 				jQuery.ajax({
-					url: "http://esurvey.cendyn.com/eSurvey_Cendyn/SocialMediaAction.aspx?DisplayHeader=",
-					type: "post",
+					url: "http://www.amresorts.us/pms_wsdl/CaptureLeadSimple.php",
+					type: "get",
 					data: serializedData,
 					dataType: 'text',
 
@@ -869,8 +728,8 @@ jq(function() {
 
 		function validateTerms(){
 			var termsField = jQuery(".mail_sign_up .checkbox input");
-			var errorField = jQuery(".form_mail .error")[1];
-
+			var errorField = jQuery(".error")[0];
+			//console.log(termsField.is(':checked'));
 			if(termsField.is(':checked')){
 				errorField.innerHTML = " ";
 				return true;
@@ -878,18 +737,13 @@ jq(function() {
 				errorField.innerHTML = "Please accept terms and conditions."
 				return false;
 			}
-		}//validateTerms
-
+		}
 		function validateEmail(){
-			var emailField = jQuery(".mail_sign_up .input_mail")[1];
-			var errorField = jQuery(".form_mail .error")[1];
+			var emailField = jQuery("#input_mail")[0];
+			var errorField = jQuery(".error")[0];
 
-			if(Modernizr.input.pattern){
-				var myPattern = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,6}$/;
-			}else{
-				var myPattern = validationInfo['emailField'].pattern;
-			}
-			
+			var myPattern = validationInfo['emailField'].pattern;
+
 			var isValid = emailField.value.search(myPattern) >= 0;
 			if(isValid){
 				errorField.innerHTML = " ";
@@ -898,641 +752,238 @@ jq(function() {
 				errorField.innerHTML = "Please enter a valid email address";
 				return false;
 			}
-		}//validateEmail
-
-		function validateZipcode(){
-			var zipcodeField = jQuery(".mail_sign_up .zipcode")[1];
-			var errorField = jQuery(".form_mail .error")[1];
-
-			if(Modernizr.input.pattern){
-				var myPattern = zipcodeField.pattern;
-			}else{
-				var myPattern = validationInfo['zipcodeField'].pattern;
-			}
-
-			var isValid = zipcodeField.value.search(myPattern) >= 0;
-			if(isValid){
-				errorField.innerHTML = " ";
-				return true;
-			}else{
-				errorField.innerHTML = "Please enter a valid zipcode";
-				return false;
-			}
-		}//validateZipcode
-
-		function validateFirstName(){
-			var firstNameField = jQuery(".mail_sign_up .givenname")[1];
-			var errorField = jQuery(".form_mail .error")[1];
-
-			if(Modernizr.input.pattern){
-				var myPattern = firstNameField.pattern;
-			}else{
-				var myPattern = validationInfo['firstNameField'].pattern;
-			}
-
-			var isValid = firstNameField.value.search(myPattern) >= 0;
-			if(isValid){
-				errorField.innerHTML = " ";
-				return true;
-			}else{
-				errorField.innerHTML = "Please enter a valid first name";
-				return false;
-			}
-		}//validateFirstName
-
-		function validateLastName(){
-			var lastNameField = jQuery(".mail_sign_up .familyname")[1];
-			var errorField = jQuery(".form_mail .error")[1];
-
-			if(Modernizr.input.pattern){
-				var myPattern = lastNameField.pattern;
-			}else{
-				var myPattern = validationInfo['lastNameField'].pattern;
-			}
-
-			var isValid = lastNameField.value.search(myPattern) >= 0;
-			if(isValid){
-				errorField.innerHTML = " ";
-				return true;
-			}else{
-				errorField.innerHTML = "Please enter a valid last name";
-				return false;
-			}
-		}//validateFirstName
+		}
+	});
 	</script>
 </div>
 
-
-
-                      </div>
-        </div>
-                        <div class="row-separator" style="margin:30px 10px 0 10px; clear: both;"> </div>
-                <div style="clear:both;"> </div>
-      </div>
-      <div id="resorts_map"></div>
-<div id="map"> 
-  <div class="map_layers">
-     
-      <div class="map_layer" tabname="all" style="background-image: url('/images/map/map-main-all.jpg');">
-              </div>
-     
-      <div class="map_layer" tabname="zoetry" style="background-image: url('/images/map/map-main-zoetry.jpg');">
-                <a class="map_point" style="width:100px; height:50px; top:360px; left:720px;" href="http://zoetryresorts.com/aruba">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/zoetry/zidoa_269x160.png');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:100px; height:50px; top:180px; left:90px;" href="http://zoetryresorts.com/CasaDelMar">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/zoetry/zoetry-casa-del-mar-los-cabos.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:90px; height:45px; top:210px; left:378px;" href="http://zoetryresorts.com/Paraiso">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/zoetry/zoetry-paraiso-de-la-bonita-riviera-maya.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:100px; height:50px; top:290px; left:740px;" href="http://zoetryresorts.com/Agua">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/zoetry/zoetry-agua-punta-cana.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:138px; height:50px; top:200px; left:514px;" href="http://zoetryresorts.com/mujeres">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/zoetry/zoetry-villa-rolandi.jpg');">&nbsp;</div>
-          </div>
-        </a>
-              </div>
-     
-      <div class="map_layer" tabname="secrets" style="background-image: url('/images/map/map-main-secrets.jpg');">
-                <a class="map_point" style="width:100px; height:37px; top:266px; left:377px;" href="http://www.secretsresorts.com/capri-riviera-cancun">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/secrets/secrets-capri-riviera-cancun.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:128px; height:50px; top:437px; left:460px;" href="http://www.secretsresorts.com/papagayo">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/secrets/secrets-papagayo.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:69px; height:40px; top:311px; left:756px;" href="http://www.secretsresorts.com/cap-cana">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/secrets/secrets-cap-cana.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:144px; height:35px; top:230px; left:319px;" href="http://www.secretsresorts.com/maroma-beach-riviera-cancun">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/secrets/secrets-maroma-beach-riviera-cancun.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:122px; height:35px; top:193px; left:350px;" href="http://www.secretsresorts.com/silversands-riviera-cancun">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/secrets/secrets-silversands-riviera-cancun.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:131px; height:35px; top:154px; left:403px;" href="http://www.secretsresorts.com/playa-mujeres">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/secrets/secrets-playa-mujeres.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:106px; height:33px; top:180px; left:517px;" href="http://www.secretsresorts.com/vine-cancun">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/secrets/secrets-the-vine-cancun.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:107px; height:37px; top:251px; left:505px;" href="http://www.secretsresorts.com/akumal-riviera-maya">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/secrets/secrets-akumal-riviera-maya.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:128px; height:50px; top:320px; left:313px;" href="http://www.secretsresorts.com/huatulco">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/secrets/secrets-huatalco-resort-and-spa.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:140px; height:50px; top:250px; left:137px;" href="http://www.secretsresorts.com/vallarta-bay-puerto-vallarta">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/secrets/secrets-vallarta-bay-puerto-vallarta.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:120px; height:40px; top:150px; left:140px;" href="http://www.secretsresorts.com/puerto-los-cabos">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/secrets/secrets-puerto-los-cabos.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:87px; height:35px; top:216px; left:520px;" href="http://www.secretsresorts.com/aura-cozumel">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/secrets/secrets-aura-cozumel.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:130px; height:50px; top:285px; left:767px;" href="http://www.secretsresorts.com/royal-beach-punta-cana">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/secrets/secrets-royal-beach-punta-cana.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:128px; height:50px; top:300px; left:625px;" href="http://www.secretsresorts.com/st-james-montego-bay">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/secrets/secrets-st-james-montego-bay.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:128px; height:50px; top:300px; left:495px;" href="http://www.secretsresorts.com/wild-orchid-montego-bay">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/secrets/secrets-wild-orchid-montego-bay.jpg');">&nbsp;</div>
-          </div>
-        </a>
-              </div>
-     
-      <div class="map_layer" tabname="breathless" style="background-image: url('/images/map/map-main-breathless.jpg');">
-                <a class="map_point" style="width:160px; height:40px; top:189px; left:57px;" href="http://www.breathlessresorts.com/cabo-san-lucas">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/breathless/brecl_269x160.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:100px; height:50px; top:270px; left:741px;" href="http://www.breathlessresorts.com/punta-cana">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/breathless/brepc_aerial_269x160.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:160px; height:40px; top:180px; left:341px;" href="http://www.breathlessresorts.com/riviera-cancun">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/breathless/brerc_269x160.jpg');">&nbsp;</div>
-          </div>
-        </a>
-              </div>
-     
-      <div class="map_layer" tabname="dreams" style="background-image: url('/images/map/map-main-dreams.jpg');">
-                <a class="map_point" style="width:128px; height:50px; top:140px; left: 70px;" href="http://www.dreamsresorts.com/los-cabos">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/dreams/dreams-los-cabos-suites.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:128px; height:30px; top:250px; left:370px;" href="http://www.dreamsresorts.com/tulum">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/dreams/dreams-tulum-resort.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:141px; height:30px; top:211px; left:350px;" href="http://www.dreamsresorts.com/riviera-cancun">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/dreams/dreams-riviera-cancun.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:170px; height:50px; top:230px; left:515px;" href="http://www.dreamsresorts.com/puerto-aventuras">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/dreams/dreams-puerto-aventuras.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:128px; height:50px; top:190px; left:100px;" href="http://www.dreamsresorts.com/villamagna">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/dreams/dreams-villamagna-nuevo-vallarta.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:128px; height:50px; top:320px; left:290px;" href="http://www.dreamsresorts.com/huatulco">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/dreams/dreams-huatulco.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:110px; height:40px; top:280px; left:660px;" href="http://www.dreamsresorts.com/palm-beach">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/dreams/dreams-palm-beach-punta-cana.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:100px; height:40px; top:300px; left:790px;" href="http://www.dreamsresorts.com/punta-cana">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/dreams/dreams-punta-cana-resort.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:117px; height:40px; top:340px; left:655px;" href="http://www.dreamsresorts.com/la-romana">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/dreams/dreams-la-romana.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:117px; height:40px; top:343px; left:780px;" href="http://www.dreamsresorts.com/dominicus">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/dreams/DREDL.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:170px; height:50px; top:420px; left:390px;" href="http://www.dreamsresorts.com/las-mareas">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/dreams/dreams-las-mareas.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:135px; height:39px; top:184px; left:516px;" href="http://www.dreamsresorts.com/sands-cancun">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/dreams/dreams-sands-cancun.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:134px; height:50px; top:465px; left:610px;" href="http://www.dreamsresorts.com/buenaventura-panama">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/dreams/dreams-buenaventura-panama.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:135px; height:39px; top:144px; left:431px;" href="http://www.dreamsresorts.com/playa-mujeres">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/dreams/dreams-playa-mujeres.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:110px; height:40px; top:250px; left:825px;" href="http://www.dreamsresorts.com/sugar-bay">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/dreams/dreams-sugar-bay-st-thomas.jpg');">&nbsp;</div>
-          </div>
-        </a>
-              </div>
-     
-      <div class="map_layer" tabname="now" style="background-image: url('/images/map/map-main-now.jpg');">
-                <a class="map_point" style="width:128px; height:50px; top:235px; left:148px;" href="http://www.nowresorts.com/amber">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/now/now-amber-puerto-vallarta.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:128px; height:50px; top:200px; left:490px;" href="http://www.nowresorts.com/sapphire">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/now/now-sapphire-riviera-cancun.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:128px; height:50px; top:250px; left:490px;" href="http://www.nowresorts.com/jade">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/now/now-jade-riviera-cancun.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:128px; height:50px; top:315px; left:787px;" href="http://www.nowresorts.com/larimar">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/now/now-larimar-punta-cana.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:128px; height:50px; top:280px; left:775px;" href="http://www.nowresorts.com/onyx">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/now/now-onyx-punta-cana.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:128px; height:50px; top:321px; left:685px;" href="http://www.nowresorts.com/garden">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/now/now-garden-punta-cana.jpg');">&nbsp;</div>
-          </div>
-        </a>
-              </div>
-     
-      <div class="map_layer" tabname="sunscape" style="background-image: url('/images/map/map-main-sunscape.jpg');">
-                <a class="map_point" style="width:140px; height:60px; top:285px; left:205px;" href="http://www.sunscaperesorts.com/dorado">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/sunscape/sunscape-dorado-pacifico-ixtapa.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:140px; height:60px; top:230px; left:435px;" href="http://www.sunscaperesorts.com/sabor">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/sunscape/sunscape-sabor-cozumel.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:128px; height:50px; top:370px; left:720px;" href="http://www.sunscaperesorts.com/curacao">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/sunscape/sunscape-curacao.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:128px; height:50px; top:269px; left:585px;" href="http://www.sunscaperesorts.com/montego-bay">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/sunscape/sunscape-montego-bay.jpg');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:128px; height:50px; top:269px; left:524px;" href="http://www.sunscaperesorts.com/splash">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/sunscape/');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:128px; height:50px; top:269px; left:645px;" href="http://www.sunscaperesorts.com/cove">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/sunscape/');">&nbsp;</div>
-          </div>
-        </a>
-                <a class="map_point" style="width:128px; height:50px; top:250px; left:137px;" href="http://www.sunscaperesorts.com/puerto-vallarta">
-                  <div class="map_point_preview" style="display: none;">
-            <div class="map_point_image" style="background-image: url('/images/map/sunscape/');">&nbsp;</div>
-          </div>
-        </a>
-              </div>
-      </div>
-  <div class="map_panel">
-     
-      <div class="map_panel_btn  all" tabname="all">all</div>
-     
-      <div class="map_panel_btn " tabname="zoetry">zoetry</div>
-     
-      <div class="map_panel_btn " tabname="secrets">secrets</div>
-     
-      <div class="map_panel_btn " tabname="breathless">breathless</div>
-     
-      <div class="map_panel_btn  map_panel_btn_slct" tabname="dreams">dreams</div>
-     
-      <div class="map_panel_btn " tabname="now">now</div>
-     
-      <div class="map_panel_btn " tabname="sunscape">sunscape</div>
-      </div>
+					</div>
+				</div>
+				
+			</div>
+			<div class="info-tabs-header resort-map-tabs-header">  <!--resorts_header_box -->
+	<button type="button" data-resort-switch="all" class="btn btn--x-small btn-brand info-tabs-category">All</button>
+	<button type="button" data-resort-switch="zoetry" class="btn btn--x-small btn-brand info-tabs-category">Zoetry</button>
+	<button type="button" data-resort-switch="secrets" class="btn btn--x-small btn-brand info-tabs-category">Secrets</button>
+	<button type="button" data-resort-switch="breathless" class="btn btn--x-small btn-brand info-tabs-category">Breathless</button>
+	<button type="button" data-resort-switch="dreams" class="btn btn--x-small btn-brand info-tabs-category">Dreams</button>
+	<button type="button" data-resort-switch="now" class="btn btn--x-small btn-brand info-tabs-category">Now</button>
+	<button type="button" data-resort-switch="sunscape" class="btn btn--x-small btn-brand info-tabs-category">Sunscape</button>
+</div>
+<div id="resorts_map" class="resorts-map-frame" data-map-url="https://maps.googleapis.com/maps/api/js?sensor=true&amp;callback=handleApiReady&amp;language=en-GB&amp;key=AIzaSyAjfyNJ5NpoQnW-1mW7SfXcL7uJVl-jh6E" data-base-url="http://www.amresorts.com/assets_common/img_map" data-json-url="http://www.dreamsresorts.com//modules/mod_resorts_map_2/resorts.json">
+	<div id="resorts_map_2" class="resorts-map"></div>
 </div>
 
+		</div> <!-- end main content -->
+		<footer class="footer">
+	<div class="footer-container">
+		<div class="footer-main-content">
+			<div class="footer-description footer-main-content-row">
+				<!-- resort site description -->
+				<div class="site-description">
+					<div class="site-description-logo">
+						<div class="footer-resort-logo"></div>
+					</div>
+					<div class="site-description-block">
+						<p class="site-description-text">AMResorts is a collection of luxury resort destinations, each with its own unique personality. Every one of our resorts features sun- soaked beaches, elegant accommodations, a world-class spa, gourmet dining, unlimited premium drinks, and many other pampering amenities.</p>
+						<a class="nav-links btn btn-link--nav site-description-link" href="http://www.amresorts.com">More about AMResorts ›</a>
+					</div>
+					<div class="site-description-block">
+						<p class="site-description-text">AMResorts is concerned with your privacy and does not make unsolicited telephone calls to consumers to market its products. If you receive such a call, please report it to us by clicking here and provide to us as much information as you can share so that we may investigate the matter further.</p>
+					</div>
+				</div>
+			</div>
+			<div class="footer-link-set footer-main-content-row">
+			<!-- resource links -->
+				<div class="link-set link-set--column">
+					<div class="link-set-row-left">
+						<a class="nav-links btn btn-link--nav link-set-link" href="http://www.amresorts.com/meetings/">Resources For Meeting Planners ›</a>
+					</div>
+					<div class="link-set-row-right">
+						<a class="nav-links btn btn-link--nav link-set-link" href="https://amrewards.amragents.com/">Resources For Travel Agents ›</a>
+					</div>
+				</div>
+			</div>
+			<div class="footer-navigation footer-main-content-row">
+				<!-- footer nav -->
+				<nav role="navigation" class="linklist linklist--box">
+					<div class="linklist-item"><a href="#booking_box" rel="boxed" aria-idescribedby="booking_box" class="btn btn--small btn-brand linklist-button" data-js="modal-reveal">Book Now ›</a></div>
+					<div class="linklist-item"><a href="https://partners.kcdataservices.com/amr/dreams/my_itinerary.html" target="_blank" class="nav-links btn btn-link--nav">View My Reservation ›</a></div>
+					<div class="linklist-item"><a href="/contact-us" class="nav-links btn btn-link--nav">Contact Us ›</a></div>
+					<div class="linklist-item"><a href="/connect" class="nav-links btn btn-link--nav">Connect With Us ›</a></div>
+				</nav>
+			</div>
+			<div class="footer-logo-links footer-main-content-row">
+				<div class="footer-logo-links-header">
+					<div class="footer-resort-collection-logo"></div>
+				</div>
+			<!-- brand resort links -->
+				<div class="linklist linklist--bar linklist-logo-links">
+					<div class="linklist-item">
+						<div class="footer-logo footer-zoetry footer-zoetry--is-active"></div>
+						<div class="linklist-mobile-info">
+							<a class="linklist-mobile-link zoetry" href="http://www.zoetryresorts.com" onclick="_gaq.push(['_trackEvent', 'buttons', 'footer', 'Zoetry']);">Zoetry Wellness &amp; Spa Resorts</a>
+						</div>
+						<div class="linklist-subitem">1.888.496.3879<i class="linklist-subitem-icon phone-icon"></i></div>
+					</div>
+					<div class="linklist-item">
+						<div class="footer-logo footer-secrets"></div>
+						<div class="linklist-mobile-info">
+							<a class="linklist-mobile-link secrets" href="http://www.secretsresorts.com" onclick="_gaq.push(['_trackEvent', 'buttons', 'footer', 'Secrets']);">Secrets Resorts &amp; Spas</a>
+						</div>
+						<div class="linklist-subitem">1.866.467.3273<i class="linklist-subitem-icon phone-icon"></i></div>
+					</div>
+					<div class="linklist-item">
+						<div class="footer-logo footer-breathless breathless--is-active"></div>
+						<div class="linklist-mobile-info">
+							<a class="linklist-mobile-link breathless" href="http://www.breathlessresorts.com" onclick="_gaq.push(['_trackEvent', 'buttons', 'footer', 'Breathless']);">Breathless Resorts &amp; Spas</a>
+						</div>
+						<div class="linklist-subitem">1.855.652.7328<i class="linklist-subitem-icon phone-icon"></i></div>
+					</div>
+					<div class="linklist-item linklist-item--is-active">
+						<div class="footer-logo footer-dreams"></div>
+						<div class="linklist-mobile-info">
+							<a class="linklist-mobile-link dreams" href="http://www.dreamsresorts.com" onclick="_gaq.push(['_trackEvent', 'buttons', 'footer', 'Dreams']);">Dreams Resorts &amp; Spas</a>
+						</div>
+						<div class="linklist-subitem">1.866.237.3267<i class="linklist-subitem-icon phone-icon"></i></div>
+					</div>
+					<div class="linklist-item">
+						<div class="footer-logo footer-now"></div>
+						<div class="linklist-mobile-info">
+							<a class="linklist-mobile-link now" href="http://www.nowresorts.com" onclick="_gaq.push(['_trackEvent', 'buttons', 'footer', 'Now']);">Now Resorts &amp; Spas</a>
+						</div>
+						<div class="linklist-subitem">1.877.669.9953<i class="linklist-subitem-icon phone-icon"></i></div>
+					</div>
+					<div class="linklist-item">
+						<div class="footer-logo footer-sunscape"></div>
+						<div class="linklist-mobile-info">
+							<a class="linklist-mobile-link sunscape" href="http://www.sunscaperesorts.com" onclick="_gaq.push(['_trackEvent', 'buttons', 'footer', 'Sunscape']);">Sunscape Resorts &amp; Spas</a>
+						</div>
+						<div class="linklist-subitem">1.866.786.7227<i class="linklist-subitem-icon phone-icon"></i></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="footer-content-row footer-utility-links">
+			<!-- end brand resort links -->
+			<div class="link-set link-set--row">
+				<div class="link-set-row-left">
+					© AMResorts 2014. All rights reserved.
+				</div>
+				<div class="link-set-right">
+					<a class="link-set-link" href="/privacy">Privacy</a>
+					<a class="link-set-link" href="/site-map">Site map</a>
+				</div>
+			</div>
+		</div>
+		<div class="footer-content-row">
+			<!-- award logos -->
+			<div class="image-row">
+				<div class="image-row-block">
+					<div class="image-row-image traveler"></div>
+				</div>
+				<div class="image-row-block image-row-block--border">
+					<div class="image-row-image rainforest"></div>
+				</div>
+				<div class="image-row-block">
+					<div class="image-row-image diamond"></div>
+				</div>
+			</div>
+		</div>
+	</div> <!-- end container -->
+</footer>
 <script>
-  var mobile = 0;
-  jQuery(".map_point .map_point_preview").hide();
-  jQuery(".map_point").hover(
-    function() {jQuery(this).children(".map_point_preview").stop(1,1).fadeIn(300);}, 
-    function() {jQuery(this).children(".map_point_preview").stop(1,1).fadeOut () ;}
-  );
-  jq(function() { assignTab(jQuery('.map_panel').last(), jQuery('.map_layers').last(), 'map_panel_btn_slct', 0/*5000*/);});
-
+var deferredJQ = function(){
+	$.each(q,function(index,f){
+	  $(f)
+	});
+}
 </script>
+<script async="" src="/templates/responsive/js/dist/lib/modernizr-2.8.3.custom.min.js"></script>
+<script async="" src="/templates/responsive/js/dist/all.js"></script>
+		<!-- modals -->
+		<!-- Booking --> 
+<div data-js="modal" id="booking_box" class="modal">
+  <div class="selectbox selectbox--light" data-js="position-modal">
+    <i class="modal-close modal-close-icon" data-js="modal-close"></i>
+    <div class="selectbox-title">Let's Get Started</div>
+    <div class="selectbox-subtitle">When would you like to go?</div>
+    <form onsubmit="_gaq.push(['_linkByPost', this]); _gaq.push(['_trackEvent', 'booking_widget', 'booking box']);" method="post" name="myform" target="_blank" enctype="application/x-www-form-urlencoded;chrset=UTF-8" class="selectbox-form">
+        <div class="selectbox-dates">
+          <div class="selectbox-datepicker-input">
+          <input name="Depart" type="button" value="From" class="btn selectbox-datepicker selectbox-bar-datepicker booking_bar_date booking_depart">
+          <i class="datepicker-icon"></i>
+          <div class="selectbox-tip booktip_depart"></div>
+        </div>
+          <div class="selectbox-datepicker-input">
+          <input name="Return" type="button" value="To" class="btn selectbox-datepicker selectbox-bar-datepicker booking_bar_date booking_return">
+          <i class="datepicker-icon"></i>
+          <div class="selectbox-tip booktip_return"></div>
+        </div>
+      </div>
+       <a href="javascript:void(0)" onclick="_gaq.push(['_trackEvent', 'booking_widget_submit', 'booking bar', 'Experience']);" class="btn btn--small btn-brand selectbox-button booking_btn room">Unlimited-Luxury® Experience ›</a>
+       <a href="javascript:void(0)" onclick="_gaq.push(['_trackEvent', 'booking_widget_submit', 'booking bar', 'Airfare']);" class="btn btn--small btn-brand selectbox-button booking_btn air">Unlimited-Luxury® + Airfare ›</a>
+    </form>
+  </div><!-- end selectbox--light -->
+</div><!-- end booking modal -->
 
+<!--View Reservation -->
+<div data-js="modal" id="lightbox_view_reservation" class="modal booking_box">
+  <div class="selectbox selectbox--light modal-view-reservation" data-js="position-modal">
+    <i class="modal-close modal-close-icon js-modal-close-nav" data-js="modal-close"></i>
+    <div class="modal-view-reservation-title">View Your Reservation</div>
+    <div class="modal-view-reservation-subtitle">What type of reservation did you make?</div>
+    <div class="booking_btn room modal-view-reservation-button">
+      <a href="https://booking.dreamsresorts.com/prenota_new.htm?graph_be=4&amp;lingua_int=eng&amp;id_stile=7636&amp;id_gruppo=9437&amp;id_brand=4&amp;headvar=ok&amp;cancel=pren&amp;mostra_loc=no" class="btn btn--small btn-brand">Room Only</a> 
     </div>
+    <div class="booking_btn air modal-view-reservation-button">     
+      <a href="http://partners.kcdataservices.com/amr/dreams/my_itinerary.html" class="btn btn--small btn-brand">Room + Airfare</a> 
+    </div>
+    <div class="modal-view-reservation-disclaimer">This function is available for bookings made on DreamsResorts.com only. For trips booked through a third party provider, please check with provider for confirmation.</div>    
   </div>
-<div id="basement_bg">
-<div id="basement">
-<table class="footer_line" style="padding-bottom:23px;margin-top:2px;">
-    <tbody><tr>
-    <td class="footer_line_block"><div id="amr_logo_footer"> </div>
-        <div id="amr_logo_footer_text" style="margin-bottom: 0px;"> 
-          <p>AMResorts is a collection of luxury resort destinations, each with its own unique personality. Every one of our resorts features sun- soaked beaches, elegant accommodations, a world-class spa, gourmet dining, unlimited premium drinks, and many other pampering amenities. </p>
-        </div>
-          <div class="footer_btn" style="display:inline-block; *display:inline;"><a href="http://amresorts.com"> More about AMResorts › </a></div>
-        <div id="amr_logo_footer_text" style="margin-top: 0px;">
-          <p>AMResorts is concerned with your privacy and does not make unsolicited telephone calls to consumers to market its products. If you receive such a call, please report it to us by <a href="mailto: info@dreamsresorts.com" target="_blank">clicking here</a> and provide to us as much information as you can share so that we may investigate the matter further.</p>
-        </div>
-        </td>
-    <td class="footer_vert_separator" style="position: absolute;"></td>
-    <td class="footer_line_block" style="width:257px;"><div class="footer_btn"><a href="http://www.amresorts.com/meetings/"> Resources for Meeting Planners › </a></div>
-        <div class="footer_btn"><a href="http://www.amragents.net/?page=login"> Resources for Travel Agents › </a></div>
-        <!--<div class="footer_btn"><a href="#IndustryPartners" rel="boxed"> Resources for Industry Partners &rsaquo; </a></div></td>-->
-    </td><td class="footer_vert_separator" style="position: absolute;"></td>
-    <td class="footer_line_block" style="width:257px;">
-      <div class="footer_btn"><a href="#booking_box" rel="boxed"> Book Now › </a></div>
-      <div class="footer_btn"><a href="https://partners.kcdataservices.com/amr/dreams/my_itinerary.html" target="_blank"> View My Reservation › </a></div>
-        <div class="footer_btn"><a href="/contact-us"> Contact Us › </a></div>
-        <div class="footer_btn"><a href="/connect"> Connect with Us › </a></div></td>
-  </tr>
-  </tbody></table>
-<div class="footer_horiz_separator"> </div>
+</div><!-- end booking modal -->
 
-<div id="footer_logos_secrets">
-	<a class="footer_logos_link p1" href="http://www.zoetryresorts.com" onclick="_gaq.push(['_trackEvent', 'buttons', 'footer', 'Zoetry']);"> <span>1.888.496.3879</span></a>
-	<a class="footer_logos_link p2 " href="http://www.secretsresorts.com" onclick="_gaq.push(['_trackEvent', 'buttons', 'footer', 'Secrets']);"> <span>1.866.467.3273</span></a>
-	<a class="footer_logos_link p3" href="http://www.breathlessresorts.com" onclick="_gaq.push(['_trackEvent', 'buttons', 'footer', 'Breathless']);"> <span>1.855.652.7328</span></a>
-	<a class="footer_logos_link p4 active" href="http://www.dreamsresorts.com" onclick="_gaq.push(['_trackEvent', 'buttons', 'footer', 'Dreams']);"> <span>1.866.237.3267</span></a>
-	<a class="footer_logos_link p5" href="http://www.nowresorts.com" onclick="_gaq.push(['_trackEvent', 'buttons', 'footer', 'Now']);"> <span>1.877.669.9953</span></a>
-	<a class="footer_logos_link p6" href="http://www.sunscaperesorts.com" onclick="_gaq.push(['_trackEvent', 'buttons', 'footer', 'Sunscape']);"> <span>1.866.786.7227</span></a>
-    <div style="width:100%; height:0; display:inline-block"></div>
-</div><!-- /#footer_logos_secrets -->
+		<div data-js="body-overlay"></div>
+		<div data-js="body-overlay-nav"></div>
+		<script type="text/javascript">
+		    var $menu = {
+		      id   :'978',
+		      type :'mainmenu',
+		      alias:'privacy',
+		      level: 1,
+		      small: 0,
+		      special: 1		    };
+		    var cur_resort = "mainmenu";
+		    var book_dc = "";		    var book_albergo = "";		    var book_id_stile = "";	    </script>
 
-<div class="footer_horiz_separator"> </div>
-<table class="footer_line">
-    <tbody><tr>
-    <td class="footer_copyright" width="40%">© AMResorts 2015. All rights reserved.</td>
-    <td class="footer_copyright" style="text-align:right;" width="50%"><a href="/privacy">Privacy</a> | <a href="/site-map">Site map</a></td>
-  </tr>
-  </tbody></table>
-<div class="footer_horiz_separator"> </div>
-<table class="footer_line" style="text-align:right; width:auto;margin-left: auto;">
-    <tbody><tr>
-    <td class="footer_award" style="background-image: url(/templates/desktop/images/trip-advisory_2014_award.png); width:140px;" width="140px"></td>
-    <td class="footer_vert_separator" width="2px">
-    
-  
-    
-    </td><td class="footer_award" style="background-image: url(/templates/desktop/images/rainforest-alliance_award.png); width:140px;" width="140px"></td>
-    <td class="footer_vert_separator" width="2x">
-    
-  
-    
-    </td><td class="footer_award" style="background-image: url(/templates/desktop/images/award_3.png); width:140px;" width="140px"></td>
-  </tr>
-  </tbody></table>
-</div>
-</div>
-
-<div style="display:none">
-    
-
-<div class="custom">
-	<!-- lightbox -->
-<div style="display: none;">
-  
-<!---->
-<div id="lightbox_view_reservation">
-<div class="frame_din">
-
-    
-  <div style="width: 100%; text-align: center;">
-    
-    <h2>View Your Reservation</h2>
-    <p>What type of reservation did you make?</p>
-  
-    <div class="row-separator"> </div>
-    
-    
-  <div class="button_25 booking_btn room">      
-      <div class="button_25_start"> </div>      
-      <a href="https://booking.dreamsresorts.com/reservation_cancel_modify.htm?tot_camere=&amp;tot_adulti=&amp;tot_bambini=&amp;gg=&amp;mm=&amp;aa=&amp;ggf=&amp;mmf=&amp;aaf=&amp;notti_1=&amp;id_stile=9225&amp;lingua_int=eng&amp;id_gruppo=9437&amp;dc_gruppo=1151&amp;id_brand=4&amp;codice_cli=&amp;sconto=&amp;codice_convenzione=&amp;nome_codice_personale=&amp;cognome_codice_personale=&amp;codice_personale=&amp;grafica=vb_style">Room Only</a>      
-      <div class="button_25_end"> </div>    
-  </div>
-  
-  <div class="button_25 booking_btn air">      
-      <div class="button_25_start"> </div>      
-      <a href="http://partners.kcdataservices.com/amr/dreams/my_itinerary.html">Room + Airfare</a>      
-      <div class="button_25_end"> </div>    
-  </div>
-    <p>This function is available for bookings made on DreamsResorts.com only. For trips booked through a third party provider, please check with provider for confirmation.</p>
-  </div>
-  
-</div></div>
-<!---->
-  
-</div></div>
-
-    <div id="IndustryPartners">
-    <iframe style="border:1px solid #DDD;" src="http://amrupdates.com/" width="898" height="520" scrolling="no" frameborder="0"></iframe>
-  </div>
-  </div>
+<!-- Cendyn GA Tag -->
 <script type="text/javascript">
   var _gaq = _gaq || [];
-var pluginUrl =
-  '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
- _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
-  _gaq.push(['_setAccount', 'UA-56742828-1']);
-  _gaq.push(['_setDomainName', '.dreamsresorts.com']);
-  _gaq.push(['_setAllowLinker', true]);
-  _gaq.push(['_setCampaignCookieTimeout', 7776000000]);
-  _gaq.push(['_trackPageview']);
- 
+  var pluginUrl =
+    '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+    _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+    _gaq.push(['_setAccount', 'UA-56742828-1']);
+    _gaq.push(['_setDomainName', '.dreamsresorts.com']);
+    _gaq.push(['_setAllowLinker', true]);
+    _gaq.push(['_setCampaignCookieTimeout', 7776000000]);
+    _gaq.push(['_trackPageview']);
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+      ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
+<!-- End Cendyn GA Tag -->
 
-<!-- One Tag Conditional Container: AM Resorts - Harmelin (4546) | AM Resorts OneTag (3190) -->
-<script type="text/javascript">
-
-var ft_onetag_3190 = {
-
-  ft_vars:{
-
-    "ftXRef":"",
-
-    "ftXValue":"",
-
-    "ftXType":"",
-
-    "ftXName":"",
-
-    "ftXNumItems":"",
-
-    "ftXCurrency":"",
-
-    "U1":"",
-
-    "U2":"",
-
-    "U3":"",
-
-    "U4":"",
-
-    "U5":"",
-
-    "U6":"",
-
-    "U7":"",
-
-    "U8":"",
-
-    "U9":"",
-
-    "U10":"",
-
-    "U11":"",
-
-    "U12":"",
-
-    "U13":"",
-
-    "U14":"",
-
-    "U15":"",
-
-    "U16":"",
-
-    "U17":"",
-
-    "U18":"",
-
-    "U19":"",
-
-    "U20":""
-
-    },
-
-  ot_dom:document.location.protocol+'//servedby.flashtalking.com',
-
-  ot_path:'/container/4546;26419;3190;iframe/?',
-
-  ot_href:'ft_referrer='+escape(document.location.href),
-
-  ot_rand:Math.random()*1000000,
-
-  ot_ref:document.referrer,
-
-  ot_init:function(){
-
-    var o=this,qs='',count=0,ns='';
-
-    for(var key in o.ft_vars){
-
-      qs+=(o.ft_vars[key]==''?'':key+'='+o.ft_vars[key]+'&');
-
-    }
-
-    count=o.ot_path.length+qs.length+o.ot_href+escape(o.ot_ref).length;
-
-    ns=o.ot_ns(count-2000);
-
-    document.write('<iframe style="position:absolute; visibility:hidden; width:1px; height:1px;" src="'+o.ot_dom+o.ot_path+qs+o.ot_href+'&ns='+ns+'&cb='+o.ot_rand+'"></iframe>');
-
-  },
-
-  ot_ns:function(diff){
-
-    if(diff>0){
-
-      var o=this,qo={},
-
-        sp=/(?:^|&)([^&=]*)=?([^&]*)/g,
-
-        fp=/^(http[s]?):\/\/?([^:\/\s]+)\/([\w\.]+[^#?\s]+)(.*)?/.exec(o.ot_ref),
-
-        ro={h:fp[2],p:fp[3],qs:fp[4].replace(sp,function(p1,p2,p3){if(p2)qo[p2]=[p3]})};
-
-      return escape(ro.h+ro.p.substring(0,10)+(qo.q?'?q='+unescape(qo.q):'?p='+unescape(qo.p)));
-
-    }else{
-
-      var o=this;
-
-      return escape(unescape(o.ot_ref));
-
-    }
-
-      }
-
-  }
-
-ft_onetag_3190.ot_init();
-
-</script><iframe style="position:absolute; visibility:hidden; width:1px; height:1px;" src="https://servedby.flashtalking.com/container/4546;26419;3190;iframe/?ft_referrer=https%3A//web.archive.org/web/20151207133352id_/http%253A//www.dreamsresorts.com/privacy&amp;ns=&amp;cb=142562.0891251913"></iframe>
-<!------- End AM Resorts OneTag-------> 
-
-<!-- start number replacer -->
-<script type="text/javascript">
-vs_account_id      = "fwABAVVHrwN_3QDn";
-</script>
-<script type="text/javascript" src="//cendyn.adtrack.calls.net/euinc/number-changer.js">
-</script>
-<!-- end ad widget -->
-
-
+<!-- Cendyn GTM Master Tag -->
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5SVZ3Q"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-5SVZ3Q');</script>
+<!-- End Cendyn GTM Master Tag -->
 
 
 
