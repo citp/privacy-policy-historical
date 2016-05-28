@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dccc.org privacy policy that was archived on 2015-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150819045552id_/http%3A//dccc.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dccc.org privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528035559id_/http%3A//dccc.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DCCC
 
 _Last Revised: March 17, 2014_
 
-This privacy policy (“Policy”) explains how information is collected, used, and disclosed by the Democratic Congressional Campaign Committee (the “DCCC”) with respect to your use of the Web site at [www.dccc.org](http://www.dccc.org/) and other DCCC Web sites, mobile sites, or mobile applications that link to this Policy (the “Services”).  We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on the Policy the date it was last updated.  We encourage you to review this Policy from time to time to stay informed about our information practices.
+This privacy policy (“Policy”) explains how information is collected, used, and disclosed by DCCC with respect to your use of the Web site at [www.dccc.org](http://www.dccc.org/) and other DCCC Web sites, mobile sites, or mobile applications that link to this Policy (the “Services”).  We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on the Policy the date it was last updated.  We encourage you to review this Policy from time to time to stay informed about our information practices.
 
 ### What Information Do We Collect?
 
