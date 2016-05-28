@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholarships.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905084027id_/https%3A//www.scholarships.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarships.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528135212id_/https%3A//www.scholarships.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - About Us - Scholarships.com
 
@@ -14,7 +14,7 @@ When Scholarships.com shares personal information with a third party, the inform
 
 Users may change personal profile information at Scholarships.com at any time by logging in to the website and entering the email address and password submitted when creating their profile. After users have logged in, they will be directed to their Scholarship Search Results. In the tabbed navigation at the top of the page, users will find a link to "Profile". By clicking on that tab, users will be directed to a summary of their information- divided into sections. An "Edit This Section" option in the upper-right corner of each section allows users to modify and update their information. Users can also [ contact us here](https://web.archive.org/about-us/contact-us/privacy-policy/) in order to request access submitted information. To protect the security and integrity of users’ information, we will take necessary steps in verifying all new profile identities before providing access. It is the responsibility of the user to make all necessary changes in their profile and make sure all changes in their profiles are up-to-date. 
 
-Users of Scholarships.com who wish to terminate their membership, or otherwise request to cease usage of their information at Scholarships.com may do so at any time by contacting our [unsubscribe department](https://web.archive.org/about-us/contact-us/unsubscribe/ "Unsubscribe"). Please be sure to type "Remove" in the subject field and submit the email account associated with the profile, along with your password. 
+Users of Scholarships.com who wish to terminate their membership, or otherwise request to cease usage of their information at Scholarships.com may do so at any time by contacting our [unsubscribe department](https://web.archive.org/about-us/contact-us/unsubscribe/ "Unsubscribe"). Please be sure to type "Remove" in the subject field and submit the email account associated with the profile. 
 
 Information will be retained for as long as the account is active or requests our services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
