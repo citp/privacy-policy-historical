@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ddpyoga.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314230715id_/http%3A//ddpyoga.com/privacy-policy-en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ddpyoga.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529010448id_/http%3A//ddpyoga.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy -
+# Privacy Policy | DDP Yoga
 
 ### What information do we collect?
 
