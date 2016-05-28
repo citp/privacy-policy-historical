@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-utility.org privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205181434id_/http%3A//www.online-utility.org/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-utility.org privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528211445id_/http%3A//www.online-utility.org/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,48 +6,6 @@
 _Utilities for Online Operating System_ |   
 ---|---|---  
   
-  * [Online Utility](https://web.archive.org/)
-    * [Contact](mailto:online-utility.org@proxy.dreamhost.com?subject=online%20utility%20comment)
-    * [Terms of Use](https://web.archive.org/terms_of_use.jsp)
-    * [Privacy Policy](https://web.archive.org/privacy.jsp)
-    * [About This Website](https://web.archive.org/about_us.jsp)
-  * [English Language](https://web.archive.org/english/index.jsp)
-    * [Readability Test And Improve](https://web.archive.org/english/readability_test_and_improve.jsp)
-    * [Learn English Text](https://web.archive.org/english/help_understand_english_text.jsp)
-    * [Vocabulary Builder](https://web.archive.org/english/vocabulary_builder.jsp)
-    * [New Words English Dictionary](https://web.archive.org/english/explain_all_words.jsp)
-    * [Dictionary](https://web.archive.org/english/dictionary.jsp)
-    * [In Simple English](https://web.archive.org/english/simple_basic_helper.jsp)
-    * [Filtered Word Frequencies](https://web.archive.org/english/filtered_word_frequency.jsp)
-  * [Text](https://web.archive.org/text/index.jsp)
-    * [Text Analyzer](https://web.archive.org/text/analyzer.jsp)
-    * [Sort](https://web.archive.org/text/sort.jsp)
-    * [Grep](https://web.archive.org/text/grep.jsp)
-    * [Understand Text in Foreign Language](https://web.archive.org/text/understand_foreign_language_text.jsp)
-    * [Frequent Words](https://web.archive.org/text/frequent_words.jsp)
-    * [Unusual Words](https://web.archive.org/text/finds_unusual_words.jsp)
-    * [Misspellizer](https://web.archive.org/text/misspellizer.jsp)
-  * [Math](https://web.archive.org/math/index.jsp)
-    * [Math Calculator](https://web.archive.org/math/math_calculator.jsp)
-    * [Prime Factorization](https://web.archive.org/math/prime_factorization.jsp)
-    * [Compound Interest Calculator](https://web.archive.org/math/compound_interest_calculator.jsp)
-    * [Lease Calculator](https://web.archive.org/math/lease_calculator.jsp)
-    * [Loan Calculator](https://web.archive.org/math/loan_calculator.jsp)
-    * [Present Value of Future Money](https://web.archive.org/math/present_value_of_future_money.jsp)
-    * [Retirement Planning Calculator](https://web.archive.org/math/retirement_planning_calculator.jsp)
-  * [Other](https://web.archive.org/other.jsp)
-    * [Image Converter](https://web.archive.org/image_converter.jsp)
-    * [Webmaster Tools](https://web.archive.org/webmaster/index.jsp)
-    * [Special Search Engines](https://web.archive.org/search/index.jsp)
-    * [Measurement Convertors](https://web.archive.org/measures/index.jsp)
-    * [Cost of Living](http://www.numbeo.com/cost-of-living/)
-    * [Open Rewrite Search Engine](http://www.openrewrite.com/)
-    * [Tralev the World](http://www.tralev.com/)
-
-
-
-[](http://addthis.com/bookmark.php?v=250&pub=adamovic)
-
 online-utility.org has created this privacy statement in order to demonstrate our commitment to privacy to our customers and users of this website. This Privacy Policy governs the manner in which online-utility.org uses, maintains and discloses information collected from its customers and users of its website.
 
 **Children**  
