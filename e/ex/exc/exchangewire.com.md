@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exchangewire.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601221306id_/http%3A//www.exchangewire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exchangewire.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528173834id_/https%3A//www.exchangewire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ExchangeWire.com
 
