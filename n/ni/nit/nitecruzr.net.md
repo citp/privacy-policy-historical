@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nitecruzr.net privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912014340id_/http%3A//www.nitecruzr.net/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitecruzr.net privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528025343id_/http%3A//www.nitecruzr.net/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Nitecruzr Dot Net: Privacy Policy
 
