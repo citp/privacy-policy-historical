@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the insites.eu privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703143457id_/http%3A//www.insites-consulting.com/privacy-statements) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insites.eu privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528222549id_/http%3A//www.insites-consulting.com/privacy-statements) for the most accurate reproduction.*
 
-# Privacy | InSites Consulting
+# Privacy Statement | InSites Consulting
 
 ## A. Respect for privacy-Act of 8 December 1992
 
@@ -32,17 +32,17 @@ The aim of the optional fields is to allow us to contact you quickly and/or to o
 
 ## D. Cookies
 
-When confronted with an online participation invite of InSites Consulting for a survey, we may send a cookie that is stored on your system, originating from the domain “*.insites.be”, “*.insites.eu”, “*.insites-consulting.com”, “*.talktochange.eu” of “*.talktochange.com”. 
+When confronted with an online participation invite of InSites Consulting for a survey, we may send a cookie that is stored on your system, originating from the domain “*.insites.be”, “*.insites.eu”, “*.insites-consulting.com”, “*.talktochange.eu” of “*.talktochange.com”.
 
-The sole purpose of the cookie, is to ensure that people who do not wish to participate, or the ones that have participated, will not be confronted again with the invite during the lifetime of the cookie. 
+The sole purpose of the cookie, is to ensure that people who do not wish to participate, or the ones that have participated, will not be confronted again with the invite during the lifetime of the cookie.
 
 The cookie is installed on your hard disk automatically, but you have the right to refuse it. In order to be notified when a cookie is being installed, please refer to the help function of your internet browser. For further questions or requests, you can always contact research@insites-consulting.com.
 
-InSites Consulting doesn’t store any personal details in a cookie that can be used to identify individuals, nor does it use cookies for any kind of tracking purposes. 
+InSites Consulting doesn’t store any personal details in a cookie that can be used to identify individuals, nor does it use cookies for any kind of tracking purposes.
 
 ## E. Goals
 
-Personal details can only be collected and processed by us for one of the following goals: 
+Personal details can only be collected and processed by us for one of the following goals:
 
   * for the registration, invitation and participation in our services;
   * for research and statistical goals;
@@ -113,8 +113,8 @@ This privacy statement is governed by Belgian law alone.
 
 ## L. Contact
 
-InSites nv.  
-Address of the registered office: Evergemsesteenweg 195, 9032 Ghent, Belgium.  
+InSites NV  
+Address of the registered office: Evergemsesteenweg 195, 9032 Ghent, Belgium  
 Tel.: +32 (0)9.269.15.00  
 Website: [http://www.insites-consulting.com](http://www.insites-consulting.com/)  
 E-mail: [info@insites-consulting.com](mailto:info@insites-consulting.com)  
