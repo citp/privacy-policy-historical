@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virgintrainseastcoast.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910015352id_/https%3A//www.virgintrainseastcoast.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virgintrainseastcoast.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528185017id_/https%3A//www.virgintrainseastcoast.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Virgin Trains East Coast
 
@@ -32,11 +32,12 @@ We will use this information for the following reasons:
   * to tailor how our site can help you;
   * for analysis about how customers use the website;
   * for analysis of our marketing activities;
-  * to facilitate the delivery of loyalty scheme activity (including Nectar and Virgin Flying Club);
+  * to facilitate the delivery of loyalty scheme activity (including Nectar, Virgin Atlantic Flying Club and Virgin Red);
   * to track usage of particular websites through the on-board and Hotspot Wi-Fi;
   * to follow up if you have purchased goods or services from our website;
   * to follow up as part of our customer care procedures; and/or
   * to contact you for market research purposes (see the section under “Marketing” below).
+  * to facilitate the provision of goods and services from third parties accessed from our website;
 
 
 
