@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mvaayoo.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206010655id_/http%3A//www.mvaayoo.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mvaayoo.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528114841id_/http%3A//www.mvaayoo.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
