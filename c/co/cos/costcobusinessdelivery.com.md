@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costcobusinessdelivery.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209082822id_/http%3A//www.costcobusinessdelivery.com/personalized-product-recommendations.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costcobusinessdelivery.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528140511id_/http%3A//www.costcobusinessdelivery.com/personalized-product-recommendations.html) for the most accurate reproduction.*
 
 # Personalized Product Recommendations
 
