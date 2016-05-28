@@ -1,20 +1,19 @@
-> *The following text is extracted and transformed from the reachout.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607101557id_/http%3A//reachout.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reachout.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528144841id_/http%3A//au.reachout.com/Privacy) for the most accurate reproduction.*
 
 # Privacy policy | ReachOut.com Australia
 
-The Inspire Foundation, it’s staff and volunteers who operate [http://au.reachout.com](http://au.reachout.com/), [http://forums.reachout.com](http://forums.reachout.com/), [http://www.inspire.org.au](http://www.inspire.org.au/), and any ReachOut.com and Inspire Foundation social media profiles, respect and are committed to maintaining the privacy of all visitors to this site. This policy (“Privacy Policy”) sets out how we deal with the collection, security, quality, use and disclosure of your Personal Information and Sensitive Information in accordance with the Privacy Act 1988 (Cth). 
+ReachOut Australia, it’s staff and volunteers who operate [http://au.reachout.com](http://au.reachout.com/), [http://forums.reachout.com](http://forums.reachout.com/), [http://about.au.reachout.com](http://about.au.reachout.com/), and any ReachOut.com social media profiles, respect and are committed to maintaining the privacy of all visitors to this site. This policy (“Privacy Policy”) sets out how we deal with the collection, security, quality, use and disclosure of your Personal Information and Sensitive Information in accordance with the Privacy Act 1988 (Cth). 
 
-Your use of [http://au.reachout.com](http://au.reachout.com/), [http://forums.au.reachout.com](http://forums.au.reachout.com/), [www.inspire.org.au](https://web.archive.org/web/20150619001828id_/http://au.reachout.com/www.inspire.org.au), or any other website through which you communicate with us (including through ReachOut.com and Inspire Foundation social media profiles such as Facebook, Twitter, Youtube, Myspace, etc) (referred to in this policy as the ‘Sites’) indicates that you accept this Privacy Policy, and consent to the collection and use by us of your Personal Information and Sensitive Information according to the terms below.
+Your use of [http://au.reachout.com](http://au.reachout.com/), [http://forums.au.reachout.com](http://forums.au.reachout.com/), [http://about.au.reachout.com](http://about.au.reachout.com/), or any other website through which you communicate with us (including through ReachOut.com social media profiles such as Facebook, Twitter, Youtube, Myspace, etc) (referred to in this policy as the ‘Sites’) indicates that you accept this Privacy Policy, and consent to the collection and use by us of your Personal Information and Sensitive Information according to the terms below.
 
-If you have any questions, comments or concerns about this Privacy Policy, please [contact us.](https://web.archive.org/contact-us)
+If you have any questions, comments or concerns about this Privacy Policy, please [contact us](https://web.archive.org/contact-us).
 
 ##  **1.    What types of information do we collect?**
 
 The main types of information we collect are:
 
 (a)   **  Personal Information:** this is information or opinions about you where your identity is apparent, or can be reasonably ascertained, from the information or opinion.  We will only collect Personal Information that you provide to us when using the Sites.    
-(b)     **Non-Personal Information:** this information includes the search terms you have used on our Sites, the pages you have visited and various log information including the internet protocol (IP) address of the computer you are using, information about your browser such as the type and language, the date and time of your request and cookies to identify your browser.   
-Non-Personal Information is not capable of identifying the individual user. 
+(b)     **Non-Personal Information:** this information includes the search terms you have used on our Sites, the pages you have visited and various log information including the internet protocol (IP) address of the computer you are using, information about your browser such as the type and language, the date and time of your request and cookies to identify your browser. Non-Personal Information is not capable of identifying the individual user. 
 
 Occasionally, we also collect limited Sensitive Information. This includes Personal Information about an individual’s racial origin, ethnic origin, religious or philosophical beliefs, political opinions, sexual preferences, or membership in trade unions, political associations, trade associations and criminal record.  It also includes health information (i.e. information or an opinion about someone’s health, wishes about health services or health services provided to them). 
 
@@ -88,7 +87,8 @@ We will take all reasonable steps to keep your Personal Information or Sensitive
 ## 8\.    Our commitment to information security
 
 We will take all reasonable steps to ensure your Personal Information and Sensitive Information is protected from modification, misuse, disclosure, loss and unauthorised access.   
-Remember that no internet transmission is ever completely secure or error-free and the Sites may contain links or references to other websites to which this Privacy Policy might not apply. You should always read the privacy policy of every website you visit, especially when you provide Personal Information, Sensitive Information or make posts or other contributions to these sites.   
+Remember that no internet transmission is ever completely secure or error-free and the Sites may contain links or references to other websites to which this Privacy Policy might not apply. You should always read the privacy policy of every website you visit, especially when you provide Personal Information, Sensitive Information or make posts or other contributions to these sites. 
+
 We will not be held responsible for events arising from unauthorised access to your Personal Information or Sensitive information. 
 
 ## 9\.    Changes to this Privacy Policy
@@ -97,5 +97,4 @@ We may from time to time change this Privacy Policy and will post updated versio
 
 ## 10\.    How to contact us
 
-If you want to access or correct your Personal Information or Sensitive Information, opt out of receiving our marketing materials, cancel your membership with us, or have any questions about this Privacy Policy [please contact us.  ](https://web.archive.org/contact-us)  
-
+If you want to access or correct your Personal Information or Sensitive Information, opt out of receiving our marketing materials, cancel your membership with us, or have any questions about this Privacy Policy [please contact us](https://web.archive.org/contact-us). 
