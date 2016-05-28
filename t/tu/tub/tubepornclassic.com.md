@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tubepornclassic.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102113726id_/http%3A//www.tubepornclassic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubepornclassic.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528173844id_/http%3A//www.tubepornclassic.com/information/privacy) for the most accurate reproduction.*
 
-# Privacy Policy / Tube Porn Classic
-
-## Privacy Policy
+# Privacy Policy | Tubepornclassic.com
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
