@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinoyteens.net privacy policy that was archived on 2013-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130328083331id_/http%3A//pinoyteens.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinoyteens.net privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528163643id_/http%3A//pinoyteens.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pinoy Teens
 
