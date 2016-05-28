@@ -1,28 +1,65 @@
-> *The following text is extracted and transformed from the selfhelptip.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605065334id_/http%3A//www.selfhelptip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selfhelptip.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528232530id_/http%3A//www.selfhelptip.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Law of Attraction
+# Privacy Policy : SelfHelpTip
 
-**Your Privacy**  
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+This Privacy Policy is in application to SelfHelpTip.com. This would impart how SelfHelpTip.com collects uses and shares the information from or regarding you as you visit a site, gives information on how advertisements are done, both on SelfHelpTip.com and other websites, and how information is collected based on interactions with the online ads. In addition to the Notice, depending on the relationship with SelfHelpTip.com, you may receive and be under the coverage of SelfHelpTip.com, other privacy disclosures within account opening documents and other privacy and security rules as applicable to the relevant affiliate.
 
-**Google Adsense and the DoubleClick DART Cookie**  
-Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
+**Information Gathering**
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
+When you visit SelfHelpTip.com, categories of information may be gathered, including personal information that are provided via forms, applications, surveys, or other online fields. We can also collect information about you from online browsing and transactions, including preferences pages visited and technical information regarding your settings. Personal information means identifiable information and does not include aggregated date that the site could create or compile from various sources, including transactions and accounts. This information which does not single out individual customers is used by our site business purposes, including offering services or products, research, marketing or analyzing market trends and other purposes in congruence to existing laws.
 
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Self Esteem has no access or control over these cookies that may be used by third party advertisers. 
+**Cookies**
 
-**Collection of Personal Information**  
-When visiting Self Esteem, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+These are pieces of information stored on the computer upon use. SelfHelpTip.com or the third party service providers, as well as advertising service providers, may place cookies or flash objects on the hard drive for security purposes for the facilitation of site navigation and personalization of the experience.
 
-**Links to third party Websites**  
-We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own. 
+In visiting SelfHelpTip.com, we use cookies to go over your experience of the site. In applying for a product on one of our sites, we would use cookies to remember you and to provide information on products and services best fitting your needs. If you have an account with us and you access your accounts online, we will maintain the information about your visits to personalize your browsing experience, and the services and products offered. If you do not have an account with us and wish not for us to maintain the information, delete the cookies. For this, you would need to follow the browsers instructions for deleting and disabling cookies.
 
-**Changes to this Privacy Statement**  
-The contents of this statement may be altered at any time, at our discretion. 
+**IP Addresses**
 
-If you have any questions regarding the privacy policy of Self Esteem then you may [contact](http://www.selfhelptip.com/contact "contact") us at sitesforflippa@gmail.com 
+The IP address is a number assigned to the Internet accessing network or computer. Visitors IP addresses are stored in our log as they visit the site. These IP address are collected for administration of the system, reporting aggregate information, and auditing Site visits. In addition, some features of our site display IP address together with name and message, like on forums.
 
-This privacy policy was generated by the [Easy Privacy Policy](http://europeancruiseadvisor.com/ "Easy Privacy Policy homepage") plugin for WordPress.
+**Advertising**
 
-Last updated Thu, 26 May 2011 02:47
+The site advertises on pages within the site as well as other websites not affiliated with SelfHelpTip.com. Information collected in our advertising service providers though cookies and other technologies would include the number of people who look at each page on the site, browsing patterns within the site, search engine referrals, browsing patterns in SelfHelpTip.com and responses to promotions and advertisements on the sites where we advertise.
+
+**Online Surveys**
+
+Time to time, you can be asked to do online surveys. You do not have the requirement to do such; but these are used to gather information to better address your needs. Based on this, we can keep you updated on account and service.
+
+**Planning Tools**
+
+SelfHelpTip.com gives users visiting websites with many planning tools, including mortgage, savings and plans for retirement. The information placed into these tools could be used for future access and use. We will inform you when the information is to be planned to stored, and you can have the option for this information not to be saved.
+
+**Using and Sharing Information**
+
+There would be times that SelfHelpTip.com could make information available to third parties that could be companies not related through common ownership or control, including service providers, insurance agencies, credit bureaus, retailers, membership organizations, government agencies, legal investigators, courts and other non-affiliated third parties as requested by you or your authorized representative, or otherwise when required or allowed by law. Unless differently describe in the Notice, for US account holders, we will use and share any information collected from or about you covered by the Notice in keeping with the Privacy Notice, providing consumers additional direct marketing choices.
+
+**Social Media Connection**
+
+SelfHelpTip.com provides experiences on social media platforms, enabling online sharing and collaboration with users. Any content posted, including pictures, information, opinions and other personal information made available to these platforms is subject to the Terms of Use and Privacy Policies of the Platforms. Kindly refer to these to understand you rights in keeping with the content.
+
+**Accuracy of Information**
+
+Keeping account information accurate and updated is essential. If the account information is inaccurate or incomplete, kindly use the Contact Us link on our site, call to inform us at the correct address or telephone numbers for changes in the account statements, records, online or other account materials.
+
+**Linking to Other Sites**
+
+We could provide link to sites not related to our service, including merchants and credit bureaus. If you follow links to websites not controlled by SelfHelpTip.com, you should go over the privacy policies and other terms, as they could diverge from other sites. SelfHelpTip.com will not guarantee and will not be responsible for the security or privacy of the said websites, including the completeness or accuracy of said information.
+
+**Children’s Privacy**
+
+Most of our publications and web sites are intended for adults. Some web sites and publications, however, are intended for teens 13 and older but may include features or material that may be appealing to children under the age of 13. We are strongly committed to protecting the safety and privacy of children who visit our Web sites. We do not knowingly collect personal information online from children under 13. Many of our sites include bulletin boards and other features that we believe are unsuitable for children under 13 and which are not necessarily monitored. We encourage all parents to talk to their kids about online safety and to monitor their children’s use of the Internet.
+
+**Change in Company’s Ownership**
+
+If by chance another company obtains the assets in the business of SelfHelpTip.com, we reserve inclusion of the stored personal identification information along with the assets transferred to the new corporate owners.
+
+**Service Customization**
+
+Target advertising to users is provided by the information collected about users. This is to allow all the pertinent advertising to be displayed. Customization of certain website features we provide is done with the information that is collected.
+
+**Third-Parties**
+
+Third-parties are contracted for specific services such as credit card processing and list generation. Any information that is required to perform these services is provided to the service provider.
+
+We use third-party advertising companies to serve ads and collect data when you visit our website. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site, other sites, and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/choices/)
