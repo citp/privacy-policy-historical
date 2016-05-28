@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the mjsbigblog.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530152453id_/http%3A//mjsbigblog.com/idol-appearances/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mjsbigblog.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528233004id_/http%3A//www.mjsbigblog.com/privacy-policy-statement) for the most accurate reproduction.*
 
-# Privacy Policy Statement
-
-[](http://www.tumblr.com/share/link?url=http%3A%2F%2Fwww.mjsbigblog.com%2Fidol-appearances%2Fprivacy-policy-statement&name=Privacy+Policy+Statement)[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.mjsbigblog.com%2Fidol-appearances%2Fprivacy-policy-statement&media=&description=Privacy+Policy+Statement)[](http://www.reddit.com/submit?url=http%3A%2F%2Fwww.mjsbigblog.com%2Fidol-appearances%2Fprivacy-policy-statement)[](mailto:?subject=Privacy%20Policy%20Statement&body=http://www.mjsbigblog.com/idol-appearances/privacy-policy-statement)
+# Privacy Policy Statement • mjsbigblog
 
 This is the web site of **mjsbigblog**.
 
 Our postal address is  
-**258 Harvard Street No. 434  
+**258 Harvard Street  
+STE. 202  
 Brookline MA 02446**  
-We can be reached via e-mail at mjsbigblog@gmail.com
+[Click to Reach us by Email](http://www.mjsbigblog.com/contact-mjsbigblog)
 
   * For each visitor to our Web page, our Web server automatically recognizes the consumer’s domain name and e-mail address (where possible).
   * We collect only the domain name, but not the e-mail address of visitors to our Web page and the email addresses of those who post messages to our comments section and chat areas.
