@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wordery.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907214946id_/https%3A//wordery.com/cs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordery.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528151449id_/https%3A//wordery.com/cs/privacy) for the most accurate reproduction.*
 
-# Privacy policy: wordery.com
+# Privacy policy | wordery.com
 
 Magpie Investments Limited, trading as "wordery.com" (" **We** ") are committed to protecting and respecting your privacy.
 
