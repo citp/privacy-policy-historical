@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toolsofmen.com privacy policy that was archived on 2015-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151129023136id_/http%3A//www.toolsofmen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolsofmen.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529034842id_/http%3A//www.toolsofmen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tools of Men
 
@@ -17,12 +17,6 @@ We will occasionally email you about consulting service offers, new content and 
 If you have questions about how we manage your email address and other personally identifiable information, feel free to contact
 
 shawn (at) toolsofmen (dot) com
-
-Or send a letter to:
-
-Shawn Burns  
-200 West 78th Street  
-New York, NY 10024
 
 ## How we gather information from users
 
@@ -76,7 +70,3 @@ This policy and the use of these Sites are governed by New York law. If a disput
 If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: New York, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
 
 toolsofmen.com is controlled, operated and administered entirely within New York. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
-
-## FTC Required Disclosure
-
-Tools Of Men is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
