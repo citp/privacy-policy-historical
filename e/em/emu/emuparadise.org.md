@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emuparadise.org privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121183748id_/http%3A//www.emuparadise.me/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emuparadise.org privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530000853id_/http%3A//www.emuparadise.me/privacy.php) for the most accurate reproduction.*
 
 # NDS ROMS PSP ROMS PSX ROMS NES ROMS SNES ROMS GBA ROMS | Emuparadise
 
