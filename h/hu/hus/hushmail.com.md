@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hushmail.com privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112082256id_/https%3A//www.hushmail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hushmail.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529075342id_/https%3A//www.hushmail.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Hushmail – Private Email
+# Privacy Policy
 
-## Who we are
+### Who we are
 
 Unless otherwise specified, Hush Communications Corporation and its subsidiary companies (“Hush”) are the corporate legal entities that publish Hushmail.com and related websites and services. In this Privacy Policy, “We”, “Us”, and “Our” means Hush.
 
@@ -10,7 +10,7 @@ Our offices and our servers where user data is stored are located in Vancouver, 
 
 By visiting our website and using our services, you consent to the collection and use of information as outlined in this privacy policy.
 
-## Your data
+### Your data
 
 We take steps where possible to limit the personal data we collect. The following are the ways in which we may collect personal data:
 
@@ -22,7 +22,7 @@ We take steps where possible to limit the personal data we collect. The followin
 
 
 
-## How we store your data
+### How we store your data
 
   1. When you sign up for an account, you consent to your account and any other account data being stored on the Hush servers.
   2. If you have an encrypted email in your account, it will be stored on the Hush servers encrypted. If you have an unencrypted email in your account, it will be stored on the Hush servers unencrypted.
@@ -30,7 +30,7 @@ We take steps where possible to limit the personal data we collect. The followin
 
 
 
-## How we use your data
+### How we use your data
 
   1. We do not analyze the email in your account for the purpose of displaying advertisements.
   2. We do not and will **never** share your account data with any third-party except as specified in this policy. We will **never** sell your account data under any circumstances.
@@ -42,7 +42,7 @@ We take steps where possible to limit the personal data we collect. The followin
 
 
 
-## How long do we retain your data?
+### How long do we retain your data?
 
 The following outlines how our data retention policy affects the email in your account and your account data:
 
@@ -72,7 +72,7 @@ For information on how you can close and delete your Hushmail Business services,
 
 
 
-## Disclosure of account data
+### Disclosure of account data
 
 Under normal circumstances, we do not and will **never** disclose account data to anyone other than the owner of an account. We will always attempt to authenticate any requests that require the disclosure of account data to ensure they come from the account owner. If we are unable to successfully authenticate a request, we do **not** disclose any account data.
 
@@ -84,7 +84,7 @@ We will only disclose account data in the following circumstances:
 
 
 
-## Cookies
+### Cookies
 
 We use cookies to manage your sessions, to remember your essential settings, and to help us better understand how people are using our services. This helps us provide a better experience to visitors of our website and to people using the service. In some cases where we use third-party services, such as our help system, these services may also use cookies.
 
@@ -94,19 +94,19 @@ We take reasonable steps to ensure that the third-party services we use do not s
 
 Most web browsers give you the ability to accept or decline the use of cookies through the browser preferences. If you disable the use of cookies you will be able to browse our website. You will, however, be unable to sign in to your account. If you have enabled your browser’s **Do Not Track** option, you will still be able to sign in to your account.
 
-## Advertising
+### Advertising
 
 We do not use any third-party advertising providers on our website.
 
-## Content analysis
+### Content analysis
 
 We **do not analyze** your email for the purpose of displaying advertisements. Our spam filters analyze email for the purpose of preventing spam, viruses, and abuse.
 
-## Access to your personal data
+### Access to your personal data
 
 We only collect personal data from users that is relevant to the purposes outlined above. We take reasonable steps to ensure that the personal data we collect is reliable, accurate, and complete. Users have the ability to access the personal data held in their customer record by logging into the billing section of our website. To request corrections or deletions of inaccurate data, contact us: <https://www.hushmail.com/contact>.
 
-## Temporary access to data by third-party services
+### Temporary access to data by third-party services
 
 There are some cases when, due to malicious web traffic, we must temporarily employ a third-party service to ensure that our services continue to be available to our users. During these times, your data will be subject to that service provider’s data disclosure policy.
 
@@ -114,7 +114,7 @@ For more information, please read:
 
 <https://help.hushmail.com/entries/245155-Security-Analysis>
 
-## Compliance with EU Data Protection Directive 95/46/EC
+### Compliance with EU Data Protection Directive 95/46/EC
 
 The European Commission recognizes that the Canadian Personal Information Protection and Electronic Documents Act (PIPEDA) provides adequate protection for the transfer of personal information and health information from the EU to Canada.
 
@@ -122,13 +122,13 @@ More information on this can be found here:
 
 [http://europa.eu/rapid/pressReleasesAction.do?reference=IP/02/46&format=HTML&aged=1&language=EN&guiLanguage=en](http://europa.eu/rapid/pressReleasesAction.do?reference=IP/02/46&format=HTML&aged=1&language=EN&guiLanguage=en)
 
-## Constant improvement
+### Constant improvement
 
 This privacy policy is under constant review and may be modified and updated in the future.
 
-## Contact us
+### Contact us
 
-We value your opinions and appreciate your comments. If you have any questions or concerns, please contact us: https://www.hushmail.com/contact.
+We value your opinions and appreciate your comments. If you have any questions or concerns, please contact us: <https://www.hushmail.com/contact>.
 
 Or by mail to the following address:
 
