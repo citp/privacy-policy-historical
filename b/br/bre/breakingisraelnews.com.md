@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breakingisraelnews.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124190618id_/https%3A//www.breakingisraelnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakingisraelnews.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529082014id_/https%3A//www.breakingisraelnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Breaking Israel News | Israel Latest News, Israel Prophecy News
 
