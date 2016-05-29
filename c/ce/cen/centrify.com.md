@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the centrify.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213000143id_/http%3A//www.centrify.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centrify.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529065027id_/https%3A//www.centrify.com/Privacy) for the most accurate reproduction.*
 
 # Centrify Privacy Statement
 
-Centrify Corporation (“Centrify” or the “Company”) is committed to protecting the privacy of individuals who visit the Company's Web sites (“Visitors”), individuals who register to download free or trial software or use the Company's software and services as defined below (“Customers”), and individuals who register to attend the Company's corporate in-person or web-based events (“Attendees”).  This Privacy Statement describes Centrify's privacy practices in relation to the use of the Company's Web sites and the related free and paid software and services offered by Centrify (“Software” and “Services”).
+Centrify Corporation (“Centrify” or the “Company”) is committed to protecting the privacy of individuals who visit the Company's Web sites (“Visitors”), individuals who register to download free or trial software or use the Company's software and services as defined below (“Customers”), and individuals who register to attend the Company's corporate in-person or Web-based events (“Attendees”). This Privacy Statement describes Centrify's privacy practices in relation to the use of the Company's Web sites and the related free and paid software and services offered by Centrify (“Software” and “Services”).
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=12ada977-309b-4a16-849a-6058b9a42814 "TRUSTe Privacy Certification")
 
-Centrify has received TRUSTe's Privacy Seal signifying that this Privacy Statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected, handled, or maintained through [http://www.centrify.com](https://web.archive.org/ "www.centrify.com"), [http://cloud.centrify.com](http://cloud.centrify.com/), other Web sites under the centrify.com domain  (collectively referred to as “Centrify's Web sites” or “the Company's Web sites”) and the online services associated with those sites. The TRUSTe program does not currently cover information that may be collected through downloadable software or mobile applications. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.TRUSTe will then serve as a liaison with Centrify to resolve your concerns.
-
-Centrify complies with the U.S. — E.U. Safe Harbor framework and the U. S. — Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Centrify has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit <http://www.export.gov/safeharbor/>
+Centrify has received TRUSTe's Privacy Seal signifying that this Privacy Statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected, handled, or maintained through [https://www.centrify.com](https://web.archive.org/ "https://www.centrify.com"), [https://cloud.centrify.com](https://cloud.centrify.com/), other Web sites under the centrify.com domain  (collectively referred to as “Centrify's Web sites” or “the Company's Web sites”) and the online services associated with those sites. The TRUSTe program does not currently cover information that may be collected through downloadable software or mobile applications. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. TRUSTe will then serve as a liaison with Centrify to resolve your concerns.
 
 ## Web Sites Covered
 
-This Privacy Statement covers the information practices of Web sites that link to this Privacy Statement, including: [http://www.centrify.com](https://web.archive.org/ "www.centrify.com"), [http://cloud.centrify.com](http://cloud.centrify.com/) and other Web sites under the centrify.com domain which are owned and operated by the Company.
+This Privacy Statement covers the information practices of Web sites that link to this Privacy Statement, including: [https://www.centrify.com](https://web.archive.org/ "www.centrify.com"), [https://cloud.centrify.com](https://cloud.centrify.com/) and other Web sites under the centrify.com domain which are owned and operated by the Company.
 
 Centrify's Web sites may contain links to other external Web sites. The privacy statements of these other Web sites govern the information practices or the content of these other Web sites. The Company encourages you to review the privacy statements of other Web sites to understand their information practices.
 
@@ -52,7 +50,7 @@ When you use Software or Services, we may use geolocation technology together wi
 
 The Company uses Data about Centrify Customers and Data about Centrify Attendees to perform the services requested. For example, if you fill out a 'Contact Me' Web form, the Company will use the information provided to contact you about your interest in Software and Services.
 
-The Company also uses Data about Centrify Attendees to plan and host corporate events and host online web seminars in which event attendees may participate. The Company may also use Data about Centrify Customers and Data about Centrify Attendees for marketing purposes. For example, the Company may use information you provide, or information provided by partner referrals, to contact you to further discuss your interest in Software and Services and to send you information regarding the Company, its affiliates, and its partners, such as information about promotions or events.  
+The Company also uses Data about Centrify Attendees to plan and host corporate events and host online Web seminars in which event attendees may participate. The Company may also use Data about Centrify Customers and Data about Centrify Attendees for marketing purposes. For example, the Company may use information you provide, or information provided by partner referrals, to contact you to further discuss your interest in Software and Services and to send you information regarding the Company, its affiliates, and its partners, such as information about promotions or events.  
 
 We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us using the information below.
 
@@ -60,15 +58,15 @@ Centrify uses Web Site Navigational Information to operate and improve the Compa
 
 The Company uses Data about Centrify Customers to gather statistics to enhance Software and Services, to provide technical support and for license enforcement. Centrify does not share Anonymous Data or Data about Centrify Customers.
 
-## Opt-Out  
+## Opt-Out  
 
-If at any time after registering for Software or Services you change your mind about receiving information from us, please send us a request specifying your new choice. Simply send your request to [privacy@centrify.com](mailto:privacy@centrify.com). Centrify will respond to your request within at most 30 days from the date of your request.
+If at any time after registering for Software or Services you change your mind about receiving information from us, please send us a request specifying your new choice. Simply send your request to [privacy@centrify.com](mailto:privacy@centrify.com). Centrify will respond to your request within at most 30 days from the date of your request.
 
 We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements and will only contact you in relation to these items.
 
 For additional information about opting out of Centrify marketing emails and newsletters, please see 'Communication Preferences'.
 
-For additional information about correcting or updating your information, please see section 10.
+For additional information about correcting or updating your information, please see "Correcting and Updating Your Information" below.
 
 ## Cookies and other Tracking Technologies
 
@@ -86,15 +84,15 @@ The use of tracking technologies by our service providers, technology partners o
 
 ## Analytics
 
-As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. Some of this information may be linked to personal data.
+As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. Some of this information may be linked to personal data.
 
 ## Local Storage Objects (Flash / HTML5)
 
-We use Local Storage such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also uses Local Shared Objects such as Flash cookies and Local Storage, such as HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
+We use Local Storage such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our Web site or to display advertising based upon your Web browsing activity also uses Local Shared Objects such as Flash cookies and Local Storage, such as HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
 ## Behavioral Targeting / Re-Targeting
 
-Centrify partners with a third-party ad network to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal data about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here (or if located in the European Union click [here](http://preferences.truste.com/)here). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+Centrify partners with a third-party ad network to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal data about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://preferences.truste.com/)). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 ## Community Forums
 
@@ -118,7 +116,7 @@ Centrify reserves the right to use or disclose information provided if required 
 
 ## Privacy and Children
 
-Centrify web sites do not offer information intended to attract children. Centrify does not knowingly solicit personal data from children under the age of 13.  
+Centrify Web sites do not offer information intended to attract children. Centrify does not knowingly solicit personal data from children under the age of 13.  
 
 ## Communications Preferences
 
@@ -126,7 +124,7 @@ Centrify offers Customers and Attendees who provide contact information a means 
 
 ## Correcting and Updating Your Information
 
-Customers may update or change their registration information by editing their user record. To update a user profile, please login to http://www.centrify.com/support  with your Centrify username and password and click 'Manage Accounts.' If you wish to have your user account deactivated, cancel your account and/or have your personal data removed from our system, please contact us using the information below. Data about Attendees and Billing Information may be updated, changed or removed; you can do so by contacting [privacy@centrify.com](mailto:privacy@centrify.com) or by regular mail addressed to:
+Customers may update or change their registration information by editing their user record. To update a user profile, please login to [https://www.centrify.com/support ](https://web.archive.org/support/ "Support") with your Centrify username and password and click 'Manage Accounts.' If you wish to have your user account deactivated, cancel your account and/or have your personal data removed from our system, please contact us using the information below. Data about Attendees and Billing Information may be updated, changed or removed; you can do so by contacting [privacy@centrify.com](mailto:privacy@centrify.com) or by regular mail addressed to:
 
   
 Centrify Corporation  
