@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ochsner.org privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116032813id_/http%3A//www.ochsner.org/patients-visitors/privacy-policies/ochsner-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ochsner.org privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529084634id_/https%3A//www.ochsner.org/patients-visitors/privacy-policies/ochsner-privacy-policy) for the most accurate reproduction.*
 
 # Ochsner Privacy Policy | Ochsner Health System
 
