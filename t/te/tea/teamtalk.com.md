@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teamtalk.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226062636id_/http%3A//www.teamtalk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamtalk.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529085452id_/http%3A//www.teamtalk.com/privacy) for the most accurate reproduction.*
 
-# Privacy - TEAMtalk | Latest Football News, Results and Fixtures
+# Privacy - TEAMtalk | Latest Football News & Transfer Rumours
 
 **Privacy Policy**
 
