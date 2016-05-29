@@ -1,100 +1,136 @@
-> *The following text is extracted and transformed from the trafficreps.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230042340id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficreps.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529200036id_/http%3A//traffichaus.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy - Traffic Haus
 
-**Go Daddy Respects Your Privacy**
+## Privacy Policy
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+We take your privacy seriously. Because in certain circumstances we gather certain types of information about our users, we want to help you understand the [terms and conditions](https://web.archive.org/web/20160529200036id_/http%3A//traffichaus.com/tos.php) surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the [TrafficHaus](http://www.traffichaus.com/) website that you were viewing when you clicked through to this policy, which is operated directly by us.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+### What information does Traffic Haus collect?
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-**Information Collection and Use**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Our primary goal in collecting personal information is to provide you with the best and most useful content and services. Several of the services and features that we offer on our websites require you to provide us with information as a condition of usage. These include access to subscription-only areas, the ability to post opinions or other content, participation in sweepstakes or contests, participation in message boards, and use of our Services (as defined in our [Terms of Use](https://web.archive.org/web/20160529200036id_/http%3A//traffichaus.com/tos.php)) in general.   
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+We collect personally identifiable information, such as your name, email address, postal address, phone number and credit card information when you provide it to us. From time to time, when you provide it to us, we may also collect other sensitive information such as your job title, gender, username and password. We may also receive information about you from other sources and add it to the information you provided to us.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Once you register with a Traffic Haus website you are no longer anonymous to us.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+### Cookies?
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**Security**
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-**Updating Your Information**
+Your Internet browser has a feature called cookies, which stores small amounts of data on your computer about your visit to any of our websites. You do not need to have cookies turned on to visit [TrafficHaus](http://www.traffichaus.com/), although active participation in certain areas of our websites may require cookies. Cookies alone tell us nothing about who you are unless you specifically give us personally identifiable information, in which case we use the information to enhance the Services in the ways described below. By adjusting your settings on your browser, you may elect not to allow cookies to be collected.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+We also use technologies, including electronic images known as "beacons"–sometimes called "transparent GIFs or clear GIFs"–that allow us to track general user-traffic patterns. We also automatically receive and record information from our servers and from your browser, including your IP address, the time of your visit to pages on our site, and information about pages you visited. Unless you have registered for one of our products or services, the information we gather through the use of tracking technologies cannot be matched with any personally identifiable information about you.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+We use cookies and tracking technologies in a variety of ways, including without limitation: 
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+    * Keeping count of return visits to our website or our publishers' or advertisers' or partners' websites;
+    * Accumulating and reporting anonymous, aggregate (data collected in mass), statistical information on website and Service usage, including Transactional Data (as defined in Section 11 of our Terms of Use);
+    * Determining which features our overall user population likes best;
+    * Saving your password so you don't have to re-enter it each time you visit our websites;
+    * Displaying the most appropriate advertising and/or content based on your interests.
+    * We allow other companies that are presenting advertisements on our websites and, sometimes, in our newsletters to use tracking technology on your computer. We do not give any personally identifiable information to them as part of this relationship. Unless you visit the website of these companies and provide them with personally identifiable information about yourself, these tracking technologies tell those advertisers nothing about who you are. Our advertisers' use of tracking technology is subject to their own privacy policies.
 
-      iii.      You may call us at: (480) 505-8800
+### How do we use the information?
 
-       iv.      You may fax us at: (480) 505-8844
 
-**Sending Emails**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+We use the information we gather for four general purposes:
 
-**Compliance with Laws and Law Enforcement**
+    * To customize the advertising and the content you see;
+    * To enhance the user experience at [TrafficHaus](http://www.traffichaus.com/) and related and affiliated websites. We use tracking information to determine how well each page and each feature of the Services performs overall ba sed on aggregate user demographics and traffic patterns to those pages and related features. This helps us continue to build a better service for you;
+    * To fulfill your requests for certain products and services, and enabling you to participate in paid services, polls, contests, and message boards;
+    * To send you information you agreed to receive about topics we think will be of interest to you.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+### How do we share the information?
 
-**Third Party Service Providers**
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-**Supplementation of Information**
+**Personally identifiable information**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+We will make your personally identifiable information available to other companies or people when: 
 
-**Contests/Surveys**
+    * You have elected to allow us to share that information at the time that you registered with us or provided us the information, or through a subsequent affirmative election through our website.
+    * You volunteer information or create a public profile in the course of your participation in our community features such as forums, user opinions and reviews, chat rooms, or other forms of public communication and interaction.
+    * You use co-branded services (i.e., websites or services that we offer to you in connection with a partner, who is identified on the site). When you use a co-branded service within [TrafficHaus](http://www.traffichaus.com/) and related and affiliated websites, you grant us permission to pass your registration information back to that service partner. Their use of your information is subject to their applicable privacy policies.
+    * We hire third-party vendors to provide specialized services such as customer support; email message deployment; suppression, merge and de-duplication services; data processing; and special products or services that you have requested. These companies are only allowed to use the information in order to help us fulfill our services to you. We do not provide your information to these companies for their own, permanent use.
+    * You unsubscribe for a mailing that we send to you on behalf of a third party. We may share your removal instruction with the third party so that it may be added to that person's list of people to whom they may not send emails.
+    * You are the winner of a contest or a sweepstakes that is co-sponsored with a third party and that third party needs your information in order to manage the prize fulfillment process.
+    * When required by law, such as when we respond to subpoenas, court orders, or legal process.
+    * We believe that your actions violate applicable laws, Traffic Haus’ Terms of Use, or any usage guidelines for specific products or services, or threaten the rights, property, or safety of our company, our users, or others.
+  
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+#### Aggregate information
 
-**Tell-A-Friend**
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-**What Happens to my Personal Information if I Opt Out?**
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+We aggregate personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing, promotional, and other purposes. We do not disclose to these entities any information that could be used to identify you personally. We also aggregate Transactional Data and use it for the purposes set forth in the Terms of Use. We do not disclose this information in any manner that could be used to identify you personally.
 
-**Transfer of Data Abroad**
+#### Business transfers
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-**Changes in Our Practices**
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+We are always seeking to improve the [TrafficHaus](http://www.traffichaus.com/) website, the Services and our business. In accomplishing these ob jectives, we may buy or sell a company, or one or more of the companies in our corporate family may merge with or be acquired by another company. If we sell a business, we may transfer some or all of your information as a part of the sale in order that the service being provided to you may continue or for other business purposes.
 
-**Contacting Our Site**
+  
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
-* * *
+#### How can I review and update my personally identifiable information?
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+
+
+
+You can review, correct, or change the information collected during the registration process. The instructions for doing this can be found in our member-services areas. Users may change information at any time and as often as necessary. Users who are experiencing problems with our Services or who have questions about how our Services work can contact us using e-mail addresses at the bottom of this page.
+
+  
+
+
+#### How will I know if the privacy policy is changed?
+
+
+
+
+Any modifications to our privacy practices will be reflected first within this area of our network of websites. If there is a material change in our privacy practices, we will indicate on our websites that our privacy practices have changed and provide a link to the new privacy statement. If we are going to be using the information collected from users in a manner materially different from that stated at the time of collection, we will send affected users written notice of the change by e-mail.
+
+  
+
+
+#### Privacy of children
+
+
+
+
+Neither [TrafficHaus](http://www.traffichaus.com/) nor any of the websites within our network is directed to children under the age of 18. We operate our network of websites in compliance with the Children's Online Privacy Protection Act and do not permit registration by, and will not knowingly collect or use personally identifiable information from, anyone under 18 years of age. This requirement is clearly posted during the registration process.
+
+  
+
+
+#### Questions, Comments
+
+
+
+
+Questions regarding this privacy statement or any other aspects of our network of websites should be sent to our corporate offices at:   
+
+
+  * Traffic Haus, LLC
+  * ATTN: Legal
+  * 611 K Street Suite B102
+  * San Diego, CA 92101
+
+
+
+We read every message submitted and try to reply promptly to every one. We may also file your comments to improve the site, or review and discard the information.
+
+  
+
