@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the way2share.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204000117id_/http%3A//www.way2share.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the way2share.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529152917id_/http%3A//www.way2share.com/privacy-policy) for the most accurate reproduction.*
 
 # Way2Share - Buy Sell Rent and Post Free Ads in India
 
