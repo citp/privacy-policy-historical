@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the kamcord.com privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521185045id_/https%3A//www.kamcord.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kamcord.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529074345id_/https%3A//www.kamcord.com/privacy) for the most accurate reproduction.*
 
-# Kamcord
+# Privacy - Kamcord
 
 ## Privacy Policy
 
-This Privacy Policy was last updated on January 22, 2013.
+This Privacy Policy was last updated on June 15, 2015.
 
  **Our Policy:**
 
-Welcome to the web site (the " **Site** ") of Kamcord, Inc. (" **Kamcord** ", " **we** ", " **us** " and/or " **our** "). This Site is operated by Kamcord and has been created to provide information about our company and services (our services, together with the Site, the " **Services** ") to our Service visitors and users (" **you** " and/or " **your** "). This Privacy Policy sets forth Kamcord's policy with respect to information, including personally identifiable data (" **Personal Data** ") and other information, that is collected from visitors and users of the Services.
+Welcome to the web site (the " **Site** ") of Kamcord Inc. (" **Kamcord** ", " **we** ", " **us** " and/or " **our** "). This Site is operated by Kamcord and has been created to provide information about our company and services (our services, together with the Site, the " **Services** ") to our Service visitors and users (" **you** " and/or " **your** "). This Privacy Policy sets forth Kamcord's policy with respect to information, including personally identifiable data (" **Personal Data** ") and other information, that is collected from visitors and users of the Services.
 
  **Information We Collect:**
 
@@ -50,7 +50,7 @@ We may also share your Personal Data with our Related Companies for purposes con
 
  **Agents, Consultants and Related Third Parties:**
 
-Kamcord, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases and processing payments. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function.
+Kamcord, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases and processing payments. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function. Without limiting the foregoing, if Kamcord is providing any payments to you, our payment processing partner may request that you provide certain Personal Data (e.g., a government-issued ID and/or your name, address and/or data of birth) to it for the purposes of complying with applicable law and regulations and otherwise processing such payments and communicating to you any issues with the payment.
 
  **Legal Requirements:**
 
@@ -66,7 +66,7 @@ This Privacy Policy does not apply to any Personal Data collected by Kamcord oth
 
  **Children:**
 
-Kamcord does not knowingly collect, use, or disclose personal information from children without prior parental consent, except as permitted by the Children’s Online Privacy Protection Act. If you have questions concerning our information practices with respect to children, or if you would like to review, have deleted, or stop the further collection of your child’s personal information, you may email us at hello@kamcord.com. In addition, if you are under the age of 13, please do not submit any Personal Data through the Services. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data on the Services without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to Kamcord through the Services, please contact us, and we will endeavor to delete that information from our databases.
+Kamcord does not knowingly collect, use, or disclose personal information from children without prior parental consent, except as permitted by the Children’s Online Privacy Protection Act. If you have questions concerning our information practices with respect to children, or if you would like to review, have deleted, or stop the further collection of your child’s personal information, you may email us at [hello@kamcord.com](mailto:hello@kamcord.com). In addition, if you are under the age of 13, please do not submit any Personal Data through the Services. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data on the Services without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to Kamcord through the Services, please contact us, and we will endeavor to delete that information from our databases.
 
  **Links to Other Web Sites:**
 
