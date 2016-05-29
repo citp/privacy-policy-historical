@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the letsfx.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226160453id_/http%3A//www.letsfx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsfx.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529215015id_/http%3A//www.letsfx.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – LetsFX.com
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
