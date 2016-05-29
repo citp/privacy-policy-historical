@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theintercept.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122180210id_/https%3A//theintercept.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theintercept.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529062037id_/https%3A//theintercept.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — The Intercept
 
