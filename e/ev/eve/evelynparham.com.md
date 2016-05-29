@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the evelynparham.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128084910id_/http%3A//evelynparham.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evelynparham.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529112808id_/http%3A//evelynparham.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Evelyn Parham
+# Privacy Policy | Evelyn Parham - Become a Healthier You Blog
 
 Last updated: November 02, 2015
 
