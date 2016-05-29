@@ -1,28 +1,67 @@
-> *The following text is extracted and transformed from the wildapricot.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002083039id_/http%3A//www.wildapricot.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildapricot.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529154649id_/http%3A//www.wildapricot.com/privacypolicy) for the most accurate reproduction.*
 
 # Integrated, Web-based Association Membership Management Solution: Free Trial!
 
-**Last updated: October 15, 2012**
+**Last updated: October 2, 2015**
 
-This is the privacy policy that applies to this Site and our services. Wild Apricot Inc. has a firm commitment to safeguarding the privacy of our customers' personal information. Personal information is information about an identifiable individual. Publicly available information, such as a public directory listing of your name, address, telephone number, or electronic address, is not considered to be personal information.
+This privacy policy applies to Wild Apricot sites, mobile apps, and services. Wild Apricot Inc. has a firm commitment to safeguarding the privacy of our customers' personal information. 
+
+Personal information is information about an identifiable individual. Publicly available information, such as a public directory listing of your name, address, telephone number, or email address, is not considered to be personal information.
+
+Personal information can be added to Wild Apricot databases by site administrators, or by members and other contacts through self-service portals. Personal information processed through and/or stored via our sites will also be held by us in accordance with this privacy policy.
 
 ### COLLECTION, USE AND DISCLOSURE OF PERSONAL INFORMATION
 
-When you register for an account we ask for information such as your name, organization name, and email address. We also collect the e-mail addresses and other personal information provided during account sign-ups, from email inquiries, forum registrations and forum postings, and from blog comments. Information we collect is stored on computer servers that we use to operate the Site. These servers may be located outside of Canada, or the information may pass through jurisdictions outside of Canada in the course of the operation or maintenance of the Site.
+**What information do we collect?**
 
-Also, you can import your existing database as well as add records manually or collect them through online forms. Personal information of contacts processed through and/or stored via our Site will also be held by us in accordance with this Privacy Policy.
+When you register for an account we ask for information such as your name, organization name, and email address. We also collect the email addresses and other personal information provided during account sign-ups, from email inquiries, marketing forms, forum registrations and forum postings, and from blog comments.   
+We also use third-party services to collect usage information to better understand and improve the user experience.
 
-The personal information we collect is used to provide our products and services, for billing, for identification and authentication, for the general operation and improvement of our service, and to respond to inquiries, and is not used, shared with or sold to other organizations, except: to our service providers, as required to operate the Site and provide the products or services you've requested; to the applicable customer of the account in respect of which contact information is submitted to us; for collection purposes; to law enforcement agencies, in emergencies, for internal security matters, or where required by court order or search warrant; or when we have your permission. We do not contact our customers' contacts except as related to operating the Site (for example: event notifications and reminders, membership renewals, security and other notifications).
+**Where is this information stored?  
+**
 
-We may also disclose personal information in connection with the transfer to the acquirer upon the sale of our business.
+Information we collect is stored on computer servers that we use to operate our sites. These servers may be located outside of Canada, or the information may pass through jurisdictions outside of Canada in the course of the operation or maintenance of the sites.
 
-We may also record your computer's IP address with your order to help us identify fraudulent credit card use. We may share this information with the financial institution that issued the credit card with which an order was placed or with law enforcement authorities if we determine, or are notified, that the use of the credit card was fraudulent.
+Usage information collected using third-party services are stored on the servers of the third-party service providers.
 
-Your personal information is not used or disclosed by us for any other purpose.
+**Why do we collect this information?  
+**
 
-Please see the Site Terms of Use (http://www.wildapricot.com/TermsOfUse) for information on how we handle information upon the termination of an account.
+The personal information we collect is used to deliver our products and services, for billing, for identification and authentication, for the general operation and improvement of our service, and to respond to inquiries.
 
-Please note that we are not responsible for the privacy practices of our customers who administer groups and organizations through the Site. If you are a member of a group or organization on the Site the administrators of the group or organization can view any personal information you provide on the Site, and using tools on the Site they can publish your personal information to the Site so that it is displayed in public areas of the Site. If you have any concerns about their doing so, you should contact them. We are not responsible for any use or misuse by such persons of personal information you provide to the Site that is viewable by them using the Site. It is up to the customer to protect the privacy of the information in their custody concerning their members and event registrants, and we are not responsible for their collection, use or disclosure of your personal information.
+It is not used, shared with or sold to other organizations, except: 
+
+  * to our service providers, as required to operate our sites and provide the requested products or services
+  * to the applicable owner of the account when requested
+  * to law enforcement agencies, in emergencies, for internal security matters, or where required by court order or search warrant
+  * when we have your permission. 
+
+
+
+We may also disclose personal information if our operations are acquired, in connection with the transfer to the acquirer.
+
+We may also record your computer's IP address and browser details for a variety of reasons, including: 
+
+  * to collect usage information
+  * to fight spam
+  * to troubleshooting geographically-localized access problems
+  * to share with financial institutions or law enforcement authorities if we detect or are notified of fraudulent credit card use
+
+
+
+We do not contact our customers' contacts except as related to operating their Wild Apricot site e.g. event notifications and reminders, membership renewals, security and other notifications.
+
+**What happens to this information when an account is cancelled?  
+**
+
+If your account is closed by you or terminated by Wild Apricot, we may keep a copy of your content for archival purposes, and in case of any litigation to which it might be relevant. For more information, see the Site Terms of Use (http://www.wildapricot.com/TermsOfUse).
+
+**Protecting privacy on Wild Apricot sites  
+**
+
+Please note that we are not responsible for the privacy practices of our customers who administer members and organizations through a Wild Apricot site. If you are a member of an organization with a Wild Apricot site, the administrators of the organization can view any personal information you provide on the site. They can also publish your personal information in public areas of the site. If you have any concerns about this, you should contact them. 
+
+We are not responsible for any use or misuse of personal information you provide to a Wild Apricot site. It is up to our customers – the owners of Wild Apricot accounts – to protect the privacy of their members and event registrants, and we are not responsible for the collection, use, or disclosure of your personal information.
 
 ### COOKIES
 
@@ -32,19 +71,19 @@ To access Wild Apricot sites as an administrator or a member, you need to enable
 
 ### SECURITY
 
-The security of your personal information is important to us. Our service has security measures in place to protect the loss, misuse and alteration of the information under our control. We do not store credit card information in our database. We follow generally accepted industry practices to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Site, you can email us at the address below.
+The security of your personal information is important to us. Our service has security measures in place to protect the loss, misuse and alteration of the information under our control. We follow generally accepted industry practices to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Site, you can email us at the address below.
 
 ### UPDATING INFORMATION
 
-You may keep your registration information current by visiting the account area of our Site. If you wish to change or update any of your personal information and are unable to do so, please contact us at the address below.
+You may keep your registration information current by visiting the account area of your Wild Apricot site. If you wish to change or update any of your personal information and are unable to do so, please contact us at the address below.
 
 ### CHANGES
 
-By using this Site, you agree that you permit the collection, use and disclosure of your personal information as outlined in this Privacy Policy. From time to time, we may make changes to our Privacy Policy and you should review it periodically for any changes. Your continued use of this Site following the effective date of any changes to these terms shall mean that you have accepted those changes, subject to your continuing right to notify us at any time as to how you would like us to treat your personal information.
+By accessing Wild Apricot sites or mobile apps, or using Wild Apricot’s API, you agree that you permit the collection, use and disclosure of your personal information as outlined in this privacy policy. From time to time, we may make changes to our privacy policy. Your continued use of our sites or apps following the effective date of any changes to these terms shall mean that you have accepted those changes.
 
 ### LINKS TO OTHER SITES
 
-This Site may contain links to other sites. We are not responsible for the privacy practices or the content of such other Web sites.
+Wild Apricot sites and mobile apps may contain links to other sites. We are not responsible for the privacy practices or the content of such other sites.
 
 ### OPT-OUT ANY TIME
 
