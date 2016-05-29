@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scriptclub.net privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126230630id_/http%3A//www.scriptclub.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scriptclub.net privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529113510id_/http%3A//www.scriptclub.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Script Club
 
@@ -20,18 +20,9 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Web Script Club may collect and use Users personal information for the following purposes:
 
-  * _To run and operate our Site_
-
-We may need your information display content on the Site correctly.
-
-  * _To improve our Site_
-
-We may use feedback you provide to improve our products and services.
-
-  * _To send periodic emails_
-
-We may use the email address to respond to their inquiries, questions, and/or other requests.
-
+  * _To run and operate our Site_ We may need your information display content on the Site correctly.
+  * _To improve our Site_ We may use feedback you provide to improve our products and services.
+  * _To send periodic emails_ We may use the email address to respond to their inquiries, questions, and/or other requests.
 
 
 
