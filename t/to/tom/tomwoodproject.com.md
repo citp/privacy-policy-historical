@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomwoodproject.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130020143id_/http%3A//www.tomwoodproject.com/pages/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomwoodproject.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529084530id_/http%3A//www.tomwoodproject.com/pages/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement – Tom Wood AS
 
