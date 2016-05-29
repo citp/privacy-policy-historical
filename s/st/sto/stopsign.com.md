@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stopsign.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128081332id_/http%3A//stopsign.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stopsign.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529064359id_/http%3A//stopsign.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Anti-virus Software, Spyware Protection & Firewall - StopSign® Internet Security
 
