@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fico.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122134747id_/http%3A//www.fico.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fico.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529044754id_/http%3A//www.fico.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FICO®
 
@@ -91,7 +91,7 @@ How to enable and disable cookies using your browser Your web browser may be set
 
 Chrome: [http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)
 
-Mozilla Firefox: [http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website- preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies](http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-%20preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies)
+Mozilla Firefox: <https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences>
 
 Opera: <http://www.opera.com/browser/tutorials/security/privacy/>[ ](http://www.opera.com/browser/tutorials/security/privacy/)
 
@@ -122,25 +122,6 @@ We have up-to-date physical safeguards, such as secure areas in buildings; elect
 **Personal Data Access and Correction**
 
 FICO will provide you access to Personal Information about you so you can correct or delete the Personal Information in accordance with applicable law. You may have additional rights in non-U.S. countries, such as objecting to and blocking the processing of your Personal Information. For security reasons, FICO will take steps to authenticate your identity before providing you with access to Personal Information.
-
-**Compliance with the U.S. – EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework**
-
-[Please read this important Safe Harbor update from November 11, 2015.](http://www.fico.com/en/privacy-policy/US-EU-Safe-Harbor-Update)
-
-FICO complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. FICO has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. FICO is committed to handling such personal information in accordance with the Safe Harbor Principles:
-
-  * Notice. We will notify you about the purposes for which we collect and use information about you. We will provide information about how you can contact us with any inquiries or complaints, the types of third parties to which we disclose the information and the choices and means you have for limiting its use and disclosure.
-  * Choice. We will give you the opportunity to choose (opt out) whether your personal information will be disclosed to a third party or used for a purpose incompatible with the purpose for which it was originally collected or subsequently authorized by you. For sensitive information, we will get your affirmative (opt in) choice if the information is to be disclosed to a third party or used for a purpose other than its original purpose or the purpose authorized subsequently by you.
-  * Onward Transfer (Transfers to Third Parties). We will apply the notice and choice principles when we disclose information to a third party. If we transfer information to a third party that is acting as an agent, we will require that the third party agree to have adequate privacy protection as is required by the relevant principles.
-  * Access. You will have access to personal information about yourself that we hold, and you may correct, amend, or delete that information where it is inaccurate, except where the burden or expense of providing access would be disproportionate to the privacy risks in question, or where the rights of persons other than you would be violated.
-  * Security. We will take reasonable precautions to protect personal information from loss, misuse and unauthorized access, disclosure, alteration and destruction.
-  * Data Integrity. We will take precautions to assure the personal information is relevant for the purposes for which it is to be used. We will take reasonable steps to ensure that data is reliable for its intended use, accurate, complete, and current.
-
-
-
-As part of FICO’s participation in the Safe Harbor, we have agreed to JAMS dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with JAMS by Internet ([SafeHarbor@jamsadr.com](mailto:SafeHarbor@jamsadr.com)), phone (212.607.2771), or mail to JAMS, 1920 Main Street, Suite 300, Irvine, CA 92614. If you are contacting JAMS to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about JAMS or the operation of JAMS’ dispute resolution process, contact Kathleen Pierz, JAMS Global Practice Development Manager, 212.607.2771. The JAMS dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities.
-
-To learn more about the Safe Harbor programs, and to view FICO’s certification, visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor)
 
 **Questions and Complaints**
 
@@ -178,4 +159,6 @@ United Kingdom
 
 **Revisions to the Policy**
 
-If we change this Privacy Policy we will post the changes here with 30 days’ notice before the revised Privacy Policy becomes effective. This Notice is effective as of August 10, 2015.
+If we change this Privacy Policy we will post the changes here with 30 days’ notice before the revised Privacy Policy becomes effective. This Notice is effective as of May 10, 2016.
+
+## Please wait while for get best asset 
