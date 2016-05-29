@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloginity.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226224318id_/http%3A//www.bloginity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloginity.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529124947id_/http%3A//www.bloginity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
