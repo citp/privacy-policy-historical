@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smythstoys.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126083927id_/http%3A//www.smythstoys.com/uk/en-gb/page/o/customerservice/security-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smythstoys.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529125353id_/http%3A//www.smythstoys.com/uk/en-gb/page/o/customerservice/security-and-privacy) for the most accurate reproduction.*
 
 # Top Toy Store in UK & Ireland, for Games, Outdoor & Toys Online from Smyths Superstores
 
