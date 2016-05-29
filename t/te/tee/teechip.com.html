@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the teechip.com privacy policy that was archived on 2015-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151125233811id_/http%3A//teechip.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the teechip.com privacy policy that was archived on 2016-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160529125138id_/http%3A//teechip.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
 <meta charset="utf-8">
@@ -10,9 +10,9 @@
 
 
 
-<meta property="description" content="TeeChip lets you sell custom merchandise with no upfront fees. We print and ship directly to the buyer.">
-<meta property="title" content="Sell Custom T-Shirts &amp; Phone Cases Online">
-<title>Sell Custom T-Shirts &amp; Phone Cases Online</title>
+<meta name="description" content="We take seriously the privacy of our website Members and Visitors.">
+<meta name="title" content="Privacy Policy | TeeChip">
+<title>Privacy Policy | TeeChip</title>
 
 
 <!--[if IE]>
@@ -44,9 +44,19 @@ base.href = toAbsURL(base.href);
 <link href="//fonts.googleapis.com/css?family=Open+Sans:400,700,300,600" rel="stylesheet" type="text/css">
 <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 <link rel="stylesheet" href="//d2wlglcaf8cdk7.cloudfront.net/styles/012fe0b431.vendor.css">
-<link rel="stylesheet" href="//d2wlglcaf8cdk7.cloudfront.net/styles/839e510b0a.main.css">
 
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion_async.js"></script>
+<link rel="stylesheet" href="//d2wlglcaf8cdk7.cloudfront.net/styles/a9e2160598.main.css">
+
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion_async.js"></script>
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+  n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+  document,'script','//connect.facebook.net/en_US/fbevents.js');
+</script>
 
 <!-- Facebook Conversion Code -->
 <script>(function() {
@@ -87,7 +97,9 @@ window._fbq = window._fbq || [];
     	        <span class="icon-bar"></span>
     	        <span class="icon-bar"></span>
     	      </button>
+            
     	      <a class="navbar-brand icon icon-teechip transition clickable" data-ng-class="{ 'text-primary' : $root.path === '/' }" href="/"></a>
+            
     	    </div>
 
     	    <!-- Collect the nav links, forms, and other content for toggling -->
@@ -112,6 +124,7 @@ window._fbq = window._fbq || [];
                       <a data-ng-click="collapse = true" href="/top_sellers">Top Sellers</a>
                       <a data-ng-click="collapse = true" href="/phone_contacts">Phone Contacts</a>
                       <a data-ng-click="collapse = true" href="/_issues">Issues</a>
+                      <a data-ng-click="collapse = true" href="/internal/fraudIssues">Fraud issues</a>
                       <a data-ng-click="collapse = true" href="/internal/employeeLogs">Employee logs</a>
                       <a data-ng-click="collapse = true" href="/internal/flaggedKeywords">Flagged keywords</a>
                     </li>
@@ -123,6 +136,7 @@ window._fbq = window._fbq || [];
             <!-- Normal user -->
             <ul class="nav navbar-nav animated fadeInDown" data-ng-show="$root.user === 0 &amp;&amp; $root.path !== '/checkout'" ng-cloak="">
               <li data-ng-click="collapse = true"><a href="/campaigns" data-ng-class="{ active : $root.path === '/campaigns' }">Campaigns</a></li>
+              <li data-ng-click="collapse = true"><a href="/client/stats" data-ng-class="{ active : $root.path === '/stats' }">Stats</a></li>
               <li data-ng-click="collapse = true"><a href="/profits" data-ng-class="{ active : $root.path === '/profits' }">Profits</a></li>
               <li data-ng-click="collapse = true"><a href="/settings" data-ng-class="{ active : $root.path === '/settings' }">Settings</a></li>
               <li data-ng-click="collapse = true"><a href="/subaccount_manage" data-ng-class="{ active : $root.path === '/subaccount_manage' }">Subaccounts</a></li>
@@ -145,6 +159,7 @@ window._fbq = window._fbq || [];
             <!-- VIP user -->
             <ul class="nav navbar-nav animated fadeInDown" data-ng-show="$root.user === 2 &amp;&amp; $root.path !== '/checkout'" ng-cloak="">
               <li data-ng-click="collapse = true"><a href="/campaigns" data-ng-class="{ active : $root.path === '/campaigns' }">Campaigns</a></li>
+              <li data-ng-click="collapse = true"><a href="/client/stats" data-ng-class="{ active : $root.path === '/stats' }">Stats</a></li>
               <li data-ng-click="collapse = true"><a href="/profits" data-ng-class="{ active : $root.path === '/profits' }">Profits</a></li>
               <li data-ng-click="collapse = true"><a href="/settings" data-ng-class="{ active : $root.path === '/settings' }">Settings</a></li>
               <li data-ng-click="collapse = true"><a href="/subaccount_manage" data-ng-class="{ active : $root.path === '/subaccount_manage' }">Subaccounts</a></li>
@@ -184,7 +199,9 @@ window._fbq = window._fbq || [];
                 <div class="col-xs-3">
                     <div class="v-container">
                         <div class="v-content link clickable">
+                            
                             <span class="icon icon-teechip" data-ng-click="goHome()"></span>
+                            
                         </div>
                     </div>
                 </div>
@@ -394,7 +411,9 @@ window._fbq = window._fbq || [];
         <div class="container text-center-sm text-right">
             <div class="row">
                 <div class="col-sm-3 vcenter sm text-center-sm text-left">
-                   <a href="/" class="icon icon-teechip transition hidden-xs"></a>
+                  <div class="hidden-xs">
+                    <a href="/" class="icon icon-teechip transition"></a>
+                  </div>
                 </div><!--
                 --><div class="col-sm-8 col-sm-offset-1 vcenter sm hidden-xs">
                     <div class="row">
@@ -433,7 +452,7 @@ window._fbq = window._fbq || [];
             <div class="margin-top-sm small-links">
               <div class="row">
                 <div class="col-sm-6 text-center-sm text-left">
-                  <div>Copyright © 2015 TeeChip. All Rights Reserved.</div>
+                  <div>Copyright © 2016 TeeChip. All Rights Reserved.</div>
                   <div>
                       <a href="/terms">Terms of Service</a> |
                       <a href="/privacy">Privacy Policy</a> |
@@ -468,7 +487,7 @@ window._fbq = window._fbq || [];
 
     
 
-    <script src="//d2wlglcaf8cdk7.cloudfront.net/scripts/064fee272d.scripts.js"></script>
+    <script src="//d2wlglcaf8cdk7.cloudfront.net/scripts/c61ecd5948.scripts.js"></script>
 
     <script>
       var RavenConfig = {
