@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poststat.us privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909202413id_/http%3A//poststat.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poststat.us privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529052843id_/https%3A//poststatus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Post Status
 
