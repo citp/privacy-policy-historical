@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nexmo.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914193759id_/https%3A//www.nexmo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexmo.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529085522id_/https%3A//www.nexmo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Nexmo
 
@@ -6,9 +6,9 @@ Updated: March 12, 2015
 
 We at Nexmo Inc. know you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. **By using or accessing our websites or the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.**
 
-Remember that your use of Nexmo’s Services is at all times subject to the [Terms of Use](https://www.nexmo.com/privacy-policy/www.nexmo.com/terms/ "Terms of Service"), which incorporates this Privacy Policy. Any terms we use in this Privacy Policy without defining them have the definitions given to them in the Terms of Use.
+Remember that your use of Nexmo’s Services is at all times subject to the [Terms of Use](https://web.archive.org/terms-of-use/ "Terms of Service"), which incorporates this Privacy Policy. Any terms we use in this Privacy Policy without defining them have the definitions given to them in the Terms of Use.
 
-**What Does This Privacy Policy Cover** **?**
+#### **What Does This Privacy Policy Cover** **?**
 
 This Privacy Policy covers our treatment of personally identifiable information (“Personal Information”) that we gather when you are accessing or using our Services, but not to the practices of companies we don’t own or control, or people that we don’t manage. We gather various types of Personal Information from our users and others, as explained in more detail below, and we use this Personal Information internally in connection with our Services, for example, to personalize, provide, and monitor and improve our Services, to allow you to set up a user account and profile, to contact you and allow other users to contact you through the Services, to respond to customer care and other inquiries, to process and fulfill your requests for certain products and services, and to analyze how you use the Services. In certain cases, we may also share some Personal Information with third parties, but only as described below.
 
@@ -18,9 +18,9 @@ We do not knowingly collect or solicit personal information from anyone under th
 
 **Will Nexmo Ever Change This Privacy Policy** **?**
 
-We’re constantly trying to improve our Services, so we may need to change this Privacy Policy from time to time as well, but we will alert you to changes by placing a notice on our [website](https://www.nexmo.com/privacy-policy/www.nexmo.com "Nexmo website") or by some other means. Please note that if you’ve opted not to receive legal notice emails from us (or you haven’t provided us with your email address), those legal notices will still govern your use of the Services, and you are still responsible for reading and understanding them. If you use the Services after any changes to the Privacy Policy have been posted, that means you agree to all of the changes. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used.
+We’re constantly trying to improve our Services, so we may need to change this Privacy Policy from time to time as well, but we will alert you to changes by placing a notice on our [website](https://web.archive.org/ "Nexmo website") or by some other means. Please note that if you’ve opted not to receive legal notice emails from us (or you haven’t provided us with your email address), those legal notices will still govern your use of the Services, and you are still responsible for reading and understanding them. If you use the Services after any changes to the Privacy Policy have been posted, that means you agree to all of the changes. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used.
 
-**What Information Does Nexmo Collect** **?**
+#### **What Information Does Nexmo Collect** **?**
 
 **Information You Provide To Us Or Collected By The Services.**
 
@@ -28,7 +28,7 @@ We receive and store any information that you provide to us. For example, throug
 
 In connection with your use of the Services, we may also collect information created or provided by you, or that we otherwise receive, in connection therewith. For example, if you enable users to send SMS messages through the Services, we will collect and maintain the call data (e.g., receipts, phone numbers, size, time of transmission, confirmations, etc.) and other message transmission and conversion data, which may include Personal Information.
 
-We may communicate with you if you’ve provided us the means to do so. For example, if you’ve given us your email address, we email you about your use of the Services. Also, we may receive a confirmation when you open an email from us. This confirmation helps us make our communications with you more interesting and improve our services. If you do not want to receive communications from us, please indicate your preference at<http://info.nexmo.com/Unsubscribe.html>.
+We may communicate with you if you’ve provided us the means to do so. For example, if you’ve given us your email address, we email you about your use of the Services. Also, we may receive a confirmation when you open an email from us. This confirmation helps us make our communications with you more interesting and improve our services. If you do not want to receive communications from us, please indicate your preference at  <http://info.nexmo.com/Unsubscribe.html>.
 
 **Information About Our Customers’ Users**
 
@@ -48,7 +48,7 @@ We also automatically receive information about communications sent and received
 
 Through cookies we place on your browser or device, we may collect information about your online activity after you leave our Services. Just like any other usage information we collect, this information allows us to improve the Services and customize your online experience, and otherwise as described in this Privacy Policy. Your browser may offer you a “Do Not Track” option, which allows you to signal to operators of websites and web applications and services (including behavioral advertising services) that you do not wish such operators to track certain of your online activities over time and across different websites. Our Services do not support Do Not Track requests at this time, which means that we collect information about your online activity both while you are using the Services and after you leave our Services.
 
-**Will Nexmo Share Any Of The Personal Information It Receives** **?**
+#### **Will Nexmo Share Any Of The Personal Information It Receives** **?**
 
 We may share your Personal Information with third parties as requested or directed by you through the Services (e.g. sharing your communications and related information to the users of the telephone numbers to which you send communications using the Services, or to which you respond to communications using the Services) and as described below or elsewhere in this Privacy Policy:
 
@@ -64,7 +64,7 @@ We may share your Personal Information with third parties as requested or direct
 
 **Protection Of Nexmo And Others.** Notwithstanding anything to the contrary, we reserve the right to access, read, preserve, and disclose any information that we believe is reasonably necessary to comply with law, legal obligations, regulations, law enforcement, governmental and other legal requests, or court order; enforce or apply our Terms of Use and other agreements; address fraud, security or technical issues; or protect the rights, property, or safety of Nexmo, our employees, our users, or others.
 
-**Is Personal Information About Me secure** **?**
+#### **Is Personal Information About Me secure** **?**
 
 Your account is protected by a password for your privacy and security. You must prevent unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer or device and browser by signing off after you have finished accessing your account.
 
