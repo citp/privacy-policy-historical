@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cirrusinsight.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002214320id_/https%3A//www.cirrusinsight.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cirrusinsight.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529064539id_/https%3A//www.cirrusinsight.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Cirrus Insight
 
@@ -30,6 +30,10 @@ We collect the e-mail addresses of those who communicate with us via e-mail, agg
 
 We may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the [Terms of Service](https://www.cirrusinsight.com/terms).
 
+## **Image Pixels**
+
+Cirrus Insight optionally includes Email Tracking and Link Tracking features.  Cirrus Insight customers may enable or disable email tracking and link tracking in the Cirrus Insight administrator dashboard.  The usage of tracking functionality is consistent with industry standards. If a Cirrus Insight customer enables Email Tracking, Cirrus Insight embeds a small transparent image pixel in the outgoing email.  If the email is opened, Cirrus Insight may be able to inform the user who opened the email, when it was opened, and where it was opened.  If Link Tracking is enabled, Cirrus Insight re-writes the link URL so that it is trackable.  If the link is clicked by the recipient, Cirrus Insight may be able to inform the user about who clicked on the link, when it was clicked, and the general location of the visitor when they clicked the link.   Email recipients may block email open tracking via the settings on their email client or the use of a pixel-blocking extension.
+
 ## **U.S.-EU Safe Harbor Framework**
 
 Cirruspath, Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Cirruspath, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Cirruspath, Inc.’s certification, please visit [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor/)
@@ -43,27 +47,3 @@ Cirruspath, Inc. may periodically update this policy. We will notify you about 
 Any questions about this Privacy Policy should be addressed to [customersupport@cirruspath.com](mailto:customersupport@cirruspath.com?subject=Privacy%20Policy).
 
 [](https://web.archive.org/wp-content/uploads/2013/03/safeharbor-logo.png)
-
-Start Your Free 14-Day Trial of Cirrus Insight!    
-
-[](https://web.archive.org/trust)
-
-## Your Data is Secure
-
-We support every edition of Salesforce and use Salesforce OAuth 2.0, SHA2 SSL, and support for single sign-on (SSO) to ensure your data is safe.
-
-[](https://web.archive.org/reviews)
-
-## 900+ Reviews
-
-Cirrus Insight is the second highest rated app on the Salesforce AppExchange with more than 900 reviews and 100,000 happy customers.
-
-## ★★★★★
-
-"Freakin' best app ever for Gmail, Calendar and Salesforce and I work at Salesforce!"
-
-Review by [Robert Alexander](https://twitter.com/robertalexander/status/609485463037050880)
-
-## Sorry, there was an error installing Cirrus Insight.
-
-Your browser may be unsupported or your admin may not allow the installation of extensions. Cirrus Insight currently only supports Google Chrome and Mozilla Firefox. For questions and support, please [contact us](https://web.archive.org/support).
