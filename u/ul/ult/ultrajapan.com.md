@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ultrajapan.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024150231id_/http%3A//ultrajapan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultrajapan.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529060118id_/https%3A//ultrajapan.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Ultra Japan · Ultra Music Festival
+# Privacy Policy - Ultra Japan
 
 This Privacy Statement describes the types of personal information Ultra Enterprises Inc collects through the website located at (the “Ultra Japan Website”), and how we use, share and protect that information. This Privacy Statement does not govern the collection of information through any website, or any other means, other than through the Ultra Japan Website.
 
