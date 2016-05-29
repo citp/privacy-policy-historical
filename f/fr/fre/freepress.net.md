@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepress.net privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117180103id_/http%3A//www.freepress.net/privacy_copyright) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepress.net privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529163701id_/http%3A//www.freepress.net/privacy_copyright) for the most accurate reproduction.*
 
 # Privacy and Copyright Policies | Free Press
 
@@ -49,9 +49,9 @@ Free Press and the Free Press Action Fund are committed to maintaining the trust
 
 To opt out of email communication, [click here.](http://act2.freepress.net/unsubscribe/unsubscribe_freepress/)
 
-To opt out of print mailings, please call us at 413-585-1533 or [email Rachel Courtney](mailto:rcourtney@freepress.net). 
+To opt out of print mailings, please call us at 413-585-1533 or send us an email at info(AT)freepress.net. 
 
-On occasion, Free Press or the Free Press Action Fund sends messages on behalf of other reputable organizations when we believe such messages may be of value to our members and supporters. Our ability to send you these messages on behalf of other entities helps us build our membership base and further the movement for your rights to connect and communicate. If you do not wish to receive such messages from our allied or aligned organizations, please call us at 413-585-1533 or [email Rachel Courtney](mailto:rcourtney@freepress.net). Free Press is not responsible for the privacy practices or the content produced or provided by any of these other entities. 
+On occasion, Free Press or the Free Press Action Fund sends messages on behalf of other reputable organizations when we believe such messages may be of value to our members and supporters. Our ability to send you these messages on behalf of other entities helps us build our membership base and further the movement for your rights to connect and communicate. If you do not wish to receive such messages from our allied or aligned organizations, please call us at 413-585-1533 or send us an email at info(AT)freepress.net. Free Press is not responsible for the privacy practices or the content produced or provided by any of these other entities. 
 
 All financial data is collected via a secure Web connection, and is stored or transmitted using appropriate security measures at all times. 
 
