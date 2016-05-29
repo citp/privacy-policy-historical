@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pixarwpthemes.com privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015035449id_/http%3A//pixarwpthemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixarwpthemes.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529132719id_/http%3A//pixarwpthemes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Pixar Themes
+# Privacy Policy - Pixar Themes
 
 At **Pixar Themes** , we collect and manage user data according to the following Privacy Policy. This document is part of Pixar Themes’s [Terms of Use](https://web.archive.org/terms), and by using **PixarwpThemes.com** (the “Website”), you agree to the terms of this Privacy Policy and the Terms of Use. Please read the Terms of Use in their entirety, and refer to those for definitions and contacts.
 
