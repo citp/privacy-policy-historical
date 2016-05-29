@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cutmirchi.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126004716id_/http%3A//www.cutmirchi.com/welcome/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutmirchi.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529071256id_/http%3A//www.cutmirchi.com/welcome/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Cutmirchi.com
 
