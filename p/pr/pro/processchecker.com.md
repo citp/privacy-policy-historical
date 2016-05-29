@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the processchecker.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206235420id_/http%3A//processchecker.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the processchecker.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530011140id_/http%3A//www.processchecker.com/privacy) for the most accurate reproduction.*
 
-# ProcesChecker - A library for all windows process
-
-## Privacy
+# Privacy | Processchecker.com
 
 This Privacy Policy explains our information practices for the ProcessChecker.com website which is owned and controlled by ProcessChecker. We want you to understand how we may use your information, before you provide it. The purpose of this policy is to inform you of what type of information (if any) we gather and track, how we may use that information, and with whom we may share that information.
 
@@ -12,7 +10,7 @@ You can visit ProcessChecker.com on the Internet without telling us who you are 
 
 **Using and Sharing Personal Information :**
 
-The following paragraphs describe in more detail how we may use the information you provide to us on the ProcessChecker.com site and with whom we may share it. Depending on the part of the ProcessChecker.com site you are visiting, one or more of the following paragraphs may apply - 
+The following paragraphs describe in more detail how we may use the information you provide to us on the ProcessChecker.com site and with whom we may share it. Depending on the part of the ProcessChecker.com site you are visiting, one or more of the following paragraphs may apply –
 
 **Fulfilling Your Request :**
 
@@ -31,9 +29,9 @@ We protect your personal information and maintain its quality. We implement meas
 
 **Cookies, Web Beacons and Other Web Technologies :**
 
-We sometimes collect non-identifiable information from visits to the ProcessChecker.com site to help us provide better customer service. For example, we keep track of the domains from which people visit and we measure visitor activity on ProcessChecker.com, but we do so in ways that keep our visitor's identities anonymous. We may use this data to analyze trends and statistics and to help us provide better user service.
+We sometimes collect non-identifiable information from visits to the ProcessChecker.com site to help us provide better customer service. For example, we keep track of the domains from which people visit and we measure visitor activity on ProcessChecker.com, but we do so in ways that keep our visitor’s identities anonymous. We may use this data to analyze trends and statistics and to help us provide better user service.
 
-We collect the information we mentioned in the previous paragraphs through the use of various technologies, including one called "cookies". A cookie is a piece of data that a Web site can send to your browser, which may then be stored on your computer as an anonymous tag that identifies your computer but not you. You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You also can set your browser to turn off cookies. If you do so, however, some Web sites may not work properly.
+We collect the information we mentioned in the previous paragraphs through the use of various technologies, including one called “cookies”. A cookie is a piece of data that a Web site can send to your browser, which may then be stored on your computer as an anonymous tag that identifies your computer but not you. You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You also can set your browser to turn off cookies. If you do so, however, some Web sites may not work properly.
 
 **Online Advertising :**
 
@@ -49,4 +47,4 @@ ProcessChecker.com regularly reviews its compliance with this policy. Please fee
 
 **Changes to this Policy :**
 
-This Privacy Policy may occasionally change. Any Policy changes will be posted to this page. Each version of this policy will be denoted at the top of this page by its effective date. 
+This Privacy Policy may occasionally change. Any Policy changes will be posted to this page. Each version of this policy will be denoted at the top of this page by its effective date.
