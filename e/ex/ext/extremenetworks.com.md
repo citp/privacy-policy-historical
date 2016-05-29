@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extremenetworks.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326082608id_/http%3A//www.extremenetworks.com/company/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremenetworks.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529163124id_/http%3A//www.extremenetworks.com/company/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Extreme Networks
 
