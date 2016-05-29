@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mecca.com.au privacy policy that was archived on 2015-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151001222257id_/http%3A//mecca.com.au/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mecca.com.au privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529194748id_/http%3A//mecca.com.au/privacy-policy.html) for the most accurate reproduction.*
 
-# MECCA | Customer Service | Privacy Policy
+# Privacy Policy | Customer Service | MECCA
 
 The products and services are provided, and ‘our’ websites are provided, by MECCA Brands Pty Ltd (ACN 077 859 931) (‘we’, ‘us’ or ‘our’). ‘We’ are committed to supporting the 'Australian Privacy Principles' and complying with the Privacy Act 1988 (Cth), which has set clear standards and guidelines for the collection, access, storage and use of Personal Information (‘Personal Information’) which ‘we’ may obtain during the course of ‘our’ dealings with you. ‘Our’ Privacy Policy sets out, in general terms, matters of which you should be aware regarding the Personal Information ‘we’ may collect about you, ‘our’ policies on the management of personal information, how you may access Personal Information that ‘we’ keep or complain about a suspected privacy breach, and generally, what sort of information ‘we’ collect and how ‘we’ hold, use and disclose that information. When you provide ‘us’ with Personal Information (whether via one of ‘our’ websites, in store, through any of ‘our’ promotions, or otherwise), ‘we’ respect your privacy. It is important for you to understand what information ‘we’ collect about you and what ‘we’ do with your information.
 
@@ -164,4 +164,4 @@ Please do not email the Privacy Officer for any matters that do not relate to Pr
 
 ##### 16\. MORE INFORMATION
 
-More information about Privacy law and the Australian Privacy Principles is available from the Federal Privacy Commissioner’s website [www.privacy.gov.au](http://www.privacy.gov.au/) Copyright © MECCA Brands Pty Ltd 2014. All rights reserved 
+More information about Privacy law and the Australian Privacy Principles is available from the Federal Privacy Commissioner’s website [www.privacy.gov.au](http://www.privacy.gov.au/) Copyright © MECCA Brands Pty Ltd 2016. All rights reserved 
