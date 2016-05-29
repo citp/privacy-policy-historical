@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cbd.int privacy policy that was archived on 2015-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150612193137id_/http%3A//www.cbd.int/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cbd.int privacy policy that was archived on 2016-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160529185529id_/https%3A//www.cbd.int/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" dir="ltr"><head> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -11,6 +11,7 @@
 <link type="text/css" rel="stylesheet" media="all" href="/styles/ui/templates/cbd2011/css/inner-combo.min.css">
 <link type="text/css" rel="stylesheet" media="print" href="/styles/ui/templates/cbd2011/css/template-print.min.css">
 <!--[if lte IE 8]><link type="text/css" rel="stylesheet" media="screen" href="/styles/ui/templates/cbd2011/css/template-msie8.min.css" /><![endif]-->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
 
 <link href="/cms/web/cms.css" rel="stylesheet" type="text/css">
@@ -49,7 +50,7 @@ var _gaq = _gaq || [];
 <div class="aspNetHidden">
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTM2MTcxNzAwMA9kFgICAQ8WBB4EbGFuZwUCZW4eA2RpcgUDbHRyFgQCAQ8WAh4JaW5uZXJodG1sBQ5Qcml2YWN5IFBvbGljeWQCEQ9kFgICDw8WAh4Fc3R5bGUFRGJhY2tncm91bmQtaW1hZ2U6dXJsKC8vd3d3LmNiZC5pbnQvaW1hZ2VzL2Jhbm5lcnMvYmFubmVyLTAtMzgzNi5KUEcpZGRckvw4boTCj0P2lerCxOs9fD5zvtWV31HTiH/OoA38CQ==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTM2MTcxNzAwMA9kFgICAQ8WBB4EbGFuZwUCZW4eA2RpcgUDbHRyFgQCAQ8WAh4JaW5uZXJodG1sBQ5Qcml2YWN5IFBvbGljeWQCEQ9kFgICEA8WAh4Fc3R5bGUFRGJhY2tncm91bmQtaW1hZ2U6dXJsKC8vd3d3LmNiZC5pbnQvaW1hZ2VzL2Jhbm5lcnMvYmFubmVyLTAtMzgzNi5KUEcpZGSentTLjgK94eSwpsuywJdXQgUfhT6WLaeihhqOErfRtw==">
 </div>
 
 <script type="text/javascript">
@@ -68,6 +69,226 @@ function __doPostBack(eventTarget, eventArgument) {
 //]]>
 </script>
 
+
+<script>
+
+(function(window, document) { "use strict";
+
+	var tokenLoaded;
+	var authorizationFrame;
+	var autoReload = true;
+	var pendingOperation = false;
+
+	if(window.location.pathname.lastIndexOf('/')>0) { // Fix cookie with invalid path
+		document.cookie = ".ASPXAUTH_BSCMS=; expires=Thu, 01 Jan 1970 00:00:00 UTC; Path=" + window.location.pathname.substr(0, window.location.pathname.lastIndexOf('/'));
+	}
+
+
+	//==============================
+	//
+	//
+	//==============================
+	function setCookie(cname, cvalue, exdays) {
+
+		if(!cvalue)
+			exdays = -365; 
+
+		var expires="" // session
+		
+		if(exdays!==undefined && exdays!==null) {
+			var d = new Date();
+			d.setTime(d.getTime() + (exdays*24*60*60*1000));
+			expires = "expires="+d.toUTCString() + "; ";
+		}
+
+		document.cookie =  cname + "=" + cvalue + "; Path=/; " + expires;
+	}
+
+	//==============================
+	//
+	//
+	//==============================
+	function getCookie(cname) {
+
+		var name = cname + "=";
+		var ca = document.cookie.split(';');
+		for(var i=0; i<ca.length; i++) {
+			var c = ca[i];
+			while (c.charAt(0)==' ') c = c.substring(1);
+			if (c.indexOf(name) == 0) return c.substring(name.length,c.length);
+		}
+		return "";
+	}
+
+	//==============================
+	//
+	//
+	//==============================
+	function getQueryVariable(variable) {
+		var query = window.location.search.substring(1);
+		var vars = query.split('&');
+		for (var i = 0; i < vars.length; i++) {
+			var pair = vars[i].split('=');
+			if (decodeURIComponent(pair[0]) == variable) {
+				return decodeURIComponent(pair[1]);
+			}
+		}
+	}
+
+	//==============================
+	//
+	//
+	//==============================
+	function authenticate() {
+
+		autoReload = false;
+		pendingOperation = true;
+
+		tokenReady(function() {
+
+			var redirectUrl = getQueryVariable("returnUrl") || getQueryVariable("returnurl") || '/';
+
+			try
+			{
+				window.history.replaceState({}, "The Convention on Biological Diversity", redirectUrl); //delete this entry from the history
+				window.location.reload(true);
+			}
+			catch(e)
+			{
+				window.location = redirectUrl; //backward compatibility
+			}
+		}, true);
+	}
+
+	//==============================
+	//
+	//
+	//==============================
+	function signIn(defaultReturnUrl) {
+
+		autoReload = false;
+		pendingOperation = true;
+
+		tokenReady(function(){
+
+			if(defaultReturnUrl===true) //user current url;
+				defaultReturnUrl = window.location.href.replace(/^\w+\:\/\/[a-zA-Z0-9@:\.]+/, '');
+
+			var isAuthenticated = !!getCookie(".ASPXAUTH_BSCMS");
+			var redirectUrl     = getQueryVariable("returnUrl") || getQueryVariable("returnurl") || defaultReturnUrl;
+
+			if(!isAuthenticated) {
+
+				var returnUrl = window.location.protocol +"//"+ window.location.hostname + "/user/authenticate?returnUrl="+encodeURIComponent(redirectUrl);
+
+				redirectUrl = "https://accounts.cbd.int/signin?returnUrl=" + encodeURIComponent(returnUrl);
+			}
+
+			window.location = redirectUrl;
+
+		}, true);
+	}
+
+	//==============================
+	//
+	//
+	//==============================
+	function signOut() {
+
+		autoReload = false;
+		pendingOperation = true;
+
+		tokenReady(function(){
+
+			setCookie('.ASPXAUTH_BSCMS', null);
+
+			authorizationFrame.contentWindow.postMessage(JSON.stringify({ type : 'setAuthenticationToken', authenticationToken : null }), 'https://accounts.cbd.int')
+
+			setTimeout(function(){ window.location = '/'; }, 50);
+
+		}, true);
+	}
+
+	//==============================
+	//
+	//
+	//==============================
+	window.addEventListener('message', function(event) {
+
+		if(event.origin!='https://accounts.cbd.int')
+			return;
+
+		var message = JSON.parse(event.data);
+
+		if(message.type!='authenticationToken')
+			return;
+
+		var oldToken = getCookie(".ASPXAUTH_BSCMS") || '';
+		var newToken = message.authenticationToken  || '';
+
+		if(oldToken!=newToken) {
+			setCookie('.ASPXAUTH_BSCMS', newToken)
+	
+			if(autoReload) {
+				window.location.reload(true);
+				return;
+			}
+		}
+
+		tokenLoaded = true;
+
+	});
+
+	//==============================
+	//
+	//
+	//==============================
+	function initialize(frame){
+
+		if(!authorizationFrame)
+			authorizationFrame = frame;
+
+		authorizationFrame.contentWindow.postMessage(JSON.stringify({ type : 'getAuthenticationToken' }), 'https://accounts.cbd.int');
+	}
+
+	//==============================
+	//
+	//
+	//==============================
+	function tokenReady(callback, ignorePendinOperation){
+
+		if(/DesignMode=true/.test(getCookie("CmsVolatileSettings")||'') && /\?dev=1/.test(window.location.href))
+			return;
+		
+		if(!tokenLoaded) { // frame
+			setTimeout(function() { tokenReady(callback, ignorePendinOperation); }, 50);
+			return;
+		}
+
+		if(!pendingOperation || ignorePendinOperation)
+			callback();
+	}
+
+
+	//==============================
+	//
+	// EXPORTS
+	//
+	//==============================
+	window._account = {
+		initialize : initialize,
+		authenticate : authenticate,
+		signIn : signIn,
+		signOut : signOut,
+		tokenReady : tokenReady
+	}
+
+
+})(window, document);
+
+</script>
+
+<iframe src="https://accounts.cbd.int/app/authorize.html" style="display:none" onload="_account.initialize(event.target || event.srcElement)"></iframe>
 
 <!--[t-top]-->
 <div id="t-centerWrap"><!-- Start: Center Wrap -->
@@ -124,12 +345,12 @@ function __doPostBack(eventTarget, eventArgument) {
 <!--[t-user]-->
             
 
-<table cellspacing="0" cellpadding="0">
+<table id="signInBarXXX" cellspacing="0" cellpadding="0" style="display:none">
 <tbody><tr>
     
-        <td><a id="ctl04_BSignUp" href="javascript:__doPostBack('ctl04$BSignUp','')">Sign up for an account</a></td>
+        <td><a href="/user/signup/?returnurl=%2fprivacy%2f" id="ctl04_BSignUp">Sign up for an account</a></td>
         <td>&nbsp;|&nbsp;</td>
-        <td><a id="ctl04_BSignIn" href="javascript:__doPostBack('ctl04$BSignIn','')">Sign In</a></td>
+        <td><a href="/user/signin/?returnurl=%2fprivacy%2f" id="ctl04_BSignIn" onclick="_account.signIn(true); return false;">Sign In</a></td>
     
 
     
@@ -137,6 +358,12 @@ function __doPostBack(eventTarget, eventArgument) {
 </tbody></table>
 
 
+
+<script>
+_account.tokenReady(function(){
+	$("#signInBarXXX").show();
+});
+</script>
 
 <!--[/t-user]-->
         </div>
@@ -210,7 +437,7 @@ function __doPostBack(eventTarget, eventArgument) {
 
 <li><a href="/sbstta">Subsidiary Body on Scientific, Technical and Technological Advice (SBSTTA)</a></li>
 
-<li><a href="/wgri">Working Group on the Review of Implementation (WGRI)</a></li>
+<li><a href="/sbi">Subsidiary Body on Implementation (SBI)</a></li>
 
 <li><a href="/abs/icnp">Intergovernmental Committee for the Nagoya Protocol (ICNP)</a></li>
 
@@ -250,9 +477,11 @@ function __doPostBack(eventTarget, eventArgument) {
 
 <li><a href="/financial">Financial Resources &amp; Mechanism</a></li>
 
-<li><a href="/lifeweb">LifeWeb for Financing Protected Areas</a></li>
-
 <li><a href="/chm">Clearing-House Mechanism (CHM)</a></li>
+
+<li><a href="/biobridge">Bio-Bridge Initiative (BBI)</a></li>
+
+<li><a href="/lifeweb">LifeWeb for Financing Protected Areas</a></li>
 
 </ul>
 <div id="ctl05_divSubMenuSectionHeading" class="t-navSubHeading"><a href="/cooperation">Cooperation &amp; Partnerships</a></div>
@@ -325,6 +554,8 @@ function __doPostBack(eventTarget, eventArgument) {
 <li><a href="http://bch.cbd.int/protocol/cpb_detection.shtml">Sampling, Detection and Identification</a></li>
 
 <li><a href="http://bch.cbd.int/protocol/cpb_art26.shtml">Socio-economic Considerations</a></li>
+
+<li><a href="http://bch.cbd.int/protocol/cpb_art6.shtml">Transit and Contained Use</a></li>
 
 <li><a href="http://bch.cbd.int/protocol/cpb_art17.shtml">Unintentional Transboundary Movements</a></li>
 
@@ -500,7 +731,7 @@ function __doPostBack(eventTarget, eventArgument) {
 
 <li><a href="/gti">Global Taxonomy Initiative</a></li>
 
-<li><a href="http://www.cbd.int/en/health">Health &amp; Biodiversity</a></li>
+<li><a href="http://www.cbd.int/health">Health &amp; Biodiversity</a></li>
 
 <li><a href="/impact">Impact Assessment</a></li>
 
@@ -695,7 +926,7 @@ $("#ctl05_menuSubscbd").mouseover(function () { $("#ctl05_menuTopscbd").addClass
         <!-- CMenu temp-->
             <ul id="ctl10_SubMenu" class="t-subMenu">
     <li></li>
-<li class="t-menuSection"><a>Website Information</a></li><li><a href="/map/default.shtml">Site Map</a></li><li><a href="/terms/default.shtml">Terms of Use</a></li><li class="t-menuSelected"><a href="/privacy/default.shtml">Privacy Policy</a></li><li><a href="/credits/default.shtml">Photo Credits</a></li><li><a href="/copyright/default.shtml">Copyright</a></li><li class="t-menuSection"><a>User Services</a></li><li><a href="/feedback/default.shtml">Feedback</a></li><li><a href="/user/signup.shtml">Sign Up for an Account</a></li><li><a href="/user/signin.aspx">Sign In</a></li><li><a href="/register/home.shtml">Side Event Registration</a></li></ul>
+<li class="t-menuSection"><a>Website Information</a></li><li><a href="/map/default.shtml">Site Map</a></li><li><a href="/terms/default.shtml">Terms of Use</a></li><li class="t-menuSelected"><a href="/privacy/default.shtml">Privacy Policy</a></li><li><a href="/credits/default.shtml">Photo Credits</a></li><li><a href="/copyright/default.shtml">Copyright</a></li><li class="t-menuSection"><a>User Services</a></li><li><a href="/feedback/default.shtml">Feedback</a></li><li><a href="/user/signup">Sign Up for an Account</a></li><li><a href="/user/signin">Sign In</a></li><li><a href="/user/signout">Sign Out</a></li><li><a href="/register/home.shtml">Side Event Registration</a></li></ul>
 
 
         <!-- CMenu temp END-->
