@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sellathon.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701214832id_/https%3A//sellathon.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellathon.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529150710id_/https%3A//www.sellathon.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Sellathon
 
