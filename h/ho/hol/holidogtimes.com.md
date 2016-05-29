@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holidogtimes.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219010046id_/http%3A//www.holidogtimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidogtimes.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529213810id_/http%3A//www.holidogtimes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Holidog Times
 
@@ -113,4 +113,4 @@ If you wish to gain access to your Personal Information (as defined in the UK Da
    
 Holidog may update this Privacy Policy from time to time, and so you should review this Privacy Policy periodically. If there are significant changes to Holidog’s information practices, you will be provided with appropriate online notice. 
 
-[ ](http://holidog.com/?utm_source=theholidogtimes&utm_medium=content&utm_campaign=HDbanner11102015aEN)
+[ ](http://www.holidog.com/goholiday/?utm_source=holidogtimes&utm_medium=banner&utm_campaign=hd130416&utm_content=4)
