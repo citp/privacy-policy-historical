@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spanning.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230223814id_/http%3A//spanning.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spanning.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530010745id_/http%3A//spanning.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Spanning Cloud Apps, LLC
 
@@ -14,7 +14,7 @@ Spanning Cloud Apps, LLC (“Spanning”) has created this privacy statement in 
 
 We require users of the Service to give us information including their Google or Salesforce account name. Spanning uses the information to deliver the Service for individuals and their organizations. This information will not be distributed or shared with third parties. We may use this information to contact users of the Service via email regarding new products, features, and offers. If we contact you with a promotional communication to your email provided, you will be able to Opt-Out by clicking the link in the email. However, you cannot Opt-Out of transactional emails.
 
-Users of the Service will be using the Service to access data and information (“Data”) stored in Google applications and/or Salesforce. Spanning will not review, share, distribute, print, or reference any such Data except as may be required by law. Individual records may at times be viewed or accessed only for the purpose of resolving a problem or support issue, or as may be required by law. Of course, customers are responsible for maintaining the confidentiality and security of their user registration and password.
+Users of the Service will be using the Service to access data and information (“Data”rdquo;) stored in Google applications and/or Salesforce. Spanning will not review, share, distribute, print, or reference any such Data except as may be required by law. Individual records may at times be viewed or accessed only for the purpose of resolving a problem or support issue, or as may be required by law. Of course, customers are responsible for maintaining the confidentiality and security of their user registration and password.
 
 Spanning may also collect certain information from users of the Service and we store it in log files, such as Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. This information is logged to help diagnose technical problems, and to administer our Service in order to constantly improve the quality of the Service. We do not link this automatically collected data to other information we collect about you.
 
@@ -36,7 +36,7 @@ We also have technologies such as: cookies, beacons, tags and scripts are used b
 
 We use cookies to remember users’ settings _(e.g. language preference)_ _and/or for authentication._ Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
-We use Local Storage Objects (LSOs) such as HTML5 to store [content information and preferences.] Third parties with whom we partner to provide certain features on our site or to display advertising based upon your web browsing activity use LSOs such as HTML 5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click **[here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118.)**. 
+We use Local Storage Objects (LSOs) such as HTML5 to store [content information and preferences.] Third parties with whom we partner to provide certain features on our site or to display advertising based upon your web browsing activity use LSOs such as HTML 5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click **[here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118.)**.
 
 **Links to Other Sites**
 
@@ -64,7 +64,7 @@ Our website includes social media features, such as the Facebook Like button and
 
 **Security**
 
-The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using reasonable security.  
+The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using reasonable security.
 
 We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. If you have any questions about security on our website, you can contact  **[support@spanning.com](mailto:support@spanning.com)**.
 
@@ -72,7 +72,7 @@ We follow generally accepted standards to protect the personal information submi
 
 **Agents/Service Providers**
 
-We use other third parties such as a credit card processing company to bill you for goods and services, an email service provider to send out emails on our behalf, a third party help service provider and a hosting service provider. When you sign up for Spanning's services, we will share your personal information as necessary for the third party to provide that service.
+We use other third parties such as a credit card processing company to bill you for goods and services, an email service provider to send out emails on our behalf, a third party help service provider and a hosting service provider. When you sign up for Spanning’s services, we will share your personal information as necessary for the third party to provide that service.
 
 **Legal Disclaimer**
 
@@ -109,18 +109,3 @@ If you have any questions about this policy, please contact us at support@spann
 **Changes in this Privacy Statement**
 
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
-
-## Contact Us
-
-If you have any questions or suggestions regarding our privacy statement, please contact us at:
-
-Spanning Cloud Apps, LLC  
-Attn: Privacy  
-501 Congress Ave.  
-Suite 200  
-Austin, Texas  
-78701  
-USA  
-+1-512-236-1277  
-**[privacy@spanning.com](mailto:privacy@spanning.com)**  
-**<http://spanning.com/privacy>**
