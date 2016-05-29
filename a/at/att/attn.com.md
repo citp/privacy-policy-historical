@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the attn.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025153943id_/http%3A//www.attn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attn.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529193709id_/http%3A//www.attn.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - attn:
+# Privacy Policy - ATTN:
 
 attn: wants to make media authentic and relevant to you, and so we have a very simple policy when it comes to your information.  We use your information only to provide you with information that we think may be relevant to you.  Most of the time, we generate that content ourselves.  But we also team up with others, and we can share with our affiliates, allies and media partners.  If we get it wrong and share your information in a way that you do not want, just tell us and we will not share your information or, if you choose, we will delete your information from our system.  It is your choice.  
 
@@ -18,7 +18,7 @@ Our Privacy Policy is organized around the following basic ideas: 
 
 For those of you who want to read the fuller legal policy, here it is:  
 
-Welcome to the website of attn: an Our Time Media company (the “Site”).  We are an independent media company born out of Our Time.  Our Time and attn: are separate legal entities, and this policy relates only to attn: (“we”).    
+Welcome to the website of attn: an ATTN:, Inc. company (the “Site”).  We are an independent media company born out of Our Time.  Our Time and attn: are separate legal entities, and this policy relates only to attn: (“we”).    
 
 This Privacy Policy tells you about our practices regarding collection, use, and disclosure of information that you may provide via the Site.  Please read this entire Privacy Policy before submitting information to the Site. Use of the Site constitutes your agreement to this Privacy Policy.
 
