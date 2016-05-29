@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cuteonly.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424220445id_/https%3A//www.cuteonly.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuteonly.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529230124id_/http%3A//cuteonly.com/privacy.html) for the most accurate reproduction.*
 
 # CuteOnly Privacy Policy
 
