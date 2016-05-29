@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the quixey.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029174236id_/http%3A//quixey.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quixey.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529082657id_/https%3A//www.quixey.com/privacy) for the most accurate reproduction.*
 
 # Quixey | Privacy Policy
 
-Privacy Policy
-
 We have updated our privacy policy.
 
-Effective: October 26, 2015 ([view prior version](https://web.archive.org/privacy-09-10-2015.html))
+Effective: October 26, 2015 ([view prior version](https://web.archive.org/privacy/privacy-09-10-2015.html))
 
 This Privacy Policy covers the treatment of personal information such as name, phone number, email address, and location information (“Personal Information”) that we gather when you are accessing or using the Site and Services owned and operated by Quixey Incorporated (“Quixey”) and its subsidiaries and corporate affiliates. Our Services are designed to optimize your mobile experience by surfacing or suggesting mobile app functionality in response to searches or activity on your device. To do this, we gather various types of information, including Personal Information, from our users and use it internally in connection with our Services, as explained in more detail below. In certain cases, we may also share some Personal Information with third parties, but only as described below. This Privacy Policy does not apply to any third-party services and applications that you may access through our Services.
 
-This Privacy Policy is part of the Quixey [Terms of Service](https://web.archive.org/terms.html). By continuing to use our Services, you agree to be bound by both policies, so please read them carefully.
+This Privacy Policy is part of the Quixey [Terms of Service](https://web.archive.org/terms/). By continuing to use our Services, you agree to be bound by both policies, so please read them carefully.
 
 What this Privacy Policy Covers
 
@@ -20,7 +18,7 @@ Quixey Apps: Quixey provides direct consumer-facing apps such as Launch by Quixe
 
 Quixey Platform: Quixey also acts as a service provider for companies when we process their customers' information (our “Clients”). We provide a platform that allows our Clients to serve deep views as well as search results suggesting applications or functionality to their customers.  In these instances, we collect and process information under the direction of our Clients, and have no direct relationship with the individuals whose Personal Information we process. If you are a customer of a Client that is using the Quixey Platform, please contact the Client that you interact with directly.  We may transfer Personal Information to companies that help us provide our Services on behalf of Clients. Transfers to subsequent third parties are covered by the service agreements with our Clients.
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=76437ab2-b5bd-4cac-a9b9-8e77b6e4835b "TRUSTe Privacy Certification")
+[TRUSTe Privacy Certification](https://privacy.truste.com/privacy-seal/validation?rid=76437ab2-b5bd-4cac-a9b9-8e77b6e4835b "TRUSTe Privacy Certification")
 
 The TRUSTe program covers only information that is collected through this Site ([www.quixey.com](https://www.quixey.com/)), the Quixey Search App and the service platform provided to Clients. It does not cover information that may be collected through software downloaded from the Site. With respect to the service platform, the use of information collected through our Service shall be limited to the purpose of providing the Service for which the Client has engaged Quixey Incorporated.
 
