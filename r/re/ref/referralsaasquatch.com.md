@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the referralsaasquatch.com privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928195133id_/http%3A//www.referralsaasquatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the referralsaasquatch.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529084523id_/http%3A//www.referralsaasquatch.com/privacy-policy) for the most accurate reproduction.*
 
 # Referral SaaSquatch Privacy Policy
+
+[Important Note – You can also click here to view and download our Legal Documents](https://drive.google.com/folderview?id=0B5vfRSKkpokVWnNISTZ3d2o4UkE&usp=sharing)
 
 At ReferralSaaSquatch.com. we are committed to protecting your privacy, and maintain a general policy of openness about how we collect, use and disclose your personal information.
 
@@ -106,7 +108,7 @@ You can help us maintain the accuracy of your personal information by notifying 
 
 E-mail:                         **privacy@saasquat.ch**
 
-Send Mail:                    **1017 Fort St., Victoria, B.C., Canada, V8V 3Z9**
+Send Mail:                    **838 Fort St., Victoria, B.C., Canada, V8W 1H83Z9**
 
 Telephone:                  **+1-250-483-3366**
 
