@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dumblittleman.com privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917173936id_/http%3A//www.dumblittleman.com/2011/01/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dumblittleman.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529122306id_/http%3A//www.dumblittleman.com/2011/01/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,9 +6,7 @@
 
 Image Credit: Creative Commons, Sean MacEntee’s Flickr Photostream. ([Source](https://www.flickr.com/photos/smemon/4592915995 "Source"))
 
-DumbLittleMan.com, hereafter the Company, agrees not to disclose to anyone the terms, conditions, subject matter, or identity of the parties involved in any paid transaction to any other party unless required to do so by law. The Company collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. 
-
-The Company also collects anonymous demographic information that is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+DumbLittleMan.com, hereafter the Company, agrees not to disclose to anyone the terms, conditions, subject matter, or identity of the parties involved in any paid transaction to any other party unless required to do so by law. The Company collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. The Company also collects anonymous demographic information that is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
 Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through the Company’s Chats, Communities, or other public online forums, this information may be collected and used by others. The Company encourages you to review the privacy statements of websites you choose to link to from the Company so that you can understand how those websites collect, use and share your information. The Company is not responsible for the privacy statements or other content on websites outside of the Company’s websites.
 
@@ -21,8 +19,6 @@ The Company does not sell, rent or lease its client lists to third parties. The 
 The Company keeps track of the websites and pages our client’s visit, in order to determine what websites and services are the most popular. This data is used to deliver customized content and advertising to clients whose behavior indicates that they are interested in a particular subject area. The Company uses third-party advertising companies to serve ads when you visit our website(s). These companies may use non-personal information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. We do NOT share or distribute personal information such as your name, address, email address, or telephone number.
 
 The Company’s websites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on the Company or the website; (b) protect and defend the rights or property of DumbLittleMan.com, but not limited to this Company’s websites; and, (c) act under exigent circumstances to protect the personal safety of users of the Company, its websites, or the public.
-
-. 
 
   
 
