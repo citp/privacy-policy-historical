@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the madisonlogic.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926234746id_/https%3A//www.madisonlogic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madisonlogic.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529075612id_/https%3A//www.madisonlogic.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Madison Logic
+# Privacy – Madison Logic
 
 ## ****Privacy Policy****
 
-_Effective as of  July 27, 2015_
+_Updated, January 19, 2016._
 
 **Overview**
 
@@ -44,7 +44,7 @@ We use Local Storage Objects (LSOs) such as Flash to store content information a
 
 **Advertising / Behavioral Targeting; How to Opt-Out**
 
-If you wish to opt out of our Service, please go to our opt-out page.
+If you wish to opt out of our Service, please visit this [opt-out page](http://www.madisonlogic.com/optout-2/).
 
 We may use third party vendors to enhance the Service (e.g. for purposes of retargeting). We do not share Personal Information with these third parties, but they may set and access their own cookies, pixel tags and similar technologies on your device and they may otherwise collect or have access to anonymous Usage Information.
 
@@ -125,7 +125,7 @@ We regularly review our compliance with this Privacy Policy. Questions, comments
 
 **Affiliations**
 
-Madison Logic is a member of the Network Advertising Initiative (NAI) and complies with all NAI standards. To learn more about the use of cookies for targeting and to opt out of data collection and targeting cookies from Madison Logic or other ad networks, [click here](http://www.networkadvertising.org/choices/). Alternatively, you may [click here](http://www.madisonlogic.com/privacy/#tab-1380136766-2-91) to opt-out of data collection and targeting cookies from Madison Logic only. This will result in your inability to benefit from many of the Madison Logic features described above. Note that if you change computers or browsers, or use multiple computers or browsers, you will need to repeat the opt-out process for each computer and each browser.
+Madison Logic is a member of the Network Advertising Initiative (NAI) and complies with all NAI standards. To learn more about the use of cookies for targeting and to opt out of data collection and targeting cookies from Madison Logic or other ad networks, [click here](http://www.networkadvertising.org/choices/). Alternatively, to opt-out of data collection from Madison Logic only, you may [click here](http://www.networkadvertising.org/choices/) and choose Madison Logic from the displayed companies.  This will result in your inability to benefit from many of the Madison Logic features described above. Note that if you change computers or browsers, or use multiple computers or browsers, you will need to repeat the opt-out process for each computer and each browser.
 
 [](http://privacy.truste.com/privacy-seal/validation?rid=7a559be2-d7f1-4bd2-891e-e0ff0a702f8c)
 
@@ -133,6 +133,6 @@ The TRUSTe certification covers our collection, use and disclosure of informatio
 
 In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at[ https://feedback-form.truste.com/watchdog/request.](https://feedback-form.truste.com/watchdog/request.)
 
-[](http://export.gov/safeharbor/)
+[](http://www.export.gov/safeharbor/)
 
 Madison Logic complies with the U.S. – E.U. and U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries and Switzerland. Madison Logic has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Madison Logic’s certification, click [here.](http://safeharbor.export.gov/companyinfo.aspx?id=16561)
