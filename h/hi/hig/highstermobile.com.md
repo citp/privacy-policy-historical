@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the highstermobile.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126160540id_/http%3A//highstermobile.com/avada/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highstermobile.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529161143id_/http%3A//highstermobile.com/avada/index.php/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Highster Mobile
 
 **Highster Mobile Respects Your Privacy**
 
 Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of www.highstermobile.com.
+
+**Data Protection**
+
+Your data from your mobile device is protected by the most secure Premium SSL Certificate available. All data and information that is transmitted is done only through Premium SSL Certificate.
+
+The primary reason why SSL is used is to keep sensitive information sent across the Internet encrypted so that only the intended recipient can understand it. This is important because the information you send on the Internet is passed from computer to computer to get to the destination server. Any computer in between you and the server can see your credit card numbers, usernames and passwords, and other sensitive information if it is not encrypted with an SSL certificate. When an SSL certificate is used, the information becomes unreadable to everyone except for the server you are sending the information to. This protects it from hackers and identity thieves.
 
 **Credit card details**
 
