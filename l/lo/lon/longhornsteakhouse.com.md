@@ -1,6 +1,31 @@
-> *The following text is extracted and transformed from the longhornsteakhouse.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212042951id_/http%3A//www.longhornsteakhouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longhornsteakhouse.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529063948id_/http%3A//www.longhornsteakhouse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LongHorn Steakhouse Restaurant
+
+Effective Date: February 25, 2016
+
+We at Darden Corporation, along with our affiliates (collectively, “Darden,” “we,” “our,” “us”), respect your concerns about privacy. This Privacy Notice applies to our use of personal information that we may collect at Darden locations in the United States and via online and mobile services that link to this Privacy Notice (collectively, the “Services”).
+
+This Privacy Notice describes the types of personal information we collect on the Sites, how we may use the information, with whom we may share it and the choices available to you regarding our use of the information. We also describe the measures we take to safeguard the information and tell you how to contact us about our privacy practices.
+
+Click on one of the links below to jump to the listed section:
+
+  * Information We Collect
+  * How We Use The Information We Collect
+  * Interest-Based Advertising
+  * Information We Share
+  * Your Options
+  * Notice to Canadian Residents
+  * Cross-Border Transfer
+  * Notice to California Residents
+  * Do Not Track Policy
+  * Links To Other Websites
+  * How We Protect Personal Info
+  * Children's Privacy
+  * Updates To Privacy Notice
+  * How To Contact Us
+
+
 
 We may obtain certain personal information (such as name and other contact details) through our Sites. The types of personal information we may collect include:
 
@@ -89,11 +114,10 @@ This Privacy Notice may be updated periodically and without prior notice to you 
 
 Back to Top
 
-If you have any questions about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by e-mail at [privacy@darden.com](mailto:privacy@darden.com) or by phone at 407-245-5397, ext. 7. You also may write to us at:
+If you have any questions about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by e-mail at privacy@darden.com or by phone at 407-245-5397, ext. 7. You also may write to us at:
 
+Ethics & Compliance Office  
 Darden Restaurants, Inc.  
-Attention: Elizabeth Yost, Privacy Department  
-c/o Compliance and Ethics Office  
 1000 Darden Center Drive  
 Orlando, FL 32837
 
@@ -102,4 +126,4 @@ Please note that on occasion, third parties unaffiliated with us may conduct mar
 Back to Top
 
 Darden: Online Privacy Notice  
-Effective Date: August 20, 2014
+Effective Date: February 25, 2016
