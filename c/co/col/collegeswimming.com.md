@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegeswimming.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113074136id_/http%3A//www.collegeswimming.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegeswimming.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529065546id_/http%3A//www.collegeswimming.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
