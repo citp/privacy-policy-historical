@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beenverified.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905195417id_/https%3A//www.beenverified.com/faq/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beenverified.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529063214id_/https%3A//www.beenverified.com/faq/privacy) for the most accurate reproduction.*
 
 # Privacy | BeenVerified.com
 
@@ -132,9 +132,9 @@ BeenVerified is very sensitive to the issue of children's privacy. The Site, as 
 
 If you have any questions about this Privacy Policy, the data practices of the Site, or your dealings with the Site, please feel free to contact us at 1-888-579-5910, at [privacy@beenverified.com](mailto:privacy@beenverified.com), or at: 
 
-BeenVerified.com  
-307 5th Avenue - 16th Floor  
-New York, NY 10016  
+BeenVerified  
+48 W 38th St - 8th Floor   
+New York, NY 10018   
 
 
 All communications with us or our authorized agents may be monitored or recorded.
