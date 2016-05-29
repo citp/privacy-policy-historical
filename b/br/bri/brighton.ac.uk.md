@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the brighton.ac.uk privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226110155id_/https%3A//www.brighton.ac.uk/siteinfo/privacy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brighton.ac.uk privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529072920id_/https%3A//www.brighton.ac.uk/siteinfo/privacy/index.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
 We are committed to protecting and respecting your privacy.
 
-This policy (together with [our terms of use](https://web.archive.org/siteinfo/terms-of-use/index.aspx "Terms of website use") and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting [www.brighton.ac.uk](https://web.archive.org/index.aspx "University of Brighton") you are accepting and consenting to the practices described in this policy.
+This policy (together with [our terms of use](https://web.archive.org/siteinfo/Terms-of-use/index.aspx "Terms of website use") and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting [www.brighton.ac.uk](https://web.archive.org/index.aspx "University of Brighton") you are accepting and consenting to the practices described in this policy.
 
 For the purpose of the Data Protection Act 1998 (the DPA), the data controller is the University of Brighton of Mithras House, Lewes Road, Brighton BN2 4AT.
 
@@ -25,16 +25,16 @@ We may collect and process the following data about you:
 
 ## Cookies
 
-Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them, please see [our Cookie Policy](https://web.archive.org/siteinfo/cookies/index.aspx "Cookies").
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them, please see [our Cookie Policy](https://web.archive.org/siteinfo/Cookies/index.aspx "Cookies").
 
 ## Uses made of the information
 
-We use information held about you in the following ways:
+By supplying us with your information, you are consenting to us keeping it for a reasonable amount of time and using the information held about you in the following ways:
 
 **Information you give to us.** We will use this information:
 
   * to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information and services that you request from us;
-  * to provide you with information about other services we offer that are similar to those that you are interested in;
+  * to answer your enquiry in a timely and appropriate manner.  When you contact us with an enquiry, we create a record in our enquiry management system so that you will not have to repeat all the details of a previous/current enquiry each time you contact us.  It also means that we can improve the information that we provide about our courses, services and processes in future;to provide you with information about other services we offer that are similar to those that you are interested in;
   * to notify you about changes to our service;
   * to ensure that content from our site is presented in the most effective manner for you and for your computer.
 
@@ -54,7 +54,7 @@ We use information held about you in the following ways:
 
 ## Disclosure of your information
 
-We may disclose your personal information to third parties if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply [our terms of use](https://web.archive.org/siteinfo/terms-of-use/index.aspx "Terms of website use") and other agreements; or to protect the rights, property, or safety of the University of Brighton.
+We may disclose your personal information to third parties if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply [our terms of use](https://web.archive.org/siteinfo/Terms-of-use/index.aspx "Terms of website use") and other agreements; or to protect the rights, property, or safety of the University of Brighton.
 
 ## Your rights
 
