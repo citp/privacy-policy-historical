@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the celebritystyleguide.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006034839id_/http%3A//www.celebritystyleguide.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebritystyleguide.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529133447id_/http%3A//www.celebritystyleguide.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Celebrity Style Guide
 
 Privacy Statement 
 
-Thank you for visiting www.CelebrityStyleGuide.com, a place where people who are passionate about celebrity and designer fashion and accessories come together to share their opinions and discoveries. The services offered by CelebrityStyleGuide.com (our “Site”) are made available by Celebrity Style Guide (“CelebrityStyleGuide,” “we” or “us”). 
+Thank you for visiting www.CelebrityStyleGuide.com, a place where people who are passionate about celebrity and designer fashion and accessories come together to share their opinions and discoveries. The services offered by CelebrityStyleGuide.com (our Site) are made available by Celebrity Style Guide (CelebrityStyleGuide, we or us). 
 
 We appreciate the opportunity to interact with you on the Internet and are committed to protecting and safeguarding your privacy. The purpose of this Privacy Statement is to inform you about the types of information we might collect about you when you visit our Site, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, that information. 
 
@@ -67,7 +67,7 @@ If you have any concerns about our use of your information or about this Privacy
 AFFILIATES   
 Celebrity Style Guide is affiliated with RewardStyle. This means that Celebrity Style Guide will periodically post on products through affiliation links provided. In return Celebrity Style Guide may receive a small commission for purchases associated with that link (i.e., a percentage of the sales price of sales originating from the linked product). So, if you click on a link and make a purchase from an affiliate site, there are some instances where we may make a commission from your purchase. Not all of the products we link are through the affiliate program and the affiliate program does not affect what we choose to cover in our posts. All of the items we choose to blog about are genuinely things that we like and want to share. 
 
-Readers: Celebrity Style Guide will not accept any products or sponsored posts from companies that we would not otherwise post about. All opinions are our own and will be written to reflect our true thoughts. Any posts that are sponsored will be disclosed as a sponsored post. Moreover, any products which have been gifted or provided gratis to Celebrity Style Guide shall be noted with “c/o” (courtesy of) or “gifted” at the bottom of the post and are only posted if we believe they are a good fit for the Celebrity Style Guide aesthetic and content. 
+Readers: Celebrity Style Guide will not accept any products or sponsored posts from companies that we would not otherwise post about. All opinions are our own and will be written to reflect our true thoughts. Any posts that are sponsored will be disclosed as a sponsored post. Moreover, any products which have been gifted or provided gratis to Celebrity Style Guide shall be noted with c/o (courtesy of) or gifted at the bottom of the post and are only posted if we believe they are a good fit for the Celebrity Style Guide aesthetic and content. 
 
 Updated October 13, 2014. 
 
