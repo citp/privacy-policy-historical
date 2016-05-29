@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldswagg.com privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017063753id_/http%3A//worldswagg.com/sample-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldswagg.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529115258id_/http%3A//worldswagg.com/sample-page) for the most accurate reproduction.*
 
 # DMCA & PRIVACY POLICY | Worldswagg
 
@@ -28,5 +28,3 @@ We adopt appropriate data collection, storage and processing practices and secur
 
 **Worldswagg.com** has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.  
 We do not collect any data except your Name and Email address.
-
-(Visited 7 times, 1 visits today)
