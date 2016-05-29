@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the le.ac.uk privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404044135id_/http%3A//www.le.ac.uk/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the le.ac.uk privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529210712id_/https%3A//le.ac.uk/externallinkfooterprivacy) for the most accurate reproduction.*
 
 # Privacy policy — University of Leicester
 
