@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halloweenadventure.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022184257id_/http%3A//www.halloweenadventure.com/privacy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halloweenadventure.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529223933id_/http%3A//www.halloweenadventure.com/privacy-security.html) for the most accurate reproduction.*
 
 # Halloween Costumes For Adults, Halloween Costumes for Kids and even Pets at Halloween Adventure!
 
