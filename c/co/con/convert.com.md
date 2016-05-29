@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the convert.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908113222id_/http%3A//www.convert.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convert.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529141104id_/http%3A//www.convert.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - A/B Testing Software or Split Testing Software
+# Privacy Policy - A/B Testing Software
 
-**EFFECTIVE DATE: November 20, 2009**
+**EFFECTIVE DATE: March 23, 2016** [(Old Privacy Policy)](https://web.archive.org/old-privacy-policy)
 
 Convert Insights, Inc. provides online website optimization services to our clients (the "Services") to improve the performance of their online business and marketing activities. We collect certain personally identifying information from our clients and their websites in the course of performing the Services. We respect the privacy of our clients and their customers. This privacy policy describes the measures taken by us to protect that privacy.
 
@@ -18,7 +18,7 @@ Convert Insights, Inc. provides online website optimization services to our clie
 
 ### Basically
 
-We track users for our test and targeting software but do not store IP addresses to figure out your identity
+We track users for our test and targeting software but do not store IP addresses to figure out your identity.
 
 ### WHO OWNS THE INFORMATION WE COLLECT?
 
@@ -26,7 +26,7 @@ All of the information that we collect, retain and store from our clients that i
 
 ### Basically
 
-The data we collect is owned by our clients
+The data we collect is owned by our clients.
 
 ### Payment Services
 
@@ -34,7 +34,7 @@ To use the Services, you are required to pay the fees described on the Website b
 
 ### Basically
 
-You pay and you credit card is secure, you get access. You stop paying we close your account
+You pay and you credit card is secure, you get access. You stop paying we close your account.
 
 ### HOW DO WE USE THE PERSONALLY IDENTIFIABLE INFORMATION WE RECEIVE OR COLLECT?
 
@@ -42,7 +42,7 @@ We use the data we collect only for the purpose of performing the Services.
 
 ### Basically
 
-We do not shop around with your name or data
+We do not shop around with your name or data.
 
 ### WITH WHOM DO WE SHARE THE PERSONALLY IDENTIFIABLE INFORMATION WE COLLECT?
 
@@ -50,7 +50,7 @@ Other than as explicitly described in this privacy policy, we will not share the
 
 ### Basically
 
-We do not share data, unless we are forced to
+We do not share data, unless we are forced to.
 
 ### HOW LONG DO WE RETAIN THE PERSONALLY IDENTIFIABLE INFORMATION WE COLLECT?
 
@@ -58,19 +58,22 @@ We plan to retain the information that our clients store on our servers for thre
 
 ### Basically
 
-We store data three years and cookies stay active for one year
+We store data three years and cookies stay active for one year.
 
 ### SAFE HARBOR DATA PRIVACY NOTICE
 
-We comply with the US  EU and US  Swiss Safe Harbor Frameworks for protecting the privacy of data flowing from the EU and Switzerland to the United States, as set forth by the US Department of Commerce. 
+We comply with the US, EU, and US Swiss Safe Harbor and EU-US Privacy Shield Frameworks for protecting the privacy of data flowing from the EU and Switzerland to the United States, as set forth by the US Department of Commerce. 
 
-We frequently enter agreements with our EU customers to provide them access to our Service, which includes the processing of information relating their customers. In providing our Service, we do not own, control or direct the use of the information stored or processed on our platform at the direction of our customers, and in fact we are largely unaware of what information is being stored on our platform and only access such information as reasonably necessary to provide the Service (including to respond to support requests), as otherwise authorized by our customers or as required by law. We are the data processors and not the data controllers of the information on our platform for purposes of the EU Directive on Data Protection (Directive 95/46/EC) and the Swiss Federal Act on Data Protection. Our EU or Swiss based customers, who control their customer data and send it to Convert Insights Inc. products for processing, are the controllers of that data and are responsible for compliance with the Directive. In particular, our customers are responsible for complying with the Directive and relevant data protection legislation in the relevant EU member state before sending personal information to Convert Insights Inc. for processing. We work with our customers to help them provide notice to their customers concerning the purpose for which personal information is collected. 
+We frequently enter agreements with our EU customers to provide them access to our Service, which includes the processing of information relating their customers. In providing our Service, we do not own, control or direct the use of the information stored or processed on our platform at the direction of our customers, our client’s website visitor data is stored in Frankfurt Germany, our client data (logins, marketing and email data as well as our CRM are stored in the US. We are largely unaware of what information is being stored on our platform and only access such information as reasonably necessary to provide the Service (including to respond to support requests), as otherwise authorized by our customers or as required by law. We are the data processors and not the data controllers of the information on our platform for purposes of the EU Directive on Data Protection (Directive 95/46/EC) and the Swiss Federal Act on Data Protection. Our EU or Swiss based customers, who control their customer data and send it to Convert Insights Inc. products for processing, are the controllers of that data and are responsible for compliance with the Directive. In particular, our customers are responsible for complying with the Directive and relevant data protection legislation in the relevant EU member state before sending personal information to Convert Insights Inc. for processing. We work with our customers to help them provide notice to their customers concerning the purpose for which personal information is collected. 
 
 As the processors of personal information on behalf of our customers, we follow their instructions with respect to the information they control to the extent consistent with the functionality of our Service. In doing so, we implement technical, physical and administrative measures against unauthorized processing of such information and against loss, destruction of, or damage to, personal information as more fully described above under Protection of Information. 
 
-To learn more about the Safe Harbor program, and to view Convert Insight’s certification, please visit [Export.gov](http://www.export.gov/safeharbor/ "Safe Harbor Certification"). 
+To learn more about the Safe Harbor program, and to view Convert Insight’s certification, please visit [Export.gov](http://www.export.gov/safeharbor/ "Safe Harbor Certification")
 
-[](http://safeharbor.export.gov/companyinfo.aspx?id=25842 "Safe Harbor Certification")
+While the validity of the U.S. – E.U. Safe Harbor framework has been recently rejected by the EU Court of Justice and EU-US Privacy Shield yet to be implemented and tested, Convert Insights continues to adhere to its core principles, solely as a supplementary measure for further protecting and enhancing our Visitors’ and Users’ privacy (and without derogating from our commitment to follow all applicable legal requirements). If you have any questions about our Safe Harbor participation, please contact us using the information below.
+
+[We Self-Certify Compliance with:](https://safeharbor.export.gov/list.aspx "Self Certification")  
+[](http://www.export.gov/safeharbor "Safe Harbor Certification")
 
 ### Basically
 
@@ -82,7 +85,7 @@ Each of our clients is invited to place an opt-out link on their website that ma
 
 ### Basically
 
-We allow opt-out per client or for all our services
+We allow opt-out per client or for all our services.
 
 ### HOW CAN OUR CLIENTS UPDATE THEIR PROFILES?
 
@@ -90,7 +93,7 @@ Our clients can help us maintain the accuracy of their profiles by notifying us 
 
 ### Basically
 
-Keep your client profile up to date
+Keep your client profile up to date.
 
 ### WHAT ELSE SHOULD YOU KNOW ABOUT OUR PRIVACY POLICY AND PRACTICES?
 
@@ -100,7 +103,7 @@ Links to Other Sites. Our Site contains hyperlinks and pointers to Internet site
 
 ### Basically
 
-We work hard to keep you and your clients anonymous
+We work hard to keep you and your clients anonymous.
 
 ### CHANGES TO THIS PRIVACY POLICY
 
@@ -108,7 +111,7 @@ We may make changes in our privacy policy from time to time. When we do so, we w
 
 ### Basically
 
-We update this privacy policy monitor it well
+We update this privacy policy monitor it well.
 
 ### CONTACTING CONVERT INSIGHTS
 
@@ -124,14 +127,14 @@ Your use of our Site, including any dispute concerning privacy, is subject to th
 
 ### Basically
 
-By using the site you agree to this privacy policy
+By using the site you agree to this privacy policy.
 
 ### EFFECTIVE DATE
 
-The effective date of this version of the privacy policy is November 20, 2009. This privacy policy was last revised on December 12, 2014.
+The effective date of this version of the privacy policy is November 20, 2009. This privacy policy was last revised on December 9, 2015.
 
 ### Basically
 
-We are around since 2009 so is this privacy policy
+We are around since 2009 so is this privacy policy.
 
 Scroll
