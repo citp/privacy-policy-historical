@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the amf.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212182736id_/http%3A//www.amf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amf.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529132720id_/https%3A//www.amf.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The AMF Bowling Co.
 
-Bowlmor AMF Corp, AMF Bowling Centers Inc. d/b/a Bowlmor AMF Centers, its affiliates and its properties ("Company" or "we," "our," or "us") respects the privacy of our users. This Privacy Policy will tell you how and what information we may receive about you, and how we may use your information when providing you our tools, products and services. Please read this Privacy Policy carefully. Please consult our **[Terms of Use Agreement](https://web.archive.org/terms.aspx "Terms")** for additional terms and conditions that apply to your use of and access to the Site.
+Bowlmor AMF Corp, AMF Bowling Centers Inc. d/b/a Bowlmor AMF Centers, its affiliates and its properties ("Company" or "we," "our," or "us") respects the privacy of our users. This Privacy Policy will tell you how and what information we may receive about you, and how we may use your information when providing you our tools, products and services. Please read this Privacy Policy carefully. Please consult our **[Terms of Use Agreement](https://web.archive.org/web/20160529132720id_/https%3A//www.amf.com/terms "Terms")** for additional terms and conditions that apply to your use of and access to the Site.
 
 ## 1\. How this Privacy Policy Applies
 
@@ -108,7 +108,7 @@ This Privacy Policy does not apply to content, business information, ideas, conc
 
 We may receive information about you or others on your behalf under this policy and create de-identified data to help us in our business and operations and for purposes permitted under law. De-identified data will never contain Personal Information protected by law. De-identified data may be transferred, disclosed, assigned, leased, licensed, sold and otherwise shared with and by our partners, service providers, advertisers and/or other third parties for purposes permitted under law.
 
-## 5\. Children
+5\. Children
 
 We are committed to protecting the privacy of children. Neither Company nor any of its services are designed or intended to attract children under the age of 13. We do not collect Personal Information from any person we actually know is under the age of 13. Although not recommended, a parent or guardian, however, may use our Web Sites for the benefit of a minor. The parent or guardian is solely responsible for providing supervision and care of the use for the benefit of such minor. The parent or guardian assumes full responsibility for ensuring that any information shared is kept secure and that the information submitted is accurate. The parent or guardian also assumes full responsibility for the interpretation and use of any information or tools provided through us.  Any parent or guardian may review and delete such information by contacting us at the information below. 
 
@@ -118,7 +118,7 @@ Any Personal Information you provide to us is kept on secure servers. We use com
 
 We update and test our security technology on an ongoing basis. We restrict access to your Personal Information to our personnel who need to know that information to provide benefits or services to you.  In addition, we train our personnel about the importance of confidentiality and maintaining the privacy and security of your Personal Information. We commit to taking appropriate disciplinary measures to enforce our privacy responsibilities, however we make no representation, warranty or guarantee on the reliability, sufficiency, suitability, quality, completeness, adequacy, or currency of any security practices.  Transmission of information through mail, email, SMS or other means may not always be secure though we use commercially reasonable measures to secure delivery. 
 
-## 7\. Accessing and Updating Your Personal Information
+7\. Accessing and Updating Your Personal Information
 
 To access, review, rectify, or delete Personal Information collected about you, please contact us. All requests must include the following information: first name, last name, e-mail address, and known location of Personal Information controlled by us. While we try our best to accommodate your request, we reserve the right to impose certain restrictions and requirements on such access requests, if allowed or required by applicable laws, and not all information is removable.
 
