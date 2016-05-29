@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digiads.com.au privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107073827id_/http%3A//digiads.com.au/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digiads.com.au privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529090616id_/http%3A//digiads.com.au/legal/privacy.html) for the most accurate reproduction.*
 
 # DIGIADS Privacy Policy
 
