@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dayoftheweek.org privacy policy that was archived on 2015-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150711102754id_/http%3A//www.dayoftheweek.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dayoftheweek.org privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529133240id_/http%3A//www.dayoftheweek.org/privacy.php) for the most accurate reproduction.*
 
 # What Day Of The Week: Privacy Policy
 
