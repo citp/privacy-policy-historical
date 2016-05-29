@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pantagraph.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212190830id_/http%3A//www.pantagraph.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pantagraph.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529175142id_/http%3A//pantagraph.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | pantagraph.com
 
 Welcome to the web sites and mobile applications of The Pantagraph. We (which includes our parent company, Lee Enterprises, Incorporated) believe in your right to know what information is collected during your visit to our web sites, mobile sites, mobile applications, and other applications (collectively, "Services"), and to any services that display this notice and how that information is used and safeguarded.
 
