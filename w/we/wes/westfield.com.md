@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the westfield.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120074756id_/http%3A//www.westfield.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westfield.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529100333id_/https%3A//www.westfield.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 **_PRIVACY POLICY_**
 
@@ -96,7 +96,7 @@ This Privacy Policy does not apply to any Personal Data collected by Westfield o
   
 **_Children:_**
 
-Westfield does not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data to Westfield. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to Westfield, please contact us at  **[usprivacy@westfield.com](https://web.archive.org/usprivacy@westfield.com)** , and we will delete that information from our databases.
+Westfield does not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data to Westfield. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to Westfield, please contact us at  **[usprivacy@westfield.com](mailto:usprivacy@westfield.com)** , and we will delete that information from our databases.
 
   
 **_Links to Other Websites:_**
@@ -138,7 +138,7 @@ TRUSTe Privacy Program_**
 Westfield has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program only covers information that may be collected on  **[www.westfield.com](http://www.westfield.com/)** , **[www.bespokesf.co,](http://www.bespokesf.co/)**  their subdomain, and optimized versions of these websites for mobile phones and our mobile applications “Westfield US” and “Dine on Time,”
 
   
-If you have questions or complaints regarding our privacy policy or practices, please contact us at  **[usprivacy@westfield.com](https://web.archive.org/usprivacy@westfield.com)**  or at the address listed below. If you are not satisfied with our response, you can contact TRUSTe at ** <https://feedback-form.truste.com/watchdog/request>**.
+If you have questions or complaints regarding our privacy policy or practices, please contact us at  **[usprivacy@westfield.com](mailto:usprivacy@westfield.com)**  or at the address listed below. If you are not satisfied with our response, you can contact TRUSTe at ** <https://feedback-form.truste.com/watchdog/request>**.
 
   
 Please click  **[here](http://www.truste.com/about-TRUSTe/contact-us)**  for fax and postal mail information. TRUSTe's Dispute Resolution process is only available in English.
@@ -147,7 +147,7 @@ Please click  **[here](http://www.truste.com/about-TRUSTe/contact-us)**  for f
 **_Access to Information and Choice; Contacting Westfield:_**
 
   
-If your personal information changes you may email us to have it corrected, updated, amended, or removed at [ **usprivacy@westfield.com**](https://web.archive.org/usprivacy@westfield.com) or send the inquiry by postal mail at the address listed below. We will respond to your request to access within 30 days of submission.
+If your personal information changes you may email us to have it corrected, updated, amended, or removed at [ **usprivacy@westfield.com**](mailto:usprivacy@westfield.com) or send the inquiry by postal mail at the address listed below. We will respond to your request to access within 30 days of submission.
 
 **Data Retention:  **We will retain your information including geo-location for as long as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -160,4 +160,4 @@ Westfield Labs Corporation
 San Francisco, CA 94103  
 United States of America  
 Attention: Director of Privacy  
-Email:  **[usprivacy@westfield.com](https://web.archive.org/usprivacy@westfield.com)**
+Email:  **[usprivacy@westfield.com](mailto:usprivacy@westfield.com)**
