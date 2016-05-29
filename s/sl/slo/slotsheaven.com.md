@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slotsheaven.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105030103id_/http%3A//www.slotsheaven.com/about/security-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slotsheaven.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529121437id_/http%3A//www.slotsheaven.com/about/security-privacy.html) for the most accurate reproduction.*
 
 # Security & Privacy | Slots Heaven
 
@@ -54,6 +54,10 @@ The services provided on this website are not intended for or directed to minors
 **Transfer outside the European Union**
 
 It may be necessary to transfer your personal information to other companies within the Group located in countries outside the European Union. This may happen if any of our servers or members of the Group are located or based outside the European Union, if you use our services and products while visiting countries outside the European Union or if we transfer your personal information to such companies for purposes regarding which you will receive advance notice. The data protection, privacy and other laws of these non-European Union countries may not be as comprehensive and in these instances we will take steps to ensure that a similar level of protection is given to your information. We reserve the right to amend or modify this Privacy Policy at any time and in response to changes in applicable data protection and privacy legislation applicable to the Group. By submitting your personally identifiable information to us you consent to the use of that information as set out in this Privacy Policy. If we change our Privacy Policy we will post the changes on this page, and may place notices on other pages of the website, so that you may be aware of the information we collect and how we use it at all times. Continued use of the service will signify that you agree to any such changes made so please check this page regularly.
+
+**Anti Money Laundering Obligations**
+
+Please note that as a licensed operator under both the UK and Gibraltar jurisdictions, we are legally obliged to comply with European and International Anti Money Laundering laws and regulations. These obligations require us to carry out certain tasks including but not limited to: screening for Politically Exposed Persons (‘PEPs’), Sanction List screening, monitoring of account activity to guard against potential money laundering risks, reporting of suspicious activity to the relevant financial crime authorities, etc. It also means that we are required to retain all customer records for a minimum of 5 years after the relationship between the customer and us has ended. This information is retained securely and confidentially at all times, where we comply with the highest standard of Information Security, being the ISO 27001 certification. Please contact customer support for more details.
 
 **Contact us**
 
