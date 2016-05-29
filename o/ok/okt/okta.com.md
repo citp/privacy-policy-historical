@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the okta.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117225703id_/https%3A//www.okta.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okta.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529091118id_/https%3A//www.okta.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Okta
 
@@ -127,7 +127,7 @@ Bizible Marketing Analytics is a plug-in that helps companies make decisions by 
 
 | 
 
-[Privacy Policy](https://web.archive.org/web/20151117225703id_/https://www.okta.com/privacy-policy/privacy.truste.com/privacy-seal/bizible/validation?rid=967717e3-83b4-4d65-8ef3-f2d979cd8b4a)  
+[Privacy Policy](http://privacy.truste.com/privacy-seal/bizible/validation?rid=967717e3-83b4-4d65-8ef3-f2d979cd8b4a)  
   
 Formisimo.com
 
@@ -141,7 +141,7 @@ Formisimo is a web analytics tool that helps website owners understand how their
 
 | 
 
-[Privacy Policy](https://web.archive.org/web/20151117225703id_/https://www.okta.com/privacy-policy/www.formisimo.com/privacy-policy)  
+[Privacy Policy](http://www.formisimo.com/privacy-policy)  
   
 New Relic Inc.
 
@@ -155,7 +155,7 @@ The JSESSIONID cookie is used to store a session identifier so that New Relic ca
 
 | 
 
-[Privacy Policy](https://web.archive.org/web/20151117225703id_/https://www.okta.com/privacy-policy/newrelic.com/privacy)  
+[Privacy Policy](http://newrelic.com/privacy)  
   
 ### Targeting and Advertising Cookies are used for marketing purposes.
 
@@ -183,12 +183,13 @@ Okta
 
 | 
 
-  * ret_okta_vis_o14
+  * _okta_trk
   * _okta_dom
+  * _okta_cvent
 
 | 
 
-These cookies allows Okta to deliver different content based on your visitor status.
+These cookies allows Okta to deliver different content based on your visitor status and provide extra functionality.
 
 | 
 
@@ -202,11 +203,11 @@ AdRoll (Semantic Sugar)
 
 | 
 
-AdRoll provides interest-based advertisements to show our ads on other websites. The technology to do this is made possible by cookies and as such we may place a so called “remarketing cookie” during your visit. The whole process is entirely anonymous. [Opt Out.](https://web.archive.org/web/20151117225703id_/https://www.okta.com/privacy-policy/info.evidon.com/pub_info/573?v=1&nt=1&nw=false)
+AdRoll provides interest-based advertisements to show our ads on other websites. The technology to do this is made possible by cookies and as such we may place a so called “remarketing cookie” during your visit. The whole process is entirely anonymous. [Opt Out.](http://info.evidon.com/pub_info/573?v=1&nt=1&nw=false)
 
 | 
 
-[Privacy Policy](https://web.archive.org/web/20151117225703id_/https://www.okta.com/privacy-policy/www.adroll.com/about/privacy)  
+[Privacy Policy](http://www.adroll.com/about/privacy)  
   
 DoubleClick by Google
 
@@ -220,7 +221,7 @@ DoubleClick uses cookies to improve advertising. Some common applications are to
 
 | 
 
-[Privacy Policy](https://web.archive.org/web/20151117225703id_/https://www.okta.com/privacy-policy/www.google.com/policies/privacy/)  
+[Privacy Policy](http://www.google.com/policies/privacy/)  
   
 We use some third party services. These services may place cookies on your device to gather, for example usage information and session preferences. We do not have control over the cookies these services may set in order to make their service run properly or the cookies they may set to collect usage and preferences.
 
@@ -248,7 +249,7 @@ Vimeo sets a number of cookies on any page that embeds a Vimeo video. While we h
 
 | 
 
-[Privacy Policy](https://web.archive.org/web/20151117225703id_/https://www.okta.com/privacy-policy/vimeo.com/cookie_policy)  
+[Privacy Policy](http://vimeo.com/cookie_policy)  
   
 Jobvite
 
@@ -263,7 +264,7 @@ Jobvite uses beacons to track the status of sent emails, including job invitatio
 
 | 
 
-[Privacy Policy](https://web.archive.org/web/20151117225703id_/https://www.okta.com/privacy-policy/recruiting.jobvite.com/privacy-policy/)  
+[Privacy Policy](http://recruiting.jobvite.com/privacy-policy/)  
   
 Google Inc. (maps)
 
@@ -298,7 +299,21 @@ IP2Location is a geo IP solution to help Web developers to identify visitor's ge
 
 | 
 
-[Privacy Policy](https://web.archive.org/web/20151117225703id_/https://www.okta.com/privacy-policy/www.iplocationtools.com/privacy-policy.html)  
+[Privacy Policy](http://www.iplocationtools.com/privacy-policy.html)  
+  
+MaxMind
+
+| 
+
+  * ip2l_c
+
+| 
+
+MaxMind use GeoIP intelligence for content personalization, ad targeting, traffic analysis, digital rights management, and more.
+
+| 
+
+[Privacy Policy](https://www.maxmind.com/en/privacy_policy)  
   
 caniuse.com
 
@@ -320,7 +335,7 @@ Influitive AdvocateAnywhere cookies are used to track the current user submittin
 
 | 
 
-[Privacy Policy](https://web.archive.org/web/20151117225703id_/https://www.okta.com/privacy-policy/influitive.com/privacy/)  
+[Privacy Policy](http://influitive.com/privacy/)  
   
 Our Web site includes Social Media Features, such as the Facebook Like button, LinkedIn button, Twitter and “Share This” widget. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
@@ -372,7 +387,7 @@ Below are instructions on how to opt out of all cookies via your web browser. Pl
 
 Chrome: [Opt Out](https://support.google.com/chrome/answer/95647?hl=en&ref_topic=3421433)
 
-Explorer: [Opt Out](https://web.archive.org/web/20151117225703id_/https://www.okta.com/privacy-policy/windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies#ie=ie-11)
+Explorer: [Opt Out](http://windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies#ie=ie-11)
 
 Firefox: [Opt Out](https://support.mozilla.org/en-us/kb/delete-browsing-search-download-history-firefox?redirectlocale=en-us&redirectslug=remove-recent-browsing-search-and-download-history)
 
@@ -392,21 +407,21 @@ Okta’s website includes Social Media Features, such as the Facebook and Twitte
 
 Okta will retain Personal Information they process on behalf of Visitors for as long as needed to provide website services to Visitors. Okta will retain and use this Personal Information as necessary to comply with legal obligations, resolve disputes, and enforce our agreements.
 
-Okta may amend or update this policy from time to time. The most current version of this privacy policy at any time at <http://www.okta.com/privacy>. Use of information collected is subject to the Privacy Policy in effect at the time such information is used. If Okta makes material changes in the way they use Personal Information, they will notify Visitors by posting an announcement on the Website or sending an email prior to the change becoming effective. A Visitors continued use of the Okta website following any such change constitutes agreement to be bound by such changes to the privacy policy. The only remedy, if a Customer does not accept the terms of this privacy policy, is to discontinue use of the Okta website.
+Okta may amend or update this policy from time to time. The most current version of this privacy policy at any time at [http://www.okta.com/privacy](https://www.okta.com/privacy-policy). Use of information collected is subject to the Privacy Policy in effect at the time such information is used. If Okta makes material changes in the way they use Personal Information, they will notify Visitors by posting an announcement on the Website or sending an email prior to the change becoming effective. A Visitors continued use of the Okta website following any such change constitutes agreement to be bound by such changes to the privacy policy. The only remedy, if a Customer does not accept the terms of this privacy policy, is to discontinue use of the Okta website.
 
-Users may update their Personal Information by editing their user information in the Service. If you're a Visitor and your Personal Information changes, or if you no longer desire information on our Service, you may have your Personal Information updated or removed from our records by emailing [accounta@okta.com](https://web.archive.org/web/20151117225703id_/https://www.okta.com/privacy-policy/accounts@okta.com) or by contacting us by telephone or postal mail at the contact information listed below.
+Users may update their Personal Information by editing their user information in the Service. If you're a Visitor and your Personal Information changes, or if you no longer desire information on our Service, you may have your Personal Information updated or removed from our records by emailing [accounts@okta.com](mailto:accounts@okta.com) or by contacting us by telephone or postal mail at the contact information listed below.
 
 We will respond to your request within 30 days.
 
   * As stated previously, you can always opt not to disclose information, even though it may be needed to take advantage of or register for certain features of the Services.
-  * You may request deletion of your Okta account by sending an e-mail to [accounts@okta.com](mailto:accounts@okta.com). 
-  * If you do not wish to receive email or other mail from us, please indicate this preference during the registration process, by changing your account settings, following the unsubscribe mechanism within the message or by notifying us at [accounta@okta.com](https://web.archive.org/web/20151117225703id_/https://www.okta.com/privacy-policy/accounts@okta.com). Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Website, and you are responsible for reviewing such legal notices for changes.
+  * You may request deletion of your Okta account by sending an e-mail to [accounts@okta.com](mailto:accounts@okta.com)
+  * If you do not wish to receive email or other mail from us, please indicate this preference during the registration process, by changing your account settings, following the unsubscribe mechanism within the message or by notifying us at [accounts@okta.com](mailto:accounts@okta.com). Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Website, and you are responsible for reviewing such legal notices for changes.
 
 
 
-We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you wish to update or delete your testimonial, you can contact us at [info@okta.com.](https://web.archive.org/web/20151117225703id_/https://www.okta.com/privacy-policy/info@okta.com)
+We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you wish to update or delete your testimonial, you can contact us at [info@okta.com.](mailto:info@okta.com)
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [info@okta.com](https://web.archive.org/web/20151117225703id_/https://www.okta.com/privacy-policy/info@okta.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [info@okta.com](mailto:info@okta.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 Our Web site includes Social Media Features, such as the Facebook and Twitter buttons and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
@@ -420,7 +435,7 @@ Okta will retain Personal Information we process on behalf of our customers for 
 
 Okta may amend or update this policy from time to time. You can review the most current version of this privacy policy at any time at <http://www.okta.com/privacy/index.html>. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make material changes in the way we use Personal Information, we will notify you by posting an announcement on the Website or sending you an email prior to the change becoming effective. Your continued use of the Services following any such change constitutes your agreement to be bound by such changes to the privacy policy. Your only remedy, if you do not accept the terms of this privacy policy, is to discontinue use of the Services.
 
-If you have any questions about this Privacy Policy or this Web site, please contact us directly at: [info@okta.com](mailto:info@okta.com). Written inquiries may be addressed to:
+If you have any questions about this Privacy Policy or this Web site, please contact us directly at: [info@okta.com](mailto:info@okta.com). Written inquiries may be addressed to:
 
 Okta, Inc.,  
 Chief Security Officer,  
