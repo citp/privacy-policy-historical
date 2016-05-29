@@ -1,41 +1,61 @@
-> *The following text is extracted and transformed from the infosalons.biz privacy policy that was archived on 2015-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150822131422id_/http%3A//www.infosalonsgroup.com/privacy-policy-3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infosalons.biz privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529163949id_/http%3A//infosalonsgroup.com/privacy-policy-3) for the most accurate reproduction.*
 
 # Info Salons Privacy Policy
 
-Info Salons Australia Pty Ltd complies with all aspects of the Australian Government’s Australian Privacy Principles to ensure the confidentiality of any personal information collected.
+### We are a registration technology and online platform for trade show professionals.
 
-Specifically:
+Info Salons Group’s mission is to deliver exceptional experience to event attendees. We collect qualified trade buyer registrations on behalf of the organiser of the events where we are engaged. Registrants have the potential to share their professional identities, engage with their network, exchange knowledge and professional insights, post and view relevant content, within the event community. We do not own any of the data we collect. The ownership of the data collected lies with the organiser of the event.
 
-  * Transparency – information collected is managed according to our privacy policy which is reviewed regularly as part of our ISO 9001:2008 certification
-  * Anonymity & pseudonymity – it is impracticable for individuals to remain anonymous to facilitate their entry to events however every attempt will be made to ensure anonymity where applicable. No Commonwealth or State identifies are collected or used.
-  * Collection – personal information is only collected to ensure entry to relevant events and subsequent contact by event organisers; such information will only be collected lawfully and by fair means. Sensitive information is not normally collected and it will not be collected unless specifically agreed to by the relevant individual
-  * Unsolicited personal information – any information collected which falls outside of what was requested will be deleted
-  * Notification – individuals are notified of the intent of collection at the point of registering for an event
-  * Use and disclosure – information will only be used to ensure entry to events, access to the ‘Tracker’ System and subsequent contact by the event organisers
-  * Direct Marketing – a simple opt out option will be made available in communications you receive from Info Salons.  Any information which is received from a third party will only be used in Info Salons’ direct marketing for our trackers with the individual’s prior consent and can only be accessed by info Salons authorised personnel.
-  * Cross–border disclosure – no information will be transferred internationally unless absolutely necessary for entry to an event in that country
-  * Data quality – every attempt will be made to ensure any data collected will be accurate, complete and current
-  * Data security – every attempt will be made to protect data from misuse, loss or unauthorised use
-  * Access and correction – we encourage personal information to be updated and any information collected to be available to the individual concerned
+### We protect your personal information using industry-standard safeguards.
+
+Maintaining your trust is a top priority, and we adhere to the following principles to protect your privacy:
+
+  * We collect your trade information on behalf of the organiser of the event that you are registering for, and will provide it to the organiser of the event pre-event, during and after the close of the event.
+  * We protect your personal information and will only provide it to third parties: (1) with your consent; (2) where it is necessary to carry out your instructions; or (3) as reasonably necessary in order to provide our features and functionality to you.
+  * We have implemented appropriate security safeguards designed to protect your information in accordance with industry standards.
 
 
 
-These Australian Privacy Principles are supported through procedures documented in the Company’s Quality Management System and assured through training of staff and internal auditing of relevant procedures.
+Our Privacy Policy applies to all our products, services & applications.
 
-Event organisers and ‘Tracker’ holders are required to embrace the Australian Privacy Principles and intent of this Policy Statement prior to any disclosure of personal information.
+Our Privacy Policy applies to any registrant, including but not limited to delegates, visitors, exhibitors and media. We collect information when you use our services to offer you a personalised and relevant experience, including growing your network and enabling business opportunities within and after the event. We do not own any of the data we collect. The ownership of the data collected lies with the organiser of the event.
 
-**Information related to data collected on Info Salons’ registration sites:**
+If you reside in Australia, then the personal information provided to or collected by our Services is controlled by Info Salons Australia Pty Ltd, 69-75 Reservoir St, Surry Hills, NSW 2010. If you reside outside Australia, then this personal information is controlled by either Info Salons China or Info Salons Middle East respectively.
 
-Info Salons collects data on behalf of and under instruction from its Clients.  Info Salons will only use the information collected on their behalf for the purpose of providing additional information on events for which the customer is registered and has provided consent.
+**If you have any concern about providing information to us or otherwise used in any manner permitted in this Privacy Policy and the User Agreement, you should not register for an event or otherwise use our Services.**
 
-Info Salons has no direct relationship with the individuals whose personal data is captured.  As such, if you no longer wish to be contacted by one of our Clients for whom we collect data, you will need to contact that particular Client direct.
+** ** If you have already registered, you can approach the organiser of the event and ask to be deleted from their databases.
 
-Similarly should you wish to amend, correct or delete your data, you would need to contact our Client direct.
+### We collect your personal information in the following ways:
 
-Info Salons retains personal data collected on behalf of our Clients for as long as our service is required by the Client and/or as necessary to comply with legal obligations.
+### Registration
 
-The Directors fully endorse this policy statement and it is the responsibility of management to ensure it is understood, implemented and maintained at all levels within Info Salons.
+To register for an event, you must provide us with at least your name, email address and/or mobile number, and a password. You understand that, by registering for an event, you automatically agree to our User Agreement and Privacy Policy, which governs how we treat your information. You may provide additional information during the registration flow (for example, your postal code, job title, and company) to help you build your profile and to provide you more customized services (for example: language-specific profile pages, updates, content, and more relevant exhibitor & session information). You understand that, by registering for an event, we and others will be able to identify you by your registration profile. We may also ask for your credit card details if you purchase certain services.
 
-Please direct any privacy concerns to PrivacyOfficer@infosalonsgroup.com.
+### Profile Information
 
-**12 March 2014**
+While registering for an event, you may choose to provide additional information by accessing your LinkedIn, Twitter, or Facebook profiles, or answering further profile questions such as descriptions of your skills, professional experience, and industry product information. Subject to the privacy questions you choose, your information may be displayed to other registrants for the event. Providing additional information enables you to derive more benefit from our Services by helping you and other professionals, opportunities and information relevant to the event.
+
+### Other Services That Sync with our Registration
+
+We may use this information to enhance your experience with our Services by helping you to grow your network by: identifying your contacts that are already registrants of the event; providing a template to send invitations on your behalf to your contacts that are not registrants; and suggesting people you may know (even if not in your contacts) but are not yet connected with you (as we may infer from your shared connections or shared managers, employers, educational institutions and other such factors).
+
+Please note that when you send an invitation to connect to another individual on our Service (a “connection”) or to join our Service to connect with you, that person may have access to your email address or, for SMS invitations, mobile number because it may be displayed in the invitation. After sending these invitations, we may also remind your invitees of your invitation on your behalf.
+
+We make other tools available to exhibitors of the event. For example, our tracker devices and InfoTracker mobile application allows exhibitors to scan your name badge to obtain information from your registration profile. If you do not want exhibitors or other attendees to gain information regarding your registration, do not allow them to scan your name badge at the event.
+
+Another example are software tools that allow you to see other public information about the people engage with during the event to help you gain insights from and grow your network. If you grant these products (our Services or other third party services such as the event mobile app) permission to access your registration profile, they will access and may store some of your information.
+
+Any information that you upload or sync with our Services is covered by this User Agreement and Privacy Policy. You can remove your information at your convenience using the features we make available or in accordance with the organiser’s individual privacy policies.
+
+### Data Processing Outside Your Country
+
+### We may process your information outside the country where you live.
+
+We may transfer your information and process it outside your country of residence, wherever Info Salons Group and/or its affiliates and service providers operate.
+
+**For further information please**[ **email**](mailto:privacyofficer@infosalons.com.au) **with your query.**
+
+For further information [click here.](http://www.infosalonsgroup.com/wp-content/uploads/2014/11/Data-Collection-Privacy-Policy.pdf)
+
+March 2016
