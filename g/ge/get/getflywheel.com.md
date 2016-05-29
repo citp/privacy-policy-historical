@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getflywheel.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906071847id_/https%3A//getflywheel.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getflywheel.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529043602id_/https%3A//getflywheel.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Flywheel | Privacy Policy
 
