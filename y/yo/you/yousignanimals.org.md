@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yousignanimals.org privacy policy that was archived on 2015-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150715105129id_/http%3A//www.yousignanimals.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yousignanimals.org privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529162059id_/http%3A//www.yousignanimals.org/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | YouSignAnimals.org
+# Privacy Policy
 
 ## Introduction
 
@@ -17,6 +17,12 @@ We may collect non-personal identification information about Users whenever they
 ## Web browser cookies
 
 Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners.
+
+By continuing to use our website without changing the settings, you are agreeing to our use of cookies.
+
+For more information about your rights please read the [European ePrivacy Directive](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0058:EN:HTML). 
 
 ## How we use collected information
 
@@ -55,6 +61,10 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
+## Facebook Ads
+
+Some of the ads may be served by Facebook Audience Network. You may opt out of the use of targeting for this ads by visiting: [AD Choices](https://m.facebook.com/ads/ad_choices)
+
 ## Changes to this privacy policy
 
 YouSignAnimals.org has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
@@ -68,4 +78,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [YouSignAnimals.org](http://www.yousignanimals.org/) | [YouSignAnimals.org Contact Information](http://www.yousignanimals.org/contact.php)   
 [contact@yousignanimals.org](mailto:contact@yousignanimals.org)  
-This document was last updated on July 12, 2014
+This document was last updated on March 20, 2016
