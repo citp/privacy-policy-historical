@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the writeraccess.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026065511id_/http%3A//www.writeraccess.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writeraccess.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529061417id_/http%3A//www.writeraccess.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Content Marketplace - WriterAccess
 
@@ -8,7 +8,7 @@ If you have questions or concerns regarding this statement, you should first con
 
 ## Information We Collect
 
-WriterAccess.com is committed to helping match users who are seeking writing services ("Clients") to users who are providers of home or care services ("Writers"). Accordingly, we collect user submitted personally identifying information and other information specific to the services requested or provided. As part of providing you our services, we may obtain personal information from the following sources:
+WriterAccess.com is committed to helping match users who are seeking writing services ("Clients") to users who are providers of writing services ("Writers"). Accordingly, we collect user submitted personally identifying information and other information specific to the services requested or provided. As part of providing you our services, we may obtain personal information from the following sources:
 
   * Information you provide to us on forms that you enter on the Site or that you provide to us in writing.
   * Information that you provide to us by telephone, such as when you contact our customer care department.
