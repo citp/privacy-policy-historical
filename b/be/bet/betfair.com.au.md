@@ -1,147 +1,409 @@
-> *The following text is extracted and transformed from the betfair.com.au privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619230217id_/http%3A//www.betfair.com/AUS_NZL/aboutUs/Privacy.Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betfair.com.au privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529035011id_/https%3A//www.betfair.com.au/info/privacy-policy) for the most accurate reproduction.*
 
-# Betfair
+# Betfair - Privacy Policy
 
-## Betfair Privacy Policy
+This is the privacy policy ( **Privacy Policy** ) of Betfair Pty Limited (ACN 110 084 985) ( **Betfair** ). Betfair is an organisation that is covered by the _Privacy Act 1988_ (Cth) ( **Privacy Act** ) and must comply with the Australian Privacy Principles ( **APPs** ) contained in the Privacy Act.
 
-### Introduction
+This Privacy Policy explains how Betfair will manage your personal information and the personal information of your beneficial owners, agents or related third parties, which we collect as a result of you becoming a customer of Betfair, your use of Betfair's websites and any pages, websites and applications (together the **Website** ) that are owned and/or operated by Betfair or whenever you otherwise deal with Betfair.
 
-Betfair wants visitors to its website to know that we are just as concerned as you are about the privacy of any personal information that you may choose to provide us ("Personal Information"). In this respect we have invested heavily in providing a world class Information Security Management System, which has been accredited with ISO 27001 certification.
+In this Privacy Policy, personal information (as defined in the Privacy Act) means information or an opinion, whether true or not, and whether recorded in a material form or not, about an identified individual or an individual who is reasonably identifiable.
 
-Personal Information is any information about you and may include your name and address, date of birth, payment card details, details of betting transactions and account transfers and any other information you may wish to provide. Betfair is endeavouring to ensure that our business practices that involve the use of your Personal Information are compliant with privacy regulations in the countries where we operate. Accordingly, in this policy document (the "Privacy Policy"), Betfair wants not only to advise you of your privacy rights but also explain how we intend to respect them.
+This Privacy Policy explains how we manage your personal information, including:
 
-Any reference to "Betfair" or the "Group" within this Privacy Policy includes Betfair Group Plc and all or any of its direct or indirect subsidiary undertakings, joint venture partners, and their related companies wherever located in the world as may exist from time to time.
+  1. (a)
 
-### How is your Personal Information collected by our website?
+the kinds of personal information we collect and hold;
 
-Personal Information may be submitted on our website in two areas:
+  
 
-  1. #### Public Area
+  2. (b)
 
-If you do provide your name and address on the public area of this website in order to request information about our products and services, you may voluntarily provide additional personal information. You will be asked to provide your personal information in this area for the purposes of registering with Betfair and opening an account with us.
+how we collect and hold your personal information;
 
-  2. #### Private Area
+  
 
-If you are already one of our customers and have opened an account with us, you must use a password to enter the Betfair website. A "session cookie" is used to enable you to leave and re-enter our website without re-entering your password. Our web server will record the pages you visit within our website.
+  3. (c)
+
+how you may access your personal information held by us and have it corrected;
+
+  
+
+  4. (d)
+
+how you may complain about the way we deal with your personal information, and how we will deal with your complaint;
+
+  
+
+  5. (e)
+
+whether we will disclose your personal information to overseas recipients, and if so, the likely location(s) of those recipients.
 
 
+  
 
 
-To ensure a good quality of service we may monitor and record any communication you have with us whether in writing, by phone or by electronic mail. E-mail is not encrypted to / from either the public or private areas of this website. Betfair recommends that with the exception of your name and username/TAN you do not send us Personal Information by e-mail. Any information which you transmit to us is transmitted at your own risk.
+In using the Website you agree to be bound by the terms of this Privacy Policy. Betfair may review the Privacy Policy periodically and reserves the right to change the Privacy Policy at any time at its discretion. A new version of the Privacy Policy will be available on Betfair's Website ([betfair.com.au/info/privacy-policy](https://betfair.com.au/info/privacy-policy)) and it will apply to all of your personal information held by us at the time. By continuing to use the Website, you agree to these changes.
 
-### How we use Cookies on our Site and what Information we collect
+Betfair only collects personal information for purposes which are directly related to its functions or activities, and only when it is necessary for, or directly related to, such purposes.
 
-Betfair uses ‘cookies’ in order to provide you with a better experience. To find out more about cookies, please see our [Cookie Policy](https://web.archive.org/aboutUs/Cookie.Policy/).
+_Opening a Betfair Account_
 
-### How your Personal Information will be used?
+To open a Betfair Account, we require the following personal information from you:
 
-Betfair will process your Personal Information in order to allow you access and make use of our website, to allow you to participate in the services offered, to administer your account, to maintain our accounts and records, to monitor website usage levels and the quality of the service we provide and to inform you, from time to time, about products and services that we consider may interest you and for related purposes. If you do not wish to receive future marketing, promotional or sales material from Betfair, you may notify us that no further material be sent to you. Our contact details are located in the 'Contact Us' pages of our website. Betfair will as soon as reasonably practicable after receiving your request, remove your contact details from our marketing database.
+  1. •
 
-Betfair will also retain such information and may analyse it in order to investigate any actual or suspected criminal activity or, in respect of any event featured on our website, any threat to the integrity of that event and/or breaches of the rules of that event as laid down by the relevant governing (including sporting) bodies. All rights in the manner of recording your Personal Information held by Betfair (including copyright and database rights) are and shall remain its property.
+contact details (i.e. name, residential and email address, and telephone number);
 
-Telephone calls and betting data relating to users will be recorded and may be actively monitored for which purposes all users hereby consent.
+  
 
-### To whom and where personal information may be disclosed?
+  2. •
 
-Your Personal Information may, for the purposes described above, be transferred or disclosed to any company within the Group or, subject to appropriate agreement to third parties, for the processing of that Personal Information on our behalf. The Group may, from time to time, retain third parties to process your Personal Information for the purposes listed above and such processing will be governed by a contract in the form required by law.
+date of birth;
 
-Where required by law, your Personal Information may also be disclosed to an applicable governmental, regulatory, sporting or enforcement authority. Additionally, in circumstances where we deem it appropriate, your Personal Information may be disclosed to any regulatory authority (whether at the request of such authority or otherwise) which has issued Betfair with a gambling operating licence. Your Personal Information may also be disclosed to any regulatory or sporting body in connection with policing the integrity or enforcing the rules of a sport or game and/or prevention and detection of crime and with whom the Group has agreements (Memoranda of Understanding or "MOUs") from time to time for the sharing of such data and where the Group considers that there are reasonable grounds to suspect that you may be involved in a breach of such rules or the law, have knowledge of a breach of such rules or the law or otherwise pose a threat to the integrity of the relevant sport or game. Those bodies may then use your Personal Information to investigate and act on any such breaches in accordance with their procedures.
+  
 
-In connection with the above purposes it may be necessary, or a legal requirement, for Betfair to disclose information to entities located in countries outside the UK, Malta, the EU and Australia in each case in accordance with appropriate technical and organizational security measures. By agreeing to this policy, by use of the Betfair site or otherwise, you agree that Betfair may store and use historical data relating to you and your account(s) for the purposes outlined in this policy.
+  3. •
 
-Betfair has entered into MOUs with the following regulatory and/or sporting bodies:
+preferences that you have submitted (i.e. preferred username and preferred betting method);
 
-  * The British Horseracing Authority
-  * The Association of Professional Tennis Players
-  * The Darts Regulation Authority
-  * The International Cricket Council
-  * Cricket Australia
-  * The Rugby Football League
-  * The English Football Association
-  * The National Horseracing Authority of South Africa
-  * UEFA
-  * The Greyhound Board of Great Britain
-  * The Thoroughbred Racing Protective Bureau (US horseracing)
-  * Grand Slam Committee
-  * The Lawn Tennis Association
-  * The International Tennis Federation
-  * The WTA (Women's Professional Tennis)
-  * The Australian Football League
-  * The Rugby Football Union
-  * The British Darts Organisation
-  * The Royal Belgian Football Association
-  * The Irish Football Association
-  * The Turf Club (Irish horseracing)
-  * The Football Association of Ireland
-  * The Football Federation of Australia
-  * Racing Victoria Limited
-  * Racing Services Tasmania
-  * National Rugby League Limited
-  * Lawn Tennis Association of Australia Limited
-  * PGA Tour of Australasia Limited
-  * Deutscher Tennis Bund e.V (German Tennis)
-  * Racing and Wagering Western Australia
-  * Australian Rugby Union
-  * Harness Racing Queensland
-  * Thoroughbred Racing South Australia
-  * Greyhound Racing South Australia Limited
-  * Harness Racing South Australia
-  * Greyhound Racing New South Wales
-  * Racing New South Wales
-  * Harness Racing New South Wales
-  * The National Hockey League
-  * World Snooker Ltd
-  * Harness Racing Victoria
-  * Greyhound Racing Victoria
-  * The Tennis Integrity Unit
-  * Racing Queensland Limited
-  * New Zealand Racing Board
-  * Victorian Racing Integrity Commissioner
-  * Professional Squash Association
+  
+
+  4. •
+
+financial information (i.e. bank account, credit card details, credit history);
+
+  
+
+  5. •
+
+other identity verification information (i.e. driver's licence number, copy of driver's licence, occupation, certified copies of personal information);
+
+  
+
+  6. •
+
+the answer to your security question for telephone verification;
+
+  
+
+  7. •
+
+existing Betfair account number.
 
 
 
-Further MOUs may have been entered with other organizations the details of which are available on request.
 
-### Consent
+_Allowing you to use our Services_
 
-By providing your Personal Information and registering with us or logging on with us when you enter our website, you explicitly consent to the Group processing and disclosing your Personal Information for the purposes, and otherwise in the manner set out in this policy, or as otherwise provided in accordance with the Terms and Conditions. If you wish to qualify, vary, modify or limit your consent in relation to marketing communications or in circumstances where any processing of your data is likely to cause damage or distress or such other circumstances as the law allows then you may do so by notifying us in writing. Our contact details are located in the 'Contact Us' pages of our website.
+We collect the following activity information from you when you engage with our Website or otherwise use our services:
 
-### General information
+* •
 
-You may at any time request a copy of your Personal Information held by Betfair in accordance with subject access rules in the Data Protection Act 2004 (Gibraltar), the Privacy Act 1988 (Australia) and the Data Protection Act 2001 (Malta).
+information about the devices used to access our products and services;
 
-Betfair reserves the right to change the Privacy Policy including altering the purposes for which it processes your Personal Information. In the event that Betfair considers it appropriate to make any such change, the Privacy Policy will be updated and posted on our site. Your continued use of the site will constitute acceptance of those changes.
+  
 
-For full details about Group members, where they operate, or for a copy of your Personal Information or any other queries you may have about our Privacy Policy, please contact us. Again, our contact details are located in the 'Contact Us' pages of our website.
+* •
 
-## Special terms applicable only to customers from Germany
+the channel from which you accessed the Website;
 
-This Privacy Policy is to be modified for customers from Germany who are transferred by TSE Global to the [www.betfair.com](http://www.betfair.com/) website by the following provisions:
+  
 
-### TSE Global Limited
+* •
 
-Customers from Germany are given access to Betfair through TSE Global Limited, Waterfront, Hammersmith Embankment, Winslow Road, London W6 9HP, email [tseglobal@googlemail.com](mailto:tseglobal@googlemail.com) ('TSE Global'). TSE Global operates the [www.betfair.de](http://www.betfair.de/) website. Customers in Germany seeking to place bets on sporting events will be connected from this website to the [www.betfair.com](http://www.betfair.com/) website, which is operated by Betfair. TSE Global acts as an intermediary between you and Betfair.
+your responses to promotions, functions, giveaways and competitions;
 
-### Forwarding of customers by TSE Global
+  
 
-From [www.betfair.de](http://www.betfair.de/) you will get to [www.betfair.com](http://www.betfair.com/) on request. If you are already registered, you will also be taken from [www.betfair.com](http://www.betfair.com/) to the [www.betfair.de](http://www.betfair.de/) website. All personal information required for registration is exclusively collected and processed by Betfair.
+* •
 
-At the [www.betfair.com](http://www.betfair.com/) website, you are asked to enter your username and password. It is possible that your username and password contains personal information (e.g., if you have chosen your own name as your username). This information is exclusively collected and processed by Betfair.
+information about your utilisation and activity on our Website; 
 
-## Special terms applicable only to customers betting on australian events*
+  
 
-***Australian Event means an event that takes place on Australian soil and/or an event that is specifically identified in the relevant market information as being governed by Betfair's Australian licence.**
+* •
 
-Your Personal Information may also be disclosed to the Tasmanian Gaming Commission ("TGC") and such regulatory agencies as the TGC directs pursuant to the Gaming Control Act 1993 (Tasmania). Specifically any information relating to your use of our site may (at the TGC's direction) be monitored and recorded or otherwise provided to the following regulatory agencies:
+your wagering history and information.
 
-  * The TGC;
-  * The Director of Racing appointed under section 5 of the Racing Regulation Act 2004 (Tasmania);
-  * A Council within the meaning of the Racing Regulation Act 2004 (Tasmania); and
-  * Another person or body nominated by the TGC that either in Tasmania or elsewhere exercises powers or performs functions in respect of the conduct of racing or gaming.
+  
 
 
+We record all telephone conversations you make with us (including all bets, queries and disputes) for the purpose of security, investigations and for the purpose of complying with our licence requirements and the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_ (Cth) and the Anti-Money Laundering and Counter-Terrorism Financing Rules 2007 (Cth) (collectively, the **AML/CTF Act** ).
 
-NOTE: There may be restrictions placed your betting on Australian Events if you have not complied with Betfair's know your client ("KYC") processes. Further information can be found in the 'Help' pages of the website.
+We collect, use and disclose personal information of beneficial owners, their agents and connected third parties of our corporate and individual customers for compliance with the AML/CTF Act.
 
-© 2011 The Sporting Exchange Limited. All rights reserved. BETFAIR® is a registered trade mark of The Sporting Exchange Limited.
+Betfair will not collect sensitive information such as racial or ethnic origins, political opinions, criminal record, health information, religious and spiritual beliefs and sexual preferences or practices unless required by law (i.e. to maintain the integrity of our products and services and to maintain security).
+
+The AML/CTF Act may require us to collect sensitive information (for example, to verify your identity) and we may collect this from third parties. You will not be informed we have collected the sensitive information under this purpose only.
+
+Betfair will collect your personal information in order to:
+
+  1. •
+
+set-up an account with us and to allow you to access and make use of our Website;
+
+  
+
+  2. •
+
+allow you to participate in the products and services offered;
+
+  
+
+  3. •
+
+to administer your account;
+
+  
+
+  4. •
+
+maintain our accounts and records;
+
+  
+
+  5. •
+
+monitor Website usage levels and the quality of the service we provide;
+
+  
+
+  6. •
+
+inform you, from time-to-time, about products and services that we consider may interest you and for related purposes;
+
+  
+
+  7. •
+
+create aggregate data about customers through demographic profiling and statistical analysis of the database for market research and developing our products and services;
+
+  
+
+  8. •
+
+to market and advertise Betfair's offers and promotions;
+
+  
+
+  9. •
+
+to enable our related bodies corporate to market their products and services directly to you;
+
+  
+
+  10. •
+
+to enable third party business partners and sponsors to market their products and services to you from time-to-time;
+
+  
+
+  11. •
+
+to comply with Betfair's legal obligations including in relation to customer identity verification and reporting obligations imposed by the AML/CTF Act, its licensing obligations under the _Gaming Control Act 1993_ (Tas) and other applicable laws for taking appropriate action if Betfair has reason to suspect that unlawful activity or misconduct of a serious nature has been, is being, or may be engaged in, that relates to our functions and activities.
+
+
+
+
+Telephone calls and betting data relating to users will be recorded and may be actively monitored for the purposes set out above. 
+
+Betfair will collect your personal information by any of the following methods:
+
+  1. •
+
+directly from the individual via telephone, electronic form, Post Office, in person and hard copy form. For example, when you are completing your identify verification process or for a general enquiry;
+
+  
+
+  2. •
+
+from third parties such as related bodies corporate, business partners and affiliates such as Google, credit reporting bodies, the Australian Securities and Investments Commission and other service providers;
+
+  
+
+  3. •
+
+from other third parties including Australian sports / racing controlling bodies to enquire or assess suspicious activity on the Website;
+
+  
+
+  4. •
+
+from publicly available sources of information;
+
+  
+
+  5. •
+
+from our records of how you use and access Betfair's products and services.
+
+
+
+
+If you choose not to provide certain information about you, we may not be able to provide you with the products or services, or the level of service, with which we pride ourselves. 
+
+_Cookies_
+
+Betfair uses "cookies" in order to provide you with a better experience. Cookies are pieces of data sent by a website to your computer and stored on the hard drive. They allow the website to identify and interact with your computer.
+
+To find out more about cookies, please see the Betfair Group [Cookie Policy](http://www.betfair.com/AUS_NZL/aboutUs/Cookie.Policy/). 
+
+_Betfair and its Related Bodies Corporate_
+
+We may collect and disclose personal information to our related bodies corporate to:
+
+  1. •
+
+comply with the law, regulations and licence conditions applying to them;
+
+  
+
+  2. •
+
+send you marketing material directly; and
+
+  
+
+  3. •
+
+analyse your wagering practices to tailor products and services to you.
+
+
+
+
+_How Betfair will hold your personal information_
+
+Betfair may store your information in hard copy or electronic format, or in storage facilities that we own and operate, or are owned and operated by third party service providers under contract.
+
+When registering an account with Betfair, you may choose to receive promotional or marketing information from Betfair (and its related bodies corporate) by selecting the appropriate option on the registration page. By opting-in to receive direct marketing material, Betfair (and its related bodies corporate), may use your personal information to inform you about products or services or about promotional activities which Betfair believes may be of interest or of benefit to you. Betfair (and its related bodies corporate) may do this via email, SMS, MMS, telephone, mail or any other form of electronic or internet communication.
+
+If you no longer wish to receive marketing or promotional material from Betfair at all or in any particular form, you may:
+
+  1. •
+
+simply select to opt-out (i.e. unsubscribe) of receiving any further marketing material at the bottom of the page of the marketing communication you have received; or
+
+  
+
+  2. •
+
+contact our Privacy Manager at any time by email to [ausinfo@betfair.com](mailto:ausinfo@betfair.com) or phone on 1300 238 234 with your request with, which we will comply with as soon as practicable.
+
+
+
+
+Note, we may also contact you in relation to the management and administration of your Betfair account and provide you with service updates or announcements. These communications may occur via any of the modes of contact outlined above. Customers that have elected to opt-out of direct marketing communications will continue to receive service announcements, until such time that the customer informs Betfair that it does not wish to receive these communications (this includes periods you are no longer using our products and services). 
+
+Betfair will not share your personal information with other organisations or anyone else unless the disclosure is for one of the purposes outlined above. Accordingly, Betfair may disclose your personal information to the following third parties:
+
+  1. •
+
+an authorised representative;
+
+  
+
+  2. •
+
+Betfair's related bodies corporate;
+
+  
+
+  3. •
+
+Betfair Group PLC and its related bodies corporate (refer below for further information);
+
+  
+
+  4. •
+
+Betfair's business partners and sponsors who may have offers of interest for you from time-to-time;
+
+  
+
+  5. •
+
+credit reporting bodies to conduct a verification check or for debt related matters;
+
+  
+
+  6. •
+
+external providers of services we use to operate our business and manage our business systems (i.e. advertising agencies, mailing houses, printers, call centres, IT consultants, market research analyst and providers of payment processing and identify verification services);
+
+  
+
+  7. •
+
+government agencies responsible for enforcing the AML/CTF ACT and Betfair's licence obligations;
+
+  
+
+  8. •
+
+Australian sports / racing controlling bodies by assisting in their enquiries or notifying such bodies of any betting activity that may be unusual or suspicious and in accordance with agreements between Betfair and the relevant body or approvals granted by the relevant body;
+
+
+
+
+Betfair will take all reasonable steps to ensure that any personal information which Betfair discloses to a third party is protected by that party in accordance with the Privacy Act and under contractual arrangements.
+
+Betfair takes steps to protect the personal information it holds against loss, interference, unauthorised access, use, modification or disclosure and against other misuse. These steps include password protection for electronic files, securing paper files in locked cabinets and physical access restrictions.
+
+Betfair's employees, agents, contractors and related bodies corporate are required to maintain the confidentiality of customers' personal information. Remember to always log out of your account when you have completed your time on the Website. This is particularly important if you share a computer with another person. You are responsible for the security of and access to your own computer, mobile device or any other handset used to access the Website. Also, you should be aware of the many security risks that exist today and take appropriate care to help safeguard your personal information.
+
+Betfair will keep your personal information until it no longer needs to use it or disclose your personal information for any purpose that is authorised under the Privacy Act or is not legally required to retain that information. Betfair will take reasonable steps to destroy or de-identify the personal information.
+
+If a customer (or the beneficial owner, its agent or an authorised third party of a corporate or individual customer) requests access to the personal information (including recorded telephone calls) that Betfair holds about them, or requests that it changes that personal information, Betfair will allow access or make the changes unless it considers that there is a sound reason under the Privacy Act or other relevant law to withhold the information. Betfair will endeavour to correct your Personal Information within 7 days, unless notified otherwise.
+
+If Betfair does not agree to make the requested changes to personal information, you may make a statement about the requested changes and Betfair will attach this to the record. 
+
+For further information about how to request access or changes to the personal information held by Betfair, contact [ausinfo@betfair.com](mailto:ausinfo@betfair.com) (further contact details are below).
+
+For the primary purpose of administrating your Betfair account and compliance with our obligations under the AML/CTF Act, Betfair will collect from, and disclose Personal Information to, Betfair Group PLC (located in the United Kingdom) and its related bodies corporate (located in Ireland, Malta, Romania and Gibraltar) when required for the stated purposes above.
+
+Betfair will only disclose personal information to an overseas recipient if:
+
+  1. •
+
+we've taken reasonable steps to ensure the recipient does not breach the Privacy Act;
+
+  
+
+  2. •
+
+contractual arrangements are in place to protect the security of your personal information;
+
+  
+
+  3. •
+
+we have your express consent to disclose; or
+
+  
+
+  4. •
+
+the provision of information is required by law or treaty or convention which Australia is a party.
+
+
+  
+
+
+Betfair takes its obligations pursuant to the Privacy Act seriously. You may complain about a suspected breach of the APPs by Betfair by submitting your complaint in writing to Betfair's Privacy Manager, using the contact details below.
+
+Any complaint should set out in as much detail as possible, all the relevant particulars relating to the complaint, including the suspected reason behind why Betfair has allegedly breached the APPs.
+
+Upon receiving a written complaint, Betfair will acknowledge receipt of the complaint in writing within 7 days. Betfair will investigate the matters described in the complaint and then provide a substantive written response within 28 days from the date the written complaint was received.
+
+If your complaint is not resolved by the Privacy Manager, you can refer it to the Office of the Australian Information Commissioner ([www.oaic.gov.au](http://www.oaic.gov.au/)). 
+
+Further information in relation to this privacy policy, how to lodge a complaint, request the Privacy Policy in a different format or provide any comments, contact Betfair:
+
+**Telephone** |   | 1300 238 324  
+---|---|---  
+**Post** |   | Privacy Manager  
+Betfair Pty Limited  
+Level 9 South Tower  
+459 Collins Street  
+Melbourne VIC 3000  
+**Email** |   | [ausinfo@betfair.com](mailto:ausinfo@betfair.com)
