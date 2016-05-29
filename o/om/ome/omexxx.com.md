@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the omexxx.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929200957id_/http%3A//www.omexxx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omexxx.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529212429id_/http%3A//www.omexxx.com/privacy) for the most accurate reproduction.*
 
-# Live Sex Chat for Adults Only » OmeXXX
+# Privacy Policy - OmeXXX
 
 Fair Information Practices 
 
