@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deskera.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128145019id_/http%3A//www.deskera.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deskera.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529173414id_/http%3A//www.deskera.com/privacy-policy) for the most accurate reproduction.*
 
 # Deskera - Privacy Policy
 
@@ -61,7 +61,7 @@ We provide users with access to their personally identifiable information. Users
 
 ## Enforcement of Privacy Policy
 
-We make every effort including periodic reviews to ensure that personal information provided by you is used in conformity with this privacy policy. If you have any concerns regarding our adherence to this policy or the manner in which personal information is used for the purpose of providing the services, kindly contact Deskera Customer Support Services at [support@deskera.com](mailto:su%70po%72t@des%6ber%61.com)> This e-mail address is being protected from spambots. You need JavaScript enabled to view it . We will contact you to address your concerns and we will also co-operate with regulatory authorities in this regard if needed.
+We make every effort including periodic reviews to ensure that personal information provided by you is used in conformity with this privacy policy. If you have any concerns regarding our adherence to this policy or the manner in which personal information is used for the purpose of providing the services, kindly contact Deskera Customer Support Services at [support@deskera.com](mailto:support@de%73%6ber%61.com). This e-mail address is being protected from spambots. You need JavaScript enabled to view it . We will contact you to address your concerns and we will also co-operate with regulatory authorities in this regard if needed.
 
 ## Notification of Changes
 
@@ -69,4 +69,4 @@ Any changes to the Deskera Privacy Policy will be posted on our websites in orde
 
 ## End of Privacy Policy
 
-If you have any questions or concerns regarding this privacy policy, please contact us at [legal@deskera.com](mailto:l%65g%61l%40%64es%6bera.com)
+If you have any questions or concerns regarding this privacy policy, please contact us at [legal@deskera.com](mailto:lega%6c%40d%65sk%65ra%2ec%6fm)
