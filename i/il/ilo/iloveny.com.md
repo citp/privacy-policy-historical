@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iloveny.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214170607id_/http%3A//www.iloveny.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iloveny.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529182353id_/http%3A//www.iloveny.com/privacy) for the most accurate reproduction.*
 
 # New York Hotels, Restaurants, Events and Attractions | I Love NY
 
