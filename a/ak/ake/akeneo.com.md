@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the akeneo.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207131001id_/http%3A//www.akeneo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akeneo.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529062436id_/https%3A//www.akeneo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Akeneo - The Open Source PIM
+# Privacy Policy - Akeneo – The Open Source PIM
 
 ### Your Privacy Matters
 
