@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irishrail.ie privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911223349id_/http%3A//www.irishrail.ie/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishrail.ie privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530151941id_/http%3A//www.irishrail.ie/legal/privacy-statement) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy
 
@@ -147,7 +147,7 @@ We do not control the use of these cookies and cannot access them due to the way
 
 One simple way to prevent the use of cookies is to activate the facility which is available in most web browsers that enables the user to deny or accept cookies. However, visitors should realise that certain cookies may be necessary in order to provide the visitor with certain features such as the purchase of tickets.
 
-For more information on how to manage cookies, including opt-out of performance cookies please visit: <http://www.aboutcookies.org/Default.aspx?page=1>
+For more information on how to manage cookies, including opt-out of performance cookies please visit: <http://www.whatarecookies.com/> 
 
 For more information on how to opt out of Google Analytics please visit: <https://tools.google.com/dlpage/gaoptout?hl=en-GB>
 
