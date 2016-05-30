@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendlane.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110203248id_/https%3A//sendlane.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendlane.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530131241id_/https%3A//sendlane.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy - Sendlane
 
