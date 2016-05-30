@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metlinkmelbourne.com.au privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906005140id_/http%3A//metlinkmelbourne.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metlinkmelbourne.com.au privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530120553id_/http%3A//www.ptv.vic.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy - Public Transport Victoria
 
@@ -135,11 +135,11 @@ PTV will not:
 
 ## myki 
 
-The following information refers to privacy and myki. Most cardholders may choose whether they want to register their myki. Find out the benefits of [registering your myki](http://www.metlinkmelbourne.com.au/tickets/myki/registering-your-myki/ "Link to Registering your myki page").
+The following information refers to privacy and myki. Most cardholders may choose whether they want to register their myki. Find out the benefits of [registering your myki](http://ptv.vic.gov.au/tickets/myki/registering-your-myki/ "Link to Registering your myki page").
 
-Download the full [myki Privacy Policy](http://www.metlinkmelbourne.com.au/assets/PTV/PTV%20docs/Privacy/PTV-Policy-myki-Privacy-Policy-September-2014.pdf "Download the full myki Privacy Policy") (PDF) 184 kB
+Download the full [myki Privacy Policy](http://ptv.vic.gov.au/assets/PTV/PTV%20docs/Privacy/PTV-Policy-myki-Privacy-Policy-September-2014.pdf "Download the full myki Privacy Policy") (PDF) 184 kB
 
-Download the full [myki Privacy Policy - accessible version](http://www.metlinkmelbourne.com.au/assets/PTV/PTV%20docs/Privacy/myki-Privacy-Policy-September-2014-accessible-version.rtf "Download the full myki Privacy Policy - accessible version") (RTF) 7.29MB
+Download the full [myki Privacy Policy - accessible version](http://ptv.vic.gov.au/assets/PTV/PTV%20docs/Privacy/myki-Privacy-Policy-September-2014-accessible-version.rtf "Download the full myki Privacy Policy - accessible version") (RTF) 7.29MB
 
 ### Personal information will be collected if you choose to do any of the following things:
 
@@ -203,10 +203,10 @@ Melbourne VIC 3000
 People can also contact the Commissioner for Privacy and Data Protection for more information or to raise certain complaints about privacy matters and regulation in Victoria.
 
 **Privacy and Data Protection **Victoria**  
-Level 6, 121 Exhibition Street  
+** Level 6, 121 Exhibition Street  
 Melbourne VIC 3000  
 GPO Box 24014  
-Melbourne VIC 3001  
- **Telephone:** 1300 666 444  
- **Facsimile:** 1300 666 445  
- **Email:**[enquiries@privacy.vic.gov.au](mailto:enquiries@privacy.vic.gov.au "Email to Privacy and Data Protection Victoria")**
+Melbourne VIC 3001 **  
+ **Telephone:**** 1300 666 444 **  
+ **Facsimile:** **1300 666 445 **  
+ **Email:****[enquiries@privacy.vic.gov.au](mailto:enquiries@privacy.vic.gov.au "Email to Privacy and Data Protection Victoria")
