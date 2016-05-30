@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontdeskhq.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208210102id_/http%3A//www.frontdeskhq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontdeskhq.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530102032id_/http%3A//www.frontdeskhq.com/privacy-policy) for the most accurate reproduction.*
 
 # Front Desk privacy policy
 
