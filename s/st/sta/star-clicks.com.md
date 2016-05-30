@@ -1,9 +1,12 @@
-> *The following text is extracted and transformed from the star-clicks.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009122113id_/http%3A//www.star-clicks.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the star-clicks.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530021647id_/http%3A//www.star-clicks.com/privacy.asp) for the most accurate reproduction.*
 
 # Star-Clicks.com - Privacy
 
- 
+  | 
 
+|     
+---|---  
+  
 At Star-Clicks we understand that privacy is important. Star-Clicks is committed to protecting your privacy. We gather only information about our users which is required to offer our services. We have explained below the ways in which we use this information:
 
 **Information Gathering at Star-Clicks.com**
@@ -38,3 +41,6 @@ At Star-Clicks.com, we strongly recommend that you review the privacy policies o
 **Changes to This Privacy Policy and Questions about Privacy**
 
 Star-Clicks.com reserves the right to make changes to this privacy policy from time to time without prior notice. If you have any questions regarding this privacy policy, please feel free to write to us at: [ support@star-clicks.com](mailto:support@star-clicks.com)
+
+  
+ 
