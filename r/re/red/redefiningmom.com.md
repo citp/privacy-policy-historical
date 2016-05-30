@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redefiningmom.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228224411id_/http%3A//redefiningmom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redefiningmom.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530045155id_/http%3A//redefiningmom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Redefining Mom
 
@@ -23,9 +23,27 @@ http://redefiningmom.com uses cookies to store information about visitors’ pre
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
 
   * Google
-  * Amazon
+  * Yahoo! Media.net
+  * Amazon.com 
+    * Redefining Mom is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
   * ShareASale
   * E-Junkie
+  * Send Owl
+  * Gumroad
+  * Commission Junction
+  * Elite Blog Academy
+  * The Uncaged Life
+  * House of Moxie
+  * Warfare Plugins
+  * Spanning Backup
+  * Bluehost
+  * Ultimate Bundles
+  * Affiliate Window
+  * Rakuten Marketing
+  * Deposit Photos
+  * eBay Enterprise Affiliate Network
+  * Brett Kelly- Evernote Essentials
+  * Linqia
 
 
 
@@ -52,5 +70,7 @@ This privacy policy applies only to our online activities and is valid for visit
 By using our website, you hereby consent to our privacy policy and agree to its terms.
 
 **Update**  
-This Privacy Policy was last updated on: Sunday, September 20th, 2015.  
+This Privacy Policy was last updated on: Wednesday, May 25th, 2016.  
 _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
+
+[](https://www.pinterest.com/pin/create/button/)
