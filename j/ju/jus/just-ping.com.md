@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the just-ping.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230124712id_/http%3A//www.ca.com/us/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the just-ping.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531000814id_/http%3A//www.ca.com/us/privacy.aspx) for the most accurate reproduction.*
 
 # CA Privacy Notice - CA Technologies
 
@@ -8,7 +8,7 @@ CA is committed to respecting and protecting your privacy and wants you to feel 
 
 CA may modify or update this privacy notice at any time without prior notice. You can check the “Last Updated” date above to see when the notice was last changed. Your continued use of the website constitutes your consent to the contents of this privacy notice.
 
-We have prepared this Privacy Notice to inform you of the information we gather and how it is used. This Notice applies to all CA websites that display or link to this Privacy Notice. In some cases CA may request additional information in which case you will receive separate notice and will be able to review those terms at that time. You should also note that CA maintains the same privacy practices with respect to data that is collected off-line and this notice may be relied upon with respect to those methods of data collection and use. Please see our [Core Values and Code of Conduct](https://web.archive.org/us/about-us.aspx) for more information about CA’s high standard of ethics and our commitment to the protection of your personal information.
+We have prepared this Privacy Notice to inform you of the information we gather and how it is used. This Notice applies to all CA websites that display or link to this Privacy Notice. In some cases CA may request additional information in which case you will receive separate notice and will be able to review those terms at that time. You should also note that CA maintains the same privacy practices with respect to data that is collected off-line and this notice may be relied upon with respect to those methods of data collection and use. Please see our [Core Values and Code of Conduct](http://investor.ca.com/corporate-governance-document.cfm?DocumentID=4139) for more information about CA’s high standard of ethics and our commitment to the protection of your personal information.
 
 _Data Transfers_
 
@@ -20,12 +20,15 @@ Click [here](http://ec.europa.eu/justice/data-protection/international-transfers
 
 
 
+  * Model Clauses 
+
+In light of the European Court of Justice decision regarding the Safe Harbor on the 6th of October, 2015, CA Technologies also uses model clauses for the transfer of personal data where CA Technologies acts as the data Processor. Click [here](https://web.archive.org/us/data-transfers.aspx) for more information
+
+
+
   * Safe Harbor 
 
-CA Technologies also continues to comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  CA Technologies has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  CA's Safe Harbor certification can be found at <https://safeharbor.export.gov/list.aspx>.  To learn more about the Safe Harbor program, and to view our certification, please visit <http://www.export.gov/safeharbor/>
-
-**[We self-certify compliance with](https://safeharbor.export.gov/list.aspx)**  
-[](http://www.export.gov/safeharbor)
+In addition, CA Technologies continues to comply with the principles of the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.
 
 
 
@@ -97,7 +100,7 @@ This website contains links to other websites. CA is not responsible for the pri
 
 ## Q: Does CA use any 3rd parties to advertise?
 
-CA uses pixels, transparent GIF files and other methods to help manage online advertising. The GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With this technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. Visit [DoubleClick](http://www.doubleclick.net/us/corporate/privacy) for more information, including information about how to opt out of these technologies.
+CA uses pixels, transparent GIF files and other methods to help manage online advertising. The GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With this technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. Visit [DoubleClick](https://www.doubleclickbygoogle.com/) for more information, including information about how to opt out of these technologies.
 
 ## Q: What are your practices regarding cookies and/or web beacons?
 
@@ -113,4 +116,4 @@ Portions of this website make chat rooms, forums, blogs, message boards, and/or 
 
 If you have any questions, concerns, or comments about our privacy notice or practices, please contact us via email at [PrivacyHelpLine@ca.com](mailto:PrivacyHelpLine@ca.com) with the words "PRIVACY POLICY" in the subject line. All emails will be read promptly and an initial response will be provided to the sender within 5-7 business days. All issues raised will be investigated until completion, and all matters will be handled in compliance with local data protection requirements.
 
-Visit the [Canadian Privacy Policy](https://web.archive.org/ca/en/privacy/canadaprivacy.aspx) for additional information about CA Canada.
+Visit the [Canadian Privacy Policy](https://web.archive.org/us/privacy/canadaprivacy.aspx) for additional information about CA Canada.
