@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the candidatepoint.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108181118id_/http%3A//candidatepoint.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candidatepoint.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530143411id_/http%3A//candidatepoint.com/privacy.php) for the most accurate reproduction.*
 
 # CandidatePoint | Privacy Policy
 
@@ -10,7 +10,7 @@ This policy applies to information we collect on this Website. It does not apply
 
 Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. By accessing or using this Website, you agree to this Privacy Policy. This policy may change from time to time. Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for any updates.
 
-You may contact CandidatePoint at 2321 E. 14th Street, Suite C137, Santa Ana, CA 92705 or via our contact form located here.
+You may contact CandidatePoint at 2321 E. 4th Street, Suite C137, Santa Ana, CA 92705 or via our contact form located here.
 
 ## Information We Collect
 
@@ -59,6 +59,10 @@ Our Website may contain links to other external websites. Such links do not cons
 ## Assignment
 
 If there is a change of control in our business (whether by merger, sale, or otherwise) or if there is an asset sale, the user information, including personal information, could be sold as part of that transaction and your personally identifying information potentially could be used by the purchaser. However, if that business materially changes this statement or the information handling practices as described in this Privacy Policy, you will be notified by email and/or through a notice posted on the site, and you may opt-out of the use of your existing information in a new manner. This Privacy Policy inures to the benefit of any successors or assigns of CandidatePoint or the assets of CandidatePoint.
+
+#### Ad Preferences
+
+If you would like to read more about your ad preferences, please [click here](http://dyn.adki.com/preferences.php?p=5060&e=d41d8cd98f00b204e9800998ecf8427e&r=0).
 
 ## Conditions of Use
 
