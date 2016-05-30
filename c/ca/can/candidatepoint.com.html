@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the candidatepoint.com privacy policy that was archived on 2015-11-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151108181118id_/http%3A//candidatepoint.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the candidatepoint.com privacy policy that was archived on 2016-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160530143411id_/http%3A//candidatepoint.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><!--<![endif]--><head>
 <meta charset="utf-8">
@@ -43,7 +43,7 @@
 					<p>CandidatePoint respects your privacy and is committed to protecting it through our compliance with this Policy. This policy describes the types of information we may collect from you or that you may provide when you visit our website located at www.CandidatePoint.com and our practices for collecting, using, maintaining, protecting and disclosing your information.</p>
 					<p>This policy applies to information we collect on this Website. It does not apply to information collected by:  a) us offline or through any other means, including on any other website owned or operated by CandidatePoint; or b) any third party, including through any application or content (including advertising) that may link to or be accessible from our Website.</p>
 					<p>Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. By accessing or using this Website, you agree to this Privacy Policy. This policy may change from time to time. Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for any updates.</p>
-					<p>You may contact CandidatePoint at 2321 E. 14th Street, Suite C137, Santa Ana, CA 92705 or via our contact form located <a class="contact-modal-link" href="#">here</a>.</p>
+					<p>You may contact CandidatePoint at 2321 E. 4th Street, Suite C137, Santa Ana, CA 92705 or via our contact form located <a class="contact-modal-link" href="#">here</a>.</p>
 					<h2>Information We Collect</h2>
 					<p>We may collect several types of information from and about the users of our Website, including:</p>
 					<p>a) Any information by which you may be personally identified, such as username, password, first and last name, email address, street address, gender, occupation, interests, resume and contents thereof, job search history, and any other data included in a submitted profile, resume, or search;</p>
@@ -68,6 +68,8 @@
 					<p>Our Website may contain links to other external websites. Such links do not constitute an endorsement by us of those external websites. You acknowledge that we are providing these links to you only as a convenience, and further agree that CandidatePoint is not responsible for the content of such external websites. Your use of external websites is subject to the terms of use and privacy policies located on the external websites.</p>
 					<h2>Assignment</h2>
 					<p>If there is a change of control in our business (whether by merger, sale, or otherwise) or if there is an asset sale, the user information, including personal information, could be sold as part of that transaction and your personally identifying information potentially could be used by the purchaser. However, if that business materially changes this statement or the information handling practices as described in this Privacy Policy, you will be notified by email and/or through a notice posted on the site, and you may opt-out of the use of your existing information in a new manner. This Privacy Policy inures to the benefit of any successors or assigns of CandidatePoint or the assets of CandidatePoint.</p>
+					<h4>Ad Preferences</h4>
+					<p>If you would like to read more about your ad preferences, please <a href="http://dyn.adki.com/preferences.php?p=5060&amp;e=d41d8cd98f00b204e9800998ecf8427e&amp;r=0">click here</a>.</p>
 					<h2>Conditions of Use</h2>
 					<p>Should you decide to use our site or services, you acknowledge and agree that your use and any possible dispute over your privacy is subject to the terms and conditions outlined in this Privacy Policy.</p>
 					<h2>Contact Information</h2>
@@ -75,7 +77,7 @@
 										<!-- US Address -->
 					<div>
 						<p>CandidatePoint<br>
-						2321 E. 14th Street, Suite C137<br>
+						2321 E. 4th Street, Suite C137<br>
 						Santa Ana, CA 92705<br>
 						</p><p><a href="mailto:mail@candidatepoint.com">mail@candidatepoint.com</a></p>
 					</div>
@@ -116,7 +118,7 @@
 						<!-- US Address -->
 			<div class="contact-address">
 				<p>CandidatePoint<br>
-				2321 E. 14th Street, Suite C137<br>
+				2321 E. 4th Street, Suite C137<br>
 				Santa Ana, CA 92705<br>
 				</p><p><a href="mailto:mail@candidatepoint.com">mail@candidatepoint.com</a></p>
 			</div>
@@ -124,7 +126,6 @@
 	</div>
 </div>
 	<!-- End Contact Modal -->
-
 	<!-- JS -->
 	<script src="js/jquery-1.11.1.min.js"></script>
 	<script src="js/cp.js"></script>
@@ -137,6 +138,54 @@
 	ga('create', 'UA-52281107-1', 'auto');
 	ga('send', 'pageview');
 	</script>
+	
+
+<form class="hp">
+    <input type="text" name="keyword">
+    <input type="text" name="location">
+    <button type="submit">Search</button>
+</form>
+
+<script>
+    $('.hp').submit(function(e) {
+        e.preventDefault();
+
+        var data = {
+            user_email: "" || null,
+            site: "candidatepoint.com",
+            user_ip: "174.129.237.157" || null,
+            is_mobile: "" === "true" ? true : false,
+            time_unix: (new Date).getTime(),
+            partner_id: "" || null,
+            partner_source: "" || null,
+            page_url: window.location.href,
+            site_version: "" || 1,
+            is_result_page: ""
+        };
+
+        $.ajax({
+            'url': "http://.hydra.restdev.com/v1/site/metrics?method=honeypot",
+            'method': 'POST',
+            'dataType': 'JSON',
+            'data': {
+                'dataset_id': 'threat_analysis',
+                'table_id': 'honeypot',
+                'rows': [{
+                    user_email: "" || null,
+                    site: "candidatepoint.com",
+                    user_ip: "174.129.237.157" || null,
+                    is_mobile: "" ? true : false,
+                    time_unix: (new Date).getTime(),
+                    partner_id: "" || null,
+                    partner_source: "" || null,
+                    page_url: window.location.href,
+                    site_version: "" || 1,
+                    is_result_page: window.location.pathname.match('job') ? true : false
+                }]
+            }
+        });
+    });
+</script>
 	<!--[if lte IE 9]>
 		<script src="js/placeholder.js"></script>
 		<script>
