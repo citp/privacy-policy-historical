@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benq.us privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206144652id_/http%3A//www.benq.us/page/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benq.us privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530070516id_/http%3A//www.benq.us/page/Privacy_Policy) for the most accurate reproduction.*
 
 # | BenQ USA
 
