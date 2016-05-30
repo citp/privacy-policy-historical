@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gettingrichwithebooks.com privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004053345id_/http%3A//www.gettingrichwithebooks.com/v3/members/contact-us/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettingrichwithebooks.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530140832id_/http%3A//www.gettingrichwithebooks.com/privacy-policy) for the most accurate reproduction.*
 
-# Our Privacy Policy | Getting Rich With Ebooks v3
+# Our Privacy Policy
 
 Last Updated: August 4, 2011
 
@@ -18,7 +18,7 @@ As we adopt additional technology, we may also gather information through other 
 
 **What we do with the information we collect**
 
-Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. 
+Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising.
 
 Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.
 
@@ -46,7 +46,7 @@ AsAManThinketh.net LLC, and/or it’s subsidiaries, as owner(s) of this website,
 
 **How to Stop eMail Communication From Us**
 
-If you do not want to receive commercial/promotional eMail from us, please let us know by utilizing the unsubscribe option available at the bottom of any of our eMail communications, by accessing the form at [privacy@asamanthinketh.net](http://www.asamanthinketh.net/contact.php), by calling us at 877-233-1557 or by writing to us at: AsAManThinketh.net LLC, PO Box 1220, Melrose, FL 32666
+If you do not want to receive commercial/promotional eMail from us, please let us know by utilizing the unsubscribe option available at the bottom of any of our eMail communications, by accessing the form at[privacy@asamanthinketh.net](http://www.asamanthinketh.net/contact.php), by calling us at 877-233-1557 or by writing to us at: AsAManThinketh.net LLC, PO Box 1220, Melrose, FL 32666
 
 **Changes to this Policy**
 
