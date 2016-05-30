@@ -1,17 +1,6 @@
-> *The following text is extracted and transformed from the vexrobotics.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209190457id_/http%3A//www.vexrobotics.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vexrobotics.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530031403id_/http%3A//www.vexrobotics.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - VEX Robotics
-
-Our office will be closed for the holidays from Thursday, December 24, 2015, resuming normal hours on Monday, January 4, 2016. Sales or technical support inquiries placed during this period will be processed beginning January 4, 2016.
-
-Orders placed after 3:00 PM Central on Wednesday, 12/23/15 will process and ship out Monday, 1/4/16, to be delivered from there according to the selected shipping speed. 
-
-Orders must be placed by 3:00 PM on Wednesday, 12/23/15 for delivery by Christmas. For example, a Next Day Air order placed by 3:00 PM Central on Wednesday, 12/23, will be delivered on Thursday, 12/24.
-
-**We appreciate your understanding and wish all VEX users a happy holiday season.**
-
-  
-
 
 ### Privacy Policy Effective December 2009
 
