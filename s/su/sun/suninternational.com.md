@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suninternational.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205104628id_/http%3A//www.suninternational.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suninternational.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531012217id_/http%3A//www.suninternational.com/privacy) for the most accurate reproduction.*
 
 # Sun International Privacy Policy | Sun International Privacy Practices | Sun International
 
