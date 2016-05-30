@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citygridmedia.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029030001id_/http%3A//www.citygrid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citygridmedia.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530154456id_/http%3A//www.citygrid.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
