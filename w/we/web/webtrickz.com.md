@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webtrickz.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108091212id_/http%3A//webtrickz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtrickz.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530022427id_/http%3A//webtrickz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - WebTrickz
 
 The views expressed in this blog are entirely my views and are **NOT** endorsed by my employer, organization, co-citizens, family, friends or co-workers.
 
