@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the milkadeal.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231182454id_/http%3A//cashback.milkadeal.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milkadeal.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530050245id_/http%3A//www.milkadeal.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MilkADeal
 
 ### Privacy Policy
 
-This Privacy Policy discloses the privacy practices for the MilkADeal website (collectively, the "website" is located at http://cashback.milkadeal.com).
+This Privacy Policy discloses the privacy practices for the MilkADeal website (collectively, the "website" is located at http://www.milkadeal.com).
 
 Your privacy is critically important to us. At MilkADeal we have a few fundamental principles:
 
@@ -83,7 +83,7 @@ MilkADeal knows that your word is who you are and integrity is the cornerstone o
 
 #### Privacy Policies of Third Party Websites
 
-This Privacy Policy only addresses the use and disclosure of information we collect from you on http://cashback.milkadeal.com. Other websites that may be accessible through this Website have their own privacy policies and data collection, use and disclosure practices. Therefore, if you link to any such website, we urge you review the website’s privacy policy as we cannot be responsible for the policies or practices of third parties.
+This Privacy Policy only addresses the use and disclosure of information we collect from you on http://www.milkadeal.com. Other websites that may be accessible through this Website have their own privacy policies and data collection, use and disclosure practices. Therefore, if you link to any such website, we urge you review the website’s privacy policy as we cannot be responsible for the policies or practices of third parties.
 
 #### Miscellaneous Privacy Issues
 
