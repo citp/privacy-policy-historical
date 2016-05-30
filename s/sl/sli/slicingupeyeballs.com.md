@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slicingupeyeballs.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130190130id_/http%3A//www.slicingupeyeballs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slicingupeyeballs.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530024803id_/http%3A//www.slicingupeyeballs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — slicing up eyeballs // 80s alternative music, college rock, indie
 
