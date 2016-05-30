@@ -1,37 +1,65 @@
-> *The following text is extracted and transformed from the healthbeautyfacts.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118043422id_/http%3A//www.streamyx2u.biz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthbeautyfacts.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530115437id_/http%3A//www.healthbeautyfacts.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TM Streamyx | Faster Unlimited broadband now up to 8Mbps
+# Privacy Policy - Health Beauty
 
-Privacy Policy – www.streamyx2u.biz
+This Privacy Policy governs the manner in which Health Beauty Facts collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.healthbeautyfacts.com/ website (“Site”).
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at customercare@streamyx2u.biz.
+Personal identification information
 
-At www.streamyx2u.biz, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.streamyx2u.biz and how it is used.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, respond to a survey, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-**Log Files**  
-Like many other Web sites, www.streamyx2u.biz makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Non-personal identification information
 
-**Submission and updating of personal information**
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-When you apply or register for TM Unifi services with www.streamyx2u.biz, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Because of the way we maintain certain services, after you delete your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems. Please contact us at **customercare@streamyx2u.biz**[](mailto:%20customercare@streamyx2u.biz) if wish to opt-out or cancel your registration with us.
+Web browser cookies
 
-**Cookies and Web Beacons**  
-www.streamyx2u.biz does not use cookies.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-**DoubleClick DART Cookie**
+How we use collected information
 
-.:: Google, as a third party vendor, uses cookies to serve ads on www.streamyx2u.biz.
+Health Beauty Facts may collect and use Users personal information for the following purposes:
 
-.:: Google’s use of the DART cookie enables it to serve ads to your users based on their visit to www.streamyx2u.biz and other sites on the Internet.
+To run and operate our Site
 
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+We may need your information display content on the Site correctly.
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
+To improve our Site
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.streamyx2u.biz send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+We may use feedback you provide to improve our products and services.
 
-www.streamyx2u.biz has no access to or control over these cookies that are used by third-party advertisers.
+To send periodic emails
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.streamyx2u.biz’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+We may use the email address to send them information and updates pertaining to their order.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+How we protect your information
+
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+
+Sharing your personal information
+
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+
+Advertising
+
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+
+Google Adsense
+
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
+
+Changes to this privacy policy
+
+Health Beauty Facts has the discretion to update this privacy policy at any time. When we do, we will send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+Your acceptance of these terms
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. This policy was generated using privacy policies.com
+
+Contacting us
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.
+
+This document was last updated on March 24, 2016
+
+Saturday, March 26, 2016
