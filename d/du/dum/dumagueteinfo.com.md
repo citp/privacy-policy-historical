@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dumagueteinfo.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023040903id_/https%3A//www.dumagueteinfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dumagueteinfo.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531000955id_/https%3A//www.dumagueteinfo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Dumaguete Info
+# Privacy Policy | Dumaguete Info
 
-At _[Dumaguete](https://www.dumagueteinfo.com/category/tourist-info/dumaguete/) Info_, the privacy of our visitors is of extreme importance to us (See [this article](http://www.wp-insert.smartlogix.co.in/what-is-a-privacy-policy/) to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by _Dumaguete Info_ and how it is used.
+At _Dumaguete Info_ , the privacy of our visitors is of extreme importance to us (See [this article](http://www.wp-insert.smartlogix.co.in/what-is-a-privacy-policy/) to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by _Dumaguete Info_ and how it is used.
 
  **Log Files**
 
