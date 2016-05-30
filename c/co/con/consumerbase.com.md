@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumerbase.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022202343id_/http%3A//www.consumerbase.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerbase.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530170820id_/http%3A//www.consumerbase.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -76,7 +76,7 @@ Contact Information
 
 Our Consumer Privacy Advocates may be reached via e-mail or postal mail:  
 Privacy Department  
-Exact Data LLC  
-328 S. Jefferson St., Ste. 550  
-Chicago, IL 60661-5649  
+Exact Data  
+33 N. Dearborn Street, Suite 200  
+Chicago, IL 60602-3100  
 [privacy@exactdata.com](mailto:privacy@exactdata.com)
