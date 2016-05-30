@@ -1,113 +1,196 @@
-> *The following text is extracted and transformed from the instant.ly privacy policy that was archived on 2015-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150331001323id_/https%3A//www.instant.ly/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instant.ly privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530174542id_/https%3A//www.instant.ly/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - instantly
 
-**Updated on February 3, 2015**
+1\. Description of SSI’s Business.
 
-Thank you for your interest in the website and service located at www.instant.ly (the “Website”) owned, operated, licensed or controlled by Instantly, Inc. (collectively “Instantly” “we,” “our” or “us”). The terms “you,” “your” and “yours” refer to anyone accessing, viewing, browsing, visiting or using the Website, including survey creators and survey respondents. To the extent you participate in one of our owned and operated platforms, such as iPoll, you will be governed by the privacy policy, terms and conditions, and rewards of such platform [http://www.iPoll.com](http://www.ipoll.com/). The use of information collected through our service shall be limited to the purpose of providing the service for which a client has engaged Instantly. In addition Instantly offers a variety of products and services. Many of those other products and services are governed by separate terms of use and privacy policies.
+Survey Sampling International, LLC (“SSI” and any reference to “SSI” or “us” or “we” or “our” shall include SSI’s parents, affiliates, and subsidiaries) provides sampling solutions and technology for survey research, and providing clients with access to consumer and business-to-business respondents via internet, telephone (both fixed/landline and wireless/mobile), postal and multi-mode methodologies. SSI serves a vast array of for-profit and not-for profit businesses, universities and governmental agencies and departments.
 
-Your personal privacy is important to us. This Privacy Policy explains what personal information we collect every time you visit the Website, how we collect and how we use your personal information. Please read this Privacy Policy carefully, and if you have any questions, please feel free to contact us. By visiting the Website, you consent to the collection and use of your personal information as outlined in this Privacy Policy.
+This Privacy Policy describes the types of information we collect, how we collect information, how we use the information, how we share or disclose the information, how we store the information, and your choices regarding the use and processing of the information. Your use of SSI’s website, your use of SSI’s services, and your disclosure of PII to SSI are completely voluntarily, therefore the collection, processing, transfer, and storage of your PII as set forth in this Privacy Policy is with your consent. 
 
-With respect to the Instantly Survey Tool services only and which falls under this Privacy Policy, Instantly complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. With respect to the Instantly Survey Tool services only, Instantly has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Instantly’s certification, please visit <http://www.export.gov/safeharbor/>.
+This privacy policy does not apply to the collection, processing, storage, transfer, and/or disposal of information collected in connection with the survey panels or communities operated by or on behalf of SSI. 
 
-### What personal information do we collect? And why?
+2\. What type of information do we collect? 
 
-**General.** We collect only personal information when users specifically and knowingly disclose to us. If you disclose your personal information, we will only store and use such information that we need to meet your requests and our legitimate business objectives. Except as set forth in this Privacy Policy, we do not trade, share, rent, sell or give away information concerning you to third parties.
+3\. How we collect information.
 
-**Account Information.** We do not require you to provide your personal information in order for you to access, open or browse the Website. However, to use features on the Website (such as creating surveys or responding to surveys), we may require you to register to open a user account and provide personal information about yourself. We will also collect personal information from you should you wish to request a quote from us. Under those circumstances, we may collect information including, without limitation, your name, email address and phone number. In addition, if you make a purchase from the Website, we will require you to provide your billing information, which will be used strictly for billing purposes.
+* Information submitted or provided by you:
 
-**Contact Information.** We use your contact information to facilitate and improve your use of the Website and to comply with any requirements of law. We do not sell and will not divulge your contact information to third parties other than as specified in this Privacy Policy, unless we are legally entitled or obliged to do so. We may also use your email address or other contact information you provide us to contact you with regard to your account such as to send you Website-related information including updates or changes to the Website and to correspond with you about any questions or concerns you have brought to our attention. You may also receive automated messages regarding the Website and information about our products and services that we think will interest you. You may opt-out of receiving notifications from us by following the instructions contained in our e-mails. Despite your indicated e-mail preferences, we may send you notices of any updates to our Terms of Use or Privacy Policy.
+  1. Through or in connection with SSI’s corporate website(s), including, without limitation, www.surveysampling.com;
+  2. Through or in connection with business meetings with actual or potential customers or clients;
+  3. Through or in connection with promotions, meetings, events, and/or trade or industry shows or conferences sponsored by, hosted by, or attended by SSI and/or SSI’s employees, representatives, and/or agents; and
+  4. Through telephone calls, email communications, and/or other forms of communication with you.
+  5. Through inquiries, from requests for bids or quotes from SSI, and from orders for SSI’s services.
 
-**Respondent Information.** As a respondent to a survey, we will use your email address (and other contact information, if necessary) to invite you to participate in surveys and to conduct surveys, but as with all personal information, we do not sell and will not divulge your information to third parties other than as specified herein. In addition, we will not use your information for any purposes other than conducting surveys, unless you have previously authorized us to do so.
 
-Instantly collects information under the direction of its clients, and has no direct relationship with the individuals whose personal data it processes. Instantly works with its clients to help them provide notice to their customers concerning the purpose for which personal information is collected.
+* Information collected from third parties 
 
-We collect information for our clients, if you are a customer of one of our clients and would no longer like to be contacted by one of our clients that use our service, please contact the client that you interact with directly. If you are a client and would like to update or remove information from your account please contact us at the contact information listed below. We will respond to request for access within 30 days.
+SSI may collect information, including, without limitation, PII and business contact information, from third parties, including, without limitation, information service bureaus, data brokers, social media platforms, and/or industry conference or event organizers or sponsors. We may use the information collected from such third parties for various purposes, including, without limitation, sending you emails or other communications as described herein. In the event you receive such communications you will have the opportunity to opt-out of receiving communications from us.
 
-Instantly may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our clients.
+* Information collected through automated means: 
 
-**Respondent Data.** The Website collects and stores all survey responses and data but does not, and will not, disclose or sell such information to third parties other than as specified herein. However, the creator of each survey owns, and is ultimately responsible for the privacy of, the content of such survey and the data obtained pursuant to such survey. Therefore, you should contact the survey creator to request his, her or its policies regarding the privacy of survey responses and other survey data. All questions regarding a particular survey should be directed to the creator of such survey. 
+  1. SSI Cookies. Cookies are small files that store certain data on a device or computer. SSI may use session and persistent cookies for several purposes including, without limitation, to enable you to use and transverse a website and quality control. Session cookies expire when you close your browser. Persistent cookies remain on your device or computer indefinitely until deleted. A user may disable and/or delete cookies via the user’s browser or otherwise, however, this may limit your use of a website, and/or decrease the functionality available to the user in connection with a website. 
+  2. Third Party Cookies. SSI uses third parties to provide services and certain functionality to SSI. SSI uses contracts with such third parties to control their use of cookies and to limit their use of cookies to the limited purposes set forth in the contracts. 
+  3. Log Files. SSI’s websites may automatically gather and store certain information in log files, including, without limitation, data available from your web browser, including, without limitation, IP Address, browser type, internet service provider, referring/exiting pages, operating system, date/time stamp and click stream data. 
+  4. Cookie Notice: SSI values your privacy. Below please find a list of the cookies set or deployed by SSI and/or its service providers, partners, and/or subcontractors. For certain cookies no opt-out mechanism is provided. 
 
-**Access to Respondent Data.** Instantly has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct their query to Instantly’s Client (the data controller). If the Client requests Instantly to remove the data, we will respond to their request within 30 business days.
 
-Instantly will retain personal data we process on behalf of our clients for as long as needed to provide services to our client. Instantly will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+  1. Essential Cookies: 
+Name: | Purpose | Consent  
+---|---|---  
+ASP.NET_SessionId | Session Cookie | No opt-out provided  
+Calltrk_referrer | Tracks the last website visited prior to landing on a website. | No opt-out provided  
+Calltrk_landing | Tracks the website or webpage landed on by the visitor. | No opt-out provided  
+  2. Analytics and Customization – Data Collection 
+Name: | Purpose | Consent  
+---|---|---  
+Google Analytics (_utma) |  Analytics/measurement  
+Optimization  
+Ad targeting  | No opt-out provided  
+Google Analytics (_utmb) |  Analytics/measurement  
+Optimization  
+Ad targeting  | No opt-out provided  
+Google Analytics (_utmc) | Session Cookie –  
+Analytics/measurement  
+Optimization  
+Ad targeting  | No opt-out provided  
+Google Analytics (_utmz) | Analytics/measurement  
+Optimization  
+Ad targeting  | No opt-out provided  
 
-**Correspondence.** If you contact us to provide feedback, comments or inputs or for any other reason, we may keep a record of that correspondence and collect your personal information to process your inquiries, respond to your requests and improve our services.
 
-Your Access. If you supply us with your personal contact information, you may later access it, update it, modify it and delete any inaccuracies. Please note that we generally keep a copy of the previous personal contact information for our records. We aim to keep our information about you as accurate as possible. If you would like to review or change the details you have supplied us with, you may do so at any time by accessing your account on the Website or by contacting us at [support@instant.ly](mailto:support@instant.ly). You may also choose simply not to provide your personal contact information at the point of collection; however, you will not be able to register. We will respond to requests for access within 30 business days.
 
-**Data Retention.** We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+SSI’s Do Not Track Notice.
 
-**Aggregated General Information.** We may share aggregated general information about our Website with our corporate partners, investors, advertisers or others. Aggregate general information includes without limitation the number of users of the Website or the Services, revenue including payments by the users, usage statistics, user feedback. Aggregated general information does not include any personal information that could be used to contact or identify you.
+Do Not Track (“DNT”) is a preference in your browser that you can set to notify websites that you visit that you do not want the websites to collect certain information about you. SSI does not respond to DNT signals. If you object to SSI’s practice with regards to DNT signals, you are free not to visit SSI’s website.
 
-**Community Forums.** We organize and offer community forums (e.g., chat rooms, bulletin boards and discussion groups) on the Website. These forums are provided as a service to our users and customers to help them exchange ideas, tips, and information related to our products and services. You have to register to use community forums as part of which you may be required to provide us your name and e-mail address. We may use this information to contact you in relation to your use of the community forums. Please be advised that information that you post on or through the community forums is generally accessible to, and may be collected and used by others and may result in unsolicited messages or other contact from others. To request removal of your personal information from our blog or community forum, contact us via the information below. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. In addition, please be advised that, by posting information on or through the community forums, you are granting us a worldwide license to use and reproduce all posted information (please see our Terms of Use for additional information regarding this license). Users of the website are encouraged to exercise caution when providing personal information about themselves in public or community forums.
+4\. How We Use the Information that We Collect.
 
-**Newsletters.** When you sign up for our service we will use your name and email address to send you information regarding updates to our product and information about our products we think will be of interest to you. If you wish to no longer receive our newsletters you may follow the unsubscribe mechanism contained in each of the emails you receive.
+We may use information, including, without limitation, PII and business contact information, to:
 
-**Social Media Connect.** When using our service we provide you with the option to promote your surveys using social media sign-in services. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to allow you to promote your surveys on your social media pages. Services like these give you the option to post information about your activities on this to your profile page to share with others within your network.
+  1. Provide, administer, and communicate with you about SSI’s products, promotions, services, events (e.g., webinars, etc.), newsletters, and industry expertise/knowledge (e.g., whitepapers, articles, etc.);
+  2. Create, supplement, and update SSI’s directories and records for actual and/or potential suppliers, customers, and/or clients;
+  3. Protect against and prevent fraud, claims, liabilities, and to manage risk exposure;
+  4. Respond to inquiries and requests;
+  5. Operate, evaluate, conduct, and improve SSI’s business (including, without limitation, to conduct and complete transactions for SSI’s products and/or services, to improve SSI’s current products and/or services, to develop new products and/or services, etc.);
+  6. Process and manage opt-out or unsubscribe requests;
+  7. Comply with applicable laws, regulations, codes, and industry standards and practices;
+  8. Conduct marketing and market research activities including, without limitation,: (a) contacting you to participate in customer satisfaction surveys or questionnaires via telephone, email, or otherwise, and (b) soliciting your opinions or feedback on SSI’s business activities, including, without limitation, current and future products and services;
+  9. Create and send targeted communications to you regarding you or your company’s transactions with SSI and/or the profile for your company; 
+  10. Respond to a subpoena or an order of a court or government agency;
+  11. Establish, exercise, or defend legal claims, including, without limitation, in order to protect the safety of an individual or to protect SSI’s rights and/or property; and 
+  12. Evaluate your interest in employment and contact you regarding possible employment opportunities with SSI and/or any company within the SSI group of companies.
 
-### What non-personal information do we collect? And why?
 
-In many cases, we will automatically collect certain non-personal information about your use of the Website that includes, among other things, information concerning date and time of your visit, the pages of the Website that you visited, your path through the Website, your IP address, the type of browser and operating system you are using and, and the third-party web sites or advertisements linked to or from the Website that you visited. For this purpose, we may use cookies, clear gifs, frames, server log analysis and other technology. Information, pertaining to your visits to the Website, collected through these technologies will be anonymous unless you provide, or have provided, us with personal information. Any information collected through the use of these technologies will be handled according to this Privacy Policy.
 
-We may use this information to improve the quality of the Website and to better understand how users interact with the Website. In addition, we use this information to comply with any requirements of law, or serve, or have a third party serve, specialized or relevant advertising content and/or recommendations to you on the Website or on a third party’s website; and for internal purposes. We may also use this information for system administration and troubleshooting, ensuring user compliance with our terms of service, investigating security breaches and compiling anonymous non-personal information such as how many users visited the Website. Additionally, when you log into your Account, your system specifications such as operating system, system configuration, etc. may be collected by us for the purposes of analyzing and optimizing your experience and customer service.
+In addition to the above, SSI may use information collected or received by SSI as otherwise set forth in this Privacy Policy. 
 
-**Navigational Data.** As you browse our Website, we may gather navigational data that shows what pages are visited and how long various features are used. This information will not reveal your identity or be linked to you personally. We use this information to complete, support and analyze users’ purchases from us; to facilitate and improve use of the Website; to comply with any requirements of law; to serve, or have a third party serve specialized or relevant advertising content and/or recommendations to you on the Website or on a third party’s website (If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [ support@surveyhelpcenter.com](mailto:support@surveyhelpcenter.com) Please note this does not opt you out of being served advertising. You will continue to receive generic ads.); for internal purposes; and to determine any commissions due our Affiliates. This information may be disclosed only to our staff and to third parties involved in the completion of your transaction, the delivery of your order, and the analysis and support of your use of the Website. We may from time to time supply the owners or operators of third party sites from which it is possible to link to our Website with information relating to the number of users linking to our Website from their sites. You cannot be identified from this information.
+In the event that you provide SSI with any feedback, suggestions, and/or comments regarding SSI’s business activities, including, without limitation, regarding current and/or future products and/or services, SSI may use, apply, and implement such feedback, suggestions, and/or comments, at SSI’s discretion, and without notice to you, without any consent or approval from you, without any compensation to you, and/or without any attribution or credit to you, and you hereby irrevocably assign and transfer to SSI all right, title, and interest in and/or to any such feedback, suggestions, and/or comments. 
 
-**Cookies.** The Website may contain “cookies.” Cookies are bits of electronic information generated by web servers and stored on your hard drive when you visit practically any website on the Internet. Cookies are often used to differentiate users, store user preferences and track user trends in general. We may use cookies to improve the quality of the Website and to better understand how users interact with the Website. We do not and cannot use cookies to retrieve individual personal information about you from your computer unless you knowingly and willingly provide such information. You can adjust your web browser security settings to refuse all cookies or to indicate when a cookie is being sent. However, if you disable the use of cookies in your web browser, some features of the Website we offer may not function properly.
+5\. How do we share your information? 
 
-The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy policy. We do not have access or control over these cookies.
+SSI does not sell your information and does not disclose your information, except as described in this Privacy Policy or as otherwise consented to by you.
 
-IP Addresses and System Specifications. When you access Website, our servers may record your IP address. We may use IP addresses for system administration and troubleshooting, ensuring user compliance with our terms of service, investigating security breaches and compiling anonymous non-personal information such as how many users visited the Website. Additionally, when you log into your Account, your system specifications such as operating system, system configuration, etc. may be collected by us for the purposes of analyzing and optimizing your experience and customer service.
+We may share information, including, without limitation, PII and business contact information, as follows:
 
-**Social Media Features and Widgets.** Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+  1. Within the SSI group of companies (with SSI’s parents, subsidiaries, and affiliates) and the directors, managers, officers, employees, consultants, and agents of these companies, subject to the terms of this Privacy Policy or as otherwise disclosed to you at the time of the collection of your information or as subsequently consented to by you. 
+  2. To service providers who are performing services on our behalf, whether engaged directly by SSI or engaged by a third party, including, without limitation, companies providing email delivery services, fraud detection and prevention services, event coordination and management, etc. The service providers are authorized to use and disclose the information only as necessary to perform and provide the services for which they were engaged and subject to the terms set forth in this Privacy Policy. 
+  3. We may disclose information about you: (i) if we are required to do so pursuant to applicable laws or legal or court process; or (ii) when we believe disclosure is necessary to prevent harm or financial loss, or in connection with an investigation of actual or suspected fraud or illegal activity. 
+  4. We reserve the right to transfer information about you in the event of a merger, acquisition, sale or other transaction involving SSI. In addition, we may transfer your information in the event of a change of control event. Following a transfer covered by this Sub-Section (iv) you may contact the entity to whom your information was transferred, with any inquiries concerning the processing of your information. 
 
-### How do we share the information that we collect?
 
-**Personal Information.** Personal information which we collect for a particular purpose will only be saved and used for that purpose, unless you have agreed to allow us to use it for some other purpose, as described in this Privacy Policy. For example, if you provide your personal information in connection with a request for customer support, we will use your personal information to contact you regarding such request. In sum, we use your personal information to provide you with our services, monitor and improve our services, enforce the Website’s polices and terms, prevent undesirable, abusive or illegal activities and to create new or improved services and products. We will not contact you with marketing solicitations or for promotional purposes, unless you have previously elected to opt-in to receive such communications. From time-to-time we may disclose your personal information to certain third party service providers and/or contractors of the Instantly. For example, we may provide your billing information to one of our payment processors, your name and email address to our email service provider to send you emails on our behalf or to our customer support provider to assist you with questions you may have through email and live chat software. However, Instantly uses commercially reasonable contractual and technical protections in an effort to ensure that your information will only be used by such service providers and/or contractors for the particular purpose for which it was disclosed. Generally, we will only disclose your personal information to third parties when (i) we have given you notice of such disclosure (e.g., this privacy policy), and (ii) we have obtained your express consent to disclose (e.g., when you opt-in to disclosure).
 
-**Survey Data.** As a creator of a survey, we treat your survey data as if it were your personal information. As such, we store survey data on your behalf but will not disclose survey data unless you have specifically authorized us to do so. In addition, we do not and will not sell survey data to third parties.
+6\. Where is Information Stored?
 
-We encourage you to download and backup your survey data. However, once you have downloaded your survey data, it is your duty to protect your copy of your survey data. In addition, you should diligently protect your account information and refrain from disclosing such information to any third parties, as Instantly is not responsible for any survey data downloaded by an unauthorized user of your account.
+Information, including, without limitation, PII and business contact information, is primarily stored on servers and systems located in the United States, which servers are licensed, owned, and/or maintained by or on behalf of SSI. Your information may also be stored on or in local servers, networks, and files maintained by or on behalf of a company within the SSI Group of companies. BY DISCLOSING YOUR PII TO SSI YOU ARE EXPRESSLY CONSENTING TO THE TRANSFER AND EXPORTING OF YOUR PERSONAL INFORMATION TO COUNTRIES OUTSIDE OF THE COUNTRY WHERE YOU MAY RESIDE, INCLUDING, WITHOUT LIMITATION, TO THE UNITED STATES. 
 
-As a respondent to a survey, please note that, as previously discussed herein, the survey creator is ultimately responsible for the privacy of your survey data. Consequently, you should consider the privacy risks involved before providing any personal information or data in a response to a survey that could be used to identify you.
+SSI complies with the principles set forth in the United States (“US”) – European Union (“EU”) and US – Swiss Safe Harbor Frameworks as set forth by the US Department of Commerce regarding the collection, use and retention of personal data from EU member countries and Switzerland. SSI has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program, and to view SSI’s certification page, please visit http://www.export.gov/safeharbor/.
 
-**Non-Personal Information.** We sometimes share non-personal information with third parties about our user base, but that information does not include any personal information. We may use non-personal information to learn what you like, tailor your experience accordingly, and to improve the Website and our other products.
+7\. What Security Measures Has SSI Implemented?
 
-**Law Enforcement.** We may disclose your personal information or otherwise use such information to communicate with you if required or permitted to do so by law or in the good-faith belief that such action is necessary to: (i) conform to legal requirements or comply with legal process or any governmental request; (ii) protect and defend the rights or property of Instantly or its affiliated companies, licensors or licensees; (iii) enforce the user agreements applicable to your use of the Website; or (iv) protect the personal safety or interests of Instantly’s employees, other users of the Website, or members of the public in urgent circumstances. We may also disclose any of your personal information to law enforcement or other appropriate third parties in connection with criminal investigations, investigation of fraud, infringement of intellectual property rights, or other suspected illegal activities, or as otherwise may be required by applicable law, or, as we deem necessary in our sole discretion, in order to protect the legitimate legal and business interests of Instantly.
+SSI maintains appropriate technical, administrative and physical safeguards to protect information, including, without limitation, PII, received or collected by SSI. SSI reviews, monitors and evaluates its privacy practices and protection systems on a regular basis. Notwithstanding the foregoing, transmissions over the Internet and/or a mobile network are not one hundred percent (100%) secure and SSI does not guarantee the security of such transmissions. SSI is not responsible for any errors by individuals in submitting PII to SSI. 
 
-In the event Instantly goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personal information will likely be among the assets transferred. You will be notified via a prominent notice on our Web site for 30 days of any such change in ownership or control of your personal information.
+8\. How can I opt-out?
 
-### Testimonials
+You may opt-out by:
 
-We post customer testimonials on our web site which may contain personal information. We do obtain the customer’s consent via email prior to posting the testimonial to post their name along with their testimonial. If you wish to request the removal of your testimonial please contact via the information below.
+  1. clicking on the unsubscribe link contained in any e-mail communication received from SSI; or 
+  2. contacting us as set forth below. 
 
-### External Links and Advertisements
 
-The Website may contain third-party advertisements and links to other websites. These other sites and advertisements maintain their own policies regarding cookies and the collection and use of personal information. We assume no responsibility or liability for the actions of such third parties with respect to their collection or use of your information. We encourage you to read the privacy policies of every website that you visit through a link on the Website.
 
-### Children’s Privacy
+9\. How Can You Access Your Information?
 
-The Website complies with the Children’s Online Privacy Protection Act. We do not collect information from anyone under 13 years of age and our website, products and services are all directed to people who are at least 13 years old or older.
+You may access information we collect from or about you in order to review, edit, or delete such information, or you may exercise your right to opt-out from communications from SSI, by:
 
-### Information for Parents/Guardians
+  1. Sending an email request to info@surveysampling.com;
+  2. Sending an email request to privacy@surveysampling.com;
+  3. Sending a request via regular mail, postage pre-paid to:   
+Survey Sampling International, LLC   
+6 Research Drive   
+Shelton, Connecticut 06484 USA   
+Attention: Legal Department 
 
-As a parent or guardian you can request that we remove the personal information of your child that was submitted without your consent or by misrepresenting his or her age. At your request, we will take reasonable steps to remove such information from our database. All such requests should include the same user name, password, and e-mail address that your child submitted and should be sent to [support@instant.ly](mailto:support@instant.ly).
 
-### Security
 
-We offer secure web pages to collect certain kinds of user information and we store certain kinds of data in encrypted form. We follow reasonable technical and management practices to help protect the confidentiality, security and integrity of data stored on our system. While no computer system is completely secure, we believe the measures implemented by our Website reduce the likelihood of security problems to a level appropriate to the type of data involved. We employ physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of any personal contact information. When you enter sensitive information (such as a credit card number or login credentials) on our pages or forms, we encrypt the transmission of that information using secure socket layer technology (SSL). If you have any questions regarding which measures and techniques we use, feel free to contact us at the information below.
+10\. Children’s Privacy. 
 
-### What are the policies concerning “California do not track disclosures”? 
+SSI believes it is important to protect the online privacy of children. Accordingly, SSI adheres to applicable laws and codes pertaining to the protection of children’s privacy, including, without limitation, the Children’s Online Privacy Protection Act of 1998 in the United States (as amended). SSI does not knowingly collect PII from anyone under the age thresholds prescribed by applicable laws and codes for the collection of PII from individuals without parental consent. If SSI became aware that it inadvertently collected PII from anyone under such age thresholds, SSI would promptly delete such PII.
 
-While Instantly honors (and will not interfere with) all browser settings set to “do not track”, Instantly has no control over third party websites that may have different policies or procedures. You are urged to consult, as applicable, with the privacy policies of such third party websites.
+11\. How Long Does SSI Retain My Information?
 
-### Questions and Comments
+SSI will retain PII and other information about you for such period of time as may be required or permissible by law. 
 
-If you have any questions or comments about this Privacy Policy, you may contact us at [support@instant.ly](mailto:support@instant.ly) or via postal mail at:
+12\. Who can I contact with questions or complaints about this Privacy Policy?
 
-Instantly, Inc.  
-16501 Ventura Blvd, Suite 300  
-Encino, California, USA, 91436
+Questions or Complaints Generally. 
 
-[](https://privacy.truste.com/privacy-seal/Instantly/validation?rid=2ecb9d3b-6861-4768-ab43-5944e346ebb1 "TRUSTe European Safe Harbor certification")
+If you have any questions or complaints regarding SSI’s privacy practices and/or this Privacy Policy or want to communicate an opt-out request to SSI, or want to exercise your rights to access, review, correct, delete or object to the processing of PII, please contact us: 
+
+via email at: privacy@surveysampling.com 
+
+or 
+
+via mail at: 
+
+Legal Department   
+Survey Sampling International, LLC   
+6 Research Drive, Shelton, Connecticut 06484 USA  
+p: (203) 567-7200/e: privacy@surveysampling.com 
+
+SSI has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Privacy Principles to an independent dispute resolution mechanism, the CASRO SAFE HARBOR PROGRAM. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by SSI, please visit the CASRO SAFE HARBOR PROGRAM website at https://www.casro.org/?complaintcasrosh for more information and to file a complaint.
+
+13\. Are there any companies within the SSI group that may collect, store and process PII?   
+Yes, please see the list of companies below: 
+
+  * Survey Sampling Europe BV – Weena 161, 3013 CK Rotterdam, Netherlands. 
+  * Survey Sampling Bulgaria EOOD – Triaditza area, #82, Patriarh Evtimii street, 1463, Sofia, Bulgaria.
+  * SSI Denmark ApS – Frederiksholms Kanal 4B, DK-1220, Copenhagen K Copenhagen.
+  * Survey Sampling France SASU – 22 rue de Dunkerque, 75010 Paris, France.
+  * Survey Sampling Germany GmbH – Kaiserstrasse 13, 60311 Frankfurt am Main, Deutschland.
+  * Survey Sampling RO S.R.L. – 12 Popa Sapca Street, Timisoara 300057.
+  * Survey Sampling Spain S.L. – C/ Carranza, 25, 2ª planta, 28004, Madrid, Spain.
+  * SSI Sweden AB – Drakens Gränd 8, 111 30 Stockholm, Sweden.
+  * Survey Sampling UK Ltd. – India House, 2nd Floor 45 Curlew Street London SEI 2nd United Kingdom.
+  * Survey Sampling Hong Kong Ltd. – 6/F, Hollywood Centre, 233 Hollywood Road, Sheung Wan, Hong Kong.
+  * SSI Beijing Co. Ltd. – CBD International Mansion, Room 901A, No. 16 Yongandongli, Chaoyang District, Beijing 100022, China.
+  * Survey Sampling Australia Pty. Ltd. – Level 11, 131 York Street, Syndey NSW 2000, Australia.
+  * Survey Sampling Singapore PTE Ltd. – #58 Republic Plaza, 9 Raffles Place, Singapore 048619.
+  * Survey Sampling International Services Company S.De R.L. De C.V. – Cordoba 42, Piso 9, Col. Roma Norte/Del. Cuauhtemoc, Mexico, D.F. 06700.
+  * Survey Sampling Korea Ltd. – Level 4, 27-8, Gukjegeumyung-ro 8-gil Yeongdeungpo-gu, Seoul Korea 150-998.
+  * Survey Sampling Japan GK – 3F KK Building, I-8-5, Shinkawa, Chuo-Ku, 104-0033, Tokyo, Japan.
+  * SSI Do Brasil Pesquisa de Mercado Ltda. – Rua das Olimpiadas, 205 – 40 ander 04551-000, Sao Paulo, Brasil.
+  * SSI Philippines Inc. – PIPC Bldg 7, MEPZ II, Basak, Lapu-Lapu, Cebu 6015, Philippines.
+  * MRops Programming India Private Ltd. – 8th Floor, Block 1, My Home Hub, Madhapur, Hyderabad, TG 500081.
+  * Mountain West Research Center L.C.
+  * Survey Sampling Hungary Kft. – Lion Office Center, 2 Vágóhíd Street, 7th Building, 3rd floor, H-4030 Debrecen, Hungary.
+
+
+
+14\. Links To Other Websites.
+
+SSI’s website(s) may contain or provide links to other websites for your convenience and information. These websites may operate independently from SSI. Linked sites may have their own privacy notices or policies, which we strongly suggest you review if you visit any linked websites. To the extent any linked websites you visit are not owned or controlled by SSI, SSI is not liable or responsible for the websites’ content, any use of the websites, or the privacy practices of the owners of the websites. 
+
+15\. Updates to this Privacy Policy.
+
+This Privacy Policy may be updated periodically and without prior notice to you to reflect changes to SSI’s practices and procedures set forth herein. In the event of any updates or changes to this Privacy Policy, SSI will post a prominent notice on SSI’s website(s) to notify you of any significant changes. 
