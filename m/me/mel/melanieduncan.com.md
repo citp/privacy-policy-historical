@@ -1,6 +1,23 @@
-> *The following text is extracted and transformed from the melanieduncan.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207155227id_/http%3A//www.melanieduncan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melanieduncan.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530024532id_/http%3A//www.melanieduncan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
+
+Get the  
+#WORKFROMWHEREVER  
+GUIDE
+
+Discover how to start and grow a business that affords you the freedom to #WorkFromWherever. 
+
+Inside You’ll Find:
+
+  * Tips to achieve the #WorkFromWherever lifestyle.
+  * How to set up and shape your business to create freedom.
+  * Insights into how I manage a factory and team from across the globe.
+
+
+
+“This guide was not only incredibly inspiring, but also SO actionable. Thank you!”  
+Megan
 
 MelanieDuncan.com is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.
 
@@ -12,7 +29,7 @@ This site contains links to other sites and we are not responsible for the priva
 
 We reserve the right to release such information to law enforcement or other governmental officials as we, in our sole and absolute discretion, deem necessary to comply with the law.
 
- **Section 1: Collected Information**
+**Section 1: Collected Information**
 
 We automatically collect and/or track the following:
 
@@ -21,7 +38,7 @@ We automatically collect and/or track the following:
 
 
 
- **Section 2: Use of Data Collected**
+**Section 2: Use of Data Collected**
 
 We use your personal, demographic and profile data to enhance your experience at our site and to enable us to present content we think you might be interested in.
 
@@ -29,7 +46,7 @@ We use your contact information to send you information about our company and pr
 
 We may also use your personal, demographic and profile data to improve our site, for statistical analysis, for marketing and promotional purposes, and for editorial or feedback purposes for our advertisers Information collected by us may be added to our databases and used for future telemarketing, SMS text-messaging, e-mails or postal mailings regarding site updates, new products and services, upcoming events, and/or status of orders placed online.   By using this site, you agree that you may be contacted in any manner contemplated in this section even if your number is found on a do not call registry, in-house list or similar registry.
 
- _ **Section 3: Disclosure of Data to Third Parties  
+_**Section 3: Disclosure of Data to Third Parties  
 **  
 _If you choose to provide personal information, it will be used for the following purposes:  
 considering you for a MelanieDuncan.com product; as required by law; and marketing products and services which we determine, in our sole judgment, that you might find of interest. We reserve the right to share, rent, sell, or otherwise disclose data we collect to third parties. _ _  
@@ -37,29 +54,29 @@ __
 
 Any third party we share, rent, sell, or otherwise disclose data to will be prescreened by us, determined by us to be reputable, and will use the personal data for marketing products and services which we determine, in our sole judgment, that you might find of interest.
 
- **Section 4: Your Opt-Out Rights**
+**Section 4: Your Opt-Out Rights**
 
 You may opt-out of receiving communications from us and/or our partners by not submitting your information. We also allow you to remove your information from our marketing lists. If you remove your information from our marketing lists it will no longer be used by us to send promotional correspondence to you.
 
 You can remove your information from our marketing lists by clicking on the Unsubscribe link at the bottom of every email we send you, or by sending your request, in writing, via email to: melanieATmelanieduncanDOTcom (Please replace AT with @ and DOT with .)
 
- **Section 5: We Do Not Intend to Collect Data from Children**
+**Section 5: We Do Not Intend to Collect Data from Children**
 
 The information and services provided to us or our affiliates, sponsors, and advertisers are not intended to be viewed by children (under 18 years old). No information collected from children is knowingly used for any marketing or promotional purposes whatsoever, either inside or outside MelanieDuncan.com. No part of MelanieDuncan.coms web site is structured to attract anyone under the age of 18.
 
- **Section 6: Our Right to Contact You**
+**Section 6: Our Right to Contact You**
 
 We reserve the right to contact you regarding your account status and changes to subscriber agreements, privacy policy, or any other policies or agreements relevant to you.
 
- **Section 7: Our Right to Change**
+**Section 7: Our Right to Change**
 
 We reserve the right to change this policy at any time by notifying you of the existence and location of the new or revised privacy policy or by posting the changes online at our site.
 
- **Section 8: Our Contact Information  
+**Section 8: Our Contact Information  
 **  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via email sent to: melanieATmelanieduncanDOTcom (Please replace AT with @ and DOT with .)
 
- **Section 9: Anti Spam Policy.**
+**Section 9: Anti Spam Policy.**
 
 Can-Spam Act Compliance. MelanieDuncan.com is dedicated to ensuring compliance with the Can-Spam Act, which took effect January 1, 2004. You may receive email from MelanieDuncan.com in the following circumstances:
 
@@ -76,7 +93,7 @@ All third party marketing partners are required to comply with the Can-Spam Act.
 
 Emails sent to you directly by MelanieDuncan.com will include an email address and physical address where you can send suggestions, complaints or other correspondence.
 
- **Section 10: Information for ISPs**
+**Section 10: Information for ISPs**
 
 Web site: MelanieDuncan.com or PowerofPinning.com, Email Address: melanieATmelanieduncanDOTcom  
 (Please replace AT with @ and DOT with .)
