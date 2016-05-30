@@ -1,26 +1,22 @@
-> *The following text is extracted and transformed from the filmtrailer.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526053824id_/http%3A//uk.filmtrailer.com/content/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmtrailer.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530092611id_/http%3A//uk.filmtrailer.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Film trailers and new movie trailers at filmtrailer.com
+# 
 
-[](https://web.archive.org/cinema/9977/fast+girls+film+trailer+sport+drama+lily+james+noel+clarke+lenora+crichlow.html?clip_type=7) Extra clip 1 - Fast Girls
+“The Nice Guys” takes place in 1970s Los Angeles, when down-on-his-luck private eye Holland March (Gosling) and hired enforcer Jackson Healy (Crowe) must work together to solve the case of a missing girl and the seemingly unrelate ...
 
-[](https://web.archive.org/cinema/9977/fast+girls+film+trailer+sport+drama+lily+james+noel+clarke+lenora+crichlow.html) Trailer 1 - Fast Girls
+Play now 
 
-[](https://web.archive.org/cinema/10370/Magic+Mike+film+trailer+comedy+drama+Channing+Tatum+Steven+Soderbergh.html) Trailer 1 - Magic Mike
+**Title:** The Nice Guys  
+**Genre:** Mystery, Crime, Thriller  
+**Cast:** Kim Basinger, Ryan Gosling, Russell Crowe, Matt Bomer  
+**Release Date:** 2016-06-03  
+**Production Country:** United States  
+**Directed By:** Shane Black  
+**Film Duration:** N/A  
+**Production Year:** 2016  
+**Distributor:** Icon Film Distributors UK
 
-[](https://web.archive.org/cinema/9355/Prometheus+film+trailer+Ridley+Scott+action+horror+sci+fi+.html) UK Trailer - Prometheus
-
-[](https://web.archive.org/cinema/9355/Prometheus+film+trailer+Ridley+Scott+action+horror+sci+fi+.html?clip_type=7) Creation Featurette - P..
-
-[](https://web.archive.org/cinema/9355/Prometheus+film+trailer+Ridley+Scott+action+horror+sci+fi+.html?clip_type=2) International Trailer -..
-
-[](https://web.archive.org/cinema/9355/Prometheus+film+trailer+Ridley+Scott+action+horror+sci+fi+.html?clip_type=3) Trailer 3 - Prometheus
-
-[](https://web.archive.org/cinema/7191/Polisse+film+trailer+french+crime+drama.html) Trailer 1 - Polisse
-
-[](https://web.archive.org/cinema/10373/Personal+Best+film+trailer+2012+UK+documentary+sport+.html) Trailer 1 - Personal Best
-
-[](https://web.archive.org/cinema/7721/Tales+of+the+Night+film+trailer+french+animated+fantasy+Michel+Ocelot.html) Trailer 1 - Tales of th..
+**Synopsis:** “The Nice Guys” takes place in 1970s Los Angeles, when down-on-his-luck private eye Holland March (Gosling) and hired enforcer Jackson Healy (Crowe) must work together to solve the case of a missing girl and the seemingly unrelated death of a porn star. During their investigation, they uncover a shocking conspiracy that reaches up to the highest circles of power. 
 
 ## Privacy 
 
@@ -63,3 +59,11 @@ The Hi-media cookie contains no information that can be used to identify or loca
 ## Disabling these adverts
 
 In its affinity-based ad targeting activity, Hi-media does not gather information that may breach the privacy of Internet users. Given that we use cookies in this activity, however, we believe it to be our duty to inform Internet users of the fact, and of how the cookies operate and what information they contain. Furthermore, we fully understand and accept that some Internet users may not consider affinity-based ad targeting as suitable or appropriate to them. Hi-media has therefore taken steps to include in its privacy protection policy a very simple means of opting out of the process, by clicking on the following link: [Opt-out Cookie](http://fl01.ct2.comclick.com/option.ct2?num=1&css=http%3A//premium.hi-mediaserver.com/premium/comtrack/tracking/css/optout-hi-media.css)
+
+The Filmtrailer app is the ultimate destination for European movie lovers. It brings you closer to the stars with a completely unique mix of high-quality film trailers and film info from 10 European countries, video interviews straight from the red carpet as well as sneak peeks behind the scenes of the biggest new movie releases in Europe. Plus, in Italy, UK and Finland you will be able to map your local cinemas and see what's playing when, wherever you are.
+
+[App store](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=345362038&mt=8)
+
+Here you will find the services that Preview Networks offers to our publisher partners to integrate our content. Choose from the list below to read more about HTML embed, API solutions or to get an overview of the content we distribute.
+
+[Your own channel](http://www.previewnetworks.com/get-content.html)
