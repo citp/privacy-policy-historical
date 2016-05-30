@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tuberip.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512190100id_/http%3A//tuberip.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuberip.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530120443id_/http%3A//tuberip.com/privacy.phtml) for the most accurate reproduction.*
 
 # Www.tuberip.com - Privacy Statement
 
