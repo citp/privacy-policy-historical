@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vexrobotics.com privacy policy that was archived on 2015-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151209190457id_/http%3A//www.vexrobotics.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vexrobotics.com privacy policy that was archived on 2016-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160530031403id_/http%3A//www.vexrobotics.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <title> Privacy Policy  - VEX Robotics</title>
@@ -26,7 +26,7 @@
 <link rel="stylesheet" type="text/css" href="http://www.vexrobotics.com/skin/frontend/ifi/default/css/menu.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.vexrobotics.com/skin/frontend/ifi/default/css/custom.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.vexrobotics.com/skin/frontend/ifi/default/css/ifi-screen.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.vexrobotics.com/skin/frontend/ifi/vexrobotics/css/custom23.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.vexrobotics.com/skin/frontend/ifi/vexrobotics/css/custom26.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.vexrobotics.com/skin/frontend/ifi/default/css/ifi-print.css" media="print">
 <link rel="stylesheet" type="text/css" href="http://www.vexrobotics.com/skin/frontend/ifi/default/css/print.css" media="print">
 <script type="text/javascript" src="http://www.vexrobotics.com/skin/frontend/ifi/vexrobotics/js/jquery-1.8.min.js"></script>
@@ -110,6 +110,11 @@ if(Ajax.Responders){
         console.log(jQuery('body').css('background-position'));
         jQuery('body').css('background-position','bottom center');
         console.log(jQuery('body').css('background-position'));
+
+        jQuery( "#vexTabs1" ).tabs();
+        jQuery( "#vexTabs2" ).tabs();
+        jQuery( "#vexTabs3" ).tabs();
+
     };
 </script>
 </head>
@@ -125,13 +130,10 @@ if(Ajax.Responders){
     </noscript>
 <div class="site-message">
     <div class="site-message-inner">
-        <p>Our office will be closed for the holidays from Thursday, December 24, 2015, resuming normal hours on Monday, January 4, 2016.  Sales or technical support inquiries placed during this period will be processed beginning January 4, 2016.</p><br>
+        <p>The VEX Robotics US office will be closed in observance of Memorial Day on Monday, May 30th. We will resume normal hours on Tuesday, May 31st. </p><br>
 
-<p>Orders placed after 3:00 PM Central on Wednesday, 12/23/15 will process and ship out Monday, 1/4/16, to be delivered from there according to the selected shipping speed. </p><br>
-
-<p>Orders must be placed by 3:00 PM on Wednesday, 12/23/15 for delivery by Christmas.  For example, a Next Day Air order placed by 3:00 PM Central on Wednesday, 12/23, will be delivered on Thursday, 12/24.</p><br>
-
-<p><b>We appreciate your understanding and wish all VEX users a happy holiday season.</b></p><br>    </div>
+<p>Orders placed after 3 P.M. Friday, May 27th  will ship on the following Tuesday.</p>
+    </div>
 </div>
         <!-- start header -->
         <div class="ifi-container header">
@@ -156,11 +158,15 @@ if(Ajax.Responders){
         <form id="search_mini_form" action="/search" method="get">
         <div class="mini-search">
             <input id="search" type="text" name="keyword" class="input-text" value="">
+            <img id="search_mag" src="//content.vexrobotics.com/images/header/Magnifying_Glass.png">
         </div>
 </form>
 <script type="text/javascript">
 //<![CDATA[
     var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search');
+    Event.observe( $('search_mag'), 'click', function() {
+        $('search_mini_form').submit();
+    });
 //]]>
 </script>
     </div>
@@ -225,6 +231,9 @@ function changeWebsite(sObject){
 <li onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)" class="level0 nav-vexiq parent">
 <a href="http://www.vexrobotics.com/vexiq"><span>VEX IQ</span></a>
 <ul class="level0">
+<li class="level1 nav-vexiq-why-vexiq">
+<a href="http://www.vexrobotics.com/vexiq/why-vexiq"><span>Why VEX IQ?</span></a>
+</li>
 <li onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)" class="level1 nav-vexiq-products parent">
 <a href="http://www.vexrobotics.com/vexiq/products"><span>Products</span></a>
 <ul class="level1">
@@ -257,9 +266,13 @@ function changeWebsite(sObject){
 <a href="http://www.vexrobotics.com/vexiq/products/accessories/other"><span>Other</span></a>
 </li>
 </ul></li>
-<li class="level2 nav-vexiq-products-competition-products">
+<li onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)" class="level2 nav-vexiq-products-competition-products parent">
 <a href="http://www.vexrobotics.com/vexiq/products/competition-products"><span>Competition Products</span></a>
+<ul class="level2">
+<li class="level3 nav-vexiq-products-competition-products-viqc-past last">
+<a href="http://www.vexrobotics.com/vexiq/products/competition-products/viqc-past"><span>Past VIQC Game Products</span></a>
 </li>
+</ul></li>
 <li class="level2 nav-vexiq-products-view-all last">
 <a href="http://www.vexrobotics.com/vexiq/products/view-all"><span>View All</span></a>
 </li>
@@ -497,6 +510,9 @@ function changeWebsite(sObject){
 <li onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)" class="level2 nav-vexiq-competition-competition-history parent">
 <a href="http://www.vexrobotics.com/vexiq/competition/competition-history"><span>Competition History</span></a>
 <ul class="level2">
+<li class="level3 nav-vexiq-competition-competition-history-bankshot">
+<a href="http://www.vexrobotics.com/vexiq/competition/competition-history/bankshot"><span>2015-2016: VEX IQ Challenge Bankshot</span></a>
+</li>
 <li class="level3 nav-vexiq-competition-competition-history-highrise">
 <a href="http://www.vexrobotics.com/vexiq/competition/competition-history/highrise"><span>2014-2015: VEX IQ Challenge Highrise</span></a>
 </li>
@@ -507,6 +523,9 @@ function changeWebsite(sObject){
 <a href="http://www.vexrobotics.com/vexiq/competition/competition-history/rings-n-things"><span>2012-2013: VEX IQ Rings-N-Things</span></a>
 </li>
 </ul></li>
+<li class="level2 nav-vexiq-competition-viqc-hub">
+<a href="http://www.vexrobotics.com/vexiq/competition/viqc-hub"><span>VIQC Hub</span></a>
+</li>
 <li class="level2 nav-vexiq-competition-event-partners">
 <a href="http://www.vexrobotics.com/vexiq/competition/event-partners"><span>Event Partners</span></a>
 </li>
@@ -530,11 +549,14 @@ function changeWebsite(sObject){
 <a href="http://www.vexrobotics.com/vexiq/software/vexassembler"><span>VEX Assembler</span></a>
 </li>
 </ul></li>
-<li onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)" class="level1 nav-vexiq-support parent">
-<a href="http://www.vexrobotics.com/vexiq/support"><span>Forum &amp; Support</span></a>
+<li onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)" class="level1 nav-vexiq-forum-support parent">
+<a href="http://www.vexrobotics.com/vexiq/forum-support"><span>Forum &amp; Support</span></a>
 <ul class="level1">
-<li class="level2 nav-vexiq-support-color-part-number-info last">
-<a href="http://www.vexrobotics.com/vexiq/support/color-part-number-info"><span>Color &amp; Part Number Info</span></a>
+<li class="level2 nav-vexiq-forum-support-vex-iq-forum">
+<a href="http://www.vexrobotics.com/vexiq/forum-support/vex-iq-forum"><span>VEX IQ Forum</span></a>
+</li>
+<li class="level2 nav-vexiq-forum-support-color-part-number-info last">
+<a href="http://www.vexrobotics.com/vexiq/forum-support/color-part-number-info"><span>Color &amp; Part Number Info</span></a>
 </li>
 </ul></li>
 <li onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)" class="level1 nav-vexiq-explore parent">
@@ -555,8 +577,11 @@ function changeWebsite(sObject){
 <li class="level2 nav-vexiq-explore-cad">
 <a href="http://www.vexrobotics.com/vexiq/explore/cad"><span>CAD</span></a>
 </li>
-<li class="level2 nav-vexiq-explore-3d-printing last">
+<li class="level2 nav-vexiq-explore-3d-printing">
 <a href="http://www.vexrobotics.com/vexiq/explore/3d-printing"><span>3D Printing</span></a>
+</li>
+<li class="level2 nav-vexiq-explore-find-sammy last">
+<a href="http://www.vexrobotics.com/vexiq/explore/find-sammy"><span>Find Sammy</span></a>
 </li>
 </ul></li>
 <li onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)" class="level1 nav-vexiq-contact last parent">
@@ -573,6 +598,9 @@ function changeWebsite(sObject){
 </li>
 <li class="level2 nav-vexiq-contact-marketing-resources">
 <a href="http://www.vexrobotics.com/vexiq/contact/marketing-resources"><span>Marketing Resources</span></a>
+</li>
+<li class="level2 nav-vexiq-contact-quey-resources">
+<a href="http://www.vexrobotics.com/vexiq/contact/quey-resources"><span>Quey Resources</span></a>
 </li>
 <li class="level2 nav-vexiq-contact-fundraising last">
 <a href="http://www.vexrobotics.com/vexiq/contact/fundraising"><span>Fundraising</span></a>
@@ -674,12 +702,18 @@ function changeWebsite(sObject){
 <li class="level3 nav-vexedr-competition-competition-history-elevation">
 <a href="http://www.vexrobotics.com/vexedr/competition/competition-history/elevation"><span>2008-2009: Elevation</span></a>
 </li>
-<li class="level3 nav-vexedr-competition-competition-history-bridge-battle last">
+<li class="level3 nav-vexedr-competition-competition-history-bridge-battle">
 <a href="http://www.vexrobotics.com/vexedr/competition/competition-history/bridge-battle"><span>2007-2008: Bridge Battle</span></a>
+</li>
+<li class="level3 nav-vexedr-competition-competition-history-nbn last">
+<a href="http://www.vexrobotics.com/vexedr/competition/competition-history/nbn"><span>2015-2016; Nothing But Net</span></a>
 </li>
 </ul></li>
 <li class="level2 nav-vexedr-competition-competition-resources">
 <a href="http://www.vexrobotics.com/vexedr/competition/competition-resources"><span>Competition Resources</span></a>
+</li>
+<li class="level2 nav-vexedr-competition-vrc-hub">
+<a href="http://www.vexrobotics.com/vexedr/competition/vrc-hub"><span>VRC Hub</span></a>
 </li>
 <li class="level2 nav-vexedr-competition-event-partners last">
 <a href="http://www.vexrobotics.com/vexedr/competition/event-partners"><span>Event Partners</span></a>
@@ -698,9 +732,13 @@ function changeWebsite(sObject){
 <li class="level1 nav-vexedr-downloads">
 <a href="http://www.vexrobotics.com/vexedr/downloads"><span>Downloads</span></a>
 </li>
-<li class="level1 nav-vexedr-forum-support-1">
-<a href="http://www.vexrobotics.com/vexedr/forum-support-1"><span>Forum &amp; Support</span></a>
+<li onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)" class="level1 nav-vexedr-edr-support-overview parent">
+<a href="http://www.vexrobotics.com/vexedr/edr-support-overview"><span>Forum &amp; Support</span></a>
+<ul class="level1">
+<li class="level2 nav-vexedr-edr-support-overview-edr-forum last">
+<a href="http://www.vexrobotics.com/vexedr/edr-support-overview/edr-forum"><span>VEX EDR Forum</span></a>
 </li>
+</ul></li>
 <li onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)" class="level1 nav-vexedr-contact last parent">
 <a href="http://www.vexrobotics.com/vexedr/contact"><span>Contact Us</span></a>
 <ul class="level1">
@@ -767,6 +805,12 @@ function changeWebsite(sObject){
 <li class="level2 nav-vexpro-versaframe-versaframe-gussets-and-mounts">
 <a href="http://www.vexrobotics.com/vexpro/versaframe/versaframe-gussets-and-mounts"><span>VersaFrame Gussets and Mounts</span></a>
 </li>
+<li class="level2 nav-vexpro-versaframe-linear-motion">
+<a href="http://www.vexrobotics.com/vexpro/versaframe/linear-motion"><span>Linear Motion</span></a>
+</li>
+<li class="level2 nav-vexpro-versaframe-versadrop">
+<a href="http://www.vexrobotics.com/vexpro/versaframe/versadrop"><span>VersaDrop</span></a>
+</li>
 <li class="level2 nav-vexpro-versaframe-single-reduction-clamping-gearbox">
 <a href="http://www.vexrobotics.com/vexpro/versaframe/single-reduction-clamping-gearbox"><span>Single Reduction Clamping Gearbox</span></a>
 </li>
@@ -804,14 +848,23 @@ function changeWebsite(sObject){
 <li class="level2 nav-vexpro-motors-electronics-217-4245">
 <a href="http://www.vexrobotics.com/vexpro/motors-electronics/217-4245"><span>Voltage Regulator Module</span></a>
 </li>
+<li class="level2 nav-vexpro-motors-electronics-encoders">
+<a href="http://www.vexrobotics.com/vexpro/motors-electronics/encoders"><span>Encoders</span></a>
+</li>
 <li class="level2 nav-vexpro-motors-electronics-cimmotor">
 <a href="http://www.vexrobotics.com/vexpro/motors-electronics/cimmotor"><span>CIM Motor</span></a>
 </li>
 <li class="level2 nav-vexpro-motors-electronics-minicim">
 <a href="http://www.vexrobotics.com/vexpro/motors-electronics/minicim"><span>Mini CIM Motor</span></a>
 </li>
-<li class="level2 nav-vexpro-motors-electronics-bagmotor last">
+<li class="level2 nav-vexpro-motors-electronics-bagmotor">
 <a href="http://www.vexrobotics.com/vexpro/motors-electronics/bagmotor"><span>BAG Motor</span></a>
+</li>
+<li class="level2 nav-vexpro-motors-electronics-775pro">
+<a href="http://www.vexrobotics.com/vexpro/motors-electronics/775pro"><span>775pro</span></a>
+</li>
+<li class="level2 nav-vexpro-motors-electronics-motors-vex last">
+<a href="http://www.vexrobotics.com/vexpro/motors-electronics/motors-vex"><span>VEX Robotics DC Motor Testing</span></a>
 </li>
 </ul></li>
 <li class="level1 nav-vexpro-pneumatics">
@@ -852,12 +905,22 @@ function changeWebsite(sObject){
 <li onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)" class="level1 nav-vexpro-all parent">
 <a href="http://www.vexrobotics.com/vexpro/all"><span>View All</span></a>
 <ul class="level1">
-<li class="level2 nav-vexpro-all-new-for-2015 last">
-<a href="http://www.vexrobotics.com/vexpro/all/new-for-2015"><span>New for 2015</span></a>
+<li class="level2 nav-vexpro-all-new-for-2016">
+<a href="http://www.vexrobotics.com/vexpro/all/new-for-2016"><span>New for 2016</span></a>
 </li>
+<li onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)" class="level2 nav-vexpro-all-new-for-2015 last parent">
+<a href="http://www.vexrobotics.com/vexpro/all/new-for-2015"><span>Launched in 2015</span></a>
+<ul class="level2">
+<li class="level3 nav-vexpro-all-new-for-2015-775pro last">
+<a href="http://www.vexrobotics.com/vexpro/all/new-for-2015/775pro"><span>775pro</span></a>
+</li>
+</ul></li>
 </ul></li>
 <li class="level1 nav-vexpro-new-for-2015">
 <a href="http://www.vexrobotics.com/vexpro/new-for-2015"><span>New for 2015!</span></a>
+</li>
+<li class="level1 nav-vexpro-new-for-2016">
+<a href="http://www.vexrobotics.com/vexpro/new-for-2016"><span>New for 2016!</span></a>
 </li>
 <li onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)" class="level1 nav-vexpro-contact-us last parent">
 <a href="http://www.vexrobotics.com/vexpro/contact-us"><span>Contact Us</span></a>
@@ -903,9 +966,6 @@ function changeWebsite(sObject){
 </ul></li>
 <li class="level0 nav-find-a-reseller">
 <a href="http://www.vexrobotics.com/find-a-reseller"><span>Find a Reseller</span></a>
-</li>
-<li class="level0 nav-news">
-<a href="http://www.vexrobotics.com/news"><span>News</span></a>
 </li>
 <li class="level0 nav-pltwgrants">
 <a href="http://www.vexrobotics.com/pltwgrants"><span>PLTW Grant Program</span></a>
@@ -985,7 +1045,7 @@ A: Our Internet servers are housed in a very safe environment, which provides a 
 </div>
 <div class="ifi-span-18 ifi-append-3 ifi-last">
 VEX and VEX Robotics are trademarks or service marks of Innovation First International, Inc.<br>
-Copyright © 2002-2015. All Rights Reserved.  VEX Robotics, Inc. is a subsidiary of Innovation First International, Inc.<br>
+Copyright © 2002-2016. All Rights Reserved.  VEX Robotics, Inc. is a subsidiary of Innovation First International, Inc.<br>
 All other product names/marks of others are the property of their respective owners. <a href="http://www.vexrobotics.com/privacy_policy">Privacy Policy</a><br>
 Patents and/or Patents Pending: <a href="http://www.innovationfirst.com/patents">innovationfirst.com/patents</a>
 </div>
