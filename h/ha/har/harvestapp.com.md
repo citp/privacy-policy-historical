@@ -1,99 +1,135 @@
-> *The following text is extracted and transformed from the harvestapp.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630053206id_/http%3A//www.getharvest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harvestapp.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530182500id_/https%3A//www.getharvest.com/services/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Harvest
 
-Your browser is no longer supported! Please upgrade your web browser now. [Learn More](http://www.getharvest.com/browser-upgrade)
+At Harvest, we are committed to protecting your privacy, and we have created this Privacy Policy as part of our [Terms of Service](https://www.getharvest.com/terms-of-service) to explain what information we collect, how your information is collected, and how we may use it on our website getHarvest.com, our platform at harvestapp.com, and other websites and services that we operate.
 
-**Harvest is committed to protect the privacy of our customers. This Privacy Policy outlines what information we collect and how we may use it on[www.getharvest.com](http://www.getharvest.com/).**
+As you will see in the Policy, we only use the information collected to improve our services for our users. If after reviewing the Policy you have any further questions, please contact us at [privacy@getharvest.com](mailto:privacy@getharvest.com).
 
-[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.getharvest.com/seal_m "Validate TRUSTe privacy certification") Harvest, a product of Iridesco LLC, has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact Danny Wen at [](http://getharvest.com/). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). 
+* * *
 
-Maintaining the privacy of your information is of paramount importance to us as it helps foster confidence, goodwill and stronger relationships with you, our customers. If, at any time, you have questions or concerns about our privacy practices, please feel free contact us at [](http://getharvest.com/).
+#### 1\. Definitions
 
-  1. When you register with Harvest, we need to ask for information such as your name, company name, email address.
-  2. Harvest uses the collected information for the following general purposes: to create your account, provide you with email communications in regards to our service, to send you newsletters, service improvement, and research.
-  3. If you wish to upgrade your account this may be done within the application. This privacy policy does not cover any personal or sensitive information collected within the application. 
+When we say, “we,” “our,” or “us,” we’re referring to Iridesco, LLC d/b/a Harvest, a New York limited liability company, our employees, directors, officers, affiliates, and subsidiaries.
+
+When we say “you” or “your,” we are referring to the person or entity that’s registered with us to use the Harvest Services.
+
+When we say “Websites,” we mean our websites located at getHarvest.com, harvestapp.com, including all subdomains and sites associated with those domains, and other websites that we operate now and in the future.
+
+When we say “Services,” we mean our Websites, Application Programming Interfaces (APIs), applications, our content, and various third-party services that make up Harvest.
+
+When we say “Harvest,” we mean our Websites and Services collectively.
+
+When we say “information,” we mean all of the different forms of data that you provide us and that we collect from you from your use of the Services, your software, and your devices.
+
+* * *
+
+#### 2\. Privacy Certifications
+
+We comply with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. We have certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view [our certification](https://safeharbor.export.gov/companyinfo.aspx?id=26879), please visit <http://www.export.gov/safeharbor>.
+
+* * *
+
+#### 3\. Information We Collect
+
+  1. **Information you provide to us:** When you register for and use Harvest, you are providing us with information, which we collect. This information may include your name, billing and mailing address, email address, phone number, and credit card information. We use a third-party intermediary to manage credit card processing. This intermediary is not permitted to store, retain, or use your billing information for any purpose except for credit card processing on our behalf.
+  2. **Information from your use of Services:** This information may include IP Address, location information, date and time, browser type, and any other action you might have taken to use and while using the Services.
+  3. **Cookies:** When you use Harvest, we store "cookies," which are strings of code, on your computer. We use those cookies to collect information about when you visit our Website, when you use the Services, your browser, your operating system, and other similar information. Most browsers allow you to block and delete cookies. However, if you block our cookies, our Services may not work properly.
+  4. **Third Party Cookies:** The use of cookies by third parties is not covered by our Privacy Policy. We do not have access or control over these cookies. Third parties use session ID cookies to make it easier for you to navigate our Websites. We use third-party services to provide the necessary hardware, software, networking, storage, and related technology required to run and improve our Services.
+  5. **Web Beacons:** Our third party partners may employ web beacons to track online user movement to help us better understand what content is effective. Web beacons are tiny graphics with a unique identifier that are embedded in websites and in newsletter emails. With web beacons, our third party partners may collect information about you, such as your IP address, your browser or email client type, and other similar details. We use the data from our third party partners to improve our services.
 
 
 
 * * *
 
-#### Newsletters
+#### 4\. How We Use Your Information
 
-As part of the service that we offer you will receive our monthly newsletter. We will use your name and email address to send the newsletter to you. If you no longer wish to receive our newsletters you may unsubscribe by following the unsubscribe link located within each email communication.
-
-  1. Harvest will not make any of the collected information available to anyone. We will never sell, rent, exchange or share your personal information with third parties other than as disclosed within this privacy policy.
-  2. Harvest will need to share the collected information in order to respond to investigation, court orders, legal process, or to investigate, prevent or take action regarding illegal activities, suspected fraud, or situations involving potential threats to the physical safety of any person, violations of HARVEST's terms of use, or as otherwise required by law.
-  3. Harvest reserves the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
-  4. Harvest will send a welcoming email to verify your new account. We will only email account holders for billing purposes. We will occasionally send out HARVEST service related announcements.
-  5. Harvest uses a technology called "cookies" to store session information. A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive. HARVEST may set and access HARVEST cookies on your computer, cookies are required to use the HARVEST service. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
-
-
-
-We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
-
-* * *
-
-#### Third Party Cookies
-
-The use of cookies by third parties is not covered by our privacy statement. We do not have access or control over these cookies. These third parties use session ID cookies to make it easier for you to navigate our site.
-
-  1. Harvest uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run HARVEST. Although Iridesco owns the code, databases, and all rights to the HARVEST application, you retain all rights to your data.
-  2. Harvest may periodically update this Privacy Policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your HARVEST account or by placing a prominent notice on our site.
-  3. If you have any question about this Privacy Policy, please contact us  at [](http://getharvest.com/).
+  1. To create your account.
+  2. To bill you for services.
+  3. To provide customer support.
+  4. To transfer your information in the case of a sale, merger, consolidation, or acquisition.
+  5. To better understand your needs and interests.
+  6. To send newsletters.
+  7. To personalize your experience.
+  8. To improve our Services and our products.
+  9. To send you updates and alerts and to contact you about your account.
+  10. To respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
 
 
+
+If you no longer wish to receive our newsletters, you may unsubscribe by following the link located within our emails.
 
 * * *
 
-#### Updating or Correcting Personally Identifiable Information
+#### 5\. How We Share and Disclose Your Personal Information
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct or update it by emailing our Customer Support at [](http://harvestapp.com/) or by contacting us by telephone or postal mail at the contact information listed below. 
+While we never share your personal information with nonaffiliated companies, we may share your personal information in the following ways:
 
-* * *
+  1. We may share information with service providers who provide necessary services to Harvest and to strategic partners who help us market Harvest - for instance to send out newsletters or to process payments.
+  2. To provide customer support.
+  3. When we have your permission to share your information.
+  4. When we have given you prior notice that the information will be shared.
+  5. When we are required by law, or legal process to disclose that information – such as a valid court order or a valid subpoena. When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a valid government request.
+  6. To enforce our terms and conditions or to protect our operations or users.
+  7. If a transfer of your information is required under the terms of a reorganization, merger, or sale of the company.
+  8. When we determine that information is aggregate information or other information that does not identify you.
 
-#### Customer Testimonials
 
-We post customer testimonials on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial.
-
-* * *
-
-#### Blog
-
-If you use the blog on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these blogs, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these blogs.
-
-* * *
-
-#### Security
-
-We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
-
-If you have any questions about security on our Web site, you can email us at [](http://harvestapp.com/).
 
 * * *
 
-#### Changes in this Privacy Statement
+#### 6\. Public Information and Third Parties
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
-
-* * *
-
-#### Harvest may be contacted at the following address:
-
-Harvest  
-187 Lafayette St.  
-6th Floor  
-New York, NY 10013 
-
-By telephone:  
-888-350-6637 (Toll-free)  
-+1 212-226-4160 (Worldwide)  
+  1. Harvest Blog: We have public blogs on our Website. Any information you provide in these areas may be read, collected, and used by anyone. If your personal information appears on our blogs and if you would like to remove it, you can send your request to [support@harvestapp.com](mailto:support@harvestapp.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+  2. Third Parties: We are not responsible and this Privacy Policy does not cover your use of any third-party widgets, features, or websites or links to third-party websites or services. We encourage you to read the privacy policy of any third-party site you visit or service you use carefully.
+  3. We publish customer testimonials on our website, which may contain personal information. We obtain consent to post the customer’s name along with their testimonial. To request the removal of your personal information from a testimonial, please email us at [support@harvestapp.com](mailto:support@harvestapp.com).
+  4. Social Media Widgets: Our Websites include social media features. These features may collect your IP address, which page(s) you are visiting, and may set cookies to make sure they function properly. Social media features and widgets are either hosted by a third party or hosted directly on our site. Your interactions with those features are governed by the privacy policy of the companies providing them.
 
 
-By Email: [](http://harvestapp.com/)
 
 * * *
 
-_Last updated: 2 June 2010_
+#### 7\. Security
+
+We take precautions — including administrative, technical, and physical measures — to safeguard your personal information against loss, theft, and misuse, as well as against unauthorized access, disclosure, alteration, and destruction.
+
+We follow generally accepted industry standards to protect your information, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, however, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+When you enter sensitive information (such as credit card number) on our order form, we encrypt the transmission of that information using secure socket layer technology (SSL).
+
+* * *
+
+#### 8\. Correcting and Updating Information
+
+If you are our customer and would like to access or delete information that you provided, you may do this by signing in to Harvest and making the change or by emailing us at support@harvestapp.com. We will respond to your request within 30 days. We may decline to process unreasonable requests or requests that are not otherwise required by local law. 
+
+We retain your information and data that we process on your behalf as long as your account is active, as needed to provide our Services, and as necessary to comply with our legal obligations and resolve disputes.
+
+We have no direct relationship with third parties with whom our users may interact using the Services. Any such party who would like to amend or delete data which may be stored in the Services should direct his or her request to the applicable Harvest user acting as the “data controller” for such information.
+
+Any such party who no longer wishes to be contacted by a Harvest user, should contact that Harvest user directly.
+
+* * *
+
+#### 9\. Updates to this Privacy Policy
+
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here and by email.
+
+* * *
+
+#### 10\. Effective Date
+
+This Privacy Policy has the same Effective Date as our Terms.
+
+* * *
+
+#### 11\. Questions
+
+If you have any questions or concerns about our Privacy Policy please contact us with the following information:
+
+Address: Harvest, 16 W 22nd Street, 8th Floor, New York, NY 10010   
+Email: [privacy@getharvest.com](mailto:privacy@getharvest.com)
+
+* * *
+
+_Last updated: June 4, 2015_
