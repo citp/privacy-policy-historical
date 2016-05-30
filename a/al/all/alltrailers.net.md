@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alltrailers.net privacy policy that was archived on 2015-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150717024513id_/http%3A//alltrailers.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltrailers.net privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530181259id_/http%3A//www.alltrailers.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for Alltrailers.net - AllTrailers.net
 
