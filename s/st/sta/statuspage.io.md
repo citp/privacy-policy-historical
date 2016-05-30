@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statuspage.io privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905114135id_/https%3A//www.statuspage.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statuspage.io privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531011608id_/https%3A//www.statuspage.io/privacy-policy) for the most accurate reproduction.*
 
 # StatusPage.io - Hosted Status Pages for Your Company - Privacy Policy
 
@@ -72,7 +72,7 @@ StatusPage complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbo
 
 In compliance with the US-EU and US-Swiss Safe Harbor Principles, StatusPage commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact StatusPage by emailing hi@statuspage.io.
 
-StatusPage has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by StatusPage, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20150905114135id_/https%3A//www.statuspage.io/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+StatusPage has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by StatusPage, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20160531011608id_/https%3A//www.statuspage.io/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 ##### Notice to European Union users
 
