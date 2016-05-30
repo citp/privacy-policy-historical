@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hungryrunnergirl.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128023500id_/http%3A//www.hungryrunnergirl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hungryrunnergirl.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530045301id_/http%3A//www.hungryrunnergirl.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | The Hungry Runner Girl
 
 This Privacy Policy governs the manner in which Hungry Runner Girl collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.hungryrunnergirl.com](http://www.hungryrunnergirl.com/) website (“Site”).
 
@@ -86,3 +86,5 @@ If you have any questions about this Privacy Policy, the practices of this site,
 To learn more about this behavioral advertising practice visit the NAI at [http://www.networkadvertising.org](http://www.networkadvertising.org/). To opt-out of this type of advertising, you can visit <http://www.aboutads.info/choices>.
 
 This document was last updated on June 25, 2015
+
+[](https://www.pinterest.com/pin/create/button/)
