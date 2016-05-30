@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spartantailgate.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023032122id_/http%3A//247sports.com/Article/Privacy-Policy-35) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spartantailgate.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530144851id_/http%3A//247sports.com/Article/Privacy-Policy-35) for the most accurate reproduction.*
 
 # Privacy Policy
 
