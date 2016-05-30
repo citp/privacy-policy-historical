@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanspeak.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126093124id_/http%3A//fanspeak.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanspeak.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530060004id_/http%3A//fanspeak.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fanspeak - Voice Your Passion!
 
@@ -25,3 +25,7 @@ Links to third party web sites may be provided on the Fanspeak site.  Those thi
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
 
 If you have any questions regarding this Privacy Policy, please contact us at: [info@fanspeak.com](mailto:info@fanspeak.com).
+
+* * *
+
+* * *
