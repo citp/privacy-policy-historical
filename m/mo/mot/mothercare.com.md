@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mothercare.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207212535id_/http%3A//www.mothercare.com/privacy-policy/services-ms-privacypolicy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mothercare.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530204452id_/http%3A//www.mothercare.com/privacy-policy/services-ms-privacypolicy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -114,11 +114,11 @@ The table below contains details of the cookies we use and why. The data we coll
 Cookie Name | Purpose  
 ---|---  
 **Coremetrics, Google Analytics** | Collects information about how our visitors use our website. We use this information to help us improve the website. These cookies collect information in an anonymous form such as the number of visitors to our site, where visitors have come to the site from and the pages they visited.  
-**Avail** | Provides our visitors with recommendations on what other customers have browsed and purchased on our site. This also allows our customers to participate in our social community of Mothercare  
-**Bazaarvoice** | Enables our customers to read and write reviews on products.  
-**Pluck** | Enables our customers to read and write reviews on products.  
+**Rich Relevance** | Provides our visitors with recommendations on what other customers have browsed and purchased on our site.   
+**Reevoo** | Enables our customers to read and write reviews on products.  
 **Tradedoubler** | Shows us how our visitors find our website, which helps us identify which online channels are the most effective. We may reward certain external websites for sending visitors to our website  
-**Responsys** | This cookie allows us to track if our visitors have come to our website through our e-mail channel, allowing us to send better and more relevant e-mails to our customers  
+**Adobe** | This cookie allows us to track if our visitors have come to our website through our e-mail channel, allowing us to send better and more relevant e-mails to our customers  
+**Qubit** | This cookie allows us to enable Qubit analytics software. It helps us analyse visitor information such as browser usage, new visitor numbers, response to marketing activity and device usage. Based on the analytics we plan tests to improve the shopping experience for you. The data stored never shows personal details.  
 **Addthis, Twitter** | Allow our visitors to interface with Facebook and Twitter.  
 **Datacash** | Allows us to take payment for and complete your order.  
 **Scene7** | Allows our visitors to be served product images  
@@ -136,7 +136,7 @@ Most web browsers allow you to control cookies through your browser settings. Yo
 
 [Mozilla Firefox](http://support.mozilla.org/en-US/kb/Enabling%20and%20disabling%20cookies)
 
-If your web browser is not detailed above or you are using a mobile device, please consult your user manual or online help guide for details on how to control cookies. To find out more about cookies and how to manage them, you may wish to visit [www.allaboutcookies.org](https://web.archive.org/web/20151207212535id_/http%3A//www.mothercare.com/privacy-policy/www.allaboutcookies.org). 
+If your web browser is not detailed above or you are using a mobile device, please consult your user manual or online help guide for details on how to control cookies. To find out more about cookies and how to manage them, you may wish to visit [www.allaboutcookies.org](https://web.archive.org/web/20160530204452id_/http%3A//www.mothercare.com/privacy-policy/www.allaboutcookies.org). 
 
 Please remember that all of the links above are third party websites. We do not endorse them and are not responsible for their contents.
 
