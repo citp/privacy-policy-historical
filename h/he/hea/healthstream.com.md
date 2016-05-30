@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthstream.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618232459id_/http%3A//www.healthstream.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthstream.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530040558id_/http%3A//www.healthstream.com/privacy-statement) for the most accurate reproduction.*
 
 # HealthStream - Privacy Statement
 
@@ -47,4 +47,4 @@ HealthStream, Inc.
 209 10th Ave. South  
 Suite 450  
 Nashville, TN 37203  
-(800) 933-9293
+800-521-0574
