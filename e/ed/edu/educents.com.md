@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educents.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109163111id_/http%3A//www.educents.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educents.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531010657id_/http%3A//www.educents.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Educents
 
@@ -75,6 +75,6 @@ This policy was last modified on March 8, 2013
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 [Educents.com](https://www.educents.com/)  
-360 S Market St., Ste 2102  
-San Jose, California 95113  
+369 Sutter St.   
+San Francisco, California 94108  
 [info@educents.com](mailto:info@educents.com)
