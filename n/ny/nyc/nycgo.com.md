@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nycgo.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231103701id_/http%3A//www.nycgo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nycgo.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530205118id_/http%3A//www.nycgo.com/privacy) for the most accurate reproduction.*
 
 # privacy policy / nycgo.com
 
