@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourxxxcams.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103030617id_/http%3A//www.yourxxxcams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourxxxcams.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531015933id_/http%3A//www.yourxxxcams.com/privacy.html%3F) for the most accurate reproduction.*
 
 # YourXXXCams - Privacy Policy
 
@@ -47,7 +47,7 @@ If you have any questions about this Privacy Policy, please contact our customer
 
 The address for correspondence by post is
 
-ICF Technology, Inc.  
-PO Box 21508  
-Seattle, WA 98111  
-USA
+.cnI ,ygolonhceT FCI  
+80512 xoB OP  
+11189 AW ,elttaeS  
+ASU
