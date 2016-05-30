@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beyondthevalley.com.au privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115015309id_/http%3A//www.beyondthevalley.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondthevalley.com.au privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530220652id_/http%3A//www.beyondthevalley.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Beyond The Valley
 
