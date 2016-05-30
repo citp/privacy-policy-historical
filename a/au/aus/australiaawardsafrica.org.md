@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the australiaawardsafrica.org privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108085749id_/http%3A//www.australiaawardsafrica.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australiaawardsafrica.org privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530061404id_/http%3A//www.australiaawardsafrica.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Australia Awards
 
