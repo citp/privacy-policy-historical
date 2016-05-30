@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capgemini.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127040453id_/https%3A//www.capgemini.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capgemini.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530063954id_/https%3A//www.capgemini.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Capgemini Worldwide
 
