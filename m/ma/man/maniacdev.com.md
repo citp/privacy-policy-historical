@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maniacdev.com privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005230141id_/https%3A//maniacdev.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maniacdev.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530111419id_/https%3A//maniacdev.com/privacy) for the most accurate reproduction.*
 
 # Privacy | iOS App Dev Libraries, Controls, Tutorials, Examples and Tools
 
@@ -57,3 +57,6 @@ By using our site, you consent to our web site privacy policy.
 If we decide to change our privacy policy, we will post those changes on this page.
 
 webmaster@maniacdev.com
+
+  
+
