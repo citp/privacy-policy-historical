@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the psychiatryonline.org privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011023551id_/http%3A//psychiatryonline.org/public/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychiatryonline.org privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530032631id_/http%3A//psychiatryonline.org/privacypolicy) for the most accurate reproduction.*
 
-# PsychiatryOnline | Privacy Policy
+# Privacy Policy
 
-American Psychiatric Publishing (APP), a division of American Psychiatric Association (APA) and publisher of PsychiatryOnline, appreciates that you provide us with your personal data. By sharing this information with us, you allow us to make the process of purchasing and managing your subscription more convenient, reliable, and seamless. 
+American Psychiatric Association Publishing, a division of American Psychiatric Association (APA) and publisher of PsychiatryOnline, appreciates that you provide us with your personal data. By sharing this information with us, you allow us to make the process of purchasing and managing your subscription more convenient, reliable, and seamless. 
 
 Except as stated in this Privacy Policy, we will not disclose, share, sell, or rent your personal information to any third party.
 
@@ -16,7 +16,7 @@ Personal information, including the name of the individual user, is private to P
   2. **Alerts, Promotions & Newsletters**   
 All PsychiatryOnline alert e-mail lists are "opt in," meaning that users proactively register to receive such communications from us. All e-mail alerts offer clear instructions for opting out of future e-mail communications. Learn more about available alerts [here](http://www.appi.org/Pages/Signup.aspx). 
 
-APP sometimes shares personal information (but never your e-mail address) with selected outside companies whose products or services we feel may be of interest to you. You may opt out at any time by contacting Customer Service at 1-800-368-5777. 
+American Psychiatric Association Publishing sometimes shares personal information (but never your e-mail address) with selected outside companies whose products or services we feel may be of interest to you. You may opt out at any time by contacting Customer Service at 1-800-368-5777. 
 
   3. **Usage Tracking**   
 Our servers collect software client information, such as IP addresses, browser versions, operating systems, and pages accessed during user sessions. This information is used only in aggregated form (e.g., number of pages accessed) to view site usage patterns and to provide institutional usage reports.
@@ -35,14 +35,14 @@ So that SCM6 can more accurately anticipate users' wants and needs and also serv
 
 
 **Links**   
-PsychiatryOnline contain links to third-party websites outside our control. These links do not imply an endorsement of any kind by APP or the American Psychiatric Association. We are not responsible for the services, content, or handling of confidential material offered by linked third-party websites. 
+PsychiatryOnline contain links to third-party websites outside our control. These links do not imply an endorsement of any kind by American Psychiatric Association Publishing or the American Psychiatric Association. We are not responsible for the services, content, or handling of confidential material offered by linked third-party websites. 
 
 **Modification of Policy**   
-We reserve the right to amend this privacy policy at any time with no advance notice. The current version of the policy is always available at <http://psychiatryonline.org/public/privacypolicy.aspx>
+We reserve the right to amend this privacy policy at any time with no advance notice. The current version of the policy is always available at <http://psychiatryonline.org/privacypolicy>
 
 If you feel **PsychiatryOnline** is not following this policy, or for further information, please contact us: 
 
-**American Psychiatric Publishing**   
+**American Psychiatric Association Publishing**   
 A Division of American Psychiatric Association   
 1000 Wilson Boulevard, Suite 1825   
 Attn: Director of Publishing   
