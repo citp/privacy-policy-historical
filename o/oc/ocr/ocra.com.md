@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ocra.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024014452id_/http%3A//www.ocra.com/ourgroup/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocra.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530144407id_/http%3A//www.ocra.com/ourgroup/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy and Use of OCRA Website
 
