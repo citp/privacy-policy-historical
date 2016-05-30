@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the hatchbuck.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210163556id_/http%3A//www.hatchbuck.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hatchbuck.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530050220id_/http%3A//www.hatchbuck.com/privacy) for the most accurate reproduction.*
 
-# Read and Understand the Hatchbuck Privacy Policy
+# Privacy - Hatchbuck
 
 ## **Privacy**
 
 This Privacy Policy governs the manner in which Hatchbuck (or “we” or “our” or “us”) collects, uses, maintains and discloses information collected from users (a “User” defined as any past, current or prospective customer of Hatchbuck) of the [http://hatchbuck.com](http://hatchbuck.com/) website (“Site” or “Platform”). This privacy policy applies to the Site and all products and services offered by Hatchbuck.
 
 Hatchbuck complies with the U.S.-E.U. Safe Harbor Framework and U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Economic Area member countries and Switzerland. Hatchbuck has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the Hatchbuck certifications, please visit <http://www.export.gov/safeharbor/>.
+
+Due to the recent changes in the E.U. – U.S. data transfer regulations, Hatchbuck has adopted a Data Processing Agreement which includes the EU Standard Clauses. Please email [sales@hatchbuck.com](mailto:sales@hatchbuck.com) if you would like more information or a copy of the contract.
 
 ## **Personal identification information**
 
@@ -66,6 +68,16 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
+## Australia
+
+  1. If you are a client who lives in Australia then this section applies to you. We are subject to the operation of the Privacy Act 1988 (“Australian Privacy Act”). We have some specific points to make you aware of.
+  2. We will not use or disclose personal information for the purpose of our direct marketing to you unless: you have consented to receive direct marketing; you would reasonably expect us to use your personal details for the marketing; or we believe you may be interested in the material but it is impractical for us to obtain your consent. You may opt out of any marketing materials we send to you through an unsubscribe mechanism or by contacting us directly. If you have requested not to receive further direct marketing messages, we may nevertheless continue to provide you with messages that are not regarded as “direct marketing” under the Australian Privacy Act, including changes to our terms, system alerts and other information related to your account.
+  3. Our servers are primarily located in the United States. In addition, we, or our subcontractors, may utilise cloud technology to store or process personal information, which may result in storage of data outside Australia. It is not practicable for us to specify in advance which country will have jurisdiction over such off-shore activities.
+  4. If you think the information we hold about you is inaccurate, out of date, incomplete, irrelevant or misleading, we will take reasonable steps, consistent with our obligations under the Australian Privacy Act, to correct that information if you so request.
+  5. If you are unsatisfied with our response to a privacy matter then you may consult either an independent advisor or contact the Office of the Australian Information Commissioner for additional help. We will provide our full cooperation if you pursue this course of action.
+
+
+
 **Hatchbuck**  
 webmaster@hatchbuck.com  
 [http://hatchbuck.com](http://hatchbuck.com/)
@@ -74,8 +86,8 @@ webmaster@hatchbuck.com
 
 This Policy was last updated as of the last date set forth below.
 
-**Revised: March 12, 2015**
+**Revised: February, 29 2016**
 
 Any rights not expressly granted herein are reserved by Hatchbuck.
 
-© 2015 Hatchbuck
+© 2016 Hatchbuck
