@@ -1,61 +1,67 @@
-> *The following text is extracted and transformed from the winecoolerdirect.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905052455id_/http%3A//www.winecoolerdirect.com/cs%253A-other-information%253A-privacy-policy/PRIVACY_POLICY.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winecoolerdirect.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530212419id_/http%3A//www.winecoolerdirect.com/cs%253A-other-information%253A-privacy-policy/PRIVACY_POLICY.html) for the most accurate reproduction.*
 
 # CS: Other Information: Privacy Policy
 
-## Your Personal Information
+The Privacy Information was last updated October 1, 2015. 
 
-We recognize your right to privacy and are committed to protecting your privacy. We use the information that we collect on our site to provide you with a superior shopping experience. When you order, we will ask for information that will ensure that your order is processed in an accurate, secure, and timely manner. Information we ask for includes your name, e-mail address, contact phone number, mailing and billing address, and credit card number and expiration date. In fulfilling your order, we only share your personal information with outside parties to the extent necessary to fulfill your order. We may also run contests on our web site in which we ask visitors for contact information that includes name, address, and e-mail address. This information is used to contact contestants if they should win. We will use your email to periodically send you our e-mail newsletter that contains special offers and updates about our products and services. You may opt-out of receiving these emails and you may modify your contact information at any time. 
+### Our Company
 
-You will receive administrative emails regarding your order that cannot be opt-ed out of. The first email you receive will serve as receipt of your order. The information included in this email consists of sales price, order number, and shipping information. You will receive a second email when your order ships. This will contain all tracking information so that you will be able to locate the status of your order at any time. 
+Our postal address is:  
+Living Direct, Inc.   
+500 N. Capital of Texas Hwy   
+Building 5   
+Austin, Texas 78746 
 
-We protect your account information against unauthorized access or release. We do reserve the right to share your information with third party partners that we have approved. Outside of this scenario, we will not give, sell, rent, or loan any identifiable personal information to a third party unless you have authorized us or we are legally required to do so. 
+We can be reached online through our online Customer Service center. We can be contacted by phone at (866) 975-4846, which is our customer service call center.
 
-## Cookies
+### Transaction Security
 
-To personalize your experience we use a feature on your Internet browser called a cookie. Cookies are small files that your web browser places on your computer's hard drive. We use cookies to keep track of your shopping cart and power other services like writing a review. By disabling cookies you will not be able to use the shopping cart feature on the web site. 
+We electronically verify each transaction with the credit company, processing only those orders if the credit company so authorizes it. In the case of a suspicious or declined transaction, our company may contact you to confirm the validity and ensure your identity or cancel that order with full notification. 
 
-## Log Files
+We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input at 128-bit strength. This is often symbolized on most web-browsers by a small padlock appearing on the bottom bar of the window and the address of the window changing from http:// to https://, meaning a secure connection. In the event that an order cannot be completed, please contact our Customer Service. If our website cannot establish a secure connection, we will not risk your confidential information (it will not be transmitted). 
 
-Your IP address is used to help identify you and your shopping cart. We use IP addresses, referring/exit pages, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to any personal, identifiable information. 
+### Information you give us
 
-## Live Chat Help
+We receive and store any information you enter on our Web site or give us in any other way. We use the information that you provide for such purposes as responding to your requests, customizing future shopping suggestions, improving our store, and fulfilling your order. 
 
-We use a live chat option on this web site. A third party service provider powers the chat functionality. Information obtained through this order form of communication may not be used or shared with the third party hosting the software. 
+*Emails: Email addresses we receive are used to contact you concerning inquiries before, during and after your order is placed, solely concerning your order. 
 
-## Links to/from Other Sites
+### Automatic information
 
-To enhance your shopping experience, this site may have links to other sites on the internet that are owned by third party vendors and other third parties (External Sites), or you may come to this site from a link from an external site. The other web sites will have their own rules on privacy that you should review. This web site is not responsible for the privacy policies of external sites. 
+We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your web browser accesses Living Direct Inc. A number of companies offer utilities designed to help you visit Web sites anonymously. 
 
-## Correcting, Updating, Deactivating
+### Cookies
 
-There are several ways to update information you have provided to this site: 
+Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as the storage of items in your Shopping Cart. The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, if you disable cookies, you will not be able to purchase from the Web site. We recommend that you leave them turned on or please contact our Customer Service to have your order placed. 
 
-  * Email our corporate office at [service@livingdirect.com](mailto:service@livingdirect.com) to update or change any information you may have provided us. 
-  * Email [optout@CompactAppliance.com](mailto:optout@CompactAppliance.com) to be removed from our newsletter 
-  * Call toll free at 1-877-607-2517 
-  * You may also respond to the email with "Remove" or "Unsubscribe" in the subject line to be removed from any future newsletters. 
+### Do Not Track Information
 
-  
+Living Direct Inc. automatically collects key information from your browser session to provide a customized shopping experience. Without certain tracking code enabled, much of the functionality of the site, including but not limited to product recommendations, would cease to function. As such, we do not currently honor the do not track feature of your browser, as this would adversely affect the shopping experience. 
 
+### Emails and newsletters
 
-## Sweepstakes
+Because we value your right to privacy, we do not sell or otherwise share your contact information to unrelated third parties. Living Direct Inc. uses email as one of the primary methods of communicating with our customers. The emails we send may be related to a variety of issues, including: 
 
-This web site offers sweepstakes. Any information collected in registering for these sweepstakes is used to contact individuals should they win. We will also use your email address to send you a newsletter containing information on specials and events. You may opt-out of receiving notices by indicating "Remove" or "Unsubscribe" in the subject line. 
+* A direct response to an inquiry, 
+* Communication concerning an order (receipt, shipping confirmation, etc), or 
+* Promotional emails you have indicated you wish to receive. 
 
-## Security
+From time to time, we may notify you of special offers based on your purchasing history with us. If you create a Saved Cart, or have one created by our staff, you may receive follow-up emails related to this Cart. You may unsubscribe at any time by following the simple instructions contained in the emails. Unsubscribing will not apply to any future Saved Carts that are created. If you have signed up to receive our promotional emails and wish to stop your subscription, you'll find easy-to-follow unsubscribe instructions in each promotional email. You may also change your subscription status at any time by: 
 
-This website takes every precaution to protect our users' information. Our shopping cart incorporates industry-standard secure server software (Secure Socket Layers / SSL) provided by McAfee, into sensitive sections of our store. All online transactions at our web site are handled using this encryption technology. When you enter your credit card number into the order form, it is transmitted across the internet in an encrypted (scrambled) form, then decoded when it gets out. For added security, we also encrypt the credit card number when it is stored on disk. 
+* Logging into your account and editing your "Change Billing Info" 
+* Sending an email to [customerservice@livingdirect.com](mailto:customerservice@livingdirect.com)
+* Contacting us by phone at (866) 975-4846. Representatives in our call center can also alter your subscription preferences. 
 
-To verify that we use SSL technology, you may click on the McAfee or Verisign logo at the bottom of this page or our shopping cart.
+### Sharing information
 
-Paymentech Services, a state-of-the-art credit card verification service, keeps your transactions secure by encrypting all of your personal information while validating the transaction. We use RSA encryption technology to scramble your data so that it would be virtually impossible to break into. 
+Information about our customers is an important part of our business, and we are not in the business of selling it to others. 
 
-There are two ways to make sure you are browsing secure pages. Most modern browsers like Internet Explorer, FireFox, Chrome, and Safari indicate secure modes with a symbol - the image of a closed padlock. You will know the information is protected if the closed-lock symbol pops into view in the lower right or left-hand corner of your screen while you are checking it out. You can also verify secure pages by checking the address, or URL, listed on the scroll bar. If you spot an "s"after the "http" at the beginning of the address, you know that you're browsing in a secure environment. 
+### What About Third-Party Advertisers and Links to Other Websites? 
 
-## Federal Law Limits Your Liability
+Our site includes third-party advertising and links to other Web sites. Information about your browsing behavior may be collected and used to provide more relevant ads to you. Like other online ad networks, we use cookies, web beacons (also known as action tags or single-pixel gifs), and other technologies (collectively, “cookies”). Cookies enable us to learn about what ads you see, what ads you click, and other actions you take on our sites and other sites. This allows us to provide you with more useful and relevant ads. For example, if we know what ads you are shown we can be careful not to show you the same ones repeatedly. We do not associate your interaction with unaffiliated sites with your identity in providing you with interest-based ads. 
 
-Federal law limits an individual's liability if their credit card information should ever fall into the wrong hands. Under the Fair Credit Billing Act of 1975, you may dispute the charges on your account with your credit card company and temporarily withhold payment while they investigate the situation. Even if your creditor disagrees that unauthorized purchases were made, you're generally only liable for the first $50 in fraudulent charges. 
+If you wish to opt out from receiving interest-based advertising, click here and follow the instructions. Please note, because our opt-out is cookie-based, you
 
-## Notification of Changes
+### Conditions of use, notices, and revisions
 
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under any circumstances, if any, we disclose it. If we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. However, if you have opted out of communication with the site then you will not be contacted, nor will your personal information be used in this new manner. Users will have a choice whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+If you choose to visit Living Direct Inc. your visit and any dispute over privacy is subject to this notice and our Conditions of Use, including limitations on damages, arbitration of disputes, class action waiver and application of the law of the State of Texas. If you have any concern about privacy at Living Direct Inc, please send a thorough description to our Customer Service team and we will try to resolve it. Our business changes constantly. This Notice and the Conditions of Use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. Please check our website frequently to see recent changes.
