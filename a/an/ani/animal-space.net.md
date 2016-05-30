@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the animal-space.net privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102035431id_/http%3A//animal-space.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animal-space.net privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530210338id_/http%3A//www.animal-space.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Animal Space
+# Privacy & Cookie Policy | Animal Space
 
 This is the web site of Animal-space.net. This Policy is effective on July 28, 2015. The following discloses the information gathering and dissemination practices for this Web site.
 
@@ -36,4 +36,4 @@ This site contains links to other sites. Animal-space.net is not responsible for
 
 **Contacting The Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.animal-space.net/contact-us.html).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.animal-space.net/contact).
