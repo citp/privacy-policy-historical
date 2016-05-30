@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jarrattdavis.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115171108id_/http%3A//www.jarrattdavis.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jarrattdavis.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530184758id_/http%3A//www.jarrattdavis.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Jarratt Davis
 
@@ -7,9 +7,9 @@
 ### **What we collect?**
 
 We may collect the following information:  
-\- Name or pen-name  
-\- contact information including email address  
-\- Demographic information such as geo-locations, preferences and interests other information relevant to customer surveys and/or offers
+– Name or pen-name  
+– contact information including email address  
+– Demographic information such as geo-locations, preferences and interests other information relevant to customer surveys and/or offers
 
 ### **What we do with the information we gather?**
 
