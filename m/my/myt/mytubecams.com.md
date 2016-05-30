@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytubecams.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909065150id_/http%3A//mytubecams.com/site/page/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytubecams.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530091350id_/http%3A//mytubecams.com/site/page/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | MyTubeCams
 
