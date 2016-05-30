@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divestopedia.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919031715id_/https%3A//www.divestopedia.com/about/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divestopedia.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530143958id_/https%3A//www.divestopedia.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Divestopedia.com
 
@@ -18,7 +18,7 @@ Divestopedia.com collects information about your transactions with us and with s
 
 Divestopedia.com does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you request, when we have your permission, or under the following circumstances: 
 
-We provide the information to trusted partners who work on behalf of Divestopedia.com under confidentiality agreements to provide services in support of the site. These companies may use your personal information to help Divestopedia.com communicate with you about offers from Divestopedia.com. However, these companies do not have any independent right to use or share this information. We may sometimes share aggregate non-personal information with third parties about how our users utilize the site and services. This aggregate information is typically in the form of statistics, such as numbers of Divestopedia.com users who live in a particular locale or fall within a particular age group. Such aggregate information is gathered from individual Divestopedia.com users’ information but is not traceable to any specific identifiable Divestopedia.com user. Divestopedia.com may share personal information with third parties to the extent required to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. Divestopedia.com may also share personal information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Divestopedia.com Terms of Service, or as otherwise required or permitted by law. 
+We provide the information to trusted partners who work on behalf of Divestopedia.com under confidentiality agreements to provide services in support of the site. These companies may use your personal information to help Divestopedia.com communicate with you about offers from Divestopedia.com. However, these companies do not have any independent right to use or share this information. We may sometimes share aggregate non-personal information with third parties about how our users utilize the site and services. This aggregate information is typically in the form of statistics, such as numbers of Divestopedia.com users who live in a particular locale or fall within a particular age group. Such aggregate information is gathered from individual Divestopedia.com users' information but is not traceable to any specific identifiable Divestopedia.com user. Divestopedia.com may share personal information with third parties to the extent required to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. Divestopedia.com may also share personal information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Divestopedia.com Terms of Service, or as otherwise required or permitted by law. 
 
 If Divestopedia.com is acquired by or merged with or into another company, we will provide public notice before personal information is transferred and becomes subject to a different privacy policy. 
 
@@ -26,17 +26,17 @@ You will be notified when your personal information is collected by any third pa
 
 ## Use of Personal Information with Tell-A-Friend Features
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Divestopedia.com does not store this information. It is used for the sole purpose of sending this one-time email and tracking the success of our referral program. 
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Divestopedia.com does not store this information. It is used for the sole purpose of sending this one-time email and tracking the success of our referral program. 
 
 ## Use of Personal Information with Marketing Partners and Co-Registration
 
-In instances where Divestopedia.com and a marketing partner are offering a special value (i.e., a free offering) to our users, we may share your personal information with such partners By signing up to receive items through these promotions, you are expressly consenting to Divestopedia.com sharing your personal information (“co-registration”) with such partners and you will become subject to their privacy policies, which may vary from those of Divestopedia.com. In the event that you would like to opt-out of receiving offers from these partners, you must do so directly with them. If you have any problems contacting one of our partners, [contact us](https://web.archive.org/about/contact.aspx) and we will help you resolve the situation. 
+In instances where Divestopedia.com and a marketing partner are offering a special value (i.e., a free offering) to our users, we may share your personal information with such partners By signing up to receive items through these promotions, you are expressly consenting to Divestopedia.com sharing your personal information (“co-registration”) with such partners and you will become subject to their privacy policies, which may vary from those of Divestopedia.com. In the event that you would like to opt-out of receiving offers from these partners, you must do so directly with them. If you have any problems contacting one of our partners, [contact us](https://web.archive.org/about/contact) and we will help you resolve the situation. 
 
-In addition, you are expressly consenting to Divestopedia.com that the use of certain personally identifiable User data may be processed and shared between applicable third party social network and/or identity providers. User accounts with such third party Providers shall be subject to such third party Providers' then-current terms of use and privacy policies ("Third Party Policies") and Divestopedia.com shall not be responsible for any violation of their Policies.  You are allowing Divestopedia.com to user and store certain of this user data for its own business purposes.
+In addition, you are expressly consenting to Divestopedia.com that the use of certain personally identifiable User data may be processed and shared between applicable third party social network and/or identity providers. User accounts with such third party Providers shall be subject to such third party Providers' then-current terms of use and privacy policies ("Third Party Policies") and Divestopedia.com shall not be responsible for any violation of their Policies. You are allowing Divestopedia.com to user and store certain of this user data for its own business purposes. 
 
 ## Newsletters and Alerts
 
-If you wish to subscribe to our newsletter(s) or alert system, we will use your name and email address to send the newsletter or alert to you. Out of respect for your privacy, we provide you a way to unsubscribe. If you no longer wish to receive our newsletter, alerts and promotional communications, you may opt-out of receiving them by following the instructions included in each communication or by [ contacting us](https://web.archive.org/about/contact.aspx). We also offer an opportunity to opt-out of certain communications on your Edit Profile page. 
+If you wish to subscribe to our newsletter(s) or alert system, we will use your name and email address to send the newsletter or alert to you. Out of respect for your privacy, we provide you a way to unsubscribe. If you no longer wish to receive our newsletter, alerts and promotional communications, you may opt-out of receiving them by following the instructions included in each communication or by [contacting us](https://web.archive.org/about/contact). We also offer an opportunity to opt-out of certain communications on your Edit Profile page. 
 
 ## Use of Personal Information Posted on Forums
 
@@ -44,7 +44,7 @@ If you use a forum on this Website, you should be aware that any personally iden
 
 ## Cookies
 
-Divestopedia.com, like many websites, uses cookies. A cookie is a file containing a string of code text that we transfer to your computer’s hard drive, to be kept there for later use. With cookies in place, whenever you use your Web browser (such as Internet Explorer or Mozilla Firefox) to connect to Divestopedia.com, our systems are able to recognize you. This enables Divestopedia.com to present you with custom web pages and options. For example, instead of seeing a generic welcome page, you might see a welcome page with your site username on it and information about products or services that reflect your interests. 
+Divestopedia.com, like many websites, uses cookies. A cookie is a file containing a string of code text that we transfer to your computer's hard drive, to be kept there for later use. With cookies in place, whenever you use your Web browser (such as Internet Explorer or Mozilla Firefox) to connect to Divestopedia.com, our systems are able to recognize you. This enables Divestopedia.com to present you with custom web pages and options. For example, instead of seeing a generic welcome page, you might see a welcome page with your site username on it and information about products or services that reflect your interests. 
 
 You can set up your browser to reject cookies or tell you when a cookie has been sent. However, cookies allow you to take full advantage of Divestopedia.com features and are required for the use of the Site. We hope you will leave them turned on. 
 
@@ -74,7 +74,7 @@ Divestopedia.com limits access to personal information about you to employees wh
 
 Although Divestopedia.com takes your privacy seriously and will take reasonable and customary measures to protect it, we cannot guarantee that there will be no unauthorized use of your personal information. 
 
-If you register for the site and services and create a User Account, you will be provided a username and password for such User Account. You acknowledge that you are responsible for maintaining the confidentiality of the password as well as any and all activity that occur under your User Account and password. You agree that at the end of each session using the Site and Services, you will exit your User Account. In the event of any unauthorized use of your password and/or User Account, you agree that you will immediately notify Divestopedia.com by sending an email to webmaster@divestopedia.com. Divestopedia.com cannot and will not be liable for any and all losses or damages arising from your failure to comply with this Section. 
+If you register for the site and services and create a User Account, you will be provided a username and password for such User Account. You acknowledge that you are responsible for maintaining the confidentiality of the password as well as any and all activity that occur under your User Account and password. You agree that at the end of each session using the Site and Services, you will exit your User Account. In the event of any unauthorized use of your password and/or User Account, you agree that you will immediately notify Divestopedia.com by sending an email to Divestopedia. Divestopedia.com cannot and will not be liable for any and all losses or damages arising from your failure to comply with this Section. 
 
 ## Third-Party Websites
 
@@ -82,7 +82,7 @@ From time to time, Divestopedia.com may make available to you certain services o
 
 ## Access to Personal Information
 
-If at any time you would like to review the personal information we collect about you, just ask. You should send an email to webmaster@divestopedia.com from the email account you used to create your account and we will provide you with a summary, as well as an opportunity to correct and update this information. 
+If at any time you would like to review the personal information we collect about you, just ask. You should send an email to Divestopedia from the email account you used to create your account and we will provide you with a summary, as well as an opportunity to correct and update this information. 
 
 ## Changes to This Privacy Policy
 
@@ -92,12 +92,12 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 ## Comments
 
-If you have questions or suggestions, please complete the form on our [Contact Us](https://web.archive.org/about/contact.aspx) page or write us at: 
+If you have questions or suggestions, please complete the form on our [Contact Us](https://web.archive.org/about/contact) page or write us at: 
 
-Divestopedia Inc. o/a Divestopedia.com  
-Suite 104, 4207 - 98 Street NW  
-Edmonton, Alberta  Canada T6E 5R7  
-Last updated Friday, September 18, 2015  
+Janalta Interactive Inc. o/a Divestopedia.com  
+Suite 100, 4207 - 98 Street NW  
+Edmonton, Alberta Canada T6E 5R7  
+Last updated Friday, May 27, 2016  
 
 
   
