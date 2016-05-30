@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the democrats.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113154536id_/http%3A//democrats.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the democrats.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530145319id_/http%3A//www.democrats.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Democrats.com
 
@@ -27,10 +27,10 @@ We may use information in the aggregate to understand how our Users as a group u
 We may use feedback you provide to improve our products and services.  
 \- To send periodic emails  
 We may use the email address to send User information and updates pertaining to Democratic candidates and progressive causes. It may also be used to respond to their inquiries, questions, and/or other requests. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.  
-\- To deliver messages to elected officials and company executives.  
+\- To deliver your petitions to elected officials and company executives.  
 We may deliver your petition messages to elected officials and company executives. These may include personal messages you choose to add to our generic message. You may receive a reply from these officials and executives.  
 \- To deliver email ads from Democratic candidates and progressive causes (partners).  
-We occasionally send email advertisements from our partners, which are carefully-selected Democratic candidates and progressive causes. You may unsubscribe from our partners list at any time without affecting your newsletter subscription or community membership by following the instructions at the bottom of each partner email. If you respond to a partner ad by signing a petition or completing a form, we will forward the information you provide to our partner. For local Democratic candidates who want to represent you, we will send you their sample newsletter with an unsubscribe link if you do not want any more emails from that candidate. If you do not unsubscribe within two days, we will provide your address to the candidate, who will also include an unsubscribe link in every email they send you. We do not share or sell information with spammers.  
+We occasionally send email advertisements from our partners, which are carefully-selected Democratic candidates and progressive causes. You may unsubscribe from our partners list at any time without affecting your newsletter subscription or community membership by following the instructions at the bottom of each partner email. If you respond to a partner ad by signing a petition or completing a form, we will forward the information you provide to our partner. We do not share or sell information with spammers.  
 \- To process contributions  
 We may use the information Users provide about themselves when making a contribution only to process that contribution. All such contributions will read "Democrats.com" on your credit card bill. We do not share this information with outside parties except to the extent necessary to provide the service. We do not store your credit card number in order to avoid fraud.  
 \- To improve customer service  
