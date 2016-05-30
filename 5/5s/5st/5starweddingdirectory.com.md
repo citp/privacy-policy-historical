@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 5starweddingdirectory.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908025933id_/http%3A//www.5starweddingdirectory.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5starweddingdirectory.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530124030id_/http%3A//www.5starweddingdirectory.com/website-privacy-policy) for the most accurate reproduction.*
 
-# WEBSITE PRIVACY POLICY - 5 Star Wedding Directory
+# WEBSITE PRIVACY POLICY
 
 The Internet is an amazing tool. It has the power to change the way we live, and we’re starting to see that potential today. With only a few mouse-clicks, you can follow the news, look up facts, buy goods and services, and communicate with others from around the world. It’s important to 5 Star Wedding Directory to help our customers retain their privacy when they take advantage of all the Internet has to offer.
 
@@ -11,7 +11,7 @@ We believe your business is no one else’s. Your privacy is important to you an
 
 
 
- **NOTICE**
+**NOTICE**
 
 We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when you create a Registration ID on the site or when you download free software, enter a contest, order email newsletters or join a limited-access premium site. We use your Personal Information for four primary purposes:
 
@@ -22,7 +22,7 @@ We will ask you when we need information that personally identifies you (persona
 
 
 
- **CONSENT**
+**CONSENT**
 
 If you choose not to register or provide personal information, you can still use most of 5starweddingdirectory.com. But you will not be able to access areas that require registration.
 
@@ -30,7 +30,7 @@ If you decide to register, you will be able to select the kinds of information y
 
 5 Star Wedding Directory occasionally allows other companies to offer our registered customers information about their products and services, using postal mail only. If you do not want to receive these offers, you may select the option stating that you do not wish to receive marketing materials from third parties.
 
- **ACCESS**
+**ACCESS**
 
 We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time at the Visitor Center. There, you can:
 
@@ -41,7 +41,7 @@ We will provide you with the means to ensure that your personal information is c
 
 
 
- **SECURITY**
+**SECURITY**
 
 5 Star Wedding Directory has taken strong measures to protect the security of your personal information and to ensure that your choices for its intended use are honored. We take strong precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
 
@@ -55,13 +55,13 @@ Your personal information is never shared outside the company without your permi
 
 You also have a significant role in protecting your information. No one can see or edit your personal information without knowing your user name and password, so do not share these with others.
 
- **NOTICE TO PARENTS**
+**NOTICE TO PARENTS**
 
 Parents or guardians: we want to help you guard your children’s privacy. We encourage you to talk to your children about safe and responsible use of their Personal Information while using the Internet.
 
 The 5 Star Wedding Directory site does not publish content that is targeted to children. However, if you are concerned about your children providing 5 Star Wedding Directory any personal information without your consent, 5 Star Wedding Directory offers a Kids account. It allows parents to give parental consent for the collection, use and sharing of children’s (ages 12 and under) personal information online.
 
- **ENFORCEMENT**
+**ENFORCEMENT**
 
 If for some reason you believe 5 Star Wedding Directory has not adhered to these principles, please notify us by email at info@5starweddingdirectory.com and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
 
@@ -69,13 +69,13 @@ ELECTRONIC PRODUCT REGISTRATION
 
 When you buy and install a new product, we may ask you to register your purchase electronically. When you do, we merge your registration information with any information you’ve already left with us (we call that information your personal profile). If you haven’t previously registered with us, we create a personal profile for you from your product registration information. If you ever want to review or update that information, you can visit the Profile Center, click on Update Profile, and edit any of the Personal Information in your profile. If you haven’t already created a Registration ID, we will ask you to do so. This ensures that only you can access your information.
 
- **CUSTOMER PROFILES**
+**CUSTOMER PROFILES**
 
 As mentioned above, every registered customer has a unique personal profile. Each profile is assigned a unique personal identification number, which helps us ensure that only you can access your profile.
 
 When you register, we create your profile, assign a personal identification number, then send this personal identification number back to your hard drive in the form of a cookie, which is a very small bit of code. This code is uniquely yours. It is your passport to seamless travel across [WEBSITE], allowing you to download free software, order free newsletters, and visit premium sites without having to fill out registration forms with information you’ve already provided. Even if you switch computers, you won’t have to re-register – just use your Registration ID to identify yourself.
 
- **What we do with the information you share**
+**What we do with the information you share**
 
 When you join us, you provide us with your contact information, including [YOUR NAME] and email address. We use this information to send you updates about your order, questionnaires to measure your satisfaction with our service and announcements about new and exciting services that we offer. When you order from us, we ask for your credit card number and billing address. We use this information only to bill you for the product(s) you order at that time. For your convenience, we do save billing information in case you want to order from us again, but we don’t use this information again without your permission.
 
