@@ -1,57 +1,196 @@
-> *The following text is extracted and transformed from the usamp.com privacy policy that was archived on 2015-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150201052837id_/http%3A//www.usamp.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usamp.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530174542id_/https%3A//www.instant.ly/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Online Market Research | Global Market Research Panel | uSamp
+# Privacy Policy - instantly
 
-Thank you for your interest in www.usamp.com (the “Website”), which is owned, operated and controlled by uSamp (United Sample, Inc.) (Collectively, “United Sample,” “we,” “our”, or “us”).
+1\. Description of SSI’s Business.
 
-We respect our users’ (“users”, “you” or “your”) privacy. This Privacy Policy applies to all users of the Website. We want to share with you how information we receive or collect from you via the Website is processed, disclosed and used. By using the Website, you acknowledge your consent to this Privacy Policy. If you do not agree with the terms, do not use the Website.
+Survey Sampling International, LLC (“SSI” and any reference to “SSI” or “us” or “we” or “our” shall include SSI’s parents, affiliates, and subsidiaries) provides sampling solutions and technology for survey research, and providing clients with access to consumer and business-to-business respondents via internet, telephone (both fixed/landline and wireless/mobile), postal and multi-mode methodologies. SSI serves a vast array of for-profit and not-for profit businesses, universities and governmental agencies and departments.
 
-The Website is the corporate site of United Sample. Consequently, this Privacy Policy applies to activities on this site only and not to any other websites that are owned and operated by United Sample. For example, iPoll, the online and mobile panels that are hosted and administered by United Sample are governed by the following privacy policy: https://www.ipoll.com/custom/ipoll/go/privacy.htm.Likewise, United Sample’s Instant.ly services and offerings in connection with the “on-demand” creation of surveys are governed by the following privacy policy: https://www.instant.ly/privacy-policy. To the extent you go to these other websites and participate in the activities on them, you are urged to review the privacy policies that apply.
+This Privacy Policy describes the types of information we collect, how we collect information, how we use the information, how we share or disclose the information, how we store the information, and your choices regarding the use and processing of the information. Your use of SSI’s website, your use of SSI’s services, and your disclosure of PII to SSI are completely voluntarily, therefore the collection, processing, transfer, and storage of your PII as set forth in this Privacy Policy is with your consent. 
 
-### What information do we collect? When?
+This privacy policy does not apply to the collection, processing, storage, transfer, and/or disposal of information collected in connection with the survey panels or communities operated by or on behalf of SSI. 
 
-For the purposes of this Privacy Policy, “Personal Information” or “Information” shall mean any information that can identify or locate an individual, including, without limitation, an individuals’ first and last name, email address, telephone number, and other information. 
+2\. What type of information do we collect? 
 
-Please be assured that we do not collect any Personal Information from you, unless you provide it to us voluntarily.
+3\. How we collect information.
 
-We may automatically collect certain non-personal information about your use of the Website whenever you access the Website. We might collect, among other things, information concerning the type of Internet browser or computer operating system you are using, the domain name of your Internet service provider, your “click path” through the Website, the third-party web sites or advertisements linked to or from, and the Website(s) that you visited. To do this, we may use cookies, clear gifs, frames, server log analysis and other technology. When you use or visit the Website, our servers log your IP address. We shall collect IP addresses for the purposes of providing our services, including, without limitation, system administration, troubleshooting, user compliance with any applicable terms of service, investigating security breaches, and compiling non-personal information such as how many visitors logged on to the Website.
+* Information submitted or provided by you:
 
-### Cookies
+  1. Through or in connection with SSI’s corporate website(s), including, without limitation, www.surveysampling.com;
+  2. Through or in connection with business meetings with actual or potential customers or clients;
+  3. Through or in connection with promotions, meetings, events, and/or trade or industry shows or conferences sponsored by, hosted by, or attended by SSI and/or SSI’s employees, representatives, and/or agents; and
+  4. Through telephone calls, email communications, and/or other forms of communication with you.
+  5. Through inquiries, from requests for bids or quotes from SSI, and from orders for SSI’s services.
 
-The Website may contain “cookies.” Cookies are bits of electronic information stored on a user’s hard drive to provide information needed by the user on a regular basis. They are often used to save website customizations and website login information. Clear gifs (also known as “web beacons”) assist in the delivery of cookies. 
 
-Currently, cookies are utilized with respect to your use of the Website within the following two primary categories: (1) performance cookies so that traffic patterns and users on the Website may be measured and optimized; and (2) user cookies so that user information may be recorded so as to enhance performance and user experience on the Website.
+* Information collected from third parties 
 
-You can opt-out from the setting of such cookies by changing your settings within your browser. Furthermore you can set-up your browser so that the browser is asking you each time before a cookie is dropped on your device. Also you can delete all you cookies on your device within you browser. You can find all information about cookies, browser settings and cookie deletion on http://www.allaboutcookies.org/ 
+SSI may collect information, including, without limitation, PII and business contact information, from third parties, including, without limitation, information service bureaus, data brokers, social media platforms, and/or industry conference or event organizers or sponsors. We may use the information collected from such third parties for various purposes, including, without limitation, sending you emails or other communications as described herein. In the event you receive such communications you will have the opportunity to opt-out of receiving communications from us.
 
-In addition, from time to time, tracking mechanisms such as cookies or web beacons may be used by third party content that you may choose to view while being on the Website. You should review the privacy policies of the websites serving this content, as they may allow for the gathering of information to serve advertising on multiple third party websites over which United Sample has no control. Please consult the privacy policies of such third party websites for more information.
+* Information collected through automated means: 
 
-### How do we use and share the information that we collect?
+  1. SSI Cookies. Cookies are small files that store certain data on a device or computer. SSI may use session and persistent cookies for several purposes including, without limitation, to enable you to use and transverse a website and quality control. Session cookies expire when you close your browser. Persistent cookies remain on your device or computer indefinitely until deleted. A user may disable and/or delete cookies via the user’s browser or otherwise, however, this may limit your use of a website, and/or decrease the functionality available to the user in connection with a website. 
+  2. Third Party Cookies. SSI uses third parties to provide services and certain functionality to SSI. SSI uses contracts with such third parties to control their use of cookies and to limit their use of cookies to the limited purposes set forth in the contracts. 
+  3. Log Files. SSI’s websites may automatically gather and store certain information in log files, including, without limitation, data available from your web browser, including, without limitation, IP Address, browser type, internet service provider, referring/exiting pages, operating system, date/time stamp and click stream data. 
+  4. Cookie Notice: SSI values your privacy. Below please find a list of the cookies set or deployed by SSI and/or its service providers, partners, and/or subcontractors. For certain cookies no opt-out mechanism is provided. 
 
-All Information that we collect is stored and used to meet your requests and our legitimate business objectives in accordance with this Privacy Policy. Except as set forth in this Privacy Policy, we do not trade, share, rent, sell or give away information concerning you to third parties. As a general rule, United Sample uses Information for the purpose of contacting and communicating with you about information you have provided to us. 
 
-We may disclose your Information or otherwise use such information to communicate with you if required or permitted to do so by law or in the good-faith belief that such action is necessary to: (i) conform to legal requirements or comply with legal process or any governmental request; (ii) protect and defend the rights or property of United Sample or its affiliated companies and clients; (iii) enforce the Website terms of service or any applicable agreements; or (iv) protect the personal safety or interests of United Sample’s employees, other users of the Website, or members of the public in urgent circumstances. We may also disclose any of your information to law enforcement or other appropriate third parties in connection with criminal investigations, investigation of fraud, infringement of intellectual property rights, or other suspected illegal activities, or as otherwise may be required by applicable law, or, as we deem necessary in our sole discretion, in order to protect the legitimate legal and business interests of United Sample.
+  1. Essential Cookies: 
+Name: | Purpose | Consent  
+---|---|---  
+ASP.NET_SessionId | Session Cookie | No opt-out provided  
+Calltrk_referrer | Tracks the last website visited prior to landing on a website. | No opt-out provided  
+Calltrk_landing | Tracks the website or webpage landed on by the visitor. | No opt-out provided  
+  2. Analytics and Customization – Data Collection 
+Name: | Purpose | Consent  
+---|---|---  
+Google Analytics (_utma) |  Analytics/measurement  
+Optimization  
+Ad targeting  | No opt-out provided  
+Google Analytics (_utmb) |  Analytics/measurement  
+Optimization  
+Ad targeting  | No opt-out provided  
+Google Analytics (_utmc) | Session Cookie –  
+Analytics/measurement  
+Optimization  
+Ad targeting  | No opt-out provided  
+Google Analytics (_utmz) | Analytics/measurement  
+Optimization  
+Ad targeting  | No opt-out provided  
 
-### Change of control
 
-In the event that another company acquires all or substantially all of the assets related to the Website, or if we experience some other change of control event such as merger, insolvency, bankruptcy or receivership, we reserve the right to include any or all Information among the assets transferred to the acquiring company. United Sample will require the surviving entity in the case of a merger, or the acquiring entity in the case of an acquisition or sale, to agree in writing to protect and maintain the security and integrity of the transferred Information in accordance with the applicable laws. We do not guarantee that any entity receiving such information in connection with any of these transactions will comply with all the terms of this policy.
 
-### Data security & integrity
+SSI’s Do Not Track Notice.
 
-United Sample is committed to protecting the security and integrity of all Information collected by, or disclosed to, United Sample and takes appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of such Information We also restrict access to Information to our employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. We take reasonable steps to ensure that the Information we process is accurate, complete, and current, but we depend on our users to update or correct their information whenever necessary.
+Do Not Track (“DNT”) is a preference in your browser that you can set to notify websites that you visit that you do not want the websites to collect certain information about you. SSI does not respond to DNT signals. If you object to SSI’s practice with regards to DNT signals, you are free not to visit SSI’s website.
 
-### Third-party websites and advertisements
+4\. How We Use the Information that We Collect.
 
-Third-party websites and advertisements with links to and from the Website may collect Information about users. You should be aware that these third-party websites have their own information collection practices and privacy policies. If you click on a third-party advertisement or link, the privacy policies of the third-party web site that you link to will govern the collection and use of your information by that web site’s operator. This Privacy Policy does not extend to these third-party web sites and advertisements. Please refer directly to these third-party web sites regarding their privacy policies. We assume no responsibility or liability for the actions of such third parties with respect to their use of your information or otherwise. Accordingly, please make sure you are aware of and comfortable with the privacy policies of any third-party web sites to which you follow a link. Also, we do not control cookies in third-party advertisements, and users are encouraged to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology. We also do not endorse the third party websites or any products or services advertised, offered and/or sold by, through or in connection with the third party websites.
+We may use information, including, without limitation, PII and business contact information, to:
 
-### Enforcement
+  1. Provide, administer, and communicate with you about SSI’s products, promotions, services, events (e.g., webinars, etc.), newsletters, and industry expertise/knowledge (e.g., whitepapers, articles, etc.);
+  2. Create, supplement, and update SSI’s directories and records for actual and/or potential suppliers, customers, and/or clients;
+  3. Protect against and prevent fraud, claims, liabilities, and to manage risk exposure;
+  4. Respond to inquiries and requests;
+  5. Operate, evaluate, conduct, and improve SSI’s business (including, without limitation, to conduct and complete transactions for SSI’s products and/or services, to improve SSI’s current products and/or services, to develop new products and/or services, etc.);
+  6. Process and manage opt-out or unsubscribe requests;
+  7. Comply with applicable laws, regulations, codes, and industry standards and practices;
+  8. Conduct marketing and market research activities including, without limitation,: (a) contacting you to participate in customer satisfaction surveys or questionnaires via telephone, email, or otherwise, and (b) soliciting your opinions or feedback on SSI’s business activities, including, without limitation, current and future products and services;
+  9. Create and send targeted communications to you regarding you or your company’s transactions with SSI and/or the profile for your company; 
+  10. Respond to a subpoena or an order of a court or government agency;
+  11. Establish, exercise, or defend legal claims, including, without limitation, in order to protect the safety of an individual or to protect SSI’s rights and/or property; and 
+  12. Evaluate your interest in employment and contact you regarding possible employment opportunities with SSI and/or any company within the SSI group of companies.
 
-United Sample is committed to working with individuals to obtain a fair resolution to any complaints or disputes about privacy. Any complaints or concerns about this Privacy Policy (or any updates you wish to provide relative to your Information) should be sent via regular mail, postage prepaid, addressed to:
 
-uSamp (United Sample, Inc.)  
-16501 Ventura Blvd., Suite 300  
-Encino, CA 91436
 
-### Changes to the policy
+In addition to the above, SSI may use information collected or received by SSI as otherwise set forth in this Privacy Policy. 
 
-United Sample hereby reserves the right to make changes to this Privacy Policy, from time to time, and United Sample will post such changes on the Website for you to review on a regular basis. 
+In the event that you provide SSI with any feedback, suggestions, and/or comments regarding SSI’s business activities, including, without limitation, regarding current and/or future products and/or services, SSI may use, apply, and implement such feedback, suggestions, and/or comments, at SSI’s discretion, and without notice to you, without any consent or approval from you, without any compensation to you, and/or without any attribution or credit to you, and you hereby irrevocably assign and transfer to SSI all right, title, and interest in and/or to any such feedback, suggestions, and/or comments. 
+
+5\. How do we share your information? 
+
+SSI does not sell your information and does not disclose your information, except as described in this Privacy Policy or as otherwise consented to by you.
+
+We may share information, including, without limitation, PII and business contact information, as follows:
+
+  1. Within the SSI group of companies (with SSI’s parents, subsidiaries, and affiliates) and the directors, managers, officers, employees, consultants, and agents of these companies, subject to the terms of this Privacy Policy or as otherwise disclosed to you at the time of the collection of your information or as subsequently consented to by you. 
+  2. To service providers who are performing services on our behalf, whether engaged directly by SSI or engaged by a third party, including, without limitation, companies providing email delivery services, fraud detection and prevention services, event coordination and management, etc. The service providers are authorized to use and disclose the information only as necessary to perform and provide the services for which they were engaged and subject to the terms set forth in this Privacy Policy. 
+  3. We may disclose information about you: (i) if we are required to do so pursuant to applicable laws or legal or court process; or (ii) when we believe disclosure is necessary to prevent harm or financial loss, or in connection with an investigation of actual or suspected fraud or illegal activity. 
+  4. We reserve the right to transfer information about you in the event of a merger, acquisition, sale or other transaction involving SSI. In addition, we may transfer your information in the event of a change of control event. Following a transfer covered by this Sub-Section (iv) you may contact the entity to whom your information was transferred, with any inquiries concerning the processing of your information. 
+
+
+
+6\. Where is Information Stored?
+
+Information, including, without limitation, PII and business contact information, is primarily stored on servers and systems located in the United States, which servers are licensed, owned, and/or maintained by or on behalf of SSI. Your information may also be stored on or in local servers, networks, and files maintained by or on behalf of a company within the SSI Group of companies. BY DISCLOSING YOUR PII TO SSI YOU ARE EXPRESSLY CONSENTING TO THE TRANSFER AND EXPORTING OF YOUR PERSONAL INFORMATION TO COUNTRIES OUTSIDE OF THE COUNTRY WHERE YOU MAY RESIDE, INCLUDING, WITHOUT LIMITATION, TO THE UNITED STATES. 
+
+SSI complies with the principles set forth in the United States (“US”) – European Union (“EU”) and US – Swiss Safe Harbor Frameworks as set forth by the US Department of Commerce regarding the collection, use and retention of personal data from EU member countries and Switzerland. SSI has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program, and to view SSI’s certification page, please visit http://www.export.gov/safeharbor/.
+
+7\. What Security Measures Has SSI Implemented?
+
+SSI maintains appropriate technical, administrative and physical safeguards to protect information, including, without limitation, PII, received or collected by SSI. SSI reviews, monitors and evaluates its privacy practices and protection systems on a regular basis. Notwithstanding the foregoing, transmissions over the Internet and/or a mobile network are not one hundred percent (100%) secure and SSI does not guarantee the security of such transmissions. SSI is not responsible for any errors by individuals in submitting PII to SSI. 
+
+8\. How can I opt-out?
+
+You may opt-out by:
+
+  1. clicking on the unsubscribe link contained in any e-mail communication received from SSI; or 
+  2. contacting us as set forth below. 
+
+
+
+9\. How Can You Access Your Information?
+
+You may access information we collect from or about you in order to review, edit, or delete such information, or you may exercise your right to opt-out from communications from SSI, by:
+
+  1. Sending an email request to info@surveysampling.com;
+  2. Sending an email request to privacy@surveysampling.com;
+  3. Sending a request via regular mail, postage pre-paid to:   
+Survey Sampling International, LLC   
+6 Research Drive   
+Shelton, Connecticut 06484 USA   
+Attention: Legal Department 
+
+
+
+10\. Children’s Privacy. 
+
+SSI believes it is important to protect the online privacy of children. Accordingly, SSI adheres to applicable laws and codes pertaining to the protection of children’s privacy, including, without limitation, the Children’s Online Privacy Protection Act of 1998 in the United States (as amended). SSI does not knowingly collect PII from anyone under the age thresholds prescribed by applicable laws and codes for the collection of PII from individuals without parental consent. If SSI became aware that it inadvertently collected PII from anyone under such age thresholds, SSI would promptly delete such PII.
+
+11\. How Long Does SSI Retain My Information?
+
+SSI will retain PII and other information about you for such period of time as may be required or permissible by law. 
+
+12\. Who can I contact with questions or complaints about this Privacy Policy?
+
+Questions or Complaints Generally. 
+
+If you have any questions or complaints regarding SSI’s privacy practices and/or this Privacy Policy or want to communicate an opt-out request to SSI, or want to exercise your rights to access, review, correct, delete or object to the processing of PII, please contact us: 
+
+via email at: privacy@surveysampling.com 
+
+or 
+
+via mail at: 
+
+Legal Department   
+Survey Sampling International, LLC   
+6 Research Drive, Shelton, Connecticut 06484 USA  
+p: (203) 567-7200/e: privacy@surveysampling.com 
+
+SSI has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Privacy Principles to an independent dispute resolution mechanism, the CASRO SAFE HARBOR PROGRAM. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by SSI, please visit the CASRO SAFE HARBOR PROGRAM website at https://www.casro.org/?complaintcasrosh for more information and to file a complaint.
+
+13\. Are there any companies within the SSI group that may collect, store and process PII?   
+Yes, please see the list of companies below: 
+
+  * Survey Sampling Europe BV – Weena 161, 3013 CK Rotterdam, Netherlands. 
+  * Survey Sampling Bulgaria EOOD – Triaditza area, #82, Patriarh Evtimii street, 1463, Sofia, Bulgaria.
+  * SSI Denmark ApS – Frederiksholms Kanal 4B, DK-1220, Copenhagen K Copenhagen.
+  * Survey Sampling France SASU – 22 rue de Dunkerque, 75010 Paris, France.
+  * Survey Sampling Germany GmbH – Kaiserstrasse 13, 60311 Frankfurt am Main, Deutschland.
+  * Survey Sampling RO S.R.L. – 12 Popa Sapca Street, Timisoara 300057.
+  * Survey Sampling Spain S.L. – C/ Carranza, 25, 2ª planta, 28004, Madrid, Spain.
+  * SSI Sweden AB – Drakens Gränd 8, 111 30 Stockholm, Sweden.
+  * Survey Sampling UK Ltd. – India House, 2nd Floor 45 Curlew Street London SEI 2nd United Kingdom.
+  * Survey Sampling Hong Kong Ltd. – 6/F, Hollywood Centre, 233 Hollywood Road, Sheung Wan, Hong Kong.
+  * SSI Beijing Co. Ltd. – CBD International Mansion, Room 901A, No. 16 Yongandongli, Chaoyang District, Beijing 100022, China.
+  * Survey Sampling Australia Pty. Ltd. – Level 11, 131 York Street, Syndey NSW 2000, Australia.
+  * Survey Sampling Singapore PTE Ltd. – #58 Republic Plaza, 9 Raffles Place, Singapore 048619.
+  * Survey Sampling International Services Company S.De R.L. De C.V. – Cordoba 42, Piso 9, Col. Roma Norte/Del. Cuauhtemoc, Mexico, D.F. 06700.
+  * Survey Sampling Korea Ltd. – Level 4, 27-8, Gukjegeumyung-ro 8-gil Yeongdeungpo-gu, Seoul Korea 150-998.
+  * Survey Sampling Japan GK – 3F KK Building, I-8-5, Shinkawa, Chuo-Ku, 104-0033, Tokyo, Japan.
+  * SSI Do Brasil Pesquisa de Mercado Ltda. – Rua das Olimpiadas, 205 – 40 ander 04551-000, Sao Paulo, Brasil.
+  * SSI Philippines Inc. – PIPC Bldg 7, MEPZ II, Basak, Lapu-Lapu, Cebu 6015, Philippines.
+  * MRops Programming India Private Ltd. – 8th Floor, Block 1, My Home Hub, Madhapur, Hyderabad, TG 500081.
+  * Mountain West Research Center L.C.
+  * Survey Sampling Hungary Kft. – Lion Office Center, 2 Vágóhíd Street, 7th Building, 3rd floor, H-4030 Debrecen, Hungary.
+
+
+
+14\. Links To Other Websites.
+
+SSI’s website(s) may contain or provide links to other websites for your convenience and information. These websites may operate independently from SSI. Linked sites may have their own privacy notices or policies, which we strongly suggest you review if you visit any linked websites. To the extent any linked websites you visit are not owned or controlled by SSI, SSI is not liable or responsible for the websites’ content, any use of the websites, or the privacy practices of the owners of the websites. 
+
+15\. Updates to this Privacy Policy.
+
+This Privacy Policy may be updated periodically and without prior notice to you to reflect changes to SSI’s practices and procedures set forth herein. In the event of any updates or changes to this Privacy Policy, SSI will post a prominent notice on SSI’s website(s) to notify you of any significant changes. 
