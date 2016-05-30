@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mohela.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124162614id_/https%3A//www.mohela.com/DL/common/internetprivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mohela.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530191836id_/https%3A//www.mohela.com/DL/common/internetprivacy.aspx) for the most accurate reproduction.*
 
 # MOHELA Internet Privacy Notice
 
-Effective Date: August 12, 2010
+Effective Date: February 01, 2016
 
   
 
@@ -17,7 +17,7 @@ Why? | Financial companies choose how they share your personal information. Fede
 What? |  The types of personal information we collect and share depend on the product or service you have with us. This information can include: 
 
   * Social Security number and income
-  * account balances and payment history
+  * Account balances and payment history
   * Credit history and account transactions
 
   
@@ -56,7 +56,8 @@ Definitions
 ---  
 **Affiliates** | Companies related by common ownership or control. They can be financial and nonfinancial companies. 
 
-  * MOHELA has no affiliates
+  * Affiliates include Missouri Scholarship and Loan Foundation and Education Loan Repayment Advisors
+  * MOHELA does not share with affiliates so they can market to you
 
   
 **Nonaffiliates** | Companies not related by common ownership or control. They can be financial and nonfinancial companies. 
@@ -76,7 +77,7 @@ Definitions
 
 We restrict access to nonpublic personal information about you to those employees who need to know that information to provide products or services to you. We maintain physical, electronic and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.
 
-[Site Disclaimer](https://web.archive.org/web/20151124162614id_/https%3A//www.mohela.com/DL/common/termsOfUse.aspx)
+[Site Disclaimer](https://web.archive.org/web/20160530191836id_/https%3A//www.mohela.com/DL/common/termsOfUse.aspx)
 
   
 
