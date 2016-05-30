@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cloud66.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213060020id_/http%3A//www.cloud66.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloud66.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530162331id_/http%3A//www.cloud66.com/privacy) for the most accurate reproduction.*
 
-# Privacy Ploicy | Cloud 66
+# Cloud 66 · Privacy Ploicy
 
   * Information we may collect from you
   * IP Addresses and Cookies
