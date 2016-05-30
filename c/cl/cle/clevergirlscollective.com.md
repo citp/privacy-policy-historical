@@ -1,58 +1,193 @@
-> *The following text is extracted and transformed from the clevergirlscollective.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906073431id_/http%3A//www.clevergirlscollective.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clevergirlscollective.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531003719id_/http%3A//www.clevergirlscollective.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Clever Girls
 
-Clever Girls Collective, Inc. (hereafter “we”, “our”, or “us”) has developed this Privacy Policy (“Policy”) in a continued effort to protect the privacy of our users. This Policy applies to your use of our website and any related services (the “Services”) under the domain CleverGirlsCollective.com. By using the Services you agree to be bound by this Policy. If you do not agree with this Policy, please do not use the Services. 
+## Privacy Policy of Clever Girls Collective
 
-## What Information We Collect & How We Use It
+_Last updated November 16, 2015_
 
-  1. Account registration. We create your User account for your use of the Service based upon the information you provide, including but not limited to your name, email address and a password (“Personal Information”). We may collect other Personal Information that you choose to provide us, including the content of your emails, demographic information, marital status, household income, education, employment status and post office address, as described below.
-  2. Communications and Voluntarily Provided Information. We use your Personal Information to contact you with Clever Girls Collective newsletters, marketing or promotional materials and other information that may be of interest to you. We also use your Personal Information to respond to your questions and/or inquiries. If you provide us feedback or contact us via email, we will collect other content included in the email – in addition to your name and email address – in order to send you a reply. When you participate in one of our surveys or contests, we may collect additional Personal Information. When you post content (text, images, photographs, messages, comments or any other kind of content that is not your email address) through our Service, the information contained in your posting will be stored on our servers and other users will be able to see it. We may also collect Personal Information, such as demographic information (like zip code, age or gender), from you at other points in our Service that state that Personal Information is being collected. In addition, you may choose to provide us with additional information, including but not limited to, marital status, household income, education and employment status. For example, we may offer online surveys and questionnaires that ask for opinions on various issues and/or other information. Or we may operate sweepstakes, contests and giveaways through our Service and ask for post office addresses to verify identity. If you decide at any time that you no longer wish to receive communications from us, or if you want us to delete your Personal Information, please follow the instructions provided in “Your choices Regarding Unformation,” below.
-  3. Data. When you use the Service, whether as a registered User or a non-registered User just browsing, our servers automatically record information from the Services (“Data”). This Data may include information such as the screens of our Service that you visit, the time spent on those screens, information you search for on our Service, access times and dates, and other statistics. Clever Girls Collective may also collect anonymous information, including the Internet protocol address (“IP Address”) of your computer, which is a number that is assigned by your Internet service provider (“ISP”) to your computer to identify its location. Each user’s IP Address is logged with each visit and each action performed with our Service. Clever Girls Collective may use anonymous information about your online activities and share this information with one or more third parties for use in tailoring ads to users on the Service and on third party sites and in analyzing and reporting on the advertising that you see. As a part of our commitment to respect privacy concerns, we will, and we will require such third parties to, provide users with the ability to opt out of such use. To opt-out of behavioral advertising, please contact us via email with your request. Except as otherwise provided in this Policy, your IP Address is never provided to third parties and is logged only for a temporary period of time. Clever Girls Collective uses the Data it collects to monitor and analyze use of the Service and the Service’s technical administration, to increase our Service’s functionality and user-friendliness, and to better tailor our Service to our visitors’ needs. As is true of most websites, Clever Girls Collective gathers certain information automatically and stores it in log files. This information includes IP Addresses, browser type, ISP, referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information to analyze trends, administer the Service, track users' movements around the Service and gather demographic information about our user base as a whole. Except as noted in this Privacy Statement, we do not link this automatically collected data to Personal Information. This Policy applies to your use of our website, Clever Girls member websites, which are sites that specifically link to this policy, and any related services under the domain CleverGirlsCollective.com and the urls associated with Clever Girls Collective as listed at the end of this Policy.
-  4. Cookies. In order to improve our Services and to provide more convenient, relevant experiences to our users, we and our advertisers and agents may use “cookies,” including “cross domain cookies,” single-pixel GIFs, and similar devices to track your activities. A “cookie” is a small amount of data that is transferred to your browser by a web server and can only be read by the server that gave it to you. It functions as your identification card and enables Clever Girls Collective to record your passwords and preferences. It cannot be executed as code or deliver viruses. A “cross domain cookie” Is a cookie that allows Clever Girls Collective, its advertisers and agents to track your activities across the domains that you visit. A “single-pixel GIF” is a small transparent gif image that is embedded in an HTML page or email used to track when the page or email has been viewed. A similar device may be used by which a service may send data to a server when a set of user-initiated events occur. This device is similar to a cookie in that it tracks your visit and the data can only be read by the server that receives the data. It is different than a cookie in that it is not browser-based, may not function as an identification card, and does not store any data on your computer. While Clever Girls Collective uses cookies, single-pixel GIFs and similar devices to track your use of the Service and other sites (such as the number of downloads, how many users we receive daily, the Service pages visited), and web servers automatically log the IP Address, Clever Girls Collective does not use this information to identify you personally. You can remove persistent cookies by following directions provided in your Internet browser's “help” file. Most browsers are initially set to accept cookies and most services that include similar devices are typically initially activated to collect data. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. (For some web pages that require an authorization, cookies are not optional. Users choosing not to accept cookies or similar devices will probably not be able to access those pages or the related services).
+Welcome to Clever Girls Collective, Inc! We offer a network of bloggers and other influencers (collectively, "Influencers") that help our clients ("Clients") reach potential customers through social media. This Privacy Policy describes our privacy and data practices for our products and services.
 
+This privacy policy describes the information we collect, how it is used how it may be shared, and what choices you have. This privacy policy is designed to cover all of our products and services, specifically including:
 
-
-## Sharing Of Your Information
-
-  1. Aggregate Information and Non-Identifying Information. We may share aggregated information that does not include Personal Information and we may otherwise disclose non-identifying information and Data with third parties for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain your Personal Information.
-  2. Service Providers. We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services (e.g., maintenance services, database management, web analytics and improvement of the Service’s features) or to assist us in analyzing how our Service are used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
-  3. Compliance with Laws and Law Enforcement. Clever Girls Collective cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We can disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process including, but not limited to, subpoenas, to protect the property and rights of Clever Girls Collective or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, illegal, unethical or legally actionable activity.
-  4. Business Transfers. Clever Girls Collective may sell, divest, transfer, assign, share or otherwise engage in a transaction that involves, some or all of our assets, including any or all of the information described in this Policy, in the course of a corporate divestiture, merger, acquisition, joint venture, bankruptcy, dissolution, reorganization, or any other similar transaction or proceeding.
+  * our website;
+  * our application process to be Influencers; and
+  * the Clever Girls Badge – a tool that is placed on blogs or websites of Influencers who are bloggers.
 
 
 
-## Your Choices Regarding Information
+This privacy policy is deemed incorporated by reference into our [Terms of Service](http://www.clevergirlscollective.com/terms-of-service) and our [Clever Girls Collective Membership Agreement](http://member.clevergirlscollective.com/membership-agreement), [Instagram Elite Membership Agreement](http://instagram.clevergirlscollective.com/membership-agreement), [Team On 3 Membership Agreement](http://member.teamon3.co/membership-agreement).
 
-You have several choices regarding the use of information on our Service: 
+**Our Website**
 
-  1. Email Communications. If you decide at any time that you no longer wish to receive email communications from us, please follow the unsubscribe instructions provided in any of our communications.
-  2. Changing or Deleting Your Password. All Users may modify their passwords in their User account by editing their profile via the Service.
-  3. Deletion of Personal Information. You may request deletion of your Personal Information by Clever Girls Collective by sending an email to support@clevergirlscollective.com, but please note that we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete the account information, it will be deleted from the active database, but may remain in our archives. Clever Girl Collective takes reasonable steps to ensure that your Personal Information is relevant for the purposes for which it is to be used, reliable for its intended use, and accurate, complete and current. We depend on you to update and correct your Personal Information to the extent necessary for the purposes for which it was collected and subsequently authorized by you.
+##### What We Collect from Visitors and How We Use It
+
+Our company website ("Clever Girls Site” or “Site") is [www.clevergirlscollective.com](http://www.clevergirlscollective.com/). We collect personally identifiable information of Site visitors only from individuals who provide it to us knowingly and directly, such as when you apply to be an Influencer.
+
+We log our visitor’s IP addresses to measure Site traffic, namely, how many unique visitors come to our Clever Girls Site. If we did not store the IP address, our Site audience count (number of visitors) would be inflated, because we would count each page load as one visit. By using the IP address, we can recognize duplicate visits from the same IP address, and derive the number of unique visits.
+
+Additionally, we use third party website analytics services and tools to learn the URL of the site that our visitors came from and where they go next. This enables us to understand who is referring traffic to us and where traffic goes from our Site. We also may use analytics services to understand how visitors are using our Site.
+
+##### How We Share That Information
+
+We do not share information about our Clever Girls Site visitors with our Clients or third parties, except in the aggregate and except as provided for below with regard to Influencer Applicants.
+
+##### Your Choices
+
+Our Site does not allow you to opt out from our logging of your IP address. You can opt out of third party services that analyze your use of our Site as described in the section below titled “Managing your Choices – Including Third-Party Tracking or Advertising Activities.”
+
+**Influencer Application Process**
+
+##### Information Collected and Used About Applicants
+
+Influencer applicants (" **Applicants** ") submit their applications through our Site. We collect the information that Applicants provide in the online application. This information may include personally and non-personally identifiable information.
+
+The personally identifiable information may include your name and contact information, including email address and phone number. We use this information so that we can follow up with you.
+
+Non-personally identifiable information may include demographic information, such as your age, gender, ethnicity, geographic location, interests, family, and education. We use this information to evaluate your likely match with Clients.
+
+We assume that the readers of each Applicant’s blog or other social media are very similar in demographics and interests to those of the Applicant. Therefore, we evaluate whether potential Influencers will likely reach a Client’s target customers.
+
+##### Sharing of Applicant Information
+
+We may share aggregate or non-personally identifiable information about Applicants with our Clients or third parties. For example, we might share that 35 Applicants from Texas applied last year or that we have a network of 1,000 Influencers who have young children.
+
+Once an Applicant becomes an Influencer, we may share some of their information with Clients. We do this in order to help match Influencers with particular Clients. For the matching process, we typically share non-personally identifiable data like interests and demographics. We may also share some personally-identifiable information, like Influencer’s name. We do not share personal contact information of Applicants, such as their email or phone number, with Clients, except with the Applicant’s express permission. We do not share personal contact information of Influencers with Clients, except with the Influencer’s express permission.
+
+##### Your Choices
+
+The data practices described above are needed for us to assess applications and manage the Influencer network. Accordingly, we do not offer opt-out mechanisms to Applicants in connection with the application process and network membership.
+
+**Clever Girls Badge**
+
+Influencers who are bloggers (" **Bloggers** ") are required to use or display a Clever Girls badge (" **Clever Girls Badge** ") on their own websites or blogs (" **Blogger Sites** "). We use the Clever Girls Badge as a tool to gather anonymous data about visitors to the Blogger Sites (" **Followers** ") so that we can understand how well our Bloggers are reaching our Clients’ target audiences.
+
+##### How the Clever Girls Badge Collects Information
+
+The Clever Girls Badge contains a pixel (a short string of software code) that collects the IP address of each visitor to each web page that it lives on, along with a record or “time stamp” of when the visit took place. This information reveals the size of the audience reached by the Blogger Site, which is a metric our Clients rely on to measure the effectiveness of Blogger campaigns. From the IP address, we can also infer the general geographic location of the computer the Follower used to access the Blogger Site.
+
+The Clever Girls Badge pixel collects only non-personally identifiable information, including the Follower’s IP address, the Uniform Resource Locator ("URL") of the website visited before coming to the Blogger Site, and the type of browser used by the Follower.
+
+Sometimes we allow a Client or a third party to "piggyback" on our pixel so that they can gather anonymous information about the Blogger’s audience using their own or third party browser cookies or web beacons. They may then use the information about Followers’ browsing behavior to learn what the Followers are interested in, and, in some cases, to subsequently show them ads that might be of interest to them, which is called targeted advertising.
+
+We may use cookies and beacons for our own purposes, such as learning more about our Bloggers’ audiences, including their behavior after they leave Blogger Sites. The purpose of this would be to provide better services to our Clients and to measure the influence of the Bloggers.
+
+##### How Follower Information is Used and Shared
+
+We use Followers’ non-personally identifiable information to measure the audience of our Blogger Sites and to build an understanding of that audience. We assume that each Follower is like the Blogger in many ways. We gather demographic information about each of our Bloggers during the Influencer application process in an effort to learn, indirectly, about their audience. But we prefer to have actual data.
+
+We buy demographic data and may combine it with the data we collect ourselves through the Clever Girls Badge to build profiles of Followers or learn more about them. This may help us better determine if Followers fit into our Client’s target geographic area or demographic or interest profile.
+
+We provide Blogger audience data to our Clients, and may share with Clients Followers’ information in the aggregate, including non-personally identifiable information about Followers’ activities after they leave Blogger Sites to show the influence of the Blogger.
+
+##### Your Choices
+
+The Clever Girls Badge does not enable Followers to opt out from the pixel’s logging of their IP address and collection of non-personally identifiable information. However, a Follower may exercise certain choices over third party activities, including their use of cookies to show the Follower targeted advertising on other websites. These choices are described in the section below titled "Managing your Choices – Including Third-Party Tracking or Advertising Activities."
+
+**Children’s Privacy**
+
+We do not knowingly collect any personal information from children under the age of thirteen (13) without parental consent, unless permitted by law. If we learn that a child under the age of thirteen (13) has provided us with personal information, we will delete it according to applicable law.
+
+**Changes to our Privacy Policy**
+
+We may update this privacy policy from time to time. We will notify you of any changes by posting the new policy online. If we make a material change in how we treat your personal information, we will take reasonable steps to notify you in advance of the planned change.
+
+**Business Transitions**
+
+Upon the sale or transfer of Clever Girls, Inc., and/or all or part of its assets, your data or information may be among the items sold or transferred. We will request that the purchaser treat your data according to the privacy notice in place at the time it was collected.
+
+**Security Measures**
+
+Clever Girls Inc. has put in place reasonable physical and technical measures to safeguard the information collected about you. However, please note that although we take reasonable steps to protect your information, no website or computer system or wireless connection is completely secure.
+
+**Your California Privacy Rights**
+
+California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their personal information (if any) for their direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an email to [membership@clevergirlscollective.com](mailto:membership@clevergirlscollective.com).
+
+**Practices of Other Parties and Third-Party Sites**
+
+This Privacy Policy does not apply to the privacy practices of our Clients, or the privacy practices of Blogger Sites. For that information, you should read their privacy policies when you visit their sites.
+
+**Managing Your Choices – Including Third-Party Tracking or Advertising Activities**
+
+To help provide you with choices about the information collected by third parties for their purposes, we provide you the following information about choices you have:
+
+  * _Opting Out of Google Analytics_. We use Google Analytics to help us analyze how people are using our Site. To prevent Google Analytics from using your information for analytics, you may install the Google Analytics Opt-out Browser Add-on by clicking [ https://tools.google.com/dlpage/gaoptout/](https://tools.google.com/dlpage/gaoptout/).
+  
+
+  * _Opting Out of ScoreCard Research_. We use ScoreCard Research to help us analyze how people are using our Site. To prevent ScoreCard Research from using your information for analytics, go to <https://www.scorecardresearch.com/preferences.aspx>.
+  
+
+  * _Opting out of MixPanel_. We use MixPanel to help us analyze how people are using our Site. To prevent MixPanel from using your information for analytics, go to <https://mixpanel.com/optout/>.
+  
+
+  * _Opting Out of Google Advertising_. We may allow Google to use a cookie to inform Google that you visited our Site, and Google may later serve ads to you on other websites. To opt out of Google interest-based advertising, click [https://www.google.com/settings/u/0/ads/authenticated](https://www.google.com/settings/u/0/ads/authenticated/).
+  
+
+  * _Opting Out of Targeted Advertising Generally_. The Self-Regulatory Program for Online Behavioral Advertising program provides consumers with the ability to opt-out of having their online behavior recorded and used for advertising purposes by member companies. To opt-out of having your online behavior collected for advertising purposes, click [http://www.aboutads.info/choices/](http://www.aboutads.info/choices) for instructions. Choices you make are both browser- and device-specific. This means that if you opt out when using Safari on your phone, you will not be opted out on Firefox or on your laptop.
+  
+
+  * _Do Not Track_. Some browsers have a ‘do not track’ feature that lets you tell websites that you do not want to have your online activities tracked. These features are not yet uniform, so we are not currently set up to respond to those signals.
+  
+
+  * _Deleting cookies_. To manage or delete browser cookies, please see your browser's privacy settings.
+  
+
+  * _Flash Cookies_. We currently do not use flash cookies, but we may in the future. To control flash cookies, click <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html>. Flash cookies do not reside in your browser, so your browser settings will not affect them.
 
 
 
-## Links To Other Sites And Services
+**International Users**
 
-Our Service contains links to other third-party websites and online services. If you choose to visit another website or online service by clicking on a link, you will be directed to that third party’s website or online service. The fact that we may link to a website or online service is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites and online services, and these third parties may place their own cookies or other files on your computer and collect data or solicit Personal Information and Non-Identifying Information from you. Other sites and online services follow different rules regarding the collection, use and/or disclosure of Personal Information and Non-Identifying Information. We encourage you to read the privacy policies or statements of the other websites or online services you visit before providing any information or using such websites or services. 
+If you are located outside of the United States, please note that this site is hosted on our computer servers in the United States. Therefore, your information may be processed and stored in the United States. As a result, United States federal and state governments, courts, or law enforcement or regulatory agencies may be able to obtain disclosure of your information through laws applicable in the United States. Your use of our products or services or your submission of any personal information to us will constitute your consent to the transfer of your personal information outside of your home country, including the United States, which may provide for different data protection rules than in your country.
 
-## How We Store And Protect Information
+**Contact Us**
 
-  1. Information Security. We care about the security of your information. We use commercially reasonable safeguards to preserve the integrity and security of information collected and maintained through the Service. However, we cannot ensure or warrant the security of any information you provide to us or guarantee that information on the Service may not be accessed, disclosed, altered, or destroyed by unauthorized persons.
-  2. Phishing. Identity theft and the practice currently known as “phishing” are of great concern to Clever Girls Collective. Safeguarding information to help protect you from identity theft is a top priority. We do not request your credit card information, login information, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the Federal Trade Commission’s website.
-  3. Breach Notification. We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of stored “personal data” (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on this Service in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
-  4. International Transfer. Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, Clever Girls Collective transfers Personal Information to the United States and processes it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+This Privacy Policy is brought to you be Clever Girls, Inc. We are located at:
+
+2415 San Ramon Valley Blvd, Suite 4368, San Ramon, CA 94583
+
+If you have further questions or comments, please feel to contact us at: [membership@clevergirlscollective.com](mailto:membership@clevergirlscollective.com).
+
+## Privacy Statement for the Clever Girls Badge
+
+_Last updated November 16, 2015_
+
+Clever Girls Collective, Inc. (" **Clever Girls** ") offers a network of bloggers and other influencers (collectively, " **Influencers** ") that help their clients (" **Clients** ") reach potential customers through social media. This Privacy Statement describes the privacy and data practices regarding the Clever Girls Badge  \-- a tool that is placed on blogs or websites of Influencers who are bloggers (" **Bloggers** ").
+
+**Who Uses the Clever Girls Badge**
+
+As part of their membership into the Clever Girls Collective, **Bloggers** are required to use or display a Clever Girls badge ( " **Clever Girls Badge** ") on their own websites or blogs (" **Blogger Sites** "). Clever Girls uses the Clever Girls Badge as a tool to gather anonymous data about visitors to the Blogger Sites (" **Followers** ") to understand how well Bloggers are reaching the Clients’ target audiences.
+
+**How the Clever Girls Badge Collects Information**
+
+The Clever Girls Badge contains a pixel (a short string of software code) that collects the IP address of each visitor to each web page that it lives on, along with a record or “time stamp” of when the visit took place. This information reveals the size of the audience reached by the Blogger Site, which is a metric Clients rely on to measure the effectiveness of Blogger campaigns. From the IP address, the general geographic location of the computer the Follower used to access the Blogger Site can also be inferred
+
+The Clever Girls Badge pixel collects only non-personally identifiable information, including the Follower’s IP address, the Uniform Resource Locator (“URL”) of the website visited before coming to the Blogger Site, and the type of browser used by the Follower.
+
+Sometimes Clever Girls allows a Client or a third party to “piggyback” on its pixel so that they can gather anonymous information about the Blogger’s audience using their own or third party browser cookies or web beacons. They may then use the information about Followers’ browsing behavior to learn what the Followers are interested in, and, in some cases, to subsequently show them ads that might be of interest to them, which is called targeted advertising.
+
+Clever Girls may use cookies and beacons for its own purposes, such as learning more about its Bloggers’ audiences, including their behavior after they leave Blogger Sites. The purpose of this would be to provide better services to their Clients and to measure the influence of the Bloggers.
+
+**How Follower Information is Used and Shared**
+
+Clever Girls uses Followers’ non-personally identifiable information to measure the audience of its Blogger Sites and to build an understanding of that audience. Clever Girls buys demographic data and may combine it with the data collected through the Badge to build profiles of Followers or learn more about them.  This may help Clever Girls better determine if Followers fit into a Client’s target geographic area or demographic or interest profile.
+
+Clever Girls provides Blogger audience data to its Clients, and may share with Clients Followers’ information in the aggregate, including  non-personally identifiable information about Followers’ activities after they leave Blogger Sites to show the influence of the Blogger. 
+
+**Your Choices**
+
+The Clever Girls Badge does not enable Followers to opt out from the pixel’s logging of their IP address and collection of non-personally identifiable information.  However, a Follower may exercise certain choices over Clever Girls’ and third parties’ use of cookies to show the Follower targeted advertising on other websites.  These choices are described below: 
+
+  * _Opting Out of Targeted Advertising._ The Self-Regulatory Program for Online Behavioral Advertising program provides consumers with the ability to opt-out of having their online behavior recorded and used for advertising purposes by member companies. To opt-out of having your online behavior collected for advertising purposes, click <http://www.aboutads.info/choices/> for instructions.  Choices you make are both browser- and device-specific.  This means that if you opt out when using Safari on your phone, you will not be opted out on Firefox or on your laptop.  
+  
+
+  * _Do Not Track._ Some browsers have a ‘do not track’ feature that lets you tell websites that you do not want to have your online activities tracked. These features are not yet uniform, so the Clever Girls Badge is not currently set up to respond to those signals.
+  
+
+  * _Deleting cookies._ To manage or delete browser cookies, please see your browser's privacy settings.
+  
+
+  * _Flash Cookies._  To control flash cookies, click <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html> Flash cookies do not reside in your browser, so your browser settings will not affect them. 
 
 
-
-## Our Policy Towards Children’s Information
-
-This Service is not directed to children under 13. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files. 
-
-## Policy Updates
-
-If we decide to make material changes to our Policy, we will notify you by sending you an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on the Service and updating the date at the top of the Privacy Statement. Therefore, we encourage you to check the date of our Policy whenever you visit the Service for any updates or changes. Any material changes to this Policy will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on the Service. Please note that at all times you are responsible for updating your Personal Information to provide us with your most current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Policy may affect our use or disclosure of Personal Information that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use or disclosure of your Personal Information, you must notify us prior to the effective date of the changes that you wish to deactivate your account with us. Continued use of, and access to our Service, following notice of such changes, shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
-
-## How To Contact Us
-
-If you have any questions about this Policy or any of the practices described herein, please contact us at support@CleverGirlsCollective.com. Affiliated URLs: www.clevergirlscollective.com; micro.clevergirlscollective.com; tags.clevergirlscollective.com, member.clevergirlscollective.com; tweets.clevergirlscollective.com; api.clevergirlscollective.com
