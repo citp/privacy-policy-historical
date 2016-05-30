@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookstrand.com privacy policy that was archived on 2015-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151129192518id_/http%3A//www.bookstrand.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookstrand.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530192055id_/http%3A//www.bookstrand.com/privacy) for the most accurate reproduction.*
 
 # Privacy - BookStrand | Bestselling Erotic Romance eBooks
 
