@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialspew.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929042755id_/http%3A//socialspew.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialspew.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530162504id_/http%3A//socialspew.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,7 +17,7 @@ Like many other Web sites, [www.socialspew.com](http://www.socialspew.com/) make
 **DoubleClick DART Cookie**   
 .:: Google, as a third party vendor, uses cookies to serve ads on [www.socialspew.com](http://www.socialspew.com/).  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to [www.socialspew.com](http://www.socialspew.com/) and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [http://www.google.com/privacy_ads.html](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.google.com%2Fprivacy_ads.html&t=Mzg4NDY1Mjc5NjlmZDcyZWJjMmMyOGVhMzg4NjViMGUxZDQ4ZmM0OSxUbU4zdWpESg%3D%3D)
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
 Google Adsense  
