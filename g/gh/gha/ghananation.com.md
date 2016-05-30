@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ghananation.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025044403id_/http%3A//www.ghananation.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghananation.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530155156id_/http%3A//www.ghanagrio.com/privacy-policy.asp) for the most accurate reproduction.*
 
-# GhanaNation.com - Privacy Policy
+# ghanagrio.com - Privacy Policy
 
 ### Privacy Statement for Ghana Nation
 
-GhanaNation.Com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: Ghana Nation 
+ghanagrio.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: Ghana Nation 
 
 **Information Automatically Logged  
 ** We use your IP address to help diagnose problems with our server and to administer our Web site, and to help identify you and your shopping cart. Your IP address is also used to gather broad demographic information, and for other purposes. 
@@ -33,9 +33,9 @@ Since we do not collect any personal information on this Web site, we do not sha
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/). 
 
-GhanaNation.com works with third parties that serves ads to this site. 
+ghanagrio.com works with third parties that serves ads to this site. 
 
-Send mail to [info@GhanaNation.com](mailto:info@GhanaNation.com) with questions or comments about this web site.   
+Send mail to [info@ghanagrio.com](mailto:info@ghanagrio.com) with questions or comments about this web site.   
 
 
   
