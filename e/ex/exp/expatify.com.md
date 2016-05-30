@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expatify.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414063330id_/http%3A//www.expatify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatify.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530094504id_/https%3A//www.expatify.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
