@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashion.net privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905200835id_/https%3A//www.fashion.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashion.net privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530195052id_/https%3A//www.fashion.net/privacy.php) for the most accurate reproduction.*
 
 # FASHION NET | privacy policy
 
@@ -21,5 +21,3 @@ FASHION NET, along with millions of other Web sites, uses cookies to enhance you
 If you have any additional questions, please [contact us](http://www.fashion.net/contact.php). 
 
 We recommend that you review this Privacy Statement periodically, as FASHION NET may update it from time to time. 
-
- 
