@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowslider.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204034757id_/http%3A//wowslider.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowslider.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530102318id_/http%3A//wowslider.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
