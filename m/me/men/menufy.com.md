@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the menufy.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924193708id_/https%3A//www.menufy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menufy.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530163000id_/https%3A//www.menufy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Menufy
 
@@ -6,6 +6,12 @@
 
   * We collect information from you when you fill out a form.
   * When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number.
+  * We use analytics service providers to better understand usage patterns on the menufy.com website. These providers collect information on our behalf using cookies and similar technologies. We use these service providers to better understand how people use our services and so that we can improve the design and usability of our products.
+  * We do not engage in tracking PII (Personally Identifiable Information) outside of our service and website.
+  * Third parties do not collect PII and individual consumers’ online activities over time and across different websites when a consumer uses Menufy.
+  * We do not take any action when a browser sends us a DNT (do not track) signal.
+  * By providing their email address, customers may opt-in to receive email notifications from third parties when new promotions are available.
+  * You can submit a request to review or update your PII by sending an email, requesting a copy of your PII or making changes to your PII, to info@menufy.com, or in writing to Menufy.com LLC, 6900 College Blvd Suite 680, Overland Park, KS 66211
 
 
 
@@ -16,6 +22,7 @@ Any of the information we collect from you may be used in one of the following w
   * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
   * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
   * To process transactions
+  * To notify opted-in customers of new promotions from third parties when available.
 
 
 
@@ -61,7 +68,7 @@ By using our site, you consent to our privacy policy.
 
 ### Changes to our Privacy Policy
 
-If we decide to change our privacy policy, we will post those changes on this page. 
+If we decide to change our privacy policy, we will post those changes on this page.
 
 ### Contacting Us
 
