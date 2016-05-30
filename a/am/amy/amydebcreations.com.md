@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amydebcreations.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118013435id_/http%3A//onlinelegalpages.com/backend/l%3Fq%3DW9ZmkB) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amydebcreations.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530035955id_/http%3A//onlinelegalpages.com/backend/l%3Fq%3DW9ZmkB) for the most accurate reproduction.*
 
 # Online Legal Pages
 
