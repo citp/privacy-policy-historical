@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betterworks.com privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918165012id_/https%3A//www.betterworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterworks.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530215712id_/https%3A//www.betterworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BetterWorks
 
@@ -12,7 +12,7 @@ BetterWorks is a business software solution that allows for rapid iteration on m
 
 ### 2\. Websites Covered
 
-This Privacy Notice applies to the Web sites that link to this Privacy Notice, including: [https://www.betterworks.com](https://web.archive.org/); [https://blog.betterworks.com](https://blog.betterworks.com/); [https://app.betterworks.com](https://app.betterworks.com/); and [https://betterworks.zendesk.com](https://betterworks.zendesk.com/) (collectively referred to as “BetterWorks’ Web sites” or “the Company’s Web sites” or “Product”).
+This Privacy Notice applies to the Web sites that link to this Privacy Notice, including: [https://betterworks.com](https://web.archive.org/); [https://blog.betterworks.com](https://blog.betterworks.com/); [https://app.betterworks.com](https://app.betterworks.com/); and [https://betterworks.zendesk.com](https://betterworks.zendesk.com/) (collectively referred to as “BetterWorks’ Web sites” or “the Company’s Web sites” or “Product”).
 
 ### 3\. Information We Collect
 
@@ -76,8 +76,8 @@ We may update this Notice from time to time. When we do, we will also revise the
 BetterWorks can be contacted at:
 
 BetterWorks Systems, Inc.  
-170 University, Suite A  
-Palo Alto, CA 94301  
+999 Main Street  
+Redwood City, CA 94063  
 USA 
 
 Questions about our Products, Services, or privacy practices can be directed to [security@betterworks.com](mailto:security@betterworks.com).
