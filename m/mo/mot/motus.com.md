@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the motus.com privacy policy that was archived on 2015-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150729080104id_/http%3A//www.motus.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motus.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530085433id_/http%3A//www.motus.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Mobile Workforce Management Solutions | Motus (CRS Inc)
+# Privacy Policy
 
 ### AGREEMENT
 
