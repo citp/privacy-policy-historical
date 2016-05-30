@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adview.co.uk privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905152838id_/http%3A//www.adview.co.uk/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adview.co.uk privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531014922id_/http%3A//www.adview.co.uk/policy) for the most accurate reproduction.*
 
 # AdView
 
@@ -12,7 +12,7 @@ AdView is committed to ensuring that your privacy is protected. Should we ask yo
 
 AdView may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from April 31st 2014.
 
-**"AdView" is a trading name of Investment Technologies Ltd, Suite 15, 24-28 St Leonards Road, Windsor, Berkshire, SL4 3BB**
+**"AdView" is a trading name of CIT Worldwide Limited, Dash House, 5-7 Union Street, Hull, United Kingdom, HU2 8HD**
 
 ### What we collect
 
@@ -52,10 +52,10 @@ You may choose to restrict the collection or use of your personal information in
 
 Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
 
-If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to Investment Technologies Ltd, Suite 15, 24-28 St Leonards Road, Windsor, Berkshire, SL4 3BB or by emailing us via our [contact](http://www.adview.co.uk/contact-us) form.
+If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to CIT Worldwide Limited, Dash House, 5-7 Union Street, Hull, United Kingdom, HU2 8HD or by emailing us via our [contact](http://www.adview.co.uk/contact-us) form.
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Investment Technologies Ltd, Suite 15, 24-28 St Leonards Road, Windsor, Berkshire, SL4 3BB.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to CIT Worldwide Limited, Dash House, 5-7 Union Street, Hull, United Kingdom, HU2 8HD.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please [contact](http://www.adview.co.uk/contact-us) us as soon as possible. We will promptly correct any information found to be incorrect.
