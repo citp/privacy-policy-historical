@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sixtimemommy.com privacy policy that was archived on 2015-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151129220055id_/http%3A//sixtimemommy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixtimemommy.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531015522id_/http%3A//sixtimemommy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - sixtimemommy.com
+# Privacy Policy - Six Time Mommy {and counting...}
 
 This Privacy Policy governs the manner in which Six Time Mommy collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://sixtimemommy.com website (“Site”).
 
