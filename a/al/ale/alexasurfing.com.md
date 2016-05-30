@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the alexasurfing.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209120735id_/http%3A//www.alexasurfing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alexasurfing.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530073940id_/http%3A//www.alexasurfing.com/privacy-policy) for the most accurate reproduction.*
 
 # AlexaSurfing Traffic Exchange Privacy Policy - AlexaSurfing
 
-This Privacy Policy governs the manner in which AlexaSurfing.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.alexasurfing.com](http://www.alexasurfing.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by AlexaBoostup.com.
+This Privacy Policy governs the manner in which AlexaSurfing.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.alexasurfing.com](http://www.alexasurfing.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by AlexaSurfing.com.
 
 **Personal identification information**
 
