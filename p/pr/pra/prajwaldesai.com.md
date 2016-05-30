@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the prajwaldesai.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118051246id_/http%3A//prajwaldesai.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prajwaldesai.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530145700id_/http%3A//prajwaldesai.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – PrajwalDesai.Com
+
+## Privacy Policy
 
 It is PrajwalDesai.com policy to respect your privacy regarding any information we may collect while operating our websites.
 
