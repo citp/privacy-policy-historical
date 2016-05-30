@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fashion.net privacy policy that was archived on 2015-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905200835id_/https%3A//www.fashion.net/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fashion.net privacy policy that was archived on 2016-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160530195052id_/https%3A//www.fashion.net/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
@@ -12,7 +12,7 @@
 <link rel="stylesheet" type="text/css" href="/includes/fashion.css">
 
 <!-- hide viewport tag from smart phones -->
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript" async="" defer="" src="//www.fashion.net/analytics/piwik.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
 if (screen && screen.width > 760)
   document.write('<meta name="viewport" content="width=device-width, scale=1.0, maximum-scale=1.0, user-scalable=no">');
 </script><meta name="viewport" content="width=device-width, scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -86,10 +86,10 @@ if (screen && screen.width > 760)
 </script> 
 
 <!-- search button -->
-	<!-- /search button -->
+<!-- /search button -->
 
 <!-- analytics -->
-	<!-- break out of frames, except at stumbleupon.com, digg.com, google.com, bing.com, yahoo.com -->
+<!-- break out of frames, except at stumbleupon.com, digg.com, google.com, bing.com, yahoo.com -->
 <script>
 var S=['www.stumbleupon.com','digg.com','www.google.com', 'www.bing.com', 'www.yahoo.com','dev.null'];
 function chk(l) { 
@@ -131,9 +131,10 @@ $(window).scroll(function () {
 </script>
 <!-- /fade on scroll -->
 
-<script type="text/javascript" src="/includes/jquery.font-resize.js"></script>
+<script type="text/javascript" src="https://cdn.fashion.net/includes/jquery.font-resize.js"></script>
 
 <meta name="google-site-verification" content="HoH2sdRkplx12_b3UyPvf0Jgod3qsifUHglhCC4djTk">
+
 
 <!-- google analytics -->
 <script type="text/javascript">
@@ -149,14 +150,30 @@ $(window).scroll(function () {
 </script>
 <!-- /google analytics -->
 
-<!-- /analytics -->
+<!-- piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["setDomains", ["*.www.fashion.net"]]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  _paq.push(['trackAllContentImpressions']);
+  (function() {
+    var u="//www.fashion.net/analytics/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 1]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//www.fashion.net/analytics/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+<!-- /piwik --><!-- /analytics -->
 
 </head>
 
 <body>
 
 <!-- analytics -->
-	<!-- alexa certify -->
+<!-- alexa certify -->
 <script type="text/javascript">
 _atrk_opts = { atrk_acct:"Mb8Zf1aYS500oA", domain:"fashion.net",dynamic: true};
 (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
@@ -187,7 +204,7 @@ _atrk_opts = { atrk_acct:"Mb8Zf1aYS500oA", domain:"fashion.net",dynamic: true};
 Example: errmsg="[An error occurred]" 
 Default: "[An error occurred while processing this directive]" -->
 
-
+<!--#config errmsg=" " -->
 <!-- /server side includes --><!-- /analytics -->
 
 <div id="page">
@@ -197,12 +214,16 @@ Default: "[An error occurred while processing this directive]" -->
 <!-- select bb -->
 <div class="bb" style="width: 100%; height:100%; padding: 0; margin: 0; border: 0"></div>
 <script>
+var urls = ['/a/select-bb-1.php?2048228960', '/a/select-bb-2.php?273343992', '/a/select-bb-3.php?1601561954', '/a/select-bb-4.php?46306817', '/a/select-bb-5.php?1442490536', '/a/select-bb-6.php?1485474926', '/a/select-bb-7.php?1380130087', '/a/select-bb-8.php?1069293896', '/a/select-bb-9.php?1221150753', '/a/select-bb-10.php?214605664'];
+
+var randombb = urls[Math.floor(Math.random() * urls.length )];
+
 $(document).ready(function() {
-$(".bb").load('/a/select-bb.php?1436053226');
+$(".bb").load(randombb);
 var auto_refresh = setInterval (
 function ()
 {
-$(".bb").load('/a/select-bb.php?1387343904')
+$(".bb").load(randombb)
 }, 30000);
 });
 </script>
@@ -215,24 +236,24 @@ $(".bb").load('/a/select-bb.php?1387343904')
 <div id="contentheader">
 
 <style>
-.categorytitle {font-size:16px;font-size:2.1vh}
+.categorytitle {font-size:15px;font-size:2.1vh}
 /* .categorytitle {font-size:16px;font-size:2.1vmin} */
 @media screen and (max-device-width: 480px) and (orientation: portrait){
-.categorytitle {font-size:16px;font-size:2.6vw}
+.categorytitle {font-size:15px;font-size:2.6vw}
 }
 @media screen and (max-device-width: 640px) and (orientation: landscape){
-.categorytitle {font-size:16px;font-size:3.1vh}
+.categorytitle {font-size:15px;font-size:3.1vh}
 }
 </style>
 
 <header>
 
-<!--<div style="position: absolute; float: right; top: 0; right: 0; margin: 110px 28px 0 0">
-<a href="http://pinterest.com/fashionnet" class="nohighlight" target="_blank"><img src="/images/pinterest-icon.png"  height="25" title="" alt="Pinterest" style="outline-style: none; margin-left: 0; opacity:0.9; filter:alpha(opacity=90)"></a><a href="https://google.com/+fashionnetofficial" class="nohighlight" target="_blank"><img src="/images/googleplus-icon.png"  height="25" title="" alt="Google Plus" style="outline-style: none; margin-left: 5px; opacity:0.9; filter:alpha(opacity=90);"></a><a href="http://www.facebook.com/fashionnet" class="nohighlight" target="_blank"><img src="/images/facebook-icon.png"  height="25" title="" alt="Facebook" style="outline-style: none; margin-left: 5px; opacity:0.9; filter:alpha(opacity=90);"></a><a href="http://instagram.com/fashionnet" class="nohighlight" target="_blank"><img src="/images/instagram-icon.png"  height="25" title="" alt="Instagram" style="outline-style: none; margin-left: 5px; opacity:0.9; filter:alpha(opacity=90);"></a>
-</div>-->
-
 <div style="padding-left: 8px; margin: 30px auto 0 auto; width: 578px">
-<h1><a href="/" class="nohighlight transition"><img src="/images/fashion-net-logo-333-centered-cropped.png" title="" alt="FASHION NET - The World's Number One Hub for Fashion since 1995" style="width: 100%; outline-style: none"></a></h1>
+<h1><a href="/" class="nohighlight transition"><img src="https://cdn.fashion.net/images/fashion-net-logo-333-centered-cropped.png" title="" alt="FASHION NET - The World's Number One Hub for Fashion since 1995" style="width: 100%; outline-style: none"></a></h1>
+
+<div class="fadeonscroll" style="color: #999; padding-top: 12px; margin: 0 auto 0 auto; text-align: center">
+<h1 class="light fixed categorytitle" style="font-style: italic; text-transform: uppercase; letter-spacing: 6px">FASHION NET</h1>
+</div>
 </div>
 
 <!-- search -->
@@ -243,10 +264,10 @@ $(".bb").load('/a/select-bb.php?1387343904')
 
 <input type="text" name="q" id="inline" maxlength="60" style="position: relative; padding-left: 56px; margin-top: 11px; outline: none; border: 0; vertical-align: middle; font-size: 13px; letter-spacing: 2px; font-weight: 100; font-family: Swiss721BT-Light, Helvetica, Arial; color: gray; width: 60%; /* background: #F7F7F7; */ z-index: 10">
 
-<img class="searchsymbol" src="/images/search-magnifying-glass-skinny-108px.png" title="" alt="Search" id="go">
+<img class="searchsymbol" src="https://cdn.fashion.net/images/search-magnifying-glass-skinny-108px.png" title="" alt="Search" id="go">
 </form>
 
-<a href="/shuffle/"><img class="shufflesymbol" src="/images/random-search-symbol-skinny-80px.png" title="" alt="Random Search"></a>
+<a href="/shuffle/"><img class="shufflesymbol" src="https://cdn.fashion.net/images/random-search-symbol-skinny-80px.png" title="" alt="Random Search"></a>
 
 </div>
 
@@ -262,11 +283,7 @@ $(".bb").load('/a/select-bb.php?1387343904')
 <div style="position: relative; width: 100%; height: 38px">
 
 <div style="float: right; padding: 11px 47px 0 0">
-<a href="/" class="nohighlight transition"><img src="/images/exitbutton_black_thin.png" width="20" alt="X"></a>
-</div>
-
-<div class="fadeonscroll" style="float: left; color: #999; padding: 12px 0 0 57px">
-<h1 class="light fixed categorytitle" style="text-transform: uppercase; letter-spacing: 3px">FASHION NET</h1>
+<a href="/" class="nohighlight transition"><img src="https://cdn.fashion.net/images/exitbutton_black_thin.png" width="20" alt="X"></a>
 </div>
 
 </div>
@@ -282,22 +299,38 @@ $(".bb").load('/a/select-bb.php?1387343904')
 <!-- links -->
 <div class="linkscontainer">
 <div class="links">
+
 <div style="width: 160px; height: 160px; border-left: 2px solid white; border-bottom: 2px solid white">
-<a href="/a/clicks/colette.php?804289182" class="nohighlight" target="_blank"><img src="/a/links/colette-blue.jpg" title="" alt="Colette" style="width: 100%"></a>
+<a href="/a/clicks/colette201603.php" data-track-content="" data-content-name="Colette" class="nohighlight" target="_blank"><img src="https://cdn.fashion.net/a/links/colette-blue.jpg" title="" alt="Colette" style="width: 100%"></a>
+</div>
+
+
+<script src="https://ib.3lift.com/ttj?inv_code=fashiondotnet_slate"></script>
+
+<script>
+  _paq.push(['trackEvent', 'Dior', 'Views']);
+  _paq.push(['setDocumentTitle', "Dior Ad"]);
+</script>
+
+<div style="width: 160px; height: 160px; padding: 0; border-bottom: 2px solid white; border-left: 2px solid white">
+<a href="/a/clicks/dior.php" data-track-content="" data-content-name="Dior" onclick="javascript:_paq.push(['trackEvent', 'Dior', 'Clicks']);" class="nohighlight" target="_blank"><img src="https://cdn.fashion.net/a/links/dior.png" title="" alt="Dior" style="width: 100%"></a>
+</div>
+
+
+<!-- track views with piwik -->
+<script>
+_paq.push(['trackEvent', 'AAU', 'Views']); // piwik
+</script>
+<!-- track views with piwik -->
+
+<div style="width: 160px; height: 160px; border-left: 2px solid white; border-bottom: 2px solid white">
+<a href="/a/clicks/aau.php?979587238" class="nohighlight" data-track-content="" data-content-name="AAU" target="_blank" onclick="javascript:_paq.push(['trackEvent', 'AAU', 'Clicks']);"><img src="https://cdn.fashion.net/a/links/aau2015-border.jpg" title="" alt="Acedemy of Art University" style="width: 100%"></a>
 </div>
 
 
 <div style="width: 160px; height: 160px; padding: 0; border-bottom: 2px solid white; border-left: 2px solid white">
-<a href="/a/clicks/dior.php?977377271" class="nohighlight" target="_blank"><img src="/a/links/dior.png" title="" alt="Dior" style="width: 100%"></a>
+<a href="/a/clicks/versace.php?516198378" class="nohighlight" data-track-content="" data-content-name="Versace" target="_blank"><img src="https://cdn.fashion.net/a/links/versace.png" title="" alt="VERSACE" style="width: 100%"></a>
 </div>
-
-
-<div style="width: 160px; height: 160px; padding: 0; border-bottom: 2px solid white; border-left: 2px solid white">
-<a href="/a/clicks/versace.php?964269072" class="nohighlight" target="_blank"><img src="/a/links/versace.png" title="" alt="VERSACE" style="width: 100%"></a>
-</div>
-
-
-<!-- include virtual="/a/links/blck-ink.php"-->
 
 </div>
 </div>
@@ -345,30 +378,32 @@ We recommend that you review this Privacy Statement periodically, as FASHION NET
 
 <div class="clearfloat"></div>
 
-&nbsp;
 </div> <!-- /white -->
 
-#!/usr/local/bin/perl
-
-print "&nbsp;";
+<footer>
 <div class="footerlinkscontainer">
 <div class="footerlinksinside">
-<a href="/about/" class="light transition fixed footerlinks" target="_top">ABOUT</a>&nbsp; <span class="light">&nbsp;</span> &nbsp;<a href="/advertise/" class="light transition fixed footerlinks" target="_top">ADVERTISE</a>&nbsp; <span class="light">&nbsp;</span> &nbsp;<a href="/privacy.php" rel="nofollow" class="light transition fixed footerlinks" target="_top">PRIVACY POLICY</a>&nbsp; <span class="light">&nbsp;</span> &nbsp;<a href="/contact.php" class="light transition fixed footerlinks" target="_top">CONTACT US</a>
+<a href="/about" class="light transition fixed footerlinks" target="_top">ABOUT</a>&nbsp; <span class="light">&nbsp;</span> &nbsp;<a href="/advertise" class="light transition fixed footerlinks" target="_top">ADVERTISE</a>&nbsp; <span class="light">&nbsp;</span> &nbsp;<a href="/privacy.php" rel="nofollow" class="light transition fixed footerlinks" target="_top">PRIVACY POLICY</a>&nbsp; <span class="light">&nbsp;</span> &nbsp;<a href="/contact" class="light transition fixed footerlinks" target="_top">CONTACT US</a>
 <br><br>
 <div class="socialcontainerpages">
-<a href="https://google.com/+fashionnetofficial" class="nohighlight" target="_blank"><img class="socialiconsleft" src="/images/googleplus-icon.png" height="25" title="" alt="Google Plus"></a><a href="http://pinterest.com/fashionnet" class="nohighlight" target="_blank"><img class="socialicons" src="/images/pinterest-icon.png" height="25" title="" alt="Pinterest"></a><a href="http://www.facebook.com/fashionnet" class="nohighlight" target="_blank"><img class="socialicons" src="/images/facebook-icon.png" height="25" title="" alt="Facebook"></a><a href="http://instagram.com/fashionnet" class="nohighlight" target="_blank"><img class="socialicons" src="/images/instagram-icon.png" height="25" title="" alt="Instagram"></a>
+<a href="https://instagram.com/fashionnet" class="nohighlight" target="_blank"><img class="socialiconsleft" src="https://cdn.fashion.net/images/instagram-new-icon.png" title="" alt="Instagram"></a>
+<a href="https://google.com/+fashionnet" class="nohighlight" target="_blank"><img class="socialicons" src="https://cdn.fashion.net/images/googleplus-icon-new.png" title="" alt="Google Plus"></a><a href="https://www.pinterest.com/fashionnet" class="nohighlight" target="_blank"><img class="socialicons" src="https://cdn.fashion.net/images/pinterest-icon.png" title="" alt="Pinterest"></a><a href="https://www.facebook.com/fashionnet" class="nohighlight" target="_blank"><img class="socialicons" src="https://cdn.fashion.net/images/facebook-icon.png" title="" alt="Facebook"></a><a href="https://twitter.com/fashionnet" class="nohighlight" target="_blank"><img class="socialicons" src="https://cdn.fashion.net/images/twitter-icon.png" title="" alt="Twitter"></a><a href="https://www.youtube.com/c/fashionnet" class="nohighlight" target="_blank"><img class="socialicons" src="https://cdn.fashion.net/images/youtube-icon.png" title="" alt="YouTube"></a>
 </div>
 <br>
-<div style="height: 1px"><a href="http://www.fashion.net/fashion.php" rel="nofollow"><img src="/fashion.gif" height="1" width="1" alt=""></a></div>
+<div style="height: 1px"><a href="https://www.fashion.net/fashion.php" rel="nofollow"><img src="/fashion.gif" height="1" width="1" alt=""></a></div>
 
-<span class="bold fixed copyright">Copyright © 1995–2015 Fashion Net Inc. All rights reserved.</span>
+<span class="bold fixed copyright">Copyright © 1995–2016 Fashion Net Inc. All rights reserved.</span>
 <br>
-<p class="light fixed trademark">FASHION NET<sup>®</sup> IS A REGISTERED TRADEMARK IN THE U.S. AND OTHER COUNTRIES OF FASHION NET INC. THE FASHION NET LOGO AND "THIS IS THE WORLD OF FASHION" ARE TRADEMARKS OF FASHION NET INC. <a href="https://cash.me/$fashionnet" style="color: #22A301" class="nohighlight" target="_blank">CASH.ME/$FASHIONNET</a><br></p>
+<p class="light fixed trademark">FASHION NET<sup>®</sup> IS A REGISTERED TRADEMARK IN THE U.S. AND OTHER COUNTRIES OF FASHION NET INC. THE FASHION NET LOGO AND "THIS IS THE WORLD OF FASHION" ARE TRADEMARKS OF FASHION NET INC. <a href="https://www.paypal.me/fashionnet" style="color: #22A301" class="nohighlight" target="_blank">PAYPAL.ME/FASHIONNET</a><br></p>
+
 </div>
 </div>
 
 <!-- lazy load images as you scroll -->
-<script src="/includes/jquery.lazyload.min.js"></script>
+<script>
+/*! Lazy Load 1.9.7 - MIT license - Copyright 2010-2015 Mika Tuupola */
+!function(a,b,c,d){var e=a(b);a.fn.lazyload=function(f){function g(){var b=0;i.each(function(){var c=a(this);if(!j.skip_invisible||c.is(":visible"))if(a.abovethetop(this,j)||a.leftofbegin(this,j));else if(a.belowthefold(this,j)||a.rightoffold(this,j)){if(++b>j.failure_limit)return!1}else c.trigger("appear"),b=0})}var h,i=this,j={threshold:0,failure_limit:0,event:"scroll",effect:"show",container:b,data_attribute:"original",skip_invisible:!1,appear:null,load:null,placeholder:"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"};return f&&(d!==f.failurelimit&&(f.failure_limit=f.failurelimit,delete f.failurelimit),d!==f.effectspeed&&(f.effect_speed=f.effectspeed,delete f.effectspeed),a.extend(j,f)),h=j.container===d||j.container===b?e:a(j.container),0===j.event.indexOf("scroll")&&h.bind(j.event,function(){return g()}),this.each(function(){var b=this,c=a(b);b.loaded=!1,(c.attr("src")===d||c.attr("src")===!1)&&c.is("img")&&c.attr("src",j.placeholder),c.one("appear",function(){if(!this.loaded){if(j.appear){var d=i.length;j.appear.call(b,d,j)}a("<img />").bind("load",function(){var d=c.attr("data-"+j.data_attribute);c.hide(),c.is("img")?c.attr("src",d):c.css("background-image","url('"+d+"')"),c[j.effect](j.effect_speed),b.loaded=!0;var e=a.grep(i,function(a){return!a.loaded});if(i=a(e),j.load){var f=i.length;j.load.call(b,f,j)}}).attr("src",c.attr("data-"+j.data_attribute))}}),0!==j.event.indexOf("scroll")&&c.bind(j.event,function(){b.loaded||c.trigger("appear")})}),e.bind("resize",function(){g()}),/(?:iphone|ipod|ipad).*os 5/gi.test(navigator.appVersion)&&e.bind("pageshow",function(b){b.originalEvent&&b.originalEvent.persisted&&i.each(function(){a(this).trigger("appear")})}),a(c).ready(function(){g()}),this},a.belowthefold=function(c,f){var g;return g=f.container===d||f.container===b?(b.innerHeight?b.innerHeight:e.height())+e.scrollTop():a(f.container).offset().top+a(f.container).height(),g<=a(c).offset().top-f.threshold},a.rightoffold=function(c,f){var g;return g=f.container===d||f.container===b?e.width()+e.scrollLeft():a(f.container).offset().left+a(f.container).width(),g<=a(c).offset().left-f.threshold},a.abovethetop=function(c,f){var g;return g=f.container===d||f.container===b?e.scrollTop():a(f.container).offset().top,g>=a(c).offset().top+f.threshold+a(c).height()},a.leftofbegin=function(c,f){var g;return g=f.container===d||f.container===b?e.scrollLeft():a(f.container).offset().left,g>=a(c).offset().left+f.threshold+a(c).width()},a.inviewport=function(b,c){return!(a.rightoffold(b,c)||a.leftofbegin(b,c)||a.belowthefold(b,c)||a.abovethetop(b,c))},a.extend(a.expr[":"],{"below-the-fold":function(b){return a.belowthefold(b,{threshold:0})},"above-the-top":function(b){return!a.belowthefold(b,{threshold:0})},"right-of-screen":function(b){return a.rightoffold(b,{threshold:0})},"left-of-screen":function(b){return!a.rightoffold(b,{threshold:0})},"in-viewport":function(b){return a.inviewport(b,{threshold:0})},"above-the-fold":function(b){return!a.belowthefold(b,{threshold:0})},"right-of-fold":function(b){return a.rightoffold(b,{threshold:0})},"left-of-fold":function(b){return!a.rightoffold(b,{threshold:0})}})}(jQuery,window,document);
+</script>
 <script>
 function lazyload() {
 $("img.lazy").lazyload({
@@ -395,12 +430,16 @@ $('html, body').animate({ scrollTop: 0 }, 0);
 });
 </script>
 
+</footer>
 
 </div> <!-- /content -->
 
 </div> <!-- /right -->
 
   <!-- /page -->
+
+<a class="ssscrollup" href="#">&nbsp;</a>
+
 
 
 </body></html>
