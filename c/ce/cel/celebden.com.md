@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the celebden.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113034542id_/http%3A//bollywood.celebden.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebden.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531182316id_/http%3A//bollywood.celebden.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Bollywood Celebden
+# Privacy Policy – Bollywood Celebden
 
 General Principles
 
