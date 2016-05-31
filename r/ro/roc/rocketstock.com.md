@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rocketstock.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906172414id_/https%3A//www.rocketstock.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketstock.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601004600id_/https%3A//www.rocketstock.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - RocketStock
+# Privacy Policy - RocketStock.com
 
 We, at RocketStock.com, fully understand and respect your online privacy. We have taken all the necessary steps to protect your personal information and ensure that your online security is not breached. We would like to assure you that:
 
