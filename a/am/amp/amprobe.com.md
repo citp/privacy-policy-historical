@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amprobe.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224214220id_/http%3A//en-us.fluke.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amprobe.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531220949id_/http%3A//en-us.fluke.com/site/privacy) for the most accurate reproduction.*
 
 # Fluke Privacy Policy
 
