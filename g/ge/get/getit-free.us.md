@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getit-free.us privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104121147id_/http%3A//www.getitfree.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getit-free.us privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531100955id_/http%3A//www.getitfree.us/privacy) for the most accurate reproduction.*
 
 # Privacy Notice | Get It Free - Freebies, Deals, Coupons
 
@@ -58,8 +58,8 @@ We may make your personal information available to third parties for their marke
 
 Get It Free  
 Attn: Legal Department  
-113 West G Street, Suite 410  
-San Diego, CA, 92101, USA  
+P.O. Box 12630  
+San Diego, CA 92112-3630  
 [legal@getitfree.us](mailto:legal@getitfree.us)
 
 ### Data Retention Policy, Managing Your Information
@@ -87,8 +87,8 @@ Please note that by using the Site, you agree to the terms of this Privacy Polic
 To reach the owner of this website, contact:
 
 Get It Free  
-113 West G Street, Suite 410  
-San Diego, CA, 92101, USA  
+P.O. Box 12630  
+San Diego, CA 92112-3630  
 [support@getitfree.us](mailto:support@getitfree.us)
 
 ### Changes to this Privacy Notice
