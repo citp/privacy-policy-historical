@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the cricketershop.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114422id_/http%3A//www.cricketershop.com/pages/privacy-%26-security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricketershop.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531182126id_/http%3A//www.cricketershop.com/pages/privacy-%26-security-policy) for the most accurate reproduction.*
 
 # Secure shopping at Cricketer Shop | Safe & Dependable Online Cricket Shop | Buy with confidence
+
+  Loading... Please wait...
 
 Cricketershop.com and its affiliates, respect your Privacy. Please read below policy carefully about the collection, usage anddissemination of the personal information that is provided by you and collected by us from you site usage. Please note that wereserve the right to change our Privacy Policy at any time without notice and you should read it periodically.
 
