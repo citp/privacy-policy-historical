@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panzoid.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117073728id_/http%3A//panzoid.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panzoid.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531025250id_/http%3A//panzoid.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Panzoid
 
@@ -30,7 +30,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 **DoubleClick DART Cookie**
 
-Google, as a third party vendor, uses cookies to serve ads on Panzoid.com. Google's use of the DART cookie enables it to serve ads to users based on their visit to www.panzoid.com and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
+Google, as a third party vendor, uses cookies to serve ads on Panzoid.com. Google's use of the DART cookie enables it to serve ads to users based on their visit to www.panzoid.com and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [google.com/policies/technologies/ads/](https://www.google.com/policies/technologies/ads/)
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense. These third-party ad servers or ad networks use technology to the advertisements and links that appear on panzoid.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
@@ -56,7 +56,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.panzoid.com/about/terms>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [panzoid.com/terms](https://web.archive.org/terms)
 
 **Your Consent**
 
