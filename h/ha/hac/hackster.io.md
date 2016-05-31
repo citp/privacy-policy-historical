@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hackster.io privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011124234id_/http%3A//www.hackster.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackster.io privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601002122id_/https%3A//www.hackster.io/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Hackster.io
 
@@ -40,9 +40,13 @@ A cookie is a string of information that a website stores on a visitor’s compu
 
 Hackster uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Hackster.io.
 
+## Whitelabel Communities Powered by Hackster.io
+
+Hackster provides hosted services for other companies (called "Platforms" on Hackster.io) that want their own project-sharing site. These sites use a subset of the projects and profile data that is available on Hackster.io. Consequently, if you're following a specific platform, or create a project and tag it with that platform, or respect, or comment on such a project, your profile information will appear on that platform's whitelabel project-sharing site (if they have one). It's important to note that we do not share your data with these companies in any way; all of it remains on our servers.
+
 ## Privacy Policy Changes
 
-Although most changes are likely to be minor, Hackster may change its Privacy Policy from time to time, and in Hackster's sole discretion. However, if this Privacy Policy is changed in a material, adverse way, Hackster will post a notice advising of such change at the beginning of this policy and on the homepage of the for 30 days. Hackster encourages visitors to frequently check this page for any changes to its Privacy Policy.
+Although most changes are likely to be minor, Hackster may change its Privacy Policy from time to time, and in Hackster's sole discretion. However, if this Privacy Policy is changed in a material, adverse way, Hackster will post a notice advising of such change at the beginning of this policy and on the homepage for 30 days. Hackster encourages visitors to frequently check this page for any changes to its Privacy Policy.
 
 ## Third party services
 
