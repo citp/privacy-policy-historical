@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the polleverywhere.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907154020id_/https%3A//www.polleverywhere.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polleverywhere.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531021506id_/https%3A//www.polleverywhere.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Poll Everywhere
 
-## Updated November 12, 2014
+## Updated December 11, 2015
 
-Thank you for visiting www.polleverywhere.com (the “Site”), which is owned by Poll Everywhere, Inc. (“Poll Everywhere”) and operated by in the United States. We strive to make our Privacy Policy (the “Privacy Policy”) easy to understand. While we encourage you to fully review our Privacy Policy, we provide a summary below that describes in general terms what we do and what we don’t do. The complete Privacy Policy is set forth below the summary in the form of FAQs. We also encourage you to review the Site Terms of Service (the “Terms of Service”), which is the agreement between you and Poll Everywhere that governs your use of the Site, as well as provides the terms and conditions under which Poll Everywhere provides, and you may use, the Poll Everywhere Service (the “Service”). 
-
-Poll Everywhere is certified under the Safe Harbor privacy framework as set forth by the U.S. Department of Commerce, European Commission and Switzerland regarding the collection, storage, use, transfer and other processing of personal information transferred from the European Economic Area or Switzerland to the U.S. Please visit our [Safe Harbor Privacy Notice.](https://web.archive.org/enterprise/safe-harbor)
+Thank you for visiting www.polleverywhere.com (the “Site”), which is owned by Poll Everywhere, Inc. (“Poll Everywhere”) and operated by in the United States. We strive to make our Privacy Policy (the “Privacy Policy”) easy to understand. While we encourage you to fully review our Privacy Policy, we provide a summary below that describes in general terms what we do and what we don’t do. The complete Privacy Policy is set forth below the summary in the form of FAQs. We also encourage you to review the Site Terms of Service (the “Terms of Service”), which is the agreement between you and Poll Everywhere that governs your use of the Site, as well as provides the terms and conditions under which Poll Everywhere provides, and you may use, the Poll Everywhere Service (the “Service”).
 
 In this Privacy Policy, we refer to our consumers as “Visitors” and “Users.” If you visit our Site and do not register, we refer to you as a “Visitor.” If you choose to register on our Site, we refer to you as a “User.” Both Users and Visitors can use our polling services.
 
@@ -20,6 +18,7 @@ In this Privacy Policy, we refer to our consumers as “Visitors” and “Users
   * In addition to providing polling services directly to individuals, Poll Everywhere also has business customers, such as employers or companies that organize conferences. When our business customers conduct polls using Poll Everywhere software, they may choose to collect additional information about poll participants. We require our business customers to explain their privacy practices to poll participants.
   * We share your personal information only as described in this Privacy Policy and do not sell the information, except if our company our assets are sold or acquired.
   * We may use the information we have about you to offer you products and services that we believe may be of interest to you. We may offer these products and services in conjunction with our business and marketing partners. You may direct us not to use or share your information by [registering with our opt-out form](https://docs.google.com/a/polleverywhere.com/forms/d/1k06IkyTuXJErrhaw6KLMf-r2x8rEDGVpE24tqzhW2I0/viewform). 
+  * If you registered with Poll Everywhere using an email address based on a domain owned by your company or organization (e.g., JohnDoe@AcmeCorp.com), we may share the fact of your registration with other users registered with an email address using the domain of the same company or organization and its affiliates to facilitate collaboration with your business colleagues.
   * If you provide your email, we automatically add it to our email list for periodic announcements. You may opt out and unsubscribe at any time using the “unsubscribe” links in our emails, or the checkbox next to your email address on [your Personal Info page](https://web.archive.org/profile/edit). 
 
 
@@ -30,7 +29,7 @@ This Privacy Policy applies to the personal information we collect on our Site, 
 
 The Privacy Policy includes the contents of this web page, including the summary points above and the FAQs below. We provide the summary points above only for your convenience. Please read the entire Privacy Policy, as well as the [Terms of Service](https://web.archive.org/terms). 
 
-**If you do not agree with the Privacy Policy, or the Terms of Service, you may not use this Site, the Service, our appications, or our mobile Site.**
+**If you do not agree with the Privacy Policy, or the Terms of Service, you may not use this Site, the Service, our applications, or our mobile Site.**
 
 ## Children's Privacy
 
@@ -44,7 +43,11 @@ We welcome any questions, comments or suggestions you may have about this Privac
 
 ### Your California Privacy Rights
 
-If you are a California resident, you may request that we provide to you (i) a list of the categories of personal information about you that Poll Everywhere has disclosed to third parties for the third parties’ direct marketing purposes during the calendar year preceding your request, (ii) the names and addresses of such third parties, and (iii) if the nature of the third parties’ business cannot reasonably be determined from their names, examples of the products or services marketed, if known to Poll Everywhere, sufficient to give you a reasonable indication of the nature of the third parties’ business. To submit your request, please email [security@polleverywhere.com,](mailto:security@polleverywhere.com?subject=California%20Privacy&body=Hello%20Poll%20Everywhere,%20I%20need...) with the subject line “California Privacy” and your request in the body of your email. 
+If you are a California resident, you may request that we provide to you (i) a list of the categories of personal information about you that Poll Everywhere has disclosed to third parties for the third parties’ direct marketing purposes during the calendar year preceding your request, (ii) the names and addresses of such third parties, and (iii) if the nature of the third parties’ business cannot reasonably be determined from their names, examples of the products or services marketed, if known to Poll Everywhere, sufficient to give you a reasonable indication of the nature of the third parties’ business. To submit your request, please email [security@polleverywhere.com,](mailto:security@polleverywhere.com?body=Hello%20Poll%20Everywhere%2C%20I%20need...&subject=California%20Privacy) with the subject line “California Privacy” and your request in the body of your email. 
+
+### Compliance with the Family Educational Rights and Privacy Act (“FERPA”)
+
+FERPA protects personally identifiable information contained in students’ education records from unauthorized use or disclosure. If you are an educational institution, or a teacher or school official at an educational institution, that is required to comply with FERPA, we will only use any education records (as defined under FERPA) that you may make available to Poll Everywhere for the purpose of providing the Services to you. We will never share or sell FERPA-protected information, or use it for any other purpose, except as otherwise directed or permitted by you. If a parent or eligible student requests access to any education records that are hosted on our servers, we will help facilitate such access.
 
 ## FAQs
 
@@ -84,15 +87,11 @@ Poll Everywhere also does not use cookies or other information gathering tools t
 
 As explained above, Poll Everywhere uses a select number of service providers to help facilitate our Service. We may employ independent companies or other third parties and individuals to help us provide, facilitate or improve our Service (such as customer service support). They are permitted to use data only for the purpose of performing services on our behalf or at an aggregate level. Notable third party services you should be aware of include Facebook and their “like” button, and web analytics providers like Google Analytics.
 
-Some features may expose your presence on the service. For example, if you are interacting with a poll form a presenter, they can see your responses. If you give them permission, they can also associate your responses with your name and email address.
+Some features may expose your presence on the service. For example, if you are interacting with a poll from a presenter, they can see your responses. If you give them permission, they can also associate your responses with your name and email address.
 
 ### How does polling work for Poll Everywhere’s business customers?
 
 In addition to providing polling services directly to individuals, we also have business customers, such as employers or companies that organize conferences. When our business customers conduct polls using our software, we share participants’ information with the customers. Business customers may configure the polling software to collect additional information about poll participants. We require our business customers to explain their privacy practices to poll participants.
-
-### How do we transfer personal information from Europe to the United States?
-
-Poll Everywhere is certified under the Safe Harbor privacy framework as set forth by the U.S. Department of Commerce, European Commission and Switzerland regarding the collection, storage, use, transfer and other processing of personal information transferred from the European Economic Area (“EEA”) or Switzerland to the U.S. This means that we handle in accordance with the Safe Harbor privacy principles the personal information that Poll Everywhere obtains regarding individuals who are EEA or Swiss Visitors and Users as a result of those individuals’ use of our polling products and services. See our Safe Harbor Privacy Notice for details.
 
 ### Is there an age restriction for joining Poll Everywhere?
 
@@ -126,10 +125,6 @@ Poll Everywhere uses SSL encryption and secure cookies to help prevent others fr
 
 Please contact us at [security@polleverywhere.com](mailto:security@polleverywhere.com) or via mail at: 
 
-Poll Everywhere, Inc.   
-Attn: Legal Department   
-1550 Bryant St.   
-Suite 500   
-San Francisco, CA 94103 
+Poll Everywhere, Inc. Attn: Legal Department 1550 Bryant St. Suite 500 San Francisco CA 94103
 
 PLEASE DO NOT SEND ANY SENSITIVE INFORMATION TO US VIA UNENCRYPTED EMAIL. Also, please note that we will need to verify and authenticate any emailed requests for access or changes to your personal or account information.
