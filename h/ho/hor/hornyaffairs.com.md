@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hornyaffairs.com privacy policy that was archived on 2015-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150717115722id_/http%3A//www.hornyaffairs.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hornyaffairs.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531053725id_/http%3A//www.hornyaffairs.com/site/privacy) for the most accurate reproduction.*
 
 # Hornyaffairs - Find people, socialize, hookup and chat.
 
