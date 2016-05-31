@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingeye.com.au privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211201111id_/http%3A//www.marketingeye.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingeye.com.au privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531080125id_/http%3A//www.marketingeye.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Marketing Eye
 
@@ -16,17 +16,6 @@ If you are under the age of 18, you must not provide your name, e-mail address, 
 
 If you have any questions regarding our privacy policy, please [contact us](http://www.marketingeye.com.au/contact-us.html). Any changes to this policy will be posted here, and will be effective once uploaded to this site. 
 
-### Latest Blogs
-
-  * [ Read more... ](http://www.marketingeye.com.au/marketing-blog/culture/what-not-to-do-at-your-company-s-christmas-party.html)
-  * #### [Life is full of twists](http://www.marketingeye.com.au/marketing-blog/mellissah-smith/life-is-full-of-twists.html)
-
-Christmas is coming closer and there have been a lot of party invites. I have mostly opted out as I don't have the "missing out syndrome" (FOMO) and know that as you get older, there is only so much casual… 
-
-[ Read more... ](http://www.marketingeye.com.au/marketing-blog/mellissah-smith/life-is-full-of-twists.html)
-  * 
-
-
 ###  Connect with Us
 
 #### Newsletter Subscribe
@@ -35,5 +24,8 @@ Sign up today and never miss another deal again!
 [Subscribe](http://www.marketingeye.com.au/newsletter-subscribe.html "Newsletter Subscribe form")
 
 ### Latest Marketing Eye Tweets
+
+Member of  
+[](https://www.ama.org/ "American Marketing Association")
 
 [__](http://www.marketingeye.com.au/privacy.html#)
