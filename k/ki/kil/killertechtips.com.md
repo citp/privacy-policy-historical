@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the killertechtips.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113150851id_/http%3A//www.killertechtips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the killertechtips.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531204500id_/http%3A//www.killertechtips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Killer Tech Tips at Killer Tech Tips
 
