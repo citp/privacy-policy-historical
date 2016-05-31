@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fnbbotswana.co.bw privacy policy that was archived on 2015-10-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151004020744id_/https%3A//www.fnbbotswana.co.bw/legal-matters/terms-and-conditions/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fnbbotswana.co.bw privacy policy that was archived on 2016-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160601010344id_/https%3A//www.fnbbotswana.co.bw/legal-matters/terms-and-conditions/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns:java="http://xml.apache.org/xslt/java"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -640,8 +640,12 @@ position:relative;
 <div id="login2" class="positionNormal">
 <div id="login3" class="fullwidth">
 <div class="innercontainer">
-			<!--div id="loginfeilds"-->
+			
+
+<!--div id="loginfeilds"-->
 	
+
+
 
 
 
@@ -715,6 +719,7 @@ position:relative;
 <input type="hidden" name="LoginButton" id="LoginButton" value="Login">
 <input type="hidden" name="homePageLogin" id="homePageLogin" value="true">
 <input type="hidden" name="division" id="division" value="">
+<input type="hidden" name="bankingUrl" id="bankingUrl" value="https://www.online.fnbbotswana.co.bw">
 <input type="hidden" id="nav" name="nav" value="navigator.UserLogon">
 
 
@@ -880,6 +885,11 @@ margin-right:0;
 	</div>
 </div>
 <![endif]-->
+	
+	
+			
+		
+		
 
 <div id="loginSpareDiv">
 <img src="/07images/pageLayout/border_search.gif"></div>
@@ -900,7 +910,7 @@ margin-right:0;
 				
 <p id="useridtext">User ID</p>
 				
-<input class="text" name="Username" id="Username" value="" onfocus="checkBrowseronFocus();doClear('useridtext')" onblur="doShow(this, 'useridtext')" type="text">
+<input class="text" name="Username030345" id="Username" value="" onfocus="checkBrowseronFocus();doClear('useridtext')" onblur="doShow(this, 'useridtext')" type="text">
 			
 </div>	
 
@@ -919,7 +929,7 @@ margin-right:0;
 <div id="onlinebankingaccessbutton">
 			
 		
-<a href="#" onclick="_gaq.push(['_trackEvent', 'Banking Login', document.title, 'Login Clicked']);if(checkForm()){document.forms['LOGIN_FORM'].submit();return true;}else{return false;}">
+<a href="#" onclick="_gaq.push(['_trackEvent', 'Banking Login', document.title, 'Login Clicked']);if(checkForm()){doSendForm();return true;}else{return false;}">
 		<!--img src="/images/pagelayout/login_button.gif"  onmouseover="this.src='/images/pagelayout/login_button_over.gif'" onmouseout="this.src='/images/pagelayout/login_button.gif'"   id="accessbutton" width="100" height="22" alt="Login to Online Banking" title="Login to Online Banking" /-->
 		<span>Login</span> <img src="/07images/pageLayout/iconArrowRightBig.gif" alt="Login to Online Banking">
 		</a>
@@ -931,6 +941,10 @@ margin-right:0;
 
 </div>
 <!--cloase all login-->
+		
+		
+	
+
 
 
 
@@ -961,10 +975,17 @@ margin-right:0;
 <li>
 <a href="#" onclick="submitFormFromLink('problems','loginproblems.FnbLoginProblems','LOGIN_FORM','');return false;">Reset access details</a>
 </li>
+
+	
 		
+		
+			
 <li>
 <a href="#" onclick="submitFormFromLink('register','enrollment.navigator.RegistrationSummary','LOGIN_FORM','');return false;">Register</a>
 </li>
+		
+	
+		
 		
 		
 </ul>
@@ -998,6 +1019,43 @@ margin-right:0;
 				document.getElementById(theText).style.display = "block";
 		     }
 		 }
+		 
+	function doSendForm(){
+	
+		var theForm = $(document.forms['LOGIN_FORM']);
+	    var extraParms = "&json=true";
+	    var serializedData = theForm.serialize() + extraParms;
+	    $('[name=LOGIN_FORM]')[0].reset();
+	    $("#Username").val("");
+	    $("#Password").val("");
+	    var targetURL = theForm.attr("action");
+	    var relativePath = targetURL.substring(targetURL.indexOf("/login"));
+	    setTimeout(function(){
+	        $.post(
+	                relativePath,
+	                serializedData,
+	                 function ( data){
+	                        //var resultObject = $.parseJSON(data);
+	                        var resultObject = data;
+	                        if(resultObject["errorMessage"] != ""){
+	                                alert(resultObject["errorMessage"]);
+	                                return;
+	                        }   
+	                        var redirectParameters = ""; 
+	                        for(k in resultObject){
+	                                redirectParameters+= (k+"=" + resultObject[k]+"&");
+	                        }   
+	                        redirectParameters+="&final=true";
+	                        var targetURL = resultObject["bankingUrl"];
+	
+	                        var completeURL = targetURL + "/banking/Controller?" + redirectParameters;
+	                        top.location = completeURL;
+	
+	
+	                }, "json"
+	        );  
+	    },200);
+	}	 
 </script>
 
 <!--/div--><!--logintext-->
@@ -1542,7 +1600,7 @@ top:10px;
 
 		//alert('writing: '+sharefulldiv);
 		document.write(showFriendinks);
-	</script><div class="friendless"><a href="/leadforms/sendToFriend.html?url=https://web.archive.org/web/20151004020744id_/https%3A//www.fnbbotswana.co.bw/legal-matters/terms-and-conditions/privacy-policy.html&amp;title=Privacy Policy - Legal Terms and Conditions - FNB"><img src="/07images/pageLayout/sendToFriend.gif" title="Send to a Friend" alt="Send to a Friend"></a></div>
+	</script><div class="friendless"><a href="/leadforms/sendToFriend.html?url=https://web.archive.org/web/20160601010344id_/https%3A//www.fnbbotswana.co.bw/legal-matters/terms-and-conditions/privacy-policy.html&amp;title=Privacy Policy - Legal Terms and Conditions - FNB"><img src="/07images/pageLayout/sendToFriend.gif" title="Send to a Friend" alt="Send to a Friend"></a></div>
 </div>
 <div id="addToFav">
 <a onclick="addPageItem();" href="#all1"><img src="/07images/contentImages/sharePanel/add_it.gif"></a>
