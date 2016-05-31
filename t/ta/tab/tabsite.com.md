@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tabsite.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915165843id_/https%3A//www.tabsite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tabsite.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531161054id_/https%3A//www.tabsite.com/privacy) for the most accurate reproduction.*
 
 # TabSite | Promotions Apps to Grow Leads and Engagement
 
