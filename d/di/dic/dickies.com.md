@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dickies.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610152536id_/http%3A//www.dickies.com/general/privacy.jsp%3Fepophide%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dickies.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531150135id_/http%3A//www.dickies.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Dickies :: Privacy
+# Privacy Policy | Dickies
 
 Dickies.com Privacy Notice
 
@@ -44,7 +44,7 @@ We reveal only the last four digits of your credit card numbers when confirming 
 
 **What Choices Do I Have?**
 
-If you do not want to receive e-mail or other mail from us, please adjust your Email Updates by going to the site and selecting Email Updates from the footer navigation. (If you do not want to receive [Conditions of Use](https://web.archive.org/web/20140610152536id_/http%3A//www.dickies.com/general/conditions-of-use.jsp) and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of Dickies.com, and it is your responsibility to review them for changes.)
+If you do not want to receive e-mail or other mail from us, please adjust your Email Updates by going to the site and selecting Email Updates from the footer navigation. (If you do not want to receive [Conditions of Use](https://web.archive.org/terms.html) and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of Dickies.com, and it is your responsibility to review them for changes.)
 
 **Are Children Allowed to Use Dickies.com?**
 
@@ -52,4 +52,4 @@ Dickies.com does not sell products for purchase by children. We sell children's 
 
 **Conditions of Use, Notices, and Revisions**
 
-If you choose to visit Dickies.com, your visit and any dispute over privacy is subject to this Notice and our [Conditions of Use](https://web.archive.org/web/20140610152536id_/http%3A//www.dickies.com/general/conditions-of-use.jsp), including limitations on damages, resolution of disputes, and application of the law of the state of Texas. If you have any concern about privacy at Dickies.com, please contact us at [customerservice@dickies.com](mailto:customerservice@dickies.com) with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Notice and the [Conditions of Use](https://web.archive.org/web/20140610152536id_/http%3A//www.dickies.com/general/conditions-of-use.jsp) will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
+If you choose to visit Dickies.com, your visit and any dispute over privacy is subject to this Notice and our [Conditions of Use](https://web.archive.org/terms.html), including limitations on damages, resolution of disputes, and application of the law of the state of Texas. If you have any concern about privacy at Dickies.com, please contact us at [customerservice@dickies.com](mailto:customerservice@dickies.com) with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Notice and the [Conditions of Use](https://web.archive.org/terms.html) will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
