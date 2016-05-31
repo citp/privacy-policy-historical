@@ -1,26 +1,16 @@
-> *The following text is extracted and transformed from the enterprise.com privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015215554id_/http%3A//www.enterprise.com/about/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enterprise.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531124321id_/http%3A//www.enterprise.com/en/privacy-policy.html) for the most accurate reproduction.*
 
-# Rent a car here - The Enterprise Rent-A-Car Online Reservation System
+# Privacy Policy - Enterprise Rent-A-Car
 
-This policy was last updated on **September 3, 2015.**
+This policy was last updated on **March 14, 2016.**
 
-At Enterprise Holdings, Inc., through our [subsidiaries](https://web.archive.org/content/ecom/en/privacy-policy/subsidiaries.html) operating under the Enterprise Rent-A-Car, Truck Rental, Car Sales, RideShare, and CarShare, Alamo Rent A Car, National Car Rental, and at Enterprise Fleet Management, Inc., (collectively, " **EHI** ", " **we** ", " **our** " or " **us** "), we respect your privacy. We implemented this privacy policy (" **Privacy Policy** ") to explain to you how we use and protect the personal information we may gather from and about our customers by means of our websites, mobile applications, online booking widgets (i.e. online booking applications run by our third-party partners such as hotel providers, airlines, etc), our corporate, rental, and sales locations, and from third-party sources. By using our websites or mobile applications, you consent to the collection, use, and disclosure of your information, as described in this Privacy Policy.
+At Enterprise Holdings, Inc., through our [subsidiaries](https://web.archive.org/en/privacy-policy/subsidiaries.html) operating under the Enterprise Rent-A-Car, Truck Rental, Car Sales, RideShare, and CarShare, Alamo Rent A Car, National Car Rental, and at Enterprise Fleet Management, Inc., (collectively, " **EHI** ", " **we** ", " **our** " or " **us** "), we respect your privacy. We implemented this privacy policy (" **Privacy Policy** ") to explain to you how we use and protect the personal information we may gather from and about our customers by means of our websites, mobile applications, online booking widgets (i.e. online booking applications run by our third-party partners such as hotel providers, airlines, etc), our corporate, rental, and sales locations, and from third-party sources. By using our websites or mobile applications, you consent to the collection, use, and disclosure of your information, as described in this Privacy Policy.
 
 To identify who the data controller is in respect of your personal data, please see Data Controllers and Contact Details by Country.
 
-The nature of our business and our operations may require us to share your reservation and booking information with our franchisees or licensees, which are owned and operated by independent licensees ("[Licensees](https://web.archive.org/content/ecom/en/privacy-policy/licensees.html)"). For these transactions, the Licensee is an independent data controller and maintains its own privacy policy in respect of the rental data that you provide to the Licensee. You are encouraged to check the privacy policy of the Licensee that is applicable to your transaction.
+The nature of our business and our operations may require us to share your reservation and booking information with our franchisees or licensees, which are owned and operated by independent licensees ("[Licensees](https://web.archive.org/en/privacy-policy/licensees.html)"). For these transactions, the Licensee is an independent data controller and maintains its own privacy policy in respect of the rental data that you provide to the Licensee. You are encouraged to check the privacy policy of the Licensee that is applicable to your transaction.
 
-EHI has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. If you have questions or complaints regarding our privacy policy or practices, please contact us at [customerservice@erac.com](mailto:customerservice@erac.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request) or in Canada you may contact the Privacy Commissioner of Canada at <https://www.priv.gc.ca/cu-cn/index_e.asp> or at Office of the Privacy Commissioner of Canada, 30 Victoria Street, Gatineau, Quebec, K1A 1H3. To view the digital properties covered by the TRUSTe program, please click [here](https://web.archive.org/content/ecom/en/privacy-policy/truste-certified.html).
-
-The Types of Information We Collect  
-How We Use This Information  
-How Your Information May Be Shared  
-Choices You Can Make About Your Information  
-Data Security and Integrity  
-Global Data Transfers and Processing  
-Changes in Terms  
-Contacting EHI  
-[Online Tracking and Advertisements](https://web.archive.org/content/ecom/en/privacy-policy/cookie-policy.html)
+EHI has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@ehi.com](mailto:privacy@ehi.com) and we will respond to you within a reasonable period of time unless otherwise required by law. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request) or in Canada you may contact the Privacy Commissioner of Canada by visiting <https://www.priv.gc.ca/cu-cn/index_e.asp> or at Office of the Privacy Commissioner of Canada, 30 Victoria Street, Gatineau, Quebec, K1A 1H3. To view the digital properties covered by the TRUSTe program, please click [here](https://web.archive.org/en/privacy-policy/truste-certified.html).
 
 ## The Types of Information We Collect
 
@@ -48,7 +38,7 @@ By visiting our websites, certain information may be automatically provided to u
 
 ### Cookies & Pixel Tracking
 
-EHI and our partners use cookies, pixel tags, etags, HTML 5 storage and similar technologies on most of our sites and in promotional emails which we may send to you. We use them to monitor and understand your use of our websites and services; improve your user experience and enable personalized features and content; optimize our advertisements and marketing and see which email promotions were of interest to you; and assist third-party advertising companies to serve ads on our behalf across the Internet. At this time, EHI websites do not respond to automated signals regarding tracking mechanisms, including “do not track” instructions from your browser. However, you have other options for preventing or limiting the use of cookies and similar technologies. To learn how to manage privacy and storage settings for Flash cookies, please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html). To learn more, please see our [Online Tracking and Advertising](https://web.archive.org/content/ecom/en/privacy-policy/cookie-policy.html) page.
+EHI and our partners use cookies, pixel tags, etags, HTML 5 storage and similar technologies on most of our sites and in promotional emails which we may send to you. We use them to monitor and understand your use of our websites and services; improve your user experience and enable personalized features and content; optimize our advertisements and marketing and see which email promotions were of interest to you; and assist third-party advertising companies to serve ads on our behalf across the Internet. At this time, EHI websites do not respond to automated signals regarding tracking mechanisms, including “do not track” instructions from your browser. However, you have other options for preventing or limiting the use of cookies and similar technologies. To learn how to manage privacy and storage settings for Flash cookies, please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html). To learn more, please see our [Online Tracking and Advertising](https://web.archive.org/en/privacy-policy/cookie-policy.html) page.
 
 ### **Vehicle Operation and Location Data**
 
@@ -67,7 +57,7 @@ We use the information we collect for the following purposes:
   * To assist the transactions that you request, such as reserving and renting motor vehicles.
   * To verify a valid ID when submitting a photo of yourself and drivers license for one of our CarSharing, afterhours or expedited rental services. We do not store this information for any other purpose.
   * To service your account or membership with us, respond to your questions and contact you when necessary.
-  * To provide you with discounts, coupons, sweepstakes, offers and other information, opportunities, and services that may be of interest to you. You may receive these offers in advertising that is directed to you via third-party sites and media properties, including in social media, and which may be subject to additional entry rules. You may be able to opt-out of these ads by clicking on an icon in the ad or through the privacy settings in each media property.
+  * To provide you with discounts, coupons, sweepstakes, offers and other information, opportunities, and services that may be of interest to you. You may receive these offers in advertising that is directed to you via third-party sites and media properties, including in social media. You may be able to opt-out of these ads by clicking on an icon in the ad or through the privacy settings in each media property.
   * To assist us in providing better products and services (for example, we may contact you by telephone, mail or email to assist us in evaluating the performance of our staff, to assess the quality of product and service received and to help us improve our websites, facilities and services).
   * To compile statistics and analysis about our customers’ use of our websites, products and services, which statistics are only used to enable us to provide better customer service, products, features and functionality to you and other customers in the future.
   * To protect our rights and property.
@@ -110,9 +100,9 @@ If you have a user name and password for any of the features on our websites, yo
 
 ## Global Data Transfers and Processing
 
-We will use your information in the country in which your service and transaction occurs. Please be aware that, unless prohibited by law, your use or continued use of our websites signifies your express consent that information may be transferred to or stored on servers and processed outside the country of your residence. Please also be aware that the privacy laws of the United States or other countries where information may be stored may not be as comprehensive or offer as much protection as the laws of other countries.
+We will use your information in the country in which your service and transaction occurs. Please be aware that, unless prohibited by law, your use or continued use of our websites and mobile applications signifies your express consent that information may be transferred to or stored on servers and processed outside the country of your residence, [including any of the countries where we do business](https://web.archive.org/en/privacy-policy/licensees.html). Please also be aware that the privacy laws of the United States or other countries where information may be stored may not be as comprehensive or offer as much protection as the laws of other countries including your country of residence. You may request us not to make such transfers, but if you do, we may not be able to provide some or all of our products or services to you.
 
-Enterprise Holdings complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Enterprise Holdings has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Enterprise Holdings’ certification, please visit <http://www.export.gov/safeharbor/>.
+When transferring personal data to countries outside the European Economic Area, we comply with European Union law by transferring to recipients who abide by Safe Harbor Principles, as set forth by the U.S. Department of Commerce, or by using standard contract clauses approved by the European Commission, or by adopting other means to ensure that adequate safeguards are applied, or by obtaining your consent.
 
 ## Changes in Terms
 
@@ -148,7 +138,8 @@ Enterprise Holdings, Inc.
 
 | 
 
-Enterprise, Internet Privacy Questions, 600 Corporate Park Drive, St. Louis, MO 63105  
+Enterprise, Internet Privacy Questions,  
+600 Corporate Park Drive, St. Louis, MO 63105  
   
 Canada
 
@@ -160,7 +151,7 @@ Enterprise Rent-A-Car Canada Company
 
 Enterprise, Internet Privacy Questions, 600 Corporate Park Drive, St. Louis, MO 63105
 
-Canadian Customers may also seek advise from the Office of the Privacy Commissioner of Canada (at 1-800-282-1376 or info@privcom.gc.ca)   
+Canadian Customers may also seek advise from the Office of the Privacy Commissioner of Canada (at 1-800-282-1376 or info@privcom.gc.ca)  
   
 United Kingdom
 
@@ -225,6 +216,28 @@ Enterprise, Internet Privacy Questions, Avenida del Ensanche de Vallecas 37, 280
 **Contract Information**  
   
 Albania, Austria, Belgium, Bosnia. Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, Greece, Hungary, Iceland, Italy, Latvia, Lithuania, Luxembourg, Macedonia, Malta, Montenegro, Moldova, Netherlands, Norway, Poland, Portugal, Romania, Serbia, Slovakia, Slovenia, Sweden, Switzerland, Turkey
+
+| 
+
+EAN Data Services UK Limited
+
+| 
+
+Enterprise House, Melburne Park,Vicarage Road, Egham Surrey TW20 9JY  
+  
+**If you are located within the European Economic Area and you use a “pre-pay” function, the controller for your payment information is listed below.**  
+  
+**Country**
+
+| 
+
+**Data Controller**
+
+| 
+
+**Contract Information**  
+  
+European Economic Area
 
 | 
 
