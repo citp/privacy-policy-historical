@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the babajikathulluu.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128061427id_/http%3A//www.babajikathulluu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babajikathulluu.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531192149id_/http%3A//www.babajikathulluu.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | Babajikathulluu
+# PRIVACY POLICY |
 
 At Babaji ka thulluu , we give utmost importance to the privacy of our users. This privacy policy lists the kind of personal information that we receive and collect on Babaji ka thulluu and the way we use it.
 
