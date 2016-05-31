@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keltymentalhealth.ca privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207232152id_/http%3A//keltymentalhealth.ca/node/3119) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keltymentalhealth.ca privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531184909id_/http%3A//keltymentalhealth.ca/node/3119) for the most accurate reproduction.*
 
 # Privacy | Kelty Mental Health Resource Centre
 
