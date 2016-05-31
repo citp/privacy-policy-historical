@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puma.de privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225155712id_/http%3A//de.puma.com/en_DE/privacy-policy/PRIVACY_POLICY.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puma.de privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601000732id_/http%3A//de.puma.com/de/en/privacy-policy/PRIVACY_POLICY.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,17 +24,11 @@ We use our technology to gather the following information:
 
 
 
-### **2\. Use of your Data for Order Processing**
+### **2\. Using Your Data to Process Your Order**
 
-We will use your personal data provided during the ordering process exclusively for delivering the goods, processing your payment, and to provide you with information concerning your order.  
-For this, we require the following information:  
-Contact data including title, first name, second name, street, house number, postal code, city, country, e-mail address, and date of birth.
+We use the personal information that you provide us with as part of the order process, to deliver the goods, to arrange payment and to send you information about your order. We require the following data to do this: contact information including title, first name, last name, street address, postal code, city, country, email address, birth date (to make sure the customer is over the age of 16) and phone number (in case we have any questions about your order).
 
-In order to process your payment, the required data will be saved both on our server and on the servers of the companies we commissioned with payment processing. Within this context, your data may be forwarded to a business information service provider for the purpose of credit and solvency checks.  
-
-The credit check will, of course, be performed in strict compliance with data protection regulations and taking into account your interests to be protected. Any data forwarded will be done so exclusively based on legal provisions.  
-
-Currently infoscore Consumer Data GmbH, Rheinstrasse 99, 76532 Baden-Baden, Germany is the service provider we consult for credit checks.
+For the purpose of payment processing the necessary data is stored both on our server and on the servers of the companies we have authorized to handle payment processing.
 
 ### **3\. Using Your Data for Advertising Purposes**
 
@@ -52,7 +46,7 @@ The data that is required to send the newsletters is forwarded to the companies 
 
 **Right to object**
 
-If you do not wish to receive further advertisement from us, you can object to such use at any time, by clicking on the unsubscribe link included in each advertisement message, or by sending us a message (for contact details see section 11, below).
+If you do not wish to receive further advertisement from us, you can object to such use at any time, by clicking on the unsubscribe link included in each advertisement message, or by sending us a message (for contact details see section 11, below). 
 
 ### **4\. Passing Your Personal Data on to Third Parties**
 
@@ -95,15 +89,15 @@ When visiting this site, your browser provides information that is collected and
 None of this data can ever be directly attributed to you. The data collected is used to create anonymous user profiles, which are the basis for web stats. The data that Adobe SiteCatalyst and Webtrekk collect is not used to identify visitors to this website at any time without first obtaining the visitor's express permission, nor is it merged together with any personal data related to the bearer of a user name.
 
 Adobe SiteCatalyst and Webtrekk data collection and storage can be revoked at any time and will remain that way for the future. Please go to the following links:  
-_Adobe SiteCatalyst:_<http://www.adobe.com/en/privacy/opt-out.html>  
-_Webtrekk:_[ http://www.webtrekk.com/en/index/dataprivacy.html](http://www.webtrekk.com/en/index/dataprivacy.html)
+_Adobe SiteCatalyst:_ <http://www.adobe.com/en/privacy/opt-out.html>  
+_Webtrekk:_  <http://www.webtrekk.com/en/index/dataprivacy.html>
 
 Follow each of the above-mentioned links to set an opt-out cookie. This opt-out cookie remains valid for at least 5 years. Please note that when deleting all cookies on your computer, this opt-out cookie will also be deleted, so you have to reset the opt-out cookie if you want to continue to reject anonymous data collection through Adobe SiteCatalyst and/or Webtrekk.
 
 The data privacy policies of Adobe SiteCatalyst and Webtrekk can be found at these websites:
 
-_Adobe SiteCatalyst:_<http://www.adobe.com/privacy/analytics.html>  
-_Webtrekk:_<http://www.webtrekk.com/en/index/dataprivacy.html>
+_Adobe SiteCatalyst:_ <http://www.adobe.com/privacy/analytics.html>  
+_Webtrekk:_ <http://www.webtrekk.com/en/index/dataprivacy.html>
 
 ### **7\. Google Analytics**
 
@@ -111,17 +105,18 @@ This website uses Google Analytics, a web analytics service provided by Google, 
 
 Please note that on this website Google Analytics code has been supplemented by “gat._anonymizeIp();” to ensure the anonymized collection of IP addresses.
 
-You may refuse the use of cookies by selecting the appropriate settings on your browser. However, please note that if you do this, you may not be able to use the full functionality of this website. Furthermore you can prevent Google’s collection and use of data (cookies and IP address) by downloading and installing the browser plug-in available under <https://tools.google.com/dlpage/gaoptout?hl=en>.
+You may refuse the use of cookies by selecting the appropriate settings on your browser. However, please note that if you do this, you may not be able to use the full functionality of this website. Furthermore you can prevent Google’s collection and use of data (cookies and IP address) by downloading and installing the browser plug-in available under <https://tools.google.com/dlpage/gaoptout?hl=en>
 
-Further information concerning the data privacy policy of Google can be found at: _https://www.google.de/intl/en/policies/_
+Further information concerning data privacy can be found at _https://www.google.de/intl/en/policies/_
 
-[Disable Google Analytics](https://web.archive.org/web/20151225155712id_/http%3A//de.puma.com/en_DE/privacy-policy/%E2%80%9Djavascript:gaOptout\(\)%E2%80%9D)
+[Disable Google Analytics](https://web.archive.org/web/20160601000732id_/http%3A//de.puma.com/de/en/privacy-policy/%E2%80%9Djavascript:gaOptout\(\)%E2%80%9D)
 
 ### **8\. The Facebook Like Button**
 
 Our sites receive social plug-ins from the social network Facebook, which is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA. The social plug-ins include the Facebook "Like" button, and the plug-ins are marked with a Facebook logo (thumbs-up icon) or are identified by the additional "Facebook social" plug-in.
 
-When you access a website from our website that contains this type of plug-in, your browser establishes a direct connection with the Facebook servers and sends this data to Facebook. This is true regardless of whether you are a member of Facebook, whether you are logged in while visiting our site as a member of Facebook, or if you click the plug-in. If you are a Facebook member and are logged in at Facebook while on our website, Facebook will assign your visit to our site to your Facebook account, even if you do not click the social plug-in. But if you do click the plug-in, this information will be transmitted to your Facebook account and stored there. The nature and extent of information transmitted to Facebook data are beyond our control. Nor do we know in detail which of your data will be transmitted to Facebook, or for what purpose Facebook uses this data. This data includes your IP address, and Facebook's own information on the website you visited, the date and time of the visit and other browser-related information. If a visitor visits the PUMA website while also logged in on Facebook, their login ID will also be collected and processed, and Facebook will assign this visit to the visitor's Facebook account. You must log out of Facebook before visiting our website if you want to prevent the embedded Facebook social plug-in on our site from transmitting your data to your Facebook account. More information on Facebook can be found at this website: [http://www.facebook.com/help/social-plugins/ ](http://www.facebook.com/help/social-plugins/).  
+When you access a website from our website that contains this type of plug-in, your browser establishes a direct connection with the Facebook servers and sends this data to Facebook. This is true regardless of whether you are a member of Facebook, whether you are logged in while visiting our site as a member of Facebook, or if you click the plug-in. If you are a Facebook member and are logged in at Facebook while on our website, Facebook will assign your visit to our site to your Facebook account, even if you do not click the social plug-in. But if you do click the plug-in, this information will be transmitted to your Facebook account and stored there. The nature and extent of information transmitted to Facebook data are beyond our control. Nor do we know in detail which of your data will be transmitted to Facebook, or for what purpose Facebook uses this data. This data includes your IP address, and Facebook's own information on the website you visited, the date and time of the visit and other browser-related information. If a visitor visits the PUMA website while also logged in on Facebook, their login ID will also be collected and processed, and Facebook will assign this visit to the visitor's Facebook account. You must log out of Facebook before visiting our website if you want to prevent the embedded Facebook social plug-in on our site from transmitting your data to your Facebook account. More information on Facebook can be found at this website: [http://www.facebook.com/help/social-plugins/ ](http://www.facebook.com/help/social-plugins/).
+
 Refer to Facebook privacy policies for more information on the collection, storage and use of your personal data by Facebook, and the configuration options available to you to protect your personal information: [http://www.facebook.com/about/privacy/ ](http://www.facebook.com/about/privacy/).
 
 ### **9\. Twitter Plug-Ins**
