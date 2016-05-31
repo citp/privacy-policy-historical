@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailycannon.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128111503id_/http%3A//dailycannon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailycannon.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531064723id_/http%3A//dailycannon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Daily Cannon
 
