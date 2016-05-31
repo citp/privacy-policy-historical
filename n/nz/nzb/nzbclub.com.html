@@ -1,576 +1,610 @@
-<!--The following is the downloaded HTML source of the nzbclub.com privacy policy that was archived on 2015-04-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150407120654id_/http%3A//www.nzbclub.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nzbclub.com privacy policy that was archived on 2016-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160531150118id_/http%3A//www.nzbclub.com/privacypolicy) for the most accurate reproduction.-->
 
-<html xmlns="http://www.w3.org/1999/xhtml"><head><title>
-	Privacy Policy -- NZBClub.com - NZB Search Engine for Usenet
-</title><link href="Styles/stylese.css" rel="stylesheet" type="text/css"><link rel="shortcut icon" href="/images/favicon.ico">
-        <meta name="description" content="Usenet search engine with 1830+ days NZB retention with Free NZB search and NZB download from Usenet Newsgroups. SSL Search available.">
-        <meta name="keywords" content="nzb,nzb search,ssl nzb,secure nzb search,nzb index,nzbindex,free nzb,nzb search engine,nzb binary,nzb binaries,nzb download,nbz search,nzb finder,nzb index,nzb indexing,nzb site,usenet search engine">
-        <meta name="robots" content="index, follow">
-    <link href="http://aspnet-skins.telerikstatic.com/ajax/2010.2.929/Splitter.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><link href="http://aspnet-skins.telerikstatic.com/ajax/2010.2.929/Outlook/Splitter.Outlook.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><link href="http://aspnet-skins.telerikstatic.com/ajax/2010.2.929/Menu.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><link href="http://aspnet-skins.telerikstatic.com/ajax/2010.2.929/Black/Menu.Black.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><link href="http://aspnet-skins.telerikstatic.com/ajax/2010.2.929/Simple/Splitter.Simple.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><link href="http://aspnet-skins.telerikstatic.com/ajax/2010.2.929/Dock.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><link href="http://aspnet-skins.telerikstatic.com/ajax/2010.2.929/Ajax.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><link href="http://aspnet-skins.telerikstatic.com/ajax/2010.2.929/Simple/Ajax.Simple.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet"></head>
-<body>
+<!DOCTYPE html><html><head id="Head1"><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- Page title -->
+    <title>
+	NZBClub.com - Privacy Policy
+</title>
+
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+    <link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+
+    <!-- Vendor styles -->
+    <link rel="stylesheet" href="/assets/vendor/fontawesome/css/font-awesome.min.css"><link rel="stylesheet" href="/assets/vendor/metisMenu/dist/metisMenu.min.css"><link rel="stylesheet" href="/assets/vendor/animate.css/animate.min.css"><link rel="stylesheet" href="/assets/vendor/bootstrap/dist/css/bootstrap.min.css"><link rel="stylesheet" href="/assets/vendor/toastr/build/toastr.min.css">
+
+
+    <!-- App styles -->
+    <link rel="stylesheet" href="/assets/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css"><link rel="stylesheet" href="/assets/fonts/pe-icon-7-stroke/css/helper.css"><link rel="stylesheet" href="/assets/styles/style.min.css">
+<meta name="robots" content="index, follow">
     <script type="text/javascript">
-        function OnWatchListCommand(sender, eventArgs) {
-            var senderid = "watchlist";
-            var expired = new Date();
-            var command = eventArgs.Command.get_name();
-            var collapsed = sender.get_collapsed()
-            var c_string = "";
-            if (collapsed) {
-                c_string = "collapsed";
-            }
-            else {
-                c_string = "expanded";
-            }
-
-            expired.setDate(expired.getDate() + 30);
-            document.cookie = senderid + "=" + escape(c_string) + "; expires=" + expired.toGMTString() + "; path=/";
-        }
-
-        function OnTipsCommand(sender, eventArgs) {
-            var senderid = "tips";
-            var expired = new Date();
-            var command = eventArgs.Command.get_name();
-            var collapsed = sender.get_collapsed()
-            var c_string = "";
-            if (collapsed) {
-                c_string = "collapsed";
-            }
-            else {
-                c_string = "expanded";
-            }
-
-            expired.setDate(expired.getDate() + 30);
-            document.cookie = senderid + "=" + escape(c_string) + "; expires=" + expired.toGMTString() + "; path=/";
-        }
-
-        function OnSaveRCommand(sender, eventArgs) {
-            var senderid = "saver";
-            var expired = new Date();
-            var command = eventArgs.Command.get_name();
-            var collapsed = sender.get_collapsed()
-            var c_string = "";
-            if (collapsed) {
-                c_string = "collapsed";
-            }
-            else {
-                c_string = "expanded";
-            }
-
-            expired.setDate(expired.getDate() + 30);
-            document.cookie = senderid + "=" + escape(c_string) + "; expires=" + expired.toGMTString() + "; path=/";
-        }
-
-        function OnFilterOptionsCommand(sender, eventArgs) {
-            var senderid = "filteroptions";
-            var expired = new Date();
-            var command = eventArgs.Command.get_name();
-            var collapsed = sender.get_collapsed()
-            var c_string = "";
-            if (collapsed) {
-                c_string = "collapsed";
-            }
-            else {
-                c_string = "expanded";
-            }
-            expired.setDate(expired.getDate() + 30);
-            document.cookie = senderid + "=" + escape(c_string) + "; expires=" + expired.toGMTString() + "; path=/";
-        }
-
-        function QuickBoxKeyPress(sender, args) {
-            if (args.get_keyCode() == 13) {
-                var button = document.getElementById("ctl00_ui_quicksubmit");
-                button.click();
-                args.set_cancel(true);
-            }
-        }
-
-        function QuickBoxKP(evt) {
+        function QuickSearchKeyPress(evt) {
             if (evt.keyCode == 13) {
-                var button = document.getElementById("ctl00_ui_quicksubmit");
-                button.click();
-                args.set_cancel(true);
-            }
-        }
-
-        function installSearchAddOn() {
-            if ("external" in window) {
-                window.external.AddSearchProvider('http://www.nzbclub.com/searchAddOn.xml');
-            }
-            else {
-                alert("Sorry, your browser does not support installing this Search Add-in");
-            }
-        }
-
-        function ToggleExpandPane(paneID) {
-            var slidingZone = $find("ctl00_ui_mainslidingzone");
-            var expandedPaneId = slidingZone.get_expandedPaneId();
-            var currentPane = $find(paneID);
-            var parentPane = $find("ctl00_MainPane");
-
-            if (expandedPaneId == null || expandedPaneId != paneID) {
-                var parentSize = parentPane.get_height();
-                if (currentPane.get_height() != parentSize - 30) {
-                    currentPane.set_height(parentSize - 30);
-                    currentPane.set_width(parentPane.get_width() - 100);
+                var qs = $("#quickSearch").val();
+                if (qs.trim().length > 0) {
+                    window.document.location.href = "/search.aspx?q=" + encodeURI(qs);
                 }
-
-                slidingZone.expandPane(paneID);
+                return false;
             }
-            else {
-                slidingZone.collapsePane(paneID);
-            }
-        }
-
-        function ToggleSaveRPaneTabVisibility() {
-            var slidingZone = $find("ctl00_ui_mainslidingzone");
-            var pane = slidingZone.getPaneById("ctl00_ui_saveRPane");
-            var pane2 = slidingZone.getPaneById("ctl00_ui_watchlistpane");
-            var pane3 = slidingZone.getPaneById("ctl00_ui_favouritesearchpane");
-            if (pane.isTabDisplayed()) {
-                pane.hideTab();
-            }
-
-            if (pane2.isTabDisplayed()) {
-                pane2.hideTab();
-            }
-
-            if (pane3.isTabDisplayed()) {
-                pane3.hideTab();
-            }
-        }
-
-        var saverHolder = null;
-        var watchlistHolder = null;
-        var favouritesearchHolder = null;
-
-        function OnSaveRClientExpanding(sender, args) {
-            if (!sender._loaded) {
-                $find("ctl00_ui_saverpanel").ajaxRequest();
-                sender._loaded = true;
-                saverHolder = sender;
-            }
-        }
-
-        function OnWatchListClientExpanding(sender, args) {
-            if (!sender._loaded) {
-                $find("ctl00_ui_watchlistpanel").ajaxRequest();
-                sender._loaded = true;
-                watchlistHolder = sender;
-            }
-        }
-
-        function OnFavouriteSearchClientExpanding(sender, args) {
-            if (!sender._loaded) {
-                $find("ctl00_ui_favouritesearchpanel").ajaxRequest();
-                sender._loaded = true;
-                favouritesearchHolder = sender;
-            }
-        }
-
-        var currentLoadingPanel = null;
-        var currentUpdatedControl = null;
-
-        function onMainMenuClicked(sender, eventArgs) {
-            var item = eventArgs.get_item();
-            if (item.get_text() == 'SaveR') {
-                ToggleExpandPane('ctl00_ui_saveRPane');
-
-            } else if (item.get_text() == 'Watch List') {
-                ToggleExpandPane('ctl00_ui_watchlistpane');
-
-            }
-        }
-
-        function OnRequestStart(ajaxPanel, eventArgs) {
-            var eventTarget = eventArgs.get_eventTarget();
-            if (eventTarget.indexOf("ui_downloadtoolbar") != -1) {
-                eventArgs.set_enableAjax(false); // cancel the ajax request
-            }
-        }
-
+        };
 
     </script>
-    <form name="aspnetForm" method="post" action="PrivacyPolicy.aspx" id="aspnetForm">
-<input type="hidden" name="ctl00_RadScriptManager1_TSM" id="ctl00_RadScriptManager1_TSM" value="">
-<input type="hidden" name="ctl00_RadStyleSheetManager1_TSSM" id="ctl00_RadStyleSheetManager1_TSSM" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPZwUPOGQyM2YxODhjZmVmZTRhcD+nh5pP9xL9FRDO4+AFv4HTcyg=">
+<meta name="description" content="Privacy Policy"><meta name="keywords" content="privacy policy"><style type="text/css">.jqstooltip { position: absolute;left: 0px;top: 0px;visibility: hidden;background: rgb(0, 0, 0) transparent;background-color: rgba(0,0,0,0.6);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000);-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000)";color: white;font: 10px arial, san serif;text-align: left;white-space: nowrap;padding: 5px;border: 1px solid white;z-index: 10000;}.jqsfield { color: white;font: 10px arial, san serif;text-align: left;}</style></head>
+<body class="main-page hide-sidebar">
+    <!-- Simple splash screen-->
+    <div class="splash" style="display: none;">
+        <div class="color-line"></div>
+        <div class="splash-title">
+            <h1>NZBClub - NZB Search</h1>
+            <p>Search 2480+ days of NZB free. </p>
+            <img src="/images/loading-bars.svg" width="64" height="64">
+        </div>
+    </div>
+    <!--[if lt IE 7]>
+<p class="alert alert-danger">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+<![endif]-->
+
+    <!-- Header -->
+    <form method="post" action="./" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="I82Awjw52nsz2EYG2GQaFYl+Kw7hak1FW95djXSyVO0zsxMIZGv0aak62UTfFKvW9kbP2e0pr+5qc26CaZ5pAYABUY5pV07VnXnbeScBCgg=">
 
 
-<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl00_RadScriptManager1_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d3.5.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3aeb198dbd-2212-44f6-bb15-882bde414f00%3aea597d4b%3bTelerik.Web.UI%3aen-US%3a15a8cff0-9e51-4282-a100-c2dcd204ecf2%3a16e4e7cd%3af7645509%3a22a6274a%3aed16cbdc%3a11a04f7e%3a24ee1bba%3ae330518b%3a1e771326%3ac8618e41%3a596d7b53%3a874f8ea2%3a854aa0a7" type="text/javascript"></script>
-<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="7650BFE2">
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBALL5MrTCgKn7bmWAwKirsrbAQKSuILrDf4aeN6XQ4PIYnBxMQciUH0MC9Mt">
-    
-    <input type="submit" name="ctl00$MyDefaultButton" value="" onclick="return false;" id="ctl00_MyDefaultButton" style="display: none;">
-    <div class="Fill">
+<script src="../Scripts/WebForms/MsAjax/MicrosoftAjax.js" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA3D75A3">
         
-        <!-- 2010.2.929.35 --><div id="ctl00_RadAjaxManager1SU">
-	<span id="ctl00_RadAjaxManager1" style="display:none;"></span>
-</div>
-        <div id="ctl00_MainSplitter" style=""><div><table id="RAD_SPLITTER_ctl00_MainSplitter" class="RadSplitter RadSplitter_Outlook rspHideRadSplitter" cellpadding="0" cellspacing="0" style="width:1px;height:1px;border-left-width:1px;border-top-width:1px;">
-	<tbody><tr id="RAD_SPLITTER_PANE_TR_ctl00_TopPane">
-		<td id="ctl00_TopPane" valign="top" class="rspPaneHorizontal rspFirstItem" style="border-right-width:1px;border-bottom-width:1px;"><div id="RAD_SPLITTER_PANE_CONTENT_ctl00_TopPane" style="width:398px;height:26px;overflow:hidden;background-color:#000000;">
-                <!-- Place the content of the pane here -->
-                <div id="ctl00_ui_mainmenu" class="RadMenu RadMenu_Black rmSized" style="float: none;
-                    z-index: 7000; position: absolute;">
-			<ul class="rmRootGroup rmRoundedCorners rmShadows rmHorizontal">
-				<li class="rmItem rmFirst rightItem"><a href="/login.aspx" class="rmLink rmRootLink"><img alt="" src="/Images/nzb_login.png" class="rmLeftImage"><span class="rmText">Login/Register</span></a></li><li class="rmItem  rightItem"><a href="#" class="rmLink rmRootLink"><img alt="" src="/Images/nzb_saver.png" class="rmLeftImage"><span class="rmText">SaveR</span></a></li><li class="rmItem  rightItem"><a href="/historysearch.aspx" class="rmLink rmRootLink"><img alt="" src="/Images/nzb_age.png" class="rmLeftImage"><span class="rmText">History</span></a></li><li class="rmItem  rightItem"><a href="/templatesearch.aspx" class="rmLink rmRootLink"><img alt="" src="/Images/nzb_template.png" class="rmLeftImage"><span class="rmText">Template</span></a></li><li class="rmItem  rightItem"><a href="/favouritesearch.aspx" class="rmLink rmRootLink"><img alt="" src="/Images/nzb_favourite.png" class="rmLeftImage"><span class="rmText">Favourite</span></a></li><li class="rmItem "><a href="/" class="rmLink rmRootLink"><img alt="" src="/Images/nzb_home.png" class="rmLeftImage"><span class="rmText">NZBClub.com</span></a></li><li class="rmItem "><a href="/usenetgroups.aspx" class="rmLink rmRootLink"><img alt="" src="/Images/nzb_newsgroup.png" class="rmLeftImage"><span class="rmText">Newsgroups</span></a></li><li class="rmItem "><a href="/options.aspx" class="rmLink rmRootLink"><img alt="" src="/Images/nzb_settings.png" class="rmLeftImage"><span class="rmText">Options</span></a></li><li class="rmItem "><a href="#" class="rmLink rmRootLink"><img alt="" src="/Images/watch_nzb.png" class="rmLeftImage"><span class="rmText">Watch List</span></a></li><li class="rmItem rmLast rmTemplate"><div class="rmText">
-					
-                                <input name="ctl00$ui_mainmenu$i9$ui_quicksearchterm" type="text" id="ctl00_ui_mainmenu_i9_ui_quicksearchterm" class="search-string" onkeyup=" return QuickBoxKP(event);">
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container">
+            </div>
+            <div id="logo" class="light-version">
+                <span><a href="/">NZBClub</a>
+                    
+                </span>
+            </div>
+            <nav role="navigation">
+                <div class="header-link hide-menu"><i class="fa fa-bars"></i></div>
+                <div class="small-logo">
+                    <span class="text-primary"><a href="/">NZBClub</a></span>
+                    <span id="ui_status2"><span class="text-danger"><i class="fa fa-unlock" title="No SSL, ID not Encrypted"></i></span></span>
+                </div>
+                <div role="search" class="navbar-form-custom">
+                    <div class="form-group">
+                        
+                        <input type="text" placeholder="Search NZB..." class="form-control" autocomplete="off" id="quickSearch" onkeypress="return QuickSearchKeyPress(event);">
                             
-				</div></li>
-			</ul><input id="ctl00_ui_mainmenu_ClientState" name="ctl00_ui_mainmenu_ClientState" type="hidden">
-		</div>
-            </div><input id="ctl00_TopPane_ClientState" name="ctl00_TopPane_ClientState" type="hidden"></td>
-	</tr><tr id="RAD_SPLITTER_PANE_TR_ctl00_MainPane">
-		<td id="ctl00_MainPane" valign="top" class="rspPaneHorizontal rspLastItem" style="border-right-width:1px;border-bottom-width:1px;"><div id="RAD_SPLITTER_PANE_CONTENT_ctl00_MainPane" style="width:398px;height:366px;overflow:hidden;">
-                <table id="ctl00_ui_mainslidingzone" cellpadding="0" cellspacing="0" class="rspSlideZone" width="100%" height="1">
-			<tbody><tr>
-				<td valign="top" class="rspTabsContainer rspBottom" id="RAD_SLIDING_ZONE_TABS_CONTAINER_ctl00_ui_mainslidingzone" height="0"><div class="rspPaneTabContainer" id="RAD_SLIDING_PANE_TAB_ctl00_ui_saveRPane" style="height:-1px" title=""><span class="rspPaneTabText" id="RAD_SLIDING_PANE_TEXT_ctl00_ui_saveRPane" style="line-height:0px;"></span></div><div class="rspPaneTabContainer" id="RAD_SLIDING_PANE_TAB_ctl00_ui_watchlistpane" style="height:-1px" title=""><span class="rspPaneTabText" id="RAD_SLIDING_PANE_TEXT_ctl00_ui_watchlistpane" style="line-height:0px;"></span></div><div class="rspPaneTabContainer" id="RAD_SLIDING_PANE_TAB_ctl00_ui_favouritesearchpane" style="height:-1px" title=""><span class="rspPaneTabText" id="RAD_SLIDING_PANE_TEXT_ctl00_ui_favouritesearchpane" style="line-height:0px;"></span></div></td>
-			</tr><tr style="display:none;">
-				<td valign="top" id="RAD_SLIDING_ZONE_PANES_CONTAINER_ctl00_ui_mainslidingzone"><div id="ctl00_ui_saveRPane" style="z-index:5001;" class="rspSlidePane">
-					<table class="rspSlideContainer" cellpadding="0" cellspacing="0" style="width:1px;height:1px">
-						
-						<tbody><tr class="rspSlideHeader">
-							
-                            <td><table cellpadding="0" cellspacing="0" style="width:100%;">
-						        <tbody><tr>
-							        <td class="rspSlideTitleContainer">
-                                        <div class="rspSlideTitle" id="RAD_SPLITTER_SLIDING_TITLE_ctl00_ui_saveRPane"></div></td>
-							        <td class="rspSlideHeaderIconWrapper">
-								        <div id="RAD_SPLITTER_SLIDING_PANE_UNDOCK_ctl00_ui_saveRPane" class="rspSlideHeaderUndockIcon" title="Undock">&nbsp;</div>
-							        </td>
-                                    <td class="rspSlideHeaderIconWrapper">
-								        <div id="RAD_SPLITTER_SLIDING_PANE_DOCK_ctl00_ui_saveRPane" title="Dock" class="rspSlideHeaderDockIcon">&nbsp;</div>
-							        </td>
-							        <td class="rspSlideHeaderIconWrapper">
-								        <div title="Collapse" id="RAD_SPLITTER_SLIDING_PANE_COLLAPSE_ctl00_ui_saveRPane" class="rspSlideHeaderCollapseIcon">&nbsp;</div>
-							        </td>					
-						        </tr>
-					        </tbody></table></td>
-							
-						</tr>
-						<tr>
-							<td align="left"><div class="rspSlideContent" id="RAD_SLIDING_PANE_CONTENT_ctl00_ui_saveRPane" style="overflow:auto;background-color:LightBlue;width:1px;height:1px">
-                        <div id="ctl00_ctl00_ui_saverpanelPanel">
-					<div id="ctl00_ui_saverpanel">
-						
-                            <div style="margin-left: auto; margin-right: auto; width: 30em">
-                                <b>Please wait...</b>
-                                <img src="/images/loading.gif" alt="Please Wait">
-                            </div>
                         
-					</div>
-				</div>
-                    </div></td>
-						</tr>
-					<tr><td colspan="2" id="RAD_SPLITTER_SLIDING_ZONE_RESIZE_ctl00_ui_saveRPane" style="font-size:1px;line-height:1px;" class="rspSlideContainerResizeHorizontal" title="Resize"><div style="height:3px;"></div></td></tr>
-					</tbody></table>
-				</div><input id="ctl00_ui_saveRPane_ClientState" name="ctl00_ui_saveRPane_ClientState" type="hidden"><div id="ctl00_ui_watchlistpane" style="z-index:5001;" class="rspSlidePane">
-					<table class="rspSlideContainer" cellpadding="0" cellspacing="0" style="width:1px;height:1px">
-						
-						<tbody><tr class="rspSlideHeader">
-							
-                            <td><table cellpadding="0" cellspacing="0" style="width:100%;">
-						        <tbody><tr>
-							        <td class="rspSlideTitleContainer">
-                                        <div class="rspSlideTitle" id="RAD_SPLITTER_SLIDING_TITLE_ctl00_ui_watchlistpane"></div></td>
-							        <td class="rspSlideHeaderIconWrapper">
-								        <div id="RAD_SPLITTER_SLIDING_PANE_UNDOCK_ctl00_ui_watchlistpane" class="rspSlideHeaderUndockIcon" title="Undock">&nbsp;</div>
-							        </td>
-                                    <td class="rspSlideHeaderIconWrapper">
-								        <div id="RAD_SPLITTER_SLIDING_PANE_DOCK_ctl00_ui_watchlistpane" title="Dock" class="rspSlideHeaderDockIcon">&nbsp;</div>
-							        </td>
-							        <td class="rspSlideHeaderIconWrapper">
-								        <div title="Collapse" id="RAD_SPLITTER_SLIDING_PANE_COLLAPSE_ctl00_ui_watchlistpane" class="rspSlideHeaderCollapseIcon">&nbsp;</div>
-							        </td>					
-						        </tr>
-					        </tbody></table></td>
-							
-						</tr>
-						<tr>
-							<td align="left"><div class="rspSlideContent" id="RAD_SLIDING_PANE_CONTENT_ctl00_ui_watchlistpane" style="overflow:auto;background-color:LightBlue;width:1px;height:1px">
-                        <div id="ctl00_ctl00_ui_watchlistpanelPanel">
-					<div id="ctl00_ui_watchlistpanel">
-						
-                            <div style="margin-left: auto; margin-right: auto; width: 30em">
-                                <b>Please wait...</b>
-                                <img src="/images/loading.gif" alt="Please Wait">
-                            </div>
-                        
-					</div>
-				</div>
-                    </div></td>
-						</tr>
-					<tr><td colspan="2" id="RAD_SPLITTER_SLIDING_ZONE_RESIZE_ctl00_ui_watchlistpane" style="font-size:1px;line-height:1px;" class="rspSlideContainerResizeHorizontal" title="Resize"><div style="height:3px;"></div></td></tr>
-					</tbody></table>
-				</div><input id="ctl00_ui_watchlistpane_ClientState" name="ctl00_ui_watchlistpane_ClientState" type="hidden"><div id="ctl00_ui_favouritesearchpane" style="z-index:5001;" class="rspSlidePane">
-					<table class="rspSlideContainer" cellpadding="0" cellspacing="0" style="width:1px;height:1px">
-						
-						<tbody><tr class="rspSlideHeader">
-							
-                            <td><table cellpadding="0" cellspacing="0" style="width:100%;">
-						        <tbody><tr>
-							        <td class="rspSlideTitleContainer">
-                                        <div class="rspSlideTitle" id="RAD_SPLITTER_SLIDING_TITLE_ctl00_ui_favouritesearchpane"></div></td>
-							        <td class="rspSlideHeaderIconWrapper">
-								        <div id="RAD_SPLITTER_SLIDING_PANE_UNDOCK_ctl00_ui_favouritesearchpane" class="rspSlideHeaderUndockIcon" title="Undock">&nbsp;</div>
-							        </td>
-                                    <td class="rspSlideHeaderIconWrapper">
-								        <div id="RAD_SPLITTER_SLIDING_PANE_DOCK_ctl00_ui_favouritesearchpane" title="Dock" class="rspSlideHeaderDockIcon">&nbsp;</div>
-							        </td>
-							        <td class="rspSlideHeaderIconWrapper">
-								        <div title="Collapse" id="RAD_SPLITTER_SLIDING_PANE_COLLAPSE_ctl00_ui_favouritesearchpane" class="rspSlideHeaderCollapseIcon">&nbsp;</div>
-							        </td>					
-						        </tr>
-					        </tbody></table></td>
-							
-						</tr>
-						<tr>
-							<td align="left"><div class="rspSlideContent" id="RAD_SLIDING_PANE_CONTENT_ctl00_ui_favouritesearchpane" style="overflow:auto;background-color:LightBlue;width:1px;height:1px">
-                        <div id="ctl00_ctl00_ui_favouritesearchpanelPanel">
-					<div id="ctl00_ui_favouritesearchpanel">
-						
-                            <div style="margin-left: auto; margin-right: auto; width: 30em">
-                                <b>Please wait...</b>
-                                <img src="/images/loading.gif" alt="Please Wait">
-                            </div>
-                        
-					</div>
-				</div>
-                    </div></td>
-						</tr>
-					<tr><td colspan="2" id="RAD_SPLITTER_SLIDING_ZONE_RESIZE_ctl00_ui_favouritesearchpane" style="font-size:1px;line-height:1px;" class="rspSlideContainerResizeHorizontal" title="Resize"><div style="height:3px;"></div></td></tr>
-					</tbody></table>
-				</div><input id="ctl00_ui_favouritesearchpane_ClientState" name="ctl00_ui_favouritesearchpane_ClientState" type="hidden"></td>
-			</tr>
-		</tbody></table><input id="ctl00_ui_mainslidingzone_ClientState" name="ctl00_ui_mainslidingzone_ClientState" type="hidden">
+                    </div>
+                </div>
+                <div class="navbar-right">
+                    <ul class="nav navbar-nav no-borders">
+                        <li class="dropdown">
+                            <a class="dropdown-toggle label-menu-corner" href="#" data-toggle="dropdown">
+                                <span id="ui_status"><span class="text-danger"><i class="fa fa-unlock" title="No SSL, ID not Encrypted"></i></span></span>
+                            </a>
+                            <ul class="dropdown-menu hdropdown animated flipInX">
+                                <div class="title">
+                                    Security Menu
+                                </div>
+                                <li>
+                                    <a href="https://www.nzbclub.com"><i class="fa fa-lock"></i>  SSL NZBClub
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/options/"><i class="fa fa-cog"></i>  Encrypt All ID
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle label-menu-corner" href="#" data-toggle="dropdown">
+                                <i class="fa fa-heart"></i>
+                                <span class="label label-success" id="favcounter">
+                                    <span id="ui_favcount">0</span></span>
+                            </a>
+                            <ul class="dropdown-menu hdropdown animated flipInX">
+                                <div class="title">
+                                    Favourite Search Menu
+                                </div>
+                                <li>
+                                    <a href="/favouritesearch/"><i class="fa fa-folder-open"></i>View All
+                                    </a>
+                                </li>
+                                <li>
+                                    <a id="clearFavSearch"><i class="fa fa-bomb"></i>Remove All
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle label-menu-corner" href="#" data-toggle="dropdown">
+                                <i class="fa fa-eye"></i>
+                                <span class="label label-success" id="watchcounter">
+                                    <span id="ui_watchcount">0</span></span>
+                            </a>
+                            <ul class="dropdown-menu hdropdown animated flipInX">
+                                <div class="title">
+                                    Watch List Menu
+                                </div>
+                                <li>
+                                    <a href="/watchlist/">
+                                        <i class="fa fa-folder-open"></i>  View All
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/watch_nzb/"><i class="fa fa-download"></i>  Get NZB
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/watch_zip/"><i class="fa fa-archive"></i>  Get Zip
+                                    </a>
+                                </li>
+                                <li>
+                                    <a id="clearwatchlist"><i class="fa fa-bomb"></i>  Clear All
+                                    </a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle label-menu-corner" href="#" data-toggle="dropdown">
+                                <i class="fa fa-paperclip"></i>
+                                <span class="label label-success" id="savercounter">
+                                    <span id="ui_savercount">0</span></span>
+                            </a>
+                            <ul class="dropdown-menu hdropdown animated flipInX">
+                                <div class="title">
+                                    Saved Result Menu
+                                </div>
+                                <li>
+                                    <a href="/savedresult/"><i class="fa fa-folder-open"></i>  View All
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/saver_nzb/"><i class="fa fa-download"></i>  Get NZB
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/saver_zip/"><i class="fa fa-archive"></i>  Get Zip
+                                    </a>
+                                </li>
+                                <li>
+                                    <a id="clearsaver"><i class="fa fa-bomb"></i>  Remove All
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            
+                                <a class="dropdown-toggle" href="#" data-toggle="dropdown">
+                                    <i class="fa fa-sign-in"></i>
+                                </a>
+                                <ul class="dropdown-menu hdropdown animated flipInX">
+                                    <div class="title">
+                                        Guest Menu
+                                    </div>
+                                    <li>
+                                        <a href="/signin/"><i class="fa fa-sign-in"></i>  Sign In</a>
+                                    </li>
+                                    <li>
+                                        <a href="/register/"><i class="fa fa-users"></i>  Register
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/activate/"><i class="fa fa-user"></i>  Activate Account
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/requestreset/"><i class="fa fa-key fa-rotate-90"></i>  Request Password Reset
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/resetpassword/"><i class="fa fa-key"></i>  Reset Password
+                                        </a>
+                                    </li>
+                                </ul>
+                            
+                            
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+            
+        </nav>
+
+        <!-- Navigation -->
+        <aside id="menu">
+            <div id="navigation">
+                <ul class="nav" id="side-menu">
+                    <li>
+                        <a href="/search/"><i class="fa fa-search"></i><span class="nav-label">Search</span></a>
+                    </li>
+                    <li>
+                        <a href="/newsgroups/"><i class="fa fa-newspaper-o"></i><span class="nav-label">Newsgroups</span></a>
+                    </li>
+                    <li>
+                        <a href="/account/"><i class="fa fa-user"></i><span class="nav-label">Account</span></a>
+                    </li>
+                    <li>
+                        <a href="/watchlist/"><i class="fa fa-eye"></i><span class="nav-label">Watch List</span></a>
+                    </li>
+                    <li>
+                        <a href="/savedresult/"><i class="fa fa-paperclip"></i><span class="nav-label">Saved Result</span></a>
+                    </li>
+                    <li>
+                        <a href="/options/"><i class="fa fa-cogs"></i><span class="nav-label">Default Options</span></a>
+                    </li>
+                    <li>
+                        <a href="/resetpassword/"><i class="fa fa-key"></i><span class="nav-label">Password Reset</span></a>
+                    </li>
+                    <li>
+                        <a href="#"><span class="nav-label">Guess</span><span class="fa arrow"></span> </a>
+                        <ul class="nav nav-second-level collapse">
+                            <li><a href="/signin/"><i class="fa fa-sign-in"></i>Sign In</a></li>
+                            <li><a href="/register/"><i class="fa fa-users"></i>Register</a></li>
+                            <li><a href="/Activate/"><i class="fa fa-user"></i>Activate Account</a></li>
+                            <li><a href="/requestreset/"><i class="fa fa-key"></i>Request Password Reset</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="/faq/"><i class="fa fa-question-circle"></i><span class="nav-label">FAQs</span></a>
+                    </li>
+                </ul>
+            </div>
+        </aside>
+
+        <!-- Main Wrapper -->
+        <header id="page-top">
+            <div id="wrapper" style="min-height: 706px;">
                 
-                
-    <div id="ParentDivElement" class="Fill">
-        <div id="ctl00_ContentPlaceHolder2_ui_splitterMain" style="width:398px;height:366px;"><div><table id="RAD_SPLITTER_ctl00_ContentPlaceHolder2_ui_splitterMain" class="RadSplitter RadSplitter_Simple rspNested rspHideRadSplitter" cellpadding="0" cellspacing="0" style="width:1px;height:1px;">
-			<tbody><tr>
-				<td id="ctl00_ContentPlaceHolder2_LeftPane" valign="top" class="rspPane rspFirstItem" style="border-right-width:1px;"><div id="RAD_SPLITTER_PANE_CONTENT_ctl00_ContentPlaceHolder2_LeftPane" style="width:234px;height:366px;overflow:auto;background-color:White;">
-                <div class="contentpad">
-                    <b>Privacy Policy</b>
-                    <br>
-                    <p>
-                        If you require any more information or have any questions about our privacy policy,
+    <div class="small-header transition animated fadeIn">
+        <div class="hpanel">
+            <div class="panel-body bg-white">
+                <div id="hbreadcrumb" class="pull-right">
+                    <ol class="hbreadcrumb breadcrumb">
+                        <li><a href="/">NZBClub</a></li>
+                        <li class="active">
+                            <span>Privacy Policy </span>
+                        </li>
+                    </ol>
+                </div>
+                <h2 class="font-light m-b-xs">Privacy Policy
+                </h2>
+                <small></small>
+            </div>
+        </div>
+    </div>
+
+    <div class="content">
+        <div class="row">
+            <h2>Privacy Policy</h2>
+            <p>
+                If you require any more information or have any questions about our privacy policy,
                         please feel free to contact us by email at error@nzbclub.com.
-                    </p>
-                    <p>
-                        At NZBClub.com, the privacy of our visitors is of extreme importance to us. This
+            
+                At NZBClub.com, the privacy of our visitors is of extreme importance to us. This
                         privacy policy document outlines the types of personal information is received and
                         collected by NZBClub.com and how it is used.
-                    </p>
-                    <p>
-                        <b>Log Files</b><br>
-                        Like most standard Web site servers, NZBClub.com use log files. This includes internet
+            </p>
+            <h3>Log Files</h3>
+            <p>
+                Like most standard Web site servers, NZBClub.com use log files. This includes internet
                         protocol ( IP ) addresses, browser type, internet service provider ( ISP ), referring/exit
                         pages, platform type, date/time stamp, and number of clicks to analyze trends, administer
                         the site, track user’s movement in the aggregate, and gather broad demographic information
                         for aggregate use. IP addresses, etc. are not linked to personally identifiable
                         information.
-                    </p>
-                    <p>
-                        <b>Cookies and Web Beacons</b><br>
-                        NZBClub.com does use cookies to store information about visitors preferences, record
+            </p>
+            <h3>Cookies and Web Beacons</h3>
+            <p>
+                NZBClub.com does use cookies to store information about visitors preferences, record
                         user-specific information on which pages the user access or visit, customize Web
                         page content based on visitors' browser type or other information that the visitor
                         sends.
-                    </p>
-                    <p>
-                        Some of our advertising partners may use cookies and web beacons on our site.</p>
-                    <p>
-                        These third-party ad servers or ad networks use technology to send, directly to
+            
+                Some of our advertising partners may use cookies and web beacons on our site.
+            </p>
+            <p>
+                These third-party ad servers or ad networks use technology to send, directly to
                         your browser, the advertisements and links that appear on NZBClub.com. They automatically
                         receive your IP address when this happens. They may also use other technologies
                         ( such as cookies, JavaScript, or Web Beacons ) to measure the effectiveness of
                         their advertisements and to personalize the advertising content you see.
-                    </p>
-                    <p>
-                        NZBClub.com has no access to or control over these cookies, once we have given permission
+            
+                NZBClub.com has no access to or control over these cookies, once we have given permission
                         for them to set cookies for advertising.
-                    </p>
-                    <p>
-                        You should consult the respective privacy policies of these third-party ad servers
+            </p>
+            <p>
+                You should consult the respective privacy policies of these third-party ad servers
                         or ad networks for more information on their practices and for instructions on how
                         to opt-out of certain practices. NZBClub.com's privacy policy does not apply to,
                         and we cannot control the activities of, such other advertisers or web sites.
-                    </p>
-                    <p>
-                        If you wish to disable cookies, you may do so through your individual browser options.
+            </p>
+            <p>
+                If you wish to disable cookies, you may do so through your individual browser options.
                         More detailed information about cookie management with specific web browsers can
                         be found at the browsers' respective websites.
-                    </p>
-                </div>
-            </div><input id="ctl00_ContentPlaceHolder2_LeftPane_ClientState" name="ctl00_ContentPlaceHolder2_LeftPane_ClientState" type="hidden"></td><td id="ctl00_ContentPlaceHolder2_EndPane" valign="top" class="rspPane rspLastItem" style="border-right-width:1px;"><div id="RAD_SPLITTER_PANE_CONTENT_ctl00_ContentPlaceHolder2_EndPane" style="width:156px;height:366px;overflow:hidden;">
-                <div id="Div1" class="FillGreen">
-                    <div id="ctl00_ContentPlaceHolder2_RadSplitter2" style="width:156px;height:366px;"><div><table id="RAD_SPLITTER_ctl00_ContentPlaceHolder2_RadSplitter2" class="RadSplitter RadSplitter_Simple rspNested rspHideRadSplitter" cellpadding="0" cellspacing="0" style="width:1px;height:1px;">
-					<tbody><tr>
-						<td id="ctl00_ContentPlaceHolder2_MiddlePane" valign="top" class="rspPane rspLastItem" style="border-right-width:0px;"><div id="RAD_SPLITTER_PANE_CONTENT_ctl00_ContentPlaceHolder2_MiddlePane" style="width:0px;height:366px;overflow:auto;">
-                            
-                                <table>
-                                    <tbody><tr>
-                                        <td valign="top">
-                                            <div id="ctl00_ContentPlaceHolder2_RadDockZone1" class="RadDockZone RadDockZone_None rdVertical">
-							<div class="RadDock RadDock_Default rdPlaceHolder" id="ctl00_ContentPlaceHolder2_RadDockZone1_D" style="display:none;">
-								<!-- -->
-							</div><input id="ctl00_ContentPlaceHolder2_RadDockZone1_ClientState" name="ctl00_ContentPlaceHolder2_RadDockZone1_ClientState" type="hidden">
-						</div>
-                                        </td>
-                                    </tr>
-                                </tbody></table>
-                            
-                            
-<div class="contentpad">
-    <div style="font-weight: bold; margin-bottom: 5px; cursor: default; color: rgb(51, 51, 51);
-        border-bottom: 1px solid rgb(51, 51, 51);">
-        <b>Free Trial</b>
+            </p>
+        </div>
     </div>
-    300 GB+ Free Usenet with no string attached, cancel any time. Free Usenet Software with free search engine.
-    <ul>
-        <li><a href="http://www.usenetbest.com/external.aspx?providerid=3"><strong>300 GB+ Usenet Trial</strong></a></li>
-    </ul>
-    <div style="font-weight: bold; margin-bottom: 5px; cursor: default; color: rgb(51, 51, 51);
-        border-bottom: 1px solid rgb(51, 51, 51);">
-        <b>Unlimited Usenet</b>
-    </div>
-    Best Usenet services with unlimited access, unlimited speed, 1830+ days binary retention
-    and Paypal accepted. No Free Trial but best discounted price ever.
-    <br>
-    <ul>        
-        <li><a href="http://www.usenetbest.com/external.aspx?providerid=21" target="_blank">
-            <strong>$9.99/mo Newshosting Unlimited or $99.99/yr</strong> <img src="/images/nzb_favourite.png" alt="Best Value Unlimited Usenet"></a>
-            <img style="border: 0" src="https://www.usenetjunction.com/scripts/imp.php?a_aid=usenet&amp;a_bid=01636e94" width="1" height="1" alt=""></li>
-        <li><a href="http://www.usenetbest.com/external.aspx?providerid=2" target="_blank"><strong>$95.4/yr UsenetServer Unlimited or $10/mo</strong> </a>
-            <img style="border: 0" src="https://www.usenetjunction.com/scripts/imp.php?a_aid=usenet&amp;a_bid=da6df121" width="1" height="1" alt=""></li>
-        <li><a href="http://www.usenetbest.com/external.aspx?providerid=16" target="_blank"><strong>Eweka.nl 100 Mbit Special €7,50/mo</strong></a></li>
-    </ul>
-    <div style="font-weight: bold; margin-bottom: 5px; cursor: default; color: rgb(51, 51, 51);
-        border-bottom: 1px solid rgb(51, 51, 51);">
-        <b>€ Pay What You Need</b>
-    </div>
-    Unlimited Usenet <strong>Pay What You Need</strong> no monthly contract with € Payment Options (Paypal, iDeal, giroPay, paysafecard, ukash, SMS, Bank Transfer)
-    <ul>
-        <li><a href="http://www.usenetbest.com/external.aspx?providerid=24" target="_blank"><strong>Eweka.nl</strong></a></li>
-        
-    </ul>    
-    <br>
-    <small>2005 - 2013 NZBClub.com. - <a href="/dmca.aspx">DMCA</a> - <a href="/PrivacyPolicy.aspx">
-        Privacy Policy</a> - <a href="/disclaimer.aspx">Disclaimer</a> -
-        <img src="/images/nzb_email.png" alt="Contact Us" title="Contact Us" width="16" height="16">
-        admin {} nzbclub.com - <a href="javascript: void installSearchAddOn();">
-            <img src="/images/nzb_search.png" alt="Install NZB Search AddOn" title="Install NZB Search AddOn" width="16" height="16">
-            NZB Search AddOn</a> - <a href="/RSS.aspx">
-                <img src="/images/nzb_rss.png" alt="NZB RSS" title="NZB RSS" width="16" height="16">
-                RSS Feed</a> - <a href="https://www.nzbclub.com">
-                    <img src="/images/password.png" alt="SSL NZBClub" title="SSL NZBClub" width="16" height="16">
-                    SSL NZBClub.com</a> - <a href="http://www.nzbclub.info">
-                        <img src="/images/nzb_information.png" alt="Server Status" title="Server Status" width="16" height="16">
-                        Server Status</a> - <a href="http://nzb.cm">NZB</a> - <a href="/faq.aspx">
-                            <img src="/images/nzb_faq.png" alt="NZB FAQ" title="NZB FAQ" width="16" height="16">
-                            Help / FAQ</a> </small>
-</div>
 
-                        </div><input id="ctl00_ContentPlaceHolder2_MiddlePane_ClientState" name="ctl00_ContentPlaceHolder2_MiddlePane_ClientState" type="hidden"></td>
-					</tr>
-				</tbody></table><input id="ctl00_ContentPlaceHolder2_RadSplitter2_ClientState" name="ctl00_ContentPlaceHolder2_RadSplitter2_ClientState" type="hidden"></div></div>
-                </div>
-            </div><input id="ctl00_ContentPlaceHolder2_EndPane_ClientState" name="ctl00_ContentPlaceHolder2_EndPane_ClientState" type="hidden"></td>
-			</tr>
-		</tbody></table><input id="ctl00_ContentPlaceHolder2_ui_splitterMain_ClientState" name="ctl00_ContentPlaceHolder2_ui_splitterMain_ClientState" type="hidden"></div></div>
-    </div>
-    <script type="text/javascript">
-        function BrowserResized() {
-            var splitter = $find("ctl00_ContentPlaceHolder2_ui_splitterMain");
-            var leftPane = $find("ctl00_ContentPlaceHolder2_LeftPane");
-            var endPane = $find("ctl00_ContentPlaceHolder2_EndPane");
 
-            leftPane.set_width(splitter.get_width() * 0.6);
-            endPane.set_width(splitter.get_width() * 0.4);
+                <section id="features" class="bg-info">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-6 col-md-offset-3 text-center">
+                                <h2><span class="text-success">Best Usenet </span>Deals</h2>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div style="animation-delay: 0.4s;" class="col-lg-3 animated-panel zoomIn">
+                                <div class="hpanel stats">
+                                    <div class="panel-body h-200 bg-white">
+                                        <h4><a class="text-info" href="http://www.usenetbest.com/external.aspx?providerid=3"><strong>300 GB+ Usenet Trial</strong></a>
+                                        </h4>
+
+                                        300 GB+ Free Usenet with no string attached, cancel any time. Free Usenet Software with free search engine.
+                            
+                                    </div>
+                                    <div class="panel-footer text-center">
+                                        <a href="http://www.usenetbest.com/external.aspx?providerid=3" class="btn btn-success btn-sm">Try for Free Now!</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div style="animation-delay: 0.5s;" class="col-lg-3 animated-panel zoomIn">
+                                <div class="hpanel stats">
+                                    <div class="panel-body h-200 bg-white">
+                                        <h4><a class="text-info" href="http://www.usenetbest.com/external.aspx?providerid=21">Newshosting Unlimited</a></h4>
+                                        <strong>$9.99 monthly or $99.99 annually</strong>
+                                        <br>
+                                        Unlimited and really fast download speed. Comes with free Usenet Software with search engine. Paypal accepted. Free Fast VPN great for video content like Hulu Plus from desktop, android, and iOS for yearly subscription. <a class="text-info" href="http://www.usenetbest.com/external.aspx?providerid=21" target="_blank">Limited time offer!</a>
+                                    </div>
+                                    <div class="panel-footer text-center">
+                                        <a href="http://www.usenetbest.com/external.aspx?providerid=21" class="btn btn-success btn-sm">Subscribe Now</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div style="animation-delay: 0.7s;" class="col-lg-3 animated-panel zoomIn">
+                                <div class="hpanel stats">
+                                    <div class="panel-body h-200 bg-white">
+                                        <h4><a class="text-info" href="http://www.usenetbest.com/external.aspx?providerid=2">Usenetserver Unlimited</a></h4>
+                                        <strong>$95.4 annually or $10 monthly</strong>
+                                        <p>Fast and unlimited Usenet access. 2472+ days retention and comes with free Usenet search engine and free VPN software for annually subscriber. Paypal accepted.</p>
+                                    </div>
+                                    <div class="panel-footer text-center">
+                                        <a href="http://www.usenetbest.com/external.aspx?providerid=2" class="btn btn-success btn-sm">Subscribe Now</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div style="animation-delay: 0.7s;" class="col-lg-3 animated-panel zoomIn">
+                                <div class="hpanel stats">
+                                    <div class="panel-body h-200 bg-white">
+                                        <h4><a class="text-info" href="http://www.usenetbest.com/external.aspx?providerid=16">Eweka Special</a></h4>
+                                        Unlimited Usenet Pay What You Need no monthly contract with € Payment Options (Paypal, iDeal, giroPay, paysafecard, ukash, SMS, Bank Transfer) 
+                                    </div>
+                                    <div class="panel-footer text-center">
+                                        <a href="http://www.usenetbest.com/external.aspx?providerid=16" class="btn btn-success btn-sm">Subscribe Now</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <section id="contact" class="bg-primary">
+                    <div class="container">
+                        <div class="row text-center">
+                            <div class="col-md-6 col-md-offset-3">
+                                <div class="row">
+                                    <div class="col-md-6 text-left">
+                                        <ul class="list-unstyled">
+                                            <li><a href="/dmca/" class="text-white"><i class="fa fa-quote-left"></i>   DMCA</a></li>
+                                            <li><a href="/privacypolicy/" class="text-white"><i class="fa fa-info"></i>   Privacy Policy</a></li>
+                                            <li><a href="/disclaimer/" class="text-white"><i class="fa fa-info"></i>   Disclaimer</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-md-6 text-left">
+                                        <ul class="list-unstyled">
+                                            <li><i class="pe-7s-mail"></i>admin <i class="fa fa-at"></i>   nzbclub.com </li>
+                                            <li><a href="https://www.nzbclub.com" class="text-white"><i class="fa fa-lock"></i>   SSL NZBClub</a></li>
+                                            <li><a href="/faq/" class="text-white"><i class="fa fa-info-circle"></i>   FAQ</a></li>
+                                        </ul>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row text-center">
+                            <div class="col-md-6 col-md-offset-3">
+                                <p>
+                                    <span id="ui_version"><small>Copyright 2008-2015 NZBClub.com (v2.9.25)</small></span>
+                                </p>
+                                <p><small><a href="bitcoin:1FMzVPmRjDnCUxndBwuo2wsbFkfKfPziFD" class="text-success"><i class="fa fa-bitcoin"></i>1FMzVPmRjDnCUxndBwuo2wsbFkfKfPziFD</a></small></p>
+                            </div>
+                        </div>
+
+                    </div>
+                </section>
+            </div>
+        </header>
+    </form>
+    
+    <!-- Vendor scripts -->
+    <script src="/assets/vendor/jquery/dist/jquery.min.js"></script>
+    <script src="/assets/vendor/jquery-ui/jquery-ui.min.js"></script>
+    <script src="/assets/vendor/slimScroll/jquery.slimscroll.min.js"></script>
+    <script src="/assets/vendor/bootstrap/dist/js/bootstrap.min.js"></script>
+    
+    <script src="/assets/vendor/metisMenu/dist/metisMenu.min.js"></script>
+    <script src="/assets/vendor/iCheck/icheck.min.js"></script>
+    <script src="/assets/vendor/peity/jquery.peity.min.js"></script>
+    <script src="/assets/vendor/sparkline/index.js"></script>
+    <script src="/assets/vendor/toastr/build/toastr.min.js"></script>
+
+    <!-- App scripts -->
+    <script src="/assets/scripts/homer.js"></script>
+    <script src="/assets/scripts/charts.js"></script>
+
+    <script>
+        // Toastr options
+        toastr.options = {
+            "debug": false,
+            "newestOnTop": false,
+            "positionClass": "toast-top-right",
+            "closeButton": true,
+            "debug": false,
+            "toastClass": "animated fadeInDown",
+            "hideDuration": 1000,
+            "timeOut": "3000"
+        };
+
+
+        function ajaxindicatorstart(text) {
+            if (jQuery('body').find('#resultLoading').attr('id') != 'resultLoading') {
+                jQuery('body').append('<div id="resultLoading" style="display:none"><div><img src="/images/loading-bars.svg"><div>' + text + '</div></div><div class="bg"></div></div>');
+            }
+
+            jQuery('#resultLoading').css({
+                'width': '100%',
+                'height': '100%',
+                'position': 'fixed',
+                'z-index': '10000000',
+                'top': '0',
+                'left': '0',
+                'right': '0',
+                'bottom': '0',
+                'margin': 'auto'
+            });
+
+            jQuery('#resultLoading .bg').css({
+                'background': '#000000',
+                'opacity': '0.7',
+                'width': '100%',
+                'height': '100%',
+                'position': 'absolute',
+                'top': '0'
+            });
+
+            jQuery('#resultLoading>div:first').css({
+                'width': '250px',
+                'height': '75px',
+                'text-align': 'center',
+                'position': 'fixed',
+                'top': '0',
+                'left': '0',
+                'right': '0',
+                'bottom': '0',
+                'margin': 'auto',
+                'font-size': '16px',
+                'z-index': '10',
+                'color': '#ffffff'
+
+            });
+
+            jQuery('#resultLoading .bg').height('100%');
+            jQuery('#resultLoading').fadeIn(300);
+            jQuery('body').css('cursor', 'wait');
+        }
+
+        function ajaxindicatorstop() {
+            jQuery('#resultLoading .bg').height('100%');
+            jQuery('#resultLoading').fadeOut(300);
+            jQuery('body').css('cursor', 'default');
+        }
+
+        jQuery(document).ajaxStart(function () {
+            //show ajax indicator
+            ajaxindicatorstart('loading data.. please wait..');
+        }).ajaxStop(function () {
+            //hide ajax indicator
+            ajaxindicatorstop();
+        });
+
+        function clearWatchList() {
+            $.ajax({
+                url: "/api/watchlist/",
+                type: "DELETE",
+                data: JSON.stringify({ IDs: '28cd2eb4a7ba485fbee4526ed8fa46f7' }),
+                contentType: "application/json;charset=utf-8",
+                success: function (data) {
+                    if (data != -1) {
+                        updateWatchCount(data);
+                        toastr.success('All Watch List Removed');
+                    }
+                    else {
+                        toastr.warning('Watch List Removal Failed!');
+                    }
+                }
+            });
+        }
+
+        function clearSaveR() {
+            $.ajax({
+                url: "/api/saver/",
+                type: "DELETE",
+                data: JSON.stringify({ IDs: '28cd2eb4a7ba485fbee4526ed8fa46f7' }),
+                contentType: "application/json;charset=utf-8",
+                success: function (data) {
+                    if (data != -1) {
+                        updateSaverCount(data);
+                        toastr.success('All Saved Result Removed');
+                    }
+                    else {
+                        toastr.warning('Saved Result Removal Failed!');
+                    }
+                }
+            });
+        }
+
+        function clearFavSearch() {
+            $.ajax({
+                url: "/api/favouritesearch/",
+                type: "DELETE",
+                data: JSON.stringify({ IDs: '28cd2eb4a7ba485fbee4526ed8fa46f7' }),
+                contentType: "application/json;charset=utf-8",
+                success: function (data) {
+                    if (data != -1) {
+                        updateFavCount(data);
+                        toastr.success('All Favourite Search Removed');
+                    }
+                    else {
+                        toastr.warning('Favourite Search Removal Failed!');
+                    }
+                }
+            });
+        }
+
+
+        $('#clearwatchlist').click(function () {
+            clearWatchList();
+            e.preventDefault();
+        });
+
+        $('#clearsaver').click(function () {
+            clearSaveR();
+            e.preventDefault();
+        });
+
+        $('#clearFavSearch').click(function () {
+            clearFavSearch();
+            e.preventDefault();
+        });
+
+        function updateSaverCount(count) {
+            var saverCounterSpan = $('#ui_savercount');
+            saverCounterSpan.html(count);
+        }
+
+        function updateWatchCount(count) {
+            var watchCounterSpan = $('#ui_watchcount');
+            watchCounterSpan.text(count);
+        }
+
+        function updateFavCount(count) {
+            var favCounterSpan = $('#ui_favcount');
+            favCounterSpan.text(count);
         }
 
     </script>
-
-            </div><input id="ctl00_MainPane_ClientState" name="ctl00_MainPane_ClientState" type="hidden"></td>
-	</tr>
-</tbody></table><input id="ctl00_MainSplitter_ClientState" name="ctl00_MainSplitter_ClientState" type="hidden"></div></div>
-        <div id="ctl00_ui_mainloadingpanel" class="RadAjax RadAjax_Simple" style="display:none;">
-	<div class="raDiv">
-		
-        
-	</div><div class="raColor raTransp">
-
-	</div>
-</div>
-    </div>
-    <input type="submit" name="ctl00$ui_quicksubmit" value="" id="ctl00_ui_quicksubmit" style="display: none;">
     
 
-<script type="text/javascript">
-//<![CDATA[
-Telerik.Web.UI.RadSplitter._preInitialize("ctl00_MainSplitter");Telerik.Web.UI.RadPane._preInitialize("ctl00_TopPane", "ctl00_MainSplitter", "", "ctl00_RadsplitbarTop",  0, 0, "False");Telerik.Web.UI.RadPane._preInitialize("ctl00_MainPane", "ctl00_MainSplitter", "ctl00_RadsplitbarTop", "",  2, 1, "True");Telerik.Web.UI.RadSlidingZone._preInitialize("ctl00_ui_mainslidingzone", "ctl00_MainSplitter", "ctl00_MainPane");Telerik.Web.UI.RadSlidingPane._preInitialize("ctl00_ui_saveRPane", "ctl00_MainSplitter", "ctl00_ui_mainslidingzone", "ctl00_MainPane", "0");Telerik.Web.UI.RadSlidingPane._preInitialize("ctl00_ui_watchlistpane", "ctl00_MainSplitter", "ctl00_ui_mainslidingzone", "ctl00_MainPane", "1");Telerik.Web.UI.RadSlidingPane._preInitialize("ctl00_ui_favouritesearchpane", "ctl00_MainSplitter", "ctl00_ui_mainslidingzone", "ctl00_MainPane", "2");Telerik.Web.UI.RadSplitter._preInitialize("ctl00_ContentPlaceHolder2_ui_splitterMain");Telerik.Web.UI.RadPane._preInitialize("ctl00_ContentPlaceHolder2_LeftPane", "ctl00_ContentPlaceHolder2_ui_splitterMain", "", "ctl00_ContentPlaceHolder2_Radsplitbar3",  0, 0, "False");Telerik.Web.UI.RadPane._preInitialize("ctl00_ContentPlaceHolder2_EndPane", "ctl00_ContentPlaceHolder2_ui_splitterMain", "ctl00_ContentPlaceHolder2_Radsplitbar3", "",  2, 1, "True");Telerik.Web.UI.RadSplitter._preInitialize("ctl00_ContentPlaceHolder2_RadSplitter2");Telerik.Web.UI.RadPane._preInitialize("ctl00_ContentPlaceHolder2_MiddlePane", "ctl00_ContentPlaceHolder2_RadSplitter2", "ctl00_ContentPlaceHolder2_RadSplitbar1", "",  2, 1, "True");Sys.Application.initialize();
-Sys.Application.add_init(function() {
-    $create(Telerik.Web.UI.RadAjaxManager, {"_updatePanels":"","ajaxSettings":[],"clientEvents":{OnRequestStart:"",OnResponseEnd:""},"defaultLoadingPanelID":"","enableAJAX":true,"enableHistory":false,"links":[],"styles":[],"uniqueID":"ctl00$RadAjaxManager1","updatePanelsRenderMode":0}, null, null, $get("ctl00_RadAjaxManager1"));
-});
-Sys.Application.add_init(function() {
-    $create(Telerik.Web.UI.RadMenu, {"_childListElementCssClass":null,"_skin":"Black","attributes":{},"clientStateFieldID":"ctl00_ui_mainmenu_ClientState","collapseAnimation":"{\"duration\":450}","enableRoundedCorners":true,"enableShadows":true,"expandAnimation":"{\"duration\":450}","itemData":[{"navigateUrl":"/login.aspx"},{},{"navigateUrl":"/historysearch.aspx"},{"navigateUrl":"/templatesearch.aspx"},{"navigateUrl":"/favouritesearch.aspx"},{"navigateUrl":"/"},{"navigateUrl":"/usenetgroups.aspx"},{"navigateUrl":"/options.aspx"},{},{"text":"QuickSearch","templated":true}]}, {"itemClicked":onMainMenuClicked}, null, $get("ctl00_ui_mainmenu"));
-});
-Sys.Application.add_init(function() {
-    $create(Telerik.Web.UI.RadPane, {"_collapsedDirection":1,"_expandedSize":0,"_height":"26px","_originalHeight":"26px","_originalWidth":"","_scrollLeft":0,"_scrollTop":0,"_splitterOrientation":0,"clientStateFieldID":"ctl00_TopPane_ClientState","scrolling":4}, null, null, $get("ctl00_TopPane"));
-});
-Sys.Application.add_init(function() {
-    $create(Telerik.Web.UI.RadAjaxPanel, {"clientEvents":{OnRequestStart:"OnRequestStart",OnResponseEnd:""},"enableAJAX":true,"enableHistory":false,"links":[],"loadingPanelID":"ctl00_ui_mainloadingpanel","styles":[],"uniqueID":"ctl00$ui_saverpanel"}, null, null, $get("ctl00_ui_saverpanel"));
-});
-Sys.Application.add_init(function() {
-    $create(Telerik.Web.UI.RadSlidingPane, {"_clickToOpen":false,"_scrollLeft":0,"_scrollTop":0,"_slideDirection":4,"_slideDuration":300,"_splitterOrientation":0,"clientStateFieldID":"ctl00_ui_saveRPane_ClientState","enableDock":false}, {"expanding":OnSaveRClientExpanding}, null, $get("ctl00_ui_saveRPane"));
-});
-Sys.Application.add_init(function() {
-    $create(Telerik.Web.UI.RadAjaxPanel, {"clientEvents":{OnRequestStart:"OnRequestStart",OnResponseEnd:""},"enableAJAX":true,"enableHistory":false,"links":[],"loadingPanelID":"ctl00_ui_mainloadingpanel","styles":[],"uniqueID":"ctl00$ui_watchlistpanel"}, null, null, $get("ctl00_ui_watchlistpanel"));
-});
-Sys.Application.add_init(function() {
-    $create(Telerik.Web.UI.RadSlidingPane, {"_clickToOpen":false,"_scrollLeft":0,"_scrollTop":0,"_slideDirection":4,"_slideDuration":300,"_splitterOrientation":0,"clientStateFieldID":"ctl00_ui_watchlistpane_ClientState","enableDock":false}, {"expanding":OnWatchListClientExpanding}, null, $get("ctl00_ui_watchlistpane"));
-});
-Sys.Application.add_init(function() {
-    $create(Telerik.Web.UI.RadAjaxPanel, {"clientEvents":{OnRequestStart:"",OnResponseEnd:""},"enableAJAX":true,"enableHistory":false,"links":[],"loadingPanelID":"ctl00_ui_mainloadingpanel","styles":[],"uniqueID":"ctl00$ui_favouritesearchpanel"}, null, null, $get("ctl00_ui_favouritesearchpanel"));
-});
-Sys.Application.add_init(function() {
-    $create(Telerik.Web.UI.RadSlidingPane, {"_clickToOpen":false,"_scrollLeft":0,"_scrollTop":0,"_slideDirection":4,"_slideDuration":300,"_splitterOrientation":0,"clientStateFieldID":"ctl00_ui_favouritesearchpane_ClientState","enableDock":false}, {"expanding":OnFavouriteSearchClientExpanding}, null, $get("ctl00_ui_favouritesearchpane"));
-});
-Sys.Application.add_init(function() {
-    $create(Telerik.Web.UI.RadSlidingZone, {"_height":"0px","_slideDirection":4,"_width":"100%","clientStateFieldID":"ctl00_ui_mainslidingzone_ClientState"}, null, null, $get("ctl00_ui_mainslidingzone"));
-});
-Sys.Application.add_init(function() {
-    $create(Telerik.Web.UI.RadPane, {"_collapsedDirection":1,"_expandedSize":0,"_height":"366px","_originalHeight":"366px","_originalWidth":"60%","_scrollLeft":0,"_scrollTop":0,"_splitterOrientation":1,"_width":"60%","clientStateFieldID":"ctl00_ContentPlaceHolder2_LeftPane_ClientState"}, null, null, $get("ctl00_ContentPlaceHolder2_LeftPane"));
-});
-Sys.Application.add_init(function() {
-    $create(Telerik.Web.UI.RadDockZone, {"clientID":"ctl00_ContentPlaceHolder2_RadDockZone1","clientStateFieldID":"ctl00_ContentPlaceHolder2_RadDockZone1_ClientState","layoutID":"RadDockLayout1","uniqueName":"RadDockZone1"}, null, null, $get("ctl00_ContentPlaceHolder2_RadDockZone1"));
-});
-Sys.Application.add_init(function() {
-    $create(Telerik.Web.UI.RadPane, {"_collapsedDirection":1,"_expandedSize":0,"_height":"366px","_originalHeight":"366px","_originalWidth":"","_scrollLeft":0,"_scrollTop":0,"_splitterOrientation":1,"clientStateFieldID":"ctl00_ContentPlaceHolder2_MiddlePane_ClientState"}, null, null, $get("ctl00_ContentPlaceHolder2_MiddlePane"));
-});
-Sys.Application.add_init(function() {
-    $create(Telerik.Web.UI.RadSplitter, {"_attachResizeHandler":false,"_borderSize":0,"_height":"366px","_isNested":true,"_panesBorderSize":0,"_parentPaneId":"ctl00_ContentPlaceHolder2_EndPane","_registerWithScriptManager":true,"_visibleDuringInit":false,"_width":"156px","clientStateFieldID":"ctl00_ContentPlaceHolder2_RadSplitter2_ClientState"}, null, null, $get("ctl00_ContentPlaceHolder2_RadSplitter2"));
-});
-Sys.Application.add_init(function() {
-    $create(Telerik.Web.UI.RadPane, {"_childSplitterId":"ctl00_ContentPlaceHolder2_RadSplitter2","_collapsedDirection":1,"_expandedSize":0,"_height":"366px","_originalHeight":"366px","_originalWidth":"","_scrollLeft":0,"_scrollTop":0,"_splitterOrientation":1,"clientStateFieldID":"ctl00_ContentPlaceHolder2_EndPane_ClientState","scrolling":4}, null, null, $get("ctl00_ContentPlaceHolder2_EndPane"));
-});
-Sys.Application.add_init(function() {
-    $create(Telerik.Web.UI.RadSplitter, {"_attachResizeHandler":false,"_height":"366px","_isNested":true,"_parentPaneId":"ctl00_MainPane","_registerWithScriptManager":true,"_visibleDuringInit":false,"_width":"398px","clientStateFieldID":"ctl00_ContentPlaceHolder2_ui_splitterMain_ClientState"}, {"resized":BrowserResized}, null, $get("ctl00_ContentPlaceHolder2_ui_splitterMain"));
-});
-Sys.Application.add_init(function() {
-    $create(Telerik.Web.UI.RadPane, {"_childSlidingZoneId":"ctl00_ui_mainslidingzone","_childSplitterId":"ctl00_ContentPlaceHolder2_ui_splitterMain","_collapsedDirection":1,"_expandedSize":0,"_originalHeight":"","_originalWidth":"","_scrollLeft":0,"_scrollTop":0,"_splitterOrientation":0,"clientStateFieldID":"ctl00_MainPane_ClientState","scrolling":4}, null, null, $get("ctl00_MainPane"));
-});
-Sys.Application.add_init(function() {
-    $create(Telerik.Web.UI.RadSplitter, {"_attachResizeHandler":true,"_height":"100%","_isNested":false,"_load":"ToggleSaveRPaneTabVisibility","_orientation":0,"_registerWithScriptManager":true,"_visibleDuringInit":false,"_width":"100%","clientStateFieldID":"ctl00_MainSplitter_ClientState"}, null, null, $get("ctl00_MainSplitter"));
-});
-Sys.Application.add_init(function() {
-    $create(Telerik.Web.UI.RadAjaxLoadingPanel, {"initialDelayTime":0,"isSticky":false,"minDisplayTime":0,"skin":"Simple","transparency":0,"uniqueID":"ctl00$ui_mainloadingpanel","zIndex":90000}, null, null, $get("ctl00_ui_mainloadingpanel"));
-});
-//]]>
-</script>
-</form>
 
 
 </body></html>
