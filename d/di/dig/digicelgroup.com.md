@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digicelgroup.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007013446id_/http%3A//www.digicelgroup.com/content/digicel/digicelgroup/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digicelgroup.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531083724id_/http%3A//www.digicelgroup.com/content/digicel/digicelgroup/en/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Digicel Group
 
 Digicel is committed to respecting your privacy and to complying with applicable data protection and privacy laws.   This Data Privacy Statement is provided to help you understand how we may collect, use, protect, and otherwise deal with your personal information.   
 
