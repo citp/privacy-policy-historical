@@ -1,65 +1,46 @@
-> *The following text is extracted and transformed from the hall.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319073052id_/https%3A//hall.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hall.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531184114id_/https%3A//www.hipchat.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Hall
+# HipChat - Privacy Policy
 
-## Privacy Policy
+HipChat is owned and operated by Atlassian Pty Ltd and is therefore covered by the Atlassian Privacy Policy. You can find that policy at <https://www.atlassian.com/company/privacy>.
 
-CompanyLine Corporation provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use, and disclosure of the information that we collect and receive from users of our Services. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our [Terms of Service](https://web.archive.org/terms) (the "Terms"). This Privacy Policy applies to information that you provide to us through the Service.
+The previous version of our privacy policy which was archived on May 27, 2014 is available here.
 
-As used in this policy, the terms "using" and "processing" information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally.
+**Privacy Policy (Archived on May 27, 2014)**  
+Last updated: October 20, 2009
 
-### Information Collection and Use
+We built HipChat to make it easy to communicate and collaborate with your company, team, or organization. Your privacy and security is our top priority. You can choose what to say and share with your members in HipChat, but we want you to know that no one outside of your team will be able to access that private and sensitive information.
 
-_Personal Information_. When using our Services, we will ask you for certain personally identifiable information. This refers to information about you that can be used to contact or identify you, and information on your use or potential use of the Services and related services. Personal information that we might collect would include things like, your name, email address, home addresses, telephone number, credit card or other billing information, and website URLs, and any other information or data that you provide through the Services, such as any of your social networking site accounts that you link to your Account. If you use our software app, we may ask for access to your contacts and other features to use with the Services. You are under no obligation to provide us with these credentials, and can de-link your accounts at any time. You may change or delete any information that you provide; please use caution when linking or posting any personal information, as such information may be viewed by other users of the Services.
+HipChat, Inc. ("HipChat") owns and runs various websites, including but not limited to hipchat.com (the "Websites"), through which it offers various services and software (the Websites, services and software are referred to as the "Services").
 
-We use personal information for the following purposes: (i) to administer the Services, (ii) to enable users to easily use and navigate the Services, (iii) to provide, improve and optimize the Services, (iv) to better understand users needs and interests, (iv) to personalize your experience, (v) to provide you with software updates and/or product announcements, and (vi) to provide you with further information and offers from us that we believe you may find useful or interesting. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or select the appropriate option via your Account.
+HipChat respects the privacy of its users. This document explains how HipChat will use the information that you provide to us via the Services. HipChat may amend this Privacy Policy from time to time. If HipChat does so, the revised Privacy Policy will be posted on the Websites.
 
-_Linking your Account_ /. By linking your Account with your account on a third party service like Google or Dropbox, you are authorizing us to collect, store, and use the information that you agreed that third party could provide to us through their own privacy policies. When you use the Services with your account on such a third party service, you allow us to access and use certain information from your profile on that service to establish your professional profile and network. The information you allow us to access is affected by the privacy settings you establish at that third party’s service and/or website.
+**1\. Information collected**  
+When you register for HipChat we may ask for information such as your name, company name, job title, company size, email address, billing address, credit card information. HipChat uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
 
-We will access, store and use some or all of the following information from your current Google profile, for example, (if you make it available): your first and last name, your work history and education, your profile picture, your user ID number, the login e-mail you provided to Google when you registered, your contacts, your friends' and their friends' names and applicable user ID number, profile photos, work history and education.
+The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
-In order to help you continually build your professional network, when you add to your network of friends on Google, we will also update your network of friends and their friends on our Services.
+It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law.
 
-_Log Data_. When you use the Services, our servers automatically record information that your browser sends whenever you visit the website and/or your mobile device sends when you run the software app ("Log Data"). This Log Data may include information such as your computer’s Internet Protocol ("IP") address, browser type or the webpage you were visiting before you came to our Service, pages or portions of our Services that you use, the time spent on those pages, information you search for on our Services, access times and dates, and other statistics. We use this information to monitor and analyze use of the Services and for the Services’ technical administration, to increase our Services’ functionality and user-friendliness, and to better tailor it to our visitors’ needs. For example, some of this information is collected so that when you visit the Services again, it will recognize you and serve information appropriate to your interests. We also use this information to verify that visitors to the Services meet the criteria required to process their requests.
+We transfer information about you if HipChat is acquired by or merged with another company. In this event, HipChat will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
-We use "cookies" to collect some of this information from our website and mobile website. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use cookies for two purposes. First, we utilize persistent cookies to save your registration ID and login password for future logins to the Services. Second, we utilize session ID cookies to enable certain features of the Services, to better understand how you interact with the Services and to monitor aggregate usage by users of the Services and web traffic routing on the Services. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Services and then close your browser. Third party advertisers on the Services may also place or read cookies on your browser. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions or all functionality of the Services.
+**2\. Security**  
+HipChat takes appropriate precautions to protect our users' information. Your information is located on secure servers and encrypted using secure socket layer technology (SSL). We use TLS when you sign into the HipChat application.
 
-### Information Sharing and Disclosure
+**3\. Storage, Disclosure and Use of Your Communications**  
+By using HipChat for chatting to just one person, you consent to the storage of your chat history on HipChat application as the default option. By using HipChat to chat in rooms with other users, your chat history is saved as the default option. For more information about IM history features and settings, please see HipChat's support documentation.
 
-We will not share personal information about you with other people or nonaffiliated companies, unless we have your permission, or under the following circumstances:
+**4\. Cookies**  
+Cookies are small text files that are placed on your computer's hard drive by our servers to identify your computer to our servers. No personally identifiable information stored in the HipChat cookies will be shared with outside companies for any purpose without your permission. We use cookies to record session information.
 
-_Public Profile and Company Association_. When you create an Account, certain of your information will be viewable to everyone publicly (your "Public Profile."). By default, your Public Profile displays your name, photo and work history. Your Public Profile is your virtual business card consisting of a URL that you can share or display as you choose (e.g., on your email signature or blog). You can control how much of this information is available in public search results and publicly on the Internet. Based on your Public Profile we will automatically associate you with an organization or company with whom we believe you are affiliated or employed. You can change your company association through your Account.
+**5\. Data storage**  
+When you use the file transfer feature of HipChat, the file that you transfer is copied and retained on the servers of our third party service provider after the transfer. HipChat does not access or uses these files for any purpose, but you should be aware that these files are not encrypted and that they could be disclosed in legal proceedings or investigations.
 
-_Aggregate Information and Non-Identifying Information_. We may share aggregated information that does not include personal information and we may otherwise disclose non-identifying Information and Log Data with third parties for industry analysis, demographic and analytical profiling and other purposes. Any aggregated information shared in these contexts will not contain your personal information.
+**DISCLOSURE**  
+HipChat may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service.It may be necessary to share information in order to investigate, prevent, or take action regarding suspected or actual illegal activities, including without limitation, fraud, situations involving potential threats to the physical safety of any person, or as otherwise permitted or required by law.
 
-_Service Providers_. We may employ third party companies and individuals to facilitate our Services, to provide the Services on our behalf, to perform related services (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Services’ features) or to assist us in analyzing how our Services are used. These third parties have access to your personally identifiable information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+**CHANGES**  
+HipChat may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the email address on your HipChat account or by placing a prominent notice on our site.
 
-_Compliance with Laws and Law Enforcement._ We will cooperate with government and law enforcement officials and private parties to enforce and comply with the law and will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect our property and rights or those of a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, any illegal, unethical or legally actionable activity.
-
-_Business Transfers_. We may sell, transfer or otherwise share some or all of our assets, which could include your personal information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
-
-### Changing or Deleting Your Information
-
-You may review, update, correct or delete your personal information through your Account or by contacting us. If you would like us to remove your personal information from our system, we will do so, but reserve the right to retain a record for archive purposes. If you completely delete all such information, then your Account will become deactivated.
-
-### Security
-
-We employ administrative, physical and electronic measures designed to safeguard and protect your information from unauthorized access and disclosure including encrypting your communication by utilizing Secure Sockets Layer (SSL) software. We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored "personal data" (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on this Services in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
-
-### International Transfer
-
-Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, we may transfer your personal information to the United States and processes it there. Your submission of such information represents your agreement to that transfer.
-
-### Links to Other Sites
-
-Our Services may contain links to other websites for news and other information. If you choose to visit an advertiser by "clicking on" a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party’s websites. The fact that we may link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other services follow different rules regarding the use or disclosure of the personal information you submit to them. Our Privacy Policy only applies to the Services; we are not responsible for the privacy practices or the content of other websites. You should check the privacy policies of those sites before providing your personal information to them.
-
-### Children's Information
-
-The Services are not directed to children. We do not knowingly collect personally identifiable information from children. If a parent or guardian becomes aware that his or her child has provided us with personal information without their consent, please contacting us. If we become aware that a member is under the age of 13 and has provided us with personal information without verifiable parental consent, we will delete such information from our files.
-
-### Changes
-
-We reserve the right, in its sole discretion, to modify, discontinue, or terminate the Services or to modify this Privacy Policy at any time. If we modify this Privacy Policy, we will notify you of such changes by posting them on the Services or providing you with notice of the modification. We will also indicate when such terms are effective below. By continuing to access or use the Services after we have posted a modification or have provided you with notice of a modification, you are indicating that you agree to be bound by the modified Privacy Policy. If the modified Privacy Policy is not acceptable to you, your only recourse is to cease using the Services.
-
-Last Updated: January 6, 2014 
+**QUESTIONS**  
+Any questions about this Privacy Policy should be addressed to support@hipchat.com or sent by mail to: 1098 Harrison St, San Francisco, CA 94103
