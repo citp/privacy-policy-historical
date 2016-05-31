@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the backpack.tf privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607040624id_/http%3A//stats.tf/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backpack.tf privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531113149id_/http%3A//backpack.tf/help/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Meet the Stats
-
-[](https://web.archive.org/)
+# Privacy Policy - backpack.tf
 
 Your privacy is important to us. We've developed a Privacy Policy that covers how we collect, use, disclose and store your information. 
 
@@ -10,18 +8,18 @@ Your privacy is important to us. We've developed a Privacy Policy that covers ho
 
 First and foremost, you will never be asked to provide any of your personal information to access our services. 
 
-We only collect your steam profile ID and the name of your account to better present data shown on the website. 
+The majority of our data comes from the official Steam APIs. This information is considered to be made publicly available by you. 
 
 ## Collection and Use of Non-Personal Information
 
 We also collect non-personal information - data in a form that does not permit direct association with any specific individual. We may collect, use, transfer and disclose non-personal information for any purpose. The following are some examples of non-personal information that we collect and how we may use it: 
 
-  * We may collect information about your profile like number of backpack slots, which helps us determine if you are a free player or have upgraded your account. This information is used in larger graphs and cannot be linked back to you.
-  * We also may collect information regarding the content of your inventory. We use this information to create complex statistics like % of total accounts that own a specific item. This information cannot be linked directly back to you.
+  * We may collect information about your inventory like the number of slots in a Team Fortress 2 backpack or a Dota 2 armory, which helps us determine if you are a free player or have upgraded your account. 
+  * We may also collect information regarding the content of your inventory. We use this information to create the complex statistics that show up on various statistical pages throughout the website. 
 
 
 
-If we do combine non-personal information with personal information the information will be treated as personal information for as long as it remains combined. 
+This data is provided on an opt-in basis, as our ability to gather this data depends on your inventory privacy setting via the Steam Community website. 
 
 ## Cookies and Other Technologies
 
@@ -39,8 +37,4 @@ While we could offer a way to make an inventory private from others to see from 
 
 ## Service Guarantees
 
-This is a free service with no guarantees of avaibility, secure storage and so on.
-
 We may update our Privacy Policy from time to time. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice.
-
-Our privacy policy was last modified on May 01 2012 13:31:26.
