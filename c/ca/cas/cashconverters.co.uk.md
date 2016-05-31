@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashconverters.co.uk privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206112642id_/http%3A//www.cashconverters.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashconverters.co.uk privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531230838id_/http%3A//www.cashconverters.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cash Converters
 
@@ -85,7 +85,7 @@ Please see our separate [Cookies Policy](http://www.cashconverters.co.uk/terms-a
 **Cookie Name** | **Cookie Type/Duration** | **Category** | **Purpose**  
 ---|---|---|---  
 Session ID as set by IIS | Session | Strictly necessary / functionality | Cookies for the storing of user data during a session.  Associates a user with their application.  
-Cookie message | Persistent for 2 months | Functionality __|  Identifies when a customer has acknowledged the cookie message (at the top of the website) to prevent it reappearing.  
+Cookie message | Persistent for 2 months | Functionality | Identifies when a customer has acknowledged the cookie message (at the top of the website) to prevent it reappearing.  
 Google analytics:  
 __utma  
 __utmb  
@@ -94,7 +94,7 @@ __utmz | _Persistent for up to 2 years_
 2 years  
 30 mins  
 Session  
-6 months __|  Performance __|  These cookies collect information about how visitors use a website, for instance which pages visitors go to most often.  
+6 months | Performance | These cookies collect information about how visitors use a website, for instance which pages visitors go to most often.  
   
 #### Changes to this Privacy Policy
 
@@ -220,4 +220,69 @@ We have systems that protect our customers and ourselves against fraud and other
 
 We and other organisations may access and use the information recorded by fraud prevention agencies from other countries.
 
-Last Updated: 16/08/13
+### Part 3 – Bank Statements
+
+If you’re applying for a Personal Loan online, you will have the ability to share the required bank statements with us, via a 3rd party provider.
+
+You are not required to provide us with viewing access to your bank account transaction information **(Transaction History)** or internet banking access details. You may still be allowed to apply for a loan with us if you do not provide us with this information. However, if you do it will help us make an informed decision about whether we can lend to you.
+
+If you agree that we may access your Transaction History the following provisions shall apply.
+
+**Provide Accurate Information**. You, agree to provide true, accurate, current and complete information about yourself and your bank accounts (with us or third parties) and you agree to not misrepresent your identity or your account information. You agree to keep your bank account information up-to-date, accurate and complete.
+
+**Purposes**. We will access your Transaction History using the services of a credit reference agency called Perfect Data Solutions Limited ( **PDS** ). We will use your Transaction History to assess your creditworthiness and whether the loan you seek is affordable.
+
+Neither we nor PDS will store or have access to your internet banking credentials, PIN codes or passwords. That information is encrypted in transit and stored by a third party service provider upon their servers in a secure environment outside the EEA.
+
+**Third Party Accounts**. By agreeing to allow us viewing access to your Transaction History, you authorise PDS and PDS’s service providers to access third party sites designated by you, on your behalf, to retrieve information requested by us, and to register to view bank statements over a period of up to 90 days. You agree that PDS and PDS’s service providers may, and are instructed by you as your agent and nominated representative, with full power of substitution and re-substitution, for you and in your name, place and stead, in any and all capacities, to access third party internet sites, servers or documents, retrieve information, and use your information, all as described above, with the full power and authority to do and perform each and every act and thing requisite and necessary to be done in connection with such activities, as fully to all intents and purposes as you might or could do in person. This will include the following purposes: copying Transaction History over a 90 day period and transmitting the copied Transaction History via our servers.
+
+You acknowledge and agree that when we, PDS or PDS’s service providers access and retrieve information and Transaction History from third party sites, this is undertaken as your agent, and not the agent on behalf of any third party (including the bank account provider). You should be aware that third party account providers shall be entitled to rely on this authorisation and agency granted by you. You should also be aware that this service is not endorsed or sponsored by any third party bank account providers. We would recommend that you refer to the terms and conditions of your internet banking provider if you would like more information.
+
+You understand that allowing us to review your Transaction History is at your sole risk.
+
+We are only able to review your Transaction History on an “as is” and “as available basis” as it is made available to us by service providers. It may not be available to us from time to time.
+
+We cannot guarantee that allowing us to review your Transaction History will guarantee the success of your loan application or the rate at which the loan is available. The Lender shall include the following prescribed questions and answers within the Website:
+
+**1\. Why do you ask for my internet-banking details?  
+**By inputting your details we are able to view up to 90 days of bank account history. This helps us make our lending decisions, assessing whether and if so what amount of credit is affordable and sustainable for you. As a responsible lender, we work with credit reference agencies to review your creditworthiness. As part of that process it is important for us to verify your incomings and outgoings. Ultimately, this will help us ensure that you do not fall in difficulties in making the repayments due under a loan or incurring further costs and charges. We are only permitted a read­only access to your current account, so will only ever be able to view the recent transactions on your account -nothing more. Your bank details are encrypted in transit and stored securely by our credit reference agency and its services providers. We do not have the ability to change any of your banking details, set up standing orders/direct debits or to manage your account in any other way. All data is securely handled in accordance with data protection laws and our privacy policy.
+
+**2\. Who sees my internet banking log-in details?  
+**No person can access your internet banking details. When you enter your banking credentials on our website they are securely transmitted. The encrypted details are then passed by our credit reference agency, Perfect Data Solutions Limited and associated service providers. They are stored in a highly secure data centre which has a single use, which is to generate a read-only data-feed which we will use to assess the affordability of the loan.
+
+**3\. What happens to my internet banking details after inputting them on your website?  
+**As an organisation, security of data and prevention of fraud are fundamental to us. We are committed to using practices to ensure that our services are provided within a secure environment. Your internet banking details are encrypted and held securely by our professional service providers. Our credit reference agency partner, Perfect Data Solutions Limited and us, are permitted read-only access to your current account, so will only ever be able to view your account.
+
+We do not have the ability to change any of your banking details or set up standing orders/direct debits. All data is securely handled in accordance with data protection laws and our privacy policy.
+
+**4\. What happens to the bank statements you obtain?  
+**They will be used by use to make lending decisions about you and stored by us as long as necessary to assist us in managing your account or underwriting loan to you.
+
+**5\. What will my bank say about me inputting my log-in details into your website?  
+**We would recommend that you review the Terms and Conditions of your internet banking provider. Before you decide to submit your baking credentials, we would stress that security is of paramount importance, we would especially mention that:
+
+  * Your data is encrypted in transit;
+  * We do not have any functionality over your bank account; and
+  * We only have access to a read-only service.
+
+
+
+Should PDS be directed specifically by Yodlee to ensure the following is actioned, The Lender shall within 60 days of having received written notice from PDS include the following prescribed data protection terms within Loan Agreements.
+
+If you agreed to provide us with viewing access to your internet baking account the following data protection provisions shall apply.
+
+**Provide Accurate Information**. You have provided true, accurate, current and complete information about yourself and your bank accounts (with us or third parties) and you have not misrepresented your identity or your account information.
+
+**Purposes**. We will access your bank account transaction information going back for a period of up to 90 days ( **Transaction History** ) using the services of a credit reference agency called Perfect Data Solutions Limited ( **PDS** ). We will use your Transaction History to assess your creditworthiness and whether the loan you seek is affordable.
+
+Neither we nor PDS will store or have access to your internet banking credentials, PIN codes or passwords. That information is encrypted in transit and stored by a third party service provider upon their servers in a secure environment outside the European Economic Area.
+
+**Third Party Accounts**. By agreeing to allow us viewing access to your Transaction History, you authorise PDS and PDS’s service providers to access third party sites designated by you, on your behalf, to retrieve information requested by us, and to register to view bank statements over a period of up to 90 days. You agree that PDS and PDS’s service providers may, and are instructed by you as your agent and nominated representative, with fall power of substitution and re-substitution, for you and in your name, place and stead, in any and all capacities, to access third party internet sites, servers or documents, retrieve information, and use your information, all as described above, with the full power and authority to do and perform each and every act and thing requisite and necessary to be done in connection with such activities, as folly to all intents and purposes as you might or could do in person. This will include the following purposes: copying Transaction History over a 90 day period and transmitting the copied Transaction History via our servers.
+
+You acknowledge and agree that when we, PDS or PDS’s service providers access and retrieve information and Transaction History from third party sites, this is undertaken as your agent, and not the agent on behalf of any third party (including the bank account provider). You should be aware that third party account providers shall be entitled to rely on this authorisation and agency granted by you. You should also be aware that this service is not endorsed or sponsored by any third party bank account providers. We would recommend that you refer to the terms and conditions of your internet banking provider if you would like more information.
+
+You understand that allowing us to review your Transaction History is at your sole risk.
+
+We are only able to review your Transaction History on an “as is” and “as available basis” as it is made available to us by service providers. It may not be available to us from time to time.
+
+Last Updated: 02/2016
