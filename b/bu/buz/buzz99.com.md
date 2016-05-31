@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzz99.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203032101id_/http%3A//www.buzz99.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzz99.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531063916id_/http%3A//www.buzz99.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,7 +7,7 @@ We are committed to safeguarding your privacy online. This privacy policy applie
 
 #### **Browsing the Site**
 
-If you browse through the Site without entering any personal data, we will gather and store certain information about your visit. This information does not identify you personally and cannot be linked back to you unless you decide at some point to identify yourself. If you are only browsing, we collect the following information: **IP address** , **the type of browser** and **operating system** used to access our site, the date and time you access our site, the pages you visit (click-through), and if you linked to our website from another website, the address of that website as well as additional information related to your visit. We use your **** IP address to help diagnose problems with our server, and to administer the Site.
+If you browse through the Site without entering any personal data, we will gather and store certain information about your visit. This information does not identify you personally and cannot be linked back to you unless you decide at some point to identify yourself. If you are only browsing, we collect the following information: **IP address** , **the type of browser** and **operating system** used to access our site, the date and time you access our site, the pages you visit (click-through), and if you linked to our website from another website, the address of that website as well as additional information related to your visit. We use your IP address to help diagnose problems with our server, and to administer the Site.
 
 #### **Third Party Advertising**
 
