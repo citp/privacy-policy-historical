@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eversource.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905231543id_/https%3A//www.eversource.com/Content/general/about/legal-statements) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eversource.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531110620id_/https%3A//www.eversource.com/Content/general/about/legal-statements) for the most accurate reproduction.*
 
 # Legal Statements
 
@@ -32,7 +32,7 @@ Only authorized persons will be able to complete the following transactions on y
 
 
 
-You will receive a notification every time one of the listed transactions is completed. Please use [update your email address](https://web.archive.org/Content/general/about/#) to ensure you receive email confirmations of your transactions.
+You will receive a notification every time one of the listed transactions is completed. Please use [update your email address](https://web.archive.org/Content/general/about/##) to ensure you receive email confirmations of your transactions.
 
 #### I pay a family member's account on the web. How will the changes affect me?
 
@@ -110,7 +110,7 @@ Some states and public utility commissions which regulate the Company’s utilit
 
 See:
 
-  * <http://www.lawlib.state.ma.us/subject/about/identitytheft.html>
+  * <http://www.mass.gov/courts/case-legal-res/law-lib/laws-by-subj/about/identitytheft.html>
   * <http://www.jud.ct.gov/lawlib/law/identitytheft.htm>
 
 
