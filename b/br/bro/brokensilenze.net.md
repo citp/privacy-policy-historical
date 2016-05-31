@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brokensilenze.net privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230020804id_/http%3A//brokensilenze.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brokensilenze.net privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531191618id_/http%3A//www.brokensilenze.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BrokenSilenze.net
+# Privacy Policy | BrokenSilenze.net Urban Entertainment Blog
 
 > ****
 > 
