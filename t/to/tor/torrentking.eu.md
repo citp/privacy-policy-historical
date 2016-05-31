@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torrentking.eu privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202010913id_/http%3A//torrentking.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torrentking.eu privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601011826id_/http%3A//torrentking.eu/page/privacy) for the most accurate reproduction.*
 
 # Privacy | TorrentKing
 
