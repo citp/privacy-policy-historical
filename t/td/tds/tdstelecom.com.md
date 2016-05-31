@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the tdstelecom.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211203024id_/http%3A//tdstelecom.com/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tdstelecom.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531185648id_/http%3A//tdstelecom.com/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # TDS Policies | Privacy Policy
 
 #### Effective Date: September 6, 2012
 
-TDS Telecommunications Corporation ("TDS Telecom"), and its Affiliates; One Neck IT Services Corporation, Vital Support Systems, LLC, TEAM Technologies, LLC, and VISI, Inc. (TDS Hosted and Managed Services, LLC or "TDS HMS") are dedicated to providing superior customer satisfaction and are committed to protecting customer privacy. Both TDS Telecom and TDS HMS (together referred to as "TDS" for the purposes of this policy) take this responsibility seriously as a key component to earning and maintaining our customers' trust.
+#### Last Updated: March 28, 2016
+
+TDS Telecommunications Corporation ("TDS"), and its Affiliates are dedicated to providing superior customer satisfaction and are committed to protecting customer privacy. TDS  takes this responsibility seriously as a key component to earning and maintaining our customers' trust.
 
 #### Scope
 
@@ -46,7 +48,7 @@ If you or your Authorized User contacts us via phone, you will be asked to provi
 
 #### Communication Preferences
 
-If you do not want TDS to use your Confidential Personal Information to contact you for marketing or solicitation purposes (excluding notices about your existing account), TDS Telecom customers may make this request to webcontact@tdstelecom.com, and TDS HMS customers may make this request to events@visi.com. Both TDS Telecom and TDS HMS customers may also make this request to TDS Telecom, Attn: Legal Dept., 525 Junction Road, Madison, Wisconsin 53717.
+If you do not want TDS to use your Confidential Personal Information to contact you for marketing or solicitation purposes (excluding notices about your existing account), TDS customers may make this request to webcontact@tdstelecom.com or to TDS Telecom, Attn: Legal Dept., 525 Junction Road, Madison, Wisconsin 53717.
 
 [Additional Details](https://web.archive.org/policies/full-privacy-policy.html)
 
@@ -56,13 +58,11 @@ TDS takes reasonable security safeguards to protect against such risks as loss o
 
 [Additional Details](https://web.archive.org/policies/full-privacy-policy.html)
 
-#### Customer Proprietary Network Information ("CPNI")*
+#### Customer Proprietary Network Information ("CPNI")
 
 CPNI refers to and includes information that we have about you by virtue of our relationship with you as your service provider. This includes information about your account usage - such as the type and quantity of the services you subscribe to. Use of CPNI is subject to federal laws and regulations with which TDS is required to comply.
 
 When you become a customer of TDS and no later than every two years thereafter, we will send you a notice in the mail explaining your rights concerning Customer Proprietary Network Information ("CPNI Notice").
-
-*Note this section applicable to TDS Telecom customers only
 
 [Additional Details](https://web.archive.org/policies/full-privacy-policy.html)
 
