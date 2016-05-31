@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the electronicproducts.com privacy policy that was archived on 2015-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150804064658id_/http%3A//www.electronicproducts.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronicproducts.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531211059id_/http%3A//www.electronicproducts.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Statement - Electronic Producs
+# Privacy Statement - Electronic Products
 
 Privacy Policy
 
