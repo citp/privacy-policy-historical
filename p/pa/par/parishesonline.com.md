@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parishesonline.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212141303id_/http%3A//www.parishesonline.com/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parishesonline.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531055925id_/http%3A//www.parishesonline.com/about/legal/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Parishes Online
 
@@ -39,7 +39,7 @@ Advertisements displayed on the Website may also contain cookies or other techno
 
 **DATA YOU PROVIDE**
 
-When you use this site you may do things like complete your personal profile, send messages, create content, collaborate about content, and post comments. We collect this information so that we can provide you these services and offer personalized features. In most cases, we retain it so that, for instance, you can return to view prior messages you have sent or easily return to your favorite church.
+When you use this site you may do things like complete your personal profile, send messages, create content, collaborate about content, and post comments. We collect this information so that we can provide you these services and offer personalized features. In most cases, we retain it so that, for instance, you can return to view prior messages you have sent or easily return to your favorite page.
 
 You post content on the Website at your own risk. Although we allow you to set preferences and permissions that limit access to your pages, please be aware that no security measures are perfect or impenetrable. We are not responsible for circumvention of any preferences or permissions or security measures contained on the Website. You understand and acknowledge that, even after removal, copies of individual Content may remain viewable in cached and archived pages or if other Individuals have copied or stored your Individual Content.
 
@@ -53,7 +53,7 @@ LPi may contain links to other Websites. We are of course not responsible for th
 
 **Third Party Business Partners and Advertising**
 
-Advertisements or information from our business sponsors who support your communities and churches may appear on our Website and are sometimes delivered (or "served") directly to individuals by third party advertisers. They automatically receive your IP address when this happens. These third party advertisers may also download cookies to your computer, or use other technologies such as JavaScript and "web beacons" (also known as "1x1 gifs") to measure the effectiveness of their ads and to personalize advertising content. Doing this allows the advertising network to recognize your computer each time they send you an advertisement in order to measure the effectiveness of their ads and to personalize advertising content. In this way, they may compile information about where individuals using your computer or browser saw their advertisements and determine which advertisements are clicked. LPi does not have access to or control of the cookies that may be placed by the third party advertisers. Third party advertisers have no access to your contact information stored on LPi unless you choose to share it with them.
+Advertisements or information from our business sponsors who support your communities may appear on our Website and are sometimes delivered (or "served") directly to individuals by third party advertisers. They automatically receive your IP address when this happens. These third party advertisers may also download cookies to your computer, or use other technologies such as JavaScript and "web beacons" (also known as "1x1 gifs") to measure the effectiveness of their ads and to personalize advertising content. Doing this allows the advertising network to recognize your computer each time they send you an advertisement in order to measure the effectiveness of their ads and to personalize advertising content. In this way, they may compile information about where individuals using your computer or browser saw their advertisements and determine which advertisements are clicked. LPi does not have access to or control of the cookies that may be placed by the third party advertisers. Third party advertisers have no access to your contact information stored on LPi unless you choose to share it with them.
 
 This privacy notice covers the use of cookies by LPi and does not cover the use of cookies or other tracking technologies by any of its advertisers.
 
