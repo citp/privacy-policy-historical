@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bluevine.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907030953id_/https%3A//www.bluevine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluevine.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531083130id_/https%3A//www.bluevine.com/privacy-policy) for the most accurate reproduction.*
 
-# BlueVine - Privacy Policy
+# Privacy Policy
 
 Bluevine Capital Inc. (“ **Bluevine** “) is serious about protecting the privacy of your personal information. We have put strict policies into place to ensure that the privacy of your personal information is protected while still enabling you to make use of the website (the “ **Site** “) or the services provided by Bluevine (the “ **Services** “). We use information collected about you through the use of the Services or on the Site solely for the purposes set out in this policy. The terms of this privacy policy may be updated from time to time, so please check our website or this page occasionally for updates. The terms of this policy are also incorporated into the Bluevine Terms of Use.
 
