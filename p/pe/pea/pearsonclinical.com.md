@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearsonclinical.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223075043id_/http%3A//www.pearsonclinical.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearsonclinical.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531030724id_/http%3A//www.pearsonclinical.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
