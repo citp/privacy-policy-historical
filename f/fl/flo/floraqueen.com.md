@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floraqueen.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002014209id_/http%3A//www.floraqueen.com/sending-flowers/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floraqueen.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531195808id_/http%3A//www.floraqueen.com/sending-flowers/privacy) for the most accurate reproduction.*
 
 # Privacy and Legal - Flower deliveries
 
@@ -87,18 +87,20 @@ Occasionally, FloraQueen may also use the information we collect to notify you a
 
 Smiles Guaranteed
 
->  **Zoran (Australia)**
+>  **Phil**
 > 
-> Thank you thank you thank you. I Don't have words to thank you how everything went perfect. even with my late change for delivery time you have made me and the person I love so much very happy. Please pass my thanks to your team as well as to florist in Croatia. Thank you all.
+> Well done - the flowers arrived and are beautiful. Many thanks for your help.
 
-[ ](https://web.archive.org/sending-flowers/24-red-roses)
+[ ](https://web.archive.org/sending-flowers/cheery-morning-bouquet)
 
-Rated 4.2 out of 5 by 6215 reviewers 
+"
 
-  * [Halloween Flowers](https://web.archive.org/international-flower-delivery/halloween "Halloween Flowers") 2015-10-31T00:01 2015-10-31T23:59
-  * [Neighbour Day](https://web.archive.org/international-flower-delivery/neighbour-day "Neighbour Day") 2015-11-15T00:01 2015-11-28T23:59
-  * [Thanksgiving International flowers](https://web.archive.org/international-flower-delivery/thanksgiving "Thanksgiving International flowers") 2015-11-27T00:01 2015-11-27T23:59
-  * [International Christmas Flower Delivery](https://web.archive.org/international-flower-delivery/christmas "International Christmas Flower Delivery") 2015-12-24T00:01 2015-12-26T23:59
+Rated 4.2 out of 5 by 6379 reviewers 
+
+  * [Father's Day Flowers](https://web.archive.org/international-flower-delivery/fathers-day "Father's Day Flowers") 2016-06-15T00:01 2016-06-15T23:59
+  * [ Birthday flowers](https://web.archive.org/birthday-flowers " Birthday flowers") 2016-07-15T00:01 2016-07-28T23:59
+  * [Grandparents Day](https://web.archive.org/international-flower-delivery/grandparents-day "Grandparents Day") 2016-09-04T00:01 2016-10-05T23:59
+  * [World Peace Day](https://web.archive.org/international-flower-delivery/world-peace-day "World Peace Day") 2016-09-21T00:01 2016-09-21T23:59
 
 
 
@@ -120,3 +122,5 @@ Start receiving orders now
 
 
 
+
+To ensure the best browsing experience, please enable the cookies.
