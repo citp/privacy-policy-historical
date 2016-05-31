@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bannerbank.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905152914id_/https%3A//www.bannerbank.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bannerbank.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601010203id_/https%3A//bannerbank.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Banner Bank | Banner Bank
+# Privacy Policy | Banner Bank
 
-Banner Bank is committed to transparency and choice regarding protecting the privacy of our clients' personal information, as well as that of all visitors to our website. Please read our [Privacy Policy](https://web.archive.org/~/media/bb/pdfs/banr_privacy.pdf) for details regarding how we collect, share, and protect your personal information.
+Banner Bank is committed to transparency and choice regarding protecting the privacy of our clients' personal information, as well as that of all visitors to our website. Please read our [Privacy Policy](https://web.archive.org/-/media/BB/PDFs/BANR_Privacy.pdf?la=en) for details regarding how we collect, share, and protect your personal information.
 
 **Advertising Opt Out**
 
