@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partmaster.co.uk privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629084757id_/http%3A//www.partmaster.co.uk/payment-security/help.pl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partmaster.co.uk privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531075158id_/http%3A//www.partmaster.co.uk/payment-security/help.pl) for the most accurate reproduction.*
 
 # Terms & Conditions
 
@@ -51,11 +51,10 @@ Alternatively, you can post your request to the address in (3) below.
     3. You also have the right to request a copy of any personal information we hold about you. To do this, simply write to us at the following address, enclosing a cheque for £10 payable to DSG Retail Limited to cover our administration costs:-
 
 Legal Services  
-DSG Retail Limited  
-Maylands Avenue  
-Hemel Hempstead  
-Herts  
-HP2 7TG
+DSG Retail Ltd  
+1 Portal Way  
+London  
+W3 6RS
 
   * View Secure Shopping
 
