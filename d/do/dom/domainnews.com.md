@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the domainnews.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130163232id_/http%3A//www.domainnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainnews.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531184528id_/http%3A//www.domainnews.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy at DomainNews.com - Domain & SEO News
+# Privacy Policy at DomainNews.com – Domain & SEO News
 
 DomainNews is engaged into a continuous effort to ensure that the privacy of its visitors is carefully respected at all times. The following section explains in details how our website collects personal information data and how it is used after this phase ends. You are invited to send us questions about our policy and we will be happy to answer should you require more information or details.
 
