@@ -1,33 +1,37 @@
-> *The following text is extracted and transformed from the avert.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905055103id_/http%3A//www.avert.org/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avert.org privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531143738id_/http%3A//www.avert.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | AVERT
+# AVERT.org privacy policy | AVERT
 
-AVERT regards the lawful and correct treatment of personal information as important to our successful operations and to the maintenance of confidence of those with whom we deal. This statement applies to any user of our services, irrespective of which country they inhabit.
+Thank you for using AVERT.org. Here, we explain what personal information we may hold about you, and how we might use that information. By using our website you are agreeing to the terms of this privacy policy, and to the [terms and conditions](https://web.archive.org/node/381) of use of this website. Words defined in those terms and conditions of use have the same meaning when we use them in this policy. If you have any questions about this privacy policy, please email [info@avert.org](mailto:info@avert.org).  
 
-We will ensure that our staff use and disclose personal information lawfully and correctly. To this end we fully endorse and adhere to the principles of data protection, as set out in the UK Data Protection Act 1998 (the "Act").
+Please note that where our website contains links to other websites, we are not responsible for the privacy policies of other organisations and websites and this policy applies solely to any personal information collected on avert.org.
 
-AVERT will:
+## What information do we collect?
 
-  * Observe the conditions in the Act regarding the fair collection and use of personal information (please see below regarding personal information collected via our website)
-  * Meet our legal obligations to specify the purposes for which we process personal information, this information being set out in our data protection notification particulars which can be found on the Information Commissioner’s website at [www.dpr.gov.uk](http://www.dpr.gov.uk/)
-  * Collect and process appropriate personal information, only to the extent that it is needed to fulfill our operational needs or to comply with any legal requirement
-  * Ensure the accuracy of any personal information kept by us
-  * Apply checks to determine the length of time personal information is held by us
-  * Ensure that the rights of people about whom personal information is held, are able to be exercised fully under the Act
-  * Take appropriate technical and organisational security measures to safeguard personal information
+Personal information is any information that can be used to identify a living individual such as a name, date of birth, email address, postal address, and telephone number.
 
+Any personal information that you provide us with is stored securely. We may collect this personal information when you contact us, give feedback through our comments boxes, submit a personal story, make a donation, register for our services (for example, to receive our newsletter), or otherwise give us personal information.
 
+When making a donation, your financial information such as credit and debit card details, is stored by [Worldpay](http://www.worldpay.com/) only and AVERT does not have access to this information.
 
-If we collect personal information via our website, prior to finally submitting any personal information to our website, we will endeavour to ensure that you are informed as to:
+## How do we use this information?
 
-  * The purpose for collecting the information
-  * What the information will be used for
-  * How you can request copies of any personal information we hold on you
+We use your personal information to provide you with the information or services you ask for. We may also use your information for administrative purposes, including letting you know about changes to our services and understanding more about how our website is used. In addition, we may handle any non-sensitive personal data for our legitimate purposes. We will not sell your details to any third parties.
 
+AVERT regards the lawful and correct handling of personal information as important to the success of our work and to maintaining the confidence of those with whom we deal. This applies to any user of our services, irrespective of where they live.
 
+We will ensure that anyone working for us uses personal information lawfully and correctly. To this end, we fully comply with the UK Data Protection Act 1998.
 
-Please note that where our website contains links to other websites, we are not responsible for the privacy practices of other websites and this statement applies solely to any personal information collected by our website.
+## How we use cookies
 
-IP addresses are not linked to personally identifiable information. We only use IP addresses to analyse trends, administer our website, track general user movements, and gather broad demographic information for aggregate use.
+A cookie is a small text file passed to your computer, mobile phone or other device, through your web browser, so that the website remembers who you are when you return.
 
-Furthermore please [be aware that we use cookies on our website](https://web.archive.org/web/20150905055103id_/http%3A//www.avert.org/cookies.htm). We use cookies to track the interests of our users so that we can subsequently enhance their experience on our website. If your browser rejects a cookie, you may still use our website.
+AVERT uses website analytics to track how the website is used. These tools use cookies to gather statistics about how people use the website. For example, to see how many people look at a particular web page and which country they are from.
+
+This information allows us to improve the website and to keep it relevant to our users’ needs. We do not store any personal information for this purpose but simply use it to see how you use the website.
+
+If you do not wish to have cookies stored on your computer, you can easily change your web browser’s settings to refuse cookies. Information about deleting or controlling cookies is available at [www.aboutcookies.org](http://www.aboutcookies.org/).
+
+Please note that by deleting our cookies or disabling future cookies you may not be able to access certain areas or features of our website. The [International Chambers of Commerce](http://www.iccwbo.uk/pages/privacy) provides a guide to the law in this area and information about different types of cookies.
+
+**Date of last review: 30/09/2015**
