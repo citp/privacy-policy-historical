@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softgarden.io privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918065942id_/http%3A//www.softgarden.io/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softgarden.io privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531190400id_/http%3A//www.softgarden.io/company/privacy) for the most accurate reproduction.*
 
 # Privacy Statement by softgarden
 
