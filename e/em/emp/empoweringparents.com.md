@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the empoweringparents.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919061943id_/http%3A//www.empoweringparents.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empoweringparents.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531071517id_/https%3A//www.empoweringparents.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Empowering Parents
-
-## Privacy Policy
+# Privacy Policy - Empowering Parents
 
 #### _Effective as of August 2015_
 
@@ -16,7 +14,7 @@ We reserve the right, in our sole discretion, to modify this Privacy Policy at a
 
 #### Personal Information
 
-In some areas of our Web Site, we may request that you provide personal information, including your name, address, e-mail address, telephone number, and any other information from which your identity is discernable (“personal information”). If you place an order through our online store, we will ask you to provide credit, debit, or other financial account information as well as your contact and billing information. Other examples of pages where we may collect personal information are pages where you complete an online registration form to participate in any blog feature or discussion forum made available through the Web Site, register to receives our e-mail newsletters, or submit a question through the “Contact” link on the Web Site. 
+In some areas of our Web Site, we may request that you provide personal information, including your name, address, e-mail address, telephone number, and any other information from which your identity is discernable (“personal information”). If you place an order through our online store, we will ask you to provide credit, debit, or other financial account information as well as your contact and billing information. Other examples of pages where we may collect personal information are pages where you complete an online registration form to participate in any blog feature or discussion forum made available through the Web Site, register to receives our e-mail newsletters, or submit a question through the “Contact” link on the Web Site.
 
 #### Sharing Personal Information
 
@@ -24,7 +22,7 @@ We may disclose personal information to contractors or service providers that he
 
 We may share some or all of your personal information with our subsidiaries and affiliates, joint venturers, or other companies under a common control (collectively, “affiliates”), in which case we will require these affiliates to honor this Privacy Policy. If our company or our assets are acquired by another company, that company will possess the personal information collected by us and it will assume the rights and obligations regarding your personal information as described in this Privacy Policy.
 
-We may disclose personal information to third parties when we reasonably believe we are required to do so by law, and in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including without limitation, fraud, situations involving potential threats to the physical safety of any person or violations of Empowering Parent’s Terms of Use. 
+We may disclose personal information to third parties when we reasonably believe we are required to do so by law, and in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including without limitation, fraud, situations involving potential threats to the physical safety of any person or violations of Empowering Parent’s Terms of Use.
 
 #### Non-Personally-Identifiable Information
 
@@ -40,15 +38,15 @@ Empowering Parents
 10 Speirs Streets  
 Westbrook, ME 04092  
 (207) 856-5600  
-service@empoweringparents.com 
+service@empoweringparents.com
 
-Empowering Parents may make your personal information available to third parties for their marketing purposes as described in this Privacy Policy. If you do not wish to share your personal information in this way, send your request to: 
+Empowering Parents may make your personal information available to third parties for their marketing purposes as described in this Privacy Policy. If you do not wish to share your personal information in this way, send your request to:
 
 Empowering Parents  
 10 Speirs Streets  
 Westbrook, ME 04092  
 (207) 856-5600  
-service@empoweringparents.com 
+service@empoweringparents.com
 
 #### Children’s Privacy
 
@@ -66,17 +64,17 @@ When you use our Web Site, you may interact with or link to third parties that o
 
 ### USE OF COOKIES AND TAGGING
 
-Like many commercial websites, we analyze how readers use this site through what is known as "cookie" technology. A "cookie" is a small text file which asks permission to be placed on your computer's hard drive. A cookie is not an app or program and has no ability to read the data residing on your computer. We cannot instruct it to execute functions or take any actions. Cookies do not provide us with any personal data or information about you, other than the data you choose to share with us. 
+Like many commercial websites, we analyze how readers use this site through what is known as “cookie” technology. A “cookie” is a small text file which asks permission to be placed on your computer’s hard drive. A cookie is not an app or program and has no ability to read the data residing on your computer. We cannot instruct it to execute functions or take any actions. Cookies do not provide us with any personal data or information about you, other than the data you choose to share with us.
 
-Similarly, we use what is known as "client-side page tagging" to write certain information about the page and the visitor to a log when a page is rendered by your web browser. This technique is also commonly used on commercial websites. "Tagging" does result in a small amount of JavaScript running on your computer, but it is limited to providing information about the page that you are requesting and the configuration of your browser. It will not read any of your data files, or execute any additional programs. It does not extract any personal information about you, such as your name or address. You can prevent tagging by disabling JavaScript in your browser, but that may prevent you from using all of our website's functions.
+Similarly, we use what is known as “client-side page tagging” to write certain information about the page and the visitor to a log when a page is rendered by your web browser. This technique is also commonly used on commercial websites. “Tagging” does result in a small amount of JavaScript running on your computer, but it is limited to providing information about the page that you are requesting and the configuration of your browser. It will not read any of your data files, or execute any additional programs. It does not extract any personal information about you, such as your name or address. You can prevent tagging by disabling JavaScript in your browser, but that may prevent you from using all of our website’s functions.
 
 ### DATA SECURITY
 
-We use tools from Google, Adobe and others to help collect aggregate data, such as browser type, connection speed, referring/exit pages, device type, date/time stamp, and the number of clicks to help us analyze trends, administer the site and make improvements. This information is not linked to any personally identifiable information you may share with us. 
+We use tools from Google, Adobe and others to help collect aggregate data, such as browser type, connection speed, referring/exit pages, device type, date/time stamp, and the number of clicks to help us analyze trends, administer the site and make improvements. This information is not linked to any personally identifiable information you may share with us.
 
-Google and Adobe may also provide anonymous information about your visits to this and other websites (such as age and gender) to help us improve the content on our web site, refine our products and provide information about our other products and services that might be of interest to you. 
+Google and Adobe may also provide anonymous information about your visits to this and other websites (such as age and gender) to help us improve the content on our web site, refine our products and provide information about our other products and services that might be of interest to you.
 
-You can obtain more information about this practice and to identify your choices about not having this information used by Google and Adobe from their respective web sites. You can opt-out of cookie-based tracking at any time by simply clearing your browser's cookie cache or activating your web browser’s “do not track” function.
+You can obtain more information about this practice and to identify your choices about not having this information used by Google and Adobe from their respective web sites. You can opt-out of cookie-based tracking at any time by simply clearing your browser’s cookie cache or activating your web browser’s “do not track” function.
 
 We may partner with advertising networks who serve ads on behalf of us and others on non-affiliated sites. Some of those ads may be personalized, meaning that they are intended to be relevant to you based on information advertising networks collect about your visits to this site and elsewhere over time. You may also visit www.aboutads.info to learn more about this type of advertising and how to opt-out of this form of advertising by companies participating in the Digital Advertising Alliance (“DAA”) self-regulatory program. Note that electing to opt out will not stop advertising from appearing in your browser or applications. It may make the ads you see less relevant to your interests. In addition, note that if you use a different browser or erase cookies from your browser, you may need to renew your opt-out choice.
 
@@ -90,4 +88,4 @@ Empowering Parents
 10 Speirs Streets  
 Westbrook, ME 04092  
 (207) 856-5600  
-service@empoweringparents.com 
+service@empoweringparents.com
