@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the chroniclesofelyria.com privacy policy that was archived on 2015-11-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151129060132id_/http%3A//chroniclesofelyria.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chroniclesofelyria.com privacy policy that was archived on 2016-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160531193102id_/http%3A//chroniclesofelyria.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
     <meta charset="utf-8">
@@ -13,9 +13,56 @@
     <link href="/style/frame.css" rel="stylesheet" type="text/css">    
 
 
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/Scripts/jquery-1.10.2.min.js"></script>
+    <script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/Scripts/jquery-1.10.2.min.js"></script>
     <script src="/Scripts/jquery-ui-1.10.3.js"></script>
     <script src="/Scripts/modernizr-2.6.2.js"></script>
+
+<script>
+        $(document).ready(function () {
+            if (navigator.userAgent.match(/Trident\/7\./)) {
+                $('body').on("mousewheel", function () {
+                    event.preventDefault();
+                    var wheelDelta = event.wheelDelta;
+                    var currentScrollPosition = window.pageYOffset;
+                    window.scrollTo(0, currentScrollPosition - wheelDelta);
+                });
+
+                $('body').keydown(function (e) {
+
+                    var currentScrollPosition = window.pageYOffset;
+
+                    switch (e.which) {
+
+                        case 38: // up
+                            e.preventDefault(); // prevent the default action (scroll / move caret)
+                            window.scrollTo(0, currentScrollPosition - 120);
+                            break;
+
+                        case 40: // down
+                            e.preventDefault(); // prevent the default action (scroll / move caret)
+                            window.scrollTo(0, currentScrollPosition + 120);
+                            break;
+
+                        default: return; // exit this handler for other keys
+                    }
+                });
+            }
+
+            // Set nav menu drop down list to invisible after the page loads
+            $(".NavMenuList").css("visibility", "visible");
+            $(".NavMenuList").hide();
+
+            // Add mouseover function for nav menu drop down list
+            $(".HoverGroup").mouseover(function () {
+                $(this).find(".NavMenuList").show();
+            });
+
+            // Add mouseout function to hide menu drop down list
+            $(".HoverGroup").mouseout(function () {
+                $(this).find(".NavMenuList").hide();
+            });
+        });        
+    </script>
 
     <!-- Google Analytics -->
     <script>
@@ -31,6 +78,19 @@
         ga('send', 'pageview');
     </script>
 
+    <!-- Facebook Ad Tracking Parent Script -->
+    <script>
+        !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+        document,'script','//connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '456128454570664');
+        fbq('track', "PageView");
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+        src="https://www.facebook.com/tr?id=456128454570664&ev=PageView&noscript=1"/>
+    </noscript>
             
 </head>
 <body style="">
@@ -132,7 +192,7 @@
                             <li>|</li>
                             <li><a onclick="ga('send', 'event', 'Footer', 'Terms', 'Clicked');" href="/terms">Terms of Use</a></li>
                             <li>|</li>
-                            <li><a onclick="ga('send', 'event', 'Footer', 'Site Map', 'Clicked');" href="/sitemap">Site Map</a></li>
+                            <li><a onclick="ga('send', 'event', 'Footer', 'Wiki', 'Clicked');" href="http://ChroniclesOfElyria.Gamepedia.com" target="_blank">Official Wiki</a></li>
                             <li>| </li>
                             <li><a onclick="ga('send', 'event', 'Footer', 'Support', 'Clicked');" href="/support">Contact Us</a></li>
                         </ul>
@@ -161,7 +221,7 @@
                     <div id="Footer_LegalLeft">
                         <img id="CoELogo_Bottom" src="/images/logo.png" height="114">
                         <span id="Legal" class="legal-font">
-                            © 2015 Soulbound Studios, LLC. All rights reserved.
+                            © 2016 Soulbound Studios, LLC. All rights reserved.
                             Chronicles of Elyria, Soulbound Studios, the Soulstone Logo,
                             and all associated logos and designs are trademarks or registered trademarks of Soulbound Studios, LLC.
                             All other trademarks are the property of their respective owners.
