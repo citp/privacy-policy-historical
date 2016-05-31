@@ -1,82 +1,134 @@
-> *The following text is extracted and transformed from the dynamicyield.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906123830id_/https%3A//www.dynamicyield.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynamicyield.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531094415id_/https%3A//www.dynamicyield.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Dynamic Yield
+# Site Privacy Policy — Dynamic Yield
 
-Dynamic Yield Ltd. (“ **Dynamic Yield** ”) offers several products and services, including (i) a website at _[www.dynamicyield.com](https://www.dynamicyield.com/)_ , (ii) a web analytics service which analyzes the usage methods of your website by your users, (iii) a real time customization of your web pages’ layouts according to your users’ preferences and activities, and (iv) other products and services as may be provided by Dynamic Yield from time to time, in its discretion (Collectively referred hereinafter as the “ **Services** ”).
+## DYNAMIC YIELD, INC. WEBSITE PRIVACY POLICY  
+Last Updated May 5, 2016
 
-This Privacy Policy should be read together with, and hereby incorporates by reference, Dynamic Yield Terms of Service (the “ **Terms** ”), which set the legally binding terms for the provision and use of any of the Services by any user that subscribes to and/or uses the Services of Dynamic Yield (“ **You** ” or “ **Customer** ”).
+Dynamic Yield Ltd. (“DY” “we“, “our” or “us“) respects the privacy of the users of its website at http://www.dynamicyield.com (the “Website”) and of its services, which operate across both DY’s Site as well as those of third parties (and together with the Website, collectively, the “Offering”), and is committed to protecting the information DY collects and/or is disclosed to it by the users of the Offering (“End Users” or “you“).We have created this privacy policy (this “Website Privacy Policy”) because we know that you care about how information you provide to us is used and shared.[1].
 
-## 1\. Privacy Statement
+**Acceptance of Terms**
 
-Dynamic Yield has a strong commitment to protect the privacy and the confidential information of its users and customers. The following privacy policy describes how Dynamic Yield treats Your information while You are using Dynamic Yield’s Services.
+By visiting our Website, you are agreeing to the terms of this Website Privacy Policy and the accompanying Terms and Conditions.
 
-## 2\. Non Personal Identifiable Information of Customer Gathered while Using the Services
+**The Information We Collect**
 
-When You use Dynamic Yield’s Services, Dynamic Yield may collect information to administer its Services and to analyze such information’s usage. Such information may include, inter alia, information regarding Your IP address and Geo-IP parameters, times of usage, the number of clicks on each link within the website and/or Services, crash reports, the type of Internet browser or computer You use, the name of Your internet service provider and other non personal identifiable information regarding Your use of the website and/or any of the Services.
+DY collects the following types of information from its End Users at several different points throughout the Offering: 
 
-Dynamic Yield may use such information to understand how its customers use the website and Services, how Your website users’ are using Your website and services, to analyze retention and usage statistics, and improve and enhance the experience of the customers.
+  1.  _In general_
 
-## 3\. Cookies; Google’s Remarketing Services
+When you visit our Website or otherwise utilize our Offering you remain anonymous. That said, certain aspects of our Offering, whether deployed by others or by us, will require registration and/or the collection of information that is more personal in nature. In those cases, personal information, such as name, address, contact information and other information that may be protected by law as personally-identifiable information (“Personal Information” or “PII”) may be collected from you and stored in our databases, typically when you register to the Site, request support enter into a sales promotion or otherwise interact with us (for example through the “contact us” option). It should be made clear that you have no legal obligation to provide us with any PII and the submission of such information is entirely subject to your sole discretion and consent. However, if you will not provide us with the required information we may not be able to provide you with the information/services requested by you.
 
-In order to collect Your information (including Your users’ information, as described below), Dynamic Yield and/or its third party services providers (including Google Inc.) may use various types of cookies and/or other technological means. Cookies are small text files, which are placed by Dynamic Yield and/or by its third party services providers on your computer, technology or other device, to collect certain data and/or technical information. It is your choice whether to accept or reject cookies and you can set your browser to reject cookies or to delete these cookies. However, if you choose to reject cookies or delete them, it may limit some of the functionalities available or affect Your experience with the website or the Services.
+  2.  _Other Information_
 
-Dynamic Yield may use Google AdWords Remarketing Service for advertising purposes. By using Google AdWords Remarketing Service, visitors of the Dynamic Yield’s website may see advertisements in third parties’ websites (including, without limitation on Google’s search results page or a site in the Google Display Network). Any data collected by Dynamic Yield using the Google AdWords Remarketing Service will be treated in accordance with this Privacy Policy and in accordance with Google’s Privacy Policy. Please note that at any time you may opt out of Google’s use of cookies by visiting Google’s ‘Ads Settings’. Please note that at any time you may opt out of the use of the Google AdWords Remarketing Service by a written request to Dynamic Yield.
+In addition to the Personal Information, we may collect additional information (collectively, the “Other Information”). Such Other Information may include:
 
-4\. Personal Identifiable Information provided by Customer
+a. _From Your Activity_
 
-DYNAMIC YIELD WILL NOT COLLECT ANY PERSONAL IDENTIFIABLE INFORMATION, EXCEPT WHEN SUCH INFORMATION IS VOLUNTARY PROVIDED BY YOU DURING YOUR USE OF THE SERVICES AND/OR IN THE COURSE OF SUBSCRIPTION, PER YOUR REQUEST AND UPON YOUR EXPLICIT CONSENT.
+Information that we or our technology providers may automatically collect when you visit, access, and/or use the Website, such as your IP addresses, Internet service provider, domain server, type of computer, browser type and language, referring and exit pages and URLs, date and time, amount of time spent on particular pages, what sections/features of our Offering that you visit/utilize, number of links you click while on the Website, search terms, and operating system. We may also collect statistical and other data related to your use of our Offering as well as information on Offering usage patterns. This information is collected and used as non-individually identifiable information.
 
-As further set forth in Section 3.1 of the Terms, in the course of the subscription to the Services, You may be required to provide personal identifiable information such as Your full name, email address, the name and number of the corporation or organization on behalf of which you are acting  and the domain of its website, as well as financial information such as credit card or bank account information.
+b. _From Cookies and JavaScript Tags_
 
-It is your choice whether to provide any of the aforesaid personal identifiable information. However, please be aware that if you choose not to do so, you may not be able to complete the subscription process and/or to use the Services.
+We use session identifiers, web beacons, cookies, JavaScript tags, and other tracking technologies. A cookie is a piece of data stored on an End User’s hard drive containing information about the End User. We use these technologies to enhance the End User experience of our Offering, and as a result, these technologies may be deployed by DY in any portion of the DY Offering. Usually an Internet browser is set by default to accept cookies. If an End User rejects the cookie, he/she may still use our Offering, though certain features, tools and applications may be disabled or otherwise unavailable. We may also use cookies to track and monitor usage of the Offering by End Users for the marketing and quality improvement purposes. Most browsers will allow you to erase cookies from your computer/device hard drive, block acceptance of cookies, or receive a warning before a cookie is stored.
 
-## 5\. Use of Customer’s Information
+We may use JavaScript tags to trigger a sequence of events that includes viewing a first-party cookie (or setting that cookie if it does not already exist) and to help us tailor and optimize our DY Offering for both our End Users and enterprise clients.
 
-Dynamic Yield will provide the Services in full compliance with any applicable law. Dynamic Yield may engage with certain eligible and professional third party companies and/or individuals in order to help Dynamic Yield to provide, analyze, and/or improve the Services (including but not limited to, any data storage, maintenance services, database management, web analytics, and improvement of the Services’ features). These third parties may receive access to Your information only for purposes of performing such tasks, on Dynamic Yield’s behalf and under similar obligations to those described in this privacy policy.
+In addition to the foregoing, DY reserves the right to use the Google AdWords Remarketing Service (the “ **Google Service** ”) for advertising purposes. By using the Google Service, visitors of those sites, apps and other digital properties belonging to DY’s enterprise clients may see advertisements in third parties’ websites (including, without limitation on Google’s search results page or a site in the Google DisplNetwork). Any data collected by DY using the Google Service will be subject to both this Privacy Policy as well as Google’s Privacy Policy.
 
-In addition, Dynamic Yield may use Your information to respond to Your questions and requests, to verify Your identity, to contact You about Your account and activities while using the Services and/or to send You any updates, newsletters and notices regarding the Services.
+c. _Social Media Widgets_
 
-Except as described herein, Dynamic Yield will not sell, license or otherwise provide any gathered information to any third party. Notwithstanding, Dynamic Yield reserves the right to disclose any gathered information as required by law and/or when Dynamic Yield believes that such disclosure is necessary to protect its rights and reputation or to prove the credibility of the Services, Dynamic Yield’s systems and/or technology and/or to comply with a judicial proceeding, court order, or legal process served in connection with the Services.
+Our Offering includes Social Media features, such as the Facebook Like button. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social Media features and Widgets are either hosted by a third party or hosted directly on our Website. Your interactions with these features are governed by the privacy policy of the company providing it.
 
-Any information gathered by Dynamic Yield is stored by Dynamic Yield, whether in its internal servers and/or by using third party’s external servers or cloud services, and is secured by Dynamic Yield as further described in the “Information Security” Section below (Section 7).
+  3.  _Third Party Service Providers_
 
-## 6. Opt out of Dynamic Yield’s Personalization Offering
+Our third-party service providers may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites, mobile websites and/or mobile applications across your various devices, in order to provide content and advertisements about goods and services of interest to you across those various devices. If you would like more information about this practice and to know your choices with respect to it, please: (1) visit  the  DAA opt-out program available <http://www.aboutads.info/choices/> or the Evidon opt-out program available at <https://www.ghostery.com/support/global-opt-out/> 1\. to learn how to opt out of having your information collected in browsers for ad serving purposes; and (2) download the Ghostery Ad Control application, available for iOS and Android, to learn how to opt out of having your information collected in mobile apps.
 
-Dynamic Yield customers may personalize their website content according to demographics and online behavior. The outcome is often referred to as a personalized user experience or online personalization. You can opt out of receiving a personalized user experience by clicking the button below.
+  4.  _External Websites_
 
-  
-Opting out of Dynamic Yield personalization does not result in your website experience being harmed or negatively altered in any way. You will continue seeing the website’s content; such as ads, internal offers, categories and articles; but you may see non-targeted content that is not relevant to you.
+The Website may contain links to third-party websites. DY has no control over the privacy practices or the content of these websites. As such, we are not responsible for the content or the privacy policies of those third-party websites. You should check the applicable third-party privacy policy and terms of use when visiting any other websites.
 
-## 7\. Non Personal Identifiable Information of Customer’s Users
+  5.  _Enterprise Clients_
 
-**Information of Customers’ Users Entering Your Website**. For the purpose of providing You with certain of the Services, Dynamic Yield may collect information of Your users. Such information may include, inter alia, information regarding such users’ IP address and Geo-IP parameters, time of usages, the number of clicks on each link within Your website, crash reports, the type of internet browser or computer they use, the name of their Internet service provider, information regarding their browsing history and web activities and other non personal identifiable information regarding their use of Your website.
+From time to time, DY grants certain of its enterprise clients a license or other rights to DY’s proprietary software products and solutions (the “DY Solutions”). Through their use of these DY Solutions and/or through other means, enterprise clients of DY may get access to, collect and use: (i) End User non-personally identifiable information; and (ii) End User PII.
 
-**Advertising Practices to Customer’s Users**. While Your users are served with advertisements, Dynamic Yield may collect certain information regarding such users. Such information may include, inter alia, information regarding such users’ IP address and Geo-IP parameters, time of usages, the number of clicks on each advertisement, crash reports, the type of internet browser or computer they use, the name of their Internet service provider, information regarding their browsing history and web activities and other non-personal identifiable information regarding their use of Your website.
+The DY Solutions enable our enterprise clients to deliver more relevant content to consumers across digital channels, including desktop and mobile channels, by gathering data about those End Users’ visits to, and use of, our enterprise clients’ digital properties. These clients have their own policies that govern how they collect, use, and share data, even when such collection and use may be carried out, directly or indirectly, by DY from time to time. Please consult the privacy policies of the websites you visit and apps you use to become familiar with their privacy practices.
 
-Collection of the above information is made through the Analytics Code provided to You by Dynamic Yield and installed by You on Your website, as further described in Section 3.2 of the Terms. In addition, in order to collect the above information, Dynamic Yield may use various types of cookies, as further described in Section 3 above. Dynamic Yield cookie domains are dynamicyield.com and srv.dynamicyield.com.
 
-Dynamic Yield will use Your users’ information in order to provide You with the Services. Without derogating from the generality of the above, Dynamic Yield may use such information to analyze Your users’ usage of Your website, to understand how Your users use Your website, to analyze retention and usage statistics of Your website, to produce reports for Your use and, upon your request, to customize Your web pages’ layouts according to Your users’ preferences and web activities, all in order to help You to enhance the experience of Your users.
 
-In addition, Dynamic Yield may engage with certain eligible and professional third party companies and/or individuals in order to help Dynamic Yield to provide, analyze, and improve the Services (including but not limited to, data storage, maintenance services, database management, web analytics, and improvement of the Services’ features). These third parties may have access to Your users’ information only for purposes of performing such tasks, on Dynamic Yield’ behalf and under similar obligations to those described in this privacy policy.
 
-Except as described herein, Dynamic Yield will not sell, license or otherwise provide any gathered information of Your users to any third party. Notwithstanding, Dynamic Yield reserves the right to disclose any such gathered information as required by law and/or when Dynamic Yield believes that such disclosure is necessary to protect its rights and reputation or to prove the credibility of the Services, Dynamic Yield’s systems and/or technology and/or to comply with a judicial proceeding, court order, or legal process served in connection with the Services.
+ **How We/Enterprise Clients Use Information**
 
-Any information of Your users gathered by Dynamic Yield is stored by Dynamic Yield, whether in its internal servers and/or by using third party’s external servers or cloud services, and is secured by Dynamic Yield as further described in the “Information Security” Section below (Section 7).
+  1.  _For Internet-based Advertising and Improvement of our End-Users Experience_
 
-IT IS YOUR SOLE RESPONSIBILITY TO INFORM YOUR USERS OF, AND TO OBTAIN THEIR CONSENT AND/OR AUTORIZARTION TO (I) COLLECT THEIR INFORMATION BY YOU; (II) TRANSFER THEIR INFORMATION TO THIRD PARTIES SUCH AS DYNAMIC YIELD AND TO USE SUCH INFORMATION BY DYNAMIC YIELD FOR THE PURPOSE OF PROVIDING YOU THE SERVICES AS SET FORTH HEREIN; AND (III) USE OF COOKIES AND/OR OTHER SIMILAR TECHNOLOGICAL MEANS TO COLLECT AND/OR TRANSFER THEIR INFORMATION AS AFORESAID.
+We use the Personal Information and the Other Information (collectively, the “ _Information_ ”) for purposes of analyzing trends, administering our Offering, improving our services, and to gather demographic information about our End User base as a whole. We also compile and store data and information and generate reports related to our End Users’ access to and use of our Offering. To the extent required under applicable data processing laws and regulations, any PII that we collect will be stored in our database and will be used in accordance with such applicable laws and regulations.
 
-YOU HEREBY UNDERTAKE THAT YOU WILL NOT PROVIDE DYNAMIC YIELD ANY INFORMATION (AND/OR ACCESS TO ANY INFORMATION) OF ANY OF YOUR USERS, WITHOUT SUCH USER’S KNOWLEDGE AND CONSENT (INCLUDING A CONSENT OBTAINED THROUGH YOUR PRIVACY POLICY AND/OR TERMS OF USE).
+There are also times when we will combine such information with additional non-personal or de-identified information we obtain from other companies as well as PII, in order for our enterprise clients to market directly to a certain person subject to requirements of applicable law. We typically analyze this information and organize it into user groups and audiences, based on factors such as age, gender, geography, interests and online actions. We and our enterprise clients then use these user groups and audiences, along with information about the possible relationships among different browsers and devices, to design and deliver customized advertising campaigns or other relevant content. This is often referred to as Interest-Based Advertising. To enable the foregoing, the DY Solutions use technology including browser cookies, device identifiers, and other similar technologies to recognize a particular browser or device over time, to predict possible relationships among different browsers and devices and to then relay this information to our servers.
 
-IN NO EVENT DYNAMIC YIELD SHALL HAVE ANY RESPONSIBILITY OR LIABILITY WITH RESPECT TO YOUR USERS, AND YOU HEREBY AGREE AND UNDERTAKE TO INDEMNIFY AND HOLD HARMLESS DYNAMIC YIELD AND ITS SUBSIDIARIES, AFFILIATES, OFFICERS, DIRECTORS AND EMPLOYEES, FROM AND AGAINST ANY AND ALL LIABILITY, LOSSES, CLAIMS, DAMAGES AND EXPENSES, INCLUDING BUT NOT LIMITED TO REASONABLE ATTORNEY’S FEES AND COSTS OF LITIGATION, ARISING FROM ANY CLAIM OF YOUR USERS THAT DYNAMIC YIELD HAS INFRIGED ANY OF THEIR RIGHTS OR OTHEREWISE IN CONNECITON WITH THIS SECTION 6.
+DY retains the End User data described above which is collected through our DY Solutions for purposes of Interest-Based Advertising for up to twenty-four (24) months from the date of its collection.
 
-## 8\. Information Security
+  2.  _Email Communications_
 
-Dynamic Yield is committed to protect the security of its customers’ information, and takes reasonable measures available to assure information security. However, no method of Internet transmission or electronic storage is 100% secure and Dynamic Yield cannot guarantee absolute information security. By using the Dynamic Yield’s website and/or any of the Services, you expressly agree that Dynamic Yield will not be liable for any third party action, misuse, abuse or infringement of data and information security.
+We do not send emails to anyone without permission (which permission may have been given to us and/or one of our enterprise clients), and we do not sell or rent email addresses to any unauthorized third party. This does not mean that we can prevent spam from happening on the Internet. If you believe that you have received an unsolicited email from us, please contact us at the e-mail below and we will investigate.
 
-## 9\. Assignment
+At any time, you have the ability to opt out of receiving marketing communications from DY, but you may not opt out of administrative emails. You can opt out either changing your e-mail preferences or using the link provided at the bottom of each email message or through any other means that is made available to you
 
-Dynamic Yield is allowed, at its sole discretion, to assign this Privacy Policy or any rights there under, including any information or data collected or gathered by Dynamic Yield through the website and/or in connection with the Services, to any third party, without giving any prior notice. In any event of assignment as aforesaid, any provision of this Privacy Policy shall fully apply to any successor or assignee, _mutatis mutandis_.
 
-**Copyright & Trademark Notice **
 
-Copyrights © Dynamic Yield Ltd. 2014. All Rights Reserved.
+
+**How We/Enterprise Clients Share the Information**
+
+We do not share, distribute, sell or rent any of your PII with/to third parties, including our enterprise clients, except in the following circumstances:
+
+  * If you have opted out of our ability to use your e-mail address, we may share your decision to opt out with third parties to effectuate that decision;
+  * If the information is required by law in order to prevent, investigate, or take action regarding illegal activities. In addition, we will share information in response to legal process, court orders, subpoenas, or to establish or exercise our legal rights or defend against legal claims;
+  * To the extent permitted by law, we may also disclose the Information: (i) when required by a federal or state regulatory agency; or (ii) whenever we believe that disclosing such Information is necessary or advisable, for example, to protect the rights, property, or safety of DY or others.
+  * We may share some or all of your Information with any of our parent companies, subsidiaries, joint ventures, or other companies under common control with us.
+  * Information collected from End Users of the DY Offering, including PII, may be transferred as part of or in connection with a corporate merger, consolidation, restructuring, the sale of substantially all of our shares or stock and/or assets or other corporate change, including, during the course of any due diligence process. By making available your data through the Offering in any manner, you agree that your information may be transferred to third parties under such or similar circumstances.
+  * For the purpose of providing and operating the Offering we may share PII with trusted third-party service providers that require access to such data for purpose of providing Offering-related services to us only. Any data processing performed by any third party with whom we have provided End User information (either PII or non-PII) will, if and when required by law, be governed by a data sharing agreement, in which we will require that these third parties comply with this Privacy Policy or with privacy policies at least as protective as this Privacy Policy; and,
+  * If we and/or our enterprise clients have your permission to do so.
+
+
+
+**_Links_**
+
+Our Site may have links to the sites of other companies, including those of our enterprise clients. We are not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies by visiting their respective websites, apps, etc.
+
+**_Policy Toward Children_**
+
+We do not knowingly collect PII from children under the age of 13. If you are under 13, please do not give us any Personal Information. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Website Privacy Policy by instructing their children never to provide Personal Information through the Website without their permission. If a parent or guardian becomes aware that his or her child has provided us with PII without his/her consent, he or she should contact us at privacy@dynamicyield.com. If we become aware that a child under the age of 13 has provided us with PII, we will delete such information from our files.
+
+**_Security_**
+
+We follow generally accepted industry standards to protect the Information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, due to the nature of Internet communications and evolving technologies, unauthorized entry or use, hardware or software failure, and other factors, the security of End User information may be compromised at any time. Therefore, we cannot guarantee the absolute security of the Information and disclaim any assurance that such information will remain free from loss, misuse, or alteration by third parties who, despite our efforts, obtain unauthorized access.
+
+**California Privacy Rights**
+
+DY does not monitor, recognize, or honor any opt-out or do not track mechanisms, including general web browser “Do Not Track” settings and/or signals. If an End User is a California resident, California Civil Code Section 1798.83(c)(2) permits such individual to request information regarding the disclosure of his/her information by DY to third parties for such third parties’ direct marketing purposes. To make such a request, please send us an email to [privacy@dynamicyield.com](mailto:privacy@dynamicyield.com).
+
+**_Accessing and Modifying Information and Communication Preferences_**
+
+Visitors who have provided Personal Information to us may access, remove, review, and/or make changes to the same by following the instructions found on the Website. In addition, you may manage your receipt of marketing and communications by clicking on the “unsubscribe” link located on the bottom of any DY marketing e-mail or by following the instructions found on the Website. We will use commercially reasonable efforts to process such requests in a timely manner. You should be aware, however, that it is not always possible to completely remove or modify information in our subscription databases.
+
+**_International Transfer of Data_**
+
+In the process of making available the Offering to its End Users, DY may transfer information that it collects to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. By using the Offering, you consent to the transfer of your information to the United States and elsewhere.
+
+**_Important Notices to Non-U.S. Residents/Safe Harbor Certification_**
+
+DY complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. DY has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view DY’s certification, please visit http://www.export.gov/safeharbor/.
+
+However, it is important to note that the Website and its servers are operated in the United States and elsewhere. If you are located outside of the United States, please be aware that any Information will be transferred to, processed, and used in the United States and elsewhere. By using the Website and by providing us Personal Information when using our Website, you irrevocably and unconditionally consent to such transfer, processing, and use of the Information in accordance with this Website Privacy Policy.
+
+In order to comply with the Safe Harbor framework, DY commits to the resolution of complaints about your privacy and our collection or use of your Personal Information. We have also committed to resolve any complaints by European Union citizens relating to this Website Privacy Policy, which cannot be resolved directly with our company, through the United States Council for International Business’s Safe Harbor Privacy Dispute Resolution Procedures.
+
+If you have any questions regarding this Website Privacy Policy, please contact us as described in the “How to Contact Us” section below. We will investigate your question, respond to your inquiry, and attempt to resolve any concerns regarding your privacy question. If you do not receive acknowledgement of your complaint or, if your complaint is not satisfactorily addressed by DY, then please contact your local Data Protection Authority for more information and to file a complaint. We have registered with the United States Council for International Business to cover the operating costs of the EU DPAs’ Dispute resolution panel.
+
+**_Changes to This Website Privacy Policy_**
+
+This Website Privacy Policy is effective as of the date stated at the top of this Website Privacy Policy. We may change this Website Privacy Policy from time to time. By accessing and/or using the Website after we make any such changes to this Website Privacy Policy, you are deemed to have accepted such changes. Please be aware that, to the extent permitted by applicable law, our use of the Information is governed by the Website Privacy Policy in effect at the time we collect the Information. Please refer back to this Website Privacy Policy on a regular basis.
+
+**_How to Contact Us_**
+
+If you have questions about this Website Privacy Policy, please contact DY via e-mail at [privacy@dynamicyield.com](mailto:privacy@dynamicyield.com) with “PRIVACY POLICY” in the subject line or at the contact information on our Contact Us page.
+
+[1] Please note that our privacy practices governing our proprietary marketing optimization technology is governed by our Platform Privacy Policy.
