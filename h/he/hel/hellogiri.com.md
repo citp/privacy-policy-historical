@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellogiri.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109184445id_/http%3A//www.hellogiri.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellogiri.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531195919id_/http%3A//www.hellogiri.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Easy Technology
 
