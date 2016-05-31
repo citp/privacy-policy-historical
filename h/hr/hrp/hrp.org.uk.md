@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hrp.org.uk privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909133625id_/http%3A//www.hrp.org.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrp.org.uk privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531200707id_/http%3A//www.hrp.org.uk/privacy-and-cookie-policy) for the most accurate reproduction.*
 
-# Historic Royal Palaces > Home > Privacy and Cookie Policy
+# Privacy and Cookie Policy | Historic Royal Palaces
 
   1. General
   2. Data collection and use
@@ -15,9 +15,9 @@ Historic Royal Palaces are committed to protecting your privacy online.
 
 We will:
 
-    * not share your personal information for marketing or any other purposes without your consent unless where required by law. 
-    * always respect your privacy and any personal communication between you and ourselves. 
-    * always comply with any data protection legislation currently in force. 
+    * not share your personal information for marketing or any other purposes without your consent unless where required by law.
+    * always respect your privacy and any personal communication between you and ourselves.
+    * always comply with any data protection legislation currently in force.
 
 We will not sell your data to any third party.
 
@@ -39,7 +39,7 @@ We ask for your details so we can add you to our email database and send you upd
 
     3. #### When purchasing a ticket or other product online
 
-We collect various personal details about you when you purchase tickets or other products e.g. memberships online, including name, home address, billing address, telephone number, email etc. We use the information to process orders and to provide a more personalised service. Collecting these details allows our system to create a customer account for you in order that we can sell you tickets. Having a record of your personal details also allows us to identify you if we need to contact you regarding your booking, if you need to contact us to change your booking, or to help identify you if collecting tickets at one of our palaces. We are also able to help if tickets are lost by checking your personal details on the database. Additionally, our bank recommends that we take the billing address of people purchasing tickets in advance as this can help to prevent fraudulent use of credit cards. However, if you would prefer not to provide us with any of your personal information, you can buy tickets in person at any of the ticket offices at our palaces. For further information please see our [Terms and conditions](http://www.hrp.org.uk/Terms).
+We collect various personal details about you when you purchase tickets or other products e.g. memberships online, including name, home address, billing address, telephone number, email etc. We use the information to process orders and to provide a more personalised service. Collecting these details allows our system to create a customer account for you in order that we can sell you tickets. Having a record of your personal details also allows us to identify you if we need to contact you regarding your booking, if you need to contact us to change your booking, or to help identify you if collecting tickets at one of our palaces. We are also able to help if tickets are lost by checking your personal details on the database. Additionally, our bank recommends that we take the billing address of people purchasing tickets in advance as this can help to prevent fraudulent use of credit cards. However, if you would prefer not to provide us with any of your personal information, you can buy tickets in person at any of the ticket offices at our palaces. For further information please see our [Terms and conditions](https://web.archive.org/Terms).
 
 The information we collect will not be given to any third party, except to the extent and for the purpose we may be required to do so by any law. If you wish us to stop contacting you email [marketing@hrp.org.uk](mailto:marketing@hrp.org.uk "Send an email to marketing@hrp.org.uk")
 
@@ -84,7 +84,7 @@ You have the ability to accept or decline cookies by modifying the settings in y
 
 You may wish to visit [www.aboutcookies.org](http://www.aboutcookies.org/) which contains comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your computer as well as more general information about cookies. For information on how to do this on the browser of your mobile phone or tablet you will need to refer to your device manual.
 
-If you'd like to opt out of advertising cookies, please go to the Network Advertising Initiative website <http://www.networkadvertising.org/managing/opt_out.asp> (opens in a new window - please note that we're not responsible for the content of external websites)
+If you'd like to opt out of advertising cookies, please go to the Network Advertising Initiative website [http://www.networkadvertising.org](http://www.networkadvertising.org/)/ (opens in a new window - please note that we're not responsible for the content of external websites)
 
   5. ### Links to other websites
 
