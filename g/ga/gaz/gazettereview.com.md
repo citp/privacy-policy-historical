@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gazettereview.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130052712id_/http%3A//gazettereview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gazettereview.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531171133id_/http%3A//gazettereview.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Gazette Review
+# Website Policies - The Gazette Review
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at support@gazettereview.com.
 
@@ -31,6 +31,14 @@ If you wish to disable cookies, you may do so through your individual browser op
 **Amazon Affiliate  Disclaimer**
 
 The Gazette Review participates in the Amazon Associates Program.  This program allows our organization to earn advertising commissions by linking to products and services available on Amazon.com
+
+**Affiliate Commission Disclaimer**
+
+Disclosure of Material Connection: Some of the links on content throughout our website are “affiliate links.” This means if you click on the link and purchase the item, our company will receive an affiliate commission. Regardless, our authors only recommend products or services they personally use or believe will add value to my readers. I am disclosing this in accordance with the Federal Trade Commission’s [16 CFR, Part 255](http://www.access.gpo.gov/nara/cfr/waisidx_03/16cfr255_03.html): “Guides Concerning the Use of Endorsements and Testimonials in Advertising.”
+
+**Reviews & Samples Disclaimer:**
+
+A variety of companies provide products or services to GazetteReview.com for free in the hopes that I would mention it on my blog. Regardless, our authors only recommend products or services they believe are good fits for our readership. This am disclosing this in accordance with the Federal Trade Commission’s [16 CFR, Part 255](http://www.access.gpo.gov/nara/cfr/waisidx_03/16cfr255_03.html): “Guides Concerning the Use of Endorsements and Testimonials in Advertising.”
 
 **Medical Disclaimer**
 
