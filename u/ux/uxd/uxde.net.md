@@ -1,53 +1,40 @@
-> *The following text is extracted and transformed from the uxde.net privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206041717id_/http%3A//www.famethemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uxde.net privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531120857id_/https%3A//www.famethemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FameThemes
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+Your privacy is critically important to us.
 
-### What Information Do We Collect
+### Website Visitors
 
-When you visit our website you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and website use information collected on an aggregate basis as you and others browse the site.
+Like most website operators, FameThemes collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. FameThemes’s purpose in collecting non-personally identifying information is to better understand how FameThemes’s visitors use its website. From time to time, FameThemes may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
- **Registration Information**
+FameThemes also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on WordPress.com blogs. FameThemes only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog where the comment was left.
 
-You will provide us information about yourself, your firm or company, and your practices when you purchase FAMEThemes products and services, register for forum support, or register for email newsletters and alerts.
+### Gathering of Personally-Identifying Information
 
- **Email Information**
+Certain visitors to FameThemes’s websites choose to interact with FameThemes in ways that require FameThemes to gather personally-identifying information. The amount and type of information that FameThemes gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a blog at WordPress.com to provide a username and email address. Those who engage in transactions with FameThemes – by purchasing access to the Akismet comment spam prevention service, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, FameThemes collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with FameThemes. FameThemes does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses.
+### Aggregated Statistics
 
- **Cookie Information**
+FameThemes may collect statistics about the behavior of visitors to its websites. For instance, FameThemes may monitor the most popular blogs on the WordPress.com site or use spam screened by the Akismet service to help identify spam. FameThemes may display this information publicly or provide it to others. However, FameThemes does not disclose personally-identifying information other than as described below.  
+Protection of Certain Personally-Identifying Information
 
-Similar to other commercial websites, this site utilizes a standard technology called “cookies” (see explanation below, “What Are Cookies?”) and Web server logs to collect information about how this site is used. Information gathered through cookies and web server logs may include the date and time of visits, the pages viewed, time spent at this site, and the websites visited just before and just after our site. We, our advertisers and ad serving companies may also use small technology or pieces of code to determine which advertisements and promotions users have seen and how users responded to them.
+FameThemes discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on FameThemes’s behalf or to provide services available at FameThemes’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using FameThemes’s websites, you consent to the transfer of such information to them. FameThemes will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, FameThemes discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when FameThemes believes in good faith that disclosure is reasonably necessary to protect the property or rights of FameThemes, third parties or the public at large. If you are a registered user of an FameThemes website and have supplied your email address, FameThemes may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with FameThemes and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. FameThemes takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
- **Automatic Information**
+### Cookies
 
-We automatically receive information from your web browser or mobile device. This information includes the name of the website from which you entered our Website, if any, as well as the name of the website to which you’re headed when you leave our website. This information also includes the IP address of your computer/proxy server that you use to access the Internet, your Internet Website provider name, web browser type, type of mobile device, and computer operating system. We use all of this information to analyze trends among our Users to help improve our Website.
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. FameThemes uses cookies to help FameThemes identify and track visitors, their usage of FameThemes website, and their website access preferences. FameThemes visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using FameThemes’s websites, with the drawback that certain features of FameThemes’s websites may not function properly without the aid of cookies.
 
-### How We Use Information
+### Business Transfers
 
-Broadly speaking, we use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to this website, new services and special offers we think you will find valuable. You may notify us of your desire not to receive these offers by clicking the unsubscribe link contained in each such email.
+If FameThemes, or substantially all of its assets, were acquired, or in the unlikely event that FameThemes goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of FameThemes may continue to use your personal information as set forth in this policy.
 
-### What are Cookies?
+### Ads
 
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a website, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each website can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites. Some of our business partners (e.g., advertisers) use cookies that originate from their sites. We have no access or control over those cookies.
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by FameThemes and does not cover the use of cookies by any advertisers.
 
-### New Services and Changes
+### Privacy Policy Changes
 
-Occasionally, we may also use the information we collect to notify you about important changes to this website, new services, and special offers we think you will find valuable. As our customer, you will be given the opportunity to notify us of your desire not to receive these offers by clicking the unsubscribe link contained in each such email.
+Although most changes are likely to be minor, FameThemes may change its Privacy Policy from time to time, and in FameThemes’s sole discretion. FameThemes encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a WordPress.com account, you should also check your blog’s dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-### Links to Other Websites
-
-Our Website may contain links to other websites that are not under our direct control. These websites may have their own policies regarding privacy. We have no control of or responsibility for linked websites and provide these links solely for the convenience and information of our visitors. You access such linked Websites at your own risk. These websites are not subject to this Privacy Policy. You should check the privacy policies, if any, of those individual websites to see how the operators of those third-party websites will utilize your personal information. In addition, these websites may contain a link to Websites of our affiliates. The websites of our affiliates are not subject to this Privacy Policy, and you should check their individual privacy policies to see how the operators of such websites will utilize your personal information.
-
-### Our Email Policy
-
-Our affiliates and we fully comply with national laws regarding SPAM. You can always opt out of receipt of further email correspondence from us and/or our affiliates. We agree that we will not sell, rent, or trade your email address to any unaffiliated third-party without your permission.
-
-### Our Security Policy
-
-We have constructed our Website using industry standard encryption and authentication tools to protect your Personally Identifiable Information. When we collect your Personally Identifiable Information through our Website, we encrypt this information and attempt to prevent unauthorized access to it by using industry standard technologies, such as encryption software, routers and firewalls. Unfortunately, due to the nature of the Internet, we cannot completely guarantee that your Personally Identifiable Information is completely protected. We strongly urge you to protect any password you may have for our Website and to not share it with anyone. You should always log out of our Website when not in use, especially if you are sharing a computer or mobile device with someone else or are using a public computer.
-
-### Privacy Policy Updates
-
-We reserve the right to modify this Privacy Policy at any time. You should review this Privacy Policy frequently. If we make material changes to this policy, we may notify you on our Website, by a blog post, by email, or by any method we determine. The method we chose is at our sole discretion. We will also change the “Last Updated” date at the beginning of this Privacy Policy. Any changes we make to our Privacy Policy are effective as of this Last Updated date and replace any prior Privacy Policies.
+Note: this Privacy Policy was derived from [Automattic’s version](http://automattic.com/privacy/), which is available under a [Creative Commons Sharealike](http://creativecommons.org/licenses/by-sa/2.5/) license.
