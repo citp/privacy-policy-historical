@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edmundoptics.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214132439id_/http%3A//www.edmundoptics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edmundoptics.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601002448id_/http%3A//www.edmundoptics.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Edmund Optics
+# Privacy Policy
 
 Edmund Optics, Inc. (EO) and its global subsidiaries recognize the importance of your privacy. To ensure that your needs with regard to this are being met, please take a few moments to familiarize yourself with our policy.
 
@@ -10,7 +10,7 @@ Edmund Optics is a business-to-business company and is not oriented to the consu
 
 ### Information Collected by Edmund Optics
 
-Edmund Optics collects information about users' activities during their visits to our websites and interactions with our staff. These activities include, but are not limited to: registration, requesting a catalog, placing an order, requesting a quote, responding to a promotion and other communications via letter, phone, fax and email. The information collected may include name, company, mailing address, email address, phone and fax numbers, and other demographic/firmographic information. We also collect and aggregate information about which web pages our visitors access. Our cookies are primarily designed to retain ordering and registration information for customer convenience, to avoid re-keying data. These cookies reside on your hard drive and can be deleted by you at anytime. 
+Edmund Optics collects information about users' activities during their visits to our websites and interactions with our staff. These activities include, but are not limited to: registration, requesting a catalog, placing an order, requesting a quote, responding to a promotion and other communications via letter, phone, fax and email. The information collected may include name, company, mailing address, email address, phone and fax numbers, and other demographic/firmographic information. We also collect and aggregate information about which web pages our visitors access. Our cookies are primarily designed to retain ordering and registration information for customer convenience, to avoid re-keying data. These cookies reside on your hard drive and can be deleted by you at anytime.
 
 ### What We Do With the Information We Gather
 
@@ -20,7 +20,7 @@ The primary use of the information is to improve our ability to meet your needs.
 
 If you do not want to receive email, postal mailings or telephone calls from Edmund Optics in the future, please let us know by contacting us in one of the methods outlined below. Please specify what type of communication you don't want to receive and we will remove your name from our marketing list and those we share with others from the date we process your notice. You may continue to receive direct mail or catalog mailings after you have asked us not to send them. This can occur due to timing delays in updating applicable computer systems or due to incorrect, out of date or duplicate contact information. If this happens to you, contact us to inform us of the problem.
 
-When making these requests, please include as much information as possible about your account: full name, company name, address, email, customer number, account number. 
+When making these requests, please include as much information as possible about your account: full name, company name, address, email, customer number, account number.
 
 Mail:   
 Database Director  
