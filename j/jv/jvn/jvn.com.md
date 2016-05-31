@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the jvn.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226014544id_/http%3A//www.jvn.com/privacy-policy/uncategorised/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jvn.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531165920id_/https%3A//www.jvn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Dear valued JVN customer,** We love to engage our customers and get them involved in the brand in various ways. We solicit comments about our dresses, host contests and generally love hearing about your experiences in your beautiful JVN gowns. Your privacy is important to us, and protection of the information you provide is a top priority for us. We share your desire to keep your personally identifying information confidential and to prevent unwanted solicitation. We encourage you to read our privacy policy below so you have a better understanding of how we safe-guard your personal information: 
+﻿
+
+ **Dear valued JVN customer,** We love to engage our customers and get them involved in the brand in various ways. We solicit comments about our dresses, host contests and generally love hearing about your experiences in your beautiful JVN gowns. Your privacy is important to us, and protection of the information you provide is a top priority for us. We share your desire to keep your personally identifying information confidential and to prevent unwanted solicitation. We encourage you to read our privacy policy below so you have a better understanding of how we safe-guard your personal information: 
 
   * • **How we collect your information**
   * i. JVN may collect information from our customers via several platforms, including through: our website at www.jvn.com, Facebook, Twitter, Blogger, Tumblr, YouTube, Google+, Linked In, Wordpress, Pinterest, fan letters and emails we receive.
