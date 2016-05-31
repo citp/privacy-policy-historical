@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the paypal-media.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905170416id_/https%3A//www.paypal.com/us/cgi-bin/marketingweb%3Fcmd%3Dp/gen/ua/policy_privacy-outside) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paypal-media.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531095351id_/https%3A//www.paypal.com/us/webapps/mpp/ua/privacy-full) for the most accurate reproduction.*
 
 # PayPal
 
 >> [View all legal agreements](https://www.paypal.com/us/webapps/mpp/ua/legalhub-full "Legal Agreements")
 
-Effective Date: July 1, 2015
+Effective Date: October 1, 2015
 
  
 
@@ -44,7 +44,7 @@ You accept this Privacy Policy when you sign up for, access, or use our products
 
 We collect the following types of personal information in order to provide you with the use of PayPal Services, and to help us personalize and improve your experience.
 
-**Information we collect automatically:**  When you use PayPal Services, we collect information sent to us by your computer, mobile phone or other access device. The information sent to us includes, but is not limited to, the following: data about the pages you access, computer IP address, device ID or unique identifier, device type, geo-location information, computer and connection information, mobile network information, statistics on page views, traffic to and from the sites, referral URL, ad data, and standard web log data and other information. We also collect anonymous information through our use of cookies and web beacons (visit [ **How we use Cookies and Similar Technologies**](https://www.paypalobjects.com/webstatic/ua/pdf/cookie/PayPal_Cookie_Policy.pdf) for more information).
+**Information we collect automatically:**  When you use PayPal Services, we collect information sent to us by your computer, mobile phone or other access device. The information sent to us includes, but is not limited to, the following: data about the pages you access, computer IP address, device ID or unique identifier, device type, geo-location information, computer and connection information, mobile network information, statistics on page views, traffic to and from the sites, referral URL, ad data, and standard web log data and other information. We also collect anonymous information through our use of cookies and web beacons (visit [ **How we use Cookies and Similar Technologies**](https://www.paypal.com/us/webapps/mpp/ua/cookie-full) for more information).
 
 **Information you provide to us:**  We may collect and store any information you provide us when you use PayPal Services, including when you add information on a web form, add or update your account information, participate in community discussions, chats, or dispute resolutions, or when you otherwise correspond with us regarding PayPal Services.
 
@@ -110,7 +110,7 @@ You are free to decline our Cookies if your browser or browser add-on permits, u
 
 **Do Not Track:**  Do Not Track (DNT) is an optional browser setting that allows you to express your preferences regarding tracking by advertisers and other third-parties. We do not currently respond to DNT signals. We do, however, provide you notice of the tracking by advertisers and other third parties in our Privacy and Cookies policies.
 
-For more detailed information on our use of these technologies, please see our policy on [ **Cookies, Web Beacons, and Similar Technologies**](https://www.paypalobjects.com/webstatic/ua/pdf/cookie/PayPal_Cookie_Policy.pdf).
+For more detailed information on our use of these technologies, please see our policy on [ **Cookies, Web Beacons, and Similar Technologies**](https://www.paypal.com/us/webapps/mpp/ua/cookie-full).
 
 **Back to top**
 
@@ -144,7 +144,7 @@ Regardless, we will not disclose your credit card number or bank account number 
 
 We may share your personal information we collect from you, including your name, contact details, and transactions and activities, with:
 
-  * Members of the PayPal corporate family, such as PayPal Credit, Venmo or Braintree, to provide joint content, products, and services (such as registration, transactions and customer support), to help detect and prevent potentially illegal acts and violations of our policies, and to guide decisions about their products, services, and communications. Members of our corporate family will use this information to send you marketing communications only if you have requested their services. Financial institutions that we partner with to jointly create and offer a product (including but not limited to, the PayPal Extras credit card where we share information with GE Capital to determine whether you should receive pre-approved offers for the PayPal Extras credit card). These financial institutions may only use this information to market PayPal-related products, unless you have given consent for other uses.
+  * Members of the PayPal corporate family, such as PayPal Credit, Venmo or Braintree, to provide joint content, products, and services (such as registration, transactions and customer support), to help detect and prevent potentially illegal acts and violations of our policies, and to guide decisions about their products, services, and communications. Members of our corporate family will use this information to send you marketing communications only if you have requested their services. Financial institutions that we partner with to jointly create and offer a product (including but not limited to, the PayPal Extras credit card where we share information with Synchrony Bank, for example, in connection with pre-approved offers for the PayPal Extras credit card). These financial institutions may only use this information to market PayPal-related products, unless you have given consent for other uses.
   * Credit bureaus and collection agencies to report account information, as permitted by law.
   * Banking partners as required by credit card association rules for inclusion on their list of terminated merchants (in the event that you meet their criteria which includes having PayPal close your PayPal Account due to your breach of the PayPal User Agreement).
   * Companies that we plan to merge with or are acquired by. (Should such a combination occur, we will require that the new combined entity follow this Privacy Policy with respect to your personal information. If your personal information could be used contrary to this policy, you will receive prior notice.)
