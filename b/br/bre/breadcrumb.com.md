@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the breadcrumb.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325042128id_/https%3A//breadcrumb.groupon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breadcrumb.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531173832id_/https%3A//breadcrumb.com/privacy) for the most accurate reproduction.*
 
-# Breadcrumb - Privacy
+# Privacy Policy | Breadcrumb Point of Sale
 
-This Privacy Statement explains how Pospitality, LLC (“Pospitality”) collects, uses, shares and protects personally identifiable information obtained from visitors to the generally accessible web pages located at www.breadcrumbpos.com (the “Site”) that link to this Privacy Statement. This Privacy Statement does not cover any other information that Pospitality collects, including without limitation, information that Pospitality collects offline or information it collects from registered users and customers about their businesses, employees or patrons via online accounts, applications, or password-restricted websites.
-
-In this Privacy Statement, “we”, “us”, “our”, and similar terms refer to Pospitality, and “you”, “your”, and similar terms refer to you, a visitor to the Site. If you visit the Site on behalf of a company, partnership, organization, or other entity, then “you” and similar terms refer to both you and that entity. If you do not agree to the terms and conditions of this Privacy Statement, you may not visit this Site. If you are under the age of 13, you are not permitted to use this Site or to provide any personal information to us.
+This Privacy Statement explains how Pospitality, LLC (“Pospitality”) collects, uses, shares and protects personally identifiable information obtained from visitors to the generally accessible web pages located at www.breadcrumbpos.com (the “Site”) that link to this Privacy Statement. This Privacy Statement does not cover any other information that Pospitality collects, including without limitation, information that Pospitality collects offline or information it collects from registered users and customers about their businesses, employees or patrons via online accounts, applications, or password-restricted websites. In this Privacy Statement, “we”, “us”, “our”, and similar terms refer to Pospitality, and “you”, “your”, and similar terms refer to you, a visitor to the Site. If you visit the Site on behalf of a company, partnership, organization, or other entity, then “you” and similar terms refer to both you and that entity. If you do not agree to the terms and conditions of this Privacy Statement, you may not visit this Site. If you are under the age of 13, you are not permitted to use this Site or to provide any personal information to us.
 
 ### What Information We Collect
 
@@ -32,4 +30,4 @@ We reserve the right to make changes to this Privacy Statement at any time. The 
 
 ### Questions?
 
-All comments, queries and requests relating to our use of your information are welcomed and should be addressed to info@breadcrumbpos.com.
+All comments, queries and requests relating to our use of your information are welcomed and should be addressed to info@breadcrumbpos.com. 
