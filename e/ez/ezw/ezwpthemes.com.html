@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ezwpthemes.com privacy policy that was archived on 2015-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151222072822id_/http%3A//www.ezwpthemes.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ezwpthemes.com privacy policy that was archived on 2016-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160531141014id_/https%3A//www.ezwpthemes.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,24 +7,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="shortcut icon" href="assets/ico/favicon.png">
+    <link rel="shortcut icon" href="/assets/ico/favicon.png">
 
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+      <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="//oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
 
     <!-- Custom styles for this template -->
 	<link rel="stylesheet" href="/assets/css/font-awesome.min.css">
 	<link rel="stylesheet" href="/assets/css/style.css">
 	<link rel="stylesheet" href="/assets/css/custom.css">
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,500,700" type="text/css">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300,300italic,500,700" type="text/css">
 	
-			
+		
   </head>
   
 			<body class="full">
@@ -49,7 +49,7 @@
 
         <div class="navbar-header">
           <div class="navbar-brand">
-            <a title="EZ WP Themes" href="/"><img src="/assets/img/logo.png" alt="EZ WP Themes"></a>
+            <a href="/"><img src="/assets/img/logo.png"></a>
           </div>
 
 			
@@ -63,6 +63,7 @@
         <nav class="nav-main hidden-xs" role="navigation">
           <ul id="menu-main" class="nav navbar-nav">
             <li class="dropdown"><a class="dropdown-toggle" data-target="#" href="/">Home</a></li>
+			<li class="dropdown"><a class="dropdown-toggle" data-target="#" href="/search.html">Advanced Search</a></li>
           </ul>    
         </nav>
 
@@ -71,6 +72,7 @@
           <nav class="nav-responsive collapse" role="navigation">
             <ul class="nav">
               <li><a href="/">Home</a></li>
+				<li><a href="/search.html">Advanced Search</a></li>
             </ul>       
           </nav>
         </div>
@@ -89,17 +91,24 @@
 									</p>
           </div>
           <div class="col-sm-4 col-lg-4">
-            <form role="search" method="get" id="searchform" class="form-search" action="/details.php">
+            <!--form role="search" method="get" id="searchform" class="form-search" action="/details.php" onsubmit="detection_start();">
               <div class="append-icon">
                 <input type="text" value="" name="s" id="s" class="form-control input-lg" autocomplete="on" placeholder="Ex: www.wordpresssite.com">
                 <span><button class="btn btn-info btn-sm btn-top-search"><i class="fa fa-search fa-lg"></i>&nbsp;&nbsp;Search</button></span>
               </div>
+            </form-->
+			
+			<form method="post" id="searchform" class="form-search" action="/search.html">
+              <div class="append-icon">
+                <input type="text" value="" name="search" id="autocomplete-dynamic" class="form-control input-lg search-page" autocomplete="on" placeholder="Theme, Plugin, Hosting Name">
+                <span><button class="btn btn-info btn-sm btn-top-search"><i class="fa fa-search fa-lg"></i>&nbsp;&nbsp;Search</button></span>
+              </div>
             </form>
+			
           </div>
         </div>
       </div>
-    </div>	  
-  
+    </div>	
     <!-- Main content -->
     <div class="wrap container" role="document">
       <div class="content row">
@@ -167,14 +176,22 @@
                   </a>
                 </li>
               </ul>
-              <p class="copyright">Copyright © 2015 EZWPThemes.com</p>       
+              <p class="copyright">Copyright © 2015-2016 EZWPThemes.com</p>       
             </div>
           </div>
         </div>
       </div>
 
     </footer>
-
+	
+	<div id="detecting-div">
+		<div id="detecting-div-image">
+			<p><b>Please wait while we retrieve the site information...</b></p>
+			<img src="/assets/loading/13.gif" width="64px" alt="Loading...">
+		</div>
+		<div id="detecting-div-dim"></div>	  
+	</div>
+	
     <!-- Javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
@@ -185,6 +202,7 @@
     <script type="text/javascript" src="/assets/js/jquery.backstretch.min.js"></script>
     <script type="text/javascript" src="/assets/js/jquery.fitvids.js"></script>
     <script type="text/javascript" src="/assets/js/application.js"></script>
+    <script type="text/javascript" src="/assets/js/pk.custom.js"></script>
 	
   
 			
