@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysubwaycard.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927131626id_/https%3A//www.mysubwaycard.com/English/privacy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysubwaycard.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531211557id_/https%3A//www.mysubwaycard.com/English/privacy/privacy) for the most accurate reproduction.*
 
 # My SUBWAY® Card | Privacy Policy
 
@@ -34,7 +34,7 @@ VPS shares Personal Information and non-Personal Information with the following 
 
 (2) the SUBWAY® international purchasing cooperatives: European Independent Purchasing Cooperative (“EIPC”), Latin America and Caribbean Independent Purchasing Cooperative (“LACIPC”), Independent Purchasing Cooperative (Australasia) Limited (“IPCA”), and Middle East Independent Purchasing Cooperative (“MEIPC”), all of which are member-owned and operated entities composed of all of the SUBWAY® Franchisees located in the European Union (EIPC), Latin America and the Caribbean (LACIPC), Australia (IPCA) and the Middle East (MEIPC). For convenience, EIPC, LACIPC, IPCA, and MEIPC are collectively referred to herein as the “Co-op Group”;
 
-(3) Franchise World Headquarters LLC (“FWH”), which provides core business-related services to Doctor’s Associates Inc. (“DAI”), the franchisor of the SUBWAY® line of restaurants. DAI owns and licenses the SUBWAY® trademark and SUBWAY® Restaurant System to its affiliates, including, but not limited to, Subway International B.V. (“SIBV”), Subway Systems Australia Pty Ltd (“SSA”), Subway Franchise Systems of Canada, Ltd. (“SFSC”), Subway Partners Colombia C.V. (“SPCCV”), Subway Systems do Brasil Ltda. (“SSB”), Sandwich and Salad Franchises of South Africa Pty Ltd. (“SSFSA”) and Subway Systems India Private Limited (“SSIPL”), in order to develop SUBWAY® restaurants worldwide. For convenience, FWH, DAI, SIBV, SSA, SFSC, SPCCV, SSB, SSFSA, and SSIPL are collectively referred to herein as the “SUBWAY® Group”; and
+(3) Franchise World Headquarters LLC (“FWH”), which provides core business-related services to Doctor’s Associates Inc. (“DAI”), the franchisor of the SUBWAY® line of restaurants and SUBWAY IP Inc., the owner of the trademark and SUBWAY Restaurant System. Subway IP owns and licenses the SUBWAY® trademark and SUBWAY® Restaurant System to its affiliates, including, but not limited to, DAI, Subway International B.V. (“SIBV”), Subway Systems Australia Pty Ltd (“SSA”), Subway Franchise Systems of Canada, Ltd. (“SFSC”), Subway Partners Colombia C.V. (“SPCCV”), Subway Systems do Brasil Ltda. (“SSB”), Sandwich and Salad Franchises of South Africa Pty Ltd. (“SSFSA”) and Subway Systems India Private Limited (“SSIPL”), in order to develop SUBWAY®® restaurants worldwide. For convenience, FWH, DAI, Subway IP, SIBV, SSA, SFSC, SPCCV, SSB, SSFSA, and SSIPL are collectively referred to herein as the “SUBWAY® Group”; and
 
 (4) The following SUBWAY® Group advertising entities: Subway Franchisee Advertising Fund Trust, Ltd. (“SFAFT”), Subway Franchisee Advertising Fund of Canada, Inc. (“SFAFC”), Subway Franchisee Advertising Fund of Australia Pty. Ltd. (“SFAFA”) and Subway Franchisee Advertising Fund Trust B.V. (“SFAFTBV”). For convenience, SFAFT, SFAFC, SFAFA and SFAFTBV are collectively referred to herein as the “FAF Group”.
 
@@ -78,6 +78,8 @@ If you do not wish to receive a Cookie, or if you wish to set your browser to wa
 
 
 **C. Prospective and Actual SUBWAY ® Franchisees.** VPS collects and uses Personal Information from prospective and actual SUBWAY® Franchisees in order to provide services to them. Personal Information collected from prospective and actual SUBWAY® Franchisees includes but is not limited to name, birthdate, address, email address, home or mobile telephone number, facsimile number, password, and SSN/I.N. VPS will also collect a SUBWAY® Franchisee’s store name, address, bank account information for Electronic Funds Transfer, credit card information, and other related information necessary for billing purposes, such as the SUBWAY® Franchisee’s mailing address for credit card validation. VPS may collect this information from the SUBWAY® Franchisees directly or VPS may receive it from IPC, the Co-op Group, the SUBWAY® Group, the FAF Group, or other sources. For example, in order for VPS to implement the SUBWAY® Card and Rewards Programs, VPS must have access to the SUBWAY® Franchisee’s Personal Information, including but not limited to name, address, and the bank account information provided to establish the SUBWAY® Franchisee’s pre-authorized SUBWAY® Card and Rewards Programs account. In addition, VPS also may use a prospective or actual SUBWAY® Franchisee’s Personal Information to respond to incoming service and support requests from such Franchisee, to communicate with such Franchisee regarding such Franchisee’s account(s), to collect Franchisee feedback, to conduct Franchisee satisfaction surveys, to offer promotions to such Franchisee, and to send other service informational mailings. VPS may also provide a SUBWAY® Franchisee’s Personal Information to a courier or freight forwarder in order to fulfill any order placed by such Franchisee.
+
+If you are a prospective or actual SUBWAY® Franchisee and you do not want VPS to collect or use your Personal Information, you must notify the VPS DAI (in the U.S.) and SFSC (in Canada), and FWH Privacy Officers, in writing, as set forth in Section XIII below. Please note that denying VPS access to or use of the requested Personal Information may negatively impact your ability to operate as a SUBWAY® Franchisee and/or to participate in certain programs that may be mandatory for SUBWAY® Franchisees.
 
 If you are a prospective or actual SUBWAY® Franchisee and you do not want VPS to collect or use your Personal Information, you must notify the VPS, DAI, and FWH Privacy Officers, in writing, as set forth in Section XIII below. Please note that denying VPS access to or use of the requested Personal Information may negatively impact your ability to operate as a SUBWAY® Franchisee and/or to participate in certain programs that may be mandatory for SUBWAY® Franchisees.
 
@@ -178,9 +180,9 @@ Telephone: (888) 445-9239
 Facsimile: (305) 670-4465  
 Email: [privacyofficer@ipcoop.com](mailto:privacyofficer@ipcoop.com)
 
-If you need to contact the DAI or FWH Privacy Officers, they can be reached at:
+If you need to contact the Subway IP or FWH Privacy Officers, they can be reached at:
 
-DAI Privacy Officer  
+Subway IP Privacy Officer  
 Franchise World Headquarters LLC  
 325 Sub Way  
 Milford, CT 06461  
