@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theshoegame.com privacy policy that was archived on 2015-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151012082956id_/http%3A//theshoegame.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theshoegame.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531212418id_/http%3A//theshoegame.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy | TheShoeGame.com - Sneakers & Information
+# Privacy Policy - TheShoeGame.com - Sneakers & Information
 
 **TheShoeGame.com - Sneakers & Information** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://cybec.com/what-is-a-privacy-policy/) to learn more about privacy policies in general.
 
