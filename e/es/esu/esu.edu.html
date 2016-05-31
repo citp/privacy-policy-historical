@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the esu.edu privacy policy that was archived on 2015-11-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151130000326id_/http%3A//www4.esu.edu/about/notices.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the esu.edu privacy policy that was archived on 2016-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160531084255id_/http%3A//www.esu.edu/about/notices.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><head>
 	<meta charset="UTF-8">
@@ -18,21 +18,21 @@
 		
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 	
-	<link rel="shortcut icon" href="/favicon.ico">
-    <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon.png">
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72x72-precomposed.png">
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114-precomposed.png">
+	<link rel="shortcut icon" href="http://www4.esu.edu/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" href="http://www4.esu.edu/apple-touch-icon.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www4.esu.edu/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www4.esu.edu/apple-touch-icon-114x114-precomposed.png">
     
-	<link rel="stylesheet" href="/css/style-cache.css?v=2015b">
+	<link rel="stylesheet" href="http://www4.esu.edu/css/style-cache.css?v=2015b">
 
-	<meta url="www4.esu.edu">
+	<meta url="www.esu.edu">
 	
-	<link rel="stylesheet" media="handheld" href="/css/handheld.css">
-    <link rel="stylesheet" href="/css/rwd.css?v=2015a">
+	<link rel="stylesheet" media="handheld" href="http://www4.esu.edu/css/handheld.css">
+    <link rel="stylesheet" href="http://www4.esu.edu/css/rwd.css?v=2015a">
 	
 	<!--[if lt IE 9]>
 		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-		<link rel="stylesheet" href="/css/ie.css">
+		<link rel="stylesheet" href="http://www4.esu.edu/css/ie.css">
 	<![endif]-->
 	
     <!--[if IE 9]>
@@ -65,6 +65,7 @@
     
 
 
+	<!--
     <section id="emergency" style="display: none;">
     	<div id="emergencyContent">
             <img src="/images/icons/template/exclamation-icon.png" id="emergencyIcon">	
@@ -72,18 +73,16 @@
                 <h2>Test Alert</h2>
                 <p>This is a test of an emergency alert message.  There is no emergency right now.  Enjoy your day!  Please see esu.edu/emergency for the latest updates.</p>
             </a>
-            <!--
-            <p style="line-height: 135%;">&nbsp;</p>
-            -->
         </div>
     </section>
+	-->
 	<div id="container">
 		<header id="header">
 			<div class="container_16 blackShadow">
 				<div class="grid_4"><a id="headerLogo" href="http://www4.esu.edu"><img src="/images/esu_logo_large.png" alt="ESU Logo"></a>&nbsp;</div>
 				<div class="grid_3"><p id="headerTagLine">
 					<!-- com.omniupdate.div label="Random Word" path="/includes/randomWordDummy.cfm" -->
-						IMPACT 
+						ACHIEVE 
 					<!-- /com.omniupdate.div -->
 				</p></div>
 				<div class="grid_9 textRight">
@@ -135,7 +134,7 @@
 				<div class="dropdown_3columns"><!-- Begin 2 columns container -->
 					<div class="col_3">
 						<h3>Welcome to ESU!</h3>
-						<p class="black_box">East Stroudsburg Normal School opened it doors on September 4, 1893. Today, ESU is a comprehensive university in northeastern Pennsylvania offering 56 undergraduate and 24 graduate degrees and is one of the 14 institutions in the Pennsylvania State System of Higher Education.</p>
+						<p class="black_box">East Stroudsburg Normal School opened its doors on September 4, 1893. Today, ESU is a comprehensive university in northeastern Pennsylvania offering 56 undergraduate and 24 graduate degrees and is one of the 14 institutions in the Pennsylvania State System of Higher Education.</p>
 					</div>
 					<div class="col_1">
 						<h3>About</h3>
@@ -474,7 +473,7 @@ Greg Knowlden<br>
 </ul><!-- /com.omniupdate.div -->
 				<!-- com.omniupdate.div label="Breadcrumbs Right" path="/includes/breadcrumbs.cfm" -->
 									<ul id="breadCrumbsRight">
-					<li><a href="javascript:window.print()"><img src="/images/icons/printer.png" alt="Click Here to Print"></a></li>
+					<li><a href="javascript:window.print()"><img src="http://www4.esu.edu/images/icons/printer.png" alt="Click Here to Print"></a></li>
 				</ul>
 
 				<!-- /com.omniupdate.div -->
@@ -645,8 +644,23 @@ University websites use industry standard Secure Sockets Layer (SSL) software th
 
   ga('create', 'UA-32699032-1', 'esu.edu');
   ga('send', 'pageview');
-
 </script>
+<script>
+/* Outbound Links */
+$('a[href^="http"]:not(a[href*="www.esu.edu"]):not(a[href*="www4.esu.edu"])').live('click', function(e) {
+  if (ga.hasOwnProperty('loaded') && ga.loaded === true) {
+    url = $(e.target).closest("a").attr("href");
+    if (url) {	
+		e.preventDefault();
+		ga('send', 'event', 'outbound', 'click', url, {
+		  'transport': 'beacon',
+		  'hitCallback': function(){ document.location = url; }
+		});
+	}
+  }
+});
+</script>
+
 <script src="/js/site.js"></script>
 <script src="/js/fresh_url.min.js"></script>
 
