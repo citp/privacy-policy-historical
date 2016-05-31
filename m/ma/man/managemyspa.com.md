@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the managemyspa.com privacy policy that was archived on 2015-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150705235337id_/http%3A//www.managemyspa.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the managemyspa.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531094417id_/http%3A//www.zenoti.com/privacy.html) for the most accurate reproduction.*
 
-# ManageMySpa - Privacy Policy
+# Zenoti - Privacy Policy
 
 At Soham, Inc (Soham) we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by Soham or its subsidiaries or affiliated companies (collectively, Soham's "services"). 
 
@@ -8,7 +8,7 @@ If you have any questions about this Policy, please feel free to contact us thro
 
 ###  **INFORMATION COLLECTED**
 
-When you sign up for Soham’s services or buy Soham’s products at www.managemyspa.com (the “Site”), Soham collects and retains certain personal information. Soham receives and stores any information you enter on the Site or give to Soham in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of Soham’s services and products. Soham uses the information that you provide for such purposes as responding to your requests, customizing future services and products for you, improving Soham’s services and products, and communicating with you. 
+When you sign up for Soham’s services or buy Soham’s products at www.zenoti.com (the “Site”), Soham collects and retains certain personal information. Soham receives and stores any information you enter on the Site or give to Soham in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of Soham’s services and products. Soham uses the information that you provide for such purposes as responding to your requests, customizing future services and products for you, improving Soham’s services and products, and communicating with you. 
 
 This information is collected in several ways. For example, if you sign up for Soham’s services or buy its products, the Site will collect certain personal information required to make the purchase. If you sign up for Soham’s services Soham collects all the personal information necessary to provide you with the services purchased.
 
