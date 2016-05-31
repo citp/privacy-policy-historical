@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petzoid.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215082213id_/http%3A//www.petzoid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petzoid.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601010407id_/http%3A//www.petzoid.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
