@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deploybot.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119180501id_/http%3A//deploybot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deploybot.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601000049id_/http%3A//deploybot.com/privacy-policy) for the most accurate reproduction.*
 
 # DeployBot Privacy Policy
 
@@ -10,7 +10,7 @@ A cookie is a small amount of data that is sent to your browser from our servers
 
 ## Information Sharing
 
-We do not sell, rent or share personal information with third parties without your prior consent. We may, however, disclose personal information when we believe it violates our [Terms of Service](http://deploybot.com/tos) or is appropriate to comply with the law, to protect our or our users’ rights, as well as to protect our users from fraudulent, abusive, and unlawful use of our site. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website.
+We do not sell, rent or share personal information with third parties without your prior consent. We may, however, disclose personal information when we believe it violates our [Terms of Service](https://deploybot.com/tos) or is appropriate to comply with the law, to protect our or our users’ rights, as well as to protect our users from fraudulent, abusive, and unlawful use of our site. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website.
 
 ## Client Data and Storage
 
