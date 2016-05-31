@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wagner.edu privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005033538id_/http%3A//wagner.edu/communications/digital/website-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wagner.edu privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531124736id_/http%3A//wagner.edu/communications/digital/website-policies) for the most accurate reproduction.*
 
-# Digital Policies | Communications & Marketing
+# Digital Policies - Communications & Marketing
 
 Section I: Policies for web visitors
 
@@ -147,7 +147,7 @@ All official departments and offices of Wagner College must maintain their prima
     1. Wagner College will not tolerate offensive or abusive content on wagner.edu or any online platforms. Content that is deemed inappropriate will be removed immediately, and the user responsible for that content will have web permissions revoked. Additional disciplinary actions may occur according to the policies in the employee, faculty and student handbooks.
     2. Copy should be written with the audience in mind, in a positive and friendly manner. Use of second person is acceptable and encouraged. Informal and approachable language, without being overly chatty, welcomes visitors to our site and encourages engagement. Use short sentences and paragraphs of no more than 3-4 sentences, with a full break in between.
     3. Layouts must align with the provided templates, shortcodes, and styles. For example, provided headings must be used instead of an image file of large text.
-    4. Video must be embedded via the BrightCove platform.
+    4. Video should be embedded via Wagner College’s [YouTube channel](http://youtube.com/wagnercollegenyc).
     5. All copy must conform to high editorial standards, with proper spelling, punctuation, grammar, style, etc.
     6. Do NOT WRITE IN ALL CAPS. EVER.
   3. Keep it accessible. 
@@ -164,43 +164,16 @@ Section IV: Policies for Daily Bulletin email
 
 The Daily Bulletin is Wagner College’s daily email newsletter.
 
-In the very first issue — dated Oct. 12, 2010 — we explained why we were introducing an email newsletter to the campus community:  _In response to requests from the Student Government Association for a reduction in the number of emails, we are consolidating as many as possible of the daily administrative notices to the campus community into a single daily bulletin. Feel free to let us know if you feel this helps or hinders campus communications.  _
+In the very first issue — dated Oct. 12, 2010 — we explained why we were introducing an email newsletter to the campus community: _In response to requests from the Student Government Association for a reduction in the number of emails, we are consolidating as many as possible of the daily administrative notices to the campus community into a single daily bulletin. Feel free to let us know if you feel this helps or hinders campus communications._
 
-The Daily Bulletin is laid out so that you get more information at the top about events coming up in the next week, and about newly announced events. At the end, you get summary listings and dates for everything happening later in the semester.
+The Daily Bulletin consists of just two parts: short notices, and “Today at Wagner.”
 
-Ideally, you should be able to scan the listings in the Daily Bulletin in 20 seconds or less. If you see a headline that interests you, you can read a very brief description of the event — just enough to help you determine whether you want more information, which you’ll get by hitting the “hot link” at the end.
+The short notices appearing at the top of the Daily Bulletin are items of general interest to the campus community — programs to sign up for, unusual activities on campus that might affect your day, schedules for campus services during holiday breaks, links to Wagner-related news stories, and “Photo of the Day” highlights on the college’s Facebook page. To place a short notice in the Daily Bulletin, [just email Lee Manchester](mailto:lee.manchester@wagner.edu?subject=Short%20notice%20for%20the%20Daily%20Bulletin).
 
-_**If you take just 20 seconds each morning to scan the Daily Bulletin before hitting “delete,” you will not miss anything important happening at Wagner College.** ** **_
+The “Today at Wagner” section at the bottom of the Daily Bulletin consists of a list of campus activities scheduled that day, showing time, location, and a link to event descriptions containing more information, whenever it’s available.
 
-Here’s what’s contained in an average issue of the Daily Bulletin:
+“Today at Wagner” pulls all its information from the college’s [online events calendar](http://wagner.edu/newsroom/events/), which contains information on all scheduled upcoming Wagner events, both on- and off-campus. To find information about upcoming events, visit the [online events calendar](http://wagner.edu/newsroom/events/).
 
-  * **At the top,  **a brief description of and link to the Photo of the Day feature on our Facebook, along with other special announcements.
-  * **‘Next 7 days’ —  **Listings, dates and descriptions of campus and Wagner-related events coming up in the next 7 days, usually including links to Web pages containing more detailed information about the events.
-  * **‘Recently announced events’ —  **Here’s where announcements often appear for the first time in the Daily Bulletin, particularly if they are scheduled for more than 1 week after that day’s issue. Listings here include dates, descriptions and links for further details.
-  * **‘Featured events’ —  **Once a week, we’ll include here extended listings of the most important campus events that are still more than 7 days away.
-  * **‘Miscellanea’ —  **This section is for ongoing announcements about student services, award & scholarship contests, etc.
-  * **‘Later this month’ —  **In this final section are bullet-point listings of all the upcoming events for the current semester in our Daily Bulletin files that are scheduled for more than 1 week from the current date. This listing contains only event names and dates. Once these events draw to within the “Next 7 Days” range, they’re moved up, and they are listed along with fuller (although brief) descriptions and links for further information.
-
-
-
-If you have an upcoming campus or Wagner-related event that you want to publicize to the campus community, the Daily Bulletin is the single most effective medium for you to use. We’ll include any event that’s either happening on campus or sponsored by or related to a campus office, academic department, student club, class or professor.
-
-**One note:**  The Daily Bulletin does not publish announcements about all local, off-campus events that may be of interest to the Wagner College community. Events announced in the Daily Bulletin must have a clear, direct connection to Wagner College — in other words, the events must be happening on campus, or be sponsored by a campus office, academic department, student club, class or professor.
-
-When you send in a Daily Bulletin submission, please include:
-
-  * Event name
-  * Date
-  * Time
-  * Location (including room number)
-  * Brief description of the event (1 or 2 sentences — make ’em count!)
-  * Email address of someone to contact for more information
-  * Any link you have to a website containing more, relevant information about the event
-
-
-
-If you send in an announcement about an upcoming campus or Wagner-related event, we will include an extended listing (event name, date, brief description and info links) in the next day’s Bulletin, either in the “Next 7 Days” or the “Recently Announced Events” sections. If the event is still more than a week away the following day, it will be moved down into the “Later This Month” bullet-point list (with event name and date only) — but when the event comes back into the 1-week window, the extended listing will run again, in the “Next 7 Days” section.
-
-So, do you have an event you want included in the Daily Bulletin? Or just a question? In either case, send it in to Daily Bulletin editor Lee Manchester (lee.manchester@wagner.edu).
+To place events in the [online events calendar](http://wagner.edu/newsroom/events/), just fill in the required information when you book space for your event using the [Ad Astra system](http://wagner.edu/it/training/tutorial-videos/ad-astra-videos/). For help using the calendar, [you can visit our website for a tutorial](http://wagner.edu/communications/web-group/campus-calendar/). For additional information or assistance, [email Caitlin Miller](mailto:caitlin.miller@wagner.edu?subject=Help%20with%20the%20online%20calendar) in our Lifelong Learning office.
 
  _Updated September 2014_
