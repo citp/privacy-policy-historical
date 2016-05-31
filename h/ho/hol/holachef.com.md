@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the holachef.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212224511id_/http%3A//www.holachef.com/pages/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holachef.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531082942id_/http%3A//www.holachef.com/policy) for the most accurate reproduction.*
 
-# Holachef
+# Privacy Policy at Holachef.com
 
 We, Holachef, the creator of this Privacy Policy ensure our firm commitment to your privacy vis-à-vis the protection of your priceless information. The Privacy Policy contains information about ‘www.holachef.com’. In order to endow you with our uninterrupted use of services, we may collect and, in some circumstances, disclose information about you. To enhance better protection of your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used. If you have any questions or concerns regarding this privacy policy, you should contact our Customer Support Desk at support@holachef.com 
 
