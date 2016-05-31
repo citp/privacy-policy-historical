@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onelegal.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102060900id_/http%3A//www.onelegal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onelegal.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531084314id_/http%3A//www.onelegal.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy » One Legal
+# Privacy policy | » One Legal
 
 One Legal knows that your privacy is both an important and sensitive subject. As such, safeguarding your privacy has always been, and continues to be, one of our highest priorities, whether the information is gathered in person, over the telephone, through our facsimile machines or via our web site. We have never shared your personal information with third parties, and have no plans to do so, except (1) if you request it, (2) to complete a transaction initiated by you (which may sometimes include disclosure to a credit card bureau), or (3) if we are required or allowed by the law, such as to respond to a subpoena or to investigate fraudulent activity. To further protect your confidentiality, we require any organizations to which we provide data to have similar privacy safeguards and contractually only allow them to use our customers information for the intended service. You do not have to ask for this confidentiality, it is our standard practice.
 
