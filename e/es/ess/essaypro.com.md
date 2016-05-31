@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the essaypro.com privacy policy that was archived on 2015-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150209190651id_/http%3A//essaypro.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essaypro.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531164651id_/http%3A//essaypro.com/privacy-policy.html) for the most accurate reproduction.*
 
-# None
+# EssayPro: Privacy Policy
 
 Below is EssayPro.com’s comprehensive privacy statement. While the fundamental aspects of EssayPro’s privacy statement may not change, we advise all recurrent users to carefully examine the details of our privacy policy from time to time as they are subject to change.
 
 ## Gathered User Information
 
-Information gathered on our clients is used only in the case that we seek to improve our webpage’s content and quality. This is so our website’s services can be improved to better serve our clients. However, at no time is any personal or payment information taken and given to third parties.
+Information gathered on our clients and [essay writers](https://web.archive.org/custom-essay-writers.html) is used only to improve our services and to provide support to our customers. No personal or payment information is given to third parties.
 
 Additionally, our webserver only gathers data such as IP address, browser type, times of access, and operating system type for statistical purposes only. Cookies are also sometimes used for the purpose of customizing your webpage’s content on our site.
 
@@ -22,7 +22,7 @@ When contacting us via email to provide your feedback, request a service, or mor
 
 ## Future Privacy Policy Amendments
 
-If our privacy policy terms and conditions are modified in the future, we are not obligated to contact you. Continually re-reading our privacy policy from time-to-time is the sole responsibility of the client and not EssayPro.com. It is, therefore, urged and encouraged for all our clients to regularly read our privacy policy for any changes that may affect their experience with our company.
+If our privacy policy terms and conditions are modified in the future, we are not obligated to contact you. Continually re-reading our privacy policy from time-to-time is the sole responsibility of the client and not EssayPro.com. It is, therefore, urged and encouraged for all our clients and writers to regularly read our privacy policy for any changes that may affect their experience with our company.
 
 ## Website Security
 
@@ -30,14 +30,10 @@ We perform routine security checks and have secure systems in place to ensure th
 
 Our Links Disclaimer
 
-Any links sponsored on our website are given to our customers based on location. These may include but are not limited to state, local, federal and other organizations both online and offline. Though these links are posted on our webpage, we do not explicitly or implicitly endorse their products, content, opinions, services, views, accessibility, policies, or products. If you follow the link to its website away from EssayPro, we are not responsible for that website and you are subject to, but are not limited to, the other website’s written terms, conditions, and privacy policies.
+For all links to other websites posted on our website, we do not explicitly or implicitly endorse their products, content, opinions, services, views, accessibility, policies, or products. If you follow the link to its website away from EssayPro, we are not responsible for that website and you are subject to, but are not limited to, the other website’s written terms, conditions, and privacy policies.
 
 Prohibited Disclosures
 
 Usage of information from both employees and employers related to this privacy policy are for the exclusive use of the commissioner responsible. Information on this website is not open to the public and may not be used in any court of law during any action, legal or otherwise, unless the commissioner is responsible for such action claimed by the other party. A claim of benefits will be determined and made to the affected parties at the commissioner’s discretion. It is also possible to legally pursue parties who abscond on payment.
 
-Do not disclose your personal information or payment data communicating via chat with other users in your profile for security reasons.
-
-Access to Company Information
-
-It is always possible to request what personal information EssayPro.com retains about you. Additionally, you can request that any mistakes be corrected so that all contact information is accurate. These requests are also subject to charges of $35. Once we receive such a request from you, you will be given all personal information that EssayPro retains about you that is subject to the Data Protection Act of 1998. This can be requested from our service by contacting the customer support team 24/7.
+Do not disclose your personal information or payment data communicating via chat with other users and writers in your profile for security reasons.
