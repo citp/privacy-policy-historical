@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dploy.io privacy policy that was archived on 2015-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150525181156id_/http%3A//www.dploy.io/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dploy.io privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601000049id_/http%3A//deploybot.com/privacy-policy) for the most accurate reproduction.*
 
-# dploy.io Privacy Policy
+# DeployBot Privacy Policy
 
-We collect personal information in a number of ways when you visit our site or use our service. For example, you provide us with personal information when you register for an account or contact us by email. [Wildbit, LLC](http://www.wildbit.com/) automatically receives and records information from your browser, including your IP address and cookies. The personal information collected is used for billing, identification, authentication, service improvement, research, and contact.
+We collect personal information in a number of ways when you visit our site or use our service. For example, you provide us with personal information when you register for an account or contact us by email. [Wildbit, LLC](http://wildbit.com/) automatically receives and records information from your browser, including your IP address and cookies. The personal information collected is used for billing, identification, authentication, service improvement, research, and contact.
 
 ## Cookies
 
@@ -10,7 +10,7 @@ A cookie is a small amount of data that is sent to your browser from our servers
 
 ## Information Sharing
 
-We do not sell, rent or share personal information with third parties without your prior consent. We may, however, disclose personal information when we believe it violates our [Terms of Service](https://web.archive.org/tos.html) or is appropriate to comply with the law, to protect our or our users’ rights, as well as to protect our users from fraudulent, abusive, and unlawful use of our site. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website.
+We do not sell, rent or share personal information with third parties without your prior consent. We may, however, disclose personal information when we believe it violates our [Terms of Service](https://deploybot.com/tos) or is appropriate to comply with the law, to protect our or our users’ rights, as well as to protect our users from fraudulent, abusive, and unlawful use of our site. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website.
 
 ## Client Data and Storage
 
@@ -26,4 +26,4 @@ Wildbit, LLC will notify customers by email about any significant changes in thi
 
 ## Privacy Questions / Feedback
 
-If you have questions or concerns about Wildbit’s Privacy Policy please contact us at [support@dploy.io](mailto:support@dploy.io) or 20 N. 3rd Street, Unit 701, Philadelphia, PA, 19106.
+If you have questions or concerns about Wildbit’s Privacy Policy please contact us at [support@deploybot.com](mailto:support@deploybot.com) or 225 Chestnut St., Philadelphia, PA, 19106.
