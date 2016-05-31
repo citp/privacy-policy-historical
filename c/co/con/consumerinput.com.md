@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the consumerinput.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811040846id_/https%3A//www.consumerinput.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerinput.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531141412id_/https%3A//www.consumerinput.com/privacy) for the most accurate reproduction.*
 
 # None
 
-### Last modified: March 31, 2015
+### Last modified: April 15, 2016
 
 [View archived versions here](https://web.archive.org/privacy_archive/).
 
-If you are upgrading the Software from an older version, re-joining this research program, or otherwise accepting the latest version of this Policy, you agree that after doing so, your data previously collected by Compete under your prior participation in the program may be used as described in this Policy. You may always uninstall the Software by following the instructions provided [here](https://web.archive.org/Removal/).
+If you are upgrading the Software from an older version, re-joining this research program, or otherwise accepting the latest version of this Policy, you agree that after doing so, your data previously collected by Compete under your prior participation in the program may be used as described in this Policy. You may always uninstall the Software by following the instructions provided [here](https://web.archive.org/Removal/).
 
 ### Consumer Input Download Privacy Policy
 
-This privacy policy ("Policy") describes the commitment that Compete, Inc. ("Compete", "We", or "Us"), which operates the Consumer Input research panel, makes to protect your privacy. The Policy describes our data collection and use practices for consumers who download the Compete Consumer Input data collection application (the "Software"). The Software may have been installed through the Consumer Input [website](https://web.archive.org/), a partner website, or through a partner's software product with which the Software was bundled. This Policy applies only to the operation of the Software and not to any other application, website or service. While we encourage our partners to comply with best practices regarding consumer privacy, we are not responsible for the privacy practices of any third party product with which the Software may be bundled.
+This privacy policy ("Policy") describes the commitment that Compete, Inc. ("Compete", "We", or "Us"), which operates the Consumer Input research panel, makes to protect your privacy. The Policy describes our data collection and use practices for consumers who download the Compete Consumer Input data collection application (the "Software"). The Software may have been installed through the Consumer Input [website](https://web.archive.org/), a partner website, or through a partner's software product with which the Software was bundled. This Policy applies only to the operation of the Software and not to any other application, website or service. While we encourage our partners to comply with best practices regarding consumer privacy, we are not responsible for the privacy practices of any third party product with which the Software may be bundled.
 
 Compete is located in Boston, Massachusetts, with offices throughout the U.S. For more information, please visit https://www.compete.com/.
 
@@ -60,7 +60,7 @@ In greater detail, the Software collects the following types of information:
 
 3\. Information on secure pages: This includes information and content from protected or secure pages that you access, such as online accounts or the content of complete and incomplete consumer transactions when you are checking out through a website's shopping cart, even if the website makes this information unreadable to others.
 
-4\. System information: This includes information about the computer and browser that you are running on, including the IP address of the computer, unique identifiers used by websites and applications (such as those found in cookies), how the Software is operating, and which other applications are installed or running. 
+4\. System information: This includes information about the computer and browser that you are running on, including the IP address of the computer, unique identifiers used by websites and applications, how the Software is operating, and which other applications are installed or running. 
 
 5\. Information you provide: In some cases, we may invite you to participate in surveys, in which case your responses are considered information collected under, and subject to, this Policy.
 
@@ -82,7 +82,7 @@ We may collect certain information in part through the use of a web technology c
 
 We use temporary session cookies during the download and registration process to correctly identify the research panel that you have joined, enable the creation of a unique, anonymous identifier and to trigger the download process.
 
-We may use our cookies apart from the Software and link that data to other data in your profile, including data that is collected through your use of the Software. Please note that this only applies to Compete and or Consumer Input cookies; third party cookies are covered elsewhere in this Policy.
+We may use our cookies apart from the Software and link that data to other data in your profile, including data that is collected through your use of the Software. Please note that this only applies to Compete and or Consumer Input cookies.
 
 You may remove our cookies and/or control their operation by adjusting your browser settings. Please visit the 'help' section of your browser for more information.
 
@@ -90,7 +90,7 @@ You may remove our cookies and/or control their operation by adjusting your brow
 
 This section describes how your data - which includes web use, demographic information, survey responses and information we have obtained from third parties - contributes to the kinds of services our clients buy from us. Our typical process is to combine panel members' data into consumer segments and report on the aggregated (or grouped) results. Consumer segments are pools of users who have common interests or characteristics, for example, "women between the ages of 28-34 interested in travel websites." Once aggregated, the results and consumer segments are shared with our clients and other parties as described in this Policy. The following are examples of the kinds of services we provide, and how your data is used in these services:
 
-_Advertising Research_ \- Your data is combined with data from other users into a pool that is then analyzed for exposure to certain advertising. Information about the combined pool, which does not identify any particular user, is shared with clients so they can understand if and how their advertising spending impacts the consumer journey and consumer decisions. For example, by comparing the behaviors of a group of users who saw a particular online advertisement with another group of users who did not see that advertisement, Compete can help advertisers understand the effectiveness of their ads. If you opted into this Policy after September 10, 2014, the software may also modify or replace content or ads that you see, as part of a market research study.
+_Advertising Research_ \- Your data is combined with data from other users into a pool that is then analyzed for exposure to certain advertising. Information about the combined pool, which does not identify any particular user, is shared with clients so they can understand if and how their advertising spending impacts the consumer journey and consumer decisions. For example, by comparing the behaviors of a group of users who saw a particular online advertisement with another group of users who did not see that advertisement, Compete can help advertisers understand the effectiveness of their ads.
 
 _Media Use Analysis_ \- Your data is combined with data from other users to form consumer segments that are shared with clients without identifying any particular user. These segments are typically analyzed on behalf of clients to understand where consumers go online and how consumers interact with digital media, which includes website content and advertising that they see. For example, we help companies understand the effectiveness of their websites by comparing how users are interacting with their websites versus how users are interacting with their competitors' websites.
 
