@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the globallogic.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218082640id_/https%3A//www.globallogic.com/landings/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globallogic.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531031955id_/http%3A//www.globallogic.com/privacy-policy) for the most accurate reproduction.*
 
-# GlobalLogic | Privacy Policy
+# Privacy Policy | GlobalLogic
 
-**Last Updated: March 25, 2013**
+Last Updated: May 6, 2016
 
-This Privacy Policy is an integral part of the agreement between you and us concerning the use of the Site(s). The other integral parts of such agreement are the [Terms of Service](https://www.globallogic.com/terms-of-service "Terms of Service") and any other legal notices that may be provided by GlobalLogic. All capitalized terms used herein that are not otherwise defined in this Privacy Policy shall be as defined in the [Terms of Service](https://www.globallogic.com/terms-of-service "Terms of Service").
+This Privacy Policy is an integral part of the agreement between you and us concerning the use of the Site(s). The other integral parts of such agreement are the Terms of Service and any other legal notices that may be provided by GlobalLogic. All capitalized terms used herein that are not otherwise defined in this Privacy Policy shall be as defined in the Terms of Service.
 
 We reserve the right to amend the Privacy Policy at any time, for any reason. The date of the last revision to the Privacy Policy will be indicated by the “Last updated” date at the beginning of this page.
 
@@ -26,10 +26,12 @@ C. How We Use Information. Once collected, we may only use your Personally Ident
 
 D. Sharing Your Personally Identifiable Information When Legally Necessary or to Protect GlobalLogic’s interests. GlobalLogic may disclose your Personally Identifiable Information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to legal requirements or comply with legal process served on the GlobalLogic; (b) protect and defend the rights or property of GlobalLogic; or (c) protect the personal safety of GlobalLogic personnel or members of the public in appropriate circumstances.
 
-E. How to Manage the Sharing Of Your Personally Identifiable Information. You can manage your email preferences, including opting out of email either online or by contacting us. Additionally, if you prefer to receive mailings only from GlobalLogic and have your name and address removed from the list provided to our business partners, please contact us at [info@globallogic.com.](mailto:info@globallogic.com)
+E. How to Manage the Sharing Of Your Personally Identifiable Information. You can manage your email preferences, including opting out of email either online or by contacting us. Additionally, if you prefer to receive mailings only from GlobalLogic and have your name and address removed from the list provided to our business partners, please contact us at info@globallogic.com.
 
 F. Linking to other Internet sites. You should be aware that other Internet sites that are linked from the Site(s) or from a GlobalLogic email message may contain privacy provisions that differ from the provisions of this Privacy Policy. To ensure your privacy is protected, we recommend that you review the privacy statements of these other linked sites, applications or other digital properties.
 
 G. Security. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet or via mobile device, or method of electronic storage, is 100% secure, however. Accordingly, and despite our efforts, GlobalLogic cannot guarantee or warrant the security of any information you transmit to us, or to or from our online products or services.
 
-If you have questions about this Privacy Policy or if you believe that we have not adhered to this Privacy Policy you may write to us at the following address: [info@globallogic.com](mailto:info@globallogic.com).
+H. Safe Harbor. GlobalLogic Inc. complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. GlobalLogic Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. GlobalLogic Inc. will cooperate with data protection authorities located in the European Union or their authorized representative to investigate unresolved complaints regarding GlobalLogic’s Safe Harbor commitments. To learn more about the Safe Harbor program please visit <http://www.export.gov/safeharbor/>.
+
+If you have questions about this Privacy Policy or if you believe that we have not adhered to this Privacy Policy you may write to us at the following address: info@globallogic.com.
