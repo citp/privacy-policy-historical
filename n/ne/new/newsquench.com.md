@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsquench.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216130635id_/http%3A//www.newsquench.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsquench.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531195850id_/http%3A//www.newsquench.com/privacy) for the most accurate reproduction.*
 
 # Privacy | NewsQuench
 
