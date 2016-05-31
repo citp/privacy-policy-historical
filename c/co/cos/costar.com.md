@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costar.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226163343id_/http%3A//www.costar.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costar.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531230826id_/http%3A//www.costar.com/about/privacy-policy) for the most accurate reproduction.*
 
 # CoStar Privacy Policy | CoStar
 
@@ -77,7 +77,7 @@ CoStar may process and store your personal information in the United States of A
 
 ### 7\. Consent
 
-CoStar obtains your consent for the collection, use and disclosure of personal information for the purposes of providing you with products and services by you giving us your personal information for those purposes. We use an opt-out standard for communications with you about our products and services and other products or services that may be of interest to you. If you do not wish to receive such mailings, please contact us by e-mail to [mklionsky@costargroup.com](mailto:mklionsky@costargroup.com). In addition, you can select unsubscribe on any of our electronic email marketing communications to you. If you opt-out of marketing communications, CoStar will still contact you in connection with providing you with the products and services you have requested from us.
+CoStar obtains your consent for the collection, use and disclosure of personal information for the purposes of providing you with products and services by you giving us your personal information for those purposes. We use an opt-out standard for communications with you about our products and services and other products or services that may be of interest to you. If you do not wish to receive such mailings, please contact us by e-mail to [ajohn@costar.com](mailto:ajohn@costar.com). In addition, you can select unsubscribe on any of our electronic email marketing communications to you. If you opt-out of marketing communications, CoStar will still contact you in connection with providing you with the products and services you have requested from us.
 
 ### 8\. Retention
 
@@ -93,7 +93,7 @@ Although the Site can technically be viewed by children, we do not knowingly req
 
 ### 11\. Accessing Your Personal Information
 
-You may request access and corrections to your personal information. If you would like to access and make changes to information that you have provided to us in connection with your online account, please log-into your account and review and correct the information that you provided. If you would like assistance in accessing or correcting other information, please contact us at [support@costargroup.com](mailto:support@costar.com).
+You may request access and corrections to your personal information. If you would like to access and make changes to information that you have provided to us in connection with your online account, please log-into your account and review and correct the information that you provided. If you would like assistance in accessing or correcting other information, please contact us at [support@costar.com](mailto:support@costar.com).
 
 ### 12\. Amendment of CoStar’s Practices and This Policy
 
@@ -101,4 +101,4 @@ CoStar will from time to time review and revise its privacy practices and this P
 
 ### 13\. Accountability
 
-CoStar has appointed a Privacy Officer to investigate and respond to privacy issues and to be accountable for CoStar’s compliance with this Privacy Policy. If you have questions about access to your personal information held by CoStar or about CoStar’s collection, use or disclosure of your personal information, or if you wish to make a privacy-related complaint, you may contact CoStar’s Privacy Officer: Jonathan Coleman, General Counsel, by e-mail at [jcoleman@costargroup.com](mailto:jcoleman@costar.com) or by mail at 1331 L Street NW, Washington, DC 20005.
+CoStar has appointed a Privacy Officer to investigate and respond to privacy issues and to be accountable for CoStar’s compliance with this Privacy Policy. If you have questions about access to your personal information held by CoStar or about CoStar’s collection, use or disclosure of your personal information, or if you wish to make a privacy-related complaint, you may contact CoStar’s Privacy Officer: Jonathan Coleman, General Counsel, by e-mail at [jcoleman@costar.com](mailto:jcoleman@costar.com) or by mail at 1331 L Street NW, Washington, DC 20005.
