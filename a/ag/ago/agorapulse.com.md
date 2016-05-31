@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the agorapulse.com privacy policy that was archived on 2015-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151129233946id_/http%3A//www.agorapulse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agorapulse.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531101659id_/http%3A//www.agorapulse.com/privacy-policy) for the most accurate reproduction.*
 
-# agorapulse - Privacy Policy
+# Privacy policy | Agorapulse
 
 _Last update : July 10, 2011_
 
@@ -18,7 +18,7 @@ We collect information from you in various ways when you use our applications. I
 
 You can always refuse to provide personal information to us or our Affiliates but, most of the time, if you choose so, you will not be eligible to use the application.
 
-The information collected is always collected in order to better address your needs. Spam with uninteresting content is not allowed on AgoraPulse! 
+The information collected is always collected in order to better address your needs. Spam with uninteresting content is not allowed on AgoraPulse! 🙂
 
 The information we collect will help us and our Affiliate to target messages that are really of interest to you.
 
