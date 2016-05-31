@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the order-order.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018193056id_/http%3A//order-order.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the order-order.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531190358id_/http%3A//order-order.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Guido Fawkes
 
