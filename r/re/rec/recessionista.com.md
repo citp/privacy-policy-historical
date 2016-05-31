@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recessionista.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220131902id_/http%3A//nicolelapin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recessionista.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531211718id_/http%3A//nicolelapin.com/privacy-policy) for the most accurate reproduction.*
 
 # Nicole Lapin – Privacy Policy
 
