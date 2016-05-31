@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budgetgolf.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206003628id_/http%3A//www.budgetgolf.com/BudgetGolf-Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgetgolf.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531134633id_/http%3A//www.budgetgolf.com/BudgetGolf-Privacy-Policy.html) for the most accurate reproduction.*
 
 # Home :: BudgetGolf Privacy Policy
 
