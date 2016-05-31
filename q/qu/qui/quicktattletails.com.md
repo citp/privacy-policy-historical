@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quicktattletails.com privacy policy that was archived on 2015-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151019030028id_/http%3A//www.quicktattletails.com/2008/08/privacy-policy-for-quick-tattletails.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quicktattletails.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531162446id_/http%3A//www.quicktattletails.com/2008/08/privacy-policy-for-quick-tattletails.html) for the most accurate reproduction.*
 
 # Privacy Policy for Quick Tattletails ~ Quick Tattletails
 
