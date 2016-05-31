@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chalk.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909235518id_/https%3A//www.chalk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chalk.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531110830id_/https%3A//www.chalk.com/privacy) for the most accurate reproduction.*
 
-# Chalk.com – Privacy Policy
+# Privacy Policy
 
 At Chalk.com Education Inc., dba Chalk.com ("Chalk.com"), your right to privacy is very important to us. We provide you with the ability to create, share, edit, access, manage and print lesson plans, and track curriculum standards. In order to provide you with this service effectively, we collect certain specific information from you, and we also automatically collect information and data relating to the usage of our services by all our users, including you. Because we are committed to protecting your privacy rights and the information you provide to us, we have developed this privacy policy. It explains how we will protect your information and describes how we will use and share it. 
 
