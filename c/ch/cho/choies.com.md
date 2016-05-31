@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the choies.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118115439id_/http%3A//www.choies.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choies.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531101423id_/http%3A//www.choies.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security | CHOiES
 
@@ -30,16 +30,8 @@ We will only use your personally identifiable information as described below, un
 
 #### OPT OUT/CORRECTIONS
 
-Upon your request, we will **(a)** correct or update your personal information; **(b)** stop sending emails to your email address; and/or **(c)** disable your account to prevent any future purchases through that account. You can make these requests by livechat, or emailing your request to choies.com’s Customer Support department at [service@choies.com](mailto:service@choies.com). Please do not email your credit card number or other sensitive information.
+Upon your request, we will **(a)** correct or update your personal information; **(b)** stop sending emails to your email address; and/or **(c)** disable your account to prevent any future purchases through that account. You can make these requests by livechat, or emailing your request to choies.com’s [Customer Support](http://www.choies.com/contact-us) department. Please do not email your credit card number or other sensitive information.
 
 When you register, you will be given the option to opt-out of subscribing to our regular update service. We will send you e mail alerts for new products, features, enhancements, special offers, contests, events of interest, and one-off marketing promotions.
 
 At all times, we will offer you the opportunity to unsubscribe out of any service or update to which you have subscribed, if you change your mind. Any e-mail we send you will contain an easy automated unsubscribe link so that you can opt-out of that subscription. Simply follow the indications in the e-mail.
-
-[CompanyName] STYLEBAG LIMITED
-
-[Address] Third Floor, 207 Regent Street, London, W1B 3HH,United Kingdom
-
-[Email] service@choies.com
-
-[Contact Number] 44-2032893088
