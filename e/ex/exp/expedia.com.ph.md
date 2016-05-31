@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expedia.com.ph privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208170441id_/https%3A//www.expedia.com.ph/p/corporate/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expedia.com.ph privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531223218id_/https%3A//www.expedia.com.ph/p/corporate/privacypolicy) for the most accurate reproduction.*
 
 # Expedia, Inc. Privacy Pledge | Expedia.com.ph
 
