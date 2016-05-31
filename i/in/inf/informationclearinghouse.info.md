@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the informationclearinghouse.info privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210051939id_/http%3A//www.informationclearinghouse.info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informationclearinghouse.info privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601014502id_/http%3A//www.informationclearinghouse.info/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
