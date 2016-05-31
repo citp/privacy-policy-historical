@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tollytrendz.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022755id_/http%3A//www.tollytrendz.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tollytrendz.org privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531200910id_/http%3A//tollytrendz.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - tollytrendz - News And All Updates
+# Privacy policy -
 
-This Privacy Policy governs the manner in which tollytrendz collects, uses, maintains and discloses information collected from users (each, a “User”) of the tollytrendz.org website (“Site”). This privacy policy applies to the Site and all products and services offered by tollytrendz.
+This Privacy Policy governs the manner in which tollytrendz collects, uses, maintains and discloses information collected from users (each, a “User”) of the tollytrendz.in website (“Site”). This privacy policy applies to the Site and all products and services offered by tollytrendz.
 
 Personal identification information
 
@@ -61,9 +61,9 @@ Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 tollytrendz  
-tollytrendz.org
+tollytrendz.in
 
 ap  
-contact@tollytrendz.org
+contact@tollytrendz.in
 
-This document was last updated on August 04, 2013
+This document was last updated on july 03, 2015
