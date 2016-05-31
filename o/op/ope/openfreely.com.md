@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openfreely.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225143814id_/http%3A//www.openfreely.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openfreely.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531235614id_/http%3A//www.openfreely.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Open Freely
 
@@ -41,6 +41,6 @@ This Privacy Statement applies only to the openfreely.com websites owned and ope
 
 THIS PRIVACY STATEMENT HAS IMPORTANT INFORMATION ABOUT YOUR PERSONAL INFORMATION. PLEASE READ IT CAREFULLY AND FULLY.
 
-Copyright © 2011-2015 Blue Labs, LLC
+Copyright © 2011-2016 Blue Labs, LLC
 
 _Last Updated: January 29, 2015_
