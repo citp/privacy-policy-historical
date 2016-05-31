@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campusoption.com privacy policy that was archived on 2015-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150704050102id_/http%3A//www.campusoption.com/static/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campusoption.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531130551id_/http%3A//www.campusoption.com/static/privacy-statement) for the most accurate reproduction.*
 
 # Best educational portal : Providing latest news, exam result
 
@@ -181,6 +181,6 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 **Contacting Us**
 
-Should you have any questions about this Privacy Statement, contact us by sending an email to admin/info@campusoption.com. Please provide your name, mailing address, telephone number and email address so we can service you more quickly. You can also call us at 080-42401734.
+Should you have any questions about this Privacy Statement, contact us by sending an email to admin/info@campusoption.com. Please provide your name, mailing address, telephone number and email address so we can service you more quickly. You can also call us at 080-42401735.
 
 We may record the conversations our agents or employees have with you. We do this from time to time to monitor the quality of service and accuracy of information our agents and employees give to you and to ensure that your instructions are followed. No agent or employee of the Company is authorized to waive any provisions of our Company policies and procedures.
