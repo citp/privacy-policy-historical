@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the radiostationworld.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223060905id_/http%3A//radiostationworld.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiostationworld.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531175800id_/http%3A//radiostationworld.com/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - RadioStationWorld
+# RadioStationWorld
 
 RadioStationWorld is sensitive to privacy issues on the Internet. We believe it is important you know how we treat the information about you we receive on the Internet. 
 
