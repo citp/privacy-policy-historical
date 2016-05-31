@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the modahealth.com privacy policy that was archived on 2015-09-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906184947id_/https%3A//www.modahealth.com/privacy/index.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the modahealth.com privacy policy that was archived on 2016-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160531083018id_/https%3A//www.modahealth.com/privacy/index.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en" class=" dk_fouc"><head>
 		<title>Moda Health Web Privacy</title>
@@ -12,15 +12,17 @@
         <link rel="stylesheet" href="/css/tipTip.css" type="text/css">
         <link rel="stylesheet" href="/css/dropkick.css" type="text/css">
         <link rel="stylesheet" href="/css/jquery.dataTables.css" type="text/css">
-        <link rel="stylesheet" href="/css/blueimp-gallery.min.css">
-		<link rel="stylesheet" href="/css/main.css?1423093914343" type="text/css">
+        <link rel="stylesheet" href="/css/blueimp-gallery.min.css"><!--looks to only be used for photo gallery on community/news/photos.shtml-->
+		<link rel="stylesheet" href="/css/main.css?1464296981242" type="text/css">
 		<!--[if lt IE 9]>
 	    <link rel="stylesheet" type="text/css" href="/css/fontface.css" />
         <![endif]-->
 		<link rel="shortcut icon" href="/favicon.ico">
 		<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/apple-touch-icon-144.png">
 	    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/apple-touch-icon-114.png">
-		
+		<!--[if lt IE 8]>
+		<link rel="stylesheet" type="text/css" href="/css/ie7-and-down.css" />
+		<![endif]-->
 		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=009586238892020396515:h03f4emk4pc"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NZV82B"></script><script src="/scripts/engine.js" type="text/javascript"></script><!-- has to be loaded before jquery to avoid $ conflict -->
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js" type="text/javascript"></script>
         <script type="text/javascript">
@@ -30,15 +32,13 @@
 		<script src="/scripts/jquery.foundation.reveal.js" type="text/javascript"></script>
 		<script src="/scripts/jquery.dropkick-1.0.0.js" type="text/javascript"></script>
         <script src="/scripts/jquery.tipTip.minified.js" type="text/javascript"></script>
-		<script src="/scripts/ods.js?1418166056100" type="text/javascript"></script>
-        <script src="/scripts/shared.js?1418166056100" type="text/javascript"></script>
-		<!--script src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script-->
-		<script src="/scripts/jquery-ui-1.8.1.custom.min.js" type="text/javascript"></script>
+		<script src="/scripts/ods.js?1464296981242" type="text/javascript"></script>
+        <script src="/scripts/shared.js?1451413170760" type="text/javascript"></script>
+		<!--script src="/scripts/jquery-ui-1.8.1.custom.min.js" type="text/javascript"></script--><!--not sure this is actually used anywhere, commenting out short-term, long-term intention is to remove unneeded requests-->
 		<script src="/scripts/jquery.carouFredSel-1.2.1.js" type="text/javascript"></script>
-		<script src="/scripts/URI.js" type="text/javascript"></script>
+		<script src="/scripts/URI.js" type="text/javascript"></script><!--looks to be used in showCurrentNav() within ods.js-->
 		<script src="/scripts/jquery.ba-dotimeout.js" type="text/javascript"></script><!-- runs home drop down -->
-        <script src="/scripts/gen_validatorv4.js" type="text/javascript"></script>
-		<!--[if IE 6]><script src="/scripts/DD_belatedPNG_0.0.8a-min.js"></script><![endif]--> 
+        <!--script src="/scripts/gen_validatorv4.js" type="text/javascript"></script--><!--doesn't look to be used anywhere, commenting out short-term, long-term intention is to remove unneeded requests-->
 	
         <meta name="google-site-verification" content="LgJaoTFhkPkt6TyUIaM8jeqqbHVQ-YBtpQ0pUOEwdjE">
 		<!-- Google Tag Manager -->
@@ -49,10 +49,22 @@
 		})(window,document,'script','dataLayer','GTM-NZV82B');</script>
 		<!-- End Google Tag Manager -->
 
+		<!--for performance analytics integrated with azure to visualize data-->
+		<script type="text/javascript">
+	        var appInsights=window.appInsights||function(config){
+	            function r(config){t[config]=function(){var i=arguments;t.queue.push(function(){t[config].apply(t,i)})}}var t={config:config},u=document,e=window,o="script",s=u.createElement(o),i,f;for(s.src=config.url||"//az416426.vo.msecnd.net/scripts/a/ai.0.js",u.getElementsByTagName(o)[0].parentNode.appendChild(s),t.cookie=u.cookie,t.queue=[],i=["Event","Exception","Metric","PageView","Trace"];i.length;)r("track"+i.pop());return r("setAuthenticatedUserContext"),r("clearAuthenticatedUserContext"),config.disableExceptionTracking||(i="onerror",r("_"+i),f=e[i],e[i]=function(config,r,u,e,o){var s=f&&f(config,r,u,e,o);return s!==!0&&t["_"+i](config,r,u,e,o),s}),t
+	        }({
+	            instrumentationKey:"41800946-8d87-4e14-b884-e92a58e6eb8c"
+	        });
+	        
+	        window.appInsights=appInsights;
+	        appInsights.trackPageView();
+	    </script><script src="//az416426.vo.msecnd.net/scripts/a/ai.0.js"></script>
+
 
 	</head>
 
-	<body class="home" style="font-size: 88%;">
+	<body>
 		<div id="pagewrap">
 
 <div id="navMain">
@@ -67,14 +79,14 @@
 					<li class="content_or content_ak content_wa" style="display: none !important">
 						<span><a href="/employers/index.shtml">I’m an employer</a></span>
 					</li>
-					<li>
+					<li> 
 						<span><a href="/producers/index.shtml">I’m a producer</a></span>
 					</li>
 					<li class="content_or content_ak content_ca" style="display: none !important">
 						<span class="content_or content_ak content_ca" style="display: none !important"><a href="#tbd">I’m a provider</a></span>
 						<ul>
-							<li><a href="/medical">Medical&nbsp;providers</a></li>
-							<li class="content_or content_ak" id="dental-providers" style="display: none !important"><a href="/dental">Dental&nbsp;providers</a></li>
+							<li><a href="/medical">Medical providers</a></li>
+							<li class="content_or content_ak" id="dental-providers" style="display: none !important"><a href="/dental">Dental providers</a></li>
 						</ul>
 					</li>
                     <li class="content_wa" style="display: none !important">
@@ -82,18 +94,10 @@
 					</li>
 				</ul>
 				
-				<ul class="members fourj nike ohp learning medicarePlans individualPlans">
+				<ul class="members fourj nike ohp learning medicarePlans individualPlans digitalcard">
 					<li><span><a href="/members/index.shtml">Member home</a></span>
 						<ul>
-							<li class="stepchild"><a href="/plans/individual/111101/faq_members.shtml">Members&nbsp;FAQ</a></li>
-						</ul>
-					</li>
-					<li class="content_or content_ak content_wa" style="display: none !important"><span><a href="/members/future.shtml">Future members</a></span>
-						<ul>
-							<li><a href="/members/future.shtml">Welcome</a></li><li>
-							</li><li><a href="/members/find_care.shtml">Find&nbsp;Care</a></li>
-							<li><a href="/members/future_benefits.shtml">Member&nbsp;benefits</a></li>
-							<!--<li><a href="/members/faq.shtml">FAQs</a></li>-->
+							<li class="stepchild"><a href="/plans/individual/111101/faq_members.shtml">Members FAQ</a></li>
 						</ul>
 					</li>
 					<li>
@@ -101,8 +105,8 @@
 						<ul>
 							<li><a href="/plans/individual/index.shtml">Medical</a></li>
 							<li><a href="/plans/individual/rx/index.shtml">Pharmacy</a></li>
-							<li><a href="/plans/individual/rx/network.shtml">Participating&nbsp;pharmacies</a></li>
-							<li><a href="/plans/individual/rx/mail.shtml">Mail-order&nbsp;medications</a></li>
+							<li><a href="/plans/individual/rx/network.shtml">Pharmacy networks</a></li>
+							<li><a href="/plans/individual/rx/mail.shtml">Mail-order medications</a></li>
 							<li class="content_or content_ak" style="display: none !important"><a href="/plans/individual/dental.shtml">Dental</a></li>
 							<li><a href="/plans/individual/resources/index.shtml">Resources</a></li>
 						</ul>
@@ -110,20 +114,18 @@
 					<li class="content_or medicare"><span><a href="#tbd">Medicare plans</a></span>
 						<ul>
 							<li><a href="/plans/medicare/">Overview</a></li>
-							<li><a href="/plans/medicare/2015/adv_pporx.shtml" class="pporx">Moda Health PPORX</a></li>
-							<li><a href="/plans/medicare/2015/adv_ppo.shtml" class="ppo">Moda Health PPO</a></li>
-							<li><a href="/plans/medicare/2015/adv_hmo.shtml" class="modaHMO">Moda Health HMO</a></li>
-							<li><a href="/plans/medicare/legacyhealth/2015/" class="legacyHealth">Legacy&nbsp;Health</a></li>
-							<li><a href="/plans/medicare/salemhealth/2015/" class="salemHealth">Salem&nbsp;Health</a></li>
-							<li><a href="/plans/medicare/2015/sr_select.shtml" class="medicareSupplement">Medicare&nbsp;Supplement</a></li>
-							<li><a href="/plans/medicare/2015/mtm_program.shtml">Medication Therapy Management&nbsp;Program</a></li>
+							<li><a href="/plans/medicare/2016/adv_pporx.shtml" class="pporx">Moda Health PPORX</a></li>
+							<li><a href="/plans/medicare/2016/adv_ppo.shtml" class="ppo">Moda Health PPO</a></li>
+							<li><a href="/plans/medicare/2016/adv_hmo.shtml" class="modaHMO">Moda Health HMO</a></li>
+							<li><a href="/plans/medicare/2016/sr_select.shtml" class="medicareSupplement">Medicare Supplement</a></li>
+							<li><a href="/plans/medicare/2016/mtm_program.shtml">Medication Therapy Management Program</a></li>
 							<li><a href="/plans/medicare/forms.shtml">Forms</a></li>
 						</ul>
 					</li>
 					<li class="content_or"><span class="content_or"><a href="#tbd">OHP members</a></span>
 						<ul>
 							<li><a href="/ohp/welcome.shtml">Welcome</a></li>
-							<li><a href="/ohp/handbook.shtml">Member&nbsp;handbooks</a></li>
+							<li><a href="/ohp/handbook.shtml">Member handbooks</a></li>
 							<li><a href="/ohp/pharmacy.shtml">Pharmacy</a></li>
 							<li><a href="/ohp/brochures.shtml">Brochures and guidelines</a></li>
 							<li><a href="/ohp/forms.shtml">Forms</a></li>
@@ -133,24 +135,27 @@
 						<span><a href="#tbd">Resources</a></span>
 						<ul>
 							<li><a href="/members/live_well.shtml">Be Better tools</a></li>
+							<li><a href="/digitalcard/index.shtml">Digital ID card</a></li>
 							<li class="content_or content_wa" style="display: none !important"><a href="/plans/individual/rx/card.shtml">Drug discount card</a> </li>
-						  <li><a href="/members/prev_svcs.shtml">Preventive&nbsp;services</a></li>    
+						  	<li><a href="/members/prev_svcs.shtml">Preventive services</a></li>    
                             <li><a href="/members/forms.shtml">Forms</a></li>
 							<li><a href="/members/glossary.shtml">Glossary</a></li>
-							<li><a href="/members/samples.shtml">Sample&nbsp;documents</a></li>
-							<li><a href="/learning/learning.shtml">Learning&nbsp;Center</a></li>
+							<li><a href="/members/samples.shtml">Sample documents</a></li>
+							<li><a href="/learning/learning.shtml">Learning Center</a></li>
+							<li><a href="/members/sbc.shtml">Summaries of<br>benefits and coverage</a></li>
+							<li><a href="/members/handbooks.shtml">Handbooks</a></li>
 						</ul>
 					</li>
                     <li>
                     <span><a href="#tbd">Quality of care</a></span>
 						<ul>
 							<li><a href="/members/quality_improvement.shtml">Quality improvement programs</a></li>
-							<li><a href="/members/quality_projects.shtml">Measuring quality at Moda&nbsp;Health</a></li>
-							<li class="content_wa" style="display: none !important"><a href="/members/pat_safety.shtml">Patient&nbsp;Safety</a> </li>
-							<li class="content_ca" style="display: none !important"><a href="/members/pat_safety.shtml">Patient&nbsp;Safety</a> </li>
-							<li class="content_or"><a href="/members/pat_safety.shtml">Patient&nbsp;Safety</a></li>
-							<li class="content_ak" style="display: none !important"><a href="/members/pat_safety.shtml">Patient&nbsp;Safety</a> </li>
-							<li><a href="/members/health_use_policy.shtml">Policy on Healthcare&nbsp;Use</a></li>
+							<li><a href="/members/quality_projects.shtml">Measuring quality at Moda Health</a></li>
+							<li class="content_wa" style="display: none !important"><a href="/members/pat_safety.shtml">Patient Safety</a> </li>
+							<li class="content_ca" style="display: none !important"><a href="/members/pat_safety.shtml">Patient Safety</a> </li>
+							<li class="content_or"><a href="/members/pat_safety.shtml">Patient Safety</a></li>
+							<li class="content_ak" style="display: none !important"><a href="/members/pat_safety.shtml">Patient Safety</a> </li>
+							<li><a href="/members/health_use_policy.shtml">Policy on Healthcare Use</a></li>
                             </ul>
                     </li>
 				</ul>
@@ -162,8 +167,8 @@
 							<li><a href="/employers/plans/index.shtml">Overview</a></li>
 							<li><a href="/employers/plans/medical.shtml">Medical</a></li>
 							<li><a href="/employers/plans/pharmacy.shtml">Pharmacy</a></li>
-							<li><a href="/employers/plans/participatingrx.shtml">Participating&nbsp;pharmacies</a></li>
-							<li><a href="/employers/plans/mailorderrx.shtml">Mail-order&nbsp;medication</a></li>
+							<li><a href="/employers/plans/participatingrx.shtml">Participating pharmacies</a></li>
+							<li><a href="/employers/plans/mailorderrx.shtml">Mail-order medication</a></li>
 							<li class="content_or content_ak" style="display: none !important"><a href="/employers/plans/dental.shtml">Dental</a></li>
 							<li><a href="/employers/enroll.shtml">Enrollment</a></li>
 						</ul>
@@ -174,19 +179,19 @@
 					<span><a href="#tbd">Moda Well@work</a></span>
 						<ul>
 							<li><a href="/employers/wellatwork/index.shtml">Overview</a></li>
-							<li class="content_or content_ak" style="display: none !important"><a href="/employers/wellatwork/toc.shtml">Employer&nbsp;Toolkit</a></li>
-							<li class="content_or content_ak" style="display: none !important"><a href="/employers/wellatwork/activity_calendar.shtml">Activity&nbsp;Calendar</a></li>
+							<li class="content_or content_ak" style="display: none !important"><a href="/employers/wellatwork/toc.shtml">Employer Toolkit</a></li>
+							<li class="content_or content_ak" style="display: none !important"><a href="/employers/wellatwork/activity_calendar.shtml">Activity Calendar</a></li>
 							<li class="content_or content_ak content_wa" style="display: none !important"><a href="/employers/wellatwork/campaigns.shtml">Health Promotion Campaigns</a></li>
-							<li><a href="/employers/wellatwork/wellnessconsulting.shtml">Wellness&nbsp;Consulting</a></li>
+							<li><a href="/employers/wellatwork/wellnessconsulting.shtml">Wellness Consulting</a></li>
 							<li class="stepchild"><a href="/employers/wellatwork/dental.shtml">Dental</a></li>
-							<li class="stepchild"><a href="/employers/wellatwork/healthcoaching.shtml">Health&nbsp;coaching</a></li>
+							<li class="stepchild"><a href="/employers/wellatwork/healthcoaching.shtml">Health coaching</a></li>
 							<li class="stepchild"><a href="/employers/wellatwork/hra.shtml">HRA</a></li>
 							<li class="stepchild"><a href="/employers/wellatwork/stress.shtml">Stress</a></li>
 							<li class="stepchild"><a href="/employers/wellatwork/campaigns.shtml">Campaigns</a></li>
 							<li class="stepchild"><a href="/employers/wellatwork/nutrition.shtml">Nutrition</a></li>
-							<li class="stepchild"><a href="/employers/wellatwork/physicalactivity.shtml">Physical&nbsp;Activity</a></li>
+							<li class="stepchild"><a href="/employers/wellatwork/physicalactivity.shtml">Physical Activity</a></li>
 							<li class="stepchild"><a href="/employers/wellatwork/toc.shtml">TOC</a></li>
-							<li class="stepchild"><a href="/employers/wellatwork/wellnessconsulting.shtml">Wellness&nbsp;Consulting</a></li>
+							<li class="stepchild"><a href="/employers/wellatwork/wellnessconsulting.shtml">Wellness Consulting</a></li>
 						</ul>
 					</li>
 					<li>
@@ -194,13 +199,13 @@
 						<ul>
 							<li class="content_or"><a href="/employers/plans/drugdiscountcard.shtml">Drug discount card</a></li>
 							<li class="content_or"><a href="/employers/news.shtml">Newsletter</a></li>
-							<li class="content_or content_ak" style="display: none !important"><a href="/employers/mkt_materials.shtml">Marketing&nbsp;flyers</a></li>
-							<li class="content_wa content_or content_ak" style="display: none !important"><a href="/employers/mkt_team.shtml">Sales &amp; Account  Services&nbsp;team</a></li>
-							<li class="content_or"><a href="/pdfs/group_admin_guide.pdf">Group Administrative Guide&nbsp;(PDF)</a></li>
+							<li class="content_or content_ak" style="display: none !important"><a href="/employers/mkt_materials.shtml">Marketing flyers</a></li>
+							<li class="content_wa content_or content_ak" style="display: none !important"><a href="/employers/mkt_team.shtml">Sales &amp; Account  Services team</a></li>
+							<li class="content_or"><a href="/pdfs/group_admin_guide.pdf">Group Administrative Guide (PDF)</a></li>
                             <li class="content_ak" style="display: none !important"><a href="/pdfs/ak/group_admin_guide.pdf">Group administrative guide</a></li>
 							<li><a href="/employers/forms.shtml">Forms</a></li>
-							<li><a href="/employers/samples.shtml">Sample&nbsp;Documents</a></li>
-
+							<li><a href="/employers/samples.shtml">Sample Documents</a></li>
+							<!--li><a href="/employers/sb.shtml">Summaries of benefit</a></li-->
 						</ul>
 					</li>
 					<li><span class="double"><a href="/employers/tpa.shtml">Third party administration</a></span></li>
@@ -216,11 +221,13 @@
 							<li class="content_or content_ak content_wa" style="display: none !important">
 								<a href="/producers/rx/group.shtml">Pharmacy</a>
 							</li>
+							<li><a href="/producers/rx/network.shtml">Participating pharmacies</a></li>
+							<li><a href="/producers/rx/mail.shtml">Mail-order medications</a></li>
 							<li class="content_or content_ak" style="display: none !important"><a href="/producers/grp/den.shtml">Dental</a></li>
 							<li class="content_wa content_or content_ak" style="display: none !important">
 								<a href="/producers/grp/enroll.shtml">Enrollment</a>
 							</li>
-							<li class="content_or content_ak" style="display: none !important"><a href="/producers/grp/quote.shtml">Quote&nbsp;request</a></li>
+							<li class="content_or content_ak" style="display: none !important"><a href="/producers/grp/quote.shtml">Quote request</a></li>
 						</ul>
 					</li>
 					<li>
@@ -228,26 +235,29 @@
 						<ul>
 							<li><a href="/producers/ind/index.shtml">Medical</a></li>
 							<li><a href="/producers/rx/individual.shtml">Pharmacy</a></li>
+							<li><a href="/producers/rx/network.shtml">Participating pharmacies</a></li>
+							<li><a href="/producers/rx/mail.shtml">Mail-order medications</a></li>
 							<li class="content_or content_ak" style="display: none !important"><a href="/producers/dental/dental.shtml">Dental</a></li>
 						</ul>
 					</li>
 					<li>
+						<span><a href="/producers/grp/networks.shtml ">Networks</a></span>
+					</li>
+					<!--li>
 						<span><a href="#tbd">Pharmacy benefits</a></span>
 						<ul>
-							<li><a href="/producers/rx/network.shtml">Participating&nbsp;pharmacies</a></li>
-							<li><a href="/producers/rx/mail.shtml">Mail-order&nbsp;medications</a></li>
+							<li><a href="/producers/rx/network.shtml">Participating pharmacies</a></li>
+							<li><a href="/producers/rx/mail.shtml">Mail-order medications</a></li>
 						</ul>
-					</li>
+					</li-->
 					<li class="content_or medicare"><span><a href="#tbd">Medicare plans</a></span>
 						<ul>
 							<li><a href="/plans/medicare_producer/">Overview</a></li>
-							<li><a href="/plans/medicare_producer/2015/adv_pporx.shtml" class="producer-PPROX">Moda Health PPORX</a></li>
-							<li><a href="/plans/medicare_producer/2015/adv_ppo.shtml" class="producer-PPO">Moda Health PPO</a></li>
-							<li><a href="/plans/medicare_producer/2015/adv_hmo.shtml" class="producer-HMO">Moda Health HMO</a></li>
-							<li><a href="/plans/medicare_producer/legacyhealth/2015/" class="producer-legacy">Legacy&nbsp;Health</a></li>
-							<li><a href="/plans/medicare_producer/salemhealth/2015/" class="producer-salem">Salem&nbsp;Health</a></li>
-							<li><a href="/plans/medicare_producer/2015/sr_select.shtml" class="medicareSupplement">Medicare&nbsp;Supplement</a></li>
-							<li><a href="/plans/medicare_producer/2015/mtm_program.shtml">Medicare Therapy Managment&nbsp;Program</a></li>
+							<li><a href="/plans/medicare_producer/2016/adv_pporx.shtml" class="producer-PPROX">Moda Health PPORX</a></li>
+							<li><a href="/plans/medicare_producer/2016/adv_ppo.shtml" class="producer-PPO">Moda Health PPO</a></li>
+							<li><a href="/plans/medicare_producer/2016/adv_hmo.shtml" class="producer-HMO">Moda Health HMO</a></li>
+							<li><a href="/plans/medicare_producer/2016/sr_select.shtml" class="medicareSupplement">Medicare Supplement</a></li>
+							<li><a href="/plans/medicare_producer/2016/mtm_program.shtml">Medicare Therapy Managment Program</a></li>
 						</ul>
 					</li>
 					<li>
@@ -256,11 +266,10 @@
 							<li class="content_or"><a href="/producers/news.shtml">Newsletter</a></li>
                             <!--li><a href="/producers/roadshow.shtml">Road Show</a></li-->
 							<li class="content_or content_wa" style="display: none !important"><a href="/producers/rx/card.shtml">Drug discount card</a></li>
-							<li><a href="/producers/mkt_materials.shtml">Marketing&nbsp;materials</a></li>
                             <li class="stepchild"><a href="/producers/pharmacy_prefdrug.shtml">Preferred Drug Program</a></li>
 							
-							<li class="content_wa content_ak content_or" style="display: none !important"><a href="/producers/mkt_team.shtml">Sales &amp; Account  Services&nbsp;team</a></li>
-                            <li class="content_ca" style="display: none !important"><a href="/plans/individual/resources/mkt_team.shtml">Sales &amp; Account  Services&nbsp;team</a></li>
+							<li class="content_wa content_ak content_or" style="display: none !important"><a href="/producers/mkt_team.shtml">Sales &amp; Account  Services team</a></li>
+                            <li class="content_ca" style="display: none !important"><a href="/plans/individual/resources/mkt_team.shtml">Sales &amp; Account  Services team</a></li>
 							<li class="content_or"><a href="/pdfs/group_admin_guide.pdf">Group administrative guide</a></li>
                             <li class="content_ak" style="display: none !important"><a href="/pdfs/ak/group_admin_guide.pdf">Group administrative guide</a></li>
 							<li><a href="/producers/forms.shtml">Forms</a></li>
@@ -272,10 +281,31 @@
 				<ul class="pebb">
 					<li><span><a href="/pebb">PEBB home</a></span></li>
 					<li>
-						<span><a href="/pebb/medical">Medical</a></span>
+						<span><a href="#tbd">Medical</a></span>
+						<ul>
+							<li><a href="/pebb/medical/">Overview</a></li>
+							<li><a href="/pebb/medical/synergy_plans.shtml">Synergy Plans</a></li>
+							<li><a href="/pebb/medical/summit_plans.shtml">Summit Plans</a></li>
+						</ul>
 					</li>
+					<li><span><a href="#tbd">Medical home</a></span>
+	                	<ul>
+	                        <li><a href="/pebb/members/medical_home/index.shtml">What is a medical home?</a></li>
+	                        <li><a href="/pebb/members/medical_home/conversation.shtml">Start the conversation</a></li>
+						</ul>
+	                </li>
 					<li>
                     	<span><a href="/pebb/dental">Dental</a></span>
+                    </li>
+                    <li>
+                    	<span><a href="#tbd">Plan materials</a></span>
+                    	<ul>
+                    		<li><a href="/pebb/planmaterials/handbooks.shtml">Handbooks</a></li>
+                    		<li><a href="/pebb/planmaterials/sbcs.shtml">Summaries of benefits and coverage</a></li>
+                    	</ul>
+                    </li>
+                    <li>
+                    	<span><a href="/pebb/dpp/">Diabetes Prevention Program</a></span>
                     </li>
 					<li>
 						<span><a href="/pebb/resources">Resources</a></span>
@@ -287,8 +317,8 @@
 					<li><span><a href="/medical/mbt.shtml">Benefits &amp; eligibility</a></span></li>
 					<li><span><a href="#tbd">Authorization &amp; referrals</a></span>
 						<ul>
-							<li><a href="/medical/referrals.shtml">Referral and authorization&nbsp;guidelines</a></li>
-							<li class="content_or content_ak" style="display: none !important"><a href="/medical/imaging.shtml">Diagnostic Imaging Management Service&nbsp;FAQs</a></li>
+							<li><a href="/medical/referrals/">Referral and authorization guidelines</a></li>
+							<li class="content_or content_ak" style="display: none !important"><a href="/medical/imaging.shtml">Diagnostic Imaging Management Service FAQs</a></li>
 							<li class="content_or content_ak" style="display: none !important"><a href="/medical/injectables/">Injectable medication program</a></li>
 							<li class="content_or content_ak" style="display: none !important"><a href="/medical/claim_edits_policy/">Claim edits policy</a> </li>
 							<li><a href="/medical/medical_criteria.shtml">Medical necessity criteria</a></li>
@@ -298,42 +328,44 @@
 					<li>
 						<span><a href="#tbd">Patient care programs</a></span>
 						<ul>
-							<li class="content_or content_ak" style="display: none !important"><a href="/medical/health_coaching.shtml">Health&nbsp;coaching</a></li>
-							<li><a href="/medical/case_management.shtml">Case&nbsp;management</a></li>
+							<li class="content_or content_ak" style="display: none !important"><a href="/medical/health_coaching.shtml">Health coaching</a></li>
+							<li><a href="/medical/case_management.shtml">Case management</a></li>
 						</ul>
 					</li>
 					<li class="workingWithModa"><span><a href="#tbd">Working with Moda Health</a></span>
 						<ul>
+							<li><a href="/medical/contracting/overview.shtml">Contracting</a></li>
 							<li><a href="/medical/credentialing/overview.shtml" class="credentialing">Credentialing</a></li>
 							<li><a href="/medical/policies.shtml">Policies and manuals</a></li>
 							<li class="content_or content_ak content_ca claimsAndAppeals" style="display: none !important"><a href="/medical/claims.shtml">Claims and appeals</a></li>
 							<li class="content_wa claimsAndAppeals" style="display: none !important"><a href="/medical/claims_comm.shtml">Claims and appeals</a></li>
 							<li class="content_or content_ak" style="display: none !important"><a href="/medical/plans_networks.shtml">Networks</a></li>
-							<li><a href="/medical/fraud_unit.shtml">Fraud&nbsp;prevention</a></li>
+							<li><a href="/medical/faq_ICD10.shtml">Transitioning to ICD-10</a></li>
+							<li><a href="/medical/fraud_unit.shtml">Fraud prevention</a></li>
 						</ul>
 					</li>
 					<li>
 						<span><a href="#tbd">Provider resources</a></span>
 						<ul>
-							<li><a href="/medical/clinical_guidlines_tools.shtml">Clinical guidelines and&nbsp;tools</a></li>
-							<li><a href="/medical/behavioral_health.shtml">Behavioral&nbsp;health</a></li>
-                            <li class="content_or content_ak content_wa" style="display: none !important"><a href="/medical/prev_svcs.shtml">Preventive&nbsp;services</a></li>
-                            <li class="content_or content_ak content_wa" style="display: none !important"><a href="/medical/med_compliance.shtml">Medicare&nbsp;compliance</a></li>
+							<li><a href="/medical/clinical_guidlines_tools.shtml">Clinical guidelines and tools</a></li>
+							<li><a href="/medical/behavioral_health.shtml">Behavioral health</a></li>
+                            <li class="content_or content_ak content_wa" style="display: none !important"><a href="/medical/prev_svcs.shtml">Preventive services</a></li>
+                            <li class="content_or content_ak content_wa" style="display: none !important"><a href="/medical/med_compliance.shtml">Medicare compliance</a></li>
 							<li><a href="/medical/forms.shtml">Forms</a></li>
 							<li class="content_or content_ak content_wa" style="display: none !important"><a href="/medical/samples.shtml">Samples</a></li>
 							<li class="content_ca" style="display: none !important"><a href="/members/samples.shtml">Samples</a></li>
 							<li class="content_or"><a href="/medical/workshops.shtml">Workshops</a></li>
-  							<li class="content_or"><a href="/medical/newsletters.shtml">Newsletters</a></li>
-  							<li class="content_or content_ak content_wa" style="display: none !important"><a href="/medical/reference-price-program/">Reference Price Program</a></li>
-							<li><a href="/medical/practitioner_rights.shtml">Practitioner&nbsp;rights</a></li>
+  							<li class="content_or"><a href="/medical/providernews.shtml">Provider news</a></li>
+  							<li class="content_or content_ak content_wa" style="display: none !important"><a href="/medical/reference-price-program/">OEBB Reference Price Program</a></li>
+							<li><a href="/medical/practitioner_rights.shtml">Practitioner rights</a></li>
 						</ul>
 					</li>
 					<li>
 						<span><a href="#tbd">Patient resources</a></span>
 						<ul>
-							<li><a href="/medical/ods_well.shtml">Moda Health Be Better&nbsp;tools</a></li>
-							<li><a href="/medical/care_prog.shtml">Care&nbsp;programs</a></li>
-							<li><a href="/medical/pat_rights.shtml">Patients’ rights and&nbsp;responsibilities</a></li>
+							<li><a href="/medical/ods_well.shtml">Moda Health Be Better tools</a></li>
+							<li><a href="/medical/care_prog.shtml">Care programs</a></li>
+							<li><a href="/medical/pat_rights.shtml">Patients’ rights and responsibilities</a></li>
 						</ul>
 					</li>
 					<li>
@@ -355,26 +387,26 @@
 
                                 </ul>
                                 </li>
-							<li><a href="/medical/rx_utilization_management.shtml">Utilization&nbsp;Management</a></li>
-							<li><a href="/medical/rx_partners.shtml">Business&nbsp;partners</a></li>
-							<li class="content_or content_wa" style="display: none !important"><a href="/medical/nw_rx_prog.shtml">Northwest Prescription Drug&nbsp;Program</a></li>
+							<li><a href="/medical/rx_utilization_management.shtml">Utilization Management</a></li>
+							<li><a href="/medical/rx_partners.shtml">Business partners</a></li>
+							<li class="content_or content_wa" style="display: none !important"><a href="/medical/nw_rx_prog.shtml">Northwest Prescription Drug Program</a></li>
 							<li><a href="/medical/immu_vacc.shtml">Immunizations and vaccines</a></li>     
 							<li><a href="/medical/pharmacy_prefdrug.shtml">Preferred Drug Program</a></li>     
-							<li class="content_or content_ak" style="display: none !important"><a href="/medical/formularies.shtml">Pharmacy&nbsp;formularies</a></li>     
-							<li><a href="/medical/rx_forms.shtml">Pharmacy&nbsp;forms</a></li>     
+							<li class="content_or content_ak" style="display: none !important"><a href="/medical/formularies.shtml">Pharmacy formularies</a></li>     
+							<li><a href="/medical/rx_forms.shtml">Pharmacy forms</a></li>     
 						</ul>					
 					</li>
 					<li>
 						<span><a href="#tbd">Quality of care</a></span>
 						<ul>
 							<li><a href="/medical/quality_improvement.shtml">Quality improvement programs</a></li>
-							<li><a href="/medical/quality_projects.shtml">Measuring quality at Moda&nbsp;Health</a></li>
-							<li class="content_wa" style="display: none !important"><a href="/medical/pat_safety.shtml">Patient&nbsp;Safety</a> </li>
-							<li class="content_or"><a href="/medical/pat_safety.shtml">Patient&nbsp;Safety</a></li>
-							<li class="content_ca" style="display: none !important"><a href="/medical/pat_safety.shtml">Patient&nbsp;Safety</a> </li>
-							<li class="content_ak" style="display: none !important"><a href="/medical/pat_safety.shtml">Patient&nbsp;Safety</a> </li>
-							<li><a href="/medical/health_use_policy.shtml">Policy on Healthcare&nbsp;Use</a></li>
-                            <li class="stepchild"><a href="/about/quality_effectiveness.shtml">Effectiveness of Quality&nbsp;Programs</a></li>
+							<li><a href="/medical/quality_projects.shtml">Measuring quality at Moda Health</a></li>
+							<li class="content_wa" style="display: none !important"><a href="/medical/pat_safety.shtml">Patient Safety</a> </li>
+							<li class="content_or"><a href="/medical/pat_safety.shtml">Patient Safety</a></li>
+							<li class="content_ca" style="display: none !important"><a href="/medical/pat_safety.shtml">Patient Safety</a> </li>
+							<li class="content_ak" style="display: none !important"><a href="/medical/pat_safety.shtml">Patient Safety</a> </li>
+							<li><a href="/medical/health_use_policy.shtml">Policy on Healthcare Use</a></li>
+                            <li class="stepchild"><a href="/about/quality_effectiveness.shtml">Effectiveness of Quality Programs</a></li>
                             <li class="stepchild"><a href="/about/med_rec_survey_results.shtml">Medical Survey Results</a></li>
                             </ul>
 					</li>
@@ -386,19 +418,19 @@
 					<li>
                     	<span><a href="#tbd">Billing/claims</a></span>
                         <ul>
-                            <li><a href="/dental/billingtips.shtml">Electronic&nbsp;claims</a></li>
+                            <li><a href="/dental/billingtips.shtml">Electronic claims</a></li>
                             <li><a href="/dental/pre_deter.shtml">Pre-determinations</a></li>
-                            <li><a href="/dental/clinical_request_info.shtml">Clinical request information</a></li>
-                            <li><a href="/pdfs/hipaa_exCodes.pdf">Electronic remittance explanation&nbsp;codes</a></li>
+                            <!--li><a href="/dental/clinical_request_info.shtml">Clinical request information</a></li-->
+                            <li><a href="/pdfs/hipaa_exCodes.pdf">Electronic remittance explanation codes</a></li>
                         </ul>
 					</li>
 					<li>
 						<span><a href="#tbd">Participating provider</a></span>
 						<ul>
-							<li class="content_or"><a href="/dental/ods_deltadental.shtml">Our Delta relationship</a></li>
-							<li><a href="/dental/networks.shtml">Delta&nbsp;Premier/PPO</a></li>
+							<li class="content_or content_ak" style="display: none !important"><a href="/dental/ods_deltadental.shtml">Our Delta relationship</a></li>
+							<li><a href="/dental/networks.shtml">Delta Premier/PPO</a></li>
 							<li class="content_or"><a href="/dental/networks_ohp.shtml">Oregon Health Plan</a></li>
-							<li class="content_or"><a href="/dental/networks_childrens.shtml">Children's&nbsp;Program</a></li>
+							<li class="content_or"><a href="/dental/networks_childrens.shtml">Children's Program</a></li>
 							<li class="content_or"><a href="/dental/contracting_credentialing.shtml">Contracting and credentialing</a></li>
 						</ul>
 					</li>
@@ -409,37 +441,38 @@
 							<li><a href="/dental/forms.shtml">Forms</a></li>
 							<li class="content_or"><a href="/dental/workshops.shtml">Workshops</a></li>
 							<li><a href="/dental/news.shtml">Newsletters</a></li>
-							<li><a href="/dental/buy_sell_dental_practice.shtml">Buy or sell a&nbsp;practice</a></li>
-                            <li><a href="/dental/dental_technology.shtml">Dental&nbsp;technology</a></li>
-							<li><a href="/dental/employee_management.shtml">Employee&nbsp;management</a></li>
-							<li><a href="/dental/feefiling.shtml">Fee&nbsp;filing</a></li>
-							<li><a href="/dental/samples.shtml">Sample&nbsp;documents</a></li>
-                            <li><a href="/about/fraudunit/index.shtml">Fraud&nbsp;prevention</a></li>
+							<li><a href="/dental/buy_sell_dental_practice.shtml">Buy or sell a practice</a></li>
+                            <li><a href="/dental/dental_technology.shtml">Dental technology</a></li>
+							<li><a href="/dental/employee_management.shtml">Employee management</a></li>
+							<li><a href="/dental/feefiling.shtml">Fee filing</a></li>
+							<li><a href="/dental/samples.shtml">Sample documents</a></li>
+                            <li><a href="/dental/fraudprevention.shtml">Fraud prevention</a></li>
+                            <li><a href="/dental/ACA/">Affordable Care Act</a></li>
 						</ul>
 					</li>
 					<li>
 						<span><a href="#tbd">Patient resources</a></span>
 						<ul>
-							<li><a href="/dental/oral_total_health.shtml">Oral Health, Total&nbsp;Health</a></li>
-							<li><a href="/dental/den_optimizer.shtml">Dental&nbsp;optimizer</a></li>
-							<li><a href="/dental/everywhere_care.shtml">Passport&nbsp;Dental</a></li>
+							<li><a href="/dental/oral_total_health.shtml">Oral Health, Total Health</a></li>
+							<li><a href="/dental/den_optimizer.shtml">Dental optimizer</a></li>
+							<li><a href="/dental/everywhere_care.shtml">Passport Dental</a></li>
 							<li><a href="/dental/myODS.shtml">myModa</a></li>
-							<li><a href="/dental/patient_forms.shtml">Patient&nbsp;forms</a></li>
-							<li><a href="/dental/phi_docs.shtml">PHI&nbsp;docs</a></li>
+							<li><a href="/dental/patient_forms.shtml">Patient forms</a></li>
+							<li><a href="/dental/phi_docs.shtml">PHI docs</a></li>
 							<li><a href="/dental/patient_eob.shtml">EOB</a></li>
-							<li><a href="/dental/patient_mkt_materials.shtml">Marketing&nbsp;materials</a></li>
+							<li><a href="/dental/patient_mkt_materials.shtml">Marketing materials</a></li>
 						</ul>
 					</li>
 					<li>
 						<span><a href="#tbd">Pharmacy</a></span>
 						<ul>
 							<li><a href="/dental/drugs.shtml">Rx and therapeutics</a></li>
-							<li><a href="/dental/rx_partners.shtml">Business&nbsp;partners</a></li>
-							<li class="content_or content_wa" style="display: none !important"><a href="/dental/nw_rx_prog.shtml">Northwest Prescription Drug&nbsp;Program</a></li>
+							<li><a href="/dental/rx_partners.shtml">Business partners</a></li>
+							<li class="content_or content_wa" style="display: none !important"><a href="/dental/nw_rx_prog.shtml">Northwest Prescription Drug Program</a></li>
 							<li><a href="/dental/immu_vacc.shtml">Immunizations and vaccines</a></li>     
 							<li><a href="/dental/pharmacy_prefdrug.shtml">Preferred Drug Program</a></li>     
-							<li class="content_or content_wa" style="display: none !important"><a href="/dental/formularies.shtml">Pharmacy&nbsp;formularies</a></li>     
-							<li><a href="/dental/rx_forms.shtml">Pharmacy&nbsp;forms</a></li>     
+							<li class="content_or content_wa" style="display: none !important"><a href="/dental/formularies.shtml">Pharmacy formularies</a></li>     
+							<li><a href="/dental/rx_forms.shtml">Pharmacy forms</a></li>     
 						</ul>					
 					</li>
 				</ul>
@@ -452,15 +485,15 @@
 						<ul>
 							<li><a href="/plans/individual/rx/index.shtml">Overview</a></li>
 							<li class="content_or content_wa" style="display: none !important"><a href="/plans/individual/rx/card.shtml">Drug discount card</a></li>
-							<li><a href="/plans/individual/rx/network.shtml">Participating&nbsp;pharmacies</a></li>
-							<li><a href="/plans/individual/rx/mail.shtml">Mail-order&nbsp;medications</a></li>
+							<li><a href="/plans/individual/rx/network.shtml">Participating pharmacies</a></li>
+							<li><a href="/plans/individual/rx/mail.shtml">Mail-order medications</a></li>
 						</ul>
 					</li>
 					<li class="content_or"><span class="content_or"><a href="/plans/individual/medicare.shtml">Medicare</a></span></li>
 					<li><span><a href="#tbd" class="trigger_first_subnav">Resources</a></span>
                         <ul>
                             <li><a href="/plans/individual/resources/index.shtml">Overview</a></li>
-                            <li class="content_ak content_or content_wa" style="display: none !important"><a href="/plans/individual/resources/mkt_team.shtml">Sales &amp; Account Services&nbsp;team</a></li>
+                            <li class="content_ak content_or content_wa" style="display: none !important"><a href="/plans/individual/resources/mkt_team.shtml">Sales &amp; Account Services team</a></li>
 
 						</ul>
                     </li>
@@ -470,7 +503,7 @@
 					<li><span><a href="/plans/wa/individual">Individual plans home</a></span></li>
 					<li><span><a href="/plans/wa/individual/121101/med.shtml">Medical</a></span>
 						<ul>
-							<li class="stepchild"><a href="/plans/wa/individual/121101/med_plans.shtml">Medical&nbsp;plans</a></li>
+							<li class="stepchild"><a href="/plans/wa/individual/121101/med_plans.shtml">Medical plans</a></li>
 							<li class="stepchild"><a href="/plans/wa/individual/121101/med_limits.shtml">Limitations and exclusions</a></li>
 							<li class="stepchild"><a href="/plans/wa/individual/121101/premium_rates.shtml">Premium (PPO) Rates</a></li>
 							<li class="stepchild"><a href="/plans/wa/individual/121101/hybrid_rates.shtml">Hybrid (PPO) Rates</a></li>
@@ -495,8 +528,8 @@
 							<li><a href="/employers/plans/index.shtml">Overview</a></li>
 							<li><a href="/employers/plans/medical.shtml">Medical</a></li>
 							<li><a href="/employers/plans/pharmacy.shtml">Pharmacy</a>
-							</li><li><a href="/employers/plans/participatingrx.shtml">Participating&nbsp;Pharmacies</a></li>
-							<li><a href="/employers/plans/mailorderrx.shtml">Mail-order&nbsp;medications</a></li>
+							</li><li><a href="/employers/plans/participatingrx.shtml">Participating Pharmacies</a></li>
+							<li><a href="/employers/plans/mailorderrx.shtml">Mail-order medications</a></li>
 							<li class="content_or content_ak" style="display: none !important"><a href="/employers/plans/dental.shtml">Dental</a></li>
 							<li><a href="/employers/enroll.shtml">Enrollment</a></li>
 						</ul>
@@ -507,28 +540,28 @@
 						<ul>
 							<li class="content_or"><a href="/employers/plans/drugdiscountcard.shtml">Drug discount card</a></li>
 							<li class="content_or"><a href="/employers/news.shtml">Newsletter</a></li>
-							<li class="content_or content_ak" style="display: none !important"><a href="/employers/mkt_materials.shtml">Marketing&nbsp;flyers</a></li>
-							<li class="content_wa content_or content_ak" style="display: none !important"><a href="/employers/mkt_team.shtml">Sales &amp; Account  Services&nbsp;team</a></li>
+							<li class="content_or content_ak" style="display: none !important"><a href="/employers/mkt_materials.shtml">Marketing flyers</a></li>
+							<li class="content_wa content_or content_ak" style="display: none !important"><a href="/employers/mkt_team.shtml">Sales &amp; Account  Services team</a></li>
 							<li class="content_or"><a href="/pdfs/group_admin_guide.pdf">Group administrative guide</a></li>
 							<li class="content_ak" style="display: none !important"><a href="/pdfs/ak/group_admin_guide.pdf">Group administrative guide</a></li>
 							<li><a href="/employers/forms.shtml">Forms</a></li>
 							<li><a href="/employers/samples.shtml">Samples</a></li>
-							<li><a href="#tbd">Moda&nbsp;Well@work</a>
+							<li><a href="#tbd">Moda Well@work</a>
 								<ul>
 									<li><a href="/employers/wellatwork/index.shtml">Overview</a></li>
-									<li class="content_or content_ak" style="display: none !important"><a href="/employers/wellatwork/toc.shtml">Employer&nbsp;Toolkit</a></li>
-									<li class="content_or content_ak" style="display: none !important"><a href="/employers/wellatwork/activity_calendar.shtml">Activity&nbsp;Calendar</a></li>
+									<li class="content_or content_ak" style="display: none !important"><a href="/employers/wellatwork/toc.shtml">Employer Toolkit</a></li>
+									<li class="content_or content_ak" style="display: none !important"><a href="/employers/wellatwork/activity_calendar.shtml">Activity Calendar</a></li>
 									<li class="content_or content_ak content_wa" style="display: none !important"><a href="/employers/wellatwork/campaigns.shtml">Health Promotion Campaigns</a></li>
-									<li><a href="/employers/wellatwork/wellnessconsulting.shtml">Wellness&nbsp;Consulting</a></li>
+									<li><a href="/employers/wellatwork/wellnessconsulting.shtml">Wellness Consulting</a></li>
 									<li class="stepchild"><a href="/employers/wellatwork/dental.shtml">Dental</a></li>
-									<li class="stepchild"><a href="/employers/wellatwork/healthcoaching.shtml">Health&nbsp;coaching</a></li>
+									<li class="stepchild"><a href="/employers/wellatwork/healthcoaching.shtml">Health coaching</a></li>
 									<li class="stepchild"><a href="/employers/wellatwork/hra.shtml">HRA</a></li>
 									<li class="stepchild"><a href="/employers/wellatwork/stress.shtml">Stress</a></li>
 									<li class="stepchild"><a href="/employers/wellatwork/campaigns.shtml">Campaigns</a></li>
 									<li class="stepchild"><a href="/employers/wellatwork/nutrition.shtml">Nutrition</a></li>
-									<li class="stepchild"><a href="/employers/wellatwork/physicalactivity.shtml">Physical&nbsp;Activity</a></li>
+									<li class="stepchild"><a href="/employers/wellatwork/physicalactivity.shtml">Physical Activity</a></li>
 									<li class="stepchild"><a href="/employers/wellatwork/toc.shtml">TOC</a></li>
-									<li class="stepchild"><a href="/employers/wellatwork/wellnessconsulting.shtml">Wellness&nbsp;Consulting</a></li>
+									<li class="stepchild"><a href="/employers/wellatwork/wellnessconsulting.shtml">Wellness Consulting</a></li>
 								</ul>
 							</li>
 						</ul>
@@ -543,7 +576,7 @@
 					<li><span><a href="/plans/rx/index.shtml">Pharmacy</a></span></li>
 				</ul>
 
-                <ul class="community">
+                <ul class="community modaHealthMonths">
                     <li><span><a href="/community">In the community</a></span></li>
                     <li><span><a href="#tbd" class="trigger_first_subnav">News &amp; videos</a></span>
 						<ul>
@@ -551,6 +584,13 @@
 						</ul>
 					</li>
 					<li><span><a href="/community/moda_moments/">Moda moments</a></span></li>
+					<li><span><a href="/modahealthmonths/">Moda Health Months</a></span>
+						<ul>
+							<li><a href="/modahealthmonths/">Overview</a></li>
+							<li><a href="/modahealthmonths/months.shtml">Health Months</a></li>
+							<li><a href="/modahealthmonths/events_and_partners.shtml">Events &amp; partners</a></li>
+						</ul>
+					</li>
 
 					<li><span><a href="#tbd" class="trigger_first_subnav">Trail Blazers</a></span>
                         <ul>
@@ -558,23 +598,22 @@
                             <li><a href="#tbd" class="trigger_first_subnav">Innovations</a>
                                 <ul>
                                     <li><a href="/community/blazers/innovations/index.shtml">Overview</a></li>
-                                    <li><a href="/community/blazers/innovations/plum_tasty.shtml">Plum&nbsp;Tasty</a></li>
-                                    <li><a href="/community/blazers/innovations/give_and_go.shtml">Give &amp; Go&nbsp;Assist</a></li>
+                                    <li><a href="/community/blazers/innovations/plum_tasty.shtml">Plum Tasty</a></li>
+                                    <li><a href="/community/blazers/innovations/moda_assist_program.shtml">Moda Assist Program</a></li>
                                     <li><a href="/community/blazers/innovations/create_the_court.shtml">Create the Court</a></li>
                                     <li><a href="/community/blazers/innovations/relay.shtml">Rip City Relay</a></li>
                                 </ul>
                             </li>
-                            <li><a href="#tbd" class="trigger_first_subnav">Get&nbsp;involved</a>
+                            <li><a href="#tbd" class="trigger_first_subnav">Get involved</a>
                                 <ul>
                                     <li><a href="/community/blazers/involved/index.shtml">Overview</a></li>
-                                    <li><a href="/community/blazers/involved/title_nights.shtml">Title&nbsp;nights</a></li>
-                                    <li><a href="/community/blazers/involved/fit_lifestyles.shtml">Fit&nbsp;lifestyles</a></li>
+                                    <li><a href="/community/blazers/involved/title_nights.shtml">Title nights</a></li>
+                                    <li><a href="/community/blazers/involved/fit_lifestyles.shtml">Fit lifestyles</a></li>
                                 </ul>
                             </li>
-                            <li><a href="/community/blazers/moda_center.shtml">Moda&nbsp;Center</a></li>
+                            <li><a href="/community/blazers/moda_center.shtml">Moda Center</a></li>
                         </ul>
                     </li>
-                    <li><span><a href="/community/reign">Reign</a></span></li>
                     <li><span><a href="/community/seahawks">Seahawks</a></span></li>
                     <li><span><a href="/community/kevin_carroll">Kevin Carroll</a></span></li>
                 </ul>
@@ -588,7 +627,7 @@
 						<span><a href="#tbd">Programs</a></span>
 						<ul>
 							<li><a href="/about/programs.shtml">Overview</a> </li>
-							<li><a href="/about/programs/ManagedCareResidency.shtml">Managed Care Residency&nbsp;Program</a> </li>
+							<li><a href="/about/programs/ManagedCareResidency.shtml">Managed Care Residency Program</a> </li>
 							<li><a href="/about/ec360.shtml">Equity Compass 360°</a></li>
 							<li class="content_or"><a href="/about/childrens.shtml">The Children's Program </a></li>
 							<li><a href="/about/fraudunit">Fraud Control Unit</a></li>
@@ -602,13 +641,16 @@
 						<span><a href="#tbd">Quality of care</a></span>
 						<ul>
 							<li><a href="/about/quality_improvement.shtml">Quality improvement programs</a></li>
-							<li><a href="/about/quality_projects.shtml">Measuring quality at Moda&nbsp;Health</a></li>
-							<li><a href="/about/health_use_policy.shtml">Policy on Healthcare&nbsp;Use</a></li>
+							<li><a href="/about/quality_projects.shtml">Measuring quality at Moda Health</a></li>
+							<li><a href="/about/health_use_policy.shtml">Policy on Healthcare Use</a></li>
                               <ul>
-                            <li class="stepchild"><a href="/about/quality_effectiveness.shtml">Effectiveness of Quality&nbsp;Programs</a></li>
+                            <li class="stepchild"><a href="/about/quality_effectiveness.shtml">Effectiveness of Quality Programs</a></li>
                             <li class="stepchild"><a href="/about/med_rec_survey_results.shtml">Medical Survey Results</a></li>
                             </ul>
 						</ul>	
+					</li>
+					<li>
+						<span><a href="/about/compliance.shtml">Compliance tools</a></span>
 					</li>
 				</ul>
 				
@@ -622,10 +664,10 @@
                     <li><span><a href="#tbd"><!--/oebb/members/fit/-->Fit It In!</a></span>
                     
                      <ul>
-							<li><a href="/oebb/members/fit/">Program&nbsp;overview</a></li>
-                            <li><a href="/oebb/members/fit/foot.shtml">On&nbsp;foot</a></li>
-                            <li><a href="/oebb/members/fit/wheels.shtml">On&nbsp;wheels</a></li>
-                            <li><a href="/oebb/members/fit/rest.shtml">At&nbsp;rest</a></li>
+							<li><a href="/oebb/members/fit/">Program overview</a></li>
+                            <li><a href="/oebb/members/fit/foot.shtml">On foot</a></li>
+                            <li><a href="/oebb/members/fit/wheels.shtml">On wheels</a></li>
+                            <li><a href="/oebb/members/fit/rest.shtml">At rest</a></li>
                     </ul>
                     </li>
                     <li><span><a href="/oebb/members/health_tools_coaching.shtml">Coaching and tools</a></span></li>
@@ -637,80 +679,81 @@
 							<li><a href="#tbd">Arthroscopy</a>
 								<ul>
 									<li><a href="/oebb/members/act/artho.shtml">What is it?</a></li>
-									<li><a href="/oebb/members/act/artho_when.shtml">When is it&nbsp;needed?</a></li>
+									<li><a href="/oebb/members/act/artho_when.shtml">When is it needed?</a></li>
 									<li><a href="/oebb/members/act/artho_risk_ben.shtml">Risks and benefits</a></li>
-									<li><a href="/oebb/members/act/artho_alt_treat.shtml">Alternative&nbsp;treatments</a></li>
-									<li><a href="/oebb/members/act/artho_doctor_quest.shtml">Questions for your&nbsp;doctor</a></li>
+									<li><a href="/oebb/members/act/artho_alt_treat.shtml">Alternative treatments</a></li>
+									<li><a href="/oebb/members/act/artho_doctor_quest.shtml">Questions for your doctor</a></li>
 								</ul>
 							</li>
-                               <li><a href="#tbd">Bariatric&nbsp;surgery</a>
+                               <li><a href="#tbd">Bariatric surgery</a>
 								<ul>
 									<li><a href="/oebb/members/act/bariatric.shtml">What is it?</a></li>
-									<li><a href="/oebb/members/act/bariatric_when.shtml">When is it&nbsp;needed?</a></li>
+									<li><a href="/oebb/members/act/bariatric_when.shtml">When is it needed?</a></li>
 									<li><a href="/oebb/members/act/bariatric_risk_ben.shtml">Risks and benefits</a></li>
-									<li><a href="/oebb/members/act/bariatric_alt_treat.shtml">Alternative&nbsp;treatments</a></li>
+									<li><a href="/oebb/members/act/bariatric_alt_treat.shtml">Alternative treatments</a></li>
 								</ul>
 							</li>
                             
                              <li><a href="#tbd">Discography</a>
 								<ul>
 									<li><a href="/oebb/members/act/disc.shtml">What is it?</a></li>
-									<li><a href="/oebb/members/act/disc_when.shtml">When is it&nbsp;needed?</a></li>
+									<li><a href="/oebb/members/act/disc_when.shtml">When is it needed?</a></li>
 									<li><a href="/oebb/members/act/disc_risk_ben.shtml">Risks and benefits</a></li>
-									<li><a href="/oebb/members/act/disc_alt_treat.shtml">Alternative&nbsp;treatments</a></li>
-   									<li><a href="/oebb/members/act/disc_doctor_quest.shtml">Questions for your&nbsp;doctor</a></li>
+									<li><a href="/oebb/members/act/disc_alt_treat.shtml">Alternative treatments</a></li>
+   									<li><a href="/oebb/members/act/disc_doctor_quest.shtml">Questions for your doctor</a></li>
 								</ul>
 							</li>
                             
                             
-							<li><a href="#tbd">Hip&nbsp;replacement</a>
+							<li><a href="#tbd">Hip replacement</a>
 								<ul>
 									<li><a href="/oebb/members/act/hip_replace.shtml">What is it?</a></li>
-									<li><a href="/oebb/members/act/hip_replace_when.shtml">When is it&nbsp;needed?</a></li>
+									<li><a href="/oebb/members/act/hip_replace_when.shtml">When is it needed?</a></li>
 									<li><a href="/oebb/members/act/hip_replace_risk_ben.shtml">Risks and benefits</a></li>
-									<li><a href="/oebb/members/act/hip_replace_alt_treat.shtml">Alternative&nbsp;treatments</a></li>
-									<li><a href="/oebb/members/act/hip_replace_doctor_quest.shtml">Questions for your&nbsp;doctor</a></li>
+									<li><a href="/oebb/members/act/hip_replace_alt_treat.shtml">Alternative treatments</a></li>
+									<li><a href="/oebb/members/act/hip_replace_doctor_quest.shtml">Questions for your doctor</a></li>
 								</ul>
 							</li>
-							<li><a href="#tbd">Knee&nbsp;replacement</a>
+							<li><a href="#tbd">Knee replacement</a>
 								<ul>
 									<li><a href="/oebb/members/act/knee_replace.shtml">What is it?</a></li>
-									<li><a href="/oebb/members/act/knee_replace_when.shtml">When is it&nbsp;needed?</a></li>
+									<li><a href="/oebb/members/act/knee_replace_when.shtml">When is it needed?</a></li>
 									<li><a href="/oebb/members/act/knee_replace_risk_ben.shtml">Risks and benefits</a></li>
-									<li><a href="/oebb/members/act/knee_replace_alt_treat.shtml">Alternative&nbsp;treatments</a></li>
-									<li><a href="/oebb/members/act/knee_replace_doctor_quest.shtml">Questions for your&nbsp;doctor</a></li>
+									<li><a href="/oebb/members/act/knee_replace_alt_treat.shtml">Alternative treatments</a></li>
+									<li><a href="/oebb/members/act/knee_replace_doctor_quest.shtml">Questions for your doctor</a></li>
 								</ul>
 							</li>
-							<li><a href="#tbd">Outpatient for upper&nbsp;endoscopy</a>
+							<li><a href="#tbd">Outpatient for upper endoscopy</a>
 								<ul>
 									<li><a href="/oebb/members/act/endo.shtml">What is it?</a></li>
-									<li><a href="/oebb/members/act/endo_when.shtml">When is it&nbsp;needed?</a></li>
+									<li><a href="/oebb/members/act/endo_when.shtml">When is it needed?</a></li>
 									<li><a href="/oebb/members/act/endo_risk_ben.shtml">Risks and benefits</a></li>
-									<li><a href="/oebb/members/act/endo_alt_treat.shtml">Alternative&nbsp;treatments</a></li>
-									<li><a href="/oebb/members/act/endo_doctor_quest.shtml">Questions for your&nbsp;doctor</a></li>
+									<li><a href="/oebb/members/act/endo_alt_treat.shtml">Alternative treatments</a></li>
+									<li><a href="/oebb/members/act/endo_doctor_quest.shtml">Questions for your doctor</a></li>
 								</ul>
 							</li>
-							<li><a href="#tbd">Spine&nbsp;surgery</a>
+							<li><a href="#tbd">Spine surgery</a>
 								<ul>
 									<li><a href="/oebb/members/act/spine.shtml">What is it? </a></li>
-									<li><a href="/oebb/members/act/spine_when.shtml">When is it&nbsp;needed?</a></li>
+									<li><a href="/oebb/members/act/spine_when.shtml">When is it needed?</a></li>
 									<li><a href="/oebb/members/act/spine_risk_ben.shtml">Risks and benefits</a></li>
-									<li><a href="/oebb/members/act/spine_alt_treat.shtml">Alternative&nbsp;treatments</a></li>
-									<li><a href="/oebb/members/act/spine_doctor_quest.shtml">Questions for your&nbsp;doctor</a></li>
+									<li><a href="/oebb/members/act/spine_alt_treat.shtml">Alternative treatments</a></li>
+									<li><a href="/oebb/members/act/spine_doctor_quest.shtml">Questions for your doctor</a></li>
 								</ul>
 							</li>
                             <li><a href="#tbd">Viscosupplementation</a>
 								<ul>
 									<li><a href="/oebb/members/act/viscosupp.shtml">What is it? </a></li>
-									<li><a href="/oebb/members/act/viscosupp_when.shtml">When is it&nbsp;needed?</a></li>
+									<li><a href="/oebb/members/act/viscosupp_when.shtml">When is it needed?</a></li>
 									<li><a href="/oebb/members/act/viscosupp_risk_ben.shtml">Risks and benefits</a></li>
-									<li><a href="/oebb/members/act/viscosupp_alt_treat.shtml">Alternative&nbsp;treatments</a></li>
+									<li><a href="/oebb/members/act/viscosupp_alt_treat.shtml">Alternative treatments</a></li>
 								</ul>
 							</li>
                             
                             
 						</ul>
 					</li>
+                   	<li><span><a href="/oebb/members/rpp/index.shtml">Reference Price Program</a></span></li>
 					<li>
 						<span><a href="#tbd">Plans</a></span>
 						<ul>
@@ -724,20 +767,20 @@
 								</ul>
 							</li>
 							<li>
-								<a href="#tbd">Provider&nbsp;networks</a>
+								<a href="#tbd">Provider networks</a>
 								<ul>
 									<li><a href="/oebb/members/provider_network.shtml">Overview</a></li>
 									<li><a href="/oebb/members/odsplus_network.shtml">Connexus</a></li>
 									<li><a href="/oebb/members/summit_synergy_networks.shtml">Summit and Synergy</a></li>
 								</ul>
 							</li>
-</ul>
- </li><li><span><a href="#tbd">Medical home</a></span>
-                	<ul>
-                        <li><a href="/oebb/members/medical_home/index.shtml">What is a medical&nbsp;home?</a></li>
-                        <li><a href="/oebb/members/medical_home/conversation.shtml">Start the conversation</a></li>
-					</ul>
-                </li>
+						</ul>
+					</li><li><span><a href="#tbd">Medical home</a></span>
+	                	<ul>
+	                        <li><a href="/oebb/members/medical_home/index.shtml">What is a medical home?</a></li>
+	                        <li><a href="/oebb/members/medical_home/conversation.shtml">Start the conversation</a></li>
+						</ul>
+	                </li>
 					
                  <!-- <li><span><a href="/oebb/members/ccn.shtml">CCN (Plan 4)</a></span>
                   <ul>
@@ -758,9 +801,9 @@
                     <li><span><a href="#tbd">Fit It In!</a></span>
                     
                     <ul>
-							<li><a href="/oebb/members/fit/foot.shtml">On&nbsp;Foot</a></li>
-                            <li><a href="/oebb/members/fit/wheels.shtml">On&nbsp;Wheels</a></li>
-                            <li><a href="/oebb/members/fit/rest.shtml">At&nbsp;Rest</a></li>
+							<li><a href="/oebb/members/fit/foot.shtml">On Foot</a></li>
+                            <li><a href="/oebb/members/fit/wheels.shtml">On Wheels</a></li>
+                            <li><a href="/oebb/members/fit/rest.shtml">At Rest</a></li>
                     </ul>
                     </li>
                 	<li>
@@ -770,46 +813,46 @@
 							<li><a href="#tbd">Arthroscopy</a>
 								<ul>
 									<li><a href="/oebb/members/act/artho.shtml">What is it?</a></li>
-									<li><a href="/oebb/members/act/artho_when.shtml">When is it&nbsp;needed?</a></li>
+									<li><a href="/oebb/members/act/artho_when.shtml">When is it needed?</a></li>
 									<li><a href="/oebb/members/act/artho_risk_ben.shtml">Risks and benefits</a></li>
-									<li><a href="/oebb/members/act/artho_alt_treat.shtml">Alternative&nbsp;treatments</a></li>
-									<li><a href="/oebb/members/act/artho_doctor_quest.shtml">Questions for your&nbsp;doctor</a></li>
+									<li><a href="/oebb/members/act/artho_alt_treat.shtml">Alternative treatments</a></li>
+									<li><a href="/oebb/members/act/artho_doctor_quest.shtml">Questions for your doctor</a></li>
 								</ul>
 							</li>
-							<li><a href="#tbd">Hip&nbsp;replacement</a>
+							<li><a href="#tbd">Hip replacement</a>
 								<ul>
 									<li><a href="/oebb/members/act/hip_replace.shtml">What is it?</a></li>
-									<li><a href="/oebb/members/act/hip_replace_when.shtml">When is it&nbsp;needed?</a></li>
+									<li><a href="/oebb/members/act/hip_replace_when.shtml">When is it needed?</a></li>
 									<li><a href="/oebb/members/act/hip_replace_risk_ben.shtml">Risks and benefits</a></li>
-									<li><a href="/oebb/members/act/hip_replace_alt_treat.shtml">Alternative&nbsp;treatments</a></li>
-									<li><a href="/oebb/members/act/hip_replace_doctor_quest.shtml">Questions for your&nbsp;doctor</a></li>
+									<li><a href="/oebb/members/act/hip_replace_alt_treat.shtml">Alternative treatments</a></li>
+									<li><a href="/oebb/members/act/hip_replace_doctor_quest.shtml">Questions for your doctor</a></li>
 								</ul>
 							</li>
-							<li><a href="#tbd">Knee&nbsp;replacement</a>
+							<li><a href="#tbd">Knee replacement</a>
 								<ul>
 									<li><a href="/oebb/members/act/knee_replace.shtml">What is it?</a></li>
-									<li><a href="/oebb/members/act/knee_replace_when.shtml">When is it&nbsp;needed?</a></li>
+									<li><a href="/oebb/members/act/knee_replace_when.shtml">When is it needed?</a></li>
 									<li><a href="/oebb/members/act/knee_replace_risk_ben.shtml">Risks and benefits</a></li>
-									<li><a href="/oebb/members/act/knee_replace_alt_treat.shtml">Alternative&nbsp;treatments</a></li>
-									<li><a href="/oebb/members/act/knee_replace_doctor_quest.shtml">Questions for your&nbsp;doctor</a></li>
+									<li><a href="/oebb/members/act/knee_replace_alt_treat.shtml">Alternative treatments</a></li>
+									<li><a href="/oebb/members/act/knee_replace_doctor_quest.shtml">Questions for your doctor</a></li>
 								</ul>
 							</li>
-							<li><a href="#tbd">Outpatient for upper&nbsp;endoscopy</a>
+							<li><a href="#tbd">Outpatient for upper endoscopy</a>
 								<ul>
 									<li><a href="/oebb/members/act/endo.shtml">What is it?</a></li>
-									<li><a href="/oebb/members/act/endo_when.shtml">When is it&nbsp;needed?</a></li>
+									<li><a href="/oebb/members/act/endo_when.shtml">When is it needed?</a></li>
 									<li><a href="/oebb/members/act/endo_risk_ben.shtml">Risks and benefits</a></li>
-									<li><a href="/oebb/members/act/endo_alt_treat.shtml">Alternative&nbsp;treatments</a></li>
-									<li><a href="/oebb/members/act/endo_doctor_quest.shtml">Questions for your&nbsp;doctor</a></li>
+									<li><a href="/oebb/members/act/endo_alt_treat.shtml">Alternative treatments</a></li>
+									<li><a href="/oebb/members/act/endo_doctor_quest.shtml">Questions for your doctor</a></li>
 								</ul>
 							</li>
-							<li><a href="#tbd">Spine&nbsp;surgery</a>
+							<li><a href="#tbd">Spine surgery</a>
 								<ul>
 									<li><a href="/oebb/members/act/spine.shtml">What is it?</a></li>
-									<li><a href="/oebb/members/act/spine_when.shtml">When is it&nbsp;needed?</a></li>
+									<li><a href="/oebb/members/act/spine_when.shtml">When is it needed?</a></li>
 									<li><a href="/oebb/members/act/spine_risk_ben.shtml">Risks and benefits</a></li>
-									<li><a href="/oebb/members/act/spine_alt_treat.shtml">Alternative&nbsp;treatments</a></li>
-									<li><a href="/oebb/members/act/spine_doctor_quest.shtml">Questions for your&nbsp;doctor</a></li>
+									<li><a href="/oebb/members/act/spine_alt_treat.shtml">Alternative treatments</a></li>
+									<li><a href="/oebb/members/act/spine_doctor_quest.shtml">Questions for your doctor</a></li>
 								</ul>
 							</li>
 						</ul>
@@ -825,7 +868,7 @@
 		                            <li><a href="/oebb/members/summaries2014.shtml">2014-2015</a></li>
 								</ul>
 							</li>
-							<li><a href="/oebb/members/provider_network.shtml">Provider&nbsp;networks</a></li>
+							<li><a href="/oebb/members/provider_network.shtml">Provider networks</a></li>
 						</ul>
 					</li>
 					<li><span><a href="/oebb/members/handbooks.shtml">Member handbooks</a></span></li>
@@ -855,46 +898,46 @@
 							<li><a href="#tbd">Arthroscopy</a>
 								<ul>
 									<li><a href="/oebb/entity/act/artho.shtml">What is it?</a></li>
-									<li><a href="/oebb/entity/act/artho_when.shtml">When is it&nbsp;needed?</a></li>
+									<li><a href="/oebb/entity/act/artho_when.shtml">When is it needed?</a></li>
 									<li><a href="/oebb/entity/act/artho_risk_ben.shtml">Risks and benefits</a></li>
-									<li><a href="/oebb/entity/act/artho_alt_treat.shtml">Alternative&nbsp;treatments</a></li>
-									<li><a href="/oebb/entity/act/artho_doctor_quest.shtml">Questions for your&nbsp;doctor</a></li>
+									<li><a href="/oebb/entity/act/artho_alt_treat.shtml">Alternative treatments</a></li>
+									<li><a href="/oebb/entity/act/artho_doctor_quest.shtml">Questions for your doctor</a></li>
 								</ul>
 							</li>
-							<li><a href="#tbd">Hip&nbsp;replacement</a>
+							<li><a href="#tbd">Hip replacement</a>
 								<ul>
 									<li><a href="/oebb/entity/act/hip_replace.shtml">What is it?</a></li>
-									<li><a href="/oebb/entity/act/hip_replace_when.shtml">When is it&nbsp;needed?</a></li>
+									<li><a href="/oebb/entity/act/hip_replace_when.shtml">When is it needed?</a></li>
 									<li><a href="/oebb/entity/act/hip_replace_risk_ben.shtml">Risks and benefits</a></li>
-									<li><a href="/oebb/entity/act/hip_replace_alt_treat.shtml">Alternative&nbsp;treatments</a></li>
-									<li><a href="/oebb/entity/act/hip_replace_doctor_quest.shtml">Questions for your&nbsp;doctor</a></li>
+									<li><a href="/oebb/entity/act/hip_replace_alt_treat.shtml">Alternative treatments</a></li>
+									<li><a href="/oebb/entity/act/hip_replace_doctor_quest.shtml">Questions for your doctor</a></li>
 								</ul>
 							</li>
-							<li><a href="#tbd">Knee&nbsp;replacement</a>
+							<li><a href="#tbd">Knee replacement</a>
 								<ul>
 									<li><a href="/oebb/entity/act/knee_replace.shtml">What is it?</a></li>
-									<li><a href="/oebb/entity/act/knee_replace_when.shtml">When is it&nbsp;needed?</a></li>
+									<li><a href="/oebb/entity/act/knee_replace_when.shtml">When is it needed?</a></li>
 									<li><a href="/oebb/entity/act/knee_replace_risk_ben.shtml">Risks and benefits</a></li>
-									<li><a href="/oebb/entity/act/knee_replace_alt_treat.shtml">Alternative&nbsp;treatments</a></li>
-									<li><a href="/oebb/entity/act/knee_replace_doctor_quest.shtml">Questions for your&nbsp;doctor</a></li>
+									<li><a href="/oebb/entity/act/knee_replace_alt_treat.shtml">Alternative treatments</a></li>
+									<li><a href="/oebb/entity/act/knee_replace_doctor_quest.shtml">Questions for your doctor</a></li>
 								</ul>
 							</li>
-							<li><a href="#tbd">Outpatient for upper&nbsp;endoscopy</a>
+							<li><a href="#tbd">Outpatient for upper endoscopy</a>
 								<ul>
 									<li><a href="/oebb/entity/act/endo.shtml">What is it?</a></li>
-									<li><a href="/oebb/entity/act/endo_when.shtml">When is it&nbsp;needed?</a></li>
+									<li><a href="/oebb/entity/act/endo_when.shtml">When is it needed?</a></li>
 									<li><a href="/oebb/entity/act/endo_risk_ben.shtml">Risks and benefits</a></li>
-									<li><a href="/oebb/entity/act/endo_alt_treat.shtml">Alternative&nbsp;treatments</a></li>
-									<li><a href="/oebb/entity/act/endo_doctor_quest.shtml">Questions for your&nbsp;doctor</a></li>
+									<li><a href="/oebb/entity/act/endo_alt_treat.shtml">Alternative treatments</a></li>
+									<li><a href="/oebb/entity/act/endo_doctor_quest.shtml">Questions for your doctor</a></li>
 								</ul>
 							</li>
-							<li><a href="#tbd">Spine surgery for&nbsp;pain</a>
+							<li><a href="#tbd">Spine surgery for pain</a>
 								<ul>
 									<li><a href="/oebb/entity/act/spine.shtml">What is it?</a></li>
-									<li><a href="/oebb/entity/act/spine_when.shtml">When is it&nbsp;needed?</a></li>
+									<li><a href="/oebb/entity/act/spine_when.shtml">When is it needed?</a></li>
 									<li><a href="/oebb/entity/act/spine_risk_ben.shtml">Risks and benefits</a></li>
-									<li><a href="/oebb/entity/act/spine_alt_treat.shtml">Alternative&nbsp;treatments</a></li>
-									<li><a href="/oebb/entity/act/spine_doctor_quest.shtml">Questions for your&nbsp;doctor</a></li>
+									<li><a href="/oebb/entity/act/spine_alt_treat.shtml">Alternative treatments</a></li>
+									<li><a href="/oebb/entity/act/spine_doctor_quest.shtml">Questions for your doctor</a></li>
 								</ul>
 							</li>
 						</ul>
@@ -904,20 +947,20 @@
 						<span><a href="#tbd">Moda Well@work</a></span>
 						<ul>
 							<li><a href="/oebb/entity/wellatwork/index.shtml">Overview</a></li>
-							<li><a href="/oebb/entity/wellatwork/toc.shtml">Employer&nbsp;Toolkit</a></li>
-							<li><a href="/oebb/entity/wellatwork/activity_calendar.shtml">Activity&nbsp;Calendar</a></li>
+							<li><a href="/oebb/entity/wellatwork/toc.shtml">Employer Toolkit</a></li>
+							<li><a href="/oebb/entity/wellatwork/activity_calendar.shtml">Activity Calendar</a></li>
 							<li><a href="/oebb/entity/wellatwork/campaigns.shtml">Health Promotion Campaigns</a></li>
                             <li class="stepchild"><a href="/oebb/entity/wellatwork/dental.shtml">Dental</a></li>
-                            <li class="stepchild"><a href="/oebb/entity/wellatwork/healthcoaching.shtml">Health&nbsp;coaching</a></li>
+                            <li class="stepchild"><a href="/oebb/entity/wellatwork/healthcoaching.shtml">Health coaching</a></li>
 		                            <li class="stepchild"><a href="/oebb/entity/wellatwork/hra.shtml">HRA</a></li>
 		   							<li class="stepchild"><a href="/oebb/entity/wellatwork/stress.shtml">Stress</a></li>
 
 		 							<li class="stepchild"><a href="/oebb/entity/wellatwork/nutrition.shtml">Nutrition</a></li>
-		   							<li class="stepchild"><a href="/oebb/entity/wellatwork/physicalactivity.shtml">Physical&nbsp;Activity</a></li>
+		   							<li class="stepchild"><a href="/oebb/entity/wellatwork/physicalactivity.shtml">Physical Activity</a></li>
 		 							<li class="stepchild"><a href="/oebb/entity/wellatwork/toc.shtml">TOC</a></li>
-                                  	<li class="stepchild"><a href="/oebb/entity/wellatwork/wellnessconsulting.shtml">Wellness&nbsp;Consulting</a></li>
+                                  	<li class="stepchild"><a href="/oebb/entity/wellatwork/wellnessconsulting.shtml">Wellness Consulting</a></li>
                             
-							<li><a href="/oebb/entity/wellatwork/wellnessconsulting.shtml">Wellness&nbsp;Consulting</a></li>
+							<li><a href="/oebb/entity/wellatwork/wellnessconsulting.shtml">Wellness Consulting</a></li>
 						</ul>
 					</li>
                     <li>
@@ -931,7 +974,7 @@
 								</ul>
 							</li>
 							<li>
-								<a href="#tbd">Provider&nbsp;networks</a>
+								<a href="#tbd">Provider networks</a>
 								<ul>
 									<li><a href="/oebb/entity/provider_network.shtml">Overview</a></li>
 									<li><a href="/oebb/entity/odsplus_network.shtml">Connexus</a></li>
@@ -952,7 +995,7 @@
 				<li><span><a href="/oebb/entity/hsa_planh.shtml">HSA (Plan H)</a></span></li>
 				<li><span><a href="#tbd">Medical home</a></span>
                 	<ul>
-                        <li><a href="/oebb/entity/medical_home/index.shtml">What is a medical&nbsp;home?</a></li>
+                        <li><a href="/oebb/entity/medical_home/index.shtml">What is a medical home?</a></li>
                         <li><a href="/oebb/entity/medical_home/conversation.shtml">Start the conversation</a></li>
 					</ul>
                 </li>
@@ -960,9 +1003,9 @@
 				<li><span><a href="#tbd">Resources</a></span>
 				<ul>
 
-                            <li><a href="/oebb/entity/mkt_materials.shtml">Marketing&nbsp;Flyers</a></li>
+                            <li><a href="/oebb/entity/mkt_materials.shtml">Marketing Flyers</a></li>
 							<li><a href="/oebb/entity/newsletters/">Newsletters</a></li>
-			                <li><a href="/about/programs.shtml">Moda Health Partner&nbsp;Programs</a></li>                            
+			                <li><a href="/about/programs.shtml">Moda Health Partner Programs</a></li>                            
 						</ul>
 </li>
 				<li><span><a href="/oebb/entity/digitalcard/">ID card</a></span></li>
@@ -999,9 +1042,14 @@
 					<li><span><a href="/alaskacare/forms.shtml">Claim form</a></span></li>
 				</ul>
 				<div class="find-care" style="margin-top: 20px;">
+					<ul class="members">
+						<li class="members">
+							<span class="blue-tab"><a href="/members/ebill.shtml">Pay a bill</a> </span>
+						</li>
+					</ul>
 					<ul class="home members fourj nike ohp learning medicarePlans individualPlans producer about community">
 						<li class="content_or">
-							<span class="blue-tab"><a href="#tbd">Shop for a plan</a> </span>
+							<span class="blue-tab" style="margin-top:1px;height:auto;"><a href="#tbd">Shop for a plan</a> </span>
 							<ul>
 								<li><a href="/shop/fme">Individuals and families</a></li>
 								<li><a href="/plans/medicare/">Medicare</a> </li>
@@ -1009,29 +1057,36 @@
 							</ul>
 						</li>
 						<li class="content_ak content_wa" style="display: none !important">
-							<span class="blue-tab"><a href="#tbd">Shop for a plan</a> </span>
+							<span class="blue-tab" style="margin-top:1px;height:auto;"><a href="#tbd">Shop for a plan</a> </span>
 							<ul>
 								<li><a href="/shop/fme">Individuals and families</a></li>
 								<li><a href="/employers/plans/index.shtml">Employers</a></li>
 							</ul>
 						</li>
 						<li class="content_ca" style="display: none !important">
-							<span class="blue-tab"><a href="http://www.choosemoda.com/">Shop for a plan</a> </span>
+							<span class="blue-tab" style="margin-top:1px;height:auto;"><a href="http://www.choosemoda.com/">Shop for a plan</a> </span>
 						</li>
 					</ul>
 					<ul style="display: block">
-						<li class="content_ak content_wa content_or" style="display: none !important">
+						<li class="content_ak content_wa content_or content_not_ca" style="display: none !important">
 							<span class="blue-tab" style="margin-top:1px;height:auto;">
 								<a href="/ProviderSearch/">Find Care
 									<span style="font-size:13px;background:none;margin-top:5px;line-height:1.4em;">Find a doctor, dentist, pharmacy or clinic</span>
 								</a> 
 							</span>
 						</li>
-						<li class="content_ca expanded" style="display: none !important">
+						<li style="display: none" class="content_ca_findcare">
 							<span class="blue-tab" style="margin-top: 1px;height: auto;">
-								<a class="modal on" modal-target="#findCareModal" modal-width="375" href="#">Find Care
+								<a class="modal" modal-target="#findCareModal" modal-width="375" href="#">Find Care
 									<span style="font-size:13px;background:none;margin-top:5px;line-height:1.4em;">Find a doctor, dentist, pharmacy or clinic</span>
 								</a>
+							</span>
+						</li>
+					</ul>
+					<ul class="content_or content_ak content_not_wa content_not_ca not_pebb not_oebb not_pers not_ai not_aims not_aet not_ohp" style="display: none !important">
+						<li>
+							<span class="blue-tab" style="margin-top: 1px;height: auto;">
+								<a href="/pdl/">Our medication list</a>
 							</span>
 						</li>
 					</ul>
@@ -1050,7 +1105,7 @@
 							<li><a href="/mymoda/pages/common/password_help_id.jsp">Forgot your password</a></li>
 
 							<li><a href="/mymoda/pages/common/forgot_user_name.jsp">Forgot your user name</a></li>
-							<li class="expanded"><a class="modal on" modal-target="#mymodal" modal-width="375" href="#">Create an account</a></li>
+							<li><a class="modal" modal-target="#mymodal" modal-width="375" href="#">Create an account</a></li>
 						</ul>
 						<div class="learning-link">
 							<img src="/images/icon_player.gif">
@@ -1074,14 +1129,14 @@
                           <li>
                             <span><a href="#tbd"><!--/oebb/entity/act/-->Electronic transactions</a></span>
                     <ul>
-                      <li><a href="/oebb/entity/act/procedures.shtml">How to get&nbsp;started</a></li>
-                      <li><a href="/oebb/entity/act/procedures.shtml">835&nbsp;Remittance<br>Advice/EFT</a></li>
+                      <li><a href="/oebb/entity/act/procedures.shtml">How to get started</a></li>
+                      <li><a href="/oebb/entity/act/procedures.shtml">835 Remittance<br>Advice/EFT</a></li>
                       <li><a href="/oebb/entity/act/procedures.shtml">837 Electronic Claims</a></li>
                       <li><a href="/oebb/entity/act/procedures.shtml">270/271 Elgibility<br>and Benefits</a></li>
                       <li><a href="/oebb/entity/act/procedures.shtml">276/277 Claim Status</a></li>
-                      <li><a href="/oebb/entity/act/procedures.shtml">278/278&nbsp;Service<br>Authorizations</a></li>
+                      <li><a href="/oebb/entity/act/procedures.shtml">278/278 Service<br>Authorizations</a></li>
                       <li><a href="/oebb/entity/act/procedures.shtml">834 Group Enrollment</a></li>
-                      <li><a href="/oebb/entity/act/procedures.shtml">Transaction&nbsp;Summary</a></li>
+                      <li><a href="/oebb/entity/act/procedures.shtml">Transaction Summary</a></li>
                      
                     </ul>
                   </li>
@@ -1089,8 +1144,8 @@
                     <!--span><a href="/oebb/entity/wellatwork/index.shtml">Moda Health Be Better tools@work</a></span-->
                     <span><a href="#tbd">Hours of operation</a></span>
                     <ul>
-                      <li><a href="/oebb/entity/wellatwork/index.shtml">Holiday&nbsp;schedule</a></li>
-                      <li><a href="/oebb/entity/wellatwork/toc.shtml">System&nbsp;availability</a></li>
+                      <li><a href="/oebb/entity/wellatwork/index.shtml">Holiday schedule</a></li>
+                      <li><a href="/oebb/entity/wellatwork/toc.shtml">System availability</a></li>
                     </ul>
                   </li>
                             <li>
@@ -1098,9 +1153,9 @@
                     <ul>
                       <li><a href="/oebb/entity/summaries2009.shtml">Claim Adjustment<br>Reason Codes</a></li>
                       <li><a href="/oebb/entity/summaries2010.shtml">Remittance remark codes</a></li>
-                        <li><a href="/oebb/entity/summaries2011.shtml">Code&nbsp;crosswalk</a></li>
+                        <li><a href="/oebb/entity/summaries2011.shtml">Code crosswalk</a></li>
                         <li><a href="/oebb/entity/summaries2012.shtml">2012-2013</a></li>
-                                    <li><a href="/oebb/entity/summaries2013.shtml">ICD–&nbsp;transition</a></li>
+                                    <li><a href="/oebb/entity/summaries2013.shtml">ICD– transition</a></li>
                     </ul>
                   </li>
 
@@ -1154,7 +1209,7 @@
 						</form>
 						
 						<div id="util_links">
-						<ul class="home about careers ai community california-map learning ohp search news medicarePlans individualPlans individualPlansWA">
+						<ul class="home about careers ai community california-map learning search news modaHealthMonths">
 							<li class="home"><a href="/about">About Moda </a></li>
 							<li>
 								<a href="/community/">Community</a>
@@ -1172,7 +1227,7 @@
 								</ul>
 							</li>
 						</ul>
-						<ul class="members">
+						<ul class="members individualPlans individualPlansWA medicarePlans ohp digitalcard">
 							<li class="home"><a href="/about">About Moda</a></li>
 							<li>
 								<a href="/community/">Community</a>
@@ -1207,7 +1262,7 @@
 									<li class="last"><a href="/about/fraudunit">Report fraud, waste, and abuse</a></li>
 								</ul>
 							</li>
-							<li class="last-child"><a href="/members/faq.shtml">FAQs</a></li>
+							<!-- <li class="last-child"><a href="/members/faq.shtml">FAQs</a></li> -->
 						</ul>
 
 						<ul class="employers">
@@ -1261,15 +1316,11 @@
 						
 						<ul class="">
 							<li><a href="/search/contact_us.shtml">Contact us</a></li>
-							<li class="last-child"><a href="/members/faq.shtml">FAQs</a></li>
+							<!-- <li class="last-child"><a href="/members/faq.shtml">FAQs</a></li> -->
 						</ul>
 						
 						<ul class="groupPlans groupPlansWA">
 							<li class="last-child"><a href="/employers/contactus.shtml">Contact us</a></li>
-						</ul>
-						
-						<ul class="fourj">
-							<li class="last-child"><a href="/4j/contactus.shtml">Contact us</a></li>
 						</ul>
 						
 						<ul class="nike">
@@ -1507,7 +1558,7 @@ Portland, OR 97240<br>
 					</div-->
 
 
-				<form class="box guest members oebbHome oebbMembers oebbEntities oebbAct fourj nike pebb pers washington aims alaskacare content_wa content_ak content_or" method="post" action="/mymoda/logon.do" style="display: none !important">
+				<form class="box guest members oebbHome oebbMembers oebbEntities oebbAct fourj nike pebb pers washington california aims alaskacare content_wa content_ak content_or" method="post" action="/mymoda/logon.do" style="display: none !important">
 					<img src="/images/rdm/logo_mymoda_login.png" style="margin-top: 6px;">
 					<div class="inputText">
 						<input name="userId" size="15" value="" maxlength="16" type="text" class="inputText">
@@ -1532,17 +1583,9 @@ Portland, OR 97240<br>
 				</form>
 
 				<!--div class="box guest members oebbHome oebbMembers oebbEntities oebbAct fourj nike pebb pers washington aims alaskacare content_wa content_ak content_or"-->
-				<div class="box guest members medicarePlans individualPlans individualPlansWA ohp employers producers">
+				<div class="box members medicarePlans individualPlans individualPlansWA ohp employers producers">
 					<div class="faqAction">
 						<h2>Questions?</h2>
-						<p>Search for answers to questions about your health plan. Go to
-						<span class="hide members medicarePlans individualPlans individualPlansWA ohp"><a href="/members/faq.shtml">Frequently Asked Questions</a> </span>
-						<span class="hide employers"><a href="/employers/faq.shtml">Frequently Asked Questions</a> </span>
-						<span class="hide producers"><a href="/producers/faq.shtml">Frequently Asked Questions</a> </span>
-							<!--
-                    <span class="hide medicalProviders"><a href="/medical/faq.shtml">Frequently Asked Questions</a> </span><span class="hide dentalProviders"><a href="/dental/faq.shtml">Frequently Asked Questions</a> </span>
-                -->
-						</p>
 						<p>If you can't find an answer, please feel free to contact our
 						<span class="hide members medicarePlans individualPlans individualPlansWA ohp"><a href="/members/contact.shtml">Customer Service</a></span>
 						<span class="hide employers"><a href="/employers/contactus.shtml">Customer Service </a></span>
@@ -1561,9 +1604,6 @@ Portland, OR 97240<br>
 				<div class="box pebb content_or">
 					<div class="faqAction">
 						<h2>Questions?</h2>
-						<p>Search for answers to questions about your health plan. Go to
-						<span><a href="/pebb/faq.shtml">Frequently Asked Questions</a></span>
-						</p>
 						<p>If you can't find an answer, please feel free to contact our
 						<span><a href="/pebb/contact.shtml">Customer Service</a></span>
 						</p>
@@ -1672,8 +1712,8 @@ Portland, OR 97240<br>
 						<h2>Producer web tools</h2>
 						<ul class="actions_list"> <!-- using body classes inside this div to deal with state-specific content. usual approach doesn't work inside actions -->
 							<li class="content_or producers"><a href="/SpeedERatesWeb/">Quotes (1-50)</a></li>
-							<li class="content_ak producers" style="display: none !important"><a href="/SpeedERatesWeb/">Quotes (2-50)</a></li>
-              <li class="content_or content_ak producers" style="display: none !important"><a href="/CorpReportsWeb/">Corporate reports</a></li>
+							<li class="content_ak producers" style="display: none !important"><a href="/SpeedERatesWeb/">Quotes (1-50)</a></li>
+              				<li class="content_or content_ak producers" style="display: none !important"><a href="/CorpReportsWeb/">Corporate reports</a></li>
 							<li class="last">
 								<a href="#" class="actions_login">eCommissions</a>
 								<!--start ecommissions login-->
@@ -1706,6 +1746,7 @@ Portland, OR 97240<br>
 					</div>
 					<!--/form-->
 					<!--end content_or producers web tools-->
+					<img src="/images/DeltaDental.gif" id="deltaDentalImg"><br>
 
 					<a id="ncqa_link" class="content_or individualPlans logo employers producers medicalProviders oebbEntities oebbMembers"><img id="ncqa_image" src="/images/logo_ncqa_accredited.png"></a>
                     
@@ -1739,10 +1780,9 @@ Portland, OR 97240<br>
     <li class="last"><a href="/hipaa/index.shtml">HIPAA</a></li>
   </ul>
     <p class="mouseprint">
-        Copyright © <script>document.write(new Date().getFullYear());</script>2020 Moda, Inc. All Rights Reserved.<br>
-        Health plans in Oregon, Alaska and Washington provided by Moda Health Plan, Inc. Health plans in California provided by Moda Health Plan, Inc. dba Moda Health Insurance. Dental plans in Oregon provided by Oregon Dental Service (ODS), dba Delta Dental Plan of Oregon. Dental plans in Alaska provided by Delta Dental of Alaska.
-        <br>
-        This site is meant to help you learn about plans and healthcare for you and your family. This site is subject to change in order to comply with state and federal law, including the Affordable Care Act and related regulations, and connectivity with each state marketplace. If questions regarding benefits arise, the Summary of Benefits and Coverage document is the master resource.
+        Copyright © <script>document.write(new Date().getFullYear());</script>2020 Moda, Inc. All rights reserved.<br>
+        Health plans in Oregon and Alaska provided by Moda Health Plan, Inc. Dental plans in Oregon provided by Oregon Dental Service (ODS), dba Delta Dental Plan of Oregon. Dental plans in Alaska provided by Delta Dental of Alaska.         <br>
+        This site is meant to help you learn about plans and healthcare for you and your family. This site is subject to change in order to comply with state and federal law, including the Affordable Care Act (ACA) and related regulations, and connectivity with the federal Marketplace. If questions regarding benefits arise, the summary of benefits and coverage document is the master resource.
     </p>
 </div><!--footer-->
 			
@@ -1774,7 +1814,7 @@ Portland, OR 97240<br>
 <!--end fat modal: when arriving via odscompanies.com (will be redirected to modahealth.com)-->
 
 <!--start thin modal: when arriving via modahealth.com-->
-<div id="myModalThin" class="reveal-modal open" style="top: 100px; opacity: 1; visibility: visible; display: block;">
+<div id="myModalThin" class="reveal-modal">
 	<img src="/images/modal/thin.jpg">
 	<h1>Hello.</h1>
      <div class="mdl-who">
@@ -1795,7 +1835,7 @@ Portland, OR 97240<br>
             </div>
          </form>
      </div>
-</div><div class="reveal-modal-bg" style="opacity: 0.8; display: block;"></div>
+</div>
 <!--end thin modal: when arriving via modahealth.com-->
 
 
@@ -1825,4 +1865,4 @@ Portland, OR 97240<br>
 		</div><!--pagewrap-->
 	
 
-<script id="dwr-st-0" src="https://web.archive.org/web/20150331181545/https://www.modahealth.com/DynamicContentToolServiceAjax/dwr/call/plaincall/GetContent.getContent.dwr?callCount=1&amp;page=%2Fweb%2F20150906184947id_%2Fhttps%253A%2F%2Fwww.modahealth.com%2Fprivacy%2Findex.shtml&amp;httpSessionId=&amp;scriptSessionId=AA9662FF22AB887EF072FC2CC8DDB197546&amp;c0-scriptName=GetContent&amp;c0-methodName=getContent&amp;c0-id=0&amp;c0-param0=string%3AGLB&amp;c0-param1=string%3ASvcAlert&amp;c0-param2=null%3Anull&amp;c0-param3=Date%3A1580378010073&amp;batchId=0"></script></body></html>
+</body></html>
