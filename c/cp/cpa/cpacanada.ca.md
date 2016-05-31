@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cpacanada.ca privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315070336id_/https%3A//www.cpacanada.ca/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpacanada.ca privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531193047id_/https%3A//www.cpacanada.ca/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-###   
+  
 
 
 Chartered Professional Accountants of Canada
@@ -49,7 +49,7 @@ Except as required to process a transaction or to maintain member records, provi
 
 Personal Information is any information that is identifiable to you. This information may include, but is not limited to, your name, mailing address, phone numbers, email address, identification numbers, credit card numbers, banking information, and creditor information. Personal Information, however, generally does not include your name, business title, business address or business telephone number in your capacity as an employee of an organization.
 
-**Principle #4 — CPA Canada discloses your personal information only for purposes for which it has consent, or as permitted or required by law.** **CPA Canada retains personal information only as long as necessary to fulfill those purposes.**
+**Principle #4 — CPA Canada discloses your personal information only for purposes for which it has consent, or as permitted or required by law.** **CPA Canada retains personal information only as long as necessary to fulfil those purposes.**
 
 We identify to whom, and for what purposes, we disclose your Personal Information, at the time of or prior to collecting such information from you and obtain your consent to such disclosure. For example, we may disclose your Personal Information:
 
@@ -61,11 +61,11 @@ We identify to whom, and for what purposes, we disclose your Personal Informatio
 
 
 
-We may keep a record of your Personal Information, correspondence or comments in a file specific to you. We will utilize, disclose or retain your Personal Information for as long as necessary to fulfill the purposes for which it was collected and as permitted or required by law.
+We may keep a record of your Personal Information, correspondence or comments in a file specific to you. We will utilize, disclose or retain your Personal Information for as long as necessary to fulfil the purposes for which it was collected and as permitted or required by law.
 
-**Principle #5 — CPA Canada endeavors to keep accurate, complete, and up-to-date, personal information in its possession or control, to the extent required to meet the purposes for which it was collected.**
+**Principle #5 — CPA Canada endeavours to keep accurate, complete, and up-to-date, personal information in its possession or control, to the extent required to meet the purposes for which it was collected.**
 
-We will ensure that your Personal Information is kept as accurate, complete and up-to-date as possible based on information provided to us by you or any federal or provincial CPA, CA, CMA or CGA bodies participating in unification to which you may belong. We expect you, from time to time, to supply us with written updates to your Personal Information, if applicable. In the case of members and students, Personal Information may be updated by accessing the online change form at <https://secure.cica.ca/>.
+We will ensure that your Personal Information is kept as accurate, complete and up-to-date as possible based on information provided to us by you or any federal or provincial CPA, CA, CMA or CGA bodies participating in unification to which you may belong. We expect you, from time to time, to supply us with written updates to your Personal Information, if applicable. In the case of members and students, Personal Information may be updated by accessing [My Account](https://web.archive.org/en/members-area/my-account/my-profile).
 
 **Principle #6 — CPA Canada protects the privacy of personal information in its possession or control by using security safeguards appropriate to the sensitivity of the information.**
 
@@ -87,7 +87,7 @@ Up-to-date information on CPA Canada’s privacy policies can be obtained from C
 
 **Principle #8 — CPA Canada responds on a timely basis to requests from members or customers about their personal information which the CPA Canada possesses or controls.**
 
-We will generally make available to you any Personal Information that we have collected about you, utilized or disclosed, upon your written request, to the extent permitted or required by law. We will make such information available to you in a form that is generally understandable, including explaining any abbreviations or codes. Personal Information may be reviewed and updated by accessing the online change form at <https://secure.cica.ca/>.
+We will generally make available to you any Personal Information that we have collected about you, utilized or disclosed, upon your written request, to the extent permitted or required by law. We will make such information available to you in a form that is generally understandable, including explaining any abbreviations or codes. Personal Information may be reviewed and updated by accessing [My Account](https://web.archive.org/en/members-area/my-account/my-profile)[](https://secure.cica.ca/).
 
 You can at any time, challenge the accuracy or completeness of the Personal Information we have which is related to you. Once we have validated your identity, we will amend the Personal Information as required. Where appropriate, we will transmit the amended information to third parties having access to your Personal Information.
 
@@ -105,10 +105,17 @@ Chartered Professional Accountants of Canada
 Toronto, Ontario  
 M5V 3H2
 
-e-mail: [privacy.officer@cpacanada.ca](mailto:privacy.officer@cpacanada.ca)
+e-mail: [privacy@cpacanada.ca](mailto:privacy@cpacanada.ca)
 
 We will inform you of the relevant procedures when you make an inquiry or lodge a challenge or complaint.
 
 Last revised: October 9, 2013
 
 ## Highlights
+
+Jointly presented by CPA Canada and CPA BC, The ONE is the must-attend, multi-track event of the year. ONE powerful network. ONE unparalleled learning experience. ONE exceptional opportunity.
+
+Learn more about how to enter the 2016 Awards of Excellence in Corporate Reporting. The entry period is May 2 to July 8.  
+
+
+The CPA Canada Advanced Certificate in Accounting and Finance (ACAF) will provide you with the job-ready skills employers across the country value within the accounting and finance functions of their businesses.
