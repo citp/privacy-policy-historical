@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lavaplace.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407215452id_/http%3A//www.lavaplace.com/%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lavaplace.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531141227id_/https%3A//www.lavaplace.com/%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Privacy & Use Policy
 
 ### Privacy and Use Policy
 
-If you have any questions about this Privacy Policy, please feel free to contact us through our [website](http://www.lavaplace.com/?page=support) or by sending an email to info [at] lavaplace.com, or by phone (+370.68961278), or write to us at 
+If you have any questions about this Privacy Policy, please feel free to contact us through our [website](https://www.lavaplace.com/?page=support) or by sending an email to info [at] lavaplace.com, or by phone (+370.68961278), or write to us at 
 
 Privacy Matters  
 UAB NEOTEKA  
@@ -42,7 +42,7 @@ Cookies are used to deliver content specific to a user's potential interests and
 A user's IP address is used by most e-commerce websites to collect demographic data and improve service. We use your IP address, as well as the website you visited prior to our website for much the same purpose. We automatically gather this information after each visit and translate this information into a resource that we can use to identify and correct problems with our website and better understand our users, as well as continually update and expand our offerings. 
 
   
-Lava Place guards your personal information carefully. The individually identifiable information that you provide will be used by Lava Place and its affiliated companies to provide you with information about products and services available to you through Lava Place, its affiliated companies, and/or non-affiliated third parties. Lava Place will not disclose individually identifiable information to non-affiliated third parties without your permission. You may opt-out of sharing your personal information with affiliated companies by contacing our [Cusstomer Care](http://www.lavaplace.com/?page=support)
+Lava Place guards your personal information carefully. The individually identifiable information that you provide will be used by Lava Place and its affiliated companies to provide you with information about products and services available to you through Lava Place, its affiliated companies, and/or non-affiliated third parties. Lava Place will not disclose individually identifiable information to non-affiliated third parties without your permission. You may opt-out of sharing your personal information with affiliated companies by contacing our [Cusstomer Care](https://www.lavaplace.com/?page=support)
 
 Upon your request, lavaplace.com will share your information with its affiliated representatives. For example, if you need assistance in completing your profile, you may request that an affiliated relationship consultant contact you to review your profile or provide other assistance. Upon such a request, lavaplace.com will forward your name, phone number and other information you authorize to a relationship consultant. Lava Place will not, however, forward any information without your request to do so.
 
@@ -56,7 +56,7 @@ Lava Place recognizes how important and sensitive data is, and that is why we ha
 Lava Place reviews its security policies regarding lavaplace.com on a regular basis, and changes are made as necessary. Only a select group of authorized individuals within Lava Place have access to user information. 
 
   
-Lava Place recognizes how important it is for you to have access to your information at any time. We have implemented a policy specific to information availability. Our network will be made available 99% of the time, excluding time for maintenance, backup and other routine services. In the event of a disaster or other prolonged service interruption, access to system information and other resources will be limited until any problem is corrected. Should you believe that we are not following our availability policy, please contact our [Customer Care](http://www.lavaplace.com/?page=support). 
+Lava Place recognizes how important it is for you to have access to your information at any time. We have implemented a policy specific to information availability. Our network will be made available 99% of the time, excluding time for maintenance, backup and other routine services. In the event of a disaster or other prolonged service interruption, access to system information and other resources will be limited until any problem is corrected. Should you believe that we are not following our availability policy, please contact our [Customer Care](https://www.lavaplace.com/?page=support). 
 
   
 Lava Place also understands that your circumstances and preferences change. That is why we have simplified the process of amending, updating or deleting your information. 
