@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dagondesign.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130051000id_/http%3A//www.dagondesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dagondesign.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531194251id_/http%3A//www.dagondesign.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy · Dagon Design
 
