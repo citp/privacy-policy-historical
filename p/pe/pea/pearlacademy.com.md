@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the pearlacademy.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130025404id_/http%3A//pearlacademy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearlacademy.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531095755id_/http%3A//pearlacademy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pearl Academy
 
 [](http://pearlacademy.com/)
-
-Toll Free No. **1800 103 3005**
 
 ### Main menu
 
