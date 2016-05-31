@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fca.org.uk privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230235642id_/http%3A//www.fca.org.uk/site-info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fca.org.uk privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531155859id_/http%3A//www.fca.org.uk/site-info/privacy) for the most accurate reproduction.*
 
 # FCA privacy policy - Financial Conduct Authority
 
