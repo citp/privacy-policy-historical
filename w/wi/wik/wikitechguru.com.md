@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wikitechguru.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207160118id_/http%3A//www.wikitechguru.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikitechguru.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531212924id_/http%3A//wikitechguru.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Wiki Tech Guru
+# Our Privacy Policy | Wiki Tech Guru
 
 This Privacy Policy governs the manner in which Wiki Tech Guru collects, uses, maintains and discloses information collected from users (each, a “User”) of the [wikitechguru.com](http://www.generateprivacypolicy.com/account/policies/edit/wikitechguru.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by Wiki Tech Guru.
 
@@ -41,7 +41,7 @@ Our Site is in compliance with PCI vulnerability standards in order to create as
 
 **Sharing your personal information**
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our [business](http://www.wikitechguru.com/category/business) partners, trusted affiliates and advertisers for the purposes outlined above.
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
 **Third party websites**
 
@@ -51,7 +51,7 @@ Users may find advertising or other content on our Site that link to the sites a
 
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-**[Google](http://www.wikitechguru.com/category/google) Adsense**
+**Google Adsense**
 
 Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
@@ -63,12 +63,12 @@ Wiki Tech Guru has the discretion to update this privacy policy at any time. Whe
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://www.wikitechguru.com/Privacy_Policy.html). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](http://wikitechguru.com/Privacy_Policy.html). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact](http://www.wikitechguru.com/contact-us) us at:  
-[Wiki Tech Guru](http://www.wikitechguru.com/ "Wiki tech Guru")  
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+[Wiki Tech Guru](http://wikitechguru.com/ "Wiki tech Guru")  
 [wikitechguru.com](http://www.generateprivacypolicy.com/account/policies/edit/wikitechguru.com)  
 LDH, Punjab, INDIA  
 +91 9878512185  
