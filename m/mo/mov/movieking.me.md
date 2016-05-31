@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the movieking.me privacy policy that was archived on 2015-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150807153423id_/http%3A//movieking.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movieking.me privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601011826id_/http%3A//torrentking.eu/page/privacy) for the most accurate reproduction.*
 
-# Privacy | MovieKing
+# Privacy | TorrentKing
 
 * * *
 
