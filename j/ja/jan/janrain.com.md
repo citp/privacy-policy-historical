@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the janrain.com privacy policy that was archived on 2015-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150904002519id_/http%3A//janrain.com/janrain-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the janrain.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531201556id_/http%3A//janrain.com/janrain-privacy-statement) for the most accurate reproduction.*
 
 # Janrain Privacy Statement | Janrain
 
-Effective as of February 20, 2015.
+Effective as of February 1, 2016.
 
-[](https://privacy.truste.com/privacy-seal/Janrain,-Inc-/validation?rid=1b233149-fc3b-4e69-957a-ca7677ee4787 "TRUSTe European Safe Harbor certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=7bc0f34d-9cf2-427d-af9e-15e2fc354825 "TRUSTe Privacy Certification")
 
 Janrain, Inc. (“Janrain”) is committed to protecting the privacy of individuals who visit our websites and individuals whose personal information we may receive through the use of the Janrain Customer Identity Management Platform and related services provided to our customers.
 
@@ -12,9 +12,9 @@ This privacy statement describes our practices regarding the personal informatio
 
 As a visitor to this website, your privacy remains under your control. We want you to have the information you need to make your own decisions regarding your privacy in the context of your interaction with Janrain websites.
 
-Janrain has been awarded TRUSTe’s Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program, which is viewable on the validation page by clicking the TRUSTe seal. The use of information collected through our service shall be limited to the purpose of providing the service for which the Customer has engaged Janrain. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
+Janrain has been awarded TRUSTe’s Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program, which is viewable on the validation page by clicking the TRUSTe seal. The use of information collected through our service shall be limited to the purpose of providing the service for which the Customer has engaged Janrain. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request "Truste").
 
-Janrain is also a certified licensee of the TRUSTe EU Safe Harbor Seal and abides by the Safe Harbor Frameworks developed by the U.S. Department of Commerce and (1) the European Union and (2) Switzerland, respectively. We have certified that we adhere to the related Safe Harbor Privacy Principles. To learn more about the Safe Harbor program, and to view Janrain’s certification, please visit <http://www.export.gov/safeharbor/>.
+Janrain complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Janrain has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Janrain’s certification, please visit <http://www.export.gov/safeharbor/>.
 
 The TRUSTe certification covers only our collection, use and disclosure of information we collect through our website [www.janrain.com](http://www.janrain.com/) and our services.
 
@@ -58,7 +58,7 @@ We receive and store any information you enter on our Website or give us in any 
 
 
 
-Technologies such as: cookies, beacons, tags and scripts are used by Janrain and our partners [specify type e.g. marketing partners], affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+Technologies such as cookies, beacons, tags and scripts are used by Janrain and our marketing partners or analytics service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
 We use cookies to analyze website visitor interest in website content and offer relevant information based on their viewing history _._ Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
@@ -66,13 +66,13 @@ As is true of most websites, we gather certain information automatically and sto
 
 We do not link this automatically collected data to other information we collect about you.
 
-We use Local Storage Objects (LSOs) such as HTML5 and Flash to store user identifiers to enable single sign on for our registered website users. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 and Flash to collect and store information. To learn how to manage privacy and storage settings for Flash cookies click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118).
+We use Local Storage Objects (LSOs) such as HTML5 to store user identifiers to enable single sign on for our registered website users. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information.
 
   * **Behavioral Targeting**
 
 
 
-We partner with third parties to manage our advertising on other sites. Our third party partners may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+We partner with third parties to manage our advertising on other sites. Our third party partners may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish not to have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
   * **Do-Not-Track**
 
@@ -88,7 +88,7 @@ For more detailed information about cookies, Do-Not-Track and other tracking tec
 
 You can log in to our Site using social identity providers such as Facebook, Google +, or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.
 
-Our site also includes social media features, such as the Facebook Like button and widgets, such as the Share this button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing it.
+Our site also includes social media features, such as the Facebook Like button and widgets, such as the Share this button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy statement of the company providing it.
 
 ### 4\. Use of Personal Information Collected
 
@@ -100,7 +100,7 @@ We share information that identifies you only as described below and with subsid
 
   * Third Party Service Providers: We may retain other companies and individuals to perform functions on our behalf, such as sending email, removing repetitive and inaccurate information from customer lists, analyzing data, processing credit cards, and providing marketing assistance. They have access to personal information needed to perform their functions, but may not use it for other purposes.
   * Some of our pages utilize framing techniques to serve content to and from our partners while preserving the look and feel of our site. Please be aware that you are providing your personal information to these third parties and not to Janrain.
-  * Protecting Others and Ourselves: We will disclose your personally identifiable information as required by law, such as to comply with a subpoena, or similar legal process and if we believe disclosure is necessary to protect our rights, property, or safety, our customer, or others. In particular, we may cooperate with law enforcement agencies in any official investigation and disclose your personally identifiable information to the relevant agency in doing so.
+  * Protecting Others and Ourselves: We will disclose your personal information as required by law, such as to comply with a subpoena, or similar legal process and if we believe disclosure is necessary to protect our rights, property, or safety, our customer, or others. In particular, we may cooperate with law enforcement agencies in any official investigation and disclose your personal information to the relevant agency in doing so.
   * Business Transfer: We reserve the right to transfer your personal information in the event Janrain, Inc. or substantially all of our assets are acquired. You will be notified via email and/or a prominent notice on our Website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
   * With Your Consent: Other than as stated above, we will not disclose or provide your personal information to a third party without your explicit consent for us to do so.
 
@@ -126,7 +126,7 @@ The security of your personal information also depends on your protection of you
 
 As mentioned at the beginning of this Privacy Statement, we offer our customers a software-as-a-service (“SaaS”) customer profile management platform and abide by the U.S. – EU and U.S. – Swiss Safe Harbor Frameworks for protecting the privacy of data flowing from the EU and Switzerland to the United States. As a processor of personal information on behalf of our customers, we observe the Safe Harbor Principles, several of which are discussed below.
 
-Janrain collects information under the direction of its Customers, and has no direct relationship with the individuals whose personal data it processes. If you are a customer of one of our Customers and would no longer like to be contacted by one of our Customers that use our service, please contact the Customer that you interact with directly. Transfers to subsequent third parties are covered by the service agreements with our Customers.
+Janrain collects information under the direction of its Customers, and has no direct relationship with the individuals whose personal data it processes. If you are a customer of one of our Customers and would no longer like to be contacted by one of our Customers that use our service, please contact the Customer that you interact with directly. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Customers.
 
 Notice and Choice: Individuals may submit personal information to our customers through the use of the website registration and login services we provide to our customers. (Some of these services may have a notice that they are “powered by Janrain”). This personal information is submitted with notice to, and the consent of, the individual user via identity providers’ permission screens, or voluntarily provided by the user at registration. Once Janrain has successfully facilitated the transmission of personal information to a customer’s database that is not hosted by Janrain, it is that customer’s responsibility to guard any the personal information against unauthorized access or transmission.
 
