@@ -1,32 +1,34 @@
-> *The following text is extracted and transformed from the monginis.net privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929063843id_/http%3A//www.monginis.net/legal-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monginis.net privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531150514id_/http%3A//www.monginis.net/legal-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Monginis Cake Shop in India - Monginis
 
-Monginis is the sole owner of the information collated on [www.monginis.net](https://web.archive.org/web/20150929063843id_/http%3A//www.monginis.net/). This privacy statement applies only to information collated by this Site.
+Monginis Foods Private Limited("Monginis") is committed to safeguarding your privacy and ensures that you continue to trust Monginis with your personal data. When you interact with us you may share your personal data with us which allows identification of you as a person.(for eg name, address, email, contact number). All this will fall under the purview of "personal data".
+
+Monginis is the sole owner of the information collated on [www.monginis.net](http://www.monginis.net/). This privacy statement applies only to information collated by this Site.
 
 Communications from the Site
 
 ## 1\. Special Offers and Updates
 
-We may occasionally send you information on products, services, special deals, and promotions. Out of respect for your privacy, we present the option not to receive these types of communications.  
+We may occasionally send you information on products, services, special deals, and promotions. However, we present you an option to discontinue receiving these types of communications.  
 
 
 ## 2\. Press Releases and Newsletters
 
-If you request to receive our press release(s) or newsletter(s), we will use your name and email address to send these documents to you. Out of respect for your privacy, please contact us if you subsequently wish to be removed from this    mailing list.  
+If you request to receive our press release(s) or newsletter(s), we will use your name and email address to send these documents to you. However Out of respect for your privacy, please contact us if you subsequently wish to be removed from this mailing list.  
 
 
 ## 3\. Service-related Announcements
 
-We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email informing you of this.
+We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email informing you about this.
 
-## Communications 
+## Communications
 
 You consent to receive communications from us by e-mail, SMS or any other communication made electronically, verbally or physically through post. You agree that all agreements, notices, disclosures and other communications that MONGINIS provides to you by e-mail or in any other aforementioned mediums satisfy any legal requirement that such communications be in writing.
 
 ## 4\. Legal Disclaimer
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.  
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site or in MONGINIS’ good faith judgment such legal disclosures are reasonably necessary to comply with or respond to any claims.  
 
 
 If you no longer wish to receive our press releases, newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at netorders@monginis.net.  
@@ -74,6 +76,6 @@ In the event Monginis goes through a business transition, such as a merger, acqu
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement on the homepage and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-We reserve the right to modify this privacy statement at any time, so please review it periodically. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.. 
+We reserve the right to modify this privacy statement at any time, and all the modifications hereby will be effective immediately on our posting on this site and that you will review this statement every time you access this site, so that you are aware of and agree to all the modifications made to this statement.
 
 [](http://www.monginis.net/products)
