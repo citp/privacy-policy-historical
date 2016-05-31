@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the fantasymovieleague.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120002618id_/http%3A//fantasymovieleague.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasymovieleague.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531190528id_/http%3A//fantasymovieleague.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Fantasy Movie League
 
-Welcome to Fantasy Movie League, a personal online service operated by Kinetoplay LLC ("Kinetoplay") which consists of, among other things, software that you have downloaded or are about to download, any software that you have embedded on a web site or are about to embed (“Kinetoplay Games”), any applications created by Kinetoplay and available through social networking sites (“SNS Apps”) or web sites or on mobile platforms, any software running on Kinetoplay' servers, (“Kinetoplay Software”), content, related documentation, information on the Kinetoplay domains, and information made available by users to each other through the Kinetoplay Software (collectively, the “Service”).
+Welcome to Fantasy Movie League, a personal online service operated by Kinetoplay Inc. ("Kinetoplay") which consists of, among other things, software that you have downloaded or are about to download, any software that you have embedded on a web site or are about to embed (“Kinetoplay Games”), any applications created by Kinetoplay and available through social networking sites (“SNS Apps”) or web sites or on mobile platforms, any software running on Kinetoplay' servers, (“Kinetoplay Software”), content, related documentation, information on the Kinetoplay domains, and information made available by users to each other through the Kinetoplay Software (collectively, the “Service”).
 
 Your privacy is important to us and, as described in this Privacy Policy, we have designed the Service to protect information about you from unauthorized disclosure to others. This Privacy Policy explains how we collect, use and, in certain circumstances, share your “Personally Identifying Information.” Please read this Privacy Policy carefully, and if you have any questions, feel free to contact us.
 
 By using the Service, you consent to the collection and use of your personal information as outlined in this Privacy Policy, as such policy may be amended from time to time. We may update the Privacy Policy and if we do, we will post a notice that changes have been made on the website www.fantasymovieleague.com. You should visit this page periodically to review any changes to the Privacy Policy.
 
-What We Collect
+**What We Collect**
 
 Kinetoplay gives you a number of options regarding what information you will give us:
 
@@ -34,15 +34,15 @@ Finally, in order to provide the best possible service and to allow us to make c
 
 By using the Service, you consent to our retaining all the above-described information as long as Kinetoplay sees fit.
 
-Children Under The Age Of 13
+**Children Under The Age Of 13**
 
 Kinetoplay does not knowingly collect or solicit Personally Identifying Information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register for Kinetoplay or send any information about yourself to us, including but not limited to your name, address, telephone number, or email address. No one under age 13 may provide any Personally Identifying Information to or on Kinetoplay. In the event that we learn that we have collected Personally Identifying Information from a child under age 13 we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at admin@fantasymovieleague.com .
 
-Children Between The Ages of 13 and 18
+**Children Between The Ages of 13 and 18**
 
 We recommend that minors over the age of 13 and under the age of 18 (19 if a resident of AL or NE) ask their parents for permission before sending any information about themselves to anyone over the Internet.
 
-How We Use Your Information
+**How We Use Your Information**
 
 We do not sell or rent your Personally Identifying Information to any third party. We may, however, use certain Personally Identifying Information (as provided herein) and/or certain information about you that is not personally identifiable (as provided herein).
 
@@ -60,42 +60,42 @@ Kinetoplay may disclose Personally Identifying Information about you to its part
 
 Kinetoplay, certain of its partners, and each of their contractors and employees may view the Content that you transmit to the service to provide the Service and otherwise perform the authorized tasks set forth in this Privacy Policy.
 
-Controlling Your Personally Identifying Information
+**Controlling Your Personally Identifying Information**
 
 Be advised that if you send messages or post material containing Personally Identifying Information through the Service, that information may be collected and used by others.
 
 You can terminate your account at any time which will remove your profile and Personally Identifying Information from view subject to the following: Kinetoplay may (but is not obligated to) keep information about you that is on its system following your termination so we could, for example, contact you should you win a prize after the termination of your account or display your results on a leaderboard. Please contact Kinetoplay to terminate your account or for any other questions about your Personally Identifying Information.
 
-Transfer of Information
+**Transfer of Information**
 
 We reserve the right to transfer your Personally Identifying Information in the event of a transfer of ownership of Kinetoplay or the acquisition of substantially all the assets of Kinetoplay related to the business which collected such information, such as acquisition by or merger with another company. In such an event, Kinetoplay will notify users who have provided email addresses when information about those users is transferred and becomes subject to a different privacy policy.
 
-Others' Information
+**Others' Information**
 
 You may decide to provide us with another person's email address so that person may be invited to join Kinetoplay or so that we may facilitate your communication with other people through the Service (such as when you upload an address book).
 
 You may also provide us with another person's contact information for purposes of delivering information through SNS Apps. We use this information to contact and, if necessary, remind that person that he or she has been invited to join Kinetoplay or received content through an SNS App. All invitees are provided with the option not to receive further invitations from Kinetoplay. We may disclose such information if required to do so in order to comply with legal process, as described above.
 
-Cookies
+**Cookies**
 
 The Service sends "cookies" to your computer when you access the Kinetoplay site, or otherwise view content through a Kinetoplay game, or use an SNS App and the Service uses such cookies as described herein. A cookie is a small text file recorded on your hard drive that identifies you as a unique user and contains certain information about your particular login session and/or your use of the Service.
 
 The Service uses cookies to improve the quality of our service, make recommendations, and make the Service easier to use for our users.
 
-Third-Party Advertising Companies
+**Third-Party Advertising Companies**
 
 We may use third-party advertising companies to serve ads on our sites and on certain Kinetoplay Games and SNS Apps. Our system and the third-party advertising technology uses information derived from Activity Information, Kinetoplay’ cookies on your hard drive, your visits to our site(s), the Kinetoplay Games that you view and the SNS Apps you use to target advertising within our site or Kinetoplay Games or SNS Apps. In addition, our advertisers may use other third-party advertising technology to target advertising on our site and other sites. In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed on your computer. Similarly, third-party advertising companies may provide us with pixel tags (also called “clear gifs” or “beacons”) to help manage and optimize our online advertising. Beacons enable us to recognize a browser's cookie when a browser visits the site on which the beacon is located, and to learn which banner ads bring users to a given site.
 
 Kinetoplay does not provide any Personally Identifying Information to third-party advertising companies. Note, however, that if an advertiser asks Kinetoplay to show an advertisement to users with certain characteristics (for example, women ages 18-24) or a segment of that group (for example, women ages 18-24 who have viewed certain categories of content) and you respond to that advertisement, the third-party advertising company may conclude that you have the characteristics of the audience that they are trying to reach.
 
-Security
+**Security**
 
 Kinetoplay takes appropriate precautions to protect our users' information. Your account information is located on a secured server behind a firewall. When you enter sensitive information (such as your password), we encrypt that information using secure socket layer technology (SSL). Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services.
 
-Additional Questions
+**Additional Questions**
 
 You may contact us by sending email to admin@fantasymovieleague.com if you have further questions about Kinetoplay or this Privacy Policy.
 
-California Residents: Your California Privacy Rights
+**California Residents: Your California Privacy Rights**
 
 Under California law, California Residents who have an established business relationship with Kinetoplay or one of its subsidiaries may choose to opt out of Kinetoplay disclosure of personal information about them to third parties for direct marketing purposes. As detailed above, our policy is not to disclose personal information collected online to a third party for direct marketing purposes without your approval. If you choose to opt-out at any time after granting approval, email admin@fantasymovieleague.com.
