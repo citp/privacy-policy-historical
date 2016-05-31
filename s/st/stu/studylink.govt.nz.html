@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the studylink.govt.nz privacy policy that was archived on 2015-10-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151006012531id_/http%3A//www.studylink.govt.nz/about-studylink/about-this-site/copyright-privacy-and-disclaimer.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the studylink.govt.nz privacy policy that was archived on 2016-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160531220730id_/http%3A//www.studylink.govt.nz/about-studylink/about-this-site/copyright-privacy-and-disclaimer.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     
@@ -29,8 +29,8 @@
 <meta name="DC.Language" scheme="ISO 639-2" content="eng">
 <meta name="DC.Creator" content="MSD">
 <meta name="DC.Date.created" scheme="ISO 8601" content="2009-09-18">
-<meta name="DC.Date.modified" scheme="ISO 8601" content="2015-08-13">
-<meta name="DC.Date.valid" scheme="DCMI Period" content="start=2015-08-13; end=2016-02-13">
+<meta name="DC.Date.modified" scheme="ISO 8601" content="2015-10-12">
+<meta name="DC.Date.valid" scheme="DCMI Period" content="start=2015-10-12; end=2016-04-12">
 <meta name="DC.Format" scheme="IMT" content="text/html">
 <meta name="DC.Type" content="document">
 <!--IW:META:END - END IW generated metadata meta tags.-->
@@ -302,8 +302,6 @@ $(document).ready(function() {
 
     
 
-    
-
 
 
 
@@ -314,6 +312,52 @@ $(document).ready(function() {
 
 <link rel="stylesheet" href="/webadmin/css/about-studylink.css" type="text/css" media="screen, projection, print">
 
+
+
+
+<!-- GA start -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-2196406-6', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+
+
+$(document).ready(function() {
+    // GA code to capture document links and outbound clicks.
+    $('a').mouseup(function(){
+	href = $(this).attr('href');
+  	href_lower = href.toLowerCase(); 
+
+	var docPattern = /\.(csv|doc|dot|pdf|xls|xlt|vsd|vss|ppt|pps|pot|mpp|zip|obr|txt|rtf|xml|pptx|ppsx|pptm|xltx|xlsx|xlsm|docx|docm|dotm|dotx|epub|flv|mp3|mp4|m4v|ogv|ogg|webm)(\?.+)?$/;
+
+	// Domain and URL pattern rules for GA events can be modified here.
+  	if(href_lower.substr(0, 4) == "http") {
+	    var docDomain = document.domain.toLowerCase();
+	    var hrefDomain = href_lower;
+	    hrefDomain = hrefDomain.replace('http://','').replace('https://','').split(/[/?#]/)[0];
+	    if (docDomain !== hrefDomain) {
+    	        ga('send', 'event', 'External', href, 'Outbound');
+	    } else if(href_lower.match(docPattern)) {
+    	        ga('send', 'event', 'Document', href, 'Downloads');
+	    }
+  	    // if(href_lower.indexOf(domain) == -1){
+	    // 	href = href.replace("http://",'');
+	    // 	href = href.replace("https://",'');
+    	    //  ga('send', 'event', 'External', href, 'Outbound');
+   	    // }
+        } else if(href_lower.match(docPattern)) {
+    	   ga('send', 'event', 'Document', href, 'Downloads');
+  	} 
+    });
+});
+
+</script>
+<!-- GA end -->
 
 
 <link rel="stylesheet" href="/webadmin/css/print.css" type="text/css" media="print">
@@ -386,8 +430,8 @@ $(document).ready(function() {
 
 <div id="topnav">
 <ul>
+	<li class="tab120"><a href="/applicants/">thinking about study</a></li>
 	<li class="tab88"><a href="/how-to-apply/">how to apply</a></li>
-	<li class="tab108"><a href="/applicants/">applicants</a></li>
 	<li class="tab88"><a href="/parents/">parents</a></li>
 	<li class="tab97"><a href="/partners/">partners</a></li>
 	<li class="tab110"><a href="/student-allowance/">student allowance</a></li>
@@ -438,8 +482,9 @@ $(document).ready(function() {
   <ul>
   <li><a href="/about-studylink/about-this-site/index.html" class="highlight" title="About this site">About this site</a>
     <ul>
-    <li><a href="/about-studylink/about-this-site/accessibility-tools.html" title="Accessibility">Accessibility</a></li>
+    <li><a href="/about-studylink/about-this-site/privacy-statement.html" title="Privacy statement">Privacy statement</a></li>
     <li><a href="/about-studylink/about-this-site/copyright-privacy-and-disclaimer.html" title="Terms of use">Terms of use</a></li>
+    <li><a href="/about-studylink/about-this-site/accessibility-tools.html" title="Accessibility">Accessibility</a></li>
     </ul>
   </li>
   <li><a href="/about-studylink/contact-us/index.html" title="Contact us">Contact us</a></li>
@@ -650,111 +695,6 @@ $(document).ready(function() {
 	</div> <!-- class="block" -->
 
 	<div class="block">
-<h2>Privacy</h2>
-
-	
-        
-
-
-
-
-
-
-
-	
-	
-        
-
-
-
-
-
-
-        
-        
-
-
-
-
-
-
-
-	
-	<p>The legislation administered by the Ministry of Social Development allows us to check the information that you give us in a form. This may happen when you apply for financial assistance and at any time after that.</p>
-<p>The Privacy Act 1993 requires us to tell you that:</p>
-<ul>
-<li>The information you give us is collected under the authority of the legislation administered by the Ministry of Social Development.</li>
-<li>The information will be held by the Ministry of Social Development.</li>
-<li>The information is collected for the purposes of the legislation administered by the Ministry of Social Development (including StudyLink, Work and Income, Child Youth and Family and other services lines of the Ministry), and in particular for: 
-<ul>
-<li>granting financial assistance and other assistance under the Social Security Act 1964 and Education Act 1989 (and any Regulations under those Acts)</li>
-<li>statistical and research purposes</li>
-<li>providing advice to Government</li>
-<li>care and protection of needs of children</li>
-<li>providing support and services to you and your family</li>
-<li>providing education related services</li>
-<li>providing employment related services.</li>
-</ul>
-</li>
-<li>The information may be checked and/or shared with Inland Revenue.</li>
-<li>The information you give us may be compared with information held by Inland Revenue, the Ministry of Justice, the Department of Corrections, the New Zealand Customs Service, the Department of Internal Affairs, the Accident Compensation Corporation, Housing New Zealand, Statistics New Zealand, the Ministry of Health, Immigration New Zealand, the Ministry of Education, the New Zealand Qualification Authority, the Tertiary Education Commission, Student Job Search and education providers.&nbsp; It may also be compared with social security information (for example, pension or benefit information) held by other governments (including Australia and the Netherlands).</li>
-<li>Under the Tax Administration Act 1994, if you have dependent children, the information you give us may be shared with Inland Revenue for the purpose of administering Working for Families Tax Credits.</li>
-<li>Inland Revenue may also: 
-<ul>
-<li>use the information for the purposes of child support, Student Loans and taxation</li>
-<li>disclose it to the Ministry of Business, Innovation and Employment, Statistics New Zealand, the Ministry of Justice, the Accident Compensation Corporation, the Ministry of Education and New Zealand Customs Service</li>
-<li>disclose your personal information to your partner.</li>
-</ul>
-</li>
-<li>Under the Privacy Act 1993 you have the right to ask to see all information we hold about you, and to ask us to correct that information.</li>
-<li>You are not required to give us information; but if you do not give us all the information we ask for, your application for financial assistance may be declined.</li>
-</ul>
-<p>You may browse and access information contained within this website without providing any personal information. Where you voluntarily provide personal information (e.g. through online forms or email requests), we will only use that information to communicate with you.</p>
-<p>We will keep any personal information that you provide secure. The Ministry of Social Development (MSD) uses Oracle to provide this cloud-based online service. Oracle are contractually obliged to MSD to keep any personal information collected through the online service that they provide for MSD secure. Your information may be held in Australia, Singapore or the United States of America. Oracle are subject to the laws of these countries.</p>
-	
-
-        
-
-
-
-
-
-
-
-
-        
-
-
-
-
-
-
-        
-
-
-
-
-
-
-
-        
-
-
-
-
-
-
-
-	
-			<hr>
-		
-	
-	
-			<div class="topLink"><a href="#top" title="Go to the top of the page. "><img src="/webadmin/images/shim.gif" width="81" height="9" alt="Back to top"></a></div>
-		
-	</div> <!-- class="block" -->
-
-	<div class="block">
 <h2>About your personal information</h2>
 
 	
@@ -794,7 +734,7 @@ $(document).ready(function() {
 </ul>
 </li>
 </ul>
-<p>You can ask to see and correct any information we hold on you by writing to:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Manager Centralised Services<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; StudyLink<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Private Bag 11070<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Palmerston North 4442</p>
+<p>You can ask to see and correct any information we hold on you by writing to:<br>Manager Centralised Services<br>StudyLink<br>Private Bag 11070<br>Palmerston North 4442</p>
 	
 
         
@@ -834,8 +774,6 @@ $(document).ready(function() {
 		
 	
 	
-			<div class="topLink"><a href="#top" title="Go to the top of the page. "><img src="/webadmin/images/shim.gif" width="81" height="9" alt="Back to top"></a></div>
-		
 	</div> <!-- class="block" -->
 
 	<div class="block">
@@ -924,7 +862,7 @@ $(document).ready(function() {
 
 
 <div id="last-updated">
-Last updated:&nbsp;<span>13 August 2015</span>
+Last updated:&nbsp;<span>12 October 2015</span>
 </div>
 
 </div><!-- End content -->
@@ -1001,7 +939,7 @@ Last updated:&nbsp;<span>13 August 2015</span>
 	<div id="footer">
 
 		<div class="logos">
-			<a href="http://newzealand.govt.nz/" accesskey="/" class="nzgovt"><img src="/webadmin/images/nzgovt-logo.gif" width="163" height="22" alt="newzealand.govt.nz - connecting you to New Zealand central &amp; local government services" title="newzealand.govt.nz - connecting you to New Zealand central &amp; local government services"></a> <a href="http://www.ird.govt.nz/" class="ird"><img src="/webadmin/images/ird.gif" width="132" height="36" alt="Inland Revenue"></a>
+			<a href="https://www.govt.nz/" accesskey="/" title="New Zealand Government - connecting you to New Zealand central and local government services"><img src="/webadmin/images/nzgovt.png" alt="New Zealand Government" height="19" width="190"></a> <a href="http://www.ird.govt.nz/" class="ird"><img src="/webadmin/images/ird.gif" width="132" height="36" alt="Inland Revenue"></a>
 		</div><!-- End logos -->
 
 		<div class="links">
@@ -1012,15 +950,15 @@ Last updated:&nbsp;<span>13 August 2015</span>
 	
 	<div id="meta-footer">
 		<div class="col">
-			<h3><a href="/how-to-apply/index.html">How to apply</a></h3>
-			<a href="/how-to-apply/realme-login.html">RealMe login</a>
-			<a href="/how-to-apply/documents-supporting-your-application.html">Documents supporting your application</a>
-		</div>
-		<div class="col">
-			<h3><a href="/applicants/index.html">Applicants</a></h3>
+			<h3><a href="/applicants/index.html">Thinking about study</a></h3>
 			<a href="/applicants/funding-study.html">Funding study</a>
 			<a href="/applicants/working-and-studying.html">Working &amp; studying</a>
 			<a href="/applicants/choosing-a-course.html">Choosing a course</a>
+		</div>
+		<div class="col">
+			<h3><a href="/how-to-apply/index.html">How to apply</a></h3>
+			<a href="/how-to-apply/realme-login.html">RealMe login</a>
+			<a href="/how-to-apply/documents-supporting-your-application.html">Documents supporting your application</a>
 		</div>
 		<div class="col">
 			<h3><a href="/parents/index.html">Parents</a></h3>
@@ -1073,19 +1011,6 @@ Last updated:&nbsp;<span>13 August 2015</span>
 	</div><!-- End Meta Footer -->
 </div><!-- End Footercontainer -->
 
-
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-2196406-6', 'auto');
-  ga('require', 'displayfeatures');
-  ga('send', 'pageview');
-
-</script>
 
 
 
