@@ -1,104 +1,85 @@
-> *The following text is extracted and transformed from the batteries.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820134840id_/http%3A//www.batteries.com/_/N-/Ntt-Privacy%2BPolicy/Ntk-All) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batteries.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531192744id_/http%3A//www.batteries.com/pages/privacy-security-and-email) for the most accurate reproduction.*
 
-# Notebook Batteries | Laptop Batteries | Camcorder Batteries | Digital Camera Batteries
+# Privacy, Security and Email | Batteries – Batteries.com
 
-**Information Collection and Use**
+### Introduction
 
-Batteries.com is the sole owner of the information collected on this site. We will not sell or rent this information to others in ways different from what is disclosed in this statement. Batteries.com collects information from our users at several different points on our website.
+Batteries.com is an independent 3rd party retailer. We endeavor to protect your personal privacy. We provide this privacy statement to help you to understand what we may do with any personal information that we obtain from you. By providing your personal details to us, you signify your acceptance of our Privacy Statement. If you do not agree to this statement, please do not provide your personal details to us. This privacy statement is incorporated into, and part of, the Terms and Conditions, which govern your use of the site in general. We will use your information for the purposes set out below. You will have an opportunity to unsubscribe whenever we communicate with you.
 
-We collect non-personally identifiable information about you, such as your age, household income, buying preferences, IP address, computer settings or most-recently visited URL. We also collect personally identifiable information such as your contact, billing and shipping information, and other information not otherwise publicly available. Personally identifiable information about you is collected when you voluntarily submit such information to us, by, for example, signing up for My Account, filling out a survey or registration form. We may combine personal information collected from you with information from other Company sources or third parties to provide a better user experience, including customizing content for you.
+If you have questions or concerns regarding this statement, you should first contact us at 6621 Bay Circle, Suite 120 Norcross, GA 30071 or by emailing CustomerService@batteries.com. We recommend that you regularly check this page to ensure that you have read the most recent version. Date last revised: September 2014
 
-We do not sell or otherwise disclose personal information, except as described herein. In general, we will only use the information you provide to us for the purpose for which such information was provided. We may also use this information to deliver to you information about our company and promotional material from some of our partners and affiliates, trend analysis, pattern detection, and site administration. Your information may also be used to contact you when necessary and may be shared with other companies that may want to contact you with offers consistent with your stated preferences. Users may opt-out of receiving future communications from Audiovox and other entities by following the instructions set forth in the opt-out section below.
+### 1\. What is Personal Information?
 
-Non-personal demographic and profile data is used to tailor your experience at our site, showing you content we think you might be interested in. This information may also be shared with advertisers on an aggregate non-personal basis. We may also share information with third parties in limited circumstances, including when we are required to do so by law or legal process, or to prevent fraud or imminent harm, and to ensure the security of our network and services.
+Personal information is information about an identifiable individual, as defined by applicable law. It does not include aggregated information that does not allow you to be identified, nor does it include business contact information such as your name, title, business address and business phone number.
 
-In order to provide you with certain services offered through the Batteries.com Website, Batteries.com may share information provided by our visitors (such as user name and password) with third parties with whom Batteries.com has contracted in order to provide you with such services. These third parties are restricted from using or disclosing the information except as necessary to provide you with services on our behalf or to comply with legal requirements. 
+### 2\. Collecting Personal Information
 
-Batteries.com may also disclose your information in the event that we transfer or sell all or a portion of our business or assets or upon any other corporate reorganization. In the event of such a sale or transfer, we will use reasonable efforts to request that the transferee or acquirer will use personal information in a manner consistent with this Privacy Policy.
+You can decide what personal information you provide to us. We will only collect personal information that you choose to provide. Where possible, we will enable you to select how we will use this information (for example, by choosing to opt-in or opt-out of receiving special promotional offers from Batteries.com).
 
-**Signing up for My Account**
+You may choose to provide us with personal information if, for example, you: contact us with an enquiry; register on the site, fill out a survey or other form with your personal information included; request us to provide you with information; enter a competition; post information to public areas of the site or take advantage of a promotion. You have the opportunity to decide whether or not to receive communications from us at any point where we request information about you. By providing any personal information to us, you fully understand and clearly consent to the transfer of such personal information to, and the collection and processing of such information in, other countries or territories. Any such transfer and processing by us will be in accordance with this privacy statement.
 
-During My Account sign up we require users to give personally identifiable information including their contact information (such as name, zip code, and email address). We use your email address to uniquely identify you to allow you access to your account and to keep track of your wish list. . We use your contact information from the account form to send you a newsletter and to inform you of sales and special offers. If you don't want to receive these types of emails from us you may opt-out. For more information on how to opt-out see the Choice/Opt-out section below. 
+### 3\. Use of Cookies
 
-**Placing an order with batteries.com**
+In common with many websites, we use 'cookies' to help us gather the following information from visitors to our site.
 
-You have the option to place an order as a guest or as a registered user. On our Order Form we collect personally identifiable information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fulfill your order. We will use your contact information to contact you if we have trouble processing your order, if we have questions regarding your order, or we wish to notify you of the status of your order.
+A cookie is a small data file that our server sends to your browser when you visit the site. The use of cookies helps us to assist your use of certain aspects of the site. You can delete cookies at any time or you can set your browser to reject or disable cookies. If you do disable cookies some functions on the site may not work correctly. We may use information from cookies for the following purposes:
 
-During the checkout process you will be given the option to join our mailing list. We may use your mailing address and/or email address to send you a catalog and notices regarding upcoming sales. If you don't want to receive these types of communications from us, see the Choice/Opt-out section below.
+Traffic monitoring, e.g.: the IP address from which you access the site, the type of browser and operating system used to access the site, the date and time of your access to the site, the pages you visit, the Internet address of the website from which you accessed the site, and to recognize repeat visitors for statistical / analytical purposes.
 
-**Surveys and Contests**
+Anonymous tracking of interaction with online advertising, e.g. to monitor the number of times that a banner ad is displayed and the number of times it is clicked. 
 
-From time-to-time, we may request information from you through surveys or contests. Participation in these surveys or contests is completely voluntary and the user has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information gathered from contests will be used to notify the winners and award prizes. Demographic information will be used for purposes of monitoring and improving your experience on this site. 
+We may connect the information that we collect through cookies with other personally identifiable information that you provide to us. Such purposes are:
 
-We may co-sponsor some contests on our site with other companies. If you enter one of these contests, our co-sponsor may receive the information collected or may collect the information directly. In such cases, we will tell you who is collecting your information, how our co-sponsor may use the information and how you can contact our co-sponsor. 
+To customize or personalize your experience of the site; for example, so that we can greet you on the site by name.
 
-**Email Links**
+For transactional purposes, such as credit card sales.
 
-We use email links on our customer feedback page to allow you to contact us directly with any questions or comments you may have.
+To monitor your use of our website(s) in order to make our communications to you as relevant as possible; for example, by sending you email communications relevant to the parts of the site that you visit most often or by letting you know about features of the site that you have not accessed previously.
 
-We read every message sent in and try to reply promptly. We use the information you provide us to respond directly to your questions or comments. We may also retain your comments to improve the site and program, or we may review and discard the information. 
+We may compile and report to third parties (such as advertisers) aggregate statistics about our users in terms of numbers, traffic patterns and related site information.
 
-**Cookies**
+### 4\. Use of Information
 
-Cookies are an industry standard used by most major Websites. When you view our Website we may store some information in the form of a "cookie" or similar file. Cookies are small pieces of information stored on your hard drive, not on our site. Cookies do not spy on you or otherwise invade your privacy, and they cannot invade your hard drive and steal information. Rather, they help you navigate a Website as easily as possible. We use cookies to improve the quality of our services, deliver content specific to your interests and to prevent you from reentering all your registration data at each connection.
+We will use information collected from you in the following ways: 
 
-Some of our business partners (e.g, advertisers) use cookies on our site. We have no access to or control over these cookies. This privacy policy covers the use of cookies by batteries.com only and does not cover the use of cookies by any advertisers.
+Marketing Communications. We may use your personal information in order to communicate with you about Batteries.com's products and services and those of our subsidiaries, affiliates, and parent companies and any of their related businesses. However, you will be able to choose whether or not to receive such communications when you first provide personal information to us. You will also have an opportunity to unsubscribe whenever we communicate with you. You may also unsubscribe from such communications at any time (see "Unsubscribe, access, questions and further information" below).
 
-Batteries.com uses OwnerIQ to place advertisements for our products and services and those of third parties on our Website and third-party sites. OwnerIQ uses cookies and other technologies such as Web beacons or tags to measure the effectiveness of our ads and to determine the display of content and advertising to you based on your interests both on our site, as well as on third-party sites where you may visit. To support this interest based advertising solution, OwnerIQ may use anonymous information about your visits to our and other Web sites. The information collected and used by OwnerIQ is always anonymous, and does not enable any third-party to identify you individually. For more information about OwnerIQ's Privacy Policy, please [click here](http://www.owneriq.com/privacy-policy).
+Marketing Analysis. We may use information for internal marketing analysis, for example, to assess trends amongst our consumers or to measure the amount of traffic to our websites. We may also share non-personal information with others, such as advertisers, in aggregate anonymous form, which means that the information will not contain any personally identifiable information about you. We will only share identifiable personal information with third parties for marketing analysis with your consent.
 
-Although it is our hope that you find the display of advertising to you based on your anonymous interests valuable, if you would prefer not to participate in the services offered by OwnerIQ, you can always opt-out of this activity by visiting OwnerIQ's Opt-Out page by [clicking here](http://www.owneriq.com/privacy-policy).
+Transactional Purposes. We may use your personal information in order to respond to your queries and requests and to manage transactions such as credit card payments for any goods that you order from us or any of our agents, or for the fulfillment of such transactions (e.g. delivery). The personal information you provide may be used by an authorized vendor to fulfill that order. 
 
-**Log Files**
+Third Party Offers. We may arrange for carefully selected organizations to send you marketing and promotional information that may be of interest to you. In such circumstances your personal information may be disclosed to these organizations that will agree to be bound by confidentiality obligations and restrictions on use consistent with this privacy statement. We will obtain your permission before we send you any such communications.
 
-We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. We keep this information for our internal use. We do not share it with others.
+Public (or Interactive) Areas of the Site. Information that you post on or through the public areas of the site (e.g., chat rooms, bulletin boards and discussion groups) are generally accessible to, and may be collected and used by, others and may result in unsolicited messages or other contact from others. Users of the site are encouraged to exercise caution when providing personal information about themselves in public (or interactive) areas of this site.
 
-**Links**
+Sale and Transfer. In the event of a sale, merger, consolidation, change in control, transfer of substantial assets, reorganization or liquidation, we may transfer, sell, or assign to third parties information concerning your relationship with us, including without limitation, personally identifiable information that you provide and other information concerning your relationship with us.
 
-Our Website contains links to other companies' websites. Because this Policy only applies to Batteries.com's Website and not linked websites, you should examine the privacy policy of any other websites that you access via a link from the Batteries.com Website. Batteries.com is not responsible for the privacy practices or the content of such other companies' websites.
+Administration and Data Management. We may transfer your personal information to third parties under confidentiality obligations when the performance of any service in relation to the activities above is sub-contracted (e.g. the administration of a marketing campaign).
 
-**Third-Party Relationships**
+Legal purposes. We collect, use or disclose your personal information if permitted by law or required to do so by law or where we believe such action is necessary in order to protect or defend us or other third parties against error, negligence, breach of contract, theft fraud and other illegal or harmful activity, to comply with our audit and security requirements, and to audit compliance with or corporate policies, procedures, legal and contractual obligations.
 
-When you purchase from us, we send your credit card information, name, and billing address to credit card companies for verification and to authorize your purchase. We give your name and shipping information to third-party shippers who use this information to deliver your purchase. 
+### 5\. Disclosure of personal information
 
-We do not sell, rent, or otherwise share your personal information with third parties. 
+In addition to disclosures identified in the purposes above, from time to time we may disclose personal information to:
 
-Batteries.com may send offers to you on behalf of third party partners. If you want to take advantage of the offer, you will provide your information to our third party partner directly. Batteries.com will not share your information with these third party partners. Please review the privacy policies of our third party partners about how they will use your information and how to contact them.
+_a. our service providers and subcontractors, including our affiliates, retained to perform functions on our behalf or to provide services to us, such as warehousing and delivery; marketing and advertising; data processing; software development; website hosting and management; information technology and office services; legal, accounting, audit and other professional service providers; and further provided such service provider does not collect, use or disclose the personal information for any purpose other than to perform such functions or to provide services to us or as otherwise required by law;_
 
-If you sign up to be a Batteries.com affiliate, you will be directed to our third party affiliate relationship manager's site to complete the affiliate application. For more information on how our third party affiliate relationship management service uses your information, please review their privacy policy.
+_b. a person or entity, including our affiliates, to whom disclosure is required in order to fulfill one or more of the purposes described above under "Purposes for Collecting Information";_
 
-**Choice/Opt-out**
+_c. a person who, in our reasonable judgment, is providing or seeking the information as the authorized or appointed legal agent of the subject individual; or_
 
-We give you the opportunity to 'opt-out' of receiving marketing information from us. The My Account signup form has an 'opt-out' mechanism so if you create an account with us, but don't want any marketing material, you can keep your email address off of our lists. 
+_d. any third party with your consent or where disclosure is required or permitted by law. Your acceptance of the Terms and Conditions of use of this site, which include this Privacy Statement, constitute the granting of consent to the use and disclosure of your personal information for the purposes set out above._
 
-If you no longer wish to receive our newsletter or promotional materials from us you may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at [info@batteries.com](mailto:info@batteries.com).
+### 6\. Security
 
-If you do not wish to receive any catalog or postcard mailings in the future, you can contact [info@batteries.com](mailto:info@batteries.com) and request removal from our mailing list. Because customer communications are often prepared well in advance of deployment (sometimes months before the communication is made), you may continue to receive some communications after you send us a request not to use your information. We appreciate your patience during this time. 
+We take security seriously and we take precautions to keep your personal information secure. We have put in place appropriate physical, electronic and managerial procedures to safeguard the information we collect. However, due to the open communication nature of the Internet, we cannot guarantee that communications between you and us, or information stored on our servers, will be free from unauthorized access by third parties.
 
-**Correction/Updating Personal Information**
+### 7\. Unsubscribe, access, questions and further information
 
-If you need to correct or update your personal information (such as your email address), or you no longer desires our service you can let us know on our member information page accessible by logging into your account or by emailing our customer support at [info@batteries.com](mailto:info@batteries.com).
+At your request, where the law requires us to do so, we will confirm what personal information we hold about you, update your information, remove your information and/or correct any inaccuracies in such personal information.
 
-**Notification of Changes**
+If you have created an online account, please log in and update your information. If you do not have access to an account please contact us at CustomerService@batteries.com.
 
-If we change our Privacy Policy, we will post a notice of the change on our homepage, so you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you via email or by posting a prominent notice on our Website 30 days prior to implementing the change. You will have a choice as to whether or not we use your information in this different manner. 
+### 8\. Links
 
-**Legal Disclaimer**
-
-Batteries.com uses encryption technologies when transferring and receiving data from you through our site. We also have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you. When you submit personally identifiable information (such as credit card number), that information is encrypted and is protected with encryption software - (Secure Socket Layer). While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'.
-
-We also use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure once we receive it. For example, we store the personal information you provide on computer systems with limited access that are located in secured facilities. Batteries.com's employees are trained and kept up-to-date on our security procedures. If you have any questions about the security at our website, you can send an email to [security@batteries.com](mailto:security@batteries.com). 
-
-**Contact Us**
-
-We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or to comply with a legal process served on our Website.
-
-**To Contact Us**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with our Web site, you can contact: Webmaster  
-Batteries.com  
-111 Congressional Blvd Ste 350  
-Carmel, IN 46032  
-[webmaster@batteries.com](mailto:webmaster@batteries.com)
-
-  
-
+Batteries.com may contain links or references to other Web sites outside of our control. Please be aware that we have no control over these sites and our privacy statement does not apply to these sites. We encourage you to read the privacy statements and terms and conditions of linked or referenced sites you enter.
