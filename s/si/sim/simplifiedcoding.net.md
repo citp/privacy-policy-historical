@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the simplifiedcoding.net privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016021542id_/http%3A//www.simplifiedcoding.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplifiedcoding.net privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531174209id_/https%3A//www.simplifiedcoding.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which Simplified Coding collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.simplifiedcoding.net](http://www.simplifiedcoding.net/) website (“Site”).
+This Privacy Policy governs the manner in which Simplified Coding collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://www.simplifiedcoding.net](https://www.simplifiedcoding.net/) website (“Site”).
 
 ### Personal identification information
 
@@ -46,7 +46,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 ### Google Adsense
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <https://www.google.com/privacy_ads.html>
 
 ### Changes to this privacy policy
 
