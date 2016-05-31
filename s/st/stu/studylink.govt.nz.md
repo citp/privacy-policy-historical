@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studylink.govt.nz privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006012531id_/http%3A//www.studylink.govt.nz/about-studylink/about-this-site/copyright-privacy-and-disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studylink.govt.nz privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531220730id_/http%3A//www.studylink.govt.nz/about-studylink/about-this-site/copyright-privacy-and-disclaimer.html) for the most accurate reproduction.*
 
 # Copyright, Privacy and Disclaimer - StudyLink
 
@@ -30,40 +30,6 @@ However, visitors to this website are advised that:
 
 * * *
 
-## Privacy
-
-The legislation administered by the Ministry of Social Development allows us to check the information that you give us in a form. This may happen when you apply for financial assistance and at any time after that.
-
-The Privacy Act 1993 requires us to tell you that:
-
-  * The information you give us is collected under the authority of the legislation administered by the Ministry of Social Development.
-  * The information will be held by the Ministry of Social Development.
-  * The information is collected for the purposes of the legislation administered by the Ministry of Social Development (including StudyLink, Work and Income, Child Youth and Family and other services lines of the Ministry), and in particular for: 
-    * granting financial assistance and other assistance under the Social Security Act 1964 and Education Act 1989 (and any Regulations under those Acts)
-    * statistical and research purposes
-    * providing advice to Government
-    * care and protection of needs of children
-    * providing support and services to you and your family
-    * providing education related services
-    * providing employment related services.
-  * The information may be checked and/or shared with Inland Revenue.
-  * The information you give us may be compared with information held by Inland Revenue, the Ministry of Justice, the Department of Corrections, the New Zealand Customs Service, the Department of Internal Affairs, the Accident Compensation Corporation, Housing New Zealand, Statistics New Zealand, the Ministry of Health, Immigration New Zealand, the Ministry of Education, the New Zealand Qualification Authority, the Tertiary Education Commission, Student Job Search and education providers.  It may also be compared with social security information (for example, pension or benefit information) held by other governments (including Australia and the Netherlands).
-  * Under the Tax Administration Act 1994, if you have dependent children, the information you give us may be shared with Inland Revenue for the purpose of administering Working for Families Tax Credits.
-  * Inland Revenue may also: 
-    * use the information for the purposes of child support, Student Loans and taxation
-    * disclose it to the Ministry of Business, Innovation and Employment, Statistics New Zealand, the Ministry of Justice, the Accident Compensation Corporation, the Ministry of Education and New Zealand Customs Service
-    * disclose your personal information to your partner.
-  * Under the Privacy Act 1993 you have the right to ask to see all information we hold about you, and to ask us to correct that information.
-  * You are not required to give us information; but if you do not give us all the information we ask for, your application for financial assistance may be declined.
-
-
-
-You may browse and access information contained within this website without providing any personal information. Where you voluntarily provide personal information (e.g. through online forms or email requests), we will only use that information to communicate with you.
-
-We will keep any personal information that you provide secure. The Ministry of Social Development (MSD) uses Oracle to provide this cloud-based online service. Oracle are contractually obliged to MSD to keep any personal information collected through the online service that they provide for MSD secure. Your information may be held in Australia, Singapore or the United States of America. Oracle are subject to the laws of these countries.
-
-* * *
-
 ## About your personal information
 
 Under the terms of the Privacy Act 1993 you need to know:
@@ -75,10 +41,10 @@ Under the terms of the Privacy Act 1993 you need to know:
 
 
 You can ask to see and correct any information we hold on you by writing to:  
-      Manager Centralised Services  
-      StudyLink  
-      Private Bag 11070  
-      Palmerston North 4442
+Manager Centralised Services  
+StudyLink  
+Private Bag 11070  
+Palmerston North 4442
 
 * * *
 
@@ -95,4 +61,4 @@ To keep yourself safe online, we strongly encourage you to take the following st
 
 * * *
 
-Last updated: 13 August 2015
+Last updated: 12 October 2015
