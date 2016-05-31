@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pri.org privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211140325id_/http%3A//www.pri.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pri.org privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531200629id_/http%3A//www.pri.org/privacy) for the most accurate reproduction.*
 
 # PRI.org privacy policy | Public Radio International
 
@@ -72,7 +72,7 @@ We may use cookies to place ads on our site based on your visit to our site and 
 
 **Do we disclose any information to outside parties?  **
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect our or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect our or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. You may opt out of advertising tracking via the Digital Advertising Alliance's [opt-out page](http://www.youradchoices.com/).
 
 **Third party links  **
 
@@ -114,6 +114,6 @@ Minneapolis, MN 55401
 USA  
 [contact@pri.org](mailto:contact@pri.org?subject=Message%20from%20PRI.org)
 
-Last Modified: July 13, 2015
+Last Modified: February 12, 2016
 
-© 2015 Public Radio International, All Rights Reserved
+© 2016 Public Radio International, All Rights Reserved
