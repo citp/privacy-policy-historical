@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockclimbing.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905083250id_/http%3A//www.rockclimbing.com/cgi-bin/cms/jump.cgi%3FDetailed%3D512) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockclimbing.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531153738id_/http%3A//rockclimbing.com/cgi-bin/cms/jump.cgi%3FDetailed%3D512) for the most accurate reproduction.*
 
 # Privacy Statement | Rock Climbing Articles | Rockclimbing.com
 
