@@ -1,51 +1,105 @@
-> *The following text is extracted and transformed from the earlymoments.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026230337id_/https%3A//www.earlymoments.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earlymoments.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531095108id_/https%3A//www.earlymoments.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Earlymoments.com
 
-This privacy policy was last updated on July 3, 2013. **Early Moments** is part of Sandvik Publishing Interactive, Inc. (SPI) which is the Pennsylvania company that owns and operates this Web site. We care about the privacy of each user of our Web site. This privacy statement discloses the privacy practices for this Web site. If you have any questions or concerns regarding this statement, please contact Customer Care at 1-800-353-3140.
+This privacy policy was last updated on November 20, 2015. **Early Moments** is part of Sandvik Publishing Interactive, Inc. (SPI) which is the Pennsylvania company that owns and operates this Web site. We care about the privacy of each user of our Web site. This privacy statement discloses the privacy practices for this Web site. If you have any questions or concerns regarding this statement, please contact Customer Care at 1-800-353-3140.
 
-## Information Collection and Use
+At Early Moments, a Sandvik Publishing brand, its related subsidiaries, affiliates and concerns (collectively “Company”, "we", or "us"), your privacy matters to us. This Privacy Policy explains how we collect, use, share and protect information about you. We also provide information regarding how you can access and update your information and make certain choices about how your information is used.
 
-When you set up an account on our Web site or purchase an item from our Web site, we collect personal information provided by you that may include your: (i) first and last name; (ii) billing address; (iii) shipping address; (iv) other shipping addresses; (v) e-mail address; (vi) phone number; (vii) credit card account number; (viii) items purchased from us; and (ix) browsing, buying and selling patterns. We use this personal information in order to provide you with the goods and services that you purchase on our Web site. We use your e-mail address or mailing address to provide you with information about your order and its status and we may occasionally send out e-mails and mail to people who have placed an order online, with information about other goods and services available on our Web site or from partner companies. The phone number you provide may be used by our autodialer in the event that we need to contact you about your membership or to make you aware of offers for new products or services from us or our partners that we believe will be of interest to you.
+By providing your email address to us, purchasing, downloading, installing, or using any products or services including, but not limited to all books, products, websites, native application, mobile applications, tools, modules, services residing on servers owned and/or operated by third parties (“Services”) as provided by Early Moments, you agree to the terms of this Privacy Policy, the Early Moments Terms of Service Policy and any other policies, rules or guidelines that may be applicable to particular offers or features of the Services (“the Agreement”) and agree to be legally bound by these terms.
 
-**SPI** owns and operates this Web site and we are the sole owner of this information collected on the Web site. We will not sell, share, or rent this information to a third party in any way other than as disclosed in this privacy policy. We fully cooperate with law enforcement agencies in identifying those who use our services for illegal activities and may, in our sole discretion, disclose personal information or other information to satisfy any law, regulation, subpoena, or government request. We reserve the right to release personal information or other information about users who we believe are engaged in illegal activities or are otherwise in violation of our Terms of Service, even without a subpoena, warrant or court order, if we believe, in our sole discretion, that such disclosure is necessary or appropriate to operate our Web site or to protect the rights or property of our Web site, our affiliates, or our officers, directors, employees, agents, third-party content providers, suppliers, sponsors, or licensors. We also reserve the right to report to law enforcement agencies any activities we reasonably believe in our sole discretion to be unlawful. If we are legally compelled to disclose information about you to a third party, we will attempt to notify you by sending an e-mail to the e-mail address in our records unless doing so would violate the law or unless you have not provided your e-mail address to us.
+Please review the following carefully so that you understand our privacy practices. If you do not agree to this Privacy Policy, do not use our Services or give us any of your information.
 
-## Orders
+Throughout this Privacy Policy, we use the term "Personal Information" to describe information that can be associated with a specific person and can be used to identify that person. We do not consider personal information to include information that has been made anonymous or aggregated so that it can no longer be used, whether in combination with other information or otherwise, to identify a specific person.
 
-We request additional personal information from our users when placing an order on our Web site. In completing our order form, a user may provide contact information, such as name and shipping address, and financial information, such as credit card account number and expiration date. This information is used for billing purposes and to fulfill our customer orders. If we experience difficulties processing an order, we will contact a user through this information. While entering information into user forms on the Web site, personal information may be collected prior to the user clicking the submit button. Information collected in this manner may be used to contact users about their finished or unfinished transactions.
+If you have any questions about this Privacy Policy, please contact us.
 
-## Cookies
+**1\. Collection of Your Personal Information.**
 
-A cookie is a text file stored on the user's hard drive containing information about the user. Web sites create cookies to record information about a user's preferences, such as the items you add to your shopping cart, and for security purposes (see Security below). Cookies are also used to help us determine the various services you use and the support you may need, and to help us detect and solve any problems you may have while using our web site. In addition, the use of a cookie on our Web site will enable users to log on without having to reenter their password on each visit. Most cookies expire after a certain time period (365 days for this Web site). If you wish, you may set your browser to reject all cookies. Cookies placed by our Web site may be tied to personally identifiable information.
+**(a) Information You Provide.**  
+In order to purchase products or register for certain current or future services, you will be asked to create an account which will require information which may include your
 
-## Log Files
+  * Name 
+  * Email address
+  * Credit Card information 
+  * Address
+  * Telephone Number
+  * Third Party authentication login credentials.
 
-Like most Web sites, we use log files. These log files store information regarding IP (internet protocol) addresses, browser type, ISP (internet service provider), referring/exit pages, platform type, date/time stamp, and number of clicks. These log files are used to analyze trends, administer the Web site, track user's movements in the aggregate, and gather broad demographic information for our use. IP addresses, etc. may be linked to personal information if you have placed an order on our Web site.
 
-## Sharing of General or Demographic Information
 
-We may share aggregated, general or demographic information we collect about our users and their use of our Web site with our partners in a manner which does not identify any individual user. We use an outside shipping company to ship orders placed on our Web site, and a credit card processing company to bill users for goods and services purchased on our Web site. These companies will not retain, share, store or use any of our user's personal information for any secondary purposes.
+In the event that you register with the Services using third party authentication credentials, such as but not limited to Facebook, Twitter, OpenId or other social login in credentials, you authorize us to access and store account information, such as a public profile (consistent with your privacy settings for that account), your email address registered with that account, and other data associated with that account including, but not limited to, interests, likes, gender, birthday, education history, relationship interests, current city, photos, personal description, friend list, and information about and photos of contacts who might be common contacts with other Services users.
 
-## Links
+We may collect and store any personal information you provide while using our Service or in some other manner. This may include identifying information, such as your name, address, email address, GPS or other triangulation-based location data, telephone number, and, if you transact business with us, financial information. You may also provide us photos, a personal description and information about your preferences for recommendations.
 
-The Web site contains links to other Web sites. We want you to be aware that when you click on such links which take you to a third-party Web site, you will be subject to such third-party's privacy policies. Please be aware that we are not responsible for the privacy practices of such other Web sites and we expressly disclaim any and all liability for the actions of third-parties, including, without limitation, actions relating to the use and/or disclosure of personal information by such third-parties. We encourage our users to be aware of when they leave our Web site and enter a third-party Web site and to read the privacy statements of each and every Web site that collects their personal information. This privacy policy applies solely to information collected by our Web site.
+**(b) Information We Collect.**  
+In addition to any Personal Information or other information that you choose to submit to us, our third-party service providers and we may use a variety of technologies that collect certain information whenever you visit or interact with the Services (" Usage Information"). This Usage Information may include, but is not limited to, the browser that you are using, your internet protocol (“IP”) address, GPS or other triangulation-based location data, the URL that referred you to our services, all of the areas within our services that you visit, and the time of day, among other information. Usage Information may be non-identifying or may be associated with you. Whenever we associate Usage Information with your Personal Information, we will treat it as Personal Information.
 
-## Security
+**(c) Information Provided by Third Parties.**  
+We may, from time to time, supplement the information we collect about you through our services with outside records from third parties such as information that is publicly available and data that we receive from other reputable and trusted sources in order to enhance our ability to serve you and to tailor our content to you. We may combine the information we receive from those sources with information we collect through our services. In those cases, we will apply this Privacy Policy to any Personal Information received, unless we have disclosed otherwise. We may also collect information about social network accounts and contacts from third party social media websites that provide access to this information. We respect and follow the privacy policies of those third party services respectfully with regard to the data we collect from them.
 
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use strong industry standard means to protect your personal information, like all Internet sites, we cannot guarantee its absolute security. If you have any questions about the security of our Web site, please contact Customer Care at 1-800-353-3140.
+**(d) How We Collect Usage Information.**  
+A few of the methods that may be used to collect Usage Information include, without limitation, the following (and subsequent technology and methods hereafter developed):
 
-## Communications from our Web Site
+**(a) Cookies**. A cookie is a data file placed on a Device when it is used to access the Services. A Flash cookie is a data file placed on a Device via the Adobe Flash plug-in that may be built-in to or downloaded by you to your Device. Cookies and Flash Cookies may be used for many purposes, including, without limitation, remembering you and your preferences and tracking your visits to our web pages. Cookies work by assigning a number to the user that has no meaning outside of the assigning website.
 
-Customers may occasionally receive information on products, services, special deals, and e-newsletters. Each user has the option to not receive these types of communications. Occasionally, it is necessary to send out service-related announcements. For instance, if our service is temporarily suspended for maintenance, we might send you an e-mail informing you of such service interruption. Generally, users may not opt-out of receiving these service-related communications. In addition, we communicate with our users on a regular basis to provide requested services and regarding issues relating to their account via e-mail.
+If you do not want information to be collected through the use of cookies, your browser allows you to deny or accept the use of cookies. Cookies can be disabled or controlled by setting a preference within your web browser or on your Device. If you choose to disable cookies or Flash cookies on your Device, some features of the Services may not function properly or may not be able to customize the delivery of information to you.
 
-## Choice/Opt-out
+**(b)** **Web** **Beacons**. Small graphic images or other web programming code called web beacons (also known as "1x1 GIFs" or "clear GIFs") may be included in our web and mobile pages and messages. The web beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored in a user's computer hard drive, web beacons are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. Web beacons or similar technologies help us better manage content on our Services by informing us what content is effective, count users of the Services, monitor how users navigate the Services, count how many e-mails that we send were actually opened or to count how many particular articles or links were actually viewed. We do not tie the information gathered by web beacons to your personal information.
 
-Users who no longer wish to receive any marketing or promotional materials from us or our partners may opt-out of receiving these communications by replying to any such promotional e-mail indicating your desire to no longer receive such e-mails, or by contacting Customer Care at 1-800-353-3140.
+**(c)** **Embedded Scripts.  **An embedded script is programming code that is designed to collect information about your interactions with the Services, such as the links you click on. The code is temporarily downloaded onto your Device from our web server or a third party service provider, is active only while you are connected to the Services, and is deactivated or deleted thereafter.
 
-## Collecting Information from Children Younger than 18
+Any third parties that are linked to through the site or that may advertise on our site may use their own cookies, web beacons, embedded scripts and other technology to collect information about you. You should be aware that the Company cannot control the use of cookies (or the resulting information) by third parties, and use of third party cookies is not covered by our Privacy Policy.
 
-Our Web site does not knowingly collect or use any personal information from children under the age of 18 without obtaining verifiable parental consent.
+**2\. Use and Sharing of Your Information.**  
+Our primary goal in using your Personal information or Usage Information is to provide you with a better experience when using our Services; however that is not the only use.
 
-## Notification of Changes in Use of Information
+We may use your Personal Information or Usage Information to:
 
-Our privacy policy is subject to change. In the event of any change, we will provide notice of such change on our Web site. If we want to use your personal information in a manner different from that stated to you at the time you provided such information to us, we will notify you of such change via e-mail in addition to posting notification of such change on our Web site. At such time, you can determine whether you wish to allow us to use your information in this different manner. If you have opted out of all communication with our Web site or have deleted or deactivated your account with us, then you will not be contacted and your personal information will not be used.
+  * Develop enhancements or improvements to the Services.
+  * Communicate with you in response to your inquiries, provide the services you request, and to manage your account. 
+  * Contact you to provide you with information about our services or electronic newsletters or special promotions. 
+  * Verify any and all of the information provided to us as active and valid.
+  * Contact you with regard to your use of our services, and, in our discretion, changes to our Services and/or the Services’ policies.
+  * Improve internal business operations and data analytics.
+  * For purposes disclosed at the time you provide your information or as otherwise set forth in this Privacy Policy.
+
+
+
+We may also use your Internet Protocol (IP) address to help diagnose problems with our computer server, and to administer our web site(s). We may send you strictly Services-related announcements on rare occasions when it is necessary to do so.
+
+We will not use your Personal Information to advertise unless you give us permission to do so.
+
+We may extend any of our rights under this Privacy Policy to third parties performing services on our behalf.
+
+For the purpose of operating our business, we may share collected information, such as aggregated user statistics and log data, with third parties for industry analysis, demographic profiling, to deliver targeted advertising about other products or services. We do not sell, share, rent or trade the information we have collected about you, including Personal Information, other than as disclosed within this Privacy Policy or at the time you provide your information. We do not share your Personal Information with third parties for those third parties' direct marketing purposes unless you consent to such sharing at the time you provide your Personal Information.
+
+You may be presented with an opportunity to share or receive information and/or marketing offers directly from third parties or social media outlets. If you do agree to have your Personal Information shared, your Personal Information will be disclosed to such third parties and all information you disclose will be subject to the privacy policy and practices of such third parties. We are not responsible for the privacy policies and practices of such third parties.
+
+If required we will cooperate with government and law enforcement officials and private parties to enforce and comply with the law. Thus, we may access, use, preserve, transfer and disclose your information (including Personal Information), including disclosure to third parties such as government or law enforcement officials or private parties as we reasonably determine is necessary and appropriate to satisfy any applicable law, regulation, subpoenas, governmental requests or legal process, to protect and/or defend the Terms and Conditions for online and mobile Services or other policies applicable to any online and mobile services, including investigation of potential violations thereof, to protect the safety, rights, property or security of the Company, our services or any third party to protect the safety of the public for any reason, to detect, prevent or otherwise address fraud, security or technical issues, and to prevent or stop activity we may consider to be, or to pose a risk of being, an illegal, unethical, or legally actionable activity. Further, we may use IP address or other Device Identifiers, to identify users, and may do so in cooperation with third parties such as copyright owners, internet service providers, wireless service providers and/or law enforcement agencies, including disclosing such information to third parties, all in our discretion. Such disclosures may be carried out without notice to you.
+
+We reserve the right to disclose and transfer your information, including your Personal Information and Usage Information to a subsequent owner, co-owner or operator of our services or applicable database or in connection with a corporate merger, consolidation, restructuring, the sale of substantially all of our membership interests and/or assets or other corporate change, including, during the course of any due diligence process.
+
+**3\. Protecting Your Information.**  
+We use a variety of security measures for protecting the Personal Information and Usage Information we collect, however, as effective as encryption technology is, no security system can be guaranteed to be 100% secure. We cannot guarantee the security of our databases, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet or wireless communication, and any information you transmit to the Company you do at your own risk. We recommend that you not disclose your password to anyone.
+
+**4\. Third Parties.**  
+Except as otherwise expressly included in this Privacy Policy, this document addresses only the use and disclosure of information we collect from you. If you disclose your information to other sites throughout the internet (including the ones we link to), different rules may apply to their use or disclosure of the information you disclose to them. The Company does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. We encourage you to ask questions before you disclose your personal information to others.
+
+**5\. How to Change Your Information.**  
+You **** are responsible for maintaining the accuracy of the information you submit to us, such as your contact information provided as part of account registration. If your Personal Information changes, or if you no longer desire to use the Services, you may correct, delete inaccuracies, or amend information by making the change on your account page or by contacting us.
+
+You may also cancel or modify your communications that you have elected to receive from our services by logging into your user account and changing your communication preferences.
+
+If you wish to cancel your account or request that we no longer use your information to provide you services, contact us.
+
+**6\. Users Under Thirteen (13).**  
+Company does not knowingly collect personally identifiable information from users under the age of thirteen. If you are under the age of thirteen, you will not be permitted to use the Service.
+
+**7\. Changes to this Statement.**  
+Company will occasionally update this Statement of Privacy to reflect company and customer feedback. Company encourages you to periodically review this Statement to be informed of how Company is protecting your information.
+
+8\. **Governing Law.**     
+This Agreement is governed by and construed in accordance with the internal laws of the State of Pennsylvania without giving effect to any choice or conflict of law provision or rule. Any legal suit, action or proceeding arising out of or related to this Agreement or the Services shall be instituted exclusively in the federal courts of the United States or the courts of the State of Pennsylvania.  You waive any and all objections to the exercise of jurisdiction over you by such courts and to venue in such courts.
+
+If you have any questions please visit us online at www.EarlyMoments.com or email us at [CustomerCare@EarlyMoments.com](mailto:CustomerCare@EarlyMoments.com)
