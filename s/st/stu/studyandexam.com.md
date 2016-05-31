@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the studyandexam.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205014524id_/http%3A//www.studyandexam.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyandexam.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531193022id_/http%3A//studyandexam.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](https://www.facebook.com/Study-And-Exam-131091663608077)
 
 www.studyandexam.com understands the importance of privacy of its visitors and is committed to ensure that the privacy of the visitors is protected. The Privacy Policy document mentions which type of data is collected from the visitors and how it is used.
 
