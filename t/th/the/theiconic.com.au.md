@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the theiconic.com.au privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229230046id_/http%3A//www.theiconic.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theiconic.com.au privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601005538id_/http%3A//www.theiconic.com.au/privacy-policy) for the most accurate reproduction.*
 
 # THE ICONIC Privacy Policy | THE ICONIC Privacy Policy Statement |
-
-### The Iconic Privacy Statement
 
 We take our customers privacy seriously and we will only collect and use your personal information as outlined below.
 
@@ -32,7 +30,7 @@ We may also collect personal information about you from the following third part
 
      Collection of Personal Information
 
-​​We collect your personal information so that we can carry out the following actions (“Purpose”):
+We collect your personal information so that we can carry out the following actions (“Purpose”):
 
   * to provide you with products and services that you have requested from us;
   * to communicate with you, including about products and services, competition results, special offers, and events which might interest you;
@@ -75,7 +73,7 @@ THE ICONIC uses 128 - bit SSL (secure sockets layer) encryption technology when 
 
      Disclosure of Personal Information
 
-​​Your personal information may be disclosed in connection with any Purpose to any of the following:
+Your personal information may be disclosed in connection with any Purpose to any of the following:
 
   * our employees, contractors or service providers, to the extent reasonably necessary to fulfil our obligations to you. This may include internet service providers, IT systems administrators, mailing houses, couriers, payment processors, and data entry service providers;
   * retail brands and suppliers who provide goods and services within our stores. This may include other suppliers who provide products and services to you on our behalf;
@@ -116,5 +114,5 @@ Alternately, you can direct correspondence to:
 
 Legal Department  
 THE ICONIC  
-Level 2, 84-86 Mary Street  
-Surry Hills NSW 2010
+Level 18, 338 Pitt Street  
+Sydney NSW 2000
