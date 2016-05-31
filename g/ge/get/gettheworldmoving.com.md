@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gettheworldmoving.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927093533id_/https%3A//www.gettheworldmoving.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettheworldmoving.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601004621id_/https%3A//www.gettheworldmoving.com/privacy) for the most accurate reproduction.*
 
 # GCC Privacy Policy | ISO Compliant | Truste Certified | E.U. Safe Harbor Compliant
 
@@ -6,7 +6,16 @@
 
 The Global Corporate Challenge (GCC) is the world’s largest and most exciting workplace health and performance program with independently proven results. The GCC improves staff health and wellness, promotes teamwork, reduces absenteeism and creates a culture of resilience across entire organizations.
 
-_Effective date: 07/04/2015_
+### GCC 2016
+
+#### Next challenge starts   
+September 7
+
+Let us tailor a solution for your organisation
+
+[ Request a callback](http://info.gettheworldmoving.com/request-a-call-back.html) Hide 
+
+_Effective date: 20/05/2016_
 
 In this privacy policy, the terms “Get The World Moving” “we”, “us” and “ours” refer to:  
 
@@ -158,7 +167,7 @@ In Australia, we are bound by the Australian Privacy Principles contained in the
 
 ## In the UK:
 
-In the United Kingdom, the data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfillment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. 
+IIn the United Kingdom, the data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfillment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. 
 
 We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
 
