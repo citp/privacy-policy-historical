@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the commercehub.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201040457id_/http%3A//www.commercehub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commercehub.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531154240id_/http%3A//www.commercehub.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - CommerceHub
+# Privacy Policy -CommerceHub
 
 ### Introduction.
 
@@ -8,8 +8,9 @@ At Commerce Technologies, Inc. dba CommerceHub (“CommerceHub”, “We”, “
 
 ### Acceptance of these Terms.
 
-By registering or by using Our Site, You the user (“You” or “Your”) explicitly accept, without limitation or qualification, the collection, use and transfer of the personal information provided by You in the manner described in this Privacy Policy. Please read this Privacy Policy carefully as it affects Your rights and liabilities under law. If You disagree with the way We collect and process personal information from Our Site, please do not use it.  
-Non-Personally Identifiable Information.
+By registering or by using Our Site, You the user (“You” or “Your”) explicitly accept, without limitation or qualification, the collection, use and transfer of the personal information provided by You in the manner described in this Privacy Policy. Please read this Privacy Policy carefully as it affects Your rights and liabilities under law. If You disagree with the way We collect and process personal information from Our Site, please do not use it.
+
+### Non-Personally Identifiable Information.
 
 You may visit Our Site without registering, however, some of the specific tools and services on Our Site do require registration. If You use Our Site without registering, the only information We collect will be non-personal information that will be collected automatically through the use of tracking technology such as cookies. The type of non-personal information We collect includes the areas of Our Site that You visit, what services You access, and information about Your computer hardware and software including Your IP address, geolocation, browser and operating system type, domain names, access times and referring web site addresses. This information is used for analyzing the use of resources and improving Our services.
 
@@ -77,7 +78,8 @@ If You have further questions or concerns, please contact us at <http://www.comm
 
 General Inquiries  
 Commerce Technologies, Inc.  
-255 Fuller Road, Suite 327  
+ZEN Building,  
+201 Fuller Road, 6th Floor,  
 Albany, NY 12203
 
 Last revised April 23, 2015
