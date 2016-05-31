@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adskorner.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221100813id_/http%3A//www.adskorner.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adskorner.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601000141id_/http%3A//www.adskorner.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Post Free Classifieds Ads, Search Free Classified Ads online | Free Classified Advertisement on Adskorner Classifieds
 
