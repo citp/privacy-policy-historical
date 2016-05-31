@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jangosmtp.com privacy policy that was archived on 2015-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150902072054id_/http%3A//www.jangosmtp.com/Privacy-Statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jangosmtp.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601015642id_/http%3A//www.jangosmtp.com/Privacy-Statement.asp) for the most accurate reproduction.*
 
 # SMTP Relay - JangoSMTP Privacy Statement
 
@@ -32,4 +32,4 @@ JangoSMTP Inquiries
 JangoSMTP  
 P.O. Box 751024  
 Dayton, OH 45475  
-Or see the [Contact Us](https://web.archive.org/web/20150902072054id_/http%3A//www.jangosmtp.com/Contact-Us.asp) page 
+Or see the [Contact Us](https://web.archive.org/web/20160601015642id_/http%3A//www.jangosmtp.com/Contact-Us.asp) page 
