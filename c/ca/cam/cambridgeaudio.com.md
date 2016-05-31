@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cambridgeaudio.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608002321id_/http%3A//www.cambridgeaudio.com/legal/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cambridgeaudio.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531041027id_/https%3A//www.cambridgeaudio.com/legal/privacy-and-cookie-policy) for the most accurate reproduction.*
 
-# Privacy & Cookie Policy | Cambridge Audio
+# Privacy and Cookie Policy | Cambridge Audio
 
 This privacy policy explains how Cambridge Audio uses the information it collects about you and procedures that Cambridge Audio has in place to safeguard your privacy.
 
@@ -24,7 +24,7 @@ Most web browsers will accept cookies, but if you would rather that we did not c
 
 #### How to check cookies are enabled for PCs
 
-Google Chrome
+##### Google Chrome
 
   * Click on 'Tools' at the top of your browser window and select Options
   * Click the 'Under the Hood' tab, locate the 'Privacy' section, and select the 'Content settings' button
@@ -32,7 +32,7 @@ Google Chrome
 
 
 
-Microsoft Internet Explorer
+##### Microsoft Internet Explorer
 
   * Click on 'Tools' at the top of your browser window and select 'Internet options' , then click on the 'Privacy' tab
   * Ensure that your Privacy level is set to Medium or below, which will enable cookies in your browser
@@ -40,7 +40,7 @@ Microsoft Internet Explorer
 
 
 
-Mozilla Firefox
+##### Mozilla Firefox
 
   * Click on 'Tools' at the top of your browser window and select Options
   * Then select the Privacy icon
@@ -48,7 +48,7 @@ Mozilla Firefox
 
 
 
-Safari
+##### Safari
 
   * Click on the Cog icon at the top of your browser window and select the 'Preferences' option
   * Click on 'Security', check the option that says 'Block third-party and advertising cookies'
@@ -58,7 +58,7 @@ Safari
 
 #### How to check cookies are enabled for Macs
 
-Google Chrome
+##### Google Chrome
 
   * Click on 'Chrome' at the top of your browser window and select 'Preferences' options
   * Click the 'Under the Hood' tab, locate the 'Privacy' section, and select the 'Content settings' button
@@ -66,7 +66,7 @@ Google Chrome
 
 
 
-Safari
+##### Safari
 
   * Click on 'Safari' at the top of your browser window and select the 'Preferences' option
   * Click on 'Security' then 'Accept cookies'
@@ -74,7 +74,7 @@ Safari
 
 
 
-Mozilla Firefox
+##### Mozilla Firefox
 
   * Click on 'Firefox' at the top of your browser window and select 'Preferences' options
   * Then select the Privacy icon
@@ -92,12 +92,21 @@ Information supplied by cookies can help us to analyse the profile of our visito
 
 #### These cookies are:
 
-  * **Strictly necessary cookies** These cookies are essential in order to enable you to move around the website and use its features, such as using the shopping basket to continue to navigate the site when making a purchase. Without these cookies, services you have asked for, such as making a purchase using the website, cannot be provided. These cookies do not gather information about you that could be used for marketing or remembering where you have been on the internet.
-  * **Performance cookies** These cookies collect information about how our visitors use the website, for instance which pages visitors go to most often, and if they get error messages from any web pages. They also allow us to record and count the number of visitors to the website, all of which enables us to see how visitors use the website in order to improve the way that our website works. These cookies do not collect information that identifies a visitor, as all information these cookies collect is anonymous and is only used to improve how our website works.
-  * **Functionality cookies** These cookies allow our website to remember choices you make (such as your login details or your choices in relation to our newsletter). Whenever these cookies are used we will notify you before using the cookie, providing more information about the functionality cookie to be used, and how it might improve your user experience. The information these cookies collect is usually anonymised. They do not gather any information about you that could be used for advertising or remember where you have been on the internet.
-  * **Targeting cookies** These cookies collect several pieces of information about your browsing habits. They are placed by our third party service provider [although we may also place a cookie that collects this kind of information]. All of the information that these cookies collect is anonymised, although they contain a unique key that is able to distinguish, for example, individual user browsing habits, or log if an individual user has clicked on a one of our suggested recommendations. These cookies can track your visits around the website, but they do not usually know who you are. They remember that you have visited our website and your browsing habits on our website to improve your experience, so that our recommendations are a better fit for you. This information is only shared between us and our third party service provider. Without these cookies, the recommendations you encounter and user experience on our website will be less relevant to you and your interests.
+###### Strictly necessary cookies
 
+These cookies are essential in order to enable you to move around the website and use its features, such as using the shopping basket to continue to navigate the site when making a purchase. Without these cookies, services you have asked for, such as making a purchase using the website, cannot be provided. These cookies do not gather information about you that could be used for marketing or remembering where you have been on the internet.
 
+###### Performance cookies
+
+These cookies collect information about how our visitors use the website, for instance which pages visitors go to most often, and if they get error messages from any web pages. They also allow us to record and count the number of visitors to the website, all of which enables us to see how visitors use the website in order to improve the way that our website works. These cookies do not collect information that identifies a visitor, as all information these cookies collect is anonymous and is only used to improve how our website works.
+
+###### Functionality cookies
+
+These cookies allow our website to remember choices you make (such as your login details or your choices in relation to our newsletter). Whenever these cookies are used we will notify you before using the cookie, providing more information about the functionality cookie to be used, and how it might improve your user experience. The information these cookies collect is usually anonymised. They do not gather any information about you that could be used for advertising or remember where you have been on the internet.
+
+###### Targeting cookies
+
+These cookies collect several pieces of information about your browsing habits. They are placed by our third party service provider [although we may also place a cookie that collects this kind of information]. All of the information that these cookies collect is anonymised, although they contain a unique key that is able to distinguish, for example, individual user browsing habits, or log if an individual user has clicked on a one of our suggested recommendations. These cookies can track your visits around the website, but they do not usually know who you are. They remember that you have visited our website and your browsing habits on our website to improve your experience, so that our recommendations are a better fit for you. This information is only shared between us and our third party service provider. Without these cookies, the recommendations you encounter and user experience on our website will be less relevant to you and your interests.
 
 #### How will we use the information about you?
 
@@ -144,9 +153,15 @@ United Kingdom
 
 Under the Data Protection Act 1998, you have a right to request a copy of the information we hold about you. Cambridge Audio will provide you with a legible copy of the personal information it holds and to which you are entitled upon request. This will be sent to you within 40 days of your request - although Cambridge Audio almost always requires proof of your identity before supplying the information (in order to mitigate the risk of supplying information to the wrong person) and may ask you for further information to assist in locating your personal information. You may have to pay a small charge before the information is supplied. We want to make sure that your personal information is accurate and up to date. You may ask us to correct or remove information you think is inaccurate.
 
+  
+
+
 #### Changes to our privacy policy
 
 We keep our privacy policy under regular review and we will place any updates on this webpage. You may wish to check this webpage every time you submit personal information to the website.
+
+  
+
 
 #### How to contact us
 
