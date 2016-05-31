@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucu.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905101440id_/https%3A//www.ucu.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucu.org privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531201530id_/https%3A//www.ucu.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | University Credit Union
 
