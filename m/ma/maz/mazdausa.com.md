@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mazdausa.com privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918071739id_/http%3A//www.mazdausa.com/MusaWeb/displayPage.action%3FpageParameter%3DlegalPrivacyMazda) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mazdausa.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531120716id_/http%3A//www.mazdausa.com/MusaWeb/displayPage.action%3FpageParameter%3DlegalPrivacyMazda) for the most accurate reproduction.*
 
 # MazdaUSA > Privacy Policy
 
