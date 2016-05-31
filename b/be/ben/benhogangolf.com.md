@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the benhogangolf.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610041541id_/http%3A//www.benhogangolf.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benhogangolf.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531151125id_/http%3A//www.benhogangolf.com/privacy) for the most accurate reproduction.*
 
-# Ben Hogan Golf Equipment Company
+# Privacy Statement
 
 Ben Hogan Golf Equipment Company is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Ben Hogan Golf Equipment Company Web site and governs data collection and usage. By using the Ben Hogan Golf Equipment Company website, you consent to the data practices described in this statement.
 
