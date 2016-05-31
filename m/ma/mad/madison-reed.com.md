@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madison-reed.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906152055id_/https%3A//www.madison-reed.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madison-reed.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531204818id_/https%3A//www.madison-reed.com/about/privacy) for the most accurate reproduction.*
 
 # Madison Reed – Privacy Policy
 
@@ -66,4 +66,4 @@ We employ physical and electronic measures designed to protect your information 
 
 Our services may contain links to other services and websites operated by third parties. Any information you provide to those services and websites is provided directly to the owner of that service or website and is subject to their own terms, data gathering practices and privacy policy. Our Privacy Policy does not apply to these services and websites and we are not responsible for the privacy and security practices of those services and websites.
 
-Please [contact us](https://web.archive.org/support/email-us) if you have any questions about our Privacy Policy.
+Please [contact us](https://web.archive.org/support) if you have any questions about our Privacy Policy.
