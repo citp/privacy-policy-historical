@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sbe.com privacy policy that was archived on 2015-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151001050256id_/http%3A//sbe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbe.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531081844id_/http%3A//sbe.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | sbe.com
 
 **PRIVACY POLICY** ** **
 
-Last Updated: August 20, 2014
+Last Updated: August 20, 2014.
 
 SBEEG Holdings, LLC (“sbe”), together with controlled affiliates (collectively, “we”, “us” or “our”), is a global hospitality and entertainment company comprised of a thriving collection of award-winning hotels, casinos, residences, restaurants and nightlife destinations (the “Venues”).  As a part of our operations, we gather certain types of information from and about online visitors and users through various websites.  This Privacy Policy applies to information collected from and about visitors and users (“you”) through various websites operated by us (either directly or through our service providers) their respective web pages, sub-domains, and any other websites (and subdomains thereof) that we operate and that link to this Privacy Policy (collectively, the “Website”).  This Privacy Policy also applies to information collected from or about you through email and other electronic submissions and communications between you and the Website.   We have adopted this Privacy Policy to describe the types of information that we collect from or about you, how and for what purposes that information may be used or disclosed, how you can make certain choices about what kinds of information is collected and how it is used, and the steps we take to protect that information.
 
