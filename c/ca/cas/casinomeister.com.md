@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casinomeister.com privacy policy that was archived on 2015-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150726214637id_/http%3A//www.casinomeister.com/legal.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinomeister.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531223330id_/http%3A//www.casinomeister.com/legal.php) for the most accurate reproduction.*
 
 # Legal Statement and Privacy Policy at Casinomeister
 
@@ -10,14 +10,12 @@
 
   * [Accredited Casinos](http://www.casinomeister.com/forums/content.php?r=131-accredited-casinos)
     * [The Complete List](http://www.casinomeister.com/forums/content.php?r=131-accredited-casinos)
-    * [Accredited Bingo](http://www.casinomeister.com/forums/content.php?r=422-accredited-bingo)
     * [CM Standards](http://www.casinomeister.com/forums/content.php?r=181-standards)
     * [CM Rating System](http://www.casinomeister.com/casino_ratings.php)
     * [Baptism by Fire](http://www.casinomeister.com/forums/content.php?r=183-baptism-by-fire)
-    * [Casino Reviews](http://www.casinomeister.com/forums/list.php?r=category/91-Meister-Reviews)
+    * [Casino Reviews](http://www.casinomeister.com/accredited-casinos-reviews/)
     * [The Reservation](http://www.casinomeister.com/reservation.php)
-    * [Best Casinos of the Year](http://www.casinomeister.com/forums/list.php?r=category/20-Best-Casino-of-the-Year)
-    * [US Licensed](http://www.casinomeister.com/forums/list.php?r=category/5-Accepts-US)
+    * [US Licensed](http://www.casinomeister.us/accredited_casinos/)
     * [UK Licensed](http://www.casinomeister.com/forums/list.php?r=category/49-UK-Gambling-Commission)
     * [IGT Casino list](http://www.casinomeister.com/wagerworks.php)
     * [Microgaming Casinos](http://www.casinomeister.com/microgaming.php)
@@ -50,8 +48,8 @@
   * [Casino Complaints](http://www.casinomeister.com/forums/content.php?r=314-pitch-a-bitch)
     * [Pitch a Bitch](http://www.casinomeister.com/forums/content.php?r=314-pitch-a-bitch)
     * [The "No Can Do" List](http://www.casinomeister.com/no-can-do-list.php)
-    * [Casino Complaints Archive](http://www.casinomeister.com/pitchabitch/index.php)
-    * [2014 Complaint Summary](http://www.casinomeister.com/pitchabitch/full-year_summary_2014.php)
+    * [Casino Complaints Archive](http://www.casinomeister.com/pitchabitch/)
+    * [2015 Complaint Summary](http://www.casinomeister.com/pitchabitch/2015/)
 
 | 
 
@@ -67,19 +65,21 @@
 
 | 
 
-  * [Meister Awards](http://www.casinomeister.com/meister_awards/bestworst2013.php)
-    * [2013](http://www.casinomeister.com/meister_awards/bestworst2013.php)
-    * [2012](http://www.casinomeister.com/meister_awards/bestworst2012.php)
-    * [2011](http://www.casinomeister.com/meister_awards/bestworst2011.php)
-    * [2010](http://www.casinomeister.com/meister_awards/bestworst2010.php)
-    * [2009](http://www.casinomeister.com/meister_awards/bestworst2009.php)
-    * [2001 - 2008](http://www.casinomeister.com/meister_awards/bestworst2010.php#evilp)
+  * [Meister Awards](http://www.casinomeister.com/meister_awards/index.php)
+    * [Best Casino 2015](http://www.casinomeister.com/meister_awards/2015/best/bestcasino2015.php)
+    * [Worst Casino 2015](http://www.casinomeister.com/meister_awards/2015/worst/worstcasino2015.php)
+    * [Best Casino Group '15](http://www.casinomeister.com/meister_awards/2015/best/bestcasinogroup2015.php)
+    * [Worst Group 2015](http://www.casinomeister.com/meister_awards/2015/worst/worstcasinogroup2015.php)
+    * [Best Manager 2015](http://www.casinomeister.com/meister_awards/2015/best/bestcasinomanager2015.php)
+    * [Faceplant of the Year](http://www.casinomeister.com/meister_awards/2015/worst/faceplant2015.php)
+    * [Evil Player Award](http://www.casinomeister.com/meister_awards/2015/worst/evilplayer2015.php)
+    * [Years 2001 - 15](http://www.casinomeister.com/meister_awards/index.php)
 
 | 
 
   * [Information](http://www.casinomeister.com/online_gambling_resources.php)
-    * [About Casinomeister](http://www.casinomeister.com/philosophy.php)
-    * [Philosophy](http://www.casinomeister.com/philosophy.php#players)
+    * [About Casinomeister](http://www.casinomeister.com/about_us.php)
+    * [Philosophy](http://www.casinomeister.com/philosophy.php)
     * [Contact Us](http://www.casinomeister.com/contact.php)
     * [Join Us](http://www.casinomeister.com/join.php)
     * [Becoming Accredited](http://www.casinomeister.com/advertising.php)
@@ -104,7 +104,7 @@
 ---|---|---|---|---|---|---|---|---  
 |  | 
 
-[home](https://web.archive.org/web/20150726214637id_/http%3A//www.casinomeister.com/index.php) >> This page  
+[home](https://web.archive.org/web/20160531223330id_/http%3A//www.casinomeister.com/index.php) >> This page  
 
 
 | Statement  
@@ -164,34 +164,37 @@ Top of page | [Home](http://www.casinomeister.com/) | [News](http://www.casinome
 ---  
 [Rogue Announcement](http://www.casinomeister.com/rogue/)  
   
-Treacherous Rogues!   
+Euromoon Casino!   
 
 
-Fake KGC certificate.  
-[Cyber-Bets.com](http://www.casinomeister.com/rogue/cyber-bets.php).
-
-Fake Curaçao license  
-[Tobwin](http://www.casinomeister.com/rogue/tobwin.php)  
-  
+And the whole lot of AffPower casinos - caught with their pants down: [Fake NetEnt Games](http://www.casinomeister.com/rogue/affpower-casinos.php).  
 [Rogue section here...](http://www.casinomeister.com/rogue/)  
 ---  
-[Meister Mail](http://www.casinomeister.com/newsletter/2015/july2015/22july2015.php)  
-**AMSTERDAM DECADENCE REPORT - 2015!** Read about pub crawls, hanging out with the meister crew, Amsterdam Affiliate Conference, all this and more! Check it out [here](http://www.casinomeister.com/newsletter/2015/july2015/22july2015.php).   
-  
-Casinomeister's Webcast!
+[Did you know?](http://www.casinomeister.com/10-myths-of-online-gambling.php)  
+**[Ten Myths of Online Gambling](http://www.casinomeister.com/10-myths-of-online-gambling.php)**   
 
-**17 YEARS OF CASINOMEISTER!!! Bierfest and Meister Minions!!**  
+
+  * Myth: Online Gambling is illegal...
+  * Myth: Online gambling encourages underage gambling...
+  * Myth: The House always wins...
+
+Cut through the bullshit and find out what the Casinomeister says!   
+  
+Casinomeister Accredited Casino: **[Rizk Casino Review](http://www.casinomeister.com/accredited-casinos-reviews/rizk-casino.php)**   
+An amazing new casino - it's destined to be one of the best by far. 
+
   
   
-[AFFILIATES ADVISED TO CEASE PROMOTING UNREGULATED WEBSITES IN NEW JERSEY](http://www.casinomeister.com/news/june2015/online_casino_news2/AFFILIATES-ADVISED-TO-CEASE-PROMOTING-UNREGULATED-WEBSITES-IN-NEW-JERSEY.php)
+  
+[The System is broken...](http://www.casinomeister.com/newsletter/2016/may2016/13may2016.php)
 
-Have 150 days to comply 
+Yep it is. How do you know if the games are rigged? Sometimes you don't know. Thanks to Curaçao Egaming - you are screwed. 
 
-Check it out [**here**](http://www.casinomeister.com/news/june2015/online_casino_news2/AFFILIATES-ADVISED-TO-CEASE-PROMOTING-UNREGULATED-WEBSITES-IN-NEW-JERSEY.php)  
+Check it out [**here**](http://www.casinomeister.com/newsletter/2016/may2016/13may2016.php)  
   
 [More news here...](http://www.casinomeister.com/news/)  
     
 [Legal Statements and Privacy Policy](http://www.casinomeister.com/legal.php)   
 Casinomeister.com does not intend for any of the information contained on this website to be used for illegal purposes. You must ensure you meet all age and other regulatory requirements before entering a casino or placing a wager. Online gambling is illegal in many jurisdictions and users should consult legal counsel regarding the legal status of online gambling and gaming in their jurisdictions. The information in this site is for news and entertainment purposes only. Casinomeister.com is an independent directory and information service free of any gaming operator's control. Links to third party websites on Casinomeister.com are provided solely for informative/educational purposes. If you use these links, you leave this Website. 
 
-Copyright 1998-2015. All rights reserved. Casinomeister is a registered trademark ®. 
+Copyright 1998-2016. All rights reserved. Casinomeister is a registered trademark ®. 
