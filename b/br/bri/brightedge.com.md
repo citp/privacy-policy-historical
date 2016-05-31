@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightedge.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209043521id_/http%3A//www.brightedge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightedge.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531061958id_/http%3A//www.brightedge.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BrightEdge
 
