@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tn.gov.in privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218220645id_/http%3A//www.tn.gov.in/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tn.gov.in privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531035028id_/http%3A//www.tn.gov.in/privacypolicy) for the most accurate reproduction.*
 
 # Tamil Nadu Government Portal
 
