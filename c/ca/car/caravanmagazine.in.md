@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the caravanmagazine.in privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210192306id_/http%3A//www.caravanmagazine.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caravanmagazine.in privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601072700id_/http%3A//www.caravanmagazine.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Caravan – A Journal of Politics and Culture
+# Privacy Policy - The Caravan
 
 _**The Caravan**_ considers privacy of the information collected from the users of this website ([www.caravanmagazine.in](http://www.caravanmagazine.in/)) to be of utmost importance and follows a strict policy to protect the information.  This policy lays down the practices and procedures that we follow in collecting, storing and handling the information provided by users of this website.
 
