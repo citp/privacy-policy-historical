@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalfree.nhs.uk privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907142707id_/https%3A//www.royalfree.nhs.uk/patients-visitors/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalfree.nhs.uk privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601101832id_/https%3A//www.royalfree.nhs.uk/patients-visitors/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement | For patients, carers and visitors | The Royal Free
 
@@ -70,6 +70,16 @@ London, NW3 2QG
 
 Email: [smondal@nhs.net](mailto:smondal@nhs.net)  
 Tel: 020 3758 2000
+
+**Caldicott Guardian**  
+Dr Kilian Hynes  
+Royal Free London NHS Foundation Trust  
+Barnet Hospital  
+Wellhouse Lane   
+Barnet, Hertfordshire  
+EN5 3DJ
+
+Email: [kilian.hynes@nhs.net](mailto:kilian.hynes@nhs.net)
 
 **To raise a concern please contact:**
 
