@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the culvers.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530072721id_/http%3A//www.culvers.com/privacy-and-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the culvers.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601084743id_/http%3A//www.culvers.com/privacy-and-terms-of-use) for the most accurate reproduction.*
 
 # Privacy and Terms | Culver's
 
@@ -6,19 +6,19 @@
 
 Culver Franchising System, Inc. respects your privacy. We have provided this Privacy Policy to inform you of what information we collect and how we may use it.
 
-Our goal is to make the site fun and interactive for both kids and parents. TeamScoopie.com allows us to provide kids with interactive games, menus, and coloring sheets, as well as games and activities for kids to enjoy offline. These games and activities may be updated from time to time. Because the visitors to TeamScoopie.com are primarily under 13, we ensure that the content is appropriate for this audience.
-
 We encourage parents to monitor their children’s online activities. Please instruct your children never to give out their names, addresses, phone numbers or e-mail addresses to anyone on the web without your permission. This site complies with the Children’s Online Privacy Protection Act (COPPA), which governs information collected from children under 13. For more information about COPPA or children’s privacy, please visit http://www.onguardonline.gov/topics/kids-privacy.aspx.
 
 ### Collecting Information
 
-We do not collect any personal information from kids visiting this site, and a child’s participation in any of our online activities does not require that the child volunteer any personal information. 
+We do not collect any personal information from kids visiting this site, and a child’s participation in any of our online activities does not require that the child volunteer any personal information.
 
-While no personal information is collected from visitors to the site, certain non-personal information is recorded by the standard operation of Culver’s Internet servers. This information is primarily used to provide an enhanced online experience for the visitor. Information tracked includes the type of operating system in use (e.g., Macintosh, Windows) and the type of browser being used by the visitor (e.g., Netscape, Internet Explorer). In addition, we may use the following technology:
+While no personal information is collected from visitors to the site, certain non-personal information is recorded by the standard operation of Culver’s Internet servers. This information is primarily used to provide an enhanced online experience for the visitor. Information tracked includes the type of operating system in use (e.g., Macintosh, Windows) and the type of browser being used by the visitor (e.g., Firefox, Internet Explorer, Google Chrome, Safari). In addition, we may use the following technology:
 
 ### Cookies
 
-We do use limited “cookie” technology. Cookies are used to store bits of information on your hard drive to remember pages you have visited in the past. We do not use cookies to collect or store personal information.
+We do use limited “cookie” technology. Cookies are used to store bits of information on your computer to remember pages you have visited in the past. Culver Franchising System Inc. and its third-party web applications do not use cookies to collect or store personally identifiable information. Third-party applications we use on our site may attach cookies that fall outside Culver's privacy policy, such as the sharing platform AddThis. AddThis allows visitors to quickly and easily share our content on social networking services. The service collects certain anonymous information and may use it during visits to this website in order to provide visitors advertisements about goods and services. AddThis typically uses a cookie or a third-party web beacon to collect information. Visitors may [opt out](http://www.addthis.com/privacy/opt-out) of data collection from AddThis at any time.
+
+We also use Google Analytics which uses cookies to show how visitors have explored and engaged with our site. This helps us improve our website so visitors can find what they're looking for more quickly and easily. Visitors may [opt out](https://tools.google.com/dlpage/gaoptout/) of Google Analytics whenever they choose.
 
 ### Log Files
 
@@ -41,7 +41,7 @@ Prairie du Sac, Wisconsin 53578
 Phone: 608-643-7980  
 Fax: 608-643-7982
 
-Copyright © 2008 Culver Franchising System, Inc. All Rights Reserved.
+Copyright © 2013 Culver Franchising System, Inc. All Rights Reserved.
 
 ## Terms of Use
 
