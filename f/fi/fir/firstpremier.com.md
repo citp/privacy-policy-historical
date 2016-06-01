@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the firstpremier.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226090848id_/https%3A//www.firstpremier.com/fp/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstpremier.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601030427id_/https%3A//www.firstpremier.com/fp/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | South Dakota Banking & Investments
+# Privacy Notice and Statement | South Dakota Banking & Investments
+
+### First PREMIER Bank's [Privacy Notice](https://web.archive.org/globalassets/marketing-documents/privacy-notice.pdf)
+
+### Privacy Statement
 
 When you provide us with information, you can be sure that we will hold that information in strict confidence. We recognize and respect your expectation that privacy be protected.
 
