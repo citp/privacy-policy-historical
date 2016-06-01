@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the richersounds.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220095847id_/http%3A//www.richersounds.com/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richersounds.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601093912id_/http%3A//www.richersounds.com/information/privacy) for the most accurate reproduction.*
 
 # Richer Sounds - The UK's Hi-Fi, Home Cinema & TV Specialists!
 
@@ -63,9 +63,9 @@ Most web browsers will accept cookies, but if you would rather that we did not c
 2\. Scroll down until you see 'Cookies' under Receiving Files  
 3\. Select the 'Never Ask' option
 
-If your browser isn’t shown above, [click here](http://www.aboutcookies.org/Default.aspx?page=1).
+If your browser isn’t shown above, [click here](http://www.aboutcookies.org/how-to-control-cookies/).
 
-If you want to delete any cookies that are already on your computer, please refer to the instructions for your file management software to locate the file or directory that stores cookies or [click here](http://www.aboutcookies.org/Default.aspx?page=2).
+If you want to delete any cookies that are already on your computer, please refer to the instructions for your file management software to locate the file or directory that stores cookies or [click here](http://www.aboutcookies.org/how-to-delete-cookies/).
 
 **(c) How does Richer Sounds use cookies?**  
 On richersounds.com, cookies record information about your online preferences, remember information about you when you visit our site and compile statistical reports on website activity. Some cookies are used that are essential in order to provide our services to you.
