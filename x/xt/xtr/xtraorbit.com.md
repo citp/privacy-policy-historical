@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtraorbit.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025113846id_/http%3A//www.xtraorbit.com/core/docs/main_user_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtraorbit.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601115944id_/http%3A//www.xtraorbit.com/core/docs/main_user_policy.php) for the most accurate reproduction.*
 
 # XtraOrbit.Com :: Company Profile :: Privacy Policy :: Skrill, MoneyBookers, Perfect Money, PayPal, Payza, Egopay and Credit Cards Payments Accepted.
 
@@ -65,6 +65,17 @@ XtraOrbit reserves the right to add, delete, or modify any provision of its Priv
 ---  
 |   
 ---|---  
+  
+[ ](http://www.xtraorbit.com/core/about/quotes.php)  
+---  
+|   
+You have a great way in dealing with problems, you are fair and your service is very fast.I'm enjoying it, and I hope we'll have a long business relationship.
+
+Your service is just enthusiastic !!  
+  
+|    
+**Fahad Jalali**  
+Pakistan  
   
   
   
