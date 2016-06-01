@@ -1,100 +1,61 @@
-> *The following text is extracted and transformed from the sydex.net privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sydex.net privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601160708id_/http%3A//sydex.net/privacy.php) for the most accurate reproduction.*
 
-# Legal Agreement
+# Sydex.net: Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+## Privacy Policy
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+## A. INFORMATION WE COLLECT FROM YOU
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+### 1\. Why do we collect information?
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+We collect information in order to provide useful products and services to you and others. We also use this data to improve the quality of those products and services.
 
-**Information Collection and Use**
+### 2\. What kinds of information do you collect?
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+We collect information that (i) you provide to us or authorize us to collect as a result of using our products ( _e.g._ social media accounts, call and text logs, etc.) and (ii) information about your use of our products and services (e.g., browser type, search categories, location).
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+### 3\. How do you use the information you collect?
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+We use information to (i) provide useful products and services, such as Sydex, caller ID applications, and customer support, to our users; (ii) verify public information and information obtained from other sources; and (iii) help us analyze usage and effectiveness of our products and services.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+### 4\. With whom do you share the information you collect and why?
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Besides the consumer users of our products and services, we provide access to information to our business users ( _e.g._ , customer support centers, corporate fraud departments) so that they may identify and verify their customers. We provide access to information to third party partners of ours in order to provide our products and services to you. Further, we also provide access to non-personally-identifiable information to our third party advertisers so that they can deliver relevant online and mobile advertising to you (more information about third party advertising is provided below).
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+### 5\. How do I stop the collection of my information?
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+In order to stop further collection of information by us, you will need to stop using our products and services.
 
-**Security**
+### 6\. Where do you get your information from?
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+Publicly Available Information Sources: This is information that's available to the public. It includes addresses, street names, cities, states and ZIP codes. Other examples of publicly available information include published phone directories and information published on the Internet, such as publicly available social network profiles.
 
-**Updating Your Information**
+Third-Party Data Suppliers: Information from third-party data suppliers originates from a variety of sources. It may include publicly available information, such as phone directories, as well as information from other sources. For example, people often provide name, address, phone number, email address and other personal information when filling out forms for contests, sweepstakes, subscriptions or other similar offers. Often, this information can be shared with third parties. Whenever you provide personal information - either online or offline - you should understand how the information will be used and whether it can be shared with third parties.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+## B. INFORMATION COLLECTED BY THIRD PARTIES
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+### 1\. What information is collected by third parties?
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+Third parties may collect information during your visits to our websites and use of our mobile products and services. Such information includes searches you perform ( _e.g._ , category of business, location) and general information about you ( _e.g._ , browser type, mobile device type, unique user ID, mobile carrier, IP address, date and time of your visits, locality, pages viewed). Certain products and services may collect specific information such as your name, phone number, IP address, etc., but unless you provide specific details about yourself, information collected by such third parties will generally be limited to non-personally-identifiable information.
 
-      iii.      You may call us at: (480) 505-8800
+### 2\. How is information collected by third parties?
 
-       iv.      You may fax us at: (480) 505-8844
+Third parties may collect information by using cookies, web beacons, performance-measuring phone numbers, or GPS information. A cookie is a small file that contains a unique ID tag and stores information ( _e.g._ , pages visited, information voluntarily provided). A web beacon is a small graphic file used to identify if a page has been viewed. A performance measuring phone number involves collection of call-related information such as originating phone number and call duration. GPS informationmay include city, state and other information when you use our products or services on a GPS-enabled mobile device.
 
-**Sending Emails**
+### 3\. Why do these third parties collect information?
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Third parties may collect information in order to (i) deliver relevant online and mobile advertising to you both on and off our sites; (ii) help us provide or analyze usage and effectiveness of our products and services; and (iii) for their own business purposes ( _e.g._ , such as to report aggregate, non-personally identifiable information about the use of their services and technologies).
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+### 4\. How will they use the information they collect? Will they share it?
 
-**Compliance with Laws and Law Enforcement**
+Collection and use of data is subject to the privacy policies of those third party companies, such as the privacy policy of [AdMarvel](http://www.admarvel.com/AdMarvel_Privacy_Policy_2012.pdf) or [Google](http://www.google.com/intl/en/policies/privacy/). Accordingly, please review those policies for specific information.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+### 5\. How do I stop the collection and use of my information by third parties?
 
-**Third Party Service Providers**
+To stop collection of information in connection with the use of our products and services, you will need to stop using them. To opt-out of Sydex mobile app marketing program tracking, [click here](https://www.optoutmobile.com/optOut). To stop collection of browsing information via supporting web browsers, [click here](http://donottrack.us/). To stop information collection for purposes of relevant online advertising, [click here](http://www.networkadvertising.org/managing/opt_out.asp). At this time, there is no industry solution to opt-out of receiving relevant mobile advertising.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+To opt out of tracking on Sydex mobile app marketing programs, go to our third party provideris website by [clicking here](https://www.optoutmobile.com/optOut).
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+### 6\. What about interest-based advertising?
 
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+We follow the Self-Regulatory Principles for Online Behavioral Advertising (about the collection and use of data for interest-based advertising) and expect third parties to comply with the disclosure and notification program specified by principles. This means that third parties collecting and using this data are asked to provide a standard icon/link in or near their advertisements that will provide you with additional data about their privacy and advertising practices, as well as with the opportunity to directly opt-out of having your information collected. To stop receiving interest-based advertising, [click here](http://www.aboutads.info/choices/).
