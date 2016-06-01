@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kammok.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208002250id_/http%3A//kammok.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kammok.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601164138id_/http%3A//kammok.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Kammok | Privacy Policy
 
@@ -50,11 +50,7 @@ When you click on links on our store, they may direct you away from our site. We
 
 ### Google analytics:
 
-Our store uses Google Analytics to help us learn about who visits our site and what pages are being looked at
-
-### AdRoll:
-
-As you browse [company website], advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, [AdRoll](https://app.adroll.com/), then enables us to present you with retargeting advertising on other sites based on your previous interaction with [company website]. The techniques our partners employ do not collect personal information such as your name, email address, postal address, or telephone number.  You can visit this [page](http://www.networkadvertising.org/choices/) to opt out of AdRoll’s and their partners’ targeted advertising.
+Our store uses Google Analytics to help us learn about who visits our site and what pages are being looked at.
 
 ## SECTION 6 - SECURITY
 
@@ -88,7 +84,7 @@ We reserve the right to modify this privacy policy at any time, so please review
 
 ## QUESTIONS AND CONTACT INFORMATION
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at kammokteam@kammok.com or by mail at:
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at [hello@kammok.com](mailto:hello@kammok.com) or by mail at:
 
 > Kammok HQ
 > 
