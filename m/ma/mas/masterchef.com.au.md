@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masterchef.com.au privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213161130id_/http%3A//tenplay.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterchef.com.au privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601233304id_/http%3A//tenplay.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - tenplay - Network Ten
 
