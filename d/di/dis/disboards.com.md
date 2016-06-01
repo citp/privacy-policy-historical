@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disboards.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003023341id_/http%3A//www.wdwinfo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disboards.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601181803id_/http%3A//www.wdwinfo.com/privacy.htm) for the most accurate reproduction.*
 
 # DIS - Privacy Policy
 
@@ -59,9 +59,8 @@ In compliance with the **Children's Online Privacy Act** , we affirm the followi
 
 Peter Werner, Owner  
 Werner Technologies, LLC.  
-424 E. Central Blvd 324  
-Orlando, Fl 32801  
-[webmaster@wdwinfo.com](mailto:webmaster@wdwinfo.com)
+4417 13th Street # 475   
+St Cloud, FL 34769
 
 **_Personal Information Collected:_** The only time personal information on the site may be collected by a person under the age of 13 years old, is if said child registers for use of our discussion board.  The discussion board does not ask for the users name, rather it requires the creation of a 'screen name' that the user determines.  It does provide for the entry of the users City and State, but these are not mandatory fields.  The information collected during the registration process is only to contact the user in the event that there is a problem with their use of the discussion forums, or if there are changes made to the forums that require notification.  Each user has the option to select NOT to be notified in such instances.  Under no circumstances is any information collected EVER provided to third parties.  Parents have the option to agree to the collection and use of the child's information without consenting to the disclosure of the information to third parties.
 
@@ -69,4 +68,4 @@ We do not require any participant, regardless of age, to provide more informatio
 
 Parents have the right, under law, to request to view all personal information collected on their children and to request that it be deleted  from our records.  Parents also retain the right to refuse to allow further collection or use of the child's information. 
 
-Any parent wishing to review this information, or requesting a deletion of that information should contact the webmaster of this site via email at [webmaster@wdwinfo.com](mailto:webmaster@wdwinfo.com)
+Any parent wishing to review this information, or requesting a deletion of that information should contact the webmaster of this site via email at webmaster@wdwinfo.com 
