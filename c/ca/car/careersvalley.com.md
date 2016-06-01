@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careersvalley.com privacy policy that was archived on 2015-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150122005339id_/http%3A//www.careersvalley.com/privacy-policy-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careersvalley.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601045134id_/http%3A//www.careersvalley.com/privacy-policy-0) for the most accurate reproduction.*
 
 # Privacy Policy
 
