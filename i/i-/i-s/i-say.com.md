@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-say.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627173357id_/http%3A//i-say.com/Footerlinks/PrivacyPolicy/tabid/282/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-say.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601230122id_/http%3A//www.i-say.com/Footerlinks/PrivacyPolicy/tabid/282/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -251,7 +251,7 @@ This Privacy Policy will always be available on our website at www.i-say.com/Pri
 #### 20\. How do we use and incorporate log files, cookies, digital fingerprinting and other related third party information and applications?
 
 **Log Files**  
-As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to Personal Information, including your email address.
+As is true of most Web sites and online surveys, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, clickstream data and whether your computer has a webcam. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. It is also used to ensure that the website or survey is delivered in a form best suited to the computer or device you are using. And to help ensure you are only presented with survey content that could be completed on the computer or device you are using.
 
 **Cookies**  
 A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any Personal Information, including email address, you submit while on our site. We sometimes use other technologies to store similar information.
