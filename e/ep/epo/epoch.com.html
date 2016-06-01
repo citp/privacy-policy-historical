@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the epoch.com privacy policy that was archived on 2015-09-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150919131455id_/https%3A//www.epoch.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the epoch.com privacy policy that was archived on 2016-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160602005040id_/https%3A//epoch.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
   <title>Epoch.com - Credit Card Processing and Customer Billing Support</title>
@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta content="<span class=&quot;translation_missing&quot; title=&quot;translation missing: en.layouts.billingsupport.meta_keywords_content&quot;>Meta Keywords Content</span>" name="keywords">
   <meta content="authenticity_token" name="csrf-param">
-<meta content="+YXCmdJNUS9r0wfHZ9mOf/tExcHvJjhgSAHntdw1TB4=" name="csrf-token">
+<meta content="zBPGQcQjdWa4zywRJV0ugL0c120lZ97B69cbkPQi720=" name="csrf-token">
 
   <link href="/favicon.ico" rel="shortcut icon">
 
@@ -77,7 +77,7 @@
   <div class="navbar navbar-default navbar-fixed-top">
   <div class="container">
     <div class="navbar-header">
-      <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse" type="button" role="tab" aria-selected="false" aria-expanded="false" id="ui-collapse87">
+      <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse" type="button" role="tab" aria-selected="false" aria-expanded="false" id="ui-collapse22">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -289,10 +289,9 @@
   <p>
     We have implemented security policies, rules and technical measures to protect the Personal
     Information that we have under our control from unauthorized access, improper use or disclosure,
-    unauthorized modification, unlawful destruction or accidental loss. Epoch utilizes Secure Socket
-    Layer (SSL) software when receiving and transmitting information electronically.
+    unauthorized modification, unlawful destruction or accidental loss. Epoch utilizes HTTP Secure (HTTPS) 
+    and/or Transport Layer Security (TLS) when receiving and transmitting information electronically.
   </p>
-
   <p>
     We protect Personal Information by maintaining physical, electronic and procedural safeguards in compliance with applicable US federal and state regulations. We use computer safeguards such as firewalls and data encryption, we enforce physical access controls to our buildings and files, and we authorize access to personal information only for those employees who require it to fulfill their job responsibilities.
   </p>
@@ -432,14 +431,14 @@
     </div>
 
   <div class="copyrighthome text-center">
-    © Copyright 2015 Epoch |
+    © Copyright 2016 Epoch |
     <a href="/privacy.html">Privacy Policy</a> |
     <a href="/copyright.html">Copyright Infringement Policy</a>
   </div>
 </div>
 
 
-  <script src="/assets/application-35c45aedd141f49a99898305343c1977e859bbf0682287455aa24574a6521e6a.js"></script>
+  <script src="/assets/application-f2f6ec46a6d7f18930c8de9a3bbf09f567fd57a2a877f1f3070032df186e190c.js"></script>
 
   <script type="text/javascript">
     window.ParsleyValidator.setLocale("en");
@@ -453,57 +452,42 @@
         setInterval(pollBackend, 120000);
       });
     </script>
-  
+
   <!--Click to Call Modal-->
 <div aria-hidden="true" aria-labelledby="ctcModalLabel" class="modal fade" id="ctc_modal" role="dialog" tabindex="-1">
   <div class="modal-dialog" style="width: 400px">
-    <form accept-charset="UTF-8" action="/call_ctc" class="form" data-remote="true" data-validate="parsley" method="post"><div style="display:none"><input name="utf8" type="hidden" value="✓"></div>
+
     <div class="modal-content">
       <div class="modal-header">
         <button aria-hidden="true" class="close" data-dismiss="modal" type="button">
           ×
-        </button><h4 class="modal-title">Call Us</h4>
+      </button><h4 class="modal-title"><span id="contact_type"></span> Us</h4>
       </div>
       <div class="modal-body">
-        <div class="row">
-          <div class="col-lg-12">
-            <div class="form-group">
-              <label for="fullname"><span class="translation_missing" title="translation missing: en.name">Name</span></label>
-              <input class="form-control" name="name" type="text" pattern="^[a-zA-Z\s]*$" ,="" autocomplete="off" data-parsley-pattern="^[a-zA-Z\s]*$" data-parsley-required="true" data-parsley-trim-value="true" title="Must be letters only">
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-lg-12">
-            <div class="form-group">
-              <label for="phone_number">Your Phone Number</label>
-              <input class="form-control" name="phone_number" type="text" pattern="^[0-9]*$" ,="" autocomplete="off" data-parsley-pattern="^[0-9]*$" data-parsley-required="true" data-parsley-trim-value="true" title="Must be numbers only">
-            </div>
-          </div>
-        </div>
-        <div class="modal-body">
-          <div class="row">
-            <div class="col-lg-8">
-              <div class="form-group">
-                <div id="errors_div" style="color: red;"></div>
-              </div>
-            </div>
-          </div>
-        </div>
         <div id="notice_ctc"></div>
-        <div class="modal-footer">
-          <button class="btn btn-default" data-dismiss="modal" type="button">
-            CLOSE
-          </button>
-          <input id="update_card_member_id" name="member_id" type="hidden">
-          <input class="btn btn-primary" id="updatecard_btn" name="commit" type="submit" value="CONNECT">
-        </div>
+        <span id="initiation_section"></span>
+        <form accept-charset="UTF-8" action="/verify_captcha" class="form" data-remote="true" data-validate="parsley" id="captcha_form" method="post"><div style="display:none"><input name="utf8" type="hidden" value="✓"></div>
+          <script type="text/javascript" src="//www.google.com/recaptcha/api/challenge?k=6LdEVe0SAAAAAFAxJZJCPALGI3YxZg-Lld27Gk5C&amp;lang="></script>
+<noscript>
+  <iframe src="//www.google.com/recaptcha/api/noscript?k=6LdEVe0SAAAAAFAxJZJCPALGI3YxZg-Lld27Gk5C" height="300" width="500" style="border:none;"></iframe><br/>
+  <textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
+  <input type="hidden" name="recaptcha_response_field" value="manual_challenge"/></noscript>
+
+          <div id="recaptcha_fields">
+            <input id="update_card_member_id" name="member_id" type="hidden">
+            <input id="type" name="type" type="hidden">
+            <input class="btn btn-primary" name="commit" type="submit" value="VERIFY CAPTCHA">
+          </div>
+</form>        <hr>
+        <div id="pre-recaptcha_message">Please verify captcha above before continuing...</div>
       </div>
     </div>
-</form>  </div>
+  </div>
 </div>
 
+
   <!-- billingsupport DO NOT REMOVE THIS -->
+
 
 
 <div id="flashcontent" style="display: none; visibility: visible;"></div><div id="flashcontent2" style="display:none;"></div><input type="hidden" id="fonts" value=""></body></html>
