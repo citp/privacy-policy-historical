@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epoch.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919131455id_/https%3A//www.epoch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epoch.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602005040id_/https%3A//epoch.com/privacy.html) for the most accurate reproduction.*
 
 # Epoch.com - Credit Card Processing and Customer Billing Support
 
@@ -55,7 +55,7 @@ You may choose whether or not to provide Personal Information to Epoch. If you c
 
 ## Security
 
-We have implemented security policies, rules and technical measures to protect the Personal Information that we have under our control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss. Epoch utilizes Secure Socket Layer (SSL) software when receiving and transmitting information electronically. 
+We have implemented security policies, rules and technical measures to protect the Personal Information that we have under our control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss. Epoch utilizes HTTP Secure (HTTPS) and/or Transport Layer Security (TLS) when receiving and transmitting information electronically. 
 
 We protect Personal Information by maintaining physical, electronic and procedural safeguards in compliance with applicable US federal and state regulations. We use computer safeguards such as firewalls and data encryption, we enforce physical access controls to our buildings and files, and we authorize access to personal information only for those employees who require it to fulfill their job responsibilities. 
 
