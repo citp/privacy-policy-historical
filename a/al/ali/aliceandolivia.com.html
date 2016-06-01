@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the aliceandolivia.com privacy policy that was archived on 2015-10-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151022170707id_/https%3A//www.aliceandolivia.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aliceandolivia.com privacy policy that was archived on 2016-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160601033658id_/https%3A//www.aliceandolivia.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 		<meta charset="UTF-8">
@@ -17,18 +17,7 @@
 			<meta name="description" content="Privacy Policy">
 		
 		
-		
-
-
-
-
-
-	
-	
-	
 		<link rel="canonical" href="https://www.aliceandolivia.com/privacy-policy">
-	
-
 		
 		<link rel="shortcut icon" type="image/x-icon" href="/css/images/favicon.ico">
 		
@@ -42,11 +31,19 @@
 		
 		
 		<link rel="stylesheet" href="/css/style.css">
+		<link rel="stylesheet" href="/css/bfx-style.css">
+		<link rel="stylesheet" href="/css/style-popup.css">
 		
+		
+			
+				<link rel="stylesheet" href="/css/style-birthday.css" type="text/css" media="all">
+			
 		
 		<link rel="stylesheet" href="/css/acdc-style.css">
-				
-		<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/jquery-1.11.0.min.js"></script>
+		<link rel="stylesheet" href="/css/style-new.css">
+		<link rel="stylesheet" href="/css/popup-gated-sale_styles.css">
+		
+		<script async="" src="https://bfx-objects.borderfree.com/v1/dist/bfx.js"></script><script src="https://secure.quantserve.com/aquant.js?a=p-MTZH1dmuRCCy-" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/jquery-1.11.0.min.js"></script>
 		<script src="/js/jquery.bxslider.min.js"></script>
 		<script src="/js/jquery.magnific-popup.min.js"></script>
 		<script src="/js/jquery.loupe.js"></script>
@@ -99,6 +96,10 @@
 		<script type="text/javascript" src="/js/acdc-wishlist.js"></script>
 		
 		
+			
+				<script src="/js/libs/jquery.c2selectbox.js" type="text/javascript"></script>
+			
+		
 		
 		
 		
@@ -124,21 +125,311 @@
 
 
 
+
+
+
+
 <!--Begin Google Analytics Tracking Code-->
+	<script>
+		
+		
+		
+		
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script', '//www.google-analytics.com/analytics.js','ga');
+		
+		  	ga('create', 'UA-11403666-1', '.aliceandolivia.com');
+		
+	</script>
+<!--End Google Analytics Tracking Code-->
 
-<script>
 
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-11403666-1', '.aliceandolivia.com');
+		
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+	
+
+
+
+
+
+<script type="text/javascript">
+	updateUniversalVariable();
+
+	function updateUniversalVariable() {
+		window.universal_variable = getUniversalVariable();
+		console.log(window.universal_variable);
+	}
+
+	function getUniversalVariable() {
+		var uv = {
+			"page": getUVPage(),
+			"user": getUVUser(),
+			"product": getUVProduct(),
+			"basket": getUVBasket(),
+			"transaction": getUVTransaction(),
+			"listing": getUVListing(),
+			"version": "1.2.1"
+		};
+
+		cleanObject(uv);
+		return uv;
+	}
+
+	function getUVPage() {
+		var breadcrumbs = [];
+
+		
+
+		
+			
+				breadcrumbs.push("SHOP");
+			
+		
+
+		var page = {
+			"type":
+				
+					
+					
+					
+					"content"
+					
+					
+					
+					
+					
+					
+				,
+			"breadcrumb": breadcrumbs,
+			"environment": "production"
+		};
+
+		return page;
+	}
+
+	function getUVUser() {
+		
+
+		var user = {
+			"name": " ",
+			"username": "",
+			"user_id": "",
+			"email": "",
+			"language": "en-us"
+			
+		};
+
+		return user;
+	}
+
+	function getUVProduct() {
+		
+	}
+
+	function getUVBasket() {
+		
+	}
+
+	function getUVTransaction() {
+		
+	}
+
+	function getUVListing() {
+		
+		
+		
+	}
+
+	/**
+	 * generate a UV Product object
+	 * @param {string} id
+	 * @param {string} url
+	 * @param {string} name
+	 * @param {string} description
+	 * @param {string} manufacturer
+	 * @param {string} category
+	 * @param {string} subcategory
+	 * @param {array of UV Product objects} linked_products
+	 * @param {string} currency
+	 * @param {number} unit_sale_price
+	 * @param {number} unit_price
+	 * @param {array of UV Review objects} reviews
+	 * @param {string} sku_code
+	 * @param {number} stock
+	 * @param {string} voucher
+	 * @param {string} color
+	 * @param {string} size
+	 */
+	function generateUVProduct(id, url, name, description, manufacturer, category, subcategory, linked_products, currency, unit_sale_price, unit_price, reviews, sku_code, stock, voucher, color, size) {
+		var product = {
+			"id": id,
+			"url": url,
+			"name": name,
+			"description": description,
+			"manufacturer": manufacturer,
+			"category": category,
+			"subcategory": subcategory,
+			"linked_products": linked_products,
+			"currency": currency,
+			"unit_sale_price": unit_sale_price,
+			"unit_price": unit_price,
+			"reviews": reviews,
+			"sku_code": sku_code,
+			"stock": stock,
+			"voucher": voucher,
+			"color": color,
+			"size": size
+		};
+
+		return product;
+	}
+
+	/**
+	 * generate a UV LineItem object
+	 * @param {UV Product object} product
+	 * @param {number} quantity
+	 * @param {number} subtotal
+	 * @param {number} total_discount
+	 */
+	function generateUVLineItem(product, quantity, subtotal, total_discount) {
+		var lineItem = {
+			"product": product,
+			"quantity": quantity,
+			"subtotal": subtotal,
+			"total_discount": total_discount
+		};
+
+		return lineItem;
+	}
+
+	/**
+	 * generate a UV Address object
+	 * @param {string} name
+	 * @param {string} address
+	 * @param {string} city
+	 * @param {string} state
+	 * @param {string} postcode
+	 * @param {string} country
+	 */
+	function generateUVAddress(name, address, city, state, postcode, country) {
+		var address = {
+			"name": name,
+			"address": address,
+			"city": city,
+			"state": state,
+			"postcode": postcode,
+			"country": country
+		};
+
+		return address;
+	}
+
+	/**
+	 * clean the given object by removing all keys with empty or null values
+	 * recurses to also clean nested objects and arrays
+	 * @param {object} obj - the object to clean
+	 */
+	function cleanObject(obj) {
+		$.each(obj, function(key, value) {
+			if ($.trim(value) === "" || value === null) {
+				delete obj[key];
+			} else if (Object.prototype.toString.call(value) === '[object Object]') {
+				cleanObject(value);
+			} else if (Array.isArray(value)) {
+				if (value.length) {
+					if (Object.prototype.toString.call(value[0]) === '[object Object]') {
+						value.forEach(function(el) { cleanObject(el); });
+					}
+				} else {
+					delete obj[key];// remove empty arrays
+				}
+			}
+		});
+	}
 </script>
 
-<!--End Google Analytics Tracking Code-->
-	<link href="https://content.shoprunner.com/AOLIVIA.css" type="text/css" rel="stylesheet"><script src="https://content.shoprunner.com/AOLIVIA.js" type="text/javascript"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+		
+
+
+
+<!-- Begin Qubit Code -->
+<script src="//d3c3cq33003psk.cloudfront.net/opentag-135785-2098302.js" async="" defer=""></script>
+<!-- End Qubit Code -->
+		
+
+
+
+
+<!--  Quantcast Tag -->
+<script>
+ var ezt = ezt ||[];
+
+ (function(){
+   var elem = document.createElement('script');
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-MTZH1dmuRCCy-";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem,scpt);
+ }());
+
+ ezt.push({qacct: "p-MTZH1dmuRCCy-"});
+</script>
+
+<noscript>
+  <img src="//pixel.quantserve.com/pixel/p-MTZH1dmuRCCy-.gif?labels=_fp.event.Default" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+
+<!-- End Quantcast Tag -->
+		
+		
+		
+		
+		<!-- Begin Borderfree Express Code -->
+<script>	
+	(function(e,n,t,a,o){function c(n){e[a]._apiKey=n.key;e[a]._env=n.env;e[a]._logLevel=n.logLevel
+	}e[a]=c;e[a].l=1*new Date;var i,l;i=n.createElement(t);l=n.getElementsByTagName(t)[0];
+	i.async=1;i.src=o;l.parentNode.insertBefore(i,l)})(window,document,"script","bfx",
+	"https://bfx-objects.borderfree.com/v1/dist/bfx.js");
+	bfx({key:'0599fbe0-dff4-11e5-9546-11a166bc26e3'});
+		
+		
+</script>
+
+<script type="text/javascript" src="https://checkout.borderfree.com/htmlcheckout/resources/js/merchant.js"></script>
+<!-- End Borderfree Express Code -->
+		
+		
+		
+		
+	<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 	<body>
 		
 			
@@ -151,22 +442,15 @@
 
 
 
+
+
 <header class="header">
 	<div class="shell">
 		<p class="message hidden-mobile">
-			
-				<span class="visible">
-					<a href="#" style="color:white;">
-						FREE DOMESTIC SHIPPING
-					</a>
-				</span>
-			
-				<span>
-					<a href="#" style="color:white;">
-						FREE DOMESTIC SHIPPING
-					</a>
-				</span>
-			
+			<span class="visible"><a href="/new-arrivals.html" style="color:white;">FREE DOMESTIC SHIPPING</a>
+			</span>
+			<span>FREE DOMESTIC SHIPPING
+			</span>
 		</p><!-- /.message -->
 
 		
@@ -186,13 +470,13 @@
 					<div class="search-inner">
 						<input type="submit" value="GO" class="search-btn">
 						
-						<input type="search" name="term" id="term" value="" placeholder="Search" class="search-field ui-autocomplete-input" autocomplete="off"><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
+						<input type="search" name="term" id="term" value="" placeholder="Search" class="search-field">
 					</div><!-- /.search-inner -->
 					
 					<label for="term">Search</label>
 					
 					<div class="search-autocomplete">
-					<ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-1" tabindex="0" style="z-index: 3; display: none;"></ul></div><!-- /.search-autocomplete -->
+					</div><!-- /.search-autocomplete -->
 				</form>
 			</div><!-- /.search -->
 
@@ -227,14 +511,15 @@
 		</div><!-- /.subscribe -->
 
 		<div class="desktop-header-inner mobile-hidden">
+		<div class="desktop-header-container">
 			<div class="search">
 				<form id="header-search" action="/_1432941785433.html" method="get">
-					<input type="search" name="term" id="term" value="" placeholder="Search" class="search-field ui-autocomplete-input" autocomplete="off"><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
+					<input type="search" name="term" id="term" value="" placeholder="Search" class="search-field">
 					
 					<input type="submit" value="GO" class="search-btn">
 					
 					<div class="search-autocomplete">
-					<ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-2" tabindex="0" style="z-index: 3; display: none;"></ul></div><!-- /.search-autocomplete -->
+					</div><!-- /.search-autocomplete -->
 				</form>
 			</div><!-- /.search -->
 
@@ -242,6 +527,10 @@
 				<ul>
 					<li>
 						<a href="/front/app/account/home">Sign In</a>
+					</li>
+					
+					<li id="desktop-bfx-cc-container">
+					
 					</li>
 					
 					<li>
@@ -260,12 +549,16 @@
 					</li><!-- /.cart -->
 				</ul>
 			</nav><!-- /.nav-utilities -->
+			</div>
+			
+				<a href="" target="_blank"><img src="" alt=""></a>
+			
 		</div><!-- /.desktop-header-inner -->
 
 		
 
 
-<nav class="nav">
+<nav class="nav hidden-mobile">
 	<ul>
 		
 			
@@ -278,18 +571,13 @@
 					
 					
 					
-				</li>
-			
-		
-			
-				<li>
-					
-						
-						
-							<a href="/must-haves.html">Must-Haves</a>
-						
-					
-					
+						<ul class="nav-dropdown">
+							
+								
+							
+								
+							
+						</ul><!-- /.nav-dropdown -->
 					
 				</li>
 			
@@ -422,7 +710,31 @@
 							
 								
 							
+								
+									<li>
+										
+											
+											
+												<a href="/SHOP/Clothing/Swim/">Swimwear</a>
+											
+										
+									</li>
+								
+							
 						</ul><!-- /.nav-dropdown -->
+					
+				</li>
+			
+		
+			
+				<li>
+					
+						
+						
+							<a href="/must-haves.html">Must-Haves</a>
+						
+					
+					
 					
 				</li>
 			
@@ -443,7 +755,7 @@
 									<li>
 										
 											
-												<a href="/womens-dresses/view-all">View All</a>
+												<a href="/womens-dresses/view-all">View All Dresses</a>
 											
 											
 										
@@ -454,7 +766,7 @@
 									<li>
 										
 											
-												<a href="/womens-dresses/daytime-dresses">Daytime</a>
+												<a href="/womens-dresses/daytime-dresses">Daytime Dresses</a>
 											
 											
 										
@@ -465,7 +777,7 @@
 									<li>
 										
 											
-												<a href="/womens-dresses/work-dresses">To Work</a>
+												<a href="/womens-dresses/work-dresses">To Work Dresses</a>
 											
 											
 										
@@ -476,7 +788,7 @@
 									<li>
 										
 											
-												<a href="/womens-dresses/cocktail-dresses">Cocktail</a>
+												<a href="/womens-dresses/cocktail-dresses">Cocktail Dresses</a>
 											
 											
 										
@@ -514,13 +826,24 @@
 				<li>
 					
 						
-							<a href="/handbags.html">Accessories</a>
+							<a href="/accessories/view-all.html">Accessories</a>
 						
 						
 					
 					
 					
 						<ul class="nav-dropdown">
+							
+								
+									<li>
+										
+											
+											
+												<a href="/accessories/view-all.html">View All</a>
+											
+										
+									</li>
+								
 							
 								
 									<li>
@@ -555,15 +878,23 @@
 									</li>
 								
 							
-								
-									<li>
-										
-											
-											
-												<a href="/tights.html">Tights</a>
-											
-										
-									</li>
+						</ul><!-- /.nav-dropdown -->
+					
+				</li>
+			
+		
+			
+				<li>
+					
+						
+						
+							<a href="/designer-clothing-sale.html"><span style="color:red;">Sale</span></a>
+						
+					
+					
+					
+						<ul class="nav-dropdown">
+							
 								
 							
 						</ul><!-- /.nav-dropdown -->
@@ -572,25 +903,59 @@
 			
 		
 			
-		
-			
-		
-			
-		
-			
-		
-			
 				<li>
 					
 						
+							<a href="shoppable-lookbook.html">Lookbook</a>
 						
-							<a href="/designer-clothing-sale.html">Sale</a>
 						
 					
 					
 					
 						<ul class="nav-dropdown">
 							
+								
+									<li>
+										
+											
+											
+												<a href="/SHOP/Lookbook/Summer-2016/">Summer 2016</a>
+											
+										
+									</li>
+								
+							
+								
+									<li>
+										
+											
+											
+												<a href="/shoppable-lookbook.html">Spring 2016</a>
+											
+										
+									</li>
+								
+							
+								
+									<li>
+										
+											
+											
+												<a href="/SHOP/Lookbook/Pre-Spring-2016/">Pre-Spring 2016 </a>
+											
+										
+									</li>
+								
+							
+								
+									<li>
+										
+											
+											
+												<a href="/SHOP/Lookbook/Resort-2015/">Resort 2015</a>
+											
+										
+									</li>
 								
 							
 						</ul><!-- /.nav-dropdown -->
@@ -611,47 +976,11 @@
 						<ul class="nav-dropdown">
 							
 								
-									<li>
-										
-											
-											
-												<a href="/SHOP/World-of-AO/Cultured/">Cultured</a>
-											
-										
-									</li>
+							
 								
 							
 								
-									<li>
-										
-											
-											
-												<a href="/SHOP/World-of-AO/In-Style/">In Style</a>
-											
-										
-									</li>
-								
 							
-								
-									<li>
-										
-											
-											
-												<a href="/SHOP/World-of-AO/Behind-The-Lens/">Behind The Lens</a>
-											
-										
-									</li>
-								
-							
-								
-									<li>
-										
-											
-											
-												<a href="/SHOP/World-of-AO/Everything-Stace/">Everything Stace</a>
-											
-										
-									</li>
 								
 							
 						</ul><!-- /.nav-dropdown -->
@@ -665,6 +994,553 @@
 		
 	</ul>
 </nav><!-- /.nav -->
+		
+
+
+<nav class="nav desktop-hidden tablet-hide-only">
+	<ul>
+		
+			
+
+			
+				
+					
+					
+						<li>
+							
+								
+								
+									<a href="/new-arrivals.html">New Arrivals</a>
+								
+							
+
+							
+								<ul class="nav-dropdown">
+									
+										
+									
+										
+									
+								</ul><!-- /.nav-dropdown -->
+							
+						</li>
+					
+				
+			
+		
+			
+
+			
+				
+					
+						
+							
+								<li>
+									
+										
+											<a href="/womens-dresses/view-all">Dresses +</a>
+
+											
+												<ul class="nav-dropdown">
+													
+														
+															<li>
+																
+																	
+																	
+																		<a href="/womens-dresses/view-all">View All</a>
+																	
+																
+															</li>
+														
+													
+														
+															<li>
+																
+																	
+																	
+																		<a href="/womens-dresses/party-dresses">Party Dresses</a>
+																	
+																
+															</li>
+														
+													
+														
+															<li>
+																
+																	
+																	
+																		<a href="/womens-dresses/work-dresses">To Work Dresses</a>
+																	
+																
+															</li>
+														
+													
+														
+															<li>
+																
+																	
+																	
+																		<a href="/womens-dresses/cocktail-dresses">Cocktail Dresses</a>
+																	
+																
+															</li>
+														
+													
+														
+															<li>
+																
+																	
+																	
+																		<a href="/womens-dresses/daytime-dresses">Daytime Dresses</a>
+																	
+																
+															</li>
+														
+													
+														
+															<li>
+																
+																	
+																	
+																		<a href="/womens-dresses/maxi-dresses">Maxi Dresses</a>
+																	
+																
+															</li>
+														
+													
+												</ul><!-- /.nav-dropdown -->
+											
+										
+										
+									
+								</li>
+							
+						
+							
+						
+							
+								<li>
+									
+										
+										
+											<a href="/womens-blouses-and-tops">TOPS</a>
+										
+									
+								</li>
+							
+						
+							
+								<li>
+									
+										
+										
+											<a href="/womens-sweaters">Sweaters</a>
+										
+									
+								</li>
+							
+						
+							
+								<li>
+									
+										
+										
+											<a href="/womens-jackets-and-blazers">Blazers</a>
+										
+									
+								</li>
+							
+						
+							
+								<li>
+									
+										
+										
+											<a href="/womens-jackets">Outerwear</a>
+										
+									
+								</li>
+							
+						
+							
+								<li>
+									
+										
+											<a href="/womens-designer-pants/view-all">PANTS +</a>
+
+											
+												<ul class="nav-dropdown">
+													
+														
+															<li>
+																
+																	
+																	
+																		<a href="/womens-designer-pants/view-all">View All</a>
+																	
+																
+															</li>
+														
+													
+														
+															<li>
+																
+																	
+																	
+																		<a href="/Couture-Denim.html">Denim</a>
+																	
+																
+															</li>
+														
+													
+														
+													
+														
+															<li>
+																
+																	
+																	
+																		<a href="/womens-designer-pants/skinny-pants-2">Skinny Pants</a>
+																	
+																
+															</li>
+														
+													
+														
+															<li>
+																
+																	
+																	
+																		<a href="/womens-designer-pants/wide-leg-pants">Wide Leg Pants</a>
+																	
+																
+															</li>
+														
+													
+														
+															<li>
+																
+																	
+																	
+																		<a href="/womens-designer-pants/cropped-pants">Cropped Pants</a>
+																	
+																
+															</li>
+														
+													
+														
+															<li>
+																
+																	
+																	
+																		<a href="/womens-designer-pants/leggings">Leggings</a>
+																	
+																
+															</li>
+														
+													
+												</ul><!-- /.nav-dropdown -->
+											
+										
+										
+									
+								</li>
+							
+						
+							
+						
+							
+								<li>
+									
+										
+										
+											<a href="/womens-shorts">SHORTS</a>
+										
+									
+								</li>
+							
+						
+							
+								<li>
+									
+										
+										
+											<a href="/designer-skirts">Skirts</a>
+										
+									
+								</li>
+							
+						
+							
+								<li>
+									
+										
+										
+											<a href="/air">Air</a>
+										
+									
+								</li>
+							
+						
+							
+								<li>
+									
+										
+										
+											<a href="/womens-work-clothes">To Work</a>
+										
+									
+								</li>
+							
+						
+							
+						
+							
+								<li>
+									
+										
+										
+											<a href="/SHOP/Clothing/Swim/">Swimwear</a>
+										
+									
+								</li>
+							
+						
+					
+					
+				
+			
+		
+			
+
+			
+				
+					
+					
+						<li>
+							
+								
+								
+									<a href="/must-haves.html">Must-Haves</a>
+								
+							
+
+							
+						</li>
+					
+				
+			
+		
+			
+
+			
+		
+			
+
+			
+				
+					
+					
+						<li>
+							
+								
+									<a href="/accessories/view-all.html">Accessories</a>
+								
+								
+							
+
+							
+								<ul class="nav-dropdown">
+									
+										
+											<li>
+												
+													
+													
+														<a href="/accessories/view-all.html">View All</a>
+													
+												
+											</li>
+										
+									
+										
+											<li>
+												
+													
+													
+														<a href="/designer-shoes.html">Shoes</a>
+													
+												
+											</li>
+										
+									
+										
+											<li>
+												
+													
+													
+														<a href="/handbags.html">Handbags</a>
+													
+												
+											</li>
+										
+									
+										
+											<li>
+												
+													
+													
+														<a href="/womens-fashion-accessories.html">Accessories</a>
+													
+												
+											</li>
+										
+									
+								</ul><!-- /.nav-dropdown -->
+							
+						</li>
+					
+				
+			
+		
+			
+
+			
+				
+					
+					
+						<li>
+							
+								
+								
+									<a href="/designer-clothing-sale.html"><span style="color:red;">Sale</span></a>
+								
+							
+
+							
+								<ul class="nav-dropdown">
+									
+										
+									
+								</ul><!-- /.nav-dropdown -->
+							
+						</li>
+					
+				
+			
+		
+			
+
+			
+				
+					
+					
+						<li>
+							
+								
+									<a href="shoppable-lookbook.html">Lookbook</a>
+								
+								
+							
+
+							
+								<ul class="nav-dropdown">
+									
+										
+											<li>
+												
+													
+													
+														<a href="/SHOP/Lookbook/Summer-2016/">Summer 2016</a>
+													
+												
+											</li>
+										
+									
+										
+											<li>
+												
+													
+													
+														<a href="/shoppable-lookbook.html">Spring 2016</a>
+													
+												
+											</li>
+										
+									
+										
+											<li>
+												
+													
+													
+														<a href="/SHOP/Lookbook/Pre-Spring-2016/">Pre-Spring 2016 </a>
+													
+												
+											</li>
+										
+									
+										
+											<li>
+												
+													
+													
+														<a href="/SHOP/Lookbook/Resort-2015/">Resort 2015</a>
+													
+												
+											</li>
+										
+									
+								</ul><!-- /.nav-dropdown -->
+							
+						</li>
+					
+				
+			
+		
+			
+
+			
+				
+					
+					
+						<li>
+							
+								
+								
+									<a href="/blog/" target="_blank">World of A+O</a>
+								
+							
+
+							
+								<ul class="nav-dropdown">
+									
+										
+									
+										
+									
+										
+									
+										
+									
+								</ul><!-- /.nav-dropdown -->
+							
+						</li>
+					
+				
+			
+		
+			
+
+			
+		
+			
+
+			
+		
+	</ul>
+</nav><!-- /.nav -->
+
 	</div><!-- /.shell -->
 </header><!-- /.header -->
 		
@@ -706,17 +1582,6 @@
 				<li>
 					
 						
-						
-							<a href="/must-haves.html">Must-Haves</a>
-						
-					
-				</li>
-			
-		
-			
-				<li>
-					
-						
 							<a href="/womens-dresses/view-all">Clothing</a>
 						
 						
@@ -725,13 +1590,11 @@
 			
 		
 			
-		
-			
 				<li>
 					
 						
-							<a href="/handbags.html">Accessories</a>
 						
+							<a href="/must-haves.html">Must-Haves</a>
 						
 					
 				</li>
@@ -743,29 +1606,7 @@
 				<li>
 					
 						
-							<a href="/designer-shoes.html">Shoes</a>
-						
-						
-					
-				</li>
-			
-		
-			
-				<li>
-					
-						
-							<a href="/handbags.html">Handbags</a>
-						
-						
-					
-				</li>
-			
-		
-			
-				<li>
-					
-						
-							<a href="/tights.html">Tights</a>
+							<a href="/accessories/view-all.html">Accessories</a>
 						
 						
 					
@@ -777,10 +1618,12 @@
 					
 						
 						
-							<a href="/designer-clothing-sale.html">Sale</a>
+							<a href="/designer-clothing-sale.html"><span style="color:red;">Sale</span></a>
 						
 					
 				</li>
+			
+		
 			
 		
 			
@@ -802,7 +1645,7 @@
 	<div class="main-box">
 		<div class="intro intro-image-xsmall fullsize-image-container">
 			<div class="intro-image">
-				<img src="https://s3.amazonaws.com/aliceandolivia-java/images/cms/149_ONE_SIZE_IMAGE_01_178639.jpg" alt="" class="fullsize-image">
+				<img src="https://s3.amazonaws.com/aliceandolivia-java/images/cms/149_ONE_SIZE_IMAGE_01_326014.jpg" alt="" class="fullsize-image">
 			</div><!-- /.intro-image -->		
 		</div><!-- /.intro -->
 		
@@ -1123,25 +1966,42 @@
 	
 		
 		
-		
 			
 		
+		
 	
+
 	
+   		<a href="https://www.aliceandolivia.com/summer.html" id="cfb-video-246">
+			<div class="banner fullsize-image-container">
+				<div class="bannner-image">
+					<img src="https://s3.amazonaws.com/aliceandolivia-java/images/content/246_ONE_SIZE_IMAGE_01_325828.jpg" alt="" class="fullsize-image">
+				</div><!-- /.bannner-image -->
+
+				<div class="banner-caption">
+					
+				</div><!-- /.banner-caption -->
+			</div><!-- /.banner -->
+		</a>
+
+		
 	
-	
+
 	<div class="footer-body">
 		<nav class="footer-nav">
 			<ul>
 				<li>
 					<a href="/customer-care/">Customer Care</a>
-					
+
 					<ul>
 						<li>
 							<a href="/customer-care/">Customer Care</a>
 						</li>
 						<li>
 							<a href="/contact-us/">Contact Us</a>
+						</li>
+						<li>
+							<a href="/personal-shopping.html" style="white-space: nowrap;">Personal Shopping</a>
 						</li>
 						<li>
 							<a href="/careers/">Careers</a>
@@ -1153,13 +2013,16 @@
 							<a href="/returns.html">Returns</a>
 						</li>
 						<li>
+							<a href="/_1459389861519.html">International Shipping</a>
+						</li>
+						<li>
 							<a href="/shipping/">Shipping</a>
 						</li>
 					</ul>
 				</li>
 				<li>
 					<a href="/front/app/account/home">MY ACCOUNT</a>
-					
+
 					<ul>
 						<li>
 							<a href="/front/app/account/home">My Account</a>
@@ -1167,20 +2030,26 @@
 						<li>
 							<a href="/front/app/order/search">Order Status</a>
 						</li>
+						<li class="international-order-status-wrapper">
+							<a href="/front/app/internationalOrder">International Order Status</a>
+						</li>
 					</ul>
 				</li>
 				<li>
-					<a href="/front/app/store/search">STORE LOCATOR</a>
+					<a href="/store-locator.html">STORE LOCATOR</a>
 				</li>
 				<li>
 					<a href="/size-chart/">Size Chart</a>
 				</li>
 				<li>
 					<a href="/sitemap/">Site Map</a>
-				</li>
+				</li>		
+				<li id="mobile-bfx-cc-container">
+						
+				</li>		
 			</ul>
 		</nav><!-- /.footer-nav -->
-		
+
 		<div class="footer-inner">
 			<div class="socials">
 				<ul>
@@ -1207,7 +2076,7 @@
 					</li>
 				</ul>
 			</div><!-- /.socials -->
-			
+
 			<p class="copyright">
 				© Alice and Olivia
 				<a href="/privacy-policy" class="privacy-link">Privacy</a>
@@ -1217,6 +2086,25 @@
 </footer><!-- /.footer -->
 
 
+
+<script type="text/javascript">
+	var bfxCCInterval;
+	
+	function moveContextChooser() {
+		var width = $(window).width();
+		if($('#bfx-cc-wrapper').length > 0 && width > 769) {
+			$('#desktop-bfx-cc-container').append($('#bfx-cc-wrapper'));
+			$('#bfx-cc-wrapper').show();
+			window.clearInterval(bfxCCInterval);
+		} else if($('#bfx-cc-wrapper').length > 0 && width <= 600) {
+			$('#mobile-bfx-cc-container').append($('#bfx-cc-wrapper'));
+			window.clearInterval(bfxCCInterval);
+			$('#bfx-cc-wrapper').show();
+		}
+	}
+	
+	bfxCCInterval = window.setInterval(moveContextChooser, 100);
+</script>
 		
 		
 		
@@ -1250,41 +2138,64 @@
 </script>
 <!-- end adRoll tracking -->	
 
-		<script type="text/javascript" async="" src="https://media.struq.com/content/scripts/Struq_Pixel_Injector_min_v1-9.js"></script><script id="struqPixelInjectorScript" type="text/javascript">
-window._struqPI = window._struqPI || [];
-_struqPI.push([
-    'injectTrackingPixel', { 
-		trackingPixelId: 'Dl9xNW8uHkWX7B2VS-eCpA', 
-		route: '', 
-		collectData: false,
-		options: { 
-			timeoutMs: 2000, 
-			firstPartyDomain: '', 
-			firstPartyCookie: '', 
-			firstPartyUid: '' 
-		}
-	}
-]);
-(function() {
-	var struq = document.createElement('script'); struq.type = 'text/javascript'; struq.async = true;
-	struq.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'media.struq.com/content/scripts/Struq_Pixel_Injector_min_v1-9.js';
-	var s = document.getElementById('struqPixelInjectorScript'); s.parentNode.insertBefore(struq, s);
-})();
-</script>
-		<!-- ============== BEGIN CRITEO TRACKING ======================= -->
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ============== BEGIN CRITEO TRACKING ======================= -->
 <script type="text/javascript" src="//static.criteo.net/js/ld/ld.js"></script>
 <script type="text/javascript">
-var page_v = "viewHome";
-var products = [];
-var email = "";
-
-var deviceType = /Mobile|iP(hone|od|ad)|Android|BlackBerry|IEMobile/.test(navigator.userAgent) ? "m" : "d";
-window.criteo_q = window.criteo_q || [];
-
-/*  <!-- pageview = cms_page -->  */
+	var page_v = "viewHome";
+	var products = [];
+	var email = "";
+	
+	var deviceType = /Mobile|iP(hone|od|ad)|Android|BlackBerry|IEMobile/.test(navigator.userAgent) ? "m" : "d";
+	window.criteo_q = window.criteo_q || [];
+	
+	function notOrderPlaced() {
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+	
+	
+		
+		
+		
+			
+			
+				$.getJSON(js_site_var['context_path'] + '/app/account/info.json', function(data) {
+					if (data.loggedIn) {
+						email = data.email;
+					}
+					
+					notOrderPlaced();
+				});
+			
+		
+	
 </script>
 <!-- ============== END CRITEO TRACKING ======================= -->
-
 		<script type="text/javascript">
 	try {
 		ga('send', 'pageview');
@@ -1314,10 +2225,10 @@ window.criteo_q = window.criteo_q || [];
 /* <![CDATA[ */
 	var google_conversion_language = "en";
 	var google_conversion_id = 1028914622;
-	var google_conversion_label = "5M2JCPSU6AMQvvvP6gM";
-	
+
 	var google_custom_params = window.google_tag_params;
 	var google_remarketing_only = true;
+	var google_conversion_label = "5M2JCPSU6AMQvvvP6gM";
 	
 	
 	
@@ -1331,5 +2242,13 @@ window.criteo_q = window.criteo_q || [];
 	</div>
 </noscript>
 <!-- END GA REMARKETING TAG -->
+		
+
+
+
+
+<!-- Segment Pixel - Poln +  - DO NOT MODIFY -->
+<img src="https://secure.adnxs.com/seg?add=3969125&amp;t=2" width="1" height="1">
+<!-- End of Segment Pixel -->
 	
 </body></html>
