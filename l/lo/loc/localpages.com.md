@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localpages.com privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106170954id_/http%3A//www.localpages.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localpages.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601032010id_/http%3A//www.localpages.com/privacy.html) for the most accurate reproduction.*
 
 # Local Business Directory | Online Yellow Pages | LocalPages
 
