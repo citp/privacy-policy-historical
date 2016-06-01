@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hostmetro.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205194229id_/http%3A//www.hostmetro.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostmetro.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601133246id_/http%3A//www.hostmetro.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | HostMetro.com
+# Privacy Policy - HostMetro
 
-## PRIVACY POLICY
+[](http://www.hostmetro.com/)
 
 We are committed to protecting all data that is collected with regard to our clients. When you use our services you agree to the use of that data in accordance with our privacy policy. We in no way collect any personally identifiable information about a visitor when coming to our website unless you choose to provide us that information or as specifically outlined in the privacy policy.
 
@@ -10,6 +10,8 @@ All information collected when you sign up for our services are only done so via
 
 We cooperate with all government and law enforcement agencies to enforce and comply with the law. Account information will be disclosed upon valid request by government or law officials as we, in our sole discretion, believes necessary.
 
-Any and all changes to the Privacy Policy will be updated on this page and supersedes the previous version. We suggest and encourage customers to review the Privacy Policy periodically to ensure that it is up to their standards.
+Any and all changes to the Privacy Policy will be updated on this page and supersedes the previous version. We suggest and encourage customers to review the Privacy Policy periodically to ensure that it is up to their standards. If, at any time, you feel we are not abiding by this Privacy Policy you can contact us via phone at 800-485-9730 or email customercare@hostmetro.com
 
-If, at any time, you feel we are not abiding by this Privacy Policy you can contact us via phone at 800-485-9730 or email customercare@hostmetro.com 
+© 2015 HostMetro.com. All rights reserved. 
+
+Scroll to Top
