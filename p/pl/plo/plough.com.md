@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plough.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205181134id_/http%3A//www.plough.com/en/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plough.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601232734id_/http%3A//www.plough.com/en/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Plough Privacy Policy
 
@@ -88,12 +88,6 @@ We use information that we collect about you or that you provide to us, includin
 
 We may also use your information to contact you about our own and third-parties' goods and services that may be of interest to you. If you do not want us to use your information in this way, please email us at [info@plough.com](mailto:info@plough.com?subject=Privacy%20Policy%20inquiry). For more information, see _Choices About How We Use and Disclose Your Information._
 
-Plough Privacy Policy Object moved
-
-## Object moved to [here](https://web.archive.org/Error-500.aspx?aspxerrorpath=/en/subscriptions/daily-prayer/december/daily-prayer-for-december-5).
-
-id="DOYI">
-
 ### Disclosure of Your Information
 
 We may disclose aggregated information about our users, and information that does not identify any individual, without restriction. 
@@ -161,9 +155,3 @@ Walden, NY 12586
 Email: [info@plough.com](mailto:info@plough.com?subject=Privacy%20Policy%20Inquiry)
 
 or via our toll-free number: 1–800–521–8011
-
-Magazine
-
-## Plough Quarterly
-
-**Bold** , hope-filled, and down-to-earth, Plough Quarterly features thought-provoking articles, commentary, interviews, short fiction, book reviews, poetry and art. Challenge your mind, raise your spirits, strengthen your faith. Subscribe to Plough Quarterly today.
