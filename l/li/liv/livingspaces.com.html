@@ -1,13 +1,16 @@
-<!--The following is the downloaded HTML source of the livingspaces.com privacy policy that was archived on 2015-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151223112429id_/http%3A//www.livingspaces.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the livingspaces.com privacy policy that was archived on 2016-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160601115652id_/http%3A//www.livingspaces.com/Privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en"><head id="head"><title>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en"><head id="head">
+    <iframe src="javascript:void(0)" title="" style="width: 0px; height: 0px; border: 0px; display: none;"></iframe><iframe src="javascript:false" title="" style="width: 0px; height: 0px; border: 0px; display: none;"></iframe><script async="" src="//web.archive.org/web/20161004170357/http://connect.facebook.net/en_US/fbevents.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script type="text/javascript" async="" src="https://cdns.brsrvr.com/v1/br-trk-5221.js"></script><script src="https://web.archive.org/web/20161004170311/https://s.yimg.com/wi/ytc.js" async=""></script><script type="text/javascript" async="" src="https://www.bluecore.com/triggermail.js/living_spaces.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="https://web.archive.org/web/20161004170311/https://s.yimg.com/wi/ytc.js" async=""></script><script type="text/javascript" src="/pixels/SOASTA.js"></script>
+    <script type="text/javascript" src="/pixels/SOASTADEV.js"></script>
+    <title>
 	Privacy statement | Information policy | Living Spaces
 </title><link rel="shortcut icon" href="images/icons/favicon.ico?v=2"><meta http-equiv="Content-type" content="text/html;charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="google-site-verification" content="ZdLR_1u2ooCs-zU1kuYwev96toPRb28fBkktzhMhgf0"><meta name="Keywords" content="living spaces, Living Spaces Furniture, furniture, furniture store, furniture galleries, living spaces van nuys, kids furniture, living Spaces Rancho, living spaces orange county, Los Angeles, Rancho Cucamonga, Orange County, Inland Empire, Van Nuys, Panorama City,Redondo Beach,Menifee, sofa, leather sofa, miro fiber sofa, couch, leather couch, micro fiber couch,  loveseat, love seat, chair, recliner, bed, poster bed, sleigh bed, bunk bed, bunkbed, dresser, mirror, chest, night stand, armoire, dining table, china, buffet, coctail table, sofa table, end table, mattress, mattresses, queen, king, cal king, twin, sectional, leather, fabric, micro fiber, microfiber, twin, full, bedroom, living room, dining room, office, entertainment center, youth, ottoman, theater seating, lingerie chest,  pub table, desk, student desk, hutch, bookcase, tv cart, wickes, levitz, mathis brothers, la z boy"><meta property="twitter:account_id" content="4503599627708003">
 
-    <script type="text/javascript" async="" src="https://cdns.brsrvr.com/v1/br-trk-5221.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-BTHDQ"></script><script type="text/javascript" async="" src="https://www.bluecore.com/triggermail.js/living_spaces.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
     <script type="text/javascript" src="/scripts/jquery.url.js"></script>
-    
+    <script src="/scripts/YahooTrackingPixel.js"></script>
     
 
     <!--OptimizelyCode-->
@@ -44,7 +47,7 @@
         
     </script>
 
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta http-equiv="content-language" content="en-us"><link href="/style/Reset.css" rel="stylesheet" type="text/css"><link href="/style/Main.css?v=20151103" rel="stylesheet" type="text/css"><link href="/style/MainPrint.css" rel="stylesheet" type="text/css" media="print">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta http-equiv="content-language" content="en-us"><meta name="viewport" content="width=980"><link href="/style/Main.css?v=20160524" rel="stylesheet" type="text/css"><link href="/style/MainPrint.css" rel="stylesheet" type="text/css" media="print">
 <script src="/_content/js/cookieMin.js"></script>
 <script type="text/javascript" src="/scripts/jquery.hoverIntent.minified.js"></script>
 <script type="text/javascript">
@@ -53,15 +56,52 @@
 			updateMobileHeader();
 			updateMobileFooter();
 		}
-		$("#top_nav").hoverIntent(showDD, hideDD);
+		$("#top_nav").hoverIntent(showDD, hideDD);					
+		screenReaderNav();
 	});
 	function showDD() {
+		closeScreenReaderDD();
 		$(".top-nav-link").addClass("top-nav-link-hovered");
 		$(".mega-dd").fadeIn(200);
 	}
 	function hideDD() {
 		$(".top-nav-link").removeClass("top-nav-link-hovered");
 		$(".mega-dd").fadeOut(200);
+	}
+	function screenReaderNav() {
+		$("body a:not(.mega-dd a)").focus(function(){
+			closeScreenReaderDD();
+		});
+		$("a.nav-tab").keydown(function(e){
+			var $thisNav = $(this);
+			/* DOWN ARROW OR SPACE OR LETTER 0 */
+			if(e.keyCode == 40 || e.keyCode == 32 || e.keyCode == 79) {
+				e.preventDefault();
+				$thisNav.parent().addClass("top-nav-link-hovered");
+				$thisNav.next(".mega-dd").addClass("mega-dd-visible");
+				$thisNav.attr("aria-expanded", "true");
+			}
+			/* UP ARROW */
+			else if(e.keyCode == 38) {
+				e.preventDefault();
+				closeScreenReaderDD();
+			}
+			/* RIGHT ARROW */
+			else if(e.keyCode == 39) {
+				e.preventDefault();
+				$thisNav.parent().next(".top-nav-link").find("a.nav-tab").focus();
+			}
+			/* LEFT ARROW */
+			else if(e.keyCode == 37) {
+				e.preventDefault();
+				$thisNav.parent().prev(".top-nav-link").find("a.nav-tab").focus();
+			}
+		});
+	}
+	function closeScreenReaderDD() {
+		$(".top-nav-link").removeClass("top-nav-link-hovered");
+		$("a.nav-tab").attr("aria-expanded", "false");
+		$(".mega-dd").removeClass("mega-dd-visible").removeAttr("style");
 	}
 	function updateMobileHeader() {
 		if($("#user_name_header").text() !== "") {
@@ -155,24 +195,29 @@
 		});
 	}
 </script>
-<meta name="Description" content="Living Spaces cares about your online privacy. Review our privacy statement to learn about the information we collect and how we use it."><link rel="canonical" href="http://www.livingspaces.com/Privacy.aspx"><script type="text/javascript">var br_data = {};br_data.acct_id = "5221";</script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-<body>
-    <!-- Google Tag Manager -->
-    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-BTHDQ"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <script>    (function (w, d, s, l, i) {
-            w[l] = w[l] || []; w[l].push({ 'gtm.start':new Date().getTime(), event: 'gtm.js'
-            }); var f = d.getElementsByTagName(s)[0],j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src ='//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-BTHDQ');
-    </script>
-    <!-- End Google Tag Manager -->
+<link rel="apple-touch-icon" href="/_content/images/touch-icon-60x60.png"><link rel="apple-touch-icon" sizes="76x76" href="/_content/images/touch-icon-72x72.png"><link rel="apple-touch-icon" sizes="120x120" href="/_content/images/touch-icon-120x120.png"><link rel="apple-touch-icon" sizes="152x152" href="/_content/images/touch-icon-152x152.png">
+<!-- Engage Web Tracking Code | META TAGS -->
+<meta name="com.silverpop.brandeddomains" content="www.pages02.net,blog.livingspaces.com,dev.livingspaces.com,livingspaces.com,livingspacesfurniture.mkt7783.com,support.livingspaces.com"><meta name="com.silverpop.cothost" content="pod2.ibmmarketingcloud.com"><meta name="Description" content="Living Spaces cares about your online privacy. Review our privacy statement to learn about the information we collect and how we use it."><link rel="canonical" href="http://www.livingspaces.com/Privacy.aspx"><script type="text/javascript">var br_data = {};br_data.acct_id = "5221";</script></head>
+<body> <div id="Body">
+
+
 
     
     <div class="header">
-    		<div class="header-wrap">
+    		<div id="preloaded_header_images">
+		   <img src="/images/header/user_cart.png" width="1" height="1" alt="">
+		   <img src="/images/header/user_like.png" width="1" height="1" alt="">
+		   <img src="/images/header/user_icon.png" width="1" height="1" alt="">
+		   <img src="/images/header/user_search_icon.png" width="1" height="1" alt="">
+		   <img src="/images/header/header_link_arrow_orange.png" width="1" height="1" alt="">
+		   <img src="/images/header/header_link_arrow.png" width="1" height="1" alt="">
+		   <img src="/images/header/bubble_pointer.png" width="1" height="1" alt="">
+		</div>
+		<a class="skip-link" href="#main_content" tabindex="1">Skip to Main Content</a>
+		<div class="header-wrap">
 			<div class="header-content clearfix">
 				<h3 id="logo" class="lsf-logo">
-					<a href="/"><img src="/images/header/dual_logo.png" alt="Living Spaces Home"></a>
+					<a title="Living Spaces" href="/"><img src="/images/header/dual_logo.png" alt="Living Spaces Home"></a>
 				</h3>
 				<div id="headerSearchBlock" class="header-right">
 					<div class="header-right-top clearfix">
@@ -268,7 +313,7 @@
 						</script>
 					</div>
 					<div class="header-search clearfix">
-						<label for="txtSearch" class="dont-display">Search</label>
+						<label for="txtSearch" class="screen-reader">Search</label>
 						<input name="txtSearch" type="text" id="txtSearch" class="typeahead search-box search-italic" value="Search furniture">
 						<div id="searchIcon" class="search-icon"></div>
 					</div>
@@ -278,9 +323,9 @@
 					<div class="header-phone">877-266-7300</div>
 				</div>
 				<div id="headerSearchPrint" style="text-align: right;margin-top: 10px;">
-                    <span><b>Customer Service</b></span><br>
+                    <span><strong>Customer Service</strong></span><br>
                     <span style="margin-bottom: 20px;">1-877-266-7300</span><br>
-                    <span><b>Store Hours</b></span>
+                    <span><strong>Store Hours</strong></span>
                     <div style="margin-bottom: 20px;">
                         <span style="margin-bottom: 3px;">10am - 9pm Mon - Fri</span><br>
                         <span>9am - 9pm Sat - Sun</span>
@@ -290,16 +335,17 @@
 		</div>
 		<div class="nav-wrap">
 			<div class="nav-bar">
-				<ul id="top_nav" class="top-nav-links clearfix">
+				<div class="screen-reader" role="status" aria-live="polite">Use the arrow keys to navigate the main menu, press the letter O, space bar or down arrow key to open a sub-menu, and press enter to make a selection.</div>
+				<ul id="top_nav" class="top-nav-links clearfix" role="navigation" aria-label="Main Navigation">
 					<!-- FURNITURE -->
 					<li id="top_nav_furniture" class="top-nav-link">
-						<a class="nav-tab" href="/furniture">Furniture</a>
-						<div class="mega-dd">
+						<a id="menu1" class="nav-tab" href="/furniture" aria-haspopup="true" aria-expanded="false">Furniture</a>
+						<div class="mega-dd" aria-labelledby="menu1">
 							<div class="mega-dd-box clearfix">
 								<div class="nav-tab-pointer"><img src="/images/header/nav_tab_pointer.png" alt="Tab Pointer"></div>
 								<!-- LIVING ROOMS ~ MENU INDEX 2 -->
 								<div id="f_pos_1" class="browse-by marginT25 marginL25 marginR35">
-									<a id="f_liv" href="/furniture/living-room">Living Rooms</a>
+									<a id="f_liv" href="/furniture/living-room">Living Room</a>
 									<div class="nav-div-line"></div>
 									<ul class="bb-list">
 										<li id="f_liv_01"><a href="/furniture/living-room/fabric-sofas">Fabric Sofas</a></li>
@@ -320,9 +366,10 @@
 								</div>
 								<!-- BEDROOMS ~ MENU INDEX 0 -->
 								<div id="f_pos_2" class="browse-by marginT25 marginR35">
-									<a id="f_bed" href="/furniture/bedrooms">Bedrooms</a>
+									<a id="f_bed" href="/furniture/bedrooms">Bedroom</a>
 									<div class="nav-div-line"></div>
 									<ul class="bb-list">
+										<li id="f_bed_12"><a href="/furniture/bedrooms/bedroom-sets">Bedroom Sets</a></li>
 										<li id="f_bed_01"><a href="/furniture/bedrooms/california-king-beds">California King Beds</a></li>
 										<li id="f_bed_02"><a href="/furniture/bedrooms/eastern-king-beds">Eastern King Beds</a></li>
 										<li id="f_bed_03"><a href="/furniture/bedrooms/queen-beds">Queen Beds</a></li>
@@ -338,7 +385,7 @@
 								</div>
 								<!-- DINING ROOMS ~ MENU INDEX 1 -->
 								<div id="f_pos_3" class="browse-by marginT25 marginR35">
-									<a id="f_din" href="/furniture/dining-rooms">Dining Rooms</a>
+									<a id="f_din" href="/furniture/dining-rooms">Dining Room</a>
 									<div class="nav-div-line"></div>
 									<ul class="bb-list">
 										<li id="f_din_01"><a href="/furniture/dining-rooms/dining-sets">Dining Sets</a></li>
@@ -411,7 +458,7 @@
 									<div class="spacer15"></div>
 									<!-- Outdoor ~ MENU INDEX 7 -->
 									<div id="f_pos_7" class="browse-by floatNone">
-										<a id="f_out" href="/furniture/outdoor/all-collections">Outdoor</a>
+										<a id="f_out" href="/furniture/outdoor">Outdoor</a>
 										<div class="nav-div-line"></div>
 										<ul class="bb-list">
 											<li id="f_out_01"><a href="/furniture/outdoor/dining">Dining</a></li>
@@ -437,8 +484,8 @@
 					</li>
 					<!-- REVIVE SLEEP CENTER -->
 					<li id="top_nav_mattresses" class="top-nav-link">
-						<a class="nav-tab" href="/mattresses">Mattresses</a>
-						<div class="mega-dd">
+						<a id="menu2" class="nav-tab" href="/mattresses" aria-haspopup="true" aria-expanded="false">Mattresses</a>
+						<div class="mega-dd" aria-labelledby="menu2">
 							<div class="mega-dd-box clearfix">
 								<div class="nav-tab-pointer"><img src="/images/header/nav_tab_pointer.png" alt="Tab Pointer"></div>
 								<!-- BY BRAND -->
@@ -446,6 +493,7 @@
 									<a id="rsc_bra" class="nav-no-hover">By Brand</a>
 									<div class="nav-div-line"></div>
 									<ul class="bb-list">
+										<li id="rsc_bra_09"><a href="/mattresses/revive">revive</a></li>
 										<li id="rsc_bra_01"><a href="/mattresses/tempur-pedic">Tempur-Pedic</a></li>
 										<li id="rsc_bra_02"><a href="/mattresses/icomfort">iComfort</a></li>
 										<!--<li id="rsc_bra_03"><a href="/mattresses/optimum">Optimum</a></li>-->
@@ -466,8 +514,21 @@
 										<li id="rsc_siz_07"><a href="/mattresses/eastern-king">Eastern King</a></li>
 										<li id="rsc_siz_02"><a href="/mattresses/queen">Queen</a></li>
 										<li id="rsc_siz_03"><a href="/mattresses/full">Full</a></li>
+										<li id="rsc_siz_08"><a href="/mattresses/twin-xl">Twin XL</a></li>
 										<li id="rsc_siz_04"><a href="/mattresses/twin">Twin</a></li>
 										<li id="rsc_siz_05"><a href="/mattresses/all">All</a></li>
+									</ul>
+								</div>
+								<!-- BY TYPE -->
+								<div id="rsc_pos_4" class="browse-by marginT25 marginR35">
+									<a id="rsc_typ" class="nav-no-hover">By Type</a>
+									<div class="nav-div-line"></div>
+									<ul class="bb-list">
+										<li id="rsc_typ_01"><a href="/mattresses/memory-foam">Memory Foam</a></li>
+										<li id="rsc_typ_02"><a href="/mattresses/inner-spring">Inner Spring</a></li>
+										<li id="rsc_typ_03"><a href="/mattresses/hybrid">Hybrid</a></li>
+										<li id="rsc_typ_04"><a href="/mattresses/kids-mattresses">Kids</a></li>
+										<li id="rsc_typ_05"><a href="/mattresses/all">All</a></li>
 									</ul>
 								</div>
 								<!-- ACCESSORIES -->
@@ -477,6 +538,7 @@
 									<ul class="bb-list">
 										<li id="rsc_acc_01"><a href="/mattresses/metal-bed-frames">Metal Bed Frames</a></li>
 										<li id="rsc_acc_02"><a href="/mattresses/foundations">Foundations</a></li>
+										<li id="rsc_acc_05"><a href="/mattresses/adjustable-bases">Adjustable Bases</a></li>
 										<li id="rsc_acc_03"><a href="/mattresses/bunky-boards">Bunky Boards</a></li>
 										<li id="rsc_acc_04"><a href="/mattresses/box-springs">Box Springs</a></li>
 									</ul>
@@ -487,8 +549,8 @@
 					</li>
 					<!-- RUGS -->
 					<li id="top_nav_rugs" class="top-nav-link">
-						<a class="nav-tab" href="/home-accessories/rugs">Rugs</a>
-						<div class="mega-dd">
+						<a id="menu3" class="nav-tab" href="/home-accessories/rugs" aria-haspopup="true" aria-expanded="false">Rugs</a>
+						<div class="mega-dd" aria-labelledby="menu3">
 							<div class="mega-dd-box clearfix">
 								<div class="nav-tab-pointer"><img src="/images/header/nav_tab_pointer.png" alt="Tab Pointer"></div>
 								<!-- BY SIZE -->
@@ -496,8 +558,14 @@
 									<a id="rug_siz" class="nav-no-hover">By Size</a>
 									<div class="nav-div-line"></div>
 									<ul class="bb-list">
+										<li id="rug_siz_06"><a href="/home-accessories/rugs/2x3">2' x 3'</a></li>
+										<li id="rug_siz_07"><a href="/home-accessories/rugs/2x4">2' x 4'</a></li>
+										<li id="rug_siz_08"><a href="/home-accessories/rugs/4x6">4' x 6'</a></li>
 										<li id="rug_siz_01"><a href="/home-accessories/rugs/5x8">5' x 8'</a></li>
 										<li id="rug_siz_02"><a href="/home-accessories/rugs/8x10">8' x 10'</a></li>
+										<li id="rug_siz_09"><a href="/home-accessories/rugs/10x13">10' x 13'</a></li>
+										<li id="rug_siz_05"><a href="/home-accessories/rugs/runners">Runners</a></li>
+										<li id="rug_siz_10"><a href="/home-accessories/rugs/round">Round</a></li>
 										<li id="rug_siz_04"><a href="/home-accessories/rugs/rug-pads">Rug Pads</a></li>
 										<li id="rug_siz_03"><a href="/home-accessories/rugs/all">All</a></li>
 									</ul>
@@ -536,42 +604,44 @@
 					</li>
 					<!-- DECOR & PILLOWS -->
 					<li id="top_nav_decor" class="top-nav-link">
-						<a class="nav-tab" href="/home-accessories">Decor + Pillows</a>
-						<div class="mega-dd">
+						<a id="menu4" class="nav-tab" href="/home-accessories" aria-haspopup="true" aria-expanded="false">Decor + Pillows</a>
+						<div class="mega-dd" aria-labelledby="menu4">
 							<div class="mega-dd-box clearfix">
 								<div class="nav-tab-pointer"><img src="/images/header/nav_tab_pointer.png" alt="Tab Pointer"></div>
 								<!-- TABLETOP DECOR -->
 								<div id="acc_pos_8" class="browse-by marginT25 marginL25 marginR35">
-									<a id="acc_ttd" href="/home-accessories/tabletop-decor">Tabletop DÉcor</a>
+									<a id="acc_ttd" href="/home-accessories/tabletop-decor">Tabletop Decor</a>
 									<div class="nav-div-line"></div>
 									<ul class="bb-list">
 										<li id="ttd_01"><a href="/home-accessories/tabletop-decor/vases">Vases</a></li>
-										<!--<li id="ttd_02"><a href="/home-accessories/tabletop-decor/candlesticks">Candlesticks</a></li>-->
-										<li id="ttd_03"><a href="/home-accessories/tabletop-decor/decorative-boxes">Decorative Boxes</a></li>
-										<li id="ttd_04"><a href="/home-accessories/tabletop-decor/trays">Trays</a></li>
 										<li id="ttd_05"><a href="/home-accessories/tabletop-decor/sculptures-figurines">Sculptures/Figurines</a></li>
+										<li id="ttd_04"><a href="/home-accessories/tabletop-decor/trays">Trays</a></li>
 										<li id="ttd_06"><a href="/home-accessories/tabletop-decor/jars-bottles-canisters">Jars/Bottles/Canisters</a></li>
-										<li id="ttd_07"><a href="/home-accessories/tabletop-decor/baskets">Baskets</a></li>
-										<li id="ttd_08"><a href="/home-accessories/tabletop-decor/bookends">Bookends</a></li>
-										<!--<li id="ttd_09"><a href="/home-accessories/tabletop-decor/tabletop-mirrors">Tabletop Mirrors</a></li>-->
+										<li id="ttd_03"><a href="/home-accessories/tabletop-decor/decorative-dishes">Decorative Dishes</a></li>
 										<li id="ttd_10"><a href="/home-accessories/tabletop-decor/candleholders">Candleholders</a></li>
-										<li id="ttd_11"><a href="/home-accessories/tabletop-decor/lanterns">Lanterns</a></li>
+										<li id="ttd_03"><a href="/home-accessories/tabletop-decor/decorative-boxes">Decorative Boxes</a></li>
+										<li id="ttd_07"><a href="/home-accessories/tabletop-decor/baskets">Baskets</a></li>
 										<li id="ttd_15"><a href="/home-accessories/tabletop-decor/clocks">Clocks</a></li>
+										<li id="ttd_11"><a href="/home-accessories/tabletop-decor/lanterns">Lanterns</a></li>
+										<li id="ttd_16"><a href="/home-accessories/tabletop-decor/wine-holders">Wine Holders</a></li>
+										<li id="ttd_08"><a href="/home-accessories/tabletop-decor/bookends">Bookends</a></li>
+										<!--<li id="ttd_02"><a href="/home-accessories/tabletop-decor/candlesticks">Candlesticks</a></li>-->
+										<!--<li id="ttd_09"><a href="/home-accessories/tabletop-decor/tabletop-mirrors">Tabletop Mirrors</a></li>-->
 										<li id="ttd_14"><a href="/home-accessories/tabletop-decor">All</a></li>
 									</ul>
 								</div>
 								<!-- STACKED LMI -->
 								<div class="floatL marginT25 marginR35">
-									<!-- LAMPS -->
-									<div id="acc_pos_3" class="floatNone browse-by">
-										<a id="acc_lam" href="/home-accessories/lamps">Lamps</a>
+									<!-- WALL ACCESSORIES -->
+									<div id="acc_pos_10" class="floatNone browse-by">
+										<a id="acc_wac" href="/home-accessories/wall-accessories">Wall Accessories</a>
 										<div class="nav-div-line"></div>
 										<ul class="bb-list">
-											<li id="lam_01"><a href="/home-accessories/lamps/table-buffet-lamps">Table/Buffet Lamps</a></li>
-											<li id="lam_02"><a href="/home-accessories/lamps/floor-lamps">Floor Lamps</a></li>
-											<li id="lam_03"><a href="/home-accessories/lamps/pendants">Pendants</a></li>
-											<!--<li id="lam_04"><a href="/home-accessories/lamps/desk-lamps">Desk Lamps</a></li>-->
-											<li id="lam_05"><a href="/home-accessories/lamps">All</a></li>
+											<li id="wac_01"><a href="/home-accessories/wall-accessories/wall-clocks">Wall Clocks</a></li>
+											<li id="wac_02"><a href="/home-accessories/wall-accessories/wall-decor">Wall Décor</a></li>
+											<li id="wac_03"><a href="/home-accessories/wall-accessories/sconces">Sconces</a></li>
+											<li id="wac_04"><a href="/home-accessories/wall-accessories/panels">Panels</a></li>
+											<li id="wac_05"><a href="/home-accessories/wall-accessories">All</a></li>
 										</ul>
 									</div>
 									<div class="spacer15"></div>
@@ -583,24 +653,24 @@
 											<li id="flo_01"><a href="/home-accessories/floor-accessories/accent-tables">Accent Tables</a></li>
 											<li id="flo_02"><a href="/home-accessories/floor-accessories/poufs">Poufs</a></li>
 											<li id="flo_03"><a href="/home-accessories/floor-accessories/stools">Stools</a></li>
+											<li id="flo_05"><a href="/home-accessories/floor-accessories/benches">Benches</a></li>
 											<li id="flo_04"><a href="/home-accessories/floor-accessories">All</a></li>
 										</ul>
 									</div>
 								</div>
-								<!-- STACKED PF -->
+								<!-- STACKED LMAT -->
 								<div class="floatL marginT25 marginR35">
-									<!-- PILLOWS -->
-									<div id="acc_pos_2" class="floatNone browse-by">
-										<a id="acc_pil" href="/home-accessories/pillows">Pillows</a>
+									<!-- LIGHTING -->
+									<div id="acc_pos_3" class="floatNone browse-by">
+										<a id="acc_lam" href="/home-accessories/lighting">Lighting</a>
 										<div class="nav-div-line"></div>
 										<ul class="bb-list">
-											<li id="pil_02"><a href="/home-accessories/pillows/18x18">18" x 18"</a></li>
-											<li id="pil_03"><a href="/home-accessories/pillows/20x14">20" x 14"</a></li>
-											<li id="pil_06"><a href="/home-accessories/pillows/20x20">20" x 20"</a></li>
-											<li id="pil_01"><a href="/home-accessories/pillows/22x22">22" x 22"</a></li>
-											<li id="pil_07"><a href="/home-accessories/pillows/24x16">24" x 16"</a></li>
-											<li id="pil_05"><a href="/home-accessories/pillows/26x14">26" x 14"</a></li>
-											<li id="pil_04"><a href="/home-accessories/pillows">All</a></li>
+											<li id="lam_01"><a href="/home-accessories/lighting/table-buffet-lamps">Table/Buffet Lamps</a></li>
+											<li id="lam_02"><a href="/home-accessories/lighting/floor-lamps">Floor Lamps</a></li>
+											<li id="lam_03"><a href="/home-accessories/lighting/pendants">Pendants</a></li>
+											<!--<li id="lam_04"><a href="/home-accessories/lamps/desk-lamps">Desk Lamps</a></li>-->
+											<li id="lam_06"><a href="/home-accessories/lighting/chandeliers">Chandeliers</a></li>
+											<li id="lam_05"><a href="/home-accessories/lighting">All</a></li>
 										</ul>
 									</div>
 									<div class="spacer15"></div>
@@ -619,6 +689,23 @@
 										<div class="nav-div-line"></div>
 										<ul class="bb-list">
 											<li id="thw_01"><a href="/home-accessories/accent-throws">All</a></li>
+										</ul>
+									</div>
+								</div>
+								<!-- STACKED PIL -->
+								<div class="floatL marginT25 marginR35">
+									<!-- PILLOWS -->
+									<div id="acc_pos_2" class="floatNone browse-by">
+										<a id="acc_pil" href="/home-accessories/pillows">Pillows</a>
+										<div class="nav-div-line"></div>
+										<ul class="bb-list">
+											<li id="pil_02"><a href="/home-accessories/pillows/18x18">18" x 18"</a></li>
+											<li id="pil_03"><a href="/home-accessories/pillows/20x14">20" x 14"</a></li>
+											<li id="pil_06"><a href="/home-accessories/pillows/20x20">20" x 20"</a></li>
+											<li id="pil_01"><a href="/home-accessories/pillows/22x22">22" x 22"</a></li>
+											<li id="pil_07"><a href="/home-accessories/pillows/24x16">24" x 16"</a></li>
+											<li id="pil_05"><a href="/home-accessories/pillows/26x14">26" x 14"</a></li>
+											<li id="pil_04"><a href="/home-accessories/pillows">All</a></li>
 										</ul>
 									</div>
 									<!-- IN-LINE ACCENTS -->
@@ -644,20 +731,47 @@
 					</li>
 					<!-- WALL ART -->
 					<li id="top_nav_wallart" class="top-nav-link">
-						<a class="nav-tab" href="/home-accessories/wall-art">Wall Art</a>
-						<div class="mega-dd">
+						<a id="menu5" class="nav-tab" href="/home-accessories/wall-art" aria-haspopup="true" aria-expanded="false">Wall Art</a>
+						<div class="mega-dd" aria-labelledby="menu5">
 							<div class="mega-dd-box">
 								<div class="nav-tab-pointer"><img src="/images/header/nav_tab_pointer.png" alt="Tab Pointer"></div>
-								<a class="spotlight-wallart" href="/home-accessories/wall-art">
-									<div>Gallery-worthy<br>prints + paintings</div>
-								</a>
+								<div class="floatL marginT25 marginL25">
+									<div id="art_pos_1" class="floatNone browse-by">
+										<a id="art_typ" class="nav-no-hover">By Type</a>
+										<div class="nav-div-line"></div>
+										<ul class="bb-list">
+											<li id="typ_01"><a href="/home-accessories/wall-art/paintings">Paintings</a></li>
+											<li id="typ_02"><a href="/home-accessories/wall-art/pictures">Pictures</a></li>
+											<li id="typ_03"><a href="/home-accessories/wall-art/prints">Prints</a></li>
+											<li id="typ_04"><a href="/home-accessories/wall-art">All</a></li>
+										</ul>
+									</div>
+									<div class="spacer15"></div>
+									<div id="art_pos_2" class="floatNone browse-by">
+										<a id="art_sub" class="nav-no-hover">By Subject</a>
+										<div class="nav-div-line"></div>
+										<ul class="bb-list">
+											<li id="sub_01"><a href="/home-accessories/wall-art/abstract">Abstract</a></li>
+											<li id="sub_02"><a href="/home-accessories/wall-art/animals">Animals</a></li>
+											<li id="sub_03"><a href="/home-accessories/wall-art/architecture">Architecture</a></li>
+											<li id="sub_04"><a href="/home-accessories/wall-art/botanical">Botanical</a></li>
+											<li id="sub_05"><a href="/home-accessories/wall-art/coastal">Coastal</a></li>
+											<li id="sub_06"><a href="/home-accessories/wall-art">All</a></li>
+										</ul>
+									</div>
+								</div>
+								<div class="spotlight-hero-box">
+									<a class="spotlight-wallart" href="/home-accessories/wall-art">
+										<div>Gallery-worthy<br>Pieces</div>
+									</a>
+								</div>
 							</div>
 						</div>
 					</li>
 					<!-- ELEMENTS -->
 					<li id="top_nav_elements" class="top-nav-link">
-						<a class="nav-tab" href="/elements">Elements</a>
-						<div class="mega-dd">
+						<a id="menu6" class="nav-tab" href="/elements" aria-haspopup="true" aria-expanded="false">Elements</a>
+						<div class="mega-dd" aria-labelledby="menu6">
 							<div class="mega-dd-box">
 								<div class="nav-tab-pointer"><img src="/images/header/nav_tab_pointer.png" alt="Tab Pointer"></div>
 								<a class="spotlight-elements" href="/elements">
@@ -668,50 +782,69 @@
 					</li>
 					<!-- INSPIRATION -->
 					<li id="top_nav_inspiration" class="top-nav-link">
-						<a class="nav-tab" href="/inspiration">Inspiration</a>
-						<div class="mega-dd">
+						<a id="menu7" class="nav-tab" href="/inspiration" aria-haspopup="true" aria-expanded="false">Inspiration</a>
+						<div class="mega-dd" aria-labelledby="menu7">
 							<div class="mega-dd-box clearfix">
 								<div class="nav-tab-pointer"><img src="/images/header/nav_tab_pointer.png" alt="Tab Pointer"></div>
-								<div class="floatL marginT25 marginL25 clearfix">
+								<div id="ins_col_1" class="browse-by marginT25 marginL29 marginR30">
 									<!-- INSPIRATION BY ROOM -->
-									<div class="floatNone browse-by">
-										<a id="ins_roo" class="nav-no-hover">Inspired Rooms</a>
-										<div class="nav-div-line"></div>
-										<ul class="bb-list">
-											<li id="ins_pos_1"><a id="ins_liv" href="/inspiration/living-rooms">Living Rooms</a></li>
-											<li id="ins_pos_2"><a id="ins_bed" href="/inspiration/bedrooms">Bedrooms</a></li>
-											<li id="ins_pos_3"><a id="ins_din" href="/inspiration/dining-rooms">Dining Rooms</a></li>
-											<li id="ins_pos_4"><a id="ins_kid" href="/inspiration/kids">Kids</a></li>
-										</ul>
-									</div>
-									<div class="spacer30"></div>
-									<!-- CATALOGS -->
-									<div id="ins_pos_5" class="floatNone browse-by">
-										<a id="ins_cat" href="/inspiration/catalog">Catalogs</a>
-									</div>
-									<div class="spacer30"></div>
-									<!-- MYLIVINGSPACES - CUSTOMER PHOTOS -->
-									<div id="ins_pos_7" class="floatNone browse-by">
-										<a id="ins_mls" href="/inspiration/myLivingSpaces">#myLivingSpaces</a>
-										<ul class="bb-list">
-											<li><a id="ins_cpg" href="/inspiration/myLivingSpaces">Customer Photo Gallery</a></li>
-										</ul>
-									</div>
+									<a id="ins_graphic_rooms" class="spotlight-ins-graphic" href="/inspiration/living-rooms"><img width="156px" height="160px" src="/_content/images/nav/spotlight_ins_rooms160523.jpg" alt="Inspired Rooms"></a>
+									<a id="ins_roo" class="nav-no-hover">Inspired Rooms</a>
+									<div class="nav-div-line"></div>
+									<ul class="bb-list">
+										<li id="ins_roo_1"><a id="ins_liv" href="/inspiration/living-rooms">Living Rooms</a></li>
+										<li id="ins_roo_2"><a id="ins_bed" href="/inspiration/bedrooms">Bedrooms</a></li>
+										<li id="ins_roo_3"><a id="ins_din" href="/inspiration/dining-rooms">Dining Rooms</a></li>
+										<li id="ins_roo_4"><a id="ins_kid" href="/inspiration/kids">Kids</a></li>
+									</ul>
 								</div>
-								<div class="spotlight-hero-box">
-									<div class="spotlight-inspiration">
-										<div class="spacer10"></div>
-										<p>Celebrations<br>Blossom</p>
-										<a class="spotlight-arrow-link marginL15" href="/inspiration/catalog">November Catalog</a>
-									</div>
+								<div id="ins_col_2" class="browse-by marginT25 marginR30">
+									<!-- CATALOGS -->
+									<a id="ins_graphic_cats" class="spotlight-ins-graphic" href="/inspiration/catalog"><img width="156px" height="160px" src="/_content/images/nav/spotlight_ins_cat160526.jpg" alt="Catalogs"></a>
+									<a id="ins_cat" href="/inspiration/catalog">Catalogs</a>
+									<div class="nav-div-line"></div>
+									<ul class="bb-list">
+										<li id="ins_cat_0"><a href="//catalogs.livingspaces.com/summer-2016/" target="_blank">Summer 2016</a></li>
+										<li id="ins_cat_1"><a href="//catalogs.livingspaces.com/february-2016/" target="_blank">February 2016</a></li>
+										<li id="ins_cat_2"><a href="//catalogs.livingspaces.com/november-2015/" target="_blank">November 2015</a></li>
+										<li id="ins_cat_3"><a href="//catalogs.livingspaces.com/august-2015/" target="_blank">August 2015</a></li>
+									</ul>
+								</div>
+								<div id="ins_col_3" class="browse-by marginT25 marginR30">
+									<!-- FEATURED SERIES -->
+									<a id="ins_graphic_feat" class="spotlight-ins-graphic" href="/featured-series"><img width="156px" height="160px" src="/_content/images/nav/spotlight_ins_feat160523.jpg" alt="Featured Series"></a>
+									<a id="ins_feat" href="/featured-series">Featured Series</a>
+									<div class="nav-div-line"></div>
+									<ul class="bb-list">
+										<li id="ins_feat_1"><a href="/featured-series#tab_07_wrap">Zodiac Series</a></li>
+										<li id="ins_feat_2"><a href="/search/sofas-under/400">Sofas Under $400</a></li>
+										<li id="ins_feat_3"><a href="/featured-series#tab_06_wrap">Staycation Series</a></li>
+										<li id="ins_feat_4"><a href="/shop/boho-inspired.html">Boho</a></li>
+										<li id="ins_feat_5"><a href="/shop/most-popular.html">Most Popular</a></li>
+										<li id="ins_feat_6"><a href="/shop/nautical.html">Nautical</a></li>
+									</ul>
+								</div>
+								<div id="ins_col_4" class="browse-by marginT25 marginR30">
+									<!-- BLOG -->
+									<a id="ins_graphic_blog" class="spotlight-ins-graphic" href="https://blog.livingspaces.com/?webSyncID=dc57ee0e-ea09-0189-dd66-738042be178e&amp;sessionGUID=8d51a60a-649b-206b-1099-409b549ed73a" target="_blank"><img width="156px" height="160px" src="/_content/images/nav/spotlight_ins_blog160405.jpg" alt="Blog"></a>
+									<a id="ins_blog" class="text-center" href="https://blog.livingspaces.com/?webSyncID=dc57ee0e-ea09-0189-dd66-738042be178e&amp;sessionGUID=8d51a60a-649b-206b-1099-409b549ed73a" target="_blank">Living Spaces Blog</a>
+									<div class="spacer25"></div>
+									<!-- MYLIVINGSPACES - CUSTOMER PHOTOS -->
+									<a id="ins_graphic_myls" class="spotlight-ins-graphic" href="/inspiration/myLivingSpaces"><img width="156px" height="100px" src="/_content/images/nav/spotlight_ins_myls160405.jpg" alt="Customer Photo Gallery"></a>
+									<a id="ins_myls" class="text-center" href="/inspiration/myLivingSpaces">#myLivingSpaces</a>
+								</div>
+								<div id="ins_col_5" class="browse-by marginT25">
+									<!-- 3D ROOM DESIGNER -->
+									<a id="ins_graphic_3d" class="spotlight-ins-graphic" href="/3d-room-designer"><img width="156px" height="160px" src="/_content/images/nav/spotlight_ins_3d160405.jpg" alt="3D Room Designer"></a>
+									<a id="ins_3d" class="text-center" href="/3d-room-designer">3D Room Designer</a>
 								</div>
 							</div>
 						</div>
 					</li>
 					<!-- CLEARANCE -->
 					<li id="top_nav_clearance" class="top-nav-link">
-						<a class="nav-tab" href="/clearance">Clearance</a>
-						<div class="mega-dd">
+						<a id="menu8" class="nav-tab" href="/clearance" aria-haspopup="true" aria-expanded="false">Clearance</a>
+						<div class="mega-dd" aria-labelledby="menu8">
 							<div class="mega-dd-box">
 								<div class="nav-tab-pointer"><img src="/images/header/nav_tab_pointer.png" alt="Tab Pointer"></div>
 								<!-- BY CATEGORY -->
@@ -719,9 +852,9 @@
 									<a id="clr_col" class="nav-no-hover">By Category</a>
 									<div class="nav-div-line"></div>
 									<ul class="bb-list">
-										<li id="clr_col_01"><a href="/clearance/living-room">Living Rooms</a></li>
-										<li id="clr_col_02"><a href="/clearance/bedroom">Bedrooms</a></li>
-										<li id="clr_col_03"><a href="/clearance/dining-room">Dining Rooms</a></li>
+										<li id="clr_col_01"><a href="/clearance/living-room">Living Room</a></li>
+										<li id="clr_col_02"><a href="/clearance/bedroom">Bedroom</a></li>
+										<li id="clr_col_03"><a href="/clearance/dining-room">Dining Room</a></li>
 										<li id="clr_col_04"><a href="/clearance/accessories">Accessories</a></li>
 										<li id="clr_col_05"><a href="/clearance/mattresses">Mattresses</a></li>
 										<li id="clr_col_06"><a href="/clearance">All</a></li>
@@ -743,27 +876,51 @@
 			</div>
 		</div>
 		<ul class="mobile-menu">
-			<li id="mobile_nav01" class="mobile-sub-control"><p>Living Rooms</p></li>
+			<li id="mobile_nav01" class="mobile-sub-control"><p>Living Room</p></li>
 			<li id="mobile_nav01_sub" class="mobile-sub-wrap"></li>
-			<li id="mobile_nav02" class="mobile-sub-control"><p>Bedrooms</p></li>
+			<li id="mobile_nav02" class="mobile-sub-control"><p>Bedroom</p></li>
 			<li id="mobile_nav02_sub" class="mobile-sub-wrap"></li>
-			<li id="mobile_nav03" class="mobile-sub-control"><p>Dining Rooms</p></li>
+			<li id="mobile_nav03" class="mobile-sub-control"><p>Dining Room</p></li>
 			<li id="mobile_nav03_sub" class="mobile-sub-wrap"></li>
-			<li id="mobile_nav04" class="mobile-sub-control"><p>Accessories</p></li>
+			<li id="mobile_nav17" class="mobile-sub-control"><p>Rugs</p></li>
+			<li id="mobile_nav17_sub" class="mobile-sub-wrap">
+				<ul>
+					<li id="mobile_rug_23"><a href="/home-accessories/rugs/2x3">2' x 3'</a></li>
+					<li id="mobile_rug_24"><a href="/home-accessories/rugs/2x4">2' x 4'</a></li>
+					<li id="mobile_rug_46"><a href="/home-accessories/rugs/4x6">4' x 6'</a></li>
+					<li id="mobile_rug_58"><a href="/home-accessories/rugs/5x8">5' x 8'</a></li>
+					<li id="mobile_rug_810"><a href="/home-accessories/rugs/8x10">8' x 10'</a></li>
+					<li id="mobile_rug_1013"><a href="/home-accessories/rugs/10x13">10' x 13'</a></li>
+					<li id="mobile_rug_runners"><a href="/home-accessories/rugs/runners">Runners</a></li>
+					<li id="mobile_rug_round"><a href="/home-accessories/rugs/round">Round</a></li>
+					<li id="mobile_rug_pads"><a href="/home-accessories/rugs/rug-pads">Rug Pads</a></li>
+					<li id="mobile_rug_all"><a href="/home-accessories/rugs/all">All Rugs</a></li>
+				</ul>
+			</li>
+			<li id="mobile_nav04" class="mobile-sub-control"><p>Decor + Pillows</p></li>
 			<li id="mobile_nav04_sub" class="mobile-sub-wrap">
 				<ul>
-					<li id="mobile_rugs"><a href="/home-accessories/rugs/all">Rugs</a></li>
-					<li id="mobile_pillows"><a href="/home-accessories/pillows/all">Pillows</a></li>
-					<li id="mobile_lamps"><a href="/home-accessories/lamps">Lamps</a></li>
+					<li id="mobile_pillows"><a href="/home-accessories/pillows">Pillows</a></li>
+					<li id="mobile_lighting"><a href="/home-accessories/lighting">Lighting</a></li>
 					<li id="mobile_mirrors"><a href="/home-accessories/mirrors">Mirrors</a></li>
 					<!--<li id="mobile_inline_accents"><a href="/search/in-line-accents/products">In-Line Accents</a></li>-->
+					<li id="mobile_wall_accessories"><a href="/home-accessories/wall-accessories">Wall Accessories</a></li>
 					<li id="mobile_floor_accessories"><a href="/home-accessories/floor-accessories">Floor Accessories</a></li>
-					<li id="mobile_tabletop_decor"><a href="/home-accessories/wall-art">Wall Art</a></li>
 					<li id="mobile_tabletop_decor"><a href="/home-accessories/tabletop-decor">Tabletop Décor</a></li>
 				</ul>
 			</li>
 			<li id="mobile_nav05"><a href="/mattresses">Mattresses</a></li>
-			<li id="mobile_nav06"><a href="/clearance">Clearance</a></li>
+			<li id="mobile_nav06" class="mobile-sub-control"><p>Clearance</p></li>
+			<li id="mobile_nav06_sub" class="mobile-sub-wrap">
+				<ul>
+					<li id="mobile_clr_liv"><a href="/clearance/living-room">Living Room Clearance</a></li>
+					<li id="mobile_clr_bed"><a href="/clearance/bedroom">Bedroom Clearance</a></li>
+					<li id="mobile_clr_din"><a href="/clearance/dining-room">Dining Room Clearance</a></li>
+					<li id="mobile_clr_acc"><a href="/clearance/accessories">Accessories Clearance</a></li>
+					<li id="mobile_clr_mat"><a href="/clearance/mattresses">Mattresses Clearance</a></li>
+					<li id="mobile_clr_mat"><a href="/clearance">All Clearance</a></li>
+				</ul>
+			</li>
 			<li id="mobile_nav07" class="mobile-sub-control"><p>Inspiration</p></li>
 			<li id="mobile_nav07_sub" class="mobile-sub-wrap">
 				<ul>
@@ -772,7 +929,22 @@
 					<li id="mobile_ins_din"><a href="/inspiration/dining-rooms">Dining Room Inspiration</a></li>
 					<li id="mobile_ins_kid"><a href="/inspiration/kids">Kids Inspiration</a></li>
 					<li id="mobile_ins_cat"><a href="/inspiration/catalog">Catalogs</a></li>
+					<li id="mobile_ins_featured"><a href="/featured-series">Featured Series</a></li>
 					<li id="mobile_ins_myls"><a href="/inspiration/myLivingSpaces">Customer Photo Gallery</a></li>
+				</ul>
+			</li>
+			<li id="mobile_nav18" class="mobile-sub-control"><p>Wall Art</p></li>
+			<li id="mobile_nav18_sub" class="mobile-sub-wrap">
+				<ul>
+					<li id="mobile_wallart_paintings"><a href="/home-accessories/wall-art/paintings">Paintings</a></li>
+					<li id="mobile_wallart_pictures"><a href="/home-accessories/wall-art/pictures">Pictures</a></li>
+					<li id="mobile_wallart_prints"><a href="/home-accessories/wall-art/prints">Prints</a></li>
+					<li id="mobile_wallart_abstract"><a href="/home-accessories/wall-art/abstract">Abstract</a></li>
+					<li id="mobile_wallart_animals"><a href="/home-accessories/wall-art/animals">Animals</a></li>
+					<li id="mobile_wallart_architecture"><a href="/home-accessories/wall-art/architecture">Architecture</a></li>
+					<li id="mobile_wallart_botanical"><a href="/home-accessories/wall-art/botanical">Botanical</a></li>
+					<li id="mobile_wallart_coastal"><a href="/home-accessories/wall-art/coastal">Coastal</a></li>
+					<li id="mobile_wallart_all"><a href="/home-accessories/wall-art">All Wall Art</a></li>
 				</ul>
 			</li>
 			<li id="mobile_nav08"><a href="/elements">Elements</a></li>
@@ -788,7 +960,8 @@
 			<li id="mobile_nav12"><a href="/Delivery.aspx">Delivery Options</a></li>
 			<li id="mobile_nav13"><a href="/OrderStatus.aspx">Track Delivery</a></li>
 			<li id="mobile_nav14"><a href="tel:18772667300">Call Us 877-266-7300</a></li>
-		</ul><input name="ctl00$ctl00$userID" type="hidden" id="userID">
+		</ul>
+		<a class="skip-link" id="main_content" tabindex="-1">Main Content Starts Here</a><input name="ctl00$ctl00$userID" type="hidden" id="userID">
         <script type="text/javascript">
             var userName = $('#user_name_header');
             var userID = $('#userID');
@@ -867,7 +1040,7 @@
 
 
 </style>
-
+    <script src="/scripts/YahooTrackingPixel.js"></script>
 	<div class="leftmenu" style="">
             <div class="leftNav">
                     <script type="text/javascript">
@@ -1003,10 +1176,21 @@
 						<div class="email-line-one">Join our email list for a chance to win our</div>
 						<div class="email-line-two"><span>$1000</span> Living Spaces Card <span>Giveaway</span></div>
 					</div>
-					<!-- CAMPAIGN MONITOR FORM -->
-					<form action="//lsfmarketing.createsend.com/t/i/s/jilyu/" method="post" class="clearfix" id="subForm">
-						<div class="clearfix"><label for="jilyu-jilyu" class="display-none">Email:</label><input class="signup-input" type="text" name="cm-jilyu-jilyu" id="jilyu-jilyu" placeholder="Enter Email Address" required=""><label for="From URL" class="display-none">From URL:</label><input type="hidden" name="cm-f-dily" id="FromURL" value=""><input class="signup-button signup-active" type="submit" id="campaign-monitor-button" value="Sign Up"></div>
-						<div class="email-ty">Thank You</div>
+					<!-- SILVER POP FORM -->
+					<form id="subForm" method="post" action="http://livingspacesfurniture.mkt7783.com/form/opt-in-footer?webSyncID=dc57ee0e-ea09-0189-dd66-738042be178e&amp;sessionGUID=8d51a60a-649b-206b-1099-409b549ed73a&amp;trackedExternalFormPost=1" pageid="5962685" siteid="236600" parentpageid="5962683" target="footer_success">
+						<div class="clearfix">
+							<label for="footer_EMAIL" class="screen-reader">Email:</label>
+							<input type="email" name="Email" id="footer_EMAIL" label="Email" class="signup-input" placeholder="Enter Email Address" required="">
+							<input id="sp_footer_btn" type="submit" class="signup-button signup-active" value="Submit">
+							<!-- DO NOT REMOVE HIDDEN FIELD sp_exp -->
+							<div class="dont-display">
+								<input type="hidden" name="sp_exp" value="yes">
+								<input type="hidden" name="subOnsiteFooter" value="Yes">
+								<input type="hidden" name="formSourceName" value="StandardForm">
+								<iframe name="footer_success" width="1" height="1" src="/_content/landingpages/iframe.html"></iframe>
+							</div>
+						</div>
+						<div class="email-ty">Enter a Valid Email</div>
 					</form>
 					<div class="email-1k-details clearfix">
 						<img class="email-lsf-card" src="/images/footer/email_lsf_card.png" alt="Card Icon">
@@ -1015,31 +1199,28 @@
 				</div>
 				<!-- EMAIL FORM ACTIONS -->
 				<script type="text/javascript">
-					/* POPULATE THE FROM URL FIELD OF THE FORM */
-					$("#FromURL").attr("value", window.location.href);
-					
-					/* SUBMIT THE FORM AND LOCK THE BUTTON */
+					function validateEmail(email) {
+						var re = /^(([^<>()[\]\\.,;:\s@"]+(\.[^<>()[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+						return re.test(email);
+					}
 					$(function () {
 					  $('#subForm').submit(function (e) {
-						e.preventDefault();        
-						$.getJSON(this.action + "?callback=?", $(this).serialize(), function (data) {
-						  if (data.Status === 400) {
-							/*alert("Error: " + data.Message);*/
-							$("#jilyu-jilyu").focus();
-						  } else { // 200            
-							/*alert("Success: " + data.Message);*/
-							/* DISABLE THE BUTTON, CHANGE THE TEXT TO THANK YOU AND DISABLE THE INPUT BOX */
-							$("#campaign-monitor-button").val("Thank You").removeClass("signup-active");
-							$("#jilyu-jilyu").attr("disabled", "true");
-							$(".email-ty").css({"visibility":"visible"});
+						if(!validateEmail($("#footer_EMAIL").val())) {
+							e.preventDefault();
+							$(".email-ty").css({"visibility":"visible", "color":"#E15122"});
+							return false;
+						} else {
+							$(".email-ty").html("Thank you. You&rsquo;re all set!").css({"visibility":"visible"});
+							$("#footer_EMAIL").addClass("signup-input-disabled");
+							$("#sp_footer_btn").attr("disabled", "true").css({"cursor":"default"});
+							
 							/* SET EMAIL FOR BLUECORE */
-							triggermail_email_address = $("#jilyu-jilyu").val();
+							triggermail_email_address = $("#footer_EMAIL").val();
 							if (window.$.cookies.test()) {
 								var today = new Date();
 								window.$.cookies.set('lsf-username', triggermail_email_address, { expiresAt: new Date((today.getFullYear() + 3), today.getMonth(), 1) });
 							}
-						  }        
-						});
+						}
 					  });    
 					});
 				</script>
@@ -1061,7 +1242,7 @@
 			<div class="mobile-footer-store-info clearfix">
 				<div id="mobile_footer_customer_care" class="clearfix">
 					<img src="/images/footer/mobile_footer_care.png" alt="Customer Care Icon">
-					<p>Customer Care</p>
+					<p>Guest Services</p>
 					<div><a href="tel:18772667300" class="marginR20">877-266-7300</a><span>9am - 9pm Mon - Sun</span></div>
 				</div>
 				<div id="mobile_footer_store_hours" class="clearfix">
@@ -1088,7 +1269,7 @@
 					<div class="link-white-box">
 						<div id="link_white_left_col" class="link-white-col">
 							<div id="link_section_cs_number">
-								<div id="clickable_help" class="link-layer-header link-pos-cs"><a class="display-inline" href="/Feedback.aspx">Customer Care</a></div>
+								<div id="clickable_help" class="link-layer-header link-pos-cs"><a class="display-inline" href="/Feedback.aspx">Guest Services</a></div>
 								<p>877-266-7300</p>
 								<p>9am - 9pm Mon-Sun</p>
 							</div>
@@ -1109,6 +1290,7 @@
 							<div id="link_section_locations">
 								<div class="link-layer-header link-pos-locations"><a class="display-inline" href="/stores">Locations</a></div>
 								<a id="f_loc14" href="/stores/fremont">Fremont</a>
+								<a id="f_loc15" href="/stores/gilbert">Gilbert</a>
 								<a id="f_loc12" href="/stores/huntington-beach">Huntington Beach</a>
 								<a id="f_loc04" href="/stores/irvine">Irvine</a>
 								<a id="f_loc01" href="/stores/la-mirada">La Mirada</a>
@@ -1119,6 +1301,7 @@
 								<a id="f_loc11" href="/stores/phoenix">Phoenix</a>
 								<a id="f_loc88" href="/stores/rancho-cucamonga">Rancho Cucamonga</a>
 								<a id="f_loc06" href="/stores/redondo-beach">Redondo Beach</a>
+								<a id="f_loc16" href="/stores/san-leandro">San Leandro</a>
 								<a id="f_loc10" href="/stores/scottsdale">Scottsdale</a>
 								<a id="f_loc03" href="/stores/van-nuys">Van Nuys at “The Plant”</a>
 								<a id="f_loc08" href="/stores/vista">Vista</a>
@@ -1129,6 +1312,8 @@
 						<!-- OUR COMPANY -->
 						<div class="link-layer-header link-pos-co">Our Company</div>
 						<a id="f_oc01" href="/AboutUs.aspx">About Us</a>
+						<a id="f_oc11" href="/appDownload.aspx">Mobile App</a>
+						<a id="f_oc10" href="https://blog.livingspaces.com/?webSyncID=dc57ee0e-ea09-0189-dd66-738042be178e&amp;sessionGUID=8d51a60a-649b-206b-1099-409b549ed73a" target="_blank">Behind the Design Blog</a>
 						<a id="f_oc02" href="/environment">Green Initiatives</a>
 						<a id="f_oc09" href="/community">Community</a>
 						<a id="f_oc03" href="http://jobs.livingspaces.com">Employment</a>
@@ -1136,18 +1321,17 @@
 						<a id="f_oc05" href="/low-price-guarantee.aspx">Low Price Guarantee</a>
 						<a id="f_oc06" href="/Delivery.aspx">Delivery Options</a>
 						<a id="f_oc07" href="/clearance-centers">Clearance Centers</a>
-						<!-- <a id="f_oc09" href="/StorePhotos.aspx">Store Photos</a> -->
+						<!-- <a id="f_oc09" href="/StorePhotos.aspx">Store Photos</a>
 						<div class="spacer10"></div>
-						<!-- MEDIA CENTER -->
 						<div class="link-layer-header link-pos-media">Media Center</div>
-						<a href="//www.youtube.com/livingspaces" target="_blank">Our TV Commercials</a>
+						<a href="//www.youtube.com/livingspaces" target="_blank">Our TV Commercials</a> -->
 					</div>
 					<div class="link-gray-col">
 						<!-- SHOP -->
 						<div class="link-layer-header link-pos-shop">Shop</div>
-						<a id="f_shop01" href="/furniture/living-room">Living Rooms</a>
-						<a id="f_shop02" href="/furniture/bedrooms">Bedrooms</a>
-						<a id="f_shop03" href="/furniture/dining-rooms">Dining Rooms</a>
+						<a id="f_shop01" href="/furniture/living-room">Living Room</a>
+						<a id="f_shop02" href="/furniture/bedrooms">Bedroom</a>
+						<a id="f_shop03" href="/furniture/dining-rooms">Dining Room</a>
 						<a id="f_shop04" href="/mattresses">Mattresses</a>
 						<a id="f_shop05" href="/furniture/kids">Kids</a>
 						<a id="f_shop06" href="/furniture/entertainment">Entertainment</a>
@@ -1164,7 +1348,7 @@
 						<a id="f_help03" href="/FAQ.aspx">FAQ’s</a>
 						<a id="f_help04" href="/Privacy.aspx">Privacy Statement</a>
 						<a id="f_help12" href="/3d-room-designer">3D Room Designer</a>
-						<a id="f_help05" href="//livingspaces-lm.icovia.com/icovia.aspx" target="_blank">Room Planner</a>
+						<a id="f_help05" class="dont-display" href="//livingspaces-lm.icovia.com/icovia.aspx" target="_blank">Room Planner</a>
 						<a id="f_help06" href="/Delivery.aspx">Delivery Options</a>
 						<a id="f_help07" href="/StorePolicies.aspx">Store Policies</a>
 						<a id="f_help08" href="/OrderStatus.aspx" onclick="pageTracker._trackEvent('HomepageBtn', 'OrderStatus', 'Box Click');">Track your Delivery</a>
@@ -1189,7 +1373,7 @@
 						<a href="//www.houzz.com/pro/livingspaces" class="sm-icon-sprite sm-icon-houzz" target="_blank">Houzz</a>
 						<a href="//twitter.com/livingspaces" class="sm-icon-sprite sm-icon-twitter" target="_blank">Twitter</a>
 						<a href="//www.youtube.com/user/livingspaces" class="sm-icon-sprite sm-icon-youtube" target="_blank">YouTube</a>
-						<a href="//blog.livingspaces.com" class="sm-icon-sprite sm-icon-blog" target="_blank">Living Spaces Blog</a>
+						<a href="https://blog.livingspaces.com/?webSyncID=dc57ee0e-ea09-0189-dd66-738042be178e&amp;sessionGUID=8d51a60a-649b-206b-1099-409b549ed73a" class="sm-icon-sprite sm-icon-blog" target="_blank">Living Spaces Blog</a>
 					</div>
 				</div>
 				<div class="spacer15"></div>
@@ -1209,62 +1393,70 @@
 		<!-- CORE: NAVIGATION SEARCH BASICS -->
 		<!--<script src="/_content/js/core.js?v=20150323"></script>-->
 		<script src="//cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.10.5/typeahead.bundle.min.js"></script>
-		<script src="/_content/js/coreBR.js?v=20150925"></script>
+		<script src="/_content/js/coreBR.js?v=20160106"></script>
+		
+		<!-- ENGAGE WEB TRACKING CODE | JS SCRIPT -->
+		<!-- <script src="//contentz.mkt922.com/lp/static/js/iMAWebCookie.js?22d0d42-15167f6be8e-3f3d5eceea4051b7c82d96ba93c1b04e&h=www.pages02.net" type="text/javascript"></script> -->
+		<script src="/_content/js/engageTracking/iMAWebCookie.js?22d0d42-15167f6be8e-3f3d5eceea4051b7c82d96ba93c1b04e&amp;h=www.pages02.net" type="text/javascript"></script>
+		<script type="text/javascript">
+			if(window.location.href.toLowerCase().indexOf('localhost') < 0) {
+				var prev_onload = window.onload;
+				window.onload = function() {
+					if (prev_onload) { prev_onload() } 
+					var thePageTitle = document.title;
+					ewt.track({name:thePageTitle,type:'pagetitle'});
+					
+					var theFullURL = window.location.href;
+					var ampIndex = theFullURL.indexOf("&");
+					if(ampIndex > -1) { ewt.track({name:theFullURL.substring(0,ampIndex),type:'fullurl'}) }
+					else { ewt.track({name:theFullURL,type:'fullurl'}) }
+					
+					/* PRODUCT PAGE INFO */
+					if(theFullURL.toLowerCase().indexOf("productview.aspx") > -1) {
+						var $theSku = $("#cHolder1_lblProductSku");
+						if($theSku.length > 0) { 
+							ewt.track({name:$theSku.text(),type:'sku'});
+							var thePrice = $("#cHolder1_lblProductPrice").text().replace("$","").replace(",","");
+							ewt.track({name:thePrice,type:'price'});
+							var bcText = $("#panBreadCrumbHidden").text();
+							var pipeIndex = bcText.lastIndexOf("|");
+							if(bcText !== "" && pipeIndex > -1) { 
+								ewt.track({name:bcText.substring(0,pipeIndex),type:'breadcrumb'});
+								ewt.track({name:bcText.substring(0,pipeIndex)+'_'+thePrice,type:'bc_price_combo'});
+							}	
+						}
+					}
+				}
+			}
+		</script>
+		<script type="text/javascript">
+			var bingPix = false;
+			var criteoPix = false;
+			var pixTicker = 0;
+			var pixelCheck = setInterval(function(){
+				pixTicker++;
+				if(pixTicker == 100) clearInterval(pixelCheck);
+				if(!bingPix && $("img[id^='batBeacon'").length > 0) {
+					$("img[id^='batBeacon'").attr("alt", "");
+					bingPix = true;
+				}
+				if(!criteoPix && $("#criteo-tags-div > iframe").length > 0) {
+					$("#criteo-tags-div > iframe").attr("title", "Criteo Frame");
+					criteoPix = true;
+				}
+				if(bingPix && criteoPix) clearInterval(pixelCheck);
+			}, 100);
+		</script>
     </div>
 
-    <!--Needle-->
-    <script async="" defer="" src="//livingspaces.needle.com/needle_service.js?ver=1"></script>
-    <!--/Needle-->
 
-    <script type="text/javascript">
-        adroll_adv_id = "GR7AVKIJSJGLPAGA3UHXW2";
-        adroll_pix_id = "JTTWWN5GM5BLJF624S3BZC";
-        (function () {
-            var oldonload = window.onload;
-            window.onload = function () {
-                __adroll_loaded = true;
-                var scr = document.createElement("script");
-                var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-                scr.setAttribute('async', 'true');
-                scr.type = "text/javascript";
-                scr.src = host + "/j/roundtrip.js";
-                ((document.getElementsByTagName('head') || [null])[0] ||
-                    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-                if (oldonload) { oldonload() } 
-            };
-        } ());
-    </script>
-        <script>
-            var needleCategory = "";
-            var needleInvite = "";
-            var pathName = window.location.pathname;
-            if (pathName.indexOf("furniture") > 0 || pathName.indexOf("mattresses") > 0 || pathName.indexOf("home-accessories") > 0 || pathName.indexOf("inspiration") > 0 || pathName.indexOf("elements") > 0) {
-                var url = window.location.pathname.slice(1, window.location.pathname.length);
-                var urlAry = url.replace(/-/g, " ").split("/");
-
-                if (urlAry.length > 0) {
-                    for (var x in urlAry) {
-                        needleCategory += urlAry[x] + " | ";
-                    }
-
-
-                    needleCategory = needleCategory.slice(0, needleCategory.length - 2);
-                    needleInvite = needleCategory.slice(needleCategory.lastIndexOf("|") + 2, needleCategory.length);
-                }
-
-                var needleParam = needleParam || {};
-                needleParam.categoryId = needleCategory;
-                needleParam.inviteContext = needleInvite;
-
-            }
-
-        </script>
+        
     <!--
       This snippet loads the core Granify script.
     -->
     <script type="text/javascript">var disableGranify=false;</script>
     
-    <iframe src="javascript:false" title="" style="width: 0px !important; height: 0px !important; border: 0px !important; overflow: hidden !important; position: absolute !important; top: -1000px !important; left: -1000px !important;"></iframe><script type="text/javascript">
+    <script type="text/javascript">
 if (!disableGranify) {
         var GRANIFY_SITE_ID = 757;
         (function(e,t,n){var r,i,s,o,u;u=false;try{o=new RegExp("(?:^|\\W)_gr_test_url=([^;]*)");s=document.cookie.match(o);if(s){if(s[1]==="1")u=true}else{r=Math.random();if(Math.random>.95)u=true;i=new Date(+(new Date)+1e3*60*60*24*2);document.cookie="_gr_test_url="+ +u+";expires="+i.toGMTString()+";path=/"}}catch(a){}if(u)e.replace("javascript.js","javascript.next.js");e=e+"?id="+t;window.Granify=n;n._stack=[];n.init=function(e,t,r){function i(e,t){e[t]=function(){Granify._stack.push([t].concat(Array.prototype.slice.call(arguments,0)))}}var s=n;h=["on","addTag","trackPageView","trackCart","trackOrder"];for(a=0;a<h.length;a++)i(s,h[a])};n.init();var f,l,c,p=document.createElement("iframe");p.src="javascript:false";p.title="";p.role="presentation";(p.frameElement||p).style.cssText="width: 0 !important; height: 0 !important; border: 0 !important; overflow: hidden !important; position: absolute !important; top: -1000px !important; left: -1000px !important;";c=document.getElementsByTagName("script");c=c[c.length-1];c.parentNode.insertBefore(p,c);try{l=p.contentWindow.document}catch(a){f=document.domain;p.src="javascript:var d=document.open();d.domain='"+f+"';void(0);";l=p.contentWindow.document}l.open()._l=function(){var t=this.createElement("script");if(f)this.domain=f;t.id="js-iframe-async";t.src=e;this.body.appendChild(t)};l.write('<body onload="document._l();">');l.close()})("//cdn.granify.com/assets/javascript.js",GRANIFY_SITE_ID,[])
@@ -1292,7 +1484,44 @@ if (!disableGranify) {
     <img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l4rvt&p_id=Twitter" />
     </noscript>
      
+<!-- To determine screen height/width -->     
+    <input type="hidden" value="" name="clientScreenHeight" id="clientScreenHeight">
+    <input type="hidden" value="" name="clientScreenWidth" id="clientScreenWidth">
+    <script>
+        $(document).ready(function () {
+            //alert('screen width: ' + screen.width);
+            $.cookies.set("lsf-client-screen-width", screen.width);
+            $.cookies.set("lsf-client-screen-height", screen.height);
+        });
+    </script>
+    
+    <!-- WEB-268 - Add Bing Tracking Pixles to the website -->
+    <script>(function (w, d, t, r, u) { var f, n, i; w[u] = w[u] || [], f = function () { var o = { ti: "5035944" }; o.q = w[u], w[u] = new UET(o), w[u].push("pageLoad") }, n = d.createElement(t), n.src = r, n.async = 1, n.onload = n.onreadystatechange = function () { var s = this.readyState; s && s !== "loaded" && s !== "complete" || (f(), n.onload = n.onreadystatechange = null) }, i = d.getElementsByTagName(t)[0], i.parentNode.insertBefore(n, i) })(window, document, "script", "//bat.bing.com/bat.js", "uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5035944&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" alt="Bing tracking"/></noscript>
+    <!-- /WEB-268 -->
 
+    <!-- WEB-341 - Add Criteo Remarketing Pixel to the Website -->
+    <script type="text/javascript" src="//static.criteo.net/js/ld/ld.js" async="true"></script>
+    <script type="text/javascript">
+        var Criteo_userEmail = "";
+var Criteo_siteType = "d";
+var Criteo_products = [];
+var Criteo_order = []
+var Criteo_transactionId = "";
+var Criteo_productId = Criteo_productId || "";
+if (typeof orderCompleted !== "undefined") Criteo_products = Criteo_order;
+    </script>
+    <script src="/pixels/Criteo.js?v=20160308"></script>
+    <!-- /WEB-341 -->
+    
+    <!-- WEB-339 - Update our Facebook tracking pixel -->
+    <script type="text/javascript">
+        var Facebook_purchased = { value: '0.00', currency: 'USD' }
 
+    </script>
+    <script src="/pixels/Facebook.js?v=20160308"></script>
+    <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=851499071559205&ev=PageView&noscript=1" alt="FB tracking"/></noscript>
+    <!-- /WEB-339 -->
 
-</body></html>
+</div><iframe src="javascript:false" title="" style="width: 0px !important; height: 0px !important; border: 0px !important; overflow: hidden !important; position: absolute !important; top: -1000px !important; left: -1000px !important;"></iframe><script type="application/javascript" id="ywa-1582527485024-616067" class="ywa-10001789800616" defer="" src="https://sp.analytics.yahoo.com/sp.pl?a=10001789800616&amp;jsonp=YAHOO.ywa.I13N.handleJSONResponse&amp;b=Privacy%20statement%20%7C%20Information%20policy%20%7C%20Living%20Spaces&amp;.yp=432672&amp;f=https%3A%2F%2Fweb.archive.org%2Fweb%2F20160601115652id_%2Fhttp%253A%2F%2Fwww.livingspaces.com%2FPrivacy.aspx&amp;enc=UTF-8"></script>
+
+<img alt="Silverpop Tracking" src="https://www.pages02.net/WTS/event.jpeg?accesskey=22d0d42-15167f6be8e-3f3d5eceea4051b7c82d96ba93c1b04e&amp;v=1.28&amp;isNewSession=0&amp;type=pageview&amp;isNewVisitor=0&amp;sessionGUID=8d51a60a-649b-206b-1099-409b549ed73a&amp;webSyncID=dc57ee0e-ea09-0189-dd66-738042be178e&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20160601115652id_%2Fhttp%253A%2F%2Fwww.livingspaces.com%2FPrivacy.aspx&amp;newSiteVisit=0&amp;hostname=web.archive.org&amp;pathname=%2Fweb%2F20160601115652id_%2Fhttp%253A%2F%2Fwww.livingspaces.com%2FPrivacy.aspx&amp;newPageVisit=1&amp;eventKey=46d4910e-1098-ba32-07a0-0c0534b51488" style="display: none;"><img alt="Silverpop Tracking" src="https://www.pages02.net/WTS/event.jpeg?accesskey=22d0d42-15167f6be8e-3f3d5eceea4051b7c82d96ba93c1b04e&amp;v=1.28&amp;isNewSession=0&amp;type=pageview&amp;isNewVisitor=0&amp;sessionGUID=8d51a60a-649b-206b-1099-409b549ed73a&amp;webSyncID=dc57ee0e-ea09-0189-dd66-738042be178e&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20160601115652id_%2Fhttp%253A%2F%2Fwww.livingspaces.com%2FPrivacy.aspx&amp;newSiteVisit=0&amp;hostname=livingspacesfurniture.mkt7783.com&amp;pathname=%2Fform%2Fopt-in-footer&amp;pagename=opt-in-footer&amp;pageId=5962685&amp;siteId=236600&amp;parentPageId=5962683&amp;trackedExternalFormPost=1&amp;newPageVisit=1&amp;eventKey=50e67cd3-a005-ad23-cd93-97965b2c6065" style="display: none;"><img alt="Silverpop Tracking" src="https://www.pages02.net/WTS/event.jpeg?accesskey=22d0d42-15167f6be8e-3f3d5eceea4051b7c82d96ba93c1b04e&amp;v=1.28&amp;isNewSession=0&amp;type=pagetitle&amp;eventName=Privacy%20statement%20%7C%20Information%20policy%20%7C%20Living%20Spaces&amp;sessionGUID=8d51a60a-649b-206b-1099-409b549ed73a&amp;webSyncID=dc57ee0e-ea09-0189-dd66-738042be178e&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20160601115652id_%2Fhttp%253A%2F%2Fwww.livingspaces.com%2FPrivacy.aspx&amp;newSiteVisit=0&amp;hostname=web.archive.org&amp;pathname=%2Fweb%2F20160601115652id_%2Fhttp%253A%2F%2Fwww.livingspaces.com%2FPrivacy.aspx&amp;eventKey=d446d0b6-7a01-4063-37b8-d157a0930425" style="display: none;"><img alt="Silverpop Tracking" src="https://www.pages02.net/WTS/event.jpeg?accesskey=22d0d42-15167f6be8e-3f3d5eceea4051b7c82d96ba93c1b04e&amp;v=1.28&amp;isNewSession=0&amp;type=fullurl&amp;eventName=https%3A%2F%2Fweb.archive.org%2Fweb%2F20160601115652id_%2Fhttp%253A%2F%2Fwww.livingspaces.com%2FPrivacy.aspx&amp;sessionGUID=8d51a60a-649b-206b-1099-409b549ed73a&amp;webSyncID=dc57ee0e-ea09-0189-dd66-738042be178e&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20160601115652id_%2Fhttp%253A%2F%2Fwww.livingspaces.com%2FPrivacy.aspx&amp;newSiteVisit=0&amp;hostname=web.archive.org&amp;pathname=%2Fweb%2F20160601115652id_%2Fhttp%253A%2F%2Fwww.livingspaces.com%2FPrivacy.aspx&amp;eventKey=abd74601-2471-5a0d-e867-012907a0d294" style="display: none;"></body></html>
