@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the posirank.com privacy policy that was archived on 2015-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150709051711id_/http%3A//posirank.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the posirank.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601231125id_/http%3A//posirank.com/privacy) for the most accurate reproduction.*
 
 # PosiRank™ - Privacy Policy
 
@@ -10,7 +10,7 @@ Users can, at their option, opt to join the PosiRank.com email newsletter. PosiR
 
 If a user of the PosiRank website becomes a customer, then they will also be subscribed to the customer announcement list - which they can also unsubscribe from or manage from the PosiRank customer dashboard.
 
-If a subscribed user wishes to unsubscribe from the newsletter for any reason, he or she may do so instantly by following the automated unsubscribe link, located in the footer of every email. In addition, the user may [email us here](https://web.archive.org/web/20150709051711id_/http%3A//posirank.com/contact), or by mail at:
+If a subscribed user wishes to unsubscribe from the newsletter for any reason, he or she may do so instantly by following the automated unsubscribe link, located in the footer of every email. In addition, the user may [email us here](https://web.archive.org/web/20160601231125id_/http%3A//posirank.com/contact), or by mail at:
 
 PosiRank.com  
 Posirank LLC  
