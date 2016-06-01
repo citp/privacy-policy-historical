@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the slingshot.co.nz privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318030732id_/https%3A//www.slingshot.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slingshot.co.nz privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601074619id_/https%3A//www.slingshot.co.nz/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Slingshot » Privacy Policy
 
 _
 
 The following provides a summary of how we hold and use your information:
 
 _
+
+### Visitors to our website
 
 If you are just visiting the website, then we collect and store the following information about your visit: 
 
@@ -15,6 +17,9 @@ If you are just visiting the website, then we collect and store the following in
   * The URLs of the pages you visit
   * Your email address if you provide it.
 
+
+
+### We may use that information for the following purposes:
 
   1. Measuring the number of visitors to different parts of the site
   2. Measuring the effectiveness of our advertising
@@ -25,7 +30,11 @@ If you are just visiting the website, then we collect and store the following in
 
 If we think it is necessary, we can disclose information to relevant law enforcement authorities, such as the Police or the Department of Internal Affairs, in accordance with the appropriate sections of the Privacy Act and as noted below: 
 
+### Personal Information
+
 If you choose to provide us with personal information such as your email address, for example by filling out an electronic query or order form or something similar, we will use the information only for authorised purposes listed below. Personal information will be stored and used in accordance with this Privacy Policy. You can read our Terms and Conditions online. You have the right under the Privacy Act 1993 to access any personal information held about you and to request correction of the Slingshot database if any information is incorrect or requires updating. You can do this by sending us an email. 
+
+### We may use your information for the following purposes:
 
   1. The purposes listed above in relation to visitors to the website;
   2. Processing your orders or applications;
@@ -42,6 +51,10 @@ If you choose to provide us with personal information such as your email address
 
 
 
+### Slingshot customers
+
 If you do provide us with personal information as described above, we may link this information to your Slingshot customer profile. We may also use this information to improve the website for different customer profiles. If you are a Slingshot customer, the Standard Terms and Conditions will also apply. 
+
+### Changing this policy
 
 We may change this policy at any time by changing or removing existing terms or adding new ones. Changes may take the form of a completely new policy. We will tell you about any changes by posting an updated policy on our website. Any changes will apply from the date we post them on the website. 
