@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the txtlocal.co.uk privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027040538id_/http%3A//www.textlocal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the txtlocal.co.uk privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601020727id_/http%3A//www.textlocal.com/privacy) for the most accurate reproduction.*
 
-# Textlocal Privacy Policy
+# Our User & Website Privacy Policy & Practices - Textlocal
 
 Unless the context otherwise requires, definitions in this Privacy Policy shall have the same meaning as those in Our Terms of Service.
 
