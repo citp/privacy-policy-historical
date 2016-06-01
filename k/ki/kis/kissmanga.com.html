@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kissmanga.com privacy policy that was archived on 2015-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151227060733id_/http%3A//kissmanga.com/Message/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kissmanga.com privacy policy that was archived on 2016-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160601155158id_/http%3A//kissmanga.com/Message/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 Privacy Policy
@@ -155,14 +155,14 @@ Search</a>
 <li id="liHome"><a href="http://kissmanga.com">Home</a></li>
 <li id="liDS"><a href="http://kissmanga.com/MangaList">Manga
 List</a></li>
+<li id="liComic"><a target="_blank" href="http://readcomiconline.to/">Comic
+List</a></li>
 <li id="liReport"><a rel="nofollow" target="_blank" href="https://www.facebook.com/messages/KissManga">
 Report Error</a></li>
 <li id="liRequest"><a href="/Message/RequestManga">
 Request Manga</a></li>
 <li id="liCommunity"><a rel="nofollow" target="_blank" href="http://forum.kissanime.com">
 Forum</a></li>
-<li id="liDownload"><a target="_blank" href="http://domdomsoft.com/domdomsoft-manga-downloader-overview">
-Download Manga</a></li>
 <li id="liAnimeOnline"><a target="_blank" title="High quality anime online" href="http://kissanime.to/">
 Watch anime</a></li>
 </ul>
@@ -217,43 +217,39 @@ practice or to opt-out of this type of advertising, you can visit <a href="http:
 &nbsp;</div>
 <div class="clear">
 &nbsp;</div>
-<div style="z-index: 0; position: absolute; top: 220px; left: 0px; width: 100%; height: 768px;
-    overflow: hidden; visibility: hidden">
-<div id="divFloatLeft" style="position: absolute; visibility: visible">
-<a target="_blank" href="http://poster.joywar.com/register?tpl=goddness&amp;pn=3&amp;sp=204&amp;ss=skin&amp;ts=">
-<img border="0" src="http://kissmanga.com/ads/sideskins/dec/side4/L.jpg"></a>
-</div>
-<div id="divFloatRight" style="position: absolute; visibility: visible">
-<a target="_blank" href="http://poster.joywar.com/register?tpl=goddness&amp;pn=3&amp;sp=204&amp;ss=skin&amp;ts=">
-<img border="0" src="http://kissmanga.com/ads/sideskins/dec/side4/R.jpg"></a>
-</div>
-</div>
+ 
 <script type="text/javascript">
-    function DoAdsPosition() {
-        var browserWidth = $(window).width();
-        var webWidth = 1000;
-        var bannerWidth = 336;
-        var blankWidth = (browserWidth - webWidth) / 2;
-        var margin = 15;
+    if(!window.BB_ind) { BB_ind = 0; }
+    if(!window.BB_r) { BB_r = Math.floor(Math.random()*1000000000)}
+    BB_ind++;
 
-        $('#divFloatLeft').css('left', browserWidth - webWidth - blankWidth - bannerWidth - margin);
-        $('#divFloatLeft').show();
+    window.BB_skin = {
+        centerWidth: 1000,
+        centerDomId: '',
+        deferLoading: false,
+        adjustSkinOnDynamicCenter: true,
+        leftOffset: 0,
+        rightOffset: 0,
+        fixed: false,
+        topPos: 220,
+        zIndex: 0,
+        leftFrameId: '',
+        rightFrameId: '',
 
-        $('#divFloatRight').css('right', browserWidth - webWidth - blankWidth - bannerWidth - margin);
-        $('#divFloatRight').show();
-    }
+        //DO NOT CHANGE BELOW
+        pl: 22,
+        index: BB_ind
+    };
 
-    DoAdsPosition();
-    $(window).resize(function () {
-        DoAdsPosition();
-    });
 </script>
+<script type="text/javascript" async="" src="//st.bebi.com/bebi_v3.js"></script>
+ 
 </div>
 <div id="footer">
 <div id="footcontainer" style="position: relative">
 <p>
 From 2011 - 2014 <a href="http://kissmanga.com">KissManga.com</a>. Copyrights and trademarks for the manga, and other promotional materials are held by their respective owners and their use is allowed under the fair use clause of the Copyright Law.
-<a href="/Message/PrivacyPolicy">Privacy Policy</a>&nbsp;|&nbsp;<a href="http://kisscartoon.me/">Watch cartoons online</a>
+<a href="/Message/PrivacyPolicy">Privacy Policy</a>&nbsp;|&nbsp;<a href="http://kisscartoon.me/">Watch cartoons online</a> | <a target="_blank" href="http://odddaily.com/">Odd News</a>
 &nbsp;&nbsp;</p>
 <div style="position: absolute; left: 200px; top: 20px">
 </div>
