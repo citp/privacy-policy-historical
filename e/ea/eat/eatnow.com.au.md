@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eatnow.com.au privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201035525id_/https%3A//www.eatnow.com.au/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatnow.com.au privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601121230id_/https%3A//www.eatnow.com.au/info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | eatnow.com.au
 
@@ -82,7 +82,7 @@ We take steps to protect the personal information we hold against loss, unauthor
 
 **5.2** Generally, subject to the exceptions of APP 12.3, we will allow an individual access to the personal information we hold about them within a reasonable time after it is requested. When requesting such access please identify the precise type/s of information requested. 
 
-You may make a request by writing to us at: Privacy Inquiries, EatNow Pty Ltd, 767 Springvale Road, Mulgrave, Victoria 3170 or by email, support@eatnow.com.au. 
+You may make a request by writing to us at: Privacy Inquiries, EatNow Pty Ltd, Level 23, 227 Elizabeth Street, Sydney, NSW 2000 or by email, support@eatnow.com.au. 
 
 **5.3** We take those steps reasonable in the circumstances to ensure that the personal information that we collect, use and disclose is accurate, up to date and complete. Where an individual requests to correct information, we will take reasonable steps to correct the information, having regard to the purpose for which it is held. You may lodge a request to correct personal information in the manner outlined in clause 5.2 above. 
 
