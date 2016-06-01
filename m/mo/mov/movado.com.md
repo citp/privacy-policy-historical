@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movado.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216204855id_/http%3A//www.movado.com/us/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movado.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601025451id_/http%3A//www.movado.com/us/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Movado Privacy Policy | Movado US
 
