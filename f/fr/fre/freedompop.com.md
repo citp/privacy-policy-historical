@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the freedompop.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330084554id_/http%3A//www.freedompop.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedompop.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601172843id_/http%3A//www.freedompop.com/privacy.htm) for the most accurate reproduction.*
 
 # Free Wireless Internet | Free Internet | 4G Wireless Internet - FreedomPop
 
 ## Privacy Policy
 
-**Last Revised: August 27, 2012**
+**Last Revised: June 27, 2013**
 
 This Privacy Policy (" **Policy** ") explains how information about you is collected, used and disclosed by FreedomPop and its subsidiaries and affiliates (" **FreedomPop** ," " **we** " or " **us** "). This Policy applies to all of the websites (including www.freedompop.com) (the " **Site** "), subdomains, products, applications (including mobile applications and applications and pages operated by FreedomPop and available on social networking sites and other platforms and our downloadable products) and services offered by FreedomPop (collectively, the " **Services** "). We value your privacy.
 
