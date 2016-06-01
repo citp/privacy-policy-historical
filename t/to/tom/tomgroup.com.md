@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomgroup.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126040234id_/http%3A//www.tomgroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomgroup.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601230550id_/http%3A//www.tomgroup.com/privacy-policy) for the most accurate reproduction.*
 
 # TOM Group - Privacy Policy
 
@@ -50,8 +50,8 @@ Access or correction requests can be made by sending the request in writing to t
 
 Personal Data Officer,  
 TOM Group Limited,  
-48/F, The Center,  
-99 Queen's Road Central,  
+Room 1601-05, China Resources Building,  
+26 Harbour Road, Wanchai,  
 Hong Kong
 
 Fax No.: (852) 2186 7711  
