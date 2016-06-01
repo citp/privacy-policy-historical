@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yourfreeporn.us privacy policy that was archived on 2015-11-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151116151815id_/http%3A//www.yourfreeporn.tv/static/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yourfreeporn.us privacy policy that was archived on 2016-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160602003628id_/http%3A//www.yourfreeporn.tv/static/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<meta charset="UTF-8">
@@ -26,6 +26,7 @@
 	<![endif]-->
 	<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script type="text/javascript" src="/templates/frontend/purple/js/jquery.min.js"></script>
 	<script type="text/javascript" src="/templates/frontend/purple/js/jquery.lazyload.min.js"></script>
+	<script type="text/javascript" src="/templates/frontend/purple/js/jquery.countdown.min.js"></script>
 	<script type="text/javascript" src="/templates/frontend/purple/js/upgrade_ticks.js?v=0.3"></script>
 	<script type="text/javascript">var base_url = "http://www.yourfreeporn.tv";</script>
 	<script type="text/javascript">var announcement_id = "";</script>
@@ -42,7 +43,7 @@
 	
 	<script type="text/javascript">
 		function ll() {
-			$("img.lazy").show().lazyload({
+			$("img.lazy").lazyload({
 			    effect: "fadeIn",
 			    skip_invisible : false,
 			    placeholder: relative_tpl + "/images/lazy.png"
@@ -123,8 +124,11 @@
 	
 
 
+
+    
+
 <div class="inactive_premium_message_wrapper">
-	<div style="display: none" class="inactive_premium_message"><img src="http://www.yourfreeporn.tv/favicon.ico"> <!-- error here --></div>
+	<div style="display: none" class="inactive_premium_message"><img src="http://www.yourfreeporn.tv/favicon.ico"> <!-- --></div>
 </div><section id="static_page_wrapper">
 
     <h2 class="title"><strong>PRIVACY</strong></h2>
@@ -175,10 +179,10 @@
 </section>	<footer>
 		<div class="stats">
 						<div class="title">VIDEO OVERVIEW</div>
-			<span>All Videos: <a href="/videos?type=public"><font style="color:#27AAE1;text-decoration:underline;">60209</font></a></span>
-			<span>Free Videos: <a href="/free-videos"><font style="color:#3CD065;text-decoration:underline;">29509</font></a></span>
-			<span>★ Premium Videos: <a href="/premium-videos"><font style="color:#F76014;text-decoration:underline;">30738</font></a></span>
-			
+			<span>All Videos: <a href="/videos?type=public"><font style="color:#27AAE1;text-decoration:underline;">65039</font></a></span>
+			<span>Free Videos: <a href="/free-videos"><font style="color:#3CD065;text-decoration:underline;">30891</font></a></span>
+			<span style="border: none;">★ Premium Videos: <a href="/premium-videos"><font style="color:#F76014;text-decoration:underline;">34186</font></a></span>
+			<span id="new_videos_today" style="display: none;">New Videos Today: <a href="/videos"><font style="color:#FFA500;text-decoration:underline;">0</font></a></span>
 		</div>
 
 				<div class="pitchJoin">
@@ -200,12 +204,12 @@
 
 			
 			
-			<p style="  border-top: dashed 1px;margin-top: 1em;border-color: rgb(202, 202, 202);">Copyright © 2008-2015 YourFreePorn.tv.</p>
+			<p style="  border-top: dashed 1px;margin-top: 1em;border-color: rgb(202, 202, 202);">Copyright © 2008-2016 YourFreePorn.tv.</p>
 			
 			<p>Please visit <a href="http://epoch.com">EPOCH.COM</a>, our authorized sales agent.</p>			
 
 			<p>
-				<a href="/static/faq">Contact Us</a> ·
+				<a style="color:#1E772A" href="/static/faq">Contact Us 24/7</a> ·
 				<a href="/static/terms">Terms and Conditions</a> ·
 				<a href="/static/privacy">Privacy Policy</a> ·
 				<a href="/static/dmca">DMCA</a> ·
@@ -260,18 +264,21 @@
 	<script type="text/javascript">
 		$(document).ready(function() {
 			if(!is_mobile() && $(window).width() > 640){
-				setTimeout(function(){
-					if($('#player video').get(0)){
+				if($('#player').get(0)){
+					setTimeout(function(){
 						var vid = document.getElementsByTagName("video");
 						vid = vid[0]
-						vid.addEventListener('loadeddata',ll,false);
+						// vid.addEventListener('canplay',ll,false);
+						// vid.addEventListener('loadeddata',ll,false);
+						ll();
 						setTimeout(function(){
 							vid.addEventListener('error',ll,false);
+							//vid.removeEventListener('canplay',ll,false);
 						}, 3000);
-					}else{
-						ll();
-					}
-				}, 1000)
+					}, 2000);
+				}else{
+					ll();
+				}
 			}else{
 				setTimeout(function(){
 					function thumbsLoad(){
@@ -293,7 +300,7 @@
 					}else{
 						thumbsLoad();
 					}
-				}, 1000)
+				}, 1000);
 			}
 		});
 	</script>
