@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifeintwo.com privacy policy that was archived on 2015-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151004060604id_/http%3A//www.lifeintwo.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeintwo.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601033452id_/http%3A//www.lifeintwo.com/info/privacy) for the most accurate reproduction.*
 
 # Life in Two
 
@@ -8,6 +8,8 @@ Privacy
 
 LIFEINTWO respectes the European, Spanish and Swiss laws in force regarding the protection of privacy and personal data processing. Some information, signs or content (photographs or personal information) that Members can enter, under their own responsibility, might reveal their racial and ethnic origin, religious or philosophical beliefs, political opinions, membership to political parties, trade unions, religious, philosophical, political, trade union associations or organizations as well as personal information such as their health conditions or sexual life. By entering such optional information at their own free will, the Member expresses consent to LIFEINTWO to process such "sensitive" data and takes the whole responsibility.  
 Furthermore, all the collected personal information (including, by way of example and not limited to: email address, telephone and mobile number, text ads, user's interests and how the user uses the Service), will be used both for internal communications, regarding the services offered by LIFEINTWO for commercial communications, and marketing communications by LIFEINTWO’s partner companies.
+
+Members can send an e-mail to <http://www.help-tkd.com/it_IT/contact/index/pid/21> for matters concerning privacy protection. The user must specify his/her nickname, password and e-mail address to access or request access to information about him/her, to make changes, delete it or prohibit LIFEINTWO from using it in a certain way, following the directions given in article 1.5 ("Person in charge of the personal data processing of") During sign-up or at a subsequent moment at LIFEINTWO site, Members can request to receive and, later on, freely ask to not receive anymore the LIFEINTWO newsletter and/or promotional offers sent by LIFEINTWO and/or its partners by email and/or to their mobile phone. 
 
 ## 1.1. Type of the information collectedRead >>
 
