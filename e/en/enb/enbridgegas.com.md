@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the enbridgegas.com privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918235854id_/https%3A//www.enbridgegas.com/footer/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enbridgegas.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601211130id_/https%3A//www.enbridgegas.com/footer/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Enbridge Gas Distribution
 
 ## Enbridge Gas Distribution Privacy Policy
 
-Effective January 1, 2004; date of last revision December 20, 2013
+Effective January 1, 2004; date of last revision June 1, 2016
 
 ### Our Commitment
 
@@ -88,8 +88,7 @@ If you wish to access your personal information, change your consent to the ways
 
   * **By Mail:** Enbridge Gas Distribution P.O. Box 650, Scarborough, Ontario, M1K 5E3
   * **By Email:**  [privacy.office@enbridge.com](mailto:privacy.office@enbridge.com)
-  * **By Telephone:** see the billing number on the front of your bill.
-  * **By Facsimile:** 1–888–711–1211
+  * **By Telephone:**  416-495-5554 (local) or 1-888-444-4003 (toll free)
 
 
 
