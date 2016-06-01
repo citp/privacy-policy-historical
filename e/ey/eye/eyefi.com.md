@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the eyefi.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025122539id_/http%3A//www.eyefi.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyefi.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601140523id_/http%3A//www.eyefi.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Eyefi
 
 [Eyefi](https://web.archive.org/)
 
-Last Revised April 8, 2014
+Last Revised Nov. 15, 2015
 
 Eye-Fi, Inc. ("Eyefi") is committed to protecting your privacy and ensuring you have a positive experience on our website and in using our products and services (collectively "Products"). This policy covers the Eyefi websites and applications and is applicable worldwide. This policy outlines our personal information handling practices for both online and offline data. If you give us personal information, we will treat it according to this policy. This policy may be updated from time to time and our website will indicate when the policy has been updated. You may access the current version at any time by clicking on the "Privacy Policy" link at the footer on our website. References to Eyefi in this privacy policy include Eyefi subsidiaries and affiliates.
 
@@ -27,6 +27,40 @@ Described below are situations in which personal information is collected and th
 
 
 When you access your Eyefi account and utilize Eyefi services, Eyefi automatically records certain information about your use, such as account activity, data displayed or clicked on, and other information including browser type, IP address, date and time of access, cookie ID, and referrer URL. Some of this information collected, such as IP address and the contents of certain cookies, may include personal information.
+
+## Automated Collection of Information
+
+### Analytics information:
+
+We use third-party analytics tools to help us measure traffic and usage trends for our Products. These tools collect information sent by your device or our Products, including the web pages you visit, add-ons, and other information that assists us in improving the Products. We collect and use this analytics information with analytics information from other Users so that it cannot reasonably be used to identify any particular individual User.
+
+### Log file information:
+
+Log file information is automatically reported by your browser each time you make a request to access (i.e., visit) a web page or app. It can also be provided when the content of the webpage or app is downloaded to your browser or device.
+
+When you use our Products, our servers automatically record certain log file information, including your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Products, domain names, landing pages, pages viewed, and other such information. We may also collect similar information from emails sent to our Users which then help us track which emails are opened and which links are clicked by recipients. The information allows for more accurate reporting and improvement of the Products.
+
+### Device identifiers:
+
+When you use a mobile device like a tablet or phone to access our Products, we may access, collect, monitor, store on your device, and/or remotely store one or more "device identifiers." Device identifiers are small data files or similar data structures stored on or associated with your mobile device, which uniquely identify your mobile device. A device identifier may be data stored in connection with the device hardware, data stored in connection with the device's operating system or other software, or data sent to the device by the Products.
+
+A device identifier may deliver information to us or to a third party partner about how you browse and use the Products and may help us or others provide reports or personalized content and ads. Some features of the Products may not function properly if use or availability of device identifiers is impaired or disabled.
+
+### Metadata:
+
+Metadata is usually technical data that is associated with Content. For example, Metadata can describe how, when and by whom a piece of Content was collected and how that content is formatted.
+
+Users can add or may have Metadata added to their Content (e.g., to mark keywords when you post a photo), geotag (e.g., to mark your location to a photo), comments or other data. This makes your Content more searchable by others and more interactive. If you geotag your photo or tag your photo using other's APIs then, your latitude and longitude will be stored with the photo and searchable (e.g., through a location or map feature) if your photo is made public by you.
+
+### Cookies:
+
+Like many websites, Eyefi uses technologies, such as cookies and web beacons, which allow us to make your visit to our website easier, more efficient and more valuable by providing you with a customized experience and recognizing you when you return.
+
+A cookie cannot read personal data off your hard disk or read cookie files created by other sites; indeed, the only Personal Information a cookie can contain is information you supply yourself. Accepting the cookies used on our website may give us access to information about your browsing behavior, which we may use to personalize your experience and track user traffic patterns, and to merge this info when you register. We do this in order to determine the usefulness of our website information to our users and to see how effective our navigational structure is in helping users reach that information.
+
+In addition, Eyefi uses web beacons in conjunction with cookies to understand user behavior. Web beacons are simply a convenient way of gathering basic statistics and managing cookies, and do not give away any extra information from your computer. Turning off your browser's cookies will prevent web beacons from tracking your specific activity.
+
+If you prefer not to receive cookies while browsing our website or via HTML-formatted emails, you can set your browser to warn you before it accepts cookies or refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser. Disabling cookies on your computer may cause Eyefi web pages to be inaccessible, inoperable or may disable some features. For additional information about cookies and other tracking technologies, including instructions for blocking their use, see http://privacy.getnetwise.org/browsing/tools.
 
 ## Uses of your Personal Information
 
@@ -91,21 +125,22 @@ We may collect and possibly share Personal Information and any other additional 
 
 We will ask for your consent before we use or share your information for any purpose other than the reason you provided it or as otherwise provided by this policy. In order to let us know your preferences, we will require an action on your part, such as checking the appropriate option, to indicate your consent.
 
+### Sharing profile information on OKDOTHIS:
+
+  * Information you provide in your OKDOTHIS profile is accessible and searchable by other OKDOTHIS users. By using the OKDOTHIS application and entering information into your profile, you consent to the disclosure of such information to other users.
+  * If you choose, you can use our locate other users with OKDOTHIS accounts either through (i) your contacts list, (ii) third-party social media sites or (iii) through a search of names and usernames on OKDOTHIS.
+  * If you choose to find other users through your device's contacts list, then OKDOTHIS will access your contacts list to determine whether or not someone associated with your contact is using OKDOTHIS.
+  * If you choose to find other users through a third-party social media site, then you will be prompted to set up a link to the third-party service and you understand that any information that such service may provide to us will be governed by this Privacy Policy.
+  * If you choose to find other users through a search of names or usernames on OKDOTHIS then simply type a name to search and we will perform a search on our database of users.
+  * We have functionality that allows you to invite someone to OKDOTHIS. In using this feature, you may select a person directly from the contacts list on your device and send a text or email from your personal account. You understand and agree that you are responsible for any charges that apply to communications sent from your device, and because this invitation is coming directly from your personal account, OKDOTHIS does not have access to or control this communication.
+
+
+
 ## Security of your Personal Information
 
 Eyefi is committed to protecting the Personal Information you share with us. We utilize a combination of industry-standard security technologies, procedures, and organizational measures to help protect your Personal Information from unauthorized access, use or disclosure.
 
 While we strive to protect your Personal Information, we cannot ensure the security of the information you transmit over the Internet. We recommend you to take every precaution in protecting your Personal Information when you are on the Internet. For example, do not use the same password for multiple web sites, change your passwords often, use a combination of letters and numbers when creating passwords, and make sure you use a secure browser.
-
-## Cookies
-
-Like many websites, Eyefi uses technologies, such as cookies and web beacons, which allow us to make your visit to our website easier, more efficient and more valuable by providing you with a customized experience and recognizing you when you return.
-
-A cookie cannot read personal data off your hard disk or read cookie files created by other sites; indeed, the only Personal Information a cookie can contain is information you supply yourself. Accepting the cookies used on our website may give us access to information about your browsing behavior, which we may use to personalize your experience and track user traffic patterns, and to merge this info when you register. We do this in order to determine the usefulness of our website information to our users and to see how effective our navigational structure is in helping users reach that information.
-
-In addition, Eyefi uses web beacons in conjunction with cookies to understand user behavior. Web beacons are simply a convenient way of gathering basic statistics and managing cookies, and do not give away any extra information from your computer. Turning off your browser's cookies will prevent web beacons from tracking your specific activity.
-
-If you prefer not to receive cookies while browsing our website or via HTML-formatted emails, you can set your browser to warn you before it accepts cookies or refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser. Disabling cookies on your computer may cause Eyefi web pages to be inaccessible, inoperable or may disable some features. For additional information about cookies and other tracking technologies, including instructions for blocking their use, see http://privacy.getnetwise.org/browsing/tools.
 
 ## Linked websites and third party services
 
