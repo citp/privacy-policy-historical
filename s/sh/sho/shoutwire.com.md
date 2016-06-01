@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shoutwire.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207042005id_/http%3A//www.shoutwire.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoutwire.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602015447id_/http%3A//www.shoutwire.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy | Shoutwire
 
 ##  Overall privacy statement 
 
@@ -19,7 +19,7 @@ We will make your personally identifiable information available to other compani
   * We have your consent to share the information 
   * We have engaged companies to work with us or on our behalf to provide a product or service that you have requested 
   * You use co-branded services. When you use a co-branded service within our network of sites you grant us permission to pass your registration information back to that service partner. Their use of your information is subject to their applicable privacy policies. 
-  * We respond to subpoenas, court orders, or legal process; or we believe that your actions violate applicable laws, .com [Terms of Service](http://www.shoutwire.com/terms-of-service.php) or any usage guidelines for specific products or services, or threaten the rights, property, or safety of our company, our users, or others 
+  * We respond to subpoenas, court orders, or legal process; or we believe that your actions violate applicable laws, shoutwire.com [Terms of Service](http://www.shoutwire.com/terms-of-service.php) or any usage guidelines for specific products or services, or threaten the rights, property, or safety of our company, our users, or others 
 
 
 
