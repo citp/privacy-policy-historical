@@ -1,94 +1,57 @@
-> *The following text is extracted and transformed from the stockpair.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118125437id_/https%3A//www.stockpair.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockpair.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601210318id_/https%3A//www.stockpair.com/policy/privacy) for the most accurate reproduction.*
 
-# Stockpair - Privacy Policy
+# Privacy Policy - Stockpair
 
-Your privacy is important to us and Stockpair is committed to ensuring that your privacy is protected. Should we ask you to provide certain information required to using our website, you can be assured that it will only be used in accordance with this privacy statement.
+Note:The English version of this agreement is the governing version and shall prevail whenever there is any discrepancy between the English version and the other versions.
 
-We may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are satisfied with any changes. This policy is effective 20/Feb/2011.
+Nextrade Worldwide Limited, and its related entities hereafter “the Company”, is responsible for the protection of the privacy and the safeguarding of clients’ personal and financial information. By opening a trading account with the Company, the client hereby gives its consent to such collection, processing, storage and use of personal information by the Company as explained below.
 
-### The Information We Collect
+### The collection of personal information
 
-The type of personal information we may collect can include (but is not limited to) name, address, date of birth, contact details, financial statements and other required details. 
+The Company collects the necessary information required to open a client’s trading account, perform transactions and safeguard the clients’ assets and privacy and to provide clients with the services they require. In this respect, the Company gathers information from clients and may, in certain circumstances, gather information from banks and/or credit agencies, and/or clearing agencies and/or other sources which will help the Company to construct the clients’ profile based on their requirements and preferences in order to provide its services effectively.
 
-We obtain most of the information directly from our customers through application or other forms, and from maintaining records of information provided in the course of ongoing customer service. We may also obtain information from other sources. 
+The information the Company collects includes information required to communicate with and identify its clients. The Company may also collect certain demographic information, including, birth date, education, occupation, etc. The Company also assesses trading related information.
 
-We may ask for other information on a voluntarily basis from time to time (for example, through market research, surveys or special offers). This will enable us to improve our service or consider the wider needs of our customers and potential customers. 
+### Usage of personal information
 
-If you choose not to provide the information we request for a specific product or service, we may not be able to provide you with the requested product or service.
+The Company uses clients’ personal information only as required to provide quality service and security to its clients. This information helps the Company to improve its services, customize browsing experience and enables it to inform its clients of additional products, services or promotions relevant to clients and in this respect the clients hereby consent to the usage of this data for such purposes.
 
-### What We Do with the Information We Gather
+If the clients do not want to receive information of this nature for any reason, they can contact the Company at the following address: [support@stockpair.com](mailto:support@stockpair.com)
 
-We require personal information to understand your needs and provide you with a better service, and in particular for the following reasons:
+### Protection of personal information
 
-  * Internal record keeping.
+Any personal information provided by the client to the Company will be treated as confidential and shared only within the Company and its affiliates and will not be disclosed to any third party except under any regulatory or legal proceedings. In case such disclosure is required to be made by law or any regulatory authority, it will be made on a ‘need-to-know’ basis, unless otherwise instructed by the regulatory authority. Under such circumstances, the Company shall expressly inform the third party regarding the confidential nature of the information.
 
-  * Adherence with AML (Anti Money Laundering) and any other relevant regulations.
+### Affiliates and Partners
 
-  * For establishing and managing your account.
+The Company may share information with affiliates in the event such information is reasonably required by such affiliate in order to provide the products or services to its clients. The Company may share information with partners, affiliates and associates in order to offer additional similar products and services that meet clients’ needs and which are delivered in a manner that is useful and relevant only where clients have authorized the Company to do so.
 
-  * Reviewing your ongoing needs.
+### Third parties
 
-  * To keep you updated while you are a customer, with relation to matters such as contracts you have traded and account activities with Stockpair.
+The Company does not sell, license, lease or otherwise disclose clients’ personal information to third parties, except as described in this Privacy Policy.
 
-  * To improve our products and services.
+The Company reserves the right to disclose personal information to third parties where required by Law, regulatory and other government authority. The Company may also disclose information as necessary to credit reporting or collection agencies as reasonably required in order to provide the services to Company and/or its clients.
 
-  * To send promotional emails, special offers or other information and opportunities which we think may be of interest to you.
+In addition, the Company may engage third parties to help carry out certain internal functions such as account processing, fulfillment, client service, client satisfaction surveys or other data collection activities relevant to its business. Use of the shared information is strictly limited to the performance of the above and is not permitted for any other purpose. All third parties with which the Company shares personal information are required to protect such personal information in accordance with all relevant legislation and in a manner similar to the way the Company protects the same. The Company will not share personal information with third parties which it considers will not provide its clients the required level of protection.
 
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email or phone. We may use the information to customise the website according to your interests.
+In cases where clients have been introduced by a Business Introducer, such Business Introducer may have access to clients’ information. Hence, clients hereby consent to the sharing of information with such Business Introducer.
 
+We may sell, transfer or otherwise share some or all of our assets, including among others your Personal Information and Log Data, in connection with a merger, acquisition, reorganization or sale of all or substantially all of our shares or assets, or in the event of our bankruptcy.
 
+### Contact Clients
 
+From time to time the Company may contact clients whether by phone or email for the purpose of offering them further information about the Company, binary options trading or financial market trading. In addition the Company may, on occasion, seek to contact clients, whether by phone or by email, for the purpose of informing them of unique promotional offerings provided by the Company for the client. Clients consent to the receipt of such contact when they consent to our terms and conditions of use when registering with the Company. Any person wishing to opt out of further contact with the Company at any time whatsoever is entitled to do so, simply by contacting the Company whether by phone or email and requesting that no further contact on behalf of the Company be made.
 
-### Security
+### Restriction of responsibility and External Websites
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+The Company is not responsible for the privacy policies or the content of sites to which <http://www.stockpair.com/> links and has no control of the use or protection of information provided by the clients or collected by those sites. Whenever a client elects to link to a co-branded web site or to a linked web site, the client may be asked to provide registration or other personal information. Please note that such information is recorded by a third party and will be governed by the privacy policy of that third party.
 
-### Cookies
+### Use of "COOKIES"
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
+The Company uses cookies to secure clients’ trading activities and to enhance the performance of the web site. Cookies used by the Company do not contain personal information or other sensitive information.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
+The Company may share web site usage statistics with reputable advertising companies and with its affiliated marketing companies. It is noted that the information collected by such advertising companies is not personally identifiable. To administer and improve the web site, the Company may use third parties to track and analyze usage and statistical volume information. The third party may use cookies to track behaviour and may set cookies on behalf of the Company. These cookies do not contain any personally identifiable information.
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
+### Privacy Policy Updates
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
-
-### Controlling Your Personal Information
-
-You may choose to restrict the collection or use of your personal information in the following ways:
-
-  * When you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes.
-
-  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by emailing us at [support@stockpair.com](mailto:support@stockpair.com)
-
-
-
-
-We will not disclose any private or otherwise confidential information in regards to our clients and former clients, but in order to comply with financial or legal requirements, give a better service and safeguard the clients information we might disclose information to:
-
-  * other companies within our group who provide financial and other services
-
-  * service providers and specialist advisors to us who have been contracted to provide us with administrative, financial, insurance, research or other services
-
-  * introducing brokers with whom we have a mutual relationship
-
-  * credit providers, courts, tribunals and regulatory authorities as agreed or authorised by law
-
-  * credit reporting or reference agencies for verification purposes
-
-  * anyone authorised by an individual, as specified by that individual or the contract
-
-
-
-
-We may use your personal information to send you promotional information about third parties which we think you may find interesting. 
-
-You may request a copy of any personal information which we hold about you under the Data Protection Act 1998. 
-
-If you believe that any information we are holding of you is incorrect or incomplete, please email us as soon as possible, at [support@stockpair.com](mailto:support@stockpair.com). 
-
-We will promptly correct any information found to be incorrect.
-
-### Link to Third Party Websites
-
-This website may have links to external third party websites that may benefit the user. Please note, however, that third party websites are not covered by our privacy policy and these sites are not subject to our privacy standards and procedures.
+The Company may update this Privacy Policy from time to time. In the event that the Company materially changes this Policy including how it collects, processes or uses clients’ personal information, the revised Privacy Policy will be uploaded in the Company’s website. In this respect, the clients hereby agree to accept posting of a revised Privacy Policy electronically on the website as the actual notice of the Company to its clients. Any dispute over the Company’s Privacy Policy is subject to this notice and the Client Agreement. The Company encourages its clients to periodically review this Privacy Policy so that they are always aware of what information the Company collects, how it uses it and to whom it may disclose it, in accordance with the provisions of this Policy.
