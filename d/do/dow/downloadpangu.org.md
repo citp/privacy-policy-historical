@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadpangu.org privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222022152id_/http%3A//www.downloadpangu.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadpangu.org privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601032015id_/http%3A//www.downloadpangu.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Download Pangu
 
