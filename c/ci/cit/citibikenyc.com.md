@@ -1,50 +1,44 @@
-> *The following text is extracted and transformed from the citibikenyc.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208025311id_/http%3A//www.citibikenyc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citibikenyc.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601113526id_/http%3A//www.citibikenyc.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Citi Bike NYC
+# Citi Bike Privacy Policy | Citi Bike NYC
 
-**Hey Members!** Share the bike love with a friend and you'll both get a free month when they sign up for a new annual Citi Bike membership. [Refer Now!](http://refer.citibikenyc.com/nov)
-
-Print this page
-
-**
-
-## Motivate: Privacy Notice
-
-**
-
- **Effective Date: October 1, 2015**
-
-We at Motivate International, Inc., along with our subsidiaries and affiliates (“Motivate”), respect your concerns about privacy. Motivate operates Citi Bike in New York City and Jersey City. This Privacy Notice applies to (i) the websites and apps listed in Appendix A (collectively, the “Sites”), (ii) the on-street kiosks associated with the Citi Bike bicycle sharing programs, (iii) our customer call center and (iii) your use of or other interaction with our bicycle sharing programs (the “Service”).
+**Effective Date: October 1, 2015**  
+We at Motivate International Inc., along with our subsidiaries and affiliates (“Motivate”), respect your concerns about privacy. Motivate operates Citi Bike in New York City and Jersey City. This Privacy Notice applies to (i) the websites and apps listed in Appendix A (collectively, the “Sites”), (ii) the on-street kiosks associated with the Citi Bike bicycle sharing programs, (iii) our customer call center and (iii) your use of or other interaction with our bicycle sharing programs (the “Service”).
 
 This Privacy Notice describes the types of personal information we collect about consumers, how we use the information, with whom we share it and the choices available to you regarding our use of the information. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices.
 
-Click on one of the links below to jump to the listed section:
+**Click on one of the links below to jump to the listed section:**
 
-* Information We Collect
-* _Information We Collect By Automated Means_
-* How We Use the Information We Collect
-* Information We Share
-* Your Choices
-* How We Protect Personal Information
-* Links To Third-Party Websites, Apps and Services
-* Updates To Our Privacy Notice
-* How To Contact Us
-  
-**Information We Collect**
+  * Information We Collect
+  *  _Information We Collect By Automated Means_
+  * How We Use the Information We Collect
+  * Information We Share
+  * Your Choices
+  * How We Protect Personal Information
+  * Links To Third-Party Websites, Apps and Services
+  * Updates To Our Privacy Notice
+  * How To Contact Us
+
+
+
+**Information We Collect**  
+
 
 The types of personal information we may collect include:
 
-* Contact information (such as name, postal address, email address and telephone number);
-* date of birth;
-* gender;
-* login credentials;
-* payment information (such as your payment card number, expiration date, authorization number or security code, delivery address and billing address);
-* your geographic location, in connection with your use of the Sites or the Service;
-* photographs, comments and other content you provide.
+  * Contact information (such as name, postal address, email address and telephone number);
+  * date of birth;
+  * gender;
+  * login credentials;
+  * payment information (such as your payment card number, expiration date, authorization number or security code, delivery address and billing address);
+  * your geographic location, in connection with your use of the Sites or the Service;
+  * photographs, comments and other content you provide.
+
+
 
 In addition, when you use the Service, we may obtain system data, including information such as your geographic location, trip duration, start and stop time and date, start and end station name, station ID number, station latitude and longitude, bicycle ID number and user type (such as annual member).
 
-_Information We Collect By Automated Means_
+_**Information We Collect By Automated Means**_
 
 In addition, when you visit our Sites, we may collect certain information by automated means, such as cookies, web beacons and web server logs. The information we collect in this manner includes IP address, unique device identifier, browser characteristics, device characteristics, operating system, language preferences, referring URLs, information on actions taken on our Sites, and dates and times of visits to the Sites. A “cookie” is a file that websites send to a visitor’s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. A “web beacon” also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server. Through these automated collection methods, we obtain “clickstream data,” which is a log of the links and other content on which a visitor clicks while browsing the Sites. As the visitor clicks through the Sites, a record of the action may be collected and stored. We may link certain data elements we have collected through automated means, such as your browser information, with other information we have obtained about you to let us know, for example, whether you have opened an email we sent to you. Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies. Please note, however, that without cookies you may not be able to use all of the features of our Sites. When you use the Sites, neither we nor any third parties collect personal information about your online activities, over time and across third-party websites. Our Sites are not designed to respond to “do not track” signals from browsers.
 
@@ -56,18 +50,20 @@ The providers of third-party apps, tools, widgets and plug-ins on our Sites, suc
 
 We may use the information described above to:
 
-* Provide products and services to you, such as to allow you to obtain a bicycle
-* Create and manage your account;
-* Process your payments;
-* Send you promotional materials and other communications;
-* Communicate with you about, and administer your participation in, special events, contests, sweepstakes, programs, offers, surveys and market research;
-* Promote government or bicycling-related services and programs;
-* Respond to your inquiries;
-* Operate, evaluate and improve our business (including developing new products and services; monitoring, enhancing and improving our systems and services; managing our communications; analyzing our products and customer base; performing data analytics; and performing accounting, auditing and other internal functions);
-* Verify your identity;
-* Transition from one operator to another (for example, if Motivate ceases to operate the Sites or the Service);
-* Protect against, identify and prevent fraud and other unlawful activity, claims and other liabilities; and
-* Comply with and enforce applicable legal requirements, relevant industry standards, contractual obligations and our policies.
+  * Comply with and enforce applicable legal requirements, relevant industry standards, contractual obligations and our policies.
+  * Protect against, identify and prevent fraud and other unlawful activity, claims and other liabilities; and
+  * Transition from one operator to another (for example, if Motivate ceases to operate the Sites or the Service);
+  * Verify your identity;
+  * Operate, evaluate and improve our business (including developing new products and services; monitoring, enhancing and improving our systems and services; managing our communications; analyzing our products and customer base; performing data analytics; and performing accounting, auditing and other internal functions);
+  * Respond to your inquiries;
+  * Promote government or bicycling-related services and programs;
+  * Communicate with you about, and administer your participation in, special events, contests, sweepstakes, programs, offers, surveys and market research;
+  * Send you promotional materials and other communications;
+  * Process your payments;
+  * Create and manage your account;
+  * Provide products and services to you, such as to allow you to obtain a bicycle
+
+
 
 In addition, we use information collected through cookies, web beacons, pixels, web server logs and other automated means for purposes such as (i) customizing our users’ visits to our Sites, (ii) delivering content tailored to our users’ interests and the manner in which our users browse our Sites, and (iii) managing our Sites and other aspects of our business.
 
@@ -101,18 +97,16 @@ This Privacy Notice may be updated periodically and without prior notice to you 
 
 If you would like us to update information we have about you or if you have any questions or comments about this Privacy Notice, please contact us by email at [customerservice@citibikenyc.com](mailto:customerservice@citibikenyc.com "mailto:customerservice@citibikenyc.com") subject line Privacy Policy. You also may write to:
 
-Motivate International, Inc.  
+Motivate International Inc.  
 Attention: Legal Department  
 5202 Third Avenue  
-Brooklyn, NY 11232  
-  
+Brooklyn, NY 11232
+
 **Appendix A**
 
-Websites
+Websites  
+[www.citibikenyc.com  
+](https://web.archive.org/web/20160601113526id_/http%3A//www.citibikenyc.com/%7Bsite_url\('http://www.citibikenyc.com/'\)%7D "http://www.citibikenyc.com/")[www.citibikejc.com](https://web.archive.org/web/20160601113526id_/http%3A//www.citibikenyc.com/%7Bsite_url\('http://www.citibikejc.com/'\)%7D "http://www.citibikejc.com/")
 
-[www.citibikenyc.com](http://www.citibikenyc.com/ "http://www.citibikenyc.com/")  
-[www.citibikejc.com](http://www.citibikejc.com/ "http://www.citibikejc.com/")
-
-Mobile Apps
-
-[The Official Citi Bike App](http://www.citibikenyc.com/get-the-app "http://www.citibikenyc.com/get-the-app")
+Mobile Apps  
+[The Official Citi Bike App](https://web.archive.org/web/20160601113526id_/http%3A//www.citibikenyc.com/%7Bsite_url\('http://www.citibikenyc.com/get-the-app'\)%7D "http://www.citibikenyc.com/get-the-app")
