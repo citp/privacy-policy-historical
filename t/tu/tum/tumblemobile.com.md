@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the tumblemobile.com privacy policy that was archived on 2015-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150222053858id_/http%3A//www.tumblemobile.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tumblemobile.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602004942id_/http%3A//www.tumblemobile.com/privacy.aspx) for the most accurate reproduction.*
 
 # TumbleBooks - eBooks for eKids!
 
-**TumbleBooks Inc. Privacy Policy**
-
 **Commitment  
-**TumbleBooks Inc. is committed to principles of Internet safety and respect for your privacy. We share this commitment with our affiliate enterprises KidContent Inc., Tumbleweed Press, and 10belowzero.com, all of which subscribe to the same Internet Privacy and Safety Policy, set out below. In fact, one of our earliest publications is _Surfing Safely_ , a story designed to teach children (and adults) about Internet safety. We recommend that users of all ages take a few minutes and view this TumbleBook™ title in our TumbleKids section and heed the advice contained in it.
+**TumbleBooks Inc. is committed to principles of Internet safety and respect for your privacy. We share this commitment with our affiliate enterprises KidContent Inc., Tumbleweed Press, and 10belowzero.com, all of which subscribe to the same Internet Privacy and Safety Policy, set out below. In fact, one of our earliest publications is  _Surfing Safely_ , a story designed to teach children (and adults) about Internet safety. We recommend that users of all ages take a few minutes and view this TumbleBook™ title in our TumbleKids section and heed the advice contained in it. 
 
 **Privacy and Safety Policy  
 **We respect your privacy. As we develop our online activities we will revise our Privacy and Safety Policy to respond to legal and practical requirements and changes in technology. The terms of this Policy form part of the Terms of Use and TumbleReader™ End Users License Agreement that govern this web site and its use.
@@ -29,6 +27,6 @@ We will not sell, rent, trade, share, reveal, or disclose any of your personal i
 
 Children should always ask parents for permission before sending any information about themselves over the Internet. Any personal information we gather from children (16 years of age or younger) may be used for demographic or profile purposes or internal site use analysis and may be shared in aggregate form only.
 
-In accordance with the above principles, we may use Cookies and other user analysis devices
+In accordance with the above principles, we may use Cookies and other user analysis devices.
 
 If you have any questions or comments about this Privacy and Safety Policy, please contact us at [info@tumblebooks.com](mailto:info@tumblebooks.com) or telephone 416-781-4010 and ask for Ron Zevy.
