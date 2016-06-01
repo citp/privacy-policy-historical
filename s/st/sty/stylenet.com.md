@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylenet.com privacy policy that was archived on 2015-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150712235604id_/http%3A//stylenet.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylenet.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601195401id_/http%3A//stylenet.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Salon Design Online! Websites for Salons & Spas, Web Marketing by StyleNet | Mobile Website Design | Increase Page Rank with our SEO Services | Texting Marketing
 
@@ -6,7 +6,7 @@ Our mission is to make it easier, faster and more cost effective for Salon Owner
 
 ### Billing
 
-If at any time you decide to cancel your StyleNet subscription, simply call us at 888-595-0676 or [contact us online](https://web.archive.org/web/20150712235604id_/http%3A//stylenet.com/contact.php) stating your desire to cancel. Upon notification, your subscription and web site will be terminated within 24 hours and there will be no additional charges by StyleNet.
+If at any time you decide to cancel your StyleNet subscription, simply call us at 888-595-0676 or [contact us online](https://web.archive.org/web/20160601195401id_/http%3A//stylenet.com/contact.php) stating your desire to cancel. Upon notification, your subscription and web site will be terminated within 24 hours and there will be no additional charges by StyleNet.
 
 ### Privacy Policy 
 
