@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wishesmessages.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208123502id_/http%3A//wishesmessages.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wishesmessages.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601204436id_/http%3A//wishesmessages.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WishesMessages.com
+# Privacy Policy – WishesMessages.com
 
 WishesMessages.com respects the privacy of its visitors and strives to give users an enjoyable and safe browsing experience. By using the website, you consent to the data and information practices set out in this user friendly privacy policy.
 
