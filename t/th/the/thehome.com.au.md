@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thehome.com.au privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926001416id_/http%3A//thehome.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehome.com.au privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601101527id_/http%3A//thehome.com.au/privacy) for the most accurate reproduction.*
 
-# The Home - privacy
+# Privacy Policy | The Home
 
 TheHome.com.au Privacy Policy
 
