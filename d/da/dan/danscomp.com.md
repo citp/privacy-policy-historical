@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the danscomp.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223033145id_/http%3A//www.danscomp.com/serve/text/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danscomp.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601132149id_/https%3A//www.danscomp.com/serve/text/privacy.htm) for the most accurate reproduction.*
 
 # Privacy at Dan's Comp
 
-  | 
+|   | 
 
 **Disclosure Regarding Collection and Use of Personal Information**  
 Thank you for visiting DANSCOMP.COM. This notice explains our online information collection and use practices and the choices you can make about the way we use and share such information. Please take the time to read and understand this policy so that you can understand how we use your personal information. OUR ONLINE INFORMATION COLLECTION AND USE PRACTICES MAY DIFFER FROM OUR PRACTICES REGARDING INFORMATION OBTAINED OFFLINE. 
