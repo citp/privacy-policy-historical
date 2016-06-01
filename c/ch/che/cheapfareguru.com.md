@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the cheapfareguru.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011012657id_/http%3A//www.cheapfareguru.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapfareguru.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601104112id_/http%3A//www.cheapfareguru.com/privacypolicy.php) for the most accurate reproduction.*
 
 # CheapFareGuru.com Privacy Policy
 
 November 8th, 2008
 
-Please read this Privacy Policy carefully. You can access the Privacy Policy any time at [http://www.CheapFareGuru.com/privacypolicy.php](https://web.archive.org/web/20151011012657id_/http%3A//www.cheapfareguru.com/privacypolicy.php). Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy.   
+Please read this Privacy Policy carefully. You can access the Privacy Policy any time at [http://www.CheapFareGuru.com/privacypolicy.php](https://web.archive.org/web/20160601104112id_/http%3A//www.cheapfareguru.com/privacypolicy.php). Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy.   
   
 
 
-The following Privacy Policy summarizes the various ways that www.CheapFareGuru.com("Service Provider," "we", ”Website”) will treat the information you provide while using our website. It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. 
+The following Privacy Policy summarizes the various ways that [www.CheapFareGuru.com](http://www.cheapfareguru.com/)("Service Provider", "we", "Website") will treat the information you provide while using our website. It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. 
 
   *  About the Privacy Policy
 
@@ -41,7 +41,7 @@ The following Privacy Policy summarizes the various ways that www.CheapFareGuru.
 
 > > 1\. About the Privacy Policy
 
-As a traveler we realize that you also want to be in control of all your personal information. CheapFareGuru.com has become the leader in online travel by earning and maintaining our customers' trust. That is our first priority and responsibility. 
+As a traveler we realize that you also want to be in control of all your personal information. [CheapFareGuru.com ](http://www.cheapfareguru.com/) has become the leader in online travel by earning and maintaining our customers' trust. That is our first priority and responsibility. 
 
 Your use of and/or registration on any aspect of the website will constitute your agreement to this Privacy Policy.
 
@@ -49,7 +49,7 @@ If you cannot agree with the terms and conditions of this Privacy Policy, please
 
 In addition to reviewing this Privacy Policy, please read our [User Agreement](http://www.cheapfareguru.com/terms.php). Your use of the website constitutes agreement to its terms and conditions as well. This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of the website by you will constitute your acceptance of any changes or revisions to the Privacy Policy.
 
-   Your privacy is very important to us at CheapFareGuru.com we have established and implemented various information handling practices for CheapFareGuru.com that we believe are consistent with the highest standards and best practices of organizations doing business on the Internet.
+   Your privacy is very important to us at [CheapFareGuru.com ](http://www.cheapfareguru.com/) we have established and implemented various information handling practices for [CheapFareGuru.com ](http://www.cheapfareguru.com/) that we believe are consistent with the highest standards and best practices of organizations doing business on the Internet.
 
    This privacy policy describes the practices that apply to our site, including, specifically, the information we collect about you, when and how we collect that information and what may happen to that information. We have prepared a detailed privacy policy because we believe you should know as much as possible about our practices so that you can make an informed decision about the extent of your use of our website. We use the information collected about our visitors to improve our site content and ease of use.
 
@@ -57,7 +57,7 @@ Top  
 
 2\. About the Collected Information
 
-CheapFareGuru.com provides this Privacy Policy to explain our company's policies concerning the compilation, use and security of the personal information of the customers using our website. By "personal information", we mean anything that can be connected to a specific person. This includes name, address, phone number, email-address and credit card numbers.
+[CheapFareGuru.com](http://www.cheapfareguru.com/) provides this Privacy Policy to explain our company's policies concerning the compilation, use and security of the personal information of the customers using our website. By "personal information", we mean anything that can be connected to a specific person. This includes name, address, phone number, email-address and credit card numbers.
 
 Types of Information We Collect:
 
@@ -69,9 +69,9 @@ Cookies:
 
 Cookies are small pieces of information that are sent by a server and stored by your browser on your computer's hard drive and then sent back unchanged by the browser each time it accesses that server. There are many myths circulating about cookies, but you should know that cookies are only read by the server that placed them, and are unable to do such things as run programs on your computer, plant viruses or harvest your personal information. The use of cookies is very common on the Internet and, our use of cookies is similar to that of such sites as Yahoo!, CNN.com and other reputable online companies. 
 
-First and foremost, you can be rest assured that no personally identifiable information ("PII") about you (e.g., name, address, etc.) is gathered or stored in the cookies placed by the CheapFareGuru.com site and, as a result, none can be passed on to any third parties. 
+First and foremost, you can be rest assured that no personally identifiable information ("PII") about you (e.g., name, address, etc.) is gathered or stored in the cookies placed by the [CheapFareGuru.com ](http://www.cheapfareguru.com/) site and, as a result, none can be passed on to any third parties. 
 
-Cookies allow us to serve you better and more efficiently, and to personalize your experience at our site. Cookies allow you to log in without having to type your log - in name each time (only your password is needed). We may also use such cookies to display an advertisement to you while you are on our website or to send you a special offer email (or similar emails - assuming you have not opted out of receiving such emails) focusing on destinations in which we think you might be interested. None of this information is passed to any third party, and is used solely by us to provide you with a better user experience on CheapFareGuru.com site.
+Cookies allow us to serve you better and more efficiently, and to personalize your experience at our site. Cookies allow you to log in without having to type your log - in name each time (only your password is needed). We may also use such cookies to display an advertisement to you while you are on our website or to send you a special offer email (or similar emails - assuming you have not opted out of receiving such emails) focusing on destinations in which we think you might be interested. None of this information is passed to any third party, and is used solely by us to provide you with a better user experience on [CheapFareGuru.com](http://www.cheapfareguru.com/) site.
 
 A cookie may also be placed by our advertising server. Such cookies are used only for purposes of tracking the effectiveness of advertising served by us on our site and no PII is gathered from you by the use of these cookies, nor is this information shared with any third parties. Similarly, a cookie may be placed by our third - party advertising companies. These companies may use aggregated statistics about your visits to this and other web sites in order to provide advertisements about travel - related goods and services that you may be interested in. The information they collect does not include your PII.
 
@@ -84,11 +84,11 @@ Top  
 
 3\. The Way We Use the Collected Information
 
-Please read and review our Privacy Policy. We hope that you will feel comfortable knowing that CheapFareGuru.com never sells or rents customer information to third parties. Please be assured that your personal information and documents are only handled by our closely screened, bonded and professionally trained staff within and outside the USA. CheapFareGuru.com reviews, and if necessary revises, its Privacy Policy on a timely basis.
+Please read and review our Privacy Policy. We hope that you will feel comfortable knowing that [CheapFareGuru.com ](http://www.cheapfareguru.com/)never sells or rents customer information to third parties. Please be assured that your personal information and documents are only handled by our closely screened, bonded and professionally trained staff within and outside the USA. [CheapFareGuru.com ](http://www.cheapfareguru.com/) reviews, and if necessary revises, its Privacy Policy on a timely basis.
 
 1\. We use your email address only to send a confirmation email when you sign up for an account and to allow you to reset your password if you lose or forget your old one. We also send you an automated notice if a review or a suggestion you submit is accepted or declined or you subscribe to sales and online promotions. No other use is now or ever will be made of this address, although the administrators may personally email you if extenuating circumstances arise where this is required. We will not send you any other email unless you contact us first and specifically request information, regarding your trip. We do not sell this address, or link it to any other personal information.
 
-2\. Any personally identifiable information you submit while booking with our website will only be disclosed to travel suppliers who are linked to your bookings. If you become a registered member of CheapFareGuru.com, you must provide your name, e-mail address, citizenship, password, etc. This information is collected on the registration form for several reasons including:
+2\. Any personally identifiable information you submit while booking with our website will only be disclosed to travel suppliers who are linked to your bookings. If you become a registered member of [CheapFareGuru.com](http://www.cheapfareguru.com/), you must provide your name, e-mail address, citizenship, password, etc. This information is collected on the registration form for several reasons including:
 
 a. To complete air, hotel, car and other reservations.  
 b. To allow us to contact you for customer service purposes, if necessary specific needs arise.  
@@ -110,13 +110,11 @@ Top  
 
 In order to purchase airline tickets and related services through our website, you must provide us with certain personal information such as your name, your credit card number and expiration date, your credit card billing address, your telephone number, your e-mail address and the name or names of those traveling, if not you. We require this information so that we can process, fulfill and confirm your reservations and transactions and keep you informed of each transaction's status. If you are making a reservation for one or more travelers other than yourself, you will need to make sure that each of these other travelers agrees, in advance, that you may disclose their personal information to us.
 
-In order to purchase airline tickets and related services through the our website, you must provide us with certain personal information such as your name, your credit card number and expiration date, your credit card billing address, your telephone number, your e-mail address and the name or names of those traveling, if not you. In case the ticket is booked using an international credit or debit card, card holder is required to provide a scan copy of the card and his passport. We require this information so that we can process, fulfill and confirm your reservations and transactions and keep you informed of each transaction's status.
-
-Once the booking is complete, we will immediately display your itinerary for you to print or email, with a six digit CheapFareGuru.com booking number. Please save the booking number for future reference.
+Once the booking is complete, we will immediately display your itinerary for you to print or email, with a six digit [CheapFareGuru.com](http://www.cheapfareguru.com/) booking number. Please save the booking number for future reference.
 
 Once ticket issued, we will send you the E-Ticket Confirmation Number via email. Please allow us 3 business hours to Issue the E-tickets.
 
-Current reservations can be viewed at any time by accessing the Check Your Booking section of our website using the CheapFareGuru.com booking number and name of first passenger.
+Current reservations can be viewed at any time by accessing the Check Your Booking section of our website using the [CheapFareGuru.com](http://www.cheapfareguru.com/) booking number and name of first passenger.
 
 Bookings are not guaranteed until a ticket is issued (since the airline can change prices anytime) & you receive an airline e-ticket conformation number. If required we will send you the Paper Ticket via overnight mail once the ticket is issued. We will mail the ticket to the address given. If your mailing address is different please call and inform our agent.
 
@@ -128,13 +126,13 @@ Top  
 
 5\. Member of CheapFareGuru.com
 
-If you become a registered member of CheapFareGuru.com, you must provide your name, e-mail address, country, member login password. This information is collected on the registration form for several reasons including:
+If you become a registered member of [CheapFareGuru.com](http://www.cheapfareguru.com/), you must provide your name, e-mail address, country, member login password. This information is collected on the registration form for several reasons including:
 
 To complete air, hotel, car and other reservations.  
 To allow us to contact you for customer service purposes, if necessary specific needs.  
 We need your e-mail address to confirm each reservation you transact on our web site.
 
-Most Important tip for buying tickets on our website is to become Member of (MY Eros Family). Our membership is free and members can get the Special Sale fare from our website and save more on their travel. Those special fares are only available to members only; our advice is please sign in as a member before you search. To become a registered member of CheapFareGuru.com, you must provide your name, e-mail address, country, member login password.
+Most Important tip for buying tickets on our website is to become Member of (MY Eros Family). Our membership is free and members can get the Special Sale fare from our website and save more on their travel. Those special fares are only available to members only; our advice is please sign in as a member before you search. To become a registered member of [CheapFareGuru.com](http://www.cheapfareguru.com/), you must provide your name, e-mail address, country, member login password.
 
 Top  
 
@@ -146,15 +144,15 @@ Top  
 
 7\. Children and parents
 
-We rely on our users to be truthful in responding to the question of age. We do not sell travel or any related services for purchase by children. Should a child whom we know to be under 13 send personal information to us, we will use that information only to respond directly to that child to inform him or her that we must have parental consent before receiving his or her personal information. CheapFareGuru.com will not provide any personally identifying information about users under the age of 13, regardless of its source, to any third party for any purpose whatsoever without first requesting parental permission.
+We rely on our users to be truthful in responding to the question of age. We do not sell travel or any related services for purchase by children. Should a child whom we know to be under 13 send personal information to us, we will use that information only to respond directly to that child to inform him or her that we must have parental consent before receiving his or her personal information. [CheapFareGuru.com](http://www.cheapfareguru.com/) will not provide any personally identifying information about users under the age of 13, regardless of its source, to any third party for any purpose whatsoever without first requesting parental permission.
 
 When search our site, you are not required to provide any personal information until you choose to make a purchase. We do not knowingly permit the site to be used by any person under the age of eighteen and we do not knowingly collect any personal information from children under thirteen years of age. A valid credit card is required to make a purchase on our site. Purchase also can be made by visiting our office or sending money via Western Union.
 
-CheapFareGuru.com encourages parents and guardians to spend time with their children online, and to be familiar with the sites their children visit.
+[CheapFareGuru.com](http://www.cheapfareguru.com/) encourages parents and guardians to spend time with their children online, and to be familiar with the sites their children visit.
 
 Our Website is not intended for use by children, especially those under age 13. No one under age 13 is allowed to provide any personal information or submit data, or become an MYEROS member. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian(s) before making purchases.
 
-CheapFareGuru.com will not provide any personally identifying information about users under the age of 13, regardless of its source, to any third party for any purpose whatsoever without first requesting parental permission.
+[CheapFareGuru.com](http://www.cheapfareguru.com/) will not provide any personally identifying information about users under the age of 13, regardless of its source, to any third party for any purpose whatsoever without first requesting parental permission.
 
 If your children disclose information about themselves in publicly accessible areas of the Website, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so. 
 
@@ -162,11 +160,11 @@ If you're worried about your children's activities or their privacy on our site,
 
 Links to External Sites - Our website links to outside content that could be considered offensive by certain customers. The use of a hyperlink never constitutes an endorsement of a company, product, or opinion. The use of the hyperlink does not imply that our website agrees with the content being linked to and provides no guarantee that the content contains accurate information. Our website designers are under no obligation to link to any site.
 
-Correcting of inputted data Correcting of inputted data we correct any errors that are brought to our attention as expediently as possible. We fact check all error reports to ensure their authenticity. Please send us your views and suggestions, to serve you better.
+Correcting of inputted data we correct any errors that are brought to our attention as expediently as possible. We fact check all error reports to ensure their authenticity. Please send us your views and suggestions, to serve you better.
 
-Notification of Changes CheapFareGuru.com, reserves the right to change the terms, conditions, and notices in this privacy policy. While we don't anticipate any changes in our privacy policy, there is always a possibility of change.
+Notification of Changes [CheapFareGuru.com](http://www.cheapfareguru.com/), reserves the right to change the terms, conditions, and notices in this privacy policy. While we don't anticipate any changes in our privacy policy, there is always a possibility of change.
 
-Under no circumstances, including but not limited to negligence, shall CheapFareGuru.com be liable for any special, incidental or consequential damages that result from the use of the information or materials on CheapFareGuru.com or its family of sites, even if CheapFareGuru.com or an authorized representative of CheapFareGuru.com, has been advised of the possibility of such damages, our goal is to protect your privacy when you visit or personalize our site and to make your online experience safe and fun. Because we collect certain types of information about you when you visit our site, we have written this policy to share our practices and use of that information.
+Under no circumstances, including but not limited to negligence, shall [CheapFareGuru.com](http://www.cheapfareguru.com/) be liable for any special, incidental or consequential damages that result from the use of the information or materials on [CheapFareGuru.com](http://www.cheapfareguru.com/) or its family of sites, even if [CheapFareGuru.com](http://www.cheapfareguru.com/) or an authorized representative of [CheapFareGuru.com](http://www.cheapfareguru.com/), has been advised of the possibility of such damages, our goal is to protect your privacy when you visit or personalize our site and to make your online experience safe and fun. Because we collect certain types of information about you when you visit our site, we have written this policy to share our practices and use of that information.
 
 USE OF THIS SITE SIGNIFIES YOUR UNDERSTANDING AND AGREEMENT TO COMPLY WITH THE ENTIRE PRIVACY POLICY.
 
@@ -189,7 +187,7 @@ ADDRESS
 Eros Tours & Travel Inc.  
 117 West 9th St. # 307  
 Los Angeles Ca 90015  
-On Off Hours and Weekends, please feel free to [email](mailto:cservice@airtkt.com?subject=Contact%20CheapFareGuru.com&body=) us or leave a message.
+On Off Hours and Weekends, please feel free to [email](mailto:support@airtkt.com?subject=Contact%20CheapFareGuru.com&body=) us or leave a message.
 
   
 
