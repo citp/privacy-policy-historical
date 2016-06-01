@@ -1,8 +1,11 @@
-<!--The following is the downloaded HTML source of the freedompop.com privacy policy that was archived on 2015-03-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150330084554id_/http%3A//www.freedompop.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freedompop.com privacy policy that was archived on 2016-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160601172843id_/http%3A//www.freedompop.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js no-flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
     
+
+
+
 
 
 
@@ -27,6 +30,7 @@
     <meta name="keywords" content="free wireless internet, free internet, wireless internet, internet, internet provider, wireless internet provider, 4G, free internet, free broadband, mobile broadband, free mobile broadband, mobile broadband isp, broadband isp, wireless internet provider, internet provider, wifi">
     <meta name="msvalidate.01" content="C07FC2E788828042A873475AD864A416">
 
+    
     <!--<meta content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" name="viewport" />-->
     <!--
     /* @license
@@ -53,12 +57,11 @@
     */
 
 -->
-
         
         
                 
             
-        <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
+        <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P6GSD2"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
             var basePath = "/";
             funnelName = ("organic".length > 0) ? "organic" : "organic";
             experience = "";
@@ -76,9 +79,9 @@
 
     
     
-        <!--[if gt IE 8]><!--><link rel="stylesheet" href="/static/css/account.css?v=7858"><!--<![endif]-->
+        <!--[if gt IE 8]><!--><link rel="stylesheet" href="/static/css/account.css?v=10304"><!--<![endif]-->
         <!--[if lte IE 8]>
-        <link rel="stylesheet"  href="/static/css/ie-account.css?v=7858" />
+        <link rel="stylesheet"  href="/static/css/ie-account.css?v=10304" />
         <![endif]-->
     
 
@@ -91,9 +94,12 @@
 
             window.onerror = function(message, url, linenumber){
                message = (typeof message !== 'undefined' && message != null) ? message : "No Message";
-               url = (typeof url !== 'undefined' && url != null) ? url : "No url";
+               url = (typeof url === 'undefined') ? null : url;
                linenumber = (typeof linenumber !== 'undefined' && linenumber != null) ? linenumber : "No linenumber";
-               new Image().src ="/jsScavenger?message="+encodeURIComponent(message)+"&url="+encodeURIComponent(url)+"&line="+encodeURIComponent(linenumber);
+               if(url != null && url.length > 0){
+                  message = (typeof message === 'object') ? JSON.stringify(message) : message;
+                  new Image().src ="/jsScavenger?message="+encodeURIComponent(message)+"&url="+encodeURIComponent(url)+"&line="+encodeURIComponent(linenumber);
+               }
                window.onerror = new Function();
             }
          </script>
@@ -131,12 +137,11 @@
         
             
             
-                <script type="text/javascript" src="/static/js/freedompop_scripts.min.js?v=7858"></script>
+                <script type="text/javascript" src="/static/js/freedompop_scripts.min.js?v=10304"></script>
             
         
+
         <script type="text/javascript">
-
-
             var _gaq = _gaq || [];
             _gaq.push(['_setCustomVar', 1, 'User_Type','',2]);
             _gaq.push(['_setAccount', 'UA-26895500-4']);
@@ -189,6 +194,24 @@
                                         }
                 );
 
+                //mobileNav
+
+                if($('.mobileNav').css('display') == 'block') {
+
+                    $("nav").hover(function(){
+                                $(this).children('.contentWidth').show();
+                                $(this).children('.mobileNav').addClass('selected');
+                            },
+                            function() {
+                                $(this).children('.contentWidth').hide();
+                                $(this).children('.mobileNav').removeClass('selected');
+
+                            }
+
+                    );
+
+                }
+
                 //selectbox
                 $("select").selectBox();
                 $('.modalWideTrigger').click(function(){
@@ -209,9 +232,18 @@
             });
 
             $(document).ready(function(){
+                console.log("Website version is US");
+
+                
+                    
+                    
+                    
+                
 
                 
                 
+
+               
 
                 var sprintAlertType = CookieUtil.readCookie("sprintAlert");
                 if(sprintAlertType){
@@ -221,13 +253,15 @@
                 }
 
                 
+
+
             });
         </script>
 
         <script type="text/javascript">
 
     thisPageCookie = (typeof thisPageCookie === "string") ? thisPageCookie : "";
-    checkAttemptCookies(thisPageCookie, funnelName);
+    if(typeof checkAttemptCookies !== 'undefined')checkAttemptCookies(thisPageCookie, funnelName);
 
     mboxCreatef = function(){
 
@@ -256,8 +290,24 @@
 
 
 
-</head>
-<body class="account">
+</head><body class="account"><div id="reactivateContainer" style="display:none;"><a href="/modals/reactivate_account.htm" id="reactivateAccountModal" class="btn modalTrigger"></a></div>
+<div id="upgradeWimaxContainer" style="display:none;"><a href="/modals/upgrade_wimax_account.htm" id="upgradeWimaxAccountModal" class="btn modalTrigger"></a></div>
+<div id="termsofserviceChange" style="display:none;"><a href="/static/modals/termsChange.htm" id="termsChangeModal" class="btn modalTrigger"></a></div>
+
+
+   <!-- Facebook Pixel Code -->
+   <script type="text/javascript">
+      !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+              n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+         n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+         t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+              document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+      fbq('init', '1632439763645693');
+      fbq('track', "PageView");
+   </script>
+   <noscript><img alt="" height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1632439763645693&ev=PageView&noscript=1"/></noscript>
+   <!-- End Facebook Pixel Code -->
 
 
 
@@ -265,6 +315,21 @@
 
 
 
+
+
+
+
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P6GSD2"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P6GSD2');</script>
+<!-- End Google Tag Manager -->
 
 <!-- Google Code for REMARKETING SEARCH [NOT SUB] -->
 <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
@@ -301,7 +366,7 @@
                             <div id="supportNavMenu">
                                 <ul>
                                     <li><a href="/coverage">Coverage</a></li>
-                                    <li><a href="http://support.freedompop.com">Help</a></li>
+                                    <li><a href="/support">Help</a></li>
                                 </ul>
                                 <ul class="forums">
                                     <li><a href="http://forums.freedompop.com" target="_blank">Forums</a></li>
@@ -339,17 +404,22 @@
         
     </div>
       
+    <!-- Affiliate Window Master Tag -->
+    <script src="https://www.dwin1.com/6657.js" type="text/javascript" defer="defer"></script>
 </header>
 <div id="tntClickTrack"></div>
 
 
 
 
+    
+    
+
 <div id="content">
 	<h2>Privacy Policy</h2>
 	<section id="main">
 		<article class="plainBox terms">
-			<p><strong>Last Revised: August 27, 2012</strong></p>
+			<p><strong>Last Revised: June 27, 2013</strong></p>
 			
 			<p>This Privacy Policy ("<strong>Policy</strong>") explains how information about you is collected,
 			used and disclosed by FreedomPop and its subsidiaries and affiliates
@@ -756,6 +826,7 @@
 
 
 
+
 <footer class="expanded">
     
         
@@ -795,8 +866,14 @@
                                     
                                 
                             </li>
-                            <li><a href="http://support.freedompop.com">Support</a></li>
-                            <li><a href="/coverage/internet">Coverage</a></li>
+                            <li><a href="/support">Support</a></li>
+
+                                
+                                    
+                                    
+                                        
+                                    
+                                
                             <li><a href="http://forums.freedompop.com" target="_blank">Forum</a></li>
                             <li><a href="/freedompop-review">Reviews</a></li>
                             <li><a href="http://blog.freedompop.com/" target="_blank">Blog</a></li>
@@ -809,7 +886,7 @@
                     <li><a href="http://www.twitter.com/freedompop" target="_blank" class="twitter"></a></li>
                     <li><a href="http://www.facebook.com/freedompop" target="_blank" class="facebook"></a></li>
                     <li><a href="https://www.linkedin.com/company/freedompop" target="_blank" class="linkedin"></a></li>
-                    <li><a href="http://www.instagram.com/freedompop4g" target="_blank" class="instagram"></a></li>
+                    <li><a href="http://www.instagram.com/freedompop" target="_blank" class="instagram"></a></li>
                     <li><a href="https://plus.google.com/+Freedompop" target="_blank" class="googleplus"></a></li>
                     <li><a href="https://vimeo.com/freedompop" target="_blank" class="vimeo"></a></li>
                     <li><a href="http://www.youtube.com/user/officialfreedompop" target="_blank" class="youtube"></a></li>
@@ -823,7 +900,7 @@
                     </ul>
                     <ul>
                         <li class="logoImg"><a href="/">&nbsp;<img src="/static/img/logo.png"></a></li>
-                        <li>© 2015 FreedomPop</li>
+                        <li>© 2016 FreedomPop</li>
                     </ul>
                 </div>
             </div>
@@ -892,6 +969,18 @@
 
         });
     </script>
+
+    
+        
+            
+                
+            
+            
+                
+            
+        
+    
+
     <div id="show" style="width:100%;height:20px;float:left;margin-top:-20px;" onmouseover="$('#exp').css('visibility','visible');" onmouseout="$('#exp').css('visibility','hidden');">
         <div id="exp" style="visibility:hidden;color:lightskyblue;text-align:left;font-size:11px"></div>
     </div>
