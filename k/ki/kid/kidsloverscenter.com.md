@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the kidsloverscenter.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110030224id_/http%3A//www.kidsloverscenter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsloverscenter.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601114654id_/http%3A//www.kidsloverscenter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - KidsLoversCenter
+
+[Home](http://www.kidsloverscenter.com/) Privacy Policy
 
 The owners of www.kidsloverscenter.com follow a very strict privacy policy. Being an established health & beauty website, we cater to the needs of the users and do not meddle with their privacy in any form whatsoever.
 
