@@ -1,347 +1,147 @@
-> *The following text is extracted and transformed from the imanage.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231020843id_/http%3A//www8.hp.com/us/en/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imanage.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601161352id_/https%3A//imanage.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy - iManage
+
+iManage® Privacy Policy
+
+iManage respects your privacy.
+
+iManage and its subsidiaries respect your privacy. This Privacy Policy informs you of our privacy practices and of the choices you can make about the way information about you, including from your online activity is collected and how that information is used by iManage. This Privacy Policy is readily available on our iManage.com home page and at the bottom of every iManage web page.
+
+1\. Scope of this Privacy Policy  
+This Privacy Policy applies to all iManage-owned websites, domains, services, applications, and products, and those of our wholly owned subsidiaries (“iManage sites or services”), except that a privacy policy or statement specific to a particular iManage program, product, or service may supersede or supplement this Privacy Policy.
+
+If you do not agree with our policies and practices, your choice is not to use iManage sites or services. By accessing or using iManage sites or services, you agree to this Privacy Policy.
+
+Links to non-iManage websites  
+iManage sites or services may provide links to third-party applications, products, services, or websites for your convenience and information. If you access those links, you will leave the iManage site. iManage does not control those third party sites or their privacy practices, which may differ from iManage’s practices. We do not endorse or make any representations about third-party sites. The personal data you choose to provide to or that is collected by these third parties is not covered by this Privacy Policy. We encourage you to review the privacy policy of any site you interact with before allowing the collection and use of your personal information.  
+We may also provide social media features that enable you to share information with your social networks and to interact with iManage on various social media sites. Your use of these features may result in the collection or sharing of information about you, depending on the feature. We encourage you to review the privacy policies and settings on the social media sites with which you interact to make sure you understand the information that may be collected, used, and shared by those sites.
+
+2\. Collection of Personal Information  
+Personal information is any information that personally identifies you or from which you could be identified. This may include your name, address, telephone number, email address and profession or occupation.  
+iManage collects, exports, and uses personal information to manage your relationship with iManage and better serve you by personalizing your experience and interaction with iManage. Such collection is done with appropriate notice and consent.  
+iManage may collect your personal information through your access and use of website, web-based applications, or mobile applications, during conversations or correspondence with iManage representatives, or when you purchase products or services or complete an online application form.  
+iManage may collect personal information from you in connection with:  
+product or service orders, activations, and registrations;  
+profile creation and user verification for online services;  
+information requests or complaints;  
+marketing, newsletter or support subscriptions;  
+contest entries or survey participation;  
+job applications;  
+event registration;  
+or visits or browsing on iManage websites.  
+The types of personal information iManage may collect from you includes:  
+personal and business contact information, such as name, address, telephone number, and email address;  
+in some cases, your business contact data may be provided to iManage by a designated entity within your business or enterprise (such as a member of your IT department);  
+financial information, such as your credit/debit card number or other billing information;  
+other unique information such as user IDs and passwords, product functionality, product and service preferences, contact preferences, educational and employment background, and job interest data;  
+geo-location data such as your IP address or physical location when you request location based services;  
+details of the products and services you have purchased from us or which you have enquired about, together with any additional information necessary to deliver those products and services and to respond to your enquiries;  
+any additional information relating to you that you provide to us directly through our websites or indirectly through use of our websites or online presence, through our representatives or otherwise; or  
+information you provide to us through our support center, customer surveys or visits by our representatives from time to time.  
+If you post, comment, indicate interest or complaint, or share personal information, including photographs, to any public forum on an iManage site, social network, blog, or other such forum, please be aware that any information you submit can be read, viewed, collected, or used by other users of these forums, and could be used to contact you, send you unsolicited messages, or for purposes that neither you nor iManage have control over. iManage is not responsible for the personal information you choose to provide in these forums.  
+In addition to the information you provide, iManage may also collect information during your visit to an iManage website, web-based application, or a website “powered by” another company on behalf of iManage, through our data collection tools, which include web beacons, cookies, and embedded web links. These tools collect certain traffic information that your browser sends to a website, such as your browser type and language, access times, and the address of the website from which you arrived. They may also collect information about your Internet Protocol (IP) address, unique device identifier, clickstream behavior (i.e., the pages you view, the links you click, and other actions you take in connection with iManage websites or “powered by” websites) and product information. iManage may also use some of these data collection tools in connection with certain emails and communications sent from iManage and therefore may collect information using these tools when you open the email or click on a link contained in the email.  
+iManage also collects information from publicly or commercially available sources that it deems credible. Such information may include your name, address, email address, preferences, interests, and demographic/profile data. The information iManage collects from its public or commercial sources may be used along with the information iManage collects when you visit iManage’s sites. For example, iManage may compare the geographic information acquired from commercial sources with the IP address collected by data collection tools to derive your general geographic area.  
+Where necessary, iManage may also use information provided by you or your employer, together with information from publicly available and other online and offline sources, to conduct due diligence checks on business contacts as part of iManage’s anti-corruption program.  
+iManage may also collect some information that is not personal information because it does not identify you or anyone else. For example, we may collect anonymous answers to surveys or aggregated information about how users use our websites, products or services.
+
+3\. How iManage uses your information  
+iManage may use your information to:  
+manage our relationship with you;  
+assist you in completing a transaction or order;  
+prevent and detect security threats, fraud or other malicious activity;  
+communicate with you about iManage products, services or support and send marketing communications;  
+provide products, services and support to you;  
+improve and develop products, services and support including through quality control, research and data analysis activities;  
+update you on new services and benefits;  
+provide personalized promotional offers;  
+measure performance of marketing initiatives, ads, and websites “powered by” another company on iManage’s behalf;  
+allow you to participate in contests and surveys;  
+answer inquiries, provide information, support or advice about existing and new products or services;  
+personalize iManage websites;  
+provide you with access to protected areas of our website;  
+assess and improve the performance and operation of iManage websites;  
+to keep your contact details up to date and provide updated details to iManage service providers and suppliers where necessary; or  
+to process and respond to any complaint made by you.  
+We will give you the opportunity to choose your privacy preferences regarding the marketing communications we send.  
+Credit card information is used only for payment processing and fraud prevention. Salary information, government issued identification number and other sensitive personal information is not used for any other purpose and will not be kept longer than necessary for providing the services, unless you ask us to retain your credit card information for future purchases.  
+4\. How iManage shares your information  
+iManage will not sell, rent or lease your personal information to others except as described in this Privacy Policy. iManage shares personal information in the following ways:  
+iManage retains service providers and suppliers to manage or support its business operations, provide professional services, deliver complete products, services and customer solutions and to assist iManage with marketing and communication initiatives. These providers and suppliers may be located in the US or other overseas locations and include, for example, credit card processors, debt collectors, providers of customer support and live-help, marketing and communications, hosting and IT service providers, email service providers, automated data processors, shipping agents, management and support of iManage websites, order fulfillment and delivery. Suppliers and service providers are required by contract to keep confidential and secure the information received on behalf of iManage and may not use it for any purpose other than to carry out the services they are performing for iManage.  
+From time to time, iManage participates in marketing initiatives with other companies, including websites “powered by” another company on behalf of iManage. As part of these initiatives, certain iManage services and marketing communications may be delivered at the same time as those from other companies. Some of these services and communications offer you the option to share personal information with both iManage and the other companies participating in these initiatives. For example, you may receive marketing communications from iManage and other companies or have the opportunity to register online for software products from multiple companies. If you choose to provide personal information only to iManage, iManage will not share this information with the other companies participating in that marketing initiative. If you choose to provide personal information to the other companies, that personal information will be handled according to the privacy policy of those companies, which may differ from iManage’s policies and practices.  
+iManage may also transfer your personal information to other iManage-owned business entities in the US and worldwide. By accessing iManage websites, registering for an account or service, or otherwise providing iManage with your personal information, you consent to this transfer of your personal information throughout the iManage network of entities.  
+Except as described in this Privacy Policy, iManage will not share the personal information you provide to iManage with non-iManage third parties without your permission, unless to: (i) respond to duly authorized information requests of police and governmental authorities; (ii) comply with any law, regulation, subpoena, or court order; (iii) investigate and help prevent security threats, fraud or other malicious activity; (iv) enforce/protect the rights and properties of iManage or its subsidiaries; or (v) protect the rights or personal safety of iManage, our employees, and third parties on or using iManage property when allowed and in line with the requirements of applicable law.  
+Circumstances may arise where, whether for strategic or other business reasons, iManage decides to sell, buy, merge or otherwise reorganize businesses in some countries. Such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or the receipt of it from sellers. It is iManage’s practice to seek appropriate protection for information in these types of transactions.
+
+5\. Children’s privacy  
+iManage does not knowingly collect information from children as defined by local law, and does not target its websites or mobile applications to children under these ages. We encourage parents and guardians to take an active role in their children’s online and mobile activities and interests. If we learn we have collected or received personal information from a child without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child, please contact us at legal@imanage.com.
+
+6\. Your choices and selecting your privacy preferences  
+iManage gives you the choice of receiving a variety of information that complements our products and services. You can subscribe to receive certain product- and service-specific information and also choose to receive iManage general communications. We give you a choice regarding delivery of iManage general communications by postal mail, email, telephone, or mobile device.  
+You can make or change your choices about receiving either subscription or general communications at the data collection point or by using other methods, which are listed in the following sections. This option does not apply to communications primarily for the purpose of administering order completion, contracts, support, product safety warnings, driver updates, or other administrative and transactional notices where the primary purpose of these communications is not promotional in nature.  
+Subscription communications  
+Subscription communications include email newsletters, software updates, etc. that may be expressly requested by you or which you consented to receive. After you request such communications, you may opt out of receiving them by using one of the following methods:  
+Select the email “opt out” or “unsubscribe” link, or follow the opt-out instructions included in each email subscription communication;  
+To unsubscribe from messages delivered to mobile devices, reply to the message with the words “STOP” or “END”;  
+Return to the web page(s) where you originally registered your preferences and follow the opt-out instructions; or  
+Write to the iManage legal department (contact details below). Be sure to provide your name, relevant contact information, and specific relevant information about the iManage subscriptions that you no longer wish to receive.  
+iManage general communications  
+iManage general communications provide information about products, services, and/or support. This may include new product or services information, special offers, or invitations to participate in market research or compliance reviews.  
+You may opt out of receiving these general communications by using one of the following methods:  
+Select the email “opt out” or “unsubscribe” link, or follow the opt-out instructions included in each email communication;  
+To unsubscribe from messages delivered to mobile devices, reply to the message with the words “STOP” or “END”; or  
+Write to the iManage legal department (contact details below). Be sure to provide your name, relevant contact information, and specific relevant information about your privacy preferences.
+
+7\. Access to and accuracy of your information  
+iManage strives to keep your personal information accurately recorded. We have implemented technology, management processes and policies to help maintain data accuracy. iManage provides individuals with reasonable access to personal information that they provided to iManage and the reasonable ability to review and correct it or ask for anonymization, blockage, or deletion, as applicable. To protect your privacy and security, we will also take reasonable steps to verify your identity, such as requiring a password and user ID, before granting access to your data. To view and change the personal information that you directly provided to iManage, you can return to the web page where you originally submitted your data and follow the instructions on that web page or contact the iManage legal department. iManage will respond to access requests within 30 days.
+
+8\. Keeping your information secure  
+iManage takes seriously the trust you place in us. To prevent unauthorized access or disclosure, to maintain data accuracy, and to ensure the appropriate use of the information, iManage utilizes reasonable and appropriate physical, technical, and administrative procedures to safeguard the information we collect and process. iManage retains data only as required or permitted by local law and while it has a legitimate business purpose.
+
+When collecting or transferring sensitive information such as credit card information we use a variety of additional security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. The personal information you provide us is stored on computer systems located in controlled facilities which have limited access. When we transmit highly confidential information (such as credit card number or password) over the internet, we protect it through the use of encryption.
 
-# Online Privacy Statement | HP® Official Site
+Credit card numbers are used only for processing payments and are not used for other purposes.
 
-## HP respects your privacy
+9\. Changes to this Privacy Policy  
+If we modify this Privacy Policy, we will post the revised policy here, with an updated revision date. If we make significant changes to this Privacy Policy that materially alter our privacy practices, we may also notify you by other means, such as sending an email or posting a notice on our corporate website and/or social media pages prior to the changes taking effect. Your continued use of iManage sites or services after we make changes is deemed to be acceptance of those changes, so please check this Privacy Policy periodically for updates. This Privacy Policy was last updated in October 2015.
 
-HP and its subsidiaries respect your privacy. This Privacy Statement informs you of our privacy practices and of the choices you can make about the way information about you, including from your online activity is collected and how that information is used by HP. This statement is readily available on our HP.com home page and at the bottom of every HP web page.
+10\. Contacting iManage & How To Make a Complaint  
+We value your opinions. If you have comments or questions about this Privacy Policy, any concerns or a complaint regarding our collection and use of your data or a possible breach of your privacy, please send them to the iManage legal department or write to us at the appropriate address below. We will treat your requests or complaints confidentially. Our representative will contact you within a reasonable time after receipt of your complaint to address your concerns and outline options regarding how they may be resolved. We will aim to ensure that your complaint is resolved in timely and appropriate manner.
 
-HP was a founding sponsor of the Council of Better Business Bureau’s Online Privacy Program and is a BBB Accredited Business. HP privacy practices are consistent with the BBB Code of Business Practices and we proudly display the BBB seal.
-
-[](http://www.bbb.org/sanjose/business-reviews/computers-networks/hewlett-packard-in-palo-alto-ca-207934)[](http://www.bbb.org/sanjose/business-reviews/computers-networks/hewlett-packard-in-palo-alto-ca-207934)
-
-In the development of HP’s privacy policies and standards, we respect and take into account the major principles and frameworks around the world, including the OECD Guidelines on the Protection of Privacy and Transborder Flows, EU Directive 95/46/EC, APEC Privacy Framework, and the Madrid Resolution on International Privacy Standards.
-
-HP complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. HP has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view HP's certification, please visit <http://www.export.gov/safeharbor/>. [](http://www.export.gov/safeharbor/). HP has also established a set of binding corporate rules (“BCR”), which have been approved by the majority of Data Protection Regulators in the EEA and Switzerland, effective June 2011. The BCRs ensure that personal data from the EEA is adequately protected while being processed by any of HP’s global entities.
-
-In compliance with the Safe Harbor Principles and BCR requirements, HP commits to resolve complaints about your privacy and our collection or use of your personal information. HP has further committed to refer unresolved privacy complaints from E.U. citizens or residents regarding transfers of their personal data under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if HP does not satisfactorily address your complaint, you may contact BBB EU Safe Harbor at: <http://www.bbb.org/us/safe-harbor-complaints>. [](http://www.bbb.org/us/safe-harbor-complaints)
-
-HP has been awarded TRUSTe's Privacy Seal signifying that this Privacy Statement and related practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability, and choice regarding the collection and use of personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trust mark and innovative trust solutions. The TRUSTe program does not cover information that may be collected through any software downloaded from this Web site. If you have questions or complaints regarding our Privacy Statement or practices, please contact HP using the contact information included at the end of this Statement. If you are not satisfied with our response, you can refer your complaint to [TRUSTe](http://privacy.truste.com/privacy-seal/Hewlett-Packard/validation?rid=4647e2b4-9e49-42f5-bef6-c6a4aaecd89b).[](http://privacy.truste.com/privacy-seal/Hewlett-Packard/validation?rid=4647e2b4-9e49-42f5-bef6-c6a4aaecd89b)
-
-[](http://privacy.truste.com/privacy-seal/Hewlett-Packard/validation?rid=4647e2b4-9e49-42f5-bef6-c6a4aaecd89b "TRUSTe online privacy certification")
-
-How HP uses automatic data collection tools:
-
-  
-
-
-## 1\. Scope of this Privacy Statement
-
-HP is a global organization, with legal entities, business processes, management structures, and technical systems that cross borders. This Privacy Statement applies to all HP-owned websites, domains, services, applications, and products, and those of our wholly owned subsidiaries ("HP sites or services"), except that a privacy policy or statement specific to a particular HP program, product, or service may supersede or supplement this Privacy Statement.
-
-  
-
-
-## Links to non-HP websites
-
-HP sites or services may provide links to third-party applications, products, services, or websites for your convenience and information. If you access those links, you will leave the HP site. HP does not control those third party sites or their privacy practices, which may differ from HP's practices. We do not endorse or make any representations about third-party sites. The personal data you choose to provide to or that is collected by these third parties is not covered by the HP Privacy Statement. We encourage you to review the privacy policy of any site you interact with before allowing the collection and use of your personal information.
-
-We may also provide social media features that enable you to share information with your social networks and to interact with HP on various social media sites. Your use of these features may result in the collection or sharing of information about you, depending on the feature. We encourage you to review the privacy policies and settings on the social media sites with which you interact to make sure you understand the information that may be collected, used, and shared by those sites.
-
-  
-
-
-## 2\. Collection of personal information
-
-HP collects, exports, and uses personal information to manage your relationship with HP and better serve you by personalizing your experience and interaction with HP. Such collection is done with appropriate notice and consent, along with required filings with data protection authorities, where required.
-
-HP may collect personal information from you in connection with
-
-  
-
-
-  * product or service orders, activations, and registrations
-  * profile creation and user verification for online services
-  * information requests or complaints
-  * marketing, newsletter or support subscriptions
-  * contest entries or survey participation
-  * instant credit applications
-  * job applications
-  * event registration
-  * visits or browsing on HP websites
-
-
-
-The types of personal information you provide to us may include:
-
-  
-
-
-  * personal and business contact information, such as name, address, telephone number, and email address
-  * in some cases, your business contact data may be provided to HP by a designated entity within your business or enterprise (such as a member of your IT department)
-  * financial information, such as your credit/debit card number or other billing information
-  * government issued identification number and salary
-  * other unique information such as user IDs and passwords, product functionality, product and service preferences, contact preferences, educational and employment background, and job interest data
-  * geo-location data such as your IP address or physical location when you request location based services
-
-
-
-If you apply for instant credit, we may ask you to provide additional personal information such as salary, government issued identification number, banking/financial account information, and other information to authenticate you and verify credit worthiness. This information will be used by our financial services providers in determining whether to extend you credit and how much to extend.
-
-If you choose to use a “tell-a-friend” or a similar referral program on our site, we will ask you for your friend’s e-mail address, social media handle, phone number, or other contact information to send your friend an invitation to participate in the program.
-
-If you post, comment, indicate interest or complaint, or share personal information, including photographs, to any public forum on an HP site, social network, blog, or other such forum, please be aware that any information you submit can be read, viewed, collected, or used by other users of these forums, and could be used to contact you, send you unsolicited messages, or for purposes that neither you nor HP have control over. HP is not responsible for the personal information you choose to provide in these forums.
-
-In addition to the information you provide, HP may also collect information during your visit to an HP website, web-based application, or a website “powered by” another company on behalf of HP, through our Automatic Data Collection Tools, which include Web beacons, cookies, and embedded Web links. These tools collect certain traffic information that your browser sends to a website, such as your browser type and language, access times, and the address of the website from which you arrived. They may also collect information about your Internet Protocol (IP) address, unique device identifier, clickstream behavior (i.e., the pages you view, the links you click, and other actions you take in connection with HP websites or “powered by” websites) and product information. HP may also use some of these Automatic Data Collection Tools in connection with certain emails and communications sent from HP and therefore may collect information using these tools when you open the email or click on a link contained in the email. To learn more, read How HP uses automatic data collection tools.
-
-HP also collects information from publicly or commercially available sources that it deems credible. Such information may include your name, address, email address, preferences, interests, and demographic/profile data. The information HP collects from its public or commercial sources may be used along with the information HP collects when you visit HP’s sites. For example, HP may compare the geographic information acquired from commercial sources with the IP address collected by Automatic Data Collection Tools to derive your general geographic area.
-
-Where necessary, HP may also use information provided by you or your employer, together with information from publicly available and other online and offline sources, to conduct due diligence checks on business contacts as part of HP’s anti-corruption program.
-
-  
-
-
-## 3\. How we use your information
-
-The information HP collects to understand your needs and interests helps HP deliver a consistent and personalized experience. For example, HP may use your information to
-
-  
-
-
-  * manage our relationship with you
-  * assist you in completing a transaction or order
-  * prevent and detect security threats, fraud or other malicious activity
-  * communicate with you about HP products and services
-  * provide and improve service and support
-  * update you on new services and benefits
-  * provide personalized promotional offers
-  * select content to be communicated to you
-  * personalize some HP websites
-  * measure performance of marketing initiatives, ads, and websites “powered by” another company on HP’s behalf
-  * allow you to participate in contests and surveys
-
-
-
-We will give you the opportunity to choose your privacy preferences regarding the marketing communications we send (see Your choices and selecting your privacy preferences).
-
-Credit card information is used only for payment processing and fraud prevention. Salary information, government issued identification number and other sensitive personal information is not used for any other purpose by our financial services providers or HP and will not be kept longer than necessary for providing the services, unless you ask us to retain your credit card information for future purchases.
-
-  
-
-
-## 4\. How we share your information
-
-HP will not sell, rent or lease your personal information to others except as described in this Statement. HP shares personal information in the following ways:
-
-HP retains service providers and suppliers to manage or support its business operations, deliver complete products, services and customer solutions and to assist HP with marketing and communication initiatives. These providers and suppliers include, for example, credit card processors, providers of customer support and live-help, marketing, email service providers, automated data processors, and shipping agents. Suppliers and service providers are required by contract to keep confidential and secure the information received on behalf of HP and may not use it for any purpose other than to carry out the services they are performing for HP.
-
-From time to time, HP participates in marketing initiatives with other companies, including websites “powered by” another company on behalf of HP. As part of these initiatives, certain HP services and marketing communications may be delivered at the same time as those from other companies. Some of these services and communications offer you the option to share personal information with both HP and the other companies participating in these initiatives. For example, you may receive marketing communications from HP and other companies or have the opportunity to register online for software products from multiple companies. If you choose to provide personal information only to HP, HP will not share this information with the other companies participating in that marketing initiative. If you choose to provide personal information to the other companies, that personal information will be handled according to the privacy policy of those companies, which may differ from HP’s policies and practices.
-
-HP may transfer your personal information to other HP-owned business entities in the US and Worldwide. By accessing HP websites, registering for an account or service, or otherwise providing HP with your personal information, you consent to this transfer of your personal information throughout the global HP network of entities.
-
-Except as described in this Statement, HP will not share the personal information you provide to HP with non-HP third parties without your permission, unless to: (i) respond to duly authorized information requests of police and governmental authorities; (ii) comply with any law, regulation, subpoena, or court order; (iii) investigate and help prevent security threats, fraud or other malicious activity; (iv) enforce/protect the rights and properties of HP or its subsidiaries; or (v) protect the rights or personal safety of HP, our employees, and third parties on or using HP property when allowed and in line with the requirements of applicable law.
-
-Circumstances may arise where, whether for strategic or other business reasons, HP decides to sell, buy, merge or otherwise reorganize businesses in some countries. Such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or the receipt of it from sellers. It is HP’s practice to seek appropriate protection for information in these types of transactions.
-
-  
-
-
-## 5\. Children's privacy
-
-HP does not knowingly collect information from children under the age of 13, or 14 in Korea, and does not target its websites to children under these ages. We encourage parents and guardians to take an active role in their children’s online and mobile activities and interests.
-
-  
-
-
-## 6\. Your choices and selecting your privacy preferences
-
-HP gives you the choice of receiving a variety of information that complements our products and services. You can subscribe to receive certain product- and service-specific information and also choose to receive HP general communications. We give you a choice regarding delivery of HP general communications by postal mail, email, telephone, or mobile device.
-
-You can make or change your choices about receiving either subscription or general communications at the data collection point or by using other methods, which are listed in the following sections. This option does not apply to communications primarily for the purpose of administering order completion, contracts, support, product safety warnings, driver updates, or other administrative and transactional notices where the primary purpose of these communications is not promotional in nature.
-
-  
-
-
-## Subscription communications
-
-Subscription communications include email newsletters, software updates, etc. that may be expressly requested by you or which you consented to receive. After you request such communications, you may opt out of receiving them by using one of the following methods:
-
-  
-
-
-  * Select the email "opt out" or "unsubscribe" link, or follow the opt-out instructions included in each email subscription communication.
-  * To unsubscribe from messages delivered to mobile devices, reply to the message with the words “STOP” or “END.”
-  * Return to the Web page(s) where you originally registered your preferences and follow the opt-out instructions. Access to many HP subscriptions is available at the [Subscriber's Choice web page](http://www8.hp.com/us/en/subscribe/index.html).
-  * Write to the [HP Privacy Office](https://h41268.www4.hp.com/live/index.aspx?qid=11507). Be sure to provide your name, relevant contact information, and specific relevant information about the HP subscriptions that you no longer wish to receive.
-
-
-
-Please be aware that when you opt out of receiving certain subscription communications, it may affect the services you have chosen to receive from HP where accepting the communications is a condition of receiving the services.
-
-  
-
-
-## HP general communications
-
-HP general communications provide information about products, services, and/or support. This may include new product or services information, special offers, or invitations to participate in market research or compliance reviews.
-
-You will often be able to use [HP Passport](https://passport2.hp.com/hppcf/modifyuser.do?hpappid=privacy) to indicate whether you want to receive general communications from HP. HP Passport is a single-login service that lets you register with HP Passport-enabled websites using a single-user identifier and password of your choice. HP Passport uses cookies to store your basic personal information so you don't have to retype it when you return to one of HP's many websites in the future. HP Passport also allows you to set your privacy preferences. Your preferences will apply across HP websites, email, and other communication vehicles that use HP Passport.
-
-If you are unable to use HP Passport, you may opt out of receiving these general communications by using one of the following methods:
-
-  
-
-
-  * Select the email "opt out" or "unsubscribe" link, or follow the opt-out instructions included in each email communication.
-  * To unsubscribe from messages delivered to mobile devices, reply to the message with the words “STOP” or “END.”
-  * Write to the [HP Privacy Office](https://h41268.www4.hp.com/live/index.aspx?qid=11507). Be sure to provide your name, relevant contact information, and specific relevant information about your privacy preferences.
-
-
-
-## 7\. Access to and accuracy of your information
-
-HP strives to keep your personal information accurately recorded. We have implemented technology, management processes and policies to help maintain data accuracy. HP provides individuals with reasonable access to personal information that they provided to HP and the reasonable ability to review and correct it or ask for anonymization, blockage, or deletion, as applicable. To protect your privacy and security, we will also take reasonable steps to verify your identity, such as requiring a password and user ID, before granting access to your data. To view and change the personal information that you directly provided to HP you can return to the web page where you originally submitted your data and follow the instructions on that web page, use [HP Passport](https://passport2.hp.com/hppcf/modifyuser.do?hpappid=privacy) where enabled, or contact the [HP Privacy Office](https://h41268.www4.hp.com/live/index.aspx?qid=11507).
-
-  
-
-
-## 8\. Keeping your personal information secure
-
-HP takes seriously the trust you place in us. To prevent unauthorized access or disclosure, to maintain data accuracy, and to ensure the appropriate use of the information, HP utilizes reasonable and appropriate physical, technical, and administrative procedures to safeguard the information we collect and process. HP retains data only as required or permitted by local law and while it has a legitimate business purpose.
-
-When collecting or transferring sensitive information such as credit card information we use a variety of additional security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. The personal information you provide us is stored on computer systems located in controlled facilities which have limited access. When we transmit highly confidential information (such as credit card number or password) over the internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
-
-Credit card numbers are used only for processing payments and are not used for other purposes. As part of real-time payment processing, HP subscribes to fraud management services. This service provides HP with an extra level of security to guard against credit card fraud and to protect your financial data.
-
-  
-
-
-## 9\. Changes to this Statement
-
-If we modify our Privacy Statement, we will post the revised statement here, with an updated revision date. If we make significant changes to our Statement that materially alter our privacy practices, we may also notify you by other means, such as sending an email or posting a notice on our corporate website and/or social media pages prior to the changes taking effect.
-
-  
-
-
-## 10\. Contacting us
-
-We value your opinions. If you have comments or questions about our Privacy Statement, privacy at HP or wish to make a complaint please send them to the [HP Privacy Office](https://h41268.www4.hp.com/live/index.aspx?qid=11507) or write to us at the following address:
-
-  
-
-
- **Canada, Most of Latin American, and US:**  
-HP Privacy Mailbox  
-11445 Compaq Center Drive W.  
-Mailstop 040307  
-Houston, Texas 77070  
-USA 
-
-**Mexico:**  
-Hewlett-Packard  
+All locations other than Europe, Middle East and Africa:  
+iManage  
 Legal Department  
-Prolongación Reforma No. 700  
-Colonia Lomas de Santa Fe  
-México, D.F., C.P.01210 
+540 West Madison, Suite 2400  
+Chicago, IL 60661  
+Europe, Middle East and Africa:  
+iManage  
+Legal Department  
+Suite 6.06  
+80 Coleman Street  
+London EC2R 5BJ  
+11\. How iManage uses automatic data collection tools  
+The following sections provide additional information about commonly-used web technology tools.  
+Cookies  
+A “cookie” is a small data file transferred by a website to your computer’s hard drive. iManage or its service providers send cookies when you surf our site or sites where our ads appear, make purchases, request or personalize information, or register yourself for certain services. Accepting the cookies used on our site, sites that are “powered by” another company on iManage’s behalf, or sites where our ads appear may give us access to information about your browsing behavior, which we may use to personalize your experience. Cookies are typically classified as either “session” cookies or “persistent” cookies.
 
-**Europe, Middle East, and Africa:**  
-EMEA Privacy Office  
-Hewlett Packard  
-MS 250  
-1 Avenue du Canada  
-HP Les Ulis -91947 – France 
-
-**Asia-Pacific and Japan:**  
-HP APJ Privacy Office  
-Hewlett Packard  
-PO Box 384  
-Concord West, NSW 2138  
-Australia
-
-Rev. November 2013
-
-  
-
-
-## How HP uses automatic data collection tools
-
-The following sections provide additional information about commonly-used web technology tools.
-
-  
-
-
-## Cookies
-
-A “cookie” is a small data file transferred by a website to your computer’s hard drive. HP or its service providers send cookies when you surf our site or sites where our ads appear, make purchases, request or personalize information, or register yourself for certain services. Accepting the cookies used on our site, sites that are “powered by” another company on HP’s behalf, or sites where our ads appear may give us access to information about your browsing behavior, which we may use to personalize your experience. Cookies are typically classified as either “session” cookies or “persistent” cookies.
-
-  
-
-
-  * Session cookies do not stay on your computer after you close your browser.
-  * Persistent cookies remain on your computer until you delete them or they expire. Most browsers automatically accept cookies by default, but you can usually refuse cookies or selectively accept cookies by adjusting the preferences in your browser. If you turn off cookies, there may be some features of our site that will not be available to you and some Web pages may not display properly.
-
-
-
-In certain countries you may also adjust your HP.com and associated cookie preferences by using a preference manager tool in this Statement which is available from the site you are visiting.
+Session cookies do not stay on your computer after you close your browser.  
+Persistent cookies remain on your computer until you delete them or they expire. Most browsers automatically accept cookies by default, but you can usually refuse cookies or selectively accept cookies by adjusting the preferences in your browser. If you turn off cookies, there may be some features of our site that will not be available to you and some web pages may not display properly.
 
 You can find information on popular browsers and how to adjust your cookie preferences in the help and support section of your browser.
 
-From time to time, HP will use Flash local shared objects (LSOs) to store Flash content information and preferences. LSOs perform similar functions to HTML browser cookies and deposit small files on your computer, which are commonly called Flash cookies. Flash cookies are different from browser cookies and cookie management tools provided by your browser may not remove Flash cookies. To learn more about Flash Cookies and how to manage the related privacy and storage settings, please visit the [Adobe Systems website ](http://www.adobe.com/).
+From time to time, iManage will use Flash local shared objects (LSOs) to store Flash content information and preferences. LSOs perform similar functions to HTML browser cookies and deposit small files on your computer, which are commonly called Flash cookies. Flash cookies are different from browser cookies and cookie management tools provided by your browser may not remove Flash cookies.
 
-  
+Web beacons  
+Some iManage.com and third-party web pages, applications, and HTML-formatted email use web beacons alone or in conjunction with cookies to compile information about your website usage and your interaction with email, as well as to measure performance on imanage.com, applications, and websites “powered by” another company on iManage’s behalf. A web beacon is an electronic image, called a single-pixel (1×1) or clear GIF. Web beacons can recognize certain types of information on your computer such as cookies, the time and date of a page viewed, and a description of the page where the web beacon is placed. Depending on the context, web beacons may also refer to content on a third-party server, and may be used by service providers to deliver relevant advertising to you.
 
+You may be able to disable web beacons in email messages by not downloading images contained in the message you receive (this feature varies depending on the email software used on your personal computer). However, doing this may not always disable a web beacon or other automatic data collection tools in the email message due to specific email software capabilities.
 
-## Ad Choices
+If you choose to receive marketing emails or newsletters from iManage, iManage may automatically collect personal information about you. For example, through web beacons and personalized URLs embedded in these emails or newsletters, iManage can track whether you’ve opened those messages and whether you’ve clicked on links contained within those messages.
 
-Most web browsers offer you the ability to inform websites and ad networks that you do not want your online activities tracked through a “Do Not Track” feature. Learn more about network advertising and how to opt out of being tracked by visiting <http://www.aboutads.info/choices/>[](http://www.aboutads.info/choices/).
+Embedded Web links  
+Emails from iManage often use links designed to lead you to a relevant area on the web, after redirection through iManage’s servers. The redirection system allows iManage to change the destination URL of these links, if necessary, and to determine the effectiveness of our marketing initiatives.  
+In emails, such web links may also allow iManage to determine whether you have clicked a link in an email, and this information about the interaction may be connected to your personal identity. If you do not want iManage to collect information about the links that you click, you can change your choice about how you receive communications from iManage (i.e. choose a text-based version of the message where available) or choose not to click links in an email that iManage sends.
 
-  
-
-
-## Web beacons
-
-Some HP.com and third-party web pages, applications, and HTML-formatted email use Web beacons alone or in conjunction with cookies to compile information about your website usage and your interaction with email, as well as to measure performance on hp.com, applications, and websites “powered by” another company on HP’s behalf. A web beacon is an electronic image, called a single-pixel (1x1) or clear GIF. Web beacons can recognize certain types of information on your computer such as cookies, the time and date of a page viewed, and a description of the page where the web beacon is placed. Depending on the context, web beacons may also refer to content on a third-party server, and may be used by service providers to deliver relevant advertising to you.
-
-You may be able to disable web beacons in email messages by not downloading images contained in the message you receive (this feature varies depending on the email software used on your personal computer). However, doing this may not always disable a web beacon or other automatic data collection tools in the email message due to specific email software capabilities. For more information about this, please refer to the information provided by your email software or service provider.
-
-If you choose to receive marketing emails or newsletters from HP as specified in Your choices and selecting your privacy preferences, HP may automatically collect personal information about you. For example, through web beacons and personalized URLs embedded in these emails or newsletters, HP can track whether you’ve opened those messages and whether you’ve clicked on links contained within those messages. For more information on embedded web links, see below.
-
-  
-
-
-## Embedded Web links
-
-Emails from HP, Internet keyboard keys preconfigured by HP, and promotional icons preinstalled on your PC desktop often use links designed to lead you to a relevant area on the Web, after redirection through HP’s servers. The redirection system allows HP to change the destination URL of these links, if necessary, and to determine the effectiveness of our marketing initiatives.
-
-In emails, such web links may also allow HP to determine whether you have clicked a link in an email, and this information about the interaction may be connected to your personal identity. If you do not want HP to collect information about the links that you click, you can:
-
-  
-
-
-  * change your choice about how you receive communications from HP (i.e. choose a text-based version of the message where available) or choose not to click links in an email that HP sends
-  * delete the promotional icons preinstalled by HP on your PC desktop or choose not to click on those
-  * reconfigure the Internet keyboard keys on certain PC models to launch a destination URL of your choice by using the instructions provided with your PC
-
-
-
-## HP ads and offerings on third-party websites
-
-HP contracts with service providers to place ads on websites owned by third parties. In addition, some websites may be “powered by” a service provider to provide HP offers on HP’s behalf. These service providers may send cookies from and use web beacons on these third-party websites and on hp.com. The cookies and web beacons may enable HP to collect information about the pages you viewed and the links you clicked.
-
-You can learn more about network advertising and how to opt out by visiting [http://www.aboutads.info ](http://www.aboutads.info/).
-
-  
-
-
-## Additional information about webOS devices
-
-In addition to the collection and usage practices described in the HP Privacy Statement, this information applies to webOS and the software and services associated with webOS. HP collects and uses webOS-specific information in the following ways:
-
-  
-
-
-  *  **Account Set-Up.** If you set up an account to receive services we provide through your webOS device, we will collect your name, phone number, email address and account settings to process your registration and provide those services.
-  *  **On-Device Services.** If you use services we provide through your webOS device, we will collect information relevant to providing the services and as you designate. For example:
-    *  **Device Diagnostics, Analytics and Updates.** In order to improve our product and service offerings, your webOS device includes remote diagnostics, analytics, and software update services. Your webOS device collects technical information related to your device (including serial number, unique device identifier, diagnostic information, usage and crash logs, application configurations, etc.) as required to help identify and troubleshoot issues, and to provide and improve service.
-    *  **Back-up and Restore.** When you use a back-up and restore service for data stored on your device, we will automatically and regularly collect information related to your contacts, calendar, tasks, email and messaging, including online account usernames; account credentials and settings; memos; text/MMS/IM messages and conversations; phone call logs; web bookmarks and cookies; installed App Catalog applications; and preferences, including Location Service preferences to help enable retrieval of that data when restoring or replacing your device. Additional details, including how to turn “off’ the feature can be found at Using Backup.
-    *  **Location-Based Services.** When you use location-based services, we will collect, transmit, maintain, process, and use your location and usage data (including both real time geographic information and information that can be used to approximate location) in order to provide location-based and related services, and to enhance your device experience.
-
-
-
-You may choose whether or not to provide your personal information to us. If you choose not to do so, you may not be able to take advantage of certain webOS products, services, offers, or options that depend on personal information.
-
-For your convenience and information, webOS devices may provide links to third-party websites or include applications from third parties. HP does not control those third-party sites or applications, nor does HP control their privacy practices, which may differ from HP's practices. We do not endorse or make any representations about third-party websites or applications. The personal data you choose to provide to or that is collected by these third parties is not covered by this Privacy Statement. We encourage you to review the privacy policy of any company you interact with before allowing the collection your personal information.
-
-Because HP operates globally, information we gather may be made available to our worldwide business units and subsidiaries. If you are in the European Economic Area, please note that the personal information you provide will be transferred outside the European Economic Area for use by HP and its affiliates and subsidiaries for the purposes described above. By using webOS devices, HP websites, registering for an account or service, or otherwise providing HP with your personal information, you consent to this transfer of your personal information throughout the global HP network of entities.
-
-Back to top
+iManage ads and offerings on third-party websites  
+iManage contracts with service providers to place ads on websites owned by third parties. In addition, some websites may be “powered by” a service provider to provide iManage offers on iManage’s behalf. These service providers may send cookies from and use web beacons on these third-party websites and on iManage.com. The cookies and web beacons may enable iManage to collect information about the pages you viewed and the links you clicked.  
+Most web browsers offer you the ability to inform websites and ad networks that you do not want your online activities tracked through a “Do Not Track” feature.
