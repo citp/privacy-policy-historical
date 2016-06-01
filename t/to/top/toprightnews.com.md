@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toprightnews.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105013652id_/http%3A//toprightnews.com/%3Fpage_id%3D8570) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toprightnews.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601184117id_/http%3A//toprightnews.com/%3Fpage_id%3D8570) for the most accurate reproduction.*
 
 # Privacy Policy | Top Right News
 
@@ -92,3 +92,5 @@ E-mail for notice: webmaster@toprightnews.com
 
 
 This Privacy Policy is revised as of **February 4, 2015** and may be modified from time to time.
+
+Top Right News is a wholly-owned subsidiary of Big Sky Group, Inc. [policy@bigskygroup.com](mailto:policy@bigskygroup.com).
