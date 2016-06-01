@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the poorvika.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504201404id_/http%3A//poorvikamobile.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poorvika.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601132937id_/http%3A//www.poorvikamobile.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+hi Privacy Policy
+
+[ ]()
+
+Your shopping cart is empty!
 
 **Privacy Policy - General**
 
