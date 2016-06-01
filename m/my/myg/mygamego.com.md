@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the mygamego.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225094914id_/http%3A//www.mygamego.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygamego.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601114215id_/http%3A//www.mygamego.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 .  
- **Our Privacy Policy**
+**Our Privacy Policy**
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at contact@mygamego.com.
 
