@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the expedia.com.my privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921151551id_/https%3A//www.expedia.com.my/p/corporate/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expedia.com.my privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601111831id_/https%3A//www.expedia.com.my/p/corporate/privacypolicy) for the most accurate reproduction.*
 
 # Expedia, Inc. Privacy Pledge | Expedia.com.my
 
-This website (“Website”) is owned and operated by AAE Travel Pte. Ltd., a Singapore private company and joint venture between Expedia, Inc. and Air Asia Berhad.AAE Travel Pte. Ltd. understands that making bookings online involves a great deal of trust on your part. We take this trust very seriously, and make it a high priority to ensure the security and confidentiality of the personal information you provide to us. This Privacy Policy applies to data collected on this Website. Our Website is intended for use by individuals who are over 18 years of age. 
+This website (“Website”) is owned and operated by AAE Travel Pte. Ltd., a Singapore private company and joint venture between Expedia, Inc. and Air Asia Berhad. AAE Travel Pte. Ltd. understands that making bookings online involves a great deal of trust on your part. We take this trust very seriously, and make it a high priority to ensure the security and confidentiality of the personal information you provide to us. This Privacy Policy applies to data collected on this Website. Our Website is intended for use by individuals who are over 18 years of age. 
 
 The terms “we”, “us”, “our” and “AAE” refer to AAE Travel Pte. Ltd. and its subsidiaries and corporate affiliates (collectively, the “AAE Companies”). An AAE corporate affiliate shall mean any entity (whether a person, corporation, partnership or otherwise) that directly or indirectly, controls, are controlled by, or are under common control with AAE. An entity shall be deemed to be in “control” of another entity when it holds fifty (50%) percent or more of voting shares in that entity or has management control of that entity).The term “you” refers to the customer visiting the Website and/or booking a reservation through us on this Website, or through our customer service agents.
 
@@ -140,6 +140,10 @@ You always have the ability to control what information a Mobile App sends to us
 
 We want you to feel confident about using this Website to make hotel and travel bookings, and we are committed to protecting the information we collect. While no website can guarantee security, we have implemented appropriate administrative, technical, and physical security procedures to help protect the personal information you provide to us. For example, only authorized employees are permitted to access personal information, and they only may do so for permitted business functions. In addition, we use encryption when transmitting personal information that is sensitive to you (e.g., credit card details) between your system and ours, and we employ firewalls and intrusion detection systems to help prevent unauthorized persons from gaining access to your information.
 
+#### Where your data is stored
+
+AAE stores and processes Personal Data about Travelers in secure environments in the country or region where it is collected as well as in the United States. In order to provide its services, AAE must transfer your Personal Data to the United States, and possibly to other countries where our third party vendors are located. Such transfers of Personal Data will be conducted in accordance with local data protection laws.
+
 #### External links
 
 If any part of this Website links you to other websites, those websites do not operate under this Privacy Policy. We recommend you examine the privacy statements posted on those other websites to understand their procedures for collecting, using, and disclosing personal information. 
@@ -153,8 +157,8 @@ We may update this Privacy Policy in the future. We will notify you about materi
 If you have questions about either this Privacy Policy (or your travel planning or purchases) or any complaints about the processing of your personal information, please contact our data privacy officer at [aaeprivacy@aaetravel.com](mailto:aaeprivacy@aaetravel.com). You can also contact your local data protection authority for further information or to file a complaint.
 
 We will do our best to respond to your request within 24 hours.   
-This Privacy Policy is effective as of 23 April 2015.
+This Privacy Policy is effective as of 24 November 2015.
 
 AAE Travel Pte. Ltd.   
 (Company Registration Number: 201113337M)   
-50 Raffles Place, #32-01, Singapore Land Tower, Singapore 048623 
+8 Marina Boulevard #05-02, Marina Bay Financial Centre, Singapore 018981
