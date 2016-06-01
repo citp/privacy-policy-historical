@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pythonspot.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915122730id_/https%3A//pythonspot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pythonspot.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601025659id_/https%3A//pythonspot.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Pythonspot
+# Privacy Policy | PythonSpot
 
-Welcome to the website located at http://pythonspot.com (the Website, which includes any and all subdomains, present and future). We hope you enjoy your visit. By visiting and using the Website, you agree to be bound by the terms of the present Privacy Policy without qualification.
+Welcome to the website located at pythonspot.com (the Website, which includes any and all subdomains, present and future). We hope you enjoy your visit. By visiting and using the Website, you agree to be bound by the terms of the present Privacy Policy without qualification.
 
 It is the policy of us to respect your privacy, and the privacy of all visitors to the Website. This Privacy Policy (the “Policy”) has been established to help you understand our commitment to protecting your privacy, and the steps we take to ensure it.
 
@@ -33,3 +33,9 @@ We will not be held liable for any damages resulting from the misuse of any info
  **Collection of Information**
 
 I can col­lect per­son­ally iden­ti­fi­able in­for­ma­tion, like names, postal ad­dresses, email ad­dresses, etc., when vol­un­tar­ily sub­mit­ted by my vis­i­tors. This in­for­ma­tion is only used to ful­fill your spe­cific re­quest, un­less you give me per­mis­sion to use it in an­other man­ner. I never share any in­for­ma­tion with third par­ties, un­less re­quired by the law.
+
+ **Amazon Associates Program**
+
+This web­site is a par­tic­i­pant in the Ama­zon Ser­vices LLC As­so­ci­ates Pro­gram. This means, in par­tic­u­lar, that if you fol­low a link to amazon.​com or any other na­tional ver­sion of Ama­zon web­site and then make a pur­chase within 24 hours, I will re­ceive a small per­cent­age of what you pay to Ama­zon (but your price will stay ex­actly the same).
+
+I, how­ever, never link to spe­cific prod­ucts just in or­der to ad­ver­tize them. I link only to the prod­ucts that I gen­uinely find help­ful and the web­pages link­ing to such prod­ucts ex­press my hon­est opin­ion on the prod­ucts. In other words, I never rec­om­mend a prod­uct just in or­der to per­suade you to buy it; I rec­om­mend it be­cause I my­self find it use­ful.
