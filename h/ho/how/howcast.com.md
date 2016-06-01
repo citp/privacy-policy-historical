@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the howcast.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230232842id_/http%3A//www.howcast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howcast.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601220034id_/http%3A//www.howcast.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Howcast Media, Inc.
+# Privacy Policy | Howcast Media, Inc. - The best how-to videos on the web
 
 Howcast Media, Inc. (“Howcast”) is concerned about your privacy. Howcast, a Delaware Corporation, with its principal place of business at 69 Charlton Street, Second Floor, New York, NY 10014, is the owner and operator of the web sites located at Howcast.com, CakeMade.com and other URLs as may be designated in the future (collectively referred to as the “Sites”). We want you to understand what types of Personally Identifiable Information we collect from you when you visit the Sites, and how we use your Personally Identifiable Information.
 
