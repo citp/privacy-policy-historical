@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the whiteflowerfarm.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213104254id_/http%3A//www.whiteflowerfarm.com/security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whiteflowerfarm.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601220727id_/http%3A//www.whiteflowerfarm.com/privacy) for the most accurate reproduction.*
 
-# Online Privacy & Security - White Flower Farm
+# Privacy Policy
 
 **Your Privacy**
 
-White Flower Farm respects the privacy of every individual who shops via our print or online gardening catalog. Our privacy policy was updated on June 17, 2014. 
+White Flower Farm respects the privacy of every individual who shops via our print or online gardening catalog. Our privacy policy was updated on June 17, 2014.
 
 For our gardening friends who choose to receive our emails, rest assured we do not share, rent, or sell your email address to outside companies or agencies. Period.
 
-We are members of the Direct Marketing Association. If you'd rather not receive mailings from other companies we exchange lists with, please email our customer service team at [**custserv@whiteflowerfarm.com**](mailto:custserv@whiteflowerfarm.com). When you request our catalog online, you are given the opportunity to opt-out of having your postal address shared. 
+We are members of the Direct Marketing Association. If you'd rather not receive mailings from other companies we exchange lists with, please email our customer service team at [ **custserv@whiteflowerfarm.com**](mailto:custserv@whiteflowerfarm.com). When you request our catalog online, you are given the opportunity to opt-out of having your postal address shared.
 
 **Your Personal Information**
 
@@ -32,12 +32,12 @@ If you would like to erase all cookies at the end of every session or disable th
 
 **Google Analytics for Display Advertising:**
 
-We have implemented the following features for Google Analytics for Display Advertising: Remarketing, Google Display Network Impression Reporting, DoubleClick Campaign Manager integration, and Google Analytics Demographics and Interest Reporting. Using the [**Ads Settings**](https://www.google.com/settings/ads?hl=en&sig=ACi0TCiyDggutF0hjlVebl9s3BlQfBbBTg32unZznKebFw-foRwaVPWDiWwLMBT_Xt47IYNuU1WoulKouVBbtFfmelM5M8AuV3Fiw18CIr0ZyBALCNJjq7ui1C_m7zpZwm4vFFcMDnbzBoEEKTgHT1z4yCVO3u6khLYoQcPA3b9i-xppLImH-yanLBAVo3Y3m6rCc3PTv7eg) **,** you can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads. If you would like to opt out of these programs, please visit Google Analytics' [**currently available opt-outs**](https://tools.google.com/dlpage/gaoptout/) for the web. 
+We have implemented the following features for Google Analytics for Display Advertising: Remarketing, Google Display Network Impression Reporting, DoubleClick Campaign Manager integration, and Google Analytics Demographics and Interest Reporting. Using the [**Ads Settings**](https://www.google.com/settings/ads?hl=en&sig=ACi0TCiyDggutF0hjlVebl9s3BlQfBbBTg32unZznKebFw-foRwaVPWDiWwLMBT_Xt47IYNuU1WoulKouVBbtFfmelM5M8AuV3Fiw18CIr0ZyBALCNJjq7ui1C_m7zpZwm4vFFcMDnbzBoEEKTgHT1z4yCVO3u6khLYoQcPA3b9i-xppLImH-yanLBAVo3Y3m6rCc3PTv7eg) **,**  you can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads. If you would like to opt out of these programs, please visit Google Analytics' [ **currently available opt-outs**](https://tools.google.com/dlpage/gaoptout/) for the web.
 
 **To Opt-Out of Third Party Advertising:**
 
-You may manage your online profile and your opt-out choices by visiting the [**Digital Advertising Alliance**](http://www.aboutads.info/choices/) or the [**Network Advertising Initiative**](http://www.networkadvertising.org/managing/opt_out.asp).
+You may manage your online profile and your opt-out choices by visiting the [ **Digital Advertising Alliance**](http://www.aboutads.info/choices/) or the [ **Network Advertising Initiative**](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **More Information:**
 
-For information about targeted advertising and cookies, please visit [**www.aboutads.info**](http://www.aboutads.info/)�and [**www.iab.net/privacymatters.**](http://www.iab.net/privacymatters/)
+For information about targeted advertising and cookies, please visit [ **www.iab.net/privacymatters.**](http://www.iab.net/privacymatters/)
