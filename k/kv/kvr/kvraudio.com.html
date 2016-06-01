@@ -1,33 +1,52 @@
-<!--The following is the downloaded HTML source of the kvraudio.com privacy policy that was archived on 2015-03-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150316135100id_/http%3A//www.kvraudio.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kvraudio.com privacy policy that was archived on 2016-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160601234811id_/http%3A//www.kvraudio.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
+<title>KVR: </title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>KVR: </title>
-<meta name="description" content="KVR Audio: News and info about Audio Plugins (virtual instruments and virtual effects) - VST, VSTi, Audio Units (AU), AAX, RTAS, UAD, iOS Apps (iPhone, iPad, iPod), Android Audio Apps, Soundware and Pro Audio Hardware">
-<meta name="keywords" content="Virtual Instruments, Virtual Effects, VST, VSTi, VSTPlugins, AAX, DX, DirectX, Audio Units, AU, RTAS, Plugins, LADSPA, Universal Binary, x64, DSSI, iOS, LV2, x86_64, Android, Re, Rack Extensions">
+<meta name="description" content="KVR Audio: News and info about Audio Plugins (Virtual Instruments and Virtual Effects) - VST Plugins, Audio Units (AU), AAX Plugins, Reason Rack Extensions, iOS Apps (iPhone and iPad), Android Audio Apps, Soundware and Pro Audio Hardware">
+<meta name="keywords" content="Virtual Instruments,Virtual Effects,VST,VST Plugins,AAX,Audio Units,AU,Plugins,iOS,LV2,Android,Rack Extensions">
 <meta property="og:title" content="">
-<meta property="og:description" content="KVR Audio News and info about Audio Plugins (virtual instruments and virtual effects) - VST, VSTi, Audio Units (AU), AAX, RTAS, UAD, iOS Apps (iPhone, iPad, iPod), Android Audio Apps, Soundware and Pro Audio Hardware">
+<meta property="og:description" content="KVR Audio: News and info about Audio Plugins (Virtual Instruments and Virtual Effects) - VST Plugins, Audio Units (AU), AAX Plugins, Reason Rack Extensions, iOS Apps (iPhone and iPad), Android Audio Apps, Soundware and Pro Audio Hardware">
 <meta property="og:image" content="http://static.kvraudio.com/i/b/kvraudio-300x300-grey-eeeeee.png">
 <meta property="og:image" content="http://static.kvraudio.com/i/b/kvraudio-300x300-blue.png">
+<meta name="msapplication-config" content="none">
 <meta name="msapplication-TileColor" content="#333333">
 <meta name="msapplication-TileImage" content="http://static.kvraudio.com/i/kvr-logo-144x144.png">
 <link type="image/png" rel="icon" href="/favicon.png">
 <link rel="apple-touch-icon" href="http://static.kvraudio.com/i/kvr72.png">
-<link type="text/css" rel="stylesheet" href="http://code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.min.css">
-<link type="text/css" rel="stylesheet" href="http://static.kvraudio.com/inc/k58.css">
-<script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
-<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-<script>$.uiBackCompat = false;</script>
-<script src="http://code.jquery.com/ui/1.11.2/jquery-ui.min.js"></script>
-<!--[if lt IE 8]>
-<script src="http://static.kvraudio.com/inc/json2.js"></script>
-<![endif]-->
-<script src="http://static.kvraudio.com/inc/jquery-pae-35a.js"></script>
+<link type="text/css" rel="stylesheet" href="https://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.min.css">
+<link type="text/css" rel="stylesheet" href="//static.kvraudio.com/inc/kvr.css?v=68">
+
+<script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js" integrity="sha256-xNjb53/rY+WmG+4L6tTl9m6PpqknWZvRt0rO1SRnJzw=" crossorigin="anonymous"></script>
+<script src="//static.kvraudio.com/inc/kvr-pae.js?v=49"></script>
 <script>
+function kvr_fill_kvrfeaturedcol()
+{
+  $("#tmptst").remove();
+  var kh = $("#kvrfeaturedcol").outerHeight();
+  var kw = $("#kvrfeaturedcol").width();
+  var ot = $("#newsheadlines").position().top;
+  $("#newsheadlines a").each(function(){
+    ot += $(this).outerHeight();
+    if(ot > kh)
+    {
+      return false;
+    }
+  });
+
+  var dif = parseInt((ot - kh),10) - 10;
+
+  if(dif > 49)
+  {
+    $("#kvrfeaturedcol").append('<div id="tmptst" style="height: '+dif+'px;"><iframe style="width: 100%; height: '+dif+'px;" src="/_featured-spare.php"></iframe></div>');
+  }
+}
 <!--
 mykvr = {"logged":"out"};
+kvrkart = [];
 
 $(function(){
   var kvrwidth = kvr_readCookie("kvrwidth");
@@ -35,13 +54,8 @@ $(function(){
   {
     kvr_createCookie("kvrwidth",$(window).width(),365);
   }
-
-  $(document).on("mousedown","a",function(e){
-    if(e.which == 1 || e.which == 2){
-      $("#kvrgo").attr("src",'/static/go/?from='+kvr_base64_encode(window.location)+'&to='+kvr_base64_encode(this.href));
-      //$("#kvrgo").attr("src",'/static/go/?from='+encodeURIComponent(window.location)+'&to='+encodeURIComponent(this.href));
-    }
-  });
+  $(document).on("mousedown","a",function(e){if(e.which == 1 || e.which == 2){$("#kvrgo").attr("src",'/static/go/?from='+kvr_base64_encode(window.location)+'&to='+kvr_base64_encode(this.href));}});
+  $("#kvr300600").sticky({topSpacing:0});
 });
 
 soundManager.onready(function(){inlinePlayer = new InlinePlayer();});
@@ -60,9 +74,9 @@ node.parentNode.insertBefore(gads, node);
 })();
 
 googletag.cmd.push(function(){
-var mappingTopC = googletag.sizeMapping().addSize([980, 400], [728, 90]).addSize([468, 200], [468, 60]).addSize([0, 0], [320, 50]).build();
+var mappingTopC = googletag.sizeMapping().addSize([728, 400], [728, 90]).addSize([468, 200], [468, 60]).addSize([0, 0], [320, 50]).build();
 googletag.defineSlot('/3804147/728x90-Header',[728, 90], 'header320to728').defineSizeMapping(mappingTopC).addService(googletag.pubads());
-var mappingTop90 = googletag.sizeMapping().addSize([400, 100], [90, 90]).build();
+var mappingTop90 = googletag.sizeMapping().addSize([729, 100], [90, 90]).build();
 googletag.defineSlot('/3804147/90x90',[1, 1], 'kvrheader90').defineSizeMapping(mappingTop90).addService(googletag.pubads());
 var mappingSide300 = googletag.sizeMapping().addSize([980, 400], [300, 250]).addSize([600, 400], [200, 200]).build();
 googletag.defineSlot('/3804147/300x250',[1, 1], 'div-gpt-ad-1319706183506-2').defineSizeMapping(mappingSide300).addService(googletag.pubads());
@@ -72,7 +86,7 @@ var mappingSide160 = googletag.sizeMapping().addSize([980, 400], [160, 600]).bui
 googletag.defineSlot('/3804147/160x600',[1, 1], 'div-gpt-ad-1319706183506-1').defineSizeMapping(mappingSide160).addService(googletag.pubads());
 var mappingBotC = googletag.sizeMapping().addSize([980, 400], [728, 90]).addSize([468, 200], [468, 60]).addSize([0, 0], [320, 50]).build();
 googletag.defineSlot('/3804147/728x90-Footer',[728, 90], 'div-gpt-ad-1319706183506-3').defineSizeMapping(mappingBotC).addService(googletag.pubads());
-//googletag.pubads().enableSingleRequest();
+googletag.pubads().enableSingleRequest();
 googletag.enableServices();
 });
 
@@ -81,204 +95,116 @@ googletag.enableServices();
 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 ga('create', 'UA-1206334-1', 'kvraudio.com');
+ga('require', 'linkid', 'linkid.js');
 ga('send', 'pageview');
 //-->
 </script>
+<script data-schema="organization" type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "KVR Audio",
+  "url" : "http://www.kvraudio.com/",
+  "logo" : "http://static.kvraudio.com/i/kvraudio-dark-200x200-www.png",
+  "sameAs" : [
+    "https://www.facebook.com/pages/KVR-Audio-News/207641972591939",
+    "https://twitter.com/kvraudio"
+  ]
+}
+</script>
 <style type="text/css">
-blockquote {margin: 0 35px 10px 35px;} /*here to prevent clash on forum*/
+.kvrsvk, a.kvrsvk, div.kvrsvk {display: none !important;}
+#svk_search_advanced label {
+  border-width: 0;
+  padding: 5px;
+}
 
-.kvrdealblock {background-color: #305060; border-top: 1px solid #777;}
-.kvrdealblock:nth-of-type(even) {background-color: #334455;}
+#svk_search_advanced > * {
+  margin: 0 5px 5px 0;
+}
+
+.maxwidth200 {max-width: 200px;}
 </style>
+<!--[if lt IE 10]>
+<style type="text/css">
+.flex > div, .flex > a {display: inline-block;}
+.flex > .elliptit {vertical-align: bottom;}
+</style>
+<![endif]-->
 </head>
-<body>
-<img id="kvrgo" src="/static/go/0.gif" style="display: none;" alt="">
+<body id="kvrsite">
+<img id="kvrgo" src="/static/go/0.gif" alt="">
 <div id="mykvrbg"></div>
 <div id="sm2-container"><!-- SM2 flash goes here --></div>
 <div id="kvrblock">
-  <div id="superheader"><a href="/developer/kvr-audio">What is KVR Audio?</a> | <a href="/submissions.php">Submit News</a> | <a href="/advertise.php">Advertise</a> | <a href="/developer_application.php">Developer Account</a></div>
 
-  <div id="ourlinks" class="kvrbuttonizea">
-        <a href="/focus"><span class="spit spif">&nbsp;</span> <span class="kvrhidesmall">Industry Focus</span></a>
-    <span class="kvrhidemid">
-    <a href="http://www.facebook.com/pages/KVR-Audio-News/207641972591939"><span class="spit spface">&nbsp;</span> <span class="kvrhidesmall">facebook</span></a>
-    <a href="http://twitter.com/kvraudio"><span class="spit sptwit">&nbsp;</span> <span class="kvrhidesmall">Twitter</span></a>
-    </span>
-    <span class="kvrshowmid"><a href="#" id="wnakvrlnk" style="line-height: 16px;"><b>New @</b></a></span>
-  </div>
-
-  <div class="posrelit">
-    <div id="header">
-      <a href="/" id="kvrheaderlogo" title="KVR Audio - Audio Plug-ins, Hosts and Mobile Apps"></a>
-      <div id="header320to728" class="kvr320to728"><script>googletag.cmd.push(function(){googletag.display('header320to728')});</script></div>
-<div id="kvrheaderflex" class="kvrhidesmall"><a style="display: block; width: 100%; height: 100%; background: url(http://static.kvraudio.com/i/b/sl-kvr-giveaway-500x90.jpg) no-repeat scroll 0px 50% transparent;" href="http://www.kvraudio.com/kvrdeals-and-giveaways.php" title="Enter to Win Sample Logic for Life!!"></a></div>      <div id="kvrheader90"><script>googletag.cmd.push(function(){googletag.display('kvrheader90');});</script></div>
+  <div id="superheader" class="sp25container hovthisblue" style="z-index:1;">
+    <span class="kvrshowsmall"><a href="/" title="KVR Audio - Audio Plugins, Hosts and Mobile Apps" style="padding: 0; margin: 0 5px;"><span class="spit spkvrlogo25">&nbsp;</span></a></span><a href="/forum/ucp.php?mode=login" class="kvrloginrequired" style="background-color: #404040; margin-right: 5px;">Login<span class="kvrhidetiny"> / Register</span></a><a href="/mykvr/" title="My KVR" style="padding: 0;"><span class="spit spmycircle kvrshowsmall">&nbsp;</span></a><div class="navmore kvrhidesmall" style="background-color: #404040;"><a href="/mykvr/" title="My KVR" style="border-right: 1px solid #4e4e4e;">My KVR</a><a href="#" class="memdropit kvrhidesmall" data-d="9" title="My Updates" style="border-right: 1px solid #4e4e4e;"><span class="mysbsum" id="mysbupdc" style="margin-right: 4px;">0</span><span class="kvrhidesmall">Updates</span> <span class="spit spdarcl" style="height: 6px;"></span></a><a href="#" class="memdropit kvrhidesmall" data-d="10" title="My Groups" style="border-right: 1px solid #4e4e4e;"><span class="spit sporg">&nbsp;</span></a><a href="#" class="memdropit kvrhidesmall" data-d="11" title="My Favorites"><span class="spit spstar">&nbsp;</span></a></div><a href="/marketplace/" class="kvrsvk" style="background-color: #fff; padding: 0; margin-left: 5px;"><span class="spit spmpcircle">&nbsp;</span></a><a class="memdropit kvrsvk" id="kvrcartsummary" href="#" data-d="999" title="Cart" style="background-color: #eee; color: #555;"><span id="kvrcartsumitems" class="kvrhidemid">0 items</span><span class="kvrhidemid"> | </span>$<span id="kvrcartsumtotal">0.00</span> <span class="spit spdarc" style="height: 6px; margin-left: 5px;"></span></a><span class="kvrshowmid"><a href="#" id="wnakvrlnk" style="background-color: #226d9b; position: relative; margin-left: 5px;"><b>New @</b><span class="spit spdarcl" style="bottom: 1px; left: -webkit-calc(50% - 3.5px); left: calc(50% - 3.5px); position: absolute; opacity: 0.6;"></span></a></span>
+    <a href="/developer/kvr-audio" class="kvrhidesmall">What is KVR?</a>
+    <a href="/submissions.php" class="kvrhidesmall">Submit News</a>
+    <a href="/advertise.php" class="kvrhidesmall">Advertise</a><div class="blockright"> <div class="navmore kvrddb"><a href="/inc/a.php?w=search" id="searchkvr" data-focus="searchkvrq" class="kvrgrad5hov kvrddget"><span class="kvrhidemid">&nbsp;Search </span><span class="spit spsrch">&nbsp;</span></a><div class="kvrddm kvrsearchddm" style="position: fixed; top:0;"></div></div>
+      <div class="kvrhidemid navmore">
+        <div class="navmore kvrddb">
+          <a href="/inc/a.php?w=kvrmarks" class="kvrddget kvrchkloggedin" title="KVRmarks" style="padding: 0;"><span class="spit spkvrmark25">&nbsp;</span></a>
+          <div class="kvrddm kvrmenugen" style="right: 0; max-width: 320px"></div>
+        </div>
+        <a href="http://www.facebook.com/pages/KVR-Audio-News/207641972591939" title="KVR Audio on Facebook" style="padding: 0;"><span class="spit spfacecircle">&nbsp;</span></a>
+        <a href="http://twitter.com/kvraudio" title="@kvraudio on Twitter" style="padding: 0;"><span class="spit sptwitcircle">&nbsp;</span></a>
+      </div>
     </div>
-    <div id="wnakvr"></div>
-    <div id="kvrbar" class="hovthisblue">
-      <div class="navmore kvrddb">
-        <a href="/" class="navsinglemore navonelinewithdarc"><strong>News</strong><span class="navonelinedarc"><span class="spit spdarcl" style="height: 6px;">&nbsp;</span></span></a>
-        <div class="navmoremenu shaditdrk kvrddm kvrgrad2 kvrfullwidth" style="padding: 10px 0;">
-          <div class="kvrtbl">
-            <div class="kvrtblr">
-<div class="kvrtblc" style="padding: 0 10px;"><a href="/?t%5b%5d=top">Top Stories</a> <a href="/?t%5b%5d=instruments">Instrument News - Plug-ins &amp; Apps</a> <a href="/?t%5b%5d=effects">Effect News - Plug-ins &amp; Apps</a> <a href="/?t%5b%5d=hosts">Plug-in Host News</a> <a href="/?t%5b%5d=sounds">Soundware News - Sample Libraries, Patches &amp; Presets</a> </div><div class="kvrtblc" style="padding: 0 10px; border-left: 1px solid #666; border-right: 1px solid #666;"><a href="/?t%5b%5d=mobile">App News (Mobile Applications)</a> <a href="/?t%5b%5d=hardware">Hardware</a> <a href="/?t%5b%5d=free">Free News</a> <a href="/?t%5b%5d=developers">Developer Tools</a> <a href="/?t%5b%5d=edu">Education, Training, Tutorials, etc.</a> </div><div class="kvrtblc" style="padding: 0 10px;"><a href="/deals.php">#KVRDeals</a> <a href="/?t%5b%5d=offers">Other Special Offers, Competitions &amp; Events</a> <a href="/news-archive.php">News Archive (by month)</a> <a href="/?t%5b%5d=twitter">KVR News on Twitter</a> </div>            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="navmore kvrddb">
-        <a href="/q.php" class="navsinglemore"><strong class="kvrhidesmall">Plug-ins, Hosts, Apps,<br>Hardware &amp; Soundware</strong><strong class="kvrshowsmall">Products</strong> <span class="spit spdarcl kvrhidesmall" style="height: 8px; vertical-align: text-bottom;">&nbsp;</span></a>
-        <div class="navmoremenu shaditdrk kvrddm kvrgrad2 kvrfullwidth" style="left: 0; padding: 0;">
-          <div class="kvrtbl" style="margin: 10px;">
-            <div class="kvrtblr">
-              <div class="kvrtblc" style="padding: 0 10px 10px 0; width: 402px;">
-                <!--<a href="/shop">Buy Now @ the KVR Shop</a>-->
-                <a href="/q.php">Search the KVR Product Database</a>
-                <a href="/?t%5b%5d=db">See the Latest Additions</a>
-                <a href="/reviews.php">Read the Latest Reviews by KVR Members</a>
-                <a href="/plugin-ranks.php">Product Rankings</a>
-                <a href="/ratings.php">Product Ratings</a>
-                <a href="/groups/">Groups: Whats's in?</a>
-                <a href="/developer/">Search by Developer (Brand / Vendor)</a>
-              </div>
-              <div class="kvrtblc kvrhidesmall" style="padding: 0 10px; border-left: 1px solid #666; border-right: 1px solid #666; width: 120px;">
-                <div class="kvrgrad1 roundit">
-                  <a href="/mykvr" style="height: 200px !important; padding: 10px !important; text-align: center !important;"><img src="http://static.kvraudio.com/i/mykvr100.png" alt="My KVR" style="width: 100px; height: 100px; margin-bottom: 10px;">My KVR<br>Your Personal Plug-in, App &amp; Soundware Universe</a>
-                </div>
-              </div>
-              <div class="kvrtblc kvrhidesmall" style="padding-left: 10px; width: 400px;"><div class="posrelit kvrgrad1 roundit" style="width: 400px; color: #fff; height: 220px;"><a href="/more/727" style="height: 200px !important; padding: 10px !important; overflow: hidden;" title="TDR Kotelnikov GE by Tokyo Dawn Labs"><span style="display: block; padding: 5px; margin-bottom: 5px; background-color: #444; text-align: center;">Featured Product</span><span style="display: block; float: right; max-width: 200px; max-height: 168px; overflow: hidden; margin-left: 10px;"><img src="http://static.kvraudio.com/i/s/kotelnikovge_1.jpg" alt="" style="max-width: 200px;"></span><p>TDR Kotelnikov GE</p><span style="font-weight: normal;">TDR Kotelnikov GE is a wideband dynamics processor combining high fidelity dynamic range control with deep musical flexibility. As a descendant of the venerable TDR Feedback Compressor product family,...</span><span style="position: absolute; right: 10px; bottom: 10px; padding: 3px; background-color: #202020;">Read More...</span></a></div></div>
+    <div class="clearit"></div>
+  </div>
+  <div id="wnakvr"></div>
+  <div id="mykvrsb2" class="shaditdrk"></div>  <header id="header">
+    <a href="/" id="kvrheaderlogo" title="KVR Audio - Audio Plugins, Hosts and Mobile Apps" class="kvrhidesmall"><span class="spit spkvrlogo" style="margin-top: 18px;">&nbsp;</span></a>
+    <div id="header320to728" class="kvr320to728"><script>googletag.cmd.push(function(){googletag.display('header320to728')});</script></div>
+    <div id="kvrheaderflex" class="kvrhidesmall"><a style="display: block; width: 100%; height: 100%; background: url(//static.kvraudio.com/i/b/roli-500x90-giveaway.jpg) no-repeat scroll 0px 50% transparent;" href="//www.kvraudio.com/kvrdeals-and-giveaways.php" title="KVR Giveaway Of The Month!"></a></div>    <div id="kvrheader90" class="kvrhidesmall"><script>googletag.cmd.push(function(){googletag.display('kvrheader90');});</script></div>
+  </header>
+  <div id="column1">
+    <div id="main" class="kvr_sm_inline">
+<nav id="kvrbar" class="hovthisblue kvrnavcollapse posrelit"><a href="/" class="nocollapse"><span class="spit spnewscircle kvrshowtiny">&nbsp;</span><strong class="kvrhidetiny">News</strong></a><a href="/plugins/newest" class="nocollapse" style="border-right-width: 0;"><span class="spit sppluginscircle kvrshowtiny">&nbsp;</span><strong class="kvrhidetiny">Plugins</strong></a><div class="navmore kvrddb posrelit">
+          <span class="ddseparator"></span>
+          <a href="#" class="ddarrow posrelit"><span class="spit spdarcl">&nbsp;</span></a>
+          <div class="navmoremenu shaditdrk kvrddm kvrgrad2" style="left: -100px; width: 320px;">
+            <div class="blockright kvrhidesmall kvrgrad7" style="margin: 0 0 20px 10px; width: 100px;"><a href="/mykvr" style="padding: 10px !important; text-align: center !important;" title="My KVR"><img src="//static.kvraudio.com/i/mykvr100.png" alt="My KVR" style="margin-bottom: 10px;">Your Personal Plugin, App &amp; Soundware Universe</a></div>
+            <div class="blockleft" style="width: 190px;">
+              <a href="/marketplace/" class="kvrsvk">Buy Now: KVR Marketplace</a>
+              <a href="/plugins/newest">What's New?</a>
+              <a href="/q.php">Search Plugins &amp; More</a>
+              <a href="/developer/">Search Developers (Brand)</a>
+              <a href="/reviews.php">Latest Reviews</a>
+              <a href="/plugin-ranks.php">Product Rankings</a>
+              <a href="/ratings.php">Product Ratings</a>
+              <a href="/groups">Groups: Whats's in?</a>
             </div>
+            <hr style="border-color: #666;">
+            <a href="/allpluginsononepage.php" style="text-align:center !important;">All Plug-ins, Hosts, Apps &amp; Soundware in the KVR Product Database on One Page</a>
           </div>
-        <div style="border-top: 1px solid #666; margin: 10px; padding-top: 10px; clear: both;"><a href="/allpluginsononepage.php"><span style="display: block; margin: 0 auto; max-width: 524px;">All Plug-ins, Hosts, Apps &amp; Soundware in the KVR Product Database on One Page</span></a></div>
-        </div>
-      </div>
-      <a href="/banks.php" class="kvrhidesmall"><b>Downloads</b><br>(+Uploads)</a>
-      <div class="navmore posrelit">
-        <a href="/forum/" style="float: none; height: 16px; margin-bottom: 0;"><b>Forum</b></a>
-        <a href="#" id="kvrmtrigf" title="Click for Forum List, Forum Search, Memberlist and more..."><span style="left: 0;
-      position: absolute; right: 0; top: 5px; line-height: 0 !important;"><span class="spit spdarcl opacity05">&nbsp;</span><span class="spit spdarcl opacity05" style="margin: 0 1px;">&nbsp;</span><span class="spit spdarcl opacity05">&nbsp;</span></span></a>
-      </div>
-      <a href="/video/"><span class="spit sptv">&nbsp;</span><br class="kvrhidesmall"><b class="kvrhidesmall">Videos</b></a>
-      <a href="/music.php"><span class="spit spplm16o">&nbsp;</span><br class="kvrhidesmall"><b class="kvrhidesmall">Music</b></a>
-      <div class="navmore kvrddb"><a href="#" class="navsinglemore navonelinewithdarc"><strong>More</strong><span class="navonelinedarc"><span class="spit spdarcl" style="height: 6px;">&nbsp;</span></span></a>
-        <div class="navmoremenu shaditdrk kvrddm kvrgrad2" style="margin-left: -81px;">
+        </div><a href="/forum/" class="nocollapse" style="border-right-width: 0;"><span class="spit spforumcircle kvrshowsmall">&nbsp;</span><b class="kvrhidesmall">Forum</b></a><a href="/forum/latest-posts/index.php?mode=mylt" title="Latest Posts in the forum" style="border-right-width: 0;"><span class="spit spfrm">&nbsp;</span> <span class="kvrhidesmall" style="display: none;">Latest Posts</span></a><div class="navmore kvrddb">
+          <a href="/inc/a.php?w=kvrforums" class="ddarrow posrelit kvrddget" title="Click for Forum List, Forum Search, Memberlist and more..."><span class="spit spdarcl">&nbsp;</span></a>
+          <div class="kvrddm kvrmenugen" style="box-sizing: border-box; color: #fff; left: 0; min-width: 320px; position: absolute; width: 100%; z-index: 100;"></div>
+        </div><a href="/marketplace/" class="kvrsvk nocollapse"><span class="spit spmpcircle kvrshowsmall">&nbsp;</span><strong class="kvrhidesmall">Marketplace</strong></a><a href="/banks.php" title="Downloads and Uploads"><span class="spit spdl25">&nbsp;</span><span class="showwhencollapsed"> Downloads and Uploads</span></a><a href="/video/" title="Videos"><span class="spit spvideo25">&nbsp;</span><span class="showwhencollapsed"> Videos</span></a><a href="/music.php" title="Music by KVR Members"><span class="spit spmusic25">&nbsp;</span><span class="showwhencollapsed"> Music by KVR Members</span></a><div class="kvrnavcollapsed navmore kvrddb" style="display: inline-block;"><a href="#" style="border-right-width: 0;"><span class="spit spmore5 kvrshowtiny">&nbsp;</span><strong class="kvrhidetiny">More</strong><span class="spit spdarcl kvrhidetiny" style="bottom: 11px; left: calc(50% - 3.5px); opacity: 0.4; position: absolute;">&nbsp;</span></a>
+         <div class="kvrnavcollapsed2 navmoremenu shaditdrk kvrddm kvrgrad2" style="right: 0; min-width: 250px;">
+          <a href="/focus" class="nowrap" title="Chris Halaby's Industry Focus Blog"><span class="spit spifcircle">&nbsp;</span><span class="showwhencollapsed"> Chris Halaby's Industry Focus</span></a>
           <a href="/interviews">Interviews</a>
-          <a href="/focus">Chris Halaby's Industry Focus</a>
+          <a href="/deals.php">#KVRDeals</a>
+          <a href="/reviews.php">Reviews</a>
+          <a href="/kvrdeals-and-giveaways.php">Giveaways</a>
+          <a href="/polls.php">Polls</a>
+          <a href="/newsletter.php">Newsletter</a>
+          <a href="/news-feed.php">RSS Feeds</a>
           <a href="/kvr-developer-challenge/">KVR Developer Challenge 2014</a>
           <a href="/readers-choice-awards/">KVR Readers' Choice Awards 2013</a>
           <a href="/kvr_is_10.php">KVR Celebrates 10 Years (2010)</a>
-          <a href="/polls.php">Polls</a>
           <hr>
-          <a href="/newsletter.php">Newsletter</a>
-          <a href="/news-feed.php">RSS Feeds</a>
           <a href="/submissions.php">Submit: News, Plug-ins &amp; Hosts</a>
+          <a href="/developer_application.php">Apply To Manage A Developer</a>
           <a href="/advertise.php">Advertise</a>
           <a href="/aboutkvr.php">About KVR / Contact Us</a>
           <a href="/link_to_kvr.php">Link to KVR!</a>
           <a href="/privacy.php">Privacy Statement</a>
         </div>
-      </div>
-    </div>
-    <div id="kvrmenuf" class="kvrmenugen shaditdrk"></div>
-    <div id="searchkvrdiv" class="shaditpopup">
-      <form name="searchkvrfrm" id="searchkvrfrm" action="/static/q3.php?my=2" method="get">
-        <div id="searchkvropts" class="kvrgrad5 roundit shadit">
-          <div class="searchbox">
-            <div class="searchboxx"><a href="#" class="searchkvr kvrbuttonizea">X</a></div>
-            <input type="text" value="" name="term" id="searchkvrq" placeholder=""> <a href="#" id="searchkvrbut"><span class="spit spsrch" style="line-height: 18px;">&nbsp;</span></a>
-          </div>
-          <div style="border-top: 1px solid #ddd;" class="kvrgrad5">
-            <p style="text-align: center; padding: 5px 0 0 0; margin: 0;"><b>Options</b> <i>(Affects News &amp; Product results only):</i></p>
-            <table class="padtd2 stylelabs labelsinline lblr2" style="margin: 5px auto 0;">
-              <tbody>
-              <tr>
-                <td class="vertmid kvrhidetiny">OS:</td>
-                <td><label class="kvrselected"><input type="radio" name="os" value="0" checked="checked">Any</label><label title="Windows"><input type="radio" name="os" value="1"><span class="spit sp1s"></span></label><label title="Mac OS X"><input type="radio" name="os" value="2"><span class="spit sp3s"></span></label><label title="Linux"><input type="radio" name="os" value="3"><span class="spit sp7s"></span></label><label title="iOS"><input type="radio" name="os" value="4"><span class="spit sp14s"></span></label><label title="Android"><input type="radio" name="os" value="5"><span class="spit sp15s"></span></label><label title="Any OS"><input type="radio" name="os" value="6"><span class="spit sp19s"></span></label>                </td>
-              </tr>
-              <tr>
-                <td class="vertmid kvrhidetiny">Format:</td>
-                <td><label class="kvrselected"><input type="radio" name="format" value="0" checked="checked">Any</label><label title="VST"><input type="radio" name="format" value="1"><span class="spit sp20s"></span></label><label title="VST3"><input type="radio" name="format" value="2"><span class="spit sp21s"></span></label><label title="AU"><input type="radio" name="format" value="3"><span class="spit sp22s"></span></label><label title="RTAS"><input type="radio" name="format" value="4"><span class="spit sp24s"></span></label><label title="AAX"><input type="radio" name="format" value="5"><span class="spit sp29s"></span></label><label title="Re"><input type="radio" name="format" value="6"><span class="spit sp31s"></span></label><label title="LV2"><input type="radio" name="format" value="7"><span class="spit sp26s"></span></label><label title="LADSPA"><input type="radio" name="format" value="8"><span class="spit sp25s"></span></label><label title="DSSI"><input type="radio" name="format" value="9"><span class="spit sp30s"></span></label>                </td>
-              </tr>
-              <tr>
-                <td class="vertmid kvrhidetiny">Include:</td>
-                <td><label class="kvrselected"><input type="checkbox" name="p" value="1" checked="checked">Products</label><label class="kvrselected"><input type="checkbox" name="d" value="1" checked="checked">Developers</label><label class="kvrselected"><input type="checkbox" name="n" value="1" checked="checked">News</label><label class="kvrselected kvrhidetiny"><input type="checkbox" name="f" value="1" checked="checked">Forums</label><label class="kvrselected kvrhidetiny"><input type="checkbox" name="v" value="1" checked="checked">Videos</label><!--<label class="kvrselected"><input type="checkbox" name="g" value="1">Groups</label>-->
-                </td>
-              </tr>
-            </tbody>
-            </table>
-          </div>
-        </div>
-        <div id="searchkvrtitle" class="kvrgrad5 kvrhidetiny"><b>Quick Search KVR</b></div>
-        <div id="searchkvrintro" class="kvrgrad5 kvrhidetiny">
-        <p>"Quick Search" KVR Audio's Product Database, News Items, Developer Listings, Forum Topics and videos here. For advanced Product Database searching please use the <a href="/q.php" style="color: blue;">full product search</a>. For the forum you can use the <a href="/forum/search.php" style="color: blue;">phpBB forum search</a>.</p>
-        <p>To utilize the power of Google you can use the integrated <a href="/search.php" style="color: blue;">Google Site Search</a>.</p>
-        </div>
-        <div class="clearit pmaincontent" style="padding: 0;">
-          <div id="kvrsearchloading"><img src="http://static.kvraudio.com/i/loader-16x11.gif" width="16" height="11" alt=""></div>
-          <div id="kvrsearchresults">
-            <div class="kvrsearchressection">
-              <p class="kvrsearchresnav">Products <span id="s2sp" class="mysbsum">0</span></p>
-              <div id="s2products"></div>
-            </div>
-            <div class="kvrsearchressection">
-              <p class="kvrsearchresnav">Developers <span id="s2sd" class="mysbsum">0</span></p>
-              <div id="s2devs"></div>
-            </div>
-            <div class="kvrsearchressection">
-              <p class="kvrsearchresnav">News <span id="s2sn" class="mysbsum">0</span></p>
-              <div id="s2news"></div>
-            </div>
-            <div class="kvrsearchressection kvrhidesmall">
-              <p class="kvrsearchresnav">Forum <span id="s2sf" class="mysbsum">0</span></p>
-              <div id="s2forum"></div>
-            </div>
-            <div class="kvrsearchressection kvrhidesmall">
-              <p class="kvrsearchresnav">Videos <span id="s2sv" class="mysbsum">0</span></p>
-              <div id="s2vids"></div>
-            </div>
-          </div>
-          <div class="clearit"></div>
-        </div>
-      </form>
-    </div>
-    <div class="clearit"></div>
-    <a href="#" id="searchkvr" class="searchkvr kvrgrad5hov">Search <span class="spit spsrch">&nbsp;</span></a>
-    <div id="kvrmemberbox">
-      <div id="kvrmembar" class="kvrgrad7 hovthisblue">
-        <div id="kvrmemextra"><a href="/forum/latest-posts/index.php" title="Latest Posts in the forum"><span class="spit spfrm">&nbsp;</span><span class="kvrhidesmall"> Latest Posts</span></a></div>
-        <a href="/forum/ucp.php?mode=login" id="shloginreg">Login / Register <span style="margin-bottom: 2px;" class="spit spdarc"></span></a>      </div>
-      <div id="kvrmenu" class="kvrmenugen shaditdrk"></div>
-      <div id="shmenu" class="hovthisblue shaditpopup kvrgrad2">
-    <div style="padding: 10px;">
-    <form action="/forum/ucp.php?mode=login" method="post">
-	  <input type="hidden" name="redirect" value="http://www.kvraudio.com/privacy.php">
-	  <input type="hidden" value="ca9fad38d788c13308792e0876ac8ae4" name="sid">
-    Username:<br>
-    <input type="text" name="username" size="12" maxlength="40" value="" id="kvruserpop" style="width: 180px;"><br>
-    Password:<br>
-    <input type="password" name="password" size="12" maxlength="32" value="" style="width: 180px;">
-    <p style="margin: 10px 0;"><input type="submit" name="login" value="Log In" style="padding: 0 5px; height: 26px; line-height: 26px; color: #444;"></p>
-    <div style="text-align: center;">
-    <label><input type="checkbox" name="autologin" style="vertical-align: bottom;"> Keep Me Logged In (AutoLogin)</label>
-    <hr>
-     <a href="/forum/ucp.php?mode=sendpassword">Forgotten Your Password?</a>
-     <a href="/forum/ucp.php?mode=resend_act">Resend Activation E-mail</a>
-     <a href="/forum/ucp.php?mode=register">Join / Register (It's FREE!)</a>
-    </div>
-    </form>
-    </div>
-</div>
-      <div id="mykvrsb" class="kvrbuttonizea"><a href="/mykvr/" id="mykvrsbbutton" title="My KVR">My KVR<span class="spit spdarl"></span></a><a href="#" class="memdropit" id="kvrmyupmen" data-d="9" title="My Updates"><span class="mysbsum" id="mysbupdc" style="margin-right: 4px;">0</span><span class="kvrhidetiny">Updates</span> <span class="spit spdarc" style="height: 6px;"></span></a><a href="#" class="memdropit" data-d="10" title="My Groups" style="width: 35px;"><span class="spit sporg">&nbsp;</span></a><a href="#" class="memdropit" data-d="11" title="My Favorites" style="width: 35px; border-left: 1px solid #ccc;"><span class="spit spstar">&nbsp;</span></a><a href="/mykvr/?s=messages" title="My KVR Messages" style="width: 46px; border-left: 1px solid #ccc;" class="kvrhidetiny"><span class="spit spmail">&nbsp;</span> 0</a>
-      <!-- <a class="memdropit" id="kvrcartsummary" href="#" data-d="999" style="width: 134px;" title="Cart"><span id="kvrcartsumitems" style="margin-left: 2px;">0 items </span> <span style="color: #ccc">|</span> $<span id="kvrcartsumtotal" style="padding-right: 3px;">0.00</span><span class="spit spdarc" style="height: 6px;"></span></a> -->
-      </div>
-      <div id="mykvrsb2" class="shaditdrk"></div>
-      <div id="kvrcartsumhighlight" class="kvrgrad4b roundit shaditpopup">Added to your cart!</div>
-    </div>
-  </div>
-
-  <div id="column1">
-    <div id="main" class="kvr_sm_inline">
-    <!-- KVR Main Content-->
-<div id="kvrnavline"><a href="/">KVR Audio</a> » <a href="/privacy.php" class="activenav">Privacy Policy</a></div>
+      </div></nav><div id="kvrmenuc" class="kvrmenugen shaditdrk kvrhideblur" style="color: #555;"></div><div id="kvrnavline"><a href="/">KVR Audio</a> » <a href="/privacy.php" class="activenav">Privacy Policy</a></div>
 <div class="kvrheaddiv">
 <h1>Privacy Policy for KVR Audio, Inc.</h1>
 </div>
@@ -301,130 +227,129 @@ blockquote {margin: 0 35px 10px 35px;} /*here to prevent clash on forum*/
   By using our site you agree to accept this privacy policy and are aware that our policy may change with time. Any changes to this policy will appear on this web page. </p>
   <p><em>Last updated - 21/12/2011</em></p>
 </div>
-    <!--Main Content End-->
+<div class="hovthisblue" style="background-color: #333; font-size: 200%; margin: 20px 0;"><a href="/plugins/windows/macosx/vst-plugins/vst3-plugins/audio-units/aax-plugins/rack-extensions/effects/most-popular" style="display: block; text-align: center; padding: 20px;">KVR Search: Top  Effect  Plugins</a></div>    <!--Main Content End-->
     </div>
     <div id="subcol">
-<div id="gaffertape"></div>
-          <div class="featuredsidebar kvrgrad7">
-            <a href="/more/727" title="TDR Kotelnikov GE" style="padding-bottom: 43px;">
-              <span class="productimg"><img src="http://static.kvraudio.com/i/s/kotelnikovge_1.jpg" alt=""></span>
-              <strong>TDR Kotelnikov GE</strong><br>
-              by Tokyo Dawn Labs
-              <span style="display: block; margin: 5px 0; color: #ddd">Mastering Buss Compressor</span>
-              <span class="kvrgrad9a nowrap" style="bottom: 0; display: block; left: 0; overflow: hidden; padding: 10px; position: absolute; right: 0;"><span data-id="9714" class="mykvr pid9714 inrelblock kvrgrad5"><span class="spit mykvrp spstarg" data-id="9714" data-a="1" title="My KVR Favourite Product"><span>&nbsp;</span></span>My KVR<span class="spit spdarr"></span></span>
-              <span class="pricetag">€ 40</span> <span class="roundit kvrgrad9a" style="display: inline-block; padding: 3px; vertical-align: top;"><span title="Windows" class="spit sp1s">&nbsp;</span><span title="Mac OS X" class="spit sp3s">&nbsp;</span></span>
-              </span>
-              <span class="featuredtitle">Featured Product</span>
-            </a>
-            <div class="clearit"></div>
+
+            <div class="featuredsidebar kvrgrad7">
+              <a href="/more/1146" title="T-RackS Saturator X" style="padding-bottom: 43px;">
+                <span class="productimg"><img src="//static.kvraudio.com/i/s/trcs_module_saturator_x-2.jpg" alt=""></span>
+                <strong>T-RackS Saturator X</strong><br>
+                by IK Multimedia
+                <span style="display: block; margin: 5px 0; color: #ddd">Saturation</span>
+                <span class="kvrgrad9a nowrap" style="bottom: 0; display: block; left: 0; overflow: hidden; padding: 10px; position: absolute; right: 0;"><span data-id="11791" class="mykvr pid11791 inrelblock kvrgrad5" title="My KVR Groups"><span class="spit mykvrp spstarg" data-id="11791" data-a="1" title="My KVR Favourite Product"><span>&nbsp;</span></span>My KVR<span class="spit spdarr"></span></span>
+                <span class="pricetag">$ / €79.99</span> <span class="roundit kvrgrad9a" style="display: inline-block; padding: 3px; vertical-align: top;"><span title="Windows" class="spit sp1s">&nbsp;</span><span title="Mac OS X" class="spit sp3s">&nbsp;</span></span>
+                </span>
+                <span class="featuredtitle">Featured Product</span>
+              </a>
+              <div class="clearit"></div>
+            </div><div id="div-gpt-ad-1319706183506-2" class="bl0k300250"><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1319706183506-2');});</script></div><div class="posrelit hovthisblueop" style="overflow: hidden; min-height: 100px; background: url(https://i.ytimg.com/vi/Z8NLeRWa7NE/hqdefault.jpg) 50% -26px; margin-bottom: 10px;"><a href="/video/scan-pro-audio-show-002-presonus-and-studio-one-expert-migrating-to-studio-one-novation-circuit-4987/1/1143" class="flex flexcolumn flexcenter" title="Scan Pro Audio Show 002: Presonus &amp; Studio One Expert 'Migrating to Studio One' / Novation Circuit"><span class="bluethistoo" style="background-color: rgba(85,85,85, 0.9); font-size: 90%; font-weight: bold; text-align: center; text-shadow: -1px -1px 0 rgba(0, 0, 0, 0.3); width: 100%; padding: 3px;">Featured Video</span><span style="padding: 50px 0;"><span class="spit spplay25 shaditpopup" style="border-radius: 50%;">&nbsp;</span></span><span class="bluethistoo" style="background-color: rgba(0, 0, 0, 0.8); box-sizing: border-box; font-size: 150%; font-weight: bold; padding: 15px; text-align: center; text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.7); width: 100%;">Scan Pro Audio Show 002: Presonus &amp; Studio One Expert 'Migrating to Studio One' / Novation Circuit</span></a></div>      <div id="wnaside">
+        <div id="sidecolx">
+          <div style="background-color: #14415d;">
+            <div id="scxtitle"><strong>What's New @ KVR Audio</strong></div>
+            <div id="scxtabs" class="hovthisblue">
+              <ul>
+<li><a href="/inc/sidebar.php?s=2"><span class="kvr6to9show"><span class="spit spbox">&nbsp;</span></span><span class="kvr6to9hide">Plugins</span></a></li><li><a href="/inc/sidebar.php?s=1"><span class="kvr6to9show"><span class="spit spnews">&nbsp;</span></span><span class="kvr6to9hide">News</span></a></li><li><a href="/inc/sidebar.php?s=7"><span class="kvr6to9show"><span class="spit spnews">&nbsp;</span></span><span class="kvr6to9hide">Deals</span></a></li><li><a href="/inc/sidebar.php?s=3" class="active"><span class="kvr6to9show"><span class="spit sprevpad">&nbsp;</span></span><span class="kvr6to9hide">Reviews</span></a></li><li><a href="/inc/sidebar.php?s=4"><span class="spit spfrm" title="Latest Forum Posts">&nbsp;</span></a></li><li><a href="/inc/sidebar.php?s=5"><span class="spit spplm16o" title="Latest Music">&nbsp;</span></a></li><li><a href="/inc/sidebar.php?s=6"><span class="spit sptv" title="Latest Videos">&nbsp;</span></a></li>              </ul>
+            </div>
           </div>
-      <div id="div-gpt-ad-1319706183506-2" class="bl0k300250"><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1319706183506-2');});</script></div>
-<div class="posrelit hovthisblue featuredsidebar"><a href="/video/linnstrument-demo---mark-carter-feb-2015-3430/1/744" style="display: block; padding: 30px; background: url(http://i.ytimg.com/vi/3R9YjITouuw/hqdefault.jpg) 50% 50%;" title="Linnstrument Demo - Mark Carter Feb 2015"><span class="fpfeattitle" style="background-color: #555; bottom: 10px; left: auto; opacity: 0.8; right: 30px; top: auto;">Featured Video</span><span class="posrelit" style="display: block; padding: 15px; text-align: center;"><strong style="position: relative; z-index: 1;"><span style="float: left; margin: 5px;" class="spit spplv25">&nbsp;</span>Linnstrument Demo - Mark Carter Feb 2015</strong><span style="position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: #000; opacity: 0.8;"></span></span></a></div>      <div id="wnaside">
-      <div id="sidecolx">
-        <div class="kvrgrad7">
-        <div id="scxtitle"><strong>What's New @ KVR Audio</strong></div>
-        <div id="scxtabs" class="hovthisblue">
-          <ul>
-<li><a href="/inc/sidebar.php?s=1"><span class="kvr6to9show"><span class="spit spnews">&nbsp;</span></span><span class="kvr6to9hide">News</span></a></li><li><a href="/inc/sidebar.php?s=7"><span class="kvr6to9show"><span class="spit spnews">&nbsp;</span></span><span class="kvr6to9hide">Deals</span></a></li><li><a href="/inc/sidebar.php?s=2"><span class="kvr6to9show"><span class="spit spbox">&nbsp;</span></span><span class="kvr6to9hide">Products</span></a></li><li><a href="/inc/sidebar.php?s=3"><span class="kvr6to9show"><span class="spit sprevpad">&nbsp;</span></span><span class="kvr6to9hide">Reviews</span></a></li><li><a href="/inc/sidebar.php?s=4"><span class="spit spfrm" title="Latest Forum Posts">&nbsp;</span></a></li><li><a href="/inc/sidebar.php?s=5"><span class="spit spplm16o" title="Latest Music">&nbsp;</span></a></li><li><a href="/inc/sidebar.php?s=6" class="active"><span class="spit sptv" title="Latest Videos">&nbsp;</span></a></li>          </ul>
-        </div>
-        </div>
-        <div id="scxcon">
-          <div id="scxbox" class="scxp">
-    <a class="kvrtbl" title="100 Piano Apple-Midi Loops Vol.2" href="/video/100-piano-apple-midi-loops-vol-2-3435" style="padding: 0; height: 70px; overflow: hidden; font-size: 90%;">
-      <span class="kvrtblr" style="text-align: center;">
-        <span class="kvrtblc" style="width: 100px; vertical-align: middle; background: url(http://i.ytimg.com/vi/odfqy3oSbjY/default.jpg) 0 50% no-repeat; height: 70px;"><img src="http://static.kvraudio.com/i/video-play-25.png" width="25" alt=""></span>
-        <span class="kvrtblc" style="width: 190px; padding: 5px; vertical-align: middle; overflow: hidden;">100 Piano Apple-Midi Loops Vol.2</span>
-      </span>
-    </a>
-    <a class="kvrtbl" title="SoundScaper 1.1 new features" href="/video/soundscaper-1-1-new-features-3434" style="padding: 0; height: 70px; overflow: hidden; font-size: 90%;">
-      <span class="kvrtblr" style="text-align: center;">
-        <span class="kvrtblc" style="width: 100px; vertical-align: middle; background: url(http://i.ytimg.com/vi/ynRcZ_CtO7g/default.jpg) 0 50% no-repeat; height: 70px;"><img src="http://static.kvraudio.com/i/video-play-25.png" width="25" alt=""></span>
-        <span class="kvrtblc" style="width: 190px; padding: 5px; vertical-align: middle; overflow: hidden;">SoundScaper 1.1 new features</span>
-      </span>
-    </a>
-    <a class="kvrtbl" title="Arturia SEM V - Oberhiem Emulation" href="/video/arturia-sem-v---oberhiem-emulation-3433" style="padding: 0; height: 70px; overflow: hidden; font-size: 90%;">
-      <span class="kvrtblr" style="text-align: center;">
-        <span class="kvrtblc" style="width: 100px; vertical-align: middle; background: url(http://i.ytimg.com/vi/FD6uNXg5cyQ/default.jpg) 0 50% no-repeat; height: 70px;"><img src="http://static.kvraudio.com/i/video-play-25.png" width="25" alt=""></span>
-        <span class="kvrtblc" style="width: 190px; padding: 5px; vertical-align: middle; overflow: hidden;">Arturia SEM V - Oberhiem Emulation</span>
-      </span>
-    </a>
-    <a class="kvrtbl" title="KX77FREE - Funky special thanks to Jeff - jBridge 64-bit" href="/video/kx77free---funky-special-thanks-to-jeff---jbridge-64-bit-3432" style="padding: 0; height: 70px; overflow: hidden; font-size: 90%;">
-      <span class="kvrtblr" style="text-align: center;">
-        <span class="kvrtblc" style="width: 100px; vertical-align: middle; background: url(http://i.ytimg.com/vi/j2Qq8cB2j84/default.jpg) 0 50% no-repeat; height: 70px;"><img src="http://static.kvraudio.com/i/video-play-25.png" width="25" alt=""></span>
-        <span class="kvrtblc" style="width: 190px; padding: 5px; vertical-align: middle; overflow: hidden;">KX77FREE - Funky special thanks to Jeff - jBridge 64-bit</span>
-      </span>
-    </a>
-    <a class="kvrtbl" title="Zynaptiq MORPH 2 Real-Time Structural Audio Morphing Plug-In Trailer" href="/video/zynaptiq-morph-2-real-time-structural-audio-morphing-plug-in-trailer-3431" style="padding: 0; height: 70px; overflow: hidden; font-size: 90%;">
-      <span class="kvrtblr" style="text-align: center;">
-        <span class="kvrtblc" style="width: 100px; vertical-align: middle; background: url(http://i.ytimg.com/vi/RWbHZj2wfPQ/default.jpg) 0 50% no-repeat; height: 70px;"><img src="http://static.kvraudio.com/i/video-play-25.png" width="25" alt=""></span>
-        <span class="kvrtblc" style="width: 190px; padding: 5px; vertical-align: middle; overflow: hidden;">Zynaptiq MORPH 2 Real-Time Structural Audio Morphing Plug-In Trailer</span>
-      </span>
-    </a>
-    <a class="kvrtbl" title="Linnstrument Demo - Mark Carter Feb 2015" href="/video/linnstrument-demo---mark-carter-feb-2015-3430" style="padding: 0; height: 70px; overflow: hidden; font-size: 90%;">
-      <span class="kvrtblr" style="text-align: center;">
-        <span class="kvrtblc" style="width: 100px; vertical-align: middle; background: url(http://i.ytimg.com/vi/3R9YjITouuw/default.jpg) 0 50% no-repeat; height: 70px;"><img src="http://static.kvraudio.com/i/video-play-25.png" width="25" alt=""></span>
-        <span class="kvrtblc" style="width: 190px; padding: 5px; vertical-align: middle; overflow: hidden;">Linnstrument Demo - Mark Carter Feb 2015</span>
-      </span>
-    </a>
-    <a class="kvrtbl" title="Rhymes With Rogue - Leads (Analogue Instruments For NI Kontakt, Reason, LIve, Soundfonts)" href="/video/rhymes-with-rogue---leads-analogue-instruments-for-ni-kontakt-reason-live-soundfonts-3428" style="padding: 0; height: 70px; overflow: hidden; font-size: 90%;">
-      <span class="kvrtblr" style="text-align: center;">
-        <span class="kvrtblc" style="width: 100px; vertical-align: middle; background: url(http://i.ytimg.com/vi/unqHSwJT6LY/default.jpg) 0 50% no-repeat; height: 70px;"><img src="http://static.kvraudio.com/i/video-play-25.png" width="25" alt=""></span>
-        <span class="kvrtblc" style="width: 190px; padding: 5px; vertical-align: middle; overflow: hidden;">Rhymes With Rogue - Leads (Analogue Instruments For NI Kontakt, Reason, LIve, Soundfonts)</span>
-      </span>
-    </a>
-    <a class="kvrtbl" title="PULSE for Omnisphere Multi Building Demo" href="/video/pulse-for-omnisphere-multi-building-demo-3427" style="padding: 0; height: 70px; overflow: hidden; font-size: 90%;">
-      <span class="kvrtblr" style="text-align: center;">
-        <span class="kvrtblc" style="width: 100px; vertical-align: middle; background: url(http://i.ytimg.com/vi/Gs3kifTce5Y/default.jpg) 0 50% no-repeat; height: 70px;"><img src="http://static.kvraudio.com/i/video-play-25.png" width="25" alt=""></span>
-        <span class="kvrtblc" style="width: 190px; padding: 5px; vertical-align: middle; overflow: hidden;">PULSE for Omnisphere Multi Building Demo</span>
-      </span>
-    </a>
-    <a class="kvrtbl" title="Making the beat &quot;Sideways&quot; (Mike Kalombo)" href="/video/making-the-beat-sideways-mike-kalombo-3426" style="padding: 0; height: 70px; overflow: hidden; font-size: 90%;">
-      <span class="kvrtblr" style="text-align: center;">
-        <span class="kvrtblc" style="width: 100px; vertical-align: middle; background: url(http://i.ytimg.com/vi/gu0LkEI-WZM/default.jpg) 0 50% no-repeat; height: 70px;"><img src="http://static.kvraudio.com/i/video-play-25.png" width="25" alt=""></span>
-        <span class="kvrtblc" style="width: 190px; padding: 5px; vertical-align: middle; overflow: hidden;">Making the beat "Sideways" (Mike Kalombo)</span>
-      </span>
-    </a>
-    <a class="kvrtbl" title="Introducing PiAnnette Electric Piano Library" href="/video/introducing-piannette-electric-piano-library-3425" style="padding: 0; height: 70px; overflow: hidden; font-size: 90%;">
-      <span class="kvrtblr" style="text-align: center;">
-        <span class="kvrtblc" style="width: 100px; vertical-align: middle; background: url(http://i.ytimg.com/vi/2nYdDxXCJqo/default.jpg) 0 50% no-repeat; height: 70px;"><img src="http://static.kvraudio.com/i/video-play-25.png" width="25" alt=""></span>
-        <span class="kvrtblc" style="width: 190px; padding: 5px; vertical-align: middle; overflow: hidden;">Introducing PiAnnette Electric Piano Library</span>
-      </span>
-    </a><a href="/video/" class="cleanlnk">Watch More Videos</a></div>
+          <div id="scxcon">
+            <div id="scxbox" class="scxp"><a href="/product/ame-by-ample-sound/reviews/4583"><span class="scxpimg"><img src="//static.kvraudio.com/i/t/ame01.jpg" alt=""></span><span class="scxpcont scxpwide">AME<br><span class="scxpsub">Rated 9 out of 10 by AoPenguix<br><em>1st June</em></span></span><span class="clearit"></span></a><a href="/product/orchestral-companion-strings-by-sonivox/reviews/4582"><span class="scxpimg"><img src="//static.kvraudio.com/i/t/orchestralcompanionstrings_weblarge.jpg" alt=""></span><span class="scxpcont scxpwide">Orchestral Companion Strings<br><span class="scxpsub">Rated 7 out of 10 by AoPenguix<br><em>24th May</em></span></span><span class="clearit"></span></a><a href="/product/rbxl-by-sound-base-audio-llc/reviews/4581"><span class="scxpimg"><img src="//static.kvraudio.com/i/t/preview.1434340531.png" alt=""></span><span class="scxpcont scxpwide">RBXL<br><span class="scxpsub">Rated 9 out of 10 by AoPenguix<br><em>22nd May</em></span></span><span class="clearit"></span></a><a href="/product/synth1-by-ichiro-toda/reviews/4580"><span class="scxpimg"><img src="//static.kvraudio.com/i/t/synth1-113.png" alt=""></span><span class="scxpcont scxpwide">Synth1<br><span class="scxpsub">Rated 10 out of 10 by tfanatic<br><em>18th May</em></span></span><span class="clearit"></span></a><a href="/product/numerology-4-pro-by-five12/reviews/4579"><span class="scxpimg"><img src="//static.kvraudio.com/i/t/numerology4-screenshot1.1416955476.png" alt=""></span><span class="scxpcont scxpwide">Numerology 4 Pro<br><span class="scxpsub">Rated 9 out of 10 by tommyzai<br><em>18th May</em></span></span><span class="clearit"></span></a><a href="/product/fab-four-virtual-instrument-by-eastwest/reviews/4578"><span class="scxpimg"><img src="//static.kvraudio.com/i/t/fabfour.jpg" alt=""></span><span class="scxpcont scxpwide">Fab Four Virtual Instrument<br><span class="scxpsub">Rated 9 out of 10 by tommyzai<br><em>17th May</em></span></span><span class="clearit"></span></a><a href="/product/omnisphere-2-by-spectrasonics/reviews/4577"><span class="scxpimg"><img src="//static.kvraudio.com/i/t/thumb-interface-tour.jpg" alt=""></span><span class="scxpcont scxpwide">Omnisphere 2<br><span class="scxpsub">Rated 10 out of 10 by midihead<br><em>17th May</em></span></span><span class="clearit"></span></a><a href="/product/psp-2445-by-pspaudioware/reviews/4576"><span class="scxpimg"><img src="//static.kvraudio.com/i/t/psp_2445_emt.png" alt=""></span><span class="scxpcont scxpwide">PSP 2445<br><span class="scxpsub">Rated 10 out of 10 by dlesaux<br><em>17th May</em></span></span><span class="clearit"></span></a><a href="/product/ezmix-by-toontrack-music/reviews/4575"><span class="scxpimg"><img src="//static.kvraudio.com/i/t/ezmix2.1335439204.jpg" alt=""></span><span class="scxpcont scxpwide">EZmix<br><span class="scxpsub">Rated 9 out of 10 by tommyzai<br><em>13th May</em></span></span><span class="clearit"></span></a><a href="/product/liquid-music-by-wavedna/reviews/4574"><span class="scxpimg"><img src="//static.kvraudio.com/i/t/2016-03-23c.jpg" alt=""></span><span class="scxpcont scxpwide">Liquid Music<br><span class="scxpsub">Rated 9 out of 10 by tommyzai<br><em>13th May</em></span></span><span class="clearit"></span></a><a href="/reviews.php" class="cleanlnk">Read More</a></div>
+          </div>
         </div>
       </div>
-      </div>
-<div class="kvrgrad7" style="padding: 5px; text-align: center; color: #eee;">Advertisements</div>      <div class="bl0k160600" id="div-gpt-ad-1319706183506-1"><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1319706183506-1');});</script></div>
-      <div class="bl0k120600" id="div-gpt-ad-1319706183506-0"><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1319706183506-0');});</script></div>
-      
+
     <div id="kvrifbox" class="hovthisblue">
       <div class="kvrgrad7 kvrhidesmall pad10"><b>KVR <a href="/focus">Industry Focus</a> &amp; <a href="/interviews/">Interviews</a></b></div>
-      <div id="kvrifbox1"><a href="/focus/namm-2015-welcoming-back-the-masses-28881" title="NAMM 2015: Welcoming Back the Masses"><img src="http://static.kvraudio.com/i/x/namm15-190x.png" alt="NAMM 2015: Welcoming Back the Masses"></a><a href="/focus/sowing-the-seeds-for-todays-electronic-music-an-interview-with-jon-appleton-28724" title="Sowing the Seeds for Today's Electronic Music: An Interview with Jon Appleton" class="kvrhidesmall"><img src="http://static.kvraudio.com/i/x/jon-apple-190.jpg" alt="Sowing the Seeds for Today's Electronic Music: An Interview with Jon Appleton"></a></div>
-      <div id="kvrifbox2" class="kvrhidesmall"><a href="/focus/women-in-the-musical-instruments-industry-an-interview-with-ingrid-linn-27763" title="Women in the Musical Instruments Industry: An interview with Ingrid Linn"><img src="http://static.kvraudio.com/i/x/ingrid-linn-190.jpg" alt="Women in the Musical Instruments Industry: An interview with Ingrid Linn"></a><a href="/focus/chuck-surack-part-2-sweetwater-builds-their-own-computer-27542" title="Chuck Surack Part 2: Sweetwater Builds Their Own Computer"><img src="http://static.kvraudio.com/i/x/chuck-190-p2.jpg" alt="Chuck Surack Part 2: Sweetwater Builds Their Own Computer"></a><a href="/focus/an-interview-with-sweetwater-founder-chuck-surack-part-1-27436" title="An Interview with Sweetwater Founder, Chuck Surack, Part: 1"><img src="http://static.kvraudio.com/i/x/chuck-190-p1.jpg" alt="An Interview with Sweetwater Founder, Chuck Surack, Part: 1"></a>
+      <div id="kvrifbox1"><a href="/focus/interview-with-roger-linn-31893" title="Interview with Roger Linn"><img src="//static.kvraudio.com/i/x/roger-linn-190-2016.jpg" alt="Interview with Roger Linn"></a><a href="/focus/art-and-technology-an-interview-with-imogen-heap-32540" title="Art and Technology: An Interview with Imogen Heap" class="kvrhidesmall"><img src="//static.kvraudio.com/i/x/imogen-heap-190.jpg" alt="Art and Technology: An Interview with Imogen Heap"></a></div>
+      <div id="kvrifbox2" class="kvrhidesmall"><a href="/focus/the-namm-2016-report-32538" title="The NAMM 2016 Report"><img src="//static.kvraudio.com/i/x/namm-2016-190.png" alt="The NAMM 2016 Report"></a><a href="/focus/software-namm-bringing-software-developers-back-to-the-namm-show-32241" title="Software.NAMM: Bringing Software Developers back to the NAMM Show"><img src="//static.kvraudio.com/i/x/software-namm-190.jpg" alt="Software.NAMM: Bringing Software Developers back to the NAMM Show"></a><a href="/focus/native-instruments-daniel-haver-and-mate-galic-interview-31301" title="Native Instruments Daniel Haver and Mate Galic Interview"><img src="//static.kvraudio.com/i/x/ni190-2015.png" alt="Native Instruments Daniel Haver and Mate Galic Interview"></a>
       <a id="kvrifmore" href="/focus" class="kvrgrad1 kvrhidesmall" title="More"><b>Read More...</b></a>
       </div>
       <div class="clearit"></div>
-    </div>    </div>
+    </div><div class="kvrgrad7" style="padding: 5px; text-align: center; color: #eee;">Advertisements</div>
+    <div id="kvr300600" style="width: 300px; height: 600px;">      <div class="bl0k160600" id="div-gpt-ad-1319706183506-1"><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1319706183506-1');});</script></div>
+      <div class="bl0k120600" id="div-gpt-ad-1319706183506-0"><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1319706183506-0');});</script></div>
+</div>    </div>
     <div class="clearit"></div>
   </div>
 
-  <div id="foot" class="clearit">
-    <div id="div-gpt-ad-1319706183506-3" class="kvr320to728"><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1319706183506-3');});</script></div>
-    <p style="margin-top: 10px;">© KVR Audio, Inc. 2000-2015</p>
-    <p><a href="/submissions.php">Submit: News, Plug-ins, Hosts &amp; Apps</a> | <a href="/advertise">Advertise @ KVR</a> | <a href="/aboutkvr.php">About KVR / Contact Us</a> | <a href="/privacy.php">Privacy Statement</a></p>
+  <div id="foot">
+    <div id="div-gpt-ad-1319706183506-3" class="kvr320to728" style="padding: 0; margin: 0 auto;"><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1319706183506-3');});</script></div>
+    <p style="margin-top: 10px;">© KVR Audio, Inc. 2000-2016</p>
+    <p style="padding: 0 20px;"><a href="/submissions.php">Submit: News, Plug-ins, Hosts &amp; Apps</a> | <a href="/advertise">Advertise @ KVR</a> <span class="kvrsvk">| <a href="#" id="wts">Sell @ KVR</a></span> | <a href="/aboutkvr.php">About KVR / Contact Us</a> | <a href="/privacy.php">Privacy Statement</a></p>
   </div>
 </div>
-<script src="http://s.skimresources.com/js/25446X847199.skimlinks.js"></script>
+
 <script>
-$(function(){
-  setTimeout(function(){
-  if($("div[id^=google_ads_iframe]").length < 1)
+
+function kvr_login_fit()
+{
+  var h = $(".blockPage").height();
+  var w = $(window).height();
+  if(w < h)
   {
-    $("#kvrgo").attr("src",'/static/no/');
+    $(".blockPage .kvrstoreheader").hide();
+    if($(".blockPage").position().top < 0)
+    {
+      $(".blockPage").css("top","0px");
+    }
   }
-  }, 2000);
-});
+}
+
+function kvr_prefixed_calc()
+{
+  var prefixes = ["","-webkit-","-moz-","-o-"], el;
+  for(var i = 0; i < prefixes.length; i++)
+  {
+    el = document.createElement("div");
+    el.style.cssText = "width:" + prefixes[i] + "calc(9px)";
+    if (el.style.length) return prefixes[i] + "calc";
+  }
+  return false;
+}
+
+
+function kvr_log_in(loginbox)
+{
+  if(!loginbox)
+  {
+    loginbox = ' <p class=\"kvrstoreheader\" style=\"margin-bottom: 10px;\"><b>Please Log In</b></p> <a href=\"#\" class=\"unblockui\" style=\"position: absolute; top: 5px; right: 5px;\"><span class=\"spit spclose\">&nbsp;</span></a> <div style=\"padding: 30px 50px;\"> <form action=\"/forum/ucp.php?mode=login\" method=\"post\" style=\"font-size: 70%;\"> <input type=\"hidden\" name=\"redirect\" value=\"https://www.kvraudio.com/privacy.php\"> <input type=\"hidden\" value=\"f85ee07390819cd7467dc7eb2d396322\" name=\"sid\"> <p>Username:<br> <input type=\"text\" name=\"username\" size=\"12\" maxlength=\"40\" value=\"\" id=\"kvruserpop\" style=\"width: 100%; border: 1px solid #ddd; padding: 5px;\"></p> <p>Password:<br> <input type=\"password\" name=\"password\" size=\"12\" maxlength=\"32\" value=\"\" style=\"width: 100%; border: 1px solid #ddd; padding: 5px;\"></p> <p><input type=\"submit\" name=\"login\" value=\"Log In\"></p> <p style=\"text-align: center;\"><label><input type=\"checkbox\" name=\"autologin\" style=\"vertical-align: bottom;\"> Keep Me Logged In (AutoLogin)</label></p> <hr> <div style=\"text-align: center;\"> <a href=\"/forum/ucp.php?mode=sendpassword\" style=\"color: #666;\">Forgotten Your Password?</a><br> <a href=\"/forum/ucp.php?mode=resend_act\" style=\"color: #666;\">Resend Activation E-mail</a><br> <a href=\"/forum/ucp.php?mode=register\" style=\"color: #666;\">Join / Register (FREE!)</a> </div> </form> </div>';
+  }
+  $("#mykvrsb2,#kvrmenuc,.kvrddm").hide();
+  var cancalc = kvr_prefixed_calc();
+  var ua = navigator.userAgent;
+  var onios = (ua.match(/iPhone/i) || ua.match(/iPod/i) || ua.match(/iPad/i)) ? true : false;
+
+  $.blockUI({
+      message: loginbox,
+      css: {
+        cursor: "default",
+        padding: "0",
+        borderWidth: "0",
+        width: "320px",
+        fontSize: "150%",
+        left: (!cancalc ? 0 : cancalc+"(50% - 160px)"),
+        top: (onios || !cancalc ? 0 : cancalc+"(50% - 180px)"),
+        textAlign: "left",
+      },
+      onBlock: function(){
+        $("#kvruserpop").focus();
+        kvr_login_fit();
+        $(".blockOverlay,.unblockui").css("cursor","pointer").click(function(){
+          $.unblockUI();
+          $(".kvrcartsummaryblock").unblock();
+          return false;
+        });
+      }
+  });
+}
+
+$(window).resize(function(){kvr_login_fit();});
+$(function(){setTimeout(function(){if($("div[id^=google_ads_iframe]").length < 1){$("#kvrgo").attr("src",'/static/no/');}else if($("div[id^=google_ads_iframe]").eq(0).height() == 0){$("#kvrgo").attr("src",'/static/no/');}},2000);});
+kvrkart = [];
+kvr_kart_is_in();
 </script>
 <noscript><img src="/static/noscript/" alt=""></noscript>
+<script src="//s.skimresources.com/js/25446X847199.skimlinks.js"></script>
 
 
 </body></html>
