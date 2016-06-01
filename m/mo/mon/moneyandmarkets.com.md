@@ -1,9 +1,12 @@
-> *The following text is extracted and transformed from the moneyandmarkets.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215231648id_/http%3A//www.moneyandmarkets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyandmarkets.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601225748id_/http%3A//www.moneyandmarkets.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Money and Markets - Financial Advice | Financial Investment Newsletter — Money and Markets - Financial Advice | Financial Investment Newsletter
 
 **PRIVACY STATEMENT**  
 Our company is committed to preserving your trust and confidence. Because your privacy is important, we have created this privacy statement in order to demonstrate this commitment. The following discloses our information gathering and dissemination practices for this website.
+
+**ADVERTISING**  
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here <http://www.google.com/settings/ads/anonymous>. Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
 
 **USE OF YOUR IP ADDRESS**  
 An IP (Internet Protocol) address is a 32-bit numeric address written as four numbers separated by periods. It is a unique identifier for a computer or device on a network like the Internet. We use your IP address to help diagnose problems with our server and to administer our website. Your IP address is used to help identify you and to gather broad information to help us better serve you.
