@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamesvillas.co.uk privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612074420id_/http%3A//www.jamesvillas.co.uk/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesvillas.co.uk privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601084847id_/https%3A//www.jamesvillas.co.uk/information/privacy-policy) for the most accurate reproduction.*
 
 # James Villa Holidays Privacy Policy
 
@@ -34,6 +34,7 @@ In order to provide you with the products and services that we offer we may shar
   * credit/debit card companies;
   * our preferred insurance provider(s) (if you purchase the personal travel insurance policy we offer); and
   * other third parties who we may need to work with to fulfil travel plans on your behalf, for example, resorts, management companies, owner's associations, airlines, villa owners and other suppliers.
+  * our third party review administrator(s) who may contact you to ask for your comments on the accommodation and/or services that have been provided.
 
 
 
@@ -77,7 +78,7 @@ We may from time to time record telephone calls you have with members or our sta
 
 ## 12\. How do we update this privacy policy?
 
-We keep our privacy policy under regular review and we will place any updates on our webpage. This privacy policy was last updated in May 2011.
+We keep our privacy policy under regular review and we will place any updates on our webpage. This privacy policy was last updated in August 2015.
 
 ## 13\. Who can I contact if I have queries about this privacy policy?
 
@@ -87,6 +88,6 @@ By email: [webenquiry@jamesvillas.co.uk](mailto:webenquiry@jamesvillas.co.uk)
 
 Or write to us at James Villa Holidays, 20/20 Business Park, St Leonards Road, Maidstone, Kent, ME16 0LS
 
-## 14\. Location data?
+## 14\. Location data
 
 When you use the James Villa mobile application we may use GPS technology (or other similar technology) to determine the current location for the photograph you are sharing, and date taken in order to display a location map and location information so that others can benefit from your review. If you are happy for us to receive this information ensure you have activated GPS in your device settings. If you do not want us to know the current location for the photo for the above purposes you should turn off the location services in your device settings and you will have the option to tell us the location in a manual text field. You can withdraw your consent at any time by changing your device settings.
