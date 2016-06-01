@@ -1,100 +1,71 @@
-> *The following text is extracted and transformed from the menulog.com.au privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911165418id_/https%3A//www.menulog.com.au/menulog_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menulog.com.au privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601054204id_/https%3A//www.menulog.com.au/menulog_privacy) for the most accurate reproduction.*
 
 # Privacy - Menulog
 
-1\. Introduction
+**_II. MENULOG PRIVACY POLICY_**
 
-1.1    Menulog is committed to ensuring the privacy and security of all information collected from our users. In accordance with the privacy legislation applicable in Australia, this Privacy Policy outlines the information collection practices utilised by Menulog, how that information is used and the choices you can make about the way the information you provide to us is collected and used. By using this website, you agree to and consent to the collection, use and disclosure of personal information by Menulog as set out in this policy.  
+We are committed to protecting the privacy of all visitors to the Website, including all visitors who access the Website or Service through any mobile application or other platform or device. Please read the following Privacy Policy which explains how we use and protect your information.
 
+By visiting and/or using the Service on the Website, you agree and, where required, you consent to the collection, use, storage, disclosure and transfer of your information as set out in this policy.
 
-1.2    Personal information is information or an opinion about an individual whose identity is apparent, or can be reasonably ascertained, from that information or opinion.  
+1\. INFORMATION THAT WE COLLECT FROM YOU
 
+1.1. When you visit the Website or use the Service to make an Order from a Restaurant through the Website, you may be asked to provide information about yourself including your name, address, contact details (such as telephone and mobile numbers and e-mail address) and payment information (such as credit or debit card information). We may also collect information about your usage of the Website and Service and information about you from the materials (such as messages and reviews) you post to the Website and the e-mails or letters you send to us. Your telephone calls to us may also be recorded for training and quality purposes.
 
-2\. Collection of Personal Information
+1.2. By accessing Menulog information and/or the Website or Service using mobile digital routes such as (but not limited to) mobile, tablet or other devices/technology including mobile applications, then you should expect that our data collection and usage as set out in this Privacy Policy will apply in that context too. We may collect technical information from your mobile device or your use of the Website or the Service through a mobile device, for example, location data and certain characteristics of, and performance data about, your device, carrier/operating system including device and connection type, IP address, mobile payment methods, interaction with other retail technology such as use of NFC Tags, QR Codes or use of mobile vouchers. Unless you have elected to remain anonymous through your device and/or platform settings, this information may be collected and used by us automatically if you use the Website or Service through your mobile device(s) via any Menulog mobile application, through your mobile's browser or otherwise.
 
-2.1 Menulog only collects personal information for the purposes of conducting business as an online service provider. Calls might be recorded for staff coaching, training and order queries. The information we collect from you will include information you give us when you:
+2\. USE OF YOUR INFORMATION
 
-(a) Complete a transaction with us;  
+2.1. Your information will enable us to provide you with access to the relevant parts of the Website and to supply the Service. It will also enable us to bill you and enable us and/or a Restaurant with whom you have placed an Order to contact you where necessary concerning the Service. For example, we and/or the Restaurant may use your information to provide you with status updates or other information regarding your Order by e-mail, telephone, mobile or mobile messaging (e.g. SMS, MMS etc.). We will also use and analyse the information we collect so that we can administer, support, improve and develop our business, for any other purpose whether statistical or analytical and to help us prevent fraud. Where appropriate, now and in the future you may have the ability to express your preferences around the use of your data as set out in this Privacy Policy and this may be exercised though your chosen method of using the Service, for example mobile, mobile applications or any representation of the Website. 
 
+2.2. We may use your information to contact you for your views on the Service and to notify you occasionally about important changes or developments to the Website or the Service. 
 
-(b) Register or subscribe to our website;  
-(c) Purchase a restaurant voucher or contact us;   
-(d) Rate/review a restaurant via the Menulog website.   
+2.3. Where you have indicated accordingly by giving your consent, you agree that we may use your information to let you know about our other products and services that may be of interest to you including services that may be the subject of direct marketing and we may contact you to do so by post, telephone, mobile messaging (e.g. SMS, MMS etc.) as well as by e-mail in accordance with the Spam Act and the Privacy Act. 
 
+2.4. Where you have indicated accordingly by giving your consent, you agree that we may also share information with third parties (including those in the food, drink, leisure, marketing and advertising sectors) to use your information in order to let you know about goods and services which may be of interest to you (by post, telephone, mobile messaging (e.g. SMS, MMS etc.) and/or e-mail) in accordance with the Spam Act and the Privacy Act. We may also disclose your information to help us analyse the information which we collect so that we can administer, support, improve and develop our business and services to you. For example, by providing anonymised personal information to Google Analytics – see attached link - “ **How Google uses data when you use our partners' sites or apps** ”, (located at www.google.com/policies/privacy/partners). 
 
-2.2 We need to collect information about you in order to enable us to deliver our service. This information includes, but is not limited to, details such as:   
+2.5. You agree that we may disclose personal information which we collect from you to other companies that also hold information about you. We may also collect personal information from those other companies. We and/or those companies may combine the information in order to better understand your preferences and interests, thereby enabling them and us to serve you better. 
 
+2.6 If you do not want us to use your data in this way or change your mind about being contacted in the future, please let us know by using the contact details set out in paragraph 8 below, by amending your profile accordingly or by using the opt-out facilities provided (eg an unsubscribe link).
 
-  
+2.7. Please note that by submitting Reviews regarding the Website, Service and/or Restaurants, you consent to us to use such Reviews on the Website and in any marketing or advertising materials. We will only identify you for this purpose by your first name and the city in which you reside (and any other information that you may from time to time consent to us disclosing).
 
+3\. DISCLOSURE OF YOUR INFORMATION
 
-(a) Your name;  
-(b) Your contact details including your email, home address and billing address;  
-(c) Your payment details; and  
-(d) Other personal information that we collect in the course of a transaction or that you provide us when you contact us. 
+3.1. The information you provide to us will be transferred to and stored on our servers which may be in or outside Australia, and may be accessed by or given to our staff working outside Australia and third parties including companies within the Menulog group of companies (which means our subsidiaries and affiliates, our ultimate holding company and its subsidiaries and affiliates) who act for us for the purposes set out in this policy or for other purposes notified to you from time to time in this policy. We may disclose your information to overseas recipients, including, without limitation, recipients located in New Zealand, the United Kingdom, Bangladesh, Singapore, India, China, the Philippines and the United States of America. Where we disclose your personal information to overseas recipients, we will always take reasonable steps to ensure that your information is treated in accordance with this policy and the Australian Privacy Principles.
 
-  
-3\. How Menulog Will Use and Disclose Your Personal Information
+3.2. The third parties with whom we share your information may undertake various activities such as processing credit card payments and providing support services for us. In addition, we may need to provide your information to any Restaurants that you have placed an Order with so as to allow the Restaurant to process and deliver your Order. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy. 
 
-3.1 Menulog uses your personal information for the purposes of:
+3.3. If our business enters into a joint venture with, purchases or is sold to or merged with another business entity, your information may be disclosed or transferred to the target company, our new business partners or owners or their advisors. 
 
-(a) Providing our services to you;  
-(b) Our internal management needs;  
-(c) Our marketing activities; for example newsletters and SMS;  
-(d) Responding to any inquiries or comments that you submit to us;  
-(e) Any other purpose you have consented to; and  
-(f)  Any use which is required or authorised by law.  
-(e) For coaching and staff training purposes.  
+3.4. We may use the information that you provide to us if we are under a duty to disclose or share your information in order to comply with (and/or where we believe we are under a duty to comply with) any legal obligation; or in order to enforce the Website Terms and any other agreement; or to protect our rights or the rights of Restaurants or other third parties. This includes exchanging information with other companies and other organisations for the purposes of fraud protection and prevention. 
 
+4\. SECURITY AND DATA RETENTION
 
-3.2 If you decide to complete an online form, the information that you enter into the online form will be collected and saved by us. The information you supply to us is used to assess your requirements and to enable the relevant restaurant or takeaway delivery partner to contact you in response to your enquiry.
+4.1. We take steps to protect your information from unauthorised access, modification or disclosure  and against misuse, interference, loss, destruction and damage. Once your information is no longer required for any purpose for which it may be used or disclosed by us, and we are not required by law to retain the information, we will destroy the information or ensure that it is de-identified.
 
-3.3 We may disclose your information to various third parties that provide services to us, including third parties that provide our payment gateway, marketing, logistics and technology support services. This may include providing your information to third parties that are located outside of Australia. Where your personal information is transferred outside Australia (including India, Philippines, China), we will do so in accordance with APP 8. 
+4.2. Where you have registered an account with Menulog and chosen a password which allows you to access certain parts of the Website, you are responsible for keeping this password confidential. We advise you not to share your password with anyone. Unless we negligently disclose your password to a third party, we will not be liable for any unauthorised transactions entered into using your name and password.
 
- 3.4 We may disclose your information to various third parties for the following purposes:
+4.3. All user details captured by Menulog are stored securely at all times and will never be provided to any unauthorised third parties. All credit card details are protected using SSL ( **Secure Socket Layer** ) encryption. Menulog has been verified for security and compliance to PCI standards by Vectra Corporation, an independent third party. Credit card details are handled by leading PCI compliant providers of secure credit card processing solutions. Menulog will never save your actual credit card details. We will simply save a reference to your card, which is called a token. This token is provided to us by the payment provider. Saving the token means that for future credit card transactions we can give you the option to charge the same card you used previously without having to re-enter the card details. If, at any time, you wish the token to be removed please email us at enquiries@menulog.com and we will have these removed. In that case you would need to re-enter your card details on the next order.
 
-(a) To send you marketing material for goods or services we think might interest you (whether or not related to your application);  
-(b) For administration purposes (including but not limited to processing your home delivery order or restaurant booking);  
-(c) For such other purposes as we shall in our discretion determine, including for our commercial advantage
+4.4. However, the transmission of information via the internet is not completely secure. Although we will take reasonable steps to protect your information and make sure it is safe and secure and we use a number of physical, administrative, personnel and technical measures to protect your personal information, we cannot guarantee the security of your data transmitted to the Website; any transmission is at your own risk. For the avoidance of doubt, Menulog will not in any circumstances be liable to you, or third parties, for loss or damage arising from credit card fraud or identity theft.
 
-3.5 It is a condition of your use of the Menulog website that you agree to allow your data to be disclosed to these third parties and for them to establish contact with you. If at any point in time you would like your saved data to be deleted from our system, please contact us and we will arrange to have your records deleted from our database. 
+5\. COOKIES
 
-3.6 As a user of our service, you may occasionally receive email or SMS updates from us about new products or services being offered by Menulog, along with newsletters, noteworthy changes to the website and any other material we deem relevant. You can always unsubscribe and opt out from receiving these messages. 
+5.1 We may collect personal information about you when you use and access our website. While we do not use browsing information to identify you personally, we may record certain information about your use of our website, such as which pages you visit, the time and date of your visit and the internet protocol address assigned to your computer. 
 
-3.7 Unless otherwise prohibited by law or our contractual obligations, we may disclose personal information if required to do so by law, court order, or as requested by a governmental or law enforcement authority, or in the good faith belief that disclosure is otherwise necessary or advisable. Such situations may include: to perform, maintain or enforce contracts with our users or suppliers; to protect the rights or properties of Menulog, our business affiliates, our users, or others; or when we have reason to believe that disclosing the information is necessary to identify, contact, or bring legal action against someone who may be causing, or who may be threatening to cause, interference with or damage to our rights or properties, whether intentionally or otherwise; or when anyone else could be harmed by such activities. 
+We may also use 'cookies' or other similar tracking technologies on our website that help us track your website usage and remember your preferences. Cookies are small files that store information on your computer, TV, mobile phone or other device. They enable the entity that put the cookie on your device to recognise you across different websites, services, devices and/or browsing sessions. You can disable cookies through your internet browser but our websites may not work as intended for you if you do so.
 
-3.8 Like most websites, there is certain information we automatically track, including the URL that you just came from, the browser you are using and your IP address. This data is utilised to improve the services of Menulog and does not include any personally identifying information.
+We may also use cookies to enable us to collect data that may include personal information. For example, where a cookie is linked to your account, it will be considered personal information under the Privacy Act. We will handle any personal information collected by cookies in the same way that we handle all other personal information as described in this Privacy Policy. 
 
-4\. Opting Out of Promotional Information
+6\. ACCESSING AND UPDATING
 
-We at Menulog work hard to provide our clients with the best possible service at all times. From time to time, we will send our members newsletters, updates and other useful information. We hope that you will find these items informative and useful. However, should you choose to not receive them in the future, you will have the ability to unsubscribe from the mail database by following the Unsubscribe instructions at the bottom of each email. 
+6.1. You have the right to see the information we hold about you and to ask us to make any changes to ensure that it is accurate and up to date. If you wish to do this, please contact us using the contact details set out in paragraph 8 below.
 
-5\. Security of Your Personal Information and Cookies
+7\. CHANGES TO OUR PRIVACY POLICY
 
-5.1 All user details captured by Menulog are stored securely at all times and will never be provided to any unauthorised third parties. While being transmitted over the Internet, all credit card details are protected using SSL (Secure Socket Layer) encryption. Menulog has been verified for security and compliance to PCI standards by Vectra Corporation, an independent third party. Credit card details are handled by a 3rd party Payment Gateway called Direct Payment Solutions (DPS), a leading PCI Compliant Provider of secure credit card processing solutions. Menulog will never save your actual credit card details. We will simply save a reference to your card, which is called a token.  This token is provided to us by our Payment Gateway.  Saving the token means that for future credit card transactions we can give you the option to charge the same card you used previously without having to re-enter the card details. You will still need to enter your Menulog password to use this credit card. If, at any time, you wish the token to be removed please email us at enquiries@menulog.com and we will have these removed.  In that case you would need to re-enter your card details on the next order.  For the avoidance of doubt, Menulog will not in any circumstances be liable to you, or third parties, for loss or damage arising from credit card fraud or identity theft.  
+7.1. Any changes to our Privacy Policy will be posted to the Website and, where appropriate, through e-mail notification. We encourage you to check our website periodically to ensure that you are aware of our current Privacy Policy.
 
+8\. CONTACT
 
-  
-
-
-5.2 "Cookies" are pieces of information that our web page transfers to your computer's hard disk for record-keeping purposes. Cookies can make the Web more useful by storing information about your preferences on a particular site. The use of cookies is an industry standard and many Web sites use them to provide useful features for you. Cookies in and of themselves do not personally identify you, only your computer. 
-
-5.3 We may, from time to time, use "cookies" to store your preferences, record session information and collect information on how you visit and access our webpages. We collect information on the Web pages visited by our customers in order to help us to continue improving our services.   
-
-
-  
-6\. Access to Your Personal Information and Complaints Procedure
-
-6.1 You may request access to your personal information in our customer account database, or seek correction of it, by contacting our customer service team.
-
-6.2 If you believe that Menulog holds personal information about you in our customer account database that is not accurate, complete, up-to-date, relevant or information that is misleading then you may request its amendment and Menulog will respond to your request within a reasonable time. Menulog will not charge you for correcting your personal information.
-
-6.3 If Menulog no longer needs your personal information for any the purposes set out in this policy, or as otherwise required by law, Menulog will take such steps as are reasonable in the circumstances to destroy the information or to de-identify it.
-
-6.4 Menulog will take reasonable steps to protect the personal information it holds from misuse, interference and loss and from unauthorised access, modification or disclosure.
-
-If you require your details to be changed please email enquiries@menulog.com or call 1300 664 335 
-
-6.5 to make a complaint about a breach of the Australian Privacy principles, which include how we handle your personal information, you may contact us  with the details provided in clause 6.4 above. We will endeavour to respond to your complaint within a reasonable time after it is received. If you require further information regarding privacy it can be found at the Office of the Australian Information Commissioner
-
-6.6 This policy may be revised from time to time, as new features are added to the site or the legislation changes. Please check back periodically for updates and additions. If you have any concerns or queries about the Privacy Policy of Menulog or would like more information, please contact us using the details displayed in the About Us section of our website.
+8.1. All comments, queries and requests relating to our use of your information are welcomed. You can also lodge a complaint if you think we have breached the Privacy Act (Cth) 1988 in relation to your personal information. We will acknowledge your complaint and respond to you regarding your complaint within a reasonable period of time. If you think that we have failed to resolve the complaint satisfactorily, we will provide you with information about the further steps you can take. All correspondence should be addressed to Menulog Pty Ltd at Suite 901, Level 9, 447 Kent Street, Sydney NSW, 2000 Australia. Alternatively, you can contact us by emailing [enquiries@menulog.com.au](mailto:enquiries@menulog.com.au) or by calling 1300 664 335.
