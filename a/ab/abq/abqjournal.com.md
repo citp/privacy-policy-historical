@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the abqjournal.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905052458id_/http%3A//www.abqjournal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abqjournal.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601132526id_/http%3A//www.abqjournal.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Albuquerque Journal News
+# Privacy Policy | Albuquerque Journal
 
 **ABQJournal.com Guidelines; Copyright, Online Privacy and Child-Protection Policies**
 
@@ -10,7 +10,7 @@ ABQJournal.com is a World Wide Web site of the Albuquerque Journal newspaper at 
 
 ABQJournal includes highlights of the print editions of the Albuquerque Journal. Not every story that appears in the newspaper is online. Some stories online do not appear in the printed newspaper.
 
-The guidelines and policies that follow apply only to the online activities of the Albuquerque Journal’s web site, [www.abqjournal.com](https://web.archive.org/web/20150905052458id_/http%3A//). They do not apply to the printed newspaper.
+The guidelines and policies that follow apply only to the online activities of the Albuquerque Journal’s web site, [www.abqjournal.com](https://web.archive.org/web/20160601132526id_/http%3A//). They do not apply to the printed newspaper.
 
 ABQJournal.com agrees to provide you with information and other services subject to these guidelines and conditions of use. You agree to use our service in accordance with these guidelines. From time to time, we may need to change these guidelines, in which case revisions will be posted on the Web site. By continuing to use ABQJournal after we post any such changes, you acknowledge the guidelines and conditions of use, as modified.
 
@@ -24,7 +24,7 @@ Because we do not control the privacy policies of our business affiliates, adver
 
 ABQJournal.com does not, and will not, release your personal information to any third party without your consent. We may, however, share some of the information we gather, in aggregate or demographic form, with advertisers and other partners. That is, we may provide general information about ways people use our site without identifying any particular individuals.
 
-To use certain features of our Web site or our mobile [apps](https://web.archive.org/web/20150905052458id_/http%3A//apps), you must register on the forms provided with each feature. Our use of any personally identifying information you provide as part of registration is governed by this privacy policy.
+To use certain features of our Web site or our mobile [apps](https://web.archive.org/web/20160601132526id_/http%3A//apps), you must register on the forms provided with each feature. Our use of any personally identifying information you provide as part of registration is governed by this privacy policy.
 
 ABQJournal.com uses a third party to process some online subscription purchases. Please consult the third party’s privacy policy.
 
