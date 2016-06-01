@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jnto.org.au privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905212236id_/http%3A//jnto.org.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jnto.org.au privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601232501id_/http%3A//www.jnto.org.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Japan National Tourism Organization
+# Privacy Policy - Japan National Tourism Organization
 
-## Privacy Policy of Japan National Tourism Organisation (‘JNTO’)
+### Privacy Policy of Japan National Tourism Organisation (‘JNTO’)
 
 We deal with the collection, security, quality, use and disclosure of personal information in accordance with the Privacy Act 1988 (Cth). If we communicate with you by email, we are also bound by the Spam Act 2003 (Cth).
 
@@ -12,12 +12,9 @@ We also strive to handle personal information in a manner which is consistent wi
 
 The types of personal information that we collect will depend on the nature of your dealings with us. For example, we may collect personal information directly from you when you:
 
-  * Subscribe to any of our publications or register to receive brochures;
-  * Apply to attend or exhibit at a JNTO event, or enter a promotion or competition;
-  * Have business dealings with us (whether as an employee of one of our external service providers, or if you work for any agencies or companies we deal with, or in the context of a transaction, or if you volunteer personal information to us).
-
-
-
+• Subscribe to any of our publications or register to receive brochures;  
+• Apply to attend or exhibit at a JNTO event, or enter a promotion or competition;  
+• Have business dealings with us (whether as an employee of one of our external service providers, or if you work for any agencies or companies we deal with, or in the context of a transaction, or if you volunteer personal information to us).  
 We need to collect personal information so that we can provide you with the publications or services you have requested. The particular purpose for which we collect personal information will either be explained when we collect that information, or will be obvious from the context in which it is collected.
 
 ### Use of personal information
@@ -33,8 +30,7 @@ We may disclose personal information to external service providers (e.g. IT cons
 
 We may also disclose personal information when required by law.
 
-### Access to personal information
-
+Access to personal information  
 You have the right to request access to any information held by JNTO, which relates to you. You also have the right to request the correction of any information which relates to you and is inaccurate. Any request for access or corrections should be advised to us in writing.
 
 ### Online Privacy Issues
@@ -65,9 +61,6 @@ Our website may also be linked to websites operated by third parties. These link
 
 If you have any questions about this privacy policy, or if you wish to make a complaint about how we have handled your personal information, please contact us using the contact details below:
 
-  * By Email: [travelinfo@jnto.org.au](mailto:%20travelinfo@jnto.org.au)
-  * By Post: Suite 1, Level 4, 56 Clarence Street, Sydney, NSW, 2000, Australia
-
-
-
+• By Email: travelinfo@jnto.org.au  
+• By Post: Suite 1, Level 4, 56 Clarence Street, Sydney, NSW, 2000, Australia  
 We periodically review our privacy policy, and reserve the right, at its discretion, to modify or remove portions of this policy at any time.
