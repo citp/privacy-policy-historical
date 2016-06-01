@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the kinhr.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315064618id_/http%3A//kinhr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinhr.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601212512id_/https%3A//kinhr.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Kin HR
+
+## Privacy Policy
+
+Last updated: February 4, 2016
 
 This privacy policy (“ **Privacy Policy** ”) provides our policies and procedures for collecting, using, and disclosing your information. Users can access the services provided by Kin Workplace Solutions, LLC (“ **Kin** ”, “ **we** ” or “ **our** ”) through our website [www.kinhr.com](http://kinhr.com/) (the “ **Services** ”). This Privacy Policy governs your access of the Services, regardless of what type of device or application you use to access them. By using our Services you consent to the collection, transfer, processing, storage, disclosure and other uses of information described in this Privacy Policy. The term “ **Information** ” refers to all of the different forms of data, content, and information described below.
 
@@ -66,11 +70,11 @@ We may, at our discretion, disclose your non-private, aggregated, or otherwise n
 
 #### Opting Out.
 
-Other than the primary elements of the Services that we encrypt and provide through Amazon’s S3 storage, you may opt out of our using or sharing any other Personal Information with our third party business partners. Opting out may affect how well we are able to service your account(s) and customer needs, but we will still be able to provide you with the Services. You may opt out by selecting the applicable “opt out” features within the Services, or contacting us via email at [info@kinhr.com](mailto:info@kinhr.com) or in writing at 210 N Morgan Street Chicago, IL 60607.
+Other than the primary elements of the Services that we encrypt and provide through Amazon’s S3 storage, you may opt out of our using or sharing any other Personal Information with our third party business partners. Opting out may affect how well we are able to service your account(s) and customer needs, but we will still be able to provide you with the Services. You may opt out by selecting the applicable “opt out” features within the Services, or contacting us via email at [info@kinhr.com](mailto:info@kinhr.com) or in writing at 210 N Morgan Street Chicago, IL 60607.
 
 ### 4\. Changing or Deleting Your Information
 
-If you are registered as the account holder or account administrator, you may review, update, correct or delete the Personal Information provided in your registration or account profile by changing the “account settings.” Files and Employment Information may only be updated or deleted by your account administrator. In some cases we may retain copies of your Information and Files if required by law. For questions about your Personal Information, Employment Information or Files on our Services, please contact [info@kinhr.com](mailto:info@kinhr.com). We will respond to your inquiry within 30 days.
+If you are registered as the account holder or account administrator, you may review, update, correct or delete the Personal Information provided in your registration or account profile by changing the “account settings.” Files and Employment Information may only be updated or deleted by your account administrator. In some cases we may retain copies of your Information and Files if required by law. For questions about your Personal Information, Employment Information or Files on our Services, please contact [info@kinhr.com](mailto:info@kinhr.com). We will respond to your inquiry within 30 days.
 
 ### 5\. Data Retention
 
@@ -92,13 +96,15 @@ Please refer to your organization’s policies if you have questions about your 
 
 The security of your Information is important to us. When you enter sensitive Information (such as a bank routing number) on our order forms and when your account administrator adds or uploads Employment Information or Files, we encrypt the transmission of that Information using secure socket layer technology (SSL).
 
-We follow generally accepted standards to protect the Information submitted to us, both during transmission and once we receive it. No method of electronic transmission or storage is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at [info@kinhr.com](mailto:info@kinhr.com).
+We follow generally accepted standards to protect the Information submitted to us, both during transmission and once we receive it. No method of electronic transmission or storage is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at [info@kinhr.com](mailto:info@kinhr.com).
 
 ### 8\. Safe Harbor Certification and Compliance
 
-We comply with the US-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information from European Union member countries. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please click [here](http://www.export.gov/safeharbor/).
+We comply with the US-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information from European Union member countries. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please click [here](http://www.export.gov/safeharbor/).
 
-Kin Workplace Solutions, LLC participates in the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor as set forth by the United States Department of Commerce. As part of [our participation](https://www.export.gov/safehrbr/list.aspx) in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet here](http://watchdog.truste.com/pvr.php?page=complaint&eou=&url=).  fax to 415-520-3420, or mail to TRUSTe Safe Harbor Complaints Dept., [click for mailing address](http://www.truste.com/about_TRUSTe/contact_us.html). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, [click here](http://www.truste.com/why_TRUSTe_privacy_services/online-privacy-watchdog) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.  For human resources data we have agreed to cooperate with Data Protection Authorities.
+Kin Workplace Solutions, LLC participates in the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor as set forth by the United States Department of Commerce. As part of [our participation](https://www.export.gov/safehrbr/list.aspx) in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet here](http://watchdog.truste.com/pvr.php?page=complaint&eou=&url=).  fax to 415-520-3420, or mail to TRUSTe Safe Harbor Complaints Dept., [click for mailing address](http://www.truste.com/about_TRUSTe/contact_us.html). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, [click here](http://www.truste.com/why_TRUSTe_privacy_services/online-privacy-watchdog) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.  For human resources data we have agreed to cooperate with Data Protection Authorities.
+
+Notwithstanding our compliance with the Safe Harbor Framework described above, we also require that residents of European countries consent unambiguously to the transfer of your Personal Information outside of the European Union for purposes of data processing, pursuant to Directive 95/46/EC of the European Parliament, Section 26.1(a).  Your use of the services provided by Kin Workplace Solutions, LLC constitutes such consent.
 
 ### 9\. Our Policy Toward Children
 
@@ -106,7 +112,7 @@ Our Services are not directed to persons under 13. We do not knowingly collect P
 
 ### 10\. Contacting Us
 
-If you have any questions about this Privacy Policy, please contact us at [info@kinhr.com](mailto:info@kinhr.com) or at 210 N Morgan Street Chicago, IL 60607.
+If you have any questions about this Privacy Policy, please contact us at [info@kinhr.com](mailto:info@kinhr.com) or at 210 N Morgan Street Chicago, IL 60607.
 
 ### 11\. Changes to our Privacy Policy
 
