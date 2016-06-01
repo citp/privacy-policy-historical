@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the treato.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205200908id_/http%3A//corp.treato.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treato.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601161818id_/http%3A//corp.treato.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Treato - Privacy Policy
 
-Last modified: May 14, 2015 
+Last modified: May 3, 2016 
 
 This Privacy Policy (this Policy) manifests Treato's commitment to privacy. This Policy is incorporated into, subject to and a part of the Website's Terms of Use. If you do not agree to this Policy, you may not and should not use the Website. The definitions in the Website's Terms of Use apply to this Policy unless stated otherwise. 
 
@@ -53,6 +53,10 @@ We may use advertisements to fund the Website, which are placed, served, managed
 Data Security
 
 We place great emphasis on the security and integrity of your information and the data stored in our systems. The Website is provided under the best commercially reasonable data security practices, in order to prevent unauthorized access, disclosure, alteration or deletion of any and all information stored in our systems. You acknowledge, however, that no such effort can completely guarantee the security of the stored data, that breaches of security are still a possibility both regarding our systems and that a data security breach resulting in unauthorized access to your information can occur in third party system (for example, ISP's and hosting services providers). As a result, we do NOT warrant or ensure the integrity and security of the data stored in its systems, including without limitation your information. 
+
+Sign up using Social Networks
+
+Facebook - When you login to Treato using Facebook, depending upon your privacy settings in Facebook, your friends and Facebook may be able to see automatically certain interactions with our site. By clicking “Sign in with facebook” or “Sign up with facebook”, you agree to share your interactions with Treato with Facebook and your Facebook friends. Treato is not responsible for your privacy settings on Facebook. 
 
 Change of Ownership
 
