@@ -1,125 +1,123 @@
-> *The following text is extracted and transformed from the popjam.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209174556id_/http%3A//mindcandy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popjam.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601152215id_/http%3A//www.popjam.com/privacyfull) for the most accurate reproduction.*
 
-# Mind Candy
+# PopJam - Privacy Policy Summary
 
-## 1\. Who are you and what is this Privacy Policy about?
+PLEASE READ THIS PRIVACY POLICY AND THE RELATED TERMS OF SERVICE CAREFULLY BEFORE USING THIS WEBSITE.
 
-Mind Candy Ltd is a UK family entertainment company that creates extraordinary brands with online games at their heart.  We know that you care about how your Personal Information is used and shared and we care about that too.
+This privacy policy ("Privacy Policy") describes how SuperAwesome Ltd. and its subsidiaries in the United States (collectively referred to herein as "SuperAwesome", "us" or "we") collects, uses and shares the personal information that you provide to SuperAwesome as a user of the website located www.popjam.com and the affiliated mobile application known as "Popjam" (collectively referred to herein as the "Site"). This Privacy Policy describes what information SuperAwesome collects from users, including children, when they visit the Site; how such information is used and stored; when such information may be disclosed to third parties; how users, parents, and guardians can control the use and disclosure of collected information; and how information is protected. Younger visitors should always check with their parents or guardians before entering information on any website or mobile application and we encourage families to discuss their household guidelines regarding the online sharing of personal information. If you are a parent or legal guardian, by allowing your child to use the Site, you are agreeing to the terms of this Privacy Policy on your child's behalf. It is important that you read and understand this Privacy Policy before allowing your child to use the Site. If there is anything within this Privacy Policy that you do not understand, then please contact us at hi@popjam.com or using the contact information listed at the end of this Privacy Policy to discuss what this means for you.
 
-Our Privacy Policy tells you how we look after, use and share the Personal Information that we collect from you. Please read this carefully. Unless we tell you or you agree, we do not share your Personal Information with anyone.
+## 1\. Registration/Parental Consent
 
-When you use any of our Services, you are agreeing to our Privacy Policy.
+The Site is a moderated community of kids sharing their digital creations in an environment of mutual trust, support and respect. We use technology and people to monitor kids' activities and communication and to encourage all users to respect our [House Rules](https://web.archive.org/community), [Safety Guidelines](https://web.archive.org/safety), and [FAQ](https://web.archive.org/faq), both of which are incorporated herein by this reference, and which you may also consult for more information about our moderation practices. Upon registration, we ask users to provide only a username for use within the Site. We ask users to pick a username that is unique, e.g., is not the same as or similar to a username used on other Internet services such as social networks, and that does not contain any personal information, such as a full name, school name or geographic location. If we notice and suspect that a user name contains information that could be used to identify a user, we will ask the user to change it. 
 
-## 2\. How do you protect my Personal Information?
+We recognize the importance of safeguarding the privacy of children and encourage parents to check and monitor their children's use of online activities regularly. This Site supports and complies with the Children's Online Privacy Protection Act ("COPPA") and other applicable laws. No personally identifiable information is purposefully or knowingly collected from children under the age of 13 by SuperAwesome without parental consent. If you are under the age of 13, you should use this Site only with the permission of a parent or legal guardian. For purposes of this Privacy Policy, personally identifiable information ("PII") is personal information about an individual, such as a first and last name, phone number or email address or other individually identifiable information within the meaning of COPPA and the Federal Trade Commission's Online Privacy Protection Rule found at 16 CFR 312.2. Every user hereby agrees that all information you provide, including but not limited to age, shall be truthful and correct.
 
-We are serious about guarding the security of your Personal Information and use a secure server to store your Personal Information. However, like everyone else, we cannot guarantee complete security. We use industry standard organisational and technical security measures to protect your data against unauthorised disclosure or processing. We have certified that we adhere to a legal framework established by the United States Department of Commerce called ‘Safe Harbor’, relating to the collection, use and retention of personal information from the European Union.   To learn more about the Safe Harbor program, please visit [Safe Harbor](http://export.gov/safeharbor/).
+In circumstances where we seek parental consent, we will send an email to the parent or legal guardian of a child to provide them with a "Direct Notice" as required under COPPA, notifying the type of PII that may be collected from the child and how such information may be used and/or disclosed by us, and obtain verifiable consent. The Direct Notice will provide directions that the parent is required to follow in order to provide us with consent to the collection, use and/or disclosure of the child's PII, as appropriate, and instructions on how the parent can revoke such consent.
 
-Where you are required to choose a password for your account, you are responsible for keeping that password confidential. This means you should limit access to your computer or device and sign off after you have finished accessing your account. If you think someone has access to your password or unauthorised access to your account, please inform us immediately at [info@mindcandy.com](mailto:info@mindcandy.com).
+In the event that we change our policy with respect to the collection of PII from children, or if new features, contests or sweepstakes which a child wishes to use or participate in require the provision of PII, their parent or guardian will be notified and will be required to give their consent to the collection and use of this information and/or be given the option to opt out of participation.
 
-We are not responsible for the misuse of your account or information where you have not kept your password confidential or not reported a breach of security.
+## 2\. Information We Collect
 
-## 3\. What information do you collect about me?
+When you sign up for the Site, you create a profile, which is then publicly available inside the Site. You may not use your real name, a real photo, or any other information that could identify you or your location (such as a school uniform) in the creation of your profile. Your PopJam profile shows your: 
 
-We collect Personal Information about you when you register with us, use our Services, answer our questions or provide feedback. We may also record our communications with you.
-
-**Information that you provide to us** : This may include your name, email address, telephone number, address book, user name, date of birth, genderand your location. If you buy something from us, we may need your address and payment information.  You may choose whether or not to give some information to us. However, not providing certain information may mean you cannot enjoy all or parts of our Services.
-
-**Information that is automatically collected:**  Whenever you interact with our Services, we automatically record information from your browser or device. This may include your IP address, device information (e.g., MAC address, device type), pages you have requested and cookie information.  Depending on your privacy settings, we may also receive information from social networks you choose to connect with via our Services, e.g. your profile information from Facebook.
-
-## 4\. How will you use the information about me?
-
-We use the information you give to us to make our Services the best possible experience for you. For instance, we may use your information to:
-
-  * Customise the Services you choose to receive
-  * Manage your account and your queries
-  * Improve our Services
-  * Contact you with important service announcements
-  * Meet our legal and regulatory obligations and protect our legitimate interests
-  * Carry out research and analysis, training and quality assurance
-  * If you agree, contact you about other Services and products from Mind Candy that we think may be of interest to you
-  * if you agree, contact you with advertising from other businesses
+  * User name
+  * Profile picture or avatar
+  * Profile description
+  * Pictures you make and share
+  * Who you follow, who follows you and your Top Friends in PopJam
+  * Quizzes , tests and games you've taken part in
+  * Badges or stickers you have collected
 
 
 
-Some of our Services may use location information transmitted from your devices. We only use location information in a way that is necessary to provide the Service you want. If you have not allowed your location information to be sent (through the settings menu on your device), then location information will not be sent.
+Quizzes, tests and games that you decide not to share publicly are still listed in your profile but other PopJammers cannot see them.
 
-## 5\. To whom will you disclose my Personal Information?
+### Sharing and Search
 
-Mind Candy will not share your Personal Information for marketing purposes with companies outside the Mind Candy group of companies, unless you have given us permission to do so. However, we may share your information in the following ways:
+When you use the Site, your creations and comments are accessible and visible to all users of the Site. There are no private channels or personal chat functions on the Site. Pictures, quizzes, tests, games, comments and other content you share in PopJam can also be shared via URL or "rejammed" (as we call it) by other PopJammers. If you rejam content from another PopJammer their post containing the content will appear in your profile showing their post and user name. Other PopJammers can search for you on PopJam by looking for your user name or profile picture using the search and browsing tools on PopJam.
 
-  * We may display your chosen profile information along with your activity levels on our Services, to friends with whom you have connected. Your other Personal Information cannot be seen by other users unless you post it in areas accessible by other users
-  * We may share your Personal Information, where appropriate, with any member of our group of companies
-  * We work with trusted partners to perform tasks on our behalf and we may need to disclose your Personal Information for them to provide services to you. However, these companies are bound by confidentiality obligations and do not have any independent right to use your Personal Information beyond what is necessary to assist us
-  * When the law requires us to disclose your information, we will comply
-  * When we need to enforce our Terms of Service, investigate fraud, reduce credit risk, exercise our legal rights or defend against legal claims
-  * When it is necessary for the protection of a person’s wellbeing or property and when obtaining your prior consent is difficult
-  * If there is a change in the ownership of Mind Candy or any of its assets, we may disclose Personal Information to the new or prospective investor. If we do so, we will notify you before your Personal Information becomes subject to a different privacy policy
+### Inviting Friends
 
+You may invite your friends to join the Site by sending them an email or a text message using the Site. We do this without storing any PII about you or your friends, in accordance with the one-time use exemption under COPPA. When you select friends to invite, we will use their email address or phone number to send the invitation in a way that the recipients cannot see your email address or phone number. The recipients' contact details are then immediately deleted from our servers. The invitation message is precompiled only with your username and a link to download the app, and it isn't editable.
 
+### Communicating with Us
 
-Mind Candy may display targeted advertisements based on anonymised information, personally identifiable information or information you make publicly available. No Personal Information will be provided to the advertiser directly by Mind Candy when you interact with or view a targeted advertisement. However, by interacting with or viewing an advertisement you are consenting to the possibility that the advertiser will collect data from you and/or make the assumption that you meet the targeting criteria used to display the advertisement.
+You may also provide us with PII by communicating directly with us, so we may collect: 
 
-## 6\. Will I receive marketing information from you?
+Information and communications you send to us by using one of our public email addresses. When you write to us, we will always ask you to put us in contact with your parents, through whom we can then provide support. Your parents' email address, which you may provide for purposes of us obtaining verified parental consent, or to notify your parents of new features you've requested that may require parental notification, such as push notifications. 
 
-We would like to send you information about our Services which may be of interest to you. If you don’t like this, we are happy to stop at any time. Just click on the ‘unsubscribe’ link if provided or contact us at [info@mindcandy.com](mailto:info@mindcandy.com).  On mobile devices, you can manage notices you receive about our Services by using the settings on your device.
+We will only use your contact information to provide assistance to you under the one-time use exemption of COPPA.
 
-## 7\. How do I access or change my Personal Information?
+### Password Recovery
 
-If you want to see, or change, your Personal Information, go to ‘my profile’ or your account settings or contact us at [info@mindcandy.com](mailto:info@mindcandy.com). Please note that certain information cannot be changed once you have entered it.  For instance, there should be no reason for a user to change their date of birth, if inputted.  This is to discourage users from engaging in unlawful activities.
+We ask for your email address in order to enable us to recover your password if you forget it. When you ask us to reset your password, we will protect your email address by ‘hashing' it and using the anonymized hash of your address only to confirm your identity and enable you to reset your password. Your email address will never be stored in a format that could be used to identify you.
 
-In certain jurisdictions, you may be entitled to request access to Personal Information we hold, by writing to us at [privacy@mindcandy.com](mailto:privacy@mindcandy.com) or at our postal address (see below). A small fee will be charged for this service, to cover administrative costs.
+## 3\. Usage Information
 
-## 8\. How long do you keep my Personal Information for? How can I delete it?
+When your computer or mobile device contacts our web servers (for example, when you visit this Site, or view an HTML e-mail), our web servers automatically collect usage information. Such usage information includes information about how our visitors use and navigate our Site. It can include the number and frequency of visitors to each web page and the length of their stays, browser type, referrer data that identifies the web page visited prior and subsequent to visiting our Site, and IP addresses (see below for more information on IP addresses). We also may determine the applicable technology available in order to serve you the most appropriate version of a web page, e-mail, advertising or promotional announcement or similar service. This information is used for internal purposes only to analyze and improve this Site and to provide you with a more fulfilling and relevant experience.
 
-We store your Personal Information for as long as your account is active and for as long as is required solely for our business purposes.
+## 4\. Browser Cookies and local storage
 
-If you wish to delete an account, you can do so by following instructions within the relevant Service, and/or by contacting [info@mindcandy.com](mailto:info@mindcandy.com). If you wish to delete the Personal Information that we hold on you, you may do so by contacting us at [privacy@mindcandy.com](mailto:privacy@mindcandy.com).  When you do this, we will deactivate your account and/or delete or anonymise (which means you cannot be identified from the information) relevant Personal Information, unless we have to retain it for legal reasons.  A limited amount of data may be retained for archive purposes only.
+Like many websites and applications, we may use browser "cookies" on the website popjam.com and local storage on the application PopJam. Cookies and local storage are a way of remembering who you are. A cookie is a small text file that is stored on your computer's hard drive or stored temporarily in your computer's memory. There are two kinds of cookies: those that are "session" oriented and those that are "persistent". Session cookies delete from your computer when you close your browser. Persistent cookies retain information for later use tomorrow, next week, next month, or whenever they are set to expire. We use cookies to help us to identify account holders and to optimize their experience on our Site. Also, we will use cookies to monitor and maintain information about your use of this Site. Most web browsers accept cookies automatically. You can delete cookies manually or set your browser to automatically delete cookies on a pre-determined schedule. For example, in the Internet Explorer menu bar, select: Tools →Internet Options→Browsing History→Delete to view manual and automatic options. If you decline to accept cookies, you may not be able to take advantage of or participate in certain features of this Site. Cookies are used for internal purposes only. 
 
-Some of the things you do on our Service are not stored in your account, like sending someone a message (where your friend may still have a message you sent, or may resend it, even after you delete your account). This information may remain after you delete your account.
+## 5\. Use Of IP Addresses
 
-## 9\. What are cookies? Do you use cookies?
+An IP address is a number that is assigned to your computer or network when you are linked to the Internet. When you request pages from this Site, our servers log your IP address. We may use IP address for a number of purposes, such as system administration, to report aggregate information to our business partners or to audit the use of the Site. .
 
-Cookies are small text files that we place on your device to allow us to store your settings, customise content for your repeat use of our Services and to assess user behaviour information.
+We also may collect and store information about you that we receive from other sources to enable us to update and correct the information contained in our database and to provide product recommendations and special offers that we think will interest you.
 
-We may also place cookies on your device if you click on our advertisements within/outside our Services. These cookies help us in a number of ways, including allowing us to audit the effectiveness of our advertising and for content and advertising personalisation.Our advertising partners may also transmit cookies to your computer or device, e.g. when you click on advertisements that appear on our Services. Our Privacy Policy does not cover the use of cookies by third parties. Please read their privacy policies for more information. **    **
+## 6\. Sensitive Information
 
-If you would like to opt-out of advertising tracking by our partner AD-X, please go to [this page](https://itunes.apple.com/us/app/ad-x-tracking-opt-out/id651367370?mt=8). If you would like to delete or control cookies on your device or use sites without cookies or would like to know more, visit [www.aboutcookies.org](http://aboutcookies.org/) or [www.allaboutcookies.org](http://allaboutcookies.org/).
+SuperAwesome uses modern technological efforts to ensure the safety of your sensitive information. No website, internet transmission, computer system or wireless connection is completely secure. SuperAwesome cannot guarantee that unauthorized access, hacking, data loss, or other breaches will never occur. 
 
-## 10\. Where is my Personal Information?
+## 7\. Consent to Processing
 
-We may transfer your Personal Information to countries outside of the European Economic Area EEA (such as the US), but only to companies we trust. This includes Mind Candy group companies or carefully selected business partners that agree to “Safe Harbor” certification or equivalent protections. We do this for our data management and business purposes, in particular, for outsourced data processing by organisations on our behalf. We take appropriate steps to ensure your information is adequately protected. If you do not agree to this, please do not use our Services.  _ _
+We operate globally and may transfer your personal information to individual companies or third parties in locations around the world for the purposes described in this privacy policy. Wherever your personal information is transferred, stored or processed by us, we will take reasonable steps to safeguard the privacy of your personal information and will comply with all applicable laws. 
 
-## 11\. Does this Privacy Policy apply to services, apps or websites provided by other companies?
+## 8\. Sharing Information
 
-Our Services may contain links to other apps or websites. Our Privacy Policy applies only to how Mind Candy uses your Personal Information. If you disclose your Personal Information to other companies, they are responsible for their use of your information.
+We may provide information to our subsidiary, affiliate and parent companies. In addition, SuperAwesome may share your persistent identifiers with third parties under the following circumstances:
 
-## 12\. What about Personal Information of children?
+_Third parties providing services on our behalf_ : We may engage third parties to perform services in connection with the operation of our business. Examples of these services include: (a) content providers; (b) product customization, (c) marketing and promotional material distribution, (d) website evaluation, (e) data collection, storage, management, analysis and, where applicable, cleansing, and (f) any other services designed to assist us in maximizing our business potential. These third parties may have access to this Site's user information,, to the extent it is needed to perform their duties and functions.
 
-**If you are younger than 13 years of age, you must get consent from your parents or legal guardians before you provide any Personal Information to us.**  We may also separately contact your parents or legal guardians to get consent and verification.
+_SuperAwesome Security_ : We may release information about our users, including IP address, when legally required to do so, at the request of governmental authorities conducting an investigation or to verify or enforce compliance with the policies governing our Site and applicable laws. We may also disclose such user information whenever we believe disclosure is necessary to protect the rights, property or safety of SuperAwesome, or any of our respective affiliates, business partners, customers or others. 
 
-If you believe we may have personal information about a child under 13 that was not provided with parental consent, please contact us at [privacy@mindcandy.com](mailto:privacy@mindcandy.com).
+_Aggregate Information_ : We may disclose non-identifying, aggregated user statistics to third parties for a variety of purposes, including describing our services to prospective partners and other third parties. Examples of such non-personal information include the number of users who visited this Site during a specific time period or purchased a specific product through this Site. 
 
-## 13\. Changes to our Privacy Policy
+_Corporate change_ : In addition, we reserve the right to disclose, share and/or otherwise transfer user information, including without limitation PII, in connection with a corporate merger, acquisition, consolidation, the sale of a portion of our business or the sale of substantially all of SuperAwesome's assets, or other fundamental corporate change, whatever form it may take. You will be notified via e-mail or prominent notice on our Site prior to a change of ownership or control of your personal information, if your personal information will be used contrary to this policy. For clarification and the removal of doubt, SuperAwesome specifically reserves the right to transfer or share a copy of PII collected pursuant to this Privacy Policy from this Site, off-line or otherwise, to the buyer of that portion of its business relating to that information.
 
-We may update our Privacy Policy from time to time. We will notify you of such changes by posting an announcement on our Service. You are bound by any changes to our Privacy Policy when you use our Service after you are notified of these changes.
+## 9\. Advertisements
 
-## 14\. How do I contact you?
+We may serve advertising on the site from child-friendly brands. Advertising enables us to keep the Site free to use. Any ads we serve will be delivered by our own ad serving technology, which has been designed to be compliant with COPPA. Such advertisements will be only be targeted based on the context of the Site. Any persistent identifiers collected in the delivery of advertisements will not be shared with third parties and will be used only in compliance with COPPA. All ads served in the Site will carry the SuperaAwesome SafeAd watermark, which indicates that (a) the ad is not collecting PII in contravention of COPPA, (b) its content has been reviewed for compliance with best practice and the CARU self-regulatory principles to be appropriate for children, and (c) it is age-appropriate for the Site. If you have any questions about advertising on the Site or concerns about specific ads that you see, please contact us on info@popjam.com.
 
-Please contact us if you have any questions about information we hold about you or about our Privacy Policy:
+## 10\. How Can I Access, Correct and Update My Information? 
 
-  * Send an email to [privacy@mindcandy.com](mailto:privacy@mindcandy.com)
-  * Write to us at Mind Candy Limited, 4th Floor Bonhill Building, 15 Bonhill Street, London EC2A 4DN, United Kingdom
+You or your parent or legal guardian can access, correct and update certain PII that you have provided to us, if any, by emailing at info@popjam.com. Please be aware that we will process your request as quickly as we reasonably can, but it may not be possible to update our systems immediately.
 
+In addition, you should be aware that it is not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons.
 
+## 11\. Notice to California Residents/Your California Privacy Rights
 
-## 15\. What does it mean?
+California residents are entitled once a year to request and obtain certain information regarding our disclosure, if any, of personal information to third parties for their direct marketing purposes during the immediately prior calendar year. PopJam has not shared your personal information with any third parties for their own marketing purposes in the past year. 
 
-‘Personal Information’ means anything that can be used to identify you, including information you give to us when you register and anything that we collect as you use our Services.
+## 12\. Forums/Message Boards
 
-“Service” or “Services” means the products and services provided by Mind Candy, including our games, applications, mobile applications, our websites and any other online, offline and/or mobile products and services on or via any platform or technology.
+Please review our restrictions on use and guidelines for user forums in our Terms of Service. In addition, please note that this Privacy Policy does not apply to any information you may disclose publicly in user forums (such as chat rooms, message boards, or similar web pages). You should keep in mind that whenever you publicly disclose information about yourself online, that information could be collected and used by people that you do not know. SuperAwesome assumes no responsibility for any action or policies of any third parties who collect any information users may disclose in user forums or other public areas, if any, of this Site.
 
-## 16\. Other Services
+## 13\. Revisions to Privacy Policy
 
-We may need to tell you more about how we collect and use information relating to particular Services. Please read more here:
+We reserve the right, in our sole discretion, to modify, update, add to, discontinue, remove or otherwise change any portion of this Privacy Policy, in whole or in part, at any time. When we amend this Privacy Policy, we will revise the "last updated" date located at the top of this Privacy Policy. For changes to this Privacy Policy that we consider to be material, we will place a notice on the SuperAwesome website located at www.popjam.com by revising the link to read substantially as "Updated Privacy Policy" for a reasonable amount of time. The most current version of this Privacy Policy will be available on the Site and will supersede all previous versions of this Privacy Policy.
 
-** **[Moshi Monsters Privacy Policy](http://moshimonsters.com/privacy)
+If you have any questions concerning this Privacy Policy, you may contact us at:
+
+PopJam   
+c/o SuperAwesome   
+40 Long Acre   
+London WC2E 9LG   
+United Kingdom   
+Email address: info@popjam.com   
+Telephone: +44-203-6686677 
+
+© 2016 SuperAwesome Ltd. All rights reserved.
+
+Last modified on 16 May 2016.
