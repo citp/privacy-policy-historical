@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the triviahive.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202081747id_/http%3A//triviahive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triviahive.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601114452id_/http%3A//triviahive.com/privacy) for the most accurate reproduction.*
 
 # TriviaHive | Privacy Policy
 
@@ -61,6 +61,10 @@ If there is a change of control in TriviaHive's business (whether by merger, sal
 If you decide to use TriviaHive's site or services, your use and any possible dispute over privacy is subject to this Privacy Policy.
 
 If you have questions about this Privacy Policy, you can [contact us.](https://web.archive.org/contact)
+
+#### Ad Preferences
+
+If you would like to read more about your ad preferences, please [click here](http://dyn.adki.com/preferences.php?p=5060&e=&r=0).
 
 #### Contact Information
 
