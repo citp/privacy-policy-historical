@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lastcall.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223222823id_/http%3A//www.lastcall.com/assistance/assistance.jsp%3FitemId%3Dcat4370003) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lastcall.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601105333id_/http%3A//www.lastcall.com/assistance/assistance.jsp%3FitemId%3Dcat4370003) for the most accurate reproduction.*
 
 # Security & Privacy at Neiman Marcus Last Call
 
@@ -134,7 +134,7 @@ You will receive promotional emails from us only if you have asked to receive th
 
 #### Mobile Messaging
 
-If you've signed up for mobile messaging (e.g., SMS and MMS) offers but later decide you no longer wish to receive them, simply follow the opt-out instructions included in the mobile message.
+If you've signed up for mobile messaging (e.g., SMS and MMS) offers but later decide you no longer wish to receive them, simply follow the opt-out instructions included in the mobile message or [click here.](http://bit.ly/tcNMLC)
 
 #### Acceptance
 
