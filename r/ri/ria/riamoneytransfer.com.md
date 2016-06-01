@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riamoneytransfer.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920044101id_/https%3A//www.riamoneytransfer.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riamoneytransfer.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601021630id_/https%3A//www.riamoneytransfer.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ria Money Transfer
 
@@ -72,6 +72,6 @@ Ria adheres to the Safe Harbor Principles issued by the United States Department
 
 ##  Questions 
 
-If you have any questions regarding this Privacy Policy, please contact Ria customer service at [ 1-877-443-1399](https://web.archive.org/web/20150920044101id_/https%3A//www.riamoneytransfer.com/legal/%7BcustomerServiceTelephoneNumberLink%7D). 
+If you have any questions regarding this Privacy Policy, please contact Ria customer service at [ 1-877-443-1399](tel:+1-877-443-1399). 
 
 6565 Knott Ave. Buena Park, CA 90620 
