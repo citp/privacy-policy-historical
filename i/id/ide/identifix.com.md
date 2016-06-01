@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the identifix.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503165824id_/https%3A//www.identifix.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the identifix.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601144440id_/https%3A//www.identifix.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Identifix | Find and Fix Faster
+# Privacy Policy | Identifix
 
 This privacy statement covers our web site, identifix.com. To demonstrate our commitment to your privacy, we want to disclose our information practices to you.
 
@@ -31,7 +31,7 @@ To register to use identifix.com, we ask for a contact name, email address, mail
 
 ### Cancellation and Refund Policy
 
-Our product is a month-to-month, paid-in-advance, web-based product. Our product can be cancelled at any time and does not contain a contract. For this reason, we offer no refunds as a matter of policy; however, at our option and discretion, exceptions can be made under special circumstance. If a refund is approved, it will appear as a credit on the billing credit card. If you have any questions, concerns or comments, please contact us at 1.800.745.9649, option 4.
+Our product is a month-to-month, paid-in-advance, web-based product. Our product can be cancelled at any time and does not contain a contract. For this reason, we offer no refunds as a matter of policy; however, at our option and discretion, exceptions can be made under special circumstance. If a refund is approved, it will appear as a credit on the billing credit card. If you have any questions, concerns or comments, please contact us at 1-800-745-9649, option 4.
 
 ### Information Use
 
@@ -93,7 +93,7 @@ To better serve our customers, we supplement the information we receive from our
 
 ### Correcting, Updating, Deleting and Deactivating Personal Information
 
-If you change your email, postal address, area code or phone number, or if you choose to discontinue using our service, please contact us at 651.633.8007, 7am-7pm Central Time, Monday-Friday, or use our Contact Us page.
+If you change your email, postal address, area code or phone number, or if you choose to discontinue using our service, please contact us at 651-633-8007, 7am-7pm Central Time, Monday-Friday, or use our Contact Us page.
 
 ### Notification of Changes
 
