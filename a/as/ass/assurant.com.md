@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the assurant.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031171701id_/http%3A//www.assurant.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assurant.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601152959id_/https%3A//www.assurant.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Assurant
 
@@ -48,6 +48,8 @@ _**
 _Cookies_
 
 Like many companies, some of our Site may use “cookies.” Cookies are bits of text that are placed on your computer’s hard drive when you visit certain websites. We may use cookies to tell us, for example, whether you have visited us before or if you are a new visitor and to help us identify site features in which you may have the greatest interest. Cookies may enhance your online experience by saving your preferences while you are visiting our Site.
+
+We use a tool called “Google Analytics” to collect information about use of this Site. Google Analytics collects information such as how often users visit this Site, what pages they visit when they do so, and what other sites they used prior to coming to this Site. We use the information we get from Google Analytics only to improve this site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information.
 
 Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Please note that some features may not function properly if you decide to not accept cookies.
 
