@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whoisstevehawk.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220222610id_/http%3A//whoisstevehawk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whoisstevehawk.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601065858id_/http%3A//whoisstevehawk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Steve Hawk
 
@@ -27,7 +27,7 @@ The categories of Personally Identifiable Information we collect are your first 
 
 6\. Methods We Use to Protect Your Information. We use security software to protect the confidentiality of your personal information. In addition, our business practices are reviewed periodically for compliance with policies and procedures governing the security and confidentiality of our information. Our business practices limit employee access to confidential information, and limit the use and disclosure of such information to authorized persons.
 
-7\. Children. This website does not provide services or sell products to children under the age of 18. If we discover we have received any information from a child under the age of 18 in violation of this policy, we will delete that information immediately. If you believe we have received any information from or about anyone under the age of 18, please [contact](http://whoisstevehawk.com/contact-2/ "contact") us at the address listed below.
+7\. Children. This website does not provide services or sell products to children under the age of 18. If we discover we have received any information from a child under the age of 18 in violation of this policy, we will delete that information immediately. If you believe we have received any information from or about anyone under the age of 18, please [contact](http://whoisstevehawk.com/contact/) us at the address listed below.
 
 8\. How You Can Access Your Information. You can request access to all your personally identifiable information maintained by us by sending an e-mail to us at 7figuremlmsuccess@gmail.com. Upon request we offer you the ability to have inaccuracies corrected in your personally identifiable information. You can have this information corrected by sending us an e-mail at the address listed below.
 
