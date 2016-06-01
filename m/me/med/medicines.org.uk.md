@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medicines.org.uk privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927110823id_/http%3A//www.medicines.org.uk/emc/privacy-policy-and-legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicines.org.uk privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602014105id_/http%3A//www.medicines.org.uk/emc/privacy-policy-and-legal) for the most accurate reproduction.*
 
 # Privacy Policy and Legal - electronic Medicines Compendium (eMC)
 
