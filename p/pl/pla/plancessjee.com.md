@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the plancessjee.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006235541id_/http%3A//www.plancessjee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plancessjee.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601025840id_/https%3A//www.plancess.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Plancess
 
-Plancessjee.com is an online JEE Main & Advanced coaching portal with the constant motivation to provide you with premium quality educational material in terms of high quality IIT Video Lectures and Study Materials. We are strongly committed to the right to privacy and we have drawn a privacy statement that protects the information we collect from you.
+[Plancess.com](https://www.plancess.com/) is an online JEE Main & Advanced / AIPMT / Foundation coaching portal with the constant motivation to provide you with premium quality educational material in terms of [high quality IIT Video Lectures](https://www.plancess.com/products/iit-jee-video-lectures-pcm) and [ Study Materials](https://www.plancess.com/products/iit-jee-study-material-pcm). We are strongly committed to the right to privacy and we have drawn a privacy statement that protects the information we collect from you.
 
 Kindly read this privacy policy thoroughly so that you may learn more about the ways in which we use and protect your personal information.
 
@@ -16,4 +16,4 @@ Our Privacy Policy does not allow us to disclose any information with any third 
 
 All users across India and abroad can browse our site free of cost for searching any course, faculty, article or feature offered by our web portal. You are liable to pay only when you purchase/renew the course/courses.
 
-The plancessjee.com has trained staff members who may contact you for either services or sales through various communication mediums provided by you in your personal information like mobile number, landline number and email address i.e. via email, phone call or text messages.
+The plancess.com has trained staff members who may contact you for either services or sales through various communication mediums provided by you in your personal information like mobile number, landline number and email address i.e. via email, phone call or text messages.
