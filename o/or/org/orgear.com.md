@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the orgear.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622230017id_/http%3A//www.outdoorresearch.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orgear.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601042159id_/http%3A//www.outdoorresearch.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Outdoor Research | Designed By Adventure | Outdoor Clothing & Gear
-
-## Privacy Policy
+# Privacy Policy US EN | Outdoor Research | Designed By Adventure | Outdoor Clothing & Gear
 
 **Outdoor Research, Privacy Policy**
 
