@@ -1,75 +1,66 @@
-> *The following text is extracted and transformed from the theblogfrog.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617020542id_/http%3A//www.tapinfluence.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theblogfrog.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601043224id_/http%3A//outreachify.com/terms-conditions-and-privacy-policy) for the most accurate reproduction.*
 
-# Privacy | TapInfluence
+# Terms & Conditions and Privacy Policy - Outreachify.com
 
-Your privacy is important to us. This Privacy Policy applies to all of the products, widgets, services and websites offered by TapInfluence LLC or its subsidiaries or affiliated companies ; collectively, TapInfluence’s “services”.
+This Privacy Policy governs the manner in which Outreachify collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://outreachify.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Outreachify.
 
-In order to provide our full range of services, we may collect the following types of information:
+###### Personal identification information
 
-  * **Information you provide**  – When you sign up for TapInfluence or other TapInfluence service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). We may combine the information you submit under your account with information from other TapInfluence services or third parties in order to provide you with a better experience and to improve the quality of our services.
-  * **Cookies**  – When you visit TapInfluence, we send one or more cookies – a small file containing a string of characters – to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends. We may set a cookie in your browser when you visit a website and view or click on an ad supported by TheBlogFrog’s advertising services.
-  * **Log information**  – When you access TapInfluence services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
-  * **User communications**  – When you send messages, chats, or other communications to TapInfluence, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
-  * **Affiliated sites**  – We offer some of our services in connection with other web sites. Personal information that you provide to those sites may be sent to TapInfluence in order to deliver the service. We process such information in accordance with this Privacy Policy. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies.
-  * **Other sites**  – This Privacy Policy applies to TapInfluence services only. We do not exercise control over the sites which display widgets or services from TapInfluence. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, place an orderfill out a form and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number,
 
+Users may, however, visit our Site anonymously.
 
+We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-TapInfluence only processes personal information for the purposes described in this Privacy Policy and/or the supplementary privacy notices for specific services. In addition to the above, such purposes include:
+###### Non-personal identification information
 
-  * Providing our services to users, including the display of customized content and advertising;
-  * Auditing, research and analysis in order to maintain, protect and improve our services;
-  * Ensuring the technical functioning of our network; and
-  * Developing new services.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
+###### Web browser cookies
 
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-TapInfluence processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners.
+###### How we use collected information
 
-### Choices for personal information
+Outreachify collects and uses Users personal information for the following purposes:
 
-When you register at TapInfluence, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use.
+  *  _To personalize user experience_  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  *  _To improve our Site_  
+We continually strive to improve our website offerings based on the information and feedback we receive from you.
+  *  _To administer a content, promotion, survey or other Site feature_  
+To send Users information they agreed to receive about topics we think will be of interest to them.
+  *  _To send periodic emails_
 
-If we propose to use personal information for any purposes other than those described in this Privacy Policy and/or in the specific service privacy notices, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive information for purposes other than those described in this Privacy Policy and/or in the supplementary service privacy notices, unless we have obtained your prior consent.
-
-Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some TapInfluence features and services may not function properly if your cookies are disabled.
-
-You can decline to submit personal information to any of our services, in which case TapInfluence may not be able to provide those services to you.
-
-### Information sharing
-
-TapInfluence only shares personal information with other companies or individuals outside of TapInfluence in the following limited circumstances:
-
-  * We have your consent. We require opt-in consent for the sharing of any sensitive personal information.
-  * We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
-  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of TapInfluence, its users or the public as required or permitted by law.
+The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
 
-If TapInfluence becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.
 
-We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who clicked on a particular term. Such information does not identify you individually.
+###### How we protect your information
 
-### Information security
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data.
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
 
-We restrict access to personal information to TapInfluence employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+###### Changes to this privacy policy
 
-### Data integrity
+Outreachify has the discretion to update this privacy policy at any time. When we do, revise the updated date at the bottom of this page,. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-TapInfluence processes personal information only for the purposes for which it was collected and in accordance with this Privacy Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
+###### Your acceptance of these terms
 
-### Accessing and updating personal information
+By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-When you use TapInfluence services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users’ personal information. We provide the details for these procedures in the specific privacy notices or FAQs for these services.
+###### Contacting us
 
-### Enforcement
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-TapInfluence regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or TapInfluence’s treatment of personal information by [contacting us](http://theblogfrog.com/feedback.aspx) through this web site.
+Outreachify
 
-When we receive formal written complaints, it is TapInfluence’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between TheBlogFrog and an individual.
+http://outreachify.com
 
-### Changes to this Privacy Policy
+1850 Sawtelle Blvd, Suite #490, Los Angeles, CA 90025
 
-Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). Each version of this Privacy Policy will be identified at the top of the page by its effective date
+323 285-9610
+
+contact@outreachify.com
