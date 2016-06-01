@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the littlebits.cc privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203235738id_/http%3A//littlebits.cc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlebits.cc privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601231913id_/http%3A//littlebits.cc/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy
 
 In short (and plain English), we are good people. We will never use your private information in a harmful way, never sell it, and never spam you without your consent. We also hate sites and companies that do that, and we respect your privacy, and clean inboxes!  
-Below is the detailed privacy policy that our legal counsel said we had to include (sorry for the occasional caps, we promise we are not yelling  . For any questions, please [email us](mailto:info@littlebits.cc?subject=).
+Below is the detailed privacy policy that our legal counsel said we had to include (sorry for the occasional caps, we promise we are not yelling  . For any questions, please [email us](https://web.archive.org/cdn-cgi/l/email-protection#d7beb9b1b897bbbea3a3bbb2b5bea3a4f9b4b4e8a4a2b5bdb2b4a3ea).
 
 Cheers!  
 The littleTeam
 
 **Who We Are**
 
-littleBits Electronics, Inc. (“littleBits”, “we” or “us”) has created this Privacy Policy in order to demonstrate our firm commitment to protecting your personal information.
+littleBits Electronics Inc. (“littleBits”, “we” or “us”) has created this Privacy Policy in order to demonstrate our firm commitment to protecting your personal information.
 
 The following discloses our information gathering and dissemination practices relating to the website located at [http://www.littleBits.cc](http://www.littlebits.cc/) and other services that we may make available from time to time to users (together, the “Services”). We will not share your personal information with anyone except as described in this Privacy Policy. By using the Services or otherwise interacting with littleBits, you consent to the collection and use by us of any personal and other information you provide while using the Services in accordance our Privacy Policy (this “Privacy Policy”). If you do not agree to the Privacy Policy, please do not use the Services.
 
@@ -101,4 +101,4 @@ littleBits will take reasonable precautions to protect personal information in i
 **Effective Date**  
 This Privacy Policy is effective as of February 20th, 2012. We reserve the right to change this Privacy Policy at any time. If we change it, we will post the then-current Privacy Policy on this page. Any changes to this Privacy Policy will be effective as of the day they are posted.  
 **Contact Us**  
-It is important for us to know what visitors have to say about our Services. To contact us with your questions or comments please email us at [info[AT]littleBits.cc](mailto:info@littlebits.cc?subject=%22Online%20Privacy%22)
+It is important for us to know what visitors have to say about our Services. To contact us with your questions or comments please email us at [info[AT]littleBits.cc](https://web.archive.org/cdn-cgi/l/email-protection#3b52555d547b57524f4f575e59524f4815585804484e59515e584f061d4a4e544f0074555752555e1b6b49524d5a58421d4a4e544f00)
