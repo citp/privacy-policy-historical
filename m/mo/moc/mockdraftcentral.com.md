@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mockdraftcentral.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026024022id_/http%3A//www.mockdraftcentral.com/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mockdraftcentral.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601041453id_/http%3A//www.mockdraftcentral.com/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Mock Draft Central Privacy Policy
 
