@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the badoinkvr.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919061012id_/http%3A//badoinkvr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badoinkvr.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601073612id_/http%3A//badoinkvr.com/privacy) for the most accurate reproduction.*
 
 # BaDoink VR Porn User Privacy
+
+## Age verification
+
+Are you at least **18** years old?
 
 Our Commitment to Privacy 
 
