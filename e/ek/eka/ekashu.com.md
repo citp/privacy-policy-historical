@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ekashu.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419223009id_/https%3A//www.creditcall.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ekashu.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601105056id_/http%3A//www.creditcall.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Creditcall
 
@@ -12,7 +12,7 @@ For the purpose of the Data Protection Act 1998 (the **Act** ), the data control
 
 We may collect and process the following data about you:
 
-  * Information that you provide by filling in forms one **[our website](https://web.archive.org/web/20150419223009id_/https://www.creditcall.com/privacy-policy/www.creditcall.com).** This includes information provided when placing an order for Products and, if applicable, at the time of registering to use our Website, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with our Website.
+  * Information that you provide by filling in forms one **[our website](http://www.creditcall.com/).** This includes information provided when placing an order for Products and, if applicable, at the time of registering to use our Website, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with our Website.
   * If you contact us, we may keep a record of that correspondence.
   * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
   * Details of your visits to our Website including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
