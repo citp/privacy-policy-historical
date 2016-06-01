@@ -1,30 +1,47 @@
-> *The following text is extracted and transformed from the intango.com privacy policy that was archived on 1999-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991204130437id_/http%3A//www.entango.com/privacy_policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intango.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601214143id_/http%3A//intango.com/privacy-policy) for the most accurate reproduction.*
 
-# Entango - Donors & Members
+# Privacy Policy - Intango
 
-  |  |  **Privacy** **ONLINE DONATION PRIVACY POLICY** **Commitment to Privacy**  
-Entango was founded for the purpose of helping not-for-profit organizations ("NPOs") receive online donations inexpensively and efficiently. We, at Entango, understand the concerns that NPOs have with protecting the integrity of donor information. We also understand the concerns donors have with using their credit cards for online transactions. It is therefore in Entango's best interest to protect donors' credit card information in order to provide our customers with the best service possible. We have developed the following Privacy Policy to fulfill our commitment to donor privacy. **Credit Card Numbers**  
-When a donor uses Entango-enabled services to make an online donation, the credit card billing information, such as the name on the donor's card, billing address, and expiration date, is used to process the donation. We use SSL, industry standard secure technology, to encrypt donor credit card information. This technology is designed to prevent the theft or interception of the information.
+Welcome to Intango.com (“Intango”, “we”, “us” or “Site”). We are committed to maintain the privacy of its customers. The following discloses the information gathering and dissemination practices.
 
-The non profit organization has access to an encrypted version of the donor's credit card number, showing the actual last four digits of the number, and a transaction identification number issued by Entango. Unlike retailers, which commonly keep complete credit card numbers in case there is a billing dispute, Entango only stores encrypted versions of donors' credit card numbers. The NPO normally receives only the encrypted version. However, in a case such as a billing dispute, it may be necessary for the NPO to have access to the actual number. In such a case, Entango will try to help the NPO resolve the billing dispute with only the encrypted number. If that is not possible, Entango will take every precaution available to ensure that the donor's credit card number is released only to authorized employees of the NPO. 
+Information we collect
 
-Donating online with Entango will not open your credit card information to dissemination. Entango will not disclose, sell, trade, rent, or otherwise reveal donors' credit card information used for online donating to third parties, including advertisers or marketers, without first receiving the donor's consent. This information is only used to process the donation. 
+Intango Media Group Ltd. Privacy Policy (the “Privacy Policy”) explains the types of information that we gather and what we do with it. In our registration process, as either a “Publisher” or “Advertiser” on Intango’s Performance Network (“RevenueHis”) we ask users to provide contact information, for example, your company name, billing information and email address. We may also request a unique login password, and confirmation that you have accepted our terms and conditions of use and wish to receive our monthly newsletter. If required to complete a transaction, we might also request financial information including PayPal account or credit card numbers. You may modify the information you have provided at any time from within your personal control panel.
 
-**Other Donor Information**
+We use customer contact information to provide services and occasionally, provide information on our company. The customer’s contact information is also used to contact the user when necessary. We use unique identifiers, such as login & password, to verify the user’s identity and as account numbers in our customer database system. We also use information in the aggregate to demonstrate, for example, the number of people registered with the company. Unless required to complete a transaction you have requested, or to perform maintenance on our site, we do not share personal identifying information with outside entities.
 
-As for the donor's other personally identifiable information, Entango may disclose aggregate use statistics (for example, 50% of our users are male) in order to describe our services to prospective partners, investors, and otherwise relevant third parties, such as non profit industry leaders. Such disclosed information will not include any personal information about individual donors. Other than this statistical use, Entango will not disclose, sell, trade, rent, or otherwise reveal personal information about individual donors to third parties, without first receiving the donor's consent. EACH NPO MAY HAVE A PRIVACY POLICY THAT DIFFERS FROM ENTANGO'S. PLEASE REFER TO THE NPO FOR ITS OWN PRIVACY POLICY.  
-ENTANGO IS NOT RESPONSIBLE FOR ANY USES OF DONOR INFORMATION BY THE NPO.
+We use “cookies” on our site to remember you and ensure you do not view the same ads repeatedly. We also use cookies to estimate the number of unique visitors to the site and provide aggregate information about our user base. However, we do not associate our members with cookies, the member remains anonymous.
 
- **E-mail Addresses**  
-Entango collects the donor's e-mail address to send him or her a confirmation of the transaction for the donor's records. Entango will automatically send updates on information such as transaction activity and password changes as a security measure; personal page access schedules, and other periodic reports unless the donor checks the box on the online donation form requesting not to be sent any such information.
+In addition, our member’s advertisements may contain cookies. While we use cookies in certain sections of our Web site, cookies received with banner ads are collected by the advertising company and we do not have access to this information. You may delete the cookies on your machine by following the instructions provided with your Internet browser software.
 
-Entango will not disclose, sell, trade, rent, or otherwise reveal donors' e-mail addresses with a third party, other than the NPO receiving the donation. EACH NPO MAY HAVE A PRIVACY POLICY THAT DIFFERS FROM ENTANGO'S. PLEASE REFER TO THE NPO FOR ITS OWN PRIVACY POLICY. ENTANGO IS NOT RESPONSIBLE FOR ANY USES OF DONOR  
-INFORMATION BY THE NPO.
+Information Sharing
 
-»The Online Donation Privacy Policy outlined above is subject to any legal requirements of disclosure dictated by statute or by an order of an appropriate court of law.
+We do not sell your personal information to third parties. However, we may disclose your personal information: (a) As required by law such as to comply with a subpoena, or similar legal process. (b) When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. (c)If My Private Search is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our extension of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. (d) To any other third party with your prior consent to do so.
 
-  
-| [](https://web.archive.org/web/19991204130437id_/http%3A//www.entango.com/corporate/index.html) | [](https://web.archive.org/web/19991204130437id_/http%3A//www.entango.com/nonprofits/index.html) | [](https://web.archive.org/web/19991204130437id_/http%3A//www.entango.com/privacy_policy/index.html)|
+Use of Information
 
-  
-[Contact Entango](http://contact.entango.com/)      [Privacy Policy](https://web.archive.org/web/19991204130437id_/http%3A//www.entango.com/privacy_policy/index.html)      [Home](https://web.archive.org/web/19991204130437id_/http%3A//www.entango.com/index.html)      
+We may use information (whether personal identifying information or not) that we collect about you to: (a) Manage your relationship with us and provide you with customer support. (b) Perform research and analysis about your use of, or interest in, our products, services or content, or products, services or content offered by others. (c) Communicate with you by e-mail, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us or third parties. (d) Cooperate with legal, criminal or regulatory investigations or proceedings. (e) Manage our business.
+
+Opt out
+
+Intango respects your privacy. If you do not wish to reset your setting(s), you can decline/opt-out of the setting(s) change by deleting them under the instructions of your browser (“Help” section).
+
+Security
+
+When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. Access to Personally Information is strictly limited, and we take massive measures to ensure that Personally Information is not accessible to the public. All of our users’ Personally Information is restricted in our offices. If you have any questions about security on our extension, you can contact us.
+
+Minors
+
+Intango platforms are not designated for minors under the age of 13. In addition, we do not knowingly collect Personal Information from children under the age of 13. If we become aware that we have inadvertently received Personal Information from a child under the age of 13, we will take all appropriate steps in order to remove such information from Intango records.
+
+Updates
+
+From time to time we might make some changes to our privacy policy. In that case we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+
+Contact us
+
+You can contact us about this privacy statement by emailing us at: media@intango.com 
+
+By registering with Intango Ltd you agree to have your company logo, creative and other non-confidential collateral displayed on our site or in press releases and other print materials. This information can be removed upon your request.
+
+Last Updated: FEB, 2016
