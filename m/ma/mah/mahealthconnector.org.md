@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mahealthconnector.org privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906033102id_/https%3A//www.mahealthconnector.org/site-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mahealthconnector.org privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602113228id_/https%3A//www.mahealthconnector.org/site-policies/privacy-policy) for the most accurate reproduction.*
 
-# Massachusetts Health Connector - Website Privacy Policy and Notice of Privacy Practices
+# Website Privacy Policy and Notice of Privacy Practices – Massachusetts Health Connector
 
 #### _Last modified May 15, 2015_
 
