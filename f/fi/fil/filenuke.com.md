@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filenuke.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225050444id_/http%3A//filenuke.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filenuke.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602025405id_/http%3A//filenuke.com/policy) for the most accurate reproduction.*
 
 # .Share your Files on FileNuke - Easy way to share your files
 
