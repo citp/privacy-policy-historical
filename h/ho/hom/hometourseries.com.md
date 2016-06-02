@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hometourseries.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230041306id_/http%3A//www.ikea.com/ms/en_US/privacy_policy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometourseries.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602161840id_/http%3A//www.ikea.com/ms/en_US/privacy_policy/privacy_policy.html) for the most accurate reproduction.*
 
 # privacy policy - IKEA
 
@@ -8,13 +8,13 @@ We at IKEA North American Services LLC (IKEA) respect your concerns about privac
 We collect and use information about you to communicate with you about our products, services and promotions. We also collect information to improve the shopping experience of IKEA consumers. Here are the ways we obtain information about you and the types of information we obtain. We also tell you how we use the information.
 
 **Catalog**  
-When you request a catalog from us, you provide us with contact information, such as your name, address, phone number and email address, so we may fulfill your request.
+When you request a catalog from us, you provide us with contact information, such as your name, address, phone number and email address, so we may fulfill your request. To update your email communication preferences, or to unsubscribe, please [click here](http://info.ikea-usa.com/SignUp/).
 
 **Email**  
 When you subscribe to our email list, you provide us information such as your email address, name and ZIP code so we may communicate with you via email. We will send you email only if you have provided us with your email address and have asked us to communicate with you this way. If you've signed up to receive email from us, you'll continue to find IKEA in your inbox. It's quick and easy to review or [manage your email preferences.](http://info.ikea-usa.com/signup/Default.aspx) Please log in to let us know how we can communicate with you.
 
 **Purchases**  
-When you order or purchase an IKEA product, you may be required to give us contact and payment information (such as credit card information) so we may process your order. When you pay for an IKEA product using a credit card, we use your credit card information only to fulfil your order and for other internal purposes.
+When you order or purchase an IKEA product, you may be required to give us contact and payment information (such as credit card information) so we may process your order. When you pay for an IKEA product using a credit card, we use your credit card information only to fulfill your order and for other internal purposes.
 
 **Purchase verification policy**  
 Please note that IKEA may request to verify your purchases against your receipt. Please keep your receipt available to show an IKEA representative upon request.
@@ -28,9 +28,6 @@ If you contact one of our customer service representatives, we may ask you for i
 **Help Us to Improve (HUTI)**  
 In store we provide you with the option to leave a personal comment to the store manager. During this process you have the option to provide us with such information as your name, address, email address and telephone number so that we can respond to your questions or concerns. The information that is collected and retained by this unit is for IKEA's use only.
 
-**Customer Profiles**  
-On our website and in store we provide you with the option to create a customer profile. The profile allows you to save shopping lists that you create in your in store and online visits, as well as allowing you to save personal planners and designs on the IKEA server and quickly access them when you are in the store. The customer profile includes personal information such as your name and address, your telephone number and your email address. The customer profile allows us to facilitate your IKEA shopping experience and to expedite the delivery of purchased products. The IKEA customer profile is optional.
-
 **Website**  
 We collect information on our website using transient cookies, sometimes called session cookies. A transient cookie is a small file that contains information about a user, and disappears when the user's browser is closed. Unlike a persistent cookie, a transient cookie is not stored on the user’s hard drive; it is stored only in temporary memory that is erased when the web browser is closed. We use transient cookies to determine, for example, how you use our website so we can improve the design of our site. Transient cookies are not linked to any personally identifiable information about you. Cookies can be disabled in your web browser.
 
@@ -40,10 +37,10 @@ When you visit our web site, we also collect anonymous information from you. Thi
 IKEA USA provides a FREE Hotspot wireless internet Service in our IKEA stores provided by IKEA for use by customers of IKEA. All users are required to log-in individually as an independent user. [Click here to view our full FREE wireless internet terms and conditions](http://www.ikea.com/ms/en_US/privacy_policy/terms_conditions.html)
 
 **Mobile**  
-IKEA offers our customers the ability to find out what’s new at their local IKEA store through their mobile device, either by browsing our mobile web site or through text messaging. Usage of the mobile web site follows similar standards employed by our standard web site; cookies may be employed to remember preferences or previous activity but do not reveal personal information and can be disabled using your mobile device’s Internet options. For text messaging, users will only receive messages if they have specifically opted in for them; standard text message rates will apply. To join IKEA Mobile, text the keyword "JOIN" to 62345. To unsubscribe from IKEA Mobile, text the keyword "STOP" to 62345.
+IKEA offers our customers the ability to find out what’s new at their local IKEA store through their mobile device, either by browsing our mobile web site or through text messaging. Usage of the mobile web site follows similar standards employed by our standard web site; cookies may be employed to remember preferences or previous activity but do not reveal personal information and can be disabled using your mobile device’s Internet options. For text messaging, users will only receive messages if they have specifically opted in for them; standard text message rates will apply. To join IKEA Mobile, text the keyword "JOIN" to 62345. **To unsubscribe from IKEA Mobile, text the keyword "STOP" to 62345**.
 
-**Kid's Ballroom**  
-To take advantage of our supervised children’s play area and ballroom while you shop, we require you to fill out a registration card that asks for the child’s name and age, the parent’s or guardian’s name, address, telephone number and signature, and any health concerns relating to the child that we should know. We ask for this information to help ensure the safety and security of the child.
+**Småland kid's play area**  
+To take advantage of our supervised children’s play area while you shop, we require you to fill out a registration card that asks for the child’s name and age, the parent’s or guardian’s name, address, telephone number and signature, and any health concerns relating to the child that we should know. We ask for this information to help ensure the safety and security of the child.
 
 **Other information you provide to us**  
 Through surveys, you may provide us with information such as product preferences, reasons for purchasing a product, family and lifestyle information to help us learn more about your shopping preferences. You also may provide such information when you fill out a warranty card about a product you purchased from IKEA. In addition, you may give us such information if you register for or redeem IKEA special offers, discount coupons or other promotions.
