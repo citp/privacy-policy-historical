@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtuemart.net privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210142912id_/http%3A//www.virtuemart.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtuemart.net privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602050553id_/http%3A//virtuemart.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
