@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the schoolcashonline.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319110117id_/https%3A//schoolcashonline.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolcashonline.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602113502id_/https%3A//www.schoolcashonline.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
-# SchoolCashOnline.com:
+# SchoolCashOnline.com: Privacy Policy
 
 **PRIVACY LEGISLATION POLICY**
 
