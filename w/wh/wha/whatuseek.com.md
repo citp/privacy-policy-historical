@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatuseek.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204134929id_/http%3A//www.whatuseek.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatuseek.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602194035id_/http%3A//whatuseek.com/privacy.shtml) for the most accurate reproduction.*
 
 # whatUseek - Privacy Policy
 
