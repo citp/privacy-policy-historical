@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mi9.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627162353id_/http%3A//www.mi9.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mi9.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602110551id_/http%3A//www.mi9.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - mi9.com
 
