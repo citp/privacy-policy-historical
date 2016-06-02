@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the font-zone.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102012953id_/http%3A//www.publicdomainfiles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the font-zone.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602071036id_/http%3A//www.publicdomainfiles.com/privacy.php) for the most accurate reproduction.*
 
 # Public Domain Files | Privacy Policy
 
