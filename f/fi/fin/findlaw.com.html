@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the findlaw.com privacy policy that was archived on 2015-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151224015731id_/http%3A//company.findlaw.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the findlaw.com privacy policy that was archived on 2016-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160602141216id_/http%3A//company.findlaw.com/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><!--[if lt IE 7 ]> <html class="no-js ie6" lang="en"> <![endif]--><!--[if IE 7 ]> <html class="no-js ie7" lang="en"> <![endif]--><!--[if IE 8 ]> <html class="no-js ie8" lang="en"> <![endif]--><head>
+<!DOCTYPE html><html><!--[if lt IE 7 ]> <html class="no-js ie6" lang="en"> <![endif]--><!--[if IE 7 ]> <html class="no-js ie7" lang="en"> <![endif]--><!--[if IE 8 ]> <html class="no-js ie8" lang="en"> <![endif]--><head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta name="keywords" content="About FindLaw">
     <meta name="description" content="Your privacy is important to FindLaw, a Thomson Reuters business, and we go to great lengths to protect it.">
@@ -39,7 +40,32 @@ el.parentNode.insertBefore(s, el);
 <script type="text/javascript" src="http://findlawimages.com/etc/clientlibs/granite/jquery/granite.min.js"></script>
 <script type="text/javascript" src="http://findlawimages.com/etc/clientlibs/foundation/jquery.min.js"></script>
 <script type="text/javascript" src="http://findlawimages.com/etc/designs/forms/clientlibs.min.js"></script>
-<!-- publicClassic extras -->
+<script id="gpt_script" src="http://www.googletagservices.com/tag/js/gpt.js" type="text/javascript"></script>
+	<script>
+        googletag.pubads().enableAsyncRendering();
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+        
+        $(window).load(function () {
+        	 var iframes = document.getElementsByTagName('iframe');
+        	 $.each(iframes, function (index, iframe) 
+        	{ setAdIframeStyle(iframe); } 
+        	);
+        	 });
+
+        	function setAdIframeStyle(iframe) {
+        	 if (iframe) {
+        	 try {
+        	 var iframeWin = iframe.contentWindow || iframe.contentDocument.parentWindow;
+        	 if (iframeWin.document.body) 
+        	{ var cssLink = document.createElement("link"); cssLink.href = "http://findlawimages.com/etc/designs/flcommon/clientlibs/gpt.ads.css"; cssLink.rel = "stylesheet"; cssLink.type = "text/css"; var head = iframeWin.document.head || iframeWin.document.getElementsByTagName("head")[0]; head.appendChild(cssLink); } 
+        	}
+        	 catch (err) {
+        	 }
+        	 }
+        	 };
+    </script>
+    <!-- publicClassic extras -->
     <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
     <script type="text/javascript">stLight.options({publisher:'952a23f0-e6ff-40d3-a435-d2ae19ebc567'});</script>
     <link rel="stylesheet" href="http://findlawimages.com/etc/designs/flpublic/top/flpublic.css" type="text/css">
@@ -65,16 +91,23 @@ el.parentNode.insertBefore(s, el);
 
 
 
-<script> var jsbc="FindLaw Statement of Online Privacy Practices"; var scIndex="general-findlaw:article"</script>
+<script> var jsbc="FindLaw Statement of Online Privacy Practices"; var scIndex="general-findlaw:article"; var s_account="findlawportaldev,findlaw-global-v1"</script>
 <!-- SiteCatalyst code version: H.20.3.
 Copyright 1997-2009 Omniture, Inc. More info available at
 http://www.omniture.com -->
-<script language="JavaScript" type="text/javascript" src="http://www.findlaw.com/resources/www.findlaw.com/js/omtr_code.js?ver=2"></script>
+
 <script language="JavaScript" type="text/javascript"><!--
 /* You may give each page an identifying name, server, and channel on the next lines. */
-omtr.hier1="FL.com:Public:Company"
+
+    var FL = FL || {};
+    FL.local = {
+        sitecatalyst: {
+            hier1: "FL.com:Public:Company"
+        }
+    };
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var omtr_code=omtr.t();if(omtr_code)document.write(omtr_code)//--></script><!--/DO NOT REMOVE/-->
+//--></script><!--/DO NOT REMOVE/-->
+<script language="JavaScript" type="text/javascript" src="http://findlawimages.com/etc/designs/flpublic/bop/omtr_code.js"></script>
 <!-- End SiteCatalyst code version: H.20.3. -->
 
 
@@ -405,71 +438,74 @@ var omtr_code=omtr.t();if(omtr_code)document.write(omtr_code)//--></script><!--/
 
     <ul>
 <div class="ft">Learn More About</div>
-<li><a href="http://public.findlaw.com/moretopics.html" title="Legal Topics">Legal Topics</a> /</li>
-<li><a href="http://statelaws.findlaw.com/" title="State Laws">State Laws</a> /</li>
-<li><a href="http://public.findlaw.com/bookshelf/" title="Bookshelf">Bookshelf</a> /</li>
-<li><a rel="nofollow" href="http://legalblogs.findlaw.com/" title="Blogs">Blogs</a> /</li>
-<li><a href="http://findlaw.com/rss-index/" title="FindLaw RSS Feeds">FindLaw RSS Feeds</a> /</li>
-<li><a href="http://www.findlaw.com/toc.html" title="Sitemap">Sitemap</a> /<br>
+<li><a title="Legal Topics" href="http://public.findlaw.com/moretopics.html">Legal Topics</a> /</li>
+<li><a title="State Laws" href="http://statelaws.findlaw.com/">State Laws</a> /</li>
+<li><a title="Bookshelf" href="http://public.findlaw.com">Bookshelf</a> /</li>
+<li><a title="Blogs" href="http://legalblogs.findlaw.com/" rel="nofollow">Blogs</a> /</li>
+<li><a title="FindLaw RSS Feeds" href="http://findlaw.com/rss-index/">FindLaw RSS Feeds</a> /</li>
+<li><a title="Sitemap" href="http://www.findlaw.com/toc.html">Sitemap</a> /<br>
 </li>
-<li><a href="http://company.findlaw.com/geo.html" title="Geography Sitemap">Geography Sitemap</a> /</li>
-<li><a href="http://espanol.findlaw.com" title="FindLaw En Español">FindLaw En Español</a> /</li>
-<li><a href="http://www.lawbrain.com" title="LawBrain">LawBrain</a> /</li>
-<li><a href="http://findlaw.co.uk" title="FindLaw UK">FindLaw UK</a> /</li>
-<li><a href="http://www.lawinfo.com" title="LawInfo">LawInfo</a></li>
+<li><a title="Geography Sitemap" href="http://company.findlaw.com/geo.html">Geography Sitemap</a> /</li>
+<li><a title="FindLaw En Español" href="http://espanol.findlaw.com">FindLaw En Español</a> /</li>
+<li><a title="LawBrain" href="http://www.lawbrain.com">LawBrain</a> /</li>
+<li><a title="FindLaw UK" href="http://findlaw.co.uk">FindLaw UK</a> /</li>
+<li><a title="LawInfo" href="http://www.lawinfo.com">LawInfo</a></li>
 </ul>
 <ul>
 <div class="ft">Find a Lawyer</div>
-<li><a href="http://lawyers.findlaw.com/lawyer/state.jsp" title="Browse by Location">Browse by Location</a> /</li>
-<li><a href="http://lawyers.findlaw.com/lawyer/practice.jsp" title="Browse by Legal Issue">Browse by Legal Issue</a> /</li>
-<li><a href="http://pview.findlaw.com" title="Browse by Law Firm &amp; Lawyer Profile">Browse by Law Firm &amp; Lawyer Profile</a></li>
+<li><a title="Browse by Location" href="http://lawyers.findlaw.com/lawyer/state.jsp">Browse by Location</a> /</li>
+<li><a title="Browse by Legal Issue" href="http://lawyers.findlaw.com/lawyer/practice.jsp">Browse by Legal Issue</a> /</li>
+<li><a title="Browse by Law Firm &amp; Lawyer Profile" href="http://pview.findlaw.com">Browse by Law Firm &amp; Lawyer Profile</a></li>
 </ul>
 <ul>
 <div class="ft">Find Answers</div>
-<li><a rel="nofollow" href="http://answers.findlaw.com" title="FindLaw Answers">FindLaw Answers</a> /</li>
-<li><a rel="nofollow" href="http://company.findlaw.com/community-guidelines.html" title="Community Guidelines">Community Guidelines</a></li>
+<li><a title="FindLaw Answers" href="http://answers.findlaw.com" rel="nofollow">FindLaw Answers</a> /</li>
+<li><a title="Community Guidelines" href="http://company.findlaw.com/community-guidelines.html" rel="nofollow">Community Guidelines</a></li>
 </ul>
 <ul>
 <div class="ft">Get Legal Forms</div>
-<li><a rel="nofollow" href="http://forms.findlaw.com" title="Visit our Legal Forms site">Visit our Legal Forms site</a></li>
+<li><a title="Visit our Legal Forms site" href="http://forms.findlaw.com" rel="nofollow">Visit our Legal Forms site</a></li>
 </ul>
 <ul>
 <div class="ft">For Lawyers</div>
-<li><a rel="nofollow" href="http://lp.findlaw.com" title="Visit our professional site">Visit our professional site</a> /</li>
-<li><a rel="nofollow" href="http://pu.findlaw.com/" title="Edit your legal profile">Edit your legal profile</a> /</li>
-<li><a rel="nofollow" href="http://www.lawyermarketing.com/services/websites/" title="Website development">Website development</a> /</li>
-<li><a rel="nofollow" href="http://www.lawyermarketing.com/" title="Advertise on our site">Advertise on our site</a></li>
+<li><a title="Visit our professional site" href="http://lp.findlaw.com" rel="nofollow">Visit our professional site</a> /</li>
+<li><a title="Edit your legal profile" href="http://pu.findlaw.com/" rel="nofollow">Edit your legal profile</a> /</li>
+<li><a title="Website development" href="http://www.lawyermarketing.com/services/websites/" rel="nofollow">Website development</a> /</li>
+<li><a title="Advertise on our site" href="http://www.lawyermarketing.com/" rel="nofollow">Advertise on our site</a></li>
 </ul>
 <ul>
 <div class="ft">About Us</div>
-<li><a rel="nofollow" href="http://company.findlaw.com/company_info.html" title="Company History">Company History</a> /</li>
-<li><a rel="nofollow" href="http://company.findlaw.com/media_relations.html" title="Media">Media</a> /</li>
-<li><a rel="nofollow" href="http://company.findlaw.com/contacts.html" title="Contact Us">Contact Us</a> /</li>
-<li><a rel="nofollow" href="http://www.findlaw.com/privacy/" title="Privacy">Privacy</a> /</li>
-<li><a rel="nofollow" href="http://company.findlaw.com/terms.html" title="Terms">Terms</a> /</li>
-<li><a rel="nofollow" href="http://findlaw.com/info/disclaimer.html" title="Disclaimer">Disclaimer</a> /</li>
-<li><a rel="nofollow" href="http://company.findlaw.com/adkit/index.html" title="Advertising<">Advertising</a> /</li>
-<li><a rel="nofollow" href="http://company.findlaw.com/jobs/">Jobs</a></li>
+<li><a title="Company History" href="http://company.findlaw.com/company_info.html" rel="nofollow">Company History</a> /</li>
+<li><a title="Media" href="http://company.findlaw.com/media_relations.html" rel="nofollow">Media</a> /</li>
+<li><a title="Contact Us" href="http://company.findlaw.com/contacts.html" rel="nofollow">Contact Us</a> /</li>
+<li><a title="Privacy" href="http://www.findlaw.com/privacy/" rel="nofollow">Privacy</a> /</li>
+<li><a title="Terms" href="http://company.findlaw.com/terms.html" rel="nofollow">Terms</a> /</li>
+<li><a title="Disclaimer" href="http://findlaw.com/info/disclaimer.html" rel="nofollow">Disclaimer</a> /</li>
+<li><a title="Advertising<" href="http://company.findlaw.com/adkit/index.html" rel="nofollow">Advertising</a> /</li>
+<li><a href="http://company.findlaw.com/jobs/" rel="nofollow">Jobs</a></li>
 </ul>
 <ul>
 <div class="ft">Find Us On</div>
-<li class="footericon"><a rel="nofollow" href="http://www.facebook.com/FindLawConsumers" title="FindLaw on Facebook" class="facebook">Facebook</a></li>
-<li class="footericon"><a rel="nofollow" href="http://www.youtube.com/findlaw" title="FindLaw on Youtube" class="youtube">Youtube</a></li>
-<li class="footericon"><a rel="nofollow" href="http://www.scribd.com/findlaw" title="FindLaw on Scribd" class="scribd">Scribd</a></li>
-<li class="footericon"><a href="https://plus.google.com/114073820765227291949" target="_blank" rel="publisher" title="FindLaw for Consumers on Google Plus" class="googleplus">Google Plus</a></li>
-<li class="footericon"><a rel="nofollow" href="https://twitter.com/findlawconsumer" title="FindLaw on Twitter" class="twitter">Twitter</a></li>
-<li class="footericon"><a class="pinterest" title="FindLaw on Pinterest" href="http://pinterest.com/findlawconsumer/" rel="nofollow">Pinterest</a></li>
+<li class="footericon"><a class="facebook" title="FindLaw on Facebook" href="http://www.facebook.com/FindLawConsumers" rel="nofollow">Facebook</a></li>
+<li class="footericon"><a class="youtube" title="FindLaw on Youtube" href="http://www.youtube.com/findlaw" rel="nofollow">Youtube</a></li>
+<li class="footericon"><a class="scribd" title="FindLaw on Scribd" href="http://www.scribd.com/findlaw" rel="nofollow">Scribd</a></li>
+<li class="footericon"><a class="googleplus" title="FindLaw for Consumers on Google Plus" rel="publisher" target="_blank" href="https://plus.google.com/114073820765227291949">Google Plus</a></li>
+<li class="footericon"><a class="twitter" title="FindLaw on Twitter" href="https://twitter.com/findlawconsumer" rel="nofollow">Twitter</a></li>
+<li class="footericon"><a rel="nofollow" href="http://pinterest.com/findlawconsumer/" title="FindLaw on Pinterest" class="pinterest">Pinterest</a></li>
 </ul>
 
   
 </div>
 
    <hr>
-    <section id="copyright">Copyright © 2015, Thomson Reuters. All rights reserved.</section>
+    <section id="copyright">Copyright © 2016, Thomson Reuters. All rights reserved.</section>
 </section>
     
 
 
+      <!-- Below code is added for Lotame ad analytics -->
+  <script type="text/javascript" src="http://tags.crwdcntrl.net/c/8021/cc.js?ns=_cc8021" id="LOTCC_8021"></script>
+  <script type="text/javascript" language="javascript">_cc8021.bcp();</script>
 </footer>
 <script type="text/javascript" src="http://findlawimages.com/etc/designs/flpublic/bop/flpublic.js"></script>
 
