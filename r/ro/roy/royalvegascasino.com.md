@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the royalvegascasino.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912042552id_/https%3A//www.royalvegascasino.com/about-us/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalvegascasino.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602074025id_/https%3A//www.royalvegascasino.com/about-us/security-privacy) for the most accurate reproduction.*
 
 # Security and privacy | Royal Vegas Online Casino
+
+You are here: [Home](https://web.archive.org/)  > [About Us](https://web.archive.org/about-us/) > 
 
 Royal Vegas uses 128-bit SSL (Secure Socket Layer) Digital Encryption to protect your online transactions.
 
