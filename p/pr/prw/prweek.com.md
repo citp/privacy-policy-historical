@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prweek.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629003455id_/http%3A//www.prweek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prweek.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602092256id_/http%3A//www.prweek.com/privacy) for the most accurate reproduction.*
 
 # PRWeek US | Privacy policy
 
@@ -51,7 +51,7 @@ We will share your Personal Information with our third party suppliers who need 
 
 Haymarket will share user data with the accredited provider(s) of CME/CE activities in which users participate, and/or medical education and communications companies who assisted in the development of CME/CE activities in which users participate.
 
-In order to comply with the Federal CAN-SPAM Act of 2003, we also may provide lists of customers who have opted-out of email promotion for Haymarket products to other companies, so they can be suppressed from mailings those companies send on Haymarket's behalf. In addition, if you unsubscribe from a mailing we send to our own list on behalf of a third party, your removal instruction may also be supplied to the third party and added to their own suppression file. If you continue receiving email after opting out, please contact us at [ custserve@haymarketmedia.com ](mailto:custserve@haymarketmedia.com)
+In order to comply with the Federal CAN-SPAM Act of 2003, we also may provide lists of customers who have opted-out of email promotion for Haymarket products to other companies, so they can be suppressed from mailings those companies send on Haymarket's behalf. In addition, if you unsubscribe from a mailing we send to our own list on behalf of a third party, your removal instruction may also be supplied to the third party and added to their own suppression file. If you continue receiving email after opting out, please contact us at [ custserv@haymarketmedia.com ](mailto:custserv@haymarketmedia.com)
 
 **Aggregated information**
 
@@ -63,7 +63,7 @@ As a business-to-business company, we do not knowingly collect information from 
 
 **Updating Visitor Information:**
 
-You have the option of accessing, correcting, updating and modifying your Personal and/or Financial Information, or visitor profile, at any time and as often as desired. If you desire to delete your Personal and/or Financial Information please contact us at [ custserve@haymarketmedia.com ](mailto:custserve@haymarketmedia.com)
+You have the option of accessing, correcting, updating and modifying your Personal and/or Financial Information, or visitor profile, at any time and as often as desired. If you desire to delete your Personal and/or Financial Information please contact us at [ custserv@haymarketmedia.com ](mailto:custserv@haymarketmedia.com)
 
 **Update Your Newsletter Subscriptions**
 
@@ -71,7 +71,7 @@ You can opt-in to newsletter mailing lists, or remove yourself (opt-out) at any 
 
 **Update Your Print Subscription Information**
 
-You can correct or change your print subscription information by sending an email to [ custserve@haymarketmedia.com ](mailto:custserve@haymarketmedia.com) After processing your change will take effect with the next available issue.
+You can correct or change your print subscription information by sending an email to [ custserv@haymarketmedia.com ](mailto:custserv@haymarketmedia.com) After processing your change will take effect with the next available issue.
 
 **Third Party and Affiliated Links:**
 
