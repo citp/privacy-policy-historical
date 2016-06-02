@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zooplus.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204043533id_/http%3A//www.zooplus.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zooplus.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602221812id_/http%3A//www.zooplus.com/content/privacy) for the most accurate reproduction.*
 
 # Pet Supplies, Pet Food, and Pet Products on Sale Now at zooplus.com
 
@@ -31,6 +31,6 @@ Cookies are alphanumeric means of identification that are transferred onto your 
 
 During your shopping session at zooplus we transfer a permanent cookie onto your hard drive. This allows our systems to save the shopping cart while you are shopping with us. Please be advised that permanent cookies are mandatory for shopping with zooplus. We ensure you that no other information will be stored in our systems. 
 
-Cookies can be activated via the help function of most Web browsers. 
+To read our full Cookie Usage Policy, click [here](http://www.zooplus.com/content/cookies).
 
 08 September 2015
