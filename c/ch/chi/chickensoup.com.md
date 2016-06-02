@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chickensoup.com privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918200720id_/http%3A//www.chickensoup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chickensoup.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602132556id_/http%3A//www.chickensoup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Chicken Soup for the Soul
 
@@ -23,63 +23,77 @@ Please use this list to jump to the section most relevant to you:
 
 We collect two basic types of information - personal information and anonymous information - and we may use personal and anonymous information to create a third type of information, aggregate information. We collect the following categories of information: 
 
-• Registration information you provide when you create an account, including your first name and surname, country of residence, gender, date of birth, email address, username, photo and password  
-• Transaction information you provide when you request information or purchase a product or service from us, whether on our sites or through our applications, including your postal address, telephone number and payment information  
-• Information you provide in public forums on our sites and applications  
-• Information you provide to us when you use our sites and applications, our applications on third-party sites or platforms such as social networking sites, or link your profile on a third-party site or platform with your registration account  
-• Location information when you visit our sites or use our applications, including location information either provided by a mobile device interacting with one of our sites or applications, or associated with your IP address, where we are permitted by law to process this information  
-• Usage, viewing and technical data, including your device identifier or IP address, when you visit our sites, use our applications on third-party sites or platforms or open emails we send 
+  * Registration information you provide when you create an account, including your first name and surname, country of residence, gender, date of birth, email address, username, photo and password
+  * Transaction information you provide when you request information or purchase a product or service from us, whether on our sites or through our applications, including your postal address, telephone number and payment information
+  * Information you provide in public forums on our sites and applications
+  * Information you provide to us when you use our sites and applications, our applications on third-party sites or platforms such as social networking sites, or link your profile on a third-party site or platform with your registration account
+  * Location information when you visit our sites or use our applications, including location information either provided by a mobile device interacting with one of our sites or applications, or associated with your IP address, where we are permitted by law to process this information
+  * Usage, viewing and technical data, including your device identifier or IP address, when you visit our sites, use our applications on third-party sites or platforms or open emails we send
+
+
 
 **2\. How We Collect Your Information**
 
-• We collect information you provide to us when you request products, services or information from us, register with us, participate in public forums or other activities on our sites and applications, respond to customer surveys, or otherwise interact with us. Please keep in mind that when you provide information to us on a third-party site or platform (for example, via our applications), the information you provide may be separately collected by the third-party site or platform. The information we collect is covered by this privacy policy and the information the third-party site or platform collects is subject to the third-party site or platform’s privacy practices. Privacy choices you have made on the third-party site or platform will not apply to our use of the information we have collected directly through our applications.  
-• We collect information through technology, such as cookies, Flash cookies and Web beacons, including when you visit our sites and applications or use our applications on third-party sites or platforms. Please keep reading for further information, including how to disable cookies.  
-• We may acquire information from other sources to update or supplement the information you provided or we collected automatically. Local law may require that you authorize the third party to share your information with us before we can acquire it. 
+  * We collect information you provide to us when you request products, services or information from us, register with us, participate in public forums or other activities on our sites and applications, respond to customer surveys, or otherwise interact with us. Please keep in mind that when you provide information to us on a third-party site or platform (for example, via our applications), the information you provide may be separately collected by the third-party site or platform. The information we collect is covered by this privacy policy and the information the third-party site or platform collects is subject to the third-party site or platform’s privacy practices. Privacy choices you have made on the third-party site or platform will not apply to our use of the information we have collected directly through our applications.
+  * We collect information through technology, such as cookies, Flash cookies and Web beacons, including when you visit our sites and applications or use our applications on third-party sites or platforms. Please keep reading for further information, including how to disable cookies.
+  * We may acquire information from other sources to update or supplement the information you provided or we collected automatically. Local law may require that you authorize the third party to share your information with us before we can acquire it.
+
+
 
 Examples of online tracking technologies include: 
 
-• Cookies. Cookies are pieces of information that a website places on the hard drive of your computer when you visit the website. Cookies may involve the transmission of information from us to you and from you directly to us, to another party on our behalf, or to another party in accordance with its privacy policy. We may use cookies to bring together information we collect about you. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won’t have access to many features that make your user experience more efficient and some of our services will not function properly.  
-• Flash cookies. We may use local shared objects, sometimes known as Flash cookies, to store your preferences or display content based upon what you view on our site to personalize your visit. Our advertisers and third-party service providers also may use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies, please click [here](http://helpx.adobe.com/flash-player/kb/disable-third-party-local-shared.html). If you disable Flash cookies, you won’t have access to many features that make your user experience more efficient and some of our services will not function properly.  
-• Web beacons. Web beacons are small pieces of data that are embedded in images on the pages of sites. Web beacons may involve the transmission of information directly to us, to another party on our behalf, or to another party in accordance with its privacy policy. We may use web beacons to bring together information we collect about you. 
+  * Cookies. Cookies are pieces of information that a website places on the hard drive of your computer when you visit the website. Cookies may involve the transmission of information from us to you and from you directly to us, to another party on our behalf, or to another party in accordance with its privacy policy. We may use cookies to bring together information we collect about you. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won’t have access to many features that make your user experience more efficient and some of our services will not function properly.
+  * Flash cookies. We may use local shared objects, sometimes known as Flash cookies, to store your preferences or display content based upon what you view on our site to personalize your visit. Our advertisers and third-party service providers also may use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies, please click [here](http://helpx.adobe.com/flash-player/kb/disable-third-party-local-shared.html). If you disable Flash cookies, you won’t have access to many features that make your user experience more efficient and some of our services will not function properly.
+  * Web beacons. Web beacons are small pieces of data that are embedded in images on the pages of sites. Web beacons may involve the transmission of information directly to us, to another party on our behalf, or to another party in accordance with its privacy policy. We may use web beacons to bring together information we collect about you.
+
+
 
 **3\. Use of Your Information**
 
 Chicken Soup for the Soul Digital, LLC will be the data controller for your information. Affiliates, parents, subsidiaries, third-party services and partners may have access to your information where they perform services our behalf and, unless prohibited under applicable law, for use on their own behalf for the following purposes: 
 
-• Provide you with the products and services you request  
-• Communicate with you about your account or transactions with us and send you information about features on our sites and applications or changes to our policies  
-• Consistent with local law and choices and controls that may be available to you:  
-o Send you offers and promotions for our products and services or third-party products and services  
-o Personalize content and experiences on our sites and applications  
-o Provide you with advertising based on your activity on our sites and applications and on third-party sites and applications.  
-• Optimize or improve our products, services and operations  
-• Detect, investigate and prevent activities that may violate our policies or be illegal 
+  * Provide you with the products and services you request
+  * Communicate with you about your account or transactions with us and send you information about features on our sites and applications or changes to our policies
+  * Consistent with local law and choices and controls that may be available to you:
+    * Send you offers and promotions for our products and services or third-party products and services
+    * Personalize content and experiences on our sites and applications
+    * Provide you with advertising based on your activity on our sites and applications and on third-party sites and applications. 
+  * Optimize or improve our products, services and operations
+  * Detect, investigate and prevent activities that may violate our policies or be illegal
+
+
 
 **4\. Sharing Your Information with Other Companies**
 
 We will not share your personal information outside Chicken Soup for the Soul Publishing, LLC and its subsidiaries and affiliates except in limited circumstances, including: 
 
-• When you allow us to share your personal information with another company, such as:  
-o Electing to share your personal information with carefully selected companies so that they can send you offers and promotions about their products and services  
-o Directing us to share your personal information with third-party sites or platforms, such as social networking sites  
-o Purchasing products from us that are sold through third-party services, such as our subscription service  
-o In order to fulfill orders that you have placed with us; for example, we may expand the items included in our subscription services over time to include items that we would ship to you via a third party, and we may need to make your personal information available to that third party for fulfillment purposes. 
+  * When you allow us to share your personal information with another company, such as:
+    * Electing to share your personal information with carefully selected companies so that they can send you offers and promotions about their products and services
+    * Directing us to share your personal information with third-party sites or platforms, such as social networking sites
+    * Purchasing products from us that are sold through third-party services, such as our subscription service
+    * In order to fulfill orders that you have placed with us; for example, we may expand the items included in our subscription services over time to include items that we would ship to you via a third party, and we may need to make your personal information available to that third party for fulfillment purposes.
+
+
 
 Please note that once we share your personal information with another company, the information received by the other company becomes subject to the other company’s privacy practices. 
 
-• When companies perform services on our behalf, like package delivery and customer service; however, these companies are prohibited from using your personal information for purposes other than those requested by us or required by law  
-• When we share personal information with third parties in connection with the sale of a business, to enforce our Terms of Use or rules, to ensure the safety and security of our users and third parties, to protect our rights and property and the rights and property of our users and third parties, to comply with legal process or in other cases if we believe in good faith that disclosure is required by law 
+  * When companies perform services on our behalf, like package delivery and customer service; however, these companies are prohibited from using your personal information for purposes other than those requested by us or required by law
+  * When we share personal information with third parties in connection with the sale of a business, to enforce our Terms of Use or rules, to ensure the safety and security of our users and third parties, to protect our rights and property and the rights and property of our users and third parties, to comply with legal process or in other cases if we believe in good faith that disclosure is required by law
+
+
 
 **5\. Your Controls and Choices**
 
 We provide you the ability to exercise certain controls and choices regarding our collection, use and sharing of your information. In accordance with local law, your controls and choices may include: 
 
-• You may correct, update and delete your registration account  
-• You may change your choices for subscriptions, newsletters and alerts  
-• You may choose whether to receive from us offers and promotions for our products and services, or products and services that we think may be of interest to you  
-• You may choose whether we share your personal information with other companies so they can send you offers and promotions about their products and services by opting out of emails from our partners  
-• You may choose whether to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers [here](http://www.aboutads.info/choices/)  
-• You may request access to the personal information we hold about you and that we amend or delete it and we request third parties with whom we have shared the information do the same 
+  * You may correct, update and delete your registration account
+  * You may change your choices for subscriptions, newsletters and alerts
+  * You may choose whether to receive from us offers and promotions for our products and services, or products and services that we think may be of interest to you
+  * You may choose whether we share your personal information with other companies so they can send you offers and promotions about their products and services by opting out of emails from our partners
+  * You may choose whether to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers [here](http://www.aboutads.info/choices/)
+  * You may request access to the personal information we hold about you and that we amend or delete it and we request third parties with whom we have shared the information do the same
+
+
 
 You may exercise your controls and choices, or request access to your personal information by following instructions provided in communications sent to you. Please be aware that, if you do not allow us to collect personal information from you, we may not be able to deliver certain products and services to you, and some of our services may not be able to take account of your interests and preferences. If you have questions regarding the specific personal information about you that we process or retain, please contact our webmaster. 
 
