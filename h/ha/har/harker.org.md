@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harker.org privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202150653id_/http%3A//www.harker.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harker.org privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602054207id_/http%3A//www.harker.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Other Policies | The Harker School
 
@@ -40,7 +40,7 @@ In accordance with state, The Harker School focuses on long-term prevention or s
 
 ### COPPA
 
-The Harker School makes extensive use of online resources as part of its teaching and learning. This is done in a phased, developmentally appropriate way. Students receive individualized usernames, passwords and restricted email accounts beginning in grade 3. [Our COPPA page](http://www.harker.org/page.cfm?p=3353) outlines what Internet-based software vendors students access with their student user accounts.
+The Harker School makes extensive use of online resources as part of its teaching and learning. This is done in a phased, developmentally appropriate way. Students receive individualized usernames, passwords and restricted email accounts beginning in grade 3. [Our COPPA page](https://web.archive.org/fs/pages/213) outlines what Internet-based software vendors students access with their student user accounts.
 
 ## Contact Us 
 
