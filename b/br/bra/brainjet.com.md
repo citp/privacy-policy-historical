@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainjet.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218004734id_/http%3A//www.brainjet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainjet.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602153203id_/http%3A//www.brainjet.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - BrainJet.com
 
