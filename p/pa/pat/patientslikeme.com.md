@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the patientslikeme.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905173215id_/https%3A//www.patientslikeme.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patientslikeme.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602153828id_/https%3A//www.patientslikeme.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-PatientsLikeMe ([www.patientslikeme.com](http://www.patientslikeme.com/)) (“Site”) is a sharing web site. Our goal is to provide a platform for patients who want to share their health information to create collective knowledge about disease, health, and treatments. We know our success in achieving this goal depends on a shared belief in our [Openness Philosophy](https://web.archive.org/about/openness). Being open about one’s health is not for everyone, and we strive, with full transparency, to outline the benefits and risks of being part of this sharing site, including those related to privacy.
+PatientsLikeMe ([www.patientslikeme.com](http://www.patientslikeme.com/)) (“Site”) is a sharing web site. Our goal is to provide a platform for patients who want to share their health information to create collective knowledge about disease, health, and treatments. We know our success in achieving this goal depends on a shared belief in our [Openness philosophy](https://web.archive.org/about/openness). Being open about one’s health is not for everyone, and we strive, with full transparency, to outline the benefits and risks of being part of this sharing site, including those related to privacy.
 
 This Privacy Policy outlines the type of information PatientsLikeMe collects from individuals who have registered to join PatientsLikeMe (“Members”) and how it is shared with other third parties, including, but not limited to, pharmaceutical companies, medical device companies, non-profits, and research institutions (“Partners”).
 
@@ -18,7 +18,7 @@ Some of the information that Members provide about themselves may be shared with
   * Condition/disease information, e.g. diagnosis date, first symptom, family history;
   * Treatment information, e.g. treatment start dates, stop dates, dosages, side effects, treatment evaluations;
   * Symptom information, e.g. severity, duration;
-  * Primary and secondary outcome scores over time, e.g. ALSFRS-R, MSRS, PDRS, FVC, PFRS, Mood Map, Quality of Life, weight, InstantMe;
+  * Primary and secondary outcome scores over time, e.g. ALSFRS-R, MSRS, PDRS, FVC, PFRS, Mood Map, Quality of life, weight, InstantMe;
   * Sensor information, e.g. personal activity trackers;
   * Laboratory results and biomarkers, e.g. CD-4 count, viral load, creatinine, voice features, images;
   * Genetic information, e.g. information on individual genes and/or entire genetic scans;
@@ -89,7 +89,7 @@ Restricted Data is not automatically shared with, sold to, or displayed for othe
   * If a Member registers with, or is switched to, an official doctor and research account, the Member’s full name and affiliation will be viewable via My Profile;
   * If a Member chooses the Public privacy setting (see below), PatientsLikeMe and others may use public profiles in reports, conference presentations, media mentions, etc.;
   * If a Member agrees to participate in a media interview (as arranged by PatientsLikeMe), PatientsLikeMe will share the contact information the Member provides (i.e. name, email, telephone) with the reporter for the purpose of conducting an interview;
-  * If a Member OPTS IN to a public registry (e.g. the [PatientsLikeMe ALS Public Registry](https://web.archive.org/registry)), PatientsLikeMe will display the Member’s name and some Shared Data and/or Restricted Data as part of this registry (which is viewable by anyone on the Internet);
+  * If a Member OPTS IN to a public registry (e.g. the [PatientsLikeMe ALS public registry](https://web.archive.org/registry)), PatientsLikeMe will display the Member’s name and some Shared Data and/or Restricted Data as part of this registry (which is viewable by anyone on the Internet);
   * If a Member explicitly opts in to have their Restricted Data shared with a Partner, PatientsLikeMe will share the information as instructed by the Member (e.g. co-registration with a non-profit);
   * If a Member makes a request, PatientsLikeMe may use Restricted Data, including sharing the Member’s Restricted Data with software/service vendors, for the purpose of fulfilling the request. Examples include requesting to receive the company newsletter via email, requesting an email response from the PatientsLikeMe support team, and requesting a t-shirt be mailed to the Member’s residence.
 
@@ -136,9 +136,9 @@ PatientsLikeMe Inc.
 
 Attn: Privacy Issues
 
-155 Second Street
+160 Second Street
 
-Cambridge, MA 02141
+Cambridge, MA 02142
 
 ### History of Updates/Changes to Terms and Conditions of Use:
 
