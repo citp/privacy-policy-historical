@@ -1,133 +1,47 @@
-> *The following text is extracted and transformed from the minted.us privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220195057id_/https%3A//bitly.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minted.us privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602020735id_/http%3A//www.minted.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Bitly
+# Minted PKB - What is the Minted Privacy Policy?
 
-This Privacy Policy describes the policies and procedures of Bitly, Inc. (“Bitly”, “we” or “us”) on the collection, use and disclosure of information about you on [https://bitly.com](https://bitly.com/) (the “Site”) and the services, features, content or applications offered by Bitly (collectively with the Site, the “Services”). Bitly receives information about you from various sources, such as: (i) when you register for the Site and the Services, through your user account with Bitly (your “Account”); (ii) when you use the Services; and (iii) from third party websites and services. When you use the Services, you are consenting to the collection, transfer, storage, disclosure and other uses of your information as described in this Privacy Policy. The information you provide may be transferred, processed and/or accessed by us in the United States or another country where we (or our service providers) operate.
+Registration
 
-### What Does This Privacy Policy Cover?
+We do not require registration in order to browse on our site. You may choose to give us your contact information during registration or at other times. We then may use that information to contact you about the products and services on our site for which you have expressed interest. Registration is required to use certain interactive features such as reviewing products, saving designs, and placing orders. We offer the ability to access Minted by logging in with or connecting via a third party social network or email service,, including but not limited to Facebook or Facebook Connect (“Third Party Platforms”). If you access the Website via a Third Party Platform we will access and store the information explicitly allowed by the social network platform by their Terms of Service or otherwise, once you allow us to do so, through an interface provided by the social network platform. As we do not have control over the user interface provided by social network platforms, we do not take any responsibility for any changes or problems with the interface or exchange of information provided by any of these social network platforms.
 
-This Privacy Policy covers the treatment of the information gathered by Bitly when you are using or accessing the Services. This Privacy Policy also covers Bitly’s treatment of any information about you that Bitly’s business partners share with Bitly or that Bitly shares with its business partners.
+By accessing Minted via a Third Party Platform, you grant Minted permission to contact you at the email address associated with your account associated with the Third Party Platform. Members of Minted’s marketing lists will occasionally receive information on products, services, special sales, and our newsletter. You have the option to opt out from receiving these types of information, and you may unsubscribe at any time by changing the settings in your account profile. Registration allows customers to utilize 'saved design' functionality on the website. Users can customize an unlimited number of stationery items. The text on these saved designs may contain personal information including addresses, contact information or dates of personal events. This information is only available to the registered user and Minted staff. The customer also has the ability to 'share their saved designs.' This is available so that a customer can allow other people to view or comment on their saved stationery designs. Minted will provide a link to the invitee to view the saved stationery. Saved designs are not publicly available. The customer may also explicitly choose to share a design on a social network or other publishing mechanism. Any designs or personal information shared on third party services are subject to that service’s Terms and Privacy Policy.
 
-This Privacy Policy does not apply to the practices of other businesses that Bitly does not own or control, including other companies’ websites, services and applications (“Third Party Services”) that you can access through the Services, such as Facebook or Twitter, or to individuals that Bitly does not manage or employ. While we attempt to partner with only those Third Party Services that share our respect for your privacy, we cannot take responsibility for the content or privacy policies of those Third Party Services. We encourage you to review the privacy policies of any Third Party Services you access.
+Information Collected
 
-### What Information Does Bitly Collect and How is it Used?
+We collect personal information when you register with us and when you use our services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. When you create a Minted account we ask for information such as your name and email address. When you place an order we ask for a phone number, billing and shipping address, and billing information. By accessing Minted via a Third Party Platform, you authorize Minted to receive certain of your personal information that is available on or through your Third Party Platform account, including, without limitation, your profile information, name, email address, gender, birthday, current city, friends or follower names, your photos, profile picture, privacy settings and certain other information that will be disclosed to you during the login process.
 
-The information we collect is primarily used to provide the Services, to process and complete any transactions, to respond to inquiries, to personalize and improve the Services, to monitor and analyze usage and trends of the Services, to provide you with related, relevant information, and for any other purpose for which the information was collected. In connection with certain aspects of the Services, we may request, collect and/or display some information about you. We collect the following types of information from our users.
+We do not intentionally target our site or our services to children, and we will not knowingly collect personal information from children without obtaining prior, verifiable parental consent. We may obtain information about children who are named on invitations or other products, or that is otherwise provided by users. If we are informed that a registered user is under the age of 13 and has registered without prior, verifiable parental consent, then we will endeavor to remove such personal information from our records.
 
-#### User Information:
+Use of Information
 
-When you create an Account, we will collect personal information from you, such as your name and email address. If you create an Account using your login from another account, such as Facebook or Twitter, we will access and collect the personal information about you that the account provides (which is based on your privacy settings), so that you can create your Account with us. We use your contact information to send you information about our Services. You may unsubscribe from receiving certain types of these messages through your Account settings, although Bitly reserves the right to contact you when we believe it is necessary, such as for administrative and account management purposes.
+We use your personal information to fulfill your requests for products and services, to improve our services, to customize the advertising and content you see, and to contact you. By creating an account, purchasing or saving a design on minted.com, you may be opted into receiving email messages. These messages could include changes to features of our service and additional email messages about our products, services, contests, and promotions that we feel may be of interest to you. If you no longer wish to receive these types of promotional communications from us, you may select the unsubscribe link which is present in each email. Opting out may prevent you from receiving email messages regarding special offers, improvements, or other updates. If you use Minted, including accessed via a Third Party Platform, to send information to another person, we may store your personal information, and the personal information provided by you, of any recipient. We may use that other person’s contact information to allow him or her to access the information you requested we send. We use anonymous information, such as that pertaining to web pages viewed, to analyze trends, to track user's movements, to provide a better website experience and to gather broad demographic information for aggregate use. We do not use this data in a manner that would identify you personally except if you are submitting product designs of any kind to our site for sale, in which case we require that first name and last name be revealed to consumers. Your product reviews, comments and any other information you make available in public areas of our website likely will be seen by people and organizations not related to or controlled by Minted.
 
-_Note regarding children:_ We do not knowingly collect personal information from children. If we learn that we have collected personal information of a child under 13, we will take steps to delete such information from our files as soon as possible.
+Information Sharing and Disclosure
 
-#### URL Information:
+Minted will not rent, sell, or share your personal information with other people or nonaffiliated companies except to provide products or services that you have requested, or unless we have your permission as agreed in this Privacy Policy or otherwise. If you submit a different address for shipping than for billing, the shipping information is only used to ship the package. You may specify an email address for the recipient if you wish for us to send them an email notification 'gift message.' The shipping recipient will not be opted in to any marketing distribution lists without their permission. We may share personal information with contractors or trusted service providers who work with us under confidentiality agreements, for example our printers and online proof rendering service need this information in order to fulfill your order. We may also contract with vendors to help us analyze traffic and usage of our site, communicate with you about offers and services from Minted, and to help us provide better services. These companies will not be provided any independent right to use or share personal information. We may share personal information in order to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We also may share personal information when we believe it necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, or as otherwise required by law. In addition, we may transfer information about you if we are acquired by, reorganized or merged with another company. In that event, we will notify active registered users if there is a need to change this Privacy Policy.
 
-One feature of the Services is the ability to create shortened uniform resource locators (URLs) of websites (“Bitly Links”). Bitly collects and stores both the original URL and the shortened URL and, if you are logged in to your Account, we will associate that information with your Account. Bitly also collects and stores the time and date on which you shortened the original URL and when you share the Bitly Link, information on the channels through which the Bitly Link was shared.
+Cookies
 
-#### Metrics and Analytics:
+A cookie is a small data file that we download to your computer, containing information about you to facilitate interaction with our site and services. Cookies make it possible for us to store contents of your shopping cart until you are ready to check out, and to recognize your browser when you visit. By doing this, we can personalize your visits and save you time during checkout. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. If you reject the cookie, you may still use our site. However, in order to enjoy the benefits of being a registered user, your browser must be set to accept cookies.
 
-Bitly collects information about accesses (such as clicks) of every Bitly Link created through the Services. This information includes, but is not limited to: (i) the IP address and physical location of the devices accessing the Bitly Link; (ii) the referring websites or services; (iii) the time and date of each access; and (iv) information about sharing of the Bitly Link on Third Party Services such as Twitter and Facebook. These metrics and analytics are used by Bitly and its partners to improve their websites and services by, for example, providing value-added features.
+Security
 
-#### User Content:
+When our registration or order forms ask you to enter sensitive information (such as credit card number), that information is encrypted for transmission. When you provide information via these forms, we use SSL encryption and this should be indicated by a ‘lock’ icon in web browsers such Microsoft Internet Explorer and Mozilla Firefox.
 
-Some features of the Services allow you to provide content to the Services, such as written descriptions of URLs, comments, images and video. For example, using the Bundles feature, Bitly users can curate and “bundle together” a set of links, and can add content to those Bundles, such as comments and videos. All content submitted by you to the Services may be retained by Bitly, even after you terminate your account, and may continue to be shared by third parties, as described in this Privacy Policy.
+Users from Outside the USA
 
-#### Information Collected From Third Party Services:
+Our service is offered in accord with the law of California within the United States. If you are accessing our site from any jurisdiction with laws or regulations governing personal data collection, use, and disclosure that differ from applicable California or United States law, then you consent via your continued use of our service to transferring your Personal Information into the United States.
 
-Some features of the Services allow you to share your content and Bitly Links through your accounts with other companies such as Facebook and Twitter. If you choose to connect Bitly to such Third Party Services, we may collect information related to your use of those Third Party Services, such as authentication tokens that allow us to connect to your Third Party Service accounts or the contact information of your friends (if you choose to connect your friends, followers, or contacts from your account) so that you can contact these people when you use the Services. We may also collect information about how you are using the Services to interact with those connected Third Party Services. Note that Third Party Services may have the ability to restrict the information that is provided to us based on your privacy settings of that account.
+Third Party Sites
 
-#### Information Collected Automatically:
+Our Websites may contain links to or features from other websites. Our Privacy Policy only applies to the Minted websites and we are not responsible for the privacy practices or the content of other websites. You should check the privacy policies of those sites before providing your personal information to them.
 
-  * Bitly automatically receives and records information from your web browser when you interact with the Services, such as your IP address, browser type, your general location and cookie information. This information may be used to help us understand how users transit a website, to fight spam/malware, to facilitate collection of data concerning your interaction with the Services (e.g., what Bitly Links you have clicked on) and for other similar purposes.
-  * Bitly also automatically receives and records information that your mobile device transmits when you access the Services, like a device identifier, device settings, and operating system. This information is used to facilitate your access and use of the Services, to access and use other Third Party Services, and for other similar purposes.
-  * Generally, the Services automatically collect usage information, such as the number and frequency of visitors to the Site. Bitly may use this data in aggregate form, that is, as a statistical measure, but not in a manner that would identify you personally. This type of aggregate data enables us and third parties authorized by us to figure out how often individuals use parts of the Services so that we can analyze and improve them.
-  * We will collect information about your general location (such as your city and state) when you visit the Site (which is derived from your IP address) and we may use various technologies to determine your location (if you enable this feature), when you access and use the Services through a mobile device.
-  * We may receive a confirmation when you open an email from us. We use this confirmation to improve our customer service.
+Access to Your Account Information and Preferences
 
+You may edit your Minted account information, including your marketing preferences, at any time. You can opt in or out from future communications of special offers and new product information, or you can unsubscribe by following instructions contained in the messages you receive. We may send you certain communications relating to our service, such as service announcements and administrative messages that are considered part of your account membership. We do not allow you to opt-out of receiving those messages.
 
+Questions and Suggestions
 
-#### Cookie Policy:
-
-  * Cookies are pieces of text that may be provided to your computer through your web browser when you access a website. Your browser stores cookies in a manner associated with each website you visit. We use cookies to enable our servers to recognize your web browser and tell us how and when you visit our Site and use the Services through the web.
-  * Bitly cookies also allow Bitly to track when you have clicked on a Bitly Link. Each click of a Bitly Link is tracked using a unique identifier assigned to you in one or more cookies stored by your web browser and associated with Bitly.
-  * Bitly cookies do not, by themselves, contain any personal information about you, and we do not combine the general information collected through cookies with your personal information to tell us who you are. We do, however, use cookies to identify that your web browser has accessed a Bitly Link and may associate that information with your Account if you have one.
-  * Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. If you disable cookies, you will not be able use most features of the Services. Bitly cookies are set to automatically expire after 6 months from when they are set.
-  * You may also ask Bitly not to place cookies on your web browser. When cookies are disabled in this manner, clicks on Bitly Links are not tied back to or associated with your web browser.
-  * You can also manage other companies’ cookies used for online advertising here: [Consumer Choice Page](http://www.aboutads.info/choices/)
-  * This Privacy Policy covers the use of cookies by Bitly only and does not cover the use of cookies by any Third Party Services. Bitly does not control when or how third parties place cookies on your computer, such as when you visit the website from a Bitly Link.
-
-
-
-### What Information Is Shared?
-
-The Services are designed to help you share information with others. As a result, much of the information generated through the Services is shared publicly or with third parties.
-
-#### Bitly Links and Usage Information:
-
-Much of your activity on and through the Services is public by default. This includes, but is not limited to:
-
-  * The original URLs you have shortened, their corresponding Bitly Links, the time and date those URLs were shortened, and metrics and analytics information for your Bitly Links, as described above;
-  * Aggregate non-personal information about what Bitly Links you have clicked on and associated metrics and analytics information, as described above; and
-  * Any Bundles you have created, along with content added to those Bundles, if you have elected to make those Bundles public.
-
-
-
-Registered users may have some of this information associated with their Accounts. Unregistered users will not have this association, but information concerning their use of the Services (such as what Bitly Links they click on, when they clicked, from where they clicked, etc.) is tracked anonymously through the use of cookies and stored by Bitly.
-
-For registered users, some of this information is publicly accessible through a unique URL, which you can make non-public through your Account settings when you are logged in. Removing access to the unique URL does not, however, make this information non-public, and it may still be accessible through other means, such as Bitly’s API services.
-
-Bitly Links and the general use of the Services may be shared in anonymized and/or aggregated form (in other words, non-personally identifiable) with our customers and business partners, like with the owners of the URLs that are shared through the Services. This information enables them to do things like better understand how people use their products and services and other products and services, to learn about the interests their users have and how our Services interoperate with their services, to do product development, marketing optimization and research, and to improve the relevancy of any online advertisements or marketing that is displayed through their services (or to tailor it to your interests).
-
-Please also remember that if you choose to provide information about you using certain features of the Services, then that information is governed by the privacy settings of those particular features and may be publicly available to others.
-
-#### IP Address Information:
-
-While we collect and store IP address information, that information is not shared publicly. We do at times, however, share IP address information with our partners, service providers and other companies with whom we conduct business. In most cases, when we share your IP address with other third parties, we will use a cryptographic hash of the IP address, which cannot feasibly be reversed into the actual IP addresses themselves or linked to you individually.
-
-#### Information You Elect to Share:
-
-When creating a Bitly Link, you can share that Bitly Link through Third Party Services. Any information that you elect to distribute through Third Party Services is provided to them and may then become accessible to users of those services. You can also access other Third Party Services through the Services, for example by clicking on links in the Statistics page for a Bitly Link. We recommend that you review the terms of services and privacy policies of such Third Party Services that you access through the Services, since Bitly does not control and is not responsible for the privacy practices of these Third Party Services.
-
-#### User Profile Information:
-
-User profile information including your username, Twitter handle and Facebook account name (to the extent you have linked your Account with those services), and other information you enter may be displayed to other users to facilitate user interaction within the Services. Users’ email addresses will not be directly revealed to other users by Bitly.
-
-#### Information Shared with Service Providers of Bitly:
-
-We may employ and contract with people and other entities to perform certain tasks on our behalf and under our direction (our “Service Providers”). We may need to share information about you with our Service Providers in order to provide products or services to you. Unless we tell you differently, our Service Providers do not have any right to use the information we share with them beyond what is necessary to assist us.
-
-#### Information Disclosed Pursuant to Business Transfers:
-
-We may transfer and/or provide information about our users in connection with an acquisition, sale of company assets, or other situation where user information would be transferred as one of our business assets. In such a case, the acquirer of Bitly may continue to use your information as set forth in this policy.
-
-#### Information Disclosed for the Protection of Bitly and Others:
-
-Bitly also reserves the right to access, read, preserve, and disclose any information as it reasonably believes is necessary to (i) satisfy any applicable law, regulation, legal process or governmental request, (ii) enforce these Terms of Service, including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security or technical issues, (iv) respond to user support requests, or (v) protect the rights, property or safety of Bitly, its users and the public. This includes exchanging information with other companies and organizations for fraud protection and spam/malware prevention.
-
-#### Information We Share With Your Consent:
-
-We will share information about you when you instruct us to do so, such as when you share Bitly Links or content with others through the Services or if we notify you that the information you provide will be shared in a particular manner and you provide such information (like sharing/posting it with a Third Party Service).
-
-### How Is My Information Protected?
-
-Your Account information is protected by a password for your privacy and security. You can prevent unauthorized access to your account by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.
-
-Bitly endeavors to protect the information it collects about its users using industry-standard security processes and controls, however, despite these efforts, no security measure is perfect or impenetrable and Bitly does not guarantee or warrant that such measures will prevent unauthorized access to the information about you that is stored by Bitly. In the event we experience a breach of security, we will promptly notify you if your personal information has been compromised, in accordance with applicable law.
-
-### What Choices Do I Have and What Information of Mine Can I Access?
-
-You don’t need an account to create Bitly Links and you can use many of the features of the Services without registering, thereby limiting the type of information that is collected about you individually.
-
-If you are a registered user, you can access information associated with your Account by logging into the Site. This information includes a history of the URLs you have shortened, and access to the metrics pages for those URLs. You can deactivate your Account at any time through your Account settings page. If you deactivate your Account, you will no longer be able to access or use the Services.
-
-Please note that in the interest of ensuring that existing Bitly Links continue to function for all of our users, the Bitly Links that you have created and shared cannot be deleted or disabled (even if your Account is deactivated), and any shortening and sharing activity that has already occurred on your Account also cannot be deleted (but your user history can be set to private from within your Account settings). If you have concerns about any unauthorized usage of your Account, please contact us at [support@bitly.com](mailto:support@bitly.com) and we will disable future shortening activity on your Account.
-
-If you are not a registered user, you can access the metrics pages for your Bitly Links by adding the “+” symbol to the end of the URL.
-
-### What Happens When There Are Changes to this Privacy Policy?
-
-Bitly may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make material changes in the way we collect or use information, we will notify you by posting an announcement on the Services or sending you an email and we will indicate when those changes will become effective. You are agreeing to be bound by any changes to the Privacy Policy when you use the Services after those changes become effective.
-
-### What If I Have Questions or Concerns?
-
-If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to: [support@bitly.com](mailto:support@bitly.com). We will make every effort to resolve your concerns.
+If you have questions about this Privacy Policy, then you can contact us at info@minted.com or 1-888-828-MINT. This Privacy Policy was last updated May 22, 2014.
