@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the new-social-bookmarking-list.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216101046id_/http%3A//new-social-bookmarking-list.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the new-social-bookmarking-list.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602032218id_/http%3A//new-social-bookmarking-list.com/privacy) for the most accurate reproduction.*
 
-# New Social Bookmarking Sites List 2015
+# Privacy - New Social Bookmarking Sites ListNew Social Bookmarking Sites List
 
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -62,4 +62,4 @@ When it comes to the collection of personal information from children under 13, 
 
 **Contacting Us**
 
-You may contact us by using our [Contact Page](http://new-social-bookmarking-list.com/contact)
+You may contact us by using our [Contact Page](https://web.archive.org/contact)
