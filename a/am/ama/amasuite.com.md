@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amasuite.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207113327id_/http%3A//getamasuite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amasuite.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602032120id_/http%3A//getamasuite.com/privacy) for the most accurate reproduction.*
 
 # Amasuite 4 – Privacy Policy — AmaSuite Version 4
 
