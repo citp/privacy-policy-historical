@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the competethemes.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906082816id_/https%3A//www.competethemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the competethemes.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602203624id_/https%3A//www.competethemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Compete Themes
-
-Your cart is empty.
 
 The CompeteThemes.com Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. Compete Themes is a service offering of Compete Themes LLC (“Compete Themes”), and references in this document to “us,” “our,” and “we” refer to Compete Themes.
 
