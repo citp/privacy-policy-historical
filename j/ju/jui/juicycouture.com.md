@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the juicycouture.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209212030id_/http%3A//www.juicycouture.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juicycouture.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602110503id_/http%3A//www.juicycouture.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Juicy Couture
+# 
 
 Welcome to JuicyCouture.com ("juicycouture.com," the "Site," "we" or "us").
 
