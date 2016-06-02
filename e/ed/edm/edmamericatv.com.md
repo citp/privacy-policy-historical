@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edmamericatv.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212024407id_/http%3A//clubhead.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edmamericatv.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602103621id_/http%3A//clubhead.tv/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Clubhead TV :Clubhead TV
 
