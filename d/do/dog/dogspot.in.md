@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogspot.in privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216002943id_/http%3A//www.dogspot.in/shop-policy.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogspot.in privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602145650id_/http%3A//www.dogspot.in/shop-policy.php%23privacy) for the most accurate reproduction.*
 
 # DogSpot Shop Policy | Cancellation |Refund and Return | Privacy Policy
 
@@ -71,11 +71,21 @@ While **Dogspot.in** strives to provide accurate product and pricing information
 
 We ship only in India and for domestic (India) buyers, orders are shipped through registered domestic courier companies and /or speed post only. Orders are shipped within 10 working days or as per the delivery date agreed at the time of order confirmation and delivering of the shipment subject to Courier Company / post office norms. Radox Trading & Marketing Pvt Ltd (DogSpot.in) is not liable for any delay in delivery by the courier company / postal authorities and only guarantees to hand over the consignment to the courier company or postal authorities within 10 working days from the date of the order and payment or as per the delivery date agreed at the time of order confirmation. Delivery of all orders will be to registered address of the buyer as per the credit/debit card only at all times (Unless specified at the time of Order). Radox Trading & Marketing Pvt Ltd(DogSpot.in) is in no way responsible for any damage to the order while in transit to the buyer. 
 
-Shipping Charge of Rs.99 is applicable on every order.  
+Free Shipping on all orders above Rs. 500 *t&c applicable
+
+***Terms and Conditions**
+
+1\. Dog food products would be charged itemized shipping charge of **Rs. 75/quantity**
+
+2\. If the order value is more than or equal to Rs. 500 with no dog food and cat litter then shipping would be **FREE**
+
+3\. If the order value is less then Rs. 500 with no dog food or cat litter in the order then shipping would be **Rs. 49**
+
+4\. If the order has dog food or cat litter + any other items then the itemized shipping will be applicable **Rs. 75/quantity** of dog food and cat litter
+
 Rs. 99  applicable  for Cash On Delivery (COD) payment method.  
-In India, some state governments levies the Octroi charges when the product enters the state.   
 Dear Customer: COD facility is available for Order Value under INR 3000/-   
-**The Octroi charge is payable by the recipient at the time of delivery**. The courier will collect the Octroi amount from the recipient at the time of delivery.
+
 
 * * *
 
