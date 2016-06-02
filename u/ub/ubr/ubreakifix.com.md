@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubreakifix.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905085038id_/https%3A//www.ubreakifix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubreakifix.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602220002id_/https%3A//www.ubreakifix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
