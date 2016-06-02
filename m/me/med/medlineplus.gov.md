@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medlineplus.gov privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120204213id_/https%3A//www.nlm.nih.gov/medlineplus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medlineplus.gov privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602213207id_/https%3A//www.nlm.nih.gov/medlineplus/privacy.html) for the most accurate reproduction.*
 
 # MedlinePlus: Privacy Policy
 
@@ -60,6 +60,14 @@ NLM does not collect, use or disclose any information about visitors who comment
 NLM uses GovDelivery to manage email subscriptions for its electronic newsletters, email alerts and other messages about NLM products and services. To subscribe to Gov Delivery for NLM updates, you must provide an email address and indicate your subscription preferences, including the NLM products and type of updates you would like to receive.
 
 GovDelivery collects non-identifiable information about the number of messages sent, how often people open the email messages and whether they click on the links in messages. This information is provided to NLM managers on GovDelivery's password protected Web site. It is only available to NLM managers and staff who manage the email subscription lists as part of their regular duties. The GovDelivery Privacy Policy is available at: <http://www.govdelivery.com/legal-privacy>.
+
+NLM uses Google Analytics Premium. Please refer to the following policies on Google's website for more information:
+
+  * [Google's main privacy policy](http://www.google.com/intl/en/policies/privacy/)
+  * [Cookies & Google Analytics on Websites](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)
+  * [Opt out of Google Analytics Cookies](https://tools.google.com/dlpage/gaoptout?hl=en)
+
+
 
 NLM uses iTunes to make iPhone, iPod and iPad apps available for download through the Apple's App Store. A list of NLM apps is available at <https://www.nlm.nih.gov/mobile/>. You do not need to register or provide personal information to view the NLM app in the App Store. If you use the iTunes application to view information about NLM apps, iTunes collects information specified in its privacy policy.
 
