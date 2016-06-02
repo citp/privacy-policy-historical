@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cheapairportparking.org privacy policy that was archived on 2010-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100918151319id_/http%3A//www.cheapairportparking.org/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapairportparking.org privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602214936id_/http%3A//www.cheapairportparking.org/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CheapAirportParking.org
 
-This privacy policy describes how the websites maintained by the Effective Air Communications collect and utilize information supplied by our visitors. This policy may change from time to time as may be appropriate. You can use [CheapAirportParking.org](http://www.cheapairportparking.org/) without disclosing any personal identifying information about yourself. However, we offer some special services such as site Subscription via E-mail, online Form and Publication Requests. In order for these services to work properly, we must collect some basic information from you. If you submit any personal identifying information to us, you can be assured that we will not sell, lease or share this information with anyone else, except as follows: (1) as may be required by the California General Laws, including the Public Records Law; (2) in the course of a law enforcement investigation; or (3) in the event of a suspected attempt to gain unauthorized access or to do physical damage (an attack by hackers, for example). 
+This privacy policy describes how the websites maintained by the Effective Air Communications collect and utilize information supplied by our visitors. This policy may change from time to time as may be appropriate. You can use [CheapAirportParking.org](http://www.cheapairportparking.org/) without disclosing any personal identifying information about yourself. However, we offer some special services such as site Subscription via email, online Form and Publication Requests. In order for these services to work properly, we must collect some basic information from you. If you submit any personal identifying information to us, you can be assured that we will not sell, lease or share this information with anyone else, except as follows: (1) as may be required by the California General Laws, including the Public Records Law; (2) in the course of a law enforcement investigation; or (3) in the event of a suspected attempt to gain unauthorized access or to do physical damage (an attack by hackers, for example). 
 
   
 
@@ -36,11 +36,6 @@ When you send us personal identifying information via email (that is, in a messa
 Cookies
 
 [CheapAirportParking.org](http://www.cheapairportparking.org/) places a cookie, a small text file, on a visitor's hard drive. This cookie contains a randomly generated user ID in order to track unique site visits. We do not use cookies to store any personal information. This cookie can only be read by our servers and assists us with the statistical analysis necessary to assure site functionality and responsiveness. 
-
-  
-
-
-About
 
   
 
