@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the temando.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201151652id_/http%3A//temando.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the temando.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602212956id_/http%3A//temando.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Temando
 
@@ -9,18 +9,27 @@ Temando is committed to protecting and respecting your privacy. Indeed, protecti
 This document discloses the privacy practices for [www.temando.com](https://www.temando.com/) including:
 
   1. What personal information of yours is collected
+
   2. What organization is collecting the information
+
   3. How the information is used
+
   4. With whom the information may be shared
+
   5. What choices are available to you regarding collection, use and distribution of the information
+
   6. What kind of security procedures are in place to protect the loss, misuse or alteration of information under Temando's control
+
   7. How you can correct any inaccuracies in the information.
+
 
 
 
 Questions regarding this privacy policy should be directed to Temando via our contact form.
 
-Temando has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) and [Trustee Cloud Program requirements](http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html) including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program does not cover information that may be collected through downloadable software.  The TRUSTe program covers only information that is collected through this Web site, [http://www.temando.com](http://www.temando.com/). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@temando.com](mailto:privacy@temando.com).  If you are not satisfied with our response you can contact TRUSTe at: <https://feedback-form.truste.com/watchdog/request>
+The TRUSTe program does not cover information that may be collected through downloadable software.  The TRUSTe program covers only information that is collected through this Web site, [http://www.temando.com](http://www.temando.com/) and our service platform. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Temando. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe Seal.
+
+If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@temando.com](mailto:privacy@temando.com).  If you are not satisfied with our response you can contact TRUSTe at: <https://feedback-form.truste.com/watchdog/request>
 
 **Under 18s  
 ** Children are eligible to use our services but we ask that minors (under 18 years of age) have parental approval to use our site.
@@ -76,11 +85,12 @@ By way of example (without limiting the foregoing), we may be forced to disclose
 
 **As a general proposition,  we do not sell or rent any personal information about you to any third party for marketing purposes.**
 
-**Advertisers    
-**We do aggregate personal information and disclose such information in aggregate to advertisers and for other marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to personally identify you.
+ **Advertisers  **
+
+We do aggregate personal information and disclose such information in aggregate to advertisers and for other marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to personally identify you.
 
 **Legal Requests    
-**Temando cooperates with law enforcement inquiries and other third parties to enforce laws, intellectual property and other rights. Local, and international law enforcement agents can request and may receive your personal information.
+**Temando cooperates with law enforcement inquiries and other third parties to enforce laws, intellectual property, to comply with a subpoena, bankruptcy proceedings, or similar legal process; and other rights. Local, and international law enforcement agents can request and may receive your personal information.
 
 **Merger, Acquisition and Sale    
 **If Temando is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. 
@@ -97,8 +107,14 @@ By way of example (without limiting the foregoing), we may be forced to disclose
 **Links to Other Sites  
 ** This Web site contains links to other sites that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other sites.  We encourage you to be aware when you leave our site and to read the privacy policies statements of each and every Web site that collects personal information. 
 
+Single Sing-On
+
+You can log in to our website using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity, provide you the option to share certain personal information (such as your name and email address) with us, and to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this website to your profile page to share with others within your network.
+
 **"Tell a friend" services  
 ** Temando offers a service whereby you can e-mail site content (for example, a particular forum post) to a friend or colleague. This will involve entering the e-mail address of your friend.  **We do not use the e-mail addresses you enter for any purpose other than to send your e-mail**. We do not store, rent or sell these e-mail addresses.
+
+Your friend may contact us at [privacy@temando.com](mailto:privacy@temando.com) to request that we remove this information from our database.
 
 **Control of Your Password  
 ** Except as specifically permitted by this section, **  you may not disclose** your Temando password to any third parties nor share it with any third parties. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password by visiting the preferences page on the Site.
@@ -113,7 +129,7 @@ If you wish to change your password you can do so at any time by clicking on the
 **Reviewing and Changing Your Personal Information  
 ** You can at any time review and change the information you submitted during registration by visiting the settings page on the site.
 
-You can at any time ask to see and have removed any information that we have stored on you, though we reserve the right to charge for this service. Please contact us if you would like your personal information removed. We will retain in our files information you have requested to remove in some circumstances, such as to resolve disputes, troubleshoot problems and enforce our User Agreement. Further, such prior information is never completely removed from our databases due to technical constraints and the fact that we back up our systems. Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests that it be removed.
+You can at any time ask to see and have change, update, amend or removed any information that we have stored on you, though we reserve the right to charge for this service. Please contact us if you would like your personal information removed. We will respond to your request to access within a reasonable timeframe. We will retain in our files information you have requested to remove in some circumstances, such as to resolve disputes, troubleshoot problems and enforce our User Agreement. Further, such prior information is never completely removed from our databases due to technical constraints and the fact that we back up our systems. Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests that it be removed. 
 
 **Other Information Collectors  
 ** Except as otherwise expressly discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are other members of the Site or other sites throughout the Internet, different rules may apply to their use or disclosure of the personal information you disclose to them.
@@ -141,8 +157,8 @@ Temando will retain personal data we process on behalf of our Clients for as lon
 ** The privacy policy only covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
 
 **Physical Mailing Address  
-** PO BOX 599, Fortitude Valley, Brisbane, 4006 AUSTRALIA
+** Level 8, 100 Skyring Terrace, QLD 4006, Australia
 
 [privacy@temando.com](mailto:privacy@temando.com)
 
-Effective: 10 February 2015
+Effective: 10 February 2016
