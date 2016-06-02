@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loopylove.com privacy policy that was archived on 2015-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151001005006id_/http%3A//www.loopylove.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopylove.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602091444id_/http%3A//www.loopylove.com/privacy.cfm) for the most accurate reproduction.*
 
 # Allegran test environment
 
@@ -38,7 +38,7 @@ As a large organisation we have a number of subsidiary and sister companies (“
 
 (b) ABOUT OUR PARTNER SITES
 
-If you are reading this policy you are using one of our sites or apps. We have an extensive network of sites that we categorise as Traditional Sites (for traditional romantic relationships e.g. Cupid.com) and Niche Sites (for like-minded people to meet e.g. UniformDating.com). To find out more about our full network of sites please visit our company website [Together Networks](http://www.togethernetworks.com/). We want to offer you a full range of products and services and in order to do that we will share your details across our Partner Sites (See below Creation of duplicate profiles across our Partner Sites) and we will market our different products and services to you (See below Marketing). You authorise us to reproduce and broadcast the information contained in your profile including your name, photograph, "chat up line", description etc. throughout all or part of our Partner Sites and our Group Companies for the purposes of delivering the Services to you.
+If you are reading this policy you are using one of our sites or apps. We have an extensive network of sites that we categorise as Traditional Sites (for traditional romantic relationships e.g. Cupid.com) and Niche Sites (for like-minded people to meet e.g. UniformDating.com). To find out more about our full network of sites please visit our company website [NSI](http://nsiholdingsltd.com/). We want to offer you a full range of products and services and in order to do that we will share your details across our Partner Sites (See below Creation of duplicate profiles across our Partner Sites) and we will market our different products and services to you (See below Marketing). You authorise us to reproduce and broadcast the information contained in your profile including your name, photograph, "chat up line", description etc. throughout all or part of our Partner Sites and our Group Companies for the purposes of delivering the Services to you.
 
  
 
@@ -52,15 +52,14 @@ If you want to know what data we hold on you, you have a legal right to obtain t
 To make a Subject Access Request please write to us enclosing a photocopy of a photographic ID (e.g. passport or driving licence) and utility bill (to provide proof of your address). This is to ensure we only send your data to you, or a third party that you expressly authorise in writing to deal with for you.  
 Our address for this purpose only is Legal Dept:  
 NSI (Holdings) Ltd  
-19 Bolsover St,  
-London  
-W1W 5NA  
-United Kingdom  
-
+Winchester House,  
+259-269 Old Marylebone Road,  
+NW1 5RA,  
+London
 
 (b) Amending/correcting the data we hold on you
 
-If you want to amend the data we hold that’s also very easy to do. We want to make sure we have everything right so please simply contact us at [datarequest@cupid.com](mailto:datarequest@acupid.com) to make any amendments to our records.
+If you want to amend the data we hold that’s also very easy to do. We want to make sure we have everything right so please simply contact us at [datarequest@cupid.com](mailto:datarequest@cupid.com) to make any amendments to our records.
 
 (c) Changing your consent and opting out
 
