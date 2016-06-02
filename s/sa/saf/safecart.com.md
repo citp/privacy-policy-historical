@@ -1,30 +1,22 @@
-> *The following text is extracted and transformed from the safecart.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511003846id_/https%3A//www.safecart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safecart.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602031129id_/https%3A//support.safecart.com/privacy) for the most accurate reproduction.*
 
 # SafeCart - Privacy Policy
 
-### Privacy Policy
+RevenueWire Inc. ("RevenueWire") is committed to protecting the privacy of personally identifiable information you may provide to us when using any of our online services including without limitation, the SafeCart payment processing system ("SafeCart"). This Privacy Policy describes how we treat information we receive when you transmit data to RevenueWire. This privacy policy applies to www.safecart.com owned and operated by Revenuewire, Inc.
 
-[](https://privacy.truste.com/privacy-seal/Revenuewire,-Inc-/validation?rid=0e913ad0-dc4e-44c7-b921-88e9a8470714 "Click to Verify")
+Revenuewire, Inc. has received TRUSTe's Privacy Seal signifying that this Privacy Statement and our practices have been reviewed for compliance with the TRUSTe program. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, [www.safecart.com](https://www.safecart.com/).
 
-### SafeCart® Privacy Policy
-
-RevenueWire Inc. ("RevenueWire") is committed to protecting the privacy of personally identifiable information you may provide to us when using any of our online services including without limitation, the SafeCart payment processing system ("SafeCart"). This Privacy Policy describes how we treat information we receive when you transmit data to RevenueWire. This privacy policy covers only support.safecart.com.
-
-Revenuewire, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personally identifiable information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, http://support.safecart.com.
-
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@safecart.com. If you are not satisfied with our response you can contact [TRUSTe here](http://www.truste.com/privacy-program-requirements/).
+In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>
 
 #### Shopping Cart
 
 SafeCart is a service used by RevenueWire partnership companies. When you make a purchase you will be taken to support.safecart.com to finalize the purchase. The information we collect on this portion of the site belongs to our customers and we only collect it to process it for them. We do not use this information for any other purposes unless as described in this privacy policy.
 
-Our checkout page collects the credit card information from the user who is purchasing a product from one of our merchants. This includes credit card number, expiration date and name. Zip/Postal code and email address are collected as well. This information is used to create a login account for users who want to see their receipt for the transaction which can be accessed through support.safecart.com.
+Our checkout page collects credit card information from the user who is purchasing a product from one of our merchants. This includes credit card number, expiration date, name, Zip/Postal code, and email address. This information is used to create a login account for users who want to see their receipt for the transaction which can be accessed through support.safecart.com.
 
-"SAFECART'S WEBSITE IS OPERATED AND MAINTAINED AS PART OF OUR ONGOING BUSINESS OPERATIONS. The information we collect here is used to collect and reply to service questions. The information collected here MAY INCLUDE YOUR BUSINESS NAME, YOUR PERSONAL name, email address, order ID number, and TELEPHONE number. You may also submit your email address or order ID number and postal/zip code to the web site in order to access and review a purchase made through the SafeCart checkout process or manage your subscriptions. You have the ability to access your personally identifiable information for the purpose of updating or deleting it by emailing us at [customerservice@safecart.com](mailto:customerservice@safecart.com) or by sending us an email through the "Contact Us" page on [support.safecart.com](https://support.safecart.com/)"
+"SAFECART'S WEBSITE IS OPERATED AND MAINTAINED AS PART OF OUR ONGOING BUSINESS OPERATIONS. The information we collect here is used to collect and reply to service questions. The information collected here MAY INCLUDE YOUR BUSINESS NAME, YOUR PERSONAL name, email address, order ID number, and TELEPHONE number. You may also submit your email address or order ID number and postal/zip code to the web site in order to access and review a purchase made through the SafeCart checkout process or manage your subscriptions. You have the ability to access your personally identifiable information for the purpose of updating or deleting it by emailing us at [customerservice@safecart.com](mailto:customerservice@safecart.com) or by sending us an email through the "Contact Us" page on [support.safecart.com](https://support.safecart.com/)". We will respond to these requests within a reasonable timeframe.
 
-#### Web Site Usage
-
-We may collect and record information that is related to the interaction between an Internet user and the website(s) using the SafeCart services. Interactions may include without limitation ad content/banner delivery, counting click-throughs on an ad/banner, tracking web page views following a click-through, and sales tracking. Other information that we may collect include IP addresses and Web site usage information when you access our online services. This non-personally identifiable information helps RevenueWire in evaluating the functionality of our services in order to identify areas on how we can improve our services to our clients. This information also assists RevenueWire in reporting relevant data on advertisements and sales to all our applicable clients.
+We will retain your personally identifiable information for as long as your account is active or as needed to provide you services. We will retain and use your personally identifiable information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 #### How Information Is Used When Collected
 
@@ -43,7 +35,6 @@ We may use information collected in the following ways:
   * To enforce our service agreement or terms of use.
   * As part of the process of managing information collected at support.safecart.com and using it to perform the above intended uses, SafeCart may share the information with third-party service providers. This sharing is solely for facilitating the above intended purposes and entails that all third parties protect information collected at support.safecart.com and use it only as directed and in accordance with this policy.
   * If required to be disclosed by applicable law.
-  * SafeCart will NOT rent, share, or trade any of your personally identifiable information unless as otherwise disclosed in this privacy policy.
 
 
 
@@ -59,13 +50,15 @@ We may also disclose your personal information if SafeCart is involved in a merg
 
 Any promotional emails or newsletters sent to you from RevenueWire can be opted out of by sending an email to [customerservice@safecart.com](mailto:customerservice@safecart.com). You may also fill out a "Contact Us" form on the support.safecart.com web site describing your request to discontinue our promotional email service. We will send you service and support related emails that have to do with account information or purchase orders. You cannot opt-out of receiving these service emails.
 
-#### Cookies
+#### Tracking Technologies
 
-Remote cookies are used on the Internet user's computer and the server databases at RevenueWire in order for us to store any information collected by users of the SafeCart services such as Internet users clicking on ad/banner campaigns, viewing a web page, or purchasing a product. A "cookie" is a piece of data and information that is automatically stored on an Internet user's computer hard drive by the SafeCart servers. Cookies are not viruses or a type of malware designed to erase your hard drive or cause damage to your computer. Cookies are used to track an Internet user's clicks to ensure that they are directed to the correct click-through destination site. We also use cookies as a reporting system to track the effectiveness of an ad/banner campaign as well as the frequency of display, and to track the performance of our business partners to ensure proper payment for their sales and tracking activities relating to their business relationship with us. We do not in any way collect any personally identifiable information.
+As is true of most web sites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do link this automatically collected data to other information we collect about you.
 
-The use of cookies by our partners and affiliates is not covered by our privacy policy. We do not have access or control over these cookies. Our partners and affiliates use session ID cookies in order for you to use the shopping cart.
+Technologies such as: cookies, beacons, tags and scripts are used by Revenuewire, Inc. and our partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-We and our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user?s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered to our Customers? or Users? personally identifiable information. To learn more about our advertising company?s use of clear gifs, please go to www.revenuewire.com.
+We use cookies for our shopping cart, to remember users' settings, and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+
+We use Local Storage Objects such as HTML5 to store [content information and preferences.] Various browsers may offer their own management tools for removing HTML5 LSOs.
 
 #### Links
 
@@ -73,7 +66,9 @@ We may offer links from our website to other third party websites which may be h
 
 #### Security
 
-The personally identifiable information that is collected and stored in limited access servers. We take reasonable precautions to protect the information that has been collected, and to safeguard the servers where such information is stored. We will collect and store any credit card information and will retain personally identifiable information only as long as necessary to conduct the applicable business or to maintain your account with us. In cases where you are subject to recurring subscription based billing (on a per use, monthly or annual basis) we will keep your credit card and personally identifiable information for no more than ninety (90) days following the day you cancel the subscription for which the recurring bills are issued. When we collect credit card information through our shopping cart, we use SSL Encryption to secure that sensitive information as it is transferred through SafeCart to our payment processor.
+The personally identifiable information that is collected and stored in limited access servers. We take reasonable precautions to protect the information that has been collected, and to safeguard the servers where such information is stored. In cases where you are subject to recurring subscription based billing (on a per use, monthly or annual basis) we will keep your credit card and personally identifiable information for no more than ninety (90) days following the day you cancel the subscription for which the recurring bills are issued. When we collect credit card information through our shopping cart, we use SSL Encryption to secure that sensitive information as it is transferred through SafeCart to our payment processor.
+
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at privacy@safecart.com.
 
 #### Policy Modifications
 
@@ -92,11 +87,15 @@ RevenueWire, Inc.
 Victoria, BC V8P 3H8  
 Canada
 
-This privacy policy was last modified 12/02/2014
+This privacy policy was last modified 04/18/2016
 
 ### SafeCart.com Terms of Use
 
-Safecart.com provides this web site (the **“Site”** ) and the services available to you through this Site (the **“Service”** ) subject to your compliance with the terms and conditions below (the **“Agreement”** ).
+Last updated: June 24, 2015
+
+Safecart.com provides this web site (the **“Site”** ) and the services available to you through this Site (the **“Service”** ) subject to your compliance with the terms and conditions below that are binding between you and the Company (the **“Agreement”** ).
+
+For the purposes of this Agreement, the term “Company” varies depending on where you are located. If you are located in the United Kingdom or in a member state of the European Union, “Company” means Revenuewire (UK) Ltd., a U.K. company having a registered address at Burlington House Grange Drive, Hedge End, Southampton, England SO30 2AF. If you are located elsewhere, “Company” means Revenuewire Inc., a company incorporated under the laws of Canada and having its principal place of business at 3962 Borden Street, Suite 102, Victoria, British Columbia, Canada V8P 3H8, and an address for delivery in the United States at 800 P. Street, Suite 300, Lincoln, NE 68501-3234, USA.
 
 PLEASE READ THIS BEFORE ACCESSING THE SITE. BY ACCESSING THE SITE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS BELOW. IF YOU DO NOT WISH TO BE BOUND BY THESE TERMS AND CONDITIONS, YOU MAY NOT USE THE SITE.
 
@@ -107,7 +106,7 @@ While visiting the Site, you may not:
     * post, transmit or otherwise distribute information constituting or encouraging conduct that would constitute a criminal offense or give rise to civil liability, or otherwise use the Site in a manner which is contrary to law or would serve to restrict or inhibit any other user from using or enjoying the Site or the Internet;
     * post or transmit any information or software which contains a virus, cancelbot, trojan horse, worm or other similar, harmful or disruptive component; or
     * upload, post, publish, transmit, reproduce, or distribute in any way, information, software or other material obtained through the Site which is protected by copyright, or other intellectual property right, or derivative works with respect thereto, without obtaining permission of the copyright owner or right-holder.
-  2. ## Site Operation.
+  2. ## Site Operation
 
 Company shall be under no obligation to continue to operate the Site for any particular term and may remove or change the Site at its sole and absolute discretion.
 
@@ -137,7 +136,7 @@ Company accepts payments for Company Products through the Site by means describe
 
   9. ## Limitation of Liability.
 
-COMPANY, INCLUDING ITS AFFILIATES, RELATED COMPANIES, SPONSORING BANKS, PROCESSORS AND OTHER SUPPLIERS, TAKE NO RESPONSIBILITY FOR THE ACCURACY OR VALIDITY OF ANY CLAIMS OR STATEMENTS CONTAINED IN THE SITE. FURTHER, COMPANY MAKES NO REPRESENTATIONS ABOUT THE SUITABILITY OF ANY OF THE INFORMATION CONTAINED ON THE SITE FOR ANY PURPOSE. ALL SUCH INFORMATION, INCLUDING WITHOUT LIMITATION IMAGES, VIDEOS AND OTHER DOCUMENTATION IS PROVIDED "AS IS" AND WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND. IN NO EVENT SHALL COMPANY BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF INFORMATION, COMPANY PRODUCTS, OR OTHER PRODUCTS OR SERVICES AVAILABLE ON OR THROUGH THE SITE. UNDER NO CIRCUMSTANCES SHALL THE COMPANY BE LIABLE TO YOU FOR ANY AMOUNT GREATER THAN THE AMOUNT YOU HAVE PAID TO THE COMPANY.
+**COMPANY, INCLUDING ITS AFFILIATES, RELATED COMPANIES, SPONSORING BANKS, PROCESSORS AND OTHER SUPPLIERS, TAKE NO RESPONSIBILITY FOR THE ACCURACY OR VALIDITY OF ANY CLAIMS OR STATEMENTS CONTAINED IN THE SITE. FURTHER, COMPANY MAKES NO REPRESENTATIONS ABOUT THE SUITABILITY OF ANY OF THE INFORMATION CONTAINED ON THE SITE FOR ANY PURPOSE. ALL SUCH INFORMATION, INCLUDING WITHOUT LIMITATION IMAGES, VIDEOS AND OTHER DOCUMENTATION IS PROVIDED "AS IS" AND WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND. IN NO EVENT SHALL COMPANY BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF INFORMATION, COMPANY PRODUCTS, OR OTHER PRODUCTS OR SERVICES AVAILABLE ON OR THROUGH THE SITE. UNDER NO CIRCUMSTANCES SHALL THE COMPANY BE LIABLE TO YOU FOR ANY AMOUNT GREATER THAN THE AMOUNT YOU HAVE PAID TO THE COMPANY.**
 
   10. ## Recourse.
 
