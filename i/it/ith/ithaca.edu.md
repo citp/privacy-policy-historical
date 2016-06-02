@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ithaca.edu privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202220131id_/http%3A//www.ithaca.edu/its/general/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ithaca.edu privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602183244id_/http%3A//www.ithaca.edu/its/general/policies/privacy) for the most accurate reproduction.*
 
-# Ithaca College Public Website Privacy Notice - General Information - Information Technology Services - Ithaca College
+# Ithaca College Public Website Privacy Notice - General Information - Digital Instruction and Information Services - Ithaca College
 
 ## Applicability
 
