@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gosquared.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908090840id_/https%3A//www.gosquared.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gosquared.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602200810id_/https%3A//www.gosquared.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy - Legal - GoSquared
 
@@ -133,6 +133,8 @@ Any feedback you provide at this site will be deemed to be non-confidential. GoS
 ## Accessing your Personal Information
 
 The UK's Data Protection Act 1998 (the "Act") may give you the right to access Personal Information held by us about you. This right of access can be exercised in accordance with the Act. Any access request may be subject to identity checks, and a fee of £10 to meet our costs in providing you with details of the Personal Information we hold about you.
+
+## Contact us
 
 If you have questions or concerns about GoSquared's Privacy Policy or data processing, please contact us at our address below, or via email at [support@gosquared.com](mailto:support@gosquared.com) or call us on +44 (0) 20 8144 0401. The GoSquared Support Team will respond to your inquiry as soon as possible (usually in a few hours).
 
