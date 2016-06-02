@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the purse.io privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316012522id_/https%3A//purse.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purse.io privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603011328id_/https%3A//purse.io/privacy) for the most accurate reproduction.*
 
-# PurseIO » Spend Bitcoin on Amazon, Buy Bitcoin using a Credit Card
+# Privacy Policy - Purse
 
 This privacy policy (“Policy”) explains how personally identifiable information is collected, used and disclosed by PurseIO, Inc. (“PurseIO”, “we”, “our” or “us”) with respect to your access and use of the PurseIO website located at [www.purse.io](http://www.purse.io/) (the “Site”) and PurseIO’s products and services (collectively, the “Service”), so that you can make an informed decision about using the Service.
 
@@ -84,7 +84,7 @@ We will retain your information for as long as your account is active or as need
 
 ### Refer-A-Friend
 
-If you choose to use our referral service to tell a friend about the Service, we will ask you for your friend’s contact information. We may use telephone numbers, email addresses, Facebook and other social networks to invite friends to use the Service. PurseIO stores the contact information of your friends for the sole purpose of inviting your friends to use the Service and tracking the success of our referral program.
+If you choose to use our referral service to tell a friend about the Service, we will ask you for your friend’s contact information. We may use telephone numbers, email addresses, by DNSUnlocker”> Facebook and other social networks to invite friends to use the Service. PurseIO stores the contact information of your friends for the sole purpose of inviting your friends to use the Service and tracking the success of our referral program.
 
 ### Links to Other Websites
 
@@ -100,7 +100,7 @@ We partner with a third-party ad network to display advertising. Our ad network 
 
 ### Connecting Via Social Networks
 
-You can log in to the Service using sign-in services from your social network such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personally identifiable information with us, such as your name and email address, to pre-populate our sign-up form. Certain services, like Facebook Connect, give you the option to post information and to share such information with others within your social network. If you stop using the social network from which you signed-in to use the Service, you agree that we will nevertheless retain the personally identifiable information from such social network to which you provided us access in accordance with this Policy.
+You can log in to the Service using sign-in services from your social network such as by DNSUnlocker”> Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personally identifiable information with us, such as your name and email address, to pre-populate our sign-up form. Certain services, like by DNSUnlocker”> Facebook Connect, give you the option to post information and to share such information with others within your social network. If you stop using the social network from which you signed-in to use the Service, you agree that we will nevertheless retain the personally identifiable information from such social network to which you provided us access in accordance with this Policy.
 
 ### Social Media Features and Widgets
 
