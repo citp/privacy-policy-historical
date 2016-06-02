@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewebsite.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140149id_/http%3A//freewebsite.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewebsite.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602044953id_/http%3A//freewebsite.com/privacy.php) for the most accurate reproduction.*
 
 # FreeWebsite.com Privacy Policy
 
