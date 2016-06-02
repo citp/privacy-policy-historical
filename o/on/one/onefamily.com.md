@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onefamily.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102185756id_/http%3A//www.onefamily.com/legal/privacy-policy-and-uses-of-data) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onefamily.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602214343id_/http%3A//www.onefamily.com/legal/privacy-policy-and-uses-of-data) for the most accurate reproduction.*
 
 # Privacy Policy | Uses of Data | OneFamily
 
@@ -8,7 +8,7 @@ This page contains the privacy policy and uses of data statement for our website
 
 This Privacy Policy applies to all websites (the Sites) operated by Family Assurance Friendly Society Limited (trading as OneFamily).
 
-OneFamily (we, us, our) is committed to protecting and respecting your privacy. This Privacy Policy (together with our [Terms and Conditions](http://www.onefamily.com/legal/terms-of-use/ "Website terms of use") and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, via the Sites, will be processed by us.
+OneFamily (we, us, our) is committed to protecting and respecting your privacy. This Privacy Policy (together with our [Terms and Conditions](https://www.onefamily.com/legal/terms-of-use/ "Website terms of use") and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, via the Sites, will be processed by us.
 
 Your personal details enable us to send you information about our products, respond to a specific enquiry you have and to provide you with products and services for which you apply.
 
@@ -26,23 +26,23 @@ We will not sell, share, license, trade, or rent your personal information colle
 
 The following are links to the provisions of our Privacy Policy. For immediate access to a particular topic, click on the link below.
 
-[What information about me is collected on the Sites or through your internet products?](https://web.archive.org/web/20151102185756id_/http://www.onefamily.com/legal/privacy-policy-and-uses-of-data/y.com/y.com/y.com/y.com/legal/privacy-policy-and-uses-of-data/#information)
+What information about me is collected on the Sites or through your internet products?
 
-[Who operates the Sites and where are your servers located?](https://web.archive.org/web/20151102185756id_/http://www.onefamily.com/legal/privacy-policy-and-uses-of-data/y.com/y.com/y.com/y.com/legal/privacy-policy-and-uses-of-data/#servers)
+Who operates the Sites and where are your servers located?
 
-[Cookies, Tags and Personal Information](https://web.archive.org/web/20151102185756id_/http://www.onefamily.com/legal/privacy-policy-and-uses-of-data/y.com/y.com/y.com/y.com/legal/privacy-policy-and-uses-of-data/#cookies)
+Cookies, Tags and Personal Information
 
-[Are the Sites designed for use by children?](https://web.archive.org/web/20151102185756id_/http://www.onefamily.com/legal/privacy-policy-and-uses-of-data/y.com/y.com/y.com/y.com/legal/privacy-policy-and-uses-of-data/#children)
+Are the Sites designed for use by children?
 
-[When do you disclose information to third parties?](https://web.archive.org/web/20151102185756id_/http://www.onefamily.com/legal/privacy-policy-and-uses-of-data/y.com/y.com/y.com/y.com/legal/privacy-policy-and-uses-of-data/#third-parties)
+When do you disclose information to third parties?
 
-[Is the information collected secure?](https://web.archive.org/web/20151102185756id_/http://www.onefamily.com/legal/privacy-policy-and-uses-of-data/y.com/y.com/y.com/y.com/legal/privacy-policy-and-uses-of-data/#secure)
+Is the information collected secure?
 
-[What choices do I have regarding the collection, disclosure and distribution of Personally Identifiable Information?](https://web.archive.org/web/20151102185756id_/http://www.onefamily.com/legal/privacy-policy-and-uses-of-data/y.com/y.com/y.com/y.com/legal/privacy-policy-and-uses-of-data/#collection)
+What choices do I have regarding the collection, disclosure and distribution of Personally Identifiable Information?
 
-[What if I want to unsubscribe from marketing communications?](https://web.archive.org/web/20151102185756id_/http://www.onefamily.com/legal/privacy-policy-and-uses-of-data/y.com/y.com/y.com/y.com/legal/privacy-policy-and-uses-of-data/#unsubscribe)
+What if I want to unsubscribe from marketing communications?
 
-[Who do I contact if I have any privacy questions?](https://web.archive.org/web/20151102185756id_/http://www.onefamily.com/legal/privacy-policy-and-uses-of-data/y.com/y.com/y.com/y.com/legal/privacy-policy-and-uses-of-data/#contact)
+Who do I contact if I have any privacy questions?
 
 ## 1\. What information about me is collected on the Sites or through your internet products?
 
@@ -86,7 +86,7 @@ There are four classifications of cookies - strictly necessary, performance, fun
 
 Although most browsers are initially set to accept cookies, you may reset your browser to notify you when you receive a cookie or to reject cookies generally. Most browsers offer instructions on how to do so in the "Help" section of the toolbar.
 
-More information about cookies can be found at [www.allaboutcookies.org](http://www.allaboutcookies.org/ "Visit allaboutcookies.org") and in the [ICC UK Cookie Guide](http://www.international-chamber.co.uk/images/ICC_Documents/icc_uk_cookiesguide_revnov.pdf "Download the ICC UK Cookie Guide").
+More information about cookies can be found at [www.allaboutcookies.org](http://www.allaboutcookies.org/ "Visit allaboutcookies.org") and in the [ICC UK Cookie Guide](http://www.cookielaw.org/media/1096/icc_uk_cookiesguide_revnov.pdf "View the PDF ").
 
 Our web pages may contain electronic images, known as web beacons or spotlight tags. These enable us to count users who have visited certain pages on the Sites. Web beacons and spotlight tags are simple tools used to obtain generic information about the web pages visited. They are not used to obtain information about specific users. We do not disclose any of your Personally Identifiable Information to our advertising partners.
 
@@ -116,28 +116,45 @@ We also collect Non-Personally Identifiable Information through our Internet log
 
 Through our ‘Email a Friend’ or ‘Email Friends and Family to Add to Account’ tools on the Sites, we will automatically send your friend(s)/family a one-time email containing the information you request to be sent. If you elect to use the ‘Email a Friend’ or ‘Email Friends and Family to Add to Account’ tools, we will collect from you Personally Identifiable Information about your friend(s)/family, which you have provided, such as your friend's name and email address. We will not store this information anywhere on our systems, it is collected only to enable us to send the email and is then removed. We recommend, however, that you make sure that your friend or family member wants to receive emails from you regarding materials on the Sites.
 
-### Posting Pictures or other material to your Account on the Site
+### Posting Pictures, Comments or Material to the Sites
 
-You may post baby pictures / photographs ("Content") to us for publication on the Sites. Please choose this Content carefully.
+You may post pictures/photographs, comments and other material (Content) to us for publication on the Sites. Please choose this Content carefully.
 
-Photographs, pictures or material must NOT:
+In posting Content you should always: 
 
-  * include the name of the child,
-  * be obscene, lewd or otherwise objectionable,
-  * contain nudity,
-  * infringe any copyright, design, privacy, data protection, trademark or any other rights of third parties,
-  * be abusive, threatening, libellous or defamatory of any person.
+  * Respect the rights and privacy of others
+  * Report anything which may cause offence
+  * Report anything suspicious.
 
 
 
-All photographs and pictures MUST be:
+Any Content posted must not:
 
-  * legal, honest, decent and truthful,
-  * comply with applicable laws, regulations, standards or codes of conduct.
+  * Contain your own personal information or that of a child (if applicable)
+  * Include any mention of specific individuals, companies, brands or products for promotion purposes
+  * Contain any third party trademarks or material including, but not limited to, photographs/images without the express written permission of said third party
+  * Contain details of or information about specific individuals without their consent
+  * Contain photographs where permission has not been granted for use in the  
+public domain
+  * Contain offensive, obscene or sexually suggestive material, propaganda, potentially misleading information, or defamatory or disparaging material
+  * Contain any material which is not legal, decent, honest and respectful
+  * Infringe the intellectual property rights of any third party
+  * Endorse any form of hate, hate group or terrorist activity
+  * Discriminate on the basis of gender, race, religion, creed, national origin, disability, age, sexual orientation, or any other basis prohibited by law
+  * Support any particular political party or affiliated group
+  * Directly promote or speak negatively about any particular faith, political action, legislation or party, or promote or encourage the violation of any law
+  * Promote any activities that may appear unsafe or dangerous
+  * Relate to controversial subject matter or any subject that is contrary to the interests of OneFamily.
 
 
 
-We have the right to monitor Content and may edit, reject or remove Content if we believe it does not comply with the above requirements. OneFamily reserves the right in its sole discretion to reject, refuse to post or remove any postings by you.
+In each case, the above will be determined by OneFamily in its absolute discretion.
+
+OneFamily reserves the right to correct, to delete and to sanction any Content that it considers to be in breach of these terms.
+
+**OneFamily Foundation website**
+
+An online profile will be set up for anyone who registers to become a member of the OneFamily Foundation Online Community. This allows members to vote and comment on Community Awards featured on the site. A member’s username and any uploaded profile picture may be viewable by other users of the site alongside any comments made by that member.
 
 ## 4\. Are the Sites designed for use by children?
 
@@ -191,7 +208,7 @@ Occasionally we may want to contact you via telephone, post or email. Customers 
 
 If at any time you wish to unsubscribe from our email communications you can by clicking on the unsubscribe link at the bottom of all our email communications.
 
-If you would like to opt out of receiving marketing communications via other contact methods, or you wish to contact us for any other reason please [contact us here](http://www.onefamily.com/connect-with-us/contact-us/ "Contact Us").
+If you would like to opt out of receiving marketing communications via other contact methods, or you wish to contact us for any other reason please [contact us here](https://www.onefamily.com/connect-with-us/contact-us/ "Contact Us").
 
 ## Uses of Data
 
