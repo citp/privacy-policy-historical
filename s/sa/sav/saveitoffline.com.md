@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the saveitoffline.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230072406id_/http%3A//www.saveitoffline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saveitoffline.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602152948id_/http%3A//www.saveitoffline.com/privacy-policy) for the most accurate reproduction.*
 
-# Terms of Service
+# Privacy
 
-This Privacy Policy governs the manner in which Saveitoffline.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://Saveitoffline.com](http://saveitoffline.com/) website ("Site").
+This Privacy Policy governs the manner in which Saveitoffline.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [Save It Offline](http://www.saveitoffline.com/) website ("Site").
 
 ### Personal identification information
 
