@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the googlekeywordplanner.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912075554id_/http%3A//www.googlekeywordplanner.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the googlekeywordplanner.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602095554id_/http%3A//www.googlekeywordplanner.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Google Keyword Planner: Privacy Policy
+# NEW: Free Google Keyword Planner Alternatives: Privacy Policy
 
 This Privacy Policy governs the manner in which GoogleKeywordPlanner.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://GoogleKeywordPlanner.com](http://googlekeywordplanner.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by GoogleKeywordPlanner.com the blog and not google inc`s free keyword tool available online to which they own 100% of all rights. In no shape or form is googlekeywordplanner.com affiliated with any employee of google, nor the company nor its affiliates.
 
