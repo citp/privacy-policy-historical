@@ -1,70 +1,113 @@
-> *The following text is extracted and transformed from the theupsstore.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527080951id_/http%3A//www.theupsstore.com/about/Pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theupsstore.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602131003id_/https%3A//www.theupsstore.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | theupsstore.com
 
-This Privacy Policy governs only information collected from visitors to The UPS Store® website (“Website”). At The UPS Store, Inc., we recognize the importance of protecting your privacy. We adhere to the policies and practices described in this Privacy Policy for the treatment, use and protection of the information provided to us by visitors to the Website. Please take a minute to read this Privacy Policy so that you can better understand our Website information practices. If you have questions about our Privacy Policy, please [contact us](https://web.archive.org/customer-service/pages/contact-us.aspx "contact us").
+**Effective Date: June 29, 2015**
 
-As used in our Privacy Policy, "The UPS Store", "our", “us” and "we" refer to The UPS Store, Inc., The UPS Store is a wholly-owned subsidiary of United Parcel Service of America, Inc. (UPS). The term "Affiliates," as used in the Privacy Policy, includes UPS and all subsidiaries and affiliates of UPS.
+The UPS Store, Inc. (“The UPS Store”) respects your concerns about privacy. This Privacy Notice describes the types of personal information we obtain about consumers via [www.theupstore.com](http://www.theupstore.com/ "theupsstore.com") and [www.upsstoreprint.com](http://www.upsstoreprint.com/ "upsstoreprint.com") (the “Sites”). This Privacy Notice also describes how we may use the information, with whom we may share it, and the measures we take to safeguard the personal information we collect. In addition, we tell you how you can ask us to (i) refrain from sending you marketing email communications, and (ii) answer questions you may have about our privacy practices. 
 
-**Personal Information Collected and How It Is Used**
-
-Personally identifiable information is information that allows you to be identified or contacted individually.  Personally identifiable information may be collected when you complete any online form, application, survey or request for information. Therefore, if you do not wish for us to obtain your personally identifiable information, please do not submit it to us. However, if you choose not to provide us with certain personal information, we may not be able to provide you with the services that you requested.
-
-If you are interested in becoming a The UPS Store® franchisee in the U.S., we use information that you provide to us in order to provide you with more information about franchising opportunities and to process franchise applications.  We also use information that you provide to us in order to provide you with specific services that you request, to provide you with additional services that we believe may be of interest to you and to improve our services going forward.  For instance, we may use your information in the following ways: 
-
-  * To respond to requests for more information about The UPS Store® franchising opportunities. 
-  * To respond to and process an application for a The UPS Store® franchise. 
-  * To respond to requests from companies interested in hosting opportunities for non-traditional franchise sites.
-  * To respond to your requests for information about Corporate Retail Solutions. 
-  * To provide you with package tracking features. 
-  * To process documents that you send via the Website for printing.
-  * To respond to customer and franchisee inquiries. 
-  * To process your registration for events offered via the Website.
-  * To provide online promotions, sweepstakes and surveys.
+  * This Privacy Notice does not apply to our corporate parent, United Parcel Service, Inc., which is subject to its own Privacy Notice that can be found [here](http://www.ups.com/content/us/en/resources/ship/terms/privacy.html?WT.svl=Footer "UPS Privacy Notice").
+  * This Privacy Notice does not apply to the collection of consumer information by our franchised center locations.
+  * For our Privacy Notice regarding our information practices with respect to The UPS Store’s potential franchise owners, please visit <http://theupsstorefranchise.com/privacy-policy>.
 
 
 
-In addition to the uses outlined above, we may use your personally identifiable information in order to establish and verify your identity if you submit information to us, provide services and support to visitors to the Website, improve the website and tailor it to your preferences, provide you with updates, promotions and other information about us, and maintain the security and integrity of our systems.
+Select one of the links below to jump to the listed section:
 
-  
-**Non-Personally Identifiable Information**
+  * Information We Obtain
+  * How We Use The Information We Obtain
+  * Interest-Based Advertising
+  * Information We Share
+  * Your Options
+  * Notice to California Residents
+  * Non-The UPS Store Places and Services
+  * How We Protect Personal Information
+  * Updates To Our Privacy Notice
+  * How To Contact Us
 
-When you visit our Website, like when you visit most other websites, certain information is automatically logged about your visit. This information may include your IP address, which is the number assigned to your computer whenever it is connected to the Internet, your operating system, screen settings, Web browser software, and referring website. It is used for system improvement and administration, security, statistical analysis purposes, and other internal business purposes.
 
-We may also anonymize your personally identifiable information by cleansing it of any information which might allow you to be identified or contacted, and combine this non-personally identifiable information with that of other visitors to the site. We use non-personally identifiable information for internal business purposes, such as analysis and planning by our marketing and customer service departments.
 
-**Information Sharing and Disclosure**
+**Information We Obtain**  
+The types of personal information that we may obtain include:
 
-We will not license, sell, rent or share your personally identifiable information with any third party except as set forth below, to act upon your requests as detailed in Personal Information Collected and How It Is Used, or with your consent.
+  * Individual and business contact information (such as name, company name, physical address, email address, and telephone or fax number);
+  * Payment information (including payment card details);
+  * Information provided in response to surveys;
+  * Username, password and other credentials used to access The UPS Store products and services, including information in your public social media profile if you register via a social media website or tool;
+  * The geographic location of your mobile device if you access our Sites via a mobile device;
+  * Information you may upload to our Sites, such as information contained in documents you upload for printing services;
+  * Personal information of other individuals that you provide to us; and
+  * Other personal information that may be provided to us to obtain a The UPS Store product or service.
 
-Contractors and Agents
 
-We may employ third party contractors to perform functions on our behalf, which may include assisting us in processing your information. We share personally identifiable information with such contractors in order to assist us in using the data for the purposes outlined in this Privacy Policy. These contractors are contractually required to maintain the confidentiality of the information and are restricted from using the information for any purpose other than those authorized by us.
 
-Affiliates and Franchises
+In addition, when you visit our Sites or interact with The UPS Store-related tools, widgets or plug-ins, we may collect certain information by automated means. The information we collect in this manner may include IP address, unique device identifier, browser characteristics, device characteristics, operating system, language preferences, referring URLs, information on actions taken, and dates and times of activity.
 
-We may share your personal information with our Affiliates and Franchisees to respond to your requests and provide you with requested services or offer services that may be of interest to you. Each Franchise is owned and operated independently from The UPS Store and is solely responsible for its own acts and omissions.  For example, in the case of franchise applications, the information may be shared with our area franchisees who render sales support and other assistance to us. We may also share information relating to your customer service query with Affiliates, Franchisees and other third parties in order to address the query properly.
+When you visit our Sites, this information may be collected through “cookies” and “web beacons.” A “cookie” is a text file that websites send to a visitor’s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. A “web beacon” also known as an Internet tag, pixel tag or clear GIF, links web pages or applications to web servers and may be used to transmit information back to a web server.Through our automated collection efforts, The UPS Store obtains and stores “clickstream data” to tell us usage patterns.
 
-Compliance with Law and Legal Requests
+We also may use third-party web analytics services on our Sites, such as those of Google Analytics. These service providers help us analyze how visitors use the Sites.  The information obtained for this purpose (including your IP address and other information collected by automated means) will be disclosed to or collected directly by these service providers. To learn about opting out of Google Analytics, please [click here](https://tools.google.com/dlpage/gaoptout "Google Analytics Opt Out").
 
-We may provide your personally identifiable information to government agencies as required by law or regulation. In addition, we may release your personally identifiable information in the unlikely event we deem release necessary to comply with the law, or to legally protect us, our Affiliates, customers or franchisees.
+Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies.  Please note, however, that without cookies you may not be able to use all of the features of our Sites.  Both we and others (such as our advertising networks) may collect personal information about our visitors’ online activities, over time and across third-party websites, when using our Sites.
 
-Non-Personally Identifiable Information
+The providers of third-party apps, tools, widgets and plug-ins on our Sites, such as Facebook “Like” buttons, also may use automated means to collect information regarding your interactions with these features.This information is subject to the privacy policies or notices of these providers.
 
-We may share non-personally identifiable information, including anonymized data derived from personally identifiable information collected from this Website with third parties or our Affiliates.
+**How We Use The Information We Obtain**  
+We may use the information we obtain to:
 
-Business Transfers
+  * Provide and arrange for products and services you request, such as printing and package tracking services;
+  * Process and collect payments;
+  * Provide customer support and respond to and communicate with you about your requests, questions and comments;
+  * Communicate with you about products and services we believe may interest you;
+  * Communicate about, and administer your participation in, special events, programs, webinars, surveys, contests, sweepstakes, and other offers or promotions; 
+  * Establish and manage your accounts;
+  * Verify your identity;
+  * Enable you to post on our blogs;
+  * Send information to your contacts if you ask us to do so;
+  * Process claims we receive in connection with products and services you request;
+  * Operate, evaluate and improve our business (including developing new products and services; managing our communications; determining the effectiveness of our sales, marketing and advertising; analyzing and enhancing our products, services and Sites; and performing accounting, auditing, billing, reconciliation and collection activities);
+  * Perform data analyses (including market and consumer research, trend analysis and financial analysis);
+  * Protect against, identify and prevent fraud and other criminal activity, claims and other liabilities; and 
+  * Comply with applicable legal requirements and our policies.
 
-In the event that all or a portion of The UPS Store, or substantially all the assets of The UPS Store, is sold to another business entity, personally identifiable information collected from the website will likely be among the assets transferred to such business entity. 
 
-**Accessing and Deleting Your Personal Information**
 
-If at any time you wish to access your information in order to update, modify or delete it, or if you wish to receive no further communication or promotional materials from us, please contact us at the address or phone number listed below. After receiving your request, we will make all reasonable efforts to make the appropriate changes to our database.  However, certain archival information may be difficult or impossible to locate and/or remove. We reserve the right to retain such information, and make the information unavailable for use rather than fully deleting it from our systems.
+In addition, The UPS Store uses information collected online through cookies, web beacons and other automated means for purposes such as (i) customizing our users’ visits to our Sites, (ii) delivering content (including advertising) tailored to our users’ interests and the manner in which our users browse our Sites, and (iii) managing our business.  We also use this information to help diagnose technical and service problems, administer our Sites, identify users of our Sites, and gather demographic information about our users.  We use clickstream data to determine usage patterns and how we may tailor our Sites to better meet the needs of our users.
 
-The UPS Store., Inc.  
-Attention: Legal Editor  
-6060 Cornerstone Ct. West  
-San Diego, CA 92121-3795  
-(800) 789-4623 in USA  
-(858) 455-8800  
-[tm@upsstore.com](mailto:tm@upsstore.com)
+The UPS Store also may use the information we obtain about you in other ways for which we provide specific notice at the time of collection.
+
+On our Sites, The UPS Store may collect information about your online activities for use in providing you with advertising about products and services tailored to your individual interests.  This section of our Privacy Notice provides details and explains how to exercise your choices.
+
+You may see certain ads on other websites because The UPS Store participates in advertising networks. Ad networks allow us to target our messaging to users through demographic, interest-based and contextual means. These networks track your online activities over time by collecting information through automated means, including through the use of cookies, web server logs and web beacons. The networks use this information to show you advertisements that may be tailored to your individual interests. The information our ad networks may collect includes information about your visits to websites that participate in the relevant advertising networks, such as the pages or advertisements you view and the actions you take on the websites. This data collection takes place both on our Sites and on third-party websites that participate in the ad networks. This process also helps us track the effectiveness of our marketing efforts. To learn about how to opt out of this ad network interest-based advertising, click [here](http://www.aboutads.info/choices/ "Ad Network Opt Out").
+
+Our Sites are not designed to respond to “do not track” signals from browsers.
+
+**Information We Share**  
+The UPS Store does not sell or otherwise share personal information about you, except as described in this Privacy Notice. The UPS Store shares personal information with third parties who perform services on our behalf based on our instructions. These third parties are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements. We also may share information with our affiliates, resellers and joint marketing partners.
+
+Information collected through third-party apps, tools, widgets and plug-ins (such as information obtained through third-party login services or relating to your use of a Facebook “Like” button) is collected directly by the providers of these features. This information is subject to the privacy policies of the providers of the features, and The UPS Store is not responsible for those providers’ information practices.
+
+The UPS Store also may disclose information about you (i) if we are required to do so by law, regulation or legal process (such as a court order or subpoena); (ii) in response to requests by government agencies, such as law enforcement authorities; or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity. The UPS Store reserves the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets (including in the event of a reorganization, dissolution or liquidation). 
+
+**Your Options**  
+You may choose not to receive marketing email communications from us by clicking on the unsubscribe link in our marketing emails. To learn more about how to opt out of ad network interest-based advertising, please visit the consumer opt-out page [here](http://www.aboutads.info/choices/ "Ad Network Opt Out").
+
+**Notice to California Residents**  
+To the extent required by applicable law, California residents may ask us to provide them with (i) a list of certain categories of personal information that we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, and (ii) the identity of those third parties. To make this request, California residents may contact us as described in the “How to Contact Us” section below.
+
+**Non-The UPS Store Places and Services**  
+For your convenience and information, the Sites may contain links to non-The UPS Store places that may be operated by companies not affiliated with The UPS Store. These companies may have their own privacy policies or notices, which we strongly suggest you review. We are not responsible for the privacy practices of any non-The UPS Store places or services.
+
+**How We Protect Personal Information**  
+The UPS Store maintains administrative, technical and physical safeguards designed to protect the personal information you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.
+
+**Updates To Our Privacy Notice**  
+This Privacy Notice may be updated periodically and without prior notice to you to reflect changes in our personal information practices. The UPS Store will post a prominent notice on our Sites to notify you of any significant changes to our Privacy Notice and indicate at the top of the notice when it was most recently updated.
+
+**How To Contact Us**  
+If you have any questions or comments about this Privacy Notice, please contact us by email at [tm@upsstore.com](mailto:tm@upsstore.com).
+
+You also may write to us at:  
+The UPS Store, Inc.   
+Attention: Legal Editor   
+6060 Cornerstone Ct. West   
+San Diego, CA 92121-3795
