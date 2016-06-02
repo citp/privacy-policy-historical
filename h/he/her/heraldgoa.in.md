@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heraldgoa.in privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201113606id_/http%3A//www.heraldgoa.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heraldgoa.in privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602063225id_/http%3A//www.heraldgoa.in/privacy-policy.php) for the most accurate reproduction.*
 
 # Herald: Privacy Policy
 
