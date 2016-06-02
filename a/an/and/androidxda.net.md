@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the androidxda.net privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026070609id_/http%3A//androidxda.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidxda.net privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603005434id_/http%3A//androidblog.gs/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | AndroidXDA
+# Privacy Policy | AndroidBlog - Root Guides, ROMs, Reviews & Android Apps
 
-At AndroidXDA.net, our main concern is your privacy. We guarantee that any personal information like your name, address, telephone number and e-mail address provided to us will never be released, sold, or rented to any entities or individuals.
+At AndroidBlog.gs, our main concern is your privacy. We guarantee that any personal information like your name, address, telephone number and e-mail address provided to us will never be released, sold, or rented to any entities or individuals.
 
 ### Personal Details:
 
-AndroidXDA.net does not need any details or information that can be traced back to or identify a unique user.
+AndroidBlog.gs does not need any details or information that can be traced back to or identify a unique user.
 
 ### Credit Card Information:
 
-At AndroidXDA.net, we’ll never ask you for Credit Card details and request you to do not enter your credit card details on any form of This Site.
+At AndroidBlog.gs, we’ll never ask you for Credit Card details and request you to do not enter your credit card details on any form of This Site.
 
 ### External Sites:
 
-AndroidXDA.net will not be held liable for the content of external sites. You are advised to read the privacy policy of external sites before disclosing any personal information.
+AndroidBlog.gs will not be held liable for the content of external sites. You are advised to read the privacy policy of external sites before disclosing any personal information.
 
 ### Log Files
 
-Like many other Web sites, AndroidXDA.net makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. All of the recorded data like IP addresses and other information are not linked to any information that could personally identify a unique person.
+Like many other Web sites, AndroidBlog.gs makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. All of the recorded data like IP addresses and other information are not linked to any information that could personally identify a unique person.
 
-AndroidXDA.net itself does not use any cookies to store information. Third party service providers however may store information on your computer. Refer to the following sections to understand what information is collected and how to opt out of the process.
+AndroidBlog.gs itself does not use any cookies to store information. Third party service providers however may store information on your computer. Refer to the following sections to understand what information is collected and how to opt out of the process.
 
 ### Cookies & 3rd Party Advertisements
 
@@ -38,16 +38,16 @@ We use cookies to personalise content and ads, to provide social media features 
 
 ### Google AdSense
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on AndroidXDA.net send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on AndroidBlog.gs send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-AndroidXDA.net has no access to or control over these cookies that are used by third-party advertisers.
+AndroidBlog.gs has no access to or control over these cookies that are used by third-party advertisers.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. AndroidXDA.net’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. AndroidBlog.gs’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
- **Note:** AndroidXDA.net also uses **Infolinks** as other alternative ad networks.
+ **Note:** AndroidBlog.gs also uses **Infolinks** as other alternative ad networks.
 
-At AndroidXDA.net, we do our best to protect your personal details but we cannot guarantee the security of any information that you transmit to This site. You are solely responsible for maintaining the secrecy of any passwords or other account information. Additionally, other internet sites that may be accessible through AndroidXDA.net, have separate privacy practices and data, therefore we disclaim any responsibility for their policies or actions.
+At AndroidBlog.gs, we do our best to protect your personal details but we cannot guarantee the security of any information that you transmit to This site. You are solely responsible for maintaining the secrecy of any passwords or other account information. Additionally, other internet sites that may be accessible through AndroidBlog.gs, have separate privacy practices and data, therefore we disclaim any responsibility for their policies or actions.
 
 If you need any further information about the policy or clarification on any of the clauses, don’t hesitate to contact us at: **androidxda.net[at]gmail[dot]com**
