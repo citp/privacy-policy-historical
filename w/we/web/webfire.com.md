@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the webfire.com privacy policy that was archived on 2015-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150218005421id_/https%3A//www.webfire.com/index/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webfire.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602202021id_/http%3A//sales.webfire.com/WebFire_PrivacyPolicy.html) for the most accurate reproduction.*
 
-# WebFire
+# Untitled Document
 
-**Webfire, LLC**
+Webfire, LLC 
 
 **PRIVACY POLICY**
 
 **\-- IMPORTANT -- PLEASE READ**
 
-**LAST UPDATED: 12/11**
+**LAST UPDATED: 12/15**
 
 This Privacy Policy (“Privacy Policy”) describes the commitment to your privacy on the part of Webfire, LLC (referred to collectively as “Webfire,” “we” and “us”). 
 
@@ -58,7 +58,9 @@ Unless otherwise specified in the survey, you must assume that any information p
 
 We may collect certain non-personally identifiable information about you when you visit many of the sections of the Website. This non-personally identifiable information includes, without limitation, the type of browser that you use (e.g., Netscape, Internet Explorer), your IP address, the type of operating system that you use (e.g., Windows or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink). We use the non-personally identifiable information that we collect to improve the design and content of the Website and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze Website usage, as well as to offer you products and services. We also reserve the right to use aggregate or group data about our Visitors for any and all lawful purposes. Aggregate or group data is data that describes the demographics, usage and/or characteristics of our visitors as a group. By visiting and/or supplying your personal information at the Website, you agree to allow us to provide such aggregate data to third parties. 
 
-"Cookies" is web jargon for bits of computer code placed on your hard drive. The Website uses cookies to keep you 'logged in,' to keep track of search criteria, to monitor use, to password protect use of the Website and/or to track use of products and/or services sold by and through the Website. Even in the case where a Visitor rejects a cookie, they may still use our Website. The only drawback to this is that the Visitor may be limited in what he/she can access in some areas on our Website. Cookies can also be used to obtain information about your computer configuration or your use of your computer. To find out more about cookies, including how to disable and/or remove cookies, please visit www.cookiecentral.com. Do-Not-Track. The Site does not currently respond to browser “do not track” signals or other similar mechanisms. 
+"Cookies" is web jargon for bits of computer code placed on your hard drive. The Website uses cookies to keep you 'logged in,' to keep track of search criteria, to monitor use, to password protect use of the Website and/or to track use of products and/or services sold by and through the Website. Even in the case where a Visitor rejects a cookie, they may still use our Website. The only drawback to this is that the Visitor may be limited in what he/she can access in some areas on our Website. Cookies can also be used to obtain information about your computer configuration or your use of your computer. To find out more about cookies, including how to disable and/or remove cookies, please visit www.cookiecentral.com. 
+
+Do-Not-Track. The Site does not currently respond to browser “do not track” signals or other similar mechanisms. 
 
 **HOW YOUR INFORMATION MAY BE USED**
 
