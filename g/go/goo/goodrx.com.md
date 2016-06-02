@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodrx.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225004510id_/http%3A//www.goodrx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodrx.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602121200id_/http%3A//www.goodrx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GoodRx
 
@@ -93,8 +93,8 @@ We may make changes in our privacy policy from time to time. When we do so, we w
 We would like to receive your comments and questions about this Privacy Policy and any other matter you have regarding our Site. Please address comments or questions to us via email or postal mail.
 
 _GoodRx, Inc.  
-225 Santa Monica Blvd.  
-5th Floor  
+233 Wilshire Blvd.  
+Suite 990  
 Santa Monica, CA, 90401  
 USA_
 
