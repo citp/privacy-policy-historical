@@ -1,14 +1,17 @@
-> *The following text is extracted and transformed from the greenhouse.io privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407224320id_/http%3A//www.greenhouse.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenhouse.io privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602202645id_/https%3A//www.greenhouse.io/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Recruiting Software - Applicant Tracking System | Greenhouse Software
 
-Effective Date: March 18, 2014
+**GREENHOUSE SOFTWARE, INC.**
+
+Effective Date: March 18, 2014  
+
 
 The terms “Greenhouse,” “we,” and “us” include Greenhouse Software, Inc. and our affiliates and subsidiaries. The Privacy Policy explains how Greenhouse may:
 
-  * collect,
-  * use, and
-  * disclose
+  * Collect
+  * Use
+  * Disclose
 
 
 
@@ -16,17 +19,17 @@ information we obtain through our website.
 
 “Personal Information” means information that alone or when in combination with other information may be used to readily identify, contact, or locate you, such as: name, address, email address, or phone number. We do not consider Personal Information to include information that has been anonymized so that it does not allow a third party to easily identify a specific individual.
 
-#### OUR WEBSITE COLLECTS YOUR INFORMATION
+## OUR WEBSITE COLLECTS YOUR INFORMATION
 
-> We collect Personal Information when you:
-> 
->   * ask for sales and marketing information;
->   * apply for a job through our website; and
->   * communicate with us.
-> 
+We collect Personal Information when you:
 
-> 
-> We also collect information, such as anonymous usage statistics, by using cookies, server logs, and other similar technology as you use our website.
+  * ask for sales and marketing information;
+  * apply for a job through our website; and
+  * communicate with us.
+
+
+
+We also collect information, such as anonymous usage statistics, by using cookies, server logs, and other similar technology as you use our website.
 
 Sales and Marketing. When you request sales information from us you may need to provide Personal Information, such as your name, company name and email address.
 
@@ -40,16 +43,16 @@ When you visit our website, we and our third-party service providers receive and
 
 By using our website, you are authorizing us to gather, parse, and retain data related to the provision of our website.
 
-#### HOW GREENHOUSE USES YOUR INFORMATION
+## HOW GREENHOUSE USES YOUR INFORMATION
 
-> We use Personal Information to
-> 
->   * provide and improve our services; and
->   * communicate with you.
-> 
+We use Personal Information to:
 
-> 
-> We may use aggregate information for any purpose, including for marketing purposes.
+  * provide and improve our services
+  * communicate with you.
+
+
+
+We may use aggregate information for any purpose, including for marketing purposes.
 
 Internal and Service-Related Usage. We use information, including Personal Information, for internal and service-related purposes and may provide it to third parties to allow us to facilitate our website. We may use and retain any data we collect to provide and improve our services.
 
@@ -59,22 +62,22 @@ Marketing. We may use your Personal Information and data collected through cook
 
 Aggregate Data. We may anonymize and aggregate data collected through our website and use it for any purpose.
 
-#### GREENHOUSE MAY DISCLOSE YOUR INFORMATION
+## GREENHOUSE MAY DISCLOSE YOUR INFORMATION
 
-> We may share your information:
-> 
->   * with employers;
->   * with our third-party service providers;
->   * on our website;
->   * to comply with legal obligations;
->   * to protect and defend our rights and property; and
->   * with your permission.
-> 
+We may share your information:
 
-> 
-> We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for their direct marketing purposes.
-> 
-> We may share information collected by cookies and similar technology with third parties for their marketing purposes.
+  * with employers
+  * with our third-party service providers;
+  * on our website;
+  * to comply with legal obligations;
+  * to protect and defend our rights and property; and
+  * with your permission.
+
+
+
+We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for their direct marketing purposes.
+
+We may share information collected by cookies and similar technology with third parties for their marketing purposes.
 
 With Employers. When you choose to apply for a job through our website, we may share any information you provide during the application process with the company that posted the opening you applied for.
 
@@ -90,43 +93,40 @@ Merger, Sale, or Other Asset Transfers. If we are involved in a merger, acquisi
 
 We may also disclose your Personal Information with your permission.
 
-#### SECURITY OF YOUR INFORMATION
+## SECURITY OF YOUR INFORMATION
 
 We take steps to ensure that your information is treated securely and in accordance with this Privacy Policy. Unfortunately, the Internet cannot be guaranteed to be 100% secure, and we cannot ensure or warrant the security of any information you provide to us.
 
-By using our website or providing Personal Information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of our website. If we learn of a security system’s breach, we may attempt to notify you electronically by posting a notice on our website or sending an email to you. You may have a legal right to receive this notice in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice), please notify us at [info@greenhouse.io](mailto:info@greenhouse.io).
+By using our website or providing Personal Information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of our website. If we learn of a security system’s breach, we may attempt to notify you electronically by posting a notice on our website or sending an email to you. You may have a legal right to receive this notice in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice), please notify us at [info@greenhouse.io](mailto:info@greenhouse.io).
 
-#### CHILDREN’S PRIVACY
+## CHILDREN’S PRIVACY
 
-> We do not knowingly collect information from children under 13 and we do not want it. We will take steps to delete it if we learn we have collected it.
+We do not knowingly collect information from children under 13 and we do not want it. We will take steps to delete it if we learn we have collected it.
 
-We do not knowingly collect, maintain, or use Personal Information from children under 13 years of age, and no part of our website is directed to children under the age of 13. If you learn that your child has provided us with Personal Information without your consent, you may alert us at [info@greenhouse.io](mailto:info@greenhouse.io). If we learn that we have collected any Personal Information from children under 13, we will promptly take steps to delete such information and terminate the child’s account.
+We do not knowingly collect, maintain, or use Personal Information from children under 13 years of age, and no part of our website is directed to children under the age of 13. If you learn that your child has provided us with Personal Information without your consent, you may alert us at [info@greenhouse.io](mailto:info@greenhouse.io). If we learn that we have collected any Personal Information from children under 13, we will promptly take steps to delete such information and terminate the child’s account.
 
-#### INTERNATIONAL USERS
+## INTERNATIONAL USERS
 
-> By using our website, you will transfer data to the United States.
-
-By choosing to visit our website or otherwise provide information to us, you agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the law of the state of New York and the adjudication of any disputes arising in connection with Greenhouse or our website will be in accordance with the laws of the State of New York.
-
-Safe Harbor. Greenhouse complies with the U.S.-EU and U.S.-Swiss Safe Harbor Frameworks and adheres to the Safe Harbor privacy principles. Information on both Safe Harbors may be found at <http://www.export.gov/safeharbor/>.
-
+By using our website, you will transfer data to the United States.  
+By choosing to visit our website or otherwise provide information to us, you agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the law of the state of New York and the adjudication of any disputes arising in connection with Greenhouse or our website will be in accordance with the laws of the State of New York.  
+Safe Harbor. Greenhouse complies with the U.S.-EU and U.S.-Swiss Safe Harbor Frameworks and adheres to the Safe Harbor privacy principles. Information on both Safe Harbors may be found at <http://www.export.gov/safeharbor/>.  
 If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your information to the United States and processing globally. By providing your information you consent to any transfer and processing in accordance with this Policy.
 
-#### UPDATE YOUR INFORMATION OR POSE A QUESTION OR SUGGESTION
+## UPDATE YOUR INFORMATION OR POSE A QUESTION OR SUGGESTION
 
-If you would like to update or correct any information that you have provided to us through your use of our website or otherwise, or if you have suggestions for improving this Privacy Policy, please send an email to [info@greenhouse.io](mailto:info@greenhouse.io).
+If you would like to update or correct any information that you have provided to us through your use of our website or otherwise, or if you have suggestions for improving this Privacy Policy, please send an email to[info@greenhouse.io](mailto:info@greenhouse.io).
 
-#### CHANGES TO OUR PRIVACY POLICY AND PRACTICES
+## CHANGES TO OUR PRIVACY POLICY AND PRACTICES
 
-> We may revise this Privacy Policy, so review it periodically.
-
+We may revise this Privacy Policy, so review it periodically.  
 Posting of Revised Privacy Policy. We will post any adjustments to the Privacy Policy on this web page, and the revised version will be effective when it is posted. If you are concerned about how your information is used, bookmark this page and read this Privacy Policy periodically.
 
 New Uses of Personal Information. From time to time, we may desire to use Personal Information for uses not previously disclosed in our Privacy Policy. If our practices change regarding previously collected Personal Information in a way that would be materially less restrictive than stated in the version of this Privacy Policy in effect at the time we collected the information, we will make reasonable efforts to provide notice and obtain consent to any such uses as may be required by law.
 
-### Contact Information
+##    
+Contact Information
 
 Greenhouse Software, Inc.  
-455 Broadway, 3rd Floor  
-New York, NY 10013  
+110 Fifth Avenue, 3rd Floor  
+New York, NY 10011  
 [info@greenhouse.io](mailto:info@greenhouse.io)
