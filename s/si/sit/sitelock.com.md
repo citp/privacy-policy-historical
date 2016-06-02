@@ -1,21 +1,6 @@
-> *The following text is extracted and transformed from the sitelock.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905225759id_/https%3A//www.sitelock.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitelock.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602102212id_/https%3A//www.sitelock.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Website Security | Trust Seals | Protect Your Site with SiteLock | Privacy Policy
-
-* * *
-
-**Awards**
-
-Best Website  
-Security  Best Places  
-to Work    
-Online Trust Honor Roll 
-
-* * *
-
-**Contact Us**
-
-[](https://privacy.truste.com/privacy-seal/SiteLock,-LLC/validation?rid=3fc6f9d5-9959-423e-a8a7-b516ce9bdef4 "TRUSTe European Safe Harbor certification")
+# Website Security | Privacy Policy | SiteLock
 
 ## PRIVACY POLICY 
 
@@ -51,9 +36,8 @@ SiteLock, LLC complies with the U.S. – E.U. Safe Harbor framework and the U.S.
 
 11\. **How to Access, Delete or Modify Your Information.** If your personal information changes, or if you no longer desire our service, you may correct, update, or amend it by making the change on your account settings page, request deletion by emailing our Customer Support at [support@sitelock.com ](mailto:support@sitelock.com) or by contacting us by telephone at the contact information listed below. We will respond to your request to access within 30 days.
 
-US: (877) 257-9263 
-
-International: (415) 390-2500 
+    **US:** (877) 257-9263  
+**International:** (415) 390-2500 
 
 Administrators of company accounts have the ability to add new users by inputting their name and email address. If a user of the Services desires to have their information modified or deleted, they should contact the administrator they deal with directly.
 
@@ -75,8 +59,7 @@ Our Web site also includes Social Media Features, such as the Facebook button an
 
 16\. **Contact Us.**
 
-SiteLock, LLC 
-
+SiteLock, LLC  
 Email: [support@sitelock.com ](mailto:support@sitelock.com)
 
 8800 E. Chaparral Rd.  
