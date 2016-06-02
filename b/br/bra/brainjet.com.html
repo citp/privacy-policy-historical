@@ -1,18 +1,24 @@
-<!--The following is the downloaded HTML source of the brainjet.com privacy policy that was archived on 2015-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151218004734id_/http%3A//www.brainjet.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brainjet.com privacy policy that was archived on 2016-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160602153203id_/http%3A//www.brainjet.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://s.yimg.com/wi/ytc.js" async=""></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAMGUFRTGwIFVFVSDwIH"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"de1cd26a07","agent":"js-agent.newrelic.com/nr-768.min.js","transactionName":"NVwDZBZTXEEHVUxRVgwWNEINHUJAD0BZW0BMURVdCA==","applicationID":"15040830","errorBeacon":"bam.nr-data.net","applicationTime":145}</script>
-<link rel="stylesheet" href="/static/vendor/bootstrap.3.3.5/dist/css/bootstrap.min.css">
-<link rel="stylesheet" href="/static/css/main.css">
-<link rel="icon" type="image/x-icon" href="/static/favicon.ico">
-<meta property="og:site_name" content="BrainJet.com">
-<meta name="Brainjet" content="1">
-<meta property="fb:app_id" content="1510951125789750">
-<meta property="og:url" content="http://www.brainjet.com/privacy.html">
-<link rel="stylesheet" href="/assets?v=7P6V0vf70ug8EE8yDC2RQUVtIlsQzZcIYohk8ijW0O0XDfFCiIHxd1neGPn7TJPTNgfhhBfDmM21unppQOx5Wc4Emat2XTjIIi_7CywWs6mldQ5-Vf1C-_SKHn2zbtkPxIuokBxHnhMDdTWO4_qcIBdvZCUhqBbLaVcvwdA-AGou4tiayD9T3OMZRoOQ_-imqIJEgWgiezX62uisZYBCj_Q0qoAqjxq6fHx1SB20y1Ti00TMEObj5qG26FVL4rr1pb3RrhpS_p42zlam86NsUaefuKqs4dejzUkRQakwWJfG7JBIx_gb8H1sdgzbTtTgk3T2iIBhoLEd6iSWS3NY1Y8cbs16Y34bXjIM8JkK-kcdpKPAK-QHYimAJcgNwV2pClODAQ-9yyTCfcihi_iA6aK4LGrGc68uDY1ChU7XhHXDe-3veMyKn0gosG8wCe5Y&amp;t=css&amp;u=1ef507b7594d4a34e8c448a3bd838f40332a3bc9&amp;s=UU9OG4ULEp-siscHBugHiA&amp;l=snXTknP7NMFS9s3xafqSSg">
-<title>Privacy Policy - BrainJet.com</title>
-<script type="text/javascript">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-943.min.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://s.yimg.com/wi/ytc.js" async=""></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(e,t){return function(){o(e,[(new Date).getTime()].concat(a(arguments)),null,t)}}var o=e("handle"),i=e(2),a=e(3);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var u=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(u,function(e,t){newrelic[t]=r(f+t,"api")}),i(c,function(e,t){newrelic[t]=r(f+t)}),t.exports=newrelic,newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),o("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(0>o?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?u(e,a,i):i()}function n(n,r,o){e&&e(n,r,o);for(var i=t(o),a=l(n),u=a.length,c=0;u>c;c++)a[c].apply(i,r);var s=f[g[n]];return s&&s.push([m,n,r,i]),i}function p(e,t){w[e]=l(e).concat(t)}function l(e){return w[e]||[]}function d(e){return s[e]=s[e]||o(n)}function v(e,t){c(e,function(e,n){t=t||"feature",g[n]=t,t in f||(f[t]=[])})}var w={},g={},m={on:p,emit:n,get:d,listeners:l,context:t,buffer:v};return m}function i(){return new r}var a="nr@context",u=e("gos"),c=e(2),f={},s={},p=t.exports=o();p.backlog=f},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!w++){var e=v.info=NREUM.info,t=s.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&t){c(l,function(t,n){e[t]||(e[t]=n)});var n="https"===p.split(":")[0]||e.sslForHttp;v.proto=n?"https://":"http://",u("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=v.proto+e.agent,t.parentNode.insertBefore(r,t)}}}function o(){"complete"===s.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=window,s=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},e(1);var p=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-943.min.js"},d=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),v=t.exports={offset:a(),origin:p,features:{},xhrWrappable:d};s.addEventListener?(s.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(s.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),u("mark",["firstbyte",a()],null,"api");var w=0},{}]},{},["loader"]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"5147e98a90","agent":"","transactionName":"YFJTY0FVCkJWWkAIXlkYZEVaGxRDXk9VAkgZX0VaXw==","applicationID":"14563770","errorBeacon":"bam.nr-data.net","applicationTime":217}</script>
+    <link rel="stylesheet" href="/static/vendor/bootstrap.3.3.5/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/static/css/main.css">
+    <link rel="icon" type="image/x-icon" href="/static/favicon.ico">
+            <meta property="twitter:site" content="@Brain_Jet">
+        <meta name="Brainjet" content="1">
+        <meta property="fb:app_id" content="1510951125789750">
+        <meta property="twitter:card" content="summary_large_image">
+        <meta property="og:url" content="http://www.brainjet.com/privacy.html">
+        <meta property="og:site_name" content="BrainJet.com">
+
+        <link rel="stylesheet" href="/assets?v=7P6V0vf70ug8EE8yDC2RQUVtIlsQzZcIYohk8ijW0O0XDfFCiIHxd1neGPn7TJPTNgfhhBfDmM21unppQOx5Wc4Emat2XTjIIi_7CywWs6mldQ5-Vf1C-_SKHn2zbtkPxIuokBxHnhMDdTWO4_qcIBdvZCUhqBbLaVcvwdA-AGou4tiayD9T3OMZRoOQ_-imqIJEgWgiezX62uisZYBCj_Q0qoAqjxq6fHx1SB20y1Rkox64ECEU0_D5kZ3Wk1d3Qa_R8_iI0C58VCPrAdP86F_f4tK-FSRJLmiHnYb_tK9cXqVPvlVak83tVisiMiI0dhUN1tHLWHMpP7s3K75gYyx0-rV6T9OgfqOl6Wrrw7lDsrOOWQDT9yPBjYum0HSmk279DKPlyGg8kNv3pEiRAjfym-nTTQ-hReG0UKoV3dnRLJQxpLHfpjiGtpKA_Zm1kPuh00hRJjz74FalvqQDt_7A1_CIF6JblKosiIKdqW0XEf0Z2pCJ3dUqjkpYfAL_LTwZZDA3Vsa53QWtkF2pQbEllbzofzNyJhr7U1HhKd17yx2WxdnGk7ctSpd4A7mc&amp;t=css&amp;u=51eab8f13ffdda53726f738064f97c553fee0501&amp;s=UU9OG4ULEp-siscHBugHiA&amp;l=snXTknP7NMFS9s3xafqSSg">
+
+
+    <title>Privacy Policy - BrainJet.com</title>
+
+            <script type="text/javascript">
     // Google Analytics
     window._gaq = window._gaq || [];
     window._gaq.push(['_setAccount', 'UA-51396530-1']);
@@ -23,167 +29,192 @@
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
 </script>
-</head>
+
+
+<script async="" type="text/javascript" src="http://realtime.deximedia.com/trackers/servespring.js"></script></head>
 <body>
-<div id="wrapper">
-<div class="slot" data-slot="bodytop" id="slot_bodytop">
-</div><div id="page" class="bp1">
-<div class="wheader">
-<div id="header">
-<div class="bin">
-<div class="slot" data-slot="header" id="slot_header">
-<div class="partial banner logo" data-id="p408673" data-uuid="d574e93a-3b23-4890-a4c3-23a30b23109a" data-jsparams="{}" data-layout_partial_id="408673">
-<div class="frame">
-<a href="/">
-<div class="hgroup">
-<h2>Brainjet.com</h2>
+    <div id="wrapper">
+        <div class="slot" data-slot="bodytop" id="slot_bodytop">
+    </div><div id="page" class="bp1">
+    <div class="wheader">
+        <div id="header">
+            <div class="bin">
+                <div class="slot" data-slot="header" id="slot_header">
+    <div class="partial banner logo" data-id="p408673" data-uuid="d574e93a-3b23-4890-a4c3-23a30b23109a" data-jsparams="{}" data-layout_partial_id="408673">
+            <div class="frame">
+
+        <a href="/">
+            <div class="hgroup">
+                <h2>Brainjet.com</h2>
+            </div>
+            <div class="contents">
+                Daily Cerebral Stream
+            </div>
+        </a>
+</div>
+    </div>
+    <div class="partial content_related_slideshow_ticker " data-id="p408561" data-uuid="284d1bda-1b31-4182-b739-b821261d87dc" data-jsparams="{&quot;direction&quot;: &quot;up&quot;, &quot;animation_speed&quot;: 800, &quot;stack_direction&quot;: &quot;vertical&quot;, &quot;mousestop&quot;: null, &quot;interval&quot;: 4000, &quot;animate_count&quot;: 1, &quot;stack_dir_aligned&quot;: true, &quot;debug&quot;: false, &quot;easing&quot;: true, &quot;display_count&quot;: 1}" data-layout_partial_id="408561">
+            <div class="frame">
+    <div class="hgroup">
+        <h2>The Jetstream</h2>
+    </div>
+
+    <div class="contents">
+            <div class="slide">
+                    <div class="slideshow">
+                        <a href="/places/1516461/you-wont-believe-the-crazy-things-these-hikers-have-found-in-the-woods/">
+                            You Won't Believe The Crazy Things These Adventurers Have Found In The Woods
+                        </a>
+                    </div>
+            </div>
+            <div class="slide">
+                    <div class="slideshow">
+                        <a href="/random/1517761/17-obscene-zoo-accidents-that-you-will-leave-you-shocked/">
+                            17 Obscene Zoo Accidents That You Will Leave You Shocked
+                        </a>
+                    </div>
+            </div>
+            <div class="slide">
+                    <div class="slideshow">
+                        <a href="/random/1517791/filthy-rich-kids-share-what-crazy-things-they-always-thought-was-the-norm/">
+                            Filthy Rich Kids Share What Crazy Things They Always Thought Was The Norm
+                        </a>
+                    </div>
+            </div>
+            <div class="slide">
+                    <div class="slideshow">
+                        <a href="/places/1516471/wal-mart-employees-share-their-weirdest-customer-experiences/">
+                            Wal-Mart Employees Share Their Weirdest Customer Experiences
+                        </a>
+                    </div>
+            </div>
+            <div class="slide">
+                    <div class="slideshow">
+                        <a href="/world/1516452/17-shocking-true-stories-about-world-events/">
+                            17 Shocking Lesser Known True Stories About World Events
+                        </a>
+                    </div>
+            </div>
+            <div class="slide">
+                    <div class="slideshow">
+                        <a href="/world/1516442/veterans-share-their-most-hilarious-boot-camp-stories/">
+                            Veterans Share Their Most Hilarious Boot Camp Stories
+                        </a>
+                    </div>
+            </div>
+            <div class="slide">
+                    <div class="slideshow">
+                        <a href="/world/1516432/a-real-life-disney-princess-tells-all-is-it-actually-the-happiest-place-on-earth/">
+                            A Real Life Disney Princess Tells All: Is It Actually The Happiest Place On Earth?
+                        </a>
+                    </div>
+            </div>
+            <div class="slide">
+                    <div class="slideshow">
+                        <a href="/world/290712/19-mind-blowing-historical-facts-you-wont-find-in-a-textbook/">
+                            19 Mind Blowing Historical Facts You Won't Find In A Textbook
+                        </a>
+                    </div>
+            </div>
+            <div class="slide">
+                    <div class="slideshow">
+                        <a href="/random/65281/bees/">
+                            17 Reasons Bees Are Great But Mostly The Worst
+                        </a>
+                    </div>
+            </div>
+            <div class="slide">
+                    <div class="slideshow">
+                        <a href="/random/65341/17-times-parents-were-more-impressed-than-upset-at-their-kids/">
+                            17 Times Parents Were More Impressed Than Upset At Their Kids
+                        </a>
+                    </div>
+            </div>
+    </div>
+</div>
+    </div>
+    <div class="partial content_search " data-id="p408577" data-uuid="1f019557-8aa9-4152-a9ba-02972f8e8bb8" data-jsparams="{&quot;search_route_string&quot;: &quot;/article/search/__KEYWORDS_REPLACE__.html&quot;, &quot;keyword_token&quot;: &quot;__KEYWORDS_REPLACE__&quot;}" data-layout_partial_id="408577">
+            <div class="wrap_content_search">
+    <form class="search_form" enctype="multipart/form-data" method="post" name="search_form">
+        <div class="form-contents">
+            <div class="text keyword field">
+                <label for="keyword"></label>
+                <input type="text" id="input_keywords_1f019557-8aa9-4152-a9ba-02972f8e8bb8" name="keyword" title=" " value="" class="placeholder" placeholder="Search Topics Here">
+            </div>                <input type="submit" class="submit" value="Go" id="button_1f019557-8aa9-4152-a9ba-02972f8e8bb8">
+        </div>
+    </form>
+</div>
+    </div>
+    <div class="partial share " data-id="p408641" data-uuid="5619e874-ad32-49de-8bfe-ec964ce7d70f" data-jsparams="{&quot;share_url&quot;: &quot;http://www.brainjet.com/privacy.html&quot;}" data-layout_partial_id="408641">
+                <div class="frame">
+        <div class="contents">
+            <ul>
+                    <li class="facebook"><a class="fb_share_link" href="#"><span>Facebook</span></a></li>
+<li class="twitter">
+<a target="_blank" href="https://twitter.com/brain_jet" data-show-count="false" data-show-screen-name="false"></a>
+</li>
+                    <li class="googleplusone"><g:plusone size="small" annotation="none"></g:plusone></li>
+            </ul>
+        </div>
+    </div>
+
+    </div>
+    <div class="partial topic_list " data-id="p408625" data-uuid="59fd17ea-9845-4d39-8c71-a78781788b6e" data-jsparams="{}" data-layout_partial_id="408625">
+            <div class="frame">
+    <div class="content">
+        <ul>
+                <li data-topic="random">
+                    <a title="random" href="/random/">
+                        <span>random</span>
+                    </a>
+                </li>
+                <li data-topic="pop-culture">
+                    <a title="pop-culture" href="/pop-culture/">
+                        <span>pop-culture</span>
+                    </a>
+                </li>
+                <li data-topic="world">
+                    <a title="world" href="/world/">
+                        <span>world</span>
+                    </a>
+                </li>
+                <li data-topic="places">
+                    <a title="places" href="/places/">
+                        <span>places</span>
+                    </a>
+                </li>
+        </ul>
+    </div>
+</div>
+    </div>
+    </div></div>
+        </div>
+    </div>
+    <div class="wdrawer">
+        <div id="drawer">
+            <div class="bin">
+                <div class="slot" data-slot="drawer" id="slot_drawer">
+    </div></div>
+        </div>
+    </div>
+    <div id="outer0">
+        <div id="outer1">
+            <div id="outer2">
+                <div id="outer3">
+                    <div id="middle">
+
+                        <div class="top">
+                            <div class="slot" data-slot="top" id="slot_top">
+    </div></div>
+
+                        <div class="center">
+                            <div class="slot" data-slot="center" id="slot_center">
+    <div class="partial content_static " data-id="p408593" data-uuid="9d663fa1-e981-4cc7-849e-fbb049d193ae" data-jsparams="{}" data-layout_partial_id="408593">
+            <div class="hgroup">
+    <h2>Privacy Policy</h2>
 </div>
 <div class="contents">
-Daily Cerebral Stream
-</div>
-</a>
-</div>
-</div>
-<div class="partial content_related_slideshow_ticker " data-id="p408561" data-uuid="284d1bda-1b31-4182-b739-b821261d87dc" data-jsparams="{&quot;direction&quot;: &quot;up&quot;, &quot;animation_speed&quot;: 800, &quot;stack_direction&quot;: &quot;vertical&quot;, &quot;mousestop&quot;: null, &quot;interval&quot;: 4000, &quot;animate_count&quot;: 1, &quot;stack_dir_aligned&quot;: true, &quot;debug&quot;: false, &quot;easing&quot;: true, &quot;display_count&quot;: 1}" data-layout_partial_id="408561">
-<div class="frame">
-<div class="hgroup">
-<h2>The Jetstream</h2>
-</div>
-<div class="contents">
-<div class="slide">
-<div class="slideshow">
-<a href="/locations/6152/15-signs-youre-from-cincinnati/">
-15 Signs You're From Cincinnati
-</a>
-</div>
-</div>
-<div class="slide">
-<div class="slideshow">
-<a href="/sightseeing/6157/16-classic-ballparks-and-where-to-find-them/">
-16 Classic Ballparks and Where to Find Them
-</a>
-</div>
-</div>
-<div class="slide">
-<div class="slideshow">
-<a href="/sightseeing/6162/19-unusual-stops-for-your-next-road-trip/">
-19 Unusual Stops For Your Next Road Trip
-</a>
-</div>
-</div>
-<div class="slide">
-<div class="slideshow">
-<a href="/locations/6167/19-must-dos-to-make-the-most-out-of-your-trip-to-miami/">
-19 Must Do's To Make The Most Out Of Your Trip To Miami
-</a>
-</div>
-</div>
-<div class="slide">
-<div class="slideshow">
-<a href="/locations/6172/18-reasons-why-norcal-is-way-better-than-socal/">
-18 Reasons Why NorCal Is WAY Better Than SoCal
-</a>
-</div>
-</div>
-<div class="slide">
-<div class="slideshow">
-<a href="/locations/6177/21-signs-you-are-socal-through-and-through/">
-21 Signs You Are SoCal Through and Through
-</a>
-</div>
-</div>
-<div class="slide">
-<div class="slideshow">
-<a href="/sightseeing/6182/23-random-roadside-stops-in-texas-you-would-be-upset-if-you-missed/">
-23 Random Roadside Stops In Texas You Would Be Upset If You Missed!
-</a>
-</div>
-</div>
-<div class="slide">
-<div class="slideshow">
-<a href="/sightseeing/6187/22-bizarre-museums-worth-making-the-trip/">
-22 Bizarre Museums Worth Making The Trip
-</a>
-</div>
-</div>
-<div class="slide">
-<div class="slideshow">
-<a href="/locations/6287/15-things-no-one-in-the-midwest-has-time-for/">
-15 Things No One in the Midwest Has Time For
-</a>
-</div>
-</div>
-<div class="slide">
-<div class="slideshow">
-<a href="/travel/6292/21-gas-station-foods-that-are-a-must-for-any-road-trip/">
-21 Gas Station Foods That Are A MUST For Any Road Trip
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="partial content_search " data-id="p408577" data-uuid="1f019557-8aa9-4152-a9ba-02972f8e8bb8" data-jsparams="{&quot;search_route_string&quot;: &quot;/article/search/__KEYWORDS_REPLACE__.html&quot;, &quot;keyword_token&quot;: &quot;__KEYWORDS_REPLACE__&quot;}" data-layout_partial_id="408577">
-<div class="wrap_content_search">
-<form class="search_form" enctype="multipart/form-data" method="post" name="search_form">
-<div class="form-contents">
-<div class="text keyword field">
-<label for="keyword"></label>
-<input type="text" id="input_keywords_1f019557-8aa9-4152-a9ba-02972f8e8bb8" name="keyword" title=" " value="" class="placeholder" placeholder="Search Topics Here">
-</div> <input type="submit" class="submit" value="Go" id="button_1f019557-8aa9-4152-a9ba-02972f8e8bb8">
-</div>
-</form>
-</div>
-</div>
-<div class="partial share " data-id="p408641" data-uuid="5619e874-ad32-49de-8bfe-ec964ce7d70f" data-jsparams="{&quot;share_url&quot;: &quot;http://www.brainjet.com/privacy.html&quot;}" data-layout_partial_id="408641">
-<div class="frame">
-<div class="contents">
-<ul>
-<li class="facebook"><a class="fb_share_link" href="#"><span>Facebook</span></a></li>
-<li class="twitter"><a target="_blank" href="https://twitter.com/brain_jet" data-show-count="false" data-show-screen-name="false"></a></li>
-<li class="googleplusone"><g:plusone size="small" annotation="none"></g:plusone></li>
-</ul>
-</div>
-</div>
-</div>
-<div class="partial topic_list " data-id="p408625" data-uuid="59fd17ea-9845-4d39-8c71-a78781788b6e" data-jsparams="{}" data-layout_partial_id="408625">
-<div class="frame">
-<div class="content">
-<ul>
-<li data-topic="random"><a title="random" href="/random/"><span>random</span></a></li>
-<li data-topic="pop-culture"><a title="pop-culture" href="/pop-culture/"><span>pop-culture</span></a></li>
-<li data-topic="world"><a title="world" href="/world/"><span>world</span></a></li>
-<li data-topic="places"><a title="places" href="/places/"><span>places</span></a></li>
-</ul>
-</div>
-</div>
-</div>
-</div></div>
-</div>
-</div>
-<div class="wdrawer">
-<div id="drawer">
-<div class="bin">
-<div class="slot" data-slot="drawer" id="slot_drawer">
-</div></div>
-</div>
-</div>
-<div id="outer0">
-<div id="outer1">
-<div id="outer2">
-<div id="outer3">
-<div id="middle">
-<div class="top">
-<div class="slot" data-slot="top" id="slot_top">
-</div></div>
-<div class="center">
-<div class="slot" data-slot="center" id="slot_center">
-<div class="partial content_static " data-id="p408593" data-uuid="9d663fa1-e981-4cc7-849e-fbb049d193ae" data-jsparams="{}" data-layout_partial_id="408593">
-<div class="hgroup">
-<h2>Privacy Policy</h2>
-</div>
-<div class="contents">
-<p><span style="font-size: small;">Effective as of September 21, 2015</span></p>
+	<p><span style="font-size: small;">Effective as of September 21, 2015</span></p>
 <p><span style="font-size: small;">This Privacy Policy governs the manner in which Gateway Media, LLC, a Missouri corporation (“BrainJet”) collects, uses, maintains and discloses information collected from users (“you,” “your,” or “User”) of its www.brainjet.com website, platforms, applications, and any derivative or affiliated websites on which this Privacy Policy is posted (collectively, the “Site”).&nbsp; BrainJet reserves the right, at its discretion, to change, modify, add, or remove portions of this Privacy Policy at any time by posting such changes to this page.&nbsp; You understand that you have the affirmative obligation to check this Privacy Policy periodically for changes, and you hereby agree to periodically review this Privacy Policy for such changes.&nbsp; The continued use of the Site following the posting of changes to this Privacy Policy constitutes an acceptance of those changes.&nbsp;</span></p>
 <p><span style="font-size: small;">BrainJet is based, and this website is hosted, in the United States of America.&nbsp; If you are from the European Union, Canada or other regions of the world with laws governing data collection and use that may differ from U.S. law and you are registering an account on the Site, visiting the Site, purchasing products or services from BrainJet or the Site, or otherwise using the Site, please note that any personally identifiable information that you provide to BrainJet may be transferred to or utilized by BrainJet or its affiliates in the United States.&nbsp; Any such personally identifiable information provided may be processed and stored in the United States by BrainJet or a service provider acting on its behalf.&nbsp;</span></p>
 <p><span style="font-size: small;">If you are opposed to any of the terms listed below, we ask that you please abstain from using BrainJet.</span></p>
@@ -224,142 +255,188 @@ Daily Cerebral Stream
 <p><span style="font-weight: bold;"><span style="font-size: small;">10. Contacting Us</span></span></p>
 <p><span style="font-size: small;">If you have questions, comments, or concerns regarding anything previously stated in the privacy policy or to utilize the rights contracted here please use the <a href="http://www.brainjet.com/contact.html">contact form</a>&nbsp;to contact us.</span></p>
 </div>
-</div>
-</div><div class="tab_left">
-<div class="slot" data-slot="tab_left" id="slot_tab_left">
-</div></div>
-<div class="tab_right">
-<div class="slot" data-slot="tab_right" id="slot_tab_right">
-</div></div>
-</div>
-<div class="clear"></div>
-</div>  
-</div>
-</div>
-</div>
-</div>
-<div class="wfooter">
-<div id="footer">
-<div class="bin">
-<div class="slot" data-slot="footer" id="slot_footer">
-<div class="partial banner logo" data-id="p408689" data-uuid="70194041-a297-4b47-8437-be435dd5e936" data-jsparams="{}" data-layout_partial_id="408689">
-<div class="frame">
-<a href="/">
-<div class="hgroup">
-<h2>Brainjet.com</h2>
-</div>
-<div class="contents">
-Daily Cerebral Stream
-</div>
-</a>
-</div>
-</div>
-<div class="partial link_list footer_menu" data-id="p408609" data-uuid="8b0de9f1-5f28-45ba-b6f9-38f7866d6725" data-jsparams="{}" data-layout_partial_id="408609">
-<div class="frame">
-<div class="contents">
-<ul>
-<li class="">
-<a class="linked-list" href="/about.html"><span>About</span> Us</a>
-</li>
-<li class="">
-<a class="linked-list" href="/contact.html"><span>Contact</span> Us</a>
-</li>
-<li class="">
-<a class="linked-list" href="/privacy.html"><span>Privacy</span> Policy</a>
-</li>
-<li class="">
-<a class="linked-list" href="/terms.html"><span>Terms</span> of Use</a>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="partial share share_footer" data-id="p408657" data-uuid="12c0614f-56ad-4da0-8b3d-90e8a2eb064e" data-jsparams="{&quot;share_url&quot;: &quot;http://www.brainjet.com/privacy.html&quot;}" data-layout_partial_id="408657">
-<div class="frame">
-<div class="contents">
-<ul>
-<li class="facebook"><a class="fb_share_link" href="#"><span>Facebook</span></a></li>
-<li class="twitter"><a target="_blank" href="https://twitter.com/brain_jet" data-show-count="false" data-show-screen-name="false"></a></li>
-<li class="googleplusone"><g:plusone size="small" annotation="none"></g:plusone></li>
-</ul>
-</div>
-</div>
-</div>
-</div></div>
-</div>
-</div>
-</div>
-<div class="plugins_tracker_quantcast" data-jsparams="{}">
- 
-<script type="text/javascript">
-var _qevents = _qevents || [];
+    </div>
+    </div><div class="tab_left">
+                                    <div class="slot" data-slot="tab_left" id="slot_tab_left">
+    </div></div>
+                            <div class="tab_right">
+                                <div class="slot" data-slot="tab_right" id="slot_tab_right">
+    </div></div>
 
-(function() {
-var elem = document.createElement('script');
-elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-elem.async = true;
-elem.type = "text/javascript";
-var scpt = document.getElementsByTagName('script')[0];
-scpt.parentNode.insertBefore(elem, scpt);
-})();
+                        </div>
 
-_qevents.push({
-qacct:"p-9Fx1QL2Ng0DcD"
-});
+                        <div class="clear"></div>
+
+                    </div> <!-- middle -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="wfooter">
+        <div id="footer">
+            <div class="bin">
+                <div class="slot" data-slot="footer" id="slot_footer">
+    <div class="partial banner logo" data-id="p408689" data-uuid="70194041-a297-4b47-8437-be435dd5e936" data-jsparams="{}" data-layout_partial_id="408689">
+            <div class="frame">
+
+        <a href="/">
+            <div class="hgroup">
+                <h2>Brainjet.com</h2>
+            </div>
+            <div class="contents">
+                Daily Cerebral Stream
+            </div>
+        </a>
+</div>
+    </div>
+    <div class="partial link_list footer_menu" data-id="p408609" data-uuid="8b0de9f1-5f28-45ba-b6f9-38f7866d6725" data-jsparams="{}" data-layout_partial_id="408609">
+            <div class="frame">
+
+    <div class="contents">
+        <ul>
+            <li class="">
+            <a class="linked-list" href="/about.html"><span>About</span> Us</a>
+            </li>
+            <li class="">
+            <a class="linked-list" href="/contact.html"><span>Contact</span> Us</a>
+            </li>
+            <li class="">
+            <a class="linked-list" href="/privacy.html"><span>Privacy</span> Policy</a>
+            </li>
+            <li class="">
+            <a class="linked-list" href="/terms.html"><span>Terms</span> of Use</a>
+            </li>
+        </ul>
+    </div>
+</div>
+    </div>
+    <div class="partial share share_footer" data-id="p408657" data-uuid="12c0614f-56ad-4da0-8b3d-90e8a2eb064e" data-jsparams="{&quot;share_url&quot;: &quot;http://www.brainjet.com/privacy.html&quot;}" data-layout_partial_id="408657">
+                <div class="frame">
+        <div class="contents">
+            <ul>
+                    <li class="facebook"><a class="fb_share_link" href="#"><span>Facebook</span></a></li>
+<li class="twitter">
+<a target="_blank" href="https://twitter.com/brain_jet" data-show-count="false" data-show-screen-name="false"></a>
+</li>
+                    <li class="googleplusone"><g:plusone size="small" annotation="none"></g:plusone></li>
+            </ul>
+        </div>
+    </div>
+
+    </div>
+    </div></div>
+        </div>
+    </div>
+</div>
+                <div class="plugins_tracker_quantcast" data-jsparams="{}">
+            <script type="text/javascript">
+    var _qevents = _qevents || [];
+    (function() {
+        var elem = document.createElement("script");
+        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") +
+            ".quantserve.com/quant.js";
+        elem.async = true;
+        elem.type = "text/javascript";
+        var scpt = document.getElementsByTagName("script")[0];
+        scpt.parentNode.insertBefore(elem, scpt);
+    })();
+
+    _qevents.push([{"qacct": "p-A9b8GRq-NyEYK", "label": "brainjet.com"}, {"qacct": "p-9Fx1QL2Ng0DcD", "label": "brainjet.com"}]);
 </script>
+
 <noscript>
 <div style="display:none;">
-<img src="//pixel.quantserve.com/pixel/p-9Fx1QL2Ng0DcD" border="0" height="1" width="1" alt="Quantcast"/>
+<img src="//pixel.quantserve.com/pixel?a.1=p-A9b8GRq-NyEYK&amp;a.2=p-9Fx1QL2Ng0DcD&amp;labels=brainjet.com" border="0" height="1" width="1" alt="Quantcast"/>
 </div>
 </noscript>
- 
-</div>
-<div class="plugins_tracker_facebook" data-jsparams="{&quot;pixel_id&quot;: &quot;349793285187871&quot;, &quot;user_maxage&quot;: 2635200, &quot;track_page_load&quot;: true, &quot;track_content_page_views&quot;: true, &quot;track_content_views&quot;: true}">
-</div>
-<div class="plugins_tracker_googleanalytics" data-jsparams="{&quot;analytics_number&quot;: &quot;UA-51396530-1&quot;, &quot;version&quot;: &quot;ga&quot;, &quot;custom_vars&quot;: [{&quot;index&quot;: 1, &quot;name&quot;: &quot;lmi&quot;, &quot;value&quot;: 1, &quot;scope&quot;: 3}, {&quot;index&quot;: 2, &quot;name&quot;: &quot;page&quot;, &quot;value&quot;: &quot;privacy&quot;, &quot;scope&quot;: 3}, {&quot;index&quot;: 3, &quot;name&quot;: &quot;campaign&quot;, &quot;value&quot;: &quot;null&quot;, &quot;scope&quot;: 2}, {&quot;index&quot;: 4, &quot;name&quot;: &quot;referral&quot;, &quot;value&quot;: &quot;null&quot;, &quot;scope&quot;: 2}, {&quot;index&quot;: 5, &quot;name&quot;: &quot;source&quot;, &quot;value&quot;: &quot;null&quot;, &quot;scope&quot;: 2}, {&quot;index&quot;: 6, &quot;name&quot;: &quot;AID&quot;, &quot;value&quot;: 0, &quot;scope&quot;: 2}, {&quot;index&quot;: 7, &quot;name&quot;: &quot;server&quot;, &quot;value&quot;: &quot;b29a4.23&quot;, &quot;scope&quot;: 2}, {&quot;index&quot;: 8, &quot;name&quot;: &quot;route&quot;, &quot;value&quot;: &quot;privacy&quot;, &quot;scope&quot;: 3}, {&quot;index&quot;: 22, &quot;name&quot;: &quot;__ga_custvar22&quot;, &quot;value&quot;: &quot;1&quot;, &quot;scope&quot;: 3}]}">
-</div>
-<div class="plugins_tracker_spotlight" data-jsparams="{}">
-<img src="http://t.brainjet.com/page_views?lid=17041&amp;uid=4d226306-e66f-489d-b8db-322dee0f6452&amp;pid=411d4e1d-ef35-4bc2-8b46-25815a12249c&amp;site=BNJ&amp;lmi=1&amp;s=b29a4.23&amp;sid=008916ef-e180-41ed-b0f7-d8f4fc299e26&amp;page=privacy">
-</div>
-<div class="plugins_metalmi" data-jsparams="{}">
-</div>
-<div class="plugins_jsparams" data-jsparams="{}">
-</div>
-<div class="plugins_corpfooter" data-jsparams="{}">
-<div class="corpfooter"><a href="http://www.gatewaymedia.com/"><span>Gateway Media</span> © 2015</a></div>
-</div>
-<div class="plugins_opengraph" data-jsparams="{}">
-</div>
-<div class="plugins_tracker_ysa" data-jsparams="{}">
-<script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'1000772689113','properties':{'pixelId':'431002'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script>
-<img src="https://sp.analytics.yahoo.com/spp.pl?a=1000772689113&amp;.yp=431002">
-</div>
-<div class="plugins_tracker_comscore" data-jsparams="{}">
-<script>
-    var _comscore = _comscore || [];
-    _comscore.push({ c1: "2", c2: "20010279" });
-    (function() {
-    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-    el.parentNode.insertBefore(s, el);
-    })();
-    </script>
-<noscript>
-<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=20010279&amp;cv=2.0&amp;cj=1"/>
-</noscript>
-</div>
-</div>
-<script src="/static/vendor/jquery.2.1.4/dist/jquery.min.js" type="text/javascript"></script>
-<script src="/static/vendor/slick.1.5.7/slick/slick.js" type="text/javascript"></script>
-<script src="/static/js/googleplusone/googleplusone.1.0.0.js" type="text/javascript"></script>
-<script src="/static/js/storage/jigsaw_storage.1.0.0.js" type="text/javascript"></script>
-<script src="/static/js/pubsub/jigsaw_pubsub.1.0.0.js" type="text/javascript"></script>
-<script src="/static/js/logger/jigsaw_logger.1.0.0.js" type="text/javascript"></script>
-<script src="/assets?v=7P6V0vf70ug8EE8yDC2RQUVtIlsQzZcIYohk8ijW0O0XDfFCiIHxd1neGPn7TJPTNgfhhBfDmM21unppQOx5Wc4Emat2XTjIIi_7CywWs6mldQ5-Vf1C-_SKHn2zbtkPxIuokBxHnhMDdTWO4_qcIBdvZCUhqBbLaVcvwdA-AGou4tiayD9T3OMZRoOQ_-imqIJEgWgiezX62uisZYBCj_Q0qoAqjxq6fHx1SB20y1Ti00TMEObj5qG26FVL4rr1pb3RrhpS_p42zlam86NsUaefuKqs4dejzUkRQakwWJfG7JBIx_gb8H1sdgzbTtTgk3T2iIBhoLEd6iSWS3NY1Y8cbs16Y34bXjIM8JkK-kcdpKPAK-QHYimAJcgNwV2pClODAQ-9yyTCfcihi_iA6aK4LGrGc68uDY1ChU7XhHXDe-3veMyKn0gosG8wCe5Y&amp;t=js&amp;u=1ef507b7594d4a34e8c448a3bd838f40332a3bc9" type="text/javascript"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
-/* ]]> */
+<!-- End Quantcast tag -->
+        </div>
+        <div class="plugins_tracker_facebook" data-jsparams="{&quot;pixel_id&quot;: &quot;349793285187871&quot;, &quot;user_maxage&quot;: 2635200, &quot;track_page_load&quot;: true, &quot;track_content_page_views&quot;: true, &quot;track_content_views&quot;: true}">
+            
+        </div>
+        <div class="plugins_tracker_googleanalytics" data-jsparams="{&quot;analytics_number&quot;: &quot;UA-51396530-1&quot;, &quot;campaign_source&quot;: null, &quot;version&quot;: &quot;ga&quot;, &quot;ga_page_views&quot;: true, &quot;custom_vars&quot;: [{&quot;index&quot;: 1, &quot;name&quot;: &quot;lmi&quot;, &quot;value&quot;: 1, &quot;scope&quot;: 3}, {&quot;index&quot;: 2, &quot;name&quot;: &quot;server&quot;, &quot;value&quot;: &quot;bdbc1.22&quot;, &quot;scope&quot;: 2}, {&quot;index&quot;: 3, &quot;name&quot;: &quot;AID&quot;, &quot;value&quot;: 0, &quot;scope&quot;: 2}, {&quot;index&quot;: 4, &quot;name&quot;: &quot;referral&quot;, &quot;value&quot;: &quot;null&quot;, &quot;scope&quot;: 2}], &quot;campaign_name&quot;: null}">
+            
+        </div>
+        <div class="plugins_metalmi" data-jsparams="{}">
+            
+        </div>
+        <div class="plugins_jsparams" data-jsparams="{}">
+            
+        </div>
+        <div class="plugins_corpfooter" data-jsparams="{}">
+            <div class="corpfooter"><a href="http://www.gatewaymedia.com/"><span>Gateway Media</span> ©copyright 2016</a></div>
+        </div>
+        <div class="plugins_opengraph" data-jsparams="{}">
+            
+        </div>
+        <div class="plugins_metatags" data-jsparams="{}">
+            
+        </div>
+        <div class="plugins_tracker_serverspring" data-jsparams="{}">
+            <script type="text/javascript">
+    (function(w,d,q,c,s) {
+        if (!w._servespring)
+            w._servespring={parameter:q,cookie:c};
+        s=document.createElement('script');s.async=1;s.type="text/javascript";
+        s.src="http://realtime.deximedia.com/trackers/servespring.js";
+        d.getElementsByTagName('head')[0].appendChild(s);
+    })(window,document,'_ssuid','_ssuid');
 </script>
+        </div>
+        <div class="plugins_twittercard" data-jsparams="{}">
+            
+        </div>
+        <div class="plugins_tracker_ysa" data-jsparams="{}">
+            <script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'1000772689113','properties':{'pixelId':'431002'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script>
+<img src="https://sp.analytics.yahoo.com/spp.pl?a=1000772689113&amp;.yp=431002">
+        </div>
+        <div class="plugins_tracker_comscore" data-jsparams="{}">
+            <script>
+        (function() {
+            var _comscore_ids = [{"c2": "21229662", "c1": "2"}];
+            window._comscore = window._comscore || [];
+            for (var i = 0; i < _comscore_ids.length; i++) {
+                window._comscore.push(_comscore_ids[i]);
+            }
 
+            (function() {
+                var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+                s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+                el.parentNode.insertBefore(s, el);
+            })();
+        })();
+    </script>
+    <noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=21229662&amp;cv=2.0&amp;cj=1"/>
+</noscript>
+        </div>
+        <div class="plugins_tracker_dfp" data-jsparams="{&quot;page_depth_indicator_key&quot;: &quot;page&quot;, &quot;page_depth_indicator_prefix&quot;: &quot;n&quot;}">
+            
+        </div>
+        <div class="plugins_tracker_spotlight" data-jsparams="{&quot;track_content_page_changes&quot;: true, &quot;spotlight_url&quot;: &quot;http://t.brainjet.com&quot;, &quot;data&quot;: {&quot;lid&quot;: 17041, &quot;pub_id&quot;: null, &quot;medium&quot;: null, &quot;uid&quot;: &quot;9f7657ed-14e8-4133-84ab-91a6531ec9da&quot;, &quot;lmi&quot;: 1, &quot;pid&quot;: &quot;6cab1d66-a6b9-4351-9f2c-2197e8fbc595&quot;, &quot;site&quot;: &quot;BNJ&quot;, &quot;source&quot;: null, &quot;s&quot;: &quot;bdbc1.22&quot;, &quot;adgroup&quot;: null, &quot;sid&quot;: &quot;0ce5d702-d67d-4b56-8fc3-45de3edbbeaa&quot;, &quot;content_id&quot;: null, &quot;page&quot;: &quot;privacy&quot;}, &quot;track_ad_opportunities&quot;: true}">
+            <div class="container" style="height: 1px; width: 1px; visibility: hidden; overflow: hidden;">
+    <img src="http://t.brainjet.com/page_views?lid=17041&amp;uid=9f7657ed-14e8-4133-84ab-91a6531ec9da&amp;pid=6cab1d66-a6b9-4351-9f2c-2197e8fbc595&amp;site=BNJ&amp;lmi=1&amp;s=bdbc1.22&amp;sid=0ce5d702-d67d-4b56-8fc3-45de3edbbeaa&amp;page=privacy">
+</div>
+        </div>
+        <div class="plugins_embedswap" data-jsparams="{}">
+            
+        </div>
+
+    </div>
+                <script src="/static/vendor/jquery.2.1.4/dist/jquery.min.js" type="text/javascript"></script>
+
+            <script src="/static/vendor/slick.1.5.7/slick/slick.js" type="text/javascript"></script>
+
+            <script src="/static/js/googleplusone/googleplusone.1.0.0.js" type="text/javascript"></script>
+
+            <script src="/static/js/storage/jigsaw_storage.1.0.0.js" type="text/javascript"></script>
+
+            <script src="/static/js/pubsub/jigsaw_pubsub.1.0.1.js" type="text/javascript"></script>
+
+            <script src="/static/js/logger/jigsaw_logger.1.0.0.js" type="text/javascript"></script>
+
+            <script src="/assets?v=7P6V0vf70ug8EE8yDC2RQUVtIlsQzZcIYohk8ijW0O0XDfFCiIHxd1neGPn7TJPTNgfhhBfDmM21unppQOx5Wc4Emat2XTjIIi_7CywWs6mldQ5-Vf1C-_SKHn2zbtkPxIuokBxHnhMDdTWO4_qcIBdvZCUhqBbLaVcvwdA-AGou4tiayD9T3OMZRoOQ_-imqIJEgWgiezX62uisZYBCj_Q0qoAqjxq6fHx1SB20y1Rkox64ECEU0_D5kZ3Wk1d3Qa_R8_iI0C58VCPrAdP86F_f4tK-FSRJLmiHnYb_tK9cXqVPvlVak83tVisiMiI0dhUN1tHLWHMpP7s3K75gYyx0-rV6T9OgfqOl6Wrrw7lDsrOOWQDT9yPBjYum0HSmk279DKPlyGg8kNv3pEiRAjfym-nTTQ-hReG0UKoV3dnRLJQxpLHfpjiGtpKA_Zm1kPuh00hRJjz74FalvqQDt_7A1_CIF6JblKosiIKdqW0XEf0Z2pCJ3dUqjkpYfAL_LTwZZDA3Vsa53QWtkF2pQbEllbzofzNyJhr7U1HhKd17yx2WxdnGk7ctSpd4A7mc&amp;t=js&amp;u=51eab8f13ffdda53726f738064f97c553fee0501" type="text/javascript"></script>
+
+
+<script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
 </body></html>
