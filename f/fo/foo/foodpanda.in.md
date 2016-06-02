@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodpanda.in privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316123008id_/https%3A//www.foodpanda.in/contents/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodpanda.in privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602152013id_/https%3A//www.foodpanda.in/contents/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy at Foodpanda
 
@@ -18,11 +18,11 @@ Most web browsers allow some control of most cookies through the browser setting
 
 **How will we use the information we collect from you?**
 
-Information that we collect from you is used to process your order and to manage your account. We may also use your information to email you about other products or services that we think may be of interest to you.
+Information that we collect from you is used to process your order and to manage your account. We may also use your information to email or SMS you about other products or services that we think may be of interest to you. However, to unsubscibe the promotional SMS, give us a missed call at 08033509017.
 
 In processing your order we may send your information to credit reference and fraud prevention agencies.
 
-From time to time we may send your information to third parties which we consider may have goods or services which are of interest to you. If you do not wish to be contacted by third parties please email us at [support@foodpanda.in](mailto:support@foodpanda.in)
+From time to time we may send your information to third parties which we consider may have goods or services which are of interest to you. If you do not wish to be contacted by third parties please email us at [support@foodpanda.in](mailto:support@foodpanda.in). 
 
 **Access to your information**
 
