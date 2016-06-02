@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rainier.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910033616id_/http%3A//www.rainier.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainier.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602221718id_/http%3A//www.rainier.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Rainier Industries
 
@@ -26,7 +26,7 @@ Rainier websites will disclose your personal information, without notice, only i
 
 ### Use of Cookies
 
-The Rainier website uses “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+The Rainier website uses "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
 One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Rainier pages, or register with Rainier site or services, a cookie helps Rainier to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Rainier website, the information you previously provided can be retrieved, so you can easily use the Rainier features that you customized.
 
