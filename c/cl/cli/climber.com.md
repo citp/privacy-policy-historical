@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the climber.com privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928072706id_/http%3A//www.climber.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the climber.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602125612id_/http%3A//climber.com/privacy) for the most accurate reproduction.*
 
-# Climber.com
+# Climber.com - Connect to Recruiters, Career Social Networking, Career and Job Search
 
 At Climber.com, we value your privacy. This privacy policy was created to provide a clear explanation of how your personal information and privacy will be safeguarded.
 
@@ -74,3 +74,6 @@ Other - In the event that Climber.com sells, assigns or transfers some or all of
 Links to Other Sites - This site contains links to other sites. Please be aware that Climber.com does not exercise control over the information, products, services or policies of third party companies accessible through our site. We encourage our users to be aware when they leave our site and to read the privacy policies of each and every third party site. This Privacy Policy applies solely to the information collected by this site.
 
 Changes to Privacy Policy - Climber.com reserves the right to update this Privacy Policy at any point. Users will always have access to our current Privacy Policy by visiting www.Climber.com.
+
+  
+
