@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the airspacemag.com privacy policy that was archived on 2015-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151202094821id_/http%3A//www.airspacemag.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the airspacemag.com privacy policy that was archived on 2016-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160603003607id_/http%3A//www.airspacemag.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><!--<![endif]--><head>
     
@@ -116,6 +116,9 @@
   //  STATIC_URL
   window.$smith = window.$smith ? window.$smith : {};
   window.$smith.STATIC_URL = 'http://static.media.smithsonianmag.com/';
+  
+  window.$smith.LOGO_URL = 'http://static.media.smithsonianmag.com/img/airspace-logo.svg';
+  
 </script>
 
 
@@ -136,10 +139,18 @@
     <script>
     googletag.cmd.push(function () {
         googletag.defineOutOfPageSlot(GPT.path, 'div-gpt-ad-chuckweasley-outofpage')
-            .addService(googletag.pubads())
             .setTargeting('pos', 'top')
-            .setTargeting('slug', GPT.slug)
+            .setTargeting('site', GPT.SITE)
             .setTargeting('cat', GPT.cats)
+            .setTargeting('tag', GPT.tag)
+            .setTargeting('type', GPT.type)
+            .setTargeting('special', GPT.specials)
+            .setTargeting('slug', GPT.slug)
+            .setTargeting('contenttype', GPT.contenttype)
+            .setTargeting('contest', GPT.contest)
+            .setTargeting('camera', GPT.camera)
+            .setTargeting('awards', GPT.awards)
+            .addService(googletag.pubads());
             //googletag.enableServices();
     })
     </script>
@@ -154,12 +165,6 @@
 
 <!-- Font Awesome -->
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-
-
-<!-- START OF Chartbeat -->
-<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
-<!-- END OF Chartbeat -->
-
 
 <!-- BEGIN Quantcast Tag -->
 <script type="text/javascript">
@@ -187,7 +192,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
     
 <script type="text/javascript" async="" src="http://s.dpmsrv.com/dpm_16b06bd9b738835e2d134fe8d596e9ab0086a985.min.js"></script></head>
-<body class=" flat-page flat-page">
+<body class="wwwairspacemagcom flat-page flat-page">
 
 
 
@@ -195,7 +200,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <a name="top"></a>
 
-<nav class="jump-nav" role="list">
+<nav class="jump-nav">
     <h2>Accessibility Navigation</h2>
     <a href="#Primary-Navigation">Primary Navigation</a>
     <a href="#Page-Content">Content</a>
@@ -203,11 +208,32 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <div class="header-wrapper wrapper">
     <header class="site-header">
-        <a class="toggle" href="#left"><i class="icon icon-large icon-reorder"> </i></a>
-        <a class="share" href="#share"><i class="icon icon-large icon-share"> </i></a>
+        <a class="toggle" href="#left"><i class="icon icon-large icon-reorder"><span class="outofsight">Toggle</span></i></a>
+        <a class="share" href="#share"><i class="icon icon-large icon-share"><span class="outofsight">Share</span></i></a>
+        <!--===== MOBILE SEARCH =====-->
+        <i class="fa fa-search mobile-search-icon"><span class="outofsight">Search</span></i>
+        <i class="fa fa-times mobile-search-close"><span class="outofsight">Search Close</span></i>
+        <div id="mobile-search">
+            <form method="GET" action="." data-suggest-url="/search/suggest/" class="search-form with-suggest">
+                
+                    <label for="id_q"><span class="outofsight">Search</span>
+                        <input placeholder="Search" id="id_q" name="q" type="text" class="tt-query" autocomplete="off" spellcheck="false" dir="auto" style="position: relative; vertical-align: top; background-color: transparent;">
+                    </label>
+                    
+                    
+                    
+                <button type="submit" class="btn-primary" onclick="mobileSearchURL()">Search</button>
+            </form>
+        </div>
+        <!--===== END MOBILE SEARCH =====-->
 
         <!-- Used for mobile navigation -->
-        <a href="/" class="logo"></a>
+        <a href="/" class="logo"><span class="outofsight">Air &amp; Space Magazine</span></a>
+        
+            <a href="https://subscribe.airspacemag.com/airspace.php?idx=242&amp;inetz=mobile-header-subscribe&amp;ipromo=|perm|sub|text|mobile-header||red|button|" class="magazine-mobile-subscribe">
+                <div class="btn btn-primary magazine-mobile-signup-form-subscribe-button">Subscribe</div>
+            </a>
+        
 
         <div class="aux-nav">
 
@@ -230,10 +256,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
             <form method="get" action="/search/" id="Search-Box" class="search-box">
                 <fieldset>
+                    <legend class="outofsight">Search</legend>
                     <button type="submit">Search</button>
-                    <input placeholder="search" id="nav-search" class="tt-query">
-                    <a class="search-trigger" onclick="navSearchURL()">
-                        <i class="icon icon-large icon-search" title="Start a Search"> </i>
+                    <label for="nav-search"><span class="outofsight">Search</span></label>
+                        <input placeholder="search" id="nav-search" class="tt-query">
+                    <a class="search-trigger" href="javascript:;" onclick="navSearchURL()">
+                        <i class="icon icon-large icon-search" title="Start a Search"><span class="outofsight">Search</span></i>
                     </a>
                 </fieldset>
             </form>
@@ -241,52 +269,36 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div class="nav-subscribe-box">
                 <div class="nav-subscribe-list">
                     <div class="nav-subscribe-option">
-                        <a href="https://subscribe.airspacemag.com/airspace.php?idx=240&amp;inetz=header-2-C&amp;ipromo=|perm|sub|47pct|header|Jan-14|cover|80x105|price-ctrl" class="omz-header-right-subscribe">SUBSCRIBE</a>
+                        <a href="https://subscribe.airspacemag.com/airspace.php?idx=240&amp;inetz=header-whitetext&amp;ipromo=%7Cperm%7Csub%7C47pct%7Cheader%7C%7Cred%7C280x32%7C" class="omz-header-right-subscribe">SUBSCRIBE</a>
                     </div>
                     <div class="nav-subscribe-option">
-                        <a href="https://subscribe.airspacemag.com/airspace_renew.php?idx=171&amp;inetz=header-2-C&amp;ipromo=|perm|ren|30-pct|header|Jan-14|black|80x105|price-ctrl" class="omz-header-right-renew">RNEW</a>
+                        <a href="https://subscribe.airspacemag.com/airspace_renew.php?idx=171&amp;inetz=header-whitetext&amp;ipromo=%7Cperm%7Cren%7C30-pct%7Cheader%7C%7Cred%7C280x32%7C" class="omz-header-right-renew">RENEW</a>
                     </div>
                     <div class="nav-subscribe-option">
-                        <a href="https://subscribe.airspacemag.com/airspace_gift.php?idx=172&amp;inetz=header-2-C&amp;ipromo=|perm|gift|30-pct|header|Jan-14|black|80x105|price-ctrl" class="omz-header-right-gift">GIVE A GIFT</a>
+                        <a href="https://subscribe.airspacemag.com/airspace_gift.php?idx=172&amp;inetz=header-whitetext&amp;ipromo=%7Cperm%7Cgift%7C30-pct%7Cheader%7C%7Cred%7C280x32%7C" class="omz-header-right-gift">GIVE A GIFT</a>
                     </div>
                 </div>
                 <div class="nav-current-issue">
-                    <a href="https://subscribe.airspacemag.com/airspace.php?idx=240&amp;inetz=header-2-C&amp;ipromo=|perm|sub|47pct|header|Jan-14|red|80x105|price-ctrl" class="omz-header-right-subscribe-image"><img src="http://thumbs.media.smithsonianmag.com//filer/18/95/189549f6-1ffc-46bd-aa28-fe2872d10a12/dj2016_webcover.jpg__192x256_q85.jpg" alt="January 2016 magazine cover" id="subscribe-dropdown-cover-art" class="cover" style="border-left: 1px solid #000; border-right: 1px solid #000;"></a>
+                    <a href="https://subscribe.airspacemag.com/airspace.php?idx=240&amp;inetz=header-2-C&amp;ipromo=|perm|sub|47pct|header|Jan-14|red|80x105|price-ctrl" class="omz-header-right-subscribe-image"><img src="http://thumbs.media.smithsonianmag.com//filer/33/f4/33f44b2a-b4ab-4f86-a394-c4b34a54d4d7/airspace_jj16_cover_144_v.png__192x256_q85.jpg" alt="July 2016 magazine cover" id="subscribe-dropdown-cover-art" class="cover" style="border-left: 1px solid #000; border-right: 1px solid #000;"></a>
                 </div>
             </div>
 
         </div>
-
-        <!--===== MOBILE SEARCH =====-->
-        <i class="fa fa-search mobile-search-icon"></i>
-        <i class="fa fa-times mobile-search-close"></i>
-        <div id="mobile-search">
-            <form method="GET" action="." data-suggest-url="/search/suggest/" class="search-form with-suggest">
-                
-                    <input class="tt-hint" type="text" autocomplete="off" spellcheck="off" disabled="" style="position: absolute; top: 0px; left: 0px; border-color: transparent; box-shadow: none; background: none 0% 0% / auto repeat scroll padding-box border-box rgb(255, 255, 255);">
-                    <input placeholder="Search" id="id_q" name="q" type="text" class="tt-query" autocomplete="off" spellcheck="false" dir="auto" style="position: relative; vertical-align: top; background-color: transparent;">
-                    
-                    
-                    
-                <button type="submit" class="btn-primary" onclick="mobileSearchURL()">Search</button>
-            </form>
-        </div>
-        <!--===== END MOBILE SEARCH =====-->
 
     </header>
 
     <!--===== MAIN NAV MENU =====-->
     <div class="nav-wrapper-bg">
         <div class="nav-wrapper">
-            <nav class="primary-nav nav" id="Primary-Navigation" role="navigation">
-                <span class="nav-btn-item subscribe-nav-link">
+            <nav class="primary-nav nav" id="Primary-Navigation">
+                <div class="nav-btn-item subscribe-nav-link">
                     <a href="https://subscribe.airspacemag.com/airspace.php?idx=240&amp;inetz=www-page-top-nav-L-C&amp;ipromo=|perm|sub|47pct|text||red||price-ctrl" class="nav-btn-item subscribe external-nav-link omz-sticky-subscribe" id="subscribe-trigger">Subscribe</a>
                     <div class="subscribe-menu">
                         
 
 <div class="current-issue">
     <h6 class="headline">Current Issue</h6>
-        <a href="https://subscribe.airspacemag.com/airspace.php?idx=240&amp;inetz=www-page-top-dropdown-L-C&amp;ipromo=|perm|sub|47pct|dropdown|Jan-14|red|325x215|price-ctrl" class="omz-thumb-subscribe" id="www-top-rollover-thumb"><img src="http://thumbs.media.smithsonianmag.com//filer/18/95/189549f6-1ffc-46bd-aa28-fe2872d10a12/dj2016_webcover.jpg__192x256_q85.jpg" alt="January 2016 magazine cover" class="cover"></a>
+        <a href="https://subscribe.airspacemag.com/airspace.php?idx=240&amp;inetz=www-page-top-dropdown-L-C&amp;ipromo=|perm|sub|47pct|dropdown|Jan-14|red|325x215|price-ctrl" class="omz-thumb-subscribe" id="www-top-rollover-thumb"><img src="http://thumbs.media.smithsonianmag.com//filer/33/f4/33f44b2a-b4ab-4f86-a394-c4b34a54d4d7/airspace_jj16_cover_144_v.png__192x256_q85.jpg" alt="July 2016 magazine cover" class="cover"></a>
 </div>
 
 <section class="offer-options">
@@ -310,7 +322,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </section>
 
                     </div>
-                </span>
+                </div>
 
                 
 
@@ -320,94 +332,94 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-<span class="nav-btn-item">
-    <a href="/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/" class="nav-btn">
         Homepage
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/daily-planet/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/daily-planet/" class="nav-btn">
         Daily Planet
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/flight-today/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/flight-today/" class="nav-btn">
         Flight Today
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/space-exploration/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/space-exploration/" class="nav-btn">
         Space
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/military-aviation/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/military-aviation/" class="nav-btn">
         Military
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/history-of-flight/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/history-of-flight/" class="nav-btn">
         History of Flight
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/interviews/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/interviews/" class="nav-btn">
         Interviews
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/need-to-know/" class="nav-btn ">
-        Need to Know
-    </a>
-
-    
-</span>
-
-<span class="nav-btn-item last">
-    <a href="/photos/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/photos/" class="nav-btn">
         Photos
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item last">
-    <a href="/videos/" class="nav-btn ">
+<div class="nav-btn-item last">
+    <a href="/videos/" class="nav-btn">
         Videos
     </a>
 
     
-</span>
+</div>
+
+<div class="nav-btn-item last">
+    <a href="/virtual-space/" class="nav-btn">
+        Virtual Space
+    </a>
+
+    
+</div>
 
 
 
 
-                <span class="nav-btn-item shop-nav-link">
+                <div class="nav-btn-item shop-nav-link">
                     
                     <a href="http://www.smithsonianstore.com/home.jsp?sourceCode=MAGAD12&amp;utm_source=Airspacemag.com&amp;utm_medium=module&amp;utm_campaign=topdropdown" class="nav-btn-item shop external-nav-link" id="shop-trigger">Shop</a>
                     
-                </span>
+                </div>
             </nav>
         </div>
     </div>
@@ -456,10 +468,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     Interviews
 </a>
 
-<a href="/need-to-know/" class="nav-btn hidden">
-    Need to Know
-</a>
-
 <a href="/photos/" class="nav-btn hidden">
     Photos
 </a>
@@ -468,11 +476,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     Videos
 </a>
 
+<a href="/virtual-space/" class="nav-btn hidden">
+    Virtual Space
+</a>
+
 
 
                 <div class="more nav-btn-item">
                     <a class="nav-btn more">
-                        <i class="icon-plus"> </i>
+                        <i class="icon-plus"><span class="outofsight">+</span></i>
                     </a>
 
                     <div class="sub-menu">
@@ -481,11 +493,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <a class="nav-btn" href="/photos/">Photos</a>
 <a class="nav-btn" href="/videos/">Videos</a>
 
-
-                        <a href="https://subscribe.airspacemag.com/airspace.php?idx=240&amp;inetz=sticky-top-nav-L-C&amp;ipromo=|perm|sub|47pct|text||red||price-ctrl" class="nav-btn-item subscribe external-nav-link omz-scroll-subscribe" id="sticky-subscribe-nav-link">Subscribe</a>
-                        
-                        <a href="http://www.smithsonianstore.com/home.jsp?sourceCode=MAGAD12&amp;utm_source=Airspacemag.com&amp;utm_medium=module&amp;utm_campaign=topdropdown" class="nav-btn-item shop external-nav-link">Shop</a>
-                        
                     </div>
                 </div>
 
@@ -499,17 +506,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                  
                 <a href="http://www.airspacemag.com/search/">
                     <div class="scroll-nav-search">
-                        <i class="fa fa-search"></i>
+                        <i class="fa fa-search"><span class="outofsight">Search</span></i>
                     </div>
                 </a>
                 <div class="scroll-nav-social-item">
                     <a href="https://www.facebook.com/AirSpaceMag" rel="facebook">
-                        <i class="icon icon-large icon-facebook" title="Facebook"> </i>
+                        <i class="icon icon-large icon-facebook" title="Facebook"><span class="outofsight">Facebook</span></i>
                     </a>
                 </div>
                 <div class="scroll-nav-social-item">
                     <a href="https://twitter.com/#!/airspacemag" rel="twitter">
-                        <i class="icon icon-large icon-twitter" title="Twitter"> </i>
+                        <i class="icon icon-large icon-twitter" title="Twitter"><span class="outofsight">Twitter</span></i>
                     </a>
                 </div>
                 
@@ -530,39 +537,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
 </div>
 
-<div class="sub-header-shop" id="shop"></div>
-<!-- <div class="subscribe-menu">
-    
-
-<div class="current-issue">
-    <h6 class="headline">Current Issue</h6>
-        <a href="https://subscribe.airspacemag.com/airspace.php?idx=240&amp;inetz=www-page-top-dropdown-L-C&amp;ipromo=|perm|sub|47pct|dropdown|Jan-14|red|325x215|price-ctrl" class="omz-thumb-subscribe" id="www-top-rollover-thumb"><img src="http://thumbs.media.smithsonianmag.com//filer/18/95/189549f6-1ffc-46bd-aa28-fe2872d10a12/dj2016_webcover.jpg__192x256_q85.jpg" alt="January 2016 magazine cover" class="cover"/></a>
-</div>
-
-<section class="offer-options">
-    <h5 class="headline">Subscribe</h5>
-    <p class="deal-info">Save 47% off the cover price!</p>
-
-    <ul class="subscribe-options">
-        
-            <li><a href="https://subscribe.airspacemag.com/airspace.php?idx=240&amp;inetz=www-page-top-dropdown-L-C&amp;ipromo=|perm|sub|47pct|dropdown|Jan-14|cover|325x215|price-ctrl" class="omz-dropdown-subscribe" id="www-top-rollover-new">Subscribe</a></li>
-        
-        
-            <li><a href="https://subscribe.airspacemag.com/airspace_renew.php?idx=171&amp;inetz=www-page-top-dropdown-L-C&amp;ipromo=|perm|ren|30-pct|dropdown|Jan-14|red|325x215|price-ctrl" class="omz-dropdown-renew" id="www-top-rollover-renew">Renew</a></li>
-        
-        
-            <li><a href="https://subscribe.airspacemag.com/airspace_gift.php?idx=172&amp;inetz=www-page-top-dropdown-L-C&amp;ipromo=|perm|gift|30-pct|dropdown|Jan-14|red|325x215|price-ctrl" class="omz-dropdown-gift" id="www-top-rollover-gift">Give a Gift</a></li>
-        
-        
-            <li><a href="https://itunes.apple.com/us/app/air-space-magazine/id622778539?mt=8" class="omz-dropdown-digital" id="www-top-rollover-digital">Digital Edition</a></li>
-        
-    </ul>
-</section>
-
-</div> -->
-
 <div class="header-ad-wrapper">
-    <div id="ATF_728x90_970x250_970x90" data-cb-ad-id="leaderboard" class="cbv-ad" style="">
+    <div id="ATF_728x90_970x250_970x90" class="cbv-ad" style="">
     <div id="div-gpt-ad-chuckweasley-1" class="ad-slot" data-ad-settings="desktopMain"></div>
 </div>
 </div>
@@ -574,7 +550,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <div class="side-nav">
     <nav class="side-primary-nav nav">
-		<a href="https://subscribe.airspacemag.com/airspace.php?idx=240&amp;inetz=mobile-menu-subscribe-L-C&amp;ipromo=|perm|sub|54pct|mobile-menu||grey||price-ctrl" rel="nofollow" target="_blank" class="nav-btn" title="Subscribe">Subscribe</a>
+		<a href="https://subscribe.airspacemag.com/airspace.php?idx=240&amp;inetz=mobile-header-subscribe-red&amp;ipromo=|perm|sub|47pct|mobile-header||red||" rel="nofollow" target="_blank" id="mobile-subscribe-side-menu" class="nav-btn" title="Subscribe" style="background: #ff0202;">Subscribe</a>
 
         
         <a href="http://www.smithsonianstore.com/?sourceCode=MAGAD12&amp;utm_source=Smithsonianmag.com&amp;utm_medium=module&amp;utm_campaign=topdropdown" rel="nofollow" target="_blank" class="nav-btn" title="Shop">Shop</a>
@@ -597,18 +573,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <a href="/interviews/" class="nav-btn ">Interviews</a>
 
-<a href="/need-to-know/" class="nav-btn ">Need to Know</a>
-
 <a href="/photos/" class="nav-btn ">Photos</a>
 
 <a href="/videos/" class="nav-btn ">Videos</a>
 
+<a href="/virtual-space/" class="nav-btn ">Virtual Space</a>
 
 
-        <a href="/issue/january-2016/" class="nav-btn">Magazine</a>
-        <a href="http://reg.email.smithsonian.com/regp?aid=725681731&amp;n=1&amp;SOURCE_ID=MOL" class="nav-btn" rel="newsletter">
-            Newsletters
-        </a>
+
+        <a href="/issue/july-2016/" class="nav-btn">Magazine</a>
+        <a href="http://reg.email.smithsonian.com/regp?aid=725681731&amp;n=1&amp;SOURCE_ID=MOL" class="nav-btn" rel="newsletter">Newsletters</a>
 
     </nav>
 
@@ -635,7 +609,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="main-wrapper" id="Page-Content" role="main">
     
 
-    <div id="ATF_320x50_300x50_300x250" data-cb-ad-id="mobileTop" class="cbv-ad" style="">
+    <div id="ATF_320x50_300x50_300x250" class="cbv-ad" style="">
     <div id="div-gpt-ad-chuckweasley-mobile-1" class="ad-slot ad-mobile" data-ad-settings="mobileMain"></div>
 </div>
 
@@ -721,33 +695,34 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <div class="magazine-signup">
     <div class="issue-promo">
-        <h6 class="headline">Current Issue | <time class="issue-date">January 2016</time></h6>
+        <h6 class="headline">Current Issue | <time class="issue-date">July 2016</time></h6>
 
 		
-	        <a href="/issue/january-2016/" class="more"><img src="http://thumbs.media.smithsonianmag.com//filer/18/95/189549f6-1ffc-46bd-aa28-fe2872d10a12/dj2016_webcover.jpg__192x256_q85.jpg" alt="January 2016 magazine cover" class="cover"></a>
+			<a href="/issue/july-2016/" class="more"><img src="http://thumbs.media.smithsonianmag.com//filer/33/f4/33f44b2a-b4ab-4f86-a394-c4b34a54d4d7/airspace_jj16_cover_144_v.png__192x256_q85.jpg" alt="July 2016 magazine cover" class="cover"></a>
 		
 
         <div class="stories">
             <ul class="article-list">
                 
-                    <li><a href="/flight-today/best-airplane-that-ever-was-t6-texan-180957294/">The Best-Built Airplane That Ever Was</a></li>
+                    <li><a href="/flight-today/airbus-in-mobile-180959124/">Airbus Lands in Alabama</a></li>
                 
-                    <li><a href="/space/telepresence-space-mars-180957306/">Almost Like Being on Mars</a></li>
+                    <li><a href="/space/new-seti-search-180959126/">SETI Gets an Upgrade</a></li>
                 
-                    <li><a href="/history-of-flight/fighter-pilot-pearl-harbor-interview-world-war-ii-180957304/">A Fighter Pilot at Pearl Harbor</a></li>
+                    <li><a href="/space/mars-caves-180959123/">Mars, Underground</a></li>
                 
             </ul>
 
-            <a href="/issue/january-2016/" class="more">View Table of Contents</a>
+            <a href="/issue/july-2016/" class="more">View Table of Contents</a>
         </div>
     </div>
 
-    <form action="https://subscribe.airspacemag.com/airspace.php" method="get" class="magazine-signup-form">
+    <form action="https://subscribe.airspacemag.com/airspace.php?inetz=www-page-subscription-form" method="get" class="magazine-signup-form">
         <input type="hidden" name="idx" value="240">
         <h6 class="headline">Subscribe</h6>
         <p class="deal-info">Save 47% off the cover price!</p>
 
         <fieldset class="field-group name-fields">
+          <legend class="outofsight">First &amp; Last Name</legend>
             <div class="field">
                 <label for="Subscribe-First-Name" class="visuallyhidden">First Name</label>
                 <input type="text" name="sf[fstName]" id="Subscribe-First-Name" placeholder="First Name">
@@ -770,6 +745,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
 
         <fieldset class="field-group secondary-address-fields">
+          <legend class="outofsight">City / State</legend>
             <div class="field">
                 <label for="Subscribe-City" class="visuallyhidden">City</label>
                 <input type="text" name="sf[city]" id="Subscribe-City" placeholder="City">
@@ -850,10 +826,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </div>
         </fieldset>
 
-        <div class="field">
-            <label for="Subscribe-Email" class="visuallyhidden">Enter your email address</label>
-            <input type="email" name="sf[email]" id="Subscribe-Email" placeholder="Email address">
-        </div>
+        <fieldset class="field-group">
+          <legend class="outofsight">Email Address</legend>
+          <div class="field">
+              <label for="Subscribe-Email" class="visuallyhidden">Enter your email address</label>
+              <input type="email" name="sf[email]" id="Subscribe-Email" placeholder="Email address">
+          </div>
+        </fieldset>
 
         <p class="actions">
             <button type="submit" class="btn btn-primary magazine-signup-form-subscribe-button">Subscribe</button>
@@ -894,7 +873,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <div class="sub-footer-wrapper">
     <footer class="sub-footer">
-        <span class="logo-wrap"><a href="/" class="logo"></a></span>
+        <span class="logo-wrap"><a href="/" class="logo"><span class="outofsight">Air &amp; Space Magazine</span></a></span>
 
         <nav class="primary-nav nav">
             
@@ -913,11 +892,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <a href="/interviews/" class="nav-btn ">Interviews</a>
 
-<a href="/need-to-know/" class="nav-btn ">Need to Know</a>
-
 <a href="/photos/" class="nav-btn ">Photos</a>
 
 <a href="/videos/" class="nav-btn ">Videos</a>
+
+<a href="/virtual-space/" class="nav-btn ">Virtual Space</a>
 
 
         </nav>
@@ -932,7 +911,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <a href="/about/" title="About Air &amp; Space">About</a>
             <a href="/contact-us/" title="Contact Us">Contact</a>
             <a href="/advertising/" title="Advertising">Advertising</a>
-            <a href="https://subscribe.airspacemag.com/airspace.php?idx=240?inetz=www-page-footer-L-C?ipromo=|perm|sub|54pct|text||grey||price-ctrl" rel="nofollow" target="_blank" title="Subscribe" id="footer-subscribe">Subscribe</a>
+            <a href="https://subscribe.airspacemag.com/airspace.php?idx=240&amp;inetz=www-page-footer-L-C&amp;ipromo=|perm|sub|54pct|text||grey||price-ctrl" rel="nofollow" target="_blank" title="Subscribe" id="footer-subscribe">Subscribe</a>
             <a href="/rss/" title="RSS">RSS</a>
             <a href="/member-services/" title="Member Services">Member Services</a>
             <a href="http://www.si.edu/termsofuse" rel="nofollow" target="_blank" title="Terms of Use">Terms of Use</a>
@@ -966,7 +945,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-<div id="Sticky_Bottom_320x50" data-cb-ad-id="mobileBottom" class="cbv-ad" style="">
+<div id="Sticky_Bottom_320x50" class="cbv-ad" style="">
     <div id="div-gpt-ad-chuckweasley-mobile-2" class="ad-slot ad-slot-notxt ad-mobile ad-fixed-mobile ad-slot-noheader" data-ad-settings="mobileBottom"></div>
 </div>
 
@@ -976,7 +955,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <script src="http://static.media.smithsonianmag.com/js/ads/default.js"></script>
 
 
-<div id="OOP_1x1" data-cb-ad-id="outofpage" class="" style="">
+<div id="OOP_1x1" class="" style="">
     <div id="div-gpt-ad-chuckweasley-outofpage" class="" data-ad-settings="outofpage">
         <script type="text/javascript">
             googletag.cmd.push(function() { googletag.display('div-gpt-ad-chuckweasley-outofpage'); });
@@ -1114,34 +1093,6 @@ var google_remarketing_only = true;
 </div>
 </noscript>
 <!-- End Google Remarketing Code -->
-
-
-
-    <!-- START OF Chartbeat -->
-<script type="text/javascript">
-    var _sf_async_config={};
-    /** CONFIGURATION START **/
-    _sf_async_config.uid = 40371;
-    _sf_async_config.domain = 'airspacemag.com';
-    _sf_async_config.useCanonical = true;
-    _sf_async_config.zone = '/308522/airandspacemagazine.tmus/airspaceprivacy';
-    
-    /** CONFIGURATION END **/
-
-    (function(){
-        function loadChartbeat() {
-            window._sf_endpt=(new Date()).getTime();
-            var e = document.createElement('script');
-            e.setAttribute('language', 'javascript');
-            e.setAttribute('type', 'text/javascript');
-            e.setAttribute('src', '//static.chartbeat.com/js/chartbeat_pub.js');
-            document.body.appendChild(e);
-        }
-        loadChartbeat();
-    })();
-</script><script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat_pub.js"></script>
-<!-- END OF Chartbeat -->
-
 
 
 
