@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the csschopper.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216235924id_/http%3A//www.csschopper.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csschopper.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602040107id_/http%3A//www.csschopper.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # CSSChopper's Privacy Policy
-
-__
-
-Christmas & New Year Gift Ravishing Discount [See Details](http://www.csschopper.com/blog/get-christmas-new-year-gift-at-csschopper-with-ravishing-discount)
 
 The Privacy Policy (“Privacy Statement”) owned by CSSChopper reflects its commitment and transparency towards the privacy sustained for its customers and visitors, who interact with CSSChopper.com anyhow. Our privacy section highlights that we might use the IP address of our site visitors in order to administer and assist them in analyzing the problems using our web servers. For this reason, we require the personal and/ or contact information about the site users in order to provide effective information to them about the company. 
 
@@ -53,17 +49,17 @@ Email: [sales@csschopper.com](mailto:sales@csschopper.com)
 
 **SUBSCRIBE for discounts & news **
 
-Rated 4.9 out of 5.0 for CSSChopper service by 9400\+ clients on over 14000\+ projects.
+Rated 4.9 out of 5.0 for CSSChopper service by 9581 clients on over 14000\+ projects.
 
 ### From the blog
 
-[Get Christmas & New Year Gift at CSSChopper With Ravishing Discount](http://www.csschopper.com/blog/get-christmas-new-year-gift-at-csschopper-with-ravishing-discount "Get Christmas & New Year Gift at CSSChopper With Ravishing Discount")
+[Ultimate Resource For Premium Plugins, Themes And Templates](http://www.csschopper.com/blog/ultimate-resource-for-premium-plugins-themes-and-templates "Ultimate Resource For Premium Plugins, Themes And Templates")
 
-To make your winters festive season (Christmas & New Year) joyous to the fullest, CSSChopper is unveiling the mega discount deals on various projects. This limited by... [ read more](http://www.csschopper.com/blog/get-christmas-new-year-gift-at-csschopper-with-ravishing-discount)
+It is a pleasure to present an assortment of premium plugins, themes and templates from an ultimate resource that has exceptional options. It is an ultimate destination... [ read more](http://www.csschopper.com/blog/ultimate-resource-for-premium-plugins-themes-and-templates)
 
-[PSD to SunShop Integration Service](http://www.csschopper.com/blog/psd-to-sunshop "PSD to SunShop Integration Service")
+[PSD to nopCommerce Integration Service](http://www.csschopper.com/blog/psd-to-nopcommerce "PSD to nopCommerce Integration Service")
 
-If you are a store merchant and looking for professional-quality PSD to SunShop conversion services, then CSSChopper is the ultimate destination to approach. We transform... [ read more](http://www.csschopper.com/blog/psd-to-sunshop)
+CSSChopper provides professional assistance in setting up dynamic identity for your online store by rendering advanced Magento E-commerce development services. We are to... [ read more](http://www.csschopper.com/blog/psd-to-nopcommerce)
 
 ### CLIENT ASKED QUESTIONS
 
