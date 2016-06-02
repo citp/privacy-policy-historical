@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the gminsidenews.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212074940id_/http%3A//www.gminsidenews.com/forums/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gminsidenews.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602053731id_/http%3A//www.gminsidenews.com/articles/privacy-policy) for the most accurate reproduction.*
 
-# GM Inside News Forum Privacy Policy
+# Privacy Policy - GM Inside News
 
 VerticalScope Inc. (hereafter referred to as VerticalScope) has created this privacy statement to demonstrate our firm commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
 
 **What this Privacy Statement Covers**
 
-  * This privacy statement covers VerticalScope's treatment of personally identifiable information collected by VerticalScope through a website owned and operated by VerticalScope.
-  * This privacy statement does not apply to the practices of companies that VerticalScope does not own or control, or of persons that VerticalScope does not employ or manage, including any third-party content contributors bound by contract and any third-party websites to which VerticalScope's websites link.
+  * This privacy statement covers VerticalScope’s treatment of personally identifiable information collected by VerticalScope through a website owned and operated by VerticalScope.
+  * This privacy statement does not apply to the practices of companies that VerticalScope does not own or control, or of persons that VerticalScope does not employ or manage, including any third-party content contributors bound by contract and any third-party websites to which VerticalScope’s websites link.
 
 
 
@@ -39,10 +39,10 @@ VerticalScope Inc. (hereafter referred to as VerticalScope) has created this pri
 
 **Third Party Cookies**
 
-  * Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demogaphic or other data linked to data that you have voluntarily submitted to us, or posted to our Web Site. We may share such data with a data provider solely in hashed, non-human readable form. To opt-out of these cookies please go to [Ad Choices](http://www.aboutads.info/choices). 
-  * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
-  * Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
-  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [ads preference manager](http://www.google.com/ads/preferences/). 
+  * Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demogaphic or other data linked to data that you have voluntarily submitted to us, or posted to our Web Site. We may share such data with a data provider solely in hashed, non-human readable form. To opt-out of these cookies please go to [Ad Choices](http://www.aboutads.info/choices).
+  * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.
+  * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [ads preference manager](http://www.google.com/ads/preferences/).
 
 
 
@@ -78,7 +78,7 @@ If you have questions or suggestions about this privacy statement, or your own p
 
 **Opting Out of Third-Party Ad Servers**
 
-  * If you want to prevent a third-party ad server from sending and reading cookies on your computer, currently you must visit each ad network's Web site individually and opt out (if they offer this capability).
-  * If you want to prevent a third-party ad server from sending and reading cookies on your computer, we recommend you block cookies using your browser privacy setting. 
+  * If you want to prevent a third-party ad server from sending and reading cookies on your computer, currently you must visit each ad network’s Web site individually and opt out (if they offer this capability).
+  * If you want to prevent a third-party ad server from sending and reading cookies on your computer, we recommend you block cookies using your browser privacy setting.
 
 
