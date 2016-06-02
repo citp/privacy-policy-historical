@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adelement.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026084830id_/http%3A//adelement.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adelement.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602171457id_/http%3A//www.adelement.com/company/privacy) for the most accurate reproduction.*
 
 # Behavioral Targeting Privacy Policy | AdElement
 
@@ -61,9 +61,21 @@ We collect aggregate or non-PII information that includes, but is not limited to
 
 We use cookies and web beacons on our partner and our client websites to collect aggregate non-PII data including but not limited to interests, behaviors, type of activity, pages visited, date/time of visit, ip address, browser, ISP. This information is used make advertisements more relevant to you and or measure success of our or our clients advertising campaigns.
 
-#### Opting Out of Behavioral Advertising
+#### Opting Out of Behavioral Advertising (Web Browsers)
 
 If you'd like to opt out from AdElement collecting your Non-PII in connection with serving behavioral ads on our network of web sites, please [click here](http://www.adelement.com/company/optout/?type=optout). When you opt out, an opt out cookie is placed on your computer. This cookie tells us not to collect your Non-PII to tailor online advertisement campaigns. Please note that if you change your computer, change your Internet browser (e.g. from Chrome to Firefox), or delete all your cookies, you will need to renew your opt out. You can check your [opt out status here](http://www.adelement.com/company/optout).
+
+#### Opting Out of Behavioral Advertising (Mobile Applications)
+
+If you would like to opt-out from AdElement collecting your Non-PII in connection with serving behavioral ads on our network of mobile applications you will have to be browsing inside a mobile application environment. When you are served a behaviorally targeted ad from us you can opt-out by clicking on the opt out button accesible from ad choices icon integrated in all our behaviorally targeted ads. By doing this we are able to capture the advertising device identifier for your mobile device, store it on our servers and then stop showing your advertising device identifier the behaviorally targeted ads. Please note if you reset your advertising device identifier you will have to renew your opt out status.
+
+This procedure will only block ads that are displayed by AdElement. If you want to block these type of ads from other advertising providers please follow instructions below:
+
+**Android Users (version 2.3 and above)**  
+To opt out of interest-based or behaviorally advertising for your Android Device, follow the instructions provided by Google here to "opt out of interest-based advertising" [ Google Play Help](https://support.google.com/googleplay/answer/3405269). If you do not have the Google Play Services installed on your device, you wonâ€™t be shown ads from AdElement. Please note that this is a device setting and will disable interest-based ads from all providers, not just AdElement
+
+ **iOS users (version 6 and above)**  
+To opt out of interest-based or behaviorally advertising for your iOS Device, follow the instructions provided by Apple here to "Turn on Limit Ad Tracking": [Apple Support Center](https://support.apple.com/en-in/HT202074).Please note that this is a device setting and will disable interest-based ads from all providers, not just AdElement
 
 #### Third Party Websites
 
@@ -89,4 +101,4 @@ PII information we collect through our Site is stored for a reasonable time reco
 
 * * *
 
-_Last Updated: 21 May 2012_
+_Last Updated: 12 Feb 2016_
