@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the acorndomains.co.uk privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316082858id_/http%3A//www.acorndomains.co.uk/cmps_index.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acorndomains.co.uk privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602054645id_/http%3A//www.acorndomains.co.uk/help/Privacy) for the most accurate reproduction.*
 
-# AcornDomains.co.uk - Privacy Policy
+# Privacy Policy | Acorn Domains Forum - Domain Name Forum UK
+
+[](https://web.archive.org/web/20160602054645id_/http://www.acorndomains.co.uk/help/Privacy/misc/quick-navigation-menu "Open quick navigation")
+
+**Acorn Domains Forum - Domain Name Forum UK**
+
+[Forums](http://www.acorndomains.co.uk/) [Help](https://web.archive.org/web/20160602054645id_/http://www.acorndomains.co.uk/help/Privacy/help/) >
 
 **Privacy policy**  
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
@@ -88,3 +94,11 @@ Please let us know if the personal information which we hold about you needs to 
 
 _(11) Contact_  
 If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to admin@acorndomains.co.uk or via the Contact Form on the site. 
+
+[](https://web.archive.org/web/20160602054645id_/http://www.acorndomains.co.uk/help/Privacy/misc/quick-navigation-menu "Open quick navigation")
+
+**Acorn Domains Forum - Domain Name Forum UK**
+
+[Forums](http://www.acorndomains.co.uk/) [Help](https://web.archive.org/web/20160602054645id_/http://www.acorndomains.co.uk/help/Privacy/help/) >
+
+[ ](http://www.acorndomains.co.uk/)
