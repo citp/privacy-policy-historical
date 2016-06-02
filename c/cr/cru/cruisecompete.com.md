@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cruisecompete.com privacy policy that was archived on 2015-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151001061626id_/http%3A//www.cruisecompete.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisecompete.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602144117id_/http%3A//www.cruisecompete.com/privacypolicy.php) for the most accurate reproduction.*
 
 # CruiseCompete.com - Privacy Policy
 
@@ -80,3 +80,9 @@ By using our Web site you consent to our collection and use of your personal inf
 See the online American Express credit card applications for details about terms and conditions of reward programs and offers. Reasonable efforts are made to maintain accurate information. However all credit card information is presented without warranty. When you click on the " Apply Now " button you can review the credit card terms and conditions on the credit card issuer's web site. 
 
 Read more: [Compare credit cards here - CreditCards.com](http://www.creditcards.com/American-Express.php#ixzz2ebBS42mU)
+
+*Third parties using cookies and pixels to target advertisements*  
+We allow third parties to use cookies and pixels on our sites so that they can receive certain non personal (PII) information about you or your device. These third-party partners use cookies and related technologies to deliver content and advertisements relevant to your interests on third-party sites. 
+
+To learn more about and opt out of the different cookies that we use, see the link below.  
+<http://www.sojern.com/privacy-policy/>
