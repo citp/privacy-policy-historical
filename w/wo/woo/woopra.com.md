@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woopra.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217093644id_/https%3A//www.woopra.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woopra.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602030329id_/https%3A//www.woopra.com/privacy) for the most accurate reproduction.*
 
 # Woopra, Inc. Privacy Policy — Woopra
 
