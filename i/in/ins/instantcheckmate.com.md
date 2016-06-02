@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the instantcheckmate.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214010425id_/http%3A//www.instantcheckmate.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantcheckmate.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602145956id_/https%3A//www.instantcheckmate.com/privacy-policy) for the most accurate reproduction.*
 
-# Instant Checkmate Privacy Policy - The internet's leading source for Background Checks
-
-[](http://www.instantcheckmate.com/ "Instant Checkmate")
-
-__[Home](https://web.archive.org/) __Privacy Policy
+# Instant Checkmate Terms of Use - The internet's #1 source for Background Checks
 
 ## InstantCheckmate.com Website Privacy Policy
 
@@ -12,7 +8,7 @@ __[Home](https://web.archive.org/) __Privacy Policy
 
 ### 1\. Introduction
 
-This Privacy Policy describes the information practices of Instant Checkmate, Inc. ("Instant Checkmate") on the InstantCheckmate.com website at [http://www.instantcheckmate.com](http://www.instantcheckmate.com/) (along with all subdomains, collectively, the "Site"). This Privacy Policy is only applicable to the Site and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.
+This Privacy Policy describes the information practices of Instant Checkmate, Inc. ("Instant Checkmate") on the InstantCheckmate.com website at [https://www.instantcheckmate.com](https://www.instantcheckmate.com/) (along with all subdomains, collectively, the "Site"). This Privacy Policy is only applicable to the Site and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.
 
 ### 2\. Information Collection Practices
 
@@ -93,8 +89,6 @@ Instant Checkmate
 4330 S Valley View Blvd, Ste 118  
 Las Vegas, NV 89103-4052
 
-#### Get Started Now: Search for Someone You Know...
+DISCLAIMER: You may not use our service or the information it provides to make decisions about consumer credit, employment, insurance, tenant screening, or any other purpose that would require FCRA compliance. Instant Checkmate does not provide consumer reports and is not a consumer reporting agency. (These terms have special meanings under the Fair Credit Reporting Act, 15 USC 1681 et seq., ("FCRA"), which are incorporated herein by reference.) The information available on our website may not be 100% accurate, complete, or up to date, so do not use it as a substitute for your own due diligence, especially if you have concerns about a person's criminal history. Instant Checkmate does not make any representation or warranty about the accuracy of the information available through our website or about the character or integrity of the person about whom you inquire. For more information, please review Instant Checkmate Terms of Use. 
 
-##### Search Our Index of Common Last Names
-
-1450055379
+Copyright © 2016 Instant Checkmate, Inc. All Rights Reserved. 
