@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the niterider.com privacy policy that was archived on 2015-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150820043224id_/https%3A//www.niterider.com/niterider-privacy-policy-information-you-should-know) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niterider.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602103241id_/https%3A//www.niterider.com/niterider-privacy-policy-information-you-should-know) for the most accurate reproduction.*
 
-# Privacy - NiteRider Lighting Systems
+# NiteRiderPrivacy - NiteRider Lighting Systems
 
 NiteRider Lighting Systems is committed to protecting the privacy of individuals’ personal information.
 
@@ -21,7 +21,7 @@ Any person may seek access to personal information which NiteRider Lighting Syst
 There are certain exemptions which may apply to the provision of that information.
 
 **Cookies**  
-As you browse NiteRider.com, advertising cookies could be placed on your computer so that we can understand what you are interested in. Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with NiteRider.com. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. 
+As you browse NiteRider.com, advertising cookies could be placed on your computer so that we can understand what you are interested in. Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with NiteRider.com. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number.
 
 **Security**  
 We implement a secure processing server on our site when collecting information to ensure a high level of security for your personal information entered such as bank details and credit card information.
