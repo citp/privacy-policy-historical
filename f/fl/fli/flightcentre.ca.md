@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flightcentre.ca privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910074407id_/http%3A//www.flightcentre.ca/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightcentre.ca privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602145511id_/http%3A//www.flightcentre.ca/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Vacation Packages, Travel Deals | Flight Centre
 
@@ -33,7 +33,7 @@ This Policy is subject to change, and may be supplemented or modified by additio
 
 #### 1\. Accountability
 
-Flight Centre is responsible for maintaining and protecting the personal information under its control. Flight Centre has appointed a Privacy Officer who is responsible for ensuring Flight Centreâs compliance with its privacy obligations. 
+Flight Centre is responsible for maintaining and protecting the personal information under its control. Flight Centre has appointed a Privacy Officer who is responsible for ensuring Flight Centre's compliance with its privacy obligations. 
 
 #### 2\. Identifying Purposes
 
@@ -88,7 +88,7 @@ Personal information shall be maintained in as accurate, complete and up-to-date
 
 #### 7\. Safeguards
 
-Personal information shall be protected by security safeguards appropriate to the sensitivity of the personal information. Flight Centreâs security safeguards include: 
+Personal information shall be protected by security safeguards appropriate to the sensitivity of the personal information. Flight Centre's security safeguards include: 
 
   * premises security
   * locked file cabinets
@@ -113,7 +113,7 @@ Flight Centre shall make available to individuals on whom it may keep records, a
 
 Upon request, Flight Centre will inform an individual if Flight Centre has any personal information about the individual under its care and control, as well as provide the individual with details about such personal information. Flight Centre reserves the right to confirm the identity of the person seeking access to personal information before complying with any access request. In responding to an access request, Flight Centre may charge a reasonable fee. 
 
-Flight Centre is also committed to ensuring the personal information that is collected and maintained is accurate. An individual may challenge the completeness of the personal information under Flight Centreâs care and control. Where an individual successfully demonstrates that an error in the accuracy or completeness of their personal information exists, Flight Centre will amend the personal information accordingly.
+Flight Centre is also committed to ensuring the personal information that is collected and maintained is accurate. An individual may challenge the completeness of the personal information under Flight Centre's care and control. Where an individual successfully demonstrates that an error in the accuracy or completeness of their personal information exists, Flight Centre will amend the personal information accordingly.
 
 Flight Centre may deny access to personal information when denial of access is required or authorized by law. Possible reasons for denying access to personal information include:
 
@@ -125,7 +125,7 @@ Flight Centre may deny access to personal information when denial of access is r
 
 If Flight Centre is unable to provide access to all of the personal information it holds about an individual, then the reasons for the denial of access will be provided to the individual.
 
-Requests for access to an individualâs personal information shall be made to the Privacy Officer through [privacy_feedback@flightcentre.ca](mailto:privacy_feedback@flightcentre.ca) or by mail at:
+Requests for access to an individual's personal information shall be made to the Privacy Officer through [privacy_feedback@flightcentre.ca](mailto:privacy_feedback@flightcentre.ca) or by mail at:
 
 Risk Management Officer  
 6TH Floor 1133 Melville Street  
