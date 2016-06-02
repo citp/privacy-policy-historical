@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellofresh.co.uk privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926200711id_/https%3A//www.hellofresh.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellofresh.co.uk privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603002916id_/https%3A//www.hellofresh.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | HelloFresh
 
