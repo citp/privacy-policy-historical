@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showgoers.tv privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202053908id_/http%3A//showgoers.tv/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showgoers.tv privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602203111id_/http%3A//showgoers.tv/privacy_policy.html) for the most accurate reproduction.*
 
 # Showgoers Privacy Policy - Showgoers
 
