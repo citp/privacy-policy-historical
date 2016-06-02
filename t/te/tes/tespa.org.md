@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tespa.org privacy policy that was archived on 2015-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150825042109id_/http%3A//tespa.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tespa.org privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602141246id_/http%3A//tespa.org/privacy) for the most accurate reproduction.*
 
-# TeSPA Online Privacy Policy | TeSPA
+# TeSPA Online Privacy Policy | Tespa
 
 TeSPA and its affiliate companies (collectively “TeSPA”) respect the privacy of its online visitors and recognize the importance of providing a secure environment for them. We have adopted an Online Privacy Policy that guides how we collect, store, and use the information you provide us. This Privacy Policy details how TeSPA safeguards the privacy of its online visitors and does not apply to information that may be collected by TeSPA offline. Please note that when you link to other sites from a TeSPA website, this Privacy Policy does not apply to, and cannot control the activities on, those other sites.
 
