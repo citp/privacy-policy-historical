@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fticonsulting.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220041028id_/http%3A//www.fticonsulting.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fticonsulting.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602071615id_/http%3A//www.fticonsulting.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Information Security | FTI Consulting
 
 FTI Consulting is committed to safeguarding the confidentiality and privacy of information entrusted to it, including any personal information (sometimes referred to as “personally identifiable information” or “PII”) collected through its websites. Your continued use of this website constitutes your agreement with this Privacy Policy and any subsequent updates.  Please see the additional information under the heading [[Legal](https://web.archive.org/about/legal)] for more information about our on-line terms of use and policies in general.
 
@@ -22,7 +22,7 @@ FTI Consulting may use cookies on our websites to improve performance and enhanc
 
 A cookie is a small text file containing small amounts of information that a website puts on a user’s computer (or mobile device) when you visit a website and is used by the website to send information to your browser and for the browser to return information to the website.
 
-–You can find more information about cookies at: [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). For a video about cookies please visit [www.google.co.uk/goodtoknow/data-on-the-web/cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies).
+–You can find more information about cookies at: [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). For a video about cookies please visit [www.google.com/policies/technologies/cookies](http://www.google.com/policies/technologies/cookies).
 
 The information your browser sends to one of our websites is used for authentication and identification of your session and allows us to display the correct information on the website. We match the cookie against your details so we can distinguish you from other users as you browse the site, which helps us to provide you with a good user experience. Most browsers enable a user to disable cookies. If you do so, however, this site may not function correctly.
 
