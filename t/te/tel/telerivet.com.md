@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the telerivet.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109095210id_/http%3A//telerivet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telerivet.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603014916id_/http%3A//telerivet.com/privacy) for the most accurate reproduction.*
 
 # Telerivet: Privacy Policy
 
-_Updated: March 30, 2014_
+_Updated: January 29, 2016_
 
 Welcome to Telerivet, the online and mobile service of Telerivet, Inc. ("Telerivet," "we," "us," or "our"). Our Privacy Policy explains how we collect, use, disclose, and protect information that applies to our Service, and your choices about the collection and use of your information.
 
@@ -67,7 +67,7 @@ Please also be aware that despite our best intentions and the guidelines outline
 
 ### Where is my information stored and processed?
 
-Your information collected through the Service may be stored and processed in the United Kingdom, United States or any other country in which Telerivet or its subsidiaries, affiliates or service providers maintain facilities.
+Your information collected through the Service may be stored and processed in Belgium, Ireland, the United Kingdom, United States or any other country in which Telerivet or its subsidiaries, affiliates or service providers maintain facilities.
 
 Telerivet may transfer information that we collect about you, including personal information, to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world.
 
