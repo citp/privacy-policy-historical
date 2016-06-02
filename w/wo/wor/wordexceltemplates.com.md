@@ -1,34 +1,28 @@
-> *The following text is extracted and transformed from the wordexceltemplates.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203201531id_/http%3A//www.wordexceltemplates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordexceltemplates.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602164523id_/http%3A//www.wordexceltemplates.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Word & Excel Templates
 
-#### Log Files
-
-Like many websites our site makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
-
-#### Cookies and Web Beacons
+Like many websites our site makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 We do not use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-#### DoubleClick DART Cookie
+  * Google, as a third party vendor, uses cookies to serve ads on our site.
+  * Google’s use of the DART cookie enables it to serve ads to your users based on their visit to our site and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-.:: Google, as a third party vendor, uses cookies to serve ads on our site.  
-.:: Google’s use of the DART cookie enables it to serve ads to your users based on their visit to our site and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
 
-Commission Junction
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include…
 
-Google Adsense
+  * Google Adsense
+  * Commission Junction
+  * Clickbank
+  * Linkshare
+  * Amazon
 
-Clickbank
 
-Linkshare
 
-Amazon
-
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.pedometer-reviews.net send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.pedometer-reviews.net send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see.
 
 Our site has no access to or control over these cookies that are used by third-party advertisers.
 
