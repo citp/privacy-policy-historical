@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hlntv.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231083110id_/http%3A//www.hlntv.com/hln-privacy-guidelines) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hlntv.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602030107id_/http%3A//www.hlntv.com/hln-privacy-guidelines) for the most accurate reproduction.*
 
 # HLN: The News and Views network | HLNtv.com
 
