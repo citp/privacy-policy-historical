@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netseer.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127031439id_/http%3A//www.netseer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netseer.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602032827id_/http%3A//www.netseer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | NetSeer
 
@@ -60,8 +60,8 @@ For questions or concerns regarding this Policy, You can always send an e-mail t
 
 NetSeer, Inc.  
 Attn: Privacy Department  
-555 Ellis Street: Suite B  
-Mountain View, CA 94043
+150 Mathilda Place, Suite 102  
+Sunnyvale, CA 94086
 
 #### Copyright and trademarks
 
