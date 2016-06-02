@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equities.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211211452id_/http%3A//www.equities.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equities.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602201424id_/https%3A//www.equities.com/privacy-policy) for the most accurate reproduction.*
 
 # Equities.com - Privacy Policy
 
@@ -75,7 +75,9 @@ This policy was last modified on 2014-05-28
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-<http://www.equities.com/contact-us>  
-5301 Beethoven St. Suite 230  
-Los Angeles, CA 90066  
+<http://www.equities.com/contact-us>
+
+[](http://www.equities.com/contact-us)Equities.com  
+5855 Green Valley Circle, Suite 101  
+Culver City, CA 90230  
 United States
