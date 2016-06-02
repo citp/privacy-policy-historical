@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visualstudio.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905143808id_/https%3A//www.visualstudio.com/en-us/dn948229) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualstudio.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602205737id_/https%3A//www.visualstudio.com/en-us/dn948229) for the most accurate reproduction.*
 
 # Microsoft Visual Studio Product Family Privacy Statement
 
@@ -10,13 +10,13 @@ Visual Studio may enable you to purchase, subscribe or use other products and se
 
 ## Collection and Use of Personal Data
 
-Microsoft collects data to operate effectively and provide you with the best products, services and experiences we can. Some of this information you provide directly to us, such as when you register for a service like Visual Studio Online. Some of it we get by recording how you interact with our products and services. We collect this data in a variety of ways, including from web forms and software running on your device. We also obtain data from other sources and combine with data we collect directly. The data we collect includes the following:
+Microsoft collects data to operate effectively and provide you with the best products, services and experiences we can. Some of this information you provide directly to us, such as when you register for a service like Visual Studio Team Services. Some of it we get by recording how you interact with our products and services. We collect this data in a variety of ways, including from web forms and software running on your device. We also obtain data from other sources and combine with data we collect directly. The data we collect includes the following:
 
 **Name and contact data**. This includes your first and last name and email address.
 
-**Credentials**. When you create a Microsoft account or a Visual Studio Online account, for example, you will need to provide a password, password hints, or similar security information used for authentication and account access.
+**Credentials**. When you create a Microsoft account or a Visual Studio Team Services account, for example, you will need to provide a password, password hints, or similar security information used for authentication and account access.
 
-**Usage data**. We collect information about how you interact with our products and services. This includes information about how you use the products and services, such as the features you use, the web pages you visit, and the search terms you enter. It includes information about the device you use with the services, including IP address, device identifiers, regional and language settings, and information about the network, operating system, browser or other software you use to connect to the services. And it also includes information about the performance of the product or service and any errors or problems you experience with them. In order to create a richer picture of your product usage, we will correlate usage data across other Microsoft services, like Visual Studio Online.
+**Usage data**. We collect information about how you interact with our products and services. This includes information about how you use the products and services, such as the features you use, the web pages you visit, and the search terms you enter. It includes information about the device you use with the services, including IP address, device identifiers, regional and language settings, and information about the network, operating system, browser or other software you use to connect to the services. And it also includes information about the performance of the product or service and any errors or problems you experience with them. In order to create a richer picture of your product usage, we will correlate usage data across other Microsoft services, like Visual Studio Team Services.
 
 **Automatically collected data**. We automatically collect limited information about the set-up and installation of Visual Studio, including information about the version and license status of Visual Studio, the operating system of the device, the CPU architecture of the operating system, data identifying causes of product crashes and data regarding the success or failure of the installation of the software.
 
@@ -47,11 +47,11 @@ Please note that some of our sites and services include links to sites or servic
 
 Some Microsoft services give you the ability to view or edit your personal data online. How you can access or control your personal data will depend on which services you have used.
 
-**Visual Studio account:** The connected Integrated Development Environment (IDE) uses your Microsoft Account or other supported identity to connect to your Visual Studio Online profile, including your Visual Studio Online account. The first time you start Visual Studio, you supply your credentials. Based on that authentication, Visual Studio finds and applies your license and synchronizes your settings (such as fonts, language preference, and keyboard settings) across all of your devices. For more information, see [Synchronized Settings in Visual Studio](https://msdn.microsoft.com/library/dn135229\(v=vs.120\).aspx). Learn more about [Microsoft Account](http://go.microsoft.com/fwlink/?LinkId=267635).
+**Visual Studio account:** The connected Integrated Development Environment (IDE) uses your Microsoft Account or other supported identity to connect to your Visual Studio Team Services profile, including your Visual Studio Team Services account. The first time you start Visual Studio, you supply your credentials. Based on that authentication, Visual Studio finds and applies your license and synchronizes your settings (such as fonts, language preference, and keyboard settings) across all of your devices. For more information, see [Synchronized Settings in Visual Studio](https://msdn.microsoft.com/library/dn135229\(v=vs.120\).aspx). Learn more about [Microsoft Account](http://go.microsoft.com/fwlink/?LinkId=267635).
 
-Once you log into Visual Studio Online, you will be automatically connected to Visual Studio Online in the future via an authentication token when you open Visual Studio.
+Once you log into Visual Studio Team Services, you will be automatically connected to Visual Studio Team Services in the future via an authentication token when you open Visual Studio.
 
-Through the Notification Center, you will be provided with notifications about licensing, updates and subscription status. For additional information about Visual Studio Online, see the [Visual Studio Online Privacy Statement](http://go.microsoft.com/fwlink/?LinkId=512132).
+Through the Notification Center, you will be provided with notifications about licensing, updates and subscription status. For additional information about Visual Studio Team Services, see the [Visual Studio Team Services Privacy Statement](http://go.microsoft.com/fwlink/?LinkId=512132).
 
 **Usage Data** : In most versions of Visual Studio, users may opt out of usage data. To update settings please navigate to **Help|Customer Feedback Options|Settings**.
 
