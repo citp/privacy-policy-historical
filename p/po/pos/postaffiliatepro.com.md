@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postaffiliatepro.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204030532id_/https%3A//www.postaffiliatepro.com/privacy-policy-post-affiliate-pro) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postaffiliatepro.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602030443id_/https%3A//www.postaffiliatepro.com/privacy-policy-post-affiliate-pro) for the most accurate reproduction.*
 
 # Privacy Policy - Post Affiliate Pro - Affiliate Tracking & Affiliate Program Software
 
