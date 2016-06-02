@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pro100usa.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203023830id_/http%3A//www.pro100usa.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pro100usa.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602204302id_/http%3A//pro100usa.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# privacy-policy | Pages | 3D design software
+# privacy-policy | Company | 3D design software
 
 PRO100 will not sell, trade, or transfer any personally identifiable information  to outside parties or affiliates. The information you provide, whether public or private, will not be given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. Your information is solely for the following purposes: -
 
