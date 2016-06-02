@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naijagists.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226192829id_/http%3A//naijagists.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijagists.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603005448id_/http%3A//naijagists.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Nollywood, Nigeria, News, Celebrity, Gists, Gossips, Entertainment
 
@@ -27,5 +27,3 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 **Contact Information**
 
 Concerns or questions about this privacy policy can be directed to epalava@gmail.com for further clarification.
-
-#### Ad
