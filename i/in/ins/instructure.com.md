@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instructure.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226061514id_/http%3A//www.instructure.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instructure.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602030049id_/https%3A//www.instructure.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -6,7 +6,7 @@ Instructure Privacy Policy
 
 Last Updated: March 26th, 2015
 
-Instructure, Inc. ( **“Instructure”** ) is committed to protecting your privacy. We have prepared this Privacy Policy to describe our practices regarding the personal information that may be collected from users of our websites, including [http://www.instructure.com](http://www.instructure.com/) and [http://www.canvas.net](http://www.canvas.net/) and any other sites that link to this Privacy Policy ( **“Site”** ), Instructure’s Canvas iOS and Android Applications ( **“Apps”** ), and other related educational services ( **“Services”** ). By submitting personal information through our Site, Apps, or Services, you expressly consent to the processing of your personal information in the U.S. in accordance with this Privacy Policy. The use of personal information collected through our service shall be limited to the purposes described in this Privacy Policy.
+Instructure, Inc. ( **“Instructure”** ) is committed to protecting your privacy. We have prepared this Privacy Policy to describe our practices regarding the personal information that may be collected from users of our websites, including [https://www.instructure.com](https://www.instructure.com/) and [http://www.canvas.net](http://www.canvas.net/) and any other sites that link to this Privacy Policy ( **“Site”** ), Instructure’s Canvas iOS and Android Applications ( **“Apps”** ), and other related educational services ( **“Services”** ). By submitting personal information through our Site, Apps, or Services, you expressly consent to the processing of your personal information in the U.S. in accordance with this Privacy Policy. The use of personal information collected through our service shall be limited to the purposes described in this Privacy Policy.
 
 **U.S—E.U and U.S—Swiss Safe Harbor**
 
@@ -14,7 +14,7 @@ Instructure, Inc. complies with the U.S.—E.U. Safe Harbor framework and the U.
 
 **Dispute Resolution**
 
-Instructure, Inc. participates in the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor as set forth by the United States Department of Commerce. As part of our participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet [here](http://www.truste.com/). Please [click here](http://www.truste.com/about-truste/contact-us/) for fax and postal mail information. TRUSTe's Dispute Resolution process is only available in English. For human resources data we have agreed to cooperate with Data Protection Authorities.
+Instructure, Inc. participates in the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor as set forth by the United States Department of Commerce. As part of our participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet [here](https://feedback-form.truste.com/watchdog/request). Please [click here](http://www.truste.com/about-truste/contact-us/) for fax and postal mail information. TRUSTe's Dispute Resolution process is only available in English. For human resources data we have agreed to cooperate with Data Protection Authorities.
 
 **Data You Provide to Us.**
 
