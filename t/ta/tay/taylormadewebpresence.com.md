@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the taylormadewebpresence.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128064051id_/http%3A//taylormadewebpresence.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taylormadewebpresence.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602111217id_/http%3A//taylormadewebpresence.com/privacy) for the most accurate reproduction.*
 
 # TaylorMade Web Presence Privacy Policy | TaylorMade Web Presence
-
-[ ](http://taylormadewebpresence.com/)
-
-### Main menu
 
 The [TaylorMade Web Presence](http://taylormadewebpresence.com/ "TaylorMade Web Presence - Taylor Bare CEO and Chief Developer") Privacy Policy
 
@@ -13,9 +9,9 @@ The [TaylorMade Web Presence](http://taylormadewebpresence.com/ "TaylorMade Web 
 Collecting information makes it possible for [TaylorMade Web Presence](http://taylormadewebpresence.com/ "TaylorMade Web Presence - Taylor Bare CEO and Chief Developer") to deliver the kind of service you expect. At [TaylorMadeWebPresence.com](http://taylormadewebpresence.com/ "TaylorMade Web Presence - Taylor Bare CEO and Chief Developer"), you will be asked to share your identifiable information for various purposes, including:
 
 **1-     **To request products and services  
- **2-     **To request information  
- **3-     **To sign up for updates  
- **4-     **To provide feedback  on our products and services
+**2-     **To request information  
+**3-     **To sign up for updates  
+**4-     **To provide feedback  on our products and services
 
 Upon voluntary form submission, your IP Address is recorded. Your visit details are traced for statistical purposes. In addition, content that is transmitted through e-mail correspondence is retained in order to process your inquiries, respond to your requests and improve our services. 
 
@@ -26,10 +22,10 @@ You will never be asked for sensitive information while filling out a form at [
 The information collected is used to:
 
 **1-     **Provide customers products and services requested  
- **2-     **Respond to your inquiries  
- **3-     **Personalize your experience  
- **4-     **Supply information about and promote our services  
- **5-     **Resolve problems actively and proactively
+**2-     **Respond to your inquiries  
+**3-     **Personalize your experience  
+**4-     **Supply information about and promote our services  
+**5-     **Resolve problems actively and proactively
 
 Personal or business information provided via [TaylorMade Web Presence.com](http://taylormadewebpresence.com/ "TaylorMade Web Presence - Taylor Bare CEO and Chief Developer") is transmitted securely, considered strictly confidential, and will NOT be shared, disclosed, or sold to any third party without your express consent to such action.
 
