@@ -1,67 +1,150 @@
-> *The following text is extracted and transformed from the kcrg.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919011005id_/http%3A//www.kcrg.com/home/related/89432952.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcrg.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603013127id_/http%3A//www.kcrg.com/content/news/%3Farticle%3D158509635) for the most accurate reproduction.*
 
-# KCRG Policies | KCRG-TV9 | Cedar Rapids, Iowa News, Sports, and Weather
+# Gray Television, Inc. PRIVACY POLICY and YOUR CALIFORNIA PRIVACY RIGHTS
 
-At The Gazette Company, we are committed to protecting the privacy, accuracy and reliability of any personal information you choose to provide and to safeguarding such information from loss, misuse, unauthorized access, disclosure, alteration and distraction. This privacy policy applies to all news product website that are a part of The Gazette Company.
+Updated: Thu 1:44 PM, Jan 28, 2016 
 
- Please read this Privacy Policy carefully. This Privacy Policy may change from time to time, so please check back often. If you have any questions or comments regarding this Privacy Policy, please contact us by sending an e-mail message to news_online@sourcemedia.net.
+**In addition to this Privacy Policy, user generated content that may be offered on our Web Channels is also subject to the Privacy Policy of the "My Capture" service. Please see the separate privacy policy for[ _MyCapture_](http://secondstreet.com/terms/).**
 
- Collection of Personal Information
+Effective Date: May 11 2012.
 
- The Gazette Company news website uses your personal information for three general purposes. First, we use the information to provide you with the services you request and to respond to billing and/or other questions related to such service offerings. Second, we use the information to understand your use of our website and to notify you about updates to one of our sites or to send you marketing materials or promotional offers that may be of interest. Third, we may use this information in aggregate form to help us evaluate and modify existing services and to help us develop additional services that are likely to be of interest to our users.
+This Privacy Policy has been updated; please [_click here_](https://web.archive.org/content/news/?article=158514935) for details. Our previous Privacy Policy is available [_HERE_](https://web.archive.org/content/news/?article=34218884).
 
- We may share your personal information with unaffiliated third parties in limited instances. For example, we may share your personal information with unaffiliated third parties as is necessary to process or collect payments, or service registered-user accounts. We also may hire third-party technology providers to host The Gazette Company news website and to store your personal information.
+**_NOTICE_** : This Privacy Policy has been updated to simplify information about our privacy practices and principles and to include new features and activities. Although we offer new features and digital technology to distribute and monitor our content, we have not materially changed your opt-out or opt-in choices for previous features and activities. We remain committed to protecting the privacy, accuracy and reliability of your personally identifiable information (“Personal Information”).
 
- We may also share aggregate, non-personal information about website usage with unaffiliated third parties, including, but not limited to, government agencies, advertisers and the media (i.e., 50% of KCRG Television, Inc., website users are female, 50% of users have visited certain sections, etc.). This aggregate information does not contain any personal information about our users.
+This Privacy Policy governs the Personal Information collected by Gray Television, Inc. ("GTI") or our television stations (“Stations”), (collectively, “our,” “we,” “us”) via the various Web Channels, Apps, and other services owned, operated or provided by us that have an authorized link to this Privacy Policy (collectively, “Services”). (For a list of Web Channels and Stations, [_CLICK HERE_](http://gray.tv/index.php?page=interactive-map).
 
- We may use third-party advertising companies to serve ads when you visit The Gazette Company news website. These companies may use information (not including your name, address, email address or telephone number) about your visit to our website in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to the our website, our third-party advertisers may place or recognize a unique "cookie" on your browser. If you would like more information about this practice and to know your choices about not having this information used by advertising companies, please send an e-mail to news_online@sourcemedia.net 
+By visiting or using our Services, you accept the practices described in this Privacy Policy. This Privacy Policy is hereby incorporated into the GTI Terms of Use Agreement (“TOU”) by reference, which also governs our Services. Any capitalized terms not defined in this Privacy Policy will have the same meaning as defined in the [_TOU_](https://web.archive.org/content/news/?article=158511785).
 
- Finally, we may be required to disclose personal information by law or legal process, to protect and defend the rights or property of a Gazette Company news site, or to protect the personal safety of users to one of our sites. We also reserve the right to contact appropriate authorities when activities that are illegal or violate our policies are taking place on The Gazette Company news sites.
+**  
+1.Your California privacy rights under the Shine the Light Act  
+2\. Types of information we collect and use  
+3\. How do we actively collect and use Personal Information?  
+4\. Safeguarding Children’s Privacy   
+5\. Disclosure of your Personal Information to third parties  
+6\. Personalized content and advertising how we customize your experience.  
+7\. Your choices for the collection, use and sharing of your Personal Information  
+8\. Links to other websites operated by third parties  
+9\. How to access, update, correct, or delete your Personal Information  
+10\. How we protect your Personal Information  
+11\. Notification of changes to the Privacy Policy and how to contact us  
+**
 
- You do not need to provide any personally identifiable information to use a Gazette Company news  site. In general, you can visit our website without telling us who you are or revealing any personally identifiable information.
+**__General__**
 
- We may apply a "cookie" to your browser to track user patterns in order to understand what portions of our sites are receiving higher traffic than others, but that data is aggregate data and will not have uniquely identifying characteristics.
+Unless we indicate a different age, all users that wish to use our Services and submit Personal Information must be at least 18 years of age. For certain activities, you must also be a United States (“U.S.”) citizen. GTI Services are designed and targeted to U.S. audiences and are governed by and operated in accordance with the laws of the U.S. If you are not a U.S. citizen or do not reside in the U.S., by using these Services and/or providing us with your Personal Information, you voluntarily consent to our collection, transfer, use, and disclosure of your Personal Information to the U.S. You also agree to waive any claims that may arise under your own national laws. 
 
- However, if you want to use certain online services, you may be asked to provide some personal information, such as your name, mailing address or e-mail address. We also may ask you to choose a user name and password and provide that information when accessing certain online features. If you do not want to give us any personal information, you can always decide not to use the services. The choice is yours. We are only interested in offering you convenient online services that match your interests and needs.
+**1\. Your California privacy rights under the “Shine the Light Act”**
 
- How We Protect Personal Information
+Under the California “Shine the Light Act,” if you reside in California and have an established business relationship with us, you have the right to receive information about our online and offline opt-out/opt-in policies of sharing your Personal Information with affiliated entities or non-affiliated third parties, such as our Advertisers for direct marketing purposes. If you wish to learn about our opt-out/opt-in policies, please send your written request following the instructions below. **We will not accept requests via the telephone or facsimile.**
 
- We take reasonable measures to protect the privacy, accuracy, and reliability of any information you choose to provide and to protect such information from loss, misuse, unauthorized access, disclosure, alteration and destruction. Only authorized employees and partners are permitted to access personal information, and they only may do so for permitted business functions. Any employee or partner who violates our privacy access policies will be subject to disciplinary action and/or termination.
+• We may not be able to respond to requests that are not labeled or sent properly, or do not have complete information.  
+• For all requests, include your full name, street address, city, state and zip code, and the name of the GTI Services to which you are requesting the information.   
+• In your email request, you must state **“Re: Your California Privacy Rights”** in the subject line and send your email to [privacyrights@gray.tv](mailto:privacyrights@gray.tv).   
+• In your postal request, you must send a letter or post card to:
 
- Accessing or Deleting Your Personal Information
+Gray Television, Inc.  
+Attn: Mike Braun/Your California Privacy Rights  
+VP, Gray Digital Media  
+126 N. Washington Street  
+Albany, GA 31701
 
- If you have submitted personal information through a Gazette Company news website and you would like to access that information, please send an e-mail to news_online@sourcemedia.net. We will use reasonable efforts to supply you with this information and to correct any factual inaccuracies that you identify. Upon your request, we also will remove your personal information from our databases.
+Non-affiliated third parties are independent from GTI and if you wish to receive information about your disclosure choices or stop communications from such third parties, you will need to contact those non-affiliated third parties directly.
 
- Collection, Use and Disclosure of Non-Personal Information
+**2\. Types of data we collect and use**
 
- In some cases, a Gazette Company news site may collect information about you that is not personally identifiable, as described below. An Internet Protocol (IP) address is a number automatically assigned to your computer whenever you access the Internet. This number does not identify your name, e-mail address or other personal information. If you request pages from any Gazette Company news website, that site's server will enter your IP address into a log.
+GTI collects both _[Personal Information](https://web.archive.org/content/news/?article=158517125)_ and _[Non-Personal Information](https://web.archive.org/content/news/?article=158517125)_. We use a variety of Personal Information either voluntarily submitted by you or collected via our Services. We may also collect and use Personal Information about other people when you participate in certain programs and features or when you submit news stories or nominations for community awards or recognition that involve other people. Individual Stations may also offer additional Web Channel features and services that would also require the submission of Personal Information. 
 
- To maintain user anonymity, The Gazette Company news sites do not associate IP addresses with records containing personal information. We also do not permit IP addresses to be associated and viewed with posts to chat rooms and bulletin boards. We store IP addresses for a period of time to help us to identify anyone who refuses to comply with our in-house rules or terms of service, and to identify visitors who threaten our service, site, customers or others. We also will use this information to measure site traffic for purposes of system administration and for our sponsors. This aggregate data also helps us to understand how people are using the website and helps us improve your online experience.
+[_Click here for the specific types of Personal Information we may collect and use_](https://web.archive.org/content/news/?article=158517125).
 
- Cookies
+We also collect information automatically about your computer, browser, mobile device, visits and use of Services and other online activities that are used to enhance or customize your experience on our various Services. Like most standard websites, we use cookies, web beacons and other similar technology that are generally treated as __Non-Personal Information__ , unless we are required to do so otherwise under applicable law. Non-Personal Information may be combined with other Personal Information. You may configure your browser to reject cookies. If you do so, you might not be able to access important functions, features and activities or enjoy certain conveniences or customized and personalized features of our Services. [_Click here for a description of cookies and web beacons_](https://web.archive.org/content/news/?article=158517125). Technology is improving every day and to improve the operations and functions of our Services, we will introduce new technologies and monitoring techniques without advance notice or consent from you.
 
- The Gazette Company news sites also automatically gather certain non-personal information through the use of "cookies." "Cookies" are small text files that recognize repeat visitors, facilitate ongoing access to some sites, and allow sites to understand how and when pages are visited.
+We use Personal Information in various ways; [_click here for an overview_](https://web.archive.org/content/news/?article=158517125). We use your Personal Information to provide or complete a transaction, and/or customize your experience on our Services and/or other digital technology not yet known or developed.
 
- Demographic Data
+• Automated News Services and Updates. [_MORE INFO_](https://web.archive.org/content/news/?article=158517125)
 
- We may use demographic and profile data to tailor our users' experience at our sites, showing them content that we think they might be interested in and displaying content according to their preferences. This information is shared with advertisers on an aggregate basis, to demonstrate facts about our overall audience. This helps facilitate their decision to advertise here, which is to our benefit and yours. Users may opt out of receiving future mailings; see the choice/opt-out section below.
+• Mobile Apps and Services. [_MORE INFO_](https://web.archive.org/content/news/?article=158517125)
 
- Personal Information 
+• Polls and Surveys. [_MORE INFO_](https://web.archive.org/content/news/?article=158517125)
 
-When you are on a Gazette Company news web site and are asked for personal information, you are sharing that information with The Gazette Company alone, unless it is specifically stated otherwise. Please be aware that Gazette Company advertisers or web sites that have links on our site may collect personally identifiable information about you. This privacy statement does not cover the information practices of those web sites. Gazette Company is not responsible for the privacy practices or the content of such web sites.
+• Contests/Sweepstakes/Trivia. [_MORE INFO_](https://web.archive.org/content/news/?article=158517125)
 
- Public Forums
+• Purchases & Shopping. [_MORE INFO_](https://web.archive.org/content/news/?article=158517125)
 
- The Gazette Company allows text and video commenting in various areas of our sites, including live chats, polls, and other community interaction points. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+• Chat/Message Boards/Blogs. [_MORE INFO_](https://web.archive.org/content/news/?article=158517125)
 
- Choice / Opt Out
+• Comments/Questions. [_MORE INFO_](https://web.archive.org/content/news/?article=158517125)
 
- You can opt-out of receiving communications from The Gazette Company at any time. To remove your information from our database and not receive future communications or to no longer receive our services send an email with your name, address, email address and telephone number to news_online@sourcemedia.net. This email should also provide specific communications you would like to no longer receive.
+We may also combine your Personal Information with additional data obtained from our Facebook Fan pages, Apps, or your use of Facebook, other social network and mobile platforms, GTI Affiliates, our Operational Service Providers (third party owned companies that provide or perform services on our behalf, to help serve you better and to perform functions in order to support our businesses and operations), or other companies, such as credit bureaus, background check firms, marketing research companies, and/or Advertisers.
 
- If you would like to opt out of Google Analytics tracking, you may visit this link to learn more: [https://www.google.com/intl/en/analytics/learn/privacy.html](https://www.google.com/intl/en/analytics/learn/privacy.html)
+We also use your Personal Information (including IP address or mobile device unique identifier if they are linked to or associated with you, or a specific computer or device) and/or other data to deliver customized or personalized content and advertising communications to you, including special product offers, sales, promotions, or other information about us, our GTI Affiliates, or our Advertisers. [_Click here for more information about customized or personalized content and advertising_](https://web.archive.org/content/news/?article=158517125).
 
- Contacting Us
+We reserve the right to collect Personal Information using any new technology yet to be developed and to use such technology to provide new services and features to you, as well as for marketing and promotional purposes. Specific information regarding your choice to opt-out to such use, or for sharing your Personal Information with Advertisers, will be provided when the new technology, service, or feature is introduced. 
 
- If you have any questions about this privacy statement, the practices of these sites, or your dealings with Gazette Company news web sites you can contact us at news_online@sourcemedia.net
+**3. [_Safeguarding Children’s Privacy_](http://www.jsonline.com/general/31308799.html) **
 
- This Web site uses services provided by News Registry. News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of News Registry. Please refer to the News Registry privacy policy at Http://Www.Newsregistry.Com/Privacycenter/Servicepolicy.Aspx for further information.
+Generally, we will not knowingly collect online Personal Information or any other identifying data from children under 13 years of age. Should we discover that a child under the age of 13 submitted Personal Information to a Web Channel or other Internet-based Services without first obtaining verifiable parental consent, we will immediately reject any such entry and delete that information from our database (to the extent technically feasible), unless such information meets an exception under the Children’s Online Privacy Protection Act (“COPPA”) or pertains to the programming or operations of Stations. Submissions that pertain to programming or operations of GTI Stations are subject to Federal Communications Commission (“FCC”) regulations that require television licensees to post such comments in the applicable Station’s online FCC Public Inspection File. We retain the right to block out or edit the email address and/or name of the child. Except to meet FCC, other regulatory and legal purposes, we will not knowingly use, distribute or disclose any child's Personal Information to unaffiliated third parties without prior parental consent. Unless we are required to retain a child’s Personal Information for regulatory, tax or other legal purposes we will promptly remove such information from our database (to the extent technically feasible) if a parent withdraws his or her consent to our use of the child’s Personal Information. 
+
+**4\. Disclosure of your Personal Information to third parties**  
+Your Personal Information will be disclosed to unaffiliated third parties only as listed in this Privacy Policy. In addition to completing or fulfilling your transaction, activity or request, we will also disclose your Personal Information if we have received your consent at the time we collect your Personal Information, if you have consented prior to our disclosure, and/or under the following limited circumstances:
+
+• To GTI Affiliates for business, operational, promotional and marketing purposes.   
+• To Advertisers if you participate in a co-branded, co-sponsored, or jointly presented promotion/contest or service.  
+• To our Operational Service Providers, who are prohibited from using your Personal Information for any purpose not authorized by us or required by law.   
+• To protect the security of our Services and databases; to protect our users, GTI Affiliates, Advertisers, and Operational Service Providers against liability and harm; to implement and enforce our TOU or GTI Copyright Complaint Procedures; to respond to subpoenas, judicial processes, or government requests and investigations; to act in response to an emergency or situation that threatens the life, health or security of an individual; to assist in the investigation of a violation (or presumed violation) of law; or if we believe in good faith that the law requires or authorizes such disclosure.  
+• In connection with any proposed or actual purchase, sale, lease, merger, assignment, re-organization or financing of all or any portion of GTI, our Stations, or any of the business, assets or shares of our parent company(s) and GTI Affiliates.
+
+We reserve the right to use, disclose and process any Non-Personal Information collected from you in any manner.
+
+**5\. Personalized content and advertising – how we customize your experience.**
+
+Advertising supports the free Services and free Internet and broadcast content we and our Stations provide to you. GTI, our Stations, Operational Service Providers, and Advertisers use cookies, web beacons and other similar technology to enrich your experience on our Services by serving relevant, tailored and personalized advertising and/or content. (Please note that we do not control Advertiser cookies or web beacons, and such technology is not subject to this Privacy Policy.) Such advertising and content is based on information you provide to us; your use of our content, features and activities; your visits, search, transaction and/or purchase history; visits to our Facebook Fan page, or other social network platforms, and/or estimates made about you based on all of these elements.   
+([ _Click here for information about IP address, cookies and web beacons_](https://web.archive.org/content/news/?article=158517125).) 
+
+[_Click here for examples of advertising featured on our Services and how they deliver personalized and customized advertising_](https://web.archive.org/content/news/?article=158517125).
+
+Our Advertisers and third party Network Advertising services, such as Google, will also place cookies, web beacons and/or other similar technology on your computer to personalize your experience and advertising content on certain Services. [_MORE INFO_](https://web.archive.org/content/news/?article=158517125)
+
+Here are opt-out choices for other Network Advertising providers that serve tailored advertising on our Services; please click on the company name and follow the links to each company’s website: **none active at this time**.
+
+The Google Opt-out tool and those of other Network Advertising providers are likely cookie-based. In order for an opt-out tool to work on your computer, your browser must be set to accept third party cookies. If you buy a new computer, change web browsers or delete this cookie, you may need to perform the opt-out task again. Some browsers are able to opt-out of such advertising using special tools. Please see specifics about your browser on your browser’s own website.
+
+**_Please be aware that opting out of a network advertising service doesn’t mean that you won't receive online ads._** It only means that the network from which you opted out will no longer deliver ads tailored to your preferences and interests, but you will continue to receive advertising. 
+
+**6\. Your choices for the collection, use and sharing of your Personal Information**
+
+We may share your Personal Information directly with our Advertisers for their direct marketing and promotional purposes. Depending on the activity, event or feature, you will have an opportunity to either “opt-in” or “opt-out” of such sharing at the time of registration, delivery of the activity, event or feature, or by contacting the Service at [privacyrights@gray.tv](mailto:privacyrights@gray.tv). 
+
+We also provide you with an option to “opt-out” of receiving advertising and promotional messages from us about GTI, our Stations and/or our Advertisers in compliance with federal law by installing an opt-out mechanism with all such commercial messages. You must use the designated method in the message to notify us of your opt-out request, as we cannot guarantee that other methods of notification will be effective or timely. Please be aware that we may continue to contact you for administrative, transactional or informational purposes related to your use of our Services, including follow-up messages regarding contests you have entered or other transactions you have undertaken. By law, such messages are not considered to be unsolicited commercial messages.
+
+Please see the [_“Personalized content and advertising – how we customize your experience”_](https://web.archive.org/content/news/?article=158517125) section for details about how to opt-out of Network Advertising.
+
+**7. [_Links to other websites operated by third parties_](http://www.jsonline.com/general/31308799.html)**
+
+Our Services may provide links to various external websites or services (collectively referred to as a “Linked Website”). (Please see the Service’s TOU for more information.) Even if a relationship exists between GTI and a third party Linked Website, you understand, acknowledge and agree that we exercise no control and have no responsibility for the content, privacy policies or business practices of a Linked Website. 
+
+_Certain Linked Websites (such as “MyCapture”) maintain their own independent privacy and data collection policies and procedures. If you visit a third party website that is linked to a Web Channel or App, you should consult that website's privacy policy before providing those websites with your Personal Information._
+
+**8\. How to access, update, correct or delete your Personal Information**
+
+If you have submitted Personal Information through our Services and you would like to access, update, correct or delete that information, please send an e-mail to [privacyrights@gray.tv](mailto:privacyrights@gray.tv), or access your account, if applicable. We will use reasonable efforts to honor your request. We retain your Personal Information as long as it takes to provide the Services and as required by our corporate policies and laws. Upon your request, we also will remove your Personal Information from our active database(s). Given the limitations of our computer systems, corporate business policies, and the requirements of federal or state laws, we may not be able to delete all of your Personal Information from our internal or back-up files. You may be entitled to access such Personal Information or restrict the use of such Information under local or state laws. Please contact our _Privacy Administrator_. 
+
+_We reserve the right to deny access to any user if we believe there is a question about his/her identity. And if the burden or expense of providing access to a user’s Personal Information is disproportionate to the potential privacy risks to that user, or if the legitimate rights of others would be violated, we may choose to not provide access to such information. In such cases, we will provide you with an explanation and a contact person for further inquiries._
+
+**9\. How we protect your Personal Information**
+
+We take reasonable measures to protect the security and confidentiality of any information you choose to provide to us. We implement and maintain reasonable physical, technical and administrative procedures to protect your Personal Information from unauthorized collection, use, disclosure, and disposal and request our Operational Service Providers to do the same. Despite our best efforts, no security measures are impenetrable, and transmissions over the Internet are not 100% secure or error-free.
+
+**10\. Notification of changes to the Privacy Policy and how to contact us**
+
+We reserve the right, at our discretion, to modify, add, or remove sections from this Privacy Policy from time to time. When we change this Privacy Policy, we will post the Effective Date and notice of such changes on our designated Services. If such changes are material, we will also send a notice to your email address or other contact information (if allowed) currently on file and seek your consent to the extent required by law. 
+
+If you have any questions or comments regarding this Privacy Policy, please contact us by sending an e-mail message to [privacyrights@gray.tv](mailto:privacyrights@gray.tv) or via postal mail to: 
+
+Gray Television, Inc.  
+Attn: Mike Braun  
+VP Digital Media  
+126 N. Washington Street  
+Albany, GA 31701
+
+Copyright © 2015 Gray Television, Inc. All Rights Reserved.
