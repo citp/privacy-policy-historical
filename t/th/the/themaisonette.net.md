@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the themaisonette.net privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021082056id_/http%3A//themaisonette.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themaisonette.net privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602124136id_/http%3A//themaisonette.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Maisonette
 
-TheMaisonette.net takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this privacy primer to learn more about privacy policies in general.
+TheMaisonette.net takes your privacy seriously. This [privacy policy](http://themaisonette.net/privacy-policy) describes what personal information we collect and how we use it. See this privacy primer to learn more about privacy policies in general.
 
 ### Routine Information Collection
 
