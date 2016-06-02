@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsdb.com.sg privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202002339id_/http%3A//sg.jobsdb.com/en-sg/pages/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsdb.com.sg privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602161630id_/http%3A//sg.jobsdb.com/en-sg/pages/terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | jobsDB Singapore
 
@@ -84,12 +84,27 @@ Generally speaking, jobsDB Singapore will only disclose and/or transfer Users’
 
 Personal data collected via the Site may be transferred, stored and processed in any country in which jobsDB Singapore or any member of the jobsDB Group operates. By using the Site, Users are deemed to have agreed to, consented to and authorized jobsDB Singapore to disclose and/or transfer their personal information and data under the circumstances stated above, as well as to any transfer of information (including the Information) outside of the Users’ country.
 
+## **jobsDB Advertisers and Online Applications**
+
+Making an online application to a job advertisement on the Site is a free and optional service that requires users to complete mandatory fields (for example first name, last name, phone and email) so that Advertisers can identify and contact the applicants. When you apply for a job advertisement on the Site applications, including attachments and cover letters, are:
+
+  * forwarded directly on to the Advertiser and/or its nominated representative; and/or
+  * stored in the jobsDB Recruitment Centre on behalf of the Advertiser.
+
+
+
+The jobsDB Recruitment Centre allows Advertisers to easily and effectively manage their recruitment process via one central facility made available by jobsDB.
+
+By applying to a position advertised on the Site you are requesting that jobsDB pass the information you provide to the relevant Advertiser and/or their nominated representative. Any questions you have relating to a position advertised on jobsDB, your online application and/or the status of your application should be directed directly to the Advertiser or their nominated agent, not jobsDB.
+
+Any Personal Information retained by jobsDB as part of your application will only be used in accord with this Privacy Statement. The use of your information (personal or otherwise) by Advertisers is not within the control of jobsDB and if you have any questions about how an Advertiser uses your personal information or want to request access to any personal information that you have sent as part of an application or that has been provided to them as part of a jobsDB Profile (as defined below), you have the right to contact that Advertiser directly.
+
 ## jobsDB Profile
 
 jobsDB provides all Registered Users with the option of creating a personal jobsDB Profile (“ **jobsDB Profile** “). A jobsDB Profile can include a resume, employment and educational history, contact details, salary expectations, and preferred job classifications and locations. Advertisers who are approved by jobsDB are able to search jobsDB’s Profile database to find and contact relevant candidates. jobsDB provides Registered Users with a number of privacy options in relation to the access granted by jobsDB to Advertisers in respect of their jobsDB Profiles and Registered Users can elect how much of their jobsDB profile they wish to share (if any) with Advertisers based on the following privacy settings:
 
   * **STANDARD**  
-If you set your jobsDB Profile to standard, your Profile, except for your resume and contact details, can be seen by Advertisers searching jobsDB’s Profile database, and if an Advertiser wishes to purchase access to your jobsDB Profile, your full jobsDB Profile including your resume and contact details will be emailed immediately to the relevant Advertiser. Advertisers may also elect to send you a copy of the job opportunity for which they are recruiting, (by using the “invitations to apply for jobs” function).
+If you set your jobsDB Profile to standard, your Profile, except for your resume and contact details, can be seen by Advertisers searching jobsDB’s Profile database. Relevant content from the resume attached to your profile such as employment roles, descriptions of responsibilities and tasks, and educational history including schools, fields and periods of study, may also be scanned by jobsDB and presented to advertisers in the Profile database. Additionally, if an Advertiser wishes to purchase access to your jobsDB Profile, your full jobsDB Profile including your resume and contact details will be emailed immediately to the relevant Advertiser. Advertisers may also elect to send you a copy of the job opportunity for which they are recruiting, (by using the “invitations to apply for jobs” function).
   * **LIMITED**  
 If you set your jobsDB Profile to limited, your Profile, except for your resume and contact details, can be seen by Advertisers searching jobsDB’s Profile database and Advertisers may elect to send you a copy of the job opportunity for which they are recruiting, (by using the “invitations to apply for jobs” function). However, due to your privacy setting, Advertisers cannot purchase access to your jobsDB profile.
   * **HIDDEN**  
@@ -99,7 +114,9 @@ If you set your jobsDB Profile to hidden, your Profile, is completely hidden (th
 
 Advertisers who use the invitations to apply for jobs function will only receive access to your contact information if you respond directly to the job invitation sent to you.
 
-Where your profile has been bought by an Advertiser, you have replied to a job invitation sent by an Advertiser or you have applied for jobs directly on the Site using your profile, that Advertiser will have access to your up-to-date profile, including your contact details (as updated by you from time to time) for a period of one year after that Advertiser’s advertising package with jobsDB expires (maximum of 24 months) (a “ **Participating Advertiser** “). If however during the period that an Participating Advertiser has access to your updated profile, you subsequently change you profile setting to Hidden, Advertisers will no longer be able to see your profile, however, Participating Advertisers will retain the ability to access your profile (including your name), but will no longer be able to see your email address, contact phone number and work history.
+Where your profile has been bought by an Advertiser, you have replied to a job invitation sent by an Advertiser or you have applied for jobs directly on the Site using your profile, that Advertiser will have access to your up-to-date profile, including your contact details (as updated by you from time to time) for a period expiring two years from the date your profile was purchased, or date the Job Ad you responded was posted (as the case may be) (maximum of 24 months) (a “ **Participating Advertiser** ”). If however during the period that a Participating Advertiser has access to your updated profile, you subsequently change you profile setting to Hidden, whilst other Advertisers will no longer be able to see your profile, however, Participating Advertisers will retain the ability to access your profile (including your name), but will no longer be able to see your email address, contact phone number and work history.
+
+Additionally, to protect your privacy, all data stored by jobsDB on an advertiser’s behalf in the advertiser’s Recruitment Centre (including data about you that the advertiser may have) will be deleted after a 2 year period.
 
 All information provided when creating a jobsDB Profile (including your name, resume, email address, telephone numbers, employment and educational history) may be used by jobsDB for the purpose of improving placement opportunities for you or for tailoring specific products to you.
 
@@ -110,6 +127,12 @@ Registered Users can modify their jobsDB Profile, their resume or modify the pri
 You may also elect to clear your jobsDB Profile altogether. Cleared jobsDB Profiles may still however be stored by jobsDB in testing or backup systems for a period of time. jobsDB reserves the right to disable or clear a jobsDB Profile at any time at its sole discretion.
 
 Advertisers that place job ads on jobsDB, and that purchase jobsDB Profiles are asked by jobsDB to comply with all relevant laws and obligations relating to the use and disclosure of personal information. The use of your information (personal or otherwise) by these Advertisers is not within the control of jobsDB and we cannot accept responsibility for the conduct of these companies.
+
+## **Storing your resume**
+
+Registered Users may elect to store up to 10 resumes in their jobsDB account, and use those resumes when applying for a job.
+
+In order to provide advertiser with the most relevant information about you (and _depending on your jobsDB Profile privacy setting_ ), the primary resume attached to your jobDB Profile will also be scanned by jobsDB and relevant content may be displayed to advertisers in the jobsDB advertiser database. If you do not want content from your resume to be displayed to advertisers do not attach a resume _or_ do not select “Standard” privacy. For more information on how your resume will be used, see above under the heading “jobsDB Profile”.
 
 ## Subscription of Newsletter/Promotional Materials/Marketing Materials
 
@@ -176,7 +199,7 @@ jobsDB Singapore follows generally accepted industry standards to protect the pe
 
 ## Retention of Personal Data
 
-Once jobsDB Singapore has obtained a User’s personal information and/or data, it will be maintained securely in jobsDB Singapore’s system for the period necessary to fulfill the purposes for which the data was collected as set out under the section headed “ **Purpose of Collection of Personal Data** “. Once registered, Users may terminate his/her membership of the Site by contacting the Customer Service Assistant of jobsDB Singapore’s Customer Service Department at whose contact details are set out under the section headed “ **Enquiries** “. jobsDB Singapore may retain User’s personal information even after User has closed his/her account if retention is reasonably necessary to comply with our legal obligations, meet regulatory requirements, resolve disputes between Users, prevent fraud and abuse, or enforce this Privacy Statement and the **[Terms and Conditions](https://sg.jobsdb.com/en-sg/pages/terms/terms-conditions)**.
+Once jobsDB Singapore has obtained a User’s personal information and/or data, it will be maintained securely in jobsDB Singapore’s system for the period necessary to fulfill the purposes for which the data was collected as set out under the section headed “ **Purpose of Collection of Personal Data** ”. Once registered, Users may terminate his/her membership of the Site by contacting the Customer Service Assistant of jobsDB Singapore’s Customer Service Department whose contact details are set out under the section headed “ **Enquiries** ”. jobsDB Singapore may retain User’s personal information even after User has closed his/her account if retention is reasonably necessary to comply with our legal obligations, meet regulatory requirements, resolve disputes between Users, prevent fraud and abuse, or enforce this Privacy Statement and the **[Terms and Conditions](https://sg.jobsdb.com/en-sg/pages/terms/terms-conditions)**.
 
 ## Changes in this Privacy Statement
 
