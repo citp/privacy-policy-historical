@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportrelief.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230074421id_/http%3A//www.sportrelief.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportrelief.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602153603id_/http%3A//www.sportrelief.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sport Relief
 
@@ -165,15 +165,15 @@ Cookie name
 
 Cookie description  
   
-__utma
+__ut
 
 | 
 
-We use a service called Google Analytics which collects information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from, and the pages they visited.
+We use a service called Google Analytics which collects information about how visitors use our site. We use the information to promote our campaigns online (including via search and display advertising and using a feature called “remarketing” (displaying relevant ads to people who have visited our site whilst they browse other sites), as well as to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from, and the pages they visited.
 
-Google Analytics also provides high level visitor demographics and interests data taken from the Google Ads Display Network. These additional information helps us better understand our audience and improve the services we offer.
+Google Analytics also provides high level visitor demographics and interests data taken from the Google Ads Display Network. This additional information helps us better understand our audience and improve the services we offer.
 
-For more information about these cookies, please visit [this link](http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html)  
+For more information about these cookies, please visit [this link](http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html) If you wish to opt out from Google Analytics, you can download an opt-out tool from Google [here](https://tools.google.com/dlpage/gaoptout/).  
   
  _Yieldify_  
   
