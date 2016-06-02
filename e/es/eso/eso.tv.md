@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the eso.tv privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212105649id_/http%3A//us.totalpsychics.com/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eso.tv privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602173911id_/http%3A//us.totalpsychics.com/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | TotalPsychics.com
 
 ## Privacy Policy
 
-We are committed to safeguarding the privacy of the users of  **Totalpsychics.com** ; this policy sets out how we will treat your personal information.
+We are committed to safeguarding the privacy of the users of  **TotalPsychics.com** ; this policy sets out how we will treat your personal information.
 
 **1.) Collection of Information**
 
@@ -16,7 +16,7 @@ b.) information related to any transactions carried out between you and us on or
 
 c.) information that you provide to us for the purpose of signing up with us;
 
-d.) logs of all user activities on  **Totalpsychics.com** , including private sessions, in order to ensure the safety of Experts and the quality of the service provided to Visitors.
+d.) logs of all user activities on  **TotalPsychics.com** , including private sessions, in order to ensure the safety of Experts and the quality of the service provided to Visitors.
 
 **2.) Cookies**
 
@@ -81,7 +81,7 @@ We may also notify you of changes to our privacy policy by e-mail.
 
 **7.) Your rights**
 
-If you have provided us with any personal information,  **you may request us to remove such information**  from our records by contacting us in e-mail at support@totalpsychics.com
+If you have provided us with any personal information,  **you may request us to remove such information**  from our records by contacting us in e-mail at [info@totalpsychics.com](mailto:info@totalpsychics.com)
 
 **8.) Third party websites**
 
@@ -93,6 +93,6 @@ Please let us know if the personal information which we hold about you needs to 
 
 **10.) Contact**
 
-**If you have any questions**  about this privacy policy or our treatment of your personal data, please write to us by e-mail to support@totalpsychics.com
+**If you have any questions**  about this privacy policy or our treatment of your personal data, please write to us by e-mail to [info@totalpsychics.com](mailto:info@totalpsychics.com)
 
 1. Changes to the policy – in particular as to permissible uses of personal data – may not be retrospective. In other words, if you collect personal information on one basis, you cannot, simply by changing the terms of your policy, go on to legitimately use that information on a different basis.
