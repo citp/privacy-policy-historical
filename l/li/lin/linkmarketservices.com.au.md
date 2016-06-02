@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the linkmarketservices.com.au privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224002256id_/http%3A//www.linkmarketservices.com.au/corporate/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkmarketservices.com.au privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602084614id_/http%3A//www.linkmarketservices.com.au/corporate/Privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
 This privacy statement provides a succinct overview of how the companies of the Link Group deal with the personal information of individuals.
 
-The Link Group’s complete Privacy Policy can be accessed by calling +61 1800 502 355 (free call within Australia), 9am–5pm (Sydney time), Monday to Friday (excluding public holidays) and requesting a copy. This Privacy Statement takes into account changes made by the Privacy Amendment (Enhancing Privacy Protection) Act 2012 and was last updated in March 2014.
+The Link Group's complete Privacy Policy can be accessed by calling +61 1800 502 355 (free call within Australia), 9am-5pm (Sydney time), Monday to Friday (excluding public holidays) and requesting a copy. This Privacy Statement takes into account changes made by the Privacy Amendment (Enhancing Privacy Protection) Act 2012 and was last updated in February 2016.
 
 ### Personal Information Handling Practices
 
-**_Pseudonymity and Anonymity_**
+**Pseudonymity and Anonymity**
 
 When contacting a company of the Link Group, you generally have the right to remain anonymous (nameless) or to use a pseudonym (fictitious name) to protect your identity. However, if you wish to make enquiries about a specific account, we may need to identify you first, before we can lawfully disclose personal information.
 
-**_Collection of Information_**
+**Collection of Information**
 
 The Link Group often acts as collection agent for our Clients, and we only collect personal information that is reasonably necessary for, or directly related to, one or more of our functions or activities; or because it is required under relevant law or regulation.
 
@@ -26,17 +26,17 @@ We normally collect personal information directly from the individual or their a
 
 
 
-**_Dealing with Unsolicited Information_**
+**Dealing with Unsolicited Information**
 
-The Link Group sometimes receives unsolicited information from individuals or other sources. If we determine that we could not have collected the information for one or more of our functions or activities, we will take reasonably practicable steps to de-identify or destroy the information. Alternatively, we will take reasonable steps to protect the information from misuse or unauthorised disclosure. Disclosure of unsolicited information we hold may be made where required or permitted by law.
+The Link Group sometimes receives unsolicited information from individuals or other sources. If we determine that we could not have collected the information for one or more of our functions or activities, we will take reasonably practicable steps to de-identify or destroy the information. Alternatively, we will take reasonable steps to protect the information from misuse or unauthorised disclosure. Disclosure of unsolicited information we hold may be made where required or permitted by law. 
 
-**_Notification of Collection_**
+**Notification of Collection**
 
 The Link Group often acts as collection agent for our Clients. All reasonable and practicable steps are taken to notify you of certain matters, or to ensure that you are aware of certain matters, at or before the time of collection, or as soon as practicable afterwards.
 
 Where a form is used to collect personal information, it will generally contain a collection notice (or reference to where a collection notice can be obtained) and individuals may be asked to confirm they have reviewed that notice. Similarly, if you contact a company within the Link Group, individuals may hear a recorded privacy script at the commencement of the call.
 
-**_Use and Disclosure_**
+**Use and Disclosure**
 
 We only use or disclose personal information where it is reasonably necessary for, or directly related to, one or more of our functions or activities; or because it is required under relevant law or regulation.
 
@@ -45,19 +45,19 @@ We do not sell personal information, and we do not give personal information to 
   * We have consent from the individual;
   * The individual would reasonably expect, or has been advised that personal information may be used or disclosed;
   * If the use or disclosure is required by lawful authority; or
-  * If the use or disclosure relates to one or more Permitted General Situations under the Privacy Act 1988 including (but not limited to) a serious and imminent threat to somebody’s life or health, or if it is reasonably necessary for law enforcement.
+  * If the use or disclosure relates to one or more Permitted General Situations under the Privacy Act 1988 including (but not limited to) a serious and imminent threat to somebody's life or health, or if it is reasonably necessary for law enforcement.
 
 
 
 The Link Group takes reasonable steps to confirm that third parties with whom we deal, are also compliant with the Privacy Act.
 
-In executing services, activities and functions, where necessary, personal information may be disclosed to third parties and/or related bodies corporate currently located in Australia, India, New Zealand, Papua New Guinea, South Africa, Canada, the United States, the United Kingdom, France, China [Hong Kong] and Germany.
+In executing services, activities and functions, where necessary, personal information may be disclosed to third parties and/or related bodies corporate currently located in Australia, New Zealand, the United Kingdom, France, Germany, Luxembourg, Switzerland, the United States of America, Papua New Guinea, China [Hong Kong], India, United Arab Emirates, South Africa, Canada and the Philippines.
 
-**_Direct Marketing_**
+**Direct Marketing**
 
 The Link Group may use the personal information we hold to provide you with information about relevant products and services that may be of interest or benefit to you. If you do not wish to receive marketing material you can opt out at any time by contacting us or unsubscribing.
 
-**_Data Quality and Security_**
+**Data Quality and Security**
 
 We take reasonable steps to ensure that the information we hold about you is relevant, accurate, up-to-date and complete. Furthermore, we take all reasonable and practicable steps to protect the personal information we hold against loss, unauthorised access, misuse, modification, disclosure or interference.
 
@@ -75,6 +75,6 @@ The Link Group is bound by the Australian Privacy Principles [APPs] in the Priva
 
 Link may make changes to the Privacy Statement from time to time, without notice to any person or third party.
 
-If you have any questions or if you would like to give us feedback or make a complaint about how we handle your information, contact us by phone on +61 1800 502 355 (free call within Australia), 9am–5pm (Sydney time) Monday to Friday (excluding public holidays); or by email to [privacy.officer@linkmarketservices.com.au](mailto:privacy.officer@linkmarketservices.com.au "privacy.officer@linkmarketservices.com.au") or by mail to, the Privacy Officer, Link Group, Locked Bag A14, Sydney South NSW 1235.
+If you have any questions or if you would like to give us feedback or make a complaint about how we handle your information, contact us by phone on +61 1800 502 355 (free call within Australia), 9am-5pm (Sydney time) Monday to Friday (excluding public holidays); or by email to [privacy.officer@linkgroup.com](mailto:privacy.officer@linkgroup.com "privacy.officer@linkgroup.com") or by mail to, the Privacy Officer, Link Group, Locked Bag A14, Sydney South NSW 1235.
 
-For a printable copy of this statement, please [click here](https://web.archive.org/corporate/downloads/LG_Privacy_Statement_B_v3.pdf)
+For a printable copy of the Privacy Policy, please [click here](http://linkgroup.com/docs/Link_Group_Privacy_Policy.pdf).
