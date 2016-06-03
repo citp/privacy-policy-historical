@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the oneshetwoshe.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203132718id_/http%3A//oneshetwoshe.com/2013/07/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneshetwoshe.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603175727id_/http%3A//oneshetwoshe.com/2013/07/privacy-policy.html) for the most accurate reproduction.*
 
-# Or so she says…:Privacy Policy - Or so she says...
+# Privacy Policy - Or so she says...
 
-**Privacy Policy**
+This post may contain affiliate links. For more information, see the [disclosure policy](http://oneshetwoshe.com/2009/09/disclosure-policy.html).
+
+ **Privacy Policy**
 
 **Welcome to Or so she says…**
 
@@ -62,8 +64,6 @@ Please note that ‘Or so she says…’ may have financial relationships with s
 ‘Or so she says…’ is controlled, operated and administered entirely within the United States. By using ‘Or so she says…’ and/or participating in the activities of ‘Or so she says…’ Community, you signify your agreement to the terms of this Privacy Statement. If you do not agree with this Privacy Statement, please do not disclose any personal information through our site. ‘Or so she says…’ may modify this Privacy Statement at any time, at its discretion, and modifications are effective upon being posted on this the applicable Site. You are responsible for reviewing this Privacy Statement periodically to ensure that you are aware of any changes to it.
 
 This Privacy Policy is effective as of December 2013 and supersedes all earlier versions of our Privacy Policy
-
-[](https://www.pinterest.com/pin/create/button/)
 
   * Bio
   * Twitter
