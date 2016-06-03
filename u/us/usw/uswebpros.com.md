@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uswebpros.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228134122id_/http%3A//www.lunarpages.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uswebpros.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603141621id_/http%3A//www.lunarpages.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lunarpages Web Hosting
 
@@ -62,9 +62,9 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 If you have any questions or suggestions regarding our privacy policy, please contact us at:
 
-Add2Net, Inc.   
-Lunarpages Division   
-1360 N Hancock St.   
+Add2Net, Inc.  
+Lunarpages Division  
+1360 N Hancock St.  
 Anaheim, CA 92807  
 Or via email at [support@lunarpages.com](mailto:support@lunarpages.com)
 
@@ -76,23 +76,21 @@ Lunarpages does not specifically target this web site to children under 13 years
 
 #### How to Access or Modify Your Information
 
-Lunarpages offers hosting customers the opportunity to access or modify information provided during registration. To access or modify such information, visit your customer control panel and click [here](http://account.lunarpages.com/login.php).
+Lunarpages offers hosting customers the opportunity to access or modify information provided during registration. To access or modify such information, visit your customer control panel and click [here](http://account.lunarpages.com/login.php).
 
 #### Questions About Lunarpages Privacy Policy
 
 If you have any questions about this Privacy Policy or the practices described herein, you may contact:
 
 Customer Service  
-Add2Net, Inc.   
-Lunarpages Division   
-1360 N Hancock St.   
+Add2Net, Inc.  
+Lunarpages Division  
+1360 N Hancock St.  
 Anaheim, CA 92807  
 Or email: [support@lunarpages.com](mailto:support@lunarpages.com)
 
 #### Revisions to This Policy
 
-Lunarpages reserves the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. Any revision, amendment, or modification will be posted on our web site: [www.lunarpages.com.](http://www.lunarpages.com/)
+Lunarpages reserves the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. Any revision, amendment, or modification will be posted on our web site:[www.lunarpages.com.](https://web.archive.org/)
 
 Version 4.0 - 111413
-
-© Copyright 2000–2013 – Add2Net, Inc. All Rights Reserved.
