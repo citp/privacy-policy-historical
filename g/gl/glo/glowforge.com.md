@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the glowforge.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927201433id_/http%3A//glowforge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glowforge.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603075409id_/http%3A//glowforge.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Glowforge – the 3D Laser Printer
+# Privacy Policy - Glowforge - the 3D Laser Printer
 
 _Effective: Jan 15, 2015 (rev. August 26, 2015)_
 
