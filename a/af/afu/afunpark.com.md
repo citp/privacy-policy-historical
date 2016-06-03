@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afunpark.com privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021023936id_/http%3A//afunpark.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afunpark.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603024829id_/http%3A//afunpark.com/privacy.htm) for the most accurate reproduction.*
 
 # Insert title here
 
