@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the momentive.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006154328id_/http%3A//www.momentive.com/about_us.aspx%3Fid%3D302) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momentive.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603232842id_/http%3A//momentive.com/privacy-policy) for the most accurate reproduction.*
 
 # Momentive.com - Momentive Specialty Chemicals Privacy Policy
-
-About Us
-
-  
-| 
 
 **Momentive Privacy Policy**
 
@@ -13,7 +8,7 @@ Revised July 13, 2015
 
 This website is controlled and operated by Momentive Performance Materials, Inc. (“Momentive”) with registered seat Global Head Quarters, 260 Hudson River Road, Waterford, NY 12188 , USA.
 
-This Privacy Policy describes the information collection, use, and disclosure practices of the Momentive website, hosted at [_www.momentive.com_](http://www.momentive.com/) (the “Site”).
+This Privacy Policy describes the information collection, use, and disclosure practices of the Momentive website, hosted at [_www.momentive.com_ ](http://www.momentive.com/) (the “Site”).
 
 From time to time, Momentive may make changes to this Privacy Policy.  Such changes do not have retroactive effect, they only apply to our future practice.  Any such future modifications to this Privacy Policy will be posted on the Site, with an updated “Revised” date at the top.  Your continued use of the Site after any changes have been posted constitutes your agreement to those changes.
 
@@ -21,7 +16,7 @@ From time to time, Momentive may make changes to this Privacy Policy.  Such cha
 
 **Personal Information**   
 
-Whenever you browse the Site, Momentive’s web server will temporarily log each access to its log file. Through this process, Momentive will collect and store the below data until they are deleted in accordance with statutory requirements:
+Whenever you browse the Site, Momentive’s web server will temporarily log each access to its log file. Through this process, Momentive will collect and store the below data until they are deleted in accordance with statutory requirements: 
 
   * IP address of requesting system
   * Time and date of access
@@ -52,37 +47,37 @@ To ensure a good user experience, our Site also uses system cookies that contain
   * You are able to use interactive elements of the Site, such as forms
   * Our server can distinguish between your computer and other users, so you can see the information that you have requested.
 
- 
+
 
 When you close your browser the cookie will be deleted and the Site will 'forget' your session.
 
-The following table gives details of the different types of cookies that might be used during a session.
+The following table gives details of the different types of cookies that might be used during a session. 
 
-|    
+   
 
-**Cookie Names**
-
-    |    
-
-**Purpose**
+**Cookie Names**  
 
     |    
 
-**Stays Until**
+**Purpose**  
+
+    |    
+
+**Stays Until**  
 
      
 ---|---|---  
   
 
-**Google Analytics Cookies:**
+**Google Analytics Cookies:**  
 
      
 
-**__utma, __utmb, __utmc, __utmt,    __utmz, _ga, _gat**
+**__utma, __utmb, __utmc, __utmt,    __utmz, _ga, _gat**  
 
    |   
 
-We use Google Analytics for our   web analytics tool.  The information   collected helps us to continually address the needs of our visitors.  Our configuration uses the Anonoymize IP   function provided by Google to protect the identity of each user.  Further information as well as Opt-Out   capabilities can be found at [_http://www.google.com/analytics_](http://www.google.com/analytics). 
+We use Google Analytics for our   web analytics tool.  The information   collected helps us to continually address the needs of our visitors.  Our configuration uses the Anonoymize IP   function provided by Google to protect the identity of each user.  Further information as well as Opt-Out   capabilities can be found at [_http://www.google.com/analytics_ ](http://www.google.com/analytics). 
 
    |   
 
@@ -91,11 +86,11 @@ Google Analytics Cookies may   exist up to 2 years.
     
   
 
-**System Cookies:**
+**System Cookies:**  
 
      
 
-**.ASPXAUTH, AVESTA_ENVIRONMENT, ASP.NET_SessionId,    ASPSESSIONIDQATCDDTA, ASPSESSIONIDSARSRCCS, BC_BANDWIDTH, ecm, EkAnalytics,   EktGUID, Region, IN_HASH, JSESSIONID, lidc, uit, X-Mapping-mlknngpl**
+**.ASPXAUTH, AVESTA_ENVIRONMENT, ASP.NET_SessionId,    ASPSESSIONIDQATCDDTA, ASPSESSIONIDSARSRCCS, BC_BANDWIDTH, ecm, EkAnalytics,   EktGUID, Region, IN_HASH, JSESSIONID, lidc, uit, X-Mapping-mlknngpl**  
 
    |   
 
@@ -109,20 +104,20 @@ System Cookies will be automatically deleted   within 1 day or until your brow
   
 If you would like to opt out of the advantages of these cookies, you can read in the ‘help’ function on your browser how to adjust your browser to prevent these cookies, accept new cookies, or delete existing cookies. You can also learn there how to block all cookies or set up notifications for new cookies. However, rejection of a cookie may limit the functionality that is available to you when you visit this Site.
 
-**SHARING OF INFORMATION**
+**SHARING OF INFORMATION**  
 
 When you provide information to Momentive, it may be shared with third party service providers to perform business functions for us or on our behalf including, but not limited to, fulfilling your requests and offering you other Momentive products and services that may be of interest to you. Momentive does not share, sell, or lease personal information about you to any third parties for their own direct marketing use. Momentive may disclose information about you to other third parties if we believe that we have a legal obligation to do so or where we believe disclosure is necessary to protect our rights, and/or comply with a judicial proceeding, court order, or legal process.  In the event Momentive merges with another company, or another company acquires all or part of Momentive’s assets, including without limitation, in the event of bankruptcy, personal information compiled or owned by Momentive may be among the items transferred in that transaction. In addition, the information you provide may be shared with Momentive operating units or departments, as well as affiliates or other companies under common ownership with Momentive, whether located in the United States or in other parts of the world.
 
-**DATA SECURITY**
+**DATA SECURITY**  
 
 Momentive maintains reasonable physical, electronic, and administrative safeguards to protect your personal information from unauthorized access. Access to information about you is restricted to those Momentive workers who need to know the information to respond to your inquiry or request. 
 
-**LINKS**
+**LINKS**  
 
 This Site may feature links to other websites. Momentive is not responsible for the content, security, or privacy practices employed by other sites. You should contact these companies directly if you have any questions about their collection or use of information about you.
 
-**CONTACT US**
+**CONTACT US**  
 
 Please contact Momentive if you wish to modify or verify personal information that you have submitted or if you have questions about the information that is maintained.
 
- If you have any questions or concerns about this Privacy Policy, please contact us at [**_webprivacy@momentive.com_**](mailto:webprivacy@momentive.com).
+ If you have any questions or concerns about this Privacy Policy, please contact us at [**_webprivacy@momentive.com_** ](mailto:webprivacy@momentive.com).
