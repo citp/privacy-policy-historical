@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the westernjournalism.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215132448id_/http%3A//www.westernjournalism.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westernjournalism.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604012816id_/http%3A//www.westernjournalism.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[Patrick Brown](http://www.westernjournalism.com/author/kwadmin/) October 11, 2011 at 1:01pm
 
 **Updated 7/7/2015**
 
