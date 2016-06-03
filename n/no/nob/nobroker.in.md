@@ -1,6 +1,247 @@
-> *The following text is extracted and transformed from the nobroker.in privacy policy that was archived on 2015-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151020043634id_/http%3A//www.nobroker.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nobroker.in privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604011654id_/https%3A//www.nobroker.in/privacy) for the most accurate reproduction.*
 
 # Broker free Apartments, shared accommodation, pg, houses for rent. NoBroker helps in renting apartment without broker
+
+Loading...
+
+####  Create a NoBroker account
+
+###  Create a NoBroker account
+
+#### Or do it the easier way
+
+or 
+
+or 
+
+No need to remember password, we'll never post anything on your wall.
+
+###### By clicking "Sign up" you confirm that you accept the [Terms of Service](https://web.archive.org/terms-and-condition) and [Privacy Policy](https://web.archive.org/privacy).
+
+####  Use your NoBroker account
+
+###  Use your NoBroker account
+
+or 
+
+#### Or do it the social way
+
+or 
+
+_* we remember our promise of no posts on your wall_
+
+Negotiate rent
+
+Schedule a visit
+
+Custom Message
+
+Basic Free
+
+New Property Alerts
+
+Weekly
+
+Personalised Recommendations
+
+Basic Free
+
+New Property Alerts
+
+Weekly
+
+Date of Purchase
+
+11/3/2015
+
+Freedom 999
+
+New Property Alerts
+
+Daily
+
+Personalised Recommendations
+
+Freedom 999
+
+New Property Alerts
+
+Daily
+
+Online Rental Agreement
+
+25% OFF
+
+Personalised Recommendations
+
+Date of Purchase
+
+11/3/2015
+
+Relax 1999
+
+Most Popular 
+
+New Property Alerts
+
+Instant
+
+Personalised Recommendations
+
+Relax 1999
+
+New Property Alerts
+
+Instant
+
+Online Rental Agreement
+
+50% OFF
+
+Personalised Recommendations
+
+Date of Purchase
+
+11/3/2015
+
+Personal Manager
+
+For assistance call us at : +91-70-223-223-71 .*All Plans are Valid for 3 months period, terms and conditions apply
+
+Basic Free
+
+New Property Alerts
+
+Weekly
+
+Date of Purchase
+
+11/3/2015
+
+Freedom 999
+
+New Property Alerts
+
+Daily
+
+Online Rental Agreement
+
+25% OFF
+
+Personalised Recommendations
+
+Date of Purchase
+
+11/3/2015
+
+Relax 1999
+
+Personal Manager
+
+New Property Alerts
+
+Instant
+
+Online Rental Agreement
+
+25% OFF
+
+Personalised Recommendations
+
+Date of Purchase
+
+11/3/2015
+
+Assure 5999
+
+Personal Manager
+
+New Property Alerts
+
+Instant
+
+Online Rental Agreement
+
+25% OFF
+
+Personalised Recommendations
+
+Date of Purchase
+
+11/3/2015
+
+#### Congrats!
+
+You have successfully subscribed to our rental Plan. Enjoy the Benefits. 
+
+For assistance call us at : +91-70-223-223-71 . *All Plans are Valid for 3 months period, terms and conditions apply
+
+Relax
+
+Most Popular 
+
+  * Contacts owners and schedules appointments
+
+  * Negotiates rent on your behalf
+
+  * Provides city level expertise
+
+  * Organises online rental agreement
+
+
+
+
+New Property Alerts
+
+Instant
+
+Personalised Recommendations
+
+Relax 1999
+
+New Property Alerts
+
+Instant
+
+Personalised Recommendations
+
+Date of Purchase
+
+11/3/2015
+
+Personal Manager
+
+Freedom
+
+New Property Alerts
+
+Daily
+
+Personalised Recommendations
+
+Freedom 999
+
+New Property Alerts
+
+Daily
+
+Personalised Recommendations
+
+Date of Purchase
+
+11/3/2015
+
+For assistance call us at : +91-70-223-223-71 .*All Plans are Valid for 3 months period
+
+### Ashish Jain (Bangalore)
+
+I used NoBroker relax plan for my house search in Bangalore, and for the first time in my house hunt I was not worried about calling or meeting the owner. Pushpak , my relationship manager was really helpful and knows Bangalore quite well. Helped me find a place near my kids school and wife's office. I think with relax plan NoBroker has removed the discomfort out of house search. Will surely recommend this plan to my friends. 
+
+Click below to post your property for rent
+
+Give a missed call on the below number to list your property for sale
+
+### Select a day and time below and meet the owner without any hassle
 
 ## Privacy Policy
 
@@ -50,3 +291,7 @@ You may opt-out of receiving notifications from us by sending us an email at hel
     * You can email us on hello@nobroker.in 
 
 
+
+Click below to post your property for rent
+
+Give a missed call on the below number to list your property for sale
