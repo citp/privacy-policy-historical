@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tvarticles.me privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030050455id_/http%3A//tvarticles.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvarticles.me privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603211802id_/http%3A//tvarticles.me/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Tv Articles
+# Privacy Policy - TvArticles.ME
 
 TVArticles cares about how your personal information is used and shared, and we take your privacy seriously. Please read the following terms to learn more about our privacy policy. By registering to and creating account at TVArticles.me you are accepting the practices outlined in this Privacy Policy.
 
