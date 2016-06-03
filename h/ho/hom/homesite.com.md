@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homesite.com privacy policy that was archived on 2015-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151014212108id_/https%3A//homesite.com/privacy-policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesite.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603224304id_/https%3A//www.homesite.com/privacy-policy/index.htm) for the most accurate reproduction.*
 
 # Homesite - Home Insurance
 
@@ -24,21 +24,21 @@ P.O. Box 1000
 Chester, PA 19022  
 1-800-916-8800
 
-_Virginia_  
-In connection with this application for insurance, we shall review your credit report or obtain or use an insurance credit score based on the information contained in that credit report. We may use a third party in connection with the development of your insurance credit score. You may request that your credit information be updated and if you question the accuracy of the credit information, we will, upon your request, reevaluate you based on corrected credit information from a consumer reporting agency.
-
-_Extraordinary circumstances (CT, IA, KS, KY, MI, MT, NJ, NV, RI, NH)_  
+_Extraordinary circumstances (CT, IA, IL, KS, KY, LA, MI, MT, NJ, NM, NV, RI, NH)_  
 If your credit information has been adversely impacted by an extraordinary life circumstance that has occurred within the last 3 years, you may request in writing that we consider this when using your credit information. These extraordinary life circumstances include:
 
-  * Catastrophic event, as declared by the federal or any state government (IA, KS, KY, MI, NV, RI, NH)
-  * Serious illness or injury to the consumer or the consumer’s immediate family
+  * Catastrophic event, as declared by the federal or any state government (IA, KS, KY, LA, MI, NV, RI, NH)
+  * Serious illness or injury to the consumer or the consumer’s immediate family (NM - this includes an acute or chronic medical condition, illness, injury or disease)
   * Death of a spouse, child or parent of the insured
-  * Divorce (IA, KS, KY, MI, NJ, NV, RI, CT)
+  * Divorce (IA, IL, KS, KY, MI, NJ, NM, NV, RI, CT)
   * Identity theft
   * Interruption of alimony/support payments (NH)
   * Temporary loss of employment
+    * IL – involuntary loss of employment for a period of 3 months or more
+    * NM – involuntary loss of employment for more than three consecutive months
   * Military deployment overseas (IA, KS, KY, MI, MT, NJ, NV, RI)
-  * Total or other loss that makes your home uninhabitable (CT)
+  * Total or other loss that makes your home uninhabitable (CT, NM)
+  * The personal guaranty of a business loan (LA)
 
 
 
@@ -100,6 +100,25 @@ Binghamton, NY 13902-9953
 If we agree to comply with your request, we will notify you within thirty (30) business days of receiving your request. We will then furnish the amended information to any person you designate, who may have received the information within the past two (2) years, as well as to any person or organization who either supplied us with the information or to whom we disclosed it.
 
 If we are unable to comply with your request, we will notify you within thirty (30) business days of receiving your written request with the reasons for our decision. If you disagree with the reasons for our decision, you have the right to file a concise statement of what you think is correct, relevant or fair information. Your statement will be filed with the disputed information and will be furnished to any person, insurance institution, agent or insurance support organization who either supplied us with information or to whom we disclosed it. Your statement will also be furnished to anyone reviewing the disputed information.
+
+**Your California Privacy Rights**
+
+California Civil Code Section §1798.83 permits our Website users who are California residents to request certain information regarding our disclosure of personal information to third parties. To make such a request, please write us at 100 Federal St, Suite 4, Boston, Massachusetts 02110-1979.
+
+**Notification of Changes**
+
+Homesite Group Incorporated reserves the right to change this Privacy Policy from time to time, and such changes will be effective immediately upon posting to this Web site. Your continued use of this web site after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates. The date the Privacy Policy was last revised is identified at the bottom of the document. Under certain circumstances, we may also elect to notify you of changes or updates to our Privacy Policy, or to request your consent for such changes, by additional means, such as posting a notice on the front of our Web site and sending you an email.
+
+**Non Homesite Web Sites**
+
+Homesite is not responsible for the privacy practices or the content of any other web sites on the internet that may be linked to the Homesite web site. Please note that when you click on links to web sites outside of www.homesite.com, you are transferred to another web site that may not be under Homesite's control. We encourage you to read the privacy statements of these linked sites as their privacy policy may differ from ours.
+
+**Web Cookie Policy**
+
+Our web server does not use cookies. Other parties may not collect personally identifiable information about a user, such as Web surfing behavior or user preferences for a specific website. 
+
+This Internet Privacy Policy applies to the following Homesite Group Incorporated Subsidiaries and Affiliates:  
+Homesite Insurance Company of California, Homesite Indemnity Company, Homesite Insurance Company of Illinois, Homesite Insurance Company of New York, Homesite Insurance Company of Georgia, Homesite Insurance Company of the Midwest, Homesite Lloyds of Texas, Homesite Insurance Company of Florida, Homesite Insurance Company and Midvale Indemnity Company.
 
 **Fraud Warning**
 
@@ -321,6 +340,60 @@ D = Dwelling C = Contents
 
 ** Dwelling coverage in the Condominium Owner’s policy is limited to those building items for which the insured is made responsible under the Condominium Association’s contract.
 
+**Maryland Only**
+
+**Flood Coverage Disclosure Notice**
+
+**All homeowner insurance policyholders are cautioned that:**
+
+Your policy excludes coverage for damage caused by flooding of all types. This exclusion may exclude any and all damages resulting from storm surge from a hurricane, surface water, flash floods, waves, tidal water, tidal waves, wind driven rain or water, or any other overflow of water, and spray from any of these events. For further details, please see the language of your policy. The language of your policy will control the obligations of the parties.
+
+You are further advised that to be covered for such a loss, you will have to obtain a separate flood insurance policy by applying to the National Flood Insurance Program (NFIP). Your need for flood coverage can be confirmed with the NFIP or your mortgage lender. If available in your location, the NFIP can provide both structure and contents coverage. A claim under a flood insurance policy may be adjusted and paid on a different basis than a claim under a homeowners policy.
+
+You can contact the National Flood Insurance Program for information at:
+
+National Flood Insurance Program  
+P.O. Box 619  
+Lanham, MD 20706  
+
+
+**Statement of Additional Optional Coverages**  
+**Not included in the Standard Homeowners Insurance Policy**
+
+Your standard homeowners insurance policy does not cover all risks. You may need to obtain additional insurance to cover loss or damage to your home, property, and the contents of your home to cover the risks related to business or personal activities on your property. We offer the following additional coverages that you may choose to purchase. We urge you to review these optional endorsements and credits.
+
+**_Extended Replacement Cost on Dwelling_** This endorsement can be used to increase Coverage A (dwelling) by either 25% or 50% to better accommodate a customer's needs.
+
+**_Earthquake_** This covers against a direct physical loss caused by an earthquake or earth movement. You may add this additional coverage for an additional premium. It is subject to a percentage of Coverage A deductible.
+
+**_Increase Deductibles_** By increasing the deductible, the policyholder may lower the cost of annual insurance premium. For instance increasing a $500 deductible to a $1000, 1% or 2% may decrease the annual premium significantly.
+
+**_Increase Limits on Other Structures_** Provides additional limits for Coverage B if needed. Only structures on the insured premises apply. You may increase up to double the original Coverage B amount.
+
+**_Water Back up and Sump Overflow_** Provides coverage for direct physical loss due to water backing up through sewers or drains and water which overflows from a sump. This is not a flood coverage, which requires a separate policy.
+
+**_Replacement Cost on Personal Property_** This endorsement protects the customer from receiving the depreciated value for their personal property. Instead contents will be replaced with new items of like kind and quality.
+
+**_Increased Limits on Personal Property_** This endorsement offers the insured the ability to increase certain personal property coverages from the standard homeowners limit. For instance, the basic homeowners policy insures jewelry for up to $1000 for the named perils; a customer may choose to increase that coverage to $5000.
+
+**_Increased Limits on Business Property_** For additional premium, this endorsement may increase the coverage for "business" property on the "residence premises".
+
+**_Scheduled Personal Property_** For additional premium, we offer open perils coverage for items such as jewelry, furs, cameras, musical instruments, silverware, fine arts and golfer's equipment. Not subject to a deductible, these items would be covered for the appraised value.
+
+**_Special Computer Coverage_** For additional premium, this would broaden the coverage for your computer due to direct physical loss. For example, if the policyholder drops a glass of water on the computer, this would be covered. This endorsement is subject to the policy deductible.
+
+**_Identity Theft_** This endorsement covers up to $15,000 for expenses incurred by the insured as a direct result from identity theft. The deductible would only be $250.
+
+**_Loss Assessment Coverage_** Specially designed for condominium owners, this coverage provides protection for assessments made by the condominium association resulting from loss to the property. The policyholder can choose the limit of coverage they wish up to $25,000 if the loss is caused by an insured peril.
+
+**_Watercraft_** This endorsement extends the limit of liability on your homeowners policy to your watercraft. This does not cover for the physical loss of the watercraft.
+
+**_Personal Injury_** With this endorsement, you can extend the limit of liability on your homeowners policy to cover you against libel, slander, and invasion of privacy.
+
+**_Home Day Care Coverage_** Registered family day care providers can purchase liability coverage in the amount of at least $300,000 to protect you against claims of bodily injury, property damage, or personal injury arising out of your activities as a day care provider.
+
+**_***Additional endorsements and credits are subject to availability and qualification._**
+
 **North Dakota only**
 
 Homesite will consider the insured’s claims history in determining whether to decline, cancel, nonrenew, or surcharge a policy and claims you incur will be reported to an insurance support organization.
@@ -333,3 +406,9 @@ _Protected Persons_
 Homesite Group Incorporated and all other insurance companies are prohibited by law from using anyone’s confidential abuse status as a basis for denying coverage; refusing to issue, renew, or reissue a policy; canceling or otherwise terminating a policy; restricting or excluding policy coverage or benefits; or charging a higher premium for a policy.
 
 A protected person has a right to request access to any confidential abuse information we have about them in our records or files. A protected person also has a right to request that we correct, amend, or delete any such information we have about them in our records or files. A notice detailing Homesite’s confidential abuse information practices is available on request.
+
+**Virginia**
+
+In connection with this application for insurance, we shall review your credit report or obtain or use an insurance credit score based on the information contained in that credit report. We may use a third party in connection with the development of your insurance credit score. You may request that your credit information be updated and if you question the accuracy of the credit information, we will, upon your request, reevaluate you based on corrected credit information from a consumer reporting agency.
+
+Last Modified On: April 2, 2016 
