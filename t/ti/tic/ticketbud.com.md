@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ticketbud.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906044406id_/http%3A//ticketbud.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketbud.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603124143id_/http%3A//ticketbud.com/privacy-policy) for the most accurate reproduction.*
 
 # Ticketbud · Privacy Policy
-
-##  Your data and customers are safe with us. 
 
 Ticketbud is owned and operated by Ideabud, Inc. (hereinafter, "Ideabud" or "we," "our," or "us"). This Privacy Policy describes Ideabud’s privacy commitment to you as a user of Ideabud. We recognize the potential sensitivity of the information that you may place on Ideabud. This Privacy Policy describes how Ideabud collects personal information about you when you visit our website and how Ideabud uses that information.
 
