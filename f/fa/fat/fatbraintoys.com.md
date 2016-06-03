@@ -1,25 +1,42 @@
-> *The following text is extracted and transformed from the fatbraintoys.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905072622id_/https%3A//www.fatbraintoys.com/info/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatbraintoys.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603095037id_/https%3A//www.fatbraintoys.com/info/privacy.cfm) for the most accurate reproduction.*
 
 # Fat Brain Toys Privacy Policy
 
-|  |    
-At Fat Brain Toys your privacy and security are our number one priority. We do not share any personally identifiable information about you with other companies, except in the case of dealing with manufacturers for order fulfillment and warranty issues, and/or to facilitate your transactions with our third party marketing partners. In such a case, we offer this information only with your consent, and we only provide it under strict confidentiality. We will NEVER sell or rent your name, email address, telephone or fax numbers, address, or credit card numbers. We do collect your IP address and general browsing patterns when you visit our site. We use this anonymous information to help diagnose problems with our website and to assist us with improving your shopping experience at Fat Brain Toys. 
+## Updated 2/24/2016
 
-Placing orders with Fat Brain Toys is safe, secure, private and easy. To ensure your security, we use Secure Sockets Layer (SSL) technology. SSL encrypts ALL of your personal information, protecting your confidential information from interception and hacking. Rest assured, your order is safe with us. If you have any questions about our privacy statement, your personal information, or if you would feel more comfortable placing your order with a real person, please do not hesitate to give us a call at 1-800-590-5987 or email us at [cs@fatbraintoys.com](mailto:cs@fatbraintoys.com). 
+  
+At Fat Brain Toys, your privacy and security are our number one priority. This Privacy Policy was created to inform you of the steps we take to maintain your privacy but also provide you with information on why we gather information from you, how we collect it, how we use it, and the choices you have regarding our use of personal information you have provided. 
 
-**Use of Cookies**   
-Fat Brain Toys makes use of a browser technology known as a cookie. A cookie is a small amount of data that a website stores in your web browser so that it can recalled at a later time. Fat Brain Toys uses cookies to keep track of the contents of your shopping cart. As we are very committed to your privacy, we do not analyze this data on the personal level and remains totally anonymous. Third party vendors, including Google, use cookies to serve the badge and ads based on a user's prior visits to your website. Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html). 
+By visiting our website or using Fat Brain Toys, you are accepting the terms described in this policy. We may modify or add to this policy on occasion, so we encourage you to review it periodically for updates. 
 
-**Non-personally Identifiable Information**   
-Our site also uses technologies known as action tags or web beacons. This is a common technology and is used to compile statistics about advertising performance. The technology does not use or collect personally identifiable information. We do not collect names or address and do not link actions to an individual person. We do collect aggregate statistics about the effectiveness of our advertising campaigns. This performance data may be shared with advertising partners. 
+**Why do we gather information?** Fat Brain Toys gathers personal information to process your orders, help improve our products and customer service, communicate with you, provide a more personalized shopping experience and to inform you, and your gift recipients, of special offers and discounts directly from us, our affiliated brands and selected third parties. 
 
-**Targetted Display Advertising**   
-We partner with third-party advertising company, SteelHouse, to deliver offers that are relevant to your interests based on what you've viewed on our site. SteelHouse's cookies only collect Non-Personally Identifiable Information for online marketing purposes. This information is anonymous and cannot be traced back to any individual. To learn more, read SteelHouse's Privacy Policy, [click here](http://www.steelhouse.com/privacy-policy). To choose to receive less relevant offers and decline to be included in our online offers through SteelHouse, [click here](http://www.steelhouse.com/opt-out). To opt-out of all online marketing provided by members of the Network Advertising Initiative (NAI) of which SteelHouse is a member, [click here](http://www.networkadvertising.org/). 
+**Information You Provide.** Fat Brain Toys collects and stores information from you through our website, emails, mail, and telephone. You provide us with your name, address, phone number, email address, credit card information and other information when you do such things as place an order, enter a contest, sign up for promotional emails, request a catalog or make use of other aspects of our website. That information is used to communicate with you, process your order, administer contests, provide catalogs or provide other information that you may request, collect payment for products and services you purchase, respond to your questions, and customize your shopping experience. We may also use this information to send you information about other products and services that may be of interest to you. 
 
-**Email**   
-When placing an order from Fat Brain Toys, you will normally receive four email communications from us, including an order confirmation, shipment confirmation, delivery confirmation, and a request to review the products you ordered. If you choose to opt in to such communications during the checkout process, we may also email you various marketing offers every 2-4 weeks throughout the year. If at any time you choose NOT to receive these communications, please visit the following page for additional opt out instructions: [http://www.fatbraintoys.com/optout.cfm](https://web.archive.org/optout.cfm)
+**Credit Card and Personal Information Data.** Fat Brain Toys takes numerous steps to protect any sensitive data you share with us. Fat Brain Toys' website employs Secure Socket Layer (SSL) software which means all personal data you send us (name, address, credit card information, etc.) is encrypted during the entire transmission process, protecting your confidential information from interception and hacking. If you're uncomfortable entering your payment information online, we encourage you to call our customer care representatives at 1-800-590-5987 and they will assist you with your order. 
 
-**Contact Information**   
+**PCI Compliance.** Security of your credit card and other payment information is extremely important to us. We meet or exceed all requirements of the Payment Card Industry Data Security Standards (PCI DSS) as established by the PCI Security Standards Council to protect your cardholder data. We employ a variety of methods, including firewalls, encryption, and other best practices to keep your payment information secure at all times. 
+
+**Use of "Cookies" and "Action Tags".** A "cookie" is a small data file sent to your browser from a web server and stored on your computer. We use cookies to let us know that you are a prior customer, user or Member and to provide certain features to you. Most web browsers allow you to disable the use of cookies. However, if you disable this feature, certain aspects of the Fat Brain Toys website, such as the shopping cart, may not function properly. 
+
+We have relationships with third parties who may receive non-personal information directly from the cookies placed by our website on your computer to assist us in analyzing and improving our business and products. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to our website. Users may opt out of Google's use of cookies by visiting the Google advertising opt-out page: <http://www.google.com/policies/technologies/ads/>
+
+Our website also uses a common web technology called "action tags" (also called single pixel gifs or web beacons) to anonymously track purchase, usage and other web activity information. Action tags (including third party tags) may be used to provide data to third parties for tracking purposes. However, our website does NOT use action tags to collect or transfer personal information. 
+
+**Email Addresses.** We do not sell, rent, share, or exchange our customers' email addresses (with the exception of the Norton Shopping Guarantee noted below), but we do use these addresses for our own promotional email marketing. You can opt out of receiving promotional emails at anytime. Instructions on how to opt out are included in every promotional email or you may opt out here: <https://www.fatbraintoys.com/optout.cfm>
+
+**Norton Shopping Guarantee.** The Norton Shopping Guarantee is a free service that we provide from the security experts at Symantec to our customers to protect their purchase and protect them against identify fraud. In order for us to activate our customers for this no cost, no obligation program, we provide Symantec with your email address upon making a purchase. You will receive one email from Symantec detailing the benefits of this program. Complete details on this program can be found here: <https://www.nortonshoppingguarantee.com/shoppers/>
+
+**Mailing Addresses.** Your mailing address may be added to our direct mail catalog mailing list. From time to time, that mailing list may be shared, rented or exchanged with other responsible businesses. If you do not want your name shared with businesses not directly affiliated with Fat Brain Toys, or if you do not want to receive the Fat Brain Toys catalog, please call 1-800-590-5987 or email cs@fatbraintoys.com. Please allow 2-4 weeks to process your request. 
+
+**Passwords.** Portions of the website (such as our Member registration) may require registration and log-in processes in which you will select a user ID and password. You are responsible for maintaining the confidentiality of any password and for all activities that occur using your password, whether or not authorized by you. You agree to immediately notify us of any unauthorized use of your password or accounts. 
+
+**Sharing Information.** Unless otherwise noted above, we do not rent, share or exchange customer email addresses in the ordinary course of business. However, we may sell, transfer or assign customer information in connection with a merger, consolidation, sale of assets or similar business transaction. 
+
+**Children.** Although we sell products intended for use by children, those products are intended for purchase by adults only. If you are under 18, you may use FatBrainToys.com only with permission of or supervision by a parent or guardian. The Fat Brain Toys website does not knowingly collect, maintain or disclose personal information from or about children. 
+
+**Contact Information**
+
 Fat Brain Toys  
 1405 N. 205th St., Ste. 120  
 Elkhorn, NE 68022  
@@ -27,6 +44,4 @@ Phone: 402-779-3181
 Fax: 402-779-3253  
 Email: cs@fatbraintoys.com 
 
-If you feel that we are not following our stated information policy, you may contact us at the above addresses or phone number, or state and local chapters of the Better Business Bureau.   
-  
----|---|---
+If you feel that we are not following our stated Privacy Policy, you may contact us via any of the methods listed above, or state and local chapters of the Better Business Bureau. 
