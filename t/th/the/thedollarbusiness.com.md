@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the thedollarbusiness.com privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013002610id_/https%3A//www.thedollarbusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedollarbusiness.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604012205id_/https%3A//www.thedollarbusiness.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY - The Dollar Business
+# Privacy Policy - The Dollar Business
 
-The Dollar Business is committed to protecting the privacy of Internet users. This statement discloses the privacy practices for The Dollar BusinessOnline, located at www.thedollarbusiness.com
+The Dollar Business is committed to protecting the privacy of Internet users. This statement discloses the privacy practices for The Dollar BusinessOnline, located at [www.thedollarbusiness.com](https://www.thedollarbusiness.com/)
 
-Questions regarding this statement should be directed to The Dollar Businessat reachus@thedollarbusiness.com or by contacting The Dollar Business, Vimbri Media Pvt. Ltd., 5-2-198/4, Distillery Road, Ranigunj, Secunderabad, Telangana – 500003, India or by calling our main number at +91-40-6677 0765.
+Questions regarding this statement should be directed to The Dollar Businessat [reachus@thedollarbusiness.com](mailto:reachus@thedollarbusiness.com) or by contacting The Dollar Business, Vimbri Media Pvt. Ltd., 5-2-198/4, Distillery Road, Ranigunj, Secunderabad, Telangana – 500003, India or by calling our main number at +91-40-67609990.
 
 The information gathered by The Dollar Business Online falls into two categories: (1) information voluntarily supplied by visitors to our website through optional registration and (2) tracking information gathered as visitors navigate through our sites.
 
-To make use of certain features on our website, visitors must provide certain information as part of the registration process. (We may ask, for example, for your name, email address, sex, age, and PIN code, and we might request information on your occupation, interests, and the like.) This information is used to generate reports that help www.thedollarbusiness.com assess the value of and interest in the site.
+To make use of certain features on our website, visitors must provide certain information as part of the registration process. (We may ask, for example, for your name, email address, sex, age, and PIN code, and we might request information on your occupation, interests, and the like.) This information is used to generate reports that help [www.thedollarbusiness.com](https://www.thedollarbusiness.com/) assess the value of and interest in the site.
 
 To help make our website more responsive to the needs of our visitors, we invoke a standard feature of browser software, called a “cookie”, to assign each visitor a unique, random number (a sort of user ID) that resides on your computer. The cookie does not personally identify the visitor as an individual; rather, cookies merely identify the computer that a visitor uses to access our sites. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply. A cookie cannot read data off your hard drive. Our advertisers may also assign their own cookies to your browser (if you click on their ads), a process that we do not control.
 
@@ -24,4 +24,4 @@ When we present information to our advertisers – to help them understand our a
 
 All information gathered on The Dollar Business Online is securely stored within The Dollar Business Online-controlled database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a posting to the discussion areas is available to anyone with Internet access.
 
-Note: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we’ll post the changes before they take effect. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be.
+Note: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we will post the changes before they take effect. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be.
