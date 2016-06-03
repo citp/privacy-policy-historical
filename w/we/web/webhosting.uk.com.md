@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webhosting.uk.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907102000id_/https%3A//www.webhosting.uk.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhosting.uk.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603222825id_/https%3A//www.webhosting.uk.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Web Hosting UK - Privacy Policy - Data Security
 
