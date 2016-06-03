@@ -1,24 +1,22 @@
-> *The following text is extracted and transformed from the pearsonplaces.com.au privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213185129id_/http%3A//www.pearson.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearsonplaces.com.au privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603032143id_/http%3A//www.pearson.com.au/privacy-policy) for the most accurate reproduction.*
 
 # 
 
 ## Privacy Policy
 
-In this Privacy Policy, "us", "we" or "our" means Pearson Australia Group Pty Ltd ABN 40 004 245 943 and its divisions (including without limitation Pearson Australia and Pearson Clinical and Talent Assessment) and related bodies corporate.
-
-We recognise the importance of privacy and are committed to protecting your privacy when handling your personal information. This Privacy Policy explains how we handle personal information in an open and transparent manner in accordance with the Australian Privacy Principles contained in the Privacy Act 1988 (Cth) ("Privacy Act") and other applicable privacy laws. Personal information is information or an opinion about an identified individual or an individual who is reasonably identifiable.
+In this Privacy Policy, "us", "we" or "our" means Pearson Australia Group Pty Ltd ABN 40 004 245 943 of 707 Collins Street, Melbourne, Victoria, Australia, 3008.
 
 This Privacy Policy will be reviewed from time to time to take account of new or amended laws, new technology and/or changes to our operations and practices and the changing business environment. All personal information held by us will be governed by the most recently updated policy.
 
-This policy addresses the following:
+This policy addresses the following: 
 
   * what information we collect;
-  * if you are minor (aged under 18 years);
+  * if you are a minor (aged under 16 years);
   * how we collect it;
-  * why we collect it;
-  * how we use it;
+  * why we collect it; 
+  * how we use it; 
   * how we disclose it;
-  * opting in and out;
+  * opting in and out; 
   * how we hold it - management and security; and
   * accessing and updating or correcting your information and how to contact us.
 
@@ -49,7 +47,7 @@ Parents and guardians of children/minors are personally responsible for monitori
 
 If you are a child or young adult under the age of 18 years, you must ask your parent or legal guardian to approve your provision of personal information before you submit your personal details to us.
 
-### How we collect it
+How we collect it
 
 We may collect your personal information from a variety of sources, including from you, advertisers, mailing lists, recruitment agencies, contractors and business partners.
 
@@ -89,7 +87,7 @@ We may disclose personal information, and you consent to us disclosing your pers
 
 We may also disclose personal information, and you consent to us disclosing your personal information, to third parties:
 
-  * engaged by us to perform functions or provide products and services on our behalf, such as processing of credit card information, mailouts, debt collection, marketing, research, advertising and hosting of customer relationship management (CRM) systems. Such third parties include Rocket Science Group LLC (including MailChimp), SurveyMonkey Inc (including Wufoo) and Salesforce;
+  * engaged by us to perform functions or provide products and services on our behalf, such as processing of credit card information, mailouts, debt collection, marketing, research, advertising and hosting of customer relationship management (CRM) systems. 
   * engaged by us as contractors (for example, assessment administrators or examiners, or project managers) to assist with our research projects in which you participate or wish to participate;
   * that are our agents, business partners or joint venture entities or partners;
   * that sponsor or promote any competition that we conduct or promote via our services;
@@ -100,7 +98,7 @@ We may also disclose personal information, and you consent to us disclosing your
 
 
 
-Some of these third parties to which we may disclose your personal information may be located in other countries including United States of America, Canada, the United Kingdom, Singapore, Hong Kong, the Ukraine, China and Luxembourg.
+Some of these third parties to which we may disclose your personal information may be located in other countries including United States of America, Canada, the United Kingdom, Singapore, Hong Kong, Philippines, Egypt  and members of the European Union.
 
 We hereby expressly inform you that if you consent to the disclosure of personal information about you by us to a third party who is not in Australia or an external Territory, subclause 8.1 of the Privacy Act 1988 (Cth) will not apply to the disclosure. After being so informed, you hereby consent to the disclosure.
 
@@ -112,7 +110,7 @@ You will be given the opportunity to "opt out" from receiving communications fro
 
 You may also opt-out of Google Analytics and customise your Google Display Network ads by using the Ads Settings. You can also access Google Analytics' currently available opt-outs for the web.
 
-### How we hold it - management and security
+### How we hold it \- management and security
 
 We have appointed a Privacy Officer to oversee the management of personal information in accordance with this Privacy Policy, the Privacy Act and other applicable privacy laws.
 
@@ -132,8 +130,9 @@ We request that you keep your information as current as possible so that we may 
 
 If you wish to access, update or correct any personal information that we hold about you, or if you have any questions or would like to submit a complaint about how we collect, use, disclose, store or otherwise handle your personal information, you can contact the department that collected your personal information in the first instance, or write to our Privacy Officer at the contact details below. We will acknowledge your complaint promptly and use best endeavours to work with you to resolve your complaint.
 
-**The Privacy Officer**   
-**Pearson Australia Group Pty Ltd**   
-707 Collins Street   
-Melbourne VIC 3008   
-Email: [privacy.officer@pearson.com.au](mailto:privacy.officer@pearson.com.au)
+**The Privacy Officer**  
+
+**Pearson Australia Group Pty Ltd**    
+707 Collins Street   
+Melbourne VIC 3008   
+Email: [privacy.officer@pearson.com.au](mailto:privacy.officer@pearson.com.au)
