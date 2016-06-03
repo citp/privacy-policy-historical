@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the typecast.com privacy policy that was archived on 2014-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141005142415id_/http%3A//typecast.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typecast.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604001726id_/http%3A//typecast.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Typecast
 
