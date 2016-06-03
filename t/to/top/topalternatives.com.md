@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the topalternatives.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408205851id_/http%3A//topalternatives.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topalternatives.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603173517id_/https%3A//topalternatives.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TopAlternatives
 
-_This Agreement was last modified on October 21, 2014._
+_This Agreement was last modified on January 1, 2016._
 
 #### The information we collect
 
-The following notice (items 1-2) applies to all information collected or submitted on the _TopAlternatives.com_ website.
+The following notice (items 1-2) applies to all information collected or submitted on the _topalternatives.com_ website.
 
 **1\. Signing up for our email newsletter**  
-On some pages you can sign up to receive our free email newsletter. We collect your email address only. We use this information only when sending you our latest newsletter messages. We will never provide your personal information to any third party and promise to only send relevant information pertaining to our website _TopAlternatives.com_.
+On some pages you can sign up to receive our free email newsletter. We collect your email address only. We use this information only when sending you our latest newsletter messages. We will never provide your personal information to any third party and promise to only send relevant information pertaining to our website _topalternatives.com_.
 
 We follow all rules and regulations put forth in the CAN-SPAM Act. You can unsubscribe yourself from our email list at any time by clicking the unsubscribe link found at the end of each and every email we send.
 
@@ -24,7 +24,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our website, you can email us by using our [email contact form](http://topalternatives.com/contact/ "Contact Form").
+If you have any questions about security on our website, you can email us by using our [email contact form](https://topalternatives.com/contact/ "Contact Form").
 
 #### Cookies
 
@@ -40,7 +40,7 @@ The use of cookies by our partners, tracking utility company, or service provide
 
 #### Keystrokes (instant search)
 
-In an effort to improve the functionality of the “instant search” feature on our website, we may record any keystrokes entered into the search form field. The data we receive will help improve the overall usability and ease-of-use of _TopAlternatives.com_.
+In an effort to improve the functionality of the “instant search” feature on our website, we may record any keystrokes entered into the search form field. The data we receive will help improve the overall usability and ease-of-use of _topalternatives.com_.
 
 #### Our commitment to privacy
 
