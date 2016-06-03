@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timetopet.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316132529id_/https%3A//www.timetopet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timetopet.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603160102id_/https%3A//www.timetopet.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Time To Pet
 
