@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weltpixel.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102060426id_/http%3A//www.weltpixel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weltpixel.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603123807id_/http%3A//www.weltpixel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
