@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scriptsell.net privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911225038id_/http%3A//scriptsell.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scriptsell.net privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603194133id_/http%3A//scriptsell.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | ScriptSell.net:: Drownload Free Wordpress and Other Themes ; Templates, Scripts, Graphics & Vectors
+# Privacy policy -
 
 #### Scriptsell respects your privacy.
 
@@ -12,7 +12,7 @@ Scriptsell will never ask for Credit Card details and request that you do not en
 
 #### External Sites.
 
-Scriptsell is not responsible for the content of external internet sites. You are advised to read the privacy policy of external sites before disclosing any personal information.
+Scriptsell is not responsible for the content of external internet sites. You are advised to read the[ privacy policy](http://scriptsell.net/privacy-policy/ " privacy policy") of external sites before disclosing any personal information.
 
 #### Cookies
 
