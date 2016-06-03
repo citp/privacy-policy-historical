@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the torrent-finder.info privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025172537id_/http%3A//torrent-finder.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torrent-finder.info privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603102729id_/http%3A//torrent-finder.info/privacy.php) for the most accurate reproduction.*
 
 # Torrent Finder Privacy :: Torrent Finder :: Torrent Search Engine
+
+[](https://billing.ivacy.com/aff.php?aff=1585 "Secure VPN")
 
 ## [Torrent Finder Privacy](https://web.archive.org/privacy.php "Torrent Finder Privacy")
 
