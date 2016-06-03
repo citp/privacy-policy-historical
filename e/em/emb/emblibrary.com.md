@@ -1,34 +1,31 @@
-> *The following text is extracted and transformed from the emblibrary.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908040732id_/http%3A//www.emblibrary.com/el/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emblibrary.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603233923id_/http%3A//www.emblibrary.com/EL/Privacy.aspx) for the most accurate reproduction.*
 
 # Machine Embroidery Designs at Embroidery Library! - Privacy Policy
 
 ## Privacy Statement for Embroidery Library Inc.  
-This page was last edited on 04/24/2012
+This page was last edited on 09/30/2015
 
 [ ](https://privacy.truste.com/privacy-seal/Embroidery-Library,-Inc-/validation?rid=cdcab7e9-fd0c-404b-956e-a21ac1f31096 "TRUSTe online privacy certification")
 
-> This privacy statement describes how Embroidery Library Inc. collects and uses the personal information you provide on our Web site: www.emblibrary.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.  
->   
-> Embroidery Library Inc. has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability, and choice regarding the collection and use of your personal information.  The TRUSTe program covers information collected through this Web site, [ www.emblibrary.com](http://www.emblibrary.com/). TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trademark and innovative trust solutions.  If you have questions or complaints regarding our privacy policy or practices, please contact us at [stitch@emblibrary.com](mailto:stitch@emblibrary.com).  If you are not satisfied with our response you can contact  ** [ TRUSTe here](https://feedback-form.truste.com/watchdog/request).**
+> This privacy statement describes how [Embroidery Library Inc.](http://www.emblibrary.com/) collects and uses the personal information you provide on our Web site: www.emblibrary.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request.   
+>  The TRUSTe certification applies to the privacy practices governed by the Privacy Statement accessible from this digital property. 
 > 
 > Embroidery Library Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy.   
 >  The following discloses our information gathering and dissemination practices for this website: [http://www.emblibrary.com](http://www.emblibrary.com/). 
 > 
-> **IP Address**
+> **Log Files**
 > 
-> We use your IP address to help diagnose problems with our server, and to administer our Web site.  We run reports that tell us how many visitors come to our store by hour of the day and days of the week.  The information gathered also gives us a good idea of what browsers are used and which sites people are coming from.  
->  There is no personal information (such as name, address or email address) logged that links any particular person to any particular IP address.  All the data collected is used by us solely for the purpose of improving our store and is not shared with, or sold to anyone. 
+> As is true of most websites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you.   
+> We do this to improve services we offer you and to gather analytics to enhance the site functionality.  
 > 
-> **Cookies**
+> **Tracking Technologies**
 > 
-> Our site uses cookies to keep track how customers use the store so that we can make improvements.  These cookies are automatically removed from your computer when you sign off your browser.  If your browser is set to not accept cookies you may still browse through the store's categories and the design pages.  
->  The site does use persistent cookies for your login information.  Usage of these persistent cookies are tied to personally identifiable information. If you allow persistent cookies in your browser you will automatically be logged into the store each time you visit. 
+> We, Embroidery Library, and our service providers, PayPal or Credit Card processor,   
+>  use technologies such as cookies, beacons, tags, and scripts, to analyze trends, administer the website, tracking users’ movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis.
 > 
-> **Third Party Cookies**
+> We use cookies for our shopping cart, to remember users’ settings (e.g. language preference), and for authentication. Users can control the use of cookies at the individual browser level by using the local browser tools. If you reject cookies, you may still use our website, but your ability to use some features or areas of our website may be limited.
 > 
-> A session cookie from Verisign ([www.verisign.com](http://www.verisign.com/) )(the issuer of our security certificate) is used on pages that display the Verisign seal of authenticity.  The cookie does not collect any information and is simply to aid in displaying Emblibrary's validation page on Verisign's site when users choose to click on the seal.   
-> 
->  **Registration**
+> **Registration**
 > 
 > Our site's registration form requires users to give us contact information (such as their name and email address and password).   
 >  The registration form also collects your address.  This information is completely optional and is used to populate the billing address in the Purchase form.    
@@ -48,21 +45,39 @@ This page was last edited on 04/24/2012
 > 
 > shared with any other companies. 
 > 
->  **Links**
+>  **Information Sharing**
 > 
-> This site contains links to other sites. **Embroidery Library** is not responsible for the privacy practices or the content of such Web sites.  
->  As privacy practices may be different at other sites please review each site's privacy statement.
+> We will share your personal information with third parties only in the ways that are described in this privacy statement.   
 > 
->  **Contests**
+> 
+> **Service Provider**
+> 
+> We may provide your personal information to companies that provide services to help us with our business activities   
+>  such as order payment via PayPal or credit card. These companies are authorized to use your personal information only as necessary to provide these services to us.   
+> 
+> 
+> **Links**
+> 
+> This site contains links to other sites. **Embroidery Library** is not responsible for the privacy practices or the content of such Web sites. As privacy practices may be different at other sites please review each site's privacy statement.  
+> 
+> 
+> **Social Media Widgets**
+> 
+> Our website includes Social Media Features, such as the Facebook Like button, and Widgets, such as the Share This button or interactive mini-programs that run on our website. These Features may collect your Internet protocol address, which page you are visiting on our website, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our website.   
+> Your interactions with these Features are governed by the privacy statement of the company providing it. 
+> 
+> **Contests**
 > 
 > Occasionally the Embroidery Library sponsors contests held by other sites.  The Embroidery Library does not ask for any additional information to enter a contest.  If you are asked for any information please be aware that this information is being requested from the originator of the contest.  
->  For any questions about privacy issues regarding information being collected by the contest owner please refer to their privacy statement.
+>  For any questions about privacy issues regarding information being collected by the contest owner please refer to their privacy statement. 
 > 
 > **Orders**
 > 
 > Our site uses an order form for customers to request products. We collect visitor's billing and financial information (such as their account or credit card numbers). Financial information that is collected is used only to bill the user for products and services.    
 > This information is used only for that purpose and is _never_ shared with any other person or company.   
 > We do use a secure third party to process credit cards.  
+>  If you choose to use PayPal to finalize and pay for your order, you will provide your credit card number, directly to PayPal.  
+>  [PayPal's Privacy Statement](https://www.paypal.com/us/webapps/mpp/ua/privacy-full) will apply to the information you provide on the PayPal website.  
 >  We don't store credit card information, other than that required by the Credit Card companies, for any use other than processing the credit card transactions.
 > 
 > If a customer purchases a gift certificate through our site, we will ask customers for the name and email address of the intended recipient.  This information is used to send an email to the recipient of the certificate notifying them of the gift.
@@ -77,15 +92,15 @@ This page was last edited on 04/24/2012
 > 
 > **Security**
 > 
-> This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We use a 128 bit encryption security certificate provided by [Verisign](http://www.verisign.com/).  There is a seal of authenticity available on our Home page and the Purchase page where you can see full details about the security certificate. 
+> We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. If you have any questions about the security of your personal information, you can contact us at [stitch@emblibrary.com.](mailto:stitch@emblibrary.com)
 > 
 > **Correct/Update**
 > 
 > This site gives users the following options for changing, deleting, or modifying information previously provided. 
 > 
 >   1. You may email [stitch@emblibrary.com](mailto:stitch@emblibrary.com)
->   2. Or, visit [http://www.emblibrary.com](http://www.emblibrary.com/EL/Myaccount.aspx), after you have logged into the store, click on the 'My Profile' link located in the lower left margin of our Lobby page.
->   3. To remove your information from our database, Please send an email to [stitch@emblibrary.com](mailto:stitch@emblibrary.com) asking that your information be removed from our database.  Please note, by completely removing your information from our database all record of your orders with us will also be removed.
+>   2. Or, visit [http://www.emblibrary.com](https://www.emblibrary.com/el/profile/general.aspx), after you have logged into the store, click on the 'My Profile' link located in the upper right margin of our web pages.
+>   3. To remove your information from our database, Please send an email to [stitch@emblibrary.com](mailto:stitch@emblibrary.com) asking that your information be removed from our database.  Please note, by completely removing your information from our database all record of your orders with us will also be removed. We will respond to your request within a reasonable timeframe.
 > 
 
 > 
@@ -102,8 +117,8 @@ This page was last edited on 04/24/2012
 > 
 > **Contacting the Web Site**
 > 
-> If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: Embroidery Library Inc. 5000 Chesire Lane North Ste #3 Minneapolis, MN 55446 stitch@emblibrary.com 763-509-3320
+> If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: Embroidery Library Inc. 5000 Chesire Pkwy North Ste #3 Minneapolis, MN 55446 stitch@emblibrary.com 763-509-3320
 > 
 > ## Legal Disclaimer
 > 
-> Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. If Embroidery Library, Inc. is involved in a merger, acquistion, or sale of all or a portion of its assets, you will be notified via email and/or prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+> Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law such as to comply with a subpoena, bankruptcy proceedings, or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. If Embroidery Library, Inc. is involved in a merger, acquistion, or sale of all or a portion of its assets, you will be notified via email and/or prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
