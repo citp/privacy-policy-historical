@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autosport.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224002206id_/http%3A//www.haymarket.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autosport.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604014219id_/http%3A//www.haymarket.com/privacy-policy) for the most accurate reproduction.*
 
 # Haymarket Media Group Privacy Policy - Haymarket
 
@@ -81,7 +81,7 @@ After you have exercised your right to object or reject the use of cookies, you 
 
 **4 CAN I FIND OUT WHAT PERSONAL INFORMATION HAYMARKET HOLDS ON ME?**
 
-Under the Act you have the right to request a copy of the Information that we hold about you. There will be an administration fee of £10 associated with this request and it will require two pieces of identification to prove your identity. Please make a written application to the Data Protection Officer, Haymarket Media Group Limited, Teddington, Middlesex, TW11 9BE.
+Under the Act you have the right to request a copy of the Information that we hold about you. There will be an administration fee of £10 associated with this request and it will require two pieces of identification to prove your identity. Please make a written application to the Data Protection Officer, Haymarket Media Group Limited, Bridge House, 69 London Road, Twickenham, TW1 3SP.
 
 If any of the Information that we hold about you is incorrect, you can click on the contact us link on our website. If the incorrect Information relates to your magazine subscription, then you can contact the customer services team on 08456 777 800 who will update your details as soon as practically possible.
 
@@ -166,7 +166,7 @@ We will fully investigate any reports of abuse.
 
 If you have any questions regarding privacy or this Policy, you may contact us as follows:
 
-Data Protection Officer Haymarket Media Group Ltd Teddington Studios Teddington Middlesex TW11 9BE
+Data Protection Officer, Haymarket Media Group Ltd, Bridge House, 69 London Road, Twickenham, TW1 3SP
 
 Email us: [datacontroller@haymarket.com](mailto:datacontroller@haymarket.com?subject=DataControllerEmail)
 
