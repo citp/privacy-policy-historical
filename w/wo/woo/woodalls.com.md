@@ -1,16 +1,10 @@
-> *The following text is extracted and transformed from the woodalls.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607012211id_/http%3A//www.woodalls.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodalls.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603183444id_/http%3A//www.woodalls.com/privacy.aspx) for the most accurate reproduction.*
 
 # Good Sam Club
 
 We appreciate the trust you place in Good Sam Enterprises, LLC, its brands and websites. To continue to earn this trust, we are committed to protecting your privacy and the security of your personal information. Our privacy policy (this "Privacy Policy") describes how we collect, protect, use, and share information gathered about you on our family of websites. We hope that this disclosure will help increase your confidence in our sites and enhance your experience on the Internet and with us.
 
 Please read this Privacy Policy before you use this site. Your use of our website signifies that you agree to this Privacy Policy. We always welcome your questions and feedback. For privacy-related issues, please feel free to contact us directly at any time.
-
-  
-  
-
-
-## Privacy Policy Contents
 
   
   
