@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ghin.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204210832id_/http%3A//www.usga.org/general_info/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghin.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603054150id_/http%3A//www.usga.org/general_info/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
