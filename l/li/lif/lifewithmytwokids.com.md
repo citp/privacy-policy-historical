@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lifewithmytwokids.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208172159id_/http%3A//lifewithmytwokids.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifewithmytwokids.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603150038id_/http%3A//lifewithmytwokids.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Life With My Two Kids
+# Privacy Policy - Life With My Two KidsLife With My Two Kids
 
 This privacy policy sets out how Life With My Two Kids uses and protects any information that you give while using www.lifewithmytwokids.com Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
