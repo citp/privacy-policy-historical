@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the petcircle.com.au privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326020144id_/https%3A//www.petcircle.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petcircle.com.au privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603162632id_/https%3A//www.petcircle.com.au/privacy) for the most accurate reproduction.*
 
 # Security & Privacy | Pet Circle
-
-## Privacy Policy
 
 #### Privacy Statement
 
@@ -14,7 +12,7 @@ Our website may contain links to third party websites. As we are not responsible
 
 Pet Circle collects personal information to purposefully conduct our business and services as an e-commerce organisation. Any personal information we collect, is done so when you perform a transaction on our website, register, subscribe to our newsletter or contact us.
 
-Personal information we do collect includes your name, address, email, phone number and billing address. All personal information that we collect will be done so in a lawful and unobtrusive manner.
+**Pet Circle does _not_ store credit card numbers. These are securely held by a large third-party payment processor (eWay).** Personal information we do collect includes your name, address, email, phone number and billing address. All personal information that we collect will be done so in a lawful and unobtrusive manner.
 
 When we collect information, attempts will be made to ensure each individual understands why such information is being collected, how it will be used and who such information will be given to.
 
@@ -50,4 +48,4 @@ Under The Privacy Act 1988 (Cth), you have certain rights to access the personal
 
 We take all reasonable care to ensure that the personal information that we collect, use and disclose is accurate, up to date and complete.
 
-Privacy Policy last updated 02/04/2014
+Privacy Policy last updated 04/09/2015
