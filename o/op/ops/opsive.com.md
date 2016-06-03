@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opsive.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203121200id_/http%3A//www.opsive.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opsive.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603054103id_/http%3A//www.opsive.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Opsive.com :: Privacy Policy
 
