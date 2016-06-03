@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the coupon-lady.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203145114id_/http%3A//www.coupon-lady.com/coupons/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupon-lady.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603172634id_/http%3A//www.coupon-lady.com/coupons/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Free Printable Grocery Coupons
+# Privacy Policy | Coupon Lady
+
+## Privacy Policy
 
 **_*** OPTING OUT OF FUTURE COMMUNICATION WITH COUPON-LADY.COM: If at any time you would like to unsubscribe from receiving ANY and ALL future communication, emails or otherwise, from coupon-lady.com, we include detailed unsubscribe instructions at the bottom of each email. Additionally you may email us at[couponlady@coupon-lady.com](mailto:couponlady@coupon-lady.com) to unsubscribe from ALL communications, email or otherwise, with coupon-lady.com._**
 
