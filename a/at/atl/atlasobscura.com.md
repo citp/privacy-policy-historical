@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlasobscura.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222145605id_/http%3A//www.atlasobscura.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlasobscura.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604014741id_/http%3A//www.atlasobscura.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Atlas Obscura
 
@@ -68,15 +68,3 @@ California Civil Code Section 1798.83 permits users of the Website who are Calif
 Atlas Obscura Privacy Rights  
 61 Greenpoint Ave #302  
 Brooklyn, NY 11222
-
-×
-
-#### Get Our Weekly Wonders in Your Inbox
-
-Strange, unusual and wondrous tales and locales, handpicked by our editors, straight to your inbox. Guaranteed to awe and amaze. 
-
-×
-
-#### Get Our Weekly Wonders in Your Inbox
-
-Strange, unusual and wondrous tales and locales, handpicked by our editors, straight to your inbox. Guaranteed to awe and amaze. 
