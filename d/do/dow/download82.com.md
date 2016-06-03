@@ -1,21 +1,23 @@
-> *The following text is extracted and transformed from the download82.com privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005200005id_/http%3A//download82.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the download82.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603020103id_/http%3A//www.download82.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Download82 Privacy Policy
 
-Download82.com is serious to regard the privacy of Internet users, because our business success depends upon our ability to maintain the trust of our users.
+### Privacy Policy
 
-## Personal Information
+Download82 is serious regarding the privacy of Internet users because our business success depends upon our ability to maintain the trust of our users. 
 
-We do not sell, trade or rent your personal information to third parties.
+#### Personal Information
 
-## Links
+We do not sell, trade or rent your personal information to third parties. 
 
-This site contains links to other sites, soft82.com is not responsible for the privacy practices or the content of such Web sites.
+#### Links
 
-## Cookies
+Download82 contains links to other websites but we are not responsible for the privacy practices or the content of such websites.
 
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Some of our partners use cookies on our site (for example, advertisers: Google Adsense). However, we have no access to or control over these cookies. Please refer to the privacy policies of the network for details.
+#### Cookies
 
-## Contact
+A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Some of our partners use cookies on our site (for example [Google Adsense](http://www.google.com/adsense/)). However, we have no access to or control over these cookies. Please refer to their privacy policies for details.
 
-If you have any concern about our products or website's privacy policies, please click [here](https://web.archive.org/web/20151005200005id_/http%3A//download82.com/contact-us.php) to contact us. We read every message submitted and try to reply to every one promptly. We may also file your comments to improve the program and site, or review and discard the information.
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+If you have any concern about our products or our website privacy policies, please [click here](https://web.archive.org/contact/) to contact us. We read every message submitted and try to reply to every one promptly. We may also file your comments to improve the program and website, or review and discard the information.
