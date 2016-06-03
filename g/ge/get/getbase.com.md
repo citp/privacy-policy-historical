@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the getbase.com privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928175453id_/https%3A//getbase.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getbase.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603064906id_/https%3A//getbase.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Base CRM Base
+# Privacy Policy | Base CRM
 
 There’s nothing more important to us than our relationship with you. We’re committed to the confidentiality and security of any personal information you provide us with. This privacy policy explains how we protect your information.
 
-Base or QuoteBase (“The Service”) online services and the web site [www.getbase.com](http://getbase.com/) are provided by FutureSimple Inc. (“The Company”). The Company is committed to protect the privacy of its customers and this Privacy Policy outlines what kinds of information we collect and the way that we may use it. The use of information collected through our service shall be limited to the purpose of providing the service for which the Clients has engaged The Company. ** **
+Base or QuoteBase (“The Service”) online services and the web site [https://getbase.com](https://getbase.com/) are provided by FutureSimple Inc. (“The Company”). The Company is committed to protect the privacy of its customers and this Privacy Policy outlines what kinds of information we collect and the way that we may use it. The use of information collected through our service shall be limited to the purpose of providing the service for which the Clients has engaged The Company. ** **
 
 FurtureSimple Inc. complies with the U.S.–E.U. and U.S.–Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland. FutureSimple Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view FutureSimple Inc’s certification, please visit <http://www.export.gov/safeharbor>.
 
 #### TRUSTe Privacy Seal
 
-FutureSimple Inc. has received TRUSTe’s Privacy Seal signifying that this Privacy Policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this web site, [www.getbase.com](https://getbase.com/privacy/www.getbase.com), our mobile application and the Base or QuoteBase platform. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact [TRUSTe here.](https://feedback-form.truste.com/watchdog/request)
+FutureSimple Inc. has received TRUSTe’s Privacy Seal signifying that this Privacy Policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this web site, [https://getbase.com](https://getbase.com/), our mobile application and the Base or QuoteBase platform. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact [TRUSTe here.](https://feedback-form.truste.com/watchdog/request)
 
 #### Information Collection and Use
 
@@ -119,4 +119,4 @@ If you have any questions or concerns regarding this Privacy Policy, the practic
 
 _Policy effective  July 1st, 2015_
 
-[](https://privacy.truste.com/privacy-seal/FutureSimple,-Inc/validation?rid=886c9260-b246-48a5-907f-4a30b6685945 "TRUSTe Privacy Certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=08c41804-164c-430d-a627-9c373a722f5c&lang=es "TRUSTe Privacy Certification")
