@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowthemes.net privacy policy that was archived on 2015-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150729002347id_/https%3A//www.wowthemes.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowthemes.net privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603212802id_/https%3A//www.wowthemes.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WowThemes Shop
 
@@ -21,10 +21,7 @@ We may use the information we collect from you when you register, make a purchas
 
 _How do we protect visitor information?_
 
-We do not use vulnerability scanning and/or scanning to PCI standards.  
-We use regular Malware Scanning.
-
-Customers input their credit card information directly into the order form hosted on a secure PayPal server, credit card information is not transmitted over the internet.
+We use scanning to PCI standards. In order to secure customers’ browsing and order information, we use SSL encryption throughout the website.
 
 _Do we use ‘cookies’?_
 
@@ -66,11 +63,9 @@ We along with third-party vendors, such as Google use first-party cookies (such 
 Opting out:  
 Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
 
-_Users will be notified of any privacy policy changes_
+_Users will be notified of any privacy policy_ changes on our Privacy Policy Page.
 
-• On our Privacy Policy Page  
-Users are able to change their personal information:  
-• By logging in to their account
+_Users are able to change their personal information_ by logging in to their account.
 
 _How does our site handle do not track signals?_
 
@@ -87,8 +82,6 @@ _Fair Information Practices_
 The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
 
 In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:  
-We will notify the users via email  
-• Within 1 business day  
 We will notify the users via in site notification  
 • Within 1 business day
 
@@ -113,7 +106,8 @@ _Contacting Us_
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-WowThemes.net  
-wowthemesnet@gmail.com
+Website: WowThemes.net  
+Company: WOW DEVELOPMENT, Romania, Bucuresti, Demnitatii 19, Sect.1, 012541, RO34450484  
+E-mail Address: wowthemesnet@gmail.com
 
-**Last Edited on 2015-03-20**
+**Last Edited on 2015-08-28**
