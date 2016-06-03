@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the winster.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204210532id_/http%3A//www.winster.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winster.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603214431id_/http%3A//www.winster.com/privacy.html) for the most accurate reproduction.*
 
 # Winster - Games, Friends, Prizes
 
-Last updated: October 12, 2012
+Last updated: March 9, 2016
 
-Reloaded Games, Inc. ("Winnie", "I", "we", "us", "our") believes in the Golden Rule: We respect your right to privacy, and intend to treat your personal information as We would want ours treated on your web site. This notice describes our Privacy Policy. 
+Seaside Entertainment, LLC. ("Winnie", "I", "we", "us", "our") believes in the Golden Rule: We respect your right to privacy, and intend to treat your personal information as We would want ours treated on your web site. This notice describes our Privacy Policy. 
 
 By visiting Winster.com, you are accepting the practices described in this Privacy Policy. 
 
@@ -36,7 +36,7 @@ We also like to obey the law, so we may release your personal information as app
 
 Other than the above, we will tell you when we intend to share information about you with third parties, and you will have an opportunity to tell us not to do it. 
 
-Special message for California Residents: Effective January 1, 2005, companies that collect personally identifiable information from California residents and disclose such information to third parties (including affiliated entities) for marketing purposes must, in response to a request by a consumer, either (1) provide a list detailing the categories of information shared and the entities to which such information was provided or (2) provide a mechanism by which a consumer may opt-out of having their information shared with third parties (SB 27). We have elected the second option, and you may request that your information not be shared with third parties by sending or hand delivering your request, including your full name, email address and postal address to: Reloaded Games Inc., | 16787 Beach Blvd. #465 | Huntington Beach, CA 92647. 
+Special message for California Residents: Effective January 1, 2005, companies that collect personally identifiable information from California residents and disclose such information to third parties (including affiliated entities) for marketing purposes must, in response to a request by a consumer, either (1) provide a list detailing the categories of information shared and the entities to which such information was provided or (2) provide a mechanism by which a consumer may opt-out of having their information shared with third parties (SB 27). We have elected the second option, and you may request that your information not be shared with third parties by sending or hand delivering your request, including your full name, email address and postal address to: Seaside Entertainment, LLC., | 2110 Artesia Blvd. Suite 101 | Redondo Beach, CA 90278. 
 
 #### What do we do to protect your information? 
 
