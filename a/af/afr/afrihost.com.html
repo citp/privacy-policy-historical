@@ -1,33 +1,23 @@
-<!--The following is the downloaded HTML source of the afrihost.com privacy policy that was archived on 2015-09-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150919230052id_/https%3A//www.afrihost.com/site/page/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the afrihost.com privacy policy that was archived on 2016-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160603030529id_/https%3A//www.afrihost.com/site/page/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
-<meta http-equiv="X-UA-Compatible" content="IE=8"> 
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
 <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=11">
 <meta name="alexaVerifyID" content="JnJEkqjVVhdlBBOONOZfr9ZzbNE">
 
-<title>Privacy Policy</title>
+<!-- SEO -->    
+    <title>Privacy Policy</title>
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta name="robots" content="index,follow,archive">
+   <!-- Geo Location -->
     <meta name="geo.position" content="-26.1667,28.0333">
     <meta name="geo.placename" content="Johannesburg">
     <meta name="geo.region" content="ZA-GP">
     
-    <meta name="DC.title" content="Privacy Policy">
-    <meta name="DC.creator" content="Afrihost">
-    <meta name="DC.subject" content="">
-    <meta name="DC.description" content="">
-    <meta name="DC.publisher" content="Afrihost Internet Services via Expression Engine 2">
-    <meta name="DC.date.created" scheme="DCTERMS.W3CDTF" content="2010-09-17T13:49:49+03:00">
-    <meta name="DC.date.modified" scheme="DCTERMS.W3CDTF" content="2014-02-20T18:45:52+03:00">
-    <meta name="DC.date.valid" scheme="DCTERMS.W3CDTF" content="2015-09-26T04:00:54+03:00">
-    <meta name="DC.type" scheme="DCTERMS.DCMIType" content="Text">
-    <meta name="DC.rights" scheme="DCTERMS.URI" content="Copyright © 2000 - 2013 Afrihost - South African ADSL and Hosting Provider.">
-    <meta name="DC.format" content="text/html">
-    <meta name="DC.identifier" scheme="DCTERMS.URI" content="https://www.afrihost.com/site/page/privacy_policy">
 
     <!-- Viewport -->
     <meta id="testViewport" name="viewport" content="width=520">
@@ -39,7 +29,7 @@
     </script>
     
     <!-- Minify CSS -->
-    <link href="https://www.afrihost.com/cache/ce6bf9bae50e044552a77077ce853c0cdd13ab02.1439815504.3.0.3.css" rel="stylesheet" type="text/css" media="all"> 
+    <link href="https://www.afrihost.com/cache/ce6bf9bae50e044552a77077ce853c0cdd13ab02.1464247728.3.0.5.css" rel="stylesheet" type="text/css" media="all"> 
     
     <!-- Failsafe Loading of CSS, should CDN or Caching Fail Uncomment this: <link href="https://www.afrihost.com/site/stylesheets/main_v3.css" rel="stylesheet" type="text/css" media="all" /> -->
 
@@ -56,16 +46,68 @@
     <link rel="alternate" type="application/rss+xml" title="Network Status RSS Feed" href="https://www.afrihost.com/site/rss/netstatus">
     <link rel="alternate" type="application/rss+xml" title="Newsroom RSS Feed" href="https://www.afrihost.com/site/rss/newsroom">
     
+
+    <!-- #### Add line-speed checker scripts  #### -->
+    <!-- Angular scripts need to be loaded before jquery -->
+    
+    
     <!-- Minify Scripts -->
-	<script src="https://www.afrihost.com/cache/f63617f2b37497b1f121b1e7069e52dcb7d8b772.0000000000.3.0.3.js" type="text/javascript"></script>
+	<script src="https://www.afrihost.com/cache/f098dbb62a8b980d73a8a91136ef078a3480163e.0000000000.3.0.5.js" type="text/javascript"></script>
     
     
     
     <script type="text/javascript">
-		/*
-        $(document).ready(function() {$("body").loadMe();});
-        */
+		
+        $(document).ready(function() {	
+			//$("body").loadMe();
+            $('a[target="_blank"]').attr('rel', 'noopener noreferrer');
+            
+            // global removal of ?src= url parameters
+            $("a[href*='src=']").each(function(){
+                var href = $(this).attr('href');
+                $(this).attr('href', removeURLParameter(href, 'src'));
+            });
+
+            function removeURLParameter(url, parameter) {
+
+                // prefer to use l.search if you have a location/link object
+                var urlparts= url.split('?');   
+                if (urlparts.length>=2) {
+
+                    var prefix= encodeURIComponent(parameter)+'=';
+                    var pars= urlparts[1].split(/[&;]/g);
+
+                    //reverse iteration as may be destructive
+                    for (var i= pars.length; i-- > 0;) {    
+
+                        //idiom for string.startsWith
+                        if (pars[i].lastIndexOf(prefix, 0) !== -1) {  
+                            pars.splice(i, 1);
+                        }
+                    }
+
+                    url= urlparts[0] + (pars.length > 0 ? '?' + pars.join('&') : "");
+                    return url;
+
+                } else {
+
+                    return url;
+
+                }
+            }
+
+		});
 	</script>
+    <!-- Hotjar Tracking Code for afrihost.com -->
+    <script>
+        (function(h,o,t,j,a,r){h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+            h._hjSettings={hjid:87896,hjsv:5};
+            a=o.getElementsByTagName('head')[0];
+            r=o.createElement('script');r.async=1;
+            r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+    </script><script async="" src="//static.hotjar.com/c/hotjar-87896.js?sv=5"></script>
 
 
 
@@ -73,619 +115,619 @@
 
 <body>
 
- <div id="header">
+<div id="header">
 	<div class="header-inner">
-    
-    	<div id="logo-afrihost"><a href="https://www.afrihost.com/site/home?src=website_nav" title="Afrihost Homepage!"><img src="//cdn.afrihost.com/images/nav/logo@2x.png" width="235" height="55" alt="Afrihost Logo"></a></div>
-        
-        <form method="post" action="https://www.afrihost.com/site">
+
+		<div id="logo-afrihost"><a href="https://www.afrihost.com/site/home" title="Afrihost Homepage!"><img src="//cdn.afrihost.com/images/nav/logo@2x.png" width="235" height="55" alt="Afrihost Logo"></a></div>
+
+		<form method="post" action="https://www.afrihost.com/site">
 <div class="hiddenFields">
 <input type="hidden" name="ACT" value="4">
 <input type="hidden" name="RES" value="20">
-<input type="hidden" name="meta" value="+opNGDOp14qW6+hkXcq5SSNDHQdGvv+B1ZN0SGnTKCv4rm2s715w2WTlPBG0IvmBsU5T28NdU+B5KBLEsdmUcdoxaq6AS56KHHWtMjlBohoyJSI/6KM1nJw1nw3ZXfVtW9/ENJkzm91euGoFxyF1K2NUzH6hb4Lx2yf2/xOd5aLY4JlrA/7Uq46lwEei9KCSJPC2la9JYhalm/StpcOT+D5KgNArqRA8o0KhSVQ5qtcO1RBp6opPU2TEUXBEUAwMkdx2g7NH8KkTXjCEL2KbtflBMkkK8fXqZ9GJbG0+VJR5ZPzGnckHDSZlLPf99WAoYHuM7m7ygLTSuTIVdKbjJV5opHUIeYgQ48n0Cn6z+doTVRVOqPG3JP5NFJi2eVfufn3kmSF54mq8VtcTdCNsX4QgWHXT16BPPuvYtN0bbiE=">
+<input type="hidden" name="meta" value="+opNGDOp14qW6+hkXcq5SSNDHQdGvv+B1ZN0SGnTKCtMzluRrUEH9fMT9fcDzqohpIYy4wYvKfCjSNh4BvFuS9oxaq6AS56KHHWtMjlBohoyJSI/6KM1nJw1nw3ZXfVtxTHKUwZj09Ls6BIVlV1/Xl3LsWhdRmghNb2tcvgS4dWzLnOAgPBskSPN9vwHktaLBolN/J4xNDDVJhojSnWi1M8lKmAC6I1mwhKC+ztJRqVrWUViyTV7+8ClTvuvYH30D+zRYDjaUwbQX6ewAHui9/2QciUt+ad6XjB2cGvNruMmFDIHo/K1ziEhYgCYrqQET3BDFQCWSrvi+kWYUEZUCDjBljVBjiejZL4V3qEHdn9GAoSSD8Dwv5HxxJvx224TENVK1yzV24lsg9vHvswUWlflDY41ZoVUs9IcQfAQhisnXBhh3vZFMZekrw8uTL8ZTTFhd03EFbnNLQgvZPnEzQ==">
 <input type="hidden" name="site_id" value="1">
-<input type="hidden" name="csrf_token" value="4f692bdd156fd80f86e7deca323ef353d58b6f1a">
+<input type="hidden" name="csrf_token" value="6fbc08301ad4dde1bf2d517af0f1a2f7c36efbdb">
 </div>
 
 
-        <div id="mobile-search-wrap">
-        	 <input type="text" name="keywords" id="search-utlity-nav-mobile" value="Search">
-            <input name="submit" type="submit" id="search-mobile-submit" value="">
-        </div><!--/mobile-search-wrap-->
-        </form>
-        
-        
-        <ul id="utility-nav">
-        	
-            <li class="dropdown"><a class="top-level cant-click-this" href="#">Support<span class="icon-wrap"><span class="icon-support"></span></span></a>
-               <div class="utility-panel">
-                  <p class="utility-heading">How Can We Help You?</p>
-                  <div class="status-wrap">
-                  	<div class="keypoint-decal-right modify-decal-red"><div class="internet-icon"></div></div>
-                    	<p class="status-heading">Support via Website</p>
-                        <p>We have a specially written Afrihost Support Website with guides and troubleshooting advice for all clients.</p>
+		<div id="mobile-search-wrap">
+			<input type="text" name="keywords" id="search-utlity-nav-mobile" value="Search">
+			<input name="submit" type="submit" id="search-mobile-submit" value="">
+		</div><!--/mobile-search-wrap-->
+		</form>
+
+
+		<ul id="utility-nav">
+
+			<li class="dropdown"><a class="top-level cant-click-this" href="#">Support<span class="icon-wrap"><span class="icon-support"></span></span></a>
+				<div class="utility-panel">
+					<p class="utility-heading">How Can We Help You?</p>
+					<div class="status-wrap">
+						<div class="keypoint-decal-right modify-decal-red"><div class="internet-icon"></div></div>
+						<p class="status-heading">Support via Website</p>
+						<p>We have a specially written Afrihost Support Website with guides and troubleshooting advice for all clients.</p>
 						<p>
-                          
-                          <a href="JavaScript:void(0)" onclick="phplive_launch_chat_0(0)">
-                            <span id="phplive_btn_1427397781" onclick="phplive_launch_chat_0(0)" style="color: #0000FF; text-decoration: underline; cursor: pointer; padding-right: 5px; float:left;"><script type="text/javascript" async="" src="https://livechat.afrihost.com/js/phplive_v2.js.php?v=0|1427397781|2|"></script></span>
-                            Live Chat Support
-                          </a> 
-                          or <a href="http://answers.afrihost.com">Visit Afrihost Answers</a>
-                        </p>
-                       <script type="text/javascript">
 
-                          (function() {
-                          var phplive_e_1427397781 = document.createElement("script") ;
-                          phplive_e_1427397781.type = "text/javascript" ;
-                          phplive_e_1427397781.async = true ;
-                          phplive_e_1427397781.src = "https://livechat.afrihost.com/js/phplive_v2.js.php?v=0|1427397781|2|" ;
-                          document.getElementById("phplive_btn_1427397781").appendChild( phplive_e_1427397781 ) ;
-                          })() ;
+							<a href="JavaScript:void(0)" onclick="phplive_launch_chat_0(0)">
+								<span id="phplive_btn_1427397781" onclick="phplive_launch_chat_0(0)" style="color: #0000FF; text-decoration: underline; cursor: pointer; padding-right: 5px; float:left;"><script type="text/javascript" async="" src="https://livechat.afrihost.com/js/phplive_v2.js.php?v=0|1427397781|2|"></script></span>
+								Live Chat Support
+							</a>
+							or <a href="http://answers.afrihost.com">Visit Afrihost Answers</a>
+						</p>
+						<script type="text/javascript">
 
-                        </script>
-                      <!--<script type="text/javascript" async src="https://livechat.afrihost.com/js/phplive_v2.js.php?v=0|1373029351|2|"></script>-->
-                  </div><!--/status-wrap-->
-                  <div class="status-wrap">
-                  	<div class="keypoint-decal-right modify-decal-red"><div class="mail-icon"></div></div>
-                    	<p class="status-heading">Support via Email</p>
-                      <p>We provide clients with 24 Hour Support. Simply log a ticket or send us an email and we will get back to you.</p>
-                      <p><a href="mailto:support@afrihost.com">Email us</a> or <a href="https://support.afrihost.com/index.php?/Tickets/Submit">Submit a Ticket</a></p>
-                  </div><!--/status-wrap-->
-                  <div class="status-wrap">
-					<div class="keypoint-decal-right modify-decal-red"><div class="sms-icon"></div></div>
-					<p class="status-heading">Support via SMS</p>
-					<p>Want us to call you? Send an SMS and we'll call you back. </p>
-					<p class="smsnumber">SMS "Help" to 32541</p>
-					<p style="font-size:11px; margin-top:5px;">* SMS charged at R1.50. Free SMSes do not apply.</p>
-				  </div>
-                  <div class="status-wrap no-border">
-                     <div class="keypoint-decal-right modify-decal-red"><div class="phone-icon"></div></div>
-                    	<p class="status-heading">Support via Phone</p>
-                      <p>Throughout our 14 years we have always been dedicated to treating our clients with the utmost respect and delivering the best possible service aimed at not just satisfying but delighting!</p>
-                      <p class="callnumber">011 612 7200</p>
-                      <p>Mon-Fri 07:00-20:00 / Sat-Sun 09:00-15:00</p>
-                      <p style="font-size:10px;">*Standard call rates. Free minutes do not apply.</p>
-                  </div><!--/status-wrap-->               
-               </div><!--/utility-panel-->
-            </li><!--/dropdown-->
-            
-            <li class="dropdown"><a class="top-level cant-click-this" href="#">Network Status<span class="icon-wrap">
-            <span id="head_l_netstatus" class="icon-network-orange"></span></span></a>
-             
-            	<div class="utility-panel">
-                  <p class="utility-heading">Network Status<span><em>Updated Hourly</em></span></p>
-                  
-                  <div class="status-wrap">
-                  	<div class="keypoint-decal-right modify-decal-orange"><div class="orange-status-icon"></div></div>
-                    	<p class="status-heading">DSL Status</p>
-                      <p class="netstatus-utility-title"><strong>ADSL Network Performance</strong></p>
-                      <p><strong>UPDATE</strong><br> <strong>09 July 2015</strong><br> Our network team has improved network performance during peak periods…
-                      </p><p><a href="https://www.afrihost.com/site/network_status?src=website_nav#tabs">Read more</a></p>
-                  </div><!--/status-wrap-->
-                  
-                  <div class="status-wrap">
-                  	<div class="keypoint-decal-right modify-decal-green"><div class="green-status-icon"></div></div>
-                    	<p class="status-heading">Mobile Status</p>
-                      
-                      <p>Our Mobile Data network is working well and connecting our clients the way it should! It’s all A-OK!</p>
-                      <p><a href="https://www.afrihost.com/site/network_status?src=website_nav#tabs">Read more</a></p>
-                  </div><!--/status-wrap-->
-                  
-                  <div class="status-wrap">
-                  	<div class="keypoint-decal-right modify-decal-green"><div class="green-status-icon"></div></div>
-                    	<p class="status-heading">Hosting Status</p>
-                      
-                      <p>Our web hosting services and data centres are running at 100%! It’s all peachy on this side!</p>
-                      <p><a href="https://www.afrihost.com/site/network_status?src=website_nav#hosting">Read more</a></p>
-                  </div><!--/status-wrap-->
-                  
-                  <div class="status-wrap">
-                  	<div class="keypoint-decal-right modify-decal-green"><div class="green-status-icon"></div></div>
-                    	<p class="status-heading">General Notices</p>
-                      
-                      <p>Everything is generally hunky dory in the land of Afrihost. Nothing to report, over and out!</p>
-                      <p><a href="https://www.afrihost.com/site/network_status?src=website_nav#general">Read more</a></p>
-                  </div><!--/status-wrap-->
+							(function() {
+								var phplive_e_1427397781 = document.createElement("script") ;
+								phplive_e_1427397781.type = "text/javascript" ;
+								phplive_e_1427397781.async = true ;
+								phplive_e_1427397781.src = "https://livechat.afrihost.com/js/phplive_v2.js.php?v=0|1427397781|2|" ;
+								document.getElementById("phplive_btn_1427397781").appendChild( phplive_e_1427397781 ) ;
+							})() ;
 
-                  <div class="general-notices"></div><!--/general-notices--> 
-                  
-                  <a class="blue-button" href="https://www.afrihost.com/site/network_status?src=website_nav">Network Status Page<span class="icon-wrap"><span class="icon-refresh"></span></span></a>                 
-               </div><!--/utility-panel-->
-            </li><!--/dropdown-->
-            
-			<li class="dropdown search-dropdown-top"><a class="top-level cant-click-this" href="#">Search<span class="icon-wrap"><span class="icon-search"></span></span></a>
-				<div class="utility-panel search-panel">
-					<p class="utility-heading">What are you looking for?</p>
-					<div>
-						<form id="ajaxsearch" name="ajaxsearch" method="post" action="https://www.afrihost.com/site">
-<div class="hiddenFields">
-<input type="hidden" name="ACT" value="4">
-<input type="hidden" name="RES" value="20">
-<input type="hidden" name="meta" value="+opNGDOp14qW6+hkXcq5SSNDHQdGvv+B1ZN0SGnTKCv4rm2s715w2WTlPBG0IvmBsU5T28NdU+B5KBLEsdmUcdoxaq6AS56KHHWtMjlBohoyJSI/6KM1nJw1nw3ZXfVtW9/ENJkzm91euGoFxyF1K2NUzH6hb4Lx2yf2/xOd5aLY4JlrA/7Uq46lwEei9KCSJPC2la9JYhalm/StpcOT+D5KgNArqRA8o0KhSVQ5qtcO1RBp6opPU2TEUXBEUAwMkdx2g7NH8KkTXjCEL2KbtflBMkkK8fXqZ9GJbG0+VJR5ZPzGnckHDSZlLPf99WAoYHuM7m7ygLTSuTIVdKbjJRJDSfFcPj9S5odawrfD/66cRyvY31wUWG3oEUphPGesqTCukrlf5TA/rfLUPA2tM+UYt6nfHEDGoNMlC7vOTARKKjui9UUgzM8EDVZ2U6MoGWc3/YS2DomS1N6Aqy3/jQ==">
-<input type="hidden" name="site_id" value="1">
-<input type="hidden" name="csrf_token" value="4f692bdd156fd80f86e7deca323ef353d58b6f1a">
-</div>
-
-
-						<input name="keywords" type="search" autocomplete="off" id="search-utlity-nav" value="Type Here...">
-						</form>
-						
-						<form id="fullsearch" name="fullsearch" method="post" action="https://www.afrihost.com/site">
-<div class="hiddenFields">
-<input type="hidden" name="ACT" value="4">
-<input type="hidden" name="RES" value="20">
-<input type="hidden" name="meta" value="+opNGDOp14qW6+hkXcq5SSNDHQdGvv+B1ZN0SGnTKCv4rm2s715w2WTlPBG0IvmBsU5T28NdU+B5KBLEsdmUcdoxaq6AS56KHHWtMjlBohoyJSI/6KM1nJw1nw3ZXfVtW9/ENJkzm91euGoFxyF1K2NUzH6hb4Lx2yf2/xOd5aLY4JlrA/7Uq46lwEei9KCSJPC2la9JYhalm/StpcOT+D5KgNArqRA8o0KhSVQ5qtcO1RBp6opPU2TEUXBEUAwMkdx2g7NH8KkTXjCEL2KbtflBMkkK8fXqZ9GJbG0+VJR5ZPzGnckHDSZlLPf99WAoYHuM7m7ygLTSuTIVdKbjJV5opHUIeYgQ48n0Cn6z+doTVRVOqPG3JP5NFJi2eVfufn3kmSF54mq8VtcTdCNsX4QgWHXT16BPPuvYtN0bbiE=">
-<input type="hidden" name="site_id" value="1">
-<input type="hidden" name="csrf_token" value="4f692bdd156fd80f86e7deca323ef353d58b6f1a">
-</div>
-
-
-						<input name="keywords" id="fullsearchbox" type="text" autocomplete="off">
-						</form>
+						</script>
+						<!--<script type="text/javascript" async src="https://livechat.afrihost.com/js/phplive_v2.js.php?v=0|1373029351|2|"></script>-->
+					</div><!--/status-wrap-->
+					<div class="status-wrap">
+						<div class="keypoint-decal-right modify-decal-red"><div class="mail-icon"></div></div>
+						<p class="status-heading">Support via Email</p>
+						<p>We provide clients with 24 Hour Support. Simply log a ticket or send us an email and we will get back to you.</p>
+						<p><a href="mailto:support@afrihost.com">Email us</a> or <a href="https://support.afrihost.com/index.php?/Tickets/Submit">Submit a Ticket</a></p>
+					</div><!--/status-wrap-->
+					<div class="status-wrap">
+						<div class="keypoint-decal-right modify-decal-red"><div class="sms-icon"></div></div>
+						<p class="status-heading">Support via SMS</p>
+						<p>Want us to call you? Send an SMS and we'll call you back. </p>
+						<p class="smsnumber">SMS "Help" to 32541</p>
+						<p style="font-size:11px; margin-top:5px;">* SMS charged at R1.50. Free SMSes do not apply.</p>
 					</div>
-	
-				<div id="asr_data"></div><!-- end.asr_data -->
-				
+					<div class="status-wrap no-border">
+						<div class="keypoint-decal-right modify-decal-red"><div class="phone-icon"></div></div>
+						<p class="status-heading">Support via Phone</p>
+						<p>Throughout our 14 years we have always been dedicated to treating our clients with the utmost respect and delivering the best possible service aimed at not just satisfying but delighting!</p>
+						<p class="callnumber">011 612 7200</p>
+						<p>Mon-Fri 07:00-20:00 / Sat-Sun 09:00-15:00</p>
+						<p style="font-size:10px;">*Standard call rates. Free minutes do not apply.</p>
+					</div><!--/status-wrap-->
 				</div><!--/utility-panel-->
 			</li><!--/dropdown-->
-            
-            <li class="dropdown"><a class="top-level red-top-level" href="https://clientzone.afrihost.com?src=website_nav">ClientZone<span class="icon-wrap"><span class="icon-clientzone"></span></span></a></li><!--/dropdown-->
-           
-        </ul><!--/utility-nav-->
+
+			<li class="dropdown"><a class="top-level cant-click-this" href="#">Network Status<span class="icon-wrap">
+            <span id="head_l_netstatus" class="icon-network-green"></span></span></a>
+
+				<div class="utility-panel">
+					<p class="utility-heading">Network Status<span><em>Updated Hourly</em></span></p>
+
+					<div class="status-wrap">
+						<div class="keypoint-decal-right modify-decal-green"><div class="green-status-icon"></div></div>
+				<p class="status-heading">DSL Status</p>
+				
+				<p>Our DSL Broadband network is running like a bomb! Everything is copacetic and we’re good to GO!</p>
+				<p><a href="https://www.afrihost.com/site/network_status#tabs">Read more</a></p>
+	</div><!--/status-wrap-->
+
+	<div class="status-wrap">
+		<div class="keypoint-decal-right modify-decal-green"><div class="green-status-icon"></div></div>
+<p class="status-heading">Mobile Status</p>
+
+<p>Our Mobile Data network is working well and connecting our clients the way it should! It’s all A-OK!</p>
+<p><a href="https://www.afrihost.com/site/network_status#tabs">Read more</a></p>
+</div><!--/status-wrap-->
+
+<div class="status-wrap">
+	<div class="keypoint-decal-right modify-decal-green"><div class="green-status-icon"></div></div>
+<p class="status-heading">Hosting Status</p>
+
+<p>Our web hosting services and data centres are running at 100%! It’s all peachy on this side!</p>
+<p><a href="https://www.afrihost.com/site/network_status#hosting">Read more</a></p>
+</div><!--/status-wrap-->
+
+<div class="status-wrap">
+	<div class="keypoint-decal-right modify-decal-green"><div class="green-status-icon"></div></div>
+<p class="status-heading">General Notices</p>
+
+<p>Everything is generally hunky dory in the land of Afrihost. Nothing to report, over and out!</p>
+<p><a href="https://www.afrihost.com/site/network_status#general">Read more</a></p>
+</div><!--/status-wrap-->
+
+<div class="general-notices"></div><!--/general-notices-->
+
+<a class="blue-button" href="https://www.afrihost.com/site/network_status">Network Status Page<span class="icon-wrap"><span class="icon-refresh"></span></span></a>
+</div><!--/utility-panel-->
+</li><!--/dropdown-->
+
+<li class="dropdown search-dropdown-top"><a class="top-level cant-click-this" href="#">Search<span class="icon-wrap"><span class="icon-search"></span></span></a>
+	<div class="utility-panel search-panel">
+		<p class="utility-heading">What are you looking for?</p>
+		<div>
+			<form id="ajaxsearch" name="ajaxsearch" method="post" action="https://www.afrihost.com/site">
+<div class="hiddenFields">
+<input type="hidden" name="ACT" value="4">
+<input type="hidden" name="RES" value="20">
+<input type="hidden" name="meta" value="+opNGDOp14qW6+hkXcq5SSNDHQdGvv+B1ZN0SGnTKCtMzluRrUEH9fMT9fcDzqohpIYy4wYvKfCjSNh4BvFuS9oxaq6AS56KHHWtMjlBohoyJSI/6KM1nJw1nw3ZXfVtxTHKUwZj09Ls6BIVlV1/Xl3LsWhdRmghNb2tcvgS4dWzLnOAgPBskSPN9vwHktaLBolN/J4xNDDVJhojSnWi1M8lKmAC6I1mwhKC+ztJRqVrWUViyTV7+8ClTvuvYH30D+zRYDjaUwbQX6ewAHui9/2QciUt+ad6XjB2cGvNruMmFDIHo/K1ziEhYgCYrqQET3BDFQCWSrvi+kWYUEZUCNDgDE51NQVqrW4m9AAhtHwG3qRg4Vl+SPj1HBxJeqCeeUpuGqyqfT3qPn7G1ht9ehbcyxS43oBfdue6N2TZ5PvXJ1XL/BVA+TDN6ciLjL8Nb4ThNtpoCy8buXi4ZW2MKA==">
+<input type="hidden" name="site_id" value="1">
+<input type="hidden" name="csrf_token" value="6fbc08301ad4dde1bf2d517af0f1a2f7c36efbdb">
+</div>
 
 
-        <ul class="megamenu">
+			<input name="keywords" type="search" autocomplete="off" id="search-utlity-nav" value="Type Here...">
+			</form>
 
-            <li style="" class="parent"><a href="#" class="cant-click-this">Who We Are</a>		
-                <div class="megapanel">
-                	<div class="fitcontent">
-                    
-                    <p class="nav-subheading">Who We <strong>Are!</strong></p>
-						
-                     <div class="nav-megapanel-colum">
-                  	<ul class="itemgroup listgroup">
-                    		<li class="itemgroup-heading">About us</li>
-                    		<li><a href="https://www.afrihost.com/site/page/the_afrihost_story?src=website_nav">The Afrihost Story</a></li> 
-                         <li><a href="https://www.afrihost.com/site/page/why_choose_afrihost?src=website_nav">Why Choose Us</a></li> 
-                         <li><a href="http://www.afrihost.com/microsites/adsl_network/?src=website_nav">Our DSL Network</a></li> 
-                         <li><a href="https://www.afrihost.com/site/page/60_day_complete_satisfaction_guarantee?src=website_nav">Our Guarantee</a></li> 
-                         <li><a href="https://www.afrihost.com/site/page/refer_a_friend?src=website_nav">Free Afrihost Services</a></li> 
-                         <li><a href="https://www.afrihost.com/site/meet_the_team?src=website_nav">Meet The Team</a></li> 
-                         <li><a href="https://www.afrihost.com/site/page/afrihost_partners?src=website_nav">Afrihost Partners</a></li> 
-                         <li><a href="https://www.afrihost.com/site/testimonials?src=website_nav">Testimonials</a></li> 
-                         <li><a href="https://www.afrihost.com/site/page/paia_manual?src=website_nav">PAIA</a></li>    
-                  	</ul> 
-                    
-                    </div><!--/nav-megapanel-colum-->
-                    
-                    <div class="nav-megapanel-colum">
-                    <ul class="itemgroup listgroup">
-                    		<li class="itemgroup-heading">Contact us</li>
-                         <li><a href="https://www.afrihost.com/site/page/contact_details?src=website_nav">Contact Details</a></li> 
-                         <li><a href="https://www.afrihost.com/site/page/contact_details?src=website_nav#map-outer-wrap">Map &amp; Directions</a></li> 
-                         <li><a href="https://www.afrihost.com/site/page/contact_details?src=website_nav">Support</a></li> 
-                         <li><a href="https://www.afrihost.com/site/page/sponsorships?src=website_nav">Sponsorships</a></li>  
-                         <li><a href="https://www.afrihost.com/site/jobs?src=website_nav">Careers</a></li>  
-                  	</ul>
-                    
-                    <ul class="itemgroup listgroup">
-                    		<li class="itemgroup-heading">Competitions</li>
-                         <li><a href="https://www.afrihost.com/site/promotions?src=website_nav">Current Competitions</a></li> 
-                         <li><a href="https://www.afrihost.com/site/promotions/winners?src=website_nav">Competition Winners</a></li> 
-                  	</ul> 
-                    </div><!--/nav-megapanel-colum-->
-                    
-                    <div class="nav-megapanel-colum">
-                    <ul class="itemgroup listgroup">
-                    		<li class="itemgroup-heading">News &amp; Updates</li>
-                         <li><a href="https://www.afrihost.com/site/newsroom?src=website_nav">Media Lounge</a></li> 
-                  	</ul>
-                    <ul class="itemgroup listgroup">
-                    		<li class="itemgroup-heading">Apps</li>
-                         <li><a href="http://www.afrihost.com/clientzone?src=website_nav">ClientZone</a></li> 
-                    		<li><a href="https://www.afrihost.com/site/page/myconnectivity_app?src=website_nav">Mobile App</a></li> 
-<!--                     		<li><a href="https://www.afrihost.com/site/page/mybandwidth_widget?src=website_nav">Desktop Widget</a></li>  -->
-                         <li><a href="https://www.afrihost.com/site/page/afrihost_network_test?src=website_nav">Network Test App</a></li> 
-                  	</ul>  
-                    </div><!--/nav-megapanel-colum-->
-                    
-                    <div class="nav-megapanel-colum promotional-colum">
-                    	   <p class="promo-heading"><strong>Online</strong> Music Streaming</p>
-                           <a href="https://www.afrihost.com/landing/simfy/?src=website_nav" class="promo-link">
-                           	  <span class="promo-img"><img src="https://cdn.afrihost.com/images/promotions_nav/nav_simfy_promo.jpg" alt="<strong>Online</strong> Music Streaming"></span>
-                       		  <p class="promo-desc">Simfy Africa has more than 27 million songs for you to choose from. Listen on your smartphone, tablet, computer or connected device for only R60pm</p>
-                               <p class="promo-farce-link">Find out more</p>
-                           </a>
-                    </div><!--/nav-megapanel-colum-->
-                
-                	</div><!--/fitcontent-->
-                <div class="clear"><!-- So Background Gradient/Colour scales to height--></div>
-                </div><!--/megapanel-->
-            </li><!--/ End Top Level Nav Item -->
-            
-            
-          <li style="" class="parent"><a href="#" class="cant-click-this">DSL</a>		
-                <div class="megapanel">
-                	<div class="fitcontent">
-                    
-                    <p class="nav-subheading">Awesome <strong>DSL</strong> Products!</p>
-						
-                     <div class="nav-megapanel-colum">
-                  	<ul class="itemgroup">
-                    		<li class="itemgroup-heading">DSL</li>
-                    		<li><a href="https://www.afrihost.com/site/product/adsl_capped?src=website_nav"><span class="nav-iconset dsl-set dsl-one"></span>Capped DSL<span class="desc">Unshaped, usage based DSL accounts, from only R0.00 a month.</span></a></li>
-                    		<li><a href="https://www.afrihost.com/site/product/adsl_uncapped?src=website_nav"><span class="nav-iconset dsl-set dsl-two"></span>Uncapped DSL<span class="desc">Shaped, all-you-can-eat style internet, from R197pm.</span></a></li>
-                         <li><a href="https://www.afrihost.com/site/product/adsl_prepaid?src=website_nav"><span class="nav-iconset dsl-set dsl-four"></span>Prepaid DSL<span class="desc">Unshaped, prepaid bandwidth that lasts up to a year, for R7/GB.</span></a></li>  
-                  	</ul> 
-                    
-                    <div class="clear"></div>
-                    
-                    
-                    </div><!--/nav-megapanel-colum-->
-                    
-                    <div class="nav-megapanel-colum">
-                    <ul class="itemgroup">
-                    		<li class="itemgroup-heading">Business DSL</li>
-                         <li><a href="https://www.afrihost.com/site/product/business_adsl?src=website_nav"><span class="nav-iconset dsl-set dsl-five"></span>Business DSL<span class="desc">Unshaped, unmetered, prioritised, from only R297pm.</span></a></li>
-                  	</ul>
-                    
-                    <ul class="itemgroup">
-                    		<li class="itemgroup-heading">DSL Lines &amp; Modems</li>
-                         <li><a href="https://www.afrihost.com/site/product/adsl_lines?src=website_nav"><span class="nav-iconset dsl-set dsl-six"></span>DSL Lines<span class="desc">Afrihost managed Telkom DSL lines starting from only R59pm.</span></a></li>
-                    		<li><a href="https://www.afrihost.com/site/product/adsl_modems?src=website_nav"><span class="nav-iconset dsl-set dsl-seven"></span>Modems &amp; Wi-Fi<span class="desc">Affordable, convenient, effortless, from only R449.</span></a></li>
-                  	</ul>
-                    </div><!--/nav-megapanel-colum-->
-                    
-                    <div class="nav-megapanel-colum related-content-colum">
-                    <ul class="itemgroup listgroup">
-                    		<li class="itemgroup-heading">Related Content</li>
-                         <li><a href="https://www.afrihost.com/site/faq/adsl?src=website_nav">DSL FAQs</a></li> 
-                         <li><a href="https://www.afrihost.com/site/faq/uncapped_adsl?src=website_nav">Uncapped DSL FAQs</a></li> 
-                         <li><a href="http://www.afrihost.com/site/page/uncapped_adsl_leader_board?src=website_nav">How much data can I use on Uncapped?</a></li> 
-                         <li><a href="http://www.afrihost.com/site/page/internet_configuration_settings?src=website_nav">Internet Configuration Settings</a></li>
-                         <li><a href="https://www.afrihost.com/site/hardware_support?src=website_nav">Hardware Support and Downloads</a></li>
-                  	</ul>  
-                    </div><!--/nav-megapanel-colum-->
-                    
-                    <div class="nav-megapanel-colum promotional-colum">
-                    	   <p class="promo-heading"><strong>Online</strong> Music Streaming</p>
-                           <a href="https://www.afrihost.com/landing/simfy/?src=website_nav" class="promo-link">
-                           	  <span class="promo-img"><img src="https://cdn.afrihost.com/images/promotions_nav/nav_simfy_promo.jpg" alt="<strong>Online</strong> Music Streaming"></span>
-                       		  <p class="promo-desc">Simfy Africa has more than 27 million songs for you to choose from. Listen on your smartphone, tablet, computer or connected device for only R60pm</p>
-                               <p class="promo-farce-link">Find out more</p>
-                           </a>
-                    </div><!--/nav-megapanel-colum-->
-                
-               	  </div><!--/fitcontent-->
-                <div class="clear"><!-- So Background Gradient/Colour scales to height--></div>
-                </div><!--/megapanel-->
-            </li><!--/ End Top Level Nav Item -->
+			<form id="fullsearch" name="fullsearch" method="post" action="https://www.afrihost.com/site">
+<div class="hiddenFields">
+<input type="hidden" name="ACT" value="4">
+<input type="hidden" name="RES" value="20">
+<input type="hidden" name="meta" value="+opNGDOp14qW6+hkXcq5SSNDHQdGvv+B1ZN0SGnTKCtMzluRrUEH9fMT9fcDzqohpIYy4wYvKfCjSNh4BvFuS9oxaq6AS56KHHWtMjlBohoyJSI/6KM1nJw1nw3ZXfVtxTHKUwZj09Ls6BIVlV1/Xl3LsWhdRmghNb2tcvgS4dWzLnOAgPBskSPN9vwHktaLBolN/J4xNDDVJhojSnWi1M8lKmAC6I1mwhKC+ztJRqVrWUViyTV7+8ClTvuvYH30D+zRYDjaUwbQX6ewAHui9/2QciUt+ad6XjB2cGvNruMmFDIHo/K1ziEhYgCYrqQET3BDFQCWSrvi+kWYUEZUCDjBljVBjiejZL4V3qEHdn9GAoSSD8Dwv5HxxJvx224TENVK1yzV24lsg9vHvswUWlflDY41ZoVUs9IcQfAQhisnXBhh3vZFMZekrw8uTL8ZTTFhd03EFbnNLQgvZPnEzQ==">
+<input type="hidden" name="site_id" value="1">
+<input type="hidden" name="csrf_token" value="6fbc08301ad4dde1bf2d517af0f1a2f7c36efbdb">
+</div>
 
 
-          <li style="" class="parent"><a href="#" class="cant-click-this">Bundles</a>		
-                <div class="megapanel">
-                	<div class="fitcontent">
-                    
-                    <p class="nav-subheading">Our All-In-One <strong>Bundle</strong> Options!</p>
-						
-                     <div class="nav-megapanel-colum">
-                  	<ul class="itemgroup">
-                    		<li class="itemgroup-heading">Capped DSL Bundles</li>
-                    		<li><a href="https://www.afrihost.com/site/product/capped_dsl_bundles?src=website_nav"><span class="nav-iconset bundles-set bundles-one"></span>Capped DSL Bundles<span class="desc">Capped DSL Data and an DSL line all-in-one from only R75pm.</span></a></li>
-                  	</ul> 
-                    
-                    <div class="clear"></div>
-                    
-                    
-                    </div><!--/nav-megapanel-colum-->
-                    
-                    <div class="nav-megapanel-colum">
-                    <ul class="itemgroup">
-                    		<li class="itemgroup-heading">Uncapped DSL Bundles</li>
-                         <li><a href="https://www.afrihost.com/site/product/uncapped_adsl_bundles?src=website_nav"><span class="nav-iconset bundles-set bundles-two"></span>Uncapped DSL Bundles<span class="desc">Uncapped DSL Data and an DSL line all-in-one from only R249pm.</span></a></li>
-                  	</ul>
-                    </div><!--/nav-megapanel-colum-->
-                    
-                    <div class="nav-megapanel-colum">
-                    <ul class="itemgroup">
-                    		<li class="itemgroup-heading">Business DSL Bundles</li>
-                    	   <li><a href="https://www.afrihost.com/site/product/business_adsl_bundles?src=website_nav"><span class="nav-iconset bundles-set bundles-three"></span>Business DSL Bundles<span class="desc">Business DSL Data and an DSL line all-in-one from only R397pm.</span></a></li> 
-                  	</ul>
-                    </div><!--/nav-megapanel-colum-->
-                    
-                    <div class="nav-megapanel-colum promotional-colum">
-                    	   <p class="promo-heading"><strong>Online</strong> Music Streaming</p>
-                           <a href="https://www.afrihost.com/landing/simfy/?src=website_nav" class="promo-link">
-                           	  <span class="promo-img"><img src="https://cdn.afrihost.com/images/promotions_nav/nav_simfy_promo.jpg" alt="<strong>Online</strong> Music Streaming"></span>
-                       		  <p class="promo-desc">Simfy Africa has more than 27 million songs for you to choose from. Listen on your smartphone, tablet, computer or connected device for only R60pm</p>
-                               <p class="promo-farce-link">Find out more</p>
-                           </a>
-                    </div><!--/nav-megapanel-colum-->        
-                
-               	  </div><!--/fitcontent-->
-                <div class="clear"><!-- So Background Gradient/Colour scales to height--></div>
-                </div><!--/megapanel-->
-            </li><!--/ End Top Level Nav Item -->
+			<input name="keywords" id="fullsearchbox" type="text" autocomplete="off">
+			</form>
+		</div>
+
+		<div id="asr_data"></div><!-- end.asr_data -->
+
+	</div><!--/utility-panel-->
+</li><!--/dropdown-->
+
+<li class="dropdown"><a class="top-level red-top-level" href="https://clientzone.afrihost.com">ClientZone<span class="icon-wrap"><span class="icon-clientzone"></span></span></a></li><!--/dropdown-->
+
+</ul><!--/utility-nav-->
 
 
-            <li style="" class="parent"><a href="#" class="cant-click-this">Mobile</a>		
-                <div class="megapanel">
-                	<div class="fitcontent">
-                    
-                    <p class="nav-subheading">Magnificent <strong>Mobile Data</strong> Products!</p>
-						
-                     <div class="nav-megapanel-colum">
-                  	<ul class="itemgroup">
-                    		<li class="itemgroup-heading">Mobile Data</li>
-                    		<li><a href="https://www.afrihost.com/site/product/mobile_data?src=website_nav"><span class="nav-iconset mobile-set mobile-one"></span>Mobile Data<span class="desc">No Contracts, Flexible Out-of-Bundle Service, from only R29.00 pm.</span></a></li> 
-                  	</ul> 
-                    
-                     <div class="clear"></div>
-                     
-                    
-                    </div><!--/nav-megapanel-colum-->
-                    
-                    <div class="nav-megapanel-colum">
-                    <ul class="itemgroup">
-                    		<li class="itemgroup-heading">Mobile Hardware</li>
-                         <li><a href="https://www.afrihost.com/site/hardware/mobile_hardware/#/?src=website_nav"><span class="nav-iconset mobile-set mobile-two"></span>Mobile Devices<span class="desc">Connect to the internet with Mobile Devices from only R449.</span></a></li>
-                         <li><a href="http://www.afrihost.com/landing/fixed_mobile/?src=website_nav"><span class="nav-iconset mobile-set mobile-four"></span>Fixed Mobile<span class="desc">No Landline? No Problem! Get connected for only R1999 once-off.</span></a></li>
-                  	</ul>
-                    </div><!--/nav-megapanel-colum-->
-                    
-                    <div class="nav-megapanel-colum related-content-colum">
-                    <ul class="itemgroup listgroup">
-                    		<li class="itemgroup-heading">Related Content</li>
-                         <li><a href="https://www.afrihost.com/site/faq/mobile_data_faq?src=website_nav">Mobile Data FAQs</a></li> 
-                         <li><a href="https://www.afrihost.com/site/faq/apn_access?src=website_nav">Mobile Data APN Access FAQs</a></li> 
-                         <li><a href="http://www.afrihost.com/landing/mobile_data_apn_setup/?src=website_nav">Mobile Data APN Settings</a></li> 
-                         <li><a href="http://www.afrihost.com/resources/network_coverage_map/?src=website_nav">Mobile Data Network Coverage Map</a></li>
-                         <li><a href="https://www.afrihost.com/site/hardware_support?src=website_nav">Hardware Support and Downloads</a></li>
-                  	</ul>  
-                    </div><!--/nav-megapanel-colum-->
-                    
-                    <div class="nav-megapanel-colum promotional-colum">
-                    	   <p class="promo-heading"><strong>Online</strong> Music Streaming</p>
-                           <a href="https://www.afrihost.com/landing/simfy/?src=website_nav" class="promo-link">
-                           	  <span class="promo-img"><img src="https://cdn.afrihost.com/images/promotions_nav/nav_simfy_promo.jpg" alt="<strong>Online</strong> Music Streaming"></span>
-                       		  <p class="promo-desc">Simfy Africa has more than 27 million songs for you to choose from. Listen on your smartphone, tablet, computer or connected device for only R60pm</p>
-                               <p class="promo-farce-link">Find out more</p>
-                           </a>
-                    </div><!--/nav-megapanel-colum-->
-                   
-               	  </div><!--/fitcontent-->
-                <div class="clear"><!-- So Background Gradient/Colour scales to height--></div>
-                </div><!--/megapanel-->
-            </li><!--/ End Top Level Nav Item -->
-            
-            
-            <li style="" class="parent"><a href="#" class="cant-click-this">Hosting</a>		
-                <div class="megapanel">
-                	<div class="fitcontent">
-                    
-                    <p class="nav-subheading">Happy <strong>Hosting</strong> Products!</p>
+<ul class="megamenu">
 
-                    <div class="nav-megapanel-colum">
-	                  	<ul class="itemgroup">
-	                    		<li class="itemgroup-heading">Linux Hosting</li>
-	                    		<li><a href="https://www.afrihost.com/site/product/linux_hosting?src=website_nav"><span class="nav-iconset hosting-set hosting-one"></span>Linux Hosting<span class="desc">Affordable, stable, locally hosted linux packages from only R9pm.</span></a></li>
-	                  	</ul> 
-	                    
-	                    <ul class="itemgroup">
-	                    		<li class="itemgroup-heading">Windows Hosting</li>
-	                    		<li><a href="https://www.afrihost.com/site/product/windows_hosting?src=website_nav"><span class="nav-iconset hosting-set hosting-three"></span>Windows Hosting<span class="desc">Affordable locally hosted windows packages from only R29pm.</span></a></li>
-	                  	</ul> 
-	                    
-	                    <div class="clear"></div>
-	                    
-                    
-                    </div><!--/nav-megapanel-colum-->
-                        
-                    <div class="nav-megapanel-colum">
-                    <ul class="itemgroup">
-                    		<li class="itemgroup-heading">Cloud Hosting</li>
-                         <li><a href="https://www.afrihost.com/site/product/cloud_hosting?src=website_nav"><span class="nav-iconset hosting-set hosting-five"></span>Cloud Server Hosting<span class="desc">Dedicated Hosting, at a fraction of the cost from only R290pm.</span></a></li> 
-                         <li><a href="https://www.afrihost.com/site/product/enterprise_cloud_hosting?src=website_nav"><span class="nav-iconset hosting-set hosting-six"></span>Enterprise Cloud Hosting<span class="desc">Top notch Cloud Hosting from only R890pm.</span></a></li> 
-                         <li><a href="https://www.afrihost.com/site/product/managed_cloud_hosting?src=website_nav"><span class="nav-iconset hosting-set hosting-seven"></span>Managed Cloud Hosting<span class="desc">Cloud Hosting with software management, from R790pm.</span></a></li> 
-                         <li><a href="https://www.afrihost.com/site/product/managed_enterprise_cloud_hosting?src=website_nav"><span class="nav-iconset hosting-set hosting-eight"></span>Managed Enterprise Hosting<span class="desc">Enterprise Cloud Hosting with software management from only R1390pm.</span></a></li> 
-                  	</ul>
-                    
-                    </div><!--/nav-megapanel-colum-->
-                    
-                    <div class="nav-megapanel-colum">
-                    <ul class="itemgroup">
-                    		<li class="itemgroup-heading">Specialised Hosting</li>
-                         <li><a href="https://www.afrihost.com/site/product/reseller_hosting?src=website_nav"><span class="nav-iconset hosting-set hosting-nine"></span>Reseller Hosting<span class="desc">Start your own hosting enterprise from only R490pm.</span></a></li> 
-                         <li><a href="https://www.afrihost.com/site/product/dedicated_hosting?src=website_nav"><span class="nav-iconset hosting-set hosting-ten"></span>Dedicated Server Hosting<span class="desc">Rock-Solid dedicated hosting. You're in complete control from only R950pm.</span></a></li> 
-                         <li><a href="https://www.afrihost.com/site/product/rack_hosting?src=website_nav"><span class="nav-iconset hosting-set hosting-eleven"></span>Rack Hosting<span class="desc">Custom Hardware? No problem, we've got you covered from R1100pm.</span></a></li> 
-                  	</ul>
-                    </div><!--/nav-megapanel-colum-->
-                    
-                    <div class="nav-megapanel-colum promotional-colum">
-                    	   <p class="promo-heading"><strong>Online</strong> Music Streaming</p>
-                           <a href="https://www.afrihost.com/landing/simfy/?src=website_nav" class="promo-link">
-                           	  <span class="promo-img"><img src="https://cdn.afrihost.com/images/promotions_nav/nav_simfy_promo.jpg" alt="<strong>Online</strong> Music Streaming"></span>
-                       		  <p class="promo-desc">Simfy Africa has more than 27 million songs for you to choose from. Listen on your smartphone, tablet, computer or connected device for only R60pm</p>
-                               <p class="promo-farce-link">Find out more</p>
-                           </a>
-                    </div><!--/nav-megapanel-colum-->
-                
-               	  </div><!--/fitcontent-->
-                <div class="clear"><!-- So Background Gradient/Colour scales to height--></div>
-                </div><!--/megapanel-->
-            </li><!--/ End Top Level Nav Item -->
-            
-            
-            <li style="" class="parent"><a href="#" class="cant-click-this">Domains</a>		
-                <div class="megapanel">
-                	<div class="fitcontent">
-                    
-                    <p class="nav-subheading">Awesome <strong>Domain</strong> Products!</p>
-						
-                     <div class="nav-megapanel-colum">
-                  	<ul class="itemgroup">
-                    		<li class="itemgroup-heading">Get a Domain</li>
-                    		<li><a href="https://www.afrihost.com/site/page/domain_check?src=website_nav"><span class="nav-iconset domains-set domains-one"></span>Domain Search<span class="desc">Find out if the domain you want to register is available.</span></a></li>
-                         <li><a href="https://www.afrihost.com/site/product/domain_registration?src=website_nav"><span class="nav-iconset domains-set domains-three"></span>Domain Registration<span class="desc">Secure your own unique space on the web from R79.</span></a></li>
-                  	</ul> 
-                    
-                     <div class="clear"></div>
-                     
-                    
-                    </div><!--/nav-megapanel-colum-->
-                    
-                    <div class="nav-megapanel-colum">
-                    <ul class="itemgroup">
-                    		<li class="itemgroup-heading">Domain Services</li>
-                    		<li><a href="https://www.afrihost.com/site/product/domain_pointing?src=website_nav"><span class="nav-iconset domains-set domains-two"></span>Domain Pointing<span class="desc">Point multiple domains to one for only R9pm each.</span></a></li> 
-                         <li><a href="https://www.afrihost.com/site/product/domain_parking?src=website_nav"><span class="nav-iconset domains-set domains-five"></span>Domain Parking<span class="desc">Make sure you're covered when you're ready with that great idea, from R197.</span></a></li>                        
-                  	</ul> 
-                    </div><!--/nav-megapanel-colum-->
-                    
-                    <div class="nav-megapanel-colum">
-                    <ul class="itemgroup">
-                    		<li class="itemgroup-heading">Personalised Email</li>
-                    		<li><a href="https://www.afrihost.com/site/product/domain_email?src=website_nav"><span class="nav-iconset domains-set domains-four"></span>Domain Email<span class="desc">Need email accounts for your company? Get it now for only R9pm.</span></a></li> 
-                  	</ul>  
-                    </div><!--/nav-megapanel-colum-->
-                    
-                    <div class="nav-megapanel-colum promotional-colum">
-                    	   <p class="promo-heading"><strong>Online</strong> Music Streaming</p>
-                           <a href="https://www.afrihost.com/landing/simfy/?src=website_nav" class="promo-link">
-                           	  <span class="promo-img"><img src="https://cdn.afrihost.com/images/promotions_nav/nav_simfy_promo.jpg" alt="<strong>Online</strong> Music Streaming"></span>
-                       		  <p class="promo-desc">Simfy Africa has more than 27 million songs for you to choose from. Listen on your smartphone, tablet, computer or connected device for only R60pm</p>
-                               <p class="promo-farce-link">Find out more</p>
-                           </a>
-                    </div><!--/nav-megapanel-colum-->
-                   
-                	</div><!--/fitcontent-->
-                <div class="clear"><!-- So Background Gradient/Colour scales to height--></div>
-                </div><!--/megapanel-->
-            </li><!--/ End Top Level Nav Item -->
+	<li style="" class="parent"><a href="#" class="cant-click-this">Mobile <sup>NEW</sup></a>
+		<div class="megapanel">
+			<div class="fitcontent">
 
-              
-            <li style="" class="parent"><a href="#" class="cant-click-this">Other</a>		
-                <div class="megapanel">
-                	<div class="fitcontent">
-                    
-                    <p class="nav-subheading">Cherry On The Top <strong>Extras!</strong></p>
+				<p class="nav-subheading">Magnificent <strong>Mobile</strong> Products!</p>
 
-                    <div class="nav-megapanel-colum">
-                    <ul class="itemgroup">
-                    		<li class="itemgroup-heading">Add More Value</li>
-                         <li><a href="https://www.afrihost.com/landing/afrihost_plus/?src=website_nav"><span class="nav-iconset other-set other-eight"></span>Afrihost Plus+<span class="desc">Add more Internet Joy and save hundreds for only R99pm.</span></a></li>
-                  	</ul>
-                    
-                    <ul class="itemgroup">
-                    		<li class="itemgroup-heading">Online Music Streaming</li>
-                         <li><a href="https://www.afrihost.com/landing/simfy/?src=website_nav"><span class="nav-iconset other-set other-seven"></span>simfy africa<span class="desc">Stream more than 27 million songs for only R60pm.</span></a></li>
-                  	</ul>
-                    
-                    </div><!--/nav-megapanel-colum-->
+				<div class="nav-megapanel-colum">
+					<ul class="itemgroup">
+						<li class="itemgroup-heading">Mobile Voice &amp; Data</li>
+						<li><a href="http://www.afrihost.com/go/mobile" class="nav-new-alt"><span class="nav-iconset mobile-set mobile-five"></span>Month-to-Month Voice<span class="desc">Contract-Free Voice and Mobile Data from only R99.00 pm.</span></a></li>
+						<li><a href="https://www.afrihost.com/site/product/mobile_data"><span class="nav-iconset mobile-set mobile-one"></span>Month-to-Month Mobile Data<span class="desc">No Contracts, Flexible Out-of-Bundle Service from only R29.00 pm.</span></a></li>
+						<li><a href="https://www.afrihost.com/site/product/prepaid/mobile_prepaid" class="nav-new-alt"><span class="nav-iconset mobile-set mobile-six"></span>Prepaid Voice &amp; Mobile Data<span class="desc">Airtime and Mobile Data that lasts up to a year from only R25.00 once-off.</span></a></li>
+					</ul>
 
-                    <div class="nav-megapanel-colum">
-                    <ul class="itemgroup">
+					<div class="clear"></div>
+					
+
+				</div><!--/nav-megapanel-colum-->
+
+				<div class="nav-megapanel-colum">
+					<ul class="itemgroup">
+						<li class="itemgroup-heading">Mobile Devices</li>
+						<li><a href="https://www.afrihost.com/site/product/mobile_devices"><span class="nav-iconset mobile-set mobile-two"></span>Mobile Devices<span class="desc">Connect to the internet with Mobile Devices from only R449.</span></a></li>
+						<li><a href="http://www.afrihost.com/landing/fixed_mobile/"><span class="nav-iconset mobile-set mobile-four"></span>Fixed Mobile<span class="desc">No Landline? No Problem! Get connected for only R2749 once-off.</span></a></li>
+					</ul>
+				</div><!--/nav-megapanel-colum-->
+
+				<div class="nav-megapanel-colum related-content-colum">
+					<ul class="itemgroup listgroup">
+						<li class="itemgroup-heading">Related Content</li>
+						<li><a href="https://www.afrihost.com/site/faq/mobile" class="nav-new-alt">Mobile FAQs</a></li>
+						<li><a href="http://www.afrihost.com/go/mobile_porting" class="nav-new-alt">Mobile Porting Instructions</a></li>
+						<li><a href="http://www.afrihost.com/go/mobile_allocation" class="nav-new-alt">Monthly Allocation and Auto-Limit</a></li>
+						<li><a href="https://www.afrihost.com/site/faq/mobile_data_faq">Mobile Data FAQs</a></li>
+						<li><a href="https://www.afrihost.com/site/faq/apn_access">Mobile Data Access Point FAQs</a></li>
+						<li><a href="http://www.afrihost.com/landing/mobile_data_apn_setup/">Mobile Data APN Settings</a></li>
+						<li><a href="http://www.afrihost.com/resources/network_coverage_map/">Mobile Network Coverage Map</a></li>
+						<li><a href="https://www.afrihost.com/site/hardware_support">Hardware Support and Downloads</a></li>
+					</ul>
+				</div><!--/nav-megapanel-colum-->
+
+				<div class="nav-megapanel-colum promotional-colum">
+					<p class="promo-heading"><strong>Online</strong> Music Streaming</p>
+					<a href="https://www.afrihost.com/landing/simfy/" class="promo-link">
+						<span class="promo-img"><img src="https://cdn.afrihost.com/images/promotions_nav/nav_simfy_promo.jpg" alt="<strong>Online</strong> Music Streaming"></span>
+						<p class="promo-desc">Simfy Africa has more than 32 million songs for you to choose from. Listen on your smartphone, tablet, computer or connected device for only R60pm</p>
+						<p class="promo-farce-link">More Details</p>
+					</a>
+				</div><!--/nav-megapanel-colum-->
+
+			</div><!--/fitcontent-->
+			<div class="clear"><!-- So Background Gradient/Colour scales to height--></div>
+		</div><!--/megapanel-->
+	</li><!--/ End Top Level Nav Item -->
+
+	<li style="" class="parent"><a href="#" class="cant-click-this">DSL Broadband <sup>NEW</sup></a>
+		<div class="megapanel">
+			<div class="fitcontent">
+
+				<p class="nav-subheading">Awesome <strong>DSL</strong> Products!</p>
+
+				<div class="nav-megapanel-colum">
+					<ul class="itemgroup">
+						<li class="itemgroup-heading">ADSL and VDSL</li>
+						<li><a href="https://www.afrihost.com/site/product/adsl_capped" class="nav-new-alt"><span class="nav-iconset dsl-set dsl-one"></span>Capped DSL<span class="desc">Unshaped, usage based DSL accounts, from only R0.00 a month.</span></a></li>
+						<li><a href="https://www.afrihost.com/site/product/dsl_uncapped" class="nav-new-alt"><span class="nav-iconset dsl-set dsl-two"></span>Uncapped DSL<span class="desc">All-you-can-eat style internet from R97pm.</span></a></li>
+						<li><a href="https://www.afrihost.com/site/product/adsl_prepaid"><span class="nav-iconset dsl-set dsl-four"></span>Prepaid DSL<span class="desc">Unshaped, prepaid bandwidth that lasts up to a year, for R7/GB.</span></a></li>
+						<li><a href="https://www.afrihost.com/site/product/adsl_lines"><span class="nav-iconset dsl-set dsl-six"></span>DSL Lines<span class="desc">Afrihost managed Telkom DSL lines starting from only R59pm.</span></a></li>
+					</ul>
+
+					<div class="clear"></div>
+					
+				</div><!--/nav-megapanel-colum-->
+
+				<div class="nav-megapanel-colum">
+					<ul class="itemgroup">
+						<li class="itemgroup-heading">DSL Bundles</li>
+						<li><a href="https://www.afrihost.com/site/product/capped_dsl_bundles" class="nav-new-alt"><span class="nav-iconset bundles-set bundles-one"></span>Capped DSL Bundles<span class="desc">Capped DSL Data and an DSL line all-in-one from only R75pm.</span></a></li>
+						<li><a href="https://www.afrihost.com/site/product/dsl_uncapped_bundles" class="nav-new-alt"><span class="nav-iconset bundles-set bundles-two"></span>Uncapped DSL Bundles<span class="desc">Uncapped DSL Data and an DSL line all-in-one from only R149pm.</span></a></li>
+					</ul>
+					<ul class="itemgroup">
+						<li class="itemgroup-heading">DSL Modems</li>
+						<li><a href="https://www.afrihost.com/site/hardware/modems_wifi/#"><span class="nav-iconset dsl-set dsl-seven"></span>Modems &amp; Wi-Fi<span class="desc">Affordable, convenient, effortless, from only R495.</span></a></li>
+					</ul>
+
+				</div><!--/nav-megapanel-colum-->
+
+
+				<div class="nav-megapanel-colum related-content-colum">
+					<ul class="itemgroup listgroup">
+						<li class="itemgroup-heading">Related Content</li>
+						<li><a href="https://www.afrihost.com/site/faq/adsl">DSL FAQs</a></li>
+						<li><a href="https://www.afrihost.com/site/faq/uncapped_adsl">Uncapped DSL FAQs</a></li>
+						<li><a href="http://www.afrihost.com/site/page/uncapped_adsl_leader_board">How much data can I use on Uncapped?</a></li>
+						<li><a href="http://www.afrihost.com/site/page/internet_configuration_settings">Internet Configuration Settings</a></li>
+						<li><a href="https://www.afrihost.com/site/hardware_support">Hardware Support and Downloads</a></li>
+						<li><a href="http://www.afrihost.com/microsites/adsl_network" class="nav-new-alt">The Afrihost Fixed Broadband Network</a></li>
+					</ul>
+				</div><!--/nav-megapanel-colum-->
+
+				<div class="nav-megapanel-colum promotional-colum">
+					<p class="promo-heading"><strong>Online</strong> Music Streaming</p>
+					<a href="https://www.afrihost.com/landing/simfy/" class="promo-link">
+						<span class="promo-img"><img src="https://cdn.afrihost.com/images/promotions_nav/nav_simfy_promo.jpg" alt="<strong>Online</strong> Music Streaming"></span>
+						<p class="promo-desc">Simfy Africa has more than 32 million songs for you to choose from. Listen on your smartphone, tablet, computer or connected device for only R60pm</p>
+						<p class="promo-farce-link">Find out more</p>
+					</a>
+				</div><!--/nav-megapanel-colum-->
+
+			</div><!--/fitcontent-->
+			<div class="clear"><!-- So Background Gradient/Colour scales to height--></div>
+		</div><!--/megapanel-->
+	</li><!--/ End Top Level Nav Item -->
+
+	<li style="" class="parent"><a href="#" class="cant-click-this">Fibre <sup>NEW</sup></a>
+		<div class="megapanel">
+			<div class="fitcontent">
+
+				<p class="nav-subheading">Blazing Fast <strong>Fibre</strong> Products!</p>
+
+				<div class="nav-megapanel-colum">
+					<ul class="itemgroup">
+						<li class="itemgroup-heading">Telkom Fibre</li>
+						<li><a href="https://www.afrihost.com/landing/fibre/telkom" class="nav-new-alt"><span class="nav-iconset fibre-set fibre-one"></span>Telkom Fibre Data Packages<span class="desc">Blazing Fast Capped and Uncapped Telkom Fibre Data Packages from only R29.00 a month.</span></a></li>
+					</ul>
+					<div class="clear"></div>
+				</div><!--/nav-megapanel-colum-->
+
+				<div class="nav-megapanel-colum related-content-colum">
+					<ul class="itemgroup listgroup">
+						<li class="itemgroup-heading">Related Content</li>
+						<li><a href="http://www.telkom.co.za/coverage/">Telkom Fibre Coverage Map</a></li>
+					</ul>
+				</div><!--/nav-megapanel-colum-->
+
+				<div class="nav-megapanel-colum">
+					&nbsp;
+				</div>
+
+				<div class="nav-megapanel-colum promotional-colum">
+					<p class="promo-heading"><strong>Online</strong> Music Streaming</p>
+					<a href="https://www.afrihost.com/landing/simfy/" class="promo-link">
+						<span class="promo-img"><img src="https://cdn.afrihost.com/images/promotions_nav/nav_simfy_promo.jpg" alt="<strong>Online</strong> Music Streaming"></span>
+						<p class="promo-desc">Simfy Africa has more than 32 million songs for you to choose from. Listen on your smartphone, tablet, computer or connected device for only R60pm</p>
+						<p class="promo-farce-link">Find out more</p>
+					</a>
+				</div><!--/nav-megapanel-colum-->
+
+			</div><!--/fitcontent-->
+			<div class="clear"><!-- So Background Gradient/Colour scales to height--></div>
+		</div><!--/megapanel-->
+	</li><!--/ End Top Level Nav Item -->
+
+	<li style="" class="parent"><a href="#" class="cant-click-this">Hosting</a>
+		<div class="megapanel">
+			<div class="fitcontent">
+
+				<p class="nav-subheading">Happy <strong>Hosting</strong> Products!</p>
+
+				<div class="nav-megapanel-colum">
+					<ul class="itemgroup">
+						<li class="itemgroup-heading">Linux Hosting</li>
+						<li><a href="https://www.afrihost.com/site/product/linux_hosting"><span class="nav-iconset hosting-set hosting-one"></span>Linux Hosting<span class="desc">Affordable, stable, locally hosted linux packages from only R29pm.</span></a></li>
+					</ul>
+
+					<ul class="itemgroup">
+						<li class="itemgroup-heading">Windows Hosting</li>
+						<li><a href="https://www.afrihost.com/site/product/windows_hosting"><span class="nav-iconset hosting-set hosting-three"></span>Windows Hosting<span class="desc">Affordable locally hosted windows packages from only R49pm.</span></a></li>
+					</ul>
+
+					<div class="clear"></div>
+					
+
+				</div><!--/nav-megapanel-colum-->
+
+				<div class="nav-megapanel-colum">
+					<ul class="itemgroup">
+						<li class="itemgroup-heading">Cloud Hosting</li>
+						<li><a href="https://www.afrihost.com/site/product/cloud_hosting"><span class="nav-iconset hosting-set hosting-five"></span>Cloud Server Hosting<span class="desc">Dedicated Hosting, at a fraction of the cost from only R290pm.</span></a></li>
+						<li><a href="https://www.afrihost.com/site/product/enterprise_cloud_hosting"><span class="nav-iconset hosting-set hosting-six"></span>Enterprise Cloud Hosting<span class="desc">Top notch Cloud Hosting from only R890pm.</span></a></li>
+						<li><a href="https://www.afrihost.com/site/product/managed_cloud_hosting"><span class="nav-iconset hosting-set hosting-seven"></span>Managed Cloud Hosting<span class="desc">Cloud Hosting with software management, from R790pm.</span></a></li>
+						<li><a href="https://www.afrihost.com/site/product/managed_enterprise_cloud_hosting"><span class="nav-iconset hosting-set hosting-eight"></span>Managed Enterprise Hosting<span class="desc">Enterprise Cloud Hosting with software management from only R1390pm.</span></a></li>
+					</ul>
+
+				</div><!--/nav-megapanel-colum-->
+
+				<div class="nav-megapanel-colum">
+					<ul class="itemgroup">
+						<li class="itemgroup-heading">Specialised Hosting</li>
+						<li><a href="https://www.afrihost.com/site/product/reseller_hosting"><span class="nav-iconset hosting-set hosting-nine"></span>Reseller Hosting<span class="desc">Start your own hosting enterprise from only R490pm.</span></a></li>
+						<li><a href="https://www.afrihost.com/site/product/dedicated_hosting"><span class="nav-iconset hosting-set hosting-ten"></span>Dedicated Server Hosting<span class="desc">Rock-Solid dedicated hosting. You're in complete control from only R950pm.</span></a></li>
+						<li><a href="https://www.afrihost.com/site/product/rack_hosting"><span class="nav-iconset hosting-set hosting-eleven"></span>Rack Hosting<span class="desc">Custom Hardware? No problem, we've got you covered from R1100pm.</span></a></li>
+					</ul>
+				</div><!--/nav-megapanel-colum-->
+
+				<div class="nav-megapanel-colum promotional-colum">
+					<p class="promo-heading"><strong>Online</strong> Music Streaming</p>
+					<a href="https://www.afrihost.com/landing/simfy/" class="promo-link">
+						<span class="promo-img"><img src="https://cdn.afrihost.com/images/promotions_nav/nav_simfy_promo.jpg" alt="<strong>Online</strong> Music Streaming"></span>
+						<p class="promo-desc">Simfy Africa has more than 32 million songs for you to choose from. Listen on your smartphone, tablet, computer or connected device for only R60pm</p>
+						<p class="promo-farce-link">Find out more</p>
+					</a>
+				</div><!--/nav-megapanel-colum-->
+
+			</div><!--/fitcontent-->
+			<div class="clear"><!-- So Background Gradient/Colour scales to height--></div>
+		</div><!--/megapanel-->
+	</li><!--/ End Top Level Nav Item -->
+
+
+	<li style="" class="parent"><a href="#" class="cant-click-this">Domains</a>
+		<div class="megapanel">
+			<div class="fitcontent">
+
+				<p class="nav-subheading">Awesome <strong>Domain</strong> Products!</p>
+
+				<div class="nav-megapanel-colum">
+					<ul class="itemgroup">
+						<li class="itemgroup-heading">Get a Domain</li>
+						<li><a href="https://www.afrihost.com/site/product/domain_registration"><span class="nav-iconset domains-set domains-one"></span>Domain Search<span class="desc">Find out if the domain you want to register is available.</span></a></li>
+						<li><a href="https://www.afrihost.com/site/product/domain_registration"><span class="nav-iconset domains-set domains-three"></span>Domain Registration<span class="desc">Secure your own unique space on the web from R79.</span></a></li>
+					</ul>
+
+					<div class="clear"></div>
+					
+
+				</div><!--/nav-megapanel-colum-->
+
+				<div class="nav-megapanel-colum">
+					<ul class="itemgroup">
+						<li class="itemgroup-heading">Domain Services</li>
+						<li><a href="https://www.afrihost.com/site/product/domain_pointing"><span class="nav-iconset domains-set domains-two"></span>Domain Pointing<span class="desc">Point multiple domains to one for only R9pm each.</span></a></li>
+						<li><a href="https://www.afrihost.com/site/product/domain_parking"><span class="nav-iconset domains-set domains-five"></span>Domain Parking<span class="desc">Make sure you're covered when you're ready with that great idea, from R197.</span></a></li>
+					</ul>
+				</div><!--/nav-megapanel-colum-->
+
+				<div class="nav-megapanel-colum">
+					<ul class="itemgroup">
+						<li class="itemgroup-heading">Personalised Email</li>
+						<li><a href="https://www.afrihost.com/site/product/domain_email"><span class="nav-iconset domains-set domains-four"></span>Domain Email<span class="desc">Need email accounts for your company? Get it now for only R9pm.</span></a></li>
+					</ul>
+				</div><!--/nav-megapanel-colum-->
+
+				<div class="nav-megapanel-colum promotional-colum">
+					<p class="promo-heading"><strong>Online</strong> Music Streaming</p>
+					<a href="https://www.afrihost.com/landing/simfy/" class="promo-link">
+						<span class="promo-img"><img src="https://cdn.afrihost.com/images/promotions_nav/nav_simfy_promo.jpg" alt="<strong>Online</strong> Music Streaming"></span>
+						<p class="promo-desc">Simfy Africa has more than 32 million songs for you to choose from. Listen on your smartphone, tablet, computer or connected device for only R60pm</p>
+						<p class="promo-farce-link">Find out more</p>
+					</a>
+				</div><!--/nav-megapanel-colum-->
+
+			</div><!--/fitcontent-->
+			<div class="clear"><!-- So Background Gradient/Colour scales to height--></div>
+		</div><!--/megapanel-->
+	</li><!--/ End Top Level Nav Item -->
+
+
+	<li style="" class="parent"><a href="#" class="cant-click-this">Other</a>
+		<div class="megapanel">
+			<div class="fitcontent">
+
+				<p class="nav-subheading">Cherry On The Top <strong>Extras!</strong></p>
+
+				<div class="nav-megapanel-colum">
+					<ul class="itemgroup">
+						<li class="itemgroup-heading">Add More Value</li>
+						<li><a href="https://www.afrihost.com/landing/afrihost_plus/"><span class="nav-iconset other-set other-eight"></span>Afrihost Plus+<span class="desc">Add more Internet Joy and save hundreds for only R99pm.</span></a></li>
+					</ul>
+
+					<ul class="itemgroup">
+						<li class="itemgroup-heading">Online Music Streaming</li>
+						<li><a href="https://www.afrihost.com/landing/simfy/"><span class="nav-iconset other-set other-seven"></span>simfy africa<span class="desc">Stream more than 32 million songs for only R60pm.</span></a></li>
+					</ul>
+
+				</div><!--/nav-megapanel-colum-->
+
+				<div class="nav-megapanel-colum">
+					<ul class="itemgroup">
 						<li class="itemgroup-heading">Services</li>
-						<li><a href="https://www.afrihost.com/site/product/afridesign?src=website_nav"><span class="nav-iconset other-set other-six"></span>AfriDesign<span class="desc">We'll design and maintain your website, so you can focus on what you do best.</span></a></li>
-						<li><a href="https://www.afrihost.com/site/page/cm4all_website_builder?src=website_nav"><span class="nav-iconset other-set other-two"></span>CM4all SiteBuilder<span class="desc">Want to build your own website? Try our new SiteBuilder.</span></a></li>
-						<li><a href="https://www.afrihost.com/site/page/fax2email?src=website_nav"><span class="nav-iconset other-set other-four"></span>FREE Fax2Email<span class="desc">Afrihost clients get Free Fax2Email, click for more info.</span></a></li>
-                  	</ul>
-                    
-                    <div class="clear"></div>
-                    
-                    </div><!--/nav-megapanel-colum-->
-                    
-                    <div class="nav-megapanel-colum">
-	                  	<ul class="itemgroup">
-	                    		<li class="itemgroup-heading">Internet Marketing</li>
-	                    		<li><a href="https://www.afrihost.com/site/page/gofish_seo?src=website_nav"><span class="nav-iconset other-set other-three"></span>Internet Marketing<span class="desc">Let the experts bring high quality web traffic to your website.</span></a></li>
-                    			<li><a href="https://www.afrihost.com/site/page/seo_rating_tool?src=website_nav"><span class="nav-iconset other-set other-five"></span>SEO Website Tester<span class="desc">Want to test your website's SEO? Find out how it performs.</span></a></li>
-                                <li><a href="https://www.afrihost.com/site/page/seo_seminars?src=website_nav"><span class="nav-iconset other-set other-nine"></span>Internet Marketing Seminar<span class="desc">Want to find out more about Internet marketing? Attend one of our seminars.</span></a></li>
-	                  	</ul> 
-	                    
-	                    <ul class="itemgroup">
-	                    		<li class="itemgroup-heading">Security</li>
-	                    		<li><a href="https://www.afrihost.com/site/product/eset_anti_virus?src=website_nav"><span class="nav-iconset other-set other-one"></span>ESET Internet Security<span class="desc">ESET Solutions for full system protection from only R19pm.</span></a></li>
-	                  	</ul> 
-	                    
-	                    <div class="clear"></div>
-	                    
-                    
-                    </div><!--/nav-megapanel-colum-->
-                    
-                    <div class="nav-megapanel-colum promotional-colum">
-                    	   <p class="promo-heading"><strong>Online</strong> Music Streaming</p>
-                           <a href="https://www.afrihost.com/landing/simfy/?src=website_nav" class="promo-link">
-                           	  <span class="promo-img"><img src="https://cdn.afrihost.com/images/promotions_nav/nav_simfy_promo.jpg" alt="<strong>Online</strong> Music Streaming"></span>
-                       		  <p class="promo-desc">Simfy Africa has more than 27 million songs for you to choose from. Listen on your smartphone, tablet, computer or connected device for only R60pm</p>
-                               <p class="promo-farce-link">Find out more</p>
-                           </a>
-                    </div><!--/nav-megapanel-colum-->                 
-                
-               	  </div><!--/fitcontent-->
-                <div class="clear"><!-- So Background Gradient/Colour scales to height--></div>
-                </div><!--/megapanel-->
-            </li><!--/ End Top Level Nav Item -->          
-            
-            <li style="" class="parent"><a href="#" class="cant-click-this">FAQs</a>		
-                <div class="megapanel">
-                	<div class="fitcontent">
-                    
-                    <p class="nav-subheading">Frequently Asked <strong>Questions!</strong></p>
-						
-                     <div class="nav-megapanel-colum">
-                  	<ul class="itemgroup listgroup">
-                    		<li class="itemgroup-heading">DSL FAQs</li>
-                         <li><a href="https://www.afrihost.com/site/faq/adsl?src=website_nav">DSL FAQs</a></li> 
-                         <li><a href="https://www.afrihost.com/site/faq/uncapped_adsl?src=website_nav">Uncapped DSL FAQs</a></li> 
-                         <li><a href="http://www.afrihost.com/site/page/uncapped_adsl_leader_board?src=website_nav">How much data can I use on Uncapped?</a></li> 
-                         <li><a href="http://www.afrihost.com/site/page/internet_configuration_settings?src=website_nav">Internet Configuration Settings</a></li> 
-                  	</ul> 
-                    
-                    </div><!--/nav-megapanel-colum-->
-                    
-                    <div class="nav-megapanel-colum">
-                    <ul class="itemgroup listgroup">
-                    		<li class="itemgroup-heading">Mobile Data FAQs</li>
-                    		<li><a href="https://www.afrihost.com/site/faq/mobile_data_faq?src=website_nav">Mobile Data FAQs</a></li> 
-                         <li><a href="https://www.afrihost.com/site/faq/apn_access?src=website_nav">Mobile Data APN Access FAQs</a></li> 
-                         <li><a href="http://www.afrihost.com/landing/mobile_data_apn_setup/?src=website_nav">Mobile Data APN Settings</a></li> 
-                         <li><a href="http://www.afrihost.com/resources/network_coverage_map/?src=website_nav">Mobile Data Network Coverage Map</a></li>  
-                  	</ul>
-                    
-                    </div><!--/nav-megapanel-colum-->
-                    
-                    <div class="nav-megapanel-colum related-content-colum">
-                    <ul class="itemgroup listgroup">
-                    		<li class="itemgroup-heading">Domain &amp; Hosting</li>
-                         <li><a href="https://www.afrihost.com/site/faq/domain?src=website_nav">Domain FAQs</a></li> 
-                         <li><a href="https://www.afrihost.com/site/faq/web_hosting?src=website_nav">Web Hosting FAQs</a></li> 
-                    		<li><a href="http://www.afrihost.com/site/page/email_configuration_settings?src=website_nav">Email Configuration Settings</a></li> 
-                  	</ul> 
-                    <ul class="itemgroup listgroup">
-                    		<li class="itemgroup-heading">Referals</li>
-                         <li><a href="https://www.afrihost.com/site/faq/refer_a_friend?src=website_nav">Refer a Friend</a></li>  
-                  	</ul> 
-                    </div><!--/nav-megapanel-colum-->
-                    
-                    <div class="nav-megapanel-colum promotional-colum">
-                    	   <p class="promo-heading"><strong>Online</strong> Music Streaming</p>
-                           <a href="https://www.afrihost.com/landing/simfy/?src=website_nav" class="promo-link">
-                           	  <span class="promo-img"><img src="https://cdn.afrihost.com/images/promotions_nav/nav_simfy_promo.jpg" alt="<strong>Online</strong> Music Streaming"></span>
-                       		  <p class="promo-desc">Simfy Africa has more than 27 million songs for you to choose from. Listen on your smartphone, tablet, computer or connected device for only R60pm</p>
-                               <p class="promo-farce-link">Find out more</p>
-                           </a>
-                    </div><!--/nav-megapanel-colum-->                 
-                
-               	  </div><!--/fitcontent-->
-                <div class="clear"><!-- So Background Gradient/Colour scales to height--></div>
-                </div><!--/megapanel-->
-            </li><!--/ End Top Level Nav Item -->
-      </ul>  
-      
-      <div class="clear"></div>
-     </div><!--/header-inner-->
-     <!--<div id="loaderbar"><div class="inner"></div></div>-->
+						<li><a href="https://www.afrihost.com/site/product/afridesign"><span class="nav-iconset other-set other-six"></span>AfriDesign<span class="desc">We'll design and maintain your website, so you can focus on what you do best.</span></a></li>
+						<li><a href="https://www.afrihost.com/site/page/cm4all_website_builder"><span class="nav-iconset other-set other-two"></span>CM4all SiteBuilder<span class="desc">Want to build your own website? Try our new SiteBuilder.</span></a></li>
+						<li><a href="https://www.afrihost.com/site/page/fax2email"><span class="nav-iconset other-set other-four"></span>FREE Fax2Email<span class="desc">Afrihost clients get Free Fax2Email, click for more info.</span></a></li>
+					</ul>
+
+					<div class="clear"></div>
+					
+				</div><!--/nav-megapanel-colum-->
+
+				<div class="nav-megapanel-colum">
+					<ul class="itemgroup">
+						<li class="itemgroup-heading">Internet Marketing</li>
+						<li><a href="https://www.afrihost.com/site/page/gofish_seo"><span class="nav-iconset other-set other-three"></span>Internet Marketing<span class="desc">Let the experts bring high quality web traffic to your website.</span></a></li>
+						<li><a href="https://www.afrihost.com/site/page/seo_rating_tool"><span class="nav-iconset other-set other-five"></span>SEO Website Tester<span class="desc">Want to test your website's SEO? Find out how it performs.</span></a></li>
+						<li><a href="https://www.afrihost.com/site/page/seo_seminars"><span class="nav-iconset other-set other-nine"></span>Internet Marketing Seminar<span class="desc">Want to find out more about Internet marketing? Attend one of our seminars.</span></a></li>
+					</ul>
+
+					<ul class="itemgroup">
+						<li class="itemgroup-heading">Security</li>
+						<li><a href="https://www.afrihost.com/site/product/eset_anti_virus"><span class="nav-iconset other-set other-one"></span>ESET Internet Security<span class="desc">ESET Solutions for full system protection from only R19pm.</span></a></li>
+					</ul>
+
+					<div class="clear"></div>
+					
+
+				</div><!--/nav-megapanel-colum-->
+
+				<div class="nav-megapanel-colum promotional-colum">
+					<p class="promo-heading"><strong>Online</strong> Music Streaming</p>
+					<a href="https://www.afrihost.com/landing/simfy/" class="promo-link">
+						<span class="promo-img"><img src="https://cdn.afrihost.com/images/promotions_nav/nav_simfy_promo.jpg" alt="<strong>Online</strong> Music Streaming"></span>
+						<p class="promo-desc">Simfy Africa has more than 32 million songs for you to choose from. Listen on your smartphone, tablet, computer or connected device for only R60pm</p>
+						<p class="promo-farce-link">Find out more</p>
+					</a>
+				</div><!--/nav-megapanel-colum-->
+
+			</div><!--/fitcontent-->
+			<div class="clear"><!-- So Background Gradient/Colour scales to height--></div>
+		</div><!--/megapanel-->
+	</li><!--/ End Top Level Nav Item -->
+
+	<li style="" class="parent"><a href="#" class="cant-click-this">FAQs</a>
+		<div class="megapanel">
+			<div class="fitcontent">
+
+				<p class="nav-subheading">Frequently Asked <strong>Questions!</strong></p>
+
+				<div class="nav-megapanel-colum">
+					<ul class="itemgroup listgroup">
+						<li class="itemgroup-heading">DSL FAQs</li>
+						<li><a href="https://www.afrihost.com/site/faq/adsl">DSL FAQs</a></li>
+						<li><a href="https://www.afrihost.com/site/faq/uncapped_adsl">Uncapped DSL FAQs</a></li>
+						<li><a href="http://www.afrihost.com/site/page/uncapped_adsl_leader_board">How much data can I use on Uncapped?</a></li>
+						<li><a href="http://www.afrihost.com/site/page/internet_configuration_settings">Internet Configuration Settings</a></li>
+					</ul>
+
+				</div><!--/nav-megapanel-colum-->
+
+				<div class="nav-megapanel-colum">
+					<ul class="itemgroup listgroup">
+						<li class="itemgroup-heading">Mobile FAQs</li>
+						<li><a href="https://www.afrihost.com/site/faq/mobile" class="nav-new-alt">Mobile FAQs</a></li>
+						<li><a href="https://www.afrihost.com/site/faq/mobile_data_faq">Mobile Data FAQs</a></li>
+						<li><a href="https://www.afrihost.com/site/faq/apn_access">Mobile Data Access Point FAQs</a></li>
+						<li><a href="http://www.afrihost.com/landing/mobile_data_apn_setup/">Mobile Data APN Settings</a></li>
+						<li><a href="http://www.afrihost.com/resources/network_coverage_map/">Mobile Network Coverage Map</a></li>
+						<li><a href="http://www.afrihost.com/go/mobile_porting/" class="nav-new-alt">Mobile Porting Instructions</a></li>
+					</ul>
+
+				</div><!--/nav-megapanel-colum-->
+
+				<div class="nav-megapanel-colum related-content-colum">
+					<ul class="itemgroup listgroup">
+						<li class="itemgroup-heading">Domain &amp; Hosting</li>
+						<li><a href="https://www.afrihost.com/site/faq/domain">Domain FAQs</a></li>
+						<li><a href="https://www.afrihost.com/site/faq/web_hosting">Web Hosting FAQs</a></li>
+						<li><a href="http://www.afrihost.com/site/page/email_configuration_settings">Email Configuration Settings</a></li>
+					</ul>
+					<ul class="itemgroup listgroup">
+						<li class="itemgroup-heading">Referals</li>
+						<li><a href="https://www.afrihost.com/site/faq/refer_a_friend">Refer a Friend</a></li>
+					</ul>
+				</div><!--/nav-megapanel-colum-->
+
+				<div class="nav-megapanel-colum promotional-colum">
+					<p class="promo-heading"><strong>Online</strong> Music Streaming</p>
+					<a href="https://www.afrihost.com/landing/simfy/" class="promo-link">
+						<span class="promo-img"><img src="https://cdn.afrihost.com/images/promotions_nav/nav_simfy_promo.jpg" alt="<strong>Online</strong> Music Streaming"></span>
+						<p class="promo-desc">Simfy Africa has more than 32 million songs for you to choose from. Listen on your smartphone, tablet, computer or connected device for only R60pm</p>
+						<p class="promo-farce-link">Find out more</p>
+					</a>
+				</div><!--/nav-megapanel-colum-->
+
+			</div><!--/fitcontent-->
+			<div class="clear"><!-- So Background Gradient/Colour scales to height--></div>
+		</div><!--/megapanel-->
+	</li><!--/ End Top Level Nav Item -->
+
+	<li style="" class="parent"><a href="#" class="cant-click-this">Afrihost</a>
+		<div class="megapanel">
+			<div class="fitcontent">
+
+				<p class="nav-subheading">Who We <strong>Are!</strong></p>
+
+				<div class="nav-megapanel-colum">
+					<ul class="itemgroup listgroup">
+						<li class="itemgroup-heading">About us</li>
+						<li><a href="https://www.afrihost.com/site/page/the_afrihost_story">The Afrihost Story</a></li>
+						<li><a href="https://www.afrihost.com/site/page/why_choose_afrihost">Why Choose Us</a></li>
+						<li><a href="http://www.afrihost.com/microsites/adsl_network/">Our DSL Network</a></li>
+						<li><a href="https://www.afrihost.com/site/page/60_day_complete_satisfaction_guarantee">Our Guarantee</a></li>
+						<li><a href="https://www.afrihost.com/site/page/refer_a_friend">Free Afrihost Services</a></li>
+						<li><a href="https://www.afrihost.com/site/meet_the_team">Meet The Team</a></li>
+						<li><a href="https://www.afrihost.com/site/page/afrihost_partners">Afrihost Partners</a></li>
+						<li><a href="https://www.afrihost.com/site/testimonials">Testimonials</a></li>
+						<li><a href="https://www.afrihost.com/site/page/paia_manual">PAIA</a></li>
+					</ul>
+
+				</div><!--/nav-megapanel-colum-->
+
+				<div class="nav-megapanel-colum">
+					<ul class="itemgroup listgroup">
+						<li class="itemgroup-heading">Contact us</li>
+						<li><a href="https://www.afrihost.com/site/page/contact_details">Contact Details</a></li>
+						<li><a href="https://www.afrihost.com/site/page/contact_details#map-outer-wrap">Map &amp; Directions</a></li>
+						<li><a href="https://www.afrihost.com/site/page/contact_details">Support</a></li>
+						<li><a href="https://www.afrihost.com/site/page/sponsorships">Sponsorships</a></li>
+						<li><a href="https://www.afrihost.com/site/jobs">Careers</a></li>
+					</ul>
+
+					<ul class="itemgroup listgroup">
+						<li class="itemgroup-heading">Competitions</li>
+						<li><a href="https://www.afrihost.com/site/promotions">Current Competitions</a></li>
+						<li><a href="https://www.afrihost.com/site/promotions/winners">Competition Winners</a></li>
+					</ul>
+				</div><!--/nav-megapanel-colum-->
+
+				<div class="nav-megapanel-colum">
+					<ul class="itemgroup listgroup">
+						<li class="itemgroup-heading">News &amp; Updates</li>
+						<li><a href="https://www.afrihost.com/site/newsroom">Media Lounge</a></li>
+					</ul>
+					<ul class="itemgroup listgroup">
+						<li class="itemgroup-heading">Apps</li>
+						<li><a href="http://www.afrihost.com/clientzone">ClientZone</a></li>
+						<li><a href="https://www.afrihost.com/site/page/myconnectivity_app">Mobile App</a></li>
+						<!--                     		<li><a href="https://www.afrihost.com/site/page/mybandwidth_widget">Desktop Widget</a></li>  -->
+						<li><a href="https://www.afrihost.com/site/page/afrihost_network_test">Network Test App</a></li>
+					</ul>
+				</div><!--/nav-megapanel-colum-->
+
+				<div class="nav-megapanel-colum promotional-colum">
+					<p class="promo-heading"><strong>Online</strong> Music Streaming</p>
+					<a href="https://www.afrihost.com/landing/simfy/" class="promo-link">
+						<span class="promo-img"><img src="https://cdn.afrihost.com/images/promotions_nav/nav_simfy_promo.jpg" alt="<strong>Online</strong> Music Streaming"></span>
+						<p class="promo-desc">Simfy Africa has more than 32 million songs for you to choose from. Listen on your smartphone, tablet, computer or connected device for only R60pm</p>
+						<p class="promo-farce-link">More Details</p>
+					</a>
+				</div><!--/nav-megapanel-colum-->
+
+			</div><!--/fitcontent-->
+			<div class="clear"><!-- So Background Gradient/Colour scales to height--></div>
+		</div><!--/megapanel-->
+	</li><!--/ End Top Level Nav Item -->
+
+</ul>
+
+<div class="clear"></div>
+</div><!--/header-inner-->
+<!--<div id="loaderbar"><div class="inner"></div></div>-->
 </div><!--/header-->
 
 <div class="page-wrap-outer plain-white-bg">
@@ -876,7 +918,7 @@
 
 <div id="footer-legal">
   <div class="fl-inner">
-    <p>Copyright © 2015 Afrihost. <a href="https://www.afrihost.com/site/page/terms_and_conditions">Terms and Conditions</a> | <a href="https://www.afrihost.com/site/page/privacy_policy">Privacy Policy</a> | <a href="https://www.afrihost.com/site/page/acceptable_use_policy">Acceptable Use Policy</a> | <a href="https://www.afrihost.com/site/page/60_day_complete_satisfaction_guarantee">60-day Complete Satisfaction Guarantee</a></p>
+    <p>Copyright © 2016 Afrihost. <a href="https://www.afrihost.com/site/page/terms_and_conditions">Terms and Conditions</a> | <a href="https://www.afrihost.com/site/page/privacy_policy">Privacy Policy</a> | <a href="https://www.afrihost.com/site/page/acceptable_use_policy">Acceptable Use Policy</a> | <a href="https://www.afrihost.com/site/page/60_day_complete_satisfaction_guarantee">60-day Complete Satisfaction Guarantee</a></p>
    	<div class="fl-icons">
       <a href="http://www.icode.org.za/?src=afrihost"><img src="//cdn.afrihost.com/images/icons/footer_legal_icon_icode.png" width="87" height="37" alt="iCode"></a>
       <a href="http://www.ispa.org.za/code-of-conduct?src=afrihost"><img src="//cdn.afrihost.com/images/icons/footer_legal_icon_ispa.png" width="52" height="37" alt="ISPA"></a>
@@ -884,6 +926,8 @@
   <div class="clear"></div>  
   </div><!--/fl-inner-->
 </div><!--/footer-legal-->
+    
+    
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
