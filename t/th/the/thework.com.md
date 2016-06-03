@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thework.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315031346id_/http%3A//thework.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thework.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603083050id_/http%3A//thework.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Legal Statement | The Work
-
-## Privacy and Legal Statement
 
 Any information you give to Byron Katie International Inc. and all information collected at this site will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed.
 
@@ -23,21 +21,3 @@ We maintain several email lists to keep interested parties informed about Byron 
 You can request to no longer receive email from us. To opt out of our email list, reply to one of our emails and request to be removed or send an email to [webmaster@thework.com](mailto:webmaster@thework.com)
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please contact us.
-
-## Terms of Use
-
-This site and all content in this site may not be copied, reproduced, republished, uploaded, posted, transmitted, distributed, or used for the creation of derivative works without prior written consent from Byron Katie International (BKI), except that BKI grants you non-exclusive, non-transferable, limited permission to access and display the web pages within this site, solely on your computer and for your personal, non-commercial use of this website. This permission is conditioned on your not modifying the content displayed on this site; your keeping intact all copyright, trademark, and other proprietary notices; and your acceptance of any terms, conditions, and notices accompanying the content or otherwise set forth in this site. Notwithstanding the foregoing, any content, text, audio, images, and other materials that are made available for downloading, access, or other use from this site with their own license terms, conditions, and notices will be governed by such terms, conditions, and notices.
-
-##### The School for The Work and Certification Program
-
-There is only one authorized School for The Work, and it is presented by Byron Katie, who invites you to this powerful opportunity to discover that freedom is possible in every moment. The following sites are authorized websites for The Work:
-
-  * thework.com
-  * byronkatie.com
-  * instituteforthework.com
-  * livewithbyronkatie.com
-  * storeforthework.com
-
-
-
-Any other website that presents a school for The Work or a certification program for The Work is illegitimate. There are many people on the Internet today advertising workshops, courses, or trainings in The Work. Please don’t be fooled if you should stumble onto unauthorized certification programs for The Work. Facilitators/trainers who are certified and therefore authorized through Byron Katie International will always have a Certified Facilitator for The Work logo on their website, assuring you that what they offer is legitimate. For your convenience and for official verification, we proudly list these websites and profiles and their contact information on [our facilitators page](https://web.archive.org/certified_facilitators).
