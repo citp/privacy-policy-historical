@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ding.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325074020id_/https%3A//www.ding.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ding.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603141755id_/https%3A//www.ding.com/privacy-statement) for the most accurate reproduction.*
 
-# ding Privacy and Cookies Statement – ding.com
+# Ding Privacy and Cookies Statement – ding.com
 
 ## Privacy and Cookies Statement
 
@@ -8,7 +8,7 @@
 
 ### About us
 
-[www.ezetop.com](http://www.ezetop.com/), [www.ding.com](http://www.ding.com/) and associated ezetop and ding* mobile applications (each the “ **Website** ”) are operated by, and the Top-Up and Cheap Calls services (“ **Services** ”) are provided by, ezetop (“ **ezetop** ”, “ **we** ” or “ **us** ”). We are registered in Ireland with registered number 422514 and we have our registered office at Brooklawn House, Shelbourne Road, Dublin 4, Ireland. Our VAT number is 9576713i. Ding is a registered business name of ezetop.
+[www.ezetop.com](http://www.ezetop.com/), [www.ding.com](http://www.ding.com/) and associated ezetop and Ding mobile applications (each the “ **Website** ”) are operated by, and the Top-up and Cheap Calls services (“ **Services** ”) are provided by, ezetop (“ **ezetop** ”, “ **we** ” or “ **us** ”). We are registered in Ireland with registered number 422514 and we have our registered office at Brooklawn House, Shelbourne Road, Dublin 4, Ireland. Our VAT number is 9576713i. Ding is a registered business name of ezetop.
 
 ezetop Online Services LLC is a wholly owned subsidiary of _ezetop_. All correspondence in relation to any _ezetop_ company should be sent to Brooklawn House, Shelbourne Road, Dublin 4, Ireland. 
 
@@ -47,14 +47,14 @@ There are two types of data that we collect:
     * Other information you provide by filling in forms on the Website. This includes information you provide at the time of registering on the Website;
     * We may also ask for information if you report a problem with the Website;
     * If you contact us we may keep a record of that correspondence;
-    * Details of the Top-Up transactions you carry out on, and your visits to, the Website;
+    * Details of the Top-up transactions you carry out on, and your visits to, the Website;
     * Details of the Cheap Calls Credit you purchase through, and your visits to the Website.
 
 
 
 ####  
 
-We also collect and process the receive mobile telephone number that you provide to us. This is necessary to facilitate the sending of Top-Up to that number.
+We also collect and process the receive mobile telephone number that you provide to us. This is necessary to facilitate the sending of Top-up to that number.
 
  **"Non-Personal Data”** \- Like most other websites, ezetop gathers statistical and analytical information. This is what we call Non-Personal Data. Unlike Personal Data, this information cannot be used to identify or contact you. Examples of Non-Personal Data include browser types and other anonymous statistical data involving the use of the Website.
 
@@ -74,9 +74,9 @@ At ezetop we are always looking to improve the Website and Services and help our
 
 We may use this Personal Data for the following:
 
-  * To help you send the Top-Up that you have requested and to process any payment connected with that Top-Up request;
+  * To help you send the Top-up that you have requested and to process any payment connected with that Top-up request;
   * To provide you with Cheap Calls Credit and to process any payment connected with that request;
-  * To contact you if it's required in relation to the Top-Up that you have sent, Cheap Calls Credit you have purchased or to reply to any communications that you might have sent us;
+  * To contact you if it's required in relation to the Top-up that you have sent, Cheap Calls Credit you have purchased or to reply to any communications that you might have sent us;
   * To provide you with information on products or services that might interest you;
   * To notify you about any changes to the Website or Services;
   * To ensure that content on the Website is presented in the most effective manner for you and your computer;
@@ -126,7 +126,7 @@ These allow us to recognize and count the number of visitors to the websites. Th
 
 ### What Type of Cookies Do the Mobile Applications Use?
 
- _The ezetop and ding* mobile applications do not use cookies. The apps do retrieve an advertising number from your device which is stored securely in the app itself - t_ _his number is used to identify how a user initially found the app (e.g. through which advertising campaign) and for app analysis purposes via third party analytics services._
+ _The ezetop and Ding mobile applications do not use cookies. The apps do retrieve an advertising number from your device which is stored securely in the app itself - t_ _his number is used to identify how a user initially found the app (e.g. through which advertising campaign) and for app analysis purposes via third party analytics services._
 
 ####  
 
@@ -148,11 +148,11 @@ Yes you can if that is what you choose to do. Note that this may make it less co
 
 ### Does _ezetop_ give Personal Data to third parties?
 
-We will never disclose your Personal Data to any third party unless you have agreed to this or unless the third party is required to process the Personal Data in connection with Top-Up or Cheap Calls service you have requested.
+We will never disclose your Personal Data to any third party unless you have agreed to this or unless the third party is required to process the Personal Data in connection with Top-up or Cheap Calls service you have requested.
 
 Your credit or debit card details are processed by a world leading provider of online payments processing which stores the card details if you request so that you do not need to enter them each time you visit the Website.
 
-When you use the _ezetop_ Top-Up service, we disclose the receive mobile telephone number to the relevant mobile operator (which may be located in a country outside of the EEA) in order to facilitate the sending of Top-Up to that number.
+When you use the _ezetop_ Top-up service, we disclose the receive mobile telephone number to the relevant mobile operator (which may be located in a country outside of the EEA) in order to facilitate the sending of Top-up to that number.
 
 When you use the _ezetop_ Cheap Calls service, your Personal Data is disclosed to ezetop’s platform service provider (located in the U.S.) in order to facilitate your international long distance call. The following information is processed by the platform service provider:
 
@@ -252,7 +252,52 @@ Any changes to _ezetop_ 's Privacy and Cookies Statement will be posted clearly 
 
 If you have any questions about your Personal Data, this Privacy and Cookies Statement or any complaints then please email us at [customercare@ding.com](mailto:customercare@Ding.com) or else you can call +353 1 630 6300 and ask to speak to someone in customer care.
 
-© _ezetop_ 2014
+© _ezetop_ 2015
 
-Sorry we couldn’t detect the operator.  
-Please select from list provided
+Enter your Ding/ezetop password to confirm you own this account and connect it to facebook 
+
+Enter your Ding/ezetop password to confirm you own this account and connect it to google 
+
+  
+
+
+##### To activate...
+
+Please click the link in the email we sent you.
+
+ _Can't find email?_
+
+  * check your junk folder
+  * send an email to [activate@ding.com](mailto:activate@ding.com) from the email address you used to sign up
+
+
+
+  
+
+
+##### 
+
+Please click the link in the email we sent you.
+
+ _Can't find email?_
+
+  * check your junk folder
+  * send an email to [activate@ding.com](mailto:activate@ding.com) from the email address you used to sign up
+
+
+
+### Email permission required
+
+To connect your facebook with Ding please enable email permission.
+
+Do you want to do this now?
+
+### Primary email in Facebook profile required
+
+To use ding with Facebook please set a primary email address in your Facebook profile and try again.
+
+### Primary email in Google profile required
+
+To use ding with Google please set a primary email address in your Google profile and try again.
+
+### Complete Sign Up
