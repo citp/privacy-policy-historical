@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usask.ca privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810162906id_/http%3A//www.usask.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usask.ca privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603172406id_/http%3A//www.usask.ca/privacy.php) for the most accurate reproduction.*
 
 # Privacy - University of Saskatchewan
 
