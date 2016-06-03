@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gomedia.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202193324id_/http%3A//gomedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomedia.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603024454id_/http%3A//gomedia.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Go Media™ · Creativity at Work
+# Privacy - Go Media™ · Creativity at work!
 
 Protecting your private information is a steadfast & ongoing priority at Go Media Inc. This Statement of Privacy applies to the gomedia.com and Go Media Inc. and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Go Media Inc. include gomedia.com, My Go Media and my.gomedia.us and The Go Media Arsenal, arsenal.gomedia.us. Go Media websites provide hosted solutions, professional services & digital resources. By using a Go Media website, you consent to the data practices described in this statement.
 
