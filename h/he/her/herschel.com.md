@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herschel.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121000716id_/http%3A//www.herschelsupply.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herschel.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603054927id_/http%3A//www.herschelsupply.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Herschel Supply Co.
 
@@ -93,7 +93,7 @@ Herschel Supply Co. recognizes the privacy interests of children and Herschel Su
 
 ##### Choice and Opt-Out Preferences
 
-Herschel Supply Co. does not collect your personal information unless you choose to provide it. If, at any time, you prefer not to receive further email communications from Herschel Supply Co. (except in connection with information, products or services that you specifically request), you will have the ability to unsubscribe from such communications by means of a link provided in every broadcast e-mail that is sent to you by Herschel Supply Co. If, at any time, you prefer not to receive any other form of communication from Herschel Supply Co., you will have the ability to unsubscribe from such communications by contacting: [web@herschelsupply.com](mailto:web@herschelsupply.com).
+Herschel Supply Co. does not collect your personal information unless you choose to provide it. If, at any time, you prefer not to receive further email communications from Herschel Supply Co. (except in connection with information, products or services that you specifically request), you will have the ability to unsubscribe from such communications by means of a link provided in every broadcast e-mail that is sent to you by Herschel Supply Co. If, at any time, you prefer not to receive any other form of communication from Herschel Supply Co., you will have the ability to unsubscribe from such communications by contacting: [email@herschelsupply.com](mailto:email@herschelsupply.com).
 
 ##### Access and Correction
 
