@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexyjobs.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324074250id_/https%3A//www.sexyjobs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexyjobs.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603200429id_/https%3A//www.sexyjobs.com/privacy) for the most accurate reproduction.*
 
 # SexyJobs.com Privacy Statement
 
