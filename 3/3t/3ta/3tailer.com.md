@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3tailer.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008045859id_/http%3A//www.3tailer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3tailer.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603210255id_/http%3A//www.3tailer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at 3tailer.com
 
