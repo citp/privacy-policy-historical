@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the countdown.co.nz privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207020457id_/http%3A//www.countdown.co.nz/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countdown.co.nz privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603032632id_/http%3A//www.countdown.co.nz/about-us/our-policies/privacy-statement) for the most accurate reproduction.*
 
-# Countdown - About Us - Our policies - Privacy
+# Our privacy statement
 
 **1\. Respecting your privacy**
 
@@ -52,7 +52,7 @@ Collection of personal information: When we collect personal information about y
 
 We may also collect personal information about you by accessing data from other sources and then analysing that data together with the information we already hold about you in order to learn more about your likely preferences and interests.
 
-When you visit our websites, social media pages or mobile applications or click on our advertisements on the online media of other companies, we may collect information about you using technology which is not apparent to you, for example “cookies”. For information about our use of this technology, click on this link to view our [Cookie Statement](https://web.archive.org/about-us/our-policies/cookie-statement "Cookie Statement").
+When you visit our websites, social media pages or mobile applications or click on our advertisements on the online media of other companies, we may collect information about you using technology which is not apparent to you, for example “cookies”. For information about our use of this technology, click on this link to view our [Cookie Statement](https://web.archive.org/about-us/our-policies/cookie-statement "Cookie Statement").
 
 Most of the personal information we collect and hold about you is from your direct dealings with us. We may sometimes collect your personal information other than from you directly. For example from other suppliers who, in common with us, have a relationship with you.
 
@@ -77,7 +77,7 @@ We may de-identify your personal information. We may do this for use and disclos
 
 **5\. How can you enquire about, access and correct your personal information?**
 
-_Access_ : We will provide you with access to any of your personal information we hold (except in limited circumstances recognised by law). If you wish to access your personal information or have an enquiry about privacy, please contact us at: www.countdown.co.nz or by calling us on 0800 40 40 40. Alternatively, you can write to us at:
+_Access_ : We will provide you with access to any of your personal information we hold (except in limited circumstances recognised by law). If you wish to access your personal information or have an enquiry about privacy, please contact us at: www.countdown.co.nz, calling us on 0800 40 40 40, or by emailing us at privacyofficer@countdown.co.nz. Alternatively, you can write to us at:
 
 Privacy Officer  
 Progressive Enterprises Limited  
@@ -121,6 +121,6 @@ We have separate charters concerning our employees – this policy does not appl
 
 **10\. More information**
 
-More information about privacy law and privacy principles is available from the Privacy Commissioner. The Privacy Commissioner may be contacted at [www.privacy.org.nz](https://privacy.org.nz/ "Privacy Commissioner")
+More information about privacy law and privacy principles is available from the Privacy Commissioner. The Privacy Commissioner may be contacted at [www.privacy.org.nz](https://privacy.org.nz/ "Privacy Commissioner")
 
 Last update of this policy: October 2014
