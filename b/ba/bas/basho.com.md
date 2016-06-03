@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the basho.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905064253id_/http%3A//basho.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basho.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603224615id_/http%3A//basho.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Basho
+# Privacy Policy – Basho
 
 Welcome to the Basho Technologies (“Basho”) web site ([www.basho.com](http://www.basho.com/)) (“Basho Website”).  Basho values the privacy of visitors to the Basho Website (collectively or individually, “you” or “Users”).  This Privacy Policy explains how Basho collects and uses information gathered through the Basho Website.
 
