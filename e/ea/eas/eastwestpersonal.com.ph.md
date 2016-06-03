@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eastwestpersonal.com.ph privacy policy that was archived on 2015-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150819044829id_/https%3A//www.eastwestbanker.com/info/ew_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastwestpersonal.com.ph privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603233008id_/https%3A//www.eastwestbanker.com/info/ew_privacy.asp) for the most accurate reproduction.*
 
 # EastWest Bank | Privacy Statement - [EastWestBanker.com]
 
