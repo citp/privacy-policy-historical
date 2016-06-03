@@ -1,20 +1,16 @@
-> *The following text is extracted and transformed from the instem.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423142036id_/http%3A//www.instem.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instem.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603084018id_/http%3A//www.instem.com/legal/privacy.php) for the most accurate reproduction.*
 
-# Instem Privacy Policy
+# Instem - Privacy Policy
 
 ## Instem plc Privacy Policy
 
-  * **About this Privacy Policy**
-
-
+### About this Privacy Policy
 
 Instem plc and its group companies are committed to protecting your privacy.  This policy, together with the terms and conditions of use and our statement on cookies, set out the basis on which any personal data which we collect from you, through our website, will be used by us.
 
 Please read this privacy policy carefully.  By using this website, you agree to the way in which your personal information will be used as set out in this policy.   
 
-  * **Information we may collect from you**
-
-
+### Information we may collect from you
 
 When you use our website, we collect and process personal information about you.   
 
@@ -30,9 +26,7 @@ We may also hold information about interest which you have shown in any of our p
 
 We may collect information about your computer, including if available, your IP address, operating system and browser type for system administration purposes.  We may also collect information about visits to our website including for example, traffic data, location data and other communications data. 
 
-  * **How we use your information**
-
-
+### How we use your information
 
 Your personal data will be held on our records and used for the proper administration of our business, including by way of example, to deal with and process your enquiries and to provide you with any further information which you may have requested. 
 
@@ -50,15 +44,11 @@ We may disclose your personal data where we are under a legal obligation to do s
 
 If at any time you need to give information to us about another person, for example, a work colleague, then you should ensure that that person has given their consent to providing relevant details to us and you should bring this policy to their attention.  
 
-  * **Cookies**
+### Cookies
 
+We use technologies called cookies to gather information about your computer use.  A cookie is a piece of text placed on your browser or hard drive. Further information about how we use cookies can be found in our [cookies statement](https://web.archive.org/web/20160603084018id_/http%3A//www.instem.com/legal/cookies.php).
 
-
-We use technologies called cookies to gather information about your computer use.  A cookie is a piece of text placed on your browser or hard drive.   Further information about how we use cookies can be found in our cookies statement which you can access by clicking [here](https://web.archive.org/web/20150423142036id_/http%3A//www.instem.com/cookies.html).
-
-  * **Your rights**
-
-
+### Your rights
 
 You have the right to ensure that any information which we hold about you is accurate and up to date.  If you believe that the information that we may hold on you is incorrect or is no longer up to date, then please tell us. Our contact details are set out below.
 
@@ -73,20 +63,17 @@ Staffordshire
 ST15 0SD  
 Email: [info@instem.com](mailto:info@instem.com)
 
-  * **Other websites**
-
-
+### Other websites
 
 Where we provide links on our website to third party sites, please note that those sites will be directly responsible for the information which you may provide to them.  If you do use other websites, the operators of those sites may collect information from you which might be used in a different way to how Instem plc and its group of companies uses information and therefore privacy policies on other websites may differ from this policy.
 
-  * **Changes to our privacy policy**
-
-
+### Changes to our privacy policy
 
 From time to time, we may make changes to this privacy policy in which case, a revised policy will be posted on our website.
 
-  * **Contact**
-
-
+### Contact
 
 For the purposes of the Data Protection Act 1998, Instem Plc together with its subsidiary companies as appropriate, act as data controller. 
+
+  
+
