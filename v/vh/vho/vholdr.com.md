@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vholdr.com privacy policy that was archived on 2015-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150720214919id_/http%3A//www.vholdr.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vholdr.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603222817id_/http%3A//www.vholdr.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy – Motorcycle Extreme
+# Privacy Policy - Motorcycle Extreme
 
 This privacy policy sets out how the Motorcycle Extreme website uses and protects any personal information that you submit when you contact us.
 
