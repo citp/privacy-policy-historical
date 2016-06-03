@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the philzendia.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126161010id_/http%3A//www.philzendia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philzendia.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604002037id_/http%3A//www.philzendia.com/policies-contact-info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - philZENdia
 
 The privacy of our visitors to our site is important to us. We recognize that privacy of your personal information is important. Here is our privacy policy statement on what types of personal information we receive and collect when you visit our site, and how we safeguard your information. We never sell your personal information to third parties.
 
