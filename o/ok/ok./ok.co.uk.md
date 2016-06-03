@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ok.co.uk privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231233835id_/http%3A//www.ok.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ok.co.uk privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603042254id_/http%3A//www.ok.co.uk/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | OK! Magazine
+# About
 
 The Northern & Shell network of companies (including Northern & Shell plc and Express Newspapers) comprises a number of publications including the Daily Express, Daily Star, Daily Star Sunday, Sunday Express, new!, Star and OK! This is the privacy policy for Northern & Shell publications and for certain services provided through our websites and mobile applications (“our sites”) by Northern & Shell (“N&S”).
 
@@ -16,25 +16,20 @@ At N&S we collect different types of information about our users for three main 
 
 In summary we might use your information to:
 
-• Remember when you visit our websites and track your browsing patterns by using cookies (please see our cookies policy);  
+• Remember when you visit our websites and track your browsing patterns by using cookies (please see our cookies policy);
 
+• Place your anonymised information into audience segments to identify your interests so that we might serve you with advertisements and offers that will interest you;
 
-• Place your anonymised information into audience segments to identify your interests so that we might serve you with advertisements and offers that will interest you;  
+• Ensure any products or services you receive are correctly administered (including subscriptions);
 
+• Communicate with you by email, post, telephone, sms text message, social media or mobile push message to let you know about any of our products, services or promotions (which, in some cases may be provided by third parties) but only according to the permissions you give us;
 
-• Ensure any products or services you receive are correctly administered (including subscriptions);  
+• Ensure materials on our sites and applications are presented in the most effective manner for you and your computer or mobile device;
 
+• Collate and log numeric internet addresses to improve our sites and to monitor site usage. This allows us to assess and understand customer feedback and identify usage hotspots;
 
-• Communicate with you by email, post, telephone, sms text message, social media or mobile push message to let you know about any of our products, services or promotions (which, in some cases may be provided by third parties) but only according to the permissions you give us;  
-
-
-• Ensure materials on our sites and applications are presented in the most effective manner for you and your computer or mobile device;  
-
-
-• Collate and log numeric internet addresses to improve our sites and to monitor site usage. This allows us to assess and understand customer feedback and identify usage hotspots;  
-
-
-• If you have subscribed to any of our services, we will use the information you provide to keep you updated on those services unless you have told us otherwise.
+• If you have subscribed to any of our services, we will use the information you provide to keep you updated on those services unless you have told us otherwise.  
+ 
 
 ### OUR VALUES
 
@@ -46,7 +41,7 @@ We will be clear in our dealings with you as to what information we will collect
 
 Our sites are accessible via the internet. This means that people around the world who access our sites will be able to see anything you post on the sites, for example, comments about an article. We require all those who post comments upon our sites to abide by the spirit and letter of our house rules. If, for example, you were to write a defamatory comment on one of our articles we may be required by a court to disclose your personal data.
 
-You have the right to ask us not to use your personal data for marketing purposes. You can request that you stop receiving information from us at any time by writing to us at Electronic Customer Relationship Management Department (ECRM), Northern & Shell, 10 Lower Thames Street, London, EC3R 6EN or emailing us at [crm@express.co.uk](mailto:crm@express.co.uk).
+You have the right to ask us not to use your personal data for marketing purposes. You can request that you stop receiving information from us at any time by writing to us at Electronic Customer Relationship Management Department (ECRM), Northern & Shell, 10 Lower Thames Street, London, EC3R 6EN or emailing us at [crm@express.co.uk](mailto:crm@express.co.uk).
 
 We invest in high-quality security and do our utmost to protect user privacy. The password you provide when registering with our sites is encrypted to ensure protection against unauthorised access to your personal information. However it is worth remembering that no data transmission over the Internet can be entirely secure and therefore we cannot guarantee the security of your personal information and/or use of our site. Any information that you send is at your own risk and may be read by others. However once we have received your personal information we use strict procedures to protect the security of your personal information.
 
@@ -94,15 +89,15 @@ Those other organisations may use information about your visit to our sites on t
 
 ## 8) Why we share your information
 
-N&S may share your personal information with third parties in the following circumstances: 
+N&S may share your personal information with third parties in the following circumstances:
 
-• For marketing purposes provided always that you consent to us sharing such information with third parties by notifying us via our sites or in other communications (e.g. opting in by ticking the relevant box(s) on the sites at the point of registration); 
+• For marketing purposes provided always that you consent to us sharing such information with third parties by notifying us via our sites or in other communications (e.g. opting in by ticking the relevant box(s) on the sites at the point of registration);
 
-• To other members of our group, our partners and service providers (for example people who provide technical services to our sites) for the purpose of managing or administering certain aspects of our sites, or to help us develop new services; 
+• To other members of our group, our partners and service providers (for example people who provide technical services to our sites) for the purpose of managing or administering certain aspects of our sites, or to help us develop new services;
 
-• If we are under a duty to disclose or share your personal information in order to comply with any legal obligation and/or in order to enforce or apply any other agreements between you and N&S; or 
+• If we are under a duty to disclose or share your personal information in order to comply with any legal obligation and/or in order to enforce or apply any other agreements between you and N&S; or
 
-• To protect the rights, property or safety of ourselves or other users. 
+• To protect the rights, property or safety of ourselves or other users.
 
 ## 9) Advertising
 
@@ -128,18 +123,18 @@ The transmission of information via the internet is not completely secure. Altho
 
 ### Legal information and how to contact us
 
-Under the UK Data Protection Act 1998 we have to say who the 'data controller' is for N&S services provided through our sites. The data controller is the department responsible for protecting information and, in our case, is the Electronic Customer Relationship Management Department (ECRM), Northern & Shell, 10 Lower Thames Street, London, EC3R 6EN or emailing us at [crm@express.co.uk](mailto:crm@express.co.uk).
+Under the UK Data Protection Act 1998 we have to say who the 'data controller' is for N&S services provided through our sites. The data controller is the department responsible for protecting information and, in our case, is the Electronic Customer Relationship Management Department (ECRM), Northern & Shell, 10 Lower Thames Street, London, EC3R 6EN or emailing us at[crm@express.co.uk](mailto:crm@express.co.uk).
 
 There will be an administrative charge of £10 for providing a copy of this information. You can also request us to correct any factual inaccuracies in information we hold or delete any of that information from our records.
 
-If you would like a copy of the personal information we hold about you or have any questions about how we may use it, please address your request to the ‘Data Protection Manager’ at the address shown above or, email [crm@express.co.uk](mailto:crm@express.co.uk).
+If you would like a copy of the personal information we hold about you or have any questions about how we may use it, please address your request to the ‘Data Protection Manager’ at the address shown above or, email [crm@express.co.uk](mailto:crm@express.co.uk).
 
 For all general enquiries regarding the Daily Express, Daily Star, Daily Star Sunday, Sunday Express, New!, Star and OK! websites please contact us using the details below.
 
-Email: [web.help@express.co.uk](mailto:web.help@express.co.uk)
+Email: [web.help@express.co.uk](mailto:web.help@express.co.uk)
 
 Phone General Enquiries: 020 8612 7000  
-Electronic Customer Relationship Management Department   
+Electronic Customer Relationship Management Department   
 Northern & Shell  
 The Northern & Shell Building,  
 10 Lower Thames Street,  
