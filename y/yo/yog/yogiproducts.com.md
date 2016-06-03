@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yogiproducts.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913053641id_/https%3A//www.yogiproducts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yogiproducts.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603165343id_/https%3A//www.yogiproducts.com/privacy-policy) for the most accurate reproduction.*
 
-# Yogi Products Privacy Policy | Yogi Tea
+# Privacy Policy | Yogi Tea
 
 #### **What information does Yogi collect and how does Yogi use it?**
 
