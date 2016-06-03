@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoomtemplate.com privacy policy that was archived on 2015-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151129145313id_/http%3A//www.zoomtemplate.com/2007/08/privacy-policy-for-zoomtemplatecom.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoomtemplate.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603045207id_/http%3A//www.zoomtemplate.com/2007/08/privacy-policy-for-zoomtemplatecom.html) for the most accurate reproduction.*
 
 # Privacy Policy Blogger Template - ZoomTemplate
 
