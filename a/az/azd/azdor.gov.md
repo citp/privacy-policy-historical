@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azdor.gov privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911041751id_/http%3A//azdor.gov/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azdor.gov privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603060230id_/http%3A//www.azdor.gov/privacy.aspx) for the most accurate reproduction.*
 
 # Arizona Department of Revenue
 
@@ -44,4 +44,4 @@ Arizona Department of Revenue will occasionally update this Statement of Privacy
 
 Contact Information
 
-Arizona Department of Revenue welcomes your comments regarding this Statement of Privacy. If you believe that Arizona Department of Revenue has not adhered to this Statement, please contact Arizona Department of Revenue at [hpoonamalli@azdor.gov](mailto:hpoonamalli@azdor.gov). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+Arizona Department of Revenue welcomes your comments regarding this Statement of Privacy. If you believe that Arizona Department of Revenue has not adhered to this Statement, please contact webmaster@azdor.gov . We will use commercially reasonable efforts to promptly determine and remedy the problem.
