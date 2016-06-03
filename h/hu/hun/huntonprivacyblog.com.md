@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the huntonprivacyblog.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715221333id_/https%3A//www.huntonprivacyblog.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huntonprivacyblog.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603141403id_/https%3A//www.huntonprivacyblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Notice : : Privacy and Information Security Law BlogPrivacy and Information Security Law Blog
+# Privacy Notice : : Privacy & Information Security Law Blog
 
 Effective Date: January 1, 2013
 
@@ -15,7 +15,6 @@ Click on one of the links below to jump to the listed section.
       * [News, Alerts and Publications](http://www.huntonprivacyblog.com/legal/privacy-policy/#publications)
       * [Blogs](http://www.huntonprivacyblog.com/legal/privacy-policy/#blogs)
       * [Careers](http://www.huntonprivacyblog.com/legal/privacy-policy/#careers)
-      * [Alumni](http://www.huntonprivacyblog.com/legal/privacy-policy/#alumni)
       * [Contact Us](http://www.huntonprivacyblog.com/legal/privacy-policy/#contactus)
       * [Other site features](http://www.huntonprivacyblog.com/legal/privacy-policy/#otherfeatures)
       * [Other uses of information](http://www.huntonprivacyblog.com/legal/privacy-policy/#otherusesofinfo)
@@ -47,25 +46,6 @@ On our Sites, you may sign up to receive news, alerts and publications from Hunt
 You may be able to submit comments to Hunton & Williams LLP blogs. You may include personal information in your comment, and you also may submit your name and email address with your comment. We may use your name to identify you as a commenter. You also may subscribe to get an RSS feed or email of our blogs by submitting your email address. We use this information to send you the information you request and to communicate with you in connection with our blogs.
   * ****_Careers_  
 At HuntonCareers.com, you may submit your resume and other information to apply for a job with Hunton & Williams. We use the information you submit in connection with your job inquiry.
-  * ****Alumni  
-At HuntonAlumni.com, you may choose to submit personal information for various purposes such as: 
-    * _Sign In/Email Us_  
-To participate in the Alumni website, we ask you to sign in with your name and password, or you may email us so we can help you log in. We will use the information you provide to give you access to the website and to respond to your inquiries. We also may use the information to communicate with you, such as by sending you our firm newsletter and other firm or program announcements.
-    * _Feedback and Suggestions_  
-If you email us through the “Feedback and Suggestions” link on the Alumni home page, we may ask you for information such as your name and email address so we can respond to your questions and comments. You may choose to provide additional information as well.
-    * _Alumni Directory and Your Profile_  
-You may submit your profile and contact information, as well as a photograph, to the Alumni Directory. The Alumni Directory allows you to submit and edit your information to create an updated personal profile to share with Hunton & Williams alumni and lawyers. We will use the information to facilitate user searches of the website to find your contact and profile information. We also may use the information to communicate with you, such as by sending you our firm newsletter and other firm or program announcements.
-    * _Events_  
-You may post notices of professional events that may be of interest to Hunton & Williams alumni and lawyers. In connection with a posting, we ask you for your name and contact information. We will use this information to share your news of professional events with Hunton & Williams alumni and lawyers.  
-From a link on the Alumni site, you also may choose to register for Hunton & Williams-sponsored events, as described on the Event Registration section of this Privacy Notice.
-    * _Announcements_  
-You may post professional announcements that may be of interest to Hunton & Williams alumni and lawyers. In connection with a posting, we ask you for your name and contact information. We will use this and other information you choose to provide to share your announcement with Hunton & Williams alumni and lawyers.
-    * _Message Board_  
-You may network more actively with Hunton & Williams alumni and lawyers through postings on the Alumni site Message Board. If you choose to do so, we will ask you to provide your name. You may choose to provide other personal information as well. We will use this information to facilitate conversations on the Message Board. We also may use the information to communicate with you about your postings.
-    * _White Papers and Cool Stuff_  
-If you would like to post white papers or other publications, we will use the information you provide in connection with your submission. We will, at our discretion, review and post appropriate submissions.
-    * _Job Bank – Post a Job_  
-You can post and search job opportunities through HuntonAlumni.com. To post a job, we ask you to submit the text of the submission, along with your name and contact information. We will, at our discretion, review and post appropriate submissions. We use the information you provide for career development and employment opportunities. We make this information available to Hunton & Williams alumni and lawyers.
   * _****Contact Us_  
 If you communicate with us through the “Contact Us” link on our Sites, we may ask you for information such as your name, email address and telephone number so we can respond to your questions and comments. We also may use the information you provide to communicate with you about topics that we believe may be of interest to you.
   * ****_Other Site Features_  
@@ -104,8 +84,8 @@ We may transfer the personal information we collect through the Sites to other c
 **Your Choices**  
 If you would like to update your contact information or preferences, or have your information removed from our mailing lists, please contact us by:
 
-  * emailing us at:[info@hunton.com  
-](mailto:info@hunton.com)or
+  * [emailing us](mailto:information@hunton.com)  
+or
   * writing us at:  
 Hunton & Williams LLP  
 Riverfront Plaza, East Tower  
@@ -125,7 +105,7 @@ We may update or change this Privacy Notice from time to time and without prior 
 If you have any questions about our information practices, please contact us by:
 
   * clicking [here  
-](mailto:info@hunton.com)or
+](mailto:information@hunton.com)or
   * writing us at:  
 Hunton & Williams LLP  
 Riverfront Plaza, East Tower  
