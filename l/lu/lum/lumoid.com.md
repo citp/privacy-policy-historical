@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lumoid.com privacy policy that was archived on 2015-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151010091601id_/https%3A//lumoid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lumoid.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603160856id_/https%3A//lumoid.com/privacy-policy) for the most accurate reproduction.*
 
-# Lumoid.com | Privacy Policy
+# Privacy Policy | Lumoid.com
 
-Hello! Striking Inc. operates the website located at www.lumoid.com. This Privacy Policy describes the information that is collected via our website and how that information is used. If you have any questions about our Privacy Policy, please send us an email at [hello@lumoid.com](mailto:hello@lumoid.com). This Privacy Policy also applies to services and products offered by Striking Inc., as well as any other applications, content or features that we may offer from time to time, on our website.
+Hello! Striking Inc. operates the website located at [https://lumoid.com](https://lumoid.com/). This Privacy Policy describes the information that is collected via our website and how that information is used. If you have any questions about our Privacy Policy, please send us an email at [hello@lumoid.com](mailto:hello@lumoid.com). This Privacy Policy also applies to services and products offered by Striking Inc., as well as any other applications, content or features that we may offer from time to time, on our website.
 
 Types of information that we collect
 
@@ -24,6 +24,8 @@ Types of information that we collect
 
   * In any event, we will reserve the right to use your email address and any other personally identifiable information that you provide to us to respond to you, to make recommendations for you and to send you marketing materials for our own products and services.
 
+  * For a limited time period, starting October 1, 2015, Striking, Inc., is partnering with Sonos and Pandora to provide a trial service for various Sonos products, as well as Pandora One. During this time period, we reserve the right to collect personally identifiable information including but not limited to, email address, shipping information and phone number, for the users participating in this trial.
+
 
 
 
@@ -35,6 +37,8 @@ How the information we gather is used
 
 We will generally not disclose the personally identifiable information that we collect through your use of our website to unaffiliated third parties. We reserve the right, however, to provide such information to our employees, contractors, agents, and designees to the extent necessary to enable them to perform services on our behalf, including order fulfillment and website-related services such as web hosting, to improve website-related services and features, to perform maintenance services, and to distribute advertisements and other marketing materials on our behalf. We reserve the right to use the information to process your transactions, and to track your order history so that we may answer any recommendations or concerns, and to send you newsletters and provide information on services that we think will be of interest to you. We also reserve the right to disclose any personally identifiable information that we collect to any third party if we believe that we are required to do so for any or all of the following reasons: (i) to comply with the law; (ii) to comply with legal processes or governmental requests; (iii) to prevent, investigate, detect, or prosecute criminal offenses or attacks on the technical integrity of our website or our network; and/or (iv) to protect the rights, property, safety and security of Striking Inc. and its employees, our website visitors, and/or the public.
 
+For a limited time period, starting October 1, 2015, Striking, Inc., is partnering with Sonos and Pandora to provide a trial service for various Sonos products, as well as Pandora One. During this time period, we reserve the right to share with Sonos and Pandora, personally identifiable information including but not limited to, email address, shipping information and phone number, for the users participating in this trial, and visiting the website via <https://lumoid.com/listen/try-sonos>.
+
 Protecting your information
 
 All of the information that we collect about our customers is stored on secure servers, reachable only through secure networks. Your order is transmitted via [SSL](http://en.wikipedia.org/wiki/Transport_Layer_Security), and is stored in an encrypted format on our servers. Our physical, electronic, and procedural safeguards meet or exceed current federal standards regarding the protection of customer information. We also require contractors and outside companies who work with us to adhere to strict privacy standards through their contractual agreements with us. Unfortunately, no security system, or system of transmitting data over the Internet, can be guaranteed to be 100% secure. As a result, we use commercially reasonable efforts to protect your personally identifiable information, we cannot guarantee the security of our servers, the means by which information is transmitted between your computer and our servers, or any information provided to us or to any third party through or in connection with the website. Any information that you provide to us is done so entirely at your own risk.
@@ -42,6 +46,8 @@ All of the information that we collect about our customers is stored on secure s
 Do we disclose the information we collect to outside parties?
 
 No. We will never give your information to anyone, for any reason. There are a few exceptions. We may need to provide your information to our hosting partners, and other parties that help us in managing our business (such as our merchant gateway). These parties must be required to keep your information confidential. There may be cases where we are required by law to provide your information to law enforcement.
+
+For a limited time period, starting October 1, 2015, Striking, Inc., is partnering with Sonos and Pandora to provide a trial service for various Sonos products, as well as Pandora One. During this time period, we reserve the right to share with Sonos and Pandora, personally identifiable information including but not limited to, email address, shipping information and phone number, for the users participating in this trial, and visiting the website via <https://lumoid.com/listen/try-sonos>.
 
 Opting Out
 
