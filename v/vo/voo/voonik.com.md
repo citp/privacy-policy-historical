@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voonik.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231161346id_/http%3A//www.voonik.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voonik.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603210651id_/http%3A//www.voonik.com/privacy) for the most accurate reproduction.*
 
 # Online Fashion India - Online Fashion for Women Kurtas, Kurtis, Tops, Tunics, Sarees, Dresses, Salwars, Churidars, Leggings, Trousers, Jeans, Slippers, Sandals, Shirts, and Accessories
 
@@ -16,4 +16,4 @@ Voonik strives to ensure the security, integrity and privacy of your Personal In
 
 By accessing the Website, You have agreed to the terms set out in this Policy. This Policy should be at all times read along with the Terms of Use of the Website. 
 
-If you have questions or concerns about this Policy, please contact Voonik at support@voonik.com 
+If you have questions or concerns about this Policy, please contact Voonik at care@voonik.com 
