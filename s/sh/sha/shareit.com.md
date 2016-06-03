@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shareit.com privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112085200id_/http%3A//cs.mycommerce.com/privacy-policy/mycommerce/mcus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareit.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603065419id_/http%3A//cs.mycommerce.com/privacy-policy/mycommerce/mcus) for the most accurate reproduction.*
 
 # None
 
