@@ -1,73 +1,81 @@
-> *The following text is extracted and transformed from the payschools.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213221014id_/https%3A//www.payschools.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payschools.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603050241id_/https%3A//www.payschools.com/legal/ps_privacypolicy) for the most accurate reproduction.*
 
-# PaySchools - Online Payment Processing
+# PS_PrivacyPolicy
 
-| 
+Effective Date: April 1, 2016
 
-**  
-****Notice of Privacy Policy**  
-  
+**1\. Our Commitment to Privacy**
+
+CP-DBS, LLC (dba PaySchools) is the owner and operator of this website (“Website”).  Your privacy is important to us.  Our services provide school districts with K-12 payment solutions for food service, fees, activities, transportation, before-and-after-school programs, and many others.  Our family of companies and the products and services we offer represent total solutions:  online payment, point-of-sale, online free-reduced lunch applications, and powerful reporting for the needs of today’s (and tomorrow’s) school districts.  We are committed to protecting personally identifiable information that you or the parents of children in your district schools may provide us through our Website. We have adopted this Privacy Policy to explain what information may be collected on our Website, how we use this information, and under what circumstances we may disclose the information to third parties. We are an internet company so some of what we try to explain below is a little technical, but we have strived to explain it in a clear and understandable way.  This Privacy Policy applies to all visitors to our Website, our customers who create an account, and anyone else who accesses or uses our products and services. WHEN YOU ACCESS OUR WEBSITE, YOU AGREE TO THIS PRIVACY POLICY.  IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE, IMMEDIATELY STOP ACCESSING OUR WEBSITE.
+
+**2\. The Information We Collect**
+
+_Personally Identifiable Information._   When you register on the Website for one of our family of products, you must set up an account with us.  We collect and store personally identifiable information about you – such as your name, address, e-mail address, phone number, and data associated with your payment method (credit card or bank account information) – as part of the account set-up process.   We also collect personal financial information where required as part of our services.  We collect transaction and experience information, such as information necessary to any transactions with us, webinars or tutorials viewed, or documentation about our products and services you have downloaded, as well as information about our communications with you.  We need this information to provide the products and services that you request from our Website and to let you know of additional products and services about which you might be interested.
+
+_Non-personally identifiable information._   We automatically collect certain non-personally identifiable information when you visit our site, such as the following:
+
+  * _Log data_ : Our servers automatically record information when you use our Website, such as your IP address, the type of browser you are using and its settings, the third party website you visited immediately prior to accessing our Website, the operating system you are using, the domain name of your Internet service provider, the search terms you use on our Website, the specific Website pages you visit, and the duration of your visits.
 
 
-PaySchools knows that you care how your information is used and shared, and we appreciate your trust that we will use and share information cautiously and only in accordance with the law. This Notice of Privacy Policy describes what types of information PaySchools gathers, and states the circumstances under which PaySchools will, or will not, share such information. By visiting PaySchools, you are accepting all the practices described in this Notice of Privacy Policy. 
+  * _Cookie data_ : Like many Websites, we use “cookies” to obtain certain types of information when your web browser accesses our Website. “Cookies” are small text files that we transfer to your computer’s hard drive or your Web browser memory to enable our systems to recognize your browser and to provide convenience and other features to you, such as recognizing you as a frequent user of our Website. Some of the cookies we use are associated with your account with us (including personal information about you), and other cookies are not.We may use “session cookies” (cookies that last until you close your browser) or “persistent cookies” (cookies that last until you or your browser delete them).  Examples of the information we collect and analyze from cookies include your activity on our Website, including the URL you come from and go to next (whether this URL is on our site or not).  Remember that the cookies that we use do not contain and are not tied to personally identifiable information. ** ** If you are concerned about the storage and use of cookies, you may be able to direct your internet browser to notify you and seek approval whenever a cookie is being sent to your Web browser or hard drive. You may also delete a cookie manually from your hard drive through your internet browser or other programs. Please note, however, that some parts of our Website will not function properly or be available to you if you refuse to accept a cookie or choose to disable the acceptance of cookies.
 
-**What Personal Information About Customers Does PaySchools Gather?**
 
-The information we learn from and about customers helps us personalize your shopping experience at PaySchools. Here are the types of information we gather. 
 
-_Information You Provide._ We receive and store any information you enter on our website or give us in any other way, _except bank and credit card information._ We do not save or store bank or credit card information. You can choose not to provide certain information, but then you may not be able to access the full functionality of PaySchools. We use the information that you provide for such purposes as responding to your requests, processing your orders, and communicating with you.
+_Experience data_ : We collect other information that is voluntarily provided by you from time to time if you respond to surveys, polls or questionnaires, and/or Website registration forms. Such information may include personal preferences, opinions and experiences with our products and services, and may be provided anonymously.
 
-_Information We Gather._ We gather and store certain types of information whenever you interact with us. For example, like many websites, we use "cookies" to obtain certain types of information when your Web browser accesses PaySchools from a member institution. We also use cookies to keep track of your shopping cart and to make products available to you if and when they are offered by a participating institution.
+**3\. Use of Information About You**
 
-**What Are Cookies?**
+** ** We use personally identifiable information you provide solely to complete your payment transaction or application process, respond to your inquiries, to make further inquiry as to your interest in our products, and to provide our services to you.  We will use your contact information to contact you regarding your interest in our products and services, and to provide administrative notices and communications relevant to your use of our Website and our products and services.
 
-Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as shopping carts, automatic credit of accounts at member institutions, and access to your personal profile.
+We use non-personally identifiable information in a variety of ways, such as to analyze Website traffic (such as aggregated information on the pages visited by our users), which allows us to improve the design and content of our Website. We may use your non-personally identifiable information by itself or aggregate it with information we have obtained from others to analyze our products and services. We may also link your IP address to your personal information but only in the event that there are issues relating to the origin of a payment transaction.
 
-The "Help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies are necessary to add items to your shopping cart at PaySchools. If you disable your browser from accepting all cookies, or prevent it from accepting cookies from PaySchools, you will not be able to access PaySchools’ full functionality, including the ability to add items to the shopping cart. 
+We may respond to concerns and questions you have sent to our email address, and may send you promotions and news about the services you use or other products and services we think may be of interest to you.  Aside from the foregoing, we will not contact you about any other matters, unless you specifically request it.
 
-**Does PaySchools Share the Information It Receives?**
+**4\. How And When We Share Information**
 
-We share customer information only as described below.
+** ** _Your consent_ **.   **By using our services to conduct payment transactions or application process, you consent to our sharing your personally identifiable information with our partners and affiliates as necessary to complete your payment transaction or application process.
 
-_Protection of PaySchools and Others._ We release account and other personal information when we believe release is appropriate to comply with the law; to enforce or apply our Terms & Conditions of Use and other agreements; or to protect the rights, property, or safety of PaySchools, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does **_not_** include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Notice of Privacy Policy. 
+_Third Party Providers_ **.**   We will not we share your personally identifiable information outside of our organization except with our agents and contractors in order to achieve successful completion of your payment transaction, or in the case of an application we are processing for you, with specially authorized persons within your school or school district.  We may also share information with agents or contractors who assist in providing support for our operations.  We may employ third parties to process personal information on our behalf for the installation of new software or for security testing of our systems based on our instructions and in compliance with this Privacy Policy.  Under no circumstances will we rent or sell your personally identifiable information.
 
-Furthermore, and with respect to credit card transaction, we do **_not_** use, disclose, sell or disseminate any cardholder information obtained in connection with a credit card transaction (including the names, addresses and card account numbers of cardholders) except for the limited purpose of authorizing, completing, and settling card transactions and resolving any chargebacks, retrieval requests, or similar issues involving card transactions.
+_Email communications_ **.   **If you send us an email with questions or comments, we may use your email address to respond to your questions or comments, and we may save your questions or comments for future reference.  We may email you when
 
-We share information regarding your purchase with the member institution who is selling the item(s) purchased. 
+  * you request a particular service or sign up for a feature that involves email communications,
+  * it relates to our products and services that you use (e.g., product updates, customer support, etc.),
+  * we are sending you information about our other products and services, or
+  * you consented to being contacted by email for a particular purpose.
 
-**How Secure Is Information About Me?**
 
-We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. Of course, we transmit your entire credit card number to the appropriate credit card company during order processing, but your credit card number is not stored by us. 
 
-It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign out when finished using a shared computer. Sign out by clicking the "sign out" link on every page.
+You may unsubscribe from receiving future commercial email communications from us by clicking the “unsubscribe” link included at the bottom of any marketing emails we send, or by emailing us as provided in the Contact Us section below.  However, we reserve the right to send you transactional emails such as customer service communications in connection with the products you have purchased. For security reasons, we do not recommend that you send personal information, such as passwords, social security numbers, or bank account information, to us by email.
 
-**Which Information Can I Access?**
+_Transfer of Assets._   As we continue to develop our business, we may sell or purchase assets. If another entity acquires us or all (or substantially all) of our assets, the personally identifiable information and non-personally identifiable information we have about you will be transferred to and used by this acquiring entity. Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered an asset of ours and as such may be sold or transferred to third parties.
 
-PaySchools gives you access to a broad range of information about your account and your interactions with PaySchools for the limited purpose of viewing and, in certain cases, updating that information.
+_Legal Necessity._  Notwithstanding anything herein to the contrary, we reserve the right to disclose any personally identifiable or non-personally identifiable information about you if we are required to do so by law, with respect to copyright and other intellectual property infringement claims, or if we believe that such action is necessary to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Website, or other Members; or (d) in an emergency to protect the health and safety of our Website’s Users or the general public.
 
-**What Choices Do I Have?**
+**5\. What Choices To You Have About Your Account and Our Use Of Your Information?**
 
-As discussed above, you can always choose not to provide information, and you may disable your browser from receiving cookies. However, withholding information or preventing your computer from receiving cookies may prevent you from successfully using some or all of the PaySchools features.
+** ** Our goal is to provide you with simple and meaningful choices about how your information is used. If you are a customer, you control your choices by your selections when you set up your account with us, for example to control the email you receive from us.   You are able to control the content of your account and the privacy of your account by selecting or editing the content and desired privacy settings on your account page at any time.
 
-The "Help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies are required to make purchases through PaySchools
+** ** If at any time you choose to discontinue your use of the services we provide, you should notify us and we will inactivate your account.  Any data concerning your past transactions or account activity will no longer be available and will be stored in a secure manner. We are legally required to maintain a backup copy of such data for 7 years after the transaction was completed.  Thereafter, the copies of data you have provided in connection with any transactions you complete through use of our products are removed from our Website and securely destroyed.  We do not control how our partners retain, store and destroy data that they have obtained access to from third parties such as your school district in connection with completing your transactions. You should check their websites for more information on their practices.
 
-You can add or update your profile information.
+**_California Do Not Track Disclosures_** : Certain browsers may offer you the option of providing notice to websites that you do not wish for your online activities to be tracked for preference based advertising purposes (“DNT Notice”). Some browsers are, by default, set to provide a DNT Notice, whether or not that reflects your preference. Providing DNT Notice is often touted as a means to ensure that cookies, web beacons and similar technology are not used for preference based advertising purposes – that is, to restrict the collection of information your online activities for advertising purposes. Since we do not engage in targeted advertising, we do not track your online activity while on our Website for those purposes.
 
-**Children**
+**6\. Your California Privacy Rights:**
 
-PaySchools does **_not_** sell products for purchase by children. We may sell children’s products for purchase by adults. If you are under 18, you may use PaySchools only with the involvement of a parent or guardian. 
+Residents of the State of California, under certain provisions of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed certain personally identifiable information, as defined under California law during the preceding year for third party direct marketing purposes.  You are limited to one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for our response.  You may request the information in writing at: Payschools, 12835 E. Arapahoe Road, Tower II, Suite 500, Centennial, CO 80112.
 
-**Conditions of Use, Notices, and Revisions**
+**7\. Our Commitment to Security**
 
-If you choose to visit PaySchools, your visit and any dispute over privacy is subject to this Notice of Privacy Policy and our Terms & Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of Iowa. If you have any concern about privacy at PaySchools, please contact us with a thorough description, and we will try to resolve it. 
+** ** We have implemented administrative, technological and physical security measures we consider reasonable and appropriate to protect against the loss, misuse and alteration of the information under our control. In particular, our security measures are sufficient to permit schools and school districts to comply with the requirements of and meet any obligations they may have with respect to the federal student privacy law known as FERPA.  We use Digicert, which specializes in providing Secure Sockets Layer (SSL) protocol, an industry standard for transmitting data securely over the Internet, to encrypt the information before it is transmitted to us by you. Once we receive the information, your data is protected through a combination of strictly enforced procedures and a secured computer network designed in accordance with best practice guidelines. Multiple firewalls, multiple layers of data encryption and an intrusion detection system are all used to protect your data.  We cannot, however, guarantee or warrant the security of any information you disclose or transmit to us online and are not responsible for the theft, destruction, or inadvertent disclosure of your personally identifiable information. We recommend that you take steps to protect the privacy and security of your personal and payment information and your activity while using the internet, as well as your account access information.
 
-Our business changes constantly, and our Notice of Privacy Policy and the Terms & Conditions of Use may change also, with or without notice. You should check our website frequently to review any recent changes. Unless stated otherwise, our current Notice of Privacy Policy applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information without notice to and consent of effected customers. 
+**8\. Children Under 13**
 
-**This policy was last updated February 20, 2009.**
+** ** We have no way of distinguishing the age of individuals who access our Website.  The features, programs, promotions and other aspects of our Website requiring the submission of personally identifiable information are not intended for children.  We do not knowingly collect personally identifiable information from children under the age of 13.  If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us please contact us at info@payschools.com.  A parent or guardian of a child under the age of 13 may review and request deletion of such child’s personally identifiable information as well as prohibit the use thereof, and also we carry out the same Privacy Policy.
 
-**Related Practices and Information**
+**9\. Revisions to our Privacy Policy**
 
-[Conditions of Use](https://web.archive.org/web/20140213221014id_/https%3A//www.payschools.com/terms.asp)  
-[Returns Policy](https://web.archive.org/web/20140213221014id_/https%3A//www.payschools.com/returns.asp)  
-  
----|---
+** ** This Privacy Policy is effective as of the date stated above.  We reserve the right to revise this Policy or any part of it from time to time.  We will post a new or revised Policy to our Website, and we suggest you review our Privacy Policy periodically when accessing our Website.
+
+**  10\.  Contact Information**
+
+** ** You may contact us at info@payschools.com if: (a) you have questions or comments about our Privacy Policy; (b) wish to view or make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our affiliated companies; or (d) wish to close your account. We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable.   Keep in mind, however, that residual information may remain within our databases, access logs and other records for a limited time, as may be required by applicable laws and regulations, which may or may not contain your personally identifiable information.   Please also note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Website.
