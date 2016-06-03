@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the land-fx.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228094217id_/http%3A//land-fx.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the land-fx.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603234914id_/http%3A//land-fx.com/policy/privacy) for the most accurate reproduction.*
 
 # LAND FX : Online Forex Broker - Foreign Exchange Trading - Financial Law Abiding Company
 
@@ -25,7 +25,7 @@ We encourage you to read the privacy policies on these sites.
 \- How Do We Use Information From Our Advertisements on Other Websites?   
 \- Can You Control Your Information That's Collected and Used Online?
 
-1\. What Information Do We Collect
+1\. What Information Do We Collect?
 
 We collect two types of online information: non-personal and personal.
 
@@ -79,7 +79,8 @@ The information we collect allows us to:
 \- Recognize you when you return to our site so we can personalize your experience   
 \- Process applications and transactions   
 \- Respond to your requests   
-\- Provide you relevant product and service offers on our site and in other advertising
+\- Provide you relevant product and service offers on our site and in other advertising   
+Remark: Land Prime Limited has right to collect and store comprehensive financial transaction information such as Credit / Debit card information, E-wallet information, bank wire information. Above financial information can be used for further business activities of Land Prime Limited or it's subsidiary or third parties which have business relationship with Land Prime Limited without further consent.
 
 3\. How Do We Use Information from Our Advertisements on Other Websites?
 
@@ -125,4 +126,4 @@ the last time this policy was revised or materially changed. Checking the effect
 whether there have been changes since the last time you reviewed the policy.
 
 **Effective Date**  
-This policy was last modified July 22, 2013.
+This policy was last modified May 19th, 2016.
