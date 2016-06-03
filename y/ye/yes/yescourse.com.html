@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yescourse.com privacy policy that was archived on 2015-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151214153633id_/http%3A//yescourse.com/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yescourse.com privacy policy that was archived on 2016-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160603214708id_/http%3A//yescourse.com/legal/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
         <meta charset="utf-8">
@@ -11,11 +11,97 @@
         <link href="//fonts.googleapis.com/css?family=Open+Sans:400italic,400,700" rel="stylesheet" type="text/css">
         
 
-        <link rel="stylesheet" href="//static.yescourse.org/css/public-bd357f0e932f3020f4fd542ae50c12b6.css">
+        <link rel="stylesheet" href="//static.yescourse.org/css/public-eb1e0f5f6e0f3383947b6edd7ac2ebaf.css">
         
         
-        <script src="//static.yescourse.org/js/vendor/modernizr-2.6.2.min.js"></script>
+        <script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//static.yescourse.org/js/vendor/modernizr-2.6.2.min.js"></script>
         
+        <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+    document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+    (function() {
+        var match,
+            pl     = /\+/g,
+            search = /([^&=]+)=?([^&]*)/g,
+            decode = function (s) {
+                return decodeURIComponent(s.replace(pl, " ")); },
+            query  = window.location.search.substring(1);
+
+        ga('create', 'UA-40055283-1', 'auto', {'name': 'yc'});
+        //ga('yc.set', 'transport', 'beacon');
+        ga('yc.require', 'displayfeatures');
+
+        fbq('init', '336784556523444');
+
+        var urlParams = {};
+        while (match = search.exec(query))
+            urlParams[decode(match[1])] = decode(match[2]);
+
+        var ycref = urlParams['ycref'];
+
+        if (!ycref) {
+            var src = urlParams['src'], ad = urlParams['ad'];
+
+            if (src && ad) {
+                ycref = 's' + src + '.mad.g' + ad;
+            }
+        }
+
+        if (ycref) {
+            var parts = ycref.split('.');
+            var ycrefs = {};
+            for (var i=0; i < parts.length; ++i) {
+                ycrefs[parts[i][0]] = parts[i].slice(1);
+            }
+            if (ycrefs['s']) {
+                ga('yc.set', 'campaignSource', ycrefs['s']);
+            }
+            if (ycrefs['m']) {
+                ga('yc.set', 'campaignMedium', ycrefs['m']);
+            }
+            if (ycrefs['g']) {
+                ga('yc.set', 'campaignName', ycrefs['g']);
+            }
+            document.cookie = 'ycref=' + ycref +
+                    ' ; expires=Fri, 31 Dec 9999 23:59:59 GMT;';
+            fbq(
+                'trackCustom',
+                'AdVisitor', {
+                    'content_name': 'Landing',
+                    'ycref': ycref
+            });
+        }
+
+        ga('yc.send', 'pageview', {
+            'hitCallback': function() {
+            }
+        });
+
+        
+
+        fbq('track', 'PageView');
+
+        var ycfbq = window.ycfbq_ || [];
+        function apply_ycfbq() {
+            for (var i = 0, count = ycfbq.length; i < count; ++i) {
+                fbq.apply(this, ycfbq[i])
+            }
+        }
+        apply_ycfbq();
+
+        
+    })();
+</script>
+
     </head>
     <body class="flat">
         <!--[if lt IE 9]>
@@ -54,6 +140,7 @@
         <div id="content_wrap">
             <div class="wrap">
                 <article>
+    <style>body{color: black !important;}</style>
     <h1>Privacy Policy</h1>
 
 <p>The privacy of your personal information is important to us. YesCourse Pty Ltd - ABN 61166713499 (YesCourse) may collect personal information through the websites available at the domains owned by YesCourse including but not limited to yescourse.com and all sub-domains (Site), or directly from you. YesCourse respects your right to privacy and this policy sets out how we collect and treat your personal information. Please read the following Privacy Policy carefully.</p>
@@ -187,7 +274,24 @@
             <noscript><img height="1" width="1" style="display:none"
             src="https://www.facebook.com/tr?id=336784556523444&ev=PageView&noscript=1"
             /></noscript>
-            <script src="//static.yescourse.org/js/public.js"></script>
+
+            <script type="text/javascript">
+            /* <![CDATA[ */
+            var google_conversion_id = 1010410677;
+            var google_custom_params = window.google_tag_params;
+            var google_remarketing_only = true;
+            /* ]]> */
+            </script>
+            <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+            </script>
+            <noscript>
+            <div style="display:inline;">
+            <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1010410677/?value=0&amp;guid=ON&amp;script=0"/>
+            </div>
+            </noscript>
+
+
         
     
+
 </body></html>
