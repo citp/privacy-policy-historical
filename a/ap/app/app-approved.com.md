@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the app-approved.com privacy policy that was archived on 2015-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151014230510id_/http%3A//www.app-approved.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the app-approved.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604000609id_/http%3A//www.app-approved.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
