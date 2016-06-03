@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 18yearsold.com privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027054551id_/http%3A//www.18yearsold.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 18yearsold.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603121121id_/http%3A//18yearsold.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
