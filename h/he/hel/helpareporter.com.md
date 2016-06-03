@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the helpareporter.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225191025id_/http%3A//www.helpareporter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpareporter.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603130240id_/http%3A//www.helpareporter.com/privacy-policy/%3Fnav_location%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy | Help A Reporter
 
-**[](http://www.helpareporter.com/)**
+**[](https://www.helpareporter.com/)**
 
 **1\. Company**
 
-HelpAReporter.com is owned and run by Vocus, Inc. (a Cision Company) (“HelpAReporter.com”, “HelpAReporter”, “HARO”, “us”). Hereinafter, references to Vocus, Inc. shall be referred to as “Cision”.  
+HelpAReporter.com is owned and run by Cision US Inc. (a Cision Company) (“HelpAReporter.com”, “HelpAReporter”, “HARO”, “us”). 
+
 To contact us with questions about this privacy policy, write to:  
 Cision, 12051 Indian Creek Ct., Beltsville, MD 20705
 
