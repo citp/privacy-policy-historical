@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greatrun.org privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203003553id_/http%3A//www.greatrun.org/privacy-and-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatrun.org privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603023435id_/http%3A//www.greatrun.org/privacy-and-cookies-policy) for the most accurate reproduction.*
 
-# 
+# Greatrun.org website privacy and cookies policies
 
 ###  Introduction
 
@@ -287,6 +287,42 @@ _utmz
 | 
 
 6 months
+
+| 
+
+Google Analytics
+
+| 
+
+Google
+
+| 
+
+Used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookie collects information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages visited. Visit Google's website for details of their privacy policy - <http://www.google.com/analytics/learn/privacy.html>  
+  
+_ga
+
+| 
+
+2 years
+
+| 
+
+Google Analytics
+
+| 
+
+Google
+
+| 
+
+Used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookie collects information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages visited. Visit Google's website for details of their privacy policy - <http://www.google.com/analytics/learn/privacy.html>  
+  
+_gat
+
+| 
+
+10 minutes
 
 | 
 
