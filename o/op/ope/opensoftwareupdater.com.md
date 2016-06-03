@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opensoftwareupdater.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222051932id_/http%3A//opensoftwareupdater.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opensoftwareupdater.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603214712id_/http%3A//opensoftwareupdater.com/privacy.html) for the most accurate reproduction.*
 
 # Open Software Updater
 
