@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ninjaoutreach.com privacy policy that was archived on 2015-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151010144117id_/http%3A//ninjaoutreach.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ninjaoutreach.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603203423id_/https%3A//ninjaoutreach.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,7 @@ We require this information to understand your needs and provide you with a bett
 
   * We may use the information to improve our products and services.
   * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+  * From time to time, we may also use your information to contact you for [market research](https://ninjaoutreach.com/6-easy-steps-to-research-your-market-like-an-expert/) purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
 
 
@@ -34,7 +34,7 @@ We are committed to ensuring that your information is secure. In order to preven
 
 **How we use cookies**
 
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web [traffic](https://ninjaoutreach.com/my-secret-traffic-generation-strategy-for-2015/) or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
 We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
