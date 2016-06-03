@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goconqr.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101134852id_/https%3A//www.goconqr.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goconqr.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603194214id_/https%3A//www.goconqr.com/en/privacy_policy) for the most accurate reproduction.*
 
 # GoConqr - Privacy Policy
 
@@ -59,6 +59,16 @@ All information you provide to us is stored on our secure servers. A server is a
 
 Unfortunately, the transmission of or sending by you of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted or sent by you to our Service; any transmission or sending by you is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access _i.e._ access to your data by a person who should not have such access. 
 
+##  ACCESSING THE SERVICE THROUGH OUR APPS 
+
+The service is available to access through mobile applications. Our Apps use third party service providers to provide functionality to our users. 
+
+The data gathered by the third party providers relates to the aggregate usage of our service and does not contain personal identifiable data. 
+
+These third party service providers may transfer, store and use the data in the United States and any other country in which they operate. 
+
+Privacy and Data protection laws in some of these countries may vary from the laws of the Country in which you live. 
+
 ##  USES MADE OF THE INFORMATION 
 
 We use information held about you in the following ways: 
@@ -77,7 +87,7 @@ We do not disclose information about identifiable individuals to our advertisers
 
 ##  DISCLOSURE OF YOUR INFORMATION 
 
-We may disclose your personal information to any member of our group of companies, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 155 of the Irish Companies Act 1963 (as amended). 
+We may disclose your personal information to any member of our group of companies, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in Part 1 of the Irish Companies Act 2014. 
 
 We may disclose your personal information to third parties: 
 
@@ -126,7 +136,7 @@ When we receive the affidavit we will be able to carry out your instructions. If
 
 ##  CHANGES TO OUR PRIVACY POLICY 
 
-Any changes we may make to our privacy policy in the future will be posted on this page. This page was last updated on 27th March 2015. 
+Any changes we may make to our privacy policy in the future will be posted on this page. This page was last updated on 8th April 2016. 
 
 ##  CONTACT 
 
