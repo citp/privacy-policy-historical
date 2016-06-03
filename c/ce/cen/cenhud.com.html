@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cenhud.com privacy policy that was archived on 2015-11-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151110213606id_/http%3A//www.cenhud.com/privacy/index.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cenhud.com privacy policy that was archived on 2016-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160603090035id_/http%3A//www.cenhud.com/privacy/index.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -34,9 +34,45 @@ function googleTranslateElementInit() {
 }
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script> 
 </div>
-<div class="logincontainer"><form enctype="MULTIPART/FORM-DATA" method="POST" action="https://Inet.CenHud.Com/CustomerServicePortal/UserID/UserLogin.aspx"> 
+
+<div id="logindata" style="display:none; float:right; padding:25px;">
+<b>UserID: <span id="userid"></span></b><br>
+<a href="https://inet.cenhud.com/CustomerServicePortal/UserID/StartPage.aspx"><div align="center" class="button_blue" style="color:#FFF; margin-top:15px; margin-bottom:15px;">My Account Summary</div></a><br>
+<a href="https://inet.cenhud.com/CustomerServicePortal/UserID/CustomerLogoff.aspx" style="color:#0078d9; text-decoration:none; font-weight:normal;">Log out</a>
+</div>
+
+<script src="//code.jquery.com/jquery-1.8.2.min.js"></script>
+<script type="text/javascript">
+$.ajax({
+      url: "https://inet.cenhud.com/customerserviceportal/api/getsessionvar.ashx",
+      dataType: "jsonp",
+      data: "var=USRID",
+      error: function (jqXHR, textStatus, errorThrown) {
+            alert("Request error: " + errorThrown + "\nStatus Code: " + jqXHR.status +
+                  "\nStatus Text: " + textStatus +
+            "\njqXHR.statusText: " + jqXHR.statusText +
+            "\njqXHR.readyState: " + jqXHR.readyState +
+            "\njqXHR.responseText: " + jqXHR.responseText);
+      },
+      success: function(json, textStatus, jqXHR) {
+            if (json.usrid != "") {
+                  $("#logincontainer").hide();
+                  $("#logindata").show();
+                  $("#userid").html(json.usrid);
+            }
+			else {
+                  $("#logincontainer").show();
+                  $("#logindata").hide();
+                  $("#userid").html("");
+           }
+		   }
+});
+</script>
+
+
+<div id="logincontainer"><form enctype="MULTIPART/FORM-DATA" method="POST" action="https://Inet.CenHud.Com/CustomerServicePortal/UserID/UserLogin.aspx"> 
+<div style="clear:both"><img src="/images/login_cenhubmyaccount.png"></div>
 <div style="float:left; display:block;">
-<span style="font-family:Arial, Helvetica, sans-serif; color:#515151; font-size:14px; font-weight:bold;"> Access My Account</span><br>
 <table width="110" border="0" cellspacing="0" cellpadding="2">
   <tbody><tr>
     <td width="56" align="right" scope="col"><p style="font-family:Arial, Helvetica, sans-serif; color:#515151; font-size:12px;"><em>User ID:</em></p></td>
@@ -53,16 +89,18 @@ function googleTranslateElementInit() {
     </tr>
   </tbody></table>
   </div>
- <div class="loginhelp"><br><a href="https://inet.cenhud.com/CustomerServicePortal/UserID/UserIDforgot.aspx">» Forgot User ID</a> <br>  <a href="https://inet.cenhud.com/CustomerServicePortal/UserID/Passwordforgot.aspx">» Forgot Password</a><br> <a href="https://inet.cenhud.com/CustomerServicePortal/UserID/Register.aspx">» New user registration </a><br>  <a href="https://inet.cenhud.com/CustomerServicePortal/Inquiry/faq.aspx">» Login FAQs</a><br></div>
+ <div class="loginhelp"><a href="https://inet.cenhud.com/CustomerServicePortal/UserID/UserIDforgot.aspx">» Forgot User ID</a> <br>  <a href="https://inet.cenhud.com/CustomerServicePortal/UserID/Passwordforgot.aspx">» Forgot Password</a><br> <a href="https://inet.cenhud.com/CustomerServicePortal/UserID/Register.aspx">» New user registration </a><br>  <a href="https://inet.cenhud.com/CustomerServicePortal/Inquiry/faq.aspx">» Login FAQs</a><br></div>
     </form>
 </div>
+
 </div></div>
 <div class="bluebar"> 
 <div class="bluebarcontents">
- <div style="float:left;"> <a href="/billpay/index.aspx" class="btn_class">Pay Bill</a>
+ <div style="float:left;"> <a href="//www.centralhudson.com/billpay/index.aspx" class="btn_class">Pay Bill</a>
+ <a href="//www.CenHubStore.com" class="btn_class">CenHub Store</a>
   <a href="https://inet.cenhud.com/CustomerServicePortal/updates/TrblReport.aspx" class="btn_class"> Report Outage/Check Status</a> 
-       <a href="http://stormcentral.cenhud.com/default.aspx" class="btn_class">StormCentral Map</a>
-  <a href="/safety/naturalgas.aspx" class="btn_class">Report a Gas Odor</a> </div> 
+       <a href="//stormcentral.cenhud.com/default.aspx" class="btn_class">Outage Map</a>
+  <a href="//www.centralhudson.com/safety/naturalgas.aspx" class="btn_class">Report Gas Odor</a> </div> 
    <div style="padding-top:3px;">
 <a href="http://www.linkedin.com/company/central-hudson-gas-&amp;-electric" target="_blank"><div id="linkedinicon" title="Link to our Linked In page"></div></a> <a href="http://www.youtube.com/user/centralhudsonvideos" target="_blank"><div id="youtubeicon" title="Link to our YouTube page"></div></a> <a href="http://www.twitter.com/centralhudson" target="_blank"><div id="twittericon" title="Link to our Twitter page"></div></a> <a href="http://www.facebook.com/centralhudson" target="_blank"><div id="facebookicon" title="Link to our Facebook page"></div></a>
 </div>
@@ -87,7 +125,7 @@ function googleTranslateElementInit() {
              </div>
     <div class="nav-column"> 
            <ul>       
-          <li><a href="/ebills/index.aspx"><img src="/images/dd_myaccount_ebills.jpg" width="170" height="110" border="0" alt="Click here to enroll in eBills"><br>Go paperless and <br> help fight hunger</a></li>          
+          <li><a href="/ebills/index.aspx"><img src="/images/dd_myaccount_ebills.jpg" width="170" height="110" border="0" alt="Click here to enroll in eBills"><br>Go paperless  <br> with eBills</a></li>          
       </ul>   
                 
       </div>       
@@ -186,12 +224,12 @@ function googleTranslateElementInit() {
                   
     <div class="nav-column" style="width:233px; border-right:1px solid #e8e8e8;">    
         <h3>Account Management</h3>      
-         <h6><a href="https://inet.cenhud.com/CustomerServicePortal/BudgSetUp/BudgSetUp.aspx">Sign up for Budget Billing</a></h6> <h6><a href="/alerts/index.aspx">Sign up for text messaging</a></h6> <h6><a href="/ebills/index.aspx">Sign up for eBills</a></h6>        <h6><a href="https://inet.cenhud.com/CustomerServicePortal/eBillsOnline/eBills_Processor.aspx">Discontinue eBills</a></h6> <h6><a href="https://inet.cenhud.com/CustomerServicePortal/Updates/TurnOffSvc.aspx">Close an account</a></h6> <h6><a href="https://inet.cenhud.com/CustomerServicePortal/UserID/UserLogin.aspx?r=changepassword">Change your password</a></h6><h6><a href="https://inet.cenhud.com/CustomerServicePortal/UserID/Unsubscribe.aspx">Delete your User ID</a></h6><h6><a href="/myinfo/index.aspx">Change phone number</a></h6><h6><a href="/myinfo/index.aspx">Change mailing address</a></h6>
+         <h6><a href="https://inet.cenhud.com/CustomerServicePortal/BudgSetUp/BudgSetUp.aspx">Sign up for Budget Billing</a></h6> <h6><a href="/alerts/index.aspx">Sign up for text messaging</a></h6> <h6><a href="/ebills/index.aspx">Sign up for eBills</a></h6>        <h6><a href="https://inet.cenhud.com/CustomerServicePortal/Updates/NewSvc.aspx">Start Service</a></h6> <h6><a href="https://inet.cenhud.com/CustomerServicePortal/UserID/UserLogin.aspx">Transfer your service</a></h6> <h6><a href="https://inet.cenhud.com/CustomerServicePortal/Updates/TurnOffSvc.aspx">Turn off your service</a></h6> <h6><a href="https://inet.cenhud.com/CustomerServicePortal/UserID/UserLogin.aspx?r=changepassword">Change your password</a></h6><h6><a href="https://inet.cenhud.com/CustomerServicePortal/UserID/Unsubscribe.aspx">Delete your User ID</a></h6><h6><a href="/myinfo/index.aspx">Change phone number</a></h6><h6><a href="/myinfo/index.aspx">Change mailing address</a></h6>
          
          </div> 
     <div class="nav-column" style="width:265px; border-left: none;">    
         <h3>Outages &amp; Emergencies</h3>      
-         <h6><b style="color:#C00;">Report gas odor:</b> 1-800-942-8274 <br><i style="font-size:12px;">(This number is only for gas odor reports)</i></h6>       <h6><b style="color:#C00;">Report wires down:</b> Call 911 <br><i style="font-size:12px;">(Central Hudson, emergency crews dispatched)</i></h6>  <h6><a href="https://inet.cenhud.com/CustomerServicePortal/updates/TrblReport.aspx">Report an electric outage</a></h6>    	<h6><a href="https://inet.cenhud.com/CustomerServicePortal/updates/TrblReport.aspx">Obtain outage restoration status</a></h6>        <h6><a href="/streetlightout/index.aspx">Report a streetlight out</a></h6>
+         <h6><b style="color:#C00;">Report gas odor:</b> Call 911 or our <br>Gas Odor Hotline at 1-800-942-8274 <br><i style="font-size:12px;">(This number is only for gas odor reports)</i></h6>       <h6><b style="color:#C00;">Report wires down:</b> Call 911 <br><i style="font-size:12px;">(Central Hudson, emergency crews dispatched)</i></h6>  <h6><a href="https://inet.cenhud.com/CustomerServicePortal/updates/TrblReport.aspx">Report an electric outage</a></h6>    	<h6><a href="https://inet.cenhud.com/CustomerServicePortal/updates/TrblReport.aspx">Obtain outage restoration status</a></h6>        <h6><a href="/streetlightout/index.aspx">Report a streetlight out</a></h6>
 		 <h3 style="margin-top:22px;"><a href="/faqs/index.aspx">FAQs</a></h3>
 		 <h3><a href="/forms/index.aspx">Forms</a></h3>
                    
@@ -248,7 +286,7 @@ function googleTranslateElementInit() {
    
     
     <li class="nav-search">
-    	<form id="searchbox" action="/search/index.aspx">
+	<form id="searchbox" action="/search/index.aspx">
         	<input value="005388623120188123064:1keau1wjngq" name="cx" type="hidden"> 
 <input value="FORID:11" name="cof" type="hidden"> 
 <input id="q" name="q" type="text" value="Search site" onfocus="if (this.value == 'Search site') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search site';}"><input name="sa" class="searchbutton" value="" type="submit" valign="top"></form>
