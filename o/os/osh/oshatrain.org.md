@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oshatrain.org privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217143115id_/http%3A//www.oshatrain.org/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oshatrain.org privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603215508id_/https%3A//www.oshatrain.org/pages/privacy-policy.html) for the most accurate reproduction.*
 
-# OSHAcademy - OSHAcademy Privacy Policy
+# Privacy Policy - OSHAcademy
 
 Privacy Policy
 
@@ -62,7 +62,7 @@ We use an outside shipping company to ship orders. We also use a credit card pro
 
 We use "cookies" on our sites. A cookie is a piece of data stored on your hard drive. We use cookies to help us improve your access to our site, e.g. allowing you to login once and access multiple pages. The cookies we use are destroyed (deleted) when your browser session has ended. We do not store any long term cookies on your computer.
 
-Some of our business partners may use cookies on our site (for example, google and advertisers). We use google analytics to learn how vistors use our website and what their general interests are. This allows us to improve our site content to meet the needs of our customers.
+Some of our business partners may use cookies on our site (for example, google and advertisers). We use google analytics, remarketing features, and advertising reporting features to learn how vistors use our website and what their general interests are. This allows us to improve our site content to meet the needs of our customers.
 
 [Click here to learn how to opt-out of google analytics cookie tracking.](https://tools.google.com/dlpage/gaoptout/)
 
@@ -88,4 +88,4 @@ If you feel that we are not abiding by this privacy policy, you should contact u
 
 **Effective Date:** September 1st, 2014.
 
-**Last Updated:** March 17th, 2015.
+**Last Updated:** February 5th, 2016.
