@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the todby.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207155847id_/http%3A//www.todby.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todby.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604001639id_/http%3A//www.todby.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - TODBY
+# TODBY: Privacy Policy
 
 **What information do we collect?**
 
