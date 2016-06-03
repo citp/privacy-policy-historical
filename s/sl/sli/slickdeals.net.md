@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slickdeals.net privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231032144id_/http%3A//slickdeals.net/corp/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slickdeals.net privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603145914id_/http%3A//slickdeals.net/corp/privacy-policy.html) for the most accurate reproduction.*
 
 # Slickdeals Privacy Policy
 
