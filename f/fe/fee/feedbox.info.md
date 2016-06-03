@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the feedbox.info privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110033807id_/http%3A//feedbox.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedbox.info privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603084718id_/http%3A//feedbox.info/privacy-policy) for the most accurate reproduction.*
 
-# None
+# Privacy Policy - FeedBox.info
 
 FeedBox has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
