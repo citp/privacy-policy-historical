@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homeveda.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223075645id_/http%3A//www.homeveda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeveda.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603224345id_/http%3A//www.homeveda.com/privacy-policy) for the most accurate reproduction.*
 
-# Homeveda : Privacy policy
+# Privacy policy - Homeveda
 
 HomeVeda understands the importance of maintaining privacy of personal information of its users. This summary of our privacy policy is intended to give you an overview of: 
 
@@ -48,4 +48,4 @@ We will not disclose any ‘Personal Information’ about you unless you specifi
 
 **How to contact us with questions or concerns**
 
-Please send us an email using the [Contact Us](http://www.homeveda.com//contact#) page. 
+Please send us an email using the [Contact Us](http://www.homeveda.com//contact# "Click to open in new window") page. 
