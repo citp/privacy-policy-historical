@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the quickquid.co.uk privacy policy that was archived on 2015-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150717205831id_/https%3A//www.quickquid.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickquid.co.uk privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603152824id_/https%3A//www.quickquid.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # QuickQuid - Privacy Policy
 
-QuickQuid is the trading name of CashEuroNetUK, LLC. CashEuroNetUK, LLC is authorised and regulated by the Financial Conduct Authority, firm registration number 603395. Information Commissioner’s Office Data Protection registration number: Z9919587. This Privacy Policy describes the privacy practices of CashEuroNetUK, LLC and its affiliated companies with respect to individually identifiable information relating to you ("Personal Data") that you or third parties provide to Quick Quid, including Personal Data collected or provided on the CashEuroNetUK websites at [www.quickquid.co.uk](http://www.quickquid.co.uk/) ("Website"). "You" or "Your" means you as a participant in, or as a user of, the Website or a customer of CashEuroNetUK. "We" or "our" or "us" means CashEuroNetUK and its affiliates. 
+QuickQuid is the trading name of CashEuroNetUK, LLC. CashEuroNetUK, LLC is authorised and regulated by the Financial Conduct Authority, firm registration number 673738. Information Commissioner’s Office Data Protection registration number: Z9919587. This Privacy Policy describes the privacy practices of CashEuroNetUK, LLC and its affiliated companies with respect to individually identifiable information relating to you ("Personal Data") that you or third parties provide to Quick Quid, including Personal Data collected or provided on the CashEuroNetUK websites at [www.quickquid.co.uk](http://www.quickquid.co.uk/) ("Website"). "You" or "Your" means you as a participant in, or as a user of, the Website or a customer of CashEuroNetUK. "We" or "our" or "us" means CashEuroNetUK and its affiliates. 
 
 For the purposes of the Data Protection Act 1998, the data controller is CashEuroNetUK, LLC 
 
@@ -86,16 +86,13 @@ If you do not want to receive cookies from us, please follow the procedures belo
   * Security Cookies – Session cookies used to support security measures within the site. 
   * Yield Manager – This is a tracking pixel that records traffic coming from 3rd party sources. 
   * LivePerson – A tracking pixel used to track web session for customer service web chat. 
-  * Quick Quid – Contains a session cookie recognizing applicant to process loan application through completion 
+  * QuickQuid – Contains a session cookie recognizing applicant to process loan application through completion 
   * Iovation – Contains a cookie to identify applicants electronic device 
   * DoubleClick – This is a tracking pixel that records traffic coming from 3rd party sources. 
-  * H Online – Contains a cookie to identify applicants electronic device 
   * Google Analytics – Web analytics tracking 
   * Google Adwords – Conversion tracking 
-  * [Criteo](http://www.criteo.com/privacy/)– Marketing analytics 
-  * Retargeter – Marketing analytics 
-  * Infectious Media – Marketing analytics 
-  * ClickTale – Web analytics tracking 
+  * AdRoll – Marketing analytics 
+  * Criteo – Marketing analytics 
   * Commission Junction – Marketing analytics 
   * Lead Impact – Marketing analytics 
   * c2lk – Marketing analytics 
@@ -263,4 +260,4 @@ N13 4BS
 
 We reserve the right to change this Privacy Policy at any time by notifying you of the existence and location of the new or revised privacy policy or by posting the changes online at our Website. 
 
-Privacy Policy last amended 1 July 2014 
+Privacy Policy last amended 19 February 2016 
