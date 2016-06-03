@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehighline.org privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204205925id_/http%3A//www.thehighline.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehighline.org privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603224543id_/http%3A//www.thehighline.org/privacy-policy) for the most accurate reproduction.*
 
 # The High Line | Friends of the High Line
 
@@ -30,7 +30,7 @@ You may also choose to communicate with FHL through email, via our website, by t
  **Disclosure of Information  
 **
 
-FHL does not provide personally identifiable information to unaffiliated third parties for their use in marketing directly to you. FHL may use unaffiliated companies to help it maintain and operate its website or for other reasons related to the operation of its business, and those companies may receive your personally identifiable information. FHL may also disclose personally identifiable information about you in connection with legal requirements, such as in response to an authorized subpoena, governmental request, or investigation, or as otherwise required by law.  
+FHL may use unaffiliated companies to help it maintain and operate its website or for other reasons related to the operation of its business, and those companies may receive your personally identifiable information. FHL may also disclose personally identifiable information about you in connection with legal requirements, such as in response to an authorized subpoena, governmental request, or investigation, or as otherwise required by law.  
 
 
  **Information Use  
