@@ -1,252 +1,111 @@
-> *The following text is extracted and transformed from the uswitch.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217104940id_/http%3A//www.uswitch.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uswitch.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603023152id_/http%3A//www.uswitch.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
-The uSwitch privacy policy forms part of uSwitch's terms and conditions.
+uSwitch Limited (We or us) are committed to protecting and respecting your privacy
 
-This privacy policy forms part of uSwitch.com's terms and conditions. Once you have provided your personal details on this website you will be deemed to have read and accepted this privacy policy. 
+This policy (together with our [terms and conditions](https://web.archive.org/about-us/terms-and-conditions) and any other documents referred to in it) sets out the basis on which any personal information we collect from you, or that you provide to us through our website or via one of our call-centres, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal information and how we will treat it. By visiting this website or providing your personal information to one of our call-centre operators, you are accepting and consenting to the practices described in this policy. Please note that this includes consenting to the processing of any sensitive personal information you provide, as described below.
 
-uSwitch.com is committed to protecting your privacy. We use the information that we collect about you to process your switch and to inform you about other services we provide. 
+We may amend this privacy policy at any time. Any changes we may make will be posted on this page, so please check back frequently. Your continued use of our website(s) after posting will constitute your acceptance of, and agreement to, any changes.
 
-The site is operated by uSwitch Limited; a company incorporated in England and Wales (registration number 03612689), the registered office of which is Notcutt House, 36 Southwark Bridge Road, London, SE1 9EU ("uSwitch.com"). uSwitch.com complies with all applicable UK Data Protection legislation currently in force in relation to its treatment of personal information. 
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is uSwitch Limited of Notcutt House, 36 Southwark Bridge Road, London, SE1 9EU. uSwitch Limited is part of the Zoopla Property Group Plc group of companies, comprising Zoopla Property Group Plc and its subsidiaries (collectively "Zoopla" and, individually, a "Zoopla Group Company").
 
-The Home insurance comparison service is provided by Autonet Insurance Services Ltd, registered in England No. 3642372. Autonet Insurance Services Ltd has its registered office at Nile Street, Burslem, Stoke-on-Trent ST6 2BA United Kingdom. Autonet Insurance Services Ltd is authorised and regulated by the Financial Conduct Authority (FCA) (Registration number: 308213). By using this system you are also agreeing to AutoNet's [Terms & Conditions](https://www.uswitch.com/home-insurance/documents/terms-of-business.pdf) and [Privacy Policy](https://assets0.uswitch.com/s3/uswitch-assets-eu/home-insurance/privacy-policy.pdf)
+## Information we may collect from you
 
-The Life insurance comparisons service is provided by ActiveQuote Ltd who are authorised and regulated by the Financial Conduct Authority (501109). Registered Office; Cambrian Buildings, Mount Stuart Square, Cardiff CF10 5FL. By using this system you are also agreeing to ActiveQuote [Terms and Conditions](https://www.uswitch.com/life-insurance/quote/terms-no-header.aspx) and [Privacy Policy](https://www.uswitch.com/life-insurance/quote/privacy-no-header.aspx). 
+We may collect and process the following information about you:
 
-The Health insurance comparisons service is provided by ActiveQuote Ltd who are authorised and regulated by the Financial Conduct Authority (501109). Registered Office; Cambrian Buildings, Mount Stuart Square, Cardiff CF10 5FL. By using this system you are also agreeing to ActiveQuote [Terms and Conditions](https://www.uswitch.com/health-insurance/quote/terms-no-header.aspx) and [Privacy Policy](https://www.uswitch.com/health-insurance/quote/privacy-no-header.aspx). 
+  * ### Information you provide to us
 
-The Car insurance comparison service is provided by uSwitch Limited, Company No 03612689 registered in the UK having its registered office at Notcutt House, 36 Southwark Bridge Road, SE1 9EU. uSwitch Limited is authorised and regulated by the Financial Conduct Authority. The following terms and conditions apply to uSwitch’s Car insurance comparison service. [Click for Terms and Conditions.](https://web.archive.org/about-us/terms-and-conditions#insurance_terms)
+You may provide us with information by filling in forms on our website(s) or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register for an account, search for a price comparison or quote, enter into a contract for the supply of services, enter a competition, promotion or survey and when you report a problem with our site. The personal information you provide may include your name, address, e-mail address and phone number, financial and credit card information and other information about yourself to enable us to provide you with our price comparison and/or switching service. Depending on which products and services you are interested in, you may also need to provide us with certain categories of sensitive personal information, to allow us to provide you with quotes, including, for example, information about criminal convictions (e.g. in connection with a car insurance quote) or health (e.g. for an energy provide to assess whether you have any special requirements). By providing us with this information, you expressly consent to our use of your sensitive personal information in accordance with this privacy policy.
 
-This privacy statement sets out the policy in relation to how any personal information collected from you through your use of this site is used. 
+  * ### Information we collect about you
 
-## What personal information do we collect?
+When you visit our website(s) we may automatically collect information about your computer, including your IP address, information about your visit, your browsing history, and how you use our website. This information may be combined with other information you provide to us, as described above.
 
-In order to process an energy switch, we collect your name, address and may collect payment details and other details to process the switch. We also collect your email address and phone number. 
+  * ### Information we receive from other sources
 
-These details allow uSwitch.com and your new supplier to contact you about the switch and any other information which uSwitch believes may interest you. 
+We may receive information about you if you use any of the other websites we, or our group companies, operate or the other services we provide. We are also working closely with third parties (including, for example, business partners, service providers, advertising networks, analytics providers, and search information providers) and may receive information about you from them. This may be combined with other information you provide to us, as described above.
 
-If you abandon your switch, we may email or call you to give you the opportunity to compare again and/or to provide feedback on our switching process. 
 
-You can opt-out of receiving information from us whenever you input personal data, or by sending an email to [help@uswitch.com](mailto:help@uswitch.com "Email help@uswitch.com") . 
 
-## How do we use your personal information?
 
-If you have requested to switch suppliers, we will use your personal information to process that switch. This will include passing your information to the new supplier. 
+## How we use your personal information
 
-uSwitch.com may disclose and use personal information collected about you within its own organisation (including its representatives) for the purpose of internal business administration, analysis and marketing. 
+We use personal information about you in connection with the following purposes:
 
-uSwitch.com may also disclose personal information collected about you to third parties, for the purposes of completing any transaction you are undertaking with us, for providing any goods or services to you or for the purposes of associated administration or obtaining professional advice. 
+  * Fulfiling your requests:
 
-If you enter a contest or another promotion, we will use the data so that we can administer the contest and notify winners. 
+    * to provide you with the information, products and services that you request from us or another Zoopla Group Company, including providing you with price comparison quotes and switching services;
+    * to complete any transaction you are undertaking with us or another Zoopla Group Company;
+    * to administer any promotion or competition that you enter via our website(s); and
+    * to allow you to participate in interactive features of our service, when you choose to do so.
+  * Marketing:
 
-If you have requested to be kept informed of services that we offer, we will contact you with these details. 
+    * to provide you with information about other goods and services we or other Zoopla Group Companies offer that are similar to those that you have already purchased or enquired about;
+    * to provide you, or permit other Zoopla Group Companies, or selected third parties to provide you, with information about goods or services that may interest you, provided that you have opted-in to receive those communications; 
+    * to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you; and 
+    * to make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them, which may be based on your activity on our website(s) or the website of another Zoopla Group Company.
+  * Service Improvements and account management:
 
-If during your visit to one of our insurance or energy calculators, you elected to continue by accepting the terms of our Privacy Policy, we may pass the details you submitted to our quote engine on to one of our representatives. 
+    * to ensure that content from our site is presented in the most effective manner for you and for your computer.
+    * to administer our site and for internal business administration and operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes; 
+    * to notify you about changes to our service and to send you service emails relating to your account; 
+    * as part of our efforts to keep our site safe and secure; and 
+    * to manage and operate your account with us. 
 
-By indicating that you have read and understood this Privacy Policy, you are agreeing to allow uSwitch to pass on your personal data to the relevant supplier. 
 
-If you provide us with your information through this website, for instance by filling in one of the forms requesting us to compare insurance quotes, we shall use your information as set out in this privacy policy and in the notices we provide when you submit your information.
 
-By submitting your personal information, you consent to our use of the information as set out in this privacy policy and such notices.
+## Sharing your personal information
 
-In particular, we may need to collect your sensitive personal information to allow us to provide you with quotes, for instance information relating to criminal convictions or to your health. You consent to our use of such information for the purposes set out below.
+We may share your personal information in connection the purposes described above with any other Zoopla Group Company.
 
-If you give us your personal information, we will use it to provide you with the quote comparison information you request.
+We may also share your personal information with third parties in the following circumstances:
 
-When completing a car or home insurance comparison, uSwitch.com may use the information you supply to contact you by phone, email, SMS or otherwise about products and services which may be of interest to you. Such services could include our newsletter, exclusive offers or renewal reminders.
+  * Selected energy suppliers, insurers, insurance brokers, credit brokers and other related third parties, to enable us to obtain a quote for you. Their use of any data we provide will be governed by their own terms of use and privacy policy and by asking us to provide the relevant comparison service you are also agreeing to the relevant third parties terms and conditions and privacy policy. Information about the third parties that provide our insurance quote services and their terms and conditions and privacy policies can be found online when you obtain a quote or here. In order to provide you with a quote, some service providers may search external sources such as the electoral roll, county court judgments, bankruptcy registers, UK credit reference agencies and education sources, where relevant, to check and assess the information you provide when asking for a quote. These searches may be recorded by credit agencies but will not affect your credit standing.
+  * Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you.
+  * Advertisers and advertising networks and other third parties that require the data to select and serve relevant adverts to you and others.
+  * Analytics and search engine providers that assist us in the improvement and optimisation of our site. Your personal information is generally shared in a form that does not directly identify you.
+  * We may also share your personal information with third parties:
+  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets, along with its professional advisers. If uSwitch Limited or substantially all of its assets are acquired by a third party, personal information held by it about its customers will be one of the transferred assets.
+  * If required in order to obtain professional advice.
+  * If we are under a duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect the rights, property, or safety of uSwitch Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection.
 
-If you are not happy for your data to be used in this way, you can unsubscribe by: Click on the ‘unsubscribe’ link provided on each marketing email we send to you, or email help@uswitch.com and ask to unsubscribe from future marketing materials.
 
-Please remember that by opting out, we will not be able to contact you about products or services that may benefit you. After processing a quote, we may send you a summary of the prices received by either email or SMS. This is part of our automated service and is a condition of use of our website.
 
-If necessary the supplier might contact you to discuss your insurance or energy quotes. Without clicking 'Continue', 'Find Suppliers' or ‘Compare Quotes’ you will be unable to complete the car insurance or energy quotation process.
+We may also share with or sell to third parties aggregate information or information that does not personally identify you.
 
-If you request an Insurance quote comparison through our website, we will forward the personal information you submit to selected insurers, insurance brokers and other related third parties to enable us to obtain a quote for you.
+## Where we store your personal information
 
-The insurers may use your personal information for their own purposes, which may include contacting you by mail, telephone or email, and any use by these insurers will be subject to the insurer's own terms and conditions and/or privacy policies. 
+The information that we collect from you may be transferred to, and stored in, a country outside the European Economic Area (EEA). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. The laws in some countries may not provide as much legal protection for your information as in the EEA. By submitting your personal information, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
-We cannot provide a quote comparison to you unless we are able to share your personal information in this way.
+Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
 
-In the event that none of the companies we forward your information to are able to provide an online quotation, we may pass on your contact details to a small number of companies who may be able to provide an offline quotation according to your circumstances. 
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal information, we cannot guarantee the security of your information transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-Also, we may share your personal information with other selected third parties that may contact you directly about their products or services. We shall give you an opportunity to choose not to share your information with such selected parties before you submit your personal information. 
+## Cookies
 
-If while comparing loans or mortgages with us you provide us with your phone number, name, address and postcode, we will pass these details - and the information you have submitted on the site - on to one of our loans or mortgages brokers.
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site and to provide interest-based advertising. You may adjust the settings on your browser to refuse cookies but some of the services on our website(s) may not work if you do so. For detailed information on the cookies we use and the purposes for which we use them see our Cookie Policy.
 
-By entering this information you are agreeing for us to pass your personal data to our loans and mortgages brokers and for them to contact you by phone or email to discuss your requirements.
+## Opting Out of Collection of Information by Third Parties
 
-They will only contact you in relation to this enquiry for a limited time after you have used our service. They will not use your details for any other purpose.
+uSwitch group's third-party ad servers, ad network providers, and third-party advertisers (the Ad Providers) may provide you with advertisements that you may see on our website(s) or on other affiliated websites. To improve the relevancy and help measure the effectiveness of such advertisements, the Ad Providers may use cookies, web beacons, clear .gifs or similar technologies. These are used to record users' activity, such as the pages visited, and to learn what types of information are of most interest to the users. Use of these technologies by Ad Providers is subject to their own privacy policies and is not covered by our privacy policy. For more information regarding the choices you have about these technologies (such as opting-out), click here. 
 
-If during your visit to our business energy service, you elected to continue by accepting the terms of our Privacy Policy, we may pass the details you submitted into our web form onto one of our representatives. 
+## Your rights
 
-By indicating you have read and understood this Privacy Policy you are agreeing for us to pass your personal data to one of these representatives and for them to contact you by phone or email to discuss your requirements and provide business energy quotations.
+You have the right to ask us not to process your personal information for marketing purposes. You can exercise your right to prevent such processing by checking or unchecking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [customer-services@uswitch.com](mailto:%20customer-services@uswitch.com)
 
-Without clicking 'continue' you will be unable to complete the business energy web form process.
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal information to these websites.
 
-The representatives will only contact you in relation to this enquiry for a limited time after you have used our service. They will not use your details for any other purpose. 
+## Access to information
 
-If during your visit to the energy calculator you opted in for our marketing and told us the month of your home insurance renewal you will be called by one of our representatives in order to help you with your home insurance enquiry.
+The Act gives you the right to access personal information held about you by uSwitch Ltd. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
-We monitor traffic patterns and site usage. Under the Data Protection Act 1998 we follow strict security procedures in the storage and disclosure of information which you have given us, to prevent unauthorised access. 
+Updated: 13 May 2016
 
-For these purposes we may send your information internationally, including to countries outside the European Economic Association. Other countries offer differing levels of protection for personal information, not all of which will be as high as the levels of protection offered in the UK. 
+## uSwitch Insurance Comparison Service Providers
 
-## Accessing personal data
+uSwitch's home insurance comparison service is provided by Autonet Insurance Services Ltd, registered in England No. 3642372. Autonet Insurance Services Ltd has its registered office at Nile Street, Burslem, Stoke-on-Trent ST6 2BA United Kingdom. Autonet Insurance Services Ltd is authorised and regulated by the Financial Conduct Authority (FCA) (Registration number: 308213). By using the home insurance system you are also agreeing to AutoNet's [Terms & Conditions](https://web.archive.org/home-insurance/documents/terms-of-business.pdf) and [Privacy Policy](https://assets0.uswitch.com/s3/uswitch-assets-eu/home-insurance/privacy-policy.pdf).
 
-You can contact us to ask whether we are keeping personal data about you, by sending an email to dataprotection@uSwitch.com. Upon request, we will provide you with a readable copy of data which we hold about you. If you ask us to delete, correct or amend that personal data we will do so within a reasonable time. 
+uSwitch's life insurance comparisons service is provided by ActiveQuote Ltd who are authorised and regulated by the Financial Conduct Authority (501109). Registered Office; Cambrian Buildings, Mount Stuart Square, Cardiff CF10 5FL. By using the life insurance system you are also agreeing to ActiveQuote [Terms and Conditions](https://web.archive.org/life-insurance/quote/terms-no-header.aspx) and [Privacy Policy](https://web.archive.org/life-insurance/quote/privacy-no-header.aspx).
 
-If you have any queries relating to your personal data please contact us at: 
-
-Data Protection Officer  
-uSwitch Limited  
-Notcutt House  
-36 Southwark Bridge Road  
-London  
-SE1 9EU 
-
-Alternatively, you can call us on 0800 404 7961.
-
-## Your consent
-
-By disclosing your personal information to uSwitch.com or the motor and home insurance comparison service , you consent to the collection, storage and processing of your personal information in the manner set out in this Privacy Policy. 
-
-## Use of cookies and third-party advertising technology
-
-**1.How does uSwitch use cookies for advertising?**
-
-**a) Non-personalised uSwitch online banner advertising**
-
-We use third-party advertising technology to serve ads when you visit our website and sites upon which we advertise. This technology uses information about your visits to this website and the sites upon which we advertise to serve our ads to you. 
-
-In the course of serving our advertisements to you, a unique third-party cookie may be placed or recognized on your browser. In addition, we use web beacons, provided by our third-party ad server, to help manage and optimise our online advertising.
-
-These web beacons enable our ad server, on our behalf or on behalf of our agent, to recognize a browser's cookie when a browser visits this site, and to learn which banner ads bring users to our website. 
-
-Our third-party ad server is performing its functions on our behalf or on behalf of our agent, and we may, directly or indirectly, instruct such ad server to enable other service providers to receive information about our site related to our online advertising. 
-
-**b) Personalised gas & electricity results advertisements**
-
-Part of this activity includes personalised retargeting display advertisements, which use information collected from your visit to uSwitch to make them more relevant to you. They also provide you with an easy way to revisit the results you saw during your comparison. 
-
-We understand privacy is very important to our customers, and want to reassure you that we do not share personally identifiable information with 3rd parties while providing this service. 
-
-If you wish to opt-out of receiving these personalised adverts, please [click here](http://www.struq.com/consumer-opt-out/ "This link will open in a new window.") . 
-
-**c) Further information/questions relating to online advertising?**
-
-The IAB (Internet Advertising Bureau) has put together a great resource for information on behavioural advertising: how it works, further information about cookies, and steps you can take to protect your privacy on the internet. To learn more, [click here](http://www.youronlinechoices.com/uk/ "This link will open in a new window.") . 
-
-You can also contact us directly with queries relating to online advertising by sending an email to [privacy@uswitch.com](mailto:privacy@uswitch.com) . 
-
-**2\. How does uSwitch use cookies?**
-
-uSwitch collects information about your preferences in relation to this site by analysing site traffic, which includes the use of cookies.
-
-A cookie is text file which is stored on your computer and is sent by a web server to a web browser, which enables the server to collect information back from the browser. This enables us to identify if you have visited uSwitch before. 
-
-We use cookies to help us analyse traffic on our site and customer behaviour. Cookies may also be used by our partners to understand marketing and traffic patterns.
-
-During the course of any visit to uSwitch, the pages you see, along with a cookie, are downloaded to your computer. Any information that is supplied by cookies can help us to provide you with a better service and assists us in analysing the profile of our visitors. 
-
-Most web browsers automatically accept cookies, but normally you can alter your browser settings to prevent automatic acceptance, if you prefer. If you opt not to receive our cookies, we cannot guarantee that your experience with our website will be as quick or responsive as if you do receive cookies. 
-
-We do not store passwords or any other information about a visitor in a cookie that could identify them, their location, their preferences or their financial activity. 
-
-**3\. How to find and control your cookies**
-
-If you're using **Internet Explorer 6.0 or 7.0** : 
-
-1\. Choose Tools, then
-
-2\. Internet Options
-
-3\. Click the Privacy tab
-
-4\. Click on the 'Advanced' button
-
-5\. Check the 'Override automatic cookie handing' box and select Accept, Block or Prompt for action as appropriate. 
-
-If you're using **Mozilla Firefox** : 
-
-1\. Choose Tools, then
-
-2\. Options...
-
-3\. Privacy
-
-4\. Cookies
-
-5\. Set your options as required
-
-If you're using **Opera 8+** : 
-
-1\. Choose Tools, then
-
-2\. Preferences
-
-3\. Advanced
-
-4\. Select Cookies
-
-5\. Select your settings using the available options
-
-If you're using **Safari** : 
-
-1\. Choose Safari, then
-
-2\. Preferences
-
-3\. Security
-
-4\. Select options by Accept Cookies as required.
-
-4\. How do you know which of the sites you've visited use cookies? 
-
-If you're using **Internet Explorer** : 
-
-1\. Choose Tools, then
-
-2\. Internet Options
-
-3\. Click the General tab
-
-4\. Click Settings
-
-5\. View Files.
-
-If you're using **Mozilla Firefox** : 
-
-1\. Choose Tools, then
-
-2\. Options...
-
-3\. Privacy
-
-4\. Cookies
-
-5\. Click the Show Cookies button.
-
-If you're using **Opera 8+** : 
-
-1 Choose Tools, then
-
-2\. Advanced
-
-3\. Click Cookies.
-
-If you're using **Safari** : 
-
-1\. Choose Safari, then
-
-2\. Preferences
-
-3\. Security
-
-4\. Click Show Cookies button.
-
-5\. How to see your cookie code
-
-Just click on a cookie to open it. You'll see a short string of text and numbers. The numbers are your identification card, which can only be seen by the server that gave you the cookie. 
-
-Rights are reserved to amend or modify the privacy statement at any time and in response to changes in applicable data protection and privacy legislation. 
+uSwitch's health insurance comparisons service is provided by ActiveQuote Ltd who are authorised and regulated by the Financial Conduct Authority (501109). Registered Office; Cambrian Buildings, Mount Stuart Square, Cardiff CF10 5FL. By using the health insurance system you are also agreeing to ActiveQuote [Terms and Conditions](https://web.archive.org/health-insurance/quote/terms-no-header.aspx) and [Privacy Policy](https://web.archive.org/health-insurance/quote/privacy-no-header.aspx).
