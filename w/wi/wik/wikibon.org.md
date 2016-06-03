@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wikibon.org privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205071241id_/http%3A//wikibon.org/wiki/v/Wikibon%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikibon.org privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603223532id_/http%3A//wikibon.org/wiki/v/Wikibon%3APrivacy_policy) for the most accurate reproduction.*
 
 # Wikibon:Privacy Policy - Wikibon
 
