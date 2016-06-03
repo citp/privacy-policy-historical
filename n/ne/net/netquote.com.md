@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netquote.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205193042id_/http%3A//www.netquote.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netquote.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604011356id_/http%3A//www.netquote.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NetQuote
 
@@ -161,7 +161,8 @@ If you have questions or concerns about our privacy practices or wish to make a 
 Individuals who are residents of California and have provided their personally identifiable information to us may request information regarding our disclosures, if any, of their personally identifiable information to third parties for direct marketing purposes. Such requests must be submitted to us at [info@insurancequotes.com](mailto:info@insurancequotes.com) or in writing at:
 
 iQ Holdings, LLC  
-1860 Blake St. Suite 900  
-Denver, CO 80202
+7300 RM 2222  
+Building 2, Suite 100  
+Austin, TX 78730
 
 California privacy rights requests must include the reference "Request for California Privacy Information" on the subject line and in the body of the message and must include the email address or mailing address, as applicable, for us to send our response. This request may be made no more than once per calendar year. We reserve the right not to respond to requests submitted other than to the address specified above.
