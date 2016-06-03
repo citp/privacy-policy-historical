@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quizony.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218203630id_/http%3A//www.quizony.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizony.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603214104id_/http%3A//www.quizony.com/privacy.html) for the most accurate reproduction.*
 
 # Quizony - privacy policy
 
@@ -7,8 +7,13 @@ Fair Information Practices
 Fair information  
 Practices 
 
-This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.  
+This website is owned and operated by  
+Horabik Programowanie Jan Horabik  
+ul. Dominikanska 21B  
+02-738 Warszawa, POLAND  
+[contact@quizony.com](mailto:thequizony@gmail.com)
 
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
 **What personal information do we collect from the people that visit our blog, website or app?**
 
@@ -151,6 +156,6 @@ We will notify the users via in site notification
 
 We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors. 
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
+If there are any questions regarding this privacy policy you may send us an email at [ contact@quizony.com](mailto:contact@quizony.com)
 
 Last Edited on 2014-09-29. 
