@@ -1,142 +1,95 @@
-> *The following text is extracted and transformed from the earnably.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117181208id_/http%3A//earnably.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earnably.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604060538id_/http%3A//earnably.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy — Earnably
+# Earnably — Privacy Policy
 
-## 1\. Introduction #
+[](https://web.archive.org/)
 
-**1.1** We are committed to guarding the privacy of our all of our website visitors. In the following policy we will outline our procedures on how we will treat your personal information.
+**Last updated: March 27, 2016**
 
-**1.2** We will request you to consent to our use of cookies in accordance with the terms of this policy when you first visit our website. By the use of our website you consent to our use of cookies in accordance with the terms of this policy.
+Forma Creative, LTD. ("us", "we", or "our") operates the http://earnably.com website (the "Service"). 
 
-## 2\. Website #
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service. 
 
-**2.1** This policy is set out for the use of and should be interpreted by users for Earnably.com.
+We will not use or share your information with anyone except as described in this Privacy Policy. 
 
-## 3\. Collecting personal information #
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at [http://earnably.com/terms/](https://web.archive.org/terms/)
 
-**3.1** We may collect, store and use the following kinds of personal information:
+**Information Collection And Use#**
 
-(a) information regarding your computer specifications and about your use of this website (including [your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation paths.  
-(b) Information that you provide to us when registering with our website (including your email address.)  
-(c) Information that you provide when completing your profile on our website including your name, profile pictures, gender, date of birth.  
-(d) Information that you provide to us for the purpose of subscribing to our email notifications or newsletters.  
-(e) Information that you provide to us when using the services on our website, or that is generated in the course of the use of those services (including the timing, frequency and pattern of service use)  
-(f) information relating to any purchases you make of our goods and services or any other transactions that you enter into through our website.
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, username, date of birth, gender, other information ("Personal Information”). 
 
-## 4\. Using your personal information #
+The username you choose when creating an account may be displayed publicly on our site. 
 
-**4.1** Personal information submitted to us will be used for the purposes specified in this policy or on the relevant pages of the website.
+**Log Data#**
 
-**4.2** We may use your personal information to:
+We may also collect information that your browser sends whenever you visit our Service ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, location, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics. 
 
-(a) administer our website and business  
-(b) enable your use of the services available on our website  
-(c) send you goods purchased through our website  
-(d) supply to you services purchased through our website  
-(e) send statements, invoices and payment reminders to you, and collect payments from you  
-(f) send you non-marketing commercial communications  
-(g) send you our email newsletter  
-(h) send you marketing communications relating to our business.  
-(i) provide third parties with statistical information about our users (but those third parties will not be able to identify any individual user from that information.  
-(j) deal with enquiries and complaints made by or about you relating to our website;  
-(k) keep our website secure and prevent fraud
+In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service's functionality. These third party service providers have their own privacy policies addressing how they use such information. 
 
-**4.3** We will not, without your express consent, supply your personal information to any third party for the purpose of any other third party's direct marketing.
+**Cookies#**
 
-## 5\. Disclosing personal information #
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer's hard drive. 
 
-**5.1** We may disclose your personal information to as reasonably necessary for the purposes set out in this policy.
+We use "cookies" to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service. 
 
-**5.2** We may disclose your personal information to any member of our group of companies for the purposes set out in this policy.
+**DoubleClick Cookie#**
 
-**5.3** We can disclose your personal information:
+Google, as a third party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet. 
 
-(a) Where required by law  
-(b) To a person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal information where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal information.
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: http://www.google.com/ads/preferences/ 
 
-**5.4** Except as provided in this policy, we will not provide your personal information to third parties.
+**Service Providers#**
 
-## 6\. International data transfers #
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used. 
 
-**6.1** Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this policy.
+These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. 
 
-**6.2** Personal information that you publish on our website or submit for publication on our website may be available, via the internet, around the world. We cannot prevent the use or misuse of such information by others.
+**Communications#**
 
-**6.3** You hereby agree to the transfers of personal information described in this section.
+We may use your Personal Information to contact you with non-marketing commercial communications, newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send. 
 
-## 7\. Personal information #
+**Compliance With Laws#**
 
-**7.1** Personal information that we process for any purpose or purposes shall not be kept for longer than is necessary for that purpose or those purposes.
+We will disclose your Personal Information where required to do so by law or in accordance with an order of a court of competent jurisdiction, or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service. 
 
-**7.2** We will retain documents containing personal data:
+**Security#**
 
-(a) to the extent that we are required to do so by law;  
-(b) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk).
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security. As such we make no warranties as to the level of security afforded to your data, except that we will always act in accordance with the relevant UK and EU legislation. 
 
-## 8\. Security of your personal information #
+**International Transfer#**
 
-**8.1** We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
+Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction. 
 
-**8.2** We will store all the personal information you provide on our secure servers.
+If you are located outside United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to United States and process it there. 
 
-**8.3** You acknowledge that the transmission of information over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer. 
 
-## 9\. Future amendments #
+In the event that a dispute arises with regards to the international transfer of data, you agree that the courts of England and Wales shall have exclusive jurisdiction over the matter. 
 
-**9.1** We may update this policy from time as we see necessary from time by publishing a new version on our website.
+**Links To Other Sites#**
 
-**9.2** You should check this page occasionally to ensure you are happy with any changes to this policy.
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit. 
 
-## 10\. Your rights #
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services. 
 
-**10.1** You may instruct us to provide you with any personal information we hold about you; provision of such information will be subject to:
+**Children's Privacy#**
 
-(a) the supply of appropriate evidence of your identity
+Our Service does not address anyone under the age of 13 ("Children"). 
 
-**10.2** We may withhold personal information that you request to the extent permitted by law.
+We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a children under age 13 without verification of parental consent, we take steps to remove that information from our servers. 
 
-## 11\. Third party websites #
+**Changes To This Privacy Policy#**
 
-**11.1** Our website includes hyperlinks to, and details of, third party websites.
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. 
 
-**11.2** We have no control over, and are not responsible for, the privacy policies and practices of third parties.
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page. 
 
-**11.3** We work with third parties who may collect user data for conversion tracking and serving ads targeted to users’ interests. You can opt-out of any third party interest-based advertising by contacting us. 
+If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website. 
 
-## 12\. Updating information #
+**Jurisdiction#**
 
-**12.1** Please let us know if the personal information that we hold about you needs to be corrected or updated.
+This Policy shall be governed and construed in accordance with the laws of England and Wales, without regard to its conflict of law provisions. 
 
-## 13\. Cookies #
+Contact Us 
 
-**13.1** Our website is subject to the use of cookies.
-
-**13.2** A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server.
-
-**13.3** Cookies may be either "persistent" cookies or "session" cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.
-
-**13.4** Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
-
-**13.5** We use session cookies / persistent cookies / both session and persistent cookies on our website.
-
-**13.6** Most browsers allow you to refuse to accept cookies; for example: 
-
-(a) in Internet Explorer (version 10) you can block cookies using the cookie handling override settings available by clicking "Tools", "Internet Options", "Privacy" and then "Advanced";
-
-(b) in Firefox (version 24) you can block all cookies by clicking "Tools", "Options", "Privacy", selecting "Use custom settings for history" from the drop-down menu, and unticking "Accept cookies from sites"; and
-
-(c) in Chrome (version 29), you can block all cookies by accessing the "Customise and control" menu, and clicking "Settings", "Show advanced settings" and "Content settings", and then selecting "Block sites from setting any data" under the "Cookies" heading.
-
-**13.7** Blocking all cookies will have a negative impact upon the usability of many websites.
-
-**13.8** If you block cookies, you will not be able to use all the features on our website.
-
-**13.9** You can delete cookies already stored on your computer; for example:
-
-(a) in Internet Explorer (version 10), you must manually delete cookie files (you can find instructions for doing so at <http://support.microsoft.com/kb/278835>);
-
-(b) in Firefox (version 24), you can delete cookies by clicking "Tools", "Options" and "Privacy", then selecting "Use custom settings for history", clicking "Show Cookies", and then clicking "Remove All Cookies"; and
-
-(c) in Chrome (version 29), you can delete all cookies by accessing the "Customise and control" menu, and clicking "Settings", "Show advanced settings" and "Clear browsing data", and then selecting "Delete cookies and other site and plug-in data" before clicking "Clear browsing data".
-
-**13.10** Deleting cookies will have a negative impact on the usability of many websites.
+If you have any questions about this Privacy Policy, please [contact us](mailto:support@earnably.com). 
