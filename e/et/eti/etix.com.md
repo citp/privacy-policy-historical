@@ -1,33 +1,69 @@
-> *The following text is extracted and transformed from the etix.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522031630id_/http%3A//www.etix.com/ticket/online/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etix.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604213204id_/http%3A//www.etix.com/ticket/online3/privacy-policy.jsp) for the most accurate reproduction.*
 
-# ETIX.COM | Privacy Policy
+# Etix.com | Privacy Policy
 
-Etix.com understands that your right to privacy is a very important. We have created this privacy statement in order to demonstrate our continued commitment to your privacy.
+Privacy Policy 
 
-## Cookies
+**Last Updated: March 1, 2016**
 
-Our site uses cookies to keep track of your purchases. We may use cookies to save your membership password, to deliver content designed to match your interests, and for various other purposes relating to your transactions on the Site.
+Etix understands that your right to privacy is very important. This privacy policy applies to our Site and the apps where it appears. It describes how we treat personal and private information which we collect. This policy should be read in conjunction with our [Terms](https://web.archive.org/web/20160604213204id_/http%3A//www.etix.com/ticket/online3/terms.jsp) and, where applicable, our [purchase policy](https://web.archive.org/web/20160604213204id_/http%3A//www.etix.com/ticket/online3/purchase-policy.jsp). 
 
-## Your Internet Protocol (IP) Address
+Collected Information 
 
-Etix.com uses your IP address to help with problems and for identification purposes only.
+Etix may collect information from and about you, including but not limited to… 
 
-## Information You Give Etix.com
+  * Your name, street address, or other contact information
+  * Your credit card number, billing zip code, and other payment and billing information
+  * Information you post on our website or a third-party social media site
+  * Information about events you like, products you buy, or other demographic information
+  * Information about the browser you’re using to access our Site, which site you came from or where you went after, location information or your type of mobile device, etc
 
-Etix.com's forms require you to give us certain contact information such as your name, address, email address, and credit card number. Sometimes, we may need you to provide us with additional information, such as an Etix.com member password, or demographic information such as your age or income level.
 
-## Contact Information
 
-Etix.com may use your contact information to contact you about any aspect of your financial transaction. Information may also be used by the shipping company, when applicable, to deliver your tickets. Your contact information is provided to the venue and promoters of the event for which you purchase tickets. The purpose of releasing your name and email address to the promoter or venue is so that you may be contacted regarding special offers or upcoming events. Etix.com may also use your information to send you information and offers from our company and promotional material from some of our clients. We will strive to make sure this information is of value to you. 
+How We Collect Information 
 
-## How Etix.com Uses Financial Information
+Etix may collect information… 
 
-Any financial information that is given to Etix.com will be used only in the processing and delivery of your tickets. The information you provide will be used to verify the transaction and receive the money directly from your credit card company. Some financial information may be used by Etix.com to identify the customer at the venue (e.g. your last four credit card digits used to identify that you are the person who purchased the ticket). Under NO circumstances will Etix.com ever release any of your credit card information to a third party. If you would rather that Etix.com not release any of your information to third parties, you must request this in writing by regular mail or email. In the written request, please provide include your name, address, and email address. The request must also state, "I do not wish to have Etix.com release any of my personal information to third parties, nor do I wish Etix.com to disclose any further information about me." If sending an email request, it must be sent from the same email address listed on your account to ensure security. 
+  * Directly from you if you register, post on our Site, ask us a question, etc
+  * By using browser cookies, web beacons, and other browser tracking tools
+  * From third parties if you use an integrated social media feature on our website or app
 
-## Links
 
-Etix.com's website may contain links to other websites of interest. However, we are not responsible for the content, privacy policies, or security of any other websites. 
 
-## Security
+How We Use Information 
 
-At Etix.com e-commerce is a way of life. We have utilized all of the latest technological advances to ensure that your transaction is secure. Our Secure Socket Layer (SSL) software is the best available today for secure electronic commerce transactions. It encrypts all of your information, including your credit card number, so that it cannot be read as the information travels over the Internet. If you have any questions about our security, please contact us at support@etix.com or 1-919-653-0444. We have one of the most secure sites on the Internet. 
+Etix may use the information we collect… 
+
+  * To respond to your questions or requests
+  * To improve our products and services
+  * To look at site trends and customer interests
+  * For security purposes
+  * For marketing purposes
+    * You may opt-out of having your online behavior tracked for advertising purposes. To learn more, click [here](http://www.aboutads.info/choices).
+  * For transactional communications
+  * As otherwise permitted by law
+
+
+
+Sharing Information 
+
+Etix may share the information we collect… 
+
+  * With third parties who perform services on our behalf
+  * With our business partners
+  * If we believe we must in order to comply with the law
+  * With a successor to all or part of our business
+
+
+
+Security 
+
+At Etix, e-commerce is a way of life. We understand the importance of online security and utilize the latest advances in technology to ensure your transaction is secure. We address security through “defense in depth”, where we employ a collection of complementary and interlocking methods to keep your information secure and protected. Furthermore, Etix maintains compliance with current security standards, including PCI-compliance. While the Internet is never 100% secure, Etix works constantly to stay on the forefront of online security through multiple levels of encryption and regular external vulnerability scans. For your own protection, use caution when using the Internet and remember: never share your Etix account information. 
+
+Etix complies with the US-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Etix has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, and enforcement. To learn more about the Safe Harbor program, and to view Etix’ certification, please visit <http://www.export.gov/safeharbor/>. 
+
+Questions 
+
+If you have any questions about our privacy policy, please contact us at [support@etix.com](mailto:support@etix.com) or 1-800-514-3849. 
+
+© Sat Jun 04 17:32:04 EDT 2016 Etix, Inc. All rights reserved. 
