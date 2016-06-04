@@ -1,25 +1,41 @@
-> *The following text is extracted and transformed from the embedr.com privacy policy that was archived on 2014-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141001042721id_/http%3A//embedr.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the embedr.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604044614id_/http%3A//embedr.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Embedr, Create Custom Video Playlists
+# Privacy Policy | Embedr.com
 
-Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
+## Privacy Policy:
 
-### The Information We Collect
+Embedr.com (" **Embedr.com** ") operates Embedr.com and may operate other websites. It is Embedr.com's policy to respect your privacy regarding any information we may collect while operating our websites.
 
-You can register with our website if you would like to save your playlists and/or access other advanced features. Information you submit on our website will only be used to access your account. The types of personal information collected at these pages are: Email address, Password.
+### Website Visitors
 
-### The Way We Use Information:
+Like most website operators, Embedr.com collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Embedr.com's purpose in collecting non-personally identifying information is to better understand how Embedr.com's visitors use its website. From time to time, Embedr.com may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-We use the information you provide about yourself when registering as a member to complete the registration process. We do not share this information with outside parties except to the extent necessary to provide our advertisers with aggregated data about our website.
+Embedr.com also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on Embedr.com blogs/sites. Embedr.com only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
 
-### Our Commitment to Data Security
+### Gathering of Personally-Identifying Information
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+Certain visitors to Embedr.com's websites choose to interact with Embedr.com in ways that require Embedr.com to gather personally-identifying information. The amount and type of information that Embedr.com gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [Embedr.com](http://embedr.com/) to provide a username and email address. Those who engage in transactions with Embedr.com are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Embedr.com collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Embedr.com. Embedr.com does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-### Third Party Cookies
+### Aggregated Statistics
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+Embedr.com may collect statistics about the behavior of visitors to its websites. Embedr.com may display this information publicly or provide it to others. However, Embedr.com does not disclose personally-identifying information other than as described below.
 
-### How To Contact Us
+### Protection of Certain Personally-Identifying Information
 
-Should you have other questions or concerns about these privacy policies, please [contact us](http://embedr.com/contact).
+Embedr.com discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Embedr.com's behalf or to provide services available at Embedr.com's websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Embedr.com's websites, you consent to the transfer of such information to them. Embedr.com will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Embedr.com discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Embedr.com believes in good faith that disclosure is reasonably necessary to protect the property or rights of Embedr.com, third parties or the public at large. If you are a registered user of an Embedr.com website and have supplied your email address, Embedr.com may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with Embedr.com and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Embedr.com takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+
+### Cookies
+
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Embedr.com uses cookies to help Embedr.com identify and track visitors, their usage of Embedr.com website, and their website access preferences. Embedr.com visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Embedr.com's websites, with the drawback that certain features of Embedr.com's websites may not function properly without the aid of cookies.
+
+### Business Transfers
+
+If Embedr.com, or substantially all of its assets, were acquired, or in the unlikely event that Embedr.com goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Embedr.com may continue to use your personal information as set forth in this policy.
+
+### Ads
+
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Embedr.com and does not cover the use of cookies by any advertisers.
+
+### Privacy Policy Changes
+
+Although most changes are likely to be minor, Embedr.com may change its Privacy Policy from time to time, and in Embedr.com's sole discretion. Embedr.com encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a Embedr.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
