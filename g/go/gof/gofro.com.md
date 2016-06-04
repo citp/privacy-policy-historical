@@ -1,11 +1,29 @@
-> *The following text is extracted and transformed from the gofro.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127025329id_/https%3A//www.domainmarket.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gofro.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605013626id_/http%3A//www.gofro.com/info/privacypolicy) for the most accurate reproduction.*
 
-# Domain Name Privacy Policy & Protection Information | DomainMarket.com
+# Privacy Policy
 
-## DomainMarket.com Privacy Policy
+We value the trust you place in gofro.com. That's why we insist upon the highest standards for secure transactions and customer information privacy. Note: Our privacy policy is subject to change at any time without notice.
 
-DomainMarket.com collects and maintains certain information (including e-mail addresses, IP addresses, names, geographic information, etc.) on many of its Websites and via price request and other forms (online and offline). This is done to help us provide our customers with the best customer service and with valuable information regarding relevant products and services from DomainMarket and appropriate third parties.
+#### Collection of Personally Identifiable Information
 
-DomainMarket.com is dedicated to protecting personal information and will make every reasonable effort to handle collected information appropriately. All information collected, as well as related requests, will be handled as carefully and efficiently as possible in accordance with DomainMarket.com's standards for integrity and objectivity. Email originating at DomainMarket.com contains clear and efficient instructions for opting out of future emails of its kind.
+We collect personally identifiable information (email address, name phone number, etc.) from you when you set up a free account with Gofro.com. While you can browse some sections of our site without being a registered member, certain activities (such as placing an order) do require registration. We do use your contact information to send you offers based on your previous orders and your interests.
 
-If you need assistance in updating the information you have provided to DomainMarket.com or you have questions or comments about these policies, contact DomainMarket.com's manager of customer information at [sales@domainmarket.com](mailto:sales@domainmarket.com).
+#### Use of Demographic and Profile Data
+
+We use personal information to provide the services you request. We use your personal information to troubleshoot problems; collect fees owed; measure interest in our products and services, inform you about online and offline offers and customize your experience. In our efforts to continually improve our product and service offerings, we collect and analyze demographic and profile data about our users' activity on our website. We identify and use your IP address to help diagnose problems with our server, and to administer our website.
+
+Cookies
+
+A "cookie" is a small piece of information stored by a Web server on a Web browser so it can be later read back from that browser. Cookies are useful for enabling the browser to remember information specific to a given user. Gofro.com places both permanent and temporary cookies in your computer's hard drive. Gofro.com's cookies do not contain any of your personally identifiable information.
+
+#### Security Precautions
+
+Our site has stringent security measures in place to protect the loss, misuse, and alteration of the information under our control. Whenever you change or access your account information, we offer the use of a secure server. Once your information is in our possession we adhere to strict security guidelines, protecting it against unauthorized access.
+
+#### Choice/Opt-Out
+
+GoFro.com provides all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our partners, and from us in general, after setting up an account.
+
+#### Questions?
+
+Questions regarding this statement should be directed to the following address: contactus@gofro.com
