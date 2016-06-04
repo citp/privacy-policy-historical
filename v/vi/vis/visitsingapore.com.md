@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitsingapore.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611013321id_/http%3A//www.yoursingapore.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitsingapore.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604091743id_/http%3A//www.yoursingapore.com/en_au/privacy.html) for the most accurate reproduction.*
 
 # Privacy – YourSingapore
 
