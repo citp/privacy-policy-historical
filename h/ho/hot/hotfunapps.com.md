@@ -1,28 +1,33 @@
-> *The following text is extracted and transformed from the hotfunapps.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205055534id_/http%3A//hotfunapps.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotfunapps.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605010926id_/https%3A//hotfunapps.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy - Best Fun Apps on Facebook
+# Terms & Conditions - Hot Fun Apps on Facebook
 
-## HotFunApps.com - Privacy Policy
+## Hot Fun Apps - Privacy Policy
 
-The text below shows Privacy Policy for the Apps that you use on HotFunApps.com. This privacy policy sets out how HotFunApps uses and protects any information that you give for HotFunApps Applications when you use them. HotFunApps is committed to ensuring that your privacy is protected. When we ask you to provide certain information while authenticating the app and issuing certain permission by which you can be identified while using Applications, then you can be assured that it will only be used in accordance with this privacy statement. 
+  
+
+
+The text below shows Privacy Policy for the Apps that you use on Hot Fun Apps. This privacy policy sets out how Hot Fun Apps uses and protects any information that you give for Hot Fun Apps Applications when you use them. Hot Fun Apps is committed to ensuring that your privacy is protected. When we ask you to provide certain information while authenticating the app and issuing certain permission by which you can be identified while using Applications, then you can be assured that it will only be used in accordance with this privacy statement. 
 
 HotFunApps may change this policy from time to time by updating this section. This privacy policy was last updated on 2nd June 2013. If we make any material changes to our policies, then we will either put message on our website or you need to check this section in order to comply with our policies. 
 
 #### _What Data we collect?_
 
-We may collect the following data from your profile:
+We may collect the following data from your profile: 
 
   * We are collecting your basic profile information mainly your facebook profile photo, name, country, location.
 
+  
 
 
 #### _What we do with the Data we collected?_
 
-We require this data to understand your needs and provide you with a good experience while using our Apps, and in particular way for the reasons below:
+We require this data to understand your needs and provide you with a good experience while using our Apps, and in particular way for the reasons below: 
 
   * We use your basic informations to create funny photos which can be download! 
   * We require your certain information for the application you use to work
 
+  
 
 
 #### _How do we protect your information?_
@@ -32,16 +37,17 @@ We ensures at it best to keep your information secure. The use of this informati
   * We never get any sensitive details such as passwords.
   * We never store any details of facebook users.
 
+  
 
 
 #### _Do we disclose any information to outside parties?_
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. None of your informations are stored in our database.   
-HotFunApps.com will not be responsible for any illegal activities on facebook. We never upload any data to facebook. By using our site, you consent to our privacy policy. 
+Hot Fun Apps will not be responsible for any illegal activities on facebook. We never upload any data to facebook. By using our site, you consent to our privacy policy.  
 
-#### _3rd Party Advertisements and their Cookies:_
+####  _3rd Party Advertisements and their Cookies:_
 
-Ad companies may use and collect anonymous data about your interests to customize content and advertising here and in other sites and applications. Interest and location data may be linked to your device, but is not linked to your identity. Third Party companies have their own Privacy Policies, Click to see company privacy policies:
+Ad companies may use and collect anonymous data about your interests to customize content and advertising here and in other sites and applications. Interest and location data may be linked to your device, but is not linked to your identity. Third Party companies have their own Privacy Policies, Click to see company privacy policies: 
 
   * [LifeStreet Media Privacy Policy](http://lifestreetmedia.com/privacy/)
 
@@ -57,10 +63,12 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
   * <http://www.networkadvertising.org/managing/opt_out.asp>
 
+ 
 
+####  _Contact:_
 
-#### _Contact:_
+If you have any questions regarding privacy policy or queries please contact us via email at playadda@gmail.com  
 
-If you have any questions regarding privacy policy or queries please contact us via email at info@mygoldengoa.com
+#####  **Last Updated: 21st January 2016**
 
-##### **Last Updated: 2nd June 2014**
+ 
