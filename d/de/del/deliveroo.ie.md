@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deliveroo.ie privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229032305id_/https%3A//deliveroo.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliveroo.ie privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604133103id_/https%3A//deliveroo.ie/privacy) for the most accurate reproduction.*
 
 # Deliveroo | Privacy
 
