@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefryecompany.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226092937id_/http%3A//www.thefryecompany.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefryecompany.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604152627id_/http%3A//www.thefryecompany.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FRYE
 
@@ -155,7 +155,7 @@ We do NOT sell products for purchase by children under 13 through thefryecompany
 
 Love your Fryes or send them back for a full refund,
 
-completely free, within 30 days.
+completely free, within 30 days.*
 
 * * *
 
@@ -163,6 +163,9 @@ completely free, within 30 days.
 
 return policy and repair program.
 
-### Thank you for signing up for our newsletter
+***Free returns valid on US orders only.**
 
-Thank you for subscribing to our email list!
+### Thank you for signing up for our newsletter!
+
+For a tailored experience (and a birthday treat!),   
+tell us more about you...
