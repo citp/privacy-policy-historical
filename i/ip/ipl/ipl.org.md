@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipl.org privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230042327id_/http%3A//ipl.org/div/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipl.org privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604045626id_/http%3A//www.ipl.org/div/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement: Agreement to Conditions of Use of ipl2 - About ipl2
 
