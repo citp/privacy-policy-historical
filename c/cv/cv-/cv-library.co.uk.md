@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cv-library.co.uk privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101015256id_/http%3A//www.cv-library.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cv-library.co.uk privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604065933id_/http%3A//www.cv-library.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - UK jobs, Careers, Recruitment - CV-Library
 
@@ -67,3 +67,10 @@ You may unsubscribe from any employment or promotional information that we may s
 Any further queries should be directed through our contact form
 
 You can remove any of the information that CV-Library stores about you, at any time, by logging in to your CV-Library account and hoosing to delete the account.
+
+## See Also:
+
+  * [CV-Library Terms & Conditions](https://web.archive.org/terms)
+  * [CV-Library Cookie Policy](https://web.archive.org/cookies)
+
+
