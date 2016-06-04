@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wheniwork.com privacy policy that was archived on 2015-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151019080546id_/http%3A//wheniwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wheniwork.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604055842id_/http%3A//wheniwork.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | When I Work
 
@@ -10,7 +10,7 @@ When I Work, Inc. (“When I Work,” “we” or “us”) is committed to prot
 
   1. Information We Collect and Use
   2. Sharing Information
-  3. Your Choices Reguarding Your Information
+  3. Your Choices Regarding Your Information
   4. Security and Storage of Information
   5. Persons Under the Age of 13
   6. Links to Third Party Websites
@@ -60,7 +60,7 @@ We may share your personal information with:
 
 We may also share information with others in an aggregated and anonymous form that does not reasonably identify you directly as an individual.
 
-## 3\. Your Choices Reguarding Your Information
+## 3\. Your Choices Regarding Your Information
 
 ### Profile and Data Sharing Settings.
 
