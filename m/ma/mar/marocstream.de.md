@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marocstream.de privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205181008id_/http%3A//www.marocstream.de/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marocstream.de privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604150130id_/http%3A//www.marocstream.de/privacypolicy) for the most accurate reproduction.*
 
 # MarocStream Privacy Policy | MarocStream
 
