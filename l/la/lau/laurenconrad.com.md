@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the laurenconrad.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207154230id_/http%3A//laurenconrad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laurenconrad.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604203046id_/https%3A//laurenconrad.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Lauren Conrad
+# Privacy – Lauren Conrad
 
 EFFECTIVE DATE: February 13, 2014
 
@@ -52,5 +52,3 @@ By using our site, you consent to our privacy policy. ** **
 If we decide to change our privacy policy, we will post those changes on this page.
 
 If you have any questions about our privacy policy email them at laurenconradeditorial@gmail.com
-
-top
