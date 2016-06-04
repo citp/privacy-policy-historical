@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bassresource.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908034522id_/http%3A//www.bassresource.com/fish/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bassresource.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604210015id_/http%3A//www.bassresource.com/fish/Privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement | The Ultimate Bass Fishing Resource Guide® LLC
+# Privacy Statement & Anti-Spam Policy | The Ultimate Bass Fishing Resource Guide® LLC
 
 The Ultimate Bass Fishing Resource Guide®; has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.
 
@@ -28,6 +28,41 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 ## Choice/Opt-Out
 
-This site gives users the following contact for removing their information from our database or to change and modify information previously provided. If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [Contact us](mailto:bass@bassresource.com)
+This site gives users the following contact for removing their information from our database or to change and modify information previously provided.
+
+  * To Unsubscribe from our newsletter, please use [this form](http://www.bassresource.com/newsletter/?p=unsubscribe&id=1).
+  * To Unsubscribe from contest notifications, please use [this form](http://www.bassresource.com/newsletter/?p=unsubscribe&id=3).
+  * To change your notification settings in the forums, including opting out of forum email announcements and notifications, log in, then click your name in the upper right, click "profile", then "edit profile".  You may customize your email notifications there.
+
+
+
+## Anti-Spam Policy
+
+BassResource.com has a zero-tolerance spam policy.
+
+ **Automated spam filtering**
+
+ BassResource.com's messaging systems automatically scan all incoming email [and other] messages, and filter-out messages that appear to be spam. 
+
+ **Problems with spam filtering**
+
+No message filtering system is 100% accurate, and from time to time legitimate messages will be filtered-out by BassResource’s systems. If you believe this has happened to a message you have sent, please advise the message recipient by another means.
+
+You can reduce the risk of a message being caught by the spam filters by sending the message in plain text (i.e. no HTML), removing any attachments, and ensuring that your messages are scanned for malware before dispatch.
+
+ **Receipt of unwanted messages from BassResource.com**
+
+In the unlikely event that you receive any message from BassResource.com or sent using BassResource’s systems that may be considered to be spam, please contact BassResource.com using the details below and the matter will be investigated.
+
+ **Changes to this anti-spam policy**
+
+BassResource.com may amend this anti-spam policy at any time by publishing a new version on this website.
+
+ **Contact us  **
+
+Should you have any questions about this anti-spam policy, please contact BassResource.com using [this form](http://www.bassresource.com/bass-fishing-forums/contact/)
 
 In addition to this notice, you encouraged to read the [Terms and Conditions](http://www.bassresource.com/fish/copyright.html) of this site. You are bound by such provisions and should therefore periodically visit this page.
+
+Grow your fishing skills and improve your angling effectiveness.   
+[Subscribe](http://www.bassresource.com/newsletter.html "Subscript") to the free weekly BassResource newsletter.
