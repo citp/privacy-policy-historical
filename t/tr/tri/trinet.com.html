@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the trinet.com privacy policy that was archived on 2015-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151221135947id_/http%3A//www.trinet.com/company/terms.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trinet.com privacy policy that was archived on 2016-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160604121558id_/http%3A//www.trinet.com/company/terms.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -19,7 +19,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 	<!-- Desktop Menuing System -->
-	<script type="text/javascript" async="" defer="" src="//mediadesigngroup.measur.eu/js/tracker.php"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script src="/js/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
+	<script type="text/javascript" async="" defer="" src="//mediadesigngroup.measur.eu/js/tracker.php"></script><script async="" src="//c.conversionlogic.net/sp.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script src="/js/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
 
 	<script src="/js/megamenu/jkmegamenu.js" type="text/javascript"></script>
 	<script type="text/javascript">
@@ -85,14 +85,37 @@
 
 <script type="text/javascript">
 var __lc = {};
+var LC_API = LC_API || {};
 __lc.license = 2917902;
-__lc.group = 5; 
-
+__lc.group = 5;
+ 
 (function() {
-	var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
-	lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
-	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
-})();
+        var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+        lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);	
+        LC_API.on_chat_started = function(data)
+                {
+					;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalConversionLogicNamespace=p.GlobalConversionLogicNamespace||[];
+p.GlobalConversionLogicNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+};p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
+n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,"script","//c.conversionlogic.net/sp.js","conversionlogic"));
+window.conversionlogic('newTracker', 'cf', 'c.conversionlogic.net', {
+  						advertiserId: 'trinet',
+  						advertiserCookieDomain: 'trinet.com'
+					});
+					var visitor_id = LC_API.get_visitor_id();
+					window.conversionlogic('trackPageView', null, 
+						[{schema: "iglu:net.conversionlogic.schemas/EventContext/jsonschema/1-0-0",
+      						data: { channel: 'web', action: 'conversion',
+          						advertiserProduct: 'trinet',
+          						conversionType: 'Chat',
+ 								conversionID: visitor_id
+      						}
+  						}]
+					);
+                };
+        }
+)();
 </script>
 
 
@@ -126,22 +149,54 @@ function loadpixel(pixelID)
 </script>
 <!-- Google Analytics End -->
 
-<!-- Start Visual Website Optimizer Asynchronous Code -->
+
+<!-- BEGIN Conversion Logic Site Tag (v0.1.0) -->
 <script type="text/javascript">
-var _vwo_code=(function(){
-var account_id=156428,
-settings_tolerance=2000,
-library_tolerance=2500,
-use_existing_jquery=false,
-// DO NOT EDIT BELOW THIS LINE
-f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
-</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=156428&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20151221135947id_%2Fhttp%253A%2F%2Fwww.trinet.com%2Fcompany%2Fterms.htm&amp;r=0.10382280666168842" type="text/javascript"></script>
-<!-- End Visual Website Optimizer Asynchronous Code -->
+;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalConversionLogicNamespace=p.GlobalConversionLogicNamespace||[];
+p.GlobalConversionLogicNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+};p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
+n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,"script","//c.conversionlogic.net/sp.js","conversionlogic"));
+window.conversionlogic('newTracker', 'cf', 'c.conversionlogic.net', {
+advertiserId: 'trinet',
+advertiserCookieDomain: 'trinet.com'
+});
+window.conversionlogic('trackPageView', null,
+[{schema: "iglu:net.conversionlogic.schemas/EventContext/jsonschema/1-0-0", 
+data: { channel: 'web', action: 'view',
+advertiserProduct: 'trinet'		
+}
+}]
+);
+</script>
+<!-- END Conversion Logic Tag -->
+
+<!-- BEGIN Conversion Logic Conversion Tracking Tag (v0.1.0) -->
+<script type="text/javascript">
+;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalConversionLogicNamespace=p.GlobalConversionLogicNamespace||[];
+p.GlobalConversionLogicNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+};p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
+n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,"script","//c.conversionlogic.net/sp.js","conversionlogic"));
+window.conversionlogic('newTracker', 'cf', 'c.conversionlogic.net', {
+advertiserId: 'trinet',
+advertiserCookieDomain: 'trinet.com'
+});
+window.conversionlogic('trackPageView', null,
+[{schema: "iglu:net.conversionlogic.schemas/EventContext/jsonschema/1-0-0",
+data: { channel: 'web', action: 'conversion',
+advertiserProduct: 'trinet',
+conversionType: 'visit'
+}
+}]
+);
+</script>
+<!-- END Conversion Logic Tag -->
+
+
 <!-- End Javascripts: Standard -->
 
 <!-- Javascripts: Custom -->
 <!-- End Javascripts: Custom -->
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+</head>
 <body>
 <div id="container">
 <!--- Slider Code -->
@@ -198,7 +253,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 		</div>
 		</li>
 		<li>
-<p class="ldm_mobile_hide_me"> <a href="http://zingaya.com/widget/b71f842376688f9556a15ad9b502a0ea" onclick="typeof(ga)=='undefined'?'':ga('send', 'event', 'Zingaya', 'ButtonClick');typeof(_gat)=='undefined'?'':_gat._getTrackerByName()._setAllowLinker(true); window.open(typeof(_gat)=='undefined'?this.href+'?referrer='+escape(window.location.href)+'':_gat._getTrackerByName()._getLinkerUrl(this.href+'?referrer='+escape(window.location.href)+''), '_blank', 'width=236,height=220,resizable=no,toolbar=no,menubar=no,location=no,status=no'); return false"><strong>888.874.6388</strong></a></p>
+<p class="ldm_mobile_hide_me"> <a href="http://zingaya.com/widget/b71f842376688f9556a15ad9b502a0ea" onclick="ga('send', 'event', { eventCategory: 'Link', eventAction: 'Click', eventLabel: 'Homepage 1-800#'});window.open(typeof(_gat)=='undefined'?this.href+'?referrer='+escape(window.location.href)+'':_gat._getTrackerByName()._getLinkerUrl(this.href+'?referrer='+escape(window.location.href)+''), '_blank', 'width=236,height=220,resizable=no,toolbar=no,menubar=no,location=no,status=no'); return false"><strong>888.874.6388</strong></a></p>
 		</li><li><a href="http://investor.trinet.com">Investor Relations</a></li>
         <li><a href="/company/careers/default.htm">Careers</a></li>
 		<li><a href="/company/referrals/default.htm">Referrals</a></li>
@@ -416,8 +471,8 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 
 <div id="footer">
 	<div class="section-footer">
-		<div class="left"><p>© 2009–2015 TriNet Group, Inc. All rights reserved. <a href="/company/terms.htm">Terms of Use and Privacy Policy</a> | <a href="/site_map.htm">Site Map</a></p></div>
-		  <div class="right"><p class="ldm_mobile_hide_me"> <a href="http://zingaya.com/widget/b71f842376688f9556a15ad9b502a0ea" onclick="typeof(ga)=='undefined'?'':ga('send', 'event', 'Zingaya', 'ButtonClick');typeof(_gat)=='undefined'?'':_gat._getTrackerByName()._setAllowLinker(true); window.open(typeof(_gat)=='undefined'?this.href+'?referrer='+escape(window.location.href)+'':_gat._getTrackerByName()._getLinkerUrl(this.href+'?referrer='+escape(window.location.href)+''), '_blank', 'width=236,height=220,resizable=no,toolbar=no,menubar=no,location=no,status=no'); return false"><img src="/img/site/common/icon_phone2.png" align="top" style="padding:0 4px 0 20px; margin-top:-1px;" alt="Contact TriNet">Click to Call 888.874.6388</a></p><p class="ldm_mobile_hide_on_desktop"><img src="/img/site/common/icon_phone_orange.png" align="absmiddle" style="padding-left:20px;"> <a href="tel:+18888746388" style="text-decoration:underline">888.874.6388</a></p></div>
+		<div class="left"><p>© 2009–2016 TriNet Group, Inc. All rights reserved. <a href="/company/terms.htm">Terms of Use and Privacy Policy</a> | <a href="/site_map.htm">Site Map</a></p></div>
+		  <div class="right"><p class="ldm_mobile_hide_me"> <a href="http://zingaya.com/widget/b71f842376688f9556a15ad9b502a0ea" onclick="ga('send', 'event', { eventCategory: 'Link', eventAction: 'Click', eventLabel: 'Homepage 1-800#'});window.open(typeof(_gat)=='undefined'?this.href+'?referrer='+escape(window.location.href)+'':_gat._getTrackerByName()._getLinkerUrl(this.href+'?referrer='+escape(window.location.href)+''), '_blank', 'width=236,height=220,resizable=no,toolbar=no,menubar=no,location=no,status=no'); return false"><img src="/img/site/common/icon_phone2.png" align="top" style="padding:0 4px 0 20px; margin-top:-1px;" alt="Contact TriNet">Click to Call 888.874.6388</a></p><p class="ldm_mobile_hide_on_desktop"><img src="/img/site/common/icon_phone_orange.png" align="absmiddle" style="padding-left:20px;"> <a href="tel:+18888746388" style="text-decoration:underline">888.874.6388</a></p></div>
 	</div>
 </div>
 
@@ -447,43 +502,6 @@ var google_remarketing_only = true;
 </noscript>
 
 
-<!-- START Default Insight Tag -->
-<script type="text/javascript">
-  var _bizo_data_partner_id = "1630";
-</script>
-<script type="text/javascript">
-  var _bizo_p = (("https:" == document.location.protocol) ? "https://sjs." : "http://js.");
-  document.write(unescape("%3Cscript src='" + _bizo_p + "bizographics.com/convert_data.js?partner_id=" + _bizo_data_partner_id + "' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://sjs.bizographics.com/convert_data.js?partner_id=1630" type="text/javascript"></script>
-<noscript>
-  <img height="1" width="1" alt="" style="display:none;" src="http://www.bizographics.com/collect/?pid=1630&fmt=gif" />
-</noscript>
-<!-- END Default Insight Tag -->
-
-<!-- ELOQUA Tracking Scripts -->
-<script type="text/javascript" language="JavaScript" src="http://www.trinet.com/elqNow/elqCfg.js"></script>
-<script type="text/javascript" language="JavaScript" src="http://www.trinet.com/elqNow/elqImg.js"></script>
-<!-- End ELOQUA Tracking Scripts -->
-
-<!-- Start of Smart Pixel Code  -->
-<script type="text/javascript">
-adroll_adv_id = "OSDH53RP7NH5NCSOVLZKQA";
-adroll_pix_id = "W3OSXKSNZ5AGJMXLDANDEH";
-(function () {
-var oldonload = window.onload;
-window.onload = function(){
-   __adroll_loaded=true;
-   var scr = document.createElement("script");
-   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-   scr.setAttribute('async', 'true');
-   scr.type = "text/javascript";
-   scr.src = host + "/j/roundtrip.js";
-   ((document.getElementsByTagName('head') || [null])[0] ||
-    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-   if(oldonload){oldonload()}};
-}());
-</script>
-<!-- End of Smart Pixel Code  -->
 
 <!-- Piwik -->
 <script type="text/javascript">
@@ -553,8 +571,7 @@ window.onload = function(){
 			<ul>
 				<li><a href="/products/software/hire.htm">Hire</a></li>
             </ul>
-			</div>	
-			
+			</div>		
 		<div class="column" style="width:70px">
          	<ul>
 				<li><a href="/products/software/learn.htm">Learn</a></li>
@@ -609,6 +626,8 @@ window.onload = function(){
 			  <li><a href="/services/strategic/career_transition.htm" class="on">Career Transitions</a></li>
 			  <li><a href="/services/strategic/comp_consulting.htm" class="on">Compensation Consulting</a></li>
 			  <li><a href="/services/strategic/ethics_program.htm" class="on">Corporate Ethics Program</a></li>
+			  <li><a href="/services/strategic/employee_engagement_survey.htm">Employee Engagement Survey</a></li>
+			  <li><a href="/services/strategic/international_services.htm">International Services</a></li>
 			  <li><a href="/services/strategic/leadership_training.htm" class="on">Leadership Training</a></li>
 			  <li><a href="/services/strategic/talent_acquisition.htm" class="on">Talent Acquisition</a></li>
 			  <li><a href="/services/strategic/team_accelerator.htm" class="on">Team Accelerator</a></li>
@@ -630,7 +649,7 @@ window.onload = function(){
           </div>
 		    <div class="column" style="width:200px">
             <ul>
-				<li><a href="/industries/passport/non_profits.htm">Not-for-Profit</a></li>
+				<li><a href="/industries/non_profit.htm">Not-for-Profit</a></li>
 				<li><a href="/industries/passport/professional_services.htm">Professional Services</a></li>
 				<li><a href="/industries/general/real_estate.htm">Real Estate</a></li>
 				<li><a href="/industries/soi/restaurants.htm">Restaurants</a></li>
@@ -678,8 +697,11 @@ window.onload = function(){
               <li><a href="https://access.accordhr.com/login" target="_blank" onclick="ga('send', 'event', { eventCategory: 'Login', eventAction: 'Click', eventLabel: 'TriNet Accord Login'});">TriNet Accord</a></li>
 			  <li><a href="https://login.trinet.com" target="_blank" onclick="ga('send', 'event', { eventCategory: 'Login', eventAction: 'Click', eventLabel: 'TriNet Ambrose Login'});">TriNet Ambrose</a></li>
 			  <li><a href="https://app.trinetexpense.com/users/login" target="_blank" onclick="ga('send', 'event', { eventCategory: 'Login', eventAction: 'Click', eventLabel: 'TriNet Expense Login'});">TriNet Expense</a></li>
-			  <li><a href="https://login.trinet.com" target="_blank" onclick="ga('send', 'event', { eventCategory: 'Login', eventAction: 'Click', eventLabel: 'TriNet Life Sciences Login'});">TriNet Life Sciences</a></li>			  
+			  <li><a href="https://app.trinethire.com/users/sign_in" target="_blank" onclick="ga('send', 'event', { eventCategory: 'Login', eventAction: 'Click', eventLabel: 'TriNet Hire Login'});">TriNet Hire</a></li>
+			  <li><a href="https://login.trinet.com" target="_blank" onclick="ga('send', 'event', { eventCategory: 'Login', eventAction: 'Click', eventLabel: 'TriNet Life Sciences Login'});">TriNet Life Sciences</a></li>
+			  <li><a href="https://login.trinet.com" target="_blank" onclick="ga('send', 'event', { eventCategory: 'Login', eventAction: 'Click', eventLabel: 'TriNet Not-for-Profit Login'});">TriNet Not-for-Profit</a></li>			  
 			  <li><a href="https://login.trinet.com" target="_blank" onclick="ga('send', 'event', { eventCategory: 'Login', eventAction: 'Click', eventLabel: 'TriNet Passport Login'}); window.adroll_segments = 'clientlogin'; __adroll.render_pixel_code(adroll_adv_id, adroll_pix_id);">TriNet Passport</a></li>
+			  <li><a href="https://app.trinetperform.com/users/login" target="_blank" onclick="ga('send', 'event', { eventCategory: 'Login', eventAction: 'Click', eventLabel: 'TriNet Perform Login'});">TriNet Perform</a></li>
 			  <li><a href="https://soiportal.soi.com/PortalRegistration/pages/login.jsf" target="_blank" onclick="ga('send', 'event', { eventCategory: 'Login', eventAction: 'Click', eventLabel: 'TriNet SOI Login'});">TriNet SOI</a></li>
             </ul>
           </div>
